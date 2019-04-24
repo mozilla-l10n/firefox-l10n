@@ -29,3 +29,4 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = ကောင်းပြီ၊ ရပါပြီ။
     .buttonaccesskey = O
 appmenu-addon-post-install-message = <image data-l10n-name='addon-menu-icon'></image> စာရင်းထဲရှိ <image data-l10n-name='addon-install-icon'></image> ကို နှိပ်ပြီး အတ်အွန်များကို စီမံပါ။
+appmenu-addon-private-browsing-learn-more = တိုးချဲ့ ချမှတ်မှုများကို စီမံပုံကို လေ့လာပါ

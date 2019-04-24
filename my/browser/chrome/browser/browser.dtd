@@ -21,8 +21,6 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "တပ်ဗ်ကို ပြန်ဖွင့်ရန်">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "တပ်ဗ်အားလုံးကို ပြန်ဖွင့်ရန်">
-<!ENTITY  reloadAllTabs.accesskey            "A">
 <!ENTITY  selectAllTabs.label                "တက်ဘ်များအားလုံး ရွေးပါ">
 <!ENTITY  selectAllTabs.accesskey            "S">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
@@ -31,7 +29,6 @@ a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "D">
-<!ENTITY  closeTabOptions.accesskey          "O">
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTabs.label                "တက်ဘ်များ ထပ်နေသည်">
@@ -46,9 +43,6 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "အခြားတပ်ဗ်များကို ပိတ်ရန်">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
-<!ENTITY  closeSelectedTabs.label            "ရွေးထားသည့်တပ်ဗ်များကိုပိတ်ပါ">
-<!ENTITY  closeSelectedTabs.accesskey        "S">
-
 <!ENTITY  closeTabs.label                    "တက်ဘ်များ ပိတ်ပါ">
 <!ENTITY  pinSelectedTabs.label              "တပ်ဗ်များကို တွယ်ချိတ်ရန်">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
@@ -60,10 +54,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "b">
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadSelectedTabs.label           "ရွေးထားသည့်တပ်ဗ်များကို ပြန်ဖွင့်ရန်">
-<!ENTITY  reloadSelectedTabs.accesskey       "R">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.accesskey               "R">
@@ -71,6 +61,8 @@ but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "k">
+
+<!-- Tab context menu -->
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -87,8 +79,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  sendTabToDevice.label              "တပ်ဗ်ကို ကိရိယာသို့ ပို့ပါ">
-<!ENTITY  sendTabToDevice.accesskey          "D">
 <!ENTITY  sendPageToDevice.label             "စာမျက်နှာကို ကိရိယာသို့ ပို့ပါ">
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "လင့်ခ်ကို ကိရိယာသို့ ပို့ပါ">
@@ -104,8 +94,6 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToNewWindow.label              "ဝင်းဒိုးအသစ်ဆီသို့ ရွှေ့ပါ">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  reopenInContainer.accesskey        "e">
-<!ENTITY  bookmarkAllTabs.label              "တပ်ဗ်အားလုံးကို မှတ်သားပါ…">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkTab.accesskey              "B">
@@ -116,6 +104,8 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "ဝှက်ထားသော တပ်ဗ်များ">
 
 <!ENTITY  listAllTabs.label      "တပ်ဗ်များအားလုံး၏ စာရင်းကို ပြပါ">
+<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
+in "Search through tabs". -->
 
 <!ENTITY tabCmd.label "တပ်ဗ်အသစ်">
 <!ENTITY tabCmd.accesskey "T">
@@ -136,6 +126,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.commandkey "p">
 
 
+
 <!ENTITY goOfflineCmd.label "ချိတ်ဆက်မဲ့သုံးရန်">
 <!ENTITY goOfflineCmd.accesskey "k">
 
@@ -145,11 +136,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "စာမှတ်များကိရိယာအတန်း">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "စာမှတ်များကိရိယာအတန်းရှိ အရာများ">
-
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "တပ်ဗ်အားလုံးကို ပြန်ဖွင့်ရန်">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "တပ်ဗ်အားလုံးကို မှတ်သားပါ…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
@@ -217,6 +203,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "မျက်နှာပြင်အပြည့်ကြည့်ခြင်းမှ ထွက်ရန်">
 <!ENTITY fullScreenExit.accesskey "F">
 
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -233,6 +229,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "မြင်ကွင်းအပြည့် ကြည့်ရှုခြင်းမှ ထွက်ရန် (ESC) ခလုတ် ကိုနိုပ်ပါ။">
 <!ENTITY leaveDOMFullScreen.label "မျက်နှာပြင်အပြည့်ကြည့်ခြင်းမှ ထွက်ရန်">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
+     these two strings are used when right-clicking on a video in the
+     content area when the Picture-in-Picture feature is enabled. -->
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -251,9 +251,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "ဒီစာမျက်နှာကို မှတ်သားပါ">
 <!ENTITY editThisBookmarkCmd.label "ဒီစာမှတ်ကို ပြင်ဆင်မည်">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-<!ENTITY subscribeToPageMenupopup.label "ဒီစာမျက်နှာမှ ပုံမှန်သတင်း ရယူရန်">
-<!ENTITY subscribeToPageMenuitem.label "ဒီစာမျက်နှာမှာ စာရင်းသွင်းပါ...">
 
 <!ENTITY addCurPagesCmd.label "တပ်ဗ်အားလုံးကို မှတ်သားပါ...">
 <!ENTITY showAllBookmarks2.label "မှတ်သားချက်များအားလုံးကို ပြသပါ">
@@ -366,8 +363,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "ဝဘ်ဆိုက် ဖန်တီးသူ">
 <!ENTITY webDeveloperMenu.accesskey   "ဝ">
 
-<!ENTITY devtoolsSaveRecording.label "သွင်းယူထားမှု သိမ်းပါ">
-
 <!ENTITY inspectContextMenu.label     "အစိတ်အပိုင်းကို လေ့လာရန်">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
@@ -410,6 +405,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "နှစ်သက်ရာအပြင်အဆင်များ">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
+
 
 <!ENTITY clearRecentHistory.label               "လတ်တလောမှတ်တမ်းကို ရှင်းမည်…">
 
@@ -495,7 +491,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "တိုးချဲ့ကိရိယာများကို စီမံရန်">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
-
 <!ENTITY customizeMenu.removeExtension.label "တိုးချဲ့မှု ပယ်ဖျက်ပါ">
 <!ENTITY customizeMenu.removeExtension.accesskey "v">
 
@@ -636,6 +631,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "ဒီဘောင်ကို မှတ်သားပါ">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY pageAction.copyLink.label    "လင့်ခ်ကို ကူးယူရန်">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
+
 <!ENTITY emailPageCmd.label           "လင့်ခ်ကို အီးမေးလ်ပို့ရန်…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "စာမျက်နှာကို သိမ်းမည်…">
@@ -872,6 +871,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "ယခုဆိုက်တွင် သင့်အတွက် မည်သည့် အထူးခွင့်ပြုချက်များ သက်မှတ်ပေးထားခြင်းမရှိပါ။">
 <!ENTITY identity.permissionsReloadHint "ပြောင်းလဲထားသည့် အပြင်အဆင်များ သက်ရောက်မှုရှိစေရန်အတွက် ယခုစာမျက်နှာကို ပြန်လည်ခေါ်ယူရန် လိုအပ်ကောင်း လိုအပ်နိုင်ပါသည်။">
 
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "ဘရောက်ဆာတပ်ဗ်များ">
@@ -971,75 +971,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "သင့်စကရင်ပေါ်ရှိ မြင်ရသော ဝင်းဒိုးအားလုံး မျှဝေပေးမည်။">
 
 
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Slow-Loading Trackers [are] Blocked"-->
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
-     "Firefox is blocking Slow-Loading Trackers"-->
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
 
 
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
-     This label signals that this type of content blocking is turned
-     OFF and is not blocking tracker content, so this is not
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Allowed"-->
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking tracker content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Blocked"-->
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Trackers"-->
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackersView.label "ခြေရာခံမှုများ">
 
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking third-party cookies, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Third-Party Cookies [are] Blocked"-->
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Third-Party Cookies"-->
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.cookies.label "ကွတ်ကီးများ">
 
 
 
-
-<!ENTITY trackingProtection.title "ခြေရာခံခြင်း ကာကွယ်မှု">
-<!ENTITY trackingProtection.tooltip "ခြေရာခံ ကာကွယ်မှုအပြင်အဆင်များကို ဖွင့်ပါ">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock4.accesskey "D">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY contentBlocking.openBreakageReportView2.label "ပြဿနာကို တိုင်ကြားရန်">
+<!ENTITY contentBlocking.breakageReportView.label "ပြဿနာကို တိုင်ကြားရန်">
+<!ENTITY contentBlocking.breakageReportView.learnMore "ပိုမိုလေ့လာရန်">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "ပယ်​ဖျက်ပါ">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "ဤဆိုက်အတွက် ပိတ်ပင်ခြင်းကို ဖြုတ်ပါ">
 <!ENTITY trackingProtection.unblock5.accesskey "T">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "ယာယီပိတ်ပင်မှုကို ပိတ်ပါ">
 <!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
 <!ENTITY trackingProtection.block6.label "ဒီဆိုက်အတွက် ပိတ်ဆို့ခြင်း ဖွင့်ပါ">
 <!ENTITY trackingProtection.block6.accesskey "T">
@@ -1048,11 +1002,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginNotification.showAll.label "အားလုံးကို ပြပါ">
 <!ENTITY pluginNotification.showAll.accesskey "S">
-
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "ယခုခွင့်ပြုလိုက်မယ်">
-<!ENTITY pluginActivateAlways.label "ခွင့်ပြုပြီး ခွင့်ပြုချက်ကို မှတ်ထားမယ်">
-<!ENTITY pluginBlockNow.label "ထပ်ပေါင်းဆော့ဝဲ အားပိတ်">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -1098,6 +1047,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "ယခု မဆောင်ရွက်သေးပါ">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
+
 <!ENTITY updateAvailable.panelUI.label "နောက်ဆုံးပေါ် &brandShorterName; ကို ဆွဲယူပါ">
 
 <!ENTITY updateManual.message "အသစ်စက်စက် &brandShorterName; ကို ဆွဲယူပြီး တပ်ဆင်ရာတွင် ကူညီလမ်းညွှန်ပါမည်။">
@@ -1138,11 +1088,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "စာမျက်နှာရှိ ဆောင်ရွက်နိုင်သည်များ">
 <!ENTITY pageAction.addToUrlbar.label "လိပ်စာဘားတန်းသို့ ထည့်ပါ">
 <!ENTITY pageAction.removeFromUrlbar.label "လိပ်စာဘားတန်းမှ ဖယ်ရှားပါ">
-<!ENTITY pageAction.allowInUrlbar.label "လိပ်စာဘားတန်းတွင် ပြသပါ">
-<!ENTITY pageAction.disallowInUrlbar.label "လိပ်စာဘားတန်းတွင် မပြပါနှင့်">
 <!ENTITY pageAction.manageExtension.label "ပေါင်းထည့်ကိရိယာကို စီမံရန်…">
-
-<!ENTITY pageAction.sendTabToDevice.label "တပ်ဗ်ကို ကိရိယာသို့ ပို့ပါ">
 
 <!ENTITY sendToDevice.syncNotReady.label "ကိရိယာများကို ထပ်တူပြုနေသည်…">
 
@@ -1161,3 +1107,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "<image class='addon-toolbar-icon'/> စာရင်းထဲရှိ <image class='addon-addon-icon'/> ကို နှိပ်ပြီး အတ်အွန်များကို စီမံပါ။">
+
