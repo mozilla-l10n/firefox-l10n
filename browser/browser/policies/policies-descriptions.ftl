@@ -69,6 +69,7 @@ policy-Preferences = Gosod a chloi gwerth is-set o ddewisiadau.
 policy-Proxy = Ffurfweddu gosodiadau eilydd
 policy-RequestedLocales = Gosodwch y rhestr o locales gofynnol ar gyfer y rhaglen yn ôl eich trefn dewis.
 policy-SanitizeOnShutdown = Clirio'r holl ddata llywio wrth adael
+policy-SanitizeOnShutdown2 = Clirio data llywio wrth gau.
 policy-SearchBar = Gosod y lleoliad ragosodedig y bar chwilio. Mae'r defnyddiwr dal yn cael ei gyfaddasu.
 policy-SearchEngines = Ffurfweddu gosodiadau peiriannau chwilio. Dim ond yn y fersiwn Extended Support Release (ESR) ma'r polisi hwn ar gael.
 policy-SearchSuggestEnabled = Galluogi neu analluogi awgrymiadau chwilio.
