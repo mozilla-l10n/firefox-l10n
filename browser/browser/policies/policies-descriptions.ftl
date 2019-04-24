@@ -69,6 +69,7 @@ policy-Preferences = De wearde foar in subset fan foarkarren ynstelle en beskoat
 policy-Proxy = Proxyynstellingen konfigurearje.
 policy-RequestedLocales = De list fan frege locales foar de tapassing ynstelle, op folchoarder fan foarkar.
 policy-SanitizeOnShutdown = Alle navigaasjegegevens wiskje by ôfsluten.
+policy-SanitizeOnShutdown2 = Navigaasjegegevens wiskje by ôfsluten.
 policy-SearchBar = De standertlokaasje fan de sykbalke ynstelle. De brûker mei dizze noch hieltyd oanpasse.
 policy-SearchEngines = Ynstellingen foar sykmasinen konfigurearje. Dizze beliedsregel is allinnich beskikber yn de Extended Support Release (ESR)-ferzje.
 policy-SearchSuggestEnabled = Syksuggestjes ynskeakelje of útskeakelje.

@@ -8,6 +8,7 @@ profiles-create = In nij profyl oanmeitsje
 profiles-restart-title = Opnij starte
 profiles-restart-in-safe-mode = Opnij starte mei útskeakele add-ons…
 profiles-restart-normal = Normaal starte…
+profiles-conflict = In oar eksimplaar fan { -brand-product-name } hat wizigingen yn profilen oanbrocht. Jo moatte { -brand-short-name } opnij starte, eardat jo mear wizigingen oanbringe.
 profiles-flush-fail-title = Wizigingen net bewarre
 profiles-flush-conflict = { profiles-conflict }
 profiles-flush-failed = Troch in ûnferwachte flater binne jo wizigingen net bewarre.
