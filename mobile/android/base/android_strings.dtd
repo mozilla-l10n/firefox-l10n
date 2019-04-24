@@ -63,6 +63,12 @@
 <!ENTITY  crash_restart_label "Genstart &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Indtast søgeord eller adresse">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "Søg på nettet">
+<!ENTITY search_widget_default_cropped_text "Søg">
+<!ENTITY search_widget_logo_description "Søg på nettet med &brandShortName;">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -290,12 +296,6 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Læs mere om brug af &brandShortName; og andre produkter fra &vendorShortName;">
-
-<!-- Localization note (pref_feature_tips_notification_enabling_hint):
-     Describe the action the user should do to enable this preference
-     Will be used in the context "<Turn on> ... to enable this feature" -->
-<!ENTITY pref_feature_tips_notification_enabling_hint "Aktiver">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
@@ -341,6 +341,9 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Åbn indstillingerne">
+<!-- Localization note (tab_queue_notification_prompt): This is the text of the default notification
+shown from Android O while a tab is being queued.-->
+<!ENTITY tab_queue_notification_prompt "Tilføjer ny fane til køen&#8230;">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -399,7 +402,6 @@
 <!ENTITY pref_private_data_searchHistory "Søgehistorik">
 <!ENTITY pref_private_data_formdata2 "Formularhistorik">
 <!ENTITY pref_private_data_cookies2 "Cookies og aktive logins">
-<!ENTITY pref_private_data_passwords2 "Gemte logins">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Offline webstedsdata">
 <!ENTITY pref_private_data_siteSettings2 "Webstedsindstillinger">
@@ -847,8 +849,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; er blevet opdateret">
 <!ENTITY whatsnew_notification_summary "Læs om nyhederne i denne version">
 
-<!ENTITY promotion_add_page_shortcut "Tilføj genvej til side">
-
 <!ENTITY helper_first_offline_bookmark_title "Læs offline">
 <!ENTITY helper_first_offline_bookmark_message "Find ting fra din læseliste i bogmærkerne, også når du er offline.">
 <!ENTITY helper_first_offline_bookmark_button "Åbn bogmærker">
@@ -907,15 +907,9 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_description "Sæt afspilning på pause">
 
 <!-- Notification channels names -->
-<!ENTITY default_notification_channel "&brandShortName;">
-
-<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Browser">
 <!ENTITY mls_notification_channel "&vendorShortName;s positionstjeneste">
 <!ENTITY download_notification_channel "Hentede filer">
-<!ENTITY media_notification_channel "Medieafspilning">
-<!-- These push notifications come without a specific channel and/or name from Leanplum -->
-<!ENTITY leanplum_default_notifications_channel "&brandShortName;\&apos; push-meddelelser">
 <!ENTITY media_notification_channel2 "Lyd og video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; tips og tricks">
