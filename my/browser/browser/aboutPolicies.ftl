@@ -7,13 +7,7 @@ about-policies-title = အင်တာပရိုက်(စ်)ဆိုင်�
 active-policies-tab = တည်ဆဲ
 errors-tab = အမှားများ
 documentation-tab = မှတ်တမ်းမှတ်ရာ
+inactive-message = အဆိုပါလုပ်ငန်းမူဝါဒများဝန်ဆောင်မှုအလုပ်မလုပ်ပါ
 policy-name = မူဝါဒအမည်
 policy-value = မူဝါဒဆိုင်ရာ တန်ဖိုး
 policy-errors = မူဝါဒဆိုင်ရာ အားနည်းချက်များ
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = Group Policy ကို အသုံးပြုပါက ထိုမူဝါဒကို ကွန်ပျူတာရှိ သုံးစွဲသူဆိုင်ရာ အဆင့်အားဖြင့် သတ်မှတ်သည်။
