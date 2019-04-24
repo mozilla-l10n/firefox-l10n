@@ -69,6 +69,7 @@ policy-Preferences = Ustawienie i zablokowanie wartości dla podzbioru preferen
 policy-Proxy = Konfiguracja ustawień proxy.
 policy-RequestedLocales = Ustawienie listy żądanych języków dla programu w preferowanej kolejności.
 policy-SanitizeOnShutdown = Usuwanie wszystkich danych nawigacji podczas wyłączania.
+policy-SanitizeOnShutdown2 = Usuwanie danych nawigacji podczas wyłączania.
 policy-SearchBar = Ustawienie domyślnego położenia paska wyszukiwania. Użytkownik nadal może go konfigurować.
 policy-SearchEngines = Konfiguracja ustawień wyszukiwarki. Ta zasada jest dostępna tylko w wersji ESR (Extended Support Release).
 policy-SearchSuggestEnabled = Włączenie lub wyłączenie podpowiedzi wyszukiwania.
