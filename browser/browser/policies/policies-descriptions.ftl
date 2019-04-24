@@ -69,6 +69,7 @@ policy-Preferences = Definir e bloquear o valor para um subconjunto de preferên
 policy-Proxy = Configurar definições proxy.
 policy-RequestedLocales = Definir a lista de idiomas solicitados para a aplicação por ordem de preferência.
 policy-SanitizeOnShutdown = Limpar todos os dados de navegação ao desligar.
+policy-SanitizeOnShutdown2 = Limpar dados de navegação ao desligar.
 policy-SearchBar = Definir a localização predefinida da barra de pesquisa. O utilizador ainda tem permissão para a personalizar.
 policy-SearchEngines = Configurar as definições de motor de pesquisa. Esta política é apenas disponível na versão Extended Support Release (ESR).
 policy-SearchSuggestEnabled = Ativar ou desativar sugestões de pesquisa.
