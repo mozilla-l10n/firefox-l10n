@@ -8,6 +8,7 @@ profiles-create = Een nieuw profiel aanmaken
 profiles-restart-title = Herstarten
 profiles-restart-in-safe-mode = Herstarten met uitgeschakelde add-ons…
 profiles-restart-normal = Normaal herstarten…
+profiles-conflict = Een ander exemplaar van { -brand-product-name } heeft wijzigingen in profielen aangebracht. U moet { -brand-short-name } opnieuw starten, voordat u meer wijzigingen aanbrengt.
 profiles-flush-fail-title = Wijzigingen niet opgeslagen
 profiles-flush-conflict = { profiles-conflict }
 profiles-flush-failed = Door een onverwachte fout zijn uw wijzigingen niet opgeslagen.
