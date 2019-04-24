@@ -86,21 +86,21 @@
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "Tsa inkai nu markador">
 <!ENTITY bookmark_removed "Stoo marka">
-<!ENTITY bookmark_updated "Inkàa va´a marcador ">
+<!ENTITY bookmark_updated "Inkàa va\&apos;a markador">
 <!ENTITY bookmark_options "Nduku">
 <!ENTITY bookmark_save "Chika vaà">
-<!ENTITY screenshot_added_to_bookmarks "Inka vaa pantalla ntatavu nu marcadores">
+<!ENTITY screenshot_added_to_bookmarks "Inka vaa pantalla ntatavu nu markadores">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
-<!ENTITY screenshot_folder_label_in_bookmarks "Nta\&apos;tava ">
+<!ENTITY screenshot_folder_label_in_bookmarks "Ndatava">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Kavii lista ">
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
-<!ENTITY bookmark_folder_items "&formatD; pestañas">
+<!ENTITY bookmark_folder_items "&formatD; xikua">
 <!ENTITY bookmark_folder_one_item "1 item">
-<!ENTITY bookmark_folder_updated "Ntu tsaa tutu">
+<!ENTITY bookmark_folder_updated "Ndutsaa tutu">
 <!ENTITY bookmark_parent_folder "Nu chikavau tutu">
 <!ENTITY bookmark_add_folder "Chikaa tutu tsaa">
 
@@ -118,19 +118,19 @@
 <!ENTITY search "Nduku">
 <!ENTITY reload "Kitsa tuku">
 <!ENTITY forward "Inka">
-<!ENTITY menu "N\&apos;da tuku">
+<!ENTITY menu "Ndaduku">
 <!ENTITY back "Satàa">
 <!ENTITY stop "Tsikui\&apos;n">
 <!ENTITY site_security "Kuu kivu sitio yoo">
 <!ENTITY edit_mode_cancel "Kunchatu">
 
 <!ENTITY close_tab "Ndakasi pestaña">
-<!ENTITY one_tab "1 pestaña">
+<!ENTITY one_tab "1 xikua">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; pestañas">
-<!ENTITY new_tab_opened "Ntu tsa\&apos;a pestaña nuna">
-<!ENTITY new_private_tab_opened "Tsa\&apos;a pestaña ña meu nuna">
+<!ENTITY new_tab_opened "Ntutsa\&apos;a xikua nuna">
+<!ENTITY new_private_tab_opened "Xikua tsa\&apos;a nuna">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
@@ -144,16 +144,16 @@
      the content description. -->
 <!ENTITY tab_title_prefix_is_playing_audio "Kuchàa so\&apos;o ndusu – &formatS;">
 
-<!ENTITY settings "N\&apos;da sama nti\&apos;i">
-<!ENTITY settings_title "N\&apos;da sama nti\&apos;i">
+<!ENTITY settings "Sama nti\&apos;i">
+<!ENTITY settings_title "Sama nti\&apos;i">
 <!ENTITY pref_category_general "Ntií">
-<!ENTITY pref_category_general_summary3 "Kitsa,tu\&apos;un, sata etiqueta">
+<!ENTITY pref_category_general_summary3 "Kitsa, tu\&apos;un, sata xikua">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Tu\&apos;un">
-<!ENTITY pref_category_language_summary "Nda sama tu\&apos;un navegador">
+<!ENTITY pref_category_language_summary "Sama tu\&apos;un navegador">
 <!ENTITY pref_browser_locale "Tu\&apos;un navegador">
 
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -164,44 +164,44 @@
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
-<!ENTITY overlay_share_label "Nta sàa &brandShortName;">
+<!ENTITY overlay_share_label "Chika nu &brandShortName;">
 
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Marka">
 <!ENTITY overlay_share_bookmark_btn_label_already "Tsa inkai nu markador">
-<!ENTITY overlay_share_send_other "Nda chu\&apos;in inka nuu">
+<!ENTITY overlay_share_send_other "Ndachu\&apos;in inka kaa ndusu">
 
-<!ENTITY overlay_share_open_browser_btn_label "kivi &brandShortName;">
+<!ENTITY overlay_share_open_browser_btn_label "Kuna nu &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-<!ENTITY overlay_share_send_tab_btn_label "Nda chu\&apos;in inka nuu">
+<!ENTITY overlay_share_send_tab_btn_label "Ndachu\&apos;in inka nuu kaa ndusu">
 <!ENTITY overlay_share_no_url "Kòo enlace yòo">
-<!ENTITY overlay_share_select_device "Katsi ña kunu">
+<!ENTITY overlay_share_select_device "Katsi iin kaa ndusu">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "Koo ña inkaa nu cuenta Firefox">
+<!ENTITY overlay_no_synced_devices "Koo Kuenta Firefox inka nu kaa nsudu">
 
-<!ENTITY pref_category_search3 "Nda tuku">
-<!ENTITY pref_category_search_summary2 "Chika´a, chikaa ña sa\&apos;an koo, sna\&apos;a sugerencias">
+<!ENTITY pref_category_search3 "Nduku">
+<!ENTITY pref_category_search_summary2 "Chika, chikaa ña sa\&apos;an koo, sna\&apos;a sugerencias">
 <!ENTITY pref_category_accessibility "Accesibilidad">
 <!ENTITY pref_category_accessibility_summary2 "Nixi kunu letra, nda saa kanu, nu kivi ndusu">
 <!ENTITY pref_category_privacy_short "Ña meu ">
-<!ENTITY pref_category_privacy_summary4 "Kunche\&apos;e, ki`tsaa, nixi koo datos">
+<!ENTITY pref_category_privacy_summary4 "Kunchee, kitsaa, nixi koo datos">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "tsa ña &brandShortName;, FAQs, feedback">
-<!ENTITY pref_category_datareporting "Kiin tutù">
+<!ENTITY pref_category_datareporting "Ki\&apos;in tutù">
 <!ENTITY pref_category_logins "Kivii">
 <!ENTITY pref_learn_more "Skua\&apos;a kuakaa">
-<!ENTITY pref_category_installed_search_engines "Ña nda ntuku in\&apos;caa">
-<!ENTITY pref_category_add_search_providers "Chika\&apos;a ña nda ntuku">
-<!ENTITY pref_category_search_restore_defaults "Ndu tsaa ña nda ntuku">
-<!ENTITY pref_search_restore_defaults "nda tsaa ta ni kitsai\&apos;i">
-<!ENTITY pref_search_restore_defaults_summary "nda tsaa ta ni kitsai\&apos;i">
+<!ENTITY pref_category_installed_search_engines "Nduku inkaa">
+<!ENTITY pref_category_add_search_providers "Chikaa ña nduku">
+<!ENTITY pref_category_search_restore_defaults "Ndutsaa ña nduku">
+<!ENTITY pref_search_restore_defaults "Ndutsaa ta ni kitsai">
+<!ENTITY pref_search_restore_defaults_summary "Ndutsaa ta ni kitsai">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
