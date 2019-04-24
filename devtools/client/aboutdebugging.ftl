@@ -293,3 +293,6 @@ about-debugging-main-process-name = Κύρια διεργασία
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-description2 = Κύρια διαδικασία για το πρόγραμμα περιήγησης προορισμού
+# Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon =
+    .alt = Κλείσιμο μηνύματος
