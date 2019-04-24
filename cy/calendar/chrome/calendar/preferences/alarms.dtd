@@ -12,13 +12,14 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "n">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Defnyddio'r sain rhagosodedig">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "s">
+<!ENTITY pref.calendar.alarms.sound.useCustom.label "Defnyddio'r ffeil sain ganlynol">
+<!ENTITY pref.calendar.alarms.sound.useCustom.accessKey "D">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Pori…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "P">
 <!ENTITY pref.calendar.alarms.sound.play.label "Chwarae">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "C">
 <!ENTITY pref.showalarmbox "Dangos y ddeialog atgoffa">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "d">
-<!ENTITY pref.missedalarms "Dangos negeseuon atgoffa a gollwyd">
 <!ENTITY pref.missedalarms2 "Dangos atgoffwyr wedi eu colli ar gyfer calendrau ysgrifenadwy">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "n">
 <!ENTITY pref.calendar.alarms.defaults.label "Rhagosodiadau Atgoffwyr">
