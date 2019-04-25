@@ -8,6 +8,7 @@ about-config-warning-text = تغيير القيم المبدئية لهذه ال
 about-config-warning-checkbox = أزعِجني بهذا المرة القادمة!
 about-config-warning-button = أقبل المخاطرة
 about-config-title = about:config
+about-config2-title = الإعدادات المتقدمة
 about-config-search-input =
     .placeholder = ابحث
 about-config-show-all = أظهر الكل

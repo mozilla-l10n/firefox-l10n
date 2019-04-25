@@ -535,6 +535,7 @@ sync-mobilepromo-single = أوصِل جهازا آخر
 sync-mobilepromo-multi = أدِر الأجهزة
 sync-connect-another-device = صِلْ جهازا آخر
 sync-manage-devices = أدِر الأجهزة
+sync-fxa-begin-pairing = اقرن أحد أجهزتك
 sync-tos-link = بنود الخدمة
 sync-fxa-privacy-notice = تنويه الخصوصية
 
@@ -662,6 +663,7 @@ addressbar-suggestions-settings = غيّر تفضيلات اقتراحات مح�
 
 content-blocking-header = حجب المحتوى
 content-blocking-description = احجب المحتوى من الأطراف الثالثة والذي يتعقّبك في أرجاء الوِب. تحكّم بمقدار نشاطك الشبكي الذي يُخزّن ويُشارك بين المواقع.
+content-blocking-section-description = احمِ خصوصيتك وأنت تتصفح الوِب بحجب المحتوى الذي يتعقّب المواقع التي تزورها دون أن تعلم، كما ويسجّلها باسمك. يمكنك بحجب جزء من هذا المحتوى تحميل الصفحات بسرعة أكبر.
 content-blocking-learn-more = اطّلع على المزيد
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -677,9 +679,12 @@ content-blocking-setting-custom =
 content-blocking-standard-description = احجب المتعقّبات المعروفة في النوافذ الخاصة فقط.
 content-blocking-standard-desc = الموازنة بين الحماية والأداء. يتيح عمل بعض المتعقّبات لتعمل المواقع كما ينبغي.
 content-blocking-strict-desc = يحجب كل المتعقّبات التي يكتشفها { -brand-short-name }. قد يتسبّب بعطب بعض المواقع.
+content-blocking-strict-description = حماية أقوى وأعتى، لكنها قد تعطب بعض المواقع.
 content-blocking-custom-desc = اختر ما تريد حجبه.
 content-blocking-private-trackers = المتعقّبات المعروفة فقط في النوافذ الخاصة
 content-blocking-third-party-cookies = الكعكات التعقّبية من الأطراف الثالثة
+content-blocking-all-cookies = كل الكعكات
+content-blocking-unvisited-cookies = الكعكات من المواقع غير المُزارة
 content-blocking-all-windows-trackers = المتعقّبات المعروفة في كل النوافذ
 content-blocking-all-third-party-cookies = كل الكعكات من الأطراف الثالثة
 content-blocking-warning-title = كُن على علم!
