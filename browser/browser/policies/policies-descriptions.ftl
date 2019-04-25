@@ -57,6 +57,7 @@ policy-HardwareAcceleration = Ma tha seo false, cuiridh seo dheth luathachadh a�
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Suidhich an duilleag-dhachaigh agus, ma throgras tu, glais e.
 policy-InstallAddonsPermission = Thoir cead do làraichean-lìn àraidh tuilleadan a stàladh.
+policy-LocalFileLinks = Leig le làraichean-lìn sònraichte ceangal ri faidhlichean ionadail.
 policy-NetworkPrediction = Cuir an comas no à comas ro-innse lìonraidhean (DNS prefetching).
 policy-NewTabPage = Cuir an comas no à comas duilleag an taba ùir.
 policy-NoDefaultBookmarks = Cuir à comas cruthachadh nan comharran-lìn bunaiteach a thig le { -brand-short-name } agus nan comharran-lìn tapaidh (Na thadhail thu air, Tagaichean o chionn goirid). An Aire: Cha bhi am poileasadh seo an sàs ach ma thèid a chleachdadh mus ruith a’ phròifil a’ chiad turas.
@@ -69,6 +70,7 @@ policy-Preferences = Suidhich is glais an luach aig fo-sheata de roghainnean.
 policy-Proxy = Rèitich roghainnean a’ phrogsaidh.
 policy-RequestedLocales = Suidhich liosta nan cànan a tha ’gan iarraidh san aplacaid san òrdugh sa bheilear ’gan iarraidh.
 policy-SanitizeOnShutdown = Falamhaich dàta air fad na seòladaireachd nuair a dhùinear an aplacaid.
+policy-SanitizeOnShutdown2 = Falamhaich an dàta seòladaireachd aig àm dùnaidh.
 policy-SearchBar = Suidhich ionad bunaiteach bàr nan lorg. ’S urrainn do chleachdaichean a ghnàthachadh fhathast.
 policy-SearchEngines = Rèitich roghainnean an einnsein-luirg. Chan eil am poileasaidh seo ri fhaighinn ach san tionndadh Extended Support Release (ESR).
 policy-SearchSuggestEnabled = Cuir an comas no à comas molaidhean luirg.
