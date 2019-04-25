@@ -311,6 +311,7 @@
 <!ENTITY find_prev "Precedente">
 <!ENTITY find_next "Successivo">
 <!ENTITY find_close "Chiudi">
+<!ENTITY find_error "Testo non trovato">
 <!ENTITY media_sending_to "Invio a dispositivo">
 <!ENTITY media_play "Riproduci">
 <!ENTITY media_pause "Pausa">
