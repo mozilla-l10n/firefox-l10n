@@ -66,6 +66,8 @@
 <!ENTITY statusColumn2.tooltip "Sắp xếp theo trạng thái">
 <!ENTITY sizeColumn2.tooltip "Sắp xếp theo kích thước">
 <!ENTITY junkStatusColumn2.tooltip "Sắp xếp theo trạng thái thư rác">
+<!ENTITY unreadColumn2.tooltip "Số lượng tin nhắn chưa đọc trong chủ đề">
+<!ENTITY totalColumn2.tooltip "Tổng số tin nhắn trong chủ đề">
 <!ENTITY readColumn2.tooltip "Sắp xếp theo đã đọc">
 <!ENTITY receivedColumn2.tooltip "Sắp xếp theo ngày nhận">
 <!ENTITY starredColumn2.tooltip "Sắp xếp theo sao">
