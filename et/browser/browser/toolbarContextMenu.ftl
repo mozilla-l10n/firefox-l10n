@@ -17,3 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Vali kõik kaardid
     .accesskey = k
+toolbar-context-menu-undo-close-tab =
+    .label = Võta kaardi sulgemine tagasi
+    .accesskey = V
