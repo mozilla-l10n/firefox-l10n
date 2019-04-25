@@ -22,9 +22,12 @@
 <!ENTITY chooseFolderMac.label        "Chọn…">
 <!ENTITY chooseFolderMac.accesskey    "C">
 
+<!ENTITY attachments.incoming.label   "Hộp thư đến">
+<!ENTITY attachments.outgoing.label   "Hộp thư đi">
 
 <!ENTITY addCloudFileAccount1.label       "Thêm…">
 <!ENTITY addCloudFileAccount1.accesskey   "A">
+<!ENTITY addCloudFileAccount.description  "Thêm dịch vụ lưu trữ Filelink mới">
 <!ENTITY removeCloudFileAccount.label     "Xóa">
 <!ENTITY removeCloudFileAccount.accesskey "R">
 <!ENTITY authRequired.description         "Cần có sự cho phép của bạn để xem cài đặt cho dịch vụ lưu trữ này.">
