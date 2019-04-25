@@ -27,6 +27,12 @@
 
 <!ENTITY addCloudFileAccount1.label       "เพิ่ม…">
 <!ENTITY addCloudFileAccount1.accesskey   "พ">
+<!ENTITY addCloudFileAccount.description  "เพิ่มบริการที่เก็บข้อมูล Filelink ใหม่">
 <!ENTITY removeCloudFileAccount.label     "เอาออก">
 <!ENTITY removeCloudFileAccount.accesskey "อ">
+<!ENTITY authRequired.description         "คุณต้องได้รับอนุญาตก่อนจึงจะสามารถดูการตั้งค่าสำหรับบริการที่เก็บข้อมูลนี้">
+<!ENTITY authRequired.button.label        "อนุญาต">
+<!ENTITY authRequired.button.accesskey    "อ">
 
+<!ENTITY enableCloudFileAccountOffer.label "เสนอให้แบ่งปันไฟล์ที่มีขนาดใหญ่กว่า">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">

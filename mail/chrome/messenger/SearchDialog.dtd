@@ -64,3 +64,17 @@
 <!ENTITY recipientColumn2.tooltip "เรียงตามผู้รับ">
 <!ENTITY correspondentColumn2.tooltip "เรียงตามผู้สื่อสาร">
 <!ENTITY subjectColumn2.tooltip "เรียงตามหัวเรื่อง">
+<!ENTITY dateColumn2.tooltip "เรียงตามวันที่">
+<!ENTITY priorityColumn2.tooltip "เรียงตามความสำคัญ">
+<!ENTITY tagsColumn2.tooltip "เรียงตามป้ายกำกับ">
+<!ENTITY accountColumn2.tooltip "เรียงตามบัญชี">
+<!ENTITY statusColumn2.tooltip "เรียงตามสถานะ">
+<!ENTITY sizeColumn2.tooltip "เรียงตามขนาด">
+<!ENTITY junkStatusColumn2.tooltip "เรียงตามสถานะขยะ">
+<!ENTITY unreadColumn2.tooltip "จำนวนข้อความที่ยังไม่ได้อ่านในหัวข้อ">
+<!ENTITY totalColumn2.tooltip "จำนวนข้อความทั้งหมดในหัวข้อ">
+<!ENTITY readColumn2.tooltip "เรียงตามที่อ่านแล้ว">
+<!ENTITY receivedColumn2.tooltip "เรียงตามวันที่ได้รับ">
+<!ENTITY starredColumn2.tooltip "เรียงตามดาว">
+<!ENTITY locationColumn2.tooltip "เรียงตามตำแหน่งที่ตั้ง">
+<!ENTITY idColumn2.tooltip "เรียงตามลำดับที่ได้รับ">

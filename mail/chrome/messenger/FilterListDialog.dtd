@@ -25,10 +25,16 @@
 <!ENTITY reorderBottomButton.toolTip "จัดเรียงตัวกรองใหม่เพื่อให้ตัวกรองนี้ทำงานหลังจากตัวกรองอื่นทั้งหมด">
 <!ENTITY filterHeader.label "ตัวกรองที่เปิดใช้งานจะทำงานโดยอัตโนมัติตามลำดับที่แสดงด้านล่าง">
 <!ENTITY filtersForPrefix.label "ตัวกรองสำหรับ:">
+<!ENTITY filtersForPrefix.accesskey "ต">
 <!ENTITY viewLogButton.label "รายการบันทึกตัวกรอง">
+<!ENTITY viewLogButton.accesskey "ร">
 <!ENTITY runFilters.label "เรียกใช้เดี๋ยวนี้">
+<!ENTITY runFilters.accesskey "เ">
 <!ENTITY stopFilters.label "หยุด">
+<!ENTITY stopFilters.accesskey "ย">
 <!ENTITY folderPickerPrefix.label "เรียกใช้ตัวกรองที่เลือกบน:">
+<!ENTITY folderPickerPrefix.accesskey "ใ">
 <!ENTITY helpButton.label "ช่วยเหลือ">
+<!ENTITY helpButton.accesskey "ช">
 <!ENTITY closeCmd.key "W">
 <!ENTITY searchBox.emptyText "ค้นหาตัวกรองตามชื่อ…">
