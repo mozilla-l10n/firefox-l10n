@@ -23,7 +23,7 @@
 <!ENTITY aboutTelemetry.histogramsSection "  ฮิสโทแกรม">
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Keyed Histograms">
 <!ENTITY aboutTelemetry.eventsSection "เหตุการณ์">
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "  ค่าที่วัดได้อย่างง่าย">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "การวัดอย่างง่าย">
 <!ENTITY aboutTelemetry.slowSqlSection "คำสั่ง SQL ที่ช้า">
 <!ENTITY aboutTelemetry.addonDetailsSection "รายละเอียดส่วนเสริม">
 <!ENTITY aboutTelemetry.lateWritesSection "  การเขียนทีหลัง">
