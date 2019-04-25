@@ -66,7 +66,7 @@
 <!ENTITY  event.menu.item.new.task.accesskey              "T">
 <!ENTITY  event.menu.item.new.message.label               "Thông điệp">
 <!ENTITY  event.menu.item.new.message.accesskey           "i">
-<!ENTITY  event.menu.item.new.contact.label               "Tên liên hệ trên Sổ Địa Chỉ">
+<!ENTITY  event.menu.item.new.contact.label               "Sổ địa chỉ liên hệ">
 <!ENTITY  event.menu.item.new.contact.accesskey           "a">
 <!ENTITY  event.menu.item.close.label                     "Đóng">
 <!ENTITY  event.menu.item.close.accesskey                 "g">
