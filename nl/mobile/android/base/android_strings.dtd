@@ -409,6 +409,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "Gesynchroniseerde tabbladen">
 
 <!ENTITY pref_default_browser "Standaardbrowser maken">
+
+<!ENTITY pref_default_browser2 "&brandShortName; uw standaardbrowser maken">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla Support bezoeken">
 <!ENTITY pref_about_firefox "Over &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ’s">
@@ -503,6 +508,9 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "Vorige">
 <!ENTITY find_next "Volgende">
 <!ENTITY find_close "Sluiten">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -728,7 +736,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Bladwijzers en geschiedenis">
 
-<!-- Updater notifications -->
+ <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Update voor &brandShortName; beschikbaar">
 <!ENTITY updater_start_select2 "Raak aan om te downloaden">
 
