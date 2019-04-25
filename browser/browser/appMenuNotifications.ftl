@@ -29,6 +29,9 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Razumem
     .buttonaccesskey = z
 appmenu-addon-post-install-message = Upravljajte dodatke s klikom na <image data-l10n-name='addon-install-icon'></image> v meniju <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-post-install-incognito-checkbox =
+    .label = Dovoli, da se ta razširitev izvaja v zasebnih oknih
+    .accesskey = D
 appmenu-addon-private-browsing =
     .label = Sprememba delovanja razširitev v zasebnih oknih
     .buttonlabel = Upravljaj razširitve

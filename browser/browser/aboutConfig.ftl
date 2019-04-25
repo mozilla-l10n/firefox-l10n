@@ -2,10 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
+about-config-warning-title = Tukaj so zmaji!
 about-config-warning-text = Spreminjanje teh naprednih nastavitev lahko vpliva na zanesljivost, varnost in učinkovitost tega programa. Nadaljujte samo v primeru, da ste prepričani v svoje početje.
 about-config-warning-checkbox = Spet me opozori!
 about-config-warning-button = Sprejmem tveganje
 about-config-title = about:config
+about-config2-title = Napredne nastavitve
 about-config-search-input =
     .placeholder = Išči
 about-config-show-all = Prikaži vse
