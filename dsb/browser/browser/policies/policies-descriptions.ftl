@@ -57,6 +57,7 @@ policy-HardwareAcceleration = Jolic njewěrno, hardwarowe póspěšenje znjemó�
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Startowy bok nastajiś a na žycenje zastajiś.
 policy-InstallAddonsPermission = Wěstym websedłam dowóliś, dodanki instalěrowaś.
+policy-LocalFileLinks = Wěstym websedłam dowóliś, na lokalne dataje wótkazaś.
 policy-NetworkPrediction = Seśowe pśedzacytanje (DNS-pśedzacytanje) zmóžniś abo znjemóžniś.
 policy-NewTabPage = Bok nowego rejtarka zmóžniś abo znjemóžniś.
 policy-NoDefaultBookmarks = Napóranje standardnych cytańskich znamjenjow { -brand-short-name } znjemóžniś, a inteligentnych cytańskich znamjenjow (nejcesćej woglědane, tuchylne wobznamjenja). Glědajśo: Toś to pšawidło se jano wustatkujo, gaž jo pśed prědnym startom profila wužywaśo.
