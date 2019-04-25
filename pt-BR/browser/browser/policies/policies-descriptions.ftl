@@ -57,6 +57,7 @@ policy-HardwareAcceleration = Caso definido como "false", desativar a aceleraç�
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Definir a página inicial e, opcionalmente, impedir que seja alterada.
 policy-InstallAddonsPermission = Permitir que determinados sites instalem extensões.
+policy-LocalFileLinks = Permitir que sites específicos tenham links para arquivos locais.
 policy-NetworkPrediction = Ativar ou desativar predição de rede (carregamento antecipado de DNS).
 policy-NewTabPage = Ativar ou desativar a página de nova aba.
 policy-NoDefaultBookmarks = Desativar a criação de favoritos padrões empacotados com o { -brand-short-name }, além dos favoritos inteligente (mais visitados e etiquetas recentes). Nota: esta política somente é efetiva se usada antes da primeira execução do perfil.
