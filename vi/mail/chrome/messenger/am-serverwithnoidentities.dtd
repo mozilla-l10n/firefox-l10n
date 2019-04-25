@@ -2,15 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY accountTitle.label "Thiết lập Tài khoản">
-<!ENTITY accountSettingsDesc.label "Đây là một tài khoản đặc biệt. Không có định danh nào đi kèm với nó.">
-<!ENTITY accountName.label "Tên Tài Khoản:">
+<!ENTITY accountName.label "Tên tài khoản:">
 <!ENTITY accountName.accesskey "n">
-<!ENTITY messageStorage.label "Lưu trữ Thư">
-<!ENTITY emptyTrashOnExit.label "Dọn sạch Thùng rác khi Thoát">
-<!ENTITY emptyTrashOnExit.accesskey "o">
-<!ENTITY localPath.label "Thư mục Nội bộ:">
-<!ENTITY localFolderPicker.label "Chọn Thư mục Nội bộ">
-<!ENTITY browseFolder.label "Duyệt…">
-<!ENTITY browseFolder.accesskey "D">
-

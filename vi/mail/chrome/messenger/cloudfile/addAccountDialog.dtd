@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY addAccountDialog.title   "Thiết lập Filelink">
+<!ENTITY addAccountDialog.menuTitle "Chọn một dịch vụ lưu trữ trực tuyến">
+<!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
+<!ENTITY addAccountDialog.accountName.label "Tên tài khoản:">
+<!ENTITY addAccountDialog.noAccountText "Chúng tôi rất tiếc, nhưng phiên bản hiện tại của &brandShortName; chỉ cho phép một tài khoản từ mỗi dịch vụ lưu trữ trực tuyến.">
+<!ENTITY addAccountDialog.createAccountText2 "Bạn có thể gửi tập tin đính kèm lớn bằng một trong một số dịch vụ lưu trữ trực tuyến. Vui lòng thiết lập tài khoản hiện có hoặc đăng ký tài khoản mới.">
+<!ENTITY addAccountDialog.authorizing "Kiểm tra ủy quyền...">
+<!ENTITY addAccountDialog.error "Đã xảy ra lỗi trong khi thiết lập tài khoản!">
+<!ENTITY addAccountDialog.acceptButton.label "Thiết lập tài khoản">
+<!ENTITY addAccountDialog.learnMore "Tìm hiểu thêm…">

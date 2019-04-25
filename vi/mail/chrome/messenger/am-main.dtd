@@ -5,7 +5,7 @@
 <!-- extracted from am-main.xul -->
 
 <!ENTITY accountTitle.label "Cài đặt tài khoản">
-<!ENTITY accountName.label "Tên Tài Khoản:">
+<!ENTITY accountName.label "Tên tài khoản:">
 <!ENTITY accountName.accesskey "n">
 <!ENTITY identityTitle.label "Định danh Mặc định">
 <!ENTITY identityDesc.label "Mỗi tài khoản có một định danh, đó là thông tin để người khác nhận ra khi họ đọc thư của bạn.">
