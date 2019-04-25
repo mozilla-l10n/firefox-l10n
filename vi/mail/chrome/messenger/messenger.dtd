@@ -447,7 +447,7 @@
 <!ENTITY tasksMenu.accesskey "g">
 <!ENTITY messengerCmd.label "Thư &amp; Nhóm tin">
 <!ENTITY messengerCmd.accesskey "N">
-<!ENTITY addressBookCmd.label "Sổ Địa Chỉ">
+<!ENTITY addressBookCmd.label "Sổ địa chỉ">
 <!ENTITY addressBookCmd.accesskey "S">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Tiện ích">
@@ -507,7 +507,7 @@
 <!ENTITY junkItem.title "Thư rác">
 <!ENTITY junkButton.label "Thư rác">
 <!ENTITY notJunkButton.label "Không phải Thư rác">
-<!ENTITY addressBookButton.label "Sổ Địa Chỉ">
+<!ENTITY addressBookButton.label "Sổ địa chỉ">
 <!ENTITY glodaSearch.title "Tìm Bao Trùm">
 <!ENTITY searchItem.title "Tìm Nhanh">
 <!ENTITY mailViewsToolbarItem.title "Cách hiển thị Thư">
@@ -541,6 +541,7 @@
 <!ENTITY addressBookButton.tooltip "Vào sổ địa chỉ">
 <!ENTITY tagButton.tooltip "Dán nhãn cho thư">
 <!ENTITY compactButton.tooltip "Dọn các thư bị xóa ra khỏi thư mục đã chọn">
+
 
 <!-- Toolbar Button Popup -->
 
@@ -741,9 +742,9 @@
   -->
 
 <!-- Message Header Context Menu -->
-<!ENTITY AddToAddressBook.label "Thêm vào Sổ Địa Chỉ…">
+<!ENTITY AddToAddressBook.label "Thêm vào sổ địa chỉ…">
 <!ENTITY AddToAddressBook.accesskey "a">
-<!ENTITY AddDirectlyToAddressBook.label "Thêm vào Sổ Địa Chỉ">
+<!ENTITY AddDirectlyToAddressBook.label "Thêm vào sổ địa chỉ">
 <!ENTITY AddDirectlyToAddressBook.accesskey "a">
 <!ENTITY ViewContact.label "Hiển thị Danh bạ">
 <!ENTITY ViewContact.accesskey "H">

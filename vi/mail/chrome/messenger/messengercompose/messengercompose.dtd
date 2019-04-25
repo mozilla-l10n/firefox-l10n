@@ -14,7 +14,7 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "T">
-<!ENTITY newContact.label "Tên liên hệ trong Sổ Địa Chỉ…">
+<!ENTITY newContact.label "Tên liên hệ trong sổ địa chỉ…">
 <!ENTITY newContact.accesskey "S">
 <!ENTITY attachMenu.label "Đính kèm">
 <!ENTITY attachMenu.accesskey "k">
@@ -179,7 +179,7 @@
 <!ENTITY messengerCmd.label "Thư &amp; Nhóm tin">
 <!ENTITY messengerCmd.accesskey "T">
 <!ENTITY messengerCmd.commandkey "1">
-<!ENTITY addressBookCmd.label "Sổ Địa Chỉ">
+<!ENTITY addressBookCmd.label "Sổ địa chỉ">
 <!ENTITY addressBookCmd.accesskey "S">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY preferencesCmdUnix.label "Tùy chỉnh">
@@ -204,7 +204,7 @@
 <!ENTITY sendButton.tooltip "Gửi thư này ngay">
 <!ENTITY sendlaterButton.tooltip "Gửi thư này sau">
 <!ENTITY quoteButton.tooltip "Trích dẫn thư trước">
-<!ENTITY addressButton.tooltip "Chọn một người nhận từ Sổ Địa Chỉ">
+<!ENTITY addressButton.tooltip "Chọn một người nhận từ sổ địa chỉ">
 <!ENTITY spellingButton.tooltip "Kiểm tra chính tả của phần đã chọn hoặc toàn bộ thư">
 <!ENTITY saveButton.tooltip "Lưu thư này">
 <!ENTITY cutButton.tooltip              "Cắt">

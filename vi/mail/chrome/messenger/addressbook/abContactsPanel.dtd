@@ -2,17 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addressbookPicker.label            "Sổ Địa Chỉ:">
+
+<!ENTITY addressbookPicker.label            "Sổ địa chỉ:">
 <!ENTITY addressbookPicker.accesskey        "S">
-<!ENTITY searchInput.label                  "Tìm:">
-<!ENTITY searchInput.accesskey              "m">
 <!ENTITY SearchNameOrEmail.label            "Tên hoặc Email">
 
-<!ENTITY deleteAddrBookCard.label           "Xóa">
-<!ENTITY addrBookCardProperties.label       "Thuộc tính">
 <!ENTITY addtoToFieldMenu.label             "Thêm vào trường Tới">
 <!ENTITY addtoCcFieldMenu.label             "Thêm vào trường Cc">
 <!ENTITY addtoBccFieldMenu.label            "Thêm vào trường Bcc">
+<!ENTITY deleteAddrBookCard.label           "Xóa">
+
 
 <!ENTITY toButton.label                     "Thêm vào Tới:">
 <!ENTITY toButton.accesskey                 "T">
@@ -20,4 +19,3 @@
 <!ENTITY ccButton.accesskey                 "C">
 <!ENTITY bccButton.label                    "Thêm vào Bcc:">
 <!ENTITY bccButton.accesskey                "B">
-

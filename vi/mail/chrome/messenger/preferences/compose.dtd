@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label                   "Tổng quát">
-<!ENTITY itemAutoComplete.label              "Xác định Địa chỉ">
+<!ENTITY itemAutoComplete.label              "Xác định địa chỉ">
 <!ENTITY itemSpellCheck.label                "Chính tả">
 
 
@@ -19,6 +19,7 @@
 <!ENTITY font.accesskey                       "n">
 <!ENTITY fontSize.label                       "Cỡ chữ:">
 <!ENTITY fontSize.accesskey                   "z">
+<!ENTITY useReaderDefaults.label              "Sử dụng màu mặc định của trình đọc">
 <!ENTITY useReaderDefaults.accesskey          "d">
 <!ENTITY fontColor.label                      "Màu chữ:">
 <!ENTITY fontColor.accesskey                  "T">

@@ -4,76 +4,69 @@
 
 <!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "Tìm kiếm thư trong:">
-<!ENTITY searchHeading.accesskey     "k">
+<!ENTITY searchHeading.accesskey     "h">
 <!ENTITY searchSubfolders.label      "Tìm kiếm thư mục con">
-<!ENTITY searchSubfolders.accesskey  "c">
+<!ENTITY searchSubfolders.accesskey  "e">
 <!ENTITY searchOnServer.label        "Chạy tìm kiếm trên máy chủ">
-<!ENTITY searchOnServer.accesskey    "y">
+<!ENTITY searchOnServer.accesskey    "u">
 <!ENTITY resetButton.label           "Xóa trắng">
-<!ENTITY resetButton.accesskey       "a">
+<!ENTITY resetButton.accesskey       "C">
 <!ENTITY openButton.label            "Mở">
-<!ENTITY openButton.accesskey        "M">
+<!ENTITY openButton.accesskey        "n">
 <!ENTITY deleteButton.label          "Xóa">
-<!ENTITY deleteButton.accesskey      "X">
-<!ENTITY searchDialogTitle.label     "Tìm kiếm Thư">
+<!ENTITY deleteButton.accesskey      "D">
+<!ENTITY searchDialogTitle.label     "Tìm kiếm thư">
 <!ENTITY results.label               "Kết quả">
-<!ENTITY fileHereMenu.label          "Xếp Vào Đây">
-<!ENTITY fileHereMenu.accesskey      "X">
-<!ENTITY fileButton.label            "Xếp">
-<!ENTITY fileButton.accesskey        "X">
-<!ENTITY closeCmd.key                "W"> 
-<!ENTITY openInFolder.label          "Mở trong Thư mục">
-<!ENTITY openInFolder.accesskey      "o">
-<!ENTITY saveAsVFButton.label        "Lưu thành Thư mục Tìm kiếm">
-<!ENTITY saveAsVFButton.accesskey    "L">
+<!ENTITY moveButton.label            "Di chuyển đến">
+<!ENTITY moveButton.accesskey        "T">
+<!ENTITY closeCmd.key                "W">
+<!ENTITY openInFolder.label          "Mở trong thư mục">
+<!ENTITY openInFolder.accesskey      "r">
+<!ENTITY saveAsVFButton.label        "Lưu thành thư mục tìm kiếm">
+<!ENTITY saveAsVFButton.accesskey    "v">
 
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Tìm kiếm trong:">
-<!ENTITY abSearchHeading.accesskey   "o">
+<!ENTITY abSearchHeading.accesskey   "h">
 <!ENTITY propertiesButton.label      "Thuộc tính">
-<!ENTITY propertiesButton.accesskey  "T">
+<!ENTITY propertiesButton.accesskey  "P">
 <!ENTITY composeButton.label         "Viết thư">
-<!ENTITY composeButton.accesskey     "V">
-<!ENTITY abSearchDialogTitle.label   "Tìm kiếm Sổ địa chỉ Nâng cao">
+<!ENTITY composeButton.accesskey     "W">
+<!ENTITY deleteCardButton.label      "Xóa">
+<!ENTITY deleteCardButton.accesskey  "D">
+<!ENTITY abSearchDialogTitle.label   "Tìm kiếm sổ địa chỉ nâng cao">
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Chủ đề">
 <!ENTITY fromColumn.label "Từ">
 <!ENTITY recipientColumn.label "Người nhận">
-<!ENTITY subjectColumn.label "Tiêu đề">
 <!ENTITY dateColumn.label "Ngày">
 <!ENTITY priorityColumn.label "Mức ưu tiên">
 <!ENTITY tagsColumn.label "Nhãn">
 <!ENTITY accountColumn.label "Tài khoản">
 <!ENTITY statusColumn.label "Trạng thái">
 <!ENTITY sizeColumn.label "Dung lượng">
-<!ENTITY junkStatusColumn.label "Trạng thái Thư rác">
+<!ENTITY junkStatusColumn.label "Trạng thái thư rác">
 <!ENTITY unreadColumn.label "Chưa đọc">
 <!ENTITY totalColumn.label "Tổng">
 <!ENTITY readColumn.label "Đã đọc">
-<!ENTITY receivedColumn.label "Nhận được">
+<!ENTITY receivedColumn.label "Đã nhận">
 <!ENTITY starredColumn.label "Gắn sao">
 <!ENTITY locationColumn.label "Địa chỉ">
-<!ENTITY idColumn.label "Thứ tự Nhận được">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Nhấn để chọn cột hiển thị">
-<!ENTITY threadColumn.tooltip "Nhấn để hiển thị chủ đề thư"> 
-<!ENTITY fromColumn.tooltip "Nhấn để sắp xếp theo Từ">
-<!ENTITY recipientColumn.tooltip "Nhấn để sắp xếp theo người nhận">
-<!ENTITY subjectColumn.tooltip "Nhấn để sắp xếp theo tiêu đề">
-<!ENTITY dateColumn.tooltip "Nhấn để sắp xếp theo ngày">
-<!ENTITY priorityColumn.tooltip "Nhấn để sắp xếp theo ưu tiên">
-<!ENTITY tagsColumn.tooltip "Nhấn để sắp xếp theo nhãn">
-<!ENTITY accountColumn.tooltip "Nhấn để sắp xếp theo tài khoản">
-<!ENTITY statusColumn.tooltip "Nhấn để sắp xếp theo trạng thái">
-<!ENTITY sizeColumn.tooltip "Nhấn để sắp xếp theo dung lượng">
-<!ENTITY junkStatusColumn.tooltip "Nhấn để sắp xếp theo trạng thái thư rác">
-<!ENTITY unreadColumn.tooltip "Số thư chưa đọc trong chủ đề">
-<!ENTITY totalColumn.tooltip "Tổng số thư trong chủ đề">
-<!ENTITY readColumn.tooltip "Nhấn để sắp xếp theo đã đọc">
-<!ENTITY receivedColumn.tooltip "Nhấn để sắp xếp theo ngày nhận được">
-<!ENTITY starredColumn.tooltip "Nhấn để sắp xếp theo sao">
-<!ENTITY locationColumn.tooltip "Nhấn để sắp xếp theo địa chỉ">
-<!ENTITY idColumn.tooltip "Nhấn để sắp xếp theo thứ tự nhận được">
-
+<!ENTITY columnChooser2.tooltip "Chọn các cột để hiển thị">
+<!ENTITY threadColumn2.tooltip "Hiển thị chủ đề thư">
+<!ENTITY fromColumn2.tooltip "Sắp xếp theo người gửi">
+<!ENTITY recipientColumn2.tooltip "Sắp xếp theo người nhận">
+<!ENTITY dateColumn2.tooltip "Sắp xếp theo ngày">
+<!ENTITY priorityColumn2.tooltip "Sắp xếp theo mức độ ưu tiên">
+<!ENTITY tagsColumn2.tooltip "Sắp xếp theo nhãn">
+<!ENTITY accountColumn2.tooltip "Sắp xếp theo tài khoản">
+<!ENTITY statusColumn2.tooltip "Sắp xếp theo trạng thái">
+<!ENTITY sizeColumn2.tooltip "Sắp xếp theo kích thước">
+<!ENTITY junkStatusColumn2.tooltip "Sắp xếp theo trạng thái thư rác">
+<!ENTITY readColumn2.tooltip "Sắp xếp theo đã đọc">
+<!ENTITY receivedColumn2.tooltip "Sắp xếp theo ngày nhận">
+<!ENTITY starredColumn2.tooltip "Sắp xếp theo sao">
+<!ENTITY locationColumn2.tooltip "Sắp xếp theo địa chỉ">
