@@ -17,3 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Tüm sekmeleri seç
     .accesskey = ü
+toolbar-context-menu-undo-close-tab =
+    .label = Son kapatılan sekmeyi aç
+    .accesskey = K
