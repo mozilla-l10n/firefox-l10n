@@ -17,3 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = 모든 탭 선택
     .accesskey = S
+toolbar-context-menu-undo-close-tab =
+    .label = 닫은 탭 다시 열기
+    .accesskey = U
