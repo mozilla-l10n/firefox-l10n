@@ -18,5 +18,5 @@ toolbar-context-menu-select-all-tabs =
     .label = Eiporavo opaite tendayke
     .accesskey = S
 toolbar-context-menu-undo-close-tab =
-    .label = Emboguevi tendayke ñemboty{ " " }
+    .label = Emboguevi tendayke ñemboty
     .accesskey = U
