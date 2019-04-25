@@ -221,7 +221,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      for the Firefox Account toolbar signin menu screen. -->
 <!ENTITY fxa.signin.callout.label "Firefox’u yanında taşı">
 <!ENTITY fxa.signin.description.label "Yer imlerinizi, geçmişinizi, parolalarınızı ve diğer ayarlarınızı tüm cihazlarınızda kullanabilirsiniz.">
-<!ENTITY fxa.signin.button.label "&syncBrand.shortName.label;’i aç…">
+<!ENTITY fxa.signin.button.label "&syncBrand.shortName.label;’i etkinleştir…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
