@@ -409,6 +409,12 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "受同步的标签页">
 
 <!ENTITY pref_default_browser "设为默认浏览器">
+
+<!ENTITY pref_default_browser2 "将 &brandShortName; 设为您的默认浏览器">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "点击“浏览器应用程序”并选择 &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "访问 Mozilla 支持">
 <!ENTITY pref_about_firefox "关于 &brandShortName;">
 <!ENTITY pref_vendor_faqs "常见问题">
@@ -503,6 +509,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "上一个">
 <!ENTITY find_next "下一个">
 <!ENTITY find_close "关闭">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "找不到指定文字">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
