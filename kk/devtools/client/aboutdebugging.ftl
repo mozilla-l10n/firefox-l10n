@@ -232,3 +232,6 @@ about-debugging-main-process-name = Басты процесс
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-description2 = Мақсат браузеріне арналған басты процесс
+# Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon =
+    .alt = Хабарламаны жабу
