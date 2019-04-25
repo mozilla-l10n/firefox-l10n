@@ -8,3 +8,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Sélectionner tous les onglets
     .accesskey = S
+toolbar-context-menu-undo-close-tab =
+    .label = Annuler la fermeture de l’onglet
+    .accesskey = n
