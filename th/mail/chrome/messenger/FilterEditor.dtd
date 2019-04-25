@@ -18,14 +18,20 @@
 
 <!ENTITY contextDesc.label "ใช้ตัวกรองเมื่อ:">
 <!ENTITY contextIncomingMail.label "เมื่อรับจดหมายใหม่:">
+<!ENTITY contextIncomingMail.accesskey "ร">
 <!ENTITY contextManual.label "เรียกใช้ด้วยตนเอง">
+<!ENTITY contextManual.accesskey "เ">
 <!ENTITY contextBeforeCls.label "กรองก่อนจำแนกขยะ">
 <!ENTITY contextAfterCls.label "กรองหลังจากจำแนกขยะ">
 <!ENTITY contextOutgoing.label "หลังจากที่ส่งแล้ว">
+<!ENTITY contextOutgoing.accesskey "ห">
 <!ENTITY contextArchive.label "เก็บถาวร">
+<!ENTITY contextArchive.accesskey "ก">
 
 <!ENTITY filterActionDesc.label "ดำเนินการการกระทำเหล่านี้:">
+<!ENTITY filterActionDesc.accesskey "ด">
 
+<!ENTITY filterActionOrderWarning.label "หมายเหตุ: การกระทำตัวกรองจะทำงานในลำดับที่แตกต่างกัน">
 <!ENTITY filterActionOrder.label "ดูลำดับการทำงาน">
 
 <!-- New Style Filter Rule Actions -->
