@@ -34,7 +34,7 @@
 <!ENTITY otherActionsOpenInNewWindow1.accesskey "C">
 <!ENTITY otherActionsOpenInNewTab1.label "Mở trong Thẻ Mới">
 <!ENTITY otherActionsOpenInNewTab1.accesskey "T">
-<!ENTITY markAsReadMenuItem1.label "Đánh Dấu Đã Đọc">
+<!ENTITY markAsReadMenuItem1.label "Đánh dấu là đã đọc">
 <!ENTITY markAsReadMenuItem1.accesskey "D">
 <!ENTITY markAsUnreadMenuItem1.label "Đánh Dấu Chưa Đọc">
 <!ENTITY markAsUnreadMenuItem1.accesskey "C">
@@ -66,6 +66,7 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "B">
 
 <!ENTITY openAttachment.tooltip "Mở tập tin đính kèm">
+
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Lưu">

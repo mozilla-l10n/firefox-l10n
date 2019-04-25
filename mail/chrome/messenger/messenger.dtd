@@ -579,9 +579,9 @@
 <!ENTITY folderContextSendUnsentMessages.accesskey "G">
 <!ENTITY folderContextUnsubscribe.label "Dừng theo dõi">
 <!ENTITY folderContextUnsubscribe.accesskey "D">
-<!ENTITY folderContextMarkNewsgroupRead.label "Đánh dấu Nhóm tin là Đã Đọc">
+<!ENTITY folderContextMarkNewsgroupRead.label "Đánh dấu nhóm tin là đã đọc">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "u">
-<!ENTITY folderContextMarkMailFolderRead.label "Đánh dấu Thư mục là Đã Đọc">
+<!ENTITY folderContextMarkMailFolderRead.label "Đánh dấu thư mục là đã đọc">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "u">
 <!ENTITY folderContextSubscribe.label "Theo dõi…">
 <!ENTITY folderContextSubscribe.accesskey "e">
