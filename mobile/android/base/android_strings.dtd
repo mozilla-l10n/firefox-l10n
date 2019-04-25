@@ -409,6 +409,12 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "Szinkronizált lapok">
 
 <!ENTITY pref_default_browser "Alapértelmezett böngészővé tétel">
+
+<!ENTITY pref_default_browser2 "A &brandShortName; beállítása alapértelmezett böngészőnek">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Koppintson a Böngésző alkalmazásra és válassza a &brandShortName;ot">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla támogatás">
 <!ENTITY pref_about_firefox "A &brandShortName; névjegye">
 <!ENTITY pref_vendor_faqs "GYIK">
@@ -503,6 +509,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "Előző">
 <!ENTITY find_next "Tovább">
 <!ENTITY find_close "Bezárás">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "A kifejezés nem található">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
