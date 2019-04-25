@@ -135,6 +135,9 @@ about-debugging-runtime-other-workers =
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Працэсы
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button = Прафіляваць асяроддзе
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -150,6 +153,11 @@ about-debugging-connection-prompt-enable-button = Уключыць запыт н
 about-debugging-connection-prompt-disable-button = Выключыць запыт на падключэнне
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
 about-debugging-profiler-dialog-title = Прафайлер хуткадзейнасці
+# Label of a checkbox displayed in the runtime page for "This Firefox".
+# This checkbox will toggle preferences that enable local addon debugging.
+# The "Learn more" link points to MDN.
+# https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
+about-debugging-extension-debug-setting-label = Уключыць адладку пашырэнняў. <a>Падрабязней</a>
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
@@ -167,6 +175,12 @@ about-debugging-debug-target-inspect-button = Даследаваць
 # Text of a button displayed in the "This Firefox" page, in the Temporary Extension
 # section. Clicking on the button will open a file picker to load a temporary extension
 about-debugging-tmp-extension-install-button = Загрузіць часовы дадатак…
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will reload the extension.
+about-debugging-tmp-extension-reload-button = Перазагрузіць
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will uninstall the extension and remove it from the page.
+about-debugging-tmp-extension-remove-button = Выдаліць
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
@@ -189,9 +203,14 @@ about-debugging-worker-action-start = Запусціць
 about-debugging-worker-action-unregister = Разрэгістраваць
 # Displayed for service workers in runtime pages that are registered but stopped.
 about-debugging-worker-status-stopped = Спынена
+# Displayed for service workers in runtime pages that are registering.
+about-debugging-worker-status-registering = Рэгіструецца
 # Displayed for service workers in runtime pages, to label the scope of a worker
 about-debugging-worker-scope =
     .label = Абсяг
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Галоўны працэс
+# Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon =
+    .alt = Закрыць паведамленне
