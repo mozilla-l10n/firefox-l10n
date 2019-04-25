@@ -57,6 +57,7 @@ policy-HardwareAcceleration = Jeli njewěrno, hardwarowe pospěšenje znjemóžn
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Startowu stronu nastajić a na přeće zawrěć.
 policy-InstallAddonsPermission = Wěstym websydłam dowolić, přidatki instalować.
+policy-LocalFileLinks = Wěstym websydłam dowolić, na lokalne dataje wotkazać.
 policy-NetworkPrediction = Syćowe předzačitanje (DNS-předzačitanje) zmóžnić abo znjemóžnić.
 policy-NewTabPage = Stronu noweho rajtarka zmóžnić abo znjemóžnić.
 policy-NoDefaultBookmarks = Wutworjenje standardnych zapołožkow { -brand-short-name } znjemóžnić, a inteligentnych zapołožkow (najhusćišo wopytane, tuchwilne znački). Kedźbu: Tute prawidło so jenož wuskutkuje, hdyž jo před prěnim startom profila wužiwaće.
