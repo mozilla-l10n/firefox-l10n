@@ -409,6 +409,12 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "Tabaichean sioncronaichte">
 
 <!ENTITY pref_default_browser "Cleachd mar am brabhsair bunaiteach">
+
+<!ENTITY pref_default_browser2 "Cleachd &brandShortName; mar bhrabhsair bunaiteach">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Thoir gnogag air aplacaid a’ bhrabhsair ⁊ tagh &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Tadhail air taic Mozilla">
 <!ENTITY pref_about_firefox "Mu &brandShortName;">
 <!ENTITY pref_vendor_faqs "CÀBHA">
@@ -503,6 +509,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "Air ais">
 <!ENTITY find_next "Air adhart">
 <!ENTITY find_close "Dùin">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "Cha deach an abairt a lorg">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
