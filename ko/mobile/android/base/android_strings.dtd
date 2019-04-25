@@ -409,6 +409,12 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "동기화된 탭">
 
 <!ENTITY pref_default_browser "기본 브라우저로 지정">
+
+<!ENTITY pref_default_browser2 "&brandShortName;를 기본 웹 브라우저로 만들기">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "브라우저 앱을 탭하고 &brandShortName;를 선택하세요">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla 도움말 방문">
 <!ENTITY pref_about_firefox "&brandShortName; 정보">
 <!ENTITY pref_vendor_faqs "FAQ">
@@ -503,6 +509,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "이전">
 <!ENTITY find_next "다음">
 <!ENTITY find_close "닫기">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "구문을 찾을 수 없음">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
