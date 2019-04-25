@@ -57,6 +57,7 @@ policy-HardwareAcceleration = Ha hamis, akkor kikapcsolja a hardveres gyorsítá
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = A kezdőlap beállítása, és választható módon, annak zárolása.
 policy-InstallAddonsPermission = Bizonyos weboldalak telepíthetnek kiegészítőket.
+policy-LocalFileLinks = Lehetővé teszi, hogy bizonyos webhelyek helyi fájlokra hivatkozzanak.
 policy-NetworkPrediction = Hálózati előrejelzés engedélyezése vagy letiltása (DNS előhívás).
 policy-NewTabPage = Az Új lap oldal engedélyezése vagy letiltása.
 policy-NoDefaultBookmarks = A { -brand-short-name }szal szállított alapértelmezett könyvjelzők és okos könyvjelzők (Legtöbbet látogatott, Friss címkék) létrehozásának letiltása. Megjegyzés: ez a házirend csak a profil első futtatása előtt van érvényben.
@@ -69,6 +70,7 @@ policy-Preferences = Értékek beállítása és zárolása a beállítások egy
 policy-Proxy = Proxy-beállítások konfigurálása.
 policy-RequestedLocales = Adja meg a kért területi beállításokat az alkalmazásnak, az Ön által előnyben részesített sorrendben.
 policy-SanitizeOnShutdown = Összes navigációs adat törlése leállításkor.
+policy-SanitizeOnShutdown2 = Navigációs adatok törlése leállításkor.
 policy-SearchBar = A keresősáv alapértelmezett helyének megadása. A felhasználó továbbra is testreszabhatja.
 policy-SearchEngines = Keresőszolgáltatások beállításainak konfigurálása. Ez a házirend csak a kibővített támogatású kiadásban (ESR) érhető el.
 policy-SearchSuggestEnabled = A keresési javaslatok engedélyezése vagy letiltása.
