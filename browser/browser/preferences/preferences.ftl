@@ -683,7 +683,7 @@ content-blocking-all-cookies = Kaikki evästeet
 content-blocking-all-windows-trackers = Tunnetut seuraimet kaikissa ikkunoissa
 content-blocking-all-third-party-cookies = Kaikki kolmannen osapuolen evästeet
 content-blocking-cryptominers = Kryptolouhijat
-content-blocking-fingerprinters = Yksilöimet
+content-blocking-fingerprinters = Yksilöijät
 content-blocking-warning-title = Huomio!
 content-blocking-warning-desc = Evästeiden ja seuraimien estäminen voi aiheuttaa joidenkin sivustojen toimimattomuutta. Esto on helppo poistaa sivustoilta, joihin luotat.
 content-blocking-warning-description = Sisällön estäminen voi aiheuttaa joidenkin sivustojen toimimattomuutta. Voit poistaa eston luottamiltasi sivustoilta.
@@ -714,8 +714,8 @@ content-blocking-cryptominers-label =
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Yksilöimet
-    .accesskey = m
+    .label = Yksilöijät
+    .accesskey = s
 
 ## Privacy Section - Tracking
 
