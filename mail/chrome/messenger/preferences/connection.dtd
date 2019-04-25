@@ -8,27 +8,48 @@
 
 <!ENTITY  proxyTitle.label              "กำหนดค่าพร็อกซีเพื่อเข้าถึงอินเทอร์เน็ต">
 <!ENTITY  noProxyTypeRadio.label        "ไม่มีพร็อกซี">
+<!ENTITY  noProxyTypeRadio.accesskey    "ม">
 <!ENTITY  systemTypeRadio.label         "ใช้การตั้งค่าพร็อกซีของระบบ">
+<!ENTITY  systemTypeRadio.accesskey     "ช">
 <!ENTITY  WPADTypeRadio.label           "ตรวจหาการตั้งค่าพร็อกซีอัตโนมัติสำหรับเครือข่ายนี้">
+<!ENTITY  WPADTypeRadio.accesskey       "ต">
 <!ENTITY  manualTypeRadio.label         "การกำหนดค่าพร็อกซีด้วยตนเอง:">
+<!ENTITY  manualTypeRadio.accesskey     "ก">
 <!ENTITY  autoTypeRadio.label           "URL กำหนดค่าพร็อกซีอัตโนมัติ:">
+<!ENTITY  autoTypeRadio.accesskey       "ห">
 <!ENTITY  reload.label                  "โหลดใหม่">
+<!ENTITY  reload.accesskey              "โ">
 <!ENTITY  http.label                    "พร็อกซี HTTP:">
+<!ENTITY  http.accesskey                "h">
 <!ENTITY  ssl.label                     "พร็อกซี SSL:">
+<!ENTITY  ssl.accesskey                 "s">
 <!ENTITY  socks.label                   "โฮสต์ SOCKS:">
+<!ENTITY  socks.accesskey               "c">
 <!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "k">
 <!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
 <!ENTITY  HTTPport.label                "พอร์ต:">
+<!ENTITY  HTTPport.accesskey            "พ">
 <!ENTITY  SSLport.label                 "พอร์ต:">
+<!ENTITY  SSLport.accesskey             "อ">
 <!ENTITY  SOCKSport.label               "พอร์ต:">
+<!ENTITY  SOCKSport.accesskey           "ร">
 <!ENTITY  noproxy.label                 "ไม่มีพร็อกซีสำหรับ:">
+<!ENTITY  noproxy.accesskey             "ไ">
 <!ENTITY  noproxyExplain.label          "ตัวอย่าง: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "ใช้เซิร์ฟเวอร์พร็อกซีนี้สำหรับโปรโตคอลทั้งหมด">
+<!ENTITY  shareproxy.accesskey          "ใ">
 <!ENTITY  autologinproxy.label          "ไม่ต้องถามสำหรับการรับรองความถูกต้องหากรหัสผ่านถูกบันทึกไว้">
+<!ENTITY  autologinproxy.accesskey      "ถ">
 <!ENTITY  autologinproxy.tooltip        "ตัวเลือกนี้จะรับรองความถูกต้องของคุณไปยังพร็อกซีโดยอัตโนมัติเมื่อคุณได้บันทึกหนังสือรับรองไว้ คุณจะได้รับการแจ้งหากการรับรองความถูกต้องล้มเหลว">
 <!ENTITY  socksRemoteDNS.label          "DNS แบบพร็อกซีเมื่อใช้ SOCKS v5">
+<!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  dnsOverHttps.label            "เปิดใช้งาน DNS ผ่าน HTTPS">
+<!ENTITY  dnsOverHttps.accesskey        "ป">
 <!ENTITY  dnsOverHttpsUrlDefault.label     "ใช้ค่าเริ่มต้น">
+<!ENTITY  dnsOverHttpsUrlDefault.accesskey "ค">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "ใช้ URL เริ่มต้นสำหรับการแปลงที่อยู่ DNS ผ่าน HTTPS">
 <!ENTITY  dnsOverHttpsUrlCustom.label      "กำหนดเอง">
+<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "น">
 <!ENTITY  dnsOverHttpsUrlCustom.tooltip    "ป้อน URL ที่คุณต้องการสำหรับแปลงที่อยู่ DNS ผ่าน HTTPS">
