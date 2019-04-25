@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+toolbar-context-menu-bookmark-selected-tabs =
+    .label = Embojuaju techaukaha tendayke poravopyrére…
+    .accesskey = T
+toolbar-context-menu-select-all-tabs =
+    .label = Eiporavo opaite tendayke
+    .accesskey = S
 toolbar-context-menu-undo-close-tab =
     .label = Emboguevi tendayke ñemboty{ " " }
     .accesskey = U
