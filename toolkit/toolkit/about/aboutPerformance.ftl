@@ -14,7 +14,7 @@ column-memory = Μνήμη
 
 ## Special values for the Name column
 
-ghost-windows = Καρτέλες που έκλεισαν πρόσφατα
+ghost-windows = Πρόσφατα κλεισμένες καρτέλες
 # Variables:
 #   $title (String) - the title of the preloaded page, typically 'New Tab'
 preloaded-tab = Προφορτωμένη: { $title }
@@ -35,9 +35,9 @@ type-other = Άλλο
 ##   $value (Number) - Value of the energy impact, eg. 0.25 (low),
 ##                     5.38 (medium), 105.38 (high)
 
-energy-impact-high = Υψηλή ({ $value })
-energy-impact-medium = Μέτρια ({ $value })
-energy-impact-low = Χαμηλή ({ $value })
+energy-impact-high = Υψηλό ({ $value })
+energy-impact-medium = Μέτριο ({ $value })
+energy-impact-low = Χαμηλό ({ $value })
 
 ## Values for the Memory column
 ##
