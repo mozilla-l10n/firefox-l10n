@@ -409,6 +409,12 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "Các thẻ đã đồng bộ">
 
 <!ENTITY pref_default_browser "Đặt trình duyệt làm mặc định">
+
+<!ENTITY pref_default_browser2 "Đặt &brandShortName; làm trình duyệt mặc định của bạn">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Nhấn vào ứng dụng Trình duyệt &amp; chọn &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Tới trang hỗ trợ của Mozilla">
 <!ENTITY pref_about_firefox "Giới thiệu &brandShortName;">
 <!ENTITY pref_vendor_faqs "Câu hỏi thường gặp">
@@ -503,6 +509,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "Trước">
 <!ENTITY find_next "Tiếp theo">
 <!ENTITY find_close "Đóng">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "Không tìm thấy cụm từ này">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
