@@ -11,3 +11,6 @@ toolbar-context-menu-reload-selected-tabs =
 toolbar-context-menu-bookmark-selected-tab =
     .label = Markahi Tab Terpilih…
     .accesskey = h
+toolbar-context-menu-undo-close-tab =
+    .label = Urungkan Menutup Tab
+    .accesskey = g
