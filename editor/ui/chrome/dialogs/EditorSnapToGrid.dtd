@@ -5,10 +5,9 @@
 
 <!-- Window title -->
 
-<!ENTITY enableSnapToGrid.label "kích hoạt Dính vào Đường kẻ ô">
-<!ENTITY enableSnapToGrid.accessKey "k">
+<!ENTITY enableSnapToGrid.accessKey "e">
 
 <!ENTITY sizeEditField.label "Kích thước:">
-<!ENTITY sizeEditField.accessKey "h">
+<!ENTITY sizeEditField.accessKey "S">
 
 <!ENTITY pixelsLabel.value "điểm ảnh">

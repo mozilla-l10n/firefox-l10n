@@ -2,19 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addressbookWindow.title                        "Sổ Địa Chỉ">
+<!ENTITY addressbookWindow.title                        "Sổ địa chỉ">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Tập tin">
 <!ENTITY fileMenu.accesskey                             "T">
 <!ENTITY newMenu.label                                  "Mới">
 <!ENTITY newMenu.accesskey                              "M">
-<!ENTITY newContact.label                               "Tên liên hệ trong Sổ Địa chỉ…">
+<!ENTITY newContact.label                               "Sổ địa chỉ liên hệ…">
 <!ENTITY newContact.accesskey                           "c">
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Danh sách Thư…">
 <!ENTITY newListCmd.accesskey                           "D">
-<!ENTITY newAddressBookCmd.label                        "Sổ Địa Chỉ…">
+<!ENTITY newAddressBookCmd.label                        "Sổ địa chỉ…">
 <!ENTITY newAddressBookCmd.accesskey                    "S">
 <!ENTITY newLDAPDirectoryCmd.label                      "Thư mục LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "L">
@@ -22,7 +22,7 @@
 <!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "T">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
-<!ENTITY osxAddressBook.label                           "Sử dụng Sổ địa chỉ Mac OS X">
+<!ENTITY osxAddressBook.label                           "Sử dụng sổ địa chỉ Mac OS X">
 <!ENTITY osxAddressBook.accesskey                       "O">
 <!ENTITY closeCmd.label                                 "Đóng">
 <!ENTITY closeCmd.key                                   "W">
@@ -31,12 +31,12 @@
 <!ENTITY printSetupCmd.accesskey                        "p">
 <!ENTITY printPreviewContactCmd.label                   "Xem trước Bản in Danh bạ">
 <!ENTITY printPreviewContactCmd.accesskey               "X">
-<!ENTITY printPreviewAddressBook.label                  "Xem trước Bản in của Sổ địa chỉ">
+<!ENTITY printPreviewAddressBook.label                  "Xem trước bản in của sổ địa chỉ">
 <!ENTITY printPreviewAddressBook.accesskey              "a">
 <!ENTITY printContactCmd.label                          "In Danh Bạ…">
 <!ENTITY printContactCmd.accesskey                      "I">
 <!ENTITY printContactCmd.key                            "P">
-<!ENTITY printAddressBook.label                         "In Sổ địa chỉ…">
+<!ENTITY printAddressBook.label                         "In sổ địa chỉ…">
 <!ENTITY printAddressBook.accesskey                     "S">
 
 <!-- Edit Menu -->
@@ -59,7 +59,7 @@
 <!ENTITY pasteCmd.accesskey                             "D">
 <!ENTITY deleteCmd.label                                "Xóa">
 <!ENTITY deleteCmd.accesskey                            "X">
-<!ENTITY deleteAbCmd.label                              "Xóa Sổ địa chỉ">
+<!ENTITY deleteAbCmd.label                              "Xóa sổ địa chỉ">
 <!ENTITY deleteContactCmd.label                         "Xóa Danh Bạ">
 <!ENTITY deleteContactsCmd.label                        "Xóa Danh Bạ">
 <!ENTITY deleteListCmd.label                            "Xóa Danh Sách">
@@ -83,7 +83,7 @@
 <!ENTITY viewToolbarsMenu.accesskey                     "C">
 <!ENTITY menubarCmd.label                               "Thanh menu">
 <!ENTITY menubarCmd.accesskey                           "M">
-<!ENTITY showAbToolbarCmd.label                         "Thanh Sổ Địa Chỉ">
+<!ENTITY showAbToolbarCmd.label                         "Thanh công cụ sổ địa chỉ">
 <!ENTITY showAbToolbarCmd.accesskey                     "S">
 <!ENTITY showTaskbarCmd.label                           "Thanh Trạng Thái">
 <!ENTITY showTaskbarCmd.accesskey                       "a">

@@ -9,12 +9,12 @@
 <!ENTITY fieldMapImport.next.accesskey "i">
 <!ENTITY fieldMapImport.previous.label "Trước">
 <!ENTITY fieldMapImport.previous.accesskey "r">
-<!ENTITY fieldMapImport.text "Sử dụng Chuyển Lên và Chuyển Xuống để các trường trong sổ địa chỉ ở bên trái phù hợp với dữ liệu chính xác cho việc nhập ở bên phải. Bỏ chọn các mục mà bạn không muốn nhập.">
+<!ENTITY fieldMapImport.text "Sử dụng chuyển lên và chuyển xuống để các trường trong sổ địa chỉ ở bên trái phù hợp với dữ liệu chính xác cho việc nhập ở bên phải. Bỏ chọn các mục mà bạn không muốn nhập.">
 <!ENTITY fieldMapImport.up.label "Chuyển Lên">
 <!ENTITY fieldMapImport.up.accesskey "L">
 <!ENTITY fieldMapImport.down.label "Chuyển Xuống">
 <!ENTITY fieldMapImport.down.accesskey "X">
-<!ENTITY fieldMapImport.fieldListTitle "Các trường của Sổ Địa Chỉ">
+<!ENTITY fieldMapImport.fieldListTitle "Các trường của sổ địa chỉ">
 <!ENTITY fieldMapImport.dataTitle "Dữ liệu bản ghi cần nhập">
 <!ENTITY fieldMapImport.skipFirstRecord.label "Bản ghi đầu tiên chứa các tên trường">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "B">

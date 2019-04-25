@@ -11,4 +11,4 @@ confirm-messenger-language-change-button = Áp dụng và khởi động lại
 update-pref-write-failure-title = Thất bại khi ghi
 # Variables:
 #   $path (String) - Path to the configuration file
-update-pref-write-failure-message = Không thể lưu thiết lập. Không thể ghi vào tệp: { $path }
+update-pref-write-failure-message = Không thể lưu thiết lập. Không thể ghi vào tập tin: { $path }
