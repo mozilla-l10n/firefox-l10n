@@ -5,14 +5,21 @@
 <!ENTITY  fontsAndEncodingsDialog.title           "แบบอักษรและรหัสอักขระ">
 
 <!ENTITY  language.label                          "แบบอักษรสำหรับ:">
+<!ENTITY  language.accesskey                      "บ">
 
 <!ENTITY  size.label                              "ขนาด:">
+<!ENTITY  sizeProportional.accesskey              "e">
+<!ENTITY  sizeMonospace.accesskey                 "i">
 
 <!ENTITY  proportional.label                      "ความกว้างตามสัดส่วน:">
+<!ENTITY  proportional.accesskey                  "ค">
 
 <!ENTITY  serif.label                             "มีเชิง:">
+<!ENTITY  serif.accesskey                         "ม">
 <!ENTITY  sans-serif.label                        "ไม่มีเชิง:">
+<!ENTITY  sans-serif.accesskey                    "ไ">
 <!ENTITY  monospace.label                         "ความกว้างคงที่:">
+<!ENTITY  monospace.accesskey                     "ว">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -47,6 +54,7 @@
 <!ENTITY  font.langGroup.tibetan                  "ทิเบต">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "ขนาดอักษรต่ำสุด:">
+<!ENTITY minSize.accesskey                        "ข">
 <!ENTITY minSize.none                             "ไม่มี">
 
 <!-- default font type -->
@@ -56,12 +64,17 @@
 <!-- fonts in message -->
 <!ENTITY  fontControl.label                       "การควบคุมแบบอักษร">
 <!ENTITY  useFixedWidthForPlainText.label         "ใช้แบบอักษรความกว้างคงที่สำหรับข้อความตัวอักษรธรรมดา">
+<!ENTITY  fixedWidth.accesskey                    "ช">
 <!ENTITY  useDocumentFonts.label                  "อนุญาตให้ข้อความใช้แบบอักษรอื่น ๆ">
+<!ENTITY  useDocumentFonts.accesskey              "อ">
 
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "จดหมายขาออก:">
+<!ENTITY sendDefaultCharset.accesskey     "จ">
 <!ENTITY languagesTitle2.label            "รหัสอักขระ">
 <!ENTITY composingDescription2.label      "ตั้งค่ารหัสอักขระเริ่มต้นสำหรับการส่งและรับจดหมาย">
 
 <!ENTITY viewDefaultCharsetList.label     "จดหมายขาเข้า:">
+<!ENTITY viewDefaultCharsetList.accesskey  "ด">
 <!ENTITY replyInDefaultCharset3.label     "เมื่อเป็นไปได้ ให้ใช้รหัสอักขระเริ่มต้นในการตอบกลับ">
+<!ENTITY replyInDefaultCharset3.accesskey "เ">
