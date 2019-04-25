@@ -158,7 +158,7 @@ was trying to connect. -->
 <!ENTITY certerror.introPara2 "Aplikace &brandShortName; zjistila možné ohrožení bezpečnosti a stránku na serveru <span class='hostname'/> nenačetla. Pokud se přesto rozhodnete stránku navštívit, útočníci se mohou pokusit zcizit vaše údaje jako např. hesla, e-mailové adresy nebo údaje o platební kartě.">
 <!ENTITY certerror.sts.introPara "Aplikace &brandShortName; zjistila možné ohrožení bezpečnosti a stránku na serveru <span class='hostname'/> nenačetla, protože tato stránka vyžaduje zabezpečené spojení.">
 
-<!ENTITY certerror.expiredCert.introPara "Aplikace &brandShortName; rozpoznala problém a stránku <span class='hostname'/> nenačetla. Server je buď špatně nastaven a nebo hodiny na vašem počítači nejdou správně.">
+<!ENTITY certerror.expiredCert.introPara "Aplikace &brandShortName; zjistila problém a stránku na serveru <span class='hostname'/> nenačetla. Server je buď špatně nastaven a nebo hodiny ve vašem počítači nejdou správně.">
 <!ENTITY certerror.expiredCert.secondPara2 "Pravděpodobně stránce vypršela platnost certifikátu, což brání aplikaci &brandShortName; v bezpečném připojení. Pokud se přesto rozhodnete stránku navštívit, útočníci mohou získat vaše informace, jako hesla, e-mailovou adresu nebo číslo platební karty.">
 <!ENTITY certerror.expiredCert.sts.secondPara "Pravděpodobně stránce vypršela platnost certifikátu, což brání aplikaci &brandShortName; v bezpečném připojení.">
 
@@ -170,8 +170,8 @@ was trying to connect. -->
 ">
 
 <!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
-<p>Čas na vašem počítači je nastaven na <span id='wrongSystemTime_systemDate2'/>. Zkontrolujte prosím nastavení data, času a časové zóny v systémovém nastavení vašeho počítače a stránku <span class='hostname'/> obnovte.</p>
-<p>Pokud je čas nastavený správně, je pravděpodobně špatně nastaven server a tento problém bohužel nemůžete vyřešit. V tom případě o tomto problému informujte správce webové stránky.</p>
+<p>Datum ve vašem počítači je nastaveno na <span id='wrongSystemTime_systemDate2'/>. Zkontrolujte prosím v systémovém nastavení, že máte nastavené správné datum, čas a časové pásmo a obnovte tuto stránku.</p>
+<p>Pokud máte vše nastavené správně, je pravděpodobně špatně nastaven server a tento problém bohužel nemůžete vyřešit. V tom případě můžete o tomto problému informovat správce webu.</p>
 ">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
@@ -242,7 +242,7 @@ pouze zabezpečeně. Z tohoto důvodu není možné přidat pro tento certifiká
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Pokud <span class='mitm-name'/> neznáte, může jít i o útok a bohužel nelze udělat nic, abyste se k této stránce mohli bezpečně připojit.">
 
 <!ENTITY clockSkewError.title "Hodiny ve vašem počítači jsou špatně nastavené">
-<!ENTITY clockSkewError.longDesc "Čas ve vašem počítači je nesprávně nastaven na <span id='wrongSystemTime_systemDate1'/>, což brání aplikaci &brandShortName; v navázání zabezpečeného spojení. Abyste mohli stránku na serveru <span class='hostname'></span> navštívit, nastavte v systémových hodinách správné datum, čas a časové pásmo a obnovte tuto stránku.">
+<!ENTITY clockSkewError.longDesc "Datum ve vašem počítači je nesprávně nastaveno na <span id='wrongSystemTime_systemDate1'/>, což brání aplikaci &brandShortName; v navázání zabezpečeného spojení. Abyste mohli stránku na serveru <span class='hostname'></span> navštívit, nastavte v systémových hodinách správné datum, čas a časové pásmo a obnovte tuto stránku.">
 
 <!ENTITY prefReset.longDesc "Zdá se, že příčinou může být vaše nastavení zabezpečení. Chcete obnovit výchozí nastavení?">
 <!ENTITY prefReset.label "Obnovit výchozí nastavení">

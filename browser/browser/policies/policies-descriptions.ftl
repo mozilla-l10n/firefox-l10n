@@ -57,6 +57,7 @@ policy-HardwareAcceleration = Hodnota false vypne použití hardwarové akcelera
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Nastavení a případné uzamčení domovské stránky.
 policy-InstallAddonsPermission = Povolení instalace doplňků z vybraných webových stránek.
+policy-LocalFileLinks = Povolí vybraným stránkám odkazovat na soubory uložené na místním disku.
 policy-NetworkPrediction = Povolení nebo zakázání přednačítání DNS.
 policy-NewTabPage = Povolení nebo zákaz stránky nového panelu.
 policy-NoDefaultBookmarks = Vypnutí vytváření výchozích záložek a chytrých záložek aplikace { -brand-short-name } (Nejnavštěvovanější, Poslední štítky). Poznámka: toto pravidlo se uplatní jen pokud bude nastaveno před prvním spuštěním.
