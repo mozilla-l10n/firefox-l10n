@@ -409,6 +409,12 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "Синхрондалған беттер">
 
 <!ENTITY pref_default_browser "Негізгі браузер қылу">
+
+<!ENTITY pref_default_browser2 "&brandShortName; негізгі браузер қылыңыз">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Браузер қолданбасын шертіңіз және &brandShortName; таңдаңыз">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla қолдау сайтын шолу">
 <!ENTITY pref_about_firefox "&brandShortName; туралы">
 <!ENTITY pref_vendor_faqs "FAQ">
@@ -503,6 +509,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "Алдыңғы">
 <!ENTITY find_next "Келесі">
 <!ENTITY find_close "Жабу">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "Сөз(дер) табылмады">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
