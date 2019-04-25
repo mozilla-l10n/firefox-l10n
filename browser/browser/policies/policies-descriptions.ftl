@@ -57,6 +57,7 @@ policy-HardwareAcceleration = Om inaktiv, stäng av hårdvaruacceleration.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Ställ in och eventuellt lås startsidan.
 policy-InstallAddonsPermission = Tillåt vissa webbplatser att installera tillägg.
+policy-LocalFileLinks = Tillåt specifika webbplatser att länka till lokala filer.
 policy-NetworkPrediction = Aktivera eller inaktivera nätverksprediktning (DNS-prefetch).
 policy-NewTabPage = Aktivera eller inaktivera sidan Ny flik.
 policy-NoDefaultBookmarks = Inaktivera skapandet av standardbokmärken som levereras med { -brand-short-name } och smarta bokmärken (Mest besökta, Senast använda etiketter). OBS: denna policy fungerar bara om den är inställd innan profilen används för första gången.
