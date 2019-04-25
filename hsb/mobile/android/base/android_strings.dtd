@@ -409,6 +409,12 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "Synchronizowane rajtarki">
 
 <!ENTITY pref_default_browser "Jako standardny wobhladowak nastajić">
+
+<!ENTITY pref_default_browser2 "&brandShortName; k wašemu standardnemu wobhladowakej činić">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Podótkńće so nałoženja wobhladowaka a wubjerće &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Pomoc Mozilla wopytać">
 <!ENTITY pref_about_firefox "Wo &brandShortName;">
 <!ENTITY pref_vendor_faqs "Huste prašenja">
@@ -503,6 +509,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "Předchadny">
 <!ENTITY find_next "Přichodny">
 <!ENTITY find_close "Začinić">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "Fraza njeje so namakała">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
