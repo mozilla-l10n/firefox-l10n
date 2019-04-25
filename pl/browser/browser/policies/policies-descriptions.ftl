@@ -57,6 +57,7 @@ policy-HardwareAcceleration = Wartość „fałsz” wyłącza przyspieszanie sp
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Ustawienie i opcjonalna blokada strony startowej.
 policy-InstallAddonsPermission = Zezwalanie pewnym witrynom na instalowanie dodatków.
+policy-LocalFileLinks = Zezwalanie podanym witrynom na odnośniki do lokalnych plików.
 policy-NetworkPrediction = Włączenie lub wyłączenie przewidywania sieci (wstępnego pobierania DNS).
 policy-NewTabPage = Włączenie lub wyłączenie strony nowej karty.
 policy-NoDefaultBookmarks = Wyłączenie tworzenia domyślnych zakładek dołączonych do przeglądarki { -brand-short-name } oraz dynamicznych zakładek („Często odwiedzane” i „Ostatnio używane etykiety”). Uwaga: ta zasada jest uwzględniana tylko przed pierwszym uruchomieniem profilu.
