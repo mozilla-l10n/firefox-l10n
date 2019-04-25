@@ -409,6 +409,12 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "الألسنة المُزامنة">
 
 <!ENTITY pref_default_browser "اجعله المتصفح المبدئي">
+
+<!ENTITY pref_default_browser2 "اضبط &brandShortName; ليكون متصفّحك المبدئي">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "انقر ”تطبيق المتصفح“ واختر &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "زُر موقع دعم موزيلا">
 <!ENTITY pref_about_firefox "عن &brandShortName;">
 <!ENTITY pref_vendor_faqs "الأسئلة الأكثر شيوعًا">
@@ -503,6 +509,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "السابق">
 <!ENTITY find_next "التالي">
 <!ENTITY find_close "أغلِق">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "لا وجود للعبارة">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
