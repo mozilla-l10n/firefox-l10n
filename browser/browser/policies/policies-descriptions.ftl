@@ -57,6 +57,7 @@ policy-HardwareAcceleration = 若为 false，将会关闭硬件加速。
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = 设置主页，可选择锁定。
 policy-InstallAddonsPermission = 允许特定网站安装附加组件。
+policy-LocalFileLinks = 允许特定网站链接到本地文件。
 policy-NetworkPrediction = 启用或禁用网络预测（DNS 预读取）功能。
 policy-NewTabPage = 启用或禁用“新标签页”页面。
 policy-NoDefaultBookmarks = 禁止创建 { -brand-short-name } 捆绑的默认书签以及智能书签（最常访问、最近使用的标签）。注意：此策略仅在配置文件首次运行时生效。
