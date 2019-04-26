@@ -10,6 +10,7 @@
 <!ENTITY firstrun_panel_title_privacy "Confidentialitate">
 <!ENTITY firstrun_privacy_message "Naviga sin sentir te observate">
 <!ENTITY firstrun_privacy_subtext "Le navigation private con protection contra traciamento bloca traciatores durante que tu naviga e non memorara tu chronologia quando tu termina de navigar.">
+<!ENTITY newfirstrun_privacy_subtext "Le navigation reservate bloca le traciatores que te seque online.">
 <!ENTITY firstrun_panel_title_customize "Personalisar">
 <!ENTITY firstrun_customize_message "Rende &brandShortName; tue.">
 <!ENTITY firstrun_customize_subtext "Personalisa &brandShortName; con additivos. Bloca annuncios, adde functionalitates o elige un nove thema pro reflecter tu personalitate.">
@@ -22,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Reprende de ubi tu lassava">
 <!ENTITY firstrun_sync_subtext2 "Usa Sync pro trovar marcapaginas, contrasignos, e altere cosas que tu salva in &brandShortName; sur tote tu apparatos.">
+<!ENTITY newfirstrun_sync_subtext "Synchronisa in modo reservate e secur, le informationes salvate su tu apparato mobile, in le Firefox pro scriptorio de tu computator.">
 <!ENTITY firstrun_signin_message "Connecte te e comencia">
 <!ENTITY firstrun_signin_button "Connecter se a Sync">
+<!ENTITY newfirstrun_signin_button "Activa Sync">
 <!ENTITY  onboard_start_button_browser "Comenciar a navigar">
 <!ENTITY firstrun_button_notnow "Plus tarde">
 <!ENTITY firstrun_button_next "Sequente">
