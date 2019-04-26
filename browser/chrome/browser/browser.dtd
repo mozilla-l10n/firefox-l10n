@@ -498,7 +498,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.unverified.label "Sua conta precisa ser verificada.">
 <!ENTITY appMenuRemoteTabs.signin.label "Entrar no Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gerenciar dispositivos…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Ver abas sincronizadas na barra lateral">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Ver abas sincronizadas no painel lateral">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Conectar outro dispositivo">
 
 <!ENTITY appMenuRecentHighlights.label "Destaques recentes">
