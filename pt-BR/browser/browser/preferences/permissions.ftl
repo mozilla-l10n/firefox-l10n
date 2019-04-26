@@ -94,7 +94,7 @@ permissions-exceptions-addons-desc = Você pode especificar quais sites têm per
 permissions-exceptions-autoplay-media-window2 =
     .title = Exceções - Reprodução automática
     .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Você pode especificar que sites têm ou não permissão para reproduzir automaticamente mídia com som. Digite o endereço do site desejado e clique em Bloquear ou Permitir.
+permissions-exceptions-autoplay-media-desc2 = Você pode especificar que sites têm ou não permissão para reproduzir mídia com som automaticamente. Digite o endereço do site desejado e clique em Bloquear ou Permitir.
 
 ## Site Permissions - Notifications
 

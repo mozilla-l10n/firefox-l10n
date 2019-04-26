@@ -784,13 +784,13 @@ collection-studies =
     .label = Permitir que o { -brand-short-name } instale e execute pesquisas
 collection-studies-link = Ver pesquisas do { -brand-short-name }
 addon-recommendations =
-    .label = Permitir ao { -brand-short-name } fazer recomendações personalizadas de extensões
+    .label = Permitir que o { -brand-short-name } faça recomendações personalizadas de extensões
 addon-recommendations-link = Saiba mais
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = O relatório de dados está desativado nesta configuração
 collection-backlogged-crash-reports =
-    .label = Permitir ao { -brand-short-name } enviar relatórios de travamento em seu nome
+    .label = Permitir que o { -brand-short-name } envie relatórios de travamento em seu nome
     .accesskey = e
 collection-backlogged-crash-reports-link = Saiba mais
 
