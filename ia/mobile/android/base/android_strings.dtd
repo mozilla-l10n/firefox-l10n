@@ -4,7 +4,9 @@
 
 <!ENTITY firstrun_panel_title_welcome "Benvenite">
 <!ENTITY firstrun_urlbar_message2 "Gratias pro eliger &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Benvenite a &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Un navigator mobile moderne de Mozilla, le organisation non lucrative que fide in le web libere e aperte.">
+<!ENTITY newfirstrun_urlbar_subtext "Veloce, reservate e sempre a tu latere.">
 <!ENTITY firstrun_panel_title_privacy "Confidentialitate">
 <!ENTITY firstrun_privacy_message "Naviga sin sentir te observate">
 <!ENTITY firstrun_privacy_subtext "Le navigation private con protection contra traciamento bloca traciatores durante que tu naviga e non memorara tu chronologia quando tu termina de navigar.">
@@ -413,7 +415,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_default_browser2 "Rende &brandShortName; tu navigator ordinari">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
-    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Tocca App Browser e selige &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Visitar le assistentia Mozilla">
 <!ENTITY pref_about_firefox "A proposito de &brandShortName;">
