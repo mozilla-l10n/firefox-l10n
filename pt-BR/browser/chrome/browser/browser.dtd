@@ -515,7 +515,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Fixar no menu">
-<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "F">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Desafixar do menu">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "Remover da barra de ferramentas">
@@ -544,7 +544,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Dica:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hint "Obtenha ajuda para encontrar as coisas! Procure o &#x1F50E; próximo às sugestões de pesquisa.">
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Obtenha ajuda para encontrar as coisas! Procure a &#x1F50E; ao lado das sugestões de pesquisa.">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Alterar opções…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "A">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Alterar preferências…">
