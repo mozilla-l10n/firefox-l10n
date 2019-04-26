@@ -83,6 +83,8 @@ about-debugging-setup-title = Усталёўка
 # Link displayed in the Setup page that leads to MDN page with list of supported devices.
 # Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
 about-debugging-setup-link-android-devices = Паглядзець спіс падтрыманых Android-прылад
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox = Карыстайцеся <a>{ about-debugging-this-firefox-runtime-name }</a> для адладкі картак, пашырэнняў і service workers на гэтай версіі { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Падключыць прыладу
 # USB section of the Setup page
