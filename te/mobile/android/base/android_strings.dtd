@@ -408,6 +408,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "సింకైన ట్యాబులు">
 
 <!ENTITY pref_default_browser "అప్రమేయ విహారిణి చెయ్యి">
+
+<!ENTITY pref_default_browser2 "&brandShortName;ను మీ అప్రమేయ విహారిణిగా చేసుకోండి">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla తోడ్పాటును చూడండి">
 <!ENTITY pref_about_firefox "&brandShortName; గురించి">
 <!ENTITY pref_vendor_faqs "సందేహాలు">
@@ -502,6 +507,9 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "క్రితం">
 <!ENTITY find_next "తరువాత">
 <!ENTITY find_close "మూసివేయి">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
