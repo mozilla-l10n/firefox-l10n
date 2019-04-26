@@ -8,6 +8,11 @@ profiles-create = Krijoni një Profil të Ri
 profiles-restart-title = Riniseni
 profiles-restart-in-safe-mode = Riniseni me Shtesat të Çaktivizuara…
 profiles-restart-normal = Riniseni normalisht…
+profiles-conflict = Një tjetër kopje e { -brand-product-name }-it ka bërë ndryshime te profilet. Duhet të rinisni { -brand-short-name }-in, përpara se të bëni ndryshime të tjera.
+profiles-flush-fail-title = Nryshimet s’u ruajtën
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Një gabim i papritur pengoi ruajtjen e ndryshimeve tuaja.
+profiles-flush-restart-button = Rinise { -brand-short-name }-in
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profil: { $name }
