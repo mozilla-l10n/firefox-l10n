@@ -648,6 +648,7 @@ addressbar-suggestions-settings = 검색 엔진 추천 설정 변경
 
 content-blocking-header = 콘텐츠 차단
 content-blocking-description = 사용자의 웹 활동을 추적하는 제3차 콘텐츠를 차단합니다. 웹사이트 간에 사용자의 온라인 활동이 얼마나 저장되고 공유되는지를 제어하세요.
+content-blocking-section-description = 탐색하는 동안 개인 정보를 보호하십시오. 사용자가 방문하는 사이트를 추적하고 개인을 식별하는 보이지 않는 콘텐츠를 차단합니다. 이 콘텐츠 중 일부를 차단하면 페이지가 더 빨리 로드 될 수 있습니다.
 content-blocking-learn-more = 자세히 보기
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
