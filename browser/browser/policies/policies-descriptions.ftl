@@ -57,6 +57,7 @@ policy-HardwareAcceleration = False 값이면 하드웨어 가속 기능을 끕�
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = 홈페이지를 설정하고 선택적으로 잠급니다.
 policy-InstallAddonsPermission = 특정 웹사이트가 부가 기능을 설치할 수 있게 허용합니다.
+policy-LocalFileLinks = 특정 웹사이트가 로컬 파일을 링크하도록 허용합니다.
 policy-NetworkPrediction = 네트워크 예측(DNS 프리페칭)을 사용 또는 사용하지 않게 합니다.
 policy-NewTabPage = 새 탭 페이지를 활성화하거나 비활성화합니다.
 policy-NoDefaultBookmarks = { -brand-short-name } 기본 북마크 번들과 스마트 북마크(자주 방문, 최근 태그)가 생성되지 않게 합니다. 참고: 이 정책은 프로필을 처음으로 실행하기 전에만 효과적입니다.
@@ -69,6 +70,7 @@ policy-Preferences = 설정의 하위 집합에 대한 값을 설정하고 잠�
 policy-Proxy = 프록시 설정을 구성합니다.
 policy-RequestedLocales = 어플리케이션의 요청된 로케일의 목록을 설정 순서로 설정합니다.
 policy-SanitizeOnShutdown = 종료시 모든 네비게이션 데이터를 삭제합니다.
+policy-SanitizeOnShutdown2 = 종료시 탐색 데이터를 삭제합니다.
 policy-SearchBar = 검색 바의 기본 위치를 설정합니다. 사용자가 다시 재설정 할 수 있습니다.
 policy-SearchEngines = 검색 엔진 설정을 구성합니다. 이 정책은 확장 지원 버전(ESR)에서만 가능합니다.
 policy-SearchSuggestEnabled = 추천 검색어를 활성화하거나 비활성화합니다.

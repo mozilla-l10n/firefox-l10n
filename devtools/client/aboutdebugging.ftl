@@ -293,3 +293,6 @@ about-debugging-main-process-name = 메인 프로세스
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-description2 = 대상 브라우저의 메인 프로세스
+# Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon =
+    .alt = 메시지 닫기
