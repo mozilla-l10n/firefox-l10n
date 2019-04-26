@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 saved-logins =
-    .title = Contas de acesso salvos
+    .title = Contas de acesso salvas
 window-close =
     .key = w
 focus-search-shortcut =
@@ -61,7 +61,7 @@ hide-passwords =
     .label = Ocultar senhas
     .accesskey = s
 logins-description-all = Contas de acessos dos seguintes sites estão armazenadas no seu computador
-logins-description-filtered = As seguintes contas de acesso satisfazem a sua pesquisa:
+logins-description-filtered = As seguintes contas de acesso satisfazem sua pesquisa:
 remove-all =
     .label = Remover tudo
     .accesskey = t
@@ -72,4 +72,4 @@ remove-all-passwords-prompt = Tem certeza que deseja remover todas as senhas?
 remove-all-passwords-title = Remover todas as senhas
 no-master-password-prompt = Tem certeza que deseja mostrar suas senhas?
 auto-fill-logins-and-passwords =
-    .label = Preencher automaticamente logins e senhas
+    .label = Preencher automaticamente contas e senhas
