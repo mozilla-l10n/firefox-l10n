@@ -471,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Vacuar le chronologia recente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar le session previe">
 <!ENTITY appMenuHistory.viewSidebar.label "Vider barra lateral de chronologia">
+<!ENTITY appMenuHistory.hideSidebar.label "Celar barra lateral de chronologia">
 <!ENTITY appMenuHistory.recentHistory.label "Chronologia recente">
 <!ENTITY appMenuHelp.label "Adjuta">
 
@@ -499,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Connecter se a Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gerer le apparatos…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vider le barra lateral de schedas synchronisate">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Celar le barra lateral de schedas synchronisate">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Connecter un altere apparato">
 
 <!ENTITY appMenuRecentHighlights.label "Evidentias recente">
