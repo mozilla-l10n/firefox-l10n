@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Bem-vindo(a)">
 <!ENTITY firstrun_urlbar_message2 "Obrigado por escolher o &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Bem-vindo(a) ao &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Um navegador móvel moderno da Mozilla, a sem fins lucrativos comprometida com uma web livre e aberta.">
+<!ENTITY newfirstrun_urlbar_subtext "Rápido, privado e do seu lado.">
 <!ENTITY firstrun_panel_title_privacy "Privacidade">
 <!ENTITY firstrun_privacy_message "Navegue como se ninguém estivesse a ver">
 <!ENTITY firstrun_privacy_subtext "A Navegação privada com Proteção contra monitorização bloqueia trackers enquanto navega e não irá memorizar o seu histórico quando terminar de navegar.">
+<!ENTITY newfirstrun_privacy_subtext "A navegação privada bloqueia os trackers de anúncios que lhe perseguem online.">
 <!ENTITY firstrun_panel_title_customize "Personalizar">
 <!ENTITY firstrun_customize_message "Faça o &brandShortName; seu.">
 <!ENTITY firstrun_customize_subtext "Personalize o &brandShortName; com extras. Bloqueie anúncios, adicione funcionalidades, ou escolha um novo tema para refletir a sua personalidade.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Retome onde ficou.">
 <!ENTITY firstrun_sync_subtext2 "Utilize o Sync para encontrar os marcadores, palavras-passe, e outras coisas que guarda no &brandShortName; em todos os seus dispositivos.">
+<!ENTITY newfirstrun_sync_subtext "Sincronize as coisas que guarda em dispositivos móveis no Firefox para computador, de forma privada e segura.">
 <!ENTITY firstrun_signin_message "Ligue-se para começar">
 <!ENTITY firstrun_signin_button "Iniciar sessão no Sync">
+<!ENTITY newfirstrun_signin_button "Ligar o Sync">
 <!ENTITY  onboard_start_button_browser "Iniciar navegação">
 <!ENTITY firstrun_button_notnow "Agora não">
 <!ENTITY firstrun_button_next "Seguinte">
@@ -413,7 +418,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_default_browser2 "Fazer do &brandShortName; o seu navegador predefinido">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
-    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Toque em Aplicação do navegador e selecione &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Visite o Apoio da Mozilla">
 <!ENTITY pref_about_firefox "Acerca do &brandShortName;">
