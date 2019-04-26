@@ -55,6 +55,9 @@ about-debugging-sidebar-item-connected-label = Connecté
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
 about-debugging-sidebar-runtime-item-waiting-for-browser = En attente du navigateur…
+# Text displayed in sidebar items for remote devices that have been disconnected from the
+# computer.
+about-debugging-sidebar-runtime-item-unplugged = Débranché
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName } ({ $deviceName })
@@ -253,6 +256,8 @@ about-debugging-worker-action-unregister = Désinscrire
 about-debugging-worker-status-running = Exécution
 # Displayed for service workers in runtime pages that are registered but stopped.
 about-debugging-worker-status-stopped = Arrêté
+# Displayed for service workers in runtime pages that are registering.
+about-debugging-worker-status-registering = Inscription en cours
 # Displayed for service workers in runtime pages, to label the scope of a worker
 about-debugging-worker-scope =
     .label = Portée
