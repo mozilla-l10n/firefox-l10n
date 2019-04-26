@@ -100,6 +100,12 @@ about-debugging-setup-usb-status-enabled = Уключана
 about-debugging-setup-usb-status-disabled = Выключана
 about-debugging-setup-usb-status-updating = Абнаўленне…
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu = Уключыце меню распрацоўшчыка на вашай Android-прыладзе. <a>Даведацца, як</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug = Уключыце адладку USB у меню распрацоўшчыка Android. <a>Даведацца, як</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox = Уключыце адладку USB ў Firefox на Android-прыладзе. <a>Даведацца, як</a>
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Падключыце Android-прыладу да камп'ютара.
 # Network section of the Setup page
 about-debugging-setup-network =
@@ -109,6 +115,17 @@ about-debugging-setup-network =
 about-debugging-network-locations-add-button = Дадаць
 # Text to display when there are no locations to show.
 about-debugging-network-locations-empty-text = Ніводнага сеткавага месцазнаходжання пакуль не дададзена.
+# Text of the label for the text input that allows users to add new network locations in
+# the Connect page. A host is a hostname and a port separated by a colon, as suggested by
+# the input's placeholder "localhost:6080".
+about-debugging-network-locations-host-input-label = Хост:
+# Text of a button displayed next to existing network locations in the Connect page.
+# Clicking on it removes the network location from the list.
+about-debugging-network-locations-remove-button = Выдаліць
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = Хост { $host-value } ужо зарэгістраваны
 
 # Runtime Page strings
 
@@ -138,6 +155,10 @@ about-debugging-runtime-processes =
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
 about-debugging-runtime-profile-button = Прафіляваць асяроддзе
+# This string is displayed in the runtime page if the current configuration of the
+# target runtime is incompatible with service workers. "Learn more" points to MDN.
+# https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
+about-debugging-runtime-service-workers-not-compatible = Канфігурацыя вашага браўзера несумяшчальная з Service Workers. <a>Даведацца больш</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -181,6 +202,13 @@ about-debugging-tmp-extension-reload-button = Перазагрузіць
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = Выдаліць
+# Message displayed in the file picker that opens to select a temporary extension to load
+# (triggered by the button using "about-debugging-tmp-extension-install-button")
+# manifest.json .xpi and .zip should not be localized.
+# Note: this message is only displayed in Windows and Linux platforms.
+about-debugging-tmp-extension-install-message = Выберыце файл manifest.json або архіў .xpi/.zip
+# This string is displayed as a message about the add-on having a temporaryID.
+about-debugging-tmp-extension-temporary-id = Гэты WebExtension мае часовы ID. <a>Падрабязней</a>
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
