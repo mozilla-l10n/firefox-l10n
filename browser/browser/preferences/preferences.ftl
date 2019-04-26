@@ -630,7 +630,7 @@ sitedata-option-block-unvisited =
 sitedata-option-block-all-third-party =
     .label = Todos os cookies de terceiros (pode atrapalhar alguns sites)
 sitedata-option-block-all =
-    .label = Todos os cookies (atrapalhará vários sites)
+    .label = Todos os cookies (atrapalha vários sites)
 sitedata-clear =
     .label = Limpar dados…
     .accesskey = L
@@ -685,7 +685,7 @@ content-blocking-unvisited-cookies = Cookies de sites não visitados
 content-blocking-all-windows-trackers = Rastreadores conhecidos, em todas as janelas
 content-blocking-all-third-party-cookies = Todos os cookies de terceiros
 content-blocking-cryptominers = Criptomineradores
-content-blocking-fingerprinters = Fingerprinters
+content-blocking-fingerprinters = Fingerprinters (rastreadores de "impressões digitais")
 content-blocking-warning-title = Atenção!
 content-blocking-warning-desc = Bloquear cookies e rastreadores pode atrapalhar alguns sites. É fácil desativar o bloqueio em sites que você confia.
 content-blocking-warning-description = O bloqueio de conteúdo pode fazer alguns sites não funcionarem direito. É fácil desativar o bloqueio em sites que você confia.
@@ -716,8 +716,8 @@ content-blocking-cryptominers-label =
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Rastreadores de "impressões digitais"
-    .accesskey = m
+    .label = Fingerprinters (rastreadores de "impressões digitais")
+    .accesskey = F
 
 ## Privacy Section - Tracking
 
