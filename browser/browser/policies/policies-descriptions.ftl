@@ -69,6 +69,7 @@ policy-Preferences = Définit et verrouille la valeur d’un sous-ensemble de pr
 policy-Proxy = Configure les paramètres du proxy.
 policy-RequestedLocales = Définit la liste des locales demandées par l’application, dans l’ordre de préférence.
 policy-SanitizeOnShutdown = Supprime toutes les données de navigation à la fermeture.
+policy-SanitizeOnShutdown2 = Effacer les données de navigation à la fermeture.
 policy-SearchBar = Définit l’emplacement par défaut de la barre de recherche. L’utilisateur garde la possibilité de la personnaliser.
 policy-SearchEngines = Configure les paramètres du moteur de recherche. Cette propriété n’est disponible que sur la version Extended Support Release (ESR).
 policy-SearchSuggestEnabled = Permet d’activer ou de désactiver les suggestions de recherche.
