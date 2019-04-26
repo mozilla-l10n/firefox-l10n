@@ -7,7 +7,13 @@
 
 <!ENTITY fromAddr.label "Od:">
 <!ENTITY fromAddr.accesskey "O">
-<!ENTITY subject.label  "Predmet:">
+<!ENTITY toAddr.label "Komu:">
+<!ENTITY ccAddr.label "Kópia:">
+<!ENTITY bccAddr.label "Skrytá kópia:">
+<!ENTITY replyAddr.label "Odpovedať na:">
+<!ENTITY newsgroupsAddr.label "Diskusná skupina:">
+<!ENTITY followupAddr.label "Sledovanie pre:">
+<!ENTITY subject.label "Predmet:">
 <!ENTITY subject.accesskey "d">
 <!ENTITY attachments.label "Prílohy:">
 <!ENTITY attachments.accesskey "r">
