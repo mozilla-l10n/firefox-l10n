@@ -23,10 +23,10 @@
 <!ENTITY cmd.showPreferencesUnix.label        "환경 설정">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "부가 기능 환경 설정 변경">
 
-<!ENTITY cmd.showReleaseNotes.label           "제품 소개 보이기">
-<!ENTITY cmd.showReleaseNotes.tooltip         "현재 업데이트 시 제품 소개 보이기">
-<!ENTITY cmd.hideReleaseNotes.label           "제품 소개 숨기기">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "현재 업데이트 시 제품 소개 숨기기">
+<!ENTITY cmd.showReleaseNotes.label           "출시 정보 보이기">
+<!ENTITY cmd.showReleaseNotes.tooltip         "이 업데이트의 출시 정보 보이기">
+<!ENTITY cmd.hideReleaseNotes.label           "출시 정보 숨기기">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "이 업데이트의 출시 정보 숨기기">
 <!ENTITY cmd.findReplacement.label            "다른 플러그인 찾기">
 
 <!-- download/install progress -->
@@ -61,9 +61,9 @@
 <!ENTITY addon.includeUpdate.label            "업데이트에 포함">
 <!ENTITY addon.updateAvailable.label          "업데이트 사용 가능">
 <!ENTITY addon.checkingForUpdates.label       "업데이트 확인…">
-<!ENTITY addon.releaseNotes.label             "릴리즈 노트:">
+<!ENTITY addon.releaseNotes.label             "출시 정보:">
 <!ENTITY addon.loadingReleaseNotes.label      "읽는 중…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "죄송합니다. 릴리스 노트를 로드하는 중에 오류가 발생했습니다.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "죄송합니다. 출시 정보를 읽어오는 중에 오류가 발생했습니다.">
 
 <!ENTITY addon.createdBy.label                "- ">
 
