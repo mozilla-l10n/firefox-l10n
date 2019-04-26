@@ -5,6 +5,7 @@
 # Strings in this file are used to localize button titles displayed on the 
 # MacBook Touch Bar.
 back = వెనుకకు
+forward = ముందుకు
 home = ముంగిలి
 fullscreen = నిండు తెర
 new-tab = కొత్త ట్యాబు

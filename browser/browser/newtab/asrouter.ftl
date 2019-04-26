@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = సిఫార్సు చేయబడిన పొడగింత
+cfr-doorhanger-pintab-heading = ఇది ప్రయత్నించండి: ట్యాబును పిన్ చెయ్యడం
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ఇది నేను ఎందుకు చూస్తున్నాను
 cfr-doorhanger-extension-cancel-button = ఇప్పుడు వద్దు
     .accesskey = N
 cfr-doorhanger-extension-ok-button = ఇప్పుడే చేర్చు
     .accesskey = A
+cfr-doorhanger-pintab-ok-button = ఈ ట్యాబును పిన్ చేయి
+    .accesskey = P
 cfr-doorhanger-extension-never-show-recommendation = ఈ సిఫార్సును నాకు చూపించవద్దు
     .accesskey = S
 cfr-doorhanger-extension-learn-more-link = ఇంకా తెలుసుకోండి

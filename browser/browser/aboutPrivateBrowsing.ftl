@@ -14,6 +14,7 @@ about-private-browsing-info-searches = శోధనలు
 about-private-browsing-info-downloads = దింపుకోళ్ళు
 private-browsing-title = అంతరంగిక విహరణ
 about-private-browsing-info-saved = { -brand-short-name } <strong>వీటిని భద్రపరుస్తుంది</strong> మీ:
+about-private-browsing-info-myths = అంతరంగిక విహారణ గురించి సామాన్య అపోహలు
 about-private-browsing-info-clipboard = కాపీచేసిన పాఠ్యం
 about-private-browsing-info-temporary-files = తాత్కాలిక ఫైళ్ళు
 about-private-browsing-info-cookies = కుకీలు
