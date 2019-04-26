@@ -20,9 +20,9 @@
 <!ENTITY            renameButton.accesskey "d">
 <!ENTITY            deleteButton.label     "Profili sil…">
 <!ENTITY            deleteButton.accesskey "s">
-<!-- manager entities -->
 
-<!ENTITY            pmDescription.label    "&brandShortName; ayarlarınız, tercihleriniz ve diğer kullanıcı öğelerinizle ilgili bilgileri kullanıcı profilinizde depolar.">
+<!-- manager entities -->
+<!ENTITY            pmDescription.label    "&brandShortName;; ayarlarınız, tercihleriniz ve diğer kullanıcı öğelerinizle ilgili bilgileri kullanıcı profilinizde depolar.">
 
 <!ENTITY            offlineState.label    "Çevrim dışı çalış">
 <!ENTITY            offlineState.accesskey "e">
