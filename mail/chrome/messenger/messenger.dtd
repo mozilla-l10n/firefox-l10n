@@ -606,6 +606,8 @@
 <!ENTITY compactButton.tooltip "Hiqini mesazhet e fshirë prej dosjes së përzgjedhur">
 <!ENTITY appmenuButton1.tooltip "Shfaq Menunë e &brandShortName;-it">
 
+<!ENTITY addonsButton.tooltip "Administroni shtesat tuaja">
+
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Përcille Brendazi">
 <!ENTITY buttonMenuForwardAsAttachment.label "Përcille Si Bashkëngjitje">
@@ -813,12 +815,6 @@
 <!ENTITY contextPrintPreview.label "Paraparje e Shtypjes">
 <!ENTITY contextPrintPreview.accesskey "a">
 
-<!-- Thread Pane Column Picker -->
-<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
-     This option in the thread pane column picker causes us to reset the
-     customizations for the thread pane columns in this folder to their default.
-  -->
-<!ENTITY columnPicker.resetToInbox.label "Ktheji shtyllat te parazgjedhjet">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
      the "columnPicker.applyToFolder.label" and
@@ -858,7 +854,6 @@
      "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "Këtë dosje">
-
 
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Luaje">
