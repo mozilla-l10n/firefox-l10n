@@ -414,6 +414,7 @@ shown from Android O while a tab is being queued.-->
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "“Tarayıcı uygulaması”na dokunup &brandShortName;’u seçin">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla Destek’i ziyaret et">
 <!ENTITY pref_about_firefox "&brandShortName; hakkında">
 <!ENTITY pref_vendor_faqs "SSS">
