@@ -23,9 +23,9 @@
 <!ENTITY helpKeyboardShortcuts.label     "Atalhos de teclado">
 <!ENTITY helpKeyboardShortcuts.accesskey "h">
 
-<!ENTITY helpSafeMode.label       "Reiniciar com as extensões desativadas…">
+<!ENTITY helpSafeMode.label       "Reiniciar com extensões desativadas…">
 <!ENTITY helpSafeMode.accesskey   "R">
-<!ENTITY helpSafeMode.stop.label       "Reiniciar com as extensões ativadas">
+<!ENTITY helpSafeMode.stop.label       "Reiniciar com extensões ativadas">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 
 <!ENTITY helpTroubleshootingInfo.label      "Informações para resolver problemas">
