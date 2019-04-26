@@ -56,6 +56,16 @@ about-telemetry-upload-type =
         [enabled] i aktivizuar
        *[disabled] i çaktivizuar
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } kampion, mesatare = { $prettyAverage }, sum = { $sum }
+       *[other] { $sampleCount } kampionë, mesatare = { $prettyAverage }, sum = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Në këtë faqe shfaqen të dhënat e grumbulluara nga Telemetry-a rreth funksionimit, hardware-it, përdorimit dhe përshtatjeve. Këto të dhëna i parashtrohen { $telemetryServerOwner }-it për të ndihmuar në përmirësimin e { -brand-full-name }.
@@ -125,6 +135,7 @@ about-telemetry-category-header = kategori
 about-telemetry-method-header = metodë
 about-telemetry-object-header = objekt
 about-telemetry-extra-header = ekstra
+about-telemetry-origin-section = Origin Telemetry
 about-telemetry-origin-origin = origjinë
 about-telemetry-origin-count = numër
 # Variables:
