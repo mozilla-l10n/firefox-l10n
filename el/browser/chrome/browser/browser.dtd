@@ -898,7 +898,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.enableMixedContentBlocking.label "Ενεργοποίηση προστασίας">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "Ε">
-<!ENTITY identity.disableMixedContentBlocking.label "Απενεργοποίηση προστασίας για την ώρα">
+<!ENTITY identity.disableMixedContentBlocking.label "Απενεργοποίηση προστασίας προσωρινά">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "π">
 <!ENTITY identity.learnMore "Μάθετε περισσότερα">
 
