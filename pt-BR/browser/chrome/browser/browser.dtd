@@ -440,7 +440,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey     "P">
 
-<!ENTITY logins.label                           "Usuários e Senhas">
+<!ENTITY logins.label                           "Contas e Senhas">
 
 <!ENTITY clearRecentHistory.label               "Limpar histórico recente…">
 

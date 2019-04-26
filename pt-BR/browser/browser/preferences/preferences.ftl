@@ -542,7 +542,7 @@ privacy-header = Privacidade do navegador
 
 ## Privacy Section - Forms
 
-logins-header = Logins e Senhas
+logins-header = Contas e Senhas
 forms-ask-to-save-logins =
     .label = Perguntar se deve salvar contas e senhas de acesso de sites
     .accesskey = r
@@ -678,7 +678,7 @@ content-blocking-standard-desc = Balanceado entre proteção e desempenho. Permi
 content-blocking-strict-desc = Bloqueia todos os rastreadores que o { -brand-short-name } detecta. Pode atrapalhar alguns sites.
 content-blocking-strict-description = Proteção mais forte, pode atrapalhar alguns sites.
 content-blocking-custom-desc = Escolha o que bloquear.
-content-blocking-private-trackers = Rastreadores conhecidos, somente em janelas privativas
+content-blocking-private-trackers = Rastreadores conhecidos, só em janelas privativas
 content-blocking-third-party-cookies = Cookies rastreadores de terceiros
 content-blocking-all-cookies = Todos os cookies
 content-blocking-unvisited-cookies = Cookies de sites não visitados
@@ -690,7 +690,7 @@ content-blocking-warning-title = Atenção!
 content-blocking-warning-desc = Bloquear cookies e rastreadores pode atrapalhar alguns sites. É fácil desativar o bloqueio em sites que você confia.
 content-blocking-warning-description = O bloqueio de conteúdo pode fazer alguns sites não funcionarem direito. É fácil desativar o bloqueio em sites que você confia.
 content-blocking-learn-how = Saiba como
-content-blocking-reload-description = Você precisa recarregar suas abas para aplicar essas mudanças.
+content-blocking-reload-description = É preciso recarregar as abas para aplicar essas mudanças.
 content-blocking-reload-tabs-button =
     .label = Recarregar todas as abas
     .accesskey = R
