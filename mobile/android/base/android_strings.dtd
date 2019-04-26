@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Vitajte">
 <!ENTITY firstrun_urlbar_message2 "Ďakujeme, že ste si vybrali &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Víta vás &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Moderný mobilný prehliadač od Mozilly - neziskovej organizácie, odhodlanej chrániť slobodný a otvorený web.">
+<!ENTITY newfirstrun_urlbar_subtext "Rýchly, súkromný a vždy na vašej strane.">
 <!ENTITY firstrun_panel_title_privacy "Súkromie">
 <!ENTITY firstrun_privacy_message "Prehliadajte, akoby sa nikto nepozeral">
 <!ENTITY firstrun_privacy_subtext "Súkromné prehliadanie s Ochranou pred sledovaním blokuje sledovacie prvky a po ukončení prehliadania si nebude pamätať históriu.">
+<!ENTITY newfirstrun_privacy_subtext "Súkromné prehliadanie blokuje reklamné sledovacie prvky, ktoré sledujú vaše správanie na internete.">
 <!ENTITY firstrun_panel_title_customize "Prispôsobenie">
 <!ENTITY firstrun_customize_message "Prispôsobte si svoj prehliadač &brandShortName;.">
 <!ENTITY firstrun_customize_subtext "Prispôsobte si svoj prehliadač &brandShortName; pomocou doplnkov. Blokujte reklamy, pridajte si doň funkcie alebo si vyberte tému vzhľadu, ktorá korešponduje s vašou osobnosťou.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Synchronizácia">
 <!ENTITY firstrun_sync_message2 "Pokračujte tam, kde ste prestali.">
 <!ENTITY firstrun_sync_subtext2 "Nájdite pomocou služby Sync záložky, heslá a ďalšie veci, ktoré ste si uložili do prehliadača &brandShortName; na všetkých svojich zariadeniach.">
+<!ENTITY newfirstrun_sync_subtext "Zosynchronizujte si veci, ktoré si uložíte na mobile s počítačom - bezpečne a s ohľadom na súkromie.">
 <!ENTITY firstrun_signin_message "Pripojte sa a začnite">
 <!ENTITY firstrun_signin_button "Prihlásiť sa k službe Sync">
+<!ENTITY newfirstrun_signin_button "Zapnúť synchronizáciu">
 <!ENTITY  onboard_start_button_browser "Začať prehliadať">
 <!ENTITY firstrun_button_notnow "Teraz nie">
 <!ENTITY firstrun_button_next "Ďalej">
@@ -413,7 +418,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_default_browser2 "Nastaviť &brandShortName; ako predvolený prehliadač">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
-    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Ťuknite na „Prehliadač“ a vyberte &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Navštíviť Podporu Mozilly">
 <!ENTITY pref_about_firefox "O prehliadači &brandShortName;">
