@@ -64,6 +64,8 @@ but will never be visible at the same time. -->
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "f">
 
+<!-- Tab context menu -->
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -1031,8 +1033,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cryptominers.label "Criptomineradores">
 <!ENTITY contentBlocking.cryptominersView.label "Criptomineradores">
 
-<!ENTITY contentBlocking.fingerprinters.label "Fingerprinters">
-<!ENTITY contentBlocking.fingerprintersView.label "Fingerprinters">
+<!ENTITY contentBlocking.fingerprinters.label 'Fingerprinters (rastreadores de "impressões digitais")'>
+<!ENTITY contentBlocking.fingerprintersView.label 'Fingerprinters (rastreadores de "impressões digitais")'>
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Reportar um problema">
 <!ENTITY contentBlocking.breakageReportView.label "Reportar problemas">
@@ -1105,6 +1107,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "B">
 <!ENTITY updateAvailable.cancelButton.label "Agora não">
 <!ENTITY updateAvailable.cancelButton.accesskey "n">
+
 <!ENTITY updateAvailable.panelUI.label "Baixar atualização do &brandShorterName;">
 
 <!ENTITY updateManual.message "Baixe uma nova cópia do &brandShorterName; e ajudaremos a instalar.">
