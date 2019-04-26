@@ -27,7 +27,7 @@
 <!ENTITY cmd.show.accesskey               "r">
 <!ENTITY cmd.showMac.label                "Mostrar no Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
-<!ENTITY cmd.showDownloads.label          "Mostrar pasta de Downloads">
+<!ENTITY cmd.showDownloads.label          "Mostrar pasta de downloads">
 <!ENTITY cmd.retry.label                  "Repetir">
 <!ENTITY cmd.goToDownloadPage.label       "Ir para a página de download">
 <!ENTITY cmd.goToDownloadPage.accesskey   "d">
