@@ -57,7 +57,9 @@ policy-HardwareAcceleration = Nëse false, çaktivizohet përshpejtimi përmes h
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Caktoni faqen hyrëse, dhe kyçeni në daçi.
 policy-InstallAddonsPermission = Lejojuni disa sajteve të caktuar të instalojnë shtesa.
+policy-LocalFileLinks = Lejo sajte specifikë të krijojnë lidhje te kartela vendore.
 policy-NetworkPrediction = Aktivizoni ose çaktivizoni parashikim rrjeti (<em>DNS prefetching</em>).
+policy-NewTabPage = Aktivizoni ose çaktivizoni faqen Skedë e Re.
 policy-NoDefaultBookmarks = Çaktivizoni krijimin e faqerojtësve parazgjedhje të paketuar me { -brand-short-name }-in, dhe Faqerojtës të Mençur (Më të Vizituarit, Etiketa Së Fundi). Shënim: ky rregull ka efekt vetëm nëse përdoret përpara xhirimit për herë të parë nën profilin përkatës.
 policy-OfferToSaveLogins = Bëjeni të detyrueshëm rregullimin për lejimin e { -brand-short-name }-it të ofrojë të mbajë mend kredenciale hyrjesh dhe fjalëkalime. Pranohet që të dyja vlerat, <em>true</em> dhe <em>false</em>.
 policy-OverrideFirstRunPage = Anashkaloni faqen e xhirimit për herë të parë. Lëreni të zbrazët, nëse doni të çaktivizohet faqja e xhirimit për herë të parë.
@@ -68,8 +70,10 @@ policy-Preferences = Caktoni dhe kyçni vlerën për një nëngrup parapëlqimes
 policy-Proxy = Formësoni rregullime ndërmjetësi
 policy-RequestedLocales = Caktoni për aplikacionin listën e gjuhëve të kërkuara, renditur sipas parapëlqimit.
 policy-SanitizeOnShutdown = Gjatë fikjes, pastroni krejt të dhënat e lëvizjeve.
+policy-SanitizeOnShutdown2 = Gjatë fikjes, pastro të dhëna lëvizjeje.
 policy-SearchBar = Caktoni vendin parazgjedhje për shtyllën e kërkimeve. Përdoruesit ende i lejohet ta përshtatë si të dojë.
 policy-SearchEngines = Formësoni rregullime motori kërkimesh. Ky rregull tani është i përdorshëm vetëm në versionin Extended Support Release (ESR).
+policy-SearchSuggestEnabled = Aktivizoni ose çaktivizoni sugjerime kërkimi.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instaloni module PKCS #11.
 policy-SSLVersionMax = Caktoni version maksimum SSL-je.
