@@ -94,44 +94,44 @@ permissions-exceptions-addons-desc = Você pode especificar quais sites têm per
 permissions-exceptions-autoplay-media-window2 =
     .title = Exceções - Reprodução automática
     .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Você pode especificar que sites sempre ou nunca têm permissão para reproduzir automaticamente mídia com som. Digite o endereço do site que deseja gerenciar e então clique em Bloquear ou Permitir.
+permissions-exceptions-autoplay-media-desc2 = Você pode especificar que sites têm ou não permissão para reproduzir automaticamente mídia com som. Digite o endereço do site desejado e clique em Bloquear ou Permitir.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
     .title = Configurações - Permissões de Notificações
     .style = { permissions-window.style }
-permissions-site-notification-desc = Os seguintes sites solicitaram enviar notificações. Você pode especificar quais sites podem enviar notificações. Você também pode bloquear novas solicitações pedindo para permitir notificações.
+permissions-site-notification-desc = Os seguintes sites solicitaram enviar notificações. Você pode especificar quais sites podem enviar notificações. Também pode bloquear novas solicitações de permissão para exibir notificações.
 permissions-site-notification-disable-label =
-    .label = Bloquear novas solicitações pedindo permissão para exibir notificações
-permissions-site-notification-disable-desc = Isto impedirá que qualquer site não listado acima solicite permissão para enviar notificações. Bloquear notificações pode atrapalhar algumas funcionalidades de sites.
+    .label = Bloquear novas solicitações de permissão para exibir notificações
+permissions-site-notification-disable-desc = Isto impedirá que qualquer site não listado acima solicite permissão para enviar notificações. Bloquear notificações pode atrapalhar funcionalidades de alguns sites.
 
 ## Site Permissions - Location
 
 permissions-site-location-window =
     .title = Configurações - Permissões de Localização
     .style = { permissions-window.style }
-permissions-site-location-desc = Os seguintes sites solicitaram acessar sua localização. Você pode especificar quais sites podem acessar sua localização. Você também pode bloquear novas solicitações pedindo acesso à sua localização.
+permissions-site-location-desc = Os seguintes sites solicitaram acessar sua localização. Você pode especificar quais sites podem acessar sua localização. Também pode bloquear novas solicitações de permissão de acesso à sua localização.
 permissions-site-location-disable-label =
-    .label = Bloquear novas solicitações pedindo para acessar sua localização
-permissions-site-location-disable-desc = Isto impedirá que qualquer site não listado acima solicite permissão para acessar sua localização. Bloquear o acesso à sua localização pode atrapalhar algumas funcionalidades de sites.
+    .label = Bloquear novas solicitações de permissão para acessar sua localização
+permissions-site-location-disable-desc = Isto impedirá que qualquer site não listado acima solicite permissão para acessar sua localização. Bloquear o acesso à sua localização pode atrapalhar funcionalidades de alguns sites.
 
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
     .title = Configurações - Permissões da Câmera
     .style = { permissions-window.style }
-permissions-site-camera-desc = Os seguintes sites solicitaram acesso à sua câmera. Você pode especificar quais sites tem permissão para acessar sua câmera. Você também pode bloquear novas solicitações pedindo acesso à sua câmera.
+permissions-site-camera-desc = Os seguintes sites solicitaram acesso à sua câmera. Você pode especificar quais sites podem acessar sua câmera. Também pode bloquear novas solicitações de permissão de acesso à sua câmera.
 permissions-site-camera-disable-label =
-    .label = Bloquear novas solicitações pedindo para acessar sua câmera
-permissions-site-camera-disable-desc = Isto impedirá que qualquer site não listado acima solicite permissão para acessar sua câmera. Bloquear o acesso à sua câmera pode atrapalhar algumas funcionalidades de sites.
+    .label = Bloquear novas solicitações de permissão para acessar sua câmera
+permissions-site-camera-disable-desc = Isto impedirá que qualquer site não listado acima solicite permissão para acessar sua câmera. Bloquear o acesso à sua câmera pode atrapalhar funcionalidades de alguns sites.
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
     .title = Configurações - Permissões do Microfone
     .style = { permissions-window.style }
-permissions-site-microphone-desc = Os seguintes sites solicitaram acesso ao seu microfone. Você pode especificar quais sites tem permissão para acessar seu microfone. Você também pode bloquear novas solicitações pedindo acesso ao seu microfone.
+permissions-site-microphone-desc = Os seguintes sites solicitaram acesso ao seu microfone. Você pode especificar quais sites podem acessar seu microfone. Também pode bloquear novas solicitações de permissão de acesso ao seu microfone.
 permissions-site-microphone-disable-label =
-    .label = Bloquear novas solicitações pedindo para acessar seu microfone
-permissions-site-microphone-disable-desc = Isto impedirá que qualquer site não listado acima solicite permissão para acessar seu microfone. Bloquear o acesso ao seu microfone pode atrapalhar algumas funcionalidades de sites.
+    .label = Bloquear novas solicitações de permissão para acessar seu microfone
+permissions-site-microphone-disable-desc = Isto impedirá que qualquer site não listado acima solicite permissão para acessar seu microfone. Bloquear o acesso ao seu microfone pode atrapalhar funcionalidades de alguns sites.
