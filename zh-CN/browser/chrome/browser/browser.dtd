@@ -471,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "清除最近的历史记录…">
 <!ENTITY appMenuHistory.restoreSession.label "恢复先前的浏览状态">
 <!ENTITY appMenuHistory.viewSidebar.label "查看历史记录侧栏">
+<!ENTITY appMenuHistory.hideSidebar.label "隐藏历史记录侧栏">
 <!ENTITY appMenuHistory.recentHistory.label "近期历史记录">
 <!ENTITY appMenuHelp.label "帮助">
 
@@ -499,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "登录同步服务">
 <!ENTITY appMenuRemoteTabs.managedevices.label "管理设备…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "显示受同步标签页侧栏">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "隐藏受同步标签页侧栏">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "连接其他设备">
 
 <!ENTITY appMenuRecentHighlights.label "近期聚焦">
@@ -1107,6 +1109,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "暂时不要">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
+
 <!ENTITY updateAvailable.panelUI.label "下载 &brandShorterName; 更新">
 
 <!ENTITY updateManual.message "建议下载 &brandShorterName; 完整包，我们将协助您安装它。">
