@@ -409,6 +409,12 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "Synchronizované panely">
 
 <!ENTITY pref_default_browser "Nastavit jako výchozí prohlížeč">
+
+<!ENTITY pref_default_browser2 "Použít aplikaci &brandShortName; jako výchozí prohlížeč">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Klepněte na „Prohlížeč“ a vyberte &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Navštivte nápovědu">
 <!ENTITY pref_about_firefox "O aplikaci &brandShortName;">
 <!ENTITY pref_vendor_faqs "Časté otázky">
@@ -503,6 +509,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "Předchozí">
 <!ENTITY find_next "Další">
 <!ENTITY find_close "Zavřít">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "Hledaný text nenalezen">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
