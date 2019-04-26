@@ -382,10 +382,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_media_autoplay_block "Φραγή αυτόμ. αναπαραγωγής">
 <!ENTITY pref_zoom_force_enabled "Ενεργοποίηση μεγέθυνσης πάντα">
 <!ENTITY pref_zoom_force_enabled_summary "Εξαναγκασμός δυνατότητας μεγέθυνσης σε κάθε σελίδα">
-<!ENTITY pref_voice_input "Φωνητική εισαγωγή">
-<!ENTITY pref_voice_input_summary2 "Να επιτρέπεται η υπαγόρευση στη μπάρα διευθύνσεων">
+<!ENTITY pref_voice_input "Φωνητική είσοδος">
+<!ENTITY pref_voice_input_summary2 "Να επιτρέπεται η υπαγόρευση στη γραμμή URL">
 <!ENTITY pref_qrcode_enabled "Αναγνώστης κωδικών QR">
-<!ENTITY pref_qrcode_enabled_summary2 "Να επιτρέπεται η χρήση του αναγνώστη κωδικών QR στη μπάρα διευθύνσεων">
+<!ENTITY pref_qrcode_enabled_summary2 "Να επιτρέπεται η σάρωση QR στη γραμμή URL">
 
 <!ENTITY pref_use_master_password "Χρήση ενός κύριου κωδικού">
 <!ENTITY pref_sync_default_title "Λογαριασμός Firefox">
@@ -564,7 +564,7 @@ shown from Android O while a tab is being queued.-->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Περιήγηση πλήρους οθόνης">
-<!ENTITY pref_scroll_title_bar_summary2 "Απόκρυψη της μπάρας εργαλείων του &brandShortName; κατά την κύλιση προς τα κάτω σε μια σελίδα">
+<!ENTITY pref_scroll_title_bar_summary2 "Απόκρυψη της γραμμής εργαλείων του &brandShortName; κατά την κύλιση προς τα κάτω σε μια σελίδα">
 
 <!ENTITY pref_tab_queue_title3 "Ουρά αναμονής καρτελών">
 <!ENTITY pref_tab_queue_summary4 "Αποθήκευση συνδέσμων μέχρι την επόμενη φορά που θα ανοίξετε το &brandShortName;">
