@@ -410,10 +410,10 @@ shown from Android O while a tab is being queued.-->
 
 <!ENTITY pref_default_browser "Establecer navegador predeterminado">
 
-<!ENTITY pref_default_browser2 "Hacer de $BrandShortName; su navegador predeterminado">
+<!ENTITY pref_default_browser2 "Hacer de &brandShortName; su navegador predeterminado">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
-    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Toque la aplicación Navegador &amp; seleccione &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Visitar soporte de Mozilla">
 <!ENTITY pref_about_firefox "Acerca de &brandShortName;">
