@@ -254,7 +254,7 @@
 <!ENTITY calendar.context.postpone.1week.label      "1 კვირა">
 <!ENTITY calendar.context.postpone.1week.accesskey  "W">
 
-<!ENTITY calendar.copylink.label       "ბმის მისამართის ასლი">
+<!ENTITY calendar.copylink.label       "ბმულის მისამართის ასლი">
 <!ENTITY calendar.copylink.accesskey   "ლ">
 
 <!-- Task View -->
