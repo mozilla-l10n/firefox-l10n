@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Вітаем">
 <!ENTITY firstrun_urlbar_message2 "Дзякуй, што абралі &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Вітаем у &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Сучасны мабільны браўзер ад Mozilla, некамерцыйнай арганізацыі, якая прытрымліваецца свабоды і адкрытасці Інтэрнэту.">
+<!ENTITY newfirstrun_urlbar_subtext "Хуткі, прыватны, і на вашым баку.">
 <!ENTITY firstrun_panel_title_privacy "Прыватнасць">
 <!ENTITY firstrun_privacy_message "Аглядайце не баючыся сачэння">
 <!ENTITY firstrun_privacy_subtext "Прыватнае агляданне блакуе сачэнне пакуль вы праглядаеце Інтэрнэт і не запамінае гісторыю пасля завяршэння.">
+<!ENTITY newfirstrun_privacy_subtext "Прыватнае агляданне блакуе рэкламныя трэкеры, што ідуць за вамі па сеціве.">
 <!ENTITY firstrun_panel_title_customize "Уладкаваць">
 <!ENTITY firstrun_customize_message "Зрабіць &brandShortName; зручным для сябе.">
 <!ENTITY firstrun_customize_subtext "Пашырайце магчымасці &brandShortName; з дапамогай дадаткаў. Блакіруйце рэкламу або абярыце новую тэму, каб падкрэсліць сваю індывідуальнасць.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Працягвайце адтуль, дзе спыніліся.">
 <!ENTITY firstrun_sync_subtext2 "Выкарыстоўвайце Sync для доступу да закладак, пароляў і іншых дадзеных, якія вы захоўваеце ў &brandShortName; на ўсіх прыладах.">
+<!ENTITY newfirstrun_sync_subtext "Сінхранізуйце рэчы, захаваныя на тэлефоне, з Firefox на камп\&apos;ютары, прыватна і бяспечна.">
 <!ENTITY firstrun_signin_message "Падключайцеся і пачынайце">
 <!ENTITY firstrun_signin_button "Увайсці ў Sync">
+<!ENTITY newfirstrun_signin_button "Уключыць Sync">
 <!ENTITY  onboard_start_button_browser "Пачаць агляданне">
 <!ENTITY firstrun_button_notnow "Не зараз">
 <!ENTITY firstrun_button_next "Далей">
@@ -413,7 +418,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_default_browser2 "Зрабіць &brandShortName; прадвызначаным браўзерам">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
-    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Націсніце Браўзер &amp; выберыце &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Наведаць Падтрымку Mozilla">
 <!ENTITY pref_about_firefox "Пра &brandShortName;">
