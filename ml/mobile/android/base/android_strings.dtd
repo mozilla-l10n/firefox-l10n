@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "സ്വാഗതം">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; തിരഞ്ഞെടുത്തതിന് നന്ദി">
+<!ENTITY newfirstrun_urlbar_message "&brandShortName; ലേയ്ക്ക് സ്വാഗതം">
 <!ENTITY firstrun_urlbar_subtext2 "ലാഭേച്ഛയില്ലാതെ സ്വതന്ത്രമായ വെബ്ബിനായിതാ, മോസില്ലയില്‍ നിന്നൊരു ആധുനിക മൊബൈല്‍ ബ്രൌസര്‍.">
+<!ENTITY newfirstrun_urlbar_subtext "വേഗത്തില്‍, സ്വകാര്യം, നിങ്ങള്‍ക്കൊപ്പം.">
 <!ENTITY firstrun_panel_title_privacy "സ്വകാര്യത">
 <!ENTITY firstrun_privacy_message "ആരും കാണാതെ ബ്രൗസ് ചെയ്യൂ">
 <!ENTITY firstrun_privacy_subtext "ട്രാക്കിങ്ങ് സംരക്ഷണത്തോടൊപ്പമുള്ള സ്വകാര്യ ബ്രൌസിങ്ങ് നിങ്ങള്‍ ബ്രൌസ് ചെയ്യുമ്പോള്‍ ട്രാക്കറുകളെ തടയുന്നതോടൊപ്പം നിങ്ങള്‍ ബ്രൌസിങ്ങ് അവസാനിപ്പിക്കുമ്പോള്‍ നാള്‍വഴി സൂക്ഷിക്കുന്നില്ല.">
+<!ENTITY newfirstrun_privacy_subtext "സ്വകാര്യ ബ്രൌസിങ്ങ് നിങ്ങളെ ഓണ്‍ലൈനില്‍ പിന്‍തുടരുന്ന പരസ്യ ട്രാക്കറുകളെ തടയും.">
 <!ENTITY firstrun_panel_title_customize "ഇഷ്ടാനുസൃതമാക്കുക">
 <!ENTITY firstrun_customize_message "&brandShortName; നിങ്ങളുടേതാക്കി മാറ്റുക.">
 <!ENTITY firstrun_customize_subtext "ആഡ്-ഓൺസ് ഉപയോഗിച്ച് &brandShortName; ഇഷ്ടാനുസൃതമാക്കുക. പരസ്യങ്ങൾ തടയുക, സവിശേഷതകൾ ചേർക്കുക അല്ലെങ്കിൽ നിങ്ങളുടെ വ്യക്തിത്വം പ്രതിഫലിപ്പിക്കാൻ പുതിയ തീം തിരഞ്ഞെടുക്കുക.">
@@ -22,6 +25,7 @@
 <!ENTITY firstrun_sync_subtext2 "നിങ്ങൾ &brandShortName; ൽ നിങ്ങൾ സംരക്ഷിച്ച ബുക്ക്മാർക്കുകൾ, പാസ്വേഡുകൾ, മറ്റ് കാര്യങ്ങൾ എന്നിവ കണ്ടെത്തുന്നതിന് സിങ്ക് ഉപയോഗിക്കുക; നിങ്ങളുടെ എല്ലാ ഉപകരണങ്ങളിലും.">
 <!ENTITY firstrun_signin_message "കണക്റ്റഡായിരിക്കു, ആരംഭിക്കൂ">
 <!ENTITY firstrun_signin_button "സിന്‍കിലേയ്ക്ക് പ്രവേശിക്കൂ">
+<!ENTITY newfirstrun_signin_button "സമന്വയം പ്രവര്‍ത്തിപ്പിക്കുക">
 <!ENTITY  onboard_start_button_browser "ബ്രൌസിങ് തുടങ്ങാം">
 <!ENTITY firstrun_button_notnow "ഇപ്പോള്‍ വേണ്ട">
 <!ENTITY firstrun_button_next "തുടരുക">
@@ -409,6 +413,12 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "സമന്വയിപ്പിച്ച ടാബുകള്‍">
 
 <!ENTITY pref_default_browser "സ്വതേയുള്ള ബ്രൗസര്‍ ആക്കുക">
+
+<!ENTITY pref_default_browser2 "&brandShortName; നിങ്ങളുടെ സ്വതേയുള്ള ബ്രൌസറാക്കുക">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "ബ്രൌസര്‍ ആപ്പില്‍ അമര്‍ത്ത് &brandShortName; തെരഞ്ഞെടുക്കുക">
 <!ENTITY pref_default_browser_mozilla_support_tablet "മോസില്ല സപ്പോർട്ട് സന്ദർശിക്കുക">
 <!ENTITY pref_about_firefox "&brandShortName;-നെ സംബന്ധിച്ച്">
 <!ENTITY pref_vendor_faqs "സ്ഥിരം ചോദ്യങ്ങള്‍">
@@ -503,6 +513,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "മുമ്പു്">
 <!ENTITY find_next "അടുത്തതു്">
 <!ENTITY find_close "അടക്കുക">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "വാക്യം കാണ്ടെത്താനായില്ല">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
