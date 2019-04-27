@@ -23,6 +23,7 @@
 <!ENTITY firstrun_sync_title "സിന്‍ക്">
 <!ENTITY firstrun_sync_message2 "അവസാനിപ്പിച്ചിടത്തു നിന്ന് തുടങ്ങുക.">
 <!ENTITY firstrun_sync_subtext2 "നിങ്ങൾ &brandShortName; ൽ നിങ്ങൾ സംരക്ഷിച്ച ബുക്ക്മാർക്കുകൾ, പാസ്വേഡുകൾ, മറ്റ് കാര്യങ്ങൾ എന്നിവ കണ്ടെത്തുന്നതിന് സിങ്ക് ഉപയോഗിക്കുക; നിങ്ങളുടെ എല്ലാ ഉപകരണങ്ങളിലും.">
+<!ENTITY newfirstrun_sync_subtext "നിങ്ങളുടെ മൊബൈലില്‍ സുക്ഷിക്കുന്ന കാര്യങ്ങള്‍ ഫയര്‍ഫോക്സ് ഡെസ്ക്ടോപ്പില്‍ സുരക്ഷിതമായും സ്വകാര്യമായും സമന്വയിപ്പിക്കു.">
 <!ENTITY firstrun_signin_message "കണക്റ്റഡായിരിക്കു, ആരംഭിക്കൂ">
 <!ENTITY firstrun_signin_button "സിന്‍കിലേയ്ക്ക് പ്രവേശിക്കൂ">
 <!ENTITY newfirstrun_signin_button "സമന്വയം പ്രവര്‍ത്തിപ്പിക്കുക">
