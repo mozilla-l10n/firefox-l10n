@@ -64,6 +64,8 @@ but will never be visible at the same time. -->
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "D">
 
+<!-- Tab context menu -->
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -468,7 +470,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.showAll.label "Wyświetl całą historię">
 <!ENTITY appMenuHistory.clearRecent.label "Wyczyść historię przeglądania…">
 <!ENTITY appMenuHistory.restoreSession.label "Przywróć poprzednią sesję">
-<!ENTITY appMenuHistory.viewSidebar.label "Wyświetl historię w panelu bocznym">
+<!ENTITY appMenuHistory.viewSidebar.label "Wyświetl panel historii">
+<!ENTITY appMenuHistory.hideSidebar.label "Ukryj panel historii">
 <!ENTITY appMenuHistory.recentHistory.label "Ostatnio odwiedzone">
 <!ENTITY appMenuHelp.label "Pomoc">
 
@@ -496,7 +499,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.unverified.label "Konto musi zostać zweryfikowane.">
 <!ENTITY appMenuRemoteTabs.signin.label "Zaloguj się do synchronizacji">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Zarządzaj urządzeniami…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Wyświetl karty z innych urządzeń w panelu bocznym">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Wyświetl panel kart z innych urządzeń">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Ukryj panel kart z innych urządzeń">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Połącz inne urządzenie">
 
 <!ENTITY appMenuRecentHighlights.label "Ostatnio wyróżnione">
@@ -1105,6 +1109,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "P">
 <!ENTITY updateAvailable.cancelButton.label "Nie teraz">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
+
 <!ENTITY updateAvailable.panelUI.label "Pobierz aktualizację programu &brandShorterName;">
 
 <!ENTITY updateManual.message "Pobierz świeżą kopię programu &brandShorterName;, a my pomożemy ją zainstalować.">
