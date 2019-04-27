@@ -198,6 +198,8 @@ about-debugging-debug-target-inspect-button = Даследаваць
 # Text of a button displayed in the "This Firefox" page, in the Temporary Extension
 # section. Clicking on the button will open a file picker to load a temporary extension
 about-debugging-tmp-extension-install-button = Загрузіць часовы дадатак…
+# Text displayed when trying to install a temporary extension in the "This Firefox" page.
+about-debugging-tmp-extension-install-error = Пры ўсталяванні тымчасовага дадатку здарылася памылка.
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = Перазагрузіць
@@ -227,10 +229,26 @@ about-debugging-extension-location =
 # For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
 about-debugging-extension-id =
     .label = ID пашырэння
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Notes, this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push = Push
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = Запусціць
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Разрэгістраваць
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = Fetch
+    .value = Слухае падзеі fetch
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = Fetch
+    .value = Не слухае падзеі fetch
+# Displayed for service workers in runtime pages that are currently running (service
+# worker instance is active).
+about-debugging-worker-status-running = Выконваецца
 # Displayed for service workers in runtime pages that are registered but stopped.
 about-debugging-worker-status-stopped = Спынена
 # Displayed for service workers in runtime pages that are registering.
@@ -238,6 +256,10 @@ about-debugging-worker-status-registering = Рэгіструецца
 # Displayed for service workers in runtime pages, to label the scope of a worker
 about-debugging-worker-scope =
     .label = Абсяг
+# Displayed for service workers in runtime pages, to label the push service endpoint (url)
+# of a worker
+about-debugging-worker-push-service =
+    .label = Push-сэрвіс
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Галоўны працэс
