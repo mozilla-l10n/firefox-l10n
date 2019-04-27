@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Chào mừng">
 <!ENTITY firstrun_urlbar_message2 "Cảm ơn bạn đã chọn &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Chào mừng đến với &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Một trình duyệt di động hiện đại từ Mozilla, chúng tôi cam kết mang đến một trang web tự do và mở.">
+<!ENTITY newfirstrun_urlbar_subtext "Nhanh chóng, riêng tư, và về phía bạn.">
 <!ENTITY firstrun_panel_title_privacy "Riêng tư">
 <!ENTITY firstrun_privacy_message "Duyệt web không để lại dấu vết">
 <!ENTITY firstrun_privacy_subtext "Duyệt web riêng tư với trình chống theo dõi sẽ ngăn chặn các trình theo dõi trong khi bạn duyệt web và sẽ không ghi nhớ lịch sử duyệt web của bạn.">
+<!ENTITY newfirstrun_privacy_subtext "Trình duyệt riêng tư chặn trình theo dõi quảng cáo theo bạn trực tuyến.">
 <!ENTITY firstrun_panel_title_customize "Tùy chỉnh">
 <!ENTITY firstrun_customize_message "Tạo ra &brandShortName; theo cách của riêng bạn.">
 <!ENTITY firstrun_customize_subtext "Tùy chỉnh &brandShortName; với các tiện ích. Chặn quảng cáo, thêm các tính năng, hoặc chọn một diện mạo mới để phản ánh cá tính của bạn.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Đồng bộ hóa">
 <!ENTITY firstrun_sync_message2 "Tiếp tục trang mà bạn vừa rời khỏi.">
 <!ENTITY firstrun_sync_subtext2 "Sử dụng đồng bộ hóa để tìm trang đánh dấu, mật khẩu và những thứ bạn lưu vào &brandShortName; trên tất cả các thiết bị của bạn.">
+<!ENTITY newfirstrun_sync_subtext "Đồng bộ hóa những thứ bạn lưu trên thiết bị di động với Firefox cho máy tính để bàn, riêng tư và an toàn.">
 <!ENTITY firstrun_signin_message "Thiết lập kết nối và bắt đầu">
 <!ENTITY firstrun_signin_button "Đăng nhập để đồng bộ">
+<!ENTITY newfirstrun_signin_button "Bật đồng bộ hóa">
 <!ENTITY  onboard_start_button_browser "Bắt đầu duyệt web">
 <!ENTITY firstrun_button_notnow "Không phải lúc này">
 <!ENTITY firstrun_button_next "Tiếp">
@@ -413,7 +418,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_default_browser2 "Đặt &brandShortName; làm trình duyệt mặc định của bạn">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
-    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Nhấn vào ứng dụng Trình duyệt &amp; chọn &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Tới trang hỗ trợ của Mozilla">
 <!ENTITY pref_about_firefox "Giới thiệu &brandShortName;">
