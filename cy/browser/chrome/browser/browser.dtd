@@ -64,6 +64,8 @@ but will never be visible at the same time. -->
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "T">
 
+<!-- Tab context menu -->
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -469,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Clirio Hanes Diweddar…">
 <!ENTITY appMenuHistory.restoreSession.label "Adfer y Sesiwn Flaenorol">
 <!ENTITY appMenuHistory.viewSidebar.label "Gweld Bar Ochr Hanes">
+<!ENTITY appMenuHistory.hideSidebar.label "Cuddio'r Bar Ochr Hanes">
 <!ENTITY appMenuHistory.recentHistory.label "Hanes Diweddar">
 <!ENTITY appMenuHelp.label "Cymorth">
 
@@ -497,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Mewngofnodwch i Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Rheoli Dyfeisiadau…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Gweld Bar Ochr Tabiau wedi eu Cydweddu">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Cuddio'r Bar Ochr Cydweddwyd">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Cysylltu Dyfais Arall">
 
 <!ENTITY appMenuRecentHighlights.label "Uchafbwyntiau Diweddar">
@@ -1105,6 +1109,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "L">
 <!ENTITY updateAvailable.cancelButton.label "Nid Nawr">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
+
 <!ENTITY updateAvailable.panelUI.label "Llwytho diweddariad &brandShorterName; i lawr">
 
 <!ENTITY updateManual.message "Llwythwch gopi newydd o &brandShorterName; i lawr ac mi wnawn ni eich helpu i'w gosod.">
