@@ -8,29 +8,31 @@
   -->
 
 <!ENTITY pref.alarmgoesoff.label "Khi đổ chuông báo:">
-<!ENTITY pref.playasound "Chơi một đoạn âm thanh">
-<!ENTITY pref.calendar.alarms.playsound.accessKey "h">
+<!ENTITY pref.playasound "Phát ra âm thanh">
+<!ENTITY pref.calendar.alarms.playsound.accessKey "s">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Sử dụng âm thanh mặc định">
-<!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "m">
+<!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
+<!ENTITY pref.calendar.alarms.sound.useCustom.label "Sử dụng tập tin âm thanh sau">
+<!ENTITY pref.calendar.alarms.sound.useCustom.accessKey "U">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Duyệt…">
-<!ENTITY pref.calendar.alarms.sound.browse.accessKey "u">
+<!ENTITY pref.calendar.alarms.sound.browse.accessKey "B">
 <!ENTITY pref.calendar.alarms.sound.play.label "Phát">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "P">
-<!ENTITY pref.showalarmbox "Hiện một hộp cảnh báo">
-<!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "b">
-<!ENTITY pref.missedalarms2 "Hiển thị lời nhắc đã bỏ lỡ cho lịch có thể ghi">
-<!ENTITY pref.calendar.alarms.missedAlarms.accessKey "l">
-<!ENTITY pref.calendar.alarms.defaults.label "Mặc định cho Chuông báo">
-<!ENTITY pref.defalarm4events.label "Thiết lập chuông báo mặc định cho các sự kiện:">
-<!ENTITY pref.defalarm4events.accesskey "s">
-<!ENTITY pref.defalarm4todos.label "Thiết lập chuông báo mặc định cho các tác vụ:">
-<!ENTITY pref.defalarm4todos.accesskey "v">
+<!ENTITY pref.showalarmbox "Hiển thị hộp thoại nhắc nhở">
+<!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "x">
+<!ENTITY pref.missedalarms2 "Hiển thị lời nhắc nhở cho lịch có thể ghi">
+<!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
+<!ENTITY pref.calendar.alarms.defaults.label "Mặc định nhắc nhở">
+<!ENTITY pref.defalarm4events.label "Cài đặt nhắc nhở mặc định cho các sự kiện:">
+<!ENTITY pref.defalarm4events.accesskey "e">
+<!ENTITY pref.defalarm4todos.label "Cài đặt nhắc nhở mặc định cho các tác vụ:">
+<!ENTITY pref.defalarm4todos.accesskey "a">
 <!ENTITY pref.alarm.on "Bật">
 <!ENTITY pref.alarm.off "Tắt">
-<!ENTITY pref.defalarmlen4events.label "Mặc định, đổ chuông trước khi có một sự kiện:">
-<!ENTITY pref.defalarmlen4events.accesskey "r">
-<!ENTITY pref.defalarmlen4todos.label "Mặc định, đổ chuông trước khi có một tác vụ:">
-<!ENTITY pref.defalarmlen4todos.accesskey "k">
+<!ENTITY pref.defalarmlen4events.label "Thời gian mặc định một lời nhắc được đặt trước một sự kiện:">
+<!ENTITY pref.defalarmlen4events.accesskey "u">
+<!ENTITY pref.defalarmlen4todos.label "Thời gian mặc định một lời nhắc được đặt trước một tác vụ:">
+<!ENTITY pref.defalarmlen4todos.accesskey "o">
 
 <!ENTITY pref.defaultsnoozelength.label "Độ dài báo lại mặc định:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "S">

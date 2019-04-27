@@ -8,8 +8,8 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "Tổng quát">
-<!ENTITY pref.calendar.view.dayandweekviews.caption "Hiển thị theo Ngày và Tuần">
-<!ENTITY pref.calendar.view.multiweekview.caption "Hiển thị theo Nhiều Tuần">
+<!ENTITY pref.calendar.view.dayandweekviews.caption "Hiển thị theo ngày và tuần">
+<!ENTITY pref.calendar.view.multiweekview.caption "Hiển thị theo nhiều tuần">
 <!ENTITY pref.calendar.view.workweek.caption "Tuần làm việc">
 
 <!ENTITY pref.weekstarts.label "Bắt đầu tuần vào:">
