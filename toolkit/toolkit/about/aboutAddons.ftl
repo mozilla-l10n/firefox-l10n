@@ -284,3 +284,8 @@ addon-detail-updates-radio-on = Attivo
 addon-detail-updates-radio-off = Disattivato
 addon-detail-update-check-label = Controlla aggiornamenti
 install-update-button = Aggiorna
+addon-badge-private-browsing-allowed =
+    .title = Attiva in finestre anonime
+addon-detail-private-browsing-help = Se viene garantito il permesso, l’estensione potrà accedere alle tue attività online nelle finestre anonime. <a data-l10n-name="learn-more">Ulteriori informazioni</a>
+addon-detail-private-browsing-allow = Consenti
+addon-detail-private-browsing-disallow = Non consentire
