@@ -80,6 +80,8 @@ about-debugging-refresh-usb-devices-button = Абнавіць спіс прыл�
 
 # Title of the Setup page.
 about-debugging-setup-title = Усталёўка
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = Наладзьце метад злучэння, з дапамогай якога вы хочаце аддалена адладжваць вашу прыладу.
 # Link displayed in the Setup page that leads to MDN page with list of supported devices.
 # Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
 about-debugging-setup-link-android-devices = Паглядзець спіс падтрыманых Android-прылад
@@ -89,6 +91,8 @@ about-debugging-setup-this-firefox = Карыстайцеся <a>{ about-debuggi
 about-debugging-setup-connect-heading = Падключыць прыладу
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = Уключэнне гэтай функцыі сцягне і дадасць неабходныя адладачныя Android USB кампаненты да { -brand-shorter-name }.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = Уключыць USB-прылады
@@ -124,6 +128,10 @@ about-debugging-network-locations-host-input-label = Хост:
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Выдаліць
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = Некарэктны хост “{ $host-value }”. Чакаецца фармат “hostname:portnumber”.
 # Text used as error message if the input value was already registered in the network locations form of the Setup page.
 # Variables:
 #   $host-value (string) - The input value submitted by the user in the network locations form
@@ -263,6 +271,9 @@ about-debugging-worker-push-service =
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Галоўны працэс
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description2 = Галоўны працэс мэтавага браўзера
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Закрыць паведамленне
