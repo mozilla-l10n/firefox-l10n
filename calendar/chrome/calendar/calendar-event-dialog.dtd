@@ -297,7 +297,7 @@
 <!ENTITY event.recurrence.monthly.fourth.label          "Tuần Bốn">
 <!ENTITY event.recurrence.monthly.fifth.label           "Tuần Năm">
 <!ENTITY event.recurrence.monthly.last.label            "Tuần Cuối">
-<!ENTITY event.recurrence.pattern.monthly.week.1.label  "Chủ Nhật" >
+<!ENTITY event.recurrence.pattern.monthly.week.1.label  "Chủ nhật" >
 <!ENTITY event.recurrence.pattern.monthly.week.2.label  "Thứ Hai" >
 <!ENTITY event.recurrence.pattern.monthly.week.3.label  "Thứ Ba" >
 <!ENTITY event.recurrence.pattern.monthly.week.4.label  "Thứ Tư" >
@@ -339,7 +339,7 @@
 <!ENTITY event.recurrence.yearly.fourth.label                "Tuần Bốn">
 <!ENTITY event.recurrence.yearly.fifth.label                 "Tuần Năm">
 <!ENTITY event.recurrence.yearly.last.label                  "Tuần Cuối">
-<!ENTITY event.recurrence.pattern.yearly.week.1.label        "Chủ Nhật" >
+<!ENTITY event.recurrence.pattern.yearly.week.1.label        "Chủ nhật" >
 <!ENTITY event.recurrence.pattern.yearly.week.2.label        "Thứ Hai" >
 <!ENTITY event.recurrence.pattern.yearly.week.3.label        "Thứ Ba" >
 <!ENTITY event.recurrence.pattern.yearly.week.4.label        "Thứ Tư" >

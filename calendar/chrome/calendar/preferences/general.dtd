@@ -7,11 +7,11 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.mainbox.label "Thiết lập Tổng quát" >
-<!ENTITY pref.dateformat.label "Định dạng Ngày tháng:" >
+<!ENTITY pref.mainbox.label "Thiết lập tổng quát" >
+<!ENTITY pref.dateformat.label "Định dạng văn bản ngày:" >
 <!ENTITY pref.dateformat.accesskey "N">
 <!ENTITY pref.dateformat.long "Dài" >
-<!ENTITY pref.dateformat.short "Short"  >
+<!ENTITY pref.dateformat.short "Ngắn"  >
 
 <!ENTITY pref.timezones.caption "Múi giờ">
 <!ENTITY pref.timezones.label "Chọn thành phố gần nhất trong múi giờ của bạn:">
