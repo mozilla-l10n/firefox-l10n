@@ -471,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "清除最近的歷史記錄…">
 <!ENTITY appMenuHistory.restoreSession.label "回復先前的瀏覽狀態">
 <!ENTITY appMenuHistory.viewSidebar.label "檢視歷史側邊欄">
+<!ENTITY appMenuHistory.hideSidebar.label "隱藏瀏覽紀錄側邊欄">
 <!ENTITY appMenuHistory.recentHistory.label "最近紀錄">
 <!ENTITY appMenuHelp.label "說明">
 
@@ -499,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "登入至 Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "管理裝置…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "檢視「已同步的分頁」側邊欄">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "隱藏已同步分頁側邊欄">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "連結其他裝置">
 
 <!ENTITY appMenuRecentHighlights.label "近期焦點">
