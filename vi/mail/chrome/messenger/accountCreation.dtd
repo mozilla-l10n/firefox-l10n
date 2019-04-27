@@ -18,7 +18,6 @@
 <!ENTITY password.text                   "Phụ, chỉ sẽ được dùng để kiểm tra tên đăng nhập">
 <!ENTITY rememberPassword.label          "Ghi nhớ mật khẩu">
 <!ENTITY rememberPassword.accesskey      "G">
-
 <!ENTITY usernameEx.label                "Tên đăng nhập của bạn:">
 <!ENTITY usernameEx.accesskey            "T">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
@@ -52,7 +51,7 @@
 <!ENTITY advancedSetup.label             "Cấu hình nâng cao">
 <!ENTITY advancedSetup.accesskey         "n">
 <!ENTITY cancel.label                    "Hủy bỏ">
-<!ENTITY cancel.accesskey                "H">
+<!ENTITY cancel.accesskey                "a">
 <!ENTITY continue.label                  "Tiếp tục">
 <!ENTITY continue.accesskey              "p">
 <!ENTITY stop.label                      "Dừng">
