@@ -6,9 +6,11 @@
 <!ENTITY firstrun_urlbar_message2 "感谢您选择 &brandShortName;">
 <!ENTITY newfirstrun_urlbar_message "欢迎使用 &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Firefox 是现代化的移动浏览器，由致力于建立一个自由且开放的网络的非营利组织 Mozilla 打造。">
+<!ENTITY newfirstrun_urlbar_subtext "快速、私密，伴您身边。">
 <!ENTITY firstrun_panel_title_privacy "私密">
 <!ENTITY firstrun_privacy_message "上网自在无监视">
 <!ENTITY firstrun_privacy_subtext "打开隐私标签页，不仅能阻挡跟踪器和广告，也不会留下浏览记录，上网好安心。">
+<!ENTITY newfirstrun_privacy_subtext "隐私浏览模式下会拦截网上偷窥您的广告跟踪器。">
 <!ENTITY firstrun_panel_title_customize "定制">
 <!ENTITY firstrun_customize_message "让 &brandShortName; 有你的风格。">
 <!ENTITY firstrun_customize_subtext "使用附加组件定制 &brandShortName;。过滤广告、增添功能，或者选一套主题来体现你的个性，一切尽在附加组件。">
@@ -21,6 +23,7 @@
 <!ENTITY firstrun_sync_title "同步">
 <!ENTITY firstrun_sync_message2 "这边看罢，那边继续。">
 <!ENTITY firstrun_sync_subtext2 "利用同步服务，在您任何设备上的 &brandShortName; 中都能漫游同一套书签、密码等信息。">
+<!ENTITY newfirstrun_sync_subtext "将您在移动设备上保存的内容，私密、安全地同步至桌面版 Firefox。">
 <!ENTITY firstrun_signin_message "互联设备，即刻畅游">
 <!ENTITY firstrun_signin_button "登录并同步">
 <!ENTITY newfirstrun_signin_button "开启同步">
