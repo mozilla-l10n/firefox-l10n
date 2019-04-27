@@ -471,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Стерти недавню історію…">
 <!ENTITY appMenuHistory.restoreSession.label "Відновити попередній сеанс">
 <!ENTITY appMenuHistory.viewSidebar.label "Показати панель історії">
+<!ENTITY appMenuHistory.hideSidebar.label "Приховати бічну панель Історія">
 <!ENTITY appMenuHistory.recentHistory.label "Недавня історія">
 <!ENTITY appMenuHelp.label "Довідка">
 
@@ -499,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Увійти в Синхронізацію">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Керувати пристроями…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Переглянути бічну панель синхронізованих вкладок">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Приховати бічну панель Синхронізовані вкладки">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Під'єднати інший пристрій">
 
 <!ENTITY appMenuRecentHighlights.label "Останнє відібране">
@@ -1107,6 +1109,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "З">
 <!ENTITY updateAvailable.cancelButton.label "Не зараз">
 <!ENTITY updateAvailable.cancelButton.accesskey "Н">
+
 <!ENTITY updateAvailable.panelUI.label "Завантажте оновлення &brandShorterName;">
 
 <!ENTITY updateManual.message "Завантажте нову версію &brandShorterName; і ми допоможемо вам її встановити.">
