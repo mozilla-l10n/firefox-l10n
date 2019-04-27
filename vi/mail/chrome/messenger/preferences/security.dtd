@@ -5,7 +5,7 @@
 <!ENTITY itemJunk.label          "Thư rác">
 <!ENTITY itemPhishing.label      "Email lừa đảo">
 <!ENTITY itemPasswords.label     "Mật khẩu">
-<!ENTITY itemAntiVirus.label     "Diệt virus">
+<!ENTITY itemAntiVirus.label     "Diệt vi-rút">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Đặt cài đặt thư rác mặc định của bạn. Cài đặt thư rác dành riêng cho tài khoản có thể được định cấu hình trong cài đặt tài khoản.">

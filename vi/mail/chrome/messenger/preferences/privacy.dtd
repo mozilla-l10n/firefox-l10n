@@ -18,7 +18,7 @@
 <!ENTITY keepHistory.accesskey "R">
 <!ENTITY acceptCookies.label "Cho phép cookie từ các trang">
 <!ENTITY acceptCookies.accesskey "A">
-<!ENTITY acceptThirdParty.pre.label "Cho phép cookie bên thứ 3:">
+<!ENTITY acceptThirdParty.pre.label "Cho phép cookie từ bên thứ ba:">
 <!ENTITY acceptThirdParty.pre.accesskey "c">
 <!ENTITY acceptThirdParty.always.label "Luôn luôn">
 <!ENTITY acceptThirdParty.never.label "Không bao giờ">
