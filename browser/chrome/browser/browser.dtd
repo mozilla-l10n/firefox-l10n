@@ -471,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "უახლესი ისტორიის გასუფთავება…">
 <!ENTITY appMenuHistory.restoreSession.label "წინა სეანსის აღდგენა">
 <!ENTITY appMenuHistory.viewSidebar.label "ისტორიის გვერდითი ზოლის ჩვენება">
+<!ENTITY appMenuHistory.hideSidebar.label "ისტორიის გვერდითი ზოლის დამალვა">
 <!ENTITY appMenuHistory.recentHistory.label "უახლესი ისტორია">
 <!ENTITY appMenuHelp.label "დახმარება">
 
@@ -499,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Sync-ში შესვლა">
 <!ENTITY appMenuRemoteTabs.managedevices.label "მოწყობილობების მართვა…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "დასინქრონებული ჩანართების გვერდითი ზოლის ნახვა">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "დასინქრონებული ჩანართების გვერდითი ზოლის დამალვა">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "სხვა მოწყობილობის დაკავშირება">
 
 <!ENTITY appMenuRecentHighlights.label "ბოლო მნიშვნელოვანი">
@@ -1107,6 +1109,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "ჩ">
 <!ENTITY updateAvailable.cancelButton.label "ახლა არა">
 <!ENTITY updateAvailable.cancelButton.accesskey "ა">
+
 <!ENTITY updateAvailable.panelUI.label "&brandShorterName; განახლების ჩამოტვირთვა">
 
 <!ENTITY updateManual.message "ჩამოტვირთეთ &brandShorterName; -ის ახალი ვერსია და ჩვენ დაგეხმარებით მის დაყენებაში.">
