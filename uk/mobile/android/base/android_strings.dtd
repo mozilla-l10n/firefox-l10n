@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Вітаємо">
 <!ENTITY firstrun_urlbar_message2 "Дякуємо за вибір &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Вітаємо в &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Сучасний мобільний браузер від Mozilla, некомерційної організації, що віддана вільному й відкритому Інтернету.">
+<!ENTITY newfirstrun_urlbar_subtext "Швидкий, приватний і ваш.">
 <!ENTITY firstrun_panel_title_privacy "Приватність">
 <!ENTITY firstrun_privacy_message "Переглядайте без думки, що за вами хтось спостерігає">
 <!ENTITY firstrun_privacy_subtext "В режимі приватного перегляду блокуються елементи стеження на веб-сайтах і не зберігається історія після завершення сеансу.">
+<!ENTITY newfirstrun_privacy_subtext "Приватний перегляд блокує рекламу і стеження, що переслідують вас онлайн.">
 <!ENTITY firstrun_panel_title_customize "Пристосування">
 <!ENTITY firstrun_customize_message "Зробіть &brandShortName; зручним для себе.">
 <!ENTITY firstrun_customize_subtext "Розширюйте можливості &brandShortName; за допомогою додатків. Блокуйте рекламу, або оберіть нову тему, щоб підкреслити свою індивідуальність.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Синхронізація">
 <!ENTITY firstrun_sync_message2 "Продовжуйте з місця, на якому ви зупинилися.">
 <!ENTITY firstrun_sync_subtext2 "Використовуйте синхронізацію для доступу до закладок, паролів та інших даних, які ви зберігаєте в &brandShortName;, на всіх пристроях.">
+<!ENTITY newfirstrun_sync_subtext "Користуйтеся приватною і безпечною синхронізацією Firefox між мобільним і комп\&apos;ютером.">
 <!ENTITY firstrun_signin_message "Під’єднайтесь і вперед">
 <!ENTITY firstrun_signin_button "Увійти до Синхронізації">
+<!ENTITY newfirstrun_signin_button "Увімкнути синхронізацію">
 <!ENTITY  onboard_start_button_browser "Почати перегляд">
 <!ENTITY firstrun_button_notnow "Не зараз">
 <!ENTITY firstrun_button_next "Далі">
@@ -409,6 +414,12 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "Синхронізовані вкладки">
 
 <!ENTITY pref_default_browser "Зробити типовим браузером">
+
+<!ENTITY pref_default_browser2 "Зробити &brandShortName; типовим браузером">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Торкніться Браузер &amp; оберіть &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Відвідати Підтримку Mozilla">
 <!ENTITY pref_about_firefox "Про &brandShortName;">
 <!ENTITY pref_vendor_faqs "Питання">
@@ -503,6 +514,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "Попереднє">
 <!ENTITY find_next "Наступне">
 <!ENTITY find_close "Закрити">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "Фразу не знайдено">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
