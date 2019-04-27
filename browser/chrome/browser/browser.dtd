@@ -471,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Жуырдағы тарихты өшіру…">
 <!ENTITY appMenuHistory.restoreSession.label "Алдыңғы сессияны қалпына келтіру">
 <!ENTITY appMenuHistory.viewSidebar.label "Тарихтың бүйір панелін көрсету">
+<!ENTITY appMenuHistory.hideSidebar.label "Тарих бүйір панелін жабу">
 <!ENTITY appMenuHistory.recentHistory.label "Жуырдағы тарихы">
 <!ENTITY appMenuHelp.label "Көмек">
 
@@ -499,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Синхрондау ішіне кіру">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Құрылғыларды басқару…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Синхрондалған беттер бүйір панелін қарау">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Синхрондалған беттер бүйір панелін жабу">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Басқа құрылғыны байланыстыру">
 
 <!ENTITY appMenuRecentHighlights.label "Соңғы Таңдамалылар">
@@ -1107,6 +1109,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "д">
 <!ENTITY updateAvailable.cancelButton.label "Қазір емес">
 <!ENTITY updateAvailable.cancelButton.accesskey "м">
+
 <!ENTITY updateAvailable.panelUI.label "&brandShorterName; жаңартуын жүктеп алу">
 
 <!ENTITY updateManual.message "&brandShorterName; жаңа нұсқасын жүктеп алыңыз, оны орнатуға көмектесеміз.">
