@@ -169,6 +169,10 @@ was trying to connect. -->
 <p>Pokud jste připojení do firemní sítě nebo používáte antivirový program, kontaktujte podporu vaši firmy, respektive antivirového programu. Můžete také informovat správce webové stránky.</p>
 ">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Datum ve vašem počítači je nastaveno na <span id='wrongSystemTime_systemDate2'/>. Zkontrolujte prosím v systémovém nastavení, že máte nastavené správné datum, čas a časové pásmo a obnovte tuto stránku.</p>
+<p>Pokud máte vše nastavené správně, je pravděpodobně špatně nastaven server a tento problém bohužel nemůžete vyřešit. V tom případě můžete o tomto problému informovat správce webu.</p>
+">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
 <p>Tento problém je pravděpodobně způsoben na straně webové stránky a vy ho bohužel nemůžete vyřešit. Informujte o tomto problému správce webové stránky.</p>
