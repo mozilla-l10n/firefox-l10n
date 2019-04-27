@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Dobrodošli">
 <!ENTITY firstrun_urlbar_message2 "Hvala, ker ste izbrali &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Dobrodošli v &brandShortName;u">
 <!ENTITY firstrun_urlbar_subtext2 "Sodoben mobilni brskalnik izpod rok Mozille, neprofitne organizacije, predane svobodnemu in odprtemu spletu.">
+<!ENTITY newfirstrun_urlbar_subtext "Hiter, zaseben in na vaši strani.">
 <!ENTITY firstrun_panel_title_privacy "Zasebnost">
 <!ENTITY firstrun_privacy_message "Brskajte, kot da vas nihče ne gleda">
 <!ENTITY firstrun_privacy_subtext "Zasebno brskanje z zaščito pred sledenjem med brskanjem zavrača sledilce ter si ob koncu brskanja ne zapomni vaše zgodovine.">
+<!ENTITY newfirstrun_privacy_subtext "Zasebno brskanje zavrača sledilce oglasov, ki vas zasledujejo po spletu.">
 <!ENTITY firstrun_panel_title_customize "Prilagodi">
 <!ENTITY firstrun_customize_message "Napravite &brandShortName; res svoj.">
 <!ENTITY firstrun_customize_subtext "Prilagodite &brandShortName; z dodatki. Zavračajte oglase, dodajte nove funkcije ali izberite temo, ki bo odsevala vašo osebnost.">
@@ -22,6 +25,7 @@
 <!ENTITY firstrun_sync_subtext2 "Uporabite Sync za prenos zaznamkov, gesel in drugih shranjenih &brandShortName;ovih podatkov med vsemi svojimi napravami.">
 <!ENTITY firstrun_signin_message "Povežite se in začnite">
 <!ENTITY firstrun_signin_button "Prijava v Sync">
+<!ENTITY newfirstrun_signin_button "Vklopi Sync">
 <!ENTITY  onboard_start_button_browser "Začnite brskati">
 <!ENTITY firstrun_button_notnow "Ne zdaj">
 <!ENTITY firstrun_button_next "Naprej">
@@ -413,7 +417,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_default_browser2 "Nastavi &brandShortName; kot privzet brskalnik">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
-    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Tapnite Aplikacija za brskanje in izberite &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Obišičite Mozillino podporo">
 <!ENTITY pref_about_firefox "O aplikaciji &brandShortName;">
