@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Croeso">
 <!ENTITY firstrun_urlbar_message2 "Diolch am ddewis &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Croeso i &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Porwr symudol modern gan Mozilla, y corff ddim-er-elw sy\&apos;n ymroddedig i we rydd ac agored.">
+<!ENTITY newfirstrun_urlbar_subtext "Yn gyflym, yn breifat, ac ar eich ochr chi.">
 <!ENTITY firstrun_panel_title_privacy "Preifatrwydd">
 <!ENTITY firstrun_privacy_message "Pori fel petai neb yn eich gwylio">
 <!ENTITY firstrun_privacy_subtext "Mae Pori Preifat gyda Diogelwch rhag Tracio yn rhwystro tracwyr wrth i chi bori ac ni fydd yn cofio eich hanes pan fyddwch wedi gorffen pori.">
+<!ENTITY newfirstrun_privacy_subtext "Mae pori preifat yn rhwystro tracwyr hysbysebion sy\&apos;n eich dilyn chi ar-lein.">
 <!ENTITY firstrun_panel_title_customize "Cyfaddasu">
 <!ENTITY firstrun_customize_message "Gwneud &brandShortName; yn gysurus.">
 <!ENTITY firstrun_customize_subtext "Cyfaddaswch &brandShortName; gydag ychwanegion. Rhwystro hysbysebion, ychwanegu nodweddion neu ddewis thema newydd i adlewyrchu eich personoliaeth.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Parhau lle roeddech o\&apos;r blaen.">
 <!ENTITY firstrun_sync_subtext2 "Defnyddiwch Sync i ganfod nodau tudalen, cyfrineiriau a phethau eraill rydych wedi eu cadw i &brandShortName; ar eich holl ddyfeisiau.">
+<!ENTITY newfirstrun_sync_subtext "Cydweddwch y pethau rydych chi\&apos;n eu cadw ar Firefox symudol i Firefox y bwrdd gwaith, yn breifat ac yn ddiogel.">
 <!ENTITY firstrun_signin_message "Cysylltu a chychwyn arni">
 <!ENTITY firstrun_signin_button "Mewngofnodwch i Sync">
+<!ENTITY newfirstrun_signin_button "Cychwyn Sync">
 <!ENTITY  onboard_start_button_browser "Cychwyn Pori">
 <!ENTITY firstrun_button_notnow "Dim nawr">
 <!ENTITY firstrun_button_next "Nesaf">
@@ -409,6 +414,12 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "Tabiau wedi eu cydweddu">
 
 <!ENTITY pref_default_browser "Porwr rhagosodedig">
+
+<!ENTITY pref_default_browser2 "Gwneud &brandShortName; eich porwr rhagosodedig">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Tapiwch yr ap Porwr i ddewis &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mynd i Mozilla Support">
 <!ENTITY pref_about_firefox "Ynghylch &brandShortName;">
 <!ENTITY pref_vendor_faqs "Atebion">
@@ -503,6 +514,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "Blaenorol">
 <!ENTITY find_next "Nesaf">
 <!ENTITY find_close "Cau">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "Heb ganfod yr ymadrodd">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
