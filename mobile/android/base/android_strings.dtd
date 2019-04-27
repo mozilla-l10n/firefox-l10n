@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Bienvenido">
 <!ENTITY firstrun_urlbar_message2 "Gracias por elegir &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Bienvenido a &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Un navegador móvil moderno de Mozilla, la fundación sin fines de lucro comprometida con la web libre y abierta.">
+<!ENTITY newfirstrun_urlbar_subtext "Rápido, privado y de su lado.">
 <!ENTITY firstrun_panel_title_privacy "Privacidad">
 <!ENTITY firstrun_privacy_message "Navegá como si nadie estuviera viendo">
 <!ENTITY firstrun_privacy_subtext "La navegación privada con protección de rastreo bloquea a los rastreadores mientras se navega y no recordará el historial al terminar de navegar.">
+<!ENTITY newfirstrun_privacy_subtext "La navegación privada bloquea los rastreadores de publicidad que lo siguen en línea.">
 <!ENTITY firstrun_panel_title_customize "Personalizar">
 <!ENTITY firstrun_customize_message "Hacé que &brandShortName; sea tuyo.">
 <!ENTITY firstrun_customize_subtext "Personalizá &brandShortName; con complementos. Bloqueá publicidades, agregá funcionalidades o elegí un tema nuevo para reflejar tu personalidad.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Continúá desde donde dejaste.">
 <!ENTITY firstrun_sync_subtext2 "Usá Sync para encontrar los marcadores, contraseñas y otras cosas que guardás en &brandShortName; en todos tus dispositivos.">
+<!ENTITY newfirstrun_sync_subtext "Sincronice el contenido que guarda en el dispositivo móvil con Firefox para el escritorio, de forma privada y segura.">
 <!ENTITY firstrun_signin_message "Conectate, empecemos">
 <!ENTITY firstrun_signin_button "Registrarse en Sync">
+<!ENTITY newfirstrun_signin_button "Activar la sincronización">
 <!ENTITY  onboard_start_button_browser "Iniciar navegación">
 <!ENTITY firstrun_button_notnow "No ahora">
 <!ENTITY firstrun_button_next "Siguiente">
