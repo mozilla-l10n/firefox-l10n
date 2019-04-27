@@ -278,3 +278,9 @@ addon-detail-reviews-link =
         [one] { $numberOfReviews } recensione
        *[other] { $numberOfReviews } recensioni
 }
+addon-detail-updates-label = Aggiornamento automatico
+addon-detail-updates-radio-default = Predefinito
+addon-detail-updates-radio-on = Attivo
+addon-detail-updates-radio-off = Disattivato
+addon-detail-update-check-label = Controlla aggiornamenti
+install-update-button = Aggiorna
