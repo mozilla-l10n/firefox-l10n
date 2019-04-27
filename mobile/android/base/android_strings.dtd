@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Добро пожаловать">
 <!ENTITY firstrun_urlbar_message2 "Спасибо, что выбрали &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Добро пожаловать в &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Современный мобильный браузер от Mozilla, некоммерческой организации, преданной свободному и открытому Интернету.">
+<!ENTITY newfirstrun_urlbar_subtext "Быстрый, приватный и всегда на вашей стороне.">
 <!ENTITY firstrun_panel_title_privacy "Приватность">
 <!ENTITY firstrun_privacy_message "Сёрфите Интернет не опасаясь слежки">
 <!ENTITY firstrun_privacy_subtext "Приватный просмотр с защитой от отслеживания блокирует трекеры, пока вы сёрфите, и не будет помнить вашу историю после завершения сёрфинга.">
+<!ENTITY newfirstrun_privacy_subtext "Приватный просмотр блокирует рекламные трекеры, которые отслеживают вас в Интернете.">
 <!ENTITY firstrun_panel_title_customize "Настраивайте">
 <!ENTITY firstrun_customize_message "Сделайте &brandShortName; своим.">
 <!ENTITY firstrun_customize_subtext "Настройте &brandShortName; с помощью дополнений. Блокируйте рекламу, добавляйте новые функции или установите новую тему, которая подчеркнёт вашу индивидуальность.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Синхронизация">
 <!ENTITY firstrun_sync_message2 "Начните с того места, на котором остановились.">
 <!ENTITY firstrun_sync_subtext2 "Используйте синхронизацию для доступа к закладкам, паролям и многому другому, что вы сохраните в &brandShortName;, на всех ваших устройствах.">
+<!ENTITY newfirstrun_sync_subtext "Синхронизируйте вещи, которые вы сохраняете на мобильном, с Firefox для компьютеров, приватно и безопасно.">
 <!ENTITY firstrun_signin_message "Соединитесь и вперёд">
 <!ENTITY firstrun_signin_button "Войти в Синхронизацию">
+<!ENTITY newfirstrun_signin_button "Включить синхронизацию">
 <!ENTITY  onboard_start_button_browser "Начать веб-сёрфинг">
 <!ENTITY firstrun_button_notnow "Не сейчас">
 <!ENTITY firstrun_button_next "Далее">
@@ -215,9 +220,9 @@
 <!ENTITY pref_category_advanced_summary3 "Восстановление вкладок, экономия трафика, инструменты разработчика">
 <!ENTITY pref_category_notifications "Уведомления">
 <!ENTITY pref_category_notifications_summary2 "Новые возможности, советы по продукту">
-<!ENTITY pref_developer_remotedebugging_usb "Удалённая отладка через USB">
-<!ENTITY pref_developer_remotedebugging_wifi "Удалённая отладка через Wi-Fi">
-<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Для удалённой отладки через Wi-Fi необходимо, чтобы на вашем устройстве было установлено приложение для чтения QR-кодов.">
+<!ENTITY pref_developer_remotedebugging_usb "Удалённая отладка по USB">
+<!ENTITY pref_developer_remotedebugging_wifi "Удалённая отладка по Wi-Fi">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Для удалённой отладки по Wi-Fi необходимо, чтобы на вашем устройстве было установлено приложение для сканирования QR-кодов.">
 <!ENTITY pref_remember_signons2 "Запоминать логины">
 <!ENTITY pref_manage_logins "Управление логинами">
 
@@ -409,6 +414,12 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "Облачные вкладки">
 
 <!ENTITY pref_default_browser "Сделать браузером по умолчанию">
+
+<!ENTITY pref_default_browser2 "Сделайте &brandShortName; своим браузером по умолчанию">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Нажмите «Браузер» и выберите &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Посетить Поддержку Mozilla">
 <!ENTITY pref_about_firefox "О &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
@@ -503,6 +514,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "Назад">
 <!ENTITY find_next "Далее">
 <!ENTITY find_close "Закрыть">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "Фраза не найдена">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
