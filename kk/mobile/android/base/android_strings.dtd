@@ -10,6 +10,7 @@
 <!ENTITY firstrun_panel_title_privacy "Жекелік">
 <!ENTITY firstrun_privacy_message "Бақылаудан қорықпай-ақ интернетті шолыңыз">
 <!ENTITY firstrun_privacy_subtext "Бақылаудан қорғанысы бар Жекелік шолу интернетті шолу кезінде трекерлерді блоктайды, және жұмыс аяқталғаннан кейін тарихты сақтамайды.">
+<!ENTITY newfirstrun_privacy_subtext "Жекелік шолу режимі сізді желіде соңыңыздан еретін жарнама трекерлерін бұғаттайды.">
 <!ENTITY firstrun_panel_title_customize "Баптау">
 <!ENTITY firstrun_customize_message "&brandShortName; өздік қылыңыз.">
 <!ENTITY firstrun_customize_subtext "&brandShortName; қосымшалар көмегімен баптаңыз. Жарнаманы блоктау, мүмкіндіктерді қосу, немесе өзіңізге тиісті теманы орнатуға болады.">
@@ -22,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Синхрондау">
 <!ENTITY firstrun_sync_message2 "Жұмысты қалдырған жерінен жалғастырыңыз.">
 <!ENTITY firstrun_sync_subtext2 "Синхрондау көмегімен сіз барлық құрылғыларыңызда &brandShortName; ішінде сақтаған бетбелгілер, парольдер және т.б. нәрселерді табуға болады.">
+<!ENTITY newfirstrun_sync_subtext "Мобильді құрылғыда сақталған нәрселерді жұмыс үстелі Firefox-қа синхрондаңыз, жеке және қауіпсіз түрде.">
 <!ENTITY firstrun_signin_message "Байланысыңыз, бастаңыз">
 <!ENTITY firstrun_signin_button "Синхрондау ішіне кіру">
+<!ENTITY newfirstrun_signin_button "Синхрондауды іске қосу">
 <!ENTITY  onboard_start_button_browser "Шолуды бастау">
 <!ENTITY firstrun_button_notnow "Қазір емес">
 <!ENTITY firstrun_button_next "Келесі">
