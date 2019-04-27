@@ -310,7 +310,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "მდებარეობის მოთხოვნის არე">
 <!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "თვითგაშვების სამართავის გახსნა">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "დამატების ჩადგმის შეტყობინების არის გახსნა">
-<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "გრაფიკული გამოსახულების მონაცემთა მიღების უფლებების მართვა">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "გრაფიკის გამოსახვის მონაცემებზე წვდომის უფლებების მართვა">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "კავშირგარეშე საცავის შეტყობინების არის გახსნა">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "პაროლის შენახვის შეტყობინების არის გახსნა">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "გამოყენებული მოდულების მართვა">
@@ -338,7 +338,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "ამ საიტისთვის, მუდმივ მეხსიერებასთან წვდომა შეზღუდული გაქვთ.">
 <!ENTITY urlbar.popupBlocked.tooltip             "ამ საიტზე, ამომხტომი ფანჯრები შეზღუდული გაქვთ.">
 <!ENTITY urlbar.autoplayMediaBlocked.tooltip     "ამ საიტისთვის მედიაფაილების თვითგაშვების უფლება შეზღუდული გაქვთ.">
-<!ENTITY urlbar.canvasBlocked.tooltip            "ამ საიტისთვის, გრაფიკული გამოსახულების მონაცემთა მიღების უფლება შეზღუდული გაქვთ.">
+<!ENTITY urlbar.canvasBlocked.tooltip            "ამ საიტისთვის, გრაფიკის გამოსახვის მონაცემებზე წვდომის უფლება შეზღუდული გაქვთ.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "ამ საიტისთვის Adobe Flash მოდულის გამოყენების უფლება შეზღუდული გაქვთ.">
 <!ENTITY urlbar.midiBlocked.tooltip              "ამ საიტისთვის MIDI წვდომის უფლება შეზღუდული გაქვთ.">
 
