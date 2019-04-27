@@ -10,6 +10,7 @@
 <!ENTITY firstrun_panel_title_privacy "Sekretess">
 <!ENTITY firstrun_privacy_message "Surfa utan att känna dig övervakad">
 <!ENTITY firstrun_privacy_subtext "Privat surfning med spårningsskydd som blockerar trackers medan du surfar och raderar all historik när du slutar surfa.">
+<!ENTITY newfirstrun_privacy_subtext "Privat surfning blockerar annonsspårare som följer dig online.">
 <!ENTITY firstrun_panel_title_customize "Anpassa">
 <!ENTITY firstrun_customize_message "Gör &brandShortName; till din egen.">
 <!ENTITY firstrun_customize_subtext "Anpassa &brandShortName; med tillägg. Blockera annonser, lägg till funktioner eller välj ett nytt tema som speglar din personlighet.">
