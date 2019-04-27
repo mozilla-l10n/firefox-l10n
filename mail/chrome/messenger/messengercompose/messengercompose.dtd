@@ -164,7 +164,7 @@
 <!ENTITY lowPriorityCmd.label "Thấp">
 <!ENTITY lowPriorityCmd.accesskey "h">
 <!ENTITY normalPriorityCmd.label "Bình thường">
-<!ENTITY normalPriorityCmd.accesskey "B">
+<!ENTITY normalPriorityCmd.accesskey "n">
 <!ENTITY highPriorityCmd.label "Cao">
 <!ENTITY highPriorityCmd.accesskey "a">
 <!ENTITY highestPriorityCmd.label "Cao nhất">
