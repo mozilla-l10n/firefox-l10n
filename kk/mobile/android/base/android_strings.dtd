@@ -4,7 +4,9 @@
 
 <!ENTITY firstrun_panel_title_welcome "Қош келдіңіз">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; таңдағаныңыз үшін рахмет">
+<!ENTITY newfirstrun_urlbar_message "&brandShortName; өніміне қош келдіңіз">
 <!ENTITY firstrun_urlbar_subtext2 "Mozilla, еркін және ашық интернетке ұмтылатын коммерциялық емес ұйым, жасаған заманауи мобильді браузер.">
+<!ENTITY newfirstrun_urlbar_subtext "Жылдам, жеке және сіздің жағыңызда.">
 <!ENTITY firstrun_panel_title_privacy "Жекелік">
 <!ENTITY firstrun_privacy_message "Бақылаудан қорықпай-ақ интернетті шолыңыз">
 <!ENTITY firstrun_privacy_subtext "Бақылаудан қорғанысы бар Жекелік шолу интернетті шолу кезінде трекерлерді блоктайды, және жұмыс аяқталғаннан кейін тарихты сақтамайды.">
@@ -413,7 +415,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_default_browser2 "&brandShortName; негізгі браузер қылыңыз">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
-    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Браузер қолданбасын шертіңіз және &brandShortName; таңдаңыз">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla қолдау сайтын шолу">
 <!ENTITY pref_about_firefox "&brandShortName; туралы">
