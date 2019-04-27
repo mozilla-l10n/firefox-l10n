@@ -267,6 +267,10 @@ expand-addon-button = Altre opzioni
 addons-enabled-heading = Attivo
 addons-disabled-heading = Disattivato
 
+ask-to-activate-button = Chiedi prima di attivare
+always-activate-button = Attiva sempre
+never-activate-button = Non attivare mai
+
 addon-detail-author-label = Autore
 addon-detail-version-label = Versione
 addon-detail-last-updated-label = Ultimo aggiornamento
