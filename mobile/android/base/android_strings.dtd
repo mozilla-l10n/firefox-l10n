@@ -4,7 +4,9 @@
 
 <!ENTITY firstrun_panel_title_welcome "歡迎">
 <!ENTITY firstrun_urlbar_message2 "感謝選用 &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "歡迎使用 &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "來自 Mozilla 的現代行動瀏覽器。Mozilla 是一個致力於自由與開放 Web 的非營利組織。">
+<!ENTITY newfirstrun_urlbar_subtext "快速上網，確保隱私，永遠挺你。">
 <!ENTITY firstrun_panel_title_privacy "隱私權">
 <!ENTITY firstrun_privacy_message "隱私瀏覽不留痕跡">
 <!ENTITY firstrun_privacy_subtext "打開隱私分頁，不僅可阻擋追蹤廣告，也不會留下瀏覽紀錄，上網好安心。">
@@ -22,6 +24,7 @@
 <!ENTITY firstrun_sync_subtext2 "使用 Sync 來尋找您在任何裝置中，儲存到 &brandShortName; 的書籤、密碼，還有更多東西。">
 <!ENTITY firstrun_signin_message "開始連線使用">
 <!ENTITY firstrun_signin_button "登入至 Sync">
+<!ENTITY newfirstrun_signin_button "開啟同步">
 <!ENTITY  onboard_start_button_browser "開始瀏覽">
 <!ENTITY firstrun_button_notnow "現在不要">
 <!ENTITY firstrun_button_next "下一步">
@@ -413,7 +416,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_default_browser2 "將 &brandShortName; 設為您的預設瀏覽器">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
-    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "點擊「瀏覽器應用程式」並選擇 &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "前往 Mozilla 技術支援站">
 <!ENTITY pref_about_firefox "關於 &brandShortName;">
