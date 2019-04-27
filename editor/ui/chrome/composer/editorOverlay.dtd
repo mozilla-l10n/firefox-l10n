@@ -44,7 +44,7 @@
 <!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "ასო-ნიშნები…">
 <!ENTITY insertCharsCmd.accesskey "ო">
-<!ENTITY insertBreakAllCmd.label "წყვეტა ნახატ(ებ)ის ქვემოთ">
+<!ENTITY insertBreakAllCmd.label "წყვეტა სურათ(ებ)ის ქვემოთ">
 <!ENTITY insertBreakAllCmd.accesskey "წ">
 
 <!-- Used just in context popup. -->
@@ -301,7 +301,7 @@
 <!ENTITY tableToolbarCmd.label "ცხრილი">
 <!ENTITY tableToolbarCmd.tooltip "ახალი ცხრილის ჩამატება ან მონიშნულის პარამეტრების ჩასწორება">
 <!ENTITY linkToolbarCmd.label "ბმული">
-<!ENTITY linkToolbarCmd.tooltip "ახალი ბმის ჩამატება ან მონიშნულის პარამეტრების ჩასწორება">
+<!ENTITY linkToolbarCmd.tooltip "ახალი ბმულის ჩამატება ან მონიშნულის პარამეტრების ჩასწორება">
 <!ENTITY anchorToolbarCmd.label "ღუზა">
 <!ENTITY anchorToolbarCmd.tooltip "ახალი ღუზის ჩამატება ან მონიშნულის პარამეტრების ჩასწორება">
 <!ENTITY TextColorButton.tooltip "ტექსტის ფერის არჩევა">
@@ -321,7 +321,7 @@
 <!ENTITY outdentToolbarCmd.tooltip "გამოწეული აბზაცი (მარცხნივ)">
 <!ENTITY indentToolbarCmd.tooltip "ჩვეულებრივი აბზაცი (მარჯვნივ)">
 <!ENTITY AlignPopupButton.tooltip "ტექსტის განთავსების არჩევა">
-<!ENTITY InsertPopupButton.tooltip "ბმის, ღუზის, ნახატის, ჰორიზონტული ხაზის ან ცხრილის ჩამატება">
+<!ENTITY InsertPopupButton.tooltip "ბმულის, ღუზის, სურათის, ჰორიზონტული ხაზის ან ცხრილის ჩამატება">
 <!ENTITY alignLeftButton.tooltip "ტექსტის სწორება მარცხნივ">
 <!ENTITY alignCenterButton.tooltip "ტექსტის სწორება ცენტრზე">
 <!ENTITY alignRightButton.tooltip "ტექსტის სწორება მარჯვნივ">

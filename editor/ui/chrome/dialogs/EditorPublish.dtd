@@ -15,19 +15,19 @@
 <!ENTITY siteList.tooltip             "შეარჩიეთ გამოსაქვეყნებელი საიტი">
 <!ENTITY newSiteButton.label          "ახალი საიტი">
 <!ENTITY newSiteButton.accesskey      "N">
-<!ENTITY docDirList.label             "საიტის ქვედასტა ამ გვერდისათვის:">
+<!ENTITY docDirList.label             "საიტის ქვესაქაღალდე ამ გვერდისათვის:">
 <!ENTITY docDirList.accesskey         "S">
-<!ENTITY docDirList.tooltip           "აირჩიეთ ან მიუთითეთ დასტა ამ გვერდის გარე ქვედასტისთვის">
-<!ENTITY publishImgCheckbox.label     "ნახატებისა და სხვა ფაილების ჩათვლით">
+<!ENTITY docDirList.tooltip           "აირჩიეთ ან მიუთითეთ საქაღალდე ამ გვერდის გარე ქვესაქაღალდისთვის">
+<!ENTITY publishImgCheckbox.label     "სურათებისა და სხვა ფაილების ჩათვლით">
 <!ENTITY publishImgCheckbox.accesskey "o">
-<!ENTITY publishImgCheckbox.tooltip   "ამ საიტზე დამოწმებული ნახატებისა და სხვა ფაილების გამოქვეყნება">
+<!ENTITY publishImgCheckbox.tooltip   "ამ საიტზე დამოწმებული სურათებისა და სხვა ფაილების გამოქვეყნება">
 <!ENTITY sameLocationRadio.label      "გვერდის მისამართის გამოყენება">
 <!ENTITY sameLocationRadio.accesskey  "U">
 <!ENTITY sameLocationRadio.tooltip    "ფაილების მოცემული გვერდის მისამართზე გამოქვეყნება">
-<!ENTITY useSubdirRadio.label         "საიტის ამ ქვედასტის გამოყენება:">
+<!ENTITY useSubdirRadio.label         "საიტის ამ ქვესაქაღალდის გამოყენება:">
 <!ENTITY useSubdirRadio.accesskey     "d">
-<!ENTITY useSubdirRadio.tooltip       "ფაილების გამოქვეყნება შერჩეულ გარე ქვედასტაში">
-<!ENTITY otherDirList.tooltip         "აირჩიეთ ან მიუთითეთ გარე ქვედასტის სახელი ფაილების გამოსაქვეყნებლად">
+<!ENTITY useSubdirRadio.tooltip       "ფაილების გამოქვეყნება შერჩეულ გარე ქვესაქაღალდეში">
+<!ENTITY otherDirList.tooltip         "აირჩიეთ ან მიუთითეთ გარე ქვესაქაღალდის სახელი ფაილების გამოსაქვეყნებლად">
 <!ENTITY pageTitle.label              "გვერდის სათაური:">
 <!ENTITY pageTitle.accesskey          "T">
 <!ENTITY pageTitle.tooltip            "მიუთითეთ გვერდის სათაური, რომელიც ფანჯრის პანელზე ან სანიშნებში გამოჩნდება">
@@ -53,7 +53,7 @@
 <!ENTITY siteUrl.tooltip              "FTP:// ან HTTP:// მისამართი, რომელიც თქვენმა ISP-მ ან მასპინძელმა სერვერმა მოგაწოდათ">
 <!ENTITY browseUrl.label              "თქვენი სათაო გვერდის HTTP მისამართი (მაგ.: 'http://www.myisp.com/myusername'):">
 <!ENTITY browseUrl.accesskey          "T">
-<!ENTITY browseUrl.tooltip            "HTTP:// მისამართი ან საბაზო დასტა (ფაილის სახელი არ მიუთითოთ)">
+<!ENTITY browseUrl.tooltip            "HTTP:// მისამართი ან საბაზო საქაღალდე (ფაილის სახელი არ მიუთითოთ)">
 <!ENTITY username.label               "თქვენი სახელი:">
 <!ENTITY username.accesskey           "U">
 <!ENTITY username.tooltip             "სახელი, რომელსაც იყენებთ ISP-ზე ან მასპინძელ სერვერზე შესასვლელად">

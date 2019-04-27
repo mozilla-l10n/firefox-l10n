@@ -4,11 +4,11 @@
 
 <!ENTITY serverAdvanced.label "ანგარიშის დამატებითი პარამეტრები">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
-<!ENTITY serverDirectory.label "IMAP სერვერის დასტა:">
+<!ENTITY serverDirectory.label "IMAP სერვერის საქაღალდე:">
 <!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "მხოლოდ გამოწერილი საქაღალდეების ჩვენება">
 <!ENTITY usingSubscription.accesskey "w">
-<!ENTITY dualUseFolders.label "სერვერი მუშაობს იმ დასტებთანაც, რომლებიც ქვედასტებსა და წერილებს შეიცავენ">
+<!ENTITY dualUseFolders.label "სერვერი მუშაობს იმ საქაღალდებთანაც, რომლებიც ქვესაქაღალდებსა და წერილებს შეიცავენ">
 <!ENTITY dualUseFolders.accesskey "f">
 <!ENTITY maximumConnectionsNumber.label "სერვერთან კავშირების მაქსიმალური რაოდენობა ბუფერირებისთვის">
 <!ENTITY maximumConnectionsNumber.accesskey "M">

@@ -45,7 +45,7 @@
      filters are propagated between folder changes and when opening new tabs.)
      -->
 <!ENTITY quickFilterBar.sticky.tooltip
-         "არსებული ფილტრების შენარჩუნება დასტების გადართვისას">
+         "არსებული ფილტრების შენარჩუნება საქაღალდების გადართვისას">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.label):
      The label for the filter button that causes us to filter results to only
@@ -266,7 +266,7 @@
      but we can convert to a global search for them.
      -->
 <!ENTITY quickFilterBar.glodaUpsell.continueSearch
-         "ძიების გაგრძელება ყველა დასტაში">
+         "ძიების გაგრძელება ყველა საქაღალდეში">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.pressEnterAndCurrent):
      The second line of the panel popup that tells the user we found no matches.

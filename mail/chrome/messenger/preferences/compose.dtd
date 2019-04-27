@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "შრიფტი:">
 <!ENTITY font.accesskey                       "შ">
-<!ENTITY size.label                           "ზომა:">
-<!ENTITY size.accesskey                       "ზ">
 <!ENTITY fontSize.label                       "ზომა:">
 <!ENTITY fontSize.accesskey                   "ზ">
 <!ENTITY useReaderDefaults.label              "წამკითხველის ნაგულისხმევი ფერების გამოყენება">
@@ -53,10 +51,10 @@
 <!ENTITY autocompleteText.label                "წერილების გაგზავნისას შესაბამისი ჩანაწერების შემოწმება:">
 <!ENTITY addressingEnable.label                "ადგილობრივ წიგნაკებში">
 <!ENTITY addressingEnable.accesskey            "დ">
-<!ENTITY directories.label                     "დასტების სერვერი:">
+<!ENTITY directories.label                     "საქაღალდების სერვერი:">
 <!ENTITY directories.accesskey                 "რ">
 <!ENTITY directoriesNone.label                 "არა">
-<!ENTITY editDirectories.label                 "დასტების ჩასწორება…">
+<!ENTITY editDirectories.label                 "საქაღალდების ჩასწორება…">
 <!ENTITY editDirectories.accesskey             "ჩ">
 <!ENTITY showAsDefault.label                   "ნაგულისხმევი გამშვები საქაღალდე, მისამართების წიგნაკის ფანჯარაში:">
 <!ENTITY showAsDefault.accesskey               "ნ">

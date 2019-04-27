@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "ველების პარამეტრები">
-<!ENTITY windowTitleImage.label "ფორმის ნახატის პარამეტრები">
+<!ENTITY windowTitleImage.label "ფორმის სურათის პარამეტრები">
 
 <!ENTITY InputType.label "ველის სახეობა">
 <!ENTITY InputType.accesskey "T">
@@ -15,7 +15,7 @@
 <!ENTITY reset.value "გაუქმების ღილაკი">
 <!ENTITY file.value "ფაილი">
 <!ENTITY hidden.value "დამალული">
-<!ENTITY image.value "ნახატი">
+<!ENTITY image.value "სურათი">
 <!ENTITY button.value "ღილაკი">
 
 <!ENTITY InputSettings.label "ველის პარამეტრები">
@@ -46,5 +46,5 @@
 <!ENTITY Accept.label "დასაშვები სახეობები:">
 <!ENTITY Accept.accesskey "დ">
 
-<!ENTITY ImageProperties.label "ნახატის პარამეტრები…">
+<!ENTITY ImageProperties.label "სურათის პარამეტრები…">
 <!ENTITY ImageProperties.accesskey "E">

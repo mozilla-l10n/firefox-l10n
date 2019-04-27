@@ -9,7 +9,7 @@
 
 <!ENTITY move.label "ჯართის წერილების გადატანა:">
 <!ENTITY move.accesskey "M">
-<!ENTITY junkFolderOn.label "&quot;ჯართის&quot; დასტაში აქ:">
+<!ENTITY junkFolderOn.label "&quot;ჯართის&quot; საქაღალდეში აქ:">
 <!ENTITY junkFolderOn.accesskey "J">
 <!ENTITY otherFolder.label "სხვაგან:">
 <!ENTITY otherFolder.accesskey "O">
@@ -25,7 +25,7 @@
 <!ENTITY ispHeaders.accesskey "T">
 
 <!ENTITY junkClassification.label "მონიშნული">
-<!ENTITY junkActions.label "სამიზნე დასტა და პირობები">
+<!ENTITY junkActions.label "სამიზნე საქაღალდე და პირობები">
 
 <!ENTITY globalJunkPrefs.label "Global Junk პარამეტრები…">
 <!ENTITY globalJunkPrefs.accesskey "G">

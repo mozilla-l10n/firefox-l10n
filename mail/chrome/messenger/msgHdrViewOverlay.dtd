@@ -106,7 +106,7 @@
 <!ENTITY saveAllAttachmentsButton1.label   "ყველას შენახვა">
 <!ENTITY saveAllAttachmentsButton1.tooltip "ყველა დართული ფაილის შენახვა">
 
-<!ENTITY copyLinkCmd.label        "ბმის მისამართის ასლი">
+<!ENTITY copyLinkCmd.label        "ბმულის მისამართის ასლი">
 <!ENTITY copyLinkCmd.accesskey    "ბ">
 
 <!ENTITY CopyMessageId.label "წერილის კოდის ასლი">

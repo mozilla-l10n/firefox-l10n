@@ -495,7 +495,7 @@
 <!ENTITY filtersApplyToMessage.accesskey "წ">
 <!ENTITY runJunkControls.label "ჯართის ამოცნობა საქაღალდეში">
 <!ENTITY runJunkControls.accesskey "ჯ">
-<!ENTITY deleteJunk.label "ჯართად მონიშნული წერილის წაშლა დასტაში">
+<!ENTITY deleteJunk.label "ჯართად მონიშნული წერილის წაშლა საქაღალდეში">
 <!ENTITY deleteJunk.accesskey "მ">
 <!ENTITY importCmd.label "გადმოტანა…">
 <!ENTITY importCmd.accesskey "გ">
@@ -567,7 +567,7 @@
 <!ENTITY glodaSearch.title "გლობალური ძიება">
 <!ENTITY searchItem.title "სწრაფი ძიება">
 <!ENTITY mailViewsToolbarItem.title "წერილებში ჩვენება">
-<!ENTITY folderLocationToolbarItem.title "დასტის მისამართი">
+<!ENTITY folderLocationToolbarItem.title "საქაღალდის მისამართი">
 <!ENTITY tagButton.label "ჭდე">
 <!ENTITY compactButton.label "შეკუმშვა">
 <!ENTITY appmenuButton.label "გარე მენიუ">
@@ -704,7 +704,7 @@
 <!ENTITY searchRecipient.label "ვის ან ასლი">
 <!ENTITY searchSubjectOrRecipientMenu.label "თემა, ვის ან ასლი">
 <!ENTITY searchMessageBody.label "მთელი წერილი">
-<!ENTITY saveAsVirtualFolderMenu.label "ძიების შედეგების დასტად დამახსოვრება…">
+<!ENTITY saveAsVirtualFolderMenu.label "ძიების შედეგების საქაღალდედ დამახსოვრება…">
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "მიმოწერა">

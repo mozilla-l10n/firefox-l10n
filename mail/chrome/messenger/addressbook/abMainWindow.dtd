@@ -174,9 +174,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newIM.tooltip                                  "სწრაფი შეტყობინების გაგზავნა ან საუბარი">
 <!ENTITY deleteButton2.tooltip                          "მონიშნული ელემენტის წაშლა">
 
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "წიგნაკები">
-
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "სახელი ან ელფოსტა">
 <!ENTITY SearchNameOrEmail.accesskey                    "ს">

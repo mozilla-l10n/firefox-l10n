@@ -8,7 +8,7 @@
 <!ENTITY sendingPrefix.label "წერილის გაგზავნისას, ავტომატურად: ">
 <!ENTITY fccMailFolder.label "ასლის განთავსება:">
 <!ENTITY fccMailFolder.accesskey "P">
-<!ENTITY fccReplyFollowsParent.label "პასუხების მოთავსება დედნის წერილის დასტაში">
+<!ENTITY fccReplyFollowsParent.label "პასუხების მოთავსება დედნის წერილის საქაღალდეში">
 <!ENTITY fccReplyFollowsParent.accesskey "R">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "ასლის გაგზავნა (Cc) ამ მისამართებზე:">
@@ -23,7 +23,7 @@
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "„გაგზავნილი“ წერილების საქაღალდე:">
 <!ENTITY sentFolderOn.accesskey "S">
-<!ENTITY sentInOtherFolder.label "სხვა დასტა:">
+<!ENTITY sentInOtherFolder.label "სხვა საქაღალდე:">
 <!ENTITY sentInOtherFolder.accesskey "O">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "წერილთა არქივები">
@@ -31,7 +31,7 @@
 <!ENTITY keepArchives.accesskey "K">
 <!ENTITY archiveHierarchyButton.label "არქივის პარამეტრები…">
 <!ENTITY archiveHierarchyButton.accesskey "A">
-<!ENTITY archivesFolderOn.label "დასტაში «არქივი»:">
+<!ENTITY archivesFolderOn.label "საქაღალდეში «არქივი»:">
 <!ENTITY archivesFolderOn.accesskey "n">
 <!ENTITY archiveInOtherFolder.label "სხვა:">
 <!ENTITY archiveInOtherFolder.accesskey "h">
@@ -44,7 +44,7 @@
 <!ENTITY draftInOtherFolder.accesskey "ს">
 <!ENTITY keepTemplates.label "წერილთა თარგების შენახვა:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "დასტაში «თარგები»:">
+<!ENTITY templatesFolderOn.label "საქაღალდეში «თარგები»:">
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "სხვა:">
 <!ENTITY templateInOtherFolder.accesskey "e">
