@@ -64,6 +64,8 @@ but will never be visible at the same time. -->
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "P">
 
+<!-- Tab context menu -->
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -469,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Vymazat nedávnou historii…">
 <!ENTITY appMenuHistory.restoreSession.label "Obnovit předchozí relaci">
 <!ENTITY appMenuHistory.viewSidebar.label "Zobrazit v postranní liště">
+<!ENTITY appMenuHistory.hideSidebar.label "Zavřít v postranní liště">
 <!ENTITY appMenuHistory.recentHistory.label "Nedávná historie">
 <!ENTITY appMenuHelp.label "Nápověda">
 
@@ -497,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Přihlásit se ke službě Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Správa zařízení…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Zobrazit v postranní liště">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Zavřít v postranní liště">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Připojit další zařízení">
 
 <!ENTITY appMenuRecentHighlights.label "Vybrané">
@@ -1105,6 +1109,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "S">
 <!ENTITY updateAvailable.cancelButton.label "Teď ne">
 <!ENTITY updateAvailable.cancelButton.accesskey "n">
+
 <!ENTITY updateAvailable.panelUI.label "Stáhnout aktualizaci aplikace &brandShorterName;">
 
 <!ENTITY updateManual.message "Stáhněte si novou verzi aplikace &brandShorterName; a my vám pomůžeme s její instalací.">
