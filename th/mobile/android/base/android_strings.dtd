@@ -4,7 +4,9 @@
 
 <!ENTITY firstrun_panel_title_welcome "ยินดีต้อนรับ">
 <!ENTITY firstrun_urlbar_message2 "ขอบคุณที่เลือก &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "ยินดีต้อนรับสู่ &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "เบราว์เซอร์มือถือที่ทันสมัยจาก Mozilla องค์กรไม่แสวงหาผลกำไรที่มุ่งมั่นเพื่อเว็บเสรีและเปิดกว้าง">
+<!ENTITY newfirstrun_urlbar_subtext "รวดเร็ว เป็นส่วนตัว และอยู่เคียงข้างคุณ">
 <!ENTITY firstrun_panel_title_privacy "ความเป็นส่วนตัว">
 <!ENTITY firstrun_privacy_message "ท่องเว็บเหมือนไม่มีใครเฝ้ามองอยู่">
 <!ENTITY firstrun_privacy_subtext "การท่องเว็บแบบส่วนตัวพร้อมการป้องกันการติดตามปิดกั้นตัวติดตามขณะที่คุณท่องเว็บและจะไม่จดจำประวัติของคุณเมื่อคุณเสร็จสิ้นการท่องเว็บ">
@@ -413,7 +415,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_default_browser2 "ทำให้ &brandShortName; เป็นเบราว์เซอร์เริ่มต้นของฉัน">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
-    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "แตะแอปเบราว์เซอร์และเลือก &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "เยี่ยมชมการสนับสนุนจาก Mozilla">
 <!ENTITY pref_about_firefox "เกี่ยวกับ &brandShortName;">
