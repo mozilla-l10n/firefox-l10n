@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Witamy">
 <!ENTITY firstrun_urlbar_message2 "Dziękujemy za wybranie\nprzeglądarki &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Witamy w przeglądarce &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Nowoczesna przeglądarka od Mozilli, organizacji non-profit oddanej wolnemu i otwartemu Internetowi.">
+<!ENTITY newfirstrun_urlbar_subtext "Szybka, prywatna i po Twojej stronie.">
 <!ENTITY firstrun_panel_title_privacy "Prywatność">
 <!ENTITY firstrun_privacy_message "Przeglądaj, jak gdyby\nnikt nie patrzył">
 <!ENTITY firstrun_privacy_subtext "Przeglądanie prywatne z ochroną przed śledzeniem blokuje elementy śledzące użytkownika i nie zachowuje historii.">
+<!ENTITY newfirstrun_privacy_subtext "Tryb prywatny blokuje reklamy śledzące Cię w Internecie.">
 <!ENTITY firstrun_panel_title_customize "Dodatki">
 <!ENTITY firstrun_customize_message "Używaj przeglądarki &brandShortName;\npo swojemu">
 <!ENTITY firstrun_customize_subtext "Dostosuj przeglądarkę &brandShortName; dodatkami. Blokuj reklamy, dodawaj funkcje lub wybierz motyw, który do Ciebie pasuje.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Kontynuuj przeglądanie">
 <!ENTITY firstrun_sync_subtext2 "Użyj synchronizacji, aby mieć zakładki, hasła i inne rzeczy zachowane w przeglądarce &brandShortName; na wszystkich urządzeniach.">
+<!ENTITY newfirstrun_sync_subtext "Synchronizuj rzeczy zachowane na telefonie z Firefoksem na komputerze — prywatnie i bezpiecznie.">
 <!ENTITY firstrun_signin_message "Połącz z innymi urządzeniami">
 <!ENTITY firstrun_signin_button "Zaloguj się do synchronizacji">
+<!ENTITY newfirstrun_signin_button "Włącz synchronizację">
 <!ENTITY  onboard_start_button_browser "Zacznij przeglądać Internet">
 <!ENTITY firstrun_button_notnow "Nie teraz">
 <!ENTITY firstrun_button_next "Dalej">
@@ -413,7 +418,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_default_browser2 "Ustaw przeglądarkę &brandShortName; jako domyślną">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
-    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Stuknij opcję „Przeglądarka” i wybierz „&brandShortName;”">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Pomoc Mozilli">
 <!ENTITY pref_about_firefox "O programie &brandShortName;">
