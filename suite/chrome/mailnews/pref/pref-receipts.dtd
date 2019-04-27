@@ -10,7 +10,7 @@
 <!ENTITY receiptArrive.label          "დასტურის მოსვლისას:">
 <!ENTITY leaveIt.label                "მიღებულ წერილებში დატოვება">
 <!ENTITY leaveIt.accesskey            "L">
-<!ENTITY moveToSent.label             "გადატანა დასტაში &quot;გაგზავნილი&quot;">
+<!ENTITY moveToSent.label             "გადატანა საქაღალდეში &quot;გაგზავნილი&quot;">
 <!ENTITY moveToSent.accesskey         "M">
 <!ENTITY requestMDN.label             "მიღების დასტურს მოთხოვნის მიღებისას:">
 <!ENTITY returnSome.label             "დასტურის დაბრუნება ზოგი წერილისათვის">

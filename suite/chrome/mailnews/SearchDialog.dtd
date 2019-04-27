@@ -5,7 +5,7 @@
 <!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "წერილების ძებნის არე:">
 <!ENTITY searchHeading.accesskey     "e">
-<!ENTITY searchSubfolders.label      "ძიება ქვედასტებში">
+<!ENTITY searchSubfolders.label      "ძიება ქვესაქაღალდებში">
 <!ENTITY searchSubfolders.accesskey  "u">
 <!ENTITY searchOnHeading.label       "ძიების შესრულება:">
 <!ENTITY searchOnHeading.accesskey   "P">
@@ -23,9 +23,9 @@
 <!ENTITY moveHereMenu.accesskey      "H">
 <!ENTITY moveButton.label            "ფაილი">
 <!ENTITY moveButton.accesskey        "T">
-<!ENTITY goToFolderButton.label      "წერილების დასტის გახსნა">
+<!ENTITY goToFolderButton.label      "წერილების საქაღალდის გახსნა">
 <!ENTITY goToFolderButton.accesskey  "n">
-<!ENTITY saveAsVFButton.label        "ძიების შედეგების დასტად შენახვა">
+<!ENTITY saveAsVFButton.label        "ძიების შედეგების საქაღალდედ შენახვა">
 <!ENTITY saveAsVFButton.accesskey    "v">
 
 <!-- for ABSearchDialog.xul -->

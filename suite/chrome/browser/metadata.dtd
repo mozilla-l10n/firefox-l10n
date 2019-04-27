@@ -5,7 +5,7 @@
 <!ENTITY no-properties.label   "პარამეტრები არ მითითებულა.">
 
 <!ENTITY caption.label         "ელემენტის პარამეტრები">
-<!ENTITY image-sec.label       "ნახატის პარამეტრები">
+<!ENTITY image-sec.label       "სურათის პარამეტრები">
 <!ENTITY image-url.label       "მისამართი:">
 <!ENTITY image-desc.label      "აღწერა:">
 <!ENTITY image-alt.label       "ალტერნატული ტექსტი:">
@@ -16,7 +16,7 @@
 <!ENTITY insdel-sec.label      "პარამეტრების დამატება/ამოშლაs">
 <!ENTITY insdel-cite.label     "ინფო:">
 <!ENTITY insdel-date.label     "თარიღი:">
-<!ENTITY link-sec.label        "ბმის პარამეტრები">
+<!ENTITY link-sec.label        "ბმულის პარამეტრები">
 <!ENTITY link-url.label        "მისამართი:">
 <!ENTITY link-target.label     "გაიხსნება:">
 <!ENTITY link-type.label       "სასურველი სახეობა:">

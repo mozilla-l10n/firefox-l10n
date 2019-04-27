@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY linksHeader.label "ბმის ქცევა">
-<!ENTITY newWindow.label "ბმის ქცევა გახსნისას">
+<!ENTITY linksHeader.label "ბმულის ქცევა">
+<!ENTITY newWindow.label "ბმულის ქცევა გახსნისას">
 <!ENTITY newWindowDescription.label "ახალ სარკმელში გასახსნელი ბმების გახსნა:">
 <!ENTITY newWindowRestriction.label "როცა სკრიპტი ითხოვს ახალი სარკმლის გახსნას:">
 <!ENTITY external.label "ბმები სხვა პროგრამებიდან">

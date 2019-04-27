@@ -29,7 +29,7 @@
 <!ENTITY alwaysUseDocumentColors.label     "ყოველთვის ვებგვერდზე მითითებული ფერების გამოყენება">
 <!ENTITY alwaysUseDocumentColors.accesskey "ყ">
 <!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
-<!ENTITY useMyColors.label                 "შერჩეული ფერების გამოყენება, საიტის მიერ მითითებული ფერებისა და ფონური ნახატის ნაცვლად">
+<!ENTITY useMyColors.label                 "შერჩეული ფერების გამოყენება, საიტის მიერ მითითებული ფერებისა და ფონური სურათის ნაცვლად">
 <!ENTITY useMyColors.accesskey             "შ">
 <!ENTITY automaticColors.label             "მხოლოდ ფერების უგულებელყოფა, მაღალკონტრასტული გაფორმების გამოყენებისას">
 <!ENTITY automaticColors.accesskey         "მ">

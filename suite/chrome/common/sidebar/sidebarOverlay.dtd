@@ -22,7 +22,7 @@
 <!ENTITY sidebar.no-panels.state     "სტენდი ამჟამად ცარიელია.">
 <!ENTITY sidebar.no-panels.add       'დაფების დამატება შეგიძლიათ „დაფების“ ღილაკზე დაწკაპებით.'>
 <!ENTITY sidebar.no-panels.hide      'თუ გვერდითი ზოლის სრულად დამალვა გსურთ, მენიუში დაწკაპეთ „ჩვენება“ და აირჩიეთ „გვერდითი ზოლი“ ქვემენიუში „ჩვენება/დამალვა“.'>
-<!ENTITY sidebar.sbDirectory.label   "სტენდის დასტა…">
+<!ENTITY sidebar.sbDirectory.label   "სტენდის საქაღალდე…">
 
 <!ENTITY sidebar.pagenotfound.label  "ეს დაფა ამჟამად ვერ გამოიყენება.">
 <!ENTITY sidebar.close.tooltip       "სტენდის დახურვა">

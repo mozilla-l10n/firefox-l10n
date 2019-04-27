@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Labels -->
-<!ENTITY newFolderDialog.title      "ახალი დასტა">
+<!ENTITY newFolderDialog.title      "ახალი საქაღალდე">
 <!ENTITY name.label                 "სახელი:">
 <!ENTITY name.accesskey             "n">
-<!ENTITY description.label          "ქვედასტის შექმნა აქ:">
+<!ENTITY description.label          "ქვესაქაღალდის შექმნა აქ:">
 <!ENTITY description.accesskey      "c">
 <!ENTITY folderRestriction1.label   "ეს სერვერი იღებს მხოლოდ ორი სახის საქაღალდეებს.">
-<!ENTITY folderRestriction2.label   "ახალ დასტაში შეიძლება ინახებოდეს:">
-<!ENTITY foldersOnly.label          "მხოლოდ დასტები">
+<!ENTITY folderRestriction2.label   "ახალ საქაღალდეში შეიძლება ინახებოდეს:">
+<!ENTITY foldersOnly.label          "მხოლოდ საქაღალდები">
 <!ENTITY messagesOnly.label         "მხოლოდ წერილები">
 <!ENTITY accept.label               "საქაღალდის შექმნა">
 <!ENTITY accept.accesskey           "შ">

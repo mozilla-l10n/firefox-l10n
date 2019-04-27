@@ -26,5 +26,5 @@
 <!ENTITY stopFilters.accesskey "S">
 <!ENTITY folderPickerPrefix.label "არჩეული ფილტრ(ებ)ის გამოყენება:">
 <!ENTITY folderPickerPrefix.accesskey "c">
-<!ENTITY choosethis.label "ამ დასტის არჩევა">
+<!ENTITY choosethis.label "ამ საქაღალდის არჩევა">
 <!ENTITY choosethisnewsserver.label "ჯგუფების ამ სერვერის არჩევა">

@@ -4,8 +4,8 @@
 <!ENTITY nameColumn.label   "სახელი"> 
 <!ENTITY unreadColumn.label "წასაკითხი"> 
 <!ENTITY totalColumn.label "სულ"> 
-<!ENTITY folderSizeColumn.label "ზომა">
-<!ENTITY folderLocationToolbarItem.title "დასტის მისამართი">
+<!ENTITY folderSizeColumn.label "ზომა"> 
+<!ENTITY folderLocationToolbarItem.title "საქაღალდის მისამართი">
 <!ENTITY mailViewsToolbarItem.title "ფოსტის ასახვა">
 <!ENTITY searchToolbarItem.title "ძიება">
 <!ENTITY searchSubjectOrAddress.placeholder "ძიება თემებში ან მისამართებში">

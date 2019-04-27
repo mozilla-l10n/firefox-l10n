@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.images.title              "ნახატები">
+<!ENTITY pref.images.title              "სურათები">
 
-<!ENTITY imageBlocking.label            "ნახატების მიღების წესები">
+<!ENTITY imageBlocking.label            "სურათების მიღების წესები">
 
 <!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
     Place "&brandShortName;" in the phrase where the name of the application should
-	 appear
+    appear
 -->
 <!ENTITY imageDetails                   "გამოსახულებებთან მოპყრობის წესების მითითება &brandShortName;–თვის.">
 
@@ -20,10 +20,3 @@
 <!ENTITY loadNoImagesRadio.accesskey    "D">
 <!ENTITY viewPermissions.label          "უფლებების მართვა">
 <!ENTITY viewPermissions.accesskey      "P">
-<!ENTITY animLoopingTitle.label         "მოძრავი სურათები გაეშვას">
-<!ENTITY animLoopAsSpecified.label      "იმდენჯერ, რამდენჯერაც მითითებული აქვს">
-<!ENTITY animLoopAsSpecified.accesskey  "ი">
-<!ENTITY animLoopOnce.label             "ერთხელ">
-<!ENTITY animLoopOnce.accesskey         "ე">
-<!ENTITY animLoopNever.label            "არასდროს">
-<!ENTITY animLoopNever.accesskey        "ა">
