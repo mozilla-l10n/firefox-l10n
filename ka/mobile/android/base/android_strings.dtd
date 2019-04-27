@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "მოგესალმებით">
 <!ENTITY firstrun_urlbar_message2 "გმადლობთ, რომ აირჩიეთ &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "მოგესალმებათ &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "თანამედროვე ბრაუზერი მობილურისთვის Mozilla-სგან, თავისუფალი და გახსნილი ინტერნეტის მხარდამჭერი, არამომგებიანი კომპანიისგან.">
+<!ENTITY newfirstrun_urlbar_subtext "სწრაფი, პირადი და თქვენს მხარეზე.">
 <!ENTITY firstrun_panel_title_privacy "პირადულობა">
 <!ENTITY firstrun_privacy_message "იმოგზაურეთ ინტერნეტში მეთვალყურეების გარეშე">
 <!ENTITY firstrun_privacy_subtext "პირადი დათვალიერება თვალთვალისგან დაცვით ზღუდავს მეთვალყურე ელემენტებს და არ იმახსოვრებს თქვენს ისტორიას.">
+<!ENTITY newfirstrun_privacy_subtext "პირადი თვალიერება ზღუდავს რეკლამებს, რომლებიც თვალს გადევნებთ ინტერნეტში.">
 <!ENTITY firstrun_panel_title_customize "მორგება">
 <!ENTITY firstrun_customize_message "გახადეთ &brandShortName; თქვენებური.">
 <!ENTITY firstrun_customize_subtext "მოირგეთ &brandShortName; დამატებების საშუალებით. შეზღუდეთ რეკლამები, დაამატეთ შესაძლებლობები, ან აირჩიეთ ახალი გაფორმება, თქვენი გემოვნებით.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "სინქრონიზაცია">
 <!ENTITY firstrun_sync_message2 "განაგრძეთ იქიდან, სადაც გაჩერდით.">
 <!ENTITY firstrun_sync_subtext2 "გამოიყენეთ სინქრონიზაცია სანიშნების, პაროლების და &brandShortName;-ში დამახსოვრებული სხვა მონაცემების, ყველა მოწყობილობაზე გასაზიარებლად.">
+<!ENTITY newfirstrun_sync_subtext "დაასინქრონეთ ნებისმიერი რამ, რასაც შეინახავთ მობილურში, კომპიუტერის Firefox-ზე, უსაფრთხოდ და დაცულად.">
 <!ENTITY firstrun_signin_message "დაუკავშირდით და დაიწყეთ">
 <!ENTITY firstrun_signin_button "Sync-ში შესვლა">
+<!ENTITY newfirstrun_signin_button "ჩართეთ Sync">
 <!ENTITY  onboard_start_button_browser "დაიწყეთ მოგზაურობა ინტერნეტში">
 <!ENTITY firstrun_button_notnow "ახლა არა">
 <!ENTITY firstrun_button_next "შემდეგი">
@@ -413,7 +418,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_default_browser2 "გახადეთ &brandShortName; ნაგულისხმევი ბრაუზერი">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
-    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "დაწკაპეთ ბრაუზერის პროგრამაზე და აირჩიეთ &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "ეწვიეთ Mozilla მხარდაჭერას">
 <!ENTITY pref_about_firefox "&brandShortName; ინფორმაცია">
