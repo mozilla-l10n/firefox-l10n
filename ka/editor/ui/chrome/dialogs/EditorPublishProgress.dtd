@@ -4,8 +4,8 @@
 
 <!-- Window title -->
 <!ENTITY siteUrl.label         "საიტის მისამართი:">
-<!ENTITY docSubdir.label       "გვერდის ქვედასტა:">
-<!ENTITY otherSubdir.label     "ნახატის ქვედასტა:">
+<!ENTITY docSubdir.label       "გვერდის ქვესაქაღალდე:">
+<!ENTITY otherSubdir.label     "სურათის ქვესაქაღალდე:">
 
 <!ENTITY status.label          "გამოქვეყნება…">
 <!ENTITY fileList.label        "გამოქვეყნების სტატუსი">

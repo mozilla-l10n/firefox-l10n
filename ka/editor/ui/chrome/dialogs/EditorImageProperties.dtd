@@ -19,7 +19,7 @@
 <!ENTITY title.tooltip "html 'title' ატრიბუტი, რომელიც მინიშნებას უჩვენებს">
 <!ENTITY altText.label "დართული ტექსტი:">
 <!ENTITY altText.accessKey "დ">
-<!ENTITY altTextEditField.tooltip "ნახატის ნაცვლად გამოსაჩენი ტექსტი">
+<!ENTITY altTextEditField.tooltip "სურათის ნაცვლად გამოსაჩენი ტექსტი">
 <!ENTITY noAltText.label "ტექსტის დართვის გარეშე">
 <!ENTITY noAltText.accessKey "გ">
 
@@ -33,7 +33,7 @@
 <!ENTITY actualSizeRadio.tooltip "სურათის საწყისი ზომის აღდგენა">
 <!ENTITY customSizeRadio.label "მითითებული ზომა">
 <!ENTITY customSizeRadio.accessKey "თ">
-<!ENTITY customSizeRadio.tooltip "გვედზე ჩვენებისას სურათის ზომის შეცვლა">
+<!ENTITY customSizeRadio.tooltip "სურათის იმ ზომაზე დაყენება, როგორც გვერდზეა ნაჩვენები">
 <!ENTITY heightEditField.label "სიმაღლე:">
 <!ENTITY heightEditField.accessKey "ღ">
 <!ENTITY widthEditField.label "სიგანე:">

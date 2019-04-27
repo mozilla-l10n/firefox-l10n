@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
-<!ENTITY pref.ldap.window.title    "LDAP დასტების სერვერები">
+<!ENTITY pref.ldap.window.title    "LDAP საქაღალდების სერვერები">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label         "LDAP დასტის სერვერი:">
+<!ENTITY directories.label         "LDAP საქაღალდის სერვერი:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
-<!ENTITY directoriesText.label     "LDAP დასტის სერვერის არჩევა:">
+<!ENTITY directoriesText.label     "LDAP საქაღალდის სერვერის არჩევა:">
 <!ENTITY directoriesText.accesskey "ჩ">
 <!ENTITY addDirectory.label        "დამატება">
 <!ENTITY addDirectory.accesskey    "დ">

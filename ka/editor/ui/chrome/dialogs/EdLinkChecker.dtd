@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label     "ნახატისა და ბმის მისამართების შემოწმება">
+<!ENTITY windowTitle.label     "სურათისა და ბმულის მისამართების შემოწმება">
 <!ENTITY succeeded.label       "განხორციელდა">
 <!ENTITY failed.label          "ვერ მოხერხდა">
 <!ENTITY closeButton.label     "დახურვა">
