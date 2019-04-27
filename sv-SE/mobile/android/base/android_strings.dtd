@@ -23,7 +23,7 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Fortsätt där du slutade.">
 <!ENTITY firstrun_sync_subtext2 "Använd Sync för att hitta bokmärken, lösenord och andra saker som du sparar till &brandShortName; på alla dina enheter.">
-<!ENTITY newfirstrun_sync_subtext "Synkronisera de saker du sparar på mobilen till Firefox för skrivbordet, privat och säkert.">
+<!ENTITY newfirstrun_sync_subtext "Synkronisera de saker du sparar på mobilen till Firefox för datorer, privat och säkert.">
 <!ENTITY firstrun_signin_message "Anslut och kom igång">
 <!ENTITY firstrun_signin_button "Logga in till Sync">
 <!ENTITY newfirstrun_signin_button "Aktivera Sync">
