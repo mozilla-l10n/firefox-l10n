@@ -10,6 +10,7 @@
 <!ENTITY firstrun_panel_title_privacy "ความเป็นส่วนตัว">
 <!ENTITY firstrun_privacy_message "ท่องเว็บเหมือนไม่มีใครเฝ้ามองอยู่">
 <!ENTITY firstrun_privacy_subtext "การท่องเว็บแบบส่วนตัวพร้อมการป้องกันการติดตามปิดกั้นตัวติดตามขณะที่คุณท่องเว็บและจะไม่จดจำประวัติของคุณเมื่อคุณเสร็จสิ้นการท่องเว็บ">
+<!ENTITY newfirstrun_privacy_subtext "การท่องเว็บแบบส่วนตัวปิดกั้นตัวติดตามโฆษณาที่ติดตามคุณออนไลน์">
 <!ENTITY firstrun_panel_title_customize "ปรับแต่ง">
 <!ENTITY firstrun_customize_message "ทำให้ &brandShortName; เป็นของคุณเอง">
 <!ENTITY firstrun_customize_subtext "ปรับแต่ง &brandShortName; ด้วยส่วนเสริม ปิดกั้นโฆษณา เพิ่มคุณลักษณะ หรือเลือกชุดตกแต่งใหม่เพื่อสะท้อนบุคลิกภาพของคุณ">
@@ -22,8 +23,10 @@
 <!ENTITY firstrun_sync_title "ซิงค์">
 <!ENTITY firstrun_sync_message2 "หยิบจากที่ที่คุณทำค้างไว้">
 <!ENTITY firstrun_sync_subtext2 "ใช้ Sync เพื่อค้นหาที่คั่นหน้า, รหัสผ่าน และสิ่งอื่น ๆ ที่คุณบันทึกไปยัง &brandShortName; ในอุปกรณ์ทั้งหมดของคุณ">
+<!ENTITY newfirstrun_sync_subtext "ซิงค์สิ่งที่คุณบันทึกบนมือถือไปยัง Firefox บนเดสก์ท็อป ได้อย่างเป็นส่วนตัวและปลอดภัย">
 <!ENTITY firstrun_signin_message "รับการเชื่อมต่อ เริ่มต้นใช้งาน">
 <!ENTITY firstrun_signin_button "ลงชื่อเข้า Sync">
+<!ENTITY newfirstrun_signin_button "เปิดใช้ Sync">
 <!ENTITY  onboard_start_button_browser "เริ่มการท่องเว็บ">
 <!ENTITY firstrun_button_notnow "ไม่ใช่ตอนนี้">
 <!ENTITY firstrun_button_next "ถัดไป">
