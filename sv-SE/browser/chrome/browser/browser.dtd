@@ -471,7 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Rensa ut tidigare historik…">
 <!ENTITY appMenuHistory.restoreSession.label "Återställ föregående session">
 <!ENTITY appMenuHistory.viewSidebar.label "Visa sidofältet Historik">
-<!ENTITY appMenuHistory.hideSidebar.label "Dölj historik sidofältet">
+<!ENTITY appMenuHistory.hideSidebar.label "Dölj sidofältet Historik">
 <!ENTITY appMenuHistory.recentHistory.label "Senaste historik">
 <!ENTITY appMenuHelp.label "Hjälp">
 
@@ -499,8 +499,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.unverified.label "Ditt konto behöver verifieras.">
 <!ENTITY appMenuRemoteTabs.signin.label "Logga in till Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Hantera enheter…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Visa sidofält Synkade flikar">
-<!ENTITY appMenuRemoteTabs.hidesidebar.label "Dölj synkroniserade flikar sidofältet">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Visa sidofältet Synkade flikar">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Dölj sidofältet Synkade flikar">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Anslut en annan enhet">
 
 <!ENTITY appMenuRecentHighlights.label "Senaste höjdpunkterna">
