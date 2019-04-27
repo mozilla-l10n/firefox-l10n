@@ -4,6 +4,7 @@
 
 <!ENTITY firstrun_panel_title_welcome "欢迎使用">
 <!ENTITY firstrun_urlbar_message2 "感谢您选择 &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "欢迎使用 &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Firefox 是现代化的移动浏览器，由致力于建立一个自由且开放的网络的非营利组织 Mozilla 打造。">
 <!ENTITY firstrun_panel_title_privacy "私密">
 <!ENTITY firstrun_privacy_message "上网自在无监视">
@@ -22,6 +23,7 @@
 <!ENTITY firstrun_sync_subtext2 "利用同步服务，在您任何设备上的 &brandShortName; 中都能漫游同一套书签、密码等信息。">
 <!ENTITY firstrun_signin_message "互联设备，即刻畅游">
 <!ENTITY firstrun_signin_button "登录并同步">
+<!ENTITY newfirstrun_signin_button "开启同步">
 <!ENTITY  onboard_start_button_browser "开始上网">
 <!ENTITY firstrun_button_notnow "暂时不要">
 <!ENTITY firstrun_button_next "下一步">
@@ -413,7 +415,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_default_browser2 "将 &brandShortName; 设为您的默认浏览器">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
-    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "点击“浏览器应用程序”并选择 &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "访问 Mozilla 支持">
 <!ENTITY pref_about_firefox "关于 &brandShortName;">
