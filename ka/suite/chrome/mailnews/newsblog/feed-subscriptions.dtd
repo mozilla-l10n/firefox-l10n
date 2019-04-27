@@ -15,7 +15,7 @@
 <!ENTITY locationValidate.label      "შემოწმება">
 <!ENTITY validateText.label          "მისამართების შემოწმების ჩართვა.">
 
-<!ENTITY feedFolder.label            "სტატიების შენახვა დასტაში:">
+<!ENTITY feedFolder.label            "სტატიების შენახვა საქაღალდეში:">
 <!ENTITY feedFolder.accesskey        "S">
 
 <!-- Account Settings and Subscription Dialog -->
@@ -49,7 +49,7 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "ექსპორტი">
 <!ENTITY button.exportOPML.accesskey "X">
-<!ENTITY button.exportOPML.tooltip   "არხების ექსპორტი დასტების სტრუქტურით; ctrl-დაწკაპვა ან ctrl-enter არხების ექსპორტისთვის სიის სახით">
+<!ENTITY button.exportOPML.tooltip   "არხების ექსპორტი საქაღალდების სტრუქტურით; ctrl-დაწკაპვა ან ctrl-enter არხების ექსპორტისთვის სიის სახით">
 
 <!ENTITY cmd.close.commandKey        "w">
 <!ENTITY button.close.label          "დახურვა">

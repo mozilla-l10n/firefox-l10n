@@ -10,10 +10,10 @@
 <!ENTITY folderCharsetEnforce2.label             "კოდირების მითითება, საქაღალდეში არსებული ყველა შეტყობინებისთვის (თითეული შეტყობინების ტექსტის კოდირების პარამეტრები და თვითდადგენა, უგულებელყოფილი იქნება)">
 <!ENTITY folderCharsetEnforce2.accesskey         "მ">
 <!ENTITY folderRebuildSummaryFileTip2.label      "შეჯამების ფაილის ხელახლა ინდექსაცია">
-<!ENTITY folderRebuildSummaryFile2.label         "დასტის აღდგენა">
+<!ENTITY folderRebuildSummaryFile2.label         "საქაღალდის აღდგენა">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "ღ">
-<!ENTITY folderRebuildSummaryFile.explanation    "ზოგჯერ დასტის ინდექსის (.msf) ფაილი ზიანდება და წერილები შესაძლოა არ აისახოს ან აისახოს წაშლილად; დასტის აღდგენამ შესაძლოა მოხსნას ეს პრობლემა.">
-<!ENTITY folderIncludeInGlobalSearch.label       "ამ დასტის წერილების გათვალისწინება გლობალური ძიების შედეგებში">
+<!ENTITY folderRebuildSummaryFile.explanation    "ზოგჯერ საქაღალდის ინდექსის (.msf) ფაილი ზიანდება და წერილები შესაძლოა არ აისახოს ან აისახოს წაშლილად; საქაღალდის აღდგენამ შესაძლოა მოხსნას ეს პრობლემა.">
+<!ENTITY folderIncludeInGlobalSearch.label       "ამ საქაღალდის წერილების გათვალისწინება გლობალური ძიების შედეგებში">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "გ">
 
 <!ENTITY retention.label "შენარჩუნების პირობები">
@@ -34,7 +34,7 @@
 <!ENTITY retentionApplyToFlagged.accesskey "მ">
 
 <!ENTITY folderSynchronizationTab.label          "სინქრონიზაცია">
-<!ENTITY folderCheckForNewMessages2.label        "ამ დასტის ახალ წერილებზე შემოწმება">
+<!ENTITY folderCheckForNewMessages2.label        "ამ საქაღალდის ახალ წერილებზე შემოწმება">
 <!ENTITY folderCheckForNewMessages2.accesskey    "შ">
 
 <!ENTITY offlineFolder.check.label               "საქაღალდის არჩევა კავშირგარეშე მოხმარებისათვის">

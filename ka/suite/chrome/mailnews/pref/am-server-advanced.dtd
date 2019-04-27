@@ -4,11 +4,11 @@
 
 <!ENTITY serverAdvanced.label "ანგარიშის დამატებითი პარამეტრები">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY serverDirectory.label "IMAP სერვერის დასტა:">
+<!ENTITY serverDirectory.label "IMAP სერვერის საქაღალდე:">
 <!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "მხოლოდ გამოწერილი საქაღალდეების ჩვენება">
 <!ENTITY usingSubscription.accesskey "w">
-<!ENTITY dualUseFolders.label "სერვერი მუშაობს იმ დასტებთანაც, რომლებიც ქვედასტებსა და წერილებს შეიცავენ">
+<!ENTITY dualUseFolders.label "სერვერი მუშაობს იმ საქაღალდებთანაც, რომლებიც ქვესაქაღალდებსა და წერილებს შეიცავენ">
 <!ENTITY dualUseFolders.accesskey "f">
 <!ENTITY maximumConnectionsNumber.label "სერვერთან კავშირების მაქსიმალური რაოდენობა ბუფერირებისთვის">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
@@ -22,7 +22,7 @@
 <!ENTITY otherUsersNamespace.accesskey "ხ">
 <!ENTITY overrideNamespaces.label "სერვერისთვის ამ სახელთა არეების გადაფარვის ნების დართვა">
 <!ENTITY overrideNamespaces.accesskey "ნ">
-<!ENTITY pop3DeferringDesc.label "ანგარიშის სერვერიდან წერილების ჩამოტვირთვისას, მოცემული საქაღალდის გამოყენება მათ შესანახად:" >
+<!ENTITY pop3DeferringDesc.label "ანგარიშის სერვერიდან წერილების ჩამოტვირთვისას, მოცემული საქაღალდის გამოყენება მათ შესანახად:">
 <!ENTITY accountInbox.label "ანგარიშის საფოსტო ყუთი">
 <!ENTITY accountInbox.accesskey "ფ">
 <!ENTITY deferToServer.label "მიღებული წერილების საქაღალდე სხვა ანგარიშისთვის">

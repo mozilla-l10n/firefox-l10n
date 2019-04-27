@@ -2,12 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY server.label "ანგარიში: ">
-<!ENTITY server.accesskey "A">
-
 <!ENTITY virtualFolderListTitle.title        "დასტ(ებ)ის არჩევა">
-<!ENTITY virtualFolderDesc.label       "საძიებო დასტების არჩევა:">
-
-
+<!ENTITY virtualFolderDesc.label       "საძიებო საქაღალდების არჩევა:">
 <!ENTITY folderName.label "საქაღალდის სახელი">
 <!ENTITY folderSearch.label "ძიება">

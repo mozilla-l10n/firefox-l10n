@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-server-top.xul -->
-
 <!ENTITY messageStorage.label "წერილების საცავი">
 <!ENTITY securitySettings.label "უსაფრთხოების პარამეტრები">
 <!ENTITY serverSettings.label "სერვერის პარამეტრები">
@@ -44,7 +42,6 @@
 <!ENTITY deleteOnServer2.accesskey "გ">
 <!ENTITY downloadOnBiff.label "ახალი წერილების ავტომატურად ჩატვირთვა">
 <!ENTITY downloadOnBiff.accesskey "ჩ">
-<!ENTITY username.label "თქვენი სახელი">
 <!ENTITY deleteMessagePrefix.label "წერილის წაშლისას:">
 <!ENTITY modelMoveToTrash.label "გადატანა მოცემულ საქაღალდეში:">
 <!ENTITY modelMoveToTrash.accesskey "დ">
@@ -60,8 +57,8 @@
 <!ENTITY loginAtStartup.label "ახალი წერილების შემოწმება გაშვებისას">
 <!ENTITY loginAtStartup.accesskey "შ">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
-    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-	 of messages between them
+     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+     of messages between them
 -->
 <!ENTITY maxMessagesStart.label "ნებართვა, წერილების ჩამოტვირთვამდე, რომელთა რაოდენობაც აჭარბებს">
 <!ENTITY maxMessagesStart.accesskey "ნ">
@@ -71,7 +68,7 @@
 <!ENTITY alwaysAuthenticate.accesskey "ე">
 <!ENTITY newsrcFilePath.label "ჯგუფების ფაილი:">
 <!ENTITY newsrcPicker.label "ჯგუფების ფაილის არჩევა">
-<!ENTITY abbreviate.label "წერილების დასტების პანელში ჯგუფების სახელებს ჩვენების წესის მითითება:">
+<!ENTITY abbreviate.label "წერილების საქაღალდების პანელში ჯგუფების სახელებს ჩვენების წესის მითითება:">
 <!ENTITY abbreviateOn.label "სრული სახით (მაგალითად, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "შემოკლებულად (მაგალითად, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "დამატებით…">

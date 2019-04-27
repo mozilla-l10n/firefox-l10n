@@ -4,7 +4,7 @@
 
 <!ENTITY pref.mailnews.title              "ფოსტა და ჯგუფები">
 <!ENTITY generalSettings.caption          "ძირითადი პარამეტრები">
-<!ENTITY confirmMove.label                "თანხმობის მოთხოვნა დასტის ურნაში გადატანისას">
+<!ENTITY confirmMove.label                "თანხმობის მოთხოვნა საქაღალდის ურნაში გადატანისას">
 <!ENTITY confirmMove.accesskey            "C">
 <!ENTITY preserveThreading.label          "მიმოწერის შენარჩუნება წერილების დახარისხებისას">
 <!ENTITY preserveThreading.accesskey      "ნ">

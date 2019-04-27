@@ -15,8 +15,8 @@
 <!ENTITY addressingEnable.label                "ადგილობრივი წიგნაკები">
 <!ENTITY addressingEnable.accesskey            "L">
 <!ENTITY autocompleteText.label                "წერილების დამისამართებისას მსგავსის მოძებნა:">
-<!ENTITY directories.label                     "დასტების სერვერზე:">
+<!ENTITY directories.label                     "საქაღალდების სერვერზე:">
 <!ENTITY directories.accesskey                 "D">
 <!ENTITY directoriesNone.label                 "არა">
-<!ENTITY editDirectories.label                 "დასტების რედაქტირება…">
+<!ENTITY editDirectories.label                 "საქაღალდების რედაქტირება…">
 <!ENTITY editDirectories.accesskey             "E">

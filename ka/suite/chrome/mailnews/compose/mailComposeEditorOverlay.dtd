@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY attachImageSource.label         "ამ ნახატის წერილისთვის თანდართვა">
+<!ENTITY attachImageSource.label         "ამ სურათის წერილისთვის თანდართვა">
 <!ENTITY attachImageSource.accesskey     "s">
 
-<!ENTITY attachLinkSource.label          "ამ ბმის პირველწყაროს წერილისთვის თანდართვა">
+<!ENTITY attachLinkSource.label          "ამ ბმულის პირველწყაროს წერილისთვის თანდართვა">
 <!ENTITY attachLinkSource.accesskey      "s">

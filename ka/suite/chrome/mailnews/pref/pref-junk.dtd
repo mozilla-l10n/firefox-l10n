@@ -9,7 +9,7 @@
 <!-- Junk Mail Controls -->
 <!ENTITY manualMark.label               "წერილების ჯართად მონიშვნისას:">
 <!ENTITY manualMark.accesskey           "W">
-<!ENTITY manualMarkModeMove.label       "მათი ანგარიშის &quot;ჯართის&quot; დასტაში გადატანა">
+<!ENTITY manualMarkModeMove.label       "მათი ანგარიშის &quot;ჯართის&quot; საქაღალდეში გადატანა">
 <!ENTITY manualMarkModeMove.accesskey   "M">
 <!ENTITY manualMarkModeDelete.label     "მათი წაშლა">
 <!ENTITY manualMarkModeDelete.accesskey "D">

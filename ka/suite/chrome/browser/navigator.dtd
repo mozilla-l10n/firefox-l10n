@@ -63,7 +63,7 @@
 <!ENTITY locationBar.tooltip          "საძიებო ტერმინის, საკვანძო სიტყვის ან მისამართის მითითება">
 <!ENTITY locationBar.accesskey        "d">
 <!ENTITY locationBar.title            "მისამართი">
-<!ENTITY proxyIcon.tooltip            "ხატულას გადათრევა ამ გვერდის ბმის შესაქმნელად">
+<!ENTITY proxyIcon.tooltip            "ხატულას გადათრევა ამ გვერდის ბმულის შესაქმნელად">
 
 <!ENTITY searchItem.title             "ძიება">
 

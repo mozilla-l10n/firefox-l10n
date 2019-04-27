@@ -8,7 +8,7 @@
 <!ENTITY sendingPrefix.label "წერილის გაგზავნისას, ავტომატურად: ">
 <!ENTITY fccMailFolder.label "ასლის განთავსება:">
 <!ENTITY fccMailFolder.accesskey "P">
-<!ENTITY fccReplyFollowsParent.label "პასუხების მოთავსება დედნის წერილის დასტაში">
+<!ENTITY fccReplyFollowsParent.label "პასუხების მოთავსება დედნის წერილის საქაღალდეში">
 <!ENTITY fccReplyFollowsParent.accesskey "R">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "ასლის გაგზავნა (Cc) ამ მისამართებზე:">
@@ -23,7 +23,7 @@
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "„გაგზავნილი“ წერილების საქაღალდე:">
 <!ENTITY sentFolderOn.accesskey "S">
-<!ENTITY sentInOtherFolder.label "სხვა დასტა:">
+<!ENTITY sentInOtherFolder.label "სხვა საქაღალდე:">
 <!ENTITY sentInOtherFolder.accesskey "O">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "წერილთა არქივები">

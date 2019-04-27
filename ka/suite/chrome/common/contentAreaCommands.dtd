@@ -7,11 +7,11 @@
 <!ENTITY popupWindowRejectCmd.accesskey "ა">
 <!ENTITY popupWindowAllowCmd.label      "ამ საიტიდან ამომხტომი ფანჯრების დაშვება">
 <!ENTITY popupWindowAllowCmd.accesskey  "დ">
-<!ENTITY openLinkCmdInTab.label       "ბმის ახალ დაფაზე გახსნა">
+<!ENTITY openLinkCmdInTab.label       "ბმულის ახალ დაფაზე გახსნა">
 <!ENTITY openLinkCmdInTab.accesskey   "გ">
-<!ENTITY openLinkCmd.label            "ბმის ახალ სარკმლეში გახსნა">
+<!ENTITY openLinkCmd.label            "ბმულის ახალ სარკმლეში გახსნა">
 <!ENTITY openLinkCmd.accesskey        "რ">
-<!ENTITY openLinkCmdInPrivateWindow.label     "ბმის პირად სარკმელში გახსნა">
+<!ENTITY openLinkCmdInPrivateWindow.label     "ბმულის პირად სარკმელში გახსნა">
 <!ENTITY openLinkCmdInPrivateWindow.accesskey "პ">
 <!ENTITY openLinkInWindowCmd.label    "გახსნა">
 <!ENTITY openLinkInWindowCmd.accesskey "ხ">

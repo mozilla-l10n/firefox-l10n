@@ -39,7 +39,7 @@
 <!ENTITY newWindowRadio.accesskey         "n">
 <!ENTITY existingWindowRadio.label        "წერილის არსებულ სარკმელში">
 <!ENTITY existingWindowRadio.accesskey    "e">
-<!ENTITY disableContent.label             "ნახატებისა და სხვა მასალის დაბლოკვა გარე წყაროდან,">
+<!ENTITY disableContent.label             "სურათებისა და სხვა მასალის დაბლოკვა გარე წყაროდან,">
 <!ENTITY disableContent.accesskey         "B">
 <!ENTITY showCondensedAddresses.label     "ჩემს წიგნაკში ხალხის მხოლოდ ეკრანული სახელების ჩვენება">
 <!ENTITY showCondensedAddresses.accesskey "o">

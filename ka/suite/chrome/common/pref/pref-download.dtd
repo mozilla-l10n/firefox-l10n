@@ -17,23 +17,14 @@
 <!ENTITY downloadLocation.label         "ფაილის შენახვისას">
 <!ENTITY saveTo.label                   "Save files to">
 <!ENTITY saveTo.accesskey               "v">
-<!ENTITY chooseDownloadFolder.label     "დასტის არჩევა…">
+<!ENTITY chooseDownloadFolder.label     "საქაღალდის არჩევა…">
 <!ENTITY chooseDownloadFolder.accesskey "C">
 <!ENTITY alwaysAsk.label                "შეკითხვა ყოველ ჯერზე ფაილის შენახვას">
 <!ENTITY alwaysAsk.accesskey            "A">
 
-<!ENTITY downloadHistory.label          "ჩამოტვირთვების ისტორია">
-<!ENTITY removeEntries.label            "ჩამოტვირთვების ჩანაწერთა მოცილება">
-<!ENTITY removeEntries.accesskey        "R">
-<!ENTITY whenCompleted.label            "მათი დასრულებისას">
-<!ENTITY whenQuittingApp.label          "&brandShortName; პროგრამის დახურვისას">
-<!ENTITY neverRemove.label              "არასოდეს">
-
 <!ENTITY finishedBehavior.label         "გამოტვირთვის დასრულებისას">
 <!ENTITY playSound.label                "გახმოვანება">
 <!ENTITY playSound.accesskey            "P">
-<!ENTITY showAlert.label                "გაფრთხილების ჩვენება">
-<!ENTITY showAlert.accesskey            "S">
 <!ENTITY browse.label                   "ნუსხა…">
 <!ENTITY browse.accesskey               "B">
 <!ENTITY playButton.label               "გახმოვანება">
