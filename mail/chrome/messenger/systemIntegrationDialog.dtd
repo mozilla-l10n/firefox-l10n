@@ -3,15 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title  "Tích hợp Hệ thống">
+<!ENTITY acceptIntegration.label  "Đặt làm mặc định">
+<!ENTITY cancelIntegration.label  "Bỏ qua tích hợp">
+<!ENTITY cancelIntegration2.label  "Hủy bỏ">
 <!ENTITY defaultClient.intro  "Dùng &brandShortName; làm chương trình mặc định cho:">
 
 <!ENTITY email.label "Thư điện tử (E-Mail)">
 <!ENTITY newsgroups.label "Nhóm tin">
 <!ENTITY feeds.label "Feed">
 
+<!ENTITY unsetDefault.tooltip "Không thể bỏ đặt &brandShortName; là ứng dụng khách mặc định trong &brandShortName;. Để đặt ứng dụng khác thành mặc định, bạn phải sử dụng hộp thoại 'Đặt làm mặc định'.">
+
 <!ENTITY checkOnStartup.label "Luôn thực hiện việc kiểm tra này mỗi khi khởi động &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "L">
 
 <!ENTITY searchIntegration.label "Cho phép &searchIntegration.engineName; tìm kiếm thư">
 <!ENTITY searchIntegration.accesskey "t">
-

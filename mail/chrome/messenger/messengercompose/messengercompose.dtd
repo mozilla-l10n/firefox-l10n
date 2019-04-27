@@ -282,6 +282,8 @@
 <!ENTITY selectAll.accesskey "B">
 <!ENTITY attachFile.label "Đính kèm Tập tin…">
 <!ENTITY attachFile.accesskey "k">
+<!ENTITY cancelUpload.label "Hủy tải lên">
+<!ENTITY cancelUpload.accesskey "n">
 <!ENTITY attachPage.label "Đính kèm Trang Web…">
 <!ENTITY attachPage.accesskey "W">
 
