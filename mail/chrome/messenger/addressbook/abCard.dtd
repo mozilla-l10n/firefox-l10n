@@ -81,7 +81,79 @@
 <!ENTITY Day.placeholder                "tago">
 <!ENTITY Year.placeholder               "jaro">
 <!ENTITY Or.value                       "aŭ">
+<!ENTITY Age.label                      "Aĝo:">
+<!ENTITY Age.placeholder                "aĝo">
+<!ENTITY YearsOld.label                 "‑jaraĝa">
 
+<!ENTITY Work.tab                       "Laborejo">
+<!ENTITY Work.accesskey                 "L">
+<!ENTITY JobTitle.label                 "Posteno">
+<!ENTITY JobTitle.accesskey             "o">
+<!ENTITY Department.label               "Sekcio:">
+<!ENTITY Department.accesskey           "S">
+<!ENTITY Company.label                  "Organizaĵo:">
+<!ENTITY Company.accesskey              "g">
+<!ENTITY WorkAddress.label              "Adreso:">
+<!ENTITY WorkAddress.accesskey          "d">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label                 "Urbo:">
+<!ENTITY WorkCity.accesskey             "U">
+<!ENTITY WorkState.label                "Provinco:">
+<!ENTITY WorkState.accesskey            "r">
+<!ENTITY WorkZipCode.label              "Poŝtkodo:">
+<!ENTITY WorkZipCode.accesskey          "o">
+<!ENTITY WorkCountry.label              "Lando:">
+<!ENTITY WorkCountry.accesskey          "n">
+<!ENTITY WorkWebPage.label              "Retpaĝo:">
+<!ENTITY WorkWebPage.accesskey          "e">
 
+<!ENTITY Other.tab                      "Aliaj">
+<!ENTITY Other.accesskey                "A">
+<!ENTITY Custom1.label                  "Informo 1:">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "Informo 2:">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "Informo 3:">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "Informo 4:">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.label                    "Notoj:">
+<!ENTITY Notes.accesskey                "N">
 
+<!ENTITY Chat.tab                       "Tujmesaĝiloj">
+<!ENTITY Chat.accesskey                 "T">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM2.accesskey                 "I">
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN2.accesskey                 "M">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "C">
+<!ENTITY XMPP.label                     "XMPP (Jabber):">
+<!ENTITY XMPP.accesskey                 "X">
+<!ENTITY IRC.label                      "IRC:">
+<!ENTITY IRC.accesskey                  "R">
 
+<!ENTITY Photo.tab                      "Foto">
+<!ENTITY Photo.accesskey                "F">
+<!ENTITY GenericPhoto.label             "Implicita foto">
+<!ENTITY GenericPhoto.accesskey         "I">
+<!ENTITY DefaultPhoto.label             "Implicita">
+<!ENTITY PhotoFile.label                "Loka dosiero">
+<!ENTITY PhotoFile.accesskey            "d">
+<!ENTITY BrowsePhoto.label              "Esplori">
+<!ENTITY BrowsePhoto.accesskey          "E">
+<!ENTITY PhotoURL.label                 "Enreta">
+<!ENTITY PhotoURL.accesskey             "r">
+<!ENTITY PhotoURL.placeholder           "Algluu aŭ entajpu retadreson de foto">
+<!ENTITY UpdatePhoto.label              "Ĝisdatigi">
+<!ENTITY UpdatePhoto.accesskey          "s">
+<!ENTITY PhotoDropTarget.label          "Trenu ĉi tien novan foton">
