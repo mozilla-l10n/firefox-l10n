@@ -4,3 +4,4 @@
 
 restart-required-title = പുനഃരാരംഭിക്കേണ്ടത് ആവശ്യമാണ്
 restart-required-header = ഒരൊറ്റ കാര്യം കൂടി..
+restart-button-label = { -brand-short-name } പുനരാരംഭിക്കുക

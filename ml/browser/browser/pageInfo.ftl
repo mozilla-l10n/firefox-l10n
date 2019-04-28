@@ -94,6 +94,7 @@ security-view-identity-validity =
 security-view-privacy =
     .value = സ്വകാര്യതയും നാള്‍വഴിയും
 security-view-privacy-history-value = ഇതിനു് മുമ്പു് ഈ വെബ് സൈറ്റ് സന്ദര്‍ശിച്ചിട്ടുണ്ടോ?
+security-view-privacy-sitedata-value = ഈ വെബ്സൈറ്റ് എന്റെ കമ്പ്യൂട്ടറിൽ വിവരങ്ങൾ സൂക്ഷിക്കുന്നുണ്ടോ?
 security-view-privacy-clearsitedata =
     .label = കുക്കികളും സൈറ്റ് ഡാറ്റയും മായ്ക്കുക
     .accesskey = C
@@ -112,6 +113,8 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = ഉവ്വ്, കുക്കികളും സൈറ്റ് ഡാറ്റയുടെ { $value } { $unit } ഉം
+security-site-data-only = അതെ, സൈറ്റ് ഡാറ്റയുടെ { $value } { $unit }
 security-site-data-cookies-only = അതെ, കുക്കികൾ
 security-site-data-no = അല്ല
 image-size-unknown = അറിയില്ലാത്തത്‌
