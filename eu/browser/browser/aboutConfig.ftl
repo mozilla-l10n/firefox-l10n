@@ -8,6 +8,7 @@ about-config-warning-text = Ezarpen aurreratu hauek aldatzea kaltegarria izan da
 about-config-warning-checkbox = Abisatu hurrengoan ere, mesedez!
 about-config-warning-button = Arriskua onartzen dut
 about-config-title = about:config
+about-config2-title = Konfigurazio aurreratuak
 about-config-search-input =
     .placeholder = Bilatu
 about-config-show-all = Erakutsi denak
