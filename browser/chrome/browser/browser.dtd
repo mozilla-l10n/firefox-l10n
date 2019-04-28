@@ -471,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "ล้างประวัติล่าสุด…">
 <!ENTITY appMenuHistory.restoreSession.label "เรียกคืนวาระก่อนหน้า">
 <!ENTITY appMenuHistory.viewSidebar.label "ดูแถบข้างประวัติ">
+<!ENTITY appMenuHistory.hideSidebar.label "ซ่อนแถบข้างประวัติ">
 <!ENTITY appMenuHistory.recentHistory.label "ประวัติล่าสุด">
 <!ENTITY appMenuHelp.label "ช่วยเหลือ">
 
@@ -499,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "ลงชื่อเข้า Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "จัดการอุปกรณ์…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "ดูแถบข้างแท็บที่ซิงค์">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "ซ่อนแถบข้างแท็บที่ซิงค์">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "เชื่อมต่ออุปกรณ์อื่น">
 
 <!ENTITY appMenuRecentHighlights.label "รายการเด่นล่าสุด">
@@ -1107,6 +1109,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "ด">
 <!ENTITY updateAvailable.cancelButton.label "ไม่ใช่ตอนนี้">
 <!ENTITY updateAvailable.cancelButton.accesskey "ม">
+
 <!ENTITY updateAvailable.panelUI.label "ดาวน์โหลดการอัปเดต &brandShorterName;">
 
 <!ENTITY updateManual.message "ดาวน์โหลดสำเนาใหม่ของ &brandShorterName; และเราจะช่วยคุณติดตั้ง">
