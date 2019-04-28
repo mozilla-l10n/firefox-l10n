@@ -355,8 +355,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksSubview.label             "Bladwijzers">
 <!ENTITY bookmarksMenuButton2.label         "Bladwijzermenu">
-<!ENTITY bookmarksMenuButton.other.label "Andere bladwijzers">
-<!ENTITY bookmarksMenuButton.mobile.label "Mobiel-bladwijzers">
+<!ENTITY bookmarksMenuButton.other.label    "Andere bladwijzers">
+<!ENTITY bookmarksMenuButton.mobile.label   "Mobiel-bladwijzers">
 <!ENTITY viewBookmarksSidebar2.label        "Bladwijzerzijbalk weergeven">
 <!ENTITY hideBookmarksSidebar.label         "Bladwijzerzijbalk verbergen">
 <!ENTITY viewBookmarksToolbar.label         "Bladwijzerwerkbalk weergeven">
@@ -471,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Recente geschiedenis wissen…">
 <!ENTITY appMenuHistory.restoreSession.label "Vorige sessie herstellen">
 <!ENTITY appMenuHistory.viewSidebar.label "Geschiedeniszijbalk weergeven">
+<!ENTITY appMenuHistory.hideSidebar.label "Geschiedeniszijbalk verbergen">
 <!ENTITY appMenuHistory.recentHistory.label "Recente geschiedenis">
 <!ENTITY appMenuHelp.label "Help">
 
@@ -499,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Aanmelden bij Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Apparaten beheren…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Weergeven in zijbalk">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Zijbalk met gesynchroniseerde tabbladen verbergen">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Een ander apparaat verbinden">
 
 <!ENTITY appMenuRecentHighlights.label "Recente Highlights">
@@ -845,10 +847,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "t">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label "Zoeken op deze pagina…">
+<!ENTITY findOnCmd.label     "Zoeken op deze pagina…">
 <!ENTITY findOnCmd.accesskey "Z">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Opnieuw zoeken">
+<!ENTITY findAgainCmd.label  "Opnieuw zoeken">
 <!ENTITY findAgainCmd.accesskey "w">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
@@ -1107,6 +1109,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "d">
 <!ENTITY updateAvailable.cancelButton.label "Niet nu">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
+
 <!ENTITY updateAvailable.panelUI.label "&brandShorterName;-update downloaden">
 
 <!ENTITY updateManual.message "Download een nieuwe kopie van &brandShorterName; en we helpen u deze te installeren.">
