@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Ongi etorri">
 <!ENTITY firstrun_urlbar_message2 "Eskerrik asko &brandShortName; aukeratzeagatik">
+<!ENTITY newfirstrun_urlbar_message "Ongi etorri &brandShortName;(e)ra">
 <!ENTITY firstrun_urlbar_subtext2 "Web ireki eta librearekin konprometituta dagoen irabazi asmorik gabeko Mozillaren mugikorretarako nabigatzaile modernoa.">
+<!ENTITY newfirstrun_urlbar_subtext "Azkarra, pribatua eta zure alboan dagoena.">
 <!ENTITY firstrun_panel_title_privacy "Pribatutasuna">
 <!ENTITY firstrun_privacy_message "Nabigatu inor begira ez balego bezala">
 <!ENTITY firstrun_privacy_subtext "Jarraipenaren babesa duen nabigatze pribatuak jarraipena egiten duten elementuak blokeatuko ditu nabigatu ahala eta ez du historiarik gogoratuko nabigatzen bukatu ondoren.">
+<!ENTITY newfirstrun_privacy_subtext "Nabigatze pribatuak lineako zure jardueraren jarraipena egiten duten iragarkiak blokeatzen ditu.">
 <!ENTITY firstrun_panel_title_customize "Pertsonalizatu">
 <!ENTITY firstrun_customize_message "Moldatu &brandShortName; zure erara.">
 <!ENTITY firstrun_customize_subtext "Pertsonalizatu &brandShortName; gehigarriekin. Blokeatu iragarkiak, gehitu eginbideak edo aukeratu zure izaera isladatzeko itxura berri bat.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Jarraitu utzi zenuen tokitik.">
 <!ENTITY firstrun_sync_subtext2 "Erabili Sync laster-markak, pasahitza eta &brandShortName;(r)en gailu guztietan gordetzen dituzun beste gauzak aurkitzeko.">
+<!ENTITY newfirstrun_sync_subtext "Sinkronizatu mugikorrean gordetako gauzak mahaigainerako Firefoxekin, modu pribatu eta seguruan.">
 <!ENTITY firstrun_signin_message "Konektatu eta abiatu">
 <!ENTITY firstrun_signin_button "Hasi saioa Sync-en">
+<!ENTITY newfirstrun_signin_button "Gaitu sinkronizazioa">
 <!ENTITY  onboard_start_button_browser "Hasi nabigatzen">
 <!ENTITY firstrun_button_notnow "Orain ez">
 <!ENTITY firstrun_button_next "Hurrengoa">
@@ -409,6 +414,12 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "Sinkronizatutako fitxak">
 
 <!ENTITY pref_default_browser "Egin nabigatzaile lehenetsia">
+
+<!ENTITY pref_default_browser2 "Egin &brandShortName; zure nabigatzaile lehenetsia">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Sakatu \&apos;Nabigatzailearen aplikazioa\&apos; eta hautatu &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Bisitatu Mozillaren laguntza">
 <!ENTITY pref_about_firefox "&brandShortName;(r)i buruz">
 <!ENTITY pref_vendor_faqs "Ohiko galderak">
@@ -503,6 +514,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "Aurrekoa">
 <!ENTITY find_next "Hurrengoa">
 <!ENTITY find_close "Itxi">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "Ez da esaldia aurkitu">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
