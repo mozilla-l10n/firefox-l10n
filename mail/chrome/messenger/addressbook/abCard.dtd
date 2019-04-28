@@ -23,15 +23,24 @@
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
 <!ENTITY PhoneticField2.id              "PhoneticLastName">
 
-<!ENTITY NameField1.label               "Persona:">
+<!ENTITY NameField1.label               "Persona nomo:">
 <!ENTITY NameField1.accesskey           "P">
-<!ENTITY NameField2.label               "Familia:">
+<!ENTITY NameField2.label               "Familia nomo:">
 <!ENTITY NameField2.accesskey           "F">
 <!ENTITY PhoneticField1.label           "Elparolo:">
 <!ENTITY PhoneticField2.label           "Elparolo:">
 <!ENTITY DisplayName.label              "Vidigi kiel:">
 <!ENTITY DisplayName.accesskey          "V">
+<!ENTITY preferDisplayName.label        "Uzi nomon de kontakto el la adresaro anstataŭ nomon el mesaĝa kapo">
+<!ENTITY preferDisplayName.accesskey    "a">
+<!ENTITY NickName.label                 "Kaŝnomo:">
+<!ENTITY NickName.accesskey             "K">
 
+<!ENTITY PrimaryEmail.label             "Retpoŝta adreso:">
+<!ENTITY PrimaryEmail.accesskey         "R">
+<!ENTITY SecondEmail.label              "Plia retpoŝta adreso:">
+<!ENTITY SecondEmail.accesskey          "l">
+<!ENTITY PreferMailFormat.label         "Preferas ricevi mesaĝojn kiel:">
 
 
 
