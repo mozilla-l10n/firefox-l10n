@@ -77,6 +77,9 @@ detail-version =
 detail-last-updated =
     .label = Azken eguneraketa
 detail-contributions-description = Ekarpen txiki bat eginda garapenerako laguntza eskatzen dizu gehigarri honen garatzaileak.
+detail-contributions-button = Lagundu
+    .title = Lagundu gehigarri honen garapenean
+    .accesskey = L
 detail-update-type =
     .value = Eguneraketa automatikoak
 detail-update-default =
@@ -90,7 +93,14 @@ detail-update-manual =
     .tooltiptext = Ez instalatu eguneraketak automatikoki
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Exekutatu leiho pribatuetan
-detail-private-browsing-description = Hedapena leiho pribatuetan ibiliko da eta lineako zure jardueretarako sarbidea izango du. <label data-l10n-name="detail-private-browsing-learn-more">Argibide gehiago</label>
+detail-private-browsing-description2 = Baimenduta dagoenean, hedapenak zure lineako jardueren sarbidea izango du nabigatze pribatuko moduan. <label data-l10n-name="detail-private-browsing-learn-more">Argibide gehiago</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overriden by the user.
+detail-private-disallowed-label = Ez da leiho pribatuetan onartzen
+detail-private-disallowed-description = Hedapen hau ez dabil leiho pribatuetan. <label data-l10n-name="detail-private-browsing-learn-more">Argibide gehiago</label>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Leiho pribatuetarako sarbidea behar du
+detail-private-required-description = Hedapen honek zure lineako jardueren sarbidea du nabigatze pribatuko moduan. <label data-l10n-name="detail-private-browsing-learn-more">Argibide gehiago</label>
 detail-private-browsing-on =
     .label = Baimendu
     .tooltiptext = Gaitu nabigatze pribatuan
@@ -236,6 +246,10 @@ shortcuts-modifier-other = Kontuan hartu Ktrl edo Alt
 shortcuts-invalid = Konbinazio baliogabea
 shortcuts-letter = Idatzi letra bat
 shortcuts-system = Ezin da { -brand-short-name }(r)en lasterbidea gainidatzi
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Dagoeneko honek erabilia: { $addon }
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Erakutsi bat gehiago
@@ -250,5 +264,23 @@ go-back-button =
 remove-addon-button = Kendu
 disable-addon-button = Desgaitu
 enable-addon-button = Gaitu
+expand-addon-button = Aukera gehiago
 addons-enabled-heading = Gaituta
 addons-disabled-heading = Desgaituta
+addon-detail-author-label = Egilea
+addon-detail-version-label = Bertsioa
+addon-detail-last-updated-label = Azken eguneraketa
+addon-detail-homepage-label = Hasiera-orria
+addon-detail-rating-label = Balorazioa
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (desgaituta)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] Berrikuspen bat
+       *[other] { $numberOfReviews } berrikuspen
+    }
