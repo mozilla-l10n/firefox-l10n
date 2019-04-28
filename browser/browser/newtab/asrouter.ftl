@@ -47,5 +47,7 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step2 = ਮੇਨੂ ਤੋਂ <b>ਟੈਬ ਨੂੰ ਟੰਗੋ</b> ਨੂੰ ਚੁਣੋ।
+cfr-doorhanger-pintab-step3 = ਜੇ ਸਾਈਟ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ ਤਾਂ ਤੁਸੀਂ ਆਪਣੀ ਟੰਗ ਕੀਤੀ ਟੈਬ ਵਿੱਚ ਨੀਲੀ ਬਿੰਦੀ ਵੇਖੋਗੇ।
 cfr-doorhanger-pintab-animation-pause = ਵਿਰਾਮ
 cfr-doorhanger-pintab-animation-resume = ਮੁੜ-ਪ੍ਰਾਪਤ
