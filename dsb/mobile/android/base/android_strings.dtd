@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Witajśo">
 <!ENTITY firstrun_urlbar_message2 "Wjeliki źěk, až sćo &brandShortName; wubrał">
+<!ENTITY newfirstrun_urlbar_message "Witajśo k &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Moderny mobilny wobglědowak wót Mozilla, za wše wužytneje organizacije, kótaraž se za dermotny a wótwórjony web zasajźujo.">
+<!ENTITY newfirstrun_urlbar_subtext "Malsny, priwatny a na wašom boku.">
 <!ENTITY firstrun_panel_title_privacy "Priwatnosć">
 <!ENTITY firstrun_privacy_message "Pśeglědujśo mimo aby něchten wobglědował">
 <!ENTITY firstrun_privacy_subtext "Priwatny modus ze slědowańskim šćitom blokěrujo pśeslědowaki, mjaztym až pśeglědujośo a njespomnjejo se wašu historiju, gaž wěcej njepśeglědujośo.">
+<!ENTITY newfirstrun_privacy_subtext "Priwatny modus wabjeńske pśeslědowaki blokěrujo, kótarež wam online slěduju.">
 <!ENTITY firstrun_panel_title_customize "Pśiměriś">
 <!ENTITY firstrun_customize_message "Cyńśo &brandShortName; k swójomu.">
 <!ENTITY firstrun_customize_subtext "Pśiměŕśo &brandShortName; z dodankami. Blokěrujśo wabjenje, pśidajśo funkcije abo wubjeŕśo nowu drastwu, aby swóju wósobinu wótbłyšćował.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Snychronizěrowaś">
 <!ENTITY firstrun_sync_message2 "Cyńśo tam dalej, źož sćo pśestał.">
 <!ENTITY firstrun_sync_subtext2 "Wužywajśo Sync, aby cytańske znamjenja, gronidła a druge wěcy namakał, kótarež w &brandShortName; na wšych swójich rědach składujośo.">
+<!ENTITY newfirstrun_sync_subtext "Synchronizěrujśo informacije, kótarež na mobilnem rěźe składujośo, z Firefox za desktop, priwatnje a wěsće.">
 <!ENTITY firstrun_signin_message "Zwězajśo se, zachopśo">
 <!ENTITY firstrun_signin_button "Pla Sync pśizjawiś">
+<!ENTITY newfirstrun_signin_button "Sync zašaltowaś">
 <!ENTITY  onboard_start_button_browser "Pśeglědowanje startowaś">
 <!ENTITY firstrun_button_notnow "Nic ned">
 <!ENTITY firstrun_button_next "Pśiducy">
@@ -413,7 +418,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_default_browser2 "&brandShortName; k wašomu standardnemu wobglědowakoju cyniś">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
-    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Pótusniśo nałoženje wobglědowaka a wubjeŕśo &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "K Pomocy Mozilla se woglědaś">
 <!ENTITY pref_about_firefox "Wó &brandShortName;">
