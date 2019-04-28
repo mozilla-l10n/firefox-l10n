@@ -147,6 +147,16 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = ਮੂਲ ਵਰਤੋਂ
 security-no-visits = ਨਹੀਂ
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] ਮੇਟਾ (1 ਟੈਗ)
+           *[other] ਮੇਟਾ ({ $tags } ਟੈਗ)
+        }
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
