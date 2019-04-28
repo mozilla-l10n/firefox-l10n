@@ -8,7 +8,12 @@
 <!ENTITY stretch.label              "ਤਣਿਆ">
 <!ENTITY fill.label                 "ਭਰਿਆ">
 <!ENTITY fit.label                  "ਫਿੱਟ">
-<!ENTITY preview.label              "ਝਲਕ">
+<!-- LOCALIZATION NOTE (span.label): This refers to the wallpaper "spanning"
+                       multiple monitors when the user has more than one. Only
+                       some of the entire image will be on each monitor.
+                       This should ideally match the wording in Windows' own
+                       Desktop Background settings page. -->
+<!ENTITY span.label                 "ਫੈਲਾਓ">
 <!ENTITY color.label                "ਰੰਗ:">
 <!ENTITY setDesktopBackground.title "ਡੈਸਕਟਾਪ ਦੀ ਬੈਕਗਰਾਊਂਡ ਸੈੱਟ ਕਰੋ">
 <!ENTITY openDesktopPrefs.label     "ਡੈਸਕਟਾਪ ਪਸੰਦ ਖੋਲ੍ਹੋ">

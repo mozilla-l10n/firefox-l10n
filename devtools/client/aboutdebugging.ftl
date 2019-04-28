@@ -11,6 +11,9 @@
 
 # Sidebar strings
 
+# Display name of the runtime for the currently running instance of Firefox. Used in the
+# Sidebar and in the Setup page.
+about-debugging-this-firefox-runtime-name = ਇਹ { -brand-shorter-name }
 # Sidebar heading for connecting to some remote source
 about-debugging-sidebar-setup =
     .name = ਸੈਟਅੱਪ
