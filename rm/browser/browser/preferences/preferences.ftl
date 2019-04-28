@@ -660,6 +660,7 @@ addressbar-suggestions-settings = Midar las preferenzas per propostas da maschin
 
 content-blocking-header = Bloccada da cuntegn
 content-blocking-description = Blochescha cuntegn da terzas partidas che ta fastizescha en il web. Controllescha quant da tia activitad online che vegn memorisada e cundividida tranter websites.
+content-blocking-section-description = Protegia tia sfera privata durant la navigaziun. Blochescha cuntegn invisibel che po fastizar las websites che ti visitas e skizzar tes profil. Cun bloccar ina part da quest cuntegn chargian las paginas eventualmain pli svelt.
 content-blocking-learn-more = Ulteriuras infurmaziuns
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
