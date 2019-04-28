@@ -10,6 +10,7 @@ safeb-blocked-malware-page-short-desc = { -brand-short-name } ਇਸ ਸਫ਼�
 safeb-palm-advisory-desc = <a data-l10n-name='advisory_provider'>{ $advisoryname }</a> ਵਲੋਂ ਦਿੱਤੀ ਗਈ ਸਲਾਹ।
 safeb-palm-accept-label = ਵਾਪਸ ਜਾਓ
 safeb-palm-see-details-label = ਵੇਰਵੇ ਵੇਖੋ
+safeb-blocked-unwanted-page-error-desc-no-override = <a data-l10n-name='error_desc_link'>{ $sitename }</span> ਨੂੰ<a data-l10n-name='error_desc_link'>ਨੁਕਸਾਨਦੇਹ ਸਾਫਟਵੇਅਰ ਰੱਖਣ ਵਾਲੀ ਵਜੋਂ ਰਿਪੋਰਟ</a> ਕੀਤਾ ਗਿਆ ਹੈ।
 safeb-blocked-harmful-page-learn-more = { -brand-short-name } ਦੀ ਫ਼ਿੰਸ਼ਿੰਗ ਅਤੇ ਮਾਲਵੇਅਰ ਸੁਰ਼ਖਿਆ ਦੇ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਲੈਣ ਲਈ <a data-l10n-name='firefox_support'>support.mozilla.org</a> ਵੇਖੋ।
 safeb-palm-notdeceptive =
     .label = ਇਹ ਭਰਮਪੂਰਨ ਸਾਈਟ ਨਹੀਂ ਹੈ…
