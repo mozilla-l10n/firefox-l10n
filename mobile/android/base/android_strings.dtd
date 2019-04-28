@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "ਜੀ ਆਇਆਂ ਨੂੰ">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; ਚੁਣਨ ਵਾਸਤੇ ਧੰਨਵਾਦ">
+<!ENTITY newfirstrun_urlbar_message "&brandShortName; ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ">
 <!ENTITY firstrun_urlbar_subtext2 "ਮੋਜ਼ੀਲਾ, ਮੁਫ਼ਤ ਅਤੇ ਆਜ਼ਾਦ ਵੈੱਬ ਲਈ ਗ਼ੇੈਰ-ਫਾਇਦੇ ਨਾਲ ਵਚਨਬੱਧ, ਵਲੋਂ ਨਵਾਂ ਨਕੋਰ ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ।">
+<!ENTITY newfirstrun_urlbar_subtext "ਤੇਜ਼, ਨਿੱਜੀ ਅਤੇ ਤੁਹਾਡੇ ਵੱਲ।">
 <!ENTITY firstrun_panel_title_privacy "ਪਰਦੇਦਾਰੀ">
 <!ENTITY firstrun_privacy_message "ਬਰਾਊਜ਼ ਇੰਝ ਕਰੋ ਕਿ ਕੋਈ ਨਾ ਵੇਖੇ">
 <!ENTITY firstrun_privacy_subtext "ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਨਾਲ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਤੁਹਾਡੇ ਵਲੋਂ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਦੌਰਾਨ ਟਰੈਕਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਂਦੀ ਹੈ ਅਤੇ ਤੁਹਾਡੇ ਵਲੋਂ ਬਰਾਊਜ਼ ਕਰਨਾ ਪੂਰਾ ਕਰਨ \&apos;ਤੇ ਤੁਹਾਡੇ ਅਤੀਤ ਨੂੰ ਯਾਦ ਨਹੀਂ ਰੱਖੇਗਾ।">
+<!ENTITY newfirstrun_privacy_subtext "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਤੁਹਾਡਾ ਆਨਾਲਾਈਨ ਪਿੱਛਾ ਕਰਨ ਵਾਲੇ ਇਸ਼ਤਿਹਾਰ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਂਦੀ ਹੈ।">
 <!ENTITY firstrun_panel_title_customize "ਕਸਟਮਾਈਜ਼">
 <!ENTITY firstrun_customize_message "&brandShortName; ਨੂੰ ਆਪਣਾ ਬਣਾਓ।">
 <!ENTITY firstrun_customize_subtext "ਐਡ-ਆਨ ਰਾਹੀਂ &brandShortName; ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ। ਇਸ਼ਤਿਹਾਰਾਂ \&apos;ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ, ਫੀਚਰ ਜੋੜੋ ਜਾਂ ਨਵਾਂ ਥੀਮ ਚੁਣੋ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਸੁਭਾਅ ਦੇ ਮੁਤਾਬਕ ਹੋਵੇ।">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "ਸਿੰਕ ਕਰੋ">
 <!ENTITY firstrun_sync_message2 "ਜਿੱਥੇ ਛੱਡਿਆ ਸੀ, ਉੱਥੋਂ ਸ਼ੁਰੂ ਕਰੋ।">
 <!ENTITY firstrun_sync_subtext2 "ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ, ਜੋ ਕਿ ਤੁਸੀਂ ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ &brandShortName; \&apos;ਤੇ ਸੰਭਾਲਿਆ ਹੈ, ਨੂੰ ਲੱਭਣ ਲਈ ਸਿੰਕ ਨੂੰ ਵਰਤੋਂ।">
+<!ENTITY newfirstrun_sync_subtext "ਤੁਹਾਡੇ ਵਲੋਂ ਮੋਬਾਈਲ ਉੱਤੇ ਸੰਭਾਲੀਆਂ ਚੀਜ਼ਾਂ ਨੂੰ ਡੈਸਕਟਾਪ ਵਿਚਲੇ ਫਾਇਰਪਾਕਸ ਨਾਲ ਗੁਪਤ ਤੌਰ ਉੱਤੇ ਅਤੇ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸਿੰਕ ਕਰੋ।">
 <!ENTITY firstrun_signin_message "ਕਨੈਕਟ ਹੋਵੋ, ਸ਼ੁਰੂ ਕਰੋ">
 <!ENTITY firstrun_signin_button "ਸਿੰਕ ਕਰਨ ਲਈ ਸਾਇਨ ਇਨ ਕਰੋ">
+<!ENTITY newfirstrun_signin_button "ਸਿੰਕ ਚਾਲੂ ਕਰੋ">
 <!ENTITY  onboard_start_button_browser "ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ">
 <!ENTITY firstrun_button_notnow "ਹੁਣ ਨਹੀਂ">
 <!ENTITY firstrun_button_next "ਅੱਗੇ">
@@ -409,6 +414,12 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ">
 
 <!ENTITY pref_default_browser "ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ">
+
+<!ENTITY pref_default_browser2 "&brandShortName; ਨੂੰ ਆਪਣਾ ਮੁੱਖ ਬਰਾਊਜ਼ਰ ਬਣਾਓ">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "ਬਰਾਊਜ਼ਰ ਐਪ ਨੂੰ ਛੂਹੋ ਅਤੇ &brandShortName; ਚੁਣੋ">
 <!ENTITY pref_default_browser_mozilla_support_tablet "ਮੋਜ਼ੀਲਾ ਸਹਿਯੋਗ ਨੂੰ ਖੋਲ੍ਹੋ">
 <!ENTITY pref_about_firefox "&brandShortName; ਬਾਰੇ">
 <!ENTITY pref_vendor_faqs "ਸਵਾਲ-ਜਵਾਬ">
@@ -503,6 +514,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "ਪਿੱਛੇ">
 <!ENTITY find_next "ਅੱਗੇ">
 <!ENTITY find_close "ਬੰਦ ਕਰੋ">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "ਕਥਨ ਨਹੀਂ ਲੱਭਿਆ">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
