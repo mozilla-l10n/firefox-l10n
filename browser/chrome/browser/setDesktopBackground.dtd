@@ -8,7 +8,12 @@
 <!ENTITY stretch.label              "Zabaldu">
 <!ENTITY fill.label                 "Bete">
 <!ENTITY fit.label                  "Doitu">
-<!ENTITY preview.label              "Aurrebista">
+<!-- LOCALIZATION NOTE (span.label): This refers to the wallpaper "spanning"
+                       multiple monitors when the user has more than one. Only
+                       some of the entire image will be on each monitor.
+                       This should ideally match the wording in Windows' own
+                       Desktop Background settings page. -->
+<!ENTITY span.label                 "Hedadura">
 <!ENTITY color.label                "Kolorea:">
 <!ENTITY setDesktopBackground.title "Ezarri mahaigaineko atzeko planoa">
 <!ENTITY openDesktopPrefs.label     "Ireki mahaigaineko hobespenak">

@@ -660,6 +660,7 @@ addressbar-suggestions-settings = Aldatu bilaketa-motorren iradokizunetarako hob
 
 content-blocking-header = Edukia blokeatzea
 content-blocking-description = Blokeatu webean zure jarraipena egiten duen hirugarrenen edukia. Kontrolatu zure lineako jarduera zenbateraino gordetzen eta partekatzen den webguneen artean.
+content-blocking-section-description = Nabigatzean, babestu zure pribatutasuna. Blokeatu bisitatutako guneen jarraipena egin eta zure profila sortzeko erabiltzen den eduki ikusgaitza. Eduki hauetako batzuk blokeatzean orriak azkarrago karga litezke.
 content-blocking-learn-more = Argibide gehiago
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -675,6 +676,7 @@ content-blocking-setting-custom =
 content-blocking-standard-description = Jarraipen-elementu ezagunak leiho pribatuetan blokeatzen ditu soilik.
 content-blocking-standard-desc = Orekatua babeserako eta errendimendurako. Zenbait jarraipen-elementu onartzen ditu, beraz webguneak ondo ibiliko dira.
 content-blocking-strict-desc = { -brand-short-name }(e)k antzemandako jarraipen-elementu guztiak blokeatzen ditu. Zenbait webgune haustea eragin lezake.
+content-blocking-strict-description = Babes sendoagoa, hainbat gune haustea eragin lezake.
 content-blocking-custom-desc = Aukeratu zer blokeatu.
 content-blocking-private-trackers = Jarraipen-elementu ezagunak soilik leiho pribatuetan
 content-blocking-third-party-cookies = Hirugarrenen jarraipen-cookieak
