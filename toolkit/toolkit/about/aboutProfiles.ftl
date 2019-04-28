@@ -8,6 +8,11 @@ profiles-create = Crear in nov profil
 profiles-restart-title = Reaviar
 profiles-restart-in-safe-mode = Reaviar e deactivar ils supplements…
 profiles-restart-normal = Reaviar a moda normala…
+profiles-conflict = In'autra copia da { -brand-product-name } ha modifitgà profils. Ti stos reaviar { -brand-short-name } avant che far ulteriuras midadas.
+profiles-flush-fail-title = Betg memorisà las midadas
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = I n'è betg reussì da memorisar tias midadas pervia dad ina errur nunspetgada.
+profiles-flush-restart-button = Reaviar { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profil: { $name }
