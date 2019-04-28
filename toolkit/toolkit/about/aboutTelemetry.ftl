@@ -56,6 +56,17 @@ about-telemetry-upload-type =
         [enabled] уключана
        *[disabled] адключана
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } замер, сярэдняе = { $prettyAverage }, сума = { $sum }
+        [few] { $sampleCount } замеры, сярэдняе = { $prettyAverage }, сума = { $sum }
+       *[many] { $sampleCount } замераў, сярэдняе = { $prettyAverage }, сума = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Гэтая старонка паказвае звесткі пра працавыніковасць, начынне, выкарыстанне і ўладкаванні, назбіраныя тэлеметрыяй. Гэтыя звесткі дасылаюцца { $telemetryServerOwner } дзеля ўдасканалення { -brand-full-name }.
@@ -125,3 +136,9 @@ about-telemetry-category-header = катэгорыя
 about-telemetry-method-header = метад
 about-telemetry-object-header = аб'ект
 about-telemetry-extra-header = дадаткова
+about-telemetry-origin-section = Тэлеметрыя крыніц
+about-telemetry-origin-origin = крыніца
+about-telemetry-origin-count = колькасць
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Тэлеметрыя крыніц Firefox</a> кадуе звесткі перад перадачай, таму { $telemetryServerOwner } можа палічыць рэчы, не ведаючы, ці зрабіў пэўны { -brand-product-name } унёсак у гэту лічбу. (<a data-l10n-name="prio-blog-link">даведацца больш</a>)
