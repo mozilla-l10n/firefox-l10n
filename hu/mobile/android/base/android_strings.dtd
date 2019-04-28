@@ -6,6 +6,7 @@
 <!ENTITY firstrun_urlbar_message2 "Köszönjük hogy a &brandShortName; böngészőt választotta">
 <!ENTITY newfirstrun_urlbar_message "Üdvözli a &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Egy modern mobil böngésző a Mozillától, a nonprofit szervezettől, amely elkötelezett a szabad és nyílt web mellett.">
+<!ENTITY newfirstrun_urlbar_subtext "Gyors, privát és az Ön oldalán áll.">
 <!ENTITY firstrun_panel_title_privacy "Adatvédelem">
 <!ENTITY firstrun_privacy_message "Böngésszen úgy, mintha senki sem figyelné">
 <!ENTITY firstrun_privacy_subtext "A követésvédelemmel ellátott privát böngészés blokkolja a követőket miközben böngészik, és azután sem jegyzi meg az előzményeket, ha befejezi a böngészést.">
@@ -22,6 +23,7 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Folytassa ott, ahol abbahagyta.">
 <!ENTITY firstrun_sync_subtext2 "Használja a Syncet a könyjzők, jelszavak, és más dolgok megtalálására, amelyeket a &brandShortName; böngészőbe ment az összes eszközén.">
+<!ENTITY newfirstrun_sync_subtext "Szinkronizálja a mobilra mentett dolgokat az asztali Firefoxszal, bizalmasan és biztonságosan.">
 <!ENTITY firstrun_signin_message "Kapcsolódjon, vágjon bele">
 <!ENTITY firstrun_signin_button "Jelentkezzen be a Syncbe">
 <!ENTITY newfirstrun_signin_button "Sync bekapcsolása">
