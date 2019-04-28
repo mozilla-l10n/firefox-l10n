@@ -57,6 +57,7 @@ policy-HardwareAcceleration = Jei „false“, išjungti aparatinį spartinimą.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Nustatyti ir papildomai užrakinti pradžios tinklalapį.
 policy-InstallAddonsPermission = Leisti kai kurioms svetainėms diegti priedus.
+policy-LocalFileLinks = Leisti konkrečioms svetainėms susieti vietinius failus.
 policy-NetworkPrediction = Įjungti arba išjungti tinklo nuspėjimą (parengtinis DNS įkėlimas).
 policy-NewTabPage = Įjungti arba išjungti naujos kortelės puslapį.
 policy-NoDefaultBookmarks = Išjungti numatytųjų adresyno įrašų, kurie ateina su „{ -brand-short-name }“, kūrimą, bei išmanųjį adresyną („Lankomiausi“, „Paskiausiai naudotos gairės“). Pastaba: šis nuostatas veikia tik jeigu yra panaudojamas prieš pirmąjį profilio paleidimą.
@@ -69,6 +70,7 @@ policy-Preferences = Nustatykite ir užfiksuokite nuostatų rinkinio reikšmę.
 policy-Proxy = Konfigūruoti įgaliotųjų serverių nuostatas.
 policy-RequestedLocales = Nustatyti programos prašomų kalbų sąrašo pageidavimo tvarką.
 policy-SanitizeOnShutdown = Išvalyti visus naršymo duomenis išjungiant.
+policy-SanitizeOnShutdown2 = Išvalyti navigacijos duomenis išjungimo metu.
 policy-SearchBar = Parinkti numatytąją paieškos lauko vietą. Naudotojui vis tiek leidžiama ją keisti.
 policy-SearchEngines = Konfigūruoti ieškyklių nuostatas. Ši strategija galima tik prailginto palaikymo laidos (ESR) versijoje.
 policy-SearchSuggestEnabled = Įjungti arba išjungti paieškos žodžių siūlymus.
