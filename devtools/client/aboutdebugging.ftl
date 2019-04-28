@@ -169,6 +169,25 @@ about-debugging-runtime-profile-button = Прафіляваць асяроддз
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = Канфігурацыя вашага браўзера несумяшчальная з Service Workers. <a>Даведацца больш</a>
+# This string is displayed in the runtime page if the remote browser version is too old.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-browser-version-too-old = Падключаны браўзер мае старую версію ({ $runtimeVersion }). Мінімальная падтрыманая версія ({ $minVersion }). Гэта канфігурацыя не падтрымліваецца і можа прывесці да збою інструментаў распрацоўшчыка. Калі ласка, абнавіце падключаны браўзер. <a>Вырашэнне праблем</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# - from Fx 67 to 66 or to 65
+# - from Fx 68 to 66
+# Those are normally in range for DevTools compatibility policy, but specific non
+# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+about-debugging-browser-version-too-old-67-debugger = Панэль адладчыка не можа працаваць з падлучаным браўзерам. Калі ласка, выкарыстоўвайце Firefox { $runtimeVersion }, калі вам трэба выкарыстоўваць адладчык з гэтым браўзерам.
+# This string is displayed in the runtime page if the remote browser version is too recent.
+# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = Падлучаны браўзер больш новы ({ $runtimeVersion }, buildID { $runtimeID }), чымся ваш { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Такая канфігурацыя не падтрымліваецца і можа прывесці да збою інструментаў распрацоўшчыка. Калі ласка, абнавіце Firefox. <a>Вырашэнне праблем</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
