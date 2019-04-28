@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Welkom">
 <!ENTITY firstrun_urlbar_message2 "Bedankt voor het kiezen van &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Welkom bij &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Een moderne mobiele browser van Mozilla, de non-profitorganisatie met toewijding aan een vrij en open web.">
+<!ENTITY newfirstrun_urlbar_subtext "Snel, privé en aan uw zijde.">
 <!ENTITY firstrun_panel_title_privacy "Privacy">
 <!ENTITY firstrun_privacy_message "Surf alsof niemand meekijkt">
 <!ENTITY firstrun_privacy_subtext "Privénavigatie met Bescherming tegen volgen blokkeert trackers terwijl u surft en onthoudt geen geschiedenis zodra u hiermee stopt.">
+<!ENTITY newfirstrun_privacy_subtext "Privénavigatie blokkeert advertentietrackers die u online volgen.">
 <!ENTITY firstrun_panel_title_customize "Aanpassen">
 <!ENTITY firstrun_customize_message "Maak &brandShortName; van uzelf.">
 <!ENTITY firstrun_customize_subtext "Pas &brandShortName; aan met add-ons. Blokkeer advertenties, voeg functies toe, of kies een nieuw thema om uw persoonlijkheid te weerspiegelen.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Ga verder waar u was gebleven.">
 <!ENTITY firstrun_sync_subtext2 "Gebruik Sync om de bladwijzers, wachtwoorden en andere dingen die u in &brandShortName; op al uw apparaten opslaat te vinden.">
+<!ENTITY newfirstrun_sync_subtext "Synchroniseer de dingen die u op mobiel opslaat naar Firefox voor desktop, privé en veilig.">
 <!ENTITY firstrun_signin_message "Maak verbinding en begin">
 <!ENTITY firstrun_signin_button "Aanmelden bij Sync">
+<!ENTITY newfirstrun_signin_button "Sync inschakelen">
 <!ENTITY  onboard_start_button_browser "Beginnen met browsen">
 <!ENTITY firstrun_button_notnow "Niet nu">
 <!ENTITY firstrun_button_next "Volgende">
@@ -413,7 +418,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_default_browser2 "&brandShortName; uw standaardbrowser maken">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
-    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Tik op de Browser-app &amp; selecteer &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla Support bezoeken">
 <!ENTITY pref_about_firefox "Over &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ’s">
@@ -511,6 +517,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Localization note (find_error) : Error message shown when there is no result for the
      searched for text in this webpage -->
+<!ENTITY find_error "Tekst niet gevonden">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
