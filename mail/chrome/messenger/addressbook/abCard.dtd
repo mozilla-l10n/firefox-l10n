@@ -24,9 +24,9 @@
 <!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 <!ENTITY NameField1.label               "Persona nomo:">
-<!ENTITY NameField1.accesskey           "P">
+<!ENTITY NameField1.accesskey           "r">
 <!ENTITY NameField2.label               "Familia nomo:">
-<!ENTITY NameField2.accesskey           "F">
+<!ENTITY NameField2.accesskey           "a">
 <!ENTITY PhoneticField1.label           "Elparolo:">
 <!ENTITY PhoneticField2.label           "Elparolo:">
 <!ENTITY DisplayName.label              "Vidigi kiel:">
@@ -34,15 +34,53 @@
 <!ENTITY preferDisplayName.label        "Uzi nomon de kontakto el la adresaro anstataŭ nomon el mesaĝa kapo">
 <!ENTITY preferDisplayName.accesskey    "a">
 <!ENTITY NickName.label                 "Kaŝnomo:">
-<!ENTITY NickName.accesskey             "K">
+<!ENTITY NickName.accesskey             "n">
 
 <!ENTITY PrimaryEmail.label             "Retpoŝta adreso:">
 <!ENTITY PrimaryEmail.accesskey         "R">
 <!ENTITY SecondEmail.label              "Plia retpoŝta adreso:">
-<!ENTITY SecondEmail.accesskey          "l">
+<!ENTITY SecondEmail.accesskey          "i">
 <!ENTITY PreferMailFormat.label         "Preferas ricevi mesaĝojn kiel:">
+<!ENTITY PreferMailFormat.accesskey     "e">
+<!ENTITY PlainText.label                "platteksto">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "nedifinita">
+<!ENTITY chatName.label                 "Tujmesaĝila nomo:">
 
+<!ENTITY WorkPhone.label                "Laborejo:">
+<!ENTITY WorkPhone.accesskey            "b">
+<!ENTITY HomePhone.label                "Hejmo:">
+<!ENTITY HomePhone.accesskey            "H">
+<!ENTITY FaxNumber.label                "Telekopiilo:">
+<!ENTITY FaxNumber.accesskey            "e">
+<!ENTITY PagerNumber.label              "Televokilo:">
+<!ENTITY PagerNumber.accesskey          "v">
+<!ENTITY CellularNumber.label           "Poŝtelefono:">
+<!ENTITY CellularNumber.accesskey       "t">
 
+<!ENTITY Home.tab                       "Privata">
+<!ENTITY Home.accesskey                 "P">
+<!ENTITY HomeAddress.label              "Adreso:">
+<!ENTITY HomeAddress.accesskey          "d">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.label                 "Urbo:">
+<!ENTITY HomeCity.accesskey             "U">
+<!ENTITY HomeState.label                "Provinco:">
+<!ENTITY HomeState.accesskey            "r">
+<!ENTITY HomeZipCode.label              "Poŝtkodo:">
+<!ENTITY HomeZipCode.accesskey          "o">
+<!ENTITY HomeCountry.label              "Lando:">
+<!ENTITY HomeCountry.accesskey          "n">
+<!ENTITY HomeWebPage.label              "Retpaĝo:">
+<!ENTITY HomeWebPage.accesskey          "e">
+<!ENTITY Birthday.label                 "Naskiĝtago:">
+<!ENTITY Birthday.accesskey             "N">
+<!ENTITY In.label                       "">
+<!ENTITY Month.placeholder              "monato">
+<!ENTITY Day.placeholder                "tago">
+<!ENTITY Year.placeholder               "jaro">
+<!ENTITY Or.value                       "aŭ">
 
 
 
