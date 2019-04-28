@@ -57,6 +57,7 @@ policy-HardwareAcceleration = Om inaktiv, slå av maskinvareakselerasjon.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Still inn og eventuelt lås startsida.
 policy-InstallAddonsPermission = Tillat visse nettsider å installere tillegg.
+policy-LocalFileLinks = Tillat at bestemte nettstadar koplar til lokale filer.
 policy-NetworkPrediction = Aktiver eller deaktiver nettverkspredikering (DNS-prefetch).
 policy-NewTabPage = Slå på eller av sida Ny fane
 policy-NoDefaultBookmarks = Deaktiver oppretting av standardbokmerke, som følgjer med { -brand-short-name }, samt dei smarte bokmerka (Mest besøkte, Siste brukte etikettar). NB: Denne policyen fungerer berre om han er aktivert før profilen vert brukt for første gong.
@@ -69,6 +70,7 @@ policy-Preferences = Still inn og lås verdien for ei delmengde av innstillingar
 policy-Proxy = Konfigurer proxy-innstillingar.
 policy-RequestedLocales = Vel rekkjefølgja av språk, som skal brukeast i programmet.
 policy-SanitizeOnShutdown = Fjern alle nettlesingsdata ved avslutting.
+policy-SanitizeOnShutdown2 = Fjern nettlesingsdata ved avslutting.
 policy-SearchBar = Spesifiser standardplassering for søkjefeltet. Brukaren kan framleis tilpassse feltet.
 policy-SearchEngines = Konfigurer søkjemotorinnstillingar. Denne policyen er kun tilgjengeleg for Extended Support Release (ESR).
 policy-SearchSuggestEnabled = Slå på eller av søkjeforslag.
