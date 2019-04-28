@@ -64,6 +64,8 @@ but will never be visible at the same time. -->
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "s">
 
+<!-- Tab context menu -->
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -215,6 +217,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "Irten pantaila osoko ikuspegitik">
 <!ENTITY fullScreenExit.accesskey "p">
 
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Eraman Firefox aldean">
+<!ENTITY fxa.signin.description.label "Izan laster-markak, historia, pasahitzak eta beste ezarpenak eskura zure gailu guztietan.">
+<!ENTITY fxa.signin.button.label "Gaitu &syncBrand.shortName.label;…">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "Egiaztatu zure posta elektronikoa">
+<!ENTITY fxa.unverified.description.label "Sinkronizatu aurretik zure kontua egiaztatu behar duzu.">
+<!ENTITY fxa.unverified.button.label "Ireki &syncBrand.shortName.label; ezarpenak…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Saioa hasita:">
+<!ENTITY fxa.menu.manageAccount.label "Kudeatu kontua…">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; ezarpenak…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Konektatu beste gailu bat…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -231,6 +255,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Irten pantaila osotik (esk)">
 <!ENTITY leaveDOMFullScreen.label "Irten pantaila osotik">
 <!ENTITY leaveDOMFullScreen.accesskey "s">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
+     these two strings are used when right-clicking on a video in the
+     content area when the Picture-in-Picture feature is enabled. -->
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -409,6 +437,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "A">
 <!ENTITY preferencesCmdUnix.label       "Hobespenak">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
+
 
 <!ENTITY clearRecentHistory.label               "Garbitu azken historia…">
 
@@ -1074,6 +1103,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "Une honetan ez">
 <!ENTITY updateAvailable.cancelButton.accesskey "e">
+
 <!ENTITY updateAvailable.panelUI.label "Deskargatu &brandShorterName; eguneraketa">
 
 <!ENTITY updateManual.message "Deskargatu &brandShorterName; nabigatzailearen kopia berri bat eta instalatzen lagunduko dizugu.">
@@ -1134,8 +1164,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Kudeatu zure gehigarriak <image class='addon-toolbar-icon'/> menuko <image class='addon-addon-icon'/> ikonoan klik eginez.">
-<!ENTITY addonPostInstall.incognito.label "Baimendu hedapen hau leiho pribatuetan exekutatzea.">
-<!ENTITY addonPostInstall.incognito.accesskey "B">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Aldatu leiho pribatuetako hedapenetara">
 <!ENTITY addonPrivateBrowsing.body2.label "Ezarpenetan baimendu ezean, &brandShorterName;(e)ra gehitutako hedapen berriak ez dira leiho pribatuetan ibiliko.">

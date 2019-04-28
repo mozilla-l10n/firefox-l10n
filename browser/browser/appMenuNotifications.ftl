@@ -29,6 +29,9 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Ados, ulertuta
     .buttonaccesskey = u
 appmenu-addon-post-install-message = Kudeatu zure gehigarriak <image data-l10n-name='addon-menu-icon'></image> menuko <image data-l10n-name='addon-install-icon'></image> ikonoan klik eginez.
+appmenu-addon-post-install-incognito-checkbox =
+    .label = Baimendu hedapen honi leiho pribatuetan exekutatzea
+    .accesskey = B
 appmenu-addon-private-browsing =
     .label = Aldatu leiho pribatuetako hedapenetara
     .buttonlabel = Kudeatu hedapenak
