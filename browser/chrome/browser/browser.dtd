@@ -64,6 +64,8 @@ but will never be visible at the same time. -->
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "k">
 
+<!-- Tab context menu -->
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -469,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Előzmények törlése…">
 <!ENTITY appMenuHistory.restoreSession.label "Előző munkamenet helyreállítása">
 <!ENTITY appMenuHistory.viewSidebar.label "Előzmények oldalsáv megjelenítése">
+<!ENTITY appMenuHistory.hideSidebar.label "Előzmények oldalsáv elrejtése">
 <!ENTITY appMenuHistory.recentHistory.label "Közelmúltbeli előzmények">
 <!ENTITY appMenuHelp.label "Súgó">
 
@@ -497,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Bejelentkezés a Syncbe">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Eszközök kezelése…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Szinkronizált lapok oldalsáv">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Szinkronizált lapok oldalsáv elrejtése">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Másik eszköz csatlakoztatása">
 
 <!ENTITY appMenuRecentHighlights.label "Friss kiemelések">
@@ -1105,6 +1109,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "l">
 <!ENTITY updateAvailable.cancelButton.label "Most nem">
 <!ENTITY updateAvailable.cancelButton.accesskey "n">
+
 <!ENTITY updateAvailable.panelUI.label "&brandShorterName; frissítés letöltése">
 
 <!ENTITY updateManual.message "Töltse le a &brandShorterName; legfrissebb változatát; és segítünk feltelepíteni.">
