@@ -259,6 +259,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.label "Bideoa beste bideo batean">
+<!ENTITY pictureInPicture.accesskey "b">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -438,6 +440,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Hobespenak">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
+<!ENTITY logins.label                           "Saio-hasierak eta pasahitzak">
 
 <!ENTITY clearRecentHistory.label               "Garbitu azken historia…">
 
@@ -468,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Garbitu azken historia…">
 <!ENTITY appMenuHistory.restoreSession.label "Berreskuratu aurreko saioa">
 <!ENTITY appMenuHistory.viewSidebar.label "Ikusi historiaren alboko barra">
+<!ENTITY appMenuHistory.hideSidebar.label "Ezkutatu historiaren alboko barra">
 <!ENTITY appMenuHistory.recentHistory.label "Azken historia">
 <!ENTITY appMenuHelp.label "Laguntza">
 
@@ -496,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Hasi saioa Sync-en">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Kudeatu gailuak…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ikusi sinkronizatutako fitxen alboko barra">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Ezkutatu sinkronizatutako fitxen alboko barra">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Konektatu beste gailu bat">
 
 <!ENTITY appMenuRecentHighlights.label "Nabarmendutako azkenak">
@@ -961,6 +966,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Hasi saioa &syncBrand.shortName.label;(e)n…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Sinkronizatu orain">
+<!ENTITY syncSyncNowItemSyncing.label "Sinkronizatzen…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Birkonektatu &syncBrand.shortName.label;(e)ra">
 <!ENTITY syncReAuthItem.accesskey     "r">
@@ -1164,6 +1170,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Kudeatu zure gehigarriak <image class='addon-toolbar-icon'/> menuko <image class='addon-addon-icon'/> ikonoan klik eginez.">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Baimendu hedapen honi leiho pribatuetan exekutatzea">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "B">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Aldatu leiho pribatuetako hedapenetara">
 <!ENTITY addonPrivateBrowsing.body2.label "Ezarpenetan baimendu ezean, &brandShorterName;(e)ra gehitutako hedapen berriak ez dira leiho pribatuetan ibiliko.">
