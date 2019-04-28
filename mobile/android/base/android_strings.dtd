@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Velkomen">
 <!ENTITY firstrun_urlbar_message2 "Takk for at du vel &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Velkomen til &amp;brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Ein moderne nettlesar frå Mozilla, ein ideell organisasjon engasjert i eit fritt og ope nett.">
+<!ENTITY newfirstrun_urlbar_subtext "Rask, privat og på di side.">
 <!ENTITY firstrun_panel_title_privacy "Personvern">
 <!ENTITY firstrun_privacy_message "Surf utan å kjenna deg overvaka">
 <!ENTITY firstrun_privacy_subtext "Privat nettlesing med sporingsvern som blokkerer sporfølgjarar medan du surfar og slettar all historikk når du er ferdig med å surfe.">
+<!ENTITY newfirstrun_privacy_subtext "Privat surfning blokkerer sporfølgjarar som følgjer etter deg på nettet.">
 <!ENTITY firstrun_panel_title_customize "Tilpass">
 <!ENTITY firstrun_customize_message "Gjer &brandShortName; til din eigen.">
 <!ENTITY firstrun_customize_subtext "Tilpass &brandShortName; med tillegg. Blokkér annonsar, legg til funksjonar eller vel eit nytt tema som reflekterer personlegdommen din.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Fortset der du slutta.">
 <!ENTITY firstrun_sync_subtext2 "Bruk Sync for å finna bokmerke, passord og andre ting som du lagrar i &brandShortName; på alle einingane dine.">
+<!ENTITY newfirstrun_sync_subtext "Synkroniser det du lagrar på mobilen til Firefox for datamaskiner, privat og sikkert.">
 <!ENTITY firstrun_signin_message "Kopla til og kom i gang">
 <!ENTITY firstrun_signin_button "Logg inn for å synkronisere">
+<!ENTITY newfirstrun_signin_button "Aktiver Sync">
 <!ENTITY  onboard_start_button_browser "Start nettlesing">
 <!ENTITY firstrun_button_notnow "Ikkje akkurat no">
 <!ENTITY firstrun_button_next "Neste">
@@ -409,6 +414,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "Synkroniserte faner">
 
 <!ENTITY pref_default_browser "Vel som standard nettlesar">
+
+<!ENTITY pref_default_browser2 "Gjer &amp;brandShortName; til din standardnettlesar">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY pref_default_browser_mozilla_support_tablet "Besøk Mozilla Support">
 <!ENTITY pref_about_firefox "Om &brandShortName;">
 <!ENTITY pref_vendor_faqs "Vanlege spørsmål (FAQ)">
@@ -503,6 +513,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "Førre">
 <!ENTITY find_next "Neste">
 <!ENTITY find_close "Lat att">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "Fann ikkje frasen">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
