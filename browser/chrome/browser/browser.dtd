@@ -471,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Ачысціць нядаўнюю гісторыю…">
 <!ENTITY appMenuHistory.restoreSession.label "Аднавіць папярэдні сеанс">
 <!ENTITY appMenuHistory.viewSidebar.label "Паказаць панэль гісторыі">
+<!ENTITY appMenuHistory.hideSidebar.label "Схаваць панэль гісторыі">
 <!ENTITY appMenuHistory.recentHistory.label "Нядаўняя гісторыя">
 <!ENTITY appMenuHelp.label "Даведка">
 
@@ -499,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Увайсці ў Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Кіраваць прыладамі...">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Паказаць бакавую панэль сінхранізаваных картак">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Схаваць бакавую панэль сінхранізаваных картак">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Злучыць іншую прыладу">
 
 <!ENTITY appMenuRecentHighlights.label "Апошнія падсвятленні">
