@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Sveiki">
 <!ENTITY firstrun_urlbar_message2 "Ačiū, kad pasirinkote „&brandShortName;“">
+<!ENTITY newfirstrun_urlbar_message "Sveiki, čia „&brandShortName;“">
 <!ENTITY firstrun_urlbar_subtext2 "Tai moderni mobilioji naršyklė iš „Mozillos“, ne pelno siekiančios organizacijos, atsidavusios nemokamam ir laisvam internetui.">
+<!ENTITY newfirstrun_urlbar_subtext "Greita, privati, ir jūsų pusėje.">
 <!ENTITY firstrun_panel_title_privacy "Privatumas">
 <!ENTITY firstrun_privacy_message "Naršykite lyg niekas nestebėtų">
 <!ENTITY firstrun_privacy_subtext "Privatusis naršymas su apsauga nuo stebėjimo blokuoja stebėjimo elementus jums naršant bei neveda naršymo žurnalo.">
+<!ENTITY newfirstrun_privacy_subtext "Privatusis naršymas blokuoja reklaminius elementus, kurie seka jus naršant.">
 <!ENTITY firstrun_panel_title_customize "Tinkinimas">
 <!ENTITY firstrun_customize_message "Pritaikykite „&brandShortName;“ sau.">
 <!ENTITY firstrun_customize_subtext "Praplėskite „&brandShortName;“ su priedais. Blokuokite reklamas, pridėkite funkcionalumo, ar pasirinkite jūsų asmenybę atitinkantį grafinį apvalkalą.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Sinchronizavimas">
 <!ENTITY firstrun_sync_message2 "Tęskite nuo ten, kur baigėte.">
 <!ENTITY firstrun_sync_subtext2 "Naudokitės „Sync“ norėdami rasti adresyno įrašus, slaptažodžius bei kitus su „&brandShortName;“ išsaugotus dalykus, visuose savo įrenginiuose.">
+<!ENTITY newfirstrun_sync_subtext "Sinchronizuokite mobiliojoje „Firefox“ įrašytus dalykus su kompiuterine „Firefox“, privačiai ir saugiai.">
 <!ENTITY firstrun_signin_message "Prisijunkite ir pradėkite">
 <!ENTITY firstrun_signin_button "Prisijungti prie „Sync“">
+<!ENTITY newfirstrun_signin_button "Įjungti „Sync“">
 <!ENTITY  onboard_start_button_browser "Pradėti naršymą">
 <!ENTITY firstrun_button_notnow "Ne dabar">
 <!ENTITY firstrun_button_next "Toliau">
@@ -409,6 +414,12 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "Sinchronizuotos kortelės">
 
 <!ENTITY pref_default_browser "Paskirti numatytąja naršykle">
+
+<!ENTITY pref_default_browser2 "Skirti „&brandShortName;“ numatytąja naršykle">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Bakstelėkite „Browser app“ ir pasirinkite „&brandShortName;“">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Aplankyti „Mozillos“ žinyną">
 <!ENTITY pref_about_firefox "Apie „&brandShortName;“">
 <!ENTITY pref_vendor_faqs "Dažni klausimai">
@@ -503,6 +514,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "Ankstenis">
 <!ENTITY find_next "Toliau">
 <!ENTITY find_close "Užverti">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "Ieškoma frazė nerasta">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
