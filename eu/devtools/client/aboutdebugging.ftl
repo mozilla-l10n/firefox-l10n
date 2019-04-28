@@ -8,12 +8,109 @@
 
 # Page Title strings
 
+# Page title (ie tab title) for the Setup page
+about-debugging-page-title-setup-page = Arazketa - Konfigurazioa
+# Page title (ie tab title) for the Runtime page
+# { $selectedRuntimeId } is the id of the current runtime, such as "this-firefox", "localhost:6080", ...
+about-debugging-page-title-runtime-page = Arazketa - Exekuzio-ingurunea / { $selectedRuntimeId }
 
 # Sidebar strings
 
+# Display name of the runtime for the currently running instance of Firefox. Used in the
+# Sidebar and in the Setup page.
+about-debugging-this-firefox-runtime-name = { -brand-shorter-name } hau
+# Sidebar heading for selecting the currently running instance of Firefox
+about-debugging-sidebar-this-firefox =
+    .name = { about-debugging-this-firefox-runtime-name }
+# Sidebar heading for connecting to some remote source
+about-debugging-sidebar-setup =
+    .name = Konfigurazioa
+# Text displayed in the about:debugging sidebar when USB devices discovery is enabled.
+about-debugging-sidebar-usb-enabled = USB gaituta
+# Text displayed in the about:debugging sidebar when USB devices discovery is disabled
+# (for instance because the mandatory ADB extension is not installed).
+about-debugging-sidebar-usb-disabled = USB desgaituta
+# Connection status (connected) for runtime items in the sidebar
+aboutdebugging-sidebar-runtime-connection-status-connected = Konektatuta
+# Connection status (disconnected) for runtime items in the sidebar
+aboutdebugging-sidebar-runtime-connection-status-disconnected = Deskonektatuta
+# Text displayed in the about:debugging sidebar when no device was found.
+about-debugging-sidebar-no-devices = Ez da gailurik aurkitu
+# Text displayed in buttons found in sidebar items representing remote runtimes.
+# Clicking on the button will attempt to connect to the runtime.
+about-debugging-sidebar-item-connect-button = Konektatu
+# Text displayed in buttons found in sidebar items when the runtime is connecting.
+about-debugging-sidebar-item-connect-button-connecting = Konektatzen…
+# Text displayed in buttons found in sidebar items when the connection failed.
+about-debugging-sidebar-item-connect-button-connection-failed = Konexioak huts egin du
+# Text displayed in connection warning on sidebar item of the runtime when connecting to
+# the runtime is taking too much time.
+about-debugging-sidebar-item-connect-button-connection-not-responding = Konexioa oraindik zain, egiaztatu mezurik dagoen helburuko nabigatzailean
+# Text displayed as connection error in sidebar item when the connection has timed out.
+about-debugging-sidebar-item-connect-button-connection-timeout = Konexioa denboraz kanpo
+# Temporary text displayed in sidebar items representing remote runtimes after
+# successfully connecting to them. Temporary UI, do not localize.
+about-debugging-sidebar-item-connected-label = Konektatuta
+# Text displayed in sidebar items for remote devices where a compatible browser (eg
+# Firefox) has not been detected yet. Typically, Android phones connected via USB with
+# USB debugging enabled, but where Firefox is not started.
+about-debugging-sidebar-runtime-item-waiting-for-browser = Nabigatzailearen zain…
+# Text displayed in sidebar items for remote devices that have been disconnected from the
+# computer.
+about-debugging-sidebar-runtime-item-unplugged = Desentxufatuta
+# Title for runtime sidebar items that are related to a specific device (USB, WiFi).
+about-debugging-sidebar-runtime-item-name =
+    .title = { $displayName } ({ $deviceName })
+# Title for runtime sidebar items where we cannot get device information (network
+# locations).
+about-debugging-sidebar-runtime-item-name-no-device =
+    .title = { $displayName }
+# Text to show in the footer of the sidebar that links to a help page
+# (currently: https://developer.mozilla.org/docs/Tools/about:debugging)
+about-debugging-sidebar-support = Arazketarako laguntza
+# Text to show as the ALT attribute of a help icon that accompanies the help about
+# debugging link in the footer of the sidebar
+about-debugging-sidebar-support-icon =
+    .alt = Laguntzaren ikonoa
+# Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
+# will attempt to update the list of devices displayed in the sidebar.
+about-debugging-refresh-usb-devices-button = Berritu gailuak
 
 # Setup Page strings
 
+# Title of the Setup page.
+about-debugging-setup-title = Konfigurazioa
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = Konfiguratu zure gailua urrunetik arazteko nahi duzun konexio-metodoa.
+# Link displayed in the Setup page that leads to MDN page with list of supported devices.
+# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
+about-debugging-setup-link-android-devices = Ikusi onartzen diren Android gailuen zerrenda
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox = Erabili <a>{ about-debugging-this-firefox-runtime-name }</a> { -brand-shorter-name }(r)en bertsio honetan fitxak, hedapenak eta zerbitzu-langileak arazteko.
+# Title of the heading Connect section of the Setup page.
+about-debugging-setup-connect-heading = Konektatu gailua
+# USB section of the Setup page
+about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = Gaituz gero, Android USB arazketarako beharrezkoak diren osagaiak deskargatu eta gehituko dira { -brand-shorter-name }(r)en.
+# Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
+# Clicking on it will download components needed to debug USB Devices remotely.
+about-debugging-setup-usb-enable-button = Gaitu USB gailuak
+# Text of the button displayed in the USB section of the setup page when USB debugging is enabled.
+about-debugging-setup-usb-disable-button = Desgaitu USB gailuak
+# Text of the button displayed in the USB section of the setup page while USB debugging
+# components are downloaded and installed.
+about-debugging-setup-usb-updating-button = Eguneratzen…
+# USB section of the Setup page (USB status)
+about-debugging-setup-usb-status-enabled = Gaituta
+about-debugging-setup-usb-status-disabled = Desgaituta
+about-debugging-setup-usb-status-updating = Eguneratzen…
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu = Gaitu garatzailearen menua zure Android gailuan. <a>Ikasi nola</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug = Gaitu USB arazketa Android garatzailearen menuan. <a>Ikasi nola</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox = Gaitu USB arazketa Android gailuko Firefoxen. <a>Ikasi nola</a>
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Konektatu Android gailua zure ordenagailura.
 # Text of a button displayed after the network locations "Host" input.
@@ -60,9 +157,34 @@ about-debugging-runtime-other-workers =
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Prozesuak
+# Text of a button displayed in Runtime pages for remote runtimes.
+# Clicking on the button will close the connection to the runtime.
+about-debugging-runtime-disconnect-button = Deskonektatu
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = Gaitu konexioaren gonbita
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is true on the target runtime.
+about-debugging-connection-prompt-disable-button = Desgaitu konexioaren gonbita
+# Clicking on the header of a debug target category will expand or collapse the debug
+# target items in the category. This text is used as ’title’ attribute of the header,
+# to describe this feature.
+about-debugging-collapse-expand-debug-targets = Tolestu / zabaldu
 
 # Debug Targets strings
 
+# Displayed in the categories of "runtime" pages that don't have any debug target to
+# show. Debug targets depend on the category (extensions, tabs, workers...).
+about-debugging-debug-target-list-empty = Ezer ez oraindik.
+# Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
+# button will open a DevTools toolbox that will allow inspecting the target.
+# A target can be an addon, a tab, a worker...
+about-debugging-debug-target-inspect-button = Ikuskatu
+# Text of a button displayed in the "This Firefox" page, in the Temporary Extension
+# section. Clicking on the button will open a file picker to load a temporary extension
+about-debugging-tmp-extension-install-button = Kargatu behin-behineko gehigarria…
+# Text displayed when trying to install a temporary extension in the "This Firefox" page.
+about-debugging-tmp-extension-install-error = Errorea gertatu da behin-behineko gehigarria instalatzean.
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = Berritu
@@ -101,3 +223,34 @@ about-debugging-worker-action-push = Push
 about-debugging-worker-action-start = Hasi
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Utzi erregistratuta egoteari
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = Fetch
+    .value = 'fetch' gertaerak entzuten
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = Fetch
+    .value = 'fetch' gertaerak ez dira entzuten
+# Displayed for service workers in runtime pages that are currently running (service
+# worker instance is active).
+about-debugging-worker-status-running = Exekutatzen
+# Displayed for service workers in runtime pages that are registered but stopped.
+about-debugging-worker-status-stopped = Geldituta
+# Displayed for service workers in runtime pages that are registering.
+about-debugging-worker-status-registering = Erregistratzen
+# Displayed for service workers in runtime pages, to label the scope of a worker
+about-debugging-worker-scope =
+    .label = Esparrua
+# Displayed for service workers in runtime pages, to label the push service endpoint (url)
+# of a worker
+about-debugging-worker-push-service =
+    .label = Push zerbitzua
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-name = Prozesu nagusia
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description2 = Helburu-nabigatzailearen prozesu nagusia
+# Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon =
+    .alt = Itxi mezua

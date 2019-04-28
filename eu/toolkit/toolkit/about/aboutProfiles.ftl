@@ -8,6 +8,11 @@ profiles-create = Sortu profil berria
 profiles-restart-title = Berrabiarazi
 profiles-restart-in-safe-mode = Berrabiarazi gehigarriak desgaituta…
 profiles-restart-normal = Berrabiarazi normal…
+profiles-conflict = { -brand-product-name }(r)en beste kopia batek aldaketak egin ditu profiletan.{ -brand-short-name } berrabiarazi behar duzu aldaketa gehiago egin aurretik.
+profiles-flush-fail-title = Aldaketak ez dira gorde
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Espero gabeko errore batek zure aldaketak gordetzea eragotzi du.
+profiles-flush-restart-button = Berrabiarazi { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profila: { $name }

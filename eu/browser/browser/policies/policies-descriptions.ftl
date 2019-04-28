@@ -57,18 +57,23 @@ policy-HardwareAcceleration = Ez badago ezarrita, hardware-azelerazioa desgaituk
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Hasiera-orria ezarri eta ezarpen bidez aldatzea.
 policy-InstallAddonsPermission = Baimendu zenbait webgunek gehigarriak instalatzea.
+policy-LocalFileLinks = Baimendu gune zehatzei fitxategi lokalen loturak egitea.
 policy-NetworkPrediction = Gaitu edo desgaitu sarearen iragarpena (DNS aurre-eskuratzea).
+policy-NewTabPage = Gaitu edo desgaitu fitxa berriaren orria.
 policy-NoDefaultBookmarks = Desgaitu { -brand-short-name }(r)ekin datozen laster-marka lehenetsiak eta dinamikoak sortzea (gehien bisitatutakoak, azken etiketak). Oharra: profila lehenengo aldiz erabili aurretik ezartzen bada bakarrik du eragina politika honek.
 policy-OfferToSaveLogins = Behartu { -brand-short-name }(e)k gordetako saio-hasierak eta pasahitzak gogoratzea eskaintzeko ezarpena. Ezarrita eta ezarri gabeko balioak onartzen dira.
 policy-OverrideFirstRunPage = Gainidatzi lehen abioko orria. Utzi zurian politika hau lehen abioko orria desgaitu nahi baduzu.
 policy-OverridePostUpdatePage = Gainidatzi eguneraketen ondoko "Nobedadeak" orria. Utzi politika hau zurian eguneraketen ondoko orria desgaitu nahi baduzu.
 policy-Permissions = Konfiguratu baimenak kamera, mikrofono, kokapen eta jakinarazpenentzat.
 policy-PopupBlocking = Baimendu zenbait webguneri lehenespenez popup leihoak bistaratzea.
+policy-Preferences = Ezarri eta blokeatu hobespen-azpimultzo baten balioak.
 policy-Proxy = Konfiguratu proxy-ezarpenak.
 policy-RequestedLocales = Ezarri aplikazioari eskatuko zaizkion hizkuntza-kodeen zerrenda, hobetsitakoen arabera ordenatuta.
 policy-SanitizeOnShutdown = Garbitu nabigazio-datu guztiak nabigatzailea ixtean.
+policy-SanitizeOnShutdown2 = Ixtean, garbitu nabigazio-datuak.
 policy-SearchBar = Ezarri bilaketa-barraren kokaleku lehenetsia. Erabiltzaileek oraindik ere pertsonalizatu ahal izango dute.
 policy-SearchEngines = Konfiguratu bilaketa-motorren ezarpenak. Politika hau Extended Support Release (ESR) bertsiorako dago erabilgarri soilik.
+policy-SearchSuggestEnabled = Gaitu edo desgaitu bilaketa-iradokizunak.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalatu PKCS #11 moduluak.
 policy-SSLVersionMax = Ezarri SSL bertsio maximoa.
