@@ -317,6 +317,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "ਪੱਕੀ ਸਟੋਰੇਜ਼ 'ਚ ਡਾਟੇ ਨੂੰ ਸਟੋਰ ਕਰੋ">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "ਬਰਾਊਜ਼ਰ ਰਿਮੋਟ ਤੋਂ ਕੰਟਰੋਲ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "ਵੈੱਬ ਪਰਮਾਣਕਿਤਾ ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ">
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "ਬਰਾਊਜ਼ਿੰਗ ਸਰਗਰਮੀ ਇਜਾਜ਼ਤ ਪੈਨਲ ਖੋਲ੍ਹੋ">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "ਸਾਈਟ ਨਾਲ ਆਪਣੇ ਕੈਮਰੇ ਅਤੇ/ਜਾਂ ਮਾਈਕਰੋਫ਼ੋਨ ਦੇ ਸਾਂਝਾ ਕਰਨ ਦਾ ਪਰਬੰਧ ਕਰੋ">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "ਸਾਈਟ ਨਾਲ ਆਪਣੇ ਮਾਈਕਰੋਫ਼ੋਨ ਦੇ ਸਾਂਝਾ ਕਰਨ ਦਾ ਪਰਬੰਧ ਕਰੋ">
@@ -436,6 +437,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
+<!ENTITY logins.label                           "ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ">
 
 <!ENTITY clearRecentHistory.label               "…ਤਾਜ਼ਾ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
 
@@ -466,6 +468,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "…ਤਾਜ਼ੇ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY appMenuHistory.restoreSession.label "ਪਿਛਲੇ ਸ਼ੈਸ਼ਨ ਨੂੰ ਮੁੜ-ਸਟੋਰ ਕਰੋ">
 <!ENTITY appMenuHistory.viewSidebar.label "ਅਤੀਤ ਬਾਹੀ ਨੂੰ ਵੇਖੋ">
+<!ENTITY appMenuHistory.hideSidebar.label "ਅਤੀਤ ਬਾਹੀ ਲੁਕਾਓ">
 <!ENTITY appMenuHistory.recentHistory.label "ਤਾਜ਼ਾ ਅਤੀਤ">
 <!ENTITY appMenuHelp.label "ਮਦਦ">
 
@@ -494,6 +497,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "ਸਿੰਕ ਕਰਨ ਸਾਈਨ ਇਨ ਕਰੋ">
 <!ENTITY appMenuRemoteTabs.managedevices.label "…ਡਿਵਾਈਸਾਂ ਦਾ ਬੰਦੋਬਸਤ">
 <!ENTITY appMenuRemoteTabs.sidebar.label "ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ ਦੀ ਬਾਹੀ ਵੇਖੋ">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "ਸਿੰਂਕ ਕੀਤੀਆਂ ਟੈਬਾਂ ਬਾਹੀ ਲੁਕਾਓ">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "ਹੋਰ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਕਰੋ">
 
 <!ENTITY appMenuRecentHighlights.label "ਤਾਜ਼ਾ ਹਾਈਲਾਈਟ">
@@ -1026,6 +1030,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "ਕੂਕੀਜ਼">
 <!ENTITY contentBlocking.cookiesView.label "ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ">
 
+<!ENTITY contentBlocking.cryptominers.label "ਕ੍ਰਿਪਟੋ-ਮਾਈਨਰ">
+<!ENTITY contentBlocking.cryptominersView.label "ਕ੍ਰਿਪਟੋ-ਮਾਈਨਰ">
 
 <!ENTITY contentBlocking.fingerprinters.label "ਫਿੰਗਰਪਰਿੰਟਰ">
 <!ENTITY contentBlocking.fingerprintersView.label "ਫਿੰਗਰਪਰਿੰਟਰ">
@@ -1161,8 +1167,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "<image class='addon-addon-icon'/> ਮੇਨੂ ਵਿੱਚ <image class='addon-toolbar-icon'/> ਤੇ ਕਲਿੱਕ ਕਰਕੇ ਆਪਣੇ ਐਡਆਨ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋੋ।">
+<!ENTITY addonPostInstall.incognito.checkbox.label "ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਨਿੱਜੀ ਵਿੰਡੋਆਂ ਵਿੱਚ ਚਲਾਉਣ ਦੀ ਆਗਿਆ ਦਿਓ">
 <!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
 
+<!ENTITY addonPrivateBrowsing.header2.label "ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਵਿੱਚ ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਬਦਲੋ">
+<!ENTITY addonPrivateBrowsing.learnMore.label "ਇਕਸਟੈਨਸ਼ਨ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰਨ ਬਾਰੇ ਸਿੱਖੋ">
 <!ENTITY addonPrivateBrowsing.okButton.label "ਠੀਕ ਹੈ, ਸਮਝ ਗਏ">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ">

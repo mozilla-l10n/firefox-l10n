@@ -76,3 +76,7 @@ connection-dns-over-https-url-default =
     .label = ਮੂਲ ਵਰਤੋਂ ({ $url })
     .accesskey = U
     .tooltiptext = HTTPS ਉੱਤੇ DNS ਲੱਭਣ ਲਈ ਮੂਲ URL ਵਰਤੋਂ
+connection-dns-over-https-url-custom =
+    .label = ਕਸਟਮ
+    .accesskey = C
+    .tooltiptext = HTTS ਉੱਤੇ DNS ਹੱਲ਼ ਕਰਨ ਲਈ ਆਪਣਾ ਤਰਜੀਹੀ URL ਦਰਜ ਕਰੋ

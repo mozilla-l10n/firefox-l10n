@@ -22,6 +22,7 @@
 <!ENTITY tabCrashed.requestHelp "ਕੀ ਤੁਸੀਂ ਸਾਡੀ ਮਦਦ ਕਰੋਗੇ?">
 <!ENTITY tabCrashed.requestReport "ਇਸ ਟੈਬ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦਿਓ">
 <!ENTITY tabCrashed.sendReport3 "ਆਪਣੇ-ਆਪ ਤਿਆਰ ਹੋਈ ਕਰੈਸ਼਼ ਰਿਪੋਰਟ ਭੇਜੋ ਤਾਂ ਕਿ ਅਸੀਂ ਇੰਝ ਦੇ ਮਸਲੇ ਠੀਕ ਕਰ ਸਕੀਏ।">
+<!ENTITY tabCrashed.commentPlaceholder2 "ਚੋਣਵੀਆਂ ਟਿੱਪਣੀਆਂ (ਟਿੱਪਣੀਆਂ ਜਨਤਕ ਰੂਪ ਵਿੱਚ ਦਿਖਾਈ ਦਿੰਦੀਆਂ ਹਨ)">
 <!ENTITY tabCrashed.includeURL3 "ਸਾਈਟਾਂ, ਜਿਹਨਾਂ ਨੂੰ ਤੁਸੀਂ ਖੋਲ੍ਹਿਆ ਸੀ, ਦੇ URLs ਸ਼ਾਮਲ ਕਰੋ, ਜਦੋਂ &brandShortName; ਕਰੈਸ਼ ਹੋਇਆ ਸੀ।">
 <!ENTITY tabCrashed.emailPlaceholder "ਆਪਣਾ ਈਮੇਲ ਪਤਾ ਇੱਥੇ ਦਿਓ">
 <!ENTITY tabCrashed.emailMe "ਜਦੋਂ ਹੋਰ ਜਾਣਕਾਰੀ ਮੌਜੂਦ ਹੋਵੇ ਤਾਂ ਮੈਨੂੰ ਸੂਚਨਾ ਦਿਓ">

@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = ਸਭ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰੋ
     .style = width: 34em
+clear-data-settings-label = ਜਦੋਂ ਬੰਦ ਹੁੰਦਾ ਹੈ ਤਾਂ { -brand-short-name } ਆਪਣੇ-ਆਪ ਸਭ ਸਾਫ਼ ਕਰਦਾ ਹੈ
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
