@@ -57,6 +57,7 @@ policy-HardwareAcceleration = De ser falso, desactiva la aceleración por hardwa
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Establecer y bloquear opcionalmente la página de inicio.
 policy-InstallAddonsPermission = Permitir que ciertos sitios web instalen complementos.
+policy-LocalFileLinks = Permitir a sitios web específicos enlazar a archivos locales.
 policy-NetworkPrediction = Activar o desactivar predicción de red (obtención adelantada de DNS).
 policy-NewTabPage = Activar o desactivar la página Nueva pestaña.
 policy-NoDefaultBookmarks = Desactiva la creación por defecto de marcadores incluidos con { -brand-short-name }, y los marcadores inteligentes (Más visitados, Etiquetas recientes). Nota: esta política solo es efectiva si es usada antes de la primera ejecución del perfil.
@@ -69,6 +70,7 @@ policy-Preferences = Fija y bloquea el valor para un subconjunto de preferencias
 policy-Proxy = Configurar los ajustes de proxy.
 policy-RequestedLocales = Establece la lista de localizaciones solicitadas para la aplicación, ordenadas por preferencia.
 policy-SanitizeOnShutdown = Borrar todos los datos de navegación al apagar.
+policy-SanitizeOnShutdown2 = Limpiar los datos de navegación al apagar.
 policy-SearchBar = Ajusta la ubicación predeterminada de la barra de búsqueda. El usuario todavía podrá personalizarla.
 policy-SearchEngines = Configurar ajustes de motores de búsqueda. Esta política solo está disponible en la versión de soporte extendido (ESR).
 policy-SearchSuggestEnabled = Activar o desactivar sugerencias de búsqueda.
