@@ -81,6 +81,9 @@ detail-version =
 detail-last-updated =
     .label = Nazadnje posodobljeno
 detail-contributions-description = Razvijalec tega dodatka vas vabi, da podprete nadaljnji razvoj s skromnim prispevkom.
+detail-contributions-button = Prispevajte
+    .title = Prispevajte k razvoju tega dodatka
+    .accesskey = P
 detail-update-type =
     .value = Samodejne posodobitve
 detail-update-default =
@@ -95,6 +98,10 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Delovanje v zasebnih oknih
 detail-private-browsing-description2 = Če je dovoljeno, bo imela razširitev dostop do vaše spletne dejavnosti v zasebnem brskanju. <label data-l10n-name="detail-private-browsing-learn-more">Več o tem</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overriden by the user.
+detail-private-disallowed-label = Ni dovoljeno v zasebnih oknih
+detail-private-disallowed-description = Ta razširitev ne deluje v zasebnem brskanju. <label data-l10n-name="detail-private-browsing-learn-more">Več o tem</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Zahteva dostop do zasebnih oken
 detail-private-required-description = Ta razširitev ima dostop do vaše spletne dejavnosti v zasebnem brskanju. <label data-l10n-name="detail-private-browsing-learn-more">Več o tem</label>
