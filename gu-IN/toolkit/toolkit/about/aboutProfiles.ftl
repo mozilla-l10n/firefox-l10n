@@ -8,6 +8,10 @@ profiles-create = નવી પ્રોફાઇલ બનાવો
 profiles-restart-title = પુનઃપ્રારંભ
 profiles-restart-in-safe-mode = નિષ્ક્રિય થયેલ ઍડ-ઑન સાથે પુન:શરૂ કરો…
 profiles-restart-normal = સામાન્ય રીતે પુનઃપ્રારંભ કરો…
+profiles-flush-fail-title = ફેરફારો સાચવેલા નથી
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = એક અનપેક્ષિત ભૂલ તમારા ફેરફારોને સાચવવામાંથી અટકાવી રહી છે.
+profiles-flush-restart-button = { -brand-short-name } પુનઃશરૂ કરો
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = પ્રોફાઇલ: { $name }
