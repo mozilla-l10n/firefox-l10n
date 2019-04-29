@@ -4,7 +4,9 @@
 
 <!ENTITY firstrun_panel_title_welcome "આપનું સ્વાગત છે">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; પસંદ કરવા માટે આભાર">
+<!ENTITY newfirstrun_urlbar_message "&brandShortName; માં આપનું સ્વાગત છે">
 <!ENTITY firstrun_urlbar_subtext2 "Mozilla ના આધુનિક મોબાઇલ બ્રાઉઝર, બિન નફાકારક એક મફત અને ખુલ્લા વેબ માટે પ્રતિબદ્ધ છે.">
+<!ENTITY newfirstrun_urlbar_subtext "ઝડપી, ખાનગી અને તમારી બાજુ પર.">
 <!ENTITY firstrun_panel_title_privacy "ખાનગીપણું">
 <!ENTITY firstrun_privacy_message "કોઈ નથી જોતું એ રીતે બ્રાઉઝ કરો">
 <!ENTITY firstrun_privacy_subtext "ટ્રેકિંગ રક્ષણ સાથે ખાનગી બ્રાઉઝિંગ જે ટ્રેકર્સ ને અવરોધિત જ્યારે તમે બ્રાઉઝ કરો છો અને જ્યારે તમે બ્રાઉઝિંગ સમાપ્ત કરો છો ત્યારે તમારો ઇતિહાસ યાદ રાખશે નહીં.">
@@ -22,6 +24,7 @@
 <!ENTITY firstrun_sync_subtext2 "તમારા બધા ઉપકરણો પર &brandShortName; ના બુકમાર્ક્સ, પાસવર્ડ્સ અને તમે જે વસ્તુઓને સંગ્રહો છો તેને શોધવા માટે સમન્વયનો ઉપયોગ કરો.">
 <!ENTITY firstrun_signin_message "જોડે મળી, પ્રારંભ કરો">
 <!ENTITY firstrun_signin_button "સમન્વયન માટે સાઇન ઇન કરો">
+<!ENTITY newfirstrun_signin_button "સમન્વયન ચાલુ કરો">
 <!ENTITY  onboard_start_button_browser "બ્રાઉઝ શરૂ કરો">
 <!ENTITY firstrun_button_notnow "હમણા નહિ">
 <!ENTITY firstrun_button_next "આગામી">
@@ -409,6 +412,12 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "સમન્વિત કરેલા ટૅબ્સ">
 
 <!ENTITY pref_default_browser "ડિફૉલ્ટ બ્રાઉઝર બનાવો">
+
+<!ENTITY pref_default_browser2 "&brandShortName; ને તમારું મૂળભૂત બ્રાઉઝર બનાવો">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "&amp; બ્રાઉઝર એપ્લિકેશન ટેપ કરો &brandShortName; પસંદ કરો">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla આધારની મુલાકાત લો">
 <!ENTITY pref_about_firefox "&brandShortName; વિશે">
 <!ENTITY pref_vendor_faqs "FAQs">
@@ -503,6 +512,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "પાછળ">
 <!ENTITY find_next "આગળ">
 <!ENTITY find_close "બંધ કરો">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "મહાવરો મળ્યો નહિં">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
