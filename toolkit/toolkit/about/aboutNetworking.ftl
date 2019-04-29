@@ -31,7 +31,7 @@ messages-received = Odebrano wiadomości
 bytes-sent = Wysłano bajtów
 bytes-received = Odebrano bajtów
 logging = Logging
-log-tutorial = Instrukcje dla tego narzędzia można znaleźć w artykule <a href='https://developer.mozilla.org/en-US/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a>.
+log-tutorial = Instrukcje dla tego narzędzia można znaleźć w artykule <a data-l10n-name="logging">HTTP Logging</a>.
 current-log-file = Plik dziennika:
 current-log-modules = Moduły:
 set-log-file = Ustaw jako plik dziennika
