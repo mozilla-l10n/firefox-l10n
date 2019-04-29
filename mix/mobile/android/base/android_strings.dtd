@@ -4,6 +4,7 @@
 
 <!ENTITY firstrun_panel_title_welcome "Kukuèni">
 <!ENTITY firstrun_urlbar_message2 "Tatsavu ni ki\&apos;un &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Kukueni &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Iin nu nuduku ña\&apos;a Mozilla, kue ndukukue xu\&apos;un kunikue koo iin web ña\&apos;a nti\&apos;o.">
 <!ENTITY firstrun_panel_title_privacy "Ña meu">
 <!ENTITY firstrun_privacy_message "Nduku tana ko\&apos;ona nche\&apos;eyo">
@@ -22,6 +23,7 @@
 <!ENTITY firstrun_sync_subtext2 "Kuachu\&apos;un Sync takua ntaneu marcador, tu\&apos;un seé cha ntoo ña nchikavau nu &brandShortName; nu ntii kaa ndusu\&apos;ku.">
 <!ENTITY firstrun_signin_message "Chita\&apos;an, kitsaà">
 <!ENTITY firstrun_signin_button "Kivi nuú Sync">
+<!ENTITY newfirstrun_signin_button "Ndatun Sync">
 <!ENTITY  onboard_start_button_browser "Kitsaà Nduku">
 <!ENTITY firstrun_button_notnow "Makuu vichi">
 <!ENTITY firstrun_button_next "Núu">
@@ -409,6 +411,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "Xikua nuna">
 
 <!ENTITY pref_default_browser "Saa navegador xinaa">
+
+<!ENTITY pref_default_browser2 "Sa\&apos;a &brandShortName; ña\&apos;a meu">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY pref_default_browser_mozilla_support_tablet "Kuncheè Mozilla Support">
 <!ENTITY pref_about_firefox "Tsaa &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">
@@ -503,6 +510,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "Satáa">
 <!ENTITY find_next "Núu">
 <!ENTITY find_close "Kasi">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "Kòo tutu ni ntanèe">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
