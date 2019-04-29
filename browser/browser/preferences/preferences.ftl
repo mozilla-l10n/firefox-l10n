@@ -666,6 +666,7 @@ addressbar-suggestions-settings = Spremeni nastavitve predlogov iskanja
 
 content-blocking-header = Zavračanje vsebine
 content-blocking-description = Zavračajte vsebino tretjih strani, ki vam sledi po spletu. Nadzirajte, koliko vaše spletne dejavnosti se shranjuje in deli med spletnimi stranmi.
+content-blocking-section-description = Zaščitite svojo zasebnost med brskanjem. Zavrnite nevidno vsebino, ki spremlja vaše obiskane strani in ustvarja profil o vas. Če zavrnete nekaj te vsebine, se lahko strani hitreje naložijo.
 content-blocking-learn-more = Več o tem
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
