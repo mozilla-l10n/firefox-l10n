@@ -34,6 +34,8 @@ about-debugging-sidebar-no-devices = Ulac ibenkan i yellan
 about-debugging-sidebar-item-connect-button = Qqen
 # Text displayed in buttons found in sidebar items when the runtime is connecting.
 about-debugging-sidebar-item-connect-button-connecting = Tuqqna…
+# Text displayed as connection error in sidebar item when the connection has timed out.
+about-debugging-sidebar-item-connect-button-connection-timeout = Akud n tuqqna yezri
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Iqqen
@@ -60,6 +62,9 @@ about-debugging-refresh-usb-devices-button = Smiren ibenkan
 
 # Title of the Setup page.
 about-debugging-setup-title = Sebded
+# Link displayed in the Setup page that leads to MDN page with list of supported devices.
+# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
+about-debugging-setup-link-android-devices = Wali tabdart n yibenkan Android yettusefraken
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Qen ibenk
 # USB section of the Setup page
@@ -76,6 +81,8 @@ about-debugging-setup-usb-updating-button = Aleqqem...
 about-debugging-setup-usb-status-enabled = Irmed
 about-debugging-setup-usb-status-disabled = Arurmid
 about-debugging-setup-usb-status-updating = Aleqqem...
+# USB section step by step guide
+about-debugging-setup-usb-step-plug-device = Qqen ibenk Andoid ɣer uselkim-ik/im.
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Adig n uẓeṭṭa
