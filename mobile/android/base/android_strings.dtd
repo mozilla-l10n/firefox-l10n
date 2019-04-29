@@ -23,6 +23,7 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Fortsæt hvor du slap.">
 <!ENTITY firstrun_sync_subtext2 "Brug Sync til at finde bogmærker, adgangskoder og andet du har gemt i &brandShortName; på alle dine enheder.">
+<!ENTITY newfirstrun_sync_subtext "Synkroniser de gemte ting i Firefox for Android med Firefox på din computer. Der synkroniseres privat og sikkert.">
 <!ENTITY firstrun_signin_message "Bliv forbundet, start">
 <!ENTITY firstrun_signin_button "Log ind på Sync">
 <!ENTITY newfirstrun_signin_button "Aktiver Sync">
