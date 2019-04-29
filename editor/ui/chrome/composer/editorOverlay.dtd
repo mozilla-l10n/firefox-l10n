@@ -108,29 +108,45 @@
 <!ENTITY styleUnderlineCmd.accesskey "ข">
 <!ENTITY styleUnderlineCmd.key "U">
 <!ENTITY styleStrikeThruCmd.label "ขีดทับ">
+<!ENTITY styleStrikeThruCmd.accesskey "ท">
 <!ENTITY styleSuperscriptCmd.label "ตัวยก">
+<!ENTITY styleSuperscriptCmd.accesskey "ย">
 <!ENTITY styleSubscriptCmd.label "ตัวห้อย">
+<!ENTITY styleSubscriptCmd.accesskey "ห">
 <!ENTITY styleNonbreakingCmd.label "ช่องว่างแบบไม่แบ่งบรรทัด">
+<!ENTITY styleNonbreakingCmd.accesskey "ม">
 <!ENTITY styleEm.label "ตัวเน้น">
+<!ENTITY styleEm.accesskey "น">
 <!ENTITY styleStrong.label "ตัวเน้นแบบเข้ม">
+<!ENTITY styleStrong.accesskey "ต">
 <!ENTITY styleCite.label "การกล่าวถึง">
+<!ENTITY styleCite.accesskey "ก">
 <!ENTITY styleAbbr.label "ตัวย่อ">
+<!ENTITY styleAbbr.accesskey "ว">
 <!ENTITY styleAcronym.label "อักษรย่อ">
+<!ENTITY styleAcronym.accesskey "อ">
 <!ENTITY styleCode.label "โค้ด">
+<!ENTITY styleCode.accesskey "ค">
 <!ENTITY styleSamp.label "ส่งออกตัวอย่าง">
+<!ENTITY styleSamp.accesskey "ส">
 <!ENTITY styleVar.label "ตัวแปร">
+<!ENTITY styleVar.accesskey "ป">
 
 <!ENTITY formatFontColor.label "สีข้อความ…">
 <!ENTITY formatFontColor.accesskey "ส">
 <!ENTITY tableOrCellColor.label "สีพื้นหลังของตารางหรือเซลล์…">
+<!ENTITY tableOrCellColor.accesskey "พ">
 
 <!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "เอาจุดยึดที่มีชื่อออก">
+<!ENTITY formatRemoveNamedAnchors.accesskey "อ">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "ย่อหน้า">
+<!ENTITY paragraphMenu.accesskey "ย">
 <!ENTITY paragraphParagraphCmd.label "ย่อหน้า">
+<!ENTITY paragraphParagraphCmd.accesskey "ย">
 <!ENTITY heading1Cmd.label "หัวเรื่อง 1">
 <!ENTITY heading1Cmd.accesskey "1">
 <!ENTITY heading2Cmd.label "หัวเรื่อง 2">
@@ -270,11 +286,18 @@
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "เลือก">
-<!ENTITY structRemoveTag.label      "ลบป้ายชื่อ">
-<!ENTITY structChangeTag.label      "เปลี่ยนป้ายชื่อ">
+<!ENTITY structSelect.accesskey     "ล">
+<!ENTITY structRemoveTag.label      "เอาป้ายกำกับออก">
+<!ENTITY structRemoveTag.accesskey  "อ">
+<!ENTITY structChangeTag.label      "เปลี่ยนป้ายกำกับ">
+<!ENTITY structChangeTag.accesskey  "ป">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "แทรก">
+<!ENTITY insertTOC.accesskey      "ท">
 <!ENTITY updateTOC.label          "อัปเดต">
+<!ENTITY updateTOC.accesskey      "เ">
 <!ENTITY removeTOC.label          "เอาออก">
+<!ENTITY removeTOC.accesskey      "า">
 <!ENTITY tocMenu.label            "สารบัญ…">
+<!ENTITY tocMenu.accesskey        "ส">
