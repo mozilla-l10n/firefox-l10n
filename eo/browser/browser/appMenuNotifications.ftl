@@ -29,6 +29,9 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = En ordo, mi komprenis
     .buttonaccesskey = o
 appmenu-addon-post-install-message = Administru viajn aldonaĵojn per alklako de <image data-l10n-name='addon-install-icon'></image> en la menuo <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-post-install-incognito-checkbox =
+    .label = Permesi al tiu ĉi etendaĵo funkcii en privataj fenestroj
+    .accesskey = P
 appmenu-addon-private-browsing =
     .label = Ŝanĝoj de etendaĵoj en privataj fenestroj
     .buttonlabel = Administri etendaĵojn
