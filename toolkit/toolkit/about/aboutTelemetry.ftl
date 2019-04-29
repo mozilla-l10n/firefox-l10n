@@ -56,6 +56,16 @@ about-telemetry-upload-type =
         [enabled] activée
        *[disabled] désactivée
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } élément, moyenne = { $prettyAverage }, somme = { $sum }
+       *[other] { $sampleCount } éléments, moyenne = { $prettyAverage }, somme = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Cette page affiche les informations collectées par télémétrie concernant les performances, les caractéristiques matérielles, l’utilisation des fonctionnalités et la personnalisation du navigateur. Ces informations sont envoyées à { $telemetryServerOwner } pour aider à l’amélioration de { -brand-full-name }.
@@ -125,6 +135,9 @@ about-telemetry-category-header = catégorie
 about-telemetry-method-header = méthode
 about-telemetry-object-header = objet
 about-telemetry-extra-header = en supplément
+about-telemetry-origin-section = Télémétrie d’origine
+about-telemetry-origin-origin = origine
+about-telemetry-origin-count = comptage
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> encode les données avant de les envoyer de façon à ce que { $telemetryServerOwner } puisse compter différentes choses, mais ne puisse pas savoir si oui ou non tel { -brand-product-name } a contribué à ce comptage. <a data-l10n-name="prio-blog-link">En savoir plus</a>
