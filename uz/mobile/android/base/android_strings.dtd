@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Xush kelibsiz">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName;ni tanlaganingiz uchun rahmat">
+<!ENTITY newfirstrun_urlbar_message "&brandShortName; brauzeriga xush kelibsiz">
 <!ENTITY firstrun_urlbar_subtext2 "Mozilladan zamonaviy mobil brauzer. Notijorat tashkilot bepul va ochiq internet uchun yaratgan.">
+<!ENTITY newfirstrun_urlbar_subtext "Tez, maxfiy va doimo yoningizda">
 <!ENTITY firstrun_panel_title_privacy "Maxfiylik">
 <!ENTITY firstrun_privacy_message "Hech kim ko‘rmayotgandek internetda kezing">
 <!ENTITY firstrun_privacy_subtext "Kuzatishdan himoyalanish maqsadida maxfiy ko‘rishdan foydalansangiz, internetda ishlayotganingizda kuzatuvchilarni bloklaydi va ishni tugatganingizda brauzer tarixini saqlab qolmaydi.">
+<!ENTITY newfirstrun_privacy_subtext "Maxfiy koʻrish orqali sizni onlayn kuzatuvchilarni bloklay olasiz.">
 <!ENTITY firstrun_panel_title_customize "Moslash">
 <!ENTITY firstrun_customize_message "&brandShortName;ni o‘zingizga moslab oling">
 <!ENTITY firstrun_customize_subtext "&brandShortName;ni qo‘shimcha dasturlar bilan o‘zingizga moslab oling. Reklamalarni bloklashingiz, funksiyalar qo‘shishingiz yoki qiziqishlaringizni aks ettiruvchi mavzularni o‘rnatishingiz mumkin.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Sinxronlash">
 <!ENTITY firstrun_sync_message2 "Qolgan joyidan davom eting.">
 <!ENTITY firstrun_sync_subtext2 "Sinxronizatsiyadan &brandShortName; brauzeriga saqlangan xatcho‘p, parol va boshqa kerakli narsalarni barcha qurilmalarda topish uchun foydalaning.">
+<!ENTITY newfirstrun_sync_subtext "Telefoningizdagi Firefox brauzeriga saqlaganlaringizni kompyuterdagi Firefoxga maxfiy va xavfsiz ravishda sinxronlang.">
 <!ENTITY firstrun_signin_message "Ulaning va boshlang">
 <!ENTITY firstrun_signin_button "Sinxronlash uchun tizimga kirish">
+<!ENTITY newfirstrun_signin_button "Sinxronizatsiyani yoqish">
 <!ENTITY  onboard_start_button_browser "Ko‘rishni boshlash">
 <!ENTITY firstrun_button_notnow "Hozir emas">
 <!ENTITY firstrun_button_next "Keyingi">
@@ -63,6 +68,12 @@
 <!ENTITY  crash_restart_label "&brandShortName;ni qayta ishga tushirish">
 
 <!ENTITY url_bar_default_text2 "Izlang yoki manzilni kiriting">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "Internetdan izlash">
+<!ENTITY search_widget_default_cropped_text "Izlash">
+<!ENTITY search_widget_logo_description "&brandShortName; bilan internetdan izlang">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -335,6 +346,9 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Sozlamalarga o‘ting">
+<!-- Localization note (tab_queue_notification_prompt): This is the text of the default notification
+shown from Android O while a tab is being queued.-->
+<!ENTITY tab_queue_notification_prompt "Yangi ichki oyna navbatga qoʻyildi&#8230;">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -393,7 +407,6 @@
 <!ENTITY pref_private_data_searchHistory "Izlash tarixi">
 <!ENTITY pref_private_data_formdata2 "Tarixdan">
 <!ENTITY pref_private_data_cookies2 "Kukilar va faol kirishlar">
-<!ENTITY pref_private_data_passwords2 "Saqlangan loginlar">
 <!ENTITY pref_private_data_cache "Kesh">
 <!ENTITY pref_private_data_offlineApps "Oflayn veb sayt ma’lumotlari">
 <!ENTITY pref_private_data_siteSettings2 "Sayt sozlamalari">
@@ -401,6 +414,12 @@
 <!ENTITY pref_private_data_syncedTabs "Sinxronlangan ichki oynalar">
 
 <!ENTITY pref_default_browser "Asosiy brauzer sifatida tayinlash">
+
+<!ENTITY pref_default_browser2 "&brandShortName;ni asosiy brauzeringizga aylantiring">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "“Brauzer” ilovasi ustiga bosing va &brandShortName;ni tanlang">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla qo‘llab-quvvatlash xizmatiga kirish">
 <!ENTITY pref_about_firefox "&brandShortName; haqida">
 <!ENTITY pref_vendor_faqs "FAQ">
@@ -495,6 +514,10 @@
 <!ENTITY find_prev "Oldingi">
 <!ENTITY find_next "Keyingi">
 <!ENTITY find_close "Yopish">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "Soʻzlar topilmadi">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
