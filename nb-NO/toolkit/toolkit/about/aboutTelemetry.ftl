@@ -125,3 +125,6 @@ about-telemetry-category-header = kategori
 about-telemetry-method-header = metode
 about-telemetry-object-header = objekt
 about-telemetry-extra-header = ekstra
+about-telemetry-origin-section = Origin Telemetry
+about-telemetry-origin-origin = opprinnelse
+about-telemetry-origin-count = antall

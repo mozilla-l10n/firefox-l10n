@@ -49,6 +49,7 @@ app-basics-profiles = Profiler
 app-basics-launcher-process-status = Oppstartsprosess
 app-basics-multi-process-support = Multiprosess-vinduer
 app-basics-process-count = Nettinnholdsprosesser
+app-basics-remote-processes-count = Fjernprosesser
 app-basics-enterprise-policies = Virksomhets-policy
 app-basics-location-service-key-google = Google Location Service-nøkkel
 app-basics-safebrowsing-key-google = Google Safebrowsing-nøkkel
