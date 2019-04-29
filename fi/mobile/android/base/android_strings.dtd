@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Tervetuloa">
 <!ENTITY firstrun_urlbar_message2 "Kiitos, että valitsit &brandShortName;in">
+<!ENTITY newfirstrun_urlbar_message "Tervetuloa, tämä on &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Nykyaikainen mobiiliselain voittoa tavoittelemattomalta Mozillalta, joka on omistautunut vapaaseen ja avoimeen verkkoon.">
+<!ENTITY newfirstrun_urlbar_subtext "Nopea, yksityinen ja sinun puolellasi.">
 <!ENTITY firstrun_panel_title_privacy "Tietosuoja">
 <!ENTITY firstrun_privacy_message "Selaa kenenkään tarkkailematta sinua">
 <!ENTITY firstrun_privacy_subtext "Yksityinen selaus seurannan suojauksen kanssa estää seurantamenetelmiä selatessasi verkkoa eikä muista historiaa, kun lopetat selaamisen.">
+<!ENTITY newfirstrun_privacy_subtext "Yksityinen selaus torjuu sinua verkossa seuraavat mainosseuraimet.">
 <!ENTITY firstrun_panel_title_customize "Mukauta">
 <!ENTITY firstrun_customize_message "Tee &brandShortName;ista omanlaisesi.">
 <!ENTITY firstrun_customize_subtext "Mukauta &brandShortName;ia lisäosilla. Estä mainoksia, lisää ominaisuuksia tai valitse teema, joka sopii tyyliisi.">
@@ -22,6 +25,7 @@
 <!ENTITY firstrun_sync_subtext2 "Käytä Sync-palvelua löytämään kirjanmerkit, salasanat ynnä muut &brandShortName;iin tallentamasi tiedot kaikilla laitteillasi.">
 <!ENTITY firstrun_signin_message "Yhdistä ja aloita">
 <!ENTITY firstrun_signin_button "Kirjaudu sisään Sync-palveluun">
+<!ENTITY newfirstrun_signin_button "Ota Sync käyttöön">
 <!ENTITY  onboard_start_button_browser "Aloita selaaminen">
 <!ENTITY firstrun_button_notnow "Ei nyt">
 <!ENTITY firstrun_button_next "Seuraava">
@@ -409,6 +413,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "Synkronoidut välilehdet">
 
 <!ENTITY pref_default_browser "Aseta oletusselaimeksi">
+
+<!ENTITY pref_default_browser2 "Aseta &brandShortName; oletusselaimeksi">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY pref_default_browser_mozilla_support_tablet "Käy Mozillan tukisivustossa">
 <!ENTITY pref_about_firefox "Tietoja &brandShortName;ista">
 <!ENTITY pref_vendor_faqs "UKK">
@@ -503,6 +512,9 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "Edellinen">
 <!ENTITY find_next "Seuraava">
 <!ENTITY find_close "Sulje">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
