@@ -57,6 +57,7 @@ policy-HardwareAcceleration = M'eo lakaet da Gaou e vo diweredekaet herrekadur a
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Arventennañ ar bennbajenn. Gallout a rit ivez prennañ anezhi.
 policy-InstallAddonsPermission = Aotren lec'hiennoù 'zo da staliañ askouezhioù.
+policy-LocalFileLinks = Aotren lec'hiennoù 'zo da liammañ restroù lec'hel.
 policy-NetworkPrediction = (Di)weredekaat an diougan rouedad (rakkerc'hat DNS)
 policy-NewTabPage = (Di)weredekaat ar bajenn ivinell nevez.
 policy-NoDefaultBookmarks = Diweredekaat krouidigezh ar sinedoù dre ziouer roet gant { -brand-short-name }, hag ar sinedoù speredek (Gweladennet ar muiañ, ivinelloù nevesañ). Evezh: ar reolenn-mañ a zo efedus ar wech kentañ vez loc'het Firefox hepken.
@@ -69,6 +70,7 @@ policy-Preferences = Lakaat ha prennañ an talvoud evit un isteskad gwellvezioù
 policy-Proxy = Kefluniañ arventennoù ar proksi.
 policy-RequestedLocales = Merañ roll ar yezhoù goulennet gant an arload, en urzh.
 policy-SanitizeOnShutdown = Skarzhañ an holl roadennoù merdeiñ pa vez serret.
+policy-SanitizeOnShutdown2 = Skarzhañ ar roadennoù merdeiñ en ur guitaat.
 policy-SearchBar = Despizañ al lec'hiadur dre ziouer er varrenn glask. AN arveriad a c'hallo kemmañ anezhañ.
 policy-SearchEngines = Kefluniañ arventennoù al lusker enklask. Ar reolenn-mañ a c'hall bezañ lakaet en handelv skor astennet (ESR).
 policy-SearchSuggestEnabled = (Di)weredekaat an alioù klask.
