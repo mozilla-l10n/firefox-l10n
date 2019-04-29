@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Bine ai venit">
 <!ENTITY firstrun_urlbar_message2 "Îți mulțumim că ai ales &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Bun venit la &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Un browser modern mobil de la Mozilla, organizația nonprofit dedicată unui web liber și deschis.">
+<!ENTITY newfirstrun_urlbar_subtext "Rapid, privat și de partea ta.">
 <!ENTITY firstrun_panel_title_privacy "Confidențialitate">
 <!ENTITY firstrun_privacy_message "Navighează fără grija de a fi urmărit">
 <!ENTITY firstrun_privacy_subtext "Navigarea privată cu protecție împotriva urmăririi blochează elementele de urmărire și nu va ține minte istoricul tău când închei navigarea.">
+<!ENTITY newfirstrun_privacy_subtext "Navigarea privată blochează elementele de urmărire publicitară care te urmăresc online.">
 <!ENTITY firstrun_panel_title_customize "Personalizare">
 <!ENTITY firstrun_customize_message "Creează-ți propria experiență în &brandShortName;.">
 <!ENTITY firstrun_customize_subtext "Personalizează &brandShortName; cu suplimente. Blochează reclamele, adaugă caracteristici sau alege o temă nouă care să îți reflecteze personalitatea.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Sincronizare">
 <!ENTITY firstrun_sync_message2 "Continuă de unde ai rămas.">
 <!ENTITY firstrun_sync_subtext2 "Folosește Sync pentru a găsi pe toate dispozitivele tale marcajele, parolele și celelalte lucruri pe care le salvezi în &brandShortName;.">
+<!ENTITY newfirstrun_sync_subtext "Sincronizează lucrurile salvate pe dispozitivul mobil cu Firefox pentru desktop, în mod privat și sigur.">
 <!ENTITY firstrun_signin_message "Conectează-te și începe">
 <!ENTITY firstrun_signin_button "Autentifică-te la Sync">
+<!ENTITY newfirstrun_signin_button "Activează Sync">
 <!ENTITY  onboard_start_button_browser "Începe navigarea">
 <!ENTITY firstrun_button_notnow "Nu chiar acum">
 <!ENTITY firstrun_button_next "Înainte">
@@ -409,6 +414,12 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "Filele sincronizate">
 
 <!ENTITY pref_default_browser "Desemnează ca browser implicit">
+
+<!ENTITY pref_default_browser2 "Desemnează &brandShortName; ca browserul tău implicit">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Atinge aplicația Browser și selectează &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Vizitează Mozilla Support">
 <!ENTITY pref_about_firefox "Despre &brandShortName;">
 <!ENTITY pref_vendor_faqs "Întrebări frecvente">
@@ -503,6 +514,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "Anterior">
 <!ENTITY find_next "Următor">
 <!ENTITY find_close "Închide">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "Text negăsit">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
