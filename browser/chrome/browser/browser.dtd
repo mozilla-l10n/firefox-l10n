@@ -471,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Εκκαθάριση πρόσφατου ιστορικού…">
 <!ENTITY appMenuHistory.restoreSession.label "Επαναφορά προηγούμενης συνεδρίας">
 <!ENTITY appMenuHistory.viewSidebar.label "Προβολή πλευρικής στήλης ιστορικού">
+<!ENTITY appMenuHistory.hideSidebar.label "Απόκρυψη πλευρικής γραμμής ιστορικού">
 <!ENTITY appMenuHistory.recentHistory.label "Πρόσφατο ιστορικό">
 <!ENTITY appMenuHelp.label "Βοήθεια">
 
@@ -499,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Σύνδεση στο Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Διαχείριση συσκευών…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Δείτε την πλευρική στήλη του Συγχρονισμού">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Απόκρυψη πλευρικής γραμμής συγχρονισμένων καρτελών">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Σύνδεση άλλης συσκευής">
 
 <!ENTITY appMenuRecentHighlights.label "Πρόσφατες κορυφαίες στιγμές">
