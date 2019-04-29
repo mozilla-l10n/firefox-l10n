@@ -471,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "최근 방문 기록 삭제…">
 <!ENTITY appMenuHistory.restoreSession.label "이전 세션 복원">
 <!ENTITY appMenuHistory.viewSidebar.label "방문 기록 탐색창 보기">
+<!ENTITY appMenuHistory.hideSidebar.label "방문 기록 탐색창 숨기기">
 <!ENTITY appMenuHistory.recentHistory.label "최근 기록">
 <!ENTITY appMenuHelp.label "도움말">
 
@@ -499,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Sync에 로그인">
 <!ENTITY appMenuRemoteTabs.managedevices.label "기기 관리…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "동기화한 탭 탐색창 보이기">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "동기화한 탭 탐색창 숨기기">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "다른 기기에 연결">
 
 <!ENTITY appMenuRecentHighlights.label "최근 하이라이트">
