@@ -255,6 +255,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.label "Bilde-i-bilde">
+<!ENTITY pictureInPicture.accesskey "d">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -434,6 +436,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Innstillinger">
 <!ENTITY preferencesCmdUnix.accesskey     "I">
 
+<!ENTITY logins.label                           "Innlogginger og passord">
 
 <!ENTITY clearRecentHistory.label               "Slett nylig historikk …">
 
@@ -1099,6 +1102,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "L">
 <!ENTITY updateAvailable.cancelButton.label "Ikke nå">
 <!ENTITY updateAvailable.cancelButton.accesskey "n">
+
 <!ENTITY updateAvailable.panelUI.label "Last ned &brandShorterName;-oppdatering">
 
 <!ENTITY updateManual.message "Last ned en ny kopi av &brandShorterName; og vi vil hjelpe deg med å installere den.">
