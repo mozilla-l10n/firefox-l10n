@@ -69,6 +69,7 @@ policy-Preferences = Definescha e fixescha la valur per ina subgruppa da prefere
 policy-Proxy = Configurar ils parameters dal proxy.
 policy-RequestedLocales = Definescha, en la successiun da preferenza, la glista da las linguas («locales») dumandadas da l'applicaziun.
 policy-SanitizeOnShutdown = Stizzar tut las datas da navigaziun cun terminar.
+policy-SanitizeOnShutdown2 = Stizzar las datas da navigaziun cun terminar.
 policy-SearchBar = Definir l'adressa da standard da la trav da tschertgar. L'utilisader la po anc adina persunalisar.
 policy-SearchEngines = Configurar ils parameters da maschinas da tschertgar. Questa directiva è mo disponibla en la versiun Extended Support Release (ESR).
 policy-SearchSuggestEnabled = Activar u deactivar propostas da tschertga.
