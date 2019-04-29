@@ -171,6 +171,13 @@ about-debugging-runtime-service-workers-not-compatible = La configuration de vot
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
 about-debugging-browser-version-too-old = Le navigateur connecté dispose d’une ancienne version ({ $runtimeVersion }). La version minimale prise en charge est ({ $minVersion }). Il s’agit d’une configuration non prise en charge qui peut entraîner des problèmes avec les outils de développement. Veuillez mettre à jour le navigateur connecté. <a>Diagnostic de connexion</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# - from Fx 67 to 66 or to 65
+# - from Fx 68 to 66
+# Those are normally in range for DevTools compatibility policy, but specific non
+# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+about-debugging-browser-version-too-old-67-debugger = Le panneau du débogueur risque de ne pas fonctionner avec le navigateur connecté. Veuillez utiliser Firefox { $runtimeVersion } si vous avez besoin d’utiliser le débogueur avec ce navigateur.
 # This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
@@ -228,6 +235,8 @@ about-debugging-tmp-extension-remove-button = Supprimer
 # manifest.json .xpi and .zip should not be localized.
 # Note: this message is only displayed in Windows and Linux platforms.
 about-debugging-tmp-extension-install-message = Sélectionnez un fichier manifest.json ou une archive .xpi/.zip
+# This string is displayed as a message about the add-on having a temporaryID.
+about-debugging-tmp-extension-temporary-id = Cette WebExtension dispose d’un identifiant temporaire. <a>En savoir plus</a>
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
@@ -273,3 +282,6 @@ about-debugging-main-process-name = Processus principal
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-description2 = Processus principal pour le navigateur cible
+# Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon =
+    .alt = Fermer le message

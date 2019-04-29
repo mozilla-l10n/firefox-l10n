@@ -8,6 +8,10 @@ profiles-create = Créer un nouveau profil
 profiles-restart-title = Redémarrer
 profiles-restart-in-safe-mode = Redémarrer avec les modules désactivés…
 profiles-restart-normal = Redémarrer normalement…
+profiles-flush-fail-title = Modifications non enregistrées
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Une erreur inattendue a empêché l’enregistrement de vos modifications.
+profiles-flush-restart-button = Redémarrer { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profil : { $name }

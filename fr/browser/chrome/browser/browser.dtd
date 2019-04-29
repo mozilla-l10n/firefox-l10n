@@ -471,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Effacer l’historique récent…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurer la session précédente">
 <!ENTITY appMenuHistory.viewSidebar.label "Afficher le panneau de l’historique">
+<!ENTITY appMenuHistory.hideSidebar.label "Masquer le panneau latéral de l’historique">
 <!ENTITY appMenuHistory.recentHistory.label "Historique récent">
 <!ENTITY appMenuHelp.label "Aide">
 
@@ -499,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Se connecter à Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gérer les appareils…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Panneau latéral des onglets synchronisés">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Masquer le panneau latéral des onglets synchronisés">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Connecter un autre appareil">
 
 <!ENTITY appMenuRecentHighlights.label "Éléments-clés récents">
@@ -1107,6 +1109,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "T">
 <!ENTITY updateAvailable.cancelButton.label "Plus tard">
 <!ENTITY updateAvailable.cancelButton.accesskey "P">
+
 <!ENTITY updateAvailable.panelUI.label "Télécharger la mise à jour de &brandShorterName;">
 
 <!ENTITY updateManual.message "Téléchargez à nouveau &brandShorterName; et nous pourrons vous guider pour l’installer.">
