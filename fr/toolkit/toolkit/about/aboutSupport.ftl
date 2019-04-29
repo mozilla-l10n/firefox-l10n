@@ -29,6 +29,7 @@ features-version = Version
 features-id = ID
 processes-title = Processus distants
 processes-type = Type
+processes-count = Nombre
 app-basics-title = Paramètres de base de l’application
 app-basics-name = Nom
 app-basics-version = Version
