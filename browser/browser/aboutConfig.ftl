@@ -8,6 +8,7 @@ about-config-warning-text = Ŝanĝo de tiuj spertulaj agordoj povas efiki malbon
 about-config-warning-checkbox = Bonvolu averti min venontfoje!
 about-config-warning-button = Mi akceptas la riskon
 about-config-title = about:config
+about-config2-title = Spertulaj agordoj
 about-config-search-input =
     .placeholder = Serĉi
 about-config-show-all = Montri ĉiujn

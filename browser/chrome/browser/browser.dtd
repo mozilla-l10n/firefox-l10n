@@ -471,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Viŝi ĵusan historion…">
 <!ENTITY appMenuHistory.restoreSession.label "Restarigi antaŭan seancon">
 <!ENTITY appMenuHistory.viewSidebar.label "Montri la flankan strion de historio">
+<!ENTITY appMenuHistory.hideSidebar.label "Kaŝi la flankan strion de historio">
 <!ENTITY appMenuHistory.recentHistory.label "Ĵusa historio">
 <!ENTITY appMenuHelp.label "Helpo">
 
@@ -499,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Komencu seancon en Spegulado">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administri aparatojn…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vidi flankan strion de spegulitaj langetoj">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Kaŝi flankan strion de spegulitaj langetoj">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Konekti alian aparaton">
 
 <!ENTITY appMenuRecentHighlights.label "Ĵusaj elstaraĵoj">
