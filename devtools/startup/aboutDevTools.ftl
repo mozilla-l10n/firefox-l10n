@@ -18,7 +18,7 @@ newsletter-title = Bản tin nhà phát triển Mozilla
 newsletter-message = Nhận tin tức, thủ thuật và tài nguyên dành cho nhà phát triển được gửi vào hộp thư đến của bạn.
 newsletter-email-placeholder =
     .placeholder = Email
-newsletter-privacy-label = Tôi đồng ý với việc Mozilla sử dụng thông tin của tôi như được giải thích trong phần <a href="%(policy_url)s">chính sách bảo mật</a> này.
+newsletter-privacy-label = Tôi đồng ý với việc Mozilla sử dụng thông tin của tôi như được giải thích trong phần <a data-l10n-name="privacy-policy">chính sách bảo mật</a> này.
 newsletter-subscribe-button = Đăng ký
 newsletter-thanks-title = Cảm ơn!
 newsletter-thanks-message = Nếu bạn chưa xác nhận đăng kí các thư mới liên quan đến Mozilla thì bạn phải xác nhận lại. Hãy kiểm tra email của chúng tôi trong hộp thư đến của bạn hoặc tìm trong hộp thư spam.
