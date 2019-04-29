@@ -132,6 +132,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "S">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY importFromAnotherBrowserCmd.label "Kter seg iminig nniḍen…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 <!ENTITY taskManagerCmd.label "Amsefrak n twuri">
@@ -219,6 +220,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
 <!ENTITY fxa.signin.callout.label "Awi Firefox yid-k">
+<!ENTITY fxa.signin.button.label "Rmed &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
@@ -255,6 +257,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.label "Tugna-deg-tugna">
 <!ENTITY pictureInPicture.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
@@ -466,6 +469,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Sfeḍ amazray-ik n melmi kan…">
 <!ENTITY appMenuHistory.restoreSession.label "Err-d tiɣimit yezrin">
 <!ENTITY appMenuHistory.viewSidebar.label "Sken agalis adisan n umazray">
+<!ENTITY appMenuHistory.hideSidebar.label "Ffer agalis adisan n umazray">
 <!ENTITY appMenuHistory.recentHistory.label "Amazray n melmi kan">
 <!ENTITY appMenuHelp.label "Tallalt">
 
@@ -494,6 +498,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Qqen ɣer Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Sefrek ibenkan…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Sken agalis adisan n waccaren yemtawin">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Ffer agalis adisan n waccaren yemtawin">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Qqen ibenk-nniḍen">
 
 <!ENTITY appMenuRecentHighlights.label "Izwilen n melmi kan">
@@ -1100,6 +1105,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "Mačči tura">
 <!ENTITY updateAvailable.cancelButton.accesskey "T">
+
 <!ENTITY updateAvailable.panelUI.label "Sider lqem n &brandShorterName;">
 
 <!ENTITY updateManual.message "Sider lqem aneggaru n &brandShorterName; sakin ad k-nɛiwen ad t-tesbeddeḍ.">
@@ -1160,6 +1166,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Sefrek izegrar inek s usebbed γef <image class='addon-addon-icon'/> deg umuγ <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Sireg isiɣzef-agi ad yeddu deg isfuyla usligen">
 <!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Asnifel i yisiɣzaf def isfuyla usligen">

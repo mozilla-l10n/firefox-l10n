@@ -29,10 +29,14 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Ih, awi-t-id
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Sefrek izegrar inek s usebbed γef <image data-l10n-name='addon-install-icon'></image> deg umuγ <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-post-install-incognito-checkbox =
+    .label = Sireg asiɣzef-agi ad yeddu deg isfuyla usligen
+    .accesskey = S
 appmenu-addon-private-browsing =
     .label = Asnifel i yisiɣzaf def isfuyla usligen
     .buttonlabel = Sefrek isiɣzaf
     .buttonaccesskey = M
     .secondarybuttonlabel = Ih, awi-t-id
     .secondarybuttonaccesskey = O
+appmenu-addon-private-browsing-message = Akk isiɣzaf imaynuten ara ternuḍ ɣer { -brand-shorter-name } ur teddun ara deg isfuyla usligen arama tessirgeḍ aya deg iɣewwaṛen.
 appmenu-addon-private-browsing-learn-more = Issin amek ara tesferkeḍ iɣewwaṛen n yisiɣzaf
