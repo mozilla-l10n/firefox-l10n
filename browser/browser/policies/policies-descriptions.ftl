@@ -57,6 +57,7 @@ policy-HardwareAcceleration = Wannear false, hardwarefersnelling útskeakelje.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = De startside ynstelle en opsjoneel beskoattelje.
 policy-InstallAddonsPermission = Tastean dat bepaalde websites add-ons ynstallearje.
+policy-LocalFileLinks = Spesifike websites tastean te keppeljen nei lokale bestannen.
 policy-NetworkPrediction = ‘Network prediction’ (DNS prefetching) ynskeakelje of útskeakelje.
 policy-NewTabPage = De nije-ljepblêdside ynskeakelje of útskeakelje.
 policy-NoDefaultBookmarks = Oanmeitsjen fan de standertblêdwizers dy't mei { -brand-short-name } mei levere wurde útskeakelje, krekt as de Tûke blêdwizers (Meast besocht, Resinte labels). Noat: dizze beliedsregel is allinnich fan krêft by gebrûk derfan eardat it profyl foar it earst útfierd wurdt.
