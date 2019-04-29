@@ -10,6 +10,7 @@
 <!ENTITY firstrun_panel_title_privacy "ખાનગીપણું">
 <!ENTITY firstrun_privacy_message "કોઈ નથી જોતું એ રીતે બ્રાઉઝ કરો">
 <!ENTITY firstrun_privacy_subtext "ટ્રેકિંગ રક્ષણ સાથે ખાનગી બ્રાઉઝિંગ જે ટ્રેકર્સ ને અવરોધિત જ્યારે તમે બ્રાઉઝ કરો છો અને જ્યારે તમે બ્રાઉઝિંગ સમાપ્ત કરો છો ત્યારે તમારો ઇતિહાસ યાદ રાખશે નહીં.">
+<!ENTITY newfirstrun_privacy_subtext "ખાનગી બ્રાઉઝિંગ એ તમને ઑનલાઇન અનુસરતા એડ ટ્રેકર્સને અવરોધે છે.">
 <!ENTITY firstrun_panel_title_customize "વૈવિધ્યપૂર્ણ બનાવો">
 <!ENTITY firstrun_customize_message "તમારા પોતાનુ &brandShortName; બનાવો.">
 <!ENTITY firstrun_customize_subtext "&brandShortName; એડ-ઑન્સ સાથે વૈવિધ્યપૂર્ણ કરો. જાહેરાતોને અવરોધિત કરો, સુવિધાઓને ઉમેરો અથવા તમારા વ્યક્તિત્વને પ્રતિબિંબિત કરવા માટે એક નવી થીમ પસંદ કરો.">
@@ -22,6 +23,7 @@
 <!ENTITY firstrun_sync_title "સમન્વય">
 <!ENTITY firstrun_sync_message2 "જ્યાંથી તમે છોડી દીધું ત્યાંથી શરૂ કરો.">
 <!ENTITY firstrun_sync_subtext2 "તમારા બધા ઉપકરણો પર &brandShortName; ના બુકમાર્ક્સ, પાસવર્ડ્સ અને તમે જે વસ્તુઓને સંગ્રહો છો તેને શોધવા માટે સમન્વયનો ઉપયોગ કરો.">
+<!ENTITY newfirstrun_sync_subtext "તમે મોબાઇલ પર જે વસ્તુઓ સાચવો છો, તેને ડેસ્કટોપ માટેનાં Firefox માં ખાનગી અને સલામત રીતે સમન્વયિત કરો.">
 <!ENTITY firstrun_signin_message "જોડે મળી, પ્રારંભ કરો">
 <!ENTITY firstrun_signin_button "સમન્વયન માટે સાઇન ઇન કરો">
 <!ENTITY newfirstrun_signin_button "સમન્વયન ચાલુ કરો">
