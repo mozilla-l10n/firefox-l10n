@@ -415,9 +415,11 @@ shown from Android O while a tab is being queued.-->
 
 <!ENTITY pref_default_browser "मुलभूत ब्राउझर म्हणून वापरा">
 
+<!ENTITY pref_default_browser2 "&brandShortName; ला पूर्वनिर्धारित ब्राउझर बनवा">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "ब्राउझर अँप &amp; वर टॅप करा &brandShortName; निवडा">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla सपोर्टला भेट द्या">
 <!ENTITY pref_about_firefox "&brandShortName;बद्दल">
 <!ENTITY pref_vendor_faqs "नेहमीचे प्रश्न">
@@ -515,6 +517,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Localization note (find_error) : Error message shown when there is no result for the
      searched for text in this webpage -->
+<!ENTITY find_error "शब्दसमुह आढळला नाही">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
