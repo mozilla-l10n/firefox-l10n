@@ -471,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Počisti nedavno zgodovino …">
 <!ENTITY appMenuHistory.restoreSession.label "Obnovi prejšnjo sejo">
 <!ENTITY appMenuHistory.viewSidebar.label "Prikaži stransko vrstico z zgodovino">
+<!ENTITY appMenuHistory.hideSidebar.label "Skrij stransko vrstico z zgodovino">
 <!ENTITY appMenuHistory.recentHistory.label "Nedavna zgodovina">
 <!ENTITY appMenuHelp.label "Pomoč">
 
@@ -499,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Prijavite se v Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Upravljanje naprav …">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Pokaži stransko vrstico s sinhroniziranimi zavihki">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Skrij stransko vrstico s sinhroniziranimi zavihki">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Poveži drugo napravo">
 
 <!ENTITY appMenuRecentHighlights.label "Nedavni poudarki">

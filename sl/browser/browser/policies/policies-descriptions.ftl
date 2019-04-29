@@ -57,6 +57,7 @@ policy-HardwareAcceleration = Če je "false", izklopi strojno pospeševanje.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Nastavi in po potrebi zakleni domačo stran.
 policy-InstallAddonsPermission = Določenim spletnim stranem dovoli nameščanje dodatkov.
+policy-LocalFileLinks = Določenim spletnim stranem dovoli povezovanje na krajevne datoteke.
 policy-NetworkPrediction = Omogoči ali onemogoči napovedovanje omrežja (vnaprejšnje pridobivanje DNS).
 policy-NewTabPage = Omogoči ali onemogoči stran novega zavihka.
 policy-NoDefaultBookmarks = Onemogoči ustvarjanje privzetih zaznamkov, vključenih v { -brand-short-name }, in Pametnih zaznamkov (Najbolj obiskano, Nedavne oznake). Opomba: ta pravilnik je uveljavljen, samo če je nastavljen pred prvo uporabo profila.
