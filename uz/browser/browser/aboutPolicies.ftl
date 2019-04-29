@@ -7,13 +7,8 @@ about-policies-title = Korporativ siyosat
 active-policies-tab = Faol
 errors-tab = Xatolar
 documentation-tab = Qo‘llanma
+no-specified-policies-message = Korporativ siyosatlar xizmati faol, lekin birorta ham siyosat yoqilmagan.
+inactive-message = Korporativ siyosatlar xizmati nofaol.
 policy-name = Siyosat nomi
 policy-value = Siyosat qiymati
 policy-errors = Siyosat xatolari
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = Guruh siyosatidan foydalanganda bu siyosatni faqat kompyuter darajasida o‘rnatish mumkin.

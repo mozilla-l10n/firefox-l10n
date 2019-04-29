@@ -29,6 +29,15 @@ community-2 = { -brand-short-name } –  <label data-l10n-name="community-mozill
 helpus = Yordam bermoqchimisiz? <label data-l10n-name="helpus-donateLink">Xayriya qiling</label> yoki <label data-l10n-name="helpus-getInvolvedLink">jamoaga qo‘shiling!</label>
 bottomLinks-license = Litsenziya ma’lumotlari
 bottomLinks-rights = Foydalanish shartlari
-bottomLinks-privacy = Maxfiylik nazorati
-aboutDialog-architecture-sixtyFourBit = 64 bit
-aboutDialog-architecture-thirtyTwoBit = 32 bit
+bottomLinks-privacy = Maxfiylik siyosati
+# Example of resulting string: 66.0.1 (64-bit)
+# Variables:
+#   $version (String): version of Firefox, e.g. 66.0.1
+#   $bits (Number): bits of the architecture (32 or 64)
+aboutDialog-version = { $version } ({ $bits }-bit)
+# Example of resulting string: 66.0a1 (2019-01-16) (64-bit)
+# Variables:
+#   $version (String): version of Firefox for Nightly builds, e.g. 66.0a1
+#   $isodate (String): date in ISO format, e.g. 2019-01-16
+#   $bits (Number): bits of the architecture (32 or 64)
+aboutDialog-version-nightly = { $version } ({ $isodate }) ({ $bits }-bit)
