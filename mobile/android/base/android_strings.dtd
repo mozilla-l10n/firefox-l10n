@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "स्वागत">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; निवडल्याबद्दल धन्यवाद">
+<!ENTITY newfirstrun_urlbar_message "&brandShortName; मध्ये आपले स्वागत आहे">
 <!ENTITY firstrun_urlbar_subtext2 "Mozillaचे आधुनिक ब्राउझर ना नफा, मुक्त आणि खुल्या वेबसाठी समर्पित आहे.">
+<!ENTITY newfirstrun_urlbar_subtext "जलद, खाजगी आणि आपल्या बाजूने.">
 <!ENTITY firstrun_panel_title_privacy "गोपनीयता">
 <!ENTITY firstrun_privacy_message "कोणीच पाहत नाही आहे असे ब्राउजिंग करा">
 <!ENTITY firstrun_privacy_subtext "ट्रॅकिंग संरक्षणसह खाजगी ब्राउझिंग ट्रॅकर्सना अवरोधित करतात आणि ब्राउझिंग पूर्ण केल्यावर आपला इतिहास लक्षात ठेवत नाही.">
+<!ENTITY newfirstrun_privacy_subtext "ऑनलाईन असताना आपल्या मागावर असणारे ट्रॅकर्स खाजगी ब्राऊझिंग मध्ये अडवले जातात.">
 <!ENTITY firstrun_panel_title_customize "सानुकूलित">
 <!ENTITY firstrun_customize_message "&brandShortName; ला स्वतःच बनवा.">
 <!ENTITY firstrun_customize_subtext "&brandShortName; अॅड-ऑन्स सह सानुकूलित करा. जाहिराती अवरोधित करा, वैशिष्ट्ये जोडा किंवा आपले व्यक्तिमत्व परिवर्तित करणारी थिम निवडा.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "ताळमेळ">
 <!ENTITY firstrun_sync_message2 "आपण जिथून सोडले तिथून उचला.">
 <!ENTITY firstrun_sync_subtext2 "आपल्या सर्व डिव्हाइसेसवर &brandShortName; मध्ये आपण जतन केलेले बुकमार्क, संकेतशब्द आणि इतर गोष्टी शोधण्यासाठी Sync वापरा.">
+<!ENTITY newfirstrun_sync_subtext "मोबाईल मध्ये साठवलेल्या गोष्टी Firefox डेस्कटॉप वर सुरक्षित आणि खाजगीरित्या मिळवा.">
 <!ENTITY firstrun_signin_message "जोडणी करा, प्रारंभ करा">
 <!ENTITY firstrun_signin_button "सींक करण्यासाठी साइन इन करा">
+<!ENTITY newfirstrun_signin_button "सिंक चालू करा">
 <!ENTITY  onboard_start_button_browser "ब्राउझिंगला सुरुवात करा">
 <!ENTITY firstrun_button_notnow "सध्या नाही">
 <!ENTITY firstrun_button_next "पुढे">
@@ -409,6 +414,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "ताळमेळीत झालेले टॅब्स">
 
 <!ENTITY pref_default_browser "मुलभूत ब्राउझर म्हणून वापरा">
+
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla सपोर्टला भेट द्या">
 <!ENTITY pref_about_firefox "&brandShortName;बद्दल">
 <!ENTITY pref_vendor_faqs "नेहमीचे प्रश्न">
@@ -503,6 +512,9 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "मागील">
 <!ENTITY find_next "पुढे">
 <!ENTITY find_close "बंद">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
