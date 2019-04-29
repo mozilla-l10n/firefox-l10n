@@ -49,6 +49,15 @@ about-telemetry-upload-type =
         [enabled] đã bật
        *[disabled] đã tắt
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+       *[other] { $sampleCount } mẫu, trung bình = { $prettyAverage }, tổng = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Trang này hiển thị thông tin về hiệu năng, phần cứng, việc sử dụng và các tùy chỉnh, được thu thập bởi Telemetry. Các thông tin này được gửi tới { $telemetryServerOwner } để giúp hoàn thiện { -brand-full-name }.
@@ -118,3 +127,5 @@ about-telemetry-category-header = thể loại
 about-telemetry-method-header = phương thức
 about-telemetry-object-header = đối tượng
 about-telemetry-extra-header = thêm
+about-telemetry-origin-origin = gốc
+about-telemetry-origin-count = đếm
