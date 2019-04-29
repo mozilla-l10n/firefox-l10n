@@ -77,6 +77,9 @@ detail-version =
 detail-last-updated =
     .label = Laste modifita
 detail-contributions-description = La programisto de tiu ĉi aldonaĵo petas al vi subteni la daŭran disvolvon per eta kontribuo.
+detail-contributions-button = Kontribui
+    .title = Kontribui al la evoluigado de tiu ĉi aldonaĵo
+    .accesskey = K
 detail-update-type =
     .value = Aŭtomataj ĝisdatigoj
 detail-update-default =
@@ -91,6 +94,13 @@ detail-update-manual =
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Lanĉi en privataj fenestroj
 detail-private-browsing-description2 = Kiam tio ĉi estas permesata, la etendaĵo havos aliron al viaj agoj en la reto, ankaŭ dum privata retumo. <label data-l10n-name="detail-private-browsing-learn-more">Pli da informo</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overriden by the user.
+detail-private-disallowed-label = Ne permesita en privataj fenestroj
+detail-private-disallowed-description = Tiu ĉi etendaĵo ne funkcias dum privata retumo. <label data-l10n-name="detail-private-browsing-learn-more">Pli da informo</label>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Ĝi postulas aliron al privataj fenestroj
+detail-private-required-description = Tiu ĉi etendaĵo havas aliron al viaj retumaj agoj dum privata retumo. <label data-l10n-name="detail-private-browsing-learn-more">Pli da informo</label>
 detail-private-browsing-on =
     .label = Permesi
     .tooltiptext = Aktivigi en privata retumo
@@ -236,6 +246,10 @@ shortcuts-modifier-other = Inkluzivi Stir aŭ Alt
 shortcuts-invalid = Nevalida kombino
 shortcuts-letter = Tajpu literon
 shortcuts-system = Ne eblas anstataŭigi alirklavon de { -brand-short-name }
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Jam uzata de { $addon }
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Montri { $numberToShow } pli
@@ -253,3 +267,20 @@ enable-addon-button = Aktivigi
 expand-addon-button = Pli da elektebloj
 addons-enabled-heading = Aktiva
 addons-disabled-heading = Malaktiva
+addon-detail-author-label = Aŭtoro
+addon-detail-version-label = Versio
+addon-detail-last-updated-label = Laste ĝisdatigita
+addon-detail-homepage-label = Ĉefpaĝo
+addon-detail-rating-label = Taksado
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (malaktiva)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } revizio
+       *[other] { $numberOfReviews } revizioj
+    }
