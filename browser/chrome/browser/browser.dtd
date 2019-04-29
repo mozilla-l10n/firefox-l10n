@@ -220,9 +220,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
 <!ENTITY fxa.signin.callout.label "Ta med deg Firefox">
+<!ENTITY fxa.signin.description.label "Få dine bokmerker, historikk, passord, og andre innstillinger på alle enhetene dine.">
+<!ENTITY fxa.signin.button.label "Slå på &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "Sjekk e-posten din">
+<!ENTITY fxa.unverified.description.label "Du må bekrefte kontoen din før du kan synkronisere.">
 <!ENTITY fxa.unverified.button.label "Åpne &syncBrand.shortName.label;-innstillinger">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
@@ -467,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Tøm nylig historikk …">
 <!ENTITY appMenuHistory.restoreSession.label "Gjenopprett forrige programøkt">
 <!ENTITY appMenuHistory.viewSidebar.label "Vis historikksidestolpe">
+<!ENTITY appMenuHistory.hideSidebar.label "Gjem sidestolpen Historikk">
 <!ENTITY appMenuHistory.recentHistory.label "Nylig historikk">
 <!ENTITY appMenuHelp.label "Hjelp">
 
@@ -495,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Logg inn på Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administrer enheter …">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vis sidestolpe med synkroniserte faner">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Gjem sidestolpen Synkroniserte faner">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Koble til en annen enhet">
 
 <!ENTITY appMenuRecentHighlights.label "Siste høydepunkter">
@@ -960,6 +966,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Logg inn på &syncBrand.shortName.label; …">
 <!ENTITY syncSignIn.accesskey         "L">
 <!ENTITY syncSyncNowItem.label        "Synkroniser nå">
+<!ENTITY syncSyncNowItemSyncing.label "Synkroniserer…">
 <!ENTITY syncSyncNowItem.accesskey    "r">
 <!ENTITY syncReAuthItem.label         "Koble til &syncBrand.shortName.label; på nytt …">
 <!ENTITY syncReAuthItem.accesskey     "o">
@@ -1163,6 +1170,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Administrer utvidelsene dine ved å klikke på <image class='addon-addon-icon'/> i menyen <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Tillat denne utvidelsen å kjøre i private vinduer">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "T">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Endring av hvordan utvidelser virker i private vindu">
 <!ENTITY addonPrivateBrowsing.body2.label "Eventuelle nye utvidelser du legger til &brandShorterName; vil ikke fungere i private vinuder med mindre du tillater dette i innstillingene.">
