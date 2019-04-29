@@ -56,6 +56,16 @@ about-telemetry-upload-type =
         [enabled] સક્ષમ
        *[disabled] અક્ષમ કરેલ
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } નમૂના, સરેરાશ = { $prettyAverage }, સરવાળો = { $sum }
+       *[other] { $sampleCount } નમૂનાઓ, સરેરાશ = { $prettyAverage }, સરવાળો = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = This page shows the information about performance, hardware, usage and customizations collected by Telemetry. This information is submitted to { $telemetryServerOwner } to help improve { -brand-full-name }.
@@ -125,3 +135,5 @@ about-telemetry-category-header = શ્રેણી
 about-telemetry-method-header = પદ્ધતિ
 about-telemetry-object-header = ઑબ્જેક્ટ
 about-telemetry-extra-header = વધારાની
+about-telemetry-origin-origin = મૂળ
+about-telemetry-origin-count = સંખ્યા
