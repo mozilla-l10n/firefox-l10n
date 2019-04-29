@@ -1127,7 +1127,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "r">
 <!ENTITY updateRestart.cancelButton.label "Ikke nå">
 <!ENTITY updateRestart.cancelButton.accesskey "n">
-<!ENTITY updateRestart.panelUI.label2 "Start om for å oppdatere &brandShorterName;">
+<!ENTITY updateRestart.panelUI.label2 "Start på nytt for å oppdatere &brandShorterName;">
 
 <!ENTITY newTabControlled.header.message "Din ny fane-side har blitt endret.">
 <!ENTITY newTabControlled.keepButton.label "Behold endringer">
