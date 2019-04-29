@@ -23,6 +23,6 @@ sync-label = Tatz'ib'aj ataqoya'l
 sync-input =
     .placeholder = Taqoya'l
 sync-button = Titikïr chik el
-sync-terms = Pa rub'eyal, rat nawojqaj ri <a id="fxa-tos" href="/legal/terms">Rojqanem Samaj</a> chuqa' <a id="fxa-pp" href="/legal/privacy">Rutzijol Ichinanem</a>.
+sync-terms = Pa rub'eyal, rat nawojqaj ri <a data-l10n-name="terms">Rojqanem Samaj</a> chuqa' <a data-l10n-name="privacy">Rutzijol Ichinanem</a>.
 sync-first = ¿La k'a ja nab'ey mul nawokisaj { -sync-brand-name }? K'o chi natikirisaj molojri'ïl pa jujun ruyakoj Firefox richin ye'axïm ri taq awetamab'al.
 sync-learn = Tetamäx ch'aqa' chik
