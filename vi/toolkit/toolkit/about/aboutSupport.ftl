@@ -221,6 +221,7 @@ has-seccomp-tsync = Đồng bộ hóa chủ đề Seccomp
 has-user-namespaces = User Namespaces
 has-privileged-user-namespaces = User Namespaces với các tiến trình ưu tiên
 can-sandbox-content = Nội dung tiến trình Sandboxing
+can-sandbox-media = Media Plugin Sandboxing
 content-sandbox-level = Cấp độ quy trình nội dung hộp cát
 effective-content-sandbox-level = Cấp độ hiệu quả nội dung hộp cát
 sandbox-proc-type-content = nội dung
