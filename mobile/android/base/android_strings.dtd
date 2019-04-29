@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Καλώς ήλθατε">
 <!ENTITY firstrun_urlbar_message2 "Ευχαριστούμε που επιλέξατε το &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Καλώς ορίσατε στο &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Ένα σύγχρονο πρόγραμμα περιήγησης για κινητά από τη Mozilla, τον μη κερδοσκοπικό οργανισμό, που έχει αφοσιωθεί σε ένα ελεύθερο και ανοικτό διαδίκτυο.">
+<!ENTITY newfirstrun_urlbar_subtext "Γρήγορο, ιδιωτικό και στο πλευρό σας.">
 <!ENTITY firstrun_panel_title_privacy "Απόρρητο">
 <!ENTITY firstrun_privacy_message "Περιηγηθείτε σαν να μην βλέπει κανείς">
 <!ENTITY firstrun_privacy_subtext "Η ιδιωτική περιήγηση με προστασία από καταγραφή αποκλείει ιχνηλάτες ενώ περιηγείστε και θα διαγράψει το ιστορικό σας όταν τελειώσετε με την περιήγηση.">
+<!ENTITY newfirstrun_privacy_subtext "Η ιδιωτική περιήγηση αποκλείει ιχνηλάτες διαφήμισης που σάς ακολουθούν στο διαδίκτυο.">
 <!ENTITY firstrun_panel_title_customize "Προσαρμογή">
 <!ENTITY firstrun_customize_message "Κάντε το &brandShortName; δικό σας.">
 <!ENTITY firstrun_customize_subtext "Προσαρμόστε το &brandShortName; με πρόσθετα. Αποκλείστε διαφημίσεις, προσθέστε λειτουργίες ή επιλέξτε ένα νέο θέμα για να αναδείξετε την προσωπικότητά σας.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Συνεχίστε από εκεί που σταματήσατε.">
 <!ENTITY firstrun_sync_subtext2 "Χρησιμοποιήστε το Sync για να βρείτε τους σελιδοδείκτες, τους κωδικούς πρόσβασης και άλλα στοιχεία που αποθηκεύετε στο &brandShortName;, σε όλες σας τις συσκευές.">
+<!ENTITY newfirstrun_sync_subtext "Συγχρονίστε τα δεδομένα που αποθηκεύετε στο κινητό με το Firefox για υπολογιστές, με ασφάλεια και απόρρητο.">
 <!ENTITY firstrun_signin_message "Συνδεθείτε και ξεκινήστε">
 <!ENTITY firstrun_signin_button "Είσοδος στο Sync">
+<!ENTITY newfirstrun_signin_button "Ενεργοποίηση Sync">
 <!ENTITY  onboard_start_button_browser "Έναρξη περιήγησης">
 <!ENTITY firstrun_button_notnow "Όχι τώρα">
 <!ENTITY firstrun_button_next "Επόμενο">
@@ -413,7 +418,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_default_browser2 "Ορισμός του &brandShortName; ως προεπιλογής">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
-    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Πατήστε το \&quot;Εφαρμογή προγρ. περιήγησης\&quot; &amp; επιλέξτε το &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Επισκεφθείτε την Υποστήριξη Mozilla">
 <!ENTITY pref_about_firefox "Σχετικά με το &brandShortName;">
