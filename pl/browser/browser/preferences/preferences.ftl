@@ -787,7 +787,7 @@ collection-studies =
     .label = Instalowanie i przeprowadzanie badań.
 collection-studies-link = Wyświetl badania
 addon-recommendations =
-    .label = Personalizowane polecenia rozszerzeń
+    .label = Personalizowane polecenia rozszerzeń.
 addon-recommendations-link = Więcej informacji
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
