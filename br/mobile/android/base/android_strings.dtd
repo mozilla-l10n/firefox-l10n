@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Donemat">
 <!ENTITY firstrun_urlbar_message2 "Trugarez deoc\&apos;h evit bezañ dibabet &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Donemat war &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Ur merdeer hezoug arnevez savet gant Mozilla, an aozadur hep pal arc\&apos;hantel gouestlet d\&apos;ur web frank ha digor.">
+<!ENTITY newfirstrun_urlbar_subtext "Prim, prevez, ha deus ho tu.">
 <!ENTITY firstrun_panel_title_privacy "Buhez prevez">
 <!ENTITY firstrun_privacy_message "Merdeit evel ma ne vefe den o sellet">
 <!ENTITY firstrun_privacy_subtext "Ar merdeiñ prevez gant ar gwarez heuliañ a stank an heulierien e-pad m\&apos;emaoc\&apos;h o verdeiñ ha ne enroll ket ho roll istor.">
+<!ENTITY newfirstrun_privacy_subtext "Ar merdeiñ prevez a stank an heulierien bruderezh a heuilh ac\&apos;hanoc\&apos;h enlinenn.">
 <!ENTITY firstrun_panel_title_customize "Personelaat">
 <!ENTITY firstrun_customize_message "Adperc\&apos;hennit &brandShortName;.">
 <!ENTITY firstrun_customize_subtext "Personelait &brandShortName; gant askouezhioù. Stankit ar bruderezh, ouzhpennit keweriusterioù pe dibabit un neuz nevez evit ezteurel ho personelezh.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Adloc\&apos;hit el lec\&apos;h m\&apos;ho peus paouezet.">
 <!ENTITY firstrun_sync_subtext2 "Grit gant Sync evit adkavout ar sinedoù, ar gerioù-tremen, hag an holl draoù enrollet e &brandShortName; war ho holl drevnadoù.">
+<!ENTITY newfirstrun_sync_subtext "Goubredit ar pezh a enrollit war hoc\&apos;h hezougell evit Firefox war urzhiataer, en un doare prevez ha diogel.">
 <!ENTITY firstrun_signin_message "Kennaskit, krogit ganti">
 <!ENTITY firstrun_signin_button "Kennaskañ ouzh Sync">
+<!ENTITY newfirstrun_signin_button "Gweredekaat Sync">
 <!ENTITY  onboard_start_button_browser "Krog da verdeiñ">
 <!ENTITY firstrun_button_notnow "Ket evit ar mare">
 <!ENTITY firstrun_button_next "War-lerc\&apos;h">
@@ -409,6 +414,12 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "Ivinelloù goubredet">
 
 <!ENTITY pref_default_browser "Lakaat da verdeer dre ziouer">
+
+<!ENTITY pref_default_browser2 "Lakaat &brandShortName; da vezañ ho merdeer dre ziouer">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Stokit an arload Merdeer &amp; dibabit &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Gweladennit Skor Mozilla">
 <!ENTITY pref_about_firefox "Diwar-benn &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAG">
@@ -503,6 +514,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "Kent">
 <!ENTITY find_next "War-lerc\&apos;h">
 <!ENTITY find_close "Serriñ">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "N\&apos;haller ket kavout ar frazenn">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
