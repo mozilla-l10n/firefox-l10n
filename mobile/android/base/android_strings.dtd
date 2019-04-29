@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "환영합니다">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName;를 선택해 주셔서 감사합니다">
+<!ENTITY newfirstrun_urlbar_message "&brandShortName;에 오신 것을 환영합니다">
 <!ENTITY firstrun_urlbar_subtext2 "자유롭고 개방된 웹을 위해 일하는 비영리재단 Mozilla에서 만든 최신 모바일 브라우저입니다.">
+<!ENTITY newfirstrun_urlbar_subtext "빠르고, 안전하며, 여러분의 편에 서 있습니다.">
 <!ENTITY firstrun_panel_title_privacy "개인 정보">
 <!ENTITY firstrun_privacy_message "아무도 보지 못하는 것처럼 웹을 탐색하세요">
 <!ENTITY firstrun_privacy_subtext "추적 방지가 되어 있는 개인정보 보호 브라우징은 추적자를 차단하고 브라우징을 마칠 때 탐색 기록을 저장하지 않습니다.">
+<!ENTITY newfirstrun_privacy_subtext "사생활 보호 모드는 온라인에서 여러분을 추적하는 광고 추적기를 차단합니다.">
 <!ENTITY firstrun_panel_title_customize "개인화">
 <!ENTITY firstrun_customize_message "나만의 &brandShortName;를 만드세요.">
 <!ENTITY firstrun_customize_subtext "부가 기능으로 &brandShortName;를 개인화 해보세요. 광고를 차단하고 새 기능을 추가하고 새로운 테마를 골라보세요.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "중단했던 지점에서 다시 시작하세요.">
 <!ENTITY firstrun_sync_subtext2 "Sync를 이용해서 즐겨찾기나 비밀번호, &brandShortName;에 저장한 다른 설정을 사용하는 모든 기기에서 찾아보세요.">
+<!ENTITY newfirstrun_sync_subtext "사적으로 안전하게 모바일 환경에서 저장한 것을 데스크탑용 Firefox와 동기화하세요.">
 <!ENTITY firstrun_signin_message "연결 및 시작하기">
 <!ENTITY firstrun_signin_button "Sync 로그인">
+<!ENTITY newfirstrun_signin_button "Sync 켜기">
 <!ENTITY  onboard_start_button_browser "브라우징 시작">
 <!ENTITY firstrun_button_notnow "다음에">
 <!ENTITY firstrun_button_next "다음">
@@ -413,7 +418,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_default_browser2 "&brandShortName;를 기본 웹 브라우저로 만들기">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
-    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "브라우저 앱을 탭하고 &brandShortName;를 선택하세요">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla 도움말 방문">
 <!ENTITY pref_about_firefox "&brandShortName; 정보">
