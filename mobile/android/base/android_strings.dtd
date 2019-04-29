@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Velkommen">
 <!ENTITY firstrun_urlbar_message2 "Tak for at du valgte &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Velkommen til &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "En moderne mobil browser fra Mozilla, nonprofit-organisationen der er dedikeret til et frit og åbent internet.">
+<!ENTITY newfirstrun_urlbar_subtext "Hurtig, privat og på din side.">
 <!ENTITY firstrun_panel_title_privacy "Privatliv">
 <!ENTITY firstrun_privacy_message "Surf på nettet uden at føle dig overvåget">
 <!ENTITY firstrun_privacy_subtext "Privat browsing med beskyttelse mod sporing blokerer for elementer, der registrerer data om dig, og din historik gemmes ikke, når du er færdig.">
+<!ENTITY newfirstrun_privacy_subtext "Privat browsing blokerer sporing fra reklamer, der følger dig online.">
 <!ENTITY firstrun_panel_title_customize "Tilpas">
 <!ENTITY firstrun_customize_message "Gør &brandShortName; til din egen.">
 <!ENTITY firstrun_customize_subtext "Tilpas &brandShortName; med tilføjelser. Bloker annoncer, tilføj funktioner eller vælg et tema, der passer til dig.">
@@ -22,6 +25,7 @@
 <!ENTITY firstrun_sync_subtext2 "Brug Sync til at finde bogmærker, adgangskoder og andet du har gemt i &brandShortName; på alle dine enheder.">
 <!ENTITY firstrun_signin_message "Bliv forbundet, start">
 <!ENTITY firstrun_signin_button "Log ind på Sync">
+<!ENTITY newfirstrun_signin_button "Aktiver Sync">
 <!ENTITY  onboard_start_button_browser "Start surfing">
 <!ENTITY firstrun_button_notnow "Ikke nu">
 <!ENTITY firstrun_button_next "Næste">
@@ -409,6 +413,12 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "Synkroniserede faneblade">
 
 <!ENTITY pref_default_browser "Angiv som standardbrowser">
+
+<!ENTITY pref_default_browser2 "Gør &brandShortName; til din standardbrowser">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Tryk på Browser-app &amp; vælg &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Besøg Mozilla Support">
 <!ENTITY pref_about_firefox "Om &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">
@@ -503,6 +513,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "Forrige">
 <!ENTITY find_next "Næste">
 <!ENTITY find_close "Luk">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "Udtrykket blev ikke fundet">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
