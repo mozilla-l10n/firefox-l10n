@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = ट्रबलशूट करपाक माहिती
-page-subtitle = ह्या पानान तांत्रिक माहिती आसा जाचो तुमका आडमेळ सोडोवपाक उपेग जाव येता. तुमी { -brand-short-name } विशीं सामान्य प्रस्नांक जाप सोदतात जाल्यार, आमची <a id='फाटबळजोडणी'>फाटबळ सायट पळयात</a>.
 crashes-title = क्रॅश अहवाल
 crashes-id = अहवाल ID
 crashes-send-date = सादर केला
