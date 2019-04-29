@@ -500,7 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Logg inn på Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Handter einingar…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vis sidestolpe for synkroniserte faner">
-<!ENTITY appMenuRemoteTabs.hidesidebar.label "Gøym sidestolpen Synkroniserte filer">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Gøym sidestolpen Synkroniserte faner">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Kople til ei anna eining">
 
 <!ENTITY appMenuRecentHighlights.label "Siste høgdepunkt">
