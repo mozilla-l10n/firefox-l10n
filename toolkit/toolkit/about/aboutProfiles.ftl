@@ -8,6 +8,13 @@ profiles-create = Opret en ny profil
 profiles-restart-title = Genstart
 profiles-restart-in-safe-mode = Genstart med tilføjelser deaktiveret…
 profiles-restart-normal = Genstart normalt…
+
+profiles-conflict = En anden kopi af { -brand-product-name } har lavet ændringer til profiler. Du skal genstarte { -brand-short-name }, før du laver flere ændringer.
+profiles-flush-fail-title = Ændringerne blev ikke gemt
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = En uventet fejl har forhindret dine ændringer fra at blive gemt.
+profiles-flush-restart-button = Genstart { -brand-short-name }
+
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profil: { $name }
