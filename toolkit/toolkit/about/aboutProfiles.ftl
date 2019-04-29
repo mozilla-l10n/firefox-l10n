@@ -8,6 +8,7 @@ profiles-create = Créer un nouveau profil
 profiles-restart-title = Redémarrer
 profiles-restart-in-safe-mode = Redémarrer avec les modules désactivés…
 profiles-restart-normal = Redémarrer normalement…
+profiles-conflict = Une autre copie de { -brand-product-name } a apporté des modifications aux profils. Vous devez redémarrer { -brand-short-name } avant de procéder à d’autres changements.
 profiles-flush-fail-title = Modifications non enregistrées
 profiles-flush-conflict = { profiles-conflict }
 profiles-flush-failed = Une erreur inattendue a empêché l’enregistrement de vos modifications.
