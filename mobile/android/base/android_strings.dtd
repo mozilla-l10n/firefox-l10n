@@ -4,10 +4,12 @@
 
 <!ENTITY firstrun_panel_title_welcome "Bienvenue">
 <!ENTITY firstrun_urlbar_message2 "Merci d’avoir choisi &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Bienvenue dans &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Un navigateur mobile et moderne par Mozilla, l’organisation à but non lucratif qui s’engage à défendre un Web libre et ouvert.">
 <!ENTITY firstrun_panel_title_privacy "Vie privée">
 <!ENTITY firstrun_privacy_message "Naviguez comme si personne ne vous regardait">
 <!ENTITY firstrun_privacy_subtext "La navigation privée avec la protection contre le pistage bloque les traqueurs lorsque vous naviguez et ne conserve pas votre historique lorsque vous avez terminé.">
+<!ENTITY newfirstrun_privacy_subtext "La navigation privée bloque les traqueurs publicitaires qui vous suivent de site en site.">
 <!ENTITY firstrun_panel_title_customize "Personnalisation">
 <!ENTITY firstrun_customize_message "Personnalisez &brandShortName;">
 <!ENTITY firstrun_customize_subtext "Modifiez &brandShortName; grâce aux modules complémentaires. Bloquez les publicités, ajoutez des fonctionnalités ou choisissez un nouveau thème qui reflète votre personnalité.">
@@ -22,6 +24,7 @@
 <!ENTITY firstrun_sync_subtext2 "Utilisez Sync pour accéder aux marque-pages, mots de passe et autres données que vous conservez dans &brandShortName; sur vos autres appareils.">
 <!ENTITY firstrun_signin_message "Connectez-vous, lancez-vous">
 <!ENTITY firstrun_signin_button "Se connecter à Sync">
+<!ENTITY newfirstrun_signin_button "Activer la synchronisation">
 <!ENTITY  onboard_start_button_browser "Commencer la navigation">
 <!ENTITY firstrun_button_notnow "Plus tard">
 <!ENTITY firstrun_button_next "Suivant">
@@ -409,6 +412,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "Onglets synchronisés">
 
 <!ENTITY pref_default_browser "Définir comme navigateur par défaut">
+
+<!ENTITY pref_default_browser2 "Faire de &brandShortName; votre navigateur par défaut">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY pref_default_browser_mozilla_support_tablet "Consulter l’assistance de Mozilla">
 <!ENTITY pref_about_firefox "À propos de &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
@@ -503,6 +511,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "Précédent">
 <!ENTITY find_next "Suivant">
 <!ENTITY find_close "Fermer">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "Texte non trouvé">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
