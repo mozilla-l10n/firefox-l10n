@@ -471,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Bersihkan Riwayat Terakhir">
 <!ENTITY appMenuHistory.restoreSession.label "Pulihkan Sesi Sebelumnya">
 <!ENTITY appMenuHistory.viewSidebar.label "Tampilkan Bilah Samping Riwayat">
+<!ENTITY appMenuHistory.hideSidebar.label "Sembunyikan Bilah Samping Riwayat">
 <!ENTITY appMenuHistory.recentHistory.label "Riwayat Terakhir">
 <!ENTITY appMenuHelp.label "Bantuan">
 
@@ -499,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Masuk ke Sinkronisasi">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Kelola Perangkat…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Tampilkan Bilah Samping Tab yang Disinkronkan ">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Sembunyikan Bilah Samping Tab yang Disinkronkan">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Sambungkan Perangkat Lainnya">
 
 <!ENTITY appMenuRecentHighlights.label "Sorotan Terkini">
