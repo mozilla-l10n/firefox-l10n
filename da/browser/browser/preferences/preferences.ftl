@@ -705,6 +705,9 @@ addressbar-suggestions-settings = Skift indstillinger for søgeforslag
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blokering af indhold
+
+content-blocking-section-description = Beskyt dit privatliv på nettet. Bloker usynligt indhold, der sporer, hvilke websteder du besøger, og opretter profiler ud fra din adfærd. Ved at blokere noget af dette indhold kan sider indlæses hurtigere.
+
 content-blocking-desc = Bloker indhold fra tredjepart, fx reklamer eller kode, der kan gøre din browsing langsommere og som kan spore dig rundt på nettet. Tilpas dine indstillinger for at få den bedste balance mellem beskyttelse og ydelse.
 
 content-blocking-description = Bloker tredjeparts-indhold, der sporer dig rundt på nettet. Kontroller hvor meget af din aktivitet på nettet, der gemmes og deles mellem websteder.

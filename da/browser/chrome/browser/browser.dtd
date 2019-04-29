@@ -513,6 +513,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Ryd seneste historik…">
 <!ENTITY appMenuHistory.restoreSession.label "Gendan forrige session">
 <!ENTITY appMenuHistory.viewSidebar.label "Vis historik i sidepanel">
+<!ENTITY appMenuHistory.hideSidebar.label "Skjul historik i sidepanel">
 <!ENTITY appMenuHistory.recentHistory.label "Seneste historik">
 <!ENTITY appMenuHelp.label "Hjælp">
 <!ENTITY appMenuHelp.tooltip "Åbn menuen Hjælp">
@@ -544,6 +545,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Log ind på Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Håndter enheder…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vis synkroniserede faneblade i sidepanel">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Skjul synkroniserede faneblade i sidepanel">
 
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Opret forbindelse til en ny enhed">
 

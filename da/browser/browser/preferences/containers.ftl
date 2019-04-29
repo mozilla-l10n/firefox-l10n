@@ -52,6 +52,13 @@ containers-color-pink =
     .label = Pink
 containers-color-purple =
     .label = Lilla
+
+containers-color-toolbar =
+    .label = Match værktøjslinje
+
+containers-icon-fence =
+    .label = Hegn
+
 containers-icon-fingerprint =
     .label = Fingeraftryk
 containers-icon-briefcase =

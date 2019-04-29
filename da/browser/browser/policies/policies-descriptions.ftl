@@ -102,6 +102,8 @@ policy-Homepage = Indstil og lås eventuelt startsiden.
 
 policy-InstallAddonsPermission = Tillad bestemte websteder at installere tilføjelser.
 
+policy-LocalFileLinks = Tillad specifikke websteder at linke til lokale filer.
+
 policy-NetworkPrediction = Slå network prediction (DNS prefetching) til eller fra.
 
 policy-NewTabPage = Slå siden Nyt faneblad til eller fra.
@@ -125,6 +127,8 @@ policy-Proxy = Opsæt proxy-indstillinger.
 policy-RequestedLocales = Vælg rækkefølgen af sprog, der skal anvendes i programmet.
 
 policy-SanitizeOnShutdown = Ryd al browsing-data ved lukning.
+
+policy-SanitizeOnShutdown2 = Ryd browsing-data ved lukning.
 
 policy-SearchBar = Indstil standard-placering af søgefeltet. Brugeren kan stadig tilpasse feltet. 
 
