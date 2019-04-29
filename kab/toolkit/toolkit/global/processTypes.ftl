@@ -9,3 +9,6 @@ process-type-privileged = Agbur ittwafernen
 process-type-extension = Asiɣzef
 # process used to open file:// URLs
 process-type-file = afaylu adigan
+# process used to communicate with the GPU for
+# graphics acceleration
+process-type-gpu = GPU

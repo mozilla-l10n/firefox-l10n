@@ -125,3 +125,5 @@ about-telemetry-category-header = Taggayt
 about-telemetry-method-header = tarrayt
 about-telemetry-object-header = Taɣawsa
 about-telemetry-extra-header = asemmadan
+about-telemetry-origin-origin = aɣbalu
+about-telemetry-origin-count = Amḍan
