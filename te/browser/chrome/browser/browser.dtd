@@ -994,6 +994,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.openBreakageReportView2.label "ఒక సమస్యను నివేదించండి">
 <!ENTITY contentBlocking.breakageReportView.label "సమస్యలను నివేదించండి">
 <!ENTITY contentBlocking.breakageReportView.learnMore "ఇంకా తెలుసుకోండి">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "మీకు ఏమి సమస్యలు ఎదురయ్యాయి? (ఐచ్ఛికం)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "నివేదికను పంపించు">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "రద్దుచేయి">
