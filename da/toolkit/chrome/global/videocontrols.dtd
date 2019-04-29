@@ -15,6 +15,10 @@
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Lydstyrke">
 
+<!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
+the Picture-in-Picture video toggle button when the mouse is hovering it. -->
+<!ENTITY pictureInPicture.label "Billede-i-billede">
+
 <!ENTITY stats.media "Medieindhold">
 <!ENTITY stats.size "Størrelse">
 <!ENTITY stats.activity "Aktivitet">
