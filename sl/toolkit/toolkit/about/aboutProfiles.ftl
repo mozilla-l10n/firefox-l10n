@@ -8,6 +8,7 @@ profiles-create = Ustvari nov profil
 profiles-restart-title = Ponovno zaženi
 profiles-restart-in-safe-mode = Ponovno zaženi z onemogočenimi dodatki …
 profiles-restart-normal = Običajen ponovni zagon …
+profiles-conflict = Druga namestitev { -brand-product-name }a je spremenila podatke v profilu. Pred nadaljnjimi spremembami morate ponovno zagnati { -brand-short-name }.
 profiles-flush-fail-title = Spremembe niso bile shranjene
 profiles-flush-conflict = { profiles-conflict }
 profiles-flush-failed = Nepričakovana napaka je preprečila shranjevanje sprememb.
