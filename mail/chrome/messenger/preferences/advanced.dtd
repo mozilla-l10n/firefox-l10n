@@ -11,7 +11,7 @@
 <!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Ativar pesquisa global e indexação">
 <!ENTITY enableGlodaSearch.accesskey   "A">
-<!ENTITY dateTimeFormatting.label      "Formatação de Data e Hora">
+<!ENTITY dateTimeFormatting.label      "Formatação de data e hora">
 <!ENTITY languageSelector.label        "Idioma">
 <!ENTITY allowHWAccel.label            "Usar aceleração de hardware quando disponível">
 <!ENTITY allowHWAccel.accesskey        "h">
