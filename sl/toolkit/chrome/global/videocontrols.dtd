@@ -10,10 +10,13 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Izhod iz celozaslonskega načina">
 <!ENTITY castingButton.castingLabel "Predvajaj na zaslonu">
 <!ENTITY closedCaption.off "Izklopljeno">
-
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Drsnik za glasnost">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
+the Picture-in-Picture video toggle button when the mouse is hovering it. -->
+<!ENTITY pictureInPicture.label "Slika v sliki">
 
 <!ENTITY stats.media "Vsebina">
 <!ENTITY stats.size "Velikost">
@@ -34,6 +37,8 @@
 <!ENTITY error.srcNotSupported "Zapis ali vrsta MIME videa nista podprta.">
 <!ENTITY error.noSource2 "Ni bilo mogoče najti videa s podprtim zapisom ali vrsto MIME.">
 <!ENTITY error.generic "Predvajanje videa prekinjeno zaradi neznane napake.">
+
+<!ENTITY status.pictureInPicture "Ta videoposnetek se predvaja v načinu Slika v sliki.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

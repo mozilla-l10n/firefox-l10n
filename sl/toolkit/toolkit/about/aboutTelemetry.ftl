@@ -125,3 +125,5 @@ about-telemetry-category-header = kategorija
 about-telemetry-method-header = metoda
 about-telemetry-object-header = predmet
 about-telemetry-extra-header = dodatno
+about-telemetry-origin-origin = izvor
+about-telemetry-origin-count = število

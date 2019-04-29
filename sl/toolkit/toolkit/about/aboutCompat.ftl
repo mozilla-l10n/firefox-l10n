@@ -4,6 +4,7 @@
 
 label-disable = Onemogoči
 label-enable = Omogoči
+label-interventions = Posredovanja
 label-more-information = Več informacij: hrošč { $bug }
 label-overrides = Preglasitve uporabniškega agenta
 text-disabled-in-about-config = Ta možnost je onemogočena v about:config
