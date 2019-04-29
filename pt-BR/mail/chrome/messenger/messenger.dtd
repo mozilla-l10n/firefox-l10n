@@ -467,9 +467,9 @@
 <!ENTITY addressBookCmd.key "b">
 <!ENTITY addons.label "Extensões">
 <!ENTITY addons.accesskey "C">
-<!ENTITY addonPrefs.label "Opções da extensão">
+<!ENTITY addonPrefs.label "Opções de extensões">
 <!ENTITY addonPrefs.accesskey "O">
-<!ENTITY addonPrefsUnix.label "Preferências da extensão">
+<!ENTITY addonPrefsUnix.label "Preferências de extensões">
 <!ENTITY addonPrefsUnix.accesskey "P">
 <!ENTITY addonNoPrefs.label "Nenhuma extensão configurada.">
 <!ENTITY activitymanager.label "Gerenciador de atividade">
