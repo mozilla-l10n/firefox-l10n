@@ -56,6 +56,16 @@ about-telemetry-upload-type =
         [enabled] slått på
        *[disabled] slått av
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } utvalg, gjennomsnitt = { $prettyAverage }, sum = { $sum }
+       *[other] { $sampleCount } utvalg, gjennomsnitt = { $prettyAverage }, sum = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Denne siden viser info om ytelse, maskinvare, bruksmønster og utvidelser som er innsamlet av Telemetry. Denne infoen sendes til { $telemetryServerOwner } for å hjelpe forbedre { -brand-full-name }.
@@ -128,3 +138,6 @@ about-telemetry-extra-header = ekstra
 about-telemetry-origin-section = Origin Telemetry
 about-telemetry-origin-origin = opprinnelse
 about-telemetry-origin-count = antall
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> koder informasjon før det blir sendt. Det betyr at { $telemetryServerOwner } kan telle ting, men vet ikke om noen installasjon fra { -brand-product-name } bidro til det samlede antallet. (<a data-l10n-name="prio-blog-link">Les mer</a>)
