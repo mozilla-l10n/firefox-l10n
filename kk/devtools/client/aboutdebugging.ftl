@@ -103,6 +103,14 @@ about-debugging-setup-usb-updating-button = Жаңарту…
 about-debugging-setup-usb-status-enabled = Іске қосылған
 about-debugging-setup-usb-status-disabled = Сөндірілген
 about-debugging-setup-usb-status-updating = Жаңартылу…
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu = Android құрылғыңызда әзірлеуші мәзірін іске қосыңыз. <a>Тәсілін біру</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug = Android әзірлеуші мәзірінде USB арқылы жөндеуді іске қосыңыз. <a>Тәсілін біру</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox = Android құрылғыңыздағы Firefox-та USB арқылы жөндеуді іске қосыңыз. <a>Тәсілін біру</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-plug-device = Android құрылғысын компьютерге қосыңыз.
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Желілік орналасу
@@ -118,6 +126,14 @@ about-debugging-network-locations-host-input-label = Хост
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Өшіру
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = "{ $host-value }" хост аты жарамсыз. Күтілген пішімі "hostname:portnumber".
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = "{ $host-value }" хост аты тіркелген болып тұр
 
 # Runtime Page strings
 
@@ -144,6 +160,13 @@ about-debugging-runtime-other-workers =
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Процестер
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button = Орындалу ортасын профильдеу
+# This string is displayed in the runtime page if the current configuration of the
+# target runtime is incompatible with service workers. "Learn more" points to MDN.
+# https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
+about-debugging-runtime-service-workers-not-compatible = Сіздің браузеріңіздің баптаулары Service Workers қолдамайды. <a>Көбірек білу</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -151,6 +174,19 @@ about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Байланысты үзу
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = Қосылу туралы сұрауды іске қосу
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is true on the target runtime.
+about-debugging-connection-prompt-disable-button = Қосылу туралы сұрауды сөндіру
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title = Өнімділік профильдеушісі
+# Label of a checkbox displayed in the runtime page for "This Firefox".
+# This checkbox will toggle preferences that enable local addon debugging.
+# The "Learn more" link points to MDN.
+# https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
+about-debugging-extension-debug-setting-label = Кеңейтуді жөндеуді іске қосу. <a>Көбірек білу</a>
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.

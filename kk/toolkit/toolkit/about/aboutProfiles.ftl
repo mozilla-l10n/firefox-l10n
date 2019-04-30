@@ -8,6 +8,7 @@ profiles-create = Жаңа профильді жасау
 profiles-restart-title = Қайта қосу
 profiles-restart-in-safe-mode = Сөндірілген қосымшалармен қайта қосу…
 profiles-restart-normal = Қалыпты қайта қосу…
+profiles-conflict = { -brand-product-name } басқа нұсқасы профильдерге өзгерістер жасады. Көбірек өзгерістерді жасау алдында, { -brand-short-name } қайта іске қосу керек.
 profiles-flush-fail-title = Өзгерістер сақталмады
 profiles-flush-conflict = { profiles-conflict }
 profiles-flush-failed = Күтпеген қате өзгерістерді сақтауға жол бермеді.

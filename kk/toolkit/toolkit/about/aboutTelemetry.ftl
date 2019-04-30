@@ -56,6 +56,15 @@ about-telemetry-upload-type =
         [enabled] іске қосылған
        *[disabled] сөндірілген
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+       *[other] { $sampleCount } үлгі, орташасы = { $prettyAverage }, сомасы = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Бұл парақта телеметриямен жиналған өнімділік, құрылғылар, қолданылу мен баптаулар туралы ақпаратты көрсетеді. Бұл ақпарат { $telemetryServerOwner } адресіне, { -brand-full-name } жақсартуға көмектесу үшін жіберіледі.
@@ -125,3 +134,9 @@ about-telemetry-category-header = санат
 about-telemetry-method-header = тәсіл
 about-telemetry-object-header = объект
 about-telemetry-extra-header = қосымша
+about-telemetry-origin-section = Қайнар көздер телеметриясы
+about-telemetry-origin-origin = қайнар көзі
+about-telemetry-origin-count = саны
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox қайнар көзі телеметриясы</a> жіберуге дейін деректерді шифрлейді, осылайша { $telemetryServerOwner } нәрселерді санай алады, бірақ, берілген { -brand-product-name } оған үлесін қосқан ба, соны біле алмайды. (<a data-l10n-name="prio-blog-link">көбірек білу</a>)
