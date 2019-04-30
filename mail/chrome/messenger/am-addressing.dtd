@@ -9,8 +9,8 @@
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "Dùng tùy chỉnh máy chủ LDAP bao trùm của tôi cho tài khoản này">
 <!ENTITY useGlobal.accesskey       "D">
-<!ENTITY editDirectories.label     "Chỉnh sửa Thư mục…">
-<!ENTITY editDirectories.accesskey "C">
+<!ENTITY editDirectories.label     "Chỉnh sửa thư mục…">
+<!ENTITY editDirectories.accesskey "E">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Dùng một máy chủ LDAP khác:">
 <!ENTITY directories.accesskey     "m">

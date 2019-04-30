@@ -2,11 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY identitiesListDesc.label "Hỗ trợ Nhiều Định Danh">
 <!ENTITY identitiesListAdd.label  "Thêm…">
 <!ENTITY identitiesListAdd.accesskey  "T">
 <!ENTITY identitiesListEdit.label "Chỉnh sửa…">
-<!ENTITY identitiesListEdit.accesskey "C">
+<!ENTITY identitiesListEdit.accesskey "E">
 <!ENTITY identitiesListDelete.label "Xóa">
 <!ENTITY identitiesListDelete.accesskey "X">
-

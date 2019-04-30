@@ -30,7 +30,7 @@
 
 <!ENTITY otherActionsOpenConversation1.label "Mở trong hội thoại">
 <!ENTITY otherActionsOpenConversation1.accesskey "M">
-<!ENTITY otherActionsOpenInNewWindow1.label "Mở trong Cửa Sổ Mới">
+<!ENTITY otherActionsOpenInNewWindow1.label "Mở trong cửa sổ mới">
 <!ENTITY otherActionsOpenInNewWindow1.accesskey "C">
 <!ENTITY otherActionsOpenInNewTab1.label "Mở trong Thẻ Mới">
 <!ENTITY otherActionsOpenInNewTab1.accesskey "T">
@@ -78,5 +78,5 @@
 <!ENTITY copyLinkCmd.accesskey    "a">
 
 <!ENTITY CopyMessageId.label "Sao chép ID thư">
-<!ENTITY OpenMessageForMsgId.label "Mở Thư Để Đọc ID">
-<!ENTITY OpenBrowserWithMsgId.label "Mở Trình Duyệt Với ID Thư">
+<!ENTITY OpenMessageForMsgId.label "Mở thư để đọc ID">
+<!ENTITY OpenBrowserWithMsgId.label "Mở trình duyệt với ID thư">
