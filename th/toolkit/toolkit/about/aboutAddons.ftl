@@ -238,6 +238,7 @@ shortcuts-sidebarAction = เปิด/ปิดแถบข้าง
 shortcuts-modifier-mac = รวม Ctrl, Alt หรือ ⌘
 shortcuts-modifier-other = รวม Ctrl หรือ Alt
 shortcuts-letter = พิมพ์ตัวอักษร
+shortcuts-system = ไม่สามารถเขียนทับทางลัด { -brand-short-name }
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on

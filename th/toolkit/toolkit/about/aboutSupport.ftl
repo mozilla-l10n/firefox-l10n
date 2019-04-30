@@ -159,6 +159,9 @@ webgl2-renderer = ตัวเรนเดอร์ไดรเวอร์ WebG
 webgl2-version = รุ่นไดรเวอร์ WebGL 2
 webgl2-driver-extensions = ส่วนขยายไดรเวอร์ WebGL 2
 webgl2-extensions = ส่วนขยาย WebGL 2
+# Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = ข้อบกพร่อง { $bugNumber }
 d3d11video-crash-guard = ตัวถอดรหัสวิดีโอ D3D11
 d3d9video-crash-buard = ตัวถอดรหัสวิดีโอ D3D9
 glcontext-crash-guard = OpenGL
@@ -172,6 +175,7 @@ can-sandbox-media = Media Plugin Sandboxing
 sandbox-proc-type-content = เนื้อหา
 sandbox-proc-type-file = เนื้อหาไฟล์
 sandbox-proc-type-media-plugin = ปลั๊กอินสื่อ
+sandbox-proc-type-data-decoder = ตัวถอดรหัสข้อมูล
 launcher-process-status-0 = เปิดใช้งานอยู่
 launcher-process-status-unknown = ไม่ทราบสถานะ
 # Variables
