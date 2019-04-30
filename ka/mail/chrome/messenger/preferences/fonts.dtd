@@ -27,7 +27,7 @@
 <!ENTITY  font.langGroup.japanese                 "იაპონური">
 <!ENTITY  font.langGroup.trad-chinese             "ჩინური ტრადიციული (ტაივანი)">
 <!ENTITY  font.langGroup.simpl-chinese            "ჩინური გამარტივებული">
-<!ENTITY  font.langGroup.trad-chinese-hk          "ჩინური ტრადიციული (ჰონგ კონგი)">
+<!ENTITY  font.langGroup.trad-chinese-hk          "ჩინური ტრადიციული (ჰონგ-კონგი)">
 <!ENTITY  font.langGroup.korean                   "კორეული">
 <!ENTITY  font.langGroup.cyrillic                 "კირილიცა">
 <!ENTITY  font.langGroup.el                       "ბერძნული">
