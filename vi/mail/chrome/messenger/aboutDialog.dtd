@@ -16,7 +16,7 @@
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
-<!ENTITY warningDesc.version        "&brandShortName; thiết kế để thử nghiệm và có thể không ổn định.">
+<!ENTITY warningDesc.version        "&brandShortName; được thiết kế để thử nghiệm và có thể không ổn định.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly builds automatically send Telemetry data back to Mozilla. It is only shown in this version. "It" refers to brandShortName. -->
 <!ENTITY warningDesc.telemetryDesc  "Thông tin về việc sử dụng, về hiệu suất, phần cứng và các tùy chỉnh sẽ được tự động gửi tới &vendorShortName; để giúp &brandShortName; hoàn thiện hơn.">
 
