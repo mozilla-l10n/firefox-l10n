@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Bonvenon">
 <!ENTITY firstrun_urlbar_message2 "Dankon pro via elekto de &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Bonvenon al &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Moderna poŝaparata retumilo de Mozilla, la neprofitcela organizo dediĉita al la libera kaj malfermita Teksaĵo.">
+<!ENTITY newfirstrun_urlbar_subtext "Rapida, privata, ĉe via flanko.">
 <!ENTITY firstrun_panel_title_privacy "Privateco">
 <!ENTITY firstrun_privacy_message "Retumu, kvazaŭ neniu vin rigardus">
 <!ENTITY firstrun_privacy_subtext "Dum privata retumo kun protekto kontraŭ spurado, spuriloj estos blokitaj kaj via historio forgesita kiam vi finos.">
+<!ENTITY newfirstrun_privacy_subtext "Privata retumo blokas reklamajn spurilojn, kiuj sekvas vin tra la reto.">
 <!ENTITY firstrun_panel_title_customize "Personecigi">
 <!ENTITY firstrun_customize_message "Personecigu &brandShortName;.">
 <!ENTITY firstrun_customize_subtext "Personecigu &brandShortName; per aldonaĵoj. Bloku reklamojn, aldonu trajtojn aŭ elektu novan etoson, kiu reflektas vian personecon.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Speguli">
 <!ENTITY firstrun_sync_message2 "Rekomencu kie vi haltis.">
 <!ENTITY firstrun_sync_subtext2 "Uzu Speguli por retrovi en ĉiuj viaj aparatoj la legosignojn, pasvortojn kaj aliajn aferojn kiun vi konservis en &brandShortName;.">
+<!ENTITY newfirstrun_sync_subtext "Sekure kaj private spegulu en la komputila Firefox la aferojn, kiujn vi konservas en poŝaparatoj.">
 <!ENTITY firstrun_signin_message "Komencu seancon kaj eku">
 <!ENTITY firstrun_signin_button "Komenci seancon en Speguli">
+<!ENTITY newfirstrun_signin_button "Malŝalti Speguladon">
 <!ENTITY  onboard_start_button_browser "Komenci retumi">
 <!ENTITY firstrun_button_notnow "Nun ne">
 <!ENTITY firstrun_button_next "Antaŭen">
@@ -409,6 +414,12 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "Spegulitaj langetoj">
 
 <!ENTITY pref_default_browser "Igi retumilon norma">
+
+<!ENTITY pref_default_browser2 "Igi &brandShortName; via norma retumilo">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Tuŝetu la programon Retumilo kaj elektu &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Vizitu la helpan paĝon de Mozilla">
 <!ENTITY pref_about_firefox "Pri &brandShortName;">
 <!ENTITY pref_vendor_faqs "Oftaj demandoj">
@@ -503,6 +514,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "Malantaŭen">
 <!ENTITY find_next "Antaŭen">
 <!ENTITY find_close "Fermi">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "Frazo ne trovita">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
