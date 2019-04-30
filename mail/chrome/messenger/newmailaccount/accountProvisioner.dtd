@@ -22,11 +22,11 @@
 <!ENTITY success.title.before "Xin chào ">
 <!ENTITY success.title.after ", các địa chỉ email sau đây có sẵn cho bạn:">
 <!ENTITY success.tip "(Bạn cũng có thể tìm kiếm biệt danh hoặc bất kỳ thuật ngữ nào khác để tìm thêm email)">
-<!ENTITY partnership.description "In partnership with several providers, &brandShortName; can offer you a new email account. Just fill in your first and last name, or any other words you’d like, in the fields above to get started.">
+<!ENTITY partnership.description "Hợp tác với một số nhà cung cấp, &brandShortName; có thể cung cấp cho bạn một tài khoản email mới. Chỉ cần điền tên và họ của bạn hoặc bất kỳ từ nào bạn muốn, vào các trường ở trên để bắt đầu.">
 <!ENTITY existing.header "Đã có một địa chỉ bạn muốn sử dụng?">
 <!ENTITY tinyheader.title "Đã có một địa chỉ?">
 <!ENTITY tinyheader.existing "Bỏ qua cái này và sử dụng email hiện có của tôi">
-<!ENTITY content.close "I think I’ll configure my account later.">
+<!ENTITY content.close "Tôi nghĩ rằng tôi sẽ cấu hình tài khoản của mình sau.">
 <!ENTITY successful.title "Chúc mừng!">
 <!ENTITY successful.successMessage "Bạn đã thiết lập thành công tài khoản của bạn.">
 <!ENTITY successful.write "Viết một số email">

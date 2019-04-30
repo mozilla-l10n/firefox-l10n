@@ -16,6 +16,7 @@
 <!ENTITY accountsSectionHdr.label     "Tài khoản">
 <!ENTITY subscribeImapFolders.label   "Quản lí phần đăng kí thư mục">
 <!ENTITY settingsLink.label           "Xem cài đặt cho tài khoản này">
+<!ENTITY setupNewAcct.label           "Thiết lập một tài khoản:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Tính năng Nâng cao">
 <!ENTITY searchMsgsLink.label         "Tìm kiếm thư">

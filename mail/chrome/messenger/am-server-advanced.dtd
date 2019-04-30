@@ -25,4 +25,4 @@
 <!ENTITY deferToServer.label "Hộp thư cho tài khoản khác">
 <!ENTITY deferToServer.accesskey "p">
 <!ENTITY deferGetNewMail.label "Bao gồm máy chủ này khi nhận thư mới">
-<!ENTITY deferGetNewMail.accesskey "o">
+<!ENTITY deferGetNewMail.accesskey "I">
