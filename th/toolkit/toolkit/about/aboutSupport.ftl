@@ -24,6 +24,7 @@ features-title = คุณลักษณะของ { -brand-short-name }
 features-name = ชื่อ
 features-version = รุ่น
 features-id = ID
+processes-type = ชนิด
 app-basics-title = พื้นฐานแอปพลิเคชัน
 app-basics-name = ชื่อ
 app-basics-version = รุ่น
@@ -171,6 +172,7 @@ can-sandbox-media = Media Plugin Sandboxing
 sandbox-proc-type-content = เนื้อหา
 sandbox-proc-type-file = เนื้อหาไฟล์
 sandbox-proc-type-media-plugin = ปลั๊กอินสื่อ
+launcher-process-status-0 = เปิดใช้งานอยู่
 launcher-process-status-unknown = ไม่ทราบสถานะ
 # Variables
 # $remoteWindows (integer) - Number of remote windows

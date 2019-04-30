@@ -77,6 +77,9 @@ detail-version =
 detail-last-updated =
     .label = อัปเดตล่าสุด
 detail-contributions-description = นักพัฒนาส่วนเสริมนี้ใคร่ขอให้คุณช่วยสนับสนุนการพัฒนาอย่างต่อเนื่องโดยการสมทบทุนสักเล็กน้อย
+detail-contributions-button = มีส่วนร่วม
+    .title = มีส่วนร่วมกับการพัฒนาส่วนเสริมนี้
+    .accesskey = ม
 detail-update-type =
     .value = การอัปเดตอัตโนมัติ
 detail-update-default =
@@ -232,6 +235,9 @@ shortcuts-input =
 shortcuts-browserAction = เปิดใช้งานส่วนขยาย
 shortcuts-pageAction = เปิดใช้งานการกระทำหน้า
 shortcuts-sidebarAction = เปิด/ปิดแถบข้าง
+shortcuts-modifier-mac = รวม Ctrl, Alt หรือ ⌘
+shortcuts-modifier-other = รวม Ctrl หรือ Alt
+shortcuts-letter = พิมพ์ตัวอักษร
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -252,3 +258,19 @@ enable-addon-button = เปิดใช้งาน
 expand-addon-button = ตัวเลือกเพิ่มเติม
 addons-enabled-heading = เปิดใช้งานอยู่
 addons-disabled-heading = ปิดใช้งานอยู่
+addon-detail-author-label = ผู้สร้าง
+addon-detail-version-label = รุ่น
+addon-detail-last-updated-label = อัปเดตล่าสุด
+addon-detail-homepage-label = หน้าแรก
+addon-detail-rating-label = การจัดอันดับ
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (ปิดใช้งานอยู่)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+       *[other] { $numberOfReviews } บทวิจารณ์
+    }
