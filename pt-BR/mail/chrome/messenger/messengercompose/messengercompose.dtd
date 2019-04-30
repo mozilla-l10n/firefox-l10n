@@ -141,7 +141,7 @@
 <!ENTITY viewMenu.accesskey "x">
 <!ENTITY viewToolbarsMenuNew.label "Barras de ferramentas">
 <!ENTITY viewToolbarsMenuNew.accesskey "B">
-<!ENTITY menubarCmd.label "Barra de menus">
+<!ENTITY menubarCmd.label "Barra de menu">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showCompositionToolbarCmd.label "Barra de ferramentas de composição">
 <!ENTITY showCompositionToolbarCmd.accesskey "a">

@@ -134,7 +134,7 @@
 <!ENTITY redoDefaultCmd.accesskey "R">
 
 <!-- View Menu -->
-<!ENTITY menubarCmd.label "Barra de menus">
+<!ENTITY menubarCmd.label "Barra de menu">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showMessengerToolbarCmd.label "Barra de ferramentas de correio">
 <!ENTITY showMessengerToolbarCmd.accesskey "a">
@@ -568,7 +568,7 @@
 <!ENTITY searchItem.title "Campo de pesquisa">
 <!ENTITY mailViewsToolbarItem.title "Modos de visualização">
 <!ENTITY folderLocationToolbarItem.title "Endereço da pasta">
-<!ENTITY tagButton.label "Tags">
+<!ENTITY tagButton.label "Etiquetas">
 <!ENTITY compactButton.label "Condensar">
 <!ENTITY appmenuButton.label "AppMenu">
 
@@ -604,7 +604,7 @@
 <!ENTITY chatButton.tooltip "Mostrar a aba de bate-papo">
 <!ENTITY tagButton.tooltip "Aplicar etiquetas em mensagens">
 <!ENTITY compactButton.tooltip "Remover as mensagens excluídas da pasta selecionada">
-<!ENTITY appmenuButton1.tooltip "Exibir o menu &brandShortName;">
+<!ENTITY appmenuButton1.tooltip "Exibir o menu do &brandShortName;">
 
 <!ENTITY addonsButton.tooltip "Gerenciar suas extensões">
 
