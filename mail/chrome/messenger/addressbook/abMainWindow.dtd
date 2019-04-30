@@ -9,7 +9,7 @@
 <!ENTITY fileMenu.accesskey                             "T">
 <!ENTITY newMenu.label                                  "Mới">
 <!ENTITY newMenu.accesskey                              "M">
-<!ENTITY newContact.label                               "Sổ địa chỉ liên hệ…">
+<!ENTITY newContact.label                               "Liên hệ trong sổ địa chỉ…">
 <!ENTITY newContact.accesskey                           "c">
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Danh sách Thư…">
