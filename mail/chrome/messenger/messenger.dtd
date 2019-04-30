@@ -653,7 +653,7 @@
 <!ENTITY folderContextPauseUpdates.accesskey "U">
 <!ENTITY folderContextOpenInNewWindow.label "Mở trong cửa sổ mới">
 <!ENTITY folderContextOpenInNewWindow.accesskey "O">
-<!ENTITY folderContextOpenNewTab.label "Mở trong Thẻ Mới">
+<!ENTITY folderContextOpenNewTab.label "Mở trong thẻ mới">
 <!ENTITY folderContextOpenNewTab.accesskey "o">
 <!ENTITY folderContextNew.label "Thư mục con Mới…">
 <!ENTITY folderContextNew.accesskey "c">
@@ -667,7 +667,7 @@
 <!ENTITY folderContextEmptyTrash.accesskey "D">
 <!ENTITY folderContextEmptyJunk.label "Dọn sạch Thư rác">
 <!ENTITY folderContextEmptyJunk.accesskey "r">
-<!ENTITY folderContextSendUnsentMessages.label "Gửi các Thư Chưa Gửi">
+<!ENTITY folderContextSendUnsentMessages.label "Gửi các thư chưa gửi">
 <!ENTITY folderContextSendUnsentMessages.accesskey "G">
 <!ENTITY folderContextUnsubscribe.label "Dừng theo dõi">
 <!ENTITY folderContextUnsubscribe.accesskey "D">
@@ -800,7 +800,7 @@
      Watch Thread. Localizers can pick a suitable key
   -->
 <!ENTITY contextWatchThreadMenu.accesskey "">
-<!ENTITY contextSaveAs.label "Lưu Thành…">
+<!ENTITY contextSaveAs.label "Lưu thành…">
 <!ENTITY contextSaveAs.accesskey "L">
 <!ENTITY contextPrint.label "In…">
 <!ENTITY contextPrint.accesskey "I">
@@ -919,7 +919,7 @@
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Lưu Liên Kết dưới dạng…">
 <!ENTITY saveLinkAsCmd.accesskey "K">
-<!ENTITY saveImageAsCmd.label "Lưu Ảnh dưới dạng…">
+<!ENTITY saveImageAsCmd.label "Lưu ảnh dưới dạng…">
 <!ENTITY saveImageAsCmd.accesskey "L">
 <!ENTITY copyLinkCmd.label "Sao chép địa chỉ liên kết">
 <!ENTITY copyLinkCmd.accesskey "a">
@@ -931,9 +931,9 @@
 <!ENTITY stopCmd.accesskey "D">
 <!ENTITY reloadCmd.label "Tải lại">
 <!ENTITY reloadCmd.accesskey "i">
-<!ENTITY openInBrowser.label "Mở trong Trình Duyệt">
+<!ENTITY openInBrowser.label "Mở trong trình duyệt">
 <!ENTITY openInBrowser.accesskey "o">
-<!ENTITY openLinkInBrowser.label "Mở Liên Kết trong Trình Duyệt">
+<!ENTITY openLinkInBrowser.label "Mở liên kết trong trình duyệt">
 <!ENTITY openLinkInBrowser.accesskey "o">
 
 <!-- Statusbar -->

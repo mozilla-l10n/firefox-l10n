@@ -27,7 +27,7 @@
 <!ENTITY closeCmd.label                                 "Đóng">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "g">
-<!ENTITY printSetupCmd.label                            "Thiết lập Trang…">
+<!ENTITY printSetupCmd.label                            "Thiết lập trang…">
 <!ENTITY printSetupCmd.accesskey                        "p">
 <!ENTITY printPreviewContactCmd.label                   "Xem trước Bản in Danh bạ">
 <!ENTITY printPreviewContactCmd.accesskey               "X">

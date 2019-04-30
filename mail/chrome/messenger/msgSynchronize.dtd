@@ -12,7 +12,7 @@
 <!ENTITY syncTypeMail.accesskey "T">
 <!ENTITY syncTypeNews.label "Nhóm tin">
 <!ENTITY syncTypeNews.accesskey "N">
-<!ENTITY sendMessage.label "Gửi Thư chưa gửi">
+<!ENTITY sendMessage.label "Gửi các thư chưa gửi">
 <!ENTITY sendMessage.accesskey "G">
 <!ENTITY workOffline.label "Làm việc ngoại tuyến khi tải và/hoặc đồng bộ xong">
 <!ENTITY workOffline.accesskey "o">
