@@ -10,7 +10,7 @@
 
 <!ENTITY email.label "Thư điện tử (E-Mail)">
 <!ENTITY newsgroups.label "Nhóm tin">
-<!ENTITY feeds.label "Feed">
+<!ENTITY feeds.label "Nguồn cấp">
 
 <!ENTITY unsetDefault.tooltip "Không thể bỏ đặt &brandShortName; là ứng dụng khách mặc định trong &brandShortName;. Để đặt ứng dụng khác thành mặc định, bạn phải sử dụng hộp thoại 'Đặt làm mặc định'.">
 
