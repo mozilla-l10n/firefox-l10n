@@ -21,7 +21,7 @@
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 <!ENTITY dnsNotFound.longDesc4 "
 <ul>
-  <li>ਐਡਰੈਸ ਲਿਖਣ ਵਿੱਚ ਗਲਤੀਆਂ ਦੀ ਜਾਂਚ ਕਰੋ, ਜਿਵੇਂ ਕਿ
+  <li>ਸਿਰਨਾਵਾਂ ਲਿਖਣ ਵਿੱਚ ਗਲਤੀਆਂ ਦੀ ਜਾਂਚ ਕਰੋ, ਜਿਵੇਂ ਕਿ
     <strong>www</strong>.example.com ਦੀ ਬਜਾਏ 
     <strong>ww</strong>.example.com</li>
     <div id='searchbox'>
@@ -54,7 +54,7 @@
 <p>&brandShortName; ਕੁਝ ਕੁ ਕਾਰਨਾਂ ਕਰਕੇ ਇਹ ਸਫ਼ਾ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕਦਾ।</p>
 ">
 
-<!ENTITY malformedURI.title "ਐਡਰੈੱਸ ਠੀਕ ਨਹੀਂ ਹੈ।">
+<!ENTITY malformedURI.title "ਸਿਰਨਾਵਾਂ ਠੀਕ ਨਹੀਂ ਹੈ">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY malformedURI.longDesc2 "

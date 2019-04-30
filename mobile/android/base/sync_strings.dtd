@@ -37,7 +37,7 @@
 <!ENTITY bookmarks.folder.desktop.label 'ਡੈਸਕਟਾਪ ਬੁੱਕਮਾਰਕ'>
 <!ENTITY bookmarks.folder.mobile.label 'ਮੋਬਾਈਲ ਬੁੱਕਮਾਰਕ'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label 'ਪਿੰਨ ਕੀਤੇ'>
+<!ENTITY bookmarks.folder.pinned.label 'ਟੰਗੀਆਂ'>
 
 <!-- Firefox Account strings. -->
 
@@ -51,7 +51,7 @@
 <!ENTITY fxaccount_getting_started_get_started 'ਸ਼ੁਰੂ ਕਰੋ'>
 <!ENTITY fxaccount_getting_started_old_firefox '&syncBrand.shortName.label; ਦੇ ਪੁਰਾਣੇ ਵਰਜ਼ਨ ਨੂੰ ਵਰਤਣਾ ਹੈ?'>
 
-<!ENTITY fxaccount_status_auth_server 'ਖਾਤੇ ਦਾ ਸਰਵਰ'>
+<!ENTITY fxaccount_status_auth_server 'ਖਾਤਾ ਸਰਵਰ'>
 <!ENTITY fxaccount_status_sync_now 'ਹੁਣੇ ਸਿੰਕ ਕਰੋ'>
 <!ENTITY fxaccount_status_syncing2 '…ਸਿੰਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ'>
 <!ENTITY fxaccount_status_device_name 'ਡਿਵਾਈਸ ਦਾ ਨਾਂ'>

@@ -5,7 +5,7 @@
 <!ENTITY aboutDevices.title              "ਡਿਵਾਈਸ">
 <!ENTITY aboutDevices.header             "ਤੁਹਾਡੇ ਡਿਵਾਈਸ">
 <!ENTITY aboutDevices.refresh            "ਤਾਜ਼ਾ ਕਰੋ">
-<!ENTITY aboutDevices.addDeviceHeader    "ਡਿਵਾਈਸ ਨੂੰ ਸ਼ਾਮਲ ਕਰੋ">
+<!ENTITY aboutDevices.addDeviceHeader    "ਡਿਵਾਈਸ ਜੋੜੋ">
 <!ENTITY aboutDevices.roku               "ਰੁਕੂ(Roku)">
 <!ENTITY aboutDevices.chromecast         "ਕਰੋਮਕਾਸਟ">
 <!-- Localization note (aboutDevices.placeholder): this is the hint shown to the
