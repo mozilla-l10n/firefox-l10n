@@ -309,7 +309,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Berjochtpaniel iepenje">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Lokaasjefersyk-paniel iepenje">
 <!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Paniel automatysk ôfspylje iepenje">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Add-on-ynstallaasjebejocht-paniel iepenje">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Berjochtepaniel foar add-on-ynstallaasje iepenje">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Canvas-ekstraksjetastimming beheare">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Offline ûnthâldberjochtpaniel iepenje">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Bewarre oanmeldingenberjochtpaniel iepenje">
@@ -324,7 +324,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Dielen fan jo mikrofoan mei de website beheare">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Dielen fan jo finsters of skerm mei de website beheare">
 
-<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Ynstallaasjeberjochtpaniel iepenje">
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Berjochtepaniel foar ynstallaasje iepenje">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Dizze side oersette">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Sideoersetting beheare">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gebrûk fan DRM-software beheare">
