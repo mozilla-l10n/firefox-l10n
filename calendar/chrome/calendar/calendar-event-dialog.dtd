@@ -372,14 +372,12 @@
 <!ENTITY invite.title.label                     "Mời khách Tham dự">
 <!ENTITY event.organizer.label                  "Người tổ chức">
 <!ENTITY event.freebusy.suggest.slot            "Đề xuất khung thời gian:">
-<!ENTITY event.freebusy.button.next.slot        "Khe tiếp theo">
-<!ENTITY event.freebusy.button.previous.slot    "Khe trước">
 <!ENTITY event.freebusy.zoom                    "Thu phóng:">
 <!ENTITY event.freebusy.legend.free             "Rảnh" >
 <!ENTITY event.freebusy.legend.busy             "Bận" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Phân vân" >
-<!ENTITY event.freebusy.legend.busy_unavailable "Ra ngoài Văn phòng" >
-<!ENTITY event.freebusy.legend.unknown          "Không có Thông tin" >
+<!ENTITY event.freebusy.legend.busy_unavailable "Ra khỏi văn phòng" >
+<!ENTITY event.freebusy.legend.unknown          "Không có thông tin" >
 <!ENTITY event.attendee.role.required           "Người tham dự Quan trọng">
 <!ENTITY event.attendee.role.optional           "Người tham dự Phụ">
 <!ENTITY event.attendee.role.chair              "Chủ tọa">
