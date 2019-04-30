@@ -7,10 +7,10 @@
 ###         update the list in mozIntl.js.
 
 region-name-ad = ანდორა
-region-name-ae = არაბეთის გაერთიანებული ემირატები
+region-name-ae = არაბთა გაერთიანებული საამიროები
 region-name-af = ავღანეთი
-region-name-ag = ანტიგვა და ბარბუდა
-region-name-ai = ანგვილა
+region-name-ag = ანტიგუა და ბარბუდა
+region-name-ai = ანგილია
 region-name-al = ალბანეთი
 region-name-am = სომხეთი
 region-name-ao = ანგოლა
@@ -25,7 +25,7 @@ region-name-ba = ბოსნია და ჰერცეგოვინა
 region-name-bb = ბარბადოსი
 region-name-bd = ბანგლადეში
 region-name-be = ბელგია
-region-name-bf = ბურკინა ფასო
+region-name-bf = ბურკინა-ფასო
 region-name-bg = ბულგარეთი
 region-name-bh = ბაჰრეინი
 region-name-bi = ბურუნდი
@@ -34,10 +34,10 @@ region-name-bl = სენ-ბართელმი
 region-name-bm = ბერმუდა
 region-name-bn = ბრუნეი
 region-name-bo = ბოლივია
-region-name-bq = ბონაირი. სინტ ესტატიუსი და საბა
+region-name-bq = ბონეირი, სინტ-ესტატიუსი და საბა
 region-name-br = ბრაზილია
 region-name-bs = ბაჰამის კუნძულები
-region-name-bt = ბუტანი
+region-name-bt = ბჰუტანი
 region-name-bv = ბუვეს კუნძული
 region-name-bw = ბოტსვანა
 region-name-by = ბელორუსეთი
