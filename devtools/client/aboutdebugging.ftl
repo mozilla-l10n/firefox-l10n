@@ -262,6 +262,14 @@ about-debugging-worker-action-push = Push
 about-debugging-worker-action-start = Démarrer
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Désinscrire
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = Fetch
+    .value = Écoute d’évènements Fetch
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = Fetch
+    .value = Pas d’écoute d’évènements Fetch
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
 about-debugging-worker-status-running = Exécution
