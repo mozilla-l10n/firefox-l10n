@@ -19,5 +19,6 @@
 <!ENTITY pref.categories.color.label "สี">
 <!ENTITY pref.categories.usecolor.label "ใช้สี">
 <!ENTITY pref.categories.none.label "(ไม่มี)">
+<!ENTITY pref.categories.overwrite "มีหมวดหมู่ชื่อนั้นแล้ว \n คุณต้องการเขียนทับหรือไม่?">
 <!ENTITY pref.categories.overwrite.title "คำเตือน: ชื่อซ้ำกัน">
 <!ENTITY pref.categories.noBlankCategories "คุณต้องป้อนชื่อหมวดหมู่">
