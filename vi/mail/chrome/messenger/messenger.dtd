@@ -718,7 +718,7 @@
 <!ENTITY totalColumn.label "Tổng">
 <!ENTITY readColumn.label "Đã đọc">
 <!ENTITY receivedColumn.label "Nhận được">
-<!ENTITY starredColumn.label "Dấu sao">
+<!ENTITY starredColumn.label "Đã gắn dấu sao">
 <!ENTITY locationColumn.label "Địa chỉ">
 <!ENTITY idColumn.label "Thứ tự Nhận được">
 <!ENTITY attachmentColumn.label "Phần đính kèm">

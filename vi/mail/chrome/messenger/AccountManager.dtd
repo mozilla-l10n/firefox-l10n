@@ -12,8 +12,8 @@
 <!ENTITY addMailAccountButton.accesskey "m">
 <!ENTITY addIMAccountButton.label "Thêm Tài khoản Trò chuyện…">
 <!ENTITY addIMAccountButton.accesskey "c">
-<!ENTITY addFeedAccountButton.label "Thêm Tài khoản Nguồn cấp…">
-<!ENTITY addFeedAccountButton.accesskey "N">
+<!ENTITY addFeedAccountButton.label "Thêm tài khoản nguồn cấp dữ liệu…">
+<!ENTITY addFeedAccountButton.accesskey "F">
 <!ENTITY addOtherAccountButton.label "Thêm Tài Khoản Khác…">
 <!ENTITY addOtherAccountButton.accesskey "o">
 <!ENTITY setDefaultButton.label "Đặt làm mặc định">

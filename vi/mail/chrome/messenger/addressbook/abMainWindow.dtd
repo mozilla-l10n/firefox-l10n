@@ -62,8 +62,8 @@
 <!ENTITY deleteAbCmd.label                              "Xóa sổ địa chỉ">
 <!ENTITY deleteContactCmd.label                         "Xóa Danh Bạ">
 <!ENTITY deleteContactsCmd.label                        "Xóa Danh Bạ">
-<!ENTITY deleteListCmd.label                            "Xóa Danh Sách">
-<!ENTITY deleteListsCmd.label                           "Xóa Danh Sách">
+<!ENTITY deleteListCmd.label                            "Xóa danh sách">
+<!ENTITY deleteListsCmd.label                           "Xóa các danh sách">
 <!ENTITY deleteItemsCmd.label                           "Xóa Các Mục">
 <!ENTITY selectAllCmd.label                             "Chọn Toàn Bộ">
 <!ENTITY selectAllCmd.key                               "A">
@@ -124,7 +124,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmdUnix.accesskey                   "y">
 
 <!-- Address Book Toolbar and Context Menus -->
-<!ENTITY newContactButton.label                         "Danh bạ Mới">
+<!ENTITY newContactButton.label                         "Liên hệ mới">
 <!ENTITY newContactButton.accesskey                     "b">
 <!ENTITY newlistButton.label                            "Danh sách Mới">
 <!ENTITY newlistButton.accesskey                        "D">

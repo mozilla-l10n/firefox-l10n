@@ -10,7 +10,7 @@
 <!ENTITY email.label                     "Địa chỉ email:">
 <!ENTITY email.accesskey                 "l">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "bạn@example.com">
+<!ENTITY email2.placeholder              "you@example.com">
 <!ENTITY email.text                      "Địa chỉ thư điện tử hiện tại của bạn">
 <!ENTITY password.label                  "Mật khẩu:">
 <!ENTITY password.accesskey              "M">
@@ -64,6 +64,7 @@
 <!ENTITY half-manual-test.accesskey      "K">
 <!ENTITY manual-edit.label               "Cấu hình thủ công">
 <!ENTITY manual-edit.accesskey           "M">
+<!ENTITY open-provisioner.label          "Tạo địa chỉ email mới…">
 
 
 <!ENTITY warning.label                   "Cảnh báo!">
