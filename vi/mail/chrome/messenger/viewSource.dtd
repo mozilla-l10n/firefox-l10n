@@ -14,7 +14,7 @@
 
 <!ENTITY fileMenu.label "Tập tin">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY savePageCmd.label "Lưu Trang dưới dạng…">
+<!ENTITY savePageCmd.label "Lưu trang dưới dạng…">
 <!ENTITY savePageCmd.accesskey "A">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Thiết lập trang…">
@@ -67,7 +67,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findOnCmd.label     "Tìm trong trang này…">
 <!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Tìm lại">
+<!ENTITY findAgainCmd.label  "Tìm tiếp">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">

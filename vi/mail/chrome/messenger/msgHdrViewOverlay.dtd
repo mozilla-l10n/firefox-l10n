@@ -92,16 +92,21 @@
 
 <!ENTITY detachedAttachmentFolder.show.label        "Mở thư mục chứa">
 <!ENTITY detachedAttachmentFolder.show.accesskey    "F">
+<!ENTITY detachedAttachmentFolder.showMac.label     "Hiển thị trong Finder">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Lưu">
 <!ENTITY saveAttachmentButton1.tooltip     "Lưu tập tin đính kèm">
-<!ENTITY saveAllAttachmentsButton1.label   "Lưu Tất Cả">
+<!ENTITY saveAllAttachmentsButton1.label   "Lưu tất cả">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Lưu tất cả tập tin đính kèm">
 
 <!ENTITY copyLinkCmd.label        "Sao chép địa chỉ liên kết">
-<!ENTITY copyLinkCmd.accesskey    "a">
+<!ENTITY copyLinkCmd.accesskey    "C">
 
 <!ENTITY CopyMessageId.label "Sao chép ID thư">
-<!ENTITY OpenMessageForMsgId.label "Mở thư để đọc ID">
+<!ENTITY CopyMessageId.accesskey "C">
+<!ENTITY OpenMessageForMsgId.label "Mở thư cho ID">
+<!ENTITY OpenMessageForMsgId.accesskey "O">
 <!ENTITY OpenBrowserWithMsgId.label "Mở trình duyệt với ID thư">
+<!ENTITY OpenBrowserWithMsgId.accesskey "B">
