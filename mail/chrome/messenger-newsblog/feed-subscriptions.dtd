@@ -3,21 +3,25 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "Đăng kí Nhận tin">
-<!ENTITY subscriptionDesc.label "Lưu ý: Xóa hoặc thay đổi thư mục của một feed sẽ không ảnh hưởng đến các bài viết đã tải trước đây.">
-<!ENTITY feedTitle.label "Tiêu đề:">
-<!ENTITY location.label  "Địa chỉ:">
+<!ENTITY feedSubscriptions.label     "Nguồn cấp đã đăng kí">
+<!ENTITY learnMore.label             "Tìm hiểu thêm về nguồn cấp dữ liệu">
 
-<!ENTITY button.addFeed.label       "Thêm">
-<!ENTITY button.addFeed.accesskey   "T">
-<!ENTITY button.editFeed.label      "Chỉnh sửa">
-<!ENTITY button.editFeed.accesskey  "C">
-<!ENTITY button.removeFeed.label "Xóa">
-<!ENTITY button.removeFeed.accesskey   "a">
-<!ENTITY button.importOPML.label "Nhập">
-<!ENTITY button.importOPML.accesskey   "N">
-<!ENTITY button.exportOPML.label "Xuất">
-<!ENTITY button.exportOPML.accesskey   "X">
+<!ENTITY feedTitle.label             "Tiêu đề:">
 
-<!ENTITY cmd.close.commandKey             "w">
 
+
+<!-- Account Settings and Subscription Dialog -->
+
+
+
+<!-- Subscription Dialog -->
+<!ENTITY button.addFeed.label        "Thêm">
+<!ENTITY button.addFeed.accesskey    "T">
+<!ENTITY button.removeFeed.label     "Xóa">
+<!ENTITY button.removeFeed.accesskey "a">
+<!ENTITY button.importOPML.label     "Nhập">
+<!ENTITY button.importOPML.accesskey "N">
+<!ENTITY button.exportOPML.label     "Xuất">
+<!ENTITY button.exportOPML.accesskey "X">
+
+<!ENTITY cmd.close.commandKey        "w">

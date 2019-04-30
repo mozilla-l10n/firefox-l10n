@@ -9,8 +9,8 @@
 <!ENTITY newsSectionHdr.label         "Nhóm tin">
 <!ENTITY subscribeNewsLink.label      "Quản lí phần đăng kí nhóm tin">
 
-<!ENTITY feedsSectionHdr.label        "Feed">
-<!ENTITY subscribeFeeds.label         "Quản lí phần đăng kí">
+<!ENTITY feedsSectionHdr.label        "Nguồn cấp">
+<!ENTITY subscribeFeeds.label         "Quản lí đăng kí">
 
 
 <!ENTITY accountsSectionHdr.label     "Tài khoản">

@@ -2,24 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY accountTitle.label "Thiết lập Tài khoản">
+<!ENTITY biffAll.label                 "Cho phép cập nhật cho tất cả nguồn cấp dữ liệu">
 
-<!ENTITY biffStart.label "Kiểm tra bài viết mới mỗi ">
-<!ENTITY biffStart.accesskey "i">
-<!ENTITY biffEnd.label "phút">
+<!ENTITY newFeedSettings.label         "Cài đặt mặc định cho nguồn cấp dữ liệu mới">
 
-<!ENTITY loginAtStartup.label "Kiểm tra bài viết mới khi khởi động"> 
-<!ENTITY loginAtStartup.accesskey "r">
-
-<!ENTITY useQuickMode.label "Mặc định, hiện tóm tắt bài viết thay vì tải cả trang web"> 
-<!ENTITY useQuickMode.accesskey "M">
-
-<!ENTITY manageSubscriptions.label "Quản lí Đăng kí nhận tin…"> 
+<!ENTITY manageSubscriptions.label     "Quản lí Đăng kí nhận tin…">
 <!ENTITY manageSubscriptions.accesskey "Q">
 
-<!-- entities from rss.rdf -->
-<!ENTITY feeds.accountName "Feed Tin tức &amp; Blog">
-<!ENTITY feeds.wizardShortName "Feed">
-<!ENTITY feeds.wizardLongName "Blog &amp; Feed Tin tức">
-<!ENTITY feeds.wizardLongName.accesskey "F">
-
+<!ENTITY feeds.accountName             "Blog &amp; nguồn cấp tin tức">
