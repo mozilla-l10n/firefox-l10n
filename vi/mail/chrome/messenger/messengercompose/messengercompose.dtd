@@ -14,7 +14,7 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "T">
-<!ENTITY newContact.label "Tên liên hệ trong sổ địa chỉ…">
+<!ENTITY newContact.label "Liên hệ trong sổ địa chỉ…">
 <!ENTITY newContact.accesskey "S">
 <!ENTITY attachMenu.label "Đính kèm">
 <!ENTITY attachMenu.accesskey "k">

@@ -196,7 +196,7 @@
 <!ENTITY sortByJunkStatusCmd.accesskey "J">
 <!ENTITY sortBySubjectCmd.label "Tiêu đề">
 <!ENTITY sortBySubjectCmd.accesskey "b">
-<!ENTITY sortByFromCmd.label "Từ">
+<!ENTITY sortByFromCmd.label "Người gửi">
 <!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "Người nhận">
 <!ENTITY sortByRecipientCmd.accesskey "c">
@@ -509,26 +509,43 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
 
 <!-- Developer Tools Submenu -->
+<!ENTITY devtoolsMenu.label "Công cụ dành cho nhà phát triển">
+<!ENTITY devtoolsMenu.accesskey "e">
+<!ENTITY devToolboxCmd.label "Hộp công cụ dành cho nhà phát triển">
+<!ENTITY devToolboxCmd.accesskey "T">
+<!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY debugAddonsCmd.label "Gỡ lỗi tiện ích">
+<!ENTITY debugAddonsCmd.accesskey "A">
+<!ENTITY tabsDebugCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.label "Bảng kiểm soát Lỗi">
 <!ENTITY errorConsoleCmd.accesskey "L">
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY scratchpadCmd.label "Scratchpad">
+<!ENTITY scratchpadCmd.accesskey "S">
 
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
     (but without the DOM_ prefix) -->
+<!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
+<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
-<!ENTITY newMsgButton.label "Viết Thư">
+<!ENTITY getMsgButton1.label "Nhận tin nhắn">
+<!ENTITY newMsgButton.label "Viết thư">
 <!ENTITY replyButton.label "Trả lời">
 <!ENTITY replyAllButton.label "Trả lời Tất cả">
 <!ENTITY replyListButton.label "Trả lời Danh sách">
 <!ENTITY forwardButton.label "Chuyển tiếp">
 <!ENTITY fileButton.label "Xếp">
 <!ENTITY archiveButton.label "Lưu trữ">
+<!ENTITY openConversationButton.label "Hội thoại">
 <!ENTITY nextButton.label "Tiếp">
+<!ENTITY nextMsgButton.label "Tiếp">
 <!ENTITY previousButton.label "Trước">
+<!ENTITY previousMsgButton.label "Trước">
 <!ENTITY backButton1.label "Quay lại">
 <!ENTITY goForwardButton1.label "Tiến">
 <!ENTITY deleteItem.title "Xóa">
@@ -542,19 +559,21 @@
 <!ENTITY junkButton.label "Thư rác">
 <!ENTITY notJunkButton.label "Không phải Thư rác">
 <!ENTITY addressBookButton.label "Sổ địa chỉ">
-<!ENTITY glodaSearch.title "Tìm Bao Trùm">
-<!ENTITY searchItem.title "Tìm Nhanh">
+<!ENTITY chatButton.label "Trò chuyện">
+<!ENTITY glodaSearch.title "Tìm kiếm toàn bộ">
+<!ENTITY searchItem.title "Tìm kiếm nhanh">
 <!ENTITY mailViewsToolbarItem.title "Cách hiển thị Thư">
 <!ENTITY folderLocationToolbarItem.title "Địa chỉ Thư mục">
 <!ENTITY tagButton.label "Nhãn">
 <!ENTITY compactButton.label "Làm gọn">
+<!ENTITY appmenuButton.label "Trình đơn ứng dụng">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Tìm kiếm thư nâng cao">
-<!ENTITY getMsgButton.tooltip "Lấy thư mới">
-<!ENTITY getAllNewMsgCmd.label "Lấy Tất Cả Thư Mới">
+<!ENTITY getMsgButton.tooltip "Nhận thư mới">
+<!ENTITY getAllNewMsgCmd.label "Nhận tất cả thư mới">
 <!ENTITY getAllNewMsgCmd.accesskey "y">
-<!ENTITY newMsgButton.tooltip "Viết một thư mới">
+<!ENTITY newMsgButton.tooltip "Tạo một thư mới">
 <!ENTITY replyButton.tooltip "Trả lời thư">
 <!ENTITY replyAllButton.tooltip "Trả lời người gửi và tất cả người nhận">
 <!ENTITY replyListButton.tooltip "Trả lời danh sách thư">
@@ -573,6 +592,7 @@
 <!ENTITY junkButton.tooltip "Đánh dấu thư đã chọn là thư rác">
 <!ENTITY notJunkButton.tooltip "Đánh dấu thư đã chọn không phải là thư rác">
 <!ENTITY addressBookButton.tooltip "Vào sổ địa chỉ">
+<!ENTITY chatButton.tooltip "Hiển thị thẻ trò chuyện">
 <!ENTITY tagButton.tooltip "Dán nhãn cho thư">
 <!ENTITY compactButton.tooltip "Dọn các thư bị xóa ra khỏi thư mục đã chọn">
 <!ENTITY appmenuButton1.tooltip "Hiển thị menu &brandShortName;">
@@ -581,21 +601,46 @@
 <!-- Toolbar Button Popup -->
 
 <!-- Remote Content Button Popup -->
+<!ENTITY editRemoteContentSettings.label "Chỉnh sửa tùy chọn nội dung từ xa…">
+<!ENTITY editRemoteContentSettings.accesskey "E">
 
 <!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Bỏ qua cảnh báo cho thư này">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY phishingOptionSettings.label "Chỉnh sửa tùy chọn phát hiện lừa đảo…">
+<!ENTITY phishingOptionSettings.accesskey "d">
+<!ENTITY phishingOptionSettingsUnix.label "Chỉnh sửa tùy chỉnh phát hiện lừa đảo…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "d">
 
 <!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Thư mới">
+<!ENTITY appmenuNewContactCmd.label "Liên hệ trong sổ địa chỉ…">
+<!ENTITY appmenuEditMenu.label "Chỉnh sửa">
+<!ENTITY appmenuToolbarLayout.label "Bố cục thanh công cụ…">
+<!ENTITY appmenuSelectThread.label "Chọn chủ đề">
+<!ENTITY appmenuSelectFlagged.label "Chọn thư được gắn dấu sao">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nhãn Mới…">
 <!ENTITY addNewTag.accesskey "N">
+<!ENTITY manageTags.label "Quản lý nhãn…">
+<!ENTITY manageTags.accesskey "M">
 
 <!-- Folder Pane -->
+<!ENTITY folderNameColumn.label "Tên">
+<!ENTITY folderUnreadColumn.label "Chưa đọc">
+<!ENTITY folderTotalColumn.label "Tổng">
 <!ENTITY folderSizeColumn.label "Dung lượng">
 
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Lấy Thư">
 <!ENTITY folderContextGetMessages.accesskey "L">
+<!ENTITY folderContextMarkAllFoldersRead.label "Đánh dấu tất cả thư mục là đã đọc">
+<!ENTITY folderContextPauseAllUpdates.label "Tạm dừng tất cả cập nhật">
+<!ENTITY folderContextPauseUpdates.label "Tạm dừng cập nhật">
+<!ENTITY folderContextPauseUpdates.accesskey "U">
+<!ENTITY folderContextOpenInNewWindow.label "Mở trong cửa sổ mới">
+<!ENTITY folderContextOpenInNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Mở trong Thẻ Mới">
 <!ENTITY folderContextOpenNewTab.accesskey "o">
 <!ENTITY folderContextNew.label "Thư mục con Mới…">
@@ -620,24 +665,30 @@
 <!ENTITY folderContextMarkMailFolderRead.accesskey "u">
 <!ENTITY folderContextSubscribe.label "Theo dõi…">
 <!ENTITY folderContextSubscribe.accesskey "e">
+<!ENTITY folderContextSearchForMessages.label "Tìm kiếm thư…">
+<!ENTITY folderContextSearchForMessages.accesskey "S">
+<!ENTITY folderContextProperties2.label "Thuộc tính">
+<!ENTITY folderContextProperties2.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "Thư mục Ưa thích">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
+<!ENTITY folderContextSettings2.label "Cài đặt">
+<!ENTITY folderContextSettings2.accesskey "e">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label "Tên hoặc Email chứa:">
-<!ENTITY SearchNameOrEmail.accesskey "o">
+<!ENTITY SearchNameOrEmail.label "Tên hoặc email chứa:">
+<!ENTITY SearchNameOrEmail.accesskey "N">
 
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.placeholder "Tìm kiếm Thư…">
+<!ENTITY glodaSearchBar.placeholder "Tìm kiếm thư…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Tiêu đề">
-<!ENTITY searchFromMenu.label "Từ">
+<!ENTITY searchFromMenu.label "Người gửi">
 <!ENTITY searchSubjectOrFromMenu.label "Tiêu đề hoặc Từ">
-<!ENTITY searchRecipient.label "Tới hoặc Cc">
-<!ENTITY searchSubjectOrRecipientMenu.label "Tiêu đề, Tới hoặc Cc">
-<!ENTITY searchMessageBody.label "Toàn bộ Thư">
-<!ENTITY saveAsVirtualFolderMenu.label "Lưu Tìm Kiếm dưới dạng một Thư mục…">
+<!ENTITY searchRecipient.label "Người nhận hoặc Cc">
+<!ENTITY searchSubjectOrRecipientMenu.label "Tiêu đề, người nhận hoặc Cc">
+<!ENTITY searchMessageBody.label "Toàn bộ thư">
+<!ENTITY saveAsVirtualFolderMenu.label "Lưu tìm kiếm dưới dạng thư mục…">
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Chủ đề">
@@ -661,9 +712,28 @@
 <!ENTITY attachmentColumn.label "Phần đính kèm">
 
 <!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser2.tooltip "Chọn các cột để hiển thị">
+<!ENTITY threadColumn2.tooltip "Hiển thị chủ đề thư">
+<!ENTITY fromColumn2.tooltip "Sắp xếp theo người gửi">
+<!ENTITY recipientColumn2.tooltip "Sắp xếp theo người nhận">
+<!ENTITY subjectColumn2.tooltip "Sắp xếp theo chủ đề">
+<!ENTITY dateColumn2.tooltip "Sắp xếp theo ngày">
+<!ENTITY priorityColumn2.tooltip "Sắp xếp theo mức độ ưu tiên">
+<!ENTITY tagsColumn2.tooltip "Sắp xếp theo nhãn">
+<!ENTITY accountColumn2.tooltip "Sắp xếp theo tài khoản">
+<!ENTITY statusColumn2.tooltip "Sắp xếp theo trạng thái">
+<!ENTITY sizeColumn2.tooltip "Sắp xếp theo kích thước">
+<!ENTITY junkStatusColumn2.tooltip "Sắp xếp theo trạng thái thư rác">
+<!ENTITY unreadColumn2.tooltip "Số lượng tin nhắn chưa đọc trong chủ đề">
+<!ENTITY totalColumn2.tooltip "Tổng số tin nhắn trong chủ đề">
+<!ENTITY readColumn2.tooltip "Sắp xếp theo đã đọc">
+<!ENTITY receivedColumn2.tooltip "Sắp xếp theo ngày nhận">
+<!ENTITY starredColumn2.tooltip "Sắp xếp theo sao">
+<!ENTITY attachmentColumn2.tooltip "Sắp xếp theo đính kèm">
 
 <!-- Thread Pane Context Menu -->
-<!ENTITY contextOpenNewWindow.label "Mở Thư trong Cửa Sổ Mới">
+<!ENTITY contextNewMsgFromTemplate.label "Thư mới từ mẫu">
+<!ENTITY contextOpenNewWindow.label "Mở thư trong cửa sổ mới">
 <!ENTITY contextOpenNewWindow.accesskey "M">
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
      cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
@@ -673,6 +743,8 @@
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextOpenConversation.label "Mở thư trong hội thoại">
 <!ENTITY contextOpenConversation.accesskey "o">
+<!ENTITY contextOpenContainingFolder.label "Mở thư trong thư mục chứa">
+<!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Chỉnh sửa như thư mới">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextEditDraftMsg.label "Chỉnh sửa thư nháp">

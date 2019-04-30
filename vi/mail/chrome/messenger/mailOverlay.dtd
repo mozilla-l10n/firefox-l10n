@@ -7,5 +7,5 @@
 <!ENTITY  newMessageCmd.label             "Thư">
 <!ENTITY  newMessageCmd.accesskey         "T">
 
-<!ENTITY  newContactCmd.label             "Tên liên hệ trong sổ địa chỉ…">
+<!ENTITY  newContactCmd.label             "Liên hệ trong sổ địa chỉ…">
 <!ENTITY  newContactCmd.accesskey         "c">
