@@ -16,7 +16,7 @@
 <!ENTITY radioAlwaysOffline.label "Ngoại tuyến">
 <!ENTITY radioAlwaysOffline.accesskey "f">
 
-<!ENTITY textGoingOnline "Gửi những thư chưa gửi khi vào mạng?">
+<!ENTITY textGoingOnline "Gửi những thư chưa gửi khi trực tuyến?">
 <!ENTITY radioAutoSend.label "Có">
 <!ENTITY radioAutoSend.accesskey "Y">
 <!ENTITY radioNotSend.label "Không">

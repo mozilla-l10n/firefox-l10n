@@ -46,7 +46,7 @@
 <!ENTITY sendLaterCmd.label "Gửi Sau">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "S">
-<!ENTITY printSetupCmd.label "Thiết lập Trang…">
+<!ENTITY printSetupCmd.label "Thiết lập trang…">
 <!ENTITY printSetupCmd.accesskey "p">
 <!ENTITY printCmd.label "In…">
 <!ENTITY printCmd.key "P">
