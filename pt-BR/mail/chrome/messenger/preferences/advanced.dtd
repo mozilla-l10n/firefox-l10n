@@ -85,15 +85,15 @@
 <!ENTITY showSettings.accesskey        "C">
 <!ENTITY proxiesConfigure.label        "Determine como o &brandShortName; conecta-se à internet.">
 <!ENTITY connectionsInfo.caption       "Conexão">
-<!ENTITY offlineInfo.caption           "Off-line">
-<!ENTITY offlineInfo.label             "Configure o modo off-line.">
-<!ENTITY showOffline.label             "Configurar modo off-line…">
+<!ENTITY offlineInfo.caption           "Desconectado">
+<!ENTITY offlineInfo.label             "Configurar o modo desconectado">
+<!ENTITY showOffline.label             "Desconectado…">
 <!ENTITY showOffline.accesskey         "o">
 
 <!ENTITY Diskspace                       "Espaço em disco">
 <!ENTITY offlineCompactFolders.label     "Condensar todas as pastas se puder liberar pelo menos">
 <!ENTITY offlineCompactFolders.accesskey "n">
-<!ENTITY offlineCompactFoldersMB.label   "MB">
+<!ENTITY offlineCompactFoldersMB.label   "MB no total">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single

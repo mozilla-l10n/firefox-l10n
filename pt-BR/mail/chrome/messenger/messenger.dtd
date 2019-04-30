@@ -72,13 +72,13 @@
 <!ENTITY compactFolders.accesskey "o">
 <!ENTITY emptyTrashCmd.label "Esvaziar lixeira">
 <!ENTITY emptyTrashCmd.accesskey "x">
-<!ENTITY offlineMenu.label "Off-line">
-<!ENTITY offlineMenu.accesskey "l">
-<!ENTITY offlineGoOfflineCmd.label "Modo off-line">
-<!ENTITY offlineGoOfflineCmd.accesskey "M">
+<!ENTITY offlineMenu.label "Desconectar">
+<!ENTITY offlineMenu.accesskey "c">
+<!ENTITY offlineGoOfflineCmd.label "Trabalhar desconectado">
+<!ENTITY offlineGoOfflineCmd.accesskey "t">
 <!ENTITY synchronizeOfflineCmd.label "Receber/sincronizar agora…">
 <!ENTITY synchronizeOfflineCmd.accesskey "b">
-<!ENTITY settingsOfflineCmd2.label "Configurar modo off-line">
+<!ENTITY settingsOfflineCmd2.label "Configurações do modo desconectado">
 <!ENTITY settingsOfflineCmd2.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Receber mensagens selecionadas">
 <!ENTITY downloadSelectedCmd.accesskey "R">
@@ -478,7 +478,7 @@
 <!ENTITY imAccountsStatus.accesskey "b">
 <!ENTITY imStatus.available          "Disponível">
 <!ENTITY imStatus.unavailable        "Ocupado">
-<!ENTITY imStatus.offline            "Off-line">
+<!ENTITY imStatus.offline            "Desconectado">
 <!ENTITY imStatus.showAccounts       "Mostrar contas…">
 <!ENTITY joinChatCmd.label "Entrar em uma sala de bate-papo…">
 <!ENTITY joinChatCmd.accesskey "E">
