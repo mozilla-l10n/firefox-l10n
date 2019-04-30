@@ -278,7 +278,7 @@
 <!ENTITY findCmd.label "Tìm trong thư này…">
 <!ENTITY findCmd.accesskey "F">
 <!ENTITY findCmd.key "f">
-<!ENTITY findAgainCmd.label "Tìm lại">
+<!ENTITY findAgainCmd.label "Tìm tiếp">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.key "g">
 <!ENTITY findAgainCmd.key2 "VK_F3">
@@ -375,9 +375,9 @@
 <!ENTITY editTemplateMsgCmd.accesskey "T">
 <!ENTITY newMsgFromTemplateCmd.label "Thư mới từ mẫu">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
-<!ENTITY createFilter.label "Tạo Bộ lọc từ Thư…">
+<!ENTITY createFilter.label "Tạo bộ lọc từ thư…">
 <!ENTITY createFilter.accesskey "o">
-<!ENTITY moveMsgToMenu.label "Di chuyển Tới">
+<!ENTITY moveMsgToMenu.label "Di chuyển đến">
 <!ENTITY moveMsgToMenu.accesskey "D">
 <!ENTITY moveCopyMsgRecentMenu.label "Gần đây">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "G">
@@ -385,7 +385,7 @@
 <!ENTITY copyMessageLocation.accesskey "p">
 <!ENTITY copyMsgToMenu.label "Sao chép tới">
 <!ENTITY copyMsgToMenu.accesskey "C">
-<!ENTITY moveToFolderAgain.label "Di chuyển Lại">
+<!ENTITY moveToFolderAgain.label "Thử di chuyển lại">
 <!ENTITY moveToFolderAgain.accesskey "n">
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Bỏ qua chủ đề">
@@ -412,20 +412,20 @@
 <!ENTITY markMenu.label "Đánh dấu">
 <!ENTITY markMenu.accesskey "u">
 <!ENTITY toggleReadCmd.key "m">
-<!ENTITY markAsReadCmd.label "Đã Đọc">
+<!ENTITY markAsReadCmd.label "Đã đọc">
 <!ENTITY markAsReadCmd.accesskey "c">
 <!ENTITY markAsUnreadCmd.label "Chưa Đọc">
 <!ENTITY markAsUnreadCmd.accesskey "C">
-<!ENTITY markThreadAsReadCmd.label "Chủ đề là Đã Đọc">
+<!ENTITY markThreadAsReadCmd.label "Chủ đề là đã Đọc">
 <!ENTITY markThreadAsReadCmd.accesskey "h">
 <!ENTITY markThreadAsReadCmd.key "r">
-<!ENTITY markReadByDateCmd.label "Đã Đọc theo Ngày…">
+<!ENTITY markReadByDateCmd.label "Đã đọc theo ngày…">
 <!ENTITY markReadByDateCmd.accesskey "y">
 <!ENTITY markReadByDateCmd.key "c">
-<!ENTITY markAllReadCmd.label "Tất cả là Đã Đọc">
+<!ENTITY markAllReadCmd.label "Tất cả là đã đọc">
 <!ENTITY markAllReadCmd.accesskey "T">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markStarredCmd.label "Thêm Sao">
+<!ENTITY markStarredCmd.label "Thêm sao">
 <!ENTITY markStarredCmd.accesskey "S">
 <!ENTITY markStarredCmd.key "S">
 <!ENTITY markAsJunkCmd.label "Thư rác">
@@ -434,7 +434,7 @@
 <!ENTITY markAsNotJunkCmd.label "Không phải Thư rác">
 <!ENTITY markAsNotJunkCmd.accesskey "K">
 <!ENTITY markAsNotJunkCmd.key "j">
-<!ENTITY recalculateJunkScoreCmd.label "Chạy Bộ kiểm soát Thư rác">
+<!ENTITY recalculateJunkScoreCmd.label "Chạy điều khiển thư rác">
 <!ENTITY recalculateJunkScoreCmd.accesskey "B">
 <!ENTITY openMessageWindowCmd.label "Mở thư">
 <!ENTITY openMessageWindowCmd.accesskey "M">
@@ -481,7 +481,7 @@
 <!ENTITY imStatus.showAccounts       "Hiển thị tài khoản…">
 <!ENTITY joinChatCmd.label "Tham gia trò chuyện…">
 <!ENTITY joinChatCmd.accesskey "t">
-<!ENTITY savedFiles.label "Tập tin Đã lưu">
+<!ENTITY savedFiles.label "Tập tin đã lưu">
 <!ENTITY savedFiles.accesskey "u">
 <!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd2.label "Bộ lọc tin nhắn">
@@ -492,7 +492,7 @@
 <!ENTITY filtersApplyToSelection.accesskey "r">
 <!ENTITY filtersApplyToMessage.label "Chạy Bộ lọc trên Thư">
 <!ENTITY filtersApplyToMessage.accesskey "r">
-<!ENTITY runJunkControls.label "Chạy Bộ kiểm soát Thư rác trên Thư mục">
+<!ENTITY runJunkControls.label "Chạy điều khiển thư rác trên thư mục">
 <!ENTITY runJunkControls.accesskey "k">
 <!ENTITY deleteJunk.label "Xóa các Thư rác trong Thư mục">
 <!ENTITY deleteJunk.accesskey "X">
@@ -782,7 +782,7 @@
 <!ENTITY contextForwardAsAttachmentItem.accesskey "A">
 <!ENTITY contextMultiForwardAsAttachment.label "Chuyển tiếp dưới dạng đính kèm">
 <!ENTITY contextMultiForwardAsAttachment.accesskey "o">
-<!ENTITY contextMoveMsgMenu.label "Di chuyển Tới">
+<!ENTITY contextMoveMsgMenu.label "Di chuyển đến">
 <!ENTITY contextMoveMsgMenu.accesskey "D">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Gần đây">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "G">
@@ -897,7 +897,7 @@
 <!ENTITY ViewContact.accesskey "H">
 <!ENTITY SubscribeToNewsgroup.label "Đăng kí theo dõi Nhóm tin">
 <!ENTITY SubscribeToNewsgroup.accesskey "N">
-<!ENTITY SendMessageTo.label "Soạn Thư Tới">
+<!ENTITY SendMessageTo.label "Soạn thư đến">
 <!ENTITY SendMessageTo.accesskey "S">
 <!ENTITY CopyEmailAddress.label "Sao chép địa chỉ email">
 <!ENTITY CopyEmailAddress.accesskey "C">
@@ -907,7 +907,7 @@
 <!ENTITY CopyNewsgroupName.accesskey "C">
 <!ENTITY CopyNewsgroupURL.label "Sao chép URL nhóm tin">
 <!ENTITY CopyNewsgroupURL.accesskey "U">
-<!ENTITY CreateFilterFrom.label "Tạo Bộ Lọc Từ…">
+<!ENTITY CreateFilterFrom.label "Tạo bộ lọc từ…">
 <!ENTITY CreateFilterFrom.accesskey "B">
 <!ENTITY reportPhishingURL.label "Báo cáo Thư lừa đảo">
 <!ENTITY reportPhishingURL.accesskey "o">

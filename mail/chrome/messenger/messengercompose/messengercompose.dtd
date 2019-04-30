@@ -87,7 +87,7 @@
 <!ENTITY selectAllCmd.label "Chọn Toàn Bộ">
 <!ENTITY selectAllCmd.accesskey "B">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY findAgainCmd.label "Tìm Lại">
+<!ENTITY findAgainCmd.label "Tìm tiếp">
 <!ENTITY findAgainCmd.accesskey "i">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
@@ -254,7 +254,7 @@
 
 <!-- Message Pane Context Menu -->
 <!ENTITY spellCheckNoSuggestions.label "Không thấy Đề xuất nào">
-<!ENTITY spellCheckIgnoreWord.label "Bỏ qua Từ">
+<!ENTITY spellCheckIgnoreWord.label "Bỏ qua từ">
 <!ENTITY spellCheckIgnoreWord.accesskey "u">
 <!ENTITY spellCheckAddToDictionary.label "Thêm vào Từ điển">
 <!ENTITY spellCheckAddToDictionary.accesskey "v">
