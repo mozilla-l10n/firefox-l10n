@@ -91,7 +91,7 @@
 <!ENTITY viewMenu.accesskey                             "x">
 <!ENTITY viewToolbarsMenu.label                         "Barras de ferramentas">
 <!ENTITY viewToolbarsMenu.accesskey                     "B">
-<!ENTITY menubarCmd.label                               "Barra de menus">
+<!ENTITY menubarCmd.label                               "Barra de menu">
 <!ENTITY menubarCmd.accesskey                           "m">
 <!ENTITY showAbToolbarCmd.label                         "Barra de ferramentas do catálogo de endereços">
 <!ENTITY showAbToolbarCmd.accesskey                     "a">
@@ -173,9 +173,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Enviar um nova mensagem">
 <!ENTITY newIM.tooltip                                  "Enviar uma mensagem instantânea ou de bate-papo">
 <!ENTITY deleteButton2.tooltip                          "Excluir o item selecionado">
-
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Catálogos de endereços">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Nome ou e-mail">
