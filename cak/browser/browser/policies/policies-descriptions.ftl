@@ -57,6 +57,7 @@ policy-HardwareAcceleration = We man qitzij ta, tichup ranin ch'akulkem.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Tiya' chuqa' ütz niq'at ri tikirib'äl ruxaq.
 policy-InstallAddonsPermission = Tiya' q'ij chi ke jujun taq ajk'amaya'l ruxaq yekiyäk taq tz'aqat.
+policy-LocalFileLinks = Tiya' q'ij chi ri ajk'amaya'l ruxaq tikixima' ki' kik'in ri aj wawe' taq yakb'äl.
 policy-NetworkPrediction = Titzij o tichup ri nutz'et k'amab'ey (DNS nab'ey rukanoxik).
 policy-NewTabPage = Titzij o tichup ri ruxaq K'ak'a' Ruwi'.
 policy-NoDefaultBookmarks = Kechup ri kitz'ukik taq yaketal e k'o wi etz'aqatisan rik'in { -brand-short-name }, chuqa' ri na'owinäq taq yaketal (Yalan Etz'eton, K'a ri' Ketz'et taq Yaketal). Ch'utitzijol: ütz re na'ojil re' we nokisäx pa ri nab'ey rusamajixik ruwäch b'i'aj.
@@ -69,6 +70,7 @@ policy-Preferences = Tajikib'a' chuqa' taq'ata' ri rejqalem jun rachmolaj ajowan
 policy-Proxy = Tib'an runuk'ulem ri proxi.
 policy-RequestedLocales = Tijikib'äx rucholajem k'utun taq rutzalq'omanem chokoy, cholajin chi ajowanïk.
 policy-SanitizeOnShutdown = Keyuj ronojel ri taq rutzij okem pa k'amaya'l toq nichup.
+policy-SanitizeOnShutdown2 = Keyuj taq rutzij okem pa k'amaya'l toq nichup.
 policy-SearchBar = Tib'an runuk'ulem ri k'ojlib'äl k'o wi pa ri rukajtz'ik kanob'äl. Ri okisanel k'a nitikïr nrichinaj.
 policy-SearchEngines = Tib'an runuk'ulem ri kanob'äl. Re na'ojil re' xa xe okel pa ri ruwäch Extended Support Release (ESR).
 policy-SearchSuggestEnabled = Titzij o tichup ri kichilab'exik kanoxïk.

@@ -471,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Tiyuj ri k'ak'a' natab'äl…">
 <!ENTITY appMenuHistory.restoreSession.label "Titzolin pa ri molojri'ïl xik'o">
 <!ENTITY appMenuHistory.viewSidebar.label "Titz'et runatab'al Sidebar">
+<!ENTITY appMenuHistory.hideSidebar.label "Tewäx Runatab'al Sidebar">
 <!ENTITY appMenuHistory.recentHistory.label "K'ak'a' Natab'äl">
 <!ENTITY appMenuHelp.label "Tob'äl">
 
@@ -499,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Tatikirisaj molojri'ïl pa Ximojri'ïl">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Kenuk'samajïx taq okisaxel…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ketz'et ximïl taq ruwi' pa ajxikin kajtz'ik">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Tewüx Ximïl taq Ruwi' pan Ajxikin Kajtz'ik">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Tokisäx Jun Chik Okisaxel">
 
 <!ENTITY appMenuRecentHighlights.label "K'ak'a' Ya'on Kiq'ij">
@@ -1107,6 +1109,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "T">
 <!ENTITY updateAvailable.cancelButton.label "Wakami mani">
 <!ENTITY updateAvailable.cancelButton.accesskey "W">
+
 <!ENTITY updateAvailable.panelUI.label "Tiqasäx &brandShorterName; k'exoj">
 
 <!ENTITY updateManual.message "Taqasaj jun k'ak'a' ruwachib'al &brandShorterName; richin yatqato' chuyakik.">
