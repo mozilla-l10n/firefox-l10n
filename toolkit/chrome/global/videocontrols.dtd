@@ -16,7 +16,7 @@
 
 <!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
-<!ENTITY pictureInPicture.label "სურათი-სურათში">
+<!ENTITY pictureInPicture.label "ეკრანი-ეკრანში">
 
 <!ENTITY stats.media "მედია">
 <!ENTITY stats.size "ზომა">
@@ -38,7 +38,7 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY error.noSource2 "მხარდაჭერილი ფორმატის ან MIME ტიპის ვიდეო, ვერ მოიძებნა.">
 <!ENTITY error.generic "ვიდეოს გაშვება შეწყდა, გაურკვეველი შეცდომის გამო.">
 
-<!ENTITY status.pictureInPicture "ვიდეო გაშვებულია რეჟიმით სურათი-სურათში.">
+<!ENTITY status.pictureInPicture "ვიდეო გაშვებულია რეჟიმით ეკრანი-ეკრანში.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
