@@ -173,7 +173,126 @@ about-debugging-runtime-service-workers-not-compatible = La agordo de via retumi
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
-about-debugging-browser-version-too-old = La konektita retumilo havas malnovan version ({ $runtimeVersion }). La minimuma subtenata versio estas ({ $minVersion }). Tiu ĉi estas subtenata situacio, kiu povus misfunkciigi la ilojn por programistoj. Bonvolu ĝisdatigi la konektitan retumilon. <a>Solvado de problemoj</a>
+about-debugging-browser-version-too-old = La konektita retumilo havas malnovan version ({ $runtimeVersion }). La minimuma subtenata versio estas ({ $minVersion }). Tiu ĉi estas nesubtenata situacio, kiu povus misfunkciigi la ilojn por programistoj. Bonvolu ĝisdatigi la konektitan retumilon. <a>Solvado de problemoj</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# - from Fx 67 to 66 or to 65
+# - from Fx 68 to 66
+# Those are normally in range for DevTools compatibility policy, but specific non
+# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+about-debugging-browser-version-too-old-67-debugger = La panelo de la erarserĉilo povus ne funkcii kun la konektita retumilo. Bonvolu uzi Firefox { $runtimeVersion } se vi bezonas uzi la erarserĉilon kun tiu ĉi retumilo.
+# This string is displayed in the runtime page if the remote browser version is too recent.
+# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = La konektita retumilo estas pli nova ({ $runtimeVersion }, buildID { $runtimeID }) ol via { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Tiu ĉi estas nesubtenata situacio, kiu povus misfunkciigi la ilojn por programistoj. Bonvolu ĝisdatigi Firefox. <a>Solvado de problemoj</a>
+# Displayed for runtime info in runtime pages.
+# { $name } is brand name such as "Firefox Nightly"
+# { $version } is version such as "64.0a1"
+about-debugging-runtime-name = { $name } ({ $version })
+# Text of a button displayed in Runtime pages for remote runtimes.
+# Clicking on the button will close the connection to the runtime.
+about-debugging-runtime-disconnect-button = Malkonekti
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = Aktivigi konektpeton
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is true on the target runtime.
+about-debugging-connection-prompt-disable-button = Malaktivigi konektpeton
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title = Analizilo de efikeco
+# Label of a checkbox displayed in the runtime page for "This Firefox".
+# This checkbox will toggle preferences that enable local addon debugging.
+# The "Learn more" link points to MDN.
+# https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
+about-debugging-extension-debug-setting-label = Aktivigi senerarigon de etendaĵoj. <a>Pli da informo</a>
+# Clicking on the header of a debug target category will expand or collapse the debug
+# target items in the category. This text is used as ’title’ attribute of the header,
+# to describe this feature.
+about-debugging-collapse-expand-debug-targets = Faldi / malfaldi
 
 # Debug Targets strings
 
+# Displayed in the categories of "runtime" pages that don't have any debug target to
+# show. Debug targets depend on the category (extensions, tabs, workers...).
+about-debugging-debug-target-list-empty = Nenio ankoraŭ.
+# Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
+# button will open a DevTools toolbox that will allow inspecting the target.
+# A target can be an addon, a tab, a worker...
+about-debugging-debug-target-inspect-button = Inspekti
+# Text of a button displayed in the "This Firefox" page, in the Temporary Extension
+# section. Clicking on the button will open a file picker to load a temporary extension
+about-debugging-tmp-extension-install-button = Ŝargi provizoran aldonaĵon…
+# Text displayed when trying to install a temporary extension in the "This Firefox" page.
+about-debugging-tmp-extension-install-error = Okazis eraro dum la instalo de la provizora aldonaĵo.
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will reload the extension.
+about-debugging-tmp-extension-reload-button = Reŝargi
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will uninstall the extension and remove it from the page.
+about-debugging-tmp-extension-remove-button = Forigi
+# Message displayed in the file picker that opens to select a temporary extension to load
+# (triggered by the button using "about-debugging-tmp-extension-install-button")
+# manifest.json .xpi and .zip should not be localized.
+# Note: this message is only displayed in Windows and Linux platforms.
+about-debugging-tmp-extension-install-message = Elektu manifest.json aŭ .xpi/.zip dosieron
+# This string is displayed as a message about the add-on having a temporaryID.
+about-debugging-tmp-extension-temporary-id = Tiu ĉi WebExtension havas provizoran ID.<a>Pli da informo</a>
+# Text displayed for extensions in "runtime" pages, before displaying a link the extension's
+# manifest URL.
+about-debugging-extension-manifest-url =
+    .label = Manifesta URL
+# Text displayed for extensions in "runtime" pages, before displaying the extension's uuid.
+# UUIDs look like b293e463-481e-5148-a487-5aaf7a130429
+about-debugging-extension-uuid =
+    .label = Interna UUID
+# Text displayed for extensions (temporary extensions only) in "runtime" pages, before
+# displaying the location of the temporary extension.
+about-debugging-extension-location =
+    .label = Loko
+# Text displayed for extensions in "runtime" pages, before displaying the extension's ID.
+# For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
+about-debugging-extension-id =
+    .label = Identigilo de etendaĵo
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Notes, this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push = Push
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start = Komenci
+# This string is displayed as a label of the button that unregisters a service worker.
+about-debugging-worker-action-unregister = Malregistri
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = Fetch
+    .value = Aŭskulto de eventoj "fetch".
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = Fetch
+    .value = Eventoj "fetch" ne aŭskultataj.
+# Displayed for service workers in runtime pages that are currently running (service
+# worker instance is active).
+about-debugging-worker-status-running = Funckianta
+# Displayed for service workers in runtime pages that are registered but stopped.
+about-debugging-worker-status-stopped = Haltigita
+# Displayed for service workers in runtime pages that are registering.
+about-debugging-worker-status-registering = Dum registro
+# Displayed for service workers in runtime pages, to label the scope of a worker
+about-debugging-worker-scope =
+    .label = Amplekso
+# Displayed for service workers in runtime pages, to label the push service endpoint (url)
+# of a worker
+about-debugging-worker-push-service =
+    .label = Servo 'Push'
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-name = Ĉefa procezo
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description2 = Ĉefa procezo por la cela retumilo
+# Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon =
+    .alt = Fermi mesaĝon
