@@ -67,7 +67,7 @@
 <!ENTITY  crash_close_label "ਬੰਦ ਕਰੋ">
 <!ENTITY  crash_restart_label "&brandShortName; ਨੂੰ ਮੁੜ-ਸ਼ੁਰੂ ਕਰੋ">
 
-<!ENTITY url_bar_default_text2 "ਖੋਜੋ ਜਾਂ ਐਡਰੈਸ ਨੂੰ ਲਿਖੋ">
+<!ENTITY url_bar_default_text2 "ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ">
 
 <!-- Localization note: this text will be displayed in the Search Widget -->
 <!ENTITY search_widget_default_text "ਵੈੱਬ ਖੋਜੋ">
@@ -85,13 +85,13 @@
 
 <!ENTITY bookmark "ਬੁੱਕਮਾਰਕ">
 <!ENTITY bookmark_remove "ਬੁੱਕਮਾਰਕ ਨੂੰ ਹਟਾਓ">
-<!ENTITY bookmark_added "ਬੁੱਕਮਾਰਕ ਨੂੰ ਜੋੜਿਆ ਗਿਆ">
+<!ENTITY bookmark_added "ਬੁੱਕਮਾਰਕ ਜੋੜਿਆ">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
-<!ENTITY bookmark_already_added "ਪਹਿਲਾਂ ਹੀ ਬੁੱਕਮਾਰਕ ਕੀਤਾ ਗਿਆ">
-<!ENTITY bookmark_removed "ਬੁੱਕਮਾਰਕ ਨੂੰ ਹਟਾਇਆ ਗਿਆ">
-<!ENTITY bookmark_updated "ਬੁੱਕਮਾਰਕ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ">
+<!ENTITY bookmark_already_added "ਪਹਿਲਾਂ ਹੀ ਬੁੱਕਮਾਰਕ ਕੀਤਾ ਹੈ">
+<!ENTITY bookmark_removed "ਬੁੱਕਮਾਰਕ ਹਟਾਇਆ">
+<!ENTITY bookmark_updated "ਬੁੱਕਮਾਰਕ ਅੱਪਡੇਟ ਕੀਤਾ">
 <!ENTITY bookmark_options "ਚੋਣਾਂ">
 <!ENTITY bookmark_save "ਸੰਭਾਲੋ">
 <!ENTITY screenshot_added_to_bookmarks "ਸਕਰੀਨਸ਼ਾਟ ਨੂੰ ਬੁੱਕਮਾਰਕ ਵਿੱਚ ਜੋੜਿਆ ਗਿਆ">
@@ -106,7 +106,7 @@
 <!ENTITY bookmark_folder_items "&formatD; ਆਈਟਮਾਂ">
 <!ENTITY bookmark_folder_one_item "1 ਆਈਟਮ">
 <!ENTITY bookmark_folder_updated "ਫੋਲਡਰ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ">
-<!ENTITY bookmark_parent_folder "ਮੂਲ ਫੋਲਡਰ">
+<!ENTITY bookmark_parent_folder "ਮੁੱਢਲਾ ਫੋਲਡਰ">
 <!ENTITY bookmark_add_folder "ਨਵਾਂ ਫੋਲਡਰ ਜੋੜੋ">
 
 <!ENTITY reader_saved_offline "ਆਫ਼ਲਾਈਨ ਲਈ ਸੰਭਾਲਿਆ">
@@ -192,9 +192,9 @@
 <!ENTITY overlay_no_synced_devices "ਕੋਈ ਵੀ ਫਾਇਰਫਾਕਸ ਖਾਤੇ ਨਾਲ ਕਨੈਕਟ ਹੋਇਆ ਡਿਵਾਇਸ ਨਹੀਂ ਲੱਭਿਆ">
 
 <!ENTITY pref_category_search3 "ਖੋਜ">
-<!ENTITY pref_category_search_summary2 "ਜੋੜੋ, ਡਿਫਾਲਟ ਵਜੋਂ ਸੈੱਟ ਕਰੋ, ਸੁਝਾਆਵਾਂ ਨੂੰ ਵਿਖਾਓ">
+<!ENTITY pref_category_search_summary2 "ਜੋੜੋ, ਡਿਫਾਲਟ ਵਜੋਂ ਸੈੱਟ ਕਰੋ, ਸੁਝਾਅ ਵਿਖਾਓ">
 <!ENTITY pref_category_accessibility "ਅਸੈਸਬਿਲਟੀ">
-<!ENTITY pref_category_accessibility_summary2 "ਟੈਕਸਟ ਦਾ ਆਕਾਰ, ਜ਼ੂਮ, ਆਵਾਜ਼ ਰਾਹੀਂ ਇਨਪੁਟ">
+<!ENTITY pref_category_accessibility_summary2 "ਲਿਖਣ ਦਾ ਆਕਾਰ, ਜ਼ੂਮ, ਆਵਾਜ਼ ਰਾਹੀਂ ਇਨਪੁਟ">
 <!ENTITY pref_category_privacy_short "ਪਰਦੇਦਾਰੀ">
 <!ENTITY pref_category_privacy_summary4 "ਟਰੈਕਿੰਗ, ਲਾਗਇਨ, ਡਾਟਾ ਚੋਣਾਂ">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
@@ -213,18 +213,18 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint2 "ਇਸ਼ਾਰਾ: ਖੋਜ ਵਿੱਚੋ ਆਪਣੇ ਖੋਜ ਉਪਲੱਬਧ ਕਰਵਾਉਣ ਵਾਲੀਆਂ ਦੀ ਸੂਚੀ ਵਿੱਚ ਮੌਜੂਦ ਕਿਸੇ ਵੀ ਵੈੱਬ ਸਾਈਟ ਉੱਤੇ ਲੰਮਾ ਕਲਿੱਕ ਕਰੋ ਅਤੇ ਤਦ &formatI; ਆਈਕਾਨ ਨੂੰ ਕਲਿੱਕ ਕਰੋ">
-<!ENTITY pref_category_advanced "ਤਨਕੀਕੀ">
+<!ENTITY pref_category_advanced "ਤਕਨੀਕੀ">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_advanced_summary3 "ਟੈਬਾਂ, ਡਾਟਾ ਬੱਚਤਕਰਤਾ, ਡਿਵੈਲਪਰ ਟੂਲ ਨੂੰ ਬਹਾਲ ਕਰੋ">
+<!ENTITY pref_category_advanced_summary3 "ਟੈਬਾਂ, ਡਾਟਾ ਬੱਚਤਕਰਤਾ, ਡਿਵੈਲਪਰ ਟੂਲ ਬਹਾਲ ਕਰੋ">
 <!ENTITY pref_category_notifications "ਸੂਚਨਾਵਾਂ">
 <!ENTITY pref_category_notifications_summary2 "ਨਵੇਂ ਫ਼ੀਚਰ, ਉਤਪਾਦ ਬਾਰੇ ਗੁਰ">
 <!ENTITY pref_developer_remotedebugging_usb "USB ਰਾਹੀਂ ਰਿਮੋਟ ਡੀਬੱਗ ਕਰੋ">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi ਰਾਹੀਂ ਰਿਮੋਟ ਡੀਬੱਗ ਕਰੋ">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi ਰਾਹੀਂ ਰਿਮੋਟ ਡੀਬੱਗ ਕਰਨ ਲਈ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਉੱਤੇ QR ਕੋਡ ਰੀਡਰ ਐਪ ਇੰਸਟਾਲ ਚਾਹੀਦੀ ਹੈ।">
-<!ENTITY pref_remember_signons2 "ਲਾਗਇਨਾਂ ਨੂੰ ਯਾਦ ਰੱਖੋ">
-<!ENTITY pref_manage_logins "ਲਾਗਇਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ">
+<!ENTITY pref_remember_signons2 "ਲਾਗਇਨ ਯਾਦ ਰੱਖੋ">
+<!ENTITY pref_manage_logins "ਲਾਗਇਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ">
 
 <!ENTITY pref_category_home "ਮੁੱਖ ਸਫ਼ਾ">
 <!ENTITY pref_category_home_summary "ਆਪਣੇ ਮੁੱਖ-ਸਫ਼ੇ ਨੂੰ ਆਪਣੀ ਪਸੰਦ ਮੁਤਾਬਕ ਬਣਾਓ">
