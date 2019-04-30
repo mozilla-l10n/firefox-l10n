@@ -182,6 +182,8 @@ kí hiệu nền tảng Gecko">
   -  section. -->
 
 <!ENTITY options.sourceeditor.label                     "Tùy chỉnh trình soạn thảo">
+<!ENTITY options.sourceeditor.detectindentation.label   "Phát hiện thụt lề">
+<!ENTITY options.sourceeditor.detectindentation.tooltip "Dự đoán cách thụt lề dựa trên nội dung của mã nguồn">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Tự đóng dấu ngoặc">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Tự động chèn dấu đóng">
 <!ENTITY options.sourceeditor.expandtab.label           "Căn lề bằng khoảng trắng">
