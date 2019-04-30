@@ -28,7 +28,7 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Luôn hiện Trả lời tới Người gửi">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
 
-<!ENTITY otherActionsOpenConversation1.label "Mở trong Hội thoại">
+<!ENTITY otherActionsOpenConversation1.label "Mở trong hội thoại">
 <!ENTITY otherActionsOpenConversation1.accesskey "M">
 <!ENTITY otherActionsOpenInNewWindow1.label "Mở trong Cửa Sổ Mới">
 <!ENTITY otherActionsOpenInNewWindow1.accesskey "C">

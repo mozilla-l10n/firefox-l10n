@@ -32,6 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY newIMAccountCmd.label "Tài khoản trò chuyện…">
 <!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newFeedAccountCmd.label "Tài khoản nguồn cấp…">
+<!ENTITY newFeedAccountCmd.accesskey "d">
 <!ENTITY newIMContactCmd.label "Trò chuyện liên hệ…">
 <!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY  newMessageCmd2.key "N">
@@ -55,6 +57,7 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Tài khoản hiện tại">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
+<!ENTITY getNextNMsgCmd2.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Gửi các thư chưa gửi">
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Đăng kí…">
@@ -385,13 +388,13 @@
 <!ENTITY moveToFolderAgain.label "Di chuyển Lại">
 <!ENTITY moveToFolderAgain.accesskey "n">
 <!ENTITY moveToFolderAgainCmd.key "m">
-<!ENTITY killThreadMenu.label "Bỏ qua Chủ đề">
+<!ENTITY killThreadMenu.label "Bỏ qua chủ đề">
 <!ENTITY killThreadMenu.accesskey "B">
 <!ENTITY killThreadMenu.key "k">
-<!ENTITY killSubthreadMenu.label "Bỏ qua Chủ đề con">
+<!ENTITY killSubthreadMenu.label "Bỏ qua chủ đề con">
 <!ENTITY killSubthreadMenu.accesskey "q">
 <!ENTITY killSubthreadMenu.key "k">
-<!ENTITY watchThreadMenu.label "Theo dõi Chủ đề">
+<!ENTITY watchThreadMenu.label "Theo dõi chủ đề">
 <!ENTITY watchThreadMenu.accesskey "e">
 <!ENTITY watchThreadMenu.key "w">
 <!ENTITY tagMenu.label "Nhãn">
@@ -436,6 +439,17 @@
 <!ENTITY openMessageWindowCmd.label "Mở Thư">
 <!ENTITY openMessageWindowCmd.accesskey "M">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openInConversationCmd.label "Mở trong hội thoại">
+<!ENTITY openInConversationCmd.accesskey "s">
+<!ENTITY openInConversationCmd.key "o">
+<!ENTITY openAttachmentListCmd.label "Đính kèm">
+<!ENTITY openAttachmentListCmd.accesskey "h">
+<!ENTITY openFeedMessage1.label "Khi mở thư nguồn cấp dữ liệu">
+<!ENTITY openFeedMessage1.accesskey "O">
+<!ENTITY openFeedWebPage.label "Mở dưới dạng trang web">
+<!ENTITY openFeedWebPage.accesskey "W">
+<!ENTITY openFeedSummary.label "Mở dưới dạng tóm tắt">
+<!ENTITY openFeedSummary.accesskey "S">
 <!ENTITY openFeedWebPageInMP.label "Bật-tắt Trang web và Tóm tắt trong Khung đọc thư">
 <!ENTITY openFeedWebPageInMP.accesskey "K">
 
@@ -452,11 +466,26 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Tiện ích">
 <!ENTITY addons.accesskey "T">
+<!ENTITY addonPrefs.label "Tùy chọn tiện ích">
+<!ENTITY addonPrefs.accesskey "O">
+<!ENTITY addonPrefsUnix.label "Tùy chỉnh tiện ích">
+<!ENTITY addonPrefsUnix.accesskey "P">
+<!ENTITY addonNoPrefs.label "Không tìm thấy cài đặt tiện ích.">
 <!ENTITY activitymanager.label "Quản lí Hoạt động">
 <!ENTITY activitymanager.accesskey "Q">
+<!ENTITY imAccountsStatus.label "Trạng thái trò chuyện">
+<!ENTITY imAccountsStatus.accesskey "C">
+<!ENTITY imStatus.available          "Có mặt">
+<!ENTITY imStatus.unavailable        "Không sẵn sàng">
+<!ENTITY imStatus.offline            "Ngoại tuyến">
+<!ENTITY imStatus.showAccounts       "Hiển thị tài khoản…">
+<!ENTITY joinChatCmd.label "Tham gia trò chuyện…">
+<!ENTITY joinChatCmd.accesskey "t">
 <!ENTITY savedFiles.label "Tập tin Đã lưu">
 <!ENTITY savedFiles.accesskey "u">
 <!ENTITY savedFiles.key "j">
+<!ENTITY filtersCmd2.label "Bộ lọc tin nhắn">
+<!ENTITY filtersCmd2.accesskey "F">
 <!ENTITY filtersApply.label "Chạy Bộ lọc trên Thư mục">
 <!ENTITY filtersApply.accesskey "C">
 <!ENTITY filtersApplyToSelection.label "Chạy Bộ lọc trên các Thư đã Chọn">
@@ -469,10 +498,15 @@
 <!ENTITY deleteJunk.accesskey "X">
 <!ENTITY importCmd.label "Nhập…">
 <!ENTITY importCmd.accesskey "N">
+<!ENTITY clearRecentHistory.label "Xóa lịch sử gần đây…">
+<!ENTITY clearRecentHistory.accesskey "H">
+<!ENTITY accountManagerCmd2.label "Cài đặt tài khoản">
+<!ENTITY accountManagerCmd2.accesskey "S">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
      Belongs to accountManagerCmd.label, which is placed under the Edit menu
      on Unix systems
   -->
+<!ENTITY accountManagerCmdUnix2.accesskey "A">
 
 <!-- Developer Tools Submenu -->
 <!ENTITY errorConsoleCmd.label "Bảng kiểm soát Lỗi">
@@ -541,6 +575,7 @@
 <!ENTITY addressBookButton.tooltip "Vào sổ địa chỉ">
 <!ENTITY tagButton.tooltip "Dán nhãn cho thư">
 <!ENTITY compactButton.tooltip "Dọn các thư bị xóa ra khỏi thư mục đã chọn">
+<!ENTITY appmenuButton1.tooltip "Hiển thị menu &brandShortName;">
 
 
 <!-- Toolbar Button Popup -->
@@ -636,28 +671,51 @@
      enable copy/paste of message, this key would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Mở Thư trong Thẻ Mới">
 <!ENTITY contextOpenNewTab.accesskey "T">
-<!ENTITY contextOpenConversation.label "Mở Thư trong Hội thoại">
+<!ENTITY contextOpenConversation.label "Mở thư trong hội thoại">
 <!ENTITY contextOpenConversation.accesskey "o">
+<!ENTITY contextEditMsgAsNew.label "Chỉnh sửa như thư mới">
+<!ENTITY contextEditMsgAsNew.accesskey "E">
+<!ENTITY contextEditDraftMsg.label "Chỉnh sửa thư nháp">
+<!ENTITY contextEditTemplate.label "Chỉnh sửa mẫu">
+<!ENTITY contextEditTemplate.accesskey "T">
 <!ENTITY contextArchive.label "Lưu trữ">
 <!ENTITY contextArchive.accesskey "L">
 <!ENTITY contextReplySender.label "Chỉ trả lời Người gửi">
 <!ENTITY contextReplySender.accesskey "g">
+<!ENTITY contextReplyNewsgroup2.label "Theo dõi nhóm tin">
+<!ENTITY contextReplyNewsgroup2.accesskey "u">
 <!ENTITY contextReplyAll.label "Trả lời Tất cả">
 <!ENTITY contextReplyAll.accesskey "r">
 <!ENTITY contextReplyList.label "Trả lời Danh sách">
 <!ENTITY contextReplyList.accesskey "D">
 <!ENTITY contextForward.label "Chuyển tiếp">
 <!ENTITY contextForward.accesskey "y">
+<!ENTITY contextForwardAsMenu.label "Chuyển tiếp dưới dạng">
+<!ENTITY contextForwardAsMenu.accesskey "o">
+<!ENTITY contextForwardAsInline.label "Ngay trong thư">
+<!ENTITY contextForwardAsInline.accesskey "I">
+<!ENTITY contextForwardAsAttachmentItem.label "Đính kèm">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "A">
+<!ENTITY contextMultiForwardAsAttachment.label "Chuyển tiếp dưới dạng đính kèm">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "o">
 <!ENTITY contextMoveMsgMenu.label "Di chuyển Tới">
 <!ENTITY contextMoveMsgMenu.accesskey "D">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Gần đây">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "G">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Ưa thích">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "F">
 <!ENTITY contextCopyMsgMenu.label "Sao chép tới">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
+<!ENTITY contextKillThreadMenu.label "Bỏ qua chủ đề">
+<!ENTITY contextKillSubthreadMenu.accesskey "b">
+<!ENTITY contextKillThreadMenu.accesskey "I">
+<!ENTITY contextKillSubthreadMenu.label "Bỏ qua chủ đề con">
+<!ENTITY contextWatchThreadMenu.label "Theo dõi chủ đề">
 <!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
      In the en-US locale we ran out of access keys, so there is an empty access key for
      Watch Thread. Localizers can pick a suitable key
   -->
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "Lưu Thành…">
 <!ENTITY contextSaveAs.accesskey "L">
 <!ENTITY contextPrint.label "In…">
@@ -730,22 +788,27 @@
      to get to the box faster. If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
   -->
+<!ENTITY search.label.base1 "Tìm kiếm #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key). We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
   -->
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
 <!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
      systems. We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
   -->
+<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Thêm vào sổ địa chỉ…">
 <!ENTITY AddToAddressBook.accesskey "a">
 <!ENTITY AddDirectlyToAddressBook.label "Thêm vào sổ địa chỉ">
 <!ENTITY AddDirectlyToAddressBook.accesskey "a">
+<!ENTITY EditContact1.label "Chỉnh sửa liên hệ">
+<!ENTITY EditContact1.accesskey "E">
 <!ENTITY ViewContact.label "Hiển thị Danh bạ">
 <!ENTITY ViewContact.accesskey "H">
 <!ENTITY SubscribeToNewsgroup.label "Đăng kí theo dõi Nhóm tin">
@@ -754,6 +817,8 @@
 <!ENTITY SendMessageTo.accesskey "S">
 <!ENTITY CopyEmailAddress.label "Sao chép địa chỉ email">
 <!ENTITY CopyEmailAddress.accesskey "C">
+<!ENTITY CopyNameAndEmailAddress.label "Sao chép tên và địa chỉ email">
+<!ENTITY CopyNameAndEmailAddress.accesskey "N">
 <!ENTITY CopyNewsgroupName.label "Sao chép tên nhóm tin">
 <!ENTITY CopyNewsgroupName.accesskey "C">
 <!ENTITY CopyNewsgroupURL.label "Sao chép URL nhóm tin">
@@ -797,6 +862,7 @@
 <!ENTITY zoomWindow.label "Thu phóng">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
+<!ENTITY preferencesCmdMac2.label       "Tùy chỉnh">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Dịch vụ">
@@ -809,3 +875,6 @@
 <!ENTITY showAllAppsCmdMac.label        "Hiện Tất Cả">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
+<!ENTITY dockOptions.label              "Tùy chọn biểu tượng ứng dụng…">
+<!ENTITY writeNewMessageDock.label      "Viết thư mới">
+<!ENTITY openAddressBookDock.label      "Mở sổ địa chỉ">

@@ -4,7 +4,7 @@
 
 <!-- extracted from AccountManager.xul -->
 
-<!ENTITY accountManagerTitle.label "Thiết lập tài khoản">
+<!ENTITY accountManagerTitle.label "Cài đặt tài khoản">
 
 <!ENTITY accountActionsButton.label "Thao tác trên Tài khoản">
 <!ENTITY accountActionsButton.accesskey "a">
