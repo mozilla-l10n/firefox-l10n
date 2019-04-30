@@ -44,7 +44,7 @@
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "Trình đơn ứng dụng">
-<!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Hiển thị trình đơn &brandShortName;">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Hiển thị menu &brandShortName;">
 <!ENTITY lightning.toolbar.calendarmenu.label        "Ngăn lịch">
 <!ENTITY lightning.toolbar.calendarmenu.accesskey    "P">
 <!ENTITY lightning.toolbar.calendarpane.label        "Hiển thị ngăn lịch">
