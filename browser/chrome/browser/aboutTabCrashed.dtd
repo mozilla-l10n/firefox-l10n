@@ -22,7 +22,7 @@
 <!ENTITY tabCrashed.requestHelp "А ви нам допоможете?">
 <!ENTITY tabCrashed.requestHelpMessage "Звіти про збої допомагають нам виявляти проблеми і робити &brandShortName; кращим.">
 <!ENTITY tabCrashed.requestReport "Повідомте про збій вкладки">
-<!ENTITY tabCrashed.sendReport3 "Надішліть автоматичний звіт про збій, щоб ми могли виправити подібні помилки.">
+<!ENTITY tabCrashed.sendReport3 "Надіслати автоматичний звіт про збій, щоб ми могли виправити подібні помилки.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Необов'язковий коментар (коментарі бачать всі)">
 <!ENTITY tabCrashed.includeURL3 "Включити URL-адреси сайтів, які були відкриті в момент збою &brandShortName;.">
 <!ENTITY tabCrashed.emailPlaceholder "Введіть свою адресу е-пошти">
