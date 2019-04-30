@@ -8,6 +8,11 @@ profiles-create = Krei novan profilon
 profiles-restart-title = Restartigi
 profiles-restart-in-safe-mode = Restartigi kun malaktivigitaj aldonaĵoj…
 profiles-restart-normal = Restartigi normale…
+profiles-conflict = Alia kopio de { -brand-product-name } modifis la profilojn. Vi devas restartigi { -brand-short-name } antaŭ ol fari aliajn ŝanĝojn.
+profiles-flush-fail-title = Ŝanĝoj ne konservitaj
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Neatendita eraro evitis la konservon de viaj ŝanĝoj.
+profiles-flush-restart-button = Restartigi { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profilo: { $name }

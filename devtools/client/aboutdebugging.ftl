@@ -128,9 +128,52 @@ about-debugging-network-locations-host-input-label = Servilo
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Forigi
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = Nevalida servilo “{ $host-value }”. La atendata formo estas “nomoDeServilo:numeroDePordo”.
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = La servilo  “{ $host-value }” jam estas registrita
 
 # Runtime Page strings
 
+# Below are the titles for the various categories of debug targets that can be found
+# on "runtime" pages of about:debugging.
+# Title of the temporary extensions category (only available for "This Firefox" runtime).
+about-debugging-runtime-temporary-extensions =
+    .name = Provizoraj etendaĵoj
+# Title of the extensions category.
+about-debugging-runtime-extensions =
+    .name = Etendaĵoj
+# Title of the tabs category.
+about-debugging-runtime-tabs =
+    .name = Langetoj
+# Title of the service workers category.
+about-debugging-runtime-service-workers =
+    .name = Service Workers
+# Title of the shared workers category.
+about-debugging-runtime-shared-workers =
+    .name = Dividitaj Workers
+# Title of the other workers category.
+about-debugging-runtime-other-workers =
+    .name = Aliaj Workers
+# Title of the processes category.
+about-debugging-runtime-processes =
+    .name = Procezoj
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button = Rulĉirkaŭaĵa profilo
+# This string is displayed in the runtime page if the current configuration of the
+# target runtime is incompatible with service workers. "Learn more" points to MDN.
+# https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
+about-debugging-runtime-service-workers-not-compatible = La agordo de via retumilo ne kongruas kun Service Workers. <a>Pli da informo</a>
+# This string is displayed in the runtime page if the remote browser version is too old.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-browser-version-too-old = La konektita retumilo havas malnovan version ({ $runtimeVersion }). La minimuma subtenata versio estas ({ $minVersion }). Tiu ĉi estas subtenata situacio, kiu povus misfunkciigi la ilojn por programistoj. Bonvolu ĝisdatigi la konektitan retumilon. <a>Solvado de problemoj</a>
 
 # Debug Targets strings
 
