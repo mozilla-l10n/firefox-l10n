@@ -28,7 +28,7 @@ appmenu-update-restart-message = Após um reinício rápido, o { -brand-shorter-
 appmenu-addon-private-browsing-installed =
     .buttonlabel = OK, entendi
     .buttonaccesskey = O
-appmenu-addon-post-install-message = Gerencie suas extensões clicando no ícone <image data-l10n-name='addon-install-icon'></image> no menu <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-post-install-message = Gerencie suas extensões clicando em <image data-l10n-name='addon-install-icon'></image> no menu <image data-l10n-name='addon-menu-icon'></image>
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permitir que esta extensão funcione em janelas privativas
     .accesskey = P

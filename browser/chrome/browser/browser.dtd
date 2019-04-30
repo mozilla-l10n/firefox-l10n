@@ -1169,7 +1169,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
-<!ENTITY addonPostInstallMessage.label "Gerencie suas extensões clicando no ícone <image class='addon-addon-icon'/> no menu <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstallMessage.label "Gerencie suas extensões clicando em <image class='addon-addon-icon'/> no menu <image class='addon-toolbar-icon'/>">
 <!ENTITY addonPostInstall.incognito.checkbox.label "Permitir que esta extensão funcione em janelas privativas">
 <!ENTITY addonPostInstall.incognito.checkbox.accesskey "P">
 
