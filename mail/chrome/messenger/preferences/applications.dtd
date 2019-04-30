@@ -11,7 +11,7 @@
 <!ENTITY  focusSearch1.key            "F">
 <!ENTITY  focusSearch2.key            "K">
 
-<!ENTITY  filter.placeholder          "Localizar">
+<!ENTITY  filter.placeholder          "Procurar">
 
 <!ENTITY saveTo.label                 "Salvar arquivos em:">
 <!ENTITY saveTo.accesskey             "S">
