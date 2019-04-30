@@ -16,8 +16,8 @@
 <!ENTITY newevent.eventStatus.none.accesskey      "K" >
 <!ENTITY newevent.todoStatus.none.label           "Không xác định" >
 <!ENTITY newevent.eventStatus.cancelled.label     "Đã hủy" >
-<!ENTITY newevent.eventStatus.cancelled.accesskey "y" >
-<!ENTITY newevent.todoStatus.cancelled.label      "Bị hủy" >
+<!ENTITY newevent.eventStatus.cancelled.accesskey "n" >
+<!ENTITY newevent.todoStatus.cancelled.label      "Đã hủy" >
 <!ENTITY newevent.status.tentative.label          "Phân vân" >
 <!ENTITY newevent.status.tentative.accesskey      "P" >
 <!ENTITY newevent.status.confirmed.label          "Đã xác nhận" >
