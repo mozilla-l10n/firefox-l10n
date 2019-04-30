@@ -691,6 +691,7 @@ content-blocking-unvisited-cookies = Piškotke neobiskanih spletnih strani
 content-blocking-all-windows-trackers = Znane sledilce v vseh oknih
 content-blocking-all-third-party-cookies = Vse piškotke tretjih strani
 content-blocking-cryptominers = Kriptorudarje
+content-blocking-fingerprinters = Sledilce prstnih odtisov
 content-blocking-warning-title = Opozorilo!
 content-blocking-warning-desc = Zavračanje piškotkov in sledilcev lahko povzroči nedelovanje nekaterih spletnih strani. Za strani, ki jim zaupate, lahko enostavno onemogočite zavračanje.
 content-blocking-warning-description = Zavračanje vsebine lahko povzroči nedelovanje nekaterih spletnih mest. Zavračanje vsebine strani, ki jim zaupate, lahko enostavno onemogočite.
@@ -718,6 +719,11 @@ content-blocking-expand-section =
 content-blocking-cryptominers-label =
     .label = Kriptorudarje
     .accesskey = K
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Sledilce prstnih odtisov
+    .accesskey = p
 
 ## Privacy Section - Tracking
 
