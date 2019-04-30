@@ -281,8 +281,8 @@
 <!ENTITY pref_tap_to_load_images_data "ਕੇਵਲ Wi-Fi ਰਾਹੀਂ ਹੀ">
 <!ENTITY pref_tap_to_load_images_disabled2 "ਪਾਬੰਦੀ ਲਗਾਈ">
 
-<!ENTITY pref_show_web_fonts "ਵੈੱਬ ਫ਼ੋਂਟਾਂ ਨੂੰ ਦਿਖਾਓ">
-<!ENTITY pref_show_web_fonts_summary2 "ਸਫ਼ੇ ਨੂੰ ਲੋਡ ਕਰਨ ਦੇ ਦੌਰਾਨ ਰਿਮੋਟ ਫ਼ੋਂਟਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ">
+<!ENTITY pref_show_web_fonts "ਵੈੱਬ ਫ਼ੋਂਟ ਦਿਖਾਓ">
+<!ENTITY pref_show_web_fonts_summary2 "ਸਫ਼ੇ ਨੂੰ ਲੋਡ ਕਰਨ ਦੇ ਦੌਰਾਨ ਰਿਮੋਟ ਫ਼ੋਂਟ ਡਾਊਨਲੋਡ ਕਰੋ">
 
 <!ENTITY pref_tracking_protection_title2 "ਟਰੈਕ ਹੋਣ ਤੋਂ ਸੁਰੱਖਿਆ">
 <!ENTITY pref_donottrack_title "ਟਰੈਕ ਨਾ ਕਰੋ">
@@ -364,8 +364,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY tab_queue_notification_settings "\&quot;ਕਈ ਲਿੰਕਾਂ ਨੂੰ ਖੋਲ੍ਹੋ\&quot; ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ &brandShortName; ਨੂੰ \&apos;ਹੋਰ ਐਪਾਂ ਦੇ ਉੱਤੇ ਬਣਾਓ\&apos; ਇਜ਼ਾਜ਼ਤ ਦਿਓ">
 
 <!ENTITY pref_char_encoding "ਅੱਖਰਾਂ ਦੀ ਇੰਕੋਡਿੰਗ">
-<!ENTITY pref_char_encoding_on "ਮੇਨੂ ਨੂੰ ਦਿਖਾਓ">
-<!ENTITY pref_char_encoding_off "ਮੇਨੂ ਨੂੰ ਨਾ ਦਿਖਾਓ">
+<!ENTITY pref_char_encoding_on "ਮੇਨੂ ਦਿਖਾਓ">
+<!ENTITY pref_char_encoding_off "ਮੇਨੂ ਨਾ ਦਿਖਾਓ">
 <!ENTITY pref_clear_private_data2 "ਪ੍ਰਾਈਵੇਟ ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
@@ -396,8 +396,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_sync_default_title "ਫਾਇਰਫਾਕਸ ਖਾਤਾ">
 <!ENTITY pref_sync2 "ਸਾਈਨ ਇਨ ਕਰੋ">
 <!ENTITY pref_sync_summary2 "ਆਪਣੀਆਂ ਟੈਬਾਂ, ਬੁੱਕਮਾਰਕਾਂ, ਲਾਗਇਨ, ਅਤੀਤ ਨੂੰ ਸਿੰਕ ਕਰੋ">
-<!ENTITY pref_search_suggestions "ਖੋਜ ਲਈ ਸੁਝਾਆਵਾਂ ਨੂੰ ਦਿਖਾਓ">
-<!ENTITY pref_history_search_suggestions "ਖੋਜ ਦੇ ਅਤੀਤ ਨੂੰ ਦਿਖਾਓ">
+<!ENTITY pref_search_suggestions "ਖੋਜ ਲਈ ਸੁਝਾਅ ਦਿਖਾਓ">
+<!ENTITY pref_history_search_suggestions "ਖੋਜ ਦਾ ਅਤੀਤ ਦਿਖਾਓ">
 <!ENTITY pref_import_options "ਇੰਪੋਰਟ ਕਰਨ ਦੀ ਚੋਣਾਂ">
 <!ENTITY pref_import_android_summary "ਅਸਲ ਬਰਾਊਜ਼ਰ ਤੋਂ ਬੁੱਕਮਾਰਕ ਅਤੇ ਅਤੀਤ ਨੂੰ ਇੰਪੋਰਟ ਕਰੋ">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
@@ -493,7 +493,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share_image_failed "ਇਸ ਚਿੱਤਰ ਨੂੰ ਸਾਂਝਾ ਕਰਨ ਲਈ ਅਸਮਰੱਥ">
 <!ENTITY save_as_pdf "PDF ਵਜੋਂ ਸੰਭਾਲੋ">
 <!ENTITY print "ਪਰਿੰਟ ਕਰੋ">
-<!ENTITY view_page_source "ਸਫ਼ੇ ਸਰੋਤ ਨੂੰ ਵੇਖੋ">
+<!ENTITY view_page_source "ਸਫ਼ਾ ਸਰੋਤ ਵੇਖੋ">
 <!ENTITY find_in_page "ਸਫ਼ੇ ਵਿੱਚ ਲੱਭੋ">
 <!ENTITY desktop_mode "ਡੈਸਕਟਾਪ ਸਾਈਟ ਦੀ ਮੰਗ">
 <!ENTITY page "ਸਫ਼ਾ">
@@ -504,8 +504,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY close_private_tabs "ਪ੍ਰਾਈਵੇਟ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰੋ">
 <!ENTITY tabs_normal "ਟੈਬਾਂ">
 <!ENTITY tabs_private "ਪ੍ਰਾਈਵੇਟ">
-<!ENTITY set_image_fail "ਚਿੱਤਰ ਨੂੰ ਸੈੱਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ">
-<!ENTITY set_image_path_fail "ਚਿੱਤਰ ਨੂੰ ਸੰਭਾਲਣ ਲਈ ਅਸਮਰੱਥ">
+<!ENTITY set_image_fail "ਚਿੱਤਰ ਸੈੱਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ">
+<!ENTITY set_image_path_fail "ਚਿੱਤਰ ਸੰਭਾਲਣ ਲਈ ਅਸਮਰੱਥ">
 <!ENTITY set_image_chooser_title "ਚਿੱਤਰ ਵਜੋਂ ਸੈੱਟ ਕਰੋ">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -534,13 +534,13 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY contextmenu_share "ਸਾਂਝਾ ਕਰੋ">
 <!ENTITY contextmenu_pasteandgo "ਚੇਪੋ ਤੇ ਖੋਲ੍ਹੋ">
 <!ENTITY contextmenu_paste "ਚੇਪੋ">
-<!ENTITY contextmenu_copyurl "ਸਿਰਨਾਵੇਂ ਨੂੰ ਕਾਪੀ ਕਰੋ">
+<!ENTITY contextmenu_copyurl "ਸਿਰਨਾਵਾਂ ਕਾਪੀ ਕਰੋ">
 <!ENTITY contextmenu_edit_bookmark "ਸੋਧੋ">
 <!ENTITY contextmenu_subscribe "ਸਫ਼ੇ ਲਈ ਮੈਂਬਰ ਬਣੋ">
 <!ENTITY contextmenu_site_settings "ਸਾਈਟ ਦੀਆਂ ਸੈਟਿੰਗਾਂ ਨੂੰ ਸੋਧੋ">
 <!ENTITY contextmenu_top_sites_edit "ਸੋਧੋ">
-<!ENTITY contextmenu_top_sites_pin "ਸਾਈਟ ਨੂੰ ਪਿੰਨ ਕਰੋ">
-<!ENTITY contextmenu_top_sites_unpin "ਸਾਈਟ ਦੇ ਪਿੰਨ ਨੂੰ ਹਟਾਓ">
+<!ENTITY contextmenu_top_sites_pin "ਸਾਈਟ ਨੂੰ ਟੰਗੋ">
+<!ENTITY contextmenu_top_sites_unpin "ਸਾਈਟ ਨੂੰ ਲਾਹੋ">
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
@@ -583,7 +583,7 @@ shown from Android O while a tab is being queued.-->
      any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "ਸਫ਼ਾ ਹਟਾਇਆ">
-<!ENTITY folder_removed "ਫੋਲਡਰ ਹਟਾਇਆ ਗਿਆ">
+<!ENTITY folder_removed "ਫੋਲਡਰ ਹਟਾਇਆ">
 
 <!ENTITY bookmark_edit_title "ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ">
 <!ENTITY bookmark_edit_folder_title "ਫੋਲਡਰ ਸੋਧੋ">
@@ -603,7 +603,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY page_action_dropmarker_description "ਵਧੀਕ ਕਾਰਵਾਈਆਂ">
 
 <!ENTITY masterpassword_create_title "ਮਾਸਟਰ ਪਾਸਵਰਡ ਬਣਾਓ">
-<!ENTITY masterpassword_remove_title "ਮਾਸਟਰ ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਓ">
+<!ENTITY masterpassword_remove_title "ਮਾਸਟਰ ਪਾਸਵਰਡ ਹਟਾਓ">
 <!ENTITY masterpassword_password "ਪਾਸਵਰਡ">
 <!ENTITY masterpassword_confirm "ਪਾਸਵਰਡ ਨੂੰ ਤਸਦੀਕ ਕਰੋ">
 
@@ -629,7 +629,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY home_synced_devices_number "&formatD; ਡਿਵਾਈਸ">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "1 ਡਿਵਾਈਸ">
-<!ENTITY home_history_back_to2 "ਪੂਰੇ ਅਤੀਤ ਤੇ ਜਾਓ">
+<!ENTITY home_history_back_to2 "ਪੂਰੇ ਅਤੀਤ \&apos;ਤੇ ਜਾਓ">
 <!ENTITY home_clear_history_button "ਬਰਾਊਜ਼ਿੰਗ ਦੇ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY home_clear_history_confirm "ਕੀ ਤੁਸੀਂ ਆਪਣੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
 <!ENTITY home_bookmarks_empty "ਤੁਹਾਡੇ ਸੰਭਾਲੇ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਇੱਥੇ ਦਿਖਾਇਆ ਜਾਵੇਗਾ।">
@@ -666,8 +666,8 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
-<!ENTITY home_pinned_site "ਪਿੰਨ ਕੀਤੀ ਸਾਈਟ">
-<!ENTITY home_unpinned_site "ਨਾ-ਪਿੰਨ ਕੀਤੀ ਸਾਈਟ">
+<!ENTITY home_pinned_site "ਟੰਗੀ ਹੋਈ ਸਾਈਟ">
+<!ENTITY home_unpinned_site "ਲਾਹੀ ਹੋਈ ਸਾਈਟ">
 
 <!ENTITY remote_tabs_panel_moved_title "ਮੇਰੀਆਂ ਟੈਬਾਂ ਕਿੱਥੇ ਗਈਆਂ?">
 <!ENTITY remote_tabs_panel_moved_desc "ਅਸੀਂ ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਨੂੰ ਤੁਹਾਡੇ ਮੁੱਖ ਸਫ਼ੇ ਉੱਤੇ ਪੈਨਲ ਵਿੱਚ ਭੇਜ ਦਿੱਤੀਆਂ ਹਨ ਤਾਂ ਕਿ ਤੁਹਾਡੇ ਵਲੋਂ ਨਵੀਂ ਟੈਬ ਖੋਲ੍ਹਣ ਉੱਤੇ ਤੁਹਾਡੇ ਕੋਲ ਸੌਖੀ ਤਰ੍ਹਾਂ ਮੌਜੂਦ ਰਹਿਣ।">
@@ -678,7 +678,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_title "ਫ਼ਾਈਲ ਨੂੰ ਚੁਣੋ">
 <!ENTITY filepicker_audio_title "ਆਵਾਜ਼ ਨੂੰ ਚੁਣੋ ਜਾਂ ਰਿਕਾਰਡ ਕਰੋ">
 <!ENTITY filepicker_image_title "ਤਸਵੀਰ ਨੂੰ ਚੁਣੋ ਜਾਂ ਖਿੱਚੋ">
-<!ENTITY filepicker_video_title "ਵੀਡੀਓ ਨੂੰ ਚੁਣੋ ਜਾਂ ਰਿਕਾਰਡ ਕਰੋ">
+<!ENTITY filepicker_video_title "ਵੀਡਿਓ ਨੂੰ ਚੁਣੋ ਜਾਂ ਰਿਕਾਰਡ ਕਰੋ">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "ਤੁਸੀਂ ਕਨੈਕਟ ਹੋ">
