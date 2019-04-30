@@ -436,7 +436,7 @@
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Chạy Bộ kiểm soát Thư rác">
 <!ENTITY recalculateJunkScoreCmd.accesskey "B">
-<!ENTITY openMessageWindowCmd.label "Mở Thư">
+<!ENTITY openMessageWindowCmd.label "Mở thư">
 <!ENTITY openMessageWindowCmd.accesskey "M">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openInConversationCmd.label "Mở trong hội thoại">
@@ -471,7 +471,7 @@
 <!ENTITY addonPrefsUnix.label "Tùy chỉnh tiện ích">
 <!ENTITY addonPrefsUnix.accesskey "P">
 <!ENTITY addonNoPrefs.label "Không tìm thấy cài đặt tiện ích.">
-<!ENTITY activitymanager.label "Quản lí Hoạt động">
+<!ENTITY activitymanager.label "Trình quản lý hoạt động">
 <!ENTITY activitymanager.accesskey "Q">
 <!ENTITY imAccountsStatus.label "Trạng thái trò chuyện">
 <!ENTITY imAccountsStatus.accesskey "C">
@@ -516,6 +516,7 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Gỡ lỗi tiện ích">
 <!ENTITY debugAddonsCmd.accesskey "A">
+<!ENTITY tabsDebugCmd.label "Trình gỡ lỗi khung nội dung">
 <!ENTITY tabsDebugCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.label "Bảng kiểm soát Lỗi">
 <!ENTITY errorConsoleCmd.accesskey "L">
@@ -578,10 +579,14 @@
 <!ENTITY replyAllButton.tooltip "Trả lời người gửi và tất cả người nhận">
 <!ENTITY replyListButton.tooltip "Trả lời danh sách thư">
 <!ENTITY forwardButton.tooltip "Chuyển tiếp thư đã chọn">
+<!ENTITY forwardAsInline.tooltip "Chuyển tiếp thư được chọn dưới dạng văn bản ngay trong thư">
+<!ENTITY forwardAsAttachment.tooltip "Chuyển tiếp thư được chọn dưới dạng đính kèm">
 <!ENTITY fileButton.tooltip "Xếp thông điệp được chọn vào thư mục">
 <!ENTITY archiveButton.tooltip "Lưu trữ các thư đã chọn">
 <!ENTITY nextButton.tooltip "Chuyển sang thư chưa đọc tiếp theo">
+<!ENTITY nextMsgButton.tooltip "Di chuyển đến thư kế tiếp">
 <!ENTITY previousButton.tooltip "Chuyển sang thư chưa đọc phía trước">
+<!ENTITY previousMsgButton.tooltip "Di chuyển đến thư trước">
 <!ENTITY goForwardButton.tooltip "Đi tới một thư">
 <!ENTITY goBackButton.tooltip "Trở lại một thư">
 <!ENTITY deleteButton.tooltip "Xóa thư hoặc thư mục đã chọn">
@@ -597,12 +602,19 @@
 <!ENTITY compactButton.tooltip "Dọn các thư bị xóa ra khỏi thư mục đã chọn">
 <!ENTITY appmenuButton1.tooltip "Hiển thị menu &brandShortName;">
 
+<!ENTITY addonsButton.tooltip "Quản lý tiện ích của bạn">
 
 <!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "Chuyển tiếp ngay trong thư">
+<!ENTITY buttonMenuForwardAsAttachment.label "Chuyển tiếp dưới dạng đính kèm">
 
 <!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Hiển thị nội dung từ xa trong thư này">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
 <!ENTITY editRemoteContentSettings.label "Chỉnh sửa tùy chọn nội dung từ xa…">
 <!ENTITY editRemoteContentSettings.accesskey "E">
+<!ENTITY editRemoteContentSettingsUnix.label "Chỉnh sửa tùy chỉnh nội dung từ xa…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "E">
 
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Bỏ qua cảnh báo cho thư này">
@@ -739,7 +751,7 @@
      cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
      now, both menu items can't be visible at the same time, but should someone
      enable copy/paste of message, this key would probably need to be changed. -->
-<!ENTITY contextOpenNewTab.label "Mở Thư trong Thẻ Mới">
+<!ENTITY contextOpenNewTab.label "Mở thư trong thẻ mới">
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextOpenConversation.label "Mở thư trong hội thoại">
 <!ENTITY contextOpenConversation.accesskey "o">

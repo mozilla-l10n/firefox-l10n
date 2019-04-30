@@ -54,7 +54,7 @@
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "Chỉnh sửa">
-<!ENTITY editMenu.accesskey "C">
+<!ENTITY editMenu.accesskey "e">
 <!ENTITY undoCmd.label "Hoàn tác">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "H">
@@ -72,7 +72,7 @@
 <!ENTITY pasteCmd.accesskey "D">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.accesskey "G">
+<!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "Xóa">
 <!ENTITY deleteCmd.accesskey "X">
 <!ENTITY editRewrapCmd.label "Gói lại">

@@ -11,6 +11,10 @@
 <!ENTITY addtoCcFieldMenu.label             "Thêm vào trường Cc">
 <!ENTITY addtoBccFieldMenu.label            "Thêm vào trường Bcc">
 <!ENTITY deleteAddrBookCard.label           "Xóa">
+<!ENTITY editContactContext.label           "Chỉnh sửa liên hệ">
+<!ENTITY editContactContext.accesskey       "E">
+<!ENTITY editMailingListContext.label       "Chỉnh sửa danh sách">
+<!ENTITY editMailingListContext.accesskey   "E">
 
 
 <!ENTITY toButton.label                     "Thêm vào Tới:">

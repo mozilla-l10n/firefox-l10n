@@ -14,10 +14,9 @@
 <!ENTITY chooseFoldersButton.label "Chọn…">
 <!ENTITY chooseFoldersButton.accesskey "h">
 
-<!ENTITY searchOnline.label "Tìm Trực Tuyến (các thư mục IMAP và Tin tức có kết quả hiện đại nhưng mở chậm hơn)">
+<!ENTITY searchOnline.label "Tìm kiếm trực tuyến (Cung cấp kết quả cập nhật cho các thư mục IMAP và tin tức nhưng tăng thời gian mở thư mục)">
 <!ENTITY searchOnline.accesskey "T">
 <!ENTITY newFolderButton.label       "Tạo">
 <!ENTITY newFolderButton.accesskey   "o">
 <!ENTITY editFolderButton.label      "Cập nhật">
-<!ENTITY editFolderButton.accesskey  "p">
-
+<!ENTITY editFolderButton.accesskey  "U">

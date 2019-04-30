@@ -41,7 +41,7 @@
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Chỉnh sửa">
-<!ENTITY editMenu.accesskey                             "C">
+<!ENTITY editMenu.accesskey                             "E">
 <!ENTITY undoCmd.label                                  "Hoàn tác">
 <!ENTITY undoCmd.key                                    "Z">
 <!ENTITY undoCmd.accesskey                              "H">
@@ -128,6 +128,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "b">
 <!ENTITY newlistButton.label                            "Danh sách Mới">
 <!ENTITY newlistButton.accesskey                        "D">
+<!ENTITY editPropertiesButton.label                     "Chỉnh sửa">
+<!ENTITY editContactContext.label                       "Chỉnh sửa liên hệ">
+<!ENTITY editContactContext.accesskey                   "E">
+<!ENTITY editMailingListContext.label                   "Chỉnh sửa danh sách">
+<!ENTITY editMailingListContext.accesskey               "E">
 <!ENTITY newmsgButton.label                             "Viết thư">
 <!ENTITY newmsgButton.accesskey                         "V">
 <!ENTITY newIM.label                                    "Tin nhắn Nhanh">
@@ -138,6 +143,10 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Tạo một tên liên hệ mới trên sổ địa chỉ">
 <!ENTITY newlistButton.tooltip                          "Tạo một danh sách mới">
+<!ENTITY editPropertiesButton.tooltip                   "Chỉnh sửa mục đã chọn">
+<!ENTITY editAbPropertiesButton.tooltip                 "Chỉnh sửa các thuộc tính của sổ địa chỉ đã chọn">
+<!ENTITY editContactPropertiesButton.tooltip            "Chỉnh sửa liên hệ đã chọn">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Chỉnh sửa danh sách gửi thư đã chọn">
 <!ENTITY newmsgButton.tooltip                           "Gửi một lá thư">
 <!ENTITY newIM.tooltip                                  "Gửi tin nhắn nhanh hoặc chat">
 <!ENTITY deleteButton2.tooltip                          "Xóa mục đã chọn">

@@ -63,7 +63,7 @@
 <!ENTITY half-manual-test.label          "Kiểm tra lại">
 <!ENTITY half-manual-test.accesskey      "K">
 <!ENTITY manual-edit.label               "Cấu hình thủ công">
-<!ENTITY manual-edit.accesskey           "t">
+<!ENTITY manual-edit.accesskey           "M">
 
 
 <!ENTITY warning.label                   "Cảnh báo!">

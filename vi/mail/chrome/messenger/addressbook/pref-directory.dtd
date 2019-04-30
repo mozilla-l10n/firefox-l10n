@@ -12,6 +12,6 @@
 <!ENTITY addDirectory.label        "Thêm">
 <!ENTITY addDirectory.accesskey    "T">
 <!ENTITY editDirectory.label       "Chỉnh sửa">
-<!ENTITY editDirectory.accesskey   "C">
+<!ENTITY editDirectory.accesskey   "e">
 <!ENTITY deleteDirectory.label     "Xóa">
 <!ENTITY deleteDirectory.accesskey "X">

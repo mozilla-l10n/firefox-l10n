@@ -7,16 +7,16 @@
 <!ENTITY viewPicker.label "Xem:">
 <!ENTITY viewPicker.accesskey "i">
 <!ENTITY viewAll.label "Tất cả">
-<!ENTITY viewAll.accesskey "T">
+<!ENTITY viewAll.accesskey "A">
 <!ENTITY viewUnread.label "Chưa đọc">
-<!ENTITY viewUnread.accesskey "C">
-<!ENTITY viewNotDeleted.label "Chưa Xóa">
-<!ENTITY viewNotDeleted.accesskey "X">
+<!ENTITY viewUnread.accesskey "U">
+<!ENTITY viewNotDeleted.label "Chưa xóa">
+<!ENTITY viewNotDeleted.accesskey "D">
 <!ENTITY viewTags.label "Nhãn">
-<!ENTITY viewTags.accesskey "N">
-<!ENTITY viewCustomViews.label "Tùy biến Cách hiển thị">
-<!ENTITY viewCustomViews.accesskey "y">
-<!ENTITY viewVirtualFolder.label "Lưu Cách Hiển Thị thành Thư mục…">
-<!ENTITY viewVirtualFolder.accesskey "L">
+<!ENTITY viewTags.accesskey "T">
+<!ENTITY viewCustomViews.label "Tùy biến chế độ xem">
+<!ENTITY viewCustomViews.accesskey "V">
+<!ENTITY viewVirtualFolder.label "Lưu chế độ xem dưới dạng thư mục…">
+<!ENTITY viewVirtualFolder.accesskey "S">
 <!ENTITY viewCustomizeView.label "Tùy biến…">
-<!ENTITY viewCustomizeView.accesskey "b">
+<!ENTITY viewCustomizeView.accesskey "C">

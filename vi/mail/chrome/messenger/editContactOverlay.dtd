@@ -3,18 +3,18 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY editContactPanelDeleteContact.label "Xóa">
-<!ENTITY editContactPanelDeleteContact.accesskey "a">
+<!ENTITY editContactPanelDeleteContact.accesskey "l">
 
 <!ENTITY editContactName.label "Tên:">
-<!ENTITY editContactName.accesskey "n">
+<!ENTITY editContactName.accesskey "N">
 
 <!ENTITY editContactEmail.label "Email:">
 <!ENTITY editContactEmail.accesskey "E">
 
 <!ENTITY editContactAddressBook.label "Sổ địa chỉ:">
-<!ENTITY editContactAddressBook.accesskey "a">
+<!ENTITY editContactAddressBook.accesskey "A">
 
 <!ENTITY editContactPanelDone.label "Xong">
-<!ENTITY editContactPanelDone.accesskey "X">
+<!ENTITY editContactPanelDone.accesskey "D">
 
 <!ENTITY contactMoveDisabledWarning.description "Bạn không thể thay đổi sổ địa chỉ vì tên liên hệ này nằm trong một danh sách thư.">
