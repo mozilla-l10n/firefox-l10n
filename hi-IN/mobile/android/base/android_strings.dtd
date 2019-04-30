@@ -4,7 +4,9 @@
 
 <!ENTITY firstrun_panel_title_welcome "वेलकम">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; चुनने के लिए धन्यवाद">
+<!ENTITY newfirstrun_urlbar_message "&brandShortName; में स्वागत है">
 <!ENTITY firstrun_urlbar_subtext2 "Mozilla द्वारा एक आधुनिक मोबाइल ब्राउज़र, गैर-लाभकारी एक स्वतंत्र और उन्मुक्त वेब के लिए प्रतिबद्ध.">
+<!ENTITY newfirstrun_urlbar_subtext "तेज़, निजी और आपके लिए समर्पित।">
 <!ENTITY firstrun_panel_title_privacy "गोपनीयता">
 <!ENTITY firstrun_privacy_message "ऐसे ब्राउज़ करें जैसे कोई नहीं देख रहा है">
 <!ENTITY firstrun_privacy_subtext "ट्रैकिंग सुरक्षा के साथ निजी ब्राउज़िंग ट्रैकरों को रोकता है जब आप ब्राउज करते हैं तथा जब आप ब्राउज़िंग समाप्त कर लेते हैं तब आपके इतिहास को यह याद नहीं रखता है.">
@@ -409,6 +411,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "सिंक हुए टैब">
 
 <!ENTITY pref_default_browser "डिफ़ॉल्ट ब्राउज़र बनायें">
+
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla समर्थन पर जाए">
 <!ENTITY pref_about_firefox "&brandShortName; परिचय">
 <!ENTITY pref_vendor_faqs "आम सवाल">
@@ -503,6 +509,9 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "पीछे">
 <!ENTITY find_next "आगे">
 <!ENTITY find_close "बंद करें">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
