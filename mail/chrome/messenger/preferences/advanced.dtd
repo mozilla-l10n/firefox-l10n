@@ -79,6 +79,7 @@
 <!ENTITY proxiesConfigure.label        "กำหนดค่าวิธีที่ &brandShortName; เชื่อมต่อกับอินเทอร์เน็ต">
 <!ENTITY connectionsInfo.caption       "การเชื่อมต่อ">
 <!ENTITY offlineInfo.caption           "ออฟไลน์">
+<!ENTITY offlineInfo.label             "กำหนดค่าการตั้งค่าออฟไลน์">
 <!ENTITY showOffline.label             "ออฟไลน์…">
 
 <!ENTITY Diskspace                       "เนื้อที่ดิสก์">
@@ -89,8 +90,17 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
+<!ENTITY overrideSmartCacheSize.label    "เขียนทับการจัดการแคชอัตโนมัติ">
+<!ENTITY overrideSmartCacheSize.accesskey "ข">
+<!ENTITY clearCacheNow.label             "ล้างตอนนี้">
+<!ENTITY clearCacheNow.accesskey         "ล">
 
 <!-- Certificates -->
+<!ENTITY certSelection.description       "เมื่อเซิร์ฟเวอร์ขอใบรับรองส่วนบุคคลของฉัน:">
+<!ENTITY certs.auto                      "เลือกมาหนึ่งโดยอัตโนมัติ">
+<!ENTITY certs.auto.accesskey            "ล">
+<!ENTITY certs.ask                       "ถามฉันทุกครั้ง">
+<!ENTITY certs.ask.accesskey             "ถ">
 
 <!ENTITY manageCertificates.label "จัดการใบรับรอง">
 <!ENTITY viewSecurityDevices.label "อุปกรณ์ความปลอดภัย">

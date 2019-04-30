@@ -207,12 +207,16 @@
      Choose this value so that the emptyText fits nicely with a little bit of
      extra whitespace.
      -->
+<!ENTITY quickFilterBar.textbox.idealWidth
+         "320">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.minWidth):
      The minimum width of the quick filter textbox in pixels.  This is the size
      which we should refuse to flex below.  When we hit this size, the buttons
      with labels will have their labels collapsed.
      -->
+<!ENTITY quickFilterBar.textbox.minWidth
+         "280">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.explanation.label):
      This label explains what the sender/recipients/subject/body buttons do.
@@ -222,26 +226,36 @@
      tag sub-bar wants as much space as possible.  (Overflow is handled by an
      arrow scroll box.)
      -->
+<!ENTITY quickFilterBar.textFilter.explanation.label
+         "กรองข้อความตาม:">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.sender.label):
      The button label that toggles whether the text filter searches the message
      sender for the string.
      -->
+<!ENTITY quickFilterBar.textFilter.sender.label
+         "ผู้ส่ง">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.recipients.label):
      The button label that toggles whether the text filter searches the message
      recipients (to, cc) for the string.
      -->
+<!ENTITY quickFilterBar.textFilter.recipients.label
+         "ผู้รับ">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.subject.label):
      The button label that toggles whether the text filter searches the message
      subject for the string.
      -->
+<!ENTITY quickFilterBar.textFilter.subject.label
+         "หัวเรื่อง">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.body.label):
      The button label that toggles whether the text filter searches the message
      body for the string.
      -->
+<!ENTITY quickFilterBar.textFilter.body.label
+         "เนื้อหา">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.continueSearch):
      The first line of the panel popup that tells the user we found no matches

@@ -7,4 +7,6 @@
 <!ENTITY signatureCert.label "ดูใบรับรองลายเซ็น">
 <!ENTITY encryptionCert.label "ดูใบรับรองการเข้ารหัส">
 
+<!ENTITY signer.name "เซ็นโดย:">
 <!ENTITY email.address "ที่อยู่อีเมล:">
+<!ENTITY issuer.name "ออกใบรับรองโดย:">
