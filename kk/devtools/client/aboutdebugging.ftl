@@ -91,6 +91,8 @@ about-debugging-setup-this-firefox = { -brand-shorter-name } бұл нұсқас
 about-debugging-setup-connect-heading = Құрылғыны байланыстыру
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = Осыны іске қосу керек етілген Android USB жөндеу құраушыларын жүктеп алады және { -brand-shorter-name } ішіне қосады.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = USB құрылғыларын іске қосу
@@ -167,6 +169,25 @@ about-debugging-runtime-profile-button = Орындалу ортасын про�
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = Сіздің браузеріңіздің баптаулары Service Workers қолдамайды. <a>Көбірек білу</a>
+# This string is displayed in the runtime page if the remote browser version is too old.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-browser-version-too-old = Байланысқан браузер нұсқасы ескілеу ({ $runtimeVersion }). Қолдауы бар минималды нұсқасы ({ $minVersion }). Бұл баптауға қолдау жоқ және оның салдарынан Әзірлеуші құралдары құлауы мүмкін. Байланысқан браузерді жаңартыңыз. <a>Мәселелерді шешу</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# - from Fx 67 to 66 or to 65
+# - from Fx 68 to 66
+# Those are normally in range for DevTools compatibility policy, but specific non
+# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+about-debugging-browser-version-too-old-67-debugger = Жөндеуші панелі байланысқан браузермен жұмыс жасамауы мүмкін. Бұл браузермен Жөндеушіні қолданам десеңіз, кем дегенде Firefox { $runtimeVersion } қолданыңыз.
+# This string is displayed in the runtime page if the remote browser version is too recent.
+# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = Байланысқан браузер нұсқасы ({ $runtimeVersion }, buildID { $runtimeID }) сіздің браузер нұсқасынан { -brand-shorter-name } ({ $localVersion }, buildID { $localID }) жаңалау. Бұл баптауға қолдау жоқ және оның салдарынан Әзірлеуші құралдары құлауы мүмкін. Firefox-ты жаңартыңыз. <a>Мәселелерді шешу</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -186,7 +207,7 @@ about-debugging-profiler-dialog-title = Өнімділік профильдеу�
 # This checkbox will toggle preferences that enable local addon debugging.
 # The "Learn more" link points to MDN.
 # https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
-about-debugging-extension-debug-setting-label = Кеңейтуді жөндеуді іске қосу. <a>Көбірек білу</a>
+about-debugging-extension-debug-setting-label = Кеңейтулерді жөндеуді іске қосу. <a>Көбірек білу</a>
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
@@ -204,6 +225,8 @@ about-debugging-debug-target-inspect-button = Бақылау
 # Text of a button displayed in the "This Firefox" page, in the Temporary Extension
 # section. Clicking on the button will open a file picker to load a temporary extension
 about-debugging-tmp-extension-install-button = Уақытша қосымшаны жүктеу…
+# Text displayed when trying to install a temporary extension in the "This Firefox" page.
+about-debugging-tmp-extension-install-error = Уақытша кеңейтуді орнату кезінде қате кетті.
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = Қайта жүктеу
@@ -215,6 +238,8 @@ about-debugging-tmp-extension-remove-button = Өшіру
 # manifest.json .xpi and .zip should not be localized.
 # Note: this message is only displayed in Windows and Linux platforms.
 about-debugging-tmp-extension-install-message = Manifest.json немесе .xpi/.zip архивін таңдаңыз
+# This string is displayed as a message about the add-on having a temporaryID.
+about-debugging-tmp-extension-temporary-id = Бұл WebExtension-нің уақытша ID бар. <a>Көбірек білу</a>
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
