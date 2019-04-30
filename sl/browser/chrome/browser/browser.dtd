@@ -1035,6 +1035,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cryptominers.label "Kriptorudarji">
 <!ENTITY contentBlocking.cryptominersView.label "Kriptorudarji">
 
+<!ENTITY contentBlocking.fingerprinters.label "Sledilci prstnih odtisov">
+<!ENTITY contentBlocking.fingerprintersView.label "Sledilci prstnih odtisov">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Prijavi težavo">
 <!ENTITY contentBlocking.breakageReportView.label "Prijavite težave">

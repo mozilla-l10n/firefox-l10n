@@ -91,6 +91,8 @@ about-debugging-setup-this-firefox = Uporabite <a>{ about-debugging-this-firefox
 about-debugging-setup-connect-heading = Poveži napravo
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = Če to omogočite, boste v { -brand-shorter-name } prenesli in dodali potrebne komponente za razhroščevanje USB.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = Omogoči naprave USB
@@ -126,6 +128,10 @@ about-debugging-network-locations-host-input-label = Gostitelj
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Odstrani
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = Neveljaven gostitelj "{ $host-value }". Pričakovana oblika je "imegostitelja:številkavrat".
 # Text used as error message if the input value was already registered in the network locations form of the Setup page.
 # Variables:
 #   $host-value (string) - The input value submitted by the user in the network locations form
@@ -156,6 +162,9 @@ about-debugging-runtime-other-workers =
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Procesi
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button = Izvajalnik profila
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
@@ -172,6 +181,13 @@ about-debugging-browser-version-too-old = Povezan brskalnik je starejše različ
 # backward compatible changes broke the debugger in those scenarios (Bug 1528219).
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 about-debugging-browser-version-too-old-67-debugger = Plošča razhroščevalnika morda ne bo delovala s povezanim brskalnikom. Uporabite Firefox { $runtimeVersion }, če želite uporabiti razhroščevanje s tem brskalnikom.
+# This string is displayed in the runtime page if the remote browser version is too recent.
+# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = Povezani brskalnik je novejši ({ $runtimeVersion }, ID graditve: { $runtimeID }) od vašega { -brand-shorter-name }a ({ $localVersion }, ID graditve: { $localID }). Takšna namestitev ni podprta in lahko privede do napačnega delovanja razvojnih orodij. Posodobite Firefox. <a>Odpravljanje težav</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -185,6 +201,8 @@ about-debugging-connection-prompt-enable-button = Omogoči poziv za povezavo
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = Onemogoči poziv za povezavo
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title = Spremljanje učinkovitosti
 # Label of a checkbox displayed in the runtime page for "This Firefox".
 # This checkbox will toggle preferences that enable local addon debugging.
 # The "Learn more" link points to MDN.

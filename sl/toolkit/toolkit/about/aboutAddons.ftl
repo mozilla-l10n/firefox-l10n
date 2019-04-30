@@ -153,6 +153,9 @@ legacy-warning-show-legacy = Prikaži zastarele razširitve
 legacy-extensions =
     .value = Zastarele razširitve
 legacy-extensions-description = Te razširitve ne ustrezajo trenutnim standardom { -brand-short-name }a, zato so bile onemogočene. <label data-l10n-name="legacy-learn-more">Več o spremembah dodatkov</label>
+private-browsing-description2 =
+    { -brand-short-name } spreminja delovanje razširitev v zasebnem brskanju. Nove razširitve, dodane v { -brand-short-name } privzeto ne bodo delovale v zasebnih oknih. Razširitve ne bodo delovale v zasebnem brskanju in ne bodo imele dostopa do vaše spletne dejavnosti, razen če to dovolite v nastavitvah.
+    <label data-l10n-name="private-browsing-learn-more">Več o upravljanju nastavitev razširitev</label>
 extensions-view-discover =
     .name = Prenesi dodatke
     .tooltiptext = { extensions-view-discover.name }
