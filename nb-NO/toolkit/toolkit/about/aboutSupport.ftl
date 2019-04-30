@@ -24,6 +24,7 @@ features-title = { -brand-short-name }-funksjoner
 features-name = Navn
 features-version = Versjon
 features-id = ID
+processes-title = Fjernprosesser
 processes-type = Type
 processes-count = Antall
 app-basics-title = Programinfo
