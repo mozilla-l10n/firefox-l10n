@@ -115,10 +115,19 @@ about-debugging-setup-usb-step-enable-debug-firefox = Aktivigu la senerarigon US
 about-debugging-setup-usb-step-plug-device = Konektu la aparaton Android al via komputilo.
 # Network section of the Setup page
 about-debugging-setup-network =
-    .title = Pozicio de la reto
+    .title = Reta situo
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Aldoni
+# Text to display when there are no locations to show.
+about-debugging-network-locations-empty-text = Neniu reta situo estis ankoraŭ aldonita.
+# Text of the label for the text input that allows users to add new network locations in
+# the Connect page. A host is a hostname and a port separated by a colon, as suggested by
+# the input's placeholder "localhost:6080".
+about-debugging-network-locations-host-input-label = Servilo
+# Text of a button displayed next to existing network locations in the Connect page.
+# Clicking on it removes the network location from the list.
+about-debugging-network-locations-remove-button = Forigi
 
 # Runtime Page strings
 
