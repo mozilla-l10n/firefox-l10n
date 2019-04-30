@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Ütz apetik">
 <!ENTITY firstrun_urlbar_message2 "Matyox ruma nacha\&apos; ri &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Ütz apetik pa &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Jun k\&apos;ak\&apos;a\&apos; oyonib\&apos;äl chi rokik\&apos;amaya\&apos;l Mozilla, ri majun ch\&apos;akoj rojqan chuqa\&apos; rujikib\&apos;an rutzij chi rij jun jamäl chuqa\&apos; jaqäl ajk\&apos;amaya\&apos;l.">
+<!ENTITY newfirstrun_urlbar_subtext "Aninäq, ichinan chuqa\&apos; k\&apos;o chachi\&apos;.">
 <!ENTITY firstrun_panel_title_privacy "Ichinanem">
 <!ENTITY firstrun_privacy_message "Yatok pa k\&apos;amaya\&apos;l achi\&apos;el majun yatz\&apos;eto">
 <!ENTITY firstrun_privacy_subtext "Ichinan Okem pa k\&apos;amaya\&apos;l rik\&apos;in Chajinïk chuwäch Ojqanem yeruq\&apos;ät ri ojqanela\&apos; toq atokinäq pa k\&apos;amaya\&apos;l chuqa\&apos; man nunataj ta ri anatab\&apos;al toq yatel pa k\&apos;amaya\&apos;l.">
+<!ENTITY newfirstrun_privacy_subtext "Ri ichinan okem pa k\&apos;amaya\&apos;l yeruq\&apos;ät ri rojqanela\&apos; eltzijol yatkojqaj pa k\&apos;amab\&apos;ey.">
 <!ENTITY firstrun_panel_title_customize "Tichinäx">
 <!ENTITY firstrun_customize_message "Tab\&apos;ana\&apos; ri &brandShortName; nok awichin.">
 <!ENTITY firstrun_customize_subtext "Tawichinaj &brandShortName; rik\&apos;in taq tz\&apos;aqat. Yeq\&apos;at taq rutzijol, ye\&apos;atz\&apos;aqatisaj taq samaj, nacha\&apos; jun k\&apos;ak\&apos;a\&apos; wachinïk richin nak\&apos;üt ri ana\&apos;oj.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Tak\&apos;ama\&apos; el akuchi\&apos; xaya\&apos; wi kan.">
 <!ENTITY firstrun_sync_subtext2 "Tawokisaj Sync richin ye\&apos;awïl ri taq yaketal, ewan taq tzij, chuqa\&apos; ronojel ri nayäk pa &brandShortName; pa ronojel ri taq awokisaxel.">
+<!ENTITY newfirstrun_sync_subtext "Taxima\&apos; ri rupam xayäk pan awoyonib\&apos;al rik\&apos;in Firefox richin ajch\&apos;atal, rik\&apos;in ichinanem chuqa\&apos; ütz rub\&apos;anikil.">
 <!ENTITY firstrun_signin_message "Katok, tatikirisaj">
 <!ENTITY firstrun_signin_button "Tatikirisaj molojri\&apos;ïl pa Ximojri\&apos;ïl">
+<!ENTITY newfirstrun_signin_button "Titzij Ximoj">
 <!ENTITY  onboard_start_button_browser "Tichap okem pa k\&apos;amaya\&apos;l">
 <!ENTITY firstrun_button_notnow "Wakami mani">
 <!ENTITY firstrun_button_next "Jun chik">
@@ -409,6 +414,12 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "Ximon taq ruwi\&apos;">
 
 <!ENTITY pref_default_browser "Tib\&apos;an chi tok jun okik\&apos;amaya\&apos;l ri kan ruk\&apos;amon wi pe">
+
+<!ENTITY pref_default_browser2 "Tib\&apos;an chi ri &brandShortName; awokik\&apos;amaya\&apos;l kan k\&apos;o wi">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Tachapa\&apos; ri Okik\&apos;amaya\&apos;l chokoy &amp; tacha\&apos; &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Tab\&apos;etz\&apos;eta\&apos; Ruto\&apos;ik Mozilla">
 <!ENTITY pref_about_firefox "Rutzijol &brandShortName;">
 <!ENTITY pref_vendor_faqs "Junelïk taq k\&apos;utunïk">
@@ -503,6 +514,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "Chuwäch">
 <!ENTITY find_next "Jun chik">
 <!ENTITY find_close "Titz\&apos;apïx">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "Man xilitäj ta ri pajtzij">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
