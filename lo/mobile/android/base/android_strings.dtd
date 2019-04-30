@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "ຍິນດີຕ້ອນຮັບ">
 <!ENTITY firstrun_urlbar_message2 "ຂອບໃຈທີ່ເລືອກໃຊ້ &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "ຍິນດີຕ້ອນຮັບສູ່ &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "ເປັນຫນຶ່ງເວັບບຣາວເຊີທີ່ທັນສະໄຫມສຳລັບໂທລະສັບຂອງ Mozilla ທີ່ເປັນອົງກອນບໍ່ຫວັງຜົນກຳໄລ ມຸ່ງຫມັ້ນເພື່ອສ້າງເວັບຟຣີ ແລະ ເປີດກ້ວາງ.">
+<!ENTITY newfirstrun_urlbar_subtext "ວ່ອງໄວ, ເປັນສ່ວນຕົວ ແລະ ເປັນຂອງທ່ານ.">
 <!ENTITY firstrun_panel_title_privacy "ຄວາມເປັນສ່ວນຕົວ">
 <!ENTITY firstrun_privacy_message "ທ່ອງເວັບແບບບໍ່ມີໃຜມາຫລັກເຝົ້າຕິດຕາມ.">
 <!ENTITY firstrun_privacy_subtext "ການທ່ອງເວັບແບບສ່ວນຕົວພ້ອມກັບຕົວບັອກການປ້ອງກັນການຕິດຕາມໃນຂະນະທີ່ທ່ານທ່ອງເວັບ ແລະ ມັນຈະບໍ່ບັນທຶກປະຫວັດການທ່ອງເວັບຂອງທ່ານໄວ້.">
+<!ENTITY newfirstrun_privacy_subtext "ການທ່ອງເວັບແບບສ່ວນຕົວຈະບັອກການໂຄສະນາທີ່ຕິດຕາມທ່ານໃນເວລາອອນລາຍໄດ້.">
 <!ENTITY firstrun_panel_title_customize "ປັບແຕ່ງ">
 <!ENTITY firstrun_customize_message "ເຮັດໃຫ້ &brandShortName; ເປັນຂອງທ່ານເອງ.">
 <!ENTITY firstrun_customize_subtext "ປັບແຕ່ງ &brandShortName; ໂດຍ add-ons. ບັອກການໂຄສະນາ, ເພີ່ມຄຸນລັກສະນະ ຫລື ເລືອກເທມໃຫມ່ເພື່ອສະທ້ອນເຖິງບຸກຄະລິກຂອງທ່ານ.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "ຮັບເອົາຈາກບ່ອນທີ່ທ່ານໄດ້ປະເອົາໄວ້.">
 <!ENTITY firstrun_sync_subtext2 "ໃຊ້ Sync ເພື່ອຊອກຫາບຸກມາກ, ລະຫັດຜ່ານ, ແລະ ສິ່ງອື່ນໆທີ່ທ່ານໄດ້ບັນທຶກໄວ້ທີ່ &brandShortName; ໃນອຸປະກອນທັງຫມົດຂອງທ່ານ.">
+<!ENTITY newfirstrun_sync_subtext "Sync ສິ່ງທີ່ທ່ານບັນທຶກໄວ້ໃນໂທລະສັບໄປຫາ Firefox ສຳລັບເດສກທັອບ ເພື່ອໃຫ້ມີຄວາມເປັນສ່ວນຕົວ ແລະ ປອດໄພ.">
 <!ENTITY firstrun_signin_message "ຮັບການເຊື່ອມຕໍ່ ເລີມຕົ້ນເຮັດວຽກ">
 <!ENTITY firstrun_signin_button "ເຂົ້າສູ່ລະບົບເພື່ອ Sync">
+<!ENTITY newfirstrun_signin_button "ເປີດ Sync">
 <!ENTITY  onboard_start_button_browser "ເລີ່ມການທ່ອງເວັບ">
 <!ENTITY firstrun_button_notnow "ບໍ່ແມ່ນຕອນນີ້">
 <!ENTITY firstrun_button_next "ຕໍ່ໄປ">
@@ -409,6 +414,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "Synced ແທັບ">
 
 <!ENTITY pref_default_browser "ຕັ້ງໃຫ້ເປັນບຣາວເຊີຫລັກ">
+
+<!ENTITY pref_default_browser2 "ຕັ້ງ &brandShortName; ເປັນບຣາວເຊີຫລັກຂອງທ່ານ">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY pref_default_browser_mozilla_support_tablet "ເຂົ້າໄປທີ່ການສະຫນັບສະຫນູນຂອງ Mozilla">
 <!ENTITY pref_about_firefox "ກ່ຽວກັບ &brandShortName;">
 <!ENTITY pref_vendor_faqs "ຄຳຖາມທີພົບເປັນປະຈຳ">
@@ -503,6 +513,9 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "ກ່ອນຫນ້ານີ້">
 <!ENTITY find_next "ຕໍ່ໄປ">
 <!ENTITY find_close "ປິດ">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
