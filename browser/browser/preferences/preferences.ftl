@@ -66,7 +66,7 @@ feature-enable-requires-restart = { -brand-short-name } phải khởi động l�
 feature-disable-requires-restart = { -brand-short-name } phải khởi động lại để vô hiệu hóa tính năng này.
 should-restart-title = Khởi động lại { -brand-short-name }
 should-restart-ok = Khởi động lại { -brand-short-name } ngay
-cancel-no-restart-button = Hủy
+cancel-no-restart-button = Hủy bỏ
 restart-later = Khởi động lại sau
 
 ## Extension Control Notifications
@@ -511,7 +511,7 @@ sync-device-name-change =
     .label = Thay đổi tên thiết bị…
     .accesskey = h
 sync-device-name-cancel =
-    .label = Hủy
+    .label = Hủy bỏ
     .accesskey = n
 sync-device-name-save =
     .label = Lưu

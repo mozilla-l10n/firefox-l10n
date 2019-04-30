@@ -13,7 +13,7 @@ sync-disconnect-remove-other-data = Cookie, cache, dữ liệu ngoại tuyến, 
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Đang ngắt kết nối...
 sync-disconnect-cancel =
-    .label = Hủy
+    .label = Hủy bỏ
     .accesskey = H
 
 ## Disconnect confirm Button
