@@ -3,9 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 process-type-web = Веб құрамасы
+# process used to run privileged pages,
+# such as about:home
+process-type-privileged = Артықшылықты құрама
 process-type-extension = Кеңейту
 # process used to open file:// URLs
 process-type-file = Жергілікті файл
+# process used to isolate webpages that requested special
+# permission to allocate large amounts of memory
+process-type-weblargeallocation = Үлкен бөлу
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
