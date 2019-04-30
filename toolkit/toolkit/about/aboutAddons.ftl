@@ -97,6 +97,8 @@ detail-private-browsing-description2 = Când are permisiunea, extensia va avea a
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overriden by the user.
 detail-private-disallowed-label = Nepermis în ferestre private
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Necesită acces la ferestre private
 detail-private-browsing-on =
     .label = Permite
     .tooltiptext = Activează în navigarea privată
