@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Hoş geldiniz">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName;’u seçtiğiniz için teşekkürler">
+<!ENTITY newfirstrun_urlbar_message "&brandShortName; tarayıcısına hoş geldiniz">
 <!ENTITY firstrun_urlbar_subtext2 "Kâr amacı gütmeden özgür ve açık web’i korumaya ant içmiş Mozilla’dan, çağdaş bir mobil tarayıcı.">
+<!ENTITY newfirstrun_urlbar_subtext "Hızlı, gizli ve hep yanınızda.">
 <!ENTITY firstrun_panel_title_privacy "Gizlilik">
 <!ENTITY firstrun_privacy_message "Hiç kimse izlemiyormuş gibi gez">
 <!ENTITY firstrun_privacy_subtext "İzlenme Koruması ile Gizli Gezinti, siz gezinirken takipçileri engeller ve işiniz bitince tüm gezinti geçmişinizi imha eder.">
+<!ENTITY newfirstrun_privacy_subtext "Gizli gezinti, internette sizi izleyen reklam takipçilerini engeller.">
 <!ENTITY firstrun_panel_title_customize "Özelleştir">
 <!ENTITY firstrun_customize_message "&brandShortName; senindir, senin kalacak.">
 <!ENTITY firstrun_customize_subtext "&brandShortName; tarayıcınızı eklentilerle kişiselleştirebilirsiniz. Reklamları engelleyin, yeni özellikler ekleyin, isterseniz kişiliğinizi yansıtacak bir tema seçin.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Kaldığın yerden devam et.">
 <!ENTITY firstrun_sync_subtext2 "Tüm cihazlarınızda &brandShortName;’a kaydettiğiniz yer imlerine, parolalara ve diğer bilgilere ulaşmak için Sync’i kullanabilirsiniz.">
+<!ENTITY newfirstrun_sync_subtext "Mobil cihazınızda kaydettiğiniz her şeyi bilgisayarınızdaki Firefox’a güvenle aktarın.">
 <!ENTITY firstrun_signin_message "Bağlan, kullanmaya başla">
 <!ENTITY firstrun_signin_button "Sync’e giriş yap">
+<!ENTITY newfirstrun_signin_button "Sync’i etkinleştir">
 <!ENTITY  onboard_start_button_browser "Gezinmeye başla">
 <!ENTITY firstrun_button_notnow "Daha sonra">
 <!ENTITY firstrun_button_next "İleri">
@@ -413,7 +418,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_default_browser2 "&brandShortName; varsayılan tarayıcınız olsun">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
-    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "“Tarayıcı uygulaması”na dokunup &brandShortName;’u seçin">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla Destek’i ziyaret et">
 <!ENTITY pref_about_firefox "&brandShortName; hakkında">
