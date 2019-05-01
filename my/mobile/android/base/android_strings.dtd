@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "ကြိုဆိုပါသည်">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; ကိုရွေးချယ်သည့်အတွက် ကျေးဇူးတင်ပါသည်">
+<!ENTITY newfirstrun_urlbar_message "&brandShortName; မှကြိုဆိုပါတယ်">
 <!ENTITY firstrun_urlbar_subtext2 "လွတ်လပ်ပွင့်လင်းသော ဝဘ်ဖြစ်စေရန် ဆောင်ရွက်နေသော အကျိုးအမြတ်အတွက်မဟုတ်သော အဖွဲ့အစည်း Mozilla ထံမှ ခေတ်မီဆန်းသစ်သော မိုဘိုင်းဘရောင်ဇာ။">
+<!ENTITY newfirstrun_urlbar_subtext "သင့်အတွက် မြန်ဆန်လုံခြုံသောစနစ်">
 <!ENTITY firstrun_panel_title_privacy "ကိုယ်ပိုင်လွတ်လပ်ခွင့်">
 <!ENTITY firstrun_privacy_message "မည်သူမျှစောင့်ကြည့်မနေသကဲ့သို့ အသုံးပြုပါ">
 <!ENTITY firstrun_privacy_subtext "နောက်ယောင်ခံ ကာကွယ်မှု ပါဝင်သော သီးသန့်ကြည့်ရှုခြင်းသည် အင်တာနက်တွင် လည်ပတ်နေစဉ် နောက်ယောင်ခံများကို တားဆီးပါသည်။ ထို့ပြင် လည်ပတ်မှုပြီးဆုံးပါက လည်ပတ်မှတ်တမ်းကို မှတ်သားမထားပါ။">
+<!ENTITY newfirstrun_privacy_subtext "ကိုယ်ပိုင်ရှာဖွေမှုသည် သင့်ကို လိုင်းပေါ်တွင်ခြေရာခံသူများမမြင်နိုင်အောင်တားဆီးထားသည်။">
 <!ENTITY firstrun_panel_title_customize "စိတ်ကြိုက်ပြင်ဆင်ရန်">
 <!ENTITY firstrun_customize_message "&brandShortName; ကို ကိုယ်ပိုင်ဘရောင်ဇာ ဖြစ်စေပါ။">
 <!ENTITY firstrun_customize_subtext "အတ်အွန်များအသုံးပြုပြီး &brandShortName; ကို စိတ်ကြိုက်ပြုပြင်ပါ။ ကြော်ငြာများကို တားဆီးပါ၊ စွမ်းရည်အသစ်များကို ပေါင်းထည့်ပါ သို့မဟုတ် မိမိ၏ပုံရိပ်ကို ထင်ဟပ်စေမည့် အခင်းအကျင်းတစ်ခုကို ရွေးချယ်ပါ။">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "ထပ်တူပြုပြိုင်တူအသုံးပြုခြင်း">
 <!ENTITY firstrun_sync_message2 "သင်ထွက်ခွာသွားသည့်နေရာကနေ စတင်အသုံးပြုပါ။">
 <!ENTITY firstrun_sync_subtext2 "ကိရိယာများရှိ &brandShortName; တွင် သိမ်းထားသော စာမှတ်များ၊ စကားဝှက်များနှင့် အခြားအရာများကို ရှာဖွေရန် Sync ကို အသုံးပြုပါ။">
+<!ENTITY newfirstrun_sync_subtext "သင့်သိမ်းထားသောမိုဘိုင်းပေါ်မှအချက်အလက်များကို ဒတ်စတော့ဆီသို့ လုံခြုံစွာ သီးသန့်ကူးယူပါ။">
 <!ENTITY firstrun_signin_message "ချိတ်ဆက်ပါ။ စတင်အသုံးပြုပါ။">
 <!ENTITY firstrun_signin_button "Sync လုပ်ဆောင်ရန် ဝင်ရောက်ပါ">
+<!ENTITY newfirstrun_signin_button "Sync ဖွင့်ပါ">
 <!ENTITY  onboard_start_button_browser "စတင် ကြည့်ရှုရှာဖွေရန်">
 <!ENTITY firstrun_button_notnow "ယခု မဆောင်ရွက်သေးပါ">
 <!ENTITY firstrun_button_next "ရှေ့သို့">
@@ -409,6 +414,12 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "ချိတ်ဆက်ထားသော တပ်ဗ်များ">
 
 <!ENTITY pref_default_browser "ပုံသေအသုံးပြုမည့် ဘရောက်ဇာအဖြစ် သတ်မှတ်ပါ">
+
+<!ENTITY pref_default_browser2 "သင့်အမြဲသုံးဘရောက်ဇာအဖြစ် &brandShortName; ကို ပြုလုပ်ပါ">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "&amp; ဘရောက်ဇာအက် ကိုထိပါ &brandShortName; ကို ရွေးပါ">
 <!ENTITY pref_default_browser_mozilla_support_tablet "မော်ဇီလာ အထောက်အပံ့သို့ လည်ပတ်ကြည့်ရှုပါ">
 <!ENTITY pref_about_firefox "&brandShortName; အကြောင်း">
 <!ENTITY pref_vendor_faqs "မေးလေ့ရှိသော မေးခွန်းများ">
@@ -503,6 +514,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "အရင်နေရာ">
 <!ENTITY find_next "နောက်တစ်ခု">
 <!ENTITY find_close "ပိတ်ပါ">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "စကားစုမတွေ့ပါ">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
