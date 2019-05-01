@@ -49,7 +49,7 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
-cfr-doorhanger-pintab-step1 = <b>Clic dreapta</b> pe fila pe care dorești să o fixezi.
+cfr-doorhanger-pintab-step1 = <b>Clic dreapta</b> pe fila pe care vrei să o fixezi.
 cfr-doorhanger-pintab-step2 = Selectează <b>Fixează fila</b> din meniu.
 cfr-doorhanger-pintab-animation-pause = Pauză
 cfr-doorhanger-pintab-animation-resume = Continuă
