@@ -154,50 +154,50 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editContactContext.accesskey                   "R">
 <!ENTITY editMailingListContext.label                   "Redakti liston">
 <!ENTITY editMailingListContext.accesskey               "R">
-<!ENTITY newmsgButton.label                             "Write">
-<!ENTITY newmsgButton.accesskey                         "W">
-<!ENTITY newIM.label                                    "Instant Message">
-<!ENTITY newIM.accesskey                                "I">
-<!ENTITY printButton.label                              "Print…">
-<!ENTITY printButton.accesskey                          "r">
-<!ENTITY deleteButton2.label                            "Delete">
-<!ENTITY deleteButton2.accesskey                        "D">
+<!ENTITY newmsgButton.label                             "Sendi retleteron">
+<!ENTITY newmsgButton.accesskey                         "l">
+<!ENTITY newIM.label                                    "Sendi tujmesaĝon">
+<!ENTITY newIM.accesskey                                "t">
+<!ENTITY printButton.label                              "Presi…">
+<!ENTITY printButton.accesskey                          "P">
+<!ENTITY deleteButton2.label                            "Forigi">
+<!ENTITY deleteButton2.accesskey                        "F">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newContactButton.tooltip                       "Create a new address book contact">
-<!ENTITY newlistButton.tooltip                          "Create a new list">
-<!ENTITY editPropertiesButton.tooltip                   "Edit the selected item">
-<!ENTITY editAbPropertiesButton.tooltip                 "Edit the properties of the selected address book">
-<!ENTITY editContactPropertiesButton.tooltip            "Edit the selected contact">
-<!ENTITY editMailingListPropertiesButton.tooltip        "Edit the selected mailing list">
-<!ENTITY newmsgButton.tooltip                           "Send a mail message">
-<!ENTITY newIM.tooltip                                  "Send an instant message or chat">
-<!ENTITY deleteButton2.tooltip                          "Delete selected item">
+<!ENTITY newContactButton.tooltip                       "Krei novan kontakton en la adresaro">
+<!ENTITY newlistButton.tooltip                          "Krei novan dissendoliston">
+<!ENTITY editPropertiesButton.tooltip                   "Redakti elektitan objekton">
+<!ENTITY editAbPropertiesButton.tooltip                 "Redakti atributojn de elektita adresaro">
+<!ENTITY editContactPropertiesButton.tooltip            "Redakti elektitan kontakton">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Redakti elektitan dissendoliston">
+<!ENTITY newmsgButton.tooltip                           "Sendi retleteron">
+<!ENTITY newIM.tooltip                                  "Babili per tujmesaĝilo">
+<!ENTITY deleteButton2.tooltip                          "Forigi elektitan objekton">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label                        "Name or Email">
+<!ENTITY SearchNameOrEmail.label                        "Nomo aŭ retpoŝta adreso">
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
-<!ENTITY advancedButton.tooltip                         "Advanced address search">
+<!ENTITY advancedButton.tooltip                         "Sperta serĉo de adreso">
 <!ENTITY quickSearchCmd.key                             "k">
-<!ENTITY searchItem.title "Quick Search">
+<!ENTITY searchItem.title "Rapide serĉi">
 
 <!-- Results Pane -->
-<!ENTITY Addrbook.label                                 "Address Book">
-<!ENTITY Addrbook.accesskey                             "B">
-<!ENTITY GeneratedName.label                            "Name">
+<!ENTITY Addrbook.label                                 "Adresaro">
+<!ENTITY Addrbook.accesskey                             "A">
+<!ENTITY GeneratedName.label                            "Nomo">
 <!ENTITY GeneratedName.accesskey                        "N">
-<!ENTITY PrimaryEmail.label                             "Email">
-<!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ChatName.label                                 "Chat Name">
-<!ENTITY ChatName.accesskey                             "C">
-<!ENTITY Company.label                                  "Organization">
-<!ENTITY Company.accesskey                              "z">
-<!ENTITY NickName.label                                 "Nickname">
-<!ENTITY NickName.accesskey                             "i">
-<!ENTITY SecondEmail.label                              "Additional Email">
+<!ENTITY PrimaryEmail.label                             "Retpoŝta adreso">
+<!ENTITY PrimaryEmail.accesskey                         "R">
+<!ENTITY ChatName.label                                 "Tujmesaĝila nomo">
+<!ENTITY ChatName.accesskey                             "T">
+<!ENTITY Company.label                                  "Firmao/organizaĵo">
+<!ENTITY Company.accesskey                              "g">
+<!ENTITY NickName.label                                 "Kaŝnomo">
+<!ENTITY NickName.accesskey                             "K">
+<!ENTITY SecondEmail.label                              "Plia retpoŝta adreso">
 <!ENTITY SecondEmail.accesskey                          "l">
-<!ENTITY Department.label                               "Department">
-<!ENTITY Department.accesskey                           "r">
+<!ENTITY Department.label                               "Sekcio">
+<!ENTITY Department.accesskey                           "S">
 <!ENTITY JobTitle.label                                 "Title">
 <!ENTITY JobTitle.accesskey                             "T">
 <!ENTITY CellularNumber.label                           "Mobile">

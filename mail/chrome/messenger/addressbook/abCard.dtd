@@ -87,11 +87,11 @@
 
 <!ENTITY Work.tab                       "Laborejo">
 <!ENTITY Work.accesskey                 "L">
-<!ENTITY JobTitle.label                 "Posteno">
+<!ENTITY JobTitle.label                 "Posteno:">
 <!ENTITY JobTitle.accesskey             "o">
 <!ENTITY Department.label               "Sekcio:">
 <!ENTITY Department.accesskey           "S">
-<!ENTITY Company.label                  "Organizaĵo:">
+<!ENTITY Company.label                  "Firmao/organizaĵo:">
 <!ENTITY Company.accesskey              "g">
 <!ENTITY WorkAddress.label              "Adreso:">
 <!ENTITY WorkAddress.accesskey          "d">
