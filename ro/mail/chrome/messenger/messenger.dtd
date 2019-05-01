@@ -917,7 +917,7 @@
 <!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "Creează filtru din…">
 <!ENTITY CreateFilterFrom.accesskey "f">
-<!ENTITY reportPhishingURL.label "Raportează înșelătorie prin e-mail">
+<!ENTITY reportPhishingURL.label "Raportează o înșelăciune prin e-mail">
 <!ENTITY reportPhishingURL.accesskey "o">
 
 <!-- Spell checker context menu items -->

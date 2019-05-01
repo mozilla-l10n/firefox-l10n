@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemJunk.label          "Nesolicitate">
-<!ENTITY itemPhishing.label      "Înșelătorii prin e-mail">
+<!ENTITY itemPhishing.label      "Înșelăciune prin e-mail">
 <!ENTITY itemPasswords.label     "Parole">
 <!ENTITY itemAntiVirus.label     "Antivirus">
 
@@ -25,10 +25,10 @@
 <!ENTITY resetTrainingData.accesskey "R">
 
 <!-- Phishing Detector -->
-<!ENTITY phishingDetector1.intro  "&brandShortName; poate analiza mesajele pentru a depista eventuale înșelătorii prin e-mail menite să te inducă în eroare.">
-<!ENTITY enablePhishingDetector1.label    "Spune-mi dacă mesajul pe care-l citesc pare să fie o înșelătorie">
+<!ENTITY phishingDetector1.intro  "&brandShortName; poate analiza mesajele pentru a depista o eventuală înșelăciune prin e-mail, căutând tehnici frecvente menite să inducă în eroare.">
+<!ENTITY enablePhishingDetector1.label    "Spune-mi dacă mesajul pe care-l citesc este suspectat de înșelăciune prin e-mail">
 <!ENTITY enablePhishingDetector1.accesskey  "t">
-<!ENTITY useDownloadedList.label "Utilizează o listă de mesaje suspecte de înșelătorie">
+<!ENTITY useDownloadedList.label "Utilizează o listă descărcată cu mesaje suspectate de înșelăciune prin e-mail">
 <!ENTITY useDownloadedList.accesskey "U">
 
 <!-- Passwords -->
