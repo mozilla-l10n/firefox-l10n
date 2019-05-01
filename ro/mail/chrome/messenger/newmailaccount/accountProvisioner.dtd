@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Bine ai venit la &brandShortName;">
-<!ENTITY header2.label "Doriți o adresă de e-mail nouă?">
+<!ENTITY header2.label "Vrei o adresă de e-mail nouă?">
 <!ENTITY other.languages "Afișăm doar furnizorii care oferă adrese în zona ta. Clic aici pentru a afișa toți furnizorii.">
 <!ENTITY error.line1 "Ne pare rău, nu am putut găsi nicio sugestie de adresă de e-mail.">
 <!ENTITY error.line2 "Poți căuta și pseudonime sau orice alt termen pentru a găsi mai multe e-mailuri.">

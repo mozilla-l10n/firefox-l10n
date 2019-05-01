@@ -97,6 +97,7 @@
 
 <!ENTITY detachedAttachmentFolder.show.label        "Deschide dosarul în care se află">
 <!ENTITY detachedAttachmentFolder.show.accesskey    "F">
+<!ENTITY detachedAttachmentFolder.showMac.label     "Afișează în Finder">
 <!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
 
 <!-- Attachment toolbar items -->
