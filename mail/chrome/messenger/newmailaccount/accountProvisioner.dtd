@@ -17,6 +17,7 @@
      around the name that the user has typed in to the search input. -->
 <!ENTITY success.title.before "สวัสดี ">
 <!ENTITY success.title.after " ที่อยู่อีเมลดังต่อไปนี้มีให้คุณใช้งานได้:">
+<!ENTITY partnership.description "ในความร่วมมือกับผู้ให้บริการหลายราย &brandShortName; สามารถเสนอบัญชีอีเมลใหม่ให้คุณ เพียงกรอกชื่อและนามสกุลของคุณหรือคำอื่น ๆ ที่คุณต้องการในช่องด้านบนเพื่อเริ่มต้น">
 <!ENTITY existing.header "มีที่อยู่ที่คุณต้องการใช้อยู่แล้วหรือไม่?">
 <!ENTITY tinyheader.title "มีที่อยู่หรือไม่?">
 <!ENTITY tinyheader.existing "ข้ามสิ่งนี้และใช้อีเมลที่มีอยู่ของฉัน">
