@@ -33,7 +33,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription1.label "Acest asistent va importa mesajele de e-mail, intrările din agenda de contacte, abonamentele la fluxuri, preferințele și/sau filtrele din alte programe de e-mail și formatele comune ale agendei de contacte în &brandShortName;.">
 <!ENTITY importDescription2.label "Odată ce acestea au fost importate, le vei putea accesa din cadrul &brandShortName;.">
 
-<!ENTITY selectDescription.label  "Selectează tipul de fișier pe care dorești să-l imporți:">
+<!ENTITY selectDescription.label  "Selectează tipul de fișier pe care vrei să îl imporți:">
 <!ENTITY selectDescriptionB.label "Te rugăm să selectezi un cont existent sau să creezi un cont nou:">
 <!ENTITY selectDescription.accesskey "p">
 <!ENTITY acctName.label           "Nume:">

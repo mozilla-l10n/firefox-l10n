@@ -9,7 +9,7 @@
 <!ENTITY fieldMapImport.next.accesskey "n">
 <!ENTITY fieldMapImport.previous.label "Înapoi">
 <!ENTITY fieldMapImport.previous.accesskey "p">
-<!ENTITY fieldMapImport.text "Folosește Mută sus și Mută jos pentru a potrivi câmpurile agendei de contacte din stânga cu datele corecte de importat din dreapta. Nu bifa elementele pe care nu dorești să le imporți.">
+<!ENTITY fieldMapImport.text "Folosește Mută sus și Mută jos pentru a potrivi câmpurile agendei de contacte din stânga cu datele corecte de importat din dreapta. Nu bifa elementele pe care nu vrei să le imporți.">
 <!ENTITY fieldMapImport.up.label "Mută în sus">
 <!ENTITY fieldMapImport.up.accesskey "u">
 <!ENTITY fieldMapImport.down.label "Mută în jos">

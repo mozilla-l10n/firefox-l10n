@@ -12,7 +12,7 @@
 <!ENTITY accountSetupInfo2.label "Pentru a putea primi mesaje, trebuie să adaugi un cont.">
 <!ENTITY accountTypeTitle.label "Configurare de cont nou">
 <!ENTITY accountTypeDesc2.label "Acest asistent va colecta informațiile necesare configurării unui cont. Dacă nu cunoști informațiile necesare, te rugăm să contactezi administratorul de sistem sau furnizorul de servicii internet.">
-<!ENTITY accountTypeDirections.label "Selectează tipul de cont pe care dorești să-l creezi:">
+<!ENTITY accountTypeDirections.label "Selectează tipul de cont pe care vrei să îl configurezi:">
 <!ENTITY accountTypeMail.label "Cont de e-mail">
 <!ENTITY accountTypeMail.accesskey "m">
 <!ENTITY accountTypeNews.label "Cont pentru grupuri de discuții">
@@ -27,7 +27,7 @@
 <!ENTITY identityDesc.label "Fiecare cont are propria identitate, adică datele prin care te identifici față de ceilalți care primesc mesaje de la tine.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY fullnameDesc.label "Introdu numele care dorești să apară în câmpul „From” („De la”) al mesajelor pe care le trimiți">
+<!ENTITY fullnameDesc.label "Introdu numele care să apară în câmpul &quot;De la&quot; din mesajele pe care le trimiți">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
@@ -106,7 +106,7 @@
 
 <!ENTITY accnameTitle.label "Denumire cont">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-<!ENTITY accnameDesc.label "Introdu un nume pe care dorești să-l acorzi acestui cont (de exemplu, „Cont de la serviciu”, „Cont de acasă” sau „Cont pentru știri”).">
+<!ENTITY accnameDesc.label "Introdu un nume de referință pentru acest cont (de exemplu, „Cont de serviciu”, „Cont de acasă” sau „Cont de știri”).">
 <!ENTITY accnameLabel.label "Denumirea contului:">
 <!ENTITY accnameLabel.accesskey "a">
 
