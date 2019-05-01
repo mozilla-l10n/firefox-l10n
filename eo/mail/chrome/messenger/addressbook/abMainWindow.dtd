@@ -11,18 +11,18 @@
 <!ENTITY fileMenu.accesskey                             "D">
 <!ENTITY newMenu.label                                  "Krei">
 <!ENTITY newMenu.accesskey                              "K">
-<!ENTITY newContact.label                               "kontakton…">
-<!ENTITY newContact.accesskey                           "k">
+<!ENTITY newContact.label                               "Kontakton…">
+<!ENTITY newContact.accesskey                           "K">
 <!ENTITY newContact.key                                 "N">
-<!ENTITY newListCmd.label                               "dissendoliston…">
-<!ENTITY newListCmd.accesskey                           "d">
-<!ENTITY newAddressBookCmd.label                        "adresaron…">
-<!ENTITY newAddressBookCmd.accesskey                    "a">
-<!ENTITY newLDAPDirectoryCmd.label                      "katalogon LDAP…">
+<!ENTITY newListCmd.label                               "Dissendoliston…">
+<!ENTITY newListCmd.accesskey                           "D">
+<!ENTITY newAddressBookCmd.label                        "Adresaron…">
+<!ENTITY newAddressBookCmd.accesskey                    "A">
+<!ENTITY newLDAPDirectoryCmd.label                      "Katalogon LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "L">
-<!ENTITY newMessageCmd.label                            "mesaĝon…">
+<!ENTITY newMessageCmd.label                            "Mesaĝon…">
 <!ENTITY newMessageCmd.key                              "M">
-<!ENTITY newMessageCmd.accesskey                        "m">
+<!ENTITY newMessageCmd.accesskey                        "M">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
 <!ENTITY osxAddressBook.label                           "Uzi adresaron Mac OS X">
 <!ENTITY osxAddressBook.accesskey                       "X">
@@ -195,49 +195,49 @@ because displayed names don't have the comma in between. -->
 <!ENTITY NickName.label                                 "Kaŝnomo">
 <!ENTITY NickName.accesskey                             "K">
 <!ENTITY SecondEmail.label                              "Plia retpoŝta adreso">
-<!ENTITY SecondEmail.accesskey                          "l">
+<!ENTITY SecondEmail.accesskey                          "i">
 <!ENTITY Department.label                               "Sekcio">
 <!ENTITY Department.accesskey                           "S">
-<!ENTITY JobTitle.label                                 "Title">
-<!ENTITY JobTitle.accesskey                             "T">
-<!ENTITY CellularNumber.label                           "Mobile">
-<!ENTITY CellularNumber.accesskey                       "M">
-<!ENTITY PagerNumber.label                              "Pager">
-<!ENTITY PagerNumber.accesskey                          "P">
-<!ENTITY FaxNumber.label                                "Fax">
-<!ENTITY FaxNumber.accesskey                            "F">
-<!ENTITY HomePhone.label                                "Home Phone">
-<!ENTITY HomePhone.accesskey                            "H">
-<!ENTITY WorkPhone.label                                "Work Phone">
-<!ENTITY WorkPhone.accesskey                            "W">
-<!ENTITY sortAscending.label                            "Ascending">
-<!ENTITY sortAscending.accesskey                        "A">
-<!ENTITY sortDescending.label                           "Descending">
-<!ENTITY sortDescending.accesskey                       "D">
-<!ENTITY _PhoneticName.label                            "Phonetic Name">
-<!ENTITY _PhoneticName.accesskey                        "o">
+<!ENTITY JobTitle.label                                 "Posteno">
+<!ENTITY JobTitle.accesskey                             "P">
+<!ENTITY CellularNumber.label                           "Poŝtelefono">
+<!ENTITY CellularNumber.accesskey                       "f">
+<!ENTITY PagerNumber.label                              "Televokilo">
+<!ENTITY PagerNumber.accesskey                          "v">
+<!ENTITY FaxNumber.label                                "Telekopiilo">
+<!ENTITY FaxNumber.accesskey                            "e">
+<!ENTITY HomePhone.label                                "Telefono hejma">
+<!ENTITY HomePhone.accesskey                            "h">
+<!ENTITY WorkPhone.label                                "Telefono laboreja">
+<!ENTITY WorkPhone.accesskey                            "l">
+<!ENTITY sortAscending.label                            "Kreskante">
+<!ENTITY sortAscending.accesskey                        "r">
+<!ENTITY sortDescending.label                           "Malkreskante">
+<!ENTITY sortDescending.accesskey                       "M">
+<!ENTITY _PhoneticName.label                            "Elparolo de nomo">
+<!ENTITY _PhoneticName.accesskey                        "E">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-<!ENTITY contact.heading                                "Contact">
-<!ENTITY home.heading                                   "Home">
-<!ENTITY other.heading                                  "Other">
-<!ENTITY chat.heading                                   "Chat">
-<!ENTITY phone.heading                                  "Phone">
-<!ENTITY work.heading                                   "Work">
+<!ENTITY contact.heading                                "Kontakto">
+<!ENTITY home.heading                                   "Hejmo">
+<!ENTITY other.heading                                  "Aliaj">
+<!ENTITY chat.heading                                   "Tujmesaĝiloj">
+<!ENTITY phone.heading                                  "Telefono">
+<!ENTITY work.heading                                   "Laborejo">
 <!-- Special Box Headings, for mailing lists -->
-<!ENTITY description.heading                            "Description">
-<!ENTITY addresses.heading                              "Addresses">
+<!ENTITY description.heading                            "Priskribo">
+<!ENTITY addresses.heading                              "Adresoj">
 <!-- For Map It! -->
-<!ENTITY mapItButton.label                              "Get Map">
-<!ENTITY mapIt.tooltip                                  "Display a map of this address from the Web">
+<!ENTITY mapItButton.label                              "Montri mapon">
+<!ENTITY mapIt.tooltip                                  "Montri enretan mapon por tiu ĉi adreso">
 
 <!-- Status Bar -->
 <!ENTITY statusText.label                               "">
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY windowMenu.label                               "Window">
-<!ENTITY minimizeWindow.label                           "Minimize">
+<!ENTITY windowMenu.label                               "Fenestro">
+<!ENTITY minimizeWindow.label                           "Plejetigi">
 <!ENTITY minimizeWindow.key                             "m">
-<!ENTITY bringAllToFront.label                          "Bring All to Front">
-<!ENTITY zoomWindow.label                               "Zoom">
+<!ENTITY bringAllToFront.label                          "Malfonigi ĉiujn">
+<!ENTITY zoomWindow.label                               "Pligrandigilo">
