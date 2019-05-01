@@ -137,5 +137,9 @@ about-telemetry-category-header = kategorija
 about-telemetry-method-header = metoda
 about-telemetry-object-header = predmet
 about-telemetry-extra-header = dodatno
+about-telemetry-origin-section = Telemetrija izvora
 about-telemetry-origin-origin = izvor
 about-telemetry-origin-count = število
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefoxova telemetrija izvora</a> šifrira podatke pred pošiljanjem, tako da { $telemetryServerOwner } lahko šteje, ne more pa vedeti, ali je kateri { -brand-product-name } prispeval k številu. (<a data-l10n-name="prio-blog-link">več o tem</a>)
