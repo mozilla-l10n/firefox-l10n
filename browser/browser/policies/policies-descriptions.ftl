@@ -70,6 +70,7 @@ policy-Preferences = Aseta ja lukitse arvo asetusten osajoukolle.
 policy-Proxy = Määritä välityspalvelimen asetukset.
 policy-RequestedLocales = Aseta pyydetyt sovelluksen kielet suosituimmuusjärjestyksessä.
 policy-SanitizeOnShutdown = Poista kaikki selailutiedot suljettaessa selain.
+policy-SanitizeOnShutdown2 = Tyhjennä selaustiedot sammutuksen yhteydessä.
 policy-SearchBar = Aseta hakupalkin oletussijainti. Käyttäjä voi silti vaihtaa sitä.
 policy-SearchEngines = Aseta hakukoneasetukset. Tämä käytäntö on käytettävissä vain Extended Support Release (ESR) -versiossa.
 policy-SearchSuggestEnabled = Ota käyttöön tai poista käytöstä hakuehdotukset.
