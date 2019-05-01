@@ -18,7 +18,7 @@ newsletter-title = Buletinul de știri Mozilla pentru dezvoltatori
 newsletter-message = Primește știri pentru dezvoltatori, trucuri și resurse direct în căsuța poștală.
 newsletter-email-placeholder =
     .placeholder = E-mail
-newsletter-privacy-label = Sunt de acord ca Mozilla să îmi prelucreze informațiile, conform explicațiilor din această <a data-l10n-name="privacy-policy">Politică de confidențialitate</a>.
+newsletter-privacy-label = Sunt de acord ca Mozilla să îmi gestioneze informațiile, conform explicațiilor din această <a data-l10n-name="privacy-policy">Politică de confidențialitate</a>.
 newsletter-subscribe-button = Abonează-te
 newsletter-thanks-title = Îți mulțumim!
 newsletter-thanks-message = Dacă nu ai confirmat anterior o abonare la un buletin de știri în legătură cu Mozilla, este posibil să fie nevoie să o faci. Te rugăm să verifici mesajele primite sau dosarul spam pentru mesaje de e-mail de la noi.
