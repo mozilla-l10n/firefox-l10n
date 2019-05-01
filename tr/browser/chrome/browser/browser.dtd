@@ -471,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Yakın geçmişi temizle…">
 <!ENTITY appMenuHistory.restoreSession.label "Önceki oturumu geri yükle">
 <!ENTITY appMenuHistory.viewSidebar.label "Geçmiş kenar çubuğunu aç">
+<!ENTITY appMenuHistory.hideSidebar.label "Geçmiş kenar çubuğunu gizle">
 <!ENTITY appMenuHistory.recentHistory.label "Yakın geçmiş">
 <!ENTITY appMenuHelp.label "Yardım">
 
@@ -499,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Sync’e giriş yapın">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Cihazları yönet…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Kenar çubuğunda göster">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Eşitlenmiş sekmeler kenar çubuğunu gizle">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Başka bir cihaz bağla">
 
 <!ENTITY appMenuRecentHighlights.label "Öne çıkanlar">
