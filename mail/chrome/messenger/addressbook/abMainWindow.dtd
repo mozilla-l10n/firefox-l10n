@@ -2,75 +2,75 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addressbookWindow.title                        "Address Book">
-<!ENTITY blankResultsPaneMessage.label                  "This address book shows contacts only after a search">
-<!ENTITY localResultsOnlyMessage.label                  "Contacts from remote address books are not shown until you search">
+<!ENTITY addressbookWindow.title                        "Adresaro">
+<!ENTITY blankResultsPaneMessage.label                  "Tiu ĉi adresaro montras kontaktojn nur post serĉi">
+<!ENTITY localResultsOnlyMessage.label                  "Kontaktoj el foraj adresaroj ne estas montrataj antaŭ serĉi">
 
 <!-- File Menu -->
-<!ENTITY fileMenu.label                                 "File">
-<!ENTITY fileMenu.accesskey                             "F">
-<!ENTITY newMenu.label                                  "New">
-<!ENTITY newMenu.accesskey                              "N">
-<!ENTITY newContact.label                               "Address Book Contact…">
-<!ENTITY newContact.accesskey                           "C">
+<!ENTITY fileMenu.label                                 "Dosiero">
+<!ENTITY fileMenu.accesskey                             "D">
+<!ENTITY newMenu.label                                  "Krei">
+<!ENTITY newMenu.accesskey                              "K">
+<!ENTITY newContact.label                               "kontakton…">
+<!ENTITY newContact.accesskey                           "k">
 <!ENTITY newContact.key                                 "N">
-<!ENTITY newListCmd.label                               "Mailing List…">
-<!ENTITY newListCmd.accesskey                           "L">
-<!ENTITY newAddressBookCmd.label                        "Address Book…">
-<!ENTITY newAddressBookCmd.accesskey                    "B">
-<!ENTITY newLDAPDirectoryCmd.label                      "LDAP Directory…">
-<!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
-<!ENTITY newMessageCmd.label                            "Message">
+<!ENTITY newListCmd.label                               "dissendoliston…">
+<!ENTITY newListCmd.accesskey                           "d">
+<!ENTITY newAddressBookCmd.label                        "adresaron…">
+<!ENTITY newAddressBookCmd.accesskey                    "a">
+<!ENTITY newLDAPDirectoryCmd.label                      "katalogon LDAP…">
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "L">
+<!ENTITY newMessageCmd.label                            "mesaĝon…">
 <!ENTITY newMessageCmd.key                              "M">
-<!ENTITY newMessageCmd.accesskey                        "M">
+<!ENTITY newMessageCmd.accesskey                        "m">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
-<!ENTITY osxAddressBook.label                           "Use Mac OS X Address Book">
-<!ENTITY osxAddressBook.accesskey                       "O">
-<!ENTITY closeCmd.label                                 "Close">
+<!ENTITY osxAddressBook.label                           "Uzi adresaron Mac OS X">
+<!ENTITY osxAddressBook.accesskey                       "X">
+<!ENTITY closeCmd.label                                 "Fermi">
 <!ENTITY closeCmd.key                                   "W">
-<!ENTITY closeCmd.accesskey                             "C">
-<!ENTITY printSetupCmd.label                            "Page Setup…">
-<!ENTITY printSetupCmd.accesskey                        "u">
-<!ENTITY printPreviewContactCmd.label                   "Print Preview Contact">
-<!ENTITY printPreviewContactCmd.accesskey               "v">
-<!ENTITY printPreviewAddressBook.label                  "Print Preview Address Book">
-<!ENTITY printPreviewAddressBook.accesskey              "B">
-<!ENTITY printContactCmd.label                          "Print Contact…">
+<!ENTITY closeCmd.accesskey                             "F">
+<!ENTITY printSetupCmd.label                            "Agordoj de paĝo…">
+<!ENTITY printSetupCmd.accesskey                        "p">
+<!ENTITY printPreviewContactCmd.label                   "Antaŭvidi presadon de kontakto">
+<!ENTITY printPreviewContactCmd.accesskey               "o">
+<!ENTITY printPreviewAddressBook.label                  "Antaŭvidi presadon de adresaro">
+<!ENTITY printPreviewAddressBook.accesskey              "d">
+<!ENTITY printContactCmd.label                          "Presi kontakton…">
 <!ENTITY printContactCmd.accesskey                      "P">
 <!ENTITY printContactCmd.key                            "P">
-<!ENTITY printAddressBook.label                         "Print Address Book…">
-<!ENTITY printAddressBook.accesskey                     "A">
+<!ENTITY printAddressBook.label                         "Presi adresaron…">
+<!ENTITY printAddressBook.accesskey                     "a">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.label                                 "Edit">
-<!ENTITY editMenu.accesskey                             "E">
-<!ENTITY undoCmd.label                                  "Undo">
+<!ENTITY editMenu.label                                 "Redakti">
+<!ENTITY editMenu.accesskey                             "R">
+<!ENTITY undoCmd.label                                  "Malfari">
 <!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "U">
-<!ENTITY redoCmd.label                                  "Redo">
+<!ENTITY undoCmd.accesskey                              "M">
+<!ENTITY redoCmd.label                                  "Refari">
 <!ENTITY redoCmd.key                                    "Y">
 <!ENTITY redoCmd.accesskey                              "R">
-<!ENTITY cutCmd.label                                   "Cut">
+<!ENTITY cutCmd.label                                   "Eltondi">
 <!ENTITY cutCmd.key                                     "X">
 <!ENTITY cutCmd.accesskey                               "t">
-<!ENTITY copyCmd.label                                  "Copy">
+<!ENTITY copyCmd.label                                  "Kopii">
 <!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "C">
-<!ENTITY pasteCmd.label                                 "Paste">
+<!ENTITY copyCmd.accesskey                              "K">
+<!ENTITY pasteCmd.label                                 "Alglui">
 <!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "P">
-<!ENTITY deleteCmd.label                                "Delete">
-<!ENTITY deleteCmd.accesskey                            "D">
-<!ENTITY deleteAbCmd.label                              "Delete Address Book">
-<!ENTITY deleteContactCmd.label                         "Delete Contact">
-<!ENTITY deleteContactsCmd.label                        "Delete Contacts">
-<!ENTITY deleteListCmd.label                            "Delete List">
-<!ENTITY deleteListsCmd.label                           "Delete Lists">
-<!ENTITY deleteItemsCmd.label                           "Delete Items">
-<!ENTITY selectAllCmd.label                             "Select All">
+<!ENTITY pasteCmd.accesskey                             "g">
+<!ENTITY deleteCmd.label                                "Forigi">
+<!ENTITY deleteCmd.accesskey                            "F">
+<!ENTITY deleteAbCmd.label                              "Forigi adresaron">
+<!ENTITY deleteContactCmd.label                         "Forigi kontakton">
+<!ENTITY deleteContactsCmd.label                        "Forigi kontaktojn">
+<!ENTITY deleteListCmd.label                            "Forigi liston">
+<!ENTITY deleteListsCmd.label                           "Forigi listojn">
+<!ENTITY deleteItemsCmd.label                           "Forigi objektojn">
+<!ENTITY selectAllCmd.label                             "Elekti ĉiujn">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "A">
+<!ENTITY selectAllCmd.accesskey                         "E">
 <!ENTITY swapFirstNameLastNameCmd.label                 "Swap First/Last Name">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
@@ -170,9 +170,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Send a mail message">
 <!ENTITY newIM.tooltip                                  "Send an instant message or chat">
 <!ENTITY deleteButton2.tooltip                          "Delete selected item">
-
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Address Books">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Name or Email">
