@@ -3,20 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Title -->
-<!ENTITY mailListWindowAdd.title        "New Mailing List">
+<!ENTITY mailListWindowAdd.title        "Nova dissendolisto">
 
 <!-- Labels and Access Keys -->
-<!ENTITY addToAddressBook.label         "Add to: ">
+<!ENTITY addToAddressBook.label         "Aldoni al: ">
 <!ENTITY addToAddressBook.accesskey     "A">
-<!ENTITY ListName.label                 "List Name: ">
-<!ENTITY ListName.accesskey             "L">
-<!ENTITY ListNickName.label             "List Nickname: ">
-<!ENTITY ListNickName.accesskey         "N">
-<!ENTITY ListDescription.label          "Description: ">
-<!ENTITY ListDescription.accesskey      "D">
+<!ENTITY ListName.label                 "Nomo de listo:">
+<!ENTITY ListName.accesskey             "N">
+<!ENTITY ListNickName.label             "Kaŝnomo de listo: ">
+<!ENTITY ListNickName.accesskey         "K">
+<!ENTITY ListDescription.label          "Priskribo: ">
+<!ENTITY ListDescription.accesskey      "P">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Type email addresses to add them to the mailing list:">
-<!ENTITY AddressTitle.accesskey         "m">
-<!ENTITY UpButton.label                 "Move Up">
-<!ENTITY DownButton.label               "Move Down">
-
+<!ENTITY AddressTitle.label             "Enmetu retpoŝtajn adresojn por aldoni al la dissendolisto:">
+<!ENTITY AddressTitle.accesskey         "E">
+<!ENTITY UpButton.label                 "Movi supren">
+<!ENTITY DownButton.label               "Movi malsupren">
