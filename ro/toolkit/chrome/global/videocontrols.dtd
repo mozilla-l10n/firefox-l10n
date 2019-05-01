@@ -38,6 +38,7 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY error.noSource2 "Nu s-a găsit niciun videoclip cu format sau tip MIME suportat.">
 <!ENTITY error.generic "Redarea videoclipului a fost abandonată datorită unei erori necunoscute.">
 
+<!ENTITY status.pictureInPicture "Acest videoclip este redat în modul imagine-în-imagine.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

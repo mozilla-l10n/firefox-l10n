@@ -8,8 +8,10 @@ profiles-create = Creează un profil nou
 profiles-restart-title = Repornire
 profiles-restart-in-safe-mode = Repornește cu suplimentele dezactivate…
 profiles-restart-normal = Repornește normal…
+profiles-conflict = O altă copie { -brand-product-name } a modificat profilurile. Trebuie să repornești { -brand-short-name } înainte de a putea face alte modificări.
 profiles-flush-fail-title = Schimbări nesalvate
 profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = O eroare neașteptată a împiedicat salvarea modificărilor tale.
 profiles-flush-restart-button = Repornește { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
