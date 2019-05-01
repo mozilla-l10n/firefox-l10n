@@ -62,3 +62,10 @@ cfr-doorhanger-pintab-step3 = Quando i contenuti del sito vengono aggiornati, un
 
 cfr-doorhanger-pintab-animation-pause = Metti in pausa
 cfr-doorhanger-pintab-animation-resume = Riprendi
+
+cfr-doorhanger-bookmark-fxa-header = Sincronizza ovunque i tuoi segnalibri
+cfr-doorhanger-bookmark-fxa-body = Ottima scoperta. Assicurati di non restare senza questo segnalibro sul tuo dispositivo mobile. Crea un { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-link-text = Sincronizza subito i segnalibri…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+  .aria-label = Pulsante di chiusura
+  .title = Chiudi
