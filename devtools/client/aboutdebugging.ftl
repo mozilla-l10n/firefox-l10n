@@ -169,6 +169,25 @@ about-debugging-runtime-profile-button = Profil de execuție
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = Configurația browserului nu este compatibilă cu scripturile Service Worker. <a>Află mai multe</a>
+# This string is displayed in the runtime page if the remote browser version is too old.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-browser-version-too-old = Browserul conectat are o versiune veche ({ $runtimeVersion }). Versiunea minimă cu suport este ({ $minVersion }). Aceasta este o configurație fără suport și poate produce disfuncționalități DevTools. Te rugăm să actualizezi browserul conectat. <a>Depanare</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# - from Fx 67 to 66 or to 65
+# - from Fx 68 to 66
+# Those are normally in range for DevTools compatibility policy, but specific non
+# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+about-debugging-browser-version-too-old-67-debugger = Este posibil ca panoul de depanare să nu funcționeze în browserul conectat. Te rugăm să folosești Firefox { $runtimeVersion } dacă trebuie să folosești Depanatorul în acest browser.
+# This string is displayed in the runtime page if the remote browser version is too recent.
+# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = Browserul conectat este mai recent ({ $runtimeVersion }, buildID { $runtimeID }) decât versiunea ta de { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Acesta este o configurare fără suport și poate conduce la disfuncționalități DevTools. Te rugăm să actualizezi Firefox. <a>Depanare</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -176,6 +195,14 @@ about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Deconectează-te
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = Activează mesajul de conexiune
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is true on the target runtime.
+about-debugging-connection-prompt-disable-button = Dezactivează mesajul de conexiune
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title = Profil de performanță
 # Label of a checkbox displayed in the runtime page for "This Firefox".
 # This checkbox will toggle preferences that enable local addon debugging.
 # The "Learn more" link points to MDN.
