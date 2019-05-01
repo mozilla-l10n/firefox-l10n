@@ -260,7 +260,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
 <!ENTITY pictureInPicture.label "ეკრანი-ეკრანში">
-<!ENTITY pictureInPicture.accesskey "უ">
+<!ENTITY pictureInPicture.accesskey "ე">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -698,9 +698,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveAudioCmd.label           "ხმოვანი ფაილის შენახვა როგორც…">
 <!ENTITY saveAudioCmd.accesskey       "ნ">
 <!ENTITY emailImageCmd.label          "სურათის გაგზავნა ელფოსტით…">
-<!ENTITY emailImageCmd.accesskey      "ე">
+<!ENTITY emailImageCmd.accesskey      "ფ">
 <!ENTITY emailVideoCmd.label          "ვიდეოს გაგზავნა ელფოსტით…">
-<!ENTITY emailVideoCmd.accesskey      "ე">
+<!ENTITY emailVideoCmd.accesskey      "ფ">
 <!ENTITY emailAudioCmd.label          "ხმოვანი ფაილის გაგზავნა ელფოსტით…">
 <!ENTITY emailAudioCmd.accesskey      "ე">
 <!ENTITY playPluginCmd.label          "ამ მოდულის ჩართვა">
@@ -759,7 +759,7 @@ fast. -->
 <!ENTITY mediaPlaybackRate200x2.label "გიჟური (2×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "გ">
 <!ENTITY mediaLoop.label             "გამეორება დაუსრულებლად">
-<!ENTITY mediaLoop.accesskey         "გ">
+<!ENTITY mediaLoop.accesskey         "ო">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -770,7 +770,7 @@ items are mutually exclusive. -->
 <!ENTITY videoFullScreen.label       "სრულ ეკრანზე">
 <!ENTITY videoFullScreen.accesskey   "ს">
 <!ENTITY videoSaveImage.label        "კადრის შენახვა როგორც…">
-<!ENTITY videoSaveImage.accesskey    "ა">
+<!ENTITY videoSaveImage.accesskey    "კ">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
