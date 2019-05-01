@@ -606,6 +606,8 @@
 <!ENTITY compactButton.tooltip "Elimină mesajele șterse din dosarul selectat">
 <!ENTITY appmenuButton1.tooltip "Afișare meniu &brandShortName;">
 
+<!ENTITY addonsButton.tooltip "Gestionează-ți suplimentele">
+
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Redirecționează ca text integrat">
 <!ENTITY buttonMenuForwardAsAttachment.label "Redirecționează ca atașament">
@@ -813,12 +815,6 @@
 <!ENTITY contextPrintPreview.label "Previzualizează pentru tipărire">
 <!ENTITY contextPrintPreview.accesskey "v">
 
-<!-- Thread Pane Column Picker -->
-<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
-     This option in the thread pane column picker causes us to reset the
-     customizations for the thread pane columns in this folder to their default.
-  -->
-<!ENTITY columnPicker.resetToInbox.label "Resetează coloanele la valorile implicite">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
      the "columnPicker.applyToFolder.label" and
@@ -858,7 +854,6 @@
      "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "Acest dosar">
-
 
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Redare">
