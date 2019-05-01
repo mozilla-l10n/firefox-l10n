@@ -146,12 +146,12 @@
 <!ENTITY  event.menu.options.privacy.confidential.accesskey   "N">
 <!ENTITY  event.menu.options.privacy.private.label            "Sự kiện Cá nhân">
 <!ENTITY  event.menu.options.privacy.private.accesskey        "C">
-<!ENTITY  event.menu.options.show.time.label                  "Hiện thời gian là">
+<!ENTITY  event.menu.options.show.time.label                  "Hiện tình trạng lịch trình là">
 <!ENTITY  event.menu.options.show.time.accesskey              "t">
 <!ENTITY  event.menu.options.show.time.busy.label             "Bận">
 <!ENTITY  event.menu.options.show.time.busy.accesskey         "B">
 <!ENTITY  event.menu.options.show.time.free.label             "Rảnh">
-<!ENTITY  event.menu.options.show.time.free.accesskey         "R">
+<!ENTITY  event.menu.options.show.time.free.accesskey         "F">
 
 <!ENTITY event.invite.attendees.label                     "Mời khách Tham dự…">
 <!ENTITY event.invite.attendees.accesskey                 "M">
@@ -259,6 +259,7 @@
 
 <!ENTITY event.reminder.multiple.label                    "Nhiều lời Nhắc việc…" >
 
+<!ENTITY event.statusbarpanel.freebusy.label              "Tình trạng lịch trình:">
 <!ENTITY event.statusbarpanel.privacy.label               "Riêng tư:">
 
 <!-- Recurrence dialog -->
