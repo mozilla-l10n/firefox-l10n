@@ -41,9 +41,9 @@
 <!ENTITY newListAbContext.label             "Nova dissendolisto">
 <!ENTITY newListAbContext.accesskey         "d">
 
-<!ENTITY toButton.label                     "Add to To:">
-<!ENTITY toButton.accesskey                 "A">
-<!ENTITY ccButton.label                     "Add to Cc:">
-<!ENTITY ccButton.accesskey                 "C">
-<!ENTITY bccButton.label                    "Add to Bcc:">
-<!ENTITY bccButton.accesskey                "B">
+<!ENTITY toButton.label                     "→“al”:">
+<!ENTITY toButton.accesskey                 "a">
+<!ENTITY ccButton.label                     "→“kopio”:">
+<!ENTITY ccButton.accesskey                 "k">
+<!ENTITY bccButton.label                    "→“kaŝkopio”:">
+<!ENTITY bccButton.accesskey                "i">
