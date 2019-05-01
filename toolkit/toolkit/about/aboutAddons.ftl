@@ -97,8 +97,10 @@ detail-private-browsing-description2 = Când are permisiunea, extensia va avea a
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overriden by the user.
 detail-private-disallowed-label = Nepermis în ferestre private
+detail-private-disallowed-description = Această extensie nu rulează în navigare privată. <label data-l10n-name="detail-private-browsing-learn-more">Află mai multe</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Necesită acces la ferestre private
+detail-private-required-description = Această extensie are acces la activitățile tale online în navigare privată. <label data-l10n-name="detail-private-browsing-learn-more">Află mai multe</label>
 detail-private-browsing-on =
     .label = Permite
     .tooltiptext = Activează în navigarea privată
@@ -246,6 +248,10 @@ shortcuts-modifier-other = Include Ctrl sau Alt
 shortcuts-invalid = Combinație invalidă
 shortcuts-letter = Tastează o literă
 shortcuts-system = Scurtăturile { -brand-short-name } nu pot fi înlocuite
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Deja utilizat de { $addon }
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Afișează încă { $numberToShow }
