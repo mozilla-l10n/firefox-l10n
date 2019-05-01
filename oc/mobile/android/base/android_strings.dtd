@@ -10,6 +10,7 @@
 <!ENTITY firstrun_panel_title_privacy "Vida privada">
 <!ENTITY firstrun_privacy_message "Navegatz coma se degun vos gaitèsse pas">
 <!ENTITY firstrun_privacy_subtext "La navegacion privada amb proteccion de seguiment bloca los traçadors pendent que navigatz e se remembra pas de vòstre istoric un còp la navegacion acabada.">
+<!ENTITY newfirstrun_privacy_subtext "La navegacion privada bloca los traçadors publicitaris que vos seguisson pel web.">
 <!ENTITY firstrun_panel_title_customize "Personalizar">
 <!ENTITY firstrun_customize_message "Personalizatz &brandShortName;">
 <!ENTITY firstrun_customize_subtext "Personalizatz &brandShortName; amb de moduls. Blocatz la publicitat, ajustatz de foncionalitats o causissètz un tèma novèl que rabat vòstra personalisat.">
@@ -22,6 +23,7 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Tornatz ont èretz.">
 <!ENTITY firstrun_sync_subtext2 "Utilizatz Sync per retrobar de marcapaginas, senhals, e autras donadas que gardatz dins &brandShortName; sus totes vòstres periferics.">
+<!ENTITY newfirstrun_sync_subtext "Sincronizatz çò qu’enregistratz dins vòstre periferic mobil amb Firefox per ordenador, d’un biais privat e segur.">
 <!ENTITY firstrun_signin_message "Connectatz-vos e començatz">
 <!ENTITY firstrun_signin_button "Se connectar a Sync">
 <!ENTITY newfirstrun_signin_button "Activar la sincronizacion">
@@ -417,6 +419,7 @@ shown from Android O while a tab is being queued.-->
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Tocatz Navegador puèi seleccionatz &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Visitar l’ajuda de Mozilla">
 <!ENTITY pref_about_firefox "A prepaus de &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">
