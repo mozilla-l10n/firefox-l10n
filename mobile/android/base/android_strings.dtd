@@ -6,6 +6,7 @@
 <!ENTITY firstrun_urlbar_message2 "Merci d’avoir choisi &brandShortName;">
 <!ENTITY newfirstrun_urlbar_message "Bienvenue dans &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Un navigateur mobile et moderne par Mozilla, l’organisation à but non lucratif qui s’engage à défendre un Web libre et ouvert.">
+<!ENTITY newfirstrun_urlbar_subtext "Rapide, confidentiel et à vos côtés.">
 <!ENTITY firstrun_panel_title_privacy "Vie privée">
 <!ENTITY firstrun_privacy_message "Naviguez comme si personne ne vous regardait">
 <!ENTITY firstrun_privacy_subtext "La navigation privée avec la protection contre le pistage bloque les traqueurs lorsque vous naviguez et ne conserve pas votre historique lorsque vous avez terminé.">
