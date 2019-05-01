@@ -2,23 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY propertiesMenu.label               "Properties">
-<!ENTITY propertiesMenu.accesskey           "i">
+<!ENTITY propertiesMenu.label               "Atributoj">
+<!ENTITY propertiesMenu.accesskey           "A">
 <!ENTITY propertiesCmd.key                  "i">
-<!ENTITY abPropertiesMenu.label             "Address Book Properties">
-<!ENTITY abPropertiesMenu.accesskey         "i">
-<!ENTITY contactPropertiesMenu.label        "Contact Properties">
-<!ENTITY contactPropertiesMenu.accesskey    "i">
-<!ENTITY mailingListPropertiesMenu.label    "Mailing List Properties">
-<!ENTITY mailingListPropertiesMenu.accesskey "i">
+<!ENTITY abPropertiesMenu.label             "Atributoj de adresaro">
+<!ENTITY abPropertiesMenu.accesskey         "A">
+<!ENTITY contactPropertiesMenu.label        "Atributoj de kontakto">
+<!ENTITY contactPropertiesMenu.accesskey    "A">
+<!ENTITY mailingListPropertiesMenu.label    "Atributoj de dissendolisto">
+<!ENTITY mailingListPropertiesMenu.accesskey "A">
 
-<!ENTITY addressbookPicker.label            "Address Book:">
-<!ENTITY addressbookPicker.accesskey        "k">
-<!ENTITY searchContacts.label               "Search Contacts:">
-<!ENTITY searchContacts.accesskey           "n">
-<!ENTITY SearchNameOrEmail.label            "Name or Email">
+<!ENTITY abContextMenuButton.tooltip        "Montri kuntekstan menuon de adresaro">
+<!ENTITY addressbookPicker.label            "Adresaro:">
+<!ENTITY addressbookPicker.accesskey        "d">
+<!ENTITY searchContacts.label               "Serĉi en kontaktoj:">
+<!ENTITY searchContacts.accesskey           "S">
+<!ENTITY SearchNameOrEmail.label            "Nomo aŭ retpoŝta adreso">
 
-<!ENTITY addtoToFieldMenu.label             "Add to To field">
+<!ENTITY addtoToFieldMenu.label             "Aldoni al kampo “al”">
 <!ENTITY addtoToFieldMenu.accesskey         "A">
 <!ENTITY addtoCcFieldMenu.label             "Add to Cc field">
 <!ENTITY addtoCcFieldMenu.accesskey         "C">
@@ -34,6 +35,7 @@
 <!ENTITY editContactContext.accesskey       "E">
 <!ENTITY editMailingListContext.label       "Edit List">
 <!ENTITY editMailingListContext.accesskey   "E">
+
 
 <!ENTITY toButton.label                     "Add to To:">
 <!ENTITY toButton.accesskey                 "A">
