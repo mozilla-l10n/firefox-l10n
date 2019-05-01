@@ -226,6 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
 <!ENTITY fxa.unverified.callout.label "Verifică-ți email-ul">
+<!ENTITY fxa.unverified.description.label "Va trebui să îți verifici contul înainte de a putea sincroniza.">
 <!ENTITY fxa.unverified.button.label "Deschide setările pentru &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
@@ -470,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Șterge istoricul recent…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurează sesiunea anterioară">
 <!ENTITY appMenuHistory.viewSidebar.label "Vezi bara laterală cu istoricul">
+<!ENTITY appMenuHistory.hideSidebar.label "Ascunde bara laterală de istoric">
 <!ENTITY appMenuHistory.recentHistory.label "Istoric recent">
 <!ENTITY appMenuHelp.label "Ajutor">
 
@@ -498,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Autentifică-te la Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gestionează dispozitivele…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vezi bara laterală cu file sincronizate">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Ascunde bara laterală cu file sincronizate">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Conectează alt dispozitiv">
 
 <!ENTITY appMenuRecentHighlights.label "Evidențieri recente">

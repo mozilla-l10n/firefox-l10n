@@ -663,6 +663,7 @@ addressbar-suggestions-settings = Schimbă preferințele pentru sugestiile motoa
 
 content-blocking-header = Blocare de conținut
 content-blocking-description = Blochează conținutul de la terți care te urmărește pe web. Controlează cât din activitatea ta online este stocată și partajată între site-urile web.
+content-blocking-section-description = Protejează-ți intimitatea la navigare. Blochează conținuturile invizibile care urmăresc pe ce site-uri intri și îți creează profilul. Blocarea unei părți din aceste conținuturi poate conduce la încărcarea mai rapidă a paginilor.
 content-blocking-learn-more = Află mai multe
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -683,6 +684,7 @@ content-blocking-custom-desc = Alege ce să blochezi.
 content-blocking-private-trackers = Elemente de urmărire cunoscute numai în ferestre private
 content-blocking-third-party-cookies = Cookie-uri de urmărire de la terți
 content-blocking-all-cookies = Toate cookie-urile
+content-blocking-unvisited-cookies = Cookie-uri de la site-uri nevizitate
 content-blocking-all-windows-trackers = Elemente de urmărire cunoscute în toate ferestrele
 content-blocking-all-third-party-cookies = Toate cookie-urile de la terți
 content-blocking-cryptominers = Criptomineri

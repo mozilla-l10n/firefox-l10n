@@ -57,18 +57,23 @@ policy-HardwareAcceleration = Dacă este dezactivat, oprește accelerarea hardwa
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Setează și, opțional, blochează pagina de start.
 policy-InstallAddonsPermission = Permite anumitor site-uri web să instaleze suplimente.
+policy-LocalFileLinks = Permite anumitor site-uri web să se lege la fișiere locale.
 policy-NetworkPrediction = Activează sau dezactivează predicția de rețea (prelectură DNS).
+policy-NewTabPage = Activează sau dezactivează pagina Filă nouă.
 policy-NoDefaultBookmarks = Dezactivează crearea marcajelor implicite care vin la pachet cu { -brand-short-name } și crearea de marcaje inteligente (Cele mai vizitate, Etichete recente). Obs: politica produce efecte numai dacă este folosită înainte de prima utilizare a profilului.
 policy-OfferToSaveLogins = Impune setarea care permite { -brand-short-name } să se ofere să țină minte datele de autentificare și parolele salvate. Sunt acceptate atât valoarea de adevărat, cât și cea de fals.
 policy-OverrideFirstRunPage = Înlocuiește pagina de întâmpinare la prima utilizare. Lasă politica goală dacă vrei să dezactivezi pagina de întâmpinare la prima utilizare.
 policy-OverridePostUpdatePage = Înlocuiește pagina „Noutăți” după actualizare. Lasă politica goală dacă vrei să dezactivezi pagina post-actualizare.
 policy-Permissions = Configurează permisiunile pentru cameră, microfon, locație și notificări.
 policy-PopupBlocking = Permite anumitor site-uri web să afișeze implicit ferestre pop-up.
+policy-Preferences = Setează și blochează valoarea pentru un subset de preferințe.
 policy-Proxy = Configurează setările proxy.
 policy-RequestedLocales = Setează lista de limbi solicitate de aplicație, în ordinea preferinței.
 policy-SanitizeOnShutdown = Șterge toate datele de navigare la închidere.
+policy-SanitizeOnShutdown2 = Șterge datele de navigare la închidere.
 policy-SearchBar = Setează locația implicită în bara de căutare. Utilizatorul are în continuare posibilitatea de personalizare.
 policy-SearchEngines = Configurează setările motorului de căutare. Politica este disponibilă numai în versiunea Ediție cu suport extins (ERS).
+policy-SearchSuggestEnabled = Activează sau dezactivează sugestiile la căutare.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalează module PKCS #11.
 policy-SSLVersionMax = Setează versiunea maximă SSL.
