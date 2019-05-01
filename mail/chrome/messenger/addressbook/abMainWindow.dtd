@@ -113,44 +113,47 @@ because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.accesskey                        "P">
 <!ENTITY lastFirstCmd.label                             "Familinomo, Personnomo">
 <!ENTITY lastFirstCmd.accesskey                         "F">
-<!ENTITY displayNameCmd.label                           "Display Name">
-<!ENTITY displayNameCmd.accesskey                       "D">
-<!ENTITY sortMenu.label                                 "Sort by">
-<!ENTITY sortMenu.accesskey                             "S">
+<!ENTITY displayNameCmd.label                           "Montrata nomo">
+<!ENTITY displayNameCmd.accesskey                       "M">
+<!ENTITY sortMenu.label                                 "Ordigi laŭ">
+<!ENTITY sortMenu.accesskey                             "O">
 
 <!-- Tools Menu -->
-<!ENTITY tasksMenu.label                                "Tools">
-<!ENTITY tasksMenu.accesskey                            "T">
-<!ENTITY messengerCmd.label                             "Mail &amp; Newsgroups">
-<!ENTITY messengerCmd.accesskey                         "M">
+<!ENTITY tasksMenu.label                                "Iloj">
+<!ENTITY tasksMenu.accesskey                            "I">
+<!ENTITY messengerCmd.label                             "Retpoŝto kaj novaĵgrupoj">
+<!ENTITY messengerCmd.accesskey                         "R">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY searchAddressesCmd.label                       "Search Addresses…">
+<!ENTITY addressBookCmd.label                           "Adresaro">
+<!ENTITY addressBookCmd.accesskey                       "A">
+<!ENTITY addressBookCmd.key                             "B">
+<!ENTITY searchAddressesCmd.label                       "Serĉi en kontaktoj…">
 <!ENTITY searchAddressesCmd.accesskey                   "S">
-<!ENTITY importCmd.label                                "Import…">
-<!ENTITY importCmd.accesskey                            "I">
-<!ENTITY exportCmd.label                                "Export…">
-<!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd2.label                          "Options">
-<!ENTITY preferencesCmd2.accesskey                      "O">
-<!ENTITY preferencesCmdUnix.label                       "Preferences">
-<!ENTITY preferencesCmdUnix.accesskey                   "n">
+<!ENTITY importCmd.label                                "Enporti…">
+<!ENTITY importCmd.accesskey                            "n">
+<!ENTITY exportCmd.label                                "Elporti…">
+<!ENTITY exportCmd.accesskey                            "l">
+<!ENTITY preferencesCmd2.label                          "Elektebloj">
+<!ENTITY preferencesCmd2.accesskey                      "E">
+<!ENTITY preferencesCmdUnix.label                       "Preferoj">
+<!ENTITY preferencesCmdUnix.accesskey                   "P">
 
 <!-- Address Book Toolbar and Context Menus -->
-<!ENTITY newContactButton.label                         "New Contact">
-<!ENTITY newContactButton.accesskey                     "C">
-<!ENTITY newlistButton.label                            "New List">
-<!ENTITY newlistButton.accesskey                        "L">
-<!ENTITY showAsDefault.label                            "Default startup directory">
-<!ENTITY showAsDefault.accesskey                        "S">
-<!ENTITY editPropertiesButton.label                     "Edit">
-<!ENTITY propertiesContext.label                        "Properties">
-<!ENTITY propertiesContext.accesskey                    "i">
-<!ENTITY abPropertiesContext.label                      "Properties">
-<!ENTITY abPropertiesContext.accesskey                  "i">
-<!ENTITY editContactContext.label                       "Edit Contact">
-<!ENTITY editContactContext.accesskey                   "E">
-<!ENTITY editMailingListContext.label                   "Edit List">
-<!ENTITY editMailingListContext.accesskey               "E">
+<!ENTITY newContactButton.label                         "Nova kontakto">
+<!ENTITY newContactButton.accesskey                     "k">
+<!ENTITY newlistButton.label                            "Nova dissendolisto">
+<!ENTITY newlistButton.accesskey                        "l">
+<!ENTITY showAsDefault.label                            "Implicita adresaro">
+<!ENTITY showAsDefault.accesskey                        "I">
+<!ENTITY editPropertiesButton.label                     "Redakti">
+<!ENTITY propertiesContext.label                        "Atributoj">
+<!ENTITY propertiesContext.accesskey                    "A">
+<!ENTITY abPropertiesContext.label                      "Atributoj">
+<!ENTITY abPropertiesContext.accesskey                  "A">
+<!ENTITY editContactContext.label                       "Redakti kontakton">
+<!ENTITY editContactContext.accesskey                   "R">
+<!ENTITY editMailingListContext.label                   "Redakti liston">
+<!ENTITY editMailingListContext.accesskey               "R">
 <!ENTITY newmsgButton.label                             "Write">
 <!ENTITY newmsgButton.accesskey                         "W">
 <!ENTITY newIM.label                                    "Instant Message">
