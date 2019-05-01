@@ -181,6 +181,13 @@ about-debugging-browser-version-too-old = Bağlı tarayıcının sürümü eski 
 # backward compatible changes broke the debugger in those scenarios (Bug 1528219).
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 about-debugging-browser-version-too-old-67-debugger = Hata ayıklayıcı paneli bağlı tarayıcıyla çalışmayabilir. Bu tarayıcıyla hata ayıklayıcıyı kullanmak istiyorsanız lütfen Firefox { $runtimeVersion } sürümünü kullanın.
+# This string is displayed in the runtime page if the remote browser version is too recent.
+# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = Bağlı tarayıcının sürümü ({ $runtimeVersion }, yapı kimliği { $runtimeID }) sizin { -brand-shorter-name } tarayıcınızdan ({ $localVersion }, yapı kimliği { $localID }) daha yeni. Bu şekilde çalışma desteklenmez ve Geliştirici Araçları düzgün çalışmayabilir. Lütfen Firefox’u güncelleyin. <a>Sorun giderme</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"

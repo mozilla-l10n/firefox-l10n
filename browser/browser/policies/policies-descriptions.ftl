@@ -70,6 +70,7 @@ policy-Preferences = Bir tercihler alt kümesinin değerini ayarlayıp kilitle.
 policy-Proxy = Vekil sunucu ayarlarını yapılandır.
 policy-RequestedLocales = Uygulamada kullanılması istenen dilleri tercih sırasına göre ayarla.
 policy-SanitizeOnShutdown = Kapanırken tüm gezinti verilerini temizle.
+policy-SanitizeOnShutdown2 = Kapanırken gezinti verilerini temizle.
 policy-SearchBar = Arama çubuğunun varsayılan konumunu ayarla. Kullanıcı daha sonra özelleştirebilir.
 policy-SearchEngines = Arama motoru ayarlarını yapılandır. Bu ilke yalnızca Extended Support Release (ESR) sürümünde geçerlidir.
 policy-SearchSuggestEnabled = Arama önerilerini etkinleştir veya devre dışı bırak.
