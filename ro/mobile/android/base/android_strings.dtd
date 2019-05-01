@@ -724,7 +724,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "Se importă istoricul din Android">
 <!ENTITY bookmarkhistory_import_wait "Te rugăm să aștepți...">
 
-<!ENTITY suggestions_prompt3 "Dorești să pornești sugestiile de căutare?">
+<!ENTITY suggestions_prompt3 "Vrei să pornești sugestiile de căutare?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
