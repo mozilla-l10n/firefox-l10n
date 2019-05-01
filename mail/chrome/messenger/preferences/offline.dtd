@@ -16,7 +16,7 @@
 <!ENTITY radioAlwaysOffline.label "Offline">
 <!ENTITY radioAlwaysOffline.accesskey "f">
 
-<!ENTITY textGoingOnline "Dorești să se expedieze mesajele netrimise când lucrezi online?">
+<!ENTITY textGoingOnline "Vrei să se expedieze mesajele netrimise când lucrezi online?">
 <!ENTITY radioAutoSend.label "Da">
 <!ENTITY radioAutoSend.accesskey "D">
 <!ENTITY radioNotSend.label "Nu">

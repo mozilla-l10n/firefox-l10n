@@ -7,7 +7,7 @@
 
 <!ENTITY recipient.label "O parte dintre destinatari nu sunt marcați ca fiind capabili de a primi e-mailuri HTML.">
 
-<!ENTITY question.label "Dorești să convertești mesajul în format text sau să îl trimiți în continuare ca HTML?">
+<!ENTITY question.label "Vrei să convertești mesajul în format text sau să îl trimiți în continuare ca HTML?">
 
 <!ENTITY plainTextAndHtml.label "Trimite și în format text și în HTML">
 <!ENTITY plainTextAndHtml.accesskey "T">
