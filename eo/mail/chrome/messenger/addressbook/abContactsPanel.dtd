@@ -20,22 +20,26 @@
 <!ENTITY SearchNameOrEmail.label            "Nomo aŭ retpoŝta adreso">
 
 <!ENTITY addtoToFieldMenu.label             "Aldoni al kampo “al”">
-<!ENTITY addtoToFieldMenu.accesskey         "A">
-<!ENTITY addtoCcFieldMenu.label             "Add to Cc field">
-<!ENTITY addtoCcFieldMenu.accesskey         "C">
-<!ENTITY addtoBccFieldMenu.label            "Add to Bcc field">
-<!ENTITY addtoBccFieldMenu.accesskey        "B">
-<!ENTITY deleteAddrBookCard.label           "Delete">
-<!ENTITY deleteAddrBookCard.accesskey       "D">
-<!ENTITY propertiesContext.label            "Properties">
-<!ENTITY propertiesContext.accesskey        "i">
-<!ENTITY abPropertiesContext.label          "Properties">
-<!ENTITY abPropertiesContext.accesskey      "i">
-<!ENTITY editContactContext.label           "Edit Contact">
-<!ENTITY editContactContext.accesskey       "E">
-<!ENTITY editMailingListContext.label       "Edit List">
-<!ENTITY editMailingListContext.accesskey   "E">
+<!ENTITY addtoToFieldMenu.accesskey         "a">
+<!ENTITY addtoCcFieldMenu.label             "Aldoni al kampo “kopio”">
+<!ENTITY addtoCcFieldMenu.accesskey         "k">
+<!ENTITY addtoBccFieldMenu.label            "Aldoni al kampo “kaŝkopio”">
+<!ENTITY addtoBccFieldMenu.accesskey        "i">
+<!ENTITY deleteAddrBookCard.label           "Forigi">
+<!ENTITY deleteAddrBookCard.accesskey       "F">
+<!ENTITY propertiesContext.label            "Atributoj">
+<!ENTITY propertiesContext.accesskey        "A">
+<!ENTITY abPropertiesContext.label          "Atributoj">
+<!ENTITY abPropertiesContext.accesskey      "A">
+<!ENTITY editContactContext.label           "Redakti kontakton">
+<!ENTITY editContactContext.accesskey       "R">
+<!ENTITY editMailingListContext.label       "Redakti liston">
+<!ENTITY editMailingListContext.accesskey   "R">
 
+<!ENTITY newContactAbContext.label          "Nova kontakto">
+<!ENTITY newContactAbContext.accesskey      "k">
+<!ENTITY newListAbContext.label             "Nova dissendolisto">
+<!ENTITY newListAbContext.accesskey         "d">
 
 <!ENTITY toButton.label                     "Add to To:">
 <!ENTITY toButton.accesskey                 "A">
