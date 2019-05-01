@@ -71,26 +71,26 @@
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
 <!ENTITY selectAllCmd.accesskey                         "E">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Swap First/Last Name">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Interŝanĝi nomojn familian/personan">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "I">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesMenu.label                           "Properties">
-<!ENTITY propertiesMenu.accesskey                       "i">
+<!ENTITY propertiesMenu.label                           "Atributoj">
+<!ENTITY propertiesMenu.accesskey                       "A">
 <!ENTITY propertiesCmd.key                              "i">
-<!ENTITY abPropertiesMenu.label                         "Address Book Properties">
-<!ENTITY abPropertiesMenu.accesskey                     "i">
-<!ENTITY contactPropertiesMenu.label                    "Contact Properties">
-<!ENTITY contactPropertiesMenu.accesskey                "i">
-<!ENTITY mailingListPropertiesMenu.label                "Mailing List Properties">
-<!ENTITY mailingListPropertiesMenu.accesskey            "i">
+<!ENTITY abPropertiesMenu.label                         "Atributoj de adresaro">
+<!ENTITY abPropertiesMenu.accesskey                     "A">
+<!ENTITY contactPropertiesMenu.label                    "Atributoj de kontakto">
+<!ENTITY contactPropertiesMenu.accesskey                "A">
+<!ENTITY mailingListPropertiesMenu.label                "Atributoj de dissendolisto">
+<!ENTITY mailingListPropertiesMenu.accesskey            "A">
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label                                 "View">
+<!ENTITY viewMenu.label                                 "Vido">
 <!ENTITY viewMenu.accesskey                             "V">
-<!ENTITY viewToolbarsMenu.label                         "Toolbars">
-<!ENTITY viewToolbarsMenu.accesskey                     "T">
+<!ENTITY viewToolbarsMenu.label                         "Ilarstrioj">
+<!ENTITY viewToolbarsMenu.accesskey                     "I">
 <!ENTITY menubarCmd.label                               "Menu Bar">
 <!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "Address Book Toolbar">
