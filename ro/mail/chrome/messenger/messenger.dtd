@@ -510,7 +510,7 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
 
 <!-- Developer Tools Submenu -->
-<!ENTITY devtoolsMenu.label "Instrumente de dezvoltare">
+<!ENTITY devtoolsMenu.label "Unelte pentru dezvoltatori">
 <!ENTITY devtoolsMenu.accesskey "e">
 <!ENTITY devToolboxCmd.label "Cutia de unelte pentru dezvoltatori">
 <!ENTITY devToolboxCmd.accesskey "t">
