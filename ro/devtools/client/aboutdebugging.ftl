@@ -10,6 +10,9 @@
 
 # Page title (ie tab title) for the Setup page
 about-debugging-page-title-setup-page = Depanare - Configurare
+# Page title (ie tab title) for the Runtime page
+# { $selectedRuntimeId } is the id of the current runtime, such as "this-firefox", "localhost:6080", ...
+about-debugging-page-title-runtime-page = Depanare - Timp de execuție / { $selectedRuntimeId }
 
 # Sidebar strings
 
@@ -33,10 +36,18 @@ aboutdebugging-sidebar-runtime-connection-status-connected = Conectat
 aboutdebugging-sidebar-runtime-connection-status-disconnected = Deconectat
 # Text displayed in the about:debugging sidebar when no device was found.
 about-debugging-sidebar-no-devices = Niciun dispozitiv descoperit
+# Text displayed in buttons found in sidebar items representing remote runtimes.
+# Clicking on the button will attempt to connect to the runtime.
+about-debugging-sidebar-item-connect-button = Conectare
 # Text displayed in buttons found in sidebar items when the runtime is connecting.
 about-debugging-sidebar-item-connect-button-connecting = Se conectează…
 # Text displayed in buttons found in sidebar items when the connection failed.
 about-debugging-sidebar-item-connect-button-connection-failed = Conexiunea a eșuat.
+# Text displayed in connection warning on sidebar item of the runtime when connecting to
+# the runtime is taking too much time.
+about-debugging-sidebar-item-connect-button-connection-not-responding = Conexiunea este încă în așteptare, verifică mesajele în browserul-țintă
+# Text displayed as connection error in sidebar item when the connection has timed out.
+about-debugging-sidebar-item-connect-button-connection-timeout = Timpul de conectare a expirat
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Conectat
@@ -44,6 +55,9 @@ about-debugging-sidebar-item-connected-label = Conectat
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
 about-debugging-sidebar-runtime-item-waiting-for-browser = Se așteaptă browserul…
+# Text displayed in sidebar items for remote devices that have been disconnected from the
+# computer.
+about-debugging-sidebar-runtime-item-unplugged = Deconectat
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName } ({ $deviceName })
@@ -77,6 +91,8 @@ about-debugging-setup-this-firefox = Folosește <a>{ about-debugging-this-firefo
 about-debugging-setup-connect-heading = Conectează un dispozitiv
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = La activare, vor fi descărcate și adăugate componentele de depanare Android USB necesare pentru { -brand-shorter-name }
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = Activează dispozitivele USB
@@ -146,6 +162,9 @@ about-debugging-runtime-other-workers =
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Procese
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button = Profil de execuție
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
