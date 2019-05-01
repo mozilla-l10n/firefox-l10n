@@ -22,6 +22,7 @@
 <!ENTITY firstrun_sync_title "Synchronisation">
 <!ENTITY firstrun_sync_message2 "Reprenez là où vous en étiez.">
 <!ENTITY firstrun_sync_subtext2 "Utilisez Sync pour accéder aux marque-pages, mots de passe et autres données que vous conservez dans &brandShortName; sur vos autres appareils.">
+<!ENTITY newfirstrun_sync_subtext "Synchronisez ce que vous enregistrez sur votre appareil mobile avec Firefox pour ordinateur, confidentiellement et en toute sécurité.">
 <!ENTITY firstrun_signin_message "Connectez-vous, lancez-vous">
 <!ENTITY firstrun_signin_button "Se connecter à Sync">
 <!ENTITY newfirstrun_signin_button "Activer la synchronisation">
@@ -417,6 +418,7 @@ shown from Android O while a tab is being queued.-->
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Appuyez sur Navigateur et choisissez &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Consulter l’assistance de Mozilla">
 <!ENTITY pref_about_firefox "À propos de &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
