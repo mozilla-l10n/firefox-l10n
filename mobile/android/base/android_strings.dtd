@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Vítejte">
 <!ENTITY firstrun_urlbar_message2 "Děkujeme, že jste si zvolili &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Vítá vás &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Moderní mobilní prohlížeč od Mozilly, neziskové organizace zaměřené na otevřený web.">
+<!ENTITY newfirstrun_urlbar_subtext "Rychlý, soukromý a vždy na vaší straně.">
 <!ENTITY firstrun_panel_title_privacy "Soukromí">
 <!ENTITY firstrun_privacy_message "Prohlížejte web, jako když se nikdo nedívá">
 <!ENTITY firstrun_privacy_subtext "Anonymní prohlížení s funkcí Ochrana proti sledování blokuje sledovací prvky, zatímco prohlížíte web, a nebude si pamatovat vaši historii.">
+<!ENTITY newfirstrun_privacy_subtext "Anonymní prohlížení blokuje sledující reklamy, které sledují vaše chování na internetu.">
 <!ENTITY firstrun_panel_title_customize "Přizpůsobení">
 <!ENTITY firstrun_customize_message "Udělejte si aplikaci &brandShortName; podle sebe.">
 <!ENTITY firstrun_customize_subtext "Přizpůsobte si aplikaci &brandShortName; s doplňky. Blokujte reklamy, přidávejte funkce, nebo si vyberte nový vzhled, který bude odrazem vaší osobnosti.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Synchronizace">
 <!ENTITY firstrun_sync_message2 "Pokračujte tam, kde jste skončili.">
 <!ENTITY firstrun_sync_subtext2 "Používejte Sync k nalezení záložek, hesel a dalších věcí uložených v aplikaci &brandShortName; na všech vašich zařízeních.">
+<!ENTITY newfirstrun_sync_subtext "Synchronizujte věci, které ukládáte na mobilu, s Firefoxem pro počítač – soukromě a bezpečně.">
 <!ENTITY firstrun_signin_message "Připojte se a začněte">
 <!ENTITY firstrun_signin_button "Přihlásit se ke službě Sync">
+<!ENTITY newfirstrun_signin_button "Zapnout synchronizaci">
 <!ENTITY  onboard_start_button_browser "Začít prohlížet">
 <!ENTITY firstrun_button_notnow "Nyní ne">
 <!ENTITY firstrun_button_next "Další">
@@ -413,7 +418,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_default_browser2 "Použít aplikaci &brandShortName; jako výchozí prohlížeč">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
-    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Klepněte na „Prohlížeč“ a vyberte &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Navštivte nápovědu">
 <!ENTITY pref_about_firefox "O aplikaci &brandShortName;">
