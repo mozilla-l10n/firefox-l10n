@@ -10,6 +10,7 @@
 <!ENTITY firstrun_panel_title_privacy "गोपनीयता">
 <!ENTITY firstrun_privacy_message "ऐसे ब्राउज़ करें जैसे कोई नहीं देख रहा है">
 <!ENTITY firstrun_privacy_subtext "ट्रैकिंग सुरक्षा के साथ निजी ब्राउज़िंग ट्रैकरों को रोकता है जब आप ब्राउज करते हैं तथा जब आप ब्राउज़िंग समाप्त कर लेते हैं तब आपके इतिहास को यह याद नहीं रखता है.">
+<!ENTITY newfirstrun_privacy_subtext "आपके ऑनलाइन गतिविधिओं पर नज़र रखने वाले ट्रैकरों को निजी ब्राउज़िंग अवरुद्ध करता है।">
 <!ENTITY firstrun_panel_title_customize "मनपसंद बनाएँ">
 <!ENTITY firstrun_customize_message "बनायें &brandShortName; अपना खुद का.">
 <!ENTITY firstrun_customize_subtext "अनुकूल बनायें &brandShortName; एड-ऑन के साथ. विज्ञापनों को रोकें, सुविधाएँ जोड़ें, या एक नया थीम चुने अपने व्यक्तित्व को दर्शाने करने के लिए.">
@@ -22,8 +23,10 @@
 <!ENTITY firstrun_sync_title "सिंक">
 <!ENTITY firstrun_sync_message2 "जहाँ आपने छोड़ा था वहाँ से चुने.">
 <!ENTITY firstrun_sync_subtext2 "सिंक का उपयोग करें बुकमार्क, पासवर्ड, तथा अन्य चीजें अपने सभी उपकरणों पर पाने के लिए जिन्हें आपने &brandShortName; में सहेजा है.">
+<!ENTITY newfirstrun_sync_subtext "निजी तथा सुरक्षित रूप से, डेस्कटॉप हेतु Firefox में अपने मोबाइल पर सहेजे हुए चीज़ों को सिंक करें।">
 <!ENTITY firstrun_signin_message "कनेक्टेड हैं, आरंभ करें">
 <!ENTITY firstrun_signin_button "संकलित करने के लिए साइन इन करें">
+<!ENTITY newfirstrun_signin_button "सिंक चालू करें">
 <!ENTITY  onboard_start_button_browser "ब्राउजिंग शुरू करें">
 <!ENTITY firstrun_button_notnow "अभी नहीं">
 <!ENTITY firstrun_button_next "अगला">
@@ -412,9 +415,11 @@ shown from Android O while a tab is being queued.-->
 
 <!ENTITY pref_default_browser "डिफ़ॉल्ट ब्राउज़र बनायें">
 
+<!ENTITY pref_default_browser2 "&brandShortName; को अपना डिफ़ॉल्ट ब्राउज़र बनाएं">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "ब्राउज़र ऐप के &amp; को दबाएं और &brandShortName; चुनें">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla समर्थन पर जाए">
 <!ENTITY pref_about_firefox "&brandShortName; परिचय">
 <!ENTITY pref_vendor_faqs "आम सवाल">
@@ -512,6 +517,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Localization note (find_error) : Error message shown when there is no result for the
      searched for text in this webpage -->
+<!ENTITY find_error "वाक्यांश मौजूद नहीं">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
