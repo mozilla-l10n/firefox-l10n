@@ -17,7 +17,7 @@
 <!ENTITY newContact.label "Contato de catálogo de endereços…">
 <!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "Anexar">
-<!ENTITY attachMenu.accesskey "x">
+<!ENTITY attachMenu.accesskey "n">
 <!ENTITY attachFileCmd.label "Arquivos…">
 <!ENTITY attachFileCmd.accesskey "A">
 <!ENTITY attachFileCmd.key "a">
@@ -143,7 +143,7 @@
 <!ENTITY viewToolbarsMenuNew.accesskey "B">
 <!ENTITY menubarCmd.label "Barra de menu">
 <!ENTITY menubarCmd.accesskey "m">
-<!ENTITY showCompositionToolbarCmd.label "Barra de ferramentas de composição">
+<!ENTITY showCompositionToolbarCmd.label "Barra de redação">
 <!ENTITY showCompositionToolbarCmd.accesskey "a">
 <!ENTITY showFormattingBarCmd.label "Barra de formatação">
 <!ENTITY showFormattingBarCmd.accesskey "f">
@@ -263,7 +263,7 @@
 <!ENTITY toAddr.label "Para:">
 <!ENTITY ccAddr.label "Cc:">
 <!ENTITY bccAddr.label "Cco:">
-<!ENTITY replyAddr.label "Responder a:">
+<!ENTITY replyAddr.label "Responder:">
 <!ENTITY newsgroupsAddr.label "Newsgroup:">
 <!ENTITY followupAddr.label "Followup-To:">
 <!ENTITY subject.label "Assunto:">
