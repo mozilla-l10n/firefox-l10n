@@ -105,7 +105,7 @@
 <!ENTITY useCacheBefore.accesskey        "s">
 <!ENTITY useCacheAfter.label             "MB de espaço para o cache">
 <!ENTITY overrideSmartCacheSize.label    "Substituir o gerenciamento automático do cache">
-<!ENTITY overrideSmartCacheSize.accesskey "v">
+<!ENTITY overrideSmartCacheSize.accesskey "u">
 <!ENTITY clearCacheNow.label             "Limpar cache agora">
 <!ENTITY clearCacheNow.accesskey         "L">
 

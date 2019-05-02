@@ -55,7 +55,7 @@
 <!ENTITY folderSharingTab.label                  "Compartilhamento">
 <!ENTITY privileges.button.label                 "Privilégios…">
 <!ENTITY privileges.button.accesskey             "D">
-<!ENTITY permissionsDesc.label                   "Você possui estas permissões:">
+<!ENTITY permissionsDesc.label                   "Você tem as seguintes permissões:">
 <!ENTITY folderType.label                        "Tipo da pasta:">
 
 <!ENTITY folderQuotaTab.label                    "Cota">
