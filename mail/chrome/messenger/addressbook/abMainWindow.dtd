@@ -143,7 +143,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "N">
 <!ENTITY newlistButton.label                            "Nova lista">
 <!ENTITY newlistButton.accesskey                        "l">
-<!ENTITY showAsDefault.label                            "Diretório de inicialização padrão">
+<!ENTITY showAsDefault.label                            "Lista padrão ao abrir o catálogo">
 <!ENTITY showAsDefault.accesskey                        "S">
 <!ENTITY editPropertiesButton.label                     "Editar">
 <!ENTITY propertiesContext.label                        "Propriedades">
