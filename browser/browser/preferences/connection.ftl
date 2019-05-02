@@ -21,7 +21,7 @@ connection-proxy-option-system =
     .label = Usar as configurações de proxy do sistema
     .accesskey = a
 connection-proxy-option-auto =
-    .label = Detectar automaticamente as configurações de proxy para esta rede
+    .label = Detectar automaticamente as configurações de proxy desta rede
     .accesskey = r
 connection-proxy-option-manual =
     .label = Configuração manual de proxy
@@ -61,7 +61,7 @@ connection-proxy-reload =
     .label = Recarregar
     .accesskey = c
 connection-proxy-autologin =
-    .label = Não pedir confirmação da autenticação se a senha estiver memorizada
+    .label = Não pedir confirmação de autenticação se a senha estiver memorizada
     .accesskey = v
     .tooltip = Autenticação silenciosa em proxies quando houver credenciais memorizadas. Uma confirmação será solicitada se a autenticação falhar.
 connection-proxy-socks-remote-dns =
@@ -70,9 +70,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Ativar DNS sobre HTTPS
     .accesskey = H
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = URL para resolver DNS por HTTPS
 # Variables:
 #   $url (String) - URL for the DNS over HTTPS provider
 connection-dns-over-https-url-default =
