@@ -4,19 +4,19 @@
 
 <!ENTITY offlineDialog.title "Configurações do modo desconectado">
 
-<!ENTITY checkAutoDetect.label "Seguir automaticamente o estado on-line detectado">
+<!ENTITY checkAutoDetect.label "Seguir automaticamente o estado de conexão detectado">
 <!ENTITY checkAutoDetect.accesskey "d">
-<!ENTITY titleStartUp "Estado manual quando inicializando:">
-<!ENTITY radioRememberPrevState.label "Somente se já estava no modo off-line">
+<!ENTITY titleStartUp "Estado manual ao iniciar:">
+<!ENTITY radioRememberPrevState.label "Lembrar modo de conexão anterior">
 <!ENTITY radioRememberPrevState.accesskey "t">
-<!ENTITY radioAskState.label "Pergunte-me pelo estado on-line">
+<!ENTITY radioAskState.label "Pergunte se deve conectar">
 <!ENTITY radioAskState.accesskey "g">
-<!ENTITY radioAlwaysOnlineState.label "On-line">
+<!ENTITY radioAlwaysOnlineState.label "Conectado">
 <!ENTITY radioAlwaysOnlineState.accesskey "l">
 <!ENTITY radioAlwaysOffline.label "Desconectado">
 <!ENTITY radioAlwaysOffline.accesskey "D">
 
-<!ENTITY textGoingOnline "Ao sair do modo off-line enviar as mensagens não enviadas?">
+<!ENTITY textGoingOnline "Ao sair do modo desconectado, enviar mensagens não enviadas?">
 <!ENTITY radioAutoSend.label "Sim">
 <!ENTITY radioAutoSend.accesskey "S">
 <!ENTITY radioNotSend.label "Não">
