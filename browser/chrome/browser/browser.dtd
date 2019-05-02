@@ -64,6 +64,8 @@ but will never be visible at the same time. -->
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "B">
 
+<!-- Tab context menu -->
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -469,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Clear Recent History…">
 <!ENTITY appMenuHistory.restoreSession.label "Restore Previous Session">
 <!ENTITY appMenuHistory.viewSidebar.label "View History Sidebar">
+<!ENTITY appMenuHistory.hideSidebar.label "Hide History Sidebar">
 <!ENTITY appMenuHistory.recentHistory.label "Recent History">
 <!ENTITY appMenuHelp.label "Help">
 
@@ -497,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Sign in to Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Manage Devices…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "View Synced Tabs Sidebar">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Hide Synchronised Tabs Sidebar">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Connect Another Device">
 
 <!ENTITY appMenuRecentHighlights.label "Recent Highlights">
@@ -1105,6 +1109,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "Not Now">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
+
 <!ENTITY updateAvailable.panelUI.label "Download &brandShorterName; update">
 
 <!ENTITY updateManual.message "Download a fresh copy of &brandShorterName; and we’ll help you to install it.">
