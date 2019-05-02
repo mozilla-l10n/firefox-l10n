@@ -57,6 +57,7 @@ policy-HardwareAcceleration = If false, turn off hardware acceleration.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Set and optionally lock the homepage.
 policy-InstallAddonsPermission = Allow certain web sites to install add-ons.
+policy-LocalFileLinks = Allow specific web sites to link to local files.
 policy-NetworkPrediction = Enable or disable network prediction (DNS prefetching).
 policy-NewTabPage = Enable or disable the New Tab page.
 policy-NoDefaultBookmarks = Disable creation of the default bookmarks bundled with { -brand-short-name }, and the Smart Bookmarks (Most Visited, Recent Tags). Note: this policy is only effective if used before the first run of the profile.
@@ -69,6 +70,7 @@ policy-Preferences = Set and lock the value for a subset of preferences.
 policy-Proxy = Configure proxy settings.
 policy-RequestedLocales = Set the list of requested locales for the application in order of preference.
 policy-SanitizeOnShutdown = Clear all navigation data on shutdown.
+policy-SanitizeOnShutdown2 = Clear navigation data on shutdown.
 policy-SearchBar = Set the default location of the search bar. The user is still allowed to customise it.
 policy-SearchEngines = Configure search engine settings. This policy is only available on the Extended Support Release (ESR) version.
 policy-SearchSuggestEnabled = Enable or disable search suggestions.
