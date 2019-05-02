@@ -7,13 +7,8 @@ about-policies-title = គោលនយោបាយ​សម្រាប់​ស
 active-policies-tab = សកម្ម
 errors-tab = កំហុស
 documentation-tab = ឯកសារ
+no-specified-policies-message = សេវាកម្ម​គោលការណ៍​សហគ្រាស​សកម្ម ប៉ុន្តែ​មិនបាន​បើក​ដំណើរការ​គោលការណ៍។
+inactive-message = សេវាកម្ម​គោលការណ៍​សហគ្រាស​អសកម្ម
 policy-name = ឈ្មោះ​គោលនយោបាយ
 policy-value = តម្លៃ​គោលនយោបាយ
 policy-errors = កំហុស​គោលនយោបាយ
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = នៅពេលប្រើគោលនយោបាយក្រុម គោលនយោបាយនេះអាចកំណត់បានតែនៅកម្រិតកុំព្យូទ័រប៉ុណ្ណោះ។
