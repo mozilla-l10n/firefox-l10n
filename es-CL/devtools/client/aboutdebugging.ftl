@@ -155,7 +155,7 @@ about-debugging-runtime-service-workers =
     .name = Service Workers
 # Title of the shared workers category.
 about-debugging-runtime-shared-workers =
-    .name = Shared Workers
+    .name = Workers compartidos
 # Title of the other workers category.
 about-debugging-runtime-other-workers =
     .name = Otros Workers
