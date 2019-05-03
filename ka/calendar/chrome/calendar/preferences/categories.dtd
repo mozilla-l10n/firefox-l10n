@@ -10,8 +10,8 @@
 <!ENTITY pref.categories.new.title "ახალი კატეგორია">
 <!ENTITY pref.categories.newButton.label "ახალი…">
 <!ENTITY pref.categories.newButton.accesskey "ხ">
-<!ENTITY pref.categories.edit.title "კატეგორიის რედაქტირება">
-<!ENTITY pref.categories.editButton.label "რედაქტირება…">
+<!ENTITY pref.categories.edit.title "კატეგორიის ჩასწორება">
+<!ENTITY pref.categories.editButton.label "ჩასწორება…">
 <!ENTITY pref.categories.editButton.accesskey "E">
 <!ENTITY pref.categories.removeButton.label "მოცილება">
 <!ENTITY pref.categories.removeButton.accesskey "R">

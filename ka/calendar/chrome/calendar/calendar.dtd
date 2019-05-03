@@ -86,7 +86,7 @@
 <!ENTITY calendar.navigation.prevmonth.tooltip  "ერთი თვით წინ" >
 
 <!ENTITY calendar.newevent.button.label         "ახალი ღონისძიება" >
-<!ENTITY calendar.newtask.button.label          "რედაქტირება" >
+<!ENTITY calendar.newtask.button.label          "ჩასწორება" >
 <!ENTITY calendar.print.button.label            "ბეჭდვა" >
 <!ENTITY calendar.print.button.accesskey        "ჭ">
 
@@ -347,7 +347,7 @@
 <!ENTITY calendar.alarm.snooze.cancel               "გადადების გაუქმება">
 
 <!-- Calendar Server Dialog -->
-<!ENTITY calendar.server.dialog.title.edit          "კალენდრის რედაქტირება">
+<!ENTITY calendar.server.dialog.title.edit          "კალენდრის ჩასწორება">
 <!ENTITY calendar.server.dialog.name.label          "კალენდრის სახელი:">
 
 <!-- Calendar Properties -->
