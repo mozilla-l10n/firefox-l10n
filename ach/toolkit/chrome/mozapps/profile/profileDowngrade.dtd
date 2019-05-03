@@ -12,3 +12,5 @@
 <!ENTITY window.title "Icako kit me Firefox ma con">
 
 
+<!ENTITY window.quit-win "Kat woko">
+<!ENTITY window.quit-nonwin "Weki">
