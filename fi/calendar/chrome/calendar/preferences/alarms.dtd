@@ -12,6 +12,8 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "A">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Käytä oletusääntä">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "K">
+<!ENTITY pref.calendar.alarms.sound.useCustom.label "Käytä seuraavaa äänitiedostoa">
+<!ENTITY pref.calendar.alarms.sound.useCustom.accessKey "s">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Selaa…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "S">
 <!ENTITY pref.calendar.alarms.sound.play.label "Toista">
