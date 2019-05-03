@@ -5,7 +5,6 @@
 blocklist-window =
     .title = Jami bulok
     .style = width: 55em
-blocklist-desc = Itwero yero jami mene ma { -brand-short-name } bi tic kwede me gengo jami Kakube ma twero lubo kor tic me yeny mamegi.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -24,7 +23,4 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
-blocklist-item-moz-std-name = Disconnect.me gwokke ma yot (Kicwako).
-blocklist-item-moz-std-desc = Ye lulub kor mogo wek kakube otii maber.
-blocklist-item-moz-full-name = Disconnect.me gwokke ma ger.
-blocklist-item-moz-full-desc = Geng lulub kor ma ngene. Kakube mogo pe bi tic ma ber.
+blocklist-item-moz-full-description = Gengo lulub kor weng ma kinongo. Kakube onyo jami mogo pe mogo bicane maber.

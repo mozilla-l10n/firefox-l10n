@@ -23,6 +23,7 @@ onboarding-addons-title = Med-ikome
 onboarding-addons-text = Med jami mapol ma weko { -brand-short-name } tiyo matek piri. Po wel, rot piny kit ma tye kwede onyo nyut kiti ki theme ma iyubo piri.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Yeny oyot, ki ngec, onyo maber ki lamed calo Ghostery, ma weko i gengo kwena cato wil ma cwero yii
+onboarding-fxa-text = Coone pi { -fxaccount-brand-name } ka i rib alamabuk, mung me donyo, ki yab dirica matino i kabedo mo keken ma itiyo ki { -brand-short-name }.
 
 ## Message strings belonging to the Return to AMO flow
 
