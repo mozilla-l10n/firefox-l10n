@@ -25,6 +25,7 @@ url-classifier-cache-clear-btn = ล้าง
 url-classifier-cache-table-name = ชื่อตาราง
 url-classifier-cache-show-entries = แสดงรายการ
 url-classifier-cache-entries = รายการแคช
+url-classifier-cache-fullhash = แฮชแบบเต็ม
 url-classifier-debug-title = ดีบั๊ก
 url-classifier-debug-module-btn = ตั้งโมดูลรายการบันทึก
 url-classifier-debug-file-btn = ตั้งไฟล์รายการบันทึก

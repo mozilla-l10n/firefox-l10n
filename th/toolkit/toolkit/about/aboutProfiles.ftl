@@ -8,6 +8,8 @@ profiles-create = สร้างโปรไฟล์ใหม่
 profiles-restart-title = เริ่มการทำงานใหม่
 profiles-restart-in-safe-mode = เริ่มการทำงานใหม่พร้อมปิดใช้งานส่วนเสริม…
 profiles-restart-normal = เริ่มการทำงานใหม่ปกติ…
+profiles-flush-fail-title = ไม่ได้บันทึกการเปลี่ยนแปลง
+profiles-flush-conflict = { profiles-conflict }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = โปรไฟล์: { $name }
@@ -25,6 +27,7 @@ profiles-rename = เปลี่ยนชื่อ
 profiles-remove = เอาออก
 profiles-set-as-default = ตั้งเป็นโปรไฟล์เริ่มต้น
 profiles-launch-profile = เปิดโปรไฟล์ในเบราว์เซอร์ใหม่
+profiles-cannot-set-as-default-title = ไม่สามารถตั้งค่าเริ่มต้น
 profiles-yes = ใช่
 profiles-no = ไม่
 profiles-rename-profile-title = เปลี่ยนชื่อโปรไฟล์
