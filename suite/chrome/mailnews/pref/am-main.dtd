@@ -26,7 +26,7 @@
 <!ENTITY signatureFile.accesskey "t">
 <!ENTITY choose.label "არჩევა…">
 <!ENTITY choose.accesskey "C">
-<!ENTITY editVCard.label "სავიზიტო ბარათის რედაქტირება…">
+<!ENTITY editVCard.label "სავიზიტო ბარათის ჩასწორება…">
 <!ENTITY editVCard.accesskey "d">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY attachVCard.label "წერილებზე სავიზიტოს მიმაგრება">

@@ -7,7 +7,7 @@
 <!ENTITY activeColumn.label "ჩართვა">
 <!ENTITY newButton.label "ახალი…">
 <!ENTITY newButton.accesskey "N">
-<!ENTITY editButton.label "რედაქტირება…">
+<!ENTITY editButton.label "ჩასწორება…">
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "წაშლა">
 <!ENTITY deleteButton.accesskey "t">

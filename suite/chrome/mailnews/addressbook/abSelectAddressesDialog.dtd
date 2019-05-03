@@ -14,7 +14,7 @@
 <!ENTITY bccButton.accesskey                 "B">  
 <!ENTITY newButton.label                     "ახალი…"> 
 <!ENTITY newButton.accesskey                 "N"> 
-<!ENTITY editButton.label                    "რედაქტირება…"> 
+<!ENTITY editButton.label                    "ჩასწორება…"> 
 <!ENTITY editButton.accesskey                "E">
 <!ENTITY removeButton.label                  "მოცილება"> 
 <!ENTITY removeButton.accesskey              "R"> 
@@ -25,7 +25,7 @@
 <!ENTITY for.placeholder                     "სახელი ან ელფოსტა">
 <!ENTITY addressMessageTo.label              "წერილის მისამართი:"> 
 
-<!-- Tooltips items -->  
+<!-- Tooltips items -->
 <!ENTITY addressPickerNewButton.tooltip      "წიგნაკის ახალი ბარათის შექმნა"> 
-<!ENTITY addressPickerEditButton.tooltip     "მონიშნული ბარათის რედაქტირება"> 
+<!ENTITY addressPickerEditButton.tooltip     "მონიშნული ბარათის ჩასწორება"> 
 

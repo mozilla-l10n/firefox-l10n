@@ -49,7 +49,7 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "ექსპორტი">
 <!ENTITY button.exportOPML.accesskey "X">
-<!ENTITY button.exportOPML.tooltip   "არხების ექსპორტი საქაღალდების სტრუქტურით; ctrl-დაწკაპვა ან ctrl-enter არხების ექსპორტისთვის სიის სახით">
+<!ENTITY button.exportOPML.tooltip   "არხების ექსპორტი საქაღალდეების სტრუქტურით; ctrl-დაწკაპვა ან ctrl-enter არხების ექსპორტისთვის სიის სახით">
 
 <!ENTITY cmd.close.commandKey        "w">
 <!ENTITY button.close.label          "დახურვა">

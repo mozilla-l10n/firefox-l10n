@@ -9,7 +9,7 @@
 
 <!ENTITY smtpListAdd.label  "დამატება…">
 <!ENTITY smtpListAdd.accesskey  "d">
-<!ENTITY smtpListEdit.label "რედაქტირება…">
+<!ENTITY smtpListEdit.label "ჩასწორება…">
 <!ENTITY smtpListEdit.accesskey "E">
 <!ENTITY smtpListDelete.label "ამოშლა">
 <!ENTITY smtpListDelete.accesskey "m">

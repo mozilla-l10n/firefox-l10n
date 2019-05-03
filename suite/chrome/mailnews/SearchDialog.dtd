@@ -5,7 +5,7 @@
 <!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "წერილების ძებნის არე:">
 <!ENTITY searchHeading.accesskey     "e">
-<!ENTITY searchSubfolders.label      "ძიება ქვესაქაღალდებში">
+<!ENTITY searchSubfolders.label      "ძიება ქვესაქაღალდეებში">
 <!ENTITY searchSubfolders.accesskey  "u">
 <!ENTITY searchOnHeading.label       "ძიების შესრულება:">
 <!ENTITY searchOnHeading.accesskey   "P">

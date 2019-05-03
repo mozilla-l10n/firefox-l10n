@@ -88,7 +88,7 @@
 <!ENTITY addressbookToolbar.tooltip                     "წიგნაკის ხელსაწყოთა ზოლი">
 <!ENTITY newContactButton.tooltip                       "წიგნაკში ახალი პირის მონაცემების შექმნა">
 <!ENTITY newlistButton.tooltip                          "ახალი სიის შექმნა"> 
-<!ENTITY editItemButton.tooltip                         "შერჩეული ელემენტის რედაქტირება">
+<!ENTITY editItemButton.tooltip                         "შერჩეული ელემენტის ჩასწორება">
 <!ENTITY newmsgButton.tooltip                           "ელფოსტის გაგზავნა"> 
 <!ENTITY newIM.tooltip                                  "მყისი გზავნილი ან გასუბრება"> 
 <!ENTITY deleteItemButton.tooltip                       "შერჩეული ელემენტის წაშლა">

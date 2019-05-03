@@ -10,11 +10,11 @@
 
 <!ENTITY searchTermCaption.label       "ამ შენახული ძიების საქაღალდისთვის გამოყენებული საძიებო კრიტერიუმის შესწორება: ">
 
-<!ENTITY folderSelectionCaption.label  "საძიებო საქაღალდების შერჩევა: ">
+<!ENTITY folderSelectionCaption.label  "საძიებო საქაღალდეების შერჩევა: ">
 <!ENTITY chooseFoldersButton.label     "შერჩევა…">
 <!ENTITY chooseFoldersButton.accesskey "h">
 
-<!ENTITY searchOnline.label            "ძიება კავშირის რეჟიმში (იძლევა განახლებულ შედეგებს IMAP და სიახლეების საქაღალდებიდან, თუმცა საქაღალდის გახსნის დრო იზრდება)">
+<!ENTITY searchOnline.label            "ძიება კავშირის რეჟიმში (იძლევა განახლებულ შედეგებს IMAP და სიახლეების საქაღალდეებიდან, თუმცა საქაღალდის გახსნის დრო იზრდება)">
 <!ENTITY searchOnline.accesskey        "S">
 <!ENTITY newFolderButton.label         "შექმნა">
 <!ENTITY newFolderButton.accesskey     "r">

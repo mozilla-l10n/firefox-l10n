@@ -8,11 +8,11 @@
 <!ENTITY archiveGranularityPrefix.label "წერილების არქივაციისას მათი მოთავსება საქაღალდეში:">
 <!ENTITY archiveFlat.label "ერთ საქაღალდეში">
 <!ENTITY archiveFlat.accesskey "s">
-<!ENTITY archiveYearly.label "საქაღალდებში წლების მიხედვით">
+<!ENTITY archiveYearly.label "საქაღალდეებში წლების მიხედვით">
 <!ENTITY archiveYearly.accesskey "Y">
-<!ENTITY archiveMonthly.label "საქაღალდებში თვეების მიხედვით">
+<!ENTITY archiveMonthly.label "საქაღალდეებში თვეების მიხედვით">
 <!ENTITY archiveMonthly.accesskey "M">
-<!ENTITY keepFolderStructure.label "საქაღალდების სტრუქტურის შენარჩუნება არქივებში">
+<!ENTITY keepFolderStructure.label "საქაღალდეების სტრუქტურის შენარჩუნება არქივებში">
 <!ENTITY keepFolderStructure.accesskey "K">
 <!ENTITY archiveExample.label "მაგალითი">
 <!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default
