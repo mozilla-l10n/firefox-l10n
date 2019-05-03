@@ -36,12 +36,12 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Ngec me cawa tic">
 <!ENTITY runtimeMenu_showDetails_accesskey "C">
-<!ENTITY runtimeMenu_showMonitor_label "Nen">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Ter me nyonyo">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "Ter me nyonyo">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
+<!ENTITY runtimeMenu_showPerformancePanel_label "Tic">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "t">
 
 <!ENTITY viewMenu_label "Nen">
 <!ENTITY viewMenu_accesskey "V">
@@ -76,7 +76,6 @@
 <!ENTITY runtimePanel_usb "Nyonyo me USB">
 <!ENTITY runtimePanel_wifi "Nyonyo me Wi-Fi">
 <!ENTITY runtimePanel_other "Mukene">
-<!ENTITY runtimePanel_noadbhelper "Ket lakony me ADB">
 <!ENTITY runtimePanel_nousbdevice "Pe itwero neno nyonyo mamegi?">
 <!ENTITY runtimePanel_refreshDevices_label "Nwo cano nyonyo">
 
@@ -119,12 +118,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Ngec me cawa me tic">
-<!ENTITY runtimedetails_adbIsRoot "ADB obedo lwit: ">
-<!ENTITY runtimedetails_summonADBRoot "lwit nyonyo">
-<!ENTITY runtimedetails_ADBRootWarning "(mito lacan cako tic ma ki yabo)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Twer me DevTools mape ki lageng: ">
-<!ENTITY runtimedetails_requestPrivileges "kwa pi twero mamalo">
-<!ENTITY runtimedetails_privilegesWarning "(Bi nwoyo cako nyonyo. Mito donyo me lwit.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Cwalo acel onyo not">
@@ -146,10 +139,6 @@
 <!ENTITY devicesetting_newname "Nying manyen me ter">
 <!ENTITY devicesetting_newtext "Tero wel">
 <!ENTITY devicesetting_addnew "Med ter manyen">
-
-<!-- Monitor -->
-<!ENTITY monitor_title "Nen">
-<!ENTITY monitor_help "Kony">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
