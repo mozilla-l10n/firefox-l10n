@@ -68,7 +68,7 @@
 <!ENTITY alwaysAuthenticate.accesskey "ე">
 <!ENTITY newsrcFilePath.label "ჯგუფების ფაილი:">
 <!ENTITY newsrcPicker.label "ჯგუფების ფაილის არჩევა">
-<!ENTITY abbreviate.label "წერილების საქაღალდების პანელში ჯგუფების სახელებს ჩვენების წესის მითითება:">
+<!ENTITY abbreviate.label "წერილების საქაღალდეების პანელში ჯგუფების სახელებს ჩვენების წესის მითითება:">
 <!ENTITY abbreviateOn.label "სრული სახით (მაგალითად, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "შემოკლებულად (მაგალითად, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "დამატებით…">
