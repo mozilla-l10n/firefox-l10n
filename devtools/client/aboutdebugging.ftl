@@ -35,6 +35,8 @@ about-debugging-sidebar-item-connect-button = เชื่อมต่อ
 about-debugging-sidebar-item-connect-button-connecting = กำลังเชื่อมต่อ…
 # Text displayed in buttons found in sidebar items when the connection failed.
 about-debugging-sidebar-item-connect-button-connection-failed = การเชื่อมต่อล้มเหลว
+# Text displayed as connection error in sidebar item when the connection has timed out.
+about-debugging-sidebar-item-connect-button-connection-timeout = การเชื่อมต่อหมดเวลา
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = เชื่อมต่อแล้ว
