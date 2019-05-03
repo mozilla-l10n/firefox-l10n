@@ -8,6 +8,7 @@ about-config-warning-text = Loko ter magi me rwom ma malu twero kelo bal i bedo 
 about-config-warning-checkbox = Cwe cwinya doki, tim ber!
 about-config-warning-button = Aye acara ne!
 about-config-title = ikom:cano
+about-config2-title = Ter ma lamal
 about-config-search-input =
     .placeholder = Yeny
 about-config-show-all = Nyut weng
