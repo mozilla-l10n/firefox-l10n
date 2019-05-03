@@ -57,6 +57,7 @@ policy-HardwareAcceleration = Sche «false», deactivar l'acceleraziun cun agid 
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Definir la pagina da partenza e tut tenor basegn impedir la modificaziun da l'opziun.
 policy-InstallAddonsPermission = Permetter a tschertas websites dad installar supplements.
+policy-LocalFileLinks = Permetter a websites specificas dad utilisar colliaziuns a datotecas localas.
 policy-NetworkPrediction = Activar u deactivar «network prediction» (prelectura DNS).
 policy-NewTabPage = Activar u deactivar la pagina «Nov tab».
 policy-NoDefaultBookmarks = Deactivar la creaziun dals segnapaginas predefinids da { -brand-short-name } ed ils segnapaginas intelligents (Visità il pli savens, Chavazzins utilisads dacurt). Remartga: questa directiva ha mo effect sch'ella vegn utilisada avant ch'il profil vegn avert l'emprima giada.

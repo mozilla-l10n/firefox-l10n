@@ -471,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Stizzar la cronologia la pli nova…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar l'ultima sesida">
 <!ENTITY appMenuHistory.viewSidebar.label "Vesair la trav laterala da la cronologia">
+<!ENTITY appMenuHistory.hideSidebar.label "Zuppentar la trav laterala da la cronologia">
 <!ENTITY appMenuHistory.recentHistory.label "Cronologia nova">
 <!ENTITY appMenuHelp.label "Agid">
 
@@ -499,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "S'annunziar tar Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administrar apparats…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Mussar la trav laterala dals tabs sincronisads">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Zuppentar la trav laterala dals tabs sincronisads">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Colliar in auter apparat">
 
 <!ENTITY appMenuRecentHighlights.label "Ultims accents">
@@ -1107,6 +1109,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "T">
 <!ENTITY updateAvailable.cancelButton.label "Betg ussa">
 <!ENTITY updateAvailable.cancelButton.accesskey "B">
+
 <!ENTITY updateAvailable.panelUI.label "Telechargiar l'actualisaziun da &brandShorterName;">
 
 <!ENTITY updateManual.message "Telechargia ina copia frestga da &brandShorterName; e nus ta gidain da l'installar.">
