@@ -4,7 +4,9 @@
 
 <!ENTITY firstrun_panel_title_welcome "Bainvegni">
 <!ENTITY firstrun_urlbar_message2 "Grazia che ti has tschernì &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Bainvegni a &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "In navigatur mobil modern da Mozilla, l\&apos;organisaziun senza finamira da profit che s\&apos;engascha per ina rait libra ed averta.">
+<!ENTITY newfirstrun_urlbar_subtext "Spert, privat e da tia vart.">
 <!ENTITY firstrun_panel_title_privacy "Sfera privata">
 <!ENTITY firstrun_privacy_message "Navighescha sco sche nagin t\&apos;observass">
 <!ENTITY firstrun_privacy_subtext "Il modus privat cun protecziun cunter il fastizar blochescha fastizaders durant che ti navigheschas e na memorisescha betg la cronologia suenter la navigaziun.">
@@ -22,6 +24,7 @@
 <!ENTITY firstrun_sync_subtext2 "Utilisescha Sync per chattar segnapaginas, pleds-clav ed autras datas che ti has memorisà en &brandShortName; sin tut tes apparats.">
 <!ENTITY firstrun_signin_message "Ta collia per cumenzar">
 <!ENTITY firstrun_signin_button "T\&apos;annunzia per sincronisar">
+<!ENTITY newfirstrun_signin_button "Activar Sync">
 <!ENTITY  onboard_start_button_browser "Cumenzar a navigar">
 <!ENTITY firstrun_button_notnow "Betg gist uss">
 <!ENTITY firstrun_button_next "Enavant">
@@ -409,6 +412,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "Tabs sincronisads">
 
 <!ENTITY pref_default_browser "Definir sco navigatur da standard">
+
+<!ENTITY pref_default_browser2 "Definir &brandShortName; sco navigatur da standard">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY pref_default_browser_mozilla_support_tablet "Visitar il support da Mozilla">
 <!ENTITY pref_about_firefox "Davart &brandShortName;">
 <!ENTITY pref_vendor_faqs "Dumondas frequentas">
@@ -503,6 +511,9 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "Precedent">
 <!ENTITY find_next "Proxim">
 <!ENTITY find_close "Serrar">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
