@@ -24,6 +24,7 @@ features-title = คุณลักษณะของ { -brand-short-name }
 features-name = ชื่อ
 features-version = รุ่น
 features-id = ID
+processes-title = โปรเซสระยะไกล
 processes-type = ชนิด
 app-basics-title = พื้นฐานแอปพลิเคชัน
 app-basics-name = ชื่อ
@@ -47,6 +48,8 @@ app-basics-service-workers = ตัวทำงานบริการที่
 app-basics-profiles = โปรไฟล์
 app-basics-multi-process-support = หน้าต่างแบบหลายโปรเซส
 app-basics-process-count = โปรเซสเนื้อหาเว็บ
+app-basics-remote-processes-count = โปรเซสระยะไกล
+app-basics-enterprise-policies = นโยบายองค์กร
 app-basics-safe-mode = โหมดปลอดภัย
 show-dir-label =
     { PLATFORM() ->
