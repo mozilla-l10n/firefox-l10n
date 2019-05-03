@@ -10,6 +10,7 @@
 <!ENTITY firstrun_panel_title_privacy "Sfera privata">
 <!ENTITY firstrun_privacy_message "Navighescha sco sche nagin t\&apos;observass">
 <!ENTITY firstrun_privacy_subtext "Il modus privat cun protecziun cunter il fastizar blochescha fastizaders durant che ti navigheschas e na memorisescha betg la cronologia suenter la navigaziun.">
+<!ENTITY newfirstrun_privacy_subtext "La navigaziun en il modus privat blochescha fastizaders da reclama che ta suondan en l\&apos;internet.">
 <!ENTITY firstrun_panel_title_customize "Persunalisar">
 <!ENTITY firstrun_customize_message "Persunalisescha &brandShortName;.">
 <!ENTITY firstrun_customize_subtext "Persunalisescha &brandShortName; cun supplements. Blochescha reclama, agiuntescha funcziuns u tscherna in design che ta correspunda.">
@@ -22,6 +23,7 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Cuntinuescha là nua che ti has chalà.">
 <!ENTITY firstrun_sync_subtext2 "Utilisescha Sync per chattar segnapaginas, pleds-clav ed autras datas che ti has memorisà en &brandShortName; sin tut tes apparats.">
+<!ENTITY newfirstrun_sync_subtext "Sincronisescha quai che ti memoriseschas sin tes apparat mobil era en Firefox per Windows, macOS u Linux – a moda confidenziala e segira.">
 <!ENTITY firstrun_signin_message "Ta collia per cumenzar">
 <!ENTITY firstrun_signin_button "T\&apos;annunzia per sincronisar">
 <!ENTITY newfirstrun_signin_button "Activar Sync">
@@ -417,6 +419,7 @@ shown from Android O while a tab is being queued.-->
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Smatga sin «browser» (u sumegliant) &amp; tscherna &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Visitar il support da Mozilla">
 <!ENTITY pref_about_firefox "Davart &brandShortName;">
 <!ENTITY pref_vendor_faqs "Dumondas frequentas">
