@@ -10,7 +10,7 @@
 <!ENTITY description.accesskey      "c">
 <!ENTITY folderRestriction1.label   "ეს სერვერი იღებს მხოლოდ ორი სახის საქაღალდეებს.">
 <!ENTITY folderRestriction2.label   "ახალ საქაღალდეში შეიძლება ინახებოდეს:">
-<!ENTITY foldersOnly.label          "მხოლოდ საქაღალდები">
+<!ENTITY foldersOnly.label          "მხოლოდ საქაღალდეები">
 <!ENTITY messagesOnly.label         "მხოლოდ წერილები">
 <!ENTITY accept.label               "საქაღალდის შექმნა">
 <!ENTITY accept.accesskey           "შ">

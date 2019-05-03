@@ -51,10 +51,10 @@
 <!ENTITY autocompleteText.label                "წერილების გაგზავნისას შესაბამისი ჩანაწერების შემოწმება:">
 <!ENTITY addressingEnable.label                "ადგილობრივ წიგნაკებში">
 <!ENTITY addressingEnable.accesskey            "დ">
-<!ENTITY directories.label                     "საქაღალდების სერვერი:">
+<!ENTITY directories.label                     "საქაღალდეების სერვერი:">
 <!ENTITY directories.accesskey                 "რ">
 <!ENTITY directoriesNone.label                 "არა">
-<!ENTITY editDirectories.label                 "საქაღალდების ჩასწორება…">
+<!ENTITY editDirectories.label                 "საქაღალდეების ჩასწორება…">
 <!ENTITY editDirectories.accesskey             "ჩ">
 <!ENTITY showAsDefault.label                   "ნაგულისხმევი გამშვები საქაღალდე, მისამართების წიგნაკის ფანჯარაში:">
 <!ENTITY showAsDefault.accesskey               "ნ">
