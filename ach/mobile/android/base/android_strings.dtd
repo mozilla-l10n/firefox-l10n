@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Wajoli">
 <!ENTITY firstrun_urlbar_message2 "Pwoc piyero &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Wajoli i &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Layeny me kunyoni me cing ki bot Mozilla, dul ma pe me nongo magoba ma odyere pi kakube me nono dok tye ayaba.">
+<!ENTITY newfirstrun_urlbar_subtext "Dwir, mung ki tye piri.">
 <!ENTITY firstrun_panel_title_privacy "Mung">
 <!ENTITY firstrun_privacy_message "Yeny calo ngato pe ka neno">
 <!ENTITY firstrun_privacy_subtext "Yeny i mung ki Gwokke ikom lubo kor gengo lulub kor ma nongo itye ka yeny ki pe bi poo ikom gin mukato mamegi ka ityeko yeny.">
+<!ENTITY newfirstrun_privacy_subtext "Yeny i mung gengo lulub kor me cato wil ma lubo kori iwiyamo.">
 <!ENTITY firstrun_panel_title_customize "Yubi">
 <!ENTITY firstrun_customize_message "Wek &brandShortName; obed megi.">
 <!ENTITY firstrun_customize_subtext "Yub &brandShortName; ki med-ikome. Geng kwena me cat, med jami, onyo yer theme manyen me nyuto kwo mamegi.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Cak ki kama i giko iyie ni.">
 <!ENTITY firstrun_sync_subtext2 "Tii ki Ribo me nongo alamabuk, mung me donyo, ki jami mukene ma i gwoko ii &brandShortName; i nyonyo ni weng.">
+<!ENTITY newfirstrun_sync_subtext "Rib jami ma igwoko gi i mobile wa Firefox pi desktop, i mung ki ber bedo.">
 <!ENTITY firstrun_signin_message "Kube, caki">
 <!ENTITY firstrun_signin_button "Dony iye wek itim marom">
+<!ENTITY newfirstrun_signin_button "Cak Ribo">
 <!ENTITY  onboard_start_button_browser "Cak yenyo">
 <!ENTITY firstrun_button_notnow "Pe kombedi">
 <!ENTITY firstrun_button_next "Malubo">
@@ -409,6 +414,12 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "Dirica matino ma kitimo marom">
 
 <!ENTITY pref_default_browser "Ket calo layeny makwongo">
+
+<!ENTITY pref_default_browser2 "Wek &brandShortName; obed layeny mamegi makwongo">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Gud purugram me Layeny ka iyer &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Lim Mozilla Support">
 <!ENTITY pref_about_firefox "Ikom &brandShortName;">
 <!ENTITY pref_vendor_faqs "Lapeny ma pol kare">
@@ -503,6 +514,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "Mukato">
 <!ENTITY find_next "Malubo">
 <!ENTITY find_close "Lor">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "Lok pe ononge">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
