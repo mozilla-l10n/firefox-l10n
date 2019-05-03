@@ -62,6 +62,8 @@ but will never be visible at the same time. -->
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "k">
 
+<!-- Tab context menu -->
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -125,6 +127,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "G">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY importFromAnotherBrowserCmd.label "Kel ki i Layeny Mukene…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "K">
 
 
 <!ENTITY goOfflineCmd.label "Ti ma pe ikube iyamo">
@@ -222,6 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signedInAs.label "I donyo iyie calo">
 <!ENTITY fxa.menu.manageAccount.label "Lo Akaunt…">
 <!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Kub Nyonyo Mukene…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -240,6 +245,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Kat woko ki i wang kio ma opong (esc)">
 <!ENTITY leaveDOMFullScreen.label "Kat woko ki i wang komputa ma opong">
 <!ENTITY leaveDOMFullScreen.accesskey "w">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
+     these two strings are used when right-clicking on a video in the
+     content area when the Picture-in-Picture feature is enabled. -->
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -1044,6 +1053,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "G">
 <!ENTITY updateAvailable.cancelButton.label "Pe kombedi">
 <!ENTITY updateAvailable.cancelButton.accesskey "P">
+
 <!ENTITY updateAvailable.panelUI.label "Gam ngec manyen pi &brandShorterName;">
 
 <!ENTITY updateManual.message "Gam &brandShorterName; manyenne ki wa bikonyi me keto ne.">
