@@ -8,7 +8,7 @@
 <!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "მხოლოდ გამოწერილი საქაღალდეების ჩვენება">
 <!ENTITY usingSubscription.accesskey "w">
-<!ENTITY dualUseFolders.label "სერვერი მუშაობს იმ საქაღალდებთანაც, რომლებიც ქვესაქაღალდებსა და წერილებს შეიცავენ">
+<!ENTITY dualUseFolders.label "სერვერი მუშაობს იმ საქაღალდეებთანაც, რომლებიც ქვესაქაღალდეებსა და წერილებს შეიცავენ">
 <!ENTITY dualUseFolders.accesskey "f">
 <!ENTITY maximumConnectionsNumber.label "სერვერთან კავშირების მაქსიმალური რაოდენობა ბუფერირებისთვის">
 <!ENTITY maximumConnectionsNumber.accesskey "M">

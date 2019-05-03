@@ -45,7 +45,7 @@
      filters are propagated between folder changes and when opening new tabs.)
      -->
 <!ENTITY quickFilterBar.sticky.tooltip
-         "არსებული ფილტრების შენარჩუნება საქაღალდების გადართვისას">
+         "არსებული ფილტრების შენარჩუნება საქაღალდეების გადართვისას">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.label):
      The label for the filter button that causes us to filter results to only

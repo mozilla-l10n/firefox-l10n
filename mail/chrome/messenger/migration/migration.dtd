@@ -16,7 +16,7 @@
 <!ENTITY importFromOutlook.label        "Outlook">
 <!ENTITY importFromOutlook.accesskey    "O">
 
-<!ENTITY importSource.title             "პარამეტრებისა და წერილების საქაღალდების იმპორტი">
+<!ENTITY importSource.title             "პარამეტრებისა და წერილების საქაღალდეების იმპორტი">
 <!ENTITY importItems.title              "ელემენტები">
 <!ENTITY importItems.label              "ელემენტების მონიშვნა:">
 
