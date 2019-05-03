@@ -4,6 +4,8 @@
 
 do-not-track-description = Cwal bot kakube ngec me "Pe ilub kor" me nyuto ni pe imito ni ki lub kor in.
 do-not-track-learn-more = Nong ngec mapol
+do-not-track-option-default-content-blocking-known =
+    .label = Keken kace kitero { -brand-short-name } me gengo lulub kor ma ngene
 do-not-track-option-always =
     .label = Jwijwi
 pref-page =
@@ -48,6 +50,9 @@ category-privacy =
 pane-sync-title = Akaunt me Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = Cwak me { -brand-short-name }
 focus-search =
     .key = f
@@ -79,6 +84,9 @@ extension-controlled-homepage-override = Lamed, <img data-l10n-name="icon"/> { $
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Lamed, <img data-l10n-name="icon"/> { $name }, loyo potbuk me dirica matidi manyen mamegi.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Lamed, <img data-l10n-name="icon"/> { $name }, tye ka loono ter man.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Lamed, <img data-l10n-name="icon"/> { $name }, otero injin yeny mamegi makwongo.
@@ -130,6 +138,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Dwok kare ma okato ni
     .accesskey = o
+startup-restore-warn-on-quit =
+    .label = Niangi kace tye kaloro layeny
 disable-extension =
     .label = Juk lamed
 tabs-group-header = Dirica matino
@@ -201,6 +211,9 @@ choose-button =
     .label = Yer…
     .accesskey = e
 choose-browser-language-description = Yer leb ma kitiyo kwedgi me nyuto jami ayera, kwena, ki jami angeya ki ii { -brand-short-name }.
+manage-browser-languages-button =
+    .label = Ter mukene...
+    .accesskey = e
 confirm-browser-language-change-description = Nwo cako { -brand-short-name } me keto alokaloka magi
 confirm-browser-language-change-button = Keti ka i Nwo cako
 translate-web-pages =
@@ -494,6 +507,8 @@ sync-device-name-save =
 sync-mobilepromo-single = Kub nyonyo mukene
 sync-mobilepromo-multi = Lo nyonyo
 sync-connect-another-device = Kub nyonyo mukene
+sync-manage-devices = Lo nyonyo
+sync-fxa-begin-pairing = Rib nyonyo mo
 sync-tos-link = Cik me Tic
 sync-fxa-privacy-notice = Ngec me mung
 
@@ -574,12 +589,19 @@ sitedata-allow-cookies-option =
 sitedata-disallow-cookies-option =
     .label = Geng angija ki data me kakube
     .accesskey = G
+sitedata-option-block-unvisited =
+    .label = Angija ki i kakube mape kilimo gi
+sitedata-option-block-all =
+    .label = Angija weng (bi weko kakube tur woko)
 sitedata-clear =
     .label = Jwa data…
     .accesskey = j
 sitedata-settings =
     .label = Lo Data
     .accesskey = D
+sitedata-cookies-permissions =
+    .label = Lor Twero...
+    .accesskey = T
 
 ## Privacy Section - Address Bar
 
@@ -599,10 +621,25 @@ addressbar-suggestions-settings = Lok ter pi tam ma kimiyo me injin yeny
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = Nong ngec mapol
+content-blocking-standard-description = Gengo keken lulub kor ma ngene i Dirica me Mung.
+content-blocking-standard-desc = Opore pi gwokke ki tic. Yee lulub kor mogo wek kakube otii maber.
+content-blocking-strict-desc = Gengo lulub kor weng ma { -brand-short-name } nongo. Romo weko kakube mogo tur woko.
+content-blocking-strict-description = Gwokke makato, romo weko kakube mogo tur woko.
 content-blocking-custom-desc = Yer ngo me agenga.
+content-blocking-private-trackers = Lulub kor ma ngene keken i Dirica me Mung
+content-blocking-all-cookies = Angija weng
+content-blocking-unvisited-cookies = Angija ki kakube mape kilimo gi
+content-blocking-all-windows-trackers = Lulub kor ma ngene i dirica weng
 content-blocking-warning-title = Ngec!
 content-blocking-warning-desc = Gengo angija ki lulub kor twero weko kakube mogo bale woko. Yot me juko geng pi kakube ma igeno.
 content-blocking-learn-how = Nong ngec nining
+content-blocking-reload-description = Bi mite ni inwo cano dirica matino mamegi me keto alokoloka magi.
+content-blocking-reload-tabs-button =
+    .label = Nwo cano dirica matino weng
+    .accesskey = N
+content-blocking-trackers-label =
+    .label = Lulub kor
+    .accesskey = L
 content-blocking-tracking-protection-option-all-windows =
     .label = I dirica weng
     .accesskey = W

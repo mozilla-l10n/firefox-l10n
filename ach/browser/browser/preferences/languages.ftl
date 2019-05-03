@@ -35,6 +35,7 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-description = { -brand-short-name } bi nyuto leb me acel calo megi makwongo ki bi nyuto leb mukene ka mite malube ki kit ma gi nen kwede.
 browser-languages-search = Yeny leb mukene mapol...
 browser-languages-searching =
     .label = Tye  ka yenyo leb...
