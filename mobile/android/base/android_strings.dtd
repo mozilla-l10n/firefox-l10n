@@ -4,6 +4,7 @@
 
 <!ENTITY firstrun_panel_title_welcome "Benvegnuo">
 <!ENTITY firstrun_urlbar_message2 "Graçie de çerne &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Benvegnuo in &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Un moderno navegatô pe telefonin de Mozilla, a societæ sensa fin de goagno ch\&apos;a s\&apos;impegna pe \&apos;na ræ libera e averta.">
 <!ENTITY firstrun_panel_title_privacy "Privacy">
 <!ENTITY firstrun_privacy_message "Navega comme se nisciun o t\&apos;amiasse">
@@ -409,6 +410,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "Feuggi scincronizæ">
 
 <!ENTITY pref_default_browser "Rendi navegatô predefinio">
+
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY pref_default_browser_mozilla_support_tablet "Vixita o Sopòrto de Mozilla">
 <!ENTITY pref_about_firefox "Informaçioin rigoardo &brandShortName;">
 <!ENTITY pref_vendor_faqs "Domande e risposte">
@@ -503,6 +508,9 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "Precedente">
 <!ENTITY find_next "Pròscimo">
 <!ENTITY find_close "Særa">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
