@@ -139,6 +139,11 @@ legacy-warning-show-legacy = Nyut lamed macon
 legacy-extensions =
     .value = Lamed Macon
 legacy-extensions-description = Lamed magi pe rwate ki rwom pa { -brand-short-name } ma kombedi pi meno kijuko gi woko. <label data-l10n-name="legacy-learn-more">Nong ngec ikom alokoloka magi i med-ikome</label>
+private-browsing-description2 =
+    { -brand-short-name } tye ka loko kit ma lamed tiyo kwede i yeny me mung. Lamed mo manyen ma imedo ii
+    { -brand-short-name } pe bitic pire kene i Dirica me Mung. Nikwanyo ka iyee i ter, lamed meno pe bitic ikare me yeny i mung, ki pe binongo tic mamegi me wiyamo
+    kunu. Watimo alokaloka man me gwoko yeny me mung mamegi i mung.
+    <label data-l10n-name="private-browsing-learn-more">Nong ngec ikit me loono ter pa lamed</label>
 extensions-view-discover =
     .name = Gam med-ikome
     .tooltiptext = { extensions-view-discover.name }
@@ -219,6 +224,16 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+shortcuts-no-addons = Pe itye ki lamed mo ma kicako.
+shortcuts-browserAction = Cak lamed
+shortcuts-pageAction = Cak tic me potbuk
+shortcuts-sidebarAction = Lok gitic me nget
+shortcuts-modifier-mac = Ket Ctrl, Alt, onyo ⌘
+shortcuts-modifier-other = Ket Ctrl onyo Alt
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = { $addon } dong tye katic kwede
 
 ## Add-on actions
 
