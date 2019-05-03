@@ -10,5 +10,5 @@
 
 <!ENTITY signer.name "ხელმომწერი:">
 <!ENTITY recipient.name "დაშიფრულია:">
-<!ENTITY email.address "ელ-ფოსტა:">
+<!ENTITY email.address "ელფოსტა:">
 <!ENTITY issuer.name "გაცემულია:">

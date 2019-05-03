@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "ცვლილებების რედაქტირება">
+<!ENTITY windowTitle.label "ცვლილებების ჩასწორება">
 <!ENTITY conflictWarning.label "გვერდი შეიცვალა სხვა პროგრამის მიერ, ამავე დროს თქვენს მიერ შეტანილი ცვლილებებიც არ დამახსოვრებულა.">
 <!ENTITY conflictResolve.label "სასურველი ვერსიის არჩევა:">
 <!ENTITY keepCurrentPageButton.label "მიმდინარე ცვლილებების შენარჩუნება">
