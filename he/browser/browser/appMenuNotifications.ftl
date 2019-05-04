@@ -19,7 +19,7 @@ appmenu-update-manual-message = נא להוריד עותק חדש של { -brand-
 appmenu-update-whats-new =
     .value = מידע נוסף על החידושים בגרסה זו.
 appmenu-update-restart =
-    .label = יש להפעיל מחדש כדי לעדכן את { -brand-shorter-name }.
+    .label = כדי לעדכן יש להפעיל את { -brand-shorter-name } מחדש.
     .buttonlabel = הפעלה מחדש ושחזור
     .buttonaccesskey = פ
     .secondarybuttonlabel = לא כעת
@@ -28,7 +28,7 @@ appmenu-update-restart-message = לאחר הפעלה מחדש, { -brand-shorter-
 appmenu-addon-private-browsing-installed =
     .buttonlabel = בסדר, הבנתי
     .buttonaccesskey = ב
-appmenu-addon-post-install-message = ניתן לנהל את התוספות שלך ע״י לחיצה על <image data-l10n-name='addon-install-icon'></image> שבתפריט <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-post-install-message = ניתן לנהל את התוספות שלך על־ידי לחיצה על <image data-l10n-name='addon-install-icon'></image> שבתפריט <image data-l10n-name='addon-menu-icon'></image>.
 appmenu-addon-post-install-incognito-checkbox =
     .label = לאפשר להרחבה זו לפעול בחלונות פרטיים
     .accesskey = ל

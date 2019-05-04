@@ -46,30 +46,37 @@ policy-DisplayMenuBar = הצגת סרגל התפריטים כברירת מחדל
 policy-DNSOverHTTPS = הגדרת DNS על גבי HTTPS.
 policy-DontCheckDefaultBrowser = נטרול בדיקת דפדפן ברירת המחדל עם ההפעלה.
 # “lock” means that the user won’t be able to change this setting
-policy-EnableTrackingProtection = הפעלה או נטרול של חסימת תוכן עם אפשרות לנעול את הבחירה.
+policy-EnableTrackingProtection = הפעלה או השבתה של חסימת תוכן עם אפשרות לנעול את הבחירה.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = התקנה, הסרה או נעילה של הרחבות. אפשרות ההתקנה מקבלת כתובות או נתיבים בתור משתנים. האפשרויות להסרה ולנעילה מקבלות מזהים של הרחבות.
+policy-ExtensionUpdate = הפעלה או השבתה של עדכונים אוטומטיים להרחבות.
 policy-FlashPlugin = לאפשר או לדחות את השימוש בתוסף החיצוני Flash.
 policy-HardwareAcceleration = כיבוי האצת חומרה אם מוגדר כ־false.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = הגדרה ונעילה כרשות של דף הבית.
 policy-InstallAddonsPermission = לאפשר לאתרים מסוימים להתקין תוספות.
 policy-NetworkPrediction = הפעלה או השבתה של חיזוי רשתי (אחזור מוקדם באמצעות DNS).
+policy-NewTabPage = הפעלה או השבתה של דף הלשונית החדשה.
 policy-NoDefaultBookmarks = ביטול יצירת הסימניות המוגדרות כברירת מחדל עם { -brand-short-name }, ואת הסימניות החכמות (הנצפות ביותר, תגים אחרונים). הערה: מדיניות זו יעילה רק אם נעשה בה שימוש קודם להפעלה הראשונה של הפרופיל.
 policy-OfferToSaveLogins = אכיפת ההגדרה המאפשרת ל־{ -brand-short-name } להציע לזכור פרטי כניסה וסיסמאות שמורים. גם ערכי אמת וגם ערכי שקר יתקבלו.
 policy-OverrideFirstRunPage = עקיפת דף ההפעלה הראשון. ניתן לנקות מדיניות זו אם ברצונך להשבית את דף ההפעלה הראשון.
+policy-OverridePostUpdatePage = שינוי כתובת הדף ״מה חדש״ המוצג לאחר עדכון. ניתן לקבוע מדיניות זו לריקה כדי להשבית את הצגת הדף לאחר עדכון.
 policy-Permissions = קביעת תצורה של הרשאות עבור מצלמה, מיקרופון, מיקום והתרעות.
 policy-PopupBlocking = לאפשר לאתרים מסוימים להקפיץ חלונות כברירת מחדל.
+policy-Preferences = הגדרה ונעילת הערכים עבור חלק מההעדפות.
 policy-Proxy = קביעת תצורה של הגדרות שרת מתווך.
 policy-RequestedLocales = הגדרת רשימת השפות המבוקשות עבור היישום לפי סדר העדפה.
 policy-SanitizeOnShutdown = ניקוי כל נתוני הניווט עם הכיבוי.
+policy-SanitizeOnShutdown2 = ניקוי נתוני ניווט עם הכיבוי.
 policy-SearchBar = הגדרת מיקום ברירת המחדל של סרגל החיפוש. המשתמש עדיין מורשה להתאים זאת אישית.
 policy-SearchEngines = הגדרת תצורת מנועי החיפוש. מדיניות זו זמינה רק בגרסה עם תמיכה מורחבת (ESR).
+policy-SearchSuggestEnabled = הפעלה או השבתה של הצעות חיפוש.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = התקנת מודולי PKCS #11.
 policy-SSLVersionMax = הגדרת גרסת ה־SSL המקסימלית.
 policy-SSLVersionMin = הגדרת גרסת ה־SSL המינימלית.
+policy-SupportMenu = הוספת תפריט תמיכה בהתאמה אישית לתפריט העזרה.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = חסימת ביקור באתרים. יש לעיין בתיעוד לקבלת פרטים נוספים על התבנית.
