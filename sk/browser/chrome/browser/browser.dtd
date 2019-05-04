@@ -471,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Vymazať nedávnu históriu…">
 <!ENTITY appMenuHistory.restoreSession.label "Obnoviť poslednú reláciu">
 <!ENTITY appMenuHistory.viewSidebar.label "Zobraziť bočný panel História">
+<!ENTITY appMenuHistory.hideSidebar.label "Skryť bočný panel História">
 <!ENTITY appMenuHistory.recentHistory.label "Nedávna história">
 <!ENTITY appMenuHelp.label "Pomocník">
 
@@ -499,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Prihlásiť sa k službe Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Spravovať zariadenia…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Zobraziť synchronizované karty na bočnom paneli">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Skryť synchronizované karty na bočnom paneli">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Pripojiť ďalšie zariadenie">
 
 <!ENTITY appMenuRecentHighlights.label "Nedávno vybrané">
@@ -1107,6 +1109,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "P">
 <!ENTITY updateAvailable.cancelButton.label "Teraz nie">
 <!ENTITY updateAvailable.cancelButton.accesskey "n">
+
 <!ENTITY updateAvailable.panelUI.label "Prevziať aktualizáciu aplikácie &brandShorterName;">
 
 <!ENTITY updateManual.message "Prevezmite si novú verziu aplikácie &brandShorterName; a my vám pomôžeme ju nainštalovať.">

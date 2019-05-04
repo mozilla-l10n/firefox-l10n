@@ -125,3 +125,4 @@ about-telemetry-category-header = kategória
 about-telemetry-method-header = metóda
 about-telemetry-object-header = objekt
 about-telemetry-extra-header = extra
+about-telemetry-origin-count = počet
