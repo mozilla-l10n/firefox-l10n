@@ -17,26 +17,54 @@
 
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "แบบอักษร:">
+<!ENTITY font.accesskey                       "บ">
 <!ENTITY fontSize.label                       "ขนาด:">
+<!ENTITY fontSize.accesskey                   "ข">
 <!ENTITY useReaderDefaults.label              "ใช้สีเริ่มต้นของตัวอ่าน">
+<!ENTITY useReaderDefaults.accesskey          "ช">
 <!ENTITY fontColor.label                      "สีข้อความ:">
+<!ENTITY fontColor.accesskey                  "อ">
 <!ENTITY bgColor.label                        "สีพื้นหลัง:">
+<!ENTITY bgColor.accesskey                    "พ">
 <!ENTITY restoreHTMLDefaults.label            "เรียกคืนค่าเริ่มต้น">
+<!ENTITY restoreHTMLDefaults.accesskey        "ร">
 <!ENTITY defaultToParagraph.label             "ใช้รูปแบบย่อหน้าแทนข้อความเนื้อความโดยค่าเริ่มต้น">
+<!ENTITY defaultToParagraph.accesskey         "ช">
 
 <!ENTITY spellCheck.label                     "ตรวจสอบการสะกดคำก่อนส่ง">
+<!ENTITY spellCheck.accesskey                 "ต">
 <!ENTITY spellCheckInline.label               "เปิดใช้งานการตรวจสอบการสะกดคำเมื่อคุณพิมพ์">
+<!ENTITY spellCheckInline1.accesskey          "ป">
 <!ENTITY languagePopup.label                  "ภาษา:">
+<!ENTITY languagePopup.accessKey              "ภ">
 <!ENTITY downloadDictionaries.label           "ดาวน์โหลดพจนานุกรมเพิ่มเติม">
 
+<!ENTITY warnOnSendAccelKey.label             "ยืนยันเมื่อใช้แป้นพิมพ์ลัดเพื่อส่งข้อความ">
+<!ENTITY warnOnSendAccelKey.accesskey         "ย">
 <!ENTITY autoSave.label                       "บันทึกอัตโนมัติทุก ๆ">
+<!ENTITY autoSave.accesskey                   "บ">
 <!ENTITY autoSaveEnd.label                    "นาที">
 
+<!ENTITY emailCollectionPicker.label           "เพิ่มที่อยู่อีเมลขาออกไปยังตำแหน่งนี้โดยอัตโนมัติ:">
+<!ENTITY emailCollectionPicker.accesskey       "ม">
 <!ENTITY addressingTitle.label                 "การเติมที่อยู่อัตโนมัติ">
+<!ENTITY autocompleteText.label                "เมื่อกำหนดที่อยู่ของข้อความ ให้มองหารายการที่ตรงกันใน:">
+<!ENTITY addressingEnable.label                "สมุดรายชื่อในเครื่อง">
+<!ENTITY addressingEnable.accesskey            "ส">
 <!ENTITY directories.label                     "เซิร์ฟเวอร์ไดเรกทอรี:">
+<!ENTITY directories.accesskey                 "เ">
 <!ENTITY directoriesNone.label                 "ไม่มี">
 <!ENTITY editDirectories.label                 "แก้ไขไดเรกทอรี…">
+<!ENTITY editDirectories.accesskey             "ก">
+<!ENTITY showAsDefault.label                   "ไดเรกทอรีเริ่มต้นในหน้าต่างสมุดรายชื่อ:">
+<!ENTITY showAsDefault.accesskey               "ไ">
+<!ENTITY showAsDefaultLast.label               "ไดเรกทอรีที่ใช้ล่าสุด">
 
+<!ENTITY sendOptionsDescription.label          "กำหนดค่าลักษณะการทำงานของรูปแบบข้อความ">
 <!ENTITY sendOptions.label                     "ตัวเลือกการส่ง…">
+<!ENTITY sendOptions.accesskey                 "ว">
 
+<!ENTITY attachmentReminder.label              "ตรวจสอบไฟล์แนบที่หายไป">
+<!ENTITY attachmentReminder.accesskey          "ต">
 <!ENTITY attachmentReminderOptions.label       "คำสำคัญ…">
+<!ENTITY attachmentReminderOptions.accesskey   "ค">
