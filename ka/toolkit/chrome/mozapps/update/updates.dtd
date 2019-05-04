@@ -25,7 +25,7 @@
 <!ENTITY  unsupported.label               "თქვენი &brandShortName; ვადაგასულია, მაგრამ უახლესი ვერსია
                                            თქვენს სისტემაზე მხარდაჭერილი არაა. გთხოვთ განაახლეთ თქვენი სისტემა, შემდეგ კი ახლიდან სცადეთ.
                                            ეს ცნობა აღარ გამოჩნდება, მაგრამ თქვენ შეგიძლიათ">
-<!ENTITY  unsupportedLink.label           "გაიგოთ მეტი.">
+<!ENTITY  unsupportedLink.label           "იხილოთ ვრცლად.">
 
 <!ENTITY  clickHere.label                 "ამ განახლების შესახებ დამატებითი ინფორმაციის ნახვა">
 
@@ -41,7 +41,7 @@
 
 <!ENTITY  viewDetails.tooltip             "განახლების მონაცემების ნახვა">
 
-<!ENTITY  details.link                    "ვრცლად">
+<!ENTITY  details.link                    "დაწვრილებით">
 
 <!ENTITY  error.title                     "განახლება არ შედგა">
 
