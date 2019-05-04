@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Us donem la benvinguda">
 <!ENTITY firstrun_urlbar_message2 "Gràcies per triar el &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Us donem la benvinguda al &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Un navegador mòbil modern de Mozilla, l\&apos;organització sense ànim de lucre compromesa a mantenir el Web lliure i obert.">
+<!ENTITY newfirstrun_urlbar_subtext "Ràpid, privat i al teu costat.">
 <!ENTITY firstrun_panel_title_privacy "Privadesa">
 <!ENTITY firstrun_privacy_message "Navegueu sense sentir-vos observat">
 <!ENTITY firstrun_privacy_subtext "La navegació privada amb protecció contra el seguiment bloca els elements que us fan el seguiment mentre navegueu i no conservarà el vostre historial quan hàgiu acabat de navegar.">
+<!ENTITY newfirstrun_privacy_subtext "La navegació privada bloca els elements de seguiment de publicitat que us fan el seguiment mentre navegueu.">
 <!ENTITY firstrun_panel_title_customize "Personalització">
 <!ENTITY firstrun_customize_message "Personalitzeu el &brandShortName; i feu-lo vostre.">
 <!ENTITY firstrun_customize_subtext "Personalitzeu el &brandShortName; amb complements. Bloqueu anuncis, afegiu funcions o trieu un tema nou que reflecteixi la vostra personalitat.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Continueu des d\&apos;on ho deixeu.">
 <!ENTITY firstrun_sync_subtext2 "El Sync permet accedir a les adreces d\&apos;interès, contrasenyes i altres elements que heu desat al &brandShortName; en tots els vostres dispositius.">
+<!ENTITY newfirstrun_sync_subtext "Sincronitzeu tot allò que deseu al mòbil amb el Firefox per a l\&apos;escriptori, de manera privada i segura.">
 <!ENTITY firstrun_signin_message "Connecteu-vos i comenceu a utilitzar-lo">
 <!ENTITY firstrun_signin_button "Inicia la sessió al Sync">
+<!ENTITY newfirstrun_signin_button "Activa la sincronització">
 <!ENTITY  onboard_start_button_browser "Comença a navegar">
 <!ENTITY firstrun_button_notnow "Ara no">
 <!ENTITY firstrun_button_next "Següent">
@@ -409,6 +414,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "Pestanyes sincronitzades">
 
 <!ENTITY pref_default_browser "Fes que sigui el navegador per defecte">
+
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Toqueu «Aplicació de navegador» i trieu «&brandShortName;»">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Visiteu l\&apos;ajuda de Mozilla">
 <!ENTITY pref_about_firefox "Quant al &brandShortName;">
 <!ENTITY pref_vendor_faqs "PMF">
@@ -503,6 +513,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "Anterior">
 <!ENTITY find_next "Següent">
 <!ENTITY find_close "Tanca">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "No s\&apos;ha trobat l\&apos;expressió">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
