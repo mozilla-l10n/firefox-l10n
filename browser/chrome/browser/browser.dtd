@@ -266,7 +266,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY addCurPagesCmd.label "Afegeix-hi totes les pestanyes…">
 <!ENTITY showAllBookmarks2.label "Mostra totes les adreces d'interès">
-<!ENTITY recentBookmarks.label "Afegides més recentment">
+<!ENTITY recentBookmarks.label "Afegides recentment">
 <!ENTITY otherBookmarksCmd.label "Altres adreces d'interès">
 <!ENTITY mobileBookmarksCmd.label "Adreces del mòbil">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostra més adreces d'interès">
