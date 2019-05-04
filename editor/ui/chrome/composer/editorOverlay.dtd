@@ -160,32 +160,48 @@
 <!ENTITY heading6Cmd.label "หัวเรื่อง 6">
 <!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "ที่อยู่">
+<!ENTITY paragraphAddressCmd.accesskey "ท">
 <!ENTITY paragraphPreformatCmd.label "ย่อหน้าที่จัดรูปแบบไว้ล่วงหน้า">
+<!ENTITY paragraphPreformatCmd.accesskey "ย">
 
 <!-- List menu items -->
 <!ENTITY formatlistMenu.label "รายการ">
+<!ENTITY formatlistMenu.accesskey "ร">
 <!ENTITY noneCmd.label "ไม่มี">
+<!ENTITY noneCmd.accesskey "ม">
 <!ENTITY listBulletCmd.label "มีสัญลักษณ์แสดงหัวข้อย่อย">
+<!ENTITY listBulletCmd.accesskey "ส">
 <!ENTITY listNumberedCmd.label "มีลำดับเลข">
+<!ENTITY listNumberedCmd.accesskey "ล">
 <!ENTITY listTermCmd.label "คำ">
+<!ENTITY listTermCmd.accesskey "ค">
 <!ENTITY listDefinitionCmd.label "นิยาม">
+<!ENTITY listDefinitionCmd.accesskey "น">
 <!ENTITY listPropsCmd.label "คุณสมบัติรายการ…">
+<!ENTITY listPropsCmd.accesskey "ค">
 
 <!ENTITY ParagraphSelect.tooltip "เลือกรูปแบบย่อหน้า">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "เนื้อความ">
+<!ENTITY bodyTextCmd.accesskey "น">
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "คุณสมบัติขั้นสูง">
+<!ENTITY advancedPropertiesCmd.accesskey "ค">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "จัดชิดแนว">
+<!ENTITY alignMenu.accesskey "จ">
 <!ENTITY alignLeft.label "ซ้าย">
+<!ENTITY alignLeft.accesskey "ซ">
 <!ENTITY alignLeft.tooltip "จัดชิดแนวซ้าย">
 <!ENTITY alignCenter.label "กึ่งกลาง">
+<!ENTITY alignCenter.accesskey "ง">
 <!ENTITY alignCenter.tooltip "จัดชิดแนวกลาง">
 <!ENTITY alignRight.label "ขวา">
+<!ENTITY alignRight.accesskey "ข">
 <!ENTITY alignRight.tooltip "จัดชิดแนวขวา">
 <!ENTITY alignJustify.label "เต็มแนว">
+<!ENTITY alignJustify.accesskey "ต">
 <!ENTITY alignJustify.tooltip "จัดเต็มแนว">
 
 <!-- Layer toolbar items -->
@@ -194,50 +210,77 @@
 <!ENTITY layerBringToFront.tooltip "นำมาข้างหน้า">
 
 <!ENTITY increaseIndent.label "เพิ่มการเยื้อง">
+<!ENTITY increaseIndent.accesskey "พ">
 <!ENTITY increaseIndent.key "]">
 <!ENTITY decreaseIndent.label "ลดการเยื้อง">
+<!ENTITY decreaseIndent.accesskey "ล">
 <!ENTITY decreaseIndent.key "[">
 
 <!ENTITY colorsAndBackground.label "สีและพื้นหลังของหน้า…">
+<!ENTITY colorsAndBackground.accesskey "ส">
 
 <!-- Table Menu -->
 <!ENTITY tableMenu.label "ตาราง">
+<!ENTITY tableMenu.accesskey "ต">
 
 <!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label "เลือก">
+<!ENTITY tableSelectMenu.accesskey "เ">
 
 <!ENTITY tableSelectMenu2.label "เลือกตาราง">
+<!ENTITY tableSelectMenu2.accesskey "เ">
 <!ENTITY tableInsertMenu2.label "แทรกตาราง">
+<!ENTITY tableInsertMenu2.accesskey "ท">
 <!ENTITY tableDeleteMenu2.label "ลบตาราง">
+<!ENTITY tableDeleteMenu2.accesskey "บ">
 
 <!-- Insert SubMenu -->
 <!ENTITY tableInsertMenu.label "แทรก">
+<!ENTITY tableInsertMenu.accesskey "ท">
 <!ENTITY tableTable.label "ตาราง">
+<!ENTITY tableTable.accesskey "ต">
 <!ENTITY tableRow.label "แถว">
 <!ENTITY tableRows.label "แถว">
+<!ENTITY tableRow.accesskey "ถ">
 <!ENTITY tableRowAbove.label "แถวจากด้านบน">
+<!ENTITY tableRowAbove.accesskey "บ">
 <!ENTITY tableRowBelow.label "แถวจากด้านล่าง">
+<!ENTITY tableRowBelow.accesskey "ล">
 <!ENTITY tableColumn.label "คอลัมน์">
 <!ENTITY tableColumns.label "คอลัมน์">
+<!ENTITY tableColumn.accesskey "ค">
 <!ENTITY tableColumnBefore.label "คอลัมน์จากด้านซ้าย">
+<!ENTITY tableColumnBefore.accesskey "ซ">
 <!ENTITY tableColumnAfter.label "คอลัมน์จากด้านขวา">
+<!ENTITY tableColumnAfter.accesskey "ข">
 <!ENTITY tableCell.label "เซลล์">
 <!ENTITY tableCells.label "เซลล์">
+<!ENTITY tableCell.accesskey "ซ">
 <!ENTITY tableCellContents.label "เนื้อหาเซลล์">
+<!ENTITY tableCellContents.accesskey "น">
 <!ENTITY tableAllCells.label "เซลล์ทั้งหมด">
+<!ENTITY tableAllCells.accesskey "ท">
 <!ENTITY tableCellBefore.label "เซลล์จากด้านซ้าย">
+<!ENTITY tableCellBefore.accesskey "ซ">
 <!ENTITY tableCellAfter.label "เซลล์จากด้านขวา">
+<!ENTITY tableCellAfter.accesskey "ข">
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "ลบ">
+<!ENTITY tableDeleteMenu.accesskey "ล">
 
 <!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
+<!ENTITY tableJoinCells.label "ผ">
+<!ENTITY tableJoinCells.accesskey "ผ">
 <!ENTITY tableSplitCell.label "แยกเซลล์">
+<!ENTITY tableSplitCell.accesskey "ย">
 <!ENTITY convertToTable.label "สร้างตารางจากส่วนที่เลือก">
+<!ENTITY convertToTable.accesskey "ส">
 <!ENTITY tableProperties.label "คุณสมบัติตาราง…">
+<!ENTITY tableProperties.accesskey "ค">
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "แถบเมนู">
