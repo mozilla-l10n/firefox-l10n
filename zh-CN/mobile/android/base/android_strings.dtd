@@ -642,7 +642,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY home_most_recent_empty "您最近常访问的网站将出现在这里。">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "悄悄告诉你：在&formatS1;隐私标签页&formatS2; 中浏览网页不会留下任何痕迹！">
+<!ENTITY home_most_recent_emptyhint2 "悄悄告诉你：在&formatS1;隐私标签页&formatS2;中浏览网页不会留下任何痕迹！">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
