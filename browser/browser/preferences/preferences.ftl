@@ -832,8 +832,8 @@ certs-devices =
     .label = უსაფრთხოების მოწყობილობები…
     .accesskey = მ
 space-alert-learn-more-button =
-    .label = იხილეთ ვრცლად
-    .accesskey = მ
+    .label = ვრცლად
+    .accesskey = ვ
 space-alert-over-5gb-pref-button =
     .label =
         { PLATFORM() ->
