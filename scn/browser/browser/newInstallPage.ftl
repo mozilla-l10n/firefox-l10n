@@ -24,3 +24,5 @@ sync-input =
     .placeholder = Email
 sync-button = Cuntinua
 sync-terms = Cuntinuannu, accetti li <a data-l10n-name="terms">Tèrmini di sirbizzu</a> e <a data-l10n-name="privacy">l'Abbisu di privatizza</a>.
+sync-first = È la prima vota ca usi { -sync-brand-name }? Ài bisognu di tràsiri nna ogni nstallazziuni di Firefox pi sincrunizzari li to nfurmazziuna.
+sync-learn = Cchiù nfurmazziuna
