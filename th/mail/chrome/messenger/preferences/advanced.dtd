@@ -38,6 +38,7 @@
 <!ENTITY configEdit.accesskey          "ว">
 <!ENTITY returnReceiptsInfo.label      "กำหนดวิธีที่ &brandShortName; จัดการการแจ้งเตือนการเปิดอ่าน">
 <!ENTITY showReturnReceipts.label      "การแจ้งเตือนการเปิดอ่าน…">
+<!ENTITY showReturnReceipts.accesskey  "ก">
 
 <!-- Data Choices -->
 <!ENTITY telemetrySection.label          "การวัดและส่งข้อมูลทางไกล">
@@ -68,21 +69,30 @@
 <!ENTITY updateApp.version.post          "">
 <!ENTITY updateAppAllow.description      "อนุญาตให้ &brandShortName;">
 <!ENTITY updateAuto.label                "ติดตั้งการอัปเดตโดยอัตโนมัติ (แนะนำ: ช่วยเพิ่มความปลอดภัย)">
+<!ENTITY updateAuto.accesskey            "ต">
 <!ENTITY updateCheck.label               "ตรวจสอบการอัปเดต แต่ให้ฉันเลือกว่าจะติดตั้งหรือไม่">
+<!ENTITY updateCheck.accesskey           "ร">
 <!ENTITY updateHistory.label             "แสดงประวัติการอัปเดต">
+<!ENTITY updateHistory.accesskey         "ส">
 
 <!ENTITY useService.label                "ใช้บริการเบื้องหลังเพื่อติดตั้งการอัปเดต">
+<!ENTITY useService.accesskey            "ช">
 
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "การตั้งค่า…">
+<!ENTITY showSettings.accesskey        "ก">
 <!ENTITY proxiesConfigure.label        "กำหนดค่าวิธีที่ &brandShortName; เชื่อมต่อกับอินเทอร์เน็ต">
 <!ENTITY connectionsInfo.caption       "การเชื่อมต่อ">
 <!ENTITY offlineInfo.caption           "ออฟไลน์">
 <!ENTITY offlineInfo.label             "กำหนดค่าการตั้งค่าออฟไลน์">
 <!ENTITY showOffline.label             "ออฟไลน์…">
+<!ENTITY showOffline.accesskey         "อ">
 
 <!ENTITY Diskspace                       "เนื้อที่ดิสก์">
+<!ENTITY offlineCompactFolders.label     "กระชับโฟลเดอร์ทั้งหมดเมื่อสามารถประหยัดได้มากกว่า">
+<!ENTITY offlineCompactFolders.accesskey "ก">
+<!ENTITY offlineCompactFoldersMB.label   "MB ของขนาดรวม">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -90,6 +100,9 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
+<!ENTITY useCacheBefore.label            "ใช้ถึง">
+<!ENTITY useCacheBefore.accesskey        "ช">
+<!ENTITY useCacheAfter.label             "MB ของพื้นที่สำหรับแคช">
 <!ENTITY overrideSmartCacheSize.label    "เขียนทับการจัดการแคชอัตโนมัติ">
 <!ENTITY overrideSmartCacheSize.accesskey "ข">
 <!ENTITY clearCacheNow.label             "ล้างตอนนี้">
@@ -101,6 +114,10 @@
 <!ENTITY certs.auto.accesskey            "ล">
 <!ENTITY certs.ask                       "ถามฉันทุกครั้ง">
 <!ENTITY certs.ask.accesskey             "ถ">
+<!ENTITY enableOCSP.label                "สืบค้นเซิร์ฟเวอร์ตอบกลับ OCSP เพื่อยืนยันความถูกต้องของใบรับรองปัจจุบัน">
+<!ENTITY enableOCSP.accesskey            "ส">
 
 <!ENTITY manageCertificates.label "จัดการใบรับรอง">
+<!ENTITY manageCertificates.accesskey "จ">
 <!ENTITY viewSecurityDevices.label "อุปกรณ์ความปลอดภัย">
+<!ENTITY viewSecurityDevices.accesskey "ค">
