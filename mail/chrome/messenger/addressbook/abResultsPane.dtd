@@ -31,6 +31,8 @@
 <!ENTITY WorkPhone.label                       "Telefono laboreja">
 <!ENTITY WorkPhone.accesskey                   "l">
 <!ENTITY ChatName.label                        "Tujmesaĝila nomo">
-<!ENTITY ChatName.accesskey                    "m">
+<!ENTITY ChatName.accesskey                    "j">
 <!ENTITY sortAscending.label                   "Kreskante">
+<!ENTITY sortAscending.accesskey               "r">
 <!ENTITY sortDescending.label                  "Malkreskante">
+<!ENTITY sortDescending.accesskey              "M">
