@@ -12,8 +12,8 @@ update-updateButton =
     .label = Riabbìa p'attualizzari { -brand-shorter-name }
     .accesskey = A
 update-checkingForUpdates = Staju cuntrullannu si cci sunnu attualizzazziuna…
-update-downloading = <img data-l10n-name="icon"/>Staiu scarricannu l'agghiurnamentu — <label data-l10n-name="download-status"/>
-update-applying = Staiu appricannu l'agghiurnamentu…
+update-downloading = <img data-l10n-name="icon"/>Staju scarricannu l'attualizzazziuni — <label data-l10n-name="download-status"/>
+update-applying = Staju appricannu l'attualizzazziuni…
 update-failed = Agghiurnamentu fallutu. <label data-l10n-name="failed-link">Scàrricati l'ùrtima virsioni</label>
 update-failed-main = Agghiurnamentu fallutu. <a data-l10n-name="failed-link-main">Scàrricati l'ùrtima virsioni</a>
 update-adminDisabled = L'agghiurnamenti foru sdisarmati dû vostru amministraturi di sistema
