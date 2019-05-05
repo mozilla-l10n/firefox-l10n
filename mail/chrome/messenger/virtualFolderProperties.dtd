@@ -14,6 +14,8 @@
 <!ENTITY chooseFoldersButton.label "เลือก…">
 <!ENTITY chooseFoldersButton.accesskey "ล">
 
+<!ENTITY searchOnline.label "ค้นหาออนไลน์ (ให้ผลลัพธ์ล่าสุดสำหรับโฟลเดอร์ IMAP และข่าว แต่จะใช้เวลาในการเปิดโฟลเดอร์นานขึ้น)">
+<!ENTITY searchOnline.accesskey "ค">
 <!ENTITY newFolderButton.label       "สร้าง">
 <!ENTITY newFolderButton.accesskey   "ส">
 <!ENTITY editFolderButton.label      "อัปเดต">
