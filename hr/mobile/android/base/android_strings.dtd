@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Dobrodošli">
 <!ENTITY firstrun_urlbar_message2 "Hvala što ste odabrali &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Dobro došli u &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Moderan preglednik za mobilne uređaje od Mozille, neprofitne organizacije posvećene slobodnom i otvorenom webu.">
+<!ENTITY newfirstrun_urlbar_subtext "Brz, privatak i na vašoj strani.">
 <!ENTITY firstrun_panel_title_privacy "Privatnost">
 <!ENTITY firstrun_privacy_message "Pretražujte kao da vas nitko ne gleda">
 <!ENTITY firstrun_privacy_subtext "Privatno pretraživanje sa zaštitom od praćenja blokira praćenje dok pretražujete i neće pamtiti vašu povijest nakon što završite s pretraživanjem.">
+<!ENTITY newfirstrun_privacy_subtext "Privatno pregledavanje blokira praćenje diljem Interneta.">
 <!ENTITY firstrun_panel_title_customize "Prilagodi">
 <!ENTITY firstrun_customize_message "Učinite &brandShortName; svojim.">
 <!ENTITY firstrun_customize_subtext "Prilagodite &brandShortName; dodacima. Blokirajte reklame, dodajte mogućnosti, ili odaberite temu koja odražava vašu osobnost.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Nastavite gdje ste stali.">
 <!ENTITY firstrun_sync_subtext2 "Koristite Sinkronizaciju kako biste našli zabilješke, lozinke i ostalo što spremate na &brandShortName; kod svih vaših uređaja.">
+<!ENTITY newfirstrun_sync_subtext "Sinkronizirajte stvari koje spremite na mobitelu s Firefoxom za računala, privatno i sigurno.">
 <!ENTITY firstrun_signin_message "Povežite se, započnite">
 <!ENTITY firstrun_signin_button "Prijavite se u Sync">
+<!ENTITY newfirstrun_signin_button "Uključite sinkronizaciju">
 <!ENTITY  onboard_start_button_browser "Započni pregledavanje">
 <!ENTITY firstrun_button_notnow "Ne sada">
 <!ENTITY firstrun_button_next "Sljedeći">
@@ -413,7 +418,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_default_browser2 "Učinite &brandShortName; zadanim preglednikom">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
-    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Pritisnite na polje Aplikacija preglednika i odaberite &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Posjetite Mozillinu podršku">
 <!ENTITY pref_about_firefox "O &brandShortName;">
