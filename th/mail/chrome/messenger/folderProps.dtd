@@ -6,6 +6,7 @@
 
 <!ENTITY generalInfo.label                       "ข้อมูลทั่วไป">
 <!ENTITY folderCharsetFallback2.label            "รหัสอักขระตัวทางเลือก:">
+<!ENTITY folderCharsetEnforce2.label             "ใช้รหัสอักขระกับข้อความทั้งหมดในโฟลเดอร์ (แต่ละการตั้งค่ารหัสอักขระเนื้อหาข้อความและการตรวจจับอัตโนมัติจะถูกเพิกเฉย)">
 <!ENTITY folderRebuildSummaryFileTip2.label      "สร้างดัชนีไฟล์ข้อมูลสรุปใหม่">
 <!ENTITY folderRebuildSummaryFile2.label         "ซ่อมแซมโฟลเดอร์">
 <!ENTITY folderIncludeInGlobalSearch.label       "รวมข้อความในโฟลเดอร์นี้ในผลการค้นหาส่วนกลาง">
@@ -40,6 +41,7 @@
 <!ENTITY folderType.label                        "ชนิดโฟลเดอร์:">
 
 <!ENTITY folderQuotaTab.label                    "โควตา">
+<!ENTITY folderQuotaRoot.label                   "รากโควตา:">
 <!ENTITY folderQuotaUsage.label                  "การใช้งาน:">
 <!ENTITY folderQuotaStatus.label                 "สถานะ:">
 
