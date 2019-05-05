@@ -495,7 +495,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY print "Печать">
 <!ENTITY view_page_source "Исходный код страницы">
 <!ENTITY find_in_page "Найти на странице">
-<!ENTITY desktop_mode "Полная версия сайта">
+<!ENTITY desktop_mode "Версия для ПК">
 <!ENTITY page "Страница">
 <!ENTITY tools "Инструменты">
 <!ENTITY new_tab "Новая вкладка">
