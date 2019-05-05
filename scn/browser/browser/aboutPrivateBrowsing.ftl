@@ -2,16 +2,26 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-private-browsing-learn-more = Cchiú nfurmazzioni supra la <a data-l10n-name="learn-more">Navigazzioni ammucciata</a>.
+about-private-browsing-learn-more = Cchiù nfurmazziuna ncapu a <a data-l10n-name="learn-more">Navigazziuni privata</a>.
 about-private-browsing-info-visited = pàggini visitati
-privatebrowsingpage-open-private-window-label = Grapi na finestra ammucciata
+privatebrowsingpage-open-private-window-label = Grapi na Finestra Privata
     .accesskey = a
-about-private-browsing-info-notsaved = Quannu navighi nta na finestra ammucciata, { -brand-short-name } <strong>nun sarba</strong>:
+about-private-browsing-info-notsaved = Quannu nàvighi nta na Finestra Privata, { -brand-short-name } <strong>nun sarba</strong>:
+about-private-browsing-search-placeholder = Cerca nnâ Riti
 about-private-browsing-info-bookmarks = nzingalibbra
+about-private-browsing-info-title = Sì nna na Finestra Privata
+about-private-browsing-info-searches = ricerchi
 about-private-browsing-info-downloads = scarricamenti
-private-browsing-title = Navigazzioni Ammucciata
-about-private-browsing-info-saved = { -brand-short-name } <strong>sarba</strong> li toi:
-about-private-browsing-info-temporary-files = prichi pruvvisori
-tracking-protection-start-tour = Talia comu funziona
-about-private-browsing-note = La navigazzioni ammucciata <strong>nun ti fa 'ffacciari senza nomu</strong> ncapu Internet. Lu to' principali o lu to' provider ponnu sapiri quali pàggini stai visitannu.
-about-private-browsing-not-private = P'accamora nun sí nta na finestra ammucciata.
+private-browsing-title = Navigazziuni Privata
+about-private-browsing-info-saved = { -brand-short-name } <strong>sarba</strong> li to:
+about-private-browsing-info-myths = Liggenni ncapu a navigazziuni privata
+about-private-browsing-info-clipboard = testu cupiatu
+about-private-browsing-info-temporary-files = plichi pruvvisori
+about-private-browsing-info-cookies = cookie
+tracking-protection-start-tour = Talìa comu funziona
+about-private-browsing-note = A navigazziuni privata <strong>nun ti fa affacciari senza nomu</strong> ncapu a Internet. U to capu o u to furnituri dû sirbizzu Internet ponnu sapiri quali pàggini talìi.
+about-private-browsing =
+    .title = Cerca nnâ Riti
+about-private-browsing-not-private = P'accamora nun sì nta na finestra privata.
+content-blocking-title = Bloccu dû cuntinutu
+content-blocking-description = Certi siti ùsanu trazzatura ca ponnu muniturari i to attività nne Internet. Nnâ finestra privata, u Bloccu dû cuntinutu { -brand-short-name } blocca autumaticamenti assai trazzatura ca ponnu arricògghiri nfurmazziuna ncapu a to manera di navigari.
