@@ -759,7 +759,7 @@
      cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
      now, both menu items can't be visible at the same time, but should someone
      enable copy/paste of message, this key would probably need to be changed. -->
-<!ENTITY contextOpenNewTab.label "Abrir em nova aba">
+<!ENTITY contextOpenNewTab.label "Abrir mensagem em nova aba">
 <!ENTITY contextOpenNewTab.accesskey "b">
 <!ENTITY contextOpenConversation.label "Abrir mensagem como conversa">
 <!ENTITY contextOpenConversation.accesskey "r">
