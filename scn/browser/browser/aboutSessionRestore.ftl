@@ -2,7 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-restore-page-tab-title = Arripigghia la sissioni
+restore-page-tab-title = Riprìstina la sissiuni
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = Scusa. Stamu avennu prubblemi pi ripigghiari li to pàggini.
+restore-page-problem-desc = Stamu avennu prubblemi pi ripristinari la to ùrtima sissiuni di navigazziuni. Scegghi Riprìstina sissiuni pi ripruvari.
+restore-page-try-this = Ancora nun arrinesci a ripristinari la to sissiuni? Certi voti è na scheda ca causa stu prubblema. Talìa li schedi pricidenti, leva la spunta dî schedi ca nun ti sèrbinu ripristinati, e poi riprìstina.
+restore-page-hide-tabs = Ammuccia li schedi pricidenti
+restore-page-show-tabs = Vidi li schedi pricidenti
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
@@ -10,12 +17,12 @@ restore-page-tab-title = Arripigghia la sissioni
 #    $windowNumber: Progressive number associated to each window
 restore-page-window-label = Finestra { $windowNumber }
 restore-page-restore-header =
-    .label = Arripigghia
+    .label = Riprìstina
 restore-page-list-header =
     .label = Finestri e schedi
 restore-page-try-again-button =
-    .label = Arripigghia la sissioni
-    .accesskey = A
+    .label = Riprìstina la sissiuni
+    .accesskey = R
 restore-page-close-button =
     .label = Accumincia na nova sissioni
     .accesskey = n

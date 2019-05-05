@@ -33,6 +33,6 @@ about-config-pref-add-type-string = Stringa
 ##   $value (String): The full value of the preference.
 
 about-config-pref-accessible-value-default =
-    .aria-label = { $value }(default)
+    .aria-label = { $value } (default)
 about-config-pref-accessible-value-custom =
-    .aria-label = { $value }(custom)
+    .aria-label = { $value } (custom)

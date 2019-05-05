@@ -20,4 +20,4 @@
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
-trademarkInfo = Firefox e li loghi Firefox sunnu marchi arriggistrati dâ Funnazzioni Mozilla.
+trademarkInfo = Firefox e li loghi Firefox sunnu marchi arriggistrati dâ Mozilla Foundation.

@@ -11,16 +11,19 @@
 # Nonsense line from the movie "The Day The Earth Stood Still". No translation needed.
 page-title = Gort! Klaatu barada nikto!
 # Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
-error-title-text = Binvinuti umani!
+error-title-text = Bimminuti Umani!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
-error-short-desc-text = Ti visitamu 'n paci e cu boni ntinzioni!
+error-short-desc-text = Ti visitamu 'n paci e cu boni ntinziuna!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
-error-long-desc1 = Un robot nun po' fari mali a un cristianu o, senza fari nenti, pirméttiri chi un cristianu si struppía.
+error-long-desc1 = Li robot nun ponnu struppiari a un cristianu o, senza fari nenti, pirmèttiri ca un cristianu si struppìa.
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
-error-long-desc2 = Li robot vittiru cosi chi vuatri, umani, nun putissivu cridiri mai.
+error-long-desc2 = Li robot vìttiru cosi chi vuiautri umani nun putìssivu crìdiri mai.
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
-error-long-desc3 = Li robot sunnu li toi cumpagni di pràstica cu cui ti poi addivértiri.
+error-long-desc3 = Li robot sunnu li to cumpagni di plàstica ca ti ci po' addivèrtiri.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
-error-long-desc4 = Li robot ànnu cula mitàllici chi nun s'ànnu a muzzicari.
+error-long-desc4 = Li robot ànnu cula mitàllici ca nun si ponnu muzzicari.
 # TV: Battlestar Galactica (2004 series). From the opening text.
-error-trailer-desc-text = E ànnu 'n pianu.
+error-trailer-desc-text = E ànnu un pianu.
+# Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+error-try-again = Riprova
+    .label2 = Nun ammaccari cchiù stu buttuni.
