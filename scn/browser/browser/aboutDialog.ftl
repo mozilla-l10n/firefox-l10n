@@ -6,23 +6,23 @@ aboutDialog-title =
     .title = A prupòsitu di { -brand-full-name }
 releaseNotes-link = Nuvitati
 update-checkForUpdatesButton =
-    .label = Talìa si cci sunnu attualizzazziuna
+    .label = Talìa si cci sunnu aggiurnamenti
     .accesskey = V
 update-updateButton =
-    .label = Riabbìa p'attualizzari { -brand-shorter-name }
+    .label = Riabbìa p'aggiurnari { -brand-shorter-name }
     .accesskey = A
-update-checkingForUpdates = Staju cuntrullannu si cci sunnu attualizzazziuna…
-update-downloading = <img data-l10n-name="icon"/>Staju scarricannu l'attualizzazziuni — <label data-l10n-name="download-status"/>
-update-applying = Staju appricannu l'attualizzazziuni…
-update-failed = L'attualizzazziuni fallìu. <label data-l10n-name="failed-link">Scàrrica l'ùrtima virsiuni</label>
-update-failed-main = L'attualizzazziuni fallìu. <a data-l10n-name="failed-link-main">Scàrrica l'ùrtima virsiuni</a>
-update-adminDisabled = L'attualizzazziuna foru sdisarmati di l'amministraturi dû sistema
-update-noUpdatesFound = { -brand-short-name } è attualizzatu
-update-otherInstanceHandlingUpdates = { -brand-short-name } è già 'n cursu d'attualizzazziuni
-update-manual = L'attualizzazziuna sunnu dispunìbbili nne <label data-l10n-name="manual-link"/>
-update-unsupported = Nun po' fari cchiù attualizzazziuna nna stu sistema. <label data-l10n-name="unsupported-link">Cchiù nfurmazziuna</label>
+update-checkingForUpdates = Staju cuntrullannu si cci sunnu aggiurnamenti…
+update-downloading = <img data-l10n-name="icon"/>Staju scarricannu l'aggiurnamentu — <label data-l10n-name="download-status"/>
+update-applying = Staju appricannu l'aggiurnamentu…
+update-failed = L'aggiurnamentu fallìu. <label data-l10n-name="failed-link">Scàrrica l'ùrtima virsiuni</label>
+update-failed-main = L'aggiurnamentu fallìu. <a data-l10n-name="failed-link-main">Scàrrica l'ùrtima virsiuni</a>
+update-adminDisabled = L'aggiurnamenti foru sdisarmati di l'amministraturi dû sistema
+update-noUpdatesFound = { -brand-short-name } è aggiurnatu
+update-otherInstanceHandlingUpdates = { -brand-short-name } è già 'n cursu d'aggiurnamentu
+update-manual = L'aggiurnamenti sunnu dispunìbbili nne <label data-l10n-name="manual-link"/>
+update-unsupported = Nun po' fari cchiù aggiurnamenti nna stu sistema. <label data-l10n-name="unsupported-link">Cchiù nfurmazziuna</label>
 update-restarting = Riabbiannu...
-channel-description = P'accamora sì nnô canali d'attualizzazziuni <label data-l10n-name="current-channel"></label> .{ " " }
+channel-description = P'accamora sì nnô canali d'aggiurnamentu <label data-l10n-name="current-channel"></label> .{ " " }
 warningDesc-version = { -brand-short-name } è sprimintali e putissi farsijari.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> è na <label data-l10n-name="community-exp-creditsLink">cumunità munniali</label> ca travagghia nzèmmula pi tèniri la Riti lìbbira, pùbblica e accissìbbili a tutti.
 community-2 = { -brand-short-name } fu pruggittatu di <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, na <label data-l10n-name="community-creditsLink">cumunità munniali</label> ca travagghia nzèmmula pi tèniri a Riti lìbbira, pùbblica e accissìbbili a tutti.
