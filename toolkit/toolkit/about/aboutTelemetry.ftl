@@ -17,7 +17,7 @@ about-telemetry-next-ping = >>
 about-telemetry-page-title = Telemetri Verileri
 about-telemetry-more-information = Daha fazla bilgi almak mı istiyorsunuz?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox Veri Belgeleri</a>, veri araçlarlarımızla nasıl çalışabileceğinize dair rehberleri içerir.
-about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox Telemetri istemcisi belgeleri</a> kavram tanımlarını, API belgeleribi ve veri referanslarını içerir.
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox Telemetri istemcisi belgeleri</a> kavram tanımlarını, API belgelerini ve veri referanslarını içerir.
 about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemetri panoları</a> Mozilla'nın Telemetri aracılığıyla aldığı verileri görselleştirmenize olanak tanır.
 about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Sonda sözlüğü</a> Telemetri’nin topladığı sondalarla ilgili ayrıntıları ve açıklamaları içerir.
 about-telemetry-show-in-Firefox-json-viewer = JSON görüntüleyicide aç
