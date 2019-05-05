@@ -189,18 +189,22 @@
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.label):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+<!ENTITY quickFilterBar.booleanModeAny.label "ใด ๆ">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+<!ENTITY quickFilterBar.booleanModeAny.tooltip "เกณฑ์ป้ายกำกับที่เลือกอย่างน้อยหนึ่งเกณฑ์ควรตรงกัน">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.label):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+<!ENTITY quickFilterBar.booleanModeAll.label "ทั้งหมด">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+<!ENTITY quickFilterBar.booleanModeAll.tooltip "เกณฑ์ป้ายกำกับที่เลือกทั้งหมดต้องตรงกัน">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.idealWidth):
      The number of pixels for the ideal width of the quick filter box textbox.
@@ -261,8 +265,12 @@
      The first line of the panel popup that tells the user we found no matches
      but we can convert to a global search for them.
      -->
+<!ENTITY quickFilterBar.glodaUpsell.continueSearch
+         "ดำเนินการค้นหานี้ต่อในโฟลเดอร์ทั้งหมด">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.pressEnterAndCurrent):
      The second line of the panel popup that tells the user we found no matches.
      This line will have #1 replaced with what the user has typed so far.
      -->
+<!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent
+         "กด 'Enter' อีกครั้งเพื่อดำเนินการค้นหาของคุณต่อสำหรับ: #1">
