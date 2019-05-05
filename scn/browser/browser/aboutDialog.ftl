@@ -18,13 +18,13 @@ update-failed = L'attualizzazziuni fallìu. <label data-l10n-name="failed-link">
 update-failed-main = L'attualizzazziuni fallìu. <a data-l10n-name="failed-link-main">Scàrrica l'ùrtima virsiuni</a>
 update-adminDisabled = L'agghiurnamenti foru sdisarmati dû vostru amministraturi di sistema
 update-noUpdatesFound = { -brand-short-name } è attualizzatu
-update-otherInstanceHandlingUpdates = N'àutra finestra sta agghiurnannu { -brand-short-name }
-update-manual = L'agghiurnamenti sunnu scarricàbbili nni <label data-l10n-name="manual-link"/>
-update-unsupported = Nun poi fari cchiú agghiurnamenti nna stu sistema. <label data-l10n-name="unsupported-link">Cchiú nfurmazzioni</label>
-update-restarting = Staiu accuminzannu arredi…
-channel-description = P'accamora sí nô canali d'agghiornamentu <label data-l10n-name="current-channel"></label> .{ " " }
-warningDesc-version = { -brand-short-name } e' sprimintali e putissi farsiari.
-community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> e' na <label data-l10n-name="community-exp-creditsLink">cumunitati munniali</label> chi travagghia 'nzèmmula pi lassari lu Web líbbiru, púbbricu e unni cci ponnu tràsiri tutti.
+update-otherInstanceHandlingUpdates = { -brand-short-name } è già 'n cursu d'attualizzazziuni
+update-manual = L'attualizzazziuna sunnu dispunìbbili nne <label data-l10n-name="manual-link"/>
+update-unsupported = Nun po' fari cchiù attualizzazziuna nna stu sistema. <label data-l10n-name="unsupported-link">Cchiù nfurmazziuna</label>
+update-restarting = Riabbiannu...
+channel-description = P'accamora sì nnô canali d'attualizzazziuni <label data-l10n-name="current-channel"></label> .{ " " }
+warningDesc-version = { -brand-short-name } è sprimintali e putissi farsijari.
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> è na <label data-l10n-name="community-exp-creditsLink">cumunità munniali</label> ca travagghia 'nzèmmula pi lassari lu Web líbbiru, púbbricu e unni cci ponnu tràsiri tutti.
 community-2 = { -brand-short-name } fu pruggittatu di <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, na <label data-l10n-name="community-creditsLink">cumunitati munniali</label> chi travagghia 'nzèmmula pi lassari lu Web líbbiru, púbbricu e unni cci ponnu tràsiri tutti.
 helpus = Ni voi ajutari? <label data-l10n-name="helpus-donateLink">Lassa na ufferta</label> o <label data-l10n-name="helpus-getInvolvedLink">júnciti cu nuàutri!</label>
 bottomLinks-license = Nfurmazzioni dâ licenzia
