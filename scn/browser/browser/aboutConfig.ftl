@@ -23,7 +23,7 @@ about-config-pref-delete = Cancella
 
 about-config-pref-add-type-boolean = bulianu
 about-config-pref-add-type-number = Nùmmaru
-about-config-pref-add-type-string = Linia
+about-config-pref-add-type-string = Stringa
 
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label

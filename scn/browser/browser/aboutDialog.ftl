@@ -3,10 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 aboutDialog-title =
-    .title = Supra a { -brand-full-name }
+    .title = A prupòsitu di { -brand-full-name }
 releaseNotes-link = Nuvitati
 update-checkForUpdatesButton =
-    .label = Talìa si cci sunnu agghiurnamenti
+    .label = Talìa si cci sunnu attualizzazziuna
     .accesskey = V
 update-updateButton =
     .label = Accumincia arreri p'agghiurnari { -brand-shorter-name }
@@ -30,5 +30,3 @@ helpus = Ni voi ajutari? <label data-l10n-name="helpus-donateLink">Lassa na uffe
 bottomLinks-license = Nfurmazzioni dâ licenzia
 bottomLinks-rights = Li dritti di l'utenti finali
 bottomLinks-privacy = Pulìtica di risirvatizza
-aboutDialog-architecture-sixtyFourBit = 64-bit
-aboutDialog-architecture-thirtyTwoBit = 32-bit
