@@ -9,9 +9,9 @@ update-checkForUpdatesButton =
     .label = Talìa si cci sunnu attualizzazziuna
     .accesskey = V
 update-updateButton =
-    .label = Accumincia arreri p'agghiurnari { -brand-shorter-name }
+    .label = Riabbìa p'attualizzari { -brand-shorter-name }
     .accesskey = A
-update-checkingForUpdates = Staiu cuntrullannu si cci sunnu agghiurnamenti…
+update-checkingForUpdates = Staju cuntrullannu si cci sunnu attualizzazziuna…
 update-downloading = <img data-l10n-name="icon"/>Staiu scarricannu l'agghiurnamentu — <label data-l10n-name="download-status"/>
 update-applying = Staiu appricannu l'agghiurnamentu…
 update-failed = Agghiurnamentu fallutu. <label data-l10n-name="failed-link">Scàrricati l'ùrtima virsioni</label>
