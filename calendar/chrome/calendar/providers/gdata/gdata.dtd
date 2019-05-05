@@ -3,10 +3,18 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY gdata.privacy.default.label "ค่าเริ่มต้นของ Google">
+<!ENTITY gdata.privacy.default.accesskey "ค">
 
+<!ENTITY gdata.migration.title "โยกย้ายปฏิทินแบบอ่านอย่างเดียว">
 <!ENTITY gdata.migration.upgrade.label "อัปเกรด">
 <!ENTITY gdata.migration.upgrade.accesskey "อ">
+<!ENTITY gdata.migration.showagain.label "ตรวจสอบเสมอ ">
 
 <!ENTITY gdata.reminder.default "การเตือนความจำเริ่มต้น">
+<!ENTITY gdata.reminder.action.sms.label "ส่งข้อความตัวอักษร">
 
+<!ENTITY gdata.wizard.session.description "โปรดเลือกวาระที่มีอยู่หรือป้อนที่อยู่อีเมลของคุณเพื่อสร้างวาระใหม่ คุณต้องการเพียงหนึ่งวาระต่อบัญชี">
+<!ENTITY gdata.wizard.calendars.description "โปรดเลือกปฏิทินและรายการงานที่คุณต้องการบอกรับ">
 
+<!ENTITY gdata.wizard.nextstep.description "โปรดไปที่ขั้นตอนถัดไปเพื่อตั้งค่าปฏิทินของคุณ">
