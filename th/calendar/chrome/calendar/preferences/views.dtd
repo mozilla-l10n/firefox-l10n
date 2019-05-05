@@ -16,6 +16,10 @@
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.label "แสดงหมายเลขสัปดาห์ในมุมมองและเดือนขนาดเล็ก">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "ส">
 
+<!ENTITY pref.calendar.view.daystart.label "วันเริ่มที่:">
+<!ENTITY pref.calendar.view.daystart.accesskey "ว">
+<!ENTITY pref.calendar.view.dayend.label "วันสิ้นสุดที่:">
+<!ENTITY pref.calendar.view.dayend.accesskey "น">
 <!ENTITY pref.calendar.view.visiblehours.label "แสดง:">
 <!ENTITY pref.calendar.view.visiblehours.accesskey "ส">
 
