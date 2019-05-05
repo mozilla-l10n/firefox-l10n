@@ -22,6 +22,20 @@ onboarding-private-browsing-text = Naviga pi cuntu to. La Navigazziuni privata c
 onboarding-screenshots-title = Schirmati
 onboarding-screenshots-text = Fai, sarba e sparti li schirmati - senza nèsciri di { -brand-short-name }. Cattura na parti o na pàggina sana mentri nàvighi. Poi sàrbali nnâ riti pi truvalli e spartilli fàcili.
 onboarding-addons-title = Agghiuncitini
+onboarding-addons-text = Agghiunci autri carattirìstichi ca fannu travagghiari cchiù forti { -brand-short-name } pi tia. Cunfrunta li prezzi, cuntrolla lu tempu o sprimi la to pirsunalità cu un tema pirsunali.
+onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = Nàviga cchiù lestu, cchiù spertu o cchiù sicuru chî stinziuna comu Ghostery, ca ti fa bluccari li pubblicità ca nun ti ntirèssanu.
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Sincrunizza
+onboarding-fxa-text = Riggìstrati pi un { -fxaccount-brand-name } e sincrunizza li to nzingalibbra, li palori d'accessu, e grapi schedi unn'è-è ca usi { -brand-short-name }.
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = Granni, ài { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Ora prucùrati <icon></icon><b>{ $addon-name }.</b>
+return-to-amo-extension-button = Agghiunci la stinziuni
+return-to-amo-get-started-button = Accuminciamu cu { -brand-short-name }
