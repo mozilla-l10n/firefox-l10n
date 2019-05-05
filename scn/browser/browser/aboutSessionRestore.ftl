@@ -25,16 +25,16 @@ restore-page-try-again-button =
     .accesskey = R
 restore-page-close-button =
     .label = Accumincia na nova sissioni
-    .accesskey = n
+    .accesskey = N
 
 ## The following strings are used in about:welcomeback
 
 welcome-back-tab-title = Fattu!
 welcome-back-page-title = Fattu!
-welcome-back-page-info = { -brand-short-name } e' prontu.
+welcome-back-page-info = { -brand-short-name } è prontu.
 welcome-back-restore-button =
-    .label = Amuninni!
+    .label = Amunì!
     .accesskey = A
-welcome-back-restore-all-label = Arripigghia tutti li finestri e li schedi
-welcome-back-restore-some-label = Arripigghia sulu chiḍḍi ca voi
-welcome-back-page-info-link = Li to' agghiuncitini e pirsunalizzazzioni foru livati e li to' prifirenzi foru misi pi com'èranu l'urigginali. Siḍḍu macari chistu nun abbastò pi sistimari lu to' probblema, <a data-l10n-name="link-more">poi lèggiri cchiú nfurmazzioni supra a chiḍḍu ca poi fari.</a>
+welcome-back-restore-all-label = Riprìstina tutti li finestri e li schedi
+welcome-back-restore-some-label = Riprìstina sulu chiḍḍi ca vo' tu
+welcome-back-page-info-link = Li to agghiuncitini e pirsunalizzazziuna foru livati e li to prifirenzi foru misi pi comu èranu l'urigginali. Si macari chistu nun cci abbastò pi sistimari lu to prubblema, <a data-l10n-name="link-more">po' lèggiri cchiù nfurmazziuna supra a chiḍḍu ca po' fari.</a>
