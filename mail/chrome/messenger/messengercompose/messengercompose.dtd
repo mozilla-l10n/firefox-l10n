@@ -211,7 +211,7 @@
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Ferramentas">
 <!ENTITY tasksMenu.accesskey "F">
-<!ENTITY messengerCmd.label "Mensagens">
+<!ENTITY messengerCmd.label "E-mail e grupos de notícias">
 <!ENTITY messengerCmd.accesskey "M">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Catálogo de endereços">
