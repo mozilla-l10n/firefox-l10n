@@ -14,10 +14,10 @@ update-updateButton =
 update-checkingForUpdates = Staju cuntrullannu si cci sunnu attualizzazziuna…
 update-downloading = <img data-l10n-name="icon"/>Staju scarricannu l'attualizzazziuni — <label data-l10n-name="download-status"/>
 update-applying = Staju appricannu l'attualizzazziuni…
-update-failed = Agghiurnamentu fallutu. <label data-l10n-name="failed-link">Scàrricati l'ùrtima virsioni</label>
-update-failed-main = Agghiurnamentu fallutu. <a data-l10n-name="failed-link-main">Scàrricati l'ùrtima virsioni</a>
+update-failed = L'attualizzazziuni fallìu. <label data-l10n-name="failed-link">Scàrrica l'ùrtima virsiuni</label>
+update-failed-main = L'attualizzazziuni fallìu. <a data-l10n-name="failed-link-main">Scàrrica l'ùrtima virsiuni</a>
 update-adminDisabled = L'agghiurnamenti foru sdisarmati dû vostru amministraturi di sistema
-update-noUpdatesFound = { -brand-short-name } e' agghiurnatu
+update-noUpdatesFound = { -brand-short-name } è attualizzatu
 update-otherInstanceHandlingUpdates = N'àutra finestra sta agghiurnannu { -brand-short-name }
 update-manual = L'agghiurnamenti sunnu scarricàbbili nni <label data-l10n-name="manual-link"/>
 update-unsupported = Nun poi fari cchiú agghiurnamenti nna stu sistema. <label data-l10n-name="unsupported-link">Cchiú nfurmazzioni</label>
