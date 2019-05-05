@@ -8,6 +8,7 @@ about-config-warning-text = Mijenjanje ovih naprednih postavki može biti štetn
 about-config-warning-checkbox = Ponovno mi dosađujte s ovom porukom, molim vas!
 about-config-warning-button = Prihvaćam rizik
 about-config-title = about:config
+about-config2-title = Napredne postavke
 about-config-search-input =
     .placeholder = Traži
 about-config-show-all = Prikaži sve

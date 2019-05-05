@@ -663,6 +663,7 @@ addressbar-suggestions-settings = Promijenite postavke za prijedloge tražilica
 
 content-blocking-header = Blokiranje sadržaja
 content-blocking-description = Blokirajte sadržaj trećih strana koji vas prati na webu. Kontrolirajte koliko se vaših aktivnosti na mreži sprema i dijeli između web stranica.
+content-blocking-section-description = Zaštitite svoju privatnost dok pregledavate. Blokirajte nevidljivi sadržaj koji prati koje stranice posjećujete i profilira vas. Blokiranje dijela ovog sadržaja može ubrzati učitavanje stranica.
 content-blocking-learn-more = Saznajte više
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
