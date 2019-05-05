@@ -10,25 +10,38 @@
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "ตั้งค่าการตั้งค่าจดหมายขยะเริ่มต้นของคุณ สามารถกำหนดค่าการตั้งค่าจดหมายขยะเฉพาะบัญชีได้ในการตั้งค่าบัญชี">
 <!ENTITY manualMark.label "เมื่อฉันทำเครื่องหมายข้อความว่าเป็นขยะ:">
+<!ENTITY manualMark.accesskey "ม">
 <!ENTITY manualMarkModeMove.label "ย้ายไปไว้ในโฟลเดอร์ &quot;ขยะ&quot; ของบัญชี">
+<!ENTITY manualMarkModeMove.accesskey "ย">
 <!ENTITY manualMarkModeDelete.label "ลบออก">
+<!ENTITY manualMarkModeDelete.accesskey "ล">
 <!ENTITY markAsReadOnSpam.label "ทำเครื่องหมายข้อความที่ถูกพิจารณาว่าเป็นขยะว่าอ่านแล้ว">
+<!ENTITY markAsReadOnSpam.accesskey "ท">
 <!ENTITY enableAdaptiveJunkLogging.label "เปิดใช้งานการบันทึกตัวกรองขยะแบบปรับเปลี่ยนได้">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "ป">
 <!ENTITY openJunkLog.label "แสดงรายการบันทึก">
-<!ENTITY resetTrainingData.label "รีเซ็ตข้อมูลการสอน">
+<!ENTITY openJunkLog.accesskey "ส">
+<!ENTITY resetTrainingData.label "ตั้งค่าข้อมูลการสอนใหม่">
+<!ENTITY resetTrainingData.accesskey "ต">
 
 <!-- Phishing Detector -->
 <!ENTITY phishingDetector1.intro  "&brandShortName; สามารถวิเคราะห์ข้อความสำหรับการหลอกลวงอีเมลที่น่าสงสัยโดยมองหาเทคนิคทั่วไปที่ใช้หลอกลวงคุณ">
 <!ENTITY enablePhishingDetector1.label    "บอกฉันหากข้อความที่ฉันกำลังอ่านเป็นการหลอกลวงอีเมลที่น่าสงสัย">
+<!ENTITY enablePhishingDetector1.accesskey  "บ">
 <!ENTITY useDownloadedList.label "ใช้รายชื่อการหลอกลวงอีเมลที่น่าสงสัยที่ดาวน์โหลดแล้ว">
+<!ENTITY useDownloadedList.accesskey "ช">
 
 <!-- Passwords -->
 <!ENTITY savedPasswords.intro           "&brandShortName; สามารถจดจำรหัสผ่านสำหรับบัญชีทั้งหมดของคุณ">
 <!ENTITY useMasterPassword.label        "ใช้รหัสผ่านหลัก">
+<!ENTITY useMasterPassword.accesskey    "ช">
 <!ENTITY masterPassword.intro           "รหัสผ่านหลักจะปกป้องรหัสผ่านทั้งหมดของคุณ แต่คุณต้องป้อนเพียงวาระละหนึ่งครั้งเท่านั้น">
 <!ENTITY changeMasterPassword.label     "เปลี่ยนรหัสผ่านหลัก…">
+<!ENTITY changeMasterPassword.accesskey "เ">
 <!ENTITY savedPasswords.label           "รหัสผ่านที่บันทึกไว้…">
+<!ENTITY savedPasswords.accesskey       "ร">
 
 <!-- Anti Virus -->
 <!ENTITY antiVirus.intro      "&brandShortName; สามารถทำให้ซอฟต์แวร์ป้องกันไวรัสวิเคราะห์ข้อความจดหมายขาเข้าสำหรับไวรัสก่อนที่จะถูกเก็บไว้ในเครื่องได้ง่ายขึ้น">
 <!ENTITY antiVirus.label      "อนุญาตให้ไคลเอ็นต์โปรแกรมป้องกันไวรัสกักกันข้อความขาเข้าแต่ละข้อความ">
+<!ENTITY antiVirus.accesskey  "อ">

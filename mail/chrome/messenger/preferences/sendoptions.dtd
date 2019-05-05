@@ -4,7 +4,20 @@
 
 <!ENTITY dialog.title                 "ตัวเลือกการส่ง">
 <!ENTITY sendMail.title               "รูปแบบข้อความ">
+<!ENTITY autoDowngrade.label          "ส่งข้อความเป็นแบบตัวอักษรธรรมดาหากเป็นไปได้">
+<!ENTITY autoDowngrade.accesskey      "ส">
+<!ENTITY sendMaildesc.label           "เมื่อส่งข้อความในรูปแบบ HTML และผู้รับอย่างน้อยหนึ่งคนไม่อยู่ในรายการที่สามารถรับ HTML ได้:">
+<!ENTITY askMe.label                  "ถามฉันว่าจะทำอะไร">
+<!ENTITY askMe.accesskey              "ถ">
+<!ENTITY convertPlain.label           "แปลงข้อความเป็นแบบตัวอักษรธรรมดา">
+<!ENTITY convertPlain.accesskey       "ป">
+<!ENTITY sendHTML.label               "ส่งข้อความเป็นแบบ HTML ต่อไป">
+<!ENTITY sendHTML.accesskey           "ง">
+<!ENTITY sendBoth.label               "ส่งข้อความทั้งแบบตัวอักษรธรรมดาและ HTML">
+<!ENTITY sendBoth.accesskey           "ท">
+<!ENTITY override.label               "หมายเหตุ: ใช้สมุดรายชื่อเพื่อระบุรูปแบบข้อความที่ต้องการสำหรับผู้รับ">
 
+<!ENTITY domaindesc.label             "เมื่อคุณส่งข้อความไปยังที่อยู่ที่มีชื่อโดเมนด้านล่าง &brandShortName; ส่งข้อความในรูปแบบที่ถูกต้องโดยอัตโนมัติ">
 <!ENTITY HTMLTab.label                "โดเมน HTML">
 <!ENTITY HTMLTab.accesskey            "โ">
 <!ENTITY PlainTextTab.label           "โดเมนข้อความธรรมดา">
