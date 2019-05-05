@@ -29,3 +29,14 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = D'accordu
     .buttonaccesskey = D
 appmenu-addon-post-install-message = Gistisci li to agghiuncitini ammaccannu <image data-l10n-name='addon-install-icon'> ntô minù <image data-l10n-name='addon-menu-icon'><image data-l10n-name='addon-menu-icon'>.
+appmenu-addon-post-install-incognito-checkbox =
+    .label = Pirmetti a sta stinziuni di travagghiari ntê Finestri privati
+    .accesskey = P
+appmenu-addon-private-browsing =
+    .label = Fai addivintari stinziuna nnâ Finestra privata
+    .buttonlabel = Gistisci stinziuna
+    .buttonaccesskey = G
+    .secondarybuttonlabel = D'accordu
+    .secondarybuttonaccesskey = D
+appmenu-addon-private-browsing-message = Tutti li novi stinziuna ca ci agghiunci a { -brand-shorter-name } nun funziunarannu nnê Finestri privati, sempri ca nun ci lu pirmetti nnê mpustazziuna.
+appmenu-addon-private-browsing-learn-more = Nzìgnati comu gistiri li mpustazziuna dî stinziuna
