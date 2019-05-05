@@ -432,7 +432,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_dialog_activitystream_recentBookmarks "Nedavni zaznamki">
 <!ENTITY pref_dialog_activitystream_visited "Obiskano">
 
-<!ENTITY pref_search_last_toast "Ne morete odstraniti ali onemogočiti vašega zadnjega iskalnika.">
+<!ENTITY pref_search_last_toast "Zadnjega iskalnika ne morete odstraniti ali onemogočiti.">
 
 <!ENTITY pref_panels_show "Prikaži">
 <!ENTITY pref_panels_hide "Skrij">
@@ -464,7 +464,7 @@ shown from Android O while a tab is being queued.-->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Poročevalec o sesutju">
 <!ENTITY datareporting_wifi_title2 "Lokacijske storitve &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary4 "Pomagajte organizaciji &vendorShortName; narisati zemljevid sveta! Objavljajte približne podatke o mobilnih in brezžičnih lokacijah vaše naprave za izboljšanje naše geolokacijske storitve.">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Pomagajte organizaciji &vendorShortName; narisati zemljevid sveta! Objavljajte približne podatke o mobilnih in brezžičnih lokacijah svoje naprave za izboljšanje naše geolokacijske storitve.">
 <!-- Localization note (datareporting_notification_title ) : This will be the title
      of the notification shown whenever the user has enabled data reporting and the stumbler
      service is running. -->
@@ -631,7 +631,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY home_synced_devices_one "1 naprava">
 <!ENTITY home_history_back_to2 "Nazaj na polno zgodovino">
 <!ENTITY home_clear_history_button "Počisti zgodovino brskanja">
-<!ENTITY home_clear_history_confirm "Ste prepričani, da želite počistiti vašo zgodovino?">
+<!ENTITY home_clear_history_confirm "Ste prepričani, da želite počistiti svojo zgodovino?">
 <!ENTITY home_bookmarks_empty "Tukaj se prikažejo shranjeni zaznamki.">
 <!ENTITY home_closed_tabs_title2 "Nedavno zaprto">
 <!ENTITY home_last_tabs_empty "Tukaj se prikažejo vaši nedavni zavihki.">
