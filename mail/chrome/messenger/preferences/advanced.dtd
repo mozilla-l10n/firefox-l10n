@@ -78,6 +78,7 @@
 <!ENTITY useService.label                "ใช้บริการเบื้องหลังเพื่อติดตั้งการอัปเดต">
 <!ENTITY useService.accesskey            "ช">
 
+<!ENTITY updateCrossUserSettingWarning.description "การตั้งค่านี้จะนำไปใช้กับบัญชี Windows ทั้งหมดและโปรไฟล์ &brandShortName; ที่ใช้ &brandShortName; รุ่นที่ติดตั้งนี้">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "การตั้งค่า…">
