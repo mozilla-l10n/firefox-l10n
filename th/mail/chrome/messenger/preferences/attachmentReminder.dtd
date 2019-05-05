@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY attachmentReminderDialog.title   "คำสำคัญคำเตือนไฟล์แนบ">
+<!ENTITY attachKeywordText.label          "&brandShortName; จะเตือนคุณเกี่ยวกับไฟล์แนบที่หายไปหากคุณกำลังจะส่งอีเมลที่มีคำสำคัญคำใดคำหนึ่งเหล่านี้">
 <!ENTITY newKeywordButton.label           "ใหม่…">
 <!ENTITY newKeywordButton.accesskey       "ห">
 <!ENTITY editKeywordButton1.label         "แก้ไข…">

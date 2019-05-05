@@ -11,3 +11,6 @@
 <!ENTITY newMessagesCountDock.accesskey        "ม">
 <!ENTITY showAllUnreadMessagesCount.label      "จำนวนข้อความที่ยังไม่ได้อ่าน">
 <!ENTITY showAllUnreadMessagesCount.accesskey  "ย">
+<!ENTITY dockIconBadge.label                   "ป้ายไอคอนแอป">
+<!ENTITY dockIconShow.label                    "ติดป้ายไอคอนแอปพร้อม:">
+<!ENTITY directNotificationSettings.label      "คุณสามารถปิดใช้งานป้ายในบานหน้าต่างการแจ้งเตือนของค่ากำหนดระบบ">
