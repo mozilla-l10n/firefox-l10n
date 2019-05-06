@@ -15,6 +15,10 @@ cfr-doorhanger-pintab-ok-button = ఈ ట్యాబును పిన్ చ�
 cfr-doorhanger-extension-never-show-recommendation = ఈ సిఫార్సును నాకు చూపించవద్దు
     .accesskey = S
 cfr-doorhanger-extension-learn-more-link = ఇంకా తెలుసుకోండి
+# This string is used on a new line below the add-on name
+# Variables:
+#   $name (String) - Add-on author name
+cfr-doorhanger-extension-author = { $name } నుండి
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = సిఫార్సు
@@ -41,3 +45,5 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-animation-pause = నిలుపు
+cfr-doorhanger-pintab-animation-resume = కొనసాగించు
