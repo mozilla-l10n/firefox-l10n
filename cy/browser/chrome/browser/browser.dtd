@@ -1174,7 +1174,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstall.incognito.checkbox.accesskey "C">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Newid i estyniadau mewn Ffenestri Preifat">
-<!ENTITY addonPrivateBrowsing.body2.label "Bydd unrhyw estyniad newydd y byddwch yn eu hychwanegu i &brandShorterName; ddim yn gweithio mewn Ffenestri Preifat oni bai eich bod yn caniatáu hynny yn y gosodiadau.">
+<!ENTITY addonPrivateBrowsing.body2.label "Ni fydd unrhyw estyniad newydd y byddwch yn eu hychwanegu i &brandShorterName; yn gweithio mewn Ffenestri Preifat oni bai eich bod yn caniatáu hynny yn y gosodiadau.">
 <!ENTITY addonPrivateBrowsing.learnMore.label "Dysgu sut i reoli gosodiadau estyniad.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Iawn, rwy'n deall">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "I">
