@@ -676,6 +676,7 @@ content-blocking-third-party-cookies = Inagan n tuqna n uḍfar n tɣawsiwin tis
 content-blocking-all-cookies = Inagan n tuqqna meṛṛa
 content-blocking-all-windows-trackers = Ineḍfaren yettwasnen deg akk isfuyla
 content-blocking-all-third-party-cookies = Akk inagan n tuqqna n wis kraḍ
+content-blocking-fingerprinters = Idsilen umḍinen
 content-blocking-warning-title = Aqeṛṛu d afella!
 content-blocking-warning-desc = Asewḥel n inagan n tuqqna akked ineḍfaren yezmer ad iseḥbes kra n yesmal web. Yeshel ad tekkseḍ asewḥel i yesmal tettamneḍ.
 content-blocking-learn-how = Issin amek

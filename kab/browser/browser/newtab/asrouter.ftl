@@ -47,5 +47,6 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step2 = Fren<b>Siggez iccer</b> seg umuɣ.
 cfr-doorhanger-pintab-animation-pause = Asteɛfu
 cfr-doorhanger-pintab-animation-resume = Kemmel
