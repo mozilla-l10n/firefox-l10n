@@ -65,3 +65,19 @@ policy-OfferToSaveLogins = Custrinci li mpustazziuna a cunzèntiri a { -brand-sh
 policy-OverrideFirstRunPage = Gnora la pàggina di prima sicuzziuni. Mposta stu pruvidimentu comu vacanti si vo' disabbilitari la pàggina di prima sicuzziuni.
 policy-OverridePostUpdatePage = Gnora la pàggina di post-aggiurnamentu "Quali su' li nuvità". Mposta stu pruvidimentu comu vacanti si vo' disabbilitari la pàggina di post-aggiurnamentu.
 policy-Permissions = Cunfijura li pirmisi pi càmira, micròfunu, lucalizzazziuni e nutìfichi.
+policy-PopupBlocking = Cunzenti a certi siti di mustrari finestri autumatichi comu mpustazziuni pridifinuta.
+policy-Preferences = Mposta e blocca lu valuri pi un suttanzemi di prifirenzi.
+policy-Proxy = Cunfijura mpustazziuna dû proxy.
+policy-RequestedLocales = Mposta la lista di plichi lucali nicissari pi l'appricazziuni 'n ùrdini di prifirenza.
+policy-SanitizeOnShutdown = Cancella tutti li dati di navigazziuni chujennu.
+policy-SanitizeOnShutdown2 = Cancella li dati di navigazziuni chujennu.
+policy-SearchBar = Mposta la lucalizzazziuni pridifinuta nnâ barra di ricerca. L'utenti la po ancora pirsunalizzari.
+policy-SearchEngines = Cunfijura mpustazziuna dû muturi di ricerca. Stu pruvidimentu è dispunìbbili sulu nnâ virsiuni Extended Support Release (ESR).
+policy-SearchSuggestEnabled = Abbìlita o disabbìlita suggirimenti di ricerca.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Nstalla li mòduli PKCS #11.
+policy-SSLVersionMax = Mposta la virsiuna màssima di SSL.
+policy-SSLVersionMin = Mposta la virsiuni mìnima di SSL.
+policy-SupportMenu = Agghiùncicci n'uggettu dû minù di supportu pirsunalizzatu o minù d'aiutu.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Blocca la pussibbilità di visitari siti. Talìa la ducumentazziuni pi sapiri cchiù dittagghi ncapu lu furmatu.
