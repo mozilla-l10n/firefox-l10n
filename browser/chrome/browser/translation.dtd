@@ -52,7 +52,7 @@
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
-<!ENTITY translation.options.neverForSite.label "总不翻译此网站">
+<!ENTITY translation.options.neverForSite.label "不翻译此网站">
 <!ENTITY translation.options.neverForSite.accesskey "e">
 <!ENTITY translation.options.preferences.label  "翻译首选项">
 <!ENTITY translation.options.preferences.accesskey "T">
