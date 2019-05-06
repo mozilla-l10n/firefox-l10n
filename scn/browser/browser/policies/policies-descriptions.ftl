@@ -62,3 +62,6 @@ policy-NetworkPrediction = Abbìlita o disabbìlita pridizziuni riti (prefetchin
 policy-NewTabPage = Abbìlita o disabbìlita la pàggina Scheda nova.
 policy-NoDefaultBookmarks = Disabbìlita la criazziuni di nzingalibbra pridifinuti lijati a { -brand-short-name }, e li Nzingalibbra sperti (Cchiù viitati, Targhetti ricenti). Nota: sta dicisiuni è fficaci sulu si usata prima dâ prima sicuzziuni dû prufilu.
 policy-OfferToSaveLogins = Custrinci li mpustazziuna a cunzèntiri a { -brand-short-name } di òffriri di ricurdari li cridinziali sarbati. Si accèttanu valura veri e fausi.
+policy-OverrideFirstRunPage = Gnora la pàggina di prima sicuzziuni. Mposta stu pruvidimentu comu vacanti si vo' disabbilitari la pàggina di prima sicuzziuni.
+policy-OverridePostUpdatePage = Gnora la pàggina di post-aggiurnamentu "Quali su' li nuvità". Mposta stu pruvidimentu comu vacanti si vo' disabbilitari la pàggina di post-aggiurnamentu.
+policy-Permissions = Cunfijura li pirmisi pi càmira, micròfunu, lucalizzazziuni e nutìfichi.
