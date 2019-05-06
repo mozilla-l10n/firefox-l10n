@@ -66,12 +66,15 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "คลิกเพื่อแสดงตัวเลือกเพิ่มเติม">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "ยืนยันใหม่">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "ส่งการยืนยันใหม่ไปยังผู้จัด">
+<!ENTITY lightning.imipbar.btnReschedule.label                              "จัดกำหนดการใหม่">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "จัดกำหนดการเหตุการณ์ใหม่">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "บันทึกสำเนา">
 <!ENTITY lightning.imipbar.btnTentative.label                               "ไม่แน่นอน">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "ยอมรับคำเชิญเหตุการณ์อย่างไม่แน่นอน">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "ไม่แน่นอนทั้งหมด">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "อัปเดต">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "อัปเดตเหตุการณ์ในปฏิทิน">
+<!ENTITY lightning.imipbar.description                                      "ข้อความนี้มีคำเชิญไปยังเหตุการณ์">
 
 <!ENTITY lightning.imipbar.btnSend.label                                    "ส่งการตอบสนองตอนนี้">
 <!ENTITY lightning.imipbar.btnSend.tooltiptext                              "ส่งการตอบสนองไปยังผู้จัด">
