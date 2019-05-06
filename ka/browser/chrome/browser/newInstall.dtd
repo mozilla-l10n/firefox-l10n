@@ -9,7 +9,7 @@
 
 <!ENTITY window.title "მნიშვნელოვანი სიახლეები">
 <!ENTITY window.style "width: 490px">
-<!ENTITY sync "მონაცემების დასინქრონებისთვის, რომლებიც შენახულია Firefox-ის ამ დაყენებულ ვერსიაში &brandShortName;, შედით თქვენს &syncBrand.fxAccount.label;-ანგარიშზე.">
+<!ENTITY sync "თუ გსურთ, Firefox-ში აქამდე შენახულ მონაცემებთან დასინქრონდეს ეს ახლად დაყენებული &brandShortName;, გამოიყენეთ თქვენი &syncBrand.fxAccount.label;.">
 <!ENTITY continue-button "გაგრძელება">
 
 <!ENTITY mainText "ეს &brandShortName; ახალი პროფილითაა. იგი არ იზიარებს სანიშნებს, პაროლებსა და მომხმარებლის სხვა პარამეტრებს Firefox-ის დანარჩენ დაყენებულ ვერსიებთან (როგორიცაა Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition და Firefox Nightly) ამ კომპიუტერზე.">
