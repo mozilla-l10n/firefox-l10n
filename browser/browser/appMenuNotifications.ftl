@@ -38,5 +38,5 @@ appmenu-addon-private-browsing =
     .buttonaccesskey = R
     .secondarybuttonlabel = Iawn, rwy'n deall
     .secondarybuttonaccesskey = I
-appmenu-addon-private-browsing-message = Bydd unrhyw estyniad newydd y byddwch yn eu hychwanegu i { -brand-shorter-name } ddim yn gweithio mewn Ffenestri Preifat oni bai eich bod yn caniatáu hynny yn y gosodiadau.
+appmenu-addon-private-browsing-message = Ni fydd unrhyw estyniad newydd y byddwch yn eu hychwanegu i { -brand-shorter-name } yn gweithio mewn Ffenestri Preifat oni bai eich bod yn caniatáu hynny yn y gosodiadau.
 appmenu-addon-private-browsing-learn-more = Dysgu sut i reoli gosodiadau estyniad.
