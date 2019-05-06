@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-config-warning-checkbox = తర్వాత కూడా నన్ను విసిగించు!
+about-config-warning-button = నేను నష్టభయాన్ని అంగీకరిస్తున్నాను
 about-config-title = about:config
 about-config2-title = ఉన్నత స్వరూపణం
 about-config-search-input =
