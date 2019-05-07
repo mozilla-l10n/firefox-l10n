@@ -53,3 +53,12 @@ cfr-doorhanger-pintab-step2 = Välj <b>Fäst flik</b> från menyn.
 cfr-doorhanger-pintab-step3 = Om webbplatsen har en uppdatering ser du en blå punkt på din fästa flik.
 cfr-doorhanger-pintab-animation-pause = Pausa
 cfr-doorhanger-pintab-animation-resume = Återuppta
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Synkronisera dina bokmärken överallt.
+cfr-doorhanger-bookmark-fxa-body = Bra fynd! Saknar du bokmärket på dina mobila enheter. Kom igång med ett { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-link-text = Synkronisera bokmärken nu...
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Stäng knapp
+    .title = Stäng
