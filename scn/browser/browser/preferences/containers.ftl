@@ -58,3 +58,27 @@ containers-icon-fence =
     .label = Sticcatu
 containers-icon-fingerprint =
     .label = Mpronta diggitali
+containers-icon-briefcase =
+    .label = Valiggetta
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+containers-icon-dollar =
+    .label = Sìmmulu dû dòllaru
+containers-icon-cart =
+    .label = Carrettu dâ spisa
+containers-icon-circle =
+    .label = Puntu
+containers-icon-vacation =
+    .label = Vacanza
+containers-icon-gift =
+    .label = Rijalu
+containers-icon-food =
+    .label = Manciari
+containers-icon-fruit =
+    .label = Frutta
+containers-icon-pet =
+    .label = Armalu
+containers-icon-tree =
+    .label = Àrbulu
+containers-icon-chill =
+    .label = Friddu

@@ -53,3 +53,12 @@ cfr-doorhanger-pintab-step2 = Scegghi <b>Fissa scheda</b> dû minù.
 cfr-doorhanger-pintab-step3 = Si lu situ àvi n'aggiurnamentu vidi un puntu blu ncapu la to scheda fissa.
 cfr-doorhanger-pintab-animation-pause = Pausa
 cfr-doorhanger-pintab-animation-resume = Cuntinua
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Sincrunizza li to nzingalibbra unn'è-è
+cfr-doorhanger-bookmark-fxa-body = Granni scuperta! Ora nun arristari senza stu nzingalibbra nnô to cillulari. Parti cu un { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-link-text = Sincrunizza li nzingalibbra ora...
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Buttuni pi chiújiri
+    .title = Chiuji
