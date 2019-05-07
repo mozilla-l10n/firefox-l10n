@@ -87,3 +87,4 @@ connection-dns-over-https-url-custom =
     .label = Personalizar
     .accesskey = P
     .tooltiptext = Introduza o seu URL preferido para resolver DNS por HTTPS
+connection-dns-over-https-custom-label = Personalizar
