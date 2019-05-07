@@ -268,12 +268,16 @@ go-back-button =
 
 ## Add-on actions
 
+report-addon-button = Reportar
 remove-addon-button = Remover
 disable-addon-button = Desativar
 enable-addon-button = Ativar
 expand-addon-button = Mais opções
 addons-enabled-heading = Ativado
 addons-disabled-heading = Desativado
+ask-to-activate-button = Solicitar ativação
+always-activate-button = Ativar sempre
+never-activate-button = Nunca ativar
 addon-detail-author-label = Autor
 addon-detail-version-label = Versão
 addon-detail-last-updated-label = Última atualização
@@ -291,3 +295,25 @@ addon-detail-reviews-link =
         [one] { $numberOfReviews } análise
        *[other] { $numberOfReviews } análises
     }
+
+## Pending uninstall message bar
+
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> foi removido.
+pending-uninstall-undo-button = Desfazer
+addon-detail-updates-label = Permitir atualizações automáticas
+addon-detail-updates-radio-default = Predefinido
+addon-detail-updates-radio-on = Ligado
+addon-detail-updates-radio-off = Desligado
+addon-detail-update-check-label = Procurar atualizações
+install-update-button = Atualizar
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Permitido em janelas privadas
+addon-detail-private-browsing-help = Quando permitido, a extensão irá ter acesso às suas atividades online durante a navegação privada. <a data-l10n-name="learn-more">Saber mais</a>
+addon-detail-private-browsing-allow = Permitir
+addon-detail-private-browsing-disallow = Não permitir
+available-updates-heading = Atualizações disponíveis
+recent-updates-heading = Atualizações recentes

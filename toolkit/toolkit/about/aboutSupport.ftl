@@ -199,6 +199,7 @@ gpu-device-id = ID do dispositivo
 gpu-subsys-id = ID do subsistema
 gpu-drivers = Controladores
 gpu-ram = RAM
+gpu-driver-vendor = Fornecedor do controlador
 gpu-driver-version = Versão do controlador
 gpu-driver-date = Data do controlador
 gpu-active = Ativa
