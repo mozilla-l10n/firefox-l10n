@@ -33,6 +33,8 @@ onboarding-ghostery-text = Surf raskare, smartare eller sikrare med utvidingar s
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synkroniser
 onboarding-fxa-text = Registrer deg for eit { -fxaccount-brand-name } og synkroniser bokmerka dine, passord og opne faner overalt der du brukar { -brand-short-name }.
+onboarding-pocket-anywhere-button = Prøv { -pocket-brand-name }
+onboarding-facebook-container-button = Legg til utvidinga
 
 ## Message strings belonging to the Return to AMO flow
 

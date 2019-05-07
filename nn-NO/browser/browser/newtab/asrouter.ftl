@@ -53,3 +53,7 @@ cfr-doorhanger-pintab-step2 = Vel <b>Fest fane</ b> frå menyen.
 cfr-doorhanger-pintab-step3 = Om nettstaden har ei oppdatering, vil du sjå ein blå prikk på den festa fana di.
 cfr-doorhanger-pintab-animation-pause = Pause
 cfr-doorhanger-pintab-animation-resume = Fortset
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-link-text = Synkroniser bokmerke no…
