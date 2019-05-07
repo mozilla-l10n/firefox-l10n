@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 abuse-report-subtitle = Kva er problemet?
+# Variables:
+#   $author-name (string) - Name of the add-on author
+abuse-report-addon-authored-by = av <a data-l10n-name="author-name">{ $author-name }</a>
 
 ## Panel buttons.
 
@@ -20,6 +23,8 @@ abuse-report-submit-button = Send inn
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-cancel = Avbryt
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-other-reason = Noko anna
