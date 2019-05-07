@@ -34,5 +34,7 @@
 <!ENTITY authRequired.button.label        "Godkänna">
 <!ENTITY authRequired.button.accesskey    "G">
 
+<!ENTITY findCloudFileProviders.label     "Hitta fler leverantörer…">
+
 <!ENTITY enableCloudFileAccountOffer.label "Erbjuder dig att dela filer större än">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
