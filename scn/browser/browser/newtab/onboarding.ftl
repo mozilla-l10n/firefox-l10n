@@ -66,6 +66,24 @@ onboarding-data-sync-title = Pòrtati appressu li to mpustazziuna
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = Sincrunizza li to nzingalibbra e li palori d'accessu unn'è-è ca usi { -brand-product-name }.
 onboarding-data-sync-button = Aḍḍuma { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Arresta nfurmatu ncapu li viulazziuna di dati
+onboarding-firefox-monitor-text = { -monitor-brand-name } munìtura si la to e-mail cumparìu nna quarchi viulazziuni di dati e t'abbisa si cumparisci nna quarchi nova viulazziuni.
+onboarding-firefox-monitor-button = Riggìstrati pi l'abbisi
+onboarding-browse-privately-title = Nàviga privatamenti
+onboarding-browse-privately-text = La Navigazziuni privata cancella li to ricerchi e la crunuluggìa di navigazziuni pi tèniri li cosi sicriti di tutti l'autri ca ùsanu lu to computer.
+onboarding-browse-privately-button = Grapi na Finestra privata
+onboarding-firefox-send-title = Teni li to plichi spartuti privati
+onboarding-firefox-send-text = { -send-brand-name } pruteggi li plichi ca sparti cu na crittatura e un lijami ca scadi autumaticamenti.
+onboarding-firefox-send-button = Prova { -send-brand-name }
+onboarding-mobile-phone-title = Scàrrica { -brand-product-name } nnô to tilèfunu
+onboarding-mobile-phone-text = Scàrrica { -brand-product-name } pi iOS o Android e sincrunizza li to dati nna diversi dispusitivi.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Scàrrica lu navigaturi pû tilèfunu
+onboarding-send-tabs-title = Mànnati li schedi di sùbbitu
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Manna schedi sparti di sùbbitu li pàggini ntra li to dispusitivi senza ca ài a cupiari, ncuḍḍari o nèsciri dû navigaturi.
 
 ## Message strings belonging to the Return to AMO flow
 
