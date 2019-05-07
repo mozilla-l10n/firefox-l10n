@@ -5,10 +5,16 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-learn-more = Več o tem
 onboarding-button-label-try-now = Preizkusite ga zdaj
 onboarding-button-label-get-started = Začni
 onboarding-welcome-header = Dobrodošli v { -brand-short-name }
+onboarding-join-form-continue = Nadaljuj
 onboarding-start-browsing-button-label = Začnite z brskanjem
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
 
 ## These strings belong to the individual onboarding messages.
 
