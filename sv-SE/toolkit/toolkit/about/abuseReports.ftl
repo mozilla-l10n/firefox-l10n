@@ -50,3 +50,30 @@ abuse-report-messagebar-action-cancel = Avbryt
 
 abuse-report-damage-reason = Skadat min dator och data
 abuse-report-damage-example = Exempel: Injicerad skadlig kod eller stulit data
+abuse-report-spam-reason = Skapar skräppost eller reklam
+abuse-report-spam-example = Exempel: Infogar annonser på webbsidor
+abuse-report-settings-reason = Ändrade min sökmotor, hemsida eller ny flik utan att informera eller fråga mig
+abuse-report-settings-suggestions = Innan du anmäler tillägget kan du försöka ändra dina inställningar:
+abuse-report-settings-suggestions-search = Ändra dina standardinställningar för sökning
+abuse-report-settings-suggestions-homepage = Ändra din startsida och ny flik
+abuse-report-deceptive-reason = Låtsas att vara något som det inte är
+abuse-report-deceptive-example = Exempel: Vilseledande beskrivning eller bilder
+abuse-report-broken-reason-extension = Fungerar inte, stör webbplatser eller saktar ner { -brand-product-name }
+abuse-report-broken-reason-theme = Fungerar inte eller stör webbläsarens display
+abuse-report-broken-example = Exempel: Funktionen är långsam, svår att använda, eller fungerar inte. delar av webbplatser laddas inte eller ser ovanliga ut
+abuse-report-broken-suggestions-extension =
+    Det låter som om du har identifierat ett fel. Förutom att skicka en rapport här, det bästa sättet
+    för att få ett funktionalitetsproblem löst är att kontakta tilläggets utvecklare.
+    <a data-l10n-name="support-link">Besök tilläggets webbplats</a> för att få utvecklarinformation.
+abuse-report-broken-suggestions-theme =
+    Det låter som om du har identifierat ett fel. Förutom att skicka en rapport här, det bästa sättet
+    för att få ett funktionalitetsproblem löst, är att kontakta utvecklaren av temat.
+    <a data-l10n-name="support-link">Besök temats webbplats</a> för att få utvecklarinformation.
+abuse-report-policy-reason = Hatligt, våldsamt eller olagligt innehåll
+abuse-report-policy-suggestions =
+    Obs! Upphovsrätt och varumärkesproblem måste rapporteras i en separat process.
+    <a data-l10n-name="report-infringement-link">Använd dessa anvisningar</a> till
+    att rapportera problemet.
+abuse-report-unwanted-reason = Ville aldrig ha det här tillägget och kan inte bli av med det
+abuse-report-unwanted-example = Exempel: En applikation installerade den utan min tillåtelse
+abuse-report-other-reason = Något annat
