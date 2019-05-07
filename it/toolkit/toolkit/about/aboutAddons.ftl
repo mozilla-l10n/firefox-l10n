@@ -260,7 +260,7 @@ go-back-button =
 
 ## Add-on actions
 report-addon-button = Segnala
-remove-addon-button = Elimina
+remove-addon-button = Rimuovi
 disable-addon-button = Disattiva
 enable-addon-button = Attiva
 expand-addon-button = Altre opzioni
@@ -283,6 +283,8 @@ addon-detail-reviews-link =
         [one] { $numberOfReviews } recensione
        *[other] { $numberOfReviews } recensioni
 }
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> è stato rimosso.
+pending-uninstall-undo-button = Annulla
 addon-detail-updates-label = Aggiornamento automatico
 addon-detail-updates-radio-default = Predefinito
 addon-detail-updates-radio-on = Attivo
