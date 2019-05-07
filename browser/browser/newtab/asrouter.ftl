@@ -55,3 +55,7 @@ cfr-doorhanger-pintab-step2 = Выберыце <b>Прышпіліць карт�
 cfr-doorhanger-pintab-step3 = Калі сайт абнавіўся, вы ўбачыце блакітную кропку на прышпіленай картцы.
 cfr-doorhanger-pintab-animation-pause = Прыпыніць
 cfr-doorhanger-pintab-animation-resume = Працягнуць
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Сінхранізуйце свае закладкі ўсюды.
