@@ -261,12 +261,16 @@ go-back-button =
 
 ## Add-on actions
 
+report-addon-button = Rapportera
 remove-addon-button = Ta bort
 disable-addon-button = Inaktivera
 enable-addon-button = Aktivera
 expand-addon-button = Fler alternativ
 addons-enabled-heading = Aktiverad
 addons-disabled-heading = Inaktiverad
+ask-to-activate-button = Fråga om aktivering
+always-activate-button = Aktivera alltid
+never-activate-button = Aktivera aldrig
 addon-detail-author-label = Utvecklare
 addon-detail-version-label = Version
 addon-detail-last-updated-label = Senast uppdaterad
@@ -287,6 +291,9 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> har tagits bort.
 pending-uninstall-undo-button = Ångra
 addon-detail-updates-label = Tillåt automatiska uppdateringar
 addon-detail-updates-radio-default = Standard
@@ -294,6 +301,12 @@ addon-detail-updates-radio-on = På
 addon-detail-updates-radio-off = Av
 addon-detail-update-check-label = Sök efter uppdateringar
 install-update-button = Uppdatera
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Tillåtet i privata fönster
+addon-detail-private-browsing-help = När det är tillåtet kommer tillägget att ha tillgång till dina onlineaktiviteter medan du surfar. <a data-l10n-name="learn-more">Läs mer</a>
 addon-detail-private-browsing-allow = Tillåt
 addon-detail-private-browsing-disallow = Tillåt inte
 available-updates-heading = Tillgängliga uppdateringar
+recent-updates-heading = Senaste uppdateringar
