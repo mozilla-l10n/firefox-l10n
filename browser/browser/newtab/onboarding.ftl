@@ -66,6 +66,35 @@ onboarding-data-sync-title = Ta dina inställningar med dig
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = Synkronisera dina bokmärken och lösenord överallt där du använder { -brand-product-name }.
 onboarding-data-sync-button = Slå på { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Var uppmärksam på dataintrång
+onboarding-firefox-monitor-text = { -monitor-brand-name } övervakar om din e-postadress har dykt upp i ett dataintrång och varnar dig om det visas i ett nytt intrång.
+onboarding-firefox-monitor-button = Registrera dig för varningar
+onboarding-browse-privately-title = Surfa privat
+onboarding-browse-privately-text = Privat surfning rensar din sök- och surfhistorik för att hålla den hemlig från alla som använder din dator.
+onboarding-browse-privately-button = Öppna ett privat fönster
+onboarding-firefox-send-title = Håll dina delade filer privata
+onboarding-firefox-send-text = { -send-brand-name } skyddar filerna du delar med end-to-end-kryptering och en länk som automatiskt upphör.
+onboarding-firefox-send-button = Prova { -send-brand-name }
+onboarding-mobile-phone-title = Hämta { -brand-product-name } till din telefon
+onboarding-mobile-phone-text = Hämta { -brand-product-name } för iOS eller Android och synkronisera dina data mellan enheter.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Hämta mobil webbläsare
+onboarding-send-tabs-title = Skicka snabb flikar till dig själv
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Send Tabs delar direkt sidor mellan dina enheter utan att behöva kopiera, klistra in eller lämna webbläsaren.
+onboarding-send-tabs-button = Börja använda Send Tabs
+onboarding-pocket-anywhere-title = Läs och lyssna var som helst
+# "downtime" refers to the user's free/spare time.
+onboarding-pocket-anywhere-text = { -pocket-brand-name } sparar dina favoritberättelser så att du kan läsa, lyssna och titta, även om du är offline.
+onboarding-pocket-anywhere-button = Prova { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Ta med dina lösenord överallt
+onboarding-lockwise-passwords-text = { -lockwise-brand-name } sparar dina lösenord på ett säkert ställe så att du enkelt kan logga in på dina konton.
+onboarding-lockwise-passwords-button = Hämta { -lockwise-brand-name }
+onboarding-facebook-container-title = Ange gränser för Facebook
+onboarding-facebook-container-text = { -facebook-container-brand-name } håller din Facebook-identitet skild från allting, vilket gör det svårare att spåra dig över nätet.
+onboarding-facebook-container-button = Lägg till tillägget
 
 ## Message strings belonging to the Return to AMO flow
 

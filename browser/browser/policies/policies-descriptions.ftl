@@ -21,6 +21,7 @@ policy-Bookmarks = Skapa bokmärken i bokmärkesfältet, bokmärkesmenyn eller e
 policy-CaptivePortal = Aktivera eller inaktivera captive portal support.
 policy-CertificatesDescription = Lägg till certifikat eller använd inbyggda certifikat.
 policy-Cookies = Tillåt eller neka webbplatser att lagra kakor
+policy-DefaultDownloadDirectory = Ange standard för nedladdningskatalog.
 policy-DisableAppUpdate = Förhindra att webbläsaren uppdateras.
 policy-DisableBuiltinPDFViewer = Inaktivera PDF.js, den inbyggda PDF-visaren i { -brand-short-name }.
 policy-DisableDeveloperTools = Blockera tillgång till utvecklarverktygen.
@@ -45,6 +46,7 @@ policy-DisplayBookmarksToolbar = Visa bokmärkesfältet som standard.
 policy-DisplayMenuBar = Visa menyraden som standard.
 policy-DNSOverHTTPS = Konfigurera DNS över HTTPS.
 policy-DontCheckDefaultBrowser = Inaktivera kontrollen av förvald webbläsare vid start.
+policy-DownloadDirectory = Ange och lås nedladdningskatalogen.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Aktivera eller inaktivera Innehållsblockering med möjlighet att låsa valet.
 # A “locked” extension can’t be disabled or removed by the user. This policy
@@ -52,6 +54,7 @@ policy-EnableTrackingProtection = Aktivera eller inaktivera Innehållsblockering
 # English or translate them as verbs.
 policy-Extensions = Installera, avinstallera eller låsa tillägg. Installeringsalternativet tar webbadresser eller sökvägar som parametrar. Alternativen för borttagning och låsning använder tilläggs-ID.
 policy-ExtensionUpdate = Aktivera eller inaktivera automatiska utökningsuppdateringar.
+policy-FirefoxHome = Konfigurera Firefox startsida.
 policy-FlashPlugin = Tillåt eller neka att insticksmodulen Flash används.
 policy-HardwareAcceleration = Om inaktiv, stäng av hårdvaruacceleration.
 # “lock” means that the user won’t be able to change this setting
@@ -67,6 +70,7 @@ policy-OverridePostUpdatePage = Åsidosätt sidan "Vad är nytt" efter uppdateri
 policy-Permissions = Ställ in behörigheter för kamera, mikrofon, plats och notifieringar.
 policy-PopupBlocking = Tillåt vissa webbplatser att visa popup-fönster som standard.
 policy-Preferences = Ställ in och lås värdet för en delmängd av inställningar.
+policy-PromptForDownloadLocation = Fråga var du ska spara filer när du laddar ner.
 policy-Proxy = Ange inställningar för proxy.
 policy-RequestedLocales = Ange listan över begärda språk för programmet efter ordning i inställningar.
 policy-SanitizeOnShutdown = Rensa all navigeringsdata vid avstängning.

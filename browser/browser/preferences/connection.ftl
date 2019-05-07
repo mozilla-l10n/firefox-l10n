@@ -76,6 +76,13 @@ connection-dns-over-https-url-default =
     .label = Använd standard ({ $url })
     .accesskey = A
     .tooltiptext = Använd standard-URL för att lösa DNS över HTTPS
+connection-dns-over-https-url-resolver = Använd leverantör
+    .accesskey = A
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (Standard)
+    .tooltiptext = Använd standardadressen för att lösa DNS över HTTPS
 connection-dns-over-https-url-custom =
     .label = Anpassad
     .accesskey = p
