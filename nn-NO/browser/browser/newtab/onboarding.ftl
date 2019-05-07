@@ -8,7 +8,12 @@
 onboarding-button-label-try-now = Prøv han no
 onboarding-button-label-get-started = Kom i gang
 onboarding-welcome-header = Velkomen til { -brand-short-name }
+onboarding-welcome-learn-more = Les meir om fordelane.
 onboarding-start-browsing-button-label = Start nettlesing
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
 
 ## These strings belong to the individual onboarding messages.
 

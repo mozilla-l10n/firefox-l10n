@@ -6,6 +6,7 @@ abuse-report-subtitle = Kva er problemet?
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = av <a data-l10n-name="author-name">{ $author-name }</a>
+abuse-report-submit-description = Beskriv problemet (valfritt)
 
 ## Panel buttons.
 
@@ -23,6 +24,7 @@ abuse-report-submit-button = Send inn
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-retry = Prøv ein gong til
 abuse-report-messagebar-action-cancel = Avbryt
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)

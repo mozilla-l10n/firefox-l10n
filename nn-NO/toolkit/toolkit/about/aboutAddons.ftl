@@ -288,3 +288,9 @@ addon-detail-reviews-link =
         [one] { $numberOfReviews } vurdering
        *[other] { $numberOfReviews } vurderingar
     }
+
+## Pending uninstall message bar
+
+addon-detail-updates-radio-default = Standard
+addon-detail-updates-radio-on = På
+addon-detail-updates-radio-off = Av
