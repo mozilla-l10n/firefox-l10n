@@ -53,3 +53,7 @@ cfr-doorhanger-pintab-step2 = Tscherna <b>Fixar il tab</b> en il menu.
 cfr-doorhanger-pintab-step3 = Sche la pagina è vegnida actualisada vesas ti in punct blau sin il tab fixà.
 cfr-doorhanger-pintab-animation-pause = Pausa
 cfr-doorhanger-pintab-animation-resume = Cuntinuar
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Sincronisescha tes segnapaginas dapertut.
