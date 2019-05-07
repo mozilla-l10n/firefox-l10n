@@ -53,3 +53,10 @@ cfr-doorhanger-pintab-step2 = Ticha' <b>Nak'oj Ruwi'</b> pa ri k'utsamaj.
 cfr-doorhanger-pintab-step3 = We k'o jun ruk'exoj ri ruxaq k'amaya'l, xtatz'ët jun xar chuq' pa ri ruwi' nak'ab'an.
 cfr-doorhanger-pintab-animation-pause = Tiq'at
 cfr-doorhanger-pintab-animation-resume = Titikïr chik el
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Xab'akuchi' Ke'axima' ri taq ayaketal.
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Tz'apïy pitz'b'äl
+    .title = Titz'apïx

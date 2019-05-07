@@ -5,10 +5,20 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-learn-more = Tetamäx ch'aqa' chik
 onboarding-button-label-try-now = Tatojtob'ej Wakami
 onboarding-button-label-get-started = Titikirisäx
 onboarding-welcome-header = Ütz apetik pa { -brand-short-name }
+onboarding-join-form-email =
+    .placeholder = Titz'ib'äx taqoya'l
+onboarding-join-form-email-error = Ütz taqoya'l najowäx
+onboarding-join-form-legal = Pa rub'eyal, rat nawojqaj ri <a data-l10n-name="terms">Rojqanem Samaj</a> chuqa' <a data-l10n-name="privacy">Rutzijol Ichinanem</a>.
+onboarding-join-form-continue = Titikïr chik el
 onboarding-start-browsing-button-label = Tichap Okem Pa K'amaya'l
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
 
 ## These strings belong to the individual onboarding messages.
 
