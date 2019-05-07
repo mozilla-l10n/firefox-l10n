@@ -51,3 +51,11 @@ cfr-doorhanger-pintab-step2 = Pilih <b>Sematkan Tab</b> dari menu.
 cfr-doorhanger-pintab-step3 = Jika situs  diperbarui, akan ada titik biru pada tab yang Anda sematkan.
 cfr-doorhanger-pintab-animation-pause = Jeda
 cfr-doorhanger-pintab-animation-resume = Lanjutkan
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Sinkronkan markah Anda di mana saja.
+cfr-doorhanger-bookmark-fxa-link-text = Sinkronkan markah sekarang…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Tombol tutup
+    .title = T
