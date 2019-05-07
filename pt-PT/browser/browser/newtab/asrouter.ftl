@@ -53,3 +53,9 @@ cfr-doorhanger-pintab-step2 = Selecione <b>Fixar separador</ b> a partir do menu
 cfr-doorhanger-pintab-step3 = Se o site tiver uma atualização irá ver um ponto azul no separador fixado.
 cfr-doorhanger-pintab-animation-pause = Pausar
 cfr-doorhanger-pintab-animation-resume = Retomar
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Sincronize os seus marcadores em todo o lado.
+cfr-doorhanger-bookmark-fxa-body = Ótimo achado! Agora não fique sem este marcador nos seus dispositivos móveis. Comece com uma { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-link-text = Sincronizar marcadores agora...

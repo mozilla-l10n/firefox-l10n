@@ -5,10 +5,27 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-learn-more = Saber mais
 onboarding-button-label-try-now = Experimentar agora
 onboarding-button-label-get-started = Começar
 onboarding-welcome-header = Bem-vindo(a) ao { -brand-short-name }
+onboarding-welcome-body = Já tem o navegador.<br/>Conheça o resto do { -brand-product-name }.
+onboarding-welcome-learn-more = Saiba mais acerca dos benefícios.
+onboarding-join-form-header = Junte-se ao { -brand-product-name }
+onboarding-join-form-body = Introduza o seu endereço de email para começar.
+onboarding-join-form-email =
+    .placeholder = Introduzir email
+onboarding-join-form-email-error = Email válido requerido
+onboarding-join-form-legal = Ao proceder, concorda com os <a data-l10n-name="terms">Termos de serviço</a> e <a data-l10n-name="privacy">Aviso de privacidade</a>.
+onboarding-join-form-continue = Continuar
 onboarding-start-browsing-button-label = Começar a navegar
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-title = Produtos úteis
+onboarding-benefit-knowledge-title = Conhecimento prático
+onboarding-benefit-privacy-title = Privacidade verdadeira
 
 ## These strings belong to the individual onboarding messages.
 
@@ -28,6 +45,23 @@ onboarding-ghostery-text = Navegue mais rápido, mais inteligentemente, ou com m
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sincronizar
 onboarding-fxa-text = Registe-se para uma { -fxaccount-brand-name } e sincronize os seus marcadores, palavras-passe, e separadores abertos onde quer que utilize o { -brand-short-name }.
+onboarding-data-sync-title = Leve as suas definições consigo
+onboarding-data-sync-button = Ligar o { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Fique atento(a) às brechas de dados
+onboarding-firefox-monitor-text = O { -monitor-brand-name } monitoriza se o seu email aparecer numa brecha de dados e alerta-lhe se este aparecer numa nova brecha.
+onboarding-browse-privately-title = Navegue privadamente
+onboarding-browse-privately-button = Abrir uma janela privada
+onboarding-firefox-send-title = Mantenha os seus ficheiros privados
+onboarding-firefox-send-text = O { -send-brand-name } protege os ficheiros que partilha partilha com encriptação de ponta a ponta e uma ligação que expira automaticamente.
+onboarding-firefox-send-button = Experimente o { -send-brand-name }
+onboarding-mobile-phone-title = Obtenha o { -brand-product-name } no seu telefone
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Transferir navegador móvel
+onboarding-pocket-anywhere-title = Leia e oiça em qualquer lugar
+onboarding-pocket-anywhere-button = Experimente o { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Leve as suas palavras-passe para todo o lado
+onboarding-lockwise-passwords-button = Obter o { -lockwise-brand-name }
 
 ## Message strings belonging to the Return to AMO flow
 
