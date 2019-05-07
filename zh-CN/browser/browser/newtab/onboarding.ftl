@@ -5,10 +5,17 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-learn-more = 详细了解
 onboarding-button-label-try-now = 立即尝鲜
 onboarding-button-label-get-started = 开始使用
 onboarding-welcome-header = 欢迎使用 { -brand-short-name }
+onboarding-join-form-legal = 若继续，即表示您同意我们的<a data-l10n-name="terms">服务条款</a>和<a data-l10n-name="privacy">隐私声明</a>。
+onboarding-join-form-continue = 继续
 onboarding-start-browsing-button-label = 开始浏览
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
 
 ## These strings belong to the individual onboarding messages.
 
@@ -28,6 +35,12 @@ onboarding-ghostery-text = 使用 Ghostery 等扩展拦截恼人的广告，让�
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = 同步
 onboarding-fxa-text = 注册 { -fxaccount-brand-name } 之后，您可在任何使用 { -brand-short-name } 的任何地方同步您的书签、密码和打开的标签页。
+onboarding-firefox-monitor-button = 订阅警报
+onboarding-browse-privately-button = 打开隐私窗口
+onboarding-firefox-send-button = 试用 { -send-brand-name }
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = 下载移动浏览器
 
 ## Message strings belonging to the Return to AMO flow
 
