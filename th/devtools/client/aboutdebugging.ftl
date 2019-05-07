@@ -183,6 +183,35 @@ about-debugging-extension-location =
 # For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
 about-debugging-extension-id =
     .label = ID ส่วนขยาย
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Notes, this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push = ผลัก
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start = เริ่ม
+# This string is displayed as a label of the button that unregisters a service worker.
+about-debugging-worker-action-unregister = เลิกลงทะเบียน
+# Displayed for service workers in runtime pages that are currently running (service
+# worker instance is active).
+about-debugging-worker-status-running = กำลังทำงาน
+# Displayed for service workers in runtime pages that are registered but stopped.
+about-debugging-worker-status-stopped = หยุดอยู่
+# Displayed for service workers in runtime pages that are registering.
+about-debugging-worker-status-registering = กำลังลงทะเบียน
+# Displayed for service workers in runtime pages, to label the scope of a worker
+about-debugging-worker-scope =
+    .label = ขอบเขต
+# Displayed for service workers in runtime pages, to label the push service endpoint (url)
+# of a worker
+about-debugging-worker-push-service =
+    .label = บริการผลัก
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-name = โปรเซสหลัก
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description2 = โปรเซสหลักสำหรับเบราว์เซอร์เป้าหมาย
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = ปิดข้อความ
