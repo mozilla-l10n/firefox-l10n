@@ -6,11 +6,11 @@
 <!ENTITY firstrun_urlbar_message2 "Terima kasih telah memilih &brandShortName;">
 <!ENTITY newfirstrun_urlbar_message "Selamat datang di &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Peramban seluler modern dari Mozilla, organisasi nirlaba yang berkomitmen untuk web yang bebas dan terbuka.">
-<!ENTITY newfirstrun_urlbar_subtext "Cepat, private, dan ada di sisi Anda.">
+<!ENTITY newfirstrun_urlbar_subtext "Cepat, pribadi, dan ada di sisi Anda.">
 <!ENTITY firstrun_panel_title_privacy "Privasi">
 <!ENTITY firstrun_privacy_message "Menjelajah seperti tidak ada yang mengawasi">
 <!ENTITY firstrun_privacy_subtext "Penjelajahan Pribadi dengan Perlindungan Pelacakan memblokir pelacak ketika Anda menjelajah dan tidak akan mengingat riwayat Anda saat Anda selesai menjelajah.">
-<!ENTITY newfirstrun_privacy_subtext "Penjelajahan privat memblokir pelacak iklan yang mengikuti Anda daring.">
+<!ENTITY newfirstrun_privacy_subtext "Penjelajahan pribadi memblokir pelacak iklan yang mengikuti Anda secara daring.">
 <!ENTITY firstrun_panel_title_customize "Ubahsuai">
 <!ENTITY firstrun_customize_message "Sesuaikan &brandShortName;.">
 <!ENTITY firstrun_customize_subtext "Ubahsuai &brandShortName; dengan pengaya. Blokir iklan, tambahkan fitur, atau pilih tema baru untuk mencerminkan kepribadian Anda.">
