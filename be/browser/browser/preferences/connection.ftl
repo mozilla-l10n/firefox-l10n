@@ -70,16 +70,21 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Уключыць DNS праз HTTPS
     .accesskey = р
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = URL для вызначэння DNS праз HTTPS
 # Variables:
 #   $url (String) - URL for the DNS over HTTPS provider
 connection-dns-over-https-url-default =
     .label = Выкарыстоўваць тыповы({ $url })
     .accesskey = В
     .tooltiptext = Выкарыстоўваць прадвызначаны URL для развязвання DNS праз HTTPS
+connection-dns-over-https-url-resolver = Выкарыстоўваць правайдар
+    .accesskey = п
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (прадвызначаны)
+    .tooltiptext = Выкарыстоўваць прадвызначаны URL для працы DNS паверх HTTPS
 connection-dns-over-https-url-custom =
     .label = Адмысловы
     .accesskey = с
     .tooltiptext = Увядзіце ўласны URL-адрас для развязвання DNS праз HTTPS
+connection-dns-over-https-custom-label = Адмысловы

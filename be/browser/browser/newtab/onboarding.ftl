@@ -5,10 +5,17 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-learn-more = Даведацца больш
 onboarding-button-label-try-now = Паспрабуйце зараз
 onboarding-button-label-get-started = Пачаць
 onboarding-welcome-header = Вітаем у { -brand-short-name }
+onboarding-join-form-email-error = Патрабуецца сапраўдны адрас эл.пошты
+onboarding-join-form-continue = Працягнуць
 onboarding-start-browsing-button-label = Пачаць агляданне
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
 
 ## These strings belong to the individual onboarding messages.
 
