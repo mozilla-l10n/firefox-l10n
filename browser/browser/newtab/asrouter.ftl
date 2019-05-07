@@ -51,3 +51,11 @@ cfr-doorhanger-pintab-step2 = 在菜单中选择<b>固定标签页</b>。
 cfr-doorhanger-pintab-step3 = 若网站有新动向，固定的标签页上会出现蓝色小点。
 cfr-doorhanger-pintab-animation-pause = 暂停
 cfr-doorhanger-pintab-animation-resume = 恢复
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = 把书签随身带着走
+cfr-doorhanger-bookmark-fxa-link-text = 立即同步书签...
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = 关闭按钮
+    .title = 关闭
