@@ -43,6 +43,13 @@ fonts-langgroup-hebrew =
     .label = Abbraicu
 fonts-langgroup-kannada =
     .label = Canarisi
+fonts-langgroup-khmer =
+    .label = Khmer
+fonts-langgroup-korean =
+    .label = Curianu
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Latinu
 
 ## Default fonts and their sizes
 
