@@ -76,3 +76,7 @@ connection-dns-over-https-url-default =
     .label = Usa pridifinutu ({ $url })
     .accesskey = U
     .tooltiptext = Usa l'URL pridifinutu p'arrisòrbiri lu DNS nne HTTPS
+connection-dns-over-https-url-custom =
+    .label = Pirsunalizza
+    .accesskey = P
+    .tooltiptext = Nzita l'URL ca prifirisci p'arrisòrbiri lu DNS nne HTTPS
