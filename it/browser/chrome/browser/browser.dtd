@@ -354,6 +354,8 @@
 <!ENTITY customizeMenu.manageExtension.accesskey "G">
 <!ENTITY customizeMenu.removeExtension.label "Rimuovi estensione">
 <!ENTITY customizeMenu.removeExtension.accesskey "R">
+<!ENTITY customizeMenu.reportExtension.label "Segnala estensione">
+<!ENTITY customizeMenu.reportExtension.accesskey "n">
 <!ENTITY moreMenu.label "Altro">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder2 "Inserisci un indirizzo o avvia una ricerca">
