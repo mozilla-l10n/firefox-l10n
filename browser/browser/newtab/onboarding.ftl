@@ -5,10 +5,15 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-learn-more = Saiba mais
 onboarding-button-label-try-now = Experimente agora
 onboarding-button-label-get-started = Começar
 onboarding-welcome-header = Boas-vindas ao { -brand-short-name }
 onboarding-start-browsing-button-label = Comece a navegar
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
 
 ## These strings belong to the individual onboarding messages.
 
