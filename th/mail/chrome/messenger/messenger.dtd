@@ -154,7 +154,7 @@
 
 <!ENTITY bodyMenuFeed.label "เนื้อความของข้อความฟีดเป็น">
 <!ENTITY viewFeedWebPage.label "หน้าเว็บ">
-<!ENTITY viewFeedSummary.label "บทสรุป">
+<!ENTITY viewFeedSummary.label "สรุป">
 <!ENTITY viewFeedSummaryFeedPropsPref.label "รูปแบบเริ่มต้น">
 
 <!ENTITY viewAttachmentsInlineCmd.label "แสดงไฟล์แนบแบบอินไลน์">
@@ -419,8 +419,8 @@
 
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "เพิกเฉยคำเตือนสำหรับข้อความนี้">
-<!ENTITY phishingOptionSettings.label "แก้ไขตัวเลือกการตรวจพบสแปม…">
-<!ENTITY phishingOptionSettingsUnix.label "แก้ไขค่ากำหนดการตรวจพบสแปม…">
+<!ENTITY phishingOptionSettings.label "แก้ไขตัวเลือกการตรวจหาการหลอกลวง…">
+<!ENTITY phishingOptionSettingsUnix.label "แก้ไขค่ากำหนดการตรวจหาการหลอกลวง…">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "ข้อความใหม่">
