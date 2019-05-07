@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+abuse-report-title-extension = Rapporter denne utvidinga til { -vendor-short-name }
 abuse-report-subtitle = Kva er problemet?
 # Variables:
 #   $author-name (string) - Name of the add-on author
