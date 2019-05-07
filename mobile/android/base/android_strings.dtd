@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Velkomin(n)">
 <!ENTITY firstrun_urlbar_message2 "Takk fyrir að velja &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Velkomin í &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Nútímanlegur vafri frá Mozilla fyrir handhæg tæki, hagnaðarlaus og skuldbundinn að viðhalda vefnum frjálsum og opnum.">
+<!ENTITY newfirstrun_urlbar_subtext "Hraður, persónulegur og með þér.">
 <!ENTITY firstrun_panel_title_privacy "Friðhelgi">
 <!ENTITY firstrun_privacy_message "Vafraðu eins og engin væri að fylgjast með">
 <!ENTITY firstrun_privacy_subtext "Einkavöfrun með vörn svo ekki sé fylgst með þér á meðan þú vafrar og ferlið þiitt er ekki vistað þegar þú hættir að vafra.">
+<!ENTITY newfirstrun_privacy_subtext "Huliðsvöfrun kemur í veg fyrir að auglýsingar elti þig uppi á netinu.">
 <!ENTITY firstrun_panel_title_customize "Sérsníða">
 <!ENTITY firstrun_customize_message "Stilltu &brandShortName; eftir eigin þörfum.">
 <!ENTITY firstrun_customize_subtext "Sérsníða &brandShortName; með viðbótum. Loka á auglýsingar, bæta við virkni eða velja nýja þemu til að endurspegla þínum persónuleika.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Samstilla">
 <!ENTITY firstrun_sync_message2 "Halda áfram þar sem frá var horfið.">
 <!ENTITY firstrun_sync_subtext2 "Notaðu samstillingu til að finna bókarmerki, lykilorð og annað sem þú hefur vistað í &brandShortName; á öllum þínum tækjum.">
+<!ENTITY newfirstrun_sync_subtext "Samstilltu á öruggan hátt það sem þú vistar í Firefox á farsímanum yfir á Firefox í tölvunni.">
 <!ENTITY firstrun_signin_message "Tengdu þig til að hefjast handa">
 <!ENTITY firstrun_signin_button "Skráðu þig inn til að samstilla">
+<!ENTITY newfirstrun_signin_button "Kveikja á samstillingu">
 <!ENTITY  onboard_start_button_browser "Fara að vafra">
 <!ENTITY firstrun_button_notnow "Ekki núna">
 <!ENTITY firstrun_button_next "Áfram">
@@ -409,6 +414,12 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_syncedTabs "Samstilltir flipar">
 
 <!ENTITY pref_default_browser "Nota sem sjálfgefinn vafri">
+
+<!ENTITY pref_default_browser2 "Gera &brandShortName; að sjálfgefnum vafra">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Ýttu á smáforritið &amp; veldu &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Fara á Mozilla stuðningssíðu">
 <!ENTITY pref_about_firefox "Um &brandShortName;">
 <!ENTITY pref_vendor_faqs "Tíðar spurningar">
@@ -503,6 +514,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "Fyrrverandi">
 <!ENTITY find_next "Áfram">
 <!ENTITY find_close "Loka">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "Fann ekki orðið">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
