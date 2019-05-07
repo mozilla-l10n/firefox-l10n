@@ -21,6 +21,28 @@ fonts-langgroup-simpl-chinese =
     .label = Cinisi simplificatu
 fonts-langgroup-trad-chinese-hk =
     .label = Cinisi tradizziunali (Hong Kong)
+fonts-langgroup-trad-chinese =
+    .label = Cinisi tradizziunali (Taiwan)
+fonts-langgroup-cyrillic =
+    .label = Cirìllicu
+fonts-langgroup-devanagari =
+    .label = Divanàgari
+fonts-langgroup-ethiopic =
+    .label = Etìupi
+fonts-langgroup-georgian =
+    .label = Giurgianu
+fonts-langgroup-el =
+    .label = Grecu
+fonts-langgroup-gujarati =
+    .label = Gugiarati
+fonts-langgroup-gurmukhi =
+    .label = Gurmuchi
+fonts-langgroup-japanese =
+    .label = Giappunisi
+fonts-langgroup-hebrew =
+    .label = Abbraicu
+fonts-langgroup-kannada =
+    .label = Canarisi
 
 ## Default fonts and their sizes
 
