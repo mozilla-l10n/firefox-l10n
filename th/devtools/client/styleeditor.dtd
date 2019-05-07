@@ -18,7 +18,7 @@
 <!ENTITY importButton.tooltip       "นำเข้าและผนวกแผ่นลักษณะที่มีอยู่ไปยังเอกสาร">
 <!ENTITY importButton.accesskey     "น">
 
-<!ENTITY visibilityToggle.tooltip   "Toggle style sheet visibility">
+<!ENTITY visibilityToggle.tooltip   "เปิด/ปิดการมองเห็นแผ่นลักษณะ">
 
 <!ENTITY saveButton.label           "บันทึก">
 <!ENTITY saveButton.tooltip         "บันทึกแผ่นลักษณะนี้เป็นไฟล์">
