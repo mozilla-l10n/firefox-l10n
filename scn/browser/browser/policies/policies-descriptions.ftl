@@ -21,6 +21,7 @@ policy-Bookmarks = Cria nzingalibbra nnâ Batta dî nzingalibbra, nnô Minù dî
 policy-CaptivePortal = Abbìlita o disabbìlita lu supportu pû purtali cuntrullatu.
 policy-CertificatesDescription = Agghiunci cirtificati o usa cirtificati ntigrati.
 policy-Cookies = Cunzenti o nija ê siti di mpustari cookie.
+policy-DefaultDownloadDirectory = Mposta la carpetta di scarricamentu pridifinuta.
 policy-DisableAppUpdate = Mpidisci ô browser di aggiurnàrisi.
 policy-DisableBuiltinPDFViewer = Disabbìlita PDF.js, lu visuallizzaturi di PDF ntigratu nne { -brand-short-name }.
 policy-DisableDeveloperTools = Blocca l'accessu ê strumenti pi diviluppatura.
@@ -45,6 +46,7 @@ policy-DisplayBookmarksToolbar = Mustra la Barra dî strumenti dî nzingalibbra 
 policy-DisplayMenuBar = Mustra la Barra dû minù comu mpustazziuni pridifinuta.
 policy-DNSOverHTTPS = Cunfijura lu DNS ncapu a HTTPS.
 policy-DontCheckDefaultBrowser = Disabbìlita lu cuntrollu dû browser pridifinutu all'abbìu.
+policy-DownloadDirectory = Mposta e blocca la carpetta di scarricamentu.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Abbìlita o disabbìlita lu Bloccu dû cuntinutu e si voi blòccalu.
 # A “locked” extension can’t be disabled or removed by the user. This policy
@@ -52,6 +54,7 @@ policy-EnableTrackingProtection = Abbìlita o disabbìlita lu Bloccu dû cuntinu
 # English or translate them as verbs.
 policy-Extensions = Nstalla, disinstalla o blocca li stinziuna. La pussibbilità di scègghiri Nstalla pigghia l'URL o li pircursi comu paràmitri. Li pussibbilità di scègghiri Disinstalla o Bluccatu pìgghianu l'ID dî stinziuna.
 policy-ExtensionUpdate = Abbìlita o disabbìlita l'aggiurnamentu autumàticu dî stinziuna.
+policy-FirefoxHome = Cunfijura la pàggina mastra di Firefox.
 policy-FlashPlugin = Cunzenti o nija l'usu dû cumpunenti agghiuntivu Flash.
 policy-HardwareAcceleration = Si è fausu, astuta accillirazziuni hardware.
 # “lock” means that the user won’t be able to change this setting
@@ -67,6 +70,7 @@ policy-OverridePostUpdatePage = Gnora la pàggina di post-aggiurnamentu "Quali s
 policy-Permissions = Cunfijura li pirmisi pi càmira, micròfunu, lucalizzazziuni e nutìfichi.
 policy-PopupBlocking = Cunzenti a certi siti di mustrari finestri autumatichi comu mpustazziuni pridifinuta.
 policy-Preferences = Mposta e blocca lu valuri pi un suttanzemi di prifirenzi.
+policy-PromptForDownloadLocation = Spia unni sarbari li plichi quannu li scàrrichi.
 policy-Proxy = Cunfijura mpustazziuna dû proxy.
 policy-RequestedLocales = Mposta la lista di plichi lucali nicissari pi l'appricazziuni 'n ùrdini di prifirenza.
 policy-SanitizeOnShutdown = Cancella tutti li dati di navigazziuni chujennu.

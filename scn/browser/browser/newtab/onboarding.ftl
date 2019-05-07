@@ -84,6 +84,17 @@ onboarding-send-tabs-title = Mànnati li schedi di sùbbitu
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Manna schedi sparti di sùbbitu li pàggini ntra li to dispusitivi senza ca ài a cupiari, ncuḍḍari o nèsciri dû navigaturi.
+onboarding-send-tabs-button = Accumincia a usari Manna schedi
+onboarding-pocket-anywhere-title = Leggi e ascuta unn'è-è
+# "downtime" refers to the user's free/spare time.
+onboarding-pocket-anywhere-text = { -pocket-brand-name } sarba li stori ca prifirisci accussì tî po' lèggiri, ascutari e taliari nnô tempu lìbbiru, puru si sì fora linia.
+onboarding-pocket-anywhere-button = Prova { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Pòrtati la palora d'accessu unn'è-è
+onboarding-lockwise-passwords-text = { -lockwise-brand-name } ti sarba li palori d'accessu nna un postu sicuru accussì po' tràsiri fàcili nnê to cunti.
+onboarding-lockwise-passwords-button = Scàrrica { -lockwise-brand-name }
+onboarding-facebook-container-title = Mèttici li paletti a Facebook
+onboarding-facebook-container-text = { -facebook-container-brand-name } teni la to identitati di Facebook siparata di tutti l'autri cosi, accussì è cchiù diffìcili trazzàriti nnâ Riti.
+onboarding-facebook-container-button = Agghiunci stinziuni
 
 ## Message strings belonging to the Return to AMO flow
 
