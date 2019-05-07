@@ -284,3 +284,16 @@ addon-detail-reviews-link =
         [one] { $numberOfReviews } recension
        *[other] { $numberOfReviews } recensioner
     }
+
+## Pending uninstall message bar
+
+pending-uninstall-undo-button = Ångra
+addon-detail-updates-label = Tillåt automatiska uppdateringar
+addon-detail-updates-radio-default = Standard
+addon-detail-updates-radio-on = På
+addon-detail-updates-radio-off = Av
+addon-detail-update-check-label = Sök efter uppdateringar
+install-update-button = Uppdatera
+addon-detail-private-browsing-allow = Tillåt
+addon-detail-private-browsing-disallow = Tillåt inte
+available-updates-heading = Tillgängliga uppdateringar
