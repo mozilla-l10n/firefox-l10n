@@ -9,11 +9,17 @@ onboarding-button-label-learn-more = Saiba mais
 onboarding-button-label-try-now = Experimente agora
 onboarding-button-label-get-started = Começar
 onboarding-welcome-header = Boas-vindas ao { -brand-short-name }
+onboarding-welcome-learn-more = Saiba mais sobre os benefícios.
+onboarding-join-form-body = Digite seu endereço de e-mail para começar.
+onboarding-join-form-continue = Continuar
 onboarding-start-browsing-button-label = Comece a navegar
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = Produtos úteis
+onboarding-benefit-knowledge-title = Conhecimento prático
+onboarding-benefit-privacy-title = Privacidade verdadeira
 
 ## These strings belong to the individual onboarding messages.
 
@@ -33,6 +39,14 @@ onboarding-ghostery-text = Navegue mais rápido, mais esperto, ou mais seguro co
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sincronizar
 onboarding-fxa-text = Cadastre uma { -fxaccount-brand-name } e sincronize seus favoritos, senhas e abas abertas onde quer que você use o { -brand-short-name }.
+onboarding-tracking-protection-title = Controle como você é rastreado
+onboarding-data-sync-title = Leve suas configurações com você
+onboarding-data-sync-button = Ativar o { -sync-brand-short-name }
+onboarding-browse-privately-title = Navegue com privacidade
+onboarding-browse-privately-button = Abrir uma janela privativa
+onboarding-firefox-send-title = Mantenha privativos seus arquivos compartilhados
+onboarding-firefox-send-button = Experimente o { -send-brand-name }
+onboarding-mobile-phone-title = Instale o { -brand-product-name } no seu celular
 
 ## Message strings belonging to the Return to AMO flow
 
