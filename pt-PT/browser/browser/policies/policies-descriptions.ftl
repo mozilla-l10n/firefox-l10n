@@ -21,6 +21,7 @@ policy-Bookmarks = Criar marcadores na barra de ferramentas de marcadores, menus
 policy-CaptivePortal = Ativar ou desativar o suporte ao portal cativo.
 policy-CertificatesDescription = Adicionar certificados ou utilizar certificados integrados.
 policy-Cookies = Permitir ou negar que os sites definam cookies.
+policy-DefaultDownloadDirectory = Definir o diretório de transferências predefinido.
 policy-DisableAppUpdate = Impedir o navegador de ser atualizado.
 policy-DisableBuiltinPDFViewer = Desativar o PDF.js, o leitor de PDF incorporado no { -brand-short-name }.
 policy-DisableDeveloperTools = Bloquear acesso às ferramentas de programador.
@@ -45,6 +46,7 @@ policy-DisplayBookmarksToolbar = Mostrar a Barra ferramentas de marcadores por p
 policy-DisplayMenuBar = Mostrar a Barra de menu por predefinição.
 policy-DNSOverHTTPS = Configurar DNS por HTTPS.
 policy-DontCheckDefaultBrowser = Desativar verificação por navegador predefinido no arranque.
+policy-DownloadDirectory = Definir e bloquear o diretório de transferências predefinido.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Ativar ou desativar o Bloqueio de conteúdo e bloqueá-lo opcionalmente.
 # A “locked” extension can’t be disabled or removed by the user. This policy
@@ -52,6 +54,7 @@ policy-EnableTrackingProtection = Ativar ou desativar o Bloqueio de conteúdo e 
 # English or translate them as verbs.
 policy-Extensions = Instalar, desinstalar ou bloquear extensões. A opção Instalar usa URLs ou caminhos como parâmetros. As opções Desinstalar e Bloquear usam IDs de extensões.
 policy-ExtensionUpdate = Ativar ou desativar atualizações automáticas de extensões.
+policy-FirefoxHome = Configurar o Firefox Home.
 policy-FlashPlugin = Permitir ou negar a utilização do plugin Flash.
 policy-HardwareAcceleration = Se falso, desligar aceleração de hardware.
 # “lock” means that the user won’t be able to change this setting
@@ -67,6 +70,7 @@ policy-OverridePostUpdatePage = Sobrepor a página "Novidades" pós-atualizaçã
 policy-Permissions = Configurar permissões para a câmara, microfone, localização e notificações.
 policy-PopupBlocking = Permitir certos websites de mostrar popups por predefinição.
 policy-Preferences = Definir e bloquear o valor para um subconjunto de preferências.
+policy-PromptForDownloadLocation = Perguntar onde guardar os ficheiros durante a transferência.
 policy-Proxy = Configurar definições proxy.
 policy-RequestedLocales = Definir a lista de idiomas solicitados para a aplicação por ordem de preferência.
 policy-SanitizeOnShutdown = Limpar todos os dados de navegação ao desligar.
