@@ -8,7 +8,15 @@
 onboarding-button-label-try-now = Prova nu
 onboarding-button-label-get-started = Kom igång
 onboarding-welcome-header = Välkommen till { -brand-short-name }
+onboarding-join-form-email =
+    .placeholder = Ange e-postadress
+onboarding-join-form-email-error = Giltig e-postadress krävs
+onboarding-join-form-continue = Fortsätt
 onboarding-start-browsing-button-label = Börja surfa
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
 
 ## These strings belong to the individual onboarding messages.
 
