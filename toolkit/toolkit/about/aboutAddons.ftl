@@ -354,6 +354,10 @@ expand-addon-button = Meer opties
 addons-enabled-heading = Ingeschakeld
 addons-disabled-heading = Uitgeschakeld
 
+ask-to-activate-button = Vragen om te activeren
+always-activate-button = Altijd activeren
+never-activate-button = Nooit activeren
+
 addon-detail-author-label = Schrijver
 addon-detail-version-label = Versie
 addon-detail-last-updated-label = Laatst bijgewerkt
@@ -373,3 +377,18 @@ addon-detail-reviews-link =
         [one] { $numberOfReviews } beoordeling
        *[other] { $numberOfReviews } beoordelingen
     }
+
+addon-detail-updates-label = Automatische updates toestaan
+addon-detail-updates-radio-default = Standaard
+addon-detail-updates-radio-on = Aan
+addon-detail-updates-radio-off = Uit
+addon-detail-update-check-label = Controleren op updates
+install-update-button = Bijwerken
+
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Toegestaan in privévensters
+addon-detail-private-browsing-help = Wanneer toegestaan, heeft de extensie toegang tot uw online-activiteiten tijdens privénavigatie. <a data-l10n-name="learn-more">Meer info</a>
+addon-detail-private-browsing-allow = Toestaan
+addon-detail-private-browsing-disallow = Niet toestaan
