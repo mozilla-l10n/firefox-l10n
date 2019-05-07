@@ -294,3 +294,13 @@ addon-detail-reviews-link =
         [one] { $numberOfReviews } avaliação
        *[other] { $numberOfReviews } avaliações
     }
+
+## Pending uninstall message bar
+
+pending-uninstall-undo-button = Desfazer
+addon-detail-updates-radio-default = Padrão
+install-update-button = Atualizar
+addon-detail-private-browsing-allow = Permitir
+addon-detail-private-browsing-disallow = Não permitir
+available-updates-heading = Atualizações disponíveis
+recent-updates-heading = Atualizações recentes

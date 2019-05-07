@@ -53,3 +53,11 @@ cfr-doorhanger-pintab-step2 = Selecione <b>Fixar aba</b> no menu.
 cfr-doorhanger-pintab-step3 = Se o site tiver uma atualização, aparece um ponto azul na aba fixada.
 cfr-doorhanger-pintab-animation-pause = Pausar
 cfr-doorhanger-pintab-animation-resume = Continuar
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Sincronize seus favoritos em qualquer lugar.
+cfr-doorhanger-bookmark-fxa-link-text = Sincronizar favoritos agora…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Botão fechar
+    .title = Fechar
