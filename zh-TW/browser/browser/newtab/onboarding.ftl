@@ -87,7 +87,7 @@ onboarding-send-tabs-text = Send Tabs 可即時於您的各個裝置間分享分
 onboarding-send-tabs-button = 開始使用 Send Tabs
 onboarding-pocket-anywhere-title = 隨處閱讀隨處聽
 # "downtime" refers to the user's free/spare time.
-onboarding-pocket-anywhere-text = { -pocket-brand-name } 可將您最愛的文章儲存下來，這樣就可以在有空的時候閱讀、聆聽或觀賞，就算離線也沒問題。
+onboarding-pocket-anywhere-text = { -pocket-brand-name } 可儲存您喜愛的文章，這樣就可以等有空再閱讀、聆聽或觀賞，就算離線也沒問題。
 onboarding-pocket-anywhere-button = 試用 { -pocket-brand-name }
 onboarding-lockwise-passwords-title = 密碼隨身帶著走
 onboarding-lockwise-passwords-text = { -lockwise-brand-name } 會安全地儲存您的密碼，讓您可輕鬆在各個網站上登入帳號。
