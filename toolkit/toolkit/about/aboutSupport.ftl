@@ -216,6 +216,7 @@ gpu-device-id = Enw Dyfais
 gpu-subsys-id = Enw subsys
 gpu-drivers = Gyrwyr
 gpu-ram = RAM
+gpu-driver-vendor = Gwerthwr Gyrwyr
 gpu-driver-version = Fersiwn Gyrrwr
 gpu-driver-date = Dyddiad y Gyrrwr
 gpu-active = Gweithredol
