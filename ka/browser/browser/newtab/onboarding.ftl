@@ -22,7 +22,11 @@ onboarding-start-browsing-button-label = დაიწყეთ მოგზა�
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
-onboarding-benefit-products-title = სასარგებლო
+onboarding-benefit-products-title = სასარგებლო საშუალებები
+onboarding-benefit-products-text = იმუშავეთ შედეგიანად ხელსაწყოების ნაკრებით, რომლებიც პატივს სცემს თქვენი პირადი მონაცემების ხელშეუხებლობას, ყველა თქვენს მოწყობილობაზე.
+onboarding-benefit-knowledge-title = გამოსადეგი ცოდნა
+onboarding-benefit-knowledge-text = მიიღეთ საჭირო ცოდნა, ინტერნეტის გონივრულად და უსაფრთხოდ გამოსაყენებლად.
+onboarding-benefit-privacy-title = ჭეშმარიტი პირადულობა
 
 ## These strings belong to the individual onboarding messages.
 
