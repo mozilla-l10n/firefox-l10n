@@ -53,3 +53,11 @@ cfr-doorhanger-pintab-step2 = יש לבחור ב<b>נעיצת לשונית</b> �
 cfr-doorhanger-pintab-step3 = אם לאתר זה יהיה עדכון, תופיע נקודה כחולה על הלשונית הנעוצה שלך.
 cfr-doorhanger-pintab-animation-pause = השהיה
 cfr-doorhanger-pintab-animation-resume = המשך
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = סנכרון הסימניות שלך לכל מקום.
+cfr-doorhanger-bookmark-fxa-link-text = סנכרון הסימניות כעת…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = כפתור סגירה
+    .title = סגירה
