@@ -76,7 +76,13 @@ connection-dns-over-https-url-default =
     .label = Usar padrão ({ $url })
     .accesskey = U
     .tooltiptext = Usar a URL padrão para resolver DNS sobre HTTPS
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (padrão)
+    .tooltiptext = Usar a URL padrão para resolver DNS sobre HTTPS
 connection-dns-over-https-url-custom =
     .label = Personalizado
     .accesskey = P
     .tooltiptext = Insira sua URL preferida para resolver DNS sobre HTTPS
+connection-dns-over-https-custom-label = Personalizado
