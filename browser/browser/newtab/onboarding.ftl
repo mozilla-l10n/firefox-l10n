@@ -91,6 +91,10 @@ onboarding-pocket-anywhere-text = Mae { -pocket-brand-name } yn cadw eich hoff s
 onboarding-pocket-anywhere-button = Rhowch gynnig ar { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Cymrwch Eich Cyfrineiriau i Bob Man
 onboarding-lockwise-passwords-text = Mae { -lockwise-brand-name } yn cadw'ch cyfrineiriau mewn man diogel er mwyn i chi allu mewngofnodi yn hawdd i'ch cyfrifon.
+onboarding-lockwise-passwords-button = Estyn { -lockwise-brand-name }
+onboarding-facebook-container-title = Gosod Ffiniau i Facebook
+onboarding-facebook-container-text = Mae { -facebook-container-brand-name } yn cadw eich hunaniaeth Facebook ar wahân i bopeth arall, gan ei gwneud yn anos eich tracio ar draws y we.
+onboarding-facebook-container-button = Ychwanegu'r Estyniad
 
 ## Message strings belonging to the Return to AMO flow
 
