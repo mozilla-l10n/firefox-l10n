@@ -50,12 +50,57 @@ fonts-langgroup-korean =
 # Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
 fonts-langgroup-latin =
     .label = Latinu
+fonts-langgroup-malayalam =
+    .label = Malayalam
+fonts-langgroup-math =
+    .label = Matimàtica
+fonts-langgroup-odia =
+    .label = Odia
+fonts-langgroup-sinhala =
+    .label = Singalisi
+fonts-langgroup-tamil =
+    .label = Tamil
+fonts-langgroup-telugu =
+    .label = Tilugu
+fonts-langgroup-thai =
+    .label = Tai
+fonts-langgroup-tibetan =
+    .label = Tibbitanu
+fonts-langgroup-canadian =
+    .label = Sillabbariu Canadisi Unificatu
+fonts-langgroup-other =
+    .label = Autri sistemi di scrittura
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Prupurziunali
+    .accesskey = P
+fonts-default-serif =
+    .label = Chî grazzi
+fonts-default-sans-serif =
+    .label = Senza grazzi
+fonts-proportional-size = Diminziuni
+    .accesskey = z
+fonts-serif = Chî grazzi
+    .accesskey = S
+fonts-sans-serif = Senza grazzi
+    .accesskey = n
+fonts-monospace = Monuspazziu
+    .accesskey = M
+fonts-monospace-size = Diminziuni
+    .accesskey = e
+fonts-minsize = Diminziuni mìnima dû caràttiri
+    .accesskey = o
+fonts-minsize-none =
+    .label = Nuḍḍu
+fonts-allow-own =
+    .label = Pirmetti ê pàggini di scègghiri lu so caràttiri mmeci dî to scigghiuti supra
+    .accesskey = A
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Cudìfica testu pi cuntinutu datatu
+fonts-languages-fallback-desc = Sta cudìfica testu veni usata pû cuntinutu datatu ca nun arrinesci a cumunicari la so cudìfica.
