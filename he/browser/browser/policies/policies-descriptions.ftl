@@ -21,6 +21,7 @@ policy-Bookmarks = יצירת סימניות בסרגל הסימניות, תפר
 policy-CaptivePortal = הפעלה או השבתה של תמיכה ב־Captive Portal.
 policy-CertificatesDescription = הוספת אישורים או שימוש באישורים מובנים.
 policy-Cookies = לאשר או לסרב להגדרת עוגיות מאתרים.
+policy-DefaultDownloadDirectory = הגדרת תיקיית ההורדות ברירת המחדל.
 policy-DisableAppUpdate = מניעת עדכון הדפדפן.
 policy-DisableBuiltinPDFViewer = נטרול PDF.js, מציג ה־PDF המובנה ב־{ -brand-short-name }.
 policy-DisableDeveloperTools = חסימת גישה לכלי הפיתוח.
@@ -52,6 +53,7 @@ policy-EnableTrackingProtection = הפעלה או השבתה של חסימת ת�
 # English or translate them as verbs.
 policy-Extensions = התקנה, הסרה או נעילה של הרחבות. אפשרות ההתקנה מקבלת כתובות או נתיבים בתור משתנים. האפשרויות להסרה ולנעילה מקבלות מזהים של הרחבות.
 policy-ExtensionUpdate = הפעלה או השבתה של עדכונים אוטומטיים להרחבות.
+policy-FirefoxHome = הגדרת תצורה של מסך הבית של Firefox.
 policy-FlashPlugin = לאפשר או לדחות את השימוש בתוסף החיצוני Flash.
 policy-HardwareAcceleration = כיבוי האצת חומרה אם מוגדר כ־false.
 # “lock” means that the user won’t be able to change this setting
@@ -66,6 +68,7 @@ policy-OverridePostUpdatePage = שינוי כתובת הדף ״מה חדש״ ה�
 policy-Permissions = קביעת תצורה של הרשאות עבור מצלמה, מיקרופון, מיקום והתרעות.
 policy-PopupBlocking = לאפשר לאתרים מסוימים להקפיץ חלונות כברירת מחדל.
 policy-Preferences = הגדרה ונעילת הערכים עבור חלק מההעדפות.
+policy-PromptForDownloadLocation = הצגת שאלה היכן לשמור קבצים בזמן הורדה.
 policy-Proxy = קביעת תצורה של הגדרות שרת מתווך.
 policy-RequestedLocales = הגדרת רשימת השפות המבוקשות עבור היישום לפי סדר העדפה.
 policy-SanitizeOnShutdown = ניקוי כל נתוני הניווט עם הכיבוי.
