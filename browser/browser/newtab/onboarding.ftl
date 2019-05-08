@@ -48,6 +48,7 @@ onboarding-ghostery-text = 使用 Ghostery 等扩展拦截恼人的广告，让�
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = 同步
 onboarding-fxa-text = 注册 { -fxaccount-brand-name } 之后，您可在任何使用 { -brand-short-name } 的任何地方同步您的书签、密码和打开的标签页。
+onboarding-tracking-protection-title = 控制您如何被跟踪
 onboarding-tracking-protection-text = 不喜欢有广告在到处跟踪你？ { -brand-short-name } 可帮助您控制广告商如何在网上跟踪您的在线活动。
 # "Update" is a verb, as in "Update the existing settings", not "Options about
 # updates".
