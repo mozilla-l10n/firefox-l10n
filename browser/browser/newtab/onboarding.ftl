@@ -23,8 +23,11 @@ onboarding-start-browsing-button-label = 开始浏览
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = 有用的产品
 onboarding-benefit-products-text = 使用各种尊重您隐私的工具，更快完成工作。
+onboarding-benefit-knowledge-title = 实用小知识
 onboarding-benefit-knowledge-text = 了解所需要知道的一切，让您上网更智能、更安全。
+onboarding-benefit-privacy-title = 保障隐私权
 # "Personal Data Promise" should be treated as a brand and should be kept in
 # English. It refers to a concept shown elsewhere to the user: "The Firefox
 # Personal Data Promise is the way we honor your data in everything we make and
@@ -51,7 +54,7 @@ onboarding-ghostery-text = 使用 Ghostery 等扩展拦截恼人的广告，让�
 onboarding-fxa-title = 同步
 onboarding-fxa-text = 注册 { -fxaccount-brand-name } 之后，您可在任何使用 { -brand-short-name } 的任何地方同步您的书签、密码和打开的标签页。
 onboarding-tracking-protection-title = 控制您如何被跟踪
-onboarding-tracking-protection-text = 不喜欢有广告在到处跟踪你？ { -brand-short-name } 可帮助您控制广告商如何在网上跟踪您的在线活动。
+onboarding-tracking-protection-text = 不喜欢被广告四处跟踪？ { -brand-short-name } 可助您控制广告商在网上跟踪您在线活动的方式。
 # "Update" is a verb, as in "Update the existing settings", not "Options about
 # updates".
 onboarding-tracking-protection-button =
