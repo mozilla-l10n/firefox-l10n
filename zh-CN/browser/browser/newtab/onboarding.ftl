@@ -9,6 +9,7 @@ onboarding-button-label-learn-more = 详细了解
 onboarding-button-label-try-now = 立即尝鲜
 onboarding-button-label-get-started = 开始使用
 onboarding-welcome-header = 欢迎使用 { -brand-short-name }
+onboarding-welcome-body = 浏览器安装完成。<br/>了解 { -brand-product-name } 的其他功能。
 onboarding-join-form-header = 加入 { -brand-product-name }
 onboarding-join-form-body = 请在此输入您的电子邮箱地址，即可开始使用。
 onboarding-join-form-email =
@@ -47,10 +48,13 @@ onboarding-tracking-protection-button =
         [windows] 更新选项
        *[other] 更新首选项
     }
+onboarding-data-sync-title = 将您的设置随身带着走
+onboarding-data-sync-button = 开启{ -sync-brand-short-name }
 onboarding-firefox-monitor-title = 警惕数据外泄
 onboarding-firefox-monitor-button = 订阅警报
 onboarding-browse-privately-title = 私密浏览
 onboarding-browse-privately-button = 打开隐私窗口
+onboarding-firefox-send-title = 以私密的方式分享文件
 onboarding-firefox-send-button = 试用 { -send-brand-name }
 onboarding-mobile-phone-title = 获取手机版 { -brand-product-name }
 onboarding-mobile-phone-text = 下载适用于 iOS 或 Android 的 { -brand-product-name }，即可跨设备同步数据。
@@ -63,8 +67,11 @@ onboarding-pocket-anywhere-title = 随时随地阅读和聆听
 # "downtime" refers to the user's free/spare time.
 onboarding-pocket-anywhere-text = { -pocket-brand-name } 可保存您喜爱的故事，以便您闲暇时阅读、聆听和观看，离线亦不在话下。
 onboarding-pocket-anywhere-button = 试用 { -pocket-brand-name }
+onboarding-lockwise-passwords-title = 将您的密码随身带着走
+onboarding-lockwise-passwords-text = { -lockwise-brand-name } 会将您的密码保存在安全的地方，让您可轻松登录账号。
 onboarding-lockwise-passwords-button = 获取 { -lockwise-brand-name }
 onboarding-facebook-container-title = 为 Facebook 设置边界
+onboarding-facebook-container-text = { -facebook-container-brand-name } 可将您的 Facebook 身份与其他网站隔离，使 Facebook 难以跟踪您在网络上的一举一动。
 onboarding-facebook-container-button = 添加扩展
 
 ## Message strings belonging to the Return to AMO flow
