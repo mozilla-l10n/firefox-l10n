@@ -52,8 +52,8 @@ onboarding-browse-privately-title = Naviga in modo riservato
 onboarding-browse-privately-text = La navigazione anonima non conserva la cronologia di ricerca e navigazione, mantenendo le tue abitudini di navigazione al sicuro da chiunque altro utilizzi il tuo computer.
 onboarding-browse-privately-button = Apri una finestra anonima
 
-onboarding-firefox-send-title = Mantieni al sicuro i tuoi file condivisi
-onboarding-firefox-send-text = { -send-brand-name } protegge i file che condividi con crittografia end-to-end e un link che scade automaticamente.
+onboarding-firefox-send-title = Mantieni al sicuro i file che condividi
+onboarding-firefox-send-text = { -send-brand-name } protegge i file condivisi con crittografia end-to-end e un link che scade automaticamente.
 onboarding-firefox-send-button = Prova { -send-brand-name }
 
 onboarding-mobile-phone-title = Installa { -brand-product-name } sul tuo telefono
