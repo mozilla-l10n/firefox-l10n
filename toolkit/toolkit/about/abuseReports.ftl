@@ -4,14 +4,14 @@
 
 abuse-report-title-extension = საჩივარს ამ გაფართოების შესახებ გაეცნოს { -vendor-short-name }
 abuse-report-title-theme = საჩივარს, ამ თემის შესახებ გაეცნოს { -vendor-short-name }
-abuse-report-subtitle = რა ხარვეზებია?
+abuse-report-subtitle = რას ეხება საქმე?
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = შემქმნელი <a data-l10n-name="author-name">{ $author-name }</a>
 abuse-report-learnmore =
-    ზუსტად არ იცით რა ხარვეზი უნდა მიუთითოთ?
-    <a data-l10n-name="learnmore-link">იხილეთ ვრცლად, გაფართოებებისა და თემების შესახებ საჩივარის გაგზავნაზე</a>
-abuse-report-submit-description = აღწერეთ ხარვეზი (არასავალდებულო)
+    ზუსტად არ იცით რა უნდა მიუთითოთ?
+    <a data-l10n-name="learnmore-link">იხილეთ ვრცლად, გაფართოებებისა და თემების შესახებ საჩივრის გაგზავნაზე</a>
+abuse-report-submit-description = აღწერეთ საკითხი (არასავალდებულო)
 abuse-report-textarea =
     .placeholder = დაწვრილებითი ინფორმაცია გვეხმარება ხარვეზის გამორკვევაში. გთხოვთ, აღწეროთ რა დაბრკოლებას გადააწყდით. გმადლობთ, რომ გვეხმარებით ვებსივრცის სიჯანსაღის შენარჩუნებაში.
 abuse-report-submit-note =
@@ -49,7 +49,7 @@ abuse-report-messagebar-action-cancel = გაუქმება
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-damage-reason = ზიანს აყენებს ჩემს კომპიუტერსა და მონაცემებს
-abuse-report-damage-example = მაგალითად: დააყენა მავნე პროგრამები ან მოიპარა მონაცემები
+abuse-report-damage-example = მაგალითად: დააყენა მავნე პროგრამა ან მოიპარა მონაცემები
 abuse-report-spam-reason = აგდებს შემაწუხებელ რეკლამებს
 abuse-report-spam-example = მაგალითად: ათავსებს რეკლამებს ვებგვერდებზე
 abuse-report-settings-reason = შეცვალა ჩემი საძიებო სისტემა, საწყისი გვერდი ან ახალი ჩანართი უნებართვოდ
@@ -61,3 +61,18 @@ abuse-report-deceptive-example = მაგალითად: შემაცდ
 abuse-report-broken-reason-extension = არ იმუშავა, დააზიანა ვებსაიტები ან შეანელა { -brand-product-name }
 abuse-report-broken-reason-theme = არ მუშაობს ან აზიანებს ბრაუზერის გამოსახულებას
 abuse-report-broken-example = მაგალითად: შესაძლებლობები ნელია, რთული გამოსაყენებელია ან არ მუშაობს; საიტების ნაწილი არ იტვირთება ან უჩვეულოდ გამოიყურება
+abuse-report-broken-suggestions-extension =
+    როგორც ჩანს, თქვენ აღმოაჩინეთ ხარვეზი. აქ გამოგზავნილი მოხსენების გარდა, კარგი იქნება, თუ მუშაობასთან დაკავშირებული საკითხების მოსაგვარებლად, თავად გაფართოების შემმუშავებელს დაუკავშირდებით.
+    <a data-l10n-name="support-link">ეწვიეთ გაფართოების ვებსაიტს</a> შემმუშავებელთან დასაკავშირებლად.
+abuse-report-broken-suggestions-theme =
+    როგორც ჩანს, თქვენ აღმოაჩინეთ ხარვეზი. აქ გამოგზავნილი მოხსენების გარდა, კარგი იქნება, თუ მუშაობასთან
+    დაკავშირებული საკითხების მოსაგვარებლად, თავად თემის შემმუშავებელს დაუკავშირდებით.
+    <a data-l10n-name="support-link">ეწვიეთ თემის ვებსაიტს</a> შემმუშავებელთან დასაკავშირებლად.
+abuse-report-policy-reason = სიძულვილის, ძალადობის ან უკანონობის შემცველი
+abuse-report-policy-suggestions =
+    შენიშვნა: საავტორო უფლებებისა და სავაჭრო ნიშნების დარღვევების შესახებ, მოხსენებები ცალკე უნდა გამოიგზავნოს.
+    <a data-l10n-name="report-infringement-link">ისარგებლეთ ამ მითითებებით</a>
+    ხარვეზის მოხსენებისთვის.
+abuse-report-unwanted-reason = არასდროს მდომებია ეს გაფართოება და ვერ ვიცილებ
+abuse-report-unwanted-example = მაგალითად: პროგრამა თავისით ჩაიდგა უნებართვოდ
+abuse-report-other-reason = სხვა
