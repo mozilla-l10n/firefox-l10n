@@ -9,7 +9,7 @@ onboarding-button-label-learn-more = იხილეთ ვრცლად
 onboarding-button-label-try-now = გამოცადეთ ახლავე
 onboarding-button-label-get-started = დაწყება
 onboarding-welcome-header = მოგესალმებათ { -brand-short-name }
-onboarding-welcome-body = ბრაუზერი უკვე გაქვთ.<br/>გაიცანით უკეთ { -brand-product-name }.
+onboarding-welcome-body = ბრაუზერი უკვე თქვენია.<br/>გაიცანით უკეთ { -brand-product-name }.
 onboarding-welcome-learn-more = იხილეთ, უპირატესობების შესახებ.
 onboarding-join-form-body = შეიყვანეთ თქვენი ელფოსტა დასაწყისისთვის.
 onboarding-join-form-email =
@@ -52,14 +52,19 @@ onboarding-ghostery-text = მოიძიეთ უფრო სწრაფა
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = სინქრონიზაცია
 onboarding-fxa-text = შექმენით { -fxaccount-brand-name } და დაასინქრონეთ თქვენი სანიშნები, პაროლები და გახსნილი ჩანართები ყველგან, სადაც გამოიყენებთ { -brand-short-name }-ს.
+onboarding-tracking-protection-title = მართეთ მეთვალყურეთა შესაძლებლობები
+onboarding-tracking-protection-text = არ გსიამოვნებთ, რეკლამები თვალს რომ გადევნებთ? { -brand-short-name } დაგეხმარებათ თავად განსაზღვროთ, როგორ ექნება სარეკლამო საშუალებებს წვდომა თქვენს მოქმედებებზე.
 # "Update" is a verb, as in "Update the existing settings", not "Options about
 # updates".
 onboarding-tracking-protection-button =
     { PLATFORM() ->
-        [windows] პარამეტრების განახლება
-       *[other] პარამეტრების განახლება
+        [windows] პარამეტრების შეცვლა
+       *[other] პარამეტრების შეცვლა
     }
 onboarding-data-sync-title = წაიყოლეთ თქვენი პარამეტრები თან
+# "Sync" is short for synchronize.
+onboarding-data-sync-text = დაასინქრონეთ თქვენი სანიშნები და პაროლები ყველგან, სადაც გიყენიათ { -brand-product-name }.
+onboarding-data-sync-button = ჩართეთ { -sync-brand-short-name }
 
 ## Message strings belonging to the Return to AMO flow
 
