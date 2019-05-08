@@ -15,6 +15,10 @@ abuse-report-submit-description = Beschrijf het probleem (optioneel)
 
 ## Panel buttons.
 
+abuse-report-cancel-button = Annuleren
+abuse-report-next-button = Volgende
+abuse-report-goback-button = Teruggaan
+abuse-report-submit-button = Verzenden
 
 ## Message bars descriptions.
 
@@ -25,6 +29,8 @@ abuse-report-submit-description = Beschrijf het probleem (optioneel)
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-retry = Opnieuw proberen
+abuse-report-messagebar-action-cancel = Annuleren
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
