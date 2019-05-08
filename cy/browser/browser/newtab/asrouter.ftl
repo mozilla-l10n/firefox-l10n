@@ -61,3 +61,12 @@ cfr-doorhanger-pintab-step2 = Dewis <b>Pinio Tab</ b> o'r ddewislen.
 cfr-doorhanger-pintab-step3 = Os fydd gan y wefan ddiweddariad, gwelwch ddot glas ar eich tab wedi'i binio.
 cfr-doorhanger-pintab-animation-pause = Oedi
 cfr-doorhanger-pintab-animation-resume = Ailgychwyn
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Cydweddu eich nodau tudalen ym mhobman
+cfr-doorhanger-bookmark-fxa-body = Mae hwn yn dda! Peidiwch bod heb y nod tudalen hon ar eich dyfeisiau symudol. Dechrau arni gyda { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-link-text = Cydweddu nodau tudalen nawr…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Cau botwm
+    .title = Cau
