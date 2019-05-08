@@ -23,7 +23,6 @@ onboarding-start-browsing-button-label = 开始浏览
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
-onboarding-benefit-products-title = 有用的产品
 onboarding-benefit-products-text = 使用各种尊重您隐私的工具，更快完成工作。
 onboarding-benefit-knowledge-text = 了解所需要知道的一切，让您上网更智能、更安全。
 # "Personal Data Promise" should be treated as a brand and should be kept in
