@@ -307,6 +307,7 @@ install-update-button = 更新
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = 允許於隱私瀏覽視窗運作
+addon-detail-private-browsing-help = 允許後，您在隱私瀏覽模式上網時，擴充套件將可得知您的線上行為。<a data-l10n-name="learn-more">了解更多</a>
 addon-detail-private-browsing-allow = 允許
 addon-detail-private-browsing-disallow = 不允許
 available-updates-heading = 可用的更新

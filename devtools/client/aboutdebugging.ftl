@@ -164,7 +164,7 @@ about-debugging-runtime-processes =
     .name = Processes
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
-about-debugging-runtime-profile-button = 對 Runtime 進行 Profile
+about-debugging-runtime-profile-button2 = 檢測效能
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
@@ -202,7 +202,7 @@ about-debugging-connection-prompt-enable-button = 開啟連線提示
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = 關閉連線提示
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
-about-debugging-profiler-dialog-title = 效能 Profiler
+about-debugging-profiler-dialog-title2 = 效能檢測器
 # Label of a checkbox displayed in the runtime page for "This Firefox".
 # This checkbox will toggle preferences that enable local addon debugging.
 # The "Learn more" link points to MDN.
