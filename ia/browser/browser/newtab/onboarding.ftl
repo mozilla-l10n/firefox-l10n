@@ -84,6 +84,12 @@ onboarding-send-tabs-title = Invia instantaneemente schedas a te mesme
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = "Invia schedas" comparti instantaneemente paginas inter tu apparatos sin deber copiar, collar o lassar le navigator.
+onboarding-send-tabs-button = Comencia a usar "Invia schedas"
+onboarding-pocket-anywhere-title = Lege e ascolta ubicunque
+# "downtime" refers to the user's free/spare time.
+onboarding-pocket-anywhere-text = { -pocket-brand-name } salva tu favorite historias assi que tu pote leger, ascoltar e observar durante tu tempore libere, mesmo si tu es sin connexion.
+onboarding-pocket-anywhere-button = Prova { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Porta ubique con te tu contrasignos
 
 ## Message strings belonging to the Return to AMO flow
 
