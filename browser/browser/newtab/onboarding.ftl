@@ -9,6 +9,7 @@ onboarding-button-label-learn-more = Tìm hiểu thêm
 onboarding-button-label-try-now = Dùng thử ngay
 onboarding-button-label-get-started = Bắt đầu
 onboarding-welcome-header = Chào mừng đến với { -brand-short-name }
+onboarding-welcome-body = Bạn đã có trình duyệt.<br/>Xem phần còn lại của { -brand-product-name }.
 onboarding-welcome-learn-more = Tìm hiểu thêm về các tiện ích.
 onboarding-join-form-header = Kết nối { -brand-product-name }
 onboarding-join-form-body = Nhập địa chỉ thư điện tử của bạn để bắt đầu.
@@ -51,6 +52,8 @@ onboarding-tracking-protection-button =
     }
 onboarding-data-sync-button = Bật { -sync-brand-short-name }
 onboarding-firefox-send-button = Thử { -send-brand-name }
+onboarding-mobile-phone-title = Tải { -brand-product-name } trên điện thoại của bạn
+onboarding-mobile-phone-text = Tải xuống { -brand-product-name } cho iOS hoặc Android và đồng bộ dữ liệu của bạn trên các thiết bị khác nhau.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Tải về trình duyệt di động
@@ -59,6 +62,7 @@ onboarding-pocket-anywhere-title = Đọc và nghe mọi nơi
 # "downtime" refers to the user's free/spare time.
 onboarding-pocket-anywhere-text = { -pocket-brand-name } lưu trữ các câu chuyện yêu thích của bạn để bạn có thể đọc, nghe và xem trong khoảng thời gian nghỉ ngơi của bạn, ngay cả khi bạn đang ngoại tuyến.
 onboarding-pocket-anywhere-button = Thử { -pocket-brand-name }
+onboarding-lockwise-passwords-button = Tải { -lockwise-brand-name }
 onboarding-facebook-container-button = Thêm phần mở rộng
 
 ## Message strings belonging to the Return to AMO flow
