@@ -921,6 +921,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "ਥੰਮ ਦਿਉ">
 <!ENTITY pip_pause_button_description "ਚਲਾਉਣਾ ਥੰਮ ਦਿਉ">
 
+<!ENTITY pref_notification_settings_link "ਨੋਟੀਫਿਕੇਸ਼ਨ ਸੈਟਿੰਗਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "ਬਰਾਊਜ਼ਰ">
 <!ENTITY mls_notification_channel "&vendorShortName; ਟਿਕਾਣਾ ਸੇਵਾ">
