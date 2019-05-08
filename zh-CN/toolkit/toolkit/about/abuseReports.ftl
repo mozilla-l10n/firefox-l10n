@@ -32,6 +32,8 @@ abuse-report-messagebar-submitting = 正在发送 <span data-l10n-name="addon-na
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove = 好，移除它
+abuse-report-messagebar-action-keep = 不了，请保留
 abuse-report-messagebar-action-retry = 重试
 abuse-report-messagebar-action-cancel = 取消
 
@@ -39,11 +41,16 @@ abuse-report-messagebar-action-cancel = 取消
 
 abuse-report-damage-reason = 损坏我的计算机和数据
 abuse-report-damage-example = 例如：注入恶意软件或窃取数据
+abuse-report-spam-reason = 制造垃圾内容或广告
 abuse-report-spam-example = 例如：在网页中插入广告
+abuse-report-settings-reason = 未预先询问或通知我，就更改了我的搜索引擎、主页、新标签页
+abuse-report-settings-suggestions = 报告问题前，您可以尝试修改浏览器设置：
 abuse-report-settings-suggestions-search = 更改您的默认搜索设置
 abuse-report-settings-suggestions-homepage = 更改您的主页和新标签页
 abuse-report-deceptive-reason = 伪装成与其无关的东西
 abuse-report-deceptive-example = 例如：误导性描述或图像
+abuse-report-broken-reason-extension = 不起作用、造成网站无法正常使用、拖慢 { -brand-product-name }
+abuse-report-broken-reason-theme = 不起作用或破坏浏览器显示内容
 abuse-report-broken-example = 例如：功能运行缓慢、难以使用或不起作用，或是导致部分网站加载不完整，或看起来不正常
 abuse-report-policy-reason = 散播仇恨、暴力、非法内容
 abuse-report-policy-suggestions = 注: 若有版权与商标问题，请依照另一流程处理。<a data-l10n-name="report-infringement-link">请依照该说明</a>报告问题。
