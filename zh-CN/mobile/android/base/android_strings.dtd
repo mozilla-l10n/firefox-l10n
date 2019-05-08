@@ -918,6 +918,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "暂停">
 <!ENTITY pip_pause_button_description "暂停播放">
 
+<!ENTITY pref_notification_settings_link "管理通知设置">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "浏览器">
 <!ENTITY mls_notification_channel "&vendorShortName; 位置服务">
