@@ -25,4 +25,4 @@ about-private-browsing =
 about-private-browsing-not-private = 您目前不在隱私瀏覽視窗當中。
 content-blocking-title = 內容封鎖
 content-blocking-description = 某些網站會使用追蹤器，於您在不同網站上網時監控您的行為。在隱私視窗中，{ -brand-short-name } 的內容封鎖功能會封鎖許多嘗試收集您的上網行為的追蹤器。
-about-private-browsing-info-description = { -brand-short-name } 會在結束程式或關閉所有隱私瀏覽分頁與視窗時，清除您的搜尋與上網紀錄。雖然這樣做不會讓您對網站或電信業者匿名，但還是可以更簡單就讓與您使用相同電腦的人無法得知您在線上做了什麼事。
+about-private-browsing-info-description = { -brand-short-name } 會在結束或關閉所有隱私瀏覽分頁與視窗時，清除您的搜尋與上網紀錄。雖然這樣做不會讓您對網站或電信業者匿名，但還是可以更簡單就讓與您使用相同電腦的人無法得知您在線上做了什麼事。

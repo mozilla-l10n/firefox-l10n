@@ -28,10 +28,10 @@ onboarding-benefit-products-text = 使用各種尊重您隱私的小工具，更
 onboarding-benefit-knowledge-title = 實用小知識
 onboarding-benefit-knowledge-text = 瞭解您需要的所有資訊，在線上更聰明、更安全。
 onboarding-benefit-privacy-title = 保護隱私權
-# "Personal Data Promise" should be treated as a brand and should be kept in
-# English. It refers to a concept shown elsewhere to the user: "The Firefox
-# Personal Data Promise is the way we honor your data in everything we make and
-# do. We take less data. We keep it safe. And we make sure that we are
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = 我們作的任何事情，都符合我們對個人資料隱私的承諾: 能少拿就少拿、確保資料安全、絕不偷偷來。
 
@@ -59,8 +59,8 @@ onboarding-tracking-protection-text = 不喜歡有廣告在各地追蹤你嗎？
 # updates".
 onboarding-tracking-protection-button =
     { PLATFORM() ->
-        [windows] 更新選項
-       *[other] 更新偏好設定
+        [windows] 調整選項
+       *[other] 調整偏好設定
     }
 onboarding-data-sync-title = 把設定隨身帶著走
 # "Sync" is short for synchronize.
@@ -70,7 +70,7 @@ onboarding-firefox-monitor-title = 小心資料外洩！
 onboarding-firefox-monitor-text = { -monitor-brand-name } 會監控您的 E-Mail 是否出現在資料外洩事故中，並且在有新事故時通知您。
 onboarding-firefox-monitor-button = 訂閱帳號資料外洩警報
 onboarding-browse-privately-title = 私密上網
-onboarding-browse-privately-text = 隱私瀏覽模式會自動清除您的搜尋與上網紀錄，讓其他使用同一台電腦的使用者無法得知您的上網紀錄。
+onboarding-browse-privately-text = 隱私瀏覽模式會自動清除您的搜尋與上網紀錄，讓這台電腦的其他使用者無法得知您的上網紀錄。
 onboarding-browse-privately-button = 開啟隱私視窗
 onboarding-firefox-send-title = 以私密的方式分享檔案
 onboarding-firefox-send-text = { -send-brand-name } 透過點對點加密與會自動失效的鏈結，保護您要分享的檔案。
@@ -90,10 +90,10 @@ onboarding-pocket-anywhere-title = 隨處閱讀隨處聽
 onboarding-pocket-anywhere-text = { -pocket-brand-name } 可將您最愛的文章儲存下來，這樣就可以在有空的時候閱讀、聆聽或觀賞，就算離線也沒問題。
 onboarding-pocket-anywhere-button = 試用 { -pocket-brand-name }
 onboarding-lockwise-passwords-title = 密碼隨身帶著走
-onboarding-lockwise-passwords-text = { -lockwise-brand-name } 會將您的密碼儲存在安全的地方，讓您可輕鬆登入帳號。
+onboarding-lockwise-passwords-text = { -lockwise-brand-name } 會安全地儲存您的密碼，讓您可輕鬆在各個網站上登入帳號。
 onboarding-lockwise-passwords-button = 下載 { -lockwise-brand-name }
 onboarding-facebook-container-title = 為 Facebook 設定邊界
-onboarding-facebook-container-text = { -facebook-container-brand-name } 可將您的 Facebook 身分隔絕於其他網站之外，讓 Facebook 更難在網路上追蹤您。
+onboarding-facebook-container-text = { -facebook-container-brand-name } 可將您的 Facebook 身分隔絕於其他網站之外，使其更難在網路上追蹤您。
 onboarding-facebook-container-button = 安裝擴充套件
 
 ## Message strings belonging to the Return to AMO flow
