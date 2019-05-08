@@ -66,6 +66,24 @@ onboarding-data-sync-title = Prende tu parametros con te
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = Synchronisa tu marcapaginas e contrasignos ubique tu usa { -brand-product-name }.
 onboarding-data-sync-button = Accende { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Sta alerte al violationes de datos
+onboarding-firefox-monitor-text = { -monitor-brand-name } controla attentemente si tu email ha apparite in un violation de datos e te avisa si illo es implicate in un nove violation.
+onboarding-firefox-monitor-button = Inscribe te al Alertas
+onboarding-browse-privately-title = Naviga reservatemente
+onboarding-browse-privately-text = Le navigation reservate clara tu chronologia de recerca e exploration e lo mantene secrete ab quicunque usa tu computator.
+onboarding-browse-privately-button = Aperir un Fenestra reservate
+onboarding-firefox-send-title = Mantene reservate tu files compartite
+onboarding-firefox-send-text = { -send-brand-name } protege le files que tu comparti con cryptographia bilateral e un ligamine que expira automaticamente.
+onboarding-firefox-send-button = Prova { -send-brand-name }
+onboarding-mobile-phone-title = Installa { -brand-product-name } sur tu telephono
+onboarding-mobile-phone-text = Discarga { -brand-product-name } pro iOS o Android e synchronisa tu datos inter le apparatos.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Discarga le navigator pro apparatos mobile
+onboarding-send-tabs-title = Invia instantaneemente schedas a te mesme
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = "Invia schedas" comparti instantaneemente paginas inter tu apparatos sin deber copiar, collar o lassar le navigator.
 
 ## Message strings belonging to the Return to AMO flow
 
