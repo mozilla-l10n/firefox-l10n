@@ -22,6 +22,7 @@ onboarding-start-browsing-button-label = დაიწყეთ მოგზა�
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = სასარგებლო
 
 ## These strings belong to the individual onboarding messages.
 
