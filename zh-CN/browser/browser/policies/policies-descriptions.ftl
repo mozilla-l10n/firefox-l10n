@@ -21,6 +21,7 @@ policy-Bookmarks = 在书签工具栏，书签菜单或特定文件夹中创建�
 policy-CaptivePortal = 启用或禁用强制门户支持。
 policy-CertificatesDescription = 添加证书或使用内置的证书。
 policy-Cookies = 允许或拒绝网站设置 Cookie。
+policy-DefaultDownloadDirectory = 设置默认下载目录。
 policy-DisableAppUpdate = 阻止浏览器更新。
 policy-DisableBuiltinPDFViewer = 禁用 { -brand-short-name } 内置的 PDF 阅读器 PDF.js。
 policy-DisableDeveloperTools = 阻止访问开发者工具。
@@ -45,6 +46,7 @@ policy-DisplayBookmarksToolbar = 默认显示书签工具栏。
 policy-DisplayMenuBar = 默认显示菜单栏。
 policy-DNSOverHTTPS = 配置基于 HTTPS 的 DNS。
 policy-DontCheckDefaultBrowser = 禁用启动时的默认浏览器检查。
+policy-DownloadDirectory = 设置并锁定下载目录。
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = 启用或禁用内容拦截，并可选择锁定该功能。
 # A “locked” extension can’t be disabled or removed by the user. This policy

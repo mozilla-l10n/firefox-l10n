@@ -9,6 +9,9 @@ onboarding-button-label-learn-more = 详细了解
 onboarding-button-label-try-now = 立即尝鲜
 onboarding-button-label-get-started = 开始使用
 onboarding-welcome-header = 欢迎使用 { -brand-short-name }
+onboarding-join-form-email =
+    .placeholder = 输入电子邮件地址
+onboarding-join-form-email-error = 需要有效的电子邮件地址
 onboarding-join-form-legal = 若继续，即表示您同意我们的<a data-l10n-name="terms">服务条款</a>和<a data-l10n-name="privacy">隐私声明</a>。
 onboarding-join-form-continue = 继续
 onboarding-start-browsing-button-label = 开始浏览
@@ -45,9 +48,13 @@ onboarding-tracking-protection-button =
 onboarding-firefox-monitor-button = 订阅警报
 onboarding-browse-privately-button = 打开隐私窗口
 onboarding-firefox-send-button = 试用 { -send-brand-name }
+onboarding-mobile-phone-title = 获取手机版 { -brand-product-name }
+onboarding-mobile-phone-text = 下载适用于 iOS 或 Android 的 { -brand-product-name }，即可跨设备同步数据。
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = 下载移动浏览器
+onboarding-pocket-anywhere-button = 试用 { -pocket-brand-name }
+onboarding-lockwise-passwords-button = 获取 { -lockwise-brand-name }
 onboarding-facebook-container-button = 添加扩展
 
 ## Message strings belonging to the Return to AMO flow
