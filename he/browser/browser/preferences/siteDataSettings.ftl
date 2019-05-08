@@ -38,6 +38,8 @@ site-usage-persistent = { site-usage-pattern } (קבוע)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-storage-usage =
     .value = { $value } { $unit }
+site-storage-persistent =
+    .value = { site-storage-usage.value } (קבוע)
 site-data-remove-all =
     .label = הסרת הכל
     .accesskey = ס

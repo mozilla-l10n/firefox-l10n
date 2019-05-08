@@ -15,6 +15,7 @@ onboarding-join-form-body = נא להכניס את כתובת הדוא״ל של�
 onboarding-join-form-email =
     .placeholder = נא להכניס דוא״ל
 onboarding-join-form-email-error = נדרשת כתובת דוא״ל חוקית
+onboarding-join-form-legal = בחירה בהמשך התהליך מהווה הסכמה ל<a data-l10n-name="terms">תנאי השירות</a> ול<a data-l10n-name="privacy">הצהרת הפרטיות</a>.
 onboarding-join-form-continue = המשך
 onboarding-start-browsing-button-label = התחלת גלישה
 
@@ -48,8 +49,10 @@ onboarding-tracking-protection-button =
         [windows] עדכון אפשרויות
        *[other] עדכון העדפות
     }
+onboarding-data-sync-button = הפעלת { -sync-brand-short-name }
 onboarding-browse-privately-title = גלישה בפרטיות
 onboarding-browse-privately-button = פתיחת חלון פרטי
+onboarding-mobile-phone-title = קבלת { -brand-product-name } לטלפון שלך
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = הורדת דפדפן נייד

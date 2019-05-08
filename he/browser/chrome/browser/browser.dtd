@@ -45,16 +45,16 @@ left instead of right. -->
 
 <!ENTITY  closeTabs.label                    "סגירת לשוניות">
 <!ENTITY  closeTabs.accesskey                "ס">
-<!ENTITY  pinSelectedTabs.label              "הצמדת לשוניות">
+<!ENTITY  pinSelectedTabs.label              "נעיצת לשוניות">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinSelectedTabs.accesskey          "ה">
-<!ENTITY  unpinSelectedTabs.label            "ביטול הצמדת לשוניות">
+<!ENTITY  pinSelectedTabs.accesskey          "נ">
+<!ENTITY  unpinSelectedTabs.label            "ביטול נעיצת לשוניות">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinSelectedTabs.accesskey        "ב">
+<!ENTITY  unpinSelectedTabs.accesskey        "נ">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "טעינת לשוניות מחדש">
@@ -76,11 +76,11 @@ can reach it easily. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinTab.accesskey                   "נ">
-<!ENTITY  unpinTab.label                     "ביטול נעיצה של לשונית">
+<!ENTITY  unpinTab.label                     "ביטול נעיצת לשונית">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinTab.accesskey                 "ב">
+<!ENTITY  unpinTab.accesskey                 "נ">
 <!ENTITY  sendPageToDevice.label             "שליחת דף להתקן">
 <!ENTITY  sendPageToDevice.accesskey         "ה">
 <!ENTITY  sendLinkToDevice.label             "שליחת קישור להתקן">
@@ -132,6 +132,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "ד">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY importFromAnotherBrowserCmd.label "ייבוא מדפדפן אחר…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "י">
 
 <!ENTITY taskManagerCmd.label "מנהל משימות">
 
@@ -217,15 +219,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Firefox איתך בכל מקום">
+<!ENTITY fxa.signin.description.label "קבלת המועדפים, ההיסטוריה, הססמאות והגדרות נוספות בכל ההתקנים שלך.">
+<!ENTITY fxa.signin.button.label "הפעלת &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "נא לבדוק את הדוא״ל שלך">
+<!ENTITY fxa.unverified.description.label "יש לאמת את החשבון שלך לפני שיהיה ניתן לסנכרן.">
+<!ENTITY fxa.unverified.button.label "פתיחת ההגדרות של &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "מחובר בתור">
 <!ENTITY fxa.menu.manageAccount.label "ניהול חשבון…">
+<!ENTITY fxa.menu.syncSettings.label "הגדרות &syncBrand.shortName.label;…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "חיבור התקן נוסף…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -248,6 +260,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
 <!ENTITY pictureInPicture.label "תמונה בתוך תמונה">
+<!ENTITY pictureInPicture.accesskey "ב">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -427,6 +440,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "העדפות">
 <!ENTITY preferencesCmdUnix.accesskey     "ד">
 
+<!ENTITY logins.label                           "פרטי גישה וססמאות">
 
 <!ENTITY clearRecentHistory.label               "ניקוי היסטוריה אחרונה…">
 
@@ -457,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "מחיקת היסטוריה אחרונה…">
 <!ENTITY appMenuHistory.restoreSession.label "שחזור הפעלה קודמת">
 <!ENTITY appMenuHistory.viewSidebar.label "הצגת סרגל הצד היסטוריה">
+<!ENTITY appMenuHistory.hideSidebar.label "הסתרת סרגל הצד היסטוריה">
 <!ENTITY appMenuHistory.recentHistory.label "היסטוריה אחרונה">
 <!ENTITY appMenuHelp.label "עזרה">
 
@@ -485,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "התחברות אל Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "ניהול התקנים…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "הצגת סרגל צד של לשוניות מסונכרנות">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "הסתרת סרגל צד של לשוניות מסונכרנות">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "חיבור התקן נוסף">
 
 <!ENTITY appMenuRecentHighlights.label "הדגשות אחרונות">
@@ -514,6 +530,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "ה">
 <!ENTITY customizeMenu.removeExtension.label "הסרת הרחבה">
 <!ENTITY customizeMenu.removeExtension.accesskey "ס">
+
+<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
+     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.label "דיווח על הרחבה">
+<!ENTITY customizeMenu.reportExtension.accesskey "ד">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
