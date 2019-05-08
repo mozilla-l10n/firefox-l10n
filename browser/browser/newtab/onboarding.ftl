@@ -23,6 +23,12 @@ onboarding-start-browsing-button-label = 开始浏览
 ## description.
 
 onboarding-benefit-products-title = 有用的产品
+# "Personal Data Promise" should be treated as a brand and should be kept in
+# English. It refers to a concept shown elsewhere to the user: "The Firefox
+# Personal Data Promise is the way we honor your data in everything we make and
+# do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = 我们所做的一切，均符合我们对个人数据隐私的承诺：索取更少、确保安全、绝不隐瞒。
 
 ## These strings belong to the individual onboarding messages.
 
