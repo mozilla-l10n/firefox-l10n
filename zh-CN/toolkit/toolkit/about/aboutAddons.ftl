@@ -268,6 +268,9 @@ enable-addon-button = 启用
 expand-addon-button = 更多选项
 addons-enabled-heading = 已启用
 addons-disabled-heading = 已禁用
+ask-to-activate-button = 需要时询问
+always-activate-button = 一律激活
+never-activate-button = 永不激活
 addon-detail-author-label = 作者
 addon-detail-version-label = 版本
 addon-detail-last-updated-label = 上次更新
@@ -287,6 +290,8 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+pending-uninstall-undo-button = 撤销
+addon-detail-updates-label = 允许自动更新
 addon-detail-updates-radio-on = 开
 addon-detail-updates-radio-off = 关
 addon-detail-update-check-label = 检查更新
