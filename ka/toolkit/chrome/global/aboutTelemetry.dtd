@@ -33,21 +33,18 @@
 <!ENTITY aboutTelemetry.previousPing "&lt;&lt;">
 <!ENTITY aboutTelemetry.nextPing "&gt;&gt;">
 
-<!ENTITY aboutTelemetry.pageTitle "ტელემეტრიის მონაცემები">
+<!ENTITY aboutTelemetry.pageTitle "გაზომვების მონაცემები">
 <!ENTITY aboutTelemetry.moreInformations "
 მეტ ინფორმაციას ეძებთ?
 ">
 <!ENTITY aboutTelemetry.firefoxDataDoc "
 <a>Firefox მონაცემთა დოკუმენტაცია</a> შეიცავს მითითებებს, მონაცემთა ხელსაწყოებთან მუშაობის შესახებ.
 ">
-<!ENTITY aboutTelemetry.telemetryClientDoc "
-<a>Firefox ტელემეტრიის კლიენტის დოკუმენტაცია</a> შეიცავს განმარტებებს, კონცეფციას, API დოკუმენტაციასა და მითითებებს, მონაცემების შესახებ.
-">
+<!ENTITY aboutTelemetry.telemetryClientDoc "<a>Firefox-გაზომვების კლიენტის მასალები</a> შეიცავს განმარტებებს, კონცეფციას, API-დოკუმენტაციასა და მითითებებს, მონაცემების შესახებ.">
 <!ENTITY aboutTelemetry.telemetryDashboard "
-<a>ტელემეტრიის გვერდი</a>, Mozilla-ს მიერ აღრიცხული მონაცემების ვიზუალურად წარმოდგენის საშუალებას იძლევა.
+<a>გაზომვების გვერდი</a>, Mozilla-ს მიერ აღრიცხული მონაცემების ვიზუალურად წარმოდგენის საშუალებას იძლევა.
 ">
-
-<!ENTITY aboutTelemetry.telemetryProbeDictionary "<a>კვლევის ლექსიკონში</a> მოცემულია დაწვრილებითი ინფორმაცია და აღწერილობა ტელემეტრიით ჩატარებული კვლევების.">
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "<a>კვლევის ლექსიკონში</a> მოცემულია დაწვრილებითი ინფორმაცია და აღწერილობა გაზომვებით ჩატარებული კვლევების.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
 JSON მნახველში გახსნა
@@ -91,7 +88,7 @@ JSON მნახველში გახსნა
 ნედლი JSON
 ">
 
-<!ENTITY aboutTelemetry.fullSqlWarning "შენიშვნა: ნელი SQL-ს გამართვა ჩართულია. შესაძლოა ქვემოთ სრული SQL სტრიქონები გამოჩნდეს, მაგრამ ისინი არ გადაეგზავნება ტელემეტრიას.">
+<!ENTITY aboutTelemetry.fullSqlWarning "შენიშვნა: ნელი SQL-ის გამართვა ჩართულია. შესაძლოა ქვემოთ სრული SQL-სტრიქონები გამოჩნდეს, მაგრამ ისინი არ აღირიცხება გაზომვებში.">
 <!ENTITY aboutTelemetry.fetchStackSymbols "
   ფუნქციების სახელების გადმოტანა სტეკებითვის
 ">
