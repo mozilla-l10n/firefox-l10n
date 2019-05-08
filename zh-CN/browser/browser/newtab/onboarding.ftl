@@ -53,6 +53,7 @@ onboarding-mobile-phone-text = 下载适用于 iOS 或 Android 的 { -brand-prod
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = 下载移动浏览器
+onboarding-pocket-anywhere-title = 随时随地阅读和聆听
 onboarding-pocket-anywhere-button = 试用 { -pocket-brand-name }
 onboarding-lockwise-passwords-button = 获取 { -lockwise-brand-name }
 onboarding-facebook-container-button = 添加扩展

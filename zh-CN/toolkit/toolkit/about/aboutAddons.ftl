@@ -296,6 +296,11 @@ addon-detail-updates-radio-on = 开
 addon-detail-updates-radio-off = 关
 addon-detail-update-check-label = 检查更新
 install-update-button = 更新
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = 已允许在隐私窗口中运行
+addon-detail-private-browsing-help = 若允许，扩展可在隐私浏览中获知您的在线活动。 <a data-l10n-name="learn-more">详细了解</a>
 addon-detail-private-browsing-allow = 允许
 addon-detail-private-browsing-disallow = 不允许
 available-updates-heading = 可用更新
