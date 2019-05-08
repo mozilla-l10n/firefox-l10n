@@ -266,12 +266,16 @@ go-back-button =
 
 ## Add-on actions
 
+report-addon-button = Reportar
 remove-addon-button = Remover
 disable-addon-button = Disactivar
 enable-addon-button = Activar
 expand-addon-button = Altere optiones
 addons-enabled-heading = Activate
 addons-disabled-heading = Disactivate
+ask-to-activate-button = Demandar pro activar
+always-activate-button = Sempre activar
+never-activate-button = Non activar jammais
 addon-detail-author-label = Autor
 addon-detail-version-label = Version
 addon-detail-last-updated-label = Ultime actualisation
@@ -292,10 +296,21 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> ha essite eliminate.
 pending-uninstall-undo-button = Disfacer
+addon-detail-updates-label = Consentir actualisationes automatic
 addon-detail-updates-radio-default = Predefinite
+addon-detail-updates-radio-on = Activar
+addon-detail-updates-radio-off = Disactivar
 addon-detail-update-check-label = Cercar actualisationes
 install-update-button = Actualisar
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Consentite in fenestras reservate
+addon-detail-private-browsing-help = Quando consentite, le extension habera accesso a tu activitates online durante le navigation reservate. <a data-l10n-name="learn-more">Saper plus</a>
 addon-detail-private-browsing-allow = Consentir
 addon-detail-private-browsing-disallow = Non consentir
 available-updates-heading = Actualisationes disponibile
