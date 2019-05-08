@@ -21,6 +21,7 @@ policy-Bookmarks = Vytvoření záložek na liště, v nabídce nebo vybrané sl
 policy-CaptivePortal = Povolení nebo zakázání podpory captive portálů.
 policy-CertificatesDescription = Přidat certifikáty nebo použít vestavěné certifikáty.
 policy-Cookies = Pravidla pro ukládání nebo blokování cookies.
+policy-DefaultDownloadDirectory = Nastavení výchozího adresáře pro stahování souborů.
 policy-DisableAppUpdate = Blokování aktualizací prohlížeče.
 policy-DisableBuiltinPDFViewer = Zablokování PDF prohlížeče PDF.js vestavěného v aplikaci { -brand-short-name }.
 policy-DisableDeveloperTools = Blokování přístupu k nástrojům pro vývojáře.
@@ -45,6 +46,7 @@ policy-DisplayBookmarksToolbar = Zobrazení lišty záložek ve výchozím nasta
 policy-DisplayMenuBar = Zobrazení hlavní nabídky ve výchozím nastavení.
 policy-DNSOverHTTPS = Nastavení DNS přes HTTPS.
 policy-DontCheckDefaultBrowser = Vypnutí kontroly nastavení výchozího prohlížeče při spuštění.
+policy-DownloadDirectory = Nastavení a uzamčení nastavení adresáře pro stahování souborů.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Zapnutí nebo vypnutí blokování obsahu a případně jeho uzamčení.
 # A “locked” extension can’t be disabled or removed by the user. This policy
@@ -52,6 +54,7 @@ policy-EnableTrackingProtection = Zapnutí nebo vypnutí blokování obsahu a p�
 # English or translate them as verbs.
 policy-Extensions = Instalace, odinstalace a uzamčení rozšíření. Pro instalaci je potřeba jako parametr zadat URL adresy nebo cesty. Pro odinstalaci nebo uzamčení ID rozšíření.
 policy-ExtensionUpdate = Vypnutí nebo zapnutí automatických aktualizací rozšíření.
+policy-FirefoxHome = Nastavení domovské stránky Firefoxu.
 policy-FlashPlugin = Povolení nebo zablokování zásuvného modulu Flash.
 policy-HardwareAcceleration = Hodnota false vypne použití hardwarové akcelerace.
 # “lock” means that the user won’t be able to change this setting
@@ -67,6 +70,7 @@ policy-OverridePostUpdatePage = Nastavení vlastní stránky po aktualizaci. Pok
 policy-Permissions = Nastavení oprávnění pro kameru, mikrofon, polohu a oznámení.
 policy-PopupBlocking = Povolení zobrazování vyskakovacích oken ve výchozím stavu.
 policy-Preferences = Nastavení a uzamčení hodnoty pro podmnožinu předvoleb.
+policy-PromptForDownloadLocation = Zeptat se na adresář před stažením souboru.
 policy-Proxy = Nastavení proxy.
 policy-RequestedLocales = Nastavení seznamu požadovaných jazyků pro zobrazení aplikace, v pořadí podle preference.
 policy-SanitizeOnShutdown = Vymazání všech dat o prohlížení během vypnutí.

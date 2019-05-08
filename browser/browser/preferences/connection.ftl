@@ -70,16 +70,21 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Zapnout DNS přes HTTPS
     .accesskey = H
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = URL adresa pro DNS přes HTTPS
 # Variables:
 #   $url (String) - URL for the DNS over HTTPS provider
 connection-dns-over-https-url-default =
     .label = Použít výchozí ({ $url })
     .accesskey = u
     .tooltiptext = Použít výchozí URL adresu pro DNS přes HTTPS
+connection-dns-over-https-url-resolver = Poskytovatel
+    .accesskey = P
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (výchozí)
+    .tooltiptext = Použít výchozí URL pro službu DNS přes HTTPS
 connection-dns-over-https-url-custom =
     .label = Vlastní
     .accesskey = n
     .tooltiptext = Zadejte vlastní URL adresu pro DNS přes HTTPS
+connection-dns-over-https-custom-label = Vlastní
