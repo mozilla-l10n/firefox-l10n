@@ -457,7 +457,7 @@ shown from Android O while a tab is being queued.-->
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; გამართულობის შესახებ მოხსენება">
 <!ENTITY datareporting_fhr_summary2 "მონაცემთა გაზიარება &vendorShortName;-სთან თქვენი ბრაუზერის შესახებ მისი წარმადობის გაგებაში დაგეხმარებათ">
-<!ENTITY datareporting_telemetry_title "ტელემეტრია">
+<!ENTITY datareporting_telemetry_title "გაზომვება">
 <!ENTITY datareporting_telemetry_summary "გაუზიარებს წარმადობის, გამოყენების, მოწყობილობისა და პარამეტრების მონაცემებს &vendorShortName;-ს, &brandShortName; ბრაუზერის მეტად დასახვეწად">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; აგზავნის უეცარი გათიშვების მოხსენებებს, რაც &vendorShortName;-ს თქვენი ბრაუზერის მდგრადობისა და უსაფრთხოების გაუმჯობესებაში ეხმარება">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
