@@ -199,6 +199,7 @@ gpu-device-id = მოწყობილობის ID
 gpu-subsys-id = ქვესისტემის ID
 gpu-drivers = დრაივერები
 gpu-ram = RAM
+gpu-driver-vendor = დრაივერის გამომშვები
 gpu-driver-version = დრაივერის ვერსია
 gpu-driver-date = დრაივერის თარიღი
 gpu-active = მოქმედი
