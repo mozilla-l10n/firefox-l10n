@@ -921,6 +921,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "შეჩერება">
 <!ENTITY pip_pause_button_description "გაშვების შეჩერება">
 
+<!ENTITY pref_notification_settings_link "შეტყობინების პარამეტრების მართვა">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "ბრაუზერი">
 <!ENTITY mls_notification_channel "&vendorShortName; მდებარეობა">
