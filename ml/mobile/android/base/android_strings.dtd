@@ -918,6 +918,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "താല്ക്കാലികവിരാമം">
 <!ENTITY pip_pause_button_description "പ്ലെ നിറുത്തുക">
 
+<!ENTITY pref_notification_settings_link "അറിയിപ്പ് ക്രമീകരണങ്ങൾ നിയന്ത്രിക്കുക">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "ബ്രൗസർ">
 <!ENTITY mls_notification_channel "&vendorShortName; പ്രദേശ സേവനങ്ങള്‍">
