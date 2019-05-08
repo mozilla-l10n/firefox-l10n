@@ -271,6 +271,7 @@ go-back-button =
 
 ## Add-on actions
 
+report-addon-button = Relatar
 remove-addon-button = Remover
 disable-addon-button = Desativar
 enable-addon-button = Ativar
@@ -306,6 +307,8 @@ pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</sp
 pending-uninstall-undo-button = Desfazer
 addon-detail-updates-label = Permitir atualização automática
 addon-detail-updates-radio-default = Padrão
+addon-detail-updates-radio-on = Ligado
+addon-detail-updates-radio-off = Desligado
 addon-detail-update-check-label = Verificar se há atualizações
 install-update-button = Atualizar
 # This is the tooltip text for the private browsing badge in about:addons. The

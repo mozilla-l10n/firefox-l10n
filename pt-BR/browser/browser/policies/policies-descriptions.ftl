@@ -21,6 +21,7 @@ policy-Bookmarks = Criar favoritos na barra de favoritos, no menu de favoritos o
 policy-CaptivePortal = Ativar ou desativar suporte a portal cativo.
 policy-CertificatesDescription = Adicionar certificados ou utilizar certificados integrados.
 policy-Cookies = Permitir ou impedir que sites definam cookies.
+policy-DefaultDownloadDirectory = Definir o diretório de download padrão.
 policy-DisableAppUpdate = Impedir a atualização do navegador.
 policy-DisableBuiltinPDFViewer = Desativar o PDF.js, o visualizador de PDF integrado no { -brand-short-name }.
 policy-DisableDeveloperTools = Bloquear acesso às ferramentas do desenvolvedor.
@@ -45,6 +46,7 @@ policy-DisplayBookmarksToolbar = Exibir a barra de favoritos por padrão.
 policy-DisplayMenuBar = Exibir a barra de menu por padrão.
 policy-DNSOverHTTPS = Configurar DNS sobre HTTPS
 policy-DontCheckDefaultBrowser = Desativar a verificação de navegador padrão ao iniciar.
+policy-DownloadDirectory = Definir e bloquear o diretório de download.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Ativar ou desativar o bloqueio de conteúdo e, opcionalmente, impedir que seja alterado.
 # A “locked” extension can’t be disabled or removed by the user. This policy
@@ -52,6 +54,7 @@ policy-EnableTrackingProtection = Ativar ou desativar o bloqueio de conteúdo e,
 # English or translate them as verbs.
 policy-Extensions = Instalar, desinstalar e bloquear extensões. A opção “Instalar” recebe URLs ou caminhos como parâmetros. As opções “Desinstalar” e "Bloqueado" usam IDs de extensões.
 policy-ExtensionUpdate = Ativar ou desativar atualizações automáticas de extensões.
+policy-FirefoxHome = Configurar a página inicial do Firefox.
 policy-FlashPlugin = Permitir ou negar o uso do plugin Flash.
 policy-HardwareAcceleration = Caso definido como "false", desativar a aceleração de hardware.
 # “lock” means that the user won’t be able to change this setting
