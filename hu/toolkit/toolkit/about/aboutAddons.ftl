@@ -266,12 +266,16 @@ go-back-button =
 
 ## Add-on actions
 
+report-addon-button = Jelentés
 remove-addon-button = Eltávolítás
 disable-addon-button = Letiltás
 enable-addon-button = Engedélyezés
 expand-addon-button = További beállítások
 addons-enabled-heading = Engedélyezve
 addons-disabled-heading = Tiltva
+ask-to-activate-button = Aktiválás kérésre
+always-activate-button = Mindig aktiválja
+never-activate-button = Soha ne aktiválja
 addon-detail-author-label = Szerző
 addon-detail-version-label = Verzió
 addon-detail-last-updated-label = Utoljára frissítve
@@ -289,3 +293,24 @@ addon-detail-reviews-link =
         [one] { $numberOfReviews } értékelés
        *[other] { $numberOfReviews } értékelés
     }
+
+## Pending uninstall message bar
+
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> has been removed.
+pending-uninstall-undo-button = Visszavonás
+addon-detail-updates-label = Automatikus frissítések engedélyezése
+addon-detail-updates-radio-default = Alapértelmezett
+addon-detail-updates-radio-on = Be
+addon-detail-updates-radio-off = Ki
+addon-detail-update-check-label = Frissítések keresése
+install-update-button = Frissítés
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Engedélyezett privát ablakokban
+addon-detail-private-browsing-allow = Engedélyezés
+addon-detail-private-browsing-disallow = Tiltás
+available-updates-heading = Elérhető frissítések
+recent-updates-heading = Legutóbbi frissítések

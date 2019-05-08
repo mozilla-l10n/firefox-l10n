@@ -196,6 +196,7 @@ gpu-device-id = Eszközazonosító
 gpu-subsys-id = Alrendszer-azonosító
 gpu-drivers = Illesztőprogramok
 gpu-ram = RAM
+gpu-driver-vendor = Illesztőprogram szállítója
 gpu-driver-version = Illesztőprogram verziója
 gpu-driver-date = Illesztőprogram dátuma
 gpu-active = Aktív
