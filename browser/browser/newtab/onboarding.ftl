@@ -35,6 +35,13 @@ onboarding-ghostery-text = 使用 Ghostery 等扩展拦截恼人的广告，让�
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = 同步
 onboarding-fxa-text = 注册 { -fxaccount-brand-name } 之后，您可在任何使用 { -brand-short-name } 的任何地方同步您的书签、密码和打开的标签页。
+# "Update" is a verb, as in "Update the existing settings", not "Options about
+# updates".
+onboarding-tracking-protection-button =
+    { PLATFORM() ->
+        [windows] 更新选项
+       *[other] 更新首选项
+    }
 onboarding-firefox-monitor-button = 订阅警报
 onboarding-browse-privately-button = 打开隐私窗口
 onboarding-firefox-send-button = 试用 { -send-brand-name }
