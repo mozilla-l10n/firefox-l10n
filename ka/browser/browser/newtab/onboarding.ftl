@@ -59,6 +59,7 @@ onboarding-tracking-protection-button =
         [windows] პარამეტრების განახლება
        *[other] პარამეტრების განახლება
     }
+onboarding-data-sync-title = წაიყოლეთ თქვენი პარამეტრები თან
 
 ## Message strings belonging to the Return to AMO flow
 
