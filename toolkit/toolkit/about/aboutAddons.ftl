@@ -272,6 +272,7 @@ go-back-button =
 
 ## Add-on actions
 
+report-addon-button = Nahlásiť
 remove-addon-button = Odstrániť
 disable-addon-button = Zakázať
 enable-addon-button = Povoliť
@@ -296,3 +297,6 @@ addon-detail-reviews-link =
         [few] { $numberOfReviews } recenzie
        *[other] { $numberOfReviews } recenzií
     }
+
+## Pending uninstall message bar
+
