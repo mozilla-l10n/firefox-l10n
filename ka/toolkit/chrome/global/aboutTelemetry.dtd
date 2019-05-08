@@ -37,13 +37,9 @@
 <!ENTITY aboutTelemetry.moreInformations "
 მეტ ინფორმაციას ეძებთ?
 ">
-<!ENTITY aboutTelemetry.firefoxDataDoc "
-<a>Firefox მონაცემთა დოკუმენტაცია</a> შეიცავს მითითებებს, მონაცემთა ხელსაწყოებთან მუშაობის შესახებ.
-">
+<!ENTITY aboutTelemetry.firefoxDataDoc "<a>Firefox-ის მონაცემთა მასალები</a> შეიცავს მითითებებს, მონაცემთა ხელსაწყოებთან მუშაობის შესახებ.">
 <!ENTITY aboutTelemetry.telemetryClientDoc "<a>Firefox-გაზომვების კლიენტის მასალები</a> შეიცავს განმარტებებს, კონცეფციას, API-დოკუმენტაციასა და მითითებებს, მონაცემების შესახებ.">
-<!ENTITY aboutTelemetry.telemetryDashboard "
-<a>გაზომვების გვერდი</a>, Mozilla-ს მიერ აღრიცხული მონაცემების ვიზუალურად წარმოდგენის საშუალებას იძლევა.
-">
+<!ENTITY aboutTelemetry.telemetryDashboard "<a>გაზომვების გვერდი</a>, Mozilla-ს მიერ აღრიცხული მონაცემების ვიზუალურად წარმოდგენის საშუალებას იძლევა.">
 <!ENTITY aboutTelemetry.telemetryProbeDictionary "<a>კვლევის ლექსიკონში</a> მოცემულია დაწვრილებითი ინფორმაცია და აღწერილობა გაზომვებით ჩატარებული კვლევების.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
