@@ -85,6 +85,12 @@ onboarding-send-tabs-title = Anfon Tabiau Atoch Chi eich Hun
 # tab's context menu.
 onboarding-send-tabs-text = Mae Anfon Tabiau yn rhannu tudalennau yn syth rhwng eich dyfeisiau heb orfod copïo, gludo na gadael y porwr.
 onboarding-send-tabs-button = Cychwyn Defnyddio Anfon Tabiau
+onboarding-pocket-anywhere-title = Darllen a Gwrando Unrhyw Le
+# "downtime" refers to the user's free/spare time.
+onboarding-pocket-anywhere-text = Mae { -pocket-brand-name } yn cadw eich hoff straeon fel y gallwch ddarllen, gwrando, a gwylio yn ystod eich amser hamdden, hyd yn oed os nad ydych chi ar-lein.
+onboarding-pocket-anywhere-button = Rhowch gynnig ar { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Cymrwch Eich Cyfrineiriau i Bob Man
+onboarding-lockwise-passwords-text = Mae { -lockwise-brand-name } yn cadw'ch cyfrineiriau mewn man diogel er mwyn i chi allu mewngofnodi yn hawdd i'ch cyfrifon.
 
 ## Message strings belonging to the Return to AMO flow
 
