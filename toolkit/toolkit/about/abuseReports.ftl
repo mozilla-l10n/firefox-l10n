@@ -37,7 +37,16 @@ abuse-report-messagebar-action-cancel = 取消
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason = 损坏我的计算机和数据
+abuse-report-damage-example = 例如：注入恶意软件或窃取数据
+abuse-report-spam-example = 例如：在网页中插入广告
 abuse-report-settings-suggestions-search = 更改您的默认搜索设置
 abuse-report-settings-suggestions-homepage = 更改您的主页和新标签页
-abuse-report-policy-reason = 仇恨、暴力、非法内容
+abuse-report-deceptive-reason = 伪装成与其无关的东西
+abuse-report-deceptive-example = 例如：误导性描述或图像
+abuse-report-broken-example = 例如：功能运行缓慢、难以使用或不起作用，或是导致部分网站加载不完整，或看起来不正常
+abuse-report-policy-reason = 散播仇恨、暴力、非法内容
+abuse-report-policy-suggestions = 注: 若有版权与商标问题，请依照另一流程处理。<a data-l10n-name="report-infringement-link">请依照该说明</a>报告问题。
+abuse-report-unwanted-reason = 未主动安装此扩展，且无法移除
+abuse-report-unwanted-example = 例如：计算机中的某应用程序未经我同意便安装了此附加组件
 abuse-report-other-reason = 其他原因
