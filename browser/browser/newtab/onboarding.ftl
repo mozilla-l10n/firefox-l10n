@@ -9,8 +9,14 @@ onboarding-button-label-learn-more = Saiba mais
 onboarding-button-label-try-now = Experimente agora
 onboarding-button-label-get-started = Começar
 onboarding-welcome-header = Boas-vindas ao { -brand-short-name }
+onboarding-welcome-body = Você instalou o navegador.<br/>Descubra outros produtos e serviços da { -brand-product-name }.
 onboarding-welcome-learn-more = Saiba mais sobre os benefícios.
+onboarding-join-form-header = Junte-se à { -brand-product-name }
 onboarding-join-form-body = Digite seu endereço de e-mail para começar.
+onboarding-join-form-email =
+    .placeholder = Digite seu e-mail
+onboarding-join-form-email-error = É necessário um e-mail válido
+onboarding-join-form-legal = Ao continuar, você concorda com os <a data-l10n-name="terms">Termos do Serviço</a> e <a data-l10n-name="privacy">Aviso de Privacidade</a>.
 onboarding-join-form-continue = Continuar
 onboarding-start-browsing-button-label = Comece a navegar
 
@@ -19,6 +25,7 @@ onboarding-start-browsing-button-label = Comece a navegar
 
 onboarding-benefit-products-title = Produtos úteis
 onboarding-benefit-knowledge-title = Conhecimento prático
+onboarding-benefit-knowledge-text = Aprenda tudo o que precisa saber para ficar mais esperto e seguro online.
 onboarding-benefit-privacy-title = Privacidade verdadeira
 
 ## These strings belong to the individual onboarding messages.
