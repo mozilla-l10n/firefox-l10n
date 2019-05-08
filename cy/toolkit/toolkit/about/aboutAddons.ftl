@@ -267,12 +267,16 @@ go-back-button =
 
 ## Add-on actions
 
+report-addon-button = Adrodd
 remove-addon-button = Tynnu
 disable-addon-button = Analluogu
 enable-addon-button = Galluogi
 expand-addon-button = Rhagor o Opsiynau
 addons-enabled-heading = Galluogwyd
 addons-disabled-heading = Analluogwyd
+ask-to-activate-button = Gofyn i'w Weithredu
+always-activate-button = Gweithredu Bob Tro
+never-activate-button = Byth Gweithredu
 addon-detail-author-label = Awdur
 addon-detail-version-label = Fersiwn
 addon-detail-last-updated-label = Diweddarwyd Diwethaf
@@ -294,3 +298,20 @@ addon-detail-reviews-link =
         [many] { $numberOfReviews } adolygiad
        *[other] { $numberOfReviews } adolygiad
     }
+
+## Pending uninstall message bar
+
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = Mae <span data-l10n-name="addon-name">{ $addon }</span> wedi ei dynnu.
+pending-uninstall-undo-button = Dadwneud
+addon-detail-updates-label = Caniatáu diweddariadau awtomatig
+addon-detail-updates-radio-default = Rhagosodedig
+addon-detail-updates-radio-on = Ymlaen
+addon-detail-updates-radio-off = Diffodd
+addon-detail-update-check-label = Gwirio am Ddiweddariadau
+install-update-button = Diweddaru
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Caniatáu mewn ffenestri preifat

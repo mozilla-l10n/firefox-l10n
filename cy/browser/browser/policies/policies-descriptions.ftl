@@ -21,6 +21,7 @@ policy-Bookmarks = Creu nodau tudalen yn y bar offer Nodau Tudalen, dewislen Nod
 policy-CaptivePortal = Galluogi neu analluogi'r cymorth porth caeth.
 policy-CertificatesDescription = Ychwanegu tystysgrifau neu ddefnyddio tystysgrifau mewnol.
 policy-Cookies = Caniatáu neu wrthod i wefannau osod cwcis.
+policy-DefaultDownloadDirectory = Gosod y cyfeiriadur llwytho i lawr rhagosodedig.
 policy-DisableAppUpdate = Rhwystro'r wefan rhag diweddaru.
 policy-DisableBuiltinPDFViewer = Analluogi PDF.js, y dangosydd PDF mewnol yn { -brand-short-name }.
 policy-DisableDeveloperTools = Rhwystro mynediad i'r offer datblygwr.
@@ -45,6 +46,7 @@ policy-DisplayBookmarksToolbar = Dangos y Bar Offer Nodau Tudalen drwy ragosodia
 policy-DisplayMenuBar = Dangos y Bar Dewislen drwy ragosodiad
 policy-DNSOverHTTPS = Ffurfweddu DNS dros HTTPS.
 policy-DontCheckDefaultBrowser = Analluogi gwirio am y porwr rhagosodedig wrth gychwyn.
+policy-DownloadDirectory = Gosod a chloi'r cyfeiriadur llwytho i lawr.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Galluogi neu analluogi Rhwystro Cynnwys ac o ddewis ei gloi.
 # A “locked” extension can’t be disabled or removed by the user. This policy
@@ -52,6 +54,7 @@ policy-EnableTrackingProtection = Galluogi neu analluogi Rhwystro Cynnwys ac o d
 # English or translate them as verbs.
 policy-Extensions = Gosod, dadosod neu gloi estyniadau. Mae'r dewis gosod yn cymryd URL neu lwybrau fel paramedrau. Mae'r dewisiadau Dadosod a Chloi yn cymryd dynodiad estyniadau.
 policy-ExtensionUpdate = Galluogi neu analluogi diweddaru estyniadau'n awtomatig.
+policy-FirefoxHome = Ffurfweddu Firefox Home.
 policy-FlashPlugin = Caniatáu neu wrthod defnydd o'r ychwanegyn Flash.
 policy-HardwareAcceleration = Os gau, diffodd cyflymu caledwedd.
 # “lock” means that the user won’t be able to change this setting
@@ -67,6 +70,7 @@ policy-OverridePostUpdatePage = Diystyru'r dudalen ôl ddiweddaru "Beth sy'n New
 policy-Permissions = Ffurfweddu caniatâd ar gyfer camera, meicroffon, lleoliad a hysbysiadau.
 policy-PopupBlocking = Caniatáu rhai gwefannau i ddangos llamlenni drwy ragosodiad.
 policy-Preferences = Gosod a chloi gwerth is-set o ddewisiadau.
+policy-PromptForDownloadLocation = Gofynnwch ble i gadw ffeiliau wrth eu llwytho i lawr.
 policy-Proxy = Ffurfweddu gosodiadau eilydd
 policy-RequestedLocales = Gosodwch y rhestr o locales gofynnol ar gyfer y rhaglen yn ôl eich trefn dewis.
 policy-SanitizeOnShutdown = Clirio'r holl ddata llywio wrth adael
