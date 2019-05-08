@@ -11,7 +11,7 @@ onboarding-button-label-get-started = Začínáme
 onboarding-welcome-header = Vítá vás { -brand-short-name }
 onboarding-welcome-body = Prohlížeč teď už máte.<br/>Poznejte ještě zbytek aplikace { -brand-product-name }.
 onboarding-welcome-learn-more = Další výhody.
-onboarding-join-form-header = Připojte se k aplikaci { -brand-product-name }
+onboarding-join-form-header = Připojte se k&nbsp;aplikaci { -brand-product-name }
 onboarding-join-form-body = Zde vložte svou e-mailovou adresu.
 onboarding-join-form-email =
     .placeholder = Vložte e-mail
@@ -28,10 +28,10 @@ onboarding-benefit-products-text = Používejte na nástroje, které respektují
 onboarding-benefit-knowledge-title = Praktické informace
 onboarding-benefit-knowledge-text = Dozvíte se vše potřebné o soukromí a bezpečí na internetu.
 onboarding-benefit-privacy-title = Skutečné soukromí
-# "Personal Data Promise" should be treated as a brand and should be kept in
-# English. It refers to a concept shown elsewhere to the user: "The Firefox
-# Personal Data Promise is the way we honor your data in everything we make and
-# do. We take less data. We keep it safe. And we make sure that we are
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Slibujeme, že nezneužijeme vaše data. Méně je více, udržíme je v bezpečí a nemáme před vámi žádná tajemství.
 
