@@ -55,3 +55,12 @@ cfr-doorhanger-pintab-step2 = V nabídce vyberte <b>Připnout panel</b>.
 cfr-doorhanger-pintab-step3 = Pokud je na stránce něco nového, uvidíte u ní na liště panelů modrý puntík.
 cfr-doorhanger-pintab-animation-pause = Pozastavit
 cfr-doorhanger-pintab-animation-resume = Pokračovat
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Mějte své záložky všude s sebou.
+cfr-doorhanger-bookmark-fxa-body = Skvělý nález! Chcete mít tuto záložku i ve svém mobilním zařízení? Použijte { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-link-text = Synchronizujte své záložky…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Zavírací tlačítko
+    .title = Zavřít
