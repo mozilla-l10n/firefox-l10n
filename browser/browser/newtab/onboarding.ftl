@@ -5,10 +5,24 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-learn-more = Tìm hiểu thêm
 onboarding-button-label-try-now = Dùng thử ngay
 onboarding-button-label-get-started = Bắt đầu
 onboarding-welcome-header = Chào mừng đến với { -brand-short-name }
+onboarding-welcome-learn-more = Tìm hiểu thêm về các tiện ích.
+onboarding-join-form-header = Kết nối { -brand-product-name }
+onboarding-join-form-body = Nhập địa chỉ thư điện tử của bạn để bắt đầu.
+onboarding-join-form-email =
+    .placeholder = Nhập thư điện tử
+onboarding-join-form-email-error = Yêu cầu thư điện tử hợp lệ
+onboarding-join-form-legal = Khi chọn tiếp tục, bạn đồng ý với <a data-l10n-name="terms">điều khoản dịch vụ</a> và <a data-l10n-name="privacy">thông báo bảo mật</a>.
+onboarding-join-form-continue = Tiếp tục
 onboarding-start-browsing-button-label = Bắt đầu duyệt web
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-title = Sản phẩm hữu ích
 
 ## These strings belong to the individual onboarding messages.
 
@@ -28,6 +42,24 @@ onboarding-ghostery-text = Duyệt nhanh hơn, thông minh hơn hoặc an toàn 
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Đồng bộ hóa
 onboarding-fxa-text = Đăng ký tài khoản { -fxaccount-brand-name } để đồng bộ dấu trang, mật khẩu và các thẻ đang mở của bạn khi sử dụng { -brand-short-name } ở mọi nơi.
+# "Update" is a verb, as in "Update the existing settings", not "Options about
+# updates".
+onboarding-tracking-protection-button =
+    { PLATFORM() ->
+        [windows] Cập nhật tùy chọn
+       *[other] Cập nhật tùy chỉnh
+    }
+onboarding-data-sync-button = Bật { -sync-brand-short-name }
+onboarding-firefox-send-button = Thử { -send-brand-name }
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Tải về trình duyệt di động
+onboarding-send-tabs-button = Bắt đầu sử dụng trình gửi thẻ
+onboarding-pocket-anywhere-title = Đọc và nghe mọi nơi
+# "downtime" refers to the user's free/spare time.
+onboarding-pocket-anywhere-text = { -pocket-brand-name } lưu trữ các câu chuyện yêu thích của bạn để bạn có thể đọc, nghe và xem trong khoảng thời gian nghỉ ngơi của bạn, ngay cả khi bạn đang ngoại tuyến.
+onboarding-pocket-anywhere-button = Thử { -pocket-brand-name }
+onboarding-facebook-container-button = Thêm phần mở rộng
 
 ## Message strings belonging to the Return to AMO flow
 
