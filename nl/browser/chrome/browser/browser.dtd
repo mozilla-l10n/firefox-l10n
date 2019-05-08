@@ -1180,3 +1180,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Extensies beheren">
 <!ENTITY addonPrivateBrowsing.manageButton.accesskey "b">
+

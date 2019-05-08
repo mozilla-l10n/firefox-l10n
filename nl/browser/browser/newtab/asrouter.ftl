@@ -64,3 +64,4 @@ cfr-doorhanger-pintab-step3 = Als de website een update bevat, ziet u een blauwe
 
 cfr-doorhanger-pintab-animation-pause = Pauzeren
 cfr-doorhanger-pintab-animation-resume = Hervatten
+

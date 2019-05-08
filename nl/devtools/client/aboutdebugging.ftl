@@ -370,3 +370,4 @@ about-debugging-main-process-description2 = Hoofdproces voor de doelbrowser
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Bericht sluiten
+
