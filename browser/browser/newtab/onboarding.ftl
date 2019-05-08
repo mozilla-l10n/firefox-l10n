@@ -10,6 +10,7 @@ onboarding-button-label-try-now = 立即尝鲜
 onboarding-button-label-get-started = 开始使用
 onboarding-welcome-header = 欢迎使用 { -brand-short-name }
 onboarding-welcome-body = 浏览器安装完成。<br/>了解 { -brand-product-name } 的其他功能。
+onboarding-welcome-learn-more = 详细了解好处。
 onboarding-join-form-header = 加入 { -brand-product-name }
 onboarding-join-form-body = 请在此输入您的电子邮箱地址，即可开始使用。
 onboarding-join-form-email =
@@ -23,6 +24,8 @@ onboarding-start-browsing-button-label = 开始浏览
 ## description.
 
 onboarding-benefit-products-title = 有用的产品
+onboarding-benefit-products-text = 使用各种尊重您隐私的工具，更快完成工作。
+onboarding-benefit-knowledge-text = 了解所需要知道的一切，让您上网更智能、更安全。
 # "Personal Data Promise" should be treated as a brand and should be kept in
 # English. It refers to a concept shown elsewhere to the user: "The Firefox
 # Personal Data Promise is the way we honor your data in everything we make and
