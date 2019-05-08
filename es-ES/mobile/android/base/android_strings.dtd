@@ -921,6 +921,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Pausar">
 <!ENTITY pip_pause_button_description "Pausar reproducción">
 
+<!ENTITY pref_notification_settings_link "Gestionar ajustes de notificaciones">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Navegador">
 <!ENTITY mls_notification_channel "&vendorShortName; Servicio de localización">
