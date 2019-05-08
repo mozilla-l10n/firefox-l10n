@@ -34,5 +34,7 @@
 <!ENTITY authRequired.button.label        "შესვლა">
 <!ENTITY authRequired.button.accesskey    "U">
 
+<!ENTITY findCloudFileProviders.label     "მეტი მომსახურების მოძიება…">
+
 <!ENTITY enableCloudFileAccountOffer.label "შემოთავაზება ფაილებისთვის ზომით მეტი ვიდრე">
 <!ENTITY enableCloudFileAccountOffer.mb "მბ">
