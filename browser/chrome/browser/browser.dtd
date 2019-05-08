@@ -133,12 +133,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY importFromAnotherBrowserCmd.label "გადმოტანა სხვა ბრაუზერიდან…">
-<!ENTITY importFromAnotherBrowserCmd.accesskey "ტ">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "ბ">
 
 <!ENTITY taskManagerCmd.label "ამოცანათა მმართველი">
 
 <!ENTITY goOfflineCmd.label "კავშირგარეშე რეჟიმი">
-<!ENTITY goOfflineCmd.accesskey "გ">
+<!ENTITY goOfflineCmd.accesskey "კ">
 
 <!ENTITY menubarCmd.label "მენიუს ზოლი">
 <!ENTITY menubarCmd.accesskey "ზ">
@@ -408,7 +408,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY manageUserContext.accesskey      "ა">
 <!ENTITY newNavigatorCmd.label        "ახალი ფანჯარა">
 <!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "ა">
+<!ENTITY newNavigatorCmd.accesskey      "ნ">
 <!ENTITY newPrivateWindow.label     "ახალი პირადი ფანჯარა">
 <!ENTITY newPrivateWindow.accesskey "ფ">
 
