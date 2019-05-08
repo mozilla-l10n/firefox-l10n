@@ -290,8 +290,12 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> 已被移除。
 pending-uninstall-undo-button = 撤销
 addon-detail-updates-label = 允许自动更新
+addon-detail-updates-radio-default = 默认
 addon-detail-updates-radio-on = 开
 addon-detail-updates-radio-off = 关
 addon-detail-update-check-label = 检查更新
