@@ -56,6 +56,9 @@ cfr-doorhanger-pintab-animation-resume = Resumer
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-header = Synchronisa tu marcapaginas ubique.
+cfr-doorhanger-bookmark-fxa-body = Grande discoperta! Ora non restar sin iste marcapagina sur tu apparatos mobile. Comencia con un { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-link-text = Synchronisa marcapaginas ora…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Button Clauder
     .title = Clauder
