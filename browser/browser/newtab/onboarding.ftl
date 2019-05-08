@@ -64,6 +64,17 @@ onboarding-browse-privately-button = Abrir uma janela privativa
 onboarding-firefox-send-title = Mantenha privativos seus arquivos compartilhados
 onboarding-firefox-send-button = Experimente o { -send-brand-name }
 onboarding-mobile-phone-title = Instale o { -brand-product-name } no seu celular
+onboarding-send-tabs-title = Envie abas para si mesmo instantaneamente
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = O envio instantâneo de abas compartilha páginas entre seus dispositivos sem precisar copiar, colar ou sair do navegador.
+onboarding-send-tabs-button = Comece a usar o envio de abas
+onboarding-pocket-anywhere-title = Leia e ouça em qualquer lugar
+onboarding-pocket-anywhere-button = Experimente o { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Leve suas senhas para qualquer lugar
+onboarding-lockwise-passwords-text = O { -lockwise-brand-name } salva suas senhas em um local seguro, assim você pode facilmente acessar suas contas.
+onboarding-lockwise-passwords-button = Instale o { -lockwise-brand-name }
+onboarding-facebook-container-button = Adicionar a extensão
 
 ## Message strings belonging to the Return to AMO flow
 
