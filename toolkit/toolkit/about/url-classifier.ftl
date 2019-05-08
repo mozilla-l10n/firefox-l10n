@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-url-classifier-title = URL მახარისხებლის მონაცემები
+url-classifier-title = URL-მახარისხებლის მონაცემები
 url-classifier-search-title = ძიება
 url-classifier-search-result-title = შედეგები
 url-classifier-search-result-uri = URI: { $uri }
@@ -35,15 +35,15 @@ url-classifier-cache-pcache-expiry = კეშის დადებითი �
 url-classifier-debug-title = გამართვა
 url-classifier-debug-module-btn = აღრიცხვის მოდულების მითითება
 url-classifier-debug-file-btn = აღრიცხვის ფაილის მითითება
-url-classifier-debug-js-log-chk = JS აღრიცხვის მითითება
+url-classifier-debug-js-log-chk = JS-აღრიცხვის მითითება
 url-classifier-debug-sb-modules = უსაფრთხო თვალიერების აღრიცხვის მოდულები
 url-classifier-debug-modules = მიმდინარე აღრიცხვის მოდულები
-url-classifier-debug-sbjs-modules = უსაფრთხო თვალიერების JS აღრიცხვა
+url-classifier-debug-sbjs-modules = უსაფრთხო თვალიერების JS-აღრიცხვა
 url-classifier-debug-file = მიმდინარე აღრიცხვის ფაილი
 url-classifier-trigger-update = განახლების გაშვება
 url-classifier-not-available = მიუწვდომელია
-url-classifier-disable-sbjs-log = უსაფრთხო თვალიერების JS აღრიცხვის გამორთვა
-url-classifier-enable-sbjs-log = უსაფრთხო თვალიერების JS აღრიცხვის ჩართვა
+url-classifier-disable-sbjs-log = უსაფრთხო თვალიერების JS-აღრიცხვის გამორთვა
+url-classifier-enable-sbjs-log = უსაფრთხო თვალიერების JS-აღრიცხვის ჩართვა
 url-classifier-enabled = ჩართულია
 url-classifier-disabled = გამორთულია
 url-classifier-updating = მიმდინარეობს განახლება

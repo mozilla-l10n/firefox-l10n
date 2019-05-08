@@ -14,12 +14,12 @@ about-telemetry-option-group-yesterday = გუშინ
 about-telemetry-option-group-older = უფრო ძველი
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
-about-telemetry-page-title = ტელემეტრიის მონაცემები
+about-telemetry-page-title = გაზომვების მონაცემები
 about-telemetry-more-information = მეტ ინფორმაციას ეძებთ?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox მონაცემთა დოკუმენტაცია</a> შეიცავს მითითებებს, მონაცემთა ხელსაწყოებთან მუშაობის შესახებ.
-about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox ტელემეტრიის კლიენტის დოკუმენტაცია</a> შეიცავს განმარტებებს, კონცეფციას, API დოკუმენტაციასა და მითითებებს, მონაცემების შესახებ.
-about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">ტელემეტრიის გვერდი</a>, Mozilla-ს მიერ აღრიცხული მონაცემების ვიზუალურად წარმოდგენის საშუალებას იძლევა.
-about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">კვლევის ლექსიკონში</a> მოცემულია დაწვრილებითი ინფორმაცია და აღწერილობა ტელემეტრიით ჩატარებული კვლევების.
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox-გაზომვების კლიენტის მასალები</a> შეიცავს განმარტებებს, კონცეფციას, API-დოკუმენტაციასა და მითითებებს, მონაცემების შესახებ.
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">გაზომვების გვერდი</a>, Mozilla-ს მიერ აღრიცხული მონაცემების ვიზუალურად წარმოდგენის საშუალებას იძლევა.
+about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">კვლევის ლექსიკონში</a> მოცემულია დაწვრილებითი ინფორმაცია და აღწერილობა გაზომვებით ჩატარებული კვლევების.
 about-telemetry-show-in-Firefox-json-viewer = JSON მნახველში გახსნა
 about-telemetry-home-section = მთავარი
 about-telemetry-general-data-section = ზოგადი მონაცემები
@@ -31,13 +31,13 @@ about-telemetry-histograms-section = გრაფიკები
 about-telemetry-keyed-histogram-section = შიფრიანი გრაფიკები
 about-telemetry-events-section = მოვლენები
 about-telemetry-simple-measurements-section = მარტივი განსაზღვრებები
-about-telemetry-slow-sql-section = ნელი SQL-ს ბრძანებები
+about-telemetry-slow-sql-section = ნელი SQL-ბრძანებები
 about-telemetry-addon-details-section = დამატების მონაცემები
 about-telemetry-captured-stacks-section = დაფიქსირებული სტეკები
 about-telemetry-late-writes-section = გვიანი ჩაწერები
 about-telemetry-raw-payload-section = ნედლი დატვირთვა
 about-telemetry-raw = ნედლი JSON
-about-telemetry-full-sql-warning = შენიშვნა: ნელი SQL-ს გამართვა ჩართულია. შესაძლოა ქვემოთ სრული SQL სტრიქონები გამოჩნდეს, მაგრამ ისინი არ გადაეგზავნება ტელემეტრიას.
+about-telemetry-full-sql-warning = შენიშვნა: ნელი SQL-ის გამართვა ჩართულია. შესაძლოა ქვემოთ სრული SQL-სტრიქონები გამოჩნდეს, მაგრამ ისინი არ აღირიცხება გაზომვებში.
 about-telemetry-fetch-stack-symbols = ფუნქციების სახელების გადმოტანა სტეკებითვის
 about-telemetry-hide-stack-symbols = სტეკების ნედლი მონაცემების ჩვენება
 # Selects the correct release version
@@ -68,13 +68,13 @@ about-telemetry-histogram-stats =
     }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-page-subtitle = ამ გვერდზე ნაჩვენებია ტელემეტრიის მიერ შეგროვებული ინფორმაცია წარმადობის, აპარატურის, პროგრამის გამოყენებისა და შერჩეული პარამეტრების შესახებ, რომელიც იგზავნება { $telemetryServerOwner }-ში, { -brand-full-name }-ის გასაუმჯობესებლად.
-about-telemetry-settings-explanation = ტელემეტრიით აღირიცხება { about-telemetry-data-type }, რომელთა ატვირთვაც <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
+about-telemetry-page-subtitle = ამ გვერდზე ნაჩვენებია გაზომვების მიერ შეგროვებული ინფორმაცია წარმადობის, აპარატურის, პროგრამის გამოყენებისა და შერჩეული პარამეტრების შესახებ, რომელიც იგზავნება { $telemetryServerOwner }-ში, { -brand-full-name }-ის გასაუმჯობესებლად.
+about-telemetry-settings-explanation = გაზომვებით აღირიცხება { about-telemetry-data-type }, რომელთა ატვირთვაც <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
-about-telemetry-ping-details = მონაცემების ცალკეული ნაწილები იკვრება და იგზავნება “<a data-l10n-name="ping-link">პინგებად</a>”. თქვენ ნახულობთ { $name }, { $timestamp } პინგს.
-about-telemetry-ping-details-current = მონაცემების ცალკეული ნაწილები იკვრება და იგზავნება “<a data-l10n-name="ping-link">პინგებად</a>”. თქვენ ნახულობთ მიმდინარე პინგს.
+about-telemetry-ping-details = მონაცემების ცალკეული ნაწილები იკვრება და იგზავნება „<a data-l10n-name="ping-link">პინგებად</a>“. თქვენ ნახულობთ { $name }, { $timestamp } პინგს.
+about-telemetry-ping-details-current = მონაცემების ცალკეული ნაწილები იკვრება და იგზავნება „<a data-l10n-name="ping-link">პინგებად</a>“. თქვენ ნახულობთ მიმდინარე პინგს.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -106,8 +106,8 @@ about-telemetry-telemetry-ping-type-all = ყველა
 # button label to copy the histogram
 about-telemetry-histogram-copy = ასლი
 # these strings are used in the “Slow SQL Statements” section
-about-telemetry-slow-sql-main = ნელი SQL ბრძანებები მთავარ ნაკადში
-about-telemetry-slow-sql-other = ნელი SQL ბრძანებები დამხმარე ნაკადებში
+about-telemetry-slow-sql-main = ნელი SQL-ბრძანებები მთავარ ნაკადში
+about-telemetry-slow-sql-other = ნელი SQL-ბრძანებები დამხმარე ნაკადებში
 about-telemetry-slow-sql-hits = რაოდ.
 about-telemetry-slow-sql-average = საშ. დრო (მწმ)
 about-telemetry-slow-sql-statement = ბრძანებები
@@ -135,9 +135,9 @@ about-telemetry-category-header = კატეგორია
 about-telemetry-method-header = მეთოდი
 about-telemetry-object-header = ობიექტი
 about-telemetry-extra-header = დამატებით
-about-telemetry-origin-section = Origin-ტელემეტრია
+about-telemetry-origin-section = Origin-გაზომვება
 about-telemetry-origin-origin = წარმომავლობა
 about-telemetry-origin-count = რაოდენობა
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin-ტელემეტრია</a> შიფრავს მონაცემებს გადაგზავნამდე, შესაბამისად { $telemetryServerOwner } შეძლებს გაზომვებს, თუმცა არ ეცოდინება რომელი { -brand-product-name } აწვდის საჭირო მონაცემებს. (<a data-l10n-name="prio-blog-link">ვრცლად</a>)
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin-გაზომვება</a> შიფრავს მონაცემებს გადაგზავნამდე, შესაბამისად { $telemetryServerOwner } შეძლებს გაზომვებს, თუმცა არ ეცოდინება რომელი { -brand-product-name } აწვდის საჭირო მონაცემებს. (<a data-l10n-name="prio-blog-link">ვრცლად</a>)
