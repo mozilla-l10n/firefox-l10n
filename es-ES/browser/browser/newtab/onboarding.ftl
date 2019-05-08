@@ -10,7 +10,7 @@ onboarding-button-label-try-now = Pruébelo ahora
 onboarding-button-label-get-started = Comenzar
 onboarding-welcome-header = Bienvenido a { -brand-short-name }
 onboarding-welcome-learn-more = Saber más sobre las ventajas.
-onboarding-join-form-body = Para empezar, introduce tu dirección de correo.
+onboarding-join-form-body = Para empezar, introduzca su dirección de correo.
 onboarding-join-form-email =
     .placeholder = Introducir dirección de correo
 onboarding-join-form-email-error = Una dirección de correo válida es obligatoria
@@ -47,18 +47,18 @@ onboarding-tracking-protection-button =
         [windows] Actualizar opciones
        *[other] Actualizar preferencias
     }
-onboarding-firefox-monitor-button = Suscríbete para recibir alertas
-onboarding-browse-privately-title = Navega de forma privada
+onboarding-firefox-monitor-button = Suscríbase para recibir alertas
+onboarding-browse-privately-title = Navegue de forma privada
 onboarding-browse-privately-button = Abrir una ventana privada
-onboarding-firefox-send-button = Prueba { -send-brand-name }
-onboarding-mobile-phone-title = Consigue { -brand-product-name } en tu teléfono
-onboarding-mobile-phone-text = Descargar { -brand-product-name } para iOS o Android y sincroniza tu información en todos tus dispositivos.
+onboarding-firefox-send-button = Pruebe { -send-brand-name }
+onboarding-mobile-phone-title = Consiga { -brand-product-name } en su teléfono
+onboarding-mobile-phone-text = Descargue { -brand-product-name } para iOS o Android y sincronice su información en todos los dispositivos.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Descargar navegador móvil
-onboarding-pocket-anywhere-button = Prueba { -pocket-brand-name }
-onboarding-lockwise-passwords-title = Llévate tus contraseñas contigo a todas partes
-onboarding-lockwise-passwords-button = Consigue { -lockwise-brand-name }
+onboarding-pocket-anywhere-button = Pruebe { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Llévese sus contraseñas consigo a todas partes
+onboarding-lockwise-passwords-button = Consiga { -lockwise-brand-name }
 onboarding-facebook-container-button = Agregar extensión
 
 ## Message strings belonging to the Return to AMO flow

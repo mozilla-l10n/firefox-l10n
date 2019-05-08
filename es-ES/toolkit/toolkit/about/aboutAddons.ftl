@@ -272,6 +272,9 @@ enable-addon-button = Activar
 expand-addon-button = Más opciones
 addons-enabled-heading = Activado
 addons-disabled-heading = Desactivado
+ask-to-activate-button = Preguntar antes de activar
+always-activate-button = Activar siempre
+never-activate-button = No activar nunca
 addon-detail-author-label = Autor
 addon-detail-version-label = Versión
 addon-detail-last-updated-label = Últ. actualización
@@ -289,3 +292,20 @@ addon-detail-reviews-link =
         [one] { $numberOfReviews } revisión
        *[other] { $numberOfReviews } revisiones
     }
+
+## Pending uninstall message bar
+
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = Se ha eliminado <span data-l10n-name="addon-name">{ $addon }</span>.
+pending-uninstall-undo-button = Deshacer
+addon-detail-updates-label = Permitir actualizaciones automáticas
+addon-detail-updates-radio-default = Predeterminado
+addon-detail-updates-radio-on = Activado
+addon-detail-updates-radio-off = Desactivar
+addon-detail-update-check-label = Comprobar si hay actualizaciones
+install-update-button = Actualizar
+addon-detail-private-browsing-allow = Permitir
+addon-detail-private-browsing-disallow = No permitir
+available-updates-heading = Actualizaciones disponibles
+recent-updates-heading = Actualizaciones recientes
