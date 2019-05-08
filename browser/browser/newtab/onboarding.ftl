@@ -26,7 +26,14 @@ onboarding-start-browsing-button-label = 開始瀏覽
 onboarding-benefit-products-title = 有用的產品
 onboarding-benefit-products-text = 使用各種尊重您隱私的小工具，更快達成任務。
 onboarding-benefit-knowledge-title = 實用小知識
+onboarding-benefit-knowledge-text = 瞭解您需要的所有資訊，在線上更聰明、更安全。
 onboarding-benefit-privacy-title = 保護隱私權
+# "Personal Data Promise" should be treated as a brand and should be kept in
+# English. It refers to a concept shown elsewhere to the user: "The Firefox
+# Personal Data Promise is the way we honor your data in everything we make and
+# do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = 我們作的任何事情，都符合我們對個人資料隱私的承諾: 能少拿就少拿、確保資料安全、絕不偷偷來。
 
 ## These strings belong to the individual onboarding messages.
 
@@ -46,6 +53,8 @@ onboarding-ghostery-text = 使用 Ghostery 封鎖討人厭的廣告，讓您上�
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = 同步
 onboarding-fxa-text = 註冊 { -fxaccount-brand-name } 後，即可在任何使用 { -brand-short-name } 的地方同步您的書籤、密碼、開啟的分頁。
+onboarding-tracking-protection-title = 控制您如何被追蹤
+onboarding-tracking-protection-text = 不喜歡有廣告在各地追蹤你嗎？{ -brand-short-name } 可協助您控制廣告商如何在線上追蹤您的上網行為。
 # "Update" is a verb, as in "Update the existing settings", not "Options about
 # updates".
 onboarding-tracking-protection-button =
@@ -60,6 +69,8 @@ onboarding-data-sync-button = 開啟 { -sync-brand-short-name }
 onboarding-firefox-monitor-title = 小心資料外洩！
 onboarding-firefox-monitor-text = { -monitor-brand-name } 會監控您的 E-Mail 是否出現在資料外洩事故中，並且在有新事故時通知您。
 onboarding-firefox-monitor-button = 訂閱帳號資料外洩警報
+onboarding-browse-privately-title = 私密上網
+onboarding-browse-privately-text = 隱私瀏覽模式會自動清除您的搜尋與上網紀錄，讓其他使用同一台電腦的使用者無法得知您的上網紀錄。
 onboarding-browse-privately-button = 開啟隱私視窗
 onboarding-firefox-send-title = 以私密的方式分享檔案
 onboarding-firefox-send-text = { -send-brand-name } 透過點對點加密與會自動失效的鏈結，保護您要分享的檔案。
