@@ -24,6 +24,7 @@ onboarding-start-browsing-button-label = Tichap Okem Pa K'amaya'l
 ## description.
 
 onboarding-benefit-products-title = Okel taq Tikojil
+onboarding-benefit-products-text = Kasamäj rik'in jun molaj samajib'äl, ri nukamelaj ri awichinanem pa ronojel awokisab'al.
 
 ## These strings belong to the individual onboarding messages.
 
