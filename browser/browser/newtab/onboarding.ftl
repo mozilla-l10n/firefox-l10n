@@ -28,12 +28,12 @@ onboarding-benefit-products-text = იმუშავეთ შედეგი�
 onboarding-benefit-knowledge-title = გამოსადეგი ცოდნა
 onboarding-benefit-knowledge-text = შეისწავლეთ ყველაფერი, ინტერნეტის გონივრულად და უსაფრთხოდ გამოსაყენებლად.
 onboarding-benefit-privacy-title = ჭეშმარიტი პირადულობა
-# "Personal Data Promise" should be treated as a brand and should be kept in
-# English. It refers to a concept shown elsewhere to the user: "The Firefox
-# Personal Data Promise is the way we honor your data in everything we make and
-# do. We take less data. We keep it safe. And we make sure that we are
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
-onboarding-benefit-privacy-text = ყველაფერი რასაც ვაკეთებ, ექვემდებარება, პირადი მონაცემების დაცვის ჩვენს პირობას: ნაკლების აღრიცხვა. უსაფრთხოდ შენახვა. არანაირი საიდუმლოება.
+onboarding-benefit-privacy-text = ყველაფერი რასაც ვსაქმიანობთ, ექვემდებარება პირადი მონაცემების დაცვის ჩვენს პირობას: ნაკლები აღრიცხვა. უსაფრთხო შენახვა. არანაირი საიდუმლოება.
 
 ## These strings belong to the individual onboarding messages.
 
