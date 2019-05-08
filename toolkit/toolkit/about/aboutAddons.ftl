@@ -270,12 +270,16 @@ go-back-button =
 
 ## Add-on actions
 
+report-addon-button = საჩივარი
 remove-addon-button = მოცილება
 disable-addon-button = ამორთვა
 enable-addon-button = ჩართვა
 expand-addon-button = დამატებითი პარამეტრები
 addons-enabled-heading = ჩართულია
 addons-disabled-heading = ამორთულია
+ask-to-activate-button = ნებართვა გასაშვებად
+always-activate-button = ყოველთვის გაეშვას
+never-activate-button = არასდროს გაეშვას
 addon-detail-author-label = შემქმნელი
 addon-detail-version-label = ვერსია
 addon-detail-last-updated-label = ბოლო განახლება
@@ -293,3 +297,25 @@ addon-detail-reviews-link =
         [one] { $numberOfReviews } მიმოხილვა
        *[other] { $numberOfReviews } მიმოხილვა
     }
+
+## Pending uninstall message bar
+
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> მოცილებულია.
+pending-uninstall-undo-button = დაბრუნება
+addon-detail-updates-label = თვითგანახლებების დაშვება
+addon-detail-updates-radio-default = ნაგულისხმევი
+addon-detail-updates-radio-on = ჩართ.
+addon-detail-updates-radio-off = გამორთ.
+addon-detail-update-check-label = განახლებებზე შემოწმება
+install-update-button = განახლება
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = დაშვებულია პირად ფანჯრებში
+addon-detail-private-browsing-help = დაშვების შემთხვევაში, გაფართოებას წვდომა ექნება თქვენს მოქმედებებზე პირად ფანჯრებში. <a data-l10n-name="learn-more">ვრცლად</a>
+addon-detail-private-browsing-allow = დაშვება
+addon-detail-private-browsing-disallow = აკრძალვა
+available-updates-heading = ხელმისწვდომი განახლებები
+recent-updates-heading = ბოლო განახლებები
