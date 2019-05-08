@@ -56,7 +56,7 @@ cfr-doorhanger-pintab-animation-resume = Reanudar
 
 ## Firefox Accounts Message
 
-cfr-doorhanger-bookmark-fxa-header = Sincroniza tus marcadores estés donde estés.
+cfr-doorhanger-bookmark-fxa-header = Sincronice sus marcadores esté donde esté.
 cfr-doorhanger-bookmark-fxa-link-text = Sincronizando marcadores...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Cerrar botón

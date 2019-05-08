@@ -21,6 +21,7 @@ policy-Bookmarks = Crear marcadores en la barra de herramientas de marcadores, e
 policy-CaptivePortal = Activar o desactivar el soporte de portal cautivo.
 policy-CertificatesDescription = Añada certificados o use los certificados incluidos de serie.
 policy-Cookies = Permitir o denegar a los sitios web establecer cookies.
+policy-DefaultDownloadDirectory = Establecer el directorio de descargas predeterminado.
 policy-DisableAppUpdate = Evitar que el navegador se actualice.
 policy-DisableBuiltinPDFViewer = Desactivar PDF.js, el visor de PDF integrado en { -brand-short-name }.
 policy-DisableDeveloperTools = Bloquear el acceso a las herramientas de desarrollador.
@@ -45,6 +46,7 @@ policy-DisplayBookmarksToolbar = Mostrar de forma predeterminada la barra de her
 policy-DisplayMenuBar = Mostrar de forma predeterminada la barra de menú.
 policy-DNSOverHTTPS = Configurar DNS sobre HTTPS.
 policy-DontCheckDefaultBrowser = Desactivar la comprobación de navegador predeterminado al iniciar.
+policy-DownloadDirectory = Establecer y bloquear el directorio de descargas predeterminado.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Activar o desactivar el bloqueo de contenido y bloquearlo opcionalmente.
 # A “locked” extension can’t be disabled or removed by the user. This policy
