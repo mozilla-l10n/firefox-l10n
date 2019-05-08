@@ -21,6 +21,7 @@ policy-Bookmarks = Crear marcapaginas in le barra del instrumentos de marcapagin
 policy-CaptivePortal = Activar o disactivar supporto pro portal captive.
 policy-CertificatesDescription = Adde certificatos o usa certificatos integrate.
 policy-Cookies = Consentir o negar al sitos web de definir cookies.
+policy-DefaultDownloadDirectory = Configura le directorio de discarga predefinite.
 policy-DisableAppUpdate = Impedir le actualisation del navigator.
 policy-DisableBuiltinPDFViewer = Inactivar PDF.js, le visor de PDF integrate in { -brand-short-name }.
 policy-DisableDeveloperTools = Blocar le accesso al instrumentos del developpatores.

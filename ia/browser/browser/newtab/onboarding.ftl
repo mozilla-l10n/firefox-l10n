@@ -90,6 +90,11 @@ onboarding-pocket-anywhere-title = Lege e ascolta ubicunque
 onboarding-pocket-anywhere-text = { -pocket-brand-name } salva tu favorite historias assi que tu pote leger, ascoltar e observar durante tu tempore libere, mesmo si tu es sin connexion.
 onboarding-pocket-anywhere-button = Prova { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Porta ubique con te tu contrasignos
+onboarding-lockwise-passwords-text = { -lockwise-brand-name } salva tu contrasignos in un loco secur assi que tu pote facilemente accede a tu contos.
+onboarding-lockwise-passwords-button = Discarga { -lockwise-brand-name }
+onboarding-facebook-container-title = Defini limites pro Facebook
+onboarding-facebook-container-text = { -facebook-container-brand-name } mantene tu identitate de Facebook separate de toto le altero, rendente plus dur traciar te ab le altere latere del Web.
+onboarding-facebook-container-button = Adder le extension
 
 ## Message strings belonging to the Return to AMO flow
 
