@@ -269,12 +269,16 @@ go-back-button =
 
 ## Add-on actions
 
+report-addon-button = Паведаміць
 remove-addon-button = Выдаліць
 disable-addon-button = Адключыць
 enable-addon-button = Уключыць
 expand-addon-button = Дадатковыя параметры
 addons-enabled-heading = Уключана
 addons-disabled-heading = Выключана
+ask-to-activate-button = Спытаць для задзейнічання
+always-activate-button = Заўсёды задейнічаць
+never-activate-button = Ніколі не задзейнічаць
 addon-detail-author-label = Аўтар
 addon-detail-version-label = Версія
 addon-detail-last-updated-label = Апошняе абнаўленне
@@ -293,3 +297,25 @@ addon-detail-reviews-link =
         [few] { $numberOfReviews } водгукі
        *[many] { $numberOfReviews } водгукаў
     }
+
+## Pending uninstall message bar
+
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> быў выдалены.
+pending-uninstall-undo-button = Адмяніць
+addon-detail-updates-label = Дазволіць аўтаматычныя абнаўленні
+addon-detail-updates-radio-default = Прадвызначана
+addon-detail-updates-radio-on = Укл.
+addon-detail-updates-radio-off = Выкл.
+addon-detail-update-check-label = Праверыць наяўнасць абнаўленняў
+install-update-button = Абнавіць
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Дазволена ў прыватных вокнах
+addon-detail-private-browsing-help = Калі дазволена, пашырэнне будзе мець доступ да вашай дзейнасці ў сеціве ў час прыватнага аглядання. <a data-l10n-name="learn-more">Даведацца больш</a>
+addon-detail-private-browsing-allow = Дазволіць
+addon-detail-private-browsing-disallow = Не дазваляць
+available-updates-heading = Даступныя абнаўленні
+recent-updates-heading = Нядаўнія абнаўленні

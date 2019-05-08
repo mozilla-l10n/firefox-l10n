@@ -35,6 +35,11 @@ onboarding-ghostery-text = Зрабіце агляд хутчэйшым, бяс�
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Сінхранізаваць
 onboarding-fxa-text = Зарэгіструйцеся ў { -fxaccount-brand-name } і сінхранізуйце свае закладкі, паролі і адкрытыя карткі ўсюды, дзе карыстаецеся { -brand-short-name }.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Сцягнуць мабільны браўзер
+onboarding-pocket-anywhere-title = Чытайце і слухайце ў любым месцы
+onboarding-facebook-container-button = Дадаць пашырэнне
 
 ## Message strings belonging to the Return to AMO flow
 
