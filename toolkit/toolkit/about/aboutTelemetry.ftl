@@ -16,7 +16,7 @@ about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = გაზომვების მონაცემები
 about-telemetry-more-information = მეტ ინფორმაციას ეძებთ?
-about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox მონაცემთა დოკუმენტაცია</a> შეიცავს მითითებებს, მონაცემთა ხელსაწყოებთან მუშაობის შესახებ.
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox-ის მონაცემთა მასალები</a> შეიცავს მითითებებს, მონაცემთა ხელსაწყოებთან მუშაობის შესახებ.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox-გაზომვების კლიენტის მასალები</a> შეიცავს განმარტებებს, კონცეფციას, API-დოკუმენტაციასა და მითითებებს, მონაცემების შესახებ.
 about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">გაზომვების გვერდი</a>, Mozilla-ს მიერ აღრიცხული მონაცემების ვიზუალურად წარმოდგენის საშუალებას იძლევა.
 about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">კვლევის ლექსიკონში</a> მოცემულია დაწვრილებითი ინფორმაცია და აღწერილობა გაზომვებით ჩატარებული კვლევების.
@@ -135,9 +135,9 @@ about-telemetry-category-header = კატეგორია
 about-telemetry-method-header = მეთოდი
 about-telemetry-object-header = ობიექტი
 about-telemetry-extra-header = დამატებით
-about-telemetry-origin-section = Origin-გაზომვება
+about-telemetry-origin-section = წყაროს გაზომვები
 about-telemetry-origin-origin = წარმომავლობა
 about-telemetry-origin-count = რაოდენობა
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin-გაზომვება</a> შიფრავს მონაცემებს გადაგზავნამდე, შესაბამისად { $telemetryServerOwner } შეძლებს გაზომვებს, თუმცა არ ეცოდინება რომელი { -brand-product-name } აწვდის საჭირო მონაცემებს. (<a data-l10n-name="prio-blog-link">ვრცლად</a>)
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox-ის წყაროს გაზომვები</a> შიფრავს მონაცემებს გადაგზავნამდე, შესაბამისად { $telemetryServerOwner } შეძლებს მათ აღრიცხვას, თუმცა არ ეცოდინება რომელი { -brand-product-name } აწვდის საჭირო მონაცემებს. (<a data-l10n-name="prio-blog-link">ვრცლად</a>)
