@@ -9,7 +9,13 @@ onboarding-button-label-learn-more = Saper plus
 onboarding-button-label-try-now = Proba lo subito
 onboarding-button-label-get-started = Comencia
 onboarding-welcome-header = Benvenite a { -brand-short-name }
+onboarding-welcome-learn-more = Saper plus re le beneficios.
+onboarding-join-form-header = Junge te a { -brand-product-name }
+onboarding-join-form-body = Insere tu adresse email pro comenciar.
+onboarding-join-form-email =
+    .placeholder = Insere email
 onboarding-join-form-email-error = Il es necesse un valide adresse email
+onboarding-join-form-legal = Si tu procede, tu consenti al <a data-l10n-name="terms">Terminos de servicio</a> e  al <a data-l10n-name="privacy">Aviso de confidentialitate</a>.
 onboarding-join-form-continue = Continuar
 onboarding-start-browsing-button-label = Comencia a navigar
 

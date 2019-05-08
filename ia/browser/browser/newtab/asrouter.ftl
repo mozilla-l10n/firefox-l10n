@@ -53,3 +53,9 @@ cfr-doorhanger-pintab-step2 = Elige <b>Appunctar scheda</b> ab le menu.
 cfr-doorhanger-pintab-step3 = Si le sito ha un actualisation tu videra un puncto blau sur tu scheda appunctate.
 cfr-doorhanger-pintab-animation-pause = Pausar
 cfr-doorhanger-pintab-animation-resume = Resumer
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Button Clauder
+    .title = Clauder
