@@ -18,7 +18,7 @@
 <!ENTITY clearDiskCache.accesskey        "C">
 <!ENTITY chooseDiskCacheFolder.label     "საქაღალდის არჩევა…">
 <!ENTITY chooseDiskCacheFolder.accesskey "F">
-<!ENTITY diskCacheFolderExplanation      "ბუფერის ფაილები შეინახება თქვენს მიერ მითითებული საქაღალდის &quot;ბუფერი&quot; ქვესაქაღალდეში. ცვლილებები ამოქმედდება &brandShortName;-ს ახალი სეანსის შემდეგ.">
+<!ENTITY diskCacheFolderExplanation      "ბუფერის ფაილები შეინახება თქვენ მიერ მითითებული საქაღალდის &quot;ბუფერი&quot; ქვესაქაღალდეში. ცვლილებები ამოქმედდება &brandShortName;-ს ახალი სეანსის შემდეგ.">
 <!ENTITY docCache.label                  "ბუფერში განთავსებული გვერდის ქსელურ ვერსიასთან შედარება:">
 <!ENTITY docCache.accesskey              "m">
 <!ENTITY checkOncePerSession.label       "სეანსში ერთხელ">
