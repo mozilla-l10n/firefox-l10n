@@ -70,16 +70,21 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = DNS-სთან HTTPS-კავშირი
     .accesskey = H
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = URL-ბმული DNS-სთან HTTPS-კავშირისთვის
 # Variables:
 #   $url (String) - URL for the DNS over HTTPS provider
 connection-dns-over-https-url-default =
     .label = ნაგულისხმევის გამოყენება ({ $url })
     .accesskey = ნ
     .tooltiptext = ნაგულისხმევი URL-ს გამოყენება DNS-გადაყვანებისთვის HTTPS-ით
+connection-dns-over-https-url-resolver = მომსახურების გამოყენება
+    .accesskey = ხ
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (ნაგულისხმევი)
+    .tooltiptext = ნაგულისხმევი URL-ბმულის გამოყენება DNS-გადაყვანებისთვის HTTPS-ით
 connection-dns-over-https-url-custom =
     .label = მითითებული
     .accesskey = მ
     .tooltiptext = შეიყვანეთ სასურველი URL-მისამართი DNS-გადაყვანებისთვის HTTPS-ით
+connection-dns-over-https-custom-label = მითითებული
