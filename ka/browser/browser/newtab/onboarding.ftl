@@ -11,10 +11,11 @@ onboarding-button-label-get-started = დაწყება
 onboarding-welcome-header = მოგესალმებათ { -brand-short-name }
 onboarding-welcome-body = ბრაუზერი უკვე თქვენია.<br/>გაიცანით უკეთ { -brand-product-name }.
 onboarding-welcome-learn-more = იხილეთ, უპირატესობების შესახებ.
-onboarding-join-form-body = შეიყვანეთ თქვენი ელფოსტა დასაწყისისთვის.
+onboarding-join-form-header = შეუერთდით { -brand-product-name }
+onboarding-join-form-body = შეიყვანეთ თქვენი ელფოსტა დასაწყებად.
 onboarding-join-form-email =
     .placeholder = ელფოსტის მითითება
-onboarding-join-form-email-error = აუცილებელია ელფოსტის მართებული მისამართი
+onboarding-join-form-email-error = აუცილებელია მართებული ელფოსტა
 onboarding-join-form-legal = გაგრძელების შემთხვევაში, თქვენ ეთანხმებით <a data-l10n-name="terms">მომსახურების პირობებსა</a> და <a data-l10n-name="privacy">პირადი მონაცემების დაცვის განაცხადს</a>.
 onboarding-join-form-continue = გაგრძელება
 onboarding-start-browsing-button-label = დაიწყეთ მოგზაურობა ინტერნეტში
@@ -23,9 +24,9 @@ onboarding-start-browsing-button-label = დაიწყეთ მოგზა�
 ## description.
 
 onboarding-benefit-products-title = სასარგებლო საშუალებები
-onboarding-benefit-products-text = იმუშავეთ შედეგიანად ხელსაწყოების ნაკრებით, რომლებიც პატივს სცემს თქვენი პირადი მონაცემების ხელშეუხებლობას, ყველა თქვენს მოწყობილობაზე.
+onboarding-benefit-products-text = იმუშავეთ შედეგიანად ხელსაწყოების ნაკრებით, რომელიც პატივს სცემს თქვენი პირადი მონაცემების ხელშეუხებლობას, ყველა თქვენს მოწყობილობაზე.
 onboarding-benefit-knowledge-title = გამოსადეგი ცოდნა
-onboarding-benefit-knowledge-text = მიიღეთ საჭირო ცოდნა, ინტერნეტის გონივრულად და უსაფრთხოდ გამოსაყენებლად.
+onboarding-benefit-knowledge-text = შეისწავლეთ ყველაფერი, ინტერნეტის გონივრულად და უსაფრთხოდ გამოსაყენებლად.
 onboarding-benefit-privacy-title = ჭეშმარიტი პირადულობა
 # "Personal Data Promise" should be treated as a brand and should be kept in
 # English. It refers to a concept shown elsewhere to the user: "The Firefox
@@ -65,6 +66,7 @@ onboarding-data-sync-title = წაიყოლეთ თქვენი პა�
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = დაასინქრონეთ თქვენი სანიშნები და პაროლები ყველგან, სადაც გიყენიათ { -brand-product-name }.
 onboarding-data-sync-button = ჩართეთ { -sync-brand-short-name }
+onboarding-firefox-monitor-title = შეიტყვეთ, მონაცემების მიტაცების შესახებ
 
 ## Message strings belonging to the Return to AMO flow
 
