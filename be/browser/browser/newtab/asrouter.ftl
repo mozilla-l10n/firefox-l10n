@@ -59,3 +59,8 @@ cfr-doorhanger-pintab-animation-resume = Працягнуць
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Сінхранізуйце свае закладкі ўсюды.
+cfr-doorhanger-bookmark-fxa-body = Выдатная знаходка! Цяпер не заставайцеся без гэтай закладкі на вашых мабільных прыладах. Пачніце працу з { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-link-text = Сінхранізаваць закладкі зараз…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Кнопка закрыцця
+    .title = Закрыць

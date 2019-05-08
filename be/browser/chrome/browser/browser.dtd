@@ -1133,6 +1133,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "К">
 <!ENTITY updateRestart.cancelButton.label "Не зараз">
 <!ENTITY updateRestart.cancelButton.accesskey "Н">
+<!ENTITY updateUnsupported.panelUI.label "Вы не можаце выконваць далейшыя абнаўленні">
 <!ENTITY updateRestart.panelUI.label2 "Перазапуск для абнаўлення &brandShorterName;">
 
 <!ENTITY newTabControlled.header.message "Ваша новая картка была зменена.">
