@@ -53,3 +53,11 @@ cfr-doorhanger-pintab-step2 = Válassza a <b>Lap rögzítése</b> lehetőséget 
 cfr-doorhanger-pintab-step3 = Ha a webhely frissült, akkor egy kék pont jelenik meg a rögzített lapon.
 cfr-doorhanger-pintab-animation-pause = Szünet
 cfr-doorhanger-pintab-animation-resume = Folytatás
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Szinkronizálja a könyvjelzőit mindenhol.
+cfr-doorhanger-bookmark-fxa-link-text = Könyvjelzők szinkronizálása most…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Bezárás gomb
+    .title = Bezárás
