@@ -60,3 +60,20 @@ abuse-report-deceptive-reason = Esgus ei fod yn rhywbeth nad ydyw
 abuse-report-deceptive-example = Enghraifft: Disgrifiad neu ddelweddau camarweiniol
 abuse-report-broken-reason-extension = Nid yw'n gweithio, yn torri gwefannau, neu'n arafu { -brand-product-name }
 abuse-report-broken-reason-theme = Nid yw'n gweithio nac yn torri dangosydd y porwr
+abuse-report-broken-example = Enghraifft: Mae nodwedd yn araf, yn anodd ei defnyddio, neu ddim yn gweithio; ni fydd rhannau o wefannau yn llwytho neu'n edrych yn rhyfedd
+abuse-report-broken-suggestions-extension =
+    Mae'n edrych fel eich bod wedi adnabod gwall. Yn ogystal â chyflwyno adroddiad yma, y ffordd orau
+    orau i ddatrys mater ymarferoldeb wedi'i ddatrys yw cysylltu â datblygwr yr estyniad.
+    <a data-l10n-name="support-link">Ewch i wefan yr estyniad</a> i gael gwybodaeth gan y datblygwr.
+abuse-report-broken-suggestions-theme =
+    Mae'n edrych fel eich bod wedi adnabod gwall. Yn ogystal â chyflwyno adroddiad yma, y ffordd orau
+    orau i ddatrys mater ymarferoldeb wedi'i ddatrys yw cysylltu â datblygwr y thema.
+    <a data-l10n-name="support-link"> Ewch i wefan y thema </a> i gael gwybodaeth y datblygwr.
+abuse-report-policy-reason = Cynnwys casineb, treisgar neu anghyfreithlon
+abuse-report-policy-suggestions =
+    Sylw: Rhaid rhoi gwybod am faterion hawlfraint a nod masnach mewn proses ar wahân.
+    <a data-l10n-name="report-infringement-link"> Defnyddiwch y cyfarwyddiadau hyn</a> i
+    adrodd am y broblem.
+abuse-report-unwanted-reason = Heb eisiau'r estyniad ac yn methu cael gwared arno
+abuse-report-unwanted-example = Enghraifft: Gosodwyd y rhaglen heb fy nghaniatâd
+abuse-report-other-reason = Rhywbeth arall
