@@ -5,10 +5,23 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-learn-more = იხილეთ ვრცლად
 onboarding-button-label-try-now = გამოცადეთ ახლავე
 onboarding-button-label-get-started = დაწყება
 onboarding-welcome-header = მოგესალმებათ { -brand-short-name }
+onboarding-welcome-body = ბრაუზერი უკვე გაქვთ.<br/>გაიცანით უკეთ { -brand-product-name }.
+onboarding-welcome-learn-more = იხილეთ, უპირატესობების შესახებ.
+onboarding-join-form-body = შეიყვანეთ თქვენი ელფოსტა დასაწყისისთვის.
+onboarding-join-form-email =
+    .placeholder = ელფოსტის მითითება
+onboarding-join-form-email-error = აუცილებელია ელფოსტის მართებული მისამართი
+onboarding-join-form-legal = გაგრძელების შემთხვევაში, თქვენ ეთანხმებით <a data-l10n-name="terms">მომსახურების პირობებსა</a> და <a data-l10n-name="privacy">პირადი მონაცემების დაცვის განაცხადს</a>.
+onboarding-join-form-continue = გაგრძელება
 onboarding-start-browsing-button-label = დაიწყეთ მოგზაურობა ინტერნეტში
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
 
 ## These strings belong to the individual onboarding messages.
 
