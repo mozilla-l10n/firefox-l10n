@@ -57,6 +57,8 @@ cfr-doorhanger-pintab-animation-resume = Titikïr chik el
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Xab'akuchi' Ke'axima' ri taq ayaketal.
+cfr-doorhanger-bookmark-fxa-body = ¡Nïm ri xilitäj! Wakami man xa xe tarayij re yaketal re' pan taq awokisab'al. Tatikirisaj rik'in jun { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-link-text = Wakami yexim taq yaketal...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tz'apïy pitz'b'äl
     .title = Titz'apïx
