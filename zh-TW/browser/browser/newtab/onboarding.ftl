@@ -24,6 +24,7 @@ onboarding-start-browsing-button-label = 開始瀏覽
 ## description.
 
 onboarding-benefit-products-title = 有用的產品
+onboarding-benefit-products-text = 使用各種尊重您隱私的小工具，更快達成任務。
 onboarding-benefit-knowledge-title = 實用小知識
 onboarding-benefit-privacy-title = 保護隱私權
 
@@ -52,17 +53,36 @@ onboarding-tracking-protection-button =
         [windows] 更新選項
        *[other] 更新偏好設定
     }
+onboarding-data-sync-title = 把設定隨身帶著走
+# "Sync" is short for synchronize.
+onboarding-data-sync-text = 在任何使用 { -brand-product-name } 的地方同步書籤與密碼。
 onboarding-data-sync-button = 開啟 { -sync-brand-short-name }
+onboarding-firefox-monitor-title = 小心資料外洩！
+onboarding-firefox-monitor-text = { -monitor-brand-name } 會監控您的 E-Mail 是否出現在資料外洩事故中，並且在有新事故時通知您。
+onboarding-firefox-monitor-button = 訂閱帳號資料外洩警報
+onboarding-browse-privately-button = 開啟隱私視窗
+onboarding-firefox-send-title = 以私密的方式分享檔案
+onboarding-firefox-send-text = { -send-brand-name } 透過點對點加密與會自動失效的鏈結，保護您要分享的檔案。
 onboarding-firefox-send-button = 試用 { -send-brand-name }
+onboarding-mobile-phone-title = 取得手機版的 { -brand-product-name }
+onboarding-mobile-phone-text = 下載 { -brand-product-name } for iOS 或 Android，即可在您的不同裝置間同步資料。
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = 下載行動瀏覽器
+onboarding-send-tabs-title = 即時發送分頁給自己
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Send Tabs 可即時於您的各個裝置間分享分頁，不需要複製、貼上或離開瀏覽器。
 onboarding-send-tabs-button = 開始使用 Send Tabs
+onboarding-pocket-anywhere-title = 隨處閱讀隨處聽
+# "downtime" refers to the user's free/spare time.
+onboarding-pocket-anywhere-text = { -pocket-brand-name } 可將您最愛的文章儲存下來，這樣就可以在有空的時候閱讀、聆聽或觀賞，就算離線也沒問題。
 onboarding-pocket-anywhere-button = 試用 { -pocket-brand-name }
 onboarding-lockwise-passwords-title = 密碼隨身帶著走
 onboarding-lockwise-passwords-text = { -lockwise-brand-name } 會將您的密碼儲存在安全的地方，讓您可輕鬆登入帳號。
 onboarding-lockwise-passwords-button = 下載 { -lockwise-brand-name }
 onboarding-facebook-container-title = 為 Facebook 設定邊界
+onboarding-facebook-container-text = { -facebook-container-brand-name } 可將您的 Facebook 身分隔絕於其他網站之外，讓 Facebook 更難在網路上追蹤您。
 onboarding-facebook-container-button = 安裝擴充套件
 
 ## Message strings belonging to the Return to AMO flow
