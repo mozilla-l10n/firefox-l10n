@@ -28,10 +28,10 @@ onboarding-benefit-products-text = Gwnewch bethau gyda chasgliad o offer sy'n pa
 onboarding-benefit-knowledge-title = Gwybodaeth Ymarferol
 onboarding-benefit-knowledge-text = Dysgwch bopeth y mae angen i chi ei wybod i gadw'n fwy doeth a mwy diogel ar-lein.
 onboarding-benefit-privacy-title = Gwir Breifatrwydd
-# "Personal Data Promise" should be treated as a brand and should be kept in
-# English. It refers to a concept shown elsewhere to the user: "The Firefox
-# Personal Data Promise is the way we honor your data in everything we make and
-# do. We take less data. We keep it safe. And we make sure that we are
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Mae popeth rydym yn ei wneud yn cadw at ein Addewid ar Ddata Personol: Cymrwch lai. Cadwch ef yn ddiogel. Dim cyfrinachau.
 
@@ -68,6 +68,23 @@ onboarding-data-sync-text = Cydweddwch eich nodau tudalen a'ch cyfrineiriau ym m
 onboarding-data-sync-button = Trowch ymlaen { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Cadw'n effro i achosion o dor-data
 onboarding-firefox-monitor-text = Mae { -monitor-brand-name } yn monitro os yw eich e-bost wedi ymddangos mewn tor-data ac yn eich rhybuddio os yw'n ymddangos mewn tor-data newydd.
+onboarding-firefox-monitor-button = Cofrestrwch am Rhybuddion
+onboarding-browse-privately-title = Pori'n Breifat
+onboarding-browse-privately-text = Mae Pori Preifat yn clirio'ch hanes chwilio a phori er mwyn ei gadw'n gyfrinachol rhag unrhyw un sy'n defnyddio'ch cyfrifiadur.
+onboarding-browse-privately-button = Agor Ffenestr Breifat
+onboarding-firefox-send-title = Cadwch eich Ffeiliau a Rennir yn breifat
+onboarding-firefox-send-text = Mae { -send-brand-name } yn gwarchod y ffeiliau rydych chi'n eu rhannu gydag amgryptio o'r dechrau i'r diwedd a dolen sy'n dod i ben yn awtomatig.
+onboarding-firefox-send-button = Rhowch gynnig ar { -send-brand-name }
+onboarding-mobile-phone-title = Estyn { -brand-product-name } ar Eich Ffôn
+onboarding-mobile-phone-text = Llwythwch { -brand-product-name } i lawr ar gyfer iOS neu Android a chydweddu eich data ar draws dyfeisiau.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Llwytho i lawr Porwr Symudol
+onboarding-send-tabs-title = Anfon Tabiau Atoch Chi eich Hun
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Mae Anfon Tabiau yn rhannu tudalennau yn syth rhwng eich dyfeisiau heb orfod copïo, gludo na gadael y porwr.
+onboarding-send-tabs-button = Cychwyn Defnyddio Anfon Tabiau
 
 ## Message strings belonging to the Return to AMO flow
 
