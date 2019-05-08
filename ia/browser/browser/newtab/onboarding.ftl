@@ -24,6 +24,16 @@ onboarding-start-browsing-button-label = Comencia a navigar
 ## description.
 
 onboarding-benefit-products-title = Productos utile
+onboarding-benefit-products-text = Produce realmente con un familia de applicationes que respecta tu confidentialitate tra tu apparatos.
+onboarding-benefit-knowledge-title = Cognoscentia practic
+onboarding-benefit-knowledge-text = Apprender toto lo que te besonia saper pro star online in modo plus intelligente e secur.
+onboarding-benefit-privacy-title = Confidentialitate ver
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Toto lo que nos face honora nostre "garantia sur tu datos personal": prender minus de illos, mantener los secur e nulle secretos.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -43,6 +53,19 @@ onboarding-ghostery-text = Naviga plus veloce, in maniera plus intelligente o pl
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Inscribe te a un { -fxaccount-brand-name } e synchronisa tu marcapaginas, contrasignos e schedas aperte ubicunque tu usa { -brand-short-name }.
+onboarding-tracking-protection-title = Controla como tu es traciate
+onboarding-tracking-protection-text = Odia tu quando le avisos publicitari te seque circum? { -brand-short-name }  te adjuta a controlar como le publicitarios tracia tu activitate online.
+# "Update" is a verb, as in "Update the existing settings", not "Options about
+# updates".
+onboarding-tracking-protection-button =
+    { PLATFORM() ->
+        [windows] Actualisar optiones
+       *[other] Actualisar preferentias
+    }
+onboarding-data-sync-title = Prende tu parametros con te
+# "Sync" is short for synchronize.
+onboarding-data-sync-text = Synchronisa tu marcapaginas e contrasignos ubique tu usa { -brand-product-name }.
+onboarding-data-sync-button = Accende { -sync-brand-short-name }
 
 ## Message strings belonging to the Return to AMO flow
 
