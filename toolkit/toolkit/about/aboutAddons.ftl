@@ -284,3 +284,14 @@ addon-detail-reviews-link =
     { $numberOfReviews ->
        *[other] { $numberOfReviews } 则评价
     }
+
+## Pending uninstall message bar
+
+addon-detail-updates-radio-on = 开
+addon-detail-updates-radio-off = 关
+addon-detail-update-check-label = 检查更新
+install-update-button = 更新
+addon-detail-private-browsing-allow = 允许
+addon-detail-private-browsing-disallow = 不允许
+available-updates-heading = 可用更新
+recent-updates-heading = 最近更新

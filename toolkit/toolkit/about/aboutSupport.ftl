@@ -179,6 +179,7 @@ gpu-device-id = 设备 ID
 gpu-subsys-id = 子系统 ID
 gpu-drivers = 驱动程序
 gpu-ram = 内存
+gpu-driver-vendor = 驱动程序供应商
 gpu-driver-version = 驱动程序版本
 gpu-driver-date = 驱动程序日期
 gpu-active = 活动
