@@ -21,6 +21,7 @@ policy-Bookmarks = 在書籤工具列、選單或當中的資料夾建立書籤�
 policy-CaptivePortal = 開啟或關閉支援 Captive portal。
 policy-CertificatesDescription = 新增憑證，或使用內建憑證。
 policy-Cookies = 允許或拒絕網站設定 Cookie。
+policy-DefaultDownloadDirectory = 設定預設下載資料夾。
 policy-DisableAppUpdate = 防止瀏覽器更新。
 policy-DisableBuiltinPDFViewer = 停用 { -brand-short-name } 內建的 PDF 閱讀器 PDF.js。
 policy-DisableDeveloperTools = 防止使用開發者工具。
@@ -45,6 +46,7 @@ policy-DisplayBookmarksToolbar = 預設顯示書籤工具列。
 policy-DisplayMenuBar = 預設顯示選單列。
 policy-DNSOverHTTPS = 設定 DNS over HTTPS。
 policy-DontCheckDefaultBrowser = 啟動時不檢查是否為預設瀏覽器。
+policy-DownloadDirectory = 設定並鎖定下載資料夾。
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = 開啟或關閉內容封鎖功能，並可選擇鎖定該功能。
 # A “locked” extension can’t be disabled or removed by the user. This policy
@@ -52,6 +54,7 @@ policy-EnableTrackingProtection = 開啟或關閉內容封鎖功能，並可選�
 # English or translate them as verbs.
 policy-Extensions = 安裝、移除或鎖定擴充套件。安裝選項可加入網址或路徑作為參數。移除和鎖定選項則需要擴充套件 ID 作為參數。
 policy-ExtensionUpdate = 開啟或關閉擴充套件自動更新。
+policy-FirefoxHome = 設定 Firefox Home。
 policy-FlashPlugin = 允許或拒絕使用 Flash 擴充套件。
 policy-HardwareAcceleration = 若停用，就會關閉硬體加速。
 # “lock” means that the user won’t be able to change this setting
@@ -67,6 +70,7 @@ policy-OverridePostUpdatePage = 覆蓋更新後會開啟的「有什麼新鮮事
 policy-Permissions = 設定攝影機、麥克風、地理位置、通知等權限。
 policy-PopupBlocking = 允許某些網站預設可顯示彈出視窗。
 policy-Preferences = 鎖定部分偏好設定的內容。
+policy-PromptForDownloadLocation = 下載檔案時，詢問要將檔案儲存至何處。
 policy-Proxy = 設定代理伺服器選項。
 policy-RequestedLocales = 為應用程式設定使用的語系清單順序。
 policy-SanitizeOnShutdown = 關閉瀏覽器時清除所有瀏覽資料。

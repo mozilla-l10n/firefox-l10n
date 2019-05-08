@@ -264,12 +264,16 @@ go-back-button =
 
 ## Add-on actions
 
+report-addon-button = 回報
 remove-addon-button = 移除
 disable-addon-button = 停用
 enable-addon-button = 啟用
 expand-addon-button = 更多選項
 addons-enabled-heading = 已啟用
 addons-disabled-heading = 已停用
+ask-to-activate-button = 啟用時詢問
+always-activate-button = 總是啟用
+never-activate-button = 永不啟用
 addon-detail-author-label = 作者
 addon-detail-version-label = 版本
 addon-detail-last-updated-label = 最近更新時間
@@ -286,3 +290,24 @@ addon-detail-reviews-link =
     { $numberOfReviews ->
        *[other] { $numberOfReviews } 筆評論
     }
+
+## Pending uninstall message bar
+
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = 已移除 <span data-l10n-name="addon-name">{ $addon }</span>。
+pending-uninstall-undo-button = 還原
+addon-detail-updates-label = 允許自動更新
+addon-detail-updates-radio-default = 預設
+addon-detail-updates-radio-on = 開啟
+addon-detail-updates-radio-off = 關閉
+addon-detail-update-check-label = 檢查更新
+install-update-button = 更新
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = 允許於隱私瀏覽視窗運作
+addon-detail-private-browsing-allow = 允許
+addon-detail-private-browsing-disallow = 不允許
+available-updates-heading = 可用的更新
+recent-updates-heading = 最近的更新
