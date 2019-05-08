@@ -27,6 +27,12 @@ onboarding-benefit-products-text = იმუშავეთ შედეგი�
 onboarding-benefit-knowledge-title = გამოსადეგი ცოდნა
 onboarding-benefit-knowledge-text = მიიღეთ საჭირო ცოდნა, ინტერნეტის გონივრულად და უსაფრთხოდ გამოსაყენებლად.
 onboarding-benefit-privacy-title = ჭეშმარიტი პირადულობა
+# "Personal Data Promise" should be treated as a brand and should be kept in
+# English. It refers to a concept shown elsewhere to the user: "The Firefox
+# Personal Data Promise is the way we honor your data in everything we make and
+# do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = ყველაფერი რასაც ვაკეთებ, ექვემდებარება, პირადი მონაცემების დაცვის ჩვენს პირობას: ნაკლების აღრიცხვა. უსაფრთხოდ შენახვა. არანაირი საიდუმლოება.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -46,6 +52,13 @@ onboarding-ghostery-text = მოიძიეთ უფრო სწრაფა
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = სინქრონიზაცია
 onboarding-fxa-text = შექმენით { -fxaccount-brand-name } და დაასინქრონეთ თქვენი სანიშნები, პაროლები და გახსნილი ჩანართები ყველგან, სადაც გამოიყენებთ { -brand-short-name }-ს.
+# "Update" is a verb, as in "Update the existing settings", not "Options about
+# updates".
+onboarding-tracking-protection-button =
+    { PLATFORM() ->
+        [windows] პარამეტრების განახლება
+       *[other] პარამეტრების განახლება
+    }
 
 ## Message strings belonging to the Return to AMO flow
 
