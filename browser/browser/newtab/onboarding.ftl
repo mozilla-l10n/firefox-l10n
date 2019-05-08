@@ -48,6 +48,7 @@ onboarding-firefox-send-button = 试用 { -send-brand-name }
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = 下载移动浏览器
+onboarding-facebook-container-button = 添加扩展
 
 ## Message strings belonging to the Return to AMO flow
 
