@@ -34,5 +34,7 @@
 <!ENTITY authRequired.button.label        "Autorisearje">
 <!ENTITY authRequired.button.accesskey    "u">
 
+<!ENTITY findCloudFileProviders.label     "Sykje mear providers…">
+
 <!ENTITY enableCloudFileAccountOffer.label "Biedt dielen oan by bestannen grutter as">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
