@@ -918,6 +918,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "หยุดชั่วคราว">
 <!ENTITY pip_pause_button_description "หยุดเล่นชั่วคราว">
 
+<!ENTITY pref_notification_settings_link "จัดการการตั้งค่าการแจ้งเตือน">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "เบราว์เซอร์">
 <!ENTITY mls_notification_channel "บริการตำแหน่งที่ตั้งของ &vendorShortName;">
