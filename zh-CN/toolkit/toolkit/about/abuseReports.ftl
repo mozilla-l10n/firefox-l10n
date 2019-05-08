@@ -57,6 +57,8 @@ abuse-report-deceptive-example = 例如：误导性描述或图像
 abuse-report-broken-reason-extension = 不起作用、造成网站无法正常使用、拖慢 { -brand-product-name }
 abuse-report-broken-reason-theme = 不起作用或破坏浏览器显示内容
 abuse-report-broken-example = 例如：功能运行缓慢、难以使用或不起作用，或是导致部分网站加载不完整，或看起来不正常
+abuse-report-broken-suggestions-extension = 听起来您遇到缺陷（Bug）了。除了在此报告之外，解决功能问题的最佳方式是直接联系扩展开发者。请<a data-l10n-name="support-link">访问扩展网站</a>获取开发者联系方式。
+abuse-report-broken-suggestions-theme = 听起来您遇到缺陷（Bug）了。除了在此报告之外，解决功能问题的最佳方式是直接联系扩展开发者。请<a data-l10n-name="support-link">访问主题网站</a>获取开发者联系方式。
 abuse-report-policy-reason = 散播仇恨、暴力、非法内容
 abuse-report-policy-suggestions = 注: 若有版权与商标问题，请依照另一流程处理。<a data-l10n-name="report-infringement-link">请依照该说明</a>报告问题。
 abuse-report-unwanted-reason = 未主动安装此扩展，且无法移除
