@@ -34,5 +34,7 @@
 <!ENTITY authRequired.button.label        "授权">
 <!ENTITY authRequired.button.accesskey    "u">
 
+<!ENTITY findCloudFileProviders.label     "寻找更多提供商...">
+
 <!ENTITY enableCloudFileAccountOffer.label "大于此数值的文件提议分享：">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
