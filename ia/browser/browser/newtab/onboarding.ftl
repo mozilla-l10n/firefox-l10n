@@ -5,10 +5,18 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-learn-more = Saper plus
 onboarding-button-label-try-now = Proba lo subito
 onboarding-button-label-get-started = Comencia
 onboarding-welcome-header = Benvenite a { -brand-short-name }
+onboarding-join-form-email-error = Il es necesse un valide adresse email
+onboarding-join-form-continue = Continuar
 onboarding-start-browsing-button-label = Comencia a navigar
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-title = Productos utile
 
 ## These strings belong to the individual onboarding messages.
 

@@ -289,3 +289,14 @@ addon-detail-reviews-link =
         [one] { $numberOfReviews } revision
        *[other] { $numberOfReviews } revisiones
     }
+
+## Pending uninstall message bar
+
+pending-uninstall-undo-button = Disfacer
+addon-detail-updates-radio-default = Predefinite
+addon-detail-update-check-label = Cercar actualisationes
+install-update-button = Actualisar
+addon-detail-private-browsing-allow = Consentir
+addon-detail-private-browsing-disallow = Non consentir
+available-updates-heading = Actualisationes disponibile
+recent-updates-heading = Actualisationes recente
