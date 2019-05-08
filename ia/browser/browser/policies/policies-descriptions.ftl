@@ -46,6 +46,7 @@ policy-DisplayBookmarksToolbar = Monstrar le Barra del marcapaginas de ordinario
 policy-DisplayMenuBar = Monstrar le Barra del menu de ordinario.
 policy-DNSOverHTTPS = Configura DNS sur HTTPS.
 policy-DontCheckDefaultBrowser = Disactivar le controlo Navigator predefinite al lanceamento initial.
+policy-DownloadDirectory = Configura e bloca le plica del discargas.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Activar o disactivar le Blocada de contentos e optionalmente serrar lo.
 # A “locked” extension can’t be disabled or removed by the user. This policy
@@ -53,6 +54,7 @@ policy-EnableTrackingProtection = Activar o disactivar le Blocada de contentos e
 # English or translate them as verbs.
 policy-Extensions = Installar, disinstallar o blocar le extensiones. Le option Installar require URLs o percursos como parametros. Le optiones Disinstallar e Blocate require le extension IDs.
 policy-ExtensionUpdate = Activar o disactivar le actualisation automatic de extensiones.
+policy-FirefoxHome = Configura Firefox Home.
 policy-FlashPlugin = Consentir o negar le uso del plugin Flash.
 policy-HardwareAcceleration = Si false, disactivar le acceleration hardware.
 # “lock” means that the user won’t be able to change this setting
@@ -68,6 +70,7 @@ policy-OverridePostUpdatePage = Supplantar le pagina de “Novas” post-actuali
 policy-Permissions = Configurar le permissos de camera, microphono, position e notificationes.
 policy-PopupBlocking = Consentir a certe sitos web de monstrar de ordinario messages emergente.
 policy-Preferences = Defini e bloca le valor de un sub-ensemble de preferentias.
+policy-PromptForDownloadLocation = Demandar ubi salvar le files quando on discarga.
 policy-Proxy = Configurar le parametros del servitor proxy.
 policy-RequestedLocales = Defini le lista del localisationes desirate pro le applicationes in ordine de tu preferentias.
 policy-SanitizeOnShutdown = Clarar tote le datos de navigation al clausura.
