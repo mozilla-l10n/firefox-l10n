@@ -5,10 +5,22 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-learn-more = Saber más
 onboarding-button-label-try-now = Pruébelo ahora
 onboarding-button-label-get-started = Comenzar
 onboarding-welcome-header = Bienvenido a { -brand-short-name }
+onboarding-welcome-learn-more = Saber más sobre las ventajas.
+onboarding-join-form-body = Para empezar, introduce tu dirección de correo.
+onboarding-join-form-email =
+    .placeholder = Introducir dirección de correo
+onboarding-join-form-email-error = Una dirección de correo válida es obligatoria
+onboarding-join-form-continue = Continuar
 onboarding-start-browsing-button-label = Empezar a navegar
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-title = Productos útiles
 
 ## These strings belong to the individual onboarding messages.
 
@@ -28,6 +40,26 @@ onboarding-ghostery-text = Navegue más rápido, de manera más inteligente o se
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sincronizar
 onboarding-fxa-text = Regístrese para tener una { -fxaccount-brand-name } y sincronice sus marcadores, contraseñas y pestañas abiertas allá donde utilice { -brand-short-name }
+# "Update" is a verb, as in "Update the existing settings", not "Options about
+# updates".
+onboarding-tracking-protection-button =
+    { PLATFORM() ->
+        [windows] Actualizar opciones
+       *[other] Actualizar preferencias
+    }
+onboarding-firefox-monitor-button = Suscríbete para recibir alertas
+onboarding-browse-privately-title = Navega de forma privada
+onboarding-browse-privately-button = Abrir una ventana privada
+onboarding-firefox-send-button = Prueba { -send-brand-name }
+onboarding-mobile-phone-title = Consigue { -brand-product-name } en tu teléfono
+onboarding-mobile-phone-text = Descargar { -brand-product-name } para iOS o Android y sincroniza tu información en todos tus dispositivos.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Descargar navegador móvil
+onboarding-pocket-anywhere-button = Prueba { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Llévate tus contraseñas contigo a todas partes
+onboarding-lockwise-passwords-button = Consigue { -lockwise-brand-name }
+onboarding-facebook-container-button = Agregar extensión
 
 ## Message strings belonging to the Return to AMO flow
 
