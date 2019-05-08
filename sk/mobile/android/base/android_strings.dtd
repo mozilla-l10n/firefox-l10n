@@ -918,6 +918,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Pozastaviť">
 <!ENTITY pip_pause_button_description "Pozastaviť prehrávanie">
 
+<!ENTITY pref_notification_settings_link "Nastavenie upozornení">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Prehliadač">
 <!ENTITY mls_notification_channel "&vendorShortName; Location Service">
