@@ -22,6 +22,7 @@ onboarding-start-browsing-button-label = 开始浏览
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = 有用的产品
 
 ## These strings belong to the individual onboarding messages.
 
@@ -41,6 +42,7 @@ onboarding-ghostery-text = 使用 Ghostery 等扩展拦截恼人的广告，让�
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = 同步
 onboarding-fxa-text = 注册 { -fxaccount-brand-name } 之后，您可在任何使用 { -brand-short-name } 的任何地方同步您的书签、密码和打开的标签页。
+onboarding-tracking-protection-text = 不喜欢有广告在到处跟踪你？ { -brand-short-name } 可帮助您控制广告商如何在网上跟踪您的在线活动。
 # "Update" is a verb, as in "Update the existing settings", not "Options about
 # updates".
 onboarding-tracking-protection-button =
@@ -49,12 +51,17 @@ onboarding-tracking-protection-button =
        *[other] 更新首选项
     }
 onboarding-data-sync-title = 将您的设置随身带着走
+# "Sync" is short for synchronize.
+onboarding-data-sync-text = 在任何使用 { -brand-product-name } 的地方同步书签与密码。
 onboarding-data-sync-button = 开启{ -sync-brand-short-name }
 onboarding-firefox-monitor-title = 警惕数据外泄
+onboarding-firefox-monitor-text = { -monitor-brand-name } 会监控您的电子邮件地址是否出现在数据外泄事件中，并在有新外泄事件时通知您。
 onboarding-firefox-monitor-button = 订阅警报
 onboarding-browse-privately-title = 私密浏览
+onboarding-browse-privately-text = 隐私浏览会自动清除您的搜索与上网记录，让使用此计算机的其他人无法得知您在网上的活动。
 onboarding-browse-privately-button = 打开隐私窗口
 onboarding-firefox-send-title = 以私密的方式分享文件
+onboarding-firefox-send-text = { -send-brand-name } 通过端到端加密与链接到期即焚，保护您要分享的文件。
 onboarding-firefox-send-button = 试用 { -send-brand-name }
 onboarding-mobile-phone-title = 获取手机版 { -brand-product-name }
 onboarding-mobile-phone-text = 下载适用于 iOS 或 Android 的 { -brand-product-name }，即可跨设备同步数据。
@@ -62,6 +69,9 @@ onboarding-mobile-phone-text = 下载适用于 iOS 或 Android 的 { -brand-prod
 # browser.
 onboarding-mobile-phone-button = 下载移动浏览器
 onboarding-send-tabs-title = 即时发送标签页给自己
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Send Tabs 可即时跨设备分享网页，无须复制、粘贴或离开浏览器。
 onboarding-send-tabs-button = 开始使用 Send Tabs
 onboarding-pocket-anywhere-title = 随时随地阅读和聆听
 # "downtime" refers to the user's free/spare time.
