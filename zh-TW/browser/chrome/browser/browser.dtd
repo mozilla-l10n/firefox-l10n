@@ -220,7 +220,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
 <!ENTITY fxa.signin.callout.label "Firefox 隨身帶著走">
-<!ENTITY fxa.signin.description.label "在您的任何裝置上取得書籤、瀏覽紀錄、密碼及其他設定。">
+<!ENTITY fxa.signin.description.label "在您的各種裝置上同步書籤、瀏覽紀錄、登入資訊及其他設定。">
 <!ENTITY fxa.signin.button.label "開啟 &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
