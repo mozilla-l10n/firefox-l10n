@@ -53,3 +53,11 @@ cfr-doorhanger-pintab-step2 = Sélectionnez <b>Épingler cet onglet</b> dans le 
 cfr-doorhanger-pintab-step3 = Si le site est mis à jour vous verrez un point bleu apparaître sur votre onglet épinglé.
 cfr-doorhanger-pintab-animation-pause = Pause
 cfr-doorhanger-pintab-animation-resume = Reprendre
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Synchronisez vos marque-pages partout.
+cfr-doorhanger-bookmark-fxa-link-text = Synchronisez les marque-pages maintenant…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Bouton de fermeture
+    .title = Fermer
