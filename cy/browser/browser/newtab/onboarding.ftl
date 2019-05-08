@@ -28,6 +28,12 @@ onboarding-benefit-products-text = Gwnewch bethau gyda chasgliad o offer sy'n pa
 onboarding-benefit-knowledge-title = Gwybodaeth Ymarferol
 onboarding-benefit-knowledge-text = Dysgwch bopeth y mae angen i chi ei wybod i gadw'n fwy doeth a mwy diogel ar-lein.
 onboarding-benefit-privacy-title = Gwir Breifatrwydd
+# "Personal Data Promise" should be treated as a brand and should be kept in
+# English. It refers to a concept shown elsewhere to the user: "The Firefox
+# Personal Data Promise is the way we honor your data in everything we make and
+# do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Mae popeth rydym yn ei wneud yn cadw at ein Addewid ar Ddata Personol: Cymrwch lai. Cadwch ef yn ddiogel. Dim cyfrinachau.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -47,6 +53,21 @@ onboarding-ghostery-text = Porwch yn gynt, yn glyfrach neu yn fwy diogel gydag e
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Cofrestrwch am { -fxaccount-brand-name } a chydweddu eich nodau tudalen, cyfrineiriau a thabiau agored ymhob man lle rydych yn defnyddio { -brand-short-name }.
+onboarding-tracking-protection-title = Rheoli Sut Rydych yn Cael eich Tracio
+onboarding-tracking-protection-text = Ddim yn  hoffi pan fydd hysbysebion yn eich dilyn o amgylch? Mae { -brand-short-name } yn eich helpu i reoli sut mae hysbysebwyr yn tracio eich gweithgaredd ar-lein.
+# "Update" is a verb, as in "Update the existing settings", not "Options about
+# updates".
+onboarding-tracking-protection-button =
+    { PLATFORM() ->
+        [windows] Dewisiadau Diweddaru
+       *[other] Dewisiadau Diweddaru
+    }
+onboarding-data-sync-title = Cymrwch eich Gosodiadau gyda Chi
+# "Sync" is short for synchronize.
+onboarding-data-sync-text = Cydweddwch eich nodau tudalen a'ch cyfrineiriau ym mhob man y byddwch yn defnyddio { -brand-product-name }.
+onboarding-data-sync-button = Trowch ymlaen { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Cadw'n effro i achosion o dor-data
+onboarding-firefox-monitor-text = Mae { -monitor-brand-name } yn monitro os yw eich e-bost wedi ymddangos mewn tor-data ac yn eich rhybuddio os yw'n ymddangos mewn tor-data newydd.
 
 ## Message strings belonging to the Return to AMO flow
 
