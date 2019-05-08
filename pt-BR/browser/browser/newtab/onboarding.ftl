@@ -47,8 +47,18 @@ onboarding-ghostery-text = Navegue mais rápido, mais esperto, ou mais seguro co
 onboarding-fxa-title = Sincronizar
 onboarding-fxa-text = Cadastre uma { -fxaccount-brand-name } e sincronize seus favoritos, senhas e abas abertas onde quer que você use o { -brand-short-name }.
 onboarding-tracking-protection-title = Controle como você é rastreado
+# "Update" is a verb, as in "Update the existing settings", not "Options about
+# updates".
+onboarding-tracking-protection-button =
+    { PLATFORM() ->
+        [windows] Opções de atualização
+       *[other] Preferências de atualização
+    }
 onboarding-data-sync-title = Leve suas configurações com você
 onboarding-data-sync-button = Ativar o { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Fique atento a vazamentos de dados
+onboarding-firefox-monitor-text = O { -monitor-brand-name } verifica se seu e-mail apareceu em um vazamento de dados e manda um alerta para você caso apareça em um novo vazamento.
+onboarding-firefox-monitor-button = Cadastre-se para receber alertas
 onboarding-browse-privately-title = Navegue com privacidade
 onboarding-browse-privately-button = Abrir uma janela privativa
 onboarding-firefox-send-title = Mantenha privativos seus arquivos compartilhados
