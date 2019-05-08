@@ -114,10 +114,24 @@ permissions-site-location-window =
 permissions-site-location-desc = Li siti appressu dumannaru di accèdiri â to pusizziuni. Po' spicificari quali siti ponnu accèdiri â to pusizziuni. Po' puru bloccari li novi dumanni d'accessu â to pusizziuni.
 permissions-site-location-disable-label =
     .label = Blocca li novi dumanni d'accessu â to pusizziuni
-permissions-site-location-disable-desc = Chistu mpidisci ê siti ca nun cumparìscinu supra di dumannari lu pirmisu di accèdiri â to pusizziuni. Bluccari l'accessu â to pusizziuni putissi ncippari certi carattirìstichi dû situ.
+permissions-site-location-disable-desc = Chistu mpidisci ê siti ca nun cumparìscinu supra di dumannari lu pirmisu di accèdiri â pusizziuni. Bluccari l'accessu â pusizziuni putissi ncippari certi carattirìstichi dû situ.
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Mpustazziuna - Primisi fotucàmira
+    .style = { permissions-window.style }
+permissions-site-camera-desc = Li siti appressu dumannaru di accèdiri â fotucàmira. Po' spicificari quali siti ponnu accèdiri â fotucàmira. Po' puru bluccari li novi dumanni d'accessu â fotucàmira.
+permissions-site-camera-disable-label =
+    .label = Blocca li novi dumanni d'accessu â fotucàmira
+permissions-site-camera-disable-desc = Chistu mpidisci ê siti ca nun cumparìscinu supra di dumannari lu pirmisu d'accèdiri â fotucàmira. Bluccari l'accessu â fotucàmira putissi ncippari certi carattirìstichi dû situ.
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Mpustazziuna - Pirmisi micròfunu
+    .style = { permissions-window.style }
+permissions-site-microphone-desc = Li siti appressu dumannaru di accèdiri ô micròfunu. Po' spicificari quali siti ponnu accèdiri ô micròfunu. Po' puru bluccari li novi dumanni d'accessu ô micròfunu.
+permissions-site-microphone-disable-label =
+    .label = Blocca li novi dumanni d'accessu ô micròfunu
+permissions-site-microphone-disable-desc = Chistu mpidisci ê siti ca nun cumparìscinu supra di dumannari lu pirmisu di accèdiri ô micròfunu. Bluccari l'accessu ô micròfunu putissi ncippari certi carattirìstichi dû situ.
