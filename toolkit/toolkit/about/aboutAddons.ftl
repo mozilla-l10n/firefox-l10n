@@ -264,12 +264,16 @@ go-back-button =
 
 ## Add-on actions
 
+report-addon-button = Nahlásit
 remove-addon-button = Odebrat
 disable-addon-button = Zakázat
 enable-addon-button = Povolit
 expand-addon-button = Více možností
 addons-enabled-heading = Povoleno
 addons-disabled-heading = Zakázáno
+ask-to-activate-button = Spustit na vyžádání
+always-activate-button = Vždy spustit
+never-activate-button = Nespouštět
 addon-detail-author-label = Autor
 addon-detail-version-label = Verze
 addon-detail-last-updated-label = Poslední aktualizace
@@ -288,3 +292,25 @@ addon-detail-reviews-link =
         [few] { $numberOfReviews } recenze
        *[other] { $numberOfReviews } recenzí
     }
+
+## Pending uninstall message bar
+
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = Doplněk <span data-l10n-name="addon-name">{ $addon }</span> byl odstraněn.
+pending-uninstall-undo-button = Vrátit zpět
+addon-detail-updates-label = Automatické aktualizace
+addon-detail-updates-radio-default = Výchozí nastavení
+addon-detail-updates-radio-on = Zapnuty
+addon-detail-updates-radio-off = Vypnuty
+addon-detail-update-check-label = Zkontrolovat aktualizace
+install-update-button = Aktualizovat
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Povoleno v anonymních oknech
+addon-detail-private-browsing-help = Povolená rozšíření mají přístup k vašim online aktivitám i během anonymního prohlížení. <a data-l10n-name="learn-more">Zjistit více</a>
+addon-detail-private-browsing-allow = Povolit
+addon-detail-private-browsing-disallow = Nepovolit
+available-updates-heading = Dostupné aktualizace
+recent-updates-heading = Aktualizováno
