@@ -270,7 +270,7 @@ go-back-button =
 
 ## Add-on actions
 
-report-addon-button = საჩივარი
+report-addon-button = მოხსენება
 remove-addon-button = მოცილება
 disable-addon-button = ამორთვა
 enable-addon-button = ჩართვა
