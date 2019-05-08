@@ -53,3 +53,11 @@ cfr-doorhanger-pintab-step2 = აირჩიეთ <b>ჩანართის 
 cfr-doorhanger-pintab-step3 = თუ საიტზე რამე განახლდება, ლურჯი წერტილი გამოჩნდება მიმაგრებულ ჩანართზე.
 cfr-doorhanger-pintab-animation-pause = შეჩერება
 cfr-doorhanger-pintab-animation-resume = გაგრძელება
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = დაასინქრონეთ სანიშნები ყველგან.
+cfr-doorhanger-bookmark-fxa-link-text = დაასინქრონეთ სანიშნები ახლავე...
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = დახურვის ღილაკი
+    .title = დახურვა
