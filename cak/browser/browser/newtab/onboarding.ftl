@@ -11,6 +11,8 @@ onboarding-button-label-get-started = Titikirisäx
 onboarding-welcome-header = Ütz apetik pa { -brand-short-name }
 onboarding-welcome-body = K'o awik'in ri okik'amaya'l.<br/>Tawetamaj ri ch'aqa' chik taq { -brand-product-name }.
 onboarding-welcome-learn-more = Tawetamaj ch'aqa' chik pa ruwi' ri taq rutzil.
+onboarding-join-form-header = Tatunu' awi' rik'in { -brand-product-name }
+onboarding-join-form-body = Richin natikirisaj, tatz'ib'aj ri rochochib'al ataqoya'l.
 onboarding-join-form-email =
     .placeholder = Titz'ib'äx taqoya'l
 onboarding-join-form-email-error = Ütz taqoya'l najowäx
@@ -21,6 +23,7 @@ onboarding-start-browsing-button-label = Tichap Okem Pa K'amaya'l
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = Okel taq Tikojil
 
 ## These strings belong to the individual onboarding messages.
 
