@@ -918,6 +918,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Pausa">
 <!ENTITY pip_pause_button_description "Pausa uppspelning">
 
+<!ENTITY pref_notification_settings_link "Hantera aviseringsinställningar">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Webbläsare">
 <!ENTITY mls_notification_channel "&vendorShortName; platstjänst">
