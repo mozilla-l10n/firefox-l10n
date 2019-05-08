@@ -1120,7 +1120,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateManual.message "建议下载 &brandShorterName; 完整包，我们将协助您安装它。">
 <!ENTITY updateManual.whatsnew.label "看看有什么新功能。">
-<!ENTITY updateManual.header.message "&brandShorterName; 无法更新到最新版本。">
+<!ENTITY updateManual.header.message "&brandShorterName; 无法更新至最新版本。">
 <!ENTITY updateManual.acceptButton.label "下载 &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "D">
 <!ENTITY updateManual.cancelButton.label "暂时不要">
@@ -1133,6 +1133,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "暂时不要">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateUnsupported.panelUI.label "无法执行进一步的更新">
 <!ENTITY updateRestart.panelUI.label2 "重开 &brandShorterName; 以更新">
 
 <!ENTITY newTabControlled.header.message "您的新标签页已变更。">
