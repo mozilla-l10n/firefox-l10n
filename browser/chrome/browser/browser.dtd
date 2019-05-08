@@ -531,6 +531,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeExtension.label "გაფართოების ამოშლა">
 <!ENTITY customizeMenu.removeExtension.accesskey "მ">
 
+<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
+     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.label "გაფართოების გასაჩივრება">
+<!ENTITY customizeMenu.reportExtension.accesskey "ჩ">
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
@@ -538,10 +544,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "მოძებნეთ ან შეიყვანეთ მისამართი">
-<!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.accesskey             "ს">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "გაფართოება:">
-<!ENTITY urlbar.switchToTab.label     "გადასვლა დაფაზე:">
+<!ENTITY urlbar.switchToTab.label     "გადასვლა ჩანართზე:">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "რჩევა:">
@@ -638,7 +644,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "ჩარჩოს განახლება">
 <!ENTITY reloadFrameCmd.accesskey     "ხ">
 <!ENTITY viewPartialSourceForSelectionCmd.label "მონიშნულის წყაროს ჩვენება">
-<!ENTITY viewPartialSourceCmd.accesskey "წ">
+<!ENTITY viewPartialSourceCmd.accesskey "ო">
 <!ENTITY viewPageSourceCmd.label      "გვერდის წყაროს ჩვენება">
 <!ENTITY viewPageSourceCmd.accesskey  "წ">
 <!ENTITY viewFrameSourceCmd.label     "ჩარჩოს წყაროს ჩვენება">

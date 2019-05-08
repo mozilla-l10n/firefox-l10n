@@ -92,6 +92,9 @@ onboarding-pocket-anywhere-button = სცადეთ { -pocket-brand-name }
 onboarding-lockwise-passwords-title = წაიყოლეთ თქვენი პაროლები ყველგან
 onboarding-lockwise-passwords-text = { -lockwise-brand-name } ინახავს თქვენს პაროლებს უსაფრთხო ადგილას, შედეგად, მარტივად შეგეძლებათ საკუთარ ანგარიშებზე შესვლა.
 onboarding-lockwise-passwords-button = გადმოწერეთ { -lockwise-brand-name }
+onboarding-facebook-container-title = შემოსაზღვრეთ Facebook
+onboarding-facebook-container-text = { -facebook-container-brand-name } განაცალკევებს თქვენს Facebook-ვინაობას დანარჩენი გვერდებისგან, რაც გაურთულებს თქვენზე თვალის დევნებას, ვებსივრცეში.
+onboarding-facebook-container-button = გაფართოების დამატება
 
 ## Message strings belonging to the Return to AMO flow
 
