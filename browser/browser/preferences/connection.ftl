@@ -76,7 +76,15 @@ connection-dns-over-https-url-default =
     .label = Alapértelmezett használata ({ $url })
     .accesskey = A
     .tooltiptext = Az alapértelmezett URL használata a HTTPS feletti DNS feloldáshoz
+connection-dns-over-https-url-resolver = Szolgáltató használata
+    .accesskey = o
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (alapértelmezett)
+    .tooltiptext = Az alapértelmezett URL használata a HTTPS feletti DNS feloldáshoz
 connection-dns-over-https-url-custom =
     .label = Egyéni
     .accesskey = E
     .tooltiptext = Adja meg az előnyben részesített URL-t a HTTPS feletti DNS feloldáshoz
+connection-dns-over-https-custom-label = Egyéni
