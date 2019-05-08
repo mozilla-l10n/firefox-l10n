@@ -34,5 +34,7 @@
 <!ENTITY authRequired.button.label        "Autorisar">
 <!ENTITY authRequired.button.accesskey    "U">
 
+<!ENTITY findCloudFileProviders.label     "Chattar ulteriurs purschiders…">
+
 <!ENTITY enableCloudFileAccountOffer.label "Proponer da cundivider per datotecas pli grondas che">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
