@@ -521,6 +521,7 @@
 <!ENTITY pip_play_button_description "Riprendi riproduzione">
 <!ENTITY pip_pause_button_title "Pausa">
 <!ENTITY pip_pause_button_description "Metti in pausa riproduzione">
+<!ENTITY pref_notification_settings_link "Gestisci impostazioni notifiche">
 <!ENTITY default_notification_channel2 "Browser">
 <!ENTITY mls_notification_channel "Georilevazione di &vendorShortName;">
 <!ENTITY download_notification_channel "Download">
