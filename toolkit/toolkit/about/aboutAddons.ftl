@@ -322,3 +322,4 @@ addon-detail-private-browsing-allow = Toestaan
 addon-detail-private-browsing-disallow = Niet toestaan
 available-updates-heading = Beschikbare updates
 recent-updates-heading = Recente updates
+

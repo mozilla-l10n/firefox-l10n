@@ -40,3 +40,4 @@ return-to-amo-sub-header = Geweldig, u hebt { -brand-short-name }
 return-to-amo-addon-header = Laten we nu <icon></icon><b>{ $addon-name }</b> ophalen.
 return-to-amo-extension-button = De extensie toevoegen
 return-to-amo-get-started-button = Beginnen met { -brand-short-name }
+
