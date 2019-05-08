@@ -753,6 +753,7 @@
 <!ENTITY updateManual.cancelButton.label "Non adesso">
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Scarica un’altra copia di &brandShorterName;">
+<!ENTITY updateUnsupported.panelUI.label "Non è possibile installare ulteriori aggiornamenti">
 <!ENTITY updateRestart.message2 "Dopo il riavvio verranno ripristinate tutte le schede e le finestre attualmente aperte, ad eccezione di quelle in modalità Navigazione anonima.">
 <!ENTITY updateRestart.header.message2 "Riavvia per aggiornare &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Riavvia e ripristina">
