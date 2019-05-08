@@ -27,6 +27,12 @@ onboarding-benefit-products-title = Produtos úteis
 onboarding-benefit-knowledge-title = Conhecimento prático
 onboarding-benefit-knowledge-text = Aprenda tudo o que precisa saber para ficar mais esperto e seguro online.
 onboarding-benefit-privacy-title = Privacidade verdadeira
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Tudo o que fazemos honra nossa Promessa de Dados Pessoais: Levar menos. Manter seguro. Sem segredos.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -47,6 +53,7 @@ onboarding-ghostery-text = Navegue mais rápido, mais esperto, ou mais seguro co
 onboarding-fxa-title = Sincronizar
 onboarding-fxa-text = Cadastre uma { -fxaccount-brand-name } e sincronize seus favoritos, senhas e abas abertas onde quer que você use o { -brand-short-name }.
 onboarding-tracking-protection-title = Controle como você é rastreado
+onboarding-tracking-protection-text = Não gosta quando anúncios seguem você? A { -brand-short-name } ajuda a controlar como os anunciantes rastreiam sua atividade online.
 # "Update" is a verb, as in "Update the existing settings", not "Options about
 # updates".
 onboarding-tracking-protection-button =
@@ -55,6 +62,8 @@ onboarding-tracking-protection-button =
        *[other] Preferências de atualização
     }
 onboarding-data-sync-title = Leve suas configurações com você
+# "Sync" is short for synchronize.
+onboarding-data-sync-text = Sincronize seus favoritos e senhas em todos os lugares em que usa o { -brand-product-name }.
 onboarding-data-sync-button = Ativar o { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Fique atento a vazamentos de dados
 onboarding-firefox-monitor-text = O { -monitor-brand-name } verifica se seu e-mail apareceu em um vazamento de dados e manda um alerta para você caso apareça em um novo vazamento.

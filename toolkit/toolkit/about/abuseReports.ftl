@@ -58,7 +58,14 @@ abuse-report-deceptive-reason = Finge ser o que não é
 abuse-report-deceptive-example = Exemplo: descrição ou imagens enganosas
 abuse-report-broken-reason-extension = Não funciona, atrapalha sites, ou faz o { -brand-product-name } ficar mais lento
 abuse-report-broken-reason-theme = Não funciona ou atrapalha a exibição do navegador
+abuse-report-broken-suggestions-theme =
+    Parece que você identificou um bug. Além de enviar um relato aqui, a melhor maneira de
+    ter um problema de funcionalidade resolvido é entrar em contato com o desenvolvedor do tema.
+    <a data-l10n-name="support-link">Visite o site do tema</a> para obter informações do desenvolvedor.
 abuse-report-policy-reason = Conteúdo de ódio, violência ou ilegal
+abuse-report-policy-suggestions =
+    Nota: Problemas de direitos autorais (copyright) e marcas registradas (trademark) devem ser relatados em um processo separado.
+    <a data-l10n-name="report-infringement-link">Siga essas instruções</a> para relatar o problema.
 abuse-report-unwanted-reason = Nunca quis esta extensão e não consigo me livrar dela
 abuse-report-unwanted-example = Exemplo: uma aplicação instalou sem minha permissão
 abuse-report-other-reason = Outra coisa
