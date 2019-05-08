@@ -21,6 +21,7 @@ policy-Bookmarks = Könyvjelzők létrehozása a Könyvjelzők eszköztáron, a 
 policy-CaptivePortal = Beléptető oldal támogatás engedélyezése vagy letiltása.
 policy-CertificatesDescription = Tanúsítványok hozzáadása vagy beépített tanúsítványok használata.
 policy-Cookies = A weboldalak süti elhelyezésének engedélyezése vagy letiltása.
+policy-DefaultDownloadDirectory = Az alapértelmezett letöltési könyvtár beállítása.
 policy-DisableAppUpdate = A böngésző frissítésének megakadályozása.
 policy-DisableBuiltinPDFViewer = A PDF.js-nek, a { -brand-short-name } beépített PDF-megjelenítőjének letiltása.
 policy-DisableDeveloperTools = A fejlesztői eszközökhöz hozzáférés blokkolása.
@@ -45,6 +46,7 @@ policy-DisplayBookmarksToolbar = A Könyvjelző eszköztár megjelenítése alap
 policy-DisplayMenuBar = A Menüsáv megjelenítése alapértelmezetten.
 policy-DNSOverHTTPS = HTTPS feletti DNS beállítása.
 policy-DontCheckDefaultBrowser = Az alapértelmezett böngésző ellenőrzés kikapcsolása indításkor.
+policy-DownloadDirectory = A letöltési könyvtár beállítása és zárolása.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = A Tartalomblokkolás engedélyezése vagy letiltása, és válaszható módon, annak zárolása.
 # A “locked” extension can’t be disabled or removed by the user. This policy
@@ -52,6 +54,7 @@ policy-EnableTrackingProtection = A Tartalomblokkolás engedélyezése vagy leti
 # English or translate them as verbs.
 policy-Extensions = Kiegészítők telepítése, eltávolítása vagy zárolása. A Telepítés lehetőség URL-t vagy útvonalat vár paraméterként. Az Eltávolítás és Zárolás kiegészítőazonosítót vár.
 policy-ExtensionUpdate = Az automatikus kiegészítőfrissítések engedélyezése vagy letiltása.
+policy-FirefoxHome = A Firefox kezdőlap beállítása.
 policy-FlashPlugin = A Flash bővítmény használatának engedélyezése vagy tiltása.
 policy-HardwareAcceleration = Ha hamis, akkor kikapcsolja a hardveres gyorsítást.
 # “lock” means that the user won’t be able to change this setting
@@ -67,6 +70,7 @@ policy-OverridePostUpdatePage = A frissítés utáni „Újdonságok” oldal fe
 policy-Permissions = A kamera, mikrofon, helyadatok és értesítések jogosultságának beállítása.
 policy-PopupBlocking = Bizonyos weboldalak alapértelmezetten jeleníthessenek meg felugró ablakokat.
 policy-Preferences = Értékek beállítása és zárolása a beállítások egy részhalmazánál.
+policy-PromptForDownloadLocation = Kérdezze meg, hogy hová legyenek letöltve a fájlok.
 policy-Proxy = Proxy-beállítások konfigurálása.
 policy-RequestedLocales = Adja meg a kért területi beállításokat az alkalmazásnak, az Ön által előnyben részesített sorrendben.
 policy-SanitizeOnShutdown = Összes navigációs adat törlése leállításkor.
