@@ -5,10 +5,26 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-learn-more = Conocer más
 onboarding-button-label-try-now = Probalo ahora
 onboarding-button-label-get-started = Comenzar
 onboarding-welcome-header = Bienvenido a { -brand-short-name }
+onboarding-welcome-body = Tiene el navegador. <br/> Conozca el resto de { -brand-product-name }.
+onboarding-welcome-learn-more = Conocer más sobre las ventajas.
+onboarding-join-form-header = Únase a { -brand-product-name }
+onboarding-join-form-body = Para empezar, ingrese su dirección de correo electrónico.
+onboarding-join-form-email =
+    .placeholder = Ingresar la dirección de correo electrónico
+onboarding-join-form-email-error = Se requiere una dirección de correo electrónico válida
+onboarding-join-form-legal = Al continuar, acepta los <a data-l10n-name="terms">Términos del servicio</a> y <a data-l10n-name="privacy">la Nota de privacidad</a>.
+onboarding-join-form-continue = Continuar
 onboarding-start-browsing-button-label = Empiece a navegar
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-title = Productos prácticos
+onboarding-benefit-products-text = Haga las cosas con una grupode herramientas que respete su privacidad en todos sus dispositivos.
 
 ## These strings belong to the individual onboarding messages.
 
