@@ -76,6 +76,8 @@ connection-dns-over-https-url-default =
     .label = 使用默认值（{ $url }）
     .accesskey = Ｕ
     .tooltiptext = 使用默认 URL 完成基于 HTTPS 的 DNS 解析
+connection-dns-over-https-url-resolver = 选用提供商
+    .accesskey = P
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
