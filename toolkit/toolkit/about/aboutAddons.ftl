@@ -262,6 +262,7 @@ go-back-button =
 
 ## Add-on actions
 
+report-addon-button = 报告
 remove-addon-button = 移除
 disable-addon-button = 禁用
 enable-addon-button = 启用
