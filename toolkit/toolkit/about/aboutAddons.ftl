@@ -315,3 +315,8 @@ install-update-button = Diweddaru
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Caniatáu mewn ffenestri preifat
+addon-detail-private-browsing-help = Pan mae'n cael ei ganiatáu, bydd yr estyniad ar gael i'ch gweithgareddau ar-lein tra byddwch yn pori'n breifat. <a data-l10n-name="learn-more"> Gwybod rhagor</a>
+addon-detail-private-browsing-allow = Caniatáu
+addon-detail-private-browsing-disallow = Peidio Caniatáu
+available-updates-heading = Diweddariadau ar Gael
+recent-updates-heading = Diweddariadau Diweddar
