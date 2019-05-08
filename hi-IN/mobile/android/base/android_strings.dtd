@@ -918,6 +918,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "रोकें">
 <!ENTITY pip_pause_button_description "चलना रोकें">
 
+<!ENTITY pref_notification_settings_link "नोटिफिकेशन सेटिंग प्रबंधित करें">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "ब्राउज़र">
 <!ENTITY mls_notification_channel "&vendorShortName; लोकेशन सेवा">
