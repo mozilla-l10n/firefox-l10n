@@ -5,10 +5,29 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-learn-more = Dysgu Rhagor
 onboarding-button-label-try-now = Rhowch brawf arno nawr
 onboarding-button-label-get-started = Cychwyn Arni
 onboarding-welcome-header = Croeso i { -brand-short-name }
+onboarding-welcome-body = Mae'r porwr gyda chi. <br/> Dyma weddill { -brand-product-name }.
+onboarding-welcome-learn-more = Dysgu rhagor am y buddiannau.
+onboarding-join-form-header = Ymunwch â { -brand-product-name }
+onboarding-join-form-body = Rhowch eich cyfeiriad e-bost i ddechrau.
+onboarding-join-form-email =
+    .placeholder = Rhowch e-bost
+onboarding-join-form-email-error = Mae angen e-bost dilys
+onboarding-join-form-legal = Drwy barhau, rydych yn cytuno i'r <a data-l10n-name="terms">>Amodau Gwasanaeth</a> a'r <a data-l10n-name="privacy">Hysbysiad Preifatrwydd</a>.
+onboarding-join-form-continue = Parhau
 onboarding-start-browsing-button-label = Cychwyn Pori
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-title = Cynnyrch Defnyddiol
+onboarding-benefit-products-text = Gwnewch bethau gyda chasgliad o offer sy'n parchu eich preifatrwydd ar draws eich dyfeisiau.
+onboarding-benefit-knowledge-title = Gwybodaeth Ymarferol
+onboarding-benefit-knowledge-text = Dysgwch bopeth y mae angen i chi ei wybod i gadw'n fwy doeth a mwy diogel ar-lein.
+onboarding-benefit-privacy-title = Gwir Breifatrwydd
 
 ## These strings belong to the individual onboarding messages.
 
