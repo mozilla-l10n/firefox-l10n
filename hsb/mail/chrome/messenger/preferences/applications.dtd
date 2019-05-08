@@ -34,5 +34,7 @@
 <!ENTITY authRequired.button.label        "Awtorizować">
 <!ENTITY authRequired.button.accesskey    "A">
 
+<!ENTITY findCloudFileProviders.label     "Dalšich poskićowarjow namakać…">
+
 <!ENTITY enableCloudFileAccountOffer.label "Poskićić, zo by dataje dźělił, kotrež su wjetše hač">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
