@@ -78,6 +78,11 @@ connection-dns-over-https-url-default =
     .tooltiptext = שימוש בכתובת בררת המחדל כדי לפתור שאילתות DNS על גבי HTTPS
 connection-dns-over-https-url-resolver = שימוש בספק
     .accesskey = ש
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = ‏{ $name } (ברירת מחדל)
+    .tooltiptext = שימוש בכתובת ברירת המחדל כדי לפתור שאילתות DNS על גבי HTTPS
 connection-dns-over-https-url-custom =
     .label = התאמה אישית
     .accesskey = א

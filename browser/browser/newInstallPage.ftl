@@ -24,4 +24,5 @@ sync-input =
     .placeholder = דוא״ל
 sync-button = המשך
 sync-terms = בחירה להמשיך בתהליך מהווה הסכמה ל<a data-l10n-name="terms">תנאי השירות</a> ול<a data-l10n-name="privacy">הצהרת הפרטיות</a>.
+sync-first = פעם ראשונה עם { -sync-brand-name }? יהיה עליך להתחבר לכל התקנה של Firefox כדי לסנכרן את המידע שלך.
 sync-learn = מידע נוסף

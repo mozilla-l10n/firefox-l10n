@@ -8,7 +8,7 @@ safeb-blocked-unwanted-page-title = האתר הבא עלול להכיל תוכנ
 safeb-blocked-harmful-page-title = האתר הבא עלול להכיל נוזקה
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } חסם דף זה מכיוון שהוא עלול להערים עליך ולגרום לך לעשות משהו מסוכן כמו להתקין תוכניות או לחשוף מידע אישי כמו ססמאות או כרטיסי אשראי.
 safeb-blocked-malware-page-short-desc = { -brand-short-name } חסם דף זה מכיוון שהוא עלול לנסות להתקין תוכנה זדונית במחשב שלך, העשויה לגנוב או למחוק מידע אישי.
-safeb-blocked-unwanted-page-short-desc = { -brand-short-name } חסם דף זה מכיוון שהוא עלול להערים עליך ולגרום לך להתקין תוכניות שמזיקות לחווית הגלישה שלך (למשל ע״י שינוי דף הבית שלך או הצגת פרסומות נוספות באתרים).
+safeb-blocked-unwanted-page-short-desc = { -brand-short-name } חסם דף זה מכיוון שהוא עלול להערים עליך ולגרום לך להתקין תוכניות שמזיקות לחווית הגלישה שלך (למשל על־ידי שינוי דף הבית שלך או הצגת פרסומות נוספות באתרים).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } חסם דף זה מכיוון שהוא עלול לנסות להתקן יישומים מסוכנים הגונבים או מוחקים את המידע שלך (כמו תמונות, ססמאות, הודעות וכרטיסי אשראי).
 safeb-palm-advisory-desc = גורם מייעץ: <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = חזרה אחורה

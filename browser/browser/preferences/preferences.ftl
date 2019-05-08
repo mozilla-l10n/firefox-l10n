@@ -50,6 +50,9 @@ category-privacy =
 pane-sync-title = חשבון Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = תמיכה ב־{ -brand-short-name }
 addons-button-label = הרחבות וערכות נושא
 focus-search =
@@ -332,6 +335,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = קבלת המלצות על הרחבות תוך כדי גלישה
     .accesskey = ק
+browsing-cfr-features =
+    .label = קבלת המלצות על תכונות תוך כדי גלישה
+    .accesskey = ת
 browsing-cfr-recommendations-learn-more = מידע נוסף
 
 ## General Section - Proxy
@@ -524,6 +530,7 @@ sync-device-name-save =
     .accesskey = ש
 sync-mobilepromo-single = חיבור התקן נוסף
 sync-mobilepromo-multi = ניהול התקנים
+sync-connect-another-device = חיבור מכשיר נוסף
 sync-manage-devices = ניהול מכשירים
 sync-fxa-begin-pairing = צימוד מכשיר
 sync-tos-link = תנאי שימוש
@@ -652,6 +659,7 @@ addressbar-suggestions-settings = שינוי העדפות של הצעות מנו
 ## Privacy Section - Content Blocking
 
 content-blocking-header = חסימת תוכן
+content-blocking-description = חסימת תוכן צד־שלישי שעוקב אחריך ברחבי האינטרנט. שליטה בכמות הפעילות המקוונת שלך שנשמרת ומשותפת בין אתרים.
 content-blocking-learn-more = מידע נוסף
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -667,16 +675,21 @@ content-blocking-setting-custom =
 content-blocking-standard-description = חסימת רכיבי מעקב מוכרים בחלונות פרטיים בלבד.
 content-blocking-standard-desc = מאוזן בין הגנה לביצועים. מאפשר את פעולתם של חלק מרכיבי המעקב כדי שהאתרים יפעלו כראוי.
 content-blocking-strict-desc = חסימת כל רכיבי המעקב ש־{ -brand-short-name } מזהה. עשוי לשבש פעילות של אתרים.
+content-blocking-strict-description = הגנה חזקה יותר, שעשויה לשבש פעילות של אתרים.
 content-blocking-custom-desc = בחירת הפריטים שייחסמו.
 content-blocking-private-trackers = רכיבי מעקב מוכרים בחלונות פרטיים בלבד
 content-blocking-third-party-cookies = עוגיות מעקב צד־שלישי
 content-blocking-all-cookies = כל העוגיות
+content-blocking-unvisited-cookies = עוגיות מאתרים שלא ביקרתי בהם
 content-blocking-all-windows-trackers = רכיבי מעקב מוכרים בכל החלונות
 content-blocking-all-third-party-cookies = כל העוגיות צד־שלישי
 content-blocking-cryptominers = כורי מטבעות דיגיטליים
+content-blocking-fingerprinters = רכיבי זהות דיגיטלית
 content-blocking-warning-title = לתשומת לבך!
 content-blocking-warning-desc = חסימת עוגיות ורכיבי מעקב עשויה לשבש פעילות של מספר אתרים. קל להשבית חסימה של אתרים המהימנים בעיניך.
+content-blocking-warning-description = חסימת תוכן עלולה לגרום לאתרים מסוימים להישבר. קל לבטל חסימה עבור אתרים בטוחים.
 content-blocking-learn-how = מידע נוסף
+content-blocking-reload-description = יהיה עליך לטעון מחדש את הלשוניות שלך כדי להחיל שינויים אלו.
 content-blocking-reload-tabs-button =
     .label = טעינת כל הלשוניות מחדש
     .accesskey = ט
@@ -699,6 +712,11 @@ content-blocking-expand-section =
 content-blocking-cryptominers-label =
     .label = כורי מטבעות דיגיטליים
     .accesskey = כ
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = רכיבי זהות דיגיטלית
+    .accesskey = ז
 
 ## Privacy Section - Tracking
 

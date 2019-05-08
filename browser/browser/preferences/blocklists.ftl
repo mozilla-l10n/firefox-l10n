@@ -5,7 +5,6 @@
 blocklist-window =
     .title = רשימת חסימות
     .style = width: 50em
-blocklist-desc = ניתן לבחור באיזו רשימה { -brand-short-name } ישתמש כדי לחסום רכיבים העשויים לעקוב אחר פעילות הגלישה שלך.
 blocklist-description = בחירת הרשימה ש־{ -brand-short-name } משתמש כדי לחסום רכיבי מעקב מקוונים. הרשימות מסופקות מאת <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
@@ -25,10 +24,7 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
-blocklist-item-moz-std-name = חסימה בסיסית של Disconnect.me (מומלץ).
-blocklist-item-moz-std-desc = אפשר חלק מרכיבי המעקב כדי לאפשר לאתרים לתפקד כראוי.
-blocklist-item-moz-full-name = חסימה קפדנית של Disconnect.me.
-blocklist-item-moz-full-desc = חסימת רכיבי מעקב מוכרים. חלק מהאתרים עשויים שלא לתפקד כראוי.
 blocklist-item-moz-std-listName = רשימת חסימה רמה 1 (מומלצת).
+blocklist-item-moz-std-description = אפשור מספר רכיבי מעקב כך שפחות אתרים יישברו.
 blocklist-item-moz-full-listName = רשימת חסימה רמה 2.
 blocklist-item-moz-full-description = חסימת כל העוקבים שזוהו. ייתכן שאתרים או תוכן מסוים לא יטענו כראוי.
