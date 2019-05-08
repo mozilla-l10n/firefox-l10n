@@ -37,9 +37,43 @@ abuse-report-messagebar-submitted = Cám ơn bạn đã gửi báo cáo. Bạn c
 abuse-report-messagebar-removed-extension = Cảm ơn bạn đã gửi báo cáo. Bạn đã xóa phần mở rộng <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = Cảm ơn bạn đã gửi báo cáo. Bạn đã xóa chủ đề <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Đã xảy ra lỗi khi gửi báo cáo về <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error-recent-submit = Báo cáo về <span data-l10n-name="addon-name">{ $addon-name }</span> không thể gửi do đã có một báo cáo khác đã được gửi gần đây.
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove = Vâng, loại bỏ nó
+abuse-report-messagebar-action-keep = Không, tôi sẽ giữ nó
+abuse-report-messagebar-action-retry = Thử lại
+abuse-report-messagebar-action-cancel = Hủy
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason = Gây hư hại cho máy tính và dữ liệu của tôi
+abuse-report-damage-example = Ví dụ: bị nhiễm phần mềm độc hại hay đánh cắp dữ liệu
+abuse-report-spam-reason = Tạo thư rác hoặc quảng cáo
+abuse-report-spam-example = Ví dụ: chèn quảng cáo trên các trang web
+abuse-report-settings-reason = Đã thay đổi công cụ tìm kiếm, trang chủ hoặc thẻ mới của tôi mà không thông báo hoặc hỏi tôi
+abuse-report-settings-suggestions = Trước khi báo cáo phần mở rộng, bạn có thể thử thay đổi cài đặt của mình:
+abuse-report-settings-suggestions-search = Thay đổi cài đặt tìm kiếm mặc định của bạn
+abuse-report-settings-suggestions-homepage = Thay đổi trang chủ và thẻ mới của bạn
+abuse-report-deceptive-reason = Giả mạo một cái gì đó
+abuse-report-deceptive-example = Ví dụ: phần mô tả hoặc hình ảnh gây hiểu lầm
+abuse-report-broken-reason-extension = Không hoạt động, phá vỡ trang web, hoặc làm chậm { -brand-product-name }
+abuse-report-broken-reason-theme = Không hoạt động hoặc hiển thị không đúng
+abuse-report-broken-example = Ví dụ: tính năng chậm, khó sử dụng hoặc không hoạt động; các phần của trang web không tải được hoặc trông khác thường
+abuse-report-broken-suggestions-extension =
+    Có vẻ như bạn đã xác định được một lỗi. Ngoài việc gửi báo cáo ở đây, cách tốt nhất
+    để giải quyết vấn đề là liên hệ với nhà phát triển phần mở rộng.
+    <a data-l10n-name="support-link">Truy cập trang web phần mở rộng</a> để lấy thông tin về nhà phát triển.
+abuse-report-broken-suggestions-theme =
+    Có vẻ như bạn đã xác định được một lỗi. Ngoài việc gửi báo cáo ở đây, cách tốt nhất
+    để giải quyết vấn đề là liên hệ với nhà phát triển chủ đề.
+    <a data-l10n-name="support-link">Truy cập trang web chủ đề của</a> để lấy thông tin nhà phát triển.
+abuse-report-policy-reason = Nội dung gây khó chịu, bạo lực hoặc bất hợp pháp
+abuse-report-policy-suggestions =
+    Lưu ý: Các vấn đề về bản quyền và nhãn hiệu phải được báo cáo trong một quy trình riêng.
+    <a data-l10n-name="report-infringement-link">Sử dụng các hướng dẫn này</a> để
+    báo cáo vấn đề.
+abuse-report-unwanted-reason = Không bao giờ muốn phần mở rộng này và không thể loại bỏ nó
+abuse-report-unwanted-example = Ví dụ: Một ứng dụng đã cài đặt nó mà không có sự cho phép của tôi
+abuse-report-other-reason = Điều gì đó khác
