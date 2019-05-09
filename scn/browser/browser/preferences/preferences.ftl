@@ -371,11 +371,50 @@ home-mode-choice-blank =
     .label = Pàggina vacanti
 home-homepage-custom-url =
     .placeholder = Ncoḍḍa n'URL...
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Usa la pàggina currenti
+            [one] Usa la pàggina currenti
+           *[other] Usa li pàggini currenti
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = Usa nzingalibbra...
+    .accesskey = B
 
 ## Search Section
 
+search-bar-header = Barra di ricerca
+search-bar-hidden =
+    .label = Usa la barra dû nnirizzu pi ricerca e navigazziuni
 search-bar-shown =
-    .label = Agghiunci la sbarra di circata nnâ sbarra dî strummenta
+    .label = Agghiunci barra di ricerca nnâ barra dî strumenti
+search-engine-default-header = Muturi di ricerca pridifinutu
+search-engine-default-desc = Scegghi lu muturi di ricerca pridifinutu di usari nnâ barra dû nnirizzu e nnâ barra di ricerca.
+search-suggestions-option =
+    .label = Furnisci suggirimenti di ricerca
+    .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = Mustra suggirimenti di ricerca nnê risurtati dâ barra dû nnirizzu
+    .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Mustra suggirimenti di ricerca nnô ncapu dâ crunuluggìa nnê risurtati dâ barra dû nnirizzu
+search-suggestions-cant-show = Cerca suggirimenti nun veni mustratu nnê risurtati dâ barra di lucalizzazziuni picchì cunfijurasti { -brand-short-name } ca nun sarba la crunuluggìa.
+search-one-click-desc = Scegghi li mutura di ricerca artirnativi ca cumparìscinu sutta la barra dû nnirizzu e la barra di ricerca quannu accuminci a mèttiri na palora-chiavi.
+search-choose-engine-column =
+    .label = Muturi di ricerca
+search-choose-keyword-column =
+    .label = Palora-chiavi
 
 ## Containers Section
 
