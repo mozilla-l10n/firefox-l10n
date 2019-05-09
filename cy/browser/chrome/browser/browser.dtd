@@ -1133,6 +1133,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "A">
 <!ENTITY updateRestart.cancelButton.label "Nid Nawr">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateUnsupported.panelUI.label "Nid oes modd i chi gyflawni diweddariadau pellach">
 <!ENTITY updateRestart.panelUI.label2 "Ailgychwyn i ddiweddaru &brandShorterName;">
 
 <!ENTITY newTabControlled.header.message "Mae eich Tab Newydd wedi newid.">

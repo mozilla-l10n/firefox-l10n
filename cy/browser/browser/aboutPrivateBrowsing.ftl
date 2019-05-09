@@ -6,7 +6,7 @@ about-private-browsing-learn-more = Dysgu rhagor am <a data-l10n-name="learn-mor
 about-private-browsing-info-visited = tudalennau rydych wedi ymweld â nhw
 privatebrowsingpage-open-private-window-label = Agor Ffenestr Breifat
     .accesskey = F
-about-private-browsing-info-notsaved = Pan fyddwch yn pori mewn Ffenestr Breifat, <strong>nid yw'n cadw</strong>:
+about-private-browsing-info-notsaved = Pan fyddwch yn pori mewn Ffenestr Breifat, { -brand-short-name } <strong>nid yw'n cadw</strong>:
 about-private-browsing-search-placeholder = Chwilio'r We
 about-private-browsing-info-bookmarks = nodau tudalen
 about-private-browsing-info-title = Rydych mewn Ffenestr Preifat
