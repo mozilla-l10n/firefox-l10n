@@ -59,6 +59,7 @@ onboarding-data-sync-button = Activer { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Suivez de près les fuites de données
 onboarding-firefox-monitor-text = { -monitor-brand-name } vérifie si votre adresse électronique fait partie d’une fuite de données et vous alerte si elle apparaît dans une nouvelle fuite de données.
 onboarding-firefox-monitor-button = S’abonner aux alertes
+onboarding-browse-privately-title = Naviguez en toute confidentialité
 onboarding-browse-privately-button = Ouvrir une fenêtre de navigation privée
 onboarding-firefox-send-title = Protégez les fichiers que vous partagez
 onboarding-firefox-send-text = { -send-brand-name } protège les fichiers que vous partagez avec un chiffrement de bout en bout et un lien qui expire automatiquement.
@@ -70,8 +71,10 @@ onboarding-mobile-phone-text = Téléchargez { -brand-product-name } pour iOS ou
 onboarding-mobile-phone-button = Télécharger le navigateur mobile
 onboarding-send-tabs-title = Envoyez-vous des onglets
 onboarding-pocket-anywhere-button = Essayer { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Emmenez vos mots de passe partout
 onboarding-lockwise-passwords-text = { -lockwise-brand-name } conserve vos mots de passe en lieu sûr, vous permettant ainsi de vous connecter facilement à vos comptes.
 onboarding-lockwise-passwords-button = Installer { -lockwise-brand-name }
+onboarding-facebook-container-title = Fixez les limites avec Facebook
 onboarding-facebook-container-button = Installer l’extension
 
 ## Message strings belonging to the Return to AMO flow
