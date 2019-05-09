@@ -91,6 +91,8 @@ onboarding-pocket-anywhere-button = Experimente o { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Leve suas senhas para qualquer lugar
 onboarding-lockwise-passwords-text = O { -lockwise-brand-name } salva suas senhas em um local seguro, assim você pode facilmente acessar suas contas.
 onboarding-lockwise-passwords-button = Instale o { -lockwise-brand-name }
+onboarding-facebook-container-title = Defina limites para o Facebook
+onboarding-facebook-container-text = O { -facebook-container-brand-name } mantém sua identidade do Facebook separada de todo o resto, tornando mais difícil rastrear você pela web.
 onboarding-facebook-container-button = Adicionar a extensão
 
 ## Message strings belonging to the Return to AMO flow
