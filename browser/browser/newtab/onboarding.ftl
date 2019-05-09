@@ -69,16 +69,24 @@ onboarding-firefox-monitor-title = Fique atento a vazamentos de dados
 onboarding-firefox-monitor-text = O { -monitor-brand-name } verifica se seu e-mail apareceu em um vazamento de dados e manda um alerta para você caso apareça em um novo vazamento.
 onboarding-firefox-monitor-button = Cadastre-se para receber alertas
 onboarding-browse-privately-title = Navegue com privacidade
+onboarding-browse-privately-text = A navegação privativa limpa sua pesquisa e seu histórico de navegação para manter em segredo de qualquer um que use seu computador.
 onboarding-browse-privately-button = Abrir uma janela privativa
 onboarding-firefox-send-title = Mantenha privativos seus arquivos compartilhados
+onboarding-firefox-send-text = O { -send-brand-name } protege os arquivos que você compartilha com criptografia de ponta a ponta e um link que expira automaticamente.
 onboarding-firefox-send-button = Experimente o { -send-brand-name }
 onboarding-mobile-phone-title = Instale o { -brand-product-name } no seu celular
+onboarding-mobile-phone-text = Baixe o { -brand-product-name } para iOS ou Android e sincronize seus dados entre dispositivos.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Baixar o navegador para celular
 onboarding-send-tabs-title = Envie abas para si mesmo instantaneamente
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = O envio instantâneo de abas compartilha páginas entre seus dispositivos sem precisar copiar, colar ou sair do navegador.
 onboarding-send-tabs-button = Comece a usar o envio de abas
 onboarding-pocket-anywhere-title = Leia e ouça em qualquer lugar
+# "downtime" refers to the user's free/spare time.
+onboarding-pocket-anywhere-text = O { -pocket-brand-name } salva suas histórias preferidas para que possa ler, ouvir e assistir durante seu tempo livre, mesmo se estiver desconectado.
 onboarding-pocket-anywhere-button = Experimente o { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Leve suas senhas para qualquer lugar
 onboarding-lockwise-passwords-text = O { -lockwise-brand-name } salva suas senhas em um local seguro, assim você pode facilmente acessar suas contas.
