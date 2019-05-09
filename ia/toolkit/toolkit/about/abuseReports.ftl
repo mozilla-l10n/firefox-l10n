@@ -33,11 +33,15 @@ abuse-report-messagebar-submitted = Gratias pro invio de un signalation. Desira 
 abuse-report-messagebar-removed-extension = Gratias pro invio de un signalation. Tu ha eliminate le extension <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = Gratias pro invio de un signalation. Tu ha eliminate le thema <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Un error occurreva durante le invio de signalation pro <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error-recent-submit = Le reporto pro <span data-l10n-name="addon-name">{ $addon-name }</span> non esseva inviate perque un altere reporto ha essite inviate recentemente.
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove = Si, remover illo
+abuse-report-messagebar-action-keep = No, io vole mantener illo
 abuse-report-messagebar-action-retry = Retentar
 abuse-report-messagebar-action-cancel = Cancellar
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason = Damnifica mi computator e datos
