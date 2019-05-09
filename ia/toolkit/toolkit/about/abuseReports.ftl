@@ -57,3 +57,6 @@ abuse-report-deceptive-example = Exemplo: description o graphica fraudulente
 abuse-report-broken-reason-extension = Non functiona, rumpe sitos web, o relenta { -brand-product-name }
 abuse-report-broken-reason-theme = Non functiona o rumpe le exhibition del navigator
 abuse-report-broken-example = Exemplo: le functionalitate es lente, dur a usar, o non functiona; partes de sitos web non carga o pare inusual
+abuse-report-broken-suggestions-extension = Il pare que tu ha identificate un defecto. In addition a inviar un signalation ci, le melior maniera de resolver un problema de functionalitate es de continger le disveloppator del  extension. <a data-l10n-name="support-link">Visita le sito web del extension</a> pro haber informationes del disveloppator.
+abuse-report-broken-suggestions-theme = Il pare que tu ha identificate un defecto. In addition a inviar un signalation ci, le melior maniera de resolver un problema de functionalitate es de continger le disveloppator del  thema. <a data-l10n-name="support-link">Visita le sito web del thema</a> pro haber informationes del disveloppator.
+abuse-report-policy-reason = Contento odiose, violente o illegal
