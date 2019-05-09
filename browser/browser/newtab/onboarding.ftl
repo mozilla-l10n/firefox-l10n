@@ -66,6 +66,9 @@ onboarding-mobile-phone-button = Mobilny wobhladowak sćahnyć
 onboarding-pocket-anywhere-title = Čitajće a słuchajće wšudźe
 onboarding-pocket-anywhere-button = { -pocket-brand-name } wupruwować
 onboarding-lockwise-passwords-title = Wzmiće swoje hesła wšudźe sobu
+onboarding-lockwise-passwords-button = { -lockwise-brand-name } wobstarać
+onboarding-facebook-container-title = Stajće hranicy za Facebook
+onboarding-facebook-container-button = Rozšěrjenje přidać
 
 ## Message strings belonging to the Return to AMO flow
 
