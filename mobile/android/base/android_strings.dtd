@@ -921,6 +921,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Pausa">
 <!ENTITY pip_pause_button_description "Metter en pausa la reproducziun">
 
+<!ENTITY pref_notification_settings_link "Administrar ils parameters da communicaziuns">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Navigatur">
 <!ENTITY mls_notification_channel "Servetsch da posiziun da &vendorShortName;">
