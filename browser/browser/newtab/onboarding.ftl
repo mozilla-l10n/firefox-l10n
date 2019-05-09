@@ -24,6 +24,16 @@ onboarding-start-browsing-button-label = Bắt đầu duyệt web
 ## description.
 
 onboarding-benefit-products-title = Sản phẩm hữu ích
+onboarding-benefit-products-text = Hoàn thành công việc với một nhóm công cụ tôn trọng quyền riêng tư của bạn trên các thiết bị của bạn.
+onboarding-benefit-knowledge-title = Kiến thức thực tế
+onboarding-benefit-knowledge-text = Tìm hiểu mọi thứ bạn cần biết để luôn thông minh hơn và an toàn hơn khi trực tuyến.
+onboarding-benefit-privacy-title = Quyền riêng tư thực sự
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Tất cả mọi thứ chúng tôi làm đều tôn vinh lời hứa dữ liệu cá nhân của chúng tôi: Lấy ít hơn. Giữ nó an toàn. Không có bí mật.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -43,6 +53,8 @@ onboarding-ghostery-text = Duyệt nhanh hơn, thông minh hơn hoặc an toàn 
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Đồng bộ hóa
 onboarding-fxa-text = Đăng ký tài khoản { -fxaccount-brand-name } để đồng bộ dấu trang, mật khẩu và các thẻ đang mở của bạn khi sử dụng { -brand-short-name } ở mọi nơi.
+onboarding-tracking-protection-title = Kiểm soát cách theo dõi bạn
+onboarding-tracking-protection-text = Bạn không thích quảng cáo theo bạn? { -brand-short-name } giúp bạn kiểm soát cách nhà quảng cáo theo dõi hoạt động của bạn trực tuyến.
 # "Update" is a verb, as in "Update the existing settings", not "Options about
 # updates".
 onboarding-tracking-protection-button =
@@ -50,19 +62,38 @@ onboarding-tracking-protection-button =
         [windows] Cập nhật tùy chọn
        *[other] Cập nhật tùy chỉnh
     }
+onboarding-data-sync-title = Mang theo các cài đặt của bạn
+# "Sync" is short for synchronize.
+onboarding-data-sync-text = Đồng bộ hóa dấu trang và mật khẩu của bạn ở mọi nơi bạn sử dụng { -brand-product-name }.
 onboarding-data-sync-button = Bật { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Cảnh báo về vi phạm dữ liệu
+onboarding-firefox-monitor-text = { -monitor-brand-name } giám sát nếu email của bạn xuất hiện vi phạm dữ liệu và thông báo cho bạn nếu nó xuất hiện trong một vi phạm mới.
+onboarding-firefox-monitor-button = Đăng ký thông báo
+onboarding-browse-privately-title = Duyệt web riêng tư hơn
+onboarding-browse-privately-text = Duyệt web riêng tư sẽ xóa lịch sử tìm kiếm và duyệt web của bạn để giữ bí mật với bất kỳ ai sử dụng máy tính của bạn.
+onboarding-browse-privately-button = Mở một cửa sổ riêng tư
+onboarding-firefox-send-title = Giữ các tập tin bạn chia sẻ ở chế độ riêng tư
+onboarding-firefox-send-text = { -send-brand-name } bảo vệ các tập tin bạn chia sẻ với mã hóa đầu cuối và liên kết tự động hết hạn.
 onboarding-firefox-send-button = Thử { -send-brand-name }
 onboarding-mobile-phone-title = Tải { -brand-product-name } trên điện thoại của bạn
 onboarding-mobile-phone-text = Tải xuống { -brand-product-name } cho iOS hoặc Android và đồng bộ dữ liệu của bạn trên các thiết bị khác nhau.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Tải về trình duyệt di động
+onboarding-send-tabs-title = Gửi ngay cho chính mình các thẻ
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Gửi thẻ sẽ ngay lập tức chia sẻ các trang giữa các thiết bị của bạn mà không phải sao chép, dán hoặc rời khỏi trình duyệt.
 onboarding-send-tabs-button = Bắt đầu sử dụng trình gửi thẻ
 onboarding-pocket-anywhere-title = Đọc và nghe mọi nơi
 # "downtime" refers to the user's free/spare time.
 onboarding-pocket-anywhere-text = { -pocket-brand-name } lưu trữ các câu chuyện yêu thích của bạn để bạn có thể đọc, nghe và xem trong khoảng thời gian nghỉ ngơi của bạn, ngay cả khi bạn đang ngoại tuyến.
 onboarding-pocket-anywhere-button = Thử { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Nhận mật khẩu của bạn ở mọi nơi
+onboarding-lockwise-passwords-text = { -lockwise-brand-name } lưu mật khẩu của bạn ở một nơi an toàn để bạn có thể dễ dàng đăng nhập vào tài khoản của mình.
 onboarding-lockwise-passwords-button = Tải { -lockwise-brand-name }
+onboarding-facebook-container-title = Đặt ranh giới với Facebook
+onboarding-facebook-container-text = { -facebook-container-brand-name } giữ danh tính Facebook của bạn tách biệt với mọi thứ khác, khiến việc theo dõi bạn trên web trở nên khó khăn hơn.
 onboarding-facebook-container-button = Thêm phần mở rộng
 
 ## Message strings belonging to the Return to AMO flow

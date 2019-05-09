@@ -55,6 +55,7 @@ cfr-doorhanger-pintab-animation-resume = Tiếp tục
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Đồng bộ trang đánh dấu của bạn ở mọi nơi.
+cfr-doorhanger-bookmark-fxa-body = Đã tìm thấy tuyệt vời! Bây giờ hãy đồng bộ các dấu trang này với thiết bị di động của bạn. Bắt đầu với một { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Đồng bộ trang đánh dấu ngay bây giờ...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Nút đóng
