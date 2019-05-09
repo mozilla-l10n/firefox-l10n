@@ -21,6 +21,7 @@ policy-Bookmarks = Zapołožki w symbolowej lajsće zapołožkow, w meniju zapo�
 policy-CaptivePortal = Kaptiwny portal zmóžnić abo znjemóžnić
 policy-CertificatesDescription = Certifikaty přidać abo zatwarjene certifikaty wužiwać.
 policy-Cookies = Websydłam dowolić abo zakazać, placki składować.
+policy-DefaultDownloadDirectory = Nastajće standardny sćehnjenski zapis.
 policy-DisableAppUpdate = Wobhladowakej aktualizowanje zakazać.
 policy-DisableBuiltinPDFViewer = PDF.js znjemóžnić, zatwarjeny PDF-wobhladowak w { -brand-short-name }.
 policy-DisableDeveloperTools = Přistup na wuwiwarske nastroje blokować.
@@ -45,6 +46,7 @@ policy-DisplayBookmarksToolbar = Lajstu zapołožkow po standardźe pokazać.
 policy-DisplayMenuBar = Menijowu lajstu po standardźe pokazać.
 policy-DNSOverHTTPS = DNS přez HTTPS konfigurować
 policy-DontCheckDefaultBrowser = Kontrolu za standardnym wobhladowakom při starće znjemóžnić.
+policy-DownloadDirectory = Nastajće a zawrějće sćehnjenski zapis.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Blokowanje wobsaha zmóžnić abo znjemóžnić a jo na přeće zawrěć.
 # A “locked” extension can’t be disabled or removed by the user. This policy
@@ -52,6 +54,7 @@ policy-EnableTrackingProtection = Blokowanje wobsaha zmóžnić abo znjemóžni�
 # English or translate them as verbs.
 policy-Extensions = Rozšěrjenja instalować, wotinstalować abo zawrěć. Instalaciska opcija ma URL abo šćežki jako parametry. Opciji Wotinstalować a Zawrěć ID wužiwatej.
 policy-ExtensionUpdate = Awtomatiske aktualizacije rozšěrjenjow zmóžnić abo znjemóžnić.
+policy-FirefoxHome = Firefox Home konfigurować.
 policy-FlashPlugin = Wužiwanje tykača Flash dowolić abo zakazać.
 policy-HardwareAcceleration = Jeli njewěrno, hardwarowe pospěšenje znjemóžnić.
 # “lock” means that the user won’t be able to change this setting
@@ -67,6 +70,7 @@ policy-OverridePostUpdatePage = Stronu Nowe funkcije a změny po aktualizaciji p
 policy-Permissions = Prawa za kameru, mikrofon, stejnišćo a zdźělenki konfigurować.
 policy-PopupBlocking = Wěstym websydłam dowolić, wuskakowace wokna po standardźe pokazać.
 policy-Preferences = Hódnotu za podsadźbu nastajenjow stajić a zawrěć
+policy-PromptForDownloadLocation = Prašeć so, hdźež maja so dataje při sćehnjenju składować.
 policy-Proxy = Nastajenja proksy konfigurować.
 policy-RequestedLocales = Podajće lisćinu požadanych rěčow za nałoženje w preferowanym porjedźe.
 policy-SanitizeOnShutdown = Nawigaciske daty při skónčenju zhašeć.
