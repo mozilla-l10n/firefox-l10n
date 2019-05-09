@@ -918,6 +918,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "일시 중지">
 <!ENTITY pip_pause_button_description "재생 일시 중지">
 
+<!ENTITY pref_notification_settings_link "알림 설정 관리">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "브라우저">
 <!ENTITY mls_notification_channel "&vendorShortName; 위치 기반 서비스">
