@@ -25,6 +25,15 @@ onboarding-start-browsing-button-label = Empiece a navegar
 
 onboarding-benefit-products-title = Productos prácticos
 onboarding-benefit-products-text = Haga las cosas con una grupode herramientas que respete su privacidad en todos sus dispositivos.
+onboarding-benefit-knowledge-title = Conocimiento práctico
+onboarding-benefit-knowledge-text = Aprenda todo lo que necesita saber para mantenerse en línea de manera más inteligente y segura.
+onboarding-benefit-privacy-title = Verdadera privacidad
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Todo lo que hacemos respeta nuestra Promesa de datos personales: Toma menos información. La mantiene segura. Sin secretos.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -44,6 +53,7 @@ onboarding-ghostery-text = Navegue más rápido, de manera más inteligente o se
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sincronizar
 onboarding-fxa-text = Regístrese para obtener una { -fxaccount-brand-name } y sincronice sus marcadores, contraseñas y pestañas abiertas donde use { -brand-short-name }.
+onboarding-tracking-protection-title = Controle cómo lo rastrean
 
 ## Message strings belonging to the Return to AMO flow
 
