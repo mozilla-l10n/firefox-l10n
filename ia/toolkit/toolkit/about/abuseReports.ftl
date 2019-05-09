@@ -45,3 +45,15 @@ abuse-report-messagebar-action-cancel = Cancellar
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-damage-reason = Damnifica mi computator e datos
+abuse-report-damage-example = Exemplo: malware injectate o datos robate
+abuse-report-spam-reason = Crea spam o publicitate
+abuse-report-spam-example = Exemplo: insere avisos publicitari sur paginas web
+abuse-report-settings-reason = Cambiava mi motor de recerca, pagina principal o nove scheda sin informa o demandar me
+abuse-report-settings-suggestions = Ante que signalar le extension, tu pote provar a cambiar tu parametros:
+abuse-report-settings-suggestions-search = Cambiar tu parametros de recerca predefinite
+abuse-report-settings-suggestions-homepage = Cambiar tu pagina principal e nove scheda
+abuse-report-deceptive-reason = Pretende de ser alco que illo non es
+abuse-report-deceptive-example = Exemplo: description o graphica fraudulente
+abuse-report-broken-reason-extension = Non functiona, rumpe sitos web, o relenta { -brand-product-name }
+abuse-report-broken-reason-theme = Non functiona o rumpe le exhibition del navigator
+abuse-report-broken-example = Exemplo: le functionalitate es lente, dur a usar, o non functiona; partes de sitos web non carga o pare inusual
