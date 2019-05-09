@@ -54,6 +54,19 @@ onboarding-ghostery-text = Navegue más rápido, de manera más inteligente o se
 onboarding-fxa-title = Sincronizar
 onboarding-fxa-text = Regístrese para obtener una { -fxaccount-brand-name } y sincronice sus marcadores, contraseñas y pestañas abiertas donde use { -brand-short-name }.
 onboarding-tracking-protection-title = Controle cómo lo rastrean
+onboarding-tracking-protection-text = ¿No le gusta cuando lo sigue la publicidad? { -brand-short-name } lo ayuda a controlar cómo los publicistas rastrean su actividad en línea.
+# "Update" is a verb, as in "Update the existing settings", not "Options about
+# updates".
+onboarding-tracking-protection-button =
+    { PLATFORM() ->
+        [windows] Actualizar Opciones
+       *[other] Actualizar Preferencias
+    }
+onboarding-data-sync-title = Lleve sus configuraciones con usted
+# "Sync" is short for synchronize.
+onboarding-data-sync-text = Sincronice sus marcadores y contraseñas en cualquier lugar que use { -brand-product-name }.
+onboarding-data-sync-button = Abrir { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Manténgase alerta a las violaciones de datos
 
 ## Message strings belonging to the Return to AMO flow
 
