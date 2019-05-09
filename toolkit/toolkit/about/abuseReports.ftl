@@ -58,6 +58,7 @@ abuse-report-deceptive-reason = Finge ser o que não é
 abuse-report-deceptive-example = Exemplo: descrição ou imagens enganosas
 abuse-report-broken-reason-extension = Não funciona, atrapalha sites, ou faz o { -brand-product-name } ficar mais lento
 abuse-report-broken-reason-theme = Não funciona ou atrapalha a exibição do navegador
+abuse-report-broken-example = Exemplo: recursos são lentos, difíceis de usar, ou não funcionam; partes de sites não são carregadas ou aparecem erradas
 abuse-report-broken-suggestions-extension =
     Parece que você identificou um bug. Além de enviar um relato aqui, a melhor maneira de
     ter um problema de funcionalidade resolvido é entrar em contato com o desenvolvedor da extensão.
