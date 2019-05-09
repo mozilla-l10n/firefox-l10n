@@ -602,7 +602,7 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Cookies e Dados de sites
+sitedata-header = Cookies e dados de sites
 sitedata-total-size-calculating = Calculando o tamanho dos dados de sites e cache…
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
@@ -773,7 +773,7 @@ permissions-a11y-privacy-link = Saiba mais
 
 ## Privacy Section - Data Collection
 
-collection-header = Coleta e Uso de Dados pelo { -brand-short-name }
+collection-header = Coleta e uso de dados pelo { -brand-short-name }
 collection-description = Nos esforçamos para proporcionar escolhas e coletar somente o necessário para fornecer e melhorar o { -brand-short-name } para todos. Sempre pedimos permissão antes de receber informações pessoais.
 collection-privacy-notice = Nota sobre privacidade
 collection-health-report =
@@ -847,8 +847,8 @@ space-alert-over-5gb-pref-button =
         }
 space-alert-over-5gb-message =
     { PLATFORM() ->
-        [windows] { -brand-short-name } está ficando sem espaço em disco. Conteúdos de sites podem não ser exibidos corretamente. Você pode limpar dados armazenados em Opções > Privacidade e Segurança > Cookies e Dados de sites.
-       *[other] { -brand-short-name } está ficando sem espaço em disco. Conteúdos de sites podem não ser exibidos corretamente. Você pode limpar dados armazenados em Preferências > Privacidade e Segurança > Cookies e Dados de sites.
+        [windows] { -brand-short-name } está ficando sem espaço em disco. Conteúdos de sites podem não ser exibidos corretamente. Você pode limpar dados armazenados em Opções > Privacidade e Segurança > Cookies e dados de sites.
+       *[other] { -brand-short-name } está ficando sem espaço em disco. Conteúdos de sites podem não ser exibidos corretamente. Você pode limpar dados armazenados em Preferências > Privacidade e Segurança > Cookies e dados de sites.
     }
 space-alert-under-5gb-ok-button =
     .label = OK, entendi
