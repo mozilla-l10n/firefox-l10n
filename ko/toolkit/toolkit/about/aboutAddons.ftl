@@ -286,3 +286,12 @@ addon-detail-reviews-link =
     { $numberOfReviews ->
        *[other] { $numberOfReviews }개의 리뷰
     }
+
+## Pending uninstall message bar
+
+addon-detail-updates-radio-default = 기본값
+addon-detail-update-check-label = 업데이트 확인
+install-update-button = 업데이트
+addon-detail-private-browsing-allow = 허용
+addon-detail-private-browsing-disallow = 허용하지 않음
+available-updates-heading = 업데이트 가능 항목
