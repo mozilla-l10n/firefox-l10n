@@ -23,6 +23,9 @@ onboarding-start-browsing-button-label = ابدأ التصفح
 ## description.
 
 onboarding-benefit-products-title = منتجات مفيدة
+onboarding-benefit-products-text = أنجِز أمورك مستخدما طقما من الأدوات يحترم خصوصيتك على مختلف الأجهزة لديك.
+onboarding-benefit-knowledge-text = اعرف كل ما يلزمك لتكون حذِقًا وآمنًا على شبكة الإنترنت.
+onboarding-benefit-privacy-title = خصوصية حقة
 
 ## These strings belong to the individual onboarding messages.
 
@@ -42,6 +45,18 @@ onboarding-ghostery-text = تصفّح بشكل أسرع، أو ربما أكثر
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = زامِن
 onboarding-fxa-text = سجّل حساب { -fxaccount-brand-name } وزامن علاماتك وكلمات السر وافتح الألسنة في كل مكان تستخدم { -brand-short-name } فيه.
+onboarding-tracking-protection-title = تحكّم بما تريد أن يتعقّبك
+# "Update" is a verb, as in "Update the existing settings", not "Options about
+# updates".
+onboarding-tracking-protection-button =
+    { PLATFORM() ->
+        [windows] حدّث الخيارات
+       *[other] حدّث التفضيلات
+    }
+onboarding-data-sync-title = خُذ إعداداتك أينما ذهبت
+# "Sync" is short for synchronize.
+onboarding-data-sync-text = زامِن العلامات وكلمات السر في كل مكان تستخدم فيه { -brand-product-name }.
+onboarding-data-sync-button = فعّل { -sync-brand-short-name }
 onboarding-firefox-send-button = جرّب { -send-brand-name }
 onboarding-mobile-phone-title = نزّل { -brand-product-name } على المحمول
 onboarding-mobile-phone-text = نزّل { -brand-product-name } على آي‌أوإس وأندرويد لتُزامن بياناتك عبر مختلف الأجهزة.
@@ -50,6 +65,7 @@ onboarding-mobile-phone-text = نزّل { -brand-product-name } على آي‌أ
 onboarding-mobile-phone-button = نزّل متصفّح المحمول
 onboarding-pocket-anywhere-button = جرّب { -pocket-brand-name }
 onboarding-lockwise-passwords-button = نزّل { -lockwise-brand-name }
+onboarding-facebook-container-button = أضِف الامتداد
 
 ## Message strings belonging to the Return to AMO flow
 

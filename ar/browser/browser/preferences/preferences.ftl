@@ -687,6 +687,8 @@ content-blocking-all-cookies = كل الكعكات
 content-blocking-unvisited-cookies = الكعكات من المواقع غير المُزارة
 content-blocking-all-windows-trackers = المتعقّبات المعروفة في كل النوافذ
 content-blocking-all-third-party-cookies = كل الكعكات من الأطراف الثالثة
+content-blocking-cryptominers = المُعدّنات المعمّاة
+content-blocking-fingerprinters = مسجّلات البصمات
 content-blocking-warning-title = كُن على علم!
 content-blocking-warning-desc = حجب الكعكات والمتعقّبات قد يتسبّب بعطب بعض المواقع. من السهل تعطيل الحجب في المواقع التي تثق بها.
 content-blocking-warning-description = يمكن أن تعطب بعض المواقع إن حُجب المحتوى. يمكنك بسهولة إلغاء أي نوع حجب للمواقع التي تثق بها.
@@ -710,6 +712,15 @@ content-blocking-cookies-label =
     .accesskey = ك
 content-blocking-expand-section =
     .tooltiptext = معلومات أكثر
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = المُعدّنات المعمّاة
+    .accesskey = ن
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = مسجّلات البصمات
+    .accesskey = ص
 
 ## Privacy Section - Tracking
 
