@@ -49,3 +49,16 @@ abuse-report-messagebar-action-cancel = Annuleren
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-damage-reason = Beschadigt mijn computer en gegevens
+abuse-report-damage-example = Voorbeeld: heeft malware geïnjecteerd of gegevens gestolen
+abuse-report-spam-reason = Creëert spam of reclame
+abuse-report-spam-example = Voorbeeld: voegt advertenties toe aan webpagina’s
+abuse-report-settings-reason = Heeft zonder dit te melden of te vragen mijn zoekmachine, startpagina of nieuwe tabblad gewijzigd
+abuse-report-settings-suggestions = Voordat u de extensie meldt, kunt u proberen uw instellingen te wijzigen:
+abuse-report-settings-suggestions-search = Uw standaard zoekinstellingen wijzigen
+abuse-report-settings-suggestions-homepage = Uw startpagina en nieuwe tabblad wijzigen
+abuse-report-deceptive-reason = Doet zich als iets anders voor
+abuse-report-deceptive-example = Voorbeeld: misleidende beschrijving of afbeeldingen
+abuse-report-broken-reason-extension = Werkt niet, zorgt ervoor dat websites niet werken of vertraagt { -brand-product-name }
+abuse-report-broken-reason-theme = Werkt niet of zorgt ervoor dat de browserweergave niet werkt
+abuse-report-broken-example = Voorbeeld: functies zijn langzaam, moeilijk te gebruiken of werken niet; delen van websites laden niet of zien er ongebruikelijk uit
+abuse-report-broken-suggestions-extension = Het lijkt alsof u een bug heeft gevonden. In aanvulling op deze melding kunt u het beste contact opnemen met de ontwikkelaar van de extensie. <a data-l10n-name="support-link">Bezoek de startpagina van de extensie</a> voor informatie over de ontwikkelaar.
