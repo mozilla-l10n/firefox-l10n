@@ -70,16 +70,21 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = เปิดใช้งาน DNS ผ่าน HTTPS
     .accesskey = ป
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = URL สำหรับแปลงที่อยู่ DNS ผ่าน HTTPS
 # Variables:
 #   $url (String) - URL for the DNS over HTTPS provider
 connection-dns-over-https-url-default =
     .label = ใช้ค่าเริ่มต้น ({ $url })
     .accesskey = ช
     .tooltiptext = ใช้ URL เริ่มต้นสำหรับแปลงที่อยู่ DNS ผ่าน HTTPS
+connection-dns-over-https-url-resolver = ใช้ผู้ให้บริการ
+    .accesskey = ช
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (ค่าเริ่มต้น)
+    .tooltiptext = ใช้ URL เริ่มต้นสำหรับแปลงที่อยู่ DNS ผ่าน HTTPS
 connection-dns-over-https-url-custom =
     .label = กำหนดเอง
     .accesskey = ก
     .tooltiptext = ป้อน URL ที่คุณต้องการสำหรับแปลงที่อยู่ DNS ผ่าน HTTPS
+connection-dns-over-https-custom-label = กำหนดเอง
