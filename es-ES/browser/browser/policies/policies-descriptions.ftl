@@ -69,6 +69,7 @@ policy-OverridePostUpdatePage = Anular la página "Qué hay de nuevo" posterior 
 policy-Permissions = Configurar permisos para cámara, micrófono, ubicación y notificaciones.
 policy-PopupBlocking = Permitir que ciertos sitios web muestren ventanas emergentes de forma predeterminada.
 policy-Preferences = Establezca y bloquee el valor para un subconjunto de preferencias.
+policy-PromptForDownloadLocation = Preguntar dónde guardar los archivos que se descargan.
 policy-Proxy = Configurar los ajustes del proxy.
 policy-RequestedLocales = Establecer la lista de localizaciones solicitadas para la aplicación, ordenadas por preferencia.
 policy-SanitizeOnShutdown = Limpiar todos los datos de navegación al cerrar.
