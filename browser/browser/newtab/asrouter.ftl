@@ -51,3 +51,11 @@ cfr-doorhanger-pintab-step2 = 메뉴에서 <b>탭 고정</b>을 선택하세요.
 cfr-doorhanger-pintab-step3 = 사이트에 업데이트가 있으면 고정된 탭에 파란색 점이 표시됩니다.
 cfr-doorhanger-pintab-animation-pause = 일시 중지
 cfr-doorhanger-pintab-animation-resume = 계속
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = 어디서나 북마크 동기화
+cfr-doorhanger-bookmark-fxa-link-text = 북마크 지금 동기화…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = 닫기 버튼
+    .title = 닫기
