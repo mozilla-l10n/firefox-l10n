@@ -26,6 +26,7 @@ abuse-report-submit-button = Даслаць
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+abuse-report-messagebar-submitting = Адпраўляецца паведамленне пра <span data-l10n-name="addon-name">{ $addon-name }</span>.
 
 ## Message bars actions.
 
@@ -39,3 +40,10 @@ abuse-report-messagebar-action-cancel = Скасаваць
 abuse-report-damage-reason = Псуе мой камп'ютар і дадзеныя
 abuse-report-spam-reason = Стварае спам або рэкламу
 abuse-report-spam-example = Прыклад: устаўлены аб'явы на вэб-старонках
+abuse-report-settings-reason = Змяніў маю пошукавую сістэму, хатнюю старонку або новую картку, не інфармуючы і не спытаўшы мяне
+abuse-report-settings-suggestions = Перш чым паведаміць аб пашырэнні, вы можаце паспрабаваць змяніць параметры:
+abuse-report-settings-suggestions-search = Змяніць прадвызначаныя налады пошуку
+abuse-report-settings-suggestions-homepage = Змяніць хатнюю старонку і новую картку
+abuse-report-unwanted-reason = Ніколі не хацеў гэта пашырэнне і не магу пазбавіцца ад яго
+abuse-report-unwanted-example = Прыклад: праграма усталявала гэта без майго дазволу
+abuse-report-other-reason = Нешта іншае
