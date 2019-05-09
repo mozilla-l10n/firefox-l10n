@@ -34,5 +34,7 @@
 <!ENTITY authRequired.button.label        "Baimendu">
 <!ENTITY authRequired.button.accesskey    "a">
 
+<!ENTITY findCloudFileProviders.label     "Bilatu hornitzaile gehiago…">
+
 <!ENTITY enableCloudFileAccountOffer.label "Eskaini partekatzea hau baino handiagoak diren fitxategientzat:">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
