@@ -64,6 +64,8 @@ but will never be visible at the same time. -->
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "ن">
 
+<!-- Tab context menu -->
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -254,6 +256,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.label "صورة داخل صورة">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -464,6 +467,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "امسح التأريخ الحالي…">
 <!ENTITY appMenuHistory.restoreSession.label "استعد الجلسة السابقة">
 <!ENTITY appMenuHistory.viewSidebar.label "أظهر شريط التأريخ الجانبي">
+<!ENTITY appMenuHistory.hideSidebar.label "أخفِ شريط التأريخ الجانبي">
 <!ENTITY appMenuHistory.recentHistory.label "التأريخ القريب">
 <!ENTITY appMenuHelp.label "مساعدة">
 
@@ -492,6 +496,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "لِج إلى «المزامنة»">
 <!ENTITY appMenuRemoteTabs.managedevices.label "أدِر الأجهزة…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "أظهر شريط الألسنة المزامَنة الجانبي">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "أخفِ شريط الألسنة المزامَنة الجانبي">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "صِلْ جهازا آخر">
 
 <!ENTITY appMenuRecentHighlights.label "آخر الأخبار المهمة">
@@ -521,6 +526,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "د">
 <!ENTITY customizeMenu.removeExtension.label "أزِل الامتداد">
 <!ENTITY customizeMenu.removeExtension.accesskey "ت">
+
+<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
+     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.label "أبلِغ عن الامتداد">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -1023,7 +1033,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "الكعكات">
 <!ENTITY contentBlocking.cookiesView.label "الكعكات وبيانات المواقع">
 
+<!ENTITY contentBlocking.cryptominers.label "المُعدّنات المعمّاة">
+<!ENTITY contentBlocking.cryptominersView.label "المُعدّنات المعمّاة">
 
+<!ENTITY contentBlocking.fingerprinters.label "مسجّلات البصمات">
+<!ENTITY contentBlocking.fingerprintersView.label "مسجّلات البصمات">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "أبلِغ عن مشكلة">
 <!ENTITY contentBlocking.breakageReportView.label "الإبلاغ عن مشاكل">
@@ -1096,6 +1110,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "ن">
 <!ENTITY updateAvailable.cancelButton.label "ليس الآن">
 <!ENTITY updateAvailable.cancelButton.accesskey "ل">
+
 <!ENTITY updateAvailable.panelUI.label "نزّل تحديث &brandShorterName;">
 
 <!ENTITY updateManual.message "نزّل نسخة جديدة من &brandShorterName; و سنساعدك في تنصيبها.">
@@ -1113,6 +1128,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "ع">
 <!ENTITY updateRestart.cancelButton.label "ليس الآن">
 <!ENTITY updateRestart.cancelButton.accesskey "ل">
+<!ENTITY updateUnsupported.panelUI.label "لا يمكنك التحديث أكثر من هذا">
 <!ENTITY updateRestart.panelUI.label2 "أعد التشغيل لتحديث &brandShorterName;">
 
 <!ENTITY newTabControlled.header.message "لقد تغيرت صفحة اللسان الجديد.">
