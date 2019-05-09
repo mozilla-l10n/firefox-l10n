@@ -130,6 +130,9 @@ about-debugging-runtime-shared-workers =
 # Title of the other workers category.
 about-debugging-runtime-other-workers =
     .name = ตัวทำงานอื่น ๆ
+# Title of the processes category.
+about-debugging-runtime-processes =
+    .name = โปรเซส
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
