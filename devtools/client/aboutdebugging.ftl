@@ -164,7 +164,7 @@ about-debugging-runtime-processes =
     .name = 프로세스
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
-about-debugging-runtime-profile-button = 프로필 런타임
+about-debugging-runtime-profile-button2 = 성능 프로파일
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
@@ -202,7 +202,7 @@ about-debugging-connection-prompt-enable-button = 연결 프롬프트 사용
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = 연결 프롬프트 사용안함
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
-about-debugging-profiler-dialog-title = 성능 프로파일러
+about-debugging-profiler-dialog-title2 = 프로파일러
 # Label of a checkbox displayed in the runtime page for "This Firefox".
 # This checkbox will toggle preferences that enable local addon debugging.
 # The "Learn more" link points to MDN.
