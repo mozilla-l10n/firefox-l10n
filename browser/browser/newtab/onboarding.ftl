@@ -9,6 +9,7 @@ onboarding-button-label-learn-more = 더 알아보기
 onboarding-button-label-try-now = 지금 사용해보기
 onboarding-button-label-get-started = 시작하기
 onboarding-welcome-header = { -brand-short-name }를 사용해 주셔서 감사합니다.
+onboarding-welcome-learn-more = 이점에 대해 더 알아보기.
 onboarding-join-form-body = 시작하려면 이메일 주소를 입력하십시오.
 onboarding-join-form-email =
     .placeholder = 이메일 입력
@@ -49,10 +50,23 @@ onboarding-ghostery-text = 귀찮은 광고들로부터 여러분을 막아주�
 onboarding-fxa-title = Sync
 onboarding-fxa-text = { -fxaccount-brand-name }에 가입해 { -brand-short-name }를 사용하는 모든 곳에서 북마크, 비밀번호, 열린 탭들을 동기화하세요.
 onboarding-tracking-protection-title = 추적되는 방법을 제어
+# "Update" is a verb, as in "Update the existing settings", not "Options about
+# updates".
+onboarding-tracking-protection-button =
+    { PLATFORM() ->
+        [windows] 업데이트 옵션
+       *[other] 업데이트 설정
+    }
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = { -brand-product-name }를 사용하는 모든 곳에서 북마크와 비밀번호를 동기화하십시오.
 onboarding-data-sync-button = { -sync-brand-short-name } 켜기
 onboarding-firefox-monitor-title = 데이터 유출 경보 유지
+onboarding-browse-privately-button = 사생활 보호 창 열기
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = 모바일 브라우저 다운로드
+onboarding-send-tabs-button = 탭 보내기 사용 시작
+onboarding-facebook-container-button = 확장 기능 추가
 
 ## Message strings belonging to the Return to AMO flow
 
