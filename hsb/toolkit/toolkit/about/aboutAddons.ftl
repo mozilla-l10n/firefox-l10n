@@ -267,12 +267,16 @@ go-back-button =
 
 ## Add-on actions
 
+report-addon-button = Zdźělić
 remove-addon-button = Wotstronić
 disable-addon-button = Znjemóžnić
 enable-addon-button = Zmóžnić
 expand-addon-button = Dalše nastajenja
 addons-enabled-heading = Zmóžnjene
 addons-disabled-heading = Znjemóžnjene
+ask-to-activate-button = Za aktiwizowanje so prašeć
+always-activate-button = Přeco aktiwizować
+never-activate-button = Ženje njeaktiwizować
 addon-detail-author-label = Awtor
 addon-detail-version-label = Wersija
 addon-detail-last-updated-label = Posledni raz zaktualizowany
@@ -292,3 +296,24 @@ addon-detail-reviews-link =
         [few] { $numberOfReviews } pohódnoćenja
        *[other] { $numberOfReviews } pohódnoćenjow
     }
+
+## Pending uninstall message bar
+
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> je so wotstronił.
+pending-uninstall-undo-button = Cofnyć
+addon-detail-updates-label = Awtomatiske aktualizacije dowolić
+addon-detail-updates-radio-default = Standard
+addon-detail-updates-radio-on = Zapinjeny
+addon-detail-updates-radio-off = Wupinjeny
+addon-detail-update-check-label = Za aktualizacijemi pytać
+install-update-button = Aktualizować
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = W priwatnych woknach dowoleny
+addon-detail-private-browsing-allow = Dowolić
+addon-detail-private-browsing-disallow = Njedowolić
+available-updates-heading = K dispoziciji stejace aktualizacije
+recent-updates-heading = Najnowše aktualizacije
