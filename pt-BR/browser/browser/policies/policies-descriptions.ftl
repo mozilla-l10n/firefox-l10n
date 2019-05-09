@@ -70,6 +70,7 @@ policy-OverridePostUpdatePage = Substituir a página “Novidades” exibida ap�
 policy-Permissions = Configurar permissões para câmera, microfone, localização e notificações.
 policy-PopupBlocking = Permitir que determinados sites exibam popups como padrão.
 policy-Preferences = Definir e bloquear o valor de um subconjunto de preferências.
+policy-PromptForDownloadLocation = Perguntar onde salvar arquivos ao baixar.
 policy-Proxy = Definir as configurações de proxy.
 policy-RequestedLocales = Definir a lista de idiomas solicitados para a aplicação por ordem de preferência.
 policy-SanitizeOnShutdown = Limpar todos os dados de navegação ao desligar.
