@@ -266,6 +266,7 @@ go-back-button =
 
 ## Add-on actions
 
+report-addon-button = Informe
 remove-addon-button = Eliminar
 disable-addon-button = Desactivar
 enable-addon-button = Activar
@@ -305,6 +306,11 @@ addon-detail-updates-radio-on = Activado
 addon-detail-updates-radio-off = Desactivar
 addon-detail-update-check-label = Comprobar si hay actualizaciones
 install-update-button = Actualizar
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Permitida en ventanas privadas
+addon-detail-private-browsing-help = Cuando está activada, la extensión tendrá acceso a todo lo que haces mientras navegas de forma privada. <a data-l10n-name="learn-more">Descubre más</a>
 addon-detail-private-browsing-allow = Permitir
 addon-detail-private-browsing-disallow = No permitir
 available-updates-heading = Actualizaciones disponibles

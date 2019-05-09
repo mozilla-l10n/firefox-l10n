@@ -14,6 +14,7 @@ onboarding-join-form-body = Para empezar, introduzca su dirección de correo.
 onboarding-join-form-email =
     .placeholder = Introducir dirección de correo
 onboarding-join-form-email-error = Una dirección de correo válida es obligatoria
+onboarding-join-form-legal = Si continúas, aceptas los <a data-l10n-name="terms">Términos del servicio</a> y la <a data-l10n-name="privacy">Política de privacidad</a>.
 onboarding-join-form-continue = Continuar
 onboarding-start-browsing-button-label = Empezar a navegar
 
@@ -21,6 +22,7 @@ onboarding-start-browsing-button-label = Empezar a navegar
 ## description.
 
 onboarding-benefit-products-title = Productos útiles
+onboarding-benefit-privacy-title = Privacidad de verdad
 
 ## These strings belong to the individual onboarding messages.
 
@@ -40,6 +42,8 @@ onboarding-ghostery-text = Navegue más rápido, de manera más inteligente o se
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sincronizar
 onboarding-fxa-text = Regístrese para tener una { -fxaccount-brand-name } y sincronice sus marcadores, contraseñas y pestañas abiertas allá donde utilice { -brand-short-name }
+onboarding-tracking-protection-title = Descubre cómo te rastrean y contrólalo
+onboarding-tracking-protection-text = ¿No te gusta que te sigan los anuncios? { -brand-short-name } te permite controlar cómo los anunciantes rastrean tu vida en línea.
 # "Update" is a verb, as in "Update the existing settings", not "Options about
 # updates".
 onboarding-tracking-protection-button =
@@ -47,18 +51,36 @@ onboarding-tracking-protection-button =
         [windows] Actualizar opciones
        *[other] Actualizar preferencias
     }
+onboarding-data-sync-title = Llévate tus ajustes contigo
+# "Sync" is short for synchronize.
+onboarding-data-sync-text = Sincroniza tus marcadores y contraseñas siempre que uses { -brand-product-name }.
+onboarding-data-sync-button = Activar { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Mantente al día sobre las filtraciones de datos
+onboarding-firefox-monitor-text = { -monitor-brand-name } comprueba si tu dirección de correo ha aparecido en una filtración de datos y te avisa si vuelve a aparecer.
 onboarding-firefox-monitor-button = Suscríbase para recibir alertas
 onboarding-browse-privately-title = Navegue de forma privada
+onboarding-browse-privately-text = La navegación privada elimina tu historial de búsquedas y de navegación para que nadie que use tu equipo tenga acceso a ellos.
 onboarding-browse-privately-button = Abrir una ventana privada
+onboarding-firefox-send-text = { -send-brand-name } protege los archivos que compartes con un cifrado de extremo a extremo y un enlace que expira automáticamente.
 onboarding-firefox-send-button = Pruebe { -send-brand-name }
 onboarding-mobile-phone-title = Consiga { -brand-product-name } en su teléfono
 onboarding-mobile-phone-text = Descargue { -brand-product-name } para iOS o Android y sincronice su información en todos los dispositivos.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Descargar navegador móvil
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Send Tabs comparte páginas de forma instantánea entre tus dispositivos sin copiar, pegar ni abandonar el navegador.
+onboarding-send-tabs-button = Empieza a usar Send Tabs
+onboarding-pocket-anywhere-title = Lee y escucha sea donde sea
+# "downtime" refers to the user's free/spare time.
+onboarding-pocket-anywhere-text = { -pocket-brand-name } guarda tus historias favoritas para que puedas leerlas, escucharlas o verlas cuando quieras, incluso sin conexión.
 onboarding-pocket-anywhere-button = Pruebe { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Llévese sus contraseñas consigo a todas partes
+onboarding-lockwise-passwords-text = { -lockwise-brand-name } guarda tus contraseñas en un lugar seguro para que puedas iniciar sesión en tus cuentas de una forma más sencilla.
 onboarding-lockwise-passwords-button = Consiga { -lockwise-brand-name }
+onboarding-facebook-container-title = Establece límites con Facebook
+onboarding-facebook-container-text = { -facebook-container-brand-name } separa tu identidad de Facebook de todo lo demás, dificultando así que pueda rastrearte por la web.
 onboarding-facebook-container-button = Agregar extensión
 
 ## Message strings belonging to the Return to AMO flow
