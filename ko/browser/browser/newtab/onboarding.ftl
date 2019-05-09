@@ -5,10 +5,30 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-learn-more = 더 알아보기
 onboarding-button-label-try-now = 지금 사용해보기
 onboarding-button-label-get-started = 시작하기
 onboarding-welcome-header = { -brand-short-name }를 사용해 주셔서 감사합니다.
+onboarding-join-form-body = 시작하려면 이메일 주소를 입력하십시오.
+onboarding-join-form-email =
+    .placeholder = 이메일 입력
+onboarding-join-form-email-error = 유효한 이메일이 필요합니다
+onboarding-join-form-legal = 계속 진행하면 <a data-l10n-name="terms">서비스 약관</a> 및 <a data-l10n-name="privacy">개인 정보 보호 정책</a>에 동의하게 됩니다.
+onboarding-join-form-continue = 계속
 onboarding-start-browsing-button-label = 브라우징 시작
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-title = 유용한 제품
+onboarding-benefit-knowledge-text = 온라인에서 더 똑똑하고 안전하게 지내기 위해 알아야 할 모든 것을 배웁니다.
+onboarding-benefit-privacy-title = 진정한 개인 정보 보호 정책
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = 우리가 하는 모든 작업은 개인 정보 약속을 존중합니다: 적게 가집니다. 안전하게 보관합니다. 비밀은 없습니다.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -28,6 +48,11 @@ onboarding-ghostery-text = 귀찮은 광고들로부터 여러분을 막아주�
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
 onboarding-fxa-text = { -fxaccount-brand-name }에 가입해 { -brand-short-name }를 사용하는 모든 곳에서 북마크, 비밀번호, 열린 탭들을 동기화하세요.
+onboarding-tracking-protection-title = 추적되는 방법을 제어
+# "Sync" is short for synchronize.
+onboarding-data-sync-text = { -brand-product-name }를 사용하는 모든 곳에서 북마크와 비밀번호를 동기화하십시오.
+onboarding-data-sync-button = { -sync-brand-short-name } 켜기
+onboarding-firefox-monitor-title = 데이터 유출 경보 유지
 
 ## Message strings belonging to the Return to AMO flow
 

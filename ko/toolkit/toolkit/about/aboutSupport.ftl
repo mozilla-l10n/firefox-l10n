@@ -179,6 +179,7 @@ gpu-device-id = 기기 ID
 gpu-subsys-id = 하위시스템 ID
 gpu-drivers = 드라이버
 gpu-ram = RAM
+gpu-driver-vendor = 드라이버 공급 업체
 gpu-driver-version = 드라이버 버전
 gpu-driver-date = 드라이버 날짜
 gpu-active = 활성화
