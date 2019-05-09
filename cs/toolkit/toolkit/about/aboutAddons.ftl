@@ -268,7 +268,7 @@ report-addon-button = Nahlásit
 remove-addon-button = Odebrat
 disable-addon-button = Zakázat
 enable-addon-button = Povolit
-expand-addon-button = Více možností
+expand-addon-button = Další možnosti
 addons-enabled-heading = Povoleno
 addons-disabled-heading = Zakázáno
 ask-to-activate-button = Spustit na vyžádání
@@ -309,7 +309,7 @@ install-update-button = Aktualizovat
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Povoleno v anonymních oknech
-addon-detail-private-browsing-help = Povolená rozšíření mají přístup k vašim online aktivitám i během anonymního prohlížení. <a data-l10n-name="learn-more">Zjistit více</a>
+addon-detail-private-browsing-help = Povolená rozšíření mají přístup k vašim online aktivitám i v anonymních oknech. <a data-l10n-name="learn-more">Zjistit více</a>
 addon-detail-private-browsing-allow = Povolit
 addon-detail-private-browsing-disallow = Nepovolit
 available-updates-heading = Dostupné aktualizace
