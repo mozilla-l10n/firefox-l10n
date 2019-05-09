@@ -51,3 +51,11 @@ cfr-doorhanger-pintab-step2 = เลือก <b>ปักหมุดแท็�
 cfr-doorhanger-pintab-step3 = หากเว็บไซต์มีการเปลี่ยนแปลง คุณจะได้เห็นจุดสีฟ้าบนแท็บที่ถูกปัก
 cfr-doorhanger-pintab-animation-pause = หยุดชั่วคราว
 cfr-doorhanger-pintab-animation-resume = ทำต่อ
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = ซิงค์ที่คั่นหน้าของคุณได้ทุกที่
+cfr-doorhanger-bookmark-fxa-link-text = ซิงค์ที่คั่นหน้าของคุณตอนนี้…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = ปุ่มปิด
+    .title = ปิด
