@@ -87,4 +87,4 @@ connection-dns-over-https-url-custom =
     .label = Vlastní
     .accesskey = n
     .tooltiptext = Zadejte vlastní URL adresu pro DNS přes HTTPS
-connection-dns-over-https-custom-label = Vlastní
+connection-dns-over-https-custom-label = Vlastní URL
