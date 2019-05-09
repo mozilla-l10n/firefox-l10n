@@ -61,3 +61,11 @@ cfr-doorhanger-pintab-step2 = اختر <b>ثبّت اللسان</b> من الق�
 cfr-doorhanger-pintab-step3 = إن حصل شيء في الموقع وطرأ تحديث، سترى نقطة زرقاء في اللسان الذي ثبّته.
 cfr-doorhanger-pintab-animation-pause = ألبِث
 cfr-doorhanger-pintab-animation-resume = استأنف
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = زامِن علاماتك في كل مكان.
+cfr-doorhanger-bookmark-fxa-link-text = زامِن العلامات الآن…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = زر الإغلاق
+    .title = أغلِق
