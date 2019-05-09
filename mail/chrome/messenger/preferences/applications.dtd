@@ -34,5 +34,7 @@
 <!ENTITY authRequired.button.label        "Autorizojeni">
 <!ENTITY authRequired.button.accesskey    "A">
 
+<!ENTITY findCloudFileProviders.label     "Gjeni më tepër furnizues…">
+
 <!ENTITY enableCloudFileAccountOffer.label "Ofroni për ndarje kartela më të mëdha se">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
