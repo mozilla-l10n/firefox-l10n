@@ -5,15 +5,22 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-learn-more = Les meir
 onboarding-button-label-try-now = Prøv han no
 onboarding-button-label-get-started = Kom i gang
 onboarding-welcome-header = Velkomen til { -brand-short-name }
 onboarding-welcome-learn-more = Les meir om fordelane.
+onboarding-join-form-email =
+    .placeholder = Skriv inn e-postadresse
+onboarding-join-form-email-error = Gyldig e-postadresse påkravd
+onboarding-join-form-continue = Fortset
 onboarding-start-browsing-button-label = Start nettlesing
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = Nyttige produkt
+onboarding-benefit-privacy-title = Ekte personvern
 
 ## These strings belong to the individual onboarding messages.
 
@@ -33,7 +40,10 @@ onboarding-ghostery-text = Surf raskare, smartare eller sikrare med utvidingar s
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synkroniser
 onboarding-fxa-text = Registrer deg for eit { -fxaccount-brand-name } og synkroniser bokmerka dine, passord og opne faner overalt der du brukar { -brand-short-name }.
+onboarding-data-sync-title = Ta med deg innstillingane dine
+onboarding-data-sync-button = Slå på { -sync-brand-short-name }
 onboarding-pocket-anywhere-button = Prøv { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Ta med deg passorda overalt
 onboarding-facebook-container-button = Legg til utvidinga
 
 ## Message strings belonging to the Return to AMO flow
