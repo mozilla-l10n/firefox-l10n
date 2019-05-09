@@ -5,10 +5,22 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-learn-more = เรียนรู้เพิ่มเติม
 onboarding-button-label-try-now = ลองเลยตอนนี้
 onboarding-button-label-get-started = เริ่มต้นใช้งาน
 onboarding-welcome-header = ยินดีต้อนรับสู่ { -brand-short-name }
+onboarding-join-form-header = เข้าร่วม { -brand-product-name }
+onboarding-join-form-body = ป้อนที่อยู่อีเมลของคุณเพื่อเริ่มต้นใช้งาน
+onboarding-join-form-email =
+    .placeholder = ป้อนอีเมล
+onboarding-join-form-email-error = ต้องการอีเมลที่ถูกต้อง
+onboarding-join-form-continue = ดำเนินการต่อ
 onboarding-start-browsing-button-label = เริ่มการท่องเว็บ
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-privacy-title = ความเป็นส่วนตัวที่แท้จริง
 
 ## These strings belong to the individual onboarding messages.
 
@@ -28,6 +40,25 @@ onboarding-ghostery-text = ท่องเว็บได้เร็ว ฉล�
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = ซิงค์
 onboarding-fxa-text = ลงทะเบียน { -fxaccount-brand-name } และซิงค์ที่คั่นหน้า, รหัสผ่าน และแท็บที่เปิดอยู่ของคุณในทุกที่ที่คุณใช้ { -brand-short-name }
+# "Update" is a verb, as in "Update the existing settings", not "Options about
+# updates".
+onboarding-tracking-protection-button =
+    { PLATFORM() ->
+        [windows] อัปเดตตัวเลือก
+       *[other] อัปเดตค่ากำหนด
+    }
+onboarding-data-sync-title = นำการตั้งค่าของคุณไปกับคุณ
+onboarding-data-sync-button = เปิด { -sync-brand-short-name }
+onboarding-browse-privately-button = เปิดหน้าต่างส่วนตัว
+onboarding-firefox-send-button = ลอง { -send-brand-name }
+onboarding-mobile-phone-title = รับ { -brand-product-name } ในโทรศัพท์ของคุณ
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = ดาวน์โหลดเบราว์เซอร์สำหรับมือถือ
+onboarding-pocket-anywhere-button = ลอง { -pocket-brand-name }
+onboarding-lockwise-passwords-title = นำรหัสผ่านของคุณไปทุกที่
+onboarding-lockwise-passwords-button = รับ { -lockwise-brand-name }
+onboarding-facebook-container-button = เพิ่มส่วนขยาย
 
 ## Message strings belonging to the Return to AMO flow
 
