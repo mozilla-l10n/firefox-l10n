@@ -206,6 +206,7 @@ gpu-device-id = ID grata
 gpu-subsys-id = Subsys-ID
 gpu-drivers = Ćěrjaki
 gpu-ram = RAM
+gpu-driver-vendor = Zhotowjer ćěrjaka
 gpu-driver-version = Wersija ćěrjaka
 gpu-driver-date = Datum ćěrjaka
 gpu-active = Aktiwny
