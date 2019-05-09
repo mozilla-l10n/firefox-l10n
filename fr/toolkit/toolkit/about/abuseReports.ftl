@@ -5,6 +5,7 @@
 abuse-report-title-extension = Signaler cette extension à { -vendor-short-name }
 abuse-report-title-theme = Signaler ce thème à { -vendor-short-name }
 abuse-report-subtitle = Quel est le problème ?
+abuse-report-submit-description = Décrivez le problème (facultatif)
 
 ## Panel buttons.
 
