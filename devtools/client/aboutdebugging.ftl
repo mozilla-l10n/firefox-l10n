@@ -199,7 +199,7 @@ about-debugging-connection-prompt-enable-button = Activer l’invite de connexio
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = Désactiver l’invite de connexion
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
-about-debugging-profiler-dialog-title = Analyseur de performances
+about-debugging-profiler-dialog-title2 = Profileur
 # Label of a checkbox displayed in the runtime page for "This Firefox".
 # This checkbox will toggle preferences that enable local addon debugging.
 # The "Learn more" link points to MDN.
