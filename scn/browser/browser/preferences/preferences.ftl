@@ -273,26 +273,104 @@ update-history =
     .label = Mustra crunuluggìa aggiurnamenti...
     .accesskey = p
 update-application-allow-description = Pirmetti a { -brand-short-name } di
+update-application-auto =
+    .label = Nstallari aggiurnamenti autumaticamenti (raccumannatu)
+    .accesskey = A
+update-application-check-choose =
+    .label = Cuntrullari si cci su' aggiurnamenti ma fàriti scègghiri di nstallalli
+    .accesskey = C
+update-application-manual =
+    .label = Nun cuntrullari mai si cci su' aggiurnamenti (nun raccumannatu)
+    .accesskey = N
+update-application-warning-cross-user-setting = Sta mpustazziuni s'appreca a tutti li cunti di Windows e li prufili di { -brand-short-name } ca ùsanu sta nstallazziuni di { -brand-short-name }.
+update-application-use-service =
+    .label = Usa un sirbizzu di suttafunnu pi nstallari l'aggiurnamenti
+    .accesskey = b
+update-enable-search-update =
+    .label = Aggiorna autumaticamenti li mutura di ricerca
+    .accesskey = e
+update-pref-write-failure-title = Scrittura falluta
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Mpussìbbili sarbari li prifirenzi. Nun si potti scrìviri nnô plicu: { $path }
 
 ## General Section - Performance
 
-performance-settings-learn-more = Cchiú nfurmazzioni
+performance-title = Pristazziuni
+performance-use-recommended-settings-checkbox =
+    .label = Usa li mpustazziuna di pristazziuni raccumannati
+    .accesskey = U
+performance-use-recommended-settings-desc = Sti mpustazziuna su' fatti apposta pi l'hardware e lu sistema upirativu dû to computer.
+performance-settings-learn-more = Cchiù nfurmazziuna
+performance-allow-hw-accel =
+    .label = Usa l'accillirazziuni hardware quannu dispunìbbili
+    .accesskey = r
+performance-limit-content-process-option = Limiti prucessu cuntinutu
+    .accesskey = l
+performance-limit-content-process-enabled-desc = Li prucessi di cuntinutu addizziunali ponnu migghiurari li pristazziuna quannu si ùsanu assai schedi, ma ùsanu puru assi mimoria.
+performance-limit-content-process-blocked-desc = Canciari lu nùmmaru di prucessi cuntinutu è pussìbbili su cu { -brand-short-name } murtiprucessu. <a data-l10n-name="learn-more">Nzìgnati comu cuntrullari si murtiprucessu è abbilitatu</a>
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (pridifinutu)
 
 ## General Section - Browsing
 
+browsing-title = Navigazziuni
+browsing-use-autoscroll =
+    .label = Usa lu scurrimentu autumàticu
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = Usa lu scurrimentu lisciu
+    .accesskey = m
+browsing-use-onscreen-keyboard =
+    .label = Mustra na tastera tàttili quannu serbi
+    .accesskey = c
+browsing-use-cursor-navigation =
+    .label = Usa sempri li tasti cursura pi navigari nnê pàggini
+    .accesskey = k
+browsing-search-on-start-typing =
+    .label = Cerca testu quannu accuminci a diggitari
+    .accesskey = x
+browsing-cfr-recommendations =
+    .label = Raccumanna stinziuna mentri nàvighi
+    .accesskey = R
+browsing-cfr-features =
+    .label = Raccumanna funziunalità mentri nàvighi
+    .accesskey = f
+browsing-cfr-recommendations-learn-more = Cchiù nfurmazziuna
 
 ## General Section - Proxy
 
-network-proxy-connection-learn-more = Cchiú nfurmazzioni
+network-settings-title = Mpustazziuna riti
+network-proxy-connection-description = Cunfijura comu { -brand-short-name } si cunnetti a internet.
+network-proxy-connection-learn-more = Cchiù nfurmazziuna
 network-proxy-connection-settings =
     .label = Mpustazzioni…
     .accesskey = M
 
 ## Home Section
 
+home-new-windows-tabs-header = Novi finestri e schedi
+home-new-windows-tabs-description2 = Scegghi chiḍḍu chi vidi quannu grapi la pàggina mastra, novi finestri e novi schedi.
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Pàggina mastra e novi finestri
+home-newtabs-mode-label = Novi schedi
+home-restore-defaults =
+    .label = Riprìstina pridifinuti
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Pàggina mastra di Firefox (Pridifinutu)
+home-mode-choice-custom =
+    .label = Pirsunalizza li URL...
+home-mode-choice-blank =
+    .label = Pàggina vacanti
+home-homepage-custom-url =
+    .placeholder = Ncoḍḍa n'URL...
 
 ## Search Section
 
@@ -320,36 +398,41 @@ containers-back-link = « Torna nn'arredi
 
 ## Privacy Section - Site Data
 
-sitedata-learn-more = Cchiú nfurmazzioni
+sitedata-learn-more = Cchiù nfurmazziuna
 
 ## Privacy Section - Address Bar
 
 
 ## Privacy Section - Content Blocking
 
+content-blocking-learn-more = Cchiù nfurmazziuna
 
 ## Privacy Section - Tracking
 
 
 ## Privacy Section - Permissions
 
-permissions-notification-link = Cchiú nfurmazzioni
-permissions-a11y-privacy-link = Cchiú nfurmazzioni
+permissions-notification-link = Cchiù nfurmazziuna
+permissions-a11y-privacy-link = Cchiù nfurmazziuna
 
 ## Privacy Section - Data Collection
 
-collection-health-report-link = Cchiú nfurmazzioni
-collection-backlogged-crash-reports-link = Cchiú nfurmazzioni
+collection-health-report-link = Cchiù nfurmazziuna
+addon-recommendations-link = Cchiù nfurmazziuna
+collection-backlogged-crash-reports-link = Cchiù nfurmazziuna
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
-security-enable-safe-browsing-link = Cchiú nfurmazzioni
+security-enable-safe-browsing-link = Cchiù nfurmazziuna
 
 ## Privacy Section - Certificates
 
+space-alert-learn-more-button =
+    .label = Cchiù nfurmazziuna
+    .accesskey = L
 
 ## The following strings are used in the Download section of settings
 
