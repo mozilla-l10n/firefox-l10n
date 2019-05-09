@@ -21,6 +21,7 @@ policy-Bookmarks = إنشاء العلامات في شريط العلامات أ
 policy-CaptivePortal = تفعيل/تعطيل دعم بوّابات التقييد Captive Portal.
 policy-CertificatesDescription = إضافة الشهادات أو استخدام الشهادات المضمّنة.
 policy-Cookies = السماح للمواقع بضبط الكعكات أو الرفض.
+policy-DefaultDownloadDirectory = ضبط دليل التنزيل المبدئي.
 policy-DisableAppUpdate = منع المتصفح من التحديث.
 policy-DisableBuiltinPDFViewer = تعطيل PDF.js، عارِض ملفات PDF المضمّن في { -brand-short-name }.
 policy-DisableDeveloperTools = منع الوصول إلى أدوات المطوّرين.
@@ -45,6 +46,7 @@ policy-DisplayBookmarksToolbar = عرض شريط أدوات العلامات م�
 policy-DisplayMenuBar = عرض شريط القوائم مبدئيا.
 policy-DNSOverHTTPS = ضبط DNS عبر HTTPS
 policy-DontCheckDefaultBrowser = تعطيل التحقق من كون المتصفح هو المبدئي عند بدئه.
+policy-DownloadDirectory = ضبط وقفل دليل التنزيل.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = تفعيل أو تعطيل حجب المحتوى وقفل الخيار إن لزم.
 # A “locked” extension can’t be disabled or removed by the user. This policy
@@ -52,6 +54,7 @@ policy-EnableTrackingProtection = تفعيل أو تعطيل حجب المحتو
 # English or translate them as verbs.
 policy-Extensions = تثبيت أو إزالة أو قفل حالة الامتدادات. يأخذ خيار التثبيت مسارات محلية أو شبكية كمعطيات. يأخذ خياري الإزالة والقفل معرّفات الامتدادات.
 policy-ExtensionUpdate = تفعيل/تعطيل تحديث الامتدادات تلقائيًا.
+policy-FirefoxHome = ضبط صفحة المنزل لِفَيَرفُكس.
 policy-FlashPlugin = السماح باستخدام ملحقة فلاش أو منع ذلك.
 policy-HardwareAcceleration = إن كان ”خطأ“، عطِّل التسريع العتادي.
 # “lock” means that the user won’t be able to change this setting

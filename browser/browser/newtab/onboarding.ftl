@@ -5,10 +5,24 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-learn-more = اطّلع على المزيد
 onboarding-button-label-try-now = جرّبه الآن
 onboarding-button-label-get-started = فلنبدأ
 onboarding-welcome-header = مرحبًا بك في { -brand-short-name }
+onboarding-welcome-body = وصلك الآن المتصفّح.<br/>اطّلع على بقيّة منتجات { -brand-product-name }.
+onboarding-join-form-header = انضم إلى { -brand-product-name }
+onboarding-join-form-body = أدخِل عنوان البريد الإلكتروني لتبدأ.
+onboarding-join-form-email =
+    .placeholder = أدخِل البريد الإلكتروني
+onboarding-join-form-email-error = مطلوب بريد إلكتروني صالح
+onboarding-join-form-legal = بالمتابعة فأنت توافق على <a data-l10n-name="terms">شروط الخدمة</a> و<a data-l10n-name="privacy">تنويه الخصوصية</a>.
+onboarding-join-form-continue = واصِل
 onboarding-start-browsing-button-label = ابدأ التصفح
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-title = منتجات مفيدة
 
 ## These strings belong to the individual onboarding messages.
 
@@ -28,6 +42,14 @@ onboarding-ghostery-text = تصفّح بشكل أسرع، أو ربما أكثر
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = زامِن
 onboarding-fxa-text = سجّل حساب { -fxaccount-brand-name } وزامن علاماتك وكلمات السر وافتح الألسنة في كل مكان تستخدم { -brand-short-name } فيه.
+onboarding-firefox-send-button = جرّب { -send-brand-name }
+onboarding-mobile-phone-title = نزّل { -brand-product-name } على المحمول
+onboarding-mobile-phone-text = نزّل { -brand-product-name } على آي‌أوإس وأندرويد لتُزامن بياناتك عبر مختلف الأجهزة.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = نزّل متصفّح المحمول
+onboarding-pocket-anywhere-button = جرّب { -pocket-brand-name }
+onboarding-lockwise-passwords-button = نزّل { -lockwise-brand-name }
 
 ## Message strings belonging to the Return to AMO flow
 
