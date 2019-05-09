@@ -341,6 +341,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = امتدادات موصى بها وأنت تتصفّح
     .accesskey = ص
+browsing-cfr-features =
+    .label = مزايا مستحسنة وأنت تتصفّح أرجاء الوِب
+    .accesskey = س
 browsing-cfr-recommendations-learn-more = اطّلع على المزيد
 
 ## General Section - Proxy
