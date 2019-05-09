@@ -6,6 +6,8 @@ abuse-report-title-extension = Signaler cette extension à { -vendor-short-name 
 abuse-report-title-theme = Signaler ce thème à { -vendor-short-name }
 abuse-report-subtitle = Quel est le problème ?
 abuse-report-submit-description = Décrivez le problème (facultatif)
+abuse-report-textarea =
+    .placeholder = Il est plus facile pour nous de résoudre un problème si nous avons connaissance des détails. Veuillez décrire ce que vous avez constaté. Merci de nous aider à garder le Web en bonne santé.
 
 ## Panel buttons.
 

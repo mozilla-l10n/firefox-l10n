@@ -64,7 +64,7 @@ onboarding-browse-privately-button = Ouvrir une fenêtre de navigation privée
 onboarding-firefox-send-title = Protégez les fichiers que vous partagez
 onboarding-firefox-send-text = { -send-brand-name } protège les fichiers que vous partagez avec un chiffrement de bout en bout et un lien qui expire automatiquement.
 onboarding-firefox-send-button = Essayer { -send-brand-name }
-onboarding-mobile-phone-title = Installer { -brand-product-name } sur votre téléphone
+onboarding-mobile-phone-title = Installez { -brand-product-name } sur votre téléphone
 onboarding-mobile-phone-text = Téléchargez { -brand-product-name } pour iOS ou Android et synchronisez vos données entre vos appareils.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
