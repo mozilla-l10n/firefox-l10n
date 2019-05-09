@@ -5,10 +5,27 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-learn-more = Dalše informacije
 onboarding-button-label-try-now = Spytajće nětko
 onboarding-button-label-get-started = Prěnje kroki
 onboarding-welcome-header = Witajće k { -brand-short-name }
+onboarding-welcome-body = Maće wobhladowak.<br/>Zeznajće so ze zbytkom { -brand-product-name }.
+onboarding-welcome-learn-more = Dalše informacije wo lěpšinach.
+onboarding-join-form-header = Přidružće so k { -brand-product-name }
+onboarding-join-form-body = Zapodajće swoju e-mejlowu adresu, zo byšće započał.
+onboarding-join-form-email =
+    .placeholder = E-mejlowu adresu zapodać
+onboarding-join-form-email-error = Płaćiwa e-mejlowa adresa trěbna
+onboarding-join-form-legal = Hdyž pokročujeće, zwoliće do <a data-l10n-name="terms">wužiwanskich wuměnjenjow</a> a <a data-l10n-name="privacy">zdźělenki priwatnosće</a>.
+onboarding-join-form-continue = Dale
 onboarding-start-browsing-button-label = Přehladowanje startować
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-title = Wužitne produkty
+onboarding-benefit-knowledge-title = Praktiska wěda
+onboarding-benefit-privacy-title = Woprawdźita priwatnosć
 
 ## These strings belong to the individual onboarding messages.
 
@@ -28,6 +45,27 @@ onboarding-ghostery-text = Přehladujće spěšnišo, bóle inteligentnje abo w�
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synchronizować
 onboarding-fxa-text = Registrujće so za { -fxaccount-brand-name } a synchronizujće swoje zapołožki, hesła a wočinjene rajtarki, hdźežkuli { -brand-short-name } wužiwaće.
+onboarding-tracking-protection-title = Kontrola nad slědowanjom online
+# "Update" is a verb, as in "Update the existing settings", not "Options about
+# updates".
+onboarding-tracking-protection-button =
+    { PLATFORM() ->
+        [windows] Nastajenja aktualizować
+       *[other] Nastajenja aktualizować
+    }
+onboarding-data-sync-title = Wzmiće swoje nastajenja sobu
+onboarding-data-sync-button = { -sync-brand-short-name } zapinać
+onboarding-browse-privately-title = Přehladowajće z priwatnosću
+onboarding-browse-privately-button = Priwatne wokno wočinić
+onboarding-firefox-send-title = Dźeržće swoje dźělene dataje priwatne
+onboarding-firefox-send-button = { -send-brand-name } wupruwować
+onboarding-mobile-phone-title = Instalujće sej { -brand-product-name } na swojim telefonje
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Mobilny wobhladowak sćahnyć
+onboarding-pocket-anywhere-title = Čitajće a słuchajće wšudźe
+onboarding-pocket-anywhere-button = { -pocket-brand-name } wupruwować
+onboarding-lockwise-passwords-title = Wzmiće swoje hesła wšudźe sobu
 
 ## Message strings belonging to the Return to AMO flow
 
