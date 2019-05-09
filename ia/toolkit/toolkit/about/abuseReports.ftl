@@ -60,3 +60,7 @@ abuse-report-broken-example = Exemplo: le functionalitate es lente, dur a usar, 
 abuse-report-broken-suggestions-extension = Il pare que tu ha identificate un defecto. In addition a inviar un signalation ci, le melior maniera de resolver un problema de functionalitate es de continger le disveloppator del  extension. <a data-l10n-name="support-link">Visita le sito web del extension</a> pro haber informationes del disveloppator.
 abuse-report-broken-suggestions-theme = Il pare que tu ha identificate un defecto. In addition a inviar un signalation ci, le melior maniera de resolver un problema de functionalitate es de continger le disveloppator del  thema. <a data-l10n-name="support-link">Visita le sito web del thema</a> pro haber informationes del disveloppator.
 abuse-report-policy-reason = Contento odiose, violente o illegal
+abuse-report-policy-suggestions = Nota: problemas de derectos de autor e marca de fabrica debe ser signalate in un procedura differente. <a data-l10n-name="report-infringement-link">Usa iste instructiones</a> pro signalar le problema.
+abuse-report-unwanted-reason = Io jammais voleva iste extension e non pote remover illo
+abuse-report-unwanted-example = Exemplo: un application lo ha installate sin mi permisso
+abuse-report-other-reason = Altero
