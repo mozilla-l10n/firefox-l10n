@@ -34,5 +34,7 @@
 <!ENTITY authRequired.button.label        "Dilysu">
 <!ENTITY authRequired.button.accesskey    "D">
 
+<!ENTITY findCloudFileProviders.label     "Canfod rhagor o ddarparwyr…">
+
 <!ENTITY enableCloudFileAccountOffer.label "Cynnig rhannu ffeiliau sy'n fwy na">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
