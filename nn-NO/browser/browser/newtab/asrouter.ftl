@@ -56,4 +56,8 @@ cfr-doorhanger-pintab-animation-resume = Fortset
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-header = Synkroniser bokmerka dine overalt.
 cfr-doorhanger-bookmark-fxa-link-text = Synkroniser bokmerke no…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Lat att-knapp
+    .title = Lat att
