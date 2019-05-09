@@ -24,6 +24,7 @@ onboarding-start-browsing-button-label = Comece a navegar
 ## description.
 
 onboarding-benefit-products-title = Produtos úteis
+onboarding-benefit-products-text = Faça as coisas com uma família de ferramentas que respeita sua privacidade em todos os seus dispositivos.
 onboarding-benefit-knowledge-title = Conhecimento prático
 onboarding-benefit-knowledge-text = Aprenda tudo o que precisa saber para ficar mais esperto e seguro online.
 onboarding-benefit-privacy-title = Privacidade verdadeira
