@@ -57,3 +57,11 @@ cfr-doorhanger-pintab-step2 = Wubjerće <b>Rajtark připjeć</b> z menija.
 cfr-doorhanger-pintab-step3 = Jeli sydło ma aktualizaciju, budźeće módry dypk na swojim připjatym rajtarku widźeć.
 cfr-doorhanger-pintab-animation-pause = Přestawka
 cfr-doorhanger-pintab-animation-resume = Pokročować
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Synchronizujće swoje zapołožki wšudźe.
+cfr-doorhanger-bookmark-fxa-link-text = Synchronizujće nětko zapołožki…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Tłóčatko Začinić
+    .title = Začinić
