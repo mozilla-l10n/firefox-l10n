@@ -211,11 +211,68 @@ choose-language-description = Scegghi la to lingua prifiruta pi mustrari pàggin
 choose-button =
     .label = Scegghi...
     .accesskey = o
+choose-browser-language-description = Scegghi li lingui di usari pi mustrari minù, missaggi e nutìfichi di { -brand-short-name }.
+manage-browser-languages-button =
+    .label = Mposta artirnativi...
+    .accesskey = l
+confirm-browser-language-change-description = Riabbìa { -brand-short-name } p'appricari sti canciamenti
+confirm-browser-language-change-button = Appreca e riabbìa
+translate-web-pages =
+    .label = Traduci cuntinutu 'n riti
+    .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Traduzziuna di <img data-l10n-name="logo"/>
+translate-exceptions =
+    .label = Ccizziuna
+    .accesskey = x
+check-user-spelling =
+    .label = Cuntrolla l'ortugrafìa mentri dìggiti
+    .accesskey = t
 
 ## General Section - Files and Applications
 
-play-drm-content-learn-more = Cchiú nfurmazzioni
-update-application-version = Versioni { $version } <a data-l10n-name="learn-more">Cchiú nfurmazzioni</a>
+files-and-applications-title = Plichi e applicazziuna
+download-header = Scarricamenti
+download-save-to =
+    .label = Sarba plichi nne
+    .accesskey = v
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Scegghi...
+           *[other] Cerca
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] o
+        }
+download-always-ask-where =
+    .label = Addumanna sempri unni sarbari li plichi
+    .accesskey = A
+applications-header = Appricazziuna
+applications-description = Scegghi comu { -brand-short-name } tratta li plichi ca scàrrichi dâ Riti o l'applicazziuna ca usi mentri nàvighi.
+applications-filter =
+    .placeholder = Cerca tipi di plichi o appricazziuna
+applications-type-column =
+    .label = Tipu di cuntinutu
+    .accesskey = T
+applications-action-column =
+    .label = Azziuna
+    .accesskey = A
+drm-content-header = Cuntinutu di gistiuni diritta diggitali (GDD)
+play-drm-content =
+    .label = Ripruduci cuntinutu cuntrullatu di GDD
+    .accesskey = P
+play-drm-content-learn-more = Cchiù nfurmazziuna
+update-application-title = Aggiurnamenti { -brand-short-name }
+update-application-description = Teni { -brand-short-name } aggiurnatu p'aviri megghiu pristazziuna, stabbilità e sicurizza.
+update-application-version = Virsiuni { $version } <a data-l10n-name="learn-more">Quali su' li nuvità</a>
+update-history =
+    .label = Mustra crunuluggìa aggiurnamenti...
+    .accesskey = p
+update-application-allow-description = Pirmetti a { -brand-short-name } di
 
 ## General Section - Performance
 
