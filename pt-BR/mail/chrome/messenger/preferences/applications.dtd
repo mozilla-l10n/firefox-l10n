@@ -34,5 +34,7 @@
 <!ENTITY authRequired.button.label        "Autorizar">
 <!ENTITY authRequired.button.accesskey    "u">
 
+<!ENTITY findCloudFileProviders.label     "Procurar mais provedores…">
+
 <!ENTITY enableCloudFileAccountOffer.label "Oferecer compartilhamento para arquivos maiores que">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
