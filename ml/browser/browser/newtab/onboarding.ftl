@@ -5,10 +5,26 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-learn-more = കൂടുതല്‍ അറിയുക
 onboarding-button-label-try-now = ഇപ്പോൾ ശ്രമിക്കുക
 onboarding-button-label-get-started = ആരംഭിക്കുക
 onboarding-welcome-header = { -brand-short-name } ലേക്ക് സ്വാഗതം
+onboarding-welcome-learn-more = ആനുകൂല്യങ്ങളെക്കുറിച്ച് കൂടുതൽ അറിയുക.
+onboarding-join-form-header = { -brand-product-name } ൽ ചേരുക
+onboarding-join-form-body = തുടങ്ങാന്‍ നിങ്ങളുടെ ഈമെയില്‍ വിലാസം ഇവിടെ നല്‍കുക.
+onboarding-join-form-email =
+    .placeholder = ഇമെയിൽ നൽകുക
+onboarding-join-form-email-error = സാധുവായ ഇമെയിൽ ആവശ്യമാണ്
+onboarding-join-form-legal = തുടരുന്നതിലൂടെ നിങ്ങൾ <a data-l10n-name="terms"> സേവന നിബന്ധനകളും </a> <a data-l10n-name="privacy"> സ്വകാര്യത അറിയിപ്പും </a> അംഗീകരിക്കുന്നു.
+onboarding-join-form-continue = തുടരുക
 onboarding-start-browsing-button-label = ബ്രൗസിംഗ് ആരംഭിക്കുക
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-title = ഉപയോഗപ്രദമായ ഉൽപ്പന്നങ്ങൾ
+onboarding-benefit-knowledge-title = പ്രായോഗിക അറിവ്
+onboarding-benefit-privacy-title = യഥാർത്ഥ സ്വകാര്യത
 
 ## These strings belong to the individual onboarding messages.
 
@@ -27,6 +43,28 @@ onboarding-ghostery-title = ഗോസ്റ്ററി
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = സമന്വയം
 onboarding-fxa-text = { -fxaccount-brand-name } എന്നതിനായി സൈൻ അപ്പ് ചെയ്യുക, ഒപ്പം നിങ്ങളുടെ ബുക്ക്മാർക്കുകൾ, രഹസ്യവാക്കുകള്‍, തുറന്ന ടാബുകൾ എന്നിവ { -brand-short-name } ഉപയോഗിച്ച് നിങ്ങൾ എല്ലായിടത്തും സമന്വയിപ്പിക്കുക.
+onboarding-tracking-protection-title = നിങ്ങൾ എങ്ങനെ ട്രാക്കുചെയ്യുന്നുവെന്നത് നിയന്ത്രിക്കുക
+# "Update" is a verb, as in "Update the existing settings", not "Options about
+# updates".
+onboarding-tracking-protection-button =
+    { PLATFORM() ->
+        [windows] ഐച്ഛികങ്ങൾ പുതുക്കുക
+       *[other] വിശേഷതകള്‍ പുതുക്കുക
+    }
+onboarding-data-sync-title = നിങ്ങളുടെ ക്രമീകരണം കൂടെ കൊണ്ട് പോകൂ
+onboarding-data-sync-button = { -sync-brand-short-name } ഓണാക്കുക
+onboarding-firefox-monitor-title = വിവരചോരണങ്ങളെക്കുറിച്ചു് അറിയിപ്പുകള്‍ നേടുക
+onboarding-firefox-monitor-button = അലേർട്ടുകൾക്കായി സൈൻ അപ്പ് ചെയ്യുക
+onboarding-browse-privately-title = സ്വകാര്യമായി ബ്രൌസ് ചെയ്യുക
+onboarding-browse-privately-button = പുതിയ സ്വകാര്യ ജാലകത്തില്‍ തുറക്കുക
+onboarding-firefox-send-title = നിങ്ങള്‍ പങ്കിട്ട ഫയലുകൾ സ്വകാര്യമായി സൂക്ഷിക്കുക
+onboarding-firefox-send-button = { -send-brand-name } പരീക്ഷിച്ചുനോക്കൂ
+onboarding-mobile-phone-title = നിങ്ങളുടെ ഫോണിൽ { -brand-product-name } നേടുക
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = മൊബൈൽ ബ്രൗസർ ഡൗൺലോഡുചെയ്യുക
+onboarding-send-tabs-title = ടാബുകൾ തൽക്ഷണം അയയ്ക്കുക
+onboarding-pocket-anywhere-button = { -pocket-brand-name } പരീക്ഷിക്കുക
 
 ## Message strings belonging to the Return to AMO flow
 
