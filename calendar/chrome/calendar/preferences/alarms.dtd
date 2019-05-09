@@ -12,13 +12,14 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "L">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Përdor tingullin parazgjedhje">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "P">
+<!ENTITY pref.calendar.alarms.sound.useCustom.label "Përdor kartelën vijuese të tingullit">
+<!ENTITY pref.calendar.alarms.sound.useCustom.accessKey "P">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Shfletoni…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "f">
 <!ENTITY pref.calendar.alarms.sound.play.label "Luaje">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "L">
 <!ENTITY pref.showalarmbox "Shfaq një kuti alarmi">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "k">
-<!ENTITY pref.missedalarms "Shfaq alarme të humbur">
 <!ENTITY pref.missedalarms2 "Shfaq kujtues të humbur për kalendarë të shkrueshëm">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "h">
 <!ENTITY pref.calendar.alarms.defaults.label "Parazgjedhje Alarmi">
