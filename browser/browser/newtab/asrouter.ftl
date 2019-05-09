@@ -47,5 +47,11 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = നിങ്ങൾ പിൻ ചെയ്യാൻ ആഗ്രഹിക്കുന്ന ടാബിൽ <b>റൈറ്റ് ക്ലിക്ക് ചെയ്യുക</b>.
 cfr-doorhanger-pintab-animation-pause = താൽക്കാലികമായി നിർത്തുക
 cfr-doorhanger-pintab-animation-resume = തുടരുക
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = എല്ലായിടത്തും നിങ്ങളുടെ അടയാളകുറിപ്പുകള്‍ സമന്വയിപ്പിക്കുക
+cfr-doorhanger-bookmark-fxa-link-text = അടയാളകുറിപ്പുകള്‍ ഇപ്പോൾ സമന്വയിപ്പിക്കുക…
