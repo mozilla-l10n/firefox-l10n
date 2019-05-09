@@ -140,14 +140,77 @@ startup-restore-previous-session =
     .label = Riprìstina la sissiuni pricidenti
     .accesskey = s
 startup-restore-warn-on-quit =
-    .label = T'abbisa quannu nesci dû navigaturi
+    .label = Abbìsami niscennu dû navigaturi
 disable-extension =
     .label = Disabbìlita stinziuni
 tabs-group-header = Schedi
-browser-containers-learn-more = Cchiú nfurmazzioni
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab scurri li schedi nna l'ùrdini usati ricentimenti
+    .accesskey = T
+open-new-link-as-tabs =
+    .label = Grapi li lijami nnê schedi mmeci ca nna novi finestri
+    .accesskey = w
+warn-on-close-multiple-tabs =
+    .label = Abbìsami chijennu cchiù assai di na scheda
+    .accesskey = m
+warn-on-open-many-tabs =
+    .label = Abbìsami quannu gràpiri cchiù schedi po rallintari { -brand-short-name }
+    .accesskey = d
+switch-links-to-new-tabs =
+    .label = Quannu grapi un lijami nna na scheda nova, passa sùbbitu a chiḍḍa
+    .accesskey = h
+show-tabs-in-taskbar =
+    .label = Mustra antiprima dâ scheda nnâ barra di l'appricazziuna dî finestri
+    .accesskey = k
+browser-containers-enabled =
+    .label = Abbìlita schedi cuntinituri
+    .accesskey = n
+browser-containers-learn-more = Cchiù nfurmazziuna
+browser-containers-settings =
+    .label = Mpustazziuna...
+    .accesskey = i
+containers-disable-alert-title = Vo' chiùjiri tutti li schedi cuntinituri?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Si disabbìliti li schedi cuntinituri ora, { $tabCount } scheda cuntinituri veni chiusa. Sì sicuru ca vo' disabbilitari li schedi cuntinituri?
+       *[other] Si disabbìliti li schedi cuntinituri ora, { $tabCount } schedi cuntinituri vennu chiusi. Sì sicuru ca vo' disabbilitari li schedi cuntinituri?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Chiuji { $tabCount } scheda cuntinituri
+       *[other] Chiuji { $tabCount } schedi cuntinituri
+    }
+containers-disable-alert-cancel-button = Teni abbilitatu
+containers-remove-alert-title = Livari stu cuntinituri?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Si levi stu cuntinituri ora, { $count } scheda cuntinituri veni chiusu. Sì sicuru ca vo' livari stu cuntinituri?
+       *[other] Si levi stu cuntinituri ora, { $count } schedi cuntinituri vennu chiusi. Sì sicuru ca vo' livari stu cuntinituri?
+    }
+containers-remove-ok-button = Leva stu cuntinituri
+containers-remove-cancel-button = Nun livari stu cuntinituri
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Lingua e aspettu
+fonts-and-colors-header = Caràttiri e culura
+default-font = Caràttiri pridifinutu
+    .accesskey = D
+default-font-size = Diminziuni
+    .accesskey = S
+advanced-fonts =
+    .label = Avanzatu..
+    .accesskey = A
+colors-settings =
+    .label = Culura...
+    .accesskey = C
+language-header = Lingua
+choose-language-description = Scegghi la to lingua prifiruta pi mustrari pàggini
+choose-button =
+    .label = Scegghi...
+    .accesskey = o
 
 ## General Section - Files and Applications
 
