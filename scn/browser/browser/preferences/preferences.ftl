@@ -473,15 +473,112 @@ sync-manage-account = Gistisci cuntu
     .accesskey = o
 sync-signedin-unverified = { $email } nun è virificata.
 sync-signedin-login-failure = Trasi pi ricunnèttiri { $email }
+sync-resend-verification =
+    .label = Rimanna virìfica
+    .accesskey = d
+sync-remove-account =
+    .label = Leva cuntu
+    .accesskey = R
+sync-sign-in =
+    .label = Trasi
+    .accesskey = g
+sync-signedin-settings-header = Mpustazziuna di sincrunizzazziuni
+sync-signedin-settings-desc = Scigghi chi vo' sincrunizzari nnê to dispusitivi usannu { -brand-short-name }
+sync-engine-bookmarks =
+    .label = Nzingalibbra
+    .accesskey = m
+sync-engine-history =
+    .label = Crunuluggìa
+    .accesskey = r
+sync-engine-tabs =
+    .label = Schedi graputi
+    .tooltiptext = Na lista di zoccu cc'è graputu nna tutti li to dispusitivi sincrunizzati
+    .accesskey = t
+sync-engine-logins =
+    .label = Accessi
+    .tooltiptext = Noma utenti e palori d'accessu ca sarbasti
+    .accesskey = L
+sync-engine-addresses =
+    .label = Nnirizzi
+    .tooltiptext = Nnirizzi pustali ca sarbasti (sulu virsiuni scrivanìa)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Carti di crèditu
+    .tooltiptext = Nomu, nùmmari e dati di scadenza (sulu virsiuni scrivanìa)
+    .accesskey = C
+sync-engine-addons =
+    .label = Agghiuncitini
+    .tooltiptext = Stinziuna e temi pi Firefox nnâ virsiuni scrivanìa
+    .accesskey = A
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Uzziuna
+           *[other] Prifirenzi
+        }
+    .tooltiptext = Mpustazziuna ginirali, di privatizza e di sicurizza ca canciasti
+    .accesskey = s
+sync-device-name-header = Nomu dû dispusitivu
+sync-device-name-change =
+    .label = Cancia lu nomu dû dispusitivu...
+    .accesskey = h
+sync-device-name-cancel =
+    .label = Annulla
+    .accesskey = n
+sync-device-name-save =
+    .label = Sarba
+    .accesskey = v
+sync-mobilepromo-single = Cunnetti n'autru dispusitivu
+sync-mobilepromo-multi = Gistisci dispusitivi
+sync-connect-another-device = Cunnetti n'autru dispusitivu
+sync-manage-devices = Gistisci dispusitivi
+sync-fxa-begin-pairing = Accucchia un dispusitivu
+sync-tos-link = Tèrmini di sirbizzu
+sync-fxa-privacy-notice = Abbisu di privatizza
 
 ## Privacy Section
 
+privacy-header = Privatizza navigaturi
 
 ## Privacy Section - Forms
 
+logins-header = Accessi e palori d'accessu
+forms-ask-to-save-logins =
+    .label = Spia di sarbari l'accessi e li palori d'accessu pî siti
+    .accesskey = r
+forms-exceptions =
+    .label = Ccizziuna...
+    .accesskey = x
+forms-saved-logins =
+    .label = Accessi sarbati...
+    .accesskey = L
+forms-master-pw-use =
+    .label = Usa na palora d'accessu d'amministraturi
+    .accesskey = U
+forms-master-pw-change =
+    .label = Cancia palora d'accessu amministraturi...
+    .accesskey = M
 
 ## Privacy Section - History
 
+history-header = Crunuluggìa
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name } po
+    .accesskey = p
+history-remember-option-all =
+    .label = Ricorda la crunuluggìa
+history-remember-option-never =
+    .label = Nun ricurdari mai la crunuluggìa
+history-remember-option-custom =
+    .label = Usa mpustazziuna pirsunalizzati pâ crunuluggìa
 
 ## Privacy Section - Site Data
 
