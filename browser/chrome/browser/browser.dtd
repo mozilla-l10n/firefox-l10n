@@ -1111,17 +1111,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.message "Cập nhật &brandShorterName; bản mới nhất để cải thiện tốc độ và bảo mật.">
 <!ENTITY updateAvailable.whatsnew.label "Xem có gì mới.">
 <!ENTITY updateAvailable.header.message "Một bản cập nhật &brandShorterName; mới đã sẵn sàng.">
-<!ENTITY updateAvailable.acceptButton.label "Tải bản cập nhật">
+<!ENTITY updateAvailable.acceptButton.label "Tải xuống bản cập nhật">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "Không phải bây giờ">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
 
-<!ENTITY updateAvailable.panelUI.label "Tải bản cập nhật &brandShorterName;">
+<!ENTITY updateAvailable.panelUI.label "Tải xuống bản cập nhật &brandShorterName;">
 
 <!ENTITY updateManual.message "Tải xuống bản sao của &brandShorterName; và chúng tôi sẽ giúp bạn cài đặt nó.">
 <!ENTITY updateManual.whatsnew.label "Xem có gì mới.">
 <!ENTITY updateManual.header.message "&brandShorterName; không thể cập nhật lên phiên bản mới nhất.">
-<!ENTITY updateManual.acceptButton.label "Tải &brandShorterName;">
+<!ENTITY updateManual.acceptButton.label "Tải xuống &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "D">
 <!ENTITY updateManual.cancelButton.label "Không phải bây giờ">
 <!ENTITY updateManual.cancelButton.accesskey "N">
