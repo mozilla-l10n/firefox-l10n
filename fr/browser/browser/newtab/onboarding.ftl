@@ -53,6 +53,7 @@ onboarding-tracking-protection-button =
         [windows] Modifier les options
        *[other] Modifier les préférences
     }
+onboarding-tracking-protection-title2 = Protection contre le pistage
 onboarding-data-sync-title = Emportez vos paramètres avec vous
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = Synchronisez vos marque-pages et vos mots de passe partout où vous utilisez { -brand-product-name }.
