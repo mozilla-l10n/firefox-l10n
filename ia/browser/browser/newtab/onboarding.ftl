@@ -62,6 +62,7 @@ onboarding-tracking-protection-button =
         [windows] Actualisar optiones
        *[other] Actualisar preferentias
     }
+onboarding-tracking-protection-title2 = Protection contra le traciamento
 onboarding-data-sync-title = Prende tu parametros con te
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = Synchronisa tu marcapaginas e contrasignos ubique tu usa { -brand-product-name }.
@@ -92,6 +93,7 @@ onboarding-pocket-anywhere-button = Prova { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Porta ubique con te tu contrasignos
 onboarding-lockwise-passwords-text = { -lockwise-brand-name } salva tu contrasignos in un loco secur assi que tu pote facilemente accede a tu contos.
 onboarding-lockwise-passwords-button = Discarga { -lockwise-brand-name }
+onboarding-lockwise-passwords-button2 = Discarga le app
 onboarding-facebook-container-title = Defini limites pro Facebook
 onboarding-facebook-container-text = { -facebook-container-brand-name } mantene tu identitate de Facebook separate de toto le altero, rendente plus dur traciar te ab le altere latere del Web.
 onboarding-facebook-container-button = Adder le extension

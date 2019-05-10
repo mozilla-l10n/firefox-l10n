@@ -158,6 +158,9 @@ private-browsing-description2 = { -brand-short-name } es cambiar como le extensi
 extensions-view-discover =
     .name = Obtener additivos
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Recommendationes
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Actualisationes recente
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -263,6 +266,20 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Monstrar minus
 go-back-button =
     .tooltiptext = Regreder
+
+## Recommended add-ons page
+
+discopane-notice-learn-more = Saper plus
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Usatores: { $dailyUsers }
+install-extension-button = Adder a { -brand-product-name }
+install-theme-button = Installar thema
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Gerer
+find-more-addons = Trovar altere additivos
 
 ## Add-on actions
 
