@@ -744,7 +744,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_start_title2 "Bản cập nhật cho &brandShortName; đã sẵn sàng">
 <!ENTITY updater_start_select2 "Chạm để tải xuống">
 
-<!ENTITY updater_downloading_title2 "Đang tải &brandShortName;">
+<!ENTITY updater_downloading_title2 "Đang tải xuống &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Tải xuống bị lỗi">
 <!ENTITY updater_downloading_select2 "Chạm để áp dụng cập nhật khi tải xong">
 <!ENTITY updater_downloading_retry2 "Chạm để thử lại">

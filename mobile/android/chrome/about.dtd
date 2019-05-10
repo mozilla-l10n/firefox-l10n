@@ -6,7 +6,7 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Kiểm tra cập nhật »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Đang tìm các cập nhật…">
 <!ENTITY aboutPage.checkForUpdates.none         "Không có cập nhật">
-<!ENTITY aboutPage.checkForUpdates.available2   "Tải cập nhật xuống">
+<!ENTITY aboutPage.checkForUpdates.available2   "Tải xuống bản cập nhật">
 <!ENTITY aboutPage.checkForUpdates.downloading  "Đang tải cập nhật xuống…">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "Cài đặt cập nhật">
 <!ENTITY aboutPage.faq.label                    "Câu hỏi thường gặp">
