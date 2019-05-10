@@ -5,10 +5,25 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-learn-more = Ďalšie informácie
 onboarding-button-label-try-now = Vyskúšajte to
 onboarding-button-label-get-started = Začíname
 onboarding-welcome-header = Víta vás { -brand-short-name }
+onboarding-welcome-body = Prehliadač už máte.<br/>Spoznajte ešte zvyšok aplikácie { -brand-product-name }.
+onboarding-welcome-learn-more = Ďalšie výhody.
+onboarding-join-form-email =
+    .placeholder = Zadajte e-mailovú adresu
+onboarding-join-form-email-error = Vyžaduje sa platná e-mailová adresa
+onboarding-join-form-legal = Pokračovaním vyjadrujete súhlas s <a data-l10n-name="terms">podmienkami používania služby</a> a so <a data-l10n-name="privacy">zásadami ochrany súkromia</a>.
+onboarding-join-form-continue = Pokračovať
 onboarding-start-browsing-button-label = Začať prehliadať
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-title = Užitočné produkty
+onboarding-benefit-knowledge-title = Praktické informácie
+onboarding-benefit-privacy-title = Skutočné súkromie
 
 ## These strings belong to the individual onboarding messages.
 
@@ -28,6 +43,9 @@ onboarding-ghostery-text = Prehliadajte rýchlejšie, inteligentnejšie a bezpe�
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synchronizácia
 onboarding-fxa-text = Prihláste sa ku svojmu účtu Firefox a synchronizujte svoje záložky, heslá a otvorené karty kdekoľvek používate aplikáciu { -brand-short-name }.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Prevziať mobilný prehliadač
 
 ## Message strings belonging to the Return to AMO flow
 
