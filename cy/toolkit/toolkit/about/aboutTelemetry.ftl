@@ -15,6 +15,7 @@ about-telemetry-option-group-older = Hŷn
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Data Telemetreg
+about-telemetry-current-store = Storfa Gyfredol:
 about-telemetry-more-information = Chwilio am ragor o wybodaeth?
 about-telemetry-firefox-data-doc = Mae'r <a data-l10n-name="data-doc-link">Firefox Data Documentation</a> yn cynnwys canllawiau ar sut i weithio gyda'n offer data.
 about-telemetry-telemetry-client-doc = Mae <a data-l10n-name="client-doc-link">dogfennaeth cleient Firefox Telemetry</a> yn cynnwys diffiniadau o gysyniadau, dogfennaeth API a chyfeiriadau data.

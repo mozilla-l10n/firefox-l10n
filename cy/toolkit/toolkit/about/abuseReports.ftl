@@ -34,6 +34,7 @@ abuse-report-submit-button = Cyflwyno
 abuse-report-messagebar-aborted = Diddymwyd yr adroddiad ar gyfer <span data-l10n-name="addon-name">{ $addon-name }</span>>.
 abuse-report-messagebar-submitting = Anfon adroddiad ar gyfer <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Diolch i chi am gyflwyno adroddiad. Ydych chi am gael gwared ar <span data-l10n-name="addon-name">{ $addon-name }</span>?
+abuse-report-messagebar-submitted-noremove = Diolch am gyflwyno adroddiad.
 abuse-report-messagebar-removed-extension = Diolch i chi am gyflwyno adroddiad. Rydych wedi tynnu'r estyniad <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = Diolch i chi am gyflwyno adroddiad. Rydych chi wedi tynnu'r thema <span data-l10n-name="addon-name">{ $addon-name }</span>
 abuse-report-messagebar-error = Roedd gwall wrth anfon yr adroddiad ar gyfer <span data-l10n-name="addon-name">{ $addon-name }</span>.
@@ -41,8 +42,10 @@ abuse-report-messagebar-error-recent-submit = Nid yw'r adroddiad ar gyfer <span 
 
 ## Message bars actions.
 
-abuse-report-messagebar-action-remove = Iawn, Ei Dynnu
-abuse-report-messagebar-action-keep = Na, Rwyf am ei Gadw
+abuse-report-messagebar-action-remove-extension = Iawn, Dileu
+abuse-report-messagebar-action-keep-extension = Na, rwyf am ei gadw
+abuse-report-messagebar-action-remove-theme = Iawn, Dileu
+abuse-report-messagebar-action-keep-theme = Na, rwyf am ei gadw
 abuse-report-messagebar-action-retry = Ceisio eto
 abuse-report-messagebar-action-cancel = Diddymu
 
