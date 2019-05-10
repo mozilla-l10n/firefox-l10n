@@ -155,6 +155,9 @@ private-browsing-description2 =
 extensions-view-discover =
     .name = Estyn Ychwanegion
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Argymhellion
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Diweddariadau Diweddar
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -264,6 +267,32 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Dangos Llai
 go-back-button =
     .tooltiptext = Mynd nôl
+
+## Recommended add-ons page
+
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Mae estyniadau a themâu yn debyg i apiau ar gyfer eich porwr, ac maen nhw'n gadael i chi
+    diogelu cyfrineiriau, llwytho fideos i lawr, dod o hyd i gytundebau, rhwystro hysbysebion blin, newid
+    golwg eich porwr a llawer mwy. Mae'r rhaglenni meddalwedd bach hyn fel arfer yn cael eu datblygu gan drydydd parti. Dyma detholiad y mae { -brand-product-name }<a data-l10n-name="learn-more-trigger">
+    yn eu hargymell </a> am ddiogelwch, perfformiad, a swyddogaethau gwell.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Mae rhai o'r argymhellion hyn wedi'u personoli. Maen nhw'n seiliedig ar 
+    estyniadau eraill rydych chi wedi'u gosod, eich proffil dewisiadau, a'ch ystadegau defnydd.
+discopane-notice-learn-more = Dysgu rhagor
+privacy-policy = Polisi Preifatrwydd
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = gan <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Defnyddwyr: { $dailyUsers }
+install-extension-button = Ychwanegu at { -brand-product-name }
+install-theme-button = Gosod Thema
 
 ## Add-on actions
 
