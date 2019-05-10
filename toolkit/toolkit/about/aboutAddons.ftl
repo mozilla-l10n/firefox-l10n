@@ -157,6 +157,9 @@ private-browsing-description2 =
 extensions-view-discover =
     .name = Přidatki wobstarać
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Doporučenja
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Nowe aktualizacije
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -265,6 +268,25 @@ shortcuts-card-collapse-button = Mjenje pokazać
 go-back-button =
     .tooltiptext = Wróćo hić
 
+## Recommended add-ons page
+
+discopane-notice-learn-more = Dalše informacije
+privacy-policy = Prawidła priwatnosće
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = wot <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Wužiwarjo: { $dailyUsers }
+install-extension-button = { -brand-product-name } přidać
+install-theme-button = Drastu instalować
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Rjadować
+find-more-addons = Wobhladajće sej dalše přidatki
+
 ## Add-on actions
 
 report-addon-button = Zdźělić
@@ -282,6 +304,11 @@ addon-detail-version-label = Wersija
 addon-detail-last-updated-label = Posledni raz zaktualizowany
 addon-detail-homepage-label = Startowa strona
 addon-detail-rating-label = Pohódnoćenje
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Pohódnoćeny z { NUMBER($rating, maximumFractionDigits: 1) } z 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
