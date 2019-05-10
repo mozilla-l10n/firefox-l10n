@@ -69,6 +69,8 @@ onboarding-data-sync-title = 将您的设置随身带着走
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = 在任何使用 { -brand-product-name } 的地方同步书签与密码。
 onboarding-data-sync-button = 开启{ -sync-brand-short-name }
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = 在任何使用 { -brand-product-name } 的地方同步书签、密码等数据。
 onboarding-data-sync-button2 = 登录{ -sync-brand-short-name }
 onboarding-firefox-monitor-title = 警惕数据外泄
 onboarding-firefox-monitor-text = { -monitor-brand-name } 会监控您的电子邮件地址是否出现在数据外泄事件中，并在有新外泄事件时通知您。
@@ -78,6 +80,7 @@ onboarding-browse-privately-text = 隐私浏览会自动清除您的搜索与上
 onboarding-browse-privately-button = 打开隐私窗口
 onboarding-firefox-send-title = 以私密的方式分享文件
 onboarding-firefox-send-text = { -send-brand-name } 通过端到端加密与链接到期即焚，保护您要分享的文件。
+onboarding-firefox-send-text2 = 上传您的文件到 { -send-brand-name }，即可通过端到端加密与链接到期即焚来进行分享。
 onboarding-firefox-send-button = 试用 { -send-brand-name }
 onboarding-mobile-phone-title = 获取手机版 { -brand-product-name }
 onboarding-mobile-phone-text = 下载适用于 iOS 或 Android 的 { -brand-product-name }，即可跨设备同步数据。
@@ -92,10 +95,12 @@ onboarding-send-tabs-button = 开始使用 Send Tabs
 onboarding-pocket-anywhere-title = 随时随地阅读和聆听
 # "downtime" refers to the user's free/spare time.
 onboarding-pocket-anywhere-text = { -pocket-brand-name } 可保存您喜爱的故事，以便您闲暇时阅读、聆听和观看，离线亦不在话下。
+onboarding-pocket-anywhere-text2 = 可使用 { -pocket-brand-name } 应用离线保存您喜爱的故事，以便您闲暇时阅读、聆听和观看。
 onboarding-pocket-anywhere-button = 试用 { -pocket-brand-name }
 onboarding-lockwise-passwords-title = 将您的密码随身带着走
 onboarding-lockwise-passwords-text = { -lockwise-brand-name } 会将您的密码保存在安全的地方，让您可轻松登录账号。
 onboarding-lockwise-passwords-button = 获取 { -lockwise-brand-name }
+onboarding-lockwise-passwords-text2 = { -lockwise-brand-name } 会安全地保存您的密码，让您可轻松在各个网站上登录账号。
 onboarding-lockwise-passwords-button2 = 获取应用
 onboarding-facebook-container-title = 为 Facebook 设置边界
 onboarding-facebook-container-text = { -facebook-container-brand-name } 可将您的 Facebook 身份与其他网站隔离，使 Facebook 难以跟踪您在网络上的一举一动。
