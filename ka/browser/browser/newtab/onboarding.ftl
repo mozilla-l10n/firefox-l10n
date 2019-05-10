@@ -62,10 +62,16 @@ onboarding-tracking-protection-button =
         [windows] პარამეტრების შეცვლა
        *[other] პარამეტრების შეცვლა
     }
+onboarding-tracking-protection-title2 = თვალთვალისგან დაცვა
+onboarding-tracking-protection-text2 = { -brand-short-name } გეხმარებათ აუკრძალოთ საიტებს, თქვენი თვალთვალი ინტერნეტში, რაც გაურთულებს რეკლამებს შესაძლებლობას, თვალი გადევნონ ვებსივრცეში.
+onboarding-tracking-protection-button2 = როგორ მუშაობს
 onboarding-data-sync-title = წაიყოლეთ თქვენი პარამეტრები თან
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = დაასინქრონეთ თქვენი სანიშნები და პაროლები ყველგან, სადაც გიყენიათ { -brand-product-name }.
 onboarding-data-sync-button = ჩართეთ { -sync-brand-short-name }
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = დაასინქრონეთ თქვენი სანიშნები, პაროლები და სხვა მონაცემები ყველგან, სადაც გიყენიათ { -brand-product-name }.
+onboarding-data-sync-button2 = გამოიყენეთ { -sync-brand-short-name }
 onboarding-firefox-monitor-title = შეიტყვეთ, მონაცემების მიტაცების შესახებ
 onboarding-firefox-monitor-text = { -monitor-brand-name } მუდმივად გადაამოწმებს, არის თუ არა თქვენი ელფოსტა მიტაცებულ მონაცემებს შორის და გაცნობებთ აღმოჩენის შემთხვევაში.
 onboarding-firefox-monitor-button = გამოიწერეთ ცნობების მისაღებად
@@ -73,7 +79,8 @@ onboarding-browse-privately-title = მოინახულეთ გვერ�
 onboarding-browse-privately-text = პირადი თვალიერების რეჟიმი ასუფთავებს თქვენ მიერ მოძიებულ და მონახულებულ გვერდებს და არ უმხელს მათ შესახებ, თქვენი კომპიუტერის სხვა მომხმარებლებს
 onboarding-browse-privately-button = პირადი ფანჯრის გახსნა
 onboarding-firefox-send-title = დატოვეთ გაზიარებული ფაილები საიდუმლოდ
-onboarding-firefox-send-text = { -send-brand-name } იცავს თქვენ მიერ გაზიარებულ ფაილებს გამჭოლი დაშიფვრით და ბმული თავისით უქმდება, ვადის ამოწურვისას.
+onboarding-firefox-send-text = { -send-brand-name } იცავს თქვენ მიერ გაზიარებულ ფაილებს გამჭოლი დაშიფვრითა და ბმულით, რომელიც თავისით გაუქმდება, ვადის ამოწურვისას.
+onboarding-firefox-send-text2 = ატვირთეთ თქვენი ფაილები, { -send-brand-name } კი გააზიარებს გამჭოლი დაშიფვრითა და ბმულით, რომელიც თავისით გაუქმდება, ვადის ამოწურვისას.
 onboarding-firefox-send-button = გამოცადეთ { -send-brand-name }
 onboarding-mobile-phone-title = გადმოწერეთ { -brand-product-name } თქვენს ტელეფონზე
 onboarding-mobile-phone-text = ჩამოტვირთეთ { -brand-product-name } iOS ან Android-სისტემისთვის და დაასინქრონეთ მონაცემები ყველა მოწყობილობაზე.
@@ -88,12 +95,16 @@ onboarding-send-tabs-button = გამოიყენეთ Send Tabs
 onboarding-pocket-anywhere-title = წაიკითხეთ და მოისმინეთ ნებისმიერ ადგილას
 # "downtime" refers to the user's free/spare time.
 onboarding-pocket-anywhere-text = { -pocket-brand-name } ინახავს თქვენს რჩეულ ამბებს, ასე რომ შეგიძლიათ წაიკითხოთ, მოისმინოთ ან უყუროთ თავისუფალ დროს, ხაზგარეშედაც.
+onboarding-pocket-anywhere-text2 = გადაინახეთ თქვენი რჩეული მასალები ხაზგარეშედ { -pocket-brand-name }-პროგრამით და წაიკითხეთ, მოისმინეთ ან უყურეთ ხელსაყრელ ადგილას.
 onboarding-pocket-anywhere-button = სცადეთ { -pocket-brand-name }
 onboarding-lockwise-passwords-title = წაიყოლეთ თქვენი პაროლები ყველგან
 onboarding-lockwise-passwords-text = { -lockwise-brand-name } ინახავს თქვენს პაროლებს უსაფრთხო ადგილას, შედეგად, მარტივად შეგეძლებათ საკუთარ ანგარიშებზე შესვლა.
 onboarding-lockwise-passwords-button = გადმოწერეთ { -lockwise-brand-name }
+onboarding-lockwise-passwords-text2 = შეინახეთ პაროლები უსაფრთხოდ და მარტივად შედით ანგარიშებზე, { -lockwise-brand-name }-ით.
+onboarding-lockwise-passwords-button2 = გადმოწერეთ
 onboarding-facebook-container-title = შემოსაზღვრეთ Facebook
 onboarding-facebook-container-text = { -facebook-container-brand-name } განაცალკევებს თქვენს Facebook-ვინაობას დანარჩენი გვერდებისგან, რაც გაურთულებს თქვენზე თვალის დევნებას, ვებსივრცეში.
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } განაცალკევებს თქვენს პროფილს დანარჩენი გვერდებისგან, რაც გაურთულებს Facebook-ს თქვენთვის მიზნობრივი რეკლამების შერჩევას.
 onboarding-facebook-container-button = გაფართოების დამატება
 
 ## Message strings belonging to the Return to AMO flow
