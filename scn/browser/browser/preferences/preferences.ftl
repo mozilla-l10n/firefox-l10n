@@ -659,7 +659,23 @@ addressbar-suggestions-settings = Cancia li prifirenzi pî suggirimenti di mutur
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bluccaggiu di cuntinutu
+content-blocking-description = Blocca cuntinuti di terzi parti ca ti tràzzanu Riti Riti. Cuntrolla quantu attività 'n linia vennu sarbati e spartuti ntra li siti.
+content-blocking-section-description = Pruteggi la to privatizza mentri nàvighi. Blocca li cuntinuti mmisìbbili ca tràzzanu li siti ca vìsiti e ti prufìlanu. Bluccari certi di sti cuntinuti ponnu fari carricari li pàggini cchiù lesti.
 content-blocking-learn-more = Cchiù nfurmazziuna
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = Nurmali
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = Rìggidu
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = Pirsunalizzatu
+    .accesskey = C
+content-blocking-standard-description = Blocca li trazzatura canusciuti sullu nnê finestri privati.
+content-blocking-standard-desc = Valanzatu pi prutizziuni e pristazziuna. Pirmetti certi trazzatura pi fari funziunari li siti boni.
+content-blocking-strict-desc = Blocca tutti li trattura ca rileva { -brand-short-name }. Putissi fari ncippari certi siti.
 
 ## Privacy Section - Tracking
 
