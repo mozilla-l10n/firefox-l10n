@@ -18,3 +18,4 @@
 <!ENTITY setDesktopBackground.title "Сделать фоном рабочего стола">
 <!ENTITY openDesktopPrefs.label     "Открыть настройки рабочего стола">
 <!ENTITY closeWindow.key            "w">
+<!ENTITY previewUnavailable         "Предпросмотр недоступен">
