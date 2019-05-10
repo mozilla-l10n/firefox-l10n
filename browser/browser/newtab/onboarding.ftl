@@ -39,10 +39,15 @@ onboarding-tracking-protection-button = { PLATFORM() ->
   [windows] Aggiorna opzioni
  *[other] Aggiorna preferenze
 }
+onboarding-tracking-protection-title2 = Protezione dal tracciamento
+onboarding-tracking-protection-text2 = { -brand-short-name } impedisce ai siti web di tracciarti durante la navigazione, rendendo la vita difficile a quelle pubblicità che cercano di seguirti in tutto il Web.
+onboarding-tracking-protection-button2 = Come funziona
 
 onboarding-data-sync-title = Porta le tue personalizzazioni sempre con te
 onboarding-data-sync-text = Sincronizza i tuoi segnalibri e le tue password in tutti i dispositivi in cui usi { -brand-product-name }.
 onboarding-data-sync-button = Attiva { -sync-brand-short-name }
+onboarding-data-sync-text2 = Sincronizza segnalibri, password e molto altro in tutti i dispositivi in cui usi { -brand-product-name }.
+onboarding-data-sync-button2 = Accedi a { -sync-brand-short-name }
 
 onboarding-firefox-monitor-title = Tieni sotto controllo le violazioni di dati
 onboarding-firefox-monitor-text = { -monitor-brand-name } verifica se la tua email è stata coinvolta in una violazione di dati e ti segnala se appare in una nuova violazione.
@@ -54,6 +59,7 @@ onboarding-browse-privately-button = Apri una finestra anonima
 
 onboarding-firefox-send-title = Mantieni al sicuro i file che condividi
 onboarding-firefox-send-text = { -send-brand-name } protegge i file condivisi con crittografia end-to-end e un link che scade automaticamente.
+onboarding-firefox-send-text2 = Carica i tuoi file su { -send-brand-name } e condividili con crittografia end-to-end e un link che scade automaticamente.
 onboarding-firefox-send-button = Prova { -send-brand-name }
 
 onboarding-mobile-phone-title = Installa { -brand-product-name } sul tuo telefono
@@ -66,14 +72,18 @@ onboarding-send-tabs-button = Inizia a utilizzare “Invia scheda”
 
 onboarding-pocket-anywhere-title = Leggi e ascolta ovunque ti trovi
 onboarding-pocket-anywhere-text = { -pocket-brand-name } salva le tue storie preferite, offrendoti la possibilità di leggerle, ascoltarle o guardarle nel tuo tempo libero, anche quando non sei connesso a Internet.
+onboarding-pocket-anywhere-text2 = Salva i tuoi contenuti preferiti nell’app di { -pocket-brand-name }. Leggili, ascoltali o guardali quando ti fa più comodo, anche senza connessione a Internet.
 onboarding-pocket-anywhere-button = Prova { -pocket-brand-name }
 
 onboarding-lockwise-passwords-title = Porta le tue password sempre con te
 onboarding-lockwise-passwords-text = { -lockwise-brand-name } salva le tue password in modo sicuro, permettendoti di accedere in modo semplice e veloce ai tuoi account.
 onboarding-lockwise-passwords-button = Ottieni { -lockwise-brand-name }
+onboarding-lockwise-passwords-text2 = Conserva al sicuro le password salvate e accedi facilmente ai tuoi account con { -lockwise-brand-name }.
+onboarding-lockwise-passwords-button2 = Scarica l’app
 
 onboarding-facebook-container-title = Metti un limite a Facebook
 onboarding-facebook-container-text = { -facebook-container-brand-name } mantiene la tua identità Facebook separata da tutto il resto. In questo modo, tracciarti attraverso il Web diventa più complicato.
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } mantiene il tuoi profilo separato da tutto il resto. In questo modo diventerà più difficile per Facebook mostrarti pubblicità mirate.
 onboarding-facebook-container-button = Aggiungi l’estensione
 
 return-to-amo-sub-header = Ottimo, ora hai installato { -brand-short-name }
