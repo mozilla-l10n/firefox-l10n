@@ -62,10 +62,14 @@ onboarding-tracking-protection-button =
         [windows] 更新选项
        *[other] 更新首选项
     }
+onboarding-tracking-protection-title2 = 保护您不受跟踪
+onboarding-tracking-protection-text2 = { -brand-short-name } 有助于阻止网站在线上跟踪您，让广告更难追着你。
+onboarding-tracking-protection-button2 = 工作原理
 onboarding-data-sync-title = 将您的设置随身带着走
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = 在任何使用 { -brand-product-name } 的地方同步书签与密码。
 onboarding-data-sync-button = 开启{ -sync-brand-short-name }
+onboarding-data-sync-button2 = 登录{ -sync-brand-short-name }
 onboarding-firefox-monitor-title = 警惕数据外泄
 onboarding-firefox-monitor-text = { -monitor-brand-name } 会监控您的电子邮件地址是否出现在数据外泄事件中，并在有新外泄事件时通知您。
 onboarding-firefox-monitor-button = 订阅警报
