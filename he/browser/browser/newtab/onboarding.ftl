@@ -49,6 +49,7 @@ onboarding-tracking-protection-button =
         [windows] עדכון אפשרויות
        *[other] עדכון העדפות
     }
+onboarding-tracking-protection-button2 = איך זה עובד
 onboarding-data-sync-button = הפעלת { -sync-brand-short-name }
 onboarding-browse-privately-title = גלישה בפרטיות
 onboarding-browse-privately-button = פתיחת חלון פרטי
