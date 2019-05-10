@@ -5,10 +5,18 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-learn-more = Aprender más
 onboarding-button-label-try-now = Probarlo ahora
 onboarding-button-label-get-started = Empezar
 onboarding-welcome-header = Bienvenido a { -brand-short-name }
+onboarding-join-form-continue = Continuar
 onboarding-start-browsing-button-label = Empezar a navegar
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-title = Productos útiles
+onboarding-benefit-knowledge-title = Conocimiento práctico
 
 ## These strings belong to the individual onboarding messages.
 
@@ -28,6 +36,19 @@ onboarding-ghostery-text = Navega más rápido, de forma más inteligente o más
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Registrate para tener una { -fxaccount-brand-name } y sincroniza tus marcadores, contraseñas y pestañas abiertas en todos los dispositivos en que uses { -brand-short-name }.
+# "Update" is a verb, as in "Update the existing settings", not "Options about
+# updates".
+onboarding-tracking-protection-button =
+    { PLATFORM() ->
+        [windows] Actualizar opciones
+       *[other] Actualizar preferencias
+    }
+onboarding-data-sync-title = Lleva tus ajustes contigo
+onboarding-data-sync-button = Activar { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Mantente alerta a las filtraciones de datos
+onboarding-browse-privately-button = Abrir una ventana privada
+onboarding-firefox-send-title = Mantén tus archivos compartidos privados
+onboarding-firefox-send-button = Prueba { -send-brand-name }
 
 ## Message strings belonging to the Return to AMO flow
 
