@@ -686,19 +686,109 @@ content-blocking-all-windows-trackers = Trazzatura canusciuti nna tutti li fines
 content-blocking-all-third-party-cookies = Tutti li cookie di terzi parti
 content-blocking-cryptominers = Crittuminatura
 content-blocking-fingerprinters = Riggistratura di mprunti diggitali
+content-blocking-warning-title = Cumanna!
+content-blocking-warning-desc = Bluccari li cookie e li trazzatura po fari ncippari certi siti. È fàcili disabbilitari lu bloccu pî siti dî quali ti fidi.
+content-blocking-warning-description = Bluccari cuntinuti po ncippari certi siti. È fàcili disabbilitari lu bloccu pî siti dî quali ti fidi.
+content-blocking-learn-how = Scopri comu
+content-blocking-reload-description = Ài a ricarricari li schedi p'appricari sti canciamenti.
+content-blocking-reload-tabs-button =
+    .label = Ricàrrica tutti li schedi
+    .accesskey = R
+content-blocking-trackers-label =
+    .label = Trazzatura
+    .accesskey = T
+content-blocking-tracking-protection-option-all-windows =
+    .label = Nna tutti li finestri
+    .accesskey = A
+content-blocking-option-private =
+    .label = Sulu nnê finestri privati
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = Cancia la lista dî blocchi
+content-blocking-cookies-label =
+    .label = Cookie
+    .accesskey = C
+content-blocking-expand-section =
+    .tooltiptext = Cchiù nfurmazziuna
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Crittuminatura
+    .accesskey = y
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Riggistratura di mprunti diggitali
+    .accesskey = F
 
 ## Privacy Section - Tracking
 
+tracking-manage-exceptions =
+    .label = Gistisci ccizziuna...
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
+permissions-header = Pirmisi
+permissions-location = Lucalizzazziuni
+permissions-location-settings =
+    .label = Mpustazziuni...
+    .accesskey = t
+permissions-camera = Càmira
+permissions-camera-settings =
+    .label = Mpustazziuna...
+    .accesskey = t
+permissions-microphone = Micròfunu
+permissions-microphone-settings =
+    .label = Mpustazziuna...
+    .accesskey = t
+permissions-notification = Nutìfichi
+permissions-notification-settings =
+    .label = Mpustazziuna...
+    .accesskey = t
 permissions-notification-link = Cchiù nfurmazziuna
+permissions-notification-pause =
+    .label = Ferma li nutìfichi nzinu a quannu { -brand-short-name } si riabbìa
+    .accesskey = n
+permissions-block-autoplay-media2 =
+    .label = Mpidisci ê siti di riprudùciri soni autumaticamenti
+    .accesskey = B
+permissions-block-autoplay-media-exceptions =
+    .label = Ccizziuna...
+    .accesskey = E
+permissions-block-popups =
+    .label = Blocca li finestri autumàtichi
+    .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Ccizziuna...
+    .accesskey = E
+permissions-addon-install-warning =
+    .label = T'abbisa quannu li siti cèrcanu di nstallari agghiuncitini
+    .accesskey = W
+permissions-addon-exceptions =
+    .label = Ccizziuna...
+    .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = Mpidisci ê sirbizza d'accissibbilità d'accèdiri ô to navigaturi
+    .accesskey = a
 permissions-a11y-privacy-link = Cchiù nfurmazziuna
 
 ## Privacy Section - Data Collection
 
+collection-header = Cullizziuni e usu di dati di { -brand-short-name }
+collection-description = Ni sfurzamu di furnìriti scigghiuti e arricògghiri sulu chiḍḍu chi ni serbi pi furniri e migghiurari { -brand-short-name } pi tutti. Dumannamu sempri lu pirmisu prima d'arricìviri nfurmazziuna pirsunali.
+collection-privacy-notice = Abbisi di privatizza
+collection-health-report =
+    .label = Pirmetti a { -brand-short-name } di mannari dati tècnici e di ntirazziuni a { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = Cchiù nfurmazziuna
+collection-studies =
+    .label = Pirmetti a { -brand-short-name } di nstallari e cunnùciri studi
+collection-studies-link = Talìa studi di { -brand-short-name }
+addon-recommendations =
+    .label = Pirmetti a { -brand-short-name } di dari cunzigghi ncapu a stinziuna pirsunalizzati
 addon-recommendations-link = Cchiù nfurmazziuna
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = La signalazziuni di dati è disabbilitata nnâ cunfijurazziuni di sta build
 collection-backlogged-crash-reports-link = Cchiù nfurmazziuna
 
 ## Privacy Section - Security
