@@ -271,6 +271,18 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    As extensões são como aplicações para o seu navegador, estas permitem-lhe
+    proteger palavras-passe, transferir vídeos, encontrar ofertas, bloquear anúncios irritantes, alterar
+    a aparência do seu navegador, e muito mais. Estes pequenos programas de software são
+    muitas vezes programador por terceiros. Aqui está uma seleção que o { -brand-product-name }
+    <a data-l10n-name="learn-more-trigger">recomenda</a> para segurança, desempenho e funcionalidade excecionais.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Algumas destas recomendações são personalizadas. Estas são baseadas noutras
+    extensões que instalou, preferências de perfil e estatísticas de utilização.
 discopane-notice-learn-more = Saber mais
 privacy-policy = Política de privacidade
 # Refers to the author of an add-on, shown below the name of the add-on.
