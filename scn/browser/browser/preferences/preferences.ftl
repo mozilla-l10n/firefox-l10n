@@ -676,6 +676,14 @@ content-blocking-setting-custom =
 content-blocking-standard-description = Blocca li trazzatura canusciuti sullu nnê finestri privati.
 content-blocking-standard-desc = Valanzatu pi prutizziuni e pristazziuna. Pirmetti certi trazzatura pi fari funziunari li siti boni.
 content-blocking-strict-desc = Blocca tutti li trattura ca rileva { -brand-short-name }. Putissi fari ncippari certi siti.
+content-blocking-strict-description = Prutizziuni cchiù forti, putissi ncippari certi siti.
+content-blocking-custom-desc = Scegghi zoccu bluccari.
+content-blocking-private-trackers = Trazzatura canusciuti sulu nnê finestri privati
+content-blocking-third-party-cookies = Cookie di trazzamentu di terzi parti
+content-blocking-all-cookies = Tutti li cookie
+content-blocking-unvisited-cookies = Cookie di siti nun visitati
+content-blocking-all-windows-trackers = Trazzatura canusciuti nna tutti li finestri
+content-blocking-all-third-party-cookies = Tutti li cookie di terzi parti
 
 ## Privacy Section - Tracking
 
