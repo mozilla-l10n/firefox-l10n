@@ -62,10 +62,16 @@ onboarding-tracking-protection-button =
         [windows] Atualizar opções
        *[other] Atualizar preferências
     }
+onboarding-tracking-protection-title2 = Proteção da monitorização
+onboarding-tracking-protection-text2 = O { -brand-short-name } ajudar a parar os websites de lhe monitorizar online, fazendo mais difícil com que os anúncios lhe sigam pela web.
+onboarding-tracking-protection-button2 = Como funciona
 onboarding-data-sync-title = Leve as suas definições consigo
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = Sincronize os seus marcadores e palavras-passe em todos os lugares que utiliza o { -brand-product-name }.
 onboarding-data-sync-button = Ligar o { -sync-brand-short-name }
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Sincronize os seus marcadores, palavras-passe e mais onde quer que utilize o { -brand-product-name }.
+onboarding-data-sync-button2 = Iniciar sessão no { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Fique atento(a) às brechas de dados
 onboarding-firefox-monitor-text = O { -monitor-brand-name } monitoriza se o seu email aparecer numa brecha de dados e alerta-lhe se este aparecer numa nova brecha.
 onboarding-firefox-monitor-button = Registar-se para alertas
@@ -74,6 +80,7 @@ onboarding-browse-privately-text = A navegação privada limpa o seu histórico 
 onboarding-browse-privately-button = Abrir uma janela privada
 onboarding-firefox-send-title = Mantenha os seus ficheiros privados
 onboarding-firefox-send-text = O { -send-brand-name } protege os ficheiros que partilha partilha com encriptação de ponta a ponta e uma ligação que expira automaticamente.
+onboarding-firefox-send-text2 = Carregue os seus ficheiros para o { -send-brand-name } para os partilhar com encriptação de ponta a ponta e uma ligação que expira automaticamente.
 onboarding-firefox-send-button = Experimente o { -send-brand-name }
 onboarding-mobile-phone-title = Obtenha o { -brand-product-name } no seu telefone
 onboarding-mobile-phone-text = Transfira o { -brand-product-name } para iOS ou Android e sincronize os seus dados entre dispositivos.
@@ -88,12 +95,16 @@ onboarding-send-tabs-button = Começar a utilizar Enviar separadores
 onboarding-pocket-anywhere-title = Leia e oiça em qualquer lugar
 # "downtime" refers to the user's free/spare time.
 onboarding-pocket-anywhere-text = O { -pocket-brand-name } guarda as suas histórias favoritas para que as possa ler, ouvir e ver durante o seu tempo de descanso, mesmo se estiver offline.
+onboarding-pocket-anywhere-text2 = Guarde os seu conteúdo favorito offline com a aplicação do { -pocket-brand-name } e leia, ouça e veja quando lhe é conveniente.
 onboarding-pocket-anywhere-button = Experimente o { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Leve as suas palavras-passe para todo o lado
 onboarding-lockwise-passwords-text = O { -lockwise-brand-name } guarda as suas palavras-passe num lugar seguro para que possa iniciar sessão facilmente nas suas contas.
 onboarding-lockwise-passwords-button = Obter o { -lockwise-brand-name }
+onboarding-lockwise-passwords-text2 = Mantenha as palavras-passe que guarda protegidas e inicie sessão nas suas contas com o { -lockwise-brand-name }.
+onboarding-lockwise-passwords-button2 = Obter a aplicação
 onboarding-facebook-container-title = Defina limites com o Facebook
 onboarding-facebook-container-text = O { -facebook-container-brand-name } mantém a sua identidade do Facebook separada de tudo o resto, fazendo mais difícil com que lhe monitorizem pela web.
+onboarding-facebook-container-text2 = O { -facebook-container-brand-name } mantém o seu perfil separado de tudo o resto, tornando mais difícil com que o Facebook lhe segmente com anúncios.
 onboarding-facebook-container-button = Adicionar a extensão
 
 ## Message strings belonging to the Return to AMO flow

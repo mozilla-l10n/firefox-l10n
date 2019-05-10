@@ -160,6 +160,9 @@ private-browsing-description2 =
 extensions-view-discover =
     .name = Obter extras
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Recomendações
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Atualizações recentes
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -266,6 +269,25 @@ shortcuts-card-collapse-button = Mostrar menos
 go-back-button =
     .tooltiptext = Retroceder
 
+## Recommended add-ons page
+
+discopane-notice-learn-more = Saber mais
+privacy-policy = Política de privacidade
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = por <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Utilizadores: { $dailyUsers }
+install-extension-button = Adicionar ao { -brand-product-name }
+install-theme-button = Instalar tema
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Gerir
+find-more-addons = Encontrar mais extras
+
 ## Add-on actions
 
 report-addon-button = Reportar
@@ -283,6 +305,11 @@ addon-detail-version-label = Versão
 addon-detail-last-updated-label = Última atualização
 addon-detail-homepage-label = Página inicial
 addon-detail-rating-label = Avaliação
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Avaliado com { NUMBER($rating, maximumFractionDigits: 1) } de 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
