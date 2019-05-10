@@ -491,7 +491,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "გაზიარება">
 <!ENTITY share_title "გაზიარება -">
 <!ENTITY share_image_failed "ამ გამოსახულების გაზიარება ვერ ხერხდება">
-<!ENTITY save_as_pdf "შენახვა PDF ფორმატში">
+<!ENTITY save_as_pdf "შენახვა PDF-ფორმატში">
 <!ENTITY print "დაბეჭდვა">
 <!ENTITY view_page_source "გვერდის წყარო">
 <!ENTITY find_in_page "პოვნა გვერდზე">
