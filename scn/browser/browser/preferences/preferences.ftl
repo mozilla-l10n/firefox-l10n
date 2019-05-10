@@ -684,6 +684,8 @@ content-blocking-all-cookies = Tutti li cookie
 content-blocking-unvisited-cookies = Cookie di siti nun visitati
 content-blocking-all-windows-trackers = Trazzatura canusciuti nna tutti li finestri
 content-blocking-all-third-party-cookies = Tutti li cookie di terzi parti
+content-blocking-cryptominers = Crittuminatura
+content-blocking-fingerprinters = Riggistratura di mprunti diggitali
 
 ## Privacy Section - Tracking
 
