@@ -36,9 +36,9 @@
 <!ENTITY chatName.label                 "Tên Trò chuyện:">
 
 <!ENTITY WorkPhone.label                "Công việc">
-<!ENTITY WorkPhone.accesskey            "v">
+<!ENTITY WorkPhone.accesskey            "k">
 <!ENTITY HomePhone.label                "Nhà:">
-<!ENTITY HomePhone.accesskey            "N">
+<!ENTITY HomePhone.accesskey            "m">
 <!ENTITY FaxNumber.label                "Fax:">
 <!ENTITY FaxNumber.accesskey            "F">
 <!ENTITY CellularNumber.label           "Di động:">
