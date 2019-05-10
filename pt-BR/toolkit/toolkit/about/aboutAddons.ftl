@@ -282,6 +282,10 @@ discopane-intro =
     mudar a aparência do navegador e muito mais. Esses pequenos programas são
     geralmente desenvolvidos por terceiros. Aqui está uma seleção que o { -brand-product-name }
     <a data-l10n-name="learn-more-trigger">recomenda</a> por suas excepcionais características de segurança, desempenho e funcionalidade.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Algumas dessas recomendações são personalizadas. Elas são feitas com base 
+    em outras extensões que você instalou, preferências de perfil e estatísticas de uso.
 discopane-notice-learn-more = Saiba mais
 privacy-policy = Política de privacidade
 # Refers to the author of an add-on, shown below the name of the add-on.
@@ -316,6 +320,11 @@ addon-detail-version-label = Versão
 addon-detail-last-updated-label = Última atualização
 addon-detail-homepage-label = Página inicial
 addon-detail-rating-label = Classificação
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Avaliação: { NUMBER($rating, maximumFractionDigits: 1) } de 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
