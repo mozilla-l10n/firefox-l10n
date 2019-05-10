@@ -273,6 +273,13 @@ discopane-intro =
     terze parti. Ecco una selezione <a data-l10n-name="learn-more-trigger">
     consigliata</a> da { -brand-product-name }, con la garanzia di sicurezza,
     prestazioni e funzionalità al massimo livello.
+
+discopane-notice-recommendations =
+    Alcuni consigli in questa pagina sono personalizzati. Sono basati sulle
+    estensioni già installate, le impostazioni del profilo e statistiche
+    d’utilizzo.
+discopane-notice-learn-more = Ulteriori informazioni
+
 privacy-policy = Informativa sulla privacy
 
 # Refers to the author of an add-on, shown below the name of the add-on.
