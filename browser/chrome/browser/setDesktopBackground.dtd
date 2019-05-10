@@ -18,3 +18,4 @@
 <!ENTITY setDesktopBackground.title "Definir fundo do ambiente de trabalho">
 <!ENTITY openDesktopPrefs.label     "Abrir preferências do ambiente de trabalho">
 <!ENTITY closeWindow.key            "w">
+<!ENTITY previewUnavailable         "Pré-visualização indisponível">

@@ -34,6 +34,7 @@ abuse-report-submit-button = Submeter
 abuse-report-messagebar-aborted = Relatório para <span data-l10n-name="addon-name">{ $addon-name }</span> cancelado.
 abuse-report-messagebar-submitting = A enviar relatório para <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Obrigado por enviar um relatório. Pretende remover <span data-l10n-name="addon-name">{ $addon-name }</span>?
+abuse-report-messagebar-submitted-noremove = Obrigado por submeter um relatório.
 abuse-report-messagebar-removed-extension = Obrigado por enviar um relatório. Removeu a extensão <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = Obrigado por enviar um relatório. Removeu o tema <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Ocorreu um erro ao enviar o relatório para <span data-l10n-name="addon-name">{ $addon-name }</span>.
@@ -41,8 +42,10 @@ abuse-report-messagebar-error-recent-submit = O relatório para <span data-l10n-
 
 ## Message bars actions.
 
-abuse-report-messagebar-action-remove = Sim, remover
-abuse-report-messagebar-action-keep = Não, manter
+abuse-report-messagebar-action-remove-extension = Sim, removê-la
+abuse-report-messagebar-action-keep-extension = Não, vou mantê-la
+abuse-report-messagebar-action-remove-theme = Sim, removê-lo
+abuse-report-messagebar-action-keep-theme = Não, vou mantê-lo
 abuse-report-messagebar-action-retry = Voltar a tentar
 abuse-report-messagebar-action-cancel = Cancelar
 
