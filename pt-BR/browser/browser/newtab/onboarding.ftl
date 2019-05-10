@@ -62,10 +62,16 @@ onboarding-tracking-protection-button =
         [windows] Opções de atualização
        *[other] Preferências de atualização
     }
+onboarding-tracking-protection-title2 = Proteção contra rastreamento
+onboarding-tracking-protection-text2 = O { -brand-short-name } ajuda a impedir que sites rastreiem você online, dificultando aos anúncios seguir você pela web.
+onboarding-tracking-protection-button2 = Como funciona
 onboarding-data-sync-title = Leve suas configurações com você
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = Sincronize seus favoritos e senhas em todos os lugares em que usa o { -brand-product-name }.
 onboarding-data-sync-button = Ativar o { -sync-brand-short-name }
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Sincronize favoritos, senhas e outras coisas em todo lugar que usar o { -brand-product-name }.
+onboarding-data-sync-button2 = Entrar no { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Fique atento a vazamentos de dados
 onboarding-firefox-monitor-text = O { -monitor-brand-name } verifica se seu e-mail apareceu em um vazamento de dados e manda um alerta para você caso apareça em um novo vazamento.
 onboarding-firefox-monitor-button = Cadastre-se para receber alertas
