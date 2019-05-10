@@ -163,6 +163,9 @@ private-browsing-description2 =
 extensions-view-discover =
     .name = Adicionar
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Recomendações
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Atualizações recentes
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -268,6 +271,33 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Mostrar menos
 go-back-button =
     .tooltiptext = Voltar
+
+## Recommended add-ons page
+
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Extensões e temas são como aplicativos para seu navegador. Eles permitem
+    proteger senhas, baixar vídeos, encontrar ofertas, bloquear anúncios chatos,
+    mudar a aparência do navegador e muito mais. Esses pequenos programas são
+    geralmente desenvolvidos por terceiros. Aqui está uma seleção que o { -brand-product-name }
+    <a data-l10n-name="learn-more-trigger">recomenda</a> por suas excepcionais características de segurança, desempenho e funcionalidade.
+discopane-notice-learn-more = Saiba mais
+privacy-policy = Política de privacidade
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = por <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Usuários: { $dailyUsers }
+install-extension-button = Adicionar ao { -brand-product-name }
+install-theme-button = Instalar tema
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Gerenciar
+find-more-addons = Encontrar mais extensões
 
 ## Add-on actions
 

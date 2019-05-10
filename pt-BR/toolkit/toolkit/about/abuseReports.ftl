@@ -39,8 +39,10 @@ abuse-report-messagebar-error-recent-submit = O relato de <span data-l10n-name="
 
 ## Message bars actions.
 
-abuse-report-messagebar-action-remove = Sim, remover
-abuse-report-messagebar-action-keep = Não, manter
+abuse-report-messagebar-action-remove-extension = Sim, remover
+abuse-report-messagebar-action-keep-extension = Não, manter
+abuse-report-messagebar-action-remove-theme = Sim, remover
+abuse-report-messagebar-action-keep-theme = Não, manter
 abuse-report-messagebar-action-retry = Tentar novamente
 abuse-report-messagebar-action-cancel = Cancelar
 

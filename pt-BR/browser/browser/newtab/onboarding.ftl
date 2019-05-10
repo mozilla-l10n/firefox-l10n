@@ -80,6 +80,7 @@ onboarding-browse-privately-text = A navegação privativa limpa sua pesquisa e 
 onboarding-browse-privately-button = Abrir uma janela privativa
 onboarding-firefox-send-title = Mantenha privativos seus arquivos compartilhados
 onboarding-firefox-send-text = O { -send-brand-name } protege os arquivos que você compartilha com criptografia de ponta a ponta e um link que expira automaticamente.
+onboarding-firefox-send-text2 = Envie seus arquivos para pelo { -send-brand-name } para compartilhar com criptografia de ponta a ponta e um link que expira automaticamente.
 onboarding-firefox-send-button = Experimente o { -send-brand-name }
 onboarding-mobile-phone-title = Instale o { -brand-product-name } no seu celular
 onboarding-mobile-phone-text = Baixe o { -brand-product-name } para iOS ou Android e sincronize seus dados entre dispositivos.
@@ -94,12 +95,16 @@ onboarding-send-tabs-button = Comece a usar o envio de abas
 onboarding-pocket-anywhere-title = Leia e ouça em qualquer lugar
 # "downtime" refers to the user's free/spare time.
 onboarding-pocket-anywhere-text = O { -pocket-brand-name } salva suas histórias preferidas para que possa ler, ouvir e assistir durante seu tempo livre, mesmo se estiver desconectado.
+onboarding-pocket-anywhere-text2 = Salve localmente seus conteúdos preferidos com o aplicativo { -pocket-brand-name } e leia, ouça ou assista quando for conveniente para você.
 onboarding-pocket-anywhere-button = Experimente o { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Leve suas senhas para qualquer lugar
 onboarding-lockwise-passwords-text = O { -lockwise-brand-name } salva suas senhas em um local seguro, assim você pode facilmente acessar suas contas.
 onboarding-lockwise-passwords-button = Instale o { -lockwise-brand-name }
+onboarding-lockwise-passwords-text2 = Mantenha seguras as senhas que você salva e entre facilmente em suas contas com o { -lockwise-brand-name }.
+onboarding-lockwise-passwords-button2 = Instale o aplicativo
 onboarding-facebook-container-title = Defina limites para o Facebook
 onboarding-facebook-container-text = O { -facebook-container-brand-name } mantém sua identidade do Facebook separada de todo o resto, tornando mais difícil rastrear você pela web.
+onboarding-facebook-container-text2 = O { -facebook-container-brand-name } mantém seu perfil separado de tudo mais, tornando mais difícil para o Facebook direcionar propaganda para você.
 onboarding-facebook-container-button = Adicionar a extensão
 
 ## Message strings belonging to the Return to AMO flow
