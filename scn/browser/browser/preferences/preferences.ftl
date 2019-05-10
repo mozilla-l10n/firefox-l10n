@@ -415,16 +415,64 @@ search-choose-engine-column =
     .label = Muturi di ricerca
 search-choose-keyword-column =
     .label = Palora-chiavi
+search-restore-default =
+    .label = Riprìstina li mutura di ricerca pridifinuti
+    .accesskey = D
+search-remove-engine =
+    .label = Leva
+    .accesskey = R
+search-find-more-link = Trova autri mutura di ricerca
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Dùplica palora d'accessu
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Scigghisti na palora d'accessu ca a stu mumentu veni usata di “{ $name }”. Scìgghinni n'autra.
+search-keyword-warning-bookmark = Scigghisti na palora d'accessu ca a stu mumentu veni usati d'un nzingalibbra. Scìgghinni n'autra.
 
 ## Containers Section
 
-containers-back-link = « Torna nn'arredi
+containers-back-link = « Torna nn'arrè
+containers-header = Schedi cuntinituri
+containers-add-button =
+    .label = Agghiunci novu cuntinituri
+    .accesskey = A
+containers-preferences-button =
+    .label = Prifirenzi
+containers-remove-button =
+    .label = Leva
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Portati appressu la to Riti
+sync-signedout-description = Sincrunizza li to nzingalibbra, la crunuluggìa, li schedi, li palori d'accessu, l'agghiuncitini e li prifirenzi attraversu tutti li to dispusitivi.
+sync-signedout-account-title = Cunnetti cu un { -fxaccount-brand-name }
+sync-signedout-account-create = Nun ài un cuntu? Accumincia
+    .accesskey = c
+sync-signedout-account-signin =
+    .label = Trasi...
+    .accesskey = I
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Scàrrica Firefox pi <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> o <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> pi sincrunizzàriti cû to dispusitivu mòbbili.
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Cancia la mmàggini di prufilu
+sync-disconnect =
+    .label = Discunnetti...
+    .accesskey = D
+sync-manage-account = Gistisci cuntu
+    .accesskey = o
+sync-signedin-unverified = { $email } nun è virificata.
+sync-signedin-login-failure = Trasi pi ricunnèttiri { $email }
 
 ## Privacy Section
 
