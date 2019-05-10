@@ -55,6 +55,7 @@ cfr-doorhanger-pintab-animation-resume = 계속
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = 어디서나 북마크 동기화
+cfr-doorhanger-bookmark-fxa-body = 멋진 발견! 이제 다른 휴대 기기에서도 이 북마크를 사용해 보세요. { -fxaccount-brand-name }로 시작해 보세요.
 cfr-doorhanger-bookmark-fxa-link-text = 북마크 지금 동기화…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = 닫기 버튼

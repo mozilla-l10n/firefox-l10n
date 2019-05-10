@@ -264,12 +264,16 @@ go-back-button =
 
 ## Add-on actions
 
+report-addon-button = 신고하기
 remove-addon-button = 삭제
 disable-addon-button = 비활성화
 enable-addon-button = 활성화
 expand-addon-button = 옵션 더보기
 addons-enabled-heading = 활성화 됨
 addons-disabled-heading = 비활성화 됨
+ask-to-activate-button = 활성화 요청
+always-activate-button = 항상 사용
+never-activate-button = 사용 안함
 addon-detail-author-label = 제작자
 addon-detail-version-label = 버전
 addon-detail-last-updated-label = 최종 수정일
@@ -289,9 +293,22 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span>가 제거되었습니다.
+pending-uninstall-undo-button = 실행 취소
+addon-detail-updates-label = 자동 업데이트 허용
 addon-detail-updates-radio-default = 기본값
+addon-detail-updates-radio-on = 켜기
+addon-detail-updates-radio-off = 끄기
 addon-detail-update-check-label = 업데이트 확인
 install-update-button = 업데이트
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = 사생활 보호 창에서 허용됨
+addon-detail-private-browsing-help = 허용된 경우, 확장기능은 사생활 보호 브라우징 중에 온라인 활동에 접근 할 수 있습니다. <a data-l10n-name="learn-more">더 알아보기</a>
 addon-detail-private-browsing-allow = 허용
 addon-detail-private-browsing-disallow = 허용하지 않음
 available-updates-heading = 업데이트 가능 항목
+recent-updates-heading = 최근 업데이트
