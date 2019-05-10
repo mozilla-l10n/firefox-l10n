@@ -23,6 +23,7 @@ onboarding-start-browsing-button-label = Commencer la navigation
 
 onboarding-benefit-products-title = Des logiciels à votre service
 onboarding-benefit-products-text = Améliorez votre productivité grâce à un ensemble d’outils qui respectent votre vie privée sur tous vos appareils.
+onboarding-benefit-knowledge-text = Apprenez tout ce qu’il faut savoir pour naviguer intelligemment et en sécurité.
 onboarding-benefit-privacy-title = Le respect de la vie privée, pour de vrai
 
 ## These strings belong to the individual onboarding messages.
@@ -56,6 +57,8 @@ onboarding-data-sync-title = Emportez vos paramètres avec vous
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = Synchronisez vos marque-pages et vos mots de passe partout où vous utilisez { -brand-product-name }.
 onboarding-data-sync-button = Activer { -sync-brand-short-name }
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Synchronisez marque-pages, mots de passe, etc., partout ou vous utilisez { -brand-product-name }.
 onboarding-firefox-monitor-title = Suivez de près les fuites de données
 onboarding-firefox-monitor-text = { -monitor-brand-name } vérifie si votre adresse électronique fait partie d’une fuite de données et vous alerte si elle apparaît dans une nouvelle fuite de données.
 onboarding-firefox-monitor-button = S’abonner aux alertes
@@ -74,6 +77,8 @@ onboarding-pocket-anywhere-button = Essayer { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Emmenez vos mots de passe partout
 onboarding-lockwise-passwords-text = { -lockwise-brand-name } conserve vos mots de passe en lieu sûr, vous permettant ainsi de vous connecter facilement à vos comptes.
 onboarding-lockwise-passwords-button = Installer { -lockwise-brand-name }
+onboarding-lockwise-passwords-text2 = Conservez en sécurité les mots de passe que vous enregistrez et connectez-vous en toute simplicité à vos comptes avec { -lockwise-brand-name }.
+onboarding-lockwise-passwords-button2 = Obtenir l’application
 onboarding-facebook-container-title = Fixez les limites avec Facebook
 onboarding-facebook-container-button = Installer l’extension
 
