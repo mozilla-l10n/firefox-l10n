@@ -18,3 +18,4 @@
 <!ENTITY setDesktopBackground.title "Đặt làm ảnh nền máy tính">
 <!ENTITY openDesktopPrefs.label     "Mở tùy chọn máy tính">
 <!ENTITY closeWindow.key            "w">
+<!ENTITY previewUnavailable         "Không có bản xem trước">
