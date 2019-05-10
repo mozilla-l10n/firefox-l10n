@@ -62,10 +62,14 @@ onboarding-tracking-protection-button =
         [windows] 調整選項
        *[other] 調整偏好設定
     }
+onboarding-tracking-protection-title2 = 保護您不受追蹤
+onboarding-tracking-protection-text2 = { -brand-short-name } 可幫助防止網站在線上追蹤，讓廣告更難追著你。
+onboarding-tracking-protection-button2 = 運作原理
 onboarding-data-sync-title = 把設定隨身帶著走
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = 在任何使用 { -brand-product-name } 的地方同步書籤與密碼。
 onboarding-data-sync-button = 開啟 { -sync-brand-short-name }
+onboarding-data-sync-button2 = 登入 { -sync-brand-short-name }
 onboarding-firefox-monitor-title = 小心資料外洩！
 onboarding-firefox-monitor-text = { -monitor-brand-name } 會監控您的 E-Mail 是否出現在資料外洩事故中，並且在有新事故時通知您。
 onboarding-firefox-monitor-button = 訂閱帳號資料外洩警報
@@ -92,6 +96,7 @@ onboarding-pocket-anywhere-button = 試用 { -pocket-brand-name }
 onboarding-lockwise-passwords-title = 密碼隨身帶著走
 onboarding-lockwise-passwords-text = { -lockwise-brand-name } 會安全地儲存您的密碼，讓您可輕鬆在各個網站上登入帳號。
 onboarding-lockwise-passwords-button = 下載 { -lockwise-brand-name }
+onboarding-lockwise-passwords-button2 = 下載程式
 onboarding-facebook-container-title = 為 Facebook 設定邊界
 onboarding-facebook-container-text = { -facebook-container-brand-name } 可將您的 Facebook 身分隔絕於其他網站之外，使其更難在網路上追蹤您。
 onboarding-facebook-container-button = 安裝擴充套件

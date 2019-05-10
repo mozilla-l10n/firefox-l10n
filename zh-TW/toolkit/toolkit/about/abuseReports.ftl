@@ -30,6 +30,7 @@ abuse-report-submit-button = 送出
 abuse-report-messagebar-aborted = 已取消回報 <span data-l10n-name="addon-name">{ $addon-name }</span>。
 abuse-report-messagebar-submitting = 正在傳送 <span data-l10n-name="addon-name">{ $addon-name }</span> 的報告。
 abuse-report-messagebar-submitted = 感謝您回報。您想要移除 <span data-l10n-name="addon-name">{ $addon-name }</span> 嗎？
+abuse-report-messagebar-submitted-noremove = 感謝您回報。
 abuse-report-messagebar-removed-extension = 感謝您回報。已移除 <span data-l10n-name="addon-name">{ $addon-name }</span> 擴充套件。
 abuse-report-messagebar-removed-theme = 感謝您回報。已移除 <span data-l10n-name="addon-name">{ $addon-name }</span> 佈景主題。
 abuse-report-messagebar-error = 傳送<span data-l10n-name="addon-name">{ $addon-name }</span> 的報告時，發生錯誤。
@@ -37,8 +38,10 @@ abuse-report-messagebar-error-recent-submit = 由於最近傳送過另一份報�
 
 ## Message bars actions.
 
-abuse-report-messagebar-action-remove = 好，移除他
-abuse-report-messagebar-action-keep = 不要，請保留
+abuse-report-messagebar-action-remove-extension = 好，移除它
+abuse-report-messagebar-action-keep-extension = 不用，請保留
+abuse-report-messagebar-action-remove-theme = 好，移除它
+abuse-report-messagebar-action-keep-theme = 不用，請保留
 abuse-report-messagebar-action-retry = 重試
 abuse-report-messagebar-action-cancel = 取消
 
