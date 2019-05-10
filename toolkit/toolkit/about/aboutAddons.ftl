@@ -155,6 +155,9 @@ private-browsing-description2 =
 extensions-view-discover =
     .name = Získání doplňků
     .tooltiptext = Získejte další zajímavé doplňky
+extensions-view-discopane =
+    .name = Doporučení
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Aktualizováno
     .tooltiptext = Nedávno aktualizované doplňky
@@ -262,6 +265,37 @@ shortcuts-card-collapse-button = Zobrazit méně
 go-back-button =
     .tooltiptext = Zpátky
 
+## Recommended add-ons page
+
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Rozšíření a vzhledy jsou jako aplikace pro váš prohlížeč. S nimi můžete chránit
+    svá hesla, stahovat videa, hledat výhodné nabídky, blokovat otravné reklamy,
+    měnit vzhled prohlížeče a mnoho dalšího. Tyto malé prográmky většinou vytváří
+    někdy jiný než my. Zde je výběr rozšíření <a data-l10n-name="learn-more-trigger">doporučených</a>
+    pro aplikaci { -brand-product-name } díky jejich jedinečné bezpečnosti a funkcím.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Některá z těchto doporučení se zobrazují na základě informací o ostatních
+    vámi nainstalovaných rozšíření, nastavení profilu a statistik o používání.
+discopane-notice-learn-more = Zjistit více
+privacy-policy = Zásady ochrany osobních údajů
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = od autora <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Počet uživatelů: { $dailyUsers }
+install-extension-button = Přidat do aplikace { -brand-product-name }
+install-theme-button = Nainstalovat vzhled
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Správa
+find-more-addons = Najít další doplňky
+
 ## Add-on actions
 
 report-addon-button = Nahlásit
@@ -279,6 +313,11 @@ addon-detail-version-label = Verze
 addon-detail-last-updated-label = Poslední aktualizace
 addon-detail-homepage-label = Domovská stránka
 addon-detail-rating-label = Hodnocení
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Hodnoceno { NUMBER($rating, maximumFractionDigits: 1) } z 5 hvězdiček
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
