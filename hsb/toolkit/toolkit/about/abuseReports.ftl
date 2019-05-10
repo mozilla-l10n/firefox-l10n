@@ -26,13 +26,16 @@ abuse-report-submit-button = Wotpósłać
 abuse-report-messagebar-aborted = Zdźělenje za <span data-l10n-name="addon-name">{ $addon-name }</span> je so přetorhnyło.
 abuse-report-messagebar-submitting = Zdźělenka za <span data-l10n-name="addon-name">{ $addon-name }</span> so sćele.
 abuse-report-messagebar-submitted = Dźakujemy so, zo sće zdźělenku pósłał. Chceće <span data-l10n-name="addon-name">{ $addon-name }</span> wotstronić?
+abuse-report-messagebar-submitted-noremove = Dźakujemy so, zo sće zdźělenku pósłał.
 abuse-report-messagebar-removed-extension = Dźakujemy so, zo sće zdźělenku pósłał. Sće rozšěrjenje <span data-l10n-name="addon-name">{ $addon-name }</span> wotstronił.
 abuse-report-messagebar-removed-theme = Dźakujemy so, zo sće zdźělenku póskak. Sće drastu <span data-l10n-name="addon-name">{ $addon-name }</span> wotstronił.
 
 ## Message bars actions.
 
-abuse-report-messagebar-action-remove = Haj, wotstronić
-abuse-report-messagebar-action-keep = Ně, wobchować
+abuse-report-messagebar-action-remove-extension = Haj, wotstronić
+abuse-report-messagebar-action-keep-extension = Ně, wobchować
+abuse-report-messagebar-action-remove-theme = Haj, wotstronić
+abuse-report-messagebar-action-keep-theme = Ně, wobchować
 abuse-report-messagebar-action-retry = Wospjetować
 abuse-report-messagebar-action-cancel = Přetorhnyć
 

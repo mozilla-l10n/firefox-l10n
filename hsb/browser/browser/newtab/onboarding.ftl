@@ -53,6 +53,8 @@ onboarding-tracking-protection-button =
         [windows] Nastajenja aktualizować
        *[other] Nastajenja aktualizować
     }
+onboarding-tracking-protection-title2 = Škit přećiwo slědowanju
+onboarding-tracking-protection-button2 = Kak funguje
 onboarding-data-sync-title = Wzmiće swoje nastajenja sobu
 onboarding-data-sync-button = { -sync-brand-short-name } zapinać
 onboarding-data-sync-button2 = Pola { -sync-brand-short-name } přizjewić
@@ -68,6 +70,7 @@ onboarding-pocket-anywhere-title = Čitajće a słuchajće wšudźe
 onboarding-pocket-anywhere-button = { -pocket-brand-name } wupruwować
 onboarding-lockwise-passwords-title = Wzmiće swoje hesła wšudźe sobu
 onboarding-lockwise-passwords-button = { -lockwise-brand-name } wobstarać
+onboarding-lockwise-passwords-button2 = Nałoženje wobstarać
 onboarding-facebook-container-title = Stajće hranicy za Facebook
 onboarding-facebook-container-button = Rozšěrjenje přidać
 
