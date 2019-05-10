@@ -267,6 +267,11 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro = 擴充套件與佈景主題就是可以在瀏覽器中使用的應用程式，讓您獲得保護登入資訊、下載影片、比價、調整瀏覽器的外觀等等新增功能。這些小程式通常都不是由 Mozilla 開發的。以下是一些 { -brand-product-name } 所 <a data-l10n-name="learn-more-trigger">推薦</a>，在安全性、效能、功能等方便都表現傑出的精選項目。
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations = 某些項目是根據您安裝的其他擴充套件、偏好設定、使用統計推導而出的個人化建議。
 discopane-notice-learn-more = 了解更多
 privacy-policy = 隱私權保護政策
 # Refers to the author of an add-on, shown below the name of the add-on.
