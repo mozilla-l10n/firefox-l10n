@@ -157,6 +157,9 @@ private-browsing-description2 = { -brand-short-name } 將調整擴充套件於�
 extensions-view-discover =
     .name = 安裝附加元件
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = 推薦項目
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = 最近的更新
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -262,6 +265,25 @@ shortcuts-card-collapse-button = 顯示更少
 go-back-button =
     .tooltiptext = 回上一頁
 
+## Recommended add-ons page
+
+discopane-notice-learn-more = 了解更多
+privacy-policy = 隱私權保護政策
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = 作者: <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = 使用者數: { $dailyUsers }
+install-extension-button = 安裝到 { -brand-product-name }
+install-theme-button = 安裝佈景主題
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = 管理
+find-more-addons = 看更多附加元件！
+
 ## Add-on actions
 
 report-addon-button = 回報
@@ -279,6 +301,11 @@ addon-detail-version-label = 版本
 addon-detail-last-updated-label = 最近更新時間
 addon-detail-homepage-label = 首頁
 addon-detail-rating-label = 評分
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = 評分: { NUMBER($rating, maximumFractionDigits: 1) }，滿分 5 分
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
