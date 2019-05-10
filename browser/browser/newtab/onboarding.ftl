@@ -69,6 +69,8 @@ onboarding-data-sync-title = 把設定隨身帶著走
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = 在任何使用 { -brand-product-name } 的地方同步書籤與密碼。
 onboarding-data-sync-button = 開啟 { -sync-brand-short-name }
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = 在任何使用 { -brand-product-name } 的地方同步書籤、密碼等資料。
 onboarding-data-sync-button2 = 登入 { -sync-brand-short-name }
 onboarding-firefox-monitor-title = 小心資料外洩！
 onboarding-firefox-monitor-text = { -monitor-brand-name } 會監控您的 E-Mail 是否出現在資料外洩事故中，並且在有新事故時通知您。
@@ -78,6 +80,7 @@ onboarding-browse-privately-text = 隱私瀏覽模式會自動清除您的搜尋
 onboarding-browse-privately-button = 開啟隱私視窗
 onboarding-firefox-send-title = 以私密的方式分享檔案
 onboarding-firefox-send-text = { -send-brand-name } 透過點對點加密與會自動失效的鏈結，保護您要分享的檔案。
+onboarding-firefox-send-text2 = 上傳您的檔案到 { -send-brand-name }，即可透過點對點加密與會自動失效的鏈結來進行分享。
 onboarding-firefox-send-button = 試用 { -send-brand-name }
 onboarding-mobile-phone-title = 取得手機版的 { -brand-product-name }
 onboarding-mobile-phone-text = 下載 { -brand-product-name } for iOS 或 Android，即可在您的不同裝置間同步資料。
@@ -92,13 +95,16 @@ onboarding-send-tabs-button = 開始使用 Send Tabs
 onboarding-pocket-anywhere-title = 隨處閱讀隨處聽
 # "downtime" refers to the user's free/spare time.
 onboarding-pocket-anywhere-text = { -pocket-brand-name } 可儲存您喜愛的文章，這樣就可以等有空再閱讀、聆聽或觀賞，就算離線也沒問題。
+onboarding-pocket-anywhere-text2 = 可使用 { -pocket-brand-name } 將您最愛的文章儲存下來，這樣就可以在有空的時候閱讀、聆聽或觀賞，就算離線也沒問題。
 onboarding-pocket-anywhere-button = 試用 { -pocket-brand-name }
 onboarding-lockwise-passwords-title = 密碼隨身帶著走
 onboarding-lockwise-passwords-text = { -lockwise-brand-name } 會安全地儲存您的密碼，讓您可輕鬆在各個網站上登入帳號。
 onboarding-lockwise-passwords-button = 下載 { -lockwise-brand-name }
+onboarding-lockwise-passwords-text2 = { -lockwise-brand-name } 會安全地儲存您的密碼，讓您可輕鬆在各個網站上登入帳號。
 onboarding-lockwise-passwords-button2 = 下載程式
 onboarding-facebook-container-title = 為 Facebook 設定邊界
 onboarding-facebook-container-text = { -facebook-container-brand-name } 可將您的 Facebook 身分隔絕於其他網站之外，使其更難在網路上追蹤您。
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } 可將您的 Facebook 身分隔絕於其他網站之外，使其更難在網路上追蹤您。
 onboarding-facebook-container-button = 安裝擴充套件
 
 ## Message strings belonging to the Return to AMO flow
