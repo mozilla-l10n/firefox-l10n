@@ -163,6 +163,9 @@ private-browsing-description2 =
 extensions-view-discover =
     .name = კატალოგი
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = შემოთავაზებები
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = ბოლო განახლებები
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -268,6 +271,38 @@ shortcuts-card-collapse-button = ნაკლების ჩვენება
 go-back-button =
     .tooltiptext = უკან გადასვლა
 
+## Recommended add-ons page
+
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    გაფართოებები, ერთგვარი პროგრამები ბრაუზერისთვის, რომლებიც საშუალებას გაძლევთ
+    დაიცვათ პაროლები, ჩამოტვირთოთ ვიდეოები, მოიძიოთ საყიდლები, შეზღუდოთ
+    მომაბეზრებელი რეკლამები, შეცვალოთ ბრაუზერის იერსახე და კიდევ უამრავი რამ.
+    ეს პატარა პროგრამული ნაწილები ხშირ შემთხვევაში შექმნილია ცალკეული მხარის მიერ.
+    აქ შეგიძლია იხილით ისინი, რომელთაც { -brand-product-name } <a data-l10n-name="learn-more-trigger">გირჩევთ</a>
+    მეტი უსაფრთხოებისთვის, წარმადობისა და შესაძლებლობებისთვის.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    შემოთავაზებების ნაწილი არის მორგებული თქვენზე. ისინი ეფუძნება თქვენ მიერ
+    დაყენებულ სხვა გაფართოებებს, პროფილის პარამეტრებსა და გამოყენების სტატისტიკას.
+discopane-notice-learn-more = ვრცლად
+privacy-policy = პირადულობის დებულება
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = შემქმნელი <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = მომხმარებლები: { $dailyUsers }
+install-extension-button = დაემატოს { -brand-product-name }-ს
+install-theme-button = თემის ჩადგმა
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = მართვა
+find-more-addons = სხვა დამატებების მოძიება
+
 ## Add-on actions
 
 report-addon-button = მოხსენება
@@ -285,6 +320,11 @@ addon-detail-version-label = ვერსია
 addon-detail-last-updated-label = ბოლო განახლება
 addon-detail-homepage-label = მთავარი გვერდი
 addon-detail-rating-label = შეფასება
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = { NUMBER($rating, maximumFractionDigits: 1) } შეფასება 5-იდან
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
