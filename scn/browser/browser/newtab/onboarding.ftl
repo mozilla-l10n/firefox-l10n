@@ -28,10 +28,10 @@ onboarding-benefit-products-text = Tròvati li cosi fatti cu na famigghia di str
 onboarding-benefit-knowledge-title = Canuscenzi pràtichi
 onboarding-benefit-knowledge-text = Nzìgnati tuttu chiḍḍu ca ti serbi sapiri p'arristari sicuru 'n linia.
 onboarding-benefit-privacy-title = Privatizza vera
-# "Personal Data Promise" should be treated as a brand and should be kept in
-# English. It refers to a concept shown elsewhere to the user: "The Firefox
-# Personal Data Promise is the way we honor your data in everything we make and
-# do. We take less data. We keep it safe. And we make sure that we are
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Tuttu chiḍḍu chi facemu porta anuri â nostra Prumisa dî Dati Pirsunali: Pigghiari cchiù picca. Tinilli ô sicuru. Nenti sicrita.
 
@@ -62,6 +62,8 @@ onboarding-tracking-protection-button =
         [windows] Uzziuna d'aggiurnamentu
        *[other] Prifirenzi d'aggiurnamentu
     }
+onboarding-tracking-protection-title2 = Prutizziuni dû trazzamentu
+onboarding-tracking-protection-button2 = Comu funziona
 onboarding-data-sync-title = Pòrtati appressu li to mpustazziuna
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = Sincrunizza li to nzingalibbra e li palori d'accessu unn'è-è ca usi { -brand-product-name }.

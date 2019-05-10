@@ -789,6 +789,9 @@ addon-recommendations-link = Cchiù nfurmazziuna
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = La signalazziuni di dati è disabbilitata nnâ cunfijurazziuni di sta build
+collection-backlogged-crash-reports =
+    .label = Pirmetti a { -brand-short-name } di mannari signalazziuna di ntirruzziun arritrati a nomu to
+    .accesskey = c
 collection-backlogged-crash-reports-link = Cchiù nfurmazziuna
 
 ## Privacy Section - Security
@@ -796,13 +799,65 @@ collection-backlogged-crash-reports-link = Cchiù nfurmazziuna
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Sicurizza
+security-browsing-protection = Prutizziuni dî cuntinuti fallaci e prugrammi piriculusi
+security-enable-safe-browsing =
+    .label = Blocca cuntinuti fallaci e piriculusi
+    .accesskey = B
 security-enable-safe-browsing-link = Cchiù nfurmazziuna
+security-block-downloads =
+    .label = Blocca li scarricamenti piriculusi
+    .accesskey = d
+security-block-uncommon-software =
+    .label = T'abbisa di prugrammi nun vuluti e nun cumuni
+    .accesskey = c
 
 ## Privacy Section - Certificates
 
+certs-header = Cirtificati
+certs-personal-label = Quannu un sirburi dumanna lu to cirtificatu pirsunali
+certs-select-auto-option =
+    .label = Scègghinni unu autumaticamenti
+    .accesskey = S
+certs-select-ask-option =
+    .label = Addumanna ogni vota
+    .accesskey = A
+certs-view =
+    .label = Talìa cirtificati...
+    .accesskey = C
+certs-devices =
+    .label = Dispusitivi di sicurizza...
+    .accesskey = D
 space-alert-learn-more-button =
     .label = Cchiù nfurmazziuna
     .accesskey = L
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Grapi uzziuna
+           *[other] Grapi prifirenzi
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] O
+        }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } sta finennu lu spazziu nnô discu. Li cuntinuti di siti si putìssiru vìdiri mali. Po' cancillari li dati sarbati nne Uzziuna > Privatizza e sicurizza > Cookie e dati dî siti.
+       *[other] { -brand-short-name } sta finennu lu spazziu nnô discu. Li cuntinuti di siti si putìssiru vìdiri mali. Po' cancillari li dati sarbati nne Prifirenzi > Privatizza e sicurizza > Cookie e dati dî siti.
+    }
+space-alert-under-5gb-ok-button =
+    .label = D'accordu, lu capivu
+    .accesskey = K
+space-alert-under-5gb-message = { -brand-short-name } sta finennu lu spazziu nnô discu. Li cuntinuti dî siti si putìssiru vìdiri mali. Vìsita “Cchiù nfurmazziuna” p'uttimizzari l'usu dû discu pi na megghiu spirienza di navigazziuni.
 
 ## The following strings are used in the Download section of settings
 
+desktop-folder-name = Scrivanìa
+downloads-folder-name = Scarricamenti
+choose-download-folder-title = Scegghi carpetta pî scarricamenti:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Sarba plichi nne { $service-name }
