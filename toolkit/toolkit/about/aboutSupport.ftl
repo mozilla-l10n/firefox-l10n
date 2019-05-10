@@ -201,6 +201,7 @@ gpu-device-id = Код устройства
 gpu-subsys-id = Код подсистемы
 gpu-drivers = Драйвера
 gpu-ram = Видеопамять
+gpu-driver-vendor = Поставщик драйвера
 gpu-driver-version = Версия драйвера
 gpu-driver-date = Дата разработки драйвера
 gpu-active = Активна
