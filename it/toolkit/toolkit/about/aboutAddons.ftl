@@ -312,6 +312,13 @@ addon-detail-version-label = Versione
 addon-detail-last-updated-label = Ultimo aggiornamento
 addon-detail-homepage-label = Sito web
 addon-detail-rating-label = Voto
+
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+  .title = Voto: { NUMBER($rating, maximumFractionDigits: 1) } su 5
+
 addon-name-disabled = { $name } (disattivato)
 addon-detail-reviews-link =
     { $numberOfReviews ->
