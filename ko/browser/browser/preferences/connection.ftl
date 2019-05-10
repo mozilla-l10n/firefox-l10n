@@ -78,7 +78,13 @@ connection-dns-over-https-url-default =
     .tooltiptext = HTTPS에서 DNS 해석을 위해 기본 URL을 사용
 connection-dns-over-https-url-resolver = 공급자 사용
     .accesskey = P
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (기본값)
+    .tooltiptext = HTTPS를 통한 DNS 확인에 기본 URL 사용
 connection-dns-over-https-url-custom =
     .label = 사용자 정의
     .accesskey = C
-    .tooltiptext = HTTPS에서 DNS 해석을 위한 선호하는 URL 입력
+    .tooltiptext = HTTPS를 통한 DNS 해석을 위한 선호하는 URL 입력
+connection-dns-over-https-custom-label = 사용자 정의
