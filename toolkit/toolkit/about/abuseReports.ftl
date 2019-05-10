@@ -32,6 +32,7 @@ abuse-report-submit-button = Enviar
 abuse-report-messagebar-aborted = Relato de <span data-l10n-name="addon-name">{ $addon-name }</span> cancelado.
 abuse-report-messagebar-submitting = Enviando relato de <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Obrigado por enviar um relato. Quer remover <span data-l10n-name="addon-name">{ $addon-name }</span>?
+abuse-report-messagebar-submitted-noremove = Obrigado por enviar um relato.
 abuse-report-messagebar-removed-extension = Obrigado por enviar um relato. Você removeu a extensão <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = Obrigado por enviar um relato. Você removeu o tema <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Houve um erro ao enviar o relato de <span data-l10n-name="addon-name">{ $addon-name }</span>.
