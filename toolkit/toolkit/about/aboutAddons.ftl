@@ -158,11 +158,14 @@ private-browsing-description2 =
 extensions-view-discover =
     .name = Tải thêm tiện ích
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Được đề xuất
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Cập nhật gần đây
     .tooltiptext = { extensions-view-recent-updates.name }
 extensions-view-available-updates =
-    .name = Có thể cập nhật
+    .name = Cập nhật có sẵn
     .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
@@ -263,19 +266,60 @@ shortcuts-card-collapse-button = Hiện ít hơn
 go-back-button =
     .tooltiptext = Quay lại
 
+## Recommended add-ons page
+
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Tiện ích mở rộng và chủ đề giống như các ứng dụng cho trình duyệt của bạn và chúng cho phép
+    bạn bảo vệ mật khẩu, tải video, tìm giao dịch, chặn quảng cáo gây phiền nhiễu, thay đổi
+    trình duyệt của bạn trông như thế nào, và nhiều hơn nữa. Những chương trình phần mềm
+    nhỏ này là thường được phát triển bởi một bên thứ ba. Ở đây, một lựa chọn
+    <a data-l10n-name="learn-more-trigger">đề xuất</a> { -brand-product-name } cho trường hợp
+    bảo mật, hiệu suất và chức năng đặc biệt.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Một số trong những khuyến nghị được cá nhân hóa. Nó dựa trên khác
+    tiện ích mở rộng mà bạn đã cài đặt, tùy chọn hồ sơ và thống kê sử dụng.
+discopane-notice-learn-more = Tìm hiểu thêm
+privacy-policy = Chính sách riêng tư
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = bởi <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Người dùng: { $dailyUsers }
+install-extension-button = Thêm vào { -brand-product-name }
+install-theme-button = Cài đặt chủ đề
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Quản lý
+find-more-addons = Tìm thêm tiện ích
+
 ## Add-on actions
 
+report-addon-button = Báo cáo
 remove-addon-button = Xóa
 disable-addon-button = Tắt
 enable-addon-button = Bật
 expand-addon-button = Tùy chọn khác
 addons-enabled-heading = Đã bật
 addons-disabled-heading = Đã vô hiệu hóa
+ask-to-activate-button = Hỏi trước khi kích hoạt
+always-activate-button = Luôn kích hoạt
+never-activate-button = Không bao giờ kích hoạt
 addon-detail-author-label = Tác giả
 addon-detail-version-label = Phiên bản
 addon-detail-last-updated-label = Cập nhật cuối
 addon-detail-homepage-label = Trang chủ
 addon-detail-rating-label = Xêp hạng
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Xếp hạng { NUMBER($rating, maximumFractionDigits: 1) } trên 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -287,3 +331,25 @@ addon-detail-reviews-link =
     { $numberOfReviews ->
        *[other] { $numberOfReviews } đánh giá
     }
+
+## Pending uninstall message bar
+
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> đã bị xóa.
+pending-uninstall-undo-button = Hoàn tác
+addon-detail-updates-label = Cho phép cập nhật tự động
+addon-detail-updates-radio-default = Mặc định
+addon-detail-updates-radio-on = Bật
+addon-detail-updates-radio-off = Tắt
+addon-detail-update-check-label = Kiểm tra cập nhật
+install-update-button = Cập nhật
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Đã cho phép trong cửa sổ riêng tư
+addon-detail-private-browsing-help = Khi được cho phép, tiện ích mở rộng sẽ có quyền truy cập vào các hoạt động trực tuyến của bạn trong khi duyệt web riêng tư. <a data-l10n-name="learn-more">Tìm hiểu thêm</a>
+addon-detail-private-browsing-allow = Cho phép
+addon-detail-private-browsing-disallow = Không cho phép
+available-updates-heading = Cập nhật có sẵn
+recent-updates-heading = Cập nhật gần đây
