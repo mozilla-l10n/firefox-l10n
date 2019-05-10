@@ -15,6 +15,7 @@ about-telemetry-option-group-older = უფრო ძველი
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = გაზომვების მონაცემები
+about-telemetry-current-store = მიმდინარე ოდენობა:
 about-telemetry-more-information = მეტ ინფორმაციას ეძებთ?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox-ის მონაცემთა მასალები</a> შეიცავს მითითებებს, მონაცემთა ხელსაწყოებთან მუშაობის შესახებ.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox-გაზომვების კლიენტის მასალები</a> შეიცავს განმარტებებს, კონცეფციას, API-დოკუმენტაციასა და მითითებებს, მონაცემების შესახებ.
