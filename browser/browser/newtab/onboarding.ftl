@@ -104,6 +104,7 @@ onboarding-lockwise-passwords-text2 = { -lockwise-brand-name } 会安全地保�
 onboarding-lockwise-passwords-button2 = 获取应用
 onboarding-facebook-container-title = 为 Facebook 设置边界
 onboarding-facebook-container-text = { -facebook-container-brand-name } 可将您的 Facebook 身份与其他网站隔离，使 Facebook 难以跟踪您在网络上的一举一动。
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } 可将您的 Facebook 身份与其他网站隔离，使 Facebook 更难以通过广告定位您。
 onboarding-facebook-container-button = 添加扩展
 
 ## Message strings belonging to the Return to AMO flow

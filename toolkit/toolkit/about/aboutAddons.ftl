@@ -265,6 +265,9 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro = 扩展与主题就像手机上的应用，让您获得密码保护、视频下载、优惠信息、拦截恼人广告、改变浏览器外观等功能。这些小型软件程序通常由第三方开发。以下是一些 { -brand-product-name }  所 <a data-l10n-name="learn-more-trigger">推荐</a>，在安全性、性能、功能等方面表现突出的精选项目。
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = 下面某些是根据您安装的其他附加组件、偏好设置、使用统计推导出的个性化推荐。
 discopane-notice-learn-more = 详细了解
