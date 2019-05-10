@@ -28,10 +28,10 @@ onboarding-benefit-products-text = 使用各种尊重您隐私的工具，更快
 onboarding-benefit-knowledge-title = 实用小知识
 onboarding-benefit-knowledge-text = 了解所需要知道的一切，让您上网更智能、更安全。
 onboarding-benefit-privacy-title = 保障隐私权
-# "Personal Data Promise" should be treated as a brand and should be kept in
-# English. It refers to a concept shown elsewhere to the user: "The Firefox
-# Personal Data Promise is the way we honor your data in everything we make and
-# do. We take less data. We keep it safe. And we make sure that we are
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = 我们所做的一切，均符合我们对个人数据隐私的承诺：索取更少、确保安全、绝不隐瞒。
 
@@ -92,6 +92,7 @@ onboarding-pocket-anywhere-button = 试用 { -pocket-brand-name }
 onboarding-lockwise-passwords-title = 将您的密码随身带着走
 onboarding-lockwise-passwords-text = { -lockwise-brand-name } 会将您的密码保存在安全的地方，让您可轻松登录账号。
 onboarding-lockwise-passwords-button = 获取 { -lockwise-brand-name }
+onboarding-lockwise-passwords-button2 = 获取应用
 onboarding-facebook-container-title = 为 Facebook 设置边界
 onboarding-facebook-container-text = { -facebook-container-brand-name } 可将您的 Facebook 身份与其他网站隔离，使 Facebook 难以跟踪您在网络上的一举一动。
 onboarding-facebook-container-button = 添加扩展

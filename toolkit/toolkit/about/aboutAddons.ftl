@@ -155,6 +155,9 @@ private-browsing-description2 =
 extensions-view-discover =
     .name = 获取附加组件
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = 推荐
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = 最近更新
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -260,6 +263,27 @@ shortcuts-card-collapse-button = 显示更少
 go-back-button =
     .tooltiptext = 返回
 
+## Recommended add-ons page
+
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations = 下面某些是根据您安装的其他附加组件、偏好设置、使用统计推导出的个性化推荐。
+discopane-notice-learn-more = 详细了解
+privacy-policy = 隐私政策
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = 作者：<a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = 用户量：{ $dailyUsers }
+install-extension-button = 添加至 { -brand-product-name }
+install-theme-button = 安装主题
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = 管理
+find-more-addons = 寻找更多附加组件：
+
 ## Add-on actions
 
 report-addon-button = 报告
@@ -277,6 +301,11 @@ addon-detail-version-label = 版本
 addon-detail-last-updated-label = 上次更新
 addon-detail-homepage-label = 主页
 addon-detail-rating-label = 评分
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = 评分：{ NUMBER($rating, maximumFractionDigits: 1) } / 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
