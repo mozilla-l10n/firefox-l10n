@@ -28,10 +28,10 @@ onboarding-benefit-products-text = Get things done with a family of tools that r
 onboarding-benefit-knowledge-title = Practical Knowledge
 onboarding-benefit-knowledge-text = Learn everything you need to know to stay smarter and safer online.
 onboarding-benefit-privacy-title = True Privacy
-# "Personal Data Promise" should be treated as a brand and should be kept in
-# English. It refers to a concept shown elsewhere to the user: "The Firefox
-# Personal Data Promise is the way we honor your data in everything we make and
-# do. We take less data. We keep it safe. And we make sure that we are
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Everything we do honours our Personal Data Promise: Take less. Keep it safe. No secrets.
 
@@ -62,10 +62,16 @@ onboarding-tracking-protection-button =
         [windows] Update Options
        *[other] Update Preferences
     }
+onboarding-tracking-protection-title2 = Protection From Tracking
+onboarding-tracking-protection-text2 = { -brand-short-name } helps stop websites from tracking you online, making it harder for ads to follow you around the web.
+onboarding-tracking-protection-button2 = How it Works
 onboarding-data-sync-title = Take Your Settings with You
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = Sync your bookmarks and passwords everywhere you use { -brand-product-name }.
 onboarding-data-sync-button = Turn on { -sync-brand-short-name }
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Sync your bookmarks, passwords, and more everywhere you use { -brand-product-name }.
+onboarding-data-sync-button2 = Sign in to { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Stay Alert to Data Breaches
 onboarding-firefox-monitor-text = { -monitor-brand-name } monitors if your email has appeared in a data breach and alerts you if it appears in a new breach.
 onboarding-firefox-monitor-button = Sign up for Alerts
@@ -74,6 +80,7 @@ onboarding-browse-privately-text = Private Browsing clears your search and brows
 onboarding-browse-privately-button = Open a Private Window
 onboarding-firefox-send-title = Keep Your Shared Files Private
 onboarding-firefox-send-text = { -send-brand-name } protects the files you share with end-to-end encryption and a link that automatically expires.
+onboarding-firefox-send-text2 = Upload your files to { -send-brand-name } to share them with end-to-end encryption and a link that automatically expires.
 onboarding-firefox-send-button = Try { -send-brand-name }
 onboarding-mobile-phone-title = Get { -brand-product-name } on Your Phone
 onboarding-mobile-phone-text = Download { -brand-product-name } for iOS or Android and sync your data across devices.
@@ -88,12 +95,16 @@ onboarding-send-tabs-button = Start Using Send Tabs
 onboarding-pocket-anywhere-title = Read and Listen Anywhere
 # "downtime" refers to the user's free/spare time.
 onboarding-pocket-anywhere-text = { -pocket-brand-name } saves your favourite stories so you can read, listen, and watch during your downtime, even if you’re offline.
+onboarding-pocket-anywhere-text2 = Save your favourite content offline with the { -pocket-brand-name } App and read, listen, and watch whenever it’s convenient for you.
 onboarding-pocket-anywhere-button = Try { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Take Your Passwords Everywhere
 onboarding-lockwise-passwords-text = { -lockwise-brand-name } saves your passwords in a secure place so you can easily log in to your accounts.
 onboarding-lockwise-passwords-button = Get { -lockwise-brand-name }
+onboarding-lockwise-passwords-text2 = Keep the passwords you save secure and easily log in to your accounts with { -lockwise-brand-name }.
+onboarding-lockwise-passwords-button2 = Get the App
 onboarding-facebook-container-title = Set Boundaries with Facebook
 onboarding-facebook-container-text = { -facebook-container-brand-name } keeps your Facebook identity separate from everything else, making it harder to track you across the web.
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } keeps your profile separate from everything else, making it harder for Facebook to target you with ads.
 onboarding-facebook-container-button = Add the Extension
 
 ## Message strings belonging to the Return to AMO flow
