@@ -9,7 +9,9 @@ onboarding-button-label-learn-more = 더 알아보기
 onboarding-button-label-try-now = 지금 사용해보기
 onboarding-button-label-get-started = 시작하기
 onboarding-welcome-header = { -brand-short-name }를 사용해 주셔서 감사합니다.
+onboarding-welcome-body = 이제 브라우저가 있습니다.<br/>{ -brand-product-name } 나머지를 만나 보세요.
 onboarding-welcome-learn-more = 이점에 대해 더 알아보기.
+onboarding-join-form-header = { -brand-product-name }와 함께하기
 onboarding-join-form-body = 시작하려면 이메일 주소를 입력하십시오.
 onboarding-join-form-email =
     .placeholder = 이메일 입력
@@ -22,6 +24,8 @@ onboarding-start-browsing-button-label = 브라우징 시작
 ## description.
 
 onboarding-benefit-products-title = 유용한 제품
+onboarding-benefit-products-text = 내가 사용하는 모든 기기에서 개인 정보를 존중하는 도구를 사용하여 일을 완료합니다.
+onboarding-benefit-knowledge-title = 실용 지식
 onboarding-benefit-knowledge-text = 온라인에서 더 똑똑하고 안전하게 지내기 위해 알아야 할 모든 것을 배웁니다.
 onboarding-benefit-privacy-title = 진정한 개인 정보 보호 정책
 # "Personal Data Promise" is a concept that should be translated consistently
@@ -50,6 +54,7 @@ onboarding-ghostery-text = 귀찮은 광고들로부터 여러분을 막아주�
 onboarding-fxa-title = Sync
 onboarding-fxa-text = { -fxaccount-brand-name }에 가입해 { -brand-short-name }를 사용하는 모든 곳에서 북마크, 비밀번호, 열린 탭들을 동기화하세요.
 onboarding-tracking-protection-title = 추적되는 방법을 제어
+onboarding-tracking-protection-text = 광고가 당신을 따라다니는 것이 싫지 않나요? { -brand-short-name }는 광고주가 온라인 활동을 추적하는 방법을 제어하는데 도움이 됩니다.
 # "Update" is a verb, as in "Update the existing settings", not "Options about
 # updates".
 onboarding-tracking-protection-button =
@@ -57,15 +62,37 @@ onboarding-tracking-protection-button =
         [windows] 업데이트 옵션
        *[other] 업데이트 설정
     }
+onboarding-data-sync-title = 설정을 항상 유지하기
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = { -brand-product-name }를 사용하는 모든 곳에서 북마크와 비밀번호를 동기화하십시오.
 onboarding-data-sync-button = { -sync-brand-short-name } 켜기
-onboarding-firefox-monitor-title = 데이터 유출 경보 유지
+onboarding-firefox-monitor-title = 데이터 유출 알림
+onboarding-firefox-monitor-text = { -monitor-brand-name }는 데이터 유출 사건에 사용자의 이메일이 있는지를 모니터링하고 새 데이터 유출 사건에 있으면 사용자에게 경고합니다.
+onboarding-firefox-monitor-button = 알림 가입 신청
+onboarding-browse-privately-title = 사생활 보호 모드
+onboarding-browse-privately-text = 사생활 보호 모드가 검색 및 방문 기록을 지우기 떄문에 컴퓨터를 사용하는 모든 사람들이 사생활을 유지할 수 있습니다.
 onboarding-browse-privately-button = 사생활 보호 창 열기
+onboarding-firefox-send-title = 공유 파일 보호
+onboarding-firefox-send-text = { -send-brand-name }는 공유하는 파일을 종단 간 암호화 및 자동으로 만료되는 링크로 보호합니다.
+onboarding-firefox-send-button = { -send-brand-name }를 사용해보세요
+onboarding-mobile-phone-title = 휴대폰에서 { -brand-product-name } 받기
+onboarding-mobile-phone-text = iOS 또는 Android 용 { -brand-product-name }를 다운로드하고 기기간에 데이터를 동기화합니다.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = 모바일 브라우저 다운로드
+onboarding-send-tabs-title = 즉시 탭 보내기
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = 탭 보내기는 복사나 붙여넣기, 브라우저를 나가지 않고도 내 기기들로 페이지를 즉시 공유합니다.
 onboarding-send-tabs-button = 탭 보내기 사용 시작
+onboarding-pocket-anywhere-title = 어디서나 읽고 듣기
+# "downtime" refers to the user's free/spare time.
+onboarding-pocket-anywhere-text = { -pocket-brand-name }에 좋아하는 스토리를 저장하여 다운 타임이나 심지어 오프라인 일 때도 읽고 듣고 볼 수 있습니다.
+onboarding-pocket-anywhere-button = { -pocket-brand-name }을 사용해보세요
+onboarding-lockwise-passwords-title = 어디서나 비밀번호를 사용
+onboarding-lockwise-passwords-text = { -lockwise-brand-name }는 비밀번호를 안전한 장소에 저장하여 계정에 쉽게 로그인 할 수 있도록 합니다.
+onboarding-lockwise-passwords-button = { -lockwise-brand-name } 받기
+onboarding-facebook-container-title = Facebook 경계 설정
 onboarding-facebook-container-button = 확장 기능 추가
 
 ## Message strings belonging to the Return to AMO flow
