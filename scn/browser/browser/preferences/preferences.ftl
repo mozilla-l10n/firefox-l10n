@@ -579,16 +579,86 @@ history-remember-option-never =
     .label = Nun ricurdari mai la crunuluggìa
 history-remember-option-custom =
     .label = Usa mpustazziuna pirsunalizzati pâ crunuluggìa
+history-remember-description = { -brand-short-name } ricurdarà la to navigazziuni, li scarricamenti, li mòduli e la crunuluggìa di ricerca.
+history-dontremember-description = { -brand-short-name } usarà li stissi mpustazziuna pâ navigazziuni privata, e nun ricurdarà nuḍḍa crunuluggìa mentri nàvighi nnâ Riti.
+history-private-browsing-permanent =
+    .label = Usa sempri la mudalità di navigazziuni privata
+    .accesskey = p
+history-remember-browser-option =
+    .label = Ricorda la crunuluggìa di navigazziuni e scarricamenti
+    .accesskey = b
+history-remember-search-option =
+    .label = Ricorda crunuluggìa di ricerca e mòduli
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Cancella la crunuluggìa quannu { -brand-short-name } si chiuji
+    .accesskey = r
+history-clear-on-close-settings =
+    .label = Mpustazziuna...
+    .accesskey = t
+history-clear-button =
+    .label = Cancella la crunuluggìa...
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookie e dati dî siti
+sitedata-total-size-calculating = Staju carculannu li diminziuna dî dati dî siti e dû dipòsitu...
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Li cookie, li dati dî siti, e lu dipòsitu sarbati a stu mumentu ùsanu { $value } { $unit } di spazziu nnô discu.
 sitedata-learn-more = Cchiù nfurmazziuna
+sitedata-delete-on-close =
+    .label = Cancella cookie e dati dî siti quannu { -brand-short-name } è chiusu
+    .accesskey = c
+sitedata-delete-on-close-private-browsing = Câ navigazziuni privata pirmanenti, li cookie e li dati dî siti vennu sempri cancillati quannu { -brand-short-name } veni chiusu.
+sitedata-allow-cookies-option =
+    .label = Accetta li cookie e li dati dî siti
+    .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = Blocca li cookie e li dati dî siti
+    .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Tipu bluccatu
+    .accesskey = T
+sitedata-option-block-trackers =
+    .label = Trazzatura di terzi parti
+sitedata-option-block-unvisited =
+    .label = Cookie di siti nun visitati
+sitedata-option-block-all-third-party =
+    .label = Tutti li cookie di terzi parti (putissi fari ncippari li siti)
+sitedata-option-block-all =
+    .label = Tutti li cookie (farà ncippari li siti)
+sitedata-clear =
+    .label = Cancella dati...
+    .accesskey = l
+sitedata-settings =
+    .label = Gistisci dati...
+    .accesskey = M
+sitedata-cookies-permissions =
+    .label = Gistisci pirmisi...
+    .accesskey = P
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Barra dû nnirizzu
+addressbar-suggest = Quannu si usa la barra dû nnirizzu, duna suggirimenti
+addressbar-locbar-history-option =
+    .label = Crunuluggìa di navigazziuni
+    .accesskey = h
+addressbar-locbar-bookmarks-option =
+    .label = Nzingalibbra
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = Schedi graputi
+    .accesskey = O
+addressbar-suggestions-settings = Cancia li prifirenzi pî suggirimenti di muturi di ricerca
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Bluccaggiu di cuntinutu
 content-blocking-learn-more = Cchiù nfurmazziuna
 
 ## Privacy Section - Tracking
