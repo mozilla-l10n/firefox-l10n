@@ -34,6 +34,7 @@ abuse-report-submit-button = Gửi
 abuse-report-messagebar-aborted = Báo cáo về <span data-l10n-name="addon-name">{ $addon-name }</span> đã bị hủy.
 abuse-report-messagebar-submitting = Đang gửi báo cáo về <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Cám ơn bạn đã gửi báo cáo. Bạn có muốn xóa <span data-l10n-name="addon-name">{ $addon-name }</span> không?
+abuse-report-messagebar-submitted-noremove = Cảm ơn bạn đã gửi báo cáo.
 abuse-report-messagebar-removed-extension = Cảm ơn bạn đã gửi báo cáo. Bạn đã xóa phần mở rộng <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = Cảm ơn bạn đã gửi báo cáo. Bạn đã xóa chủ đề <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Đã xảy ra lỗi khi gửi báo cáo về <span data-l10n-name="addon-name">{ $addon-name }</span>.
@@ -41,8 +42,10 @@ abuse-report-messagebar-error-recent-submit = Báo cáo về <span data-l10n-nam
 
 ## Message bars actions.
 
-abuse-report-messagebar-action-remove = Vâng, loại bỏ nó
-abuse-report-messagebar-action-keep = Không, tôi sẽ giữ nó
+abuse-report-messagebar-action-remove-extension = Vâng, loại bỏ nó
+abuse-report-messagebar-action-keep-extension = Không, tôi sẽ giữ nó
+abuse-report-messagebar-action-remove-theme = Vâng, loại bỏ nó
+abuse-report-messagebar-action-keep-theme = Không, tôi sẽ giữ nó
 abuse-report-messagebar-action-retry = Thử lại
 abuse-report-messagebar-action-cancel = Hủy
 
