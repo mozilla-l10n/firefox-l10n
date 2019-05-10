@@ -32,6 +32,7 @@ abuse-report-submit-button = Odeslat
 abuse-report-messagebar-aborted = Nahlášení doplňku <span data-l10n-name="addon-name">{ $addon-name }</span> bylo zrušeno.
 abuse-report-messagebar-submitting = Odesílání hlášení doplňku <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Děkujeme za nahlášení. Chcete doplněk <span data-l10n-name="addon-name">{ $addon-name }</span> odebrat?
+abuse-report-messagebar-submitted-noremove = Děkujeme vám za hlášení.
 abuse-report-messagebar-removed-extension = Děkujeme za nahlášení. Rozšíření <span data-l10n-name="addon-name">{ $addon-name }</span> bylo odebráno.
 abuse-report-messagebar-removed-theme = Děkujeme za nahlášení. Vzhled <span data-l10n-name="addon-name">{ $addon-name }</span> byl odebrán.
 abuse-report-messagebar-error = Při odesílání hlášení pro <span data-l10n-name="addon-name">{ $addon-name }</span> došlo k chybě.
@@ -39,8 +40,10 @@ abuse-report-messagebar-error-recent-submit = Doplněk <span data-l10n-name="add
 
 ## Message bars actions.
 
-abuse-report-messagebar-action-remove = Ano, odebrat
-abuse-report-messagebar-action-keep = Ne, ponechat
+abuse-report-messagebar-action-remove-extension = Ano, odebrat
+abuse-report-messagebar-action-keep-extension = Ne, ponechat
+abuse-report-messagebar-action-remove-theme = Ano, odebrat
+abuse-report-messagebar-action-keep-theme = Ne, ponechat
 abuse-report-messagebar-action-retry = Zkusit znovu
 abuse-report-messagebar-action-cancel = Zrušit
 
