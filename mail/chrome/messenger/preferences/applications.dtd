@@ -34,5 +34,7 @@
 <!ENTITY authRequired.button.label        "Autorizovať">
 <!ENTITY authRequired.button.accesskey    "A">
 
+<!ENTITY findCloudFileProviders.label     "Nájsť ďalších poskytovateľov…">
+
 <!ENTITY enableCloudFileAccountOffer.label "Ponúkať odoslanie súbor na online úložisko pre súbory väčšie ako">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
