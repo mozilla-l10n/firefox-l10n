@@ -15,6 +15,7 @@ about-telemetry-option-group-older = Ранее
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Данные телеметрии
+about-telemetry-current-store = Текущее хранилище:
 about-telemetry-more-information = Ищете больше информации?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Документация по данным Firefox</a> содержит руководства по работе с нашими инструментами сбора данных.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Документация клиента телеметрии Firefox</a> содержит определения концепций, документацию по API и справку по данным.
