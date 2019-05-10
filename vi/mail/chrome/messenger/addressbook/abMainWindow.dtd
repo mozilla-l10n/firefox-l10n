@@ -179,14 +179,14 @@ because displayed names don't have the comma in between. -->
 <!ENTITY PagerNumber.accesskey                          "M">
 <!ENTITY FaxNumber.label                                "Fax">
 <!ENTITY FaxNumber.accesskey                            "F">
-<!ENTITY HomePhone.label                                "Điện thoại Nhà">
-<!ENTITY HomePhone.accesskey                            "N">
-<!ENTITY WorkPhone.label                                "Điện thoại Công ty">
-<!ENTITY WorkPhone.accesskey                            "y">
-<!ENTITY sortAscending.label                            "Thuận chiều">
-<!ENTITY sortAscending.accesskey                        "i">
-<!ENTITY sortDescending.label                           "Ngược chiều">
-<!ENTITY sortDescending.accesskey                       "g">
+<!ENTITY HomePhone.label                                "Điện thoại nhà">
+<!ENTITY HomePhone.accesskey                            "H">
+<!ENTITY WorkPhone.label                                "Điện thoại công ty">
+<!ENTITY WorkPhone.accesskey                            "W">
+<!ENTITY sortAscending.label                            "Tăng dần">
+<!ENTITY sortAscending.accesskey                        "A">
+<!ENTITY sortDescending.label                           "Giảm dần">
+<!ENTITY sortDescending.accesskey                       "D">
 <!ENTITY _PhoneticName.label                            "Tên ngữ âm">
 <!ENTITY _PhoneticName.accesskey                        "o">
 

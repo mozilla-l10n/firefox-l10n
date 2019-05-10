@@ -16,13 +16,23 @@
 <!ENTITY NickName.accesskey                    "i">
 <!ENTITY SecondEmail.label                     "Email phụ">
 <!ENTITY SecondEmail.accesskey                 "l">
+<!ENTITY Department.label                      "Bộ phận">
+<!ENTITY Department.accesskey                  "r">
 <!ENTITY JobTitle.label                        "Chức vụ">
 <!ENTITY JobTitle.accesskey                    "T">
 <!ENTITY CellularNumber.label                  "Di động">
 <!ENTITY CellularNumber.accesskey              "M">
+<!ENTITY PagerNumber.label                     "Máy nhắn tin">
+<!ENTITY PagerNumber.accesskey                 "P">
 <!ENTITY FaxNumber.label                       "Fax">
 <!ENTITY FaxNumber.accesskey                   "F">
 <!ENTITY HomePhone.label                       "Điện thoại nhà">
 <!ENTITY HomePhone.accesskey                   "H">
 <!ENTITY WorkPhone.label                       "Điện thoại công ty">
 <!ENTITY WorkPhone.accesskey                   "W">
+<!ENTITY ChatName.label                        "Tên trò chuyện:">
+<!ENTITY ChatName.accesskey                    "C">
+<!ENTITY sortAscending.label                   "Tăng dần">
+<!ENTITY sortAscending.accesskey               "A">
+<!ENTITY sortDescending.label                  "Giảm dần">
+<!ENTITY sortDescending.accesskey              "D">
