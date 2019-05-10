@@ -293,6 +293,10 @@ created-by-author = gan <a data-l10n-name="author">{ $author }</a>
 user-count = Defnyddwyr: { $dailyUsers }
 install-extension-button = Ychwanegu at { -brand-product-name }
 install-theme-button = Gosod Thema
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Rheoli
+find-more-addons = Canfod rhagor o ychwanegion
 
 ## Add-on actions
 
@@ -311,6 +315,11 @@ addon-detail-version-label = Fersiwn
 addon-detail-last-updated-label = Diweddarwyd Diwethaf
 addon-detail-homepage-label = Tudalen Cartref
 addon-detail-rating-label = Graddio
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Graddiwyd { NUMBER($rating, maximumFractionDigits: 1) } allan o 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
