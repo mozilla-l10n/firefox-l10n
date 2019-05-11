@@ -3,5 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = പുനഃരാരംഭിക്കേണ്ടത് ആവശ്യമാണ്
-restart-required-header = ഒരൊറ്റ കാര്യം കൂടി..
+restart-required-header = ക്ഷമിക്കണം.ഒരു ചെറിയ കാര്യം ചെയ്യണം നിങ്ങൾക്ക് തുടരാൻ.
 restart-button-label = { -brand-short-name } പുനരാരംഭിക്കുക
