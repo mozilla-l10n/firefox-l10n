@@ -27,6 +27,6 @@ sync-label = Inserisci la tua email
 sync-input =
   .placeholder = Email
 sync-button = Continua
-sync-terms = Proseguendo, accetto le <a data-l10n-name="terms">condizioni di utilizzo del servizio</a> e l’<a data-l10n-name="privacy">informativa sulla privacy</a>.
+sync-terms = Proseguendo, accetti le <a data-l10n-name="terms">condizioni di utilizzo del servizio</a> e l’<a data-l10n-name="privacy">informativa sulla privacy</a>.
 sync-first = È la prima volta che utilizzi { -sync-brand-name }? Dovrai accedere in ogni installazione di Firefox per sincronizzare i dati.
 sync-learn = Ulteriori informazioni

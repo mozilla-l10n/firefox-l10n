@@ -13,7 +13,7 @@ onboarding-join-form-body = Inserisci il tuo indirizzo email per iniziare
 onboarding-join-form-email =
     .placeholder = Inserisci email
 onboarding-join-form-email-error = Inserisci un indirizzo email valido
-onboarding-join-form-legal = Proseguendo, accetto le <a data-l10n-name="terms">condizioni di utilizzo del servizio</a> e l’<a data-l10n-name="privacy">informativa sulla privacy</a>.
+onboarding-join-form-legal = Proseguendo, accetti le <a data-l10n-name="terms">condizioni di utilizzo del servizio</a> e l’<a data-l10n-name="privacy">informativa sulla privacy</a>.
 onboarding-join-form-continue = Continua
 onboarding-start-browsing-button-label = Inizia a navigare
 onboarding-benefit-products-title = Prodotti al tuo servizio
@@ -50,7 +50,7 @@ onboarding-data-sync-text2 = Sincronizza segnalibri, password e molto altro in t
 onboarding-data-sync-button2 = Accedi a { -sync-brand-short-name }
 
 onboarding-firefox-monitor-title = Tieni sotto controllo le violazioni di dati
-onboarding-firefox-monitor-text = { -monitor-brand-name } verifica se la tua email è stata coinvolta in una violazione di dati e ti segnala se appare in una nuova violazione.
+onboarding-firefox-monitor-text = { -monitor-brand-name } verifica se la tua email è stata coinvolta in una violazione di dati e ti avvisa se appare in una nuova violazione.
 onboarding-firefox-monitor-button = Iscriviti agli avvisi
 
 onboarding-browse-privately-title = Naviga in modo riservato
@@ -83,7 +83,7 @@ onboarding-lockwise-passwords-button2 = Scarica l’app
 
 onboarding-facebook-container-title = Metti un limite a Facebook
 onboarding-facebook-container-text = { -facebook-container-brand-name } mantiene la tua identità Facebook separata da tutto il resto. In questo modo, tracciarti attraverso il Web diventa più complicato.
-onboarding-facebook-container-text2 = { -facebook-container-brand-name } mantiene il tuoi profilo separato da tutto il resto. In questo modo diventerà più difficile per Facebook mostrarti pubblicità mirate.
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } mantiene il tuo profilo separato da tutto il resto. In questo modo per Facebook diventerà più difficile mostrarti pubblicità mirate.
 onboarding-facebook-container-button = Aggiungi l’estensione
 
 return-to-amo-sub-header = Ottimo, ora hai installato { -brand-short-name }
