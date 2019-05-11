@@ -25,3 +25,8 @@ inactive-css-not-flex-container = <strong>{ $property }</strong> não tem efeito
 ## the problem can be solved.
 
 inactive-css-not-grid-or-flex-container-fix = Tente adicionar <strong>display:grid</strong> ou <strong>display:flex</strong>. { learn-more }
+inactive-css-not-grid-or-flex-item-fix = Tente adicionar <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> ou <strong>display:inline-flex</strong>. { learn-more }
+inactive-css-not-grid-item-fix = Tente adicionar <strong>display:grid</strong> ou <strong>display:inline-grid</strong> ao parente do item. { learn-more }
+inactive-css-not-grid-container-fix = Tente adicionar <strong>display:grid</strong> ou <strong>display:inline-grid</strong>. { learn-more }
+inactive-css-not-flex-item-fix = Tente adicionar <strong>display:flex</strong> ou <strong>display:inline-flex</strong> ao parente do item. { learn-more }
+inactive-css-not-flex-container-fix = Tente adicionar <strong>display:flex</strong> ou <strong>display:inline-flex</strong>. { learn-more }
