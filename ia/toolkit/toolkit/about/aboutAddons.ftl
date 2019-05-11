@@ -312,7 +312,7 @@ addon-detail-rating-label = Valutation
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
-    .title = { NUMBER($rating, maximumFractionDigits: 1) }Voto: { NUMBER($rating, maximumFractionDigits: 1) } su 5
+    .title = Voto: { NUMBER($rating, maximumFractionDigits: 1) } su 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
