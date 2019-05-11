@@ -178,6 +178,7 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Tham dự">
 <!ENTITY calendar.context.attendance.menu.accesskey             "d">
 <!ENTITY calendar.context.attendance.occurrence.label           "Lần xuất hiện này">
+<!ENTITY calendar.context.attendance.all2.label                 "Tất cả các chuỗi sự kiện">
 <!ENTITY calendar.context.attendance.send.label                 "Gửi thông báo ngay bây giờ">
 <!ENTITY calendar.context.attendance.send.accesskey             "S">
 <!ENTITY calendar.context.attendance.dontsend.label             "Không gửi thông báo">

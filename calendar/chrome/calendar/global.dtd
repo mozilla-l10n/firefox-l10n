@@ -46,6 +46,8 @@
 
 <!ENTITY onemonthbackward.tooltip "Lùi một tháng" >
 <!ENTITY onemonthforward.tooltip "Tiến Một Tháng" >
+<!ENTITY oneyearbackward.tooltip "Một năm trước" >
+<!ENTITY oneyearforward.tooltip "Một năm tiếp" >
 <!ENTITY showToday.tooltip "Nhảy tới Hôm nay">
 <!ENTITY onedayforward.tooltip "Tiến Một Ngày">
 <!ENTITY onedaybackward.tooltip "Lùi một ngày">

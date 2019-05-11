@@ -373,6 +373,8 @@
 <!ENTITY invite.title.label                     "Mời khách Tham dự">
 <!ENTITY event.organizer.label                  "Người tổ chức">
 <!ENTITY event.freebusy.suggest.slot            "Đề xuất khung thời gian:">
+<!ENTITY event.freebusy.button.next.slot        "Khe tiếp theo">
+<!ENTITY event.freebusy.button.previous.slot    "Khe trước">
 <!ENTITY event.freebusy.zoom                    "Thu phóng:">
 <!ENTITY event.freebusy.legend.free             "Rảnh" >
 <!ENTITY event.freebusy.legend.busy             "Bận" >
