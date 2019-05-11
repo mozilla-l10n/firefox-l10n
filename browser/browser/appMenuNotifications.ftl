@@ -24,6 +24,7 @@ appmenu-update-unsupported =
     .buttonaccesskey = M
     .secondarybuttonlabel = Sluiten
     .secondarybuttonaccesskey = S
+appmenu-update-unsupported-message = De nieuwste versie van { -brand-shorter-name } wordt niet ondersteund op uw systeem.
 appmenu-update-restart =
     .label = Herstart om { -brand-shorter-name } bij te werken.
     .buttonlabel = Herstarten en herstellen

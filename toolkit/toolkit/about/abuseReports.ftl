@@ -34,6 +34,7 @@ abuse-report-submit-button = Verzenden
 abuse-report-messagebar-aborted = Rapport voor <span data-l10n-name="addon-name">{ $addon-name }</span> geannuleerd.
 abuse-report-messagebar-submitting = Rapport verzenden voor <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Bedankt voor het indienen van een rapport. Wilt u <span data-l10n-name="addon-name">{ $addon-name }</span> verwijderen?
+abuse-report-messagebar-submitted-noremove = Bedankt voor het indienen van een rapport.
 abuse-report-messagebar-removed-extension = Bedankt voor het indienen van een rapport. U heeft de extensie <span data-l10n-name="addon-name">{ $addon-name }</span> verwijderd.
 abuse-report-messagebar-removed-theme = Bedankt voor het indienen van een rapport. U heeft het thema <span data-l10n-name="addon-name">{ $addon-name }</span> verwijderd.
 abuse-report-messagebar-error = Er is een fout opgetreden bij het verzenden van een rapport voor <span data-l10n-name="addon-name">{ $addon-name }</span>.
@@ -41,8 +42,6 @@ abuse-report-messagebar-error-recent-submit = Het rapport voor <span data-l10n-n
 
 ## Message bars actions.
 
-abuse-report-messagebar-action-remove = Ja, verwijderen
-abuse-report-messagebar-action-keep = Nee, behouden
 abuse-report-messagebar-action-retry = Opnieuw proberen
 abuse-report-messagebar-action-cancel = Annuleren
 

@@ -167,6 +167,9 @@ private-browsing-description2 =
 extensions-view-discover =
     .name = Add-ons verkrijgen
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Aanbevelingen
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Recente updates
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -272,8 +275,28 @@ shortcuts-card-collapse-button = Minder tonen
 go-back-button =
     .tooltiptext = Teruggaan
 
+## Recommended add-ons page
+
+discopane-notice-learn-more = Meer info
+privacy-policy = Privacybeleid
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = door <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Gebruikers: { $dailyUsers }
+install-extension-button = Toevoegen aan { -brand-product-name }
+install-theme-button = Thema installeren
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Beheren
+find-more-addons = Meer add-ons zoeken
+
 ## Add-on actions
 
+report-addon-button = Rapporteren
 remove-addon-button = Verwijderen
 disable-addon-button = Uitschakelen
 enable-addon-button = Inschakelen
@@ -288,6 +311,11 @@ addon-detail-version-label = Versie
 addon-detail-last-updated-label = Laatst bijgewerkt
 addon-detail-homepage-label = Startpagina
 addon-detail-rating-label = Waardering
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Beoordeeld met { NUMBER($rating, maximumFractionDigits: 1) } van de 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -322,4 +350,3 @@ addon-detail-private-browsing-allow = Toestaan
 addon-detail-private-browsing-disallow = Niet toestaan
 available-updates-heading = Beschikbare updates
 recent-updates-heading = Recente updates
-
