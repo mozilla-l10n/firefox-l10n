@@ -58,6 +58,7 @@ onboarding-tracking-protection-button2 = Kak funguje
 onboarding-data-sync-title = Wzmiće swoje nastajenja sobu
 onboarding-data-sync-button = { -sync-brand-short-name } zapinać
 onboarding-data-sync-button2 = Pola { -sync-brand-short-name } přizjewić
+onboarding-firefox-monitor-button = Za zdźělenki registrować
 onboarding-browse-privately-title = Přehladowajće z priwatnosću
 onboarding-browse-privately-button = Priwatne wokno wočinić
 onboarding-firefox-send-title = Dźeržće swoje dźělene dataje priwatne
