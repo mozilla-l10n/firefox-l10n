@@ -69,6 +69,10 @@ onboarding-data-sync-title = Pasiimkite savo nuostatas kartu
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = Sinchronizuokite adresyną ir slaptažodžius visur, kur naudojate „{ -brand-product-name }“.
 onboarding-data-sync-button = Įjungti „{ -sync-brand-short-name }“
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Sinchronizuokite adresyną, slaptažodžius ir daugiau visur, kur naudojate „{ -brand-product-name }“.
+onboarding-data-sync-button2 = Prisijungti prie „{ -sync-brand-short-name }“
+onboarding-firefox-monitor-title = Būkite įspėti apie duomenų pažeidimus
 
 ## Message strings belonging to the Return to AMO flow
 
