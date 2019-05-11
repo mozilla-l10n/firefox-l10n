@@ -10,6 +10,10 @@ onboarding-button-label-try-now = Coba Sekarang
 onboarding-button-label-get-started = Bersiap
 onboarding-welcome-header = Selamat datang di { -brand-short-name }
 onboarding-welcome-learn-more = Pelajari lebih lanjut tentang manfaatnya.
+onboarding-join-form-email =
+    .placeholder = Masukan surel
+onboarding-join-form-email-error = Surel harus valid
+onboarding-join-form-continue = Lanjut
 onboarding-start-browsing-button-label = Mulai Menjelajah
 
 ## These are individual benefit messages shown with an image, title and
