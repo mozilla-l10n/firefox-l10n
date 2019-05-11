@@ -55,3 +55,7 @@ cfr-doorhanger-pintab-step2 = Iš meniu pasirinkite <b>įsegti kortelę</b>.
 cfr-doorhanger-pintab-step3 = Jeigu svetainė atsinaujino, ant įsegtos kortelės matysite mėlyną tašką.
 cfr-doorhanger-pintab-animation-pause = Pristabdyti
 cfr-doorhanger-pintab-animation-resume = Tęsti
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Sinchronizuokite adresyną visuose įrenginiuose.
