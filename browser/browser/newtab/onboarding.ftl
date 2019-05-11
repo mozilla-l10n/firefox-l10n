@@ -28,6 +28,12 @@ onboarding-benefit-products-text = Atlikite darbus su įrankių šeima, kuri ger
 onboarding-benefit-knowledge-title = Praktinės žinios
 onboarding-benefit-knowledge-text = Išmokite visko, ko reikia žinoti, kad internete išliktumėte protingesni ir saugesni.
 onboarding-benefit-privacy-title = Tikras privatumas
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Viskas, ką darome, atitinka mūsų Asmeninių duomenų pažadą: imti mažiau. Laikyti saugiai. Jokių paslapčių.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -47,6 +53,16 @@ onboarding-ghostery-text = Naršykite greičiau, protingiau, ar saugiau su tokia
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sinchronizavimas
 onboarding-fxa-text = Susikurkite „{ -fxaccount-brand-name }“ ir sinchronizuokite savo adresyną, slaptažodžius, ir atvertas korteles visur, kur naudojate „{ -brand-short-name }“.
+onboarding-tracking-protection-title = Valdykite, kaip esate sekami.
+onboarding-tracking-protection-text = Nemėgstate, kai reklamos seka jums iš paskos? „{ -brand-short-name }“ padeda jums valdyti būdus, kaip reklamų siūlytojai gali stebėti jūsų veiklą internete.
+# "Update" is a verb, as in "Update the existing settings", not "Options about
+# updates".
+onboarding-tracking-protection-button =
+    { PLATFORM() ->
+        [windows] Atnaujinti nuostatas
+       *[other] Atnaujinti nuostatas
+    }
+onboarding-tracking-protection-title2 = Apsauga nuo stebėjimo
 
 ## Message strings belonging to the Return to AMO flow
 
