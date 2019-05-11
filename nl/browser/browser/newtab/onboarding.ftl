@@ -75,8 +75,11 @@ onboarding-data-sync-button2 = Aanmelden bij { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Blijf alert op datalekken
 onboarding-firefox-monitor-text = { -monitor-brand-name } houdt in de gaten of uw e-mailadres voor komt in een datalek en waarschuwt u als dit in een nieuw lek verschijnt.
 onboarding-firefox-monitor-button = Inschrijven voor waarschuwingen
+onboarding-browse-privately-title = Privé browsen
+onboarding-browse-privately-text = Privénavigatie wist uw zoek- en navigatiegeschiedenis, om dit geheim te houden voor iedereen die uw computer gebruikt.
 onboarding-browse-privately-button = Open een privévenster
 onboarding-firefox-send-title = Houd uw gedeelde bestanden privé
+onboarding-firefox-send-text = { -send-brand-name } beschermt de bestanden die u deelt met end-to-endversleuteling en een koppeling die automatisch vervalt.
 onboarding-pocket-anywhere-button = Probeer { -pocket-brand-name }
 onboarding-lockwise-passwords-button = Download { -lockwise-brand-name }
 
