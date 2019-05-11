@@ -70,9 +70,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Aktifkan DNS lewat HTTPS
     .accesskey = D
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = URL untuk mendapatkan DNS lewat HTTPS
 # Variables:
 #   $url (String) - URL for the DNS over HTTPS provider
 connection-dns-over-https-url-default =
@@ -83,3 +80,4 @@ connection-dns-over-https-url-custom =
     .label = Khusus
     .accesskey = K
     .tooltiptext = Masukkan URL yang diinginkan untuk mendapatkan DNS lewat HTTPS
+connection-dns-over-https-custom-label = Ubahsuai
