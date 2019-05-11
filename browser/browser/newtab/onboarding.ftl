@@ -63,6 +63,12 @@ onboarding-tracking-protection-button =
        *[other] Atnaujinti nuostatas
     }
 onboarding-tracking-protection-title2 = Apsauga nuo stebėjimo
+onboarding-tracking-protection-text2 = „{ -brand-short-name }“ padeda sustabdyti svetaines nuo jūsų stebėjimo internete, taip apsunkinant jus sekančių reklamų veikimą naršant.
+onboarding-tracking-protection-button2 = Kaip tai veikia
+onboarding-data-sync-title = Pasiimkite savo nuostatas kartu
+# "Sync" is short for synchronize.
+onboarding-data-sync-text = Sinchronizuokite adresyną ir slaptažodžius visur, kur naudojate „{ -brand-product-name }“.
+onboarding-data-sync-button = Įjungti „{ -sync-brand-short-name }“
 
 ## Message strings belonging to the Return to AMO flow
 
