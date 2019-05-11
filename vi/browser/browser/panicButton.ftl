@@ -15,7 +15,7 @@ panic-main-timeframe-desc = Xóa dữ liệu từ thời điểm:
 panic-button-5min =
     .label = Năm phút trước
 panic-button-2hr =
-    .label = Hai tiếng trước
+    .label = Hai tiếng
 panic-button-day =
     .label = 24 giờ trước
 
