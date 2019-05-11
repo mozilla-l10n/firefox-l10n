@@ -23,6 +23,7 @@
 <!ENTITY InitialText.label "Văn bản ban đầu:">
 <!ENTITY InitialText.accessKey "V">
 
+<!ENTITY TextAreaWrap.label "Chế độ ngắt dòng:">
 <!ENTITY TextAreaWrap.accessKey "B">
 <!ENTITY WrapDefault.value "Mặc định">
 <!ENTITY WrapOff.value "Tắt">
