@@ -80,6 +80,19 @@ onboarding-browse-privately-text = Privénavigatie wist uw zoek- en navigatieges
 onboarding-browse-privately-button = Open een privévenster
 onboarding-firefox-send-title = Houd uw gedeelde bestanden privé
 onboarding-firefox-send-text = { -send-brand-name } beschermt de bestanden die u deelt met end-to-endversleuteling en een koppeling die automatisch vervalt.
+onboarding-firefox-send-text2 = Upload uw bestanden naar { -send-brand-name } om ze te delen met end-to-endversleuteling en een koppeling die automatisch vervalt.
+onboarding-firefox-send-button = Probeer { -send-brand-name }
+onboarding-mobile-phone-title = Download { -brand-product-name } naar uw telefoon
+onboarding-mobile-phone-text = Download { -brand-product-name } voor iOS of Android en synchroniseer uw gegevens op verschillende apparaten.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Download de browser voor mobiel
+onboarding-send-tabs-title = Stuur uzelf onmiddellijk tabbladen
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Send Tabs deelt onmiddellijk pagina’s tussen uw apparaten zonder dat u hoeft te kopiëren, plakken of de browser hoeft te verlaten.
+onboarding-send-tabs-button = Start met het gebruik van Send Tabs
+onboarding-pocket-anywhere-title = Lees en luister overal
 onboarding-pocket-anywhere-button = Probeer { -pocket-brand-name }
 onboarding-lockwise-passwords-button = Download { -lockwise-brand-name }
 
