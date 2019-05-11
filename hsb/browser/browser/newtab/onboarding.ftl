@@ -66,6 +66,8 @@ onboarding-mobile-phone-title = Instalujće sej { -brand-product-name } na swoji
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Mobilny wobhladowak sćahnyć
+onboarding-send-tabs-title = Sćelće hnydom rajtarki
+onboarding-send-tabs-button = Wužiwajće Send Tabs
 onboarding-pocket-anywhere-title = Čitajće a słuchajće wšudźe
 onboarding-pocket-anywhere-button = { -pocket-brand-name } wupruwować
 onboarding-lockwise-passwords-title = Wzmiće swoje hesła wšudźe sobu
