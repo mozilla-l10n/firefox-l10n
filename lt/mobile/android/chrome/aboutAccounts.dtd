@@ -10,4 +10,4 @@
 <!ENTITY aboutAccounts.retry.label "Bandyti vėl">
 
 <!ENTITY aboutAccounts.restrictedError.title "Apribota">
-<!ENTITY aboutAccounts.restrictedError.description "Su šiuo profiliu negalite tvarkyti „Firefox“ paskyrų">
+<!ENTITY aboutAccounts.restrictedError.description "Su šiuo profiliu negalite tvarkyti „Firefox“ paskyrų.">
