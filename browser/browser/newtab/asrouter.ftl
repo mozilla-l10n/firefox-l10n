@@ -61,6 +61,7 @@ cfr-doorhanger-pintab-animation-resume = Pokročować
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synchronizujće swoje zapołožki wšudźe.
+cfr-doorhanger-bookmark-fxa-body = Wulkotna namakanka! Njewostawajće bjez tuteje zapołožki na swojich mobilnych gratach. Započńće z { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Synchronizujće nětko zapołožki…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tłóčatko Začinić
