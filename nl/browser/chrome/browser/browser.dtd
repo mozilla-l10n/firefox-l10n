@@ -531,6 +531,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeExtension.label "Extensie verwijderen">
 <!ENTITY customizeMenu.removeExtension.accesskey "r">
 
+<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
+     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.label "Extensie rapporteren">
+<!ENTITY customizeMenu.reportExtension.accesskey "r">
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
@@ -1180,4 +1186,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Extensies beheren">
 <!ENTITY addonPrivateBrowsing.manageButton.accesskey "b">
-
