@@ -38,6 +38,9 @@ onboarding-ghostery-text = Jelajahi lebih cepat, lebih cerdas, atau lebih aman d
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sinkronkan
 onboarding-fxa-text = Daftar { -fxaccount-brand-name } dan sinkronkan markah, kata sandi Anda, dan buka tab di mana pun Anda menggunakan { -brand-short-name }.
+onboarding-tracking-protection-title = Kendalikan Bagaimana Anda Dilacak
+onboarding-browse-privately-button = Buka Jendela Pribadi
+onboarding-firefox-send-button = Coba { -send-brand-name }
 
 ## Message strings belonging to the Return to AMO flow
 
