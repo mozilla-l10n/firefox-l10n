@@ -28,6 +28,12 @@ onboarding-benefit-products-text = Krijg zaken gedaan met een aantal hulpmiddele
 onboarding-benefit-knowledge-title = Praktische kennis
 onboarding-benefit-knowledge-text = Leer alles wat u moet weten om slimmer en veiliger online te blijven.
 onboarding-benefit-privacy-title = Echte privacy
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Alles wat we doen, staat in het teken van onze belofte voor persoonlijke gegevens: neem minder. Houd het veilig. Geen geheimen.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -48,6 +54,27 @@ onboarding-ghostery-text = Surf sneller, slimmer of veiliger met extensies zoals
 onboarding-fxa-title = Synchroniseren
 onboarding-fxa-text = Maak een { -fxaccount-brand-name } aan en synchroniseer uw bladwijzers, wachtwoorden en open tabbladen, overal waar u { -brand-short-name } gebruikt.
 onboarding-tracking-protection-title = Bepaal hoe u wordt gevolgd
+onboarding-tracking-protection-text = Vind u het niet leuk als u wordt gevolgd door advertenties? Met { -brand-short-name } bepaalt u hoe adverteerders uw online activiteit bijhouden.
+# "Update" is a verb, as in "Update the existing settings", not "Options about
+# updates".
+onboarding-tracking-protection-button =
+    { PLATFORM() ->
+        [windows] Updateopties
+       *[other] Updatevoorkeuren
+    }
+onboarding-tracking-protection-title2 = Bescherming tegen volgen
+onboarding-tracking-protection-text2 = { -brand-short-name } helpt voorkomen dat websites u online volgen, waardoor het voor advertenties moeilijker wordt om u op het web te volgen.
+onboarding-tracking-protection-button2 = Hoe het werkt
+onboarding-data-sync-title = Neem uw instellingen met u mee
+# "Sync" is short for synchronize.
+onboarding-data-sync-text = Synchroniseer uw bladwijzers en wachtwoorden overal waar u { -brand-product-name } gebruikt.
+onboarding-data-sync-button = { -sync-brand-short-name } inschakelen
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Synchroniseer uw bladwijzers, wachtwoorden en meer, overal waar u { -brand-product-name } gebruikt.
+onboarding-data-sync-button2 = Aanmelden bij { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Blijf alert op datalekken
+onboarding-firefox-monitor-text = { -monitor-brand-name } houdt in de gaten of uw e-mailadres voor komt in een datalek en waarschuwt u als dit in een nieuw lek verschijnt.
+onboarding-firefox-monitor-button = Inschrijven voor waarschuwingen
 onboarding-browse-privately-button = Open een privévenster
 onboarding-firefox-send-title = Houd uw gedeelde bestanden privé
 onboarding-pocket-anywhere-button = Probeer { -pocket-brand-name }
