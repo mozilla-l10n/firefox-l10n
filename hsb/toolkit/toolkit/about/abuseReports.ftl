@@ -8,6 +8,9 @@ abuse-report-subtitle = Kotry je problem?
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = wot <a data-l10n-name="author-name">{ $author-name }</a>
+abuse-report-learnmore =
+    Sće sej njewěsty, kotry problem maće wubrać?
+    <a data-l10n-name="learnmore-link">Zhońće wjace wo zdźělenju rozšěrjenjow a drastow</a>
 abuse-report-submit-description = Wopisajće problem (na přeće)
 
 ## Panel buttons.
@@ -29,6 +32,7 @@ abuse-report-messagebar-submitted = Dźakujemy so, zo sće zdźělenku pósłał
 abuse-report-messagebar-submitted-noremove = Dźakujemy so, zo sće zdźělenku pósłał.
 abuse-report-messagebar-removed-extension = Dźakujemy so, zo sće zdźělenku pósłał. Sće rozšěrjenje <span data-l10n-name="addon-name">{ $addon-name }</span> wotstronił.
 abuse-report-messagebar-removed-theme = Dźakujemy so, zo sće zdźělenku póskak. Sće drastu <span data-l10n-name="addon-name">{ $addon-name }</span> wotstronił.
+abuse-report-messagebar-error-recent-submit = Rozprawa za <span data-l10n-name="addon-name">{ $addon-name }</span> je so pósłała, dokelž je so druha rozprawa njedawno wotpósłała.
 
 ## Message bars actions.
 
@@ -45,6 +49,7 @@ abuse-report-damage-reason = Poškodźa mój ličak a daty
 abuse-report-spam-reason = Wutworja spam abo wabjenje
 abuse-report-spam-example = Přikład: wabjenje na webstronach zasadźić
 abuse-report-settings-reason = Je moju pytawu, startowu stronu abo nowy rajtark změniło, bjez toho zo by mje informowało abo so mje prašało
+abuse-report-settings-suggestions = Prjedy hač rozšěrjenje zdźěliće, móžeće spytać, swoje nastajenja změnić:
 abuse-report-broken-reason-theme = Njefunguje abo skóncuje zwobraznjenje wobhladowaka
 abuse-report-broken-example = Přikład: Funkcije su pomałe, ćežko wužiwajomne abo njefunguja; dźěle websydła so njezačitaja abo wupadaja njezwučene
 abuse-report-policy-reason = Hidypołny, namócny abo ilegalny wobsah
