@@ -5,10 +5,20 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-learn-more = अधिक जाणा
 onboarding-button-label-try-now = आत्ताच वापरुन पाहा
 onboarding-button-label-get-started = सुरु करा
 onboarding-welcome-header = { -brand-short-name } मध्ये आपले स्वागत आहे
+onboarding-join-form-email =
+    .placeholder = ईमेल प्रविष्ट करा
+onboarding-join-form-email-error = वैध ईमेल आवश्यक
+onboarding-join-form-continue = पुढे चला
 onboarding-start-browsing-button-label = ब्राउजिंग सुरु करा
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-title = उपयोगी उत्पादने
 
 ## These strings belong to the individual onboarding messages.
 
