@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-server-top.xul -->
-
 <!ENTITY messageStorage.label "Armazenamento de mensagens">
 <!ENTITY securitySettings.label "Definições de segurança">
 <!ENTITY serverSettings.label "Definições do servidor">
@@ -15,7 +13,7 @@
 <!ENTITY port.label "Porta:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Predefinida:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -44,7 +42,6 @@
 <!ENTITY deleteOnServer2.accesskey "A">
 <!ENTITY downloadOnBiff.label "Descarregar novas mensagens automaticamente">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY username.label "Nome de acesso">
 <!ENTITY deleteMessagePrefix.label "Se eu apagar uma mensagem:">
 <!ENTITY modelMoveToTrash.label "Mover para esta pasta:">
 <!ENTITY modelMoveToTrash.accesskey "o">
@@ -61,7 +58,7 @@
 <!ENTITY loginAtStartup.accesskey "c">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Perguntar antes de descarregar mais do que">
 <!ENTITY maxMessagesStart.accesskey "t">
@@ -78,7 +75,7 @@
 <!ENTITY advancedButton.accesskey "a">
 <!ENTITY serverDefaultCharset2.label "Codificação predefinida:">
 <!ENTITY localPath.label "Diretório local:">
-<!ENTITY localFolderPicker.label "Escolha o diretório local">
+<!ENTITY localFolderPicker.label "Selecione o diretório local">
 <!ENTITY browseFolder.label "Procurar...">
 <!ENTITY browseFolder.accesskey "P">
 <!ENTITY browseNewsrc.label "Procurar...">

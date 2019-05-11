@@ -4,7 +4,7 @@
 
 <!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
 
-<!ENTITY MsgSynchronize.label "Descarregar e sincronizar mensagens">
+<!ENTITY MsgSynchronize.label "Transferir e sincronizar mensagens">
 <!ENTITY MsgSelect.label "Itens para utilização offline">
 <!ENTITY MsgSyncDesc.label "Se já selecionou pastas de correio ou grupos de notícias para utilizar no modo offline, pode transferi-los e sincronizá-los. Se ainda não o fez, utilize o botão &quot;Selecionar&quot; para escolher as pastas de correio e os grupos de notícias para serem utilizados no modo offline.">
 <!ENTITY MsgSyncDirections.label "Descarregar e/ou sincronizar o seguinte:">
