@@ -73,6 +73,26 @@ onboarding-data-sync-button = Įjungti „{ -sync-brand-short-name }“
 onboarding-data-sync-text2 = Sinchronizuokite adresyną, slaptažodžius ir daugiau visur, kur naudojate „{ -brand-product-name }“.
 onboarding-data-sync-button2 = Prisijungti prie „{ -sync-brand-short-name }“
 onboarding-firefox-monitor-title = Būkite įspėti apie duomenų pažeidimus
+onboarding-firefox-monitor-text = „{ -monitor-brand-name }“ stebi, ar jūsų el. paštas pasirodo duomenų pažeidime ir apie tai jums praneša.
+onboarding-firefox-monitor-button = Gauti pranešimus
+onboarding-browse-privately-title = Naršykite privačiai
+onboarding-browse-privately-text = Privatuiss naršymas išvalo jūsų paieškos ir naršymo žurnalą, kad jis nebūti matomas kitiems, besinaudojantiems šiuo kompiuteriu.
+onboarding-browse-privately-button = Atverti privatųjį langą
+onboarding-firefox-send-title = Išlaikykite pasidalintų failų privatumą
+onboarding-firefox-send-text = „{ -send-brand-name }“ apsaugo pasidalintus failus juos užšifruodama ir suteikia automatiškai susinaikinantį saitą.
+onboarding-firefox-send-text2 = Įkelkite savo failus į „{ -send-brand-name }“, norėdami jais pasidalinti užšifruojant ir suteikiant automatiškai susinaikinantį saitą.
+onboarding-firefox-send-button = Išbandykite „{ -send-brand-name }“
+onboarding-mobile-phone-title = Gaukite „{ -brand-product-name }“ savo telefonui
+onboarding-mobile-phone-text = Parsisiųskite „{ -brand-product-name }“ savo „iOS“ arba „Android“ įrenginiui ir sinchronizuokite duomenis.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Parsiųsti mobiliąją naršyklę
+onboarding-send-tabs-title = Siųskite sau korteles akimirksniu
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Kortelių persiuntimas akimirksniu pasidalina tinklalapiais tarp jūsų įrenginių, taip išvengiant kopijavimo ir įdėjimo, ar išėjimo iš naršyklės.
+onboarding-send-tabs-button = Pradėti naudotis kortelių persiuntimu
+onboarding-pocket-anywhere-title = Skaityti ir klausyti bet kur
 
 ## Message strings belonging to the Return to AMO flow
 
