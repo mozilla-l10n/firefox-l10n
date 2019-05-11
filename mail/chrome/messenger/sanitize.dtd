@@ -9,6 +9,7 @@
      See UI mockup at bug 480169 -->
 <!ENTITY clearTimeDuration.label          "Khoảng thời gian để xóa: ">
 <!ENTITY clearTimeDuration.accesskey      "T">
+<!ENTITY clearTimeDuration.lastHour       "Một tiếng gần đây">
 <!ENTITY clearTimeDuration.last2Hours     "Hai tiếng gần đây">
 <!ENTITY clearTimeDuration.last4Hours     "Bốn tiếng gần đây">
 <!ENTITY clearTimeDuration.today          "Hôm nay">
@@ -26,8 +27,13 @@ that require it.  -->
 <!ENTITY itemHistory.label                 "Lịch sử duyệt web">
 <!ENTITY itemHistory.accesskey             "B">
 <!ENTITY itemCookies.label                 "Cookie">
+<!ENTITY itemCookies.accesskey             "C">
+<!ENTITY itemCache.label                   "Bộ nhớ đệm">
+<!ENTITY itemCache.accesskey               "A">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
+<!ENTITY sanitizeEverythingUndoWarning     "Thao tác này không thể hoàn tác được.">
 
+<!ENTITY dialog.width                 "28em">

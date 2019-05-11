@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Sổ địa chỉ">
+<!ENTITY blankResultsPaneMessage.label                  "Sổ địa chỉ này chỉ hiển thị liên hệ sau khi tìm kiếm">
+<!ENTITY localResultsOnlyMessage.label                  "Liên hệ từ sổ địa chỉ từ xa không được hiển thị cho đến khi bạn tìm kiếm">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Tập tin">
@@ -74,7 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
+<!ENTITY propertiesMenu.label                           "Thuộc tính">
+<!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
+<!ENTITY abPropertiesMenu.label                         "Thuộc tính sổ địa chỉ">
+<!ENTITY abPropertiesMenu.accesskey                     "i">
+<!ENTITY contactPropertiesMenu.label                    "Thuộc tính liên hệ">
+<!ENTITY contactPropertiesMenu.accesskey                "i">
+<!ENTITY mailingListPropertiesMenu.label                "Thuộc tính danh sách gửi thư">
+<!ENTITY mailingListPropertiesMenu.accesskey            "i">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Hiển thị">
@@ -114,12 +124,17 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Thư &amp; Nhóm tin">
 <!ENTITY messengerCmd.accesskey                         "T">
 <!ENTITY messengerCmd.commandkey                        "1">
+<!ENTITY addressBookCmd.label                           "Sổ địa chỉ">
+<!ENTITY addressBookCmd.accesskey                       "a">
+<!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "Tìm kiếm Địa chỉ…">
 <!ENTITY searchAddressesCmd.accesskey                   "m">
 <!ENTITY importCmd.label                                "Nhập…">
 <!ENTITY importCmd.accesskey                            "N">
 <!ENTITY exportCmd.label                                "Xuất…">
 <!ENTITY exportCmd.accesskey                            "X">
+<!ENTITY preferencesCmd2.label                          "Tùy chọn">
+<!ENTITY preferencesCmd2.accesskey                      "O">
 <!ENTITY preferencesCmdUnix.label                       "Tùy chỉnh">
 <!ENTITY preferencesCmdUnix.accesskey                   "y">
 
@@ -128,7 +143,13 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "b">
 <!ENTITY newlistButton.label                            "Danh sách Mới">
 <!ENTITY newlistButton.accesskey                        "D">
+<!ENTITY showAsDefault.label                            "Thư mục khởi động mặc định">
+<!ENTITY showAsDefault.accesskey                        "S">
 <!ENTITY editPropertiesButton.label                     "Chỉnh sửa">
+<!ENTITY propertiesContext.label                        "Thuộc tính">
+<!ENTITY propertiesContext.accesskey                    "i">
+<!ENTITY abPropertiesContext.label                      "Thuộc tính">
+<!ENTITY abPropertiesContext.accesskey                  "i">
 <!ENTITY editContactContext.label                       "Chỉnh sửa liên hệ">
 <!ENTITY editContactContext.accesskey                   "E">
 <!ENTITY editMailingListContext.label                   "Chỉnh sửa danh sách">
@@ -137,6 +158,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey                         "V">
 <!ENTITY newIM.label                                    "Tin nhắn Nhanh">
 <!ENTITY newIM.accesskey                                "i">
+<!ENTITY printButton.label                              "In…">
+<!ENTITY printButton.accesskey                          "r">
 <!ENTITY deleteButton2.label                            "Xóa">
 <!ENTITY deleteButton2.accesskey                        "X">
 
@@ -159,10 +182,14 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Tìm Nhanh">
 
 <!-- Results Pane -->
+<!ENTITY Addrbook.label                                 "Sổ địa chỉ">
+<!ENTITY Addrbook.accesskey                             "B">
 <!ENTITY GeneratedName.label                            "Tên">
 <!ENTITY GeneratedName.accesskey                        "T">
 <!ENTITY PrimaryEmail.label                             "Email">
 <!ENTITY PrimaryEmail.accesskey                         "E">
+<!ENTITY ChatName.label                                 "Tên trò chuyện">
+<!ENTITY ChatName.accesskey                             "C">
 <!ENTITY Company.label                                  "Tổ chức">
 <!ENTITY Company.accesskey                              "h">
 <!ENTITY NickName.label                                 "Tên hiệu">
@@ -195,6 +222,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY contact.heading                                "Danh bạ">
 <!ENTITY home.heading                                   "Nhà">
 <!ENTITY other.heading                                  "Khác">
+<!ENTITY chat.heading                                   "Trò chuyện">
 <!ENTITY phone.heading                                  "Điện thoại">
 <!ENTITY work.heading                                   "Công ty">
 <!-- Special Box Headings, for mailing lists -->

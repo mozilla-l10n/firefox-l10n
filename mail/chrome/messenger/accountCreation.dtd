@@ -21,7 +21,9 @@
 <!ENTITY usernameEx.label                "Tên đăng nhập của bạn:">
 <!ENTITY usernameEx.accesskey            "T">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!ENTITY usernameEx.placeholder          "TENMIENCUABAN\tennguoidungcuaban">
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
+<!ENTITY usernameEx.text                 "Đăng nhập tên miền">
 
 <!ENTITY imapLong.label                  "IMAP (các thư mục từ xa)">
 <!ENTITY pop3Long.label                  "POP3 (giữ thư trên máy tính của bạn)">
@@ -65,6 +67,7 @@
 <!ENTITY manual-edit.label               "Cấu hình thủ công">
 <!ENTITY manual-edit.accesskey           "M">
 <!ENTITY open-provisioner.label          "Tạo địa chỉ email mới…">
+<!ENTITY open-provisioner.accesskey      "g">
 
 
 <!ENTITY warning.label                   "Cảnh báo!">

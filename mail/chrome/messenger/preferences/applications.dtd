@@ -34,5 +34,7 @@
 <!ENTITY authRequired.button.label        "Ủy quyền">
 <!ENTITY authRequired.button.accesskey    "U">
 
+<!ENTITY findCloudFileProviders.label     "Tìm thêm nhà cung cấp…">
+
 <!ENTITY enableCloudFileAccountOffer.label "Đề nghị chia sẻ cho các tập tin lớn hơn">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
