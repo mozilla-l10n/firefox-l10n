@@ -5,10 +5,16 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-learn-more = Sužinoti daugiau
 onboarding-button-label-try-now = Išbandykite dabar
 onboarding-button-label-get-started = Pradėti
 onboarding-welcome-header = Sveiki, čia „{ -brand-short-name }“
+onboarding-welcome-body = Naršyklę jau turite.<br/>Dabar susipažinkite su likusia „{ -brand-product-name }“ šeima.
 onboarding-start-browsing-button-label = Pradėti naršymą
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
 
 ## These strings belong to the individual onboarding messages.
 
