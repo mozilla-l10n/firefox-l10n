@@ -10,11 +10,24 @@ onboarding-button-label-try-now = Išbandykite dabar
 onboarding-button-label-get-started = Pradėti
 onboarding-welcome-header = Sveiki, čia „{ -brand-short-name }“
 onboarding-welcome-body = Naršyklę jau turite.<br/>Dabar susipažinkite su likusia „{ -brand-product-name }“ šeima.
+onboarding-welcome-learn-more = Sužinokite apie privalumus daugiau.
+onboarding-join-form-header = Prisijungti prie „{ -brand-product-name }“
+onboarding-join-form-body = Įveskite savo el. pašto adresą.
+onboarding-join-form-email =
+    .placeholder = Įveskite el. paštą
+onboarding-join-form-email-error = Reikalingas teisingas el. paštas
+onboarding-join-form-legal = Tęsdami, išreiškiate sutikimą su <a data-l10n-name="terms">Paslaugos teikimo nuostatais</a> ir <a data-l10n-name="privacy">Privatumo pranešimu</a>.
+onboarding-join-form-continue = Tęsti
 onboarding-start-browsing-button-label = Pradėti naršymą
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = Naudingi produktai
+onboarding-benefit-products-text = Atlikite darbus su įrankių šeima, kuri gerbia jūsų privatumą visuose jūsų įrenginiuose.
+onboarding-benefit-knowledge-title = Praktinės žinios
+onboarding-benefit-knowledge-text = Išmokite visko, ko reikia žinoti, kad internete išliktumėte protingesni ir saugesni.
+onboarding-benefit-privacy-title = Tikras privatumas
 
 ## These strings belong to the individual onboarding messages.
 
