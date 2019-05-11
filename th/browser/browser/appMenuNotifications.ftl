@@ -24,6 +24,7 @@ appmenu-update-unsupported =
     .buttonaccesskey = ร
     .secondarybuttonlabel = ปิด
     .secondarybuttonaccesskey = ป
+appmenu-update-unsupported-message = เครื่องของคุณไม่รองรับ { -brand-shorter-name } รุ่นล่าสุด
 appmenu-update-restart =
     .label = เริ่มการทำงานใหม่เพื่ออัปเดต { -brand-shorter-name }
     .buttonlabel = เริ่มการทำงานใหม่และเรียกคืน
