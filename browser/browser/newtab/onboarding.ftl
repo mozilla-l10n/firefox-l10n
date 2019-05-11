@@ -10,6 +10,7 @@ onboarding-button-label-try-now = Essayer
 onboarding-button-label-get-started = Pour commencer
 onboarding-welcome-header = Bienvenue dans { -brand-short-name }
 onboarding-welcome-learn-more = Découvrir tous les avantages.
+onboarding-join-form-header = Rejoignez { -brand-product-name }
 onboarding-join-form-body = Saisissez votre adresse électronique pour vous lancer.
 onboarding-join-form-email =
     .placeholder = Adresse électronique
@@ -23,8 +24,15 @@ onboarding-start-browsing-button-label = Commencer la navigation
 
 onboarding-benefit-products-title = Des logiciels à votre service
 onboarding-benefit-products-text = Améliorez votre productivité grâce à un ensemble d’outils qui respectent votre vie privée sur tous vos appareils.
+onboarding-benefit-knowledge-title = Des connaissances utiles
 onboarding-benefit-knowledge-text = Apprenez tout ce qu’il faut savoir pour naviguer intelligemment et en sécurité.
 onboarding-benefit-privacy-title = Le respect de la vie privée, pour de vrai
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Tout ce que nous faisons respecte notre « Garantie en matière de données personnelles » : collecter moins de données, les protéger, ne rien cacher.
 
 ## These strings belong to the individual onboarding messages.
 
