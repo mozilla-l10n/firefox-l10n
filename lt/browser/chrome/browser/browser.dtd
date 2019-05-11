@@ -531,6 +531,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeExtension.label "Pašalinti priedą">
 <!ENTITY customizeMenu.removeExtension.accesskey "l">
 
+<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
+     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.label "Pranešti apie priedą">
+<!ENTITY customizeMenu.reportExtension.accesskey "n">
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
@@ -1127,6 +1133,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "P">
 <!ENTITY updateRestart.cancelButton.label "Ne dabar">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateUnsupported.panelUI.label "Tolimesnių naujinimų atlikti negalite">
 <!ENTITY updateRestart.panelUI.label2 "Perleiskite, norėdami atnaujinti „&brandShorterName;“">
 
 <!ENTITY newTabControlled.header.message "Pasikeitė jūsų nauja kortelė.">
