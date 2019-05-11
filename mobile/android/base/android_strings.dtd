@@ -918,6 +918,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Pristabdyti">
 <!ENTITY pip_pause_button_description "Pristabdyti grojimą">
 
+<!ENTITY pref_notification_settings_link "Tvarkyti pranešimų nuostatas">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Naršyklė">
 <!ENTITY mls_notification_channel "„&vendorShortName;“ vietos nustatymo paslauga">
