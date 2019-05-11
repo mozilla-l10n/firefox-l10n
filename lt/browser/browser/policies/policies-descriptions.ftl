@@ -21,6 +21,7 @@ policy-Bookmarks = Kurti įrašus adresyno juostoje, adresyno meniu, arba nurody
 policy-CaptivePortal = Įjungti arba išjungti pradinio tinklalapio palaikymą.
 policy-CertificatesDescription = Pridėti liudijimus, arba naudoti integruotus.
 policy-Cookies = Leisti ar drausti svetainėms įrašyti slapukus.
+policy-DefaultDownloadDirectory = Nustatyti numatytąjį atsiuntimų aplanką.
 policy-DisableAppUpdate = Neleisti naršyklei diegti naujinimų.
 policy-DisableBuiltinPDFViewer = Išjungti „PDF.js“, į „{ -brand-short-name }“ integruotą PDF failų žiūryklę.
 policy-DisableDeveloperTools = Blokuoti prieigą prie programuotojų priemonių.
@@ -45,6 +46,7 @@ policy-DisplayBookmarksToolbar = Rodyti adresyno juostą pagal numatymą.
 policy-DisplayMenuBar = Rodyti meniu juostą pagal numatymą.
 policy-DNSOverHTTPS = Konfigūruoti DNS per HTTPS.
 policy-DontCheckDefaultBrowser = Išjungti numatytosios naršyklės tikrinimą paleidžiant.
+policy-DownloadDirectory = Nustatyti ir užrakinti atsiuntimų aplanką.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Įjungti arba išjungti turinio blokavimą, ir papildomai jį užrakinti.
 # A “locked” extension can’t be disabled or removed by the user. This policy
@@ -52,6 +54,7 @@ policy-EnableTrackingProtection = Įjungti arba išjungti turinio blokavimą, ir
 # English or translate them as verbs.
 policy-Extensions = Diegti, šalinti, arba užrakinti priedus. Diegimo nuostata priima URL adresus arba kelius kaip parametrus. Šalinimo ir užrakinimo nuostatos priima priedų ID.
 policy-ExtensionUpdate = Įjungti arba išjungti automatinius priedų naujinimus.
+policy-FirefoxHome = Konfigūruoti „Firefox“ pradžios ekraną.
 policy-FlashPlugin = Leisti arba drausti „Flash“ plėtinio naudojimą.
 policy-HardwareAcceleration = Jei „false“, išjungti aparatinį spartinimą.
 # “lock” means that the user won’t be able to change this setting
@@ -67,6 +70,7 @@ policy-OverridePostUpdatePage = Pakeisti po atnaujinimų rodomą puslapį „Kas
 policy-Permissions = Konfigūruoti kameros, mikrofono, buvimo vietos nustatymo ir pranešimų leidimus.
 policy-PopupBlocking = Leisti kai kurioms svetainėms pagal numatymą rodyti iškylančiuosius langus.
 policy-Preferences = Nustatykite ir užfiksuokite nuostatų rinkinio reikšmę.
+policy-PromptForDownloadLocation = Klausti, kur įrašyti atsiunčiamus failus.
 policy-Proxy = Konfigūruoti įgaliotųjų serverių nuostatas.
 policy-RequestedLocales = Nustatyti programos prašomų kalbų sąrašo pageidavimo tvarką.
 policy-SanitizeOnShutdown = Išvalyti visus naršymo duomenis išjungiant.

@@ -93,6 +93,19 @@ onboarding-send-tabs-title = Siųskite sau korteles akimirksniu
 onboarding-send-tabs-text = Kortelių persiuntimas akimirksniu pasidalina tinklalapiais tarp jūsų įrenginių, taip išvengiant kopijavimo ir įdėjimo, ar išėjimo iš naršyklės.
 onboarding-send-tabs-button = Pradėti naudotis kortelių persiuntimu
 onboarding-pocket-anywhere-title = Skaityti ir klausyti bet kur
+# "downtime" refers to the user's free/spare time.
+onboarding-pocket-anywhere-text = „{ -pocket-brand-name }“ įrašo jūsų mėgstamas istorijas, kad galėtumėte vėliau jas skaityti, klausyti, ar žiūrėti, net jei ir esate be interneto.
+onboarding-pocket-anywhere-text2 = Įrašykite savo mėgstamiausią interneto turinį įrenginyje, naudodamiesi „{ -pocket-brand-name }“ programa. Vėliau galėsite skaityti, klausyti, ar žiūrėti jums patogiu metu.
+onboarding-pocket-anywhere-button = Išbandyti „{ -pocket-brand-name }“
+onboarding-lockwise-passwords-title = Turėkite savo slaptažodžius visuose įrenginiuose
+onboarding-lockwise-passwords-text = „{ -lockwise-brand-name }“ įrašo jūsų slaptažodžius saugioje vietoje, kad galėtumėte patogiai prisijungti prie savo paskyrų.
+onboarding-lockwise-passwords-button = Gauti „{ -lockwise-brand-name }“
+onboarding-lockwise-passwords-text2 = Laikykite įrašytus slaptažodžius saugiai, ir lengvai prisijunkite prie savo paskyrų su „{ -lockwise-brand-name }“.
+onboarding-lockwise-passwords-button2 = Parsisiųskite programą
+onboarding-facebook-container-title = Nustatykite „Facebook“ ribas
+onboarding-facebook-container-text = „{ -facebook-container-brand-name }“ laiko jūsų „Facebook“ tapatybę atskirtą nuo viso kito, taip apsunkinant galimybę jus stebėti internete.
+onboarding-facebook-container-text2 = „{ -facebook-container-brand-name }“ laiko jūsų „Facebook“ tapatybę atskirtą nuo viso kito, taip apsunkinant jų galimybę jums pritaikyti reklamas.
+onboarding-facebook-container-button = Pridėti priedą
 
 ## Message strings belonging to the Return to AMO flow
 
