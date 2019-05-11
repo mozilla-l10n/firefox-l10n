@@ -269,7 +269,13 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro = Le extensiones e le themas es como applicationes pro tu navigator e illes te consenti de proteger contrasignos, discargar videos, trovar accordos, blocar enoiose avisos publicitari, cambiar como tu navigator pare e multo plus. Iste micre programmas software es sovente disveloppate per un tertie parte. Ecce un selection que { -brand-product-name } <a data-l10n-name="learn-more-trigger">recommenda</a> pro securitate, performance e functionalitate exceptional.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations = Parte de iste recommendationes es personalisate. Illos basate sur preferentias de profilo e statistica de uso de altere extensiones que tu ha installate.
 discopane-notice-learn-more = Saper plus
+privacy-policy = Politica de confidentialitate
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.

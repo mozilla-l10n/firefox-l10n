@@ -30,6 +30,7 @@ abuse-report-submit-button = Inviar
 abuse-report-messagebar-aborted = Reporto pro <span data-l10n-name="addon-name">{ $addon-name }</span> cancellate.
 abuse-report-messagebar-submitting = Invio de signalation pro <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Gratias pro invio de un signalation. Desira tu eliminar <span data-l10n-name="addon-name">{ $addon-name }</span>?
+abuse-report-messagebar-submitted-noremove = Gratias pro le invio de un signalation.
 abuse-report-messagebar-removed-extension = Gratias pro invio de un signalation. Tu ha eliminate le extension <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = Gratias pro invio de un signalation. Tu ha eliminate le thema <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Un error occurreva durante le invio de signalation pro <span data-l10n-name="addon-name">{ $addon-name }</span>.
@@ -37,8 +38,10 @@ abuse-report-messagebar-error-recent-submit = Le reporto pro <span data-l10n-nam
 
 ## Message bars actions.
 
-abuse-report-messagebar-action-remove = Si, remover illo
-abuse-report-messagebar-action-keep = No, io vole mantener illo
+abuse-report-messagebar-action-remove-extension = Si, remover illo
+abuse-report-messagebar-action-keep-extension = No, io vole mantener illo
+abuse-report-messagebar-action-remove-theme = Si, remover illo
+abuse-report-messagebar-action-keep-theme = No, io vole mantener illo
 abuse-report-messagebar-action-retry = Retentar
 abuse-report-messagebar-action-cancel = Cancellar
 

@@ -104,6 +104,7 @@ onboarding-lockwise-passwords-text2 = Mantene secur le contrasignos que tu salva
 onboarding-lockwise-passwords-button2 = Discarga le app
 onboarding-facebook-container-title = Defini limites pro Facebook
 onboarding-facebook-container-text = { -facebook-container-brand-name } mantene tu identitate de Facebook separate de toto le altero, rendente plus dur traciar te ab le altere latere del Web.
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } mantene tu profilo separate de toto le altero, rende plus difficile pro Facebook te adressar con avisos publicitari.
 onboarding-facebook-container-button = Adder le extension
 
 ## Message strings belonging to the Return to AMO flow
