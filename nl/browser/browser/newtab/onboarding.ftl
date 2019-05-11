@@ -24,6 +24,10 @@ onboarding-start-browsing-button-label = Beginnen met browsen
 ## description.
 
 onboarding-benefit-products-title = Nuttige producten
+onboarding-benefit-products-text = Krijg zaken gedaan met een aantal hulpmiddelen die uw privacy respecteert op al uw apparaten.
+onboarding-benefit-knowledge-title = Praktische kennis
+onboarding-benefit-knowledge-text = Leer alles wat u moet weten om slimmer en veiliger online te blijven.
+onboarding-benefit-privacy-title = Echte privacy
 
 ## These strings belong to the individual onboarding messages.
 
@@ -43,6 +47,11 @@ onboarding-ghostery-text = Surf sneller, slimmer of veiliger met extensies zoals
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synchroniseren
 onboarding-fxa-text = Maak een { -fxaccount-brand-name } aan en synchroniseer uw bladwijzers, wachtwoorden en open tabbladen, overal waar u { -brand-short-name } gebruikt.
+onboarding-tracking-protection-title = Bepaal hoe u wordt gevolgd
+onboarding-browse-privately-button = Open een privévenster
+onboarding-firefox-send-title = Houd uw gedeelde bestanden privé
+onboarding-pocket-anywhere-button = Probeer { -pocket-brand-name }
+onboarding-lockwise-passwords-button = Download { -lockwise-brand-name }
 
 ## Message strings belonging to the Return to AMO flow
 
