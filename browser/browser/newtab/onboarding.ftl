@@ -63,7 +63,7 @@ onboarding-tracking-protection-button =
        *[other] Изменить настройки
     }
 onboarding-tracking-protection-title2 = Защита от отслеживания
-onboarding-tracking-protection-text2 = { -brand-short-name } помогает остановить отслеживание ваших действий в Интернете, затрудняя отслеживание вас рекламой в Интернете.
+onboarding-tracking-protection-text2 = { -brand-short-name } помогает остановить отслеживание ваших действий в Интернете, что затрудняет отслеживание вас рекламой в Интернете.
 onboarding-tracking-protection-button2 = Как это работает
 onboarding-data-sync-title = Возьмите свои настройки с собой
 # "Sync" is short for synchronize.
@@ -73,7 +73,7 @@ onboarding-data-sync-button = Включить { -sync-brand-short-name(case: "a
 onboarding-data-sync-text2 = Синхронизируйте ваши закладки, пароли и многое другое, где бы вы ни использовали { -brand-product-name }.
 onboarding-data-sync-button2 = Войти в { -sync-brand-short-name(case: "accusative") }
 onboarding-firefox-monitor-title = Подпишитесь на уведомления об утечках данных
-onboarding-firefox-monitor-button = Подпишитесь на уведомления
+onboarding-firefox-monitor-button = Подписаться на уведомления
 onboarding-browse-privately-title = Сёрфите приватно
 onboarding-browse-privately-button = Открыть приватное окно
 onboarding-firefox-send-text = { -send-brand-name } защищает файлы, которыми вы делитесь, с помощью сквозного шифрования и ограниченного срока действия ссылки на загрузку.
