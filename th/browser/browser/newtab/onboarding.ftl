@@ -58,6 +58,7 @@ onboarding-mobile-phone-button = ดาวน์โหลดเบราว์�
 onboarding-pocket-anywhere-button = ลอง { -pocket-brand-name }
 onboarding-lockwise-passwords-title = นำรหัสผ่านของคุณไปทุกที่
 onboarding-lockwise-passwords-button = รับ { -lockwise-brand-name }
+onboarding-lockwise-passwords-button2 = รับแอป
 onboarding-facebook-container-button = เพิ่มส่วนขยาย
 
 ## Message strings belonging to the Return to AMO flow

@@ -10,6 +10,7 @@
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
 <!ENTITY aboutTelemetry.previousPing "&lt;&lt;">
+<!ENTITY aboutTelemetry.nextPing "&gt;&gt;">
 
 <!ENTITY aboutTelemetry.pageTitle "ข้อมูลการวัดและส่งข้อมูลทางไกล">
 <!ENTITY aboutTelemetry.moreInformations "กำลังมองหาข้อมูลเพิ่มเติม?">
