@@ -57,6 +57,7 @@ cfr-doorhanger-pintab-animation-resume = Reprendre
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synchronisez vos marque-pages partout.
+cfr-doorhanger-bookmark-fxa-body = Vous avez déniché la perle rare ! Maintenant, retrouvez ce marque-page sur vos appareils mobiles. C’est le moment d’utiliser un { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Synchronisez les marque-pages maintenant…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Bouton de fermeture
