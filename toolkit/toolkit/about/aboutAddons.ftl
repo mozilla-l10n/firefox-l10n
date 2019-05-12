@@ -158,6 +158,9 @@ private-browsing-description2 =
 extensions-view-discover =
     .name = Parsisiųsti priedų
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Rekomendacijos
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Paskiausiai atnaujinti
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -265,6 +268,22 @@ shortcuts-card-collapse-button = Rodyti mažiau
 go-back-button =
     .tooltiptext = Eiti atgal
 
+## Recommended add-ons page
+
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Priedai ir grafiniai apvalkalai yra tarsi programos jūsų naršyklei, ir jie leidžia
+    jums apsaugoti slaptažodžius, siųstis vaizdo įrašus, rasti akcijas, blokuoti
+    erzinančias reklamas, keisti naršyklės išvaizdą, ir dar daugiau. Šias nedideles
+    programas dažniausiai kuria trečiosios šalys. Čia pateikiame rinkinį, kurį
+    „{ -brand-product-name }“ <a data-l10n-name="learn-more-trigger">rekomenduoja</a>
+    išskirtiniam saugumui, našumui ir funkcionalumui.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Kai kurios iš šių rekomendacijų yra pritaikytos būtent jums. Yra atsižvelgiama į kitus
+    jūsų įdiegtus priedus, profilio pasirinkimus, ir naudojimo statistikas.
+
 ## Add-on actions
 
 remove-addon-button = Pašalinti
@@ -291,3 +310,6 @@ addon-detail-reviews-link =
         [few] { $numberOfReviews } atsiliepimai
        *[other] { $numberOfReviews } atsiliepimų
     }
+
+## Pending uninstall message bar
+
