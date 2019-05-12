@@ -62,11 +62,29 @@ onboarding-tracking-protection-button =
         [windows] Actualizar Opciones
        *[other] Actualizar Preferencias
     }
+onboarding-tracking-protection-title2 = Protección contra rastreo
+onboarding-tracking-protection-button2 = Cómo funciona
 onboarding-data-sync-title = Lleve sus configuraciones con usted
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = Sincronice sus marcadores y contraseñas en cualquier lugar que use { -brand-product-name }.
 onboarding-data-sync-button = Abrir { -sync-brand-short-name }
+onboarding-data-sync-button2 = Ingresar a { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Manténgase alerta a las violaciones de datos
+onboarding-firefox-monitor-button = Registrarse para recibir alertas
+onboarding-browse-privately-title = Navegación privada
+onboarding-browse-privately-text = La navegación privada borra las búsquedas y el historial de navegación para mantenerlo en secreto para cualquier persona que use la computadora.
+onboarding-browse-privately-button = Abrir una ventana privada
+onboarding-firefox-send-text = { -send-brand-name } protege los archivos compartidos con cifrado punto a punto y un enlace que expira automáticamente.
+onboarding-firefox-send-button = Probar { -send-brand-name }
+onboarding-mobile-phone-title = Obtener { -brand-product-name } en el teléfono
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Descargar navegador móvil
+onboarding-pocket-anywhere-title = Leer y escuchar en cualquier lugar
+onboarding-pocket-anywhere-button = Probar { -pocket-brand-name }
+onboarding-lockwise-passwords-button = Obtener { -lockwise-brand-name }
+onboarding-lockwise-passwords-button2 = Obtener la aplicación
+onboarding-facebook-container-button = Agregar la extensión
 
 ## Message strings belonging to the Return to AMO flow
 
