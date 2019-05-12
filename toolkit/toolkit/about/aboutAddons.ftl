@@ -283,6 +283,18 @@ discopane-intro =
 discopane-notice-recommendations =
     Kai kurios iš šių rekomendacijų yra pritaikytos būtent jums. Yra atsižvelgiama į kitus
     jūsų įdiegtus priedus, profilio pasirinkimus, ir naudojimo statistikas.
+discopane-notice-learn-more = Sužinoti daugiau
+privacy-policy = Privatumo nuostatai
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = sukūrė <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Naudotojų: { $dailyUsers }
+install-extension-button = Pridėti į „{ -brand-product-name }“
+install-theme-button = Įdiegti grafinį apvalkalą
 
 ## Add-on actions
 
