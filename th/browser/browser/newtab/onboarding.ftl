@@ -9,17 +9,21 @@ onboarding-button-label-learn-more = เรียนรู้เพิ่มเ�
 onboarding-button-label-try-now = ลองเลยตอนนี้
 onboarding-button-label-get-started = เริ่มต้นใช้งาน
 onboarding-welcome-header = ยินดีต้อนรับสู่ { -brand-short-name }
+onboarding-welcome-learn-more = เรียนรู้เพิ่มเติมเกี่ยวกับประโยชน์
 onboarding-join-form-header = เข้าร่วม { -brand-product-name }
 onboarding-join-form-body = ป้อนที่อยู่อีเมลของคุณเพื่อเริ่มต้นใช้งาน
 onboarding-join-form-email =
     .placeholder = ป้อนอีเมล
 onboarding-join-form-email-error = ต้องการอีเมลที่ถูกต้อง
+onboarding-join-form-legal = การดำเนินการต่อถือว่าคุณยอมรับ<a data-l10n-name="terms">เงื่อนไขการใช้บริการ</a>และ<a data-l10n-name="privacy">ข้อกำหนดความเป็นส่วนตัว</a>
 onboarding-join-form-continue = ดำเนินการต่อ
 onboarding-start-browsing-button-label = เริ่มการท่องเว็บ
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = ผลิตภัณฑ์ที่มีประโยชน์
+onboarding-benefit-knowledge-title = ความรู้เชิงปฏิบัติ
 onboarding-benefit-privacy-title = ความเป็นส่วนตัวที่แท้จริง
 
 ## These strings belong to the individual onboarding messages.
@@ -40,6 +44,7 @@ onboarding-ghostery-text = ท่องเว็บได้เร็ว ฉล�
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = ซิงค์
 onboarding-fxa-text = ลงทะเบียน { -fxaccount-brand-name } และซิงค์ที่คั่นหน้า, รหัสผ่าน และแท็บที่เปิดอยู่ของคุณในทุกที่ที่คุณใช้ { -brand-short-name }
+onboarding-tracking-protection-title = ควบคุมวิธีที่คุณถูกติดตาม
 # "Update" is a verb, as in "Update the existing settings", not "Options about
 # updates".
 onboarding-tracking-protection-button =
@@ -47,14 +52,22 @@ onboarding-tracking-protection-button =
         [windows] อัปเดตตัวเลือก
        *[other] อัปเดตค่ากำหนด
     }
+onboarding-tracking-protection-title2 = การป้องกันจากการติดตาม
+onboarding-tracking-protection-button2 = วิธีการทำงาน
 onboarding-data-sync-title = นำการตั้งค่าของคุณไปกับคุณ
 onboarding-data-sync-button = เปิด { -sync-brand-short-name }
+onboarding-data-sync-button2 = ลงชื่อเข้า { -sync-brand-short-name }
+onboarding-browse-privately-title = ท่องเว็บอย่างเป็นส่วนตัว
 onboarding-browse-privately-button = เปิดหน้าต่างส่วนตัว
+onboarding-firefox-send-title = ทำให้ไฟล์ที่แบ่งปันของคุณเป็นส่วนตัว
 onboarding-firefox-send-button = ลอง { -send-brand-name }
 onboarding-mobile-phone-title = รับ { -brand-product-name } ในโทรศัพท์ของคุณ
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = ดาวน์โหลดเบราว์เซอร์สำหรับมือถือ
+onboarding-send-tabs-title = ส่งแท็บให้ตัวคุณเองทันที
+onboarding-send-tabs-button = เริ่มใช้ Send Tabs
+onboarding-pocket-anywhere-title = อ่านและฟังได้ทุกที่
 onboarding-pocket-anywhere-button = ลอง { -pocket-brand-name }
 onboarding-lockwise-passwords-title = นำรหัสผ่านของคุณไปทุกที่
 onboarding-lockwise-passwords-button = รับ { -lockwise-brand-name }
