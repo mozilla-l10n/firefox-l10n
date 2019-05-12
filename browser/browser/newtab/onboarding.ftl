@@ -62,10 +62,16 @@ onboarding-tracking-protection-button =
         [windows] Nastavit
        *[other] Nastavit
     }
+onboarding-tracking-protection-title2 = Ochrana před sledováním
+onboarding-tracking-protection-text2 = { -brand-short-name } vám pomůže zastavit sledování webovými stránkami a znesnadní reklamám, aby vás následovaly na další weby.
+onboarding-tracking-protection-button2 = Jak to funguje
 onboarding-data-sync-title = Mějte svá nastavení všude s sebou
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = Synchronizujte své záložky a hesla všude, kde používáte aplikaci { -brand-product-name }.
 onboarding-data-sync-button = Zapnout { -sync-brand-short-name }
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Synchronizujte své záložky, hesla a další data všude, kde používáte aplikaci { -brand-product-name }.
+onboarding-data-sync-button2 = Přihlásit ke službě { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Buďte informování o únicích dat
 onboarding-firefox-monitor-text = { -monitor-brand-name } hlídá, jestli vaše e-mailová adresa nebyla součástí nějakého úniku dat, a dá vám vědět, pokud ji v nějakém najde.
 onboarding-firefox-monitor-button = Nechte si posílat upozornění
@@ -74,6 +80,7 @@ onboarding-browse-privately-text = Funkce anonymního prohlížení smaže vaši
 onboarding-browse-privately-button = Otevřít anonymní okno
 onboarding-firefox-send-title = Sdílejte své soubory soukromě a bezpečně
 onboarding-firefox-send-text = Služba { -send-brand-name } chrání sdílené soubory end-to-end šifrováním a pomocí odkazů s omezenou platností.
+onboarding-firefox-send-text2 = Sdílejte své soubory se službou { -send-brand-name }, která je chrání pomocí end-to-end šifrování a odkazů s omezenou platností.
 onboarding-firefox-send-button = Vyzkoušet { -send-brand-name }
 onboarding-mobile-phone-title = Nainstalujte si aplikaci { -brand-product-name } do telefonu
 onboarding-mobile-phone-text = Stáhněte si { -brand-product-name } pro iOS nebo Android a synchronizujte svá data mezi zařízeními.
@@ -88,12 +95,16 @@ onboarding-send-tabs-button = Začít posílat panely
 onboarding-pocket-anywhere-title = Čtěte a nechte si číst
 # "downtime" refers to the user's free/spare time.
 onboarding-pocket-anywhere-text = { -pocket-brand-name } vám uloží články na později, takže si ji můžete přečíst až když máte čas, dokonce i offline.
+onboarding-pocket-anywhere-text2 = Uložte si svůj oblíbený obsah offline s aplikací { -pocket-brand-name } pro přečtení nebo poslech ve chvíli, kdy se vám to opravdu hodí.
 onboarding-pocket-anywhere-button = Vyzkoušet { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Mějte svá hesla všude s sebou
 onboarding-lockwise-passwords-text = { -lockwise-brand-name } bezpečně uloží vaše hesla a usnadní vám přihlašování do vašich účtů.
 onboarding-lockwise-passwords-button = Získat { -lockwise-brand-name }
+onboarding-lockwise-passwords-text2 = Ukládejte svá hesla bezpečně pomocí { -lockwise-brand-name }, který vám usnadní rychlé přihlašování do vašich účtů.
+onboarding-lockwise-passwords-button2 = Stáhnout aplikaci
 onboarding-facebook-container-title = Nastavte hranice pro Facebook
 onboarding-facebook-container-text = Doplněk { -facebook-container-brand-name } oddělí vaši Facebookovou identitu od zbytku internetu, takže nebude tak snadné vás na internetu vysledovat.
+onboarding-facebook-container-text2 = Doplněk { -facebook-container-brand-name } oddělí váš účet od zbytku internetu, takže pro Facebook a jeho reklamy nebude tak snadné vás na internetu vysledovat.
 onboarding-facebook-container-button = Nainstalovat rozšíření
 
 ## Message strings belonging to the Return to AMO flow
