@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
-<!ENTITY pref.ldap.window.title    "LDAP Directory Servers">
+<!ENTITY pref.ldap.window.title    "Serviloj de katalogoj LDAP">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label         "LDAP Directory Server:">
+<!ENTITY directories.label         "Servilo de katalogo LDAP">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
-<!ENTITY directoriesText.label     "Select an LDAP Directory Server:">
-<!ENTITY directoriesText.accesskey "S">
+<!ENTITY directoriesText.label     "Elekti servilon de katalogo LDAP:">
+<!ENTITY directoriesText.accesskey "E">
 <!ENTITY addDirectory.label        "Add">
 <!ENTITY addDirectory.accesskey    "a">
 <!ENTITY editDirectory.label       "Edit">

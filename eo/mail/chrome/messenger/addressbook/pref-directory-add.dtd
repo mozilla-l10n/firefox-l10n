@@ -15,7 +15,7 @@
 <!ENTITY directoryLogin.label              "Servilo Bind DN: ">
 <!ENTITY directoryLogin.accesskey          "B">
 <!ENTITY General.tab                       "Ĝeneralaj">
-<!ENTITY Offline.tab                       "Malkonekta">
+<!ENTITY Offline.tab                       "Loka kopio">
 <!ENTITY Advanced.tab                      "Spertulaj">
 <!ENTITY portNumber.label                  "Numero de pordo: ">
 <!ENTITY portNumber.accesskey              "p">
@@ -31,10 +31,10 @@
 <!ENTITY return.accesskey                  "m">
 <!ENTITY results.label                     "">
 <!ENTITY offlineText.label                 "Vi povas krei lokan kopion de tiu ĉi katalogo por igi ĝin disponebla por malkonekta laboro.">
-<!ENTITY saslMechanism.label               "Login method: ">
-<!ENTITY saslMechanism.accesskey           "m">
-<!ENTITY saslOff.label                     "Simple">
-<!ENTITY saslOff.accesskey                 "l">
+<!ENTITY saslMechanism.label               "Aŭtentigo: ">
+<!ENTITY saslMechanism.accesskey           "A">
+<!ENTITY saslOff.label                     "simpla">
+<!ENTITY saslOff.accesskey                 "i">
 <!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
 <!ENTITY saslGSSAPI.accesskey              "K">
 
