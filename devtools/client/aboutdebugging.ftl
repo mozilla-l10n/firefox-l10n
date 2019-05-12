@@ -106,11 +106,11 @@ about-debugging-setup-usb-status-enabled = Povoleno
 about-debugging-setup-usb-status-disabled = Zakázáno
 about-debugging-setup-usb-status-updating = Probíhá aktualizace…
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu = Povolit vývojářskou nabídku na vašem zařízení s Androidem. <a>Jak na to</a>
+about-debugging-setup-usb-step-enable-dev-menu = Povolte nabídku pro vývojáře na vašem zařízení s Androidem. <a>Jak na to</a>
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug = Povolit ladění přes USB ve vývojářské nabídce Androidu. <a>Jak na to</a>
+about-debugging-setup-usb-step-enable-debug = Povolte ladění přes USB ve nabídce pro vývojáře Androidu. <a>Jak na to</a>
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox = Povolit ladění přes USB ve Firefoxu pro Android. <a>Jak na to</a>
+about-debugging-setup-usb-step-enable-debug-firefox = Povolte ladění přes USB ve Firefoxu pro Android. <a>Jak na to</a>
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Připojte zařízení s Androidem k vašemu počítači.
 # Network section of the Setup page
