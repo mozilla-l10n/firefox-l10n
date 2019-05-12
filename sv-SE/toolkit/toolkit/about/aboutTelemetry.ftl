@@ -15,6 +15,7 @@ about-telemetry-option-group-older = Äldre
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Telemetridata
+about-telemetry-current-store = Aktuell lagringsplats:
 about-telemetry-more-information = Letar du efter mer information?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox datadokumentation</a> innehåller guider om hur du arbetar med våra datainställningar.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox Telemetry klientdokumentation</a> innehåller definitioner för begrepp, API-dokumentation och datareferenser.
@@ -140,4 +141,4 @@ about-telemetry-origin-origin = ursprung
 about-telemetry-origin-count = antal
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox origin-telemetri</a> kodar data innan den skickas så att { $telemetryServerOwner } inte kan räkna saker, men vet inte om någon given { -brand-product-name } bidrog till det antalet. (<a data-l10n-name="prio-blog-link">läs mer</a>)
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox origin-telemetri</a> kodar data innan den skickas så att { $telemetryServerOwner } kan räkna saker, men vet inte om någon given { -brand-product-name } bidrog till det antalet. (<a data-l10n-name="prio-blog-link">läs mer</a>)
