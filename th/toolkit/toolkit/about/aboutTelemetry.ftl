@@ -7,6 +7,7 @@ about-telemetry-option-group-today = วันนี้
 about-telemetry-option-group-yesterday = เมื่อวานนี้
 about-telemetry-option-group-older = เก่ากว่า
 about-telemetry-previous-ping = <<
+about-telemetry-next-ping = >>
 about-telemetry-page-title = ข้อมูลการวัดและส่งข้อมูลทางไกล
 about-telemetry-more-information = กำลังมองหาข้อมูลเพิ่มเติม?
 about-telemetry-show-in-Firefox-json-viewer = เปิดในตัวดู JSON

@@ -10,6 +10,7 @@ profiles-restart-in-safe-mode = เริ่มการทำงานใหม
 profiles-restart-normal = เริ่มการทำงานใหม่ปกติ…
 profiles-flush-fail-title = ไม่ได้บันทึกการเปลี่ยนแปลง
 profiles-flush-conflict = { profiles-conflict }
+profiles-flush-restart-button = เริ่มการทำงาน { -brand-short-name } ใหม่
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = โปรไฟล์: { $name }
