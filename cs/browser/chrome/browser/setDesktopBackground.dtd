@@ -18,3 +18,4 @@
 <!ENTITY setDesktopBackground.title "Nastavit pozadí plochy">
 <!ENTITY openDesktopPrefs.label     "Otevřít nastavení plochy">
 <!ENTITY closeWindow.key            "w">
+<!ENTITY previewUnavailable         "Náhled není k dispozici">
