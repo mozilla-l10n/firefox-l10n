@@ -243,7 +243,7 @@ add-exception-valid-long = Este site fornece identificação válida e homologad
 add-exception-checking-short = Verificando informações
 add-exception-checking-long = Tentando identificar o site…
 add-exception-no-cert-short = Nenhuma informação disponível
-add-exception-no-cert-long = Não foi possível obter status de identificação para este site.
+add-exception-no-cert-long = Não foi possível obter o status de identificação deste site.
 
 ## Certificate export "Save as" and error dialogs
 
