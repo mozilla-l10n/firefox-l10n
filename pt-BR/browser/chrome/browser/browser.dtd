@@ -330,11 +330,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gerenciar o uso do software DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Abrir o painel MIDI">
 
-<!ENTITY urlbar.cameraBlocked.tooltip            "Você bloqueou sua câmera para este site.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "Você bloqueou seu microfone para este site.">
-<!ENTITY urlbar.screenBlocked.tooltip            "Você bloqueou o compartilhamento de tela para este site.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "Você bloqueou informações de localização para este site.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Você bloqueou as notificações para este site.">
+<!ENTITY urlbar.cameraBlocked.tooltip            "Você bloqueou sua câmera neste site.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Você bloqueou seu microfone neste site.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Você bloqueou o compartilhamento de tela neste site.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Você bloqueou informações de localização neste site.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Você bloqueou notificações deste site.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Você bloqueou o armazenamento persistente para este site.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Você bloqueou pop-ups para esse site.">
 <!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Você bloqueou a reprodução automática de mídia com som para esse site.">
