@@ -4,9 +4,11 @@
 
 abuse-report-title-extension = รายงานส่วนขยายนี้ไปยัง { -vendor-short-name }
 abuse-report-title-theme = รายงานชุดตกแต่งนี้ไปยัง { -vendor-short-name }
+abuse-report-subtitle = มีปัญหาอะไร?
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = โดย <a data-l10n-name="author-name">{ $author-name }</a>
+abuse-report-submit-description = อธิบายปัญหา (เพิ่มเติม)
 
 ## Panel buttons.
 
@@ -21,6 +23,7 @@ abuse-report-submit-button = ส่ง
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+abuse-report-messagebar-submitted-noremove = ขอบคุณที่ส่งรายงาน
 
 ## Message bars actions.
 
@@ -33,3 +36,12 @@ abuse-report-messagebar-action-cancel = ยกเลิก
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason = ทำลายคอมพิวเตอร์และข้อมูลของฉัน
+abuse-report-spam-reason = สร้างสแปมหรือโฆษณา
+abuse-report-settings-reason = เปลี่ยนเครื่องมือค้นหา, หน้าแรก, หรือแท็บใหม่ของฉันโดยไม่แจ้งหรือถามฉัน
+abuse-report-settings-suggestions-search = เปลี่ยนการตั้งค่าการค้นหาเริ่มต้นของคุณ
+abuse-report-settings-suggestions-homepage = เปลี่ยนหน้าแรกและแท็บใหม่ของคุณ
+abuse-report-deceptive-reason = แกล้งทำเป็นสิ่งที่ไม่ใช่
+abuse-report-broken-reason-extension = ไม่ทำงาน, ทำให้เว็บไซต์ล่ม, หรือทำให้ { -brand-product-name } ช้าลง
+abuse-report-broken-reason-theme = ไม่ทำงานหรือทำให้การแสดงผลของเบราว์เซอร์เสียหาย
+abuse-report-other-reason = อื่น ๆ
