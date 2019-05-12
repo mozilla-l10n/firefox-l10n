@@ -147,6 +147,9 @@ legacy-extensions =
 extensions-view-discover =
     .name = รับส่วนเสริม
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = คำแนะนำ
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = การอัปเดตล่าสุด
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -251,19 +254,47 @@ shortcuts-card-collapse-button = แสดงน้อยลง
 go-back-button =
     .tooltiptext = ย้อนกลับ
 
+## Recommended add-ons page
+
+discopane-notice-learn-more = เรียนรู้เพิ่มเติม
+privacy-policy = นโยบายความเป็นส่วนตัว
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = โดย <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = ผู้ใช้: { $dailyUsers }
+install-extension-button = เพิ่มไปยัง { -brand-product-name }
+install-theme-button = ติดตั้งชุดตกแต่ง
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = จัดการ
+find-more-addons = ค้นหาส่วนเสริมเพิ่มเติม
+
 ## Add-on actions
 
+report-addon-button = รายงาน
 remove-addon-button = เอาออก
 disable-addon-button = ปิดใช้งาน
 enable-addon-button = เปิดใช้งาน
 expand-addon-button = ตัวเลือกเพิ่มเติม
 addons-enabled-heading = เปิดใช้งานอยู่
 addons-disabled-heading = ปิดใช้งานอยู่
+ask-to-activate-button = ถามเพื่อเปิดใช้งาน
+always-activate-button = เปิดใช้งานเสมอ
+never-activate-button = ไม่เปิดใช้งานเสมอ
 addon-detail-author-label = ผู้สร้าง
 addon-detail-version-label = รุ่น
 addon-detail-last-updated-label = อัปเดตล่าสุด
 addon-detail-homepage-label = หน้าแรก
 addon-detail-rating-label = การจัดอันดับ
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = ได้รับการจัดอันดับ { NUMBER($rating, maximumFractionDigits: 1) } จาก 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -275,3 +306,24 @@ addon-detail-reviews-link =
     { $numberOfReviews ->
        *[other] { $numberOfReviews } บทวิจารณ์
     }
+
+## Pending uninstall message bar
+
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = เอา <span data-l10n-name="addon-name">{ $addon }</span> ออกแล้ว
+pending-uninstall-undo-button = เลิกทำ
+addon-detail-updates-label = อนุญาตให้อัปเดตโดยอัตโนมัติ
+addon-detail-updates-radio-default = ค่าเริ่มต้น
+addon-detail-updates-radio-on = เปิด
+addon-detail-updates-radio-off = ปิด
+addon-detail-update-check-label = ตรวจสอบการอัปเดต
+install-update-button = อัปเดต
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = อนุญาตในหน้าต่างส่วนตัวแล้ว
+addon-detail-private-browsing-allow = อนุญาต
+addon-detail-private-browsing-disallow = ไม่อนุญาต
+available-updates-heading = การอัปเดตที่มี
+recent-updates-heading = การอัปเดตล่าสุด
