@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutTelemetry.showArchivedPingData "ข้อมูล ping ที่เก็บถาวร">
+<!ENTITY aboutTelemetry.archivePingType "ชนิด Ping">
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
 <!ENTITY aboutTelemetry.optionGroupToday "วันนี้">
 <!ENTITY aboutTelemetry.optionGroupYesterday "เมื่อวานนี้">
