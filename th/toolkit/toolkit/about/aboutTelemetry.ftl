@@ -2,7 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-telemetry-ping-data-source = แหล่งข้อมูล Ping:
+about-telemetry-show-current-ping-data = ข้อมูล ping ปัจจุบัน
 about-telemetry-show-archived-ping-data = ข้อมูล ping ที่เก็บถาวร
+about-telemetry-choose-ping = เลือก ping:
 about-telemetry-archive-ping-type = ชนิด Ping
 about-telemetry-archive-ping-header = Ping
 about-telemetry-option-group-today = วันนี้

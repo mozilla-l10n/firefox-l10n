@@ -27,6 +27,7 @@ features-debugger-title = ตัวดีบั๊ก
 features-network-title = เครือข่าย
 features-storage-title = ที่เก็บข้อมูล
 features-responsive-title = โหมดการออกแบบเชิงตอบสนอง
+features-visual-editing-title = การแก้ไขสิ่งที่มองเห็น
 features-performance-title = ประสิทธิภาพ
 features-memory-title = หน่วยความจำ
 # Variables:
