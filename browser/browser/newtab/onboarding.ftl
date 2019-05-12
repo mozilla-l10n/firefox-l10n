@@ -10,6 +10,7 @@ onboarding-button-label-try-now = Pruébelo ahora
 onboarding-button-label-get-started = Comenzar
 onboarding-welcome-header = Bienvenido a { -brand-short-name }
 onboarding-welcome-learn-more = Saber más sobre las ventajas.
+onboarding-join-form-header = Unirse a { -brand-product-name }
 onboarding-join-form-body = Para empezar, introduzca su dirección de correo.
 onboarding-join-form-email =
     .placeholder = Introducir dirección de correo
@@ -51,10 +52,16 @@ onboarding-tracking-protection-button =
         [windows] Actualizar opciones
        *[other] Actualizar preferencias
     }
+onboarding-tracking-protection-title2 = Protección contra rastreo
+onboarding-tracking-protection-text2 = { -brand-short-name } le ayuda a impedir que los sitios le rastreen en línea, por lo que será más difícil que la publicidad le siga mientras navega.
+onboarding-tracking-protection-button2 = Cómo funciona
 onboarding-data-sync-title = Llévate tus ajustes contigo
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = Sincroniza tus marcadores y contraseñas siempre que uses { -brand-product-name }.
 onboarding-data-sync-button = Activar { -sync-brand-short-name }
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Sincronice sus marcadores, contraseñas y mucho más donde quiera que use { -brand-product-name }.
+onboarding-data-sync-button2 = Iniciar sesión en { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Mantente al día sobre las filtraciones de datos
 onboarding-firefox-monitor-text = { -monitor-brand-name } comprueba si tu dirección de correo ha aparecido en una filtración de datos y te avisa si vuelve a aparecer.
 onboarding-firefox-monitor-button = Suscríbase para recibir alertas
@@ -62,6 +69,7 @@ onboarding-browse-privately-title = Navegue de forma privada
 onboarding-browse-privately-text = La navegación privada elimina tu historial de búsquedas y de navegación para que nadie que use tu equipo tenga acceso a ellos.
 onboarding-browse-privately-button = Abrir una ventana privada
 onboarding-firefox-send-text = { -send-brand-name } protege los archivos que compartes con un cifrado de extremo a extremo y un enlace que expira automáticamente.
+onboarding-firefox-send-text2 = Suba sus archivos a { -send-brand-name } para compartirlos con cifrado de extremo a extremo y un enlace que expira automáticamente.
 onboarding-firefox-send-button = Pruebe { -send-brand-name }
 onboarding-mobile-phone-title = Consiga { -brand-product-name } en su teléfono
 onboarding-mobile-phone-text = Descargue { -brand-product-name } para iOS o Android y sincronice su información en todos los dispositivos.
@@ -75,10 +83,12 @@ onboarding-send-tabs-button = Empieza a usar Send Tabs
 onboarding-pocket-anywhere-title = Lee y escucha sea donde sea
 # "downtime" refers to the user's free/spare time.
 onboarding-pocket-anywhere-text = { -pocket-brand-name } guarda tus historias favoritas para que puedas leerlas, escucharlas o verlas cuando quieras, incluso sin conexión.
+onboarding-pocket-anywhere-text2 = Guarde su contenido favorito sin conexión gracias a la aplicación de { -pocket-brand-name } y léalo, escúchelo o véalo dónde y cuándo mejor le convenga.
 onboarding-pocket-anywhere-button = Pruebe { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Llévese sus contraseñas consigo a todas partes
 onboarding-lockwise-passwords-text = { -lockwise-brand-name } guarda tus contraseñas en un lugar seguro para que puedas iniciar sesión en tus cuentas de una forma más sencilla.
 onboarding-lockwise-passwords-button = Consiga { -lockwise-brand-name }
+onboarding-lockwise-passwords-button2 = Conseguir la aplicación
 onboarding-facebook-container-title = Establece límites con Facebook
 onboarding-facebook-container-text = { -facebook-container-brand-name } separa tu identidad de Facebook de todo lo demás, dificultando así que pueda rastrearte por la web.
 onboarding-facebook-container-button = Agregar extensión
