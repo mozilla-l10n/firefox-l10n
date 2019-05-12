@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Mirë se vini">
 <!ENTITY firstrun_urlbar_message2 "Faleminderit që zgjidhni &brandShortName;-in">
+<!ENTITY newfirstrun_urlbar_message "Mirë se vini te &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Një shfletues modern për celularë, nga Mozilla, enti jofitimprurës i përkushtuar një web-i të lirë dhe të hapur.">
+<!ENTITY newfirstrun_urlbar_subtext "I shpejtë, privat, dhe krah jush.">
 <!ENTITY firstrun_panel_title_privacy "Privatësi">
 <!ENTITY firstrun_privacy_message "Shfletoni si të mos ju shihte kush">
 <!ENTITY firstrun_privacy_subtext "Shfletimi Privat me Mbrojtje Nga Gjurmimet bllokon gjurmues teksa shfletoni dhe nuk do të mbajë mend historikun tuaj kur të mbaroni së shfletuari.">
+<!ENTITY newfirstrun_privacy_subtext "Shfletimi privat bllokon gjurmues reklamash që ju ndjekin nëpër internet.">
 <!ENTITY firstrun_panel_title_customize "Përshtateni">
 <!ENTITY firstrun_customize_message "Bëjeni &brandShortName;-in tuajin.">
 <!ENTITY firstrun_customize_subtext "Përshtateni &brandShortName;-in me shtesa. Bllokoni shtesa, shtojini veçori, ose zgjidhni një temë të re që pasqyron personalitetin tuaj.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Vazhdoni atje ku e latë.">
 <!ENTITY firstrun_sync_subtext2 "Përdoreni Sync-un që të gjeni faqerojtës, fjalëkalime dhe të tjera gjëra që ruani në &brandShortName; në krejt pajisjet tuaja.">
+<!ENTITY newfirstrun_sync_subtext "Njëkohësoni te Firefox-i për desktop gjëra që ruani në celular, privatisht dhe në mënyrë të parrezik.">
 <!ENTITY firstrun_signin_message "Lidhuni, fillojani">
 <!ENTITY firstrun_signin_button "Bëni hyrjen, që të Njëkohësohet">
+<!ENTITY newfirstrun_signin_button "Aktivizo Sync-un">
 <!ENTITY  onboard_start_button_browser "Filloni të Shfletoni">
 <!ENTITY firstrun_button_notnow "Jo tani">
 <!ENTITY firstrun_button_next "Pasuesi">
@@ -414,7 +419,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_default_browser2 "Bëjeni &brandShortName;-in shfletuesin tuaj parazgjedhje">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
-    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Prekni Aplikacionin Shfletues &amp; përzgjidhni &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Vizitoni Asistencën e Mozilla-s">
 <!ENTITY pref_about_firefox "Rreth &brandShortName;">
@@ -914,6 +919,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Pushim">
 <!ENTITY pip_pause_button_description "Pushoje luajtjen">
 
+<!ENTITY pref_notification_settings_link "Administroni rregullime njoftimesh">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Shfletues">
 <!ENTITY mls_notification_channel "Shërbim Lokalizimi i &vendorShortName;">
