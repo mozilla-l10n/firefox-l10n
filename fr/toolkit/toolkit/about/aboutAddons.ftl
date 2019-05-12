@@ -266,6 +266,14 @@ shortcuts-card-collapse-button = En montrer moins
 go-back-button =
     .tooltiptext = Retour
 
+## Recommended add-ons page
+
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Utilisateurs : { $dailyUsers }
+install-extension-button = Ajouter à { -brand-product-name }
+
 ## Add-on actions
 
 remove-addon-button = Supprimer
@@ -291,3 +299,6 @@ addon-detail-reviews-link =
         [one] { $numberOfReviews } critique
        *[other] { $numberOfReviews } critiques
     }
+
+## Pending uninstall message bar
+
