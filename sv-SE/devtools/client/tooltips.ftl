@@ -28,3 +28,5 @@ inactive-css-not-grid-or-flex-container-fix = Försök lägga till <strong>displ
 inactive-css-not-grid-or-flex-item-fix = Försök lägga till <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> eller <strong>display:inline-flex</strong>. { learn-more }
 inactive-css-not-grid-item-fix = Försök lägga till <strong>display:grid</strong> eller <strong>display:inline-grid</strong> till objektets förälder. { learn-more }
 inactive-css-not-grid-container-fix = Försök lägga till <strong>display:grid</strong> eller <strong>display:inline-grid</strong>. { learn-more }
+inactive-css-not-flex-item-fix = Försök lägga till <strong>display:flex</strong> eller <strong>display:inline-flex</strong> till objektets förälder. { learn-more }
+inactive-css-not-flex-container-fix = Försök lägga till <strong>display:flex</strong> eller <strong>display:inline-flex</strong>. { learn-more }

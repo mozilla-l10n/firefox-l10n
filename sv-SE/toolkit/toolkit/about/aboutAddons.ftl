@@ -264,6 +264,19 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Tillägg och teman är som appar för din webbläsare, och de låter dig
+    skydda lösenord, ladda ner videor, hitta erbjudanden, blockera irriterande annonser, ändra
+    hur din webbläsare ser ut, och mycket mer. Dessa små program är
+    ofta utvecklad av en tredje part. Här är ett urval { -brand-product-name }
+    <a data-l10n-name="learn-more-trigger">rekommenderar</a> för exceptionell
+    säkerhet, prestanda och funktionalitet.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Några av dessa rekommendationer är personliga. De är baserade på andra
+    tillägg som du har installerat, profilinställningar och användarstatistik.
 discopane-notice-learn-more = Lär dig mer
 privacy-policy = Sekretesspolicy
 # Refers to the author of an add-on, shown below the name of the add-on.
