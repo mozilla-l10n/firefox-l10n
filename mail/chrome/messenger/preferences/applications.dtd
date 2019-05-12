@@ -34,5 +34,7 @@
 <!ENTITY authRequired.button.label        "อนุญาต">
 <!ENTITY authRequired.button.accesskey    "อ">
 
+<!ENTITY findCloudFileProviders.label     "ค้นหาผู้ให้บริการเพิ่มเติม…">
+
 <!ENTITY enableCloudFileAccountOffer.label "เสนอให้แบ่งปันไฟล์ที่มีขนาดใหญ่กว่า">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">

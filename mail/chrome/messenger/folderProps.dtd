@@ -12,6 +12,7 @@
 <!ENTITY folderRebuildSummaryFileTip2.label      "สร้างดัชนีไฟล์ข้อมูลสรุปใหม่">
 <!ENTITY folderRebuildSummaryFile2.label         "ซ่อมแซมโฟลเดอร์">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "ซ">
+<!ENTITY folderRebuildSummaryFile.explanation    "บางครั้งไฟล์ดัชนีโฟลเดอร์ (.msf) อาจเสียหาย ส่งผลให้ข้อความอาจหายไปหรือข้อความที่ถูกลบแสดงขึ้น การซ่อมแซมโฟลเดอร์อาจซ่อมแซมปัญหาเหล่านี้ได้">
 <!ENTITY folderIncludeInGlobalSearch.label       "รวมข้อความในโฟลเดอร์นี้ในผลการค้นหาส่วนกลาง">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "ว">
 

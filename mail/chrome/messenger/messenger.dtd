@@ -21,22 +21,36 @@
      window.
      -->
 <!ENTITY moveToNewWindow.label "ย้ายไปยังหน้าต่างใหม่">
+<!ENTITY moveToNewWindow.accesskey "ย">
 <!ENTITY newVirtualFolderCmd.label "การค้นหาที่บันทึกไว้…">
+<!ENTITY newVirtualFolderCmd.accesskey "ก">
 <!ENTITY newOtherAccountsCmd.label "บัญชีอื่น ๆ…">
+<!ENTITY newOtherAccountsCmd.accesskey "บ">
 <!ENTITY newCreateEmailAccountCmd.label "รับบัญชีจดหมายใหม่…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "ร">
 <!ENTITY newExistingEmailAccountCmd.label "บัญชีจดหมายที่มีอยู่…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "ญ">
 <!ENTITY newIMAccountCmd.label "บัญชีแชท…">
+<!ENTITY newIMAccountCmd.accesskey "บ">
 <!ENTITY newFeedAccountCmd.label "บัญชีฟีด…">
+<!ENTITY newFeedAccountCmd.accesskey "ช">
 <!ENTITY newIMContactCmd.label "ผู้ติดต่อแชท…">
+<!ENTITY newIMContactCmd.accesskey "ผ">
 <!ENTITY  newMessageCmd2.key "N">
 <!ENTITY  newMessageCmd.key "M">
 <!ENTITY  newMessageCmd.label "ข้อความ">
+<!ENTITY  newMessageCmd.accesskey "ข">
 <!ENTITY  newContactCmd.label "ผู้ติดต่อของสมุดรายชื่อ…">
+<!ENTITY  newContactCmd.accesskey "ผ">
 <!ENTITY openMessageFileCmd.label "เปิดข้อความที่บันทึกไว้…">
+<!ENTITY openMessageFileCmd.accesskey "ป">
 <!ENTITY saveAsMenu.label "บันทึกเป็น">
+<!ENTITY saveAsMenu.accesskey "บ">
 <!ENTITY saveAsFileCmd.label "ไฟล์">
+<!ENTITY saveAsFileCmd.accesskey "ฟ">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "แม่แบบ">
+<!ENTITY saveAsTemplateCmd.accesskey "ม">
 <!ENTITY getNewMsgForCmd.label "รับข้อความใหม่สำหรับ">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "บัญชีทั้งหมด">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "บัญชีปัจจุบัน">
