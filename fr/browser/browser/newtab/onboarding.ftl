@@ -62,19 +62,23 @@ onboarding-tracking-protection-button =
        *[other] Modifier les préférences
     }
 onboarding-tracking-protection-title2 = Protection contre le pistage
+onboarding-tracking-protection-button2 = Principes de fonctionnement
 onboarding-data-sync-title = Emportez vos paramètres avec vous
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = Synchronisez vos marque-pages et vos mots de passe partout où vous utilisez { -brand-product-name }.
 onboarding-data-sync-button = Activer { -sync-brand-short-name }
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Synchronisez marque-pages, mots de passe, etc., partout ou vous utilisez { -brand-product-name }.
+onboarding-data-sync-button2 = Connectez-vous à { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Suivez de près les fuites de données
 onboarding-firefox-monitor-text = { -monitor-brand-name } vérifie si votre adresse électronique fait partie d’une fuite de données et vous alerte si elle apparaît dans une nouvelle fuite de données.
 onboarding-firefox-monitor-button = S’abonner aux alertes
 onboarding-browse-privately-title = Naviguez en toute confidentialité
+onboarding-browse-privately-text = La navigation privée efface vos historiques de navigation et de recherches pour que les autres utilisateurs de votre ordinateur n’en sachent rien.
 onboarding-browse-privately-button = Ouvrir une fenêtre de navigation privée
 onboarding-firefox-send-title = Protégez les fichiers que vous partagez
 onboarding-firefox-send-text = { -send-brand-name } protège les fichiers que vous partagez avec un chiffrement de bout en bout et un lien qui expire automatiquement.
+onboarding-firefox-send-text2 = Envoyez vos fichiers sur { -send-brand-name } pour les partager avec un chiffrement de bout en bout et un lien qui expire automatiquement.
 onboarding-firefox-send-button = Essayer { -send-brand-name }
 onboarding-mobile-phone-title = Installez { -brand-product-name } sur votre téléphone
 onboarding-mobile-phone-text = Téléchargez { -brand-product-name } pour iOS ou Android et synchronisez vos données entre vos appareils.
@@ -82,6 +86,10 @@ onboarding-mobile-phone-text = Téléchargez { -brand-product-name } pour iOS ou
 # browser.
 onboarding-mobile-phone-button = Télécharger le navigateur mobile
 onboarding-send-tabs-title = Envoyez-vous des onglets
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = L’envoi d’onglets partage instantanément des pages entre vos appareils sans avoir à copier, coller ou quitter le navigateur.
+onboarding-send-tabs-button = Commencer à utiliser « Envoyer l’onglet »
 onboarding-pocket-anywhere-button = Essayer { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Emmenez vos mots de passe partout
 onboarding-lockwise-passwords-text = { -lockwise-brand-name } conserve vos mots de passe en lieu sûr, vous permettant ainsi de vous connecter facilement à vos comptes.
