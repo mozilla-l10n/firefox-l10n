@@ -54,7 +54,7 @@ onboarding-ghostery-text = Surf sneller, slimmer of veiliger met extensies zoals
 onboarding-fxa-title = Synchroniseren
 onboarding-fxa-text = Maak een { -fxaccount-brand-name } aan en synchroniseer uw bladwijzers, wachtwoorden en open tabbladen, overal waar u { -brand-short-name } gebruikt.
 onboarding-tracking-protection-title = Bepaal hoe u wordt gevolgd
-onboarding-tracking-protection-text = Vind u het niet leuk als u wordt gevolgd door advertenties? Met { -brand-short-name } bepaalt u hoe adverteerders uw online activiteit bijhouden.
+onboarding-tracking-protection-text = Vindt u het niet leuk als u wordt gevolgd door advertenties? Met { -brand-short-name } bepaalt u hoe adverteerders uw online activiteit bijhouden.
 # "Update" is a verb, as in "Update the existing settings", not "Options about
 # updates".
 onboarding-tracking-protection-button =
