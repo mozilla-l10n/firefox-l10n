@@ -1133,6 +1133,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "ร">
 <!ENTITY updateRestart.cancelButton.label "ไม่ใช่ตอนนี้">
 <!ENTITY updateRestart.cancelButton.accesskey "ม">
+<!ENTITY updateUnsupported.panelUI.label "คุณไม่สามารถดำเนินการอัปเดตเพิ่มเติมได้">
 <!ENTITY updateRestart.panelUI.label2 "เริ่มการทำงานใหม่เพื่ออัปเดต &brandShorterName;">
 
 <!ENTITY newTabControlled.header.message "แท็บใหม่ของคุณมีการเปลี่ยนแปลง">
