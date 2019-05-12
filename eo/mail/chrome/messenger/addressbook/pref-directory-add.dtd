@@ -2,35 +2,35 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY directoryName.label               "Name: ">
-<!ENTITY directoryName.accesskey           "n">
-<!ENTITY directoryHostname.label           "Hostname: ">
-<!ENTITY directoryHostname.accesskey       "o">
-<!ENTITY directoryBaseDN.label             "Base DN: ">
-<!ENTITY directoryBaseDN.accesskey         "b">
-<!ENTITY findButton.label                  "Find">
-<!ENTITY findButton.accesskey              "f">
-<!ENTITY directorySecure.label             "Use secure connection (SSL)">
+<!ENTITY directoryName.label               "Nomo: ">
+<!ENTITY directoryName.accesskey           "N">
+<!ENTITY directoryHostname.label           "Servila nomo: ">
+<!ENTITY directoryHostname.accesskey       "r">
+<!ENTITY directoryBaseDN.label             "Baza DN: ">
+<!ENTITY directoryBaseDN.accesskey         "D">
+<!ENTITY findButton.label                  "Serĉi">
+<!ENTITY findButton.accesskey              "S">
+<!ENTITY directorySecure.label             "Uzi sekuran konekton (SSL)">
 <!ENTITY directorySecure.accesskey         "U">
-<!ENTITY directoryLogin.label              "Bind DN: ">
-<!ENTITY directoryLogin.accesskey          "i">
-<!ENTITY General.tab                       "General">
-<!ENTITY Offline.tab                       "Offline">
-<!ENTITY Advanced.tab                      "Advanced">
-<!ENTITY portNumber.label                  "Port number: ">
+<!ENTITY directoryLogin.label              "Servilo Bind DN: ">
+<!ENTITY directoryLogin.accesskey          "B">
+<!ENTITY General.tab                       "Ĝeneralaj">
+<!ENTITY Offline.tab                       "Malkonekta">
+<!ENTITY Advanced.tab                      "Spertulaj">
+<!ENTITY portNumber.label                  "Numero de pordo: ">
 <!ENTITY portNumber.accesskey              "p">
-<!ENTITY searchFilter.label                "Search filter: ">
+<!ENTITY searchFilter.label                "Serĉa filtrilo: ">
 <!ENTITY searchFilter.accesskey            "f">
-<!ENTITY scope.label                       "Scope: ">
-<!ENTITY scope.accesskey                   "c">
-<!ENTITY scopeOneLevel.label               "One Level">
-<!ENTITY scopeOneLevel.accesskey           "L">
-<!ENTITY scopeSubtree.label                "Subtree">
-<!ENTITY scopeSubtree.accesskey            "S">
-<!ENTITY return.label                      "Don't return more than">
-<!ENTITY return.accesskey                  "r">
-<!ENTITY results.label                     "results">
-<!ENTITY offlineText.label                 "You can download a local copy of this directory so that it is available for use when you are working offline.">
+<!ENTITY scope.label                       "Amplekso: ">
+<!ENTITY scope.accesskey                   "A">
+<!ENTITY scopeOneLevel.label               "unu nivelo">
+<!ENTITY scopeOneLevel.accesskey           "u">
+<!ENTITY scopeSubtree.label                "ĉiuj subniveloj">
+<!ENTITY scopeSubtree.accesskey            "s">
+<!ENTITY return.label                      "Rezultoj maksimume">
+<!ENTITY return.accesskey                  "m">
+<!ENTITY results.label                     "">
+<!ENTITY offlineText.label                 "Vi povas krei lokan kopion de tiu ĉi katalogo por igi ĝin disponebla por malkonekta laboro.">
 <!ENTITY saslMechanism.label               "Login method: ">
 <!ENTITY saslMechanism.accesskey           "m">
 <!ENTITY saslOff.label                     "Simple">
@@ -38,7 +38,7 @@
 <!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
 <!ENTITY saslGSSAPI.accesskey              "K">
 
-<!-- Localization note: this is here because the width of the dialog 
+<!-- Localization note: this is here because the width of the dialog
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
