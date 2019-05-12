@@ -62,10 +62,16 @@ onboarding-tracking-protection-button =
         [windows] Uppdatera inställningar
        *[other] Uppdatera inställningar
     }
+onboarding-tracking-protection-title2 = Skydd från spårning
+onboarding-tracking-protection-text2 = { -brand-short-name } hjälper till att stoppa webbplatser från att spåra dig online, vilket gör det svårare för annonser att följa dig på webben.
+onboarding-tracking-protection-button2 = Hur det fungerar
 onboarding-data-sync-title = Ta dina inställningar med dig
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = Synkronisera dina bokmärken och lösenord överallt där du använder { -brand-product-name }.
 onboarding-data-sync-button = Slå på { -sync-brand-short-name }
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Synkronisera dina bokmärken, lösenord och mer överallt där du använder { -brand-product-name }.
+onboarding-data-sync-button2 = Logga in på { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Var uppmärksam på dataintrång
 onboarding-firefox-monitor-text = { -monitor-brand-name } övervakar om din e-postadress har dykt upp i ett dataintrång och varnar dig om det visas i ett nytt intrång.
 onboarding-firefox-monitor-button = Registrera dig för varningar
@@ -74,6 +80,7 @@ onboarding-browse-privately-text = Privat surfning rensar din sök- och surfhist
 onboarding-browse-privately-button = Öppna ett privat fönster
 onboarding-firefox-send-title = Håll dina delade filer privata
 onboarding-firefox-send-text = { -send-brand-name } skyddar filerna du delar med end-to-end-kryptering och en länk som automatiskt upphör.
+onboarding-firefox-send-text2 = Ladda upp dina filer till { -send-brand-name } för att dela dem med end-to-end-kryptering och en länk som automatiskt upphör.
 onboarding-firefox-send-button = Prova { -send-brand-name }
 onboarding-mobile-phone-title = Hämta { -brand-product-name } till din telefon
 onboarding-mobile-phone-text = Hämta { -brand-product-name } för iOS eller Android och synkronisera dina data mellan enheter.
@@ -88,12 +95,16 @@ onboarding-send-tabs-button = Börja använda Send Tabs
 onboarding-pocket-anywhere-title = Läs och lyssna var som helst
 # "downtime" refers to the user's free/spare time.
 onboarding-pocket-anywhere-text = { -pocket-brand-name } sparar dina favoritberättelser så att du kan läsa, lyssna och titta, även om du är offline.
+onboarding-pocket-anywhere-text2 = Spara ditt favoritinnehåll offline med appen { -pocket-brand-name } och läs, lyssna och kolla när det är bekvämt för dig.
 onboarding-pocket-anywhere-button = Prova { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Ta med dina lösenord överallt
 onboarding-lockwise-passwords-text = { -lockwise-brand-name } sparar dina lösenord på ett säkert ställe så att du enkelt kan logga in på dina konton.
 onboarding-lockwise-passwords-button = Hämta { -lockwise-brand-name }
+onboarding-lockwise-passwords-text2 = Håll lösenordet du sparar säkert och logga enkelt in på dina konton med { -lockwise-brand-name }
+onboarding-lockwise-passwords-button2 = Hämta appen
 onboarding-facebook-container-title = Ange gränser för Facebook
 onboarding-facebook-container-text = { -facebook-container-brand-name } håller din Facebook-identitet skild från allting, vilket gör det svårare att spåra dig över nätet.
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } håller din profil skild från allt annat, vilket gör det svårare för Facebook att rikta annonser.
 onboarding-facebook-container-button = Lägg till tillägget
 
 ## Message strings belonging to the Return to AMO flow
