@@ -34,6 +34,7 @@ abuse-report-submit-button = Skicka in
 abuse-report-messagebar-aborted = Rapport för <span data-l10n-name="addon-name">{ $addon-name }</span> avbruten.
 abuse-report-messagebar-submitting = Skickar rapport för <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Tack för att du skickade in en rapport. Vill du ta bort <span data-l10n-name="addon-name">{ $addon-name }</span>?
+abuse-report-messagebar-submitted-noremove = Tack för att du skickade in en rapport.
 abuse-report-messagebar-removed-extension = Tack för att du skickade in en rapport. Du har tagit bort tillägget <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = Tack för att du skickade in en rapport. Du har tagit bort temat <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Det gick inte att skicka rapporten för <span data-l10n-name="addon-name">{ $addon-name }</span>.
@@ -41,8 +42,10 @@ abuse-report-messagebar-error-recent-submit = Rapporten för <span data-l10n-nam
 
 ## Message bars actions.
 
-abuse-report-messagebar-action-remove = Ja, ta bort det
-abuse-report-messagebar-action-keep = Nej, jag kommer att behålla det
+abuse-report-messagebar-action-remove-extension = Ja, ta bort det
+abuse-report-messagebar-action-keep-extension = Nej, jag behåller det
+abuse-report-messagebar-action-remove-theme = Ja, ta bort det
+abuse-report-messagebar-action-keep-theme = Nej, jag behåller det
 abuse-report-messagebar-action-retry = Försök igen
 abuse-report-messagebar-action-cancel = Avbryt
 
