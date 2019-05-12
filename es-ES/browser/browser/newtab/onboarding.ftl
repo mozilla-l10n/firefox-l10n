@@ -89,8 +89,9 @@ onboarding-lockwise-passwords-title = Llévese sus contraseñas consigo a todas 
 onboarding-lockwise-passwords-text = { -lockwise-brand-name } guarda tus contraseñas en un lugar seguro para que puedas iniciar sesión en tus cuentas de una forma más sencilla.
 onboarding-lockwise-passwords-button = Consiga { -lockwise-brand-name }
 onboarding-lockwise-passwords-button2 = Conseguir la aplicación
-onboarding-facebook-container-title = Establece límites con Facebook
-onboarding-facebook-container-text = { -facebook-container-brand-name } separa tu identidad de Facebook de todo lo demás, dificultando así que pueda rastrearte por la web.
+onboarding-facebook-container-title = Establezca límites con Facebook
+onboarding-facebook-container-text = { -facebook-container-brand-name } separa su identidad de Facebook de todo lo demás, dificultando así que pueda rastrearle por la web.
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } separa su identidad de Facebook de todo lo demás, dificultando así que Facebook pueda mostrarle publicidad personalizada.
 onboarding-facebook-container-button = Agregar extensión
 
 ## Message strings belonging to the Return to AMO flow
