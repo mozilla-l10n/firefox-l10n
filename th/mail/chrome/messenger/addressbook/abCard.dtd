@@ -48,21 +48,34 @@
 <!ENTITY chatName.label                 "ชื่อแชท:">
 
 <!ENTITY WorkPhone.label                "ที่ทำงาน:">
+<!ENTITY WorkPhone.accesskey            "ง">
 <!ENTITY HomePhone.label                "บ้าน:">
+<!ENTITY HomePhone.accesskey            "บ">
 <!ENTITY FaxNumber.label                "โทรสาร:">
-<!ENTITY PagerNumber.label              "เพจเจอร์:">
+<!ENTITY FaxNumber.accesskey            "ท">
+<!ENTITY PagerNumber.label              "วิทยุติดตามตัว:">
+<!ENTITY PagerNumber.accesskey          "ว">
 <!ENTITY CellularNumber.label           "มือถือ:">
+<!ENTITY CellularNumber.accesskey       "ม">
 
 <!ENTITY Home.tab                       "ส่วนตัว">
+<!ENTITY Home.accesskey                 "ส">
 <!ENTITY HomeAddress.label              "ที่อยู่:">
+<!ENTITY HomeAddress.accesskey          "ท">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "เมือง:">
+<!ENTITY HomeCity.accesskey             "เ">
 <!ENTITY HomeState.label                "รัฐ/จังหวัด:">
+<!ENTITY HomeState.accesskey            "ร">
 <!ENTITY HomeZipCode.label              "รหัสไปรษณีย์:">
+<!ENTITY HomeZipCode.accesskey          "ห">
 <!ENTITY HomeCountry.label              "ประเทศ:">
+<!ENTITY HomeCountry.accesskey          "ป">
 <!ENTITY HomeWebPage.label              "หน้าเว็บ:">
+<!ENTITY HomeWebPage.accesskey          "น">
 <!ENTITY Birthday.label                 "วันเกิด:">
+<!ENTITY Birthday.accesskey             "ก">
 <!ENTITY In.label                       "">
 <!ENTITY Month.placeholder              "เดือน">
 <!ENTITY Day.placeholder                "วัน">
@@ -73,19 +86,30 @@
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "ที่ทำงาน">
-<!ENTITY JobTitle.label                 "ชื่อเรื่อง:">
+<!ENTITY Work.accesskey                 "ง">
+<!ENTITY JobTitle.label                 "ตำแหน่ง:">
+<!ENTITY JobTitle.accesskey             "ต">
 <!ENTITY Department.label               "แผนก:">
+<!ENTITY Department.accesskey           "ผ">
 <!ENTITY Company.label                  "องค์กร:">
+<!ENTITY Company.accesskey              "อ">
 <!ENTITY WorkAddress.label              "ที่อยู่:">
+<!ENTITY WorkAddress.accesskey          "ท">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "เมือง:">
+<!ENTITY WorkCity.accesskey             "ม">
 <!ENTITY WorkState.label                "รัฐ/จังหวัด:">
+<!ENTITY WorkState.accesskey            "ร">
 <!ENTITY WorkZipCode.label              "รหัสไปรษณีย์:">
+<!ENTITY WorkZipCode.accesskey          "ห">
 <!ENTITY WorkCountry.label              "ประเทศ:">
+<!ENTITY WorkCountry.accesskey          "ป">
 <!ENTITY WorkWebPage.label              "หน้าเว็บ:">
+<!ENTITY WorkWebPage.accesskey          "น">
 
 <!ENTITY Other.tab                      "อื่น ๆ">
+<!ENTITY Other.accesskey                "อ">
 <!ENTITY Custom1.label                  "กำหนดเอง 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "กำหนดเอง 2:">
@@ -95,24 +119,40 @@
 <!ENTITY Custom4.label                  "กำหนดเอง 4:">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "หมายเหตุ:">
+<!ENTITY Notes.accesskey                "า">
 
 <!ENTITY Chat.tab                       "แชท">
+<!ENTITY Chat.accesskey                 "แ">
 <!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM2.accesskey                 "M">
 <!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
 <!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
 <!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
 <!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN2.accesskey                 "N">
 <!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
 <!ENTITY XMPP.label                     "Jabber ID:">
+<!ENTITY XMPP.accesskey                 "J">
 <!ENTITY IRC.label                      "ชื่อเล่น IRC:">
+<!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "รูปถ่าย">
+<!ENTITY Photo.accesskey                "ถ">
 <!ENTITY GenericPhoto.label             "รูปถ่ายทั่วไป">
+<!ENTITY GenericPhoto.accesskey         "ไ">
 <!ENTITY DefaultPhoto.label             "ค่าเริ่มต้น">
 <!ENTITY PhotoFile.label                "ในคอมพิวเตอร์เครื่องนี้">
+<!ENTITY PhotoFile.accesskey            "ใ">
 <!ENTITY BrowsePhoto.label              "เรียกดู">
+<!ENTITY BrowsePhoto.accesskey          "ร">
 <!ENTITY PhotoURL.label                 "บนเว็บ">
+<!ENTITY PhotoURL.accesskey             "บ">
 <!ENTITY PhotoURL.placeholder           "วางหรือพิมพ์ที่อยู่เว็บของรูปถ่าย">
 <!ENTITY UpdatePhoto.label              "อัปเดต">
 <!ENTITY UpdatePhoto.accesskey          "อ">
