@@ -87,6 +87,7 @@ onboarding-mobile-phone-text = Descargue { -brand-product-name } para iOS o Andr
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Descargar navegador móvil
+onboarding-send-tabs-title = Envíese las pestañas instantáneamente
 onboarding-pocket-anywhere-title = Leer y escuchar en cualquier lugar
 onboarding-pocket-anywhere-button = Probar { -pocket-brand-name }
 onboarding-lockwise-passwords-button = Obtener { -lockwise-brand-name }
