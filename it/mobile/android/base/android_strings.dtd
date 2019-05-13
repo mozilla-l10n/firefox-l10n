@@ -252,7 +252,6 @@
 <!ENTITY pref_private_data_siteSettings2 "Impostazioni siti">
 <!ENTITY pref_private_data_downloadFiles2 "Download">
 <!ENTITY pref_private_data_syncedTabs "Schede sincronizzate">
-<!ENTITY pref_default_browser "Imposta come browser predefinito">
 <!ENTITY pref_default_browser2 "Imposta &brandShortName; come browser predefinito">
 <!ENTITY default_browser_system_settings_toast "Tocca App Browser e seleziona &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Visita il supporto Mozilla">
