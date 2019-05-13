@@ -80,22 +80,22 @@ onboarding-browse-privately-text = Der Private Modus löscht Chronik und Suchver
 onboarding-browse-privately-button = Privates Fenster öffnen
 onboarding-firefox-send-title = Teile Dateien sicher mit anderen
 onboarding-firefox-send-text = { -send-brand-name } schützt die Dateien, die du versendest, mit End-to-End- Verschlüsselung und einem Link, der automatisch abläuft.
-onboarding-firefox-send-text2 = Lade deine Dateien in { -send-brand-name } und versende sie sicher mit End-to-End- Verschlüsselung und einem Link, der automatisch abläuft.
+onboarding-firefox-send-text2 = { -send-brand-name } schützt die Dateien, die du versendest, mit End-to-End- Verschlüsselung und einem Link, der automatisch abläuft.
 onboarding-firefox-send-button = { -send-brand-name } ausprobieren
 onboarding-mobile-phone-title = Hol dir { -brand-product-name } aufs Smartphone
 onboarding-mobile-phone-text = Lade dir { -brand-product-name } für iOS oder Android herunter und synchronisiere deine Daten auf allen deinen Geräten.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Mobilen Browser downloaden
-onboarding-send-tabs-title = Schicke offene Tabs sofort an andere Geräte
+onboarding-send-tabs-title = Sende offene Tabs an deine anderen Geräte
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
-onboarding-send-tabs-text = Sende Tabs schnell zwischen deinen Geräten hin und her – ohne Copy & Paste oder dafür den Browser zu verlassen.
-onboarding-send-tabs-button = Tabs jetzt einfach versenden
+onboarding-send-tabs-text = Schicke dir selbst Tabs von einem Gerät aufs andere – ohne Copy & Paste oder dafür den Browser zu verlassen.
+onboarding-send-tabs-button = So sendest du Tabs
 onboarding-pocket-anywhere-title = Jetzt speichern, später lesen
 # "downtime" refers to the user's free/spare time.
-onboarding-pocket-anywhere-text = { -pocket-brand-name } speichert die besten Stories für dich, damit du sie dann lesen oder hören kannst, wenn es dir passt.
-onboarding-pocket-anywhere-text2 = Sichere deine Lieblingsinhalte auf dem Web offline mit der { -pocket-brand-name } App und lies oder höre sie dann, wenn es dir passt.
+onboarding-pocket-anywhere-text = { -pocket-brand-name } speichert die besten Stories und Web-Inhalte für dich offline, damit du sie dann lesen oder hören kannst, wenn es dir passt.
+onboarding-pocket-anywhere-text2 = { -pocket-brand-name } speichert die besten Stories und Web-Inhalte für dich offline, damit du sie dann lesen oder hören kannst, wenn es dir passt.
 onboarding-pocket-anywhere-button = { -pocket-brand-name } ausprobieren
 onboarding-lockwise-passwords-title = Nimm deine Passwörter überall mit hin
 onboarding-lockwise-passwords-text = { -lockwise-brand-name } speichert deine Passwörter an einem sicheren Ort, damit du dich so einfach wie möglich in jedes deiner Online-Konten einloggen kannst.
