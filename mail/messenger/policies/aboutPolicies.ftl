@@ -7,6 +7,7 @@ about-policies-title = Předewzaćelske prawidła
 active-policies-tab = Aktiwny
 errors-tab = Zmylki
 documentation-tab = Dokumentacija
+inactive-message = Słužba předewzaćelskich prawidłow je inaktiwna.
 policy-name = Mjeno prawidła
 policy-value = Hódnota prawidła
 policy-errors = Zmylki prawidła
