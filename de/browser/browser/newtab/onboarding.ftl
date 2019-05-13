@@ -63,8 +63,36 @@ onboarding-tracking-protection-button =
        *[other] Einstellungen überprüfen
     }
 onboarding-tracking-protection-title2 = Schutz vor Tracking
+onboarding-tracking-protection-text2 = { -brand-short-name } hilft dir, Websiten daran zu hindern, dich online zu tracken. So machst du es Werbetreibenden schwerer, dich mit Online-Werbung im Web zu verfolgen.
+onboarding-tracking-protection-button2 = So funktioniert's
+onboarding-data-sync-title = Nimm deine Einstellungen einfach mit
+# "Sync" is short for synchronize.
+onboarding-data-sync-text = Synchronisiere Lesezeichen und Passwörter überall dort, wo du { -brand-product-name } nutzt.
+onboarding-data-sync-button = Jetzt { -sync-brand-short-name } anschalten
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Synchronisiere Lesezeichen und Passwörter überall dort, wo du { -brand-product-name } nutzt.
+onboarding-data-sync-button2 = Für { -sync-brand-short-name } anmelden
+onboarding-firefox-monitor-title = Lass dich bei Datenlecks warnen
+onboarding-firefox-monitor-text = { -monitor-brand-name } überprüft, ob deine E-Mail-Adresse schon einmal Teil eines Datenlecks war und warnt dich, wenn sie in neuen Leaks auftaucht.
+onboarding-firefox-monitor-button = Für Warnmeldungen anmelden
 onboarding-browse-privately-title = Privater Modus
 onboarding-browse-privately-text = Der Private Modus löscht Chronik und Suchverlauf automatisch für dich und hält sie so vor anderen Benutzern geheim.
+onboarding-browse-privately-button = Privates Fenster öffnen
+onboarding-firefox-send-title = Teile Dateien sicher mit anderen
+onboarding-firefox-send-text = { -send-brand-name } schützt die Dateien, die du versendest, mit End-to-End- Verschlüsselung und einem Link, der automatisch abläuft.
+onboarding-firefox-send-text2 = Lade deine Dateien in { -send-brand-name } und versende sie sicher mit End-to-End- Verschlüsselung und einem Link, der automatisch abläuft.
+onboarding-firefox-send-button = { -send-brand-name } ausprobieren
+onboarding-mobile-phone-title = Hol dir { -brand-product-name } aufs Smartphone
+onboarding-mobile-phone-text = Lade dir { -brand-product-name } für iOS oder Android herunter und synchronisiere deine Daten auf allen deinen Geräten.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Mobilen Browser downloaden
+onboarding-send-tabs-title = Schicke offene Tabs sofort an andere Geräte
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Sende Tabs schnell zwischen deinen Geräten hin und her – ohne Copy & Paste oder dafür den Browser zu verlassen.
+onboarding-send-tabs-button = Tabs jetzt einfach versenden
+onboarding-pocket-anywhere-title = Jetzt speichern, später lesen
 
 ## Message strings belonging to the Return to AMO flow
 
