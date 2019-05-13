@@ -21,6 +21,7 @@ policy-Bookmarks = Krijoni faqerojtës te paneli Faqerojtës, menuja Faqerojtës
 policy-CaptivePortal = Aktivizoni ose çaktivizoni mbulim për <em>captive portal</em>.
 policy-CertificatesDescription = Shtoni dëshmi ose përdorni dëshmi të brendshme të programit.
 policy-Cookies = Lejoni ose jo që sajte të depozitojnë <em>cookies</em>.
+policy-DefaultDownloadDirectory = Caktoni drejtori parazgjedhje shkarkimesh.
 policy-DisableAppUpdate = Pengoje shfletuesin të përditësohet.
 policy-DisableBuiltinPDFViewer = Çaktivizoni PDF.js, parësin e brendshëm të PDF-ve në { -brand-short-name }.
 policy-DisableDeveloperTools = Bllokoni hyrje te mjetet për zhvillues.
@@ -45,6 +46,7 @@ policy-DisplayBookmarksToolbar = Shfaqni Panel Faqerojtësish, si parazgjedhje.
 policy-DisplayMenuBar = Shfaqni Shtyllë Menush, si parazgjedhje.
 policy-DNSOverHTTPS = Formësoni DNS përmes HTTPS-je.
 policy-DontCheckDefaultBrowser = Çaktivizoni kontrollin gjatë nisjes për shfletues parazgjedhje.
+policy-DownloadDirectory = Caktoni dhe kyçni drejtorinë e shkarkimeve.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Aktivizoni ose çaktivizoni Bllokim Lënde, dhe kyçeni, në daçi.
 # A “locked” extension can’t be disabled or removed by the user. This policy
@@ -52,6 +54,7 @@ policy-EnableTrackingProtection = Aktivizoni ose çaktivizoni Bllokim Lënde, dh
 # English or translate them as verbs.
 policy-Extensions = Instaloni, çinstaloni ose kyçni zgjerime. Mundësia Instaloni si parametra përdor URL ose shtigje. Mundësitë Çinstaloni dhe Kyçur përdorin ID zgjerimesh.
 policy-ExtensionUpdate = Aktivizoni ose çaktivizoni përditësime të vetvetishme të zgjerimeve.
+policy-FirefoxHome = Formësoni Kreun e Firefox-it
 policy-FlashPlugin = Lejoni ose jo përdorimin e shtojcës Flash.
 policy-HardwareAcceleration = Nëse false, çaktivizohet përshpejtimi përmes hardware-it.
 # “lock” means that the user won’t be able to change this setting
@@ -67,6 +70,7 @@ policy-OverridePostUpdatePage = Anashkaloni faqen “Ç’ka të Re” që shfaq
 policy-Permissions = Formësoni lejet për kamerën, mikrofonin, vendndodhjen dhe njoftimet.
 policy-PopupBlocking = Lejojuni, si parazgjedhje, disa sajteve të shfaqin flluska.
 policy-Preferences = Caktoni dhe kyçni vlerën për një nëngrup parapëlqimesh.
+policy-PromptForDownloadLocation = Pyet ku të ruhen kartelat kur shkarkohen.
 policy-Proxy = Formësoni rregullime ndërmjetësi
 policy-RequestedLocales = Caktoni për aplikacionin listën e gjuhëve të kërkuara, renditur sipas parapëlqimit.
 policy-SanitizeOnShutdown = Gjatë fikjes, pastroni krejt të dhënat e lëvizjeve.
