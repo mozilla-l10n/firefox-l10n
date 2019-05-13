@@ -96,7 +96,14 @@ onboarding-pocket-anywhere-title = Lees en luister overal
 # "downtime" refers to the user's free/spare time.
 onboarding-pocket-anywhere-text = { -pocket-brand-name } slaat uw favoriete verhalen op, zodat u tijdens uw vrije tijd kunt lezen, luisteren en bekijken, zelfs als u offline bent.
 onboarding-pocket-anywhere-text2 = Sla uw favoriete inhoud offline op met de { -pocket-brand-name }-app en lees, luister en kijk wanneer het u uitkomt.
+onboarding-pocket-anywhere-button = Probeer { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Neem uw wachtwoorden overal mee naartoe
+onboarding-lockwise-passwords-text = { -lockwise-brand-name } slaat uw wachtwoorden op een veilige plek op, zodat u zich eenvoudig bij uw accounts kunt aanmelden.
 onboarding-lockwise-passwords-button = Download { -lockwise-brand-name }
+onboarding-lockwise-passwords-text2 = Houd uw opgeslagen wachtwoorden veilig en meld u eenvoudig bij uw accounts aan met { -lockwise-brand-name }.
+onboarding-lockwise-passwords-button2 = Downloaden app
+onboarding-facebook-container-title = Stel grenzen aan Facebook
+onboarding-facebook-container-button = Extensie toevoegen
 
 ## Message strings belonging to the Return to AMO flow
 
