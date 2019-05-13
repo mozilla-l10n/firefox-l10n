@@ -43,16 +43,26 @@ onboarding-benefit-privacy-text = Hinter allem, was wir tun, steht unser Verspre
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Privater Modus
-onboarding-private-browsing-text = Im Netz ohne neugierige Blicke anderer dank privatem Surfen mit Blockierung von Seitenelementen, welche Nutzeraktitvitäten über verschiedene Websites hinweg verfolgen wollen.
+onboarding-private-browsing-text = Allein im Web unterwegs. Im Privaten Modus werden Online-Tracker, die deine Aktivitäten im Web verfolgen wollen, einfach blockiert.
 onboarding-screenshots-title = Bildschirmfotos
-onboarding-screenshots-text = Bildschirmfotos aufnehmen, speichern und teilen - ohne { -brand-short-name } zu verlassen. Nehmen Sie Seitenteile oder komplette Webseiten auf und speichern Sie diese anschließend im Internet, um schnell darauf zuzugreifen oder sie zu teilen.
+onboarding-screenshots-text = Bildschirmfotos aufnehmen, speichern und teilen – ohne { -brand-short-name } zu verlassen. Nimm ausgewählte Bereiche oder komplette Webseiten auf und speichere sie anschließend im Web. So kannst du sofort darauf zuzugreifen oder sie teilen.
 onboarding-addons-title = Add-ons
-onboarding-addons-text = Fügen Sie noch mehr Funktionen zu { -brand-short-name } hinzu, damit verschiedene Aufgaben einfacher von Hand gehen. Vergleichen Sie Preise, erhalten Sie Informationen zum Wetter oder drücken Sie Ihre Individualität mit einem eigenen Theme aus.
+onboarding-addons-text = Füge noch mehr Funktionen zu { -brand-short-name } hinzu, damit Aufgaben leichter von Hand gehen. Vergleiche Preise, erhalte Informationen zum Wetter oder hol dir dein individuelles Theme.
 onboarding-ghostery-title = Ghostery
-onboarding-ghostery-text = Surfen Sie schneller, eleganter und sicherer mit Erweiterungen wie z.B. Ghostery, welche lästige Werbung für Sie blockiert.
+onboarding-ghostery-text = Sei noch schneller und sicherer im Web unterwegs. Mit Erweiterungen wie Ghostery lässt sich lästige Werbung einfach blockieren.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synchronisieren
-onboarding-fxa-text = Melden Sie sich bei { -fxaccount-brand-name } an und synchronisieren Sie Ihre Lesezeichen, Passwörter und offenen Tabs mit allen Geräten, auf denen Sie { -brand-short-name } verwenden.
+onboarding-fxa-text = Melde dich bei { -fxaccount-brand-name } an und synchronisiere Lesezeichen, Passwörter und offene Tabs auf allen Geräten, auf denen du { -brand-short-name } nutzt.
+onboarding-tracking-protection-title = Kontrolliere selbst, wie du getrackt wirst
+onboarding-tracking-protection-text = Du willst nicht, dass dir Werbung durchs Netz folgt? { -brand-short-name } lässt dich kontrollieren, wie Werbetreibende deine Online-Aktivitäten tracken können.
+# "Update" is a verb, as in "Update the existing settings", not "Options about
+# updates".
+onboarding-tracking-protection-button =
+    { PLATFORM() ->
+        [windows] Einstellungen überprüfen
+       *[other] Einstellungen überprüfen
+    }
+onboarding-tracking-protection-title2 = Schutz vor Tracking
 onboarding-browse-privately-title = Privater Modus
 onboarding-browse-privately-text = Der Private Modus löscht Chronik und Suchverlauf automatisch für dich und hält sie so vor anderen Benutzern geheim.
 
