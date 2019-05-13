@@ -78,9 +78,12 @@ onboarding-firefox-monitor-button = Registrarse para recibir alertas
 onboarding-browse-privately-title = Navegación privada
 onboarding-browse-privately-text = La navegación privada borra las búsquedas y el historial de navegación para mantenerlo en secreto para cualquier persona que use la computadora.
 onboarding-browse-privately-button = Abrir una ventana privada
+onboarding-firefox-send-title = Mantenga privados sus archivos compartidos
 onboarding-firefox-send-text = { -send-brand-name } protege los archivos compartidos con cifrado punto a punto y un enlace que expira automáticamente.
+onboarding-firefox-send-text2 = Suba sus archivos a { -send-brand-name } para compartirlos con cifrado de punta  a punta y un enlace que vence automáticamente.
 onboarding-firefox-send-button = Probar { -send-brand-name }
 onboarding-mobile-phone-title = Obtener { -brand-product-name } en el teléfono
+onboarding-mobile-phone-text = Descargue { -brand-product-name } para iOS o Android y sincronice sus datos en todos los dispositivos.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Descargar navegador móvil
