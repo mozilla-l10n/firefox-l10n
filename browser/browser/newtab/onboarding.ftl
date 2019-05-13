@@ -24,7 +24,7 @@ onboarding-start-browsing-button-label = Hier geht’s zum Browser
 ## description.
 
 onboarding-benefit-products-title = Nützliche Produkte
-onboarding-benefit-products-text = Mach dein Ding online – mit Tools, die deine Privatsphäre auf allen Geräten respektieren.
+onboarding-benefit-products-text = Erledige wichtige Dinge online – mit Tools, die deine Privatsphäre auf allen Geräten respektieren.
 onboarding-benefit-knowledge-title = Praktisches Wissen
 onboarding-benefit-knowledge-text = Hol dir die Infos, die dich online sicherer und effizienter machen.
 onboarding-benefit-privacy-title = Echte Privatsphäre
@@ -43,13 +43,13 @@ onboarding-benefit-privacy-text = Hinter allem, was wir tun, steht unser Verspre
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Privater Modus
-onboarding-private-browsing-text = Allein im Web unterwegs. Im Privaten Modus werden Online-Tracker, die deine Aktivitäten im Web verfolgen wollen, einfach blockiert.
+onboarding-private-browsing-text = Im Privaten Modus werden Online-Tracker, die deine Aktivitäten im Web verfolgen wollen, einfach blockiert.
 onboarding-screenshots-title = Bildschirmfotos
 onboarding-screenshots-text = Bildschirmfotos aufnehmen, speichern und teilen – ohne { -brand-short-name } zu verlassen. Nimm ausgewählte Bereiche oder komplette Webseiten auf und speichere sie anschließend im Web. So kannst du sofort darauf zuzugreifen oder sie teilen.
 onboarding-addons-title = Add-ons
 onboarding-addons-text = Füge noch mehr Funktionen zu { -brand-short-name } hinzu, damit Aufgaben leichter von Hand gehen. Vergleiche Preise, erhalte Informationen zum Wetter oder hol dir dein individuelles Theme.
 onboarding-ghostery-title = Ghostery
-onboarding-ghostery-text = Sei noch schneller und sicherer im Web unterwegs. Mit Erweiterungen wie Ghostery lässt sich lästige Werbung einfach blockieren.
+onboarding-ghostery-text = Sei noch schneller und sicherer im Web unterwegs. Mit Erweiterungen wie Ghostery kannst du lästige Werbung einfach blockieren.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synchronisieren
 onboarding-fxa-text = Melde dich bei { -fxaccount-brand-name } an und synchronisiere Lesezeichen, Passwörter und offene Tabs auf allen Geräten, auf denen du { -brand-short-name } nutzt.
