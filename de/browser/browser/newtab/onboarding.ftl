@@ -93,14 +93,27 @@ onboarding-send-tabs-title = Schicke offene Tabs sofort an andere Geräte
 onboarding-send-tabs-text = Sende Tabs schnell zwischen deinen Geräten hin und her – ohne Copy & Paste oder dafür den Browser zu verlassen.
 onboarding-send-tabs-button = Tabs jetzt einfach versenden
 onboarding-pocket-anywhere-title = Jetzt speichern, später lesen
+# "downtime" refers to the user's free/spare time.
+onboarding-pocket-anywhere-text = { -pocket-brand-name } speichert die besten Stories für dich, damit du sie dann lesen oder hören kannst, wenn es dir passt.
+onboarding-pocket-anywhere-text2 = Sichere deine Lieblingsinhalte auf dem Web offline mit der { -pocket-brand-name } App und lies oder höre sie dann, wenn es dir passt.
+onboarding-pocket-anywhere-button = { -pocket-brand-name } ausprobieren
+onboarding-lockwise-passwords-title = Nimm deine Passwörter überall mit hin
+onboarding-lockwise-passwords-text = { -lockwise-brand-name } speichert deine Passwörter an einem sicheren Ort, damit du dich so einfach wie möglich in jedes deiner Online-Konten einloggen kannst.
+onboarding-lockwise-passwords-button = Hol dir { -lockwise-brand-name }
+onboarding-lockwise-passwords-text2 = Speichere Passwörter mit { -lockwise-brand-name } sicher und log dich ganz einfach in jedes deiner Online-Konten ein.
+onboarding-lockwise-passwords-button2 = Hol dir die App
+onboarding-facebook-container-title = Weise Facebook in die Schranken
+onboarding-facebook-container-text = Der { -facebook-container-brand-name } trennt deine Aktivitäten auf Facebook von dem, was du sonst so im Web machst. So wird es schwerer, dich durchs Web zu tracken.
+onboarding-facebook-container-text2 = Der { -facebook-container-brand-name } trennt dein Profil von dem, was du sonst so im Web machst. So wird es schwerer für Facebook, dir gezielt Werbung anzuzeigen.
+onboarding-facebook-container-button = Erweiterung hinzufügen
 
 ## Message strings belonging to the Return to AMO flow
 
-return-to-amo-sub-header = Exzellent, Sie haben { -brand-short-name }
+return-to-amo-sub-header = Fantastisch, du hast jetzt { -brand-short-name }
 # <icon></icon> will be replaced with the icon belonging to the extension
 #
 # Variables:
 #   $addon-name (String) - Name of the add-on
-return-to-amo-addon-header = Installieren Sie jetzt <icon></icon><b>{ $addon-name }.</b>
+return-to-amo-addon-header = Hol dir auch <icon></icon><b>{ $addon-name }.</b>
 return-to-amo-extension-button = Erweiterung installieren
 return-to-amo-get-started-button = Informationen zu { -brand-short-name }
