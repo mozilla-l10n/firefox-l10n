@@ -26,6 +26,12 @@ onboarding-benefit-products-title = Produkte të Dobishëm
 onboarding-benefit-knowledge-title = Dije Praktike
 onboarding-benefit-knowledge-text = Mësoni gjithçka që duhet të dini për të qenë më të mençur dhe më të parrezikuar në internet.
 onboarding-benefit-privacy-title = Privatësi e Vërtetë
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Gjithçka bëjmë pajtohet me Premtimin tonë Mbi të Dhënat Personale: Grumbullim sa më pak. Mbajtje e parrezik. Pa të fshehta.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -61,7 +67,23 @@ onboarding-data-sync-title = Merreni Me Vete Rregullimet Tuaja
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = Njëkohësoni faqerojtësit dhe fjalëkalimet kudo që i përdorni { -brand-product-name }.
 onboarding-data-sync-button = Aktivizo { -sync-brand-short-name }
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Njëkohësoni faqerojtësit tuaj, fjalëkalimet, etj, kudo ku përdorni { -brand-product-name }-in.
 onboarding-data-sync-button2 = Hyni në { -sync-brand-short-name }
+onboarding-browse-privately-title = Shfletoni Privatisht
+onboarding-browse-privately-button = Hapni Dritare Private
+onboarding-firefox-send-button = Provoni { -send-brand-name }
+onboarding-mobile-phone-title = Merreni { -brand-product-name } në Telefonin Tuaj
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Shkarkoni Shfletuesin Për Celular
+onboarding-pocket-anywhere-title = Lexoni dhe Dëgjoni Kudo
+onboarding-pocket-anywhere-button = Provojeni { -pocket-brand-name }-in
+onboarding-lockwise-passwords-title = Merrini Fjalëkalimet Tuaja Kudo
+onboarding-lockwise-passwords-button = Merreni { -lockwise-brand-name }
+onboarding-lockwise-passwords-button2 = Merrni Aplikacionin
+onboarding-facebook-container-title = Caktoni Caqe me Facebook-un
+onboarding-facebook-container-button = Shtoje Zgjerimin
 
 ## Message strings belonging to the Return to AMO flow
 
