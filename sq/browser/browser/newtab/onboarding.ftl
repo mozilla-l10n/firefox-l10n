@@ -5,10 +5,27 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-learn-more = Mësoni Më Tepër
 onboarding-button-label-try-now = Provojeni Që Tani
 onboarding-button-label-get-started = Fillojani
 onboarding-welcome-header = Mirë se vini te { -brand-short-name }
+onboarding-welcome-body = E morët shfletuesin.<br/>Njihuni me pjesën tjetër të { -brand-product-name }.
+onboarding-welcome-learn-more = Mësoni më tepër mbi përfitimet.
+onboarding-join-form-header = Bëhuni pjesë e { -brand-product-name }
+onboarding-join-form-body = Që t’ia filloni, jepni adresën tuaj email.
+onboarding-join-form-email =
+    .placeholder = Jepni email
+onboarding-join-form-email-error = Lypset email i vlefshëm
+onboarding-join-form-continue = Vazhdo
 onboarding-start-browsing-button-label = Filloni të Shfletoni
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-title = Produkte të Dobishëm
+onboarding-benefit-knowledge-title = Dije Praktike
+onboarding-benefit-knowledge-text = Mësoni gjithçka që duhet të dini për të qenë më të mençur dhe më të parrezikuar në internet.
+onboarding-benefit-privacy-title = Privatësi e Vërtetë
 
 ## These strings belong to the individual onboarding messages.
 
@@ -28,6 +45,23 @@ onboarding-ghostery-text = Shfletoni më shpejt, me më mençuri, ose me më sig
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Njëkohësoni
 onboarding-fxa-text = Regjistrohuni për një  { -fxaccount-brand-name } dhe njëkohësoni fjalëkalimet tuaj, faqerojtësit dhe skedat e hapura nga kudo që përdorni { -brand-short-name }.
+onboarding-tracking-protection-title = Kontrolloni Se Si Ju Gjurmojnë
+onboarding-tracking-protection-text = Nuk ju pëlqen të gjurmoheni nga reklama? { -brand-short-name }-i ju ndihmon të kontrolloni se si e ndjekin veprimtarinë tuaj internetore reklamuesit.
+# "Update" is a verb, as in "Update the existing settings", not "Options about
+# updates".
+onboarding-tracking-protection-button =
+    { PLATFORM() ->
+        [windows] Mundësi Përditësimi
+       *[other] Parapëlqime Përditësimi
+    }
+onboarding-tracking-protection-title2 = Mbrojtje Nga Gjurmimi
+onboarding-tracking-protection-text2 = { -brand-short-name } ndihmon të ndalet gjurmimi juaj në internet nga sajte, duke e bërë më të vështirë për reklamat t’ju ndjekin nëpër internet.
+onboarding-tracking-protection-button2 = Si Funksionon
+onboarding-data-sync-title = Merreni Me Vete Rregullimet Tuaja
+# "Sync" is short for synchronize.
+onboarding-data-sync-text = Njëkohësoni faqerojtësit dhe fjalëkalimet kudo që i përdorni { -brand-product-name }.
+onboarding-data-sync-button = Aktivizo { -sync-brand-short-name }
+onboarding-data-sync-button2 = Hyni në { -sync-brand-short-name }
 
 ## Message strings belonging to the Return to AMO flow
 

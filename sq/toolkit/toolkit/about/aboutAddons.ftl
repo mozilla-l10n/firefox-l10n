@@ -267,6 +267,14 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Zgjerimet dhe temat janë si aplikacione për shfletuesin tuaj, dhe ju lejojnë të mbroni fjalëkalimet, të shkarkoni video, të gjeni pazare me leverdi, të bllokoni reklama bezdisëse, të ndryshoni pamjen e shfletuesit tuaj, etj. Këta programe të vegjël software shpesh krijohen nga një palë e tretë. Ja një përzgjedhje { -brand-product-name }
+    <a data-l10n-name="learn-more-trigger">rekomandimesh</a> për siguri, punim dhe funksione të veçanta. 
+    security, performance, and functionality.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations = Disa nga këto rekomandime janë të personalizuara. Ato bazohen në zgjerime të tjera që keni instaluar, në parapëlqime profili dhe statistika përdorimi.
 discopane-notice-learn-more = Mësoni më tepër
 privacy-policy = Rregulla Privatësie
 # Refers to the author of an add-on, shown below the name of the add-on.
@@ -301,6 +309,11 @@ addon-detail-version-label = Version
 addon-detail-last-updated-label = Përditësuar Së Fundi
 addon-detail-homepage-label = Kreu
 addon-detail-rating-label = Vlerësim
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Vlerësuar me { NUMBER($rating, maximumFractionDigits: 1) } nga 5 të mundshme
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -316,6 +329,9 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> është hequr.
 pending-uninstall-undo-button = Zhbëje
 addon-detail-updates-label = Lejo përditësime të vetvetishme
 addon-detail-updates-radio-default = Parazgjedhje
