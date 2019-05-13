@@ -156,6 +156,9 @@ private-browsing-description2 =
 extensions-view-discover =
     .name = Merrni Shtesa
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Rekomandime
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Përditësime Së Fundi
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -262,14 +265,37 @@ shortcuts-card-collapse-button = Shfaq Më Pak
 go-back-button =
     .tooltiptext = Shkoni mbrapsht
 
+## Recommended add-ons page
+
+discopane-notice-learn-more = Mësoni më tepër
+privacy-policy = Rregulla Privatësie
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = nga <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Përdorues: { $dailyUsers }
+install-extension-button = Shtoje te { -brand-product-name }
+install-theme-button = Instaloni Temë
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Administroni
+find-more-addons = Gjeni më tepër shtesa
+
 ## Add-on actions
 
+report-addon-button = Raportoje
 remove-addon-button = Hiqe
 disable-addon-button = Çaktivizoje
 enable-addon-button = Aktivizoje
 expand-addon-button = Më tepër Mundësi
 addons-enabled-heading = I aktivizuar
 addons-disabled-heading = I çaktivizuar
+ask-to-activate-button = Pyet për Aktivizim
+always-activate-button = Aktivizoje Përherë
+never-activate-button = Mos e Aktivizo Kurrë
 addon-detail-author-label = Autor
 addon-detail-version-label = Version
 addon-detail-last-updated-label = Përditësuar Së Fundi
@@ -287,3 +313,22 @@ addon-detail-reviews-link =
         [one] { $numberOfReviews } shqyrtim
        *[other] { $numberOfReviews } shqyrtime
     }
+
+## Pending uninstall message bar
+
+pending-uninstall-undo-button = Zhbëje
+addon-detail-updates-label = Lejo përditësime të vetvetishme
+addon-detail-updates-radio-default = Parazgjedhje
+addon-detail-updates-radio-on = On
+addon-detail-updates-radio-off = Off
+addon-detail-update-check-label = Kontrollo për Përditësime
+install-update-button = Përditësojeni
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = E lejuar në dritare private
+addon-detail-private-browsing-help = Nën lejim, zgjerimi do të mund të shohë veprimtaritë tuaja në linjë, teksa shfletoni privatisht. <a data-l10n-name="learn-more">Mësoni më tepër</a>
+addon-detail-private-browsing-allow = Lejoje
+addon-detail-private-browsing-disallow = Mos e Lejo
+available-updates-heading = Përditësime të Gatshme
+recent-updates-heading = Përditësime Së Fundi
