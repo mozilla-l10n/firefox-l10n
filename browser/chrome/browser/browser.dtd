@@ -64,6 +64,8 @@ but will never be visible at the same time. -->
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "q">
 
+<!-- Tab context menu -->
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -467,6 +469,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Pastroni Historikun Së Fundi…">
 <!ENTITY appMenuHistory.restoreSession.label "Riktheni Sesionin e Mëparshëm">
 <!ENTITY appMenuHistory.viewSidebar.label "Shihni Anështyllë Historiku">
+<!ENTITY appMenuHistory.hideSidebar.label "Fshih Anështyllë Historiku">
 <!ENTITY appMenuHistory.recentHistory.label "Historik Së Fundi">
 <!ENTITY appMenuHelp.label "Ndihmë">
 
@@ -495,6 +498,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Bëni hyrjen, që të Njëkohësohet">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administroni Pajisje…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Shihni Anështyllën e Skedave të Njëkohësuara">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Fshih Anështyllë Skedash të Njëkohësuara">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Lidhni Një Tjetër Pajisje">
 
 <!ENTITY appMenuRecentHighlights.label "Nxjerrje Në Pah Së Fundi">
@@ -524,6 +528,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "A">
 <!ENTITY customizeMenu.removeExtension.label "Hiqe Zgjerimin">
 <!ENTITY customizeMenu.removeExtension.accesskey "q">
+
+<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
+     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.label "Raportoje Zgjerimin">
+<!ENTITY customizeMenu.reportExtension.accesskey "o">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -1103,6 +1113,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "k">
 <!ENTITY updateAvailable.cancelButton.label "Jo Tani">
 <!ENTITY updateAvailable.cancelButton.accesskey "J">
+
 <!ENTITY updateAvailable.panelUI.label "Shkarko përditësim &brandShorterName;-i">
 
 <!ENTITY updateManual.message "Shkarkoni një kopje të re të &brandShorterName;-it dhe do t&apos;ju ndihmojmë ta instaloni.">
@@ -1120,6 +1131,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Jo Tani">
 <!ENTITY updateRestart.cancelButton.accesskey "J">
+<!ENTITY updateUnsupported.panelUI.label "S&apos;mund të kryeni përditësime të mëtejshme">
 <!ENTITY updateRestart.panelUI.label2 "Që të përditësohet &brandShorterName;-i, riniseni">
 
 <!ENTITY newTabControlled.header.message "Rregullimet tuaja për Skedë të Re kanë ndryshuar.">
