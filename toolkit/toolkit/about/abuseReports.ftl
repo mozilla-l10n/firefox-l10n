@@ -7,7 +7,7 @@ abuse-report-title-theme = Dit thema rapporteren aan { -vendor-short-name }
 abuse-report-subtitle = Wat is het probleem?
 # Variables:
 #   $author-name (string) - Name of the add-on author
-abuse-report-addon-authored-by = van <a data-l10n-name="author-name">{ $author-name }</a>
+abuse-report-addon-authored-by = door <a data-l10n-name="author-name">{ $author-name }</a>
 abuse-report-learnmore =
     Weet u niet zeker welk probleem u moet selecteren?
     <a data-l10n-name="learnmore-link">Meer info over het rapporteren van extensies en thema’s</a>
@@ -15,14 +15,14 @@ abuse-report-submit-description = Beschrijf het probleem (optioneel)
 abuse-report-textarea =
     .placeholder = Het is makkelijker voor ons om een probleem te behandelen als we details hebben. Beschrijf het probleem dat u ondervindt. Bedankt voor uw hulp bij het gezond houden van het web.
 abuse-report-submit-note =
-    Noot: voeg geen persoonlijke gegevens toe (zoals naam, e-mailadres, telefoonnummer, fysiek adres).
+    Noot: voeg geen persoonlijke gegevens (zoals naam, e-mailadres, telefoonnummer of fysiek adres) toe.
     { -vendor-short-name } bewaart deze rapporten permanent.
 
 ## Panel buttons.
 
 abuse-report-cancel-button = Annuleren
 abuse-report-next-button = Volgende
-abuse-report-goback-button = Teruggaan
+abuse-report-goback-button = Terug
 abuse-report-submit-button = Verzenden
 
 ## Message bars descriptions.
@@ -42,6 +42,10 @@ abuse-report-messagebar-error-recent-submit = Het rapport voor <span data-l10n-n
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove-extension = Ja, verwijderen
+abuse-report-messagebar-action-keep-extension = Nee, bewaren
+abuse-report-messagebar-action-remove-theme = Ja, verwijderen
+abuse-report-messagebar-action-keep-theme = Nee, bewaren
 abuse-report-messagebar-action-retry = Opnieuw proberen
 abuse-report-messagebar-action-cancel = Annuleren
 
@@ -61,3 +65,14 @@ abuse-report-broken-reason-extension = Werkt niet, zorgt ervoor dat websites nie
 abuse-report-broken-reason-theme = Werkt niet of zorgt ervoor dat de browserweergave niet werkt
 abuse-report-broken-example = Voorbeeld: functies zijn langzaam, moeilijk te gebruiken of werken niet; delen van websites laden niet of zien er ongebruikelijk uit
 abuse-report-broken-suggestions-extension = Het lijkt alsof u een bug heeft gevonden. In aanvulling op deze melding kunt u het beste contact opnemen met de ontwikkelaar van de extensie. <a data-l10n-name="support-link">Bezoek de startpagina van de extensie</a> voor informatie over de ontwikkelaar.
+abuse-report-broken-suggestions-theme =
+    Het klinkt alsof u een bug hebt gevonden. Naast het hier indienen van een rapport, is de beste manier
+    om een functioneel probleem op te lossen, contact op te nemen met de ontwikkelaar van het thema.
+    <a data-l10n-name="support-link">Bezoek de website van het thema</a> voor informatie over de ontwikkelaar.
+abuse-report-policy-reason = Haatdragende, gewelddadige of illegale inhoud
+abuse-report-policy-suggestions =
+    Opmerking: problemen met auteursrechten en handelsmerken moeten in een afzonderlijk proces worden gemeld.
+    <a data-l10n-name="report-infringement-link">Volg deze instructies</a> om het probleem te melden.
+abuse-report-unwanted-reason = Ik heb nooit om deze extensie gevraagd en kom er niet vanaf
+abuse-report-unwanted-example = Voorbeeld: een toepassing heeft deze zonder mijn toestemming geïnstalleerd
+abuse-report-other-reason = Iets anders
