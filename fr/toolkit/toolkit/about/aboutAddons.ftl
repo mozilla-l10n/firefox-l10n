@@ -160,6 +160,9 @@ private-browsing-description2 =
 extensions-view-discover =
     .name = Catalogue
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Recommandations
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Mis à jour
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -268,25 +271,47 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations = Certaines de ces recommandations sont personnalisées. Cette sélection se fonde sur d’autres extensions que vous avez installées, les préférences de votre profil et les statistiques d’utilisation.
+discopane-notice-learn-more = En savoir plus
+privacy-policy = Politique de confidentialité
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = par <a data-l10n-name="author">{ $author }</a>
 # Shows the number of daily users of the add-on.
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
 user-count = Utilisateurs : { $dailyUsers }
 install-extension-button = Ajouter à { -brand-product-name }
+install-theme-button = Installer le thème
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Gérer
+find-more-addons = Découvrir davantage de modules
 
 ## Add-on actions
 
+report-addon-button = Signaler
 remove-addon-button = Supprimer
 disable-addon-button = Désactiver
 enable-addon-button = Activer
 expand-addon-button = Plus d’options
 addons-enabled-heading = Activé
 addons-disabled-heading = Désactivé
+ask-to-activate-button = Demander pour activer
+always-activate-button = Toujours activer
+never-activate-button = Ne jamais activer
 addon-detail-author-label = Auteur
 addon-detail-version-label = Version
 addon-detail-last-updated-label = Dernière mise à jour
 addon-detail-homepage-label = Page d’accueil
 addon-detail-rating-label = Appréciation
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Noté { NUMBER($rating, maximumFractionDigits: 1) } sur 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -302,3 +327,20 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> a été supprimé.
+pending-uninstall-undo-button = Annuler
+addon-detail-updates-label = Autoriser les mises à jour automatiques
+addon-detail-updates-radio-default = Par défaut
+addon-detail-updates-radio-on = Activées
+addon-detail-updates-radio-off = Désactivées
+addon-detail-update-check-label = Rechercher des mises à jour
+install-update-button = Mettre à jour
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Autorisé dans les fenêtres privées
+addon-detail-private-browsing-allow = Autoriser
+addon-detail-private-browsing-disallow = Ne pas autoriser
+available-updates-heading = Mises à jour disponibles
