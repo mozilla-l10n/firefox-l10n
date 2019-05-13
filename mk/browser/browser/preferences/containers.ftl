@@ -76,3 +76,5 @@ containers-icon-pet =
     .label = Домашно милениче
 containers-icon-tree =
     .label = Дрво
+containers-icon-chill =
+    .label = Опуштено
