@@ -24,7 +24,7 @@ onboarding-start-browsing-button-label = Beginnen met browsen
 ## description.
 
 onboarding-benefit-products-title = Nuttige producten
-onboarding-benefit-products-text = Krijg zaken gedaan met een aantal hulpmiddelen die uw privacy respecteert op al uw apparaten.
+onboarding-benefit-products-text = Krijg zaken gedaan met een set hulpmiddelen die uw privacy respecteren op al uw apparaten.
 onboarding-benefit-knowledge-title = Praktische kennis
 onboarding-benefit-knowledge-text = Leer alles wat u moet weten om slimmer en veiliger online te blijven.
 onboarding-benefit-privacy-title = Echte privacy
@@ -103,6 +103,8 @@ onboarding-lockwise-passwords-button = Download { -lockwise-brand-name }
 onboarding-lockwise-passwords-text2 = Houd uw opgeslagen wachtwoorden veilig en meld u eenvoudig bij uw accounts aan met { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Downloaden app
 onboarding-facebook-container-title = Stel grenzen aan Facebook
+onboarding-facebook-container-text = { -facebook-container-brand-name } houdt uw Facebookidentiteit gescheiden van al het andere, waardoor u moeilijker op het web bent te volgen.
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } houdt uw profiel gescheiden van al het andere, waardoor Facebook u moeilijker met advertenties kan bestoken.
 onboarding-facebook-container-button = Extensie toevoegen
 
 ## Message strings belonging to the Return to AMO flow
