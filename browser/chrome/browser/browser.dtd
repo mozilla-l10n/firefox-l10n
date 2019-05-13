@@ -531,6 +531,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeExtension.label "Rozšyrjenje wótwónoźeś">
 <!ENTITY customizeMenu.removeExtension.accesskey "t">
 
+<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
+     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.label "Rozšyrjenje k wěsći daś">
+<!ENTITY customizeMenu.reportExtension.accesskey "o">
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
@@ -1127,6 +1133,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "Z">
 <!ENTITY updateRestart.cancelButton.label "Nic něnto">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateUnsupported.panelUI.label "Njamóžośo dalšne aktualizacije pśewjasć">
 <!ENTITY updateRestart.panelUI.label2 "Startujśo znowego, aby &brandShorterName; aktualizěrował">
 
 <!ENTITY newTabControlled.header.message "Waš nowy rejtark jo se změnił.">

@@ -70,16 +70,21 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = DNS pśez HTTPS zmóžniś
     .accesskey = H
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = URL za rozpušćanje DNS pśez HTTPS
 # Variables:
 #   $url (String) - URL for the DNS over HTTPS provider
 connection-dns-over-https-url-default =
     .label = Standard wužywaś ({ $url })
     .accesskey = S
     .tooltiptext = Standardny URL za rozpušćowaje DNS pśez HTTPS wužywaś
+connection-dns-over-https-url-resolver = Póbitowarja wužywaś
+    .accesskey = P
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (standard)
+    .tooltiptext = Standardny URL za rozpušćowanje DNS pśez HTTPS wužywaś
 connection-dns-over-https-url-custom =
     .label = Swójski
     .accesskey = S
     .tooltiptext = Zapodajće preferowany URL za rozpušćenje DNS přez HTTPS
+connection-dns-over-https-custom-label = Swójski
