@@ -14,7 +14,7 @@
 <!ENTITY editDirectories.accesskey "k">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Uzi alian servilon LDAP:">
-<!ENTITY directories.accesskey     "a">
+<!ENTITY directories.accesskey     "z">
 <!ENTITY directoriesNone.label     "neniu">
 
 <!-- am-addressing.xul -->
@@ -30,18 +30,18 @@
 <!ENTITY quoting.accesskey                    "c">
 <!ENTITY aboveQuote.label                     "enmeti mian respondon super la citata teksto">
 <!ENTITY belowQuote.label                     "enmeti mian respondon sub la citata teksto">
-<!ENTITY selectAndQuote.label                 "select the quote">
-<!ENTITY place.label                          "and place my signature">
-<!ENTITY place.accesskey                      "s">
-<!ENTITY belowText.label                      "below the quote (recommended)">
-<!ENTITY aboveText.label                      "below my reply (above the quote)">
-<!ENTITY includeSigOnReply.label              "Include signature for replies">
-<!ENTITY includeSigOnReply.accesskey          "I">
-<!ENTITY includeSigOnForward.label            "Include signature for forwards">
-<!ENTITY includeSigOnForward.accesskey        "w">
+<!ENTITY selectAndQuote.label                 "elekti la citatan tekston">
+<!ENTITY place.label                          "kaj aldoni subskribon">
+<!ENTITY place.accesskey                      "u">
+<!ENTITY belowText.label                      "sub la citata teksto (konsilinde)">
+<!ENTITY aboveText.label                      "sub mia respondo (super la citata teksto)">
+<!ENTITY includeSigOnReply.label              "Aldoni subskribon dum respondi">
+<!ENTITY includeSigOnReply.accesskey          "s">
+<!ENTITY includeSigOnForward.label            "Aldoni subskribon dum plusendi">
+<!ENTITY includeSigOnForward.accesskey        "p">
 
-<!ENTITY globalComposingPrefs.label           "Global Composing Preferences…">
-<!ENTITY globalComposingPrefs.accesskey       "G">
+<!ENTITY globalComposingPrefs.label           "Ĝeneralaj preferoj pri kreado de mesaĝoj…">
+<!ENTITY globalComposingPrefs.accesskey       "r">
 
-<!ENTITY globalAddressingPrefs.label          "Global Addressing Preferences…">
-<!ENTITY globalAddressingPrefs.accesskey      "P">
+<!ENTITY globalAddressingPrefs.label          "Ĝeneralaj preferoj pri adresado…">
+<!ENTITY globalAddressingPrefs.accesskey      "d">
