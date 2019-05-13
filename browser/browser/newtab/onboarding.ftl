@@ -5,10 +5,27 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-learn-more = Dalšne informacije
 onboarding-button-label-try-now = Wopytajśo něnto
 onboarding-button-label-get-started = Prědne kšace
 onboarding-welcome-header = Witajśo k { -brand-short-name }
+onboarding-welcome-body = Maśo wobglědowak.<br/>Póznajśo zbytk { -brand-product-name }.
+onboarding-welcome-learn-more = Dalšne informacije wó lěpšynach.
+onboarding-join-form-header = Pśizamkniśo se k { -brand-product-name }
+onboarding-join-form-body = Zapódajśo swóju e-mailowu adresu, aby zachopił.
+onboarding-join-form-email =
+    .placeholder = E-mailowu adresu zapódaś
+onboarding-join-form-email-error = Płaśiwa e-mailowa adresa trěbna
+onboarding-join-form-legal = Gaž pókšacujośo, zwólijośo do <a data-l10n-name="terms">wužywańskich wuměnjenjow</a> a <a data-l10n-name="privacy">powěźeńki priwatnosći</a>.
+onboarding-join-form-continue = Dalej
 onboarding-start-browsing-button-label = Pśeglědowanje startowaś
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-title = Wužytne produkty
+onboarding-benefit-knowledge-title = Praktiska wěda
+onboarding-benefit-privacy-title = Napšawdna priwatnosć
 
 ## These strings belong to the individual onboarding messages.
 
@@ -28,6 +45,19 @@ onboarding-ghostery-text = Pśeglědujśo malsnjej, wěcej inteligentnje abo wě
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Snychronizěrowaś
 onboarding-fxa-text = Registrěrujśo se za { -fxaccount-brand-name } a synchronizěrujśo swóje cytańske znamjenja, gronidła a wócynjone rejtarki, źožkuli { -brand-short-name } wužywaśo.
+onboarding-tracking-protection-title = Kontrola nad slědowanim online
+# "Update" is a verb, as in "Update the existing settings", not "Options about
+# updates".
+onboarding-tracking-protection-button =
+    { PLATFORM() ->
+        [windows] Nastajenja aktualizěrowaś
+       *[other] Nastajenja aktualizěrowaś
+    }
+onboarding-tracking-protection-title2 = Šćit pśeśiwo slědowanjeju
+onboarding-tracking-protection-button2 = Kak funkcioněrujo
+onboarding-data-sync-title = Wzejśo swóje nastajenja sobu
+onboarding-data-sync-button = { -sync-brand-short-name } zašaltowaś
+onboarding-data-sync-button2 = Pla { -sync-brand-short-name } pśizjawiś
 
 ## Message strings belonging to the Return to AMO flow
 

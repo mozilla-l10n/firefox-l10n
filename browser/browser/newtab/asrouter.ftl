@@ -57,3 +57,12 @@ cfr-doorhanger-pintab-step2 = Wubjeŕśo <b>Rejtark pśipěś</b> z menija.
 cfr-doorhanger-pintab-step3 = Jolic sedło ma aktualizaciju, buźośo módry dypk na swójom pśipětem rejtarku wiźeś.
 cfr-doorhanger-pintab-animation-pause = Pawza
 cfr-doorhanger-pintab-animation-resume = Pókšacowaś
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Synchronizěrujśo swóje cytańske znamjenja wšuźi.
+cfr-doorhanger-bookmark-fxa-body = Wjelicna namakanka! Njewóstawajśo bźez toś togo cytańskego znamjenja na swójich mobilnych rědach. Zachopśo z { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-link-text = Synchronizěrujśo něnto cytańske znamjenja…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Tłocašk Zacyniś
+    .title = Zacyniś
