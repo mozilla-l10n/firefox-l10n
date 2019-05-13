@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-config-warning-checkbox = Изнервирај ме повторно, те молам!
 about-config-warning-button = Го прифаќам ризикот
 about-config-show-all = Прикажи сѐ
 about-config-pref-add = Додај

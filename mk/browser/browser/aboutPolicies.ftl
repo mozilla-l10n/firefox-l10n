@@ -7,3 +7,6 @@ about-policies-title = Политики на претпријатија
 active-policies-tab = Активни
 errors-tab = Грешки
 documentation-tab = Документација
+policy-name = Име на политиката
+policy-value = Вредност на политиката
+policy-errors = Грешки во политиката
