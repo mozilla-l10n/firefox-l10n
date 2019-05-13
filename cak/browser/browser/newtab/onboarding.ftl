@@ -53,6 +53,7 @@ onboarding-ghostery-text = Katok pa k'amaya'l aninäq, na'owinäq rub'anikil o y
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Tixim
 onboarding-fxa-text = Tatz'ib'aj awi' richin nik'oje' jun { -fxaccount-brand-name } chuqa' ke'axima' ri taq ayaketal, ewan taq tzij chuqa' jaqäl taq ruwi' akuchi' nawokisaj { -brand-short-name }.
+onboarding-tracking-protection-title = Tachajij Rub'eyal Yatojqäx
 
 ## Message strings belonging to the Return to AMO flow
 
