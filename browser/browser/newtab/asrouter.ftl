@@ -53,3 +53,12 @@ cfr-doorhanger-pintab-step2 = Përzgjidhni <b>Fiksoje Skedën</b> që nga menuja
 cfr-doorhanger-pintab-step3 = Nëse sajti ka një përditësim, do të shihni një pikë blu te skeda juaj e fiksuar.
 cfr-doorhanger-pintab-animation-pause = Pushim
 cfr-doorhanger-pintab-animation-resume = Vazhdoje
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Njëkohësoni faqerojtësit tuaj kudo.
+cfr-doorhanger-bookmark-fxa-body = Gjetje e fortë! Tani, mos rrini pa këtë faqerojtës në pajisjet tuaja celulare. Fillojani me një { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-link-text = Njëkohësoni faqerojtës që tani…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Buton mbylljeje
+    .title = Mbylle
