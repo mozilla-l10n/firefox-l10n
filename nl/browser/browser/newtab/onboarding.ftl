@@ -93,7 +93,9 @@ onboarding-send-tabs-title = Stuur uzelf onmiddellijk tabbladen
 onboarding-send-tabs-text = Send Tabs deelt onmiddellijk pagina’s tussen uw apparaten zonder dat u hoeft te kopiëren, plakken of de browser hoeft te verlaten.
 onboarding-send-tabs-button = Start met het gebruik van Send Tabs
 onboarding-pocket-anywhere-title = Lees en luister overal
-onboarding-pocket-anywhere-button = Probeer { -pocket-brand-name }
+# "downtime" refers to the user's free/spare time.
+onboarding-pocket-anywhere-text = { -pocket-brand-name } slaat uw favoriete verhalen op, zodat u tijdens uw vrije tijd kunt lezen, luisteren en bekijken, zelfs als u offline bent.
+onboarding-pocket-anywhere-text2 = Sla uw favoriete inhoud offline op met de { -pocket-brand-name }-app en lees, luister en kijk wanneer het u uitkomt.
 onboarding-lockwise-passwords-button = Download { -lockwise-brand-name }
 
 ## Message strings belonging to the Return to AMO flow
