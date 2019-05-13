@@ -68,9 +68,13 @@ fonts-langgroup-tibetan =
     .label = Тибетски
 fonts-langgroup-canadian =
     .label = Унифицирана канадска азбука
+fonts-langgroup-other =
+    .label = Други системи за пишување
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Пропорционално
+    .accesskey = П
 fonts-default-serif =
     .label = Сериф
 fonts-default-sans-serif =
