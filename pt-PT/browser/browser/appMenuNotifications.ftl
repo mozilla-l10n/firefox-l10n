@@ -5,7 +5,7 @@
 appmenu-update-available =
     .label = Uma nova atualização do { -brand-shorter-name } está disponível.
     .buttonlabel = Transferir atualização
-    .buttonaccesskey = D
+    .buttonaccesskey = T
     .secondarybuttonlabel = Agora não
     .secondarybuttonaccesskey = n
 appmenu-update-available-message = Atualize o seu { -brand-shorter-name } para o mais recente em velocidade e privacidade
