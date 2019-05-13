@@ -24,8 +24,16 @@ onboarding-start-browsing-button-label = Přehladowanje startować
 ## description.
 
 onboarding-benefit-products-title = Wužitne produkty
+onboarding-benefit-products-text = Sčińće wěcy z nastrojemi, kotrež wašu priwatnosć na wšěch gratach respektuja.
 onboarding-benefit-knowledge-title = Praktiska wěda
+onboarding-benefit-knowledge-text = Zhońće wšitko, štož dyrbiće wědźeć, zo byšće bóle inteligentny a wěsty online był.
 onboarding-benefit-privacy-title = Woprawdźita priwatnosć
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Wšitko, štož činimy, naše slubjenje za wosobinske daty spjelnja: Mjenje zběrać. Wěsće sładować. Žane potajnstwa.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -46,6 +54,7 @@ onboarding-ghostery-text = Přehladujće spěšnišo, bóle inteligentnje abo w�
 onboarding-fxa-title = Synchronizować
 onboarding-fxa-text = Registrujće so za { -fxaccount-brand-name } a synchronizujće swoje zapołožki, hesła a wočinjene rajtarki, hdźežkuli { -brand-short-name } wužiwaće.
 onboarding-tracking-protection-title = Kontrola nad slědowanjom online
+onboarding-tracking-protection-text = Nochceće, zo wabjenje wam slěduje? { -brand-short-name } wam pomha kontrolować, kak wabjerjo wašim aktiwitam online slěduja.
 # "Update" is a verb, as in "Update the existing settings", not "Options about
 # updates".
 onboarding-tracking-protection-button =
