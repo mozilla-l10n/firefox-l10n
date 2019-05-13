@@ -26,3 +26,7 @@ inactive-css-not-flex-container = <strong>{ $property }</strong> njama efekt na 
 
 inactive-css-not-grid-or-flex-container-fix = Wppytajśo <strong>display:grid</strong> abo <strong>display:flex</strong> pśidaś. { learn-more }
 inactive-css-not-grid-or-flex-item-fix = Wopytajśo <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> abo <strong>display:inline-flex</strong> pśidaś. { learn-more }
+inactive-css-not-grid-item-fix = Wopytajśo <strong>display:grid</strong> abo <strong>display:inline-grid</strong> nadrědowanemu elementoju zapiska pśidaś. { learn-more }
+inactive-css-not-grid-container-fix = Wopytajśo <strong>display:grid</strong> abo <strong>display:inline-grid</strong> pśidaś. { learn-more }
+inactive-css-not-flex-item-fix = Wopytajśo <strong>display:flex</strong> abo <strong>display:inline-flex</strong> nadrědowanemu elementoju zapiska pśidaś. { learn-more }
+inactive-css-not-flex-container-fix = Wopytajśo <strong>display:flex</strong> abo <strong>display:inline-flex</strong> pśidaś. { learn-more }
