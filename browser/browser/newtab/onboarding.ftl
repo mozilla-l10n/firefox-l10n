@@ -63,13 +63,17 @@ onboarding-tracking-protection-button =
        *[other] Actualizar Preferencias
     }
 onboarding-tracking-protection-title2 = Protección contra rastreo
+onboarding-tracking-protection-text2 = { -brand-short-name } lo ayuda a impedir que los sitios lo rastreen en línea, por lo que será más difícil que la publicidad lo siga mientras navega.
 onboarding-tracking-protection-button2 = Cómo funciona
 onboarding-data-sync-title = Lleve sus configuraciones con usted
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = Sincronice sus marcadores y contraseñas en cualquier lugar que use { -brand-product-name }.
 onboarding-data-sync-button = Abrir { -sync-brand-short-name }
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Sincronice sus marcadores, contraseñas y mucho más use { -brand-product-name } donde lo use.
 onboarding-data-sync-button2 = Ingresar a { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Manténgase alerta a las violaciones de datos
+onboarding-firefox-monitor-text = { -monitor-brand-name } controla si su dirección de correo apareció  en una violación de datos y le avisa si vuelve a aparecer en una nueva violación.
 onboarding-firefox-monitor-button = Registrarse para recibir alertas
 onboarding-browse-privately-title = Navegación privada
 onboarding-browse-privately-text = La navegación privada borra las búsquedas y el historial de navegación para mantenerlo en secreto para cualquier persona que use la computadora.
