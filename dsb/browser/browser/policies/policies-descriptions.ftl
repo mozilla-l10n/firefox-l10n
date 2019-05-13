@@ -21,6 +21,7 @@ policy-Bookmarks = Cytańske znamjenja w symbolowej rědce cytańskich znamjenjo
 policy-CaptivePortal = Kaptiwny portal zmóžniś abo znjemóžniś
 policy-CertificatesDescription = Certifikaty pśidaś abo zatwarjone certifikaty wužywaś.
 policy-Cookies = Websedłam dowóliś abo zakazaś, cookieje składowaś.
+policy-DefaultDownloadDirectory = Nastajśo standardny ześěgnjeński zarědnik.
 policy-DisableAppUpdate = Wobglědowakoju aktualizěrowanje zakazaś.
 policy-DisableBuiltinPDFViewer = PDF.js znjemóžniś, zatwarjony PDF-wobglědowak w { -brand-short-name }.
 policy-DisableDeveloperTools = Pśistup k wuwijarskim rědam blokěrowaś.
@@ -45,6 +46,7 @@ policy-DisplayBookmarksToolbar = Rědku cytańskich znamjenjow pó standarźe po
 policy-DisplayMenuBar = Menijowu rědku pó standarźe pokazaś.
 policy-DNSOverHTTPS = DNS pśez HTTPS konfigurěrowaś.
 policy-DontCheckDefaultBrowser = Kontrolu za standardnym wobglědowakom pśi starśe znjemóžniś.
+policy-DownloadDirectory = Nastajśo a zastajśo ześěgnjeński zarědnik.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Blokěrowanje wopśimjeśa zmóžniś abo znjemóžniś a jo na žycenje zastajiś.
 # A “locked” extension can’t be disabled or removed by the user. This policy
@@ -52,6 +54,7 @@ policy-EnableTrackingProtection = Blokěrowanje wopśimjeśa zmóžniś abo znje
 # English or translate them as verbs.
 policy-Extensions = Rozšyrjenja instalěrowaś, wótinstalěrowaś abo zastajiś. Instalaciska opcija ma URL abo sćažki ako parametry. Opciji Wótinstalěrowaś a Zastajiś ID wužywatej.
 policy-ExtensionUpdate = Awtomatiske aktualizacije rozšyrjenjow zmóžniś abo znjemóžniś.
+policy-FirefoxHome = Firefox Home konfigurěrowaś.
 policy-FlashPlugin = Wužywanje tykaca Flash dowóliś abo zakazaś.
 policy-HardwareAcceleration = Jolic njewěrno, hardwarowe póspěšenje znjemóžniś.
 # “lock” means that the user won’t be able to change this setting
@@ -67,6 +70,7 @@ policy-OverridePostUpdatePage = Bok Nowe funkcije a změny pó aktualizaciji pś
 policy-Permissions = Pšawa za kameru, mikrofon, stojnišćo a powěźeńki konfigurěrowaś.
 policy-PopupBlocking = Wěstym websedłam dowóliś, wuskokujuce wokna pó standarźe pokazaś.
 policy-Preferences = Gódnotu za pódsajźbu nastajenjow stajiś a zastajiś
+policy-PromptForDownloadLocation = Pšašaś se, źož maju se dataje pśi ześěgowanju składowaś.
 policy-Proxy = Nastajenja proksy konfigurěrowaś.
 policy-RequestedLocales = Pódajśo lisćinu pominanych rěcow za nałoženje w preferěrowanem pórěźe.
 policy-SanitizeOnShutdown = Nawigaciske daty pśi skóńcenju wulašowaś.

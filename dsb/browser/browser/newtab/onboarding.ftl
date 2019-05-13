@@ -58,6 +58,24 @@ onboarding-tracking-protection-button2 = Kak funkcioněrujo
 onboarding-data-sync-title = Wzejśo swóje nastajenja sobu
 onboarding-data-sync-button = { -sync-brand-short-name } zašaltowaś
 onboarding-data-sync-button2 = Pla { -sync-brand-short-name } pśizjawiś
+onboarding-firefox-monitor-button = Za powěźeńki registrěrowaś
+onboarding-browse-privately-title = Pśeglědowajśo z priwatnosću
+onboarding-browse-privately-button = Priwatne wokno wócyniś
+onboarding-firefox-send-title = Źaržćo swóje źělone dataje priwatne
+onboarding-firefox-send-button = { -send-brand-name } wopytaś
+onboarding-mobile-phone-title = Instalěrujśo se { -brand-product-name } na swójom telefonje
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Mobilny wobglědowak ześěgnuś
+onboarding-send-tabs-title = Sćelśo něd rejtarki
+onboarding-send-tabs-button = Wužywajśo Send Tabs
+onboarding-pocket-anywhere-title = Cytajśo a słuchajśo wšuźi
+onboarding-pocket-anywhere-button = { -pocket-brand-name } wopytaś
+onboarding-lockwise-passwords-title = Wzejśo swóje gronidła wšuźi sobu
+onboarding-lockwise-passwords-button = { -lockwise-brand-name } wobstaraś
+onboarding-lockwise-passwords-button2 = Nałoženje wobstaraś
+onboarding-facebook-container-title = Stajśo granice za Facebook
+onboarding-facebook-container-button = Rozšyrjenje pśidaś
 
 ## Message strings belonging to the Return to AMO flow
 
