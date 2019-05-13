@@ -25,6 +25,15 @@ onboarding-start-browsing-button-label = Tichap Okem Pa K'amaya'l
 
 onboarding-benefit-products-title = Okel taq Tikojil
 onboarding-benefit-products-text = Kasamäj rik'in jun molaj samajib'äl, ri nukamelaj ri awichinanem pa ronojel awokisab'al.
+onboarding-benefit-knowledge-title = Samajel Etamab'äl
+onboarding-benefit-knowledge-text = Tawetamaj ronojel ri k'atzinel nawetamaj richin atna'owinäq chuqa' at jikïl pa k'amab'ey.
+onboarding-benefit-privacy-title = Qitzij Ichinanem
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Ronojel ri niqab'än, nukamelaj ri Rusujik Tzij chi rij Qatzij: Jub'a' etamab'äl nuk'äm. Nujikib'a'. Majun ewäl ta.
 
 ## These strings belong to the individual onboarding messages.
 
