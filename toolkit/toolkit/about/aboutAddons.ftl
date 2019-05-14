@@ -151,7 +151,7 @@ plugin-deprecation-description = რამეს ვერ პოულობთ
 legacy-warning-show-legacy = მოძველებული გაფართოებების ჩვენება
 legacy-extensions =
     .value = მოძველებული გაფართოებები
-legacy-extensions-description = ეს გაფართოებები არ შეესაბამება { -brand-short-name }-ის არსებულ სტანდარტებს და შესაბამისად ამორთულია. <label data-l10n-name="legacy-learn-more">ვრცლად, დამატებებთან დაკავშირებული ცვლილებების შესახებ</label>
+legacy-extensions-description = ეს გაფართოებები არ შეესაბამება მოთხოვნებს, რომელთაც { -brand-short-name } ადგენს და შესაბამისად ამორთულია. <label data-l10n-name="legacy-learn-more">ვრცლად, დამატებებთან დაკავშირებული ცვლილებების შესახებ</label>
 private-browsing-description2 =
     { -brand-short-name } ცვლის გაფართოებების მუშაობას პირადი თვალიერებისას. ნებისმიერ ახლად დაყენებულ დამატებას
     { -brand-short-name } არ გაუშვებს ნაგულისხმევად პირად ფანჯრებში. მანამ, სანამ თავად არ დაუშვებთ პარამეტრებიდან,
