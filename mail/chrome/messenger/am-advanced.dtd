@@ -5,24 +5,24 @@
 <!-- extracted from am-advanced.xul -->
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpServer.label "Outgoing Server (SMTP) Settings">
+<!ENTITY smtpServer.label "Agordoj de eliraj serviloj (SMTP)">
 
 <!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDescription.label "When managing your identities you can use a server from this list by selecting it as the Outgoing Server (SMTP), or you can use the default server from this list by selecting &quot;Use Default Server&quot;.">
+<!ENTITY smtpDescription.label "Dum administri identigojn, vi povas uzi servilon el tiu ĉi listo per elekti ĝin kiel eliran servilon (SMTP), aŭ uzi implicitan servilon el tiu ĉi listo per elekti “uzi implicitan servilon”.">
 
-<!ENTITY smtpListAdd.label  "Add…">
-<!ENTITY smtpListAdd.accesskey  "d">
-<!ENTITY smtpListEdit.label "Edit…">
-<!ENTITY smtpListEdit.accesskey "E">
-<!ENTITY smtpListDelete.label "Remove">
-<!ENTITY smtpListDelete.accesskey "m">
-<!ENTITY smtpListSetDefault.label "Set Default">
-<!ENTITY smtpListSetDefault.accesskey "t">
+<!ENTITY smtpListAdd.label  "Aldoni…">
+<!ENTITY smtpListAdd.accesskey  "A">
+<!ENTITY smtpListEdit.label "Redakti…">
+<!ENTITY smtpListEdit.accesskey "R">
+<!ENTITY smtpListDelete.label "Forigi">
+<!ENTITY smtpListDelete.accesskey "F">
+<!ENTITY smtpListSetDefault.label "Implicita">
+<!ENTITY smtpListSetDefault.accesskey "I">
 
-<!ENTITY serverDetails.label "Details of selected server:">
-<!ENTITY serverDescription.label "Description: ">
-<!ENTITY serverName.label "Server Name: ">
-<!ENTITY serverPort.label "Port: ">
-<!ENTITY userName.label   "User Name: ">
-<!ENTITY connectionSecurity.label "Connection Security: ">
-<!ENTITY authMethod.label   "Authentication method: ">
+<!ENTITY serverDetails.label "Detaloj pri elektita servilo:">
+<!ENTITY serverDescription.label "Priskribo: ">
+<!ENTITY serverName.label "Servila nomo: ">
+<!ENTITY serverPort.label "Pordo: ">
+<!ENTITY userName.label   "Nomo de uzanto: ">
+<!ENTITY connectionSecurity.label "Sekureco de konekto: ">
+<!ENTITY authMethod.label   "Aŭtentigo: ">
