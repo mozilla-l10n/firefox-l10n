@@ -199,6 +199,7 @@ gpu-device-id = Apparaat-ID
 gpu-subsys-id = Subsysteem-ID
 gpu-drivers = Stjoerprogramma’s
 gpu-ram = RAM
+gpu-driver-vendor = Leveransier fan stjoerprogramma
 gpu-driver-version = Stjoerprogrammaferzje
 gpu-driver-date = Datum fan stjoerprogramma
 gpu-active = Aktyf

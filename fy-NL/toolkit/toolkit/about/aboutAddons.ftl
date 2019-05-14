@@ -339,3 +339,8 @@ install-update-button = Bywurkje
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Tastien yn priveefinsters
+addon-detail-private-browsing-help = Wannear tastien, hat de útwreiding tagong ta jo online-aktiviteiten yn priveenavigaasje. <a data-l10n-name="learn-more">Mear ynfo</a>
+addon-detail-private-browsing-allow = Tastean
+addon-detail-private-browsing-disallow = Net tastean
+available-updates-heading = Beskikbere fernijingen
+recent-updates-heading = Resinte fernijingen
