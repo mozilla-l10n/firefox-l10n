@@ -413,8 +413,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "İndirilenler">
 <!ENTITY pref_private_data_syncedTabs "Eşitlenmiş sekmeler">
 
-<!ENTITY pref_default_browser "Varsayılan tarayıcı yap">
-
 <!ENTITY pref_default_browser2 "&brandShortName; varsayılan tarayıcınız olsun">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -918,6 +916,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Duraklat">
 <!ENTITY pip_pause_button_description "Oynatmayı duraklat">
 
+<!ENTITY pref_notification_settings_link "Bildirim ayarlarını yönet">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Tarayıcı">
 <!ENTITY mls_notification_channel "&vendorShortName; Konum Hizmeti">
