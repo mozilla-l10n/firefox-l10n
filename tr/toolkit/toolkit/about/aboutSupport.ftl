@@ -196,6 +196,7 @@ gpu-device-id = Aygıt numarası
 gpu-subsys-id = Subsys numarası
 gpu-drivers = Sürücüler
 gpu-ram = RAM
+gpu-driver-vendor = Sürücü sağlayıcı
 gpu-driver-version = Sürücü sürümü
 gpu-driver-date = Sürücü tarihi
 gpu-active = Etkin
