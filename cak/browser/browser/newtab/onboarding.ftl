@@ -68,6 +68,10 @@ onboarding-tracking-protection-button2 = Achike Rub'eyal Nisamäj
 onboarding-data-sync-title = Tak'waj Awik'in ri taq Anuk'ulem
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = Ke'axima' ri taq ayaketal chuqa' ewan taq atzij xab'akuchi' nawokisaj ri { -brand-product-name }.
+onboarding-data-sync-button = Titzij pa { -sync-brand-short-name }
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Ke'axima' ri taq ayaketal, ewan taq atzij chuqa' ch'aqa' chik xab'akuchi' nawokisaj ri { -brand-product-name }.
+onboarding-data-sync-button2 = Titikirisäx molojri'ïl pa { -sync-brand-short-name }
 
 ## Message strings belonging to the Return to AMO flow
 
