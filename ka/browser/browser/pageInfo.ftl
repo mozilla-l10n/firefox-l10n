@@ -219,7 +219,7 @@ media-file-size = { $size } კბ
 # Variables:
 #   $website (string) - The website name
 media-block-image =
-    .label = სურათების შეზღუდვა { $website }-ზე
+    .label = სურათების შეზღუდვა საიტზე { $website }
     .accesskey = ბ
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box

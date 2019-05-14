@@ -1119,11 +1119,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.message "ჩამოტვირთეთ ახალი &brandShorterName; და ჩვენ დაგეხმარებით მის დაყენებაში.">
 <!ENTITY updateManual.whatsnew.label "იხილეთ, სიახლეები.">
 <!ENTITY updateManual.header.message "&brandShorterName; ვერ ახერხებს უახლეს ვერსიამდე განახლებას.">
-<!ENTITY updateManual.acceptButton.label "&brandShorterName; -ის ჩამოტვირთვა">
+<!ENTITY updateManual.acceptButton.label "ჩამოიტვირთოს &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "ჩ">
 <!ENTITY updateManual.cancelButton.label "ახლა არა">
 <!ENTITY updateManual.cancelButton.accesskey "ა">
-<!ENTITY updateManual.panelUI.label "&brandShorterName; -ის ახალი ვერსიის ჩამოტვირთვა">
+<!ENTITY updateManual.panelUI.label "ჩამოიტვირთოს ახალი ვერსიის &brandShorterName;">
 
 <!ENTITY updateRestart.message2 "ხელახლა გაშვების შემდეგ, &brandShorterName; აღადგენს თქვენს ყველა გახსნილ ჩანართსა და ფანჯარას, პირადი ჩანართებისა და ფანჯრების გარდა.">
 <!ENTITY updateRestart.header.message2 "გასაახლებლად, გაუშვით ხელახლა &brandShorterName;.">
