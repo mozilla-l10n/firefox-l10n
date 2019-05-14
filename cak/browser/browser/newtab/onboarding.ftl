@@ -54,6 +54,7 @@ onboarding-ghostery-text = Katok pa k'amaya'l aninäq, na'owinäq rub'anikil o y
 onboarding-fxa-title = Tixim
 onboarding-fxa-text = Tatz'ib'aj awi' richin nik'oje' jun { -fxaccount-brand-name } chuqa' ke'axima' ri taq ayaketal, ewan taq tzij chuqa' jaqäl taq ruwi' akuchi' nawokisaj { -brand-short-name }.
 onboarding-tracking-protection-title = Tachajij Rub'eyal Yatojqäx
+onboarding-tracking-protection-text = ¿La man niqa ta chawäch chi yatrojqaj ri eltzijol? { -brand-short-name } yatruto' richin nachajij rub'eyal yatkojqaj ri asamaj ri eltzijonela' pa k'amab'ey.
 
 ## Message strings belonging to the Return to AMO flow
 
