@@ -45,6 +45,7 @@ policy-DisplayBookmarksToolbar = Affiche la barre personnelle par défaut.
 policy-DisplayMenuBar = Affiche la barre de menus par défaut.
 policy-DNSOverHTTPS = Permet de configurer le DNS via HTTPS.
 policy-DontCheckDefaultBrowser = Désactive la vérification du navigateur par défaut au démarrage.
+policy-DownloadDirectory = Permet de définir et verrouiller le répertoire de téléchargement.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Active ou désactive le blocage de contenu et permet de verrouiller ce choix.
 # A “locked” extension can’t be disabled or removed by the user. This policy
