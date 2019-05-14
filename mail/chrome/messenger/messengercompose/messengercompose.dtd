@@ -182,7 +182,9 @@
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "ส่งข้อความนี้ตอนนี้">
 <!ENTITY sendlaterButton.tooltip "ส่งข้อความนี้ในภายหลัง">
+<!ENTITY addressButton.tooltip "เลือกผู้รับจากสมุดรายชื่อ">
 <!ENTITY attachButton.tooltip2 "เพิ่มไฟล์แนบ">
+<!ENTITY spellingButton.tooltip "ตรวจสอบการสะกดของส่วนที่เลือกหรือทั้งข้อความ">
 <!ENTITY saveButton.tooltip "บันทึกข้อความนี้">
 <!ENTITY cutButton.tooltip              "ตัด">
 <!ENTITY copyButton.tooltip             "คัดลอก">
