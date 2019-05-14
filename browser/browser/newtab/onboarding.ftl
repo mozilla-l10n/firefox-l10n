@@ -88,10 +88,22 @@ onboarding-mobile-phone-text = Descargue { -brand-product-name } para iOS o Andr
 # browser.
 onboarding-mobile-phone-button = Descargar navegador móvil
 onboarding-send-tabs-title = Envíese las pestañas instantáneamente
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Send Tabs comparte páginas de forma instantánea entre sus dispositivos sin copiar, pegar ni salir del navegador.
+onboarding-send-tabs-button = Empiece a usar Send Tabs
 onboarding-pocket-anywhere-title = Leer y escuchar en cualquier lugar
+# "downtime" refers to the user's free/spare time.
+onboarding-pocket-anywhere-text = { -pocket-brand-name } guarda sus historias favoritas para que pueda leerlas, escucharlas o verlas cuando quiera, incluso sin conexión.
+onboarding-pocket-anywhere-text2 = Guarde su contenido favorito sin conexión gracias a la aplicación { -pocket-brand-name } y léalo, escúchelo o véalo dónde y cuándo mejor le convenga.
 onboarding-pocket-anywhere-button = Probar { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Lleve sus contraseñas a todas partes
+onboarding-lockwise-passwords-text = { -lockwise-brand-name } guarda sus contraseñas en un lugar seguro para que pueda iniciar la sesión en sus cuentas de una forma sencilla.
 onboarding-lockwise-passwords-button = Obtener { -lockwise-brand-name }
+onboarding-lockwise-passwords-text2 = Mantenga seguras las contraseñas que guarda e inicie sesión fácilmente en sus cuentas con { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Obtener la aplicación
+onboarding-facebook-container-title = Configure límites con Facebook
+onboarding-facebook-container-text = { -facebook-container-brand-name } separa su identidad de Facebook de todo lo demás, haciendo más difícil que pueda rastrearlo por la web.
 onboarding-facebook-container-button = Agregar la extensión
 
 ## Message strings belonging to the Return to AMO flow
