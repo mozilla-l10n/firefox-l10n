@@ -163,6 +163,9 @@ private-browsing-description2 =
 extensions-view-discover =
     .name = Add-ons krije
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Oanrekommandaasjes
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Resinte fernijingen
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -243,7 +246,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Utwreidingsfluchtoetsen beheare
     .accesskey = U
-shortcuts-empty-message = Der binne gjin fluchtoetsen foar dizze útwreiding.
 shortcuts-no-addons = Jo hawwe gjin útwreidingen ynskeakele.
 shortcuts-no-commands = De folgjende útwreidingen hawwe gjin fluchtoetsen:
 shortcuts-input =
@@ -268,19 +270,46 @@ shortcuts-card-collapse-button = Minder toane
 go-back-button =
     .tooltiptext = Tebekgean
 
+## Recommended add-ons page
+
+discopane-notice-learn-more = Mear ynfo
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = troch <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Brûkers: { $dailyUsers }
+install-extension-button = Tafoegje oan { -brand-product-name }
+install-theme-button = Tema ynstallearje
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Beheare
+find-more-addons = Mear add-ons sykje
+
 ## Add-on actions
 
+report-addon-button = Rapportearje
 remove-addon-button = Fuortsmite
 disable-addon-button = Utskeakelje
 enable-addon-button = Ynskeakelje
 expand-addon-button = Mear opsjes
 addons-enabled-heading = Ynskeakele
 addons-disabled-heading = Utskeakele
+ask-to-activate-button = Freegje om te aktivearjen
+always-activate-button = Altyd aktivearje
+never-activate-button = Nea aktivearje
 addon-detail-author-label = Skriuwer
 addon-detail-version-label = Ferzje
 addon-detail-last-updated-label = Lêst bywurke
 addon-detail-homepage-label = Startside
 addon-detail-rating-label = Wurdearring
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Beoardiele mei { NUMBER($rating, maximumFractionDigits: 1) } fan de 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -293,3 +322,20 @@ addon-detail-reviews-link =
         [one] { $numberOfReviews } beoardieling
        *[other] { $numberOfReviews } beoardielingen
     }
+
+## Pending uninstall message bar
+
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> is fuortsmiten.
+pending-uninstall-undo-button = Ungedien meitsje
+addon-detail-updates-label = Automatyske fernijingen tastean
+addon-detail-updates-radio-default = Standert
+addon-detail-updates-radio-on = Oan
+addon-detail-updates-radio-off = Ut
+addon-detail-update-check-label = Kontrolearje op fernijingen
+install-update-button = Bywurkje
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Tastien yn priveefinsters
