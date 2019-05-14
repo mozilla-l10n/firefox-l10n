@@ -4,6 +4,7 @@
 
 <!ENTITY firstrun_panel_title_welcome "స్వాగతం">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; ఎంచుకున్నందుకు ధన్యవాదాలు">
+<!ENTITY newfirstrun_urlbar_message "&brandShortName;కి స్వాగతం">
 <!ENTITY firstrun_urlbar_subtext2 "స్వేచ్ఛా, బహిరంగ జాలానికి కట్టుబడి ఉన్న లాభాపేక్ష-లేని మొజిల్లా నుండి ఒక ఆధునిక మొబైల్ బ్రౌజర్.">
 <!ENTITY firstrun_panel_title_privacy "గోప్యత">
 <!ENTITY firstrun_privacy_message "ఎవరూ చూడనట్టుగా విహరణ చెయ్యండి">
@@ -407,12 +408,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "దింపుకోళ్ళు">
 <!ENTITY pref_private_data_syncedTabs "సింకైన ట్యాబులు">
 
-<!ENTITY pref_default_browser "అప్రమేయ విహారిణి చెయ్యి">
-
 <!ENTITY pref_default_browser2 "&brandShortName;ను మీ అప్రమేయ విహారిణిగా చేసుకోండి">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
-    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla తోడ్పాటును చూడండి">
 <!ENTITY pref_about_firefox "&brandShortName; గురించి">
 <!ENTITY pref_vendor_faqs "సందేహాలు">
