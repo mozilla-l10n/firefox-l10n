@@ -4,10 +4,10 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
-<!ENTITY dialogTitle.label "Archive Options">
-<!ENTITY archiveGranularityPrefix.label "When archiving messages, place them in:">
-<!ENTITY archiveFlat.label "A single folder">
-<!ENTITY archiveFlat.accesskey "s">
+<!ENTITY dialogTitle.label "Agordoj de arĥivigo">
+<!ENTITY archiveGranularityPrefix.label "Konservi arĥivon de mesaĝoj en:">
+<!ENTITY archiveFlat.label "unuopa mesaĝujo">
+<!ENTITY archiveFlat.accesskey "u">
 <!ENTITY archiveYearly.label "Yearly archived folders">
 <!ENTITY archiveYearly.accesskey "Y">
 <!ENTITY archiveMonthly.label "Monthly archived folders">
