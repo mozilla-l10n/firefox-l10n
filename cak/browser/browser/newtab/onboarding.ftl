@@ -55,6 +55,19 @@ onboarding-fxa-title = Tixim
 onboarding-fxa-text = Tatz'ib'aj awi' richin nik'oje' jun { -fxaccount-brand-name } chuqa' ke'axima' ri taq ayaketal, ewan taq tzij chuqa' jaqäl taq ruwi' akuchi' nawokisaj { -brand-short-name }.
 onboarding-tracking-protection-title = Tachajij Rub'eyal Yatojqäx
 onboarding-tracking-protection-text = ¿La man niqa ta chawäch chi yatrojqaj ri eltzijol? { -brand-short-name } yatruto' richin nachajij rub'eyal yatkojqaj ri asamaj ri eltzijonela' pa k'amab'ey.
+# "Update" is a verb, as in "Update the existing settings", not "Options about
+# updates".
+onboarding-tracking-protection-button =
+    { PLATFORM() ->
+        [windows] Kek'ex taq Cha'oj
+       *[other] Kek'ex taq Ajowab'äl
+    }
+onboarding-tracking-protection-title2 = Chajinïk Chuwäch Ojqanem
+onboarding-tracking-protection-text2 = { -brand-short-name } yatruto' richin yeruq'ät ri taq ajk'amaya'l ruxaq yatqojqaj pa k'amab'ey, ruma ri' toq k'ayew xtub'än chuwäch ri eltzijol richin yatorojqaj toq yatok pa k'amaya'l.
+onboarding-tracking-protection-button2 = Achike Rub'eyal Nisamäj
+onboarding-data-sync-title = Tak'waj Awik'in ri taq Anuk'ulem
+# "Sync" is short for synchronize.
+onboarding-data-sync-text = Ke'axima' ri taq ayaketal chuqa' ewan taq atzij xab'akuchi' nawokisaj ri { -brand-product-name }.
 
 ## Message strings belonging to the Return to AMO flow
 
