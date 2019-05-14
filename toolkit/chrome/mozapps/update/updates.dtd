@@ -27,7 +27,7 @@
 <!ENTITY  evangelism.desc                 "Recomendamos que aplique esta atualização do &brandShortName; o mais depressa possível.">
 
 <!ENTITY  downloadPage.title              "A transferir o &brandShortName;">
-<!ENTITY  downloading.intro               "A transferir atualização…">
+<!ENTITY  downloading.intro               "A transferir a atualização…">
 <!ENTITY  connecting.label                "A ligar ao servidor de atualizações…">
 <!ENTITY  verificationFailedText.label    "O &brandShortName; não conseguiu verificar a integridade da 
                                            atualização parcial transferida, pelo que está a transferir agora
@@ -64,8 +64,4 @@
                                            instalada da próxima vez que o &brandShortName; iniciar. Pode reiniciar
                                            o &brandShortName; agora, e continuar a trabalhar e reiniciar mais tarde, ou rejeitar esta
                                            atualização.">
-
-<!ENTITY  update.details.label            "Detalhes">
-<!ENTITY  update.installedOn.label        "Instalada em:">
-<!ENTITY  update.status.label             "Estado:">
 
