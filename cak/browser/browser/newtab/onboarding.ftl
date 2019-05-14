@@ -72,6 +72,7 @@ onboarding-data-sync-button = Titzij pa { -sync-brand-short-name }
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Ke'axima' ri taq ayaketal, ewan taq atzij chuqa' ch'aqa' chik xab'akuchi' nawokisaj ri { -brand-product-name }.
 onboarding-data-sync-button2 = Titikirisäx molojri'ïl pa { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Ke'atz'eta' ri Kitzijol Kitz'ilanik Tzij
 
 ## Message strings belonging to the Return to AMO flow
 
