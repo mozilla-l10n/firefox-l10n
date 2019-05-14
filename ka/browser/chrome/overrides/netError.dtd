@@ -11,7 +11,6 @@
 <!ENTITY returnToPreviousPage1.label "უკან დაბრუნება (სასურველია)">
 <!ENTITY advanced.label "ვრცლად">
 <!ENTITY advanced2.label "დამატებით…">
-<!ENTITY moreInformation.label "ვრცლად">
 <!ENTITY viewCertificate.label "სერტიფიკატის ნახვა">
 
 <!-- Specific error messages -->
@@ -169,7 +168,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
 <p>ხარვეზი, უმეტესად დაკავშირებულია თავად ვებსაიტთან და თქვენ ვერ მოახერხებთ მის გამოსწორებას.</p>
-<p>თუ იყენებთ ორგანიზაციის ქსელს ან ანტივირუსულ პროგრამას, დასახმარებლად შეგიძლიათ მიმართოთ იქვე არსებულ მხარდაჭერის გუნდს. ასევე, შეგიძლიათ შეატყობინოთ ვებსაიტის მფლობელებს, ამ ხარვეზის შესახებ.</p>
+<p>თუ იყენებთ დაწესებულების ქსელს ან ანტივირუსულ პროგრამას, დასახმარებლად შეგიძლიათ მიმართოთ იქვე არსებულ მხარდაჭერის გუნდს. ასევე, შეგიძლიათ შეატყობინოთ ვებსაიტის მფლობელებს, ამ ხარვეზის შესახებ.</p>
 ">
 
 <!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "

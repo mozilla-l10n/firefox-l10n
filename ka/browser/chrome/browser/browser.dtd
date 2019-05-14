@@ -131,7 +131,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "ამობეჭდვა…">
 <!ENTITY printCmd.accesskey "ა">
 <!ENTITY printCmd.commandkey "p">
-
 <!ENTITY importFromAnotherBrowserCmd.label "გადმოტანა სხვა ბრაუზერიდან…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "ბ">
 
@@ -439,7 +438,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "პ">
 <!ENTITY preferencesCmdUnix.label       "პარამეტრები">
 <!ENTITY preferencesCmdUnix.accesskey     "ტ">
-
 <!ENTITY logins.label                           "ანგარიშები და პაროლები">
 
 <!ENTITY clearRecentHistory.label               "უახლესი ისტორიის გასუფთავება...">
@@ -1109,7 +1107,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.accesskey        "ტ">
 
 <!ENTITY updateAvailable.message "განაახლეთ &brandShorterName; გაუმჯობესებული სიჩქარისა და უსაფრთხოებისთვის.">
-<!ENTITY updateAvailable.whatsnew.label "იხილეთ სიახლეები.">
+<!ENTITY updateAvailable.whatsnew.label "გაეცანით სიახლეებს.">
 <!ENTITY updateAvailable.header.message "ახალი &brandShorterName; განახლება ხელმისაწვდომია.">
 <!ENTITY updateAvailable.acceptButton.label "განახლების ჩამოტვირთვა">
 <!ENTITY updateAvailable.acceptButton.accesskey "ჩ">
@@ -1118,9 +1116,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateAvailable.panelUI.label "&brandShorterName; განახლების ჩამოტვირთვა">
 
-<!ENTITY updateManual.message "ჩამოტვირთეთ &brandShorterName; -ის ახალი ვერსია და ჩვენ დაგეხმარებით მის დაყენებაში.">
+<!ENTITY updateManual.message "ჩამოტვირთეთ ახალი &brandShorterName; და ჩვენ დაგეხმარებით მის დაყენებაში.">
 <!ENTITY updateManual.whatsnew.label "იხილეთ, სიახლეები.">
-<!ENTITY updateManual.header.message "&brandShorterName; -ის უახლეს ვერსიამდე განახლება ვერ ხერხდება.">
+<!ENTITY updateManual.header.message "&brandShorterName; ვერ ახერხებს უახლეს ვერსიამდე განახლებას.">
 <!ENTITY updateManual.acceptButton.label "&brandShorterName; -ის ჩამოტვირთვა">
 <!ENTITY updateManual.acceptButton.accesskey "ჩ">
 <!ENTITY updateManual.cancelButton.label "ახლა არა">
