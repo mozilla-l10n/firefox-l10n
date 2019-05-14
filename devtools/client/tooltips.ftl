@@ -18,8 +18,10 @@ inactive-css-not-grid-or-flex-item = <strong> { $property }</strong> no tiene ni
 inactive-css-not-grid-item = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no es un elemento de la grilla.
 inactive-css-not-grid-container = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no es un contenedor de grilla.
 inactive-css-not-flex-item = <strong>{ $property }</strong> no tiene ningún efecto en este elemento, ya que no es un elemento flexible.
+inactive-css-not-flex-container = <strong>{ $property }</strong> no tiene ningún efecto en este elemento, ya que no es un contenedor flexible.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved.
 
+inactive-css-not-grid-or-flex-container-fix = Intente agregar <strong> mostrar:grilla </strong> o <strong> mostrar:flexible</strong>. { learn-more }
