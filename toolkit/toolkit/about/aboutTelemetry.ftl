@@ -69,7 +69,7 @@ about-telemetry-histogram-stats =
     }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-page-subtitle = ამ გვერდზე ნაჩვენებია გაზომვების მიერ შეგროვებული ინფორმაცია წარმადობის, აპარატურის, პროგრამის გამოყენებისა და შერჩეული პარამეტრების შესახებ, რომელიც იგზავნება { $telemetryServerOwner }-ში, { -brand-full-name }-ის გასაუმჯობესებლად.
+about-telemetry-page-subtitle = ამ გვერდზე ნაჩვენებია გაზომვების მიერ შეგროვებული ინფორმაცია წარმადობის, აპარატურის, პროგრამის გამოყენებისა და შერჩეული პარამეტრების შესახებ, რომელიც იგზავნება { $telemetryServerOwner }-ში, რომ გავაუმჯობესოთ { -brand-full-name }.
 about-telemetry-settings-explanation = გაზომვებით აღირიცხება { about-telemetry-data-type }, რომელთა ატვირთვაც <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
 #   $name (String): ping name, e.g. “saved-session”

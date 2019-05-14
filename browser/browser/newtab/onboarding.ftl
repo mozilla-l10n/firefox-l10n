@@ -52,7 +52,7 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = მოიძიეთ უფრო სწრაფად, გონივრულად და უსაფრთხოდ ისეთი გაფართოებების დახმარებით, როგორიცაა Ghostery, რომელიც საშუალებას გაძლევთ შეზღუდოთ მომაბეზრებელი რეკლამები.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = სინქრონიზაცია
-onboarding-fxa-text = შექმენით { -fxaccount-brand-name } და დაასინქრონეთ თქვენი სანიშნები, პაროლები და გახსნილი ჩანართები ყველგან, სადაც გამოიყენებთ { -brand-short-name }-ს.
+onboarding-fxa-text = შექმენით { -fxaccount-brand-name } და დაასინქრონეთ თქვენი სანიშნები, პაროლები და გახსნილი ჩანართები ყველგან, სადაც გიყენიათ { -brand-short-name }.
 onboarding-tracking-protection-title = მართეთ მეთვალყურეთა შესაძლებლობები
 onboarding-tracking-protection-text = არ გსიამოვნებთ, რეკლამები თვალს რომ გადევნებთ? { -brand-short-name } დაგეხმარებათ თავად განსაზღვროთ, როგორ ექნება სარეკლამო საშუალებებს წვდომა თქვენს მოქმედებებზე.
 # "Update" is a verb, as in "Update the existing settings", not "Options about
@@ -63,7 +63,7 @@ onboarding-tracking-protection-button =
        *[other] პარამეტრების შეცვლა
     }
 onboarding-tracking-protection-title2 = თვალთვალისგან დაცვა
-onboarding-tracking-protection-text2 = { -brand-short-name } გეხმარებათ აუკრძალოთ საიტებს, თქვენი თვალთვალი ინტერნეტში, რაც გაურთულებს რეკლამებს შესაძლებლობას, თვალი გადევნონ ვებსივრცეში.
+onboarding-tracking-protection-text2 = { -brand-short-name } გეხმარებათ, აუკრძალოთ საიტებს თქვენი თვალთვალი ინტერნეტში, რაც ურთულებს რეკლამებს შესაძლებლობას, თვალი გადევნოთ ვებსივრცეში.
 onboarding-tracking-protection-button2 = როგორ მუშაობს
 onboarding-data-sync-title = წაიყოლეთ თქვენი პარამეტრები თან
 # "Sync" is short for synchronize.

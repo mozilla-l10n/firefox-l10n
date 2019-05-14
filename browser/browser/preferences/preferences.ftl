@@ -46,10 +46,6 @@ category-search =
 pane-privacy-title = პირადულობა და უსაფრთხოება
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox-ანგარიში
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -62,8 +58,8 @@ close-button =
 
 ## Browser Restart Dialog
 
-feature-enable-requires-restart = ამ ფუნქციის ჩასართავად, ხელახლა გაუშვით { -brand-short-name }
-feature-disable-requires-restart = ამ ფუნქციის გამოსართავად, ხელახლა გაუშვით { -brand-short-name }
+feature-enable-requires-restart = ამ შესაძლებლობის ჩასართავად, ხელახლა გაუშვით { -brand-short-name }
+feature-disable-requires-restart = ამ შესაძლებლობის გამოსართავად, ხელახლა გაუშვით { -brand-short-name }
 should-restart-title = ხელახლა გაეშვას { -brand-short-name }
 should-restart-ok = გაუშვით ხელახლა { -brand-short-name } ახლავე
 cancel-no-restart-button = გაუქმება
@@ -528,8 +524,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = შენახვა
     .accesskey = ე
-sync-mobilepromo-single = სხვა მოწყობილობის დაკავშირება
-sync-mobilepromo-multi = მოწყობილობების მართვა
 sync-connect-another-device = სხვა მოწყობილობასთან დაკავშირება
 sync-manage-devices = მოწყობილობების მართვა
 sync-fxa-begin-pairing = მოწყობილობის მიერთება
@@ -687,7 +681,6 @@ content-blocking-all-third-party-cookies = მესამე მხარის
 content-blocking-cryptominers = კრიპტოვალუტის გამომმუშავებელი
 content-blocking-fingerprinters = მომხმარებლის ამომცნობი
 content-blocking-warning-title = ფრთხილად!
-content-blocking-warning-desc = მეთვალყურეებისა და ფუნთუშების შეზღუდვის შედეგად, საიტების ნაწილმა შესაძლოა ვერ იმუშაოს გამართულად. სანდო საიტებზე, მარტივად შეგეძლებათ შეზღუდვის გათიშვა.
 content-blocking-warning-description = შიგთავსის შეზღუდვის შედეგად, საიტების ნაწილმა შესაძლოა ვერ იმუშაოს გამართულად. სანდო საიტებზე, მარტივად შეგეძლებათ შეზღუდვის გათიშვა.
 content-blocking-learn-how = იხილეთ ვრცლად
 content-blocking-reload-description = საჭიროა ჩანართების ხელახლა გახსნა ცვლილებების ასახვისთვის.
