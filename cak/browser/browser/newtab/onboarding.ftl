@@ -73,6 +73,10 @@ onboarding-data-sync-button = Titzij pa { -sync-brand-short-name }
 onboarding-data-sync-text2 = Ke'axima' ri taq ayaketal, ewan taq atzij chuqa' ch'aqa' chik xab'akuchi' nawokisaj ri { -brand-product-name }.
 onboarding-data-sync-button2 = Titikirisäx molojri'ïl pa { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Ke'atz'eta' ri Kitzijol Kitz'ilanik Tzij
+onboarding-firefox-monitor-text = { -monitor-brand-name } tanik'oj we ri rub'i' ataqoya'l k'o pa jun kitz'ilanik tzij chuqa' nuya' rutzijol we k'o pa jun k'ak'a' tz'ilanem.
+onboarding-firefox-monitor-button = Tatz'ib'aj ab'i' richin ye'akül taq Rutzijol K'ayewal
+onboarding-browse-privately-title = Richinanem Okik'amaya'l
+onboarding-browse-privately-text = Ri Ichinan Okik'amaya'l nuyüj ri taq kanoxïk chuqa' ri runatab'al okem pa k'amaya'l richin chi ewäl chuwäch xab'achike winäq nrokisaj ri kematz'ib'.
 
 ## Message strings belonging to the Return to AMO flow
 
