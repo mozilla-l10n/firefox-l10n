@@ -33,9 +33,21 @@ abuse-report-submit-button = Enviar
 
 abuse-report-messagebar-aborted = Se canceló el informe para <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitting = Enviando el informe para <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-submitted = Gracias por enviar el informe. ¿Quiere eliminar <span data-l10n-name="addon-name">{ $addon-name }</span>?
+abuse-report-messagebar-submitted-noremove = Gracias por enviar el informe.
+abuse-report-messagebar-removed-extension = Gracias por enviar el informe. Elimiinó la extensión <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-theme = Gracias por enviar el informe. Eliminó el tema <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error = Hubo un error al enviar el informe sobre <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error-recent-submit = No se envió el informe sobre <span data-l10n-name="addon-name">{ $addon-name }</span> porque recientemente se envió otro informe.
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove-extension = Sí, elimínenlo
+abuse-report-messagebar-action-keep-extension = No, lo guardaré
+abuse-report-messagebar-action-remove-theme = Sí, elimínenlo
+abuse-report-messagebar-action-keep-theme = No, lo guardaré
+abuse-report-messagebar-action-retry = Reintentar
+abuse-report-messagebar-action-cancel = Cancelar
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
