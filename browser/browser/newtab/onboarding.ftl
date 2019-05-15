@@ -92,8 +92,10 @@ onboarding-send-tabs-title = Envoyez-vous des onglets
 # tab's context menu.
 onboarding-send-tabs-text = L’envoi d’onglets partage instantanément des pages entre vos appareils sans avoir à copier, coller ou quitter le navigateur.
 onboarding-send-tabs-button = Commencer à utiliser « Envoyer l’onglet »
+onboarding-pocket-anywhere-title = Lisez et écoutez, où que vous soyez
 # "downtime" refers to the user's free/spare time.
 onboarding-pocket-anywhere-text = { -pocket-brand-name } sauvegarde vos contenus préférés pour que vous puissiez les lire, les écouter et les regarder pendant votre temps libre, même si vous êtes hors ligne.
+onboarding-pocket-anywhere-text2 = Enregistrez vos contenus préférés hors connexion avec l’application { -pocket-brand-name } pour les lire, regarder ou écouter quand bon vous semble.
 onboarding-pocket-anywhere-button = Essayer { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Emmenez vos mots de passe partout
 onboarding-lockwise-passwords-text = { -lockwise-brand-name } conserve vos mots de passe en lieu sûr, vous permettant ainsi de vous connecter facilement à vos comptes.
