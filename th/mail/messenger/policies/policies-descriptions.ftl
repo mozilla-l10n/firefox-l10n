@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-AppUpdateURL = ตั้ง URL อัปเดตแอปที่กำหนดเอง
 policy-BlockAboutAddons = ปิดกั้นการเข้าถึงตัวจัดการส่วนเสริม (about:addons)
 policy-BlockAboutConfig = ปิดกั้นการเข้าถึงหน้า about:config
 policy-BlockAboutProfiles = ปิดกั้นการเข้าถึงหน้า about:profiles
@@ -25,7 +26,9 @@ policy-DisplayMenuBar = แสดงแถบเมนูโดยค่าเ�
 policy-DNSOverHTTPS = กำหนดค่า DNS ผ่าน HTTPS
 policy-DownloadDirectory = ตั้งค่าและล็อคไดเรกทอรีการดาวน์โหลด
 policy-ExtensionUpdate = เปิดใช้งานหรือปิดใช้งานการอัปเดตส่วนขยายอัตโนมัติ
+policy-InstallAddonsPermission = อนุญาตให้เว็บไซต์บางส่วนติดตั้งส่วนเสริม
 policy-Proxy = กำหนดค่าการตั้งค่าพร็อกซี
+policy-SanitizeOnShutdown2 = ล้างข้อมูลการนำทางเมื่อปิดเครื่อง
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = ติดตั้งโมดูล PKCS #11
 policy-SSLVersionMax = ตั้งรุ่น SSL สูงสุด
