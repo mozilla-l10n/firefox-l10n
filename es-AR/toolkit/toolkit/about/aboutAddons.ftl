@@ -162,6 +162,9 @@ private-browsing-description2 =
 extensions-view-discover =
     .name = Obtener complementos
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Recomendaciones
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Actualizaciones recientes
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -242,7 +245,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Administrar accesos directos de extensión
     .accesskey = S
-shortcuts-empty-message = No hay atajos para esta extensión.
 shortcuts-no-addons = No tiene ninguna extensión habilitada.
 shortcuts-no-commands = Las siguientes extensiones no tienen atajos de teclado:
 shortcuts-input =
@@ -268,19 +270,57 @@ shortcuts-card-collapse-button = Mostrar menos
 go-back-button =
     .tooltiptext = Retroceder
 
+## Recommended add-ons page
+
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Las extensiones y temas son como aplicaciones para el navegador y le permiten
+    proteger sus contraseñas, descargar vídeos, encontrar ofertas, bloquear publicidad,
+    cambiar la apariencia del navegador y mucho más. Suelen ser terceros los que generalmente desarrollan estos pequeños programas de software. Le ofrecemos una selección de { -brand-product-name }
+    <a data-l10n-name="learn-more-trigger">recomendados</a> en seguridad, rendimiento
+    y funcionalidad excepcionales.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations = Algunas de estas recomendaciones son personalizadas. Se basan en otras extensiones que tiene instaladas, preferencias de su perfil y estadísticas de uso.
+discopane-notice-learn-more = Conocer más
+privacy-policy = Política de privacidad
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = por <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Usuarios: { $dailyUsers }
+install-extension-button = Agregar a { -brand-product-name }
+install-theme-button = Instalar tema
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Administrar
+find-more-addons = Buscar más complementos
+
 ## Add-on actions
 
+report-addon-button = Informar
 remove-addon-button = Eliminar
 disable-addon-button = Deshabilitar
 enable-addon-button = Habilitar
 expand-addon-button = Más opciones
 addons-enabled-heading = Habilitado
 addons-disabled-heading = Deshabilitado
+ask-to-activate-button = Preguntar para activar
+always-activate-button = Activar siempre
+never-activate-button = No activar nunca
 addon-detail-author-label = Autor
 addon-detail-version-label = Versión
 addon-detail-last-updated-label = Última actualización
 addon-detail-homepage-label = Página de inicio
 addon-detail-rating-label = Clasificación
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Calificación de { NUMBER($rating, maximumFractionDigits: 1) } sobre 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -293,3 +333,6 @@ addon-detail-reviews-link =
         [one] { $numberOfReviews } revisión
        *[other] { $numberOfReviews } revisiones
     }
+
+## Pending uninstall message bar
+
