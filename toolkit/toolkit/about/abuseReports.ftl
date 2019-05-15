@@ -15,7 +15,9 @@
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-retry = Reintentar
 abuse-report-messagebar-action-cancel = Cancelar
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-other-reason = Otra cosa
