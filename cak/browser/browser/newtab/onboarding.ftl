@@ -77,6 +77,8 @@ onboarding-firefox-monitor-text = { -monitor-brand-name } tanik'oj we ri rub'i' 
 onboarding-firefox-monitor-button = Tatz'ib'aj ab'i' richin ye'akül taq Rutzijol K'ayewal
 onboarding-browse-privately-title = Richinanem Okik'amaya'l
 onboarding-browse-privately-text = Ri Ichinan Okik'amaya'l nuyüj ri taq kanoxïk chuqa' ri runatab'al okem pa k'amaya'l richin chi ewäl chuwäch xab'achike winäq nrokisaj ri kematz'ib'.
+onboarding-browse-privately-button = Tijaq jun Ichinan Tzuwäch
+onboarding-firefox-send-title = Ke'awichinaj ri Komoni taq Ayakb'al
 
 ## Message strings belonging to the Return to AMO flow
 
