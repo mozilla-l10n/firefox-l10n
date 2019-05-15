@@ -188,6 +188,11 @@ private-browsing-description =
 extensions-view-discover =
     .name = Find tilføjelser
     .tooltiptext = { extensions-view-discover.name }
+
+extensions-view-discopane =
+    .name = Anbefalinger
+    .tooltiptext = { extensions-view-discopane.name }
+
 extensions-view-recent-updates =
     .name = Seneste opdateringer
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -299,7 +304,43 @@ shortcuts-card-collapse-button = Vis færre
 go-back-button =
     .tooltiptext = Gå tilbage
 
+## Recommended add-ons page
+
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Udvidelser og temaer er som apps til din browser. Du kan bruge dem til at 
+    beskytte dine adgangskoder, hente videoer, finde gode tilbud, blokere 
+    irriterende reklamer, ændre din browsers udseende - og meget mere. 
+    De små programmer er ofte lavet af eksterne udviklere. Her er et udvalg, 
+    som { -brand-product-name } <a data-l10n-name="learn-more-trigger">anbefaler</a>.  
+    De giver dig både bedre sikkerhed, ydelse og funktionalitet.
+
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Nogle af disse anbefalinger er målrettet dig. De er baseret på andre 
+    udvidelser, du har installeret, dine indstillinger og statistik for brug.
+discopane-notice-learn-more = Læs mere
+
+privacy-policy = Privatlivs-politik
+
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - Navn på udvikleren af udvidelsen.
+created-by-author = af <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - Antallet af daglige brugere
+user-count = Brugere: { $dailyUsers }
+install-extension-button = Føj til { -brand-product-name }
+install-theme-button = Installer tema
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Håndter
+find-more-addons = Find flere tilføjelser
+
 ## Add-on actions
+report-addon-button = Rapportér
 remove-addon-button = Fjern
 disable-addon-button = Deaktiver
 enable-addon-button = Aktiver
@@ -308,11 +349,21 @@ expand-addon-button = Flere indstillinger
 addons-enabled-heading = Aktiveret
 addons-disabled-heading = Deaktiveret
 
+ask-to-activate-button = Spørg om aktivering
+always-activate-button = Aktiver altid
+never-activate-button = Aktiver aldrig
+
 addon-detail-author-label = Udvikler
 addon-detail-version-label = Version
 addon-detail-last-updated-label = Senest opdateret
 addon-detail-homepage-label = Websted
 addon-detail-rating-label = Bedømmelse
+
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+  .title = Bedømt { NUMBER($rating, maximumFractionDigits: 1) } ud af 5
 
 # This string is used to show that an add-on is disabled.
 # Variables:
@@ -327,3 +378,28 @@ addon-detail-reviews-link =
         [one] { $numberOfReviews } anmeldelse
        *[other] { $numberOfReviews } anmeldelser
     }
+
+## Pending uninstall message bar
+
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> er blevet fjernet.
+pending-uninstall-undo-button = Fortryd
+
+addon-detail-updates-label = Tillad automatiske opdateringer
+addon-detail-updates-radio-default = Standard
+addon-detail-updates-radio-on = Til
+addon-detail-updates-radio-off = Fra
+addon-detail-update-check-label = Søg efter opdateringer
+install-update-button = Opdater
+
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Tilladt i private vinduer
+addon-detail-private-browsing-help = Udvidelsen har adgang til dine aktiviteter i privat browsing-tilstand, hvis du giver den tilladelse til det. <a data-l10n-name="learn-more">Læs mere</a>
+addon-detail-private-browsing-allow = Tillad
+addon-detail-private-browsing-disallow = Tillad ikke
+
+available-updates-heading = Tilgængelige opdateringer
+recent-updates-heading = Seneste opdateringer
