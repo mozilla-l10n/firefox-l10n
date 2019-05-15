@@ -21,6 +21,7 @@ policy-Bookmarks = Luo kirjanmerkkejä kirjanmerkkipalkkiin, Kirjanmerkit-valikk
 policy-CaptivePortal = Ota käyttöön tai poista käytöstä vahtiportaalien tuki.
 policy-CertificatesDescription = Lisää varmenteita tai käytä sisäänrakennettuja varmenteita.
 policy-Cookies = Salli tai estä, että sivustot asettavat evästeitä.
+policy-DefaultDownloadDirectory = Aseta oletuslatauskansio.
 policy-DisableAppUpdate = Estä selainta päivittymästä.
 policy-DisableBuiltinPDFViewer = Poista käytöstä PDF.js, { -brand-short-name }in sisäänrakennettu PDF-katselin.
 policy-DisableDeveloperTools = Estä pääsy web-työkaluihin.
@@ -45,6 +46,7 @@ policy-DisplayBookmarksToolbar = Näytä kirjanmerkkipalkki oletusarvoisesti.
 policy-DisplayMenuBar = Näytä valikkopalkki oletusarvoisesti.
 policy-DNSOverHTTPS = Käytä DNS:ää HTTPS:n välityksellä.
 policy-DontCheckDefaultBrowser = Poista käytöstä oletusselaimen tarkistus käynnistettäessä.
+policy-DownloadDirectory = Aseta ja lukitse latauskansio.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Ota käyttöön tai poista käytöstä sisällön esto, ja valinnaisesti lukitse asetus.
 # A “locked” extension can’t be disabled or removed by the user. This policy
@@ -67,6 +69,7 @@ policy-OverridePostUpdatePage = Korvaa päivityksen jälkeinen ”Mitä uutta”
 policy-Permissions = Aseta kameran, mikrofonin, sijainnin ja ilmoitusten käyttöoikeuksien asetukset.
 policy-PopupBlocking = Salli tiettyjen sivustojen näyttää ponnahdusikkunoita oletusarvoisesti.
 policy-Preferences = Aseta ja lukitse arvo asetusten osajoukolle.
+policy-PromptForDownloadLocation = Kysy ladattaessa minne tiedostot tallennetaan.
 policy-Proxy = Määritä välityspalvelimen asetukset.
 policy-RequestedLocales = Aseta pyydetyt sovelluksen kielet suosituimmuusjärjestyksessä.
 policy-SanitizeOnShutdown = Poista kaikki selailutiedot suljettaessa selain.

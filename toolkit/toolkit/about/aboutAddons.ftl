@@ -155,6 +155,9 @@ private-browsing-description2 =
 extensions-view-discover =
     .name = Lataa lisäosia
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Suositukset
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Tuoreet päivitykset
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -235,7 +238,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Hallitse laajennusten pikanäppäimiä
     .accesskey = t
-shortcuts-empty-message = Tällä lisäosalle ei ole pikanäppäimiä.
 shortcuts-no-addons = Yhtäkään lisäosaa ei ole otettu käyttöön.
 shortcuts-no-commands = Seuraavilla laajennuksilla ei ole pikanäppäimiä:
 shortcuts-input =
@@ -261,6 +263,20 @@ shortcuts-card-collapse-button = Näytä vähemmän
 go-back-button =
     .tooltiptext = Takaisin
 
+## Recommended add-ons page
+
+discopane-notice-learn-more = Lue lisää
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Käyttäjiä: { $dailyUsers }
+install-extension-button = Lisää { -brand-product-name }iin
+install-theme-button = Asenna teema
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Hallitse
+find-more-addons = Etsi lisää lisäosia
+
 ## Add-on actions
 
 remove-addon-button = Poista
@@ -277,3 +293,17 @@ addon-detail-homepage-label = Kotisivu
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (ei käytössä)
+
+## Pending uninstall message bar
+
+addon-detail-updates-radio-default = Oletus
+addon-detail-update-check-label = Tarkista päivitykset
+install-update-button = Päivitä
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Sallittu yksityisissä ikkunoissa
+addon-detail-private-browsing-allow = Salli
+addon-detail-private-browsing-disallow = Älä salli
+available-updates-heading = Saatavilla olevat päivitykset
+recent-updates-heading = Viimeisimmät päivitykset
