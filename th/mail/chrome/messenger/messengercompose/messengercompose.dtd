@@ -46,32 +46,47 @@
 <!ENTITY saveAsTemplateCmd.accesskey "ม">
 <!ENTITY sendNowCmd.label "ส่งเดี๋ยวนี้">
 <!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendNowCmd.accesskey "ด">
 <!ENTITY sendLaterCmd.label "ส่งภายหลัง">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.accesskey "ภ">
 <!ENTITY printSetupCmd.label "ตั้งค่าหน้ากระดาษ…">
+<!ENTITY printSetupCmd.accesskey "ต">
 <!ENTITY printPreviewCmd.label "ตัวอย่างก่อนพิมพ์">
+<!ENTITY printPreviewCmd.accesskey "ย">
 <!ENTITY printCmd.label "พิมพ์…">
 <!ENTITY printCmd.key "P">
+<!ENTITY printCmd.accesskey "พ">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "แก้ไข">
+<!ENTITY editMenu.accesskey "ก">
 <!ENTITY undoCmd.label "เลิกทำ">
 <!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "เ">
 <!ENTITY redoCmd.label "ทำซ้ำ">
 <!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "ท">
 <!ENTITY cutCmd.label "ตัด">
 <!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "ต">
 <!ENTITY copyCmd.label "คัดลอก">
 <!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "ค">
 <!ENTITY pasteCmd.label "วาง">
 <!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "ว">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY editRewrapCmd.accesskey "บ">
 <!ENTITY deleteCmd.label "ลบ">
+<!ENTITY deleteCmd.accesskey "ล">
 <!ENTITY editRewrapCmd.label "ตัดบรรทัดใหม่">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "เปลี่ยนชื่อไฟล์แนบ…">
+<!ENTITY renameAttachmentCmd.accesskey "ป">
 <!ENTITY reorderAttachmentsCmd.label "จัดลำดับไฟล์แนบใหม่…">
+<!ENTITY reorderAttachmentsCmd.accesskey "จ">
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "บานหน้าต่างไฟล์แนบ">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
@@ -83,15 +98,20 @@
      otherwise required by specific needs of the localization. -->
 <!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "เลือกทั้งหมด">
+<!ENTITY selectAllCmd.accesskey "ล">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "ค้นหา…">
+<!ENTITY findBarCmd.accesskey "ค">
 <!ENTITY findBarCmd.key "F">
 <!ENTITY findReplaceCmd.label "ค้นหาแล้วแทนที่…">
+<!ENTITY findReplaceCmd.accesskey "ท">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "ค้นหาอีกครั้ง">
+<!ENTITY findAgainCmd.accesskey "อ">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "ค้นหาก่อนหน้า">
+<!ENTITY findPrevCmd.accesskey "ก">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
@@ -111,6 +131,8 @@
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "เรียงส่วนที่เลือก: A - Z">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "เรียงส่วนที่เลือก: Z - A">
 <!ENTITY sortAttachmentsPanelBtn.key "y">
 
 <!-- View Menu -->
@@ -139,6 +161,8 @@
 <!ENTITY attachVCard.label "แนบบัตรส่วนบุคคล (vCard)">
 
 <!ENTITY returnReceiptMenu.label "การแจ้งเตือนการเปิดอ่าน">
+<!ENTITY dsnMenu.label "การแจ้งเตือนสถานะการส่ง">
+<!ENTITY deliveryFormatMenu.label "รูปแบบการส่ง">
 <!ENTITY autoFormatCmd.label "ตรวจพบอัตโนมัติ">
 <!ENTITY plainTextFormatCmd.label "ข้อความธรรมดาเท่านั้น">
 <!ENTITY htmlFormatCmd.label "Rich Text (HTML) เท่านั้น">
@@ -184,6 +208,7 @@
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "ส่งข้อความนี้ตอนนี้">
 <!ENTITY sendlaterButton.tooltip "ส่งข้อความนี้ในภายหลัง">
+<!ENTITY quoteButton.tooltip "อ้างอิงข้อความก่อนหน้า">
 <!ENTITY addressButton.tooltip "เลือกผู้รับจากสมุดรายชื่อ">
 <!ENTITY attachButton.tooltip2 "เพิ่มไฟล์แนบ">
 <!ENTITY spellingButton.tooltip "ตรวจสอบการสะกดของส่วนที่เลือกหรือทั้งข้อความ">
