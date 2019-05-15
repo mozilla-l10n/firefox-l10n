@@ -21,6 +21,7 @@ policy-Bookmarks = Permet de créer des marque-pages dans la Barre personnelle, 
 policy-CaptivePortal = Permet ou interdit la prise en charge du portail captif.
 policy-CertificatesDescription = Permet d’ajouter des certificats ou d’utiliser des certificats prédéfinis.
 policy-Cookies = Permet ou interdit aux sites de définir des cookies.
+policy-DefaultDownloadDirectory = Définit le répertoire de téléchargement par défaut.
 policy-DisableAppUpdate = Empêche le navigateur de se mettre à jour.
 policy-DisableBuiltinPDFViewer = Désactive PDF.js, la visionneuse PDF intégrée dans { -brand-short-name }.
 policy-DisableDeveloperTools = Bloque l’accès aux outils de développement.
