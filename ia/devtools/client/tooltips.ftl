@@ -15,8 +15,13 @@ learn-more = <span data-l10n-name="link">Saper plus</span>
 
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> ha nulle effecto sur iste elemento pois que il non es un receptaculo de flex ni de grillia.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> ha nulle effecto sur iste elemento pois que illo non es un elemento de flex ni de grillia.
+inactive-css-not-grid-item = <strong>{ $property }</strong> ha nulle effecto sur iste elemento pois que illo non es un elemento de grillia.
+inactive-css-not-grid-container = <strong>{ $property }</strong> ha nulle effecto sur iste elemento pois que illo non es un receptaculo de grillia.
+inactive-css-not-flex-item = <strong>{ $property }</strong> ha nulle effecto sur iste elemento pois que illo non es un elemento de flex.
+inactive-css-not-flex-container = <strong>{ $property }</strong> ha nulle effecto sur iste elemento pois que illo non es un receptaculo de flex.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved.
 
+inactive-css-not-grid-or-flex-container-fix = Prova a adder <strong>monstrar:grillia</strong> o <strong>monstrar:flex</strong>.{ learn-more }
