@@ -53,3 +53,7 @@ cfr-doorhanger-pintab-step2 = Selecciona <b>Fijar pestaña</b> desde el menú.
 cfr-doorhanger-pintab-step3 = Si el sitio tiene una actualización, verás un punto azul en tu pestaña fijada.
 cfr-doorhanger-pintab-animation-pause = Pausar
 cfr-doorhanger-pintab-animation-resume = Continuar
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Sincroniza tus marcadores en cualquier lugar.

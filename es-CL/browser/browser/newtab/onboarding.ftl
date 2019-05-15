@@ -17,6 +17,7 @@ onboarding-start-browsing-button-label = Empezar a navegar
 
 onboarding-benefit-products-title = Productos útiles
 onboarding-benefit-knowledge-title = Conocimiento práctico
+onboarding-benefit-privacy-title = Privacidad de verdad
 
 ## These strings belong to the individual onboarding messages.
 
@@ -46,9 +47,13 @@ onboarding-tracking-protection-button =
 onboarding-data-sync-title = Lleva tus ajustes contigo
 onboarding-data-sync-button = Activar { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Mantente alerta a las filtraciones de datos
+onboarding-firefox-monitor-button = Suscríbete para recibir alertas
 onboarding-browse-privately-button = Abrir una ventana privada
 onboarding-firefox-send-title = Mantén tus archivos compartidos privados
 onboarding-firefox-send-button = Prueba { -send-brand-name }
+onboarding-send-tabs-button = Empieza a usar Send Tabs
+onboarding-lockwise-passwords-title = Lleva tus contraseñas a todas partes
+onboarding-lockwise-passwords-button2 = Conseguir la aplicación
 
 ## Message strings belonging to the Return to AMO flow
 
