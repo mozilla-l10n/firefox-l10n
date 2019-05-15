@@ -10,16 +10,19 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = ตั้งนโยบายที่ WebExtensions สามารถเข้าถึงผ่าน chrome.storage.managed
 policy-AppUpdateURL = ตั้ง URL อัปเดตแอปที่กำหนดเอง
 policy-BlockAboutAddons = ปิดกั้นการเข้าถึงตัวจัดการส่วนเสริม (about:addons)
 policy-BlockAboutConfig = ปิดกั้นการเข้าถึงหน้า about:config
 policy-BlockAboutProfiles = ปิดกั้นการเข้าถึงหน้า about:profiles
 policy-BlockAboutSupport = ปิดกั้นการเข้าถึงหน้า about:support
 policy-CertificatesDescription = เพิ่มใบรับรองหรือใช้ใบรับรองในตัว
+policy-Cookies = อนุญาตหรือปฏิเสธเว็บไซต์เพื่อตั้งคุกกี้
 policy-DefaultDownloadDirectory = ตั้งไดเรกทอรีการดาวน์โหลดเริ่มต้น
 policy-DisableAppUpdate = ป้องกันไม่ให้ { -brand-short-name } อัปเดต
 policy-DisableDeveloperTools = ปิดกั้นการเข้าถึงเครื่องมือนักพัฒนา
 policy-DisableForgetButton = ป้องกันไม่ให้เข้าถึงปุ่ม ลืม
+policy-DisableProfileImport = ปิดใช้งานคำสั่งเมนูเพื่อนำเข้าข้อมูลจากแอปพลิเคชันอื่น
 policy-DisableSystemAddonUpdate = ป้องกันไม่ให้ { -brand-short-name } ติดตั้งและอัปเดตส่วนเสริมของระบบ
 policy-DisableTelemetry = ปิดการวัดและส่งข้อมูลทางไกล
 policy-DisplayMenuBar = แสดงแถบเมนูโดยค่าเริ่มต้น
