@@ -26,7 +26,7 @@ inactive-css-not-flex-container = Nid yw <strong>{ $property }</strong> yn effei
 
 inactive-css-not-grid-or-flex-container-fix = Ceisiwch ychwanegu <strong>display:grid</strong> neu <strong>display:flex</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix = Ceisiwch ychwanegu <strong>display:grid</strong>, <strong>display:flex</strong>, <strong> display:inline-grid</strong> neu <strong>display:inline-flex</strong>. { learn-more }
-inactive-css-not-grid-item-fix = Ceisiwch ychwanegu <strong>dislply:grid</strong> neu <strong>display:inline-grid</strong> at riant yr eitem. { learn-more }
+inactive-css-not-grid-item-fix = Ceisiwch ychwanegu <strong>display:grid</strong> neu <strong>display:inline-grid</strong> at riant yr eitem. { learn-more }
 inactive-css-not-grid-container-fix = Ceisiwch ychwanegu <strong>display:grid</strong> neu <strong>display:inline-grid</strong>. { learn-more }
 inactive-css-not-flex-item-fix = Ceisiwch ychwanegu <strong>display:flex</strong> neu <strong>display:inline-flex</strong> i riant yr eitem. { learn-more }
 inactive-css-not-flex-container-fix = Ceisiwch ychwanegu <strong>display:flex</strong> neu <strong>display:inline-flex</strong>. { learn-more }
