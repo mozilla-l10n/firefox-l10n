@@ -13,6 +13,8 @@ learn-more = <span data-l10n-name="link">Saper plus</span>
 ## Variables:
 ##   $property (string) - A CSS property name e.g. "color".
 
+inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> ha nulle effecto sur iste elemento pois que il non es un receptaculo de flex ni de grillia.
+inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> ha nulle effecto sur iste elemento pois que illo non es un elemento de flex ni de grillia.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
