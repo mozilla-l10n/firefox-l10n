@@ -82,7 +82,7 @@ connection-dns-over-https-url-resolver = Provider gebruiken
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
     .label = { $name } (standaard)
-    .tooltiptext = De standaard-URL gebruiken voor het oplossen van DNS via HTTPS
+    .tooltiptext = De standaard-URL voor het omzetten van DNS via HTTPS gebruiken
 connection-dns-over-https-url-custom =
     .label = Aangepast
     .accesskey = A
