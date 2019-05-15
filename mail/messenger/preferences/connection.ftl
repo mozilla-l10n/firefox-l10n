@@ -9,11 +9,11 @@ connection-dns-over-https-url-resolver = Provider gebruiken
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
     .label = { $name } (standaard)
-    .tooltiptext = De standaard URL gebruiken om DNS over HTTPS om te zetten
+    .tooltiptext = De standaard-URL voor het omzetten van DNS over HTTPS gebruiken
 
 connection-dns-over-https-url-custom =
     .label = Aangepast
     .accesskey = A
-    .tooltiptext = Voer uw gewenste URL in om DNS over HTTPS om te zetten
+    .tooltiptext = Een URL van uw voorkeur voor het omzetten van DNS over HTTPS invoeren
 
 connection-dns-over-https-custom-label = Aangepast
