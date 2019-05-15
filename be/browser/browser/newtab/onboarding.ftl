@@ -20,6 +20,9 @@ onboarding-start-browsing-button-label = Пачаць агляданне
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = Карысныя прадукты
+onboarding-benefit-knowledge-title = Практычныя веды
+onboarding-benefit-privacy-title = Сапраўдная прыватнасць
 
 ## These strings belong to the individual onboarding messages.
 
@@ -39,6 +42,12 @@ onboarding-ghostery-text = Зрабіце агляд хутчэйшым, бяс�
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Сінхранізаваць
 onboarding-fxa-text = Зарэгіструйцеся ў { -fxaccount-brand-name } і сінхранізуйце свае закладкі, паролі і адкрытыя карткі ўсюды, дзе карыстаецеся { -brand-short-name }.
+onboarding-tracking-protection-title2 = Абарона ад сачэння
+onboarding-tracking-protection-button2 = Як гэта працуе
+onboarding-data-sync-button = Уключыць { -sync-brand-short-name }
+onboarding-firefox-monitor-button = Падпісацца на абвестку
+onboarding-browse-privately-title = Аглядайце прыватна
+onboarding-browse-privately-button = Адкрыць прыватнае акно
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Сцягнуць мабільны браўзер
