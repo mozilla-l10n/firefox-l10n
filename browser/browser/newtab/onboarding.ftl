@@ -9,6 +9,7 @@ onboarding-button-label-learn-more = En savoir plus
 onboarding-button-label-try-now = Essayer
 onboarding-button-label-get-started = Pour commencer
 onboarding-welcome-header = Bienvenue dans { -brand-short-name }
+onboarding-welcome-body = Vous avez le navigateur.<br/>Découvrez les autres ressources de { -brand-product-name }.
 onboarding-welcome-learn-more = Découvrir tous les avantages.
 onboarding-join-form-header = Rejoignez { -brand-product-name }
 onboarding-join-form-body = Saisissez votre adresse électronique pour vous lancer.
