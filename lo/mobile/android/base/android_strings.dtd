@@ -413,8 +413,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "ດາວໂຫລດ">
 <!ENTITY pref_private_data_syncedTabs "Synced ແທັບ">
 
-<!ENTITY pref_default_browser "ຕັ້ງໃຫ້ເປັນບຣາວເຊີຫລັກ">
-
 <!ENTITY pref_default_browser2 "ຕັ້ງ &brandShortName; ເປັນບຣາວເຊີຫລັກຂອງທ່ານ">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -920,6 +918,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "ພັກ">
 <!ENTITY pip_pause_button_description "ພັກການຫຼິ້ນ">
 
+<!ENTITY pref_notification_settings_link "ຈັດການການຕັ້ງຄ່າການແຈ້ງເຕືອນ">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "ບຣາວເຊີ">
 <!ENTITY mls_notification_channel "ບໍລິການຕຳແໜ່ງທີ່ຕັ້ງຂອງ &vendorShortName;">
