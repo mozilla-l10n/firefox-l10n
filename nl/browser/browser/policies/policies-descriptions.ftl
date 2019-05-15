@@ -52,7 +52,7 @@ policy-EnableTrackingProtection = Inhoudsblokkering inschakelen of uitschakelen 
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
-policy-Extensions = Extensies installeren, verwijderen of vergrendelen. De optie voor installeren gebruikt URL’s of paden als parameters. De opties voor verwijderen en vergrendelen gebruiken extensie-ID’s.
+policy-Extensions = Extensies installeren, de-installeren of vergrendelen. De optie voor installeren gebruikt URL’s of paden als parameters. De opties voor de-installeren en vergrendelen gebruiken extensie-ID’s.
 policy-ExtensionUpdate = Automatische extensie-updates inschakelen of uitschakelen.
 policy-FirefoxHome = De startpagina van Firefox instellen.
 policy-FlashPlugin = Gebruik van de Flash-plug-in toestaan of weigeren.
@@ -65,7 +65,7 @@ policy-NetworkPrediction = ‘Network prediction’ (DNS prefetching) inschakele
 policy-NewTabPage = De nieuw-tabbladpagina inschakelen of uitschakelen.
 policy-NoDefaultBookmarks = Aanmaken van de standaardbladwijzers die met { -brand-short-name } worden meegeleverd uitschakelen, evenals de Slimme bladwijzers (Meest bezocht, Recente labels). Noot: deze beleidsregel is alleen van kracht bij gebruik ervan voordat het profiel voor het eerst wordt uitgevoerd.
 policy-OfferToSaveLogins = De instelling voor het toestaan dat { -brand-short-name } mag aanbieden opgeslagen aanmeldingen en wachtwoorden te onthouden afdwingen. Zowel de waarde true als false wordt geaccepteerd.
-policy-OverrideFirstRunPage = De pagina die voor het eerst wordt geopend vervangen. Stel deze beleidsregel in op leeg als u de betreffende pagina wilt uitschakelen.
+policy-OverrideFirstRunPage = De pagina voor eerste keer uitvoeren vervangen. Stel deze beleidsregel in op leeg als u de betreffende pagina wilt uitschakelen.
 policy-OverridePostUpdatePage = De pagina ‘Wat is er nieuw’ na een update vervangen. Stel deze beleidsregel in op leeg als u de betreffende pagina wilt uitschakelen.
 policy-Permissions = Toestemmingen voor camera, microfoon, locatie en notificaties configureren.
 policy-PopupBlocking = Toestaan dat bepaalde websites standaard pop-ups weergeven.
