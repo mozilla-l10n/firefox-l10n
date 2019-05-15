@@ -590,6 +590,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeExtension.label "Fjern udvidelse">
 <!ENTITY customizeMenu.removeExtension.accesskey "v">
 
+<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
+     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.label "Rapporter udvidelse">
+<!ENTITY customizeMenu.reportExtension.accesskey "o">
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
@@ -1319,6 +1325,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "G">
 <!ENTITY updateRestart.cancelButton.label "Ikke nu">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateUnsupported.panelUI.label "Du kan ikke foretage yderligere opdateringer">
 <!ENTITY updateRestart.panelUI.label2 "Genstart for at opdatere &brandShorterName;">
 
 <!ENTITY newTabControlled.message "En udvidelse har ændret den side, du ser, når du åbner et nyt faneblad. Du kan nulstille dine indstillinger, hvis du ikke ønsker denne ændring.">
