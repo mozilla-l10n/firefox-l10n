@@ -160,6 +160,9 @@ private-browsing-description2 =
 extensions-view-discover =
     .name = Атрымаць дадаткі
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Рэкамендацыі
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Нядаўнія абнаўленні
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -240,7 +243,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Кіраваць спалучэннямі клавіш пашырэнняў
     .accesskey = ы
-shortcuts-empty-message = Гэта пашырэнне не мае спалучэнняў клавіш.
 shortcuts-no-addons = У вас не ўключана ніводнага пашырэння.
 shortcuts-no-commands = Наступныя пашырэнні не маюць спалучэнняў клавіш:
 shortcuts-input =
@@ -266,6 +268,21 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Паказаць менш
 go-back-button =
     .tooltiptext = Вярнуцца
+
+## Recommended add-ons page
+
+discopane-notice-learn-more = Даведацца больш
+privacy-policy = Палітыка прыватнасці
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Карыстальнікаў: { $dailyUsers }
+install-extension-button = Дадаць у { -brand-product-name }
+install-theme-button = Усталяваць тэму
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Кіраванне
+find-more-addons = Знайсці больш дадаткаў
 
 ## Add-on actions
 
