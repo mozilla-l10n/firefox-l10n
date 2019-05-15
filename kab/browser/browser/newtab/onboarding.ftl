@@ -21,6 +21,10 @@ onboarding-start-browsing-button-label = Bdu tunigin
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = Ifarisen ara teḥwiǧeḍ
+onboarding-benefit-knowledge-title = Timusniwin ilaqen
+onboarding-benefit-knowledge-text = Lmed akk ayen ilaqen iwakken ad tiliḍ d uḥric yerna d maɣti deg internet.
+onboarding-benefit-privacy-title = Tudert tabaḍnit n tidet
 
 ## These strings belong to the individual onboarding messages.
 
