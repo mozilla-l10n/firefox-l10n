@@ -336,3 +336,22 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = Se eliminó <span data-l10n-name="addon-name">{ $addon }</span>.
+pending-uninstall-undo-button = Deshacer
+addon-detail-updates-label = Permitir las actualizaciones automáticas
+addon-detail-updates-radio-default = Predeterminado
+addon-detail-updates-radio-on = Activado
+addon-detail-updates-radio-off = Desactivar
+addon-detail-update-check-label = Verificar si hay actualizaciones
+install-update-button = Actualizar
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Permitir en ventanas privadas
+addon-detail-private-browsing-help = Cuando está activada, la extensión tendrá acceso a todo lo que hace mientras navega de forma privada. <a data-l10n-name="learn-more">Conozca más más</a>
+addon-detail-private-browsing-allow = Permitir
+addon-detail-private-browsing-disallow = No permitir
+available-updates-heading = Actualizaciones disponibles
+recent-updates-heading = Actualizaciones recientes
