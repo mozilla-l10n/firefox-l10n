@@ -85,7 +85,7 @@ abuse-report-policy-suggestions =
   <a data-l10n-name="report-infringement-link">Følg disse instruktioner</a> for at
   rapportere problemet.
 
-abuse-report-unwanted-reason Ville ikke have udvidelsen og kan ikke slippe af med den igen
+abuse-report-unwanted-reason = Ville ikke have udvidelsen og kan ikke slippe af med den igen
 abuse-report-unwanted-example = Eksempel: Et program installerede den uden min tilladelse
 
 abuse-report-other-reason = Andet
