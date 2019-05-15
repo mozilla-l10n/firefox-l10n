@@ -77,7 +77,9 @@ onboarding-firefox-monitor-text = { -monitor-brand-name } vérifie si votre adre
 onboarding-firefox-monitor-button = S’abonner aux alertes
 onboarding-browse-privately-title = Naviguez en toute confidentialité
 onboarding-browse-privately-text = La navigation privée efface vos historiques de navigation et de recherches pour que les autres utilisateurs de votre ordinateur n’en sachent rien.
-onboarding-browse-privately-button = Ouvrir une fenêtre de navigation privée
+onboarding-browse-privately-button =
+    Ouvrir une fenêtre de
+    navigation privée
 onboarding-firefox-send-title = Protégez les fichiers que vous partagez
 onboarding-firefox-send-text = { -send-brand-name } protège les fichiers que vous partagez avec un chiffrement de bout en bout et un lien qui expire automatiquement.
 onboarding-firefox-send-text2 = Envoyez vos fichiers sur { -send-brand-name } pour les partager avec un chiffrement de bout en bout et un lien qui expire automatiquement.
