@@ -5,11 +5,11 @@
 <!ENTITY firstrun_panel_title_welcome "Добро пожаловать">
 <!ENTITY firstrun_urlbar_message2 "Спасибо, что выбрали &brandShortName;">
 <!ENTITY newfirstrun_urlbar_message "Добро пожаловать в &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext2 "Современный мобильный браузер от Mozilla, некоммерческой организации, преданной свободному и открытому Интернету.">
+<!ENTITY firstrun_urlbar_subtext2 "Современный мобильный браузер от Mozilla, некоммерческой организации, преданной идее свободного и открытого Интернета.">
 <!ENTITY newfirstrun_urlbar_subtext "Быстрый, приватный и всегда на вашей стороне.">
 <!ENTITY firstrun_panel_title_privacy "Приватность">
-<!ENTITY firstrun_privacy_message "Сёрфите Интернет не опасаясь слежки">
-<!ENTITY firstrun_privacy_subtext "Приватный просмотр с защитой от отслеживания блокирует трекеры, пока вы сёрфите, и не будет помнить вашу историю после завершения сёрфинга.">
+<!ENTITY firstrun_privacy_message "Просматривайте веб-страницы не опасаясь слежки">
+<!ENTITY firstrun_privacy_subtext "Приватный просмотр с защитой от отслеживания блокирует трекеры во время просмотра и не будет помнить вашу историю после завершения просмотра.">
 <!ENTITY newfirstrun_privacy_subtext "Приватный просмотр блокирует рекламные трекеры, которые отслеживают вас в Интернете.">
 <!ENTITY firstrun_panel_title_customize "Настраивайте">
 <!ENTITY firstrun_customize_message "Сделайте &brandShortName; своим.">
@@ -412,8 +412,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_siteSettings2 "Настройки сайтов">
 <!ENTITY pref_private_data_downloadFiles2 "Загрузки">
 <!ENTITY pref_private_data_syncedTabs "Облачные вкладки">
-
-<!ENTITY pref_default_browser "Сделать браузером по умолчанию">
 
 <!ENTITY pref_default_browser2 "Сделайте &brandShortName; своим браузером по умолчанию">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
