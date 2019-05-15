@@ -20,7 +20,9 @@ update-adminDisabled = Ntasia ña ndutsaa administrador ña sistema
 update-noUpdatesFound = { -brand-short-name } tsa ntu'tsai
 update-otherInstanceHandlingUpdates = { -brand-short-name }ndu tsai inka tsio
 update-manual = Ña saa ntii inkai nu <label data-l10n-name="manual-link"/>
+update-unsupported = Maku ntu tsaa sistema. <label data-l10n-name="unsupported-link">Kavi</label>
 update-restarting = Ntaki tsai…
+channel-description = Kuachu'un canal de actualizaciones <label data-l10n-name="current-channel"></label> . 
 warningDesc-version = { -brand-short-name } ña prueba kui cha ku sa ntasia.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label>kui inn ñaa<label data-l10n-name="community-exp-creditsLink">ñani ña yivii</label> sachu'un ntio taba na koo in web nuna, ña ntio cha nu nti'ina na kuu kuachui.
 community-2 = { -brand-short-name } ña saá <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>in <label data-l10n-name="community-creditsLink">ñani ña yivii</label> sachu'un ntio taba na koo in web nuna, ña ntio cha nu nti'ina na kuu kuachui.
