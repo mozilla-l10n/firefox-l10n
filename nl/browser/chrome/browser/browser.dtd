@@ -131,7 +131,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Afdrukken…">
 <!ENTITY printCmd.accesskey "d">
 <!ENTITY printCmd.commandkey "p">
-
 <!ENTITY importFromAnotherBrowserCmd.label "Importeren vanuit een andere browser…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "b">
 
@@ -439,7 +438,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Voorkeuren">
 <!ENTITY preferencesCmdUnix.accesskey     "V">
-
 <!ENTITY logins.label                           "Aanmeldingen en wachtwoorden">
 
 <!ENTITY clearRecentHistory.label               "Recente geschiedenis wissen…">
@@ -976,7 +974,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSyncNowItem.accesskey    "N">
 <!ENTITY syncReAuthItem.label         "Opnieuw verbinden met &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "O">
-<!ENTITY syncToolbarButton.label      "Synchro&#xad;niseren">
+<!ENTITY syncToolbarButton.label      "&#xad;Synchroniseren">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Sleep uw favoriete items naar de werkbalk of het overloopmenu.">
 <!ENTITY customizeMode.restoreDefaults "Standaardinstellingen herstellen">
