@@ -21,6 +21,7 @@ policy-Bookmarks = Create bookmarks in the Bookmarks toolbar, Bookmarks menu, or
 policy-CaptivePortal = Enable or disable captive portal support.
 policy-CertificatesDescription = Add certificates or use built-in certificates.
 policy-Cookies = Allow or deny web sites to set cookies.
+policy-DefaultDownloadDirectory = Set the default download directory.
 policy-DisableAppUpdate = Prevent the browser from updating.
 policy-DisableBuiltinPDFViewer = Disable PDF.js, the built-in PDF viewer in { -brand-short-name }.
 policy-DisableDeveloperTools = Block access to the developer tools.
@@ -45,6 +46,7 @@ policy-DisplayBookmarksToolbar = Display the Bookmarks Toolbar by default.
 policy-DisplayMenuBar = Display the Menu Bar by default.
 policy-DNSOverHTTPS = Configure DNS over HTTPS.
 policy-DontCheckDefaultBrowser = Disable check for default browser on startup.
+policy-DownloadDirectory = Set and lock the download directory.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Enable or disable Content Blocking and optionally lock it.
 # A “locked” extension can’t be disabled or removed by the user. This policy
@@ -52,6 +54,7 @@ policy-EnableTrackingProtection = Enable or disable Content Blocking and optiona
 # English or translate them as verbs.
 policy-Extensions = Install, uninstall or lock extensions. The Install option takes URLs or paths as parameters. The Uninstall and Locked options take extension IDs.
 policy-ExtensionUpdate = Enable or disable automatic extension updates.
+policy-FirefoxHome = Configure Firefox Home.
 policy-FlashPlugin = Allow or deny usage of the Flash plugin.
 policy-HardwareAcceleration = If false, turn off hardware acceleration.
 # “lock” means that the user won’t be able to change this setting
@@ -67,6 +70,7 @@ policy-OverridePostUpdatePage = Override the post-update “What’s New” page
 policy-Permissions = Configure permissions for camera, microphone, location and notifications.
 policy-PopupBlocking = Allow certain web sites to display popups by default.
 policy-Preferences = Set and lock the value for a subset of preferences.
+policy-PromptForDownloadLocation = Ask where to save files when downloading.
 policy-Proxy = Configure proxy settings.
 policy-RequestedLocales = Set the list of requested locales for the application in order of preference.
 policy-SanitizeOnShutdown = Clear all navigation data on shutdown.

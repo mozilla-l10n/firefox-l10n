@@ -53,3 +53,12 @@ cfr-doorhanger-pintab-step2 = Select <b>Pin Tab</b> from the menu.
 cfr-doorhanger-pintab-step3 = If the site has an update you’ll see a blue dot on your pinned tab.
 cfr-doorhanger-pintab-animation-pause = Pause
 cfr-doorhanger-pintab-animation-resume = Resume
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Synchronise your bookmarks everywhere.
+cfr-doorhanger-bookmark-fxa-body = Great find! Now don’t be left without this bookmark on your mobile devices. Get Started with a { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-link-text = Synchronise bookmarks now…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Close button
+    .title = Close
