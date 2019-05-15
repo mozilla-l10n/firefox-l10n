@@ -243,7 +243,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Gerir atalhos de extensões
     .accesskey = s
-shortcuts-empty-message = Não existem atalhos para esta extensão.
 shortcuts-no-addons = Não tem quaisquer extensões ativadas.
 shortcuts-no-commands = As seguintes extensões não possuem atalhos:
 shortcuts-input =
@@ -277,7 +276,7 @@ discopane-intro =
     As extensões são como aplicações para o seu navegador, estas permitem-lhe
     proteger palavras-passe, transferir vídeos, encontrar ofertas, bloquear anúncios irritantes, alterar
     a aparência do seu navegador, e muito mais. Estes pequenos programas de software são
-    muitas vezes programador por terceiros. Aqui está uma seleção que o { -brand-product-name }
+    muitas vezes programados por terceiros. Aqui está uma seleção que o { -brand-product-name }
     <a data-l10n-name="learn-more-trigger">recomenda</a> para segurança, desempenho e funcionalidade excecionais.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
