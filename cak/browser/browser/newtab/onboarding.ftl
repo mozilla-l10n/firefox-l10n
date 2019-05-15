@@ -79,6 +79,7 @@ onboarding-browse-privately-title = Richinanem Okik'amaya'l
 onboarding-browse-privately-text = Ri Ichinan Okik'amaya'l nuyüj ri taq kanoxïk chuqa' ri runatab'al okem pa k'amaya'l richin chi ewäl chuwäch xab'achike winäq nrokisaj ri kematz'ib'.
 onboarding-browse-privately-button = Tijaq jun Ichinan Tzuwäch
 onboarding-firefox-send-title = Ke'awichinaj ri Komoni taq Ayakb'al
+onboarding-firefox-send-text = { -send-brand-name } yeruchajij ri taq yakb'äl e'akomonin rik'in ewan rusik'ixik ronojel chuqa' jun ruximonel nik'is ruq'ijul.
 
 ## Message strings belonging to the Return to AMO flow
 
