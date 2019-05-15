@@ -70,8 +70,8 @@ onboarding-data-sync-title = Emportez vos paramètres avec vous
 onboarding-data-sync-text = Synchronisez vos marque-pages et vos mots de passe partout où vous utilisez { -brand-product-name }.
 onboarding-data-sync-button = Activer { -sync-brand-short-name }
 # "Sync" is short for synchronize.
-onboarding-data-sync-text2 = Synchronisez marque-pages, mots de passe, etc., partout ou vous utilisez { -brand-product-name }.
-onboarding-data-sync-button2 = Connectez-vous à { -sync-brand-short-name }
+onboarding-data-sync-text2 = Synchronisez marque-pages, mots de passe, etc., partout où vous utilisez { -brand-product-name }.
+onboarding-data-sync-button2 = Se connecter à { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Suivez de près les fuites de données
 onboarding-firefox-monitor-text = { -monitor-brand-name } vérifie si votre adresse électronique fait partie d’une fuite de données et vous alerte si elle apparaît dans une nouvelle fuite de données.
 onboarding-firefox-monitor-button = S’abonner aux alertes
@@ -91,7 +91,9 @@ onboarding-send-tabs-title = Envoyez-vous des onglets
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = L’envoi d’onglets partage instantanément des pages entre vos appareils sans avoir à copier, coller ou quitter le navigateur.
-onboarding-send-tabs-button = Commencer à utiliser « Envoyer l’onglet »
+onboarding-send-tabs-button =
+    Commencer à utiliser
+    « Envoyer l’onglet »
 onboarding-pocket-anywhere-title = Lisez et écoutez, où que vous soyez
 # "downtime" refers to the user's free/spare time.
 onboarding-pocket-anywhere-text = { -pocket-brand-name } sauvegarde vos contenus préférés pour que vous puissiez les lire, les écouter et les regarder pendant votre temps libre, même si vous êtes hors ligne.
