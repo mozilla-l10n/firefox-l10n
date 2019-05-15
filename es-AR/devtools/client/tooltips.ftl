@@ -24,4 +24,3 @@ inactive-css-not-flex-container = <strong>{ $property }</strong> no tiene ningú
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved.
 
-inactive-css-not-grid-or-flex-container-fix = Intente agregar <strong> mostrar:grilla </strong> o <strong> mostrar:flexible</strong>. { learn-more }
