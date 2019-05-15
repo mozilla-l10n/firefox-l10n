@@ -5,10 +5,22 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-learn-more = Lmed ugar
 onboarding-button-label-try-now = Ɛreḍ-it tura
 onboarding-button-label-get-started = Bdu
 onboarding-welcome-header = Ansuf γer { -brand-short-name }
+onboarding-welcome-learn-more = Lmed ugar ɣef ayen yeɛnan ibaɣuren.
+onboarding-join-form-header = Kki { -brand-product-name }
+onboarding-join-form-body = Sekcem tansa-inek imayl iwakken ad tebduḍ.
+onboarding-join-form-email =
+    .placeholder = Sekcem imayl
+onboarding-join-form-email-error = Ilaq imayl yeɣtin
+onboarding-join-form-continue = Kemmel
 onboarding-start-browsing-button-label = Bdu tunigin
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
 
 ## These strings belong to the individual onboarding messages.
 
