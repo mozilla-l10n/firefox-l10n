@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Ansuf">
 <!ENTITY firstrun_urlbar_message2 "Tanemmirt imi tferneḍ &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Anṣuf ɣer &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Iminig aziraz atrar sɣur Mozilla, d win yeldin yerna baṭel.">
+<!ENTITY newfirstrun_urlbar_subtext "D arurad, d abaḍni daɣen ɣer yidis-ik.">
 <!ENTITY firstrun_panel_title_privacy "Tabaḍnit">
 <!ENTITY firstrun_privacy_message "Inig am akken ulac win i k-id-ittmuqqulen">
 <!ENTITY firstrun_privacy_subtext "Tunigin tusligt s usentem n usfuɣel ad tsewḥel ineḍfaren di lawan n tunigt, ur tecefu yara γef umazray n tunigin.">
+<!ENTITY newfirstrun_privacy_subtext "Tunigt tusrigt tessewḥal ineḍfaṛen n udellel i k-yeṭṭafaṛen seg usmel ɣer wayed.">
 <!ENTITY firstrun_panel_title_customize "Sagen">
 <!ENTITY firstrun_customize_message "Err&brandShortName; d ayla-k.">
 <!ENTITY firstrun_customize_subtext "Sagen &brandShortName; s izegrar. Sewḥel imerna, rnu timahalin, neγ fren asentel i k-iwatan.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Kemmel seg anida telliḍ.">
 <!ENTITY firstrun_sync_subtext2 "Seqdec Sync akken ad tafeḍ ticraḍ n isebtar, awalen uffiren, akked tiγawsiwin nniḍen γer &brandShortName; deg akk ibenkan.">
+<!ENTITY newfirstrun_sync_subtext "Mtawi ayen i teskelseḍ ɣed yibenk-ik aziraz akked Firefox i uselkim, s tedreg akked tɣellist.">
 <!ENTITY firstrun_signin_message "Qqen, bdu">
 <!ENTITY firstrun_signin_button "Qqen ɣer Sync">
+<!ENTITY newfirstrun_signin_button "Rmed Synch">
 <!ENTITY  onboard_start_button_browser "Bdu tunigin">
 <!ENTITY firstrun_button_notnow "Mačči tura">
 <!ENTITY firstrun_button_next "Ɣer sdat">
@@ -408,7 +413,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Isidar">
 <!ENTITY pref_private_data_syncedTabs "Iccaren yemtawin">
 
-<!ENTITY pref_default_browser "Err-it d iminig amezwer">
+<!ENTITY pref_default_browser2 "Err $BrandShortName d iminig-ik amezwer">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Senned ɣef yiminig sakin fren &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Rzu ɣer tallalt Mozilla">
 <!ENTITY pref_about_firefox "Ɣef &brandShortName;">
 <!ENTITY pref_vendor_faqs "Isteqsiyen FAQ">
@@ -503,6 +512,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "Ɣeṛ deffir">
 <!ENTITY find_next "Ɣer zdat">
 <!ENTITY find_close "Mdel">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "Ulac aḍris">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -903,6 +916,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Asteɛfu">
 <!ENTITY pip_pause_button_description "Serǧu urar">
 
+<!ENTITY pref_notification_settings_link "Sefrek iɣewwaṛen n yilɣuten">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Iminig">
 <!ENTITY mls_notification_channel "Ameẓlu n tansa n &vendorShortName;">
