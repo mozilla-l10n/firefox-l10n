@@ -29,10 +29,10 @@ abuse-report-submit-button = Inviar
 
 abuse-report-messagebar-aborted = Reporto pro <span data-l10n-name="addon-name">{ $addon-name }</span> cancellate.
 abuse-report-messagebar-submitting = Invio de signalation pro <span data-l10n-name="addon-name">{ $addon-name }</span>.
-abuse-report-messagebar-submitted = Gratias pro invio de un signalation. Desira tu eliminar <span data-l10n-name="addon-name">{ $addon-name }</span>?
-abuse-report-messagebar-submitted-noremove = Gratias pro le invio de un signalation.
-abuse-report-messagebar-removed-extension = Gratias pro invio de un signalation. Tu ha eliminate le extension <span data-l10n-name="addon-name">{ $addon-name }</span>.
-abuse-report-messagebar-removed-theme = Gratias pro invio de un signalation. Tu ha eliminate le thema <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-submitted = Gratias pro invio del signalation. Desira tu eliminar <span data-l10n-name="addon-name">{ $addon-name }</span>?
+abuse-report-messagebar-submitted-noremove = Gratias pro le invio del signalation.
+abuse-report-messagebar-removed-extension = Gratias pro invio del signalation. Tu ha eliminate le extension <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-theme = Gratias pro invio del signalation. Tu ha eliminate le thema <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Un error occurreva durante le invio de signalation pro <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Le reporto pro <span data-l10n-name="addon-name">{ $addon-name }</span> non esseva inviate perque un altere reporto ha essite inviate recentemente.
 

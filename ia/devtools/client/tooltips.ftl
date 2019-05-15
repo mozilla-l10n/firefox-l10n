@@ -25,3 +25,8 @@ inactive-css-not-flex-container = <strong>{ $property }</strong> ha nulle effect
 ## the problem can be solved.
 
 inactive-css-not-grid-or-flex-container-fix = Prova a adder <strong>monstrar:grillia</strong> o <strong>monstrar:flex</strong>.{ learn-more }
+inactive-css-not-grid-or-flex-item-fix = Prova a adder <strong>monstrar:grillia</strong>, <strong>monstrar:flex</strong>, <strong>monstrar:grillia in linea</strong> o <strong>monstrar:flex in linea</strong>.{ learn-more }
+inactive-css-not-grid-item-fix = Prova a adder <strong>monstrar:grillia</strong> o <strong>monstrar:grillia in linea</strong> al genitor del elemento.{ learn-more }
+inactive-css-not-grid-container-fix = Prova a adder <strong>monstrar:grillia</strong> o <strong>monstrar:grillia in linea</strong>.{ learn-more }
+inactive-css-not-flex-item-fix = Prova a adder <strong>monstrar:flex</strong> o <strong>monstrar:flex in linea</strong> al genitor del elemento. { learn-more }
+inactive-css-not-flex-container-fix = Prova a adder <strong>monstrar:flex</strong> o <strong>monstrar:flex in linea</strong>. { learn-more }
