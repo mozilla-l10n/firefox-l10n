@@ -131,7 +131,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Imprimer…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
-
 <!ENTITY importFromAnotherBrowserCmd.label "Importer depuis un autre navigateur…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
@@ -439,7 +438,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Préférences">
 <!ENTITY preferencesCmdUnix.accesskey     "f">
-
 <!ENTITY logins.label                           "Identifiants et mots de passe">
 
 <!ENTITY clearRecentHistory.label               "Supprimer l’historique récent…">
@@ -1180,7 +1178,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstall.incognito.checkbox.label "Autoriser cette extension à s’exécuter dans une fenêtre de navigation privée">
 <!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
 
-<!ENTITY addonPrivateBrowsing.header2.label "Changement pour les extensions en fenêtres de navigation privée.">
+<!ENTITY addonPrivateBrowsing.header2.label "Changement pour les extensions en fenêtres de navigation privée">
 <!ENTITY addonPrivateBrowsing.body2.label "Les nouvelles extensions que vous ajouterez à &brandShorterName; ne fonctionneront pas dans les fenêtres de navigation privée à moins d’autoriser explicitement leur exécution dans les paramètres.">
 <!ENTITY addonPrivateBrowsing.learnMore.label "Apprenez comment gérer les paramètres des extensions.">
 <!ENTITY addonPrivateBrowsing.okButton.label "J’ai compris">
