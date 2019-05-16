@@ -238,7 +238,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = 管理扩展快捷键
     .accesskey = S
-shortcuts-empty-message = 此扩展没有快捷键。
 shortcuts-no-addons = 您没有启用任何扩展。
 shortcuts-no-commands = 下列扩展没有快捷键：
 shortcuts-input =
@@ -294,6 +293,11 @@ remove-addon-button = 移除
 disable-addon-button = 禁用
 enable-addon-button = 启用
 expand-addon-button = 更多选项
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] 选项
+       *[other] 首选项
+    }
 addons-enabled-heading = 已启用
 addons-disabled-heading = 已禁用
 ask-to-activate-button = 需要时询问
