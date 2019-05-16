@@ -112,10 +112,22 @@ about-debugging-setup-usb-step-enable-debug = Aktivera USB-felsökning i Android
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox = Aktivera USB-felsökning i Firefox på Android-enheten. <a>Läs hur</a>
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Aktivera utvecklarmenyn på din Android-enhet.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Aktivera USB-felsökning i Android utvecklarmeny.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Aktivera USB-felsökning i Firefox på Android-enheten.
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Anslut Android-enheten till din dator.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = Problem med att ansluta till USB-enheten? <a>Felsökning</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Nätverksplats
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = Problem med att ansluta via nätverksplats? <a>Felsökning</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Lägg till
