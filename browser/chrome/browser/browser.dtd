@@ -131,7 +131,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.commandkey "p">
-
 <!ENTITY importFromAnotherBrowserCmd.label "Importar de outro navegador…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
@@ -439,8 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey     "P">
-
-<!ENTITY logins.label                           "Contas e Senhas">
+<!ENTITY logins.label                           "Contas e senhas">
 
 <!ENTITY clearRecentHistory.label               "Limpar histórico recente…">
 
