@@ -76,6 +76,7 @@ onboarding-tracking-protection-button =
        *[other] 업데이트 설정
     }
 onboarding-tracking-protection-title2 = 추적으로부터의 보호
+onboarding-tracking-protection-text2 = { -brand-short-name }는 웹 사이트가 온라인에서 사용자를 추적하는 것을 막아, 광고가 웹에서 사용자를 따라 다니는 것을 어렵게 만듭니다.
 onboarding-data-sync-title = 설정을 항상 유지하기
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = { -brand-product-name }를 사용하는 모든 곳에서 북마크와 비밀번호를 동기화하세요.
