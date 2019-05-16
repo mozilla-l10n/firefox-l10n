@@ -158,6 +158,9 @@ private-browsing-description2 =
 extensions-view-discover =
     .name = Kiegészítők letöltése
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Javaslatok
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Legutóbbi frissítések
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -238,7 +241,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Kiegészítő-gyorsbillentyűk kezelése
     .accesskey = o
-shortcuts-empty-message = Ennek a kiegészítőnek nincsenek gyorsbillentyűi.
 shortcuts-no-addons = Egyetlen kiegészítő sincs engedélyezve.
 shortcuts-no-commands = A következő kiegészítők nem rendelkeznek gyorsbillentyűvel:
 shortcuts-input =
@@ -263,6 +265,11 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Kevesebb megjelenítése
 go-back-button =
     .tooltiptext = Ugrás vissza
+
+## Recommended add-ons page
+
+discopane-notice-learn-more = További tudnivalók
+privacy-policy = Adatvédelmi irányelvek
 
 ## Add-on actions
 

@@ -5,9 +5,22 @@
 
 ## UI strings for the simplified onboarding modal
 
+
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
+
 onboarding-button-label-learn-more = További tudnivalók
 onboarding-button-label-try-now = Próbálja ki most
 onboarding-button-label-get-started = Kezdő lépések
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Üdvözli a { -brand-short-name }
 onboarding-welcome-body = Megvan a böngészője.<br/>Ismerkedjen meg a { -brand-product-name } család többi tagjával.
 onboarding-welcome-learn-more = További tudnivalók az előnyökről.
@@ -53,6 +66,7 @@ onboarding-tracking-protection-button =
         [windows] Beállítások frissítése
        *[other] Beállítások frissítése
     }
+onboarding-tracking-protection-button2 = Hogyan működik
 onboarding-data-sync-title = Vigye magával a beállításait
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = Szinkronizálja a könyvjelzőit és jelszavait mindenhol, ahol { -brand-product-name }ot használ.
