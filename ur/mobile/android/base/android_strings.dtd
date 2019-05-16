@@ -63,6 +63,10 @@
 <!ENTITY  crash_restart_label "&brandShortName; پھر شروع کریں">
 
 <!ENTITY url_bar_default_text2 "پتہ تلاش یا داخل کریں">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_cropped_text "تلاش کریں">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -290,11 +294,6 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "&brandShortName; کے استعمال اور دیگر &vendorShortName; مصنوعات کے بارے میں مزید سیکھیں">
-<!-- Localization note (pref_feature_tips_notification_enabling_hint):
-     Describe the action the user should do to enable this preference
-     Will be used in the context "<Turn on> ... to enable this feature" -->
-<!ENTITY pref_feature_tips_notification_enabling_hint "شرو کریں">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
 <!-- Localization note (pref_feature_tips_notification_enabling_hint):
@@ -338,6 +337,8 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "سیٹکگیں بطرف جائیں">
+<!-- Localization note (tab_queue_notification_prompt): This is the text of the default notification
+shown from Android O while a tab is being queued.-->
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -396,14 +397,15 @@
 <!ENTITY pref_private_data_searchHistory "سابقات تلاش کریں">
 <!ENTITY pref_private_data_formdata2 "فارم سابقات">
 <!ENTITY pref_private_data_cookies2 "کوکیاں &amp; متحرک لاگ ان">
-<!ENTITY pref_private_data_passwords2 "محفوظ شدہ لاگ ان">
 <!ENTITY pref_private_data_cache "کیسہ">
 <!ENTITY pref_private_data_offlineApps "کوکیاں &amp; متحرک لاگ ان">
 <!ENTITY pref_private_data_siteSettings2 "سائٹ سیٹکگیں">
 <!ENTITY pref_private_data_downloadFiles2 "ڈاؤن لوڈ">
 <!ENTITY pref_private_data_syncedTabs "ہمہ وقت ساز ٹیب">
 
-<!ENTITY pref_default_browser "طےشدہ براؤزر بنائیں">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY pref_default_browser_mozilla_support_tablet "موزیلا تعاون کا دورہ کریں">
 <!ENTITY pref_about_firefox "&brandShortName; کے بارے میں">
 <!ENTITY pref_vendor_faqs "عمومی سوالات">
@@ -498,6 +500,9 @@
 <!ENTITY find_prev "پچھلا">
 <!ENTITY find_next "اگلا">
 <!ENTITY find_close "بند کریں">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -899,15 +904,9 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_description "روک دیں">
 
 <!-- Notification channels names -->
-<!ENTITY default_notification_channel "&brandShortName;">
-
-<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "براؤزر">
 <!ENTITY mls_notification_channel "&vendorShortName; محل وقوع خدمات">
 <!ENTITY download_notification_channel "ڈاؤن لوڈز">
-<!ENTITY media_notification_channel "میڈیا پلے بیک">
-<!-- These push notifications come without a specific channel and/or name from Leanplum -->
-<!ENTITY leanplum_default_notifications_channel "&brandShortName; پش اطلاعات">
 <!ENTITY media_notification_channel2 "آواز اور ویڈیو">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; تجاویز اور چالیں">
