@@ -246,7 +246,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Manage Extension Shortcuts
     .accesskey = S
-shortcuts-empty-message = There are no shortcuts for this extension.
 shortcuts-no-addons = You don’t have any extensions enabled.
 shortcuts-no-commands = The following extensions do not have shortcuts:
 shortcuts-input =
@@ -310,6 +309,11 @@ remove-addon-button = Remove
 disable-addon-button = Disable
 enable-addon-button = Enable
 expand-addon-button = More Options
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Options
+       *[other] Preferences
+    }
 addons-enabled-heading = Enabled
 addons-disabled-heading = Disabled
 ask-to-activate-button = Ask to Activate
