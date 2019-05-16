@@ -112,10 +112,22 @@ about-debugging-setup-usb-step-enable-debug = 启用 Android 开发者选项中�
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox = 在 Android 设备的 Firefox 中启用“USB 调试”功能。<a>了解方法</a>
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = 在您的 Android 设备上启用“开发者选项”
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = 启用 Android 开发者选项中的“USB 调试”功能
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = 在 Android 设备的 Firefox 中启用“USB 调试”功能。
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = 将 Android 设备连接到您的计算机。
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = 连接 USB 设备时出现问题？ <a>故障排除</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = 网络位置
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = 通过网络位置连接时出现问题？<a>故障排除</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = 添加
