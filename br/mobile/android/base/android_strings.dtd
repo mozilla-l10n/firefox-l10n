@@ -413,8 +413,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Pellgargadurioù">
 <!ENTITY pref_private_data_syncedTabs "Ivinelloù goubredet">
 
-<!ENTITY pref_default_browser "Lakaat da verdeer dre ziouer">
-
 <!ENTITY pref_default_browser2 "Lakaat &brandShortName; da vezañ ho merdeer dre ziouer">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -918,6 +916,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Ehan">
 <!ENTITY pip_pause_button_description "Ehaniñ al lenn">
 
+<!ENTITY pref_notification_settings_link "Merañ an arventennoù rebuziñ">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Merdeer">
 <!ENTITY mls_notification_channel "&vendorShortName; Servij lec\&apos;heladur">
