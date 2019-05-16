@@ -5,9 +5,22 @@
 
 ## UI strings for the simplified onboarding modal
 
+
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
+
 onboarding-button-label-learn-more = 더 알아보기
 onboarding-button-label-try-now = 지금 사용해보기
 onboarding-button-label-get-started = 시작하기
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = { -brand-short-name }를 사용해 주셔서 감사합니다.
 onboarding-welcome-body = 이제 브라우저가 있습니다.<br/>{ -brand-product-name }의 나머지를 만나 보세요.
 onboarding-welcome-learn-more = 장점 더 알아보기
@@ -62,6 +75,7 @@ onboarding-tracking-protection-button =
         [windows] 업데이트 옵션
        *[other] 업데이트 설정
     }
+onboarding-tracking-protection-title2 = 추적으로부터의 보호
 onboarding-data-sync-title = 설정을 항상 유지하기
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = { -brand-product-name }를 사용하는 모든 곳에서 북마크와 비밀번호를 동기화하세요.
@@ -92,6 +106,7 @@ onboarding-pocket-anywhere-button = { -pocket-brand-name }을 사용해보세요
 onboarding-lockwise-passwords-title = 어디서나 비밀번호를 사용
 onboarding-lockwise-passwords-text = { -lockwise-brand-name }는 비밀번호를 안전한 장소에 저장하여 계정에 쉽게 로그인 할 수 있도록 합니다.
 onboarding-lockwise-passwords-button = { -lockwise-brand-name } 받기
+onboarding-lockwise-passwords-button2 = 앱 다운로드
 onboarding-facebook-container-title = Facebook 경계 설정
 onboarding-facebook-container-text = { -facebook-container-brand-name }는 Facebook 활동을 다른 사이트와 구분하여 보관하므로, 웹에서 사용자를 추적하기 어렵게 합니다.
 onboarding-facebook-container-button = 확장 기능 추가

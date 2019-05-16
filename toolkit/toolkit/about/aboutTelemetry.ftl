@@ -15,6 +15,7 @@ about-telemetry-option-group-older = 이전
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = 수집 데이터
+about-telemetry-current-store = 현재 저장소:
 about-telemetry-more-information = 자세한 정보가 필요하세요?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox Data Documentation</a>에 데이터 도구를 다루는 방법이 나와 있습니다.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox Telemetry client documentation</a>에 개요와 API 문서, 데이터 참조가 포함되어 있습니다.

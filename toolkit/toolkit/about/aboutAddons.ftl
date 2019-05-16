@@ -237,7 +237,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = 확장기능 단축키 관리
     .accesskey = S
-shortcuts-empty-message = 이 확장기능에는 단축키가 없습니다.
 shortcuts-no-addons = 활성화된 확장기능이 없습니다.
 shortcuts-no-commands = 다음 확장기능에는 단축키가 없습니다:
 shortcuts-input =
@@ -262,6 +261,25 @@ shortcuts-card-collapse-button = 간략히 보기
 go-back-button =
     .tooltiptext = 뒤로 가기
 
+## Recommended add-ons page
+
+discopane-notice-learn-more = 더 알아보기
+privacy-policy = 개인 정보 보호 정책
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = 제작자: <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = 사용자: { $dailyUsers }
+install-extension-button = { -brand-product-name }에 추가
+install-theme-button = 테마 설치하기
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = 관리
+find-more-addons = 부가기능 더 찾기
+
 ## Add-on actions
 
 report-addon-button = 신고하기
@@ -279,6 +297,11 @@ addon-detail-version-label = 버전
 addon-detail-last-updated-label = 최종 수정일
 addon-detail-homepage-label = 홈페이지
 addon-detail-rating-label = 평가
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = 평점: { NUMBER($rating, maximumFractionDigits: 1) } / 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
