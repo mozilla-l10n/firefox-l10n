@@ -236,7 +236,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Hantera genvägar för tillägg
     .accesskey = g
-shortcuts-empty-message = Det finns inga genvägar för det här tillägget.
 shortcuts-no-addons = Du har inga tillägg aktiverade.
 shortcuts-no-commands = Följande tillägg har inte genvägar:
 shortcuts-input =
@@ -301,6 +300,11 @@ remove-addon-button = Ta bort
 disable-addon-button = Inaktivera
 enable-addon-button = Aktivera
 expand-addon-button = Fler alternativ
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Inställningar
+       *[other] Inställningar
+    }
 addons-enabled-heading = Aktiverad
 addons-disabled-heading = Inaktiverad
 ask-to-activate-button = Fråga om aktivering

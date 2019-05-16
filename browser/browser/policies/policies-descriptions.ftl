@@ -53,6 +53,7 @@ policy-EnableTrackingProtection = Aktivera eller inaktivera Innehållsblockering
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Installera, avinstallera eller låsa tillägg. Installeringsalternativet tar webbadresser eller sökvägar som parametrar. Alternativen för borttagning och låsning använder tilläggs-ID.
+policy-ExtensionSettings = Hantera alla aspekter av tilläggsinstallation.
 policy-ExtensionUpdate = Aktivera eller inaktivera automatiska utökningsuppdateringar.
 policy-FirefoxHome = Konfigurera Firefox startsida.
 policy-FlashPlugin = Tillåt eller neka att insticksmodulen Flash används.
