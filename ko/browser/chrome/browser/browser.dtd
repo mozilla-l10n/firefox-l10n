@@ -131,7 +131,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "인쇄…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-
 <!ENTITY importFromAnotherBrowserCmd.label "다른 브라우저에서 가져오기…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
@@ -236,7 +235,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.manageAccount.label "계정 관리…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; 설정…">
 <!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
-<!ENTITY fxa.menu.connectAnotherDevice2.label "다른 기기에 연결…">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "다른 기기 연결…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -439,7 +438,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "환경 설정">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
-
 <!ENTITY logins.label                           "로그인과 비밀번호">
 
 <!ENTITY clearRecentHistory.label               "사용 기록 삭제">
@@ -501,7 +499,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "기기 관리…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "동기화한 탭 탐색창 보이기">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "동기화한 탭 탐색창 숨기기">
-<!ENTITY appMenuRemoteTabs.connectdevice.label "다른 기기에 연결">
+<!ENTITY appMenuRemoteTabs.connectdevice.label "다른 기기 연결">
 
 <!ENTITY appMenuRecentHighlights.label "최근 하이라이트">
 

@@ -34,6 +34,7 @@ abuse-report-submit-button = 제출
 abuse-report-messagebar-aborted = <span data-l10n-name="addon-name">{ $addon-name }</span>에 대한 신고가 취소되었습니다.
 abuse-report-messagebar-submitting = <span data-l10n-name="addon-name">{ $addon-name }</span>에 대한 신고를 보내는 중입니다.
 abuse-report-messagebar-submitted = 신고해 주셔서 감사합니다. <span data-l10n-name="addon-name">{ $addon-name }</span>을 제거 하시겠습니까?
+abuse-report-messagebar-submitted-noremove = 보고서를 제출해 주셔서 감사합니다.
 abuse-report-messagebar-removed-extension = 신고해 주셔서 감사합니다. 확장기능 <span data-l10n-name="addon-name">{ $addon-name }</span>을 제거했습니다.
 abuse-report-messagebar-removed-theme = 신고해 주셔서 감사합니다. 테마 <span data-l10n-name="addon-name">{ $addon-name }</span>을 제거했습니다.
 abuse-report-messagebar-error = <span data-l10n-name="addon-name">{ $addon-name }</span>에 대한 신고를 보내는 중에 오류가 발생했습니다.
@@ -41,8 +42,10 @@ abuse-report-messagebar-error-recent-submit = 최근 다른 신고가 제출되�
 
 ## Message bars actions.
 
-abuse-report-messagebar-action-remove = 예, 제거합니다
-abuse-report-messagebar-action-keep = 아니오, 유지합니다
+abuse-report-messagebar-action-remove-extension = 예, 제거합니다
+abuse-report-messagebar-action-keep-extension = 아니오, 유지합니다
+abuse-report-messagebar-action-remove-theme = 예, 제거합니다
+abuse-report-messagebar-action-keep-theme = 아니오, 유지합니다
 abuse-report-messagebar-action-retry = 재시도
 abuse-report-messagebar-action-cancel = 취소
 
