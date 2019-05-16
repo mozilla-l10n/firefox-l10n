@@ -53,6 +53,7 @@ policy-EnableTrackingProtection = 開啟或關閉內容封鎖功能，並可選�
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = 安裝、移除或鎖定擴充套件。安裝選項可加入網址或路徑作為參數。移除和鎖定選項則需要擴充套件 ID 作為參數。
+policy-ExtensionSettings = 管理擴充套件的各種安裝設定。
 policy-ExtensionUpdate = 開啟或關閉擴充套件自動更新。
 policy-FirefoxHome = 設定 Firefox Home。
 policy-FlashPlugin = 允許或拒絕使用 Flash 擴充套件。

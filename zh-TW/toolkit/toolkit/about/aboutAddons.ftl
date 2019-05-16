@@ -240,7 +240,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = 管理擴充套件快速鍵
     .accesskey = S
-shortcuts-empty-message = 此擴充套件沒有用到快速鍵。
 shortcuts-no-addons = 您並未啟用任何擴充套件。
 shortcuts-no-commands = 下列擴充套件沒有快速鍵:
 shortcuts-input =
@@ -296,6 +295,11 @@ remove-addon-button = 移除
 disable-addon-button = 停用
 enable-addon-button = 啟用
 expand-addon-button = 更多選項
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] 選項
+       *[other] 偏好設定
+    }
 addons-enabled-heading = 已啟用
 addons-disabled-heading = 已停用
 ask-to-activate-button = 啟用時詢問
