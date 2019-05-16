@@ -246,7 +246,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Gerenciar atalhos de extensões
     .accesskey = h
-shortcuts-empty-message = Não há atalhos para esta extensão.
 shortcuts-no-addons = Você não tem nenhuma extensão ativada.
 shortcuts-no-commands = As seguintes extensões não têm atalhos de teclado:
 shortcuts-input =
@@ -310,6 +309,11 @@ remove-addon-button = Remover
 disable-addon-button = Desativar
 enable-addon-button = Ativar
 expand-addon-button = Mais opções
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Opções
+       *[other] Preferências
+    }
 addons-enabled-heading = Ativado
 addons-disabled-heading = Desativado
 ask-to-activate-button = Perguntar para ativar
