@@ -5,9 +5,22 @@
 
 ## UI strings for the simplified onboarding modal
 
+
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
+
 onboarding-button-label-learn-more = Tetamäx ch'aqa' chik
 onboarding-button-label-try-now = Tatojtob'ej Wakami
 onboarding-button-label-get-started = Titikirisäx
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Ütz apetik pa { -brand-short-name }
 onboarding-welcome-body = K'o awik'in ri okik'amaya'l.<br/>Tawetamaj ri ch'aqa' chik taq { -brand-product-name }.
 onboarding-welcome-learn-more = Tawetamaj ch'aqa' chik pa ruwi' ri taq rutzil.
@@ -80,6 +93,8 @@ onboarding-browse-privately-text = Ri Ichinan Okik'amaya'l nuyüj ri taq kanoxï
 onboarding-browse-privately-button = Tijaq jun Ichinan Tzuwäch
 onboarding-firefox-send-title = Ke'awichinaj ri Komoni taq Ayakb'al
 onboarding-firefox-send-text = { -send-brand-name } yeruchajij ri taq yakb'äl e'akomonin rik'in ewan rusik'ixik ronojel chuqa' jun ruximonel nik'is ruq'ijul.
+onboarding-firefox-send-button = Titojtob'ëx { -send-brand-name }
+onboarding-mobile-phone-title = Tik'ul { -brand-product-name } pan Awoyonib'al
 
 ## Message strings belonging to the Return to AMO flow
 
