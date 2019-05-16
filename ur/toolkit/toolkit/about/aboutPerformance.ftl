@@ -5,6 +5,7 @@
 
 ## Column headers
 
+column-type = قسم
 
 ## Special values for the Name column
 
@@ -12,6 +13,7 @@
 ## Values for the Type column
 
 type-tab = ٹیب
+type-browser = براؤزر
 
 ## Values for the Energy Impact column
 ##
