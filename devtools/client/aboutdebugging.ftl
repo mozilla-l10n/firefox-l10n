@@ -112,10 +112,22 @@ about-debugging-setup-usb-step-enable-debug = Enable USB Debugging in the Androi
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox = Enable USB Debugging in Firefox on the Android device. <a>Learn how</a>
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Enable Developer menu on your Android device.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Enable USB Debugging in the Android Developer Menu.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Enable USB Debugging in Firefox on the Android device.
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Connect the Android device to your computer.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = Problems connecting to the USB device? <a>Troubleshoot</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Network Location
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = Problems connecting via network location? <a>Troubleshoot</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Add
@@ -164,7 +176,7 @@ about-debugging-runtime-processes =
     .name = Processes
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
-about-debugging-runtime-profile-button = Profile Runtime
+about-debugging-runtime-profile-button2 = Profile performance
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
@@ -202,7 +214,7 @@ about-debugging-connection-prompt-enable-button = Enable connection prompt
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = Disable connection prompt
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
-about-debugging-profiler-dialog-title = Performance Profiler
+about-debugging-profiler-dialog-title2 = Profiler
 # Label of a checkbox displayed in the runtime page for "This Firefox".
 # This checkbox will toggle preferences that enable local addon debugging.
 # The "Learn more" link points to MDN.
