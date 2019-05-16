@@ -108,6 +108,12 @@ about-debugging-setup-usb-step-enable-debug = เปิดใช้งานก�
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox = เปิดใช้งานการดีบั๊ก USB ใน Firefox ในอุปกรณ์ Android <a>เรียนรู้วิธี</a>
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = เปิดใช้งานเมนูนักพัฒนาในอุปกรณ์ Android ของคุณ
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = เปิดใช้งานการดีบั๊ก USB ในเมนูนักพัฒนา Android
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = เปิดใช้งานการดีบั๊ก USB ใน Firefox ในอุปกรณ์ Android
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = เชื่อมต่ออุปกรณ์ Android กับคอมพิวเตอร์ของคุณ
 # Network section of the Setup page
 about-debugging-setup-network =
