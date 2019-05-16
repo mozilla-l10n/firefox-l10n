@@ -16,7 +16,7 @@ onboarding-join-form-body = Gib deine E-Mail-Adresse ein und leg los.
 onboarding-join-form-email =
     .placeholder = E-Mail-Adresse eingeben
 onboarding-join-form-email-error = Gültige E-Mail-Adresse erforderlich
-onboarding-join-form-legal = Indem du fortfährst, stimmst du unseren <a data-l10n-name="terms"></a>Nutzungsbedingungen</a> und unserer <a data-l10n-name="privacy">Datenschutzerklärung</a> zu.
+onboarding-join-form-legal = Indem du fortfährst, stimmst du unseren <a data-l10n-name="terms">Nutzungsbedingungen</a> und unserer <a data-l10n-name="privacy">Datenschutzerklärung</a> zu.
 onboarding-join-form-continue = Weiter
 onboarding-start-browsing-button-label = Hier geht’s zum Browser
 
