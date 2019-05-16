@@ -273,6 +273,10 @@ go-back-button =
 
 discopane-notice-learn-more = Даведацца больш
 privacy-policy = Палітыка прыватнасці
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = ад <a data-l10n-name="author">{ $author }</a>
 # Shows the number of daily users of the add-on.
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
@@ -301,6 +305,11 @@ addon-detail-version-label = Версія
 addon-detail-last-updated-label = Апошняе абнаўленне
 addon-detail-homepage-label = Хатняя старонка
 addon-detail-rating-label = Ацэнка
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Ацэнена на { NUMBER($rating, maximumFractionDigits: 1) } з 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
