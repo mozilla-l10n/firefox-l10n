@@ -306,6 +306,11 @@ remove-addon-button = Remover
 disable-addon-button = Desativar
 enable-addon-button = Ativar
 expand-addon-button = Mais opções
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Opções
+       *[other] Preferências
+    }
 addons-enabled-heading = Ativado
 addons-disabled-heading = Desativado
 ask-to-activate-button = Solicitar ativação
