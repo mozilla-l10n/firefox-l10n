@@ -47,3 +47,9 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-pintab-animation-pause = నిలుపు
 cfr-doorhanger-pintab-animation-resume = కొనసాగించు
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = మూసివేయు బొత్తం
+    .title = మూసివేయి
