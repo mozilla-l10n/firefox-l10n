@@ -49,7 +49,7 @@
 <!ENTITY  dnsOverHttps.accesskey        "ป">
 <!ENTITY  dnsOverHttpsUrlDefault.label     "ใช้ค่าเริ่มต้น">
 <!ENTITY  dnsOverHttpsUrlDefault.accesskey "ค">
-<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "ใช้ URL เริ่มต้นสำหรับการแปลงที่อยู่ DNS ผ่าน HTTPS">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "ใช้ URL เริ่มต้นสำหรับแปลงที่อยู่ DNS ผ่าน HTTPS">
 <!ENTITY  dnsOverHttpsUrlCustom.label      "กำหนดเอง">
 <!ENTITY  dnsOverHttpsUrlCustom.accesskey  "น">
 <!ENTITY  dnsOverHttpsUrlCustom.tooltip    "ป้อน URL ที่คุณต้องการสำหรับแปลงที่อยู่ DNS ผ่าน HTTPS">
