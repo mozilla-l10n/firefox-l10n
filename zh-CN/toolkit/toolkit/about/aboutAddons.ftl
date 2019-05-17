@@ -322,7 +322,7 @@ addon-name-disabled = { $name }（已禁用）
 #   $numberOfReviews (number) - The number of reviews received
 addon-detail-reviews-link =
     { $numberOfReviews ->
-       *[other] { $numberOfReviews } 则评价
+       *[other] { $numberOfReviews } 条评价
     }
 
 ## Pending uninstall message bar
