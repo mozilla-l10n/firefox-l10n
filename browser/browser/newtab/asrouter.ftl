@@ -53,3 +53,11 @@ cfr-doorhanger-pintab-step2 = Επιλέξτε το <b>Καρφίτσωμα κα
 cfr-doorhanger-pintab-step3 = Αν αυτή η ιστοσελίδα ενημερωθεί, θα δείτε μια μπλε κουκκίδα στην καρφιτσωμένη σας καρτέλα.
 cfr-doorhanger-pintab-animation-pause = Παύση
 cfr-doorhanger-pintab-animation-resume = Συνέχιση
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Συγχρονίστε παντού τους σελιδοδείκτες σας.
+cfr-doorhanger-bookmark-fxa-link-text = Συγχρονισμός σελιδοδεικτών τώρα...
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Κουμπί κλεισίματος
+    .title = Κλείσιμο

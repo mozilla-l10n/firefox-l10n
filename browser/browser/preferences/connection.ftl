@@ -70,9 +70,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Ενεργοποίηση DNS αντί HTTPS
     .accesskey = H
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = URL για επίλυση DNS αντί HTTPS
 # Variables:
 #   $url (String) - URL for the DNS over HTTPS provider
 connection-dns-over-https-url-default =
@@ -83,3 +80,4 @@ connection-dns-over-https-url-custom =
     .label = Προσαρμοσμένο
     .accesskey = Π
     .tooltiptext = Εισάγετε το προτιμώμενο URL σας για επίλυση DNS αντί HTTPS
+connection-dns-over-https-custom-label = Προσαρμοσμένο

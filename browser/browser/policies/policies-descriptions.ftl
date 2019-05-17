@@ -21,6 +21,7 @@ policy-Bookmarks = Δημιουργία σελιδοδεικτών στη γρα
 policy-CaptivePortal = Ενεργοποίηση ή απενεργοποίηση υποστήριξης captive portal.
 policy-CertificatesDescription = Προσθήκη πιστοποιητικών ή χρήση ενσωματωμένων πιστοποιητικών.
 policy-Cookies = Αποδοχή ή άρνηση αιτημάτων αποθήκευσης cookies.
+policy-DefaultDownloadDirectory = Ορισμός προεπιλεγμένου καταλόγου λήψης.
 policy-DisableAppUpdate = Αποτροπή ενημέρωσης προγράμματος περιήγησης.
 policy-DisableBuiltinPDFViewer = Απενεργοποίηση PDF.js, του ενσωματωμένου προγράμματος προβολής PDF στο { -brand-short-name }.
 policy-DisableDeveloperTools = Φραγή πρόσβασης στα εργαλεία προγραμματιστή.
@@ -45,13 +46,16 @@ policy-DisplayBookmarksToolbar = Προβολή της γραμμής σελιδ
 policy-DisplayMenuBar = Προβολή γραμμής μενού από προεπιλογή.
 policy-DNSOverHTTPS = Ρύθμιση DNS αντί HTTPS.
 policy-DontCheckDefaultBrowser = Απενεργοποίηση ελέγχου για το προεπιλεγμένο πρόγραμμα περιήγησης κατά την εκκίνηση.
+policy-DownloadDirectory = Ορισμός και κλείδωμα καταλόγου λήψης.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Ενεργοποίηση ή απενεργοποίηση φραγής περιεχομένου και προαιρετικό κλείδωμα.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Εγκατάσταση, απεγκατάσταση ή κλείδωμα επεκτάσεων. Η επιλογή εγκατάστασης λαμβάνει τα URLs ή τις διαδρομές ως παραμέτρους. Οι επιλογές απεγκατάστασης και κλειδώματος λαμβάνουν IDs επεκτάσεων.
+policy-ExtensionSettings = Διαχείριση όλων των πτυχών της εγκατάστασης επεκτάσεων.
 policy-ExtensionUpdate = Ενεργοποίηση ή απενεργοποίηση αυτόματων ενημερώσεων επεκτάσεων.
+policy-FirefoxHome = Ρύθμιση παραμέτρων της Αρχικής Firefox.
 policy-FlashPlugin = Αποδοχή ή απόρριψη χρήσης του αρθρώματος Flash.
 policy-HardwareAcceleration = Αν είναι ψευδές, απενεργοποίηση επιτάχυνσης υλικού.
 # “lock” means that the user won’t be able to change this setting

@@ -131,7 +131,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Εκτύπωση…">
 <!ENTITY printCmd.accesskey "κ">
 <!ENTITY printCmd.commandkey "p">
-
 <!ENTITY importFromAnotherBrowserCmd.label "Εισαγωγή από άλλο πρόγραμμα περιήγησης…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "Ε">
 
@@ -439,7 +438,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "Ε">
 <!ENTITY preferencesCmdUnix.label       "Προτιμήσεις">
 <!ENTITY preferencesCmdUnix.accesskey     "μ">
-
 <!ENTITY logins.label                           "Συνδέσεις και κωδικοί πρόσβασης">
 
 <!ENTITY clearRecentHistory.label               "Εκκαθάριση πρόσφατου ιστορικού…">
@@ -530,6 +528,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "ε">
 <!ENTITY customizeMenu.removeExtension.label "Αφαίρεση επέκτασης">
 <!ENTITY customizeMenu.removeExtension.accesskey "φ">
+
+<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
+     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.label "Αναφορά επέκτασης">
+<!ENTITY customizeMenu.reportExtension.accesskey "φ">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -1127,6 +1131,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "Ε">
 <!ENTITY updateRestart.cancelButton.label "Όχι τώρα">
 <!ENTITY updateRestart.cancelButton.accesskey "Ό">
+<!ENTITY updateUnsupported.panelUI.label "Δεν μπορείτε να εκτελέσετε περαιτέρω ενημερώσεις">
 <!ENTITY updateRestart.panelUI.label2 "Επανεκκίνηση για ενημέρωση του &brandShorterName;">
 
 <!ENTITY newTabControlled.header.message "Η νέα σας καρτέλα έχει αλλάξει.">
