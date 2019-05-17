@@ -241,7 +241,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Gerer le vias breve del extension
     .accesskey = V
-shortcuts-empty-message = Il non ha vias breve in iste extension
 shortcuts-no-addons = Tu non ha ulle extensiones activate
 shortcuts-no-commands = Le sequente extensiones non ha claves accelerator:
 shortcuts-input =
@@ -298,6 +297,11 @@ remove-addon-button = Remover
 disable-addon-button = Disactivar
 enable-addon-button = Activar
 expand-addon-button = Altere optiones
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Optiones
+       *[other] Preferentias
+    }
 addons-enabled-heading = Activate
 addons-disabled-heading = Disactivate
 ask-to-activate-button = Demandar pro activar
