@@ -5,9 +5,22 @@
 
 ## UI strings for the simplified onboarding modal
 
+
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
+
 onboarding-button-label-learn-more = Даведацца больш
 onboarding-button-label-try-now = Паспрабуйце зараз
 onboarding-button-label-get-started = Пачаць
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Вітаем у { -brand-short-name }
 onboarding-join-form-header = Далучыцца да { -brand-product-name }
 onboarding-join-form-body = Увядзіце ваш адрас эл.пошты для пачатку працы.
@@ -45,13 +58,24 @@ onboarding-fxa-text = Зарэгіструйцеся ў { -fxaccount-brand-name 
 onboarding-tracking-protection-title2 = Абарона ад сачэння
 onboarding-tracking-protection-button2 = Як гэта працуе
 onboarding-data-sync-button = Уключыць { -sync-brand-short-name }
+onboarding-data-sync-button2 = Увайсці ў { -sync-brand-short-name }
 onboarding-firefox-monitor-button = Падпісацца на абвестку
 onboarding-browse-privately-title = Аглядайце прыватна
 onboarding-browse-privately-button = Адкрыць прыватнае акно
+onboarding-firefox-send-button = Паспрабаваць { -send-brand-name }
+onboarding-mobile-phone-title = Атрымайце { -brand-product-name } на сваім тэлефоне
+onboarding-mobile-phone-text = Сцягніце { -brand-product-name } для iOS або Android і сінхранізуйце свае звесткі паміж прыладамі.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Сцягнуць мабільны браўзер
+onboarding-send-tabs-title = Імгненна дасылайце сабе карткі
+onboarding-send-tabs-button = Пачаць карыстацца адпраўкай картак
 onboarding-pocket-anywhere-title = Чытайце і слухайце ў любым месцы
+onboarding-pocket-anywhere-button = Паспрабаваць { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Вазьміце свае паролі з сабой
+onboarding-lockwise-passwords-button = Атрымаць { -lockwise-brand-name }
+onboarding-lockwise-passwords-button2 = Атрымаць праграму
+onboarding-facebook-container-title = Усталяваць межы для Facebook
 onboarding-facebook-container-button = Дадаць пашырэнне
 
 ## Message strings belonging to the Return to AMO flow

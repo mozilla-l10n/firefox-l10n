@@ -271,6 +271,15 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Пашырэнні і тэмы - як праграмы для вашага браўзера, яны дазваляюць
+    вам абараняць паролі, сцягваць відэа, знаходзіць зніжкі, блакаваць
+    раздражняльныя аб'явы, змяняць выгляд браўзера і шмат іншага. Гэтыя
+    невялікія праграмы часта распрацаваны трэцім бокам. Гэты набор { -brand-product-name }
+    <a data-l10n-name="learn-more-trigger">рэкамендуе </a> для выключнай
+    бяспекі, прадукцыйнасці і функцыянальнасці.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Некаторыя з гэтых рэкамендацый персаніфікаваныя. Яны заснаваны на іншых
