@@ -6,9 +6,11 @@
 <!ENTITY firstrun_urlbar_message2 "Aguyje reiporavo haguére &brandShortName;">
 <!ENTITY newfirstrun_urlbar_message "Tereg̃uahẽporãite &brandShortName;-pe">
 <!ENTITY firstrun_urlbar_subtext2 "Peteĩ kundahára ojapóva Mozilla, peteĩ aty oheka\&apos;ỹva viru ha oipotáva ñandutiveve isãso ha oikóva opavavépe g̃uarã.">
+<!ENTITY newfirstrun_urlbar_subtext "Pya’e, ñemi ha nde ykére.">
 <!ENTITY firstrun_panel_title_privacy "Tekovepypegua">
 <!ENTITY firstrun_privacy_message "Eikundaha ndaiporiramoguáicha omañañemíva nderehe">
 <!ENTITY firstrun_privacy_subtext "Kundahañemi rupive oñeñangareko nderehe ani hag̃ua ambuekuéra oikuaa mba\&apos;épa rejapo ha resẽ vove ñandutivevégui ndojekuaamo\&apos;ãi mba\&apos;épa rehecha kuri.">
+<!ENTITY newfirstrun_privacy_subtext "Pe kundaha ñemi ojoko jehekaha ñemurãva ohapykuyhóva ñandutípe.">
 <!ENTITY firstrun_panel_title_customize "Ñemomba\&apos;ete">
 <!ENTITY firstrun_customize_message "Emboheko &brandShortName; ikatu hag̃uáicha omba\&apos;apo reipotaháicha.">
 <!ENTITY firstrun_customize_subtext "Eñemomba\&apos;ete &brandShortName; rehe eipurúvo tembipuru\&apos;i joajupyre. Emboyke ta\&apos;ãnga omba\&apos;evendeséva ndéve, embojoapy Firefox-re tembipuru\&apos;i ojapóva reikotevẽva ýrõ embojegua reipotaháicha.">
@@ -21,6 +23,7 @@
 <!ENTITY firstrun_sync_title "Mbojuehe">
 <!ENTITY firstrun_sync_message2 "Ejapyhyjey eheja haguépe.">
 <!ENTITY firstrun_sync_subtext2 "Eipuru Sync ejuhu hag̃ua ne rechaukaha, ñe\&apos;ẽñemi ha ambueve reñongatuva\&apos;ekue &brandShortName; pe eipuru vove oimeraẽva mba\&apos;e\&apos;oka rerekóva (ne mohendaha, ne pumbyry, tablet  hamba\&apos;e).">
+<!ENTITY newfirstrun_sync_subtext "Embojuehe tetepy eñongatúva pumbyrýpe Firefox mesa arigua ndive, ñemi ha tekorosã reheve.">
 <!ENTITY firstrun_signin_message "Eike, eñepyrũ">
 <!ENTITY firstrun_signin_button "Emoñepyrũ tembiapo embojuehe hag̃ua">
 <!ENTITY newfirstrun_signin_button "Emyandy ñembojuehe">
@@ -410,9 +413,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Ñemboguejy">
 <!ENTITY pref_private_data_syncedTabs "Tendayke ñembojuehepyre">
 
+<!ENTITY pref_default_browser2 "Ejapo &brandShortName;-gui ne kundaha ypyguáva">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Epoko pe kundaha rembipuru’i &amp; eiporavo &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Eike Mozilla mombytahápe">
 <!ENTITY pref_about_firefox "&brandShortName; reheguaite">
 <!ENTITY pref_vendor_faqs "FAQs">
@@ -510,6 +515,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Localization note (find_error) : Error message shown when there is no result for the
      searched for text in this webpage -->
+<!ENTITY find_error "Ñe’ẽjoaju ojejuhu’ỹva">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -910,6 +916,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Mombyta">
 <!ENTITY pip_pause_button_description "Emombyta ñemboheta">
 
+<!ENTITY pref_notification_settings_link "Emongu’e momarandu moĩporã">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Kundahára">
 <!ENTITY mls_notification_channel "&vendorShortName; Ñe\&apos;ẽasa japoha">
