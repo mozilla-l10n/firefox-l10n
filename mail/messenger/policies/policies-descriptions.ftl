@@ -26,9 +26,29 @@ policy-DisableFeedbackCommands = Desativar comandos de enviar opinião a partir 
 policy-DisableForgetButton = Impedir acesso ao botão Esquecer.
 policy-DisableMasterPasswordCreation = Se for true, não pode ser criada uma senha mestra.
 policy-DisableProfileImport = Desativar o comando no menu de importar dados de outra aplicação.
+policy-DisableSafeMode = Desativar o recurso de reiniciar em Modo de Segurança. Nota: a tecla Shift para entrar em Modo de Segurança só pode ser desativada no Windows usando Política de Grupo.
 policy-DisableSecurityBypass = Impedir que o usuário ignore certos avisos de segurança.
 policy-DisableSystemAddonUpdate = Impedir que o { -brand-short-name } instale e atualize extensões do sistema.
 policy-DisableTelemetry = Desativar a Telemetria.
 policy-DisplayMenuBar = Mostrar a barra de menu por padrão.
 policy-DNSOverHTTPS = Configurar DNS sobre HTTPS.
 policy-DontCheckDefaultClient = Desativar verificação de cliente padrão ao iniciar.
+policy-DownloadDirectory = Definir e bloquear o diretório de download.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Ativar ou desativar o bloqueio de conteúdo e opcionalmente o bloquear.
+policy-ExtensionUpdate = Ativar ou desativar atualizações automáticas de extensões.
+policy-HardwareAcceleration = Se for false, desativar aceleração de hardware.
+policy-InstallAddonsPermission = Permitir que certos sites instalem extensões.
+policy-LocalFileLinks = Permitir que sites específicos tenham link para arquivos locais.
+policy-NetworkPrediction = Ativar ou desativar predição de rede (DNS prefetching).
+policy-Preferences = Definir e bloquear o valor de um subconjunto de preferências.
+policy-PromptForDownloadLocation = Perguntar onde salvar arquivos ao baixar.
+policy-Proxy = Configurar definições de proxy.
+policy-SanitizeOnShutdown2 = Limpar dados de navegação ao sair.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Instalar módulos PKCS #11.
+policy-SSLVersionMax = Definir a versão máxima de SSL.
+policy-SSLVersionMin = Definir a versão mínima de SSL.
+policy-SupportMenu = Adicionar um item de menu personalizado de suporte ao menu de ajuda.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Bloquear a visita a sites. Veja a documentação para mais detalhes sobre o formato.
