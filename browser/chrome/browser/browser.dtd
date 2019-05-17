@@ -215,6 +215,7 @@
 <!ENTITY urlbar.canvasBlocked.tooltip "È stato bloccato l’accesso ai dati dei canvas per questo sito web.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip "È stato bloccato l’utilizzo del plugin Adobe Flash per questo sito web.">
 <!ENTITY urlbar.midiBlocked.tooltip "È stato bloccato l’accesso alle funzioni MIDI per questo sito web.">
+<!ENTITY urlbar.installBlocked.tooltip "È stata bloccata l’installazione di componenti aggiuntivi per questo sito.">
 <!ENTITY urlbar.openHistoryPopup.tooltip "Visualizza cronologia">
 <!ENTITY searchItem.title "Cerca">
 <!ENTITY homeButton.label "Pagina iniziale&#173;">
