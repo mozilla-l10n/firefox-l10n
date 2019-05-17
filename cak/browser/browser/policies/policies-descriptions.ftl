@@ -21,6 +21,7 @@ policy-Bookmarks = Ketz'uk taq yaketal pa ri Rukatz'ik yaketal. pa ri Ruk'utsama
 policy-CaptivePortal = Titz'ij o tichup ri rutob'al ri chapon portal.
 policy-CertificatesDescription = Ketz'aqatisäx taq iqitzijib'äl o ke'okisäx tz'aqatisan taq iqitzijib'äl.
 policy-Cookies = Niya' o man niya' ta q'ij chi ke ri ajk'amaya'l taq ruxaq richin nikijikib'a' taq kaxlanwäy.
+policy-DefaultDownloadDirectory = Tijikib'äx ri kimolwuj qasanïk kan k'o wi.
 policy-DisableAppUpdate = Man tiya' q'ij richin nuk'ëx ri' ri okik'amaya'l.
 policy-DisableBuiltinPDFViewer = Tichup PDF.js, ri tz'etöy PDF pa { -brand-short-name }.
 policy-DisableDeveloperTools = Tiq'at okem pa ri kisamajib'al b'anonela'.
@@ -45,6 +46,7 @@ policy-DisplayBookmarksToolbar = Tik'ut ri Rukajtz'ik Samajib'äl achi'el k'o wi
 policy-DisplayMenuBar = Tik'ut ri Rukajtz'ik K'utsamaj achi'el k'o wi.
 policy-DNSOverHTTPS = Tib'an runuk'ulem DNS chi rij HTTPS.
 policy-DontCheckDefaultBrowser = Tichup ri tojtob'äl okik'amaya'l k'o wi pa rutikirisaxik.
+policy-DownloadDirectory = Tijikib'äx chuqa' tiq'at ri kimolwuj qasanïk.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Titzij o tichup ri Kiq'atik Rupam chuqa' ticha' toq niq'at.
 # A “locked” extension can’t be disabled or removed by the user. This policy

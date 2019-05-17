@@ -117,6 +117,8 @@ onboarding-lockwise-passwords-text2 = Ütz ke'ayaka' ri ewan taq atzij chuqa' an
 onboarding-lockwise-passwords-button2 = Tik'ul ri Chokoy
 onboarding-facebook-container-title = Ke'anuk'samajij K'ulb'a't rik'in Facebook
 onboarding-facebook-container-text = { -facebook-container-brand-name } najäch ri ab'anikil richin Facebook rik'in ri ch'aqa' chik, akuchi' nub'än chi k'ayew yatojqäx pan ajk'amaya'l.
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } nujäch ri rub'anikil awäch chi kiwäch ri ch'aqa' chik, akuchi' k'ayew nub'än chuwäch ri Facebook richin nuk'üt eltzijol chawäch.
+onboarding-facebook-container-button = Titz'aqatisäx ri K'amal
 
 ## Message strings belonging to the Return to AMO flow
 
