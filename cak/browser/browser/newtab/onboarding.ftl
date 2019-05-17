@@ -115,6 +115,7 @@ onboarding-lockwise-passwords-text = { -lockwise-brand-name } ke'ayaka' pa jun j
 onboarding-lockwise-passwords-button = Tik'ul { -lockwise-brand-name }
 onboarding-lockwise-passwords-text2 = Ütz ke'ayaka' ri ewan taq atzij chuqa' anin tatikirisaj molojri'ïl pa rub'i' taq ataqoya'l rik'in { -lockwise-brand-name }
 onboarding-lockwise-passwords-button2 = Tik'ul ri Chokoy
+onboarding-facebook-container-title = Ke'anuk'samajij K'ulb'a't rik'in Facebook
 
 ## Message strings belonging to the Return to AMO flow
 
