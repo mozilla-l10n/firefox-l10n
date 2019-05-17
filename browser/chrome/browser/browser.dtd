@@ -589,6 +589,7 @@
 <!ENTITY identity.connectionInternal "Questa è una pagina sicura di &brandShortName;.">
 <!ENTITY identity.extensionPage "Questa pagina è caricata da un’estensione.">
 <!ENTITY identity.insecureLoginForms2 "Gli accessi effettuati in questa pagina potrebbero essere vulnerabili.">
+<!ENTITY identity.customRoot "Connessione verificata da un certificato emesso da un’autorità non riconosciuta da Mozilla.">
 <!ENTITY identity.activeBlocked "Alcuni elementi non sicuri di questa pagina sono stati bloccati da &brandShortName;.">
 <!ENTITY identity.passiveLoaded "Alcuni elementi di questa pagina non sono sicuri (ad esempio immagini).">
 <!ENTITY identity.activeLoaded "La protezione è disattivata per questa pagina.">
@@ -603,6 +604,7 @@
 <!ENTITY identity.description.passiveLoaded3 "Nonostante alcuni elementi siano stati bloccati da &brandShortName;, in questa pagina sono ancora presenti elementi non sicuri (ad esempio immagini).">
 <!ENTITY identity.description.activeLoaded "La connessione con questo sito web non è sicura in quanto presenta contenuti non sicuri (ad esempio script).">
 <!ENTITY identity.description.activeLoaded2 "Le informazioni inviate, come ad esempio password, messaggi, dati delle carte di credito, ecc. potrebbero essere visibili ad altri soggetti.">
+<!ENTITY identity.description.customRoot "Mozilla non riconosce il soggetto che ha emesso questo certificato. Potrebbe essere stato aggiunto dal sistema operativo o da un amministratore.">
 <!ENTITY identity.enableMixedContentBlocking.label "Attiva protezione">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "A">
 <!ENTITY identity.disableMixedContentBlocking.label "Disattiva temporaneamente protezione">
