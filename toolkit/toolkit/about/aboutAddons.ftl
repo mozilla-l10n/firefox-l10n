@@ -304,6 +304,8 @@ preferences-addon-button =
         [windows] Opzioni
        *[other] Preferenze
     }
+details-addon-button = Dettagli
+release-notes-addon-button = Note di versione
 addons-enabled-heading = Attivo
 addons-disabled-heading = Disattivato
 
@@ -344,3 +346,5 @@ addon-detail-private-browsing-allow = Consenti
 addon-detail-private-browsing-disallow = Non consentire
 available-updates-heading = Aggiornamenti disponibili
 recent-updates-heading = Aggiornamenti recenti
+release-notes-loading = Caricamento in corso…
+release-notes-error = Siamo spiacenti, si è verificato un errore nel caricamento delle note di versione.
