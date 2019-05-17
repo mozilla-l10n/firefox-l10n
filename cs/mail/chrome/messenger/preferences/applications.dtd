@@ -34,5 +34,7 @@
 <!ENTITY authRequired.button.label        "Přihlásit">
 <!ENTITY authRequired.button.accesskey    "h">
 
+<!ENTITY findCloudFileProviders.label     "Najít další poskytovatele…">
+
 <!ENTITY enableCloudFileAccountOffer.label "Nabízet nahrávání na úložiště pro soubory větší než">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
