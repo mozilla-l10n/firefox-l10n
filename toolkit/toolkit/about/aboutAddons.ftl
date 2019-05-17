@@ -311,8 +311,8 @@ preferences-addon-button =
         [windows] Opções
        *[other] Preferências
     }
-addons-enabled-heading = Ativado
-addons-disabled-heading = Desativado
+addons-enabled-heading = Ativados
+addons-disabled-heading = Desativados
 ask-to-activate-button = Solicitar ativação
 always-activate-button = Ativar sempre
 never-activate-button = Nunca ativar
