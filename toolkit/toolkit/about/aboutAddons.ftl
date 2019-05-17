@@ -288,7 +288,7 @@ find-more-addons = 寻找更多附加组件：
 
 ## Add-on actions
 
-report-addon-button = 报告
+report-addon-button = 举报
 remove-addon-button = 移除
 disable-addon-button = 禁用
 enable-addon-button = 启用
