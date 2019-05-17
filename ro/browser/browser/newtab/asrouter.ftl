@@ -55,3 +55,10 @@ cfr-doorhanger-pintab-step2 = Selectează <b>Fixează fila</b> din meniu.
 cfr-doorhanger-pintab-step3 = Dacă site-ul are o actualizare, vei vedea un punct albastru pe fila fixată.
 cfr-doorhanger-pintab-animation-pause = Pauză
 cfr-doorhanger-pintab-animation-resume = Continuă
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-link-text = Sincronizează marcajele acum...
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Buton de închidere
+    .title = Închidere
