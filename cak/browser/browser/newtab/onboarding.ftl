@@ -93,8 +93,14 @@ onboarding-browse-privately-text = Ri Ichinan Okik'amaya'l nuyüj ri taq kanoxï
 onboarding-browse-privately-button = Tijaq jun Ichinan Tzuwäch
 onboarding-firefox-send-title = Ke'awichinaj ri Komoni taq Ayakb'al
 onboarding-firefox-send-text = { -send-brand-name } yeruchajij ri taq yakb'äl e'akomonin rik'in ewan rusik'ixik ronojel chuqa' jun ruximonel nik'is ruq'ijul.
+onboarding-firefox-send-text2 = Ke'ajotob'a' ri taq ayakb'al pa { -send-brand-name } richin ye'akomonij ronojel rik'in  ewan rusik'ixik chuqa' rik'in jun ximonel nik'is ruq'ijul.
 onboarding-firefox-send-button = Titojtob'ëx { -send-brand-name }
 onboarding-mobile-phone-title = Tik'ul { -brand-product-name } pan Awoyonib'al
+onboarding-mobile-phone-text = Taqasaj { -brand-product-name } richin iOS o Android richin ye'axïm ri taq atzij pa ronojel taq awokisab'al.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Taqasaj Oyonib'äl Okik'amaya'l
+onboarding-send-tabs-title = Ke'ataqa' Anin taq Ruwi'
 
 ## Message strings belonging to the Return to AMO flow
 
