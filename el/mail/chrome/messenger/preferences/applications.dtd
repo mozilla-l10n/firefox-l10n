@@ -34,5 +34,7 @@
 <!ENTITY authRequired.button.label        "Πιστοποίηση">
 <!ENTITY authRequired.button.accesskey    "U">
 
+<!ENTITY findCloudFileProviders.label     "Εύρεση περισσότερων παρόχων…">
+
 <!ENTITY enableCloudFileAccountOffer.label "Πρόταση για κοινή χρήση αρχείων, μεγαλύτερων από">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
