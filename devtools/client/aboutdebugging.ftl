@@ -112,10 +112,22 @@ about-debugging-setup-usb-step-enable-debug = Android 개발자 메뉴에서 USB
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox = Android 기기에서 Firefox에서의 USB 디버깅을 활성화합니다. <a>방법 알아보기</a>
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Android 기기에서 개발자 메뉴를 활성화합니다.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Android 개발자 메뉴에서 USB 디버깅을 활성화합니다.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Android 기기에서 Firefox에서의 USB 디버깅을 활성화합니다.
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Android 기기를 컴퓨터에 연결합니다.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = USB 기기에 연결하는데 문제가 있습니까? <a>문제 해결</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = 네트워크 위치
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = 네트워크 위치를 통해 연결하는데 문제가 있습니까? <a>문제 해결</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = 추가
