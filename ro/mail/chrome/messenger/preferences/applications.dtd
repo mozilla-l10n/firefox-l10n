@@ -34,5 +34,7 @@
 <!ENTITY authRequired.button.label        "Autorizați">
 <!ENTITY authRequired.button.accesskey    "A">
 
+<!ENTITY findCloudFileProviders.label     "Găsește mai mulți furnizori…">
+
 <!ENTITY enableCloudFileAccountOffer.label "Oferă partajarea fișierelor mai mari decât">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
