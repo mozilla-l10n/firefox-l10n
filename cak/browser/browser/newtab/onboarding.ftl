@@ -104,6 +104,11 @@ onboarding-send-tabs-title = Ke'ataqa' Anin taq Ruwi'
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Send Tabs anin yerukomonij taq ruxaq chi kikojol taq awokisab'al akuchi' man nuwachib'ej ta, man nutz'ajb'a' ta chuqa' man nel ta pa ri okik'amaya'l.
+onboarding-send-tabs-button = Tachapa' Rokisaxik Send Tabs
+onboarding-pocket-anywhere-title = Tisik'is chuqa' Tak'axäx Xab'akuchi'
+# "downtime" refers to the user's free/spare time.
+onboarding-pocket-anywhere-text = { -pocket-brand-name } ke'ayaka' ri ajowab'äl taq anatab'al richin ye'asik'ij, ye'awak'axaj o ye'atz'ët toq nawajo', estape' we majun okem pa k'amaya'l.
+onboarding-pocket-anywhere-text2 = Tayaka' ri ajowab'äl rupam akuchi' majun okem pa k'amaya'l ruma ri { -pocket-brand-name } App chuqa' tasik'ij, tawak'axaj o tatz'eta' xab'akuchi' o toq nawajo'.
 
 ## Message strings belonging to the Return to AMO flow
 
