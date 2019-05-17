@@ -101,6 +101,9 @@ onboarding-mobile-phone-text = Taqasaj { -brand-product-name } richin iOS o Andr
 # browser.
 onboarding-mobile-phone-button = Taqasaj Oyonib'äl Okik'amaya'l
 onboarding-send-tabs-title = Ke'ataqa' Anin taq Ruwi'
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Send Tabs anin yerukomonij taq ruxaq chi kikojol taq awokisab'al akuchi' man nuwachib'ej ta, man nutz'ajb'a' ta chuqa' man nel ta pa ri okik'amaya'l.
 
 ## Message strings belonging to the Return to AMO flow
 
