@@ -10,7 +10,10 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-Proxy = Konfigurovat nastavení proxy.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Nainstalovat moduly PKCS #11.
 policy-SSLVersionMax = Nastavit maximální verzi SSL.
 policy-SSLVersionMin = Nastavit minimální verzi SSL.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Blokovat návštěvy webových stránek. Více informací o formátu najdete v dokumentace.
