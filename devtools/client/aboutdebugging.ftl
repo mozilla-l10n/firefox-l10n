@@ -185,7 +185,7 @@ about-debugging-runtime-service-workers-not-compatible = A configuração do seu
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
-about-debugging-browser-version-too-old = O navegador ligado tem uma versão antiga ({ $runtimeVersion }). A versão mínima suportada é ({ $minVersion }). Isto é uma configuração não suportada e pode causar com que as DevTools falhem. Por favor atualize o navegador ligado. <a>Resolução de problemas</a>
+about-debugging-browser-version-too-old = O navegador ligado tem uma versão antiga ({ $runtimeVersion }). A versão mínima suportada é ({ $minVersion }). Esta é uma configuração não suportada e pode causar com que as DevTools falhem. Por favor atualize o navegador ligado. <a>Resolução de problemas</a>
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # - from Fx 67 to 66 or to 65
 # - from Fx 68 to 66
@@ -199,7 +199,7 @@ about-debugging-browser-version-too-old-67-debugger = O painel Depurador pode n�
 # { $localID } is the build ID of the current Firefox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $localVersion } is the version of your current browser (same format)
-about-debugging-browser-version-too-recent = O navegador ligado é mais recente ({ $runtimeVersion }, buildID { $runtimeID }) do que a sua versão do { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). A versão mínima suportada é ({ $minVersion }). Isto é uma configuração não suportada e pode causar com que as DevTools falhem. Por favor atualize o Firefox. <a>Resolução de problemas</a>
+about-debugging-browser-version-too-recent = O navegador ligado é mais recente ({ $runtimeVersion }, buildID { $runtimeID }) do que a sua versão do { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Esta é uma configuração não suportada e pode fazer com que as DevTools falhem. Por favor atualize o Firefox. <a>Resolução de problemas</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -251,7 +251,7 @@ about-debugging-tmp-extension-remove-button = Remover
 # Note: this message is only displayed in Windows and Linux platforms.
 about-debugging-tmp-extension-install-message = Selecione o ficheiro manifest.json ou arquivo .xpi/.zip
 # This string is displayed as a message about the add-on having a temporaryID.
-about-debugging-tmp-extension-temporary-id = Este WebExtension tem um ID temporário. <a>Saber mais</a>
+about-debugging-tmp-extension-temporary-id = Esta WebExtension tem um ID temporário. <a>Saber mais</a>
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =

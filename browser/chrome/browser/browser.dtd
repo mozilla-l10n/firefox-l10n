@@ -131,7 +131,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
-
 <!ENTITY importFromAnotherBrowserCmd.label "Importar de outro navegador…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
@@ -439,7 +438,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey     "f">
-
 <!ENTITY logins.label                           "Credenciais e palavras-passe">
 
 <!ENTITY clearRecentHistory.label               "Limpar histórico recente…">
@@ -1105,7 +1103,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "Navegação segura!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Obrigado!">
 
-<!ENTITY emeLearnMoreContextMenu.label            "Saber mais sobre DRM…">
+<!ENTITY emeLearnMoreContextMenu.label            "Saber mais acerca de DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
 <!ENTITY updateAvailable.message "Atualize o seu &brandShorterName; para o mais recente em velocidade e privacidade">
