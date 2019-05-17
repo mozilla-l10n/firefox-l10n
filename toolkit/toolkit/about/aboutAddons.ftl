@@ -306,6 +306,7 @@ preferences-addon-button =
     }
 details-addon-button = Dettagli
 release-notes-addon-button = Note di versione
+permissions-addon-button = Permessi
 addons-enabled-heading = Attivo
 addons-disabled-heading = Disattivato
 
@@ -348,3 +349,4 @@ available-updates-heading = Aggiornamenti disponibili
 recent-updates-heading = Aggiornamenti recenti
 release-notes-loading = Caricamento in corso…
 release-notes-error = Siamo spiacenti, si è verificato un errore nel caricamento delle note di versione.
+addon-permissions-empty = Questa estensione non richiede alcun permesso
