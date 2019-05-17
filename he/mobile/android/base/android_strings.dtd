@@ -4,6 +4,7 @@
 
 <!ENTITY firstrun_panel_title_welcome "ברוכים הבאים">
 <!ENTITY firstrun_urlbar_message2 "תודה שבחרת ב־&brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "ברוכים הבאים אל &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "דפדפן מודרני לנייד מבית Mozilla, הארגון ללא מטרות רווח שמחויב לאינטרנט חופשי ופתוח.">
 <!ENTITY firstrun_panel_title_privacy "פרטיות">
 <!ENTITY firstrun_privacy_message "גילשו כאילו אף אחד לא מסתכל">
@@ -22,6 +23,7 @@
 <!ENTITY firstrun_sync_subtext2 "ניתן להשתמש ב־Sync כדי למצוא סימניות, ססמאות ודברים נוספים ששמרת ב־&brandShortName; בכל ההתקנים שלך.">
 <!ENTITY firstrun_signin_message "להישאר בעניינים, קדימה">
 <!ENTITY firstrun_signin_button "כניסה אל Sync">
+<!ENTITY newfirstrun_signin_button "הפעלת Sync">
 <!ENTITY  onboard_start_button_browser "התחלת גלישה">
 <!ENTITY firstrun_button_notnow "לא כרגע">
 <!ENTITY firstrun_button_next "הבא">
@@ -63,6 +65,12 @@
 <!ENTITY  crash_restart_label "הפעלת &brandShortName; מחדש">
 
 <!ENTITY url_bar_default_text2 "נא להזין ביטוי לחיפוש או כתובת">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "חיפוש ברשת">
+<!ENTITY search_widget_default_cropped_text "חיפוש">
+<!ENTITY search_widget_logo_description "חיפוש ברשת בעזרת &brandShortName;">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -335,6 +343,9 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "מעבר להגדרות">
+<!-- Localization note (tab_queue_notification_prompt): This is the text of the default notification
+shown from Android O while a tab is being queued.-->
+<!ENTITY tab_queue_notification_prompt "לשונית חדשה מתווספת לתור&#8230;">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -393,14 +404,16 @@
 <!ENTITY pref_private_data_searchHistory "היסטוריית חיפוש">
 <!ENTITY pref_private_data_formdata2 "היסטוריית טפסים">
 <!ENTITY pref_private_data_cookies2 "עוגיות והתחברויות פעילות">
-<!ENTITY pref_private_data_passwords2 "התחברויות שמורות">
 <!ENTITY pref_private_data_cache "מטמון">
 <!ENTITY pref_private_data_offlineApps "נתוני אתרים לא מקוונים">
 <!ENTITY pref_private_data_siteSettings2 "הגדרות אתר">
 <!ENTITY pref_private_data_downloadFiles2 "הורדות">
 <!ENTITY pref_private_data_syncedTabs "לשוניות מסונכרנות">
 
-<!ENTITY pref_default_browser "הגדרה כדפדפן ברירת המחדל">
+<!ENTITY pref_default_browser2 "הגדרת &brandShortName; כדפדפן ברירת המחדל שלך">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY pref_default_browser_mozilla_support_tablet "ביקור באתר התמיכה של Mozilla">
 <!ENTITY pref_about_firefox "מידע על &brandShortName;">
 <!ENTITY pref_vendor_faqs "תשובות לשאלות נפוצות">
@@ -495,6 +508,10 @@
 <!ENTITY find_prev "קודם">
 <!ENTITY find_next "הבא">
 <!ENTITY find_close "סגירה">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "הביטוי לא נמצא">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -898,6 +915,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "השהייה">
 <!ENTITY pip_pause_button_description "השהיית הניגון">
 
+<!ENTITY pref_notification_settings_link "ניהול הגדרות התראה">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "דפדפן">
 <!ENTITY mls_notification_channel "שירות המיקום של &vendorShortName;">
