@@ -109,6 +109,12 @@ onboarding-pocket-anywhere-title = Tisik'is chuqa' Tak'axäx Xab'akuchi'
 # "downtime" refers to the user's free/spare time.
 onboarding-pocket-anywhere-text = { -pocket-brand-name } ke'ayaka' ri ajowab'äl taq anatab'al richin ye'asik'ij, ye'awak'axaj o ye'atz'ët toq nawajo', estape' we majun okem pa k'amaya'l.
 onboarding-pocket-anywhere-text2 = Tayaka' ri ajowab'äl rupam akuchi' majun okem pa k'amaya'l ruma ri { -pocket-brand-name } App chuqa' tasik'ij, tawak'axaj o tatz'eta' xab'akuchi' o toq nawajo'.
+onboarding-pocket-anywhere-button = Titojtob'ëx { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Xab'akuchi' Ke'ak'waj ri Ewan taq Atzij
+onboarding-lockwise-passwords-text = { -lockwise-brand-name } ke'ayaka' pa jun jeb'ël k'ojlib'äl ri ewan taq atzij richin natikirisaj molojri'ïl pan rub'i' ataqoya'l rik'in aninäq rub'eyal.
+onboarding-lockwise-passwords-button = Tik'ul { -lockwise-brand-name }
+onboarding-lockwise-passwords-text2 = Ütz ke'ayaka' ri ewan taq atzij chuqa' anin tatikirisaj molojri'ïl pa rub'i' taq ataqoya'l rik'in { -lockwise-brand-name }
+onboarding-lockwise-passwords-button2 = Tik'ul ri Chokoy
 
 ## Message strings belonging to the Return to AMO flow
 
