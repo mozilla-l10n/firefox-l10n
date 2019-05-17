@@ -5,10 +5,34 @@
 
 ## UI strings for the simplified onboarding modal
 
+
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
+
+onboarding-button-label-learn-more = Μάθετε περισσότερα
 onboarding-button-label-try-now = Δοκιμή τώρα
 onboarding-button-label-get-started = Έναρξη
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Καλώς ήλθατε στο { -brand-short-name }
+onboarding-join-form-email =
+    .placeholder = Εισάγετε το email σας
+onboarding-join-form-email-error = Απαιτείται έγκυρο email
+onboarding-join-form-continue = Συνέχεια
 onboarding-start-browsing-button-label = Έναρξη περιήγησης
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-title = Χρήσιμα προϊόντα
+onboarding-benefit-privacy-title = Πραγματική ιδιωτικότητα
 
 ## These strings belong to the individual onboarding messages.
 
@@ -28,6 +52,20 @@ onboarding-ghostery-text = Περιηγηθείτε ταχύτερα, εξυπν
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Συγχρονισμός
 onboarding-fxa-text = Δημιουργήστε ένα { -fxaccount-brand-name } και συγχρονίστε τους σελιδοδείκτες, τους κωδικούς πρόσβασης και τις ανοικτές σας καρτέλες, οπουδήποτε χρησιμοποιείτε το { -brand-short-name }.
+# "Update" is a verb, as in "Update the existing settings", not "Options about
+# updates".
+onboarding-tracking-protection-button =
+    { PLATFORM() ->
+        [windows] Ενημέρωση επιλογών
+       *[other] Ενημέρωση προτιμήσεων
+    }
+onboarding-tracking-protection-title2 = Προστασία από καταγραφή
+onboarding-tracking-protection-button2 = Πώς λειτουργεί
+onboarding-browse-privately-title = Ιδιωτική περιήγηση
+onboarding-browse-privately-button = Άνοιγμα ιδιωτικού παραθύρου
+onboarding-firefox-send-button = Δοκιμή του { -send-brand-name }
+onboarding-lockwise-passwords-button2 = Λήψη εφαρμογής
+onboarding-facebook-container-button = Προσθήκη επέκτασης
 
 ## Message strings belonging to the Return to AMO flow
 

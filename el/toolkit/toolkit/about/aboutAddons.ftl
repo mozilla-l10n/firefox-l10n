@@ -162,6 +162,9 @@ private-browsing-description2 =
 extensions-view-discover =
     .name = Λήψη προσθέτων
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Προτάσεις
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Πρόσφατες ενημερώσεις
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -242,7 +245,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Διαχείριση συντομεύσεων επέκτασης
     .accesskey = σ
-shortcuts-empty-message = Δεν υπάρχουν συντομεύσεις για αυτή την επέκταση.
 shortcuts-no-addons = Δεν έχετε ενεργοποιήσει καμία επέκταση.
 shortcuts-no-commands = Οι εξής επεκτάσεις δεν έχουν συντομεύσεις:
 shortcuts-input =
@@ -268,14 +270,42 @@ shortcuts-card-collapse-button = Εμφάνιση λιγότερων
 go-back-button =
     .tooltiptext = Επιστροφή
 
+## Recommended add-ons page
+
+discopane-notice-learn-more = Μάθετε περισσότερα
+privacy-policy = Πολιτική απορρήτου
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = από <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Χρήστες: { $dailyUsers }
+install-extension-button = Προσθήκη στο { -brand-product-name }
+install-theme-button = Εγκατάσταση θέματος
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Διαχείριση
+find-more-addons = Εύρεση περισσότερων προσθέτων
+
 ## Add-on actions
 
+report-addon-button = Αναφορά
 remove-addon-button = Αφαίρεση
 disable-addon-button = Απενεργοποίηση
 enable-addon-button = Ενεργοποίηση
 expand-addon-button = Περισσότερες επιλογές
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Επιλογές
+       *[other] Προτιμήσεις
+    }
 addons-enabled-heading = Ενεργό
 addons-disabled-heading = Ανενεργό
+ask-to-activate-button = Ερώτηση για ενεργοποίηση
+always-activate-button = Πάντα ενεργοποιημένο
+never-activate-button = Ποτέ ενεργοποιημένο
 addon-detail-author-label = Δημιουργός
 addon-detail-version-label = Έκδοση
 addon-detail-last-updated-label = Τελευταία ενημέρωση
@@ -293,3 +323,21 @@ addon-detail-reviews-link =
         [one] { $numberOfReviews } κριτική
        *[other] { $numberOfReviews } κριτικές
     }
+
+## Pending uninstall message bar
+
+pending-uninstall-undo-button = Αναίρεση
+addon-detail-updates-label = Να επιτρέπονται αυτόματες ενημερώσεις
+addon-detail-updates-radio-default = Προεπιλογή
+addon-detail-updates-radio-on = Ενεργό
+addon-detail-updates-radio-off = Ανενεργό
+addon-detail-update-check-label = Έλεγχος για ενημερώσεις
+install-update-button = Ενημέρωση
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Επιτρέπεται σε ιδιωτικά παράθυρα
+addon-detail-private-browsing-allow = Αποδοχή
+addon-detail-private-browsing-disallow = Απόρριψη
+available-updates-heading = Διαθέσιμες ενημερώσεις
+recent-updates-heading = Πρόσφατες ενημερώσεις
