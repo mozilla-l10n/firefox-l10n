@@ -271,6 +271,10 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Некаторыя з гэтых рэкамендацый персаніфікаваныя. Яны заснаваны на іншых
+    пашырэннях, якія вы ўсталявалі, перавагах профілю і статыстыцы выкарыстання.
 discopane-notice-learn-more = Даведацца больш
 privacy-policy = Палітыка прыватнасці
 # Refers to the author of an add-on, shown below the name of the add-on.
@@ -295,6 +299,11 @@ remove-addon-button = Выдаліць
 disable-addon-button = Адключыць
 enable-addon-button = Уключыць
 expand-addon-button = Дадатковыя параметры
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Налады
+       *[other] Перавагі
+    }
 addons-enabled-heading = Уключана
 addons-disabled-heading = Выключана
 ask-to-activate-button = Спытаць для задзейнічання
