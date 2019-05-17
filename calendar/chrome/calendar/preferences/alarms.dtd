@@ -12,6 +12,7 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "s">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Folosește sunetul implicit">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "i">
+<!ENTITY pref.calendar.alarms.sound.useCustom.label "Folosește următorul fișier audio">
 <!ENTITY pref.calendar.alarms.sound.useCustom.accessKey "U">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Răsfoiește…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "f">
