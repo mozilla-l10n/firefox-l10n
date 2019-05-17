@@ -11,7 +11,6 @@
 <!ENTITY returnToPreviousPage1.label "వెనక్కి వెళ్ళు (సిఫారసుచేయబడింది)">
 <!ENTITY advanced.label "ఉన్నతం">
 <!ENTITY advanced2.label "ఉన్నతం…">
-<!ENTITY moreInformation.label "మరింత సమాచారం">
 
 <!-- Specific error messages -->
 
@@ -159,6 +158,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "మినహాయింపును చేర్చు…">
 
+<!ENTITY securityOverride.exceptionButton1Label "నష్టభయాన్ని అంగీకరించి ముందుకు కొనసాగండి">
 
 <!ENTITY errorReporting.automatic2 "హానికరమైన సైట్లను గుర్తించి నిరోధించడంలో సహాయపడేందుకు ఇలాంటి తప్పిదాలను Mozillaకు నివేదించండి">
 <!ENTITY errorReporting.learnMore "ఇంకా తెలుసుకోండి…">
