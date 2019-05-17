@@ -77,10 +77,14 @@ onboarding-tracking-protection-button =
     }
 onboarding-tracking-protection-title2 = 추적으로부터의 보호
 onboarding-tracking-protection-text2 = { -brand-short-name }는 웹 사이트가 온라인에서 사용자를 추적하는 것을 막아, 광고가 웹에서 사용자를 따라 다니는 것을 어렵게 만듭니다.
+onboarding-tracking-protection-button2 = 작동 원리
 onboarding-data-sync-title = 설정을 항상 유지하기
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = { -brand-product-name }를 사용하는 모든 곳에서 북마크와 비밀번호를 동기화하세요.
 onboarding-data-sync-button = { -sync-brand-short-name } 켜기
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = { -brand-product-name }를 사용하는 모든 곳에서 북마크, 비밀번호 등을 동기화하십시오.
+onboarding-data-sync-button2 = { -sync-brand-short-name }에 로그인하기
 onboarding-firefox-monitor-title = 데이터 유출 알림
 onboarding-firefox-monitor-text = { -monitor-brand-name }는 데이터 유출 사건에 사용자의 이메일이 있는지를 모니터링하고 새 데이터 유출 사건에 있으면 사용자에게 알려 줍니다.
 onboarding-firefox-monitor-button = 알림 가입 신청
@@ -89,6 +93,7 @@ onboarding-browse-privately-text = 사생활 보호 모드가 검색 및 방문 
 onboarding-browse-privately-button = 사생활 보호 창 열기
 onboarding-firefox-send-title = 공유 파일 보호
 onboarding-firefox-send-text = { -send-brand-name }는 공유하는 파일을 종단 간 암호화와 자동으로 만료되는 링크로 보호합니다.
+onboarding-firefox-send-text2 = 파일을 { -send-brand-name }에 업로드하여 종단 간 암호화와 자동으로 만료되는 링크로 공유하십시오.
 onboarding-firefox-send-button = { -send-brand-name }를 사용해보세요
 onboarding-mobile-phone-title = 휴대폰에서 { -brand-product-name } 받기
 onboarding-mobile-phone-text = iOS 또는 Android 용 { -brand-product-name }를 다운로드하고 기기간에 데이터를 동기화합니다.
@@ -103,13 +108,16 @@ onboarding-send-tabs-button = 탭 보내기 사용 시작
 onboarding-pocket-anywhere-title = 어디서나 읽고 듣기
 # "downtime" refers to the user's free/spare time.
 onboarding-pocket-anywhere-text = { -pocket-brand-name }에 좋아하는 스토리를 저장하여 접근이 안되거나 심지어 오프라인 일 때도 읽고 듣고 볼 수 있습니다.
+onboarding-pocket-anywhere-text2 = { -pocket-brand-name } 앱으로 좋아하는 콘텐츠를 오프라인에 저장하고 편리할 때마다 읽고, 듣고, 시청할 수 있습니다.
 onboarding-pocket-anywhere-button = { -pocket-brand-name }을 사용해보세요
 onboarding-lockwise-passwords-title = 어디서나 비밀번호를 사용
 onboarding-lockwise-passwords-text = { -lockwise-brand-name }는 비밀번호를 안전한 장소에 저장하여 계정에 쉽게 로그인 할 수 있도록 합니다.
 onboarding-lockwise-passwords-button = { -lockwise-brand-name } 받기
+onboarding-lockwise-passwords-text2 = { -lockwise-brand-name }로 저장한 비밀번호를 안전하게 유지하고 계정에 쉽게 로그인하십시오.
 onboarding-lockwise-passwords-button2 = 앱 다운로드
 onboarding-facebook-container-title = Facebook 경계 설정
 onboarding-facebook-container-text = { -facebook-container-brand-name }는 Facebook 활동을 다른 사이트와 구분하여 보관하므로, 웹에서 사용자를 추적하기 어렵게 합니다.
+onboarding-facebook-container-text2 = { -facebook-container-brand-name }는 프로필을 다른 것과 구분하여 유지하므로 Facebook이 사용자를 구분하여 광고하는 것을 어렵게 만듭니다.
 onboarding-facebook-container-button = 확장 기능 추가
 
 ## Message strings belonging to the Return to AMO flow

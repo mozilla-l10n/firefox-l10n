@@ -157,6 +157,9 @@ private-browsing-description2 =
 extensions-view-discover =
     .name = 추천
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = 추천
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = 최근 업데이트
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -263,6 +266,11 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro = 확장기능 및 테마는 브라우저 앱과 비슷하며, 비밀번호 보호, 동영상 다운로드, 거래 찾기, 성가신 광고 차단, 브라우저가 어떻게 보이는지 변경 등을 할 수 있도록 합니다. 이 작은 소프트웨어 프로그램은 보통 제3자에 의해 개발됩니다. 다음은 탁월한 보안, 성능 및 기능을 위해 { -brand-product-name }가 <a data-l10n-name="learn-more-trigger">추천하는</a> 목록입니다.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations = 이러한 추천 중 일부는 개인화된 것입니다. 설치한 다른 확장기능, 프로필 설정 및 사용 통계를 기반으로 합니다.
 discopane-notice-learn-more = 더 알아보기
 privacy-policy = 개인 정보 보호 정책
 # Refers to the author of an add-on, shown below the name of the add-on.
@@ -287,6 +295,11 @@ remove-addon-button = 삭제
 disable-addon-button = 비활성화
 enable-addon-button = 활성화
 expand-addon-button = 옵션 더보기
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] 설정
+       *[other] 설정
+    }
 addons-enabled-heading = 활성화 됨
 addons-disabled-heading = 비활성화 됨
 ask-to-activate-button = 활성화 요청
