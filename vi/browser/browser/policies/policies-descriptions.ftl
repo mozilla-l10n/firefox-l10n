@@ -53,6 +53,7 @@ policy-EnableTrackingProtection = Kích hoạt hoặc vô hiệu hóa chặn n�
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Cài đặt, gỡ cài đặt hoặc khóa tiện ích mở rộng. Tùy chọn Cài đặt lấy URL hoặc đường dẫn làm tham số. Các tùy chọn Gỡ cài đặt và Khóa lấy ID tiện ích mở rộng.
+policy-ExtensionSettings = Quản lý các cài đặt cài đặt khác nhau cho tiện ích mở rộng.
 policy-ExtensionUpdate = Bật hoặc tắt cập nhật tiện ích mở rộng tự động.
 policy-FirefoxHome = Cấu hình trang chủ Firefox.
 policy-FlashPlugin = Cho phép hoặc từ chối việc sử dụng phần bổ trợ Flash.

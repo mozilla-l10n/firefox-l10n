@@ -241,7 +241,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Quản lý phím tắt tiện ích mở rộng
     .accesskey = s
-shortcuts-empty-message = Không có phím tắt cho tiện ích mở rộng này.
 shortcuts-no-addons = Bạn không có bất kỳ tiện ích mở rộng nào được kích hoạt.
 shortcuts-no-commands = Các tiện ích mở rộng sau không có phím tắt:
 shortcuts-input =
@@ -305,6 +304,11 @@ remove-addon-button = Xóa
 disable-addon-button = Tắt
 enable-addon-button = Bật
 expand-addon-button = Tùy chọn khác
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Tùy chọn
+       *[other] Tùy chỉnh
+    }
 addons-enabled-heading = Đã bật
 addons-disabled-heading = Đã vô hiệu hóa
 ask-to-activate-button = Hỏi trước khi kích hoạt
