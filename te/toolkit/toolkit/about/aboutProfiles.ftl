@@ -8,6 +8,7 @@ profiles-create = కొత్త ప్రొఫైలును సృష్ట
 profiles-restart-title = పునఃప్రారంభించు
 profiles-restart-in-safe-mode = పొడిగింతలు ఆపివేసి పునఃప్రారంభించు…
 profiles-restart-normal = సాధారణంగా పునఃప్రారంభించు...
+profiles-flush-conflict = { profiles-conflict }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = ప్రొఫైలు: { $name }

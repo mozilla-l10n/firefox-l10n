@@ -40,6 +40,9 @@ about-debugging-refresh-usb-devices-button = పరికరాలను తా�
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = చేర్చు
+# Text of a button displayed next to existing network locations in the Connect page.
+# Clicking on it removes the network location from the list.
+about-debugging-network-locations-remove-button = తొలగించు
 
 # Runtime Page strings
 

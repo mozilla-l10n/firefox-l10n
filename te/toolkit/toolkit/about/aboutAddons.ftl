@@ -218,12 +218,26 @@ shortcuts-card-collapse-button = తక్కువ చూపించు
 go-back-button =
     .tooltiptext = వెనుకకు వెళ్ళు
 
+## Recommended add-ons page
+
+discopane-notice-learn-more = ఇంకా తెలుసుకోండి
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = వాడుకరులు: { $dailyUsers }
+install-theme-button = అలంకారాన్ని స్థాపించు
+
 ## Add-on actions
 
 remove-addon-button = తొలగించు
 disable-addon-button = అచేతనించు
 enable-addon-button = చేతనించు
 expand-addon-button = మరిన్ని ఎంపికలు
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] ఎంపికలు
+       *[other] అభిరుచులు
+    }
 addons-enabled-heading = చేతనం
 addons-disabled-heading = అచేతనం
 addon-detail-author-label = రచయిత
@@ -237,3 +251,12 @@ addon-detail-reviews-link =
         [one] { $numberOfReviews } సమీక్ష
        *[other] { $numberOfReviews } సమీక్షలు
     }
+
+## Pending uninstall message bar
+
+addon-detail-updates-radio-default = అప్రమేయం
+addon-detail-update-check-label = తాజాకరణలకై చూడు
+addon-detail-private-browsing-allow = అనుమతించు
+addon-detail-private-browsing-disallow = అనుమతించ వద్దు
+available-updates-heading = అందుబాటులో ఉన్న తాజాకరణలు
+recent-updates-heading = ఇటీవలి తాజాకరణలు
