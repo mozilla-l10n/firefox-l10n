@@ -36,6 +36,10 @@ policy-DontCheckDefaultClient = Desativar verificação de cliente padrão ao in
 policy-DownloadDirectory = Definir e bloquear o diretório de download.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Ativar ou desativar o bloqueio de conteúdo e opcionalmente o bloquear.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = Instalar, desinstalar ou bloquear extensões. A opção 'Install' recebe URLs ou paths como parâmetros. As opções 'Uninstall' e 'Locked' recebem IDs de extensões.
 policy-ExtensionUpdate = Ativar ou desativar atualizações automáticas de extensões.
 policy-HardwareAcceleration = Se for false, desativar aceleração de hardware.
 policy-InstallAddonsPermission = Permitir que certos sites instalem extensões.
