@@ -21,7 +21,7 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY stats.media "Multimédia">
 <!ENTITY stats.size "Tamanho">
 <!ENTITY stats.activity "Atividade">
-<!ENTITY stats.activityPaused "Em pausa">
+<!ENTITY stats.activityPaused "Pausado">
 <!ENTITY stats.activityPlaying "A reproduzir">
 <!ENTITY stats.activityEnded "Terminada">
 <!ENTITY stats.activitySeeking "(a procurar)">
