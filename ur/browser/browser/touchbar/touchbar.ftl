@@ -7,3 +7,6 @@
 back = واپس
 forward = آگے
 reload = پھر لوڈ کریں
+home = ابتدائی صفحہ
+find = ڈھونڈیں
+new-tab = نیا ٹیب

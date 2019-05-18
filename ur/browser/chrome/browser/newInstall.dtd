@@ -7,5 +7,6 @@
  revision number of a given Firefox channel". These terms are not synonymous.
 -->
 
+<!ENTITY window.style "width: 490px">
 <!ENTITY continue-button "جاری رکھیں">
 

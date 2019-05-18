@@ -39,10 +39,6 @@ category-search =
 pane-privacy-title = رازداری اور سلامتی
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox اکاؤنٹس
-category-sync =
-    .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } تعاون
 addons-button-label = ایکسٹینشن اور تھیم
 focus-search =
@@ -443,8 +439,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = محفوظ کریں
     .accesskey = v
-sync-mobilepromo-single = اہک اور آلہ جوڑیں
-sync-mobilepromo-multi = آلات کو بندرست کریں
 sync-tos-link = سروس کی ٹرمز
 sync-fxa-privacy-notice = اطلاع نامہ نجی نوعیت
 
@@ -553,6 +547,7 @@ content-blocking-setting-custom =
     .accesskey = C
 content-blocking-custom-desc = چنیں کیا بلاک کرنا ہے
 content-blocking-all-third-party-cookies = سارے تیسری تنظیم کے کوکیز
+content-blocking-fingerprinters = فنگر پرنٹرز
 content-blocking-warning-title = دھیان دیں!
 content-blocking-learn-how = جانیں کہ کس طرح
 content-blocking-trackers-label =
@@ -568,6 +563,11 @@ content-blocking-tracking-protection-change-block-list = بلاک فہرست ت�
 content-blocking-cookies-label =
     .label = کوکیز
     .accesskey = C
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = فنگر پرنٹرز
+    .accesskey = F
 
 ## Privacy Section - Tracking
 
@@ -595,13 +595,6 @@ permissions-notification-link = مزید سیکھیں
 permissions-block-autoplay-media-exceptions =
     .label = استثنیات…
     .accesskey = E
-autoplay-option-ask =
-    .label = ہمیشہ پوچھیں
-autoplay-option-allow =
-    .label = خودبخود چلنے کی اجازت دیں
-autoplay-option-dont =
-    .label = خودبخود چلنے کی اجازت نادیں
-permissions-autoplay-link = مزید سیکھیں
 permissions-block-popups =
     .label = پوپ اپ دریچے بلاک کیجیے
     .accesskey = B
@@ -621,7 +614,6 @@ permissions-a11y-privacy-link = مزید سیکھیں
 collection-privacy-notice = رازداری کا نوٹس
 collection-health-report-link = مزید سیکھیں
 addon-recommendations-link = مزید سیکھیں
-collection-browser-errors-link = مزید سیکھیں
 collection-backlogged-crash-reports-link = مزید سیکھیں
 
 ## Privacy Section - Security
