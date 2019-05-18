@@ -16,8 +16,8 @@ changed-desc-dedicated = Denne installation har nu sin egen, dedikerede profil f
 lost = <b>Du har ikke mistet nogle af dine personlige data eller indstillinger.</b> Hvis du allerede har gemt oplysninger i Firefox på denne computer, så er de stadig tilgængelige i en anden Firefox-installation.
 
 options-title = Hvilke muligheder har jeg?
-options-do-nothing = Som standard vil dine profildata i { -brand-short-name } ikke blive synkroniseret med profil-data i dine andre Firefox-installationer.
-options-use-sync = Hvis du gerne vil have at dine profil-data skal være ens for alle installationer af Firefox, så kan du bruge en { -fxaccount-brand-name } til at holde dem synkroniserede.
+options-do-nothing = Som standard vil dine profildata i { -brand-short-name } ikke blive synkroniseret med profildata i dine andre Firefox-installationer.
+options-use-sync = Hvis du gerne vil have at dine profildata skal være ens for alle installationer af Firefox, så kan du bruge en { -fxaccount-brand-name } til at holde dem synkroniserede.
 
 resources = Læs mere:
 support-link = Brug Profilmanageren - artikel
