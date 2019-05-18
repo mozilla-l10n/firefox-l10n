@@ -241,7 +241,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Tvarkyti sparčiuosius klavišus priedams
     .accesskey = s
-shortcuts-empty-message = Šiam priedui sparčiųjų klavišų nėra.
 shortcuts-no-addons = Neturite jokių įjungtų priedų.
 shortcuts-no-commands = Šie priedai neturi sparčiųjų klavišų komandų:
 shortcuts-input =
@@ -295,20 +294,38 @@ created-by-author = sukūrė <a data-l10n-name="author">{ $author }</a>
 user-count = Naudotojų: { $dailyUsers }
 install-extension-button = Pridėti į „{ -brand-product-name }“
 install-theme-button = Įdiegti grafinį apvalkalą
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Tvarkyti
+find-more-addons = Rasti daugiau priedų
 
 ## Add-on actions
 
+report-addon-button = Pranešti
 remove-addon-button = Pašalinti
 disable-addon-button = Išjungti
 enable-addon-button = Įjungti
 expand-addon-button = Daugiau veiksmų
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Nuostatos
+       *[other] Nuostatos
+    }
 addons-enabled-heading = Įjungta
 addons-disabled-heading = Išjungta
+ask-to-activate-button = Klausti prieš aktyvinant
+always-activate-button = Visada aktyvinti
+never-activate-button = Niekada neaktyvinti
 addon-detail-author-label = Autorius
 addon-detail-version-label = Laida
 addon-detail-last-updated-label = Paskiausiai atnaujintas
 addon-detail-homepage-label = Svetainė
 addon-detail-rating-label = Įvertinimas
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Įvertinta { NUMBER($rating, maximumFractionDigits: 1) } iš 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -325,3 +342,22 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">„{ $addon }“</span> buvo pašalintas.
+pending-uninstall-undo-button = Atšaukti
+addon-detail-updates-label = Leisti automatinius naujinimus
+addon-detail-updates-radio-default = Numatytasis
+addon-detail-updates-radio-on = Taip
+addon-detail-updates-radio-off = Ne
+addon-detail-update-check-label = Tikrinti, ar yra naujinimų
+install-update-button = Atnaujinti
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Leidžiama privačiojo naršymo languose
+addon-detail-private-browsing-help = Leidus, priedas turės priėjimą prie jūsų veiklos internete naršant privačiai. <a data-l10n-name="learn-more">Sužinokite daugiau</a>
+addon-detail-private-browsing-allow = Leisti
+addon-detail-private-browsing-disallow = Neleisti
+available-updates-heading = Galimi naujinimai
+recent-updates-heading = Paskiausiai atnaujinti
