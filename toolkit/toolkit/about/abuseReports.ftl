@@ -21,6 +21,7 @@ abuse-report-submit-button = Υποβολή
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+abuse-report-messagebar-submitting = Αποστολή αναφοράς για το <span data-l10n-name="addon-name">{ $addon-name }</span>.
 
 ## Message bars actions.
 
@@ -34,4 +35,5 @@ abuse-report-messagebar-action-cancel = Ακύρωση
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-damage-reason = Βλάπτει τον υπολογιστή και τα δεδομένα μου
+abuse-report-unwanted-example = Παράδειγμα: Μια εφαρμογή το εγκατέστησε χωρίς την άδειά μου
 abuse-report-other-reason = Κάτι άλλο
