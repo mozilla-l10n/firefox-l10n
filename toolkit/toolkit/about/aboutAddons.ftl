@@ -272,6 +272,19 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Οι επεκτάσεις και τα θέματα είναι σαν εφαρμογές για το πρόγραμμα περιήγησής σας και σας επιτρέπουν
+    να προστατεύετε τους κωδικούς πρόσβασής σας, να κάνετε λήψη βίντεο, να βρίσκετε προσφορές, να αποκλείσετε ενοχλητικές διαφημίσεις, να αλλάξετε
+    την εμφάνιση του προγράμματος περιήγησής σας και πολλά άλλα. Αυτά τα μικρά προγράμματα
+    αναπτύσσονται συνήθως από τρίτους. Ορίστε μια συλλογή που το { -brand-product-name }
+    <a data-l10n-name="learn-more-trigger">προτείνει</a> για εξαιρετική
+    ασφάλεια, επιδόσεις και λειτουργικότητα.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Μερικές από αυτές τις προτάσεις είναι εξατομικευμένες. Βασίζονται σε άλλες
+    επεκτάσεις που έχετε εγκαταστήσει, σε προτιμήσεις προφίλ και σε στατιστικά χρήσης.
 discopane-notice-learn-more = Μάθετε περισσότερα
 privacy-policy = Πολιτική απορρήτου
 # Refers to the author of an add-on, shown below the name of the add-on.
@@ -311,6 +324,11 @@ addon-detail-version-label = Έκδοση
 addon-detail-last-updated-label = Τελευταία ενημέρωση
 addon-detail-homepage-label = Αρχική σελίδα
 addon-detail-rating-label = Βαθμολογία
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Με βαθμό { NUMBER($rating, maximumFractionDigits: 1) } από 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -326,6 +344,9 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = Το <span data-l10n-name="addon-name">{ $addon }</span> έχει αφαιρεθεί.
 pending-uninstall-undo-button = Αναίρεση
 addon-detail-updates-label = Να επιτρέπονται αυτόματες ενημερώσεις
 addon-detail-updates-radio-default = Προεπιλογή
@@ -337,6 +358,7 @@ install-update-button = Ενημέρωση
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Επιτρέπεται σε ιδιωτικά παράθυρα
+addon-detail-private-browsing-help = Όταν επιτρέπεται, η επέκταση θα έχει πρόσβαση στις δραστηριότητές σας στο διαδίκτυο κατά την ιδιωτική περιήγηση. <a data-l10n-name="learn-more">Μάθετε περισσότερα</a>
 addon-detail-private-browsing-allow = Αποδοχή
 addon-detail-private-browsing-disallow = Απόρριψη
 available-updates-heading = Διαθέσιμες ενημερώσεις

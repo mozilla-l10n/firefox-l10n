@@ -15,6 +15,7 @@ about-telemetry-option-group-older = Παλαιότερα
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Δεδομένα τηλεμετρίας
+about-telemetry-current-store = Τρέχον αποθετήριο:
 about-telemetry-more-information = Ψάχνετε περισσότερες πληροφορίες;
 about-telemetry-firefox-data-doc = Η <a data-l10n-name="data-doc-link">τεκμηρίωση δεδομένων του Firefox</a> περιέχει οδηγίες σχετικά με το πώς να εργαστείτε με τα εργαλεία δεδομένων μας.
 about-telemetry-telemetry-client-doc = Η <a data-l10n-name="client-doc-link">τεκμηρίωση πελάτη τηλεμετρίας του Firefox</a> περιλαμβάνει ορισμούς για ιδέες, τεκμηρίωση API και αναφορές δεδομένων.
