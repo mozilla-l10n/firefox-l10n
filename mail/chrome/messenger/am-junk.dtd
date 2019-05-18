@@ -21,11 +21,11 @@
 <!ENTITY whitelistHeader.accesskey "N">
 
 <!ENTITY ispHeadersWarning.label "Aktivigu por ke &brandShortName; aŭtomate marki mesaĝojn kiel nedeziratajn surbaze de datumoj de ekstera liveranto.">
-<!ENTITY ispHeaders.label "Trust junk mail headers set by: ">
-<!ENTITY ispHeaders.accesskey "T">
+<!ENTITY ispHeaders.label "Fidi je mesaĝkapoj de trudmesaĝoj liverataj de: ">
+<!ENTITY ispHeaders.accesskey "F">
 
-<!ENTITY junkClassification.label "Selection">
-<!ENTITY junkActions.label "Destination and Retention">
+<!ENTITY junkClassification.label "Filtrado">
+<!ENTITY junkActions.label "Movado kaj forigado">
 
-<!ENTITY globalJunkPrefs.label "Global Junk Preferences…">
-<!ENTITY globalJunkPrefs.accesskey "G">
+<!ENTITY globalJunkPrefs.label "Ĝeneralaj agordoj de trudmesaĝoj…">
+<!ENTITY globalJunkPrefs.accesskey "e">

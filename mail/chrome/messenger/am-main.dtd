@@ -4,12 +4,12 @@
 
 <!-- extracted from am-main.xul -->
 
-<!ENTITY accountTitle.label "Account Settings">
-<!ENTITY accountName.label "Account Name:">
+<!ENTITY accountTitle.label "Agordoj de konto">
+<!ENTITY accountName.label "Nomo de konto:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY identityTitle.label "Default Identity">
-<!ENTITY identityDesc.label "Each account has an identity, which is the information that other people see when they read your messages.">
-<!ENTITY name.label "Your Name:">
+<!ENTITY identityTitle.label "Implicita identigo">
+<!ENTITY identityDesc.label "Ĉiu konto havas sian identigon: informoj videblaj por aliaj homoj, kiam ili legas viajn mesaĝojn.">
+<!ENTITY name.label "Via nomo:">
 <!ENTITY name.accesskey "Y">
 <!ENTITY email.label "Email Address:">
 <!ENTITY email.accesskey "E">
