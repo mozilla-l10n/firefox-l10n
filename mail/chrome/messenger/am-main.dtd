@@ -41,3 +41,5 @@
 <!ENTITY smtpName.accesskey "l">
 <!ENTITY smtpDefaultServer.label "Uzi implicitan servilon">
 
+<!ENTITY smtpServerEdit.label "Redakti servilon SMTP…">
+<!ENTITY smtpServerEdit.accesskey "P">
