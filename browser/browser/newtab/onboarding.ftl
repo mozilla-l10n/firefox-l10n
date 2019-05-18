@@ -27,6 +27,7 @@ onboarding-join-form-body = Увядзіце ваш адрас эл.пошты �
 onboarding-join-form-email =
     .placeholder = Увядзіце адрас эл.пошты
 onboarding-join-form-email-error = Патрабуецца сапраўдны адрас эл.пошты
+onboarding-join-form-legal = Працягваючы, вы згаджаецеся з <a data-l10n-name="terms">Умовамі абслугоўвання</a> і <a data-l10n-name="privacy">Палітыкай прыватнасці</a>.
 onboarding-join-form-continue = Працягнуць
 onboarding-start-browsing-button-label = Пачаць агляданне
 
@@ -34,6 +35,7 @@ onboarding-start-browsing-button-label = Пачаць агляданне
 ## description.
 
 onboarding-benefit-products-title = Карысныя прадукты
+onboarding-benefit-products-text = Рабіце свае справы з дапамогай сямейства інструментаў, якое паважае вашу прыватнасць на ўсіх вашых прыладах.
 onboarding-benefit-knowledge-title = Практычныя веды
 onboarding-benefit-privacy-title = Сапраўдная прыватнасць
 
@@ -55,10 +57,24 @@ onboarding-ghostery-text = Зрабіце агляд хутчэйшым, бяс�
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Сінхранізаваць
 onboarding-fxa-text = Зарэгіструйцеся ў { -fxaccount-brand-name } і сінхранізуйце свае закладкі, паролі і адкрытыя карткі ўсюды, дзе карыстаецеся { -brand-short-name }.
+onboarding-tracking-protection-title = Кантралюйце асочванне
+# "Update" is a verb, as in "Update the existing settings", not "Options about
+# updates".
+onboarding-tracking-protection-button =
+    { PLATFORM() ->
+        [windows] Абнавіць налады
+       *[other] Абнавіць перавагі
+    }
 onboarding-tracking-protection-title2 = Абарона ад сачэння
 onboarding-tracking-protection-button2 = Як гэта працуе
+onboarding-data-sync-title = Вазьміце свае налады з сабой
+# "Sync" is short for synchronize.
+onboarding-data-sync-text = Сінхранізуйце закладкі і паролі ўсюды, дзе вы карыстаецеся { -brand-product-name }.
 onboarding-data-sync-button = Уключыць { -sync-brand-short-name }
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Сінхранізуйце закладкі, паролі і многае іншае ўсюды, дзе вы карыстаецеся { -brand-product-name }.
 onboarding-data-sync-button2 = Увайсці ў { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Падпішыцеся на абвесткі аб уцечках дадзеных
 onboarding-firefox-monitor-button = Падпісацца на абвестку
 onboarding-browse-privately-title = Аглядайце прыватна
 onboarding-browse-privately-button = Адкрыць прыватнае акно
