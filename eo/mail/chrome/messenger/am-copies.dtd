@@ -5,7 +5,7 @@
 <!-- extracted from am-copies.xul -->
 
 <!ENTITY copyAndFolderTitle.label "Kopioj kaj mesaĝujoj">
-<!ENTITY sendingPrefix.label "Kiam sendi mesaĝojn aŭtomate:">
+<!ENTITY sendingPrefix.label "Kiam sendi mesaĝojn aŭtomate: ">
 <!ENTITY fccMailFolder.label "enmeti iliajn kopiojn en:">
 <!ENTITY fccMailFolder.accesskey "k">
 <!ENTITY fccReplyFollowsParent.label "enmeti respondon en la sama mesaĝujo kiel respondata mesaĝo">
@@ -23,7 +23,7 @@
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "la mesaĝujon “senditujo” de konto:">
 <!ENTITY sentFolderOn.accesskey "j">
-<!ENTITY sentInOtherFolder.label "mesaĝujon:">
+<!ENTITY sentInOtherFolder.label "alian mesaĝujon:">
 <!ENTITY sentInOtherFolder.accesskey "n">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "Arĥivo">
@@ -31,20 +31,20 @@
 <!ENTITY keepArchives.accesskey "A">
 <!ENTITY archiveHierarchyButton.label "Agordoj de arĥivigo…">
 <!ENTITY archiveHierarchyButton.accesskey "g">
-<!ENTITY archivesFolderOn.label "&quot;Archives&quot; Folder on:">
-<!ENTITY archivesFolderOn.accesskey "n">
-<!ENTITY archiveInOtherFolder.label "Other:">
-<!ENTITY archiveInOtherFolder.accesskey "h">
-<!ENTITY specialFolders.label "Drafts and Templates">
-<!ENTITY keepDrafts2.label "Keep draft messages in:">
+<!ENTITY archivesFolderOn.label "la mesaĝujon “arĥivo” de konto:">
+<!ENTITY archivesFolderOn.accesskey "t">
+<!ENTITY archiveInOtherFolder.label "alian mesaĝujon:">
+<!ENTITY archiveInOtherFolder.accesskey "u">
+<!ENTITY specialFolders.label "Malnetoj kaj ŝablonoj">
+<!ENTITY keepDrafts2.label "Konservi malnetajn mesaĝojn en:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "&quot;Drafts&quot; Folder on:">
-<!ENTITY draftsFolderOn.accesskey "D">
-<!ENTITY draftInOtherFolder.label "Other:">
-<!ENTITY draftInOtherFolder.accesskey "t">
-<!ENTITY keepTemplates.label "Keep message templates in:">
+<!ENTITY draftsFolderOn.label "la mesaĝujon “malnetujo” de konto:">
+<!ENTITY draftsFolderOn.accesskey "m">
+<!ENTITY draftInOtherFolder.label "alian mesaĝujon:">
+<!ENTITY draftInOtherFolder.accesskey "ĝ">
+<!ENTITY keepTemplates.label "Ŝablonoj de mesaĝoj konservi en:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "&quot;Templates&quot; Folder on:">
-<!ENTITY templatesFolderOn.accesskey "m">
-<!ENTITY templateInOtherFolder.label "Other:">
-<!ENTITY templateInOtherFolder.accesskey "e">
+<!ENTITY templatesFolderOn.label "la mesaĝujon “ŝablonoj” de konto:">
+<!ENTITY templatesFolderOn.accesskey "b">
+<!ENTITY templateInOtherFolder.label "alian mesaĝujon:">
+<!ENTITY templateInOtherFolder.accesskey "l">
