@@ -3,21 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pane.title                   "Konfirmoj pri legi">
-<!ENTITY useGlobalPrefs.label         "Uzi miajn ĝeneralajn agordojn pri leg‑konfirmoj por tiu ĉi konto">
+<!ENTITY useGlobalPrefs.label         "Uzi miajn ĝeneralajn agordojn de leg‑konfirmoj por tiu ĉi konto">
 <!ENTITY useGlobalPrefs.accesskey     "U">
 <!ENTITY globalReceipts.label         "Ĝeneralaj agordoj…">
 <!ENTITY globalReceipts.accesskey     "a">
-<!ENTITY useCustomPrefs.label         "Propraj agordoj pri leg‑konfirmoj por tiu ĉi konto">
+<!ENTITY useCustomPrefs.label         "Propraj agordoj de leg‑konfirmoj por tiu ĉi konto">
 <!ENTITY useCustomPrefs.accesskey     "P">
-<!ENTITY requestReceipt.label         "Kiam sendi mesaĝojn, ĉiam peti pri leg‑konfirmon">
-<!ENTITY requestReceipt.accesskey     "W">
-<!ENTITY receiptArrive.label          "When a receipt arrives:">
-<!ENTITY leaveIt.label                "Leave it in my Inbox">
-<!ENTITY leaveIt.accesskey            "I">
+<!ENTITY requestReceipt.label         "Kiam sendi mesaĝojn, ĉiam peti pri leg‑konfirmo">
+<!ENTITY requestReceipt.accesskey     "s">
+<!ENTITY receiptArrive.label          "Ricevitajn leg‑konfirmojn:">
+<!ENTITY leaveIt.label                "restigi en “ricevujo”">
+<!ENTITY leaveIt.accesskey            "r">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
-<!ENTITY moveToSent.label             "Move it to my &quot;Sent&quot; folder">
-<!ENTITY moveToSent.accesskey         "M">
-<!ENTITY requestMDN.label             "When I receive a request for a return receipt:">
+<!ENTITY moveToSent.label             "movi al “senditujo”">
+<!ENTITY moveToSent.accesskey         "m">
+<!ENTITY requestMDN.label             "Post ricevi leg‑konfirmon:">
 <!ENTITY returnSome.label             "Allow return receipts for some messages">
 <!ENTITY returnSome.accesskey         "e">
 <!ENTITY never.label                  "Never send a return receipt">
