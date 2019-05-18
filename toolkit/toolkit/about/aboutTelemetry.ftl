@@ -15,6 +15,7 @@ about-telemetry-option-group-older = Senesni
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Telemetrijos duomenys
+about-telemetry-current-store = Dabartinė saugykla:
 about-telemetry-more-information = Ieškote daugiau informacijos?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">„Firefox“ duomenų dokumentacijoje</a> rasite pagalbos apie tai, kaip dirbti su mūsų duomenų įrankiais.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">„Firefox“ telemetrijos kliento dokumentacijoje</a> rasite sąvokų apibrėžimus, API dokumentaciją bei duomenų rodyklę.

@@ -201,6 +201,7 @@ gpu-device-id = Įrenginio ID
 gpu-subsys-id = Posistemio ID
 gpu-drivers = Tvarkyklės
 gpu-ram = RAM
+gpu-driver-vendor = Tvarkyklės leidėjas
 gpu-driver-version = Tvarkyklės laida
 gpu-driver-date = Tvarkyklės data
 gpu-active = Aktyvi
