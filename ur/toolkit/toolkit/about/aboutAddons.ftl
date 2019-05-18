@@ -205,3 +205,21 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = تازہ کاریاں تنصیب کریں
     .tooltiptext = اس فہرست میں دستیاب تازہ کاریاں تنصیب کریں
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+disable-addon-button = غیر فعال
+enable-addon-button = فعال
+addons-enabled-heading = فعال
+addons-disabled-heading = غیر فعال
+
+## Pending uninstall message bar
+
+addon-detail-updates-radio-on = آن کریں
+addon-detail-updates-radio-off = بند کریں

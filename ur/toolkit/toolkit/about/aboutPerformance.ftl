@@ -5,6 +5,7 @@
 
 ## Column headers
 
+column-name = نام
 column-type = قسم
 
 ## Special values for the Name column
@@ -13,6 +14,7 @@ column-type = قسم
 ## Values for the Type column
 
 type-tab = ٹیب
+type-tracker = ٹریکر
 type-browser = براؤزر
 
 ## Values for the Energy Impact column
@@ -30,3 +32,5 @@ type-browser = براؤزر
 
 ## Tooltips for the action buttons
 
+close-tab =
+    .title = ٹیب بند کریں
