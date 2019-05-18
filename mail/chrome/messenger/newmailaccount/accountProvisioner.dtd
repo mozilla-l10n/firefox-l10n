@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Boas-vindas ao &brandShortName;">
-<!ENTITY header2.label "Deseja um novo endereço de e-mail?">
+<!ENTITY header2.label "Quer um novo endereço de e-mail?">
 <!ENTITY other.languages "Apenas mostramos os provedores que oferecem endereços para a sua região. Clique aqui para mostrar todos os provedores.">
 <!ENTITY error.line1 "Desculpe, não encontramos nenhuma sugestão de endereço de e-mail.">
 <!ENTITY error.line2 "Você pode tentar pesquisar por apelidos ou qualquer outro termo para procurar mais e-mails.">
