@@ -21,6 +21,7 @@ policy-Bookmarks = Crear marcadores en la barra de herramientas de marcadores, e
 policy-CaptivePortal = Activar o desactivar soporte de portal cautivo.
 policy-CertificatesDescription = Añade certificados o usa los certificados integrados.
 policy-Cookies = Permitir o negar a los sitios web establecer cookies.
+policy-DefaultDownloadDirectory = Establecer la carpeta de descargas predeterminada
 policy-DisableAppUpdate = Evitar que el navegador se actualice.
 policy-DisableBuiltinPDFViewer = Deshabilitar PDF.js, el visor de PDF integrado en { -brand-short-name }.
 policy-DisableDeveloperTools = Bloquear acceso a las herramientas de desarrollador.
@@ -45,13 +46,16 @@ policy-DisplayBookmarksToolbar = Mostrar la barra de herramientas de marcadores 
 policy-DisplayMenuBar = Mostrar la barra de menú por defecto.
 policy-DNSOverHTTPS = Configurar DNS sobre HTTPS.
 policy-DontCheckDefaultBrowser = Deshabilitar revisión del navegador predeterminado al inicio.
+policy-DownloadDirectory = Establecer y fijar la carpeta de descargas
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Habilitar o deshabilitar el bloqueo de contenido y bloquearlo opcionalmente.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Instalar, desinstalar o bloquear extensiones. La opción para "instalar" toma URLs o rutas como parámetros. Las opciones "desinstalar" y "bloquear" toman los ID de las extensiones.
+policy-ExtensionSettings = Gestionar todos los aspectos de la instalación de extensiones.
 policy-ExtensionUpdate = Activar o desactivar actualizaciones automáticas de extensiones.
+policy-FirefoxHome = Configurar el inicio de Firefox.
 policy-FlashPlugin = Permitir o denegar el uso del complemento Flash.
 policy-HardwareAcceleration = De ser falso, desactiva la aceleración por hardware.
 # “lock” means that the user won’t be able to change this setting
