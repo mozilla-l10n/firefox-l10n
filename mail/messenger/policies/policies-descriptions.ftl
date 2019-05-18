@@ -31,3 +31,34 @@ policy-DisableSafeMode = Analluogi'r nodwedd i ailgychwyn yn y Modd Diogel. Sylw
 policy-DisableSecurityBypass = Rhwystro'r defnyddiwr rhag osgoi rhai rhybuddion diogelwch.
 policy-DisableSystemAddonUpdate = Rhwystro { -brand-short-name } rhag gosod a diweddaru ychwanegion y system.
 policy-DisableTelemetry = Diffodd Telemetreg.
+policy-DisplayMenuBar = Dangos y Bar Dewislen drwy ragosodiad.
+policy-DNSOverHTTPS = FFurfweddu DNS dros HTTPS
+policy-DontCheckDefaultClient = Analluogi gwirio am gleient rhagosodedig wrth gychwyn.
+policy-DownloadDirectory = Gosod a chloi'r cyfeiriadur llwytho i lawr.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Galluogi neu analluogi Rhwystro Cynnwys ac o ddewis ei gloi.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = Gosod, dadosod neu gloi estyniadau. Mae'r dewis gosod yn cymryd URL neu lwybrau fel paramedrau. Mae'r dewisiadau Dadosod a Chloi yn cymryd dynodiad estyniadau.
+policy-ExtensionUpdate = Galluogi neu analluogi diweddariadau awtomatig estyniad.
+policy-HardwareAcceleration = Os false, diffoddwch gyflymder y caledwedd.
+policy-InstallAddonsPermission = Caniatáu i wefannau penodol osod ychwanegion.
+policy-LocalFileLinks = Caniatáu i wefannau penodol gysylltu â ffeiliau lleol.
+policy-NetworkPrediction = Galluogi neu analluogi rhagfynegiad rhwydwaith (DNS prefetching).
+policy-OfferToSaveLogins = Gorfodi'r gosodiad i ganiatáu i { -brand-short-name } gynnig cofio mewngofnodion a chyfrineiriau wedi eu cadw. Mae gwerthoedd gwir a gau'n cael eu derbyn.
+policy-OverrideFirstRunPage = Diystyru y dudalen rhediad gyntaf. Gosod y polisi hwn i gwag os ydych am analluogi'r dudalen rhediad cyntaf.
+policy-OverridePostUpdatePage = Diystyru'r dudalen ôl ddiweddaru "Beth sy'n Newydd". Gosodwch y polisi hwn i gwag os hoffech chi analluogi'r dudalen ôl ddiweddaru.
+policy-Preferences = Gosod a chloi'r gwerth ar gyfer is-set o ddewisiadau.
+policy-PromptForDownloadLocation = Gofynnwch ble i arbed ffeiliau wrth eu llwytho i lawr.
+policy-Proxy = Ffurfweddi gosodiadau dirprwyol.
+policy-RequestedLocales = Gosod y rhestr o locales gofynnol ar gyfer y rhaglen yn ôl eich trefn dewis.
+policy-SanitizeOnShutdown2 = Clirio data llywio wrth gau.
+policy-SearchEngines = Ffurfweddu gosodiadau peiriannau chwilio. Dim ond yn y fersiwn Extended Support Release (ESR) mae'r polisi hwn ar gael.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Gosod modiwlau PKCS#11.
+policy-SSLVersionMax = Gosod y fersiwn SSL uchaf.
+policy-SSLVersionMin = Gosodwch y fersiwn SSL leiaf.
+policy-SupportMenu = Ychwanegu eitem dewislen cymorth cyfaddas i'r ddewislen gymorth.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Rhwystro gwefannau rhag derbyn ymweliadau. Gw. dogfennaeth am ragor o wybodaeth ar y fformat.
