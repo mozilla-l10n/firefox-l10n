@@ -7,6 +7,7 @@ about-private-browsing-info-visited = دورہ کردہ صفحہات
 privatebrowsingpage-open-private-window-label = ایک نجی ونڈوں مے کھولیں
     .accesskey = P
 about-private-browsing-info-notsaved = جب آپ نجی دریچوں میں براؤز کریں، { -brand-short-name } <strong>محفوظ نہیں کرسکتا</strong>:
+about-private-browsing-search-placeholder = ويب پر تلاش کريں
 about-private-browsing-info-bookmarks = بک مارک
 about-private-browsing-info-searches = تلاش شدہ
 about-private-browsing-info-downloads = ڈاؤن لوڈ

@@ -6,6 +6,7 @@ restore-page-tab-title = سیشن بحال کریں
 # The title is intended to be apologetic and disarming, expressing dismay
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = معذرت. ہمیں آپ کے صفحات واپس لانیں میں دشواری ہو رہی ہے۔
+restore-page-problem-desc = آخری مرتبہ انٹر نیٹ استعمال سیشن کا معلوم نہیں ہورہا ہے۔ سیشن بحالی کے زریعے دوبارہ کوشش کریں۔
 restore-page-hide-tabs = پچھلا ٹیب چھپائیں
 restore-page-show-tabs = پچھلا ٹیب دیکھیں
 # When tabs are distributed across multiple windows, this message is used as a
