@@ -53,6 +53,7 @@ policy-EnableTrackingProtection = Įjungti arba išjungti turinio blokavimą, ir
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Diegti, šalinti, arba užrakinti priedus. Diegimo nuostata priima URL adresus arba kelius kaip parametrus. Šalinimo ir užrakinimo nuostatos priima priedų ID.
+policy-ExtensionSettings = Tvarkyti visus priedų įdiegimo aspektus.
 policy-ExtensionUpdate = Įjungti arba išjungti automatinius priedų naujinimus.
 policy-FirefoxHome = Konfigūruoti „Firefox“ pradžios ekraną.
 policy-FlashPlugin = Leisti arba drausti „Flash“ plėtinio naudojimą.
