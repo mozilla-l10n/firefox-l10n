@@ -11,3 +11,9 @@
 ## in the documentation section in about:policies.
 
 policy-DisableTelemetry = Απενεργοποίηση τηλεμετρίας.
+policy-HardwareAcceleration = Αν είναι ψευδές, απενεργοποίηση επιτάχυνσης υλικού.
+policy-SanitizeOnShutdown2 = Εκκαθάριση δεδομένων πλοήγησης κατά το κλείσιμο.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Εγκατάσταση μονάδων PKCS #11.
+policy-SSLVersionMax = Ορισμός μέγιστης έκδοσης SSL.
+policy-SSLVersionMin = Ορισμός ελάχιστης έκδοσης SSL.
