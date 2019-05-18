@@ -24,6 +24,7 @@ appmenu-update-unsupported =
     .buttonaccesskey = Μ
     .secondarybuttonlabel = Κλείσιμο
     .secondarybuttonaccesskey = Κ
+appmenu-update-unsupported-message = Η πιο πρόσφατη έκδοση του { -brand-shorter-name } δεν υποστηρίζεται στο σύστημά σας.
 appmenu-update-restart =
     .label = Επανεκκίνηση για ενημέρωση του { -brand-shorter-name }.
     .buttonlabel = Επανεκκίνηση και επαναφορά

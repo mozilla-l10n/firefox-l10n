@@ -13,6 +13,7 @@ learn-more = <span data-l10n-name="link">Μάθετε περισσότερα</sp
 ## Variables:
 ##   $property (string) - A CSS property name e.g. "color".
 
+inactive-css-not-grid-or-flex-container = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν είναι περιέκτης flex ούτε περιέκτης πλέγματος.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
