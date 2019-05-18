@@ -10,17 +10,17 @@
 <!ENTITY move.label "Movi trudmesaĝojn al:">
 <!ENTITY move.accesskey "M">
 <!ENTITY junkFolderOn.label "la mesaĝujo “trudmesaĝujo” de konto:">
-<!ENTITY junkFolderOn.accesskey "J">
-<!ENTITY otherFolder.label "Other:">
-<!ENTITY otherFolder.accesskey "O">
-<!ENTITY purge1.label "Automatically delete junk mail older than">
-<!ENTITY purge1.accesskey "u">
-<!ENTITY purge2.label "days">
+<!ENTITY junkFolderOn.accesskey "t">
+<!ENTITY otherFolder.label "alia mesaĝujo:">
+<!ENTITY otherFolder.accesskey "l">
+<!ENTITY purge1.label "Aŭtomate forigi trudmesaĝojn post">
+<!ENTITY purge1.accesskey "f">
+<!ENTITY purge2.label "tagoj">
 
-<!ENTITY whitelistHeader.label "Do not automatically mark mail as junk if the sender is in: ">
-<!ENTITY whitelistHeader.accesskey "D">
+<!ENTITY whitelistHeader.label "Ne aŭtomate marki mesaĝojn kiel trudmesaĝojn se la sendinto estas en: ">
+<!ENTITY whitelistHeader.accesskey "N">
 
-<!ENTITY ispHeadersWarning.label "If enabled, &brandShortName; will automatically consider messages marked by this external classifier as junk.">
+<!ENTITY ispHeadersWarning.label "Aktivigu por ke &brandShortName; aŭtomate marki mesaĝojn kiel nedeziratajn surbaze de datumoj de ekstera liveranto.">
 <!ENTITY ispHeaders.label "Trust junk mail headers set by: ">
 <!ENTITY ispHeaders.accesskey "T">
 
