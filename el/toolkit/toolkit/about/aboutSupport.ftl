@@ -199,6 +199,7 @@ gpu-device-id = ID συσκευής
 gpu-subsys-id = ID υποσυστήματος
 gpu-drivers = Προγράμματα οδήγησης
 gpu-ram = RAM
+gpu-driver-vendor = Εκδότης προγράμματος οδήγησης
 gpu-driver-version = Έκδοση προγράμματος οδήγησης
 gpu-driver-date = Ημερομηνία οδηγού
 gpu-active = Ενεργό
