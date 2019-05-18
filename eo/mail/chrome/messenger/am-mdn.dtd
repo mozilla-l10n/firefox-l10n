@@ -18,16 +18,16 @@
 <!ENTITY moveToSent.label             "movi al “senditujo”">
 <!ENTITY moveToSent.accesskey         "m">
 <!ENTITY requestMDN.label             "Post ricevi leg‑konfirmon:">
-<!ENTITY returnSome.label             "Allow return receipts for some messages">
-<!ENTITY returnSome.accesskey         "e">
-<!ENTITY never.label                  "Never send a return receipt">
-<!ENTITY never.accesskey              "N">
-<!ENTITY notInToCc.label              "If I'm not in the To or Cc of the message:">
-<!ENTITY notInToCc.accesskey          "T">
-<!ENTITY outsideDomain.label          "If the sender is outside my domain:">
-<!ENTITY outsideDomain.accesskey      "s">
-<!ENTITY otherCases.label             "In all other cases:">
-<!ENTITY otherCases.accesskey         "o">
-<!ENTITY askMe.label                  "Ask me">
-<!ENTITY alwaysSend.label             "Always send">
-<!ENTITY neverSend.label              "Never send">
+<!ENTITY returnSome.label             "sendi leg‑konfirmon nur kiam:">
+<!ENTITY returnSome.accesskey         "n">
+<!ENTITY never.label                  "neniam sendi leg‑konfirmon">
+<!ENTITY never.accesskey              "n">
+<!ENTITY notInToCc.label              "en la kampoj “al” aŭ “kopio” ne estas mia adreso:">
+<!ENTITY notInToCc.accesskey          "k">
+<!ENTITY outsideDomain.label          "la sendinto estas ekster mia nomregno:">
+<!ENTITY outsideDomain.accesskey      "e">
+<!ENTITY otherCases.label             "en ĉiuj aliaj okazoj:">
+<!ENTITY otherCases.accesskey         "l">
+<!ENTITY askMe.label                  "demandi">
+<!ENTITY alwaysSend.label             "ĉiam sendi">
+<!ENTITY neverSend.label              "neniam sendi">
