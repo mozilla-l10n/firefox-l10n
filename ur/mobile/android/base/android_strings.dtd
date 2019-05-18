@@ -4,7 +4,9 @@
 
 <!ENTITY firstrun_panel_title_welcome "خوش آمدید">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; کا انتخاب کرنے کے لئے شکریہ">
+<!ENTITY newfirstrun_urlbar_message "&brandShortName; میں خوش آمدید">
 <!ENTITY firstrun_urlbar_subtext2 "ایک جدید موبائل براؤزر Mozilla سے غیر منافع بخش ایک مفت اور آزاد ویب کے لیے پُر عزم ہے۔">
+<!ENTITY newfirstrun_urlbar_subtext "تیز، نجی، اور آپ کے طرف۔">
 <!ENTITY firstrun_panel_title_privacy "رازداری">
 <!ENTITY firstrun_privacy_message "اس طرح براؤز کریں جیسے کوئی نہیں دیکھ رہا">
 <!ENTITY firstrun_privacy_subtext "سراغ راہ حفاظت کاری کے ساتھ نجی برائوزنگ سراغ راہ کو آپ کی برائوزنگ کے دوران بلاک کرتی اور آپکے سابقات بھی یاد نہیں رکھتی جب آپ برائوزنگ مکمل کرتے ہیں۔">
@@ -65,6 +67,7 @@
 <!ENTITY url_bar_default_text2 "پتہ تلاش یا داخل کریں">
 
 <!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "ويب پر تلاش کريں">
 <!ENTITY search_widget_default_cropped_text "تلاش کریں">
 
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
