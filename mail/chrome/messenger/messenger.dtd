@@ -136,7 +136,7 @@
 <!-- View Menu -->
 <!ENTITY menubarCmd.label "Barra de menu">
 <!ENTITY menubarCmd.accesskey "m">
-<!ENTITY showMessengerToolbarCmd.label "Barra de ferramentas de correio">
+<!ENTITY showMessengerToolbarCmd.label "Barra de ferramentas de e-mai">
 <!ENTITY showMessengerToolbarCmd.accesskey "a">
 <!ENTITY customizeToolbar.label "Personalizar…">
 <!ENTITY customizeToolbar.accesskey "P">

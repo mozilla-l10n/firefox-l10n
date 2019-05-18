@@ -20,9 +20,9 @@
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
 <!ENTITY success.title.before "Olá ">
-<!ENTITY success.title.after ", estes endereços de e-mail estão disponíveis para você:">
+<!ENTITY success.title.after ", esses endereços de e-mail estão disponíveis para você:">
 <!ENTITY success.tip "(você também pode pesquisar por apelidos ou qualquer outro termo para procurar mais e-mails)">
-<!ENTITY partnership.description "Em parceria com diversos provedores, o &brandShortName; pode oferecer a você uma nova conta de e-mail. Para começar, preencha nos campos acima o seu primeiro e último nome ou quaisquer palavras que deseje.">
+<!ENTITY partnership.description "Em parceria com diversos provedores, o &brandShortName; pode oferecer a você uma nova conta de e-mail. Para começar, preencha nos campos acima o seu primeiro e último nome ou quaisquer palavras que deseje. Depois clique no botão Pesquisar.">
 <!ENTITY existing.header "Já tem um endereço que deseja usar?">
 <!ENTITY tinyheader.title "Já tem um e-mail?">
 <!ENTITY tinyheader.existing "Ignorar e usar meu e-mail existente">
