@@ -6,7 +6,7 @@
 <!ENTITY name.label                      "Seu nome:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "Nome">
-<!ENTITY name.text                       "Seu nome, como mostrado aos outros">
+<!ENTITY name.text                       "Seu nome, como será mostrado aos outros">
 <!ENTITY email.label                     "Endereço de e-mail:">
 <!ENTITY email.accesskey                 "E">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
