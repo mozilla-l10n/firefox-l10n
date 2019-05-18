@@ -238,7 +238,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Rheoli Estyniad Llwybrau Byr
     .accesskey = R
-shortcuts-empty-message = Nid oes llwybrau byr ar gyfer yr estyniad hwn.
 shortcuts-no-addons = Nid oes gennych unrhyw estyniadau wedi'u galluogi.
 shortcuts-no-commands = Nid oes gan yr estyniadau canlynol lwybrau byr:
 shortcuts-input =
@@ -305,6 +304,11 @@ remove-addon-button = Tynnu
 disable-addon-button = Analluogu
 enable-addon-button = Galluogi
 expand-addon-button = Rhagor o Opsiynau
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Opsiynau
+       *[other] Dewisiadau
+    }
 addons-enabled-heading = Galluogwyd
 addons-disabled-heading = Analluogwyd
 ask-to-activate-button = Gofyn i'w Weithredu

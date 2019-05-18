@@ -112,10 +112,22 @@ about-debugging-setup-usb-step-enable-debug = Galluogi dadfygio USB yn y Ddewisl
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox = Galluogi Dadfygio USB yn Firefox ar y ddyfais Android. <a>Dysgu sut</a>
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Galluogi dewislen datblygwyr ar eich dyfais Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Galluogi Dadfygio USB yn Newislen Datblygwr Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Galluogi Dadfygio USB yn Firefox ar y ddyfais Android.
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Cysylltu'r ddyfais Android i'ch cyfrifiadur.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = Anhawster cysylltu â'r ddyfais USB? <a>Datrys problemau</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Lleoliad Rhwydwaith
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = Anawsterau cysylltu drwy leoliad rhwydwaith? <a>Datrys problemau</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Ychwanegu
