@@ -9,8 +9,8 @@
 <!ENTITY account.name                  "Salutnomo:">
 <!ENTITY account.password              "Pasvorto:">
 <!ENTITY account.alias                 "Kromnomo:">
-<!ENTITY account.newMailNotification   "Notify on new Mail">
-<!ENTITY account.autojoin              "Auto-Joined Channels:">
-<!ENTITY account.proxySettings.caption "Proxy Settings:">
-<!ENTITY account.proxySettings.change.label     "Change…">
-<!ENTITY account.proxySettings.change.accessKey "C">
+<!ENTITY account.newMailNotification   "Sciigi pri novaj retleteroj">
+<!ENTITY account.autojoin              "Aŭtomate aliĝi al kanaloj:">
+<!ENTITY account.proxySettings.caption "Agordoj de retperanto:">
+<!ENTITY account.proxySettings.change.label     "Ŝanĝi…">
+<!ENTITY account.proxySettings.change.accessKey "n">
