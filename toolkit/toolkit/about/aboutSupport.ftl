@@ -176,6 +176,7 @@ gpu-device-id = ID Thiết bị
 gpu-subsys-id = ID hệ thống con
 gpu-drivers = Trình điều khiển
 gpu-ram = RAM
+gpu-driver-vendor = Nhà cung cấp trình điều khiển
 gpu-driver-version = Phiên bản trình điều khiển
 gpu-driver-date = Ngày ra mắt trình điều khiển
 gpu-active = Hoạt động
