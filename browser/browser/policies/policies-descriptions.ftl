@@ -53,7 +53,7 @@ policy-EnableTrackingProtection = Galluogi neu analluogi Rhwystro Cynnwys ac o d
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Gosod, dadosod neu gloi estyniadau. Mae'r dewis gosod yn cymryd URL neu lwybrau fel paramedrau. Mae'r dewisiadau Dadosod a Chloi yn cymryd dynodiad estyniadau.
-policy-ExtensionSettings = Rheoli pob agwedd ar osod estyniad.
+policy-ExtensionSettings = Rheoli pob agwedd o osod estyniad.
 policy-ExtensionUpdate = Galluogi neu analluogi diweddaru estyniadau'n awtomatig.
 policy-FirefoxHome = Ffurfweddu Firefox Home.
 policy-FlashPlugin = Caniatáu neu wrthod defnydd o'r ychwanegyn Flash.
