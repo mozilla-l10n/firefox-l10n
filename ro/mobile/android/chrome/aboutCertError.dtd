@@ -20,7 +20,7 @@ was trying to connect. -->
 securizat la <b>#1</b>, dar nu putem confirma că conexiunea este securizată.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Ce ar trebui să fac?">
-<!ENTITY certerror.whatShouldIDo.content "Dacă de obicei te conectezi la acest site fără probleme, această eroare ar putea însemna că cineva încearcă să uzurpeze identitatea site-ului și nu ar trebui să continui.">
+<!ENTITY certerror.whatShouldIDo.content "Dacă de obicei te conectezi la acest site fără probleme, această eroare ar putea însemna că cineva încearcă să uzurpe identitatea site-ului și nu ar trebui să continui.">
 <!ENTITY certerror.getMeOutOfHere.label "Du-mă de aici!">
 
 <!ENTITY certerror.expert.heading "Înțeleg riscurile">
