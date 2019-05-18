@@ -4,33 +4,33 @@
 
 <!-- extracted from am-copies.xul -->
 
-<!ENTITY copyAndFolderTitle.label "Copies &amp; Folders">
-<!ENTITY sendingPrefix.label "When sending messages, automatically: ">
-<!ENTITY fccMailFolder.label "Place a copy in:">
-<!ENTITY fccMailFolder.accesskey "P">
-<!ENTITY fccReplyFollowsParent.label "Place replies in the folder of the message being replied to">
-<!ENTITY fccReplyFollowsParent.accesskey "R">
+<!ENTITY copyAndFolderTitle.label "Kopioj kaj mesaĝujoj">
+<!ENTITY sendingPrefix.label "Kiam sendi mesaĝojn aŭtomate:">
+<!ENTITY fccMailFolder.label "enmeti iliajn kopiojn en:">
+<!ENTITY fccMailFolder.accesskey "k">
+<!ENTITY fccReplyFollowsParent.label "enmeti respondon en la sama mesaĝujo kiel respondata mesaĝo">
+<!ENTITY fccReplyFollowsParent.accesskey "r">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
-<!ENTITY ccAddress.label "Cc these email addresses:">
-<!ENTITY ccAddress.accesskey "C">
-<!ENTITY ccAddressList.placeholder "Separate addresses with commas">
+<!ENTITY ccAddress.label "Sendi kopion al:">
+<!ENTITY ccAddress.accesskey "e">
+<!ENTITY ccAddressList.placeholder "retpoŝtaj adresoj disigitaj per komoj">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Bcc these email addresses:">
-<!ENTITY bccAddress.accesskey "B">
-<!ENTITY bccAddressList.placeholder "Separate addresses with commas">
-<!ENTITY saveMessageDlg.label "Show confirmation dialog when messages are saved">
-<!ENTITY saveMessageDlg.accesskey "w">
+<!ENTITY bccAddress.label "Sendi kaŝkopion al:">
+<!ENTITY bccAddress.accesskey "a">
+<!ENTITY bccAddressList.placeholder "retpoŝtaj adresoj disigitaj per komoj">
+<!ENTITY saveMessageDlg.label "Montri konfirmon antaŭ konservi mesaĝojn">
+<!ENTITY saveMessageDlg.accesskey "M">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "&quot;Sent&quot; Folder on:">
-<!ENTITY sentFolderOn.accesskey "S">
-<!ENTITY sentInOtherFolder.label "Other:">
-<!ENTITY sentInOtherFolder.accesskey "O">
+<!ENTITY sentFolderOn.label "la mesaĝujon “senditujo” de konto:">
+<!ENTITY sentFolderOn.accesskey "j">
+<!ENTITY sentInOtherFolder.label "mesaĝujon:">
+<!ENTITY sentInOtherFolder.accesskey "n">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesTitle.label "Message Archives">
-<!ENTITY keepArchives.label "Keep message archives in:">
-<!ENTITY keepArchives.accesskey "K">
-<!ENTITY archiveHierarchyButton.label "Archive options…">
-<!ENTITY archiveHierarchyButton.accesskey "A">
+<!ENTITY archivesTitle.label "Arĥivo">
+<!ENTITY keepArchives.label "Arĥivi mesaĝojn en:">
+<!ENTITY keepArchives.accesskey "A">
+<!ENTITY archiveHierarchyButton.label "Agordoj de arĥivigo…">
+<!ENTITY archiveHierarchyButton.accesskey "g">
 <!ENTITY archivesFolderOn.label "&quot;Archives&quot; Folder on:">
 <!ENTITY archivesFolderOn.accesskey "n">
 <!ENTITY archiveInOtherFolder.label "Other:">
