@@ -86,16 +86,38 @@ onboarding-data-sync-button = Ενεργοποίηση { -sync-brand-short-name 
 onboarding-data-sync-text2 = Συγχρονίστε τους σελιδοδείκτες, τους κωδικούς πρόσβασης και πολλά άλλα όπου χρησιμοποιείτε το { -brand-product-name }.
 onboarding-data-sync-button2 = Σύνδεση στο { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Ενημερωθείτε για παραβιάσεις δεδομένων
+onboarding-firefox-monitor-text = Το { -monitor-brand-name } διαπιστώνει αν το email σας έχει εμφανιστεί σε παραβίαση δεδομένων και σας ειδοποιεί αν εμφανιστεί σε νέα παράβαση.
+onboarding-firefox-monitor-button = Εγγραφή για ειδοποιήσεις
 onboarding-browse-privately-title = Ιδιωτική περιήγηση
+onboarding-browse-privately-text = Η ιδιωτική περιήγηση διαγράφει το ιστορικό αναζήτησης και περιήγησής σας για να διατηρούνται κρυφά από άλλους χρήστες του υπολογιστή σας.
 onboarding-browse-privately-button = Άνοιγμα ιδιωτικού παραθύρου
+onboarding-firefox-send-title = Διατηρήστε τα κοινόχρηστα αρχεία σας ιδιωτικά
+onboarding-firefox-send-text = Το { -send-brand-name } προστατεύει τα αρχεία που μοιράζεστε με κρυπτογράφηση από άκρο σε άκρο και ένα σύνδεσμο που λήγει αυτόματα.
+onboarding-firefox-send-text2 = Μεταφορτώστε τα αρχεία σας στο { -send-brand-name } για να τα μοιραστείτε με κρυπτογράφηση από άκρο σε άκρο και έναν σύνδεσμο που λήγει αυτόματα.
 onboarding-firefox-send-button = Δοκιμή του { -send-brand-name }
 onboarding-mobile-phone-title = Λήψη του { -brand-product-name } στο τηλέφωνό σας
+onboarding-mobile-phone-text = Κάντε λήψη του { -brand-product-name } για iOS ή Android και συγχρονίστε τα δεδομένα σας με όλες τις συσκευές σας.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Λήψη προγράμματος περιήγησης για κινητά
 onboarding-send-tabs-title = Άμεση αποστολή καρτελών στις συσκευές σας
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Η λειτουργία αποστολής καρτελών μοιράζεται άμεσα τις σελίδες σας με τις συσκευές σας χωρίς αντιγραφή-επικόλληση και χωρίς να φύγετε από το πρόγραμμα περιήγησης.
+onboarding-send-tabs-button = Έναρξη χρήσης της αποστολής καρτελών
+onboarding-pocket-anywhere-title = Διαβάστε και ακούστε οπουδήποτε
+# "downtime" refers to the user's free/spare time.
+onboarding-pocket-anywhere-text = Το { -pocket-brand-name } αποθηκεύει αγαπημένες ιστορίες για να τις διαβάζετε, ακούτε και να παρακολουθείτε στον ελεύθερό σας χρόνο, ακόμη και χωρίς σύνδεση στο διαδίκτυο.
+onboarding-pocket-anywhere-text2 = Αποθηκεύστε το αγαπημένο σας περιεχόμενο εκτός σύνδεσης με την εφαρμογή { -pocket-brand-name } και διαβάστε, ακούστε και παρακολουθήστε όποτε σας βολεύει.
+onboarding-pocket-anywhere-button = Δοκιμή του { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Πάρτε τους κωδικούς πρόσβασής σας παντού
+onboarding-lockwise-passwords-text = Το { -lockwise-brand-name } αποθηκεύει τους κωδικούς πρόσβασής σας σε ασφαλές μέρος, ώστε να μπορείτε εύκολα να συνδεθείτε στους λογαριασμούς σας.
 onboarding-lockwise-passwords-button = Λήψη του { -lockwise-brand-name }
+onboarding-lockwise-passwords-text2 = Προστατέψτε τους αποθηκευμένους κωδικούς πρόσβασής σας και συνδεθείτε εύκολα στους λογαριασμούς σας με το { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Λήψη εφαρμογής
+onboarding-facebook-container-title = Θέστε όρια με το Facebook
+onboarding-facebook-container-text = Το { -facebook-container-brand-name } διατηρεί ξεχωριστά την ταυτότητά σας στο Facebook από όλα τα άλλα, κάνοντας πιο δύσκολη την καταγραφή σας στο διαδίκτυο.
+onboarding-facebook-container-text2 = Το { -facebook-container-brand-name } διατηρεί ξεχωριστά το προφίλ σας από όλα τα άλλα, εμποδίζοντας τις στοχευμένες διαφημίσεις του Facebook.
 onboarding-facebook-container-button = Προσθήκη επέκτασης
 
 ## Message strings belonging to the Return to AMO flow

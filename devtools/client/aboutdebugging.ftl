@@ -112,10 +112,22 @@ about-debugging-setup-usb-step-enable-debug = Ενεργοποιήστε την 
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox = Ενεργοποιήστε την αποσφαλμάτωση USB στο Firefox στη συσκευή Android. <a> Μάθετε πώς</a>
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Ενεργοποιήστε το μενού προγραμματιστών στην Android συσκευή σας.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Ενεργοποιήστε την αποσφαλμάτωση μέσω USB στο μενού προγραμματιστών Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Ενεργοποιήστε την αποσφαλμάτωση μέσω USB στο Firefox της Android συσκευής σας.
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Συνδέστε τη συσκευή Android στον υπολογιστή σας.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = Προβλήματα σύνδεσης στη συσκευή USB; <a>Αντιμετώπιση προβλημάτων</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Τοποθεσία δικτύου
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = Προβλήματα σύνδεσης μέσω τοποθεσίας δικτύου; <a>Αντιμετώπιση προβλημάτων</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Προσθήκη
@@ -164,7 +176,7 @@ about-debugging-runtime-processes =
     .name = Διεργασίες
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
-about-debugging-runtime-profile-button = Περιβάλλον εκτέλεσης προφίλ
+about-debugging-runtime-profile-button2 = Επιδόσεις προφίλ
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
@@ -202,7 +214,7 @@ about-debugging-connection-prompt-enable-button = Ενεργοποίηση πρ�
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = Απενεργοποίηση προτροπής σύνδεσης
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
-about-debugging-profiler-dialog-title = Profiler επιδόσεων
+about-debugging-profiler-dialog-title2 = Πρόγραμμα δημιουργίας προφίλ
 # Label of a checkbox displayed in the runtime page for "This Firefox".
 # This checkbox will toggle preferences that enable local addon debugging.
 # The "Learn more" link points to MDN.
