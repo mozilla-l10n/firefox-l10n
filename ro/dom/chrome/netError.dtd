@@ -69,7 +69,7 @@
 
 <!ENTITY nssBadCert.title "Conexiunea securizată a eșuat">
 <!ENTITY nssBadCert.longDesc2 "<ul>
-<li>Aceasta s-ar putea datora unei probleme în configurația serverului sau ar putea să fie cineva care încearcă să uzurpeze identitatea serverului.</li>
+<li>Aceasta ar putea fi din cauza unei probleme în configurația serverului sau ar putea să fie cineva care încearcă să uzurpe identitatea serverului.</li>
 <li>Dacă te-ai conectat cu succes în trecut la acest server, eroarea poate fi temporară și poți încerca din nou mai târziu.</li>
 </ul>">
 
