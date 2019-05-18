@@ -22,6 +22,7 @@ onboarding-button-label-get-started = Έναρξη
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Καλώς ήλθατε στο { -brand-short-name }
+onboarding-welcome-learn-more = Μάθετε περισσότερα σχετικά με τα οφέλη.
 onboarding-join-form-email =
     .placeholder = Εισάγετε το email σας
 onboarding-join-form-email-error = Απαιτείται έγκυρο email
@@ -32,6 +33,7 @@ onboarding-start-browsing-button-label = Έναρξη περιήγησης
 ## description.
 
 onboarding-benefit-products-title = Χρήσιμα προϊόντα
+onboarding-benefit-knowledge-title = Πρακτικές γνώσεις
 onboarding-benefit-privacy-title = Πραγματική ιδιωτικότητα
 
 ## These strings belong to the individual onboarding messages.
