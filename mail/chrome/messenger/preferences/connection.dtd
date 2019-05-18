@@ -42,14 +42,11 @@
 <!ENTITY  shareproxy.accesskey          "δ">
 <!ENTITY  autologinproxy.label          "Να μην ζητείται έλεγχος ταυτοποίησης αν είναι αποθηκευμένος ο κωδικός πρόσβασης">
 <!ENTITY  autologinproxy.accesskey      "α">
-<!ENTITY  autologinproxy.tooltip        "Αυτή η επιλογή σας ταυτοποιεί σιωπηλά στους διαμεσολαβητές όταν έχετε αποθηκευμένα τα στοιχεία πρόσβασης για αυτούς. Θα ειδοποιηθείτε αν η ταυτοποίηση αποτύχει.">
+<!ENTITY  autologinproxy.tooltip        "Αυτή η επιλογή κάνει κρυφά την ταυτοποίησή σας σε διαμεσολαβητές, όταν έχετε αποθηκευμένα τα διαπιστευτήριά τους. Θα ειδοποιηθείτε αν αποτύχει η ταυτοποίηση.">
 <!ENTITY  socksRemoteDNS.label          "Διαμεσολαβητής DNS κατά τη χρήση του SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  dnsOverHttps.label            "Ενεργοποίηση DNS αντί HTTPS">
 <!ENTITY  dnsOverHttps.accesskey        "γ">
-<!ENTITY  dnsOverHttpsUrl.label         "URL">
-<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
-<!ENTITY  dnsOverHttpsUrl.tooltip       "URL για επίλυση DNS αντί HTTPS">
 <!ENTITY  dnsOverHttpsUrlDefault.label     "Χρήση προεπιλογής">
 <!ENTITY  dnsOverHttpsUrlDefault.accesskey "λ">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Να χρησιμοποιηθεί η προκαθορισμένη διεύθυνση URL για την επίλυση DNS μέσω HTTPS">

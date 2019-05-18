@@ -374,7 +374,7 @@
 <!ENTITY editDraftMsgCmd.accesskey "χ">
 <!ENTITY editTemplateMsgCmd.label "Επεξεργασία πρότυπου">
 <!ENTITY editTemplateMsgCmd.accesskey "Π">
-<!ENTITY newMsgFromTemplateCmd.label "Νέο μήνυμα βάσει προτύπου">
+<!ENTITY newMsgFromTemplateCmd.label "Νέο μήνυμα από πρότυπο">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Δημιουργία φίλτρου από μήνυμα…">
 <!ENTITY createFilter.accesskey "α">
@@ -752,7 +752,7 @@
 <!ENTITY attachmentColumn2.tooltip "Ταξινόμηση κατά συνημμένο">
 
 <!-- Thread Pane Context Menu -->
-<!ENTITY contextNewMsgFromTemplate.label "Νέο μήνυμα βάσει προτύπου">
+<!ENTITY contextNewMsgFromTemplate.label "Νέο μήνυμα από πρότυπο">
 <!ENTITY contextOpenNewWindow.label "Άνοιγμα μηνύματος σε νέο παράθυρο">
 <!ENTITY contextOpenNewWindow.accesskey "ν">
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
