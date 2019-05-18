@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pane.title                   "Return Receipts">
-<!ENTITY useGlobalPrefs.label         "Use my global return receipt preferences for this account">
+<!ENTITY pane.title                   "Konfirmoj pri legi">
+<!ENTITY useGlobalPrefs.label         "Uzi miajn ĝeneralajn agordojn pri leg‑konfirmoj por tiu ĉi konto">
 <!ENTITY useGlobalPrefs.accesskey     "U">
-<!ENTITY globalReceipts.label         "Global Preferences…">
-<!ENTITY globalReceipts.accesskey     "G">
-<!ENTITY useCustomPrefs.label         "Customize return receipts for this account">
-<!ENTITY useCustomPrefs.accesskey     "C">
-<!ENTITY requestReceipt.label         "When sending messages, always request a return receipt">
+<!ENTITY globalReceipts.label         "Ĝeneralaj agordoj…">
+<!ENTITY globalReceipts.accesskey     "a">
+<!ENTITY useCustomPrefs.label         "Propraj agordoj pri leg‑konfirmoj por tiu ĉi konto">
+<!ENTITY useCustomPrefs.accesskey     "P">
+<!ENTITY requestReceipt.label         "Kiam sendi mesaĝojn, ĉiam peti pri leg‑konfirmon">
 <!ENTITY requestReceipt.accesskey     "W">
 <!ENTITY receiptArrive.label          "When a receipt arrives:">
 <!ENTITY leaveIt.label                "Leave it in my Inbox">
