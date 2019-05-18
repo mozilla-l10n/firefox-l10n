@@ -112,6 +112,8 @@ about-debugging-setup-usb-step-enable-debug = Activa la depuración USB en el me
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox = Activa la depuración USB en Firefox en el dispositivo Android. <a>Aprender cómo</a>
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Activar menú de desarrollo en tu dispositivo Android.
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Conecta el dispositivo Android a tu computador.
 # Network section of the Setup page
 about-debugging-setup-network =
@@ -164,7 +166,7 @@ about-debugging-runtime-processes =
     .name = Procesos
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
-about-debugging-runtime-profile-button = Perfil del tiempo de ejecución
+about-debugging-runtime-profile-button2 = Rendimiento del perfil
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
@@ -202,7 +204,7 @@ about-debugging-connection-prompt-enable-button = Activar solicitud de conexión
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = Desactivar solicitud de conexión
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
-about-debugging-profiler-dialog-title = Perfilador de rendimiento
+about-debugging-profiler-dialog-title2 = Perfilador
 # Label of a checkbox displayed in the runtime page for "This Firefox".
 # This checkbox will toggle preferences that enable local addon debugging.
 # The "Learn more" link points to MDN.

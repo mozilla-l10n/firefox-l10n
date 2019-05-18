@@ -80,14 +80,28 @@ onboarding-tracking-protection-text2 = { -brand-short-name } ayuda a detener los
 onboarding-tracking-protection-button2 = Cómo funciona
 onboarding-data-sync-title = Lleva tus ajustes contigo
 onboarding-data-sync-button = Activar { -sync-brand-short-name }
+onboarding-data-sync-button2 = Conéctate a { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Mantente alerta a las filtraciones de datos
 onboarding-firefox-monitor-button = Suscríbete para recibir alertas
+onboarding-browse-privately-title = Navega de forma privada
 onboarding-browse-privately-button = Abrir una ventana privada
 onboarding-firefox-send-title = Mantén tus archivos compartidos privados
+onboarding-firefox-send-text2 = Sube tus archivos a { -send-brand-name } para compartirlos con cifrado de extremo a extremo y con un enlace que expira de forma automática.
 onboarding-firefox-send-button = Prueba { -send-brand-name }
+onboarding-mobile-phone-title = Obtener { -brand-product-name } en el teléfono
+onboarding-mobile-phone-text = Baja { -brand-product-name } para iOS o Android y sincroniza tus datos entre dispositivos
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Bajar navegador móvil
+onboarding-send-tabs-title = Envíate las pestañas de forma instantánea
 onboarding-send-tabs-button = Empieza a usar Send Tabs
+onboarding-pocket-anywhere-title = Lee y escucha en todas partes
+onboarding-pocket-anywhere-button = Prueba { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Lleva tus contraseñas a todas partes
+onboarding-lockwise-passwords-button = Obtén { -lockwise-brand-name }
 onboarding-lockwise-passwords-button2 = Conseguir la aplicación
+onboarding-facebook-container-title = Establece la frontera con Facebook
+onboarding-facebook-container-button = Añadir la extensión
 
 ## Message strings belonging to the Return to AMO flow
 
