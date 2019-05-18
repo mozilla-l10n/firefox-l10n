@@ -8,23 +8,26 @@ releaseNotes-link = نیا کیا ہے
 update-checkForUpdatesButton =
     .label = اپڈیٹ دیکھیں
     .accesskey = C
-update-checkingForUpdates = تازہ کاریوں کے لیے پڑتال کر رہا ہے…
+update-updateButton =
+    .label = { -brand-shorter-name } اپڈیٹ دوبارہ شروع کریں
+    .accesskey = R
+update-checkingForUpdates = اپڈیٹ کے لیے دیکھ رہا ہے…
 update-downloading = <img data-l10n-name="icon"/>تازہ کاری ڈاؤن لوڈ کر رہا ہے—<label data-l10n-name="download-status"/>
-update-applying = تازہ کاری لگائیں ...
-update-failed = تازہ کاری ناکام ہو گئی۔<label data-l10n-name="failed-link">تازہ ترین ورژن ڈاؤن لوڈ کریں</label>
-update-failed-main = تازہ کاری ناکام ہو گئی۔<a data-l10n-name="failed-link-main">تازہ ترین ورژن ڈاؤن لوڈ کریں</a>
-update-adminDisabled = تازہ کاریاں آپ کے نظام کے منتظم کی طرف سے نااہل شدہ ہیں
-update-noUpdatesFound = { -brand-short-name } تازہ ترین ہے
-update-otherInstanceHandlingUpdates = { -brand-short-name } ایک اور صورت سے تازہ ہو رہا ہے
-update-manual = تازہ کاریاں یہاں دستیاب ہیں  <label data-l10n-name="manual-link"/>
-update-unsupported = آپ اس نظام پر مزید تازہ کاریاں نہیں کر سکتے۔<label data-l10n-name="unsupported-link">مزید سیکھیں</label>
+update-applying = اپڈیٹ کرتے ہوئے ...
+update-failed = اپڈیٹ نہیں ہوسکا۔<label data-l10n-name="failed-link">تازہ ترین ورژن ڈاؤن لوڈ کریں</label>
+update-failed-main = اپڈیٹ نہیں ہوسکا۔<a data-l10n-name="failed-link-main">تازہ ترین ورژن ڈاؤن لوڈ کریں</a>
+update-adminDisabled = آپ کے سسٹم ایڈمن نے اپڈیٹ کو بند کیا ہوا ہے
+update-noUpdatesFound = { -brand-short-name } اپڈیٹ ہے
+update-otherInstanceHandlingUpdates = { -brand-short-name } دوسری جگہ سے اپڈیٹ ہو رہا ہے
+update-manual = اپڈیٹ یہاں دستیاب ہیں  <label data-l10n-name="manual-link"/>
+update-unsupported = آپ اس سسٹم پر مزید اپڈیٹ نہیں کر سکتے۔<label data-l10n-name="unsupported-link">مزید سیکھیں</label>
 update-restarting = دوباره شروع ہو رہا ہے…
-channel-description = آپ اس وقت ادھر ہیں<label data-l10n-name="current-channel"></label>چینل کی تازہ کاری کریں
-warningDesc-version = { -brand-short-name } تجرباتی ہے اور غیر مستحکم ہو سکتا ہے۔
-community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label>ہے ایک<label data-l10n-name="community-exp-creditsLink">عالمی گروه</label>  آپس میں مل کر مواصلاتی جال کو وصیح، عوامی اور قابل رسائی بناۓ ہوۓ-
-community-2 = { -brand-short-name } کے ڈیزائنر ہیں<label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>، آ<label data-l10n-name="community-creditsLink">عالمہ گروہ</label>   آپس میں مل کر مواصلاتی جال کو وصیح، عوامی اور قابل رسائی بناۓ ہوۓ-
-helpus = مدد کرنا چاہیں گے؟ <label data-l10n-name="helpus-donateLink">ڈونیشن دیں</label> یا <label data-l10n-name="helpus-getInvolvedLink">شامل ہوں!</label>
-bottomLinks-license = لائسنس کرنے کی معلومات
+channel-description = آپ اس وقت <label data-l10n-name="current-channel"></label> کی اپڈیٹ چینل میں ہو۔
+warningDesc-version = { -brand-short-name } تجرباتی ہونے کی وجہ سے درست کام نہ کرسکے۔
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label>ایک<label data-l10n-name="community-exp-creditsLink">عالمی حلقے کے طور پر </label> ویب کو عوامی اور سب کے لیے قابل رسائی بنانے کے لیے کام کررہی ہے۔
+community-2 = { -brand-short-name } کے ڈیزائنر ہیں<label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>، آ<label data-l10n-name="community-creditsLink">عالمی حلقے کے طور پر</label> ویب کو عوامی اور قابل رسائی بنانے کے لیے کام کررہی ہے۔
+helpus = مدد کرنا چاہتے ہو؟ <label data-l10n-name="helpus-donateLink">عطیہ کریں</label> یا <label data-l10n-name="helpus-getInvolvedLink">شامل ہوں!</label>
+bottomLinks-license = لائسنس کی معلومات
 bottomLinks-rights = صارف کے حقوق
 bottomLinks-privacy = رازداری پالیسی
 # Example of resulting string: 66.0.1 (64-bit)

@@ -10,3 +10,4 @@
 sync-input =
     .placeholder = ای میل
 sync-button = جاری رکھیں
+sync-learn = مزید سیکھیں
