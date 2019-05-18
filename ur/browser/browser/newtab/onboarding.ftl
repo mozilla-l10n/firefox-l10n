@@ -22,6 +22,8 @@ onboarding-button-label-get-started = شروع کریں
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = { -brand-short-name } میں خوش آمدید
+onboarding-join-form-email =
+    .placeholder = ای میل درز کریں
 onboarding-join-form-continue = جاری رکھیں
 onboarding-start-browsing-button-label = براؤزنگ شروع کریں
 
