@@ -39,7 +39,14 @@ onboarding-start-browsing-button-label = Böngészés megkezdése
 onboarding-benefit-products-title = Hasznos termékek
 onboarding-benefit-products-text = Végezze el a teendőit egy olyan eszközcsaláddal, amely tiszteletben tartja a magánszféráját az összes eszközén.
 onboarding-benefit-knowledge-title = Gyakorlati tudás
+onboarding-benefit-knowledge-text = Tudjon meg mindent, amit tudnia kell ahhoz, hogy okosabb legyen és nagyobb biztonságban legyen online.
 onboarding-benefit-privacy-title = Valódi adatvédelem
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Minden, amit teszünk, betartja a személyes adatokra vonatkozó ígéretünket: Gyűjts kevesebbet. Tartsd biztonságban. Nincsenek titkok.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -59,6 +66,7 @@ onboarding-ghostery-text = Böngésszen gyorsabban, okosabban vagy biztonságosa
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Szinkronizálás
 onboarding-fxa-text = Regisztráljon egy { -fxaccount-brand-name }ot, és szinkronizálja a könyvjelzőit, jelszavait és nyitott lapjait bárhol, ahol { -brand-short-name }ot használ.
+onboarding-tracking-protection-title = Szabja meg hogyan követik
 onboarding-tracking-protection-text = Nem szereti, ha a hirdetések követik Önt? A { -brand-short-name } segít szabályozni, hogy a hirdetők hogyan követhetik nyomon az online tevékenységét.
 # "Update" is a verb, as in "Update the existing settings", not "Options about
 # updates".
@@ -67,6 +75,8 @@ onboarding-tracking-protection-button =
         [windows] Beállítások frissítése
        *[other] Beállítások frissítése
     }
+onboarding-tracking-protection-title2 = Védelem a nyomon követés ellen
+onboarding-tracking-protection-text2 = A { -brand-short-name } segít megakadályozni, hogy a webhelyek nyomon követhessék Önt online, így nehezebbé teszi, hogy a hirdetések kövessék a weben.
 onboarding-tracking-protection-button2 = Hogyan működik
 onboarding-data-sync-title = Vigye magával a beállításait
 # "Sync" is short for synchronize.
