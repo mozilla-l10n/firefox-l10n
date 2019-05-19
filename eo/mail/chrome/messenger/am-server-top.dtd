@@ -41,14 +41,14 @@
 <!ENTITY deleteOnServer2.label "ĝis mi forigos ilin">
 <!ENTITY deleteOnServer2.accesskey "f">
 <!ENTITY downloadOnBiff.label "Aŭtomate elŝuti novajn mesaĝojn">
-<!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY deleteMessagePrefix.label "When I delete a message:">
-<!ENTITY modelMoveToTrash.label "Move it to this folder:">
-<!ENTITY modelMoveToTrash.accesskey "o">
-<!ENTITY modelMarkDeleted.label "Just mark it as deleted">
-<!ENTITY modelMarkDeleted.accesskey "k">
-<!ENTITY modelDeleteImmediately.label "Remove it immediately">
-<!ENTITY modelDeleteImmediately.accesskey "d">
+<!ENTITY downloadOnBiff.accesskey "e">
+<!ENTITY deleteMessagePrefix.label "Kiam mi forigas mesaĝon loke:">
+<!ENTITY modelMoveToTrash.label "movi ĝin al mesaĝujo:">
+<!ENTITY modelMoveToTrash.accesskey "m">
+<!ENTITY modelMarkDeleted.label "nur marki ĝin kiel forigitan">
+<!ENTITY modelMarkDeleted.accesskey "f">
+<!ENTITY modelDeleteImmediately.label "senprokraste ĝin forigi">
+<!ENTITY modelDeleteImmediately.accesskey "i">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Clean up (&quot;Expunge&quot;) Inbox on Exit">
 <!ENTITY expungeOnExit.accesskey "E">
