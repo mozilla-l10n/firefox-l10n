@@ -82,6 +82,9 @@ onboarding-data-sync-title = Vigye magával a beállításait
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = Szinkronizálja a könyvjelzőit és jelszavait mindenhol, ahol { -brand-product-name }ot használ.
 onboarding-data-sync-button = A { -sync-brand-short-name } bekapcsolása
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Szinkronizálja a könyvjelzőket, a jelszavakat és még többet, bárhol is használja a { -brand-product-name }ot.
+onboarding-data-sync-button2 = Jelentkezzen be a { -sync-brand-short-name }be
 onboarding-firefox-monitor-title = Figyeljen az adatszegésekre
 onboarding-firefox-monitor-text = A { -monitor-brand-name } figyeli, hogy az e-mail címe megjelent-e egy adatszegésben, és figyelmezteti Önt, ha az egy új adatszegésben jelenik meg.
 onboarding-firefox-monitor-button = Iratkozzon fel a figyelmeztetésekre
@@ -89,6 +92,8 @@ onboarding-browse-privately-title = Böngésszen privát módon
 onboarding-browse-privately-text = A privát böngészés törli a keresési és böngészési előzményeket, hogy titokban tartsa azokat azoktól, akik a számítógépét használják.
 onboarding-browse-privately-button = Privát ablak megnyitása
 onboarding-firefox-send-title = Tárolja bizalmasan a megosztott fájljait
+onboarding-firefox-send-text = A { -send-brand-name } végpontok közötti titkosítással és egy automatikusan lejáró hivatkozással védi a megosztott fájljait.
+onboarding-firefox-send-text2 = Töltse fel a fájljait a { -send-brand-name } segítségével, és ossza meg azokat végpontok közötti titkosítással és egy automatikusan lejáró hivatkozással.
 onboarding-firefox-send-button = Próbálja ki a { -send-brand-name }et
 onboarding-mobile-phone-title = Szerezze be a { -brand-product-name } alkalmazást a telefonján
 onboarding-mobile-phone-text = Töltse le a { -brand-product-name } alkalmazást iOS-re vagy Androidra, és szinkronizálja az adatait az eszközei között.
@@ -103,10 +108,12 @@ onboarding-send-tabs-button = Kezdje el használni a lapok küldését
 onboarding-pocket-anywhere-title = Olvasson és hallgasson bárhol
 # "downtime" refers to the user's free/spare time.
 onboarding-pocket-anywhere-text = A { -pocket-brand-name } elmenti a kedvenc történeteit, így el tudja olvasni, meg tudja hallgatni és meg tudja nézni azokat, amikor csak akarja, akár internetkapcsolat nélkül is.
+onboarding-pocket-anywhere-text2 = Mentse le a kedvenc tartalmait a { -pocket-brand-name } alkalmazással, és olvassa el, hallgassa meg vagy nézze meg, amikor az Ön számára kényelmes.
 onboarding-pocket-anywhere-button = Próbálja ki a { -pocket-brand-name }et
 onboarding-lockwise-passwords-title = Vigye el a jelszavait mindenhová
 onboarding-lockwise-passwords-text = A { -lockwise-brand-name } biztonságos helyen tárolja a jelszavait, így könnyedén bejelentkezhet a fiókjaiba.
 onboarding-lockwise-passwords-button = { -lockwise-brand-name } beszerzése
+onboarding-lockwise-passwords-text2 = Tartsa biztonságban a mentett jelszavait és jelentkezzen be egyszerűen a fiókjaiba a { -lockwise-brand-name } segítségével.
 onboarding-facebook-container-title = Állítson be korlátokat a Facebookkal
 onboarding-facebook-container-text = A { -facebook-container-brand-name } elválasztja a Facebook személyazonosságát minden mástól, így nehezebb lesz Önt követni a weben.
 onboarding-facebook-container-button = A kiegészítő hozzáadása
