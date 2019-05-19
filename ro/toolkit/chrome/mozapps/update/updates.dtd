@@ -21,7 +21,7 @@
                                            suficient spațiu liber să o instalezi.">
 <!ENTITY  manualUpdateGetMsg.label        "Poți descărca oricând ultima versiune de &brandShortName; la:">
 
-<!ENTITY  unsupported.title               "Sistem nesuportat">
+<!ENTITY  unsupported.title               "Sistem neacceptat">
 <!ENTITY  unsupported.label               "&brandShortName; este învechit, dar ultima versiune nu este suportată
                                            de sistemul tău. Te rugăm să îți actualizezi sistemul, apoi să încerci din nou.
                                            Nu vei mai vedea această notă, dar poți">
@@ -69,6 +69,3 @@
                                            reporni &brandShortName; acum sau îți poți continua sesiunea și să repornești mai târziu.">
 <!ENTITY  finishedBackground.moreElevated "Această actualizare necesită privilegii de administrator. Actualizarea va fi instalată data viitoare când va porni &brandShortName;. Poți reporni &brandShortName; acum, poți continua lucrul și să repornești mai târziu, sau poți refuza această actualizare.">
 
-<!ENTITY  update.details.label            "Detalii">
-<!ENTITY  update.installedOn.label        "Instalată în:">
-<!ENTITY  update.status.label             "Stare:">

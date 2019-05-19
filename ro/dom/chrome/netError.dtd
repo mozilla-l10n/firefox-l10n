@@ -25,7 +25,7 @@
 <!ENTITY generic.title "Nu se poate duce la capăt cererea">
 <!ENTITY generic.longDesc "<p>În prezent nu sunt disponibile informații suplimentare despre această problemă sau eroare.</p>">
 
-<!ENTITY malformedURI.title "Adresă nevalidă">
+<!ENTITY malformedURI.title "Adresă invalidă">
 <!ENTITY malformedURI.longDesc "<p>Adresa furnizată nu este într-un format recunoscut. Te rugăm să verifici bara de adrese pentru greșeli și încearcă din nou.</p>">
 
 <!ENTITY netInterrupt.title "Transfer de date întrerupt">
@@ -38,7 +38,7 @@
 <!ENTITY netOffline.longDesc2 "<p>Browserul este în modul deconectat și nu se poate conecta la elementul solicitat.</p><ul><li>Calculatorul este conectat la o rețea activă?</li><li>Apasă pe &quot;Încearcă din nou&quot; pentru a comuta la modul online și pentru a reîncărca pagina.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Eroare privind codarea conținutului">
-<!ENTITY contentEncodingError.longDesc "<p>Pagina pe care încerci să o vezi nu poate fi afișată pentru că folosește o formă de compresie nevalidă sau nesuportată.</p><ul><li>Te rugăm să contactezi proprietarii site-ului web pentru a-i informa despre această problemă.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>Pagina pe care încerci să o vezi nu poate fi afișată pentru că folosește o formă de compresie invalidă sau fără suport.</p><ul><li>Te rugăm să contactezi proprietarii site-ului web pentru a-i informa despre această problemă.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Tip de fișier nesigur">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Te rugăm să contactezi proprietarii site-ului web pentru a-i informa despre această problemă.</li> </ul>">

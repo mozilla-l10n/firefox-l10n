@@ -81,7 +81,7 @@ config-property-string = text
 config-property-int = număr
 config-property-bool = boolean
 config-new-prompt = Introdu numele preferinței
-config-nan-title = Valoare nevalidă
+config-nan-title = Valoare invalidă
 config-nan-text = Textul introdus nu este un număr.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
