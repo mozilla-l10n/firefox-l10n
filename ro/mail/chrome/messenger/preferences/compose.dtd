@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Font:">
 <!ENTITY font.accesskey                       "n">
-<!ENTITY size.label                           "Mărime:">
-<!ENTITY size.accesskey                       "M">
 <!ENTITY fontSize.label                       "Mărime:">
 <!ENTITY fontSize.accesskey                   "z">
 <!ENTITY useReaderDefaults.label              "Folosește culorile implicite ale cititorului">
@@ -49,7 +47,7 @@
 
 <!ENTITY emailCollectionPicker.label           "Adaugă automat adresele de e-mail din mesajele trimise la:">
 <!ENTITY emailCollectionPicker.accesskey       "a">
-<!ENTITY addressingTitle.label                 "Completarea automată a adresei">
+<!ENTITY addressingTitle.label                 "Completarea automată a adreselor">
 <!ENTITY autocompleteText.label                "La introducerea adresei destinatarului, caută rezultate corespondente în:">
 <!ENTITY addressingEnable.label                "Agende locale de contacte">
 <!ENTITY addressingEnable.accesskey            "A">
