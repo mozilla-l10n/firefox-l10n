@@ -204,6 +204,7 @@ gpu-device-id = ID-ul dispozitivului
 gpu-subsys-id = ID-ul subsys
 gpu-drivers = Drivere
 gpu-ram = RAM
+gpu-driver-vendor = Distribuitorul driverului
 gpu-driver-version = Versiunea driverului
 gpu-driver-date = Data driverului
 gpu-active = Activ
