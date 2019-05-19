@@ -59,3 +59,21 @@ abuse-report-settings-reason = Pakeitė mano ieškyklę, pradžios tinklalapį, 
 abuse-report-settings-suggestions = Prieš pranešdami apie priedą, galite pabandyti pakeisti nuostatas:
 abuse-report-settings-suggestions-search = Keisti numatytosios ieškyklės nuostatas
 abuse-report-settings-suggestions-homepage = Keisti pradžios tinklalapį ir naujos kortelės tinklalapį
+abuse-report-deceptive-reason = Apsimeta kažkuo kitu
+abuse-report-deceptive-example = Pavyzdys: klaidinantis aprašymas arba vaizdai
+abuse-report-broken-reason-extension = Neveikia, trikdo svetainių veikimą, arba lėtina „{ -brand-product-name }“ veikimą
+abuse-report-broken-reason-theme = Neveikia arba trikdo naršyklės vaizdą
+abuse-report-broken-example = Pavyzdys: lėtas funkcionalumas, sudėtinga naudotis, arba visai neveikia; kai kurios svetainių dalys neįkeliamos arba atrodo neįprastai
+abuse-report-broken-suggestions-extension =
+    Panašu, kad aptikote triktį. Pateikus pranešimą čia, kitas geras būdas problemos spręsti
+    yra susisiekti su priedo kūrėju. <a data-l10n-name="support-link">Aplankę priedo svetainę</a>, rasite kūrėjo kontaktus.
+abuse-report-broken-suggestions-theme =
+    Panašu, kad aptikote triktį. Pateikus pranešimą čia, kitas geras būdas problemos spręsti
+    yra susisiekti su grafinio apvalkalo kūrėju. <a data-l10n-name="support-link">Aplankę grafinio apvalkalo svetainę</a>, rasite kūrėjo kontaktus.
+abuse-report-policy-reason = Neapykantą, smurtą kurstantis arba nelegalus turinys
+abuse-report-policy-suggestions =
+    Atminkite: problemos dėl autorių teisių ir prekių ženklų privalo būti pateiktos atskirai.
+    Norėdami pranešti apie tokią problemą, <a data-l10n-name="report-infringement-link">sekite šias instrukcijas</a>.
+abuse-report-unwanted-reason = Šio priedo niekada nenorėjau, ir jo nepavyksta pašalinti
+abuse-report-unwanted-example = Pavyzdys: programa įdiegė priedą be mano sutikimo
+abuse-report-other-reason = Kažkas kito
