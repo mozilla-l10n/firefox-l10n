@@ -50,7 +50,7 @@ cfr-doorhanger-pintab-description = Obține un acces facil la cele mai utilizate
 
 ## These messages are steps on how to use the feature and are shown together.
 
-cfr-doorhanger-pintab-step1 = <b>Clic dreapta</b> pe fila pe care vrei să o fixezi.
+cfr-doorhanger-pintab-step1 = <b>Dă clic dreapta</b> pe fila pe care vrei să o fixezi.
 cfr-doorhanger-pintab-step2 = Selectează <b>Fixează fila</b> din meniu.
 cfr-doorhanger-pintab-step3 = Dacă site-ul are o actualizare, vei vedea un punct albastru pe fila fixată.
 cfr-doorhanger-pintab-animation-pause = Pauză

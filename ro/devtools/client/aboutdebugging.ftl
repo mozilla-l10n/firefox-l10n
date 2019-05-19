@@ -81,7 +81,7 @@ about-debugging-refresh-usb-devices-button = Reîmprospătează dispozitivele
 # Title of the Setup page.
 about-debugging-setup-title = Configurare
 # Introduction text in the Setup page to explain how to configure remote debugging.
-about-debugging-setup-intro = Configurează metoda de conectare cu care dorești să depanezi de la distanță dispozitivul.
+about-debugging-setup-intro = Configurează metoda de conectare cu care vrei să depanezi de la distanță dispozitivul.
 # Link displayed in the Setup page that leads to MDN page with list of supported devices.
 # Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
 about-debugging-setup-link-android-devices = Vezi lista dispozitivelor Android suportate

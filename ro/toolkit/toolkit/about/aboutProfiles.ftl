@@ -39,7 +39,7 @@ profiles-rename-profile-title = Redenumește profilul…
 # Variables:
 #   $name (String) - Name of the profile
 profiles-rename-profile = Redenumește profilul { $name }
-profiles-invalid-profile-name-title = Numele profilului nevalid
+profiles-invalid-profile-name-title = Denumire invalidă de profil
 # Variables:
 #   $name (String) - Name of the profile
 profiles-invalid-profile-name = Numele de profil „{ $name }” nu este permis.
