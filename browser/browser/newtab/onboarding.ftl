@@ -5,9 +5,22 @@
 
 ## UI strings for the simplified onboarding modal
 
+
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
+
 onboarding-button-label-learn-more = เรียนรู้เพิ่มเติม
 onboarding-button-label-try-now = ลองเลยตอนนี้
 onboarding-button-label-get-started = เริ่มต้นใช้งาน
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = ยินดีต้อนรับสู่ { -brand-short-name }
 onboarding-welcome-learn-more = เรียนรู้เพิ่มเติมเกี่ยวกับประโยชน์
 onboarding-join-form-header = เข้าร่วม { -brand-product-name }
@@ -24,7 +37,14 @@ onboarding-start-browsing-button-label = เริ่มการท่องเ
 
 onboarding-benefit-products-title = ผลิตภัณฑ์ที่มีประโยชน์
 onboarding-benefit-knowledge-title = ความรู้เชิงปฏิบัติ
+onboarding-benefit-knowledge-text = เรียนรู้ทุกสิ่งที่คุณต้องรู้เพื่อออนไลน์อย่างชาญฉลาดและปลอดภัยยิ่งขึ้น
 onboarding-benefit-privacy-title = ความเป็นส่วนตัวที่แท้จริง
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = ทุกสิ่งที่เราทำเคารพต่อคำมั่นสัญญาด้านข้อมูลส่วนบุคคลของเรา: เก็บให้น้อย รักษาให้ปลอดภัย ไม่มีความลับ
 
 ## These strings belong to the individual onboarding messages.
 
