@@ -439,6 +439,7 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = محفوظ کریں
     .accesskey = v
+sync-manage-devices = آلات کو بندرست کریں
 sync-tos-link = سروس کی ٹرمز
 sync-fxa-privacy-notice = اطلاع نامہ نجی نوعیت
 
@@ -546,10 +547,15 @@ content-blocking-setting-custom =
     .label = مخصوص
     .accesskey = C
 content-blocking-custom-desc = چنیں کیا بلاک کرنا ہے
+content-blocking-all-cookies = تمام کوکیاں
 content-blocking-all-third-party-cookies = سارے تیسری تنظیم کے کوکیز
+content-blocking-cryptominers = کریپٹومینر
 content-blocking-fingerprinters = فنگر پرنٹرز
 content-blocking-warning-title = دھیان دیں!
 content-blocking-learn-how = جانیں کہ کس طرح
+content-blocking-reload-tabs-button =
+    .label = تمام ٹیب پھر لوڈ کریں
+    .accesskey = R
 content-blocking-trackers-label =
     .label = ٹریکرس
     .accesskey = T
@@ -563,6 +569,12 @@ content-blocking-tracking-protection-change-block-list = بلاک فہرست ت�
 content-blocking-cookies-label =
     .label = کوکیز
     .accesskey = C
+content-blocking-expand-section =
+    .tooltiptext = مزید معلومات
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = کریپٹومینر
+    .accesskey = y
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =

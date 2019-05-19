@@ -46,6 +46,11 @@ onboarding-addons-title = ایڈ اون
 onboarding-addons-text = { -brand-short-name } میں اور بھی مزید خصوصیات شامل کریں جسسے آپ اپنے سخت کام کو انجام دے سکے۔ قیمتوں کا موازنہ کریں، موسم کی جانچ پڑتال کریں یا مرضی کے مطابق تھیم سے اپنی شخصیت کا اظہار کرے۔
 onboarding-ghostery-title = گھوسٹری
 onboarding-ghostery-text = Ghostery کے طرہ ایکسٹینشن کے ساتھ تیز، ہوشیار اور محفوز طریقے سے براؤز کرے، جو کی اپکو پریشان کرنے والے اشتہاروں کو روکنے کی اجازت دیتے ہے۔
+onboarding-tracking-protection-button2 = یہ کس طرح کام کرتا ہے
+onboarding-browse-privately-title = رازداری سے براؤز کریں
+onboarding-browse-privately-button = نجی ونڈو میں کھولیں؟
+onboarding-firefox-send-title = اپنی مشترکہ امسال نجی رکھیں
+onboarding-pocket-anywhere-button = { -pocket-brand-name } آزمائیں
 
 ## Message strings belonging to the Return to AMO flow
 
