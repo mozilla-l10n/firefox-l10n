@@ -8,7 +8,13 @@ abuse-report-subtitle = มีปัญหาอะไร?
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = โดย <a data-l10n-name="author-name">{ $author-name }</a>
+abuse-report-learnmore =
+    ไม่มั่นใจว่าประเด็นอะไรที่จะเลือก?
+    <a data-l10n-name="learnmore-link">เรียนรู้เพิ่มเติมเกี่ยวกับการรายงานส่วนขยายและธีม</a>
 abuse-report-submit-description = อธิบายปัญหา (เพิ่มเติม)
+abuse-report-submit-note =
+    หมายเหตุ: ไม่ต้องรวมข้อมูลส่วนบุคคล (เช่น ชื่อ ที่อยู่อีเมล เบอร์โทรศัพท์ ที่อยู่จริง)
+    { -vendor-short-name } เป็นผู้เก็บบันทึกรายงานนี้ไว้อย่างถาวร
 
 ## Panel buttons.
 
@@ -25,7 +31,12 @@ abuse-report-submit-button = ส่ง
 
 abuse-report-messagebar-aborted = รายงานสำหรับ <span data-l10n-name="addon-name">{ $addon-name }</span> ถูกยกเลิก
 abuse-report-messagebar-submitting = ส่งรายงานสำหรับ <span data-l10n-name="addon-name">{ $addon-name }</span>
+abuse-report-messagebar-submitted = ขอบคุณที่ส่งรายงาน คุณต้องการลบ <span data-l10n-name="addon-name">{ $addon-name }</span> ไหม?
 abuse-report-messagebar-submitted-noremove = ขอบคุณที่ส่งรายงาน
+abuse-report-messagebar-removed-extension = ขอบคุณที่ส่งรายงาน คุณได้ลบส่วนขยาย <span data-l10n-name="addon-name">{ $addon-name }</span> แล้ว
+abuse-report-messagebar-removed-theme = ขอบคุณที่ส่งรายงาน เราได้ลบธีม <span data-l10n-name="addon-name">{ $addon-name }</span> แล้ว
+abuse-report-messagebar-error = เกิดข้อผิดพลาดขึ้นขณะส่งรายงานสำหรับ <span data-l10n-name="addon-name">{ $addon-name }</span>
+abuse-report-messagebar-error-recent-submit = รายงานของ <span data-l10n-name="addon-name">{ $addon-name }</span> ไม่สามารถส่งได้เนื่องจากเพิ่งมีรายงานอีกฉบับถูกส่งไปเร็ว ๆ นี้
 
 ## Message bars actions.
 
@@ -39,11 +50,19 @@ abuse-report-messagebar-action-cancel = ยกเลิก
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-damage-reason = ทำลายคอมพิวเตอร์และข้อมูลของฉัน
+abuse-report-damage-example = ตัวอย่างเช่น: สอดแทรกมัลแวร์หรือขโมยข้อมูล
 abuse-report-spam-reason = สร้างสแปมหรือโฆษณา
+abuse-report-spam-example = ตัวอย่างเช่น: ใส่โฆษณาบนหน้าเว็บ
 abuse-report-settings-reason = เปลี่ยนเครื่องมือค้นหา, หน้าแรก, หรือแท็บใหม่ของฉันโดยไม่แจ้งหรือถามฉัน
+abuse-report-settings-suggestions = ก่อนรายงานส่วนขยายนี้ คุณสามารถทดลองเปลี่ยนการตั้งค่าของคุณ:
 abuse-report-settings-suggestions-search = เปลี่ยนการตั้งค่าการค้นหาเริ่มต้นของคุณ
 abuse-report-settings-suggestions-homepage = เปลี่ยนหน้าแรกและแท็บใหม่ของคุณ
 abuse-report-deceptive-reason = แกล้งทำเป็นสิ่งที่ไม่ใช่
+abuse-report-deceptive-example = ตัวอย่างเช่น: คำอธิบายหรือรูปภาพชี้นำไปในทางที่ผิด
 abuse-report-broken-reason-extension = ไม่ทำงาน, ทำให้เว็บไซต์ล่ม, หรือทำให้ { -brand-product-name } ช้าลง
 abuse-report-broken-reason-theme = ไม่ทำงานหรือทำให้การแสดงผลของเบราว์เซอร์เสียหาย
+abuse-report-broken-example = ตัวอย่างเช่น: คุณลักษณะใช้งานได้ช้า ใช้งานได้ยาก หรือใช้งานไม่ได้เลย บางส่วนของเว็บไซต์ไม่โหลดหรือดูผิดปกติ
+abuse-report-policy-reason = เนื้อหาด้านความเกลียดชัง ความรุนแรง หรือผิดกฎหมาย
+abuse-report-policy-suggestions = หมายเหตุ: ประเด็นด้านลิขสิทธิ์และเครื่องหมายการค้าจะต้องถูกรายงานในกระบวนการแยกจากนี้ <a data-l10n-name="report-infringement-link">ใช้คำแนะนำเหล่านี้</a>ในการรายงานปัญหา
+abuse-report-unwanted-reason = ไม่ต้องการส่วนขยายนี้อีกแล้วและไม่สามารถกำจัดมันได้
 abuse-report-other-reason = อื่น ๆ
