@@ -58,6 +58,8 @@ cfr-doorhanger-pintab-animation-resume = Continuă
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-header = Sincronizează-ți marcajele oriunde ai fi
+cfr-doorhanger-bookmark-fxa-body = Descoperire grozavă! Acum, ca să nu rămâi fără acest marcaj pe dispozitivele tale mobile, începe să folosești un { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Sincronizează marcajele acum...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Buton de închidere
