@@ -18,3 +18,4 @@
 <!ENTITY setDesktopBackground.title "Setează fundalul pentru desktop">
 <!ENTITY openDesktopPrefs.label     "Deschide preferințele desktop">
 <!ENTITY closeWindow.key            "w">
+<!ENTITY previewUnavailable         "Previzualizare indisponibilă">

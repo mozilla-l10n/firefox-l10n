@@ -112,10 +112,22 @@ about-debugging-setup-usb-step-enable-debug = Activează Depanare USB în meniul
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox = Activează Depanare USB în Firefox pe dispozitivul Android. <a>Află cum</a>
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Activează meniul pentru dezvoltatori pe dispozitivul tău Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Activează depanarea USB în meniul pentru dezvoltatori de pe dispozitivul Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Activează depanarea USB în Firefox pe dispozitivul Android.
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Conectează dispozitivul Android la calculator.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = Probleme de conectare la dispozitivul USB? <a>Depanare</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Locație în rețea
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = Probleme de conectare prin rețea? <a>Depanare</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Adaugă
@@ -164,7 +176,7 @@ about-debugging-runtime-processes =
     .name = Procese
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
-about-debugging-runtime-profile-button = Profil de execuție
+about-debugging-runtime-profile-button2 = Profil de performanță
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
@@ -201,8 +213,6 @@ about-debugging-connection-prompt-enable-button = Activează mesajul de conexiun
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = Dezactivează mesajul de conexiune
-# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
-about-debugging-profiler-dialog-title = Profil de performanță
 # Label of a checkbox displayed in the runtime page for "This Firefox".
 # This checkbox will toggle preferences that enable local addon debugging.
 # The "Learn more" link points to MDN.
