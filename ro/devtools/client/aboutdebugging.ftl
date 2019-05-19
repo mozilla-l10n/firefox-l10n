@@ -213,6 +213,8 @@ about-debugging-connection-prompt-enable-button = Activează mesajul de conexiun
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = Dezactivează mesajul de conexiune
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title2 = Generator profil
 # Label of a checkbox displayed in the runtime page for "This Firefox".
 # This checkbox will toggle preferences that enable local addon debugging.
 # The "Learn more" link points to MDN.
@@ -265,7 +267,7 @@ about-debugging-extension-location =
 # Text displayed for extensions in "runtime" pages, before displaying the extension's ID.
 # For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
 about-debugging-extension-id =
-    .label = ID-ul extensiei
+    .label = ID extensie
 # This string is displayed as a label of the button that pushes a test payload
 # to a service worker.
 # Notes, this relates to the "Push" API, which is normally not localized so it is
@@ -275,6 +277,14 @@ about-debugging-worker-action-push = Push
 about-debugging-worker-action-start = Pornește
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Dezînregistrează
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = Fetch
+    .value = Se ascultă evenimente Fetch
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = Fetch
+    .value = Nu se ascultă evenimente Fetch
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
 about-debugging-worker-status-running = În rulare
