@@ -53,7 +53,9 @@ policy-EnableTrackingProtection = Titzij o tichup ri Kiq'atik Rupam chuqa' ticha
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Tiyak, tiyuj o keq'at taq k'amal. Ri rucha'ik Tiyak yeruchäp URLs taq ochochib'äl o taq b'ey achi'el etab'äl. Ri Tiyuj chuqa' Tiq'at yeruchäp ID kichin taq k'amal.
+policy-ExtensionSettings = Kenuk'samajiïx ronojel ri taq rub'anikil kiyakik taq k'amal.
 policy-ExtensionUpdate = Ketzij o kechup ri ruyonil kik'exoj taq k'amal.
+policy-FirefoxHome = Tib'an runuk'ulem Rutikirib'al Firefox.
 policy-FlashPlugin = Niya' q'ij o man niya' ta q'ij nokisäx ri Flash nak'ab'äl.
 policy-HardwareAcceleration = We man qitzij ta, tichup ranin ch'akulkem.
 # “lock” means that the user won’t be able to change this setting
@@ -69,6 +71,7 @@ policy-OverridePostUpdatePage = Nayüj ri ruxaq "K'ak'a' taq tzijol" chi rij ri 
 policy-Permissions = Tib'an kinuk'ulem ya'oj taq q'ij kichin elesäy wachib'äl, q'asäy ch'ab'äl, k'ojlib'äl chuqa' taq rutzijol.
 policy-PopupBlocking = Tiya' q'ij chi jujun taq ajk'amaya'l ruxaq kekik'utu' elenel taq tzuwäch achi'el e k'o wi.
 policy-Preferences = Tajikib'a' chuqa' taq'ata' ri rejqalem jun rachmolaj ajowanïk.
+policy-PromptForDownloadLocation = Tik'utüx akuchi' yeyak ri taq yakb'äl toq yeqasäx.
 policy-Proxy = Tib'an runuk'ulem ri proxi.
 policy-RequestedLocales = Tijikib'äx rucholajem k'utun taq rutzalq'omanem chokoy, cholajin chi ajowanïk.
 policy-SanitizeOnShutdown = Keyuj ronojel ri taq rutzij okem pa k'amaya'l toq nichup.

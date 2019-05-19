@@ -131,7 +131,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Titz'ajb'äx…">
 <!ENTITY printCmd.accesskey "T">
 <!ENTITY printCmd.commandkey "p">
-
 <!ENTITY importFromAnotherBrowserCmd.label "Tijik' pa Jun Chik Okik'amaya'l…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "T">
 
@@ -439,7 +438,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "c">
 <!ENTITY preferencesCmdUnix.label       "Taq Ajowanel">
 <!ENTITY preferencesCmdUnix.accesskey     "o">
-
 <!ENTITY logins.label                           "Kitikirisaxik molojri'ïl chuqa' Ewan taq Tzij">
 
 <!ENTITY clearRecentHistory.label               "Tiyuj ri k'ak'a' natab'äl…">
@@ -530,6 +528,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "K">
 <!ENTITY customizeMenu.removeExtension.label "Tiyuj K'amal">
 <!ENTITY customizeMenu.removeExtension.accesskey "y">
+
+<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
+     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.label "Tiya' Rutzijol K'amal">
+<!ENTITY customizeMenu.reportExtension.accesskey "o">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -1127,6 +1131,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "T">
 <!ENTITY updateRestart.cancelButton.label "Wakami mani">
 <!ENTITY updateRestart.cancelButton.accesskey "m">
+<!ENTITY updateUnsupported.panelUI.label "Man tikirel ta chik yeb'an ch'aqa' chik k'exoj">
 <!ENTITY updateRestart.panelUI.label2 "Titikirisäx chik richin nik'ex &brandShorterName;">
 
 <!ENTITY newTabControlled.header.message "Xjal ri K'ak'a' Ruwi'.">
