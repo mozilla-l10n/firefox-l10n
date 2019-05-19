@@ -8,8 +8,14 @@
 <!ENTITY stretch.label              "ยืดเต็มหน้าจอ">
 <!ENTITY fill.label                 "ขยายเต็มหน้าจอ">
 <!ENTITY fit.label                  "พอดีหน้าจอ">
-<!ENTITY preview.label              "ตัวอย่าง">
+<!-- LOCALIZATION NOTE (span.label): This refers to the wallpaper "spanning"
+                       multiple monitors when the user has more than one. Only
+                       some of the entire image will be on each monitor.
+                       This should ideally match the wording in Windows' own
+                       Desktop Background settings page. -->
+<!ENTITY span.label                 "ยืดขยาย">
 <!ENTITY color.label                "สี:">
 <!ENTITY setDesktopBackground.title "ตั้งพื้นหลังเดสก์ท็อป">
 <!ENTITY openDesktopPrefs.label     "เปิดค่ากำหนดเดสก์ท็อป">
 <!ENTITY closeWindow.key            "w">
+<!ENTITY previewUnavailable         "การแสดงตัวอย่างไม่สามารถใช้ได้">
