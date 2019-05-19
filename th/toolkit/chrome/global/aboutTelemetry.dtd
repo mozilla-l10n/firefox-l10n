@@ -31,7 +31,7 @@
 <!ENTITY aboutTelemetry.addonDetailsSection "รายละเอียดส่วนเสริม">
 <!ENTITY aboutTelemetry.lateWritesSection "  การเขียนทีหลัง">
 <!ENTITY aboutTelemetry.rawPayloadSection "ส่วนข้อมูลดิบ">
-<!ENTITY aboutTelemetry.raw "JSON ดิบ">
+<!ENTITY aboutTelemetry.raw "ข้อมูลดิบ JSON">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  หมายเหตุ: การดีบั๊ก SQL ที่ทำงานช้าถูกเปิดใช้งาน คำสั่ง SQL แบบเต็มอาจถูกแสดงไว้ด้านล่างแต่จะไม่ถูกส่งออกไป">
 <!ENTITY aboutTelemetry.hideStackSymbols "แสดงข้อมูลสแตกดิบ">
