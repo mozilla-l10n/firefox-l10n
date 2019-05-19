@@ -72,4 +72,6 @@ abuse-report-policy-suggestions =
     Megjegyzés: A szerzői jogi és védjegyekkel kapcsolatos problémákat egy külön folyamatban kell jelenteni.
     <a data-l10n-name="report-infringement-link">Használja ezeket az utasításokat</a> a
     probléma bejelentéséhez.
+abuse-report-unwanted-reason = Sosem akartam ezt a kiegészítőt, és nem tudok tőle megszabadulni.
+abuse-report-unwanted-example = Példa: Egy alkalmazás az engedélyem nélkül települt
 abuse-report-other-reason = Valami más
