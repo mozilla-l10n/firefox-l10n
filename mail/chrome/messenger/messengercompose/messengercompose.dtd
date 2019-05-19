@@ -92,6 +92,7 @@
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "า">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
      As Mac does not have access keys, this key defines a Mac-only, cross-l10n
      shortcut key (Ctrl+M). Typically, this key should not be translated unless
@@ -137,57 +138,92 @@
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "มุมมอง">
+<!ENTITY viewMenu.accesskey "ม">
 <!ENTITY viewToolbarsMenuNew.label "แถบเครื่องมือ">
+<!ENTITY viewToolbarsMenuNew.accesskey "ถ">
 <!ENTITY menubarCmd.label "แถบเมนู">
+<!ENTITY menubarCmd.accesskey "เ">
 <!ENTITY showCompositionToolbarCmd.label "แถบเครื่องมือการเขียน">
+<!ENTITY showCompositionToolbarCmd.accesskey "ข">
 <!ENTITY showFormattingBarCmd.label "แถบการจัดรูปแบบ">
+<!ENTITY showFormattingBarCmd.accesskey "จ">
 <!ENTITY showTaskbarCmd.label "แถบสถานะ">
+<!ENTITY showTaskbarCmd.accesskey "ส">
 <!ENTITY customizeToolbar.label "ปรับแต่ง…">
+<!ENTITY customizeToolbar.accesskey "ป">
 
 <!ENTITY addressSidebar.label "แถบข้างผู้ติดต่อ">
+<!ENTITY addressSidebar.accesskey "ถ">
 
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "รูปแบบ">
+<!ENTITY formatMenu.accesskey "ร">
 
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "ตัวเลือก">
+<!ENTITY optionsMenu.accesskey "ต">
 <!ENTITY checkSpellingCmd2.label "ตรวจสอบการสะกดคำ…">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "ว">
 <!ENTITY enableInlineSpellChecker.label "ตรวจสอบการสะกดคำเมื่อคุณพิมพ์">
+<!ENTITY enableInlineSpellChecker.accesskey "จ">
 <!ENTITY quoteCmd.label "อ้างอิงข้อความ">
+<!ENTITY quoteCmd.accesskey "อ">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCard.label "แนบบัตรส่วนบุคคล (vCard)">
+<!ENTITY attachVCard.accesskey "น">
 
 <!ENTITY returnReceiptMenu.label "การแจ้งเตือนการเปิดอ่าน">
+<!ENTITY returnReceiptMenu.accesskey "แ">
 <!ENTITY dsnMenu.label "การแจ้งเตือนสถานะการส่ง">
+<!ENTITY dsnMenu.accesskey "ะ">
 <!ENTITY deliveryFormatMenu.label "รูปแบบการส่ง">
+<!ENTITY deliveryFormatMenu.accesskey "ง">
 <!ENTITY autoFormatCmd.label "ตรวจพบอัตโนมัติ">
+<!ENTITY autoFormatCmd.accesskey "ต">
 <!ENTITY plainTextFormatCmd.label "ข้อความธรรมดาเท่านั้น">
+<!ENTITY plainTextFormatCmd.accesskey "ข">
 <!ENTITY htmlFormatCmd.label "Rich Text (HTML) เท่านั้น">
+<!ENTITY htmlFormatCmd.accesskey "r">
 <!ENTITY bothFormatCmd.label "ข้อความธรรมดาและ Rich (HTML)">
+<!ENTITY bothFormatCmd.accesskey "ธ">
 <!ENTITY priorityMenu.label "ความสำคัญ">
+<!ENTITY priorityMenu.accesskey "ค">
 <!ENTITY priorityButton.title "ความสำคัญ">
 <!ENTITY priorityButton.tooltiptext "เปลี่ยนความสำคัญของข้อความ">
 <!ENTITY priorityButton.label "ความสำคัญ:">
 <!ENTITY lowestPriorityCmd.label "ต่ำสุด">
+<!ENTITY lowestPriorityCmd.accesskey "ด">
 <!ENTITY lowPriorityCmd.label "ต่ำ">
+<!ENTITY lowPriorityCmd.accesskey "ต">
 <!ENTITY normalPriorityCmd.label "ปกติ">
+<!ENTITY normalPriorityCmd.accesskey "ป">
 <!ENTITY highPriorityCmd.label "สูง">
+<!ENTITY highPriorityCmd.accesskey "ส">
 <!ENTITY highestPriorityCmd.label "สูงสุด">
+<!ENTITY highestPriorityCmd.accesskey "ง">
 <!ENTITY fileCarbonCopyCmd.label "ส่งสำเนาไปยัง">
+<!ENTITY fileCarbonCopyCmd.accesskey "เ">
 <!ENTITY fileHereMenu.label "ไฟล์ที่นี่">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "เครื่องมือ">
+<!ENTITY tasksMenu.accesskey "ค">
 <!ENTITY messengerCmd.label "จดหมายและกลุ่มข่าว">
+<!ENTITY messengerCmd.accesskey "จ">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "สมุดรายชื่อ">
+<!ENTITY addressBookCmd.accesskey "ส">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd2.label "การตั้งค่าบัญชี">
+<!ENTITY accountManagerCmd2.accesskey "ก">
+<!ENTITY accountManagerCmdUnix2.accesskey "ก">
 <!ENTITY preferencesCmd2.label "ตัวเลือก">
+<!ENTITY preferencesCmd2.accesskey "ต">
 <!ENTITY preferencesCmdUnix.label "ค่ากำหนด">
+<!ENTITY preferencesCmdUnix.accesskey "ค">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -223,6 +259,7 @@
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "จาก:">
+<!ENTITY fromAddr.accesskey "จ">
 <!ENTITY toAddr.label "ถึง:">
 <!ENTITY ccAddr.label "สำเนาถึง:">
 <!ENTITY bccAddr.label "สำเนาลับถึง:">
@@ -230,12 +267,14 @@
 <!ENTITY newsgroupsAddr.label "กลุ่มข่าว:">
 <!ENTITY followupAddr.label "ติดตามถึง:">
 <!ENTITY subject.label "หัวเรื่อง:">
+<!ENTITY subject.accesskey "ห">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
      be taken from the strings of attachmentCount in composeMsgs.properties.
      Please ensure that this access key is unique: Do not duplicate any other
      first-level access keys of the compose window, e.g. those of main menu,
      buttons, or labels (message headers, contacts side bar, attachment reminder
      bar). -->
+<!ENTITY attachments.accesskey "ฟ">
 <!ENTITY attachmentBucketHeader.tooltip "บานหน้าต่างไฟล์แนบ">
 <!ENTITY attachmentBucketCloseButton.tooltip "ซ่อนบานหน้าต่างไฟล์แนบ">
 
@@ -261,42 +300,65 @@
 <!-- Message Pane Context Menu -->
 <!ENTITY spellCheckNoSuggestions.label "ไม่พบคำแนะนำ">
 <!ENTITY spellCheckIgnoreWord.label "เพิกเฉยคำ">
+<!ENTITY spellCheckIgnoreWord.accesskey "พ">
 <!ENTITY spellCheckAddToDictionary.label "เพิ่มไปยังพจนานุกรม">
+<!ENTITY spellCheckAddToDictionary.accesskey "เ">
 <!ENTITY undo.label "เลิกทำ">
+<!ENTITY undo.accesskey "ล">
 <!ENTITY cut.label "ตัด">
+<!ENTITY cut.accesskey "ต">
 <!ENTITY copy.label "คัดลอก">
+<!ENTITY copy.accesskey "ค">
 <!ENTITY paste.label "วาง">
+<!ENTITY paste.accesskey "ว">
 <!ENTITY pasteQuote.label "วางเป็นถ้อยคำอ้างอิง">
+<!ENTITY pasteQuote.accesskey "ถ">
 
 <!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "เปิด">
+<!ENTITY openAttachment.accesskey "ป">
 <!ENTITY delete.label "ลบ">
+<!ENTITY delete.accesskey "บ">
 <!ENTITY removeAttachment.label "เอาไฟล์แนบออก">
+<!ENTITY removeAttachment.accesskey "อ">
 <!ENTITY renameAttachment.label "เปลี่ยนชื่อ…">
+<!ENTITY renameAttachment.accesskey "ย">
 <!ENTITY reorderAttachments.label "จัดลำดับไฟล์แนบใหม่…">
+<!ENTITY reorderAttachments.accesskey "จ">
 <!ENTITY removeAllAttachments.label "เอาไฟล์แนบทั้งหมดออก">
+<!ENTITY removeAllAttachments.accesskey "า">
 <!ENTITY selectAll.label "เลือกทั้งหมด">
+<!ENTITY selectAll.accesskey "ท">
 <!ENTITY attachFile.label "แนบไฟล์…">
+<!ENTITY attachFile.accesskey "แ">
 <!ENTITY attachCloud.label "ลิงก์ไฟล์…">
+<!ENTITY attachCloud.accesskey "ง">
 <!ENTITY convertCloud.label "แปลงเป็น…">
+<!ENTITY convertCloud.accesskey "เ">
 <!ENTITY cancelUpload.label "ยกเลิกการอัปโหลด">
+<!ENTITY cancelUpload.accesskey "ด">
 <!ENTITY convertRegularAttachment.label "ไฟล์แนบปกติ">
+<!ENTITY convertRegularAttachment.accesskey "ไ">
 <!ENTITY attachPage.label "แนบหน้าเว็บ…">
+<!ENTITY attachPage.accesskey "ห">
 
 <!-- Attachment Pane Header Bar Context Menu -->
 <!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
      Should use the same wording as startExpandedCmd.label
      in msgHdrViewOverlay.dtd. -->
 <!ENTITY initiallyShowAttachmentPane.label "แสดงบานหน้าต่างไฟล์แนบตั้งแต่เริ่มต้น">
+<!ENTITY initiallyShowAttachmentPane.accesskey "ร">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "เพิ่มพจนานุกรม…">
+<!ENTITY spellAddDictionaries.accesskey "พ">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "ผู้ติดต่อ">
 
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "ปรับแต่งที่อยู่ จาก…">
+<!ENTITY customizeFromAddress.accesskey "ป">
 
 <!-- Accessibility name for the document -->
 <!ENTITY aria.message.bodyName "เนื้อความของข้อความ">
