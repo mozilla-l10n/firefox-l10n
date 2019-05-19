@@ -42,6 +42,14 @@ abuse-report-messagebar-error-recent-submit = Pranešimas apie <span data-l10n-n
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove-extension = Taip, pašalinti
+abuse-report-messagebar-action-keep-extension = Ne, tegul lieka
+abuse-report-messagebar-action-remove-theme = Taip, pašalinti
+abuse-report-messagebar-action-keep-theme = Ne, tegul lieka
+abuse-report-messagebar-action-retry = Kartoti
+abuse-report-messagebar-action-cancel = Atsisakyti
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason = Kenkia mano kompiuteriui ir duomenims
+abuse-report-damage-example = Pavyzdys: įdiegė virusą arba pavogė duomenis
