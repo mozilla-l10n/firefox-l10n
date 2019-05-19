@@ -23,6 +23,7 @@ onboarding-button-label-get-started = Kom i gang
 
 onboarding-welcome-header = Velkomen til { -brand-short-name }
 onboarding-welcome-learn-more = Les meir om fordelane.
+onboarding-join-form-body = Skriv inn e-postadressa di for å kome i gang.
 onboarding-join-form-email =
     .placeholder = Skriv inn e-postadresse
 onboarding-join-form-email-error = Gyldig e-postadresse påkravd
@@ -63,6 +64,7 @@ onboarding-mobile-phone-button = Last ned mobilnettlesar
 onboarding-pocket-anywhere-button = Prøv { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Ta med deg passorda overalt
 onboarding-lockwise-passwords-button = Last ned { -lockwise-brand-name }
+onboarding-lockwise-passwords-button2 = Last ned appen
 onboarding-facebook-container-button = Legg til utvidinga
 
 ## Message strings belonging to the Return to AMO flow
