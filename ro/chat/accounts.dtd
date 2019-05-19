@@ -10,14 +10,14 @@
 <!ENTITY accountsWindow2.style               "width: 41em; height: 27em;">
 
 <!ENTITY accountManager.newAccount.label     "Cont nou">
-<!ENTITY accountManager.newAccount.accesskey "n">
+<!ENTITY accountManager.newAccount.accesskey "N">
 <!ENTITY accountManager.close.label          "Închide">
 <!ENTITY accountManager.close.accesskey      "l">
 <!-- This should match account.commandkey in instantbird.dtd -->
 <!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Niciun cont configurat încă">
-<!ENTITY accountManager.noAccount.description "Dă clic pe butonul &accountManager.newAccount.label; pentru a lăsa &brandShortName; să te ghideze prin procesul configurării unui cont.">
+<!ENTITY accountManager.noAccount.description "Dă clic pe butonul &accountManager.newAccount.label; și lasă &brandShortName; să te ghideze prin procesul configurării unui cont.">
 <!ENTITY account.autoSignOn.label     "Autentificare la pornire">
 <!ENTITY account.autoSignOn.accesskey "S">
 <!ENTITY account.connect.label        "Conectează">
@@ -28,8 +28,8 @@
 <!ENTITY account.delete.accesskey     "D">
 <!ENTITY account.edit.label           "Proprietăți">
 <!ENTITY account.edit.accesskey       "P">
-<!ENTITY account.moveup.label         "Mută în sus">
-<!ENTITY account.movedown.label       "Mută în jos">
+<!ENTITY account.moveup.label         "Mută sus">
+<!ENTITY account.movedown.label       "Mută jos">
 <!ENTITY account.cancelReconnection.label         "Anulează reconectarea">
 <!ENTITY account.cancelReconnection.accesskey     "A">
 <!ENTITY account.copyDebugLog.label     "Copiază jurnalul de depanare">
