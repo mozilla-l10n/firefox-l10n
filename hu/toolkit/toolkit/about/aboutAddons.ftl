@@ -268,8 +268,26 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    A kiegészítők és témák olyanok, mint az alkalmazások a böngészője számára,
+    és segítségükkel megvédheti a jelszavait, videókat tölthet le, leárazásokat
+    találhat, blokkolhatja a zavaró hirdetéseket, módosíthatja a böngésző
+    kinézetét, és még sok mást is tehet. Ezek a kis programokat általában
+    harmadik felek készítik. Itt vagy egy válogatás, amelyet a { -brand-product-name }
+    a kivételes biztonságuk, teljesítményük és funkcionalitásuk miatt 
+    <a data-l10n-name="learn-more-trigger">javasol</a>.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Ezen javaslatok egy része személyre szabott. Ennek alapja a telepített kiegészítői,
+    a profilbeállításai és a használati statisztikái.
 discopane-notice-learn-more = További tudnivalók
 privacy-policy = Adatvédelmi irányelvek
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = szerző: <a data-l10n-name="author">{ $author }</a>
 # Shows the number of daily users of the add-on.
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
