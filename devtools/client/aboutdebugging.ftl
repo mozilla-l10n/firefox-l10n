@@ -80,6 +80,8 @@ about-debugging-refresh-usb-devices-button = เรียกอุปกรณ�
 
 # Title of the Setup page.
 about-debugging-setup-title = ตั้งค่า
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = กำหนดค่าวิธีการเชื่อมต่อที่คุณต้องการดีบั๊กอุปกรณ์ของคุณจากระยะไกล
 # Link displayed in the Setup page that leads to MDN page with list of supported devices.
 # Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
 about-debugging-setup-link-android-devices = ดูรายการอุปกรณ์ Android ที่รองรับ
@@ -89,6 +91,8 @@ about-debugging-setup-this-firefox = ใช้ <a>{ about-debugging-this-firefox
 about-debugging-setup-connect-heading = เชื่อมต่ออุปกรณ์
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = การเปิดใช้งานสิ่งนี้จะดาวน์โหลดและเพิ่มส่วนประกอบการดีบั๊กผ่าน USB ของ Android ที่จำเป็นใน { -brand-shorter-name }
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = เปิดใช้งานอุปกรณ์ USB
@@ -166,6 +170,13 @@ about-debugging-runtime-other-workers =
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = โปรเซส
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button2 = ประสิทธิภาพโปรไฟล์
+# This string is displayed in the runtime page if the current configuration of the
+# target runtime is incompatible with service workers. "Learn more" points to MDN.
+# https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
+about-debugging-runtime-service-workers-not-compatible = การกำหนดค่าเบราว์เซอร์ของคุณเข้ากันไม่ได้กับตัวทำงานบริการ <a>เรียนรู้เพิ่มเติม</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -179,6 +190,8 @@ about-debugging-connection-prompt-enable-button = เปิดใช้งาน
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = ปิดใช้งานพรอมต์การเชื่อมต่อ
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title2 = ตัวสร้างโปรไฟล์
 # Label of a checkbox displayed in the runtime page for "This Firefox".
 # This checkbox will toggle preferences that enable local addon debugging.
 # The "Learn more" link points to MDN.
