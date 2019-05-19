@@ -112,10 +112,22 @@ about-debugging-setup-usb-step-enable-debug = Habilitar depuración de USB en el
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox = Habilitar depuración de USB en Firefox en su dispositivo Android. <a>Aprender cómo</a>
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Habilitar menú de desarrollador en el dispositivo Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Habilitar depuración USB en el menú de desarrollador de Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Habilitar depuración USB en Firefox en el dispositivo Android.
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Conectar el dispositivo Android a su equipo.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = ¿Problemas conectando al dispositivo USB? <a>Solucionar problemas</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Ubicación de la red
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = ¿Problemas conectando vía ubicación de red? <a>Solucionar problemas</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Agregar
