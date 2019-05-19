@@ -77,7 +77,7 @@ policy-RequestedLocales = Definir a lista de idiomas solicitados para a aplicaç
 policy-SanitizeOnShutdown = Limpar todos os dados de navegação ao desligar.
 policy-SanitizeOnShutdown2 = Limpar dados de navegação ao fechar.
 policy-SearchBar = Definir a localização padrão da barra de pesquisa. O usuário ainda pode personalizar tal localização.
-policy-SearchEngines = Definir as configurações do mecanismo de pesquisa. Esta política está disponível somente na versão Extended Support Release (ESR).
+policy-SearchEngines = Definir configurações de mecanismos de pesquisa. Esta política está disponível somente na versão Extended Support Release (ESR).
 policy-SearchSuggestEnabled = Ativar ou desativar sugestões de pesquisa.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalar módulos PKCS #11.
