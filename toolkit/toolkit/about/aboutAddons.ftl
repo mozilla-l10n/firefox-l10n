@@ -250,7 +250,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Extensiesneltoetsen beheren
     .accesskey = E
-shortcuts-empty-message = Er zijn geen sneltoetsen voor deze extensie.
 shortcuts-no-addons = U hebt geen extensies ingeschakeld.
 shortcuts-no-commands = De volgende extensies hebben geen sneltoetsen:
 shortcuts-input =
@@ -314,6 +313,11 @@ remove-addon-button = Verwijderen
 disable-addon-button = Uitschakelen
 enable-addon-button = Inschakelen
 expand-addon-button = Meer opties
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Opties
+       *[other] Voorkeuren
+    }
 addons-enabled-heading = Ingeschakeld
 addons-disabled-heading = Uitgeschakeld
 ask-to-activate-button = Vragen om te activeren
