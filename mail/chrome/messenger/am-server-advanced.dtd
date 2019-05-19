@@ -10,22 +10,22 @@
 <!ENTITY usingSubscription.accesskey "a">
 <!ENTITY dualUseFolders.label "Servilo subtenas mesaĝujojn, kiuj enhavas aliajn mesaĝujojn kaj mesaĝojn">
 <!ENTITY dualUseFolders.accesskey "s">
-<!ENTITY maximumConnectionsNumber.label "Maximum number of server connections to cache">
+<!ENTITY maximumConnectionsNumber.label "Maksimuma nombro da konektoj kun servilo">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
-<!ENTITY namespaceDesc.label "These preferences specify the namespaces on your IMAP server">
-<!ENTITY personalNamespace.label "Personal namespace:">
+<!ENTITY namespaceDesc.label "La jenas preferoj determinas nomspacojn en via servilo IMAP">
+<!ENTITY personalNamespace.label "Persona nomspaco:">
 <!ENTITY personalNamespace.accesskey "P">
-<!ENTITY publicNamespace.label "Public (shared):">
+<!ENTITY publicNamespace.label "Publika (kunhavigata) nomspaco:">
 <!ENTITY publicNamespace.accesskey "u">
-<!ENTITY otherUsersNamespace.label "Other Users:">
-<!ENTITY otherUsersNamespace.accesskey "O">
-<!ENTITY overrideNamespaces.label "Allow server to override these namespaces">
-<!ENTITY overrideNamespaces.accesskey "A">
-<!ENTITY pop3DeferringDesc.label "When downloading mail from this account's server, use the following folder to store new messages:">
-<!ENTITY accountInbox.label "Inbox for this account">
-<!ENTITY accountInbox.accesskey "s">
-<!ENTITY deferToServer.label "Inbox for different account">
-<!ENTITY deferToServer.accesskey "d">
-<!ENTITY deferGetNewMail.label "Include this server when getting new mail">
+<!ENTITY otherUsersNamespace.label "Nomspaco de aliaj uzantoj:">
+<!ENTITY otherUsersNamespace.accesskey "a">
+<!ENTITY overrideNamespaces.label "Ebligi al servilo ŝanĝi tiujn nomspacojn">
+<!ENTITY overrideNamespaces.accesskey "E">
+<!ENTITY pop3DeferringDesc.label "Mesaĝujo por konservi elŝutitajn retleterojn de tiu ĉi konto:">
+<!ENTITY accountInbox.label "Ricevujo – por tiu ĉi konto">
+<!ENTITY accountInbox.accesskey "t">
+<!ENTITY deferToServer.label "Ricevujo – por konto:">
+<!ENTITY deferToServer.accesskey "R">
+<!ENTITY deferGetNewMail.label "Inkluzivi tiun ĉi servilon dum elŝuti novajn retleterojn">
 <!ENTITY deferGetNewMail.accesskey "I">
