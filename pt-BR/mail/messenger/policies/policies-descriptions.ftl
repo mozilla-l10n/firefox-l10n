@@ -47,10 +47,14 @@ policy-InstallAddonsPermission = Permitir que certos sites instalem extensões.
 policy-LocalFileLinks = Permitir que sites específicos tenham link para arquivos locais.
 policy-NetworkPrediction = Ativar ou desativar predição de rede (DNS prefetching).
 policy-OfferToSaveLogins = Impor as configurações para permitir que o { -brand-short-name } ofereça memorizar contas de acesso e senhas salvas. Tanto "true" como "false" são valores aceitos.
+policy-OverrideFirstRunPage = Substituir a página de primeira execução. Defina esta política como vazio se quiser desativar a página de primeira execução.
+policy-OverridePostUpdatePage = Substituir a página “Novidades” exibida após uma atualização. Defina esta política como vazio se quiser desativar a exibição de uma página após atualizações.
 policy-Preferences = Definir e bloquear o valor de um subconjunto de preferências.
 policy-PromptForDownloadLocation = Perguntar onde salvar arquivos ao baixar.
 policy-Proxy = Configurar definições de proxy.
+policy-RequestedLocales = Definir a lista de idiomas solicitados para a aplicação por ordem de preferência.
 policy-SanitizeOnShutdown2 = Limpar dados de navegação ao sair.
+policy-SearchEngines = Definir configurações de mecanismos de pesquisa. Esta política está disponível somente na versão Extended Support Release (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalar módulos PKCS #11.
 policy-SSLVersionMax = Definir a versão máxima de SSL.
