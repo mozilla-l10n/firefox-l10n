@@ -51,3 +51,11 @@ cfr-doorhanger-pintab-step2 = Мәзірден <b>Бетті бекітуді</b
 cfr-doorhanger-pintab-step3 = Сайтта жаңарту болса, бекітілген бетте көк нүктені көретін боласыз.
 cfr-doorhanger-pintab-animation-pause = Аялдату
 cfr-doorhanger-pintab-animation-resume = Жалғастыру
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Бетбелгілерді барлық жерде синхрондаңыз.
+cfr-doorhanger-bookmark-fxa-link-text = Бетбелгілерді қазір синхрондау…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Жабу батырмасы
+    .title = Жабу
