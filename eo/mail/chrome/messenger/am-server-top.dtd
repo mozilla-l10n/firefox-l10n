@@ -68,10 +68,10 @@
 <!ENTITY alwaysAuthenticate.accesskey "l">
 <!ENTITY newsrcFilePath.label "Dosiero newsrc:">
 <!ENTITY newsrcPicker.label "Elekti dosieron newsrc">
-<!ENTITY abbreviate.label "Show newsgroup names in the Mail Folder pane as:">
-<!ENTITY abbreviateOn.label "Full names (For example, 'netscape.public.mozilla.mail-news')">
-<!ENTITY abbreviateOff.label "Abbreviate names (For example, 'n.p.m.mail-news')">
-<!ENTITY advancedButton.label "Advanced…">
+<!ENTITY abbreviate.label "Montri nomojn de novaĵgrupoj en la panelo de mesaĝujoj kiel:">
+<!ENTITY abbreviateOn.label "plenajn nomojn (ekz. “netscape.public.mozilla.mail-news”)">
+<!ENTITY abbreviateOff.label "mallongigitajn nomojn (ekz. “n.p.m.mail-news”)">
+<!ENTITY advancedButton.label "Spertulaj…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset2.label "Default Text Encoding:">
 <!ENTITY localPath.label "Local directory:">
