@@ -200,14 +200,14 @@ cert-not-verified-cert-expired = Nu se poate verifica acest certificat deoarece 
 cert-not-verified-cert-not-trusted = Nu se poate verifica acest certificat deoarece nu este acreditat.
 cert-not-verified-issuer-not-trusted = Nu se poate verifica acest certificat deoarece emitentul nu este acreditat.
 cert-not-verified-issuer-unknown = Nu se poate verifica acest certificat deoarece emitentul nu e cunoscut.
-cert-not-verified-ca-invalid = Nu se poate verifica acest certificat deoarece certificatul pentru AC este nevalid.
+cert-not-verified-ca-invalid = Nu se poate verifica acest certificat deoarece certificatul AC este invalid.
 cert-not-verified_algorithm-disabled = Nu am putut verifica acest certificat pentru că a fost semnat utilizând un algoritm de semnare care a fost dezactivat pentru că algoritmul nu este securizat.
 cert-not-verified-unknown = Nu se poate verifica acest certificat din motive necunoscute.
 
 ## Add Security Exception dialog
 
 add-exception-branded-warning = Ești pe cale să schimbi modul în care { -brand-short-name } identifică acest site.
-add-exception-invalid-header = Acest site încearcă să se identifice cu informații nevalide.
+add-exception-invalid-header = Acest site încearcă să se identifice cu informații invalide.
 add-exception-domain-mismatch-short = Site greșit
 add-exception-domain-mismatch-long = Certificatul aparține unui alt site, ceea ce ar putea însemna că cineva încearcă să uzurpe identitatea acestui site.
 add-exception-expired-short = Informații depășite

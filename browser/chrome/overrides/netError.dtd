@@ -200,7 +200,7 @@ was trying to connect. -->
 <!ENTITY clockSkewError.title "Ceasul calculatorului indică o oră greșită">
 <!ENTITY clockSkewError.longDesc "Calculatorul crede că este <span id='wrongSystemTime_systemDate1'/>, ceea ce împiedică &brandShortName; să stabilească o conexiune securizată. Pentru a vizita <span class='hostname'></span>, actualizează ceasul calculatorului în setările de sistem pe data, ora și fusul orar curente, apoi reîmprospătează <span class='hostname'></span>.">
 
-<!ENTITY prefReset.longDesc "Se pare că setările de securitate a rețelei sunt de vină. Vrei restaurarea setărilor implicite?">
+<!ENTITY prefReset.longDesc "Se pare că setările de securitate ale rețelei sunt de vină. Vrei să restaurezi setările implicite?">
 <!ENTITY prefReset.label "Restaurează setările implicite">
 
 <!ENTITY networkProtocolError.title "Eroare legată de protocolul de rețea">

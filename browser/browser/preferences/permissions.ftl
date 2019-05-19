@@ -94,7 +94,7 @@ permissions-exceptions-addons-desc = Poți specifica ce site-uri web au permisiu
 permissions-exceptions-autoplay-media-window2 =
     .title = Excepții - Redare automată
     .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Poți specifica ce site-uri web au întotdeauna sau niciodată permisiunea de a reda automat conținut media cu sunet. Tastează adresa site-ului pe care vrei să-l gestionezi și apoi dă clic pe Blochează sau Permite.
+permissions-exceptions-autoplay-media-desc2 = Poți specifica ce site-uri web au întotdeauna sau niciodată permisiunea de a reda automat conținut multimedia cu sunet. Tastează adresa site-ului pe care vrei să-l gestionezi și apoi dă clic pe Blochează sau Permite.
 
 ## Site Permissions - Notifications
 
