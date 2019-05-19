@@ -24,6 +24,7 @@ appmenu-update-unsupported =
     .buttonaccesskey = л
     .secondarybuttonlabel = Жабу
     .secondarybuttonaccesskey = ж
+appmenu-update-unsupported-message = { -brand-shorter-name } соңғы нұсқасына сіздің жүйеде қолдау жоқ.
 appmenu-update-restart =
     .label = { -brand-shorter-name } жаңарту үшін қайта іске қосу.
     .buttonlabel = Қайта іске қосу және қалпына келтіру
