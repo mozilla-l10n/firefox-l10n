@@ -53,3 +53,9 @@ abuse-report-messagebar-action-cancel = Atsisakyti
 
 abuse-report-damage-reason = Kenkia mano kompiuteriui ir duomenims
 abuse-report-damage-example = Pavyzdys: įdiegė virusą arba pavogė duomenis
+abuse-report-spam-reason = Kuria nepageidaujamą informaciją arba reklamas
+abuse-report-spam-example = Pavyzdys: svetainėse įterpia reklamas
+abuse-report-settings-reason = Pakeitė mano ieškyklę, pradžios tinklalapį, arba naujos kortelės tinklalapį be mano žinios
+abuse-report-settings-suggestions = Prieš pranešdami apie priedą, galite pabandyti pakeisti nuostatas:
+abuse-report-settings-suggestions-search = Keisti numatytosios ieškyklės nuostatas
+abuse-report-settings-suggestions-homepage = Keisti pradžios tinklalapį ir naujos kortelės tinklalapį
