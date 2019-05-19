@@ -70,6 +70,4 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = HTTPS پر DNS بحال کریں
     .accesskey = b
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = HTTPS پر DNS کو حل کرنے کے لئے URL
+connection-dns-over-https-custom-label = مخصوص

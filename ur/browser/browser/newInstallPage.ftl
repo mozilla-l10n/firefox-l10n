@@ -7,6 +7,10 @@
 ### Firefox" and "version" is used to mean "the specific revision number of a
 ### given Firefox channel". These terms are not synonymous.
 
+title = اہم خبر
+changed-title = تبدیل کیا ہے
+options-title = میرے اختیارات کیا ہیں؟
+resources = ماخذ
 sync-input =
     .placeholder = ای میل
 sync-button = جاری رکھیں

@@ -18,7 +18,9 @@ about-config-pref-delete = حذف کریں
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
+about-config-pref-add-type-boolean = بولیائی
 about-config-pref-add-type-number = نمبر
+about-config-pref-add-type-string = اسٹرنگ
 
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label

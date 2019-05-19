@@ -439,6 +439,7 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = محفوظ کریں
     .accesskey = v
+sync-connect-another-device = اہک اور آلہ جوڑیں
 sync-manage-devices = آلات کو بندرست کریں
 sync-tos-link = سروس کی ٹرمز
 sync-fxa-privacy-notice = اطلاع نامہ نجی نوعیت

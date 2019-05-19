@@ -51,6 +51,7 @@ onboarding-browse-privately-title = رازداری سے براؤز کریں
 onboarding-browse-privately-button = نجی ونڈو میں کھولیں؟
 onboarding-firefox-send-title = اپنی مشترکہ امسال نجی رکھیں
 onboarding-pocket-anywhere-button = { -pocket-brand-name } آزمائیں
+onboarding-lockwise-passwords-button = { -lockwise-brand-name } جاصل کریں
 
 ## Message strings belonging to the Return to AMO flow
 
