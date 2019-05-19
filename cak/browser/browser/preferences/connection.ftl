@@ -78,6 +78,11 @@ connection-dns-over-https-url-default =
     .tooltiptext = Tawokisaj ri URL k'o wi richin nisol DNS rik'in HTTPS
 connection-dns-over-https-url-resolver = Tokisäx Ya'öl
     .accesskey = Y
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (K'o wi)
+    .tooltiptext = Tokisäx ri URL k'o wi richin yesol taq DNS rik'in HTTPS
 connection-dns-over-https-url-custom =
     .label = Ichinan
     .accesskey = I
