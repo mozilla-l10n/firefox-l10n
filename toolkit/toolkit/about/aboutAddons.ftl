@@ -238,7 +238,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Handter snarvegar for tillegg
     .accesskey = H
-shortcuts-empty-message = Det er ingen snarvegar for denne utvidinga.
 shortcuts-no-addons = Du har ingen utvidinga aktiverte.
 shortcuts-no-commands = Følgjande utvidingar har ikkje snarvegar:
 shortcuts-input =
@@ -262,6 +261,9 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Vis mindre
 go-back-button =
     .tooltiptext = Gå tilbake
+
+## Recommended add-ons page
+
 
 ## Add-on actions
 
@@ -294,3 +296,7 @@ addon-detail-reviews-link =
 addon-detail-updates-radio-default = Standard
 addon-detail-updates-radio-on = På
 addon-detail-updates-radio-off = Av
+addon-detail-private-browsing-allow = Tillat
+addon-detail-private-browsing-disallow = Ikkje tillat
+available-updates-heading = Tilgjengelege oppdateringar
+recent-updates-heading = Nylege oppdateringar

@@ -5,9 +5,22 @@
 
 ## UI strings for the simplified onboarding modal
 
+
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
+
 onboarding-button-label-learn-more = Les meir
 onboarding-button-label-try-now = Prøv han no
 onboarding-button-label-get-started = Kom i gang
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Velkomen til { -brand-short-name }
 onboarding-welcome-learn-more = Les meir om fordelane.
 onboarding-join-form-email =
@@ -20,6 +33,7 @@ onboarding-start-browsing-button-label = Start nettlesing
 ## description.
 
 onboarding-benefit-products-title = Nyttige produkt
+onboarding-benefit-knowledge-title = Praktisk kunnskap
 onboarding-benefit-privacy-title = Ekte personvern
 
 ## These strings belong to the individual onboarding messages.
