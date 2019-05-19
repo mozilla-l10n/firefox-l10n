@@ -28,7 +28,7 @@ about-telemetry-slow-sql-section = คำสั่ง SQL ที่ช้า
 about-telemetry-addon-details-section = รายละเอียดส่วนเสริม
 about-telemetry-late-writes-section = การเขียนทีหลัง
 about-telemetry-raw-payload-section = ส่วนข้อมูลดิบ
-about-telemetry-raw = JSON ดิบ
+about-telemetry-raw = ข้อมูลดิบ JSON
 about-telemetry-full-sql-warning = หมายเหตุ: การดีบั๊ก SQL ที่ทำงานช้าถูกเปิดใช้งาน คำสั่ง SQL แบบเต็มอาจถูกแสดงไว้ด้านล่างแต่จะไม่ถูกส่งออกไป
 about-telemetry-hide-stack-symbols = แสดงข้อมูลสแตกดิบ
 # Variables:
