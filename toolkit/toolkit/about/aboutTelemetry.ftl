@@ -15,6 +15,7 @@ about-telemetry-option-group-older = Régebbi
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = <i>
 about-telemetry-page-title = Telemetriai adatok
+about-telemetry-current-store = Jelenlegi bolt:
 about-telemetry-more-information = Több információt keres?
 about-telemetry-firefox-data-doc = A <a data-l10n-name="data-doc-link">Firefox adatok dokumentáció</a> útmutatókat tartalmaz arról, hogyan dolgozzon az adateszközeinkkel.
 about-telemetry-telemetry-client-doc = A <a data-l10n-name="client-doc-link">Firefox telemetria ügyfél dokumentáció</a> fogalomdefiníciókat, API dokumentációkat és adathivatkozásokat tartalmaz.

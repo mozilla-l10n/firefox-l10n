@@ -57,6 +57,7 @@ cfr-doorhanger-pintab-animation-resume = Folytatás
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Szinkronizálja a könyvjelzőit mindenhol.
+cfr-doorhanger-bookmark-fxa-body = Nagyszerű találat! Ne maradjon könyvjelzők nélkül a mobileszközein sem. Kezdjen egy { -fxaccount-brand-name }kal.
 cfr-doorhanger-bookmark-fxa-link-text = Könyvjelzők szinkronizálása most…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Bezárás gomb

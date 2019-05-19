@@ -303,6 +303,11 @@ addon-detail-version-label = Verzió
 addon-detail-last-updated-label = Utoljára frissítve
 addon-detail-homepage-label = Honlap
 addon-detail-rating-label = Értékelés
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Értékelés: { NUMBER($rating, maximumFractionDigits: 1) } az 5-ből
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -332,6 +337,7 @@ install-update-button = Frissítés
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Engedélyezett privát ablakokban
+addon-detail-private-browsing-help = Ha engedélyezve van, a kiegészítő hozzá fog férni az online tevékenységekhez privát böngészés közben. <a data-l10n-name="learn-more">További tudnivalók</a>
 addon-detail-private-browsing-allow = Engedélyezés
 addon-detail-private-browsing-disallow = Tiltás
 available-updates-heading = Elérhető frissítések
