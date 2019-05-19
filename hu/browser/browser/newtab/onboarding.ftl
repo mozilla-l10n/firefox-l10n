@@ -37,6 +37,7 @@ onboarding-start-browsing-button-label = Böngészés megkezdése
 ## description.
 
 onboarding-benefit-products-title = Hasznos termékek
+onboarding-benefit-products-text = Végezze el a teendőit egy olyan eszközcsaláddal, amely tiszteletben tartja a magánszféráját az összes eszközén.
 onboarding-benefit-knowledge-title = Gyakorlati tudás
 onboarding-benefit-privacy-title = Valódi adatvédelem
 

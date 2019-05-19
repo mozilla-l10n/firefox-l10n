@@ -12,6 +12,9 @@ abuse-report-learnmore =
     Nem tudja, hogy melyik problémát válassza ki?
     <a data-l10n-name="learnmore-link">További információk a bővítmények és témák jelentéséről</a>
 abuse-report-submit-description = Írja le a problémát (nem kötelező)
+abuse-report-textarea =
+    .placeholder = Könnyebb megoldanunk egy problémát, ha vannak konkrétumok. Írja le, hogy mit tapasztal. Köszönjük, hogy segít minket abban, hogy a web egészséges maradjon.
+abuse-report-submit-note = Megjegyzés: Ne írjon bele személyes információkat (mint nevek, e-mail címek, telefonszámok és valós címek). A { -vendor-short-name } véglegesen rögzíti ezeket a jelentéseket.
 
 ## Panel buttons.
 
