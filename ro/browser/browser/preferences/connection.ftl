@@ -70,16 +70,21 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Activează DNS prin HTTPS
     .accesskey = b
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = URL pentru rezolvarea DNS prin HTTPS
 # Variables:
 #   $url (String) - URL for the DNS over HTTPS provider
 connection-dns-over-https-url-default =
     .label = Folosește URL-ul implicit ({ $url })
     .accesskey = U
     .tooltiptext = Folosește URL-ul implicit pentru a rezolva DNS prin HTTPS
+connection-dns-over-https-url-resolver = Folosește furnizorul
+    .accesskey = P
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (Implicit)
+    .tooltiptext = Folosește URL-ul implicit pentru rezolvarea DNS over HTTPS
 connection-dns-over-https-url-custom =
     .label = Personalizat
     .accesskey = C
     .tooltiptext = Introdu URL-ul preferat pentru a rezolva DNS prin HTTPS
+connection-dns-over-https-custom-label = Personalizat

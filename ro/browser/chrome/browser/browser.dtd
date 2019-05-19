@@ -131,7 +131,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Tipărește…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-
 <!ENTITY importFromAnotherBrowserCmd.label "Importă din alt browser…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
@@ -439,7 +438,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferințe">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
-
 <!ENTITY logins.label                           "Date de autentificare și parole">
 
 <!ENTITY clearRecentHistory.label               "Șterge istoricul recent…">
@@ -530,6 +528,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
 <!ENTITY customizeMenu.removeExtension.label "Elimină extensia">
 <!ENTITY customizeMenu.removeExtension.accesskey "v">
+
+<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
+     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.label "Raportează extensia">
+<!ENTITY customizeMenu.reportExtension.accesskey "o">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -1127,6 +1131,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Nu acum">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateUnsupported.panelUI.label "Nu poți efectua alte actualizări">
 <!ENTITY updateRestart.panelUI.label2 "Repornește pentru a actualiza &brandShorterName;">
 
 <!ENTITY newTabControlled.header.message "Pagina de filă nouă s-a schimbat.">

@@ -93,6 +93,32 @@ onboarding-browse-privately-text = Navigarea privată îți șterge căutările 
 onboarding-browse-privately-button = Deschide o fereastră privată
 onboarding-firefox-send-title = Ține-ți private fișierele partajate
 onboarding-firefox-send-text = { -send-brand-name } protejează fișierele pe care le partajezi cu criptare end-to-end și un link ce expiră automat.
+onboarding-firefox-send-text2 = Încarcă fișiere în { -send-brand-name } pentru a le partaja folosind criptare end-to-end și un link ce expiră automat.
+onboarding-firefox-send-button = Încearcă { -send-brand-name }
+onboarding-mobile-phone-title = Instalează { -brand-product-name } pe telefon
+onboarding-mobile-phone-text = Descarcă { -brand-product-name } pentru iOS sau pentru Android și sincronizează-ți datele pe dispozitive.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Descarcă browserul pentru dispozitive mobile
+onboarding-send-tabs-title = Trimite-ți instant file
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Send Tabs instantly partajează pagini între dispozitivele tale fără a mai fi nevoie să le copiezi, să le lipești sau să ieși din browser.
+onboarding-send-tabs-button = Începe să folosești Send Tabs
+onboarding-pocket-anywhere-title = Citești și asculți oriunde
+# "downtime" refers to the user's free/spare time.
+onboarding-pocket-anywhere-text = { -pocket-brand-name } îți salvează conținuturile preferate ca să le poți citi, asculta și vedea în timpul liber, chiar și offline.
+onboarding-pocket-anywhere-text2 = Salvează-ți conținuturile preferate offline cu aplicația { -pocket-brand-name } și le citești, asculți și vezi oricând îți convine.
+onboarding-pocket-anywhere-button = Încearcă { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Ia-ți parolele cu tine oriunde
+onboarding-lockwise-passwords-text = { -lockwise-brand-name } îți salvează parolele într-un loc sigur ca să te poți autentifica ușor în conturi.
+onboarding-lockwise-passwords-button = Instalează { -lockwise-brand-name }
+onboarding-lockwise-passwords-text2 = Păstrează-ți parolele salvate în siguranță și autentifică-te ușor în conturi cu ajutorul { -lockwise-brand-name }.
+onboarding-lockwise-passwords-button2 = Obține aplicația
+onboarding-facebook-container-title = Setează limite cu Facebook
+onboarding-facebook-container-text = { -facebook-container-brand-name } îți păstrează identitatea Facebook separată de orice altceva, făcând mai dificilă urmărirea ta pe web.
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } îți păstrează profilul separat de orice altceva, făcând mai dificil pentru Facebook să îți dea reclame țintite.
+onboarding-facebook-container-button = Adaugă extensia
 
 ## Message strings belonging to the Return to AMO flow
 
