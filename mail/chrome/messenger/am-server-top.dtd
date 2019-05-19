@@ -24,7 +24,7 @@
 <!ENTITY useIdleNotifications.label "Aktivigi tuj‑sciigojn el la servilo pri novaj mesaĝoj">
 <!ENTITY useIdleNotifications.accesskey "t">
 <!ENTITY connectionSecurity.label "Sekureco de konekto:">
-<!ENTITY connectionSecurity.accesskey "k">
+<!ENTITY connectionSecurity.accesskey "c">
 <!ENTITY connectionSecurityType-0.label "neniu">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, se disponebla">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
@@ -50,22 +50,22 @@
 <!ENTITY modelDeleteImmediately.label "senprokraste ĝin forigi">
 <!ENTITY modelDeleteImmediately.accesskey "i">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Clean up (&quot;Expunge&quot;) Inbox on Exit">
-<!ENTITY expungeOnExit.accesskey "E">
-<!ENTITY emptyTrashOnExit.label "Empty Trash on Exit">
-<!ENTITY emptyTrashOnExit.accesskey "x">
-<!ENTITY loginAtStartup.label "Check for new messages at startup">
-<!ENTITY loginAtStartup.accesskey "C">
+<!ENTITY expungeOnExit.label "Purigi (reorganizi) ricevujon je fermo de programo">
+<!ENTITY expungeOnExit.accesskey "P">
+<!ENTITY emptyTrashOnExit.label "Malplenigi rubujon je fermo de programo">
+<!ENTITY emptyTrashOnExit.accesskey "r">
+<!ENTITY loginAtStartup.label "Kontroli pri novaj mesaĝoj je starto">
+<!ENTITY loginAtStartup.accesskey "K">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
     of messages between them
 -->
-<!ENTITY maxMessagesStart.label "Ask me before downloading more than">
-<!ENTITY maxMessagesStart.accesskey "m">
+<!ENTITY maxMessagesStart.label "Demandi antaŭ elŝuti pli ol">
+<!ENTITY maxMessagesStart.accesskey "D">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
-<!ENTITY maxMessagesEnd.label "messages">
-<!ENTITY alwaysAuthenticate.label "Always request authentication when connecting to this server">
-<!ENTITY alwaysAuthenticate.accesskey "w">
+<!ENTITY maxMessagesEnd.label "mesaĝojn">
+<!ENTITY alwaysAuthenticate.label "Ĉiam postuli aŭtentigon kiam konekti al tiu ĉi servilo">
+<!ENTITY alwaysAuthenticate.accesskey "l">
 <!ENTITY newsrcFilePath.label "newsrc file:">
 <!ENTITY newsrcPicker.label "Select newsrc File">
 <!ENTITY abbreviate.label "Show newsgroup names in the Mail Folder pane as:">
