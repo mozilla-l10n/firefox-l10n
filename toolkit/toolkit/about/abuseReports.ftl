@@ -33,6 +33,12 @@ abuse-report-submit-button = Pateikti
 
 abuse-report-messagebar-aborted = Pranešimas apie <span data-l10n-name="addon-name">„{ $addon-name }“</span> atšauktas.
 abuse-report-messagebar-submitting = Siunčiamas pranešimas apie <span data-l10n-name="addon-name">„{ $addon-name }“</span>.
+abuse-report-messagebar-submitted = Ačiū už pateiktą pranešimą. Ar norėtumėte pašalinti <span data-l10n-name="addon-name">„{ $addon-name }“</span>?
+abuse-report-messagebar-submitted-noremove = Ačiū už pateiktą pranešimą.
+abuse-report-messagebar-removed-extension = Ačiū už patetiką pranešimą. Pašalinote <span data-l10n-name="addon-name">„{ $addon-name }“</span> priedą.
+abuse-report-messagebar-removed-theme = Ačiū už pranešimą. Pašalinote <span data-l10n-name="addon-name">„{ $addon-name }“</span> grafinį apvalkalą.
+abuse-report-messagebar-error = Siunčiant pranešimą apie <span data-l10n-name="addon-name">„{ $addon-name }“</span> įvyko klaida.
+abuse-report-messagebar-error-recent-submit = Pranešimas apie <span data-l10n-name="addon-name">„{ $addon-name }“</span> nebuvo išsiųstas, nes neseniai buvo pateiktas kitas pranešimas.
 
 ## Message bars actions.
 
