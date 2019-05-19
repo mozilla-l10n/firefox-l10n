@@ -345,3 +345,8 @@ install-update-button = Actualizare
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Permis în ferestre private
+addon-detail-private-browsing-help = Când are accesul permis, extensia va avea acces la activitățile tale online în navigarea privată.<a data-l10n-name="learn-more">Află mai multe</a>
+addon-detail-private-browsing-allow = Permite
+addon-detail-private-browsing-disallow = Nu permite
+available-updates-heading = Actualizări disponibile
+recent-updates-heading = Actualizări recente

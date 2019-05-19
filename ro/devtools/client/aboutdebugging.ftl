@@ -143,7 +143,7 @@ about-debugging-network-locations-remove-button = Elimină
 # Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
 # Variables:
 #   $host-value (string) - The input value submitted by the user in the network locations form
-about-debugging-network-location-form-invalid = Gazdă nevalidă „{ $host-value }”. Formatul așteptat este „numele-gazdei:numărul-portului”.
+about-debugging-network-location-form-invalid = Gazdă invalidă „{ $host-value }”. Formatul așteptat este „numele-gazdei:numărul-portului”.
 # Text used as error message if the input value was already registered in the network locations form of the Setup page.
 # Variables:
 #   $host-value (string) - The input value submitted by the user in the network locations form
@@ -294,7 +294,7 @@ about-debugging-worker-status-stopped = Oprit
 about-debugging-worker-status-registering = În înregistrare
 # Displayed for service workers in runtime pages, to label the scope of a worker
 about-debugging-worker-scope =
-    .label = Domeniu
+    .label = Domeniu de aplicare
 # Displayed for service workers in runtime pages, to label the push service endpoint (url)
 # of a worker
 about-debugging-worker-push-service =
