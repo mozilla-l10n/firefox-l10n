@@ -23,6 +23,6 @@ sync-label = Introdu adresa de e-mail
 sync-input =
     .placeholder = E-mail
 sync-button = Continuă
-sync-terms = Prin continuare, agreezi <a data-l10n-name="terms">Termenii de utilizare a serviciilor</a> și <a data-l10n-name="privacy">Politica de confidențialitate</a>.
+sync-terms = Prin continuare, ești de acord cu <a data-l10n-name="terms">Termenii de utilizare a serviciilor</a> și <a data-l10n-name="privacy">Politica de confidențialitate</a>.
 sync-first = E prima dată când folosești { -sync-brand-name }? Trebuie să te autentifici pe fiecare instalare de Firefox ca să îți sincronizezi informațiile.
 sync-learn = Află mai multe
