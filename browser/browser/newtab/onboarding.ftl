@@ -114,8 +114,10 @@ onboarding-lockwise-passwords-title = Vigye el a jelszavait mindenhová
 onboarding-lockwise-passwords-text = A { -lockwise-brand-name } biztonságos helyen tárolja a jelszavait, így könnyedén bejelentkezhet a fiókjaiba.
 onboarding-lockwise-passwords-button = { -lockwise-brand-name } beszerzése
 onboarding-lockwise-passwords-text2 = Tartsa biztonságban a mentett jelszavait és jelentkezzen be egyszerűen a fiókjaiba a { -lockwise-brand-name } segítségével.
+onboarding-lockwise-passwords-button2 = Alkalmazás beszerzése
 onboarding-facebook-container-title = Állítson be korlátokat a Facebookkal
 onboarding-facebook-container-text = A { -facebook-container-brand-name } elválasztja a Facebook személyazonosságát minden mástól, így nehezebb lesz Önt követni a weben.
+onboarding-facebook-container-text2 = A { -facebook-container-brand-name } elkülöníti a profilját minden mástól, ami nehezebbé teszi, hogy a Facebook célzott hirdetéseket küldjön Önnek.
 onboarding-facebook-container-button = A kiegészítő hozzáadása
 
 ## Message strings belonging to the Return to AMO flow
