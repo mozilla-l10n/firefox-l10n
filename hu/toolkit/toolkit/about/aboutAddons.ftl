@@ -270,6 +270,16 @@ go-back-button =
 
 discopane-notice-learn-more = További tudnivalók
 privacy-policy = Adatvédelmi irányelvek
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Felhasználók: { $dailyUsers }
+install-extension-button = Hozzáadás a { -brand-product-name }hoz
+install-theme-button = Téma telepítése
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Kezelés
+find-more-addons = Több kiegészítő keresése
 
 ## Add-on actions
 
@@ -278,6 +288,11 @@ remove-addon-button = Eltávolítás
 disable-addon-button = Letiltás
 enable-addon-button = Engedélyezés
 expand-addon-button = További beállítások
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Beállítások
+       *[other] Beállítások
+    }
 addons-enabled-heading = Engedélyezve
 addons-disabled-heading = Tiltva
 ask-to-activate-button = Aktiválás kérésre
