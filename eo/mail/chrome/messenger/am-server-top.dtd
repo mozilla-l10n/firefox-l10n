@@ -66,8 +66,8 @@
 <!ENTITY maxMessagesEnd.label "mesaĝojn">
 <!ENTITY alwaysAuthenticate.label "Ĉiam postuli aŭtentigon kiam konekti al tiu ĉi servilo">
 <!ENTITY alwaysAuthenticate.accesskey "l">
-<!ENTITY newsrcFilePath.label "newsrc file:">
-<!ENTITY newsrcPicker.label "Select newsrc File">
+<!ENTITY newsrcFilePath.label "Dosiero newsrc:">
+<!ENTITY newsrcPicker.label "Elekti dosieron newsrc">
 <!ENTITY abbreviate.label "Show newsgroup names in the Mail Folder pane as:">
 <!ENTITY abbreviateOn.label "Full names (For example, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Abbreviate names (For example, 'n.p.m.mail-news')">
