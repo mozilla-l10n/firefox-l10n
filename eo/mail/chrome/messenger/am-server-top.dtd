@@ -2,10 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-server-top.xul -->
-
-<!ENTITY messageStorage.label "Message Storage">
-<!ENTITY securitySettings.label "Security Settings">
+<!ENTITY messageStorage.label "Mesaĝa konservejo">
+<!ENTITY securitySettings.label "Sekurecaj agordoj">
 <!ENTITY serverSettings.label "Server Settings">
 <!ENTITY serverType.label "Server Type:">
 <!ENTITY serverName.label "Server Name:">
@@ -15,7 +13,7 @@
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Default:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -44,7 +42,6 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "Automatically download new messages">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY username.label "Your Login Name">
 <!ENTITY deleteMessagePrefix.label "When I delete a message:">
 <!ENTITY modelMoveToTrash.label "Move it to this folder:">
 <!ENTITY modelMoveToTrash.accesskey "o">
@@ -61,7 +58,7 @@
 <!ENTITY loginAtStartup.accesskey "C">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Ask me before downloading more than">
 <!ENTITY maxMessagesStart.accesskey "m">
