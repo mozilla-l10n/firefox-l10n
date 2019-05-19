@@ -48,7 +48,7 @@
 <!ENTITY modelMarkDeleted.label "nur marki ĝin kiel forigitan">
 <!ENTITY modelMarkDeleted.accesskey "f">
 <!ENTITY modelDeleteImmediately.label "senprokraste ĝin forigi">
-<!ENTITY modelDeleteImmediately.accesskey "i">
+<!ENTITY modelDeleteImmediately.accesskey "g">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Purigi (reorganizi) ricevujon je fermo de programo">
 <!ENTITY expungeOnExit.accesskey "P">
@@ -72,18 +72,18 @@
 <!ENTITY abbreviateOn.label "plenajn nomojn (ekz. “netscape.public.mozilla.mail-news”)">
 <!ENTITY abbreviateOff.label "mallongigitajn nomojn (ekz. “n.p.m.mail-news”)">
 <!ENTITY advancedButton.label "Spertulaj…">
-<!ENTITY advancedButton.accesskey "v">
-<!ENTITY serverDefaultCharset2.label "Default Text Encoding:">
-<!ENTITY localPath.label "Local directory:">
-<!ENTITY localFolderPicker.label "Select Local Directory">
-<!ENTITY browseFolder.label "Browse…">
-<!ENTITY browseFolder.accesskey "B">
-<!ENTITY browseNewsrc.label "Browse…">
-<!ENTITY browseNewsrc.accesskey "e">
+<!ENTITY advancedButton.accesskey "j">
+<!ENTITY serverDefaultCharset2.label "Implicita teksta kodprezento:">
+<!ENTITY localPath.label "Loka dosierujo:">
+<!ENTITY localFolderPicker.label "Elekti lokan dosierujon">
+<!ENTITY browseFolder.label "Esplori…">
+<!ENTITY browseFolder.accesskey "E">
+<!ENTITY browseNewsrc.label "Esplori…">
+<!ENTITY browseNewsrc.accesskey "i">
 
-<!ENTITY accountTitle.label "Account Settings">
-<!ENTITY accountSettingsDesc.label "The following is a special account.  There are no identities associated with it.">
-<!ENTITY storeType.label "Message Store Type:">
-<!ENTITY storeType.accesskey "T">
-<!ENTITY mboxStore2.label "File per folder (mbox)">
-<!ENTITY maildirStore.label "File per message (maildir)">
+<!ENTITY accountTitle.label "Agordoj de konto">
+<!ENTITY accountSettingsDesc.label "Tio ĉi estas speciala konto, ligita al neniuj identigoj.">
+<!ENTITY storeType.label "Maniero de konservi mesaĝojn:">
+<!ENTITY storeType.accesskey "ĝ">
+<!ENTITY mboxStore2.label "dosiero por mesaĝujo (mbox)">
+<!ENTITY maildirStore.label "dosiero por mesaĝo (maildir)">
