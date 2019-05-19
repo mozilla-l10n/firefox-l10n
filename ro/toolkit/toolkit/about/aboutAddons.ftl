@@ -155,6 +155,9 @@ private-browsing-description2 =
 extensions-view-discover =
     .name = Descarcă suplimente
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Recomandări
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Actualizări recente
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -235,7 +238,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Gestionează scurtături de extensii
     .accesskey = S
-shortcuts-empty-message = Nu există comenzi rapide pentru această extensie.
 shortcuts-no-addons = Nu ai activat nicio extensie.
 shortcuts-no-commands = Următoarele extensii nu au comenzi rapide:
 shortcuts-input =
@@ -262,19 +264,57 @@ shortcuts-card-collapse-button = Afișează mai puțin
 go-back-button =
     .tooltiptext = Înapoi
 
+## Recommended add-ons page
+
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro = Extensiile și temele sunt ca un fel de aplicații pentru browser și îți permit să îți protejezi parolele, să descarci videoclipuri, să descoperi oferte, să blochezi reclame enervante, să schimbi aspectul browserului și multe altele. Aceste programe software mici sunt adesea dezvoltate de părți terțe. Ai aici o selecție de{ -brand-product-name }<a data-l10n-name="learn-more-trigger">recomandări</a>pentru securitate, performanță și funcționalitate de excepție.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations = Unele dintre aceste recomandări sunt personalizate în baza altor extensii pe care le-ai instalat, a preferințelor de profil și a statisticilor de utilizare.
+discopane-notice-learn-more = Află mai multe
+privacy-policy = Politică de confidențialitate
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = de către <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Utilizatori: { $dailyUsers }
+install-extension-button = Adaugă în { -brand-product-name }
+install-theme-button = Instalează tema
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Gestionează
+find-more-addons = Găsește mai multe suplimente
+
 ## Add-on actions
 
+report-addon-button = Raportează
 remove-addon-button = Elimină
 disable-addon-button = Dezactivează
 enable-addon-button = Activează
 expand-addon-button = Mai multe opțiuni
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Opțiuni
+       *[other] Preferințe
+    }
 addons-enabled-heading = Activat
 addons-disabled-heading = Dezactivat
+ask-to-activate-button = Întreabă pentru activare
+always-activate-button = Activează întotdeauna
+never-activate-button = Nu activa niciodată
 addon-detail-author-label = Autor
 addon-detail-version-label = Versiune
 addon-detail-last-updated-label = Ultima actualizare
 addon-detail-homepage-label = Pagină de start
 addon-detail-rating-label = Evaluare
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Evaluat la { NUMBER($rating, maximumFractionDigits: 1) } din 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -288,3 +328,20 @@ addon-detail-reviews-link =
         [few] { $numberOfReviews } recenzii
        *[other] { $numberOfReviews } de recenzii
     }
+
+## Pending uninstall message bar
+
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> a fost eliminat.
+pending-uninstall-undo-button = Anulează
+addon-detail-updates-label = Permite actualizările automate
+addon-detail-updates-radio-default = Implicit
+addon-detail-updates-radio-on = Activat
+addon-detail-updates-radio-off = Dezactivat
+addon-detail-update-check-label = Caută actualizări
+install-update-button = Actualizare
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Permis în ferestre private
