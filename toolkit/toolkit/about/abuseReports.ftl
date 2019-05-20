@@ -8,7 +8,7 @@ abuse-report-subtitle = 有什么问题？
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = 作者：<a data-l10n-name="author-name">{ $author-name }</a>
-abuse-report-learnmore = 不确定要选择哪项？<a data-l10n-name="learnmore-link">详细了解关于举报扩展与主题的相关信息</a>
+abuse-report-learnmore = 不确定要选择哪项？<a data-l10n-name="learnmore-link">详细了解举报扩展与主题</a>
 abuse-report-submit-description = 描述问题（选填）
 abuse-report-textarea =
     .placeholder = 如果有更多细节，我们就能更容易找到问题根源。请描述您遇到了哪些问题，也非常感谢您帮助我们保持网络健康。
@@ -59,7 +59,7 @@ abuse-report-deceptive-reason = 伪装成与其无关的东西
 abuse-report-deceptive-example = 例如：误导性描述或图像
 abuse-report-broken-reason-extension = 不起作用、造成网站无法正常使用、拖慢 { -brand-product-name }
 abuse-report-broken-reason-theme = 不起作用或破坏浏览器显示内容
-abuse-report-broken-example = 例如：功能运行缓慢、难以使用或不起作用，导致部分网站加载不完整，或看起来不正常
+abuse-report-broken-example = 例如：功能运行缓慢、难以使用或不起作用；导致部分网站加载不完整，或看起来不正常
 abuse-report-broken-suggestions-extension = 听起来您遇到缺陷（Bug）了。除了在此举报之外，解决功能问题的最佳方式是直接联系扩展开发者。请<a data-l10n-name="support-link">访问扩展网站</a>获取开发者联系方式。
 abuse-report-broken-suggestions-theme = 听起来您遇到缺陷（Bug）了。除了在此举报之外，解决功能问题的最佳方式是直接联系扩展开发者。请<a data-l10n-name="support-link">访问主题网站</a>获取开发者联系方式。
 abuse-report-policy-reason = 散播仇恨、暴力、非法内容
