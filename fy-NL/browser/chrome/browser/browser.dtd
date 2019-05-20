@@ -131,7 +131,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Ofdrukke…">
 <!ENTITY printCmd.accesskey "d">
 <!ENTITY printCmd.commandkey "P">
-
 <!ENTITY importFromAnotherBrowserCmd.label "Ymportearje fan in oare browser út…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "b">
 
@@ -439,7 +438,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Foarkarren…">
 <!ENTITY preferencesCmdUnix.accesskey     "F">
-
 <!ENTITY logins.label                           "Oanmeldingen en wachtwurden">
 
 <!ENTITY clearRecentHistory.label               "Resinte skiednis wiskje…">
@@ -530,6 +528,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "U">
 <!ENTITY customizeMenu.removeExtension.label "Utwreiding fuortsmite">
 <!ENTITY customizeMenu.removeExtension.accesskey "f">
+
+<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
+     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.label "Utwreiding rapportearje">
+<!ENTITY customizeMenu.reportExtension.accesskey "r">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -1127,6 +1131,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "O">
 <!ENTITY updateRestart.cancelButton.label "No net">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateUnsupported.panelUI.label "Jo kinne gjin fierdere fernijingen útfiere">
 <!ENTITY updateRestart.panelUI.label2 "Start &brandShorterName; opnij om te fernijen">
 
 <!ENTITY newTabControlled.header.message "Jo nije ljepblêd is wizige.">

@@ -112,10 +112,22 @@ about-debugging-setup-usb-step-enable-debug = Skeakelje USB-flateropspoaring yn 
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox = Skeakelje USB-debugging yn Firefox op it Android-apparaat yn. <a>Mear ynfo</a>
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Untwikkelersmenu ynskeakelje op jo Android-apparaat.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = USB-flateropspoaring yn it Android-ûntwikkelersmenu ynskeakelje.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = USB-flateropspoaring yn Firefox op it Android-apparaat ynskeakelje.
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Ferbyn it Android-apparaat mei jo kompjûter.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = Problemen mei oansluten fan it USB-apparaat? <a>Problemen oplosse</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Netwurklokaasje
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = Problemen mei ferbinen fia in netwurklokaasje? <a>Problemen oplosse</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Tafoegje
