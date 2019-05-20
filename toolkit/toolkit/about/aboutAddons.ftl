@@ -241,7 +241,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Управление горячими клавишами расширений
     .accesskey = п
-shortcuts-empty-message = У этого расширения нет горячих клавиш.
 shortcuts-no-addons = У вас не включено ни одного расширения.
 shortcuts-no-commands = У следующих расширений нет горячих клавиш:
 shortcuts-input =
@@ -298,6 +297,11 @@ remove-addon-button = Удалить
 disable-addon-button = Отключить
 enable-addon-button = Включить
 expand-addon-button = Другие настройки
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Настройки
+       *[other] Настройки
+    }
 addons-enabled-heading = Включено
 addons-disabled-heading = Отключено
 ask-to-activate-button = Включать по запросу

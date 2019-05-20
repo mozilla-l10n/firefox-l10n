@@ -106,11 +106,17 @@ about-debugging-setup-usb-status-enabled = Включён
 about-debugging-setup-usb-status-disabled = Отключён
 about-debugging-setup-usb-status-updating = Обновление…
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu = Включите меню разработчика на вашем Android-устройстве. <a>Узнайте как</a>
+about-debugging-setup-usb-step-enable-dev-menu = Включите режим разработчика на вашем Android-устройстве. <a>Узнайте как</a>
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug = Включите отладку по USB в меню разработчика Android. <a>Узнайте как</a>
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox = Включите отладку по USB в Firefox на вашем Android-устройстве. <a>Узнайте как</a>
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Включите режим разработчика на вашем Android-устройстве.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Включите отладку по USB в меню разработчика Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Включите отладку по USB в Firefox на Android-устройстве.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Подключите Android-устройство к вашему компьютеру.
 # Network section of the Setup page
