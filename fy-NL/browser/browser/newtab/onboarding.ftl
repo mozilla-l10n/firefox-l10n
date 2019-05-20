@@ -5,9 +5,22 @@
 
 ## UI strings for the simplified onboarding modal
 
+
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
+
 onboarding-button-label-learn-more = Mear ynfo
 onboarding-button-label-try-now = No probearje
 onboarding-button-label-get-started = Begjinne
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Wolkom by { -brand-short-name }
 onboarding-welcome-body = Jo hawwe de browser.<br/>Kom yn de kunde mei de rest fan { -brand-product-name }.
 onboarding-welcome-learn-more = Mear ynfo oer de foardielen.
@@ -69,6 +82,37 @@ onboarding-data-sync-title = Nim jo ynstellingen mei jo mei
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = Syngronisearje jo blêdwizers en wachtwurden oeral wêr't jo { -brand-product-name } brûke.
 onboarding-data-sync-button = { -sync-brand-short-name } ynskeakelje
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Syngronisearje jo blêdwizers, wachtwurden en mear, oeral wêr't jo { -brand-product-name } brûke.
+onboarding-data-sync-button2 = Oanmelde by { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Bliuw alert op datalekken
+onboarding-firefox-monitor-text = { -monitor-brand-name } hâldt yn de gaten oft jo e-mailadres foar komt yn in datalek en warskôget jo as dit yn in nij datalek ferskynt.
+onboarding-firefox-monitor-button = Ynskriuwe foar warskôgingen
+onboarding-browse-privately-title = Privee sneupe
+onboarding-browse-privately-text = Priveenavigaasje wisket jo syk- en navigaasjeskiednis, om dit geheim te hâlden foar elkenien dy't jo kompjûter brûkt.
+onboarding-browse-privately-button = Iepenje in priveefinster
+onboarding-firefox-send-title = Hâld jo dielde bestannen privee
+onboarding-firefox-send-text = { -send-brand-name } beskermt de bestannen dy't jo diele mei end-to-endfersifering en in keppeling dy't automatysk ferrint.
+onboarding-firefox-send-text2 = Laad jo bestannen op nei { -send-brand-name } om se te dielen mei end-to-endfersifering en in keppeling dy't automatysk ferrint.
+onboarding-firefox-send-button = Probearje { -send-brand-name }
+onboarding-mobile-phone-title = Download { -brand-product-name } nei jo telefoan
+onboarding-mobile-phone-text = Download { -brand-product-name } foar iOS of Android en syngronisearje jo gegevens op ferskate apparaten.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Download de browser foar mobyl
+onboarding-send-tabs-title = Stjoer josels daliks ljepblêden
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Send Tabs dielt daliks siden tusken jo apparaten sûnder dat jo hoege te kopiearjen, plakken of de browser hoege te ferlitten.
+onboarding-send-tabs-button = Start mei it gebrûk fan Send Tabs
+onboarding-pocket-anywhere-title = Lês en lústerje oeral
+# "downtime" refers to the user's free/spare time.
+onboarding-pocket-anywhere-text = { -pocket-brand-name } bewarret jo favorite ferhalen, sadat jo yn jo frije tiid kinne lêze, lústerje en besjen, sels as jo offline binne.
+onboarding-pocket-anywhere-text2 = Bewarje jo favorite ynhâld offline mei de { -pocket-brand-name }-app en lês, lústerje en sjoch wannear't it jo útkomt.
+onboarding-pocket-anywhere-button = Probearje { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Nim jo wachtwurden oeral mei hinne
+onboarding-lockwise-passwords-text = { -lockwise-brand-name } bewarret jo wachtwurden op in feilich plak, sadat jo jo ienfâldich by jo accounts oanmelde kinne.
+onboarding-lockwise-passwords-button = Download { -lockwise-brand-name }
 
 ## Message strings belonging to the Return to AMO flow
 
