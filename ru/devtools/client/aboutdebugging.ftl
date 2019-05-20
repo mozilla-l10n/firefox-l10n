@@ -116,12 +116,18 @@ about-debugging-setup-usb-step-enable-dev-menu2 = Включите режим р
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = Включите отладку по USB в меню разработчика Android.
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox2 = Включите отладку по USB в Firefox на Android-устройстве.
+about-debugging-setup-usb-step-enable-debug-firefox2 = Включите отладку по USB в Firefox на вашем Android-устройстве.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Подключите Android-устройство к вашему компьютеру.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = Не можете подключиться к USB-устройству? <a>Поиск решения</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Сетевое расположение
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = Проблемы с подключением через сетевое расположение? <a>Поиск решения</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Добавить
