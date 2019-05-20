@@ -287,17 +287,31 @@ find-more-addons = Kekanöx ch'aqa' chik taq tz'aqat
 
 ## Add-on actions
 
+report-addon-button = Tiya' rutzijol
 remove-addon-button = Tiyuj
 disable-addon-button = Tichup
 enable-addon-button = Titzij
 expand-addon-button = Ch'aqa' chik taq Cha'oj
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Taq cha'oj
+       *[other] Taq ajowab'äl
+    }
 addons-enabled-heading = Tzijon
 addons-disabled-heading = Chupun
+ask-to-activate-button = Tik'utüx richin Nitzij
+always-activate-button = Junelik Titzij
+never-activate-button = Majub'ey Titzij
 addon-detail-author-label = B'anel
 addon-detail-version-label = Ruwäch
 addon-detail-last-updated-label = Ruk'isib'äl K'exoj
 addon-detail-homepage-label = Ruxaq tikirib'äl
 addon-detail-rating-label = Kejqalem
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Retal ruq'ij { NUMBER($rating, maximumFractionDigits: 1) } richin 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -313,3 +327,21 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = Xyuj el <span data-l10n-name="addon-name">.
+pending-uninstall-undo-button = Titzolïx
+addon-detail-updates-label = Tiya' q'ij chi ke ri Kiyonil k'exoj
+addon-detail-updates-radio-default = K'o wi
+addon-detail-updates-radio-on = Titzij
+addon-detail-updates-radio-off = Tichup
+addon-detail-update-check-label = Kekanöx taq k'exoj
+install-update-button = Tik'ex
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Tiya' q'ij pa taq ichinan tzuwäch
+addon-detail-private-browsing-allow = Tiya' q'ij
+addon-detail-private-browsing-disallow = Man Tiya' Q'ij
+available-updates-heading = Taq K'exoj e K'o
+recent-updates-heading = K'ak'a' taq K'exoj
