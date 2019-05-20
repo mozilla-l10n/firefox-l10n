@@ -5,9 +5,22 @@
 
 ## UI strings for the simplified onboarding modal
 
+
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
+
 onboarding-button-label-learn-more = Meer info
 onboarding-button-label-try-now = Nu proberen
 onboarding-button-label-get-started = Beginnen
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Welkom bij { -brand-short-name }
 onboarding-welcome-body = U hebt de browser.<br/>Maak kennis met de rest van { -brand-product-name }.
 onboarding-welcome-learn-more = Meer info over de voordelen.
@@ -101,7 +114,7 @@ onboarding-lockwise-passwords-title = Neem uw wachtwoorden overal mee naartoe
 onboarding-lockwise-passwords-text = { -lockwise-brand-name } slaat uw wachtwoorden op een veilige plek op, zodat u zich eenvoudig bij uw accounts kunt aanmelden.
 onboarding-lockwise-passwords-button = Download { -lockwise-brand-name }
 onboarding-lockwise-passwords-text2 = Houd uw opgeslagen wachtwoorden veilig en meld u eenvoudig bij uw accounts aan met { -lockwise-brand-name }.
-onboarding-lockwise-passwords-button2 = Downloaden app
+onboarding-lockwise-passwords-button2 = Download de app
 onboarding-facebook-container-title = Stel grenzen aan Facebook
 onboarding-facebook-container-text = { -facebook-container-brand-name } houdt uw Facebookidentiteit gescheiden van al het andere, waardoor u moeilijker op het web bent te volgen.
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } houdt uw profiel gescheiden van al het andere, waardoor Facebook u moeilijker met advertenties kan bestoken.
