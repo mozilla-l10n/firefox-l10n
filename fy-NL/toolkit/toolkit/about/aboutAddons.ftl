@@ -272,7 +272,21 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Utwreidingen en tema's binne as apps foar jo browser en sy litte jo wachtwurden
+    beskermje, fideo’s downloade, oanbiedingen fine, ferfelende advertinsjes blokkearje, wizigje
+    hoe't jo browser derút sjocht, en noch folle mear. Dizze lytse softwareprogramma's binne
+    faaks ûntwikkele troch in tredde partij. Hjir is in seleksje dy't { -brand-product-name }
+    <a data-l10n-name="learn-more-trigger">oanrekommandearret</a> foar bjusterbaarlike
+    befeiliging, prestaasjes en funksjonaliteit.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Inkelde fan dizze oanrekommandaasjes binne personalisearre. Se binne basearre op oare
+    troch jo ynstallearre útwreidingen, profylfoarkarren en brûksstatistiken.
 discopane-notice-learn-more = Mear ynfo
+privacy-policy = Privacybelied
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -295,6 +309,11 @@ remove-addon-button = Fuortsmite
 disable-addon-button = Utskeakelje
 enable-addon-button = Ynskeakelje
 expand-addon-button = Mear opsjes
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Opsjes
+       *[other] Foarkarren
+    }
 addons-enabled-heading = Ynskeakele
 addons-disabled-heading = Utskeakele
 ask-to-activate-button = Freegje om te aktivearjen
