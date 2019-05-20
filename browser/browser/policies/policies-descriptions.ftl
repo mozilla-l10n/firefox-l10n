@@ -21,6 +21,7 @@ policy-Bookmarks = Blêdwizers meitsje yn de Blêdwizerakbalke, it menu Blêdwiz
 policy-CaptivePortal = Stipe foar hotspot-oanmeldingsside ynskeakelje of útskeakelje.
 policy-CertificatesDescription = Sertifikaten tafoegje of ynboude sertifikaten brûke.
 policy-Cookies = Tastean of wegerje dat websites cookies ynstelle.
+policy-DefaultDownloadDirectory = Standert downloadmap ynstellen
 policy-DisableAppUpdate = Foarkomme dat de browser fernijd wurdt.
 policy-DisableBuiltinPDFViewer = PDF.js útskeakelje, de ynboude PDF-viewer yn { -brand-short-name }.
 policy-DisableDeveloperTools = Tagong ta de ûntwikkelershelpmiddelen blokkearje.
@@ -45,13 +46,16 @@ policy-DisplayBookmarksToolbar = Standert de Blêdwizerarkbalke werjaan.
 policy-DisplayMenuBar = Standert de Menubalke werjaan.
 policy-DNSOverHTTPS = DNS oer HTTPS konfigurearje.
 policy-DontCheckDefaultBrowser = Kontrole op standertbrowser by opstarten útskeakelje.
+policy-DownloadDirectory = De downloadmap ynstelle en beskoattelje.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Ynhâldsblokkearring ynskeakelje of útskeakelje en opsjoneel beskoattelje.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Utwreidingen ynstallearje, fuortsmite of beskoattelje. De opsje foar ynstallearjen brûkt URL’s of paden as parameters. De opsjes foar fuortsmiten en beskoatteljen brûke útwreiding-ID’s.
+policy-ExtensionSettings = Alle aspekten fan ynstallaasje fan útwreidingen beheare.
 policy-ExtensionUpdate = Automatyske útwreiding-fernijingen ynskeakelje of útskeakelje.
+policy-FirefoxHome = De startside fan Firefox ynstelle.
 policy-FlashPlugin = Gebrûk fan de Flash-ynstekker tastean of wegerje.
 policy-HardwareAcceleration = Wannear false, hardwarefersnelling útskeakelje.
 # “lock” means that the user won’t be able to change this setting
@@ -67,6 +71,7 @@ policy-OverridePostUpdatePage = De side ‘Wat is der nij’ nei in fernijing fe
 policy-Permissions = Tastimmingen foar kamera, mikrofoan, lokaasje en notifikaasjes konfigurearje.
 policy-PopupBlocking = Tastean dat bepaalde websites standert pop-ups werjaan.
 policy-Preferences = De wearde foar in subset fan foarkarren ynstelle en beskoattelje.
+policy-PromptForDownloadLocation = Freegje wêr't downloade bestannen bewarre moatte wurde.
 policy-Proxy = Proxyynstellingen konfigurearje.
 policy-RequestedLocales = De list fan frege locales foar de tapassing ynstelle, op folchoarder fan foarkar.
 policy-SanitizeOnShutdown = Alle navigaasjegegevens wiskje by ôfsluten.

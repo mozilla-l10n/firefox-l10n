@@ -113,6 +113,12 @@ onboarding-pocket-anywhere-button = Probearje { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Nim jo wachtwurden oeral mei hinne
 onboarding-lockwise-passwords-text = { -lockwise-brand-name } bewarret jo wachtwurden op in feilich plak, sadat jo jo ienfâldich by jo accounts oanmelde kinne.
 onboarding-lockwise-passwords-button = Download { -lockwise-brand-name }
+onboarding-lockwise-passwords-text2 = Hâld jo bewarre wachtwurden feilich en meld jo ienfâldich by jo accounts oan mei { -lockwise-brand-name }.
+onboarding-lockwise-passwords-button2 = Download de app
+onboarding-facebook-container-title = Stel grinzen oan Facebook
+onboarding-facebook-container-text = { -facebook-container-brand-name } hâldt jo Facebookidentiteit skieden fan al it oare, wêrtroch jo swierder op it web folgje wurde kinne.
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } hâldt jo profyl skieden fan al it oare, wêrtroch Facebook jo swierder mei advertinsjes efterfolgje kin.
+onboarding-facebook-container-button = De útwreiding tafoegje
 
 ## Message strings belonging to the Return to AMO flow
 
