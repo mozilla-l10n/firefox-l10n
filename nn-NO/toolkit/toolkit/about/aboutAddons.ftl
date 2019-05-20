@@ -314,6 +314,10 @@ addon-detail-updates-radio-on = På
 addon-detail-updates-radio-off = Av
 addon-detail-update-check-label = Sjå etter oppdateringar
 install-update-button = Oppdater
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Tillat i private vindauge
 addon-detail-private-browsing-allow = Tillat
 addon-detail-private-browsing-disallow = Ikkje tillat
 available-updates-heading = Tilgjengelege oppdateringar
