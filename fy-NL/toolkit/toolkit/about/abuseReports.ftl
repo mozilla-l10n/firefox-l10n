@@ -69,3 +69,10 @@ abuse-report-broken-suggestions-theme =
     It klinkt as oft jo in bug fûn hawwe. Neist it hjir yntsjinjen fan in rapport, is de bêste manier
     om in funksjoneel probleem op te lossen, kontakt op te nimmen mei de ûntwikkeler fan it tema.
     <a data-l10n-name="support-link">Besykje de website fan it tema</a> foar ynformaasje oer de ûntwikkeler.
+abuse-report-policy-reason = Haatdragende, gewelddiedige of yllegale ynhâld
+abuse-report-policy-suggestions =
+    Opmerking: problemen mei auteursrjochten en hannelsmerken moatte yn in ôfsûnderlik proses melden wurde.
+    <a data-l10n-name="report-infringement-link">Folgje dizze ynstruksjes</a> om it probleem te melden.
+abuse-report-unwanted-reason = Ik haw nea om dizze útwreiding frege en kom der net fan ôf
+abuse-report-unwanted-example = Foarbyld: in tapassing hat dizze sûnder myn tastimming ynstallearre
+abuse-report-other-reason = Wat oars
