@@ -22,6 +22,8 @@ onboarding-button-label-get-started = Пачаць
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Вітаем у { -brand-short-name }
+onboarding-welcome-body = У вас ёсць браўзер. <br/>Пазнаёмцеся з астатнімі { -brand-product-name }.
+onboarding-welcome-learn-more = Даведацца больш аб перавагах.
 onboarding-join-form-header = Далучыцца да { -brand-product-name }
 onboarding-join-form-body = Увядзіце ваш адрас эл.пошты для пачатку працы.
 onboarding-join-form-email =
@@ -37,6 +39,7 @@ onboarding-start-browsing-button-label = Пачаць агляданне
 onboarding-benefit-products-title = Карысныя прадукты
 onboarding-benefit-products-text = Рабіце свае справы з дапамогай сямейства інструментаў, якое паважае вашу прыватнасць на ўсіх вашых прыладах.
 onboarding-benefit-knowledge-title = Практычныя веды
+onboarding-benefit-knowledge-text = Даведайцеся ўсё, што трэба ведаць, каб заставацца больш кемлівымі і бяспечнымі ў сеціве.
 onboarding-benefit-privacy-title = Сапраўдная прыватнасць
 
 ## These strings belong to the individual onboarding messages.

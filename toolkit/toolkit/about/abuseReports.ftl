@@ -30,8 +30,10 @@ abuse-report-messagebar-submitting = Адпраўляецца паведамле
 
 ## Message bars actions.
 
-abuse-report-messagebar-action-remove = Так, выдаліць
-abuse-report-messagebar-action-keep = Не, я буду працягваць
+abuse-report-messagebar-action-remove-extension = Так, выдаліць
+abuse-report-messagebar-action-keep-extension = Не, пакінуць яго
+abuse-report-messagebar-action-remove-theme = Так, выдаліць
+abuse-report-messagebar-action-keep-theme = Не, пакінуць яе
 abuse-report-messagebar-action-retry = Паўтарыць
 abuse-report-messagebar-action-cancel = Скасаваць
 
@@ -44,6 +46,9 @@ abuse-report-settings-reason = Змяніў маю пошукавую сістэ
 abuse-report-settings-suggestions = Перш чым паведаміць аб пашырэнні, вы можаце паспрабаваць змяніць параметры:
 abuse-report-settings-suggestions-search = Змяніць прадвызначаныя налады пошуку
 abuse-report-settings-suggestions-homepage = Змяніць хатнюю старонку і новую картку
+abuse-report-broken-reason-theme = Не працуе або парушае адлюстраванне браўзера
+abuse-report-broken-example = Прыклад: функцыі марудныя, цяжкія ў выкарыстанні або не працуюць; часткі сайтаў не загружаюцца ці выглядаюць незвычайна
+abuse-report-policy-reason = Ненавісны, гвалтоўны або незаконны змест
 abuse-report-unwanted-reason = Ніколі не хацеў гэта пашырэнне і не магу пазбавіцца ад яго
 abuse-report-unwanted-example = Прыклад: праграма усталявала гэта без майго дазволу
 abuse-report-other-reason = Нешта іншае
