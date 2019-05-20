@@ -27,6 +27,4 @@ appmenu-update-restart =
 appmenu-update-restart-message = پھر سے شروع ہونے کے بعد، { -brand-shorter-name } اپ کے تمام کھلیں ٹیب اور ونڈوں بحال کرے گا جو کی رازداری براؤزنگ موڈ میں نہیں ہے۔
 appmenu-addon-private-browsing-installed =
     .buttonlabel = ٹھیک ہے سمجھ آگئی ہے
-    .buttonaccesskey =
-        OO
-        O
+    .buttonaccesskey = O
