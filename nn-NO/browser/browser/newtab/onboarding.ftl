@@ -55,8 +55,11 @@ onboarding-ghostery-text = Surf raskare, smartare eller sikrare med utvidingar s
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synkroniser
 onboarding-fxa-text = Registrer deg for eit { -fxaccount-brand-name } og synkroniser bokmerka dine, passord og opne faner overalt der du brukar { -brand-short-name }.
+onboarding-tracking-protection-title = Hald styr på korleis du vert spora
+onboarding-tracking-protection-button2 = Korleis det verkar
 onboarding-data-sync-title = Ta med deg innstillingane dine
 onboarding-data-sync-button = Slå på { -sync-brand-short-name }
+onboarding-data-sync-button2 = Logg inn på { -sync-brand-short-name }
 onboarding-firefox-send-button = Prøv { -send-brand-name }
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.

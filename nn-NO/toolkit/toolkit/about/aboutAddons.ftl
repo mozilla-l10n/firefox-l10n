@@ -264,9 +264,25 @@ go-back-button =
 
 ## Recommended add-ons page
 
+privacy-policy = Personvernpraksis
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = av <a data-l10n-name="author"> { $author } </a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Brukarar: { $dailyUsers }
+install-extension-button = Legg til i { -brand-product-name }
+install-theme-button = Installer tema
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Handter
+find-more-addons = Finn fleire tillegg
 
 ## Add-on actions
 
+report-addon-button = Rapporter
 remove-addon-button = Fjern
 disable-addon-button = Slå av
 enable-addon-button = Slå på
@@ -296,6 +312,8 @@ addon-detail-reviews-link =
 addon-detail-updates-radio-default = Standard
 addon-detail-updates-radio-on = På
 addon-detail-updates-radio-off = Av
+addon-detail-update-check-label = Sjå etter oppdateringar
+install-update-button = Oppdater
 addon-detail-private-browsing-allow = Tillat
 addon-detail-private-browsing-disallow = Ikkje tillat
 available-updates-heading = Tilgjengelege oppdateringar
