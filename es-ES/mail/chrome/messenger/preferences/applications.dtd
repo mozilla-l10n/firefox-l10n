@@ -27,5 +27,6 @@
 <!ENTITY authRequired.description "Se requiere su autorización para ver las opciones de este servicio de almacenamiento.">
 <!ENTITY authRequired.button.label "Autorizar">
 <!ENTITY authRequired.button.accesskey "o">
+<!ENTITY findCloudFileProviders.label "Buscar más proveedores…">
 <!ENTITY enableCloudFileAccountOffer.label "Ofrecerlo para compartir archivos mayores de">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
