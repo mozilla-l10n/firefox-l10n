@@ -18,6 +18,7 @@ inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> majun nub'ä
 inactive-css-not-grid-item = <strong>{ $property }</strong> majun nub'än pa re ch'akulal re' ruma chi man ruch'akulal ta ri wokowïk kajtz'ik.
 inactive-css-not-grid-container = <strong>{ $property }</strong> majun nub'än pa re ch'akulal re' ruma majun ta ruk'wayöl wokowïk kajtz'ik.
 inactive-css-not-flex-item = <strong>{ $property }</strong> majun nub'än pa re ch'akulal re' ruma chi majun ta jalel ch'akulal.
+inactive-css-not-flex-container = <strong>{ $property }</strong> majun nub'än chi re re ch'akulal re' ruma chi majun ta jalel k'wayöl.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
