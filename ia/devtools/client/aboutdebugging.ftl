@@ -112,6 +112,12 @@ about-debugging-setup-usb-step-enable-debug = Activar le depuration USB in le me
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox = Activa le depuration USB in Firefox sur le  apparato Android. <a>Apprende como</a>
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Activar le menu pro disveloppatores sur tu dispositivo Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Activar le recerca de errores USB in le menu pro disveloppatores sur Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Activar le recerca de errores USB in Firefox sur le dispositivo Android.
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Connecte le apparato Android a tu computator.
 # Network section of the Setup page
 about-debugging-setup-network =
