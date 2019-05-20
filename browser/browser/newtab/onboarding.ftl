@@ -5,14 +5,27 @@
 
 ## UI strings for the simplified onboarding modal
 
+
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
+
 onboarding-button-label-learn-more = 详细了解
 onboarding-button-label-try-now = 立即尝鲜
 onboarding-button-label-get-started = 开始使用
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = 欢迎使用 { -brand-short-name }
 onboarding-welcome-body = 浏览器安装完成。<br/>了解 { -brand-product-name } 的其他功能。
 onboarding-welcome-learn-more = 详细了解好处。
 onboarding-join-form-header = 加入 { -brand-product-name }
-onboarding-join-form-body = 请在此输入您的电子邮箱地址，即可开始使用。
+onboarding-join-form-body = 在此输入您的电子邮件地址，即可开始使用。
 onboarding-join-form-email =
     .placeholder = 输入电子邮件地址
 onboarding-join-form-email-error = 需要有效的电子邮件地址
@@ -63,7 +76,7 @@ onboarding-tracking-protection-button =
        *[other] 更新首选项
     }
 onboarding-tracking-protection-title2 = 保护您不受跟踪
-onboarding-tracking-protection-text2 = { -brand-short-name } 有助于阻止网站在线上跟踪您，让广告更难追着你。
+onboarding-tracking-protection-text2 = { -brand-short-name } 可帮助阻止网站的在线跟踪，让广告更难盯上您。
 onboarding-tracking-protection-button2 = 工作原理
 onboarding-data-sync-title = 将您的设置随身带着走
 # "Sync" is short for synchronize.
