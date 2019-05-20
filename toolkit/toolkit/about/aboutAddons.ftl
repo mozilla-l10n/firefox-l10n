@@ -283,7 +283,7 @@ discopane-intro =
     beschermen, video’s downloaden, koopjes vinden, vervelende advertenties blokkeren, wijzigen
     hoe uw browser eruit ziet, en nog veel meer. Deze kleine softwareprogramma's zijn
     vaak ontwikkeld door een derde partij. Hier is een selectie die { -brand-product-name }
-    <a data-l10n-name="learn-more-trigger"> aanbeveelt </a> voor uitstekende
+    <a data-l10n-name="learn-more-trigger">aanbeveelt</a> voor uitstekende
     beveiliging, prestaties en functionaliteit.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
