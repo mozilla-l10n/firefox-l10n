@@ -158,6 +158,9 @@ private-browsing-description2 =
 extensions-view-discover =
     .name = Kek'ulutäj ri taq tz'aqat
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Taq chilab'enïk
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = K'ak'a' taq k'exoj
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -238,7 +241,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Kenuk'samajïx Kichojokem taq K'amal
     .accesskey = i
-shortcuts-empty-message = Majun ruchojokem re k'amal re'.
 shortcuts-no-addons = Majun ak'amal atzijon.
 shortcuts-no-commands = Re taq k'amal re' majun ruq'a' rokem pitz'b'äl:
 shortcuts-input =
@@ -263,6 +265,25 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Tik'ut pe Jub'a'
 go-back-button =
     .tooltiptext = Titzolin
+
+## Recommended add-ons page
+
+discopane-notice-learn-more = Tetamäx ch'aqa' chik
+privacy-policy = Ichinan Na'oj
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = ruma <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Okisanela': { $dailyUsers }
+install-extension-button = Titz'aqatisäx pa { -brand-product-name }
+install-theme-button = Tiyak Wachinel
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Tinuk'samajïx
+find-more-addons = Kekanöx ch'aqa' chik taq tz'aqat
 
 ## Add-on actions
 
@@ -289,3 +310,6 @@ addon-detail-reviews-link =
         [one] { $numberOfReviews } nik'oj
        *[other] { $numberOfReviews } taq nik'oj
     }
+
+## Pending uninstall message bar
+
