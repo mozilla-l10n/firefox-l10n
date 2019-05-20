@@ -7,7 +7,7 @@
 ### Firefox" and "version" is used to mean "the specific revision number of a
 ### given Firefox channel". These terms are not synonymous.
 
-title = महत्त्वपूर्ण बातमी
+title = महत्त्वपूर्ण बातम्या
 heading = आपल्या { -brand-short-name } प्रोफाइलमध्ये बदल
 changed-title = काय बदलले?
 changed-desc-profiles = { -brand-short-name }च्या ह्या स्थापनास नवीन प्रोफाइल आहे. प्रोफाइल म्हणजे असा फाईलचा संच जिथे Firefox वाचनखुणा, पासवर्ड आणि वापरकर्त्यांची पसंती साठवून ठेवतो.

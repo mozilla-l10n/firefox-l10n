@@ -5,10 +5,24 @@
 
 ## UI strings for the simplified onboarding modal
 
+
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
+
 onboarding-button-label-learn-more = अधिक जाणा
 onboarding-button-label-try-now = आत्ताच वापरुन पाहा
 onboarding-button-label-get-started = सुरु करा
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = { -brand-short-name } मध्ये आपले स्वागत आहे
+onboarding-welcome-learn-more = होणाऱ्या लाभाबद्दल अधिक जाणून घ्या.
 onboarding-join-form-email =
     .placeholder = ईमेल प्रविष्ट करा
 onboarding-join-form-email-error = वैध ईमेल आवश्यक
