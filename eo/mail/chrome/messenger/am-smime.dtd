@@ -27,11 +27,11 @@
 
 <!ENTITY certificates.label "Atestiloj">
 <!ENTITY manageCerts2.label "Administri atestilojn">
-<!ENTITY manageCerts2.accesskey "M">
-<!ENTITY manageDevices.label "Security Devices">
-<!ENTITY manageDevices.accesskey "y">
+<!ENTITY manageCerts2.accesskey "A">
+<!ENTITY manageDevices.label "Sekurecaj aparatoj">
+<!ENTITY manageDevices.accesskey "p">
 
 <!-- Strings for the cert picker dialog -->
-<!ENTITY certPicker.title "Select Certificate">
-<!ENTITY certPicker.info  "Certificate:">
-<!ENTITY certPicker.detailsLabel "Details of selected certificate:">
+<!ENTITY certPicker.title "Elekti atestilon">
+<!ENTITY certPicker.info  "Atestilo:">
+<!ENTITY certPicker.detailsLabel "Detaloj pri elektita atestilo:">
