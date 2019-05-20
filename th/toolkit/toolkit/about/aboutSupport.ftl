@@ -96,6 +96,7 @@ media-device-name = ชื่อ
 media-device-group = กลุ่ม
 media-device-vendor = ผู้จำหน่าย
 media-device-state = สถานะ
+media-device-channels = ช่อง
 media-device-rate = อัตรา
 media-device-latency = เวลาแฝง
 intl-app-title = การตั้งค่าแอปพลิเคชัน
