@@ -5,6 +5,12 @@
 abuse-report-title-extension = Signaler cette extension à { -vendor-short-name }
 abuse-report-title-theme = Signaler ce thème à { -vendor-short-name }
 abuse-report-subtitle = Quel est le problème ?
+# Variables:
+#   $author-name (string) - Name of the add-on author
+abuse-report-addon-authored-by = par <a data-l10n-name="author-name">{ $author-name }</a>
+abuse-report-learnmore =
+    Vous ne savez pas quel problème choisir ?
+    <a data-l10n-name="learnmore-link">Apprenez-en plus sur le signalement d’extensions et de thèmes</a>
 abuse-report-submit-description = Décrivez le problème (facultatif)
 abuse-report-textarea =
     .placeholder = Il est plus facile pour nous de résoudre un problème si nous avons connaissance des détails. Veuillez décrire ce que vous avez constaté. Merci de nous aider à garder le Web en bonne santé.
