@@ -268,6 +268,16 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Ri taq k'amal chuqa' ri taq wachinel e ruchokoy okik'amaya'l chuqa' nikiya' q'ij chi re
+    ye'achajij ri ewan taq  tzij, ye'aqasaj taq silowäch, ye'akanoj taq sujuj, ye'aq'ät taq eltzijol,
+    najäl ruwäch ri okik'amaya'l chuqa' ch'aqa' chik. Jutaqil e aj röx winäq ri yeb'anon re ko'öl taq runuk'samaj cholkema'. Niqasüj jun rucha'oj { -brand-product-name }
+    <a data-l10n-name="learn-more-trigger">echilab'en</a> pa metz'etel
+    jikomal, rub'eyal nisamäj chuqa' rusamaj.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations = Jujun chi ke re taq chilab'enïk re' e'ichinan. K'o kixe'el pa jujun chik taq k'amal e'ayakon, kajowab'al rub'i' awäch chuqa' rumolob'a' rokisaxik.
 discopane-notice-learn-more = Tetamäx ch'aqa' chik
 privacy-policy = Ichinan Na'oj
 # Refers to the author of an add-on, shown below the name of the add-on.
@@ -297,6 +307,9 @@ preferences-addon-button =
         [windows] Taq cha'oj
        *[other] Taq ajowab'äl
     }
+details-addon-button = Kib'anikil
+release-notes-addon-button = Ruch'utitzijol re ruwäch re'
+permissions-addon-button = Taq ya'oj q'ij
 addons-enabled-heading = Tzijon
 addons-disabled-heading = Chupun
 ask-to-activate-button = Tik'utüx richin Nitzij
@@ -341,7 +354,10 @@ install-update-button = Tik'ex
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Tiya' q'ij pa taq ichinan tzuwäch
+addon-detail-private-browsing-help = Toq tzij, ri k'amal pa ronojel samaj xtok wi toq atokinäq pa k'amaya'l pan ichinan rub'anikil. <a data-l10n-name="learn-more">Tetamäx ch'aqa' chik</a>
 addon-detail-private-browsing-allow = Tiya' q'ij
 addon-detail-private-browsing-disallow = Man Tiya' Q'ij
 available-updates-heading = Taq K'exoj e K'o
 recent-updates-heading = K'ak'a' taq K'exoj
+release-notes-loading = Nusamajib'ej…
+release-notes-error = Takuyu' qamak, xa xk'ulwachitäj jun sachoj toq nok pa ch'utaq rutzijol ri ko'öl wuj.
