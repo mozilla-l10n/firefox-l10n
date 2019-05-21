@@ -313,6 +313,9 @@ preferences-addon-button =
         [windows] Налады
        *[other] Перавагі
     }
+details-addon-button = Падрабязнасці
+release-notes-addon-button = Заўвагі да выпуску
+permissions-addon-button = Правы доступу
 addons-enabled-heading = Уключана
 addons-disabled-heading = Выключана
 ask-to-activate-button = Спытаць для задзейнічання
@@ -363,3 +366,6 @@ addon-detail-private-browsing-allow = Дазволіць
 addon-detail-private-browsing-disallow = Не дазваляць
 available-updates-heading = Даступныя абнаўленні
 recent-updates-heading = Нядаўнія абнаўленні
+release-notes-loading = Загрузка…
+release-notes-error = Выбачайце, здарылася памылка пры загрузцы заўваг да выпуску.
+addon-permissions-empty = Гэта пашырэнне не патрабуе якіх-небудзь дазволаў
