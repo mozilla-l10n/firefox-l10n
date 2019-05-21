@@ -219,7 +219,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
 <!ENTITY fxa.signin.callout.label "Porta Firefox con te">
-<!ENTITY fxa.signin.description.label "Tene tu marcapaginas, chronologia, contrasignos e alie configurationes sur tote tu apparatos.">
+<!ENTITY fxa.signin.description.label "Tene tu marcapaginas, chronologia, contrasignos e altere configurationes sur tote tu apparatos.">
 <!ENTITY fxa.signin.button.label "Activar &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
