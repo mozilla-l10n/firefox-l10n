@@ -906,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Iste sito web contine contento que non es secur (como scripts) e tu connexion a illo non es private.">
 <!ENTITY identity.description.activeLoaded2 "Le informationes que tu comparti con iste sito pote esser vidite per alteres (como contrasignos, messages, cartas de credito, etc.).">
 
+<!ENTITY identity.description.customRoot "Mozilla non recognosce le subjecto qui ha emittite iste certificato. Poterea ser addite per le systema operative o per un administrator.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Activar le protection">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
