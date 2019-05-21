@@ -102,10 +102,10 @@ detail-private-disallowed-description = To rozszerzenie nie działa podczas prze
 detail-private-required-label = Wymaga dostępu do okien prywatnych
 detail-private-required-description = To rozszerzenie ma dostęp do działań użytkownika w Internecie podczas przeglądania w trybie prywatnym. <label data-l10n-name="detail-private-browsing-learn-more">Więcej informacji</label>
 detail-private-browsing-on =
-    .label = Zezwalaj
+    .label = zezwalaj
     .tooltiptext = Włącz w trybie prywatnym
 detail-private-browsing-off =
-    .label = Nie zezwalaj
+    .label = nie zezwalaj
     .tooltiptext = Wyłącz w trybie prywatnym
 detail-home =
     .label = Strona domowa
