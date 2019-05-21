@@ -341,6 +341,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Bloqueou este website de utilizar o plugin Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Bloqueou o acesso MIDI para este website.">
 
+<!ENTITY urlbar.installBlocked.tooltip           "Bloqueou a instalação de extras para este website.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar histórico">
 
@@ -885,6 +886,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Esta página está carregada a partir de uma extensão.">
 <!ENTITY identity.insecureLoginForms2 "Credenciais introduzidas nesta página podem ser comprometidas.">
 
+<!ENTITY identity.customRoot "Ligação verificada por um emissor de certificados que não é reconhecido pela Mozilla.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "O &brandShortName; bloqueou partes desta página que não são seguras.">
@@ -904,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Este website contém conteúdo que não é seguro (tal como scripts) e a sua ligação ao mesmo não é privada.">
 <!ENTITY identity.description.activeLoaded2 "A informação que partilhar com este site pode ser vista por outros (tal como palavras-passe, mensagens, cartões de crédito, etc.).">
 
+<!ENTITY identity.description.customRoot "A Mozilla não reconhece este emissor de certificados. Este pode ter sido adicionado a partir do seu sistema operativo ou por um administrador.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Ativar proteção">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "e">
