@@ -4,7 +4,7 @@
 
 about-policies-title = Корпоративные политики
 # 'Active' is used to describe the policies that are currently active
-active-policies-tab = Активна
+active-policies-tab = Активны
 errors-tab = Ошибки
 documentation-tab = Документация
 no-specified-policies-message = Служба корпоративных политик активна, но ни одной политики не включено.
