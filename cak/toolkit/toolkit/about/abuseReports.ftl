@@ -36,9 +36,30 @@ abuse-report-messagebar-submitting = Nitaq ri rutzijol richin <span data-l10n-na
 abuse-report-messagebar-submitted = Matyox ruma xatäq ri rutzijol. ¿La nawajo' nayüj el <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = Matyox ruma xatäq ri rutzijol.
 abuse-report-messagebar-removed-extension = Matyox ruma natäq re rutzijol. Xayüj ri k'amal <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-theme = Matyox ruma natäq ri rutzijol. Xayüj ri wachinel <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error = Xk'ulwachitäj jun sachoj toq nitaq ri rutzijol pa ruwi' <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error-recent-submit = Man xtaq ta ri rutzijol pa ruwi' <span data-l10n-name="addon-name">{ $addon-name }</span> ruma taqon chik jun rutzijol.
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove-extension = Ja', Tiyuj
+abuse-report-messagebar-action-keep-extension = Manäq. Tinyaka'
+abuse-report-messagebar-action-remove-theme = Ja', Tiyuj
+abuse-report-messagebar-action-keep-theme = Manäq, Xtinyäk
+abuse-report-messagebar-action-retry = Titojtob'ëx chik
+abuse-report-messagebar-action-cancel = Tiq'at
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason = Yeruyüj nukematz'ib' chuqa' ri tzij
+abuse-report-damage-example = Achi'el: Nujäq malwar o nreleq'aj tzij
+abuse-report-spam-reason = Yetz'uk spam o taq eltzij
+abuse-report-spam-example = Achi'el: Yeruju' taq eltzijol pa ajk'amaya'l ruxaq
+abuse-report-settings-reason = Tijal ri wokik'amaya'l, tikirib'äl ruxaq o k'ak'a' ruwi' akuchi' man tiya' rutzijol chwe ni xa ta tik'utüx pe chwe
+abuse-report-settings-suggestions = Chuwäch niya' rutzijol ri k'amal, tatojtob'ej najäl ri runuk'ulem:
+abuse-report-settings-suggestions-search = Tajala' runuk'ulem okik'amaya'l k'o wi
+abuse-report-settings-suggestions-homepage = Tajala' ri tikirib'äl ruxaq chuqa' ri k'ak'a' ruwi'
+abuse-report-deceptive-reason = Man tuna' ri' achi'el ri man ja ta rija'
+abuse-report-deceptive-example = Achi'el: Q'olonel o achik'anel rutzijoxik
+abuse-report-broken-reason-extension = Man nisamäj ta, yeruyüj ri ajk'amaya'l ruxaq o eqal nub'än chi re { -brand-product-name }
+abuse-report-broken-reason-theme = Man nisamäj ta o nuyüj ri nuk'üt ri okik'amaya'l
