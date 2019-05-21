@@ -154,7 +154,7 @@ legacy-warning-show-legacy = Monstrar le extensiones obsolete
 legacy-extensions =
     .value = Extensiones obsolete
 legacy-extensions-description = Iste extensiones non satisface le standards actual de { -brand-short-name } e ha essite disactivate. <label data-l10n-name="legacy-learn-more">Saper lo que cambiava al additivos</label>
-private-browsing-description2 = { -brand-short-name } es cambiar como le extensiones functiona in Navigation private. Cata nove extension que tu adde a { -brand-short-name } non fluera de ordinario in le Fenestras private. A minus que tu lo consenti in le parametros, le extension non functiona in Navigation private e illac non habera accesso a tu activitates online. Nos ha facite iste cambio pro mantener private tu navigation anonyme. <label data-l10n-name="private-browsing-learn-more">Apprende a gerer le parametros del extension.</label>
+private-browsing-description2 = { -brand-short-name } cambia le functionamento del extensiones in Navigation private. Omne nove extensiones que tu adde a { -brand-short-name } normalmente non se executara in le Fenestras private. Si tu non lo permitte in le configuration, le extension non functionara in Navigation private e non habera accesso a tu activitates online illac. Nos ha facite iste cambio pro mantener private tu navigation private. <label data-l10n-name="private-browsing-learn-more">Discoperi como configurar le extensiones.</label>
 extensions-view-discover =
     .name = Obtener additivos
     .tooltiptext = { extensions-view-discover.name }
@@ -270,7 +270,7 @@ go-back-button =
 
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = Le extensiones e le themas es como applicationes pro tu navigator e illes te consenti de proteger contrasignos, discargar videos, trovar accordos, blocar enoiose avisos publicitari, cambiar como tu navigator pare e multo plus. Iste micre programmas software es sovente disveloppate per un tertie parte. Ecce un selection que { -brand-product-name } <a data-l10n-name="learn-more-trigger">recommenda</a> pro securitate, performance e functionalitate exceptional.
+discopane-intro = Le extensiones e le themas es como mini-applicationes pro tu navigator e illos te consenti de proteger contrasignos, discargar videos, trovar offertas, blocar enoiose avisos publicitari, cambiar le apparentia de tu navigator e multo plus. Iste micre programmas software es sovente disveloppate per un tertie parte. Ecce un selection que { -brand-product-name } <a data-l10n-name="learn-more-trigger">recommenda</a> pro securitate, rendimento e functionalitate exceptional.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Parte de iste recommendationes es personalisate. Illos basate sur preferentias de profilo e statistica de uso de altere extensiones que tu ha installate.
 discopane-notice-learn-more = Saper plus
