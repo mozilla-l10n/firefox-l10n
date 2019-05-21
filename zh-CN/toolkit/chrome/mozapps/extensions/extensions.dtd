@@ -62,7 +62,7 @@
 <!ENTITY addon.updateAvailable.label          "有可用更新">
 <!ENTITY addon.checkingForUpdates.label       "正在检查更新…">
 <!ENTITY addon.releaseNotes.label             "发行说明：">
-<!ENTITY addon.loadingReleaseNotes.label      "载入中…">
+<!ENTITY addon.loadingReleaseNotes.label      "正在载入…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "抱歉，载入发行说明时出错。">
 
 <!ENTITY addon.createdBy.label                "创建者 ">

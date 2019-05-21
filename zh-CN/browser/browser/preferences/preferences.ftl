@@ -34,6 +34,7 @@ policies-notice =
         [windows] 您的组织已禁用某些选项。
        *[other] 您的组织已禁用某些首选项。
     }
+managed-notice = 您的浏览器正由组织管理。
 pane-general-title = 常规
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = 隐私与安全
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox 账户
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -524,8 +521,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = 保存
     .accesskey = v
-sync-mobilepromo-single = 连接其他设备
-sync-mobilepromo-multi = 管理设备
 sync-connect-another-device = 连接其他设备
 sync-manage-devices = 管理设备
 sync-fxa-begin-pairing = 配对设备
@@ -683,7 +678,6 @@ content-blocking-all-third-party-cookies = 所有第三方 Cookie
 content-blocking-cryptominers = 加密货币挖矿程序
 content-blocking-fingerprinters = 数字指纹跟踪程序
 content-blocking-warning-title = 注意！
-content-blocking-warning-desc = 拦截 Cookie 与跟踪器可能导致某些网站异常。但对您信任的网站禁用拦截非常简单。
 content-blocking-warning-description = 拦截内容后可能导致某些网站异常。但对您信任的网站禁用拦截非常简单。
 content-blocking-learn-how = 了解方法
 content-blocking-reload-description = 需要重新载入标签页才能应用变更。

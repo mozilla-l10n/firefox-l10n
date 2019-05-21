@@ -10,7 +10,7 @@ search-header =
 search-header-shortcut =
     .key = f
 loading-label =
-    .value = 载入中…
+    .value = 正在载入…
 list-empty-installed =
     .value = 您没有安装任何此类型的附加组件
 list-empty-available-updates =
@@ -298,6 +298,9 @@ preferences-addon-button =
         [windows] 选项
        *[other] 首选项
     }
+details-addon-button = 详细信息
+release-notes-addon-button = 发行说明
+permissions-addon-button = 权限
 addons-enabled-heading = 已启用
 addons-disabled-heading = 已禁用
 ask-to-activate-button = 需要时询问
@@ -346,3 +349,6 @@ addon-detail-private-browsing-allow = 允许
 addon-detail-private-browsing-disallow = 不允许
 available-updates-heading = 可用更新
 recent-updates-heading = 最近更新
+release-notes-loading = 正在载入…
+release-notes-error = 抱歉，载入发行说明时出错。
+addon-permissions-empty = 此扩展未要求任何权限
