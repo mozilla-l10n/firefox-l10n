@@ -305,6 +305,8 @@ preferences-addon-button =
         [windows] Inställningar
        *[other] Inställningar
     }
+details-addon-button = Detaljer
+permissions-addon-button = Behörigheter
 addons-enabled-heading = Aktiverad
 addons-disabled-heading = Inaktiverad
 ask-to-activate-button = Fråga om aktivering
@@ -354,3 +356,5 @@ addon-detail-private-browsing-allow = Tillåt
 addon-detail-private-browsing-disallow = Tillåt inte
 available-updates-heading = Tillgängliga uppdateringar
 recent-updates-heading = Senaste uppdateringar
+release-notes-loading = Laddar…
+addon-permissions-empty = Detta tillägg kräver inga behörigheter
