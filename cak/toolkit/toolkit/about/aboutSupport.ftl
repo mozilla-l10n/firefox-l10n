@@ -196,6 +196,7 @@ gpu-device-id = ID okisaxel
 gpu-subsys-id = ID Subsys
 gpu-drivers = K'alab'anela'
 gpu-ram = RAM
+gpu-driver-vendor = Ruk'ayinel Driver
 gpu-driver-version = Ruwäch ri okisaxel
 gpu-driver-date = Ruq'ijul ri okisaxel
 gpu-active = Tzijïl

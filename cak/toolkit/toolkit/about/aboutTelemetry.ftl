@@ -15,6 +15,7 @@ about-telemetry-option-group-older = Nimalaxel
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Taq rutzij Telemetry
+about-telemetry-current-store = K'ayb'äl Wakami:
 about-telemetry-more-information = ¿La nakanoj ch'aqa' chik etamab'äl?
 about-telemetry-firefox-data-doc = Ri <a data-l10n-name="data-doc-link">Firefox Tzij Wujunïk</a> k'o taq rucholajem samaj chupam, akuchi' nusik'ij rub'eyal yeqasamajij ri kisamajib'al qatzij.
 about-telemetry-telemetry-client-doc = Ri <a data-l10n-name="client-doc-link">Firefox Telemetry winäq wujib'äl</a> k'o taq kitzijol tzij chupam, API wujib'äl chuqa' ketal taq tzij.
