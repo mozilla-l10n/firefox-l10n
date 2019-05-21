@@ -44,10 +44,6 @@ category-search =
 pane-privacy-title = Pang-sarilinan & Seguridad
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox Account
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -509,8 +505,7 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = I-save
     .accesskey = v
-sync-mobilepromo-single = Ikonekta ang isa pang device
-sync-mobilepromo-multi = Pamahalaan ang mga device
+sync-fxa-begin-pairing = I-pares ang isa pang device
 sync-tos-link = Tuntunin ng Serbisyo
 sync-fxa-privacy-notice = Paunawa sa Privacy
 
@@ -670,6 +665,7 @@ collection-health-report-link = Karagdagang kaalaman
 collection-studies =
     .label = Payagan ang { -brand-short-name } na mag-install at mag-run ng studies
 collection-studies-link = I-view ang studies ng { -brand-short-name }
+addon-recommendations-link = Alamin pa
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Hindi pinagana ang pag-uulat ng data para sa build configuration na ito

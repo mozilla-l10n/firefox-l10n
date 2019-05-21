@@ -23,3 +23,6 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = Kumalas at Magtanggal
     .accesskey = K
+sync-disconnect-confirm-disconnect =
+    .label = Kumalas
+    .accesskey = K
