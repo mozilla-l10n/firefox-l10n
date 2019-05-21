@@ -80,7 +80,6 @@ about-debugging-runtime-disconnect-button = Disconnetti
 about-debugging-connection-prompt-enable-button = Attiva richiesta di connessione
 about-debugging-connection-prompt-disable-button = Disattiva richiesta di connessione
 about-debugging-profiler-dialog-title2 = Profiler
-about-debugging-extension-debug-setting-label = Attiva debug estensioni. <a>Ulteriori informazioni</a>
 about-debugging-collapse-expand-debug-targets = Comprimi/espandi
 about-debugging-debug-target-list-empty = Nessun elemento.
 about-debugging-debug-target-inspect-button = Analizza
