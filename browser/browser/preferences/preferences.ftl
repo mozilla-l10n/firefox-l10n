@@ -34,6 +34,7 @@ policies-notice =
         [windows] Sua organização desativou a possibilidade de modificar algumas opções
        *[other] Sua organização desativou a possibilidade de modificar algumas preferências
     }
+managed-notice = Seu navegador está sendo gerenciado por nossa organização.
 pane-general-title = Geral
 category-general =
     .tooltiptext = { pane-general-title }
