@@ -240,7 +240,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Tastowe skrótšenki rozšěrjenjow rjadować
     .accesskey = T
-shortcuts-empty-message = Tastowe skrótšenki za tute rozšěrjenje njejsu.
 shortcuts-no-addons = Njejśce žane rozšěrjenja zmóžnił.
 shortcuts-no-commands = Slědowace rozšěrjenja tastowe skrótšenki nimaja:
 shortcuts-input =
@@ -296,6 +295,14 @@ remove-addon-button = Wotstronić
 disable-addon-button = Znjemóžnić
 enable-addon-button = Zmóžnić
 expand-addon-button = Dalše nastajenja
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Nastajenja
+       *[other] Nastajenja
+    }
+details-addon-button = Podrobnosće
+release-notes-addon-button = Wersijowe informacije
+permissions-addon-button = Prawa
 addons-enabled-heading = Zmóžnjene
 addons-disabled-heading = Znjemóžnjene
 ask-to-activate-button = Za aktiwizowanje so prašeć
@@ -346,3 +353,5 @@ addon-detail-private-browsing-allow = Dowolić
 addon-detail-private-browsing-disallow = Njedowolić
 available-updates-heading = K dispoziciji stejace aktualizacije
 recent-updates-heading = Najnowše aktualizacije
+release-notes-loading = Začituje so…
+release-notes-error = Při začitowanju wersijowych informacijow je bohužel zmylk wustupił.

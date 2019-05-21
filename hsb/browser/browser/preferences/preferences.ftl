@@ -34,6 +34,7 @@ policies-notice =
         [windows] Waša organizacija je změny někotrych nastajenjow znjemóžnił.
        *[other] Waša organizacija je změny někotrych nastajenjow znjemóžnił.
     }
+managed-notice = Waš wobhladowka so wot wašeje organizacije rjaduje.
 pane-general-title = Powšitkowny
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = Priwatnosć a wěstota
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Konto Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -534,8 +531,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Składować
     .accesskey = k
-sync-mobilepromo-single = Z druhim gratom zwjazać
-sync-mobilepromo-multi = Graty rjadować
 sync-connect-another-device = Z druhim gratom zwjazać
 sync-manage-devices = Graty rjadować
 sync-fxa-begin-pairing = Grat zwjazać
@@ -693,7 +688,6 @@ content-blocking-all-third-party-cookies = Wšě placki třećich
 content-blocking-cryptominers = Kryptokopanje
 content-blocking-fingerprinters = Porstowe wotćišće
 content-blocking-warning-title = Kedźbu!
-content-blocking-warning-desc = Hdyž placki a přesćěhowaki blokujeće, njemóhli někotre websydła korektnje fungować. Je lochko, blokowanje sydłow, kotrymž dowěrjeće, znjemóžnić.
 content-blocking-warning-description = Blokowanje wobsaha móže zawinować, zo někotre websydła hižo njefunguja. Je lochko, blokowanje za sydła znjemóžnić, kotrymž dowěrjeće.
 content-blocking-learn-how = Zhońće kak
 content-blocking-reload-description = Dyrbiće swoje rajtarki znowa začitać, zo byšće tute změny nałožił.
