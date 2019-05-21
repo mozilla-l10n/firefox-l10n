@@ -8,6 +8,10 @@ abuse-report-subtitle = ¿Achike ri k'ayewal?
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = ruma <a data-l10n-name="author-name">{ $author-name }</a>
+abuse-report-learnmore =
+    ¿La man at jikïl ta achike k'ayewal nacha'?
+    <a data-l10n-name="learnmore-link">Tawetamaj ch'aqa' chik etamab'äl chi rij kitzijol taq k'amal chuqa' taq wachinel</a>
+abuse-report-submit-description = Tacholo' ri k'ayewal (cha'el)
 
 ## Panel buttons.
 
