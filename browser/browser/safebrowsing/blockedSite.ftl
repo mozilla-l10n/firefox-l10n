@@ -26,5 +26,5 @@ safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> foi <a data-l10n-name='error_desc_link'>denunciado por conter um aplicativo potencialmente prejudicial</a>.
 safeb-blocked-harmful-page-learn-more = Saiba mais sobre a Proteção contra Programas e Páginas Mal Intencionados do { -brand-short-name } em <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =
-    .label = Esta não é uma página maliciosa…
-    .accesskey = m
+    .label = Este não é um site enganoso…
+    .accesskey = e

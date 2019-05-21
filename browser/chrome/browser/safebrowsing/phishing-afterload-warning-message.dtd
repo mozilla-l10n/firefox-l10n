@@ -8,12 +8,12 @@
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
   item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
   shown. -->
-<!ENTITY safeb.palm.notdeceptive.label "Esta não é uma página maliciosa…">
+<!ENTITY safeb.palm.notdeceptive.label "Este não é um site enganoso…">
 <!-- Localization note (safeb.palm.notdeceptive.accesskey) - Because
   safeb.palm.notdeceptive.label and reportDeceptiveSiteMenu.title from
   report-phishing.dtd are never shown at the same time, the same accesskey can
   be used for them. -->
-<!ENTITY safeb.palm.notdeceptive.accesskey "m">
+<!ENTITY safeb.palm.notdeceptive.accesskey "e">
 
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
 <!ENTITY safeb.palm.advisory.desc2 "Assessoria fornecida por <a id='advisory_provider'/>.">
