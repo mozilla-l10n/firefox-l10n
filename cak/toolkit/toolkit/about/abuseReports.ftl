@@ -63,3 +63,5 @@ abuse-report-deceptive-reason = Man tuna' ri' achi'el ri man ja ta rija'
 abuse-report-deceptive-example = Achi'el: Q'olonel o achik'anel rutzijoxik
 abuse-report-broken-reason-extension = Man nisamäj ta, yeruyüj ri ajk'amaya'l ruxaq o eqal nub'än chi re { -brand-product-name }
 abuse-report-broken-reason-theme = Man nisamäj ta o nuyüj ri nuk'üt ri okik'amaya'l
+abuse-report-broken-example = Achi'el: Eqal nisamäj, k'ayew ye'okisäx o man yesamäj ta; peraj chi ke ri taq ajk'amaya'l ruxaq man yesamäj ta o man relik ta kib'anikil.
+abuse-report-policy-reason = Etamab'äl nuk'üt oyowal, uchuq'a' o man ütz ta
