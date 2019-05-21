@@ -38,3 +38,7 @@
 <!ENTITY browse.accesskey                 "เ">
 
 <!ENTITY defaultSearchEngine.label        "เครื่องมือค้นหาเริ่มต้น">
+<!ENTITY addSearchEngine.label            "เพิ่มจากไฟล์">
+<!ENTITY addSearchEngine.accesskey        "พ">
+<!ENTITY removeSearchEngine.label         "เอาออก">
+<!ENTITY removeSearchEngine.accesskey     "อ">
