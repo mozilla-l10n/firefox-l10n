@@ -606,6 +606,8 @@
 <!ENTITY compactButton.tooltip "Poista poistettu viesti valitusta kansiosta">
 <!ENTITY appmenuButton1.tooltip "Avaa &brandShortName;-valikko">
 
+<!ENTITY addonsButton.tooltip "Hallinnoi lisäosia">
+
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Välitä rungossa">
 <!ENTITY buttonMenuForwardAsAttachment.label "Välitä liitteenä">
@@ -637,7 +639,7 @@
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Uusi tunnus…">
 <!ENTITY addNewTag.accesskey "t">
-<!ENTITY manageTags.label "Muokkaa tunnuksia…">
+<!ENTITY manageTags.label "Hallinnoi tunnuksia…">
 <!ENTITY manageTags.accesskey "M">
 
 <!-- Folder Pane -->
