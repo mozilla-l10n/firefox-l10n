@@ -886,6 +886,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "此頁面是擴充套件頁面。">
 <!ENTITY identity.insecureLoginForms2 "在此頁面輸入的登入資訊可能會被洩漏。">
 
+<!ENTITY identity.customRoot "連線是由 Mozilla 不認識的憑證簽發者所驗證。">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; 已經封鎖此頁面中不安全的部分。">
@@ -905,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "此網站包含不安全的內容（例如指令碼），與其之間的連線並不私密。">
 <!ENTITY identity.description.activeLoaded2 "您提供給此網站的資訊（例如密碼、訊息、信用卡號等等）可能會被其他人看到。">
 
+<!ENTITY identity.description.customRoot "Mozilla 不認識此憑證簽發者，可能是由您的作業系統或網路管理員所加入的。">
 
 <!ENTITY identity.enableMixedContentBlocking.label "啟用保護">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
