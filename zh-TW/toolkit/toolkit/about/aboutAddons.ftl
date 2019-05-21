@@ -300,6 +300,9 @@ preferences-addon-button =
         [windows] 選項
        *[other] 偏好設定
     }
+details-addon-button = 詳細資訊
+release-notes-addon-button = 新鮮事
+permissions-addon-button = 權限
 addons-enabled-heading = 已啟用
 addons-disabled-heading = 已停用
 ask-to-activate-button = 啟用時詢問
@@ -348,3 +351,6 @@ addon-detail-private-browsing-allow = 允許
 addon-detail-private-browsing-disallow = 不允許
 available-updates-heading = 可用的更新
 recent-updates-heading = 最近的更新
+release-notes-loading = 載入中…
+release-notes-error = 抱歉，載入新鮮事時發生錯誤。
+addon-permissions-empty = 此擴充套件並未要求任何權限
