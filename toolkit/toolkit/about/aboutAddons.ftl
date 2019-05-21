@@ -163,6 +163,9 @@ private-browsing-description2 =
 extensions-view-discover =
     .name = Získať doplnky
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Odporúčania
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Nedávno aktualizované
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -243,7 +246,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Spravovať klávesové skratky pre rozšírenia
     .accesskey = n
-shortcuts-empty-message = Toto rozšírenie nemá žiadne klávesové skratky.
 shortcuts-no-addons = Nemáte povolené žiadne rozšírenie.
 shortcuts-no-commands = Nasledujúce rozšírenia nemajú skratky:
 shortcuts-input =
@@ -270,6 +272,20 @@ shortcuts-card-collapse-button = Zobraziť menej
 go-back-button =
     .tooltiptext = Späť
 
+## Recommended add-ons page
+
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Niektoré z týchto odporúčaní sú vám prispôsobené. Sú založené na rozšíreniach, ktoré už
+    máte nainštalované, nastaveniach profilu a štatistikách používania.
+discopane-notice-learn-more = Ďalšie informácie
+privacy-policy = Zásady ochrany súkromia
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Počet používateľov: { $dailyUsers }
+install-theme-button = Nainštalovať tému vzhľadu
+
 ## Add-on actions
 
 report-addon-button = Nahlásiť
@@ -277,6 +293,14 @@ remove-addon-button = Odstrániť
 disable-addon-button = Zakázať
 enable-addon-button = Povoliť
 expand-addon-button = Ďalšie možnosti
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Možnosti
+       *[other] Možnosti
+    }
+details-addon-button = Podrobnosti
+release-notes-addon-button = Poznámky k vydaniu
+permissions-addon-button = Povolenia
 addons-enabled-heading = Povolené
 addons-disabled-heading = Zakázané
 addon-detail-author-label = Autor
@@ -300,3 +324,4 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+release-notes-loading = Načítava sa…

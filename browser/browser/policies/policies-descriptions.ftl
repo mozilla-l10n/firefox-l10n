@@ -53,6 +53,7 @@ policy-EnableTrackingProtection = Zapne alebo vypne blokovanie obsahu a prípadn
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Nainštaluje, odinštaluje alebo uzamkne rozšírenie. Pre inštaláciu je potrebné ako parameter zadať URL adresy alebo cesty. Pre odinštaláciu alebo uzamknutie je potrebné ID rozšírenia.
+policy-ExtensionSettings = Spravuje všetky aspekty inštalácie rozšírenia.
 policy-ExtensionUpdate = Zapne alebo vypne automatické aktualizácie rozšírení.
 policy-FirefoxHome = Nastaví domovskú stránku Firefoxu.
 policy-FlashPlugin = Povolí alebo zakáže používanie zásuvného modulu Flash.
