@@ -117,3 +117,6 @@ about-debugging-main-process-name = Processo principale
 about-debugging-main-process-description2 = Processo principale per il browser obiettivo
 about-debugging-message-close-icon =
   .alt = Chiudi messaggio
+about-debugging-message-details-label-error = Dettagli errore
+about-debugging-message-details-label-warning = Dettagli avviso
+about-debugging-message-details-label = Dettagli
