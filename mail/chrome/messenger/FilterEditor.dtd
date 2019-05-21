@@ -28,6 +28,8 @@
 <!ENTITY contextArchive.label "ob arhiviranju">
 <!ENTITY contextArchive.accesskey "a">
 
+<!ENTITY contextPeriodic.accesskey "e">
+
 <!ENTITY filterActionDesc.label "Izvedi ta dejanja:">
 <!ENTITY filterActionDesc.accesskey "z">
 

@@ -9,6 +9,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Pomoč">
 <!ENTITY helpMenuWin.accesskey "m">
+<!ENTITY aboutProduct2.label "O &brandShorterName;u">
+<!ENTITY aboutProduct2.accesskey "O">
 <!ENTITY helpTroubleshootingInfo.label     "Reševanje težav">
 <!ENTITY helpTroubleshootingInfo.accesskey "R">
 <!ENTITY helpSafeMode.label     "Ponovno zaženi z onemogočenimi dodatki …">
@@ -20,13 +22,25 @@
 <!ENTITY openHelp.label "Vsebina pomoči">
 <!ENTITY openHelp.accesskey "V">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "Pomoč za &brandShortName;">
 <!ENTITY openHelpMac2.label "Pomoč za &brandFullName;">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY aboutMenuCmd.label "O &brandShortName;u">
-<!ENTITY aboutMenuCmd.accesskey "O">
-
 <!ENTITY aboutMenuCmd2.label "O &brandFullName;u">
 <!ENTITY aboutMenuCmd2.accesskey "O">
+<!ENTITY productHelp.label "Pomoč za &brandShortName;">
+<!ENTITY productHelp.accesskey "P">
+<!ENTITY productHelp.commandkey "VK_F1">
+<!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "accel">
+
+
+<!ENTITY helpFeedbackPage.label "Povratne informacije …">
+<!ENTITY helpFeedbackPage.accesskey "v">
+
+
+<!ENTITY helpGetInvolvedPage.label "Pridružite se">
+<!ENTITY helpGetInvolvedPage.accesskey "ž">
+
+<!ENTITY helpDonationsPage.label "Donirajte">
+<!ENTITY helpDonationsPage.accesskey "D">
