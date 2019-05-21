@@ -90,6 +90,8 @@
 <!ENTITY todaypane.showMinimonth.accesskey "ส">
 <!ENTITY todaypane.showMiniday.label "แสดงวันขนาดเล็ก">
 <!ENTITY todaypane.showMiniday.accesskey  "ส">
+<!ENTITY todaypane.showNone.label "ไม่แสดง">
+<!ENTITY todaypane.showNone.accesskey "ม">
 <!ENTITY todaypane.showTodayPane.label "แสดงบานหน้าต่างวันนี้">
 <!ENTITY todaypane.showTodayPane.accesskey "ส">
 <!ENTITY todaypane.statusButton.label "บานหน้าต่างวันนี้">
