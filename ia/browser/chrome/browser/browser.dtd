@@ -1185,7 +1185,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Cambios al extensiones in Fenestras private">
-<!ENTITY addonPrivateBrowsing.body2.label "Ulle nove extensiones que tu adde a &brandShorterName; non functiona in Fenestras private, a minus que tu lo consenti in le parametros.">
+<!ENTITY addonPrivateBrowsing.body2.label "Omne nove extensiones que tu adde a &brandShorterName; non functiona in Fenestras private a minus que tu lo permitte in le configuration.">
 <!ENTITY addonPrivateBrowsing.learnMore.label "Discoperi como gerer le parametros del extension.">
 <!ENTITY addonPrivateBrowsing.okButton.label "OK, io lo comprende">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">

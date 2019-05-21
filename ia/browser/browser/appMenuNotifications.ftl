@@ -45,5 +45,5 @@ appmenu-addon-private-browsing =
     .buttonaccesskey = G
     .secondarybuttonlabel = OK, io lo comprende
     .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = Ulle nove extensiones que tu adde a { -brand-shorter-name } non functiona in Fenestras private a minus que tu lo consenti in le parametros.
+appmenu-addon-private-browsing-message = Omne nove extensiones que tu adde a { -brand-shorter-name } non functiona in Fenestras private a minus que tu lo permitte in le configuration.
 appmenu-addon-private-browsing-learn-more = Discoperi como gerer le parametros del extension.
