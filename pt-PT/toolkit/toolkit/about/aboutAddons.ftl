@@ -311,6 +311,9 @@ preferences-addon-button =
         [windows] Opções
        *[other] Preferências
     }
+details-addon-button = Detalhes
+release-notes-addon-button = Notas de lançamento
+permissions-addon-button = Permissões
 addons-enabled-heading = Ativados
 addons-disabled-heading = Desativados
 ask-to-activate-button = Solicitar ativação
@@ -360,3 +363,6 @@ addon-detail-private-browsing-allow = Permitir
 addon-detail-private-browsing-disallow = Não permitir
 available-updates-heading = Atualizações disponíveis
 recent-updates-heading = Atualizações recentes
+release-notes-loading = A carregar…
+release-notes-error = Desculpe mas ocorreu um erro ao carregar as notas de lançamento.
+addon-permissions-empty = Esta extensão não requer quaisquer permissões

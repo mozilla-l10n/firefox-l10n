@@ -34,6 +34,7 @@ policies-notice =
         [windows] A sua organização desativou a habilidade de alterar algumas opções.
        *[other] A sua organização desativou a habilidade de alterar algumas preferências.
     }
+managed-notice = O seu navegador está a ser gerido pela sua organização.
 pane-general-title = Geral
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = Privacidade e Segurança
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Conta Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -528,8 +525,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Guardar
     .accesskey = r
-sync-mobilepromo-single = Ligar outro dispositivo
-sync-mobilepromo-multi = Gerir dispositivos
 sync-connect-another-device = Ligar outro dispositivo
 sync-manage-devices = Gerir dispositivos
 sync-fxa-begin-pairing = Emparelhar um dispositivo
@@ -687,7 +682,6 @@ content-blocking-all-third-party-cookies = Todos os cookies de terceiros
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
 content-blocking-warning-title = Atenção!
-content-blocking-warning-desc = Bloquear cookies e trackers pode causar com que alguns websites quebrem. É fácil desativar o bloqueio para sites que confia.
 content-blocking-warning-description = Bloquear conteúdo pode causar com que alguns websites quebrem. É fácil desativar o bloqueio para sites em que confia.
 content-blocking-learn-how = Saber mais
 content-blocking-reload-description = Irá precisar de recarregar os seus separadores para aplicar estas alterações.
