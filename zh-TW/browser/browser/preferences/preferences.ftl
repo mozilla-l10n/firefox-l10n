@@ -34,6 +34,7 @@ policies-notice =
         [windows] 您的組織已鎖定某些選項。
        *[other] 您的組織已鎖定某些偏好設定。
     }
+managed-notice = 您的瀏覽器是由組織管理。
 pane-general-title = 一般
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = 隱私權與安全性
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox 帳號
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -516,8 +513,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = 儲存
     .accesskey = v
-sync-mobilepromo-single = 連結其他裝置
-sync-mobilepromo-multi = 管理裝置
 sync-connect-another-device = 連結其他裝置
 sync-manage-devices = 管理裝置
 sync-fxa-begin-pairing = 與裝置配對
@@ -675,7 +670,6 @@ content-blocking-all-third-party-cookies = 所有第三方 Cookie
 content-blocking-cryptominers = 加密貨幣採礦程式
 content-blocking-fingerprinters = 數位指紋追蹤程式
 content-blocking-warning-title = 注意！
-content-blocking-warning-desc = 封鎖 Cookie 與追蹤器可能會造成某些網站故障。若開啟網站遇到問題，很簡單就能為您信任的網站關閉封鎖。
 content-blocking-warning-description = 封鎖內容後可能造成某些網站無法正常運作。很簡單就能為您信任的網站關閉封鎖功能。
 content-blocking-learn-how = 了解要怎麼做
 content-blocking-reload-description = 需要重新載入分頁才能套用變更。
