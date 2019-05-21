@@ -291,7 +291,7 @@ find-more-addons = 부가기능 더 찾기
 ## Add-on actions
 
 report-addon-button = 신고하기
-remove-addon-button = 삭제
+remove-addon-button = 제거
 disable-addon-button = 비활성화
 enable-addon-button = 활성화
 expand-addon-button = 옵션 더보기
