@@ -34,6 +34,7 @@ policies-notice =
         [windows] Tu organisation ha disactivate le poter de cambiar alcun optiones.
        *[other] Tu organisation ha disactivate le poter de cambiar alcun preferentias.
     }
+managed-notice = Tu navigator debe ser gerite per tu organisation.
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = Confidentialitate e securitate
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Conto Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -528,8 +525,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Salvar
     .accesskey = v
-sync-mobilepromo-single = Connecte altere apparato
-sync-mobilepromo-multi = Gerer le apparatos
 sync-connect-another-device = Connecter un altere apparato
 sync-manage-devices = Gerer apparatos
 sync-fxa-begin-pairing = Accopular un apparato
@@ -687,7 +682,6 @@ content-blocking-all-third-party-cookies = Tote le cookies de tertie partes
 content-blocking-cryptominers = Crypto-minatores
 content-blocking-fingerprinters = Dactylogrammatores
 content-blocking-warning-title = Attention!
-content-blocking-warning-desc = Blocar cookies e traciatores pote impedir le functionamento de alcun sitos. Il es facile inactiva le blocar de sitos que tu fide.
 content-blocking-warning-description = Alcun sitos web pote non functionar correctemente con le blocage de contento. Es facile disactivar le blocage pro sitos de confidentia.
 content-blocking-learn-how = Apprender como
 content-blocking-reload-description = Tu debera recargar tu schedas pro applicar iste cambios.

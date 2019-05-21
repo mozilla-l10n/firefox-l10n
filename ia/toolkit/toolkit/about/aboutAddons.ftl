@@ -302,6 +302,9 @@ preferences-addon-button =
         [windows] Optiones
        *[other] Preferentias
     }
+details-addon-button = Detalios
+release-notes-addon-button = Notas pro iste version
+permissions-addon-button = Permissos
 addons-enabled-heading = Activate
 addons-disabled-heading = Disactivate
 ask-to-activate-button = Demandar pro activar
@@ -351,3 +354,6 @@ addon-detail-private-browsing-allow = Consentir
 addon-detail-private-browsing-disallow = Non consentir
 available-updates-heading = Actualisationes disponibile
 recent-updates-heading = Actualisationes recente
+release-notes-loading = Cargamento…
+release-notes-error = Pardono, ma il habeva un error cargante le notas de revision
+addon-permissions-empty = Iste extension non require ulle permission

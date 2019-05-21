@@ -131,7 +131,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Imprimer…">
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.commandkey "p">
-
 <!ENTITY importFromAnotherBrowserCmd.label "Importar ab un altere navigator…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
@@ -342,6 +341,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Tu ha blocate iste sito web per le plug-in de Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Tu ha blocate le accesso MIDI pro iste sito web.">
 
+<!ENTITY urlbar.installBlocked.tooltip           "Tu ha blocate le accesso al installation de additivos pro iste sito web.">
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Monstrar le chronologia">
 
 <!ENTITY searchItem.title             "Cercar">
@@ -439,7 +440,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferentias">
 <!ENTITY preferencesCmdUnix.accesskey     "P">
-
 <!ENTITY logins.label                           "Connexiones e contrasignos">
 
 <!ENTITY clearRecentHistory.label               "Vacuar le chronologia recente…">
@@ -886,6 +886,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Iste pagina es cargate ab un extension.">
 <!ENTITY identity.insecureLoginForms2 "Le informationes de authentication scribite in iste pagina pote esser compromittite.">
 
+<!ENTITY identity.customRoot "Connexion verificate per un certificate emittite per un autoritate non recognoscite per Mozilla.">
+
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ha blocate partes de iste pagina que non es secur.">
 <!ENTITY identity.passiveLoaded "Partes de iste pagina non es secur (pro exemplo, imagines).">
@@ -903,6 +905,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Ben que &brandShortName; ha blocate alcun contento, il ha ancora contento in le pagina que non es secur (pro exemplo, imagines).">
 <!ENTITY identity.description.activeLoaded "Iste sito web contine contento que non es secur (como scripts) e tu connexion a illo non es private.">
 <!ENTITY identity.description.activeLoaded2 "Le informationes que tu comparti con iste sito pote esser vidite per alteres (como contrasignos, messages, cartas de credito, etc.).">
+
 
 <!ENTITY identity.enableMixedContentBlocking.label "Activar le protection">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
