@@ -12,6 +12,8 @@ abuse-report-learnmore =
     ¿La man at jikïl ta achike k'ayewal nacha'?
     <a data-l10n-name="learnmore-link">Tawetamaj ch'aqa' chik etamab'äl chi rij kitzijol taq k'amal chuqa' taq wachinel</a>
 abuse-report-submit-description = Tacholo' ri k'ayewal (cha'el)
+abuse-report-textarea =
+    .placeholder = Man k'ayew ta nub'än chi qawäch jun k'ayewal we k'o jikïl taq rub'anikil chi qawäch. Tab'ana' utzil, tatzijoj achike xak'ulwachij. Matyox ruma yojato' chi niqab'än raxinäq chi re ri k'amab'ey.
 
 ## Panel buttons.
 
