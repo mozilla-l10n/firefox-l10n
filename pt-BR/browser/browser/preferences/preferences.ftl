@@ -46,10 +46,6 @@ category-search =
 pane-privacy-title = Privacidade e Segurança
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Conta Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -528,8 +524,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Salvar
     .accesskey = v
-sync-mobilepromo-single = Conectar outro dispositivo
-sync-mobilepromo-multi = Gerenciar dispositivos
 sync-connect-another-device = Conectar outro dispositivo
 sync-manage-devices = Gerenciar dispositivos
 sync-fxa-begin-pairing = Parear um dispositivo
@@ -687,7 +681,6 @@ content-blocking-all-third-party-cookies = Todos os cookies de terceiros
 content-blocking-cryptominers = Criptomineradores
 content-blocking-fingerprinters = Fingerprinters (rastreadores de "impressões digitais")
 content-blocking-warning-title = Atenção!
-content-blocking-warning-desc = Bloquear cookies e rastreadores pode atrapalhar alguns sites. É fácil desativar o bloqueio em sites que você confia.
 content-blocking-warning-description = O bloqueio de conteúdo pode fazer alguns sites não funcionarem direito. É fácil desativar o bloqueio em sites que você confia.
 content-blocking-learn-how = Saiba como
 content-blocking-reload-description = É preciso recarregar as abas para aplicar essas mudanças.
@@ -800,7 +793,7 @@ collection-backlogged-crash-reports-link = Saiba mais
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Segurança
-security-browsing-protection = Conteúdo Enganoso e Proteção Contra Software Perigoso
+security-browsing-protection = Proteção contra Conteúdo Enganoso e Softwares Perigosos
 security-enable-safe-browsing =
     .label = Bloquear conteúdo perigoso e malicioso
     .accesskey = B
