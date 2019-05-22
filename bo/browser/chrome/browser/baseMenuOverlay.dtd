@@ -1,0 +1,51 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "ཆུང་ཤོས་སྒྱུར">
+<!ENTITY bringAllToFront.label    "ཆ་ཚང་མདུན་དུ་ལེན་པ">
+<!ENTITY zoomWindow.label         "བཅར་ཚད">
+<!ENTITY windowMenu.label         "འཆར་སྒྲོམ">
+
+<!ENTITY helpMenu.label           "རོགས་འདེགས"> 
+<!ENTITY helpMenu.accesskey       "H"> 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "རོགས་འདེགས"> 
+<!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY aboutProduct2.label      "&brandShorterName;་ཡི་སྐོར">
+<!ENTITY aboutProduct2.accesskey  "A">
+<!ENTITY productHelp2.label       "&brandShorterName;་ཡི་རོགས་འདེགས">
+<!ENTITY productHelp2.accesskey   "H">
+<!ENTITY helpMac.commandkey       "?">
+
+<!ENTITY helpKeyboardShortcuts.label     "མཐེབ་སྒྲོམ་གྱི་མགྱོག་མཐེབ">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
+
+<!ENTITY helpSafeMode.label       "ཟུར་སྣོན་ནུས་མེད་བཟོས་ནས་འགོ་བསྐྱར་འཛུགས…">
+<!ENTITY helpSafeMode.accesskey   "R">
+<!ENTITY helpSafeMode.stop.label       "ཟུར་སྣོན་ནུས་ཡོད་བཟོས་ནས་འགོ་བསྐྱར་འཛུགས">
+<!ENTITY helpSafeMode.stop.accesskey   "R">
+
+<!ENTITY helpTroubleshootingInfo.label      "སྐྱོན་སེལ་བྱེད་ཀྱི་ཆ་འཕྲིན">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
+
+<!ENTITY helpFeedbackPage.label      "Submit Feedback…">
+<!ENTITY helpFeedbackPage.accesskey  "S">
+
+<!ENTITY helpShowTour2.label            "&brandShorterName;་ཡི་ལྟ་སྐོར།">
+<!ENTITY helpShowTour2.accesskey        "o">
+
+<!ENTITY preferencesCmdMac.label        "སྒྲིག་འགོད…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+
+<!ENTITY servicesMenuMac.label          "ཞབས་ཞུ">
+
+<!ENTITY hideThisAppCmdMac2.label       "&brandShorterName;་སྐུང་པ">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
+
+<!ENTITY hideOtherAppsCmdMac.label      "གཞན་དག་སྐུང་པ">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+
+<!ENTITY showAllAppsCmdMac.label        "ཆ་ཚང་སྟོན་པ">

@@ -13,51 +13,51 @@ permissions-block =
     .label = བཀག་པ
     .accesskey = B
 permissions-session =
-    .label = སྦྲེལ་ཐུན་ལ་བྱེད་ཆོག་པ
+    .label = སྦྲེལ་ཐུན་ལ་གཏོང་བ
     .accesskey = S
 permissions-allow =
-    .label = བྱེད་ཆོག་པ
+    .label = གཏོང་བ
     .accesskey = A
 permissions-site-name =
     .label = དྲ་ཚིགས
 permissions-status =
     .label = གནས་སྟངས
 permissions-remove =
-    .label = དྲ་ཚོགས་བསུབ་པ
+    .label = དྲ་ཚིགས་བསུབ་པ
     .accesskey = R
 permissions-remove-all =
-    .label = Remove All Websites
+    .label = དྲ་ཚིགས་ཡོངས་བསུབ་པ
     .accesskey = e
 permissions-button-cancel =
-    .label = Cancel
+    .label = ཕྱིར་འཐེན
     .accesskey = C
 permissions-button-ok =
-    .label = Save Changes
+    .label = བཟོ་བཅོས་ཉར་ཚགས
     .accesskey = S
 permissions-searchbox =
-    .placeholder = Search Website
+    .placeholder = དྲ་ཚིགས་འཚོལ་བ
 permissions-capabilities-allow =
-    .label = Allow
+    .label = གཏོང་བ
 permissions-capabilities-block =
-    .label = Block
+    .label = བཀག་པ
 permissions-capabilities-prompt =
-    .label = Always Ask
+    .label = དུས་རྟག་ཏུ་འདྲི་བ
 permissions-capabilities-listitem-allow =
-    .value = Allow
+    .value = གཏོང་བ
 permissions-capabilities-listitem-block =
-    .value = Block
+    .value = བཀག་པ
 permissions-capabilities-listitem-allow-session =
-    .value = Allow for Session
+    .value = སྦྲེལ་ཐུན་ལ་གཏོང་བ
 
 ## Invalid Hostname Dialog
 
-permissions-invalid-uri-title = Invalid Hostname Entered
-permissions-invalid-uri-label = Please enter a valid hostname
+permissions-invalid-uri-title = དྲ་མིང་མི་དག་པ་བཅུག་འདུག
+permissions-invalid-uri-label = ཡང་དག་པའི་དྲ་མིང་ཞིག་འཇུག་རོགས
 
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-content-blocking-window =
-    .title = Exceptions - Content Blocking
+    .title = དམིགས་བསལ་ཅན- ནང་དོན་བཀག་འགོག
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = You have disabled content blocking on these websites.
 
