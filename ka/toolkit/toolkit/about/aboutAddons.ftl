@@ -307,6 +307,14 @@ remove-addon-button = მოცილება
 disable-addon-button = ამორთვა
 enable-addon-button = ჩართვა
 expand-addon-button = დამატებითი პარამეტრები
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] პარამეტრები
+       *[other] პარამეტრები
+    }
+details-addon-button = ვრცლად
+release-notes-addon-button = გამოშვების მონაცემები
+permissions-addon-button = ნებართვები
 addons-enabled-heading = ჩართულია
 addons-disabled-heading = ამორთულია
 ask-to-activate-button = ნებართვა გასაშვებად
@@ -356,3 +364,6 @@ addon-detail-private-browsing-allow = დაშვება
 addon-detail-private-browsing-disallow = აკრძალვა
 available-updates-heading = ხელმისწვდომი განახლებები
 recent-updates-heading = ბოლო განახლებები
+release-notes-loading = იტვირთება...
+release-notes-error = სამწუხაროდ, ვერსიის მონაცემების ჩვენებისას მოხდა შეცდომა.
+addon-permissions-empty = გაფართოება არ ითხოვს რამე ნებართვას
