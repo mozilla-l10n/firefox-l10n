@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY header.label     "ཁ་བྱང་བསྡུས་པ"> 
+<!ENTITY message.label    "འདིར་དཔེ་བརྗོད་འགའ་ཞིག་ཡོད།">
+<!ENTITY editfield0.label "སྤྱོད་མཁན་མིང:"> 
+<!ENTITY editfield1.label "གསང་གྲངས:"> 
+<!ENTITY checkbox.label   "ཚོལ་ལྟ">
+<!ENTITY copyCmd.label    "འདྲ་བཤུ">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY selectAllCmd.label "ཆ་ཚང་གདམ་པ">
+<!ENTITY selectAllCmd.accesskey "A">
