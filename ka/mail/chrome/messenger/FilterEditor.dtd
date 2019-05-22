@@ -28,6 +28,8 @@
 <!ENTITY contextArchive.label "დაარქივება">
 <!ENTITY contextArchive.accesskey "დ">
 
+<!ENTITY contextPeriodic.accesskey "ე">
+
 <!ENTITY filterActionDesc.label "ამ მოქმედებების შესრულება:">
 <!ENTITY filterActionDesc.accesskey "ქ">
 

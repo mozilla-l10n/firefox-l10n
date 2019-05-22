@@ -64,4 +64,4 @@
 <!ENTITY PreviewModeTab.label "შეთვალიერება">
 <!ENTITY PreviewMode.label "შეთვალიერება">
 <!ENTITY PreviewMode.accesskey "შ">
-<!ENTITY PreviewMode.tooltip "WYSIWYG სახით ჩვენება (როგორც ბრაუზერში)">
+<!ENTITY PreviewMode.tooltip "WYSIWYG-სახით ჩვენება (როგორც ბრაუზერში)">
