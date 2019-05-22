@@ -6,6 +6,7 @@
 <!ENTITY firstrun_urlbar_message2 "Tatsavu ni ki\&apos;un &brandShortName;">
 <!ENTITY newfirstrun_urlbar_message "Kukueni &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Iin nu nuduku ña\&apos;a Mozilla, kue ndukukue xu\&apos;un kunikue koo iin web ña\&apos;a nti\&apos;o.">
+<!ENTITY newfirstrun_urlbar_subtext "Yachi, se\&apos;é.">
 <!ENTITY firstrun_panel_title_privacy "Ña meu">
 <!ENTITY firstrun_privacy_message "Nduku tana ko\&apos;ona nche\&apos;eyo">
 <!ENTITY firstrun_privacy_subtext "Ndunku ña seé cha ma nchikavai ña ndukuku ta ntsonu sau.">
@@ -410,12 +411,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Snuù">
 <!ENTITY pref_private_data_syncedTabs "Xikua nuna">
 
-<!ENTITY pref_default_browser "Saa navegador xinaa">
-
 <!ENTITY pref_default_browser2 "Sa\&apos;a &brandShortName; ña\&apos;a meu">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Katavi cha katsi&brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Kuncheè Mozilla Support">
 <!ENTITY pref_about_firefox "Tsaa &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">

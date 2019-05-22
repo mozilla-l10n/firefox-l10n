@@ -122,3 +122,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
 <!ENTITY networkProtocolError.title "Vaà protocolo ña red">
+<!ENTITY networkProtocolError.longDesc "<p>Página kunu kuncheu, kue ku ndatui ri yee ña'a kue vaá protocolo de red.</p><ul><li>Sa'a ña mani, katu'un nu sto'ó sitio web.</li></ul>">
