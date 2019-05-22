@@ -16,7 +16,7 @@
 <!ENTITY size.accesskey                   "ข">
 <!ENTITY regularSize.label                "ธรรมดา">
 <!ENTITY bigger.label                     "ใหญ่">
-<!ENTITY smaller.label                    "เล็ก">
+<!ENTITY smaller.label                    "เล็กลง">
 <!ENTITY quotedTextColor.label            "สี:">
 <!ENTITY quotedTextColor.accesskey        "ส">
 <!ENTITY displayWidth.label               "ข้อความตัวอักษรธรรมดา">
