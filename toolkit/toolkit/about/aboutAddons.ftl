@@ -270,6 +270,9 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro = Les extensions et les thèmes sont comme des applications pour votre navigateur qui vous permettent de protéger vos mots de passe, télécharger des vidéos, trouver de bonnes affaires, bloquer les publicités gênantes, changer l’apparence de votre navigateur, etc. Ces petits logiciels sont souvent produits par des développeurs tiers. Voici une sélection que { -brand-product-name } <a data-l10n-name="learn-more-trigger">recommande</a> pour une sécurité, des performances et des fonctionnalités poussées.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Certaines de ces recommandations sont personnalisées. Cette sélection se fonde sur d’autres extensions que vous avez installées, les préférences de votre profil et les statistiques d’utilisation.
 discopane-notice-learn-more = En savoir plus
@@ -296,6 +299,13 @@ remove-addon-button = Supprimer
 disable-addon-button = Désactiver
 enable-addon-button = Activer
 expand-addon-button = Plus d’options
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Options
+       *[other] Préférences
+    }
+details-addon-button = Détails
+permissions-addon-button = Permissions
 addons-enabled-heading = Activé
 addons-disabled-heading = Désactivé
 ask-to-activate-button = Demander pour activer
