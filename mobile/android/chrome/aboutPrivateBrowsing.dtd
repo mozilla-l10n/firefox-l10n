@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title "การท่องเว็บแบบส่วนตัว">
+<!ENTITY privatebrowsingpage.title "การเรียกดูแบบส่วนตัว">
 
 <!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
                         is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
@@ -11,7 +11,7 @@
 <!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
      is capitalized in English to be consistent with our existing uses of the
      term. -->
-<!ENTITY privatebrowsingpage.title.normal1 "คุณไม่ได้อยู่ในการท่องเว็บแบบส่วนตัว">
+<!ENTITY privatebrowsingpage.title.normal1 "คุณไม่ได้อยู่ในการเรียกดูแบบส่วนตัว">
 
 <!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; ปิดกั้นบางส่วนของหน้าที่อาจติดตามกิจกรรมการท่องเว็บของคุณ">
 <!ENTITY privatebrowsingpage.description.privateDetails "เราจะไม่จดจำประวัติใด ๆ แต่จะยังคงบันทึกไฟล์ที่ดาวน์โหลดและที่คั่นหน้าใหม่ไว้ในอุปกรณ์ของคุณ">
