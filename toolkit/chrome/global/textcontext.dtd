@@ -31,4 +31,4 @@
 <!ENTITY fillUsernameMenu.label "Compila nome utente">
 <!ENTITY fillUsernameMenu.accesskey "m">
 <!ENTITY noLoginSuggestions.label "(nessun suggerimento disponibile)">
-<!ENTITY viewSavedLogins.label "Visualizza accessi salvati">
+<!ENTITY viewSavedLogins.label "Visualizza credenziali salvate">

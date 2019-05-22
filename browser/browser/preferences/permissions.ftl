@@ -78,7 +78,7 @@ permissions-exceptions-popup-desc = È possibile indicare quali siti web potrann
 ## Exceptions - Saved Logins
 
 permissions-exceptions-saved-logins-window =
-    .title = Eccezioni - Accessi salvati
+    .title = Eccezioni - Credenziali salvate
     .style = { permissions-window.style }
 permissions-exceptions-saved-logins-desc = Non verranno salvate le credenziali di accesso per i seguenti siti web
 
