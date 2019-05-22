@@ -34,6 +34,7 @@ policies-notice =
         [windows] Jo organisaasje hat de mooglikheid om guon opsjes te wizigjen útskeakele.
        *[other] Jo organisaasje hat de mooglikheid om guon foarkarren te wizigjen útskeakele.
     }
+managed-notice = Jo browser wurdt troch jo organisaasje beheard.
 pane-general-title = Algemien
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = Privacy & Befeiliging
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox-account
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -528,8 +525,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Bewarje
     .accesskey = B
-sync-mobilepromo-single = Noch in apparaat keppelje
-sync-mobilepromo-multi = Apparaten beheare
 sync-connect-another-device = In oar apparaat ferbine
 sync-manage-devices = Apparaten beheare
 sync-fxa-begin-pairing = In apparaat keppelje
@@ -687,7 +682,6 @@ content-blocking-all-third-party-cookies = Alle cookies fan tredden
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
 content-blocking-warning-title = Let op!
-content-blocking-warning-desc = It blokkearjen fan cookies kin derfoar soargje dat bepaalde websites net goed wurkje. Blokkearring kin ienfâldich útskeakele wurde foar websites dy't jo fertrouwe.
 content-blocking-warning-description = It blokkearjen fan ynhâld kin derfoar soargje dat bepaalde websites net goed wurkje. Blokkearring kin ienfâldich útskeakele wurde foar websites dy't jo fertrouwe.
 content-blocking-learn-how = Mear ynfo
 content-blocking-reload-description = Jo moatte jo ljepblêden fernije om dizze wizigingen ta te passen.

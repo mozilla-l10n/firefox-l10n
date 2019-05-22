@@ -314,6 +314,9 @@ preferences-addon-button =
         [windows] Opsjes
        *[other] Foarkarren
     }
+details-addon-button = Details
+release-notes-addon-button = Utjefteopmerkingen
+permissions-addon-button = Tastimmingen
 addons-enabled-heading = Ynskeakele
 addons-disabled-heading = Utskeakele
 ask-to-activate-button = Freegje om te aktivearjen
@@ -363,3 +366,6 @@ addon-detail-private-browsing-allow = Tastean
 addon-detail-private-browsing-disallow = Net tastean
 available-updates-heading = Beskikbere fernijingen
 recent-updates-heading = Resinte fernijingen
+release-notes-loading = Lade…
+release-notes-error = Sorry, mar der wie in flater mei it laden fan de útjefteopmerkingen.
+addon-permissions-empty = Foar dizze útwreiding binne gjin tastimmingen fereaske
