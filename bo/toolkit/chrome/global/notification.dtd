@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY closeNotification.tooltip "འཆར་འཕྲིན་འདི་ཁ་རྒྱག">
+
+<!ENTITY checkForUpdates "གསར་སྒྱུར་འཚོལ་བ…">
+
+<!ENTITY learnMore "དེ་ལས་མང་བ་སྦྱོང་བ…">
+
+<!ENTITY defaultButton.label "OK!">
+<!ENTITY defaultButton.accesskey "O">
+
+<!ENTITY moreActionsButton.accessibleLabel "དེ་ལས་མང་བའི་བྱ་འགུལ">

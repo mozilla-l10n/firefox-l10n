@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  intro2.label                "You have chosen to open:">
+<!ENTITY  from.label                  "from:">
+<!ENTITY  actionQuestion.label        "&brandShortName;་ཡིས་ཡིག་ཆ་ལ་གང་བྱེད་དགོས">
+
+<!ENTITY  openWith.label              "ཁ་ཕྱེ་བྱེད">
+<!ENTITY  openWith.accesskey          "o">
+<!ENTITY  other.label                 "གཞན…">
+
+<!ENTITY  saveFile.label              "ཡིག་ཆ་ཉར་ཚགས">
+<!ENTITY  saveFile.accesskey          "s">
+
+<!ENTITY  rememberChoice.label        "ད་ནས་བཟུང་ཡིག་ཆ་འདིའི་རིགས་ལ་འདི་ལྟར་བྱེད་དགོས།">
+<!ENTITY  rememberChoice.accesskey    "a">
+
+<!ENTITY  whichIs.label              "which is:">
+
+<!ENTITY  chooseHandlerMac.label      "གདམ་པ…">
+<!ENTITY  chooseHandlerMac.accesskey  "C">
+<!ENTITY  chooseHandler.label         "འཚོལ་བཤེར…">
+<!ENTITY  chooseHandler.accesskey     "B">
+
+<!ENTITY  unknownPromptText.label     "ཡིག་ཆ་འདི་ཉར་དགོས་སམ">
