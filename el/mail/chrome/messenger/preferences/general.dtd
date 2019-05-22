@@ -38,3 +38,7 @@
 <!ENTITY browse.accesskey                 "γ">
 
 <!ENTITY defaultSearchEngine.label        "Προεπιλεγμένη μηχανή αναζήτησης">
+<!ENTITY addSearchEngine.label            "Προσθήκη από αρχείο">
+<!ENTITY addSearchEngine.accesskey        "Π">
+<!ENTITY removeSearchEngine.label         "Αφαίρεση">
+<!ENTITY removeSearchEngine.accesskey     "ρ">

@@ -28,6 +28,8 @@
 <!ENTITY contextArchive.label "Αρχειοθέτηση">
 <!ENTITY contextArchive.accesskey "A">
 
+<!ENTITY contextPeriodic.accesskey "ε">
+
 <!ENTITY filterActionDesc.label "Εκτέλεση των ακόλουθων ενεργειών:  ">
 <!ENTITY filterActionDesc.accesskey "κ">
 

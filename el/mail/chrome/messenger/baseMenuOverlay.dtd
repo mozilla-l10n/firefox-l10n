@@ -9,6 +9,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Βοήθεια">
 <!ENTITY helpMenuWin.accesskey "Β">
+<!ENTITY aboutProduct2.label "Σχετικά με το &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey "Σ">
 <!ENTITY helpTroubleshootingInfo.label     "Πληροφορίες αντιμετώπισης προβλημάτων">
 <!ENTITY helpTroubleshootingInfo.accesskey "μ">
 <!ENTITY helpSafeMode.label     "Επανεκκίνηση με ανενεργά πρόσθετα…">
@@ -20,13 +22,29 @@
 <!ENTITY openHelp.label "Περιεχόμενα βοήθειας">
 <!ENTITY openHelp.accesskey "χ">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "Βοήθεια για το &brandShortName;">
 <!ENTITY openHelpMac2.label "Βοήθεια για το &brandFullName;">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY aboutMenuCmd.label "Σχετικά με το &brandShortName;">
-<!ENTITY aboutMenuCmd.accesskey "ρ">
-
 <!ENTITY aboutMenuCmd2.label "Σχετικά με το &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "Σ">
+<!ENTITY productHelp.label "Βοήθεια &brandShortName;">
+<!ENTITY productHelp.accesskey "Β">
+<!ENTITY productHelp.commandkey "VK_F1">
+<!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "accel">
+
+<!ENTITY helpKeyboardShortcuts.label "Συντομεύσεις πληκτρολογίου">
+<!ENTITY helpKeyboardShortcuts.accesskey "Σ">
+
+<!ENTITY helpFeedbackPage.label "Υποβολή σχολίων…">
+<!ENTITY helpFeedbackPage.accesskey "Υ">
+
+<!ENTITY helpShowTour2.label "Περιήγηση &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey "ρ">
+
+<!ENTITY helpGetInvolvedPage.label "Συμμετοχή">
+<!ENTITY helpGetInvolvedPage.accesskey "Σ">
+
+<!ENTITY helpDonationsPage.label "Δωρεά">
+<!ENTITY helpDonationsPage.accesskey "Δ">
