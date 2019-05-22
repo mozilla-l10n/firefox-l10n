@@ -300,6 +300,8 @@ preferences-addon-button =
         [windows] 설정
        *[other] 설정
     }
+details-addon-button = 상세 정보
+permissions-addon-button = 권한
 addons-enabled-heading = 활성화 됨
 addons-disabled-heading = 비활성화 됨
 ask-to-activate-button = 활성화 요청
@@ -348,3 +350,5 @@ addon-detail-private-browsing-allow = 허용
 addon-detail-private-browsing-disallow = 허용하지 않음
 available-updates-heading = 업데이트 가능 항목
 recent-updates-heading = 최근 업데이트
+release-notes-loading = 읽는 중…
+addon-permissions-empty = 이 확장 기능에는 권한이 필요하지 않습니다.
