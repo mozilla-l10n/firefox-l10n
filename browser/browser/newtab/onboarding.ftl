@@ -16,7 +16,7 @@
 ## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = Les meir
-onboarding-button-label-try-now = Prøv han no
+onboarding-button-label-try-now = Prøv det no
 onboarding-button-label-get-started = Kom i gang
 
 ## Welcome modal dialog strings
@@ -56,6 +56,14 @@ onboarding-ghostery-text = Surf raskare, smartare eller sikrare med utvidingar s
 onboarding-fxa-title = Synkroniser
 onboarding-fxa-text = Registrer deg for eit { -fxaccount-brand-name } og synkroniser bokmerka dine, passord og opne faner overalt der du brukar { -brand-short-name }.
 onboarding-tracking-protection-title = Hald styr på korleis du vert spora
+# "Update" is a verb, as in "Update the existing settings", not "Options about
+# updates".
+onboarding-tracking-protection-button =
+    { PLATFORM() ->
+        [windows] Oppdater innstillingar
+       *[other] Oppdater innstillingar
+    }
+onboarding-tracking-protection-title2 = Vern frå sporing
 onboarding-tracking-protection-button2 = Korleis det verkar
 onboarding-data-sync-title = Ta med deg innstillingane dine
 onboarding-data-sync-button = Slå på { -sync-brand-short-name }
