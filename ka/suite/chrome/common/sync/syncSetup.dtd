@@ -99,7 +99,7 @@
 <!ENTITY engine.prefs.accesskey     "e">
 
 <!ENTITY choice2.merge.main.label      "ამ კომპიუტერის მონაცემთა ჩემს &syncBrand.shortName.label; მონაცემებთან შერწყმა">
-<!ENTITY choice2.merge.recommended.label "რეკომენდებულია:">
+<!ENTITY choice2.merge.recommended.label "(სასურველია)">
 <!ENTITY choice2.client.main.label     "ამ კომპიუტერის ყველა მონაცემთა ჩემი &syncBrand.shortName.label; მონაცემებით ჩანაცვლება">
 <!ENTITY choice2.server.main.label     "ყველა სხვა მოწყობილობის ამ კომპიუტერის მონაცემებით ჩანაცვლება">
 

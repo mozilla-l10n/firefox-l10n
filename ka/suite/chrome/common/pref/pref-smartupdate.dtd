@@ -16,7 +16,7 @@
 <!ENTITY addOnsWeekly.accesskey               "k">
 <!ENTITY addOnsModeAutomatic.label            "განახლებათა თვითჩამოტვირთვა და ჩადგმა">
 <!ENTITY addOnsModeAutomatic.accesskey        "m">
-<!ENTITY enablePersonalized.label             "მოდულების რეკომენდაციების პერსონიზება">
+<!ENTITY enablePersonalized.label             "დამატებების შემოთავაზებების მორგება">
 <!ENTITY enablePersonalized.accesskey         "P">
 <!ENTITY addonManagerLink.label               "მოდულების მართვა">
 
