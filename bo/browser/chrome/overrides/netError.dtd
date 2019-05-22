@@ -1,0 +1,255 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "དྲ་ངོས་འཇུག་པའི་སྐབས་གནད་དོན">
+<!ENTITY retry.label "བསྐྱར་དུ་ཚོད་ལྟ">
+<!ENTITY returnToPreviousPage.label "ཕྱིར་ལོག">
+<!ENTITY returnToPreviousPage1.label "ཕྱིར་ལོག (འོས་སྦྱོར་ཡིན)">
+<!ENTITY advanced.label "མཐོ་རིམ">
+<!ENTITY viewCertificate.label "ལག་འཁྱེར་ལྟ་བ">
+
+<!-- Specific error messages -->
+
+<!ENTITY connectionFailure.title "སྦྲེལ་མཐུད་བྱས་མ་ཐུབ">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "དྲ་གནས་འདི་ནི་བཀག་འགོག་བྱས་ཟིན">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.pageTitle "ཞབས་ཞུའི་གནས་མ་རྙེད">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "འོ་ཡ། ང་ཚོས་དྲ་ཚིག་དེ་རྙེད་མི་ཐུབ་པའི་དཀའ་ངལ་འཕྲད་སོང་།">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>དྲ་གནས་དེ་གལ་སྲིད་འགྲིག་ཡོད་ཚེ། འདིར་ཁྱེད་ཀྱིས་བྱེད་ཐབས་གསུམ་ཚོད་ལྟ་བྱས་ཆོག:</strong>
+<ul>
+  <li>ཡུད་ཙམ་རྗེས་སུ་ཚོད་ལྟ་བྱེད་པ།</li>
+  <li>ཁྱེད་ཀྱི་དྲ་བའི་སྦྲེལ་མཐུད་ལ་ལྟ་ཞིབ་བྱེད་པ།</li>
+  <li>གལ་སྲིད་ཁྱེད་ཀྱིས་ཉེན་འགོག་བརྒྱུད་ནས་སྦྲེལ་མཐུད་བྱེད་ཀྱིན་ཡོད་ན། &brandShortName;་ལ་དྲ་བའི་སྤྱོད་དབང་ཡོད་པ་གཏན་ཁེལ་བྱེད་པ།</li>
+</ul>
+">
+
+<!ENTITY fileNotFound.title "ཡིག་ཆ་རྙེད་མ་ཐུབ">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>Check the file name for capitalization or other typing errors.</li>
+  <li>Check to see if the file was moved, renamed or deleted.</li>
+</ul>
+">
+
+<!ENTITY fileAccessDenied.title "Access to the file was denied">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>It may have been removed, moved, or file permissions may be preventing access.</li>
+</ul>
+">
+
+<!ENTITY generic.title "འོ་ཡ།">
+<!ENTITY generic.longDesc "
+<p>&brandShortName; can’t load this page for some reason.</p>
+">
+
+<!ENTITY captivePortal.title "Log in to network">
+<!ENTITY captivePortal.longDesc2 "
+<p>You must log in to this network before you can access the Internet.</p>
+">
+
+<!ENTITY openPortalLoginPage.label2 "Open Network Login Page">
+
+<!ENTITY malformedURI.pageTitle "Invalid URL">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "འོ་ཡ། དྲ་གནས་དེ་འགྲིག་མེད་པ་ཟོལ་འདྲ་འདུག">
+
+<!ENTITY netInterrupt.title "སྦྲེལ་མཐུད་བཅད་སོང">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY notCached.title "Document Expired">
+<!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;’s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+
+<!ENTITY netOffline.title "དྲ་མེད་པའི་རྣམ་པ">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
+</ul>
+">
+
+<!ENTITY contentEncodingError.title "ནང་དོན་གྱི་ཨང་སྒྲིག་ནོར་འཁྲུལ">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Please contact the website owners to inform them of this problem.</li>
+</ul>
+">
+
+<!ENTITY unsafeContentType.title "Unsafe File Type">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Please contact the website owners to inform them of this problem.</li>
+</ul>
+">
+
+<!ENTITY netReset.title "སྦྲེལ་མཐུད་བསྐྱར་སྒྲིག་བྱས་སོང">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "སྦྲེལ་མཐུད་ཀྱི་དུས་ཚོད་ཡོལ་སོང">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY unknownProtocolFound.title "དྲ་གནས་དེ་ཤེས་ཐུབ་མ་སོང">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>You might need to install other software to open this address.</li>
+</ul>
+">
+
+<!ENTITY proxyConnectFailure.title "The proxy server is refusing connections">
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Check the proxy settings to make sure that they are correct.</li>
+  <li>Contact your network administrator to make sure the proxy server is
+    working.</li>
+</ul>
+">
+
+<!ENTITY proxyResolveFailure.title "Unable to find the proxy server">
+<!ENTITY proxyResolveFailure.longDesc "
+<ul>
+  <li>Check the proxy settings to make sure that they are correct.</li>
+  <li>Check to make sure your computer has a working network connection.</li>
+  <li>If your computer or network is protected by a firewall or proxy, make sure
+    that &brandShortName; is permitted to access the Web.</li>
+</ul>
+">
+
+<!ENTITY redirectLoop.title "The page isn’t redirecting properly">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>This problem can sometimes be caused by disabling or refusing to accept
+    cookies.</li>
+</ul>
+">
+
+<!ENTITY unknownSocketType.title "Unexpected response from server">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Check to make sure your system has the Personal Security Manager
+    installed.</li>
+  <li>This might be due to a non-standard configuration on the server.</li>
+</ul>
+">
+
+<!ENTITY nssFailure2.title "བདེ་འཇགས་ཀྱི་སྦྲེལ་མཐུད་བྱས་མ་ཐུབ">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</li>
+  <li>Please contact the website owners to inform them of this problem.</li>
+</ul>
+">
+
+<!ENTITY certerror.longpagetitle1 "ཁྱེད་ཀྱི་སྦྲེལ་མཐུད་དེ་ཉེན་མེད་མ་རེད།">
+
+<!ENTITY certerror.longpagetitle2 "Warning: Potential Security Risk Ahead">
+<!ENTITY certerror.sts.longpagetitle  "Did Not Connect: Potential Security Issue">
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+<!ENTITY certerror.introPara "The owner of <span class='hostname'/> has configured their website improperly.  To protect your information from being stolen, &brandShortName; has not connected to this website.">
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+<!ENTITY certerror.introPara2 "&brandShortName; detected a potential security threat and did not continue to <span class='hostname'/>. If you visit this site, attackers could try to steal information like your passwords, emails, or credit card details.">
+<!ENTITY certerror.sts.introPara "&brandShortName; detected a potential security threat and did not continue to <span class='hostname'/> because this website requires a secure connection.">
+
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; detected an issue and did not continue to <span class='hostname'/>. The website is either misconfigured or your computer clock is set to the wrong time.">
+<!ENTITY certerror.expiredCert.secondPara2 "It’s likely the website’s certificate is expired, which prevents &brandShortName; from connecting securely. If you visit this site, attackers could try to steal information like your passwords, emails, or credit card details.">
+<!ENTITY certerror.expiredCert.sts.secondPara "It’s likely the website’s certificate is expired, which prevents &brandShortName; from connecting securely.">
+
+<!ENTITY certerror.whatCanYouDoAboutItTitle "What can you do about it?">
+
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>The issue is most likely with the website, and there is nothing you can do to resolve it.</p>
+<p>If you are on a corporate network or using anti-virus software, you can reach out to the support teams for assistance. You can also notify the website’s administrator about the problem.</p>
+">
+
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Your computer clock is set to <span id='wrongSystemTime_systemDate2'/>. Make sure your computer is set to the correct date, time, and time zone in your system settings, and then refresh <span class='hostname'/>.</p>
+<p>If your clock is already set to the right time, the website is likely misconfigured, and there is nothing you can do to resolve the issue. You can notify the website’s administrator about the problem.</p>
+">
+
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>The issue is most likely with the website, and there is nothing you can do to resolve it. You can notify the website’s administrator about the problem.</p>
+">
+
+<!ENTITY sharedLongDesc "
+<ul>
+  <li>The site could be temporarily unavailable or too busy. Try again in a few
+    moments.</li>
+  <li>If you are unable to load any pages, check your computer’s network
+    connection.</li>
+  <li>If your computer or network is protected by a firewall or proxy, make sure
+    that &brandShortName; is permitted to access the Web.</li>
+</ul>
+">
+
+<!ENTITY cspBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+
+<!ENTITY corruptedContentErrorv2.title "Corrupted Content Error">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+
+
+<!ENTITY securityOverride.exceptionButtonLabel "Add Exception…">
+
+<!ENTITY securityOverride.exceptionButton1Label "Accept the Risk and Continue">
+
+<!ENTITY errorReporting.automatic2 "Report errors like this to help Mozilla identify and block malicious sites">
+<!ENTITY errorReporting.learnMore "Learn more…">
+
+<!ENTITY remoteXUL.title "Remote XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+
+<!ENTITY sslv3Used.title "Unable to Connect Securely">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Advanced info: SSL_ERROR_UNSUPPORTED_VERSION">
+
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; did not connect to <span id='wrongSystemTime_URL'/> because your computer’s clock appears to show the wrong time and this is preventing a secure connection.</p> <p>Your computer is set to <span id='wrongSystemTime_systemDate'/>, when it should be <span id='wrongSystemTime_actualDate'/>. To fix this problem, change your date and time settings to match the correct time.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; did not connect to <span id='wrongSystemTimeWithoutReference_URL'/> because your computer’s clock appears to show the wrong time and this is preventing a secure connection.</p> <p>Your computer is set to <span id='wrongSystemTimeWithoutReference_systemDate'/>. To fix this problem, change your date and time settings to match the correct time.</p>">
+
+<!ENTITY certerror.pagetitle1  "Insecure Connection">
+
+<!ENTITY certerror.pagetitle2  "Warning: Potential Security Risk Ahead">
+<!ENTITY certerror.sts.pagetitle  "Did Not Connect: Potential Security Issue">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "This site uses HTTP
+Strict Transport Security (HSTS) to specify that &brandShortName; may only connect
+to it securely. As a result, it is not possible to add an exception for this
+certificate.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> has a security policy called HTTP Strict Transport Security (HSTS), which means that &brandShortName; can only connect to it securely. You can’t add an exception to visit this site.">
+<!ENTITY certerror.copyToClipboard.label "Copy text to clipboard">
+
+<!ENTITY inadequateSecurityError.title "Your connection is not secure">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uses security technology that is outdated and vulnerable to attack. An attacker could easily reveal information which you thought to be safe. The website administrator will need to fix the server first before you can visit the site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY blockedByPolicy.title "Blocked Page">
+
+<!ENTITY certerror.mitm.title "Software is Preventing &brandShortName; From Safely Connecting to This Site">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> is most likely a safe site, but a secure connection could not be established. This issue is caused by <span class='mitm-name'/>, which is either software on your computer or your network.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "If your antivirus software includes a feature that scans encrypted connections (often called “web scanning” or “https scanning”), you can disable that feature. If that doesn’t work, you can remove and reinstall the antivirus software.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "If you are on a corporate network, you can contact your IT department.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "If you are not familiar with <span class='mitm-name'/>, then this could be an attack and you should not continue to the site.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "If you are not familiar with <span class='mitm-name'/>, then this could be an attack, and there is nothing you can do to access the site.">
+
+<!ENTITY clockSkewError.title "ཁྱེད་ཀྱི་རྩིས་འཁོར་གྱི་ཆུ་ཚོད་ནོར་འདུག">
+<!ENTITY clockSkewError.longDesc "Your computer thinks it is <span id='wrongSystemTime_systemDate1'/>, which prevents &brandShortName; from connecting securely. To visit <span class='hostname'></span>, update your computer clock in your system settings to the current date, time, and time zone, and then refresh <span class='hostname'></span>.">
+
+<!ENTITY prefReset.longDesc "It looks like your network security settings might be causing this. Do you want the default settings to be restored?">
+<!ENTITY prefReset.label "Restore default settings">
+
+<!ENTITY networkProtocolError.title "Network Protocol Error">
+<!ENTITY networkProtocolError.longDesc "<p>The page you are trying to view cannot be shown because an error in the network protocol was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
