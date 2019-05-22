@@ -1,0 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY position.label             "གནས་ས:">
+<!ENTITY tile.label                 "ཁ་བྱང">
+<!ENTITY center.label               "དཀྱིལ">
+<!ENTITY stretch.label              "འཐེན་སྐོང">
+<!ENTITY fill.label                 "ཁ་སྐོང">
+<!ENTITY fit.label                  "འགྲིག་པ">
+<!-- LOCALIZATION NOTE (span.label): This refers to the wallpaper "spanning"
+                       multiple monitors when the user has more than one. Only
+                       some of the entire image will be on each monitor.
+                       This should ideally match the wording in Windows' own
+                       Desktop Background settings page. -->
+<!ENTITY color.label                "ཁ་དོག:">
+<!ENTITY setDesktopBackground.title "མདུན་ངོས་ཀྱི་རྒྱབ་ལྗོངས་སྒྲིག་པ།">
+<!ENTITY openDesktopPrefs.label     "མདུན་ངོས་ཀྱི་སྒྲིག་འགོད་ཁ་ཕྱེ།">
+<!ENTITY closeWindow.key            "w">
+<!ENTITY previewUnavailable         "སྔོན་ལྟ་མེད་པ།">

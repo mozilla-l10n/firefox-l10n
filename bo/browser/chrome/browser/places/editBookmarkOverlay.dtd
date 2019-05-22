@@ -1,0 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY editBookmarkOverlay.name.label                      "མིང:">
+<!ENTITY editBookmarkOverlay.name.accesskey                  "N">
+<!ENTITY editBookmarkOverlay.location.label                  "གནས:">
+<!ENTITY editBookmarkOverlay.location.accesskey              "L">
+<!ENTITY editBookmarkOverlay.folder.label                    "ཡིག་སྣོད:">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "ཡིག་རྟགས་ཀྱི་ཡིག་སྣོད་ཡོངས་སྟོན་པ">
+<!ENTITY editBookmarkOverlay.expanderUp.tooltip              "སྐུང">
+<!ENTITY editBookmarkOverlay.tags.label                      "དབྱེ་རྟགས:">
+<!ENTITY editBookmarkOverlay.tags.accesskey                  "T">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "དབྱེ་རྟགས་རེའི་མཚམས་སུ་དབྱིན་ཡིག་གི་བར་ཚེག་འཇོག་དགོས">
+<!ENTITY editBookmarkOverlay.keyword.label                   "གནད་ཚིག:">
+<!ENTITY editBookmarkOverlay.keyword.accesskey               "K">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "དབྱེ་རྟགས་ཡོངས་སྟོན་པ">
+<!ENTITY editBookmarkOverlay.choose.label                    "གདམ་པ…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "ཡིག་སྣོད་གསར་བ">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">
