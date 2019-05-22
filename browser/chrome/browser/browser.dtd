@@ -131,7 +131,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Stanpa…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
-
 <!ENTITY importFromAnotherBrowserCmd.label "Inportâ da 'n atro navegatô…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
@@ -340,6 +339,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Ti æ blocou l'izo do plugin Adobe Flash pe sto scito.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Ti æ blocou l'acesso MIDI pe sto scito.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Fanni vedde a stöia">
 
 <!ENTITY searchItem.title             "Riçerca">
@@ -399,7 +399,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectA11YContextMenu.label     "Ispeçionn-a propietæ de acesibilitæ">
 
 <!ENTITY fileMenu.label         "Schedaio">
-<!ENTITY fileMenu.accesskey       "F">
+<!ENTITY fileMenu.accesskey       "S">
 <!ENTITY newUserContext.label             "Neuvo feuggio contenitô">
 <!ENTITY newUserContext.accesskey         "c">
 <!ENTITY manageUserContext.label          "Gestisci contegnitoî">
@@ -437,7 +437,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "o">
 <!ENTITY preferencesCmdUnix.label       "Preferense">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
-
 <!ENTITY logins.label                           "Acessi e poule segrete">
 
 <!ENTITY clearRecentHistory.label               "Scancella a stöia ciù neuva…">
@@ -445,7 +444,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Fanni vedde">
-<!ENTITY viewMenu.accesskey       "v">
+<!ENTITY viewMenu.accesskey       "F">
 <!ENTITY viewToolbarsMenu.label       "Bare">
 <!ENTITY viewToolbarsMenu.accesskey     "B">
 <!ENTITY viewSidebarMenu.label "Bara de scianco">
@@ -456,7 +455,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Stöia">
-<!ENTITY historyMenu.accesskey "S">
+<!ENTITY historyMenu.accesskey "i">
 <!ENTITY historyUndoMenu.label "Feuggi seræ urtimamente">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Barcoin seræ urtimamente">
@@ -526,6 +525,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "G">
 <!ENTITY customizeMenu.removeExtension.label "Scancella estenscion">
 <!ENTITY customizeMenu.removeExtension.accesskey "c">
+
+<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
+     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     an abuse report related to that extension. "Report" is a verb. -->
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -876,6 +879,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Sta pagina a l'é caregâ da 'na estenscion.">
 <!ENTITY identity.insecureLoginForms2 "I acessi a sta pagina porieivan ese vulnerabili.">
 
+
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "Quarche elemento no seguo da pagina o l'é stæto blocou da &brandShortName;.">
 <!ENTITY identity.passiveLoaded "Quarche elemento da pagina o no l'é seguo (prezempio inmagini).">
@@ -893,6 +897,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Sciben quarche elemento o segge blocou da &brandShortName;, in sta pagina gh'é ancon di elementi no sigui (prezenpio inmagini).">
 <!ENTITY identity.description.activeLoaded "A conescion con sto scito web a no l'é segua perché a gh'à di contegnui no segui (prezenpio script).">
 <!ENTITY identity.description.activeLoaded2 "E informaçioin mandæ, comme prezempio paròlle segrete, mesaggi, dæti de carte de credito, ecc. porievan ese amiæ da atri sogetti.">
+
 
 <!ENTITY identity.enableMixedContentBlocking.label "Ativa proteçion">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "A">
@@ -1103,6 +1108,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "S">
 <!ENTITY updateAvailable.cancelButton.label "Oua no">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
+
 <!ENTITY updateAvailable.panelUI.label "Scarega agiornamento de &brandShorterName;">
 
 <!ENTITY updateManual.message "Scarega 'na còpia neuva de &brandShorterName; e te agiutiemo a instalalo.">
