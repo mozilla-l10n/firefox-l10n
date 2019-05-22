@@ -318,6 +318,9 @@ preferences-addon-button =
         [windows] Opties
        *[other] Voorkeuren
     }
+details-addon-button = Details
+release-notes-addon-button = Uitgaveopmerkingen
+permissions-addon-button = Toestemmingen
 addons-enabled-heading = Ingeschakeld
 addons-disabled-heading = Uitgeschakeld
 ask-to-activate-button = Vragen om te activeren
@@ -367,3 +370,6 @@ addon-detail-private-browsing-allow = Toestaan
 addon-detail-private-browsing-disallow = Niet toestaan
 available-updates-heading = Beschikbare updates
 recent-updates-heading = Recente updates
+release-notes-loading = Laden…
+release-notes-error = Sorry, maar er is een fout opgetreden bij het laden van de uitgaveopmerkingen.
+addon-permissions-empty = Voor deze extensie zijn geen toestemmingen vereist
