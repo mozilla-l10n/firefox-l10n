@@ -32,7 +32,7 @@
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "ไซต์ข้างหน้าอาจมีโปรแกรมที่เป็นอันตราย">
-<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; ได้ปิดกั้นหน้านี้เนื่องจากหน้าอาจพยายามหลอกลวงคุณให้ติดตั้งโปรแกรมที่เป็นอันตรายต่อประสบการณ์การท่องเว็บของคุณ (ตัวอย่างเช่น โดยการเปลี่ยนหน้าแรกของคุณหรือแสดงโฆษณาพิเศษในหน้าที่คุณเยี่ยมชม)">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; ได้ปิดกั้นหน้านี้เนื่องจากหน้าอาจพยายามหลอกลวงคุณให้ติดตั้งโปรแกรมที่เป็นอันตรายต่อประสบการณ์การเรียกดูของคุณ (ตัวอย่างเช่น โดยการเปลี่ยนหน้าแรกของคุณหรือแสดงโฆษณาพิเศษในหน้าที่คุณเยี่ยมชม)">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 

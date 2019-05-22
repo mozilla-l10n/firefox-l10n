@@ -13,7 +13,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(การท่องเว็บแบบส่วนตัว)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(การเรียกดูแบบส่วนตัว)">
 
 <!ENTITY appmenu.tooltip                     "เปิดเมนู">
 <!ENTITY navbarOverflow.label                "เครื่องมือเพิ่มเติม…">
@@ -131,7 +131,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "พิมพ์…">
 <!ENTITY printCmd.accesskey "พ">
 <!ENTITY printCmd.commandkey "p">
-
 <!ENTITY importFromAnotherBrowserCmd.label "นำเข้าจากเบราว์เซอร์อื่น…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "น">
 
@@ -318,7 +317,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "จัดเก็บข้อมูลในที่เก็บข้อมูลถาวร">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "เบราว์เซอร์อยู่ภายใต้การควบคุมระยะไกล">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "เปิดแผง ​Web Authentication">
-<!ENTITY urlbar.storageAccessAnchor.tooltip               "เปิดแผงสิทธิอนุญาตกิจกรรมการท่องเว็บ">
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "เปิดแผงสิทธิอนุญาตกิจกรรมการเรียกดู">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "จัดการการแบ่งปันกล้องและ/หรือไมโครโฟนของคุณกับไซต์">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "จัดการการแบ่งปันไมโครโฟนของคุณกับไซต์">
@@ -341,6 +340,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasBlocked.tooltip            "คุณได้ปิดกั้นการส่งออกข้อมูลผืนผ้าใบสำหรับเว็บไซต์นี้">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "คุณได้ปิดกั้นเว็บไซต์นี้จากการใช้ปลั๊กอิน Adobe Flash">
 <!ENTITY urlbar.midiBlocked.tooltip              "คุณได้ปิดกั้นการเข้าถึง MIDI สำหรับเว็บไซต์นี้">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "แสดงประวัติ">
 
@@ -439,7 +439,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "ต">
 <!ENTITY preferencesCmdUnix.label       "ค่ากำหนด">
 <!ENTITY preferencesCmdUnix.accesskey     "ด">
-
 <!ENTITY logins.label                           "การเข้าสู่ระบบและรหัสผ่าน">
 
 <!ENTITY clearRecentHistory.label               "ล้างประวัติล่าสุด…">
@@ -886,6 +885,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "หน้านี้ถูกโหลดจากส่วนขยาย">
 <!ENTITY identity.insecureLoginForms2 "การเข้าสู่ระบบที่ป้อนในหน้านี้อาจถูกบุกรุกได้">
 
+
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ได้ปิดกั้นบางส่วนของหน้านี้ที่ไม่ปลอดภัย">
 <!ENTITY identity.passiveLoaded "บางส่วนของหน้านี้ไม่ปลอดภัย (อย่างเช่น ภาพ)">
@@ -903,6 +903,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "ถึงแม้ว่า &brandShortName; ได้ปิดกั้นเนื้อหาบางส่วน แต่ก็ยังคงมีเนื้อหาในหน้าที่ไม่ปลอดภัย (อย่างเช่น ภาพ)">
 <!ENTITY identity.description.activeLoaded "เว็บไซต์นี้ประกอบด้วยเนื้อหาที่เชื่อถือไม่ได้ (เช่น สคริปต์) และการเชื่อมต่อไปยังไซต์ก็ไม่เป็นส่วนตัว">
 <!ENTITY identity.description.activeLoaded2 "ข้อมูลที่คุณแบ่งปันกับไซต์นี้สามารถดูได้โดยผู้อื่น (เช่น รหัสผ่าน, ข้อความ, บัตรเครดิต ฯลฯ)">
+
 
 <!ENTITY identity.enableMixedContentBlocking.label "เปิดใช้งานการป้องกัน">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "ป">
@@ -1127,7 +1128,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "ม">
 <!ENTITY updateManual.panelUI.label "ดาวน์โหลดสำเนาใหม่ของ &brandShorterName;">
 
-<!ENTITY updateRestart.message2 "หลังจากเริ่มการทำงานใหม่อย่างรวดเร็ว &brandShorterName; จะเรียกคืนแท็บและหน้าต่างที่เปิดอยู่ทั้งหมดของคุณที่ไม่ได้อยู่ในโหมดการท่องเว็บแบบส่วนตัว">
+<!ENTITY updateRestart.message2 "หลังจากเริ่มการทำงานใหม่อย่างรวดเร็ว &brandShorterName; จะเรียกคืนแท็บและหน้าต่างที่เปิดอยู่ทั้งหมดของคุณที่ไม่ได้อยู่ในโหมดการเรียกดูแบบส่วนตัว">
 <!ENTITY updateRestart.header.message2 "เริ่มการทำงานใหม่เพื่ออัปเดต &brandShorterName;">
 <!ENTITY updateRestart.acceptButton.label "เริ่มการทำงานใหม่และเรียกคืน">
 <!ENTITY updateRestart.acceptButton.accesskey "ร">

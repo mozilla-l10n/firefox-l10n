@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-private-browsing-learn-more = เรียนรู้เพิ่มเติมเกี่ยวกับ <a data-l10n-name="learn-more">การท่องเว็บแบบส่วนตัว</a>
+about-private-browsing-learn-more = เรียนรู้เพิ่มเติมเกี่ยวกับ <a data-l10n-name="learn-more">การเรียกดูแบบส่วนตัว</a>
 about-private-browsing-info-visited = หน้าที่เยี่ยมชมแล้ว
 privatebrowsingpage-open-private-window-label = เปิดหน้าต่างส่วนตัว
     .accesskey = ส
@@ -12,7 +12,7 @@ about-private-browsing-info-bookmarks = ที่คั่นหน้า
 about-private-browsing-info-title = คุณอยู่ในหน้าต่างส่วนตัว
 about-private-browsing-info-searches = การค้นหา
 about-private-browsing-info-downloads = การดาวน์โหลด
-private-browsing-title = การท่องเว็บแบบส่วนตัว
+private-browsing-title = การเรียกดูแบบส่วนตัว
 about-private-browsing-info-saved = { -brand-short-name } <strong>จะบันทึก</strong>:
 about-private-browsing-info-myths = ตำนานทั่วไปเกี่ยวกับการท่องเว็บแบบส่วนตัว
 about-private-browsing-info-clipboard = ข้อความที่คัดลอก
