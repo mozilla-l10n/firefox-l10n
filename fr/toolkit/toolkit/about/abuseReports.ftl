@@ -33,6 +33,13 @@ abuse-report-messagebar-submitting = Envoi du signalement concernant <span data-
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove-extension = Oui, supprimez-la
+abuse-report-messagebar-action-keep-extension = Non, je vais la conserver
+abuse-report-messagebar-action-remove-theme = Oui, supprimez-le
+abuse-report-messagebar-action-keep-theme = Non, je vais le conserver
+abuse-report-messagebar-action-retry = Réessayer
+abuse-report-messagebar-action-cancel = Annuler
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-policy-reason = Contenus haineux, violents ou illégaux

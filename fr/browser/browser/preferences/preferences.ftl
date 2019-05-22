@@ -34,6 +34,7 @@ policies-notice =
         [windows] Votre organisation a désactivé la possibilité de changer certaines options.
        *[other] Votre organisation a désactivé la possibilité de changer certaines préférences.
     }
+managed-notice = Votre navigateur est géré par votre organisation.
 pane-general-title = Général
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = Vie privée et sécurité
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Compte Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -528,8 +525,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Enregistrer
     .accesskey = E
-sync-mobilepromo-single = Connecter un autre appareil
-sync-mobilepromo-multi = Gérer les appareils
 sync-connect-another-device = Connecter un autre appareil
 sync-manage-devices = Gérer les appareils
 sync-fxa-begin-pairing = Associer un appareil
@@ -687,7 +682,6 @@ content-blocking-all-third-party-cookies = Tous les cookies tiers
 content-blocking-cryptominers = Mineurs de cryptomonnaies
 content-blocking-fingerprinters = Détecteurs d’empreinte numérique
 content-blocking-warning-title = Attention !
-content-blocking-warning-desc = Bloquer les cookies et les traqueurs peut empêcher certains sites de fonctionner. Vous pouvez facilement désactiver le blocage pour les sites en lesquels vous avez confiance.
 content-blocking-warning-description = Le blocage de contenu peut empêcher certains sites de fonctionner. Vous pouvez facilement désactiver le blocage pour les sites en lesquels vous avez confiance.
 content-blocking-learn-how = Découvrez comment
 content-blocking-reload-description = Vous devrez actualiser vos onglets pour appliquer ces modifications.
