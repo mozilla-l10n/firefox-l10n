@@ -34,6 +34,7 @@ policies-notice =
         [windows] Uw organisatie heeft de mogelijkheid tot het wijzigen van enkele opties uitgeschakeld.
        *[other] Uw organisatie heeft de mogelijkheid tot het wijzigen van enkele voorkeuren uitgeschakeld.
     }
+managed-notice = Uw browser wordt door uw organisatie beheerd.
 pane-general-title = Algemeen
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = Privacy & Beveiliging
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox-account
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -528,8 +525,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Opslaan
     .accesskey = s
-sync-mobilepromo-single = Een ander apparaat verbinden
-sync-mobilepromo-multi = Apparaten beheren
 sync-connect-another-device = Een ander apparaat verbinden
 sync-manage-devices = Apparaten beheren
 sync-fxa-begin-pairing = Een apparaat koppelen
@@ -687,7 +682,6 @@ content-blocking-all-third-party-cookies = Alle cookies van derden
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
 content-blocking-warning-title = Let op!
-content-blocking-warning-desc = Het blokkeren van cookies en trackers kan ervoor zorgen dat bepaalde websites niet goed werken. Blokkering kan eenvoudig worden uitgeschakeld voor websites die u vertrouwt.
 content-blocking-warning-description = Het blokkeren van inhoud kan ervoor zorgen dat bepaalde websites niet goed werken. Blokkering kan eenvoudig worden uitgeschakeld voor websites die u vertrouwt.
 content-blocking-learn-how = Meer info
 content-blocking-reload-description = U dient uw tabbladen te vernieuwen om deze wijzigingen toe te passen.
