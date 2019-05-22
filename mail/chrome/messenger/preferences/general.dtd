@@ -38,3 +38,7 @@
 <!ENTITY browse.accesskey                 "B">
 
 <!ENTITY defaultSearchEngine.label        "ნაგულისხმევი საძიებო სისტემა">
+<!ENTITY addSearchEngine.label            "ფაილიდან დამატება">
+<!ENTITY addSearchEngine.accesskey        "ა">
+<!ENTITY removeSearchEngine.label         "მოცილება">
+<!ENTITY removeSearchEngine.accesskey     "ც">
