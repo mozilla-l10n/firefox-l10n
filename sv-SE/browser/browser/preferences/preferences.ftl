@@ -34,6 +34,7 @@ policies-notice =
         [windows] Ditt företag har inaktiverat möjligheten att ändra vissa inställningar.
        *[other] Ditt företag har inaktiverat möjligheten att ändra vissa inställningar.
     }
+managed-notice = Din webbläsare hanteras av din organisation.
 pane-general-title = Allmänt
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = Sekretess & säkerhet
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox-konto
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -528,8 +525,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Spara
     .accesskey = S
-sync-mobilepromo-single = Anslut en annan enhet
-sync-mobilepromo-multi = Hantera enheter
 sync-connect-another-device = Anslut en annan enhet
 sync-manage-devices = Hantera enheter
 sync-fxa-begin-pairing = Para ihop en enhet
@@ -687,7 +682,6 @@ content-blocking-all-third-party-cookies = Alla kakor från tredje part
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
 content-blocking-warning-title = Se upp!
-content-blocking-warning-desc = Att blockera kakor och trackers kan begränsa funktionaliteten hos vissa webbplatser. Det är enkelt att inaktivera blockering för webbplatser du litar på.
 content-blocking-warning-description = Att blockera innehåll kan begränsa funktionaliteten hos vissa webbplatser. Det är enkelt att inaktivera blockering för webbplatser du litar på.
 content-blocking-learn-how = Lär dig hur
 content-blocking-reload-description = Du måste ladda om dina flikar för att kunna tillämpa ändringarna.
