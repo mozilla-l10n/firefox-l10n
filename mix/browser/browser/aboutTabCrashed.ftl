@@ -4,3 +4,8 @@
 
 crashed-title = Katu'in ña ta kue vaá sachu'un xikua
 crashed-close-tab-button = Kasi xikua
+crashed-restore-tab-button = Ndakuna xikua yo'o
+crashed-restore-all-button = Ndakuna ntii xikua
+crashed-header = Uy. Vaá xikkua.
+crashed-offer-help = ¡A ku chinchee yoo!
+crashed-single-offer-help-message = Katsi { crashed-restore-tab-button } Takua ndakitsa página.
