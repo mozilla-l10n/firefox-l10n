@@ -131,7 +131,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Skriv ut…">
 <!ENTITY printCmd.accesskey "u">
 <!ENTITY printCmd.commandkey "p">
-
 <!ENTITY importFromAnotherBrowserCmd.label "Importer frå ein annan nettlesar…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
@@ -342,6 +341,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Du har blokkert denne sida frå å bruke Adobe Flash-programtillegget.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Du har blokkert MIDI-tilgang for denne nettsida.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Vis historikk">
 
 <!ENTITY searchItem.title             "Søk">
@@ -439,7 +439,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "I">
 <!ENTITY preferencesCmdUnix.label       "Innstillingar">
 <!ENTITY preferencesCmdUnix.accesskey     "I">
-
 <!ENTITY logins.label                           "Innloggingar og passord">
 
 <!ENTITY clearRecentHistory.label               "Slett nyleg historikk…">
@@ -886,6 +885,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Denne sida er lasta frå ei utviding.">
 <!ENTITY identity.insecureLoginForms2 "Innloggingsinfo skrive inn på denne sida kan lesast av tredjepart.">
 
+
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; har blokkert delar av denne sida som ikkje er trygg.">
 <!ENTITY identity.passiveLoaded "Delar av denne sida er ikkje trygg (til dømes bilde).">
@@ -903,6 +903,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Sjølv om &brandShortName; har blokkert noko innhald, finst det framleis innhald på sida som ikkje er trygt (slik som bilde).">
 <!ENTITY identity.description.activeLoaded "Denne nettsida har innhald som ikkje er trygt (slik som skript) og sambandet ditt er difor ikkje privat.">
 <!ENTITY identity.description.activeLoaded2 "Informasjonen du deler med denne nettstaden kan sjåast av andre (t.d. passords, meldingar, kredittkort osb.).">
+
 
 <!ENTITY identity.enableMixedContentBlocking.label "Slå på vern">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "S">
@@ -1180,7 +1181,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstall.incognito.checkbox.accesskey "T">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Endring av korleis utvidingar fungerer i private vindauge">
-<!ENTITY addonPrivateBrowsing.body2.label "Eventuelle nye utvidingar du legg til &brandShorterName; vil ikkje fungere i private vindauge med mindre du tillèt dette i innstillingane.">
+<!ENTITY addonPrivateBrowsing.body2.label "Eventuelle nye utvidingar du legg til i &brandShorterName; vil ikkje fungere i private vindauge med mindre du tillèt dette i innstillingane.">
 <!ENTITY addonPrivateBrowsing.learnMore.label "Les om korleis du handterer utvidingsinnstillingar.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Ok, eg forstår">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">

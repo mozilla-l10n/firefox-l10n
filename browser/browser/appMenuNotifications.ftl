@@ -45,5 +45,5 @@ appmenu-addon-private-browsing =
     .buttonaccesskey = H
     .secondarybuttonlabel = Ok, eg forstår
     .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = Eventuelle nye utvidingar du legg til { -brand-shorter-name } vil ikkje fungere i private vindauge med mindre du tillèt dette i innstillingane.
+appmenu-addon-private-browsing-message = Eventuelle nye utvidingar du legg til i { -brand-shorter-name } vil ikkje fungere i private vindauge med mindre du tillèt dette i innstillingane.
 appmenu-addon-private-browsing-learn-more = Les om korleis du handterer utvidingsinnstillingar.
