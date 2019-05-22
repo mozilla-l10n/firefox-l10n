@@ -30,6 +30,8 @@
 <!ENTITY contextArchive.label "დაარქივება">
 <!ENTITY contextArchive.accesskey "დ">
 
+<!ENTITY contextPeriodic.accesskey "დ">
+
 <!ENTITY filterActionDesc.label "შესრულდეს ეს ქმედებები:">
 <!ENTITY filterActionDesc.accesskey "ქ">
 
