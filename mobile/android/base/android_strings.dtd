@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "خوش آمدید">
 <!ENTITY firstrun_urlbar_message2 "برای انتخاب &brandShortName; سپاس‌گذاریم">
+<!ENTITY newfirstrun_urlbar_message "به &brandShortName; خوش آمدید">
 <!ENTITY firstrun_urlbar_subtext2 "یک مرورگر موبایل نوین از موزیلا، بنگاه غیرانتفاعی‌ای که به وب آزاد و باز متعهد شده است.">
+<!ENTITY newfirstrun_urlbar_subtext "سریع،‌ خصوصی و سمت شما.">
 <!ENTITY firstrun_panel_title_privacy "حریم خصوصی">
 <!ENTITY firstrun_privacy_message "جوری مرور کنید که انگار کسی نمی‌بیند">
 <!ENTITY firstrun_privacy_subtext "مرور خصوصی با محافظت در برابر ردیابی وقتی در حال مرور هستید ردیاب‌ها را مسدود می‌کند و تاریخچه فعالیت شما را به خاطر نمی‌سپارد.">
+<!ENTITY newfirstrun_privacy_subtext "مرور خصوصی تبلیغات های دنبال کننده رو مسدود می‌کند.">
 <!ENTITY firstrun_panel_title_customize "شخصی‌سازی">
 <!ENTITY firstrun_customize_message "&brandShortName; را از آن خود کنید.">
 <!ENTITY firstrun_customize_subtext "&brandShortName; را با افزونه‌ها شخصی‌سازی کنید. تبلیغات را مسدود کنید، ویژگی‌های جدید اضافه نمایید یا برای انعکاس شخصیتتان یک تم جدید انتخاب کنید.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "هم‌گام‌سازی">
 <!ENTITY firstrun_sync_message2 "از جایی که مانده بود ادامه دهید.">
 <!ENTITY firstrun_sync_subtext2 "برای پیدا کردن نشانک‌ها، گذرواژه‌ها و چیزهای دیگری که در &brandShortName; ذخیره کرده‌اید روی همه دستگاه‌هایتان، از همگام‌ساز استفاده کنید.">
+<!ENTITY newfirstrun_sync_subtext "همگام‌سازی تمام چیزهایی که روی دستگاه موبایل خود ذخیره می‌کنید بر روی مرورگر رومیزی شما به صورت خصوصی و امن.">
 <!ENTITY firstrun_signin_message "متصل شوید،‌ شروع کنید">
 <!ENTITY firstrun_signin_button "برای همگام‌سازی وارد شوید">
+<!ENTITY newfirstrun_signin_button "روشن کردن همگام سازی">
 <!ENTITY  onboard_start_button_browser "شروع وب‌گردی">
 <!ENTITY firstrun_button_notnow "هم‌اکنون نه">
 <!ENTITY firstrun_button_next "بعدی">
@@ -408,7 +413,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "دریافت‌ها">
 <!ENTITY pref_private_data_syncedTabs "زبانه‌های همگام‌سازی شده">
 
-<!ENTITY pref_default_browser "تبدیل به مرورگر پیش‌فرض">
+<!ENTITY pref_default_browser2 "&brandShortName; را مرورگر پیش فرض خود قرار دهید">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "لمس بر روی برنامه مرورگر&amp; انتخاب &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "بازدید از پشتیبانی موزیلا">
 <!ENTITY pref_about_firefox "درباره &brandShortName;">
 <!ENTITY pref_vendor_faqs "پرسش‌های متداول">
@@ -503,6 +512,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "قبلی">
 <!ENTITY find_next "بعدی">
 <!ENTITY find_close "بستن">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "عبارت پیدا نشد">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -903,6 +916,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "مکث">
 <!ENTITY pip_pause_button_description "توقف پخش">
 
+<!ENTITY pref_notification_settings_link "مدیریت تنظیمات اعلام‌ها">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "مرورگر">
 <!ENTITY mls_notification_channel "&vendorShortName; خدمات بر اساس موقعیت">
