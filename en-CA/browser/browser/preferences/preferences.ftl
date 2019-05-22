@@ -34,6 +34,7 @@ policies-notice =
         [windows] Your organization has disabled the ability to change some options.
        *[other] Your organization has disabled the ability to change some preferences.
     }
+managed-notice = Your browser is being managed by your organization.
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = Privacy & Security
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox Account
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -528,8 +525,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Save
     .accesskey = v
-sync-mobilepromo-single = Connect another device
-sync-mobilepromo-multi = Manage devices
 sync-connect-another-device = Connect another device
 sync-manage-devices = Manage devices
 sync-fxa-begin-pairing = Pair a device
@@ -687,7 +682,6 @@ content-blocking-all-third-party-cookies = All third-party cookies
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
 content-blocking-warning-title = Heads up!
-content-blocking-warning-desc = Blocking cookies and trackers can cause some websites to break. It’s easy to disable blocking for sites you trust.
 content-blocking-warning-description = Blocking content can cause some websites to break. It’s easy to disable blocking for sites you trust.
 content-blocking-learn-how = Learn how
 content-blocking-reload-description = You will need to reload your tabs to apply these changes.
