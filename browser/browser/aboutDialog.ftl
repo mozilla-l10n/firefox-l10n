@@ -16,7 +16,7 @@ update-downloading = <img data-l10n-name="icon"/>განახლების 
 update-applying = განახლების ამოქმედება…
 update-failed = განახლება ვერ მოხერხდა. <label data-l10n-name="failed-link">უახლესი ვერსიის ჩამოტვირთვა</label>
 update-failed-main = განახლება ვერ მოხერხდა. <a data-l10n-name="failed-link-main">უახლესი ვერსიის ჩამოტვირთვა</a>
-update-adminDisabled = განახლებები აკრძალულია თქვენი სისტემური ადმინისტრატორის მიერ
+update-adminDisabled = განახლებები აკრძალულია თქვენი სისტემის მმართველის მიერ
 update-noUpdatesFound = { -brand-short-name } განახლებულია
 update-otherInstanceHandlingUpdates = { -brand-short-name } უკვე ახლდება
 update-manual = განახლებები ხელმისაწვდომია <label data-l10n-name="manual-link"/>

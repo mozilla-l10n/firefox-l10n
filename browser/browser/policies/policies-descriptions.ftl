@@ -53,6 +53,7 @@ policy-EnableTrackingProtection = შიგთავსის შეზღუდ
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = გაფართოების დაყენება, ამოშლა ან პარამეტრების ჩაკეტვა. დაყენებას პარამეტრების სახით მიეთითება URL-მისამართები ან მდებარეობა. ამოშლისა და ჩაკეტვის პარამეტრებს მიეთითება გაფართოების ID-ები.
+policy-ExtensionSettings = გაფართოების დაყენების თითოეული წვრილმანის მართვა.
 policy-ExtensionUpdate = ჩართვა ან გამორთვა, გაფართოების თვითგანახლების.
 policy-FirefoxHome = Firefox Home-ის გამართვა.
 policy-FlashPlugin = Flash-მოდულის გამოყენების დაშვება ან უარყოფა.

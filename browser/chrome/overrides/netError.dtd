@@ -106,7 +106,7 @@
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>გადაამოწმეთ პროქსის პარამეტრები და დარწმუნდით მათ მართებულობაში.</li>
-  <li>დაუკავშირდით ქსელის ადმინისტრატორს და დარწმუნდით, რომ პროქსი სერვერი 
+  <li>დაუკავშირდით ქსელის მმართველს და დარწმუნდით, რომ პროქსი სერვერი 
     მუშაობს.</li>
 </ul>
 ">
@@ -233,7 +233,7 @@ Strict Transport Security (HSTS) შეერთებას, რომ &brandSh
 <!ENTITY inadequateSecurityError.title "კავშირი დაუცველია">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> იყენებს უსაფრთხოების ისეთ ტექნოლოგიას, რომელიც მოძველებული და დაუცველია. თავდამსხმელმა შესაძლოა მარტივად მიიღოს იმ მონაცემებზე წვდომა, რომელიც დაცულად მიგაჩნიათ. საიტზე შესვლამდე, აუცილებელია მისმა ხელმძღვანელობამ ეს ხარვეზი აღმოფხვრას.</p><p>შეცდომის კოდი: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> იყენებს უსაფრთხოების ისეთ საშუალებას, რომელიც მოძველებული და დაუცველია. შემტევმა შესაძლოა მარტივად მიიღოს იმ მონაცემებზე წვდომა, რომლებიც დაცულად მიგაჩნიათ. საიტზე შესვლამდე, აუცილებელია მისმა ხელმძღვანელობამ ეს ხარვეზი აღმოფხვრას.</p><p>შეცდომის კოდი: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "გვერდი შეზღუდულია">
 
