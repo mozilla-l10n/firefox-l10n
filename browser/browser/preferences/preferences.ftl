@@ -443,8 +443,8 @@ containers-remove-button =
 
 sync-signedout-caption = Leve a web com você
 sync-signedout-description = Sincronize seus favoritos, histórico, abas, senhas, extensões e preferências com todos os seus dispositivos.
-sync-signedout-account-title = Conectar com uma { -fxaccount-brand-name }
-sync-signedout-account-create = Não tem uma conta? Inscreva-se agora
+sync-signedout-account-title = Conecte com sua { -fxaccount-brand-name }
+sync-signedout-account-create = Não tem uma conta? Crie agora
     .accesskey = C
 sync-signedout-account-signin =
     .label = Entrar…
@@ -457,7 +457,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Baixe o Firefox para <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ou <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> para sincronizar com o seu dispositivo móvel.
+sync-mobile-promo = Baixe o Firefox para <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ou <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> para sincronizar com seu dispositivo móvel.
 
 ## Sync Section - Signed in
 
