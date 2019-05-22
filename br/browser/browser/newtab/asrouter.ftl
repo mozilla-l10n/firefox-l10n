@@ -59,3 +59,12 @@ cfr-doorhanger-pintab-step2 = Dibabit <b>Spilhennañ an ivinell</b> el lañser.
 cfr-doorhanger-pintab-step3 = Ma vez un hizivadenn gant al lec'hienn e welot ur pik glas war an ivinell spilhennet.
 cfr-doorhanger-pintab-animation-pause = Ehaniñ
 cfr-doorhanger-pintab-animation-resume = Kenderc'hel
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Goubredit ho sinedoù e pep lec'h.
+cfr-doorhanger-bookmark-fxa-body = Kavet ho peus ul lec'hienn a-zoare! Bremañ eo dav deoc'h adkavout ar sined-mañ war ho trevnadoù hezoug. Krogit gant : { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-link-text = Goubredit ar sinedoù bremañ...
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Afell serriñ
+    .title = Serriñ
