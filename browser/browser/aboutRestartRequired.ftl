@@ -4,6 +4,6 @@
 
 restart-required-title = ਮੁੜ-ਸ਼ੁਰੂ ਕਰਨਾ ਜਰੂਰੀ ਹੈ
 restart-required-header = ਅਫ਼ਸੋਸ ਹੈ। ਸਾਨੂੰ ਜਾਰੀ ਰੱਖਣ ਵਾਸਤੇ ਇੱਕ ਨਿੱਕਾ ਜਿਹਾ ਕੰਮ ਕਰਨਾ ਪਵੇਗਾ।
-restart-required-intro = ਅਸੀਂ ਬੈਕਗਰਾਉਂਡ ਵਿੱਚ ਹੁਣੇ ਹੀ ਇੱਕ ਅਪਡੇਟ ਨੂੰ ਸਥਾਪਿਤ ਕੀਤਾ ਹੈੋ। ਇਸ ਨੂੰ ਲਾਗੂ ਕਰਨ ਨੂੰ ਪੂਰਾ ਕਰਨ ਵਾਸਤੇ { -brand-short-name } ਮੁੜ-ਚਾਲੂ ਕਰੋ।
+restart-required-intro-brand = { -brand-short-name } ਹੁਣੇ ਹੀ ਪਿਛੋਕੜ ਵਿੱਚ ਅਪਡੇਟ ਕੀਤਾ ਗਿਆ ਹੈ। ਅੱਪਡੇਟ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ { -brand-short-name } ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰੋ ਨੂੰ ਕਲਿੱਕ ਕਰੋ।
 restart-required-description = ਅਸੀਂ ਬਾਅਦ ਵਿੱਚ ਆਪਣੇ ਸਾਰੇ ਸਫ਼ਿਆਂ, ਵਿੰਡੋ ਅਤੇ ਟੈਬਾਂ ਨੂੰ ਬਹਾਲ ਕਰਾਂਗੇ, ਤਾਂ ਜੋ ਤੁਸੀਂ ਤੁਰੰਤ ਵਾਪਸ ਸ਼ੁਰੂ ਕਰ ਸਕੋ।
 restart-button-label = { -brand-short-name } ਮੁੜ-ਚਾਲੂ ਕਰੋ
