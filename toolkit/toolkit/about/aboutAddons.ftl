@@ -305,6 +305,7 @@ preferences-addon-button =
        *[other] Préférences
     }
 details-addon-button = Détails
+release-notes-addon-button = Notes de version
 permissions-addon-button = Permissions
 addons-enabled-heading = Activé
 addons-disabled-heading = Désactivé
@@ -354,3 +355,4 @@ addon-detail-private-browsing-allow = Autoriser
 addon-detail-private-browsing-disallow = Ne pas autoriser
 available-updates-heading = Mises à jour disponibles
 recent-updates-heading = Mises à jour récentes
+release-notes-loading = Chargement…
