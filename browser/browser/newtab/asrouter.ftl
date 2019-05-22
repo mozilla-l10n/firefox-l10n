@@ -44,10 +44,20 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } ਵਰਤੋਂਕਾਰ
        *[other] { $total } ਵਰਤੋਂਕਾਰ
     }
+cfr-doorhanger-pintab-description = ਆਪਣੀ ਸਭ ਤੋਂ ਜ਼ਿਆਦਾ ਵਰਤੋਂ ਵਾਲੀਆਂ ਸਾਈਟਾਂ ਤੱਕ ਆਸਾਨ ਪਹੁੰਚ ਪ੍ਰਾਪਤ ਕਰੋ ਸਾਈਟਾਂ ਨੂੰ ਇੱਕ ਟੈਬ ਵਿੱਚ ਰੱਖੋ (ਭਾਵੇਂ ਤੁਸੀਂ ਮੁੜ ਚਾਲੂ ਕਰੋ)।
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = ਜਿਸ ਟੈਬ ਨੂੰ ਤੁਸੀਂ ਟੰਗਣਾ ਚਾਹੁੰਦੇ ਹੋ ਉਸ ਉੱਤੇ <b>ਰਾਈਟ-ਕਲਿੱਕ</ b>।
 cfr-doorhanger-pintab-step2 = ਮੇਨੂ ਤੋਂ <b>ਟੈਬ ਨੂੰ ਟੰਗੋ</b> ਨੂੰ ਚੁਣੋ।
 cfr-doorhanger-pintab-step3 = ਜੇ ਸਾਈਟ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ ਤਾਂ ਤੁਸੀਂ ਆਪਣੀ ਟੰਗ ਕੀਤੀ ਟੈਬ ਵਿੱਚ ਨੀਲੀ ਬਿੰਦੀ ਵੇਖੋਗੇ।
 cfr-doorhanger-pintab-animation-pause = ਵਿਰਾਮ
 cfr-doorhanger-pintab-animation-resume = ਮੁੜ-ਪ੍ਰਾਪਤ
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = ਆਪਣੇ ਬੁੱਕਮਾਰਕ ਹਰ ਥਾਂ ਉੱਤੇ ਸਿੰਕ ਕਰੋ।
+cfr-doorhanger-bookmark-fxa-link-text = …ਬੁੱਕਮਾਰਕ ਹੁਣੇ ਸਿੰਕ ਕਰੋ
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = ਬੰਦ ਕਰੋ ਬਟਨ
+    .title = ਬੰਦ ਕਰੋ
