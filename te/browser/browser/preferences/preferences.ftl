@@ -32,6 +32,7 @@ policies-notice =
         [windows] కొన్ని ఎంపికలను మార్చుకునే సౌలభ్యాన్ని మీ సంస్థ అచేతనం చేసింది.
        *[other] కొన్ని అభిరుచులను మార్చుకునే సౌలభ్యాన్ని మీ సంస్థ అచేతనం చేసింది.
     }
+managed-notice = మీ విహారిణి మీ సంస్థ ద్వారా నిర్వహించబడుతోంది.
 pane-general-title = సాధారణం
 category-general =
     .tooltiptext = { pane-general-title }
@@ -44,10 +45,6 @@ category-search =
 pane-privacy-title = అంతరంగికత & భద్రత
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox ఖాతా
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -487,8 +484,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = భద్రపరచు
     .accesskey = v
-sync-mobilepromo-single = మరొక పరికరాన్ని అనుసంధానించండి
-sync-mobilepromo-multi = పరికరాల నిర్వహణ
 sync-manage-devices = పరికరాల నిర్వహణ
 sync-tos-link = సేవా నిబంధనలు
 sync-fxa-privacy-notice = గోప్యతా నోటీసు
