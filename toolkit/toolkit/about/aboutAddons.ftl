@@ -314,6 +314,9 @@ preferences-addon-button =
         [windows] Options
        *[other] Preferences
     }
+details-addon-button = Details
+release-notes-addon-button = Release Notes
+permissions-addon-button = Permissions
 addons-enabled-heading = Enabled
 addons-disabled-heading = Disabled
 ask-to-activate-button = Ask to Activate
@@ -363,3 +366,6 @@ addon-detail-private-browsing-allow = Allow
 addon-detail-private-browsing-disallow = Don’t Allow
 available-updates-heading = Available Updates
 recent-updates-heading = Recent Updates
+release-notes-loading = Loading…
+release-notes-error = Sorry, but there was an error loading the release notes.
+addon-permissions-empty = This extension doesn’t require any permissions
