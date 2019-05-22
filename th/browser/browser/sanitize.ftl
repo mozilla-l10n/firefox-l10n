@@ -46,7 +46,7 @@ clear-time-duration-suffix =
 
 history-section-label = ประวัติ
 item-history-and-downloads =
-    .label = ประวัติการท่องเว็บและการดาวน์โหลด
+    .label = ประวัติการเรียกดูและการดาวน์โหลด
     .accesskey = ป
 item-cookies =
     .label = คุกกี้
