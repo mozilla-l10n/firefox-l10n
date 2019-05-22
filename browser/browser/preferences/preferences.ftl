@@ -34,6 +34,7 @@ policies-notice =
         [windows] Ο οργανισμός σας έχει απενεργοποιήσει την ικανότητα αλλαγής μερικών επιλογών.
        *[other] Ο οργανισμός σας έχει απενεργοποιήσει την ικανότητα αλλαγής μερικών προτιμήσεων.
     }
+managed-notice = Το πρόγραμμα περιήγησής σας ρυθμίζεται από τον οργανισμό σας.
 pane-general-title = Γενικά
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = Απόρρητο & ασφάλεια
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Λογαριασμός Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -528,8 +525,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Αποθήκευση
     .accesskey = θ
-sync-mobilepromo-single = Σύνδεση άλλης συσκευής
-sync-mobilepromo-multi = Διαχείριση συσκευών
 sync-connect-another-device = Σύνδεση άλλης συσκευής
 sync-manage-devices = Διαχείριση συσκευών
 sync-fxa-begin-pairing = Σύζευξη συσκευής
@@ -687,7 +682,6 @@ content-blocking-all-third-party-cookies = Όλα τα cookies τρίτων
 content-blocking-cryptominers = Εξορύκτες κρυπτονομισμάτων
 content-blocking-fingerprinters = Ανιχνευτές αποτυπωμάτων
 content-blocking-warning-title = Προσοχή!
-content-blocking-warning-desc = Η φραγή των cookies και των ιχνηλατών μπορεί να προκαλέσει δυσλειτουργία σε ορισμένες ιστοσελίδες. Μπορείτε εύκολα να απενεργοποιήσετε τη φραγή σε ιστοσελίδες που εμπιστεύεστε.
 content-blocking-warning-description = Η φραγή περιεχομένου μπορεί να προκαλέσει δυσλειτουργία σε ορισμένες ιστοσελίδες. Μπορείτε εύκολα να απενεργοποιήσετε τη φραγή σε ιστοσελίδες που εμπιστεύεστε.
 content-blocking-learn-how = Μάθετε πώς
 content-blocking-reload-description = Θα πρέπει να φορτώσετε ξανά τις καρτέλες σας για εφαρμογή των αλλαγών αυτών.

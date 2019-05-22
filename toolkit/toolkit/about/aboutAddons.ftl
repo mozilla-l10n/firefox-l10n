@@ -314,6 +314,9 @@ preferences-addon-button =
         [windows] Επιλογές
        *[other] Προτιμήσεις
     }
+details-addon-button = Λεπτομέρειες
+release-notes-addon-button = Σημειώσεις έκδοσης
+permissions-addon-button = Δικαιώματα
 addons-enabled-heading = Ενεργό
 addons-disabled-heading = Ανενεργό
 ask-to-activate-button = Ερώτηση για ενεργοποίηση
@@ -363,3 +366,6 @@ addon-detail-private-browsing-allow = Αποδοχή
 addon-detail-private-browsing-disallow = Απόρριψη
 available-updates-heading = Διαθέσιμες ενημερώσεις
 recent-updates-heading = Πρόσφατες ενημερώσεις
+release-notes-loading = Φόρτωση...
+release-notes-error = Λυπούμαστε, αλλά προέκυψε σφάλμα φόρτωσης των σημειώσεων έκδοσης.
+addon-permissions-empty = Αυτή η επέκταση δεν απαιτεί δικαιώματα
