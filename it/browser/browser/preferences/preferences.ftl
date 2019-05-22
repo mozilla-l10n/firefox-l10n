@@ -491,7 +491,7 @@ sync-engine-tabs =
     .tooltiptext = Elementi aperti nei dispositivi sincronizzati
     .accesskey = h
 sync-engine-logins =
-    .label = Accessi
+    .label = Credenziali
     .tooltiptext = Nomi utente e password salvati
     .accesskey = i
 sync-engine-addresses =
@@ -536,7 +536,7 @@ privacy-header = Privacy del browser
 
 ## Privacy Section - Forms
 
-logins-header = Accessi e password
+logins-header = Credenziali e password
 forms-ask-to-save-logins =
     .label = Chiedi se salvare le credenziali di accesso ai siti web
     .accesskey = C
@@ -544,7 +544,7 @@ forms-exceptions =
     .label = Eccezioni…
     .accesskey = z
 forms-saved-logins =
-    .label = Accessi salvati…
+    .label = Credenziali salvate…
     .accesskey = s
 forms-master-pw-use =
     .label = Utilizza una password principale

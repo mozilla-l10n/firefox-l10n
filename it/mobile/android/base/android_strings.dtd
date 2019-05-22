@@ -119,12 +119,12 @@
 <!ENTITY pref_category_search_summary2 "Aggiungi nuovi motori di ricerca, imposta motore predefinito, suggerimenti">
 <!ENTITY pref_category_accessibility "Accessibilità">
 <!ENTITY pref_category_accessibility_summary2 "Dimensione del testo, zoom, input vocale">
-<!ENTITY pref_category_privacy_summary4 "Tracciamento, accessi, condivisione dati">
+<!ENTITY pref_category_privacy_summary4 "Tracciamento, credenziali, condivisione dati">
 <!ENTITY pref_category_privacy_short "Privacy">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Informazioni su &brandShortName;, FAQ, feedback">
 <!ENTITY pref_category_datareporting "Condivisione dati">
-<!ENTITY pref_category_logins "Accessi">
+<!ENTITY pref_category_logins "Credenziali">
 <!ENTITY pref_learn_more "Ulteriori informazioni">
 <!ENTITY pref_category_installed_search_engines "Motori di ricerca installati">
 <!ENTITY pref_category_add_search_providers "Aggiungi altri motori di ricerca">
@@ -139,8 +139,8 @@
 <!ENTITY pref_developer_remotedebugging_usb "Debug remoto tramite USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Debug remoto tramite Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Il debug tramite Wi-Fi richiede la presenza sul dispositivo di un’app per la scansione di codici QR.">
-<!ENTITY pref_remember_signons2 "Ricorda accessi">
-<!ENTITY pref_manage_logins "Gestione accessi">
+<!ENTITY pref_remember_signons2 "Ricorda credenziali">
+<!ENTITY pref_manage_logins "Gestione credenziali">
 <!ENTITY pref_category_home "Home">
 <!ENTITY pref_category_home_summary "Personalizza la pagina iniziale">
 <!ENTITY pref_category_home_panels "Pannelli">
@@ -237,7 +237,7 @@
 <!ENTITY pref_use_master_password "Usa password principale">
 <!ENTITY pref_sync_default_title "Account Firefox">
 <!ENTITY pref_sync2 "Accedi">
-<!ENTITY pref_sync_summary2 "Sincronizza schede, segnalibri, accessi, cronologia">
+<!ENTITY pref_sync_summary2 "Sincronizza schede, segnalibri, credenziali, cronologia">
 <!ENTITY pref_search_suggestions "Mostra suggerimenti di ricerca">
 <!ENTITY pref_history_search_suggestions "Mostra cronologia di ricerca">
 <!ENTITY pref_import_options "Opzioni di importazione">
@@ -291,7 +291,7 @@
 <!ENTITY help_menu "Guida">
 <!ENTITY quit "Esci">
 <!ENTITY addons "Componenti aggiuntivi">
-<!ENTITY logins "Accessi">
+<!ENTITY logins "Credenziali">
 <!ENTITY downloads "Download">
 <!ENTITY char_encoding "Codifica caratteri">
 <!ENTITY share "Condividi">
@@ -455,7 +455,7 @@
 <!ENTITY guest_session_dialog_continue "Continua">
 <!ENTITY guest_session_dialog_cancel "Annulla">
 <!ENTITY new_guest_session_title "&brandShortName; verrà riavviato">
-<!ENTITY new_guest_session_text2 "La persona che utilizza il browser non potrà visualizzare alcun dato personale già presente, come ad esempio accessi salvati, cronologia o segnalibri.\n\nAl termine i dati relativi a questa sessione di navigazione verranno eliminati e verrà ripristinata la sessione precedente.">
+<!ENTITY new_guest_session_text2 "La persona che utilizza il browser non potrà visualizzare alcun dato personale già presente, come ad esempio credenziali salvate, cronologia o segnalibri.\n\nAl termine i dati relativi a questa sessione di navigazione verranno eliminati e verrà ripristinata la sessione precedente.">
 <!ENTITY guest_browsing_notification_title "Navigazione in mod. ospite attiva">
 <!ENTITY guest_browsing_notification_text "Tocca per uscire">
 <!ENTITY exit_guest_session_title "&brandShortName; verrà riavviato">

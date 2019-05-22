@@ -293,7 +293,7 @@
 <!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferenze">
 <!ENTITY preferencesCmdUnix.accesskey "n">
-<!ENTITY logins.label "Accessi e password">
+<!ENTITY logins.label "Credenziali e password">
 <!ENTITY clearRecentHistory.label "Cancella la cronologia recente…">
 <!ENTITY privateBrowsingCmd.commandkey "P">
 <!ENTITY viewMenu.label "Visualizza">
