@@ -34,6 +34,7 @@ policies-notice =
         [windows] Organizația ta a dezactivat posibilitatea de a modifica anumite opțiuni.
        *[other] Organizația ta a dezactivat posibilitatea de a modifica anumite preferințe.
     }
+managed-notice = Browserul este gestionat de organizația ta.
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = Confidențialitate și securitate
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Cont Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -531,8 +528,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Salvează
     .accesskey = v
-sync-mobilepromo-single = Conectează alt dispozitiv
-sync-mobilepromo-multi = Gestionează dispozitivele
 sync-connect-another-device = Conectează alt dispozitiv
 sync-manage-devices = Gestionează dispozitivele
 sync-fxa-begin-pairing = Asociază un dispozitiv
@@ -690,7 +685,6 @@ content-blocking-all-third-party-cookies = Toate cookie-urile de la terți
 content-blocking-cryptominers = Criptomineri
 content-blocking-fingerprinters = Detectoare de amprente digitale
 content-blocking-warning-title = Atenție!
-content-blocking-warning-desc = Blocarea cookie-urilor și a elementelor de urmărire poate produce disfuncționalități pe anumite site-uri web. Poți dezactiva ușor blocarea pentru site-urile în care ai încredere.
 content-blocking-warning-description = Blocarea conținutului poate împiedica funcționarea unor site-uri web. Deblocarea se poare realiza ușor pentru site-urile în care ai încredere.
 content-blocking-learn-how = Află cum
 content-blocking-reload-description = Va trebui să reîncarci filele pentru aplicarea acestor modificări.
