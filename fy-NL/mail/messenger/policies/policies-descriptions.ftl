@@ -52,3 +52,13 @@ policy-OverridePostUpdatePage = De side ‘Wat is der nij’ nei in fernijing fe
 policy-Preferences = De wearde foar in subset fan foarkarren ynstelle en beskoattelje.
 policy-PromptForDownloadLocation = Freegje wêr't downloade bestannen bewarre wurde moatte.
 policy-Proxy = Proxyynstellingen konfigurearje.
+policy-RequestedLocales = De list fan frege locales foar de tapassing ynstelle, op folchoarder fan foarkar.
+policy-SanitizeOnShutdown2 = Navigaasjegegevens wiskje by ôfsluten.
+policy-SearchEngines = Ynstellingen foar sykmasinen konfigurearje. Dizze beliedsrigel is allinnich beskikber yn de Extended Support Release (ESR)-ferzje.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = PKCS #11-modules ynstallearje.
+policy-SSLVersionMax = De maksimale SSL-ferzje ynstelle.
+policy-SSLVersionMin = De minimale SSL-ferzje ynstelle.
+policy-SupportMenu = In oanpast menu-item foar stipe oan it menu Help tafoegje.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = It besykjen fan websites blokkearje. Sjoch de dokumintaasje foar mear ynformaasje oer de notaasje.
