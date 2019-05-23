@@ -413,8 +413,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Preuzimanja">
 <!ENTITY pref_private_data_syncedTabs "Sinkronizirane kartice">
 
-<!ENTITY pref_default_browser "Učinite zadanim pretraživačem">
-
 <!ENTITY pref_default_browser2 "Učinite &brandShortName; zadanim preglednikom">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -918,6 +916,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Zaustavi">
 <!ENTITY pip_pause_button_description "Zaustavi reprodukciju">
 
+<!ENTITY pref_notification_settings_link "Upravljanje postavkama obavijesti">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Preglednik">
 <!ENTITY mls_notification_channel "&vendorShortName; lokacijska usluga">
