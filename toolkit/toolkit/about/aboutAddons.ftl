@@ -158,6 +158,9 @@ private-browsing-description2 =
 extensions-view-discover =
     .name = Pobierz dodatki
     .tooltiptext = Pobierz dodatki
+extensions-view-discopane =
+    .name = Polecane
+    .tooltiptext = Wyświetl polecane dodatki
 extensions-view-recent-updates =
     .name = Ostatnie aktualizacje
     .tooltiptext = Wyświetl ostatnie aktualizacje
@@ -266,20 +269,55 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations = Część tych poleceń jest spersonalizowanych na podstawie pozostałych zainstalowanych rozszerzeń, preferencji profilu i statystyk użytkowania.
+discopane-notice-learn-more = Więcej informacji
+privacy-policy = Zasady ochrony prywatności
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = Autor: <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Użytkownicy: { $dailyUsers }
+install-extension-button = Dodaj do przeglądarki { -brand-product-name }
+install-theme-button = Zainstaluj motyw
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Zarządzaj
+find-more-addons = Znajdź więcej dodatków
 
 ## Add-on actions
 
+report-addon-button = Zgłoś
 remove-addon-button = Usuń
 disable-addon-button = Wyłącz
 enable-addon-button = Włącz
 expand-addon-button = Więcej opcji
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Opcje
+       *[other] Preferencje
+    }
+details-addon-button = Szczegóły
+release-notes-addon-button = Informacje o wydaniu
+permissions-addon-button = Uprawnienia
 addons-enabled-heading = Włączone
 addons-disabled-heading = Wyłączone
+ask-to-activate-button = Pytaj o aktywację
+always-activate-button = Zawsze aktywuj
+never-activate-button = Nigdy nie aktywuj
 addon-detail-author-label = Autor
 addon-detail-version-label = Wersja
 addon-detail-last-updated-label = Ostatnia aktualizacja
 addon-detail-homepage-label = Strona domowa
 addon-detail-rating-label = Ocena
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Ocena: { NUMBER($rating, maximumFractionDigits: 1) } z 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -296,3 +334,25 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = Usunięto dodatek <span data-l10n-name="addon-name">{ $addon }</span>.
+pending-uninstall-undo-button = Cofnij
+addon-detail-updates-label = Automatyczne aktualizacje
+addon-detail-updates-radio-default = Domyślne
+addon-detail-updates-radio-on = Włączone
+addon-detail-updates-radio-off = Wyłączone
+addon-detail-update-check-label = Sprawdź dostępność aktualizacji
+install-update-button = Uaktualnij
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Dozwolone w oknach prywatnych
+addon-detail-private-browsing-help = Zezwolenie spowoduje, że rozszerzenie będzie miało dostęp do działań użytkownika w Internecie podczas przeglądania w trybie prywatnym. <a data-l10n-name="learn-more">Więcej informacji</a>
+addon-detail-private-browsing-allow = Zezwól
+addon-detail-private-browsing-disallow = Nie zezwalaj
+available-updates-heading = Dostępne aktualizacje
+recent-updates-heading = Ostatnie aktualizacje
+release-notes-loading = Wczytywanie…
+release-notes-error = Przepraszamy, podczas pobierania informacji o wydaniu wystąpił błąd.
+addon-permissions-empty = To rozszerzenie nie wymaga żadnych uprawnień

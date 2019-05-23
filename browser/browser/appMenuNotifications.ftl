@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 appmenu-update-available =
-    .label = Nowa wersja programu { -brand-shorter-name } jest dostępna.
+    .label = Dostępna jest nowa wersja przeglądarki { -brand-shorter-name }.
     .buttonlabel = Pobierz aktualizację
     .buttonaccesskey = P
     .secondarybuttonlabel = Nie teraz
     .secondarybuttonaccesskey = N
-appmenu-update-available-message = Uaktualnij program { -brand-shorter-name } dla szybkości i bezpieczeństwa.
+appmenu-update-available-message = Uaktualnij przeglądarkę { -brand-shorter-name } dla szybkości i bezpieczeństwa.
 appmenu-update-manual =
     .label = { -brand-shorter-name } nie może zostać uaktualniony do najnowszej wersji.
     .buttonlabel = Pobierz program
@@ -18,6 +18,13 @@ appmenu-update-manual =
 appmenu-update-manual-message = Pobierz świeżą kopię programu { -brand-shorter-name }, a my pomożemy ją zainstalować.
 appmenu-update-whats-new =
     .value = Sprawdź, co nowego.
+appmenu-update-unsupported =
+    .label = { -brand-shorter-name } nie może zostać uaktualniony do najnowszej wersji.
+    .buttonlabel = Więcej informacji
+    .buttonaccesskey = W
+    .secondarybuttonlabel = Zamknij
+    .secondarybuttonaccesskey = Z
+appmenu-update-unsupported-message = System nie obsługuje najnowszej wersji przeglądarki { -brand-shorter-name }.
 appmenu-update-restart =
     .label = Uruchom ponownie program, aby go uaktualnić.
     .buttonlabel = Uruchom i przywróć
