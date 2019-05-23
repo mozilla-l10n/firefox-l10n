@@ -13,13 +13,13 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "คุณไม่ได้อยู่ในการเรียกดูแบบส่วนตัว">
 
-<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; ปิดกั้นบางส่วนของหน้าที่อาจติดตามกิจกรรมการท่องเว็บของคุณ">
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; ปิดกั้นบางส่วนของหน้าที่อาจติดตามกิจกรรมการเรียกดูของคุณ">
 <!ENTITY privatebrowsingpage.description.privateDetails "เราจะไม่จดจำประวัติใด ๆ แต่จะยังคงบันทึกไฟล์ที่ดาวน์โหลดและที่คั่นหน้าใหม่ไว้ในอุปกรณ์ของคุณ">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
-<!ENTITY privatebrowsingpage.description.normal2 "ในการท่องเว็บแบบส่วนตัว เราจะไม่เก็บประวัติการท่องเว็บหรือคุกกี้ใด ๆ ของคุณ ที่คั่นหน้าที่คุณเพิ่มและไฟล์ที่คุณดาวน์โหลดจะยังคงถูกบันทึกไว้ในอุปกรณ์ของคุณ">
+<!ENTITY privatebrowsingpage.description.normal2 "ในการเรียกดูแบบส่วนตัว เราจะไม่เก็บประวัติการเรียกดูหรือคุกกี้ใด ๆ ของคุณ ที่คั่นหน้าที่คุณเพิ่มและไฟล์ที่คุณดาวน์โหลดจะยังคงถูกบันทึกไว้ในอุปกรณ์ของคุณ">
 
 <!ENTITY privatebrowsingpage.link.private "ต้องการเรียนรู้เพิ่มเติม?">
 <!ENTITY privatebrowsingpage.link.normal "เปิดแท็บส่วนตัวใหม่">
