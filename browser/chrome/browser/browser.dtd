@@ -131,7 +131,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Drukuj…">
 <!ENTITY printCmd.accesskey "D">
 <!ENTITY printCmd.commandkey "p">
-
 <!ENTITY importFromAnotherBrowserCmd.label "Importuj z innej przeglądarki…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
@@ -335,12 +334,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.screenBlocked.tooltip            "Udostępnianie obrazu ekranu tej witrynie zostało zablokowane">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Udostępnianie położenia tej witrynie zostało zablokowane">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Powiadomienia z tej witryny zostały zablokowane">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "Przechowywanie danych na komputerze przez witrynę zostało zablokowane">
-<!ENTITY urlbar.popupBlocked.tooltip             "Wyskakujące okna na tej stronie są blokowane">
-<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Automatyczne odtwarzanie treści z dźwiękiem przez tę stronę zostało zablokowane">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Przechowywanie danych na komputerze przez tę witrynę zostało zablokowane">
+<!ENTITY urlbar.popupBlocked.tooltip             "Wyskakujące okna na tej witrynie są blokowane">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Automatyczne odtwarzanie treści z dźwiękiem przez tę witrynę zostało zablokowane">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Odczytywanie danych canvas przez witrynę zostało zablokowane">
-<!ENTITY urlbar.flashPluginBlocked.tooltip       "Wtyczka Adobe Flash została zablokowana na tej stronie">
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Wtyczka Adobe Flash została zablokowana na tej witrynie">
 <!ENTITY urlbar.midiBlocked.tooltip              "Dostęp do urządzeń MIDI dla tej witryny został zablokowany">
+
+<!ENTITY urlbar.installBlocked.tooltip           "Instalacja dodatków przez tę witrynę została zablokowana">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Wyświetl historię">
 
@@ -439,7 +440,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferencje">
 <!ENTITY preferencesCmdUnix.accesskey     "r">
-
 <!ENTITY logins.label                           "Dane logowania i hasła">
 
 <!ENTITY clearRecentHistory.label               "Wyczyść historię przeglądania…">
@@ -530,6 +530,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "Z">
 <!ENTITY customizeMenu.removeExtension.label "Usuń rozszerzenie">
 <!ENTITY customizeMenu.removeExtension.accesskey "U">
+
+<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
+     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.label "Zgłoś rozszerzenie">
+<!ENTITY customizeMenu.reportExtension.accesskey "o">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -880,6 +886,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Ta strona została wczytana przez rozszerzenie.">
 <!ENTITY identity.insecureLoginForms2 "Dane logowania wprowadzone na tej stronie nie są chronione.">
 
+<!ENTITY identity.customRoot "Połączenie zweryfikowane przez wystawcę certyfikatu, który nie jest rozpoznawany przez Mozillę.">
+
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; zablokował elementy tej strony, które nie były przesłane w sposób bezpieczny.">
 <!ENTITY identity.passiveLoaded "Niektóre elementy tej strony (np. obrazy) nie były przesłane w sposób bezpieczny.">
@@ -897,6 +905,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "&brandShortName; zablokował niektóre elementy strony, mimo to nie wszystkie pozostałe elementy były przesłane w sposób bezpieczny (np. obrazy).">
 <!ENTITY identity.description.activeLoaded "Strona zawiera elementy, które nie były przesłane w sposób bezpieczny (np. skrypty) i połączenie z nią nie zapewnia prywatności.">
 <!ENTITY identity.description.activeLoaded2 "Przesyłane informacje (np. hasła, wiadomości, numery kart) mogą być dostępne dla innych.">
+
+<!ENTITY identity.description.customRoot "Mozilla nie rozpoznaje tego wystawcy certyfikatu. Mógł zostać dodany przez system operacyjny lub administratora.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Włącz ochronę">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "W">
@@ -1127,6 +1137,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "U">
 <!ENTITY updateRestart.cancelButton.label "Nie teraz">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateUnsupported.panelUI.label "Nie można wykonać dalszych aktualizacji">
 <!ENTITY updateRestart.panelUI.label2 "Uruchom ponownie, aby uaktualnić">
 
 <!ENTITY newTabControlled.header.message "Strona nowej karty została zmieniona.">
