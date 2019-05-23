@@ -29,6 +29,8 @@ load-device-browse =
 
 ## Token Manager
 
+devinfo-status-logged-in =
+    .label = Nakalog-in
 devinfo-desc =
     .label = Paglalarawan
 login-failed = Nabigong mag-Login

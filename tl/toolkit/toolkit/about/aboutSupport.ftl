@@ -44,7 +44,6 @@ app-basics-performance = Pagganap
 app-basics-service-workers = Mga Nakarehistrong Manggagawa ng Serbisyo
 app-basics-profiles = Mga Profile
 app-basics-multi-process-support = Multiprocess Windows
-app-basics-key-google = Google Key
 app-basics-key-mozilla = Mozilla Location Service Key
 app-basics-safe-mode = Safe Mode
 show-dir-label =
@@ -233,3 +232,5 @@ autoscroll-enabled = pinagana ang autoscroll
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Di Aktibo
+policies-active = Aktibo
