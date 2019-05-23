@@ -44,6 +44,8 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step2 = Piliin ang <b>Pin Tab</b> mula sa menu.
+cfr-doorhanger-pintab-step3 = Kung ang site ay may pagbabago may makikitang asul na tuldok sa iyong naka-pin na tab.
 cfr-doorhanger-pintab-animation-pause = Sandaling ihinto
 cfr-doorhanger-pintab-animation-resume = Ipagpatuloy
 
