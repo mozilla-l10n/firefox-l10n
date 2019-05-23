@@ -311,6 +311,9 @@ preferences-addon-button =
         [windows] Beállítások
        *[other] Beállítások
     }
+details-addon-button = Részletek
+release-notes-addon-button = Kiadási megjegyzések
+permissions-addon-button = Engedélyek
 addons-enabled-heading = Engedélyezve
 addons-disabled-heading = Tiltva
 ask-to-activate-button = Aktiválás kérésre
@@ -360,3 +363,6 @@ addon-detail-private-browsing-allow = Engedélyezés
 addon-detail-private-browsing-disallow = Tiltás
 available-updates-heading = Elérhető frissítések
 recent-updates-heading = Legutóbbi frissítések
+release-notes-loading = Betöltés…
+release-notes-error = Sajnáljuk, de hiba történt a kiadási megjegyzések betöltésekor.
+addon-permissions-empty = Ez a kiegészítő nem igényel semmilyen engedélyt
