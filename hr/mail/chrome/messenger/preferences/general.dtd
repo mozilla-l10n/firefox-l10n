@@ -38,3 +38,7 @@
 <!ENTITY browse.accesskey                 "b">
 
 <!ENTITY defaultSearchEngine.label        "Zadani pretraživač">
+<!ENTITY addSearchEngine.label            "Dodaj iz datoteke">
+<!ENTITY addSearchEngine.accesskey        "a">
+<!ENTITY removeSearchEngine.label         "Ukloni">
+<!ENTITY removeSearchEngine.accesskey     "U">

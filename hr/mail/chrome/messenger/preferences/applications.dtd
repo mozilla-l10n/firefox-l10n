@@ -34,5 +34,7 @@
 <!ENTITY authRequired.button.label        "Odobri">
 <!ENTITY authRequired.button.accesskey    "O">
 
+<!ENTITY findCloudFileProviders.label     "Pronađite više davatelja usluga…">
+
 <!ENTITY enableCloudFileAccountOffer.label "Ponuda za razmjenu datoteka većih od">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
