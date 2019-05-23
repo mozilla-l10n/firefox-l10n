@@ -356,3 +356,4 @@ addon-detail-private-browsing-disallow = Ne pas autoriser
 available-updates-heading = Mises à jour disponibles
 recent-updates-heading = Mises à jour récentes
 release-notes-loading = Chargement…
+release-notes-error = Désolé, une erreur s’est produite lors du chargement des notes de version.
