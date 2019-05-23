@@ -14,10 +14,7 @@
 <!ENTITY editContactAddressBook.label "Agendă de contacte:">
 <!ENTITY editContactAddressBook.accesskey "A">
 
-<!ENTITY editContactPanelCancel.label "Renunță">
-<!ENTITY editContactPanelCancel.accesskey "R">
-
 <!ENTITY editContactPanelDone.label "Terminat">
 <!ENTITY editContactPanelDone.accesskey "D">
 
-<!ENTITY contactMoveDisabledWarning.description "Nu poți schimba agenda de contacte deoarece contactul este pe o listă de adrese.">
+<!ENTITY contactMoveDisabledWarning.description "Nu poți schimba agenda de contacte deoarece contactul este ăntr-o listă de adrese.">

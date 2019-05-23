@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Title -->
-<!ENTITY mailListWindowAdd.title        "Listă de adrese nouă">
+<!ENTITY mailListWindowAdd.title        "Listă nouă de adrese de e-mail">
 
 <!-- Labels and Access Keys -->
 <!ENTITY addToAddressBook.label         "Adaugă la: ">
