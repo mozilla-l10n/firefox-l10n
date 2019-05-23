@@ -105,7 +105,7 @@ about-debugging-setup-usb-status-updating = Uaktualnianie…
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = Włącz menu programisty na urządzeniu z Androidem.
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug2 = Włącz debugowanie USB w menu programisty Androida.
+about-debugging-setup-usb-step-enable-debug2 = Włącz debugowanie przez USB w menu programisty Androida.
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox2 = Włącz debugowanie przez USB w Firefoksie na urządzeniu z Androidem.
 # USB section step by step guide

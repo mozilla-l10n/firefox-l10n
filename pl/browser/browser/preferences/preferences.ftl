@@ -34,6 +34,7 @@ policies-notice =
         [windows] Administrator zablokował możliwość zmiany niektórych opcji
        *[other] Administrator zablokował możliwość zmiany niektórych preferencji
     }
+managed-notice = Przeglądarka jest zarządzana przez administratora
 pane-general-title = Ogólne
 category-general =
     .tooltiptext = Ogólne ustawienia
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = Prywatność i bezpieczeństwo
 category-privacy =
     .tooltiptext = Ustawienia dotyczące prywatności i bezpieczeństwa
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Konto Firefoksa
-category-sync =
-    .tooltiptext = Konto Firefoksa
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -531,8 +528,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Zachowaj
     .accesskey = Z
-sync-mobilepromo-single = Połącz inne urządzenie
-sync-mobilepromo-multi = Zarządzaj urządzeniami
 sync-connect-another-device = Połącz inne urządzenie
 sync-manage-devices = Zarządzaj urządzeniami
 sync-fxa-begin-pairing = Powiąż urządzenie
@@ -690,7 +685,6 @@ content-blocking-all-third-party-cookies = wszystkie ciasteczka zewnętrznych wi
 content-blocking-cryptominers = elementy używające komputera użytkownika do generowania kryptowalut
 content-blocking-fingerprinters = śledzenie przez zbieranie informacji o konfiguracji
 content-blocking-warning-title = Ostrzeżenie
-content-blocking-warning-desc = Blokowanie ciasteczek i elementów śledzących może powodować problemy z niektórymi stronami. Blokowanie można łatwo wyłączyć na stronach, którym ufasz.
 content-blocking-warning-description = Blokowanie treści może powodować problemy z niektórymi stronami. Blokowanie można łatwo wyłączyć na stronach, którym ufasz.
 content-blocking-learn-how = Więcej informacji
 content-blocking-reload-description = Zastosowanie tych zmian wymaga odświeżenia kart.
