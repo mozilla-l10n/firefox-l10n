@@ -9,7 +9,7 @@
 <!ENTITY abPropertiesMenu.accesskey         "i">
 <!ENTITY contactPropertiesMenu.label        "Proprietățile contactului">
 <!ENTITY contactPropertiesMenu.accesskey    "i">
-<!ENTITY mailingListPropertiesMenu.label    "Proprietățile listei de adrese">
+<!ENTITY mailingListPropertiesMenu.label    "Proprietățile listei de adrese de e-mail">
 <!ENTITY mailingListPropertiesMenu.accesskey "i">
 
 <!ENTITY abContextMenuButton.tooltip        "Afișează meniul contextual pentru agenda de contacte">
