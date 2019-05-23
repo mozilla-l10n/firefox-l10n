@@ -9,6 +9,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Yardım">
 <!ENTITY helpMenuWin.accesskey "Y">
+<!ENTITY aboutProduct2.label "&brandShorterName; hakkında">
+<!ENTITY aboutProduct2.accesskey "h">
 <!ENTITY helpTroubleshootingInfo.label     "Sorun giderme bilgileri">
 <!ENTITY helpTroubleshootingInfo.accesskey "S">
 <!ENTITY helpSafeMode.label     "Eklentileri devre dışı bırakıp başlat...">
@@ -20,13 +22,26 @@
 <!ENTITY openHelp.label "Yardım içeriği">
 <!ENTITY openHelp.accesskey "d">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "&brandShortName; Yardımı">
 <!ENTITY openHelpMac2.label "&brandFullName; yardımı">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY aboutMenuCmd.label "&brandShortName; hakkında">
-<!ENTITY aboutMenuCmd.accesskey "k">
-
 <!ENTITY aboutMenuCmd2.label "&brandFullName; hakkında">
 <!ENTITY aboutMenuCmd2.accesskey "h">
+<!ENTITY productHelp.label "&brandShortName; yardımı">
+<!ENTITY productHelp.accesskey "a">
+<!ENTITY productHelp.commandkey "VK_F1">
+<!ENTITY productHelpMac.modifiers "accel">
+
+<!ENTITY helpKeyboardShortcuts.label "Klavye kısayolları">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
+
+
+<!ENTITY helpShowTour2.label "&brandShorterName; turu">
+<!ENTITY helpShowTour2.accesskey "t">
+
+<!ENTITY helpGetInvolvedPage.label "Bize katılın">
+<!ENTITY helpGetInvolvedPage.accesskey "B">
+
+<!ENTITY helpDonationsPage.label "Bağış yapın">
+<!ENTITY helpDonationsPage.accesskey "B">

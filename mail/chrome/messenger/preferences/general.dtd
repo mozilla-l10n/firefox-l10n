@@ -38,3 +38,7 @@
 <!ENTITY browse.accesskey                 "G">
 
 <!ENTITY defaultSearchEngine.label        "Varsayılan Arama Motoru">
+<!ENTITY addSearchEngine.label            "Dosyadan ekle">
+<!ENTITY addSearchEngine.accesskey        "D">
+<!ENTITY removeSearchEngine.label         "Kaldır">
+<!ENTITY removeSearchEngine.accesskey     "r">
