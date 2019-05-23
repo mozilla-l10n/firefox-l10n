@@ -300,6 +300,9 @@ preferences-addon-button =
         [windows] Opțiuni
        *[other] Preferințe
     }
+details-addon-button = Detalii
+release-notes-addon-button = Note privind versiunea
+permissions-addon-button = Permisiuni
 addons-enabled-heading = Activat
 addons-disabled-heading = Dezactivat
 ask-to-activate-button = Întreabă pentru activare
@@ -350,3 +353,6 @@ addon-detail-private-browsing-allow = Permite
 addon-detail-private-browsing-disallow = Nu permite
 available-updates-heading = Actualizări disponibile
 recent-updates-heading = Actualizări recente
+release-notes-loading = Se încarcă...
+release-notes-error = Ne pare rău, dar a intervenit o eroare la încărcarea notelor privind versiunea.
+addon-permissions-empty = Această extensie nu necesită nicio permisiune
