@@ -7,7 +7,6 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!ENTITY privateBrowsing.title                           "Pribadong pagbrowse">
-<!ENTITY privateBrowsing.title.tracking                  "Private Browsing na may Tracking Protection">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Kapag ikaw ay nag-browse sa isang Private Window, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "huwag i-save">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
@@ -20,6 +19,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " iyong;">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "mga downloads">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "mga bookmark">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "kinopya na text">
 <!ENTITY aboutPrivateBrowsing.note.before                "Private Browsing ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "ay hindi ka ginagawang anonymous">
 <!ENTITY aboutPrivateBrowsing.note.after                 " sa Internet. Maaari pa ring malaman ng iyong employer o ng iyong Internet service provider kung anu-anong webpage ang binisita mo.">
@@ -27,8 +27,13 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "Private Browsing">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
-<!ENTITY trackingProtection.title                        "Tracking Protection">
-<!ENTITY trackingProtection.description2                 "Ang ibang website ay gumagamit ng trackers para masubaybayan ang iyong ginagawa sa Internet. Pag ginamit mo ang Tracking Potection mapipigilan ni Firefox ang maraming mga trackers na maaaring magipon ng impormasyon ukol sa iyong pagkabrowse">
-
 <!ENTITY trackingProtection.startTour1                   "Tignan kung paano gumagana">
 
+
+<!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Hanapin sa Web">
+<!ENTITY aboutPrivateBrowsing.info.title                 "Ikaw ay nasa Pribadong Window">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->

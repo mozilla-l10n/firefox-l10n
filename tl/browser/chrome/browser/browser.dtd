@@ -111,6 +111,7 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  listAllTabs.label      "Ilista ang lahat ng mga tabs">
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
+<!ENTITY  allTabsMenu.searchTabs.label       "Hanapin sa mga tab">
 
 <!ENTITY tabCmd.label "Bagong Tab">
 <!ENTITY tabCmd.accesskey "T">
@@ -129,7 +130,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "I-print...">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-
+<!ENTITY importFromAnotherBrowserCmd.label "I-import mula sa ibang Browser…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 <!ENTITY taskManagerCmd.label "Task Manager">
@@ -219,10 +220,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "I-check ang iyong Email">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Mag-sign in bilang si">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -244,6 +247,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -323,6 +327,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasBlocked.tooltip            "Na-block mo ang data extraction ng canvas para sa website na ito.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Na-block mo ang website na ito mula sa paggamit ng Adobe Flash plugin.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Na-block mo ang access sa MIDI para sa website na ito.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Ipakita ang kasaysayan">
 
@@ -422,7 +427,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Mga Preferences">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
-
 <!ENTITY clearRecentHistory.label               "Burahin ang Kasaysayan…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
@@ -508,6 +512,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
 <!ENTITY customizeMenu.removeExtension.label "Alisin ang Extension">
 <!ENTITY customizeMenu.removeExtension.accesskey "v">
+
+<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
+     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     an abuse report related to that extension. "Report" is a verb. -->
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -649,6 +657,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY saveToPocketCmd.accesskey    "k">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
 
 <!ENTITY emailPageCmd.label           "I-email ang Link…">
 <!ENTITY emailPageCmd.accesskey       "E">
@@ -850,6 +860,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Ang pahinang ito ay nai-load mula sa isang extension.">
 <!ENTITY identity.insecureLoginForms2 "Ang mga pag-login na ipinasok sa pahinang ito ay maaaring makompromiso.">
 
+
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; Na-block ang mga bahagi ng pahinang ito na hindi ligtas.">
 <!ENTITY identity.passiveLoaded "Ang mga bahagi ng pahinang ito ay hindi ligtas (tulad ng mga larawan).">
@@ -867,6 +878,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Kahit na &brandShortName; Na-block ng ilang nilalaman, may nilalaman pa rin sa pahina na hindi ligtas (tulad ng mga larawan).">
 <!ENTITY identity.description.activeLoaded "Ang website na ito ay naglalaman ng nilalaman na hindi ligtas (tulad ng mga script) at ang iyong koneksyon dito ay hindi pribado.">
 <!ENTITY identity.description.activeLoaded2 "Ang impormasyon na ibinabahagi mo sa site na ito ay maaaring makita ng iba (tulad ng mga password, mensahe, credit card, atbp.).">
+
 
 <!ENTITY identity.enableMixedContentBlocking.label "Paganahin ang proteksyon ">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
@@ -996,7 +1008,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "Mga tracker">
 
 
+<!ENTITY contentBlocking.cryptominers.label "Cryptominers">
+<!ENTITY contentBlocking.cryptominersView.label "Cryptominers">
 
+<!ENTITY contentBlocking.fingerprinters.label "Fingerprinters">
+<!ENTITY contentBlocking.fingerprintersView.label "Fingerprinters">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "I-report ang problema">
 <!ENTITY contentBlocking.breakageReportView.label "I-report ang mga problema">

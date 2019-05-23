@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Rekomendadong Ekstensyon
+cfr-doorhanger-pintab-heading = Subukan: Mag-pin ng Tab
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Bakit ko nakikita ito
 cfr-doorhanger-extension-cancel-button = Hindi Ngayon

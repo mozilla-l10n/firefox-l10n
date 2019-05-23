@@ -8,7 +8,12 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = Mahalagang Balita
+changed-title = Ano ang nabago?
 options-title = Ano ang pagpipilian?
+resources = Mga mapagkukunan:
+sync-header = Mag-sign in o lumikha ng { -fxaccount-brand-name }
 sync-label = Ilagay ang iyong email
 sync-input =
     .placeholder = Email
+sync-button = Magpatuloy
+sync-learn = Alamin pa

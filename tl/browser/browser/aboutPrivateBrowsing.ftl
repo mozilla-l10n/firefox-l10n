@@ -12,6 +12,7 @@ about-private-browsing-info-searches = mga paghahanap
 about-private-browsing-info-downloads = mga downloads
 private-browsing-title = Pribadong pagbrowse
 about-private-browsing-info-saved = { -brand-short-name } <strong>ay isa-save</strong> iyong;
+about-private-browsing-info-myths = Mga karaniwang pamahiin tungkol sa pribadong pagbrowse
 about-private-browsing-info-clipboard = kinopyang teksto
 about-private-browsing-info-temporary-files = mga temporary na file
 about-private-browsing-info-cookies = cookies

@@ -515,6 +515,7 @@ privacy-header = Pang-sarilinan sa Browser
 
 ## Privacy Section - Forms
 
+logins-header = Mga Login at mga Password
 forms-exceptions =
     .label = Mga exceptions...
     .accesskey = x

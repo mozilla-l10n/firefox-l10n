@@ -25,4 +25,16 @@ appmenu-update-restart =
     .secondarybuttonlabel = Hindi ngayon
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Matapos ang isang mabilis na pag-restart, { -brand-shorter-name } ibabalik ang lahat ng iyong mga bukas na tab at window na wala sa pribadong Pagba-browse mode.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = OK, nakuha ko
+    .buttonaccesskey = O
 appmenu-addon-post-install-message = Pindutin ang <image data-l10n-name='addon-install-icon'></image> upang i-manage ang iyong mga add-on sa menu ng <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-post-install-incognito-checkbox =
+    .label = Payagan ang extension na ito upang tumakbo sa mga Pribadong Window
+    .accesskey = A
+appmenu-addon-private-browsing =
+    .label = Baguhin sa mga extension sa mga Pribadong Window
+    .buttonlabel = Pamahalaan ang mga Extension
+    .buttonaccesskey = M
+    .secondarybuttonlabel = Sige, Nakuha ko
+    .secondarybuttonaccesskey = O
