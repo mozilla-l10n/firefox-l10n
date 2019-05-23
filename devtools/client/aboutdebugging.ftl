@@ -82,9 +82,6 @@ about-debugging-refresh-usb-devices-button = Odśwież urządzenia
 about-debugging-setup-title = Konfiguracja
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Skonfiguruj metodę połączenia do zdalnego debugowania urządzenia.
-# Link displayed in the Setup page that leads to MDN page with list of supported devices.
-# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
-about-debugging-setup-link-android-devices = Lista obsługiwanych urządzeń z Androidem
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Użyj „<a>{ about-debugging-this-firefox-runtime-name }</a>” do debugowania kart, rozszerzeń i wątków usługowych w tej wersji przeglądarki { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
@@ -106,16 +103,22 @@ about-debugging-setup-usb-status-enabled = Włączono
 about-debugging-setup-usb-status-disabled = Wyłączono
 about-debugging-setup-usb-status-updating = Uaktualnianie…
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu = Włącz menu programisty na urządzeniu z Androidem. <a>Więcej informacji</a>.
+about-debugging-setup-usb-step-enable-dev-menu2 = Włącz menu programisty na urządzeniu z Androidem.
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug = Włącz debugowanie przez USB w menu programisty Androida. <a>Więcej informacji</a>.
+about-debugging-setup-usb-step-enable-debug2 = Włącz debugowanie USB w menu programisty Androida.
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox = Włącz debugowanie przez USB w Firefoksie na urządzeniu z Androidem. <a>Więcej informacji</a>.
+about-debugging-setup-usb-step-enable-debug-firefox2 = Włącz debugowanie przez USB w Firefoksie na urządzeniu z Androidem.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Podłącz urządzenie z Androidem do komputera.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = Problemy z łączeniem przez USB? <a>Rozwiązywanie problemów</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Położenie sieciowe
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = Problemy z łączeniem przez położenie sieciowe? <a>Rozwiązywanie problemów</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Dodaj
@@ -164,7 +167,7 @@ about-debugging-runtime-processes =
     .name = Procesy
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
-about-debugging-runtime-profile-button = Profiluj środowisko
+about-debugging-runtime-profile-button2 = Profiluj wydajność
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
@@ -202,12 +205,7 @@ about-debugging-connection-prompt-enable-button = Włącz pytanie o połączeni
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = Wyłącz pytanie o połączenie
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
-about-debugging-profiler-dialog-title = Profiler wydajności
-# Label of a checkbox displayed in the runtime page for "This Firefox".
-# This checkbox will toggle preferences that enable local addon debugging.
-# The "Learn more" link points to MDN.
-# https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
-about-debugging-extension-debug-setting-label = Włącz debugowanie rozszerzeń. <a>Więcej informacji</a>.
+about-debugging-profiler-dialog-title2 = Profiler
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.

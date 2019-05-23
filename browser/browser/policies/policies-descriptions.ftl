@@ -21,6 +21,7 @@ policy-Bookmarks = Tworzenie zakładek na pasku zakładek, w menu zakładek lub
 policy-CaptivePortal = Włączenie lub wyłączenie obsługi portalu przechwytującego.
 policy-CertificatesDescription = Dodawanie certyfikatów lub używanie wbudowanych.
 policy-Cookies = Zezwalanie lub zabranianie witrynom ustawiania ciasteczek.
+policy-DefaultDownloadDirectory = Ustawienie domyślnego katalogu pobierania.
 policy-DisableAppUpdate = Uniemożliwienie aktualizowania przeglądarki.
 policy-DisableBuiltinPDFViewer = Wyłączenie PDF.js, wbudowanej przeglądarki plików PDF w programie { -brand-short-name }.
 policy-DisableDeveloperTools = Blokowanie dostępu do narzędzi dla twórców witryn.
@@ -45,13 +46,16 @@ policy-DisplayBookmarksToolbar = Domyślne wyświetlanie paska zakładek.
 policy-DisplayMenuBar = Domyślne wyświetlanie paska menu.
 policy-DNSOverHTTPS = Konfiguracja DNS poprzez HTTPS.
 policy-DontCheckDefaultBrowser = Wyłączenie sprawdzania domyślnej przeglądarki podczas uruchamiania.
+policy-DownloadDirectory = Ustawienie i zablokowanie katalogu pobierania.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Włączenie lub wyłączenie blokowania treści i opcjonalnie jej blokada.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Instalacja, odinstalowywanie lub blokowanie rozszerzeń. Opcja instalacji przyjmuje adresy URL lub ścieżki jako parametry. Opcje odinstalowywania i blokady przyjmują identyfikatory rozszerzeń.
+policy-ExtensionSettings = Zarządzanie wszystkimi aspektami instalacji rozszerzeń.
 policy-ExtensionUpdate = Włączenie lub wyłączenie automatycznego aktualizowania rozszerzeń.
+policy-FirefoxHome = Konfiguracja strony startowej Firefoksa.
 policy-FlashPlugin = Zezwalanie lub zabranianie korzystania z wtyczki Flash.
 policy-HardwareAcceleration = Wartość „fałsz” wyłącza przyspieszanie sprzętowe.
 # “lock” means that the user won’t be able to change this setting
@@ -67,6 +71,7 @@ policy-OverridePostUpdatePage = Zastąpienie strony „Co nowego” wyświetlane
 policy-Permissions = Konfiguracja uprawnień kamery, mikrofonu, położenia i powiadomień.
 policy-PopupBlocking = Domyślne zezwalanie pewnym witrynom na otwieranie wyskakujących okien.
 policy-Preferences = Ustawienie i zablokowanie wartości dla podzbioru preferencji.
+policy-PromptForDownloadLocation = Pytanie, gdzie zapisywać pliki podczas pobierania.
 policy-Proxy = Konfiguracja ustawień proxy.
 policy-RequestedLocales = Ustawienie listy żądanych języków dla programu w preferowanej kolejności.
 policy-SanitizeOnShutdown = Usuwanie wszystkich danych nawigacji podczas wyłączania.

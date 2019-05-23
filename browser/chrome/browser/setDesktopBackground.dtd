@@ -18,3 +18,4 @@
 <!ENTITY setDesktopBackground.title "Ustaw tapetę">
 <!ENTITY openDesktopPrefs.label     "Otwórz preferencje biurka">
 <!ENTITY closeWindow.key            "w">
+<!ENTITY previewUnavailable         "Podgląd jest niedostępny">
