@@ -341,6 +341,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Xq'at chi re ruxaq k'amaya'l re' xrokisaj ri runak'ab'al Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Xaq'ät ri MIDI rokem re ruxaq k'amaya'l re'.">
 
+<!ENTITY urlbar.installBlocked.tooltip           " Xaq'ät kiyakik taq rutz'aqat ajk'amaya'l ruxaq re'.
+">
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tik'ut pe ri natab'äl">
 
 <!ENTITY searchItem.title             "Tikanöx">
@@ -884,6 +887,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Re jun ruxaq k'amaya'l re' nisamajib'ëx pa jun k'amal.">
 <!ENTITY identity.insecureLoginForms2 "Kitikirib'al taq molojri'ïl etz'ib'an pa re ruxaq k'amaya'l re' rik'in jub'a' ye'itzelan.">
 
+
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; xeruq'ät ri itzel taq ruperaj re ruxaq re'.">
 <!ENTITY identity.passiveLoaded "K'o man ütz ta taq ruch'akulal re ruxaq re' (achi'el ri taq wachib'äl).">
@@ -901,6 +905,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Stape' &brandShortName; xuq'ät jub'a' na'oj, junelïk k'o na'oj pa ri ruxaq ri man ütz ta (achi'el ri taq wachib'äl).">
 <!ENTITY identity.description.activeLoaded "Re ruxaq k'amaya'l re' k'o itzel taq na'oj chupam (achi'el taq skript) man awichinan ta ri awokem we yatok chupam.">
 <!ENTITY identity.description.activeLoaded2 "Ri taq etamab'äl xke'akomonij rik'in re ruxaq k'amaya'l re', tikirel nikitz'ët juley chik winaqi' (achi'el ewan taq tzij, taq rutzijol, t'im pwäq, ch'aqa' chik).">
+
 
 <!ENTITY identity.enableMixedContentBlocking.label "Titzij ri chajinïk">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "T">
