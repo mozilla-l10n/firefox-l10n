@@ -34,6 +34,7 @@ policies-notice =
         [windows] A szervezete letiltotta egyes beállítások módosítását.
        *[other] A szervezete letiltotta egyes beállítások módosítását.
     }
+managed-notice = A böngészőjét a szervezete kezeli.
 pane-general-title = Általános
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = Adatvédelem és biztonság
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox fiók
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -528,8 +525,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Mentés
     .accesskey = M
-sync-mobilepromo-single = Másik eszköz csatlakoztatása
-sync-mobilepromo-multi = Eszközök kezelése
 sync-connect-another-device = Másik eszköz csatlakoztatása
 sync-manage-devices = Eszközök kezelése
 sync-fxa-begin-pairing = Eszköz párosítása
@@ -687,7 +682,6 @@ content-blocking-all-third-party-cookies = Összes harmadik féltől származó 
 content-blocking-cryptominers = Kriptobányászok
 content-blocking-fingerprinters = Ujjlenyomat-készítők
 content-blocking-warning-title = Figyelem!
-content-blocking-warning-desc = A sütik és követők blokkolása egyes webhelyek nem megfelelő működését okozhatják. Könnyű letiltani a blokkolása azokon az oldalakon, melyekben megbízik.
 content-blocking-warning-description = A tartalomblokkolás egyes webhelyek hibás működését okozhatja. A blokkolás könnyen letiltható azokon az oldalakon, melyekben megbízik.
 content-blocking-learn-how = Tudja meg, hogyan
 content-blocking-reload-description = A módosítások alkalmazásához frissítenie kell a lapokat.
