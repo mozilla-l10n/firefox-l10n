@@ -46,4 +46,11 @@ abuse-report-messagebar-action-cancel = Отмена
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason = Повреждает данные на компьютере
+abuse-report-spam-reason = Создаёт спам или рекламу
+abuse-report-settings-suggestions-search = Изменяет настройки поиска по умолчанию
+abuse-report-settings-suggestions-homepage = Изменяет домашнюю страницу и страницу новой вкладки
+abuse-report-deceptive-reason = Притворяется тем, чем не является
+abuse-report-deceptive-example = Например: Описание или изображение вводят в заблуждение
+abuse-report-broken-reason-extension = Не работает, ломает веб-сайты или замедляет работу { -brand-product-name }
 abuse-report-other-reason = Что-то другое
