@@ -306,6 +306,7 @@ preferences-addon-button =
        *[other] Inställningar
     }
 details-addon-button = Detaljer
+release-notes-addon-button = Versionsfakta
 permissions-addon-button = Behörigheter
 addons-enabled-heading = Aktiverad
 addons-disabled-heading = Inaktiverad
@@ -357,4 +358,5 @@ addon-detail-private-browsing-disallow = Tillåt inte
 available-updates-heading = Tillgängliga uppdateringar
 recent-updates-heading = Senaste uppdateringar
 release-notes-loading = Laddar…
+release-notes-error = Tyvärr, men det gick inte att läsa in versionsfakta.
 addon-permissions-empty = Detta tillägg kräver inga behörigheter
