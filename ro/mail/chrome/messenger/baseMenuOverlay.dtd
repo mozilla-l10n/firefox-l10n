@@ -9,6 +9,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Ajutor">
 <!ENTITY helpMenuWin.accesskey "A">
+<!ENTITY aboutProduct2.label "Despre &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey "A">
 <!ENTITY helpTroubleshootingInfo.label     "Informații de depanare">
 <!ENTITY helpTroubleshootingInfo.accesskey "I">
 <!ENTITY helpSafeMode.label     "Repornește cu suplimente dezactivate…">
@@ -26,3 +28,23 @@
 
 <!ENTITY aboutMenuCmd2.label "Despre &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "D">
+<!ENTITY productHelp.label "Asistență &brandShortName;">
+<!ENTITY productHelp.accesskey "H">
+<!ENTITY productHelp.commandkey "VK_F1">
+<!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "accel">
+
+<!ENTITY helpKeyboardShortcuts.label "Comenzi rapide din tastatură">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
+
+<!ENTITY helpFeedbackPage.label "Trimite feedback…">
+<!ENTITY helpFeedbackPage.accesskey "S">
+
+<!ENTITY helpShowTour2.label "Tur &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey "o">
+
+<!ENTITY helpGetInvolvedPage.label "Implică-te">
+<!ENTITY helpGetInvolvedPage.accesskey "I">
+
+<!ENTITY helpDonationsPage.label "Fă o donație">
+<!ENTITY helpDonationsPage.accesskey "M">
