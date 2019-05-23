@@ -28,6 +28,8 @@
 <!ENTITY contextArchive.label "Argivearje">
 <!ENTITY contextArchive.accesskey "r">
 
+<!ENTITY contextPeriodic.accesskey "e">
+
 <!ENTITY filterActionDesc.label "Dizze aksjes útfiere:">
 <!ENTITY filterActionDesc.accesskey "f">
 

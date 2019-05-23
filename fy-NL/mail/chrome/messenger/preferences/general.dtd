@@ -38,3 +38,7 @@
 <!ENTITY browse.accesskey                 "B">
 
 <!ENTITY defaultSearchEngine.label        "Standertsykmasine">
+<!ENTITY addSearchEngine.label            "Tafoegje út bestân">
+<!ENTITY addSearchEngine.accesskey        "T">
+<!ENTITY removeSearchEngine.label         "Fuortsmite">
+<!ENTITY removeSearchEngine.accesskey     "u">
