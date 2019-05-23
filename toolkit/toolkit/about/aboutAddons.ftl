@@ -302,6 +302,9 @@ preferences-addon-button =
         [windows] Настройки
        *[other] Настройки
     }
+details-addon-button = Подробности
+release-notes-addon-button = Примечания к выпуску
+permissions-addon-button = Разрешения
 addons-enabled-heading = Включено
 addons-disabled-heading = Отключено
 ask-to-activate-button = Включать по запросу
@@ -352,3 +355,6 @@ addon-detail-private-browsing-allow = Разрешить
 addon-detail-private-browsing-disallow = Не разрешать
 available-updates-heading = Доступные обновления
 recent-updates-heading = Недавно обновлённые
+release-notes-loading = Загрузка…
+release-notes-error = При загрузке примечаний к выпуску возникли проблемы.
+addon-permissions-empty = Это расширение не требует дополнительных разрешений
