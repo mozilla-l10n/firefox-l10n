@@ -31,3 +31,24 @@ policy-DisableSafeMode = De funksje foar it opnij starten yn Feilige modus útsk
 policy-DisableSecurityBypass = Foarkomme dat de brûker bepaalde befeiligingsynstellingen omsylt.
 policy-DisableSystemAddonUpdate = Foarkomme dat { -brand-short-name } systeemadd-ons ynstallearret en bywurket.
 policy-DisableTelemetry = Telemetry útskeakelje.
+policy-DisplayMenuBar = Standert de Menubalke werjaan.
+policy-DNSOverHTTPS = DNS oer HTTPS konfigurearje.
+policy-DontCheckDefaultClient = Kontrôle op standertclient by opstarten útskeakelje.
+policy-DownloadDirectory = De downloadmap ynstelle en beskoattelje.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Ynhâldsblokkearring yn- of útskeakelje en opsjoneel beskoattelje.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = Utwreiding ynstallearje, de-ynstallearje of beskoattelje. De opsje foar ynstallearjen brûkt URL’s of paden as parameters. De opsjes foar de-ynstallearje en beskoattelje brûke útwreidings-ID’s.
+policy-ExtensionUpdate = Automatyske útwreidings-fernijingen yn- of útskeakelje.
+policy-HardwareAcceleration = Wannear false, hardwarefersnelling útskeakelje.
+policy-InstallAddonsPermission = Tastean dat bepaalde websites add-ons ynstallearje.
+policy-LocalFileLinks = Spesifike websites tastean te keppeljen nei lokale bestannen.
+policy-NetworkPrediction = ‘Network prediction’ (DNS prefetching) yn- of útskeakelje.
+policy-OfferToSaveLogins = De ynstelling foar it tastean dat { -brand-short-name } oanbiede mei bewarre oanmeldingen en wachtwurden te ûnthâlden ôftwinge. Sawol de wearde true as false wurdt akseptearre.
+policy-OverrideFirstRunPage = De side foar earste kear útfiere ferfange. Stel dizze beliedsrigel yn op leech as jo de belutsene side útskeakelje wolle.
+policy-OverridePostUpdatePage = De side ‘Wat is der nij’ nei in fernijing ferfange. Stel dizze beliedsrigel yn op leech as jo de belutsene side útskeakelje wolle.
+policy-Preferences = De wearde foar in subset fan foarkarren ynstelle en beskoattelje.
+policy-PromptForDownloadLocation = Freegje wêr't downloade bestannen bewarre wurde moatte.
+policy-Proxy = Proxyynstellingen konfigurearje.
