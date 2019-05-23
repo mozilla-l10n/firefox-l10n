@@ -64,4 +64,12 @@ abuse-report-deceptive-example = Achi'el: Q'olonel o achik'anel rutzijoxik
 abuse-report-broken-reason-extension = Man nisamäj ta, yeruyüj ri ajk'amaya'l ruxaq o eqal nub'än chi re { -brand-product-name }
 abuse-report-broken-reason-theme = Man nisamäj ta o nuyüj ri nuk'üt ri okik'amaya'l
 abuse-report-broken-example = Achi'el: Eqal nisamäj, k'ayew ye'okisäx o man yesamäj ta; peraj chi ke ri taq ajk'amaya'l ruxaq man yesamäj ta o man relik ta kib'anikil.
+abuse-report-broken-suggestions-extension =
+    Achi'exa xaya' retal jun k'ayewal. Rik'in natäq jun rutzijol wawe', richin nisol jun k'ayewal
+    chi rij rub'eyal nisamäj ja ri yatzijon rik'in ri rub'anonel k'amal.
+    <a data-l10n-name="support-link">Tab'etz'eta' ri ajk'amaya'l ruxaq k'amal</a> richin ye'ak'ül ri taq tzij richin yatzijon rik'in ri b'anonel.
+abuse-report-broken-suggestions-theme =
+    Achi'exa xaya' retal jun k'ayewal. Rik'in natäq jun rutzijol wawe', richin nisol jun k'ayewal
+    chi rij rub'eyal nisamäj ja ri yatzijon rik'in ri rub'anonel wachinel.
+    <a data-l10n-name="support-link">Tab'etz'eta' ri ajk'amaya'l ruxaq wachinel</a> richin ye'ak'ül ri taq tzij richin yatzijon rik'in ri b'anonel.
 abuse-report-policy-reason = Etamab'äl nuk'üt oyowal, uchuq'a' o man ütz ta
