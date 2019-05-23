@@ -33,19 +33,11 @@ onboarding-ghostery-text = Naviga in modo più veloce, intelligente e sicuro gra
 onboarding-fxa-title = Sincronizzazione
 onboarding-fxa-text = Crea un { -fxaccount-brand-name } e sincronizza segnalibri, password e schede aperte su tutti i dispositivi in cui utilizzi { -brand-short-name }.
 
-onboarding-tracking-protection-title = Limita il tracciamento
-onboarding-tracking-protection-text = Non è fastidioso quando le pubblicità ti seguono ovunque? { -brand-short-name } ti aiuta a controllare il modo in cui gli operatori pubblicitari tracciano la tua attività online.
-onboarding-tracking-protection-button = { PLATFORM() ->
-  [windows] Aggiorna opzioni
- *[other] Aggiorna preferenze
-}
 onboarding-tracking-protection-title2 = Protezione dal tracciamento
 onboarding-tracking-protection-text2 = { -brand-short-name } impedisce ai siti web di tracciarti durante la navigazione, rendendo la vita difficile a quelle pubblicità che cercano di seguirti in tutto il Web.
 onboarding-tracking-protection-button2 = Come funziona
 
 onboarding-data-sync-title = Porta le tue personalizzazioni sempre con te
-onboarding-data-sync-text = Sincronizza i tuoi segnalibri e le tue password in tutti i dispositivi in cui usi { -brand-product-name }.
-onboarding-data-sync-button = Attiva { -sync-brand-short-name }
 onboarding-data-sync-text2 = Sincronizza segnalibri, password e molto altro in tutti i dispositivi in cui usi { -brand-product-name }.
 onboarding-data-sync-button2 = Accedi a { -sync-brand-short-name }
 
@@ -58,7 +50,6 @@ onboarding-browse-privately-text = La navigazione anonima non conserva la cronol
 onboarding-browse-privately-button = Apri una finestra anonima
 
 onboarding-firefox-send-title = Mantieni al sicuro i file che condividi
-onboarding-firefox-send-text = { -send-brand-name } protegge i file condivisi con crittografia end-to-end e un link che scade automaticamente.
 onboarding-firefox-send-text2 = Carica i tuoi file su { -send-brand-name } e condividili con crittografia end-to-end e un link che scade automaticamente.
 onboarding-firefox-send-button = Prova { -send-brand-name }
 
@@ -71,18 +62,14 @@ onboarding-send-tabs-text = “Invia scheda” permette di condividere immediata
 onboarding-send-tabs-button = Inizia a utilizzare “Invia scheda”
 
 onboarding-pocket-anywhere-title = Leggi e ascolta ovunque ti trovi
-onboarding-pocket-anywhere-text = { -pocket-brand-name } salva le tue storie preferite, offrendoti la possibilità di leggerle, ascoltarle o guardarle nel tuo tempo libero, anche quando non sei connesso a Internet.
 onboarding-pocket-anywhere-text2 = Salva i tuoi contenuti preferiti nell’app di { -pocket-brand-name }. Leggili, ascoltali o guardali quando ti fa più comodo, anche senza connessione a Internet.
 onboarding-pocket-anywhere-button = Prova { -pocket-brand-name }
 
 onboarding-lockwise-passwords-title = Porta le tue password sempre con te
-onboarding-lockwise-passwords-text = { -lockwise-brand-name } salva le tue password in modo sicuro, permettendoti di accedere in modo semplice e veloce ai tuoi account.
-onboarding-lockwise-passwords-button = Ottieni { -lockwise-brand-name }
 onboarding-lockwise-passwords-text2 = Conserva al sicuro le password salvate e accedi facilmente ai tuoi account con { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Scarica l’app
 
 onboarding-facebook-container-title = Metti un limite a Facebook
-onboarding-facebook-container-text = { -facebook-container-brand-name } mantiene la tua identità Facebook separata da tutto il resto. In questo modo, tracciarti attraverso il Web diventa più complicato.
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } mantiene il tuo profilo separato da tutto il resto. In questo modo per Facebook diventerà più difficile mostrarti pubblicità mirate.
 onboarding-facebook-container-button = Aggiungi l’estensione
 
