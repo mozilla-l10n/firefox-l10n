@@ -9,6 +9,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Pomoć">
 <!ENTITY helpMenuWin.accesskey "P">
+<!ENTITY aboutProduct2.label "O &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey "O">
 <!ENTITY helpTroubleshootingInfo.label     "Rješavanje problema">
 <!ENTITY helpTroubleshootingInfo.accesskey "j">
 <!ENTITY helpSafeMode.label     "Ponovno pokreni s isključenim dodacima…">
@@ -20,13 +22,29 @@
 <!ENTITY openHelp.label "Sadržaj pomoći">
 <!ENTITY openHelp.accesskey "d">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "&brandShortName; pomoć">
 <!ENTITY openHelpMac2.label "&brandFullName; pomoć">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY aboutMenuCmd.label "O &brandShortName;u">
-<!ENTITY aboutMenuCmd.accesskey "O">
-
 <!ENTITY aboutMenuCmd2.label "O &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "O">
+<!ENTITY productHelp.label "&brandShortName; pomoć">
+<!ENTITY productHelp.accesskey "p">
+<!ENTITY productHelp.commandkey "VK_F1">
+<!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "accel">
+
+<!ENTITY helpKeyboardShortcuts.label "Tipkovničke kratice">
+<!ENTITY helpKeyboardShortcuts.accesskey "k">
+
+<!ENTITY helpFeedbackPage.label "Pošalji povratne informacije…">
+<!ENTITY helpFeedbackPage.accesskey "P">
+
+<!ENTITY helpShowTour2.label "&brandShorterName; vodič">
+<!ENTITY helpShowTour2.accesskey "o">
+
+<!ENTITY helpGetInvolvedPage.label "Uključite se">
+<!ENTITY helpGetInvolvedPage.accesskey "U">
+
+<!ENTITY helpDonationsPage.label "Donirajte">
+<!ENTITY helpDonationsPage.accesskey "D">

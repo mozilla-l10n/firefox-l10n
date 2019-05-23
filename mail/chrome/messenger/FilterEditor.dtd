@@ -28,13 +28,15 @@
 <!ENTITY contextArchive.label "Arhiviranje">
 <!ENTITY contextArchive.accesskey "A">
 
+<!ENTITY contextPeriodic.accesskey "v">
+
 <!ENTITY filterActionDesc.label "Provedi ove radnje:">
 <!ENTITY filterActionDesc.accesskey "P">
 
 <!ENTITY filterActionOrderWarning.label "Napomena: radnje filtera će biti pokrenute drugačijim redoslijedom.">
 <!ENTITY filterActionOrder.label "Prikaži redoslijed izvršavanja">
-<!-- New Style Filter Rule Actions -->
 
+<!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Premjesti poruku u">
 <!ENTITY copyMessage.label "Kopiraj poruku u">
 <!ENTITY forwardTo.label "Proslijedi poruku">
@@ -55,12 +57,12 @@
 
 <!ENTITY addAction.tooltip "Dodaj novu radnju">
 <!ENTITY removeAction.tooltip "Ukloni ovu radnju">
+
 <!-- LOCALIZATION NOTE
      The values below are used to control the widths of the filter action widgets.
      Change the values only when the localized strings in the popup menus
      are truncated in the widgets.
   -->
 <!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
-
 <!ENTITY filterActionTypeFlexValue "1">
 <!ENTITY filterActionTargetFlexValue "4">
