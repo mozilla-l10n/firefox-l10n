@@ -39,6 +39,14 @@ onboarding-start-browsing-button-label = Gezinmeye başla
 onboarding-benefit-products-title = Kullanışlı ürünler
 onboarding-benefit-products-text = Tüm cihazlarınızda gizliliğinize saygı gösteren araçlarımızla her işinizi halledin.
 onboarding-benefit-knowledge-title = Pratik bilgi
+onboarding-benefit-knowledge-text = İnterneti anlamak ve internette güvende kalmak için bilmeniz gereken her şeyi öğrenin.
+onboarding-benefit-privacy-title = Gerçek gizlilik
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Yaptığımız her şeyde Kişisel Veri Sözümüzü tutmaya ant içtik: Daha az veri topla. Güvenle sakla. Sır tutma.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -58,6 +66,26 @@ onboarding-ghostery-text = Sinir bozucu reklamları engellemenize izin veren Gho
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Eşitle
 onboarding-fxa-text = Yer imlerinizi, parolalarınızı ve açık sekmelerinizi { -brand-short-name } kullandığınız tüm cihazlarınızla eşitlemek için { -fxaccount-brand-name } açın.
+onboarding-tracking-protection-title = Nasıl izlendiğinizi kontrol edin
+onboarding-tracking-protection-text = Reklamların sizi izlemesinden hoşlanmıyor musunuz? { -brand-short-name } ile reklamverenlerin sizi ne kadar izleyebileceğini siz kontrol edersiniz.
+# "Update" is a verb, as in "Update the existing settings", not "Options about
+# updates".
+onboarding-tracking-protection-button =
+    { PLATFORM() ->
+        [windows] Seçenekleri güncelle
+       *[other] Tercihleri güncelle
+    }
+onboarding-tracking-protection-title2 = İzlenme koruması
+onboarding-tracking-protection-button2 = Nasıl çalışır?
+onboarding-data-sync-title = Ayarlarınızı yanınızda taşıyın
+onboarding-firefox-monitor-button = Uyarılara kaydolun
+onboarding-browse-privately-button = Gizli pencere aç
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Mobil tarayıcıyı indir
+onboarding-lockwise-passwords-button2 = Uygulamayı indir
+onboarding-facebook-container-title = Facebook’un sınırlarını belirleyin
+onboarding-facebook-container-button = Eklentiyi yükle
 
 ## Message strings belonging to the Return to AMO flow
 
