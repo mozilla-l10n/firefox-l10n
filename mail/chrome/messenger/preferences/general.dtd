@@ -38,3 +38,7 @@
 <!ENTITY browse.accesskey                 "f">
 
 <!ENTITY defaultSearchEngine.label        "Motor de căutare implicit">
+<!ENTITY addSearchEngine.label            "Adaugă din fișier">
+<!ENTITY addSearchEngine.accesskey        "A">
+<!ENTITY removeSearchEngine.label         "Elimină">
+<!ENTITY removeSearchEngine.accesskey     "v">
