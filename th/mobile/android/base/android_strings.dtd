@@ -10,7 +10,7 @@
 <!ENTITY firstrun_panel_title_privacy "ความเป็นส่วนตัว">
 <!ENTITY firstrun_privacy_message "เรียกดูเหมือนไม่มีใครเฝ้ามองอยู่">
 <!ENTITY firstrun_privacy_subtext "การเรียกดูแบบส่วนตัวพร้อมการป้องกันการติดตามปิดกั้นตัวติดตามขณะที่คุณเรียกดูและจะไม่จดจำประวัติของคุณเมื่อคุณเสร็จสิ้นการเรียกดู">
-<!ENTITY newfirstrun_privacy_subtext "การท่องเว็บแบบส่วนตัวปิดกั้นตัวติดตามโฆษณาที่ติดตามคุณออนไลน์">
+<!ENTITY newfirstrun_privacy_subtext "การเรียกดูแบบส่วนตัวปิดกั้นตัวติดตามของโฆษณาที่ติดตามคุณออนไลน์">
 <!ENTITY firstrun_panel_title_customize "ปรับแต่ง">
 <!ENTITY firstrun_customize_message "ทำให้ &brandShortName; เป็นของคุณเอง">
 <!ENTITY firstrun_customize_subtext "ปรับแต่ง &brandShortName; ด้วยส่วนเสริม ปิดกั้นโฆษณา เพิ่มคุณลักษณะ หรือเลือกชุดตกแต่งใหม่เพื่อสะท้อนบุคลิกภาพของคุณ">
@@ -706,7 +706,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_state_enabled "เปิดใช้งานอยู่">
 <!ENTITY doorhanger_tracking_state_disabled "ปิดใช้งานอยู่">
 <!ENTITY doorhanger_tracking_message_enabled1 "ปิดกั้นความพยายามในการติดตามพฤติกรรมออนไลน์ของคุณแล้ว">
-<!ENTITY doorhanger_tracking_message_disabled2 "หน้านี้มีองค์ประกอบที่อาจติดตามการท่องเว็บของคุณ">
+<!ENTITY doorhanger_tracking_message_disabled2 "หน้านี้มีองค์ประกอบที่อาจติดตามการเรียกดูของคุณ">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "เรียนรู้เพิ่มเติม">
@@ -763,8 +763,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "ดำเนินการต่อ">
 <!ENTITY guest_session_dialog_cancel "ยกเลิก">
 <!ENTITY new_guest_session_title "&brandShortName; จะเริ่มการทำงานใหม่">
-<!ENTITY new_guest_session_text2 "บุคคลที่ใช้งานจะไม่สามารถเห็นข้อมูลการท่องเว็บส่วนบุคคลใด ๆ ของคุณ (อย่างการเข้าสู่ระบบที่บันทึกไว้, ประวัติ หรือที่คั่นหน้า)\n\nเมื่อผู้มาเยือนของคุณใช้งานเสร็จ จะลบข้อมูลการท่องเว็บของเขาและจะเรียกคืนวาระของคุณ">
-<!ENTITY guest_browsing_notification_title "เปิดใช้งานการท่องเว็บสำหรับผู้มาเยือนแล้ว">
+<!ENTITY new_guest_session_text2 "บุคคลที่ใช้งานจะไม่สามารถเห็นข้อมูลการเรียกดูส่วนบุคคลใด ๆ ของคุณ (อย่างการเข้าสู่ระบบที่บันทึกไว้, ประวัติ หรือที่คั่นหน้า)\n\nเมื่อผู้มาเยือนของคุณใช้งานเสร็จ จะลบข้อมูลการเรียกดูของเขาและจะเรียกคืนวาระของคุณ">
+<!ENTITY guest_browsing_notification_title "เปิดใช้งานการเรียกดูสำหรับผู้มาเยือนแล้ว">
 <!ENTITY guest_browsing_notification_text "แตะเพื่อออก">
 
 <!ENTITY exit_guest_session_title "&brandShortName; จะเริ่มการทำงานใหม่">
