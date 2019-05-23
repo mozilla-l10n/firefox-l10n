@@ -28,7 +28,9 @@
 <!ENTITY contextArchive.label "Archiwizowania">
 <!ENTITY contextArchive.accesskey "c">
 
-<!ENTITY filterActionDesc.label "…i wykonuj następujące czynności:">
+<!ENTITY contextPeriodic.accesskey "o">
+
+<!ENTITY filterActionDesc.label "…i wykonuj następujące czynności:">
 <!ENTITY filterActionDesc.accesskey "k">
 
 <!ENTITY filterActionOrderWarning.label "Filtrowanie odbędzie się w innej niż wyświetlana kolejności.">
