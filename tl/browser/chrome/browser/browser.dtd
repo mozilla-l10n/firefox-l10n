@@ -50,6 +50,7 @@ left instead of right. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinSelectedTabs.accesskey          "P">
+<!ENTITY  unpinSelectedTabs.label            "I-unpin ang mga Tab">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
@@ -217,6 +218,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Dalhin ang Firefox kasama Mo">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
@@ -226,6 +228,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Mag-sign in bilang si">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Ikonekta sa Ibang Device…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -247,6 +251,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.label "Picture-in-Picture">
 <!ENTITY pictureInPicture.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
@@ -426,6 +431,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Mga Preferences">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
+<!ENTITY logins.label                           "Mga Login at Password">
 
 <!ENTITY clearRecentHistory.label               "Burahin ang Kasaysayan…">
 
@@ -456,6 +462,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Burahin ang Kasaysayan">
 <!ENTITY appMenuHistory.restoreSession.label "Ibalik ang Nakaraang Session">
 <!ENTITY appMenuHistory.viewSidebar.label "Tingnan ang Sidebar ng Kasaysayan">
+<!ENTITY appMenuHistory.hideSidebar.label "Itago ang History Sidebar">
 <!ENTITY appMenuHistory.recentHistory.label "Nakaraang Kasaysayan">
 <!ENTITY appMenuHelp.label "Tulong">
 
@@ -484,6 +491,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Mag-sign in sa Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Pamahalaan ang mga Device...">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Tingnan ang mga Naka-sync Tab Sidebar">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Itago ang Synced Tabs Sidebar">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Ikonekta ang Isa pang Device">
 
 <!ENTITY appMenuRecentHighlights.label "Kamakailang Mga Tampok">
@@ -657,8 +665,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "I-save sa Pocket">
+<!ENTITY saveToPocketCmd.label        "I-save ang Page sa Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
+<!ENTITY saveLinkToPocketCmd.label    "I-save ang Link sa Pocket">
 <!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label         "Tingnan ang Pocket List">
 
 <!ENTITY emailPageCmd.label           "I-email ang Link…">
 <!ENTITY emailPageCmd.accesskey       "E">
@@ -947,6 +959,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Mag sign-in sa &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "I-sync Ngayon">
+<!ENTITY syncSyncNowItemSyncing.label "Syncing…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Kumonekta ulit sa &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "R">

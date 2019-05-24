@@ -500,6 +500,14 @@ sync-engine-addons =
     .label = Add-ons
     .tooltiptext = Mga Extension at themes para sa Firefox desktop
     .accesskey = A
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Mga Option
+           *[other] Mga Preference
+        }
+    .tooltiptext = Mga kagustuhan at pagpipilian naa iyong binago
+    .accesskey = P
 sync-device-name-header = Pangalan ng Device
 sync-device-name-change =
     .label = Palitan ang Pangalan ng Device...
@@ -570,6 +578,9 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Settings…
     .accesskey = t
+history-clear-button =
+    .label = Burahin ang History...
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
@@ -614,6 +625,10 @@ content-blocking-setting-custom =
 content-blocking-strict-desc = Blocks all trackers { -brand-short-name } detects. May cause some sites to break.
 content-blocking-custom-desc = Piliin kung ano ang i-block.
 content-blocking-all-cookies = Lahat ng mga cookie
+content-blocking-unvisited-cookies = Mga cookie mula sa mga hindi binibisitang site
+content-blocking-all-third-party-cookies = Lahat ng mga third-party na cookies
+content-blocking-cryptominers = Cryptominers
+content-blocking-fingerprinters = Fingerprinters
 content-blocking-learn-how = Alamin kung papaano
 content-blocking-trackers-label =
     .label = Mga tracker

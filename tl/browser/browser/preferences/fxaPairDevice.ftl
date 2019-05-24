@@ -5,4 +5,5 @@
 fxa-pair-device-dialog =
     .title = Ikonekta sa ibang Device
     .style = width: 26em; min-height: 35em;
+fxa-qrcode-error-title = Ang pagpapares ay hindi matagumpay.
 fxa-qrcode-error-body = Subukan muli.
