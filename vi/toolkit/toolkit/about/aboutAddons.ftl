@@ -309,6 +309,9 @@ preferences-addon-button =
         [windows] Tùy chọn
        *[other] Tùy chỉnh
     }
+details-addon-button = Chi tiết
+release-notes-addon-button = Ghi chú phát hành
+permissions-addon-button = Quyền hạn
 addons-enabled-heading = Đã bật
 addons-disabled-heading = Đã vô hiệu hóa
 ask-to-activate-button = Hỏi trước khi kích hoạt
@@ -357,3 +360,6 @@ addon-detail-private-browsing-allow = Cho phép
 addon-detail-private-browsing-disallow = Không cho phép
 available-updates-heading = Cập nhật có sẵn
 recent-updates-heading = Cập nhật gần đây
+release-notes-loading = Đang tải…
+release-notes-error = Xin lỗi, nhưng có lỗi xảy ra khi mở ghi chú phát hành.
+addon-permissions-empty = Tiện ích mở rộng này không yêu cầu bất kỳ quyền nào
