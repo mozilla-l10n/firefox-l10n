@@ -71,6 +71,12 @@ onboarding-mobile-phone-title = Nong { -brand-product-name } i Cim mamegi
 onboarding-pocket-anywhere-title = Kwan ki Winy Ka mo keken
 # "downtime" refers to the user's free/spare time.
 onboarding-pocket-anywhere-text = { -pocket-brand-name } gwoko lok mamegi ma imaro wek ikwan, winy, ki inen ikare ma nongo itye piny, wa kadi bed pe itye iwiyamo.
+onboarding-pocket-anywhere-button = Tem { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Wot ki mung me donyo mamegi ka mo keken
+onboarding-lockwise-passwords-text = { -lockwise-brand-name } gwoko mung me donyo mamegi i kabedo maber weko i donyo mayot iyie akaunt mamegi.
+onboarding-lockwise-passwords-button = Nong { -lockwise-brand-name }
+onboarding-lockwise-passwords-text2 = Gwok mung me donyo ma igwoko gi maber ki dony mayot iyie akaunt mamegi ki { -lockwise-brand-name }.
+onboarding-lockwise-passwords-button2 = Nong purugram ne
 
 ## Message strings belonging to the Return to AMO flow
 
