@@ -92,16 +92,26 @@ onboarding-browse-privately-title = Přehladowajće z priwatnosću
 onboarding-browse-privately-text = Priwatny modus wašej pytansku a přehladowansku historiju zhaša, zo by jej před kóždym zatajił, kotryž waš ličak wužiwa.
 onboarding-browse-privately-button = Priwatne wokno wočinić
 onboarding-firefox-send-title = Dźeržće swoje dźělene dataje priwatne
+onboarding-firefox-send-text = { -send-brand-name } dataje, kotrež dźěliće, ze zaklučowanjom kónc do kónca a z wotkazom, kotryž awtomatisce spadnje, škita.
+onboarding-firefox-send-text2 = Nahrajće swoje dataje do { -send-brand-name }, zo byšće je ze zaklučowanjom kónc do kónca a z wotkazom, kotryž awtomatisce spadnje, dźělił.
 onboarding-firefox-send-button = { -send-brand-name } wupruwować
 onboarding-mobile-phone-title = Instalujće sej { -brand-product-name } na swojim telefonje
+onboarding-mobile-phone-text = Sćehńće { -brand-product-name } za iOS abo Android a synchronizujće swoje daty přez graty.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Mobilny wobhladowak sćahnyć
 onboarding-send-tabs-title = Sćelće hnydom rajtarki
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Sen Tabs hnydom strony mjez wašimi gratami dźěli, bjeztoho zo byšće kopěrował, zasadźił abo wobhladowak wopušćił.
 onboarding-send-tabs-button = Wužiwajće Send Tabs
 onboarding-pocket-anywhere-title = Čitajće a słuchajće wšudźe
+# "downtime" refers to the user's free/spare time.
+onboarding-pocket-anywhere-text = { -pocket-brand-name } waše najlubše stawizny składuje, zo byšće je za přestawki čitał, słuchał a sej wobhladał, samo hdyž sće offline.
+onboarding-pocket-anywhere-text2 = Składujće swój najlubši wobsah offline z nałoženjom { -pocket-brand-name } a čitajće, słuchajće a wobhladajće, hdyžkuli so wam hodźi.
 onboarding-pocket-anywhere-button = { -pocket-brand-name } wupruwować
 onboarding-lockwise-passwords-title = Wzmiće swoje hesła wšudźe sobu
+onboarding-lockwise-passwords-text = { -lockwise-brand-name } waše hesła na wěstym městnje składuje, zo byšće móhł so lochko pola wašich kontow přizjewić.
 onboarding-lockwise-passwords-button = { -lockwise-brand-name } wobstarać
 onboarding-lockwise-passwords-button2 = Nałoženje wobstarać
 onboarding-facebook-container-title = Stajće hranicy za Facebook
