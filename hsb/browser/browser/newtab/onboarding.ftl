@@ -5,9 +5,22 @@
 
 ## UI strings for the simplified onboarding modal
 
+
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
+
 onboarding-button-label-learn-more = Dalše informacije
 onboarding-button-label-try-now = Spytajće nětko
 onboarding-button-label-get-started = Prěnje kroki
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Witajće k { -brand-short-name }
 onboarding-welcome-body = Maće wobhladowak.<br/>Zeznajće so ze zbytkom { -brand-product-name }.
 onboarding-welcome-learn-more = Dalše informacije wo lěpšinach.
@@ -63,12 +76,20 @@ onboarding-tracking-protection-button =
        *[other] Nastajenja aktualizować
     }
 onboarding-tracking-protection-title2 = Škit přećiwo slědowanju
+onboarding-tracking-protection-text2 = { -brand-short-name } wam pomha, websydła při tym haćić, wam online slědować, zo by za wabjenje ćešo było, wam po webje slědować.
 onboarding-tracking-protection-button2 = Kak funguje
 onboarding-data-sync-title = Wzmiće swoje nastajenja sobu
+# "Sync" is short for synchronize.
+onboarding-data-sync-text = Synchronizujće swoje zapołožki a hesła wšudźe, hdźež { -brand-product-name } wužiwaće.
 onboarding-data-sync-button = { -sync-brand-short-name } zapinać
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Synchronizujće swoje zapołožki, hesła a wjace wšudźe, hdźež { -brand-product-name } wužiwaće.
 onboarding-data-sync-button2 = Pola { -sync-brand-short-name } přizjewić
+onboarding-firefox-monitor-title = Dajće sej při datowych dźěrach warnować
+onboarding-firefox-monitor-text = { -monitor-brand-name } dohladuje, hač je so waša e-mejlowa adresa hižo w datowej dźěrje zjewiła a warnuje was, hdyž so w nowej dźěrje jewi.
 onboarding-firefox-monitor-button = Za zdźělenki registrować
 onboarding-browse-privately-title = Přehladowajće z priwatnosću
+onboarding-browse-privately-text = Priwatny modus wašej pytansku a přehladowansku historiju zhaša, zo by jej před kóždym zatajił, kotryž waš ličak wužiwa.
 onboarding-browse-privately-button = Priwatne wokno wočinić
 onboarding-firefox-send-title = Dźeržće swoje dźělene dataje priwatne
 onboarding-firefox-send-button = { -send-brand-name } wupruwować
