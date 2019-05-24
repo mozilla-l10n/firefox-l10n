@@ -68,6 +68,7 @@ onboarding-tracking-protection-button2 = Korleis det verkar
 onboarding-data-sync-title = Ta med deg innstillingane dine
 onboarding-data-sync-button = Slå på { -sync-brand-short-name }
 onboarding-data-sync-button2 = Logg inn på { -sync-brand-short-name }
+onboarding-browse-privately-title = Surf privat
 onboarding-firefox-send-button = Prøv { -send-brand-name }
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
@@ -76,6 +77,7 @@ onboarding-pocket-anywhere-button = Prøv { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Ta med deg passorda overalt
 onboarding-lockwise-passwords-button = Last ned { -lockwise-brand-name }
 onboarding-lockwise-passwords-button2 = Last ned appen
+onboarding-facebook-container-title = Spesifiser grenser for Facebook
 onboarding-facebook-container-button = Legg til utvidinga
 
 ## Message strings belonging to the Return to AMO flow

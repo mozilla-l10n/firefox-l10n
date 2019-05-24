@@ -78,6 +78,11 @@ connection-dns-over-https-url-default =
     .tooltiptext = Bruk standardnettadressa for å slå opp DNS over HTTPS
 connection-dns-over-https-url-resolver = Bruk leverandør
     .accesskey = B
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (standard)
+    .tooltiptext = Bruk standard-URL-en til DNS-oppslag over HTTPS
 connection-dns-over-https-url-custom =
     .label = Tilpassa
     .accesskey = s
