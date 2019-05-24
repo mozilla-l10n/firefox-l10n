@@ -34,6 +34,7 @@ policies-notice =
         [windows] Tổ chức của bạn đã vô hiệu hóa khả năng thay đổi một số tùy chọn.
        *[other] Tổ chức của bạn đã vô hiệu hóa khả năng thay đổi một số tùy chọn.
     }
+managed-notice = Trình duyệt của bạn đang được quản lý bởi tổ chức của bạn.
 pane-general-title = Tổng quát
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = Riêng tư & bảo mật
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Tài khoản Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -516,8 +513,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Lưu
     .accesskey = u
-sync-mobilepromo-single = Kết nối thiết bị khác
-sync-mobilepromo-multi = Quản lý các thiết bị
 sync-connect-another-device = Kết nối thiết bị khác
 sync-manage-devices = Quản lý thiết bị
 sync-fxa-begin-pairing = Ghép nối thiết bị
@@ -675,7 +670,6 @@ content-blocking-all-third-party-cookies = Toàn bộ cookie từ bên thứ ba
 content-blocking-cryptominers = Tiền điện tử
 content-blocking-fingerprinters = Vân tay
 content-blocking-warning-title = Hãy cẩn thận!
-content-blocking-warning-desc = Chặn cookie và trình theo dõi có thể khiến một số trang web bị hỏng. Dễ dàng để tắt tính năng chặn cho các trang web bạn tin tưởng.
 content-blocking-warning-description = Chặn nội dung có thể khiến một số trang web bị hỏng. Dễ dàng vô hiệu hóa chặn cho các trang web mà bạn tin tưởng.
 content-blocking-learn-how = Tìm hiểu cách thức
 content-blocking-reload-description = Bạn sẽ cần tải lại các thẻ của mình để áp dụng những thay đổi này.
