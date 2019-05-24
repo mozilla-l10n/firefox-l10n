@@ -9,6 +9,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Hjälp">
 <!ENTITY helpMenuWin.accesskey "H">
+<!ENTITY aboutProduct2.label "Om &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey "O">
 <!ENTITY helpTroubleshootingInfo.label     "Felsökningsinformation">
 <!ENTITY helpTroubleshootingInfo.accesskey "F">
 <!ENTITY helpSafeMode.label     "Starta om utan tillägg…">
@@ -20,13 +22,29 @@
 <!ENTITY openHelp.label "Hjälpinnehåll">
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "&brandShortName; Hjälp">
 <!ENTITY openHelpMac2.label "&brandFullName; Hjälp">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY aboutMenuCmd.label "Om &brandShortName;">
-<!ENTITY aboutMenuCmd.accesskey "O">
-
 <!ENTITY aboutMenuCmd2.label "Om &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "O">
+<!ENTITY productHelp.label "&brandShortName; Hjälp">
+<!ENTITY productHelp.accesskey "H">
+<!ENTITY productHelp.commandkey "VK_F1">
+<!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "accel">
+
+<!ENTITY helpKeyboardShortcuts.label "Tangentbordsgenvägar">
+<!ENTITY helpKeyboardShortcuts.accesskey "T">
+
+<!ENTITY helpFeedbackPage.label "Skicka in återkoppling…">
+<!ENTITY helpFeedbackPage.accesskey "S">
+
+<!ENTITY helpShowTour2.label "&brandShorterName; Guide">
+<!ENTITY helpShowTour2.accesskey "G">
+
+<!ENTITY helpGetInvolvedPage.label "Engagera dig">
+<!ENTITY helpGetInvolvedPage.accesskey "E">
+
+<!ENTITY helpDonationsPage.label "Gör en donation">
+<!ENTITY helpDonationsPage.accesskey "d">
