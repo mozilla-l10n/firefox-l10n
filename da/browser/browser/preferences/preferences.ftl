@@ -38,6 +38,9 @@ policies-notice =
         [windows] Din organisation har deaktiveret muligheden for at ændre visse indstillinger.
        *[other] Din organisation har deaktiveret muligheden for at ændre visse indstillinger.
     }
+
+managed-notice = Din browser bliver forvaltet af din organisation.
+
 pane-general-title = Generelt
 category-general =
     .tooltiptext = { pane-general-title }

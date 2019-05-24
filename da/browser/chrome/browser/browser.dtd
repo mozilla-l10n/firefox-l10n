@@ -373,6 +373,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Du har blokeret anvendelse af Adobe Flash-plugin'et for dette websted.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Du har blokeret MIDI-adgang for dette websted.">
 
+<!ENTITY urlbar.installBlocked.tooltip           "Du har blokeret installering af tilføjelser for dette websted.">
+
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Vis historik">
 
 <!ENTITY searchItem.title             "Søgefelt">
@@ -956,6 +959,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Denne side er indlæst fra en udvidelse.">
 <!ENTITY identity.insecureLoginForms2 "Logins foretaget på denne side kan blive kompromitteret.">
 
+<!ENTITY identity.customRoot "Forbindelsen blev bekræftet af en certifikatudsteder, som Mozilla ikke kender.">
+
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; har blokeret usikre dele af denne side.">
 <!ENTITY identity.passiveLoaded "Dele af denne side (såsom billeder) er ikke sikre.">
@@ -973,6 +978,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Selvom &brandShortName; har blokeret noget af indholdet, så findes der stadig usikkert indhold på siden (fx billeder).">
 <!ENTITY identity.description.activeLoaded "Dette websted indeholder usikkert indhold (fx scripts), og din forbindelse til det er ikke privat.">
 <!ENTITY identity.description.activeLoaded2 "Information, du deler med dette websted (fx adgangskoder, beskeder og oplysninger om betalingskort) kan ses af andre.">
+
+<!ENTITY identity.description.customRoot "Mozilla kender udstederen af dette certifikat. Det kan være tilføjet af dit styresystem eller en administrator.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Aktiver beskyttelse">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "A">
