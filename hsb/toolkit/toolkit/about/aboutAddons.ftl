@@ -349,6 +349,7 @@ install-update-button = Aktualizować
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = W priwatnych woknach dowoleny
+addon-detail-private-browsing-help = Jeli maće prawo, ma rozšěrjenje přistup na waše aktiwity online w priwatnym modusu. <a data-l10n-name="detail-private-browsing-learn-more">Dalše informacije</a>
 addon-detail-private-browsing-allow = Dowolić
 addon-detail-private-browsing-disallow = Njedowolić
 available-updates-heading = K dispoziciji stejace aktualizacije
