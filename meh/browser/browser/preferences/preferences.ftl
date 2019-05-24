@@ -14,8 +14,6 @@ category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-category-sync =
-    .tooltiptext = { pane-sync-title }
 focus-search =
     .key = f
 close-button =
@@ -41,9 +39,17 @@ should-restart-ok = Nakajie´e { -brand-short-name } ntañu´u
 
 ## General Section
 
+browser-containers-learn-more = Ka´vi jiee ya´a
+browser-containers-settings =
+    .label = Ke´i...
+    .accesskey = i
 
 ## General Section - Language & Appearance
 
+colors-settings =
+    .label = Teku...
+    .accesskey = C
+language-header = Tu'un
 
 ## General Section - Files and Applications
 
@@ -68,6 +74,7 @@ download-choose-folder =
 
 ## General Section - Proxy
 
+network-proxy-connection-learn-more = Ka´vi jiee ya´a
 
 ## Home Section
 
@@ -77,6 +84,7 @@ download-choose-folder =
 
 ## Search Section
 
+search-bar-header = Nuu nánuku
 
 ## Containers Section
 

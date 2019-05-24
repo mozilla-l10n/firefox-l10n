@@ -5,16 +5,19 @@
 
 ## Settings
 
+site-data-column-host =
+    .label = Nuu
+site-data-column-cookies =
+    .label = Cookies
 site-data-button-cancel =
     .label = Nkuvi-ka
     .accesskey = N
 site-data-button-save =
     .label = Chuva´a nsama
     .accesskey = a
-# Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
-site-usage-pattern = { $value }{ $unit }
+site-data-remove-all =
+    .label = Xita kuaiyo
+    .accesskey = e
 
 ## Removing
 

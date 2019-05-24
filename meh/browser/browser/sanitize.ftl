@@ -11,6 +11,8 @@
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-value-today =
+    .label = Ki̱vɨ̱ vitá
 clear-time-duration-suffix =
     .value = { "" }
 
