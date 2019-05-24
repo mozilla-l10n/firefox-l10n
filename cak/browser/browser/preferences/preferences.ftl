@@ -34,6 +34,7 @@ policies-notice =
         [windows] Ri amoloj xeruchüp rub'eyal richin yejal jujun taq cha'oj.
        *[other] Ri amoloj xeruchüp rub'eyal richin yejal jujun taq ajowab'äl.
     }
+managed-notice = Ri awokik'amaya'l ninuk'samajiïx ruma ri amoloj.
 pane-general-title = Chijun
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = Ichinanem & Jikomal
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Rub'i' rutaqoya'l Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -528,8 +525,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Tiyak
     .accesskey = a
-sync-mobilepromo-single = Tokisäx jun chik okisaxel
-sync-mobilepromo-multi = Kenuk'samajïx taq okisaxel
 sync-connect-another-device = Tokisäx jun chik okisaxel
 sync-manage-devices = Kenuk'samajïx taq okisaxel
 sync-fxa-begin-pairing = Tichojmirisäx jun okisaxel
@@ -687,7 +682,6 @@ content-blocking-all-third-party-cookies = Ronojel kikuki aj rox winäq
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
 content-blocking-warning-title = ¡Tak'axäx!
-content-blocking-warning-desc = Ri kiq'atik taq kuki chuqa' taq ojqanela' nitikïr nub'än chi jujun taq ajk'amaya'l ruxaq itzel yesamäj. Man kayew ta richin nachüp ri kiq'atik taq ruxaq akuqub'an ak'u'x chi kij.
 content-blocking-warning-description = Ri ruq'atik rupam nitikïr nub'än chi jujun ajk'amaya'l ruxaq man ütz ta yesamäj. Man k'ayew ta richin nachüp ri kiq'atik ruxaq k'amaya'l akuqub'an ak'u'x chi kij.
 content-blocking-learn-how = Tetamäx achike rub'eyal
 content-blocking-reload-description = K'o chi ye'asamajib'ej chik ri taq ruwi' richin ye'awokisaj re taq jaloj re'.
