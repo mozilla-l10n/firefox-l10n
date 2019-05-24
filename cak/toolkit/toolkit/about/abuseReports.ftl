@@ -73,6 +73,10 @@ abuse-report-broken-suggestions-theme =
     chi rij rub'eyal nisamäj ja ri yatzijon rik'in ri rub'anonel wachinel.
     <a data-l10n-name="support-link">Tab'etz'eta' ri ajk'amaya'l ruxaq wachinel</a> richin ye'ak'ül ri taq tzij richin yatzijon rik'in ri b'anonel.
 abuse-report-policy-reason = Etamab'äl nuk'üt oyowal, uchuq'a' o man ütz ta
+abuse-report-policy-suggestions =
+    Ch'utitzijol: Ri k'ayewal pa ruwi' ruch'ojib'al b'anel chuqa' tz'ib'an kib'i' etal k'o chi niya' kitzijol pa jachon b'anoj.
+    <a data-l10n-name="report-infringement-link">Ke'awokisaj re taq rutzijol b'eyal re'</a>
+    richin naya' rutzijol ri k'ayewal.
 abuse-report-unwanted-reason = Majub'ey xinwajo' re kk'amal re', man yitikïr ta ninwelesaj el
 abuse-report-unwanted-example = Achi'el: Jun chokoy xyak, akuchi' man xinya' ta q'ij
 abuse-report-other-reason = Jun chik wachinäq

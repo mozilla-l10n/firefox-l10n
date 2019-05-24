@@ -26,3 +26,7 @@ inactive-css-not-flex-container = <strong>{ $property }</strong> majun nub'än c
 
 inactive-css-not-grid-or-flex-container-fix = Titojtob'ëx nitz'aqatisäx <strong>display:grid</strong> o <strong>display:flex</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix = Titojtob'ëx nitz'aqatisäx <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> o <strong>display:inline-flex</strong>. { learn-more }
+inactive-css-not-grid-item-fix = Titojtob'ëx nitz'aqatisäx <strong>display:grid</strong> o <strong>display:inline-grid</strong> chi re ri rach'alal cholna'oj. { learn-more }
+inactive-css-not-grid-container-fix = Titojtob'ëx nitz'aqatisäx <strong>display:grid</strong> o <strong>display:inline-grid</strong>. { learn-more }
+inactive-css-not-flex-item-fix = Titojtob'ëx nitz'aqatisäx <strong>display:flex</strong> o <strong>display:inline-flex</strong> chi re ri rach'alal cholna'oj. { learn-more }
+inactive-css-not-flex-container-fix = Titojtob'ëx nitz'aqatisäx <strong>display:flex</strong> o <strong>display:inline-flex</strong>. { learn-more }
