@@ -11,3 +11,6 @@ synced-tabs-context-open-in-new-tab =
 synced-tabs-context-open-in-new-window =
     .label = Síne nuu iin ventana jíía
     .accesskey = N
+synced-tabs-context-open-in-new-private-window =
+    .label = Síne iin ventana yu´u
+    .accesskey = p
