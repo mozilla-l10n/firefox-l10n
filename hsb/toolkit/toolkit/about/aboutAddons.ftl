@@ -355,3 +355,4 @@ available-updates-heading = K dispoziciji stejace aktualizacije
 recent-updates-heading = Najnowše aktualizacije
 release-notes-loading = Začituje so…
 release-notes-error = Při začitowanju wersijowych informacijow je bohužel zmylk wustupił.
+addon-permissions-empty = Tute rozšěrjenje sej prawa njewužaduje
