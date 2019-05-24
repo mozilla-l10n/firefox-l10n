@@ -18,7 +18,7 @@ about-debugging-page-title-runtime-page = Débogage - Exécution / { $selectedRu
 
 # Display name of the runtime for the currently running instance of Firefox. Used in the
 # Sidebar and in the Setup page.
-about-debugging-this-firefox-runtime-name = Cette instance de { -brand-shorter-name }
+about-debugging-this-firefox-runtime-name = Ce { -brand-shorter-name }
 # Sidebar heading for selecting the currently running instance of Firefox
 about-debugging-sidebar-this-firefox =
     .name = { about-debugging-this-firefox-runtime-name }
