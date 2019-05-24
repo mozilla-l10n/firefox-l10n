@@ -47,6 +47,7 @@ abuse-report-messagebar-action-cancel = Přetorhnyć
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-damage-reason = Poškodźa mój ličak a daty
+abuse-report-damage-example = Přikład: Zašćěpjena škódna softwara abo pokradnjene daty
 abuse-report-spam-reason = Wutworja spam abo wabjenje
 abuse-report-spam-example = Přikład: wabjenje na webstronach zasadźić
 abuse-report-settings-reason = Je moju pytawu, startowu stronu abo nowy rajtark změniło, bjez toho zo by mje informowało abo so mje prašało
