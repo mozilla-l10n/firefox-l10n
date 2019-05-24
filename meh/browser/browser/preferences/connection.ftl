@@ -4,6 +4,9 @@
 
 connection-close-key =
     .key = W
+connection-proxy-option-no =
+    .label = Ntu proxy
+    .accesskey = y
 connection-proxy-http = HTTP Proxy
     .accesskey = x
 connection-proxy-http-port = Port
@@ -27,3 +30,6 @@ connection-proxy-socks5 =
     .label = SOCKS v5
     .accesskey = v
 connection-proxy-noproxy-desc = Kua: .mozilla.org, .net.nz, 192.168.1.0/24
+connection-proxy-reload =
+    .label = Nachu'un tuku
+    .accesskey = e

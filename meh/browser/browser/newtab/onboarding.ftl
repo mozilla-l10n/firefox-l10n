@@ -6,6 +6,23 @@
 ## UI strings for the simplified onboarding modal
 
 
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
+
+
+## Welcome modal dialog strings
+
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+
 ## These strings belong to the individual onboarding messages.
 
 
@@ -16,6 +33,7 @@
 onboarding-addons-title = Ka̱a̱ chunta´an
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
+onboarding-lockwise-passwords-button2 = Ni'i App
 
 ## Message strings belonging to the Return to AMO flow
 

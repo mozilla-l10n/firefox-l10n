@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override-option-always =
+    .label = Ntaka ichi
 colors-page-override-option-never =
     .label = Ni´in íchi
 colors-text-header = Tu´un
