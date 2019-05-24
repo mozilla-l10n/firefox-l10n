@@ -113,6 +113,7 @@ onboarding-pocket-anywhere-button = { -pocket-brand-name } wupruwować
 onboarding-lockwise-passwords-title = Wzmiće swoje hesła wšudźe sobu
 onboarding-lockwise-passwords-text = { -lockwise-brand-name } waše hesła na wěstym městnje składuje, zo byšće móhł so lochko pola wašich kontow přizjewić.
 onboarding-lockwise-passwords-button = { -lockwise-brand-name } wobstarać
+onboarding-lockwise-passwords-text2 = Dźeržće hesła, kotrež składujeće, wěste a přizjewće so lochko pola swojich kontow z { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Nałoženje wobstarać
 onboarding-facebook-container-title = Stajće hranicy za Facebook
 onboarding-facebook-container-button = Rozšěrjenje přidać
