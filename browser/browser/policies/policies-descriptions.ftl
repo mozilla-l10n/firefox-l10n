@@ -95,6 +95,8 @@ policy-EnableTrackingProtection = Slå Blokering af indhold til eller fra. Bruge
 # https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
 policy-Extensions = Installer, afinstaller eller lås udvidelser. Valgmuligheden Installer tager URL’er eller stier som parametre. Valgmulighederne Afinstaller og Låst tager udvidelelses-ID som parameter.
 
+policy-ExtensionSettings = Håndter alle aspekter af udvidelses-installering.
+
 policy-ExtensionUpdate = Slå automatisk opdatering af udvidelser til eller fra.
 
 policy-FirefoxHome = Indstil Firefox' startside.
