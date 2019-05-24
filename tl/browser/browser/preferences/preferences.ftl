@@ -133,6 +133,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Ibalik ang Nakaraang Session
     .accesskey = S
+startup-restore-warn-on-quit =
+    .label = Babalaan ka kapag huminto ka sa pag-browse
 disable-extension =
     .label = Huwag Paganahin and Extensyon
 tabs-group-header = Tabs
@@ -461,6 +463,9 @@ sync-manage-account = Pamahalaan ang account
     .accesskey = o
 sync-signedin-unverified = { $email } ay hindi napatunayan.
 sync-signedin-login-failure = Mangyaring mag-sign in upang makipagkonek muli { $email }
+sync-resend-verification =
+    .label = Ipadala muli ang Beripikasyon
+    .accesskey = d
 sync-remove-account =
     .label = Alisin ang Account
     .accesskey = A
@@ -505,6 +510,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = I-save
     .accesskey = v
+sync-connect-another-device = Ikonekta ang ibang device
+sync-manage-devices = I-manage ang mga device
 sync-fxa-begin-pairing = I-pares ang isa pang device
 sync-tos-link = Tuntunin ng Serbisyo
 sync-fxa-privacy-notice = Paunawa sa Privacy
@@ -591,6 +598,7 @@ addressbar-suggestions-settings = Baguhin ang mga kagustuhan para sa mga suhesti
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Content Blocking
 content-blocking-learn-more = Alamin pa
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -604,9 +612,33 @@ content-blocking-setting-custom =
     .label = Custom
     .accesskey = C
 content-blocking-strict-desc = Blocks all trackers { -brand-short-name } detects. May cause some sites to break.
+content-blocking-custom-desc = Piliin kung ano ang i-block.
+content-blocking-all-cookies = Lahat ng mga cookie
+content-blocking-learn-how = Alamin kung papaano
+content-blocking-trackers-label =
+    .label = Mga tracker
+    .accesskey = T
+content-blocking-tracking-protection-option-all-windows =
+    .label = Sa lahat ng windows
+    .accesskey = A
+content-blocking-option-private =
+    .label = Sa pribadong mga window lamang
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = Baguhin ang listahan ng naka-block
 content-blocking-cookies-label =
     .label = Mga Cookie
     .accesskey = C
+content-blocking-expand-section =
+    .tooltiptext = Karagdagang impormasyon
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Cryptominers
+    .accesskey = y
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Fingerprinters
+    .accesskey = F
 
 ## Privacy Section - Tracking
 

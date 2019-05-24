@@ -7,6 +7,7 @@ about-policies-title = Mga Polisiya Pang-enterprise
 active-policies-tab = Aktibo
 errors-tab = Mga Mali
 documentation-tab = Dokumentasyon
+no-specified-policies-message = Ang Enterprise Policies na serbisyo ay aktibo ngunit wala pang pinaganang patakaran.
 inactive-message = Ang Enterprise Policies na serbisyo ay hindi aktibo.
 policy-name = Titulo ng Polisiya
 policy-value = Halaga ng Polisiya

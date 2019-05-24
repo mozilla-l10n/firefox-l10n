@@ -8,6 +8,7 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = Mahalagang Balita
+heading = Pagbabago sa iyong { -brand-short-name } profile
 changed-title = Ano ang nabago?
 options-title = Ano ang pagpipilian?
 resources = Mga mapagkukunan:
@@ -16,4 +17,5 @@ sync-label = Ilagay ang iyong email
 sync-input =
     .placeholder = Email
 sync-button = Magpatuloy
+sync-first = Unang beses gumamit ng { -sync-brand-name }? Kailangan mong mag-sign in sa bawat installation ng Firefox para ma-sync ang iyong impormasyon.
 sync-learn = Alamin pa

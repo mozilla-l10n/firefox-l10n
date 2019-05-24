@@ -8,6 +8,7 @@ privatebrowsingpage-open-private-window-label = Magbukas ng Pribadong Window
     .accesskey = P
 about-private-browsing-info-notsaved = Kapag ikaw ay nag-browse sa isang Private Window, { -brand-short-name } <strong>huwag i-save</strong>:
 about-private-browsing-info-bookmarks = mga bookmark
+about-private-browsing-info-title = Nasa Pribadong WIndow ka
 about-private-browsing-info-searches = mga paghahanap
 about-private-browsing-info-downloads = mga downloads
 private-browsing-title = Pribadong pagbrowse

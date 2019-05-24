@@ -5,10 +5,27 @@
 
 ## UI strings for the simplified onboarding modal
 
+
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
+
 onboarding-button-label-try-now = Subukan Ngayon
 onboarding-button-label-get-started = Magsimula
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Maligayang pagdating sa { -brand-short-name }
 onboarding-start-browsing-button-label = Mag-simulang mag-browse
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
 
 ## These strings belong to the individual onboarding messages.
 
@@ -28,3 +45,7 @@ onboarding-ghostery-text = Mag-browse nang mas mabilis, mas wais, o mas ligtas n
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Sign up for a { -fxaccount-brand-name } and sync your bookmarks, passwords, and open tabs everywhere you use { -brand-short-name }.
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-extension-button = Idagdag ang Extension
