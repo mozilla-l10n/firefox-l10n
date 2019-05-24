@@ -68,6 +68,7 @@ download-choose-folder =
 
 ## General Section - Performance
 
+performance-settings-learn-more = Ka´vi jiee ya´a
 
 ## General Section - Browsing
 
@@ -103,9 +104,16 @@ search-bar-header = Nuu nánuku
 
 ## Privacy Section - History
 
+history-clear-on-close-settings =
+    .label = Nake´i
+    .accesskey = t
+history-clear-button =
+    .label = Xita sɨ´ɨ nsá´ánu
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Ka´vi jiee ya´a
 
 ## Privacy Section - Address Bar
 
