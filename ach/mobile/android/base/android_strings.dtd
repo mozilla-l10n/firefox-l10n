@@ -413,8 +413,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Gam">
 <!ENTITY pref_private_data_syncedTabs "Dirica matino ma kitimo marom">
 
-<!ENTITY pref_default_browser "Ket calo layeny makwongo">
-
 <!ENTITY pref_default_browser2 "Wek &brandShortName; obed layeny mamegi makwongo">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -918,6 +916,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Juki">
 <!ENTITY pip_pause_button_description "Juk tuko">
 
+<!ENTITY pref_notification_settings_link "Lo ter me jami angeya">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Layeny">
 <!ENTITY mls_notification_channel "Tic me Kabedo pa &vendorShortName;">
