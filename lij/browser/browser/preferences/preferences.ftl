@@ -46,10 +46,6 @@ category-search =
 pane-privacy-title = Privacy e seguessa
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Conto Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -65,7 +61,7 @@ close-button =
 feature-enable-requires-restart = Arvi torna o { -brand-short-name } pe ativâ sta fonçion.
 feature-disable-requires-restart = Arvi torna o { -brand-short-name } pe dizativâ sta fonçion.
 should-restart-title = Arvi torna o { -brand-short-name }
-should-restart-ok = Arvi torna { -brand-short-name } oua
+should-restart-ok = Arvi torna { -brand-short-name } òua
 cancel-no-restart-button = Anulla
 restart-later = Arvi torna Dòppo
 
@@ -172,8 +168,8 @@ browser-containers-settings =
 containers-disable-alert-title = Særa tutti i contegnitoî de feuggi?
 containers-disable-alert-desc =
     { $tabCount ->
-        [one] Se ti ti dizabiliti i Contegnitoî de Feuggi oua, { $tabCount } contegnitô de feuggi saiâ serou. T'ê seguo de dizabilitâ i Contegnitoî de Feuggi?
-       *[other] Se ti ti dizabiliti i Contegnitoî de Feuggi oua, { $tabCount } contegnitoî de feuggi saian seræ. T'ê seguo de dizabilitâ i Contegnitoî de Feuggi?
+        [one] Se ti ti dizabiliti i Contegnitoî de Feuggi òua, { $tabCount } contegnitô de feuggi saiâ seròu. T'ê seguo de dizabilitâ i Contegnitoî de Feuggi?
+       *[other] Se ti ti dizabiliti i Contegnitoî de Feuggi òua, { $tabCount } contegnitoî de feuggi saian seræ. T'ê seguo de dizabilitâ i Contegnitoî de Feuggi?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
@@ -186,8 +182,8 @@ containers-remove-alert-title = Scancelâ sto contegnitô?
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
-        [one] Se ti ti scancelli sto Contegnitô oua, { $count } contegnitô de feuggi saiâ serou. T'ê seguo de scancelâ sto Contegnitô?
-       *[other] Se ti ti scancelli sto Contegnitô oua, { $count } contegnitoî de feuggi saian seræ. T'ê seguo de scancelâ sto Contegnitô?
+        [one] Se ti ti scancelli sto Contegnitô òua, { $count } contegnitô de feuggi saiâ seròu. T'ê seguo de scancelâ sto Contegnitô?
+       *[other] Se ti ti scancelli sto Contegnitô òua, { $count } contegnitoî de feuggi saian seræ. T'ê seguo de scancelâ sto Contegnitô?
     }
 containers-remove-ok-button = Scancella sto Contegnitô
 containers-remove-cancel-button = No scancelâ sto Contegnitô
@@ -527,8 +523,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Sarva
     .accesskey = v
-sync-mobilepromo-single = Conetti atro dispoxitivo
-sync-mobilepromo-multi = Gestisci dispoxitivi
 sync-connect-another-device = Conetti atro dispoxitivo
 sync-manage-devices = Gestisci dispoxitivi
 sync-fxa-begin-pairing = Acobia un dispoxitivo
@@ -581,7 +575,7 @@ history-remember-option-custom =
 history-remember-description = { -brand-short-name } o s'aregòrda de teu navegaçioin, descaregamenti e stöia de riçerche.
 history-dontremember-description = { -brand-short-name } o deuvia e mæxime preferense da-a navegaçion privâ, e o no se aregòrda da stöia de teu navegaçioin.
 history-private-browsing-permanent =
-    .label = Deuvia de longo o mòddo de navegaçion privou
+    .label = Deuvia de longo o mòddo de navegaçion privòu
     .accesskey = p
 history-remember-browser-option =
     .label = Aregòrda a stöia de navegaçion e descaregamenti
@@ -804,7 +798,7 @@ certs-select-ask-option =
     .label = Domandimòu tutte e vòtte
     .accesskey = D
 certs-enable-ocsp =
-    .label = Domanda a-i risponditoî OCSP pe confermâ a validitæ di certificati oua
+    .label = Domanda a-i risponditoî OCSP pe confermâ a validitæ di certificati òua
     .accesskey = o
 certs-view =
     .label = Fanni vedde certificati…

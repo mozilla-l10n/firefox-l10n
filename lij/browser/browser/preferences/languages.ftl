@@ -52,4 +52,4 @@ browser-languages-select-language =
     .placeholder = Seleçionn-a 'na lengoa da azonze…
 browser-languages-installed-label = Lengoe instalæ
 browser-languages-available-label = Lengoe che ghe son
-browser-languages-error = { -brand-short-name } o no agiornâ a lengoa oua. Contròlla che ti ê conesso a l'internet e preuva torna.
+browser-languages-error = { -brand-short-name } o no agiornâ a lengoa òua. Contròlla che ti ê conesso a l'internet e preuva torna.

@@ -5,10 +5,27 @@
 
 ## UI strings for the simplified onboarding modal
 
-onboarding-button-label-try-now = Preuvilo oua
+
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
+
+onboarding-button-label-try-now = Preuvilo òua
 onboarding-button-label-get-started = Iniçia
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Benvegnuo in { -brand-short-name }
 onboarding-start-browsing-button-label = Iniçia a navegâ
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
 
 ## These strings belong to the individual onboarding messages.
 
@@ -28,6 +45,10 @@ onboarding-ghostery-text = Navega veloce e in mòddo ciù furbo ò seguo con est
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Scincronizaçion
 onboarding-fxa-text = Registrite pe avei 'n { -fxaccount-brand-name } e scincronizza tutti i segnalibbri, poule segrete e feuggi averti donde se segge ti deuvi { -brand-short-name }.
+onboarding-data-sync-title = Pòrta e teu personalizaçioin de longo con ti
+onboarding-data-sync-button = Ativa { -sync-brand-short-name }
+onboarding-data-sync-button2 = Intra in { -sync-brand-short-name }
+onboarding-firefox-monitor-button = Scrivite a-i avisi
 
 ## Message strings belonging to the Return to AMO flow
 
@@ -36,6 +57,6 @@ return-to-amo-sub-header = Belin, ti gh'æ { -brand-short-name }
 #
 # Variables:
 #   $addon-name (String) - Name of the add-on
-return-to-amo-addon-header = Oua piggite <icon></icon><b>{ $addon-name }.</b>
+return-to-amo-addon-header = Òua piggite <icon></icon><b>{ $addon-name }.</b>
 return-to-amo-extension-button = Azonzi l'estenscion
 return-to-amo-get-started-button = Inprendi e baxi de { -brand-short-name }
