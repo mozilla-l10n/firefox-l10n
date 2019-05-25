@@ -27,15 +27,15 @@ app-title = { -brand-short-name } ID-ul aplicației { $appId } - InBrowserElemen
 ##  $name: the name of scope, active cache, waiting cache and the push end point.
 ##  $url: the url of script specification and current worker.
 
-scope = <strong>Scope:</strong> { $name }
-script-spec = <strong>Specificație script:</strong> <a data-l10n-name="link">{ $url }</a>
-current-worker-url = <strong>URL actual worker:</strong> <a data-l10n-name="link">{ $url }</a>
-active-cache-name = <strong>Nume cache activ:</strong> { $name }
+scope = <strong>Domeniu:</strong> { $name }
+script-spec = <strong>Specificația scriptului:</strong> <a data-l10n-name="link">{ $url }</a>
+current-worker-url = <strong>URL-ul actual al workerului:</strong> <a data-l10n-name="link">{ $url }</a>
+active-cache-name = <strong>Nume de cache activ:</strong> { $name }
 waiting-cache-name = <strong>Nume de cache în așteptare:</strong> { $name }
 push-end-point-waiting = <strong>Punct terminal de transferuri push:</strong> { waiting }
 push-end-point-result = <strong>Punct terminal de transferuri push:</strong> { $name }
 # This term is used as a button label (verb, not noun).
-update-button = Actualizare
+update-button = Actualizează
 unregister-button = Dezînregistrează
 unregister-error = Nu s-a reușit dezînregistrarea acestui Service Worker.
 waiting = Așteptare…
