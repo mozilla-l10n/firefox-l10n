@@ -5,9 +5,22 @@
 
 ## UI strings for the simplified onboarding modal
 
+
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
+
 onboarding-button-label-learn-more = Mësoni Më Tepër
 onboarding-button-label-try-now = Provojeni Që Tani
 onboarding-button-label-get-started = Fillojani
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Mirë se vini te { -brand-short-name }
 onboarding-welcome-body = E morët shfletuesin.<br/>Njihuni me pjesën tjetër të { -brand-product-name }.
 onboarding-welcome-learn-more = Mësoni më tepër mbi përfitimet.
@@ -16,6 +29,7 @@ onboarding-join-form-body = Që t’ia filloni, jepni adresën tuaj email.
 onboarding-join-form-email =
     .placeholder = Jepni email
 onboarding-join-form-email-error = Lypset email i vlefshëm
+onboarding-join-form-legal = Duke vazhduar, pajtoheni me <a data-l10n-name="terms">Kushte Shërbimi</a> dhe <a data-l10n-name="privacy">Shënim Privatësie</a>.
 onboarding-join-form-continue = Vazhdo
 onboarding-start-browsing-button-label = Filloni të Shfletoni
 
@@ -23,6 +37,7 @@ onboarding-start-browsing-button-label = Filloni të Shfletoni
 ## description.
 
 onboarding-benefit-products-title = Produkte të Dobishëm
+onboarding-benefit-products-text = Mbaroni punë me një familje mjetesh që respektojnë privatësinë tuaj nëpër pajisjet tuaja.
 onboarding-benefit-knowledge-title = Dije Praktike
 onboarding-benefit-knowledge-text = Mësoni gjithçka që duhet të dini për të qenë më të mençur dhe më të parrezikuar në internet.
 onboarding-benefit-privacy-title = Privatësi e Vërtetë
@@ -70,16 +85,33 @@ onboarding-data-sync-button = Aktivizo { -sync-brand-short-name }
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Njëkohësoni faqerojtësit tuaj, fjalëkalimet, etj, kudo ku përdorni { -brand-product-name }-in.
 onboarding-data-sync-button2 = Hyni në { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Jini Në Dijeni të Shkeljeve të të Dhënave
+onboarding-firefox-monitor-text = { -monitor-brand-name } mbikëqyr se mos email-i juaj është shfaqur në ndonjë shkelje të dhënash dhe ju vë në dijeni nëse shfaqet në një shkelje të re.
+onboarding-firefox-monitor-button = Regjistrohuni për Sinjalizime
 onboarding-browse-privately-title = Shfletoni Privatisht
+onboarding-browse-privately-text = Shfletimi Privat e pastron historikun tuaj të kërkimeve dhe shfletimit, për ta mbajtur të fshehtë ndaj cilitdo që përdor kompjuterin tuaj.
 onboarding-browse-privately-button = Hapni Dritare Private
+onboarding-firefox-send-title = Mbajini Private Kartelat Që Shkëmbeni
+onboarding-firefox-send-text = { -send-brand-name } i mbron kartelat që shkëmbeni me të tjerët, përmes fshehtëzimi skaj-më-skaj dhe një lidhjeje që skadon vetvetiu.
+onboarding-firefox-send-text2 = Ngarkojini kartelat tuaja te { -send-brand-name } që t’i ndani nën fshehtëzim skaj-më-skaj dhe një lidhjeje që skadon vetvetiu.
 onboarding-firefox-send-button = Provoni { -send-brand-name }
 onboarding-mobile-phone-title = Merreni { -brand-product-name } në Telefonin Tuaj
+onboarding-mobile-phone-text = Shkarkoni { -brand-product-name } për iOS dhe Android njëkohësoni të dhënat tuaja nëpër pajisje.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Shkarkoni Shfletuesin Për Celular
+onboarding-send-tabs-title = Dërgojini Vetes Skeda Aty Për Aty
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Me Dërgim Skedash bëni ndarje të menjëhershme faqesh mes pajisjeve tuaja pa u dashur të kopjoni, ngjitni, apo të braktisni shfletuesin.
+onboarding-send-tabs-button = Filloni të përdorni Dërgim Skedash
 onboarding-pocket-anywhere-title = Lexoni dhe Dëgjoni Kudo
+# "downtime" refers to the user's free/spare time.
+onboarding-pocket-anywhere-text = { -pocket-brand-name } i ruan leximet tuaja të parapëlqyera, që të mund t’i lexoni, dëgjoni apo shihni kur keni kohë, qoftë edhe pa internet.
+onboarding-pocket-anywhere-text2 = Ruani jashtë interneti lëndën tuaj të parapëlqyer, me aplikacionin  { -pocket-brand-name } dhe lexojeni, dëgjojeni apo shiheni kurdo që keni kohë.
 onboarding-pocket-anywhere-button = Provojeni { -pocket-brand-name }-in
 onboarding-lockwise-passwords-title = Merrini Fjalëkalimet Tuaja Kudo
+onboarding-lockwise-passwords-text = { -lockwise-brand-name } i ruan fjalëkalimet tuaj në një vend të sigurt, që të mund të hyni pa rrezik në llogaritë tuaja.
 onboarding-lockwise-passwords-button = Merreni { -lockwise-brand-name }
 onboarding-lockwise-passwords-button2 = Merrni Aplikacionin
 onboarding-facebook-container-title = Caktoni Caqe me Facebook-un
