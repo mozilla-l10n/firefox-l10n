@@ -34,6 +34,7 @@ policies-notice =
         [windows] Jūsų organizacija apribojo galimybę keisti dalį nuostatų.
        *[other] Jūsų organizacija apribojo galimybę keisti dalį nuostatų.
     }
+managed-notice = Jūsų naršyklę tvarko jūsų organizacija.
 pane-general-title = Bendrosios
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = Privatumas ir saugumas
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = „Firefox“ paskyra
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -531,8 +528,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Įrašyti
     .accesskey = r
-sync-mobilepromo-single = Susieti kitą įrenginį
-sync-mobilepromo-multi = Tvarkyti įrenginius
 sync-connect-another-device = Susieti kitą įrenginį
 sync-manage-devices = Tvarkyti įrenginius
 sync-fxa-begin-pairing = Susieti įrenginį
@@ -690,7 +685,6 @@ content-blocking-all-third-party-cookies = Visi trečiųjų šalių slapukai
 content-blocking-cryptominers = Kriptovaliutų kasėjai
 content-blocking-fingerprinters = Skaitmeninių atspaudų stebėjimas
 content-blocking-warning-title = Dėmesio!
-content-blocking-warning-desc = Užblokavus slapukus ir stebėjimo elementus, gali sutrikti kai kurių svetainių veikimas. Galite lengvai išjungti blokavimą patikimose svetainėse.
 content-blocking-warning-description = Blokuojant turinį gali sutrikti kai kurių svetainių veikimas. Blokavimą galima lengvai išjungti patikimose svetainėse.
 content-blocking-learn-how = Sužinoti kaip
 content-blocking-reload-description = Norėdami pritaikyti šiuos pakeitimus, turėsite įkelti savo korteles iš naujo.

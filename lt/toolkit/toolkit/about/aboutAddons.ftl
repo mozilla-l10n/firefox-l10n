@@ -311,6 +311,9 @@ preferences-addon-button =
         [windows] Nuostatos
        *[other] Nuostatos
     }
+details-addon-button = Išsamiau
+release-notes-addon-button = Laidos apžvalga
+permissions-addon-button = Leidimai
 addons-enabled-heading = Įjungta
 addons-disabled-heading = Išjungta
 ask-to-activate-button = Klausti prieš aktyvinant
@@ -361,3 +364,6 @@ addon-detail-private-browsing-allow = Leisti
 addon-detail-private-browsing-disallow = Neleisti
 available-updates-heading = Galimi naujinimai
 recent-updates-heading = Paskiausiai atnaujinti
+release-notes-loading = Įkeliama…
+release-notes-error = Atsiprašome, bet įkeliant laidos apžvalgą įvyko klaida.
+addon-permissions-empty = Šis priedas nereikalauja jokių leidimų
