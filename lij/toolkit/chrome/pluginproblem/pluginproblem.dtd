@@ -6,7 +6,7 @@
 <!ENTITY tapToPlayPlugin                                     "Tocca chi pe ativâ o plugin.">
 <!ENTITY clickToActivatePlugin                               "Ativa plugin.">
 <!ENTITY checkForUpdates                                     "Contròlla agiornamenti…">
-<!ENTITY blockedPlugin.label                                 "Sto plugin o l'é blocou pr motivi de seguessa.">
+<!ENTITY blockedPlugin.label                                 "Sto plugin o l'é blocòu pe motivi de seguessa.">
 <!ENTITY hidePluginBtn.label                                 "Ascondi plugin">
 <!ENTITY managePlugins                                       "Gestion plugin…">
 

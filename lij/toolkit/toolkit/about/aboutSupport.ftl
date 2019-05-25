@@ -159,13 +159,13 @@ text-copied = Testo copiou in sci aponti
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
-blocked-driver = Blocou a caoza da-a teu verscion do driver da grafica.
-blocked-gfx-card = Blocou pe caxon da scheda grafica.
-blocked-os-version = Blocou pe caxon da teu verscion do teu scistema òperativo.
-blocked-mismatched-version = Blocou a caoza da no corispondensa da verscion di driver tra registro e DLL.
+blocked-driver = Blocòu a caoza da teu verscion do driver da scheda grafica.
+blocked-gfx-card = Blocòu pe caxon da scheda grafica.
+blocked-os-version = Blocòu pe caxon da verscion do teu scistema òperativo.
+blocked-mismatched-version = Blocòu a caoza da no corispondensa da verscion di driver tra registro e DLL.
 # Variables
 # $driverVersion - The graphics driver version string
-try-newer-driver = Blocou a caoza da a teu verscion do driver. Preuva a agiornâ o teu driver a-a verscion { $driverVersion } ò ciù neuva.
+try-newer-driver = Blocòu a caoza da a teu verscion do driver. Preuva a agiornâ o teu driver a-a verscion { $driverVersion } ò ciù neuva.
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parametri ClearType
@@ -203,13 +203,13 @@ webgl2-renderer = Renderer WebGL2
 webgl2-version = Verscion do driver WebGL 2
 webgl2-driver-extensions = Estençion do driver WebGL 2
 webgl2-extensions = Estenscioin WebGL 2
-blocklisted-bug = Blocou pe motivi nòtti
+blocklisted-bug = Blocòu pe motivi nòtti
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bagon { $bugNumber }
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
-unknown-failure = Blocou; Còdice d'erô { $failureCode }
+unknown-failure = Blocòu; Còdice d'erô { $failureCode }
 d3d11layers-crash-guard = Conpositô D3D11
 d3d11video-crash-guard = Decodificatô video D3D11
 d3d9video-crash-buard = Decodificatô video D3D9
