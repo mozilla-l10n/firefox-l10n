@@ -15,8 +15,8 @@ abuse-report-submit-description = Opisz problem (opcjonalne)
 abuse-report-textarea =
     .placeholder = Łatwiej nam naprawić problem, jeśli znamy konkrety. Prosimy opisać, co się wydarzyło. Dziękujemy za pomoc w utrzymaniu zdrowego Internetu.
 abuse-report-submit-note =
-    Uwaga: nie dołączaj danych osobowych (takich jak nazwisko, adres e-mail, numer telefonu, fizyczny adres).
-    { -vendor-short-name } prowadzi stały zapis tych zgłoszeń.
+    Uwaga: nie dołączaj danych osobowych (takich jak nazwisko, adres e-mail, numer telefonu czy fizyczny adres).
+    { -vendor-short-name } przechowuje te zgłoszenia bezterminowo.
 
 ## Panel buttons.
 
@@ -63,3 +63,19 @@ abuse-report-deceptive-reason = Udaje, że jest czymś, czym nie jest
 abuse-report-deceptive-example = Przykład: mylący opis lub obrazy
 abuse-report-broken-reason-extension = Nie działa, psuje strony internetowe lub spowalnia działanie przeglądarki { -brand-product-name }
 abuse-report-broken-reason-theme = Nie działa lub psuje interfejs przeglądarki
+abuse-report-broken-example = Przykład: funkcje są wolne, trudne w użyciu lub nie działają, części stron internetowych się nie wczytują lub wyglądają niewłaściwie
+abuse-report-broken-suggestions-extension =
+    Wygląda na to, że znaleziono błąd. Oprócz zgłoszenia najlepszym sposobem na rozwiązanie
+    problemu z funkcjonalnością jest skontaktowanie się z autorami rozszerzenia.
+    <a data-l10n-name="support-link">Strona rozszerzenia</a> zawiera informacje o jego autorach.
+abuse-report-broken-suggestions-theme =
+    Wygląda na to, że znaleziono błąd. Oprócz zgłoszenia najlepszym sposobem na rozwiązanie
+    problemu z funkcjonalnością jest skontaktowanie się z autorami motywu.
+    <a data-l10n-name="support-link">Strona motywu</a> zawiera informacje o jego autorach.
+abuse-report-policy-reason = Nienawistne, brutalne lub nielegalne treści
+abuse-report-policy-suggestions =
+    Uwaga: kwestie praw autorskich i znaków towarowych muszą być zgłaszane inną metodą.
+    <a data-l10n-name="report-infringement-link">Skorzystaj z tych instrukcji</a>, aby zgłosić taki problem.
+abuse-report-unwanted-reason = Rozszerzenie samo się zainstalowało i nie można go usunąć
+abuse-report-unwanted-example = Przykład: aplikacja zainstalowała je bez mojej zgody
+abuse-report-other-reason = Coś innego
