@@ -13,6 +13,5 @@
 <!ENTITY blocklist.accept.label      "Arvi torna &brandShortName;">
 <!ENTITY blocklist.accept.accesskey  "R">
 
-<!ENTITY blocklist.blocked.label     "Blocou ">
+<!ENTITY blocklist.blocked.label     "Blocòu">
 <!ENTITY blocklist.checkbox.label    "Dizabilita">
-

@@ -7,9 +7,9 @@ safeb-blocked-malware-page-title = Vixitâ sto scito o porieiva aroinâ o comput
 safeb-blocked-unwanted-page-title = Sto scito o peu contegnî di programmi pericolozi
 safeb-blocked-harmful-page-title = Sto scito o peu contegnî do malware
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } o l'à blocòu sta pagina perché a te peu inbrogiâ e fate fâ quarcösa de pericolozo comme instalâ software ò rivelâ informaçioin personâ comme pòule segrete ò carte de credito.
-safeb-blocked-malware-page-short-desc = { -brand-short-name } o l'à blocòu sta pagina perché a porieiva preuvâ a instalâ di programmi grammi che te peuan xatâ ò scancelâ informaçioin personâ into computer.
+safeb-blocked-malware-page-short-desc = { -brand-short-name } o l'à blocòu sta pagina perché a porieiva provâ a instalâ di programmi grammi che te peuan xatâ ò scancelâ informaçioin personâ into computer.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } o l'à blocòu sta pagina perché a porieiva provâ a inbrogiâte e fate instalâ di programmi che en pericolozi pe-a teu esperiensa de navegaçion (prezenpio cangiando a teu pagina iniçiâ ò mostrando de publicitæ in ciù inti sciti che ti vixiti).
-safeb-blocked-harmful-page-short-desc = { -brand-short-name } o l'à blocòu sta pagina perché a porieiva preuvâ a instalâ di programmi gramme che peuan xatâ ò scancelâ e teu informaçioin (prezenpio föto, pòule segrete, mesaggi e carte de credito).
+safeb-blocked-harmful-page-short-desc = { -brand-short-name } o l'à blocòu sta pagina perché a porieiva provâ a instalâ di programmi gramme che peuan xatâ ò scancelâ e teu informaçioin (prezenpio föto, pòule segrete, mesaggi e carte de credito).
 safeb-palm-advisory-desc = Conseggio da <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Vanni inderê
 safeb-palm-see-details-label = Mostra detalli

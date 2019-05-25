@@ -59,7 +59,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<p>O navegatô o l'é inpostou pe uzâ un server proxy ma o proxy o refua e conescioin.</p><ul><li>E inpostaçioin proxy do navegatô en giuste? Contròlla e preuva torna.</li><li>O proxy permette e conescioin da sta ræ?</li><li>Ti gh'æ torna di problemi? Ciamma o teu aministratô da ræ ò fornitô de serviççi internet pe ascistensa.</li></ul>">
 
 <!ENTITY redirectLoop.title "Redireçionn-a o Loop">
-<!ENTITY redirectLoop.longDesc "<p>O navegatô o no preuvâ ciù a riçeive l'ògetto domandou. O scito redireçionn-a sensa fin.</p><ul><li>T'æ dizabilitou ò blocou i cookie domandæ da sto scito?</li><li><em>NÒTTA</em>: Se ti acetti i cookie do scito e no ti rizòlvi o problema, aloa porieivan ese e inpostaçioin do server che no van ben e no quelle do teu computer.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>O navegatô o no preuva ciù a riçeive l'ògetto domandòu. O scito redireçionn-a sensa fin.</p><ul><li>T'æ dizabilitòu ò blocòu i cookie domandæ da sto scito?</li><li><em>NÒTTA</em>: Se ti acetti i cookie do scito e no ti rizòlvi o problema, aloa porieivan ese e inpostaçioin do server che no van ben e no quelle do teu computer.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Risposta Sbaliâ">
 <!ENTITY unknownSocketType.longDesc "<p>O scito risponde in 'n mòddo ch'o no capiscio e-o navegatô o no peu continoâ.</p>">
@@ -80,8 +80,8 @@
 <p>A ògni mòddo ti peu azonze 'n eceçion… pe sto scito co-e inpostaçioin avansæ pe-a cifratua.</p>
 ">
 
-<!ENTITY cspBlocked.title "Blocou da i critei de seguessa di contegnui">
-<!ENTITY cspBlocked.longDesc "<p>O navegatô o l'à blocou o caregamento da pagina con sta modalitæ perché a l'includde di critei de seguessa di contegnui ch'ou inpediscian.</p>">
+<!ENTITY cspBlocked.title "Blocòu da i critei de seguessa di contegnui">
+<!ENTITY cspBlocked.longDesc "<p>O navegatô o l'à blocòu o caregamento da pagina con sta modalitæ perché a l'includde di critei de seguessa di contegnui ch'òu inpediscian.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Erô de contegnuo andæto a mâ">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>A pagina che ti preuvi a vedde a no peu mostrase perché no l'é poscibile perché gh'é un erô inta trasmiscion di dæti.</p><ul><li>Ciamma o propietaio do scito web pe informalo do problema.</li></ul>">

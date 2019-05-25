@@ -67,8 +67,7 @@ cmd-contribute =
 discover-title = E cöse son sti conponenti azonti?
 discover-description =
     I conponenti azonti son aplicaçioin che te peuan agiutâ a personalizâ o { -brand-short-name } graçie
-    a atre funçionaliæ ò stili. Preuvâ 'na bara pe risparmiâ do tenpo, in notiçiario do tenpo ò 'n tema pe fâ davei o
-    teu { -brand-short-name }.
+    a atre funçionaliæ ò stili. Preuva 'na bara pe risparmiâ do tenpo, vizoalizza o notiçiario do tenpo, ò installa 'n tema pe personalizâ { -brand-short-name } comme te pài.
 discover-footer =
     Quande ti ê conesso a internet, sto panello
     o te faiâ vedde quarchedun di ciù popolari conponenti azonti da prova.
