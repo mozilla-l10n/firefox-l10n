@@ -28,7 +28,7 @@ footer-learn-more-link = Atre informaçioin
 features-learn-more = Atre informaçioin
 features-inspector-title = Ispetô
 features-inspector-desc = Ispeçionn-a e rifinisci o còdice pe dâ un aspeto mavegiozo. <a data-l10n-name="learn-more">{ features-learn-more }</a>
-features-console-title = Console
+features-console-title = Consòl
 features-console-desc = Traccia CSS, JavaScript, e problemi de seguessa e privacy. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-debugger-title = Debugger
 features-debugger-desc = Un debugger JavaScript potente che sopòrta o teu framwork. <a data-l10n-name="learn-more">{ features-learn-more }</a>

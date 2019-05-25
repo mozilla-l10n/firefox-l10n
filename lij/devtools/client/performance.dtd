@@ -15,11 +15,6 @@
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
 <!ENTITY performanceUI.bufferStatusTooltip "E informaçioin vegnan sarvæ inte 'n buffer çircolâ: 'na vòtta razonto o limite de regitraçioin, vegnan sorviascriti i dæti de l'iniçio da registraçion.">
 
-<!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
-  -  is displayed as a message for why the real time overview graph is disabled
-  -  when running on a non-multiprocess build. -->
-<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "A regitraçion in tenpo reale a l'é disponibile solo into mòddo moltiprocesso de Firefox.">
-
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
@@ -29,7 +24,7 @@
   -  is displayed when the profiler's circular buffer has started to overlap. -->
 <!ENTITY performanceUI.bufferStatusFull "O buffer o l'é pin. I canpioin ciù vegi saian sorviascriti.">
 
-<!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
+<!-- LOCALIZATION NOTE (performanceUI.unavailableNoticePB): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
 <!ENTITY performanceUI.unavailableNoticePB "A registraçion di profî a no l'é oua poscibile. Serâ tutti i barcoin privæ e provâ torna.">
@@ -134,4 +129,4 @@
   -  Indicates how to stop the recording, wrapping the command, like
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
 <!ENTITY performanceUI.console.stopCommandStart "Ferma a regitraçion sciacando">
-<!ENTITY performanceUI.console.stopCommandEnd   "inta console.">
+<!ENTITY performanceUI.console.stopCommandEnd   "inta consòl.">

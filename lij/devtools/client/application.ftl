@@ -54,7 +54,7 @@ serviceworker-empty-intro = Ti devi registrâ un Service Worker pe inspeçionâ 
 serviceworker-empty-suggestions = A pagina corente a deve avei un service worker, chi gh'é de cöse che ti peu provâ
 # Suggestion to check for errors in the Console to investigate why a service worker is not
 # registered. Clicking on the link opens the webconsole.
-serviceworker-empty-suggestions-console = Amia inti eroî da console. <a>Arvi a Console</a>
+serviceworker-empty-suggestions-console = Amia inti eroî da consòl. <a>Arvi a consòl</a>
 # Suggestion to use the debugger to investigate why a service worker is not registered.
 # Clicking on the link will switch from the Application panel to the debugger.
 serviceworker-empty-suggestions-debugger = Vanni passo a passo inta registraçion do Service Worker e amie e eceçioin. <a>Arvi o Debugger</a>
