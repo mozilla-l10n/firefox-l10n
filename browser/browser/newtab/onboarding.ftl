@@ -22,12 +22,31 @@ onboarding-button-label-get-started = Pierwsze kroki
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Witamy w przeglądarce { -brand-short-name }
+onboarding-welcome-body = Masz już przeglądarkę.<br/>Poznaj resztę Firefoksa.
+onboarding-welcome-learn-more = Więcej informacji o korzyściach.
 onboarding-join-form-header = Dołącz do Firefoksa
+onboarding-join-form-body = Wpisz swój adres e-mail, aby zacząć.
+onboarding-join-form-email =
+    .placeholder = Wpisz adres e-mail
+onboarding-join-form-email-error = Wymagany jest prawidłowy adres e-mail
+onboarding-join-form-legal = Kontynuując, wyrażasz zgodę na <a data-l10n-name="terms">warunki korzystania z usługi</a> i <a data-l10n-name="privacy">zasady ochrony prywatności</a>.
+onboarding-join-form-continue = Kontynuuj
 onboarding-start-browsing-button-label = Zacznij przeglądać Internet
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = Przydatne produkty
+onboarding-benefit-products-text = Skorzystaj z rodziny narzędzi, które szanują Twoją prywatność na wszystkich urządzeniach.
+onboarding-benefit-knowledge-title = Praktyczna wiedza
+onboarding-benefit-knowledge-text = Dowiedz się wszystkiego, co musisz wiedzieć, aby bezpieczniej i mądrzej korzystać z Internetu.
+onboarding-benefit-privacy-title = Prawdziwa prywatność
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Wszystko, co robimy, jest w zgodzie z naszą obietnicą o danych osobowych: zachowujemy mniej, pilnujemy ich bezpieczeństwa, nie mamy żadnych tajemnic.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -47,6 +66,16 @@ onboarding-ghostery-text = Przeglądaj szybciej, mądrzej i bezpieczniej za pom
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synchronizacja
 onboarding-fxa-text = Utwórz konto Firefoksa i synchronizuj zakładki, hasła i otwarte karty wszędzie tam, gdzie używasz przeglądarki { -brand-short-name }.
+onboarding-tracking-protection-title = Kontroluj, jak Cię śledzą
+onboarding-tracking-protection-text = Nie lubisz, kiedy reklamy za Tobą chodzą? { -brand-short-name } pomaga kontrolować, jak reklamodawcy śledzą Twoje działania w Internecie.
+# "Update" is a verb, as in "Update the existing settings", not "Options about
+# updates".
+onboarding-tracking-protection-button =
+    { PLATFORM() ->
+        [windows] Zmień opcje
+       *[other] Zmień preferencje
+    }
+onboarding-tracking-protection-title2 = Ochrona przed śledzeniem
 
 ## Message strings belonging to the Return to AMO flow
 
