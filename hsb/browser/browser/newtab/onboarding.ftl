@@ -116,6 +116,8 @@ onboarding-lockwise-passwords-button = { -lockwise-brand-name } wobstarać
 onboarding-lockwise-passwords-text2 = Dźeržće hesła, kotrež składujeće, wěste a přizjewće so lochko pola swojich kontow z { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Nałoženje wobstarać
 onboarding-facebook-container-title = Stajće hranicy za Facebook
+onboarding-facebook-container-text = { -facebook-container-brand-name } wašu identitu Facebook dźělenu wot wšeho druheho dźerži. Tak je ćešo, wam po webje slědować.
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } waš profil dźěleny wot wšeho druheho dźerži. Tak je ćešo za Facebook, wam zaměrne wabjenje pokazać.
 onboarding-facebook-container-button = Rozšěrjenje přidać
 
 ## Message strings belonging to the Return to AMO flow
