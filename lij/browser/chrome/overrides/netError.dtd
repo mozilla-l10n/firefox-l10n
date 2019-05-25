@@ -11,7 +11,6 @@
 <!ENTITY returnToPreviousPage1.label "Vanni inderê (Racomandou)">
 <!ENTITY advanced.label "Avansæ">
 <!ENTITY advanced2.label "Avansæ…">
-<!ENTITY moreInformation.label "Ciù informaçioin">
 <!ENTITY viewCertificate.label "Amia certificato">
 
 <!-- Specific error messages -->
@@ -105,9 +104,8 @@
 <!ENTITY redirectLoop.title "A pagina a no redireçionn-a ben">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>Sto problema o peu ese caozou da l'avei dizabilitou ò refuou i cookie.</li>
-</ul>
-">
+  <li>Sto problema o peu ese caozòu da l'avei dizabilitòu ò refuòu i cookie.</li>
+</ul>">
 
 <!ENTITY unknownSocketType.title "Risposta sbaliâ da-o server">
 <!ENTITY unknownSocketType.longDesc "<p>O scito risponde inte 'n mòddo strano e-o navegatô o no peu continoâ.</p>">
@@ -151,8 +149,8 @@ was trying to connect. -->
 </ul>
 ">
 
-<!ENTITY cspBlocked.title "Blocou da-i critei de seguessa di contegnui">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; o l'à blocou o caregamento da pagina con sta modalitæ perché a gh'à di critei de seguessa di contegnui ch'ou inpediscian.</p>">
+<!ENTITY cspBlocked.title "Blocòu da-i critei de seguessa di contegnui">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; o l'à blocòu o caregamento da pagina con sta modalitæ perché a gh'à di critei de seguessa di contegnui ch'òu inpediscian.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Erô de contegnuo andæto a mâ">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>A pagina che ti veu vedde a no peu ese mostrâ perché gh'é 'n erô inta trasmiscion di dæti.</p><ul><li>Pe piaxei, ciamma o responsabile do scito pe informalo do problema.</li></ul>">
