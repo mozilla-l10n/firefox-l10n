@@ -28,7 +28,7 @@
 
 <!ENTITY aboutMenuCmd2.label "Over &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "T">
-<!ENTITY productHelp.label "&brandShorterName; Help">
+<!ENTITY productHelp.label "&brandShortName; Help">
 <!ENTITY productHelp.accesskey "H">
 <!ENTITY productHelp.commandkey "VK-F1">
 <!ENTITY productHelpMac.commandkey "?">
