@@ -113,8 +113,11 @@ onboarding-pocket-anywhere-button = Provojeni { -pocket-brand-name }-in
 onboarding-lockwise-passwords-title = Merrini Fjalëkalimet Tuaja Kudo
 onboarding-lockwise-passwords-text = { -lockwise-brand-name } i ruan fjalëkalimet tuaj në një vend të sigurt, që të mund të hyni pa rrezik në llogaritë tuaja.
 onboarding-lockwise-passwords-button = Merreni { -lockwise-brand-name }
+onboarding-lockwise-passwords-text2 = Ruajini pa rrezik fjalëkalimet tuaja dhe hyni me lehtësi në llogaritë tuaja, përmes { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Merrni Aplikacionin
 onboarding-facebook-container-title = Caktoni Caqe me Facebook-un
+onboarding-facebook-container-text = { -facebook-container-brand-name } e mban identitetin tuaj Facebook veçmas nga gjithçka tjetër, duke e bërë më të zorshëm ndjekjen tuaj nëpër internet.
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } e mban profilin tuaj veçmas nga gjithçka tjetër, duke ia bërë të vështirë Facebook-ut profilizimin e reklamave për ju.
 onboarding-facebook-container-button = Shtoje Zgjerimin
 
 ## Message strings belonging to the Return to AMO flow
