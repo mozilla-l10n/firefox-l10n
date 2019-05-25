@@ -48,7 +48,7 @@
 <!ENTITY cmd.open.accesskey              "v">
 <!ENTITY cmd.open_window.label           "Arvi inte 'n atro barcon">
 <!ENTITY cmd.open_window.accesskey       "n">
-<!ENTITY cmd.open_private_window.label     "Arvi inte 'n neuva barcon privou">
+<!ENTITY cmd.open_private_window.label     "Arvi inte 'n neuva barcon privòu">
 <!ENTITY cmd.open_private_window.accesskey "m">
 <!ENTITY cmd.open_tab.label              "Arvi inte 'n atro feuggio">
 <!ENTITY cmd.open_tab.accesskey          "v">

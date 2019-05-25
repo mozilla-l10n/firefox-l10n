@@ -24,9 +24,8 @@
 <!-- manager entities -->
 <!ENTITY            pmDescription.label    "O &brandShortName; o sarva informançioin de teu preferense e inpostançioin into teu profî.">
 
-<!ENTITY            offlineState.label    "Loua feua linia">
+<!ENTITY            offlineState.label    "Lòua feua linia">
 <!ENTITY            offlineState.accesskey "o">
 
-
-<!ENTITY useSelected.label "Deuvia o profî seleçionou sensa domandalo a l'avertua">
-<!ENTITY useSelected.accesskey "u">
+<!ENTITY            useSelected.label       "Deuvia o profî seleçionou sensa domandalo a l'avertua">
+<!ENTITY            useSelected.accesskey   "u">

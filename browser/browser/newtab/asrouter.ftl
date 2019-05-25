@@ -6,9 +6,9 @@ cfr-doorhanger-extension-heading = Estenscioin consegiæ
 cfr-doorhanger-pintab-heading = Prova quésto: aponta sto feuggio
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Perché mi veddo questo?
-cfr-doorhanger-extension-cancel-button = Oua no
+cfr-doorhanger-extension-cancel-button = Òua no
     .accesskey = O
-cfr-doorhanger-extension-ok-button = Azonzi oua
+cfr-doorhanger-extension-ok-button = Azonzi òua
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = Aponta sto feuggio
     .accesskey = A
@@ -53,3 +53,8 @@ cfr-doorhanger-pintab-step2 = Seleçionn-a <b>Aponta sto feuggio</b> da-o menû.
 cfr-doorhanger-pintab-step3 = Se o scito o l'à 'n agiornamento ti vediæ 'n balin bleu in sciô feuggio apontou.
 cfr-doorhanger-pintab-animation-pause = Pösa
 cfr-doorhanger-pintab-animation-resume = Repiggia
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Sincronizza i teu segnalibbri dapertùtto.
+cfr-doorhanger-bookmark-fxa-link-text = Sincronizza i segnalibbri òua…

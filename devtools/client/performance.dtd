@@ -27,7 +27,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.unavailableNoticePB): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
-<!ENTITY performanceUI.unavailableNoticePB "A registraçion di profî a no l'é oua poscibile. Serâ tutti i barcoin privæ e provâ torna.">
+<!ENTITY performanceUI.unavailableNoticePB "A registraçion di profî a no l'é poscibile a-o momento. Serâ tutti i barcoin privæ e provâ torna.">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->

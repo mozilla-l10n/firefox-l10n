@@ -71,7 +71,7 @@ sanitize-everything-undo-warning = St'açion a no peu ese anula.
 window-close =
     .key = w
 sanitize-button-ok =
-    .label = Scancelâ Oua
+    .label = Scancelâ òua
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =

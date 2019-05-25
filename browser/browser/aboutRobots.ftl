@@ -23,7 +23,7 @@ error-long-desc3 = Coscì vaddo zu a-o bar a pigiame 'n gianco.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
 error-long-desc4 = Ninte? T'ê pròpio 'n pigogiozo!
 # TV: Battlestar Galactica (2004 series). From the opening text.
-error-trailer-desc-text = Oua vaddo zu e se no me dan o gianco i scistemo mi co-o lazer!
+error-trailer-desc-text = Òua vaddo zu e se no me dan o gianco i scistemo mi co-o lazer!
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
 error-try-again = Preuva Torna
     .label2 = Goai a ti se ti sciacchi ancon sto pomello!!!

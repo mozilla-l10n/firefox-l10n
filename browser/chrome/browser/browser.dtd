@@ -136,7 +136,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY taskManagerCmd.label "Gestion ativitæ">
 
-<!ENTITY goOfflineCmd.label "Loua feua linia">
+<!ENTITY goOfflineCmd.label "Lòua feua linia">
 <!ENTITY goOfflineCmd.accesskey "L">
 
 <!ENTITY menubarCmd.label "Bara di menû">
@@ -407,7 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Neuvo barcon">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
-<!ENTITY newPrivateWindow.label     "Neuvo barcon privou">
+<!ENTITY newPrivateWindow.label     "Neuvo barcon privòu">
 <!ENTITY newPrivateWindow.accesskey "u">
 
 <!ENTITY editMenu.label         "Cangia">
@@ -621,7 +621,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "v">
 <!ENTITY openLinkCmd.label            "Arvi inte 'n atro barcon">
 <!ENTITY openLinkCmd.accesskey        "v">
-<!ENTITY openLinkInPrivateWindowCmd.label "Arvi inte 'n neuvo barcon privou">
+<!ENTITY openLinkInPrivateWindowCmd.label "Arvi inte 'n neuvo barcon privòu">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "k">
 <!ENTITY openLinkCmdInCurrent.label     "Arvi colegamento">
 <!ENTITY openLinkCmdInCurrent.accesskey "v">
@@ -966,7 +966,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Acedi a &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "y">
-<!ENTITY syncSyncNowItem.label        "Scincronizza oua">
+<!ENTITY syncSyncNowItem.label        "Scincronizza òua">
 <!ENTITY syncSyncNowItemSyncing.label "Scincronizzo…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Conetti torna a &syncBrand.shortName.label;…">
@@ -1106,7 +1106,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.header.message "Gh'é 'n neuvo agiornamento de &brandShorterName;.">
 <!ENTITY updateAvailable.acceptButton.label "Scarega Agiornamento">
 <!ENTITY updateAvailable.acceptButton.accesskey "S">
-<!ENTITY updateAvailable.cancelButton.label "Oua no">
+<!ENTITY updateAvailable.cancelButton.label "Òua no">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
 
 <!ENTITY updateAvailable.panelUI.label "Scarega agiornamento de &brandShorterName;">
@@ -1116,7 +1116,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.header.message "&brandShorterName; o no se peu agiornâ a l'urtima verscion.">
 <!ENTITY updateManual.acceptButton.label "Scarega &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "S">
-<!ENTITY updateManual.cancelButton.label "Oua no">
+<!ENTITY updateManual.cancelButton.label "Òua no">
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Scarega 'na còpia neuva de &brandShorterName;">
 
@@ -1124,7 +1124,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.header.message2 "Arvi torna pe agiornâ &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Arvi torna e repiggia">
 <!ENTITY updateRestart.acceptButton.accesskey "A">
-<!ENTITY updateRestart.cancelButton.label "Oua no">
+<!ENTITY updateRestart.cancelButton.label "Òua no">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Arvi torna pe agiornâ &brandShorterName;">
 
