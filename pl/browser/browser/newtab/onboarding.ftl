@@ -76,6 +76,35 @@ onboarding-tracking-protection-button =
        *[other] Zmień preferencje
     }
 onboarding-tracking-protection-title2 = Ochrona przed śledzeniem
+onboarding-tracking-protection-text2 = { -brand-short-name } pomaga uniemożliwić witrynom śledzenie Twoich działań w Internecie, utrudniając reklamom chodzenie Twoim śladem.
+onboarding-tracking-protection-button2 = Jak to działa
+onboarding-data-sync-title = Twoje ustawienia zawsze przy Tobie
+# "Sync" is short for synchronize.
+onboarding-data-sync-text = Synchronizuj zakładki i hasła wszędzie tam, gdzie używasz przeglądarki { -brand-product-name }.
+onboarding-data-sync-button = Włącz synchronizację
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Synchronizuj zakładki, hasła i nie tylko wszędzie tam, gdzie używasz przeglądarki { -brand-product-name }.
+onboarding-data-sync-button2 = Zaloguj się do synchronizacji
+onboarding-firefox-monitor-title = Zachowaj czujność wobec wycieków danych
+onboarding-firefox-monitor-text = { -monitor-brand-name } monitoruje, czy Twój adres e-mail pojawił się w bazach wykradzionych haseł i powiadamia, jeśli pojawi się w nowych.
+onboarding-firefox-monitor-button = Zapisz się po powiadomienia
+onboarding-browse-privately-title = Przeglądaj prywatnie
+onboarding-browse-privately-text = Tryb prywatny usuwa historię przeglądania i wyszukiwania, aby zachować ją w tajemnicy przed innymi użytkownikami komputera.
+onboarding-browse-privately-button = Otwórz okno w trybie prywatnym
+onboarding-firefox-send-title = Zachowaj prywatność udostępnianych plików
+onboarding-firefox-send-text = { -send-brand-name } chroni udostępniane pliki za pomocą szyfrowania typu „end-to-end” i odnośnika, który automatycznie wygasa.
+onboarding-firefox-send-text2 = Prześlij swoje pliki do { -send-brand-name }, aby udostępnić je za pomocą szyfrowania typu „end-to-end” i odnośnika, który automatycznie wygasa.
+onboarding-firefox-send-button = Wypróbuj { -send-brand-name }
+onboarding-mobile-phone-title = Pobierz przeglądarkę { -brand-product-name } na telefon
+onboarding-mobile-phone-text = Pobierz przeglądarkę { -brand-product-name } na telefon z systemem Android lub iOS i synchronizuj swoje dane między urządzeniami.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Pobierz przeglądarkę na telefon
+onboarding-send-tabs-title = Błyskawicznie przesyłaj karty
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Funkcja przesyłania kart błyskawicznie udostępnia strony między urządzeniami bez potrzeby kopiowania, wklejania ani wychodzenia z przeglądarki.
+onboarding-send-tabs-button = Zacznij przesyłać karty
 
 ## Message strings belonging to the Return to AMO flow
 
