@@ -51,3 +51,15 @@ abuse-report-messagebar-action-cancel = Anuluj
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason = Uszkadza mój komputer i dane
+abuse-report-damage-example = Przykład: złośliwe oprogramowanie lub kradzież danych
+abuse-report-spam-reason = Tworzy spam lub reklamy
+abuse-report-spam-example = Przykład: wstawianie reklam na stronach internetowych
+abuse-report-settings-reason = Zmienia moją wyszukiwarkę, stronę startową lub stronę nowej karty bez informacji ani zgody
+abuse-report-settings-suggestions = Przed zgłoszeniem rozszerzenia można spróbować zmienić ustawienia:
+abuse-report-settings-suggestions-search = Zmień domyślne ustawienia wyszukiwania
+abuse-report-settings-suggestions-homepage = Zmień stronę startową i stronę nowej karty
+abuse-report-deceptive-reason = Udaje, że jest czymś, czym nie jest
+abuse-report-deceptive-example = Przykład: mylący opis lub obrazy
+abuse-report-broken-reason-extension = Nie działa, psuje strony internetowe lub spowalnia działanie przeglądarki { -brand-product-name }
+abuse-report-broken-reason-theme = Nie działa lub psuje interfejs przeglądarki
