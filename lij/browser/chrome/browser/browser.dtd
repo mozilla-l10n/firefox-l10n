@@ -181,7 +181,7 @@ shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageSourceCmd.SafariCommandKey "u">
 
-<!ENTITY pageInfoCmd.label "Informaçioin da Pagina">
+<!ENTITY pageInfoCmd.label "Informaçioin da pagina">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Aspeto do Debugger">
@@ -280,7 +280,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addCurPagesCmd.label "Azonzi tutti i feuggi a-i segnalibbri…">
 <!ENTITY showAllBookmarks2.label "Fanni vedde tutti i segnalibbri">
 <!ENTITY recentBookmarks.label "Segnalibbri reçenti">
-<!ENTITY otherBookmarksCmd.label "Atri Segnalibbri">
+<!ENTITY otherBookmarksCmd.label "Atri segnalibbri">
 <!ENTITY mobileBookmarksCmd.label "Segnalibbri mòbili">
 <!ENTITY bookmarksToolbarChevron.tooltip "Fanni vedde ciù segnalibbri">
 
