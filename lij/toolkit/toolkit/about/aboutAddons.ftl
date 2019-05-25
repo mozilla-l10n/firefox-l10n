@@ -127,7 +127,7 @@ detail-show-preferences =
 detail-rating =
     .value = Clasifica
 addon-restart-now =
-    .label = Arvi torna oua
+    .label = Arvi torna òua
 disabled-unsigned-heading =
     .value = Quarche conponente azonto o l'é dizativou
 disabled-unsigned-description = Sti conponenti no en verificæ pe deuviali in { -brand-short-name }. L'é poscibile <label data-l10n-name="find-addons">çercâ de alternative</label> ò domandâ a-o svilupatô de fali verificâ.
@@ -207,7 +207,7 @@ extensions-updates-installed =
 extensions-updates-downloaded =
     .value = I teu conponenti azonti son stæti descaregæ.
 extensions-updates-restart =
-    .label = Arvi torna oua pe finî l'instalaçion
+    .label = Arvi torna òua pe finî l'instalaçion
 extensions-updates-none-found =
     .value = Nisciun agiornamento trovou
 extensions-updates-manual-updates-found =
@@ -239,6 +239,9 @@ shortcuts-card-collapse-button = Mostra meno
 go-back-button =
     .tooltiptext = Vanni inderê
 
+## Recommended add-ons page
+
+
 ## Add-on actions
 
 remove-addon-button = Scancella
@@ -247,3 +250,6 @@ enable-addon-button = Abilita
 expand-addon-button = Ciù inpostaçioin
 addons-enabled-heading = Ativou
 addons-disabled-heading = Dizativou
+
+## Pending uninstall message bar
+

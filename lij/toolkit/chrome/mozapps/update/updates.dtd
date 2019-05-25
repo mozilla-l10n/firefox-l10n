@@ -33,7 +33,7 @@
 <!ENTITY  downloadPage.title              "Descarego &brandShortName;">
 <!ENTITY  downloading.intro               "Descarego l'agiornamento…">
 <!ENTITY  connecting.label                "Me conetto a-o server di agiornamenti…">
-<!ENTITY  verificationFailedText.label    "&brandShortName; o no l'é riescio a verificâ l'agiornamento che vegne aomentou cian cianin, coscì oua descarega quello conpleto.">
+<!ENTITY  verificationFailedText.label    "&brandShortName; o no l'é riescio a verificâ l'agiornamento incrementale, coscì òua sta descaregando quello conpleto.">
 
 <!ENTITY  viewDetails.tooltip             "Fanni vedde i detalli pe sto agiornamento">
 
@@ -54,20 +54,17 @@
                                            te peu miga amiâ se ti gh'æ l'urtima verscion de &brandShortName; da:">
 
 <!ENTITY  finishedPage.title              "Agiornamento pronto da Instalâ">
-<!ENTITY  finishedPage.text               "L'agiornamento o saiâ instalou a-a pròscima avertua de &brandShortName;. Ti ti 
-                                           peu arvî torna &brandShortName; oua ò ti peu continoâ a louâ e arvî torna dòppo.">
+<!ENTITY  finishedPage.text               "L'agiornamento o saiâ instalòu a-a pròscima avertua de &brandShortName;. Ti ti 
+                                           peu arvî torna &brandShortName; òua ò ti peu continoâ a louâ e arvî torna dòppo.">
 
 <!ENTITY  finishedBackgroundPage.text     "Un agiornamento de seguessa e stabilitæ pe &brandShortName; o l'é stæto
                                            descaregou e o l'é pronto pe l'instalaçion.">
 <!ENTITY  finishedBackground.name         "Agiornamenti:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "L'agiornamento o saiâ instalou a pròscima vòtta che ti lansi o
-                                           &brandShortName;. Ti peu arvî torna &brandShortName; oua ò continoâ a louâ e arvî torna dòppo.">
+<!ENTITY  finishedBackground.more         "L'agiornamento o saiâ instalòu a pròscima vòtta che ti lansi o
+                                           &brandShortName;. Ti peu arvî torna &brandShortName; òua ò continoâ a louâ e arvî torna dòppo.">
 <!ENTITY  finishedBackground.moreElevated "Sto agiornamento o veu i privilegi de aministraçion. L'agiornamento saiâ
-                                           instalou a proscima vòtta che &brandShortName; o s'arve. Ti peu arvî torna
-                                           &brandShortName; oua, continoâ a travagiâ e arvî dòppo, ò refuâ sto
+                                           instalòu a proscima vòtta che &brandShortName; o s'arve. Ti peu arvî torna
+                                           &brandShortName; òua, continoâ a travagiâ e arvî dòppo, ò refuâ sto
                                            agiornamento.">
 
-<!ENTITY  update.details.label            "Detalli">
-<!ENTITY  update.installedOn.label        "Instalou o:">
-<!ENTITY  update.status.label             "Stato:">
