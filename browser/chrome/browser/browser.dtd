@@ -327,17 +327,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gestisci l'uzo do software DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Arvi panello MIDI">
 
-<!ENTITY urlbar.cameraBlocked.tooltip            "T'æ blocou a fòtocamera pe sto scito.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "T'æ blocou o micròfono pe sto scito.">
-<!ENTITY urlbar.screenBlocked.tooltip            "T'æ blocou a condivixon schermo pe sto scito.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "T'æ blocou e informaçioin de localizaçion pe sto scito.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "T'æ blocou e notifiche pe sto scito.">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "T'æ blocou o sarvataggio persistente pe sto scito.">
-<!ENTITY urlbar.popupBlocked.tooltip             "Ti æ blocou i pop-up pe sto scito.">
-<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Ti æ blocou l'aoto-ezegoçion co-o son in sto scito.">
-<!ENTITY urlbar.canvasBlocked.tooltip            "Ti æ blocou l'estaçion dæti canvas pe sto scito.">
-<!ENTITY urlbar.flashPluginBlocked.tooltip       "Ti æ blocou l'izo do plugin Adobe Flash pe sto scito.">
-<!ENTITY urlbar.midiBlocked.tooltip              "Ti æ blocou l'acesso MIDI pe sto scito.">
+<!ENTITY urlbar.cameraBlocked.tooltip            "T'æ blocòu a fòtocamera pe sto scito.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "T'æ blocòu o micròfono pe sto scito.">
+<!ENTITY urlbar.screenBlocked.tooltip            "T'æ blocòu a condivixon schermo pe sto scito.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "T'æ blocòu e informaçioin de localizaçion pe sto scito.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "T'æ blocòu e notifiche pe sto scito.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "T'æ blocòu o sarvataggio persistente pe sto scito.">
+<!ENTITY urlbar.popupBlocked.tooltip             "Ti æ blocòu i pop-up pe sto scito.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Ti æ blocòu l'aoto-ezegoçion co-o son in sto scito.">
+<!ENTITY urlbar.canvasBlocked.tooltip            "Ti æ blocòu l'estaçion dæti canvas pe sto scito.">
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Ti æ blocòu l'uzo do plugin Adobe Flash pe sto scito.">
+<!ENTITY urlbar.midiBlocked.tooltip              "Ti æ blocòu l'acesso MIDI pe sto scito.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Fanni vedde a stöia">
@@ -881,7 +881,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "Quarche elemento no seguo da pagina o l'é stæto blocou da &brandShortName;.">
+<!ENTITY identity.activeBlocked "Quarche elemento no seguo da pagina o l'é stæto blocòu da &brandShortName;.">
 <!ENTITY identity.passiveLoaded "Quarche elemento da pagina o no l'é seguo (prezempio inmagini).">
 <!ENTITY identity.activeLoaded "A proteçion a l'é dizativâ pe sta pagina.">
 <!ENTITY identity.weakEncryption "Sta pagina a deuvia na cifratua debole.">
@@ -891,10 +891,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecureLoginForms "E informaçioin de acesso inserie in sta pagina no en segue e porievan ese conpromisse.">
 <!ENTITY identity.description.weakCipher "A conescion con sto scito web a deuvia na cifratua debole e a no l'é privâ.">
 <!ENTITY identity.description.weakCipher2 "Atri sogetti porievan amiâ e informaçioin trasmisse ò modificâ o conportamento do scito.">
-<!ENTITY identity.description.activeBlocked "Quarche elemento no seguo da pagina o l'é stæto blocou da &brandShortName;.">
+<!ENTITY identity.description.activeBlocked "Quarche elemento no seguo da pagina o l'é stæto blocòu da &brandShortName;.">
 <!ENTITY identity.description.passiveLoaded "A conescion a no l'é privâ e e informaçioin trasmisse a-o scito porievan es vixbili a atri sogetti.">
 <!ENTITY identity.description.passiveLoaded2 "Quarche elemento do scito web o no l'é seguo (prezenpio inmagini).">
-<!ENTITY identity.description.passiveLoaded3 "Sciben quarche elemento o segge blocou da &brandShortName;, in sta pagina gh'é ancon di elementi no sigui (prezenpio inmagini).">
+<!ENTITY identity.description.passiveLoaded3 "Sciben quarche elemento o segge blocòu da &brandShortName;, in sta pagina gh'é ancon di elementi no segui (prezenpio inmagini).">
 <!ENTITY identity.description.activeLoaded "A conescion con sto scito web a no l'é segua perché a gh'à di contegnui no segui (prezenpio script).">
 <!ENTITY identity.description.activeLoaded2 "E informaçioin mandæ, comme prezempio paròlle segrete, mesaggi, dæti de carte de credito, ecc. porievan ese amiæ da atri sogetti.">
 

@@ -20,7 +20,7 @@
 
 
 <!ENTITY safeb.blocked.malwarePage.title2 "Vixitâ sto scito o porieiva aroinâ o computer">
-<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; o l'à blocou sta pagina perché a preuva a instalâ do software grammo che te peu xatâ ò scancelâ informaçioin personâ into computer.">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; o l'à blocòu sta pagina perché porieiva provâ a instalâ di programmi grammi che peuan xatâ ò scancelâ e teu informaçioin personâ into computer.">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
@@ -32,7 +32,7 @@
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "Sto scito o peu contegnî di programmi pericolozi">
-<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; o l'à blocou sta pagina perché a peu provâ a inbrogiâte e fate instalâ di programmi che en pericolozi pe-a teu esperiensa de navegaçion (prezenpio cangiando a teu pagina iniçiâ ò mostrando de publicitæ in ciù inti sciti che ti vixiti).">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; o l'à blocòu sta pagina perché porieiva provâ a inbrogiâte e fate instalâ di programmi che en pericolozi pe-a teu esperiensa de navegaçion (prezenpio cangiando a teu pagina iniçiâ ò mostrando de publicitæ in ciù inti sciti che ti vixiti).">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
@@ -44,7 +44,7 @@
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Scito inganevole">
-<!ENTITY safeb.blocked.phishingPage.shortDesc3 "&brandShortName; o l'à blocou sta pagina perché a te peu inbrogiâ e fate fâ quarcösa de pericolozo comme instalâ software ò rivelâ informaçioin personâ comme poule segrete ò carte a poffo.">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "&brandShortName; o l'à blocòu sta pagina perché a te peu inbrogiâ e fate fâ quarcösa de pericolozo comme instalâ software ò rivelâ informaçioin personâ comme pòule segrete ò carte de credito.">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 <!ENTITY safeb.blocked.phishingPage.errorDesc.override "<span id='phishing_sitename'/> o l'é stæto <a id='error_desc_link'>segnalou comme scito inganevole</a>. Ti peu <a id='report_detection'>segnalâ un erô de segnalaçion</a> ò <a id='ignore_warning_link'>ignorâ o reizego</a> e anâ in sto scito pericolozo.">
@@ -55,7 +55,7 @@
 
 
 <!ENTITY safeb.blocked.harmfulPage.title "Sto scito o peu contegnî do malware">
-<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; o l'à blocou sta pagina perché a preuva a instalâ de app gramme che te peu xatâ ò scancelâ de teu informaçioin (prezenpio föto, poule segrete, mesaggi e carte a poffo).">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; o l'à blocòu sta pagina perché a preuva a instalâ de app gramme che peuan xatâ ò scancelâ de teu informaçioin (prezenpio föto, pòule segrete, mesaggi e carte de credito).">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 <!ENTITY safeb.blocked.harmfulPage.errorDesc.override "<span id='harmful_sitename'/> o l'é stæto <a id='error_desc_link'>segnalou de contegnî de aplicaçioin potensialmente pericoloze</a>. Ti peu <a id='ignore_warning_link'>ignorâ o reizego</a> e anâ in sto scito pericolozo.">

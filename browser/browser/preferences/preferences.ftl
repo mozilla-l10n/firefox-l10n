@@ -610,7 +610,7 @@ sitedata-disallow-cookies-option =
     .accesskey = B
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
-sitedata-block-desc = Tipo blocou
+sitedata-block-desc = Tipo de contegnuo blocòu
     .accesskey = T
 sitedata-option-block-trackers =
     .label = Elementi che tracian de terse parte
