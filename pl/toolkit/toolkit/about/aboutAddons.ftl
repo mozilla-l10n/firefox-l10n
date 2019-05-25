@@ -269,6 +269,15 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Rozszerzenia i motywy są jak aplikacje dla przeglądarki. Umożliwiają
+    chronienie haseł, pobieranie filmów, szukanie zniżek, blokowanie
+    irytujących reklam, zmienianie wyglądu przeglądarki i wiele więcej.
+    Te małe programy są często tworzone przez osoby trzecie. Poniżej
+    znajduje się wybór wyjątkowo bezpiecznych, wydajnych i funkcjonalnych
+    dodatków <a data-l10n-name="learn-more-trigger">polecanych</a> przez przeglądarkę { -brand-product-name }.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Część tych poleceń jest spersonalizowanych na podstawie pozostałych zainstalowanych rozszerzeń, preferencji profilu i statystyk użytkowania.
 discopane-notice-learn-more = Więcej informacji
