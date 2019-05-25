@@ -4,7 +4,7 @@
 
 <!ENTITY securityTitle.label "Sekureco">
 <!ENTITY securityTab.label "Sekureco">
-<!ENTITY securityHeading.label "Por sendi (ciferece) subskribitajn aŭ ĉifritajn mesaĝojn, vi devas determini ciferece‑subskribantan atestilon kaj ĉifrantan atestilon.">
+<!ENTITY securityHeading.label "Por sendi (ciferece) subskribitajn aŭ ĉifritajn mesaĝojn, vi devas determini ciferece subskribantan atestilon kaj ĉifrantan atestilon.">
 <!ENTITY encryptionGroupTitle.label "Ĉifrado">
 <!ENTITY encryptionChoiceLabel.label "Implicita agordo de ĉifrado dum sendi mesaĝon:">
 <!ENTITY neverEncrypt.label "neniam (ne uzi ĉifradon)">
