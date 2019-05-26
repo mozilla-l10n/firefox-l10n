@@ -12,6 +12,11 @@ abuse-report-learnmore =
     Sće sej njewěsty, kotry problem maće wubrać?
     <a data-l10n-name="learnmore-link">Zhońće wjace wo zdźělenju rozšěrjenjow a drastow</a>
 abuse-report-submit-description = Wopisajće problem (na přeće)
+abuse-report-textarea =
+    .placeholder = Je lóšo za nas, so problemej wěnować, hdyž podrobnosće mamy. Prošu wopisajće, na štož sće storčił. Dźakujemy so wam, zo nam pomhaće, web strowy wobchować.
+abuse-report-submit-note =
+    Kedźbu: Njezapřijimajće prošu wosobinske informacije (na přikład mjeno, e-mejlowu adresu, telefonowe čisło, bydlensku adresu).
+    { -vendor-short-name } trajnu kopiju tutych rozprawow wobchowuje.
 
 ## Panel buttons.
 
@@ -54,6 +59,7 @@ abuse-report-settings-reason = Je moju pytawu, startowu stronu abo nowy rajtark 
 abuse-report-settings-suggestions = Prjedy hač rozšěrjenje zdźěliće, móžeće spytać, swoje nastajenja změnić:
 abuse-report-settings-suggestions-search = Změńće swoje standardne pytanske nastajenja
 abuse-report-settings-suggestions-homepage = Změńće swoju startowu stronu a nowy rajtark
+abuse-report-deceptive-reason = Twjerdźi něšto być, štož njeje
 abuse-report-deceptive-example = Přikład: Zamylace wopisanje abo zamylaca wobraznosć
 abuse-report-broken-reason-extension = Njefunguje, wobškodźa websydła abo spomala { -brand-product-name }
 abuse-report-broken-reason-theme = Njefunguje abo skóncuje zwobraznjenje wobhladowaka
