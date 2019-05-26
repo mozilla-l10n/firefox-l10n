@@ -44,8 +44,8 @@
 
 <!ENTITY network.nocredentials.label "Această locație nu necesită date de autentificare">
 <!ENTITY network.loading.description "Te rugăm să aștepți cât timp sunt detectate calendarele.">
-<!ENTITY network.notfound.description "Nu s-au găsit calendare în această locație. Te rugăm să îți verifici setările.">
+<!ENTITY network.notfound.description "Nu s-au găsit calendare la această locație. Te rugăm să îți verifici setările.">
 <!ENTITY network.authfail.description "Datele de autentificare introduse nu au fost acceptate. Te rugăm să îți verifici setările.">
 
-<!ENTITY network.subscribe.single.description "Te rugăm să selectezi calendarele la care dorești să te abonezi.">
-<!ENTITY network.subscribe.multiple.description "Pentru această locație sunt disponibile mai multe calendare. Te rugăm să selectezi tipul calendarului, apoi marchează calendarele la care dorești să te abonezi.">
+<!ENTITY network.subscribe.single.description "Te rugăm să selectezi calendarele la care vrei să te abonezi.">
+<!ENTITY network.subscribe.multiple.description "Pentru această locație sunt disponibile mai multe calendare. Te rugăm să selectezi tipul calendarului, apoi marchează calendarele la care vrei să te abonezi.">
