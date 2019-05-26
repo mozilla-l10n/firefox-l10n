@@ -8,7 +8,7 @@
 about-service-workers-title = Informaçioin in sci Service worker
 about-service-workers-main-title = Service worker registræ
 about-service-workers-warning-not-enabled = Service worker no ativæ.
-about-service-workers-warning-no-service-workers = Nisciun Service worker registrou.
+about-service-workers-warning-no-service-workers = Nisciun Service worker registròu.
 # The original title of service workers' information
 #
 # Variables:

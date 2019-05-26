@@ -155,7 +155,7 @@ pending-reports =
        *[other] Tutte e segnalaçioin de cianto anòmalo (incluze { $reports } in ateiza inte l'intervallo de tenpo indicou)
     }
 raw-data-copied = Dæti sgreuzzi copiæ in sci aponti
-text-copied = Testo copiou in sci aponti
+text-copied = Testo copiòu in sci aponti
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
