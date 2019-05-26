@@ -290,6 +290,11 @@ update-pref-write-failure-title = Errore di scrittura
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Errore durante il salvataggio della preferenza. Impossibile scrivere il file: { $path }
 
+update-in-progress-title = Aggiornamento in corso
+update-in-progress-message = Consentire a { -brand-short-name } di completare l’aggiornamento?
+update-in-progress-ok-button = I&nterrompi
+update-in-progress-cancel-button = &Continua
+
 ## General Section - Performance
 
 performance-title = Prestazioni
