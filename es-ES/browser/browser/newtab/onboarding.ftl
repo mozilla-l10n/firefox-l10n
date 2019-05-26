@@ -5,10 +5,24 @@
 
 ## UI strings for the simplified onboarding modal
 
+
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
+
 onboarding-button-label-learn-more = Saber más
 onboarding-button-label-try-now = Pruébelo ahora
 onboarding-button-label-get-started = Comenzar
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Bienvenido a { -brand-short-name }
+onboarding-welcome-body = Ya tiene el navegador.<br/>Conozca el resto de { -brand-product-name }.
 onboarding-welcome-learn-more = Saber más sobre las ventajas.
 onboarding-join-form-header = Unirse a { -brand-product-name }
 onboarding-join-form-body = Para empezar, introduzca su dirección de correo.
@@ -23,7 +37,16 @@ onboarding-start-browsing-button-label = Empezar a navegar
 ## description.
 
 onboarding-benefit-products-title = Productos útiles
+onboarding-benefit-products-text = Haga las cosas con una familia de herramientas que respete su privacidad en todos sus dispositivos.
+onboarding-benefit-knowledge-title = Conocimiento práctico
+onboarding-benefit-knowledge-text = Aprenda todo lo que necesita saber para mantenerse en línea de manera más inteligente y segura.
 onboarding-benefit-privacy-title = Privacidad de verdad
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Todo lo que hacemos respeta nuestra promesa de datos personales: Tomar menos. Mantenerlo seguro. Sin secretos.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -68,6 +91,7 @@ onboarding-firefox-monitor-button = Suscríbase para recibir alertas
 onboarding-browse-privately-title = Navegue de forma privada
 onboarding-browse-privately-text = La navegación privada elimina tu historial de búsquedas y de navegación para que nadie que use tu equipo tenga acceso a ellos.
 onboarding-browse-privately-button = Abrir una ventana privada
+onboarding-firefox-send-title = Mantenga privados sus archivos compartidos
 onboarding-firefox-send-text = { -send-brand-name } protege los archivos que compartes con un cifrado de extremo a extremo y un enlace que expira automáticamente.
 onboarding-firefox-send-text2 = Suba sus archivos a { -send-brand-name } para compartirlos con cifrado de extremo a extremo y un enlace que expira automáticamente.
 onboarding-firefox-send-button = Pruebe { -send-brand-name }
@@ -76,6 +100,7 @@ onboarding-mobile-phone-text = Descargue { -brand-product-name } para iOS o Andr
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Descargar navegador móvil
+onboarding-send-tabs-title = Envíese las pestañas instantáneamente
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Send Tabs comparte páginas de forma instantánea entre tus dispositivos sin copiar, pegar ni abandonar el navegador.
@@ -88,6 +113,7 @@ onboarding-pocket-anywhere-button = Pruebe { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Llévese sus contraseñas consigo a todas partes
 onboarding-lockwise-passwords-text = { -lockwise-brand-name } guarda tus contraseñas en un lugar seguro para que puedas iniciar sesión en tus cuentas de una forma más sencilla.
 onboarding-lockwise-passwords-button = Consiga { -lockwise-brand-name }
+onboarding-lockwise-passwords-text2 = Mantenga seguras las contraseñas que guarda e inicie sesión fácilmente en sus cuentas con { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Conseguir la aplicación
 onboarding-facebook-container-title = Establezca límites con Facebook
 onboarding-facebook-container-text = { -facebook-container-brand-name } separa su identidad de Facebook de todo lo demás, dificultando así que pueda rastrearle por la web.

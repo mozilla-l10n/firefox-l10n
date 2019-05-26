@@ -82,9 +82,6 @@ about-debugging-refresh-usb-devices-button = Actualizar dispositivos
 about-debugging-setup-title = Configuración
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Configure el método de conexión con el que desea depurar remotamente su dispositivo.
-# Link displayed in the Setup page that leads to MDN page with list of supported devices.
-# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
-about-debugging-setup-link-android-devices = Ver lista de dispositivos Android admitidos
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Usar <a>{ about-debugging-this-firefox-runtime-name }</a> para depurar pestañas, extensiones y service workers en esta versión de { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
@@ -106,16 +103,22 @@ about-debugging-setup-usb-status-enabled = Habilitado
 about-debugging-setup-usb-status-disabled = Deshabilitado
 about-debugging-setup-usb-status-updating = Actualizando...
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu = Habilitar menú de desarrollador en su dispositivo Android. <a>Descubrir cómo</a>
+about-debugging-setup-usb-step-enable-dev-menu2 = Activar menú de desarrollador en su dispositivo Android.
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug = Habilitar depuración de USB en el menú desarrollador de Android. <a>Descubrir cómo</a>
+about-debugging-setup-usb-step-enable-debug2 = Activar depuración USB en el menú de desarrollador de Android.
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox = Habilitar depuración de USB en Firefox en su dispositivo Android. <a>Descubrir cómo</a>
+about-debugging-setup-usb-step-enable-debug-firefox2 = Activar depuración USB en Firefox en el dispositivo Android.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Conectar el dispositivo Android a su equipo.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = ¿Problemas de conexión al dispositivo USB? <a>Solucionar problemas</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Ubicación de red
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = ¿Problemas de conexión a través de la ubicación de la red? <a>Solucionar problemas</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Agregar
@@ -201,11 +204,6 @@ about-debugging-connection-prompt-enable-button = Activar solicitud de conexión
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = Desactivar solicitud de conexión
-# Label of a checkbox displayed in the runtime page for "This Firefox".
-# This checkbox will toggle preferences that enable local addon debugging.
-# The "Learn more" link points to MDN.
-# https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
-about-debugging-extension-debug-setting-label = Activar la depuración de extensiones. <a>Saber más</a>
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.

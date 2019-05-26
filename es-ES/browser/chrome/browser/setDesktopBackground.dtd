@@ -18,3 +18,4 @@
 <!ENTITY setDesktopBackground.title "Establecer como fondo de escritorio">
 <!ENTITY openDesktopPrefs.label     "Abrir preferencias de escritorio">
 <!ENTITY closeWindow.key            "w">
+<!ENTITY previewUnavailable         "Vista previa no disponible">
