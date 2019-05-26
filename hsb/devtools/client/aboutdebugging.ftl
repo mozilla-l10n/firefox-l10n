@@ -103,6 +103,12 @@ about-debugging-setup-usb-status-enabled = Zmóžnjeny
 about-debugging-setup-usb-status-disabled = Znjemóžnjeny
 about-debugging-setup-usb-status-updating = Aktualizuje so…
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Wuwiwarski meni na wašim graće Android zmóžnić.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Pytanje zmylkow USB we wuwiwarskim meniju Android zmóžnić.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Pytanje zmylkow USB w Firefox na graće Android zmóžnić.
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Zwjazajće grat Android ze swojim ličakom.
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
