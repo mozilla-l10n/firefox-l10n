@@ -886,6 +886,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Tuta strona je so z rozšěrjenja začitała.">
 <!ENTITY identity.insecureLoginForms2 "Přizjewjenja, kotrež so na tutej stronje zapodawaja, móhli wohrožene być.">
 
+<!ENTITY identity.customRoot "Zwisk je so přez certifikatoweho wudawarja přepruwował, kotryž wot Mozilla připóznany njeje.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; je dźěle tuteje strony zablokował, kotrež wěste njejsu.">
@@ -905,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Tute websydło wobsahuje wobsah, kotryž wěsty njeje (na přikład skripty) a waš zwisk z nim priwatny njeje.">
 <!ENTITY identity.description.activeLoaded2 "Druzy ludźo móža informacije widźeć, kotrež z tutym sydłom dźěliće (na přikład hesła, powěsće, kreditne karty atd.).">
 
+<!ENTITY identity.description.customRoot "Mozilla tutoho certifikatoweho wudawarja njepřipóznawa. Je so snano přez waš dźěłowy system abo wot administratora přidał.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Škit zmóžnić">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "z">
