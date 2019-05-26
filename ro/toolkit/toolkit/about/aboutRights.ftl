@@ -2,8 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-rights-title = Despre drepturile dumneavoastră
-rights-intro = { -brand-full-name } este un program liber și cu sursă deschisă, construit de o comunitate de mii de oameni din lumea întreagă. Câteva lucruri bine de știut:
+rights-title = Despre drepturile tale
+rights-intro = { -brand-full-name } este un software liber și cu sursă deschisă, construit de o comunitate de mii de oameni din lumea întreagă. Câteva lucruri bine de știut:
 rights-intro-point-1 = { -brand-short-name } este disponibil sub termenii <a data-l10n-name="mozilla-public-license-link">Licenței publice Mozilla</a>. Înseamnă că puteți folosi, copia și distribui { -brand-short-name }. De asemenea, sunteți bineveniți să modificați codul sursă al { -brand-short-name } cum doriți pentru a vă întruni nevoile. Licența publică Mozilla vă oferă și dreptul de a distribui versiunile pe care le-ați modificat.
 rights-intro-point-2 = Nu vi se acordă niciun drept asupra mărcilor comerciale sau licențe de utilizare a mărcilor comerciale deținute de Fundația Mozilla sau de orice altă parte, inclusiv, fără a se limita la, denumirea sau logo-ul Firefox. Pentru informații adiționale privind mărcile comerciale vezi <a data-l10n-name="mozilla-trademarks-link">aici</a>.
 rights-intro-point-3 = Unele funcționalități din { -brand-short-name }, cum ar fi Raportorul de defecțiuni, vă oferă opțiunea de a trimite feedbackuri la { -vendor-short-name }. Dacă optați pentru trimiterea de feedbackuri, dați { -vendor-short-name } permisiunea să le folosească pentru a-și îmbunătăți produsele, să le publice pe site-uri web proprii și să le distribuie.
