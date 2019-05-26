@@ -13,8 +13,20 @@ learn-more = <span data-l10n-name="link">Saber más</span>
 ## Variables:
 ##   $property (string) - A CSS property name e.g. "color".
 
+inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> no tiene ningún efecto en este elemento ya que no es un contenedor flex ni un contenedor de rejilla.
+inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> no tiene ningún efecto en este elemento ya que no es un un ítem grid ni flex.
+inactive-css-not-grid-item = <strong>{ $property }</strong> no tiene ningún efecto en este elemento ya que no es un ítem grid.
+inactive-css-not-grid-container = <strong>{ $property }</strong> no tiene ningún efecto en este elemento ya que no es un contenedor grid.
+inactive-css-not-flex-item = <strong>{ $property }</strong> no tiene ningún efecto en este elemento ya que no es un ítem flex.
+inactive-css-not-flex-container = <strong>{ $property }</strong> no tiene ningún efecto en este elemento ya que no es un contenedor flex.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved.
 
+inactive-css-not-grid-or-flex-container-fix = Pruebe a añadir <strong>display:grid</strong> o <strong>display:flex</strong>. { learn-more }
+inactive-css-not-grid-or-flex-item-fix = Pruebe a añadir <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> o <strong>display:inline-flex</strong>. { learn-more }
+inactive-css-not-grid-item-fix = Pruebe a añadir <strong>display:grid</strong> o <strong>display:inline-grid</strong> al padre del ítem. { learn-more }
+inactive-css-not-grid-container-fix = Pruebe a añadir <strong>display:grid</strong> o <strong>display:inline-grid</strong>. { learn-more }
+inactive-css-not-flex-item-fix = Pruebe a añadir <strong>display:flex</strong> o <strong>display:inline-flex</strong> al padre del ítem. { learn-more }
+inactive-css-not-flex-container-fix = Pruebe a añadir <strong>display:flex</strong> o <strong>display:inline-flex</strong>. { learn-more }
