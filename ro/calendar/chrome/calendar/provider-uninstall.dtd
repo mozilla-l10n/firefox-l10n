@@ -7,6 +7,6 @@
 <!ENTITY providerUninstall.accept.accesskey                "D">
 <!ENTITY providerUninstall.cancel.label                    "Păstrează suplimentul">
 <!ENTITY providerUninstall.cancel.accesskey                "P">
-<!ENTITY providerUninstall.preName.label                   "Ați cerut să dezinstalați sau să dezactivați:">
+<!ENTITY providerUninstall.preName.label                   "Ai cerut să dezinstalezi sau să dezactivezi:">
 <!ENTITY providerUninstall.postName.label                  "Acest lucru va dezactiva calendarele de mai jos.">
 <!ENTITY providerUninstall.reinstallNote.label             "Dacă nu plănuiți să reinstalați acest furnizor, ați putea dori să vă dezabonați de la calendarele acestui furnizor.">
