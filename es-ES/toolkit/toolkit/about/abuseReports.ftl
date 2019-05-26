@@ -61,6 +61,11 @@ abuse-report-broken-reason-extension = No funciona, cuelga los sitios web o rale
 abuse-report-broken-example = Ejemplo: la función es lenta, difícil de usar o no funciona; ciertas partes de los sitios web no se cargan o se muestran de forma incorrecta
 abuse-report-broken-suggestions-extension = Parece que ha identificado un problema. Además de enviar un informe por aquí, lo mejor para conseguir que se resuelva un problema de funcionalidad es contactar con el desarrollador de la extensión. <a data-l10n-name="support-link">Acceda al sitio web de la extensión</a> para conseguir los datos de contacto del desarrollador.
 abuse-report-broken-suggestions-theme = Parece que ha identificado un problema. Además de enviar un informe por aquí, lo mejor para conseguir que se resuelva un problema de funcionalidad es contactar con el desarrollador del tema. <a data-l10n-name="support-link">Acceda al sitio web del tema</a> para conseguir los datos de contacto del desarrollador.
+abuse-report-policy-reason = Contenido violento, ilegal o de odio.
+abuse-report-policy-suggestions =
+    Nota: Los problemas relacionados con derechos de autor y marcas registradas deben informarse en un proceso separado.
+    <a data-l10n-name="report-infringement-link">Utilice estas instrucciones</a> para
+    informar del problema
 abuse-report-unwanted-reason = Nunca quise esta extensión y no puedo desinstalarla
 abuse-report-unwanted-example = Ejemplo: una aplicación la instaló sin mi permiso
 abuse-report-other-reason = Otra cosa
