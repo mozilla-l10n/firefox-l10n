@@ -29,7 +29,7 @@ onboarding-join-form-body = Introdu adresa de e-mail ca să începi.
 onboarding-join-form-email =
     .placeholder = Introdu adresa de e-mail.
 onboarding-join-form-email-error = Este necesară o adresă de e-mail validă
-onboarding-join-form-legal = Prin continuare, ești de acord cu <a data-l10n-name="terms">Termenii de utilizare a serviciilor</a> și <a data-l10n-name="privacy">Politica de confidențialitate</a>.
+onboarding-join-form-legal = Prin continuare, ești de acord cu <a data-l10n-name="terms">Termenii de utilizare a serviciilor</a> și <a data-l10n-name="privacy">Declarația de confidențialitate</a>.
 onboarding-join-form-continue = Continuă
 onboarding-start-browsing-button-label = Începe să navighezi
 

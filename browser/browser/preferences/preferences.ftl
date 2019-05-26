@@ -532,7 +532,7 @@ sync-connect-another-device = Conectează alt dispozitiv
 sync-manage-devices = Gestionează dispozitivele
 sync-fxa-begin-pairing = Asociază un dispozitiv
 sync-tos-link = Termenii de utilizare a serviciului
-sync-fxa-privacy-notice = Politica de confidențialitate
+sync-fxa-privacy-notice = Declarație de confidențialitate
 
 ## Privacy Section
 
@@ -772,7 +772,7 @@ permissions-a11y-privacy-link = Află mai multe
 
 collection-header = Colectarea și utilizarea de date din { -brand-short-name }
 collection-description = Ne străduim să îți oferim posibilitatea de a face alegeri și colectăm doar ceea ce avem nevoie ca să furnizăm și să îmbunătățim { -brand-short-name } pentru toată lumea. Întotdeauna solicităm permisiunea înainte de a primi informații cu caracter personal.
-collection-privacy-notice = Politica de confidențialitate
+collection-privacy-notice = Declarație de confidențialitate
 collection-health-report =
     .label = Permite ca { -brand-short-name } să trimită informații tehnice și interactive către { -vendor-short-name }
     .accesskey = r
