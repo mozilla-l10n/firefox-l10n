@@ -241,7 +241,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Administrar atajos de extensiones
     .accesskey = s
-shortcuts-empty-message = No hay atajos para esta extensión.
 shortcuts-no-addons = No tiene ninguna extensión habilitada.
 shortcuts-no-commands = Las siguientes extensiones no tienen atajos:
 shortcuts-input =
@@ -304,6 +303,14 @@ remove-addon-button = Eliminar
 disable-addon-button = Desactivar
 enable-addon-button = Activar
 expand-addon-button = Más opciones
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Opciones
+       *[other] Preferencias
+    }
+details-addon-button = Detalles
+release-notes-addon-button = Notas de la versión
+permissions-addon-button = Permisos
 addons-enabled-heading = Activado
 addons-disabled-heading = Desactivado
 ask-to-activate-button = Preguntar antes de activar
@@ -353,3 +360,6 @@ addon-detail-private-browsing-allow = Permitir
 addon-detail-private-browsing-disallow = No permitir
 available-updates-heading = Actualizaciones disponibles
 recent-updates-heading = Actualizaciones recientes
+release-notes-loading = Cargando…
+release-notes-error = Lo sentimos, pero ha sucedido un error al cargar las notas de versión.
+addon-permissions-empty = Esta extensión no requiere ningún permiso.
