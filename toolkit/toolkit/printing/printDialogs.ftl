@@ -100,7 +100,7 @@ print-preparing =
 print-progress =
     .value = Progresso:
 print-window =
-    .title = Stanpo
+    .title = In stanpa
 print-complete =
     .value = A stanpa l'é finia
 # Variables
