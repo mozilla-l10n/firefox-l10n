@@ -173,8 +173,8 @@ text-copied = Text copiat în clipboard
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
 blocked-driver = Blocat pentru versiunea ta de driver pentru adaptorul grafic.
-blocked-gfx-card = Blocate pentru adaptorul grafic al dumneavoastră din cauza unor probleme nerezolvate ale driverului.
-blocked-os-version = Blocate pentru versiunea sistemului dumneavoastră de operare.
+blocked-gfx-card = Blocate pentru placa ta grafică din cauza unor probleme nerezolvate de driver.
+blocked-os-version = Blocate pentru versiunea sistemului tău de operare.
 blocked-mismatched-version = Blocat din cauza necorelării versiunilor driverelor grafice între registru și DLL.
 # Variables
 # $driverVersion - The graphics driver version string
