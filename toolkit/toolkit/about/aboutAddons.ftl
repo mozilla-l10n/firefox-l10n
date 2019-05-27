@@ -121,6 +121,7 @@ legacy-warning-show-legacy = اعرض الامتدادات العتيقة
 legacy-extensions =
     .value = امتدادات عتيقة
 legacy-extensions-description = لا تحقق هذه الامتدادات معايير { -brand-short-name } الحالية، لذا عُطّلت. <label data-l10n-name="legacy-learn-more">تعرّف على التغييرات على الإضافات</label>
+private-browsing-description2 = بدأ { -brand-short-name } بتغيير كيفية عمل الامتدادات في التصفح الخاص. مبدئيًا، لن تعمل أي امتدادات جديدة تُضيفها إلى { -brand-short-name } في النوافذ الخاصة. إن لم تغيّر ذلك وتسمح به في الإعدادات فلن يعمل الامتداد وأنت في التصفح الخاص، ولن يملك حق الوصول إلى نشاطك على الوِب فيها. أجرينا هذا التغيير ليكون التصفح الخاص خاصًا بحق. <label data-l10n-name="private-browsing-learn-more">اطّلع على طريقة إدارة إعدادات الامتدادات</label>
 extensions-view-discover =
     .name = احصل على الإضافات
     .tooltiptext = { extensions-view-discover.name }
@@ -198,3 +199,22 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = نصّب التحديثات
     .tooltiptext = نصّب التحديثات المتاحة في هذه اللائحة
+
+## Extension shortcut management
+
+manage-extensions-shortcuts =
+    .label = أدِر اختصارات الامتدادات
+    .accesskey = د
+shortcuts-no-addons = ليس لديك أيّ امتدادات مفعّلة.
+shortcuts-no-commands = لا اختصارات للامتدادات الآتية:
+shortcuts-input =
+    .placeholder = اكتب اختصارًا
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
