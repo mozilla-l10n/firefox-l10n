@@ -68,11 +68,14 @@ onboarding-tracking-protection-button2 = Korleis det verkar
 onboarding-data-sync-title = Ta med deg innstillingane dine
 onboarding-data-sync-button = Slå på { -sync-brand-short-name }
 onboarding-data-sync-button2 = Logg inn på { -sync-brand-short-name }
+onboarding-firefox-monitor-button = Registrer deg for varslingar
 onboarding-browse-privately-title = Surf privat
+onboarding-browse-privately-button = Opne eit privat vindauge
 onboarding-firefox-send-button = Prøv { -send-brand-name }
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Last ned mobilnettlesar
+onboarding-send-tabs-button = Prøv funksjonen
 onboarding-pocket-anywhere-button = Prøv { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Ta med deg passorda overalt
 onboarding-lockwise-passwords-button = Last ned { -lockwise-brand-name }
