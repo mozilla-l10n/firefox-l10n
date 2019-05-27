@@ -27,7 +27,7 @@
 <!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "Afișează în Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
-<!ENTITY cmd.showDownloads.label          "Arată dosarul cu descărcări">
+<!ENTITY cmd.showDownloads.label          "Afișează dosarul cu descărcări">
 <!ENTITY cmd.retry.label                  "Reîncearcă">
 <!ENTITY cmd.goToDownloadPage.label       "Mergi la pagina de descărcare">
 <!ENTITY cmd.goToDownloadPage.accesskey   "g">
