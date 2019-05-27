@@ -34,6 +34,7 @@ policies-notice =
         [windows] Mae eich corff wedi analluogi'r gallu i newid rhai dewisiadau.
        *[other] Mae eich corff wedi analluogi'r gallu i newid rhai dewisiadau.
     }
+managed-notice = Mae eich porwr yn cael ei reoli gan eich sefydliad.
 pane-general-title = Cyffredinol
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = Preifatrwydd a Diogelwch
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Cyfrif Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -540,8 +537,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Cadw
     .accesskey = C
-sync-mobilepromo-single = Cysylltu unrhyw ddyfais arall
-sync-mobilepromo-multi = Rheoli dyfeisiau
 sync-connect-another-device = Cysylltu dyfais arall
 sync-manage-devices = Rheoli dyfeisiau
 sync-fxa-begin-pairing = Paru dyfais
@@ -699,7 +694,6 @@ content-blocking-all-third-party-cookies = Pob cwci trydydd parti
 content-blocking-cryptominers = Cryptogloddwyr
 content-blocking-fingerprinters = Bysbrintwyr
 content-blocking-warning-title = Rhybudd!
-content-blocking-warning-desc = Gall rwystro cwcis a thracwyr achosi i rai gwefannau i dorri. Mae'n hawdd i analluogi rhwystro ar wefannau rydych yn ymddiried ynddyn nhw.
 content-blocking-warning-description = Gall rhwystro cynnwys achosi i rai gwefannau dorri. Mae'n hawdd i analluogi rhwystro gwefannau rydych chi'n ymddiried ynddyn nhw.
 content-blocking-learn-how = Dysgu sut
 content-blocking-reload-description = Bydd angen ail lwytho'ch tabiau i osod y newidiadau hyn.
