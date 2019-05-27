@@ -483,7 +483,7 @@ sync-sign-in =
     .label = Zaloguj
     .accesskey = o
 sync-signedin-settings-header = Ustawienia synchronizacji
-sync-signedin-settings-desc = Wybierz, co synchronizować pomiędzy urządzeniami:
+sync-signedin-settings-desc = Wybierz, co synchronizować pomiędzy urządzeniami za pomocą przeglądarki { -brand-short-name }:
 sync-engine-bookmarks =
     .label = zakładki
     .accesskey = z
@@ -589,7 +589,7 @@ history-remember-search-option =
     .label = Zachowywanie historii pola wyszukiwania i formularzy
     .accesskey = o
 history-clear-on-close-option =
-    .label = Czyszczenie historii podczas zamykania programu
+    .label = Czyszczenie historii podczas zamykania przeglądarki { -brand-short-name }
     .accesskey = z
 history-clear-on-close-settings =
     .label = Ustawienia…
@@ -608,7 +608,7 @@ sitedata-total-size-calculating = Obliczanie rozmiaru danych i pamięci podręc
 sitedata-total-size = Przechowywane ciasteczka, dane i pamięć podręczna stron zajmują { $value } { $unit } na dysku.
 sitedata-learn-more = Więcej informacji
 sitedata-delete-on-close =
-    .label = Usuwanie ciasteczek i danych stron podczas zamykania programu
+    .label = Usuwanie ciasteczek i danych stron podczas zamykania przeglądarki { -brand-short-name }
     .accesskey = U
 sitedata-delete-on-close-private-browsing = W stale aktywnym trybie przeglądania prywatnego ciasteczka i dane stron są zawsze usuwane podczas zamykania programu { -brand-short-name }.
 sitedata-allow-cookies-option =
@@ -673,7 +673,7 @@ content-blocking-setting-custom =
     .accesskey = W
 content-blocking-standard-description = Blokowanie znanych elementów śledzących tylko w oknach prywatnych.
 content-blocking-standard-desc = Wyważone pod kątem ochrony i szybkości wczytywania stron. Dopuszcza pewne elementy śledzące, aby strony działały prawidłowo.
-content-blocking-strict-desc = Blokowanie wszystkich wykrytych elementów śledzących. Może powodować problemy z niektórymi stronami.
+content-blocking-strict-desc = Blokowanie wszystkich elementów śledzących wykrytych przez przeglądarkę { -brand-short-name }. Może powodować problemy z niektórymi stronami.
 content-blocking-strict-description = Silniejsza ochrona, ale może powodować problemy z niektórymi stronami.
 content-blocking-custom-desc = Wybierz, co blokować:
 content-blocking-private-trackers = znane elementy śledzące w oknach prywatnych
@@ -743,7 +743,7 @@ permissions-notification-settings =
     .accesskey = s
 permissions-notification-link = Więcej informacji
 permissions-notification-pause =
-    .label = Wstrzymaj powiadomienia do czasu ponownego uruchomienia programu
+    .label = Wstrzymaj powiadomienia do czasu ponownego uruchomienia przeglądarki { -brand-short-name }
     .accesskey = W
 permissions-block-autoplay-media2 =
     .label = Blokowanie automatycznego odtwarzania dźwięku przez strony
@@ -774,20 +774,20 @@ collection-header = Dane zbierane przez program { -brand-short-name }
 collection-description = Dążymy do zapewnienia odpowiedniego wyboru i zbierania wyłącznie niezbędnych danych, aby dostarczać i doskonalić program { -brand-short-name } dla nas wszystkich. Zawsze prosimy o pozwolenie przed przesłaniem danych osobistych.
 collection-privacy-notice = Prywatność
 collection-health-report =
-    .label = Przesyłanie do Mozilli danych technicznych i o interakcjach z programem.
+    .label = Przesyłanie do organizacji { -vendor-short-name } danych technicznych i o interakcjach z przeglądarką { -brand-short-name }.
     .accesskey = z
 collection-health-report-link = Więcej informacji
 collection-studies =
-    .label = Instalowanie i przeprowadzanie badań.
-collection-studies-link = Wyświetl badania
+    .label = Instalowanie i przeprowadzanie badań przez przeglądarkę { -brand-short-name }.
+collection-studies-link = Wyświetl badania przeglądarki { -brand-short-name }
 addon-recommendations =
-    .label = Personalizowane polecenia rozszerzeń.
+    .label = Personalizowane polecenia rozszerzeń przez przeglądarkę { -brand-short-name }.
 addon-recommendations-link = Więcej informacji
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Przesyłanie danych jest wyłączone przy tej konfiguracji programu
 collection-backlogged-crash-reports =
-    .label = Przesyłanie zgromadzonych raportów z awarii.
+    .label = Przesyłanie zgromadzonych raportów z awarii przeglądarki { -brand-short-name }.
     .accesskey = o
 collection-backlogged-crash-reports-link = Więcej informacji
 
@@ -844,13 +844,13 @@ space-alert-over-5gb-pref-button =
         }
 space-alert-over-5gb-message =
     { PLATFORM() ->
-        [windows] Zaczyna brakować miejsca na dysku. Zawartość stron może być wyświetlana niepoprawnie. Przechowywane dane może wyczyścić w Opcje → Prywatność i bezpieczeństwo → Ciasteczka i dane stron.
-       *[other] Zaczyna brakować miejsca na dysku. Zawartość stron może być wyświetlana niepoprawnie. Przechowywane dane może wyczyścić w Preferencje → Prywatność i bezpieczeństwo → Ciasteczka i dane stron.
+        [windows] Przeglądarce { -brand-short-name } zaczyna brakować miejsca na dysku. Zawartość stron może być wyświetlana niepoprawnie. Przechowywane dane może wyczyścić w Opcje → Prywatność i bezpieczeństwo → Ciasteczka i dane stron.
+       *[other] Przeglądarce { -brand-short-name } zaczyna brakować miejsca na dysku. Zawartość stron może być wyświetlana niepoprawnie. Przechowywane dane może wyczyścić w Preferencje → Prywatność i bezpieczeństwo → Ciasteczka i dane stron.
     }
 space-alert-under-5gb-ok-button =
     .label = OK
     .accesskey = O
-space-alert-under-5gb-message = Zaczyna brakować miejsca na dysku. Zawartość stron może być wyświetlana niepoprawnie. Skorzystaj z odnośnika „Więcej informacji”, aby zoptymalizować użycie dysku dla lepszego przeglądania.
+space-alert-under-5gb-message = Przeglądarce { -brand-short-name } zaczyna brakować miejsca na dysku. Zawartość stron może być wyświetlana niepoprawnie. Skorzystaj z odnośnika „Więcej informacji”, aby zoptymalizować użycie dysku dla lepszego przeglądania.
 
 ## The following strings are used in the Download section of settings
 
