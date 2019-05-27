@@ -38,3 +38,7 @@
 <!ENTITY browse.accesskey                 "B">
 
 <!ENTITY defaultSearchEngine.label        "Công cụ tìm kiếm mặc định">
+<!ENTITY addSearchEngine.label            "Thêm từ tập tin">
+<!ENTITY addSearchEngine.accesskey        "A">
+<!ENTITY removeSearchEngine.label         "Xóa">
+<!ENTITY removeSearchEngine.accesskey     "v">
