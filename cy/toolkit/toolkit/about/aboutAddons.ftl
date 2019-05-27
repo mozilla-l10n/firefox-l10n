@@ -309,6 +309,9 @@ preferences-addon-button =
         [windows] Opsiynau
        *[other] Dewisiadau
     }
+details-addon-button = Manylion
+release-notes-addon-button = Nodiadau Rhyddhau
+permissions-addon-button = Caniatâd
 addons-enabled-heading = Galluogwyd
 addons-disabled-heading = Analluogwyd
 ask-to-activate-button = Gofyn i'w Weithredu
@@ -362,3 +365,6 @@ addon-detail-private-browsing-allow = Caniatáu
 addon-detail-private-browsing-disallow = Peidio Caniatáu
 available-updates-heading = Diweddariadau ar Gael
 recent-updates-heading = Diweddariadau Diweddar
+release-notes-loading = Llwytho…
+release-notes-error = Ymddiheuriadau ond bu gwall llwytho'r nodiadau ryddhau.
+addon-permissions-empty = Nid oes angen unrhyw ganiatâd ar yr estyniad hwn

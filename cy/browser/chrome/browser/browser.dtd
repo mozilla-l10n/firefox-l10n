@@ -131,7 +131,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Argraffu…">
 <!ENTITY printCmd.accesskey "A">
 <!ENTITY printCmd.commandkey "p">
-
 <!ENTITY importFromAnotherBrowserCmd.label "Mewnforio o Borwr Arall…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "M">
 
@@ -342,6 +341,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Rydych wedi rhwystro'r wefan yma rhag defnyddio ategyn Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Rydych wedi rhwystro mynediad MIDI ar gyfer y wefan hon.">
 
+<!ENTITY urlbar.installBlocked.tooltip           "Rydych wedi rhwystro gosod ychwanegion ar gyfer y wefan hon.">
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Dangos hanes">
 
 <!ENTITY searchItem.title             "Chwilio">
@@ -439,7 +440,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "e">
 <!ENTITY preferencesCmdUnix.label       "Dewisiadau">
 <!ENTITY preferencesCmdUnix.accesskey     "w">
-
 <!ENTITY logins.label                           "Mewngofnodion a Cyfrineiriau">
 
 <!ENTITY clearRecentHistory.label               "Clirio Hanes Diweddar…">
@@ -886,6 +886,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Mae'r dudalen wedi ei llwytho o estyniad.">
 <!ENTITY identity.insecureLoginForms2 "Gall mewngofnodion sy'n cael eu cyflwyno ar y dudalen hon gael eu cyfaddawdu.">
 
+<!ENTITY identity.customRoot "Dilyswyd y cysylltiad gan gyhoeddwr tystysgrif nad yw'n cael ei gydnabod gan Mozilla.">
+
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "Mae &brandShortName; wedi rhwystro rhannau o'r dudalen nad ydynt yn ddiogel.">
 <!ENTITY identity.passiveLoaded "Nid yw rhannau o'r dudalen hon yn ddiogel (megis delweddau).">
@@ -903,6 +905,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Er bod &brandShortName; wedi rhwystro peth cynnwys, mae cynnwys dal ar y dudalen nad yw'n ddiogel (megis delweddau).">
 <!ENTITY identity.description.activeLoaded "Mae'r wefan yn cynnwys yn deunydd nad yw'n ddiogel (megis sgriptiau) ac nid yw eich cysylltiad â nhw'n breifat.">
 <!ENTITY identity.description.activeLoaded2 "Gall gwybodaeth fyddwch yn ei gyflwyno cael ei weld gan eraill (megis cyfrineiriau, negeseuon, cardiau credyd, ac ati.).">
+
+<!ENTITY identity.description.customRoot "Nid yw Mozilla yn cydnabod y cyhoeddwr tystysgrif hwn. Efallai ei fod wedi'i ychwanegu o'ch system weithredu neu gan weinyddwr.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Galluogi diogelu">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "G">
