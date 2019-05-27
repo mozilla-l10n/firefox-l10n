@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "مرحبا">
 <!ENTITY firstrun_urlbar_message2 "شكرا على اختيارك &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "مرحبًا في &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "متصفّح هواتف حديث من موزيلا، المؤسسة غير الربحية الملتزمة تجاه وِب حر ومفتوح.">
+<!ENTITY newfirstrun_urlbar_subtext "سريع وخاص ويقف صفًا صفًا معك.">
 <!ENTITY firstrun_panel_title_privacy "الخصوصية">
 <!ENTITY firstrun_privacy_message "تصفح و لا أحد يراقبك">
 <!ENTITY firstrun_privacy_subtext "التّصفّح الخاص مع الحماية من التّعقّب يحجب المتعقبات وأنت تتصفّح ولا يتذكر التأريخ عندما تنتهي من التصفح.">
+<!ENTITY newfirstrun_privacy_subtext "يحجب التصفح الخاص متعقّبات الإعلانات التي تسير ورائك وأنت تجوب الوِب.">
 <!ENTITY firstrun_panel_title_customize "خصّص">
 <!ENTITY firstrun_customize_message "اجعل &brandShortName; ينتمي إليك.">
 <!ENTITY firstrun_customize_subtext "خصِّص &brandShortName; مستخدمًا الإضافات. احجب الإعلانات، أو أضف مزايا أو اختر سمة جديدة تعكس شخصيتك.">
@@ -20,8 +23,10 @@
 <!ENTITY firstrun_sync_title "تزامُن">
 <!ENTITY firstrun_sync_message2 "أكمل من حيث انتهيت.">
 <!ENTITY firstrun_sync_subtext2 "استعمل «تزامن» لتجد العلامات، وكلمات السر وغيرها من الأمور التي تحفظها في &brandShortName; على أجهزتك.">
+<!ENTITY newfirstrun_sync_subtext "زامِن ما حفظته على المحمول في فَيَرفُكس على سطح المكتب، بكل أمان وأقصى خصوصية.">
 <!ENTITY firstrun_signin_message "اتصل لتبدأ">
 <!ENTITY firstrun_signin_button "لِج إلى «المزامنة»">
+<!ENTITY newfirstrun_signin_button "فعّل «تزامُن»">
 <!ENTITY  onboard_start_button_browser "ابدأ التصفح">
 <!ENTITY firstrun_button_notnow "ليس الآن">
 <!ENTITY firstrun_button_next "التالي">
@@ -408,12 +413,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "التنزيلات">
 <!ENTITY pref_private_data_syncedTabs "الألسنة المُزامنة">
 
-<!ENTITY pref_default_browser "اجعله المتصفح المبدئي">
-
 <!ENTITY pref_default_browser2 "اضبط &brandShortName; ليكون متصفّحك المبدئي">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
-    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "انقر ”تطبيق المتصفح“ واختر &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "زُر موقع دعم موزيلا">
 <!ENTITY pref_about_firefox "عن &brandShortName;">
@@ -913,6 +916,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "ألبِث">
 <!ENTITY pip_pause_button_description "ألبِث التشغيل">
 
+<!ENTITY pref_notification_settings_link "أدِر إعدادات التنبيهات">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "المتصفح">
 <!ENTITY mls_notification_channel "خدمات التموضع من &vendorShortName;">
