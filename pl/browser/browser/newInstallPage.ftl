@@ -15,14 +15,14 @@ changed-desc-dedicated = Aby móc łatwiej i bezpieczniej przełączać się mi
 lost = <b>Żadne dane osobiste ani konfiguracja nie zostały utracone.</b> Jeśli już zachowano jakieś dane w Firefoksie na tym komputerze, to są one nadal dostępne w innej instalacji Firefoksa.
 options-title = Co mogę zrobić?
 options-do-nothing = Jeśli nic nie zrobisz, to dane profilu w programie { -brand-short-name } będą inne niż dane profilu w pozostałych instalacjach Firefoksa.
-options-use-sync = Jeśli chcesz, aby dane profilu były takie same we wszystkich instalacjach Firefoksa, to możesz skorzystać z konta Firefoksa, aby je synchronizować.
+options-use-sync = Jeśli chcesz, aby dane profilu były takie same we wszystkich instalacjach Firefoksa, to możesz skorzystać z { -fxaccount-brand-name(case: "gen", capitalization: "lower") }, aby je synchronizować.
 resources = Więcej informacji:
 support-link = Zarządzanie profilami — artykuł pomocy
-sync-header = Zaloguj się lub utwórz konto Firefoksa
+sync-header = Zaloguj się lub utwórz { -fxaccount-brand-name(case: "nom", capitalization: "lower") }
 sync-label = Wprowadź adres e-mail
 sync-input =
     .placeholder = Adres e-mail
 sync-button = Kontynuuj
 sync-terms = Kontynuując, wyrażasz zgodę na <a data-l10n-name="terms">warunki korzystania z usługi</a> i <a data-l10n-name="privacy">zasady ochrony prywatności</a>.
-sync-first = Korzystasz z synchronizacji Firefoksa po raz pierwszy? Musisz zalogować się w każdej instalacji Firefoksa, aby synchronizować dane.
+sync-first = Korzystasz z { -sync-brand-name(case: "gen", capitalization: "lower") } po raz pierwszy? Musisz zalogować się w każdej instalacji Firefoksa, aby synchronizować dane.
 sync-learn = Więcej informacji

@@ -61,7 +61,7 @@ cfr-doorhanger-pintab-animation-resume = Wznów
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synchronizuj zakładki na każdym urządzeniu.
-cfr-doorhanger-bookmark-fxa-body = Wspaniałe odkrycie! Fajnie byłoby mieć tę zakładkę także na telefonie, prawda? Zacznij korzystać z konta Firefoksa.
+cfr-doorhanger-bookmark-fxa-body = Wspaniałe odkrycie! Fajnie byłoby mieć tę zakładkę także na telefonie, prawda? Zacznij korzystać z { -fxaccount-brand-name(case: "gen", capitalization: "lower") }.
 cfr-doorhanger-bookmark-fxa-link-text = Synchronizuj zakładki…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Przycisk zamknięcia
