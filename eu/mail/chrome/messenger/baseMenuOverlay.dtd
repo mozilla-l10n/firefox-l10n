@@ -9,6 +9,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Laguntza">
 <!ENTITY helpMenuWin.accesskey "L">
+<!ENTITY aboutProduct2.label "&brandShorterName;(r)i buruz">
+<!ENTITY aboutProduct2.accesskey "b">
 <!ENTITY helpTroubleshootingInfo.label     "Arazoak konpontzeko informazioa…">
 <!ENTITY helpTroubleshootingInfo.accesskey "A">
 <!ENTITY helpSafeMode.label     "Berrabiarazi gehigarriak desgaituta…">
@@ -27,6 +29,10 @@
 <!ENTITY aboutMenuCmd2.label "&brandFullName;(r)i buruz">
 <!ENTITY aboutMenuCmd2.accesskey "b">
 <!ENTITY productHelp.label "&brandShortName;(r)en laguntza">
+<!ENTITY productHelp.accesskey "l">
+<!ENTITY productHelp.commandkey "VK_F1">
+<!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "azel">
 
 <!ENTITY helpKeyboardShortcuts.label "Laster-teklak">
 <!ENTITY helpKeyboardShortcuts.accesskey "L">

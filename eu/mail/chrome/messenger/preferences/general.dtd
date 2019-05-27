@@ -38,3 +38,7 @@
 <!ENTITY browse.accesskey                 "A">
 
 <!ENTITY defaultSearchEngine.label        "Bilatzaile lehenetsia">
+<!ENTITY addSearchEngine.label            "Gehitu fitxategitik">
+<!ENTITY addSearchEngine.accesskey        "f">
+<!ENTITY removeSearchEngine.label         "Kendu">
+<!ENTITY removeSearchEngine.accesskey     "K">
