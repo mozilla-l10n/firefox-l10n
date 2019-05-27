@@ -64,7 +64,10 @@ abuse-report-deceptive-example = Přikład: Zamylace wopisanje abo zamylaca wobr
 abuse-report-broken-reason-extension = Njefunguje, wobškodźa websydła abo spomala { -brand-product-name }
 abuse-report-broken-reason-theme = Njefunguje abo skóncuje zwobraznjenje wobhladowaka
 abuse-report-broken-example = Přikład: Funkcije su pomałe, ćežko wužiwajomne abo njefunguja; dźěle websydła so njezačitaja abo wupadaja njezwučene
+abuse-report-broken-suggestions-extension = Zdao so, zo sće zmylk identifikował. Chibazo móžeće rozprawu wotpósłać, stajće so najlěpje z wuwiwarjom rozšěrjenja do zwiska, zo byšće problem z funkcionalnosću rozrisał. <a data-l10n-name="support-link">Wopytajće websydło rozšěrjenja</a>, zo byšće sej informacije wo wuwiwarju wobstarał.
+abuse-report-broken-suggestions-theme = Zda so, zo sće zmylk identifikował. Chibazo móžeće rozprawu wotpósłać, stajće so najlěpje z wuwiwarjom drasty do zwiska, zo byšće problem z funkcionalnosću rozrisał. <a data-l10n-name="support-link">Wopytajće websydło drasty</a>, zo byšće sej informacije wo wuwiwarju wobstarał.
 abuse-report-policy-reason = Hidypołny, namócny abo ilegalny wobsah
+abuse-report-policy-suggestions = Kedźbu: Problemy z awtorstwom a wikowanskim znamjenjom dyrbja na druhe wašnje zdźělić. <a data-l10n-name="report-infringement-link">Sćěhujće tutw instrukcije</a>, zo byšće problem zdźělił.
 abuse-report-unwanted-reason = Njejsym tute rozšěrjenje ženje chył a njemóžu jo wotbyć
 abuse-report-unwanted-example = Přikład: Nałoženje je jón bjez dowolnosće zainstalowało
 abuse-report-other-reason = Něšto druhe
