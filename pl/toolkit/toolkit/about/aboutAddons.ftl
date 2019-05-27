@@ -151,7 +151,7 @@ legacy-extensions =
 legacy-extensions-description = Te rozszerzenia nie spełniają obecnych standardów programu { -brand-short-name } i z tego powodu zostały wyłączone. <label data-l10n-name="legacy-learn-more">Więcej informacji o zmianach w dodatkach</label>.
 private-browsing-description2 =
     { -brand-short-name } zmienia sposób działania rozszerzeń w trybie prywatnym. Rozszerzenia dodane
-    do przeglądarki domyślnie nie będą działały w oknach prywatnych. Jeśli nie zostanie to zmienione
+    do programu domyślnie nie będą działały w oknach prywatnych. Jeśli nie zostanie to zmienione
     w ustawieniach, rozszerzenie nie będzie działało w trybie prywatnym i nie będzie miało dostępu
     do działań użytkownika. Wprowadziliśmy tę zmianę, aby prywatne przeglądanie zawsze było prywatne.
     <label data-l10n-name="private-browsing-learn-more">Więcej informacji o zarządzaniu ustawieniami rozszerzeń.</label>
@@ -252,7 +252,7 @@ shortcuts-modifier-mac = Uwzględnij Ctrl, Alt lub ⌘
 shortcuts-modifier-other = Uwzględnij Ctrl lub Alt
 shortcuts-invalid = Nieprawidłowe połączenie
 shortcuts-letter = Wpisz literę
-shortcuts-system = Nie można zastąpić skrótu przeglądarki { -brand-short-name }
+shortcuts-system = Nie można zastąpić skrótu programu { -brand-short-name }
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -290,7 +290,7 @@ created-by-author = Autor: <a data-l10n-name="author">{ $author }</a>
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
 user-count = Użytkownicy: { $dailyUsers }
-install-extension-button = Dodaj do przeglądarki { -brand-product-name }
+install-extension-button = Dodaj do programu { -brand-product-name }
 install-theme-button = Zainstaluj motyw
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
