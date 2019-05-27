@@ -4,11 +4,11 @@
 
 choose-messenger-language-description = Wybierz język używany do wyświetlania menu, komunikatów i powiadomień programu { -brand-short-name }.
 manage-messenger-languages-button =
-  .label = Ustaw języki zastępcze…
-  .accesskey = U
-confirm-messenger-language-change-description = Uruchom ponownie, aby zastosować te zmiany
+    .label = Ustaw języki zastępcze…
+    .accesskey = U
+confirm-messenger-language-change-description = Uruchom program { -brand-short-name } ponownie, aby zastosować te zmiany
 confirm-messenger-language-change-button = Zastosuj i uruchom ponownie
-
 update-pref-write-failure-title = Niepowodzenie zapisu
-
+# Variables:
+#   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Nie można zapisać preferencji. Nie można zapisać do pliku: { $path }
