@@ -131,7 +131,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "اطبع…">
 <!ENTITY printCmd.accesskey "ط">
 <!ENTITY printCmd.commandkey "p">
-
 <!ENTITY importFromAnotherBrowserCmd.label "استورد من متصفح آخر…">
 
 <!ENTITY taskManagerCmd.label "مدير المهام">
@@ -338,6 +337,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "لقد حجبت هذا الموقع من استخدام ملحقة أدوبي فلاش.">
 <!ENTITY urlbar.midiBlocked.tooltip              "لقد حجبنا عن هذا الموقع الوصول إلى MIDI.">
 
+<!ENTITY urlbar.installBlocked.tooltip           "حجبت تثبيت الإضافات في هذا الموقع.">
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "اعرض التأريخ">
 
 <!ENTITY searchItem.title             "ابحث">
@@ -435,7 +436,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "خ">
 <!ENTITY preferencesCmdUnix.label       "التفضيلات">
 <!ENTITY preferencesCmdUnix.accesskey     "ف">
-
 <!ENTITY logins.label                           "جلسات الولوج وكلمات السر">
 
 <!ENTITY clearRecentHistory.label               "امسح التأريخ الحالي…">
@@ -881,6 +881,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "حمِّلت هذه الصفحة من امتداد.">
 <!ENTITY identity.insecureLoginForms2 "معلومات الولوج التي تُدخلها في هذه الصفحة قد تكون مخترقة.">
 
+<!ENTITY identity.customRoot "تثبّت من هذا الاتصال مُصْدِر شهادات لا تعرفه موزيلا.">
+
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "حجب &brandShortName; الأجزاء غير الآمنة في هذه الصفحة.">
 <!ENTITY identity.passiveLoaded "بعض أجزاء هذه الصفحة غير آمنة (مثل الصور).">
@@ -898,6 +900,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "مع أنّ &brandShortName; حجب بعض المحتويات، إلا أن هناك أخرى غير آمنة ما زالت في الصفحة (مثل الصور).">
 <!ENTITY identity.description.activeLoaded "يحوي هذا الموقع محتوى غير آمن (مثل السكربتات) و اتصالك به ليس خاصا.">
 <!ENTITY identity.description.activeLoaded2 "يمكن للآخرين مطالعة المعلومات التي تشاركها مع الموقع (مثل كلمات السر، و الرسائل، و بطاقات الائتمان و غيرها).">
+
 
 <!ENTITY identity.enableMixedContentBlocking.label "فعّل الحماية">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "ف">

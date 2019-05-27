@@ -71,3 +71,5 @@ remove-all-shown =
 remove-all-passwords-prompt = أمتأكّد أنّك تريد إزالة كل كلمات السر؟
 remove-all-passwords-title = أزل كل كلمات السر
 no-master-password-prompt = أمتأكّد أنّك تريد عرض كلمات سرّك؟
+auto-fill-logins-and-passwords =
+    .label = املأ جلسات الولوج وكلمات السر تلقائيا
