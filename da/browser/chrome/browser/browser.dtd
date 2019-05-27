@@ -979,7 +979,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Dette websted indeholder usikkert indhold (fx scripts), og din forbindelse til det er ikke privat.">
 <!ENTITY identity.description.activeLoaded2 "Information, du deler med dette websted (fx adgangskoder, beskeder og oplysninger om betalingskort) kan ses af andre.">
 
-<!ENTITY identity.description.customRoot "Mozilla kender udstederen af dette certifikat. Det kan være tilføjet af dit styresystem eller en administrator.">
+<!ENTITY identity.description.customRoot "Mozilla kender ikke udstederen af dette certifikat. Det kan være tilføjet af dit styresystem eller en administrator.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Aktiver beskyttelse">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "A">

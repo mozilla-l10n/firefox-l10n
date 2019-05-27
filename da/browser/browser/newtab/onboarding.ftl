@@ -47,7 +47,7 @@ onboarding-benefit-privacy-title = Dit privatliv, din sag
 # Firefox Personal Data Promise is the way we honor your data in everything we
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
-onboarding-benefit-privacy-text = Vi overholder vores løfte om private data i alt, vi gør: Tag mindre. Beskyt alt. Ingen hemmeligheder. 
+onboarding-benefit-privacy-text = Vi overholder vores løfte om private data i alt, vi gør: Gem mindre. Beskyt alt. Ingen hemmeligheder. 
 
 
 ## These strings belong to the individual onboarding messages.
@@ -77,7 +77,7 @@ onboarding-tracking-protection-text = Synes du ikke om, at reklamer følger dig 
 # updates".
 onboarding-tracking-protection-button = { PLATFORM() ->
   [windows] Opdater indstillinger
- *[other] Opdter indstillinger
+ *[other] Opdater indstillinger
 }
 
 onboarding-tracking-protection-title2 = Beskyttelse mod sporing
@@ -86,18 +86,18 @@ onboarding-tracking-protection-button2 = Sådan virker det
 
 onboarding-data-sync-title = Tag dine indstillinger med dig
 # "Sync" is short for synchronize.
-onboarding-data-sync-text = Synkroniser dine bogmærker og adgangskoder overalt du bruger { -brand-product-name }.
+onboarding-data-sync-text = Synkroniser dine bogmærker og adgangskoder i { -brand-product-name } mellem alle dine enheder.
 onboarding-data-sync-button = Slå { -sync-brand-short-name } til
 
 # "Sync" is short for synchronize.
-onboarding-data-sync-text2 = Synkroniser dine bogmærker, adgangskoder og meget mere overalt du bruger { -brand-product-name }.
+onboarding-data-sync-text2 = Synkroniser dine bogmærker, adgangskoder og meget mere i { -brand-product-name } mellem alle dine enheder.
 onboarding-data-sync-button2 = Log in på { -sync-brand-short-name }
 
 onboarding-firefox-monitor-title = Hold øje med datalæk
 onboarding-firefox-monitor-text = { -monitor-brand-name } holder styr på, om din mailadresse har været ramt af et datalæk - og giver dig besked, hvis du bliver ramt af nye datalæk.
-onboarding-firefox-monitor-button = Sign up for Alerts
+onboarding-firefox-monitor-button = Tilmeld dig advarsler
 
-onboarding-browse-privately-title = Browse privat
+onboarding-browse-privately-title = Privat browsing
 onboarding-browse-privately-text = Privat browsing sletter din søge- og browsing-historik for at holde den hemmelig fra andre, der bruger din computer.
 onboarding-browse-privately-button = Åbn et privat vindue
 
@@ -115,8 +115,8 @@ onboarding-mobile-phone-button = Hent mobil-browser
 onboarding-send-tabs-title = Send nemt faneblade til dig selv
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
-onboarding-send-tabs-text = Med funktionen Send faneblade kan du nemt og hurtigt dele websider mellem dine forskellige enheder uden at bøvle med at klippe, kopiere og lukke browseren.
-onboarding-send-tabs-button = Start Using Send Tabs
+onboarding-send-tabs-text = Med funktionen Send faneblade kan du nemt og hurtigt dele websider mellem dine forskellige enheder uden alt bøvlet med at kopiere links og maile dem til dig selv
+onboarding-send-tabs-button = Prøv funktionen
 
 onboarding-pocket-anywhere-title = Læs og lyt hvor som helst
 # "downtime" refers to the user's free/spare time.
