@@ -16,7 +16,7 @@ about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = 遥测数据
 about-telemetry-current-store = 当前存储：
-about-telemetry-more-information = 寻找更多信息？
+about-telemetry-more-information = 想了解更多吗？
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox 数据文档</a> 介绍了使用我们的数据工具的方式。
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox 遥测客户端文档</a> 包括概念、API 文档以及数据引用的定义。
 about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">遥测面板</a> 直观显示了 Mozilla 通过遥测收到的数据。
