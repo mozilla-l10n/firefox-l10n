@@ -129,9 +129,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "Caută adrese…">
 <!ENTITY searchAddressesCmd.accesskey                   "s">
-<!ENTITY importCmd.label                                "Import…">
+<!ENTITY importCmd.label                                "Importă…">
 <!ENTITY importCmd.accesskey                            "I">
-<!ENTITY exportCmd.label                                "Export…">
+<!ENTITY exportCmd.label                                "Exportă…">
 <!ENTITY exportCmd.accesskey                            "E">
 <!ENTITY preferencesCmd2.label                          "Opțiuni">
 <!ENTITY preferencesCmd2.accesskey                      "O">
