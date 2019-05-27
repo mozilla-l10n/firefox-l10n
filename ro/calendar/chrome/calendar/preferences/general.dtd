@@ -39,7 +39,7 @@
      translation of that section name (calendar.upcoming.button.label). Also,
      it should be upper case (as a proper name) if the target language permits.
   -->
-<!ENTITY pref.soondays2.label "Secțiunea următoare arată:">
+<!ENTITY pref.soondays2.label "Secțiunea următoare afișează:">
 <!ENTITY pref.soondays2.accesskey "u">
 
 <!ENTITY pref.accessibility.label "Accesibilitate" >
