@@ -12,7 +12,7 @@ profiles-conflict = Inna kopia programu { -brand-product-name } wprowadziła zmi
 profiles-flush-fail-title = Nie zapisano zmian
 profiles-flush-conflict = { profiles-conflict }
 profiles-flush-failed = Nieoczekiwany błąd uniemożliwił zapisanie zmian.
-profiles-flush-restart-button = Uruchom ponownie
+profiles-flush-restart-button = Uruchom program { -brand-short-name } ponownie
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profil: { $name }
