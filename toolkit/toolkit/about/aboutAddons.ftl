@@ -284,7 +284,7 @@ install-theme-button = 安装主题
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = 管理
-find-more-addons = 寻找更多附加组件：
+find-more-addons = 寻找更多附加组件
 
 ## Add-on actions
 
