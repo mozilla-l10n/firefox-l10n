@@ -27,8 +27,8 @@ install-addon-from-file =
 help-button = Wsparcie dla dodatków
 preferences =
     { PLATFORM() ->
-        [windows] Opcje przeglądarki { -brand-short-name }
-       *[other] Preferencje przeglądarki { -brand-short-name }
+        [windows] Opcje programu
+       *[other] Preferencje programu
     }
 tools-menu =
     .tooltiptext = Narzędzia dla wszystkich dodatków
@@ -110,11 +110,11 @@ detail-private-browsing-off =
 detail-home =
     .label = Strona domowa
 detail-home-value =
-    .value = Strona domowa
+    .value = { detail-home.label }
 detail-repository =
     .label = Profil dodatku
 detail-repository-value =
-    .value = Profil dodatku
+    .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Sprawdź dostępność aktualizacji
     .accesskey = S
@@ -157,7 +157,7 @@ private-browsing-description2 =
     <label data-l10n-name="private-browsing-learn-more">Więcej informacji o zarządzaniu ustawieniami rozszerzeń.</label>
 extensions-view-discover =
     .name = Pobierz dodatki
-    .tooltiptext = Pobierz dodatki
+    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Polecane
     .tooltiptext = Wyświetl polecane dodatki
@@ -173,18 +173,18 @@ extensions-view-available-updates =
 extensions-warning-safe-mode-label =
     .value = Wszystkie dodatki zostały wyłączone przez tryb awaryjny
 extensions-warning-safe-mode-container =
-    .tooltiptext = Wszystkie dodatki zostały wyłączone przez tryb awaryjny
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
 extensions-warning-check-compatibility-label =
     .value = Sprawdzanie zgodności dodatków jest wyłączone. Dodatki mogą być niezgodne.
 extensions-warning-check-compatibility-container =
-    .tooltiptext = Sprawdzanie zgodności dodatków jest wyłączone. Dodatki mogą być niezgodne
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
 extensions-warning-check-compatibility-enable =
     .label = Włącz
     .tooltiptext = Włącz sprawdzanie zgodności dodatków
 extensions-warning-update-security-label =
     .value = Sprawdzanie bezpieczeństwa aktualizacji jest wyłączone. Aktualizacje mogą powodować zagrożenie.
 extensions-warning-update-security-container =
-    .tooltiptext = Sprawdzanie bezpieczeństwa aktualizacji jest wyłączone. Aktualizacje mogą powodować zagrożenie
+    .tooltiptext = { extensions-warning-update-security-label.value }
 extensions-warning-update-security-enable =
     .label = Włącz
     .tooltiptext = Włącz sprawdzanie bezpieczeństwa aktualizacji dodatków

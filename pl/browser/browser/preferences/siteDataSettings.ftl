@@ -31,11 +31,6 @@ site-data-button-save =
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
-site-usage-pattern = { $value } { $unit }
-site-usage-persistent = { site-usage-pattern } (trwałe)
-# Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-storage-usage =
     .value = { $value } { $unit }
 site-storage-persistent =
@@ -50,7 +45,7 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = Usuwanie ciasteczek i danych stron
+    .title = { site-data-removing-header }
     .buttonlabelaccept = Usuń
 site-data-removing-header = Usuwanie ciasteczek i danych stron
 site-data-removing-desc = Usunięcie ciasteczek i danych stron może spowodować wylogowanie z niektórych witryn. Czy wprowadzić zmiany?
