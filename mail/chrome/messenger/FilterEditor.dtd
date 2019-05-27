@@ -28,6 +28,8 @@
 <!ENTITY contextArchive.label "Archifo">
 <!ENTITY contextArchive.accesskey "A">
 
+<!ENTITY contextPeriodic.accesskey "e">
+
 <!ENTITY filterActionDesc.label "Gwneud hyn:">
 <!ENTITY filterActionDesc.accesskey "G">
 

@@ -38,3 +38,7 @@
 <!ENTITY browse.accesskey                 "P">
 
 <!ENTITY defaultSearchEngine.label        "Peiriant Chwilio Rhagosodedig">
+<!ENTITY addSearchEngine.label            "Ychwanegu o ffeil">
+<!ENTITY addSearchEngine.accesskey        "Y">
+<!ENTITY removeSearchEngine.label         "Tynnu">
+<!ENTITY removeSearchEngine.accesskey     "T">
