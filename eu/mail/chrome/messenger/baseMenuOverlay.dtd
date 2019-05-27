@@ -26,3 +26,19 @@
 
 <!ENTITY aboutMenuCmd2.label "&brandFullName;(r)i buruz">
 <!ENTITY aboutMenuCmd2.accesskey "b">
+<!ENTITY productHelp.label "&brandShortName;(r)en laguntza">
+
+<!ENTITY helpKeyboardShortcuts.label "Laster-teklak">
+<!ENTITY helpKeyboardShortcuts.accesskey "L">
+
+<!ENTITY helpFeedbackPage.label "Bidali iritzia…">
+<!ENTITY helpFeedbackPage.accesskey "B">
+
+<!ENTITY helpShowTour2.label "&brandShorterName; Ibilbidea">
+<!ENTITY helpShowTour2.accesskey "I">
+
+<!ENTITY helpGetInvolvedPage.label "Parte hartu">
+<!ENTITY helpGetInvolvedPage.accesskey "P">
+
+<!ENTITY helpDonationsPage.label "Dohaintza bat egin">
+<!ENTITY helpDonationsPage.accesskey "D">
