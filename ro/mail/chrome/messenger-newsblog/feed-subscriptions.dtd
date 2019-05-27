@@ -27,7 +27,7 @@
 <!ENTITY biffDays.accesskey          "z">
 <!ENTITY recommendedUnits.label      "Cel ce publică recomandă:">
 
-<!ENTITY quickMode.label             "Arată sumarul articolului în loc de a încărca pagina web">
+<!ENTITY quickMode.label             "Afișează rezumatul articolului și nu mai încărca pagina web">
 <!ENTITY quickMode.accesskey         "u">
 
 <!ENTITY autotagEnable.label         "Creează automat etichete din numele &lt;categoriilor&gt; de fluxuri">

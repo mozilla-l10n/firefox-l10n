@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY messengerStartPage.label         "Pagina de pornire &brandShortName;">
-<!ENTITY enableStartPage.label            "Arată pagina de start în zona mesajelor la pornirea &brandShortName;">
+<!ENTITY enableStartPage.label            "Afișează pagina de start în zona de mesaje la pornirea &brandShortName;">
 <!ENTITY enableStartPage.accesskey        "A">
 <!ENTITY location.label                   "Locație:">
 <!ENTITY location1.accesskey               "A">
@@ -25,7 +25,7 @@
 <!ENTITY customizeMailAlert.label         "Personalizează…">
 <!ENTITY customizeMailAlert.accesskey     "P">
 
-<!ENTITY showTrayIcon.label               "Arată o pictogramă în bara de stare">
+<!ENTITY showTrayIcon.label               "Afișează o pictogramă în bara de stare">
 <!ENTITY showTrayIcon.accesskey           "p">
 
 <!ENTITY play.label                       "Redă">

@@ -346,7 +346,7 @@
 <!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
      Should use the same wording as startExpandedCmd.label
      in msgHdrViewOverlay.dtd. -->
-<!ENTITY initiallyShowAttachmentPane.label "Arată inițial panoul atașamentelor">
+<!ENTITY initiallyShowAttachmentPane.label "Afișează inițial panoul de atașamente">
 <!ENTITY initiallyShowAttachmentPane.accesskey "s">
 
 <!-- Spell checker context menu items -->

@@ -586,7 +586,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Redirecționează mesajul selectat ca atașament">
 <!ENTITY fileButton.tooltip "Îndosariază mesajul selectat">
 <!ENTITY archiveButton.tooltip "Arhivează mesajele selectate">
-<!ENTITY openConversationButton.tooltip "Arată conversația mesajului selectat">
+<!ENTITY openConversationButton.tooltip "Afișează conversația mesajului selectat">
 <!ENTITY nextButton.tooltip "Trece la următorul mesaj necitit">
 <!ENTITY nextMsgButton.tooltip "Mergi la următorul mesaj">
 <!ENTITY previousButton.tooltip "Treci la precedentul mesaj necitit">
@@ -964,7 +964,7 @@
 <!ENTITY hideOtherAppsCmdMac.label      "Ascunde-le pe celelalte">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
-<!ENTITY showAllAppsCmdMac.label        "Arată-le pe toate">
+<!ENTITY showAllAppsCmdMac.label        "Afișează tot">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Opțiuni pentru pictograma aplicației…">
