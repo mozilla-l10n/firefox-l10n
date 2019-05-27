@@ -5,7 +5,7 @@
 do-not-track-description = Informuj witryny o preferencjach względem śledzenia (wysyłanie nagłówka „Do Not Track”):
 do-not-track-learn-more = Więcej informacji
 do-not-track-option-default-content-blocking-known =
-    .label = gdy włączone jest blokowanie znanych elementów śledzących
+    .label = gdy { -brand-short-name } blokuje znane elementy śledzące
 do-not-track-option-always =
     .label = zawsze
 pref-page =
@@ -59,10 +59,10 @@ close-button =
 
 ## Browser Restart Dialog
 
-feature-enable-requires-restart = Konieczne jest ponowne uruchomienie programu, aby włączyć tę funkcję.
-feature-disable-requires-restart = Konieczne jest ponowne uruchomienie programu, aby wyłączyć tę funkcję.
-should-restart-title = Wymagane ponowne uruchamianie programu
-should-restart-ok = Uruchom ponownie
+feature-enable-requires-restart = Konieczne jest ponowne uruchomienie przeglądarki { -brand-short-name }, aby włączyć tę funkcję.
+feature-disable-requires-restart = Konieczne jest ponowne uruchomienie przeglądarki { -brand-short-name }, aby wyłączyć tę funkcję.
+should-restart-title = Ponowne uruchomienie przeglądarki { -brand-short-name }
+should-restart-ok = Uruchom przeglądarkę { -brand-short-name } ponownie
 cancel-no-restart-button = Anuluj
 restart-later = Później
 
@@ -96,7 +96,7 @@ extension-controlled-privacy-containers = Rozszerzenie „{ $name }” <img dat
 extension-controlled-websites-content-blocking-all-trackers = Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje to ustawienie.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
-extension-controlled-proxy-config = Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje, jak przeglądarka łączy się z Internetem.
+extension-controlled-proxy-config = Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje, jak { -brand-short-name } łączy się z Internetem.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #

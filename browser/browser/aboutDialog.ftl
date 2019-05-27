@@ -9,7 +9,7 @@ update-checkForUpdatesButton =
     .label = Sprawdź dostępność aktualizacji
     .accesskey = S
 update-updateButton =
-    .label = Uruchom ponownie, aby uaktualnić
+    .label = Uruchom ponownie, aby uaktualnić przeglądarkę { -brand-shorter-name }
     .accesskey = U
 update-checkingForUpdates = Poszukiwanie aktualizacji…
 update-downloading = <img data-l10n-name="icon"/> Pobieranie aktualizacji — <label data-l10n-name="download-status"/>
