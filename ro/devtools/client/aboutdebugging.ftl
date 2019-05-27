@@ -82,9 +82,6 @@ about-debugging-refresh-usb-devices-button = Reîmprospătează dispozitivele
 about-debugging-setup-title = Configurare
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Configurează metoda de conectare cu care vrei să depanezi de la distanță dispozitivul.
-# Link displayed in the Setup page that leads to MDN page with list of supported devices.
-# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
-about-debugging-setup-link-android-devices = Vezi lista dispozitivelor Android suportate
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Folosește <a>{ about-debugging-this-firefox-runtime-name }</a> pentru a depana file, extensii și scripturi service worker pe această versiune de { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
@@ -105,12 +102,6 @@ about-debugging-setup-usb-updating-button = Se actualizează…
 about-debugging-setup-usb-status-enabled = Activat
 about-debugging-setup-usb-status-disabled = Dezactivat
 about-debugging-setup-usb-status-updating = Se actualizează…
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu = Activează meniul Dezvoltator de pe dispozitivul Android. <a>Află cum</a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug = Activează Depanare USB în meniul Dezvoltator al dispozitivului Android. <a>Află cum</a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox = Activează Depanare USB în Firefox pe dispozitivul Android. <a>Află cum</a>
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = Activează meniul pentru dezvoltatori pe dispozitivul tău Android.
 # USB section step by step guide
@@ -167,7 +158,7 @@ about-debugging-runtime-service-workers =
     .name = Scripturi Service Worker
 # Title of the shared workers category.
 about-debugging-runtime-shared-workers =
-    .name = Shared Workers
+    .name = Workeri partajați
 # Title of the other workers category.
 about-debugging-runtime-other-workers =
     .name = Alți Workers
@@ -215,11 +206,6 @@ about-debugging-connection-prompt-enable-button = Activează mesajul de conexiun
 about-debugging-connection-prompt-disable-button = Dezactivează mesajul de conexiune
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
 about-debugging-profiler-dialog-title2 = Generator profil
-# Label of a checkbox displayed in the runtime page for "This Firefox".
-# This checkbox will toggle preferences that enable local addon debugging.
-# The "Learn more" link points to MDN.
-# https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
-about-debugging-extension-debug-setting-label = Activează depanarea extensiilor. <a>Află mai multe</a>
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
