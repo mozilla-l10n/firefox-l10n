@@ -53,6 +53,7 @@ policy-EnableTrackingProtection = تفعيل أو تعطيل حجب المحتو
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = تثبيت أو إزالة أو قفل حالة الامتدادات. يأخذ خيار التثبيت مسارات محلية أو شبكية كمعطيات. يأخذ خياري الإزالة والقفل معرّفات الامتدادات.
+policy-ExtensionSettings = أدِر كل ما يتعلّق بتثبيت الامتدادات.
 policy-ExtensionUpdate = تفعيل/تعطيل تحديث الامتدادات تلقائيًا.
 policy-FirefoxHome = ضبط صفحة المنزل لِفَيَرفُكس.
 policy-FlashPlugin = السماح باستخدام ملحقة فلاش أو منع ذلك.

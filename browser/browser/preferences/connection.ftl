@@ -76,6 +76,8 @@ connection-dns-over-https-url-default =
     .label = استخدم المبدئي ({ $url })
     .accesskey = س
     .tooltiptext = استخدم المسار المبدئي لحلّ DNS عبر HTTPS
+connection-dns-over-https-url-resolver = استعمل المزوّد
+    .accesskey = ع
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =

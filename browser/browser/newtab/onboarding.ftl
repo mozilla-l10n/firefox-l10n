@@ -5,9 +5,22 @@
 
 ## UI strings for the simplified onboarding modal
 
+
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
+
 onboarding-button-label-learn-more = اطّلع على المزيد
 onboarding-button-label-try-now = جرّبه الآن
 onboarding-button-label-get-started = فلنبدأ
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = مرحبًا بك في { -brand-short-name }
 onboarding-welcome-body = وصلك الآن المتصفّح.<br/>اطّلع على بقيّة منتجات { -brand-product-name }.
 onboarding-join-form-header = انضم إلى { -brand-product-name }
@@ -26,6 +39,12 @@ onboarding-benefit-products-title = منتجات مفيدة
 onboarding-benefit-products-text = أنجِز أمورك مستخدما طقما من الأدوات يحترم خصوصيتك على مختلف الأجهزة لديك.
 onboarding-benefit-knowledge-text = اعرف كل ما يلزمك لتكون حذِقًا وآمنًا على شبكة الإنترنت.
 onboarding-benefit-privacy-title = خصوصية حقة
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = كل ما نفعله يحترم ميثاق ”عهدة البيانات الشخصية“: استلم أدنى قدر، أبقِها آمنة ولا أسرار مخفية.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -46,6 +65,7 @@ onboarding-ghostery-text = تصفّح بشكل أسرع، أو ربما أكثر
 onboarding-fxa-title = زامِن
 onboarding-fxa-text = سجّل حساب { -fxaccount-brand-name } وزامن علاماتك وكلمات السر وافتح الألسنة في كل مكان تستخدم { -brand-short-name } فيه.
 onboarding-tracking-protection-title = تحكّم بما تريد أن يتعقّبك
+onboarding-tracking-protection-text = أتنزعج من الإعلانات وهي تسير ورائك في الوِب؟ يساعدك{ -brand-short-name } بالتحكم بالكيفية التي يتعقّبك فيها المعلنون وأنت تجوب الوِب.
 # "Update" is a verb, as in "Update the existing settings", not "Options about
 # updates".
 onboarding-tracking-protection-button =
@@ -53,10 +73,20 @@ onboarding-tracking-protection-button =
         [windows] حدّث الخيارات
        *[other] حدّث التفضيلات
     }
+onboarding-tracking-protection-title2 = الحماية من التعقّب
+onboarding-tracking-protection-text2 = يساعدك { -brand-short-name } بمنع المواقع من تعقّبك في الوِب، ما يصعّب الأمر على الإعلانات بمعرفة ما تفعل وأين تذهب.
 onboarding-data-sync-title = خُذ إعداداتك أينما ذهبت
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = زامِن العلامات وكلمات السر في كل مكان تستخدم فيه { -brand-product-name }.
 onboarding-data-sync-button = فعّل { -sync-brand-short-name }
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = زامِن علاماتك وكلمات السر وغيرها الكثير في أيّ مكان تستخدم فيه { -brand-product-name }.
+onboarding-data-sync-button2 = لِج إلى { -sync-brand-short-name }
+onboarding-browse-privately-title = تصفَّح بخصوصية
+onboarding-browse-privately-text = يمسح التصفح الخاص تأريخ البحث والتصفح ليُبقيه سرًا على أي شخص يستخدم هذا الحاسوب.
+onboarding-browse-privately-button = افتح نافذة خاصة
+onboarding-firefox-send-title = أبقِ ملفاتك التي شاركتها خاصّة
+onboarding-firefox-send-text = يحمي { -send-brand-name } ملفاتك التي شاركته عبر تعمية الطرفين وبرابط ينقضي أجله تلقائيا.
 onboarding-firefox-send-button = جرّب { -send-brand-name }
 onboarding-mobile-phone-title = نزّل { -brand-product-name } على المحمول
 onboarding-mobile-phone-text = نزّل { -brand-product-name } على آي‌أوإس وأندرويد لتُزامن بياناتك عبر مختلف الأجهزة.
