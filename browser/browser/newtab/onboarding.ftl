@@ -65,7 +65,7 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Przeglądaj szybciej, mądrzej i bezpieczniej za pomocą rozszerzeń takich jak Ghostery, umożliwiających blokowanie irytujących reklam.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synchronizacja
-onboarding-fxa-text = Utwórz konto Firefoksa i synchronizuj zakładki, hasła i otwarte karty wszędzie tam, gdzie używasz przeglądarki { -brand-short-name }.
+onboarding-fxa-text = Utwórz { -fxaccount-brand-name(case: "nom", capitalization: "lower") } i synchronizuj zakładki, hasła i otwarte karty wszędzie tam, gdzie używasz przeglądarki { -brand-short-name }.
 onboarding-tracking-protection-title = Kontroluj, jak Cię śledzą
 onboarding-tracking-protection-text = Nie lubisz, kiedy reklamy za Tobą chodzą? { -brand-short-name } pomaga kontrolować, jak reklamodawcy śledzą Twoje działania w Internecie.
 # "Update" is a verb, as in "Update the existing settings", not "Options about
@@ -81,10 +81,10 @@ onboarding-tracking-protection-button2 = Jak to działa
 onboarding-data-sync-title = Twoje ustawienia zawsze przy Tobie
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = Synchronizuj zakładki i hasła wszędzie tam, gdzie używasz przeglądarki { -brand-product-name }.
-onboarding-data-sync-button = Włącz synchronizację
+onboarding-data-sync-button = Włącz { -sync-brand-short-name(case: "acc", capitalization: "lower") }
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Synchronizuj zakładki, hasła i nie tylko wszędzie tam, gdzie używasz przeglądarki { -brand-product-name }.
-onboarding-data-sync-button2 = Zaloguj się do synchronizacji
+onboarding-data-sync-button2 = Zaloguj się do { -sync-brand-short-name(case: "gen", capitalization: "lower") }
 onboarding-firefox-monitor-title = Zachowaj czujność wobec wycieków danych
 onboarding-firefox-monitor-text = { -monitor-brand-name } monitoruje, czy Twój adres e-mail pojawił się w bazach wykradzionych haseł i powiadamia, jeśli pojawi się w nowych.
 onboarding-firefox-monitor-button = Zapisz się po powiadomienia

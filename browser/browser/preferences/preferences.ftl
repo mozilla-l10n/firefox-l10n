@@ -122,9 +122,9 @@ startup-header = Uruchamianie
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Jednoczesne działanie programu { -brand-short-name } oraz programu Firefox
-use-firefox-sync = Podczas jednoczesnego działania wykorzystywane są oddzielne profile. Można wykorzystać synchronizację, aby dzielić dane między nimi.
-get-started-not-logged-in = Zaloguj się, aby synchronizować…
-get-started-configured = Otwórz ustawienia synchronizacji
+use-firefox-sync = Podczas jednoczesnego działania wykorzystywane są oddzielne profile. Można wykorzystać { -sync-brand-short-name(case: "acc", capitalization: "lower") }, aby dzielić dane między nimi.
+get-started-not-logged-in = Zaloguj się do { -sync-brand-short-name(case: "gen", capitalization: "lower") }…
+get-started-configured = Otwórz ustawienia { -sync-brand-short-name(case: "gen", capitalization: "lower") }
 always-check-default =
     .label = Sprawdzanie, czy { -brand-short-name } jest domyślną przeglądarką
     .accesskey = e
