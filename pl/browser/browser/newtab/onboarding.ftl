@@ -22,9 +22,9 @@ onboarding-button-label-get-started = Pierwsze kroki
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Witamy w przeglądarce { -brand-short-name }
-onboarding-welcome-body = Masz już przeglądarkę.<br/>Poznaj resztę Firefoksa.
+onboarding-welcome-body = Masz już przeglądarkę.<br/>Poznaj resztę rodziny { -brand-product-name }.
 onboarding-welcome-learn-more = Więcej informacji o korzyściach.
-onboarding-join-form-header = Dołącz do Firefoksa
+onboarding-join-form-header = Dołącz do { -brand-product-name }
 onboarding-join-form-body = Wpisz swój adres e-mail, aby zacząć.
 onboarding-join-form-email =
     .placeholder = Wpisz adres e-mail

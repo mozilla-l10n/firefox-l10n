@@ -21,4 +21,4 @@ crashed-email-placeholder = Adres e-mail
 crashed-email-me = Powiadom, gdy będzie dostępne więcej informacji
 crashed-report-sent = Raport z awarii został już wysłany. Dziękujemy za pomoc w ulepszaniu programu { -brand-short-name }!
 crashed-request-auto-submit-title = Raportowanie pozostałych kart
-crashed-auto-submit-checkbox = Automatyczne przesyłanie raportów awarii
+crashed-auto-submit-checkbox = Automatyczne przesyłanie raportów awarii programu { -brand-short-name }
