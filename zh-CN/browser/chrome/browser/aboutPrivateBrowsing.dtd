@@ -22,7 +22,7 @@
 <!ENTITY aboutPrivateBrowsing.info.clipboard             "剪贴板内容">
 <!ENTITY aboutPrivateBrowsing.note.before                "隐私浏览模式">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "无法让您">
-<!ENTITY aboutPrivateBrowsing.note.after                 "在互联网上匿名。您的雇主或者网络运营商仍然可以知道您访问了什么页面。">
+<!ENTITY aboutPrivateBrowsing.note.after                 "在互联网上匿名。您的雇主或者电信运营商仍然可以知道您访问了什么页面。">
 <!ENTITY aboutPrivateBrowsing.learnMore3.before          "详细了解">
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "隐私浏览">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           "。">
@@ -37,7 +37,7 @@
                        text for the search box.   -->
 <!ENTITY aboutPrivateBrowsing.search.placeholder         "在网络上搜索">
 <!ENTITY aboutPrivateBrowsing.info.title                 "您已进入隐私窗口">
-<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; 在您退出本程序或关闭所有隐私浏览标签页和窗口时，将清除您的搜索记录与浏览历史。虽然这样做不会使您对网站或网络运营商匿名，但还是可以更简单地让使用此计算机的人无法得知您在网上的活动。">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; 在您退出本程序或关闭所有隐私浏览标签页和窗口时，将清除您的搜索记录与浏览历史。虽然这样做不会使您对网站或电信运营商匿名，但还是可以更简单地让使用此计算机的人无法得知您在网上的活动。">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
 <!ENTITY aboutPrivateBrowsing.info.myths                 "隐私浏览功能的常见误解">
