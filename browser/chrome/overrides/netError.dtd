@@ -51,7 +51,7 @@
 
 <!ENTITY malformedURI.pageTitle "URL invalid">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "Hmm. Adresa nu arată în regulă.">
+<!ENTITY malformedURI.title1 "Hmm. Adresa nu pare să fie în regulă.">
 
 <!ENTITY netInterrupt.title "Conexiunea a fost întreruptă">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">

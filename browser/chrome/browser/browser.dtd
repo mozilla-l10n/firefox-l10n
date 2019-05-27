@@ -485,7 +485,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Afișează mai multe file de pe acest dispozitiv">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showAll.label "Arată-le pe toate">
+<!ENTITY appMenuRemoteTabs.showAll.label "Afișează tot">
 <!ENTITY appMenuRemoteTabs.showAll.tooltip "Afișează toate filele de pe acest dispozitiv">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
@@ -1072,7 +1072,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.reload2.label "Reîncarcă pagina">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
-<!ENTITY pluginNotification.showAll.label "Arată-le pe toate">
+<!ENTITY pluginNotification.showAll.label "Afișează tot">
 <!ENTITY pluginNotification.showAll.accesskey "S">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
