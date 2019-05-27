@@ -26,7 +26,7 @@ sentence. -->
 <!ENTITY  sendTyping.accesskey          "t">
 
 <!ENTITY  chatNotifications.label             "Când mesajele direcționate spre tine ajung:">
-<!ENTITY  desktopChatNotifications.label      "Arată o notificare:">
+<!ENTITY  desktopChatNotifications.label      "Afișează o notificare:">
 <!ENTITY  desktopChatNotifications.accesskey  "c">
 <!ENTITY  completeNotification.label          "cu numele expeditorului și previzualizarea mesajului">
 <!ENTITY  buddyInfoOnly.label                 "doar cu numele expeditorului">
@@ -58,7 +58,7 @@ sentence. -->
 <!ENTITY messageStyleDefaultTheme.label    "Implicită">
 <!ENTITY messageStyleVariant.label         "Variantă:">
 <!ENTITY messageStyleVariant.accesskey     "V">
-<!ENTITY messageStyleShowHeader.label      "Arată antetul">
+<!ENTITY messageStyleShowHeader.label      "Afișează antetul">
 <!ENTITY messageStyleShowHeader.accesskey  "a">
 <!ENTITY messageStyleNoPreview.title       "Nicio previzualizare disponibilă">
 <!ENTITY messageStyleNoPreview.description "Această temă nu este validă sau nu este disponibilă acum (supliment dezactivat, mod-de-siguranță, …).">

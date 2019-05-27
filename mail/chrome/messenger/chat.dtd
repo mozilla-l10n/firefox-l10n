@@ -14,7 +14,7 @@
 <!ENTITY chat.accountWizard.button       "Începe">
 <!ENTITY chat.noConnectedAccount.title             "Conturile tale de chat nu sunt conectate.">
 <!ENTITY chat.noConnectedAccount.description       "Le poți conecta din fereastra de dialog „Stare chat”:">
-<!ENTITY chat.showAccountManager.button       "Arată statusul chatului">
+<!ENTITY chat.showAccountManager.button       "Afișează starea în chat">
 
 <!ENTITY chat.participants             "Participanți:">
 <!ENTITY chat.previousConversations    "Conversații anterioare:">
@@ -34,7 +34,7 @@
 
 <!ENTITY addBuddyButton.label          "Adaugă contact">
 <!ENTITY joinChatButton.label          "Conectează-te la chat">
-<!ENTITY chatAccountsButton.label      "Arată conturile">
+<!ENTITY chatAccountsButton.label      "Afișează conturile">
 
 <!ENTITY status.available          "Disponibil">
 <!ENTITY status.unavailable        "Indisponibil">

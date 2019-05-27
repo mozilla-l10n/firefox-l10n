@@ -19,7 +19,7 @@
 <!ENTITY markAsReadOnSpam.accesskey "M">
 <!ENTITY enableAdaptiveJunkLogging.label "Activează jurnalizarea filtrării adaptive de mesaje nesolicitate">
 <!ENTITY enableAdaptiveJunkLogging.accesskey "e">
-<!ENTITY openJunkLog.label "Arată jurnalul">
+<!ENTITY openJunkLog.label "Afișează jurnalul">
 <!ENTITY openJunkLog.accesskey "A">
 <!ENTITY resetTrainingData.label "Resetează datele de antrenament">
 <!ENTITY resetTrainingData.accesskey "R">

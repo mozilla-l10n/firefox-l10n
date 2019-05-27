@@ -25,7 +25,7 @@
 <!ENTITY hdrArchiveButton1.label "Arhivează">
 <!ENTITY hdrArchiveButton1.tooltip "Arhivează acest mesaj">
 <!ENTITY hdrOpenConversationButton1.label "Conversație">
-<!ENTITY hdrOpenConversationButton1.tooltip "Arată conversația din care provine acest mesaj">
+<!ENTITY hdrOpenConversationButton1.tooltip "Afișează conversația acestui mesaj">
 <!ENTITY hdrSmartReplyButton1.label "Răspuns rapid">
 <!ENTITY hdrReplyButton1.label "Răspunde">
 <!ENTITY hdrReplyButton2.tooltip "Răspunde expeditorului acestui mesaj">
@@ -43,13 +43,13 @@
 <!ENTITY hdrTrashButton1.label "Șterge">
 <!ENTITY hdrTrashButton1.tooltip "Șterge acest mesaj">
 
-<!ENTITY hdrViewToolbarShowFull.label "Arată pictograme și text">
+<!ENTITY hdrViewToolbarShowFull.label "Afișează pictograme și text">
 <!ENTITY hdrViewToolbarShowFull.accesskey "A">
-<!ENTITY hdrViewToolbarShowIcons.label "Arată doar pictograme">
+<!ENTITY hdrViewToolbarShowIcons.label "Afișează doar pictograme">
 <!ENTITY hdrViewToolbarShowIcons.accesskey "i">
-<!ENTITY hdrViewToolbarShowText.label "Arată doar textul">
+<!ENTITY hdrViewToolbarShowText.label "Afișează doar text">
 <!ENTITY hdrViewToolbarShowText.accesskey "t">
-<!ENTITY hdrViewToolbarAlwaysReplySender.label "Arată întotdeauna răspunsul către expeditor">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Afișează întotdeauna răspunsul către expeditor">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
 
 <!ENTITY otherActionsButton2.label "Mai mult">

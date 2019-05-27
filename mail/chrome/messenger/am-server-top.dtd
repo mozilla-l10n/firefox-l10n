@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-server-top.xul -->
-
 <!ENTITY messageStorage.label "Stocare de mesaje">
 <!ENTITY securitySettings.label "Setări de securitate">
 <!ENTITY serverSettings.label "Setările serverului">
@@ -44,7 +42,6 @@
 <!ENTITY deleteOnServer2.accesskey "P">
 <!ENTITY downloadOnBiff.label "Descarcă automat mesajele noi">
 <!ENTITY downloadOnBiff.accesskey "D">
-<!ENTITY username.label "Numele tău de autentificare">
 <!ENTITY deleteMessagePrefix.label "Când șterg un mesaj:">
 <!ENTITY modelMoveToTrash.label "Mută-l în coșul de gunoi">
 <!ENTITY modelMoveToTrash.accesskey "M">
@@ -71,7 +68,7 @@
 <!ENTITY alwaysAuthenticate.accesskey "a">
 <!ENTITY newsrcFilePath.label "Fișier newsrc:">
 <!ENTITY newsrcPicker.label "Selectează fișierul newsrc">
-<!ENTITY abbreviate.label "Arată denumirile grupurilor de discuții în panoul cu dosare de poștă electronică ca:">
+<!ENTITY abbreviate.label "Afișează denumirile grupurilor de discuții în panoul cu dosarele e-mail ca:">
 <!ENTITY abbreviateOn.label "Nume complete (ex: „netscape.public.mozilla.mail-news”)">
 <!ENTITY abbreviateOff.label "Nume abreviate (ex: „n.p.m.mail-news”)">
 <!ENTITY advancedButton.label "Avansat…">
