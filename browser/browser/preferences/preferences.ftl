@@ -113,7 +113,7 @@ search-results-empty-message =
         [windows] Niestety! W opcjach niczego nie odnaleziono dla wyszukiwania „<span data-l10n-name="query"></span>”.
        *[other] Niestety! W preferencjach niczego nie odnaleziono dla wyszukiwania „<span data-l10n-name="query"></span>”.
     }
-search-results-help-link = Potrzebujesz pomocy? Odwiedź <a data-l10n-name="url">witrynę wsparcia</a>.
+search-results-help-link = Potrzebujesz pomocy? Odwiedź <a data-l10n-name="url">pomoc przeglądarki { -brand-short-name }</a>.
 
 ## General Section
 
@@ -151,7 +151,7 @@ warn-on-close-multiple-tabs =
     .label = Ostrzeganie przed zamknięciem wielu kart
     .accesskey = a
 warn-on-open-many-tabs =
-    .label = Ostrzeganie o otwarciu zbyt wielu kart mogących spowolnić program
+    .label = Ostrzeganie o otwarciu zbyt wielu kart mogących spowolnić przeglądarkę { -brand-short-name }
     .accesskey = m
 switch-links-to-new-tabs =
     .label = Przechodzenie do nowych kart otwieranych poprzez odnośniki
@@ -211,11 +211,11 @@ choose-language-description = Wybierz preferowany język, w jakim mają być wy
 choose-button =
     .label = Wybierz…
     .accesskey = e
-choose-browser-language-description = Wybierz język używany do wyświetlania interfejsu użytkownika programu (menu, wiadomości, powiadomienia itp.).
+choose-browser-language-description = Wybierz język używany do wyświetlania interfejsu użytkownika przeglądarki { -brand-short-name } (menu, wiadomości, powiadomienia itp.).
 manage-browser-languages-button =
     .label = Wybierz alternatywne…
     .accesskey = W
-confirm-browser-language-change-description = Uruchom przeglądarkę ponownie, aby zastosować zmiany.
+confirm-browser-language-change-description = Uruchom przeglądarkę { -brand-short-name } ponownie, aby zastosować zmiany.
 confirm-browser-language-change-button = Uruchom ponownie
 translate-web-pages =
     .label = Tłumaczenie stron WWW
@@ -266,13 +266,13 @@ play-drm-content =
     .label = Odtwarzanie treści chronionych przez DRM.
     .accesskey = O
 play-drm-content-learn-more = Więcej informacji
-update-application-title = Aktualizacje
-update-application-description = Utrzymuj program aktualnym dla najlepszej wydajności, stabilności i bezpieczeństwa.
+update-application-title = Aktualizacje przeglądarki { -brand-short-name }
+update-application-description = Utrzymuj przeglądarkę { -brand-short-name } aktualną dla najlepszej wydajności, stabilności i bezpieczeństwa.
 update-application-version = Wersja: { $version }. <a data-l10n-name="learn-more">Informacje o wydaniu</a>.
 update-history =
     .label = Wyświetl historię aktualizacji…
     .accesskey = W
-update-application-allow-description = Zezwalaj na:
+update-application-allow-description = Zezwalaj przeglądarce { -brand-short-name } na:
 update-application-auto =
     .label = automatyczne instalowanie aktualizacji (zalecane)
     .accesskey = a
@@ -408,7 +408,7 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Podpowiedzi wyszukiwania nad historią przeglądania w wynikach paska adresu
-search-suggestions-cant-show = Podpowiedzi wyszukiwania nie będą wyświetlane w podpowiedziach paska adresu, ponieważ wyłączono zachowywanie historii przeglądania.
+search-suggestions-cant-show = Podpowiedzi wyszukiwania nie będą wyświetlane w podpowiedziach paska adresu, ponieważ wyłączono zachowywanie historii przeglądania programu { -brand-short-name }.
 search-one-click-header = Dodatkowe wyszukiwarki
 search-one-click-desc = Wybierz dodatkowe wyszukiwarki wyświetlane na dole wyników wyszukiwania w pasku adresu i pasku wyszukiwania.
 search-choose-engine-column =
