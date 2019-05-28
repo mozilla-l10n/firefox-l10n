@@ -6,7 +6,7 @@
 about-config-warning-title = Cymrwch ofal - dreigiau peryglus!
 about-config-warning-text = Gall newid y gosodiadau uwch hyn wneud niwed i sefydlogrwydd, diogelwch a pherfformiad y rhaglen. Dylech barhau dim ond os ydych yn gwybod beth rydych yn ei wneud.
 about-config-warning-checkbox = Blinwch fi eto, os gwelwch chi'n dda!
-about-config-warning-button = Rwy'n derbyn y perygl
+about-config-warning-button = Rwy'n deall y peryglon
 about-config-title = about:config
 about-config2-title = Ffurfweddiadau Uwch
 about-config-search-input =
