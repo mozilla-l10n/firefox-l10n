@@ -99,13 +99,13 @@ onboarding-mobile-phone-title = Rhoi { -brand-product-name } ar Eich Ffôn
 onboarding-mobile-phone-text = Llwythwch { -brand-product-name } i lawr ar gyfer iOS neu Android a chydweddu eich data ar draws dyfeisiau.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
-onboarding-mobile-phone-button = Llwytho i lawr Porwr Symudol
+onboarding-mobile-phone-button = Llwytho Porwr Symudol i lawr
 onboarding-send-tabs-title = Anfon Tabiau Atoch Chi eich Hun
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Mae Anfon Tabiau yn rhannu tudalennau yn syth rhwng eich dyfeisiau heb orfod copïo, gludo na gadael y porwr.
 onboarding-send-tabs-button = Cychwyn Defnyddio Anfon Tabiau
-onboarding-pocket-anywhere-title = Darllen a Gwrando Unrhyw Le
+onboarding-pocket-anywhere-title = Darllen a Gwrando yn Unrhyw Le
 # "downtime" refers to the user's free/spare time.
 onboarding-pocket-anywhere-text = Mae { -pocket-brand-name } yn cadw eich hoff straeon fel y gallwch ddarllen, gwrando, a gwylio yn ystod eich amser hamdden, hyd yn oed os nad ydych chi ar-lein.
 onboarding-pocket-anywhere-text2 = Cadwch eich hoff gynnwys all-lein gyda'r Ap { -pocket-brand-name } a darllenwch, gwrandewch, a gwyliwch pryd bynnag y mae'n gyfleus i chi.
