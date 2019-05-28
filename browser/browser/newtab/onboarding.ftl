@@ -5,9 +5,22 @@
 
 ## UI strings for the simplified onboarding modal
 
+
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
+
 onboarding-button-label-learn-more = Dalšne informacije
 onboarding-button-label-try-now = Wopytajśo něnto
 onboarding-button-label-get-started = Prědne kšace
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Witajśo k { -brand-short-name }
 onboarding-welcome-body = Maśo wobglědowak.<br/>Póznajśo zbytk { -brand-product-name }.
 onboarding-welcome-learn-more = Dalšne informacije wó lěpšynach.
@@ -24,7 +37,9 @@ onboarding-start-browsing-button-label = Pśeglědowanje startowaś
 ## description.
 
 onboarding-benefit-products-title = Wužytne produkty
+onboarding-benefit-products-text = Gótujśo wěcy z rědami, kótarež wašu priwatnosć na wšych rědach respektěruju.
 onboarding-benefit-knowledge-title = Praktiska wěda
+onboarding-benefit-knowledge-text = Zgóńśo wšykno, což musyśo wěźeś, aby wěcej inteligentny a wěsty online był.
 onboarding-benefit-privacy-title = Napšawdna priwatnosć
 
 ## These strings belong to the individual onboarding messages.
