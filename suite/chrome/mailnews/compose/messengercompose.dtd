@@ -7,7 +7,13 @@
 
 <!ENTITY fromAddr.label "Od:">
 <!ENTITY fromAddr.accesskey "d">
-<!ENTITY subject.label  "Předmět:">
+<!ENTITY toAddr.label "Komu:">
+<!ENTITY ccAddr.label "Kopie:">
+<!ENTITY bccAddr.label "Skrytá kopie:">
+<!ENTITY replyAddr.label "Odpověď:">
+<!ENTITY newsgroupsAddr.label "Diskusní skupina:">
+<!ENTITY followupAddr.label "Sledování:">
+<!ENTITY subject.label "Předmět:">
 <!ENTITY subject.accesskey "M">
 <!ENTITY attachments.label "Přílohy:">
 <!ENTITY attachments.accesskey "p">
@@ -114,12 +120,12 @@
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
 <!ENTITY addressBar.tooltip "Lišta adresování">
 <!ENTITY formatToolbar.tooltip "Lišta úprav">
-<!ENTITY sendButton.tooltip "Odešle tuto zprávu"> 
-<!ENTITY sendlaterButton.tooltip "Odešle tuto zprávu později"> 
-<!ENTITY addressButton.tooltip "Vybere příjemce z kontaktů"> 
-<!ENTITY attachButton.tooltip "Připojí k této zprávě přílohu"> 
-<!ENTITY saveButton.tooltip "Uloží tuto zprávu"> 
-<!ENTITY stopButton.tooltip "Ukončí probíhající spojení"> 
+<!ENTITY sendButton.tooltip "Odešle tuto zprávu">
+<!ENTITY sendlaterButton.tooltip "Odešle tuto zprávu později">
+<!ENTITY addressButton.tooltip "Vybere příjemce z kontaktů">
+<!ENTITY attachButton.tooltip "Připojí k této zprávě přílohu">
+<!ENTITY saveButton.tooltip "Uloží tuto zprávu">
+<!ENTITY stopButton.tooltip "Ukončí probíhající spojení">
 
 <!-- context menu items -->
 <!ENTITY openAttachment.label "Otevřít">
