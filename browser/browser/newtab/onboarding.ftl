@@ -41,6 +41,12 @@ onboarding-benefit-products-text = Gótujśo wěcy z rědami, kótarež wašu pr
 onboarding-benefit-knowledge-title = Praktiska wěda
 onboarding-benefit-knowledge-text = Zgóńśo wšykno, což musyśo wěźeś, aby wěcej inteligentny a wěsty online był.
 onboarding-benefit-privacy-title = Napšawdna priwatnosć
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Wšykno, což cynimy, naše zlubjenje za wósobinske daty dopołnjujo: Mjenjej zběraś. Wěsće składowaś. Žedne pótajmstwa.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -61,6 +67,7 @@ onboarding-ghostery-text = Pśeglědujśo malsnjej, wěcej inteligentnje abo wě
 onboarding-fxa-title = Snychronizěrowaś
 onboarding-fxa-text = Registrěrujśo se za { -fxaccount-brand-name } a synchronizěrujśo swóje cytańske znamjenja, gronidła a wócynjone rejtarki, źožkuli { -brand-short-name } wužywaśo.
 onboarding-tracking-protection-title = Kontrola nad slědowanim online
+onboarding-tracking-protection-text = Njocośo, až wabjenje wam slědujo? { -brand-short-name } wam pomaga kontrolěrowaś, kak wabjece wašym aktiwitam online slěduju.
 # "Update" is a verb, as in "Update the existing settings", not "Options about
 # updates".
 onboarding-tracking-protection-button =
@@ -69,12 +76,20 @@ onboarding-tracking-protection-button =
        *[other] Nastajenja aktualizěrowaś
     }
 onboarding-tracking-protection-title2 = Šćit pśeśiwo slědowanjeju
+onboarding-tracking-protection-text2 = { -brand-short-name } wam pomaga, websedłam zawoboraś, wam online slědowaś, aby za wabjenje śěžčej było, wam pó webje slědowaś.
 onboarding-tracking-protection-button2 = Kak funkcioněrujo
 onboarding-data-sync-title = Wzejśo swóje nastajenja sobu
+# "Sync" is short for synchronize.
+onboarding-data-sync-text = Synchronizěrujśo swóje cytańske znamjenja a gronidła wšuźi, źož { -brand-product-name } wužywaśo.
 onboarding-data-sync-button = { -sync-brand-short-name } zašaltowaś
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Synchronizěrujśo swóje cytańske znamjenja a gronidła a wěcej wšuźi, źož { -brand-product-name } wužywaśo.
 onboarding-data-sync-button2 = Pla { -sync-brand-short-name } pśizjawiś
+onboarding-firefox-monitor-title = Dajśo se pśi datowych źěrach warnowaś
+onboarding-firefox-monitor-text = { -monitor-brand-name } doglědujo, lěc jo se waša e-mailowa adresa južo w datowej źěrje zjawiła a warnujo was, gdyž se w nowej źěrje pokazujo.
 onboarding-firefox-monitor-button = Za powěźeńki registrěrowaś
 onboarding-browse-privately-title = Pśeglědowajśo z priwatnosću
+onboarding-browse-privately-text = Priwatny modus wašu pytańsku a pśeglědowańsku historiju wulašujo, aby jej pśed kuždym zatajił, kótaryž wašo licadło wužywa.
 onboarding-browse-privately-button = Priwatne wokno wócyniś
 onboarding-firefox-send-title = Źaržćo swóje źělone dataje priwatne
 onboarding-firefox-send-button = { -send-brand-name } wopytaś
