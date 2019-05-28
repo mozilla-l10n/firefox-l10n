@@ -92,17 +92,28 @@ onboarding-browse-privately-title = Pśeglědowajśo z priwatnosću
 onboarding-browse-privately-text = Priwatny modus wašu pytańsku a pśeglědowańsku historiju wulašujo, aby jej pśed kuždym zatajił, kótaryž wašo licadło wužywa.
 onboarding-browse-privately-button = Priwatne wokno wócyniś
 onboarding-firefox-send-title = Źaržćo swóje źělone dataje priwatne
+onboarding-firefox-send-text = { -send-brand-name } dataje, kótarež źěliśo, z koděrowanim kóńc do kóńca a z wótkazom, kótaryž awtomatiski spadnjo, šćita.
+onboarding-firefox-send-text2 = Nagrajśo swóje dataje do { -send-brand-name }, aby je z koděrowanim kóńc do kóńca a z wótkazom, kótaryž awtomatiski spadnjo, źělił.
 onboarding-firefox-send-button = { -send-brand-name } wopytaś
 onboarding-mobile-phone-title = Instalěrujśo se { -brand-product-name } na swójom telefonje
+onboarding-mobile-phone-text = Ześěgniśo { -brand-product-name } za iOS abo Android a synchronizěrujśo swóje daty pśez rědy.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Mobilny wobglědowak ześěgnuś
 onboarding-send-tabs-title = Sćelśo něd rejtarki
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Sen Tabs ned boki mjazy wašymi rědami źěli, bźeztogo aby kopěrował, zasajźił abo wobglědowak spušćił.
 onboarding-send-tabs-button = Wužywajśo Send Tabs
 onboarding-pocket-anywhere-title = Cytajśo a słuchajśo wšuźi
+# "downtime" refers to the user's free/spare time.
+onboarding-pocket-anywhere-text = { -pocket-brand-name } waše nejlubše tšojeńka składujo, aby je za pawze cytał, słuchał a se woglědał, samo gaby wy był offline.
+onboarding-pocket-anywhere-text2 = Składujśo swój nejlubše wopśimjeśe offline z nałoženim { -pocket-brand-name } a cytajśo, słuchajśo a woglědajśo, gažkuli se wam góźi.
 onboarding-pocket-anywhere-button = { -pocket-brand-name } wopytaś
 onboarding-lockwise-passwords-title = Wzejśo swóje gronidła wšuźi sobu
+onboarding-lockwise-passwords-text = { -lockwise-brand-name } waše gronidła na wěstem městnje składujo, aby mógał se lažko pla wašych kontow pśizjawiś.
 onboarding-lockwise-passwords-button = { -lockwise-brand-name } wobstaraś
+onboarding-lockwise-passwords-text2 = Źaržćo gronidła, kótarež składujośo, wěste a pśizjawśo se lažko pla swójich kontow z { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Nałoženje wobstaraś
 onboarding-facebook-container-title = Stajśo granice za Facebook
 onboarding-facebook-container-button = Rozšyrjenje pśidaś
