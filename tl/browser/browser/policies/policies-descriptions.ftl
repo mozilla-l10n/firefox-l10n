@@ -19,4 +19,5 @@ policy-DisableFirefoxStudies = Pigilan ang { -brand-short-name } mula sa pagpapa
 policy-DisablePocket = Huwag paganahin ang tampok upang i-save ang mga webpage sa Pocket.
 policy-DisablePrivateBrowsing = Huwag paganahin ang Pribadong Pagba-browse.
 policy-DisableTelemetry = I-off ang Telemetry
+policy-DNSOverHTTPS = Ayusin ang DNS gamit HTTPS.
 policy-Proxy = Ayusin ang proxy settings.

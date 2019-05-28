@@ -5,6 +5,7 @@
 
 ## Column headers
 
+column-type = Uri
 
 ## Special values for the Name column
 
@@ -30,6 +31,7 @@ type-worker = Worker
 ## Variables:
 ##   $value (Number) - How much memory is used
 
+size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 
