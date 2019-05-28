@@ -34,6 +34,7 @@ policies-notice =
         [windows] Su organización deshabilitó la posibilidad de cambiar algunas opciones.
        *[other] Su organización deshabilitó la posibilidad de cambiar algunas perferencias.
     }
+managed-notice = El navegador está siendo administrado por la organización.
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = Privacidad y seguridad
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Cuenta de Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -528,8 +525,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Guardar
     .accesskey = G
-sync-mobilepromo-single = Conectar otro dispositivo
-sync-mobilepromo-multi = Administrar dispositivos
 sync-connect-another-device = Conectar otro dispositivo
 sync-manage-devices = Administrar dispositivos
 sync-fxa-begin-pairing = Conectar un dispositivo
@@ -687,7 +682,6 @@ content-blocking-all-third-party-cookies = Todas las cookies de terceros
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
 content-blocking-warning-title = ¡Atención!
-content-blocking-warning-desc = El bloqueo de cookies y rastreadores puede causar que algunos sitios web fallen. Es fácil deshabilitar el bloqueo para sitios en los que confía.
 content-blocking-warning-description = El bloqueo de contenido puede hacer que algunos sitios web no se carguen correctamente. Es fácil deshabilitar el bloqueo para sitios en los que confía.
 content-blocking-learn-how = Aprender como
 content-blocking-reload-description = Tendrá que volver a cargar las pestañas para aplicar estos cambios.
