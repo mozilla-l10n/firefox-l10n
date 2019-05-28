@@ -5,9 +5,22 @@
 
 ## UI strings for the simplified onboarding modal
 
+
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
+
 onboarding-button-label-learn-more = Dysgu Rhagor
 onboarding-button-label-try-now = Rhowch brawf arno nawr
 onboarding-button-label-get-started = Cychwyn Arni
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Croeso i { -brand-short-name }
 onboarding-welcome-body = Mae'r porwr gyda chi. <br/> Dyma weddill { -brand-product-name }.
 onboarding-welcome-learn-more = Dysgu rhagor am y buddiannau.
@@ -65,7 +78,7 @@ onboarding-tracking-protection-button =
 onboarding-tracking-protection-title2 = Diogelu Rhag Tracio
 onboarding-tracking-protection-text2 = Mae { -brand-short-name } yn helpu i atal gwefannau rhag eich tracio ar-lein, gan ei gwneud yn anos i hysbysebion eich dilyn o gwmpas y we.
 onboarding-tracking-protection-button2 = Sut mae'n Gweithio
-onboarding-data-sync-title = Cymrwch eich Gosodiadau gyda Chi
+onboarding-data-sync-title = Mynd â'ch Gosodiadau gyda Chi
 # "Sync" is short for synchronize.
 onboarding-data-sync-text = Cydweddwch eich nodau tudalen a'ch cyfrineiriau ym mhob man y byddwch yn defnyddio { -brand-product-name }.
 onboarding-data-sync-button = Trowch ymlaen { -sync-brand-short-name }
@@ -74,15 +87,15 @@ onboarding-data-sync-text2 = Cydweddwch eich nodau tudalen, cyfrineiriau, a mwy 
 onboarding-data-sync-button2 = Mewngofnodwch i { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Cadw'n effro i achosion o dor-data
 onboarding-firefox-monitor-text = Mae { -monitor-brand-name } yn monitro os yw eich e-bost wedi ymddangos mewn tor-data ac yn eich rhybuddio os yw'n ymddangos mewn tor-data newydd.
-onboarding-firefox-monitor-button = Cofrestrwch am Rhybuddion
+onboarding-firefox-monitor-button = Cofrestru am Rhybuddion
 onboarding-browse-privately-title = Pori'n Breifat
 onboarding-browse-privately-text = Mae Pori Preifat yn clirio'ch hanes chwilio a phori er mwyn ei gadw'n gyfrinachol rhag unrhyw un sy'n defnyddio'ch cyfrifiadur.
 onboarding-browse-privately-button = Agor Ffenestr Breifat
-onboarding-firefox-send-title = Cadwch eich Ffeiliau a Rennir yn breifat
+onboarding-firefox-send-title = Cadw eich Ffeiliau a Rennir yn breifat
 onboarding-firefox-send-text = Mae { -send-brand-name } yn gwarchod y ffeiliau rydych chi'n eu rhannu gydag amgryptio o'r dechrau i'r diwedd a dolen sy'n dod i ben yn awtomatig.
 onboarding-firefox-send-text2 = Llwythwch eich ffeiliau i fyny i { -send-brand-name } i'w rhannu gydag amgryptio o'r dechrau i'r diwedd a dolen sy'n dod i ben yn awtomatig.
-onboarding-firefox-send-button = Rhowch gynnig ar { -send-brand-name }
-onboarding-mobile-phone-title = Estyn { -brand-product-name } ar Eich Ffôn
+onboarding-firefox-send-button = Rhoi cynnig ar { -send-brand-name }
+onboarding-mobile-phone-title = Rhoi { -brand-product-name } ar Eich Ffôn
 onboarding-mobile-phone-text = Llwythwch { -brand-product-name } i lawr ar gyfer iOS neu Android a chydweddu eich data ar draws dyfeisiau.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
@@ -96,8 +109,8 @@ onboarding-pocket-anywhere-title = Darllen a Gwrando Unrhyw Le
 # "downtime" refers to the user's free/spare time.
 onboarding-pocket-anywhere-text = Mae { -pocket-brand-name } yn cadw eich hoff straeon fel y gallwch ddarllen, gwrando, a gwylio yn ystod eich amser hamdden, hyd yn oed os nad ydych chi ar-lein.
 onboarding-pocket-anywhere-text2 = Cadwch eich hoff gynnwys all-lein gyda'r Ap { -pocket-brand-name } a darllenwch, gwrandewch, a gwyliwch pryd bynnag y mae'n gyfleus i chi.
-onboarding-pocket-anywhere-button = Rhowch gynnig ar { -pocket-brand-name }
-onboarding-lockwise-passwords-title = Cymrwch Eich Cyfrineiriau i Bob Man
+onboarding-pocket-anywhere-button = Rhoi cynnig ar { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Mynd â'ch Cyfrineiriau i Bob Man
 onboarding-lockwise-passwords-text = Mae { -lockwise-brand-name } yn cadw'ch cyfrineiriau mewn man diogel er mwyn i chi allu mewngofnodi yn hawdd i'ch cyfrifon.
 onboarding-lockwise-passwords-button = Estyn { -lockwise-brand-name }
 onboarding-lockwise-passwords-text2 = Cadwch y cyfrineiriau rydych chi'n eu cadw'n ddiogel er mwyn mewngofnodi'n hawdd i'ch cyfrifon gyda { -lockwise-brand-name }.
