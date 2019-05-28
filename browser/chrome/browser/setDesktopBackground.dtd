@@ -8,8 +8,13 @@
 <!ENTITY stretch.label              "ممدّدة">
 <!ENTITY fill.label                 "ملء">
 <!ENTITY fit.label                  "ملائمة">
-<!ENTITY preview.label              "معاينة">
+<!-- LOCALIZATION NOTE (span.label): This refers to the wallpaper "spanning"
+                       multiple monitors when the user has more than one. Only
+                       some of the entire image will be on each monitor.
+                       This should ideally match the wording in Windows' own
+                       Desktop Background settings page. -->
 <!ENTITY color.label                "اللّون:">
 <!ENTITY setDesktopBackground.title "اجعلها خلفيّة سطح المكتب">
 <!ENTITY openDesktopPrefs.label     "افتح تفضيلات سطح المكتب">
 <!ENTITY closeWindow.key            "w">
+<!ENTITY previewUnavailable         "لا معاينة متاحة">
