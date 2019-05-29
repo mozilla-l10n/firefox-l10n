@@ -79,6 +79,7 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Registro decisioni
 graphics-crash-guards-title = Funzioni disattivate da Crash Guard
 graphics-workarounds-title = Soluzioni alternative
+graphics-window-protocol = Protocollo finestra
 place-database-title = Database Places
 place-database-integrity = Integrità
 place-database-verify-integrity = Verifica integrità
