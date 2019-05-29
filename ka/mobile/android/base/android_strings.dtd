@@ -427,7 +427,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_dialog_default "ნაგულისხმევი">
 <!ENTITY pref_dialog_remove "წაშლა">
 <!ENTITY pref_dialog_activitystream_header_content "დამატებითი მასალა">
-<!ENTITY pref_dialog_activitystream_recentBookmarks "ბოლოს ჩანიშნულები">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "ბოლოს ჩანიშნული">
 <!ENTITY pref_dialog_activitystream_visited "მონახულებული">
 
 <!ENTITY pref_search_last_toast "თქვენ არ შეგიძლიათ უკანასკნელი საძიებო სისტემის წაშლა ან გამორთვა.">
