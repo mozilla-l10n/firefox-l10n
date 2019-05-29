@@ -34,7 +34,7 @@ policies-notice =
         [windows] 您的組織已鎖定某些選項。
        *[other] 您的組織已鎖定某些偏好設定。
     }
-managed-notice = 您的瀏覽器是由組織管理。
+managed-notice = 您的瀏覽器受到組織管理。
 pane-general-title = 一般
 category-general =
     .tooltiptext = { pane-general-title }
