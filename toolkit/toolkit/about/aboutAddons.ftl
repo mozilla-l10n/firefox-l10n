@@ -238,7 +238,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Správa klávesových zkratek pro rozšíření
     .accesskey = S
-shortcuts-empty-message = Toto rozšíření nemá žádné klávesové zkratky.
 shortcuts-no-addons = Nemáte povoleno žádné rozšíření.
 shortcuts-no-commands = Následující rozšíření nemají žádné klávesové zkratky:
 shortcuts-input =
@@ -303,6 +302,14 @@ remove-addon-button = Odebrat
 disable-addon-button = Zakázat
 enable-addon-button = Povolit
 expand-addon-button = Další možnosti
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Možnosti
+       *[other] Předvolby
+    }
+details-addon-button = Podrobnosti
+release-notes-addon-button = Poznámky k vydání
+permissions-addon-button = Oprávnění
 addons-enabled-heading = Povoleno
 addons-disabled-heading = Zakázáno
 ask-to-activate-button = Spustit na vyžádání
@@ -353,3 +360,6 @@ addon-detail-private-browsing-allow = Povolit
 addon-detail-private-browsing-disallow = Nepovolit
 available-updates-heading = Dostupné aktualizace
 recent-updates-heading = Aktualizováno
+release-notes-loading = Načítání…
+release-notes-error = Omlouváme se, ale při načítání poznámek k vydání nastala chyba.
+addon-permissions-empty = Toto rozšíření neotřenuje žádná oprávnění.
