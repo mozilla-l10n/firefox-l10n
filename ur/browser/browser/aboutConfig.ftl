@@ -4,6 +4,8 @@
 
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = ختروں سے بچیں!
+about-config-warning-text = ان اعلی درجے کی ترتیبات کو تبدیل کرنے سے اس ایپلیکیشن کی استحکام، سیکورٹی اور کارکردگی کو نقصان پہنچا سکتا ہے. اگر آپ اس بات کا یقین کر رہے ہیں تو آپ کو صرف جاری رکھنا چاہئے.
+about-config-warning-checkbox = مجھے دوبارہ پریشان کرو، براہ کرم!
 about-config-warning-button = مینے خطرہ قبول کیا
 about-config-title = about:config
 about-config-search-input =
