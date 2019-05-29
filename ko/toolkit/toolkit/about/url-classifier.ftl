@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-url-classifier-title = URL Classifier 정보
+url-classifier-title = URL 분류자 정보
 url-classifier-search-title = 검색
 url-classifier-search-result-title = 결과
 url-classifier-search-result-uri = URI: { $uri }
