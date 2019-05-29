@@ -228,7 +228,7 @@ extensions-updates-downloaded =
 extensions-updates-restart =
     .label = 설치를 완료하려면 다시 시작 하십시오.
 extensions-updates-none-found =
-    .value = 최신 업데이트 없음
+    .value = 업데이트 없음
 extensions-updates-manual-updates-found =
     .label = 업데이트 가능 항목 보기
 extensions-updates-update-selected =
@@ -301,6 +301,7 @@ preferences-addon-button =
        *[other] 설정
     }
 details-addon-button = 상세 정보
+release-notes-addon-button = 출시 정보
 permissions-addon-button = 권한
 addons-enabled-heading = 활성화 됨
 addons-disabled-heading = 비활성화 됨
@@ -351,4 +352,5 @@ addon-detail-private-browsing-disallow = 허용하지 않음
 available-updates-heading = 업데이트 가능 항목
 recent-updates-heading = 최근 업데이트
 release-notes-loading = 읽는 중…
+release-notes-error = 죄송합니다. 출시 정보를 읽어오는 중에 오류가 발생했습니다.
 addon-permissions-empty = 이 확장 기능에는 권한이 필요하지 않습니다.

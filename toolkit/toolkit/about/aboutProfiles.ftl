@@ -26,7 +26,7 @@ profiles-rootdir = 루트 디렉터리
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = 로컬 디렉터리
 profiles-current-profile = 이 프로필은 사용 중이므로 삭제할 수 없습니다.
-profiles-in-use-profile = 이 프로파일을 다른 애플리케이션에서 사용하고 있기 때문에 삭제할 수 없습니다.
+profiles-in-use-profile = 이 프로필을 다른 애플리케이션에서 사용하고 있기 때문에 삭제할 수 없습니다.
 profiles-rename = 이름 변경
 profiles-remove = 제거
 profiles-set-as-default = 기본 프로필로 설정
