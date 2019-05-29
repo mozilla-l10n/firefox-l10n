@@ -92,7 +92,7 @@ about-telemetry-results-for-search = შედეგები “{ $searchTerms 
 # Variables:
 #   $sectionName (String): the section name from the structure of the ping.
 #   $currentSearchText (String): the current text in the search input
-about-telemetry-no-search-results = ვწუხვართ! შედეგები “{ $currentSearchText }” ფრაზისთვის არ მოიძებნა { $sectionName }-ში
+about-telemetry-no-search-results = ვწუხვართ! შედეგები „{ $currentSearchText }“ ფრაზისთვის არ მოიძებნა { $sectionName }-ში
 # Variables:
 #   $searchTerms (String): the searched terms
 about-telemetry-no-search-results-all = ვწუხვართ! არცერთ განყოფილებაში არ მოიძებნა შედეგები ფრაზისთვის “{ $searchTerms }”

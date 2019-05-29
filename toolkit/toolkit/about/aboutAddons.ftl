@@ -144,7 +144,7 @@ addon-restart-now =
     .label = ხელახლა გაშვება
 disabled-unsigned-heading =
     .value = ზოგიერთი დამატება გამორთულია
-disabled-unsigned-description = ეს დამატებები არაა დამოწმებული { -brand-short-name }-ში გამოსაყენებლად. თქვენ შეგიძლიათ <label data-l10n-name="find-addons">მონახოთ შემცვლელები</label> ან სთხოვოთ შემქმნელს მათი დამოწმება.
+disabled-unsigned-description = ეს დამატებები დაუმოწმებელია და { -brand-short-name } ვერ გამოიყენებს. შეგიძლიათ <label data-l10n-name="find-addons">მონახოთ შემცვლელები</label> ან სთხოვოთ შემქმნელს მათი დამოწმება.
 disabled-unsigned-learn-more = შეიტყვეთ მეტი ჩვენი ძალისხმევის შესახებ, ინტერნეტში თქვენი უსაფრთხოების დაცვისთვის.
 disabled-unsigned-devinfo = შემმუშავებლებს, რომელთაც თავიანთი დამატებების დამოწმება სურთ, შეუძლიათ განაგრძონ ჩვენი <label data-l10n-name="learn-more">სახელმძღვანელოს კითხვა</label>.
 plugin-deprecation-description = რამეს ვერ პოულობთ? { -brand-short-name } აღარ იძლევა ზოგიერთი მოდულის გამოყენების შესაძლებლობას. <label data-l10n-name="learn-more">იხილეთ ვრცლად.</label>
