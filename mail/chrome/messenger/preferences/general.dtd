@@ -38,3 +38,7 @@
 <!ENTITY browse.accesskey                 "P">
 
 <!ENTITY defaultSearchEngine.label        "Predvolený vyhľadávací modul">
+<!ENTITY addSearchEngine.label            "Pridať zo súboru">
+<!ENTITY addSearchEngine.accesskey        "r">
+<!ENTITY removeSearchEngine.label         "Odstrániť">
+<!ENTITY removeSearchEngine.accesskey     "i">
