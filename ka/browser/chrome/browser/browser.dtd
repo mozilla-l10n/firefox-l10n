@@ -281,7 +281,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY addCurPagesCmd.label "ყველა ჩანართის ჩანიშვნა...">
 <!ENTITY showAllBookmarks2.label "ყველა სანიშნის ჩვენება">
-<!ENTITY recentBookmarks.label "ბოლოს ჩანიშნულები">
+<!ENTITY recentBookmarks.label "ბოლოს ჩანიშნული">
 <!ENTITY otherBookmarksCmd.label "სხვა სანიშნები">
 <!ENTITY mobileBookmarksCmd.label "მობილურის სანიშნები">
 <!ENTITY bookmarksToolbarChevron.tooltip "სხვა სანიშნების გამოჩენაც">
