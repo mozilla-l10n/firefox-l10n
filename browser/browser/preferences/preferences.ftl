@@ -339,10 +339,10 @@ browsing-search-on-start-typing =
     .label = Cerca nel testo quando si digita qualcosa
     .accesskey = e
 browsing-cfr-recommendations =
-    .label = Suggerisci estensioni durante la navigazione
-    .accesskey = S
+    .label = Consiglia estensioni durante la navigazione
+    .accesskey = C
 browsing-cfr-features =
-    .label = Suggerisci funzioni durante la navigazione
+    .label = Consiglia funzioni durante la navigazione
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Ulteriori informazioni
 
