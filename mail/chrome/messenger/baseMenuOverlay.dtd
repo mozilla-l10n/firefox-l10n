@@ -9,6 +9,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Pomocník">
 <!ENTITY helpMenuWin.accesskey "P">
+<!ENTITY aboutProduct2.label "O aplikácii &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey "O">
 <!ENTITY helpTroubleshootingInfo.label     "Informácie pre riešenie problémov">
 <!ENTITY helpTroubleshootingInfo.accesskey "c">
 <!ENTITY helpSafeMode.label     "Reštartovať a zakázať doplnky…">
@@ -20,9 +22,29 @@
 <!ENTITY openHelp.label "Obsah pomocníka">
 <!ENTITY openHelp.accesskey "O">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac2.label "Pomocník programu &brandFullName;">
+<!ENTITY openHelpMac2.label "Pomocník aplikácie &brandFullName;">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
 <!ENTITY aboutMenuCmd2.label "O aplikácii &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "m">
+<!ENTITY productHelp.label "Pomocník aplikácie &brandShortName;">
+<!ENTITY productHelp.accesskey "P">
+<!ENTITY productHelp.commandkey "VK_F1">
+<!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "accel">
+
+<!ENTITY helpKeyboardShortcuts.label "Klávesové skratky">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
+
+<!ENTITY helpFeedbackPage.label "Odoslať spätnú väzbu…">
+<!ENTITY helpFeedbackPage.accesskey "O">
+
+<!ENTITY helpShowTour2.label "Prehliadka aplikácie &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey "a">
+
+<!ENTITY helpGetInvolvedPage.label "Zapojte sa">
+<!ENTITY helpGetInvolvedPage.accesskey "Z">
+
+<!ENTITY helpDonationsPage.label "Prispejte">
+<!ENTITY helpDonationsPage.accesskey "P">
