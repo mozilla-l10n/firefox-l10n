@@ -25,7 +25,7 @@ update-restarting = ეშვება ხელახლა…
 channel-description = თქვენ ამჟამად იყენებთ განახლების <label data-l10n-name="current-channel"></label>-არხს.
 warningDesc-version = { -brand-short-name } საცდელია და შესაძლოა არამდგრადი იყოს.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> არის <label data-l10n-name="community-exp-creditsLink">საერთაშორისო ერთობა</label>, რომელიც მუშაობს იმისთვის, რომ ინტერნეტი დარჩეს გახსნილი, საჯარო და საყოველთაოდ ხელმისაწვდომი.
-community-2 = { -brand-short-name }, რომელსაც ქმნის <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, <label data-l10n-name="community-creditsLink">საერთაშორისო ერთობასთან</label> თანამშრომლობით, არის იმ ძალისხმევის ნაწილი, რომელიც მიმართულია ინტერნეტის გახსნილობის, საჯაროობისა და საყოველთაო ხელმისაწვდომის შესანარჩუნებლად.
+community-2 = { -brand-short-name }, შექმნილი <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>-ს მიერ, <label data-l10n-name="community-creditsLink">საერთაშორისო ერთობასთან</label> თანამშრომლობით, არის იმ ძალისხმევის ნაწილი, რომელიც მიმართულია ინტერნეტის გახსნილობის, საჯაროობისა და საყოველთაო ხელმისაწვდომის შესანარჩუნებლად.
 helpus = გსურთ დახმარება? <label data-l10n-name="helpus-donateLink">გააკეთეთ შემოწირულება</label> ან <label data-l10n-name="helpus-getInvolvedLink">შემოგვიერთდით!</label>
 bottomLinks-license = ლიცენზირების შესახებ
 bottomLinks-rights = მომხმარებლის უფლებები
