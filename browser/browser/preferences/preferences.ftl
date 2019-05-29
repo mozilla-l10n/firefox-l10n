@@ -78,25 +78,25 @@ restart-later = Ailgychwyn Rhywbryd Eto
 
 # This string is shown to notify the user that their home page
 # is being controlled by an extension.
-extension-controlled-homepage-override = Mae estyniad, <img data-l10n-name="icon"/> { $name }, yn rheoli eich tudalen cartref.
+extension-controlled-homepage-override = Mae estyniad <img data-l10n-name="icon"/> { $name }, yn rheoli eich tudalen cartref.
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
-extension-controlled-new-tab-url = Mae estyniad, <img data-l10n-name="icon"/> { $name }, yn rheoli eich tudalen Tab Newydd.
+extension-controlled-new-tab-url = Mae estyniad <img data-l10n-name="icon"/> { $name }, yn rheoli eich tudalen Tab Newydd.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
-extension-controlled-web-notifications = Mae estyniad, <img data-l10n-name="icon"/> { $name }, yn rheoli'r gosodiad hwn.
+extension-controlled-web-notifications = Mae estyniad <img data-l10n-name="icon"/> { $name }, yn rheoli'r gosodiad hwn.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
-extension-controlled-default-search = Mae'r estyniad, <img data-l10n-name="icon"/> { $name }, wedi gosod eich peiriant chwilio ragosodedig.
+extension-controlled-default-search = Mae'r estyniad <img data-l10n-name="icon"/> { $name }, wedi gosod eich peiriant chwilio ragosodedig.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlled-privacy-containers = Mae estyniad, <img data-l10n-name="icon"/> { $name }, angen Tabiau Cynhwysydd.
+extension-controlled-privacy-containers = Mae estyniad <img data-l10n-name="icon"/> { $name }, angen Tabiau Cynhwysydd.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
-extension-controlled-websites-content-blocking-all-trackers = Mae estyniad, <img data-l10n-name="icon"/> { $name }, yn rheoli'r gosodiad hwn.
+extension-controlled-websites-content-blocking-all-trackers = Mae estyniad <img data-l10n-name="icon"/> { $name }, yn rheoli'r gosodiad hwn.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
-extension-controlled-proxy-config = Mae estyniad, <img data-l10n-name="icon"/> { $name }, yn rheoli sut mae { -brand-short-name } yn cysylltu â'r rhyngrwyd.
+extension-controlled-proxy-config = Mae estyniad <img data-l10n-name="icon"/> { $name }, yn rheoli sut mae { -brand-short-name } yn cysylltu â'r rhyngrwyd.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -134,7 +134,7 @@ set-as-my-default-browser =
     .label = Gwneud yn Ragosodedig…
     .accesskey = R
 startup-restore-previous-session =
-    .label = Adfer sesiwn flaenorol
+    .label = Adfer y sesiwn flaenorol
     .accesskey = A
 startup-restore-warn-on-quit =
     .label = Rhybuddio wrth adael y porwr
@@ -145,7 +145,7 @@ ctrl-tab-recently-used-order =
     .label = Mae Ctrl+Tab yn cylchdroi drwy dabiau yn y drefn y'u defnyddiwyd yn ddiweddar
     .accesskey = T
 open-new-link-as-tabs =
-    .label = Agor dolenni mewn tabiau yn lle mewn ffenestri newydd
+    .label = Agor dolenni mewn tabiau ac nid mewn ffenestri newydd
     .accesskey = f
 warn-on-close-multiple-tabs =
     .label = Rhybuddio wrth gau mwy nag un tab
@@ -216,7 +216,7 @@ colors-settings =
     .label = Lliwiau…
     .accesskey = i
 language-header = Iaith
-choose-language-description = Dewis eich iaith ar gyfer dangos tudalennau
+choose-language-description = Dewis eich dewis iaith i ddangos tudalennau
 choose-button =
     .label = Dewis…
     .accesskey = D
@@ -276,7 +276,7 @@ play-drm-content =
     .accesskey = C
 play-drm-content-learn-more = Dysgu rhagor
 update-application-title = Diweddariadau { -brand-short-name }
-update-application-description = Cadw { -brand-short-name } yn gyfredol ar gyfer y perfformiad, sefydlogrwydd a diogelwch gorau.
+update-application-description = Cadw { -brand-short-name } yn gyfredol am y perfformiad, y sefydlogrwydd a'r diogelwch gorau.
 update-application-version = Fersiwn { $version } <a data-l10n-name="learn-more">Beth sy'n newydd</a>
 update-history =
     .label = Dangos Hanes Diweddaru…
@@ -291,7 +291,7 @@ update-application-check-choose =
 update-application-manual =
     .label = Byth gwirio am ddiweddariadau (ddim yn argymell)
     .accesskey = B
-update-application-warning-cross-user-setting = Bydd y gosodiad hwn yn berthnasol i bob cyfrif Windows a { -brand-short-name } proffiliau sy'n ddefnyddio'r gosodiad hwn o { -brand-short-name }.
+update-application-warning-cross-user-setting = Bydd y gosodiad hwn yn berthnasol i bob cyfrif Windows a proffiliau { -brand-short-name } sy'n ddefnyddio'r gosodiad { -brand-short-name } hwn.
 update-application-use-service =
     .label = Defnyddio gwasanaethau cefndirol i osod diweddariadau
     .accesskey = c
@@ -500,7 +500,7 @@ sync-engine-history =
     .label = Hanes
     .accesskey = H
 sync-engine-tabs =
-    .label = Agor Tabiau
+    .label = Agor tabiau
     .tooltiptext = Rhestr o'r hyn sydd ar agor ar bob dyfais wedi eu cydweddu
     .accesskey = T
 sync-engine-logins =
@@ -659,7 +659,7 @@ addressbar-locbar-bookmarks-option =
     .label = Nodau Tudalen
     .accesskey = N
 addressbar-locbar-openpage-option =
-    .label = Tabiau ar agor
+    .label = Tabiau agored
     .accesskey = T
 addressbar-suggestions-settings = Newid dewisiadau am awgrymiadau peiriannau chwilio
 
