@@ -32,6 +32,7 @@
 <!ENTITY productHelp.accesskey "H">
 <!ENTITY productHelp.commandkey "VK_F1">
 <!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "accel">
 
 <!ENTITY helpKeyboardShortcuts.label "키보드 단축키">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
@@ -39,6 +40,7 @@
 <!ENTITY helpFeedbackPage.label "의견 보내기…">
 <!ENTITY helpFeedbackPage.accesskey "S">
 
+<!ENTITY helpShowTour2.label "&brandShorterName; 둘러보기">
 <!ENTITY helpShowTour2.accesskey "o">
 
 <!ENTITY helpGetInvolvedPage.label "참여하기">
