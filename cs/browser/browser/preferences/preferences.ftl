@@ -34,6 +34,7 @@ policies-notice =
         [windows] Vaše organizace zakázala změny některých možností.
        *[other] Vaše organizace zakázala změny některých předvoleb.
     }
+managed-notice = Tento prohlížeč je spravován vaší organizací.
 pane-general-title = Obecné
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = Soukromí a zabezpečení
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Účet Firefoxu
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -535,8 +532,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Uložit
     .accesskey = l
-sync-mobilepromo-single = Připojit další zařízení
-sync-mobilepromo-multi = Spravovat zařízení
 sync-connect-another-device = Připojit další zařízení
 sync-manage-devices = Správa zařízení
 sync-fxa-begin-pairing = Připojit zařízení
@@ -694,7 +689,6 @@ content-blocking-all-third-party-cookies = Všechny cookies třetích stran blok
 content-blocking-cryptominers = Těžbu kryptoměn
 content-blocking-fingerprinters = Vytváření otisku prohlížeče
 content-blocking-warning-title = Pozor!
-content-blocking-warning-desc = Blokování cookies a sledovacích prvků může omezit fungování některých stránek. Pro stránky, kterým důvěřujete, ale můžete blokování snadno vypnout.
 content-blocking-warning-description = Blokování obsahu může omezit fungování některých stránek. Pro stránky, kterým důvěřujete, ho můžete snadno vypnout.
 content-blocking-learn-how = Jak na to?
 content-blocking-reload-description = Aby se změny projevily, obnovte vaše panely.
