@@ -10,6 +10,8 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = Définir les stratégies auxquelles les WebExtensions peuvent accéder par chrome.storage.managed.
+policy-AppUpdateURL = Définir une URL personnalisée pour la mise à jour de l’application.
 policy-Authentication = Configurer l’authentification intégrée pour les sites web qui la prennent en charge.
 policy-BlockAboutAddons = Bloquer l’accès au gestionnaire de modules complémentaires (about:addons).
 policy-BlockAboutConfig = Bloquer l’accès à la page about:config.
@@ -45,3 +47,16 @@ policy-InstallAddonsPermission = Autoriser certains sites web à installer des m
 policy-LocalFileLinks = Autoriser des sites web spécifiques à créer des liens vers des fichiers locaux.
 policy-NetworkPrediction = Activer ou désactiver la prédiction réseau (prélecture DNS).
 policy-OfferToSaveLogins = Appliquer les paramètres qui permettent à { -brand-short-name } de se souvenir des identifiants et des mots de passe enregistrés. Les valeurs true et false sont toutes deux acceptées.
+policy-Preferences = Définir et verrouiller la valeur pour un sous-ensemble de préférences.
+policy-PromptForDownloadLocation = Demander où sauvegarder les fichiers lors du téléchargement.
+policy-Proxy = Configurer les paramètres de proxy.
+policy-RequestedLocales = Définir la liste des locales demandées par l’application, dans l’ordre de préférence.
+policy-SanitizeOnShutdown2 = Effacer les données de navigation à la fermeture.
+policy-SearchEngines = Configurer les paramètres du moteur de recherche. Cette propriété n’est disponible que sur la version Extended Support Release (ESR).
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Installer des modules PKCS #11.
+policy-SSLVersionMax = Définir la version SSL maximale.
+policy-SSLVersionMin = Définir la version SSL minimale.
+policy-SupportMenu = Ajoute une entrée personnalisée au menu d’aide pour l’assistance.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Bloquer l’accès à des sites web. Voir la documentation pour plus de détails sur le format.
