@@ -293,7 +293,7 @@ created-by-author = შემქმნელი <a data-l10n-name="author">{ $au
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
 user-count = მომხმარებლები: { $dailyUsers }
-install-extension-button = დაემატოს { -brand-product-name }-ს
+install-extension-button = დაემატოს { -brand-product-name }
 install-theme-button = თემის ჩადგმა
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
