@@ -286,10 +286,15 @@ update-enable-search-update =
     .label = Aggiorna automaticamente i motori di ricerca
     .accesskey = M
 update-pref-write-failure-title = Errore di scrittura
+update-setting-write-failure-title = Errore durante il salvataggio delle preferenze
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Errore durante il salvataggio della preferenza. Impossibile scrivere il file: { $path }
 
+update-setting-write-failure-message =
+    Si è verificato un errore e questa modifica non è stata salvata. Per aggiornare le preferenze è necessario avere i permessi di scrittura sul file indicato in seguito. Dovrebbe essere possibile correggere il problema assegnando al gruppo Utenti il pieno controllo di questo file.
+
+    Impossibile scrivere il file: { $path }
 update-in-progress-title = Aggiornamento in corso
 update-in-progress-message = Consentire a { -brand-short-name } di completare l’aggiornamento?
 update-in-progress-ok-button = I&nterrompi
