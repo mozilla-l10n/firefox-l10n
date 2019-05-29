@@ -19,14 +19,31 @@
 <!ENTITY releaseCmd2.accesskey "I">
 <!ENTITY whatsNewCmd.label "Kio estas nova">
 <!ENTITY whatsNewCmd.accesskey "n">
-<!ENTITY openHelp.label "Help Contents">
+<!ENTITY openHelp.label "Helpo por Thunderbird">
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelpMac2.label "Helpo por &brandFullName;">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
+<!ENTITY aboutMenuCmd2.label "Pri &brandFullName;">
+<!ENTITY aboutMenuCmd2.accesskey "P">
+<!ENTITY productHelp.label "Helpo por &brandShortName;">
+<!ENTITY productHelp.accesskey "H">
+<!ENTITY productHelp.commandkey "VK_F1">
+<!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "accel">
 
+<!ENTITY helpKeyboardShortcuts.label "Alirklavoj">
+<!ENTITY helpKeyboardShortcuts.accesskey "A">
 
+<!ENTITY helpFeedbackPage.label "Sendi opinion…">
+<!ENTITY helpFeedbackPage.accesskey "o">
 
+<!ENTITY helpShowTour2.label "Prezento de &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey "e">
 
+<!ENTITY helpGetInvolvedPage.label "Partopreni">
+<!ENTITY helpGetInvolvedPage.accesskey "i">
 
+<!ENTITY helpDonationsPage.label "Donaci">
