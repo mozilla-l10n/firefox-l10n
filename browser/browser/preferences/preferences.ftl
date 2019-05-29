@@ -680,7 +680,7 @@ content-blocking-unvisited-cookies = Cookies de sites não visitados
 content-blocking-all-windows-trackers = Rastreadores conhecidos, em todas as janelas
 content-blocking-all-third-party-cookies = Todos os cookies de terceiros
 content-blocking-cryptominers = Criptomineradores
-content-blocking-fingerprinters = Fingerprinters (rastreadores de "impressões digitais")
+content-blocking-fingerprinters = Fingerprinters (rastreadores de identidade digital)
 content-blocking-warning-title = Atenção!
 content-blocking-warning-description = O bloqueio de conteúdo pode fazer alguns sites não funcionarem direito. É fácil desativar o bloqueio em sites que você confia.
 content-blocking-learn-how = Saiba como
@@ -710,7 +710,7 @@ content-blocking-cryptominers-label =
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Fingerprinters (rastreadores de "impressões digitais")
+    .label = Fingerprinters (rastreadores de identidade digital)
     .accesskey = F
 
 ## Privacy Section - Tracking
