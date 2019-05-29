@@ -15,6 +15,7 @@ about-telemetry-option-group-older = Antaŭe
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Datumoj de telemezuro
+about-telemetry-current-store = Nuna konservejo:
 about-telemetry-more-information = Ĉu vi serĉas pli da informo?
 about-telemetry-firefox-data-doc = La <a data-l10n-name="data-doc-link">dokumentaro pri datumoj de Firefox</a> enhavas gvidilojn pri la maniero labori per niaj datumaj iloj.
 about-telemetry-telemetry-client-doc = La <a data-l10n-name="client-doc-link">dokumentaro pri klientoj de Telemezuro de Firefox</a> enhavas difinojn por konceptoj, dokumentaron de API kaj datumaj referencoj.

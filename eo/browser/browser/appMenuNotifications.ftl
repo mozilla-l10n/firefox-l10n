@@ -24,6 +24,7 @@ appmenu-update-unsupported =
     .buttonaccesskey = P
     .secondarybuttonlabel = Fermi
     .secondarybuttonaccesskey = F
+appmenu-update-unsupported-message = La lasta versio de { -brand-shorter-name } ne estas subtenata en via sistemo.
 appmenu-update-restart =
     .label = Restartigu por ĝisdatigi { -brand-shorter-name }.
     .buttonlabel = Restarti kaj restarigi
