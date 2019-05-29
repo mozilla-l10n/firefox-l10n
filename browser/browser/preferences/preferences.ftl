@@ -34,6 +34,7 @@ policies-notice =
         [windows] Via organizaĵo malŝaltis la eblon ŝanĝi kelkajn elekteblojn.
        *[other] Via organizaĵo malŝaltis la eblon ŝanĝi kelkajn preferojn.
     }
+managed-notice = Via retumilo estas administrata de via organizo.
 pane-general-title = Ĉefaj
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = Privateco kaj sekureco
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Konto de Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -528,8 +525,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Konservi
     .accesskey = K
-sync-mobilepromo-single = Konekti alian aparaton
-sync-mobilepromo-multi = Administri aparatojn
 sync-connect-another-device = Konekti alian aparaton
 sync-manage-devices = Administri aparatojn
 sync-fxa-begin-pairing = Asocii aparaton
@@ -687,7 +682,6 @@ content-blocking-all-third-party-cookies = Ĉiuj nerektaj kuketoj
 content-blocking-cryptominers = Miniloj de ĉifromono
 content-blocking-fingerprinters = Identigiloj de ciferecaj spuroj
 content-blocking-warning-title = Atentu!
-content-blocking-warning-desc = La blokado de kuketoj kaj spuriloj povas misfunkciigi kelkajn retejojn. Estas facile malaktivigi la blokadon por tiuj retejoj, kiujn vi fidas.
 content-blocking-warning-description = La blokado de enhavo povas misfunkciigi kelkajn retejojn. Estas facile malaktivigi la blokadon por retejoj, kiujn vi fidas.
 content-blocking-learn-how = Pli da informo
 content-blocking-reload-description = Vi bezonos reŝargi viajn langetojn por apliki tiujn ĉi ŝanĝojn.
