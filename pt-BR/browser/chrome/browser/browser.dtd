@@ -1045,8 +1045,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cryptominers.label "Criptomineradores">
 <!ENTITY contentBlocking.cryptominersView.label "Criptomineradores">
 
-<!ENTITY contentBlocking.fingerprinters.label 'Fingerprinters (rastreadores de "impressões digitais")'>
-<!ENTITY contentBlocking.fingerprintersView.label 'Fingerprinters (rastreadores de "impressões digitais")'>
+<!ENTITY contentBlocking.fingerprinters.label "Fingerprinters (rastreadores de identidade digital)">
+<!ENTITY contentBlocking.fingerprintersView.label "Fingerprinters (rastreadores de identidade digital)">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Reportar um problema">
 <!ENTITY contentBlocking.breakageReportView.label "Reportar problemas">
