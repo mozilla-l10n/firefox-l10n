@@ -31,9 +31,10 @@ search-input-box =
         }
 policies-notice =
     { PLATFORM() ->
-        [windows] 기관에서 몇몇 옵션을 바꿀 수 없게 하였습니다.
-       *[other] 기관에서 몇몇 설정을 바꿀 수 없게 하였습니다.
+        [windows] 속한 회사나 단체에서 몇몇 옵션을 바꿀 수 없게 하였습니다.
+       *[other] 속한 회사나 단체에서 몇몇 설정을 바꿀 수 없게 하였습니다.
     }
+managed-notice = 속한 회사나 단체에서 브라우저를 관리하고 있습니다.
 pane-general-title = 일반
 category-general =
     .tooltiptext = { pane-general-title }
@@ -266,7 +267,7 @@ update-application-check-choose =
 update-application-manual =
     .label = 업데이트 확인 안함(권장하지 않음)
     .accesskey = N
-update-application-warning-cross-user-setting = 이 설정은 이 { -brand-short-name } 설치를 사용하는 모든 윈도우즈 계정 및 { -brand-short-name } 프로파일에 적용됩니다.
+update-application-warning-cross-user-setting = 이 설정은 이 { -brand-short-name } 설치를 사용하는 모든 윈도우즈 계정 및 { -brand-short-name } 프로필에 적용됩니다.
 update-application-use-service =
     .label = 업데이트 설치 시 백그라운드 작업으로 하기
     .accesskey = b
