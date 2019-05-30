@@ -3,3 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY joinChatWindow.title           "Tham gia trò chuyện">
+<!ENTITY name.label                     "Phòng">
+<!ENTITY optional.label                 "(không bắt buộc)">
+<!ENTITY account.label                  "Tài khoản">
+<!ENTITY autojoin.label                 "Tự động tham gia phòng trò chuyện này">
+<!ENTITY autojoin.accesskey             "A">

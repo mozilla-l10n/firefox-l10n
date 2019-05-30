@@ -100,7 +100,7 @@
 <!ENTITY update.downloading.start   "Đang tải bản cập nhật — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "Đang áp dụng bản cập nhật…">
+<!ENTITY update.applying            "Đang cài đặt cập nhật…">
 <!ENTITY update.restarting          "Đang khởi động lại…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
