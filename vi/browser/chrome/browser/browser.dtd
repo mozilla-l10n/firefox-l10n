@@ -1053,7 +1053,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "Chặn nội dung có thể gây ra sự cố với một số trang web. Khi bạn báo cáo sự cố, bạn sẽ giúp tạo &brandShortName; tốt hơn cho mọi người. (Thao tác này sẽ gửi URL cũng như thông tin về cài đặt trình duyệt của bạn tới Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Tìm hiểu thêm">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
-<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Những lỗi bạn đã gặp phải là gì? (Không bắt buộc)">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Những lỗi bạn đã gặp phải là gì? (không bắt buộc)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Gửi báo cáo">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Hủy bỏ">
 
