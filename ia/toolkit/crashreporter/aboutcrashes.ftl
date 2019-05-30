@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
 crash-reports-title = Reportos de collapso
-clear-all-reports-label = Remover tote le reportos
-delete-button-label = Clarar toto
+delete-button-label = Eliminar toto
 delete-confirm-title = Es tu secur?
-delete-confirm-description = Isto delera tote le reportos e essera irreversibile.
 delete-unsubmitted-description = Isto delera tote le reportos de crash non inviate e non potera ser disfacite.
 delete-submitted-description = Isto removera le lista del reportos de crash inviate, ma non delera le datos inviate. Isto non potera plus esser disfacite.
 crashes-unsubmitted-label = Reportos de collapso non submittite

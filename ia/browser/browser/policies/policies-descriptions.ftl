@@ -85,4 +85,4 @@ policy-SSLVersionMax = Stabilir le version SSL maxime.
 policy-SSLVersionMin = Stabilir le version SSL minime.
 policy-SupportMenu = Adder un selection de supporto personalisate al menu de adjuta.
 # “format” refers to the format used for the value of this policy.
-policy-WebsiteFilter = Blocar de ser visitate sitos web. Vider documentation pro altere detalios sur le formato.
+policy-WebsiteFilter = Blocar le accesso a sitos web. Vider documentation pro plus detalios sur le formato.
