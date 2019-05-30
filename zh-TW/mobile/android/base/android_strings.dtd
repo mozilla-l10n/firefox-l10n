@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "從結束的地方繼續。">
 <!ENTITY firstrun_sync_subtext2 "使用 Sync 來尋找您在任何裝置中，儲存到 &brandShortName; 的書籤、密碼，還有更多東西。">
 <!ENTITY newfirstrun_sync_subtext "將您在行動裝置存下的東西私密而安全地同步到 Firefox 桌面版。">
+<!ENTITY updatednewfirstrun_sync_subtext "請登入您的帳號，發揮 &brandShortName; 的最大威力">
 <!ENTITY firstrun_signin_message "開始連線使用">
 <!ENTITY firstrun_signin_button "登入至 Sync">
 <!ENTITY newfirstrun_signin_button "開啟同步">
+<!ENTITY updatednewfirstrun_signin_button "登入 &brandShortName;">
 <!ENTITY  onboard_start_button_browser "開始瀏覽">
 <!ENTITY firstrun_button_notnow "現在不要">
 <!ENTITY firstrun_button_next "下一步">
@@ -413,8 +415,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "下載項目">
 <!ENTITY pref_private_data_syncedTabs "同步的分頁">
 
-<!ENTITY pref_default_browser "設為預設瀏覽器">
-
 <!ENTITY pref_default_browser2 "將 &brandShortName; 設為您的預設瀏覽器">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -679,6 +679,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "選擇或錄製一段聲音檔">
 <!ENTITY filepicker_image_title "選擇或拍攝一張照片">
 <!ENTITY filepicker_video_title "選擇或錄製一段影片">
+
+<!ENTITY filepicker_permission_denied "未取得必需權限，改用系統檔案選擇器。">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "您已連線到">
