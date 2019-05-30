@@ -296,6 +296,13 @@ update-pref-write-failure-title = Pisanski zmylk
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Nastajenje njeda so składować. Njebě móžno, do dataje pisać: { $path }
+update-setting-write-failure-title = Zmylk při składowanju aktualizowanskich nastajenjow
+update-in-progress-title = Aktualizacija běži
+update-in-progress-message = Chceće, zo { -brand-short-name } z tutej aktualizaciju pokročuje?
+update-in-progress-ok-button = ˛&Zaćisnyć
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Dale
 
 ## General Section - Performance
 
