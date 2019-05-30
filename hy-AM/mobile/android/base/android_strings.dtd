@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Բարի գալուստ">
 <!ENTITY firstrun_urlbar_message2 "Շնորհակալություն &brandShortName;-ը նախընտրելու համար">
+<!ENTITY newfirstrun_urlbar_message "Բարի գալուստ &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Ժամանակակից բջջային դիտարկիչ Mozilla-ից, ոչ առևտրային և անվճար:">
+<!ENTITY newfirstrun_urlbar_subtext "Արագ է, գաղտնի և ձեր կողմից:">
 <!ENTITY firstrun_panel_title_privacy "Գաղտնիություն">
 <!ENTITY firstrun_privacy_message "Դիտարկեք այնպես, կարծես ոչ ոք չի նայում">
 <!ENTITY firstrun_privacy_subtext "Գաղտնի դիտարկում Հետագծման պաշտպանությամբ, որը արգելափակում է հետագծումները և չի հիշում պատմությունը, երբ ավարտում եք դիտարկումը:">
+<!ENTITY newfirstrun_privacy_subtext "Գաղտնի դիտարկումը արգելափակում է գովազդային հետագծումները, որոնք հետևում են ձեզ առցանց:">
 <!ENTITY firstrun_panel_title_customize "Հարմարեցնել">
 <!ENTITY firstrun_customize_message "Դարձրեք &brandShortName;-ը ձերը:">
 <!ENTITY firstrun_customize_subtext "Հարմարեցրեք &brandShortName;-ը հավելումներով: Արգելափակեք գովազդները, ավելացրեք ուրահատկություններ կամ նտրեք նոր ձևավորում՝ ձեր անձնականը:">
@@ -20,8 +23,12 @@
 <!ENTITY firstrun_sync_title "Սինք">
 <!ENTITY firstrun_sync_message2 "Շարունակեք այնտեղից, որտեղ ընդհատել եք:">
 <!ENTITY firstrun_sync_subtext2 "Օգտագործեք համաժամեցում՝ գտնելու համար էջանիշները, գաղտնաբառերը և այլն, որոնք պահպանել եք &brandShortName;-ում՝ ցանկացած սարքում:">
+<!ENTITY newfirstrun_sync_subtext "Համաժամեցրեք Firefox-ի բոլոր տարբերակները՝ գաղտնի և ապահով:">
+<!ENTITY updatednewfirstrun_sync_subtext "Մուտք գործեք ձեր հաշիվ՝ ավլին ստանալու համար &brandShortName;-ից">
 <!ENTITY firstrun_signin_message "Եղեք կապակցված, սկսեք">
 <!ENTITY firstrun_signin_button "Մուտք գործեք՝ Սինքը սկսելու համար">
+<!ENTITY newfirstrun_signin_button "Միացնել Սինքը">
+<!ENTITY updatednewfirstrun_signin_button "Մուտք գործել &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Սկսել">
 <!ENTITY firstrun_button_notnow "Ոչ հիմա">
 <!ENTITY firstrun_button_next "Հաջորդ">
@@ -408,7 +415,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Ներբեռնումներ">
 <!ENTITY pref_private_data_syncedTabs "Համաժամեցված ներդիրներ">
 
-<!ENTITY pref_default_browser "Դարձնել հիմնական դիտարկիչ">
+<!ENTITY pref_default_browser2 "Դարձնել &brandShortName;-ը սկզբնադիր զննիչ">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Հպեք զննիչ հավելվածին և ընտրեք &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Այցելել Mozilla Support">
 <!ENTITY pref_about_firefox "&brandShortName;-ի մասին">
 <!ENTITY pref_vendor_faqs "ՀՏՀ">
@@ -503,6 +514,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "Նախորդը">
 <!ENTITY find_next "Հաջորդ">
 <!ENTITY find_close "Փակել">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "Չի գտնվել">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -664,6 +679,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Ընտրեք կամ ձայնագրեք">
 <!ENTITY filepicker_image_title "Ընտրեք կամ նկարեք">
 <!ENTITY filepicker_video_title "Ընտրեք կամ տեսագրեք տեսանյութ">
+
+<!ENTITY filepicker_permission_denied "Պահանջվող թույլտվությունները տրամադրված չեն, վերադարձվում է ֆայլային համակարգի հավաքիչին:">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Դուք կապակցված եք՝">
@@ -903,6 +920,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Դադարեցնել">
 <!ENTITY pip_pause_button_description "Դադարեցնել նվագարկումը">
 
+<!ENTITY pref_notification_settings_link "Կառավարել ծանուցումները">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Դիտարկիչ">
 <!ENTITY mls_notification_channel "&vendorShortName;-ի տեղադրության ծառայություն">
