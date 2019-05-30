@@ -15,3 +15,6 @@ appmenu-update-manual =
     .buttonaccesskey = D
     .secondarybuttonlabel = Vitan ntuvi
     .secondarybuttonaccesskey = N
+appmenu-update-manual-message = Xinun iin a jíía nachu´un { -brand-shorter-name }.
+appmenu-update-whats-new =
+    .value = Kune´ya a jíía íyo.
