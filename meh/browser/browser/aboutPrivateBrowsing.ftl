@@ -24,3 +24,4 @@ about-private-browsing =
     .title = Nánuku nuu Web
 about-private-browsing-not-private = Ntañu´u ntu yɨ´ɨnu nuu iin ventana yu´u
 content-blocking-title = Nakasɨ contenido
+content-blocking-description = Iyo daa nuu Web ni´ida ka̱a̱ nita noo´o nuu Internet. Nuu daa ventana yu´u { -brand-short-name } a chiyu´u tu´un { -brand-short-name } ka̱a̱ chiyu´u nakasɨ daa ka̱a̱ nita a sá´á noo´o nuu Internet.
