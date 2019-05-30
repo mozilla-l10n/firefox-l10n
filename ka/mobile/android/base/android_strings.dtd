@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "განაგრძეთ იქიდან, სადაც გაჩერდით.">
 <!ENTITY firstrun_sync_subtext2 "გამოიყენეთ სინქრონიზაცია სანიშნების, პაროლებისა და სხვა მონაცემების, რომელთაც &brandShortName; ინახავს, ყველა მოწყობილობაზე გასაზიარებლად.">
 <!ENTITY newfirstrun_sync_subtext "დაასინქრონეთ ნებისმიერი რამ, რასაც შეინახავთ მობილურში, კომპიუტერის Firefox-ზე, უსაფრთხოდ და დაცულად.">
+<!ENTITY updatednewfirstrun_sync_subtext "შედით ანგარიშზე, რომ შეგეძლოთ სრულყოფილად გამოიყენოთ &brandShortName;">
 <!ENTITY firstrun_signin_message "დაუკავშირდით და დაიწყეთ">
 <!ENTITY firstrun_signin_button "Sync-ში შესვლა">
 <!ENTITY newfirstrun_signin_button "ჩართეთ Sync">
+<!ENTITY updatednewfirstrun_signin_button "შესვლა &brandShortName;">
 <!ENTITY  onboard_start_button_browser "დაიწყეთ მოგზაურობა ინტერნეტში">
 <!ENTITY firstrun_button_notnow "ახლა არა">
 <!ENTITY firstrun_button_next "შემდეგი">
@@ -677,6 +679,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "ხმოვანი სიგნალის შერჩევა ან ჩაწერა">
 <!ENTITY filepicker_image_title "ფოტოს შერჩევა ან გადაღება">
 <!ENTITY filepicker_video_title "ვიდეოს შერჩევა ან ჩაწერა">
+
+<!ENTITY filepicker_permission_denied "მოთხოვნილი ნებართვები უარყოფილია, დაბრუნება ფაილების სისტემურ შემრჩევში.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "თქვენ კავშირზე ხართ დომენთან">
