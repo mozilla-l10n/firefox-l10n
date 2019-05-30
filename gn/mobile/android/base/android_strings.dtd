@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "Ejapyhyjey eheja haguépe.">
 <!ENTITY firstrun_sync_subtext2 "Eipuru Sync ejuhu hag̃ua ne rechaukaha, ñe\&apos;ẽñemi ha ambueve reñongatuva\&apos;ekue &brandShortName; pe eipuru vove oimeraẽva mba\&apos;e\&apos;oka rerekóva (ne mohendaha, ne pumbyry, tablet  hamba\&apos;e).">
 <!ENTITY newfirstrun_sync_subtext "Embojuehe tetepy eñongatúva pumbyrýpe Firefox mesa arigua ndive, ñemi ha tekorosã reheve.">
+<!ENTITY updatednewfirstrun_sync_subtext "Emoñepyrũ tembiapo ne mba’etépe eipuru porã hag̃ua &brandShortName;">
 <!ENTITY firstrun_signin_message "Eike, eñepyrũ">
 <!ENTITY firstrun_signin_button "Emoñepyrũ tembiapo embojuehe hag̃ua">
 <!ENTITY newfirstrun_signin_button "Emyandy ñembojuehe">
+<!ENTITY updatednewfirstrun_signin_button "Emoñepyrũ tembiapo &brandShortName; ndive">
 <!ENTITY  onboard_start_button_browser "Eñepyrũ eikundaha">
 <!ENTITY firstrun_button_notnow "Ko\&apos;ág̃a nahániri">
 <!ENTITY firstrun_button_next "Upeigua">
@@ -677,6 +679,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Eiporavo térã eñongatu mba\&apos;epu">
 <!ENTITY filepicker_image_title "Eiporavo térã enohẽ avara\&apos;ãnga">
 <!ENTITY filepicker_video_title "Eiporavo térã eñongatu ta\&apos;ãngamýi">
+
+<!ENTITY filepicker_permission_denied "Noñemoneĩri tekotevẽháicha, ejevyjeýnte marandurenda apopyvusu poravohápe.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Eikéma">
