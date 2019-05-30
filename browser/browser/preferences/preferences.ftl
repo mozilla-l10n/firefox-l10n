@@ -286,8 +286,21 @@ update-pref-write-failure-title = 写入失败
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = 无法保存首选项。未能写入文件：{ $path }
-update-setting-write-failure-title = 保存首选项更改时出错
+update-setting-write-failure-title = 保存“更新”首选项时出错
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } 遇到错误，未能保存此更改。请注意，设置此更新首选项需要写入下列文件的权限。您或系统管理员可以通过授予用户组对此文件的完全控制权来解决此错误。
+    
+    无法写入文件：{ $path }
 update-in-progress-title = 正在更新
+update-in-progress-message = 您要继续 { -brand-short-name } 的此次更新吗？
+update-in-progress-ok-button = 放弃
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = 继续
 
 ## General Section - Performance
 
