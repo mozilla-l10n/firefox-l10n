@@ -16,3 +16,4 @@ crashed-request-report-title = Kachi dee ntu iyo va´a
 crashed-send-report = Chu´un ichi tutu kachi ntu íyo vatu saa kuvi nake´i ya´a.
 crashed-comment =
     .placeholder = Tu´un jianininu (daa tu´un ya´a kutuvi nuu kuaiyo)
+crashed-include-URL = Tee daa URL daa sitios nuu iñɨ noo´o saa { -brand-short-name } ntivɨ .
