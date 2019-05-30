@@ -53,6 +53,7 @@ policy-EnableTrackingProtection = Blokěrowanje wopśimjeśa zmóžniś abo znje
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Rozšyrjenja instalěrowaś, wótinstalěrowaś abo zastajiś. Instalaciska opcija ma URL abo sćažki ako parametry. Opciji Wótinstalěrowaś a Zastajiś ID wužywatej.
+policy-ExtensionSettings = Wšykne aspekty instalacije rozšyrjenjow zastojaś.
 policy-ExtensionUpdate = Awtomatiske aktualizacije rozšyrjenjow zmóžniś abo znjemóžniś.
 policy-FirefoxHome = Firefox Home konfigurěrowaś.
 policy-FlashPlugin = Wužywanje tykaca Flash dowóliś abo zakazaś.
