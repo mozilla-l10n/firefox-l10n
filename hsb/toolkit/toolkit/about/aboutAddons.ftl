@@ -95,7 +95,7 @@ detail-update-manual =
 detail-private-browsing-label = W priwatnych woknach wuwjesć
 detail-private-browsing-description2 = Jeli maće prawo, ma rozšěrjenje přistup na waše aktiwity online w priwatnym modusu. <label data-l10n-name="detail-private-browsing-learn-more">Dalše informacije</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
-# cannot be overriden by the user.
+# cannot be overridden by the user.
 detail-private-disallowed-label = W priwatnych woknach njedowoleny
 detail-private-disallowed-description = Tute rozšěrjenje w priwatnym modusu njefunguje. <label data-l10n-name="detail-private-browsing-learn-more">Dalše informacije</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
@@ -355,6 +355,11 @@ addon-badge-private-browsing-allowed =
 addon-detail-private-browsing-help = Jeli maće prawo, ma rozšěrjenje přistup na waše aktiwity online w priwatnym modusu. <a data-l10n-name="detail-private-browsing-learn-more">Dalše informacije</a>
 addon-detail-private-browsing-allow = Dowolić
 addon-detail-private-browsing-disallow = Njedowolić
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Doporučena
+    .alt = Doporučena
 available-updates-heading = K dispoziciji stejace aktualizacije
 recent-updates-heading = Najnowše aktualizacije
 release-notes-loading = Začituje so…
