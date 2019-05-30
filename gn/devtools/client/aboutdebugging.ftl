@@ -50,6 +50,9 @@ about-debugging-sidebar-item-connected-label = Jeikepyre
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
 about-debugging-sidebar-runtime-item-waiting-for-browser = Aha’arõhína kundahápe…
+# Text displayed in sidebar items for remote devices that have been disconnected from the
+# computer.
+about-debugging-sidebar-runtime-item-unplugged = Ñesẽmbyre
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName } ({ $deviceName })
@@ -74,9 +77,6 @@ about-debugging-refresh-usb-devices-button = Embohekopyahu mba'e'oka
 about-debugging-setup-title = Ñembosako’i
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Emboheko mba’éichapa eikéta emopotĩ hag̃ua okáguio ne mba’e’oka.
-# Link displayed in the Setup page that leads to MDN page with list of supported devices.
-# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
-about-debugging-setup-link-android-devices = Ehecha mba’e’oka Android rysýi ojokupytýva
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Eipuru <a>{ about-debugging-this-firefox-runtime-name }</a> emopotĩ hag̃ua tendayke, jepysokue ha Mba'apohára mba'epytyvõrãguáva ko peteĩchagua { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
@@ -97,12 +97,6 @@ about-debugging-setup-usb-updating-button = Hekopyahuhína...
 about-debugging-setup-usb-status-enabled = Jurujapyre
 about-debugging-setup-usb-status-disabled = Pe'apyre
 about-debugging-setup-usb-status-updating = Hekopyahuhína...
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu = Embojuruja mboguatahára poravorã ne Android mba’e’okápe. <a>Ehecha mba’éichapa</a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug = Embojuruja mopotĩha poravorã ne Android mboguatahára poravorãme. <a>Ehecha mba’éichapa</a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox = Embojuruja USB mopotĩha Firefox-pe ne Android mba’e’okápe. <a>Ehecha mba’éichapa</a>
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Embojuaju Android mba’e’oka ne mohendaha rehe.
 # Network section of the Setup page
@@ -154,9 +148,6 @@ about-debugging-runtime-other-workers =
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Tapereko
-# Label of the button opening the performance profiler panel in runtime pages for remote
-# runtimes.
-about-debugging-runtime-profile-button = Runtime mba'ete
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
@@ -193,13 +184,6 @@ about-debugging-connection-prompt-enable-button = Embojuruja jeikeha rechaha
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = Eipe'a jeikeha rechaha
-# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
-about-debugging-profiler-dialog-title = Apopyre mbohapyha
-# Label of a checkbox displayed in the runtime page for "This Firefox".
-# This checkbox will toggle preferences that enable local addon debugging.
-# The "Learn more" link points to MDN.
-# https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
-about-debugging-extension-debug-setting-label = Embojuruja jepysokue mopotĩha. <a>Eikuaave</a>
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
@@ -285,3 +269,12 @@ about-debugging-main-process-name = Tembiapo ñemboguata
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-description2 = Tembiapo ñemboguata kundaha og̃uahẽ hag̃ua.
+# Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon =
+    .alt = Emboty ñe’ẽmondo
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = Mba'emimi jejavygua
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = Mba'emimi je'epihyigua
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = Mba'emimi

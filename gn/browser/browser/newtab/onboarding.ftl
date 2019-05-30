@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
-
-
 ### UI strings for the simplified onboarding modal / about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -54,6 +51,7 @@ onboarding-ghostery-text = Eikundaha pya’eve, katupyry ha tekorosãme Ghostery
 onboarding-fxa-title = Mbojuehe
 onboarding-fxa-text = Eñemboheraguapy eguereko hag̃ua { -fxaccount-brand-name } ha embojuehe nde rechaukaha, ñe’ẽñemi ha tendayke ijurujáva eipuruhápe { -brand-short-name }.
 onboarding-tracking-protection-button2 = Mba'éichapa omba'apo
+onboarding-lockwise-passwords-button2 = Eguerekóke tembipuru'i
 
 ## Message strings belonging to the Return to AMO flow
 

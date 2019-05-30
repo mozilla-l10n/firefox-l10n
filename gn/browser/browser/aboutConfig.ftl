@@ -8,6 +8,7 @@ about-config-warning-text = Ko ñemboheko moambue ikatu ombyaihína pytareko, te
 about-config-warning-checkbox = ¡Erekuaajey chéve, ikatúramo!
 about-config-warning-button = Amoneĩ pe kyhyjerã
 about-config-title = about:config
+about-config2-title = Ñemboheko henyhẽtamava
 about-config-search-input =
     .placeholder = Heka
 about-config-show-all = Ehechaukapa

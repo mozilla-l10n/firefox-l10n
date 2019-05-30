@@ -5,6 +5,10 @@
 
 ## Panel buttons.
 
+abuse-report-cancel-button = Heja
+abuse-report-next-button = Upeigua
+abuse-report-goback-button = Mboguevijey
+abuse-report-submit-button = Mondo
 
 ## Message bars descriptions.
 
