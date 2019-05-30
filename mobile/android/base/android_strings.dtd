@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "Fortsätt där du slutade.">
 <!ENTITY firstrun_sync_subtext2 "Använd Sync för att hitta bokmärken, lösenord och andra saker som du sparar till &brandShortName; på alla dina enheter.">
 <!ENTITY newfirstrun_sync_subtext "Synkronisera de saker du sparar på mobilen till Firefox för datorer, privat och säkert.">
+<!ENTITY updatednewfirstrun_sync_subtext "Logga in på ditt konto för att få ut det mesta av &brandShortName;">
 <!ENTITY firstrun_signin_message "Anslut och kom igång">
 <!ENTITY firstrun_signin_button "Logga in till Sync">
 <!ENTITY newfirstrun_signin_button "Aktivera Sync">
+<!ENTITY updatednewfirstrun_signin_button "Logga in på &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Börja surfa">
 <!ENTITY firstrun_button_notnow "Inte just nu">
 <!ENTITY firstrun_button_next "Nästa">
@@ -413,8 +415,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Hämtningar">
 <!ENTITY pref_private_data_syncedTabs "Synkade flikar">
 
-<!ENTITY pref_default_browser "Gör till standardwebbläsare">
-
 <!ENTITY pref_default_browser2 "Gör &brandShortName; till din standardwebbläsare">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -679,6 +679,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Välj eller spela in ett ljud">
 <!ENTITY filepicker_image_title "Välj eller ta en bild">
 <!ENTITY filepicker_video_title "Välj eller spela in en video">
+
+<!ENTITY filepicker_permission_denied "Obligatoriska behörigheter har inte beviljats, återgår till systemfilväljaren.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Du är ansluten till">
