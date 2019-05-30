@@ -24,3 +24,4 @@ abuse-report-messagebar-action-cancel = Heja
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-other-reason = Ambue mba’e

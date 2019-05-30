@@ -95,7 +95,7 @@ detail-update-manual =
 detail-private-browsing-label = Eipuru ovetã ñemíme
 detail-private-browsing-description2 = Oñemoneĩ vove, pe jepysokue ikatu oike hembiapo ñandutiguápe oikundaha ñeminguévo. <label data-l10n-name="detail-private-browsing-learn-more">Eikuaave</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
-# cannot be overriden by the user.
+# cannot be overridden by the user.
 detail-private-disallowed-label = Noñemoneĩri ovetã ñemíme
 detail-private-disallowed-description = Ko jepysokue nomba’apói eikundaha ñemigua jave. <label data-l10n-name="detail-private-browsing-learn-more">Eikuaave</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
@@ -157,6 +157,9 @@ private-browsing-description2 =
 extensions-view-discover =
     .name = Moĩmbaha rupity
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Je’eporã
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Ñembohekopyahu ramovéva
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -237,7 +240,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Eñangareko jepysokue jeike pya’eha rehe
     .accesskey = S
-shortcuts-empty-message = Ndaipóri mbopya'eha ko jepysokuépe g̃uarã.
 shortcuts-no-addons = Ndoguerekói jepysokue ijurujáva.
 shortcuts-no-commands = Ko’ã jepysokue ndoguerekói jeike pya’eha:
 shortcuts-input =
@@ -250,6 +252,10 @@ shortcuts-modifier-other = Emoinge Ctrl or Alt
 shortcuts-invalid = Ñembojopyru ndoikóiva
 shortcuts-letter = Ehai peteĩ tai
 shortcuts-system = Ndaikatúi eipe’a peteĩ mbopya’eha { -brand-short-name } mba’éva
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Oipurúma { $addon }
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Ehechave { $numberToShow }
@@ -259,12 +265,38 @@ shortcuts-card-collapse-button = Ehechauka'ive
 go-back-button =
     .tooltiptext = Guevijey
 
+## Recommended add-ons page
+
+discopane-notice-learn-more = Kuaave
+privacy-policy = Temiñemi purureko
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = <a data-l10n-name="author">{ $author }</a> rupi
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Puruhára: { $dailyUsers }
+install-extension-button = Embojuaju { -brand-product-name }
+install-theme-button = Emohenda téma
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Ñangareko
+find-more-addons = Ehekave moimbaha
+
 ## Add-on actions
 
+report-addon-button = Momarandu
 remove-addon-button = Mboguete
 disable-addon-button = Pe'a
 enable-addon-button = Mbojuruja
 expand-addon-button = Jeporavorãve
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Jerohoryvéva
+       *[other] Jeporavorã
+    }
+details-addon-button = Mba'emimi
 addons-enabled-heading = Mbojurujapyre
 addons-disabled-heading = Pe'apyre
 addon-detail-author-label = Apohára
@@ -276,3 +308,6 @@ addon-detail-rating-label = Jeporavopy
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (jepe'apyre)
+
+## Pending uninstall message bar
+
