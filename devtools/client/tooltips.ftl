@@ -19,6 +19,7 @@ inactive-css-not-grid-item = <strong>{ $property }</strong> njama efekt na toś 
 inactive-css-not-grid-container = <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž njejo kontejner grid.
 inactive-css-not-flex-item = <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž njejo zapisk flex.
 inactive-css-not-flex-container = <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž njejo kontejner flex.
+inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> njama na toś to wustatkowanje, dokulaž element njejo element inline abo element tabeloweje cele.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -30,3 +31,4 @@ inactive-css-not-grid-item-fix = Wopytajśo <strong>display:grid</strong> abo <s
 inactive-css-not-grid-container-fix = Wopytajśo <strong>display:grid</strong> abo <strong>display:inline-grid</strong> pśidaś. { learn-more }
 inactive-css-not-flex-item-fix = Wopytajśo <strong>display:flex</strong> abo <strong>display:inline-flex</strong> nadrědowanemu elementoju zapiska pśidaś. { learn-more }
 inactive-css-not-flex-container-fix = Wopytajśo <strong>display:flex</strong> abo <strong>display:inline-flex</strong> pśidaś. { learn-more }
+inactive-css-not-inline-or-tablecell-fix = Wopytajśo <strong>display:inline</strong> abo <strong>display:table-cell</strong> pśidaś. { learn-more }
