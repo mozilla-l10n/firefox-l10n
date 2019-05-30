@@ -141,3 +141,6 @@ about-telemetry-origin-count = 数量
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox 原点遥测</a>会在数据发送之前对其进行编码，接着 { $telemetryServerOwner } 才能计数，但不知道是否会有任何给定的{ -brand-product-name } 参与了该计数。（<a data-l10n-name="prio-blog-link">了解详情</a>）
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = { $process } 进程

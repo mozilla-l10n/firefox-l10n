@@ -6,6 +6,12 @@ process-type-web = 网页内容
 # process used to run privileged pages,
 # such as about:home
 process-type-privileged = 特权内容
+# process used to run privileged about pages,
+# such as about:home
+process-type-privilegedabout = About 特权页
+# process used to run privileged mozilla pages,
+# such as accounts.firefox.com
+process-type-privilegedmozilla = Mozilla 特权内容
 process-type-extension = 扩展
 # process used to open file:// URLs
 process-type-file = 本地文件
