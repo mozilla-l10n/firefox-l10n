@@ -40,6 +40,8 @@
 <!ENTITY helpFeedbackPage.label "Enviar opinião…">
 <!ENTITY helpFeedbackPage.accesskey "v">
 
+<!ENTITY helpShowTour2.label "Tour no &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey "o">
 
 <!ENTITY helpGetInvolvedPage.label "Envolva-se">
 <!ENTITY helpGetInvolvedPage.accesskey "n">
