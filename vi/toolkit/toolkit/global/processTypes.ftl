@@ -6,6 +6,12 @@ process-type-web = Nội dung web
 # process used to run privileged pages,
 # such as about:home
 process-type-privileged = Nội dung đặc quyền
+# process used to run privileged about pages,
+# such as about:home
+process-type-privilegedabout = Giới thiệu đặc quyền
+# process used to run privileged mozilla pages,
+# such as accounts.firefox.com
+process-type-privilegedmozilla = Nội dung Mozilla đặc quyền
 process-type-extension = Tiện ích mở rộng
 # process used to open file:// URLs
 process-type-file = Tập tin cục bộ

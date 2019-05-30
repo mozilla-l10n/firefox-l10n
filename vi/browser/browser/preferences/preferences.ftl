@@ -278,6 +278,21 @@ update-pref-write-failure-title = Lỗi ghi
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Không thể lưu tùy chọn. Không thể ghi vào tập tin: { $path }
+update-setting-write-failure-title = Lỗi khi lưu tùy chọn cập nhật
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } đã gặp lỗi và đã không lưu thay đổi này. Lưu ý rằng thiết lập tùy chọn cập nhật này yêu cầu quyền ghi vào tập tin bên dưới. Bạn hoặc quản trị viên hệ thống có thể giải quyết lỗi bằng cách cấp cho nhóm Người dùng toàn quyền kiểm soát tệp này.
+    
+    Không thể ghi vào tệp: { $path }
+update-in-progress-title = Đang cập nhật
+update-in-progress-message = Bạn có muốn { -brand-short-name } tiếp tục với bản cập nhật này không?
+update-in-progress-ok-button = &Hủy bỏ
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Tiếp tục
 
 ## General Section - Performance
 
