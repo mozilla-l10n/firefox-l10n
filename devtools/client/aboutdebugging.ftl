@@ -82,9 +82,6 @@ about-debugging-refresh-usb-devices-button = Adnewyddu dyfeisiau
 about-debugging-setup-title = Gosod
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Ffurfweddwch y dull cysylltu rydych chi eisiau dadfygio eich dyfais o bell gydag ef.
-# Link displayed in the Setup page that leads to MDN page with list of supported devices.
-# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
-about-debugging-setup-link-android-devices = Gweld rhestr o ddyfeisiau Android sy'n cael eu cefnogi
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Defnyddiwch <a>{ about-debugging-this-firefox-runtime-name }</a> i ddadfygio tabiau, estyniadau a gweithwyr gwasanaeth ar y fersiwn hon o { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
@@ -105,12 +102,6 @@ about-debugging-setup-usb-updating-button = Diweddaru…
 about-debugging-setup-usb-status-enabled = Galluogwyd
 about-debugging-setup-usb-status-disabled = Analluogwyd
 about-debugging-setup-usb-status-updating = Diweddaru…
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu = Galluogi dewislen datblygwyr ar eich dyfais Android. <a>Dysgu sut</a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug = Galluogi dadfygio USB yn y Ddewislen Datblygwr Android. <a>Dysgu sut</a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox = Galluogi Dadfygio USB yn Firefox ar y ddyfais Android. <a>Dysgu sut</a>
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = Galluogi dewislen datblygwyr ar eich dyfais Android.
 # USB section step by step guide
@@ -215,11 +206,6 @@ about-debugging-connection-prompt-enable-button = Galluogi anogyn cysylltu
 about-debugging-connection-prompt-disable-button = Analluogi anogyn cysylltu
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
 about-debugging-profiler-dialog-title2 = Proffiliwr
-# Label of a checkbox displayed in the runtime page for "This Firefox".
-# This checkbox will toggle preferences that enable local addon debugging.
-# The "Learn more" link points to MDN.
-# https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
-about-debugging-extension-debug-setting-label = Galluogi dadfygio estyniadau. <a>Dysgu rhagor</a>
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
@@ -308,3 +294,9 @@ about-debugging-main-process-description2 = Prif Broses y porwr targed
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Cau neges
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = Manylion gwall
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = Manylion rhybudd
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = Manylion
