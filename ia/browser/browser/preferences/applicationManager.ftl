@@ -8,13 +8,12 @@ app-manager-window =
 app-manager-remove =
     .label = Remover
     .accesskey = R
-app-manager-handle-webfeeds = Les sequente applicationes pote ser usate pro Feeds web.
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
-app-manager-handle-protocol = Les sequente applicationes pote ser usate pro Ligamines de { $type }.
+app-manager-handle-protocol = Le sequente applicationes pote esser usate pro ligamines “{ $type }”.
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
-app-manager-handle-file = Les sequente applicationes pote ser usate pro Contento { $type }.
+app-manager-handle-file = Le sequente applicationes pote esser usate pro contento “{ $type }”.
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
