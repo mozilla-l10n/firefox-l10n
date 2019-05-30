@@ -146,3 +146,6 @@ about-telemetry-origin-count = cyfrif
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-origins-explanation = Mae <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> yn amgodio data cyn iddo gael ei anfon fel bod { $telemetryServerOwner } yn gallu cyfrif pethau, ond heb wybod a yw { -brand-product-name } wedi cyfrannu i'r cyfrif hwnnw. (<a data-l10n-name="prio-blog-link">Dysgu rhagor</a>)
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = Proses { $process }

@@ -79,6 +79,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Cofnod Penderfynnu
 graphics-crash-guards-title = Nodweddion Crash Guard wedi ei Analluogi
 graphics-workarounds-title = Dulliau Datrys
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Protocol Ffenestr
 place-database-title = Cronfa Ddata Mannau
 place-database-integrity = Cyfanrwydd
 place-database-verify-integrity = Gwirio Cyfanrwydd

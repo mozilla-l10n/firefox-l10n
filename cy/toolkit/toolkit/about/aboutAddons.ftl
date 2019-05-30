@@ -95,7 +95,7 @@ detail-update-manual =
 detail-private-browsing-label = Rhedeg mewn Ffenestri Preifat
 detail-private-browsing-description2 = Pan fydd yna ganiatâd, bydd yr estyniad ar gael i'ch gweithgareddau ar-lein wrth bori preifat. <label data-l10n-name="details-private-browsing-learning-more"> Dysgu rhagor </label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
-# cannot be overriden by the user.
+# cannot be overridden by the user.
 detail-private-disallowed-label = Heb ei ganiatáu mewn Ffenestri Preifat
 detail-private-disallowed-description = Nid yw'r estyniad hwn yn rhedeg tra'n pori'n preifat. <label data-l10n-name = "details-private-browsing-learning-more">Rhagor o wybodaeth</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
@@ -363,6 +363,11 @@ addon-badge-private-browsing-allowed =
 addon-detail-private-browsing-help = Pan mae'n cael ei ganiatáu, bydd yr estyniad ar gael i'ch gweithgareddau ar-lein tra byddwch yn pori'n breifat. <a data-l10n-name="learn-more"> Gwybod rhagor</a>
 addon-detail-private-browsing-allow = Caniatáu
 addon-detail-private-browsing-disallow = Peidio Caniatáu
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Cymeradwy
+    .alt = Cymeradwy
 available-updates-heading = Diweddariadau ar Gael
 recent-updates-heading = Diweddariadau Diweddar
 release-notes-loading = Llwytho…
