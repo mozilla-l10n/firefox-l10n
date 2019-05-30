@@ -5,7 +5,13 @@
 process-type-web = ვებშიგთავსი
 # process used to run privileged pages,
 # such as about:home
-process-type-privileged = უპირატესი შიგთავსი
+process-type-privileged = უპირატესად შიგთავსი
+# process used to run privileged about pages,
+# such as about:home
+process-type-privilegedabout = უპირატესად შესახებ-გვერდები
+# process used to run privileged mozilla pages,
+# such as accounts.firefox.com
+process-type-privilegedmozilla = უპირატესად Mozilla-ს შიგთავსი
 process-type-extension = გაფართოება
 # process used to open file:// URLs
 process-type-file = ადგილობრივი ფაილი
