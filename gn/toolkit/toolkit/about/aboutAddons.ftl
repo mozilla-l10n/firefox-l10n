@@ -297,17 +297,57 @@ preferences-addon-button =
        *[other] Jeporavorã
     }
 details-addon-button = Mba'emimi
+permissions-addon-button = Moneĩ
 addons-enabled-heading = Mbojurujapyre
 addons-disabled-heading = Pe'apyre
+ask-to-activate-button = Eporandu emyandy hag̃ua
+always-activate-button = Emyandy tapia
+never-activate-button = Ani emyandy araka'eve
 addon-detail-author-label = Apohára
 addon-detail-version-label = Peteĩchagua
 addon-detail-last-updated-label = Mbohekopyahu paha
 addon-detail-homepage-label = Kuatiarogue ñepyrũha
 addon-detail-rating-label = Jeporavopy
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Mbopapapyre { NUMBER($rating, maximumFractionDigits: 1) } 5 peve
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (jepe'apyre)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } jehechajey
+       *[other] { $numberOfReviews } jehechajey
+    }
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = Oñemboguete <span data-l10n-name="addon-name">{ $addon }</span>.
+pending-uninstall-undo-button = Mboguevi
+addon-detail-updates-label = Emoneĩ mbohekopyahu ijeheguíva
+addon-detail-updates-radio-default = Ijypykue
+addon-detail-updates-radio-on = Hendypyre
+addon-detail-updates-radio-off = Mbogue
+addon-detail-update-check-label = Eheka mohekopyahu
+install-update-button = Mohekopyahu
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Emoneĩ ovetã ñemíme
+addon-detail-private-browsing-allow = Moneĩ
+addon-detail-private-browsing-disallow = Ani emoneĩ
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Je'eporãpyre
+    .alt = Je'eporãpyre
+available-updates-heading = Ñembohekopyahu eipurukuaáva
+recent-updates-heading = Mohekopyahu ramoveguáva
