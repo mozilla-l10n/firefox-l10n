@@ -82,9 +82,6 @@ about-debugging-refresh-usb-devices-button = Uppdatera enheter
 about-debugging-setup-title = Konfiguration
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Konfigurera anslutningsmetoden som du vill fjärrfelsöka din enhet med.
-# Link displayed in the Setup page that leads to MDN page with list of supported devices.
-# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
-about-debugging-setup-link-android-devices = Visa lista över Android-enheter som stöds
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Använd <a>{ about-debugging-this-firefox-runtime-name }</a> för att felsöka flikar, tillägg och service workers i den här versionen av { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
@@ -105,12 +102,6 @@ about-debugging-setup-usb-updating-button = Uppdaterar…
 about-debugging-setup-usb-status-enabled = Aktiverad
 about-debugging-setup-usb-status-disabled = Inaktiverad
 about-debugging-setup-usb-status-updating = Uppdaterar…
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu = Aktivera utvecklarmenyn på din Android-enhet. <a>Läs hur</a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug = Aktivera USB-felsökning i Android-utvecklarmenyn. <a>Läs hur</a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox = Aktivera USB-felsökning i Firefox på Android-enheten. <a>Läs hur</a>
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = Aktivera utvecklarmenyn på din Android-enhet.
 # USB section step by step guide
@@ -215,11 +206,6 @@ about-debugging-connection-prompt-enable-button = Aktivera anslutningsprompten
 about-debugging-connection-prompt-disable-button = Inaktivera anslutningsprompten
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
 about-debugging-profiler-dialog-title2 = Profiler
-# Label of a checkbox displayed in the runtime page for "This Firefox".
-# This checkbox will toggle preferences that enable local addon debugging.
-# The "Learn more" link points to MDN.
-# https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
-about-debugging-extension-debug-setting-label = Aktivera tilläggsfelsökning. <a>Läs mer</a>
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
@@ -308,3 +294,9 @@ about-debugging-main-process-description2 = Huvudprocess för målwebbläsaren
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Stäng meddelande
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = Detaljer om felet
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = Varningsdetaljer
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = Detaljer
