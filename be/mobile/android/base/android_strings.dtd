@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "Працягвайце адтуль, дзе спыніліся.">
 <!ENTITY firstrun_sync_subtext2 "Выкарыстоўвайце Sync для доступу да закладак, пароляў і іншых дадзеных, якія вы захоўваеце ў &brandShortName; на ўсіх прыладах.">
 <!ENTITY newfirstrun_sync_subtext "Сінхранізуйце рэчы, захаваныя на тэлефоне, з Firefox на камп\&apos;ютары, прыватна і бяспечна.">
+<!ENTITY updatednewfirstrun_sync_subtext "Увайдзіце ў свой уліковы запіс, каб атрымаць максімальную аддачу ад &brandShortName;">
 <!ENTITY firstrun_signin_message "Падключайцеся і пачынайце">
 <!ENTITY firstrun_signin_button "Увайсці ў Sync">
 <!ENTITY newfirstrun_signin_button "Уключыць Sync">
+<!ENTITY updatednewfirstrun_signin_button "Увайсці ў &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Пачаць агляданне">
 <!ENTITY firstrun_button_notnow "Не зараз">
 <!ENTITY firstrun_button_next "Далей">
@@ -413,8 +415,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Сцягванні">
 <!ENTITY pref_private_data_syncedTabs "Сінхранізаваныя карткі">
 
-<!ENTITY pref_default_browser "Зрабіць прадвызначаным браўзерам">
-
 <!ENTITY pref_default_browser2 "Зрабіць &brandShortName; прадвызначаным браўзерам">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -679,6 +679,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Выбраць ці запісаць гук">
 <!ENTITY filepicker_image_title "Выбраць выяву ці зрабіць фота">
 <!ENTITY filepicker_video_title "Выбраць ці запісаць відэя">
+
+<!ENTITY filepicker_permission_denied "Запытаныя дазволы не прадстаўлены, вяртаемся да сістэмнага дыялогу выбару файлаў.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Вы з злучаны з">
