@@ -79,6 +79,8 @@ graphics-gpu2-title = 2. GPU
 graphics-decision-log-title = Döntésnapló
 graphics-crash-guards-title = Összeomlásvédelem által letiltott funkciók
 graphics-workarounds-title = Kerülő eljárások
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Ablakprotokoll
 place-database-title = Helyek adatbázisa
 place-database-integrity = Sértetlenség
 place-database-verify-integrity = Sértetlenség ellenőrzése

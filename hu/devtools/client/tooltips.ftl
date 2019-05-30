@@ -19,6 +19,7 @@ inactive-css-not-grid-item = A(z) <strong>{ $property }</strong> nem befolyásol
 inactive-css-not-grid-container = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem rácstároló.
 inactive-css-not-flex-item = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem flexibilis elem.
 inactive-css-not-flex-container = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem flexibilis tároló.
+inactive-css-not-inline-or-tablecell = A(z) <strong>{ $property }</strong> nincs hatással az elemre, mert nem „inline” vagy „table-cell” elem.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -30,3 +31,4 @@ inactive-css-not-grid-item-fix = Próbálja meg ezeket hozzáadni az elem szül�
 inactive-css-not-grid-container-fix = Próbálja meg ezeket hozzáadni: <strong>display:grid</strong> vagy <strong>display:inline-grid</strong>. { learn-more }
 inactive-css-not-flex-item-fix = Próbálja meg ezeket hozzáadni az elem szülőjéhez: <strong>display:flex</strong> vagy <strong>display:inline-flex</strong>. { learn-more }
 inactive-css-not-flex-container-fix = Próbálja meg ezeket hozzáadni: <strong>display:flex</strong> vagy <strong>display:inline-flex</strong>. { learn-more }
+inactive-css-not-inline-or-tablecell-fix = Próbálja meg hozzáadni ezek egyikét: <strong>display:inline</strong> vagy <strong>display:table-cell</strong>.{ learn-more }
