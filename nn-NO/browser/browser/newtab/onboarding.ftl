@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
-
-
 ### UI strings for the simplified onboarding modal / about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -55,30 +52,22 @@ onboarding-ghostery-text = Surf raskare, smartare eller sikrare med utvidingar s
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synkroniser
 onboarding-fxa-text = Registrer deg for eit { -fxaccount-brand-name } og synkroniser bokmerka dine, passord og opne faner overalt der du brukar { -brand-short-name }.
-onboarding-tracking-protection-title = Hald styr på korleis du vert spora
-# "Update" is a verb, as in "Update the existing settings", not "Options about
-# updates".
-onboarding-tracking-protection-button =
-    { PLATFORM() ->
-        [windows] Oppdater innstillingar
-       *[other] Oppdater innstillingar
-    }
 onboarding-tracking-protection-title2 = Vern frå sporing
 onboarding-tracking-protection-button2 = Korleis det verkar
 onboarding-data-sync-title = Ta med deg innstillingane dine
-onboarding-data-sync-button = Slå på { -sync-brand-short-name }
 onboarding-data-sync-button2 = Logg inn på { -sync-brand-short-name }
 onboarding-firefox-monitor-button = Registrer deg for varslingar
 onboarding-browse-privately-title = Surf privat
 onboarding-browse-privately-button = Opne eit privat vindauge
+onboarding-firefox-send-title = Hald dei delte filene dine privat
 onboarding-firefox-send-button = Prøv { -send-brand-name }
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Last ned mobilnettlesar
 onboarding-send-tabs-button = Prøv funksjonen
+onboarding-pocket-anywhere-title = Les og lytt kvar som helst
 onboarding-pocket-anywhere-button = Prøv { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Ta med deg passorda overalt
-onboarding-lockwise-passwords-button = Last ned { -lockwise-brand-name }
 onboarding-lockwise-passwords-button2 = Last ned appen
 onboarding-facebook-container-title = Spesifiser grenser for Facebook
 onboarding-facebook-container-button = Legg til utvidinga
