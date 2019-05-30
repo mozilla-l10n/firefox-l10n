@@ -79,6 +79,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = გადაწყვეტილებების ჩანაწერები
 graphics-crash-guards-title = უეცარი გათიშვებისგან დაცვის მიერ გამორთული შესაძლებლობები
 graphics-workarounds-title = შემოვლითი გზები
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = ფანჯრის ოქმი
 place-database-title = Places მონაცემთა ბაზა
 place-database-integrity = მთლიანობა
 place-database-verify-integrity = მთლიანობის გადამოწმება
