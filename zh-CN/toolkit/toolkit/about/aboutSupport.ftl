@@ -82,6 +82,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = 决策日志
 graphics-crash-guards-title = 被崩溃守卫禁用的功能
 graphics-workarounds-title = 变通方法
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = 窗口协议
 place-database-title = Places 数据库
 place-database-integrity = 完整性
 place-database-verify-integrity = 验证完整性

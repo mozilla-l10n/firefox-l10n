@@ -95,7 +95,7 @@ detail-update-manual =
 detail-private-browsing-label = 在隐私窗口中运行
 detail-private-browsing-description2 = 允许后，扩展可在隐私浏览中获知您的在线活动。<label data-l10n-name="detail-private-browsing-learn-more">详细了解</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
-# cannot be overriden by the user.
+# cannot be overridden by the user.
 detail-private-disallowed-label = 不支持隐私窗口
 detail-private-disallowed-description = 此扩展不支持在隐私浏览窗口中运行。<label data-l10n-name="detail-private-browsing-learn-more">详细了解</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
@@ -347,6 +347,11 @@ addon-badge-private-browsing-allowed =
 addon-detail-private-browsing-help = 若允许，扩展可在隐私浏览中获知您的在线活动。 <a data-l10n-name="learn-more">详细了解</a>
 addon-detail-private-browsing-allow = 允许
 addon-detail-private-browsing-disallow = 不允许
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = 推荐
+    .alt = 推荐
 available-updates-heading = 可用更新
 recent-updates-heading = 最近更新
 release-notes-loading = 正在载入…
