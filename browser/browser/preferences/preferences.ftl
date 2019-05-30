@@ -307,7 +307,7 @@ update-setting-write-failure-message =
     Njeda so do dataje pisać: { $path }
 update-in-progress-title = Aktualizacija běži
 update-in-progress-message = Chceće, zo { -brand-short-name } z tutej aktualizaciju pokročuje?
-update-in-progress-ok-button = ˛&Zaćisnyć
+update-in-progress-ok-button = &Zaćisnyć
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Dale
