@@ -55,6 +55,8 @@ onboarding-fxa-text = Eñemboheraguapy eguereko hag̃ua { -fxaccount-brand-name 
 onboarding-tracking-protection-title2 = Ñemo’ã jehapykueho rovake
 onboarding-tracking-protection-button2 = Mba'éichapa omba'apo
 onboarding-data-sync-title = Egueraha ne mbohekopyahu nendive
+onboarding-firefox-send-button = Eipuru { -send-brand-name }
+onboarding-pocket-anywhere-button = Eipuru { -pocket-brand-name }
 onboarding-lockwise-passwords-button2 = Eguerekóke tembipuru'i
 
 ## Message strings belonging to the Return to AMO flow
