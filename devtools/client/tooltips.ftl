@@ -19,6 +19,7 @@ inactive-css-not-grid-item = <strong>{ $property }</strong> không có tác dụ
 inactive-css-not-grid-container = <strong>{ $property }</strong> không có tác dụng đối với phần tử này vì nó không phải là ngăn chứa lưới.
 inactive-css-not-flex-item = <strong>{ $property }</strong> không có tác dụng đối với phần tử này vì nó không phải là một mục flex.
 inactive-css-not-flex-container = <strong>{ $property }</strong> không có tác dụng đối với phần tử này vì nó không phải là ngăn chứa flex.
+inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> không có tác dụng đối với phần tử này vì nó không phải là phần tử nội tuyến hoặc ô bảng.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -30,3 +31,4 @@ inactive-css-not-grid-item-fix = Hãy thử thêm <strong>display:grid</strong> 
 inactive-css-not-grid-container-fix = Hãy thử thêm <strong>display:grid</strong> hoặc <strong>display:inline-grid</strong>. { learn-more }
 inactive-css-not-flex-item-fix = Hãy thử thêm <strong>display:flex</strong> hoặc <strong>display:inline-flex</strong> vào mục gốc. { learn-more }
 inactive-css-not-flex-container-fix = Hãy thử thêm <strong>display:flex</strong> hoặc <strong>display:inline-flex</strong>. { learn-more }
+inactive-css-not-inline-or-tablecell-fix = Hãy thử thêm <strong>display:inline</strong> hoặc <strong>display:table-cell</strong>. { learn-more }

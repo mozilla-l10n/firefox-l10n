@@ -95,7 +95,7 @@ detail-update-manual =
 detail-private-browsing-label = Chạy trong cửa sổ riêng tư
 detail-private-browsing-description2 = Khi được cho phép, tiện ích mở rộng sẽ có quyền truy cập vào các hoạt động trực tuyến của bạn trong khi duyệt web riêng tư. <label data-l10n-name="detail-private-browsing-learn-more">Tìm hiểu thêm</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
-# cannot be overriden by the user.
+# cannot be overridden by the user.
 detail-private-disallowed-label = Không được phép trong cửa sổ riêng tư
 detail-private-disallowed-description = Tiện ích mở rộng này không chạy trong khi duyệt web riêng tư. <label data-l10n-name="detail-private-browsing-learn-more">Tìm hiểu thêm</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
@@ -358,6 +358,11 @@ addon-badge-private-browsing-allowed =
 addon-detail-private-browsing-help = Khi được cho phép, tiện ích mở rộng sẽ có quyền truy cập vào các hoạt động trực tuyến của bạn trong khi duyệt web riêng tư. <a data-l10n-name="learn-more">Tìm hiểu thêm</a>
 addon-detail-private-browsing-allow = Cho phép
 addon-detail-private-browsing-disallow = Không cho phép
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Được đề xuất
+    .alt = Được đề xuất
 available-updates-heading = Cập nhật có sẵn
 recent-updates-heading = Cập nhật gần đây
 release-notes-loading = Đang tải…

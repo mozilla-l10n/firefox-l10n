@@ -79,6 +79,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Nhật ký quyết định
 graphics-crash-guards-title = Vô hiệu hóa tính năng bảo vệ sự cố
 graphics-workarounds-title = Cách giải quyết
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Giao thức cửa sổ
 place-database-title = Cơ sở dữ liệu địa điểm
 place-database-integrity = Tính toàn vẹn
 place-database-verify-integrity = Xác nhận tính toàn vẹn
