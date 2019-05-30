@@ -23,6 +23,7 @@ onboarding-welcome-learn-more = Eikuaave mba’eporã rehegua.
 onboarding-join-form-header = Ejuaju { -brand-product-name } rehe
 onboarding-join-form-email =
     .placeholder = Ehai ñandutiveve kundaharape
+onboarding-join-form-email-error = Eikotevẽ ñandutiveve oikóva
 onboarding-join-form-continue = Eku'ejey
 onboarding-start-browsing-button-label = Eñepyrũ eikundaha
 
@@ -30,6 +31,7 @@ onboarding-start-browsing-button-label = Eñepyrũ eikundaha
 ## description.
 
 onboarding-benefit-products-title = Apopyre oikóva
+onboarding-benefit-knowledge-title = Kuaapy jepurukuaa
 onboarding-benefit-privacy-title = Ñemigua añetetéva
 
 ## These strings belong to the individual onboarding messages.
@@ -50,7 +52,9 @@ onboarding-ghostery-text = Eikundaha pya’eve, katupyry ha tekorosãme Ghostery
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Mbojuehe
 onboarding-fxa-text = Eñemboheraguapy eguereko hag̃ua { -fxaccount-brand-name } ha embojuehe nde rechaukaha, ñe’ẽñemi ha tendayke ijurujáva eipuruhápe { -brand-short-name }.
+onboarding-tracking-protection-title2 = Ñemo’ã jehapykueho rovake
 onboarding-tracking-protection-button2 = Mba'éichapa omba'apo
+onboarding-data-sync-title = Egueraha ne mbohekopyahu nendive
 onboarding-lockwise-passwords-button2 = Eguerekóke tembipuru'i
 
 ## Message strings belonging to the Return to AMO flow
