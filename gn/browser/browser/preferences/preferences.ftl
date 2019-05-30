@@ -46,10 +46,6 @@ category-search =
 pane-privacy-title = Ñemigua ha Tekorosã
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox mba'ete
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -293,6 +289,10 @@ update-pref-write-failure-title = Ojavy jehai
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Ndaikatúi eñongatu pe jeguerohoryvéva. Ndaikatúi ehai marandurendápe: { $path }
+update-in-progress-ok-button = &Hejarei
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Ku'ejey
 
 ## General Section - Performance
 
@@ -528,8 +528,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Eñongatu
     .accesskey = v
-sync-mobilepromo-single = Embojuaju ambue mba'e'oka
-sync-mobilepromo-multi = Mba'e'oka ñangarekoha
 sync-connect-another-device = Embojuaju ambue mba’e’oka
 sync-manage-devices = Eñangareko mba'e'okáre
 sync-fxa-begin-pairing = Embojoja mba'e'oka
@@ -685,7 +683,6 @@ content-blocking-all-third-party-cookies = Opaite kookie mbohapyguáva
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
 content-blocking-warning-title = ¡Ema'ẽmi!
-content-blocking-warning-desc = Kookie ha tapykuehoha jejoko ikatu nomomba’apo porãi ñanduti renda. Ndahasýi eipe’a hag̃ua jokoha tenda ejeroviaha pegua.
 content-blocking-warning-description = Tetepy jejoko ikatu nomomba’apo porãi ñanduti renda. Ikatúramo eipe’a pe jokoha tenda ejeroviaha pegua.
 content-blocking-learn-how = Mba’éicha eikuaa
 content-blocking-reload-description = Emonyhẽjeyva’erã umi tendayke oiko hag̃ua ko’ã moambuepyre.

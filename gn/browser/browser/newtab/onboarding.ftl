@@ -58,6 +58,7 @@ onboarding-data-sync-title = Egueraha ne mbohekopyahu nendive
 onboarding-firefox-send-button = Eipuru { -send-brand-name }
 onboarding-pocket-anywhere-button = Eipuru { -pocket-brand-name }
 onboarding-lockwise-passwords-button2 = Eguerekóke tembipuru'i
+onboarding-facebook-container-button = Embojuaju jepysokue
 
 ## Message strings belonging to the Return to AMO flow
 
