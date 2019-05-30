@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "Čińće tam dale, hdźež sće přestał.">
 <!ENTITY firstrun_sync_subtext2 "Wužiwajće Sync, zo byšće zapołožki, hesła a druhe wěcy namakał, kotrež w &brandShortName; na wšěch swojich gratach składujeće.">
 <!ENTITY newfirstrun_sync_subtext "Synchronizujće informacije, kotrež na mobilnym graće składujeće, z Firefox za desktop, priwatnje a wěsće.">
+<!ENTITY updatednewfirstrun_sync_subtext "Přizjewće so pola swojeho konta, zo byšće najlěpše z &brandShortName; wućahnył">
 <!ENTITY firstrun_signin_message "Zwjazajće so, započńće">
 <!ENTITY firstrun_signin_button "Pola Sync přizjewić">
 <!ENTITY newfirstrun_signin_button "Synchronizaciju zapinać">
+<!ENTITY updatednewfirstrun_signin_button "Pola &brandShortName; přizjewić">
 <!ENTITY  onboard_start_button_browser "Přehladowanje startować">
 <!ENTITY firstrun_button_notnow "Nic hnydom">
 <!ENTITY firstrun_button_next "Přichodny">
@@ -413,8 +415,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Sćehnjenja">
 <!ENTITY pref_private_data_syncedTabs "Synchronizowane rajtarki">
 
-<!ENTITY pref_default_browser "Jako standardny wobhladowak nastajić">
-
 <!ENTITY pref_default_browser2 "&brandShortName; k wašemu standardnemu wobhladowakej činić">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -679,6 +679,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Wubjerće abo natočće zynk">
 <!ENTITY filepicker_image_title "Wubjerće abo wutworće wobraz">
 <!ENTITY filepicker_video_title "Widejo wubrać abo natočić">
+
+<!ENTITY filepicker_permission_denied "Trěbne prawa njejsu so dali, wróći so k systemowemu datajowemu wuběrakej.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Sće zwjazany z">
