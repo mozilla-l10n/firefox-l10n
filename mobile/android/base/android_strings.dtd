@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "Parhau lle roeddech o\&apos;r blaen.">
 <!ENTITY firstrun_sync_subtext2 "Defnyddiwch Sync i ganfod nodau tudalen, cyfrineiriau a phethau eraill rydych wedi eu cadw i &brandShortName; ar eich holl ddyfeisiau.">
 <!ENTITY newfirstrun_sync_subtext "Cydweddwch y pethau rydych chi\&apos;n eu cadw ar Firefox symudol i Firefox y bwrdd gwaith, yn breifat ac yn ddiogel.">
+<!ENTITY updatednewfirstrun_sync_subtext "Mewngofnodwch i\&apos;ch cyfrif i gael y mwyaf o &brandShortName;">
 <!ENTITY firstrun_signin_message "Cysylltu a chychwyn arni">
 <!ENTITY firstrun_signin_button "Mewngofnodwch i Sync">
 <!ENTITY newfirstrun_signin_button "Cychwyn Sync">
+<!ENTITY updatednewfirstrun_signin_button "Mewngofnodi i &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Cychwyn Pori">
 <!ENTITY firstrun_button_notnow "Dim nawr">
 <!ENTITY firstrun_button_next "Nesaf">
@@ -413,8 +415,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Llwythi">
 <!ENTITY pref_private_data_syncedTabs "Tabiau wedi eu cydweddu">
 
-<!ENTITY pref_default_browser "Porwr rhagosodedig">
-
 <!ENTITY pref_default_browser2 "Gwneud &brandShortName; eich porwr rhagosodedig">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -679,6 +679,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Dewis neu recordio sain">
 <!ENTITY filepicker_image_title "Dewis neu dynnu llun">
 <!ENTITY filepicker_video_title "Dewis neu recordio fideo">
+
+<!ENTITY filepicker_permission_denied "Heb roi\&apos;r caniatâd gofynnol, gan ddychwelyd at ddewiswr ffeiliau\&apos;r system.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Rydych wedi cysylltu â">
