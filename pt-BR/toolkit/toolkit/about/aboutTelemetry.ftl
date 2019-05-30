@@ -142,3 +142,6 @@ about-telemetry-origin-count = contagem
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-origins-explanation = A <a data-l10n-name="origin-doc-link">Telemetria de origem do Firefox</a> codifica os dados antes de ser enviados, assim o { $telemetryServerOwner } pode contar coisas, mas não saber se algum { -brand-product-name } indicado contribuiu ou não para a contagem (<a data-l10n-name="prio-blog-link">saiba mais</a>).
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = Processo { $process }
