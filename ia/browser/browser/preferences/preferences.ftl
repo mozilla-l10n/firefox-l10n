@@ -290,6 +290,17 @@ update-pref-write-failure-title = Error de scriptura
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Incapace a salvar le option. Impossibile scriber al file: { $path }
+update-setting-write-failure-title = Impossibile registrar preferentias de actualisation
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } ha incontrate un error e non ha potite registrar iste cambiamento. Nota que modificar iste preferentia de actualisation necessita le permission de scriber al file mentionate infra. Tu, o un administrator de systema, pote forsan corriger le problema per conceder al gruppo Usatores le controlo complete de iste file.
+    
+    Impossibile scriber al file: { $path }
+update-in-progress-title = Actualisation in curso
+update-in-progress-message = Vole tu que { -brand-short-name } continua iste actualisation?
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
