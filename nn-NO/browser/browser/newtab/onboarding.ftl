@@ -61,6 +61,7 @@ onboarding-browse-privately-title = Surf privat
 onboarding-browse-privately-button = Opne eit privat vindauge
 onboarding-firefox-send-title = Hald dei delte filene dine privat
 onboarding-firefox-send-button = Prøv { -send-brand-name }
+onboarding-mobile-phone-title = Last ned { -brand-product-name } til telefonen din
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Last ned mobilnettlesar
