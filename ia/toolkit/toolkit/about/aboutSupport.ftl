@@ -82,6 +82,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Registro de decision
 graphics-crash-guards-title = Functionalitates inactive de protection contra collapso
 graphics-workarounds-title = Solutiones alternative
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Protocollo de fenestra
 place-database-title = Base de datos de locos
 place-database-integrity = Integritate
 place-database-verify-integrity = Verificar le integritate

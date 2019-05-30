@@ -19,6 +19,7 @@ inactive-css-not-grid-item = <strong>{ $property }</strong> ha nulle effecto sur
 inactive-css-not-grid-container = <strong>{ $property }</strong> ha nulle effecto sur iste elemento pois que illo non es un receptaculo de grillia.
 inactive-css-not-flex-item = <strong>{ $property }</strong> ha nulle effecto sur iste elemento pois que illo non es un elemento de flex.
 inactive-css-not-flex-container = <strong>{ $property }</strong> ha nulle effecto sur iste elemento pois que illo non es un receptaculo de flex.
+inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> non ha effecto sur iste elemento perque non es un elemento “inline” o “table-cell”.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -30,3 +31,4 @@ inactive-css-not-grid-item-fix = Prova a adder <strong>monstrar:grillia</strong>
 inactive-css-not-grid-container-fix = Prova a adder <strong>monstrar:grillia</strong> o <strong>monstrar:grillia in linea</strong>.{ learn-more }
 inactive-css-not-flex-item-fix = Prova a adder <strong>monstrar:flex</strong> o <strong>monstrar:flex in linea</strong> al genitor del elemento. { learn-more }
 inactive-css-not-flex-container-fix = Prova a adder <strong>monstrar:flex</strong> o <strong>monstrar:flex in linea</strong>. { learn-more }
+inactive-css-not-inline-or-tablecell-fix = Tenta adder <strong>display:inline</strong> o <strong>display:table-cell</strong>. { learn-more }

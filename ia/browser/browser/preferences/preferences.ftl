@@ -301,6 +301,7 @@ update-setting-write-failure-message =
     Impossibile scriber al file: { $path }
 update-in-progress-title = Actualisation in curso
 update-in-progress-message = Vole tu que { -brand-short-name } continua iste actualisation?
+update-in-progress-ok-button = &Discartar
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar

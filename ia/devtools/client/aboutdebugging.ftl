@@ -294,5 +294,9 @@ about-debugging-main-process-description2 = Processo principal pro le navigator 
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Clauder message
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = Detalios del error
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = Detalios del aviso
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Detalios
