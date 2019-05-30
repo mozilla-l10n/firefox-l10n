@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "Tiếp tục trang mà bạn vừa rời khỏi.">
 <!ENTITY firstrun_sync_subtext2 "Sử dụng đồng bộ hóa để tìm trang đánh dấu, mật khẩu và những thứ bạn lưu vào &brandShortName; trên tất cả các thiết bị của bạn.">
 <!ENTITY newfirstrun_sync_subtext "Đồng bộ hóa những thứ bạn lưu trên thiết bị di động với Firefox cho máy tính để bàn, riêng tư và an toàn.">
+<!ENTITY updatednewfirstrun_sync_subtext "Đăng nhập vào tài khoản của bạn để tận dụng tối đa &brandShortName;">
 <!ENTITY firstrun_signin_message "Thiết lập kết nối và bắt đầu">
 <!ENTITY firstrun_signin_button "Đăng nhập để đồng bộ">
 <!ENTITY newfirstrun_signin_button "Bật đồng bộ hóa">
+<!ENTITY updatednewfirstrun_signin_button "Đăng nhập vào &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Bắt đầu duyệt web">
 <!ENTITY firstrun_button_notnow "Không phải lúc này">
 <!ENTITY firstrun_button_next "Tiếp">
@@ -413,8 +415,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Tải xuống">
 <!ENTITY pref_private_data_syncedTabs "Các thẻ đã đồng bộ">
 
-<!ENTITY pref_default_browser "Đặt trình duyệt làm mặc định">
-
 <!ENTITY pref_default_browser2 "Đặt &brandShortName; làm trình duyệt mặc định của bạn">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -679,6 +679,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Chọn hoặc tạo một âm thanh">
 <!ENTITY filepicker_image_title "Chọn hoặc chụp một bức ảnh">
 <!ENTITY filepicker_video_title "Chọn hoặc ghi một đoạn video">
+
+<!ENTITY filepicker_permission_denied "Quyền yêu cầu đã không được cấp, đang trở lại bộ chọn tập tin hệ thống.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Bạn đang kết nối đến">
