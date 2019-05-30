@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "Folytassa ott, ahol abbahagyta.">
 <!ENTITY firstrun_sync_subtext2 "Használja a Syncet a könyjzők, jelszavak, és más dolgok megtalálására, amelyeket a &brandShortName; böngészőbe ment az összes eszközén.">
 <!ENTITY newfirstrun_sync_subtext "Szinkronizálja a mobilra mentett dolgokat az asztali Firefoxszal, bizalmasan és biztonságosan.">
+<!ENTITY updatednewfirstrun_sync_subtext "Jelentkezzen be fiókjába, hogy a legtöbbet hozza ki a &brandShortName;ból">
 <!ENTITY firstrun_signin_message "Kapcsolódjon, vágjon bele">
 <!ENTITY firstrun_signin_button "Jelentkezzen be a Syncbe">
 <!ENTITY newfirstrun_signin_button "Sync bekapcsolása">
+<!ENTITY updatednewfirstrun_signin_button "Jelentkezzen be a &brandShortName;ba">
 <!ENTITY  onboard_start_button_browser "Böngészés megkezdése">
 <!ENTITY firstrun_button_notnow "Most nem">
 <!ENTITY firstrun_button_next "Következő">
@@ -413,8 +415,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Letöltések">
 <!ENTITY pref_private_data_syncedTabs "Szinkronizált lapok">
 
-<!ENTITY pref_default_browser "Alapértelmezett böngészővé tétel">
-
 <!ENTITY pref_default_browser2 "A &brandShortName; beállítása alapértelmezett böngészőnek">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -679,6 +679,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Válasszon vagy vegyen fel egy hangot">
 <!ENTITY filepicker_image_title "Válasszon vagy készítsen egy képet">
 <!ENTITY filepicker_video_title "Válasszon vagy vegyen fel egy videót">
+
+<!ENTITY filepicker_permission_denied "A szükséges engedélyek nem lettek megadva, visszatérés a rendszer fájlválasztójához.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "A következőhöz csatlakozott:">
