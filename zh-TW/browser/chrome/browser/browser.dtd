@@ -244,14 +244,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "已進入全螢幕">
-<!ENTITY fullscreenWarning.generic.label "此文件已進入全螢幕">
+<!ENTITY fullscreenWarning.afterDomain.label "已進入全螢幕模式">
+<!ENTITY fullscreenWarning.generic.label "此文件已進入全螢幕模式">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "離開全螢幕（Esc）">
-<!ENTITY exitDOMFullscreenMac.button "離開全螢幕（Esc）">
+<!ENTITY exitDOMFullscreen.button "離開全螢幕模式（Esc）">
+<!ENTITY exitDOMFullscreenMac.button "離開全螢幕模式（Esc）">
 <!ENTITY leaveDOMFullScreen.label "離開全螢幕模式">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 

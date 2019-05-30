@@ -19,6 +19,7 @@ inactive-css-not-grid-item = 由於不是 Grid 項目，<strong>{ $property }</s
 inactive-css-not-grid-container = 由於不是 Grid 容器，<strong>{ $property }</strong> 對此元素沒有影響。
 inactive-css-not-flex-item = 由於不是 Flex 項目，<strong>{ $property }</strong> 對此元素沒有影響。
 inactive-css-not-flex-container = 由於不是 Flex 容器，<strong>{ $property }</strong> 對此元素沒有影響。
+inactive-css-not-inline-or-tablecell = 由於不是行內或表格欄位元素，<strong>{ $property }</strong> 對此元素沒有影響。
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -30,3 +31,4 @@ inactive-css-not-grid-item-fix = 請嘗試為項目的父元素加入 <strong>di
 inactive-css-not-grid-container-fix = 請嘗試加入 <strong>display:grid</strong> 或 <strong>display:inline-grid</strong>。{ learn-more }
 inactive-css-not-flex-item-fix = 請嘗試為項目的父元素加入 <strong>display:flex</strong> 或 <strong>display:inline-flex</strong>。{ learn-more }
 inactive-css-not-flex-container-fix = 請嘗試加入 <strong>display:flex</strong> 或 <strong>display:inline-flex</strong>。{ learn-more }
+inactive-css-not-inline-or-tablecell-fix = 請嘗試加入 <strong>display:inline</strong> 或 <strong>display:table-cell</strong>。{ learn-more }
