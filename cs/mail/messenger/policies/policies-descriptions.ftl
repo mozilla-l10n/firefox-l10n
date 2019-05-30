@@ -10,10 +10,55 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
-policy-Proxy = Konfigurovat nastavení proxy.
+policy-3rdparty = Nastavení pravidel, ke kterým mají přístup rozšíření skrze chrome.storage.managed.
+policy-AppUpdateURL = Nastavení vlastní URL pro aktualizace aplikace.
+policy-Authentication = Konfigurace integrované autentizace webových stránek, které ji podporují.
+policy-BlockAboutAddons = Zablokování přístupu do správce doplňků (about:addons).
+policy-BlockAboutConfig = Zablokování přístupu do editoru předvoleb (about:config).
+policy-BlockAboutProfiles = Zablokování přístupu do správce profilů (about:profiles).
+policy-BlockAboutSupport = Zablokování přístupu na stránku s technickými informacemi (about:support).
+policy-CaptivePortal = Povolení nebo zakázání podpory captive portálů.
+policy-CertificatesDescription = Přidat certifikáty nebo použít vestavěné certifikáty.
+policy-Cookies = Pravidla pro ukládání nebo blokování cookies.
+policy-DefaultDownloadDirectory = Nastavení výchozího adresáře pro stahování souborů.
+policy-DisableAppUpdate = Blokování aktualizací aplikace { -brand-short-name }.
+policy-DisableDeveloperTools = Blokování přístupu k nástrojům pro vývojáře.
+policy-DisableFeedbackCommands = Blokování odeslání zpětné vazby z nabídky Nápověda (volby Odeslat zpětnou vazbu a Nahlásit klamavou stránku).
+policy-DisableForgetButton = Zablokování tlačítka Zapomenout.
+policy-DisableMasterPasswordCreation = Hodnota true znemožní nastavení hlavního hesla.
+policy-DisableProfileImport = Blokování importu dat z jiných aplikací.
+policy-DisableSafeMode = Zablokování možnosti restartovat se zakázanými doplňky. Poznámka: přechod do nouzového režimu podržením klávesy Shift lze zablokovat jen na systému Windows pomocí zásad skupin.
+policy-DisableSecurityBypass = Zabránit uživateli obcházení některých bezpečnostních varování.
+policy-DisableSystemAddonUpdate = Zablokování aplikaci { -brand-short-name } aktualizovat systémové doplňky.
+policy-DisableTelemetry = Vypnutí telemetrie.
+policy-DisplayMenuBar = Zobrazení hlavní nabídky ve výchozím nastavení.
+policy-DNSOverHTTPS = Nastavení DNS přes HTTPS.
+policy-DontCheckDefaultClient = Vypnutí kontroly nastavení výchozí aplikace při spuštění.
+policy-DownloadDirectory = Nastavení a uzamčení nastavení adresáře pro stahování souborů.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Zapnutí nebo vypnutí blokování obsahu a případně jeho uzamčení.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = Instalace, odinstalace a uzamčení rozšíření. Pro instalaci je potřeba jako parametr zadat URL adresy nebo cesty. Pro odinstalaci nebo uzamčení ID rozšíření.
+policy-ExtensionUpdate = Vypnutí nebo zapnutí automatických aktualizací rozšíření.
+policy-HardwareAcceleration = Hodnota false vypne použití hardwarové akcelerace.
+policy-InstallAddonsPermission = Povolení instalace doplňků z vybraných webových stránek.
+policy-LocalFileLinks = Povolí vybraným stránkám odkazovat na soubory uložené na místním disku.
+policy-NetworkPrediction = Povolení nebo zakázání přednačítání DNS.
+policy-OfferToSaveLogins = Nastavení dotazu na uložení přihlašovacích údajů v aplikaci { -brand-short-name }. Lze použít hodnoty true i false.
+policy-OverrideFirstRunPage = Nastavení vlastní stránky při prvním spuštění. Pokud nechcete při prvním spuštění zobrazovat žádnou stránku, nastavte toto pravidlo jako prázdné.
+policy-OverridePostUpdatePage = Nastavení vlastní stránky po aktualizaci. Pokud nechcete po aktualizaci zobrazovat žádnou stránku, nastavte toto pravidlo jako prázdné.
+policy-Preferences = Nastavení a uzamčení hodnoty pro podmnožinu předvoleb.
+policy-PromptForDownloadLocation = Zeptat se na adresář před stažením souboru.
+policy-Proxy = Nastavení proxy.
+policy-RequestedLocales = Nastavení seznamu požadovaných jazyků pro zobrazení aplikace, v pořadí podle preference.
+policy-SanitizeOnShutdown2 = Vymazání dat o prohlížení během vypnutí.
+policy-SearchEngines = Nastavení vyhledávačů. Toto pravidlo je dostupné jen pro verzi s rozšířenou podporou (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
-policy-SecurityDevices = Nainstalovat moduly PKCS #11.
-policy-SSLVersionMax = Nastavit maximální verzi SSL.
-policy-SSLVersionMin = Nastavit minimální verzi SSL.
+policy-SecurityDevices = Instalace modulů PKCS #11.
+policy-SSLVersionMax = Nastavení maximální verze SSL.
+policy-SSLVersionMin = Nastavení minimální verze SSL.
+policy-SupportMenu = Přidání vlastní položky nabídky s nápovědou.
 # “format” refers to the format used for the value of this policy.
-policy-WebsiteFilter = Blokovat návštěvy webových stránek. Více informací o formátu najdete v dokumentace.
+policy-WebsiteFilter = Blokování návštěvy webových stránek. Více informací o formátu najdete v dokumentaci.
