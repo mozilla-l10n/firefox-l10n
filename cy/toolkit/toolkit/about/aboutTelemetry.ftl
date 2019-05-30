@@ -86,7 +86,7 @@ about-telemetry-ping-details-current = Mae pob darn o wybodaeth wedi ei anfon we
 # Variables:
 #   $selectedTitle (String): the section name from the structure of the ping.
 about-telemetry-filter-placeholder =
-    .placeholder = Canfod yn { $selectedTitle }
+    .placeholder = Canfod yn y { $selectedTitle }
 about-telemetry-filter-all-placeholder =
     .placeholder = Canfod ym mhob adran
 # Variables:

@@ -302,12 +302,27 @@ update-pref-write-failure-title = Methiant Ysgrifennu
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Methu cadw'r dewisiadau. Methu ysgrifnenu i ffeil: { $path }
+update-setting-write-failure-title = Gwall wrth gadw dewisiadau Diweddaru
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    Bu gwall ar { -brand-short-name } ac nid yw wedi cadw'r newid hwn. Noder bod gosod caniatâd ar gyfer y diweddariad hwn yn gofyn am ganiatâd i ysgrifennu at y ffeil isod. Efallai y byddwch chi neu weinyddwr system yn gallu datrys y gwall trwy roi rheolaeth lawn i'r ffeil hon i'r grŵp Defnyddwyr.
+    
+    Doedd dim modd ysgrifennu i ffeil: { $path }
+update-in-progress-title = Wrthi'n Diweddaru
+update-in-progress-message = Hoffech chi i { -brand-short-name } barhau gyda'r diweddariad hwn?
+update-in-progress-ok-button = &Dileu
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Parhau
 
 ## General Section - Performance
 
 performance-title = Perfformiad
 performance-use-recommended-settings-checkbox =
-    .label = Defnyddio gosodiadau perfformiad sy'n cael eu hargymell
+    .label = Defnyddio'r gosodiadau perfformiad sy'n cael eu hargymell
     .accesskey = D
 performance-use-recommended-settings-desc = Mae'r gosodiadau hyn wedi eu teilwrio i galedwedd a system weithredu eich cyfrifiadur.
 performance-settings-learn-more = Dysgu rhagor
@@ -585,7 +600,7 @@ history-remember-option-all =
 history-remember-option-never =
     .label = Peidio cofio hanes
 history-remember-option-custom =
-    .label = Defnyddio gosodiadau cyfaddasu ar gyfer hanes
+    .label = Defnyddio gosodiadau cyfaddas ar gyfer hanes
 history-remember-description = Bydd { -brand-short-name } yn cofio eich hanes pori, llwytho i lawr, ffurflenni a chwilio.
 history-dontremember-description = Bydd { -brand-short-name } yn defnyddio'r un gosodiadau â phori preifat, ond ni fydd yn cofio unrhyw hanes wrth i chi bori'r We.
 history-private-browsing-permanent =
