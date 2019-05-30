@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 clear-site-data-window =
-    .title = Clarar le datos
+    .title = Eliminar datos
     .style = width: 35em
 clear-site-data-description = Le elimination de tote le cookies e datos de sitos web immagazinate per { -brand-short-name } pote clauder tu sessiones active in sitos web e remover contento web immagazinate pro uso sin connexion. Eliminar le datos del cache non afficera tu sessiones active.
 clear-site-data-close-key =
@@ -46,5 +46,5 @@ clear-site-data-cancel =
     .label = Cancellar
     .accesskey = C
 clear-site-data-clear =
-    .label = Clarar
+    .label = Eliminar
     .accesskey = l

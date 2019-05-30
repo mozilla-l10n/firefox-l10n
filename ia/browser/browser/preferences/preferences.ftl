@@ -642,7 +642,7 @@ sitedata-option-block-all-third-party =
 sitedata-option-block-all =
     .label = Tote le cookies (impedira alcun sitos web de functionar)
 sitedata-clear =
-    .label = Clarar le datos...
+    .label = Eliminar datos...
     .accesskey = l
 sitedata-settings =
     .label = Gerer le datos...
@@ -856,8 +856,8 @@ space-alert-over-5gb-pref-button =
         }
 space-alert-over-5gb-message =
     { PLATFORM() ->
-        [windows] { -brand-short-name } es fluente foras de spatio de disco. Le contentos del sito web non pote monstrar se correctemente. Tu pote clarar datos immagazinate in Optiones > Confidentialitate & Securitate > Cookies e Datos de sito.
-       *[other] { -brand-short-name } es fluente foras de spatio de disco. Le contentos del sito web non pote monstrar se correctemente. Tu pote clarar datos immagazinate in Preferentias > Confidentialitate & Securitate > Cookies e Datos de sito.
+        [windows] Le spatio de disco disponibile a { -brand-short-name } es quasi exhaurite. Le contento de sitos web pote non monstrar se correctemente. Tu pote eliminar datos immagazinate in Optiones > Confidentialitate & Securitate > Cookies e Datos de sito.
+       *[other] Le spatio de disco disponibile a { -brand-short-name } es quasi exhaurite. Le contento de sitos web pote non monstrar se correctemente. Tu pote eliminar datos immagazinate in Preferentias > Confidentialitate & Securitate > Cookies e Datos de sito.
     }
 space-alert-under-5gb-ok-button =
     .label = De accordo
