@@ -98,7 +98,7 @@ detail-update-manual =
 detail-private-browsing-label = პირად ფანჯრებში გაშვება
 detail-private-browsing-description2 = დაშვების შემთხვევაში, გაფართოებას წვდომა ექნება თქვენს მოქმედებებზე პირად ფანჯრებში. <label data-l10n-name="detail-private-browsing-learn-more">იხილეთ ვრცლად</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
-# cannot be overriden by the user.
+# cannot be overridden by the user.
 detail-private-disallowed-label = არაა დაშვებული პირად ფანჯრებში
 detail-private-disallowed-description = ეს გაფართოება არ გაეშვება პირადი თვალიერებისას. <label data-l10n-name="detail-private-browsing-learn-more">ვრცლად</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
@@ -362,6 +362,11 @@ addon-badge-private-browsing-allowed =
 addon-detail-private-browsing-help = დაშვების შემთხვევაში, გაფართოებას წვდომა ექნება თქვენს მოქმედებებზე პირად ფანჯრებში. <a data-l10n-name="learn-more">ვრცლად</a>
 addon-detail-private-browsing-allow = დაშვება
 addon-detail-private-browsing-disallow = აკრძალვა
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = შემოთავაზებული
+    .alt = შემოთავაზებული
 available-updates-heading = ხელმისწვდომი განახლებები
 recent-updates-heading = ბოლო განახლებები
 release-notes-loading = იტვირთება...
