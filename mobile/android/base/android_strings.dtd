@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "Riprendi da dove ti eri interrotto">
 <!ENTITY firstrun_sync_subtext2 "Utilizza Sync per accedere da tutti i dispositivi a segnalibri, password e altre informazioni salvate in &brandShortName;.">
 <!ENTITY newfirstrun_sync_subtext "Sincronizza le informazioni salvate sul tuo dispositivo mobile con Firefox sul tuo computer, in modo riservato e sicuro.">
+<!ENTITY updatednewfirstrun_sync_subtext "Accedi al tuo account per ottenere il massimo da &brandShortName;">
 <!ENTITY firstrun_signin_message "Connettiti e inizia">
 <!ENTITY firstrun_signin_button "Accedi a Sync">
 <!ENTITY newfirstrun_signin_button "Attiva Sync">
+<!ENTITY updatednewfirstrun_signin_button "Accedi a &brandShortName;">
 <!ENTITY onboard_start_button_browser "Inizia a navigare">
 <!ENTITY firstrun_button_notnow "Non adesso">
 <!ENTITY firstrun_button_next "Successivo">
