@@ -286,6 +286,8 @@ update-pref-write-failure-title = 写入失败
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = 无法保存首选项。未能写入文件：{ $path }
+update-setting-write-failure-title = 保存首选项更改时出错
+update-in-progress-title = 正在更新
 
 ## General Section - Performance
 
