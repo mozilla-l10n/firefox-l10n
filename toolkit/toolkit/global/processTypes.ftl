@@ -6,6 +6,12 @@ process-type-web = Webbinnehåll
 # process used to run privileged pages,
 # such as about:home
 process-type-privileged = Privilegierat innehåll
+# process used to run privileged about pages,
+# such as about:home
+process-type-privilegedabout = Privilegierad About
+# process used to run privileged mozilla pages,
+# such as accounts.firefox.com
+process-type-privilegedmozilla = Privilegierat Mozilla-innehåll
 process-type-extension = Utökning
 # process used to open file:// URLs
 process-type-file = Lokal fil
