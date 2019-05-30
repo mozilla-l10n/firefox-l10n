@@ -4,6 +4,7 @@
 
 <!ENTITY firstrun_panel_title_welcome "স্বাগতম">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; পছন্দ করার জন্য ধন্যবাদ">
+<!ENTITY newfirstrun_urlbar_message "&brandShortName; এ স্বাগতম">
 <!ENTITY firstrun_urlbar_subtext2 "ফ্রি ও উন্মুক্ত ওয়েবে প্রতিজ্ঞাবদ্ধ ও অবাণিজ্যিক প্রতিষ্ঠান Mozilla, হতে একটি আধুনিক মোবাইল ব্রাউজার।">
 <!ENTITY firstrun_panel_title_privacy "গোপনীয়তা">
 <!ENTITY firstrun_privacy_message "এমনভাবে ব্রাউজ করুন যেন কেউ না দেখে">
@@ -22,6 +23,7 @@
 <!ENTITY firstrun_sync_subtext2 "আপনার সব ডিভাইসে বুকমার্ক, পাসওয়ার্ড এবং অন্যান্য জিনিস খুঁজে পেতে সিঙ্ক ব্যবহার করুন যা আপনি &brandShortName; এ সংরক্ষণ করেছেন।">
 <!ENTITY firstrun_signin_message "সংযুক্ত হন, শুরু করুন">
 <!ENTITY firstrun_signin_button "সিঙ্ক করতে সাইন ইন করুন">
+<!ENTITY newfirstrun_signin_button "Sync চালু করুন">
 <!ENTITY  onboard_start_button_browser "ব্রাউজিং শুরু করুন">
 <!ENTITY firstrun_button_notnow "এখনই নয়">
 <!ENTITY firstrun_button_next "পরবর্তী">
@@ -408,7 +410,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "ডাউনলোড">
 <!ENTITY pref_private_data_syncedTabs "সিঙ্ককৃত ট্যাব">
 
-<!ENTITY pref_default_browser "ডিফল্ট ব্রাউজার করুন">
+<!ENTITY pref_default_browser2 "&brandShortName; কে আপনার ডিফল্ট ব্রাউজার করুন">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla Support দেখুন">
 <!ENTITY pref_about_firefox "&brandShortName; পরিচিতি">
 <!ENTITY pref_vendor_faqs "FAQ">
@@ -503,6 +508,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "পূর্ববর্তী">
 <!ENTITY find_next "পরবর্তী">
 <!ENTITY find_close "বন্ধ">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "বাক্যাংশ পাওয়া যায়নি">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -664,6 +673,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "বেছে নিন বা একটি শব্দ রেকর্ড করুন">
 <!ENTITY filepicker_image_title "বেছে নিন বা একটি ছবি তুলুন">
 <!ENTITY filepicker_video_title "বেছে নিন বা একটি ভিডিও রেকর্ড করুন">
+
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "আপনি এই সাইটের সাথে সংযুক্ত">
