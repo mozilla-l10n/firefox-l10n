@@ -82,6 +82,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Protokol rozhodování
 graphics-crash-guards-title = Zakázat funkce Crash Guard
 graphics-workarounds-title = Možná řešení
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Protokol zobrazování oken
 place-database-title = Databáze Places
 place-database-integrity = Integrita
 place-database-verify-integrity = Zkontrolovat integritu
