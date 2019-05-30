@@ -25,3 +25,4 @@ about-private-browsing =
 about-private-browsing-not-private = Ntañu´u ntu yɨ´ɨnu nuu iin ventana yu´u
 content-blocking-title = Nakasɨ contenido
 content-blocking-description = Iyo daa nuu Web ni´ida ka̱a̱ nita noo´o nuu Internet. Nuu daa ventana yu´u { -brand-short-name } a chiyu´u tu´un { -brand-short-name } ka̱a̱ chiyu´u nakasɨ daa ka̱a̱ nita a sá´á noo´o nuu Internet.
+about-private-browsing-info-description = { -brand-short-name } xita a nnánukunu a nsá´ánu saa kenenu nuu ka̱a̱ a xiin nakasɨnu kuaiyo daa pestaña jíí ventana nánuku yu´u . Ya´a ntu taji a noo´o nánuku yu´u nuu Web jii nuu ñɨvu tatu Internet, ya´a sá´á kumi a nánukunu nuu inka ñɨvu ni´i ka̱a̱ tee nɨnuu ya´a.
