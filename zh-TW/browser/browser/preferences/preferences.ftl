@@ -278,6 +278,13 @@ update-pref-write-failure-title = 寫入失敗
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = 無法儲存偏好設定。無法寫入檔案: { $path }
+update-setting-write-failure-title = 儲存更新偏好設定時發生錯誤
+update-in-progress-title = 更新中
+update-in-progress-message = 您希望 { -brand-short-name } 繼續此更新嗎？
+update-in-progress-ok-button = 捨棄 (&D)
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = 繼續 (&C)
 
 ## General Section - Performance
 

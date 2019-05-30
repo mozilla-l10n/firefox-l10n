@@ -82,6 +82,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = 決策紀錄
 graphics-crash-guards-title = 因 Crash Guard 停用的功能
 graphics-workarounds-title = Workarounds
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = 視窗通訊協定
 place-database-title = Places 資料庫
 place-database-integrity = 資料完整
 place-database-verify-integrity = 確認資料完整
