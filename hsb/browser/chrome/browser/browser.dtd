@@ -886,7 +886,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Tuta strona je so z rozšěrjenja začitała.">
 <!ENTITY identity.insecureLoginForms2 "Přizjewjenja, kotrež so na tutej stronje zapodawaja, móhli wohrožene być.">
 
-<!ENTITY identity.customRoot "Zwisk je so přez certifikatoweho wudawarja přepruwował, kotryž wot Mozilla připóznany njeje.">
+<!ENTITY identity.customRoot "Zwisk je so přez certifikatoweho wudawarja přepruwował, kotryž wot Mozilla připóznaty njeje.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; je dźěle tuteje strony zablokował, kotrež wěste njejsu.">
