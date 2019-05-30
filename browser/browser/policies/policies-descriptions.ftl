@@ -21,6 +21,7 @@ policy-Bookmarks = Opprett bokmerke i bokmerkeverktøylinja, i bokmerkermenyen e
 policy-CaptivePortal = Aktiver eller deaktiver støtte for captive portal.
 policy-CertificatesDescription = Legg til sertifikat eller bruk innebygde sertifikat.
 policy-Cookies = Tillat eller nekt nettstadar å lagre infokapslar.
+policy-DefaultDownloadDirectory = Vel standardmappe for nedlastingar.
 policy-DisableAppUpdate = Hindre oppdatering av nettlesaren.
 policy-DisableBuiltinPDFViewer = Deaktiver PDF.js, det innebygde PDF-visingsprogrammet i { -brand-short-name }
 policy-DisableDeveloperTools = Blokker tilgang til utviklarverktøya.
