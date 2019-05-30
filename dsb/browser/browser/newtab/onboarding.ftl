@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
-
-
 ### UI strings for the simplified onboarding modal / about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -66,22 +63,10 @@ onboarding-ghostery-text = Pśeglědujśo malsnjej, wěcej inteligentnje abo wě
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Snychronizěrowaś
 onboarding-fxa-text = Registrěrujśo se za { -fxaccount-brand-name } a synchronizěrujśo swóje cytańske znamjenja, gronidła a wócynjone rejtarki, źožkuli { -brand-short-name } wužywaśo.
-onboarding-tracking-protection-title = Kontrola nad slědowanim online
-onboarding-tracking-protection-text = Njocośo, až wabjenje wam slědujo? { -brand-short-name } wam pomaga kontrolěrowaś, kak wabjece wašym aktiwitam online slěduju.
-# "Update" is a verb, as in "Update the existing settings", not "Options about
-# updates".
-onboarding-tracking-protection-button =
-    { PLATFORM() ->
-        [windows] Nastajenja aktualizěrowaś
-       *[other] Nastajenja aktualizěrowaś
-    }
 onboarding-tracking-protection-title2 = Šćit pśeśiwo slědowanjeju
 onboarding-tracking-protection-text2 = { -brand-short-name } wam pomaga, websedłam zawoboraś, wam online slědowaś, aby za wabjenje śěžčej było, wam pó webje slědowaś.
 onboarding-tracking-protection-button2 = Kak funkcioněrujo
 onboarding-data-sync-title = Wzejśo swóje nastajenja sobu
-# "Sync" is short for synchronize.
-onboarding-data-sync-text = Synchronizěrujśo swóje cytańske znamjenja a gronidła wšuźi, źož { -brand-product-name } wužywaśo.
-onboarding-data-sync-button = { -sync-brand-short-name } zašaltowaś
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Synchronizěrujśo swóje cytańske znamjenja a gronidła a wěcej wšuźi, źož { -brand-product-name } wužywaśo.
 onboarding-data-sync-button2 = Pla { -sync-brand-short-name } pśizjawiś
@@ -92,7 +77,6 @@ onboarding-browse-privately-title = Pśeglědowajśo z priwatnosću
 onboarding-browse-privately-text = Priwatny modus wašu pytańsku a pśeglědowańsku historiju wulašujo, aby jej pśed kuždym zatajił, kótaryž wašo licadło wužywa.
 onboarding-browse-privately-button = Priwatne wokno wócyniś
 onboarding-firefox-send-title = Źaržćo swóje źělone dataje priwatne
-onboarding-firefox-send-text = { -send-brand-name } dataje, kótarež źěliśo, z koděrowanim kóńc do kóńca a z wótkazom, kótaryž awtomatiski spadnjo, šćita.
 onboarding-firefox-send-text2 = Nagrajśo swóje dataje do { -send-brand-name }, aby je z koděrowanim kóńc do kóńca a z wótkazom, kótaryž awtomatiski spadnjo, źělił.
 onboarding-firefox-send-button = { -send-brand-name } wopytaś
 onboarding-mobile-phone-title = Instalěrujśo se { -brand-product-name } na swójom telefonje
@@ -106,16 +90,13 @@ onboarding-send-tabs-title = Sćelśo něd rejtarki
 onboarding-send-tabs-text = Sen Tabs ned boki mjazy wašymi rědami źěli, bźeztogo aby kopěrował, zasajźił abo wobglědowak spušćił.
 onboarding-send-tabs-button = Wužywajśo Send Tabs
 onboarding-pocket-anywhere-title = Cytajśo a słuchajśo wšuźi
-# "downtime" refers to the user's free/spare time.
-onboarding-pocket-anywhere-text = { -pocket-brand-name } waše nejlubše tšojeńka składujo, aby je za pawze cytał, słuchał a se woglědał, samo gaby wy był offline.
 onboarding-pocket-anywhere-text2 = Składujśo swój nejlubše wopśimjeśe offline z nałoženim { -pocket-brand-name } a cytajśo, słuchajśo a woglědajśo, gažkuli se wam góźi.
 onboarding-pocket-anywhere-button = { -pocket-brand-name } wopytaś
 onboarding-lockwise-passwords-title = Wzejśo swóje gronidła wšuźi sobu
-onboarding-lockwise-passwords-text = { -lockwise-brand-name } waše gronidła na wěstem městnje składujo, aby mógał se lažko pla wašych kontow pśizjawiś.
-onboarding-lockwise-passwords-button = { -lockwise-brand-name } wobstaraś
 onboarding-lockwise-passwords-text2 = Źaržćo gronidła, kótarež składujośo, wěste a pśizjawśo se lažko pla swójich kontow z { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Nałoženje wobstaraś
 onboarding-facebook-container-title = Stajśo granice za Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } waš profil źělony wót wšogo drugego źaržy. Tak jo śěžej za Facebook, wam zaměrne wabjenje pokazaś.
 onboarding-facebook-container-button = Rozšyrjenje pśidaś
 
 ## Message strings belonging to the Return to AMO flow

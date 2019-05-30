@@ -34,6 +34,7 @@ policies-notice =
         [windows] Waša organizacija jo změny někotarych nastajenjow znjemóžnił.
        *[other] Waša organizacija jo změny někotarych nastajenjow znjemóžnił.
     }
+managed-notice = Waš wobglědowak se wót wašeje organizacije zastoj.
 pane-general-title = Powšykne
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = Priwatnosć a wěstota
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Konto Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -299,6 +296,21 @@ update-pref-write-failure-title = Pisańska zmólka
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Nastajenje njedajo se składowaś. Njejo było móžno, do dataje pisaś: { $path }
+update-setting-write-failure-title = Zmólka pśi składowanju aktualizěrowańskich nastajenjow
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } jo starcył na zmólku a njejo toś tu změnu składł. Źiwajśo na to, až se toś to aktualizěrowańske nastajenje pisańske pšawo za slědujucu dataju pomina. Wy abo systemowy administrator móžotej zmólku pórěźiś, gaž wužywarskej kupce połnu kontrolu nad toś teju dataju dajotej.
+    
+    Njedajo se do dataje pisaś: { $path }
+update-in-progress-title = Aktualizacija běžy
+update-in-progress-message = Cośo, až { -brand-short-name } z toś teju aktualizaciju pókšacujo?
+update-in-progress-ok-button = &Zachyśiś
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Dalej
 
 ## General Section - Performance
 
@@ -534,8 +546,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Składowaś
     .accesskey = d
-sync-mobilepromo-single = Z drugim rědom zwězaś
-sync-mobilepromo-multi = Rědy zastojaś
 sync-connect-another-device = Z drugim rědom zwězaś
 sync-manage-devices = Rědy zastojaś
 sync-fxa-begin-pairing = Rěd zwězaś
@@ -693,7 +703,6 @@ content-blocking-all-third-party-cookies = Wšykne cookieje tśeśich
 content-blocking-cryptominers = Kryptokopanje
 content-blocking-fingerprinters = Palcowe wótśišće
 content-blocking-warning-title = Glědajśo!
-content-blocking-warning-desc = Gaž cookieje a pśeslědowaki blokěrujośo, njemógli někotare websedła korektnje funkcioněrowaś. Jo lažko, blokěrowanje sedłow, kótarymž dowěriśo, znjemóžniś.
 content-blocking-warning-description = Blokěrowanje wopśimjeśa móžo zawinowaś, až někotare websedła wěcej njefunkcioněruju. Jo lažko, blokěrowanje za sedła znjemóžniś, kótarymž dowěriśo.
 content-blocking-learn-how = Zgóńśo kak
 content-blocking-reload-description = Musyśo swóje rejtarki znowego zacytaś, aby toś te změny nałožył.
