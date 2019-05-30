@@ -4,6 +4,7 @@
 
 process-type-web = Contenuti web
 process-type-privileged = Contenuti privilegiati
+process-type-privilegedabout = Pagine “about” privilegiate
 process-type-extension = Estensione
 process-type-file = File locale
 process-type-weblargeallocation = Allocazione di grandi dimensioni
