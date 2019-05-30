@@ -5,7 +5,7 @@
 clear-site-data-window =
     .title = Clarar le datos
     .style = width: 35em
-clear-site-data-description = Clarar tote le cookies e le datos de sito reservate per { -brand-short-name } pote te disconnecter ab le sito web e remover le contento web offline. Clarar le datos del cache non afficera tu connexiones.
+clear-site-data-description = Le elimination de tote le cookies e datos de sitos web immagazinate per { -brand-short-name } pote clauder tu sessiones active in sitos web e remover contento web immagazinate pro uso sin connexion. Eliminar le datos del cache non afficera tu sessiones active.
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
@@ -24,7 +24,7 @@ clear-site-data-cookies-with-data =
 clear-site-data-cookies-empty =
     .label = Cookies e datos de sitos
     .accesskey = S
-clear-site-data-cookies-info = Tu pote ser disconnectite ab le sito web si clarate
+clear-site-data-cookies-info = Eliminar iste datos pote clauder tu sessiones active in sitos web
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cached Web Content (24 KB)"
 # Variables:

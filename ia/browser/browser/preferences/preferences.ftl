@@ -862,7 +862,7 @@ space-alert-over-5gb-message =
 space-alert-under-5gb-ok-button =
     .label = De accordo
     .accesskey = D
-space-alert-under-5gb-message = { -brand-short-name } non ha plus spatio de disco bastante. Le contentos del sito web pote non ser monstrate correctemente. Visita “Apprende plus” pro optimisar le uso de tu disco a fin de un melior experientia de navigation.
+space-alert-under-5gb-message = { -brand-short-name } non ha bastante spatio de disco disponibile. Le contento de sitos web pote non esser monstrate correctemente. Visita “Apprender plus” pro optimisar le uso de tu disco pro un melior experientia de navigation.
 
 ## The following strings are used in the Download section of settings
 
