@@ -290,6 +290,21 @@ update-pref-write-failure-title = Erro de gravação
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Não foi possível salvar preferências. Não conseguiu escrever no arquivo: { $path }
+update-setting-write-failure-title = Erro ao salvar preferências de atualização
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    O { -brand-short-name } encontrou um erro e não salvou esta alteração. Note que definir esta preferência de atualização exige permissão para escrever no arquivo abaixo. Você ou um administrador do sistema deve conseguir resolver o erro dando ao grupo 'Users' total controle sobre este arquivo.
+    
+    Não foi possível escrever no arquivo: { $path }
+update-in-progress-title = Atualização em andamento
+update-in-progress-message = Quer que o { -brand-short-name } continue esta atualização?
+update-in-progress-ok-button = &Descartar
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Continuar
 
 ## General Section - Performance
 
