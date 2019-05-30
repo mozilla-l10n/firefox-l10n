@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "Fortset der du slutta.">
 <!ENTITY firstrun_sync_subtext2 "Bruk Sync for å finna bokmerke, passord og andre ting som du lagrar i &brandShortName; på alle einingane dine.">
 <!ENTITY newfirstrun_sync_subtext "Synkroniser det du lagrar på mobilen til Firefox for datamaskiner, privat og sikkert.">
+<!ENTITY updatednewfirstrun_sync_subtext "Logg inn på kontoen din for å få det meste ut av &brandShortName;">
 <!ENTITY firstrun_signin_message "Kopla til og kom i gang">
 <!ENTITY firstrun_signin_button "Logg inn for å synkronisere">
 <!ENTITY newfirstrun_signin_button "Aktiver Sync">
+<!ENTITY updatednewfirstrun_signin_button "Logg inn på &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Start nettlesing">
 <!ENTITY firstrun_button_notnow "Ikkje akkurat no">
 <!ENTITY firstrun_button_next "Neste">
@@ -677,6 +679,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Vel eller spel inn ein lyd">
 <!ENTITY filepicker_image_title "Vel eller ta eit bilde">
 <!ENTITY filepicker_video_title "Vel eller spel inn ein video">
+
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Du er tilkopla">
