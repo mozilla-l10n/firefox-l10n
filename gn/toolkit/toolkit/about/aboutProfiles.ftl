@@ -8,6 +8,7 @@ profiles-create = Mba'ete Pyahu Ñemoheñói
 profiles-restart-title = Moñepyrũjey
 profiles-restart-in-safe-mode = Moĩmbaha oguepyréva ndive moñepyrũjey...
 profiles-restart-normal = Jepiveguáicha ñemoñepyrũjey...
+profiles-flush-conflict = { profiles-conflict }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Mba'ete: { $name }

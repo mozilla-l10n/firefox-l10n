@@ -297,6 +297,7 @@ preferences-addon-button =
        *[other] Jeporavorã
     }
 details-addon-button = Mba'emimi
+release-notes-addon-button = Jehaipy rehegua
 permissions-addon-button = Moneĩ
 addons-enabled-heading = Mbojurujapyre
 addons-disabled-heading = Pe'apyre
@@ -351,3 +352,5 @@ addon-badge-recommended =
     .alt = Je'eporãpyre
 available-updates-heading = Ñembohekopyahu eipurukuaáva
 recent-updates-heading = Mohekopyahu ramoveguáva
+release-notes-loading = Henyhẽhína…
+release-notes-error = Rombyasy, hákatu oiko jejavy henyhẽnguévo jehaipy rehegua.
