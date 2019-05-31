@@ -82,9 +82,6 @@ about-debugging-refresh-usb-devices-button = Ανανέωση συσκευών
 about-debugging-setup-title = Ρύθμιση
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Ρυθμίστε τη μέθοδο σύνδεσης με την οποία επιθυμείτε να αποσφαλματώσετε απομακρυσμένα τη συσκευή σας.
-# Link displayed in the Setup page that leads to MDN page with list of supported devices.
-# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
-about-debugging-setup-link-android-devices = Προβολή λίστας υποστηριζόμενων συσκευών Android
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Χρησιμοποιήστε το <a>{ about-debugging-this-firefox-runtime-name }</a> για αποσφαλμάτωση καρτελών, επεκτάσεων και service workers σε αυτή την έκδοση του { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
@@ -105,12 +102,6 @@ about-debugging-setup-usb-updating-button = Ενημέρωση…
 about-debugging-setup-usb-status-enabled = Ενεργό
 about-debugging-setup-usb-status-disabled = Ανενεργό
 about-debugging-setup-usb-status-updating = Ενημέρωση…
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu = Ενεργοποιήστε το μενού προγραμματιστών στη συσκευή Android σας. <a> Μάθετε πώς</a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug = Ενεργοποιήστε την αποσφαλμάτωση USB στο μενού προγραμματιστών Android. <a> Μάθετε πώς</a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox = Ενεργοποιήστε την αποσφαλμάτωση USB στο Firefox στη συσκευή Android. <a> Μάθετε πώς</a>
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = Ενεργοποιήστε το μενού προγραμματιστών στην Android συσκευή σας.
 # USB section step by step guide
@@ -215,11 +206,6 @@ about-debugging-connection-prompt-enable-button = Ενεργοποίηση πρ�
 about-debugging-connection-prompt-disable-button = Απενεργοποίηση προτροπής σύνδεσης
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
 about-debugging-profiler-dialog-title2 = Πρόγραμμα δημιουργίας προφίλ
-# Label of a checkbox displayed in the runtime page for "This Firefox".
-# This checkbox will toggle preferences that enable local addon debugging.
-# The "Learn more" link points to MDN.
-# https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
-about-debugging-extension-debug-setting-label = Ενεργοποίηση αποσφαλμάτωσης επέκτασης. <a>Μάθετε περισσότερα</a>
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
@@ -308,3 +294,9 @@ about-debugging-main-process-description2 = Κύρια διαδικασία γι
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Κλείσιμο μηνύματος
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = Λεπτομέρειες σφάλματος
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = Λεπτομέρειες προειδοποίησης
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = Λεπτομέρειες
