@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Fàilte">
 <!ENTITY firstrun_urlbar_message2 "Mòran taing airson &brandShortName; a thaghadh">
+<!ENTITY newfirstrun_urlbar_message "Fàilte gu &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Brabhsair ùr-nòsach le Mozilla, am buidheann neo-phrothaideach a tha ag obair airson eadar-lìon saor is fosgailte.">
+<!ENTITY newfirstrun_urlbar_subtext "Luath, prìobhaideach is air do thaobh.">
 <!ENTITY firstrun_panel_title_privacy "Prìobhaideachd">
 <!ENTITY firstrun_privacy_message "Dèan brabhsadh mar nach eil duine am bith a’ cumail sùil ort">
 <!ENTITY firstrun_privacy_subtext "Ma nì thu brabhsadh prìobhaideach le dìon o thracadh, bacaidh seo na tracairean fhad ’s a bhios tu a’ brabhsadh agus cha chuimhnich e an eachdraidh brabhsaidh agad nuair a bhios tu deiseil.">
+<!ENTITY newfirstrun_privacy_subtext "Bacaidh brabhsadh prìobhaideach tracaichean sanasachd a tha airson do leantainn air loidhne.">
 <!ENTITY firstrun_panel_title_customize "Gnàthaich">
 <!ENTITY firstrun_customize_message "&brandShortName; a-rèir do thoil fhèin">
 <!ENTITY firstrun_customize_subtext "Gnàthaich &brandShortName; le tuilleadain. Bac sanasach, cuir gleusan ris no tagh ùrlar ùr a tha a’ còrdadh riut nas fhearr.">
@@ -408,12 +411,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Luchdaidhean a-nuas">
 <!ENTITY pref_private_data_syncedTabs "Tabaichean sioncronaichte">
 
-<!ENTITY pref_default_browser "Cleachd mar am brabhsair bunaiteach">
-
 <!ENTITY pref_default_browser2 "Cleachd &brandShortName; mar bhrabhsair bunaiteach">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
-    and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Thoir gnogag air aplacaid a’ bhrabhsair ⁊ tagh &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Tadhail air taic Mozilla">
 <!ENTITY pref_about_firefox "Mu &brandShortName;">
@@ -674,6 +675,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Tagh fuaim no clàraich tè">
 <!ENTITY filepicker_image_title "Tagh dealbh no tog fear">
 <!ENTITY filepicker_video_title "Tagh video no clàraich fear">
+
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Tha thu co-cheangailte ri">
