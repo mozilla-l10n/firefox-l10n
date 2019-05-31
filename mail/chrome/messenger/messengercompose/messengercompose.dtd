@@ -182,6 +182,7 @@
 <!ENTITY addressBookCmd.label "Sổ địa chỉ">
 <!ENTITY addressBookCmd.accesskey "S">
 <!ENTITY addressBookCmd.key "B">
+<!ENTITY accountManagerCmd2.label "Cài đặt tài khoản">
 <!ENTITY preferencesCmdUnix.label "Tùy chỉnh">
 <!ENTITY preferencesCmdUnix.accesskey "y">
 
