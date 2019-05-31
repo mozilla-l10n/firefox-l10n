@@ -57,6 +57,7 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Tài khoản hiện tại">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
+<!ENTITY getNextNMsgCmd2.label "Nhận thư tin tức tiếp theo">
 <!ENTITY getNextNMsgCmd2.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Gửi các thư chưa gửi">
 <!ENTITY sendUnsentCmd.accesskey "d">
@@ -237,7 +238,7 @@
 <!ENTITY ignoredThreadsCmd.label "Chủ đề đã bỏ qua">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
 
-<!ENTITY headersMenu.label "Header">
+<!ENTITY headersMenu.label "Thông tin thư">
 <!ENTITY headersMenu.accesskey "H">
 <!ENTITY headersAllCmd.label "Tất cả">
 <!ENTITY headersAllCmd.accesskey "A">
@@ -245,9 +246,9 @@
 <!ENTITY headersNormalCmd.accesskey "N">
 <!ENTITY bodyMenu.label "Nội dung thư dưới dạng">
 <!ENTITY bodyMenu.accesskey "B">
-<!ENTITY bodyAllowHTML.label "HTML Gốc">
+<!ENTITY bodyAllowHTML.label "HTML gốc">
 <!ENTITY bodyAllowHTML.accesskey "H">
-<!ENTITY bodySanitized.label "HTML Đơn giản">
+<!ENTITY bodySanitized.label "HTML đơn giản">
 <!ENTITY bodySanitized.accesskey "S">
 <!ENTITY bodyAsPlaintext.label "Văn bản thuần túy">
 <!ENTITY bodyAsPlaintext.accesskey "P">
@@ -414,9 +415,9 @@
 <!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Đã đọc">
 <!ENTITY markAsReadCmd.accesskey "c">
-<!ENTITY markAsUnreadCmd.label "Chưa Đọc">
+<!ENTITY markAsUnreadCmd.label "Chưa đọc">
 <!ENTITY markAsUnreadCmd.accesskey "C">
-<!ENTITY markThreadAsReadCmd.label "Chủ đề là đã Đọc">
+<!ENTITY markThreadAsReadCmd.label "Chủ đề là đã đọc">
 <!ENTITY markThreadAsReadCmd.accesskey "h">
 <!ENTITY markThreadAsReadCmd.key "r">
 <!ENTITY markReadByDateCmd.label "Đã đọc theo ngày…">
@@ -431,7 +432,7 @@
 <!ENTITY markAsJunkCmd.label "Thư rác">
 <!ENTITY markAsJunkCmd.accesskey "r">
 <!ENTITY markAsJunkCmd.key "j">
-<!ENTITY markAsNotJunkCmd.label "Không phải Thư rác">
+<!ENTITY markAsNotJunkCmd.label "Không phải thư rác">
 <!ENTITY markAsNotJunkCmd.accesskey "K">
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Chạy điều khiển thư rác">
@@ -450,7 +451,7 @@
 <!ENTITY openFeedWebPage.accesskey "W">
 <!ENTITY openFeedSummary.label "Mở dưới dạng tóm tắt">
 <!ENTITY openFeedSummary.accesskey "S">
-<!ENTITY openFeedWebPageInMP.label "Bật-tắt Trang web và Tóm tắt trong Khung đọc thư">
+<!ENTITY openFeedWebPageInMP.label "Bật-tắt trang web và tóm tắt trong khung đọc thư">
 <!ENTITY openFeedWebPageInMP.accesskey "K">
 
 <!-- Windows Menu -->
@@ -459,7 +460,7 @@
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Công cụ">
 <!ENTITY tasksMenu.accesskey "g">
-<!ENTITY messengerCmd.label "Thư &amp; Nhóm tin">
+<!ENTITY messengerCmd.label "Thư &amp; nhóm tin">
 <!ENTITY messengerCmd.accesskey "N">
 <!ENTITY addressBookCmd.label "Sổ địa chỉ">
 <!ENTITY addressBookCmd.accesskey "S">
@@ -486,15 +487,15 @@
 <!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd2.label "Bộ lọc tin nhắn">
 <!ENTITY filtersCmd2.accesskey "F">
-<!ENTITY filtersApply.label "Chạy Bộ lọc trên Thư mục">
+<!ENTITY filtersApply.label "Chạy bộ lọc trên thư mục">
 <!ENTITY filtersApply.accesskey "C">
-<!ENTITY filtersApplyToSelection.label "Chạy Bộ lọc trên các Thư đã Chọn">
+<!ENTITY filtersApplyToSelection.label "Chạy bộ lọc trên các thư được chọn">
 <!ENTITY filtersApplyToSelection.accesskey "r">
-<!ENTITY filtersApplyToMessage.label "Chạy Bộ lọc trên Thư">
+<!ENTITY filtersApplyToMessage.label "Chạy bộ lọc trên thư">
 <!ENTITY filtersApplyToMessage.accesskey "r">
 <!ENTITY runJunkControls.label "Chạy điều khiển thư rác trên thư mục">
 <!ENTITY runJunkControls.accesskey "k">
-<!ENTITY deleteJunk.label "Xóa các Thư rác trong Thư mục">
+<!ENTITY deleteJunk.label "Xóa thư được đánh dấu là thư rác trong thư mục">
 <!ENTITY deleteJunk.accesskey "X">
 <!ENTITY importCmd.label "Nhập…">
 <!ENTITY importCmd.accesskey "N">
@@ -518,7 +519,7 @@
 <!ENTITY debugAddonsCmd.accesskey "A">
 <!ENTITY tabsDebugCmd.label "Trình gỡ lỗi khung nội dung">
 <!ENTITY tabsDebugCmd.accesskey "C">
-<!ENTITY errorConsoleCmd.label "Bảng kiểm soát Lỗi">
+<!ENTITY errorConsoleCmd.label "Bảng kiểm soát lỗi">
 <!ENTITY errorConsoleCmd.accesskey "L">
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY scratchpadCmd.label "Scratchpad">
@@ -537,15 +538,17 @@
 <!ENTITY getMsgButton1.label "Nhận tin nhắn">
 <!ENTITY newMsgButton.label "Viết thư">
 <!ENTITY replyButton.label "Trả lời">
-<!ENTITY replyAllButton.label "Trả lời Tất cả">
-<!ENTITY replyListButton.label "Trả lời Danh sách">
+<!ENTITY replyAllButton.label "Trả lời tất cả">
+<!ENTITY replyListButton.label "Trả lời danh sách">
 <!ENTITY forwardButton.label "Chuyển tiếp">
 <!ENTITY fileButton.label "Xếp">
 <!ENTITY archiveButton.label "Lưu trữ">
 <!ENTITY openConversationButton.label "Hội thoại">
-<!ENTITY nextButton.label "Tiếp">
-<!ENTITY nextMsgButton.label "Tiếp">
+<!ENTITY nextButton.label "Tiếp theo">
+<!ENTITY nextButtonToolbarItem.label "Thư chưa đọc tiếp theo">
+<!ENTITY nextMsgButton.label "Tiếp theo">
 <!ENTITY previousButton.label "Trước">
+<!ENTITY previousButtonToolbarItem.label "Thư chưa đọc trước đó">
 <!ENTITY previousMsgButton.label "Trước">
 <!ENTITY backButton1.label "Quay lại">
 <!ENTITY goForwardButton1.label "Tiến">
@@ -555,16 +558,16 @@
 <!ENTITY markButton.label "Đánh dấu">
 <!ENTITY printButton.label "In">
 <!ENTITY stopButton.label "Dừng">
-<!ENTITY throbberItem.title "Chỉ báo Hoạt động">
+<!ENTITY throbberItem.title "Chỉ báo hoạt động">
 <!ENTITY junkItem.title "Thư rác">
 <!ENTITY junkButton.label "Thư rác">
-<!ENTITY notJunkButton.label "Không phải Thư rác">
+<!ENTITY notJunkButton.label "Không phải thư rác">
 <!ENTITY addressBookButton.label "Sổ địa chỉ">
 <!ENTITY chatButton.label "Trò chuyện">
 <!ENTITY glodaSearch.title "Tìm kiếm toàn bộ">
 <!ENTITY searchItem.title "Tìm kiếm nhanh">
-<!ENTITY mailViewsToolbarItem.title "Cách hiển thị Thư">
-<!ENTITY folderLocationToolbarItem.title "Địa chỉ Thư mục">
+<!ENTITY mailViewsToolbarItem.title "Cách hiển thị thư">
+<!ENTITY folderLocationToolbarItem.title "Địa chỉ thư mục">
 <!ENTITY tagButton.label "Nhãn">
 <!ENTITY compactButton.label "Làm gọn">
 <!ENTITY appmenuButton.label "Trình đơn ứng dụng">
@@ -583,6 +586,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Chuyển tiếp thư được chọn dưới dạng đính kèm">
 <!ENTITY fileButton.tooltip "Xếp thông điệp được chọn vào thư mục">
 <!ENTITY archiveButton.tooltip "Lưu trữ các thư đã chọn">
+<!ENTITY openConversationButton.tooltip "Hiển thị cuộc trò chuyện của thư được chọn">
 <!ENTITY nextButton.tooltip "Chuyển sang thư chưa đọc tiếp theo">
 <!ENTITY nextMsgButton.tooltip "Di chuyển đến thư kế tiếp">
 <!ENTITY previousButton.tooltip "Chuyển sang thư chưa đọc phía trước">
@@ -633,7 +637,7 @@
 <!ENTITY appmenuSelectFlagged.label "Chọn thư được gắn dấu sao">
 
 <!-- Tags Menu Popup -->
-<!ENTITY addNewTag.label "Nhãn Mới…">
+<!ENTITY addNewTag.label "Nhãn mới…">
 <!ENTITY addNewTag.accesskey "N">
 <!ENTITY manageTags.label "Quản lý nhãn…">
 <!ENTITY manageTags.accesskey "M">
@@ -645,8 +649,8 @@
 <!ENTITY folderSizeColumn.label "Dung lượng">
 
 <!-- Folder Pane Context Menu -->
-<!ENTITY folderContextGetMessages.label "Lấy Thư">
-<!ENTITY folderContextGetMessages.accesskey "L">
+<!ENTITY folderContextGetMessages.label "Nhận thư">
+<!ENTITY folderContextGetMessages.accesskey "G">
 <!ENTITY folderContextMarkAllFoldersRead.label "Đánh dấu tất cả thư mục là đã đọc">
 <!ENTITY folderContextPauseAllUpdates.label "Tạm dừng tất cả cập nhật">
 <!ENTITY folderContextPauseUpdates.label "Tạm dừng cập nhật">
@@ -655,7 +659,7 @@
 <!ENTITY folderContextOpenInNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Mở trong thẻ mới">
 <!ENTITY folderContextOpenNewTab.accesskey "o">
-<!ENTITY folderContextNew.label "Thư mục con Mới…">
+<!ENTITY folderContextNew.label "Thư mục con mới…">
 <!ENTITY folderContextNew.accesskey "c">
 <!ENTITY folderContextRename.label "Đổi tên">
 <!ENTITY folderContextRename.accesskey "i">
@@ -663,9 +667,9 @@
 <!ENTITY folderContextRemove.accesskey "X">
 <!ENTITY folderContextCompact.label "Làm gọn">
 <!ENTITY folderContextCompact.accesskey "g">
-<!ENTITY folderContextEmptyTrash.label "Dọn sạch Thùng rác">
+<!ENTITY folderContextEmptyTrash.label "Dọn sạch thùng rác">
 <!ENTITY folderContextEmptyTrash.accesskey "D">
-<!ENTITY folderContextEmptyJunk.label "Dọn sạch Thư rác">
+<!ENTITY folderContextEmptyJunk.label "Dọn sạch thư rác">
 <!ENTITY folderContextEmptyJunk.accesskey "r">
 <!ENTITY folderContextSendUnsentMessages.label "Gửi các thư chưa gửi">
 <!ENTITY folderContextSendUnsentMessages.accesskey "G">
@@ -681,7 +685,7 @@
 <!ENTITY folderContextSearchForMessages.accesskey "S">
 <!ENTITY folderContextProperties2.label "Thuộc tính">
 <!ENTITY folderContextProperties2.accesskey "P">
-<!ENTITY folderContextFavoriteFolder.label "Thư mục Ưa thích">
+<!ENTITY folderContextFavoriteFolder.label "Thư mục yêu thích">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
 <!ENTITY folderContextSettings2.label "Cài đặt">
 <!ENTITY folderContextSettings2.accesskey "e">
@@ -713,15 +717,15 @@
 <!ENTITY accountColumn.label "Tài khoản">
 <!ENTITY statusColumn.label "Trạng thái">
 <!ENTITY sizeColumn.label "Dung lượng">
-<!ENTITY junkStatusColumn.label "Trạng thái Thư rác">
+<!ENTITY junkStatusColumn.label "Trạng thái thư rác">
 <!ENTITY unreadColumn.label "Chưa đọc">
 <!ENTITY totalColumn.label "Tổng">
 <!ENTITY readColumn.label "Đã đọc">
 <!ENTITY receivedColumn.label "Nhận được">
 <!ENTITY starredColumn.label "Đã gắn dấu sao">
 <!ENTITY locationColumn.label "Địa chỉ">
-<!ENTITY idColumn.label "Thứ tự Nhận được">
-<!ENTITY attachmentColumn.label "Phần đính kèm">
+<!ENTITY idColumn.label "Thứ tự nhận được">
+<!ENTITY attachmentColumn.label "Đính kèm">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Chọn các cột để hiển thị">
@@ -764,13 +768,13 @@
 <!ENTITY contextEditTemplate.accesskey "T">
 <!ENTITY contextArchive.label "Lưu trữ">
 <!ENTITY contextArchive.accesskey "L">
-<!ENTITY contextReplySender.label "Chỉ trả lời Người gửi">
+<!ENTITY contextReplySender.label "Chỉ trả lời người gửi">
 <!ENTITY contextReplySender.accesskey "g">
 <!ENTITY contextReplyNewsgroup2.label "Theo dõi nhóm tin">
 <!ENTITY contextReplyNewsgroup2.accesskey "u">
-<!ENTITY contextReplyAll.label "Trả lời Tất cả">
+<!ENTITY contextReplyAll.label "Trả lời tất cả">
 <!ENTITY contextReplyAll.accesskey "r">
-<!ENTITY contextReplyList.label "Trả lời Danh sách">
+<!ENTITY contextReplyList.label "Trả lời danh sách">
 <!ENTITY contextReplyList.accesskey "D">
 <!ENTITY contextForward.label "Chuyển tiếp">
 <!ENTITY contextForward.accesskey "y">
@@ -893,9 +897,9 @@
 <!ENTITY AddDirectlyToAddressBook.accesskey "a">
 <!ENTITY EditContact1.label "Chỉnh sửa liên hệ">
 <!ENTITY EditContact1.accesskey "E">
-<!ENTITY ViewContact.label "Hiển thị Danh bạ">
+<!ENTITY ViewContact.label "Xem liên hệ">
 <!ENTITY ViewContact.accesskey "H">
-<!ENTITY SubscribeToNewsgroup.label "Đăng kí theo dõi Nhóm tin">
+<!ENTITY SubscribeToNewsgroup.label "Đăng kí theo dõi nhóm tin">
 <!ENTITY SubscribeToNewsgroup.accesskey "N">
 <!ENTITY SendMessageTo.label "Soạn thư đến">
 <!ENTITY SendMessageTo.accesskey "S">
@@ -909,15 +913,15 @@
 <!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "Tạo bộ lọc từ…">
 <!ENTITY CreateFilterFrom.accesskey "B">
-<!ENTITY reportPhishingURL.label "Báo cáo Thư lừa đảo">
+<!ENTITY reportPhishingURL.label "Báo cáo email lừa đảo">
 <!ENTITY reportPhishingURL.accesskey "o">
 
 <!-- Spell checker context menu items -->
-<!ENTITY spellAddDictionaries.label "Thêm Từ Điển…">
+<!ENTITY spellAddDictionaries.label "Thêm từ điển…">
 <!ENTITY spellAddDictionaries.accesskey "m">
 
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkAsCmd.label "Lưu Liên Kết dưới dạng…">
+<!ENTITY saveLinkAsCmd.label "Lưu liên kết dưới dạng…">
 <!ENTITY saveLinkAsCmd.accesskey "K">
 <!ENTITY saveImageAsCmd.label "Lưu ảnh dưới dạng…">
 <!ENTITY saveImageAsCmd.accesskey "L">
@@ -942,7 +946,7 @@
 <!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Thu nhỏ">
 <!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "Đưa Tất Cả ra Tiền Cảnh">
+<!ENTITY bringAllToFront.label "Đưa tất cả ra phía trước">
 <!ENTITY zoomWindow.label "Thu phóng">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
@@ -953,7 +957,7 @@
 <!ENTITY hideThisAppCmdMac.label        "Ẩn &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
-<!ENTITY hideOtherAppsCmdMac.label      "Ẩn các Chương trình khác">
+<!ENTITY hideOtherAppsCmdMac.label      "Ẩn các chương trình khác">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Hiện Tất Cả">
