@@ -289,6 +289,8 @@ update-pref-write-failure-title = Ojavy jehai
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Ndaikatúi eñongatu pe jeguerohoryvéva. Ndaikatúi ehai marandurendápe: { $path }
+update-setting-write-failure-title = Ojavy eñongatúvo mbohekopyahu eguerohoryvéva
+update-in-progress-title = Oñembohekopyahuhína
 update-in-progress-ok-button = &Hejarei
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
