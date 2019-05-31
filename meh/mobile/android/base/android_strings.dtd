@@ -63,6 +63,9 @@
 <!ENTITY  crash_restart_label "Nakajie´e &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Nánuku a xíín chu´un iin nuun">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -193,9 +196,9 @@
 <!ENTITY pref_learn_more "Kutu´va-ka">
 <!ENTITY pref_category_installed_search_engines "Ka̱a̱ nánuku yɨ´ɨ">
 <!ENTITY pref_category_add_search_providers "Tee kue´e-ka daa ka̱a̱ nánuku">
-<!ENTITY pref_category_search_restore_defaults "Na tee tuku ka̱a̱ nánuku">
-<!ENTITY pref_search_restore_defaults "Na tee tuku predeterminados">
-<!ENTITY pref_search_restore_defaults_summary "Na tee tuku predeterminados">
+<!ENTITY pref_category_search_restore_defaults "Natee tuku ka̱a̱ nánuku">
+<!ENTITY pref_search_restore_defaults "Natee tuku predeterminados">
+<!ENTITY pref_search_restore_defaults_summary "Natee tuku predeterminados">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -206,7 +209,7 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_advanced_summary3 "Na tee tuku pestañas, a kumi datos, ka̱a̱ sá´á sofware">
+<!ENTITY pref_category_advanced_summary3 "Natee tuku pestañas, a kumi datos, ka̱a̱ sá´á sofware">
 <!ENTITY pref_category_notifications "Notificaciones">
 <!ENTITY pref_category_notifications_summary2 "A jíía, a jíía ka̱a̱ ya´a">
 <!ENTITY pref_developer_remotedebugging_usb "Depuración jíká USB">
@@ -335,6 +338,8 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Kɨ´ɨn-on configuraciones">
+<!-- Localization note (tab_queue_notification_prompt): This is the text of the default notification
+shown from Android O while a tab is being queued.-->
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -393,14 +398,15 @@
 <!ENTITY pref_private_data_searchHistory "Sɨ´ɨ nnánuku">
 <!ENTITY pref_private_data_formdata2 "Vaji nee sɨ´ɨ">
 <!ENTITY pref_private_data_cookies2 "Cookies &amp; Nuu kajie´e sesión íyo activo">
-<!ENTITY pref_private_data_passwords2 "Nuu kajie´e sesión nchuva´a">
 <!ENTITY pref_private_data_cache "Caché">
 <!ENTITY pref_private_data_offlineApps "Datos sitio web saa ntu íyo conexión">
 <!ENTITY pref_private_data_siteSettings2 "Daa configuracion nantiñu sitio">
 <!ENTITY pref_private_data_downloadFiles2 "Daa xinuun">
 <!ENTITY pref_private_data_syncedTabs "Pestañas sincronizadas">
 
-<!ENTITY pref_default_browser "Sá´á ka̱a̱ ya´a iin a ni´inu ntaka íchi">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY pref_default_browser_mozilla_support_tablet "Kivɨ soperte Mozilla">
 <!ENTITY pref_about_firefox "Jiee ya´a &brandShortName;">
 <!ENTITY pref_vendor_faqs "A jika tu´un ntaka íchi">
@@ -495,6 +501,9 @@
 <!ENTITY find_prev "Yata">
 <!ENTITY find_next "Inka">
 <!ENTITY find_close "Nakasɨ">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -656,6 +665,7 @@
 <!ENTITY filepicker_audio_title "Kaji a xíín tɨɨ iin nasun">
 <!ENTITY filepicker_image_title "Kaji a xíín tɨɨ iin a nátava">
 <!ENTITY filepicker_video_title "Kaji a xíín tɨɨ iin a nátava kana">
+
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Yɨ´ɨnu nuu">
