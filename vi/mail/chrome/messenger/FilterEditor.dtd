@@ -28,6 +28,7 @@
 <!ENTITY contextArchive.label "Lưu trữ">
 <!ENTITY contextArchive.accesskey "A">
 
+
 <!ENTITY filterActionDesc.label "Thực hiện các hành động này:">
 <!ENTITY filterActionDesc.accesskey "P">
 
@@ -44,7 +45,7 @@
 <!ENTITY markMessageStarred.label "Thêm sao">
 <!ENTITY setPriority.label "Đặt mức độ ưu tiên thành">
 <!ENTITY addTag.label "Dán nhãn cho thư">
-<!ENTITY setJunkScore.label "Thiết lập trạng thái thư rác thành">
+<!ENTITY setJunkScore.label "Đặt trạng thái thư rác thành">
 <!ENTITY deleteMessage.label "Xóa thư">
 <!ENTITY deleteFromPOP.label "Xóa trên máy chủ POP">
 <!ENTITY fetchFromPOP.label "Lấy từ máy chủ POP">
