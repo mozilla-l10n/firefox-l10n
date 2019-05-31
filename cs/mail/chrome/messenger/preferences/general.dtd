@@ -32,7 +32,7 @@
 <!ENTITY play.accesskey                   "h">
 <!ENTITY systemsound.label                "Zvuk nové pošty v systému">
 <!ENTITY systemsound.accesskey            "u">
-<!ENTITY customsound.label                "Vlastní .wav soubor">
+<!ENTITY customsound.label                "Vlastní zvukový soubor">
 <!ENTITY customsound.accesskey            "V">
 <!ENTITY browse.label                     "Procházet…">
 <!ENTITY browse.accesskey                 "c">

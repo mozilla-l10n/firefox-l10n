@@ -41,7 +41,7 @@ sentence. -->
 <!ENTITY  play.accesskey                      "h">
 <!ENTITY  systemSound.label                   "Zvuk nové pošty v systému">
 <!ENTITY  systemSound.accesskey               "u">
-<!ENTITY  customsound.label                   "Vlastní .wav soubor">
+<!ENTITY  customsound.label                   "Vlastní zvukový soubor">
 <!ENTITY  customsound.accesskey               "V">
 <!ENTITY  browse.label                        "Procházet…">
 <!ENTITY  browse.accesskey                    "c">
