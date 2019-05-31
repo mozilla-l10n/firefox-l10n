@@ -4,6 +4,7 @@
 
 <!ENTITY firstrun_panel_title_welcome "Bienvenido">
 <!ENTITY firstrun_urlbar_message2 "Gracias por elegir &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Bienvenido a &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Un moderno navegador de Mozilla, la organización sin fines de lucro comprometida con una web abierta y libre.">
 <!ENTITY firstrun_panel_title_privacy "Privacidad">
 <!ENTITY firstrun_privacy_message "Navega como si nadie te estuviera viendo">
@@ -408,7 +409,9 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Descargas">
 <!ENTITY pref_private_data_syncedTabs "Pestañas sincronizadas">
 
-<!ENTITY pref_default_browser "Hacer navegador predeterminado">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY pref_default_browser_mozilla_support_tablet "Visitar el soporte de Mozilla">
 <!ENTITY pref_about_firefox "Acerca de &brandShortName;">
 <!ENTITY pref_vendor_faqs "Preguntas frecuentes">
@@ -503,6 +506,9 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_prev "Anterior">
 <!ENTITY find_next "Siguiente">
 <!ENTITY find_close "Cerrar">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -664,6 +670,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Elige o graba un sonido">
 <!ENTITY filepicker_image_title "Elige o toma una foto">
 <!ENTITY filepicker_video_title "Elige o graba un video">
+
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Estás conectado a">
