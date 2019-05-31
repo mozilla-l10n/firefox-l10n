@@ -19,6 +19,7 @@ inactive-css-not-grid-item = Το <strong>{ $property }</strong> δεν έχει
 inactive-css-not-grid-container = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν είναι περιέκτης πλέγματος.
 inactive-css-not-flex-item = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν είναι στοιχείο flex.
 inactive-css-not-flex-container = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν είναι περιέκτης flex.
+inactive-css-not-inline-or-tablecell = Η ιδιότητα <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν είναι στοιχείο εντός της γραμμής ή κελιού πίνακα.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -30,3 +31,4 @@ inactive-css-not-grid-item-fix = Δοκιμάστε να προσθέσετε τ
 inactive-css-not-grid-container-fix = Δοκιμάστε να προσθέσετε το <strong>display:grid</strong> ή το <strong>display:inline-grid</strong>. { learn-more }
 inactive-css-not-flex-item-fix = Δοκιμάστε να προσθέσετε το <strong>display:flex</strong> ή το <strong>display:inline-flex</strong> στο γονέα του στοιχείου. { learn-more }
 inactive-css-not-flex-container-fix = Δοκιμάστε να προσθέσετε το <strong>display:flex</strong> ή το <strong>display:inline-flex</strong>. { learn-more }
+inactive-css-not-inline-or-tablecell-fix = Δοκιμάστε να προσθέσετε το <strong>display:inline</strong> ή το <strong>display:table-cell</strong>. { learn-more }

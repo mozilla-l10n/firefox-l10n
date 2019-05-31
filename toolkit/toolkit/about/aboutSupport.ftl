@@ -82,6 +82,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Αρχείο καταγραφής αποφάσεων
 graphics-crash-guards-title = Απενεργοποιημένες λειτουργίες φύλαξης κατάρρευσης
 graphics-workarounds-title = Λύσεις
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Πρωτόκολλο παραθύρου
 place-database-title = Βάση δεδομένων τοποθεσιών
 place-database-integrity = Ακεραιότητα
 place-database-verify-integrity = Επαλήθευση ακεραιότητας
