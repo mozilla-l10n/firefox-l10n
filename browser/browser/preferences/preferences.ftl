@@ -290,6 +290,12 @@ update-pref-write-failure-title = Αποτυχία εγγραφής
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Αδυναμία αποθήκευσης προτίμησης. Αδυναμία εγγραφής σε αρχείο: { $path }
+update-in-progress-title = Ενημέρωση σε εξέλιξη
+update-in-progress-message = Θέλετε το { -brand-short-name } να συνεχίσει με αυτή την ενημέρωση;
+update-in-progress-ok-button = &Απόρριψη
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Συνέχεια
 
 ## General Section - Performance
 
