@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "Kemmel seg anida telliḍ.">
 <!ENTITY firstrun_sync_subtext2 "Seqdec Sync akken ad tafeḍ ticraḍ n isebtar, awalen uffiren, akked tiγawsiwin nniḍen γer &brandShortName; deg akk ibenkan.">
 <!ENTITY newfirstrun_sync_subtext "Mtawi ayen i teskelseḍ ɣed yibenk-ik aziraz akked Firefox i uselkim, s tedreg akked tɣellist.">
+<!ENTITY updatednewfirstrun_sync_subtext "Qqen ɣer umiḍan inek (inem) akken ad teẓreḍ ugar ɣef &brandShortName;">
 <!ENTITY firstrun_signin_message "Qqen, bdu">
 <!ENTITY firstrun_signin_button "Qqen ɣer Sync">
 <!ENTITY newfirstrun_signin_button "Rmed Synch">
+<!ENTITY updatednewfirstrun_signin_button "Qqen ɣer &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Bdu tunigin">
 <!ENTITY firstrun_button_notnow "Mačči tura">
 <!ENTITY firstrun_button_next "Ɣer sdat">
@@ -677,6 +679,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Fren neɣ sekles imesli">
 <!ENTITY filepicker_image_title "Fren neɣ ṭṭef tawlaft">
 <!ENTITY filepicker_video_title "Fren neɣ sekles tavidyutt">
+
+<!ENTITY filepicker_permission_denied "Ulac tisirag ittwasran, uɣal ɣer amefran n ifuyla n unagraw.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Aqlik teqneḍ ɣer">
