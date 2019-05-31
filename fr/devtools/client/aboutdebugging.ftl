@@ -294,3 +294,9 @@ about-debugging-main-process-description2 = Processus principal pour le navigate
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Fermer le message
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = Détails de l’erreur
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = Détails de l’avertissement
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = Détails
