@@ -19,8 +19,10 @@ onboarding-button-label-get-started = Ñepyrũ
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Eg̃uahẽporãite { -brand-short-name }-pe
+onboarding-welcome-body = Eguerekóma kundaha.<br/>Eikuaa opamba’e { -brand-product-name } rehegua.
 onboarding-welcome-learn-more = Eikuaave mba’eporã rehegua.
 onboarding-join-form-header = Ejuaju { -brand-product-name } rehe
+onboarding-join-form-body = Eñepyrũ hag̃ua, ehai ne ñanduti veve kundaharape.
 onboarding-join-form-email =
     .placeholder = Ehai ñandutiveve kundaharape
 onboarding-join-form-email-error = Eikotevẽ ñandutiveve oikóva
@@ -55,6 +57,13 @@ onboarding-fxa-text = Eñemboheraguapy eguereko hag̃ua { -fxaccount-brand-name 
 onboarding-tracking-protection-title2 = Ñemo’ã jehapykueho rovake
 onboarding-tracking-protection-button2 = Mba'éichapa omba'apo
 onboarding-data-sync-title = Egueraha ne mbohekopyahu nendive
+onboarding-data-sync-button2 = Emoñepyrũ tembiapo { -sync-brand-short-name } ndive
+onboarding-firefox-monitor-title = Ema’ẽ tapiáke mba’ekuaarã ñembogua rehe
+onboarding-firefox-monitor-text = { -monitor-brand-name } ohechajey ne ñandutiveve kundaharape osẽpa peteĩ mba’ekuaarã ñemboguapyre ha he’i ndéve osẽjeýramo.
+onboarding-firefox-monitor-button = Eñemboheraguapy og̃uahẽ hag̃ua ndéve kehyjerã
+onboarding-browse-privately-title = Eikundaha ñemi
+onboarding-browse-privately-button = Embojuruja ovetã ñemigua
+onboarding-firefox-send-title = Eguerekóke ne marandurenda moherakuãpyre ñemihápe
 onboarding-firefox-send-button = Eipuru { -send-brand-name }
 onboarding-pocket-anywhere-button = Eipuru { -pocket-brand-name }
 onboarding-lockwise-passwords-button2 = Eguerekóke tembipuru'i
