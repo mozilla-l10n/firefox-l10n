@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-server-top.xul -->
-
 <!ENTITY securitySettings.label "Cài đặt bảo mật">
 <!ENTITY serverSettings.label "Thiết lập Máy chủ">
 <!ENTITY serverType.label "Kiểu Máy Chủ:">
@@ -41,7 +39,6 @@
 <!ENTITY deleteOnServer2.accesskey "a">
 <!ENTITY downloadOnBiff.label "Tự động tải thư mới">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY username.label "Tên Đăng nhập">
 <!ENTITY deleteMessagePrefix.label "Khi tôi xóa một thư:">
 <!ENTITY modelMoveToTrash.label "Di chuyển nó vào thư mục này:">
 <!ENTITY modelMoveToTrash.accesskey "o">
@@ -73,10 +70,12 @@
 <!ENTITY abbreviateOff.label "Tên viết tắt chữ đầu (ví dụ, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Nâng cao…">
 <!ENTITY advancedButton.accesskey "a">
-<!ENTITY localPath.label "Thư mục Nội bộ:">
-<!ENTITY localFolderPicker.label "Chọn Thư mục Nội bộ">
+<!ENTITY localPath.label "Thư mục cục bộ:">
+<!ENTITY localFolderPicker.label "Chọn thư mục cục bộ">
 <!ENTITY browseFolder.label "Duyệt…">
 <!ENTITY browseFolder.accesskey "y">
 <!ENTITY browseNewsrc.label "Duyệt…">
 <!ENTITY browseNewsrc.accesskey "D">
 
+<!ENTITY accountTitle.label "Cài đặt tài khoản">
+<!ENTITY accountSettingsDesc.label "Sau đây là một tài khoản đặc biệt.  Không có danh tính liên quan đến nó.">
