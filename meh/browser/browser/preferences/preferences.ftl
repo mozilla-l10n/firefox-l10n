@@ -141,3 +141,4 @@ sitedata-learn-more = Ka´vi jiee ya´a
 
 ## The following strings are used in the Download section of settings
 
+downloads-folder-name = Nxinuu

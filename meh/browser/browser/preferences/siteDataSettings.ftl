@@ -5,19 +5,42 @@
 
 ## Settings
 
+site-data-search-textbox =
+    .placeholder = Nánuku sitios
+    .accesskey = N
 site-data-column-host =
     .label = Nuu
 site-data-column-cookies =
     .label = Cookies
+site-data-column-storage =
+    .label = Chuva´a
+site-data-column-last-used =
+    .label = Nni´i nuu nɨ´ɨ
+site-data-remove-selected =
+    .label = Xita daa nkaji
+    .accesskey = X
 site-data-button-cancel =
     .label = Nkuvi-ka
     .accesskey = N
 site-data-button-save =
     .label = Chuva´a nsama
-    .accesskey = a
+    .accesskey = C
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+site-storage-usage =
+    .value = { $value } { $unit }
+site-storage-persistent =
+    .value = { site-storage-usage.value } (Persistente)
 site-data-remove-all =
     .label = Xita kuaiyo
-    .accesskey = e
+    .accesskey = X
+site-data-remove-shown =
+    .label = Xita kuaiyo a tuvi
+    .accesskey = X
 
 ## Removing
 
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = Xita
