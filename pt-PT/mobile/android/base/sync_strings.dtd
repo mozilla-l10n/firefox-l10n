@@ -79,16 +79,16 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Termos de serviço'>
 <!ENTITY fxaccount_status_linkprivacy2 'Aviso de privacidade'>
-<!ENTITY fxaccount_remove_account 'Desligar&ellipsis;'>
+<!ENTITY fxaccount_remove_account 'Desassociar&ellipsis;'>
 
-<!ENTITY fxaccount_remove_account_dialog_title2 'Desligar do Sync?'>
+<!ENTITY fxaccount_remove_account_dialog_title2 'Desassociar do Sync?'>
 <!ENTITY fxaccount_remove_account_dialog_message2 'Os seus dados de navegação irão manter-se neste dispositivo, mas não vão mais sincronizar com a sua conta.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast2 'Conta Firefox &formatS; desligada.'>
+<!ENTITY fxaccount_remove_account_toast2 'Conta Firefox &formatS; desassociada.'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
-<!ENTITY fxaccount_remove_account_dialog_action_confirm 'Desligar'>
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'Desassociar'>
 
 <!ENTITY fxaccount_enable_debug_mode 'Ativar o modo de depuração'>
 
