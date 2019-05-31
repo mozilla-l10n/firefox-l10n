@@ -11,6 +11,9 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = WebExtensions이 chrome.storage.managed를 통해 액세스할 수 있는 정책을 설정합니다.
+policy-CertificatesDescription = 인증서를 추가하거나 기본 제공 인증서를 사용합니다.
+policy-Cookies = 웹 사이트에서 쿠키를 허용하거나 거부합니다.
+policy-DefaultDownloadDirectory = 기본 다운로드 디렉토리를 설정하십시오.
 policy-DisableFeedbackCommands = 도움말 메뉴의 의견 보내기 명령(의견과 가짜 사이트 신고)을 비활성화합니다.
 policy-DisableSafeMode = 안전 모드로 재시작하는 기능을 비활성화 합니다. 참고: 그룹 정책을 사용해서 쉬프트키를 눌러서 안전 모드로 들어가는 방법을 비활성화 하는 것은 윈도우에서만 가능합니다.
 # A “locked” extension can’t be disabled or removed by the user. This policy
