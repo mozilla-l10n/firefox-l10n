@@ -6,6 +6,12 @@ process-type-web = Conținut web
 # process used to run privileged pages,
 # such as about:home
 process-type-privileged = Conținut privilegiat
+# process used to run privileged about pages,
+# such as about:home
+process-type-privilegedabout = Pagina despre privilegiate
+# process used to run privileged mozilla pages,
+# such as accounts.firefox.com
+process-type-privilegedmozilla = Conținut privilegiat Mozilla
 process-type-extension = Extensie
 # process used to open file:// URLs
 process-type-file = Fișier local
