@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "중단했던 지점에서 다시 시작하세요.">
 <!ENTITY firstrun_sync_subtext2 "Sync를 이용해서 즐겨찾기나 비밀번호, &brandShortName;에 저장한 다른 설정을 사용하는 모든 기기에서 찾아보세요.">
 <!ENTITY newfirstrun_sync_subtext "사적으로 안전하게 모바일 환경에서 저장한 것을 데스크탑용 Firefox와 동기화하세요.">
+<!ENTITY updatednewfirstrun_sync_subtext "&brandShortName;를 최대한 활용하려면 계정에 로그인하세요.">
 <!ENTITY firstrun_signin_message "연결 및 시작하기">
 <!ENTITY firstrun_signin_button "Sync 로그인">
 <!ENTITY newfirstrun_signin_button "Sync 켜기">
+<!ENTITY updatednewfirstrun_signin_button "&brandShortName;에 로그인">
 <!ENTITY  onboard_start_button_browser "브라우징 시작">
 <!ENTITY firstrun_button_notnow "다음에">
 <!ENTITY firstrun_button_next "다음">
@@ -413,8 +415,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "다운로드">
 <!ENTITY pref_private_data_syncedTabs "동기화된 탭">
 
-<!ENTITY pref_default_browser "기본 브라우저로 지정">
-
 <!ENTITY pref_default_browser2 "&brandShortName;를 기본 웹 브라우저로 만들기">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -679,6 +679,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "음성 선택 또는 녹음">
 <!ENTITY filepicker_image_title "사진 선택 또는 촬영">
 <!ENTITY filepicker_video_title "동영상 선택 또는 녹화">
+
+<!ENTITY filepicker_permission_denied "필요한 권한이 부여되지 않아 시스템 파일 선택기로 되돌아갑니다.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "현재 웹 사이트는 인증 되었음">
