@@ -19,6 +19,7 @@ inactive-css-not-grid-item = <strong>{ $property }</strong> nu are niciun efect 
 inactive-css-not-grid-container = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că nu este container de grilă.
 inactive-css-not-flex-item = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că nu este element flex.
 inactive-css-not-flex-container = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că nu este container flex.
+inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că nu este element inline sau de celulă tabulară.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -30,3 +31,4 @@ inactive-css-not-grid-item-fix = Încearcă să adaugi <strong>display:grid</str
 inactive-css-not-grid-container-fix = Încearcă să adaugi <strong>display:grid</strong> sau <strong>display:inline-grid</strong>. { learn-more }
 inactive-css-not-flex-item-fix = Încearcă să adaugi <strong>display:flex</strong> sau <strong>display:inline-flex</strong> la părintele elementului. { learn-more }
 inactive-css-not-flex-container-fix = Încearcă să adaugi <strong>display:flex</strong> sau <strong>display:inline-flex</strong>. { learn-more }
+inactive-css-not-inline-or-tablecell-fix = Încearcă să adaugi <strong>display:inline</strong> sau <strong>display:table-cell</strong>. { learn-more }
