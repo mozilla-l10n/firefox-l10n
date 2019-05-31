@@ -33,7 +33,7 @@ about-debugging-sidebar-usb-disabled = USB desativado
 # Connection status (connected) for runtime items in the sidebar
 aboutdebugging-sidebar-runtime-connection-status-connected = Ligado
 # Connection status (disconnected) for runtime items in the sidebar
-aboutdebugging-sidebar-runtime-connection-status-disconnected = Desligado
+aboutdebugging-sidebar-runtime-connection-status-disconnected = Desassociado
 # Text displayed in the about:debugging sidebar when no device was found.
 about-debugging-sidebar-no-devices = Nenhum dispositivo descoberto
 # Text displayed in buttons found in sidebar items representing remote runtimes.
