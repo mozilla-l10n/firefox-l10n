@@ -470,6 +470,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Tembiasakue ramovéva ñemopotĩ…">
 <!ENTITY appMenuHistory.restoreSession.label "Tembiapopa'ũ ramovéva ñembojevy">
 <!ENTITY appMenuHistory.viewSidebar.label "Tembiasakue renda yke jehechauka">
+<!ENTITY appMenuHistory.hideSidebar.label "Emokañy tembiasakue renda yke">
 <!ENTITY appMenuHistory.recentHistory.label "Tembiasakue ramovéva">
 <!ENTITY appMenuHelp.label "Pytyvõ">
 
@@ -498,6 +499,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Eike Sync-pe">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Mba'e'oka ñangarekoha…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ehecha mbojuehepyre tenda yképe">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Emokañy tenda yke tendayke mbojuehepyrére">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Embojoaju Ambue Mba'e'oka">
 
 <!ENTITY appMenuRecentHighlights.label "Aje'i Ojehecharamoitéva">
@@ -531,6 +533,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.label "Emomarandu jepysokue rehegua">
 <!ENTITY customizeMenu.reportExtension.accesskey "o">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
