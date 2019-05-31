@@ -4,6 +4,9 @@
 
 languages-close-key =
     .key = w
+languages-customize-remove =
+    .label = Xita
+    .accesskey = X
 languages-customize-add =
     .label = Tee
     .accesskey = T

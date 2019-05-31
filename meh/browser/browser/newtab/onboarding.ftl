@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
-
-
 ### UI strings for the simplified onboarding modal / about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -15,9 +12,14 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
+onboarding-button-label-learn-more = Ka´vi kue´eka
+onboarding-button-label-get-started = Kajie´e
 
 ## Welcome modal dialog strings
 
+onboarding-welcome-header = Kusɨɨ inidáni nkantanu { -brand-short-name }
+onboarding-join-form-continue = Kɨ´ɨ
+onboarding-start-browsing-button-label = Kajie´e nánuku
 
 ## These are individual benefit messages shown with an image, title and
 ## description.

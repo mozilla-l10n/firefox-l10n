@@ -6,6 +6,16 @@ permissions-close-key =
     .key = w
 permissions-site-name =
     .label = Sitio web
+permissions-button-cancel =
+    .label = Nkuvi-ka
+    .accesskey = N
+permissions-button-ok =
+    .label = Chuva´a nsama
+    .accesskey = C
+permissions-searchbox =
+    .placeholder = Nánuku nuu Web
+permissions-capabilities-allow =
+    .label = Kuvi
 
 ## Invalid Hostname Dialog
 

@@ -50,6 +50,9 @@ colors-settings =
     .label = Teku...
     .accesskey = C
 language-header = Tu'un
+choose-button =
+    .label = Sama...
+    .accesskey = S
 
 ## General Section - Files and Applications
 
@@ -72,6 +75,7 @@ performance-settings-learn-more = Ka´vi jiee ya´a
 
 ## General Section - Browsing
 
+browsing-cfr-recommendations-learn-more = Ka´vi kue´eka
 
 ## General Section - Proxy
 
@@ -86,15 +90,25 @@ network-proxy-connection-learn-more = Ka´vi jiee ya´a
 ## Search Section
 
 search-bar-header = Nuu nánuku
+search-remove-engine =
+    .label = Xita
+    .accesskey = R
+search-find-more-link = Nani´ikue´e ka̱a̱ nánuku
 
 ## Containers Section
 
+containers-back-link = « Niko yata
+containers-remove-button =
+    .label = Xita
 
 ## Sync Section - Signed out
 
 
 ## Sync Section - Signed in
 
+sync-disconnect =
+    .label = Kene...
+    .accesskey = K
 
 ## Privacy Section
 
