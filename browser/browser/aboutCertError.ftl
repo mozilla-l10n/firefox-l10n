@@ -5,3 +5,5 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } utilizza un certificato di sicurezza non valido.
+cert-error-trust-self-signed = Il certificato non è attendibile in quanto autofirmato.
+cert-error-untrusted-default = Il certificato non proviene da una fonte attendibile.
