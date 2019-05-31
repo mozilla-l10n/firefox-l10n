@@ -37,5 +37,5 @@
 <!ENTITY account.showDebugLog.label     "Mostrar registo de depuração">
 <!ENTITY account.showDebugLog.accesskey "o">
 <!ENTITY account.connecting           "A ligar…">
-<!ENTITY account.disconnecting        "A desligar…">
+<!ENTITY account.disconnecting        "A desassociar…">
 <!ENTITY account.disconnected         "Não ligado">
