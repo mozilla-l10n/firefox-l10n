@@ -27,6 +27,7 @@
 <!ENTITY firstrun_signin_message "Povežite se in začnite">
 <!ENTITY firstrun_signin_button "Prijava v Sync">
 <!ENTITY newfirstrun_signin_button "Vklopi Sync">
+<!ENTITY updatednewfirstrun_signin_button "Prijava v &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Začnite brskati">
 <!ENTITY firstrun_button_notnow "Ne zdaj">
 <!ENTITY firstrun_button_next "Naprej">
@@ -413,8 +414,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Prenosi">
 <!ENTITY pref_private_data_syncedTabs "Sinhronizirani zavihki">
 
-<!ENTITY pref_default_browser "Nastavi kot privzeti brskalnik">
-
 <!ENTITY pref_default_browser2 "Nastavi &brandShortName; kot privzet brskalnik">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -679,6 +678,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Izberi ali posnemi zvok">
 <!ENTITY filepicker_image_title "Izberi ali posnemi sliko">
 <!ENTITY filepicker_video_title "Izberi ali posnemi video">
+
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Povezani ste na stran">
