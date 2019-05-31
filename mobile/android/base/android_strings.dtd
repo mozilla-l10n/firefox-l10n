@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "Continuă de unde ai rămas.">
 <!ENTITY firstrun_sync_subtext2 "Folosește Sync pentru a găsi pe toate dispozitivele tale marcajele, parolele și celelalte lucruri pe care le salvezi în &brandShortName;.">
 <!ENTITY newfirstrun_sync_subtext "Sincronizează lucrurile salvate pe dispozitivul mobil cu Firefox pentru desktop, în mod privat și sigur.">
+<!ENTITY updatednewfirstrun_sync_subtext "Intră în cont pentru a obține maximul de la &brandShortName;">
 <!ENTITY firstrun_signin_message "Conectează-te și începe">
 <!ENTITY firstrun_signin_button "Autentifică-te la Sync">
 <!ENTITY newfirstrun_signin_button "Activează Sync">
+<!ENTITY updatednewfirstrun_signin_button "Autentifică-te în &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Începe navigarea">
 <!ENTITY firstrun_button_notnow "Nu chiar acum">
 <!ENTITY firstrun_button_next "Înainte">
@@ -677,6 +679,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Alege sau înregistrează în format audio">
 <!ENTITY filepicker_image_title "Alege sau fă o poză">
 <!ENTITY filepicker_video_title "Alege sau înregistrează în format video">
+
+<!ENTITY filepicker_permission_denied "Permisiunile solicitate nu au fost acordate, se revine la selectorul de fișiere al sistemului.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Ești conectat la">
