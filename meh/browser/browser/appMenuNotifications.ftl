@@ -34,3 +34,13 @@ appmenu-update-restart =
 appmenu-addon-private-browsing-installed =
     .buttonlabel = Kuvi
     .buttonaccesskey = O
+appmenu-addon-post-install-message = Kuña´nu nuu daa ka̱a̱ chunta´an kuaxin <image data-l10n-name='addon-install-icon'> nuu <image data-l10n-name='addon-menu-icon'> menú.
+appmenu-addon-post-install-incognito-checkbox =
+    .label = Kua´a kuvi satiñu extensión nuu pestaña yu´u
+    .accesskey = A
+appmenu-addon-private-browsing =
+    .label = Sama extensión nuu ventana yu´u
+    .buttonlabel = Kuña´nu nuu extensión
+    .buttonaccesskey = M
+    .secondarybuttonlabel = Kuvi
+    .secondarybuttonaccesskey = O
