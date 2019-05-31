@@ -67,6 +67,9 @@ onboarding-firefox-send-title = Eguerekóke ne marandurenda moherakuãpyre ñemi
 onboarding-firefox-send-text2 = Ehupi ne marandurenda { -send-brand-name }-pe emoherakuã hag̃ua papapýpe oñepyrũ guive opaha peve ha juajuha opareíva ijehegui.
 onboarding-firefox-send-button = Eipuru { -send-brand-name }
 onboarding-mobile-phone-title = Eguareko { -brand-product-name } ne pumbyrýpe
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Emboguejy kundaha pumbyrygua
 onboarding-pocket-anywhere-button = Eipuru { -pocket-brand-name }
 onboarding-lockwise-passwords-button2 = Eguerekóke tembipuru'i
 onboarding-facebook-container-button = Embojuaju jepysokue
