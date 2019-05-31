@@ -479,7 +479,7 @@ sync-mobile-promo = Transfira o Firefox para <img data-l10n-name="android-icon"/
 sync-profile-picture =
     .tooltiptext = Alterar imagem de perfil
 sync-disconnect =
-    .label = Desligar…
+    .label = Desassociar…
     .accesskey = D
 sync-manage-account = Gerir conta
     .accesskey = o
