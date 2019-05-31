@@ -413,8 +413,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Stahování">
 <!ENTITY pref_private_data_syncedTabs "Synchronizované panely">
 
-<!ENTITY pref_default_browser "Nastavit jako výchozí prohlížeč">
-
 <!ENTITY pref_default_browser2 "Použít aplikaci &brandShortName; jako výchozí prohlížeč">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -680,6 +678,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_image_title "Vyberte nebo vyfoťte obrázek">
 <!ENTITY filepicker_video_title "Vyberte nebo natočte video">
 
+
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Jste připojeni k">
 <!-- Localization note (identity_run_by) : This string appears between a
@@ -918,6 +917,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Pozastavit">
 <!ENTITY pip_pause_button_description "Pozastavit přehrávání">
 
+<!ENTITY pref_notification_settings_link "Nastavení oznámení">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Prohlížeč">
 <!ENTITY mls_notification_channel "Geolokační služba &vendorShortName;">
