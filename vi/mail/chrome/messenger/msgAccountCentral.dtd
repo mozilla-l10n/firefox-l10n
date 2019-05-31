@@ -18,7 +18,7 @@
 <!ENTITY settingsLink.label           "Xem cài đặt cho tài khoản này">
 <!ENTITY setupNewAcct.label           "Thiết lập một tài khoản:">
 
-<!ENTITY advFeaturesSectionHdr.label  "Tính năng Nâng cao">
+<!ENTITY advFeaturesSectionHdr.label  "Tính năng nâng cao">
 <!ENTITY searchMsgsLink.label         "Tìm kiếm thư">
 <!ENTITY filtersLink.label            "Quản lí bộ lọc thư">
 <!ENTITY junkSettings.label           "Cài đặt thư rác">
