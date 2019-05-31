@@ -21,6 +21,7 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Կրկին բեռնել ներդիրը">
 <!ENTITY  reloadTab.accesskey                "Կ">
+<!ENTITY  selectAllTabs.label                "Ընտրել բոլոր ներդիրները">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Կրկնօրինակել ներդիրը">
@@ -105,7 +106,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Տպել…">
 <!ENTITY printCmd.accesskey "Տ">
 <!ENTITY printCmd.commandkey "p">
-
 
 
 <!ENTITY goOfflineCmd.label "Աշխատել անցանց ">
@@ -286,6 +286,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Դուք արգելափակել եք այս կայքը Adobe Flash բաղադրիչը օգտագործելուց:">
 <!ENTITY urlbar.midiBlocked.tooltip              "Դուք արգելափակել եք MIDI մատչումը այս կայքին:">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Ցուցադրել պատմությունը">
 
 <!ENTITY searchItem.title             "Որոնում">
@@ -381,7 +382,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Նախըտրանքներ">
 <!ENTITY preferencesCmdUnix.accesskey     "ր">
 
-
 <!ENTITY clearRecentHistory.label               "Մաքրել Վերջին Պատմությունը...">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
@@ -462,6 +462,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "Հ">
 <!ENTITY customizeMenu.addMoreItems.label "Ավելացնել այլ տարրեր...">
 <!ENTITY customizeMenu.addMoreItems.accesskey "Ա">
+
+<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
+     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     an abuse report related to that extension. "Report" is a verb. -->
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -802,6 +806,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Այս էջը բեռնվել է ընդլայնումից:">
 <!ENTITY identity.insecureLoginForms2 "Այս էջից մուտքագրումները վտանգված են:">
 
+
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName;-ը արգելափակել է այս էջի մասերը, քանի որ դրանք անվտանգ չեն:">
 <!ENTITY identity.passiveLoaded "Այս էջի մասերը անվտանգ չեն (օր.՝ պատկերները):">
@@ -819,6 +824,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Չնայած &brandShortName;-ը արգելափակել է որոշ բովանդակություն՝ այս էջում դեռ կա ոչ անվտանգ բովանդակություն (օր.՝ պատկերներ):">
 <!ENTITY identity.description.activeLoaded "Այս կայքը պարունակում է բովանդակություն, որն անվտանգ չէ (օր.՝ գրվածքներ) և ձեր կապակցումը գաղտնի չէ:">
 <!ENTITY identity.description.activeLoaded2 "Կայք ուղարկված տեղեկատվությունը կարող է դիտվել ուրիշների կողմից (գաղտնաբառերը, հաղորդագրությունները, քարտային տվյալները և այլն):">
+
 
 <!ENTITY identity.enableMixedContentBlocking.label "Միացնել պաշտպանություն">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "Մ">

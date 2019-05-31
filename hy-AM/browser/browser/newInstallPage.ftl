@@ -10,6 +10,7 @@
 title = Կարևոր նորություններ
 heading = Փոփոխություններ ձեր { -brand-short-name } պրոֆիլում:
 changed-title = Ի՞նչն է փոխվել:
+options-title = Ո՞րոնք են իմ ընտրաքները:
 resources = Ռեսուրսներ.
 sync-header = Մուտք գործեք կամ ստեղծեք { -fxaccount-brand-name }
 sync-label = Մուտքագրեք ձեր էլ. փոստը
