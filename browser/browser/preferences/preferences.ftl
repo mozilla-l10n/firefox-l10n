@@ -293,6 +293,21 @@ update-pref-write-failure-title = Błąd zapisu
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Nie udało się zapisać ustawienia. Nie można było zapisać pliku: { $path }
+update-setting-write-failure-title = Błąd podczas zachowywania preferencji aktualizacji
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    W przeglądarce { -brand-short-name } wystąpił błąd i nie zachowano tej zmiany. Zauważ, że ustawienie tej preferencji aktualizacji wymaga uprawnienia do zapisu do poniższego pliku. Ty lub administrator komputera może móc rozwiązać błąd przez udzielenie grupie „Użytkownicy” pełnej kontroli nad tym plikiem.
+    
+    Nie można zapisać do pliku: { $path }
+update-in-progress-title = Trwa aktualizacja
+update-in-progress-message = Czy { -brand-short-name } ma kontynuować tę aktualizację?
+update-in-progress-ok-button = &Odrzuć
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Kontynuuj
 
 ## General Section - Performance
 
