@@ -6,6 +6,12 @@ process-type-web = Διαδικτυακό περιεχόμενο
 # process used to run privileged pages,
 # such as about:home
 process-type-privileged = Προνομιακό περιεχόμενο
+# process used to run privileged about pages,
+# such as about:home
+process-type-privilegedabout = Προνομιακή σελίδα About
+# process used to run privileged mozilla pages,
+# such as accounts.firefox.com
+process-type-privilegedmozilla = Προνομιακό περιεχόμενο Mozilla
 process-type-extension = Επέκταση
 # process used to open file:// URLs
 process-type-file = Τοπικό αρχείο
