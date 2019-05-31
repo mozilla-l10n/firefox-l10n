@@ -11,7 +11,6 @@
 <!ENTITY returnToPreviousPage1.label "Retroceder (Recommendate)">
 <!ENTITY advanced.label "Avantiate">
 <!ENTITY advanced2.label "Avantiate…">
-<!ENTITY moreInformation.label "Plus de informationes">
 <!ENTITY viewCertificate.label "Vider le certificato">
 
 <!-- Specific error messages -->
@@ -178,10 +177,10 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>Le sito pote ser temporarimente indisponibile o troppo occupate. Retenta in un momento.</li>
-  <li>Si tu non pote cargar qualcunque pagina, verifica le connexion de tu computator al rete.</li>
+  <li>Le sito pote esser temporarimente indisponibile o troppo occupate. Retenta in un momento.</li>
+  <li>Si tu non pote cargar alcun pagina, verifica le connexion de tu computator al rete.</li>
   <li>Si tu computator o rete es protegite per un firewall o proxy, assecura te
-    que &brandShortName; es permittite a  acceder al Web.</li>
+    que &brandShortName; es permittite a acceder al Web.</li>
 </ul>
 ">
 
