@@ -679,6 +679,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_image_title "Izberi ali posnemi sliko">
 <!ENTITY filepicker_video_title "Izberi ali posnemi video">
 
+<!ENTITY filepicker_permission_denied "Zahtevana dovoljenja niso dodeljena, vračanje na sistemski izbirnik datotek.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Povezani ste na stran">
