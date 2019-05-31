@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "Συνεχίστε από εκεί που σταματήσατε.">
 <!ENTITY firstrun_sync_subtext2 "Χρησιμοποιήστε το Sync για να βρείτε τους σελιδοδείκτες, τους κωδικούς πρόσβασης και άλλα στοιχεία που αποθηκεύετε στο &brandShortName;, σε όλες σας τις συσκευές.">
 <!ENTITY newfirstrun_sync_subtext "Συγχρονίστε τα δεδομένα που αποθηκεύετε στο κινητό με το Firefox για υπολογιστές, με ασφάλεια και απόρρητο.">
+<!ENTITY updatednewfirstrun_sync_subtext "Συνδεθείτε στο λογαριασμό σας για να αξιοποιήσετε στο έπακρο το &brandShortName;">
 <!ENTITY firstrun_signin_message "Συνδεθείτε και ξεκινήστε">
 <!ENTITY firstrun_signin_button "Είσοδος στο Sync">
 <!ENTITY newfirstrun_signin_button "Ενεργοποίηση Sync">
+<!ENTITY updatednewfirstrun_signin_button "Σύνδεση στο &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Έναρξη περιήγησης">
 <!ENTITY firstrun_button_notnow "Όχι τώρα">
 <!ENTITY firstrun_button_next "Επόμενο">
@@ -677,6 +679,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Επιλέξτε ή εγγράψτε έναν ήχο">
 <!ENTITY filepicker_image_title "Επιλέξτε ή τραβήξτε μια εικόνα">
 <!ENTITY filepicker_video_title "Επιλέξτε ή τραβήξτε ένα βίντεο">
+
+<!ENTITY filepicker_permission_denied "Δεν χορηγήθηκαν τα απαιτούμενα δικαιώματα, επαναφορά στην εφαρμογή επιλογής αρχείων συστήματος.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Έχει συνδεθεί στο">
