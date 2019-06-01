@@ -278,6 +278,7 @@ update-pref-write-failure-title = การเขียนล้มเหลว
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = ไม่สามารถบันทึกค่ากำหนด ไม่สามารถเขียนไปยังไฟล์: { $path }
 update-setting-write-failure-title = เกิดข้อผิดพลาดในการบันทึกค่ากำหนดการอัปเดต
+update-in-progress-ok-button = &ละทิ้ง
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ดำเนินการต่อ
