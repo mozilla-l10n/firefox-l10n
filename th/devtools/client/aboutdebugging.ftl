@@ -82,9 +82,6 @@ about-debugging-refresh-usb-devices-button = เรียกอุปกรณ�
 about-debugging-setup-title = ตั้งค่า
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = กำหนดค่าวิธีการเชื่อมต่อที่คุณต้องการดีบั๊กอุปกรณ์ของคุณจากระยะไกล
-# Link displayed in the Setup page that leads to MDN page with list of supported devices.
-# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
-about-debugging-setup-link-android-devices = ดูรายการอุปกรณ์ Android ที่รองรับ
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = ใช้ <a>{ about-debugging-this-firefox-runtime-name }</a> เพื่อดีบั๊กแท็บ, ส่วนขยายและตัวทำงานบริการบน { -brand-shorter-name } รุ่นนี้
 # Title of the heading Connect section of the Setup page.
@@ -105,12 +102,6 @@ about-debugging-setup-usb-updating-button = กำลังอัปเดต…
 about-debugging-setup-usb-status-enabled = เปิดใช้งานอยู่
 about-debugging-setup-usb-status-disabled = ปิดใช้งานอยู่
 about-debugging-setup-usb-status-updating = กำลังอัปเดต…
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu = เปิดใช้งานเมนูนักพัฒนาในอุปกรณ์ Android ของคุณ <a>เรียนรู้วิธี</a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug = เปิดใช้งานการดีบั๊ก USB ในเมนูนักพัฒนา Android <a>เรียนรู้วิธี</a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox = เปิดใช้งานการดีบั๊ก USB ใน Firefox ในอุปกรณ์ Android <a>เรียนรู้วิธี</a>
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = เปิดใช้งานเมนูนักพัฒนาในอุปกรณ์ Android ของคุณ
 # USB section step by step guide
@@ -192,11 +183,6 @@ about-debugging-connection-prompt-enable-button = เปิดใช้งาน
 about-debugging-connection-prompt-disable-button = ปิดใช้งานพรอมต์การเชื่อมต่อ
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
 about-debugging-profiler-dialog-title2 = ตัวสร้างโปรไฟล์
-# Label of a checkbox displayed in the runtime page for "This Firefox".
-# This checkbox will toggle preferences that enable local addon debugging.
-# The "Learn more" link points to MDN.
-# https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
-about-debugging-extension-debug-setting-label = เปิดใช้งานการดีบั๊กส่วนขยาย <a>เรียนรู้เพิ่มเติม</a>
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
@@ -285,3 +271,9 @@ about-debugging-main-process-description2 = โปรเซสหลักสำ
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = ปิดข้อความ
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = รายละเอียดข้อผิดพลาด
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = รายละเอียดคำเตือน
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = รายละเอียด
