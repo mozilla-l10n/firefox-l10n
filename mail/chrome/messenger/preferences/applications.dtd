@@ -34,5 +34,7 @@
 <!ENTITY authRequired.button.label        "Awtorizěrowaś">
 <!ENTITY authRequired.button.accesskey    "A">
 
+<!ENTITY findCloudFileProviders.label     "Dalšnych póbitowarjow namakaś…">
+
 <!ENTITY enableCloudFileAccountOffer.label "Póbitowaś, aby dataje źělił, kótarež su wětše ako">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
