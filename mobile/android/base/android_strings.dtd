@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "หยิบจากที่ที่คุณทำค้างไว้">
 <!ENTITY firstrun_sync_subtext2 "ใช้ Sync เพื่อค้นหาที่คั่นหน้า, รหัสผ่าน และสิ่งอื่น ๆ ที่คุณบันทึกไปยัง &brandShortName; ในอุปกรณ์ทั้งหมดของคุณ">
 <!ENTITY newfirstrun_sync_subtext "ซิงค์สิ่งที่คุณบันทึกบนมือถือไปยัง Firefox บนเดสก์ท็อป ได้อย่างเป็นส่วนตัวและปลอดภัย">
+<!ENTITY updatednewfirstrun_sync_subtext "ลงชื่อเข้าบัญชีของคุณเพื่อรับประโยชน์สูงสุดจาก &brandShortName;">
 <!ENTITY firstrun_signin_message "รับการเชื่อมต่อ เริ่มต้นใช้งาน">
 <!ENTITY firstrun_signin_button "ลงชื่อเข้า Sync">
 <!ENTITY newfirstrun_signin_button "เปิดใช้ Sync">
+<!ENTITY updatednewfirstrun_signin_button "ลงชื่อเข้า &brandShortName;">
 <!ENTITY  onboard_start_button_browser "เริ่มการเรียกดู">
 <!ENTITY firstrun_button_notnow "ไม่ใช่ตอนนี้">
 <!ENTITY firstrun_button_next "ถัดไป">
@@ -677,6 +679,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "เลือกหรืออัดเสียง">
 <!ENTITY filepicker_image_title "เลือกหรือถ่ายรูป">
 <!ENTITY filepicker_video_title "เลือกหรือถ่ายวิดีโอ">
+
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "คุณได้เชื่อมต่อกับ">
