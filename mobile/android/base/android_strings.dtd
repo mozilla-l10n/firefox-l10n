@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "Jatka siitä, mihin jäit.">
 <!ENTITY firstrun_sync_subtext2 "Käytä Sync-palvelua löytämään kirjanmerkit, salasanat ynnä muut &brandShortName;iin tallentamasi tiedot kaikilla laitteillasi.">
 <!ENTITY newfirstrun_sync_subtext "Synkronoi kaikki mobiililaitteelle tallentamasi Firefoxin työpöytäversioon, yksityisesti ja turvallisesti.">
+<!ENTITY updatednewfirstrun_sync_subtext "Kirjaudu tilillesi saadaksesi täyden hyödyn irti &brandShortName;ista">
 <!ENTITY firstrun_signin_message "Yhdistä ja aloita">
 <!ENTITY firstrun_signin_button "Kirjaudu sisään Sync-palveluun">
 <!ENTITY newfirstrun_signin_button "Ota Sync käyttöön">
+<!ENTITY updatednewfirstrun_signin_button "Kirjaudu sisään &brandShortName;iin">
 <!ENTITY  onboard_start_button_browser "Aloita selaaminen">
 <!ENTITY firstrun_button_notnow "Ei nyt">
 <!ENTITY firstrun_button_next "Seuraava">
@@ -677,6 +679,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Valitse tai äänitä ääni">
 <!ENTITY filepicker_image_title "Valitse tai ota kuva">
 <!ENTITY filepicker_video_title "Valitse tai nauhoita video">
+
+<!ENTITY filepicker_permission_denied "Vaadittuja oikeuksia ei annettu, palataan järjestelmän tiedostovalitsimeen.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Yhteys muodostettu verkkosivustoon">
