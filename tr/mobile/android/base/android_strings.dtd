@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "Kaldığın yerden devam et.">
 <!ENTITY firstrun_sync_subtext2 "Tüm cihazlarınızda &brandShortName;’a kaydettiğiniz yer imlerine, parolalara ve diğer bilgilere ulaşmak için Sync’i kullanabilirsiniz.">
 <!ENTITY newfirstrun_sync_subtext "Mobil cihazınızda kaydettiğiniz her şeyi bilgisayarınızdaki Firefox’a güvenle aktarın.">
+<!ENTITY updatednewfirstrun_sync_subtext "&brandShortName;’tan en iyi şekilde yararlanmak için hesabınıza giriş yapın">
 <!ENTITY firstrun_signin_message "Bağlan, kullanmaya başla">
 <!ENTITY firstrun_signin_button "Sync’e giriş yap">
 <!ENTITY newfirstrun_signin_button "Sync’i etkinleştir">
+<!ENTITY updatednewfirstrun_signin_button "&brandShortName;’a giriş yapın">
 <!ENTITY  onboard_start_button_browser "Gezinmeye başla">
 <!ENTITY firstrun_button_notnow "Daha sonra">
 <!ENTITY firstrun_button_next "İleri">
@@ -677,6 +679,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Bir ses seçin veya kaydedin">
 <!ENTITY filepicker_image_title "Bir resim seçin veya çekin">
 <!ENTITY filepicker_video_title "Bir video seçin veya kaydedin">
+
+<!ENTITY filepicker_permission_denied "Gerekli izinler verilmedi. Sistem dosya seçicisine dönülüyor.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Bağlandığınız site:">
