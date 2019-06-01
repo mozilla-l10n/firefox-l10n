@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "Cyńśo tam dalej, źož sćo pśestał.">
 <!ENTITY firstrun_sync_subtext2 "Wužywajśo Sync, aby cytańske znamjenja, gronidła a druge wěcy namakał, kótarež w &brandShortName; na wšych swójich rědach składujośo.">
 <!ENTITY newfirstrun_sync_subtext "Synchronizěrujśo informacije, kótarež na mobilnem rěźe składujośo, z Firefox za desktop, priwatnje a wěsće.">
+<!ENTITY updatednewfirstrun_sync_subtext "Pśizjawśo se pla swójogo konta, aby nejlěpše z &brandShortName; wuwónoźeł">
 <!ENTITY firstrun_signin_message "Zwězajśo se, zachopśo">
 <!ENTITY firstrun_signin_button "Pla Sync pśizjawiś">
 <!ENTITY newfirstrun_signin_button "Sync zašaltowaś">
+<!ENTITY updatednewfirstrun_signin_button "Pla &brandShortName; pśizjawiś">
 <!ENTITY  onboard_start_button_browser "Pśeglědowanje startowaś">
 <!ENTITY firstrun_button_notnow "Nic ned">
 <!ENTITY firstrun_button_next "Pśiducy">
@@ -413,8 +415,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Ześěgnjenja">
 <!ENTITY pref_private_data_syncedTabs "Synchronizěrowane rejtarki">
 
-<!ENTITY pref_default_browser "Jako standardny wobglědowak nastajiś">
-
 <!ENTITY pref_default_browser2 "&brandShortName; k wašomu standardnemu wobglědowakoju cyniś">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -680,6 +680,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_image_title "Wubjeŕśo abo wótmolujśo wobraz">
 <!ENTITY filepicker_video_title "Wubjeŕśo abo nagrajśo wideo">
 
+<!ENTITY filepicker_permission_denied "Trěbne pšawa njejsu se dali, wrośijo se k systemowemu datajowemu wuběrakoju.">
+
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Sćo zwězany z">
 <!-- Localization note (identity_run_by) : This string appears between a
@@ -918,6 +920,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Zastajiś">
 <!ENTITY pip_pause_button_description "Wótgrawanje zastajiś">
 
+<!ENTITY pref_notification_settings_link "Zdźěleńske nastajenja zastojaś">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Wobglědowak">
 <!ENTITY mls_notification_channel "Stojnišćowa słužba &vendorShortName;">
