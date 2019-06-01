@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "Continúa donde quedaste.">
 <!ENTITY firstrun_sync_subtext2 "Usa Sync para encontrar marcadores, contraseñas y otras cosas que guardes en &brandShortName; en todos tus dispositivos.">
 <!ENTITY newfirstrun_sync_subtext "Sincroniza las cosas que guardas en el celular con Firefox para escritorio, de forma privada y segura.">
+<!ENTITY updatednewfirstrun_sync_subtext "Conéctate a tu cuenta para sacarle más provecho a &brandShortName;">
 <!ENTITY firstrun_signin_message "Conéctate, inicia">
 <!ENTITY firstrun_signin_button "Conectarse a Sync">
 <!ENTITY newfirstrun_signin_button "Activar la sincronización">
+<!ENTITY updatednewfirstrun_signin_button "Conectarse a &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Empezar a navegar">
 <!ENTITY firstrun_button_notnow "Ahora no">
 <!ENTITY firstrun_button_next "Siguiente">
@@ -413,8 +415,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Descargas">
 <!ENTITY pref_private_data_syncedTabs "Pestañas sincronizadas">
 
-<!ENTITY pref_default_browser "Establecer como navegador predeterminado">
-
 <!ENTITY pref_default_browser2 "Hacer &brandShortName; tu navegador predeterminado">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -679,6 +679,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Elegir o grabar un sonido">
 <!ENTITY filepicker_image_title "Elegir o tomar una foto">
 <!ENTITY filepicker_video_title "Elegir o grabar un video">
+
+<!ENTITY filepicker_permission_denied "Permiso requerido no otorgado, revirtiendo al selector de archivos del sistema.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Estás conectado a">
