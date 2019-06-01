@@ -64,5 +64,10 @@ abuse-report-deceptive-example = Pśikład: Torjece wopisanje abo wobraznosć
 abuse-report-broken-reason-extension = Njefunkcioněrujo, wobškóźujo websedła abo spómałšujo { -brand-product-name }
 abuse-report-broken-reason-theme = Njefunkcioněrujo abo wobškóźujo zwobraznjenje wobglědowaka
 abuse-report-broken-example = Pśikład: Funkcije su pomałe, śěžko wužywajobne abo njefunkcioněruju; źěle websedła se njezacytaju abo wuglědaju njewšedne
-abuse-report-broken-suggestions-extension = Zda sr, zo sćo identificěrował zmólku. Mimo až móžośo rozpšawu wótpósłaś, stajśo se nejlěpjej z wuwijarjom rozšyrjenja do zwiska, aby problem z funkcionalnosću rozwězał. <a data-l10n-name="support-link">Woglědajśo se k websedłoju rozšyrjenja</a>, aby se informacije wó wuwijarju wobstarał.
+abuse-report-broken-suggestions-extension = Zda se, zo sćo identificěrował zmólku. Mimo až móžośo rozpšawu wótpósłaś, stajśo se nejlěpjej z wuwijarjom rozšyrjenja do zwiska, aby problem z funkcionalnosću rozwězał. <a data-l10n-name="support-link">Woglědajśo se k websedłoju rozšyrjenja</a>, aby se informacije wó wuwijarju wobstarał.
+abuse-report-broken-suggestions-theme = Zda se, zo sćo identificěrował zmólku. Mimo až móžośo rozpšawu wótpósłaś, stajśo se nejlěpjej z wuwijarjom drastwy do zwiska, aby problem z funkcionalnosću rozwězał. <a data-l10n-name="support-link">Woglědajśo se k websedłoju drastwy</a>, aby se informacije wó wuwijarju wobstarał.
+abuse-report-policy-reason = Gramoty połne, namócne abo ilegalne wopśimjeśe
+abuse-report-policy-suggestions = Glědajśo: Problemy z awtorstwom a wikowym znamjenim muse se na drugi nałog k wěsći daś. <a data-l10n-name="report-infringement-link">Mějśo se pó toś tych instrukcijach</a>, aby problem k wěsći dał.
+abuse-report-unwanted-reason = Njejsom nigda kśěł toś to rozšyrjenje a njamógu jo wótbyś
+abuse-report-unwanted-example = Pśikład: Nałoženje jo jo zainstalěrowało bźez dowólnosći
 abuse-report-other-reason = Něco druge
