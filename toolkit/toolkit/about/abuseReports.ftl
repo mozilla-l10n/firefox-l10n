@@ -37,6 +37,8 @@ abuse-report-messagebar-submitted = Źěkujomy se, až sćo pósłał rozpšawu.
 abuse-report-messagebar-submitted-noremove = Źěkujomy se, až sćo pósłał rozpšawu.
 abuse-report-messagebar-removed-extension = Źěkujomy se, až sćo pósłał rozpšawu. Sćo wótwónoźeł rozšyěrjenje <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = Źěkujomy se, až sćo pósłał rozpšawu. Sćo wótwónoźeł drastwu <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error = Zmólka pśi słanju rozpšawy za <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error-recent-submit = Rozpšawa za <span data-l10n-name="addon-name">{ $addon-name }</span> njejo se pósłała, dokulaž jo se druga rozpšawa njedawno wótpósłała.
 
 ## Message bars actions.
 
@@ -60,4 +62,7 @@ abuse-report-settings-suggestions-homepage = Změńśo swój startowy bok a nowy
 abuse-report-deceptive-reason = Twarźi něco byś, což njejo
 abuse-report-deceptive-example = Pśikład: Torjece wopisanje abo wobraznosć
 abuse-report-broken-reason-extension = Njefunkcioněrujo, wobškóźujo websedła abo spómałšujo { -brand-product-name }
+abuse-report-broken-reason-theme = Njefunkcioněrujo abo wobškóźujo zwobraznjenje wobglědowaka
+abuse-report-broken-example = Pśikład: Funkcije su pomałe, śěžko wužywajobne abo njefunkcioněruju; źěle websedła se njezacytaju abo wuglědaju njewšedne
+abuse-report-broken-suggestions-extension = Zda sr, zo sćo identificěrował zmólku. Mimo až móžośo rozpšawu wótpósłaś, stajśo se nejlěpjej z wuwijarjom rozšyrjenja do zwiska, aby problem z funkcionalnosću rozwězał. <a data-l10n-name="support-link">Woglědajśo se k websedłoju rozšyrjenja</a>, aby se informacije wó wuwijarju wobstarał.
 abuse-report-other-reason = Něco druge
