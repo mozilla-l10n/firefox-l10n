@@ -20,7 +20,7 @@ profiles-rootdir = Cartella radice
 # part of a backup scheme.)
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Cartella locale
-profiles-current-profile = Non è possibile eliminare il profilo attualmente in uso.
+profiles-current-profile = Non è possibile eliminare questo profilo in quanto è attualmente in uso.
 profiles-in-use-profile = Questo profilo è attualmente utilizzato da un’altra applicazione e non può essere eliminato.
 profiles-rename = Rinomina
 profiles-remove = Elimina
