@@ -680,6 +680,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_image_title "เลือกหรือถ่ายรูป">
 <!ENTITY filepicker_video_title "เลือกหรือถ่ายวิดีโอ">
 
+<!ENTITY filepicker_permission_denied "ไม่ได้รับสิทธิอนุญาตที่จำเป็น กำลังเปลี่ยนกลับเป็นตัวเลือกไฟล์ของระบบ">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "คุณได้เชื่อมต่อกับ">
