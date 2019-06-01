@@ -8,7 +8,7 @@ process-type-web = Webwobsah
 process-type-privileged = Priwilegowany wobsah
 # process used to run privileged about pages,
 # such as about:home
-process-type-privilegedabout = Priwilegowana strona about
+process-type-privilegedabout = Priwilegowane strony about
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = Priwilegowany wobsah Mozilla
