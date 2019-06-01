@@ -901,6 +901,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "يحوي هذا الموقع محتوى غير آمن (مثل السكربتات) و اتصالك به ليس خاصا.">
 <!ENTITY identity.description.activeLoaded2 "يمكن للآخرين مطالعة المعلومات التي تشاركها مع الموقع (مثل كلمات السر، و الرسائل، و بطاقات الائتمان و غيرها).">
 
+<!ENTITY identity.description.customRoot "لم تتعرّف موزيلا على مُصْدِر الشهادات هذا. لربّما أضافه نظام التشغيل أو أحد المدراء.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "فعّل الحماية">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "ف">
@@ -1178,6 +1179,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstall.incognito.checkbox.label "اسمح لهذا الامتداد بأن يعمل في النوافذ الخاصة">
 <!ENTITY addonPostInstall.incognito.checkbox.accesskey "س">
 
+<!ENTITY addonPrivateBrowsing.header2.label "طرأ تغيير على الامتدادات في النوافذ الخاصة">
 <!ENTITY addonPrivateBrowsing.body2.label "لن تعمل أية امتدادات تضيفها إلى &brandShorterName; في النوافذ الخاصة ما لم تسمح لها هنا في هذا القسم.">
 <!ENTITY addonPrivateBrowsing.learnMore.label "اطّلع على طريقة إدارة إعدادات الامتدادات.">
 <!ENTITY addonPrivateBrowsing.okButton.label "حسنًا، فهمت">
