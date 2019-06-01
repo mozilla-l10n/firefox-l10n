@@ -9,6 +9,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Pomoc">
 <!ENTITY helpMenuWin.accesskey "P">
+<!ENTITY aboutProduct2.label "Wó &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey "W">
 <!ENTITY helpTroubleshootingInfo.label     "Informacije wó problemach">
 <!ENTITY helpTroubleshootingInfo.accesskey "I">
 <!ENTITY helpSafeMode.label     "Ze znjemóžnjonymi dodankami startowaś…">
@@ -26,3 +28,23 @@
 
 <!ENTITY aboutMenuCmd2.label "Wó &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "W">
+<!ENTITY productHelp.label "Pomoc &brandShortName;">
+<!ENTITY productHelp.accesskey "P">
+<!ENTITY productHelp.commandkey "VK_F1">
+<!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "accel">
+
+<!ENTITY helpKeyboardShortcuts.label "Tastowe skrotconki">
+<!ENTITY helpKeyboardShortcuts.accesskey "T">
+
+<!ENTITY helpFeedbackPage.label "Pósudk pósłaś…">
+<!ENTITY helpFeedbackPage.accesskey "s">
+
+<!ENTITY helpShowTour2.label "Tura &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey "u">
+
+<!ENTITY helpGetInvolvedPage.label "Cyńśo sobu">
+<!ENTITY helpGetInvolvedPage.accesskey "i">
+
+<!ENTITY helpDonationsPage.label "Pósććo">
+<!ENTITY helpDonationsPage.accesskey "P">
