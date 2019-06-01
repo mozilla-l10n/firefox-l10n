@@ -40,6 +40,24 @@ abuse-report-messagebar-removed-theme = Źěkujomy se, až sćo pósłał rozpš
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove-extension = Jo, wótwónoźeś
+abuse-report-messagebar-action-keep-extension = Ně, wobchowaś
+abuse-report-messagebar-action-remove-theme = Jo, wótwónoźeś
+abuse-report-messagebar-action-keep-theme = Ně, wobchowaś
+abuse-report-messagebar-action-retry = Hyšći raz wopytaś
+abuse-report-messagebar-action-cancel = Pśetergnuś
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason = Wobškóźujo mójo licadło a daty
+abuse-report-damage-example = Pśikład: Zašćěpjona škódna softwara abo wukšadnjone daty
+abuse-report-spam-reason = Napórajo spam abo wabjenje
+abuse-report-spam-example = Pśikład: wabjenje na webbokach zasajźiś
+abuse-report-settings-reason = Jo móju pytnicu, startowy bok abo nowy rejtark změniło, bźeztogo aby mě informěrowało abo se mě pšašało
+abuse-report-settings-suggestions = Nježli až rozšyrjenje k wěsći dajosó, móžośo wopytaś, swóje nastajenja změniś:
+abuse-report-settings-suggestions-search = Změńśo swóje standardne pytańske nastajenja
+abuse-report-settings-suggestions-homepage = Změńśo swój startowy bok a nowy rejtark
+abuse-report-deceptive-reason = Twarźi něco byś, což njejo
+abuse-report-deceptive-example = Pśikład: Torjece wopisanje abo wobraznosć
+abuse-report-broken-reason-extension = Njefunkcioněrujo, wobškóźujo websedła abo spómałšujo { -brand-product-name }
+abuse-report-other-reason = Něco druge
