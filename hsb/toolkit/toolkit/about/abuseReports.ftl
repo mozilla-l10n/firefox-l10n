@@ -13,7 +13,7 @@ abuse-report-learnmore =
     <a data-l10n-name="learnmore-link">Zhońće wjace wo zdźělenju rozšěrjenjow a drastow</a>
 abuse-report-submit-description = Wopisajće problem (na přeće)
 abuse-report-textarea =
-    .placeholder = Je lóšo za nas, so problemej wěnować, hdyž podrobnosće mamy. Prošu wopisajće, na štož sće storčił. Dźakujemy so wam, zo nam pomhaće, web strowy wobchować.
+    .placeholder = Je lóšo za nas, so problemej wěnować, hdyž podrobnosće mamy. Prošu wopisajće, na což sće storčił. Dźakujemy so wam, zo nam pomhaće, web strowy wobchować.
 abuse-report-submit-note =
     Kedźbu: Njezapřijimajće prošu wosobinske informacije (na přikład mjeno, e-mejlowu adresu, telefonowe čisło, bydlensku adresu).
     { -vendor-short-name } trajnu kopiju tutych rozprawow wobchowuje.
@@ -36,7 +36,7 @@ abuse-report-messagebar-submitting = Zdźělenka za <span data-l10n-name="addon-
 abuse-report-messagebar-submitted = Dźakujemy so, zo sće zdźělenku pósłał. Chceće <span data-l10n-name="addon-name">{ $addon-name }</span> wotstronić?
 abuse-report-messagebar-submitted-noremove = Dźakujemy so, zo sće zdźělenku pósłał.
 abuse-report-messagebar-removed-extension = Dźakujemy so, zo sće zdźělenku pósłał. Sće rozšěrjenje <span data-l10n-name="addon-name">{ $addon-name }</span> wotstronił.
-abuse-report-messagebar-removed-theme = Dźakujemy so, zo sće zdźělenku póskak. Sće drastu <span data-l10n-name="addon-name">{ $addon-name }</span> wotstronił.
+abuse-report-messagebar-removed-theme = Dźakujemy so, zo sće zdźělenku pósłał. Sće drastu <span data-l10n-name="addon-name">{ $addon-name }</span> wotstronił.
 abuse-report-messagebar-error = Zmylk při słanju rozprawy za <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Rozprawa za <span data-l10n-name="addon-name">{ $addon-name }</span> je so pósłała, dokelž je so druha rozprawa njedawno wotpósłała.
 
