@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "أكمل من حيث انتهيت.">
 <!ENTITY firstrun_sync_subtext2 "استعمل «تزامن» لتجد العلامات، وكلمات السر وغيرها من الأمور التي تحفظها في &brandShortName; على أجهزتك.">
 <!ENTITY newfirstrun_sync_subtext "زامِن ما حفظته على المحمول في فَيَرفُكس على سطح المكتب، بكل أمان وأقصى خصوصية.">
+<!ENTITY updatednewfirstrun_sync_subtext "لِج إلى حسابك لتستفد أقصى استفادة من &brandShortName;">
 <!ENTITY firstrun_signin_message "اتصل لتبدأ">
 <!ENTITY firstrun_signin_button "لِج إلى «المزامنة»">
 <!ENTITY newfirstrun_signin_button "فعّل «تزامُن»">
+<!ENTITY updatednewfirstrun_signin_button "لِج إلى &brandShortName;">
 <!ENTITY  onboard_start_button_browser "ابدأ التصفح">
 <!ENTITY firstrun_button_notnow "ليس الآن">
 <!ENTITY firstrun_button_next "التالي">
@@ -677,6 +679,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "اختر أو سجل صوتًا">
 <!ENTITY filepicker_image_title "اختر أو التقط صورة">
 <!ENTITY filepicker_video_title "اختر أو سجل فديو">
+
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "تتصل ب‍">
