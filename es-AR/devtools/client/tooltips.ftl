@@ -24,3 +24,10 @@ inactive-css-not-flex-container = <strong>{ $property }</strong> no tiene ningú
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved.
 
+inactive-css-not-grid-or-flex-container-fix = Intente agregar <strong>display:grid</strong> o <strong>display:flex</strong>. { learn-more }
+inactive-css-not-grid-or-flex-item-fix = Intente agregar <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> o <strong>display:inline-flex</strong>. { learn-more }
+inactive-css-not-grid-item-fix = Intente agregar <strong>display:grid</strong> o <strong>display:inline-grid</strong> al padre del item. { learn-more }
+inactive-css-not-grid-container-fix = Intente agregar <strong>display:grid</strong> o <strong>display:inline-grid</strong>. { learn-more }
+inactive-css-not-flex-item-fix = Intente agregar <strong>display:flex</strong> o <strong>display:inline-flex</strong> al padre del item. { learn-more }
+inactive-css-not-flex-container-fix = Intente agregar <strong>display:flex</strong> o <strong>display:inline-flex</strong>. { learn-more }
+inactive-css-not-inline-or-tablecell-fix = Intente agregar <strong>display:inline</strong> o <strong>display:table-cell</strong>. { learn-more }

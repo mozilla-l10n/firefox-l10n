@@ -82,9 +82,6 @@ about-debugging-refresh-usb-devices-button = Actualizar dispositivos
 about-debugging-setup-title = Configuración
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Configurar el método de conexión con el que desea depurar remotamente su dispositivo.
-# Link displayed in the Setup page that leads to MDN page with list of supported devices.
-# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
-about-debugging-setup-link-android-devices = Vista del listado de dispositivos Android compatibles
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Usar <a> { about-debugging-this-firefox-runtime-name } </a> para depurar pestañas, extensiones y service workers en esta versión de { -brand-shorter-name }
 # Title of the heading Connect section of the Setup page.
@@ -105,12 +102,6 @@ about-debugging-setup-usb-updating-button = Actualizando...
 about-debugging-setup-usb-status-enabled = Habilitado
 about-debugging-setup-usb-status-disabled = Deshabilitado
 about-debugging-setup-usb-status-updating = Actualizando...
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu = Habilitar el  menú de desarrollador en su dispositivo Android. <a>Aprender cómo</a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug = Habilitar depuración de USB en el menú de desarrollador de Android. <a>Aprender cómo</a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox = Habilitar depuración de USB en Firefox en su dispositivo Android. <a>Aprender cómo</a>
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = Habilitar menú de desarrollador en el dispositivo Android.
 # USB section step by step guide
@@ -215,11 +206,6 @@ about-debugging-connection-prompt-enable-button = Habilitar el indicador de cone
 about-debugging-connection-prompt-disable-button = Deshabilitar el indicador de conexión
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
 about-debugging-profiler-dialog-title2 = Perfilador
-# Label of a checkbox displayed in the runtime page for "This Firefox".
-# This checkbox will toggle preferences that enable local addon debugging.
-# The "Learn more" link points to MDN.
-# https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
-about-debugging-extension-debug-setting-label = Habilitar la depuración de extensión. <a>Conocer más</a>
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
@@ -308,3 +294,9 @@ about-debugging-main-process-description2 = Proceso principal para el navegador 
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Cerrar el mensaje
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = Detalles del error
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = Detalles de la advertencia
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = Detalles
