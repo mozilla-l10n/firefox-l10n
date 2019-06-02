@@ -62,9 +62,6 @@ about-debugging-refresh-usb-devices-button = Smiren ibenkan
 
 # Title of the Setup page.
 about-debugging-setup-title = Sebded
-# Link displayed in the Setup page that leads to MDN page with list of supported devices.
-# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
-about-debugging-setup-link-android-devices = Wali tabdart n yibenkan Android yettusefraken
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Qen ibenk
 # USB section of the Setup page
@@ -190,3 +187,5 @@ about-debugging-main-process-name = Akala agejdan
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Mdel izen
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = Talqayt

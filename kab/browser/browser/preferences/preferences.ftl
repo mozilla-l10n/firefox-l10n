@@ -46,10 +46,6 @@ category-search =
 pane-privacy-title = Tabaḍnit  & Taɣellist
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Amiḍan Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -292,6 +288,12 @@ update-pref-write-failure-title = Tuccḍa deg tira
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = UR yezmir ara ad yessekles ismenyifen.Ur yezmir ad yaru de ufaylu: { $path }
+update-in-progress-title = Aleqqem itteddu
+update-in-progress-message = Tebɣiḍ { -brand-short-name } ad ikemmel aleqqem-agi?
+update-in-progress-ok-button = &Kkes
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Kemmel
 
 ## General Section - Performance
 
@@ -524,8 +526,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Sekles
     .accesskey = l
-sync-mobilepromo-single = Qqen ibenk nniḍen
-sync-mobilepromo-multi = Sefrek ibenkan
 sync-connect-another-device = Qqen ibenk-nniḍen
 sync-manage-devices = Sefrek ibenkan
 sync-tos-link = Tiwtilin n useqdec
@@ -678,7 +678,6 @@ content-blocking-all-windows-trackers = Ineḍfaren yettwasnen deg akk isfuyla
 content-blocking-all-third-party-cookies = Akk inagan n tuqqna n wis kraḍ
 content-blocking-fingerprinters = Idsilen umḍinen
 content-blocking-warning-title = Aqeṛṛu d afella!
-content-blocking-warning-desc = Asewḥel n inagan n tuqqna akked ineḍfaren yezmer ad iseḥbes kra n yesmal web. Yeshel ad tekkseḍ asewḥel i yesmal tettamneḍ.
 content-blocking-learn-how = Issin amek
 content-blocking-reload-tabs-button =
     .label = Smiren akk accaren

@@ -60,6 +60,11 @@ onboarding-tracking-protection-button2 = Amek iteddu
 onboarding-data-sync-title = Awi iɣewwaṛen-ik yid-k
 onboarding-data-sync-button2 = Qqen ɣer { -sync-brand-short-name }
 onboarding-firefox-monitor-button = jerred akken ak-id-awḍen ilɣa
+onboarding-browse-privately-button = Ldi asfaylu n tunigin tusligt
+onboarding-firefox-send-button = Ɛreḍ { -send-brand-name }
+onboarding-pocket-anywhere-button = Ɛreḍ { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Awi awalen uffiren-ik anida tebɣiḍ
+onboarding-facebook-container-button = Rnu asiɣzef
 
 ## Message strings belonging to the Return to AMO flow
 

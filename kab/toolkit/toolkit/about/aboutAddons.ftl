@@ -221,7 +221,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Sefrek inegzumen n isiɣzaf
     .accesskey = i
-shortcuts-empty-message = Ulac inegzumen i usiɣzef-agi.
 shortcuts-no-addons = Ur ɣur-k ara ula d yiwen n usiɣzef iremden.
 shortcuts-input =
     .placeholder = Sekcem anegzum
@@ -236,16 +235,68 @@ shortcuts-card-collapse-button = Sken qel
 go-back-button =
     .tooltiptext = Uɣal ɣer deffir
 
+## Recommended add-ons page
+
+discopane-notice-learn-more = Lmed ugar
+privacy-policy = Tasertit n tbaḍnit
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = sɣur<a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Iseqdacen: { $dailyUsers }
+install-extension-button = Rnu ɣer { -brand-product-name }
+install-theme-button = Sebded asentel
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Sefrek
+find-more-addons = Aff-d ugar n izegrar
+
 ## Add-on actions
 
+report-addon-button = Aneqqis
 remove-addon-button = Kkes
 disable-addon-button = Ssens
 enable-addon-button = Rmed
 expand-addon-button = Ugar n iɣewwaṛen
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] iɣewwaṛen
+       *[other] Ismenyifen
+    }
+details-addon-button = Talqayt
+release-notes-addon-button = Iwenniten n lqem
+permissions-addon-button = Tisirag
 addons-enabled-heading = Irmed
 addons-disabled-heading = Arurmid
+ask-to-activate-button = Suter armed
+always-activate-button = Rmed yal tikelt
+never-activate-button = weṛǧin ad yermed
 addon-detail-author-label = Ameskar
 addon-detail-version-label = Lqem
 addon-detail-last-updated-label = Aleqqem aneggaru
 addon-detail-homepage-label = Asebter agejdan
 addon-detail-rating-label = Tizmilin
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } ( d arurmid)
+
+## Pending uninstall message bar
+
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> yettwakkes.
+pending-uninstall-undo-button = Sefsex
+addon-detail-updates-label = Sireg aleqqem awurman
+addon-detail-updates-radio-default = Amezwer
+addon-detail-updates-radio-on = Yermed
+addon-detail-updates-radio-off = Yensa
+addon-detail-update-check-label = Senqed ma llan ileqman
+install-update-button = Leqqem
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Yettusireg def usfaylu uslig kan

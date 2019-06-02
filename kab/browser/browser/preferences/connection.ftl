@@ -70,9 +70,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Rmed DNS Deg HTTPS
     .accesskey = H
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = URL i tifrat n DNS deg HTTPS
 # Variables:
 #   $url (String) - URL for the DNS over HTTPS provider
 connection-dns-over-https-url-default =
@@ -83,3 +80,4 @@ connection-dns-over-https-url-custom =
     .label = Sagen
     .accesskey = S
     .tooltiptext = Sekcem URL i tebɣiḍ i tifrat n DNS s HTTPS
+connection-dns-over-https-custom-label = Udmawan
