@@ -32,7 +32,7 @@ policy-DisableSecurityBypass = Wužiwarja při wobeńdźenju wěstych wěstotnyc
 policy-DisableSystemAddonUpdate = { -brand-short-name } při instalowanju a aktualizowanju systemowych přidatkow haćić.
 policy-DisableTelemetry = Telemetriju znjemóžnić.
 policy-DisplayMenuBar = Menijowu lajstu po standardźe pokazać.
-policy-DNSOverHTTPS = DNS přez HTTPS konfigurować
+policy-DNSOverHTTPS = DNS přez HTTPS konfigurować.
 policy-DontCheckDefaultClient = Přepruwowanje za standardnym programom při starće znjemóžnić.
 policy-DownloadDirectory = Sćehnjenski zapis nastajić a zawrěć.
 # “lock” means that the user won’t be able to change this setting
@@ -42,7 +42,7 @@ policy-EnableTrackingProtection = Blokowanje wobsaha zmóžnić abo znjemóžni�
 # English or translate them as verbs.
 policy-Extensions = Rozšěrjenja instalować, wotinstalować abo zawrěć. Instalaciska opcija ma URL abo šćežki jako parametry. Opciji Wotinstalować a Zawrěć ID wužiwatej.
 policy-ExtensionUpdate = Awtomatiske aktualizacije rozšěrjenjow zmóžnić abo znjemóžnić.
-policy-HardwareAcceleration = Jeli false, hardwarowy pospěšenje wupinać.
+policy-HardwareAcceleration = Jeli false, hardwarowe pospěšenje wupinać.
 policy-InstallAddonsPermission = Wěstym websydłam dowolić, přidatki instalować.
 policy-LocalFileLinks = Wěstym websydłam dowolić, na lokalne dataje wotskazać.
 policy-NetworkPrediction = Syćowe předzačitanje (DNS-předzačitanje) zmóžnić abo znjemóžnić.
