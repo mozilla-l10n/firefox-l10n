@@ -300,3 +300,10 @@ install-update-button = Leqqem
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Yettusireg def usfaylu uslig kan
+addon-detail-private-browsing-allow = Sireg
+addon-detail-private-browsing-disallow = Ur ttaǧǧa ara
+available-updates-heading = Ileqman yellan
+recent-updates-heading = Ileqman n melmi kan
+release-notes-loading = Asali…
+release-notes-error = Suref-aɣ, teḍṛa-d tuccḍa deg usali n iwenniten n lqem.
+addon-permissions-empty = Asiɣzef-agi ur yesra ara tisirag

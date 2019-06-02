@@ -24,6 +24,7 @@ features-title = { -brand-short-name } Timahilin
 features-name = Isem
 features-version = Lqem
 features-id = ID
+processes-count = Amḍan
 app-basics-title = Iɣewwaṛen izaduren n usnas
 app-basics-name = Isem
 app-basics-version = Lqem

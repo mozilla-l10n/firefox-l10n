@@ -8,6 +8,9 @@ profiles-create = Rnu amaɣnu amaynut
 profiles-restart-title = Ales asenker
 profiles-restart-in-safe-mode = Ales asenker s usensi n izegrar…
 profiles-restart-normal = Ales asenker s wudem amagnu…
+profiles-flush-fail-title = Isnifal ur ttwakelsen ara
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-restart-button = Ales asenker n { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Amaɣnu: { $name }
