@@ -26,6 +26,7 @@ policy-DisableDeveloperTools = Pśistup k wuwijarskim rědam blokěrowaś.
 policy-DisableFeedbackCommands = Pśikaze znjemóžniś, kótarež komentary z menija Pomoc sćelu (Pósudk pósłaś a Wobšudnikojske sedło k wěsći daś)
 policy-DisableForgetButton = Pśistupoju k tłocaškoju Zabys zajźowaś.
 policy-DisableMasterPasswordCreation = Jolic to trjefijo, njedajo se głowne gronidło napóraś.
+policy-DisableProfileImport = Menijowy pśikaz za importěrowanje datow z drugego nałoženja znjemóžniś.
 policy-Proxy = Nastajenja proksy konfigurěrowaś.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Module PKCS #11 instalěrowaś.
