@@ -20,22 +20,19 @@
 <!ENTITY productHelp2.accesskey   "j">
 <!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpKeyboardShortcuts.label     "Tecles de drecera">
-<!ENTITY helpKeyboardShortcuts.accesskey "d">
+<!ENTITY helpKeyboardShortcuts.label     "Dreceres de teclat">
+<!ENTITY helpKeyboardShortcuts.accesskey "D">
 
 <!ENTITY helpSafeMode.label       "Reinicia amb els complements inhabilitats…">
 <!ENTITY helpSafeMode.accesskey   "R">
 <!ENTITY helpSafeMode.stop.label       "Reinicia amb els complements habilitats">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 
-<!ENTITY healthReport2.label      "Informe de salut del &brandShorterName;">
-<!ENTITY healthReport2.accesskey  "e">
-
 <!ENTITY helpTroubleshootingInfo.label      "Informació de resolució de problemes">
 <!ENTITY helpTroubleshootingInfo.accesskey  "r">
 
-<!ENTITY helpFeedbackPage.label      "Tramet una opinió…">
-<!ENTITY helpFeedbackPage.accesskey  "T">
+<!ENTITY helpFeedbackPage.label      "Envia comentaris…">
+<!ENTITY helpFeedbackPage.accesskey  "E">
 
 <!ENTITY helpShowTour2.label            "Visita guiada del &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey        "V">
