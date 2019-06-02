@@ -7,6 +7,7 @@ about-policies-title = Pśedewześowe pšawidła
 active-policies-tab = Aktiwny
 errors-tab = Zmólki
 documentation-tab = Dokumentacija
+no-specified-policies-message = Słužba pśedewześowych pšawidłow jo aktiwna, ale pšawidła njejsu zmóžnjone.
 inactive-message = Słužba pśedewześowychh pšawidłow jo inaktiwna.
 policy-name = Mě pšawidła
 policy-value = Gódnota pšawidła
