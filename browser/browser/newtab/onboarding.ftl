@@ -19,6 +19,7 @@ onboarding-button-label-get-started = Kom i gang
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Velkommen til { -brand-short-name }
+onboarding-welcome-body = Du har nettleseren.<br/>Møt resten av { -brand-product-name }.
 onboarding-start-browsing-button-label = Start nettlesing
 
 ## These are individual benefit messages shown with an image, title and
