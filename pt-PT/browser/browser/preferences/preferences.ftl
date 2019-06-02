@@ -224,7 +224,7 @@ translate-exceptions =
     .label = Exceções…
     .accesskey = x
 check-user-spelling =
-    .label = Corrigir ortografia ao escrever
+    .label = Verificar a sua ortografia enquanto escreve
     .accesskey = t
 
 ## General Section - Files and Applications
