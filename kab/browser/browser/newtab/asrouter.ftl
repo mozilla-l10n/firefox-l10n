@@ -50,3 +50,11 @@ cfr-doorhanger-extension-total-users =
 cfr-doorhanger-pintab-step2 = Fren<b>Siggez iccer</b> seg umuɣ.
 cfr-doorhanger-pintab-animation-pause = Asteɛfu
 cfr-doorhanger-pintab-animation-resume = Kemmel
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Mtawi ticraḍ n yisebter ar wanida tebɣiḍ.
+cfr-doorhanger-bookmark-fxa-link-text = Mtawi ticraḍ n yisebtar tura...
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Taqeffalt n umdal
+    .title = Amdal

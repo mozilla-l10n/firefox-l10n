@@ -3,12 +3,23 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = Lmed ugar
 onboarding-button-label-try-now = Ɛreḍ-it tura
 onboarding-button-label-get-started = Bdu
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Ansuf γer { -brand-short-name }
+onboarding-welcome-body = Tesɛiḍ iminig. <br/> Wali ayen id-yeqqimen seg { -brand-product-name }.
 onboarding-welcome-learn-more = Lmed ugar ɣef ayen yeɛnan ibaɣuren.
 onboarding-join-form-header = Kki { -brand-product-name }
 onboarding-join-form-body = Sekcem tansa-inek imayl iwakken ad tebduḍ.
@@ -44,6 +55,11 @@ onboarding-ghostery-text = Inig s wudem arurad, uḥric, neɣ aɣelsan s isiɣza
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Rnu { -fxaccount-brand-name } sakin mtawi ticraḍ-ik n yisebtar, awalen-ik uffiren akked yiccaren yeldin deg yal amdiq anida i tesseqdaceḍ { -brand-short-name }.
+onboarding-tracking-protection-title2 = Ammesten mgal aḍfar
+onboarding-tracking-protection-button2 = Amek iteddu
+onboarding-data-sync-title = Awi iɣewwaṛen-ik yid-k
+onboarding-data-sync-button2 = Qqen ɣer { -sync-brand-short-name }
+onboarding-firefox-monitor-button = jerred akken ak-id-awḍen ilɣa
 
 ## Message strings belonging to the Return to AMO flow
 
