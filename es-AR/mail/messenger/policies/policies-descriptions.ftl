@@ -29,6 +29,7 @@ policy-HardwareAcceleration = Si es falso, deshabilitar aceleración por hardwar
 policy-InstallAddonsPermission = Permitir que ciertos sitios web instalen complementos.
 policy-PromptForDownloadLocation = Preguntar dónde guardar los archivos al descargar.
 policy-Proxy = Configurar opciones de proxy.
+policy-SanitizeOnShutdown2 = Borrar datos de navegación al cerrar.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalar módulos PKCS #11.
 policy-SSLVersionMax = Establecer la versión máxima de SSL.
