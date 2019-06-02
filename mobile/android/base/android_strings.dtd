@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "Начните с того места, на котором остановились.">
 <!ENTITY firstrun_sync_subtext2 "Используйте синхронизацию для доступа к закладкам, паролям и многому другому, что вы сохраните в &brandShortName;, на всех ваших устройствах.">
 <!ENTITY newfirstrun_sync_subtext "Синхронизируйте вещи, которые вы сохраняете на мобильном, с Firefox для компьютеров, приватно и безопасно.">
+<!ENTITY updatednewfirstrun_sync_subtext "Войдите в аккаунт, чтобы получить максимум от &brandShortName;">
 <!ENTITY firstrun_signin_message "Соединитесь и вперёд">
 <!ENTITY firstrun_signin_button "Войти в Синхронизацию">
 <!ENTITY newfirstrun_signin_button "Включить синхронизацию">
+<!ENTITY updatednewfirstrun_signin_button "Войти в &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Начать веб-сёрфинг">
 <!ENTITY firstrun_button_notnow "Не сейчас">
 <!ENTITY firstrun_button_next "Далее">
@@ -677,6 +679,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Выбрать или записать звук">
 <!ENTITY filepicker_image_title "Выбрать или сделать фотографию">
 <!ENTITY filepicker_video_title "Выбрать или записать видео">
+
+<!ENTITY filepicker_permission_denied "Нужные права не были получены, активирован системный выбор файлов.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Вы соединены с">
