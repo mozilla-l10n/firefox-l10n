@@ -142,3 +142,6 @@ about-telemetry-origin-count = Cantidad
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link"> Firefox Origin Telemetry </a> codifica los datos antes de que se envíen para que { $telemetryServerOwner } pueda contar cosas, pero no sepa si alguna  { -brand-product-name } en particular contribuyó a ese conteo. (<a data-l10n-name="prio-blog-link"> más información </a>)
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = Proceso { $process }
