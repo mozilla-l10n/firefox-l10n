@@ -31,8 +31,8 @@ policy-DisableFirefoxAccounts = Désactive les services basés sur un { -fxaccou
 policy-DisableFirefoxScreenshots = Désactive la fonctionnalité Firefox Screenshots.
 policy-DisableFirefoxStudies = Empêche { -brand-short-name } d’exécuter des études.
 policy-DisableForgetButton = Empêche l’accès au bouton d’effacement des données.
-policy-DisableFormHistory = Ne pas conserver d’historique des recherches et des formulaires.
-policy-DisableMasterPasswordCreation = Si activé, il sera impossible de créer un mot de passe principal.
+policy-DisableFormHistory = Désactive la conservation de l’historique des recherches et des formulaires.
+policy-DisableMasterPasswordCreation = Si activé, empêche la création d’un mot de passe principal.
 policy-DisablePocket = Désactive la fonctionnalité d’enregistrement de pages web dans Pocket.
 policy-DisablePrivateBrowsing = Désactive la navigation privée.
 policy-DisableProfileImport = Désactive la commande de menu permettant d’importer des données à partir d’un autre navigateur.
@@ -53,8 +53,8 @@ policy-EnableTrackingProtection = Active ou désactive le blocage de contenu et 
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Installe, désinstalle ou verrouille les extensions. L’option d’installation accepte des URL ou des chemins comme paramètres. Les options Désinstaller et Verrouiller utilisent les identifiants des extensions.
-policy-ExtensionSettings = Gérer tous les aspects de l’installation d’extensions.
-policy-ExtensionUpdate = Activer ou désactiver la mise à jour automatique des extensions.
+policy-ExtensionSettings = Gére tous les aspects de l’installation d’extensions.
+policy-ExtensionUpdate = Active ou désactive la mise à jour automatique des extensions.
 policy-FirefoxHome = Configure l’accueil de Firefox.
 policy-FlashPlugin = Autorise ou non l’utilisation du plugin Flash.
 policy-HardwareAcceleration = Si faux, désactive l’accélération matérielle.
