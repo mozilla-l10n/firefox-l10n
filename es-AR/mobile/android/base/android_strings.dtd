@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "Continúá desde donde dejaste.">
 <!ENTITY firstrun_sync_subtext2 "Usá Sync para encontrar los marcadores, contraseñas y otras cosas que guardás en &brandShortName; en todos tus dispositivos.">
 <!ENTITY newfirstrun_sync_subtext "Sincronice el contenido que guarda en el dispositivo móvil con Firefox para el escritorio, de forma privada y segura.">
+<!ENTITY updatednewfirstrun_sync_subtext "Iniciá sesión en tu cuenta para aprovechar &brandShortName; al máximo">
 <!ENTITY firstrun_signin_message "Conectate, empecemos">
 <!ENTITY firstrun_signin_button "Registrarse en Sync">
 <!ENTITY newfirstrun_signin_button "Activar la sincronización">
+<!ENTITY updatednewfirstrun_signin_button "Ingresá en &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Iniciar navegación">
 <!ENTITY firstrun_button_notnow "No ahora">
 <!ENTITY firstrun_button_next "Siguiente">
@@ -677,6 +679,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Seleccionar o grabar un sonido">
 <!ENTITY filepicker_image_title "Seleccionar o tomar una foto">
 <!ENTITY filepicker_video_title "Seleccionar o grabar un video">
+
+<!ENTITY filepicker_permission_denied "Permisos requeridos no otorgados, volviendo al selector de archivos del sistema.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Está conectado a">
