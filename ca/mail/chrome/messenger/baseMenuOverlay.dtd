@@ -9,6 +9,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Ajuda">
 <!ENTITY helpMenuWin.accesskey "j">
+<!ENTITY aboutProduct2.label "Quant al &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey "Q">
 <!ENTITY helpTroubleshootingInfo.label     "Informació de resolució de problemes">
 <!ENTITY helpTroubleshootingInfo.accesskey "r">
 <!ENTITY helpSafeMode.label     "Reinicia amb els complements inhabilitats…">
@@ -26,3 +28,13 @@
 
 <!ENTITY aboutMenuCmd2.label "Quant al &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "Q">
+<!ENTITY productHelp.label "Ajuda del &brandShortName;">
+<!ENTITY productHelp.accesskey "A">
+<!ENTITY productHelp.commandkey "VK_F1">
+<!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "accel">
+
+
+
+
+
