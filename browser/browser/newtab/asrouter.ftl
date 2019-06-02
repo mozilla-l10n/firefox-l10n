@@ -53,3 +53,11 @@ cfr-doorhanger-pintab-step2 = Velg <b>Fest fane</ b> fra menyen.
 cfr-doorhanger-pintab-step3 = Om nettstedet har en oppdatering, vil du se en blå prikk på din festede fane.
 cfr-doorhanger-pintab-animation-pause = Pause
 cfr-doorhanger-pintab-animation-resume = Fortsett
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Synkroniser bokmerkene dine overalt.
+cfr-doorhanger-bookmark-fxa-link-text = Synkroniser bokmerker nå…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Lukk-knapp
+    .title = Lukk
