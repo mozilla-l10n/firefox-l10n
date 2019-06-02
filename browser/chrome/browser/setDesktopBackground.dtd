@@ -18,3 +18,4 @@
 <!ENTITY setDesktopBackground.title "Встановити тлом робочого столу">
 <!ENTITY openDesktopPrefs.label     "Відкрити налаштування робочого столу">
 <!ENTITY closeWindow.key            "w">
+<!ENTITY previewUnavailable         "Попередній перегляд недоступний">
