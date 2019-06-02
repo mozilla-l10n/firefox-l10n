@@ -680,6 +680,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_image_title "Elegir o tomar una foto">
 <!ENTITY filepicker_video_title "Elegir o grabar un vídeo">
 
+<!ENTITY filepicker_permission_denied "No se ha otorgado el permiso requerido, volviendo al selector de archivos del sistema.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Está conectado a">
