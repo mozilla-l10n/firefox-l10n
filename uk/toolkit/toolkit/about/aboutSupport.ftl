@@ -82,6 +82,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Журнал рішень
 graphics-crash-guards-title = Можливості, вимкнені захистом від збоїв
 graphics-workarounds-title = Способи обходу
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Віконний протокол
 place-database-title = База даних Places
 place-database-integrity = Цілісність
 place-database-verify-integrity = Перевірити цілісність
@@ -204,6 +206,7 @@ gpu-device-id = ID пристрою
 gpu-subsys-id = ID підсистеми
 gpu-drivers = Драйвери
 gpu-ram = RAM
+gpu-driver-vendor = Постачальник драйвера
 gpu-driver-version = Версія драйвера
 gpu-driver-date = Дата драйвера
 gpu-active = Активний
