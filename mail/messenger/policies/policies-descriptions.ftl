@@ -27,8 +27,38 @@ policy-DisableFeedbackCommands = Pśikaze znjemóžniś, kótarež komentary z m
 policy-DisableForgetButton = Pśistupoju k tłocaškoju Zabys zajźowaś.
 policy-DisableMasterPasswordCreation = Jolic to trjefijo, njedajo se głowne gronidło napóraś.
 policy-DisableProfileImport = Menijowy pśikaz za importěrowanje datow z drugego nałoženja znjemóžniś.
+policy-DisableSafeMode = Funkciju za znowegostartowanje we wěstem modusu znjemóžniś. Glědajśo: Tasta Umsch, z kótarejuž k wěstemu modusoju pśejźośo, dajo se jano pód Windowsom z pomocu kupkowych pšawidłow znjemóžniś.
+policy-DisableSecurityBypass = Wužywarjeju wobinjenje wěstych wěstotnych warnowanjow zawoboraś.
+policy-DisableSystemAddonUpdate = { -brand-short-name } instalěrowanje a aktualizěrowanje systemowych dodankow zawoboraś.
+policy-DisableTelemetry = Telemetriju znjemóžniś.
+policy-DisplayMenuBar = Menijowu rědku pó standarźe pokazaś.
+policy-DNSOverHTTPS = DNS pśez HTTPS konfigurěrowaś-
+policy-DontCheckDefaultClient = Pśeglědanje za standardnym programom pśi starśe znjemóžniś.
+policy-DownloadDirectory = Ześěgnjeński zarědnik nastajiś a zastajiś.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Blokěrowanje wopśimjeśa zmóžniś abo znjemóžniś a na pśecej zastajiś.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = Rozšyrjenja instalěrowaś, wótinstalěrowaś abo zastajiś. Instalaciska opcija ma URL abo sćažki ako parametry. Opciji Wótinstalěrowaś a Zastajiś ID wužywatej.
+policy-ExtensionUpdate = Awtomatiske aktualizacije rozšyrjenjow zmóžniś abo znjemóžniś.
+policy-HardwareAcceleration = Jolic false, hardwarowe póspěšenje wušaltowaś.
+policy-InstallAddonsPermission = Wěstym websedłam dowóliś, dodanki instalěrowaś.
+policy-LocalFileLinks = Wěstym websedłam dowóliś, na lokalne dataje wótskazaś.
+policy-NetworkPrediction = Seśowe pśedzacytanje (DNS-pśedzacytanje) zmóžniś abo znjemóžniś.
+policy-OfferToSaveLogins = Nastajenje wunuźiś, kótarež { -brand-short-name } zmóžnja, se skłaźone pśizjawjenja a gronidłaa spomnjeś. Ako true tak teke false se akceptěrujotej.
+policy-OverrideFirstRunPage = Bok pśepisaś, kótaryž se pśi prědnom starśe pokazujo. Stajśo toś to pšawidło na prozne, jolic cośo toś ten bok znjemóžniś.
+policy-OverridePostUpdatePage = Bok „Nowe funkcije a změny“ pó aktualizaciji pśepisaś. Stajśo toś to pšawidło na prozne, jolic cośo toś ten bok znjemóžniś.
+policy-Preferences = Nastajśo a zastajśo gódnotu za pódsajźbu nastajenjow.
+policy-PromptForDownloadLocation = Pšašaś se, źož maju se dataja pśi ześěgowanju składowaś.
 policy-Proxy = Nastajenja proksy konfigurěrowaś.
+policy-RequestedLocales = Pódajśo lisćinu pominanych rěcow za nałoženje w preferěrowanem pórěźe.
+policy-SanitizeOnShutdown2 = Nawigaciske daty pśi kóńcenju wulašowaś.
+policy-SearchEngines = Nastajenja pytnicow konfigurěrowaś. Toś to pšawidło jo jano za wersiju Extended Support Release (ESR) k dispoziciji.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Module PKCS #11 instalěrowaś.
 policy-SSLVersionMax = Maksimalnu SSL-wersiju nastajiś.
 policy-SSLVersionMin = Minimalnu SSL-wersiju nastajiś.
+policy-SupportMenu = Pśidajśo menijoju pomocy swójski zapisk menija pomocy.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Woglědowanju k websydłam zajźowaś. Glejśo dokumentaciju za dalšne drobnostki wó formaśe.
