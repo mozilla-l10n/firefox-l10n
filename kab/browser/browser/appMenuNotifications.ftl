@@ -18,6 +18,7 @@ appmenu-update-manual =
 appmenu-update-manual-message = Sider lqem aneggaru n { -brand-shorter-name } sakin ad k-nɛiwen ad t-tesbeddeḍ.
 appmenu-update-whats-new =
     .value = Wali amaynut.
+appmenu-update-unsupported-message = Aleqqem aneggaru n { -brand-shorter-name } ur ur yettwasefrak ara deg unagraw-ik.
 appmenu-update-restart =
     .label = Sker i tikkelt-nniḍen akken ad tleqqmeḍ { -brand-shorter-name }.
     .buttonlabel = Sker i tikkelt-nniḍen imir err-d
