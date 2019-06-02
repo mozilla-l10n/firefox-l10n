@@ -43,4 +43,8 @@
 <!ENTITY helpShowTour2.label "Visita guiada del &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey "V">
 
+<!ENTITY helpGetInvolvedPage.label "Col·laboreu-hi">
+<!ENTITY helpGetInvolvedPage.accesskey "C">
 
+<!ENTITY helpDonationsPage.label "Feu una donació">
+<!ENTITY helpDonationsPage.accesskey "F">

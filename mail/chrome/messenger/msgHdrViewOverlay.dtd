@@ -95,6 +95,11 @@
 
 <!ENTITY openAttachment.tooltip "Obre el fitxer adjunt">
 
+<!ENTITY detachedAttachmentFolder.show.label        "Obre la carpeta on es troba">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "b">
+<!ENTITY detachedAttachmentFolder.showMac.label     "Mostra-ho en el Finder">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Desa">
 <!ENTITY saveAttachmentButton1.tooltip     "Desa el fitxer adjunt">
