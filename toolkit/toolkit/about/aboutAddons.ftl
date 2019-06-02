@@ -369,3 +369,5 @@ addon-badge-recommended =
 available-updates-heading = Actualizaciones disponibles
 recent-updates-heading = Actualizaciones recientes
 release-notes-loading = Cargando…
+release-notes-error = Lo sentimos, pero hubo un error al cargar las notas de la versión.
+addon-permissions-empty = Esta extensión no requiere ningún permiso.
