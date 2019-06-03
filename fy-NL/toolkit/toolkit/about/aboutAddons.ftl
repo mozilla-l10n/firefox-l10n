@@ -100,7 +100,7 @@ detail-update-manual =
 detail-private-browsing-label = Utfiere yn priveefinsters
 detail-private-browsing-description2 = Wannear tastien, hat de útwreiding tagong ta jo online-aktiviteiten yn priveenavigaasje. <label data-l10n-name="detail-private-browsing-learn-more">Mear ynfo</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
-# cannot be overriden by the user.
+# cannot be overridden by the user.
 detail-private-disallowed-label = Net tastien yn priveefinsters
 detail-private-disallowed-description = Dizze útwreiding wurket net yn priveenavigaasje. <label data-l10n-name="detail-private-browsing-learn-more">Mear ynfo</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
@@ -364,6 +364,11 @@ addon-badge-private-browsing-allowed =
 addon-detail-private-browsing-help = Wannear tastien, hat de útwreiding tagong ta jo online-aktiviteiten yn priveenavigaasje. <a data-l10n-name="learn-more">Mear ynfo</a>
 addon-detail-private-browsing-allow = Tastean
 addon-detail-private-browsing-disallow = Net tastean
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Oanrekommandearre
+    .alt = Oanrekommandearre
 available-updates-heading = Beskikbere fernijingen
 recent-updates-heading = Resinte fernijingen
 release-notes-loading = Lade…
