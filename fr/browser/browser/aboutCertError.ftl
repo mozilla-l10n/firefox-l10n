@@ -7,6 +7,7 @@
 cert-error-intro = { $hostname } utilise un certificat de sécurité invalide.
 cert-error-mitm-intro = Les sites web prouvent leur identité en utilisant des certificats, qui sont émis par des autorités de certification.
 cert-error-mitm-mozilla = { -brand-short-name } est soutenu par Mozilla, une organisation à but non lucratif qui gère un magasin d’autorité de certification (CA) entièrement ouvert. Ce magasin de CA aide à garantir que les autorités de certification respectent de bonnes pratiques de sécurité pour protéger les utilisateurs.
+cert-error-mitm-connection = { -brand-short-name } utilise le magasin d’autorités de certification Mozilla pour vérifier qu’une connexion est sécurisée, plutôt que des certificats fournis par le système d’exploitation de l’utilisateur. Ainsi, si un programme antivirus ou un réseau intercepte une connexion avec un certificat de sécurité émis par une autorité de certification ne figurant pas dans le magasin d’autorité de certification Mozilla, la connexion est considérée comme non sécurisée.
 cert-error-trust-unknown-issuer-intro = Quelqu’un pourrait être en train d’essayer d’usurper l’identité du site. Vous ne devriez pas poursuivre.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
