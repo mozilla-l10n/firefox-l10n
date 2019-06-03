@@ -7,6 +7,7 @@
 cert-error-intro = A(z) { $hostname } érvénytelen biztonsági tanúsítványt használ.
 cert-error-trust-cert-invalid = A tanúsítvány nem megbízható, mert érvénytelen CA-tanúsítvánnyal bocsátották ki.
 cert-error-trust-untrusted-issuer = A tanúsítvány nem megbízható, mert a kibocsátó tanúsítványa nem megbízható.
+cert-error-trust-signature-algorithm-disabled = A tanúsítvány nem megbízható, mert a megbízhatatlansága miatt letiltott aláírási algoritmussal írták alá.
 cert-error-trust-expired-issuer = A tanúsítvány nem megbízható, mert a kibocsátó tanúsítványa lejárt
 cert-error-trust-self-signed = A tanúsítvány nem megbízható, mert a saját kibocsátója által van aláírva.
 cert-error-untrusted-default = A tanúsítvány nem megbízható forrásból érkezik.
