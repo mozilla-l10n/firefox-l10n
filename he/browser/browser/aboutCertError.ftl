@@ -13,6 +13,7 @@ cert-error-trust-cert-invalid = האישור אינו מהימן מכיוון ש
 cert-error-trust-untrusted-issuer = האישור אינו מהימן מכיוון שהאישור של הגורם המנפיק אינו מהימן.
 cert-error-trust-signature-algorithm-disabled = האישור אינו מהימן מכיוון שהוא נחתם על־ידי אלגוריתם חתימה שנוטרל מכיוון שאינו מאובטח.
 cert-error-trust-expired-issuer = האישור אינו מהימן מכיוון שפג תוקף האישור של הגורם המנפיק.
+cert-error-trust-self-signed = האישור אינו מהימן מכיוון שהוא נחתם עצמית.
 cert-error-untrusted-default = האישור לא מגיע ממקור מהימן.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
