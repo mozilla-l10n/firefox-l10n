@@ -23,12 +23,17 @@ policy-DefaultDownloadDirectory = 기본 다운로드 디렉토리를 설정하�
 policy-DisableAppUpdate = { -brand-short-name }가 업데이트되지 못하게 합니다.
 policy-DisableDeveloperTools = 개발자 도구 접속을 차단합니다.
 policy-DisableFeedbackCommands = 도움말 메뉴의 의견 보내기 명령(의견과 가짜 사이트 신고)을 비활성화합니다.
+policy-DisableForgetButton = Forget 버튼에 대한 접근을 금지합니다.
 policy-DisableMasterPasswordCreation = True이면 마스터 암호를 만들 수 없습니다.
 policy-DisableProfileImport = 다른 앱에서 데이터를 가져오는 메뉴 명령을 작동하지 않게 합니다.
 policy-DisableSafeMode = 안전 모드로 재시작하는 기능을 비활성화 합니다. 참고: 그룹 정책을 사용해서 쉬프트키를 눌러서 안전 모드로 들어가는 방법을 비활성화 하는 것은 윈도우에서만 가능합니다.
 policy-DisableSecurityBypass = 사용자가 특정 보안 경고를 우회하지 못하게 합니다.
 policy-DisableSystemAddonUpdate = { -brand-short-name }가 시스템 부가기능을 설치하거나 업데이트하지 못하게 합니다.
+policy-DisableTelemetry = 원격 측정을 끕니다.
 policy-DisplayMenuBar = 기본으로 메뉴바를 표시합니다.
+policy-DNSOverHTTPS = HTTPS를 통한 DNS를 설정합니다.
+policy-DontCheckDefaultClient = 시작할 때 기본 브라우저 확인을 사용하지 않습니다.
+policy-DownloadDirectory = 다운로드 디렉토리를 설정하고 잠급니다.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = 콘텐츠 차단을 작동시키거나 작동하지 않게 하고 선택적으로 이를 고정합니다.
 # A “locked” extension can’t be disabled or removed by the user. This policy
