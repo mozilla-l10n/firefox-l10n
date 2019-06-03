@@ -11,3 +11,6 @@ cert-error-trust-signature-algorithm-disabled = Lo certificat es pas segur perqu
 cert-error-trust-expired-issuer = Lo certificat es pas segur perque lo certificat de l'autoritat que l'a desliurat a expirat.
 cert-error-trust-self-signed = Lo certificat es pas segur perque es autosignat.
 cert-error-untrusted-default = Lo certificat proven pas d'una font segura.
+# Variables:
+# $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix-link = Còdi d’error : <a data-l10n-name="error-code-link">{ $error }</a>
