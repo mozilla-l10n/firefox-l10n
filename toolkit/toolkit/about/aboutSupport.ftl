@@ -82,6 +82,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Журнал рашэнняў
 graphics-crash-guards-title = Адключаныя магчымасці абаронцы ад падзенняў
 graphics-workarounds-title = Абыходныя шляхі
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Аконны пратакол
 place-database-title = База звестак месцаў
 place-database-integrity = Цэльнасць
 place-database-verify-integrity = Праверыць цэльнасць
