@@ -2,11 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-intro = Το { $hostname } χρησιμοποιεί ένα άκυρο πιστοποιητικό ασφαλείας.
+cert-error-trust-unknown-issuer-intro = Κάποιος ενδέχεται να προσπαθεί να μιμηθεί την ιστοσελίδα και δεν πρέπει να συνεχίσετε.
 cert-error-trust-cert-invalid = Το πιστοποιητικό δεν είναι έμπιστο επειδή έχει εκδοθεί από μια μη έγκυρη αρχή πιστοποίησης.
 cert-error-trust-untrusted-issuer = Το πιστοποιητικό δεν είναι έμπιστο επειδή ο εκδότης δεν είναι έμπιστος.
 cert-error-trust-signature-algorithm-disabled = Το πιστοποιητικό δεν είναι έμπιστο επειδή υπογράφηκε με έναν αλγόριθμό υπογραφής που απενεργοποιήθηκε, καθώς ο αλγόριθμος δεν είναι ασφαλής.
 cert-error-trust-expired-issuer = Το πιστοποιητικό δεν είναι έμπιστο επειδή το πιστοποιητικό εκδότη έχει λήξει.
 cert-error-trust-self-signed = Το πιστοποιητικό δεν είναι έμπιστο επειδή έχει αυτο-υπογραφεί.
+cert-error-untrusted-default = Το πιστοποιητικό δεν προέρχεται από αξιόπιστη πηγή.
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Κωδικός σφάλματος: <a data-l10n-name="error-code-link">{ $error }</a>
