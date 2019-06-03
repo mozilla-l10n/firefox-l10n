@@ -7,6 +7,7 @@
 cert-error-intro = { $hostname } က မမှန်ကန်တဲ့ လုံခြုံရေး လက်မှတ်တခုကို သုံးစွဲနေတယ်။
 cert-error-trust-cert-invalid = လက်မှတ်ကို မမှန်ကန်တဲ့ CA လက်မှတ် တခုက ထုတ်ပြန်ထားတဲ့ အတွက် စိတ်မချရဘူး။
 cert-error-trust-untrusted-issuer = လက်မှတ်ကို လက်မှတ် ထုတ်ပြန်သူကို စိတ်မချတဲ့ အတွက် စိတ်မချရဘူး။
+cert-error-trust-signature-algorithm-disabled = The certificate is not trusted because it was signed using a signature algorithm that was disabled because that algorithm is not secure.
 cert-error-trust-expired-issuer = လက်မှတ်ကို လက်မှတ် ထုတ်ပြန်သူကို စိတ်မချတဲ့ အတွက် စိတ်မချရဘူး။
 cert-error-trust-self-signed = လက်မှတ်ကို ကိုယ်တိုင် ရေးထိုးထားတဲ့ အတွက် စိတ်မချရဘူး။
 cert-error-untrusted-default = လက်မှတ်ဟာ စိတ်ချရတဲ့ အရင်းအမြစ်တခုမှ လာတာ မဟုတ်ဘူး။
