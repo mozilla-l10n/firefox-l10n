@@ -5,9 +5,13 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } oipuru peteĩ mboajepyre rekorosã oiko'ỹva.
+cert-error-trust-unknown-issuer-intro = Ikatu hína peteĩva oha’anga tendápe ha nde repytamava’erã.
 cert-error-trust-cert-invalid = Ndojejeroviapái pe mboajepyre rehe ha'e rupi pe CA mboajepyre oiko'ỹva guenohẽmby.
 cert-error-trust-untrusted-issuer = Ndojejeroviái pe mboajepyréva rehe pe ime'ẽhare rehe ndojejeroviavéima rupi.
 cert-error-trust-signature-algorithm-disabled = Ndojejeroviái pe mboajepyréva rehe omboheraguapy rupi oipurúvo algoritmo mboheraguapy rehegua ojejokomava'ekue nahekorosãi haguére.
 cert-error-trust-expired-issuer = Ndojejeroviái pe mboajepyre rehe pe ime'ẽhare ndoikovéima rupi.
 cert-error-trust-self-signed = Ndojejeroviái pe mboajepyre rehe oñemboheraguapyjehegui rupi.
 cert-error-untrusted-default = Pe mboajepyre ndoúi peteĩ teñoiha ijeroviahávagui.
+# Variables:
+# $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix-link = Ayvu jejavy; <a data-l10n-name="error-code-link">{ $error }</a>
