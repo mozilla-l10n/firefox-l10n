@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-intro = { $hostname } naudoja negaliojantį tapatumo liudijimą.
 cert-error-trust-cert-invalid = Liudijimu nepasitikima, nes jį išdavusios įstaigos liudijimas netinkamas.
 cert-error-trust-untrusted-issuer = Liudijimu nepasitikima, nes nepasitikima jį išdavusios įstaigos liudijimu.
 cert-error-trust-signature-algorithm-disabled = Liudijimu nepasitikima, nes jį pasirašant, naudotas algoritmas, kuris išjungtas, nes nėra saugus.
