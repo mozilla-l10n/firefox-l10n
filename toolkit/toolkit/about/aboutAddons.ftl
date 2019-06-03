@@ -267,6 +267,7 @@ go-back-button =
 
 ## Recommended add-ons page
 
+discopane-notice-learn-more = Les meir
 privacy-policy = Personvernpraksis
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -290,8 +291,14 @@ remove-addon-button = Fjern
 disable-addon-button = Slå av
 enable-addon-button = Slå på
 expand-addon-button = Fleire alternativ
+details-addon-button = Detaljar
+release-notes-addon-button = Versjonsnotat
+permissions-addon-button = Løyve
 addons-enabled-heading = Påslått
 addons-disabled-heading = Avslått
+ask-to-activate-button = Spør om aktivering
+always-activate-button = Alttid aktiver
+never-activate-button = Aldri aktiver
 addon-detail-author-label = Utviklar
 addon-detail-version-label = Versjon
 addon-detail-last-updated-label = Sist oppdatert
@@ -312,6 +319,7 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+addon-detail-updates-label = Tillat automatiske oppdateringar
 addon-detail-updates-radio-default = Standard
 addon-detail-updates-radio-on = På
 addon-detail-updates-radio-off = Av
@@ -323,5 +331,11 @@ addon-badge-private-browsing-allowed =
     .title = Tillat i private vindauge
 addon-detail-private-browsing-allow = Tillat
 addon-detail-private-browsing-disallow = Ikkje tillat
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Tilrådd
+    .alt = Tilrådd
 available-updates-heading = Tilgjengelege oppdateringar
 recent-updates-heading = Nylege oppdateringar
+release-notes-loading = Lastar…
