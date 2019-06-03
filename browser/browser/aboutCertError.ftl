@@ -11,3 +11,6 @@ cert-error-trust-signature-algorithm-disabled = Þessu skilríki er ekki treyst 
 cert-error-trust-expired-issuer = Þessu skilríki er ekki treyst því skilríki útgefanda er útrunnið.
 cert-error-trust-self-signed = Þessu skilríki er ekki treyst því það er með sína eigin undirskrift.
 cert-error-untrusted-default = Skilríki kemur ekki frá traustum aðila.
+# Variables:
+# $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix-link = Villunúmer: <a data-l10n-name="error-code-link">{ $error }</a>
