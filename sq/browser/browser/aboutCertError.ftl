@@ -14,6 +14,7 @@ cert-error-trust-unknown-issuer-intro = Dikush mund të jetë duke u rrekur të 
 cert-error-trust-unknown-issuer = Sajtet e dëshmojnë identitetin e tyre përmes dëshmish. { -brand-short-name } s’i zë besë { $hostname } ngaqë lëshuesi i dëshmisë është i panjohur, dëshmia është e vetë-nënshkruar, ose shërbyesi nuk po dërgon dëshmitë e sakta ndërmjetëse.
 cert-error-trust-cert-invalid = Dëshmia nuk është besuar, sepse qe lëshuar nga një autoritet i pavlefshëm dëshmish.
 cert-error-trust-untrusted-issuer = Dëshmia nuk është besuar, sepse lëshuesi i dëshmisë nuk është besuar.
+cert-error-trust-signature-algorithm-disabled = Dëshmia nuk është e besueshme, ngaqë është nënshkruar duke përdorur një algoritëm nënshkrimesh i cili është i çaktivizuar, pasi nuk është i sigurt.
 cert-error-trust-expired-issuer = Dëshmia nuk është besuar, sepse dëshmia e lëshuesit ka skaduar.
 cert-error-trust-self-signed = Dëshmia nuk është besuar, sepse është e vetë-nënshkruar.
 cert-error-trust-symantec = Dëshmitë e lëshuara nga GeoTrust, RapidSSL, Symantec, Thawte, dhe VeriSign nuk konsiderohen më gjatë të sigurta, ngaqë këto autoritete dëshmish nuk kanë ndjekur praktika sigurie në të kaluarën.
