@@ -5,6 +5,7 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } gebruik 'n ongeldige sekuriteitsertifikaat.
+cert-error-trust-cert-invalid = Die sertifikaat word nie vertrou nie omdat dit deur 'n ongeldige SO-sertifikaat uitgereik is.
 cert-error-trust-untrusted-issuer = Die sertifikaat word nie vertrou nie omdat die uitreikersertifikaat nie vertrou word nie.
 cert-error-trust-expired-issuer = Die sertifikaat word nie vertrou nie omdat die uitreikersertifikaat verval het.
 cert-error-trust-self-signed = Die sertifikaat word nie vertrou nie omdat dit selfonderteken is.
