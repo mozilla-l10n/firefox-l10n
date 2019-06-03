@@ -19,6 +19,7 @@ inactive-css-not-grid-item = <strong>{ $property }</strong> no tiene efecto en e
 inactive-css-not-grid-container = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no es un contenedor de grilla.
 inactive-css-not-flex-item = <strong>{ $property }</strong> no tiene ningún efecto en este elemento, ya que no es un elemento flexible.
 inactive-css-not-flex-container = <strong>{ $property }</strong> no tiene ningún efecto en este elemento, ya que no es un contenedor flexible.
+inactive-css-not-inline-or-tablecell = <strong> { $property }</strong> no tiene ningún efecto en este elemento, ya que no es un elemento en línea o de celda de tabla.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
