@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "Ga verder waar u was gebleven.">
 <!ENTITY firstrun_sync_subtext2 "Gebruik Sync om de bladwijzers, wachtwoorden en andere dingen die u in &brandShortName; op al uw apparaten opslaat te vinden.">
 <!ENTITY newfirstrun_sync_subtext "Synchroniseer de dingen die u op mobiel opslaat naar Firefox voor desktop, privé en veilig.">
+<!ENTITY updatednewfirstrun_sync_subtext "Meld u aan bij uw account om het meeste uit &brandShortName; te halen">
 <!ENTITY firstrun_signin_message "Maak verbinding en begin">
 <!ENTITY firstrun_signin_button "Aanmelden bij Sync">
 <!ENTITY newfirstrun_signin_button "Sync inschakelen">
+<!ENTITY updatednewfirstrun_signin_button "Aanmelden bij &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Beginnen met browsen">
 <!ENTITY firstrun_button_notnow "Niet nu">
 <!ENTITY firstrun_button_next "Volgende">
@@ -413,8 +415,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Downloads">
 <!ENTITY pref_private_data_syncedTabs "Gesynchroniseerde tabbladen">
 
-<!ENTITY pref_default_browser "Standaardbrowser maken">
-
 <!ENTITY pref_default_browser2 "&brandShortName; uw standaardbrowser maken">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -679,6 +679,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Een geluid kiezen of opnemen">
 <!ENTITY filepicker_image_title "Een foto kiezen of maken">
 <!ENTITY filepicker_video_title "Een video kiezen of opnemen">
+
+<!ENTITY filepicker_permission_denied "Vereiste machtigingen niet verleend, er wordt teruggevallen op de bestandszoeker van het systeem.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "U bent verbonden met">
