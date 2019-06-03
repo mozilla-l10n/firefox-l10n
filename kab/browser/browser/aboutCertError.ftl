@@ -11,3 +11,6 @@ cert-error-trust-signature-algorithm-disabled = Aselkin d araɣelsan acku ittuzm
 cert-error-trust-expired-issuer = Aselkin d araqelsan acku aselkin n ubadu it-id-yefkan izri.
 cert-error-trust-self-signed = Aselkin-agi d aranelkan acku d uzmilman.
 cert-error-untrusted-default = Aselkin-agi ur d yusi ara seg uɣbalu anelkan.
+# Variables:
+# $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix-link = Tangalt n tuccḍa: <a data-l10n-name="error-code-link">{ $error }</a>
