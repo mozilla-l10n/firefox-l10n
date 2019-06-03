@@ -34,5 +34,13 @@ cert-error-domain-mismatch-single-nolink = 웹사이트는 인증서로 신원�
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
 cert-error-domain-mismatch-multiple = 웹사이트는 인증서로 신원을 증명합니다. { -brand-short-name }는 이 사이트가 { $hostname }에 대해 유효하지 않은 인증서를 사용하고 있기 때문에 신뢰하지 않습니다. 인증서는 다음의 이름에 대해서만 유효합니다: { $subject-alt-names }
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = 웹사이트는 지정된 기간동안 유효한 인증서를 통해 신원을 증명합니다. { $hostname }의 인증서가 { $not-after-local-time }에 만료되었습니다.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = 웹사이트는 지정된 기간동안 유효한 인증서를 통해 신원을 증명합니다. { $hostname }의 인증서가 { $not-before-local-time }까지 유효하지 않습니다.
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = 오류 코드: <a data-l10n-name="error-code-link">{ $error }</a>
