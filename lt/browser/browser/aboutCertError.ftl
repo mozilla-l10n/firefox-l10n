@@ -4,6 +4,7 @@
 
 cert-error-trust-cert-invalid = Liudijimu nepasitikima, nes jį išdavusios įstaigos liudijimas netinkamas.
 cert-error-trust-untrusted-issuer = Liudijimu nepasitikima, nes nepasitikima jį išdavusios įstaigos liudijimu.
+cert-error-trust-signature-algorithm-disabled = Liudijimu nepasitikima, nes jį pasirašant, naudotas algoritmas, kuris išjungtas, nes nėra saugus.
 cert-error-trust-expired-issuer = Liudijimu nepasitikima, nes jį išdavusios įstaigos liudijimo galiojimo laikas baigėsi.
 cert-error-trust-self-signed = Liudijimu nepasitikima, nes jis yra pasirašytas paties gavėjo.
 cert-error-untrusted-default = Liudijimo šaltiniu nepasitikima.
