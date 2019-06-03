@@ -7,3 +7,6 @@ cert-error-trust-untrusted-issuer = Το πιστοποιητικό δεν εί�
 cert-error-trust-signature-algorithm-disabled = Το πιστοποιητικό δεν είναι έμπιστο επειδή υπογράφηκε με έναν αλγόριθμό υπογραφής που απενεργοποιήθηκε, καθώς ο αλγόριθμος δεν είναι ασφαλής.
 cert-error-trust-expired-issuer = Το πιστοποιητικό δεν είναι έμπιστο επειδή το πιστοποιητικό εκδότη έχει λήξει.
 cert-error-trust-self-signed = Το πιστοποιητικό δεν είναι έμπιστο επειδή έχει αυτο-υπογραφεί.
+# Variables:
+# $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix-link = Κωδικός σφάλματος: <a data-l10n-name="error-code-link">{ $error }</a>
