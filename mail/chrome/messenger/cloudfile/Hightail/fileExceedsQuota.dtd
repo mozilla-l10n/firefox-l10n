@@ -2,6 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsQuota.title   "Hightail">
-<!ENTITY fileExceedsQuota.storageLimitReached   "Storage limit reached">
-<!ENTITY fileExceedsQuota.description "You have reached your account storage limit of 2GB.">
-<!ENTITY fileExceedsQuota.description1 "Your current storage usage is #XXX GB.">
+<!ENTITY fileExceedsQuota.storageLimitReached   "Atingis limigon por konservi dosierojn">
+<!ENTITY fileExceedsQuota.description "Atingis limigon 2 GiO por konservi dosierojn por tiu ĉi konto.">
+<!ENTITY fileExceedsQuota.description1 "Grando de nune konservataj dosieroj estas #XXX GiO.">
