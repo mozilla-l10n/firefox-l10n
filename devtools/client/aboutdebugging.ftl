@@ -38,11 +38,11 @@ aboutdebugging-sidebar-runtime-connection-status-disconnected = Deconectat
 about-debugging-sidebar-no-devices = Niciun dispozitiv descoperit
 # Text displayed in buttons found in sidebar items representing remote runtimes.
 # Clicking on the button will attempt to connect to the runtime.
-about-debugging-sidebar-item-connect-button = Conectare
+about-debugging-sidebar-item-connect-button = Conectează-te
 # Text displayed in buttons found in sidebar items when the runtime is connecting.
 about-debugging-sidebar-item-connect-button-connecting = Se conectează…
 # Text displayed in buttons found in sidebar items when the connection failed.
-about-debugging-sidebar-item-connect-button-connection-failed = Conexiunea a eșuat.
+about-debugging-sidebar-item-connect-button-connection-failed = Conexiunea a eșuat
 # Text displayed in connection warning on sidebar item of the runtime when connecting to
 # the runtime is taking too much time.
 about-debugging-sidebar-item-connect-button-connection-not-responding = Conexiunea este încă în așteptare, verifică mesajele în browserul-țintă
@@ -103,7 +103,7 @@ about-debugging-setup-usb-status-enabled = Activat
 about-debugging-setup-usb-status-disabled = Dezactivat
 about-debugging-setup-usb-status-updating = Se actualizează…
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu2 = Activează meniul pentru dezvoltatori pe dispozitivul tău Android.
+about-debugging-setup-usb-step-enable-dev-menu2 = Activează meniul pentru dezvoltatori pe dispozitivul Android.
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = Activează depanarea USB în meniul pentru dezvoltatori de pe dispozitivul Android.
 # USB section step by step guide
@@ -118,7 +118,7 @@ about-debugging-setup-network =
     .title = Locație în rețea
 # Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
-about-debugging-setup-network-troubleshoot = Probleme de conectare prin rețea? <a>Depanare</a>
+about-debugging-setup-network-troubleshoot = Probleme de conectare prin intermediul locației în rețea? <a>Depanare</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Adaugă
@@ -161,13 +161,13 @@ about-debugging-runtime-shared-workers =
     .name = Workeri partajați
 # Title of the other workers category.
 about-debugging-runtime-other-workers =
-    .name = Alți Workers
+    .name = Alți workers
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Procese
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
-about-debugging-runtime-profile-button2 = Profil de performanță
+about-debugging-runtime-profile-button2 = Profilează performanța
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
@@ -205,7 +205,7 @@ about-debugging-connection-prompt-enable-button = Activează mesajul de conexiun
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = Dezactivează mesajul de conexiune
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
-about-debugging-profiler-dialog-title2 = Generator profil
+about-debugging-profiler-dialog-title2 = Profilator
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
@@ -253,7 +253,7 @@ about-debugging-extension-location =
 # Text displayed for extensions in "runtime" pages, before displaying the extension's ID.
 # For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
 about-debugging-extension-id =
-    .label = ID extensie
+    .label = ID-ul extensiei
 # This string is displayed as a label of the button that pushes a test payload
 # to a service worker.
 # Notes, this relates to the "Push" API, which is normally not localized so it is
@@ -290,13 +290,13 @@ about-debugging-worker-push-service =
 about-debugging-main-process-name = Proces principal
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-description2 = Procesul principal pentru browserul țintă
+about-debugging-main-process-description2 = Procesul principal pentru browserul-țintă
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Închide mesajul
 # Label text used for the error details of message component.
-about-debugging-message-details-label-error = Detalii eroare
+about-debugging-message-details-label-error = Detalii cu privire la eroare
 # Label text used for the warning details of message component.
-about-debugging-message-details-label-warning = Detalii avertisment
+about-debugging-message-details-label-warning = Detalii cu privire la avertisment
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Detalii
