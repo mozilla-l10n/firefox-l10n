@@ -23,6 +23,14 @@ cert-error-untrusted-default = La atestilo ne venas el fidata origino.
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-domain-mismatch = Retejoj legitimas sin per sekurecaj atestiloj. { -brand-short-name } ne fidas tiun ĉi retejon ĉar ĝi uzas sekurecan atestilon, kiu ne estas valida por { $hostname }.
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single = Retejoj legitimas sin per sekurecaj atestiloj. { -brand-short-name } ne fidas tiun ĉi retejon ĉar ĝi uzas sekurecan atestilon, kiu ne estas valida por { $hostname }. La atestilo nur validas por <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single-nolink = Retejoj legitimas sin per sekurecaj atestiloj. { -brand-short-name } ne fidas tiun ĉi retejon ĉar ĝi uzas sekurecan atestilon, kiu ne estas valida por { $hostname }. La atestilo nur validas por { $alt-name }.
+# Variables:
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
 cert-error-domain-mismatch-multiple = Retejoj legitimas sin per sekurecaj atestiloj. { -brand-short-name } ne fidas tiun ĉi retejon ĉar ĝi uzas sekurecan atestilon, kiu ne estas valida por { $hostname }. La atestilo nur validas por la jenaj nomoj: { $subject-alt-names }
 # Variables:
@@ -33,3 +41,6 @@ cert-error-expired-now = Retejoj legitimas sin per sekurecaj atestiloj, kiuj val
 # $hostname (String) - Hostname of the website with cert error.
 # $not-before-local-time (Date) - Certificate is not valid before this time.
 cert-error-not-yet-valid-now = Retejoj legitimas sin per sekurecaj atestiloj, kiuj validas nur dum difinita daŭro. La sekureca atestilo por { $hostname } ne validos ĝis { $not-before-local-time }.
+# Variables:
+# $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix-link = Erarkodo: <a data-l10n-name="error-code-link">{ $error }</a>
