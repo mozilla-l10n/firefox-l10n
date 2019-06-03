@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "از جایی که مانده بود ادامه دهید.">
 <!ENTITY firstrun_sync_subtext2 "برای پیدا کردن نشانک‌ها، گذرواژه‌ها و چیزهای دیگری که در &brandShortName; ذخیره کرده‌اید روی همه دستگاه‌هایتان، از همگام‌ساز استفاده کنید.">
 <!ENTITY newfirstrun_sync_subtext "همگام‌سازی تمام چیزهایی که روی دستگاه موبایل خود ذخیره می‌کنید بر روی مرورگر رومیزی شما به صورت خصوصی و امن.">
+<!ENTITY updatednewfirstrun_sync_subtext "وارد حساب کاربری خود شوید تا از &brandShortName; بیشتر دریافت کنید">
 <!ENTITY firstrun_signin_message "متصل شوید،‌ شروع کنید">
 <!ENTITY firstrun_signin_button "برای همگام‌سازی وارد شوید">
 <!ENTITY newfirstrun_signin_button "روشن کردن همگام سازی">
+<!ENTITY updatednewfirstrun_signin_button "وارد شدن به &brandShortName;">
 <!ENTITY  onboard_start_button_browser "شروع وب‌گردی">
 <!ENTITY firstrun_button_notnow "هم‌اکنون نه">
 <!ENTITY firstrun_button_next "بعدی">
@@ -677,6 +679,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "انتخاب یا ضبط یک صدا">
 <!ENTITY filepicker_image_title "انتخاب یا عکس گرفتن">
 <!ENTITY filepicker_video_title "انتخاب یا ضبط یک ویدیو">
+
+<!ENTITY filepicker_permission_denied "مجوز درخواستی ارائه نشد،‌ بازگشت به سیستم انتخاب پرونده.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "پایگاهی که به آن متصل هستید:">
