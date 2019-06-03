@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
-<!ENTITY fxa.unverified.callout.label "Verifique o seu email">
+<!ENTITY fxa.unverified.callout.label "Verificar o seu email">
 <!ENTITY fxa.unverified.description.label "Irá precisar de verificar a sua conta antes de poder sincronizar.">
 <!ENTITY fxa.unverified.button.label "Abrir definições do &syncBrand.shortName.label;…">
 
