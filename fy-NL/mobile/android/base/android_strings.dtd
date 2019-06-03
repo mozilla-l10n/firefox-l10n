@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "Gean troch wêr\&apos;t jo bleaun wiene.">
 <!ENTITY firstrun_sync_subtext2 "Brûk Sync om de blêdwizers, wachtwurden en oare saken dy\&apos;t jo yn &brandShortName; op al jo apparaten bewarje te finen.">
 <!ENTITY newfirstrun_sync_subtext "Syngronisearje de dingen dy\&apos;t jo op mobyl bewarje nei Firefox foar desktop, privee en feilich.">
+<!ENTITY updatednewfirstrun_sync_subtext "Meld jo oan by jo account om it measte út &brandShortName; te heljen">
 <!ENTITY firstrun_signin_message "Meitsje ferbining en begjin">
 <!ENTITY firstrun_signin_button "Oanmelde by Sync">
 <!ENTITY newfirstrun_signin_button "Sync ynskeakelje">
+<!ENTITY updatednewfirstrun_signin_button "Oanmelde by &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Start mei browsen">
 <!ENTITY firstrun_button_notnow "Niet nu">
 <!ENTITY firstrun_button_next "Folgjende">
@@ -413,8 +415,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Downloads">
 <!ENTITY pref_private_data_syncedTabs "Syngronisearre ljepblêden">
 
-<!ENTITY pref_default_browser "Standertbrowser meitsje">
-
 <!ENTITY pref_default_browser2 "&brandShortName; jo standertbrowser meitsje">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -679,6 +679,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "In lûd kieze of opnimme">
 <!ENTITY filepicker_image_title "In foto kieze of meitsje">
 <!ENTITY filepicker_video_title "In fideo kieze of opnimme">
+
+<!ENTITY filepicker_permission_denied "Fereaske machtigingen net ferliend, der wurdt weromfallen op de bestânssiker fan it systeem.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Jo binne ferbûn mei">
