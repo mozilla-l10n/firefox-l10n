@@ -11,3 +11,6 @@ cert-error-trust-signature-algorithm-disabled = Waraga ne pe gene pien kiketo ci
 cert-error-trust-expired-issuer = Waraga pe gene pien kara pa lami waraga okato woko.
 cert-error-trust-self-signed = Pe gigeno waraga pien oketo capa cing kene.
 cert-error-untrusted-default = Waraga pe bino ki ka ma gene.
+# Variables:
+# $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix-link = Kod me bal: <a data-l10n-name="error-code-link">{ $error }</a>
