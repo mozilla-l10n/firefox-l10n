@@ -11,3 +11,6 @@ cert-error-trust-signature-algorithm-disabled = সনদপত্রটি ট�
 cert-error-trust-expired-issuer = সার্টিফিকেট নির্মাণকারীর মেয়াদ উত্তীর্ণ হওয়ার ফলে এই সার্টিফিকেট বিশ্বস্ত নয়।
 cert-error-trust-self-signed = স্বয়ং স্বাক্ষরিত হওয়ার ফলে এই সার্টিফিকেটটি বিশ্বস্ত নয়।
 cert-error-untrusted-default = সার্টিফিকেটের উৎস বিশ্বস্ত নয়।
+# Variables:
+# $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix-link = ভুল কোড: <a data-l10n-name="error-code-link">{ $error }</a>
