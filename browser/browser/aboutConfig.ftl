@@ -8,6 +8,7 @@ about-config-warning-text = Промяната на някои от тези р�
 about-config-warning-checkbox = Повторно напомняне
 about-config-warning-button = Приемам риска!
 about-config-title = about:config
+about-config2-title = Разширени настройки
 about-config-search-input =
     .placeholder = Търсене
 about-config-show-all = Показване на всички
