@@ -8,6 +8,7 @@ cert-error-intro = { $hostname } usa un certificado de seguridad no válido.
 cert-error-mitm-intro = Los sitios web demuestran su identidad a través de certificados, los cuales son emitidos por autoridades de certificación.
 cert-error-mitm-mozilla = { -brand-short-name } está respaldado por Mozilla, la organización sin fines de lucro que administra un almacén de autoridad de certificados (CA) completamente abierto. La tienda de CA ayuda a garantizar que las autoridades de certificación sigan las mejores prácticas para la seguridad del usuario.
 cert-error-mitm-connection = { -brand-short-name } usa el almacén de Mozilla CA para verificar que la conexión sea segura, en lugar de los certificados proporcionados por el sistema operativo del usuario. Por lo tanto, si un antivirus o una red está interceptando una conexión con un certificado de seguridad emitido por una CA que no está en el almacén de la CA de Mozilla, la conexión se considera insegura.
+cert-error-trust-unknown-issuer-intro = Alguien podría estar intentando imitar el sitio y tu no deberías continuar.
 cert-error-trust-cert-invalid = No se confía en el certificado porque fue emitido por un certificado CA no válido.
 cert-error-trust-untrusted-issuer = No se confía en el certificado porque no se confía en el certificado emisor.
 cert-error-trust-signature-algorithm-disabled = No se confía en el certificado porque ha sido firmado usando un algoritmo de firma que fue desactivado porque es inseguro.
