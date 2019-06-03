@@ -70,6 +70,13 @@ onboarding-mobile-phone-title = Eguareko { -brand-product-name } ne pumbyrýpe
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Emboguejy kundaha pumbyrygua
+onboarding-send-tabs-title = Emondo tendayke ko’ag̃aite
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Send Tabs omoherakuã kuatiarogue ne mba'e'oka ndive omonguatia’ỹre, mboja ha osẽ’ỹre avei kundahágui.
+onboarding-send-tabs-button = Eipurúkatu Send Tabs
+onboarding-pocket-anywhere-title = Emoñe’ẽ ha ehendu opa hendápe
+onboarding-pocket-anywhere-text2 = Eñongatu pe tetepy eguerohoryvéva ñanduti’ỹre tembipuru’i rupive { -pocket-brand-name } ha emoñe’ẽ, ehendu térã ehecha ehechase vove.
 onboarding-pocket-anywhere-button = Eipuru { -pocket-brand-name }
 onboarding-lockwise-passwords-button2 = Eguerekóke tembipuru'i
 onboarding-facebook-container-button = Embojuaju jepysokue
