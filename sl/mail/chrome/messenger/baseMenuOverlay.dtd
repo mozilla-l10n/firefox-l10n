@@ -34,6 +34,7 @@
 <!ENTITY productHelpMac.commandkey "?">
 <!ENTITY productHelpMac.modifiers "accel">
 
+<!ENTITY helpKeyboardShortcuts.label "Bližnjice tipk">
 
 <!ENTITY helpFeedbackPage.label "Povratne informacije …">
 <!ENTITY helpFeedbackPage.accesskey "v">
