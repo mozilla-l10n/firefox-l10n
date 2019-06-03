@@ -6,5 +6,6 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } bruger et ugyldigt sikkerhedscertifikat.
 cert-error-trust-untrusted-issuer = Der stoles ikke på certifikatet, fordi der ikke stoles på udstederens certifikat.
+cert-error-trust-signature-algorithm-disabled = Der stoles ikke på certifikatet, fordi det er underskrevet med en usikker algoritme.
 cert-error-trust-self-signed = Der stoles ikke på certifikatet, da det er underskrevet af indehaveren selv.
 cert-error-untrusted-default = Certifikatet stammer ikke fra en kilde, der er tillid til.
