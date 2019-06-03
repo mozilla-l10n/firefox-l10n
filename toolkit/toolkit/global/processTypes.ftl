@@ -6,6 +6,12 @@ process-type-web = Webynhâld
 # process used to run privileged pages,
 # such as about:home
 process-type-privileged = Ynhâld mei foech
+# process used to run privileged about pages,
+# such as about:home
+process-type-privilegedabout = Oer Mei privileezjes
+# process used to run privileged mozilla pages,
+# such as accounts.firefox.com
+process-type-privilegedmozilla = Mozilla-ynhâld mei privileezjes
 process-type-extension = Utwreiding
 # process used to open file:// URLs
 process-type-file = Lokaal bestân
