@@ -7,6 +7,7 @@
 cert-error-intro = { $hostname } brukar eit ugyldig tryggingsertifikat.
 cert-error-trust-cert-invalid = Sertifikatet er ikke tiltrudd fordi det er skrive ut av eit ugyldig CA-sertifikat.
 cert-error-trust-untrusted-issuer = Sertifikatet er ikkje tiltrudd fordi utskrivarsertifikatet ikkje er tiltrudd.
+cert-error-trust-signature-algorithm-disabled = Sertifikatet er ikkje tiltrudd fordi det vart signert med ein signaturalgoritme som er avslått fordi algoritmen ikkje er trygg.
 cert-error-trust-expired-issuer = Sertifikatet er ikkje tiltrudd fordi utskrivarsertifikatet har gått ut på dato.
 cert-error-trust-self-signed = Sertifikatet er ikkje tiltrudd fordi det er sjølvsignert.
 cert-error-untrusted-default = Sertifikatet kjem ikkje frå ei tiltrudd kjelde.
