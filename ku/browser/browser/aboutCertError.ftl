@@ -8,4 +8,5 @@ cert-error-intro = Ji ber ku belgeya pejirandinê ya tê bikaranîn nederbasdar 
 cert-error-trust-cert-invalid = Ji ber ku sertîfîka ji hêla sertîfîkakirineke nederbasdar a CA'yê tê bikaranîn, ne ewle ye.
 cert-error-trust-untrusted-issuer = Ji ber ku guhertoya wê ne ewle ye, sertîfîka ne ewle ye.
 cert-error-trust-expired-issuer = Ji ber ku guhertoya wê derbasbûye, sertîfîka ne ewle ye.
+cert-error-trust-self-signed = Sertîfîka ne ewle ye ji ber ku bixwe hatiye îmzekirin.
 cert-error-untrusted-default = Çavkaniya sertîfîkayê ne ewle ye.
