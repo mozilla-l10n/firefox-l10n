@@ -290,6 +290,7 @@ update-pref-write-failure-title = Fallo de escritura
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = No se puede guardar la preferencia. No se pudo escribir en el archivo: { $path }
+update-setting-write-failure-title = Error al guardar las preferencias de actualización
 
 ## General Section - Performance
 
