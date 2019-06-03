@@ -16,7 +16,22 @@ cert-error-trust-untrusted-issuer = Le certificat n’est pas sûr car le certif
 cert-error-trust-signature-algorithm-disabled = Le certificat n’est pas sûr car il a été signé à l’aide d’un algorithme de signature qui a été désactivé car cet algorithme n’est pas sécurisé.
 cert-error-trust-expired-issuer = Le certificat n’est pas sûr car le certificat de l’autorité l’ayant délivré a expiré.
 cert-error-trust-self-signed = Le certificat n’est pas sûr car il est auto-signé.
+cert-error-trust-symantec = Les certificats émis par GeoTrust, RapidSSL, Symantec, Thawte et VeriSign ne sont plus considérés comme sécurisés car ces autorités de certification ont, dans le passé, omis de respecter des pratiques de sécurité.
 cert-error-untrusted-default = Le certificat ne provient pas d’une source sûre.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-domain-mismatch = Les sites web justifient leur identité par des certificats. { -brand-short-name } ne fait pas confiance à ce site, car il utilise un certificat qui n’est pas valide pour { $hostname }.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single = Les sites web justifient leur identité par des certificats. { -brand-short-name } ne fait pas confiance à ce site, car il utilise un certificat qui n’est pas valide pour { $hostname }. Le certificat n’est valide que pour <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single-nolink = Les sites web justifient leur identité par des certificats. { -brand-short-name } ne fait pas confiance à ce site, car il utilise un certificat qui n’est pas valide pour { $hostname }. Le certificat n’est valide que pour { $alt-name }.
+# Variables:
+# $subject-alt-names (String) - Alternate domain names for which the cert is valid.
+cert-error-domain-mismatch-multiple = Les sites web justifient leur identité par des certificats. { -brand-short-name } ne fait pas confiance à ce site, car il utilise un certificat qui n’est pas valide pour { $hostname }. Le certificat est seulement valide pour les noms suivants : { $subject-alt-names }
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-after-local-time (Date) - Certificate is not valid after this time.
