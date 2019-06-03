@@ -6,6 +6,7 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } menggunakan sertifikat keamanan yang tidak valid.
 cert-error-mitm-intro = Situs web membuktikan identitas mereka melalui sertifikat, yang diterbitkan oleh pewenang sertifikat.
+cert-error-mitm-mozilla = { -brand-short-name } disokong oleh Mozilla yang bersifat nirlaba, yang mengelola penyimpanan otoritas sertifikat (CA/Certificate Authority) yang sepenuhnya terbuka. Penyimpanan CA membantu memastikan bahwa otoritas sertifikat mengikuti penerapan terbaik demi keamanan pengguna.
 cert-error-trust-unknown-issuer-intro = Ada pihak yang mencoba menyamar sebagai situs ini dan sebaiknya tidak Anda lanjutkan.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
