@@ -2,17 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY onlineContactsHeader.label    "Online Contacts">
-<!ENTITY offlineContactsHeader.label   "Offline Contacts">
-<!ENTITY conversationsHeader.label     "Conversations">
-<!ENTITY searchResultConversation.label "Search result">
-<!ENTITY chat.noConv.title             "Conversations will be displayed here.">
-<!ENTITY chat.noConv.description       "Use the contact list in the left panel to start a conversation.">
-<!ENTITY chat.noPreviousConv.description       "&brandShortName; currently doesn't have any previous conversations stored for this contact.">
-<!ENTITY chat.noAccount.title             "You haven't set up a chat account yet.">
-<!ENTITY chat.noAccount.description       "Let &brandShortName; guide you through the process of setting up your chat account.">
-<!ENTITY chat.accountWizard.button       "Get started">
-<!ENTITY chat.noConnectedAccount.title             "Your chat accounts are not connected.">
+<!ENTITY onlineContactsHeader.label    "Kontaktoj enrete">
+<!ENTITY offlineContactsHeader.label   "Kontaktoj eksterrete">
+<!ENTITY conversationsHeader.label     "Interparoladoj">
+<!ENTITY searchResultConversation.label "Serĉ‑rezultoj">
+<!ENTITY chat.noConv.title             "Interparoladoj montriĝos tie ĉi.">
+<!ENTITY chat.noConv.description       "Uzu la liston de kontaktoj ĉe maldekstre por ekigi interparoladon.">
+<!ENTITY chat.noPreviousConv.description       "&brandShortName; nuntempe ne havas iujn antaŭajn konservitajn interparoladoj por tiu kontakto.">
+<!ENTITY chat.noAccount.title             "Neniu agordita tujmesaĝila konto">
+<!ENTITY chat.noAccount.description       "Klaku la butonon “nova konto” por ke &brandShortName; gvidu vin tra krei novan tujmesaĝilan konton.">
+<!ENTITY chat.accountWizard.button       "Nova konto">
+<!ENTITY chat.noConnectedAccount.title             "Viaj tujmesaĝilaj kontoj ne estas konektitaj.">
 <!ENTITY chat.noConnectedAccount.description       "You can connect them from the 'Chat status' dialog:">
 <!ENTITY chat.showAccountManager.button       "Show chat status">
 
