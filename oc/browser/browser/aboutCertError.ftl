@@ -7,6 +7,7 @@
 cert-error-intro = { $hostname } utiliza un certificat de seguretat invalid.
 cert-error-trust-cert-invalid = Lo certificat es pas segur perque es estat desliurat per una autoritat de certificacion invalida.
 cert-error-trust-untrusted-issuer = Lo certificat es pas segur perque l'autoritat que desliura lo certificat es pas esprovada.
+cert-error-trust-signature-algorithm-disabled = Lo certificat es pas segur perque es estat signat amb l'ajuda d'un algoritme de signatura qu'es estat desactivat perque aqueste algoritme es pas securizat.
 cert-error-trust-expired-issuer = Lo certificat es pas segur perque lo certificat de l'autoritat que l'a desliurat a expirat.
 cert-error-trust-self-signed = Lo certificat es pas segur perque es autosignat.
 cert-error-untrusted-default = Lo certificat proven pas d'una font segura.
