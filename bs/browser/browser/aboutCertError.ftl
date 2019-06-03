@@ -11,3 +11,6 @@ cert-error-trust-signature-algorithm-disabled = Certifikat nije povjerljiv jer j
 cert-error-trust-expired-issuer = Certifikat nije povjerljiv jer je certifikat izdavača istekao.
 cert-error-trust-self-signed = Ovaj certifikat nije povjerljiv jer je samopotpisan.
 cert-error-untrusted-default = Certifikat ne dolazi od pouzdanog izvora.
+# Variables:
+# $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix-link = Kod greške: <a data-l10n-name="error-code-link">{ $error }</a>
