@@ -10,6 +10,8 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = Establezca políticas a las que WebExtensions pueda acceder mediante chrome.storage.managed.
+policy-AppUpdateURL = Establecer la URL de actualización de la aplicación personalizada.
 policy-BlockAboutAddons = Bloquear acceso al administrador de complementos (about:addons).
 policy-BlockAboutConfig = Bloquear acceso a la página about:config.
 policy-BlockAboutProfiles = Bloquear acceso a la página about:profiles.
