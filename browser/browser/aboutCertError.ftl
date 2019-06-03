@@ -34,5 +34,13 @@ cert-error-domain-mismatch-single-nolink = 各个网站通过证书证明自己�
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
 cert-error-domain-mismatch-multiple = 各个网站通过证书证明自己的身份。{ -brand-short-name } 不能信任此网站，它使用的证书对 { $hostname } 无效。该证书只适用于下列名称： { $subject-alt-names }
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = 各个网站通过证书证明自己的身份，它们在设定的时间段内有效。{ $hostname } 的证书已于 { $not-after-local-time } 过期。
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = 各个网站通过证书证明自己的身份，它们在设定的时间段内有效。{ $hostname } 的证书将生效于 { $not-before-local-time }。
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = 错误代码：<a data-l10n-name="error-code-link">{ $error }</a>
