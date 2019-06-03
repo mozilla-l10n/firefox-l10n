@@ -8,6 +8,7 @@ cert-error-intro = { $hostname } a arver un testeni diogelroez didalvoudek.
 cert-error-mitm-intro = Gant testenioù e vez prouet pivelezh al lec'hiennoù, a zo roet gant aotrouniezhoù testeniañ.
 cert-error-mitm-mozilla = Gant ar gevredigezh hep pal kenwerzhel Mozilla eo harpet { -brand-short-name }, a ver ur stal aotrouniezh testenioù (CA)  digor penn-da-benn. Ar stal CA a sikour evit bezañ sur e vez heuliet an hentennoù erbedet gant an aotrouniezhoù testeniañ evit diogelroez an arveriaded.
 cert-error-mitm-connection = { -brand-short-name } a implij stal CA Mozilla evit gwiriekaat eo diogel ur c'hennask, kentoc'h eget an testenioù roet gant reizhiad korvoiñ an arveriad. Dre se, ma vez daspaket ur c'hennask gant un enepvirus pe ur rouedad gant un testeni diogelroez pourchaset gant ur CA n'eo ket e stal CA Mozilla eo gwelet evel diziogel ar c'hennask.
+cert-error-trust-unknown-issuer-intro = Unan bennak a c'hallfe en em ziskouez evel bezañ al lec'hienn ha ne rankfec'h ket mont pelloc'h.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-trust-unknown-issuer = Pivelezhioù al lec'hiennoù a vez prouet dre testenioù. { -brand-short-name } n'eus ket fiziañs e { $hostname } peogwir n'anavezer ket pourchaser an testeni, emsinet eo an testeni, pe ne gas ket an dafariad an testenioù etre dereat.
