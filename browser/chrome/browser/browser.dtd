@@ -527,7 +527,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "a">
 <!ENTITY customizeMenu.manageExtension.label "Handter utviding">
 <!ENTITY customizeMenu.manageExtension.accesskey "e">
-<!ENTITY customizeMenu.removeExtension.label "Fjern tillegg">
+<!ENTITY customizeMenu.removeExtension.label "Fjern utviding">
 <!ENTITY customizeMenu.removeExtension.accesskey "F">
 
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
@@ -1139,7 +1139,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.header.message "Den nye fana di er endra.">
 <!ENTITY newTabControlled.keepButton.label "Behald endringane">
 <!ENTITY newTabControlled.keepButton.accesskey "B">
-<!ENTITY newTabControlled.disableButton.label "Slå av tillegg">
+<!ENTITY newTabControlled.disableButton.label "Slå av utviding">
 <!ENTITY newTabControlled.disableButton.accesskey "S">
 
 <!ENTITY homepageControlled.message "Ei utviding har endra det du ser som di startside. Du kan stille tilbake til dine innstillingar om du ikkje vil ha denne endringa.">
@@ -1185,5 +1185,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPrivateBrowsing.learnMore.label "Les om korleis du handterer utvidingsinnstillingar.">
 <!ENTITY addonPrivateBrowsing.okButton.label "Ok, eg forstår">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
-<!ENTITY addonPrivateBrowsing.manageButton.label "Handter tillegg">
+<!ENTITY addonPrivateBrowsing.manageButton.label "Handter utvidingar">
 <!ENTITY addonPrivateBrowsing.manageButton.accesskey "H">

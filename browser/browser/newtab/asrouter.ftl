@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-cfr-doorhanger-extension-heading = Tilrådde tillegg
+cfr-doorhanger-extension-heading = Tilrådde utvidingar
 cfr-doorhanger-pintab-heading = Prøv dette: fest fana
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Kvifor ser eg dette?
