@@ -7,6 +7,7 @@
 cert-error-intro = Tha { $hostname } a' cleachdadh teisteanas tèarainteachd mì-dhligheach.
 cert-error-trust-cert-invalid = Chan eil earbsa san teisteanas seo a chionn 's gun deach fhoillseachadh le teisteanas mì-dhligheach de dh'ùghdarras teisteanachaidh.
 cert-error-trust-untrusted-issuer = Chan eil earbsa san teisteanas seo a chionn 's nach eil earbsa ann am foillsichear an teisteanais.
+cert-error-trust-signature-algorithm-disabled = Chan eil earbsa san teisteanas a chionn 's gun deach a shoidhneadh le algairim soidhnidh a chaidh a chur à comas a chionn 's nach eil an algairim tèarainte.
 cert-error-trust-expired-issuer = Chan eil earbsa san teisteanas seo a chionn 's gun do dh'fhalbh an ùine air teisteanas an fhoillsicheir.
 cert-error-trust-self-signed = Chan eil earbsa san teisteanas seo a chionn 's gun deach a fhèin-shoidhneadh.
 cert-error-untrusted-default = Chan eil earbsa san tùs on dàinig an teisteanas seo.
