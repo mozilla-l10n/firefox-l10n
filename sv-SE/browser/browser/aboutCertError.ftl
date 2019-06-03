@@ -7,6 +7,7 @@
 cert-error-intro = { $hostname } använder ett ogiltigt säkerhetscertifikat.
 cert-error-trust-cert-invalid = Certifikatet är inte betrott eftersom det är utfärdat av ett ogiltigt CA-certifikat.
 cert-error-trust-untrusted-issuer = Certifikatet är inte betrott eftersom utfärdarcertifikatet inte är betrott.
+cert-error-trust-signature-algorithm-disabled = Certifikatet är inte betrott eftersom det signerades med en signaturalgoritm som är inaktiverad på grund av att den är osäker.
 cert-error-trust-expired-issuer = Certifikatet är inte betrott eftersom utfärdarcertifikatet har förfallit.
 cert-error-trust-self-signed = Certifikatet är inte betrott eftersom det är självsignerat.
 cert-error-untrusted-default = Certifikatet kommer inte från en betrodd källa.
