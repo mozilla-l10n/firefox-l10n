@@ -41,3 +41,6 @@ cert-error-expired-now = Webbplatser bevisar sin identitet via certifikat, som g
 # $hostname (String) - Hostname of the website with cert error.
 # $not-before-local-time (Date) - Certificate is not valid before this time.
 cert-error-not-yet-valid-now = Webbplatser bevisar sin identitet via certifikat, som gäller för en viss tidsperiod. Certifikatet för { $hostname } är inte giltigt till { $not-before-local-time }.
+# Variables:
+# $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix-link = Felkod: <a data-l10n-name="error-code-link">{ $error }</a>
