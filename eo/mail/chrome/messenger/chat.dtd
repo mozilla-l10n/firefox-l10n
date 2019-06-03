@@ -13,32 +13,32 @@
 <!ENTITY chat.noAccount.description       "Klaku la butonon “nova konto” por ke &brandShortName; gvidu vin tra krei novan tujmesaĝilan konton.">
 <!ENTITY chat.accountWizard.button       "Nova konto">
 <!ENTITY chat.noConnectedAccount.title             "Viaj tujmesaĝilaj kontoj ne estas konektitaj.">
-<!ENTITY chat.noConnectedAccount.description       "You can connect them from the 'Chat status' dialog:">
-<!ENTITY chat.showAccountManager.button       "Show chat status">
+<!ENTITY chat.noConnectedAccount.description       "Vi povas konekti ĉe la fenestro “stato de tujmesaĝiloj”:">
+<!ENTITY chat.showAccountManager.button       "Stato de tujmesaĝiloj">
 
-<!ENTITY chat.participants             "Participants:">
-<!ENTITY chat.previousConversations    "Previous Conversations:">
-<!ENTITY chat.ongoingConversation      "Ongoing conversation">
+<!ENTITY chat.participants             "Anoj:">
+<!ENTITY chat.previousConversations    "Antaŭaj interparoladoj:">
+<!ENTITY chat.ongoingConversation      "Estantaj interparoladoj">
 
-<!ENTITY openConversationCmd.label     "Start a Conversation">
-<!ENTITY openConversationCmd.accesskey "c">
-<!ENTITY closeConversationCmd.label    "Close Conversation">
-<!ENTITY closeConversationCmd.accesskey "C">
-<!ENTITY aliasCmd.label                "Rename">
+<!ENTITY openConversationCmd.label     "Komenci interparoladon">
+<!ENTITY openConversationCmd.accesskey "K">
+<!ENTITY closeConversationCmd.label    "Fermi interparoladon">
+<!ENTITY closeConversationCmd.accesskey "F">
+<!ENTITY aliasCmd.label                "Renomi">
 <!ENTITY aliasCmd.accesskey            "R">
-<!ENTITY deleteCmd.label               "Remove Contact">
-<!ENTITY deleteCmd.accesskey           "v">
+<!ENTITY deleteCmd.label               "Forigi kontakton">
+<!ENTITY deleteCmd.accesskey           "i">
 
-<!ENTITY openConversationButton.tooltip  "Start a conversation">
-<!ENTITY closeConversationButton.tooltip "Close conversation">
+<!ENTITY openConversationButton.tooltip  "Komenci interparoladon">
+<!ENTITY closeConversationButton.tooltip "Fermi interparoladon">
 
-<!ENTITY addBuddyButton.label          "Add Contact">
-<!ENTITY joinChatButton.label          "Join Chat">
-<!ENTITY chatAccountsButton.label      "Show Accounts">
+<!ENTITY addBuddyButton.label          "Aldoni kontakton">
+<!ENTITY joinChatButton.label          "Aliĝi al interparolado">
+<!ENTITY chatAccountsButton.label      "Montri kontojn">
 
-<!ENTITY status.available          "Available">
-<!ENTITY status.unavailable        "Unavailable">
-<!ENTITY status.offline            "Offline">
+<!ENTITY status.available          "Disponebla">
+<!ENTITY status.unavailable        "Nedisponebla">
+<!ENTITY status.offline            "Eksterrete">
 
-<!ENTITY openLinkCmd.label            "Open Link…">
-<!ENTITY openLinkCmd.accesskey        "O">
+<!ENTITY openLinkCmd.label            "Malfermi ligilon…">
+<!ENTITY openLinkCmd.accesskey        "M">
