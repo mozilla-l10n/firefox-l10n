@@ -55,3 +55,12 @@ cfr-doorhanger-pintab-step2 = Оберіть в меню <b>Прикріпити
 cfr-doorhanger-pintab-step3 = Якщо на сайті є оновлення, ви побачите блакитну крапку на прикріпленій вкладці.
 cfr-doorhanger-pintab-animation-pause = Призупинити
 cfr-doorhanger-pintab-animation-resume = Продовжити
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Синхронізуйте свої закладки всюди.
+cfr-doorhanger-bookmark-fxa-body = Гарна знахідка! Тепер синхронізуйте цю закладку зі своїми мобільними пристроями. Почніть роботу з { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-link-text = Синхронізувати закладки зараз…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Кнопка закриття
+    .title = Закрити
