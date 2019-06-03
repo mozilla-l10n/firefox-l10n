@@ -7,6 +7,7 @@
 cert-error-intro = { $hostname } gebruik 'n ongeldige sekuriteitsertifikaat.
 cert-error-trust-cert-invalid = Die sertifikaat word nie vertrou nie omdat dit deur 'n ongeldige SO-sertifikaat uitgereik is.
 cert-error-trust-untrusted-issuer = Die sertifikaat word nie vertrou nie omdat die uitreikersertifikaat nie vertrou word nie.
+cert-error-trust-signature-algorithm-disabled = Die sertifikaat word nie vertrou nie omdat dit geteken is met 'n handtekeningalgoritme wat gedeaktiveer is omdat daardie algoritme nie veilig is nie.
 cert-error-trust-expired-issuer = Die sertifikaat word nie vertrou nie omdat die uitreikersertifikaat verval het.
 cert-error-trust-self-signed = Die sertifikaat word nie vertrou nie omdat dit selfonderteken is.
 cert-error-untrusted-default = Die sertifikaat kom nie van 'n vertroude bron nie.
