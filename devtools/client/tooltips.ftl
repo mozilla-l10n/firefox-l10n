@@ -30,3 +30,4 @@ inactive-css-not-grid-item-fix = Try adding <strong>display:grid</strong> or <st
 inactive-css-not-grid-container-fix = Try adding <strong>display:grid</strong> or <strong>display:inline-grid</strong>. { learn-more }
 inactive-css-not-flex-item-fix = Try adding <strong>display:flex</strong> or <strong>display:inline-flex</strong> to the item’s parent. { learn-more }
 inactive-css-not-flex-container-fix = Try adding <strong>display:flex</strong> or <strong>display:inline-flex</strong>. { learn-more }
+inactive-css-not-inline-or-tablecell-fix = Try adding <strong>display:inline</strong> or <strong>display:table-cell</strong>. { learn-more }
