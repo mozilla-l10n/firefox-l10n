@@ -64,6 +64,7 @@ onboarding-browse-privately-title = Inig s wudem uslig
 onboarding-browse-privately-button = Ldi asfaylu n tunigin tusligt
 onboarding-firefox-send-title = Ḍmen tabaḍnit n yifuyla-inek ittwabḍan
 onboarding-firefox-send-button = Ɛreḍ { -send-brand-name }
+onboarding-send-tabs-button = Bdu aseqdec n Send Tabs
 onboarding-pocket-anywhere-button = Ɛreḍ { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Awi awalen uffiren-ik anida tebɣiḍ
 onboarding-facebook-container-button = Rnu asiɣzef
