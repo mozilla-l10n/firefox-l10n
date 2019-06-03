@@ -20,6 +20,7 @@ onboarding-button-label-get-started = Kom i gang
 
 onboarding-welcome-header = Velkomen til { -brand-short-name }
 onboarding-welcome-learn-more = Les meir om fordelane.
+onboarding-join-form-header = Ver med { -brand-product-name } på ferda
 onboarding-join-form-body = Skriv inn e-postadressa di for å kome i gang.
 onboarding-join-form-email =
     .placeholder = Skriv inn e-postadresse
@@ -56,15 +57,18 @@ onboarding-tracking-protection-title2 = Vern frå sporing
 onboarding-tracking-protection-button2 = Korleis det verkar
 onboarding-data-sync-title = Ta med deg innstillingane dine
 onboarding-data-sync-button2 = Logg inn på { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Hald auge med datalekkasjar
 onboarding-firefox-monitor-button = Registrer deg for varslingar
 onboarding-browse-privately-title = Surf privat
 onboarding-browse-privately-button = Opne eit privat vindauge
 onboarding-firefox-send-title = Hald dei delte filene dine privat
 onboarding-firefox-send-button = Prøv { -send-brand-name }
 onboarding-mobile-phone-title = Last ned { -brand-product-name } til telefonen din
+onboarding-mobile-phone-text = Last ned { -brand-product-name } for iOS eller Android og synkroniser data på alle einingane dine.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Last ned mobilnettlesar
+onboarding-send-tabs-title = Send raskt faner til deg sjølv
 onboarding-send-tabs-button = Prøv funksjonen
 onboarding-pocket-anywhere-title = Les og lytt kvar som helst
 onboarding-pocket-anywhere-button = Prøv { -pocket-brand-name }
