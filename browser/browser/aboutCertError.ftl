@@ -7,6 +7,7 @@
 cert-error-intro = { $hostname } koristi neispravni sigurnosni certifikat.
 cert-error-trust-cert-invalid = Certifikat nije pouzdan jer ga je izdala neispravna agencija certifikata (CA).
 cert-error-trust-untrusted-issuer = Certifikat nije pouzdan jer je izdavač certifikata nepouzdan.
+cert-error-trust-signature-algorithm-disabled = Certifikat nije pouzdan jer je potpisan koristeći algoritam potpisa koji je onemogućen iz sigurnosnih razloga.
 cert-error-trust-expired-issuer = Certifikat nije pouzdan jer je certifikat izdavača istekao.
 cert-error-trust-self-signed = Certifikat nije pouzdan jer je samo-potpisan.
 cert-error-untrusted-default = Certifikat ne dolazi s povjerljivog izvora.
