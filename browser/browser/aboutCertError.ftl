@@ -4,5 +4,6 @@
 
 cert-error-trust-cert-invalid = Sijil tersebut tidak boleh dipercayai kerana ia telah dikeluarkan oleh sijil CA yang tidak sah.
 cert-error-trust-untrusted-issuer = Sijil tersebut tidak boleh dipercayai kerana pengeluar sijil tidak boleh dipercayai.
+cert-error-trust-signature-algorithm-disabled = Sijil ini tidak boleh dipercayai kerana ia ditandatangani oleh algoritma tandatangan yang dinyahaktifkan disebabkan algoritma yang tidak menjamin keselamatan.
 cert-error-trust-expired-issuer = Sijil tersebut tidak dapat percayai kerana sijil pengeluar telah luput.
 cert-error-untrusted-default = Sijil tersebut tidak datang dari sumber yang boleh dipercayai.
