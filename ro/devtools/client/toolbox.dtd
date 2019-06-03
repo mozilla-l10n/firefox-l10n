@@ -175,8 +175,8 @@
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
   -  in about:config, in the options panel. -->
 <!ENTITY options.showPlatformData.label    "Afișează datele platformei Gecko">
-<!ENTITY options.showPlatformData.tooltip  "Dacă activezi opțiunea, rapoartele generatorului de profiluri JavaScript vor include
-simbolurile din platforma Gecko">
+<!ENTITY options.showPlatformData.tooltip  "Dacă activezi opțiunea, rapoartele profilatorului JavaScript vor include
+simbolurile platformei Gecko">
 
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->

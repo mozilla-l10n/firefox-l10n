@@ -13,7 +13,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
-<!ENTITY performanceUI.bufferStatusTooltip "Generatorul de profiluri stochează mostrele într-o memorie-tampon circulară și, când memoria-tampon atinge limita pentru o înregistrare, noile mostre încep să le suprascrie pe cele existente de la începutul înregistrării.">
+<!ENTITY performanceUI.bufferStatusTooltip "Profilatorul stochează mostrele într-o memorie-tampon circulară și, când memoria-tampon atinge limita pentru o înregistrare, noile mostre încep să le suprascrie pe cele existente de la începutul înregistrării.">
 
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
@@ -56,7 +56,7 @@
 <!ENTITY performanceUI.table.selfPercentage           "Cost propriu">
 <!ENTITY performanceUI.table.selfPercentage.tooltip   "Procentul de timp petrecut numai în această funcție.">
 <!ENTITY performanceUI.table.samples                  "Eșantioane">
-<!ENTITY performanceUI.table.samples.tooltip          "Numărul de prezențe ale acestei funcții în stivă când generatorul de profiluri a preluat o mostră.">
+<!ENTITY performanceUI.table.samples.tooltip          "Numărul de prezențe ale acestei funcții în stivă când profilatorul a preluat o mostră.">
 <!ENTITY performanceUI.table.function                 "Funcție">
 <!ENTITY performanceUI.table.function.tooltip         "Numele și sursa locației a funcției eșantionate.">
 <!ENTITY performanceUI.table.totalAlloc               "Total alocări prelevate">
@@ -86,7 +86,7 @@
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
 <!ENTITY performanceUI.showPlatformData             "Afișează datele platformei Gecko">
-<!ENTITY performanceUI.showPlatformData.tooltiptext "Afișarea datelor platformei permite includerea simbolurilor din platforma Gecko în rapoartele generatorului de profiluri JavaScript.">
+<!ENTITY performanceUI.showPlatformData.tooltiptext "Afișarea datelor platformei permite includerea simbolurilor din platforma Gecko în rapoartele profilatorului JavaScript.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
