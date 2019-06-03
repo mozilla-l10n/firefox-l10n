@@ -5,7 +5,10 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } uporablja neveljavno digitalno potrdilo.
+cert-error-mitm-intro = Spletne strani svojo istovetnost dokazujejo z digitalnimi potrdili, ki jih izdajajo uradni overitelji.
 cert-error-mitm-mozilla = { -brand-short-name } podpira neprofitna organizacija Mozilla, ki upravlja popolnoma odprto zbirko overiteljev potrdil (CA). Zbirka CA pomaga zagotoviti, da overitelji potrdil sledijo najboljšim praksam za varnost uporabnikov.
+cert-error-mitm-connection = { -brand-short-name } za preverjanje, ali je povezava varna, namesto potrdil, ki jih priskrbi operacijski sistem uporabnika, uporablja Mozillino zbirko CA. Če torej protivirusni program ali omrežje prestreže povezavo z digitalnim potrdilom, ki ga je izdal overitelj, ki ni v Mozillini zbirki CA, se povezava šteje za nevarno.
+cert-error-trust-unknown-issuer-intro = Nekdo lahko poskuša oponašati to stran, zato nadaljevanje ni priporočeno.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-trust-unknown-issuer = Spletne strani svojo istovetnost dokazujejo z digitalnimi potrdili. { -brand-short-name } ne zaupa strani { $hostname }, ker izdajatelj njenega digitalnega potrdila ni znan, ker se je potrdilo samo podpisalo ali pa strežnik ne pošilja pravih vmesnih digitalnih potrdil.
