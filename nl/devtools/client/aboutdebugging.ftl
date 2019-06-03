@@ -82,9 +82,6 @@ about-debugging-refresh-usb-devices-button = Apparaten vernieuwen
 about-debugging-setup-title = Configuratie
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Configureer de verbindingsmethode waarmee u uw apparaat extern wilt debuggen.
-# Link displayed in the Setup page that leads to MDN page with list of supported devices.
-# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
-about-debugging-setup-link-android-devices = Lijst van ondersteunde Android-apparaten weergeven
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Gebruik <a>{ about-debugging-this-firefox-runtime-name }</a> om tabbladen, extensies en service workers op deze versie van { -brand-shorter-name } te debuggen.
 # Title of the heading Connect section of the Setup page.
@@ -105,12 +102,6 @@ about-debugging-setup-usb-updating-button = Bijwerken…
 about-debugging-setup-usb-status-enabled = Ingeschakeld
 about-debugging-setup-usb-status-disabled = Uitgeschakeld
 about-debugging-setup-usb-status-updating = Bijwerken…
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu = Schakel het ontwikkelaarsmenu op uw Android-apparaat in. <a>Meer info</a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug = Schakel USB-foutopsporing in het Android-ontwikkelaarsmenu in. <a>Meer info</a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox = Schakel USB-debugging in Firefox op het Android-apparaat in. <a>Meer info</a>
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = Ontwikkelaarsmenu inschakelen op uw Android-apparaat.
 # USB section step by step guide
@@ -215,11 +206,6 @@ about-debugging-connection-prompt-enable-button = Verbindingsprompt inschakelen
 about-debugging-connection-prompt-disable-button = Verbindingsprompt uitschakelen
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
 about-debugging-profiler-dialog-title2 = Profiler
-# Label of a checkbox displayed in the runtime page for "This Firefox".
-# This checkbox will toggle preferences that enable local addon debugging.
-# The "Learn more" link points to MDN.
-# https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
-about-debugging-extension-debug-setting-label = Extensiedebugging inschakelen. <a>Meer info</a>
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
@@ -308,3 +294,9 @@ about-debugging-main-process-description2 = Hoofdproces voor de doelbrowser
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Bericht sluiten
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = Foutdetails
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = Waarschuwingsdetails
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = Details

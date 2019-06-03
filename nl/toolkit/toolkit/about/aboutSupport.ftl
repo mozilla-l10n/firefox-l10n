@@ -82,6 +82,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Beslissingenlogboek
 graphics-crash-guards-title = Door crashbeveiliging uitgeschakelde functies
 graphics-workarounds-title = Workarounds
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Vensterprotocol
 place-database-title = Places-database
 place-database-integrity = Integriteit
 place-database-verify-integrity = Integriteit verifiëren
