@@ -21,6 +21,7 @@ policy-Bookmarks = Emoheñói techaukaha tembipuru renda rechaukahápe, pe techa
 policy-CaptivePortal = Embojuruja térã eipe’a pe pytyvõha ñapytĩmbýva.
 policy-CertificatesDescription = Embojuaju mboajepyre térã eipuru mboajepyre moingepyre.
 policy-Cookies = Emoneĩ térã embotove ani ñanduti renda omoinge kookie.
+policy-DefaultDownloadDirectory = Emoha’eño marandurenda mboguejerã ijypykuéva.
 policy-DisableAppUpdate = Ani eheja oñembohekopyahu kundahára.
 policy-DisableBuiltinPDFViewer = Eipe’aite PDF.js, PDF jehechaha oĩva { -brand-short-name } ndive.
 policy-DisableDeveloperTools = Ejoko ñangarekohára rembipurúpe jeike.
@@ -45,18 +46,22 @@ policy-DisplayBookmarksToolbar = Ehechauka Techaukaha rembipuru renda ijypykue r
 policy-DisplayMenuBar = Ehechauka Poravorã renda ijypykue rupi.
 policy-DNSOverHTTPS = Emboheko DNS pe HTTPS ári.
 policy-DontCheckDefaultBrowser = Eipe’a kundahára jehechajey ijypykuéva oñepyrũvo tembiapo.
+policy-DownloadDirectory = Emoha’eño ha ejoko marandurenda mboguejerã.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Embojuruja térã eipe’a tetepy jejoko ha ejoko ejaposérõnte.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Emboguejy, eipe’a térã ejoko jepysokue. Pe poravopyrã Ñemohenda ojapyhy URL kundaharape térã tape hechapyrãva. Umi poravopyrã pe’a ha joko oguereko jepysokue ID.
+policy-ExtensionSettings = Eñangareko opaite mba’e jepysokue ñemohendáre.
 policy-ExtensionUpdate = Embojuruja térã eipe’a ñembohekopyahu ijeheguíva jepysokue rehegua.
+policy-FirefoxHome = Emboheko Firefox ñepyrũ.
 policy-FlashPlugin = Emoneĩ térã embotove mboguejyrã’i Flash jepuru.
 policy-HardwareAcceleration = Japúramo, eipe’a hardware mbopya’eha.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Emopyenda ha ejoko ejaposẽramo kuatiarogue ñepyrũha.
 policy-InstallAddonsPermission = Emoneĩ ndahetái ñanduti rendápe omboguejývo moimbaha.
+policy-LocalFileLinks = Emoneĩ ñanduti renda moha’eñopyrépe ojuajúvo marandurenda pypeguáva.
 policy-NetworkPrediction = Embojuruja térã eipe’a ñanduti kuaapy (DNS oheka mboyve).
 policy-NoDefaultBookmarks = Eipe’a techaukaha ijypyguáva ñemoheñói oikehápe { -brand-short-name }, ha umi techaukaha ha’evéva (teramoĩ ojehecha ha ojehupiramovéva). Kuaarã: ko purureko oiko eipurúvo mba’ete tembiapo ñepyrũgua mboyve añoite.
 policy-OfferToSaveLogins = Emboheko emoneĩ hag̃ua { -brand-short-name }-pe omomandu’ávo emoñepyrũvo tembiapo ha ñe’ẽñemi ñongatupyre. Oñemoneĩ añetegua ha japúva.

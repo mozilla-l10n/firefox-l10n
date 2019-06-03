@@ -82,6 +82,7 @@ onboarding-lockwise-passwords-title = Egueraha ne ñe’ẽñemi opa hendápe
 onboarding-lockwise-passwords-text2 = Emohekorosã ne ñe’ẽñemi eñongatúva ha emoñepyrũ tembiapo hasy’ỹ hag̃uáicha ne mba’ete { -lockwise-brand-name } ndive.
 onboarding-lockwise-passwords-button2 = Eguerekóke tembipuru'i
 onboarding-facebook-container-title = Eikuaauka hu’ã con Facebook ndive
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } oipe’a imba’ete Facebook pegua opavavégui, péicha ombohasy Facebook-pe ohechauka hag̃ua imaranduñemurã ñemomba’epyre.
 onboarding-facebook-container-button = Embojuaju jepysokue
 
 ## Message strings belonging to the Return to AMO flow
