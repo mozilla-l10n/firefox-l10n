@@ -8,4 +8,5 @@ cert-error-intro = { $hostname } uses an invalid security certificate.
 cert-error-trust-cert-invalid = The certificate is not trusted because it was issued by an invalid CA certificate.
 cert-error-trust-untrusted-issuer = The certificate is not trusted because the issuer certificate is not trusted.
 cert-error-trust-expired-issuer = The certificate is not trusted because the issuer certificate has expired.
+cert-error-trust-self-signed = The certificate is not trusted because it is self-signed.
 cert-error-untrusted-default = The certificate does not come from a trusted source.
