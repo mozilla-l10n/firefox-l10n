@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
-
-
 ### UI strings for the simplified onboarding modal / about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -66,16 +63,13 @@ onboarding-ghostery-text = Merdeit herrekoc'h, speredekoc'h, pe diogeloc'h gant 
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synkro
 onboarding-fxa-text = Krouit ho { -fxaccount-brand-name } ha goubredit ho sinedoù, gerioù-tremen hag hoc'h ivinelloù digor e pep lec'h ma implijit { -brand-short-name }.
-onboarding-tracking-protection-title = Reoilhit penaos emaoc'h heuliet
-onboarding-tracking-protection-text = Ne blij ket deoc'h p'emaoc'h heuliet gant bruderezhioù? { -brand-short-name } a sikour ac'hanoc'h da reoliañ penaos e vez heuliet hoc'h oberiantiz enlinenn gant ar saverien bruderezhioù.
-# "Update" is a verb, as in "Update the existing settings", not "Options about
-# updates".
-onboarding-tracking-protection-button =
-    { PLATFORM() ->
-        [windows] Kemmañ an dibarzhioù
-       *[other] Kemmañ ar gwellvezioù
-    }
 onboarding-tracking-protection-title2 = Gwarez a-enep d'an heuliañ
+onboarding-tracking-protection-text2 = { -brand-short-name } a skoazell da herzel lec'hiennoù da heuliañ ac'hanoc'h enlinenn, evit ma vefe diaesoc'h d'ar bruderezh da heuliañ ac'hanoc'h er web.
+onboarding-tracking-protection-button2 = Penaos ec'h a en-dro
+onboarding-data-sync-title = Kemerit hoc'h arventennoù ganeoc'h
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Goubredit ho sinedoù, gerioù-tremen ha muioc'h c'hoazh e pep lec'h ma arverit { -brand-product-name }.
+onboarding-data-sync-button2 = Kennaskañ da { -sync-brand-short-name }
 
 ## Message strings belonging to the Return to AMO flow
 

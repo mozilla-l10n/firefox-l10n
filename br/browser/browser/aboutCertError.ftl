@@ -38,5 +38,9 @@ cert-error-domain-mismatch-multiple = Gant testenioù e vez prouet pivelezh al l
 # $not-after-local-time (Date) - Certificate is not valid after this time.
 cert-error-expired-now = Gant testenioù e vez prouet pivelezhioù al lec'hiennoù, a zo talvoudek evit ur padelezh termenet hepken. An testeni evit { $hostname } a ziamzero { $not-after-local-time }.
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = Prouet e vez pivelezh al lec'hiennoù gant testenioù, a zo talvoudek evit ur pennad amzer termenet. Ne vo ket talvoudek testeni { $hostname } a-raok { $not-before-local-time }.
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Boneg fazi: <a data-l10n-name="error-code-link">{ $error }</a>
