@@ -294,6 +294,14 @@ update-pref-write-failure-title = Eșec la scriere
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Nu se poate salva preferința. Nu s-a putut scrie în fișier: { $path }
 update-setting-write-failure-title = Eroare la salvarea preferințelor de actualizare
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } a întâmpinat o eroare și nu a salvat această modificare. Reține că setarea acestei preferințe de actualizare necesită permisiunea de a scrie în fișierul de mai jos. Poți rezolva eroarea tu sau administratorul sistemului acordând grupului de utilizatori control deplin asupra acestui fișier.
+    
+    Nu s-a putut scrie în fișierul: { $path }
 update-in-progress-title = Actualizare în curs
 update-in-progress-message = Vrei ca { -brand-short-name } să continue cu această actualizare?
 update-in-progress-ok-button = &Renunță
