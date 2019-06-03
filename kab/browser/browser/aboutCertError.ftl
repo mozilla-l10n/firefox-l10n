@@ -5,6 +5,9 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } iseqdac aselkin n tɣellist arameɣtu.
+cert-error-mitm-intro = Ismal web skanayn-d tamagit-nsen s iselkinen, itesefrak takebbanit n iselkinen.
+cert-error-mitm-mozilla = { -brand-short-name } tettwaḥrez sɣur takebbanit Mozilla ur ittnadin ara ɣef rbeḥ, isefraken alzuz n iselkinen yeldin s umata (CA). Alzuz n iselkinen CA ittmudu-d tallelt i suqdec deg taɣelist.
+cert-error-mitm-connection = { -brand-short-name } iseqdac alzuz CA Mozilla akken ad isenqed tuqqna taɣelsant, deg wadeg n iselkinen n unagraw n wamud n useqdac, ihi ma yella useɣẓan n mgalavirus neɣ aẓeṭṭa iseqdac aselkin mačči n Mozilla ihi tuqqna ad tettwaḥsab mačči d taɣelsant.
 cert-error-trust-unknown-issuer-intro = Yezmer ad yili walbaɛḍ i iɛarḍen ad yakwer tamagit n usmel, ur issefk ara ad tkemleḍ.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
