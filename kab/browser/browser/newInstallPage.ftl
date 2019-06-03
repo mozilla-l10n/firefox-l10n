@@ -11,6 +11,7 @@ title = Isallen s wazal
 heading = Bedel ɣer umaɣnu { -brand-short-name }
 changed-title = Acu Ibedlen?
 changed-desc-profiles = Asebded-agi n { -brand-short-name } yesɛa amaɣnu amaynut. Amaɣnu d agraw n ifuyla anida Firefox yesseklas talɣut am Ticraḍ n isebtar, awalen uffiren, akked Ismenyifen n useqdac.
+changed-desc-dedicated = ùù*ùùùù$^**
 options-title = D acu-tent tixtirin-inu?
 resources = Tiɣbula:
 sync-header = Kcem neɣ snulfu-d { -fxaccount-brand-name }
