@@ -15,6 +15,7 @@ about-telemetry-option-group-older = Tuichave
 about-telemetry-previous-ping = < <
 about-telemetry-next-ping = > >
 about-telemetry-page-title = Telemetría mba'ekuaarã
+about-telemetry-current-store = Ñembyatyha ag̃agua:
 about-telemetry-more-information = ¿Ehekavépa marandu?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox mba'ekuaarã kuatia</a> oguereko guataha mba'éichapa emba'apova'erã mba'ekuaarã rembipuru rehegua.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Telemetry Firefox mba'éva kuatiatee</a> ogueroike mba'e ñemyesakã, API kuatiatee ha mba'ekuaarã rehegua.
