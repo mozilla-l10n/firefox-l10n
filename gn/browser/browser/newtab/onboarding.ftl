@@ -78,7 +78,10 @@ onboarding-send-tabs-button = Eipurúkatu Send Tabs
 onboarding-pocket-anywhere-title = Emoñe’ẽ ha ehendu opa hendápe
 onboarding-pocket-anywhere-text2 = Eñongatu pe tetepy eguerohoryvéva ñanduti’ỹre tembipuru’i rupive { -pocket-brand-name } ha emoñe’ẽ, ehendu térã ehecha ehechase vove.
 onboarding-pocket-anywhere-button = Eipuru { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Egueraha ne ñe’ẽñemi opa hendápe
+onboarding-lockwise-passwords-text2 = Emohekorosã ne ñe’ẽñemi eñongatúva ha emoñepyrũ tembiapo hasy’ỹ hag̃uáicha ne mba’ete { -lockwise-brand-name } ndive.
 onboarding-lockwise-passwords-button2 = Eguerekóke tembipuru'i
+onboarding-facebook-container-title = Eikuaauka hu’ã con Facebook ndive
 onboarding-facebook-container-button = Embojuaju jepysokue
 
 ## Message strings belonging to the Return to AMO flow
