@@ -43,6 +43,8 @@ about-debugging-sidebar-item-connect-button = Jeike
 about-debugging-sidebar-item-connect-button-connecting = Oikehína...
 # Text displayed in buttons found in sidebar items when the connection failed.
 about-debugging-sidebar-item-connect-button-connection-failed = Ojavy jeike
+# Text displayed as connection error in sidebar item when the connection has timed out.
+about-debugging-sidebar-item-connect-button-connection-timeout = Jeike imbeguetereíma
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Jeikepyre
