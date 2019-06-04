@@ -14,3 +14,12 @@ update-pref-write-failure-title = Schrijffout
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Kan voorkeur niet opslaan. Kon niet schrijven naar bestand: { $path }
+
+update-in-progress-title = Update wordt uitgevoerd
+
+update-in-progress-message = Wilt u dat { -brand-short-name } doorgaat met deze update?
+
+update-in-progress-ok-button = &Verwerpen
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Doorgaan
