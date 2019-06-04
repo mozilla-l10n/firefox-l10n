@@ -6,6 +6,12 @@ process-type-web = Веб-вміст
 # process used to run privileged pages,
 # such as about:home
 process-type-privileged = Привілейований вміст
+# process used to run privileged about pages,
+# such as about:home
+process-type-privilegedabout = Привілейований About
+# process used to run privileged mozilla pages,
+# such as accounts.firefox.com
+process-type-privilegedmozilla = Привілейований вміст Mozilla
 process-type-extension = Розширення
 # process used to open file:// URLs
 process-type-file = Локальний файл
