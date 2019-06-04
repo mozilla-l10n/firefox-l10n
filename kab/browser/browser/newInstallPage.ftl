@@ -13,6 +13,7 @@ changed-title = Acu Ibedlen?
 changed-desc-profiles = Asebded-agi n { -brand-short-name } yesɛa amaɣnu amaynut. Amaɣnu d agraw n ifuyla anida Firefox yesseklas talɣut am Ticraḍ n isebtar, awalen uffiren, akked Ismenyifen n useqdac.
 changed-desc-dedicated = I wakken ad yifsus u  ad yili d aɣelsan useqdec n usebded n Firefox ( am Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition, Akked Firefox Nightly), asebded-agi yesɛa amaɣnu yettunefken. Ur ibeṭṭu ara s wudem awurman talɣut-ik yetwaskelsen akked isebdaden Firefox nniḍen.
 options-title = D acu-tent tixtirin-inu?
+options-do-nothing = Ma ulac acu txedmeḍ, isefka yellan deg umaɣnu-inek di { -brand-short-name } ad mgaraden ɣer isefka n umaɣnu deg usebded n Firefox nniḍen.
 resources = Tiɣbula:
 sync-header = Kcem neɣ snulfu-d { -fxaccount-brand-name }
 sync-label = Sekcem imayl inek
