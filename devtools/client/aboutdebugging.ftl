@@ -82,9 +82,6 @@ about-debugging-refresh-usb-devices-button = 기기 새로고침
 about-debugging-setup-title = 설정
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = 장치를 원격으로 디버깅할 연결 방법을 구성합니다.
-# Link displayed in the Setup page that leads to MDN page with list of supported devices.
-# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
-about-debugging-setup-link-android-devices = 지원되는 Android 기기 목록 보기
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = 이 버전의 { -brand-shorter-name }에서 탭, 확장기능 및 서비스 워커를 디버그하려면 <a>{ about-debugging-this-firefox-runtime-name }</a>를 사용하십시오.
 # Title of the heading Connect section of the Setup page.
@@ -105,12 +102,6 @@ about-debugging-setup-usb-updating-button = 업데이트 중…
 about-debugging-setup-usb-status-enabled = 사용함
 about-debugging-setup-usb-status-disabled = 사용 안 함
 about-debugging-setup-usb-status-updating = 업데이트 중…
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu = Android 기기에서 개발자 메뉴를 활성화합니다. <a>방법 알아보기</a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug = Android 개발자 메뉴에서 USB 디버깅을 활성화합니다. <a>방법 알아보기</a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox = Android 기기에서 Firefox에서의 USB 디버깅을 활성화합니다. <a>방법 알아보기</a>
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = Android 기기에서 개발자 메뉴를 활성화합니다.
 # USB section step by step guide
@@ -215,11 +206,6 @@ about-debugging-connection-prompt-enable-button = 연결 프롬프트 사용
 about-debugging-connection-prompt-disable-button = 연결 프롬프트 사용안함
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
 about-debugging-profiler-dialog-title2 = 프로파일러
-# Label of a checkbox displayed in the runtime page for "This Firefox".
-# This checkbox will toggle preferences that enable local addon debugging.
-# The "Learn more" link points to MDN.
-# https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
-about-debugging-extension-debug-setting-label = 확장기능 디버깅을 사용합니다. <a>자세히 알아보기</a>
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
@@ -308,3 +294,9 @@ about-debugging-main-process-description2 = 대상 브라우저의 메인 프로
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = 메시지 닫기
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = 오류 세부 정보
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = 경고 세부 정보
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = 상세 정보

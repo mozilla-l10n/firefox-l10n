@@ -141,3 +141,6 @@ about-telemetry-origin-count = 카운트
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a>는 전송되기 전에 데이터를 인코딩하여 { $telemetryServerOwner }가 항목의 수를 셀 수는 있지만, 주어진 { -brand-product-name }가 해당 카운트에 기여했는지 여부는 알 수 없습니다. (<a data-l10n-name="prio-blog-link">더 알아보기</a>)
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = { $process } 프로세스

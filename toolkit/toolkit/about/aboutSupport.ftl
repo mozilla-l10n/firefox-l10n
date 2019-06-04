@@ -82,6 +82,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = 의사결정 로그
 graphics-crash-guards-title = 크래시 보호 비활성화 기능
 graphics-workarounds-title = 회피방법
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = 윈도우 프로토콜
 place-database-title = 위치 데이터베이스
 place-database-integrity = 무결성
 place-database-verify-integrity = 무결성 확인

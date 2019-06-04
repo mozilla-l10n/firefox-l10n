@@ -19,6 +19,7 @@ inactive-css-not-grid-item = 그리드 항목이 아니기 때문에 <strong>{ $
 inactive-css-not-grid-container = 그리드 컨테이너가 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
 inactive-css-not-flex-item = 플렉스 항목이 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
 inactive-css-not-flex-container = 플렉스 컨테이너가 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
+inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong>는 inline 또는 table-cell 요소가 아니기 때문에 이 요소에 아무런 영향을 미치지 않습니다.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -30,3 +31,4 @@ inactive-css-not-grid-item-fix = <strong>display:grid</strong> 또는 <strong>di
 inactive-css-not-grid-container-fix = <strong>display:grid</strong> 또는 <strong>display:inline-grid</strong>을 추가하십시오. { learn-more }
 inactive-css-not-flex-item-fix = <strong>display:flex</strong> 또는 <strong>display:inline-flex</strong>을 항목의 부모에 추가하십시오. { learn-more }
 inactive-css-not-flex-container-fix = <strong>display:flex</strong> 또는 <strong>display:inline-flex</strong>을 추가하십시오. { learn-more }
+inactive-css-not-inline-or-tablecell-fix = <strong>display:inline</strong> 또는 <strong>display:table-cell</strong>을 추가해 보십시오. { learn-more }

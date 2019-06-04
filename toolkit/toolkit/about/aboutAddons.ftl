@@ -95,7 +95,7 @@ detail-update-manual =
 detail-private-browsing-label = 사생활 보호 모드에서 실행
 detail-private-browsing-description2 = 허용되면, 확장 기능은 사생활 보호 브라우징 중에 사용자 온라인 활동에 접근할 수 있습니다. <label data-l10n-name="detail-private-browsing-learn-more">더 알아보기</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
-# cannot be overriden by the user.
+# cannot be overridden by the user.
 detail-private-disallowed-label = 사생활 보호 창에서 허용안됨
 detail-private-disallowed-description = 이 확장기능은 사생활 보호 모드에서는 실행되지 않습니다. <label data-l10n-name="detail-private-browsing-learn-more">더 알아보기</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
@@ -349,6 +349,11 @@ addon-badge-private-browsing-allowed =
 addon-detail-private-browsing-help = 허용된 경우, 확장기능은 사생활 보호 브라우징 중에 온라인 활동에 접근 할 수 있습니다. <a data-l10n-name="learn-more">더 알아보기</a>
 addon-detail-private-browsing-allow = 허용
 addon-detail-private-browsing-disallow = 허용하지 않음
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = 추천
+    .alt = 추천
 available-updates-heading = 업데이트 가능 항목
 recent-updates-heading = 최근 업데이트
 release-notes-loading = 읽는 중…

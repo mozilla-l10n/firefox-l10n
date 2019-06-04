@@ -278,6 +278,21 @@ update-pref-write-failure-title = 쓰기 실패
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = 환경 설정을 저장할 수 없습니다. 파일에 쓸 수 없습니다: { $path }
+update-setting-write-failure-title = 업데이트 설정 저장 중 오류 발생
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    오류가 발생하여 { -brand-short-name }가 이 변경 내용을 저장하지 않았습니다. 이 업데이트 환경 설정을 하려면 아래 파일에 쓰기 권한이 필요합니다. 사용자나 시스템 관리자가 사용자 그룹에 이 파일에 대한 모든 권한을 부여하여 오류를 해결할 수 있습니다.
+    
+    파일에 쓸 수 없음: { $path }
+update-in-progress-title = 업데이트 진행 중
+update-in-progress-message = { -brand-short-name }가 이 업데이트를 계속하길 원하십니까?
+update-in-progress-ok-button = 취소
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = 계속
 
 ## General Section - Performance
 
@@ -351,7 +366,7 @@ home-restore-defaults =
 home-mode-choice-default =
     .label = Firefox 홈페이지(기본값)
 home-mode-choice-custom =
-    .label = 사용자 정의 URL…
+    .label = 사용자 지정 URL…
 home-mode-choice-blank =
     .label = 빈 페이지
 home-homepage-custom-url =
@@ -561,7 +576,7 @@ history-remember-option-all =
 history-remember-option-never =
     .label = 방문 기록 저장 안 함
 history-remember-option-custom =
-    .label = 방문 기록 사용자 정의 설정 사용
+    .label = 방문 기록 사용자 지정 설정 사용
 history-remember-description = { -brand-short-name }가 탐색과 다운로드, 서식, 검색 히스토리를 저장합니다.
 history-dontremember-description = { -brand-short-name }는 사생활 보호 모드와 같은 설정을 가지며 웹 사이트 방문 중 어떤 기록도 저장하지 않습니다.
 history-private-browsing-permanent =
@@ -654,7 +669,7 @@ content-blocking-setting-strict =
     .label = 엄격
     .accesskey = r
 content-blocking-setting-custom =
-    .label = 사용자 정의
+    .label = 사용자 지정
     .accesskey = C
 content-blocking-standard-description = 사생활 보호 창에서 알려진 추적기만 차단합니다.
 content-blocking-standard-desc = 보호와 성능 사이의 균형을 유지합니다. 웹 사이트가 제대로 작동하도록 일부 추적기를 허용합니다.
