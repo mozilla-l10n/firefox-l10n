@@ -799,7 +799,7 @@ addon-recommendations-link = Saiba mais
 # or builds with no Telemetry support available.
 collection-health-report-disabled = O relatório de dados está desativado nesta configuração
 collection-backlogged-crash-reports =
-    .label = Permitir que o { -brand-short-name } envie relatórios de travamento em seu nome
+    .label = Permitir que o { -brand-short-name } envie relatos de travamento em seu nome
     .accesskey = e
 collection-backlogged-crash-reports-link = Saiba mais
 
