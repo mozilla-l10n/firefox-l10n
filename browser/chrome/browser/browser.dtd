@@ -534,7 +534,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
-<!ENTITY customizeMenu.reportExtension.label "Reportar extensão">
+<!ENTITY customizeMenu.reportExtension.label "Denunciar extensão">
 <!ENTITY customizeMenu.reportExtension.accesskey "o">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -1048,13 +1048,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fingerprinters.label "Fingerprinters (rastreadores de identidade digital)">
 <!ENTITY contentBlocking.fingerprintersView.label "Fingerprinters (rastreadores de identidade digital)">
 
-<!ENTITY contentBlocking.openBreakageReportView2.label "Reportar um problema">
-<!ENTITY contentBlocking.breakageReportView.label "Reportar problemas">
-<!ENTITY contentBlocking.breakageReportView2.description "O bloqueio de conteúdo pode causar problemas com alguns sites. Quando você reportar problemas, ajudará a tornar o &brandShortName; melhor para todos. (Será enviada uma URL, bem como informações sobre suas configurações do navegador, à Mozilla).">
+<!ENTITY contentBlocking.openBreakageReportView2.label "Relatar um problema">
+<!ENTITY contentBlocking.breakageReportView.label "Relatar problemas">
+<!ENTITY contentBlocking.breakageReportView2.description "O bloqueio de conteúdo pode causar problemas com alguns sites. Ao relatar problemas, você ajuda a tornar o &brandShortName; melhor para todos (o endereço da página é enviado à Mozilla, bem como informações sobre as configurações do navegador).">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Saiba mais">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
-<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Quais problemas você teve? (Opcional)">
-<!ENTITY contentBlocking.breakageReportView.sendReport.label "Enviar relatório">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Que problemas você teve? (opcional)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Enviar relato">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Cancelar">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
