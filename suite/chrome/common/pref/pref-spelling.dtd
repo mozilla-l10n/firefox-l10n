@@ -4,7 +4,7 @@
    
 <!ENTITY prefSpelling.title                   "Escrita">
 <!ENTITY generalSpelling.label                "Geral">
-<!ENTITY checkSpellingWhenTyping.label        "Ao escrever, verificar a escrita:">
+<!ENTITY checkSpellingWhenTyping.label        "Ao escrever, verificar a minha ortografia:">
 <!ENTITY checkSpellingWhenTyping.accesskey    "A">
 <!ENTITY dontCheckSpelling.label              "Nunca">
 <!ENTITY multilineCheckSpelling.label         "Em múltiplas caixas">
