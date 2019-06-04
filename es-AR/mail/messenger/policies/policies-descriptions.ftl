@@ -12,12 +12,14 @@
 
 policy-3rdparty = Establezca políticas a las que WebExtensions pueda acceder mediante chrome.storage.managed.
 policy-AppUpdateURL = Establecer la URL de actualización de la aplicación personalizada.
+policy-Authentication = Configure la autenticación integrada para los sitios web que la soportan.
 policy-BlockAboutAddons = Bloquear acceso al administrador de complementos (about:addons).
 policy-BlockAboutConfig = Bloquear acceso a la página about:config.
 policy-BlockAboutProfiles = Bloquear acceso a la página about:profiles.
 policy-BlockAboutSupport = Bloquear acceso a la página about:support.
 policy-CaptivePortal = Habilitar o deshabilitar el soporte de portal cautivo.
 policy-CertificatesDescription = Agregar certificados o usar los certificados integrados.
+policy-Cookies = Permitir o denegar que los sitios web guarden cookies.
 policy-DefaultDownloadDirectory = Establecer el directorio de descargas predeterminado.
 policy-DisableAppUpdate = Evitar que { -brand-short-name } se actualice.
 policy-DisableDeveloperTools = Bloquear acceso a las herramientas de desarrollador.
