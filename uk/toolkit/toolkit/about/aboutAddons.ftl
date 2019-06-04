@@ -321,6 +321,11 @@ addon-detail-version-label = Версія
 addon-detail-last-updated-label = Востаннє оновлено
 addon-detail-homepage-label = Домівка
 addon-detail-rating-label = Оцінка
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Оцінка { NUMBER($rating, maximumFractionDigits: 1) } з 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -337,3 +342,30 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> було вилучено.
+pending-uninstall-undo-button = Повернути
+addon-detail-updates-label = Дозволити автоматичне оновлення
+addon-detail-updates-radio-default = Типово
+addon-detail-updates-radio-on = Увімкнено
+addon-detail-updates-radio-off = Вимкнено
+addon-detail-update-check-label = Перевірити оновлення
+install-update-button = Оновити
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Дозволено в приватних вікнах
+addon-detail-private-browsing-help = Якщо дозволено, розширення матиме доступ до вашої діяльності в режимі приватного перегляду. <a data-l10n-name="learn-more">Докладніше</a>
+addon-detail-private-browsing-allow = Дозволити
+addon-detail-private-browsing-disallow = Не дозволяти
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Рекомендовано
+    .alt = Рекомендовано
+available-updates-heading = Доступні оновлення
+recent-updates-heading = Недавні оновлення
+release-notes-loading = Завантаження…
+release-notes-error = На жаль, під час завантаження приміток до випуску сталася помилка.
+addon-permissions-empty = Це розширення не потребує дозволів
