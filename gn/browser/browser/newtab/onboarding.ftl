@@ -26,6 +26,7 @@ onboarding-join-form-body = Eñepyrũ hag̃ua, ehai ne ñanduti veve kundaharape
 onboarding-join-form-email =
     .placeholder = Ehai ñandutiveve kundaharape
 onboarding-join-form-email-error = Eikotevẽ ñandutiveve oikóva
+onboarding-join-form-legal = Eku’ejeývo, emoneĩma umi <a data-l10n-name="terms">Mba'epytyvõrã ñemboguata</a> ha <a data-l10n-name="privacy">Temiñemi purureko</a>.
 onboarding-join-form-continue = Eku'ejey
 onboarding-start-browsing-button-label = Eñepyrũ eikundaha
 
@@ -33,8 +34,16 @@ onboarding-start-browsing-button-label = Eñepyrũ eikundaha
 ## description.
 
 onboarding-benefit-products-title = Apopyre oikóva
+onboarding-benefit-products-text = Ejapo mba’e tembipuru aty ndive omomba’éva iñemigua opaite imba’e’okápe.
 onboarding-benefit-knowledge-title = Kuaapy jepurukuaa
+onboarding-benefit-knowledge-text = Eikuaa eikotevẽva eime hag̃ua ñandutípe kuaapy ha tekorosãme.
 onboarding-benefit-privacy-title = Ñemigua añetetéva
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Rojapóva guive omomba’e mba’ekuaarã nemba’éva: E’u’ive. Eguereko tekorosãme. Kañygua’ỹre.
 
 ## These strings belong to the individual onboarding messages.
 
