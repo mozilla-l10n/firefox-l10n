@@ -34,5 +34,13 @@ cert-error-domain-mismatch-single-nolink = Umi ñanduti renda ohechauka heratee 
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
 cert-error-domain-mismatch-multiple = Umi ñanduti renda ohechauka heratee mboajepyre rupive. { -brand-short-name } ndojeroviái ko tendáre oipuru rupi mboajepyre ndoikóiva { $hostname } peg̃uarã. Pe mboajepyre oiko ko’ã térape g̃uarã añónte. { $subject-alt-names }
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = Umi ñanduti renda ohechauka heratee mboajepyre rupive, oikóva ndahetái ára. Pe mboajepyre { $hostname } peg̃uarã ndoikovéima { $not-after-local-time }-pe.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = Umi ñanduti renda ohechauka heratee mboajepyre rupive, oikóva ndahetái ára. Pe mboajepyre { $hostname } pegua oikojeýta { $not-before-local-time } rupive añoite.
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Ayvu jejavy; <a data-l10n-name="error-code-link">{ $error }</a>
