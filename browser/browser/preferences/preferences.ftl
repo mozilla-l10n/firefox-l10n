@@ -317,6 +317,26 @@ update-pref-write-failure-title = Fejl med at gemme
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Kunne ikke gemme indstillingen. Kunne ikke skrive til filen: { $path }
 
+update-setting-write-failure-title = Error saving Update preferences
+
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } stødte på en fejl og gemte ikke denne ændring. Bemærk at det kræver adgang til at skrive til filen nedenfor at sætte denne indstilling for opdatering. Du eller en systemadministrator kan måske løse problemet ved at give gruppen Users fuld kontrol over denne fil.
+
+    Kunne ikke skrive til filen: { $path }
+
+update-in-progress-title = Opdatering i gang
+
+update-in-progress-message = Vil du have, at { -brand-short-name } fortsætter med denne opdatering?
+
+update-in-progress-ok-button = &Annuller
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Fortsæt
+
 ## General Section - Performance
 
 performance-title = Ydelse
