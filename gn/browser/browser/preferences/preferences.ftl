@@ -34,6 +34,7 @@ policies-notice =
         [windows] Nde atyguasu omboguéma ikatúva omambue heta Jeporavorã.
        *[other] Nde atyguasu omboguéma ikatúva omambue heta jererohoryvéva.
     }
+managed-notice = Pe kundaha rehe oñangareko atyguasu.
 pane-general-title = Tuichakue
 category-general =
     .tooltiptext = { pane-general-title }
@@ -291,6 +292,7 @@ update-pref-write-failure-title = Ojavy jehai
 update-pref-write-failure-message = Ndaikatúi eñongatu pe jeguerohoryvéva. Ndaikatúi ehai marandurendápe: { $path }
 update-setting-write-failure-title = Ojavy eñongatúvo mbohekopyahu eguerohoryvéva
 update-in-progress-title = Oñembohekopyahuhína
+update-in-progress-message = ¿Eipotápa { -brand-short-name } omongu’ejey ñembohekopyahu?
 update-in-progress-ok-button = &Hejarei
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
