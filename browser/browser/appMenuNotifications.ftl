@@ -45,4 +45,5 @@ appmenu-addon-private-browsing =
     .buttonaccesskey = M
     .secondarybuttonlabel = ശരി, മനസിലായി
     .secondarybuttonaccesskey = o
+appmenu-addon-private-browsing-message = നിങ്ങൾ ക്രമീകരണങ്ങളിൽ ഇത് അനുവദിച്ചില്ലെങ്കിൽ { -brand-shorter-name }ൽ ചേർക്കുന്ന പുതിയ വിപുലീകരണങ്ങൾ സ്വകാര്യ ജാലകത്തിൽ  പ്രവർത്തിക്കില്ല.
 appmenu-addon-private-browsing-learn-more = വിപുലീകരണ ക്രമീകരണങ്ങൾ എങ്ങനെ നിയന്ത്രിക്കാമെന്ന് മനസിലാക്കുക
