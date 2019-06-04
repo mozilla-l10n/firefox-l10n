@@ -22,6 +22,8 @@
 <!ENTITY firstrun_sync_subtext2 "&brandShortName; உலாவியில் நீங்கள் சேமிக்கும் புத்தகக்குறிகள், கடவுச்சொற்கள், பிறவற்றை உங்கள் எல்லா கருவிகளிலும் எடுக்க ஒத்திசைவைப் பயன்படுத்தவும்.">
 <!ENTITY firstrun_signin_message "இணையுங்கள், தொடங்குங்கள்">
 <!ENTITY firstrun_signin_button "ஒத்திசைக்க உள்நுழை">
+<!ENTITY newfirstrun_signin_button "ஒத்திசைவை இயக்கு">
+<!ENTITY updatednewfirstrun_signin_button "&brandShortName; செயலியில் உள்நுழைக">
 <!ENTITY  onboard_start_button_browser "உலாவத் தொடங்குக">
 <!ENTITY firstrun_button_notnow "இப்போது இல்லை">
 <!ENTITY firstrun_button_next "அடுத்தது">
@@ -63,6 +65,9 @@
 <!ENTITY  crash_restart_label "&brandShortName;ஐ மறுதுவக்கவும்">
 
 <!ENTITY url_bar_default_text2 "தேடு/முகவரியை உள்ளிடு">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -335,6 +340,8 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "அமைவுகளுக்கு செல்">
+<!-- Localization note (tab_queue_notification_prompt): This is the text of the default notification
+shown from Android O while a tab is being queued.-->
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -393,14 +400,15 @@
 <!ENTITY pref_private_data_searchHistory "தேடல் வரலாறு">
 <!ENTITY pref_private_data_formdata2 "படிவம் வரலாறு">
 <!ENTITY pref_private_data_cookies2 "நினைவிகள் &amp; செயற்பாட்டிலுள்ள உள்நுழைவுகள்">
-<!ENTITY pref_private_data_passwords2 "சேமிக்கப்பட்ட புகுபதிகைகள்">
 <!ENTITY pref_private_data_cache "இடையகம்">
 <!ENTITY pref_private_data_offlineApps "இணைப்பில்லாத இணையதள தரவு">
 <!ENTITY pref_private_data_siteSettings2 "இணையத்தள அமைவுகள்">
 <!ENTITY pref_private_data_downloadFiles2 "பதிவிறக்கங்கள்">
 <!ENTITY pref_private_data_syncedTabs "ஒத்திசைக்கப்பட்ட கீற்றுகள்">
 
-<!ENTITY pref_default_browser "முன்னிருப்பு">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY pref_default_browser_mozilla_support_tablet "மொசில்லா ஆதரவை பார்வையிடு">
 <!ENTITY pref_about_firefox "&brandShortName;வைப் பற்றி">
 <!ENTITY pref_vendor_faqs "அடிக்கடி கேட்கப்படும் கேள்விகளும் பதில்களும்">
@@ -495,6 +503,9 @@
 <!ENTITY find_prev "முந்தையது">
 <!ENTITY find_next "அடுத்தது">
 <!ENTITY find_close "மூடு">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -656,6 +667,7 @@
 <!ENTITY filepicker_audio_title "ஒரு ஒலி தேர்வு அல்லது பதிவு">
 <!ENTITY filepicker_image_title "தேர்ந்தெடு அல்லது ஒரு படத்தை எடு">
 <!ENTITY filepicker_video_title "ஒரு படத் தேர்வு அல்லது பதிவு">
+
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "நீங்கள் இதனுடன் இணைக்கப்பட்டுள்ளீர்கள்">
