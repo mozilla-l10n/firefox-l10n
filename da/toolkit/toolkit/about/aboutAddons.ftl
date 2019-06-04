@@ -346,6 +346,15 @@ disable-addon-button = Deaktiver
 enable-addon-button = Aktiver
 expand-addon-button = Flere indstillinger
 
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Indstillinger
+       *[other] Indstillinger
+    }
+details-addon-button = Detaljer
+release-notes-addon-button = Udgivelsesnoter
+permissions-addon-button = Tilladelser
+
 addons-enabled-heading = Aktiveret
 addons-disabled-heading = Deaktiveret
 
@@ -401,5 +410,16 @@ addon-detail-private-browsing-help = Udvidelsen har adgang til dine aktiviteter 
 addon-detail-private-browsing-allow = Tillad
 addon-detail-private-browsing-disallow = Tillad ikke
 
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+  .title = Anbefalet
+  .alt = Anbefalet
+
 available-updates-heading = Tilgængelige opdateringer
 recent-updates-heading = Seneste opdateringer
+
+release-notes-loading = Indlæser…
+release-notes-error = Der opstod desværre en fejl under indlæsning af udgivelsesnoterne.
+
+addon-permissions-empty = Denne udvidelse kræver ingen tilladelser

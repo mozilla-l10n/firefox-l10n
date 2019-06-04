@@ -425,3 +425,12 @@ about-debugging-main-process-description2 = Hoved-proces for mål-browser
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
   .alt = Luk besked
+
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = Detaljer om fejl
+
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = Detaljer om advarsel
+
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = Detaljer
