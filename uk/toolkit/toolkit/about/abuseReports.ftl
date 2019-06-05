@@ -31,9 +31,23 @@ abuse-report-submit-button = Відправити
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+abuse-report-messagebar-aborted = Скаргу на <span data-l10n-name="addon-name">{ $addon-name }</span> скасовано.
+abuse-report-messagebar-submitting = Надсилання скарги на <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-submitted = Дякуємо за надсилання скарги. Хочете вилучити <span data-l10n-name="addon-name">{ $addon-name }</span>?
+abuse-report-messagebar-submitted-noremove = Дякуємо за надсилання скарги.
+abuse-report-messagebar-removed-extension = Дякуємо за надсилання скарги. Ви вилучили розширення <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-theme = Дякуємо за надсилання скарги. Ви вилучили тему <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error = Сталася помилка під час надсилання скарги на <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error-recent-submit = Скаргу на <span data-l10n-name="addon-name">{ $addon-name }</span> не було надіслано, тому що недавно було відправлено іншу скаргу.
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove-extension = Так, вилучити
+abuse-report-messagebar-action-keep-extension = Ні, залишити
+abuse-report-messagebar-action-remove-theme = Так, вилучити
+abuse-report-messagebar-action-keep-theme = Ні, залишити
+abuse-report-messagebar-action-retry = Повторити спробу
+abuse-report-messagebar-action-cancel = Скасувати
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
