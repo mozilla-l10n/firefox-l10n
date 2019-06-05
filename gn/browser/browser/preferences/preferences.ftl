@@ -291,6 +291,14 @@ update-pref-write-failure-title = Ojavy jehai
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Ndaikatúi eñongatu pe jeguerohoryvéva. Ndaikatúi ehai marandurendápe: { $path }
 update-setting-write-failure-title = Ojavy eñongatúvo mbohekopyahu eguerohoryvéva
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } ojuhu jejavy ha noñongatúi ko moambuepy. Ehechakuaáke pe ñemboheko ko jegueroryvéva ñemboheko rehegua oikotevẽ ñemoneĩ ehai hag̃ua marandurendápe ag̃a guive. Ikatuhína nde térã peteĩ ñangarekoha apopyvusu rehegua ikatu omoĩporã jejavy ome’ẽvo Puruha atýpe oñangarekóvo ko marandurenda rehe.
+    
+    Ndaikatúi ojehai marandurendápe: { $path }
 update-in-progress-title = Oñembohekopyahuhína
 update-in-progress-message = ¿Eipotápa { -brand-short-name } omongu’ejey ñembohekopyahu?
 update-in-progress-ok-button = &Hejarei
@@ -662,6 +670,7 @@ addressbar-suggestions-settings = Jerohoryvéva jehekaha mongu'eha je'epyre momb
 
 content-blocking-header = Ejoko tetepy
 content-blocking-description = Ejoko pe tetepy mbohapyháva ohapykuehóva ñandutípe. Eñangareko hembiapo ñanduti pegua ombyaty ha omoherakuãramo ambue ñanduti renda ndive.
+content-blocking-section-description = Emo’ã nde rekoñemi eikundahakuévo. Ejoko tetepy ohapykuehóva umi tenda eike hague ha ojapo mba’ete. Ejokóvo ndahetái tetepy ikatuhína ombopya’eve kuatiarogue ñemyenyhẽ.
 content-blocking-learn-more = Eikuaave
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
