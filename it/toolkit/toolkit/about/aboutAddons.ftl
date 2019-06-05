@@ -353,3 +353,6 @@ recent-updates-heading = Aggiornamenti recenti
 release-notes-loading = Caricamento in corso…
 release-notes-error = Siamo spiacenti, si è verificato un errore nel caricamento delle note di versione.
 addon-permissions-empty = Questa estensione non richiede alcun permesso
+recommended-extensions-heading = Estensioni consigliate
+recommended-themes-heading = Temi consigliati
+recommended-theme-1 = Ti senti creativo? <a data-l10n-name="link">Disegna il tuo tema con Firefox Color</a>.
