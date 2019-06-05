@@ -1,4 +1,4 @@
-<!ENTITY options.title "Developer Tools Options">
-<!ENTITY options.status.label "Status:">
-<!ENTITY options.port.label "Port:">
-<!ENTITY options.forcelocal.label "Allow connections from other computers">
+<!ENTITY options.title "Agordoj de programistaj iloj">
+<!ENTITY options.status.label "Stato:">
+<!ENTITY options.port.label "Pordo:">
+<!ENTITY options.forcelocal.label "Permesi konektojn el aliaj komputiloj">
