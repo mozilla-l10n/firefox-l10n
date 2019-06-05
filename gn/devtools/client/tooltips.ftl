@@ -27,3 +27,8 @@ inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> ndoguerek�
 
 inactive-css-not-grid-or-flex-container-fix = Eñeha’ã embojuaju <strong>display:grid</strong> térã <strong>display:flex</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix = Eñeha’ã embojuaju  <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> térã <strong>display:inline-flex</strong>. { learn-more }
+inactive-css-not-grid-item-fix = Eñeha’ã embojuaju <strong>display:grid</strong> térã <strong>display:inline-grid</strong> item túvate. { learn-more }
+inactive-css-not-grid-container-fix = Eñeha’ã embojuaju <strong>display:grid</strong> térã <strong>display:inline-grid</strong>. { learn-more }
+inactive-css-not-flex-item-fix = Eñeha’ã embojuaju <strong>display:grid</strong> térã <strong>display:inline-flex</strong> item túvate. { learn-more }
+inactive-css-not-flex-container-fix = Eñeha’ã embojuaju <strong>display:flex</strong> térã <strong>display:inline-flex</strong>. { learn-more }
+inactive-css-not-inline-or-tablecell-fix = Eñeha’ã embojuaju <strong>display:inline</strong> térã <strong>display:table-cell</strong>. { learn-more }
