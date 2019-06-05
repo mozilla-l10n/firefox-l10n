@@ -51,3 +51,32 @@ abuse-report-messagebar-action-cancel = Скасувати
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason = Пошкодження комп'ютера і даних
+abuse-report-damage-example = Наприклад: Зловмисне програмне забезпечення чи викрадання даних
+abuse-report-spam-reason = Створення спаму чи реклами
+abuse-report-spam-example = Наприклад: Додавання реклами на веб-сторінках
+abuse-report-settings-reason = Зміна пошукового засобу, домівки чи сторінки нової вкладки без мого дозволу
+abuse-report-settings-suggestions = Перед надсиланням скарги ви можете спробувати змінити налаштування:
+abuse-report-settings-suggestions-search = Зміна типового пошукового засобу
+abuse-report-settings-suggestions-homepage = Зміна домівки і сторінки нової вкладки
+abuse-report-deceptive-reason = Видавання себе за щось інше
+abuse-report-deceptive-example = Наприклад: Опис чи зображення, що вводять в оману
+abuse-report-broken-reason-extension = Не працює, пошкоджує веб-сайти, або сповільнює роботу { -brand-product-name }
+abuse-report-broken-reason-theme = Не працює чи пошкоджує вигляд браузера
+abuse-report-broken-example = Наприклад: Повільна робота, труднощі з використанням, або не працює; частини веб-сайтів не завантажуються, або виглядають незвично
+abuse-report-broken-suggestions-extension =
+    Схоже, ви виявили помилку. Окрім надсилання скарги, найкращим способом
+    вирішення проблеми буде зв'язок із розробником розширення.
+    <a data-l10n-name="support-link">Відвідайте веб-сайт розширення</a> для отримання інформації про розробника.
+abuse-report-broken-suggestions-theme =
+    Схоже, ви виявили помилку. Окрім надсилання скарги, найкращим способом
+    вирішення проблеми буде зв'язок із розробником теми.
+    <a data-l10n-name="support-link">Відвідайте веб-сайт теми</a> для отримання інформації про розробника.
+abuse-report-policy-reason = Вміст з ненавистю, насильством чи незаконний
+abuse-report-policy-suggestions =
+    Примітка: Скарги на порушення авторських прав і торгової марки повинні відправлятися в окремому процесі.
+    <a data-l10n-name="report-infringement-link">Скористайтеся цими інструкціями</a> для
+    повідомлення про проблему.
+abuse-report-unwanted-reason = Мені не потрібне було це розширення і я не можу його позбутися
+abuse-report-unwanted-example = Наприклад: Встановлення без дозволу
+abuse-report-other-reason = Щось інше
