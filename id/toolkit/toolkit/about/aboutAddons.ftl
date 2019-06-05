@@ -95,7 +95,7 @@ detail-update-manual =
 detail-private-browsing-label = Jalankan di Jendela Pribadi
 detail-private-browsing-description2 = Jika diizinkan, ekstensi akan memiliki akses ke aktivitas daring Anda saat menjelajah secara pribadi. <label data-l10n-name="detail-private-browsing-learn-more">Pelajari lebih lanjut </label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
-# cannot be overriden by the user.
+# cannot be overridden by the user.
 detail-private-disallowed-label = Tidak Diizinkan di Jendela Pribadi
 detail-private-disallowed-description = Ekstensi ini tidak berjalan saat penjelajahan pribadi. <label data-l10n-name="detail-private-browsing-learn-more">Pelajari lebih lanjut</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
@@ -238,7 +238,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Kelola Pintasan Ekstensi
     .accesskey = K
-shortcuts-empty-message = Tidak ada pintasan untuk ektensi ini.
 shortcuts-no-addons = Anda tidak memiliki ekstensi yang aktif.
 shortcuts-no-commands = Ekstensi berikut tidak memiliki pintasan:
 shortcuts-input =
@@ -263,14 +262,20 @@ shortcuts-card-collapse-button = Lebih Sedikit
 go-back-button =
     .tooltiptext = Mundur
 
+## Recommended add-ons page
+
+
 ## Add-on actions
 
 remove-addon-button = Hapus
 disable-addon-button = Nonaktifkan
 enable-addon-button = Aktifkan
 expand-addon-button = Opsi Lainnya
+release-notes-addon-button = Catatan Rilis
+permissions-addon-button = Hak Akses
 addons-enabled-heading = Diaktifkan
 addons-disabled-heading = Dinonaktifkan
+always-activate-button = Selalu Aktif
 addon-detail-author-label = Penyusun
 addon-detail-version-label = Versi
 addon-detail-last-updated-label = Terakhir Diperbarui
@@ -287,3 +292,10 @@ addon-detail-reviews-link =
     { $numberOfReviews ->
        *[other] { $numberOfReviews } ulasan
     }
+
+## Pending uninstall message bar
+
+pending-uninstall-undo-button = Batal
+addon-detail-updates-radio-off = Nonaktif
+install-update-button = Perbarui
+addon-detail-private-browsing-allow = Izinkan

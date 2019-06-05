@@ -3,13 +3,24 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = Pelajari Lebih Lanjut
 onboarding-button-label-try-now = Coba Sekarang
 onboarding-button-label-get-started = Bersiap
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Selamat datang di { -brand-short-name }
 onboarding-welcome-learn-more = Pelajari lebih lanjut tentang manfaatnya.
+onboarding-join-form-body = Masukkan alamat surel Anda untuk memulai.
 onboarding-join-form-email =
     .placeholder = Masukan surel
 onboarding-join-form-email-error = Surel harus valid
@@ -19,6 +30,7 @@ onboarding-start-browsing-button-label = Mulai Menjelajah
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-privacy-title = Privasi Sejati
 
 ## These strings belong to the individual onboarding messages.
 
@@ -38,10 +50,12 @@ onboarding-ghostery-text = Jelajahi lebih cepat, lebih cerdas, atau lebih aman d
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sinkronkan
 onboarding-fxa-text = Daftar { -fxaccount-brand-name } dan sinkronkan markah, kata sandi Anda, dan buka tab di mana pun Anda menggunakan { -brand-short-name }.
-onboarding-tracking-protection-title = Kendalikan Bagaimana Anda Dilacak
+onboarding-tracking-protection-button2 = Panduan
+onboarding-data-sync-button2 = Masuk ke { -sync-brand-short-name }
 onboarding-browse-privately-text = Penjelajahan Pribadi menghapus pencarian dan riwayat penjelajahan Anda untuk merahasiakannya dari orang yang menggunakan komputer Anda.
 onboarding-browse-privately-button = Buka Jendela Pribadi
 onboarding-firefox-send-button = Coba { -send-brand-name }
+onboarding-mobile-phone-title = Dapatkan { -brand-product-name } di Ponsel Anda
 onboarding-pocket-anywhere-title = Baca dan Dengarkan di Mana Saja
 
 ## Message strings belonging to the Return to AMO flow
