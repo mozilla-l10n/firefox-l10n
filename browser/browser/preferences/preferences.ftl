@@ -293,6 +293,13 @@ update-pref-write-failure-title = Chyba pri zápise
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Nepodarilo sa nám uložiť nastavenie. Nebolo možné zapísať údaje do súboru { $path }
+update-setting-write-failure-title = Chyba pri ukladaní nastavení aktualizácií
+update-in-progress-title = Prebieha aktualizácia
+update-in-progress-message = Chcete, aby { -brand-short-name } pokračoval v aktualizácii?
+update-in-progress-ok-button = &Zrušiť
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Pokračovať
 
 ## General Section - Performance
 
@@ -658,6 +665,7 @@ addressbar-suggestions-settings = Zmeniť nastavenia pre návrhy vyhľadávania
 
 content-blocking-header = Blokovanie obsahu a ochrana pred sledovaním
 content-blocking-description = Zablokujte obsah tretích strán, ktorý vás sleduje naprieč webom. Sami si určite, aká časť z vašej aktivity na internete sa bude ukladať a zdieľať medzi stránkami.
+content-blocking-section-description = Chráňte svoje súkromie pri surfovaní na internete. Zablokujte neviditeľný obsah, ktorý vás sleduje na navštívených stránkach a tvorí profil vášho správania. Blokovanie takéhoto obsahu môže zrýchliť načítavanie stránok.
 content-blocking-learn-more = Ďalšie informácie
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -677,6 +685,7 @@ content-blocking-strict-description = Viac blokovaného obsahu zvyšuje pravdepo
 content-blocking-custom-desc = Vyberte si, čo chcete blokovať.
 content-blocking-private-trackers = Známe sledovacie prvky sú blokované v režime Súkromné prehliadanie
 content-blocking-third-party-cookies = Blokované sú sledovacie cookies tretích strán
+content-blocking-all-cookies = Všetky cookies
 content-blocking-unvisited-cookies = Cookies z nenavštívených stránok
 content-blocking-all-windows-trackers = Známe sledovacie prvky sú blokované vždy
 content-blocking-all-third-party-cookies = Blokované sú všetky cookies tretích strán

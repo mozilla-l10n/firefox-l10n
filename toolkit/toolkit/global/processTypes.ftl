@@ -6,6 +6,12 @@ process-type-web = Webový obsah
 # process used to run privileged pages,
 # such as about:home
 process-type-privileged = Privilegované stránky aplikácie
+# process used to run privileged about pages,
+# such as about:home
+process-type-privilegedabout = Privilegované about stránky
+# process used to run privileged mozilla pages,
+# such as accounts.firefox.com
+process-type-privilegedmozilla = Privilegovaný obsah Mozilly
 process-type-extension = Rozšírenie
 # process used to open file:// URLs
 process-type-file = Miestny súbor

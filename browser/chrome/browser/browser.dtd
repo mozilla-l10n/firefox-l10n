@@ -886,6 +886,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Táto stránka je načítaná z doplnku.">
 <!ENTITY identity.insecureLoginForms2 "Prihlasovacie údaje zadané na tejto stránke by mohli byť ohrozené.">
 
+<!ENTITY identity.customRoot "Pripojenie je overené vydavateľom certifikátov, ktorého Mozilla nepozná.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; zablokoval nezabezpečené časti tejto stránky.">
@@ -905,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Táto stránka obsahuje súčasti, ktoré nie sú bezpečné (ako napr. skripty) a vaše pripojenie k nej nie je súkromné.">
 <!ENTITY identity.description.activeLoaded2 "Informácie zadané na tejto stránke (ako heslá, správy, informácie o platobných kartách, atď.) môžu byť viditeľné pre iných ľudí.">
 
+<!ENTITY identity.description.customRoot "Mozilla tohto vydavateľa certifikátov nepozná. Mohol byť pridaný operačným systémom alebo správcom vášho počítača.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Povoliť ochranu">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "P">
@@ -1135,6 +1137,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Teraz nie">
 <!ENTITY updateRestart.cancelButton.accesskey "n">
+<!ENTITY updateUnsupported.panelUI.label "Ďalšie aktualizácie nie sú dostupné">
 <!ENTITY updateRestart.panelUI.label2 "Reštartovať a aktualizovať aplikáciu &brandShorterName;">
 
 <!ENTITY newTabControlled.header.message "Vaša stránka novej karty bola zmenená.">
