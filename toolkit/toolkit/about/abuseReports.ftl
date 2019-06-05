@@ -43,3 +43,4 @@ abuse-report-messagebar-action-cancel = Annuler
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-policy-reason = Contenus haineux, violents ou illégaux
+abuse-report-other-reason = Autre chose
