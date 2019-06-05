@@ -79,6 +79,9 @@ detail-update-automatic =
 detail-update-manual =
     .label = مطفأة
     .tooltiptext = لا نصّب التحديثات تلقائيًا
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overridden by the user.
+detail-private-disallowed-label = ليس مسموحًا بأن تعمل في النوافذ الخاصة
 detail-home =
     .label = صفحة البداية
 detail-home-value =
