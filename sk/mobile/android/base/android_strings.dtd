@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "Pokračujte tam, kde ste prestali.">
 <!ENTITY firstrun_sync_subtext2 "Nájdite pomocou služby Sync záložky, heslá a ďalšie veci, ktoré ste si uložili do prehliadača &brandShortName; na všetkých svojich zariadeniach.">
 <!ENTITY newfirstrun_sync_subtext "Zosynchronizujte si veci, ktoré si uložíte na mobile s počítačom - bezpečne a s ohľadom na súkromie.">
+<!ENTITY updatednewfirstrun_sync_subtext "Prihláste sa do svojho účtu a vyťažte zo svojej aplikácie &brandShortName; čo najviac">
 <!ENTITY firstrun_signin_message "Pripojte sa a začnite">
 <!ENTITY firstrun_signin_button "Prihlásiť sa k službe Sync">
 <!ENTITY newfirstrun_signin_button "Zapnúť synchronizáciu">
+<!ENTITY updatednewfirstrun_signin_button "Prihlásiť sa do aplikácie &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Začať prehliadať">
 <!ENTITY firstrun_button_notnow "Teraz nie">
 <!ENTITY firstrun_button_next "Ďalej">
@@ -413,8 +415,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Prevzaté súbory">
 <!ENTITY pref_private_data_syncedTabs "Synchronizované karty">
 
-<!ENTITY pref_default_browser "Nastaviť ako predvolený prehliadač">
-
 <!ENTITY pref_default_browser2 "Nastaviť &brandShortName; ako predvolený prehliadač">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -679,6 +679,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Vyberte alebo nahrajte zvuk">
 <!ENTITY filepicker_image_title "Vyberte alebo spravte snímku">
 <!ENTITY filepicker_video_title "Vyberte alebo natočte video">
+
+<!ENTITY filepicker_permission_denied "Požadované povolenia nie sú udelené, vraciam sa do výberu súborov.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Pripojené k stránke">
