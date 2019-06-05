@@ -6,8 +6,10 @@
 # MacBook Touch Bar.
 back = వెనుకకు
 forward = ముందుకు
+reload = తిరిగిలోడు చేయి
 home = ముంగిలి
 fullscreen = నిండు తెర
+find = కనుగొను
 new-tab = కొత్త ట్యాబు
 # Meant to match the string displayed in an empty URL bar.
 open-location = వెతకండి లేదా చిరునామా ఇవ్వండి
