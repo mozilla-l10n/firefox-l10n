@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "Adloc\&apos;hit el lec\&apos;h m\&apos;ho peus paouezet.">
 <!ENTITY firstrun_sync_subtext2 "Grit gant Sync evit adkavout ar sinedoù, ar gerioù-tremen, hag an holl draoù enrollet e &brandShortName; war ho holl drevnadoù.">
 <!ENTITY newfirstrun_sync_subtext "Goubredit ar pezh a enrollit war hoc\&apos;h hezougell evit Firefox war urzhiataer, en un doare prevez ha diogel.">
+<!ENTITY updatednewfirstrun_sync_subtext "Kennaskit d\&apos;ho kont evit kaout ar muiañ eus &brandShortName;">
 <!ENTITY firstrun_signin_message "Kennaskit, krogit ganti">
 <!ENTITY firstrun_signin_button "Kennaskañ ouzh Sync">
 <!ENTITY newfirstrun_signin_button "Gweredekaat Sync">
+<!ENTITY updatednewfirstrun_signin_button "Kennaskit da &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Krog da verdeiñ">
 <!ENTITY firstrun_button_notnow "Ket evit ar mare">
 <!ENTITY firstrun_button_next "War-lerc\&apos;h">
@@ -677,6 +679,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Dibab pe enrollañ ur son">
 <!ENTITY filepicker_image_title "Dibab pe dapout ur skeudenn">
 <!ENTITY filepicker_video_title "Dibab pe enrollañ ur video">
+
+<!ENTITY filepicker_permission_denied "N\&apos;eo ket bet roet an aotreoù a-zere, distreiñ a raio da zibaber restroù ar reizhiad.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Kennasket oc\&apos;h ouzh">
