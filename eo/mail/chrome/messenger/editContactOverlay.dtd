@@ -2,22 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editContactPanelDeleteContact.label "Delete">
-<!ENTITY editContactPanelDeleteContact.accesskey "l">
+<!ENTITY editContactPanelDeleteContact.label "Forigi">
+<!ENTITY editContactPanelDeleteContact.accesskey "i">
 
-<!ENTITY editContactName.label "Name:">
-<!ENTITY editContactName.accesskey "N">
+<!ENTITY editContactName.label "Montrata nomo:">
+<!ENTITY editContactName.accesskey "n">
 
-<!ENTITY editContactEmail.label "Email:">
-<!ENTITY editContactEmail.accesskey "E">
+<!ENTITY editContactEmail.label "Retpoŝto:">
+<!ENTITY editContactEmail.accesskey "R">
 
-<!ENTITY editContactAddressBook.label "Address Book:">
+<!ENTITY editContactAddressBook.label "Adresaro:">
 <!ENTITY editContactAddressBook.accesskey "A">
 
-<!ENTITY editContactPanelCancel.label "Cancel">
-<!ENTITY editContactPanelCancel.accesskey "C">
+<!ENTITY editContactPanelDone.label "Farita">
+<!ENTITY editContactPanelDone.accesskey "F">
 
-<!ENTITY editContactPanelDone.label "Done">
-<!ENTITY editContactPanelDone.accesskey "D">
-
-<!ENTITY contactMoveDisabledWarning.description "You can't change the address book because the contact is in a mailing list.">
+<!ENTITY contactMoveDisabledWarning.description "Ne eblas ŝanĝi adresaron, ĉar la kontakto estas en la dissendolisto.">
