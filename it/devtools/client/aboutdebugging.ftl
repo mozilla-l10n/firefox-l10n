@@ -33,6 +33,7 @@ about-debugging-refresh-usb-devices-button = Aggiorna dispositivi
 about-debugging-setup-title = Impostazioni
 about-debugging-setup-intro = Configura il metodo di connessione da utilizzare per il debug remoto del dispositivo.
 about-debugging-setup-this-firefox = Utilizza <a>{ about-debugging-this-firefox-runtime-name }</a> per effettuare il debug di schede, estensioni e service worker in questa versione di { -brand-shorter-name }.
+about-debugging-setup-this-firefox2 = Utilizza <a>{ about-debugging-this-firefox-runtime-name }</a> per effettuare il debug di estensioni e service worker in questa versione di { -brand-shorter-name }.
 about-debugging-setup-connect-heading = Connetti un dispositivo
 about-debugging-setup-usb-title = USB
 about-debugging-setup-usb-disabled = Attivando questa opzione verranno scaricati e aggiunti a { -brand-shorter-name } i componenti Android USB necessari per il debug.
