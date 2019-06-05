@@ -2,31 +2,32 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title "Filter Rules">
+<!ENTITY window.title "Redakti filtrilon">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
-<!ENTITY filterName.label "Filter name:">
-<!ENTITY filterName.accesskey "i">
+<!ENTITY filterName.label "Nomo de filtrilo:">
+<!ENTITY filterName.accesskey "N">
 
-<!ENTITY junk.label "Junk">
-<!ENTITY notJunk.label "Not Junk">
+<!ENTITY junk.label "Trudmesaĝo">
+<!ENTITY notJunk.label "Dezirata mesaĝo">
 
-<!ENTITY lowestPriorityCmd.label "Lowest">
-<!ENTITY lowPriorityCmd.label "Low">
-<!ENTITY normalPriorityCmd.label "Normal">
-<!ENTITY highPriorityCmd.label "High">
-<!ENTITY highestPriorityCmd.label "Highest">
+<!ENTITY lowestPriorityCmd.label "Plej malalta">
+<!ENTITY lowPriorityCmd.label "Malalta">
+<!ENTITY normalPriorityCmd.label "Meza">
+<!ENTITY highPriorityCmd.label "Alta">
+<!ENTITY highestPriorityCmd.label "Plej malalta">
 
-<!ENTITY contextDesc.label "Apply filter when:">
-<!ENTITY contextIncomingMail.label "Getting New Mail:">
-<!ENTITY contextIncomingMail.accesskey "G">
-<!ENTITY contextManual.label "Manually Run">
-<!ENTITY contextManual.accesskey "R">
-<!ENTITY contextBeforeCls.label "Filter before Junk Classification">
-<!ENTITY contextAfterCls.label "Filter after Junk Classification">
-<!ENTITY contextOutgoing.label "After Sending">
-<!ENTITY contextOutgoing.accesskey "S">
-<!ENTITY contextArchive.label "Archiving">
-<!ENTITY contextArchive.accesskey "A">
+<!ENTITY contextDesc.label "Apliki filtrilon dum:">
+<!ENTITY contextIncomingMail.label "elŝuti retpoŝton:">
+<!ENTITY contextIncomingMail.accesskey "e">
+<!ENTITY contextManual.label "permana aktivigo">
+<!ENTITY contextManual.accesskey "p">
+<!ENTITY contextBeforeCls.label "antaŭ filtri trudmesaĝojn">
+<!ENTITY contextAfterCls.label "post filtri trudmesaĝojn">
+<!ENTITY contextOutgoing.label "post sendi">
+<!ENTITY contextOutgoing.accesskey "s">
+<!ENTITY contextArchive.label "arĥivigi">
+<!ENTITY contextArchive.accesskey "a">
+
 
 <!ENTITY filterActionDesc.label "Perform these actions:">
 <!ENTITY filterActionDesc.accesskey "P">
