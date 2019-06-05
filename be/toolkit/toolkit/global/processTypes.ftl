@@ -6,6 +6,12 @@ process-type-web = Сеціўнае змесціва
 # process used to run privileged pages,
 # such as about:home
 process-type-privileged = Прывілеяванае змесціва
+# process used to run privileged about pages,
+# such as about:home
+process-type-privilegedabout = Прывілеяваны About
+# process used to run privileged mozilla pages,
+# such as accounts.firefox.com
+process-type-privilegedmozilla = Прывілеяваны змест Mozilla
 process-type-extension = Пашырэнне
 # process used to open file:// URLs
 process-type-file = Лакальны файл
