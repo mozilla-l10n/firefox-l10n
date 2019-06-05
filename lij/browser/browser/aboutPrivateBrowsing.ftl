@@ -25,4 +25,4 @@ about-private-browsing =
 about-private-browsing-not-private = Sto chi o no l'é 'n barcon privòu.
 content-blocking-title = Blòcco di contengui
 content-blocking-description = Quarche scito o deuvia traciatoî che peuan amiâ e teu ativitæ in sce l'Internet. Inti barcoin privæ, { -brand-short-name } o blòcca o contegnuo in aotomatico tanti traciatoî che pigian de informaçioin in sciô teu conportamento de navegaçion.
-about-private-browsing-info-description = { -brand-short-name } scancella a teu cronologia de navegaçion e de riçerche quande seri i feuggi e i barcoin de navegaçion privâ. Sciben questo no ti fasci deventâ anònimo co-i sciti o co-o fornitô de Internet, l'agiutta in ògni mòddo a mantegnî privòu da-i atri utenti de sto computer cöse ti fæ in linea.
+about-private-browsing-info-description = { -brand-short-name } scancella a teu cronologia de navegaçion e de riçerche quande seri i feuggi e i barcoin de navegaçion privâ. Sciben che questo o no ti fa deventâ anònimo co-i sciti o co-o fornitô de Internet, o l'agiutta in ògni mòddo a mantegnî privòu da-i atri utenti de sto computer cöse ti fæ in linea.
