@@ -100,7 +100,7 @@ detail-update-manual =
 detail-private-browsing-label = Povoliť v súkromných oknách
 detail-private-browsing-description2 = Tu môžete tomuto rozšíreniu povoliť prístup k vašej aktivite na internete v súkromných oknách. <label data-l10n-name="detail-private-browsing-learn-more">Ďalšie informácie</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
-# cannot be overriden by the user.
+# cannot be overridden by the user.
 detail-private-disallowed-label = Toto rozšírenie sa nespúšťa v súkromných oknách
 detail-private-disallowed-description = Tvorca rozšírenia zakázal jeho spúšťanie v súkromných oknách. <label data-l10n-name="detail-private-browsing-learn-more">Ďalšie informácie</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
@@ -285,6 +285,10 @@ privacy-policy = Zásady ochrany súkromia
 #   $dailyUsers (number) - The number of daily users.
 user-count = Počet používateľov: { $dailyUsers }
 install-theme-button = Nainštalovať tému vzhľadu
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Spravovať
+find-more-addons = Zobraziť ďalšie doplnky
 
 ## Add-on actions
 
@@ -303,6 +307,9 @@ release-notes-addon-button = Poznámky k vydaniu
 permissions-addon-button = Povolenia
 addons-enabled-heading = Povolené
 addons-disabled-heading = Zakázané
+ask-to-activate-button = Vyžiadať aktivovanie
+always-activate-button = Vždy aktivovať
+never-activate-button = Nikdy neaktivovať
 addon-detail-author-label = Autor
 addon-detail-version-label = Verzia
 addon-detail-last-updated-label = Posledná aktualizácia
@@ -324,4 +331,16 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+pending-uninstall-undo-button = Späť
+addon-detail-updates-label = Automatické aktualizácie
+addon-detail-updates-radio-default = Predvolené nastavenie
+addon-detail-updates-radio-on = Zapnuté
+addon-detail-updates-radio-off = Vypnuté
+addon-detail-update-check-label = Vyhľadať aktualizácie
+install-update-button = Aktualizovať
+addon-detail-private-browsing-allow = Povoliť
+addon-detail-private-browsing-disallow = Nepovoliť
+recent-updates-heading = Naposledy aktualizované
 release-notes-loading = Načítava sa…
+release-notes-error = Pri načítaní poznámok k vydaniu sa vyskytla chyba.
+addon-permissions-empty = Toto rozšírenie nevyžaduje žiadne povolenia
