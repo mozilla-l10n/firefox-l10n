@@ -67,16 +67,20 @@ onboarding-tracking-protection-title2 = Ñemo’ã jehapykueho rovake
 onboarding-tracking-protection-text2 = { -brand-short-name } oipytyvõ omboykévo umi tenda nde rapykuehóva ñandutípe, asyve hag̃uáicha umi maranduñemurã nde rapykuehóvo eikundaha jave.
 onboarding-tracking-protection-button2 = Mba'éichapa omba'apo
 onboarding-data-sync-title = Egueraha ne mbohekopyahu nendive
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Embojuehe nde rechaukaha, ñe’ẽñemi ha hetave eipurúvo { -brand-product-name } oimehápe.
 onboarding-data-sync-button2 = Emoñepyrũ tembiapo { -sync-brand-short-name } ndive
 onboarding-firefox-monitor-title = Ema’ẽ tapiáke mba’ekuaarã ñembogua rehe
 onboarding-firefox-monitor-text = { -monitor-brand-name } ohechajey ne ñandutiveve kundaharape osẽpa peteĩ mba’ekuaarã ñemboguapyre ha he’i ndéve osẽjeýramo.
 onboarding-firefox-monitor-button = Eñemboheraguapy og̃uahẽ hag̃ua ndéve kehyjerã
 onboarding-browse-privately-title = Eikundaha ñemi
+onboarding-browse-privately-text = Pe kundaha ñemi ombogue umi jehekaha ha kundaha rembiasakue emoñemi hag̃ua oimeraẽva oipurúvagui mohendaha.
 onboarding-browse-privately-button = Embojuruja ovetã ñemigua
 onboarding-firefox-send-title = Eguerekóke ne marandurenda moherakuãpyre ñemihápe
 onboarding-firefox-send-text2 = Ehupi ne marandurenda { -send-brand-name }-pe emoherakuã hag̃ua papapýpe oñepyrũ guive opaha peve ha juajuha opareíva ijehegui.
 onboarding-firefox-send-button = Eipuru { -send-brand-name }
 onboarding-mobile-phone-title = Eguareko { -brand-product-name } ne pumbyrýpe
+onboarding-mobile-phone-text = Emboguejy { -brand-product-name } iOS ha Android peg̃uarã ha embojuehe ne mba’ekuaarã opaite mba’e’okápe.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Emboguejy kundaha pumbyrygua
