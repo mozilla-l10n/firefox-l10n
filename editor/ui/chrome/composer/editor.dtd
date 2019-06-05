@@ -4,7 +4,7 @@
 
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY editorWindow.titlemodifier "Redaktilo"> 
+<!ENTITY editorWindow.titlemodifier "Redaktilo">
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
@@ -50,7 +50,7 @@
 <!ENTITY AllTagsModeTab.label "Etikedoj HTML">
 <!ENTITY AllTagsMode.label "Etikedoj HTML">
 <!ENTITY AllTagsMode.accesskey "E">
-<!ENTITY AllTagsMode.tooltip "Montri eblemojn por ĉiuj etikedoj HTML">
+<!ENTITY AllTagsMode.tooltip "Montri bildsimbolojn por ĉiuj etikedoj HTML">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
      you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
