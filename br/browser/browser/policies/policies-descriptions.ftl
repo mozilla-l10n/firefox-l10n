@@ -21,6 +21,7 @@ policy-Bookmarks = Krouiñ sinedoù e barrenn ostilhoù ar sinedoù, lañser ar 
 policy-CaptivePortal = (Di)weredekaat skor ar porched desachus.
 policy-CertificatesDescription = Ouzhpennañ testenioù pe arverañ testenioù enkorfet
 policy-Cookies = Aotren pe difenn al lec'hiennoù da zespizañ toupinoù.
+policy-DefaultDownloadDirectory = Arventennañ ar c'havlec'h pellgargañ dre ziouer.
 policy-DisableAppUpdate = Mirout ar merdeer da hizivaat.
 policy-DisableBuiltinPDFViewer = Diweredekaat PDF.js, gweler PDF enkorfet { -brand-short-name }.
 policy-DisableDeveloperTools = Stankañ an ostilhoù diorroer.
@@ -45,13 +46,16 @@ policy-DisplayBookmarksToolbar = Skrammañ barrenn-ostilhoù ar sinedoù dre zio
 policy-DisplayMenuBar = Skrammañ ar varrenn lañser dre ziouer.
 policy-DNSOverHTTPS = Kefluniañ an DNS dre HTTPS.
 policy-DontCheckDefaultBrowser = Diweredekaat gwiriadur ar merdeer dre ziouer e-pad al loc'hadur.
+policy-DownloadDirectory = Arventennot ha morailhit ar c'havlec'h pellgargañ.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Gweredekaat pe diweredekaat stankadur an endalc'hadoù. Gallout a rit prennañ an dibab-mañ.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Staliañ, distaliañ pe prennañ askouezhioù. An dibarzh staliañ a gemer URLoù pe treugoù evel arventennoù. An dibarzhioù distaliañ ha prennañ a gemer naoudioù askouezhioù.
+policy-ExtensionSettings = Ardoit pep tra a sell deus an askouezhioù
 policy-ExtensionUpdate = (Di)weredekaat hizivadennoù askouezhioù ent emgefreek.
+policy-FirefoxHome = Kefluniañ degemer firefox
 policy-FlashPlugin = Aotren pe difenn arver an enlugellad Flash.
 policy-HardwareAcceleration = M'eo lakaet da Gaou e vo diweredekaet herrekadur ar periant.
 # “lock” means that the user won’t be able to change this setting
@@ -67,6 +71,7 @@ policy-OverridePostUpdatePage = Merañ ar pajenn "Petra nevez?" goude un hizivad
 policy-Permissions = Kefluniañ an aotreoù evit ar c'hamera, ar mikro, al lec'hiadurezh hag ar rebuzadurioù.
 policy-PopupBlocking = Aotren lec'hiennoù 'zo da skrammañ ar prenestroù diflugell dre ziouer.
 policy-Preferences = Lakaat ha prennañ an talvoud evit un isteskad gwellvezioù.
+policy-PromptForDownloadLocation = Goulenn e pelec'h enrollañ ar restroù pa vez pellgarget.
 policy-Proxy = Kefluniañ arventennoù ar proksi.
 policy-RequestedLocales = Merañ roll ar yezhoù goulennet gant an arload, en urzh.
 policy-SanitizeOnShutdown = Skarzhañ an holl roadennoù merdeiñ pa vez serret.

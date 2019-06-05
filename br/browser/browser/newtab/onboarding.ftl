@@ -70,6 +70,34 @@ onboarding-data-sync-title = Kemerit hoc'h arventennoù ganeoc'h
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Goubredit ho sinedoù, gerioù-tremen ha muioc'h c'hoazh e pep lec'h ma arverit { -brand-product-name }.
 onboarding-data-sync-button2 = Kennaskañ da { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Bezit kelaouet eus ar beradurioù
+onboarding-firefox-monitor-text = { -monitor-brand-name } a sell mard eo bet diskuilhet ho chomlec'h postel en ur beradur roadennoù ha kelaouiñ a raio ac'hanoc'h ma vo graet en dazont.
+onboarding-firefox-monitor-button = Koumanantiñ d'ar galvoù-diwall
+onboarding-browse-privately-title = Merdeiñ prevez
+onboarding-browse-privately-text = Gant ar merdeiñ prevez e vo skarzhet ho roll istor klask ha merdeiñ evit ma chomfe kuzh diouzh an neb a rafe gant an urzhiataer.
+onboarding-browse-privately-button = Digeriñ ur prenestr prevez
+onboarding-firefox-send-title = Mirit ho restroù rannet prevez
+onboarding-firefox-send-text2 = Pellgasit ho restroù da { -send-brand-name } evit rannañ anezho gant un enrinegañ penn-ouzh-penn hag un ere a ziamzero ent emgefreek.
+onboarding-firefox-send-button = Esaeit { -send-brand-name }
+onboarding-mobile-phone-title = Tapit { -brand-product-name } war hoc'h iPhone
+onboarding-mobile-phone-text = Pellgargit { -brand-product-name } evit iOS pe Android ha goubredit ho roadennoù a-druz ho holl drevnadoù.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Pellgargañ ar merdeer hezoug
+onboarding-send-tabs-title = Kasit ivinelloù deoc'h ho-unan
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Gallout a rit kas ivinelloù evit rannañ pajennoù etre ho trevnadoù hep kaout da eilañ, pegañ pe kuitaat ar merdeer.
+onboarding-send-tabs-button = Kregiñ da gas ivinelloù
+onboarding-pocket-anywhere-title = Lennit ha selaouit e pep lec'h
+onboarding-pocket-anywhere-text2 = Enrollit ho tanvez karetañ ezlinenn gant an arload { -pocket-brand-name } ha lennit, selaouit pe sellit pa 'z eo ar gwellañ evidoc'h.
+onboarding-pocket-anywhere-button = Esaeit { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Kemerit ho kerioù-tremen e pep lec'h ganeoc'h
+onboarding-lockwise-passwords-text2 = Mirit ar gerioù-tremen a enrollit en un doare diogel ha kennaskit d'ho kontoù ken eeun ha tra gant { -lockwise-brand-name }.
+onboarding-lockwise-passwords-button2 = Kaout an arload
+onboarding-facebook-container-title = Lakait bevennoù da Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } a skoazell ac'hanoc'h da virout hoc'h aelad distag eus ar peurrest, evit ma vefe diaesoc'h da Facebook da dizhout ac'hanoc'h gant bruderezh.
+onboarding-facebook-container-button = Ouzhpennañ an askouezh
 
 ## Message strings belonging to the Return to AMO flow
 

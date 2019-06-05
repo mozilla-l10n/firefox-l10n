@@ -34,6 +34,7 @@ policies-notice =
         [windows] Diweredekaet eo bet ho parregezh da gemmañ dibarzhioù 'zo.
        *[other] Diweredekaet eo bet ho parregezh da gemmañ gwellvezioù 'zo.
     }
+managed-notice = Ardoet eo ho merdeer gant hoc'h aozadur.
 pane-general-title = Hollek
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = Buhez prevez ha diogelroez
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Kont Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -302,6 +299,12 @@ update-pref-write-failure-title = Fazi skrivañ
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = N'haller ket enrollañ ho kwellvezioù. N'haller ket skrivañ er restr: { $path }
+update-setting-write-failure-title = Fazi en ur enrollañ ar gwellvezioù hizivaat
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message = Degouezhet ez eus bet ur fazi gant { -brand-short-name } ha n'eo ket bet enrollet ar c'hemmoù. Arventennoù gwellvezioù an hizivadennoù a azgoulenn an aotre da skrivañ er restr dindan. C'hwi pe un ardoer reizhiad a c'hallfe bezañ gouest da ziskoulmañ ar fazi en ur reiñ an aotre d'ar strollad arveriaded evit kemmañ ar restr-mañ.
 
 ## General Section - Performance
 
@@ -537,8 +540,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Enrollañ
     .accesskey = E
-sync-mobilepromo-single = Kennaskañ un trevnad all
-sync-mobilepromo-multi = Merañ an trevnadoù
 sync-connect-another-device = Kennaskit un trevnad all
 sync-manage-devices = Merañ an trevnadoù
 sync-fxa-begin-pairing = Koublañ un trevnad
@@ -696,7 +697,6 @@ content-blocking-all-third-party-cookies = Holl doupinoù an tredeoù
 content-blocking-cryptominers = Kriptogleuzerien
 content-blocking-fingerprinters = Dinoerien roudoù niverel
 content-blocking-warning-title = Diwallit!
-content-blocking-warning-desc = Stankañ toupinoù ha heulierien a c'hall mirout lec'hiennoù 'zo da vont en-dro en un doare dereat. Aes eo diweredekaat ar stankadur evit al lec'hiennoù ho peus fiziañs eno.
 content-blocking-warning-description = Stankañ endalc'hadoù a c'hall lakaat lec'hiennoù 'zo da vont en-dro a-dreuz. Aes eo diweredekaat ar stankadur evit al lec'hiennoù ho peus fiziañs eno.
 content-blocking-learn-how = Deskit penaos
 content-blocking-reload-description = Ezhomm ho po da adkargañ hoc'h ivinelloù evit arloañ ar c'hemmoù.
