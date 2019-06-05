@@ -420,6 +420,6 @@ available-updates-heading = Tilgængelige opdateringer
 recent-updates-heading = Seneste opdateringer
 
 release-notes-loading = Indlæser…
-release-notes-error = Der opstod desværre en fejl under indlæsning af udgivelsesnoterne.
+release-notes-error = Der opstod en fejl under indlæsning af udgivelsesnoterne.
 
 addon-permissions-empty = Denne udvidelse kræver ingen tilladelser
