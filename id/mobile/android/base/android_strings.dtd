@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "Mulai dari situasi saat Anda pergi.">
 <!ENTITY firstrun_sync_subtext2 "Gunakan Sync untuk menemukan markah, sandi, dan hal lainnya yang Anda simpan ke &brandShortName; di semua peranti Anda.">
 <!ENTITY newfirstrun_sync_subtext "Sinkronkan hal-hal yang Anda simpan di ponsel ke Firefox untuk desktop, secara pribadi dan aman.">
+<!ENTITY updatednewfirstrun_sync_subtext "Masuk ke akun Anda untuk memaksimalkan &brandShortName;">
 <!ENTITY firstrun_signin_message "Sambungkan, dan mulai">
 <!ENTITY firstrun_signin_button "Masuk ke Sync">
 <!ENTITY newfirstrun_signin_button "Aktifkan Sync">
+<!ENTITY updatednewfirstrun_signin_button "Masuk ke &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Mulai Menjelajah">
 <!ENTITY firstrun_button_notnow "Tidak saat ini">
 <!ENTITY firstrun_button_next "Selanjutnya">
@@ -413,8 +415,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Unduhan">
 <!ENTITY pref_private_data_syncedTabs "Tab yang disinkronkan">
 
-<!ENTITY pref_default_browser "Jadikan peramban utama">
-
 <!ENTITY pref_default_browser2 "Jadikan &brandShortName; sebagai peramban baku">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -679,6 +679,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Pilih atau rekam suara">
 <!ENTITY filepicker_image_title "Pilih atau ambil gambar">
 <!ENTITY filepicker_video_title "Pilih atau rekam video">
+
+<!ENTITY filepicker_permission_denied "Izin yang diperlukan tidak diberikan, kembali ke pemilih berkas sistem.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Anda tersambung ke">
