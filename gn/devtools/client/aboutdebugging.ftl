@@ -43,6 +43,9 @@ about-debugging-sidebar-item-connect-button = Jeike
 about-debugging-sidebar-item-connect-button-connecting = Oikehína...
 # Text displayed in buttons found in sidebar items when the connection failed.
 about-debugging-sidebar-item-connect-button-connection-failed = Ojavy jeike
+# Text displayed in connection warning on sidebar item of the runtime when connecting to
+# the runtime is taking too much time.
+about-debugging-sidebar-item-connect-button-connection-not-responding = Pe jeike oha’arõ gueteri, ehechajey oĩpa ñe’ẽmondo kundaha ohotahápe
 # Text displayed as connection error in sidebar item when the connection has timed out.
 about-debugging-sidebar-item-connect-button-connection-timeout = Jeike imbeguetereíma
 # Temporary text displayed in sidebar items representing remote runtimes after
@@ -100,10 +103,22 @@ about-debugging-setup-usb-status-enabled = Jurujapyre
 about-debugging-setup-usb-status-disabled = Pe'apyre
 about-debugging-setup-usb-status-updating = Hekopyahuhína...
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Emyandy mboguatahára poravoha ne Android mba’e’okápe.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Emyandy USB mopotĩha mboguatahára poravoha Android pegua.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Emyandy USB mopotĩha Firefox-pe Android mba’e’okápe.
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Embojuaju Android mba’e’oka ne mohendaha rehe.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = ¿Apañuãi eikekuévo USB mba’e’okápe? <a>Emoĩporã apañuãi</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Ñanduti rendaite
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = ¿Apañuãi eikekuévo ñanduti rendaite rupive? <a>Emoĩporã apañuãi</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Mbojuaju
