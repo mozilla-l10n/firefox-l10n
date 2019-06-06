@@ -112,7 +112,7 @@
 
 <!ENTITY  securityView.privacy.header                   "პირადულობა და ისტორია">
 <!ENTITY  securityView.privacy.history                  "ეს საიტი დღემდე გამიხსნია?">
-<!ENTITY  securityView.privacy.cookies                  "ინახავს ეს საიტი ჩემს კომპიუტერში მონაცემებს (ფუნთუშებს)?">
+<!ENTITY  securityView.privacy.cookies                  "ინახავს ეს საიტი ჩემს კომპიუტერში ინფორმაციას (ფუნთუშებს)?">
 <!ENTITY  securityView.privacy.viewCookies              "ფუნთუშების ნახვა">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "თ">
 <!ENTITY  securityView.privacy.passwords                "ამ საიტისთვის რაიმე პაროლი შენახული მაქვს?">
