@@ -152,7 +152,7 @@
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
-<!ENTITY options.stylesheetAutocompletion.label      "Completare automată CSS">
+<!ENTITY options.stylesheetAutocompletion.label      "Completează automat CSS">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "Completează automat proprietăți CSS, valori și selectori în editorul de stiluri pe măsură ce tastezi">
 
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
@@ -162,7 +162,7 @@
 
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
-<!ENTITY options.screenshot.clipboard.label      "Captură de ecran pe clipboard">
+<!ENTITY options.screenshot.clipboard.label      "Realizează captură de ecran în clipboard">
 <!ENTITY options.screenshot.clipboard.tooltip    "Salvează capturile de ecran direct în clipboard">
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
@@ -188,8 +188,8 @@ simbolurile platformei Gecko">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Închide automat paranteze de sfârșit">
 <!ENTITY options.sourceeditor.expandtab.label           "Indentează folosind spații">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "Folosește spații în locul caracterului de tabulare">
-<!ENTITY options.sourceeditor.tabsize.label             "Mărime caracter de tabulare">
+<!ENTITY options.sourceeditor.tabsize.label             "Mărimea tabulării">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.label          "Combinații de taste">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">
-<!ENTITY options.sourceeditor.keybinding.default.label  "Implicit">
+<!ENTITY options.sourceeditor.keybinding.default.label  "Implicite">
