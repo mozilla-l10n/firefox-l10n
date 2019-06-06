@@ -415,6 +415,7 @@ shown from Android O while a tab is being queued.-->
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "ব্রাউজার অ্যাপ ট্যাপ করুন &amp; &brandShortName; নির্বাচন করুন">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla Support দেখুন">
 <!ENTITY pref_about_firefox "&brandShortName; পরিচিতি">
 <!ENTITY pref_vendor_faqs "FAQ">
@@ -675,6 +676,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_image_title "বেছে নিন বা একটি ছবি তুলুন">
 <!ENTITY filepicker_video_title "বেছে নিন বা একটি ভিডিও রেকর্ড করুন">
 
+<!ENTITY filepicker_permission_denied "প্রয়োজনীয় অনুমোদন পাওয়া যায়নি, সিস্টেম ফাইল পিকারে ফিরে যাওয়া হবে।">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "আপনি এই সাইটের সাথে সংযুক্ত">
@@ -914,6 +916,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "বিরতি">
 <!ENTITY pip_pause_button_description "চালানো বন্ধ কর">
 
+<!ENTITY pref_notification_settings_link "নোটিফিকেশন সেটিং ব্যবস্থাপনা">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "ব্রাউজার">
 <!ENTITY mls_notification_channel "&vendorShortName; লোকেশন সার্ভিস">
