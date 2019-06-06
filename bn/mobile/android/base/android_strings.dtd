@@ -24,6 +24,7 @@
 <!ENTITY firstrun_signin_message "সংযুক্ত হন, শুরু করুন">
 <!ENTITY firstrun_signin_button "সিঙ্ক করতে সাইন ইন করুন">
 <!ENTITY newfirstrun_signin_button "Sync চালু করুন">
+<!ENTITY updatednewfirstrun_signin_button "&brandShortName; এ সাইন ইন করুন">
 <!ENTITY  onboard_start_button_browser "ব্রাউজিং শুরু করুন">
 <!ENTITY firstrun_button_notnow "এখনই নয়">
 <!ENTITY firstrun_button_next "পরবর্তী">
