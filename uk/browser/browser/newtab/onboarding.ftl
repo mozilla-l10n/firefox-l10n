@@ -63,6 +63,32 @@ onboarding-ghostery-text = Завантажуйте сторінки швидш�
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Синхронізувати
 onboarding-fxa-text = Зареєструйтеся в { -fxaccount-brand-name(case: "dat") } і синхронізуйте свої закладки, паролі та відкриті вкладки всюди, де ви використовуєте { -brand-short-name }.
+onboarding-tracking-protection-title2 = Захист від стеження
+onboarding-tracking-protection-text2 = { -brand-short-name } допомагає запобігти стеженню веб-сайтами за вами в мережі, ускладнюючи рекламі переслідувати вас.
+onboarding-tracking-protection-button2 = Як це працює
+onboarding-data-sync-title = Синхронізуйте свої налаштування
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Синхронізуйте закладки, паролі та інші дані між усіма пристроями { -brand-product-name }.
+onboarding-data-sync-button2 = Увійти в { -sync-brand-short-name(case: "acc") }
+onboarding-firefox-monitor-title = Отримуйте попередження про витоки даних
+onboarding-firefox-monitor-text = { -monitor-brand-name } стежить, чи не з'явилася ваша адреса електронної пошти у витоках даних і одразу повідомляє вас про це.
+onboarding-firefox-monitor-button = Підписатися на попередження
+onboarding-browse-privately-title = Користуйтесь інтернетом приватно
+onboarding-browse-privately-text = Приватний перегляд очищує вашу історію пошуку і перегляду, щоб не дозволити дізнатися про це іншим користувачам вашого комп'ютера.
+onboarding-browse-privately-button = Відкрити приватне вікно
+onboarding-firefox-send-title = Приватний обмін файлами
+onboarding-firefox-send-text2 = Вивантажуйте свої файли через { -send-brand-name }, щоб обмінюватися ними з використанням наскрізного шифрування і посиланнями з функцією автоматичного самознищення.
+onboarding-firefox-send-button = Спробувати { -send-brand-name }
+onboarding-mobile-phone-title = Встановіть { -brand-product-name } на свій смартфон
+onboarding-mobile-phone-text = Завантажте { -brand-product-name } для iOS чи Android і синхронізуйте свої дані між різними пристроями.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Завантажити мобільний браузер
+onboarding-send-tabs-title = Миттєво пересилайте собі вкладки
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Надсилання вкладки миттєво пересилає веб-сторінки між вашими пристроями без копіювання посилань, не покидаючи браузер.
+onboarding-send-tabs-button = Почати використання обмін вкладками
 
 ## Message strings belonging to the Return to AMO flow
 
