@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "Tęskite nuo ten, kur baigėte.">
 <!ENTITY firstrun_sync_subtext2 "Naudokitės „Sync“ norėdami rasti adresyno įrašus, slaptažodžius bei kitus su „&brandShortName;“ išsaugotus dalykus, visuose savo įrenginiuose.">
 <!ENTITY newfirstrun_sync_subtext "Sinchronizuokite mobiliojoje „Firefox“ įrašytus dalykus su kompiuterine „Firefox“, privačiai ir saugiai.">
+<!ENTITY updatednewfirstrun_sync_subtext "Prisijungę prie savo paskyros išnaudosite daugiau „&brandShortName;“ galimybių">
 <!ENTITY firstrun_signin_message "Prisijunkite ir pradėkite">
 <!ENTITY firstrun_signin_button "Prisijungti prie „Sync“">
 <!ENTITY newfirstrun_signin_button "Įjungti „Sync“">
+<!ENTITY updatednewfirstrun_signin_button "Prisijungti prie „&brandShortName;“">
 <!ENTITY  onboard_start_button_browser "Pradėti naršymą">
 <!ENTITY firstrun_button_notnow "Ne dabar">
 <!ENTITY firstrun_button_next "Toliau">
@@ -413,8 +415,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Atsiuntimai">
 <!ENTITY pref_private_data_syncedTabs "Sinchronizuotos kortelės">
 
-<!ENTITY pref_default_browser "Paskirti numatytąja naršykle">
-
 <!ENTITY pref_default_browser2 "Skirti „&brandShortName;“ numatytąja naršykle">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -679,6 +679,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Parinkite arba įrašykite garsą">
 <!ENTITY filepicker_image_title "Parinkite arba nufotografuokite paveikslą">
 <!ENTITY filepicker_video_title "Parinkite arba įrašykite vaizdo įrašą">
+
+<!ENTITY filepicker_permission_denied "Nesuteikti reikalingi leidimai, grįžtama prie sistemos failų parinkiklio.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Esate prisijungę prie">
