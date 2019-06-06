@@ -293,6 +293,18 @@ update-pref-write-failure-title = Įrašymo klaida
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Nepavyko įrašyti nuostatos. Negalima įrašyti į failą: { $path }
+update-setting-write-failure-title = Klaida įrašant naujinimų nuostatas
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message = „{ -brand-short-name }“ susidūrė su klaida ir neįrašė šio pakeitimo. Atminkite, kad šios naujinimų nuostatos keitimui reikia leidimo rašyti į žemiau nurodytą failą. Jūs arba sistemos prižiūrėtojas gali pabandyti išspręsti šią problemą, suteikdami visišką šio failo valdymą „Users“ grupei.
+update-in-progress-title = Vyksta naujinimas
+update-in-progress-message = Ar norite, kad „{ -brand-short-name }“ tęstų šį naujinimą?
+update-in-progress-ok-button = &Atsisakyti
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Tęsti
 
 ## General Section - Performance
 
