@@ -28,7 +28,12 @@ abuse-report-submit-button = Mondo
 
 abuse-report-messagebar-aborted = Ojehejáma marandu <span data-l10n-name="addon-name">{ $addon-name }</span> rehegua.
 abuse-report-messagebar-submitting = Emondohína marandu <span data-l10n-name="addon-name">{ $addon-name }</span> peg̃uarã.
+abuse-report-messagebar-submitted = Aguyje emondo haguére marandu. ¿Emboguesépa <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = Aguyje emondo haguére marandu.
+abuse-report-messagebar-removed-extension = Aguyje emondo haguére marandu. Emboguéma pe jepysokue <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-theme = Aguyje emondo haguére marandu. Emboguéma pe téma <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error = Oiko jejavy emondokuévo marandu <span data-l10n-name="addon-name">{ $addon-name }</span> rehegua.
+abuse-report-messagebar-error-recent-submit = Noñemondói marandu <span data-l10n-name="addon-name">{ $addon-name }</span> rehegua oñemondóma haguére ambue marandu.
 
 ## Message bars actions.
 
@@ -41,4 +46,5 @@ abuse-report-messagebar-action-cancel = Heja
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-broken-reason-theme = Ndoikói térã ndojehechái pe kundaha
 abuse-report-other-reason = Ambue mba’e
