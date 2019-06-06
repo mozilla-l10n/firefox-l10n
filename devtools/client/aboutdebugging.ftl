@@ -82,9 +82,6 @@ about-debugging-refresh-usb-devices-button = Obnoviť zariadenia
 about-debugging-setup-title = Nastavenie
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Nastavte si spôsob, pomocou ktorého chcete ladiť svoje zariadenie.
-# Link displayed in the Setup page that leads to MDN page with list of supported devices.
-# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
-about-debugging-setup-link-android-devices = Zobraziť zoznam podporovaných zariadení s Androidom
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Použite <a>{ about-debugging-this-firefox-runtime-name }</a> na ladenie kariet, rozšírení a service workers v tejto verzii { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
@@ -152,9 +149,6 @@ about-debugging-runtime-other-workers =
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Procesy
-# Label of the button opening the performance profiler panel in runtime pages for remote
-# runtimes.
-about-debugging-runtime-profile-button = Runtime profilu
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
@@ -166,6 +160,8 @@ about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Odpojiť
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title2 = Nástroj na profilovanie
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
@@ -246,3 +242,7 @@ about-debugging-main-process-description2 = Hlavný proces pre cieľový prehlia
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Zavrieť správu
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = Podrobnosti o chybe
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = Podrobnosti o varovaní
