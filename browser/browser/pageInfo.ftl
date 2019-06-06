@@ -113,7 +113,7 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
-security-site-data-cookies = დიახ, ფუნთუშებსა და { $value } { $unit } საიტის მონაცემებს
+security-site-data-cookies = დიახ, ფუნთუშებსა და { $value } { $unit } მოცულობის მონაცემებს
 security-site-data-only = დიახ, { $value }{ $unit } საიტის მონაცემებს
 security-site-data-cookies-only = დიახ, ფუნთუშებს
 security-site-data-no = არა
