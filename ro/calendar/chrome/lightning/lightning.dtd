@@ -47,8 +47,8 @@
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
      - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
-<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Pentru moment, poți activa acesta numai în dialogul proprietăți a calendarului dacă server-ul calendarului este responsabil de planificare.">
-<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Această opțiune este disponibilă numai dacă server-ul calendarului este responsabil de planificare. Activarea va permite întoarcerea la planificare standard pe bază de email față de planificare de server.">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Pentru moment, poți activa acesta numai în dialogul de proprietăți a calendarului, dacă serverul calendarului este responsabil de planificare.">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Această opțiune este disponibilă numai dacă serverul calendarului gestionează planificarea. Activarea va permite revenirea la planificarea standard pe bază de e-mail, în locul lăsării acesteia pe server.">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Acceptă">
