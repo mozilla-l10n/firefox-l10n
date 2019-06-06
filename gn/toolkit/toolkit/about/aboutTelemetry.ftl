@@ -136,5 +136,9 @@ about-telemetry-category-header = mba'éichagua
 about-telemetry-method-header = tapereko
 about-telemetry-object-header = g̃uahẽseha
 about-telemetry-extra-header = mbohetapy
+about-telemetry-origin-section = Telemetría ñepyrũha
 about-telemetry-origin-origin = Ñepyrũha
 about-telemetry-origin-count = papa
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = Tapereko { $process }

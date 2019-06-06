@@ -8,7 +8,9 @@ profiles-create = Mba'ete Pyahu Ñemoheñói
 profiles-restart-title = Moñepyrũjey
 profiles-restart-in-safe-mode = Moĩmbaha oguepyréva ndive moñepyrũjey...
 profiles-restart-normal = Jepiveguáicha ñemoñepyrũjey...
+profiles-flush-fail-title = Moambuepy noñeñongatúiva
 profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Peteĩ jejavy eha’arõ’ỹva omboyke umi moambuepy ñeñongatu.
 profiles-flush-restart-button = Emoñepyrũjey { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
