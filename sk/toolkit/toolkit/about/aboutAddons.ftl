@@ -280,10 +280,15 @@ discopane-notice-recommendations =
     máte nainštalované, nastaveniach profilu a štatistikách používania.
 discopane-notice-learn-more = Ďalšie informácie
 privacy-policy = Zásady ochrany súkromia
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = Autor: <a data-l10n-name="author">{ $author }</a>
 # Shows the number of daily users of the add-on.
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
 user-count = Počet používateľov: { $dailyUsers }
+install-extension-button = Pridať do { -brand-product-name(case: "gen") }
 install-theme-button = Nainštalovať tému vzhľadu
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
@@ -331,6 +336,9 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = Doplnok <span data-l10n-name="addon-name">{ $addon }</span> bol odstránený.
 pending-uninstall-undo-button = Späť
 addon-detail-updates-label = Automatické aktualizácie
 addon-detail-updates-radio-default = Predvolené nastavenie
@@ -338,6 +346,7 @@ addon-detail-updates-radio-on = Zapnuté
 addon-detail-updates-radio-off = Vypnuté
 addon-detail-update-check-label = Vyhľadať aktualizácie
 install-update-button = Aktualizovať
+addon-detail-private-browsing-help = Povolené rozšírenia majú prístup k vašim aktivitám na internete v súkromných oknách. <a data-l10n-name="learn-more">Ďalšie informácie</a>
 addon-detail-private-browsing-allow = Povoliť
 addon-detail-private-browsing-disallow = Nepovoliť
 recent-updates-heading = Naposledy aktualizované

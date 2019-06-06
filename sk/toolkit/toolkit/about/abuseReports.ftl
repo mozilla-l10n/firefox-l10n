@@ -19,6 +19,7 @@ abuse-report-submit-button = Odoslať
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-retry = Skúsiť znova
 abuse-report-messagebar-action-cancel = Zrušiť
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)

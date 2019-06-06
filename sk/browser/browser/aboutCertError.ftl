@@ -6,6 +6,8 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = Server { $hostname } používa neplatný bezpečnostný certifikát.
 cert-error-mitm-intro = Webové stránky preukazujú svoju identitu pomocou certifikátov, ktoré vydávajú certifikačné autority.
+cert-error-mitm-mozilla = Za aplikáciou { -brand-short-name } stojí nezisková organizácia Mozilla, ktorá spravuje otvorené úložisko certifikačných autorít (CA). Toto úložisko zaisťuje, že certifikačné autority dodržiavajú osvedčené bezpečnostné postupy.
+cert-error-mitm-connection = { -brand-short-name } používa úložisko certifikačných autorít od Mozilly, nie úložisko z operačného systému. Ak antivírusový program alebo niekto v sieti zachytáva spojenie s použitím certifikátov od autority, ktorá v úložisku Mozilly nie je, je toto spojenie považované za nezabezpečené.
 cert-error-trust-unknown-issuer-intro = Niekto sa môže za danú stránku vydávať a preto by ste nemali pokračovať v pripájaní sa.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
@@ -31,6 +33,14 @@ cert-error-domain-mismatch-single-nolink = Webové stránky preukazujú svoju id
 # Variables:
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
 cert-error-domain-mismatch-multiple = Webové stránky preukazujú svoju identitu pomocou certifikátov. { -brand-short-name } nemôže túto stránku overiť, pretože používa certifikát, ktorý nie je platný pre { $hostname }. Certifikát je platný pre nasledujúce názvy domén: { $subject-alt-names }
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = Webové stránky preukazujú svoju identitu pomocou certifikátov, ktoré majú obmedzenú platnosť. Platnosť certifikátu pre { $hostname } vypršala { $not-after-local-time }.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = Webové stránky preukazujú svoju identitu pomocou certifikátov, ktoré majú obmedzenú platnosť. Certifikát pre { $hostname } bude platný až od { $not-before-local-time }.
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Kód chyby: <a data-l10n-name="error-code-link">{ $error }</a>
