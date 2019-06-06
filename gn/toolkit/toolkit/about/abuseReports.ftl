@@ -46,5 +46,8 @@ abuse-report-messagebar-action-cancel = Heja
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason = Ombyai che mohendaha ha mba’ekuaarã
+abuse-report-damage-example = Techapyrã: omohenda malware térã omonda marandu
+abuse-report-spam-reason = Omoheñói spam térã maranduñemurã
 abuse-report-broken-reason-theme = Ndoikói térã ndojehechái pe kundaha
 abuse-report-other-reason = Ambue mba’e

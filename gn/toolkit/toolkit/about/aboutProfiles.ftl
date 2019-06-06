@@ -8,6 +8,7 @@ profiles-create = Mba'ete Pyahu Ñemoheñói
 profiles-restart-title = Moñepyrũjey
 profiles-restart-in-safe-mode = Moĩmbaha oguepyréva ndive moñepyrũjey...
 profiles-restart-normal = Jepiveguáicha ñemoñepyrũjey...
+profiles-conflict = Ambue mbokuatiapyre { -brand-product-name } rehegua omoambue umi mba’ete. Emoñepyrũjey { -brand-short-name } emoambueve mboyve.
 profiles-flush-fail-title = Moambuepy noñeñongatúiva
 profiles-flush-conflict = { profiles-conflict }
 profiles-flush-failed = Peteĩ jejavy eha’arõ’ỹva omboyke umi moambuepy ñeñongatu.
