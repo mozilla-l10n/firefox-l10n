@@ -95,7 +95,7 @@ detail-update-manual =
 detail-private-browsing-label = Leisti privačiojo naršymo languose
 detail-private-browsing-description2 = Jums leidus, šis priedas turės prieigą prie jūsų veiklos internete, kai naršote privačiai. <label data-l10n-name="detail-private-browsing-learn-more">Sužinokite daugiau</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
-# cannot be overriden by the user.
+# cannot be overridden by the user.
 detail-private-disallowed-label = Neleidžiama privačiojo naršymo languose
 detail-private-disallowed-description = Šis priedas neveikia privačiojo naršymo languose. <label data-l10n-name="detail-private-browsing-learn-more">Sužinokite daugiau</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
@@ -362,6 +362,11 @@ addon-badge-private-browsing-allowed =
 addon-detail-private-browsing-help = Leidus, priedas turės priėjimą prie jūsų veiklos internete naršant privačiai. <a data-l10n-name="learn-more">Sužinokite daugiau</a>
 addon-detail-private-browsing-allow = Leisti
 addon-detail-private-browsing-disallow = Neleisti
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Rekomenduojamas
+    .alt = Rekomenduojamas
 available-updates-heading = Galimi naujinimai
 recent-updates-heading = Paskiausiai atnaujinti
 release-notes-loading = Įkeliama…

@@ -143,3 +143,6 @@ about-telemetry-origin-count = kiekis
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-origins-explanation = Prieš persiųsdama duomenis, <a data-l10n-name="origin-doc-link">„Firefox Origin Telemetry“</a>  juos užšifruoja taip, kad „{ $telemetryServerOwner }“ galėtų suskaičiuoti dalykus, tačiau nežinotų ar kuris nors konkretus { -brand-product-name } patenka į tą kiekį. (<a data-l10n-name="prio-blog-link">sužinoti daugiau</a>)
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = { $process } procesas

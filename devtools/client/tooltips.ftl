@@ -19,6 +19,7 @@ inactive-css-not-grid-item = <strong>{ $property }</strong> nedaro poveikio šia
 inactive-css-not-grid-container = <strong>{ $property }</strong> nedaro poveikio šiam elementui, kadangi jis nėra „grid“ konteineris.
 inactive-css-not-flex-item = <strong>{ $property }</strong> nedaro poveikio šiam elementui, kadangi jis nėra „flex“ elementas.
 inactive-css-not-flex-container = <strong>{ $property }</strong> nedaro poveikio šiam elementui, kadangi jis nėra „flex“ konteineris.
+inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> nedaro poveikio šiam elementui, kadangi jis nėra nei „inline“, nei „table-cell“ elementas.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -30,3 +31,4 @@ inactive-css-not-grid-item-fix = Pabandykite pridėti <strong>display:grid</stro
 inactive-css-not-grid-container-fix = Pabandykite pridėti <strong>display:grid</strong> arba <strong>display:inline-grid</strong>. { learn-more }
 inactive-css-not-flex-item-fix = Pabandykite pridėti <strong>display:flex</strong> arba <strong>display:inline-flex</strong> tėviniam elementui. { learn-more }
 inactive-css-not-flex-container-fix = Pabandykite pridėti <strong>display:flex</strong> arba <strong>display:inline-flex</strong>. { learn-more }
+inactive-css-not-inline-or-tablecell-fix = Pabandykite pridėti <strong>display:inline</strong> arba <strong>display:table-cell</strong>. { learn-more }
