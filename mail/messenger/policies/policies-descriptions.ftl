@@ -23,11 +23,24 @@ policy-Cookies = Permitir o denegar que los sitios web guarden cookies.
 policy-DefaultDownloadDirectory = Establecer el directorio de descargas predeterminado.
 policy-DisableAppUpdate = Evitar que { -brand-short-name } se actualice.
 policy-DisableDeveloperTools = Bloquear acceso a las herramientas de desarrollador.
+policy-DisableFeedbackCommands = Deshabilitar comandos para enviar opiniones desde el menú de Ayuda (Enviar opinión e Informar acerca de sitio engañoso).
 policy-DisableForgetButton = Evitar acceso al botón Olvidar.
 policy-DisableMasterPasswordCreation = Si es verdadero, no se puede crear una contraseña maestra.
+policy-DisableProfileImport = Deshabilite el comando de menú para importar datos de otra aplicación.
+policy-DisableSafeMode = Deshabilitar la función para reiniciar en Modo seguro. Nota: la tecla Mayús para ingresar al Modo seguro solo se puede deshabilitar en Windows usando la Política de grupo.
+policy-DisableSecurityBypass = Evita que el usuario omita ciertas advertencias de seguridad.
+policy-DisableSystemAddonUpdate = Evita que { -brand-short-name } instale y actualice los complementos del sistema.
 policy-DisableTelemetry = Deshabilitar Telemetry.
 policy-DisplayMenuBar = Mostrar la barra de menú por defecto.
 policy-DNSOverHTTPS = Configurar DNS sobre HTTPS.
+policy-DontCheckDefaultClient = Desactivar el chequeo del cliente predeterminado en el inicio.
+policy-DownloadDirectory = Establecer y bloquear el directorio de descarga.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Habilitar o deshabilitar el bloqueo de contenido y, opcionalmente, bloquearlo.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = Instalar, desinstalar o bloquear extensiones. La opción Instalar toma direcciones URL o rutas como parámetros. Las opciones desinstalar y bloquear toman IDs de las extensiones.
 policy-ExtensionUpdate = Habilitar o deshabilitar actualización automática de extensiones.
 policy-HardwareAcceleration = Si es falso, deshabilitar aceleración por hardware.
 policy-InstallAddonsPermission = Permitir que ciertos sitios web instalen complementos.
