@@ -12,7 +12,7 @@
 about-debugging-page-title-setup-page = Depanare - Configurare
 # Page title (ie tab title) for the Runtime page
 # { $selectedRuntimeId } is the id of the current runtime, such as "this-firefox", "localhost:6080", ...
-about-debugging-page-title-runtime-page = Depanare - Timp de execuție / { $selectedRuntimeId }
+about-debugging-page-title-runtime-page = Depanare - Mediu de execuție / { $selectedRuntimeId }
 
 # Sidebar strings
 
@@ -161,7 +161,7 @@ about-debugging-runtime-shared-workers =
     .name = Workeri partajați
 # Title of the other workers category.
 about-debugging-runtime-other-workers =
-    .name = Alți workers
+    .name = Alți workeri
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Procese
@@ -266,11 +266,11 @@ about-debugging-worker-action-unregister = Dezînregistrează
 # Displayed for service workers in runtime pages that listen to Fetch events.
 about-debugging-worker-fetch-listening =
     .label = Fetch
-    .value = Se ascultă evenimente Fetch
+    .value = Se ascultă evenimente fetch
 # Displayed for service workers in runtime pages that do not listen to Fetch events.
 about-debugging-worker-fetch-not-listening =
     .label = Fetch
-    .value = Nu se ascultă evenimente Fetch
+    .value = Nu se ascultă evenimente fetch
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
 about-debugging-worker-status-running = În rulare
