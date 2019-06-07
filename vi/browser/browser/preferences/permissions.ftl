@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Lưu thay đổi
     .accesskey = L
+permissions-autoplay-menu = Mặc định cho tất cả các trang web:
 permissions-searchbox =
     .placeholder = Tìm kiếm trang web
+permissions-capabilities-autoplay-allow =
+    .label = Cho phép âm thanh và video
+permissions-capabilities-autoplay-block =
+    .label = Chặn âm thanh
+permissions-capabilities-autoplay-blockall =
+    .label = Chặn âm thanh và video
 permissions-capabilities-allow =
     .label = Cho phép
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = Cho phép
 permissions-capabilities-listitem-block =
     .value = Chặn
-permissions-capabilities-listitem-allow-first-party =
-    .value = Chỉ chấp nhận bên thứ nhất
 permissions-capabilities-listitem-allow-session =
     .value = Cho phép theo phiên
 
@@ -97,6 +102,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Ngoại lệ - Tự động phát
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Bạn có thể chỉ định trang web nào luôn hoặc không bao giờ được phép tự động phát phương tiện với âm thanh. Nhập địa chỉ của trang web bạn muốn quản lý và sau đó nhấp vào Chặn hoặc Cho phép.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Cài đặt - Tự động phát
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Bạn có thể quản lý các trang web không tuân theo cài đặt tự động phát mặc định của bạn tại đây.
 
 ## Site Permissions - Notifications
 

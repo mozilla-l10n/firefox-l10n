@@ -368,3 +368,8 @@ recent-updates-heading = Cập nhật gần đây
 release-notes-loading = Đang tải…
 release-notes-error = Xin lỗi, nhưng có lỗi xảy ra khi mở ghi chú phát hành.
 addon-permissions-empty = Tiện ích mở rộng này không yêu cầu bất kỳ quyền nào
+recommended-extensions-heading = Tiện ích mở rộng được đề xuất
+recommended-themes-heading = Chủ đề được đề xuất
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Cảm thấy muốn sáng tạo? <a data-l10n-name="link">Xây dựng chủ đề của riêng bạn với Firefox Color.</a>
