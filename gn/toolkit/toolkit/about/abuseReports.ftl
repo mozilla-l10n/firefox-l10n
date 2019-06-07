@@ -55,4 +55,5 @@ abuse-report-settings-suggestions-homepage = Emoambue kuatiarogue ñepyrũha ha 
 abuse-report-deceptive-reason = Ohechaukaséva mba’e ha’e’ ỹva
 abuse-report-deceptive-example = Techapyrã: Ñemoha’ãnga térã ta’ãnga jejavýva
 abuse-report-broken-reason-theme = Ndoikói térã ndojehechái pe kundaha
+abuse-report-policy-reason = Tetepy rairõgua, imarã térã ja’e’ỹ
 abuse-report-other-reason = Ambue mba’e
