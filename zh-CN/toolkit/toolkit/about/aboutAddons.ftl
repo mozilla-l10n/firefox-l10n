@@ -357,3 +357,5 @@ recent-updates-heading = 最近更新
 release-notes-loading = 正在载入…
 release-notes-error = 抱歉，载入发行说明时出错。
 addon-permissions-empty = 此扩展未要求任何权限
+recommended-extensions-heading = 推荐扩展
+recommended-themes-heading = 推荐主题

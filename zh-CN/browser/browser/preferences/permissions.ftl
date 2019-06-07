@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = 保存更改
     .accesskey = S
+permissions-autoplay-menu = 所有网站的默认值：
 permissions-searchbox =
     .placeholder = 搜索网站
+permissions-capabilities-autoplay-allow =
+    .label = 允许音频和视频
+permissions-capabilities-autoplay-block =
+    .label = 阻止音频
+permissions-capabilities-autoplay-blockall =
+    .label = 阻止音频和视频
 permissions-capabilities-allow =
     .label = 允许
 permissions-capabilities-block =
@@ -95,6 +102,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = 例外 - 自动播放
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = 您可以指定一律允许或不允许哪些网站自动播放有声媒体内容。请输入所要指定的完整网址，然后点击“阻止”或者“允许”。
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = 设置 - 自动播放
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = 您可以在此处管理不遵循默认自动播放设置的网站。
 
 ## Site Permissions - Notifications
 
