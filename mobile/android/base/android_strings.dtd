@@ -111,6 +111,10 @@
 <!ENTITY bookmark_parent_folder "上層資料夾">
 <!ENTITY bookmark_add_folder "新增資料夾">
 
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "（無標題）">
+
 <!ENTITY reader_saved_offline "已儲存離線閱讀">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
@@ -591,6 +595,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "網址">
 <!ENTITY bookmark_edit_keyword "關鍵字">
 <!ENTITY bookmark_select_folder "選擇資料夾">
+
+<!ENTITY bookmark_edit_undo "復原">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
