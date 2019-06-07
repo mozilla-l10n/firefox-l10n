@@ -31,13 +31,15 @@ features-id = ID
 processes-title = Zdalne procesy
 processes-type = Typ
 processes-count = Liczba
-app-basics-title = Informacje o aplikacji
+app-basics-title = Informacje o programie
 app-basics-name = Nazwa
 app-basics-version = Wersja
 app-basics-build-id = ID kompilacji
 app-basics-update-channel = Kanał aktualizacji
 app-basics-update-history = Historia aktualizacji
 app-basics-show-update-history = Wyświetl historię aktualizacji
+# Represents the path to the binary used to start the application.
+app-basics-binary = Plik binarny programu
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Katalog profilu
