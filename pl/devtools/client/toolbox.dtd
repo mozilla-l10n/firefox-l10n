@@ -136,6 +136,11 @@
 <!ENTITY options.timestampMessages.label      "Znaczniki czasu">
 <!ENTITY options.timestampMessages.tooltip    "Po włączeniu tej opcji polecenia i ich wyjście w konsoli WWW będą wyświetlane obok znaczników czasu">
 
+<!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
+   - label for the checkbox that toggles the warningGroups feature in the Web Console -->
+<!ENTITY options.warningGroups.label      "Grupowanie podobnych komunikatów">
+<!ENTITY options.warningGroups.tooltip    "Po włączeniu podobne komunikaty są umieszczane w grupach">
+
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
 <!ENTITY options.debugger.label            "Debuger">

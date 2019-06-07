@@ -45,7 +45,7 @@ about-debugging-sidebar-item-connect-button-connecting = Łączenie…
 about-debugging-sidebar-item-connect-button-connection-failed = Połączenie się nie powiodło
 # Text displayed in connection warning on sidebar item of the runtime when connecting to
 # the runtime is taking too much time.
-about-debugging-sidebar-item-connect-button-connection-not-responding = Połączenie nadal oczekuje, sprawdź wiadomości w przeglądarce docelowej
+about-debugging-sidebar-item-connect-button-connection-not-responding = Połączenie nadal oczekuje, sprawdź komunikaty w przeglądarce docelowej
 # Text displayed as connection error in sidebar item when the connection has timed out.
 about-debugging-sidebar-item-connect-button-connection-timeout = Upłynął limit czasu połączenia
 # Temporary text displayed in sidebar items representing remote runtimes after
@@ -84,6 +84,8 @@ about-debugging-setup-title = Konfiguracja
 about-debugging-setup-intro = Skonfiguruj metodę połączenia do zdalnego debugowania urządzenia.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Użyj „<a>{ about-debugging-this-firefox-runtime-name }</a>” do debugowania kart, rozszerzeń i wątków usługowych w tej wersji przeglądarki { -brand-shorter-name }.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Użyj „<a>{ about-debugging-this-firefox-runtime-name }</a>” do debugowania rozszerzeń i wątków usługowych w tej wersji przeglądarki { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Połącz z urządzeniem
 # USB section of the Setup page
