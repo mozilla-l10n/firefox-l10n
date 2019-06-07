@@ -36,15 +36,15 @@
 <!ENTITY pkcs12.setpassword.label2 "Parola de siguranță pentru certificate (din nou):">
 <!ENTITY pkcs12.setpassword.reminder "Important: Dacă uiți parola de siguranță pentru certificate, nu vei putea reface această copie mai târziu.  Te rugăm să ai grijă să o păstrezi într-un loc sigur.">
 
-<!ENTITY chooseToken.title  "Alege dialogul">
+<!ENTITY chooseToken.title  "Alege dialogul pentru jetoane">
 <!ENTITY chooseToken.message1 "Te rugăm să alegi un cod.">
 
 <!-- Strings for the CreateCertInfo dialog  -->
-<!ENTITY createCertInfo.title "Generez o cheie privată">
+<!ENTITY createCertInfo.title "Se generează o cheie privată">
 <!ENTITY createCertInfo.msg1 "Generarea cheii în curs… Aceasta poate dura câteva minute….">
 <!ENTITY createCertInfo.msg2 "Te rugăm să aștepți…">
 
 <!-- Strings for protectedAuth dialog -->
-<!ENTITY protectedAuth.title "Autentificare prin cod protejat">
+<!ENTITY protectedAuth.title "Autentificare prin jeton protejat">
 <!ENTITY protectedAuth.msg "Te rugăm te autentifici cu cod. Metoda de autentificare depinde de tipul codului tău.">
 <!ENTITY protectedAuth.tokenName.label "Cod:">
