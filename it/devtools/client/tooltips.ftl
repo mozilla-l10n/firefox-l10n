@@ -33,5 +33,4 @@ inactive-css-not-flex-item-fix = Provare ad aggiungere <strong>display:flex</str
 inactive-css-not-flex-container-fix = Provare ad aggiungere <strong>display:flex</strong> o <strong>display:inline-flex</strong>. { learn-more }
 inactive-css-not-inline-or-tablecell-fix = Provare ad aggiungere <strong>display:inline</strong> o <strong>display:table-cell</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Provare ad aggiungere <strong>display:inline-block</strong> o <strong>display:block</strong>. { learn-more }
-+
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Provare ad aggiungere <strong>display:inline-block</strong>. { learn-more }
