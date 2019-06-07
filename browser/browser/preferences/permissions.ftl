@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Guardar cambios
     .accesskey = G
+permissions-autoplay-menu = Predeterminado para todos los sitios web:
 permissions-searchbox =
     .placeholder = Buscar sitio web
+permissions-capabilities-autoplay-allow =
+    .label = Permitir audio y video
+permissions-capabilities-autoplay-block =
+    .label = Bloquear audio
+permissions-capabilities-autoplay-blockall =
+    .label = Bloquear audio y video
 permissions-capabilities-allow =
     .label = Habilitar
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = Habilitar
 permissions-capabilities-listitem-block =
     .value = Bloquear
-permissions-capabilities-listitem-allow-first-party =
-    .value = Permitir solamente el primero
 permissions-capabilities-listitem-allow-session =
     .value = Habilitar durante Sesión
 
@@ -58,10 +63,6 @@ permissions-invalid-uri-label = Por favor, ingrese un nombre de host válido
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Excepciones - Protección de rastreo
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Está deshabilitada la protección de rastreo en estos sitios.
 permissions-exceptions-content-blocking-window =
     .title = Excepciones - Bloqueo de contenidos
     .style = { permissions-window.style }
@@ -101,6 +102,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Excepciones - Reproducción automática
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Puede especificar qué sitios tienen permitido o no usar cookies. Ingrese la dirección exacta del sitio que quiera administrar y después haga clic en Bloquear o Permitir.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Configuración - Reproducción automática
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Aquí puede administrar los sitios que no siguen su configuración de reproducción automática predeterminada.
 
 ## Site Permissions - Notifications
 
