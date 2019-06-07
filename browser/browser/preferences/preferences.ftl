@@ -284,7 +284,7 @@ update-setting-write-failure-title = 儲存更新偏好設定時發生錯誤
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
-    { -brand-short-name } 遇到錯誤，並未儲存此變更。請注意: 設定此更新偏好設定，需要能夠寫入下列檔案的權限。您或者是您的系統管理員可能可以透過將此檔案的完整控制權限授權使用者，來解決問題。
+    { -brand-short-name } 遇到錯誤，並未儲存此變更。請注意: 調整此更新偏好設定，需要能夠寫入下列檔案的權限。您或您的系統管理員可以透過授予使用者此檔案的完整控制權，來解決本問題。
     
     無法寫入下列檔案: { $path }
 update-in-progress-title = 更新中
