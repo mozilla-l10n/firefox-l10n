@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Salva modifiche
     .accesskey = S
+permissions-autoplay-menu = Impostazione predefinita per tutti i siti web:
 permissions-searchbox =
     .placeholder = Cerca sito web
+permissions-capabilities-autoplay-allow =
+    .label = Consenti audio e video
+permissions-capabilities-autoplay-block =
+    .label = Blocca audio
+permissions-capabilities-autoplay-blockall =
+    .label = Blocca audio e video
 permissions-capabilities-allow =
     .label = Consenti
 permissions-capabilities-block =
@@ -95,6 +102,11 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Eccezioni - Riproduzione automatica
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = È possibile specificare quali siti web avranno sempre il permesso di riprodurre automaticamente contenuti sonori e quali verranno bloccati. Inserire l’indirizzo esatto del sito web da gestire e fare clic su Blocca o Consenti.
+
+permissions-site-autoplay-window =
+    .title = Impostazioni - Riproduzione automatica
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = È possibile specificare quali siti web non seguono le impostazioni predefinite per la riproduzione automatica.
 
 ## Site Permissions - Notifications
 
