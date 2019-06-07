@@ -4,3 +4,6 @@
 
 restart-required-title = Potreban restart
 restart-required-header = Oprostite. Potrebno je da uradimo jednu malu stvar da biste nastavili.
+restart-required-intro-brand = { -brand-short-name } se upravo nadogradio u pozadini. Kliknite Restartuj { -brand-short-name } da završite nadogradnju.
+restart-required-description = Vratit ćemo sve vaše stranice, prozore i tabove odmah po pokretanju.
+restart-button-label = Restartuj { -brand-short-name }
