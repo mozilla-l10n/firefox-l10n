@@ -88,6 +88,13 @@ devinfo-serialnum =
     .label = หมายเลขอนุกรม
 fips-nonempty-password-required = รูปแบบ FIPS จำเป็นต้องใช้รหัสผ่านหลักที่ตั้งไว้กับอุปกรณ์รักษาความปลอดภัยแต่ละตัว กรุณาตั้งรหัสผ่านก่อนการเปิดใช้งานรูปแบบ FIPS
 unable-to-toggle-fips = ไม่สามารถเปลี่ยนโหมด FIPS ให้เข้ากับอุปกรณ์รักษาความปลอดภัย แนะนำให้คุณออกและเริ่มโปรแกรมใหม่
+load-pk11-module-file-picker-title = เลือกไดรเวอร์อุปกรณ์ PKCS#11 ที่จะโหลด
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = ชื่อโมดูลต้องไม่ว่างเปล่า
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ‘Root Certs‘ ถูกสงวนไว้และไม่สามารถนำมาใช้เป็นชื่อโมดูลได้
 add-module-failure = ไม่สามารถเพิ่มโมดูล
 del-module-warning = คุณแน่ใจหรือไม่ว่าต้องการลบโมดูลความปลอดภัยนี้?
 del-module-error = ไม่สามารถลบโมดูล
