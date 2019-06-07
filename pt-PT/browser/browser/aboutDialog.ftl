@@ -26,7 +26,7 @@ channel-description = Atualmente, está no canal de atualização <label data-l1
 warningDesc-version = O { -brand-short-name } é experimental e poderá ser instável.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">A { -vendor-short-name }</label> é uma <label data-l10n-name="community-exp-creditsLink">comunidade global</label> que trabalha em conjunto para manter a Web aberta, pública e acessível a todos.
 community-2 = O { -brand-short-name } é desenhado pela <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, uma <label data-l10n-name="community-creditsLink">comunidade global</label> que trabalha em conjunto para manter a Web aberta, pública e acessível a todos.
-helpus = Quer ajudar? <label data-l10n-name="helpus-donateLink">Faça um donativo</label> ou <label data-l10n-name="helpus-getInvolvedLink">participe!</label>
+helpus = Pretende ajudar? <label data-l10n-name="helpus-donateLink">Faça um donativo</label> ou <label data-l10n-name="helpus-getInvolvedLink">participe!</label>
 bottomLinks-license = Informação de licenciamento
 bottomLinks-rights = Direitos do utilizador final
 bottomLinks-privacy = Política de privacidade
