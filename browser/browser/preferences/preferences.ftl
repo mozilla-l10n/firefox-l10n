@@ -763,6 +763,7 @@ permissions-block-autoplay-media2 =
 permissions-block-autoplay-media-exceptions =
     .label = Exceções…
     .accesskey = E
+permissions-autoplay = Reprodução automática
 permissions-autoplay-settings =
     .label = Configurações…
     .accesskey = f
