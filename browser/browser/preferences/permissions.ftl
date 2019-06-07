@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Salvar alterações
     .accesskey = S
+permissions-autoplay-menu = Padrão em todos os sites:
 permissions-searchbox =
     .placeholder = Pesquisar sites
+permissions-capabilities-autoplay-allow =
+    .label = Permitir áudio e vídeo
+permissions-capabilities-autoplay-block =
+    .label = Bloquear áudio
+permissions-capabilities-autoplay-blockall =
+    .label = Bloquear áudio e vídeo
 permissions-capabilities-allow =
     .label = Permitir
 permissions-capabilities-block =
@@ -95,6 +102,9 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Exceções - Reprodução automática
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Você pode especificar que sites têm ou não permissão para reproduzir mídia com som automaticamente. Digite o endereço do site desejado e clique em Bloquear ou Permitir.
+
+## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 

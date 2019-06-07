@@ -374,3 +374,8 @@ recent-updates-heading = Atualizações recentes
 release-notes-loading = Carregando…
 release-notes-error = Desculpe, houve um erro ao carregar as notas de lançamento.
 addon-permissions-empty = Esta extensão não exige nenhum permissão
+recommended-extensions-heading = Extensões recomendadas
+recommended-themes-heading = Temas recomendados
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Sentindo criatividade? <a data-l10n-name="link">Crie seu próprio tema com o Firefox Color.</a>
