@@ -368,6 +368,7 @@
 <!ENTITY bookmark_edit_location "Indirizzo">
 <!ENTITY bookmark_edit_keyword "Parola chiave">
 <!ENTITY bookmark_select_folder "Scegli cartella">
+<!ENTITY bookmark_edit_undo "Annulla">
 <!ENTITY site_settings_title3 "Impostazioni sito">
 <!ENTITY site_settings_cancel "Annulla">
 <!ENTITY site_settings_clear "Cancella">
