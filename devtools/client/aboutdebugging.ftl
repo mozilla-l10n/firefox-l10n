@@ -82,9 +82,6 @@ about-debugging-refresh-usb-devices-button = Оновити список при�
 about-debugging-setup-title = Налаштування
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Налаштуйте метод з'єднання, за допомогою якого ви бажаєте виконати віддалене зневадження свого пристрою.
-# Link displayed in the Setup page that leads to MDN page with list of supported devices.
-# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
-about-debugging-setup-link-android-devices = Переглянути список підтримуваних пристроїв Android
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Використовуйте <a>{ about-debugging-this-firefox-runtime-name }</a> для зневадження вкладок, розширень та service workers в цій версії { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
@@ -106,11 +103,7 @@ about-debugging-setup-usb-status-enabled = Увімкнено
 about-debugging-setup-usb-status-disabled = Вимкнено
 about-debugging-setup-usb-status-updating = Оновлення…
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu = Увімкніть меню розробника на вашому пристрої Android. <a>Дізнайтеся як</a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug = Увімкніть зневадження через USB в меню розробника Android. <a>Дізнайтеся як</a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox = Увімкніть зневадження через USB в Firefox на пристрої Android. <a>Дізнайтеся як</a>
+about-debugging-setup-usb-step-enable-dev-menu2 = Увімкніть меню Розробник на пристрої Android.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Під'єднайте пристрій Android до комп'ютера.
 # Network section of the Setup page
@@ -162,9 +155,6 @@ about-debugging-runtime-other-workers =
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Процеси
-# Label of the button opening the performance profiler panel in runtime pages for remote
-# runtimes.
-about-debugging-runtime-profile-button = Профіль Runtime
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
@@ -201,13 +191,6 @@ about-debugging-connection-prompt-enable-button = Увімкнути запит 
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = Вимкнути запит на підключення
-# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
-about-debugging-profiler-dialog-title = Профайлер швидкодії
-# Label of a checkbox displayed in the runtime page for "This Firefox".
-# This checkbox will toggle preferences that enable local addon debugging.
-# The "Learn more" link points to MDN.
-# https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
-about-debugging-extension-debug-setting-label = Увімкнути зневадження розширень. <a>Докладніше</a>
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
@@ -296,3 +279,9 @@ about-debugging-main-process-description2 = Головний процес для
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Закрити повідомлення
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = Відомості про помилку
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = Відомості про попередження
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = Відомості
