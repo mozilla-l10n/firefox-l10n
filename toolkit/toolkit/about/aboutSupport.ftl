@@ -34,6 +34,7 @@ app-basics-build-id = ID build
 app-basics-update-channel = Canale di aggiornamento
 app-basics-update-history = Cronologia aggiornamenti
 app-basics-show-update-history = Mostra cronologia aggiornamenti
+app-basics-binary = File binario dell’applicazione
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Cartella del profilo
