@@ -37,7 +37,7 @@
 
 <!ENTITY firstrun_readerview_title "Articole">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
-<!ENTITY firstrun_readerview_message "Scapă de dezordine">
+<!ENTITY firstrun_readerview_message "Scapă de elementele inutile">
 <!ENTITY firstrun_readerview_subtext "Folosește modul de lectură pentru citirea comodă a articolelor \u2014 chiar și offline.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
