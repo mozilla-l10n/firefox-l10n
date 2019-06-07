@@ -35,21 +35,21 @@
 
 <!ENTITY folderSynchronizationTab.label          "Samtempigo">
 <!ENTITY folderCheckForNewMessages2.label         "Dum elŝuti mesaĝojn por tiu ĉi konto, ĉiam kontroli tiun ĉi mesaĝujon">
-<!ENTITY folderCheckForNewMessages2.accesskey     "c">
+<!ENTITY folderCheckForNewMessages2.accesskey     "k">
 
-<!ENTITY offlineFolder.check.label               "Select this folder for offline use">
-<!ENTITY offlineFolder.check.accesskey           "S">
-<!ENTITY offlineFolder.button.label              "Download Now">
-<!ENTITY offlineFolder.button.accesskey          "D">
+<!ENTITY offlineFolder.check.label               "Igi tiun ĉi mesaĝujon uzebla malkonekte">
+<!ENTITY offlineFolder.check.accesskey           "I">
+<!ENTITY offlineFolder.button.label              "Elŝuti nun">
+<!ENTITY offlineFolder.button.accesskey          "E">
 
-<!ENTITY selectofflineNewsgroup.check.label      "Select this newsgroup for offline use">
-<!ENTITY selectofflineNewsgroup.check.accesskey  "o">
-<!ENTITY offlineNewsgroup.button.label           "Download Now">
-<!ENTITY offlineNewsgroup.button.accesskey       "D">
+<!ENTITY selectofflineNewsgroup.check.label      "Igi tiun ĉi novaĵgrupon uzebla malkonekte">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "g">
+<!ENTITY offlineNewsgroup.button.label           "Elŝuti nun">
+<!ENTITY offlineNewsgroup.button.accesskey       "E">
 
-<!ENTITY folderProps.name.label                  "Name:">
+<!ENTITY folderProps.name.label                  "Nomo:">
 <!ENTITY folderProps.name.accesskey              "N">
-<!ENTITY folderProps.location.label              "Location:">
+<!ENTITY folderProps.location.label              "Loko:">
 <!ENTITY folderProps.location.accesskey          "L">
 
 <!ENTITY folderSharingTab.label                  "Sharing">
