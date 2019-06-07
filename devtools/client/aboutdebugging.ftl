@@ -84,6 +84,8 @@ about-debugging-setup-title = Configuratie
 about-debugging-setup-intro = Configureer de verbindingsmethode waarmee u uw apparaat extern wilt debuggen.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Gebruik <a>{ about-debugging-this-firefox-runtime-name }</a> om tabbladen, extensies en service workers op deze versie van { -brand-shorter-name } te debuggen.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Gebruik <a>{ about-debugging-this-firefox-runtime-name }</a> om extensies en service workers op deze versie van { -brand-shorter-name } te debuggen.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Een apparaat verbinden
 # USB section of the Setup page

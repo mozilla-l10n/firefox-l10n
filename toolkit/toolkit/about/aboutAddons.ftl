@@ -378,3 +378,8 @@ recent-updates-heading = Recente updates
 release-notes-loading = Laden…
 release-notes-error = Sorry, maar er is een fout opgetreden bij het laden van de uitgaveopmerkingen.
 addon-permissions-empty = Voor deze extensie zijn geen toestemmingen vereist
+recommended-extensions-heading = Aanbevolen extensies
+recommended-themes-heading = Aanbevolen thema’s
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Voelt u zich creatief? <a data-l10n-name="link"> Bouw uw eigen thema met Firefox Color.</a>
