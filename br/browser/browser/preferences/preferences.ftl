@@ -300,11 +300,6 @@ update-pref-write-failure-title = Fazi skrivañ
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = N'haller ket enrollañ ho kwellvezioù. N'haller ket skrivañ er restr: { $path }
 update-setting-write-failure-title = Fazi en ur enrollañ ar gwellvezioù hizivaat
-# Variables:
-#   $path (String) - Path to the configuration file
-# The newlines between the main text and the line containing the path is
-# intentional so the path is easier to identify.
-update-setting-write-failure-message = Degouezhet ez eus bet ur fazi gant { -brand-short-name } ha n'eo ket bet enrollet ar c'hemmoù. Arventennoù gwellvezioù an hizivadennoù a azgoulenn an aotre da skrivañ er restr dindan. C'hwi pe un ardoer reizhiad a c'hallfe bezañ gouest da ziskoulmañ ar fazi en ur reiñ an aotre d'ar strollad arveriaded evit kemmañ ar restr-mañ.
 update-in-progress-title = Hizivadenn war ober
 update-in-progress-message = Fallout a ra deoc'h e kendalc'hfe { -brand-short-name } da hizivaat?
 update-in-progress-ok-button = &Argas
