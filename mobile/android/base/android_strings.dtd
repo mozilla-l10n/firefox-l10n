@@ -24,6 +24,7 @@
 <!ENTITY firstrun_sync_message2 "Продовжуйте з місця, на якому ви зупинилися.">
 <!ENTITY firstrun_sync_subtext2 "Використовуйте синхронізацію для доступу до закладок, паролів та інших даних, які ви зберігаєте в &brandShortName;, на всіх пристроях.">
 <!ENTITY newfirstrun_sync_subtext "Користуйтеся приватною і безпечною синхронізацією Firefox між мобільним і комп\&apos;ютером.">
+<!ENTITY updatednewfirstrun_sync_subtext "Увійдіть до свого облікового запису для отримання максимуму від &brandShortName;">
 <!ENTITY firstrun_signin_message "Під’єднайтесь і вперед">
 <!ENTITY firstrun_signin_button "Увійти до Синхронізації">
 <!ENTITY newfirstrun_signin_button "Увімкнути синхронізацію">
@@ -413,8 +414,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Завантаження">
 <!ENTITY pref_private_data_syncedTabs "Синхронізовані вкладки">
 
-<!ENTITY pref_default_browser "Зробити типовим браузером">
-
 <!ENTITY pref_default_browser2 "Зробити &brandShortName; типовим браузером">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -680,6 +679,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_image_title "Виберіть чи зробіть фото">
 <!ENTITY filepicker_video_title "Виберіть чи запишіть відео">
 
+
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Ви підключені до">
 <!-- Localization note (identity_run_by) : This string appears between a
@@ -921,6 +921,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Пауза">
 <!ENTITY pip_pause_button_description "Призупинити відтворення">
 
+<!ENTITY pref_notification_settings_link "Керувати налаштуваннями сповіщень">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Браузер">
 <!ENTITY mls_notification_channel "Послуга розташування &vendorShortName;">
