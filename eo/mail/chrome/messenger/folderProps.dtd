@@ -52,20 +52,20 @@
 <!ENTITY folderProps.location.label              "Loko:">
 <!ENTITY folderProps.location.accesskey          "L">
 
-<!ENTITY folderSharingTab.label                  "Sharing">
-<!ENTITY privileges.button.label                 "Privileges…">
-<!ENTITY privileges.button.accesskey             "P">
-<!ENTITY permissionsDesc.label                   "You have the following permissions:">
-<!ENTITY folderType.label                        "Folder Type:">
+<!ENTITY folderSharingTab.label                  "Kunuzado">
+<!ENTITY privileges.button.label                 "Rajtoj…">
+<!ENTITY privileges.button.accesskey             "R">
+<!ENTITY permissionsDesc.label                   "Vi havas la jenajn rajtojn:">
+<!ENTITY folderType.label                        "Speco de mesaĝujo:">
 
-<!ENTITY folderQuotaTab.label                    "Quota">
-<!ENTITY folderQuotaRoot.label                   "Quota Root:">
-<!ENTITY folderQuotaUsage.label                  "Usage:">
-<!ENTITY folderQuotaStatus.label                 "Status:">
+<!ENTITY folderQuotaTab.label                    "Libera spaco">
+<!ENTITY folderQuotaRoot.label                   "Libera spaco (radika):">
+<!ENTITY folderQuotaUsage.label                  "Uzo:">
+<!ENTITY folderQuotaStatus.label                 "Stato:">
 
-<!ENTITY numberOfMessages.label                  "Number of messages:">
+<!ENTITY numberOfMessages.label                  "Nombro da mesaĝoj:">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
-<!ENTITY numberUnknown.label                     "unknown">
-<!ENTITY sizeOnDisk.label                        "Size on disk:">
+<!ENTITY numberUnknown.label                     "nekonata">
+<!ENTITY sizeOnDisk.label                        "Grando en disko:">
 <!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
-<!ENTITY sizeUnknown.label                       "unknown">
+<!ENTITY sizeUnknown.label                       "nekonata">
