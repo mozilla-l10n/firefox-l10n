@@ -40,5 +40,11 @@
 <!ENTITY helpFeedbackPage.label "Enviar comentários…">
 <!ENTITY helpFeedbackPage.accesskey "E">
 
+<!ENTITY helpShowTour2.label "Apresentação do &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey "p">
 
+<!ENTITY helpGetInvolvedPage.label "Participe">
+<!ENTITY helpGetInvolvedPage.accesskey "i">
 
+<!ENTITY helpDonationsPage.label "Faça um donativo">
+<!ENTITY helpDonationsPage.accesskey "F">
