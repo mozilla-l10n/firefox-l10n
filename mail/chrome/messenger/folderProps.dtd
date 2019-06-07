@@ -16,25 +16,25 @@
 <!ENTITY folderIncludeInGlobalSearch.label       "Inkluzivi mesaĝojn en tiu ĉi mesaĝujo en rezultoj de ĝenerala serĉo">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "I">
 
-<!ENTITY retention.label "Retention Policy">
-<!ENTITY retentionUseAccount.label  "Use my account settings">
+<!ENTITY retention.label "Konservo de mesaĝoj">
+<!ENTITY retentionUseAccount.label  "Uzi agordojn de kontoj">
 <!ENTITY retentionUseAccount.accesskey "U">
-<!ENTITY daysOld.label "days old">
-<!ENTITY message.label "messages">
-<!ENTITY retentionCleanup.label "To recover disk space, old messages can be permanently deleted.">
-<!ENTITY retentionCleanupImap.label "To recover disk space, old messages can be permanently deleted, both local copies and originals on the remote server.">
-<!ENTITY retentionCleanupPop.label "To recover disk space, old messages can be permanently deleted, including originals on the remote server.">
-<!ENTITY retentionDeleteMsg.label "Delete messages more than">
+<!ENTITY daysOld.label "tagoj">
+<!ENTITY message.label "mesaĝoj">
+<!ENTITY retentionCleanup.label "Por ŝpari diskspacon, eblas neinversigeble forigi malnovajn mesaĝojn.">
+<!ENTITY retentionCleanupImap.label "Por ŝpari diskspacon, eblas neinversigeble forigi malnovajn mesaĝojn – ambaŭ lokajn kopiojn kaj originalojn en la fora servilo.">
+<!ENTITY retentionCleanupPop.label "Por ŝpari diskspacon, eblas neinversigeble forigi malnovajn mesaĝojn, inkluzivante originalojn en la fora servilo.">
+<!ENTITY retentionDeleteMsg.label "Forigi mesaĝojn pli malnovajn ol">
 <!ENTITY retentionDeleteMsg.accesskey "m">
-<!ENTITY retentionKeepAll.label "Don't delete any messages">
-<!ENTITY retentionKeepAll.accesskey "A">
-<!ENTITY retentionKeepRecent.label "Delete all but the most recent">
-<!ENTITY retentionKeepRecent.accesskey "l">
-<!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
-<!ENTITY retentionApplyToFlagged.accesskey "e">
+<!ENTITY retentionKeepAll.label "Forigi neniujn mesaĝojn">
+<!ENTITY retentionKeepAll.accesskey "n">
+<!ENTITY retentionKeepRecent.label "Forigi ĉiujn, escepte de antaŭaj">
+<!ENTITY retentionKeepRecent.accesskey "e">
+<!ENTITY retentionApplyToFlagged.label "Ĉiam teni mesaĝojn markitajn per steleto">
+<!ENTITY retentionApplyToFlagged.accesskey "s">
 
-<!ENTITY folderSynchronizationTab.label          "Synchronization">
-<!ENTITY folderCheckForNewMessages2.label         "When getting new messages for this account, always check this folder">
+<!ENTITY folderSynchronizationTab.label          "Samtempigo">
+<!ENTITY folderCheckForNewMessages2.label         "Dum elŝuti mesaĝojn por tiu ĉi konto, ĉiam kontroli tiun ĉi mesaĝujon">
 <!ENTITY folderCheckForNewMessages2.accesskey     "c">
 
 <!ENTITY offlineFolder.check.label               "Select this folder for offline use">
