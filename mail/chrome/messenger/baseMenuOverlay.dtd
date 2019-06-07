@@ -9,6 +9,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Ajuda">
 <!ENTITY helpMenuWin.accesskey "A">
+<!ENTITY aboutProduct2.label "Sobre &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey "S">
 <!ENTITY helpTroubleshootingInfo.label     "Informação de suporte">
 <!ENTITY helpTroubleshootingInfo.accesskey "I">
 <!ENTITY helpSafeMode.label     "Reiniciar com os extras desativados…">
@@ -20,13 +22,23 @@
 <!ENTITY openHelp.label "Tópicos de ajuda">
 <!ENTITY openHelp.accesskey "T">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "Ajuda do &brandShortName;">
 <!ENTITY openHelpMac2.label "Ajuda do &brandFullName;">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY aboutMenuCmd.label "Acerca do &brandShortName;">
-<!ENTITY aboutMenuCmd.accesskey "A">
-
 <!ENTITY aboutMenuCmd2.label "Acerca do &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "A">
+<!ENTITY productHelp.label "Ajuda do &brandShortName;">
+<!ENTITY productHelp.accesskey "j">
+<!ENTITY productHelp.commandkey "VK_F1">
+<!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "accel">
+
+<!ENTITY helpKeyboardShortcuts.label "Atalhos de teclado">
+<!ENTITY helpKeyboardShortcuts.accesskey "t">
+
+<!ENTITY helpFeedbackPage.label "Enviar comentários…">
+<!ENTITY helpFeedbackPage.accesskey "E">
+
+
+
