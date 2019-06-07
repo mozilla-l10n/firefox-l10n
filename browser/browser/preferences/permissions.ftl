@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Zachowaj
     .accesskey = h
+permissions-autoplay-menu = Domyślne dla wszystkich witryn:
 permissions-searchbox =
     .placeholder = Szukaj witryn
+permissions-capabilities-autoplay-allow =
+    .label = Zezwalanie na dźwięk i wideo
+permissions-capabilities-autoplay-block =
+    .label = Blokowanie dźwięku
+permissions-capabilities-autoplay-blockall =
+    .label = Blokowanie dźwięku i wideo
 permissions-capabilities-allow =
     .label = Zezwalaj
 permissions-capabilities-block =
@@ -95,6 +102,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Automatyczne odtwarzanie — wyjątki
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Określ, które witryny będą mogły zawsze (lub nigdy) automatycznie odtwarzać treści z dźwiękiem. Wprowadź adres witryny, której uprawnienia chcesz określić, i wybierz Zezwalaj lub Blokuj.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Automatyczne odtwarzanie — ustawienia
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Zarządzaj witrynami, które nie korzystają z domyślnych ustawień automatycznego odtwarzania.
 
 ## Site Permissions - Notifications
 
