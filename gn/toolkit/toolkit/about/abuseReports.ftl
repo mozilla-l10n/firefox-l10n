@@ -12,6 +12,9 @@ abuse-report-learnmore =
     ¿Ndereikuaaporãi mba’e apañuãi emoĩporãta?
     <a data-l10n-name="learnmore-link">Eñemomaranduve jepysokue rehegua ha avei téma</a>
 abuse-report-submit-description = Emoha’ãnga apañuãi (ejaposéramo)
+abuse-report-submit-note =
+    Kuaarã: ndogueroikéi marandu nemba’etéva (téra, ñanduti veve kundaharape, pumbyry papapy, óga rape).
+    { -vendor-short-name } oguereko tapia jehaipy ko’ã marandu rehegua.
 
 ## Panel buttons.
 
@@ -50,10 +53,15 @@ abuse-report-damage-reason = Ombyai che mohendaha ha mba’ekuaarã
 abuse-report-damage-example = Techapyrã: omohenda malware térã omonda marandu
 abuse-report-spam-reason = Omoheñói spam térã maranduñemurã
 abuse-report-spam-example = Techapyrã: Omoinge maranduñemurã ñanduti kuatiaroguépe
+abuse-report-settings-reason = Iñambue che jehekaha, kuatiarogue ñepyrũ térã tendayke pyahu chemomarandu ha oporandu’ỹre
+abuse-report-settings-suggestions = Emomarandu mboyve pe jepysokue, eñeha’ã emoambue ñemboheko:
 abuse-report-settings-suggestions-search = Emoambue ñemboheko jehekaha ijypykuévape
 abuse-report-settings-suggestions-homepage = Emoambue kuatiarogue ñepyrũha ha tendayke pyahúpe
 abuse-report-deceptive-reason = Ohechaukaséva mba’e ha’e’ ỹva
 abuse-report-deceptive-example = Techapyrã: Ñemoha’ãnga térã ta’ãnga jejavýva
 abuse-report-broken-reason-theme = Ndoikói térã ndojehechái pe kundaha
+abuse-report-broken-example = Techapyrã: umi tembiapoite imbegue, hasy ijepuru térã ndoikói; oĩ ñanduti renda vore noñemyanyhẽi térã ojehechauka vaíva
 abuse-report-policy-reason = Tetepy rairõgua, imarã térã ja’e’ỹ
+abuse-report-unwanted-reason = Ndaipotaivavoínte ko jepysokue ha ndaikatúi aipe’a ko’ág̃a
+abuse-report-unwanted-example = Techapyrã: Peteĩ tembipuru’i oñemohendáva amoneĩ’ỹre
 abuse-report-other-reason = Ambue mba’e
