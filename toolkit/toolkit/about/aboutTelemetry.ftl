@@ -50,6 +50,8 @@ about-telemetry-results-for-search = ผลลัพธ์สำหรับ “
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = ขออภัย! ขณะนี้ไม่มีข้อมูลใน “{ $sectionName }”
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-ping-sidebar = ping ปัจจุบัน
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = ทั้งหมด
 # button label to copy the histogram
@@ -75,5 +77,11 @@ about-telemetry-late-writes-title = การเขียนภายหลั�
 about-telemetry-stack-title = สแตก:
 about-telemetry-memory-map-title = ผังหน่วยความจำ:
 about-telemetry-error-fetching-symbols = เกิดข้อผิดพลาดระหว่างการดึงข้อมูลสัญลักษณ์ ตรวจสอบว่าคุณเชื่อมต่อกับอินเทอร์เน็ตอยู่แล้วลองใหม่อีกครั้ง
+about-telemetry-time-stamp-header = บันทึกเวลา
 about-telemetry-category-header = หมวดหมู่
 about-telemetry-method-header = วิธีการ
+about-telemetry-object-header = วัตถุ
+about-telemetry-extra-header = พิเศษ
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = โปรเซส { $process }
