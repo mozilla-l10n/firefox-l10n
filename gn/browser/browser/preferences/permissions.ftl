@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Moambue ñongatu
     .accesskey = S
+permissions-autoplay-menu = Ijypykuéramo opaite ñanduti rendápe g̃uarã:
 permissions-searchbox =
     .placeholder = Ñandutirenda Jeheka
+permissions-capabilities-autoplay-allow =
+    .label = Emoneĩ mba'epu ha ta'ãngamýi
+permissions-capabilities-autoplay-block =
+    .label = Ejoko mba'epu
+permissions-capabilities-autoplay-blockall =
+    .label = Ejoko mba'epu ha ta'ãngamýi
 permissions-capabilities-allow =
     .label = Moneĩ
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = Moneĩ
 permissions-capabilities-listitem-block =
     .value = Jokoha
-permissions-capabilities-listitem-allow-first-party =
-    .value = Ñepyrũguáva año ñemoneĩ
 permissions-capabilities-listitem-allow-session =
     .value = Tembiapópe g̃uarã moneĩ
 
@@ -58,10 +63,6 @@ permissions-invalid-uri-label = Emoinge peteĩ mohendahavusu oikóva réra
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Oĩ'ỹva - Ñemo'ã Tapykuehógui
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Embojuruja tapykueho ñemo'ã ko'ã ko'ã ñanduti rendápe.
 permissions-exceptions-content-blocking-window =
     .title = Ykepegua – Tetepy jejoko
     .style = { permissions-window.style }
@@ -101,6 +102,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Ykepegua – Ñemboheta ijeheguíva
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Ikatúpa ere mba’e tendápa oñemoneĩ térã oñembotove kookie jepurúpe. Emoinge tenda kundaharape eñangarekoseha ha upéi eikutu Joko térã Moneĩ.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Ñemboheko - Mbohetajehegui
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Ko’ápe ikatu eñangareko umi tenda ndohapykuehóiva iñemboheta ñemboheko jehegui ijypykuéva.
 
 ## Site Permissions - Notifications
 

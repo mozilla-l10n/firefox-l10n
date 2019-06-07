@@ -361,3 +361,5 @@ recent-updates-heading = Mohekopyahu ramoveguáva
 release-notes-loading = Henyhẽhína…
 release-notes-error = Rombyasy, hákatu oiko jejavy henyhẽnguévo jehaipy rehegua.
 addon-permissions-empty = Ko jepysokue noikotevẽi ñemoneĩ
+recommended-extensions-heading = Jepysokue je’eporãpyre
+recommended-themes-heading = Téma je’eporãpyre
