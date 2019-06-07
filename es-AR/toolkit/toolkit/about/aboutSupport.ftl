@@ -37,6 +37,8 @@ app-basics-build-id = ID de Build
 app-basics-update-channel = Canal de actualización
 app-basics-update-history = Historial de actualizaciones
 app-basics-show-update-history = Mostrar historial de actualizaciones
+# Represents the path to the binary used to start the application.
+app-basics-binary = Binario de aplicación
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Directorio de perfil
