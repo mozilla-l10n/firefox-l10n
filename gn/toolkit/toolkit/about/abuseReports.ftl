@@ -53,5 +53,6 @@ abuse-report-spam-example = Techapyrã: Omoinge maranduñemurã ñanduti kuatiar
 abuse-report-settings-suggestions-search = Emoambue ñemboheko jehekaha ijypykuévape
 abuse-report-settings-suggestions-homepage = Emoambue kuatiarogue ñepyrũha ha tendayke pyahúpe
 abuse-report-deceptive-reason = Ohechaukaséva mba’e ha’e’ ỹva
+abuse-report-deceptive-example = Techapyrã: Ñemoha’ãnga térã ta’ãnga jejavýva
 abuse-report-broken-reason-theme = Ndoikói térã ndojehechái pe kundaha
 abuse-report-other-reason = Ambue mba’e

@@ -140,5 +140,8 @@ about-telemetry-origin-section = Telemetría ñepyrũha
 about-telemetry-origin-origin = Ñepyrũha
 about-telemetry-origin-count = papa
 # Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> ombopapapy mba’ekuaarã ojegueraha’ỹre { $telemetryServerOwner }-pe ikatúva omombe’u, hákatu ndoikuaái peteĩva { -brand-product-name } oipytyvõpa pe jepapápe. <a data-l10n-name="prio-blog-link">maranduve</a>)
+# Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = Tapereko { $process }
