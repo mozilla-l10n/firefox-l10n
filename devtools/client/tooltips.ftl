@@ -13,6 +13,14 @@ learn-more = <span data-l10n-name="link">Meer informatie</span>
 ## Variables:
 ##   $property (string) - A CSS property name e.g. "color".
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> heeft geen effect op dit element aangezien het geen flexcontainer of gridcontainer is.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> heeft geen effect op dit element aangezien het geen grid- of flexitem is.
 inactive-css-not-grid-item = <strong>{ $property }</strong> heeft geen effect op dit element aangezien het geen griditem is.
@@ -20,6 +28,7 @@ inactive-css-not-grid-container = <strong>{ $property }</strong> heeft geen effe
 inactive-css-not-flex-item = <strong>{ $property }</strong> heeft geen effect op dit element aangezien het geen flexitem is.
 inactive-css-not-flex-container = <strong>{ $property }</strong> heeft geen effect op dit element aangezien het geen flexcontainer is.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> heeft geen effect op dit element, omdat het geen inline of table-cell-element is.
+inactive-css-property-because-of-display = <strong>{ $property }</ strong> heeft geen effect op dit element, omdat het een weergave van <strong>{ $display }</ strong> heeft.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -32,3 +41,5 @@ inactive-css-not-grid-container-fix = Probeer <strong>display:grid</strong> of <
 inactive-css-not-flex-item-fix = Probeer <strong>display:flex</strong> of <strong>display:inline-flex</strong> toe te voegen aan het bovenliggende element. { learn-more }
 inactive-css-not-flex-container-fix = Probeer <strong>display:flex</strong> of <strong>display:inline-flex</strong> toe te voegen. { learn-more }
 inactive-css-not-inline-or-tablecell-fix = Probeer <strong>display:inline</strong> of <strong>display:table-cell</strong> toe te voegen. { learn-more }
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Probeer <strong>display:inline-block</ strong> of <strong>display:block</ strong> toe te voegen. { learn-more }
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Probeer <strong>display:inline-block</ strong> toe te voegen. { learn-more }
