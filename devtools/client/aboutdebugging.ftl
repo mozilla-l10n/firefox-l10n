@@ -84,6 +84,8 @@ about-debugging-setup-title = 设置
 about-debugging-setup-intro = 配置您偏好的连接方法以远程调试您的设备。
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = 使用 <a>{ about-debugging-this-firefox-runtime-name }</a> 调试此 { -brand-shorter-name } 版本上的标签页、扩展和 Service Worker。
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = 使用<a>{ about-debugging-this-firefox-runtime-name }</a> 调试此版本 { -brand-shorter-name } 上的扩展和 Service Worker。
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = 连接设备
 # USB section of the Setup page

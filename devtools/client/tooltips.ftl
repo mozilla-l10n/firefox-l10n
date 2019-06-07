@@ -13,6 +13,14 @@ learn-more = <span data-l10n-name="link">详细了解</span>
 ## Variables:
 ##   $property (string) - A CSS property name e.g. "color".
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 inactive-css-not-grid-or-flex-container = 由于不是弹性容器或网格容器，<strong>{ $property }</strong> 对此元素无效。
 inactive-css-not-grid-or-flex-item = 由于不是弹性或网格项目，<strong>{ $property }</strong> 对此元素无效。
 inactive-css-not-grid-item = 由于不是网格项目，<strong>{ $property }</strong> 对此元素无效。
@@ -32,3 +40,5 @@ inactive-css-not-grid-container-fix = 请尝试添加 <strong>display:grid</stro
 inactive-css-not-flex-item-fix = 请尝试为项目的父元素添加 <strong>display:flex</strong> 或 <strong>display:inline-flex</strong>。{ learn-more }
 inactive-css-not-flex-container-fix = 请尝试添加 <strong>display:flex</strong> 或 <strong>display:inline-flex</strong>。{ learn-more }
 inactive-css-not-inline-or-tablecell-fix = 请尝试添加 <strong>display:inline</strong> 或 <strong>display:table-cell</strong>。{ learn-more }
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = 请尝试添加 <strong>display:inline-block</strong> 或 <strong>display:block</strong>。{ learn-more }
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = 请尝试添加 <strong>display:inline-block</strong>。{ learn-more }
