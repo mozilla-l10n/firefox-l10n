@@ -24,6 +24,7 @@
 <!ENTITY firstrun_sync_message2 "Nadaljujte, kjer ste končali.">
 <!ENTITY firstrun_sync_subtext2 "Uporabite Sync za prenos zaznamkov, gesel in drugih shranjenih &brandShortName;ovih podatkov med vsemi svojimi napravami.">
 <!ENTITY newfirstrun_sync_subtext "Sinhronizirajte podatke, ki jih shranite na mobilnem telefonu, s Firefoxom za namizje – zasebno in varno.">
+<!ENTITY updatednewfirstrun_sync_subtext "Prijavite se v svoj račun, da boste kar najbolje izkoristili &brandShortName;">
 <!ENTITY firstrun_signin_message "Povežite se in začnite">
 <!ENTITY firstrun_signin_button "Prijava v Sync">
 <!ENTITY newfirstrun_signin_button "Vklopi Sync">
