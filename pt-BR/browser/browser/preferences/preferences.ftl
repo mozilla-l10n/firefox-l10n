@@ -296,7 +296,7 @@ update-setting-write-failure-title = Erro ao salvar preferências de atualizaç�
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
-    O { -brand-short-name } encontrou um erro e não salvou esta alteração. Note que definir esta preferência de atualização exige permissão para escrever no arquivo abaixo. Você ou um administrador do sistema deve conseguir resolver o erro dando ao grupo 'Users' total controle sobre este arquivo.
+    O { -brand-short-name } encontrou um erro e não salvou esta alteração. Note que definir esta preferência de atualização requer permissão para escrever no arquivo abaixo. Você ou um administrador do sistema deve conseguir resolver o erro dando ao grupo 'Users' total controle sobre este arquivo.
     
     Não foi possível escrever no arquivo: { $path }
 update-in-progress-title = Atualização em andamento
