@@ -10,15 +10,6 @@
 <!ENTITY toggleToolboxF12.keycode          "VK_F12">
 <!ENTITY toggleToolboxF12.keytext          "F12">
 
-<!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
-  -  shown next to error details when the Browser Toolbox is unable to open. -->
-<!ENTITY browserToolboxErrorMessage          "Zmylk při wočinjenju gratoweho kašćika wobhladowaka:">
-
-<!-- LOCALIZATION NOTE (browserToolboxStatusMessage): This is the label
-  -  shown next to status details when the Browser Toolbox fails to connect or
-  -  appears to be taking a while to do so. -->
-<!ENTITY browserToolboxStatusMessage "Zwiskowy status nastrojow wobhladowaka:">
-
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 <!ENTITY options.context.advancedSettings "Rozšěrjene nastajenja">
@@ -144,6 +135,11 @@
    - label for the checkbox that toggles timestamps in the Web Console -->
 <!ENTITY options.timestampMessages.label      "Časowe kołki zmóžnić">
 <!ENTITY options.timestampMessages.tooltip    "Jeli tute nastajenje zmóžniš, přikazy a wudaće we webkonsoli časowy kołk pokazuja">
+
+<!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
+   - label for the checkbox that toggles the warningGroups feature in the Web Console -->
+<!ENTITY options.warningGroups.label      "Podobne powěsće zeskupić">
+<!ENTITY options.warningGroups.tooltip    "Hdyž to je zmóžnjene, so podobne powěsće do skupinow zaměstnjeja">
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->

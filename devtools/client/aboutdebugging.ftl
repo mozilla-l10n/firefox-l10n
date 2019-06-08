@@ -84,6 +84,8 @@ about-debugging-setup-title = Připrawjenje
 about-debugging-setup-intro = Konfigurujće zwiskowu metodu, z kotrejž chceće swój grat znazdala za zmylkami přepytować.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Wužiwajće <a>{ about-debugging-this-firefox-runtime-name }</a>, zo byšće rajtarki, rozšěrjenja a service workers tuteje wersiji { -brand-shorter-name } za zmylkami přepytował.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Wužiwajće <a>{ about-debugging-this-firefox-runtime-name }</a>, zo byšće rozšěrjenja a service workers tuteje wersije { -brand-shorter-name } za zmylkami přepytował.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Z gratom zwjazać
 # USB section of the Setup page
