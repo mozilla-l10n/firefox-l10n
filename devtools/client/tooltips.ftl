@@ -41,3 +41,5 @@ inactive-css-not-grid-container-fix = Spytajće <strong>display:grid</strong> ab
 inactive-css-not-flex-item-fix = Spytajće <strong>display:flex</strong> abo <strong>display:inline-flex</strong> nadrjadowanemu elementej zapiska přidać. { learn-more }
 inactive-css-not-flex-container-fix = Spytajće <strong>display:flex</strong> abo <strong>display:inline-flex</strong> přidać. { learn-more }
 inactive-css-not-inline-or-tablecell-fix = Spytajće <strong>display:inline</strong> abo <strong>display:table-cell</strong> přidać. { learn-more }
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Spytajće <strong>display:inline-block</strong> abo <strong>display:block</strong> přidać. { learn-more }
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Spytajće <strong>display:inline-block</strong> přidać. { learn-more }
