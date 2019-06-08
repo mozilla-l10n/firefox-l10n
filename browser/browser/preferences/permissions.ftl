@@ -34,6 +34,7 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Tallenna muutokset
     .accesskey = T
+permissions-autoplay-menu = Oletus kaikille sivustoille:
 permissions-searchbox =
     .placeholder = Etsi sivustoa
 permissions-capabilities-allow =
@@ -46,8 +47,6 @@ permissions-capabilities-listitem-allow =
     .value = Salli
 permissions-capabilities-listitem-block =
     .value = Estä
-permissions-capabilities-listitem-allow-first-party =
-    .value = Salli vain ensimmäisen osapuolen
 permissions-capabilities-listitem-allow-session =
     .value = Salli istunnon ajaksi
 
@@ -58,10 +57,6 @@ permissions-invalid-uri-label = Kirjoita kelvollinen palvelinnimi
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Poikkeukset - Seurannan suojaus
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Olet poistanut seurannan suojauksen näiltä sivustoilta.
 permissions-exceptions-content-blocking-window =
     .title = Poikkeukset - Sisällön esto
     .style = { permissions-window.style }
@@ -101,6 +96,9 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Poikkeukset - Automaattinen toisto
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Voit valita, mitkä sivustot saavat joko aina tai eivät ikinä toistaa äänellistä mediaa automaattisesti. Kirjoita sivuston osoite ja napsauta Estä tai Salli.
+
+## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
