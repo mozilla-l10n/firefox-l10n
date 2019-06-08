@@ -108,6 +108,7 @@ permissions-exceptions-autoplay-media-desc2 = Móžeće podać, kotre websydła 
 permissions-site-autoplay-window =
     .title = Nastajenja - awtomatiske wothraće
     .style = { permissions-window.style }
+permissions-site-autoplay-desc = Móžeće sydła rjadować, kotrež nimaja so tu po wašich standardnych nastajenjach awtomatiskeho wothraća.
 
 ## Site Permissions - Notifications
 
