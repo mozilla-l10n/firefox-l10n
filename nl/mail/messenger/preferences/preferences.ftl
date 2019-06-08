@@ -15,6 +15,17 @@ update-pref-write-failure-title = Schrijffout
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Kan voorkeur niet opslaan. Kon niet schrijven naar bestand: { $path }
 
+update-setting-write-failure-title = Fout bij opslaan updatevoorkeuren
+
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } heeft een fout aangetroffen en heeft deze wijziging niet opgeslagen. Merk op dat voor het instellen van deze updatevoorkeur schrijfrechten voor onderstaand bestand benodigd zijn. U of uw systeembeheerder kan deze fout oplossen door de groep Gebruikers volledige toegang tot dit bestand te geven.
+
+    Kon niet schrijven naar bestand: { $path }
+
 update-in-progress-title = Update wordt uitgevoerd
 
 update-in-progress-message = Wilt u dat { -brand-short-name } doorgaat met deze update?
