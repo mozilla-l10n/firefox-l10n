@@ -64,9 +64,14 @@ onboarding-ghostery-text = Inig s wudem arurad, uḥric, neɣ aɣelsan s isiɣza
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Rnu { -fxaccount-brand-name } sakin mtawi ticraḍ-ik n yisebtar, awalen-ik uffiren akked yiccaren yeldin deg yal amdiq anida i tesseqdaceḍ { -brand-short-name }.
 onboarding-tracking-protection-title2 = Ammesten mgal aḍfar
+onboarding-tracking-protection-text2 = { -brand-short-name } yessewḥal ismal web seg uḍfaṛ deg tunigin-ik, ayen yessiwwiren adellel yettaɛraḍen ad k-yeḍfeṛ deg Web.
 onboarding-tracking-protection-button2 = Amek iteddu
 onboarding-data-sync-title = Awi iɣewwaṛen-ik yid-k
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Mtaw ticraḍ-ik n yisebtar, awalen-ik uffiren, atg, s kra wanida i tesqedceḍ { -brand-product-name }.
 onboarding-data-sync-button2 = Qqen ɣer { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Ḍfeṛ s lqerban tarewla n yisefka
+onboarding-firefox-monitor-text = { -monitor-brand-name } yessenqad ma yella tansa-ik imayl tella deg trewla n yisefka daɣen ad k-id-yelɣu ticki tella deg trewla-nniḍen tamaynut n yisefka.
 onboarding-firefox-monitor-button = jerred akken ak-id-awḍen ilɣa
 onboarding-browse-privately-title = Inig s wudem uslig
 onboarding-browse-privately-button = Ldi asfaylu n tunigin tusligt
