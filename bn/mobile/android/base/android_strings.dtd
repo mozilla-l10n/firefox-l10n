@@ -9,6 +9,7 @@
 <!ENTITY firstrun_panel_title_privacy "গোপনীয়তা">
 <!ENTITY firstrun_privacy_message "এমনভাবে ব্রাউজ করুন যেন কেউ না দেখে">
 <!ENTITY firstrun_privacy_subtext "ট্র্যাকিং সুরক্ষাসহ ব্যক্তিগত ব্রাউজিং ব্রাউজ করার সময় ট্র্যাকার ব্লক করে এবং যা ব্রাউজ করা শেষ হলে ব্রাউজ ইতিহাস মনে রাখবে না।">
+<!ENTITY newfirstrun_privacy_subtext "ব্যক্তিগত ব্রাউজিং অনলাইনে আপনাকে অনুসরণকারী অ্যাড ট্র্যাকার ব্লক করে।">
 <!ENTITY firstrun_panel_title_customize "কাস্টোমাইজ">
 <!ENTITY firstrun_customize_message "&brandShortName; কে নিজের করুন।">
 <!ENTITY firstrun_customize_subtext "অ্যাড-অন যোগ করে &brandShortName; কাস্টমাইজ করুন। আপনার ব্যক্তিত্বের বহিঃপ্রকাশ ঘটাতে বিজ্ঞাপন ব্লক করুন, ফিচার অথবা নতুন থিম যোগ করুন।">
@@ -106,6 +107,9 @@
 <!ENTITY bookmark_folder_updated "ফোল্ডার আপডেট হয়েছে">
 <!ENTITY bookmark_parent_folder "উর্ধ্বস্থ ফোল্ডার">
 <!ENTITY bookmark_add_folder "নতুন ফোল্ডার যোগ">
+
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
 
 <!ENTITY reader_saved_offline "অফলাইনে সংরক্ষিত">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -587,6 +591,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "অবস্থান">
 <!ENTITY bookmark_edit_keyword "কীওয়ার্ড">
 <!ENTITY bookmark_select_folder "ফোল্ডার নির্বাচন">
+
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
