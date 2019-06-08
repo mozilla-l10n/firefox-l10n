@@ -32,14 +32,11 @@ app-basics-name = Nome
 app-basics-version = Versione
 app-basics-build-id = ID build
 app-basics-update-channel = Canale di aggiornamento
+app-basics-update-dir = Cartella aggiornamento
 app-basics-update-history = Cronologia aggiornamenti
 app-basics-show-update-history = Mostra cronologia aggiornamenti
 app-basics-binary = File binario dell’applicazione
-app-basics-profile-dir =
-    { PLATFORM() ->
-        [linux] Cartella del profilo
-       *[other] Cartella del profilo
-    }
+app-basics-profile-dir = Cartella del profilo
 app-basics-enabled-plugins = Plugin attivi
 app-basics-launcher-process-status = Processo launcher
 app-basics-build-config = Configurazione build
