@@ -84,6 +84,8 @@ about-debugging-setup-title = Configurare
 about-debugging-setup-intro = Configurează metoda de conectare cu care vrei să depanezi de la distanță dispozitivul.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Folosește <a>{ about-debugging-this-firefox-runtime-name }</a> pentru a depana file, extensii și scripturi service worker pe această versiune de { -brand-shorter-name }.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Folosește <a>{ about-debugging-this-firefox-runtime-name }</a> pentru a depana extensii și scripturi service worker pe această versiune de { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Conectează un dispozitiv
 # USB section of the Setup page

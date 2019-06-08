@@ -136,6 +136,10 @@
 <!ENTITY options.timestampMessages.label      "Activează marcajele de timp">
 <!ENTITY options.timestampMessages.tooltip    "Dacă activezi opțiunea, comenzile și ieșirile din consola web vor afișa un marcaj de timp">
 
+<!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
+   - label for the checkbox that toggles the warningGroups feature in the Web Console -->
+<!ENTITY options.warningGroups.label      "Grupează mesaje similare">
+
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
 <!ENTITY options.debugger.label            "Depanator">
