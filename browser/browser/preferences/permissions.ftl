@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Guardar cambios
     .accesskey = S
+permissions-autoplay-menu = Opción predeterminada para todos los sitios:
 permissions-searchbox =
     .placeholder = Buscar sitio web
+permissions-capabilities-autoplay-allow =
+    .label = Permitir audio y video
+permissions-capabilities-autoplay-block =
+    .label = Bloquear audio
+permissions-capabilities-autoplay-blockall =
+    .label = Bloquear audio y video
 permissions-capabilities-allow =
     .label = Permitir
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = Permitir
 permissions-capabilities-listitem-block =
     .value = Bloquear
-permissions-capabilities-listitem-allow-first-party =
-    .value = Permitir solo oficiales
 permissions-capabilities-listitem-allow-session =
     .value = Permitir por esta sesión
 
@@ -58,10 +63,6 @@ permissions-invalid-uri-label = Por favor, introduce un nombre de servidor váli
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Excepciones - Protección de seguimiento
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Has desactivado la protección de seguimiento en estos sitios web.
 permissions-exceptions-content-blocking-window =
     .title = Excepciones - Bloqueo de contenido
     .style = { permissions-window.style }
@@ -101,6 +102,9 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Excepciones - Reproducción automática
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Puedes especificar qué sitios tienen permitido o prohibido reproducir automáticamente contenido multimedia con sonido. Ingresa la dirección exacta del sitio que quieras administrar y después haz clic en Bloquear o Permitir.
+
+## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 

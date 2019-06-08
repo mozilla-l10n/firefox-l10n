@@ -95,7 +95,7 @@ detail-update-manual =
 detail-private-browsing-label = Ejecutar en ventanas privadas
 detail-private-browsing-description2 = Al permitirse, la extensión tendrá acceso a tus actividades en línea durante una navegación privada. <label data-l10n-name="detail-private-browsing-learn-more">Aprender más</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
-# cannot be overriden by the user.
+# cannot be overridden by the user.
 detail-private-disallowed-label = No permitido en ventanas privadas
 detail-private-disallowed-description = Esta extensión no se ejecuta en navegación privada. <label data-l10n-name="detail-private-browsing-learn-more">Aprender más</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
@@ -292,6 +292,9 @@ preferences-addon-button =
         [windows] Opciones
        *[other] Preferencias
     }
+details-addon-button = Detalles
+release-notes-addon-button = Notas de la versión
+permissions-addon-button = Permisos
 addons-enabled-heading = Activado
 addons-disabled-heading = Desactivado
 ask-to-activate-button = Preguntar para activar
@@ -339,5 +342,18 @@ addon-badge-private-browsing-allowed =
 addon-detail-private-browsing-help = Al permitirse, la extensión tendrá acceso a tus actividades en línea durante la navegación privada. <a data-l10n-name="learn-more">Aprender más</a>
 addon-detail-private-browsing-allow = Permitir
 addon-detail-private-browsing-disallow = No permitir
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Recomendado
+    .alt = Recomendado
 available-updates-heading = Actualizaciones disponibles
 recent-updates-heading = Actualizaciones recientes
+release-notes-loading = Cargando…
+release-notes-error = Lo sentimos, hubo un error al cargar las notas de lanzamiento.
+addon-permissions-empty = Esta extensión no requiere de ningún permiso.
+recommended-extensions-heading = Extensiones recomendadas
+recommended-themes-heading = Temas recomendados
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = ¿Te sientes creativo? <a data-l10n-name="link"> Crea tu propio tema con Firefox Color. </a>
