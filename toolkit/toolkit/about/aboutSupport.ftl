@@ -37,6 +37,8 @@ app-basics-build-id = ID sestavení
 app-basics-update-channel = Kanál aktualizací
 app-basics-update-history = Historie aktualizací
 app-basics-show-update-history = Zobrazit historii aktualizací
+# Represents the path to the binary used to start the application.
+app-basics-binary = Binární soubor aplikace
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Adresář profilu

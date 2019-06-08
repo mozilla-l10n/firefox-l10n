@@ -368,3 +368,8 @@ recent-updates-heading = Aktualizováno
 release-notes-loading = Načítání…
 release-notes-error = Omlouváme se, ale při načítání poznámek k vydání nastala chyba.
 addon-permissions-empty = Toto rozšíření neotřenuje žádná oprávnění.
+recommended-extensions-heading = Doporučená rozšíření
+recommended-themes-heading = Doporučené vzhledy
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Jste tvořiví? <a data-l10n-name="link">Vyrobte si vlastní vzhled pomocí Firefox Color.</a>
