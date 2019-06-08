@@ -26,6 +26,7 @@ onboarding-join-form-body = Sekcem tansa-inek imayl iwakken ad tebduḍ.
 onboarding-join-form-email =
     .placeholder = Sekcem imayl
 onboarding-join-form-email-error = Ilaq imayl yeɣtin
+onboarding-join-form-legal = Ma tkemmleḍ, ad tqebleḍ <a data-l10n-name="terms">Tiwtilin-nneɣ n useqdec</a> akked <a data-l10n-name="privacy">Tsertit-nneɣ tabaḍnit</a>.
 onboarding-join-form-continue = Kemmel
 onboarding-start-browsing-button-label = Bdu tunigin
 
@@ -33,9 +34,16 @@ onboarding-start-browsing-button-label = Bdu tunigin
 ## description.
 
 onboarding-benefit-products-title = Ifarisen ara teḥwiǧeḍ
+onboarding-benefit-products-text = Snerni tiffursa s useqdec n tegrumma n yifecka yettqadaṛen tudert-ik tusligt deg yibenkan-ik meṛṛa.
 onboarding-benefit-knowledge-title = Timusniwin ilaqen
 onboarding-benefit-knowledge-text = Lmed akk ayen ilaqen iwakken ad tiliḍ d uḥric yerna d maɣti deg internet.
 onboarding-benefit-privacy-title = Tudert tabaḍnit n tidet
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = S kra n wayen i nxeddemn yettqadaṛ ṭmana-nneɣ ɣef yisefka udmawanen: Lqeḍ drus n yisefka, mmesten-iten. Ulac tufra.
 
 ## These strings belong to the individual onboarding messages.
 

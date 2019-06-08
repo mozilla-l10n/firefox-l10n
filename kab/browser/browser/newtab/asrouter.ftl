@@ -44,16 +44,20 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } aseqdac
        *[other] { $total } iseqdacen
     }
+cfr-doorhanger-pintab-description = Awi anekcum fessusen ɣer yismal-ik i tesseqdaceḍ aṭas. Eǧǧ ismal ldin deg yiccer (xas ma tulseḍ tanekra).
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = <b>Si s tqeffalt tayeffust</ b> ɣef yiccer i tebɣiḍ ad ɛelqeḍ.
 cfr-doorhanger-pintab-step2 = Fren<b>Siggez iccer</b> seg umuɣ.
+cfr-doorhanger-pintab-step3 = Ma yella asmel yettwalqem ad twaliḍ aggaz anili yettban-d deg iccer-ik iɛelqen.
 cfr-doorhanger-pintab-animation-pause = Asteɛfu
 cfr-doorhanger-pintab-animation-resume = Kemmel
 
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Mtawi ticraḍ n yisebter ar wanida tebɣiḍ.
+cfr-doorhanger-bookmark-fxa-body = Tufiḍ tiwizet! Tura, af-d tacreḍt n usebter ɣef yibenkan-ik izirazen, d lawan ad tesqedceḍ { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Mtawi ticraḍ n yisebtar tura...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Taqeffalt n umdal
