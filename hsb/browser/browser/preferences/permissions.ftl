@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Změny składować
     .accesskey = s
+permissions-autoplay-menu = Standard za wšě websydła:
 permissions-searchbox =
     .placeholder = Websydło pytać
+permissions-capabilities-autoplay-allow =
+    .label = Awdio a widejo dowolić
+permissions-capabilities-autoplay-block =
+    .label = Awdio blokować
+permissions-capabilities-autoplay-blockall =
+    .label = Awdio a widejo blokować
 permissions-capabilities-allow =
     .label = Dowolić
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = Dowolić
 permissions-capabilities-listitem-block =
     .value = Blokować
-permissions-capabilities-listitem-allow-first-party =
-    .value = Jenož zawołanu stronu dowolić
 permissions-capabilities-listitem-allow-session =
     .value = Za posedźenje dowolić
 
@@ -58,10 +63,6 @@ permissions-invalid-uri-label = Prošu zapodajće płaćiwe mjeno hosta
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Wuwzaća - Slědowanski škit
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Sće slědowanski škit na tutych sydłach znjemóžnił.
 permissions-exceptions-content-blocking-window =
     .title = Wuwzaća - Blokowanje wobsaha
     .style = { permissions-window.style }
@@ -101,6 +102,12 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Wuwzaća - awtomatiske wothraće
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Móžeće podać, kotre websydła přeco smědźa abo ženje njesmědźa medije awtomatisce ze zynkom wothrać. Zapodajće adresu sydła, kotrež chceće rjadować a klikńće potom na Blokować abo Dowolić.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Nastajenja - awtomatiske wothraće
+    .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 
