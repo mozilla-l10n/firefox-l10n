@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Uložit změny
     .accesskey = U
+permissions-autoplay-menu = Výchozí nastavení automatického přehrávání:
 permissions-searchbox =
     .placeholder = Hledat
+permissions-capabilities-autoplay-allow =
+    .label = Povolit zvuk i video
+permissions-capabilities-autoplay-block =
+    .label = Blokovat zvuk
+permissions-capabilities-autoplay-blockall =
+    .label = Blokovat zvuk i video
 permissions-capabilities-allow =
     .label = Povolit
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = Povolit
 permissions-capabilities-listitem-block =
     .value = Blokovat
-permissions-capabilities-listitem-allow-first-party =
-    .value = Zakázat pro servery třetích stran
 permissions-capabilities-listitem-allow-session =
     .value = Povolit pro relaci
 
@@ -58,10 +63,6 @@ permissions-invalid-uri-label = Vložte prosím platný název serveru
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Výjimky pro používání ochrany proti sledování
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Na těchto serverech jste ochranu proti sledování zakázali.
 permissions-exceptions-content-blocking-window =
     .title = Výjimky z blokování obsahu
     .style = { permissions-window.style }
@@ -101,6 +102,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Servery, které mohou automaticky přehrávat média
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Zde můžete určit, které servery mohou automaticky spouštět přehrávání médií se zvukem. Zadejte adresu stránky a klepněte na tlačítko Blokovat nebo Povolit.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Blokování automatického přehrávání
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Níže můžete nastavit výjimky a vlastní nastavení pro vámi vybrané servery.
 
 ## Site Permissions - Notifications
 
