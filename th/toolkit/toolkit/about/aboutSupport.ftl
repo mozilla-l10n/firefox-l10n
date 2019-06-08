@@ -26,6 +26,7 @@ features-version = รุ่น
 features-id = ID
 processes-title = โปรเซสระยะไกล
 processes-type = ชนิด
+processes-count = ครั้ง
 app-basics-title = พื้นฐานแอปพลิเคชัน
 app-basics-name = ชื่อ
 app-basics-version = รุ่น
@@ -96,6 +97,7 @@ media-device-name = ชื่อ
 media-device-group = กลุ่ม
 media-device-vendor = ผู้จำหน่าย
 media-device-state = สถานะ
+media-device-format = รูปแบบ
 media-device-channels = ช่อง
 media-device-rate = อัตรา
 media-device-latency = เวลาแฝง
@@ -201,5 +203,6 @@ apz-none = ไม่มี
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = ไม่มีการใช้งานอยู่
 policies-active = ใช้งานอยู่
 policies-error = ข้อผิดพลาด

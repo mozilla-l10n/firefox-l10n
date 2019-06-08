@@ -95,7 +95,7 @@ detail-update-manual =
 detail-private-browsing-label = เรียกใช้ในหน้าต่างส่วนตัว
 detail-private-browsing-description2 = เมื่ออนุญาตแล้ว ส่วนขยายจะสามารถเข้าถึงกิจกรรมออนไลน์ของคุณขณะท่องเว็บแบบส่วนตัวได้ <label data-l10n-name="detail-private-browsing-learn-more">เรียนรู้เพิ่มเติม</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
-# cannot be overriden by the user.
+# cannot be overridden by the user.
 detail-private-disallowed-label = ไม่อนุญาตในหน้าต่างส่วนตัว
 detail-private-browsing-on =
     .label = อนุญาต
@@ -279,6 +279,9 @@ remove-addon-button = เอาออก
 disable-addon-button = ปิดใช้งาน
 enable-addon-button = เปิดใช้งาน
 expand-addon-button = ตัวเลือกเพิ่มเติม
+details-addon-button = รายละเอียด
+release-notes-addon-button = บันทึกประจำรุ่น
+permissions-addon-button = การอนุญาต
 addons-enabled-heading = เปิดใช้งานอยู่
 addons-disabled-heading = ปิดใช้งานอยู่
 ask-to-activate-button = ถามเพื่อเปิดใช้งาน
@@ -324,5 +327,11 @@ addon-badge-private-browsing-allowed =
     .title = อนุญาตในหน้าต่างส่วนตัวแล้ว
 addon-detail-private-browsing-allow = อนุญาต
 addon-detail-private-browsing-disallow = ไม่อนุญาต
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = แนะนำ
+    .alt = แนะนำ
 available-updates-heading = การอัปเดตที่มี
 recent-updates-heading = การอัปเดตล่าสุด
+release-notes-loading = กำลังโหลด…
