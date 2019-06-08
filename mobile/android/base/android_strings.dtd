@@ -6,6 +6,7 @@
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; পছন্দ করার জন্য ধন্যবাদ">
 <!ENTITY newfirstrun_urlbar_message "&brandShortName; এ স্বাগতম">
 <!ENTITY firstrun_urlbar_subtext2 "ফ্রি ও উন্মুক্ত ওয়েবে প্রতিজ্ঞাবদ্ধ ও অবাণিজ্যিক প্রতিষ্ঠান Mozilla, হতে একটি আধুনিক মোবাইল ব্রাউজার।">
+<!ENTITY newfirstrun_urlbar_subtext "দ্রুত, গোপনীয়, এবং আপনার পক্ষে।">
 <!ENTITY firstrun_panel_title_privacy "গোপনীয়তা">
 <!ENTITY firstrun_privacy_message "এমনভাবে ব্রাউজ করুন যেন কেউ না দেখে">
 <!ENTITY firstrun_privacy_subtext "ট্র্যাকিং সুরক্ষাসহ ব্যক্তিগত ব্রাউজিং ব্রাউজ করার সময় ট্র্যাকার ব্লক করে এবং যা ব্রাউজ করা শেষ হলে ব্রাউজ ইতিহাস মনে রাখবে না।">
@@ -22,6 +23,8 @@
 <!ENTITY firstrun_sync_title "সিঙ্ক">
 <!ENTITY firstrun_sync_message2 "যেখানে আপনি ছেড়ে গিয়েছিলেন, সেখান থেকে শুরু করুন।">
 <!ENTITY firstrun_sync_subtext2 "আপনার সব ডিভাইসে বুকমার্ক, পাসওয়ার্ড এবং অন্যান্য জিনিস খুঁজে পেতে সিঙ্ক ব্যবহার করুন যা আপনি &brandShortName; এ সংরক্ষণ করেছেন।">
+<!ENTITY newfirstrun_sync_subtext "সিঙ্ক হল যা Firefox মোবাইল থেকে ডেস্কটপে গোপনীয়ভাবে এবং নিরাপদে আপনার জিনিস সংরক্ষণ করে।">
+<!ENTITY updatednewfirstrun_sync_subtext "&brandShortName; এর সর্বোচ্চ পেতে আপনার অ্যাকাউন্টে সাইন ইন করুন">
 <!ENTITY firstrun_signin_message "সংযুক্ত হন, শুরু করুন">
 <!ENTITY firstrun_signin_button "সিঙ্ক করতে সাইন ইন করুন">
 <!ENTITY newfirstrun_signin_button "Sync চালু করুন">
@@ -110,6 +113,7 @@
 
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(শিরোনামহীন)">
 
 <!ENTITY reader_saved_offline "অফলাইনে সংরক্ষিত">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -592,6 +596,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "কীওয়ার্ড">
 <!ENTITY bookmark_select_folder "ফোল্ডার নির্বাচন">
 
+<!ENTITY bookmark_edit_undo "পূর্বাবস্থায় আনো">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
