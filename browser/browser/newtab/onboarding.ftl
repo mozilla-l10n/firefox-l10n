@@ -3,17 +3,29 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = Lue lisää
 onboarding-button-label-try-now = Kokeile nyt
 onboarding-button-label-get-started = Aloita
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Tervetuloa { -brand-short-name }iin
 onboarding-welcome-learn-more = Lue lisää hyödyistä.
+onboarding-join-form-header = Liity { -brand-product-name }iin
 onboarding-join-form-body = Anna sähköpostiosoitteesi päästäksesi alkuun.
 onboarding-join-form-email =
     .placeholder = Anna sähköpostiosoite
 onboarding-join-form-email-error = Kelvollinen sähköposti vaaditaan
+onboarding-join-form-legal = Jatkamalla hyväksyt <a data-l10n-name="terms">käyttöehdot</a> ja <a data-l10n-name="privacy">tietosuojaselosteen</a>.
 onboarding-join-form-continue = Jatka
 onboarding-start-browsing-button-label = Aloita selaaminen
 
@@ -42,11 +54,9 @@ onboarding-ghostery-text = Selaa nopeammin, älykkäämmin tai turvallisemmin la
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synkronointi
 onboarding-fxa-text = Luo { -fxaccount-brand-name } ja synkronoi kirjanmerkit, salasanat ja avoimet välilehdet kaikkialla, missä käytät { -brand-short-name }ia.
-onboarding-tracking-protection-title = Hallitse kuinka sinua seurataan
 onboarding-tracking-protection-title2 = Suojaa seurannalta
 onboarding-tracking-protection-button2 = Kuinka se toimii
 onboarding-data-sync-title = Ota asetukset mukaasi
-onboarding-data-sync-button = Ota { -sync-brand-short-name } käyttöön
 onboarding-browse-privately-title = Selaa yksityisesti
 onboarding-browse-privately-button = Avaa yksityinen ikkuna
 onboarding-firefox-send-title = Pidä jakamasi tiedostot yksityisinä
@@ -55,9 +65,8 @@ onboarding-mobile-phone-title = Hanki { -brand-product-name } puhelimeesi
 # browser.
 onboarding-mobile-phone-button = Lataa mobiiliselain
 onboarding-send-tabs-title = Lähetä välilehtiä itsellesi välittömästi
+onboarding-pocket-anywhere-button = Try { -pocket-brand-name }-palvelua
 onboarding-lockwise-passwords-title = Ota salasanat mukaasi kaikkialle
-onboarding-lockwise-passwords-text = { -lockwise-brand-name } tallentaa salasanasi turvalliseen paikkaan, jotta voit kirjautua tileillesi vaivatta.
-onboarding-lockwise-passwords-button = Hanki { -lockwise-brand-name }
 onboarding-lockwise-passwords-button2 = Hanki sovellus
 onboarding-facebook-container-title = Aseta rajat Facebookille
 onboarding-facebook-container-button = Lisää laajennus
