@@ -34,6 +34,7 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Guardar alterações
     .accesskey = G
+permissions-autoplay-menu = Predefinição para todos os websites:
 permissions-searchbox =
     .placeholder = Pesquisar website
 permissions-capabilities-autoplay-allow =
