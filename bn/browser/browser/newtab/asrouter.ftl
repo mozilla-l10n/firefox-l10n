@@ -52,3 +52,10 @@ cfr-doorhanger-pintab-step2 = মেনু থেকে <b>পিন ট্য�
 cfr-doorhanger-pintab-step3 = যদি সাইটে হালনাগাদ থাকে তবে আপনি আপনার পিনকৃত ট্যাবে একটি নীল বিন্দু দেখতে পাবেন।
 cfr-doorhanger-pintab-animation-pause = বিরতি
 cfr-doorhanger-pintab-animation-resume = পুনরায় শুরু
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-link-text = এখনই বুকমার্ক সিঙ্ক করুন...
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = বন্ধ বোতাম
+    .title = শিরোনাম

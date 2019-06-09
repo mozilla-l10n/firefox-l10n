@@ -8,6 +8,7 @@ about-config-warning-text = উচ্চ পর্যায়ের এই সে�
 about-config-warning-checkbox = অনুগ্রহ করে, আমাকে আবার বিরক্ত কর!
 about-config-warning-button = আমি ঝুঁকি গ্রহণ করলাম
 about-config-title = about:config
+about-config2-title = উন্নত কনফিগারেশন
 about-config-search-input =
     .placeholder = অনুসন্ধান করুন
 about-config-show-all = সব দেখাও

@@ -44,10 +44,6 @@ category-search =
 pane-privacy-title = গোপনীয়তা ও নিরাপত্তা
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox Account
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -287,6 +283,10 @@ update-enable-search-update =
     .label = স্বয়ংক্রিয়ভাবে অনুসন্ধান ইঞ্জিন হালনাগাদ হবে
     .accesskey = e
 update-pref-write-failure-title = অকৃতকার্য লিখুন।
+update-in-progress-ok-button = &বাতিল
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &চালিয়ে যান
 
 ## General Section - Performance
 
@@ -519,8 +519,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = সংরক্ষণ
     .accesskey = v
-sync-mobilepromo-single = অন্য ডিভাইস সংযুক্ত করুন
-sync-mobilepromo-multi = ডিভাইস ব্যবস্থাপনা
 sync-connect-another-device = অন্য একটি ডিভাইস সংযুক্ত করুন
 sync-manage-devices = ডিভাইস ব্যবস্থাপনা
 sync-fxa-begin-pairing = কোন ডিভাইস জুটিবদ্ধ করুন
