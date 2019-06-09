@@ -111,6 +111,10 @@
 <!ENTITY bookmark_parent_folder "Carpeta padre">
 <!ENTITY bookmark_add_folder "Añadir carpeta nueva">
 
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(sin título)">
+
 <!ENTITY reader_saved_offline "Guardado sin conexión">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
@@ -591,6 +595,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Dirección">
 <!ENTITY bookmark_edit_keyword "Palabra clave">
 <!ENTITY bookmark_select_folder "Seleccionar carpeta">
+
+<!ENTITY bookmark_edit_undo "Deshacer">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
