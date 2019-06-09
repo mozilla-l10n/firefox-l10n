@@ -291,6 +291,11 @@ update-pref-write-failure-title = Error de escritura
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = No se puede guardar la preferencia. No se ha podido escribir al archivo: { $path }
 update-setting-write-failure-title = Error al guardar las preferencias de actualización
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message = { -brand-short-name } encontró un error y no se guardaron los cambios. Tenga en cuenta que para poder actualizar esta preferencia necesita permiso para escribir en el archivo de más abajo. Usted o el Administrador pueden solucionar el problema concediendo el control completo de este archivo a todos los usuarios del grupo.
 update-in-progress-title = Actualización en curso
 update-in-progress-message = ¿Quiere que { -brand-short-name } continúe con la actualización?
 update-in-progress-ok-button = &Ignorar
@@ -755,6 +760,10 @@ permissions-block-autoplay-media2 =
 permissions-block-autoplay-media-exceptions =
     .label = Excepciones…
     .accesskey = E
+permissions-autoplay = Reproducción automática
+permissions-autoplay-settings =
+    .label = Configuración...
+    .accesskey = C
 permissions-block-popups =
     .label = Bloquear ventanas emergentes
     .accesskey = B
