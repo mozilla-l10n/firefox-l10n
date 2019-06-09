@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Захаваць змены
     .accesskey = Ы
+permissions-autoplay-menu = Прадвызначана для ўсіх сайтаў:
 permissions-searchbox =
     .placeholder = Пошук па вэб-сайту
+permissions-capabilities-autoplay-allow =
+    .label = Дазваляць гук і відэа
+permissions-capabilities-autoplay-block =
+    .label = Блакаваць гук
+permissions-capabilities-autoplay-blockall =
+    .label = Блакаваць гук і відэа
 permissions-capabilities-allow =
     .label = Дазволіць
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = Дазволіць
 permissions-capabilities-listitem-block =
     .value = Блакаваць
-permissions-capabilities-listitem-allow-first-party =
-    .value = Дазволіць толькі першапачатковаму боку
 permissions-capabilities-listitem-allow-session =
     .value = Дазволіць на час сэсіі
 
@@ -58,10 +63,6 @@ permissions-invalid-uri-label = Увядзіце назву хоста
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Выключэнні - Ахова ад сачэння
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Вы адключылі ахову ад сачэння на гэтых вэб-сайтах.
 permissions-exceptions-content-blocking-window =
     .title = Выключэнні - Блакаванне змесціва
     .style = { permissions-window.style }
@@ -101,6 +102,12 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Выключэнні - Аўтапрайграванне
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Вы можаце вызначыць, якім вэб-сайтам заўсёды дазволена або ніколі не дазволена аўтаматычна прайграваць гук. Набярыце адрас сайта, якім хочаце кіраваць, і пстрыкніце Блакаваць або Дазволіць.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Налады - Аўтапрайграванне
+    .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 
