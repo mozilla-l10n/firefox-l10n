@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Spara ändringar
     .accesskey = S
+permissions-autoplay-menu = Standard för alla webbplatser:
 permissions-searchbox =
     .placeholder = Sök webbplats
+permissions-capabilities-autoplay-allow =
+    .label = Tillåt ljud och video
+permissions-capabilities-autoplay-block =
+    .label = Blockera ljud
+permissions-capabilities-autoplay-blockall =
+    .label = Blockera ljud och video
 permissions-capabilities-allow =
     .label = Tillåt
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = Tillåt
 permissions-capabilities-listitem-block =
     .value = Blockera
-permissions-capabilities-listitem-allow-first-party =
-    .value = Tillåt endast första parten
 permissions-capabilities-listitem-allow-session =
     .value = Tillåten för session
 
@@ -58,10 +63,6 @@ permissions-invalid-uri-label = Skriv in ett giltigt värdnamn
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Undantag - Spårningsskydd
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Du har stängt av spårningsskydd på dessa webbplatser.
 permissions-exceptions-content-blocking-window =
     .title = Undantag - Innehållsblockering
     .style = { permissions-window.style }
@@ -101,6 +102,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Undantag - Automatisk uppspelning
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Du kan specificera vilka webbplatser som alltid eller aldrig tillåts spela media med ljud automatiskt. Skriv in adressen till platsen du vill hantera och klicka sedan på Błockera eller Tillåt.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Inställningar - Automatisk uppspelning
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Du kan hantera de webbplatser som inte följer dina standardinställningar för automatisk uppspelning här.
 
 ## Site Permissions - Notifications
 

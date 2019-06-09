@@ -365,3 +365,8 @@ recent-updates-heading = Senaste uppdateringar
 release-notes-loading = Laddar…
 release-notes-error = Tyvärr, men det gick inte att läsa in versionsfakta.
 addon-permissions-empty = Detta tillägg kräver inga behörigheter
+recommended-extensions-heading = Rekommenderade tillägg
+recommended-themes-heading = Rekommenderade teman
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Känner du dig kreativ? <a data-l10n-name="link">Skapa ditt egna tema med Firefox Color.</a>
