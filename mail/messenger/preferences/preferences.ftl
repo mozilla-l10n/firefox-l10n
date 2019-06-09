@@ -12,3 +12,18 @@ update-pref-write-failure-title = Skrivfel
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Det gick inte att spara inställning. Kunde inte skriva till fil: { $path }
+update-setting-write-failure-title = Det gick inte att spara uppdateringsinställningar
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } stötte på ett fel och lagrade inte den här ändringen. Observera att ange denna uppdateringsinställning kräver tillstånd att skriva till filen nedan. Du eller en systemadministratör kan eventuellt lösa felet genom att ge användargruppen fullständig kontroll till den här filen.
+    
+    Kunde inte skriva till fil: { $path }
+update-in-progress-title = Uppdatering pågår
+update-in-progress-message = Vill du att { -brand-short-name } ska fortsätta med denna uppdatering?
+update-in-progress-ok-button = &Ignorera
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Fortsätt
