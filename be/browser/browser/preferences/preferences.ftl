@@ -46,10 +46,6 @@ category-search =
 pane-privacy-title = Прыватнасць і Бяспека
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Уліковы запіс Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -296,6 +292,10 @@ update-pref-write-failure-title = Збой запісу
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Немагчыма захаваць налады. Не ўдалося запісаць у файл: { $path }
+update-in-progress-ok-button = &Адкінуць
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Працягнуць
 
 ## General Section - Performance
 
@@ -531,8 +531,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Захаваць
     .accesskey = х
-sync-mobilepromo-single = Злучыць іншую прыладу
-sync-mobilepromo-multi = Кіраваць прыладамі
 sync-connect-another-device = Злучыць іншую прыладу
 sync-manage-devices = Кіраваць прыладамі
 sync-fxa-begin-pairing = Спараваць прыладу
@@ -690,7 +688,6 @@ content-blocking-all-third-party-cookies = Усе кукі трэцяга бок
 content-blocking-cryptominers = Майнеры крыптавалют
 content-blocking-fingerprinters = Збіральнікі адбіткаў пальцаў
 content-blocking-warning-title = Увага!
-content-blocking-warning-desc = Блакаванне кукаў і трэкераў можа парушыць працу некаторых вэб-сайтаў. Адключыць блакаванне на сайтах, якім вы давяраеце, проста.
 content-blocking-warning-description = Блакаванне змесціва можа парушыць працу некаторых вэб-сайтаў. Адключыць блакаванне на сайтах, якім вы давяраеце, лёгка.
 content-blocking-learn-how = Даведацца, як
 content-blocking-reload-description = Вам трэба будзе перазагрузіць свае карткі, каб прымяніць гэтыя змены.
@@ -757,6 +754,10 @@ permissions-block-autoplay-media2 =
 permissions-block-autoplay-media-exceptions =
     .label = Выключэнні…
     .accesskey = к
+permissions-autoplay = Аўтапрайграванне
+permissions-autoplay-settings =
+    .label = Налады…
+    .accesskey = Н
 permissions-block-popups =
     .label = Блакаваць выплыўныя вокны
     .accesskey = Б
