@@ -36,6 +36,12 @@ permissions-button-ok =
     .accesskey = G
 permissions-searchbox =
     .placeholder = Pesquisar website
+permissions-capabilities-autoplay-allow =
+    .label = Permitir áudio e vídeo
+permissions-capabilities-autoplay-block =
+    .label = Bloquear áudio
+permissions-capabilities-autoplay-blockall =
+    .label = Bloquear áudio e vídeo
 permissions-capabilities-allow =
     .label = Permitir
 permissions-capabilities-block =
@@ -46,8 +52,6 @@ permissions-capabilities-listitem-allow =
     .value = Permitir
 permissions-capabilities-listitem-block =
     .value = Bloquear
-permissions-capabilities-listitem-allow-first-party =
-    .value = Permitir apenas primeiros
 permissions-capabilities-listitem-allow-session =
     .value = Permitir para a sessão
 
@@ -58,10 +62,6 @@ permissions-invalid-uri-label = Por favor introduza um nome de servidor válido
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Exceções - Proteção contra monitorização
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Desativou a Proteção contra monitorização nestes websites.
 permissions-exceptions-content-blocking-window =
     .title = Exceções - Bloqueio de conteúdo
     .style = { permissions-window.style }
@@ -101,6 +101,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Exceções - Reprodução automática
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Pode especificar quais os websites que podem sempre ou nunca reproduzir automaticamente multimédia com som.  Escreva o endereço exato do site que pretende gerir e depois clique em Bloquear ou Permitir.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Definições - Reprodução automática
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Pode gerir os sites que não seguem as suas definições predefinidas de reprodução automática aqui.
 
 ## Site Permissions - Notifications
 
