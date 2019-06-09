@@ -359,3 +359,8 @@ recent-updates-heading = 최근 업데이트
 release-notes-loading = 읽는 중…
 release-notes-error = 죄송합니다. 출시 정보를 읽어오는 중에 오류가 발생했습니다.
 addon-permissions-empty = 이 확장 기능에는 권한이 필요하지 않습니다.
+recommended-extensions-heading = 추천 확장 기능
+recommended-themes-heading = 추천 테마
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = 창의적인 느낌이 떠오르시나요? <a data-l10n-name="link">Firefox Color로 나만의 테마를 만들어 보십시오.</a>

@@ -37,6 +37,8 @@ app-basics-build-id = 빌드 ID
 app-basics-update-channel = 업데이트 채널
 app-basics-update-history = 업데이트 기록
 app-basics-show-update-history = 업데이트 기록 표시
+# Represents the path to the binary used to start the application.
+app-basics-binary = 애플리케이션 바이너리
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] 프로필 저장 폴더

@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = 변경 내용 저장
     .accesskey = S
+permissions-autoplay-menu = 모든 웹 사이트의 기본값:
 permissions-searchbox =
     .placeholder = 웹사이트 검색
+permissions-capabilities-autoplay-allow =
+    .label = 오디오 및 비디오 허용
+permissions-capabilities-autoplay-block =
+    .label = 오디오 차단
+permissions-capabilities-autoplay-blockall =
+    .label = 오디오 및 비디오 차단
 permissions-capabilities-allow =
     .label = 허용
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = 허용
 permissions-capabilities-listitem-block =
     .value = 차단
-permissions-capabilities-listitem-allow-first-party =
-    .value = 자신의 것만 허용
 permissions-capabilities-listitem-allow-session =
     .value = 세션 허용
 
@@ -97,6 +102,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = 예외 - 자동 재생
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = 어떤 웹사이트가 자동으로 소리가 있는 미디어를 항상 재생할지 안 할지를 설정할 수 있습니다. 관리할 웹사이트의 주소를 정확히 입력하고 차단이나 허용을 누르세요.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = 설정 - 자동 재생
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = 여기에서 자동 재생 기본 설정을 따르지 않는 사이트를 관리할 수 있습니다.
 
 ## Site Permissions - Notifications
 
