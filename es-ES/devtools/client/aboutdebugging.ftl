@@ -84,6 +84,8 @@ about-debugging-setup-title = Configuración
 about-debugging-setup-intro = Configure el método de conexión con el que desea depurar remotamente su dispositivo.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Usar <a>{ about-debugging-this-firefox-runtime-name }</a> para depurar pestañas, extensiones y service workers en esta versión de { -brand-shorter-name }.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Usa <a>{ about-debugging-this-firefox-runtime-name }</a> para depurar extensiones y service workers en esta versión de { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Conectar un dispositivo
 # USB section of the Setup page
@@ -204,6 +206,8 @@ about-debugging-connection-prompt-enable-button = Activar solicitud de conexión
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = Desactivar solicitud de conexión
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title2 = Analizador
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
