@@ -84,6 +84,8 @@ about-debugging-setup-title = Konfiguration
 about-debugging-setup-intro = Konfigurera anslutningsmetoden som du vill fjärrfelsöka din enhet med.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Använd <a>{ about-debugging-this-firefox-runtime-name }</a> för att felsöka flikar, tillägg och service workers i den här versionen av { -brand-shorter-name }.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Använd <a>{ about-debugging-this-firefox-runtime-name }</a> för att felsöka tillägg och service workers i den här versionen av { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Anslut en enhet
 # USB section of the Setup page
