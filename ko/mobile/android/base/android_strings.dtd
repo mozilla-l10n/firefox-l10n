@@ -111,6 +111,10 @@
 <!ENTITY bookmark_parent_folder "상위 폴더">
 <!ENTITY bookmark_add_folder "새 폴더 추가">
 
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(제목 없음)">
+
 <!ENTITY reader_saved_offline "오프라인으로 저장됨">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
@@ -591,6 +595,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "위치">
 <!ENTITY bookmark_edit_keyword "키워드">
 <!ENTITY bookmark_select_folder "폴더 선택">
+
+<!ENTITY bookmark_edit_undo "실행 취소">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
