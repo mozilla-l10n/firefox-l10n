@@ -60,9 +60,9 @@
 <!ENTITY incomingServer.label "Enira servilo:">
 <!ENTITY incomingServer.accesskey "s">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Entajpu salutnomon por enira poŝto liveritan de via retpoŝt‑provizanto (ekzemple: “jsmith”).">
-<!ENTITY incomingUsername.label "Salutnomo:">
-<!ENTITY incomingUsername.accesskey "n">
+<!ENTITY incomingUsername.description "Entajpu uzantnomon por enira poŝto liveritan de via retpoŝt‑provizanto (ekzemple: “jsmith”).">
+<!ENTITY incomingUsername.label "Uzantnomo:">
+<!ENTITY incomingUsername.accesskey "U">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Entajpu nomon de via novaĵgrupa servilo (NNTP) (ekzemple: “news.example.net”).">
 <!ENTITY newsServerLabel.label "Novaĵgrupa servilo:">
@@ -76,8 +76,8 @@
 <!ENTITY outgoingServer.label "Elira servilo:">
 <!ENTITY outgoingServer.accesskey "s">
 <!ENTITY outgoingUsername.description "Entajpu salutnomon por elira poŝto liveritan de via retpoŝt‑provizanto (kutime la sama kiel salutnomo por enira poŝto).">
-<!ENTITY outgoingUsername.label "Salutnomo (elira poŝto):">
-<!ENTITY outgoingUsername.accesskey "n">
+<!ENTITY outgoingUsername.label "Uzantnomo (elira poŝto):">
+<!ENTITY outgoingUsername.accesskey "U">
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
