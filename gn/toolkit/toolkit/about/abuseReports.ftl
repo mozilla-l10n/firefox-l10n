@@ -12,6 +12,8 @@ abuse-report-learnmore =
     ¿Ndereikuaaporãi mba’e apañuãi emoĩporãta?
     <a data-l10n-name="learnmore-link">Eñemomaranduve jepysokue rehegua ha avei téma</a>
 abuse-report-submit-description = Emoha’ãnga apañuãi (ejaposéramo)
+abuse-report-textarea =
+    .placeholder = Oréve ndahasyive romoĩporãvo apañuãi roguerekóramo mba’esa’i hesegua. Ehesa’ỹijo ne apañuãi. Aguyje orepytyvõ haguére ñanduti hekoresãi hag̃ua.
 abuse-report-submit-note =
     Kuaarã: ndogueroikéi marandu nemba’etéva (téra, ñanduti veve kundaharape, pumbyry papapy, óga rape).
     { -vendor-short-name } oguereko tapia jehaipy ko’ã marandu rehegua.
@@ -59,9 +61,12 @@ abuse-report-settings-suggestions-search = Emoambue ñemboheko jehekaha ijypyku�
 abuse-report-settings-suggestions-homepage = Emoambue kuatiarogue ñepyrũha ha tendayke pyahúpe
 abuse-report-deceptive-reason = Ohechaukaséva mba’e ha’e’ ỹva
 abuse-report-deceptive-example = Techapyrã: Ñemoha’ãnga térã ta’ãnga jejavýva
+abuse-report-broken-reason-extension = Ndoikói, ombyai ñanduti renda térã omombegue { -brand-product-name }
 abuse-report-broken-reason-theme = Ndoikói térã ndojehechái pe kundaha
 abuse-report-broken-example = Techapyrã: umi tembiapoite imbegue, hasy ijepuru térã ndoikói; oĩ ñanduti renda vore noñemyanyhẽi térã ojehechauka vaíva
+abuse-report-broken-suggestions-extension = Hi’ã jéve ojuhúma apañuãi. Avei omondóma marandu’i ko’árupi, emoĩporãséramo apañuãi tembiapoite rehegua eñe’ẽ jepysokue ñangarekohára ndive. <a data-l10n-name="support-link">Eike jepysokue ñanduti rendápe</a> eguereko hag̃ua ñangarekoha mba’ekuaarã eñe’ẽ hag̃ua hendive.
 abuse-report-policy-reason = Tetepy rairõgua, imarã térã ja’e’ỹ
+abuse-report-policy-suggestions = Kuaarã: Umi apañuãi ojojoguáva apohare derécho ha marca registrada oñemomaranduva’erã ha’eño peteĩteĩva. <a data-l10n-name="report-infringement-link">Eipuru ko’ã je’epyre</a> emomarandu hag̃ua apañuãi.
 abuse-report-unwanted-reason = Ndaipotaivavoínte ko jepysokue ha ndaikatúi aipe’a ko’ág̃a
 abuse-report-unwanted-example = Techapyrã: Peteĩ tembipuru’i oñemohendáva amoneĩ’ỹre
 abuse-report-other-reason = Ambue mba’e
