@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
-
-
 ### UI strings for the simplified onboarding modal / about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -66,24 +63,18 @@ onboarding-ghostery-text = Navega más rápido, de forma más inteligente o más
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Registrate para tener una { -fxaccount-brand-name } y sincroniza tus marcadores, contraseñas y pestañas abiertas en todos los dispositivos en que uses { -brand-short-name }.
-onboarding-tracking-protection-title = Controla cómo te rastrean
-onboarding-tracking-protection-text = ¿No te gusta cuando la publicidad te persigue? { -brand-short-name } te ayuda a controlar cómo rastrean los anunciantes tu actividad en línea.
-# "Update" is a verb, as in "Update the existing settings", not "Options about
-# updates".
-onboarding-tracking-protection-button =
-    { PLATFORM() ->
-        [windows] Actualizar opciones
-       *[other] Actualizar preferencias
-    }
 onboarding-tracking-protection-title2 = Protección contra rastreo
 onboarding-tracking-protection-text2 = { -brand-short-name } ayuda a detener los sitios que te rastrean en línea, haciendo que a la publicidad le sea más difícil seguirte por la web.
 onboarding-tracking-protection-button2 = Cómo funciona
 onboarding-data-sync-title = Lleva tus ajustes contigo
-onboarding-data-sync-button = Activar { -sync-brand-short-name }
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Sincroniza tus marcadores, contraseñas y más en todas partes donde uses { -brand-product-name }.
 onboarding-data-sync-button2 = Conéctate a { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Mantente alerta a las filtraciones de datos
+onboarding-firefox-monitor-text = { -monitor-brand-name } monitoriza si tu correo ha aparecido en filtraciones de datos y te alerta si llega a aparecer en una nueva.
 onboarding-firefox-monitor-button = Suscríbete para recibir alertas
 onboarding-browse-privately-title = Navega de forma privada
+onboarding-browse-privately-text = La navegación privada limpia tu historial de búsqueda y navegación para mantenerlo secreto de cualquiera que use tu computador.
 onboarding-browse-privately-button = Abrir una ventana privada
 onboarding-firefox-send-title = Mantén tus archivos compartidos privados
 onboarding-firefox-send-text2 = Sube tus archivos a { -send-brand-name } para compartirlos con cifrado de extremo a extremo y con un enlace que expira de forma automática.
@@ -94,13 +85,18 @@ onboarding-mobile-phone-text = Baja { -brand-product-name } para iOS o Android y
 # browser.
 onboarding-mobile-phone-button = Bajar navegador móvil
 onboarding-send-tabs-title = Envíate las pestañas de forma instantánea
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Send Tabs comparte páginas de forma instantánea entre tus dispositivos sin tener que copiar, pegar o salir del navegador.
 onboarding-send-tabs-button = Empieza a usar Send Tabs
 onboarding-pocket-anywhere-title = Lee y escucha en todas partes
+onboarding-pocket-anywhere-text2 = Guarda tu contenido favorito sin conexión con la app de { -pocket-brand-name } y lee, escucha o mira cuando te sea más conveniente.
 onboarding-pocket-anywhere-button = Prueba { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Lleva tus contraseñas a todas partes
-onboarding-lockwise-passwords-button = Obtén { -lockwise-brand-name }
+onboarding-lockwise-passwords-text2 = Mantén las contraseñas que guardas de forma segura y conéctate fácilmente a tus cuentas con { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Conseguir la aplicación
 onboarding-facebook-container-title = Establece la frontera con Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } mantiene tu perfil separado de todo lo demás, haciendo más difícil para Firefox el entregarte publicidad personalizada.
 onboarding-facebook-container-button = Añadir la extensión
 
 ## Message strings belonging to the Return to AMO flow
