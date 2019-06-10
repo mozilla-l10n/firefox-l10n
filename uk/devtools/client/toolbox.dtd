@@ -136,6 +136,11 @@
 <!ENTITY options.timestampMessages.label      "Увімкнути відбитки часу">
 <!ENTITY options.timestampMessages.tooltip    "Якщо ввімкнено цей параметр, команди і вивід показуватиме час у веб-консолі">
 
+<!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
+   - label for the checkbox that toggles the warningGroups feature in the Web Console -->
+<!ENTITY options.warningGroups.label      "Групувати схожі повідомлення">
+<!ENTITY options.warningGroups.tooltip    "Якщо увімкнено, схожі повідомлення об'єднуються в групи">
+
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
 <!ENTITY options.debugger.label            "Зневаджувач">
