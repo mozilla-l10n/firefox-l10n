@@ -65,6 +65,7 @@ abuse-report-broken-reason-extension = Ndoikói, ombyai ñanduti renda térã om
 abuse-report-broken-reason-theme = Ndoikói térã ndojehechái pe kundaha
 abuse-report-broken-example = Techapyrã: umi tembiapoite imbegue, hasy ijepuru térã ndoikói; oĩ ñanduti renda vore noñemyanyhẽi térã ojehechauka vaíva
 abuse-report-broken-suggestions-extension = Hi’ã jéve ojuhúma apañuãi. Avei omondóma marandu’i ko’árupi, emoĩporãséramo apañuãi tembiapoite rehegua eñe’ẽ jepysokue ñangarekohára ndive. <a data-l10n-name="support-link">Eike jepysokue ñanduti rendápe</a> eguereko hag̃ua ñangarekoha mba’ekuaarã eñe’ẽ hag̃ua hendive.
+abuse-report-broken-suggestions-theme = Hi’ã jéve ojuhúma apañuãi. Avei omondóma marandu’i ko’árupi, emoĩporãséramo apañuãi tembiapoite rehegua eñe’ẽ jepysokue ñangarekohára ndive. <a data-l10n-name="support-link">Eike téma ñanduti rendápe</a> eguereko hag̃ua ñangarekoha mba’ekuaarã eñe’ẽ hag̃ua hendive.
 abuse-report-policy-reason = Tetepy rairõgua, imarã térã ja’e’ỹ
 abuse-report-policy-suggestions = Kuaarã: Umi apañuãi ojojoguáva apohare derécho ha marca registrada oñemomaranduva’erã ha’eño peteĩteĩva. <a data-l10n-name="report-infringement-link">Eipuru ko’ã je’epyre</a> emomarandu hag̃ua apañuãi.
 abuse-report-unwanted-reason = Ndaipotaivavoínte ko jepysokue ha ndaikatúi aipe’a ko’ág̃a
