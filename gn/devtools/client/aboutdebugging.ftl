@@ -84,6 +84,8 @@ about-debugging-setup-title = Ñembosako’i
 about-debugging-setup-intro = Emboheko mba’éichapa eikéta emopotĩ hag̃ua okáguio ne mba’e’oka.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Eipuru <a>{ about-debugging-this-firefox-runtime-name }</a> emopotĩ hag̃ua tendayke, jepysokue ha Mba'apohára mba'epytyvõrãguáva ko peteĩchagua { -brand-shorter-name }.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Eipuru { about-debugging-this-firefox-runtime-name }</a> emopotĩ hag̃ua tendayke, jepysokue ha service workers kóva ko { -brand-shorter-name } rehegua.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Embojuaju peteĩ mba'e'oka
 # USB section of the Setup page
