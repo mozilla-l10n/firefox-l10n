@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = ცვლილებების შენახვა
     .accesskey = შ
+permissions-autoplay-menu = ნაგულისხმევი ყველა საიტისთვის:
 permissions-searchbox =
     .placeholder = საიტის ძიება
+permissions-capabilities-autoplay-allow =
+    .label = ხმისა და ვიდეოს დაშვება
+permissions-capabilities-autoplay-block =
+    .label = ხმის შეზღუდვა
+permissions-capabilities-autoplay-blockall =
+    .label = ხმისა და ვიდეოს შეზღუდვა
 permissions-capabilities-allow =
     .label = ნებადართული
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = ნებართვა
 permissions-capabilities-listitem-block =
     .value = აკრძალვა
-permissions-capabilities-listitem-allow-first-party =
-    .value = მხოლოდ პირველი ნაწილის დაშვება
 permissions-capabilities-listitem-allow-session =
     .value = ნებართვა ამ სეანსზე
 
@@ -97,6 +102,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = გამონაკლისები – თვითგაშვება
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = შეგიძლიათ მიუთითოთ საიტები, რომლებზეც ყოველთის ან არასდროს იქნება ნებადართული ხმოვანი ფაილების თვითგაშვება. აკრიფეთ საიტის ზუსტი მისამართი და დააწკაპეთ აკრძალვას ან დაშვებას.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = პარამეტრები – თვითგაშვება
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = აქ შეგიძლიათ მართოთ ის საიტები, რომლებიც თვითგაშვების ნაგულისხმევ პარამეტრებს არ მიყვება.
 
 ## Site Permissions - Notifications
 
