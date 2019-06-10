@@ -29,7 +29,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "სიის გასუფთავება">
-<!ENTITY cmd.clearList.tooltip            "ამოიღებს სიიდან დასრულებულ, გაუქმებულ და არშემდგარ ელემენტებს">
+<!ENTITY cmd.clearList.tooltip            "მოაცილებს სიიდან დასრულებულ, გაუქმებულ და არშემდგარ ელემენტებს">
 <!ENTITY cmd.clearList.accesskey          "C">
 <!ENTITY cmd.find.commandkey              "f">
 <!ENTITY cmd.search.commandkey            "k">
