@@ -136,6 +136,11 @@
 <!ENTITY options.timestampMessages.label      "Galluogi stamp amser">
 <!ENTITY options.timestampMessages.tooltip    "Os ydych wedi galluogi'r gorchmyniona bydd allbynnau yn y Consol Gwe yn dangos stamp amser">
 
+<!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
+   - label for the checkbox that toggles the warningGroups feature in the Web Console -->
+<!ENTITY options.warningGroups.label      "Grwpio negeseuon tebyg">
+<!ENTITY options.warningGroups.tooltip    "Pan wedi eu galluogi, bydd negeseuon tebyg yn cael eu rhoi mewn grwpiau">
+
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
 <!ENTITY options.debugger.label            "Dadfygiwr">

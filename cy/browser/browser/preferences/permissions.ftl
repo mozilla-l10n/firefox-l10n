@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Cadw Newidiadau
     .accesskey = N
+permissions-autoplay-menu = Y rhagosodedig am bob gwefan:
 permissions-searchbox =
     .placeholder = Chwilio'r Wefan
+permissions-capabilities-autoplay-allow =
+    .label = Caniatáu Sain a Fideo
+permissions-capabilities-autoplay-block =
+    .label = Rhwystro Sain
+permissions-capabilities-autoplay-blockall =
+    .label = Rhwystro Sain a Fideo
 permissions-capabilities-allow =
     .label = Caniatáu
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = Caniatáu
 permissions-capabilities-listitem-block =
     .value = Rhwystro
-permissions-capabilities-listitem-allow-first-party =
-    .value = Caniatáu'r parti cyntaf yn unig
 permissions-capabilities-listitem-allow-session =
     .value = Caniatáu ar gyfer y Sesiwn
 
@@ -58,10 +63,6 @@ permissions-invalid-uri-label = Rhoi cyfeiriad e-bost dilys
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Eithriadau - Diogelu Rhag Tracio
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Rydych wedi analluogi Diogelu Rhag Tracio ar y gwefannau hyn.
 permissions-exceptions-content-blocking-window =
     .title = Eithriadau - Rhwystro Cynnwys
     .style = { permissions-window.style }
@@ -101,6 +102,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Eithriadau - Awtochwarae
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Gallwch bennu pa wefannau sy'n cael awtochwarae cyfrwng gyda sain, neu beidio.  Teipiwch union gyfeiriad y wefan rydych am ei reoli ac yna clicio Rhwystro neu Caniatáu.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Gosodiadau - Autochwarae
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Gallwch reoli'r gwefannau nad ydynt yn eu dilyn eich gosodiadau awtochwarae rhagosodedig yma.
 
 ## Site Permissions - Notifications
 
