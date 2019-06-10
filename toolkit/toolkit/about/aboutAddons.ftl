@@ -95,7 +95,7 @@ detail-update-manual =
 detail-private-browsing-label = Suoritus yksityisissä ikkunoissa
 detail-private-browsing-description2 = Kun sallittu, tällä laajennuksella on pääsy verkossa tekemiisi asioihin yksityisissä ikkunoissa. <label data-l10n-name="detail-private-browsing-learn-more">Lue lisää</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
-# cannot be overriden by the user.
+# cannot be overridden by the user.
 detail-private-disallowed-label = Ei sallittu yksityisissä ikkunoissa
 detail-private-disallowed-description = Tätä laajennusta ei suoriteta yksityisissä ikkunoissa. <label data-l10n-name="detail-private-browsing-learn-more">Lue lisää</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
@@ -266,6 +266,11 @@ go-back-button =
 ## Recommended add-ons page
 
 discopane-notice-learn-more = Lue lisää
+privacy-policy = Yksityisyyskäytäntö
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = tehnyt <a data-l10n-name="author">{ $author }</a>
 # Shows the number of daily users of the add-on.
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
@@ -279,24 +284,49 @@ find-more-addons = Etsi lisää lisäosia
 
 ## Add-on actions
 
+report-addon-button = Raportoi
 remove-addon-button = Poista
 disable-addon-button = Poista käytöstä
 enable-addon-button = Käytä
 expand-addon-button = Lisää valintoja
 addons-enabled-heading = Käytössä
 addons-disabled-heading = Ei käytössä
+ask-to-activate-button = Kysy aktivointia
+always-activate-button = Aktivoi aina
+never-activate-button = Älä koskaan aktivoi
 addon-detail-author-label = Tekijä
 addon-detail-version-label = Versio
 addon-detail-last-updated-label = Päivitetty viimeksi
 addon-detail-homepage-label = Kotisivu
+addon-detail-rating-label = Arvostelu
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Arvostelu { NUMBER($rating, maximumFractionDigits: 1) }/5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (ei käytössä)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } arvio
+       *[other] { $numberOfReviews } arviota
+    }
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> on poistettu.
+pending-uninstall-undo-button = Kumoa
+addon-detail-updates-label = Salli automaattiset päivitykset
 addon-detail-updates-radio-default = Oletus
+addon-detail-updates-radio-on = Käytössä
+addon-detail-updates-radio-off = Ei käytössä
 addon-detail-update-check-label = Tarkista päivitykset
 install-update-button = Päivitä
 # This is the tooltip text for the private browsing badge in about:addons. The

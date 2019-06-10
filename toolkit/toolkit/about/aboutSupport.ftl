@@ -199,6 +199,7 @@ gpu-device-id = Laitteen tunnus
 gpu-subsys-id = Alijärjestelmän tunnus
 gpu-drivers = Ajurit
 gpu-ram = Muisti
+gpu-driver-vendor = Ajurin tekijä
 gpu-driver-version = Ajurin versio
 gpu-driver-date = Ajurin päiväys
 gpu-active = Aktiivinen
