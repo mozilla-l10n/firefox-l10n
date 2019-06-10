@@ -274,9 +274,6 @@ go-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = Розширення і теми - це як додатки до вашого браузера, що дозволяють зберігати паролі, завантажувати відео, знаходити угоди, блокувати надокучливу рекламу, змінювати зовнішній вигляд браузера та багато іншого. Ці невеликі програми часто розробляються сторонніми учасниками. Ось збірка { -brand-product-name }рекомендованих розширень</a> для виняткової безпеки, швидкодії та функціональності.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Деякі з цих рекомендацій персоналізовані. Вони базуються на ваших вже встановлених розширеннях, налаштуваннях профілю і статистики використання.
 discopane-notice-learn-more = Докладніше
