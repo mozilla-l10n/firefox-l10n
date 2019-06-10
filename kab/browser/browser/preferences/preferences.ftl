@@ -26,13 +26,13 @@ search-input-box =
     .style = width: 15.4em
     .placeholder =
         { PLATFORM() ->
-            [windows] Aff deg iɣewwaṛen
-           *[other] Aff deg yismenyifen
+            [windows] Af deg iɣewwaṛen
+           *[other] Af deg ismenyifen
         }
 policies-notice =
     { PLATFORM() ->
-        [windows] Tuddsa-ik tessens tazmert n ubeddel n kra n yiɣewwaṛen.
-       *[other] Tuddsa-ik tessens tazmert n ubeddel n kra n yismenyifen.
+        [windows] Tuddsa-ik tessens tazmert n ubeddel n kra n iɣewwaṛen.
+       *[other] Tuddsa-ik tessens tazmert n ubeddel n kra n ismenyifen.
     }
 pane-general-title = Amatu
 category-general =
@@ -58,7 +58,7 @@ close-button =
 
 ## Browser Restart Dialog
 
-feature-enable-requires-restart = issefk { -brand-short-name } ad yales asenkar akken ad irmed tamahilt.
+feature-enable-requires-restart = issefk { -brand-short-name } ad yales tanekra akken ad irmed tamahilt.
 feature-disable-requires-restart = Issefk { -brand-short-name } ad yales asenkar akken ad yettwakkes urmad n tmahilt-a.
 should-restart-title = Ales asenker i { -brand-short-name }
 should-restart-ok = Ales asenker { -brand-short-name } tura
