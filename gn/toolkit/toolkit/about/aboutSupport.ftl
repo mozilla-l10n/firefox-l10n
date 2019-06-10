@@ -34,6 +34,8 @@ app-basics-build-id = ID jejapo
 app-basics-update-channel = Ñembohekopyahu mbohapeha
 app-basics-update-history = Ñembohekopyahu rembiasakue
 app-basics-show-update-history = Ñembohekopyahu rembiasakue jehechauka
+# Represents the path to the binary used to start the application.
+app-basics-binary = Binario tembipuru’i rehegua
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Marandurenda mba'ete

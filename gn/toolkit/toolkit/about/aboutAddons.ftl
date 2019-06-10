@@ -363,3 +363,6 @@ release-notes-error = Rombyasy, hákatu oiko jejavy henyhẽnguévo jehaipy rehe
 addon-permissions-empty = Ko jepysokue noikotevẽi ñemoneĩ
 recommended-extensions-heading = Jepysokue je’eporãpyre
 recommended-themes-heading = Téma je’eporãpyre
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = ¿Emoheñoisépa? <a data-l10n-name="link">Emoheñoi ne temarã Firefox Color ndive.</a>
