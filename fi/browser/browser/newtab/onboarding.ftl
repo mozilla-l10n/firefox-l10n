@@ -65,7 +65,7 @@ onboarding-mobile-phone-title = Hanki { -brand-product-name } puhelimeesi
 # browser.
 onboarding-mobile-phone-button = Lataa mobiiliselain
 onboarding-send-tabs-title = Lähetä välilehtiä itsellesi välittömästi
-onboarding-pocket-anywhere-button = Try { -pocket-brand-name }-palvelua
+onboarding-pocket-anywhere-button = Kokeile { -pocket-brand-name }-palvelua
 onboarding-lockwise-passwords-title = Ota salasanat mukaasi kaikkialle
 onboarding-lockwise-passwords-button2 = Hanki sovellus
 onboarding-facebook-container-title = Aseta rajat Facebookille
