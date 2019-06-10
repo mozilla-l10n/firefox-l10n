@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Változtatások mentése
     .accesskey = V
+permissions-autoplay-menu = Alapértelmezés az összes webhelyhez:
 permissions-searchbox =
     .placeholder = Weboldal keresése
+permissions-capabilities-autoplay-allow =
+    .label = Hang és videó engedélyezése
+permissions-capabilities-autoplay-block =
+    .label = Hang blokkolása
+permissions-capabilities-autoplay-blockall =
+    .label = Hang és videó blokkolása
 permissions-capabilities-allow =
     .label = Engedélyezés
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = Engedélyezés
 permissions-capabilities-listitem-block =
     .value = Tiltás
-permissions-capabilities-listitem-allow-first-party =
-    .value = Csak első fél engedélyezése
 permissions-capabilities-listitem-allow-session =
     .value = Engedélyezés a munkamenetben
 
@@ -97,6 +102,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Kivételek – Automatikus lejátszás
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Megadhatja azokat a webhelyeket, amelyek mindig vagy sohasem játszhatnak le automatikusan médiát hanggal. Írja be a kezelni kívánt webhely pontos nevét, majd kattintson a Tiltás vagy Engedélyezés gombok egyikére.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Beállítások – Automatikus lejátszás
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Itt kezelheti azokat a webhelyeket, amelyek nem követik az alapértelmezett automatikus lejátszási beállításokat.
 
 ## Site Permissions - Notifications
 
