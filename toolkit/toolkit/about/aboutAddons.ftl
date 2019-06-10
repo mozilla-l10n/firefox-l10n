@@ -369,3 +369,8 @@ recent-updates-heading = Недавні оновлення
 release-notes-loading = Завантаження…
 release-notes-error = На жаль, під час завантаження приміток до випуску сталася помилка.
 addon-permissions-empty = Це розширення не потребує дозволів
+recommended-extensions-heading = Рекомендовані розширення
+recommended-themes-heading = Рекомендовані теми
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Відчуваєте творче натхнення? <a data-l10n-name="link">Створіть власну тему за допомогою Firefox Color.</a>

@@ -37,6 +37,8 @@ app-basics-build-id = ID збірки
 app-basics-update-channel = Канал оновлення
 app-basics-update-history = Історія оновлень
 app-basics-show-update-history = Показати історію оновлень
+# Represents the path to the binary used to start the application.
+app-basics-binary = Бінарний файл програми
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Тека профілю
