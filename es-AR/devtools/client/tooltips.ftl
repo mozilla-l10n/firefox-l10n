@@ -41,3 +41,5 @@ inactive-css-not-grid-container-fix = Intente agregar <strong>display:grid</stro
 inactive-css-not-flex-item-fix = Intente agregar <strong>display:flex</strong> o <strong>display:inline-flex</strong> al padre del item. { learn-more }
 inactive-css-not-flex-container-fix = Intente agregar <strong>display:flex</strong> o <strong>display:inline-flex</strong>. { learn-more }
 inactive-css-not-inline-or-tablecell-fix = Intente agregar <strong>display:inline</strong> o <strong>display:table-cell</strong>. { learn-more }
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Pruebe a añadir <strong>display:inline-block</strong> o <strong>display:block</strong>. { learn-more }
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Pruebe a añadir <strong>display:inline-block</strong>. { learn-more }
