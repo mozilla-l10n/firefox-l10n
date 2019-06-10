@@ -84,6 +84,8 @@ about-debugging-setup-title = Gosod
 about-debugging-setup-intro = Ffurfweddwch y dull cysylltu rydych chi eisiau dadfygio eich dyfais o bell gydag ef.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Defnyddiwch <a>{ about-debugging-this-firefox-runtime-name }</a> i ddadfygio tabiau, estyniadau a gweithwyr gwasanaeth ar y fersiwn hon o { -brand-shorter-name }.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Defnyddiwch { about-debugging-this-firefox-runtime-name }</a> i ddadfygio tabiau, estyniadau a gweithwyr gwasanaeth ar y fersiwn hon o { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Cysylltu Dyfais
 # USB section of the Setup page

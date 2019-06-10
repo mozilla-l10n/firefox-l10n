@@ -34,6 +34,8 @@ app-basics-build-id = Cyfeirnod Adeiladu
 app-basics-update-channel = Sianel Diweddaru
 app-basics-update-history = Hanes Diweddaru
 app-basics-show-update-history = Dangos Hanes Diweddaru
+# Represents the path to the binary used to start the application.
+app-basics-binary = Deuaidd y Rhaglen
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Cyfeiriadur Proffil
