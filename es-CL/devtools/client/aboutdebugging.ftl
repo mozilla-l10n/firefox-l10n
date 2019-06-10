@@ -84,6 +84,8 @@ about-debugging-setup-title = Configuración
 about-debugging-setup-intro = Configura el método de conexión con el que deseas depurar remotamente tu dispositivo.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Usa un<a>{ about-debugging-this-firefox-runtime-name }</a> para depurar pestañas, extensiones y service workers en esta versión de { -brand-shorter-name }.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Usa <a>{ about-debugging-this-firefox-runtime-name }</a> para depurar extensiones y service workers en esta versión de { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Conectar un dispositivo
 # USB section of the Setup page
@@ -105,10 +107,20 @@ about-debugging-setup-usb-status-updating = Actualizando…
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = Activar menú de desarrollo en tu dispositivo Android.
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Activa la depuración USB en el menú de desarrollador de Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Activa la depuración USB en Firefox en el dispositivo Android.
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Conecta el dispositivo Android a tu computador.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = ¿Problemas conectándote al dispositivo USB? <a>Solucionar problemas</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Ubicación de red
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = ¿Problemas conectándote a través de la ubicación de red? <a>Solucionar problemas</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Añadir
