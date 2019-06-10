@@ -37,6 +37,8 @@ app-basics-build-id = Build-ID
 app-basics-update-channel = Updatekanaal
 app-basics-update-history = Updategeschiedenis
 app-basics-show-update-history = Updategeschiedenis tonen
+# Represents the path to the binary used to start the application.
+app-basics-binary = Binair toepassingsbestand
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Profielmap
