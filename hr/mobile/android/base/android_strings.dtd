@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "Nastavite gdje ste stali.">
 <!ENTITY firstrun_sync_subtext2 "Koristite Sinkronizaciju kako biste našli zabilješke, lozinke i ostalo što spremate na &brandShortName; kod svih vaših uređaja.">
 <!ENTITY newfirstrun_sync_subtext "Sinkronizirajte stvari koje spremite na mobitelu s Firefoxom za računala, privatno i sigurno.">
+<!ENTITY updatednewfirstrun_sync_subtext "Prijavite se u svoj račun kako biste na najbolji način iskoristili &brandShortName;">
 <!ENTITY firstrun_signin_message "Povežite se, započnite">
 <!ENTITY firstrun_signin_button "Prijavite se u Sync">
 <!ENTITY newfirstrun_signin_button "Uključite sinkronizaciju">
+<!ENTITY updatednewfirstrun_signin_button "Prijavite se u &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Započni pregledavanje">
 <!ENTITY firstrun_button_notnow "Ne sada">
 <!ENTITY firstrun_button_next "Sljedeći">
@@ -108,6 +110,10 @@
 <!ENTITY bookmark_folder_updated "Mapa ažurirana">
 <!ENTITY bookmark_parent_folder "Nadređena mapa">
 <!ENTITY bookmark_add_folder "Dodaj novu mapu">
+
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(bez naslova)">
 
 <!ENTITY reader_saved_offline "Spremljeno izvanmrežno">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -590,6 +596,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "Ključna riječ">
 <!ENTITY bookmark_select_folder "Izaberite mapu">
 
+<!ENTITY bookmark_edit_undo "Vrati">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "Postavke stranice">
@@ -677,6 +685,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Odaberite ili snimite zvuk">
 <!ENTITY filepicker_image_title "Odaberite ili snimite sliku">
 <!ENTITY filepicker_video_title "Odaberite ili snimite video">
+
+<!ENTITY filepicker_permission_denied "Obavezna dopuštenja nisu odobrena, povratak na odabir datoteka od strane sustava.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Povezani ste na">
