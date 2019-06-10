@@ -15,7 +15,7 @@
 <!ENTITY password.label                  "Pasvorto:">
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "Pasvorto">
-<!ENTITY password.text                   "Malnepra, estos uzita nur por kontroli la salutnomon">
+<!ENTITY password.text                   "Malnepra, estos uzita nur por kontroli la uzantnomon">
 <!ENTITY rememberPassword.label          "Memori pasvorton">
 <!ENTITY rememberPassword.accesskey      "m">
 <!ENTITY usernameEx.label                "Via salutnomo:">
