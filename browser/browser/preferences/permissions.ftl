@@ -87,7 +87,7 @@ permissions-exceptions-popup-desc = Zde můžete určit, které servery mohou ot
 permissions-exceptions-saved-logins-window =
     .title = Výjimky pro ukládání přihlašovacích údajů
     .style = { permissions-window.style }
-permissions-exceptions-saved-logins-desc = Pro následující servery se nebudou přihlašovací údaje ukládat
+permissions-exceptions-saved-logins-desc = Pro následující servery se nebudou přihlašovací údaje ukládat.
 
 ## Exceptions - Add-ons
 
