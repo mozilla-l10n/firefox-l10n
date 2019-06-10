@@ -6,7 +6,7 @@
 <!ENTITY accountWindow.width           "300">
 <!ENTITY account.general               "Ĝeneralaj">
 <!ENTITY account.advanced              "Spertulaj agordoj">
-<!ENTITY account.name                  "Salutnomo:">
+<!ENTITY account.name                  "Uzantnomo:">
 <!ENTITY account.password              "Pasvorto:">
 <!ENTITY account.alias                 "Kromnomo:">
 <!ENTITY account.newMailNotification   "Sciigi pri novaj retleteroj">
