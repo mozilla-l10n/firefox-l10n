@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Зберегти зміни
     .accesskey = З
+permissions-autoplay-menu = Типово для всіх веб-сайтів:
 permissions-searchbox =
     .placeholder = Пошук по сайту
+permissions-capabilities-autoplay-allow =
+    .label = Дозволити аудіо та відео
+permissions-capabilities-autoplay-block =
+    .label = Блокувати аудіо
+permissions-capabilities-autoplay-blockall =
+    .label = Блокувати аудіо і відео
 permissions-capabilities-allow =
     .label = Дозволити
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = Дозволити
 permissions-capabilities-listitem-block =
     .value = Блокувати
-permissions-capabilities-listitem-allow-first-party =
-    .value = Дозволити лише з перших рук
 permissions-capabilities-listitem-allow-session =
     .value = Дозволити на сеанс
 
@@ -97,6 +102,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Винятки - Автовідтворення
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Ви можете вказати, яким веб-сайтам завжди дозволяється автоматично відтворювати медіа зі звуком. Введіть адресу сайту і натисніть кнопку Блокувати або Дозволити.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Налаштування - Автовідтворення
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Тут ви можете керувати сайтами, що не дотримуються ваших типових налаштувань автовідтворення.
 
 ## Site Permissions - Notifications
 
