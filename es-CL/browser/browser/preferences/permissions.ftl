@@ -105,6 +105,10 @@ permissions-exceptions-autoplay-media-desc2 = Puedes especificar qué sitios tie
 
 ## Site Permissions - Autoplay
 
+permissions-site-autoplay-window =
+    .title = Ajustes - Autoreproducción
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Puedes gestionar sitios que no siguen tus ajustes de reproducción automática aquí.
 
 ## Site Permissions - Notifications
 
