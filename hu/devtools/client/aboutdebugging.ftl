@@ -84,6 +84,8 @@ about-debugging-setup-title = Beállítások
 about-debugging-setup-intro = Állítsa be a kapcsolódási módot, amellyel távolról akar hibát keresni a készüléken.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Használja a <a>{ about-debugging-this-firefox-runtime-name }</a> lehetőséget a lapok, kiegészítők és service workerek hibakeresésére a { -brand-shorter-name } ezen verzióján.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Használja a <a>{ about-debugging-this-firefox-runtime-name }</a> lehetőséget a kiegészítők és service workerek hibakeresésére a { -brand-shorter-name } ezen verzióján.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Eszköz csatlakoztatása
 # USB section of the Setup page
