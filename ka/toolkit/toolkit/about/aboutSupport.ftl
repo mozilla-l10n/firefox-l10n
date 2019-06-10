@@ -34,6 +34,8 @@ app-basics-build-id = ანაწყობის ID
 app-basics-update-channel = განახლების არხი
 app-basics-update-history = განახლების ისტორია
 app-basics-show-update-history = განახლების ისტორიის ჩვენება
+# Represents the path to the binary used to start the application.
+app-basics-binary = პროგრამის ორობითი ფაილი
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] პროფილის საქაღალდე
