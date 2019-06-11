@@ -36,7 +36,7 @@ permissions-button-ok =
     .accesskey = Ы
 permissions-autoplay-menu = Прадвызначана для ўсіх сайтаў:
 permissions-searchbox =
-    .placeholder = Пошук па вэб-сайту
+    .placeholder = Пошук сярод вэб-сайтаў
 permissions-capabilities-autoplay-allow =
     .label = Дазваляць гук і відэа
 permissions-capabilities-autoplay-block =
@@ -108,6 +108,7 @@ permissions-exceptions-autoplay-media-desc2 = Вы можаце вызначыц
 permissions-site-autoplay-window =
     .title = Налады - Аўтапрайграванне
     .style = { permissions-window.style }
+permissions-site-autoplay-desc = Тут вы можаце кіраваць сайтамі, якія не выкарыстоўваюць тыповыя  налады аўтаматычнага прайгравання.
 
 ## Site Permissions - Notifications
 
