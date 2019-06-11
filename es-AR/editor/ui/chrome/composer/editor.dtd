@@ -4,7 +4,7 @@
 
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY editorWindow.titlemodifier "Composer"> 
+<!ENTITY editorWindow.titlemodifier "Composer">
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
@@ -33,7 +33,7 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formato">
 <!ENTITY formatMenu.accesskey "o">
-<!ENTITY grid.label "Grilla de posicionamiento">
+<!ENTITY grid.label "Cuadrícula de posicionamiento">
 <!ENTITY grid.accesskey "G">
 <!ENTITY pageProperties.label "Título y propiedades de la página…">
 <!ENTITY pageProperties.accesskey "T">
@@ -65,4 +65,3 @@
 <!ENTITY PreviewMode.label "Vista previa">
 <!ENTITY PreviewMode.accesskey "p">
 <!ENTITY PreviewMode.tooltip "Mostrar como WYSIWYG (como en el navegador)">
-
