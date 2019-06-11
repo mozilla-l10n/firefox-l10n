@@ -69,6 +69,12 @@
 <!ENTITY  crash_close_label "Đóng">
 <!ENTITY  crash_restart_label "Khởi động lại &brandShortName;">
 
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; đã bị vỡ">
+<!ENTITY  crash_notification_message "Nhấn để báo cáo cho &vendorShortName;">
+<!ENTITY  crash_notification_negative_button_text "Bỏ qua">
+
 <!ENTITY url_bar_default_text2 "Tìm kiếm hoặc nhập địa chỉ">
 
 <!-- Localization note: this text will be displayed in the Search Widget -->
@@ -939,3 +945,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Các thông báo trang">
+<!ENTITY crash_handler_notifications_channel "Báo cáo lỗi &brandShortName;">
