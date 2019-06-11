@@ -149,9 +149,9 @@ policy-SearchSuggestEnabled = Slå søgeforslag til eller fra.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Installer PKCS #11 moduler.
 
-policy-SSLVersionMax = Angiv den laveste SSL-version.
+policy-SSLVersionMax = Angiv den højeste SSL-version.
 
-policy-SSLVersionMin = Angiv den højeste SSL-version.
+policy-SSLVersionMin = Angiv den laveste SSL-version.
 
 policy-SupportMenu = Føj et tilpasset menupunkt til menuen Hjælp.
 
