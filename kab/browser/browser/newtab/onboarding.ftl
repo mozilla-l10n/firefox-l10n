@@ -93,7 +93,10 @@ onboarding-pocket-anywhere-title = Ɣer daɣe sel, s kra wanida telliḍ.
 onboarding-pocket-anywhere-text2 = Sekles igburen-ik inurifen s war tuqqna s usnas { -pocket-brand-name } i tɣuri, awali neɣ timesliwt melmi i tebɣiḍ.
 onboarding-pocket-anywhere-button = Ɛreḍ { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Awi awalen uffiren-ik anida tebɣiḍ
+onboarding-lockwise-passwords-text2 = Ḥrez awalen-ik uffiren d iɣelsanen daɣen qqen s wudem ɣer yimiḍanen-ik s { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Awi asnas
+onboarding-facebook-container-title = Err talast i Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } ad yeḥrez amaɣnu-ik yeɛzel ɣef yismal-nniḍen. Ihi ad yuɣal yewɛeṛ i Facebook akken ad ak-d-yazen adellel i ak-ulmen.
 onboarding-facebook-container-button = Rnu asiɣzef
 
 ## Message strings belonging to the Return to AMO flow

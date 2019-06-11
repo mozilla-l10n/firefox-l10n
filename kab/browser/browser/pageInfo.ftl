@@ -147,6 +147,16 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Tisirag n tazwara
 security-no-visits = Ala
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] Aɣef aferdis (1 n tṛekkizt)
+           *[other] Iɣef iferdisen ({ $tags } n tṛekkizt)
+        }
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -166,6 +176,17 @@ properties-general-size =
         { $bytes ->
             [one] { $kb } KAṬ ( { $bytes } Atamḍan)
            *[other] { $kb } KAṬ ( { $bytes } Itamḍanen)
+        }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [one] Tugna { $type } (tettḥerrik, { $frames } askar)
+           *[other] Tugna { $type } (tettḥerrik, { $frames } iskaren)
         }
 # This string is used to display the type of
 # an image
