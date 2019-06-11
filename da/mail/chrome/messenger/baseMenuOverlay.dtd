@@ -9,6 +9,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Hjælp">
 <!ENTITY helpMenuWin.accesskey "H">
+<!ENTITY aboutProduct2.label "Om &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey "O">
 <!ENTITY helpTroubleshootingInfo.label     "Teknisk information">
 <!ENTITY helpTroubleshootingInfo.accesskey "T">
 <!ENTITY helpSafeMode.label     "Genstart med tilføjelser deaktiveret…">
@@ -20,13 +22,28 @@
 <!ENTITY openHelp.label "Emner i Hjælp">
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "Hjælp til &brandShortName;">
 <!ENTITY openHelpMac2.label "Hjælp til &brandFullName;">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY aboutMenuCmd.label "Om &brandShortName;">
-<!ENTITY aboutMenuCmd.accesskey "O">
-
 <!ENTITY aboutMenuCmd2.label "Om &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "O">
+<!ENTITY productHelp.accesskey "H">
+<!ENTITY productHelp.commandkey "VK_F1">
+<!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "accel">
+
+<!ENTITY helpKeyboardShortcuts.label "Tastaturgenveje">
+<!ENTITY helpKeyboardShortcuts.accesskey "U">
+
+<!ENTITY helpFeedbackPage.label "Indsend feedback…">
+<!ENTITY helpFeedbackPage.accesskey "I">
+
+<!ENTITY helpShowTour2.label "Rundvisning i &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey "R">
+
+<!ENTITY helpGetInvolvedPage.label "Kom og vær med">
+<!ENTITY helpGetInvolvedPage.accesskey "V">
+
+<!ENTITY helpDonationsPage.label "Giv et bidrag">
+<!ENTITY helpDonationsPage.accesskey "B">
