@@ -4,6 +4,8 @@
 
 do-not-track-description = যে যে ওয়েবসাইট হতে আপনি ট্র্যাক হতে চান না সেগুলোতে  “ট্রাক করবে না” পাঠাও
 do-not-track-learn-more = আরও জানুন
+do-not-track-option-default-content-blocking-known =
+    .label = শুধুমাত্র যখন { -brand-short-name } পরিচিত ট্র্যাকারগুলোকে ব্লক করার জন্য সেট করা হয়
 do-not-track-option-always =
     .label = সর্বদা
 pref-page =
@@ -32,6 +34,7 @@ policies-notice =
         [windows] আপনার প্রতিষ্ঠান অপশনের কিছু পরিবর্তনের সক্ষমতা নিষ্ক্রিয় করেছে।
        *[other] আপনার প্রতিষ্ঠান অপশনের কিছু পরিবর্তনের সক্ষমতা নিষ্ক্রিয় করেছে।
     }
+managed-notice = আপনার ব্রাউজার আপনার প্রতিষ্ঠান দ্বারা পরিচালিত হচ্ছে।
 pane-general-title = সাধারণ
 category-general =
     .tooltiptext = { pane-general-title }
@@ -276,6 +279,7 @@ update-application-check-choose =
 update-application-manual =
     .label = কখনই হালনাগাদ পরীক্ষা করবেন না (সুপারিশকৃত নয়)
     .accesskey = N
+update-application-warning-cross-user-setting = এই সেটিংটি সকল উইন্ডোজ অ্যাকাউন্ট এবং { -brand-short-name } এর ইন্সটলেশন ব্যবহার করে এমন { -brand-short-name } প্রোফাইলে প্রযোজ্য হবে।
 update-application-use-service =
     .label = হালনাগাদ ইনস্টলের জন্য একটি পটভূমির সার্ভিস ব্যবহার করুন b
     .accesskey = b
