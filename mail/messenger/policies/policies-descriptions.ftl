@@ -42,6 +42,7 @@ policy-InstallAddonsPermission = Tillad bestemte websteder at installere tilføj
 policy-LocalFileLinks = Tillad specifikke websteder at linke til lokale filer.
 policy-NetworkPrediction = Slå network prediction (DNS prefetching) til eller fra.
 policy-OfferToSaveLogins = Indstil om { -brand-short-name } skal tilbyde at huske gemte logins og adgangskoder. Både true og false accepteres.
+policy-OverrideFirstRunPage = Vis ikke siden, der vises ved første opstart. Lad politikken være tom, hvis siden ved første opstart skal deaktiveres.
 policy-OverridePostUpdatePage = Erstat siden Nyheder, der vises efter opdatering. Lad politikken være tom, hvis siden efter opdatering skal deaktiveres.
 policy-Preferences = Indstil og lås værdien for en undergruppe af indstillingerne.
 policy-PromptForDownloadLocation = Spørg hvor hentede filer skal gemmes.
