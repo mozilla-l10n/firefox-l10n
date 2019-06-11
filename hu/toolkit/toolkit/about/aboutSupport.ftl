@@ -32,6 +32,11 @@ app-basics-name = Név
 app-basics-version = Verzió
 app-basics-build-id = Build az.
 app-basics-update-channel = Frissítési csatorna
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Könyvtár frissítése
+       *[other] Mappa frissítése
+    }
 app-basics-update-history = Frissítési előzmények
 app-basics-show-update-history = Frissítési előzmények megjelenítése
 # Represents the path to the binary used to start the application.
