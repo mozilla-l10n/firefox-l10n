@@ -69,6 +69,12 @@
 <!ENTITY  crash_close_label "Cerrar">
 <!ENTITY  crash_restart_label "Reiniciar &brandShortName;">
 
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "se produjo un fallo con &brandShortName;">
+<!ENTITY  crash_notification_message "Selecciona para informar a &vendorShortName;">
+<!ENTITY  crash_notification_negative_button_text "Ignorar">
+
 <!ENTITY url_bar_default_text2 "Término de búsqueda o dirección">
 
 <!-- Localization note: this text will be displayed in the Search Widget -->
@@ -618,7 +624,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY button_yes "Sí">
 <!ENTITY button_no "No">
 <!ENTITY button_clear_data "Limpiar datos">
-<!ENTITY button_set "Configurar">
+<!ENTITY button_set "Establecer">
 <!ENTITY button_clear "Limpiar">
 <!ENTITY button_copy "Copiar">
 
@@ -942,3 +948,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Notificaciones del sitio">
+<!ENTITY crash_handler_notifications_channel "Informe de fallos de &brandShortName;">
