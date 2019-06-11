@@ -35,6 +35,11 @@ app-basics-name = Namme
 app-basics-version = Ferzje
 app-basics-build-id = Build-ID
 app-basics-update-channel = Fernijingskanaal
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Map fernije
+       *[other] Map fernije
+    }
 app-basics-update-history = Fernijingsskiednis
 app-basics-show-update-history = Fernijingsskiednis toane
 # Represents the path to the binary used to start the application.
