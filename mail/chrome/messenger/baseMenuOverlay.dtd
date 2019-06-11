@@ -40,6 +40,8 @@
 <!ENTITY helpFeedbackPage.label "Povratne informacije …">
 <!ENTITY helpFeedbackPage.accesskey "v">
 
+<!ENTITY helpShowTour2.label "Predstavitev &brandShorterName;a">
+<!ENTITY helpShowTour2.accesskey "s">
 
 <!ENTITY helpGetInvolvedPage.label "Pridružite se">
 <!ENTITY helpGetInvolvedPage.accesskey "ž">
