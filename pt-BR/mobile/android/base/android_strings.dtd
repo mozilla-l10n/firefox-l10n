@@ -69,6 +69,12 @@
 <!ENTITY  crash_close_label "Fechar">
 <!ENTITY  crash_restart_label "Reiniciar o &brandShortName;">
 
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "O &brandShortName; travou">
+<!ENTITY  crash_notification_message "Toque para relatar à &vendorShortName;">
+<!ENTITY  crash_notification_negative_button_text "Ignorar">
+
 <!ENTITY url_bar_default_text2 "Pesquise ou digite um endereço">
 
 <!-- Localization note: this text will be displayed in the Search Widget -->
@@ -942,3 +948,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Notificações do site">
+<!ENTITY crash_handler_notifications_channel "Relator de travamentos do &brandShortName;">
