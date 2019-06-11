@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "Jarraitu utzi zenuen tokitik.">
 <!ENTITY firstrun_sync_subtext2 "Erabili Sync laster-markak, pasahitza eta &brandShortName;(r)en gailu guztietan gordetzen dituzun beste gauzak aurkitzeko.">
 <!ENTITY newfirstrun_sync_subtext "Sinkronizatu mugikorrean gordetako gauzak mahaigainerako Firefoxekin, modu pribatu eta seguruan.">
+<!ENTITY updatednewfirstrun_sync_subtext "Hasi saioa zure kontuan &brandShortName;(r)i ahalik eta zuku gehien ateratzeko">
 <!ENTITY firstrun_signin_message "Konektatu eta abiatu">
 <!ENTITY firstrun_signin_button "Hasi saioa Sync-en">
 <!ENTITY newfirstrun_signin_button "Gaitu sinkronizazioa">
+<!ENTITY updatednewfirstrun_signin_button "Hasi saioa &brandShortName;(r)en">
 <!ENTITY  onboard_start_button_browser "Hasi nabigatzen">
 <!ENTITY firstrun_button_notnow "Orain ez">
 <!ENTITY firstrun_button_next "Hurrengoa">
@@ -66,6 +68,12 @@
 <!ENTITY  sending_crash_report "Hutsegite-txostena bidaltzen\u2026">
 <!ENTITY  crash_close_label "Itxi">
 <!ENTITY  crash_restart_label "Berrabiarazi &brandShortName;">
+
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName;(e)k huts egin du">
+<!ENTITY  crash_notification_message "Sakatu &vendorShortName;(r)i arazoaren berri emateko">
+<!ENTITY  crash_notification_negative_button_text "Ezikusi">
 
 <!ENTITY url_bar_default_text2 "Bilatu edo idatzi helbidea">
 
@@ -108,6 +116,10 @@
 <!ENTITY bookmark_folder_updated "Karpeta eguneratuta">
 <!ENTITY bookmark_parent_folder "Karpeta gurasoa">
 <!ENTITY bookmark_add_folder "Gehitu karpeta berria">
+
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(izenbururik ez)">
 
 <!ENTITY reader_saved_offline "Lineaz kanpo gordeta">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -413,8 +425,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Deskargak">
 <!ENTITY pref_private_data_syncedTabs "Sinkronizatutako fitxak">
 
-<!ENTITY pref_default_browser "Egin nabigatzaile lehenetsia">
-
 <!ENTITY pref_default_browser2 "Egin &brandShortName; zure nabigatzaile lehenetsia">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -592,6 +602,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "Gako-hitza">
 <!ENTITY bookmark_select_folder "Hautatu karpeta">
 
+<!ENTITY bookmark_edit_undo "Desegin">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "Gunearen ezarpenak">
@@ -679,6 +691,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Aukeratu edo grabatu soinua">
 <!ENTITY filepicker_image_title "Aukeratu edo egin argazkia">
 <!ENTITY filepicker_video_title "Aukeratu edo grabatu bideoa">
+
+<!ENTITY filepicker_permission_denied "Beharrezko baimenak falta dira; sistemaren fitxategi-hautatzailea erabiliko da.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Hona konektatuta: ">
@@ -918,6 +932,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Pausatu">
 <!ENTITY pip_pause_button_description "Pausatu erreprodukzioa">
 
+<!ENTITY pref_notification_settings_link "Kudeatu jakinarazpenen ezarpenak">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Nabigatzailea">
 <!ENTITY mls_notification_channel "&vendorShortName; kokapen-zerbitzuak">
@@ -930,3 +945,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Gunearen jakinarazpenak">
+<!ENTITY crash_handler_notifications_channel "&brandShortName; hutsegiteen berriemailea">
