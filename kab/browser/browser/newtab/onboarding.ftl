@@ -74,14 +74,23 @@ onboarding-firefox-monitor-title = Ḍfeṛ s lqerban tarewla n yisefka
 onboarding-firefox-monitor-text = { -monitor-brand-name } yessenqad ma yella tansa-ik imayl tella deg trewla n yisefka daɣen ad k-id-yelɣu ticki tella deg trewla-nniḍen tamaynut n yisefka.
 onboarding-firefox-monitor-button = jerred akken ak-id-awḍen ilɣa
 onboarding-browse-privately-title = Inig s wudem uslig
+onboarding-browse-privately-text = Tunigin tusligt ad tesfeḍ anadi-ik d umazray n tunigin akken ad t-teǧǧ d abaḍni seg wid ara yesqedcen aselkim-ik.
 onboarding-browse-privately-button = Ldi asfaylu n tunigin tusligt
 onboarding-firefox-send-title = Ḍmen tabaḍnit n yifuyla-inek ittwabḍan
+onboarding-firefox-send-text2 = Sali ifuyla-ik ɣer { -send-brand-name } akken ad ten-tebḍuḍ s usettengel s ṭṭerf ɣer ṭṭerf s useɣwen ara yemmten s wudem awurman.
 onboarding-firefox-send-button = Ɛreḍ { -send-brand-name }
 onboarding-mobile-phone-title = Awi-d { -brand-product-name } ar tiliɣri-inek
+onboarding-mobile-phone-text = Sider { -brand-product-name } i iOS neɣ Android sakin mtawi isefka-ik gar yibenkan.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Sali-d iminig aziraz
+onboarding-send-tabs-title = Azen i yiman-ik accaren-ik
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Tuzna n yiccaren ad yebḍu isebtar gar yibenkan-ik s war anɣal, asenṭeḍ neɣ tuffɣa seg yiminig.
 onboarding-send-tabs-button = Bdu aseqdec n Send Tabs
+onboarding-pocket-anywhere-title = Ɣer daɣe sel, s kra wanida telliḍ.
+onboarding-pocket-anywhere-text2 = Sekles igburen-ik inurifen s war tuqqna s usnas { -pocket-brand-name } i tɣuri, awali neɣ timesliwt melmi i tebɣiḍ.
 onboarding-pocket-anywhere-button = Ɛreḍ { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Awi awalen uffiren-ik anida tebɣiḍ
 onboarding-lockwise-passwords-button2 = Awi asnas
