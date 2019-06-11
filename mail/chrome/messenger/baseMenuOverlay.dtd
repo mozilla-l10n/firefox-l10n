@@ -28,6 +28,7 @@
 
 <!ENTITY aboutMenuCmd2.label "Om &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "O">
+<!ENTITY productHelp.label "Hjælp til &brandShortName;">
 <!ENTITY productHelp.accesskey "H">
 <!ENTITY productHelp.commandkey "VK_F1">
 <!ENTITY productHelpMac.commandkey "?">
