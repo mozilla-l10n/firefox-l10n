@@ -56,6 +56,9 @@
 <!ENTITY sending_crash_report "Invio segnalazione\u2026">
 <!ENTITY crash_close_label "Chiudi">
 <!ENTITY crash_restart_label "Riavvia &brandShortName;">
+<!ENTITY crash_notification_title "Arresto anomalo di &brandShortName;">
+<!ENTITY crash_notification_message "Tocca per segnalare a &vendorShortName;">
+<!ENTITY crash_notification_negative_button_text "Ignora">
 <!ENTITY url_bar_default_text2 "Cerca o inserisci un indirizzo">
 <!ENTITY search_widget_default_text "Cerca sul Web">
 <!ENTITY search_widget_default_cropped_text "Cerca">
