@@ -35,6 +35,11 @@ app-basics-name = Naam
 app-basics-version = Versie
 app-basics-build-id = Build-ID
 app-basics-update-channel = Updatekanaal
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Map updaten
+       *[other] Map updaten
+    }
 app-basics-update-history = Updategeschiedenis
 app-basics-show-update-history = Updategeschiedenis tonen
 # Represents the path to the binary used to start the application.
