@@ -69,6 +69,12 @@
 <!ENTITY  crash_close_label "Bezárás">
 <!ENTITY  crash_restart_label "A &brandShortName; újraindítása">
 
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "A &brandShortName; összeomlott">
+<!ENTITY  crash_notification_message "Koppintson, hogy jelentse a &vendorShortName; felé">
+<!ENTITY  crash_notification_negative_button_text "Kihagyás">
+
 <!ENTITY url_bar_default_text2 "Keresés vagy cím">
 
 <!-- Localization note: this text will be displayed in the Search Widget -->
@@ -939,3 +945,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Oldalértesítések">
+<!ENTITY crash_handler_notifications_channel "&brandShortName; összeomlás-jelentő">
