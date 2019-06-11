@@ -2,16 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  typeColumn.label        "Indholdstype">
-<!ENTITY  typeColumn.accesskey    "I">
+<!ENTITY  typeColumn.label            "Indholdstype">
+<!ENTITY  typeColumn.accesskey        "I">
 
-<!ENTITY  actionColumn2.label     "Handling">
-<!ENTITY  actionColumn2.accesskey "H">
+<!ENTITY  actionColumn2.label         "Handling">
+<!ENTITY  actionColumn2.accesskey     "H">
 
-<!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.placeholder        "Søg">
+<!ENTITY  filter.placeholder          "Søg">
 
 <!ENTITY saveTo.label                 "Gem filer i">
 <!ENTITY saveTo.accesskey             "f">
@@ -25,14 +25,16 @@
 <!ENTITY attachments.incoming.label   "Indgående">
 <!ENTITY attachments.outgoing.label   "Udgående">
 
-<!ENTITY addCloudFileAccount1.label        "Tilføj…">
-<!ENTITY addCloudFileAccount1.accesskey    "T">
+<!ENTITY addCloudFileAccount1.label       "Tilføj…">
+<!ENTITY addCloudFileAccount1.accesskey   "T">
 <!ENTITY addCloudFileAccount.description  "Tilføj en ny Filelink-tjeneste">
 <!ENTITY removeCloudFileAccount.label     "Fjern">
 <!ENTITY removeCloudFileAccount.accesskey "F">
 <!ENTITY authRequired.description         "Du skal godkende for at kunne se indstillingerne til denne tjeneste.">
 <!ENTITY authRequired.button.label        "Godkend">
 <!ENTITY authRequired.button.accesskey    "G">
+
+<!ENTITY findCloudFileProviders.label     "Find flere udbydere…">
 
 <!ENTITY enableCloudFileAccountOffer.label "Tilbyd at bruge Filelink ved filer større end">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">

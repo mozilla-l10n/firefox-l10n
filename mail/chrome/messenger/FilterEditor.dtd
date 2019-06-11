@@ -28,6 +28,8 @@
 <!ENTITY contextArchive.label "Arkivering">
 <!ENTITY contextArchive.accesskey "r">
 
+<!ENTITY contextPeriodic.accesskey "p">
+
 <!ENTITY filterActionDesc.label "Udfør disse handlinger:">
 <!ENTITY filterActionDesc.accesskey "U">
 
@@ -42,8 +44,8 @@
 <!ENTITY markMessageRead.label "Marker som læst">
 <!ENTITY markMessageUnread.label "Marker som ulæst">
 <!ENTITY markMessageStarred.label "Tilføj stjerne">
-<!ENTITY addTag.label "Marker meddelelse">
 <!ENTITY setPriority.label "Sæt prioritet til">
+<!ENTITY addTag.label "Marker meddelelse">
 <!ENTITY setJunkScore.label "Sæt spam-status til">
 <!ENTITY deleteMessage.label "Slet meddelelse">
 <!ENTITY deleteFromPOP.label "Slet fra POP-server">
@@ -57,9 +59,10 @@
 <!ENTITY removeAction.tooltip "Fjern denne handling">
 
 <!-- LOCALIZATION NOTE
-  The values below are used to control the widths of the filter action widgets.
-  Change the values only when the localized strings in the popup menus
-  are truncated in the widgets.
- -->
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->
+<!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
 <!ENTITY filterActionTypeFlexValue "1">
 <!ENTITY filterActionTargetFlexValue "4">
