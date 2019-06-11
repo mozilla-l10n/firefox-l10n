@@ -22,6 +22,7 @@ learn-more = <span data-l10n-name ="link">Dysgu rhagor</span>
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-not-grid-or-flex-container = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan nad yw'n gynhwysydd flex nac yn gynhwysydd grid.
+inactive-css-not-grid-or-flex-container-or-multicol-container = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan nad yw'n gynhwysydd fflecs, yn gynhwysydd grid, neu'n gynhwysydd aml-golofn.
 inactive-css-not-grid-or-flex-item = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan nad yw'n grid nac yn eitem flex.
 inactive-css-not-grid-item = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan nad yw'n eitem grid.
 inactive-css-not-grid-container = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan nad yw'n gynhwysydd grid.
@@ -35,6 +36,7 @@ inactive-css-property-because-of-display = Nid oes gan <strong>{ $property }</st
 ## the problem can be solved.
 
 inactive-css-not-grid-or-flex-container-fix = Ceisiwch ychwanegu <strong>display:grid</strong> neu <strong>display:flex</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Ceisiwch ychwanegu naill ai <strong>display:grid</strong>, <strong>display:flex</strong>, neu <strong>columns:2</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix = Ceisiwch ychwanegu <strong>display:grid</strong>, <strong>display:flex</strong>, <strong> display:inline-grid</strong> neu <strong>display:inline-flex</strong>. { learn-more }
 inactive-css-not-grid-item-fix = Ceisiwch ychwanegu <strong>display:grid</strong> neu <strong>display:inline-grid</strong> at riant yr eitem. { learn-more }
 inactive-css-not-grid-container-fix = Ceisiwch ychwanegu <strong>display:grid</strong> neu <strong>display:inline-grid</strong>. { learn-more }
