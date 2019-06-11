@@ -947,3 +947,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Obvestila strani">
+<!ENTITY crash_handler_notifications_channel "Poročevalec o sesutju programske opreme &brandShortName;">
