@@ -32,8 +32,15 @@ app-basics-name = Tên
 app-basics-version = Phiên bản
 app-basics-build-id = ID bản dựng
 app-basics-update-channel = Kênh cập nhật
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Cập nhật thư mục
+       *[other] Cập nhật thư mục
+    }
 app-basics-update-history = Lịch sử cập nhật
 app-basics-show-update-history = Hiển thị lịch sử cập nhật
+# Represents the path to the binary used to start the application.
+app-basics-binary = Ứng dụng nhị phân
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Thư mục hồ sơ
