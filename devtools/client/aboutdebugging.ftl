@@ -84,6 +84,8 @@ about-debugging-setup-title = 設定
 about-debugging-setup-intro = 設定要用哪種方式來從遠端對您的裝置除錯。
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = 於這個版本的 { -brand-shorter-name } 使用 <a>{ about-debugging-this-firefox-runtime-name }</a> 來對分頁、擴充套件與 Service Worker 除錯。
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = 於這個版本的 { -brand-shorter-name } 使用 <a>{ about-debugging-this-firefox-runtime-name }</a> 來對擴充套件與 Service Worker 除錯。
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = 連線到裝置
 # USB section of the Setup page

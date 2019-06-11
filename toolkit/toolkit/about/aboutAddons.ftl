@@ -359,3 +359,8 @@ recent-updates-heading = 最近的更新
 release-notes-loading = 載入中…
 release-notes-error = 抱歉，載入新鮮事時發生錯誤。
 addon-permissions-empty = 此擴充套件並未要求任何權限
+recommended-extensions-heading = 推薦的擴充套件
+recommended-themes-heading = 推薦的佈景主題
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = 突然有個靈感嗎？<a data-l10n-name="link">使用 Firefox Color 來打造自己的佈景主題。</a>
