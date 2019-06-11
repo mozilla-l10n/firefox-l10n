@@ -69,6 +69,12 @@
 <!ENTITY  crash_close_label "Mboty">
 <!ENTITY  crash_restart_label "&brandShortName; moñepyrũjey">
 
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; ombeti">
+<!ENTITY  crash_notification_message "Eikutu emomarandu hag̃ua &vendorShortName;-pe">
+<!ENTITY  crash_notification_negative_button_text "Hejarei">
+
 <!ENTITY url_bar_default_text2 "Ehai ápe kundaharape">
 
 <!-- Localization note: this text will be displayed in the Search Widget -->
@@ -939,3 +945,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Tenda rehegua marandu">
+<!ENTITY crash_handler_notifications_channel "Mba\&apos;éichapa oĩhína &brandShortName;">
