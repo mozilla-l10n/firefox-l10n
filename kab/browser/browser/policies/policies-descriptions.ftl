@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = Ad yeǧǧ ad srekdeḍ tistṛatijiyin anida zemren ad kecmen WebExtensions s chrome.storage.managed.
 policy-AppUpdateURL = Sbadu URL n uleqqem udmawan i usnas.
 policy-Authentication = Swel asesteb usliɣ i yesmal web i ten-yessefraken.
 policy-BlockAboutAddons = Sewḥel anekcum ɣer umsefrek n izegrar  (about:addons).
@@ -17,8 +18,10 @@ policy-BlockAboutConfig = Sewḥel anekcum ɣer usebter n about:config.
 policy-BlockAboutProfiles = Sewḥel anekcum ɣer usebter n about:profiles.
 policy-BlockAboutSupport = Sewḥel anekcum ɣer usebter n about:support.
 policy-Bookmarks = Rnu ticraḍ n isebtar deg ufeggag n tecraḍ, Umuɣ n tecraḍ n yisebtar, neɣ deg akaram yellan deg-sen.
+policy-CaptivePortal = Rmed neɣ gdel asefrek n uwwur yettwaṭṭfen.
 policy-CertificatesDescription = Rnu iselkinen neɣ seqdec iselkinen usliɣen.
 policy-Cookies = Sireg neɣ gdel asbadu n inagan n tuqqna i yisebtar.
+policy-DefaultDownloadDirectory = Ad yesbadu akaram n usider s wudem amezwer.
 policy-DisableAppUpdate = Sewḥel aleqqem n yiminig.
 policy-DisableBuiltinPDFViewer = Sens PDF.js, ameskan PDF usliɣ deg { -brand-short-name }.
 policy-DisableDeveloperTools = Sewḥel anekcum ɣer ifecka n tneflit.
@@ -43,6 +46,7 @@ policy-DisplayBookmarksToolbar = Deg umezwer sken-d afeggag n ifecka n ticraḍ.
 policy-DisplayMenuBar = Sken afeggag n wumuɣ s wudem amezwer.
 policy-DNSOverHTTPS = Swel DNS s HTTPS.
 policy-DontCheckDefaultBrowser = Sens asenqed amezwer i yiminig deg tnekra.
+policy-DownloadDirectory = Ad yesbadu daɣen ad iṣekkeṛ akaram n usider.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Rmed neɣ sens asewḥel n ugbur u sekker-it ma tebɣiḍ.
 # A “locked” extension can’t be disabled or removed by the user. This policy
