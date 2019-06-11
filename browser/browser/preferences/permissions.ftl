@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Wizigingen bewarje
     .accesskey = i
+permissions-autoplay-menu = Standert foar alle websites:
 permissions-searchbox =
     .placeholder = Websites trochsykje
+permissions-capabilities-autoplay-allow =
+    .label = Audio en fideo tastean
+permissions-capabilities-autoplay-block =
+    .label = Audio blokkearje
+permissions-capabilities-autoplay-blockall =
+    .label = Audio en fideo blokkearje
 permissions-capabilities-allow =
     .label = Tastean
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = Tastean
 permissions-capabilities-listitem-block =
     .value = Blokkearje
-permissions-capabilities-listitem-allow-first-party =
-    .value = Fan tredden blokkearje
 permissions-capabilities-listitem-allow-session =
     .value = Tastean foar sesje
 
@@ -58,10 +63,6 @@ permissions-invalid-uri-label = Folje in jildige kompjûternamme yn
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Utsûnderingen - Beskerming tsjin folgjen
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Jo hawwe Net folgje útskeakele op dizze websites.
 permissions-exceptions-content-blocking-window =
     .title = Utsûnderingen - Ynhâldsblokkearring
     .style = { permissions-window.style }
@@ -101,6 +102,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Utsûnderingen - Automatysk ôfspylje
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Jo kinne oanjaan hokker siden altyd of nea tastimming hawwe om automatysk media mei lûd ôf te spyljen. Typ it adres fan de website dy't jo beheare wolle en klik dernei op Blokkearje of Tastean.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Ynstellingen - Automatysk ôfspylje
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Jo kinne hjir de websites beheare dy't jo standertynstellingen foar automatysk ôfspyljen net folgje.
 
 ## Site Permissions - Notifications
 
