@@ -27,6 +27,14 @@ serviceworker-worker-debug = Avlusa
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = Starta
+# Text for the debug link displayed for an already started Service Worker, when we
+# are in multi e10s mode, which effectively disables this link.
+serviceworker-worker-debug-forbidden = Felsök
+    .title = Du kan endast felsöka Service Workers om multi e10s är inaktiverad
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start2 = Starta
+    .title = Du kan endast starta Service Workers om multi e10s är inaktiverad
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Uppdaterad <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
@@ -48,7 +56,7 @@ serviceworker-worker-status-stopped = Stoppad
 serviceworker-worker-status-registering = Registrering
 # Text displayed when no service workers are visible for the current page. Clicking on the
 # link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
-serviceworker-empty-intro = Du behöver registrera en Service Worker för att inspektera den här. <a>Lär dig mer</a> 
+serviceworker-empty-intro = Du behöver registrera en Service Worker för att inspektera den här. <a>Lär dig mer</a>
 # Text displayed when there are no Service Workers to display for the current page,
 # introducing hints to debug Service Worker issues.
 serviceworker-empty-suggestions = Om den nuvarande sidan ska ha en service worker, här är några saker du kan prova
