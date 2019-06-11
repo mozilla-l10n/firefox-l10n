@@ -10,6 +10,23 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-BlockAboutAddons = Bloker adgang til fanebladet Tilføjelser (about:addons).
+policy-BlockAboutConfig = Bloker adgang til about:config.
+policy-BlockAboutProfiles = Bloker adgang til about:profiles.
+policy-BlockAboutSupport = Bloker adgang til about:support.
+policy-CaptivePortal = Slå understøttelse af captive portal til eller fra.
+policy-CertificatesDescription = Tilføj certifikater eller brug indbyggede certifikater.
+policy-Cookies = Tillad eller nægt websteder at sætte cookies.
+policy-DefaultDownloadDirectory = Indstil standard-mappe for hentede filer.
+policy-DisableDeveloperTools = Bloker adgang til Udviklerværktøj.
+policy-DisableFeedbackCommands = Deaktiver kommandoer til at indsende feedback fra menuen Hjælp (Indsend feedback og Anmeld vildledende websted).
+policy-DisableForgetButton = Bloker adgang til knappen Glem.
+policy-DisableMasterPasswordCreation = En hovedadgangskode kan ikke oprettes, hvis sat til true.
+policy-DisableProfileImport = Deaktiver menu-kommandoen til at importere data fra et andet program.
+policy-DisableSecurityBypass = Deaktiver brugerens mulighed for at omgå bestemte sikkerhedsadvarsler.
+policy-DisableSystemAddonUpdate = Deaktiver { -brand-short-name }s mulighed for at installere og opdatere systemtilføjelser.
+policy-DisableTelemetry = Slå Telemetry fra.
+policy-DisplayMenuBar = Vis menulinjen som standard.
 policy-DNSOverHTTPS = Opsæt DNS via HTTPS.
 policy-DontCheckDefaultClient = Deaktiver check om standard-klient ved opstart.
 policy-DownloadDirectory = Indstil og lås valg af mappe til filhentninger.
@@ -29,3 +46,13 @@ policy-OverridePostUpdatePage = Erstat siden Nyheder, der vises efter opdatering
 policy-Preferences = Indstil og lås værdien for en undergruppe af indstillingerne.
 policy-PromptForDownloadLocation = Spørg hvor hentede filer skal gemmes.
 policy-Proxy = Opsæt proxy-indstillinger.
+policy-RequestedLocales = Vælg rækkefølgen af sprog, der skal anvendes i programmet.
+policy-SanitizeOnShutdown2 = Ryd browsing-data ved lukning.
+policy-SearchEngines = Opsæt indstillinger for søgetjenester. Denne politik er kun tilgængelig for Extended Support Release (ESR).
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Installer PKCS #11-moduler.
+policy-SSLVersionMax = Angiv den højeste SSL-version.
+policy-SSLVersionMin = Angiv den laveste SSL-version.
+policy-SupportMenu = Føj et tilpasset menupunkt til menuen Hjælp.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Bloker websteder fra at blive besøgt. Se dokumentationen for detaljer om formatet.
