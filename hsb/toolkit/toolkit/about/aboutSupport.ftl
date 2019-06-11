@@ -32,6 +32,11 @@ app-basics-name = Mjeno
 app-basics-version = Wersija
 app-basics-build-id = Wersijowy ID
 app-basics-update-channel = Aktualizowanski kanal
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Aktualizowanski zapis
+       *[other] Aktualizowanski rjadowak
+    }
 app-basics-update-history = Aktualizaciska historija
 app-basics-show-update-history = Aktualizacisku historiju pokazać
 # Represents the path to the binary used to start the application.
