@@ -10,6 +10,9 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = Vælg hvilke politikker WebExtensions skal have adgang til via chrome.storage.managed.
+policy-AppUpdateURL = Indtast brugerdefineret opdaterings-URL.
+policy-Authentication = Konfigurer integreret godkendelse for websteder, der understøtter dette.
 policy-BlockAboutAddons = Bloker adgang til fanebladet Tilføjelser (about:addons).
 policy-BlockAboutConfig = Bloker adgang til about:config.
 policy-BlockAboutProfiles = Bloker adgang til about:profiles.
@@ -18,11 +21,13 @@ policy-CaptivePortal = Slå understøttelse af captive portal til eller fra.
 policy-CertificatesDescription = Tilføj certifikater eller brug indbyggede certifikater.
 policy-Cookies = Tillad eller nægt websteder at sætte cookies.
 policy-DefaultDownloadDirectory = Indstil standard-mappe for hentede filer.
+policy-DisableAppUpdate = Tillad ikke opdateringer af { -brand-short-name }.
 policy-DisableDeveloperTools = Bloker adgang til Udviklerværktøj.
 policy-DisableFeedbackCommands = Deaktiver kommandoer til at indsende feedback fra menuen Hjælp (Indsend feedback og Anmeld vildledende websted).
 policy-DisableForgetButton = Bloker adgang til knappen Glem.
 policy-DisableMasterPasswordCreation = En hovedadgangskode kan ikke oprettes, hvis sat til true.
 policy-DisableProfileImport = Deaktiver menu-kommandoen til at importere data fra et andet program.
+policy-DisableSafeMode = Deaktiver funktionen til at genstarte i fejlsikret tilstand. NB: Deaktivering af Shift-tasten for at starte i fejlsikret tilstand kan i Windows kun ske via Gruppepolitik.
 policy-DisableSecurityBypass = Deaktiver brugerens mulighed for at omgå bestemte sikkerhedsadvarsler.
 policy-DisableSystemAddonUpdate = Deaktiver { -brand-short-name }s mulighed for at installere og opdatere systemtilføjelser.
 policy-DisableTelemetry = Slå Telemetry fra.
