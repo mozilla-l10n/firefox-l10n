@@ -56,7 +56,7 @@
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 <!ENTITY  tab_offline_version "กำลังแสดงรุ่นออฟไลน์">
 
-<!ENTITY  crash_reporter_title "ตัวรายงานข้อขัดข้อง &brandShortName;">
+<!ENTITY  crash_reporter_title "ตัวรายงานข้อขัดข้องของ &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; เกิดปัญหาและขัดข้อง แท็บของคุณควรแสดงรายการในหน้าเริ่มต้นของ &brandShortName; เมื่อคุณเริ่มการทำงานใหม่">
 <!ENTITY  crash_send_report_message3 "แจ้ง &vendorShortName; เกี่ยวกับข้อขัดข้องนี้เพื่อให้พวกเขาสามารถแก้ไขปัญหาได้">
 <!ENTITY  crash_include_url2 "รวมที่อยู่ของหน้าที่ฉันเข้าชมอยู่">
@@ -68,6 +68,12 @@
 <!ENTITY  sending_crash_report "กำลังส่งรายงานข้อขัดข้อง\u2026">
 <!ENTITY  crash_close_label "ปิด">
 <!ENTITY  crash_restart_label "เริ่มการทำงาน &brandShortName; ใหม่">
+
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; ได้ขัดข้อง">
+<!ENTITY  crash_notification_message "แตะเพื่อรายงานไปยัง &vendorShortName;">
+<!ENTITY  crash_notification_negative_button_text "เพิกเฉย">
 
 <!ENTITY url_bar_default_text2 "ค้นหาหรือป้อนที่อยู่">
 
@@ -939,3 +945,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "การแจ้งเตือนไซต์">
+<!ENTITY crash_handler_notifications_channel "ตัวรายงานข้อขัดข้องของ &brandShortName;">
