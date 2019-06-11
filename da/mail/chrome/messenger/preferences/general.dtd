@@ -38,3 +38,7 @@
 <!ENTITY browse.accesskey                 "e">
 
 <!ENTITY defaultSearchEngine.label        "Standardsøgetjeneste">
+<!ENTITY addSearchEngine.label            "Tilføj fra fil">
+<!ENTITY addSearchEngine.accesskey        "F">
+<!ENTITY removeSearchEngine.label         "Fjern">
+<!ENTITY removeSearchEngine.accesskey     "r">
