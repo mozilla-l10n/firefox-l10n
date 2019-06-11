@@ -69,6 +69,11 @@
 <!ENTITY  crash_close_label "Stäng">
 <!ENTITY  crash_restart_label "Starta om &brandShortName;">
 
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; kraschade">
+<!ENTITY  crash_notification_negative_button_text "Ignorera">
+
 <!ENTITY url_bar_default_text2 "Sök eller skriv in adressen">
 
 <!-- Localization note: this text will be displayed in the Search Widget -->
