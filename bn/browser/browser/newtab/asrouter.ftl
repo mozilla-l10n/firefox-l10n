@@ -44,6 +44,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } ব্যবহারকারী
        *[other] { $total } ব্যবহারকারী
     }
+cfr-doorhanger-pintab-description = আপনার সর্বাধিক ব্যবহৃত সাইটগুলো সহজে পান। ট্যাবে সাইট খোলা রাখুন (এমন কি রিস্টার্ট দেওয়ার সময়েও)।
 
 ## These messages are steps on how to use the feature and are shown together.
 
@@ -55,6 +56,8 @@ cfr-doorhanger-pintab-animation-resume = পুনরায় শুরু
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-header = সর্বত্র আপনার বুকমার্ক সিঙ্ক করুন।
+cfr-doorhanger-bookmark-fxa-body = দারুন! আপনার মোবাইল ডিভাইসে বুকমার্ক করা বাকি রাখবেন না। { -fxaccount-brand-name } দিয়ে শুরু করুন।
 cfr-doorhanger-bookmark-fxa-link-text = এখনই বুকমার্ক সিঙ্ক করুন...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = বন্ধ বোতাম
