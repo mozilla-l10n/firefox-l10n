@@ -37,6 +37,8 @@ app-basics-build-id = Build-ID
 app-basics-update-channel = Fernijingskanaal
 app-basics-update-history = Fernijingsskiednis
 app-basics-show-update-history = Fernijingsskiednis toane
+# Represents the path to the binary used to start the application.
+app-basics-binary = Binêr tapassingsbestân
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Profylmap
