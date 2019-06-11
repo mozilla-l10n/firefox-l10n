@@ -69,6 +69,11 @@
 <!ENTITY  crash_close_label "Zapri">
 <!ENTITY  crash_restart_label "Ponovno zaženi &brandShortName;">
 
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; se je sesul">
+<!ENTITY  crash_notification_negative_button_text "Prezri">
+
 <!ENTITY url_bar_default_text2 "Iskanje ali naslov strani">
 
 <!-- Localization note: this text will be displayed in the Search Widget -->
