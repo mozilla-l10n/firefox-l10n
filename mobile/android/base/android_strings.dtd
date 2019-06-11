@@ -534,3 +534,4 @@
 <!ENTITY updater_notification_channel "Aggiornamenti app">
 <!ENTITY synced_tabs_notification_channel "Schede sincronizzate">
 <!ENTITY site_notifications_channel "Notifiche siti">
+<!ENTITY crash_handler_notifications_channel "Crash Reporter &brandShortName;">
