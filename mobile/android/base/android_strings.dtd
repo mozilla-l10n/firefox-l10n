@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "Tornatz ont èretz.">
 <!ENTITY firstrun_sync_subtext2 "Utilizatz Sync per retrobar de marcapaginas, senhals, e autras donadas que gardatz dins &brandShortName; sus totes vòstres periferics.">
 <!ENTITY newfirstrun_sync_subtext "Sincronizatz çò qu’enregistratz dins vòstre periferic mobil amb Firefox per ordenador, d’un biais privat e segur.">
+<!ENTITY updatednewfirstrun_sync_subtext "Connectatz-vos a vòstre compte per aprofechar al maximum de &brandShortName;">
 <!ENTITY firstrun_signin_message "Connectatz-vos e començatz">
 <!ENTITY firstrun_signin_button "Se connectar a Sync">
 <!ENTITY newfirstrun_signin_button "Activar la sincronizacion">
+<!ENTITY updatednewfirstrun_signin_button "Se connectar a&brandShortName;">
 <!ENTITY  onboard_start_button_browser "Començar de navegar">
 <!ENTITY firstrun_button_notnow "Non, pas ara">
 <!ENTITY firstrun_button_next "Seguent">
@@ -66,6 +68,12 @@
 <!ENTITY  sending_crash_report "Mandadís del rapòrt de plantatge\u2026">
 <!ENTITY  crash_close_label "Tampar">
 <!ENTITY  crash_restart_label "Reaviar &brandShortName;">
+
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; a agut un problèma">
+<!ENTITY  crash_notification_message "Tocatz per o senhalar a &vendorShortName;">
+<!ENTITY  crash_notification_negative_button_text "Ignorar">
 
 <!ENTITY url_bar_default_text2 "Picar un tèrme de recercar o una adreça">
 
@@ -108,6 +116,10 @@
 <!ENTITY bookmark_folder_updated "Dorsièr mes a jorn">
 <!ENTITY bookmark_parent_folder "Dossièr parent">
 <!ENTITY bookmark_add_folder "Apondre un dossièr novèl">
+
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(sens títol)">
 
 <!ENTITY reader_saved_offline "Salvat fòra linha">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -413,8 +425,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Telecargaments">
 <!ENTITY pref_private_data_syncedTabs "Onglets sincronizats">
 
-<!ENTITY pref_default_browser "Definir coma navegador per defaut">
-
 <!ENTITY pref_default_browser2 "Definir &brandShortName; coma navegador per defaut">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -592,6 +602,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "Mot clau">
 <!ENTITY bookmark_select_folder "Seleccionar un dorsièr">
 
+<!ENTITY bookmark_edit_undo "Anullar">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "Paramètres de site">
@@ -679,6 +691,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Causir o enregistrar un son">
 <!ENTITY filepicker_image_title "Causir un imatge o far una còpia d’ecran">
 <!ENTITY filepicker_video_title "Causir o enregistrar una vidèo">
+
+<!ENTITY filepicker_permission_denied "Las autorizacions requesidas son pas acordadas, retorn cap al selector de fichièr del sistèma.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Sètz connectat a">
@@ -921,6 +935,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Pausa">
 <!ENTITY pip_pause_button_description "Pausar">
 
+<!ENTITY pref_notification_settings_link "Gerir los paramètres de notificacions">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Navegador">
 <!ENTITY mls_notification_channel "Servici de localizacion &vendorShortName;">
@@ -933,3 +948,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Notificacions dels sites">
+<!ENTITY crash_handler_notifications_channel "Raportaire de bug de &brandShortName;">
