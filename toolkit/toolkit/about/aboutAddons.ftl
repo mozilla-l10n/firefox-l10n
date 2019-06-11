@@ -263,6 +263,11 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro = Las extensiones y los temas son como apps para tu navegador, y te permiten proteger contraseñas, bajar videos, buscar ofertas, bloquear publicidad molesta, cambiar el aspecto de tu navegador y mucho más. Estos pequeños programas de software son usualmente desarrollados por terceros. Aquí hay una selección que { -brand-product-name } <a data-l10n-name="learn-more-trigger">recomienda</a> para una seguridad, rendimiento y funcionalidad sin igual.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations = Algunas de estas recomendaciones son personalizadas. Están basadas en qué extensiones has instalado, preferencias del perfil y estadísticas de uso.
 discopane-notice-learn-more = Aprender más
 privacy-policy = Política de privacidad
 # Refers to the author of an add-on, shown below the name of the add-on.

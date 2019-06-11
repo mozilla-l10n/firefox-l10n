@@ -60,7 +60,10 @@ abuse-report-deceptive-example = Ejemplo: Descripción o imágenes engañosas
 abuse-report-broken-reason-extension = No funciona, provoca errores en sitios o enlentece { -brand-product-name }
 abuse-report-broken-reason-theme = No funciona o corrompe la vista del navegador
 abuse-report-broken-example = Ejemplo: Las funciones son lentas, difíciles de usar o no funciona; partes de los sitios web no cargan o tienen un aspecto inusual
+abuse-report-broken-suggestions-extension = Parece que has identificado un bug. Junto con enviar un reporte aquí, la mejor forma de que un problema de funcionalidad sea resuelto es contactar al desarrollador de la extensión. <a data-l10n-name="support-link">Visita el sitio web de la extensión</a> para conseguir la información del desarrollador.
+abuse-report-broken-suggestions-theme = Parece que has identificado un bug. Junto con enviar un reporte aquí, la mejor forma de que un problema de funcionalidad sea resuelto es contactar al desarrollador del tema. <a data-l10n-name="support-link">Visita el sitio web del tema</a> para conseguir la información del desarrollador.
 abuse-report-policy-reason = Contenido de odio, violencia o ilegal
+abuse-report-policy-suggestions = Nota: Problemas de derechos de autor y uso de marca deben ser reportados en un proceso separado. <a data-l10n-name="report-infringement-link">Usa estas instrucciones</a> para reportar el problema.
 abuse-report-unwanted-reason = Extensión no deseada y que no puedes desinstalar
 abuse-report-unwanted-example = Ejemplo: Una aplicación instalada sin mi permiso
 abuse-report-other-reason = Otra cosa
