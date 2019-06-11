@@ -84,6 +84,7 @@ onboarding-mobile-phone-button = Sali-d iminig aziraz
 onboarding-send-tabs-button = Bdu aseqdec n Send Tabs
 onboarding-pocket-anywhere-button = Ɛreḍ { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Awi awalen uffiren-ik anida tebɣiḍ
+onboarding-lockwise-passwords-button2 = Awi asnas
 onboarding-facebook-container-button = Rnu asiɣzef
 
 ## Message strings belonging to the Return to AMO flow

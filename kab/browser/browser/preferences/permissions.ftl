@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Nadi asmel web
+permissions-capabilities-autoplay-block =
+    .label = Sewḥel imesli
+permissions-capabilities-autoplay-blockall =
+    .label = Sewḥel imesli d uvidyu
 permissions-capabilities-allow =
     .label = Sireg
 permissions-capabilities-block =
@@ -46,8 +50,6 @@ permissions-capabilities-listitem-allow =
     .value = Sireg
 permissions-capabilities-listitem-block =
     .value = Sewḥel
-permissions-capabilities-listitem-allow-first-party =
-    .value = Taɣult tagejdant kan
 permissions-capabilities-listitem-allow-session =
     .value = Sireg i tɣimit
 
@@ -97,6 +99,9 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Tisuraf - Taɣuri tawurmant
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Tzemreḍ ad d-tmuddeḍ ismal web yellan yal tikkelt neɣ werǧin llan seqdacen taɣuri tawurmant n wallalen n teγwalt s imesli.  Mudd-d tansa n usmel u sit ɣef Sewḥel neɣ Sireg.
+
+## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
