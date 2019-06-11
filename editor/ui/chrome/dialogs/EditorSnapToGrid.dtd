@@ -4,9 +4,9 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Snap to Grid">
+<!ENTITY windowTitle.label "Snap para la cuadrícula">
 
-<!ENTITY enableSnapToGrid.label "enable Snap to Grid">
+<!ENTITY enableSnapToGrid.label "habilitar Snap para la cuadrícula">
 <!ENTITY enableSnapToGrid.accessKey "e">
 
 <!ENTITY sizeEditField.label "Size:">
