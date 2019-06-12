@@ -12,7 +12,7 @@ update-pref-write-failure-title = Pisanski zmylk
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Nastajenje njeda so składować. Njebě móžno do dataje pisać: { $path }
-update-setting-write-failure-title = Zmyůl při składowanju aktualizowanskich nastajenjow
+update-setting-write-failure-title = Zmylk při składowanju aktualizowanskich nastajenjow
 # Variables:
 #   $path (String) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
