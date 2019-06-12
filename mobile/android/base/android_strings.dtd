@@ -69,6 +69,12 @@
 <!ENTITY  crash_close_label "Закрыть">
 <!ENTITY  crash_restart_label "Перезапустить &brandShortName;">
 
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "С &brandShortName; произошел сбой">
+<!ENTITY  crash_notification_message "Нажмите, чтобы сообщить в &vendorShortName;">
+<!ENTITY  crash_notification_negative_button_text "Игнорировать">
+
 <!ENTITY url_bar_default_text2 "Введите запрос или адрес">
 
 <!-- Localization note: this text will be displayed in the Search Widget -->
@@ -939,3 +945,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Уведомления сайтов">
+<!ENTITY crash_handler_notifications_channel "Сообщения о падениях &brandShortName;">
