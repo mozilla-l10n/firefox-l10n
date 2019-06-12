@@ -10,11 +10,6 @@
 <!ENTITY toggleToolboxF12.keycode          "VK_F12">
 <!ENTITY toggleToolboxF12.keytext          "F12">
 
-<!-- LOCALIZATION NOTE (browserToolboxStatusMessage): This is the label
-  -  shown next to status details when the Browser Toolbox fails to connect or
-  -  appears to be taking a while to do so. -->
-<!ENTITY browserToolboxStatusMessage "Κατάσταση σύνδεσης εργαλειοθήκης προγράμματος περιήγησης:">
-
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 <!ENTITY options.context.advancedSettings "Ρυθμίσεις για προχωρημένους">
@@ -140,6 +135,10 @@
    - label for the checkbox that toggles timestamps in the Web Console -->
 <!ENTITY options.timestampMessages.label      "Ενεργοποίηση χρονοσημάνσεων">
 <!ENTITY options.timestampMessages.tooltip    "Αν ενεργοποιήσετε αυτή την επιλογή, οι εντολές και η έξοδος στην κονσόλα ιστού θα εμφανίσουν μια χρονική σήμανση">
+
+<!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
+   - label for the checkbox that toggles the warningGroups feature in the Web Console -->
+<!ENTITY options.warningGroups.label      "Ομαδοποίηση παρόμοιων μηνυμάτων">
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->

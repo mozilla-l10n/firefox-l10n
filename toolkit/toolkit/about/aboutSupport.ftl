@@ -35,6 +35,11 @@ app-basics-name = Όνομα
 app-basics-version = Έκδοση
 app-basics-build-id = ID έκδοσης
 app-basics-update-channel = Κανάλι ενημερώσεων
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Ενημέρωση καταλόγου
+       *[other] Ενημέρωση φακέλου
+    }
 app-basics-update-history = Ιστορικό ενημερώσεων
 app-basics-show-update-history = Προβολή ιστορικού ενημερώσεων
 app-basics-profile-dir =
