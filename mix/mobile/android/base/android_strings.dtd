@@ -10,6 +10,7 @@
 <!ENTITY firstrun_panel_title_privacy "Ña meu">
 <!ENTITY firstrun_privacy_message "Nduku tana ko\&apos;ona nche\&apos;eyo">
 <!ENTITY firstrun_privacy_subtext "Ndunku ña seé cha ma nchikavai ña ndukuku ta ntsonu sau.">
+<!ENTITY newfirstrun_privacy_subtext "Ña ndukuku tsasia rastreadores ya ncheu tutú.">
 <!ENTITY firstrun_panel_title_customize "Ntasai nixi kunu">
 <!ENTITY firstrun_customize_message "Sa\&apos;a &brandShortName; ña\&apos;a meu.">
 <!ENTITY firstrun_customize_subtext "Sama &brandShortName; tsi complemento. Kasi publicidad,chika funcion a katso tsa\&apos;a iin tema ña tta\&apos;an inu.">
@@ -65,6 +66,10 @@
 <!ENTITY  crash_close_label "Kasi">
 <!ENTITY  crash_restart_label "Ndutsaa &brandShortName;">
 
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_negative_button_text "Ma sa kuentaku">
+
 <!ENTITY url_bar_default_text2 "Nda tuku a chika direccion">
 
 <!-- Localization note: this text will be displayed in the Search Widget -->
@@ -106,6 +111,9 @@
 <!ENTITY bookmark_folder_updated "Ndutsaa tutu">
 <!ENTITY bookmark_parent_folder "Nu chikavau tutu">
 <!ENTITY bookmark_add_folder "Chikaa tutu tsaa">
+
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
 
 <!ENTITY reader_saved_offline "Inkàa vaii ">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -588,6 +596,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "Palabra clave">
 <!ENTITY bookmark_select_folder "Katsi tutu">
 
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "Nda sama sitio">
@@ -675,6 +684,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Katsi a chika vàa ntusu">
 <!ENTITY filepicker_image_title "Katsi a ntatavàa">
 <!ENTITY filepicker_video_title "Katsi a ntatavàa video">
+
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Ni kitaun tsi">
