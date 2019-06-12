@@ -359,3 +359,6 @@ release-notes-error = 抱歉，载入发行说明时出错。
 addon-permissions-empty = 此扩展未要求任何权限
 recommended-extensions-heading = 推荐扩展
 recommended-themes-heading = 推荐主题
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = 有好的创意？<a data-l10n-name="link">使用 Firefox Color 打造自己的主题。</a>

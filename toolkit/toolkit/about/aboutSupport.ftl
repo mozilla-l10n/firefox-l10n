@@ -35,8 +35,15 @@ app-basics-name = 名称
 app-basics-version = 版本
 app-basics-build-id = 版本 ID
 app-basics-update-channel = 更新通道
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] 更新目录
+       *[other] 更新文件夹
+    }
 app-basics-update-history = 更新历史
 app-basics-show-update-history = 显示更新历史
+# Represents the path to the binary used to start the application.
+app-basics-binary = 应用程序二进制文件
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] 配置文件夹
