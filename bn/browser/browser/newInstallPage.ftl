@@ -15,6 +15,7 @@ changed-desc-dedicated = Firefox (Firefox, Firefox ESR, Firefox Beta, Firefox De
 lost = <b>আপনি কোন ব্যক্তিগত তথ্য বা কাস্টমাইজেশন হারিয়ে যাবে না।</b> এই কম্পিউটারে Firefox এ আপনার তথ্য সংরক্ষিত রয়েছে, Firefox এর অন্য ইন্সটলেও তা থাকবে।
 options-title = আমার অপশনগুলো কি কি?
 options-do-nothing = যদি আপনি কিছু না করেন, তবে { -brand-short-name } তে আপনার প্রোফাইল ডাটা Firefox এর অন্যান্য ইনস্টলেশনের প্রোফাইল ডাটা থেকে ভিন্ন হবে।
+options-use-sync = Firefox এর সব ইনস্টলেশনে আপনার প্রোফাইল ডাটা একই রকম রাখতে চাইলে, আপনি তাদের সিঙ্ক রাখতে { -fxaccount-brand-name } ব্যবহার করতে পারেন।
 resources = রিসোর্স:
 support-link = প্রোফাইল ম্যানেজার ব্যবহার করে - সাপোর্ট নিবন্ধ
 sync-header = { -fxaccount-brand-name } সাইন ইন অথবা তৈরী করুন
@@ -23,4 +24,5 @@ sync-input =
     .placeholder = ইমেইল
 sync-button = চালিয়ে যান
 sync-terms = এগিয়ে যাওয়ার মাধ্যমে, আপনি <a data-l10n-name="terms"> পরিষেবার শর্তাবলি </a> এবং <a data-l10n-name="privacy"> গোপনীয়তা বিজ্ঞপ্তি </a> এর সাথে সম্মত হন।
+sync-first = { -sync-brand-name } প্রথমবার ব্যবহার করছেন? আপনার তথ্য সিঙ্ক করার জন্য আপনাকে Firefox এর প্রতিটি ইনস্টলেশনে সাইন ইন করতে হবে।
 sync-learn = আরও জানুন
