@@ -84,6 +84,8 @@ about-debugging-setup-title = Zarědowanje
 about-debugging-setup-intro = Konfigurěrujśo zwiskowu metodu, z kótarejuž cośo swój rěd znazdala za zmólkami pśespytowaś.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Wužywajśo <a>{ about-debugging-this-firefox-runtime-name }</a>, aby rejtarki, rozšyrjenja a service workers toś teje wersije { -brand-shorter-name } za zmólkami pśespytował.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Wužywajśo <a>{ about-debugging-this-firefox-runtime-name }</a>, aby rozšyrjenja a service workers toś teje wersije { -brand-shorter-name } za zmólkami pśepytował.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Z rědom zwězaś
 # USB section of the Setup page
