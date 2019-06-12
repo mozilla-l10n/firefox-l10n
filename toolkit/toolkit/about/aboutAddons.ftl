@@ -365,3 +365,8 @@ recent-updates-heading = Nejnowše aktualizacije
 release-notes-loading = Zacytujo se…
 release-notes-error = Pśi zacytowanju wersijowych informacijow jo bóžko zmólka nastała.
 addon-permissions-empty = Toś to rozšyrjenje se pšawa njepomina
+recommended-extensions-heading = Dopórucone rozšyrjenja
+recommended-themes-heading = Dopórucone drastwy
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Cujośo se kreatiwny? <a data-l10n-name="link">Napórajśo swójsku drastwu z Firefox Color.</a>

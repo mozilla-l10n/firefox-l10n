@@ -32,8 +32,15 @@ app-basics-name = Mě
 app-basics-version = Wersija
 app-basics-build-id = Wersijowy ID
 app-basics-update-channel = Aktualizěrowański kanal
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Aktualizěrowański zapis
+       *[other] Aktualizěrowański zarědnik
+    }
 app-basics-update-history = Aktualizaciska historija
 app-basics-show-update-history = Aktualizacisku historiju pokazaś
+# Represents the path to the binary used to start the application.
+app-basics-binary = Nałožeńska binarna dataja
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Profilowy zarědnik
