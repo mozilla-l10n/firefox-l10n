@@ -624,7 +624,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY button_yes "Sí">
 <!ENTITY button_no "No">
 <!ENTITY button_clear_data "Limpiar datos">
-<!ENTITY button_set "Establecer">
+<!ENTITY button_set "Aceptar">
 <!ENTITY button_clear "Limpiar">
 <!ENTITY button_copy "Copiar">
 
