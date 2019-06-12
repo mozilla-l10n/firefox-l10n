@@ -35,6 +35,11 @@ app-basics-name = Nume
 app-basics-version = Versiune
 app-basics-build-id = ID-ul versiunii compilate
 app-basics-update-channel = Canal de actualizare
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Actualizează directorul
+       *[other] Actualizează dosarul
+    }
 app-basics-update-history = Istoricul actualizărilor
 app-basics-show-update-history = Afișează istoricul actualizărilor
 # Represents the path to the binary used to start the application.
