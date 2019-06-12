@@ -123,9 +123,6 @@ about-debugging-runtime-other-workers =
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = প্রক্রিয়া
-# Label of the button opening the performance profiler panel in runtime pages for remote
-# runtimes.
-about-debugging-runtime-profile-button = প্রোফাইল রানটাইম
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -139,8 +136,6 @@ about-debugging-connection-prompt-enable-button = দ্রুত সংযো�
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = দ্রুত সংযোগ নিষ্ক্রিয় করুন
-# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
-about-debugging-profiler-dialog-title = কার্যকারিতা প্রোফাইলার
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
@@ -164,6 +159,13 @@ about-debugging-tmp-extension-reload-button = পুনরায় লোড
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = অপসারণ
+# Message displayed in the file picker that opens to select a temporary extension to load
+# (triggered by the button using "about-debugging-tmp-extension-install-button")
+# manifest.json .xpi and .zip should not be localized.
+# Note: this message is only displayed in Windows and Linux platforms.
+about-debugging-tmp-extension-install-message = Manifest.json ফাইল অথবা .xpi/.zip archive নির্বাচন করুন
+# This string is displayed as a message about the add-on having a temporaryID.
+about-debugging-tmp-extension-temporary-id = এই ওয়েব ওয়েবএক্সটেনশনের একটি অস্থায়ী আইডি রয়েছে। <a>আরও জানুন</a>
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
