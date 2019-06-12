@@ -69,6 +69,12 @@
 <!ENTITY  crash_close_label "关闭">
 <!ENTITY  crash_restart_label "重开 &brandShortName;">
 
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; 崩溃了">
+<!ENTITY  crash_notification_message "点此反馈给 &vendorShortName;">
+<!ENTITY  crash_notification_negative_button_text "忽略">
+
 <!ENTITY url_bar_default_text2 "搜索或输入网址">
 
 <!-- Localization note: this text will be displayed in the Search Widget -->
@@ -939,3 +945,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "网站通知">
+<!ENTITY crash_handler_notifications_channel "&brandShortName; 崩溃报告器">
