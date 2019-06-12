@@ -71,3 +71,5 @@ remove-all-shown =
 remove-all-passwords-prompt = Ertu viss um að þú viljir eyða öllum lykilorðum?
 remove-all-passwords-title = Fjarlægja öll lykilorð
 no-master-password-prompt = Ertu viss um að viljir sýna lykilorðin þín?
+auto-fill-logins-and-passwords =
+    .label = Sjálfvirk útfylling fyrir innskráningar og lykilorð

@@ -228,6 +228,8 @@ uses-tiling = Notar flísar
 content-uses-tiling = Notar flísar (innihald)
 off-main-thread-paint-enabled = Litun fyrir utan aðalþráð virkt
 off-main-thread-paint-worker-count = Fjöldi vinnsluþráða fyrir litun fyrir utan aðalþráð
+low-end-machine = Fann tæki sem gengur minna
+target-frame-rate = Markhraði ramma
 audio-backend = Hljóðkerfi
 max-audio-channels = Hámarksfjöldi rása
 channel-layout = Preferred Channel Layout
@@ -248,6 +250,7 @@ sandbox-proc-type-media-plugin = miðils tengiforrit
 sandbox-proc-type-data-decoder = gagnaafkóðari
 launcher-process-status-0 = Virkt
 launcher-process-status-1 = Óvirkt vegna óhapps
+launcher-process-status-2 = Gert óvirkt með valdi
 launcher-process-status-unknown = Óþekkt staða
 # Variables
 # $remoteWindows (integer) - Number of remote windows

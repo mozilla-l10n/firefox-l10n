@@ -5,13 +5,13 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } notar ógilt öryggisskilríki.
-cert-error-mitm-intro = Vefsíður staðfesta auðkenni sitt með vottorðum, sem eru gefin út af vottuðu yfirvaldi.
-cert-error-mitm-mozilla = { -brand-short-name } er stutt af Mozilla, samtökum sem ekki eru rekin í hagnaðarskyni, sem heldur úti alveg opinni CA-verslun. CA-verslunin aðstoðar við að tryggja að útgefendur vottorða viðhafi sem bestar venjur við að gæta öryggis notenda.
-cert-error-mitm-connection = { -brand-short-name } notar CA-verslun Mozilla til þess að staðfesta öryggi tengingar, frekar en vottorð sem til staðar eru í stýrikerfi notanda. Þannig að, ef vírusvarnarforrit eða netkerfi lokar tengingu með öryggisvottorði frá CA sem er ekki í CA-verslun Mozilla, þá þykir tengingin óörugg.
+cert-error-mitm-intro = Vefsíður staðfesta auðkenni sitt með skilríkjum, sem eru gefin út af vottunarstöðvum (CA).
+cert-error-mitm-mozilla = { -brand-short-name } er stutt af Mozilla, samtökum sem ekki eru rekin í hagnaðarskyni, sem heldur úti alveg opinni CA-verslun. CA-verslunin aðstoðar við að tryggja að útgefendur skilríkja viðhafi sem bestar venjur við að gæta öryggis notenda.
+cert-error-mitm-connection = { -brand-short-name } notar CA-verslun Mozilla til þess að staðfesta öryggi tengingar, frekar en skilríki sem til staðar eru í stýrikerfi notanda. Þannig að, ef vírusvarnarforrit eða netkerfi lokar tengingu með öryggisskilríki frá CA sem er ekki í CA-verslun Mozilla, þá þykir tengingin óörugg.
 cert-error-trust-unknown-issuer-intro = Einhver kann að vera að herma eftir síðunni og ekki ætti að halda áfram.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-trust-unknown-issuer = Vefsíður auðkenna sig með auðkenningarvottorðum. { -brand-short-name } treystir ekki { $hostname } því útgefandi þess vottorðs er óþekktur, vottorðið er sjálfundirrtað, eða að vefþjónninn er ekki að senda millivottorðin.
+cert-error-trust-unknown-issuer = Vefsíður auðkenna sig með auðkenningarskilríkjum. { -brand-short-name } treystir ekki { $hostname } því útgefandi þess skilríkis er óþekktur, skilríkið er sjálfundirritað, eða að vefþjónninn er ekki að senda milliskilríkin.
 cert-error-trust-cert-invalid = Þessu skilríki er ekki treyst því það var útgefið af ógildu CA skilríki.
 cert-error-trust-untrusted-issuer = Þessu skilríki er ekki treyst því útgefandi skilríkis er ekki treystandi.
 cert-error-trust-signature-algorithm-disabled = Þessu skilríki er ekki treyst vegna þess að það var undirritað með undirskriftar algrími sem er ekki lengur virkt vegna þess að algrímið er ekki öruggt.
