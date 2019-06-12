@@ -69,6 +69,12 @@
 <!ENTITY  crash_close_label "Zacyniś">
 <!ENTITY  crash_restart_label "&brandShortName; znowego startowaś">
 
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; jo wótwalił">
+<!ENTITY  crash_notification_message "Pótusniśo, aby &vendorShortName; informěrował">
+<!ENTITY  crash_notification_negative_button_text "Ignorěrowaś">
+
 <!ENTITY url_bar_default_text2 "Adresu pytaś abo zapódaś">
 
 <!-- Localization note: this text will be displayed in the Search Widget -->
@@ -110,6 +116,10 @@
 <!ENTITY bookmark_folder_updated "Zarědnik jo aktualizěrowany">
 <!ENTITY bookmark_parent_folder "Nadrědowany zarědnik">
 <!ENTITY bookmark_add_folder "Nowy zarědnik pśidaś">
+
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(žeden titel)">
 
 <!ENTITY reader_saved_offline "Offline skłaźony">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -592,6 +602,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "Klucowe słowo">
 <!ENTITY bookmark_select_folder "Zarědnik wubraś">
 
+<!ENTITY bookmark_edit_undo "Anulěrowaś">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "Sedłowe nastajenja">
@@ -933,3 +945,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Sedłowe powěźeńki">
+<!ENTITY crash_handler_notifications_channel "&brandShortName; - rozpšawjak wowalenjow">
