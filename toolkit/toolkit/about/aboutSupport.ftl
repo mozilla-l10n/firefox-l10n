@@ -37,8 +37,8 @@ app-basics-build-id = Build-ID
 app-basics-update-channel = Updatekanaal
 app-basics-update-dir =
     { PLATFORM() ->
-        [linux] Map updaten
-       *[other] Map updaten
+        [linux] Map bijwerken
+       *[other] Map bijwerken
     }
 app-basics-update-history = Updategeschiedenis
 app-basics-show-update-history = Updategeschiedenis tonen
