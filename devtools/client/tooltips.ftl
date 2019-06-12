@@ -13,22 +13,35 @@ learn-more = <span data-l10n-name="link">Μάθετε περισσότερα</sp
 ## Variables:
 ##   $property (string) - A CSS property name e.g. "color".
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 inactive-css-not-grid-or-flex-container = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν είναι περιέκτης flex ούτε περιέκτης πλέγματος.
+inactive-css-not-grid-or-flex-container-or-multicol-container = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν είναι περιέκτης flex, περιέκτης πλέγματος ή περιέκτης πολλαπλών στηλών.
 inactive-css-not-grid-or-flex-item = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν είναι στοιχείο flex ή πλέγματος.
 inactive-css-not-grid-item = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν είναι στοιχείο πλέγματος.
 inactive-css-not-grid-container = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν είναι περιέκτης πλέγματος.
 inactive-css-not-flex-item = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν είναι στοιχείο flex.
 inactive-css-not-flex-container = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν είναι περιέκτης flex.
 inactive-css-not-inline-or-tablecell = Η ιδιότητα <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν είναι στοιχείο εντός της γραμμής ή κελιού πίνακα.
+inactive-css-property-because-of-display = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν έχει προβολή του <strong>{ $display }</strong>.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved.
 
 inactive-css-not-grid-or-flex-container-fix = Δοκιμάστε να προσθέσετε το <strong>display:grid</strong> ή το <strong>display:flex</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Δοκιμάστε να προσθέσετε το <strong>display:grid</strong>, το <strong>display:flex</strong> ή το <strong>columns:2</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix = Δοκιμάστε να προσθέσετε το <strong>display:grid</strong>, το <strong>display:flex</strong>, το <strong>display:inline-grid</strong> ή το <strong>display:inline-flex</strong>. { learn-more }
 inactive-css-not-grid-item-fix = Δοκιμάστε να προσθέσετε το <strong>display:grid</strong> ή το <strong>display:inline-grid</strong> στο γονέα του στοιχείου. { learn-more }
 inactive-css-not-grid-container-fix = Δοκιμάστε να προσθέσετε το <strong>display:grid</strong> ή το <strong>display:inline-grid</strong>. { learn-more }
 inactive-css-not-flex-item-fix = Δοκιμάστε να προσθέσετε το <strong>display:flex</strong> ή το <strong>display:inline-flex</strong> στο γονέα του στοιχείου. { learn-more }
 inactive-css-not-flex-container-fix = Δοκιμάστε να προσθέσετε το <strong>display:flex</strong> ή το <strong>display:inline-flex</strong>. { learn-more }
 inactive-css-not-inline-or-tablecell-fix = Δοκιμάστε να προσθέσετε το <strong>display:inline</strong> ή το <strong>display:table-cell</strong>. { learn-more }
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Δοκιμάστε να προσθέσετε το <strong>display:inline-block</strong> ή το <strong>display:block</strong>. { learn-more }
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Δοκιμάστε να προσθέσετε το <strong>display:inline-block</strong>. { learn-more }
