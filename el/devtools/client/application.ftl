@@ -27,6 +27,10 @@ serviceworker-worker-debug = Αποσφαλμάτωση
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = Έναρξη
+# Text for the debug link displayed for an already started Service Worker, when we
+# are in multi e10s mode, which effectively disables this link.
+serviceworker-worker-debug-forbidden = Αποσφαλμάτωση
+    .title = Η αποσφαλμάτωση των service workers μπορεί να γίνει μόνο αν είναι ανενεργό το multi e10s
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = Έναρξη

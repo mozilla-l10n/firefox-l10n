@@ -42,6 +42,8 @@ app-basics-update-dir =
     }
 app-basics-update-history = Ιστορικό ενημερώσεων
 app-basics-show-update-history = Προβολή ιστορικού ενημερώσεων
+# Represents the path to the binary used to start the application.
+app-basics-binary = Δυαδική εφαρμογή
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Κατάλογος προφίλ
