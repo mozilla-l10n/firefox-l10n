@@ -71,7 +71,7 @@
 
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
-<!ENTITY  crash_notification_title "&brandShortName; je spadnjeny">
+<!ENTITY  crash_notification_title "&brandShortName; je spadnył">
 <!ENTITY  crash_notification_message "Podótkńće so, zo byšće &vendorShortName; informował">
 <!ENTITY  crash_notification_negative_button_text "Ignorować">
 
