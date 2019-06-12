@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Změny składowaś
     .accesskey = s
+permissions-autoplay-menu = Standard za wšykne websedła:
 permissions-searchbox =
     .placeholder = Websedło pytaś
+permissions-capabilities-autoplay-allow =
+    .label = Awdio a wideo dowóliś
+permissions-capabilities-autoplay-block =
+    .label = Awdio blokěrowaś
+permissions-capabilities-autoplay-blockall =
+    .label = Awdio a wideo blokěrowaś
 permissions-capabilities-allow =
     .label = Dowóliś
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = Dowóliś
 permissions-capabilities-listitem-block =
     .value = Blokěrowaś
-permissions-capabilities-listitem-allow-first-party =
-    .value = Jano zawołany bok dowóliś
 permissions-capabilities-listitem-allow-session =
     .value = Za pósejźenje dowóliś
 
@@ -58,10 +63,6 @@ permissions-invalid-uri-label = Pšosym zapódajśo płaśiwe mě hosta
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Wuwześa - Slědowański šćit
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Sćo slědowański šćit na toś tych sedłach znjemóžnił.
 permissions-exceptions-content-blocking-window =
     .title = Wuwześa - Blokěrowanje wopśimjeśa
     .style = { permissions-window.style }
@@ -101,6 +102,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Wuwześe - awtomatiske wótgraśe
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Móžośo pódaś, kótare websedła pśecej směju abo nigda njesměju medije awtomatiski ze zukom wótgraś. Zapódajśo adresu sedła, kótarež cośo zastojaś a klikniśo pótom na Blokěrowaś abo Dowóliś.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Nastajenja - awtomatiske wótgraśe
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Móžośo sedła zastojaś, kótarež njamaju se how pó wašych standardnych nastajenjach awtomatiskego wótgraśa.
 
 ## Site Permissions - Notifications
 
