@@ -37,8 +37,12 @@ permissions-button-ok =
 permissions-autoplay-menu = Προεπιλογή για όλες τις ιστοσελίδες:
 permissions-searchbox =
     .placeholder = Αναζήτηση ιστοσελίδας
+permissions-capabilities-autoplay-allow =
+    .label = Αποδοχή ήχου και βίντεο
 permissions-capabilities-autoplay-block =
     .label = Φραγή ήχου
+permissions-capabilities-autoplay-blockall =
+    .label = Φραγή ήχου και βίντεο
 permissions-capabilities-allow =
     .label = Αποδοχή
 permissions-capabilities-block =
@@ -101,6 +105,10 @@ permissions-exceptions-autoplay-media-desc2 = Μπορείτε να καθορί
 
 ## Site Permissions - Autoplay
 
+permissions-site-autoplay-window =
+    .title = Ρυθμίσεις - Αυτόματη αναπαραγωγή
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Εδώ μπορείτε να διαχειριστείτε τις ιστοσελίδες που δεν ακολουθούν τις προεπιλεγμένες ρυθμίσεις αυτόματης αναπαραγωγής.
 
 ## Site Permissions - Notifications
 

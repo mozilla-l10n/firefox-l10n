@@ -84,6 +84,8 @@ about-debugging-setup-title = Ρύθμιση
 about-debugging-setup-intro = Ρυθμίστε τη μέθοδο σύνδεσης με την οποία επιθυμείτε να αποσφαλματώσετε απομακρυσμένα τη συσκευή σας.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Χρησιμοποιήστε το <a>{ about-debugging-this-firefox-runtime-name }</a> για αποσφαλμάτωση καρτελών, επεκτάσεων και service workers σε αυτή την έκδοση του { -brand-shorter-name }.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Χρησιμοποιήστε το <a>{ about-debugging-this-firefox-runtime-name }</a> για να αποσφαλματώσετε τις επεκτάσεις και τα service workers σε αυτή την έκδοση του { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Σύνδεση συσκευής
 # USB section of the Setup page
