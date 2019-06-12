@@ -2,10 +2,21 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+abuse-report-title-extension = Raportoi tämä laajennus { -vendor-short-name }lle
+abuse-report-title-theme = Raportoi tämä teema { -vendor-short-name }lle
 abuse-report-subtitle = Mikä on ongelmana?
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = tekijä <a data-l10n-name="author-name">{ $author-name }</a>
+abuse-report-learnmore =
+    Epävarma mikä ongelmista tulee valita?
+    <a data-l10n-name="learnmore-link">Lue lisää laajennuksien ja teemojen raportoinnista</a>
+abuse-report-submit-description = Kuvaa ongelma (valinnainen)
+abuse-report-textarea =
+    .placeholder = Jos kerrot tarkemmin kohtaamastasi ongelmasta, pystymme helpommin paikantamaan sen. Kerro vapaamuotoisesti, mitä olet huomannut. Kiitos, kun autat meitä pitämään verkon turvallisena.
+abuse-report-submit-note =
+    Huomio: Älä kirjoita henkilökohtaisia tietoja, kuten nimiä, sähköpostiosoitteita, puhelinnumeroita tai postiosoitteita.
+    { -vendor-short-name } säilyttää raportit pysyvästi.
 
 ## Panel buttons.
 
@@ -20,6 +31,8 @@ abuse-report-submit-button = Lähetä
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+abuse-report-messagebar-aborted = Raportti lisäosasta <span data-l10n-name="addon-name">{ $addon-name }</span> on peruttu.
+abuse-report-messagebar-submitting = Lähetetään raportti lisäosasta <span data-l10n-name="addon-name">{ $addon-name }</span>.
 
 ## Message bars actions.
 
