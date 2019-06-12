@@ -36,9 +36,12 @@ inactive-css-property-because-of-display = <strong>{ $property }</strong> njama 
 ## the problem can be solved.
 
 inactive-css-not-grid-or-flex-container-fix = Wppytajśo <strong>display:grid</strong> abo <strong>display:flex</strong> pśidaś. { learn-more }
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Wopytajśo <strong>display:grid</strong>, <strong>display:flex</strong> abo <strong>columns:2</strong> pśidaś. { learn-more }
 inactive-css-not-grid-or-flex-item-fix = Wopytajśo <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> abo <strong>display:inline-flex</strong> pśidaś. { learn-more }
 inactive-css-not-grid-item-fix = Wopytajśo <strong>display:grid</strong> abo <strong>display:inline-grid</strong> nadrědowanemu elementoju zapiska pśidaś. { learn-more }
 inactive-css-not-grid-container-fix = Wopytajśo <strong>display:grid</strong> abo <strong>display:inline-grid</strong> pśidaś. { learn-more }
 inactive-css-not-flex-item-fix = Wopytajśo <strong>display:flex</strong> abo <strong>display:inline-flex</strong> nadrědowanemu elementoju zapiska pśidaś. { learn-more }
 inactive-css-not-flex-container-fix = Wopytajśo <strong>display:flex</strong> abo <strong>display:inline-flex</strong> pśidaś. { learn-more }
 inactive-css-not-inline-or-tablecell-fix = Wopytajśo <strong>display:inline</strong> abo <strong>display:table-cell</strong> pśidaś. { learn-more }
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Wopytajśo <strong>display:inline-block</strong> abo <strong>display:block</strong> pśidaś. { learn-more }
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Wopytajśo <strong>display:inline-block</strong> pśidaś. { learn-more }
