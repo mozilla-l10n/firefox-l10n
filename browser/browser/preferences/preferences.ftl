@@ -292,6 +292,7 @@ update-pref-write-failure-title = Збой запісу
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Немагчыма захаваць налады. Не ўдалося запісаць у файл: { $path }
+update-in-progress-title = Абнаўленне ў працэсе
 update-in-progress-ok-button = &Адкінуць
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
