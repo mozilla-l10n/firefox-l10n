@@ -22,7 +22,7 @@ learn-more = <span data-l10n-name="link">Dalše informacije</span>
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> na tutón element efekt nima, dokelž ani kontejner flex ani kontejner grid njeje.
-inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> ns zuzón element wuskutk nima, dokelž kontejner flex, lěsyčny kontejner abo wjacešpaltowy kontejner njeje.
+inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> na tutón element wuskutk nima, dokelž kontejner flex, lěsyčny kontejner abo wjacešpaltowy kontejner njeje.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> na tutón element efekt nima, dokelž ani zapisk grid ani zapisk flex njeje.
 inactive-css-not-grid-item = <strong>{ $property }</strong> na tutón element efekt nima, dokelž zapisk grid njeje.
 inactive-css-not-grid-container = <strong>{ $property }</strong> na tutón element efekt nima, dokelž kontejner grid njeje.
