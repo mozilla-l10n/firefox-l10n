@@ -40,7 +40,7 @@ app-basics-update-dir =
 app-basics-update-history = Aktualizaciska historija
 app-basics-show-update-history = Aktualizacisku historiju pokazać
 # Represents the path to the binary used to start the application.
-app-basics-binary = Nakoženska binarna dataja
+app-basics-binary = Nałoženska binarna dataja
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Profilowy zapis
