@@ -5,6 +5,7 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } kasutab vigast turvasertifikaati.
+cert-error-mitm-intro = Saidid tõestavad oma identiteeti sertifitseerimiskeskuste poolt välja antud sertide abil.
 cert-error-trust-unknown-issuer-intro = Keegi võib üritada selle saidina välja paista ja sa ei peaks jätkama.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
