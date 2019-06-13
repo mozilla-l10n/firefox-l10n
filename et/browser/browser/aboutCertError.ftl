@@ -34,5 +34,13 @@ cert-error-domain-mismatch-single-nolink = Saidid tõestavad oma identiteeti ser
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
 cert-error-domain-mismatch-multiple = Saidid tõestavad oma identiteeti sertide abil. { -brand-short-name } ei usalda seda saiti, kuna see kasutab serti, mis ei ole saidi { $hostname } jaoks korrektne. Sert on korrektne ainult järgmistele domeenidele: { $subject-alt-names }
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = Saidid tõestavad oma identiteeti kindlaks määratud aja jooksul kehtivate sertide abil. Saidi { $hostname } sert aegus { $not-after-local-time }.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = Saidid tõestavad oma identiteeti kindlaks määratud aja jooksul kehtivate sertide abil. Saidi { $hostname } serdi kehtivusaeg algab { $not-after-local-time }.
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Veakood: <a data-l10n-name="error-code-link">{ $error }</a>
