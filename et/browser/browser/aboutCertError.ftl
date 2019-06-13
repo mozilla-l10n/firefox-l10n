@@ -6,6 +6,8 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } kasutab vigast turvasertifikaati.
 cert-error-mitm-intro = Saidid tõestavad oma identiteeti sertifitseerimiskeskuste poolt välja antud sertide abil.
+cert-error-mitm-mozilla = { -brand-short-name }i taga seisab mittetulundusühing Mozilla, mis administreerib täielikult avalikku sertifitseerimiskeskuste serdiladu. Sertifitseerimiskeskuste serdiladu aitab tagada seda, et sertifitseerimiskeskused järgivad kasutajate turvalisuse tagamisel parimaid praktikaid.
+cert-error-mitm-connection = { -brand-short-name } kasutab ühenduse turvalisuse kontrollimisel operatsioonisüsteemi serdilao asemel Mozilla sertifitseerimiskeskuste serdiladu. Seega, kui viirustõrjeprogramm või muud internetiühendust vahendavad seadmed sekkuvad ühendusse serdiga, mis pole välja antud Mozilla serdilaos oleva SK poolt, siis loetakse selline ühendus ebaturvaliseks.
 cert-error-trust-unknown-issuer-intro = Keegi võib üritada selle saidina välja paista ja sa ei peaks jätkama.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
