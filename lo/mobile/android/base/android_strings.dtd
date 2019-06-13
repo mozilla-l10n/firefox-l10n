@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "ຮັບເອົາຈາກບ່ອນທີ່ທ່ານໄດ້ປະເອົາໄວ້.">
 <!ENTITY firstrun_sync_subtext2 "ໃຊ້ Sync ເພື່ອຊອກຫາບຸກມາກ, ລະຫັດຜ່ານ, ແລະ ສິ່ງອື່ນໆທີ່ທ່ານໄດ້ບັນທຶກໄວ້ທີ່ &brandShortName; ໃນອຸປະກອນທັງຫມົດຂອງທ່ານ.">
 <!ENTITY newfirstrun_sync_subtext "Sync ສິ່ງທີ່ທ່ານບັນທຶກໄວ້ໃນໂທລະສັບໄປຫາ Firefox ສຳລັບເດສກທັອບ ເພື່ອໃຫ້ມີຄວາມເປັນສ່ວນຕົວ ແລະ ປອດໄພ.">
+<!ENTITY updatednewfirstrun_sync_subtext "ເຂົ້າສູ່ລະບົບບັນຊີຂອງທ່ານເພື່ອນຳໃຊ້ປະໂຫຍດສູງສຸດຈາກ &brandShortName;">
 <!ENTITY firstrun_signin_message "ຮັບການເຊື່ອມຕໍ່ ເລີມຕົ້ນເຮັດວຽກ">
 <!ENTITY firstrun_signin_button "ເຂົ້າສູ່ລະບົບເພື່ອ Sync">
 <!ENTITY newfirstrun_signin_button "ເປີດ Sync">
+<!ENTITY updatednewfirstrun_signin_button "ລົງຊື່ເຂົ້າ &brandShortName;">
 <!ENTITY  onboard_start_button_browser "ເລີ່ມການທ່ອງເວັບ">
 <!ENTITY firstrun_button_notnow "ບໍ່ແມ່ນຕອນນີ້">
 <!ENTITY firstrun_button_next "ຕໍ່ໄປ">
@@ -66,6 +68,12 @@
 <!ENTITY  sending_crash_report "ກຳລັງສົ່ງລາຍງານຂໍ້ຜິດພາດ\u2026">
 <!ENTITY  crash_close_label "ປິດ">
 <!ENTITY  crash_restart_label "ເລີ່ມຕົ້ນການທຳງານ &brandShortName; ໃຫມ່">
+
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; ໄດ້ຂັດຂ້ອງ">
+<!ENTITY  crash_notification_message "ແຕະເພື່ອລາຍງານໄປຫາ &vendorShortName;">
+<!ENTITY  crash_notification_negative_button_text "ຍອມຮັບ">
 
 <!ENTITY url_bar_default_text2 "ຊອກຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່">
 
@@ -108,6 +116,10 @@
 <!ENTITY bookmark_folder_updated "ອັບເດດໂຟລເດີແລ້ວ">
 <!ENTITY bookmark_parent_folder "ໂຟ​ລ​ເດີ​ຫລັກ">
 <!ENTITY bookmark_add_folder "ເພີ່ມໂຟນເດີໃຫມ່">
+
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(ບໍ່ມີຫົວຂໍ້)">
 
 <!ENTITY reader_saved_offline "ບັກທຶກເປັນອັອບລາຍໄວ້ແລ້ວ">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -590,6 +602,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "ຄຳທື່ຕ້ອງການຄົ້ນຫາ">
 <!ENTITY bookmark_select_folder "ເລືອກໂຟນເດີ">
 
+<!ENTITY bookmark_edit_undo "ເອົາກັບຄືນ">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "ການຕັ້ງຄ່າເວັບໄຊທ໌">
@@ -677,6 +691,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "ເລືອກ ຫລື ບັນທຶກສຽງ">
 <!ENTITY filepicker_image_title "ເລືອກ ຫລື ຖ່າຍຮູບພາບ">
 <!ENTITY filepicker_video_title "ເລືອກ ຫລື ບັນທຶກວິດີໂອ">
+
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "ທ່ານໄດ້ເຊື່ອມຕໍ່ເຂົ້າກັບ">
@@ -931,3 +946,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "ການແຈ້ງເຕືອນໃນເວັບໄຊທ">
+<!ENTITY crash_handler_notifications_channel "ຕົວລາຍງານຂໍ້ຂັດຂ້ອງຂອງ &brandShortName;">
