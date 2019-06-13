@@ -27,6 +27,14 @@ serviceworker-worker-debug = Depurar
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = Iniciar
+# Text for the debug link displayed for an already started Service Worker, when we
+# are in multi e10s mode, which effectively disables this link.
+serviceworker-worker-debug-forbidden = Depurar
+    .title = Apenas é possível depurar service workers se multi e10s estiver desativado
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start2 = Iniciar
+    .title = Apenas é possível iniciar service workers se multi e10s estiver desativado
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Atualizado <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
