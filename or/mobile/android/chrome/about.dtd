@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "&brandShortName; ବିଷୟରେ">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; ଟି ପରୀକ୍ଷାମୂଳକ ସ୍ଥିତିରେ ଅଛି ଏବଂ ହୁଏତଃ ଅସ୍ଥାୟୀ ହୋଇଥିବ।">
-<!ENTITY aboutPage.telemetryStart               "ଏହା ସ୍ୱୟଂଚାଳିତ ଭାବରେ କାର୍ଯ୍ୟଦକ୍ଷତା, ହାର୍ଡୱେର, ଉପଯୋଗିତା ଏବଂ ଇଚ୍ଛାରୂପଣ ବିଷୟରେ ସୂଚନା ପଠାଇଥାଏ">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 "&brandShortName; କୁ ଭଲ କରିବାରେ ସହାୟତା କରିବାକୁ">
 <!ENTITY aboutPage.checkForUpdates.link         "ଅଦ୍ୟତନଗୁଡ଼ିକ ପାଇଁ ଯାଞ୍ଚ କରନ୍ତୁ »">
 <!ENTITY aboutPage.checkForUpdates.checking     "ଅଦ୍ୟତନଗୁଡ଼ିକ ପାଇଁ ଯାଞ୍ଚ କରୁଅଛି…">
 <!ENTITY aboutPage.checkForUpdates.none         "କୌଣସି ଅଦ୍ୟତନ ଉପଲବ୍ଧ ନାହିଁ">
@@ -19,4 +16,6 @@
 <!ENTITY aboutPage.relNotes.label               "ପ୍ରକାଶନ ଟିପ୍ପଣୀମାନ">
 <!ENTITY aboutPage.credits.label                "ଶ୍ରେୟ">
 <!ENTITY aboutPage.license.label                "ଅନୁମତି ସୂଚନା">
+
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
+<!ENTITY aboutPage.logoTrademark                "Firefox ଏବଂ Firefox ଲୋଗୋସମୂହ Mozilla Foundationର ଟ୍ରେଡ଼ମାର୍କ ।">
