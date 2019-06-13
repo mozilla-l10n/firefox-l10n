@@ -12,3 +12,10 @@ update-pref-write-failure-title = Idaztean huts egitea
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Ezin gorde hobespenak. Ezin izan da { $path } fitxategian idatzi.
+update-setting-write-failure-title = Errorea eguneratze hobespenak gordetzean
+update-in-progress-title = Eguneratzea egiten
+update-in-progress-message = { -brand-short-name } eguneratze honekin jarraitzea nahi duzu?
+update-in-progress-ok-button = &Baztertu
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Jarraitu
