@@ -7,22 +7,22 @@ rights-intro = { -brand-full-name } on vaba ja avatud koodiga tarkvara, mille on
 rights-intro-point-1 = { -brand-short-name } on tehtud kättesaadavaks järgneva litsentsi all: <a data-l10n-name="mozilla-public-license-link">Mozilla avalik litsents (MPL - Mozilla Public License)</a>. See tähendab, et sa võid { -brand-short-name }i kasutada, kopeerida ja teistele jagada. Sa võid ka igati muuta { -brand-short-name }i lähtekoodi, kui tahad, et see paremini sobiks sinu vajadustega. Samuti annab Mozilla avalik litsents (MPL) sulle õiguse oma muudetud versiooni edasi levitada.
 rights-intro-point-2 = Mozilla ei anna sulle mingeid õigusi ega litsentse Mozilla ja Firefoxi kaubamärkide või logode üle. Lisainfot kaubamärkide kohta võib leida <a data-l10n-name="mozilla-trademarks-link">siit</a>.
 rights-intro-point-3 = Mõned { -brand-short-name }i komponendid, nagu näiteks vigadest teatamise rakendus, annavad sulle võimaluse saata tagasisidet { -vendor-short-name }le. Valides tagasiside saatmise kasuks, annad sa { -vendor-short-name }le õiguse kasutada seda tagasisidet toote täiustamiseks, tagasiside avaldamiseks veebilehel ja tagasiside edasijagamiseks.
-rights-intro-point-4 = Kuidas me sinu läbi { -brand-short-name }i { -vendor-short-name }le edastatud isiklikku infot ja tagasisidet kasutame, on ära kirjeldatud <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name }i privaatsuse reeglites</a>.
+rights-intro-point-4 = Kuidas me { -brand-short-name }i vahendusel { -vendor-short-name }le edastatud isiklikku infot ja tagasisidet kasutame, on ära kirjeldatud <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name }i privaatsuse reeglites</a>.
 rights-intro-point-4-unbranded = Kõik selle tootega seonduvad privaatsusreeglid peaks olema ära toodud siin.
 rights-intro-point-5 = { -brand-short-name } pakub ka lisanduvaid veebipõhiseid infoteenuseid; siiski ei garanteeri me, et need on 100% täpsed või veavabad. Rohkem teavet, sealhulgas nende teenuste keelamise kohta, võib leida <a data-l10n-name="mozilla-service-terms-link">teenuse tingimustest</a>.
 rights-intro-point-5-unbranded = Kui see toode sisaldab endas veebiteenuseid, siis kõigile seonduvatele teenuse/teenuste tingimustele peaks olema viidatud <a data-l10n-name="mozilla-website-services-link">veebiteenuste</a> sektsioonis.
 rights-intro-point-6 = Teatud tüüpi videote esitamiseks tõmbab { -brand-short-name } kolmandatelt osapooltelt vajalikke sisu dekrüptimise mooduleid.
 rights-webservices-header = { -brand-full-name }i veebipõhised infoteenused
 rights-webservices = { -brand-full-name } kasutab veebipõhiseid infoteenuseid ("teenused"), mis on saadaval selles { -brand-short-name }i binaarses versioonis, nagu on kirjeldatud allpool. Kui sa ei taha kasutada neid teenuseid või allolevad tingimused on sulle vastuvõetamatud, siis võid sa antud komponendi või teenuse(d) välja lülitada. Juhtnöörid konkreetse komponendi või teenuse väljalülitamiseks võib leida <a data-l10n-name="mozilla-disable-service-link">siit</a>. Muid teenusi või funktsionaalsusi on võimalik keelata rakenduse sätetest.
-rights-safebrowsing = <strong>Turvaline veebilehitsemine: </strong>Turvalise veebilehitsemise teenuse väljalülitamine ei ole soovitatav, kuna nii võid sattuda ebaturvalisele veebilehele.  Teenuse täielikuks väljalülitamiseks järgi neid samme:
+rights-safebrowsing = <strong>Turvaline veebilehitsemine: </strong>turvalise veebilehitsemise teenuse väljalülitamine ei ole soovitatav, kuna nii võid sattuda ebaturvalisele veebilehele.  Teenuse täielikuks väljalülitamiseks järgi neid samme:
 rights-safebrowsing-term-1 = Ava rakenduse eelistused/sätted
 rights-safebrowsing-term-2 = Liigu kaardile Turvalisus
 rights-safebrowsing-term-3 = Eemalda linnuke valikult "{ enableSafeBrowsing-label }"
 enableSafeBrowsing-label = Ohtlik ja petlik sisu blokitakse
 rights-safebrowsing-term-4 = Turvaline veebilehitsemine on nüüd keelatud
-rights-locationawarebrowsing = <strong>Asukohateadlik veebilehitsemine: </strong>on alati valikuline.  Mingit asukoha infot ei saadeta ilma sinu nõusolekuta.  Teenuse täielikuks väljalülitamiseks järgi neid samme:
-rights-locationawarebrowsing-term-1 = Trüki aadressireale <code>about:config</code>
-rights-locationawarebrowsing-term-2 = Trüki geo.enabled
+rights-locationawarebrowsing = <strong>Asukohateadlik veebilehitsemine: </strong>see on alati valikuline.  Mingit asukoha infot ei saadeta ilma sinu nõusolekuta.  Teenuse täielikuks väljalülitamiseks järgi neid samme:
+rights-locationawarebrowsing-term-1 = Kirjuta aadressireale <code>about:config</code>
+rights-locationawarebrowsing-term-2 = Kirjuta geo.enabled
 rights-locationawarebrowsing-term-3 = Tee eelistusel geo.enabled topeltklõps
 rights-locationawarebrowsing-term-4 = Asukohateadlik veebilehitsemine on nüüd keelatud
 rights-webservices-unbranded = Ülevaate veebipõhistest teenustest, mida toode sisaldab, ning juhenditest, kuidas neid vajaduse korral keelata, peaks leidma siit.
