@@ -30,6 +30,7 @@ policy-DisableProfileImport = Vô hiệu hóa lệnh menu để nhập dữ li�
 policy-DisableSafeMode = Tắt tính năng này để khởi động lại ở chế độ an toàn. Lưu ý: phím Shift để vào chế độ an toàn chỉ có thể tắt trên Windows bằng Group Policy.
 policy-DisableSecurityBypass = Ngăn chặn người dùng bỏ qua các cảnh báo bảo mật nhất định.
 policy-DisableSystemAddonUpdate = Ngăn { -brand-short-name } cài đặt và cập nhật các tiện ích hệ thống.
+policy-DisableTelemetry = Tắt Telemetry.
 policy-DisplayMenuBar = Hiển thị thanh menu theo mặc định.
 policy-DNSOverHTTPS = Định cấu hình DNS qua HTTPS.
 policy-DontCheckDefaultClient = Vô hiệu hóa kiểm tra cho máy khách mặc định khi khởi động.
