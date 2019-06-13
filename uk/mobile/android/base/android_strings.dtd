@@ -28,6 +28,7 @@
 <!ENTITY firstrun_signin_message "Під’єднайтесь і вперед">
 <!ENTITY firstrun_signin_button "Увійти до Синхронізації">
 <!ENTITY newfirstrun_signin_button "Увімкнути синхронізацію">
+<!ENTITY updatednewfirstrun_signin_button "Увійти в &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Почати перегляд">
 <!ENTITY firstrun_button_notnow "Не зараз">
 <!ENTITY firstrun_button_next "Далі">
@@ -67,6 +68,12 @@
 <!ENTITY  sending_crash_report "Надсилання звіту про збій\u2026">
 <!ENTITY  crash_close_label "Закрити">
 <!ENTITY  crash_restart_label "Перезапустити &brandShortName;">
+
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "Збій &brandShortName;">
+<!ENTITY  crash_notification_message "Торкніться, щоб повідомити &vendorShortName;">
+<!ENTITY  crash_notification_negative_button_text "Ігнорувати">
 
 <!ENTITY url_bar_default_text2 "Введіть запит чи адресу">
 
@@ -109,6 +116,10 @@
 <!ENTITY bookmark_folder_updated "Теку оновлено">
 <!ENTITY bookmark_parent_folder "Основна тека">
 <!ENTITY bookmark_add_folder "Додати нову теку">
+
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(без назви)">
 
 <!ENTITY reader_saved_offline "Збережено автономно">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -591,6 +602,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "Ключове слово">
 <!ENTITY bookmark_select_folder "Обрати теку">
 
+<!ENTITY bookmark_edit_undo "Повернути">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "Налаштування сайту">
@@ -679,6 +692,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_image_title "Виберіть чи зробіть фото">
 <!ENTITY filepicker_video_title "Виберіть чи запишіть відео">
 
+<!ENTITY filepicker_permission_denied "Необхідні дозволи не отримано, активовано системний вибір файлів.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Ви підключені до">
@@ -934,3 +948,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Сповіщення сайтів">
+<!ENTITY crash_handler_notifications_channel "Звіти про збої &brandShortName;">
