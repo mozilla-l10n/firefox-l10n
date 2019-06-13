@@ -3,14 +3,25 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = Ďalšie informácie
 onboarding-button-label-try-now = Vyskúšajte to
 onboarding-button-label-get-started = Začíname
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Víta vás { -brand-short-name }
 onboarding-welcome-body = Prehliadač už máte.<br/>Spoznajte ešte zvyšok aplikácie { -brand-product-name }.
 onboarding-welcome-learn-more = Ďalšie výhody.
+onboarding-join-form-body = Začnite uvedením svojej e-mailovej adresy.
 onboarding-join-form-email =
     .placeholder = Zadajte e-mailovú adresu
 onboarding-join-form-email-error = Vyžaduje sa platná e-mailová adresa
@@ -43,9 +54,15 @@ onboarding-ghostery-text = Prehliadajte rýchlejšie, inteligentnejšie a bezpe�
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synchronizácia
 onboarding-fxa-text = Prihláste sa ku svojmu účtu Firefox a synchronizujte svoje záložky, heslá a otvorené karty kdekoľvek používate aplikáciu { -brand-short-name }.
+onboarding-tracking-protection-title2 = Ochrana pred sledovaním
+onboarding-data-sync-title = Vezmite si svoje nastavenia so sebou
+onboarding-firefox-monitor-button = Prihláste sa na odber upozornení
+onboarding-firefox-send-title = Udržujte svoje zdieľané súbory v súkromí
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Prevziať mobilný prehliadač
+onboarding-lockwise-passwords-title = Vezmite si svoje heslá so sebou
+onboarding-facebook-container-button = Pridať rozšírenie
 
 ## Message strings belonging to the Return to AMO flow
 
