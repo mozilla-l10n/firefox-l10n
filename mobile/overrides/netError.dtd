@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "ପୃଷ୍ଠା ଧାରଣ କରିବାରେ ସମସ୍ୟା">
 <!ENTITY retry.label "ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "ସଂଯୋଗ କରିବାରେ ଅସମର୍ଥ">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -24,9 +24,7 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>ଅକ୍ଷର ପ୍ରକାର କିମ୍ବା ଅନ୍ୟାନ୍ୟ ଟାଇପ ତ୍ରୁଟିଗୁଡ଼ିକୁ ଯାଞ୍ଚ କରିବା ପାଇଁ ଫାଇଲନାମକୁ ଯାଞ୍ଚ କରନ୍ତୁ</li> <li>ଫାଇଲଟି କଢ଼ାଯାଇଛି କି ନାହିଁ , ପୁନଃନାମକରଣ ଅଥବା ଅପସାରଣ ହୋଇଛି କି ନାହିଁ ଦେଖିବା ପାଇଁ ଯାଞ୍ଚ କରନ୍ତୁ।</li> </ul>">
 
 
-
 <!ENTITY generic.title "ଆହାଃ">
-
 
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
@@ -35,7 +33,6 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "ଦଲିଲର ସମୟ ସମାପ୍ତ ହୋଇଛି">
-
 
 <!ENTITY netOffline.title "ଅଫଲାଇନ ଅବସ୍ଥା">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -85,11 +82,11 @@
 <!ENTITY securityOverride.linkText "ଅଥବା ଆପଣ ଗୋଟିଏ ବ୍ୟତିକ୍ରମ ଯୋଗକରିପାରିବେ…">
 <!ENTITY securityOverride.getMeOutOfHereButton "ମୋତେ ଏଠାରୁ ବାହାରେ ରଖନ୍ତୁ!">
 <!ENTITY securityOverride.exceptionButtonLabel "ବ୍ୟତିକ୍ରମ ଯୋଗକରନ୍ତୁ…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>ଆପଣଙ୍କୁ ବ୍ୟତୀକ୍ରମ ଯୋଗ କରିବା ଉଚିତ ନୁହୁଁ ଯଦି ଆପଣ ଇଣ୍ଟର୍ନେଟ ସଂଯୋଗ ବ୍ୟବହାର କରୁଛନ୍ତି ଯାହା ଉପରେ ଆପଣ ସମ୍ପୂର୍ଣ୍ଣ ଭାବରେ ବିଶ୍ୱାସ କରୁନାହାନ୍ତି କିମ୍ବା ଯଦି ଆପଣ ଏହି ସର୍ଭର ପାଇଁ  ଚେତାବନୀ ଦେଖୁନଥିବେ।</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
@@ -98,9 +95,12 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "ଉନ୍ନତ ତଥ୍ୟ: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "ଉନ୍ନତ ତଥ୍ୟ: SSL_ERROR_NO_CYPHER_OVERLAP">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
