@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "ସ୍ୱାଗତ">
+<!ENTITY firstrun_urlbar_subtext2 "ମାଗଣା ଓ ଖୋଲା ୱେବ ପାଇଁ ପ୍ରତିଜ୍ଞାବଦ୍ଧ ଅଣଲାଭକାରୀ ସଂଗଠନ Mozilla ତିଆରି ଏକ ଆଧୁନିକ ମୋବାଇଲ ବ୍ରାଉଜର ।">
 <!ENTITY firstrun_panel_title_privacy "ଗୋପନୀୟତା">
 <!ENTITY firstrun_privacy_message "ଏଭଳି ବ୍ରାଉଜ କରନଫତୁ ଯେମିତି କେହି ଦେଖିନପାରେ">
 <!ENTITY newfirstrun_privacy_subtext "ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଂ ଅନଲାଇନରେ ଆପଣଙ୍କ ଅନୁସରଣକାରୀ ବିଜ୍ଞାପନ ଟ୍ର୍ଯାକର ବ୍ଲକ କରେ ।">
@@ -616,7 +617,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "Firefox: ସହାୟତା">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Android ଟ୍ୟାବଲେଟଗୁଡ଼ିକରେ ସୁରକ୍ଷିତ ପ୍ରୋଫାଇଲ ପାଇଁ Firefox ସହାୟତା ଓ ସପୋର୍ଟ">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "ୱେବ ସମ୍ପର୍କରେ ଜାଣନ୍ତୁ: Mozilla Webmaker">
 
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
