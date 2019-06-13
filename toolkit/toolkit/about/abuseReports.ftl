@@ -6,6 +6,8 @@
 ## Panel buttons.
 
 abuse-report-cancel-button = Prekliči
+abuse-report-next-button = Naprej
+abuse-report-goback-button = Nazaj
 
 ## Message bars descriptions.
 
@@ -16,6 +18,9 @@ abuse-report-cancel-button = Prekliči
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove-extension = Da, odstrani
+abuse-report-messagebar-action-keep-extension = Ne, želim jo obdržati
+abuse-report-messagebar-action-remove-theme = Da, odstrani
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
