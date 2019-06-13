@@ -6,3 +6,8 @@
 active-policies-tab = Aktibo
 errors-tab = Erroreak
 documentation-tab = Dokumentazioa
+no-specified-policies-message = Enpresaren gidalerro zerbitzua aktibo dago baina ez daude gidalerroak gaituak.
+inactive-message = Enpresaren gidalerro zerbitzua ez dago aktibo.
+policy-name = Gidalerro izena
+policy-value = Gidalerro balioa
+policy-errors = Gidalerro erroreak
