@@ -928,6 +928,13 @@ permissions-block-autoplay-media2 =
 permissions-block-autoplay-media-exceptions =
     .label = Undtagelser…
     .accesskey = U
+
+permissions-autoplay = Automatisk afspilning
+
+permissions-autoplay-settings =
+    .label = Indstillinger…
+    .accesskey = I
+
 autoplay-option-ask =
     .label = Spørg altid
 autoplay-option-allow =

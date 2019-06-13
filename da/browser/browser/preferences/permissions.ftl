@@ -34,8 +34,19 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Gem ændringer
     .accesskey = G
+
+permissions-autoplay-menu = Standard for alle websteder:
+
 permissions-searchbox =
     .placeholder = Søg efter websted
+
+permissions-capabilities-autoplay-allow =
+    .label = Tillad lyd og video
+permissions-capabilities-autoplay-block =
+    .label = Bloker lyd
+permissions-capabilities-autoplay-blockall =
+    .label = Bliker lyd og video
+
 permissions-capabilities-allow =
     .label = Tillad
 permissions-capabilities-block =
@@ -101,6 +112,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Undtagelser - automatisk afspilning
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Du kan angive, hvilke websteder der altid eller aldrig har lov til afspille lyd automatisk. Indtast adressen på et websted, og klik så på Bloker eller Tillad.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Indstillinger - automatisk afspilning
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Her kan du håndtere de websteder, der ikke følger dine standard-indstillinger for automatisk afspilning.
 
 ## Site Permissions - Notifications
 
