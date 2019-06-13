@@ -69,6 +69,12 @@
 <!ENTITY  crash_close_label "Tutup">
 <!ENTITY  crash_restart_label "Mulai ulang &brandShortName;">
 
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; bermasalah">
+<!ENTITY  crash_notification_message "Ketuk untuk melaporkan ke &vendorShortName;">
+<!ENTITY  crash_notification_negative_button_text "Abaikan">
+
 <!ENTITY url_bar_default_text2 "Cari atau masukkan alamat">
 
 <!-- Localization note: this text will be displayed in the Search Widget -->
@@ -110,6 +116,10 @@
 <!ENTITY bookmark_folder_updated "Folder diperbarui">
 <!ENTITY bookmark_parent_folder "Folder Induk">
 <!ENTITY bookmark_add_folder "Tambah folder baru">
+
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(tanpa judul)">
 
 <!ENTITY reader_saved_offline "Simpan luring">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -591,6 +601,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Lokasi">
 <!ENTITY bookmark_edit_keyword "Kata Kunci">
 <!ENTITY bookmark_select_folder "Pilih folder">
+
+<!ENTITY bookmark_edit_undo "Urungkan">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
