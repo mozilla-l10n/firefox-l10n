@@ -5,7 +5,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.title            "Despre drepturile tale">
 <!ENTITY rights.intro-header     "Despre drepturile tale">
-<!ENTITY rights.intro "&brandFullName; este un software liber și cu sursa deschisă, construit de o comunitate de mii de oameni din lumea întreagă. Câteva lucruri bine de știut:">
+<!ENTITY rights.intro "&brandFullName; este un software liber și cu sursă deschisă, construit de o comunitate de mii de oameni din lumea întreagă. Câteva lucruri bine de știut:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -17,7 +17,7 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; este disponibil sub termenii ">
 <!ENTITY rights.intro-point1b "Licenței Publice Mozilla">
-<!ENTITY rights.intro-point1c ". Înseamnă că poți folosi, copia și distribui &brandShortName;. De asemenea, ești binevenit(ă) să modifici cum dorești codul-sursă &brandShortName; pentru a răspunde nevoilor tale. Licența publică Mozilla îți oferă și dreptul de a distribui versiunile pe care le-ai modificat.">
+<!ENTITY rights.intro-point1c ". Acest lucru înseamnă că poți folosi, copia și distribui &brandShortName;. De asemenea, ești binevenit(ă) să modifici cum dorești codul sursă &brandShortName; pentru a răspunde nevoilor tale. Licența publică Mozilla îți oferă și dreptul de a distribui versiunile pe care le-ai modificat.">
 
 <!ENTITY rights.intro-point2a "Mozilla nu îți acordă niciun drept asupra logourilor și mărcilor comerciale Mozilla și Thunderbird. Informațiile suplimentare despre mărcile comerciale se găsesc ">
 <!ENTITY rights.intro-point2b "aici">
