@@ -8,3 +8,6 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = Olulised uudised
+heading = Muudatused sinu { -brand-short-name }i profiilis
+changed-title = Mis muutus?
+changed-desc-profiles = See { -brand-short-name }i paigaldus kasutab uut profiili. Profiil on kogum faile, kuhu { -brand-short-name } salvestab järjehoidjad, paroolid ja kasutaja sätted.
