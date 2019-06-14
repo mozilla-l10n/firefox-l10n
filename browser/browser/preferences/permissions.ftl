@@ -45,7 +45,7 @@ permissions-capabilities-autoplay-allow =
 permissions-capabilities-autoplay-block =
     .label = Bloker lyd
 permissions-capabilities-autoplay-blockall =
-    .label = Bliker lyd og video
+    .label = Bloker lyd og video
 
 permissions-capabilities-allow =
     .label = Tillad
@@ -118,7 +118,7 @@ permissions-exceptions-autoplay-media-desc2 = Du kan angive, hvilke websteder de
 permissions-site-autoplay-window =
     .title = Indstillinger - automatisk afspilning
     .style = { permissions-window.style }
-permissions-site-autoplay-desc = Her kan du håndtere de websteder, der ikke følger dine standard-indstillinger for automatisk afspilning.
+permissions-site-autoplay-desc = Her kan du håndtere de websteder, der ikke skal følge dine standard-indstillinger for automatisk afspilning.
 
 ## Site Permissions - Notifications
 
