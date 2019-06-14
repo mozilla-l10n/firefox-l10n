@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Save Changes
     .accesskey = S
+permissions-autoplay-menu = Default for all web sites:
 permissions-searchbox =
     .placeholder = Search Web Site
+permissions-capabilities-autoplay-allow =
+    .label = Allow Audio and Video
+permissions-capabilities-autoplay-block =
+    .label = Block Audio
+permissions-capabilities-autoplay-blockall =
+    .label = Block Audio and Video
 permissions-capabilities-allow =
     .label = Allow
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = Allow
 permissions-capabilities-listitem-block =
     .value = Block
-permissions-capabilities-listitem-allow-first-party =
-    .value = Allow first party only
 permissions-capabilities-listitem-allow-session =
     .value = Allow for Session
 
@@ -97,6 +102,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Exceptions - Autoplay
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = You can specify which web sites are always or never allowed to autoplay media with sound. Type the address of the site you want to manage and then click Block or Allow.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Settings - Autoplay
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = You can manage the sites that do not follow your default autoplay settings here.
 
 ## Site Permissions - Notifications
 
