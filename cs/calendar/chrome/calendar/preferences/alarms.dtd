@@ -12,13 +12,14 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "z">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Použít výchozí zvuk">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "v">
+<!ENTITY pref.calendar.alarms.sound.useCustom.label "Vlastní zvukový soubor">
+<!ENTITY pref.calendar.alarms.sound.useCustom.accessKey "V">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Procházet…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "P">
 <!ENTITY pref.calendar.alarms.sound.play.label "Přehrát">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "h">
 <!ENTITY pref.showalarmbox "Zobrazit dialog upozornění">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "d">
-<!ENTITY pref.missedalarms "Ukazovat zmeškaná upozornění">
 <!ENTITY pref.missedalarms2 "Zobrazovat zmeškané upozornění pro zapisovatelné kalendáře">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "k">
 <!ENTITY pref.calendar.alarms.defaults.label "Výchozí nastavení upozornění">
