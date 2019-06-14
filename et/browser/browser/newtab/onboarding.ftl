@@ -21,6 +21,13 @@ onboarding-button-label-get-started = Tee algust
 onboarding-welcome-header = Tere tulemast { -brand-short-name }i
 onboarding-welcome-body = Sul on brauser olemas nüüd.<br/>Tutvu ülejäänud { -brand-product-name }iga.
 onboarding-welcome-learn-more = Rohkem teavet eeliste kohta.
+onboarding-join-form-header = Liitu { -brand-product-name }iga
+onboarding-join-form-body = Alustamiseks sisesta oma e-posti aadress.
+onboarding-join-form-email =
+    .placeholder = Sisesta e-posti aadress
+onboarding-join-form-email-error = E-posti aadress peab olema korrektne
+onboarding-join-form-legal = Jätkates nõustud <a data-l10n-name="terms">teenusetingimuste</a> ja <a data-l10n-name="privacy">privaatsuspoliitikaga</a>.
+onboarding-join-form-continue = Jätka
 onboarding-start-browsing-button-label = Alusta veebilehitsemist
 
 ## These are individual benefit messages shown with an image, title and
