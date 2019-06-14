@@ -88,13 +88,13 @@
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Serverul de trimitere (SMTP) existent, „">
-<!ENTITY haveSmtp1.suffix3 "”, va fi utilizat.">
+<!ENTITY haveSmtp1.suffix3 "”, va fi folosit.">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Numele de utilizator pentru trimitere (SMTP) existent, „">
-<!ENTITY haveSmtp2.suffix3 "”, va fi utilizat.">
+<!ENTITY haveSmtp2.suffix3 "”, va fi folosit.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
@@ -104,7 +104,7 @@
 
 <!-- Entities for Account name page -->
 
-<!ENTITY accnameTitle.label "Denumire cont">
+<!ENTITY accnameTitle.label "Denumirea contului">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Introdu un nume de referință pentru acest cont (de exemplu, „Cont de serviciu”, „Cont de acasă” sau „Cont de știri”).">
 <!ENTITY accnameLabel.label "Denumirea contului:">
