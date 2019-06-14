@@ -5,13 +5,10 @@
 <!ENTITY windowTitle.label "Culoare">
 <!ENTITY lastPickedColor.label "Ultima culoare aleasă">
 <!ENTITY lastPickedColor.accessKey "U">
-<!ENTITY setColor1.label "Dă clic pe o culoare sau">
-<!ENTITY setColor2.label "introdu o culoare HTML">
-<!ENTITY setColor2.accessKey "H">
 <!ENTITY chooseColor1.label "Alege o culoare:">
 <!ENTITY chooseColor2.label "Introdu un șir de culoare HTML">
 <!ENTITY chooseColor2.accessKey "H">
-<!ENTITY setColorExample.label "(ex.: „#0000ff” sau „blue”):">
+<!ENTITY setColorExample.label "(ex.: &ldquor;#0000ff&rdquo; sau &ldquor;blue&rdquo;):">
 <!ENTITY default.label "Implicit">
 <!ENTITY default.accessKey "I">
 <!ENTITY palette.label "Paletă:">
