@@ -40,7 +40,7 @@ cert-error-expired-now = Saidid tõestavad oma identiteeti kindlaks määratud a
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-before-local-time (Date) - Certificate is not valid before this time.
-cert-error-not-yet-valid-now = Saidid tõestavad oma identiteeti kindlaks määratud aja jooksul kehtivate sertide abil. Saidi { $hostname } serdi kehtivusaeg algab { $not-after-local-time }.
+cert-error-not-yet-valid-now = Saidid tõestavad oma identiteeti kindlaks määratud aja jooksul kehtivate sertide abil. Saidi { $hostname } serdi kehtivusaeg algab { $not-before-local-time }.
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Veakood: <a data-l10n-name="error-code-link">{ $error }</a>
