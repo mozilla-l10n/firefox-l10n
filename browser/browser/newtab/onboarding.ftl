@@ -19,6 +19,7 @@ onboarding-button-label-get-started = Tee algust
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Tere tulemast { -brand-short-name }i
+onboarding-welcome-body = Sul on brauser olemas nüüd.<br/>Tutvu ülejäänud { -brand-product-name }iga.
 onboarding-start-browsing-button-label = Alusta veebilehitsemist
 
 ## These are individual benefit messages shown with an image, title and
@@ -44,6 +45,9 @@ onboarding-ghostery-text = Lehitse veebi kiiremini, targemini või ohutumalt lai
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Loo { -fxaccount-brand-name } konto ja sünkroniseeri oma järjehoidjad, paroolid ning avatud kaardid kõikjale, kus kasutad { -brand-short-name }i.
 onboarding-tracking-protection-title2 = Jälitamisvastane kaitse
+onboarding-tracking-protection-text2 = { -brand-short-name } aitab takistada sinu tegevuse jälitamist internetis, tehes reklaamidel sinu järgimise võrgus keerulisemaks.
+onboarding-tracking-protection-button2 = Kuidas see töötab?
+onboarding-data-sync-title = Võta oma sätted endaga kaasa
 
 ## Message strings belonging to the Return to AMO flow
 
