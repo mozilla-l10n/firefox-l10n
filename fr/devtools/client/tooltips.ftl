@@ -13,12 +13,21 @@ learn-more = <span data-l10n-name="link">En savoir plus </ span>
 ## Variables:
 ##   $property (string) - A CSS property name e.g. "color".
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> n’a aucun effet sur cet élément, car il ne s’agit ni d’un conteneur flex, ni d’un conteneur de grille.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> n’a aucun effet sur cet élément, car il ne s’agit ni d’un élément de grille ni d’un élément flexible.
 inactive-css-not-grid-item = <strong>{ $property }</strong> n’a aucun effet sur cet élément, car il ne s’agit pas d’un élément de grille.
 inactive-css-not-grid-container = <strong>{ $property }</strong> n’a aucun effet sur cet élément, car il ne s’agit pas d’un conteneur de grille.
 inactive-css-not-flex-item = <strong>{ $property }</strong> n’a aucun effet sur cet élément, car il ne s’agit pas d’un élément flexible.
 inactive-css-not-flex-container = <strong>{ $property }</strong> n’a aucun effet sur cet élément, car il ne s’agit pas d’un conteneur d’éléments flexibles.
+inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> n’a aucun effet sur cet élément, car il ne s’agit ni d’un élément « inline » ni d’un élément « table-cell ».
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -30,3 +39,4 @@ inactive-css-not-grid-item-fix = Essayez d’ajouter <strong>display: grid</stro
 inactive-css-not-grid-container-fix = Essayez d’ajouter <strong>display: grid</strong> ou <strong>display:inline-grid</strong>. { learn-more }
 inactive-css-not-flex-item-fix = Essayez d’ajouter <strong>display:flex</strong> or <strong>display:inline-flex</strong> à l’élément parent. { learn-more }
 inactive-css-not-flex-container-fix = Essayez d’ajouter <strong>display:flex</strong> ou <strong>display:inline-flex</strong>. { learn-more }
+inactive-css-not-inline-or-tablecell-fix = Essayez d’ajouter <strong>display:inline</strong> ou <strong>display:table-cell</strong>. { learn-more }
