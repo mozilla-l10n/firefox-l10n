@@ -100,6 +100,8 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; ଜିନିଷଗୁଡ଼ିକ">
 <!ENTITY bookmark_folder_one_item "1ଦ୍ରବ୍ୟ">
+<!ENTITY bookmark_parent_folder "ଜନ୍ମଦାତା ଫୋଲ୍ଡର">
+<!ENTITY bookmark_add_folder "ନୂଆ ଫୋଲ୍ଡର ଯୋଗ କରନ୍ତୁ">
 
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
