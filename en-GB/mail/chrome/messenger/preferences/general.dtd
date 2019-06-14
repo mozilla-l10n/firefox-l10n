@@ -6,7 +6,7 @@
 <!ENTITY enableStartPage.label            "When &brandShortName; launches, show the Start Page in the message area">
 <!ENTITY enableStartPage.accesskey        "W">
 <!ENTITY location.label                   "Location:">
-<!ENTITY location1.accesskey              "L">
+<!ENTITY location1.accesskey               "L">
 <!ENTITY useDefault.label                 "Restore Default">
 <!ENTITY useDefault.accesskey             "R">
 
@@ -38,3 +38,7 @@
 <!ENTITY browse.accesskey                 "B">
 
 <!ENTITY defaultSearchEngine.label        "Default Search Engine">
+<!ENTITY addSearchEngine.label            "Add from file">
+<!ENTITY addSearchEngine.accesskey        "A">
+<!ENTITY removeSearchEngine.label         "Remove">
+<!ENTITY removeSearchEngine.accesskey     "v">
