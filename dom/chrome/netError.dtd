@@ -29,7 +29,7 @@
 <!ENTITY malformedURI.longDesc "<p>Adresa furnizată nu este într-un format recunoscut. Te rugăm să verifici bara de adrese pentru greșeli și încearcă din nou.</p>">
 
 <!ENTITY netInterrupt.title "Transfer de date întrerupt">
-<!ENTITY netInterrupt.longDesc "<p>Browserul s-a conectat cu succes, dar conexiunea a fost întreruptă în timp ce se transferau informații.  Te rugăm să încerci din nou.</p><ul><li>Ai probleme cu navigarea pe alte site-uri? Verifică conexiunea la rețea a calculatorului.</li><li>Problemele persistă? Consultă administratorul sau furnizorul de servicii internet pentru asistență.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>Browserul s-a conectat cu succes, însă conexiunea a fost întreruptă în timp ce se transferau informații.  Te rugăm să încerci din nou.</p><ul><li>Ai probleme cu navigarea pe alte site-uri? Verifică conexiunea la rețea a calculatorului.</li><li>Problemele persistă? Consultă administratorul rețelei sau furnizorul de servicii internet pentru asistență.</li></ul>">
 
 <!ENTITY notCached.title "Document expirat">
 <!ENTITY notCached.longDesc "<p>Documentul solicitat nu este disponibil în cache-ul browserului.</p><ul><li>Ca măsură de precauție pentru securitate, browser-ul nu cere din nou în mod automat documente sensibile.</li><li>Dă clic pe Încearcă din nou pentru a cere iar documentul de la site-ul web.</li></ul>">
@@ -47,16 +47,16 @@
 <!ENTITY netReset.longDesc "<p>Legătura la rețea a fost întreruptă în timp ce se negocia o conexiune. Te rugăm să încerci din nou.</p>">
 
 <!ENTITY netTimeout.title "Timp expirat">
-<!ENTITY netTimeout.longDesc "<p>Site-ul cerut nu a răspuns cererii de conexiune, iar browserul a încetat să mai aștepte un răspuns.</p><ul><li>Se poate ca serverul să fie foarte solicitat sau să sufere o defecțiune temporară?  Încearcă din nou mai târziu.</li><li>Ai probleme cu navigarea pe alte site-uri? Verifică conexiunea la rețea a calculatorului.</li><li>Calculatorul este protejat de un firewall sau proxy? Setările incorecte ale acestora poate afecta navigarea pe web.</li><li>Problemele persistă? Consultă administratorul sau furnizorul de servicii internet pentru asistență.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>Site-ul cerut nu a răspuns cererii de conexiune, iar browserul a încetat să mai aștepte un răspuns.</p><ul><li>Se poate ca serverul să fie foarte solicitat sau să sufere o defecțiune temporară?  Încearcă din nou mai târziu.</li><li>Ai probleme cu navigarea pe alte site-uri? Verifică conexiunea la rețea a calculatorului.</li><li>Calculatorul este protejat de un firewall sau proxy? Setările incorecte ale acestora poate afecta navigarea pe web.</li><li>Problemele persistă? Consultă administratorul rețelei sau furnizorul de servicii internet pentru asistență.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Protocol necunoscut">
 <!ENTITY unknownProtocolFound.longDesc "<p>Adresa specifică un protocol (de ex., <q>wxyz://</q>) pe care browserul nu îl cunoaște, astfel că browserul nu se poate conecta în mod corespunzător la site.</p><ul><li>Încerci să accesezi conținut multimedia sau alte servicii nontext? Verifică site-ul pentru cerințe suplimentare.</li><li>Unele protocoale pot necesita programe de la terți sau pluginuri înainte ca browserul să le poată recunoaște.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Serverul proxy a refuzat conexiunea">
-<!ENTITY proxyConnectFailure.longDesc "<p>Browserul este configurat să folosească un server proxy, însă proxy-ul a refuzat o conexiune.</p><ul><li>Este browserul configurat corect pentru acel proxy? Verificați setările și încercați din nou.</li><li>Serviciul proxy permite conexiuni din această rețea?</li><li>Problemele persistă? Consultați administratorul sau furnizorul de servicii internet pentru asistență.</li></ul>">
+<!ENTITY proxyConnectFailure.longDesc "<p>Browserul este configurat să folosească un server proxy, însă proxy-ul a refuzat o conexiune.</p><ul><li>Configurația proxy a browserului este corectă? Verifică setările și încearcă din nou.</li><li>Serviciul proxy permite conexiuni din această rețea?</li><li>Problemele persistă? Consultă administratorul rețelei sau furnizorul de servicii internet pentru asistență.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Server proxy negăsit">
-<!ENTITY proxyResolveFailure.longDesc "<p>Browserul este configurat să folosească un server proxy, însă proxy-ul nu poate fi găsit.</p><ul><li>Este browserul configurat corect pentru acel proxy? Verificați setările și încercați din nou.</li><li>Este calculatorul conectat la o rețea activă?</li><li>Problemele persistă? Consultați administratorul sau furnizorul de servicii internet pentru asistență.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "<p>Browserul este configurat să folosească un server proxy, însă proxy-ul nu poate fi găsit.</p><ul><li>Configurația proxy a browserului este corectă?Verifică setările și încearcă din nou.</li><li>Calculatorul este conectat la o rețea activă?</li><li>Problemele persistă? Consultă administratorul rețelei sau furnizorul de servicii internet pentru asistență.</li></ul>">
 
 <!ENTITY redirectLoop.title "Buclă de redirecționări">
 <!ENTITY redirectLoop.longDesc "<p>Browserul a încetat să încerce aducerea conținutului de la adresa cerută. Site-ul redirecționează cererea astfel încât aceasta nu se va termina niciodată.</p><ul><li>Ai dezactivat sau blocat cookie-urile solicitate de acest site?</li><li><em>NOTĂ</em>: Dacă accepți cookie-uri de la acest site și totuși problema persistă, este cel mai probabil o problemă de configurație a serverului și nu a calculatorului.</li></ul>">
