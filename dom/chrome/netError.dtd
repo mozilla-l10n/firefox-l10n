@@ -35,7 +35,7 @@
 <!ENTITY notCached.longDesc "<p>Documentul solicitat nu este disponibil în cache-ul browserului.</p><ul><li>Ca măsură de precauție pentru securitate, browser-ul nu cere din nou în mod automat documente sensibile.</li><li>Dă clic pe Încearcă din nou pentru a cere iar documentul de la site-ul web.</li></ul>">
 
 <!ENTITY netOffline.title "Mod offline">
-<!ENTITY netOffline.longDesc2 "<p>Browserul este în modul deconectat și nu se poate conecta la elementul solicitat.</p><ul><li>Calculatorul este conectat la o rețea activă?</li><li>Apasă pe &ldquor;Încearcă din nou&rdquo; pentru a comuta la modul online și pentru a reîncărca pagina.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Browserul este în modul deconectat și nu se poate conecta la elementul solicitat.</p><ul><li>Calculatorul este conectat la o rețea activă?</li><li>Apasă pe „Încearcă din nou” pentru a comuta la modul online și pentru a reîncărca pagina.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Eroare privind codarea conținutului">
 <!ENTITY contentEncodingError.longDesc "<p>Pagina pe care încerci să o vezi nu poate fi afișată pentru că folosește o formă de compresie invalidă sau fără suport.</p><ul><li>Te rugăm să contactezi proprietarii site-ului web pentru a-i informa despre această problemă.</li></ul>">

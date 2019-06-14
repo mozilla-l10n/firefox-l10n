@@ -62,7 +62,7 @@
 <!ENTITY netOffline.title "Mod deconectat">
 <!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Apasă pe &ldquor;Încearcă din nou&rdquo; pentru comutarea pe modul conectat și încearcă să reîncarci pagina.</li>
+  <li>Apasă pe „Încearcă din nou” pentru comutarea pe modul conectat și încearcă să reîncarci pagina.</li>
 </ul>">
 
 <!ENTITY contentEncodingError.title "Eroare în codarea conținutului">
