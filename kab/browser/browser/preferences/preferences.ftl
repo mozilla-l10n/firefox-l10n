@@ -109,8 +109,8 @@ search-results-header = Igmaḍ n unadi
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message =
     { PLATFORM() ->
-        [windows] Nesḥasef! Ulac igemaḍ deg iɣewwaṛen i "<span data-l10n-name="query">".
-       *[other] Nesḥasef! Ulac igmaḍ deg ismenyifen i "<span data-l10n-name="query">"
+        [windows] Nesḥasef! Ulac igemaḍ deg iɣewwaṛen i "<span data-l10n-name="query"></span>".
+       *[other] Nesḥasef! Ulac igmaḍ deg ismenyifen i "<span data-l10n-name="query"></span>"
     }
 search-results-help-link = Tesriḍ tallelt? Rzu γer <a data-l10n-name="url">{ -brand-short-name } Tallalt</a>
 
