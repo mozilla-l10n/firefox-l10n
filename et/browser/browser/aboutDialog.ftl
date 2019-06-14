@@ -30,5 +30,14 @@ helpus = Soovid aidata? <label data-l10n-name="helpus-donateLink">Tee annetus</l
 bottomLinks-license = Litsentsist
 bottomLinks-rights = Kasutaja õigustest
 bottomLinks-privacy = Privaatsusreeglid
-aboutDialog-architecture-sixtyFourBit = 64-bitine
-aboutDialog-architecture-thirtyTwoBit = 32-bitine
+# Example of resulting string: 66.0.1 (64-bit)
+# Variables:
+#   $version (String): version of Firefox, e.g. 66.0.1
+#   $bits (Number): bits of the architecture (32 or 64)
+aboutDialog-version = { $version } ({ $bits }-bitine)
+# Example of resulting string: 66.0a1 (2019-01-16) (64-bit)
+# Variables:
+#   $version (String): version of Firefox for Nightly builds, e.g. 66.0a1
+#   $isodate (String): date in ISO format, e.g. 2019-01-16
+#   $bits (Number): bits of the architecture (32 or 64)
+aboutDialog-version-nightly = { $version } ({ $isodate }) ({ $bits }-bitine)
