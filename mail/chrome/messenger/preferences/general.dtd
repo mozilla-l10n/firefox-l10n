@@ -38,3 +38,7 @@
 <!ENTITY browse.accesskey                 "c">
 
 <!ENTITY defaultSearchEngine.label        "Výchozí vyhledávač">
+<!ENTITY addSearchEngine.label            "Přidat ze souboru">
+<!ENTITY addSearchEngine.accesskey        "s">
+<!ENTITY removeSearchEngine.label         "Odebrat">
+<!ENTITY removeSearchEngine.accesskey     "r">
