@@ -40,7 +40,6 @@
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "Iɣewwaṛen n yibenk">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
-
 <!ENTITY runtimeMenu_showPerformancePanel_label "Tamellit">
 <!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
 
@@ -77,7 +76,6 @@
 <!ENTITY runtimePanel_usb "Ibenkan USB">
 <!ENTITY runtimePanel_wifi "Ibenkan Wi-Fi">
 <!ENTITY runtimePanel_other "Wiyaḍ">
-<!ENTITY runtimePanel_noadbhelper "Sebded ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Ur tezmireḍ ara ad twaliḍ ibenk-inek?">
 <!ENTITY runtimePanel_refreshDevices_label "Smiren ibenkan">
 
@@ -120,12 +118,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Talɣut ɣef twennaṭ">
-<!ENTITY runtimedetails_adbIsRoot "ADB ɣur-s taseglut n unebdal.">
-<!ENTITY runtimedetails_summonADBRoot "Ibenkan s tseglut n unebdal">
-<!ENTITY runtimedetails_ADBRootWarning "(yesra bootloader yettwaserḥen)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Tisegluyin n ifecka n tenfalit war tilisa : ">
-<!ENTITY runtimedetails_requestPrivileges "suter ugar n izerfan">
-<!ENTITY runtimedetails_privilegesWarning "(ad isenker ibenk tikelt nniḍen. Isra taseglut n unebdal)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Abulan">
@@ -161,7 +153,7 @@
 <!ENTITY wifi_auth_no_scanner "Ulac afentay akken ad tesnirmeḍ tangalt QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
-<!ENTITY wifi_auth_yes_scanner "Ɣur-k afentay akken ad tesnirmeḍ tangalt QR?">
+<!ENTITY wifi_auth_yes_scanner "Ɣur-k aneftaɣ akken ad tesnirmeḍ tangalt QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Ma yella ibenk niḍḍen yessuter ajiṭun deg umdiq n tengalt QR, nɣel ma ulac aɣilif, azal n daw-a ɣer yibenk nniḍen.">

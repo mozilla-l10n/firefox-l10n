@@ -8,7 +8,7 @@
 <!ENTITY muteButton.unmuteLabel "Amesli">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Agdil ačuṛan">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Ffeɣ seg uskar n ugdil ačuran">
-<!ENTITY castingButton.castingLabel "Snewzi ɣef ugdil">
+<!ENTITY castingButton.castingLabel "Zuzer ɣef ugdil">
 <!ENTITY closedCaption.off "Yensa">
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
