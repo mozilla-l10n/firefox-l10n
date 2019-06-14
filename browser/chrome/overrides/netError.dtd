@@ -59,7 +59,7 @@
 <!ENTITY notCached.title "Document expirat">
 <!ENTITY notCached.longDesc "<p>Documentul solicitat nu este disponibil în cache-ul &brandShortName;.</p><ul><li>Ca măsură de precauție pentru securitate, &brandShortName; nu cere din nou în mod automat documente sensibile.</li><li>Dă clic pe Încearcă din nou pentru a cere iar documentul de la site-ul web.</li></ul>">
 
-<!ENTITY netOffline.title "Mod deconectat">
+<!ENTITY netOffline.title "Mod offline">
 <!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Apasă pe „Încearcă din nou” pentru comutarea pe modul conectat și încearcă să reîncarci pagina.</li>
