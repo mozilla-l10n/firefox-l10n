@@ -20,6 +20,7 @@ onboarding-button-label-get-started = Tee algust
 
 onboarding-welcome-header = Tere tulemast { -brand-short-name }i
 onboarding-welcome-body = Sul on brauser olemas nüüd.<br/>Tutvu ülejäänud { -brand-product-name }iga.
+onboarding-welcome-learn-more = Rohkem teavet eeliste kohta.
 onboarding-start-browsing-button-label = Alusta veebilehitsemist
 
 ## These are individual benefit messages shown with an image, title and
