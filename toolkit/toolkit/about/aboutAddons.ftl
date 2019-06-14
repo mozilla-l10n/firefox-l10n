@@ -268,7 +268,7 @@ go-back-button =
 
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = Extensiile și temele sunt ca un fel de aplicații pentru browser și îți permit să îți protejezi parolele, să descarci videoclipuri, să descoperi oferte, să blochezi reclame enervante, să schimbi aspectul browserului și multe altele. Aceste programe software mici sunt adesea dezvoltate de părți terțe. Ai aici o selecție de{ -brand-product-name }<a data-l10n-name="learn-more-trigger">recomandări</a>pentru securitate, performanță și funcționalitate de excepție.
+discopane-intro = Extensiile și temele sunt ca un fel de aplicații pentru browser și îți permit să îți protejezi parolele, să descarci videoclipuri, să descoperi oferte, să blochezi reclame enervante, să schimbi aspectul browserului și multe altele. Aceste programe software mici sunt adesea dezvoltate de părți terțe. Iată o selecție pe care { -brand-product-name } <a data-l10n-name="learn-more-trigger">o recomandă</a> pentru securitate, performanță și funcționalitate de excepție.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Unele dintre aceste recomandări sunt personalizate în baza altor extensii pe care le-ai instalat, a preferințelor de profil și a statisticilor de utilizare.
 discopane-notice-learn-more = Află mai multe
@@ -363,3 +363,6 @@ release-notes-error = Ne pare rău, dar a intervenit o eroare la încărcarea no
 addon-permissions-empty = Această extensie nu necesită nicio permisiune
 recommended-extensions-heading = Extensii recomandate
 recommended-themes-heading = Teme recomandate
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Te simți creativ? <a data-l10n-name="link">Construiește-ți propria temă cu Firefox Color.</a>

@@ -371,7 +371,7 @@ home-new-windows-tabs-description2 = Alege ce vezi când deschizi pagina de star
 
 ## Home Section - Home Page Customization
 
-home-homepage-mode-label = Pagina de start și ferestrele noi
+home-homepage-mode-label = Pagină de start și ferestre noi
 home-newtabs-mode-label = File noi
 home-restore-defaults =
     .label = Restaurează valorile implicite
