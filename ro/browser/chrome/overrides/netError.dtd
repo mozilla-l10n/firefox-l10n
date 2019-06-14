@@ -61,9 +61,10 @@
 
 <!ENTITY netOffline.title "Mod offline">
 <!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Apasă pe „Încearcă din nou” pentru comutarea pe modul conectat și încearcă să reîncarci pagina.</li>
-</ul>">
+<ul> 
+  <li>Apasă pe „Încearcă din nou” pentru a comuta la modul online și a reîncărca pagina.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Eroare în codarea conținutului">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Te rugăm să contactezi proprietarii site-ului web pentru a-i informa despre această problemă.</li> </ul>">
