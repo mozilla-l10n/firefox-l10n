@@ -64,6 +64,6 @@ abuse-report-broken-suggestions-extension = Pare că ai identificat o defecțiun
 abuse-report-broken-suggestions-theme = Pare că ai identificat o defecțiune. În plus față de transmiterea unei raportări aici, cea mai bună cale de rezolvare a unei probleme de funcționalitate este să contactezi dezvoltatorul temei. <a data-l10n-name="support-link">Intră pe site-ul temei</a> pentru a obține datele de contact ale dezvoltatorului.
 abuse-report-policy-reason = Conținut ofensiv, violent sau ilegal
 abuse-report-policy-suggestions = Notă: Aspectele legate de drepturile de reproducere și mărcile comerciale trebuie raportate printr-o procedură separată. <a data-l10n-name="report-infringement-link">Folosește aceste instrucțiuni</a> ca să raportezi problema.
-abuse-report-unwanted-reason = Nu am vrut niciodată extensia aceasta și nu mai pot scăpa de ea
+abuse-report-unwanted-reason = Nu am vrut niciodată această extensie și nu pot scăpa de ea
 abuse-report-unwanted-example = Exemplu: A fost instalată de o aplicație fără permisiunea mea
 abuse-report-other-reason = Altceva
