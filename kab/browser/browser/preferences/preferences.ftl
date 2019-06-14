@@ -345,7 +345,7 @@ network-proxy-connection-description = Swel amek { -brand-short-name } ad iqqen 
 network-proxy-connection-learn-more = Issin ugar
 network-proxy-connection-settings =
     .label = Iɣewwaṛen…
-    .accesskey = e
+    .accesskey = I
 
 ## Home Section
 
@@ -598,7 +598,7 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Inagan n tuqna akked isefka n usmel
-sitedata-total-size-calculating = Asiḍen n teɣzi n isefka akked tuγzi n tuffirt…
+sitedata-total-size-calculating = Asiḍen n teɣzi n yisefka akked tuɣzi n tuffirt…
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
