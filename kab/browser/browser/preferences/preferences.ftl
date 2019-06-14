@@ -150,7 +150,7 @@ warn-on-close-multiple-tabs =
     .label = Lɣu ticki medlen deqs n yiccaren
     .accesskey = u
 warn-on-open-many-tabs =
-    .label = Lɣu-yid ticki ilukkez { -brand-short-name } ma ldin aṭas n yiccaren
+    .label = Lɣu-id ticki ẓẓay { -brand-short-name } ma ldin ddeqs n yiccaren
     .accesskey = L
 switch-links-to-new-tabs =
     .label = Ticki ad ldiɣ aseɣwen deg iccer amaynut, ddu ɣur-s imir
@@ -308,8 +308,8 @@ performance-allow-hw-accel =
     .accesskey = q
 performance-limit-content-process-option = Azal afellay n ukala n ugbur
     .accesskey = Y
-performance-limit-content-process-enabled-desc = Ikalan n ugbur-nniḍen zemren ad qaεḍen ugar tamellit di lawan n useqdec n waṭas acaren, maca akka ad iseqdec aṭas n tkatut.
-performance-limit-content-process-blocked-desc = Tzemreḍ kan ad tesnifleḍ amḍan n ugbur n ukala akked ugetakala { -brand-short-name }. <a data-l10n-name="learn-more">Issin amek ad tsneqdeḍ ma yella agetakala yermed</a>
+performance-limit-content-process-enabled-desc = Ikalan n ugbur-nniḍen zemren ad qaεḍen ugar tamellit di lawan n useqdec n waṭas n waccaren, maca akka ad iseqdec aṭas n tkatut.
+performance-limit-content-process-blocked-desc = Tzemreḍ kan ad tesnifleḍ amḍan n ugbur n ukala akked ugetakala { -brand-short-name }. <a data-l10n-name="learn-more">Issin amek ara tesneqdeḍ ma yella agetakala yermed</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -350,7 +350,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Isfuyla d iccaren imaynuten
-home-new-windows-tabs-description2 = Fren ayen ara d-yettwaseknen ticki telḍiḍ asebter agejdan, ifuyla imaynuten neɣ iccaren imaynuten.
+home-new-windows-tabs-description2 = Fren ayen ara d-yettwaseknen ticki telḍiḍ asebter agejdan, ifuyla imaynuten neɣ accaren imaynuten.
 
 ## Home Section - Home Page Customization
 
@@ -602,7 +602,7 @@ sitedata-total-size-calculating = Asiḍen n teɣzi n yisefka akked tuɣzi n tuf
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Tskelseḍ inagan n tuqna,isefka n usmel akked  tuffirt seqdacen akka tura { $value } { $unit } seg adeg n tallunt n tkatut.
+sitedata-total-size = Tskelseḍ inagan n tuqqna, isefka n usmel, daɣen tuffirt tesseqdac akka tura { $value } { $unit } seg adeg n tallunt n tkatut n uḍebsi.
 sitedata-learn-more = Lmed ugar
 sitedata-delete-on-close =
     .label = Mdel inagan n tuqqna akk d isefka n usmel ticki { -brand-short-name } yettwamdel
