@@ -50,7 +50,11 @@
 <!ENTITY notCached.longDesc "<p>Documentul cerut nu este disponibil în cache.</p><ul><li>Ca o măsură de securitate, &brandShortName; nu cere din nou automat documente confidențiale.</li><li>Clic pe „Încearcă din nou” pentru a cere din nou documentul de la site-ul web.</li></ul>">
 
 <!ENTITY netOffline.title "Mod offline">
-<!ENTITY netOffline.longDesc2 "<ul> <li>Apasă pe „Încearcă din nou” pentru a comuta la modul online și a reîncărca pagina.</li> </ul>">
+<!ENTITY netOffline.longDesc2 "
+<ul> 
+  <li>Apasă pe „Încearcă din nou” pentru a comuta la modul online și a reîncărca pagina.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Eroare de codare a conținutului">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Te rugăm să contactezi proprietarii site-ului web pentru a-i informa despre această problemă.</li> </ul>">

@@ -14,4 +14,4 @@
 <!ENTITY descriptionInput.accessKey "D">
 <!ENTITY locationNewPage.label "[Pagină nouă, nesalvată încă]">
 <!ENTITY EditHEADSource1.label "Utilizatori avansați:">
-<!ENTITY EditHEADSource2.label "Pentru a edita alte conținuturi din regiunea &lt;head&gt;, folosește &ldquor;Sursă HTML&rdquo; din meniul de vizualizare sau din bara modurilor de editare.">
+<!ENTITY EditHEADSource2.label "Pentru a edita alte conținuturi din regiunea &lt;head&gt;, folosește „Sursă HTML” din meniul de vizualizare sau din bara modurilor de editare.">

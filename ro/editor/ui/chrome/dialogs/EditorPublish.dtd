@@ -31,11 +31,11 @@
 <!ENTITY pageTitle.label              "Titlu pagină:">
 <!ENTITY pageTitle.accesskey          "T">
 <!ENTITY pageTitle.tooltip            "Introdu un titlu care să identifice pagina în fereastră și în marcaje">
-<!ENTITY pageTitleExample.label       "ex.: &ldquor;Pagina mea de web&rdquo;">
+<!ENTITY pageTitleExample.label       "ex.: „Pagina mea de web”">
 <!ENTITY filename.label               "Denumire fișier:">
 <!ENTITY filename.accesskey           "N">
 <!ENTITY filename.tooltip             "Introdu o denumire pentru acest fișier, adăugând „.html” pentru pagini web">
-<!ENTITY filenameExample.label        "ex.: &ldquor;pagina mea.html&rdquo;">
+<!ENTITY filenameExample.label        "ex.: „pagina mea.html”">
 <!ENTITY setDefaultButton.label       "Setează ca implicit">
 <!ENTITY setDefaultButton.accesskey   "I">
 <!ENTITY removeButton.label           "Elimină site-ul">

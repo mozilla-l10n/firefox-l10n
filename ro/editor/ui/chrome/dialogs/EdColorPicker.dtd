@@ -8,7 +8,7 @@
 <!ENTITY chooseColor1.label "Alege o culoare:">
 <!ENTITY chooseColor2.label "Introdu un șir de culoare HTML">
 <!ENTITY chooseColor2.accessKey "H">
-<!ENTITY setColorExample.label "(ex.: &ldquor;#0000ff&rdquo; sau &ldquor;blue&rdquo;):">
+<!ENTITY setColorExample.label "(ex.: „#0000ff” sau „blue”):">
 <!ENTITY default.label "Implicit">
 <!ENTITY default.accessKey "I">
 <!ENTITY palette.label "Paletă:">
