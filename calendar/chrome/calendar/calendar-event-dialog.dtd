@@ -249,7 +249,7 @@
 <!ENTITY event.reminder.5minutes.before.label             "cu 5 minute înainte" >
 <!ENTITY event.reminder.15minutes.before.label            "cu 15 minute înainte" >
 <!ENTITY event.reminder.30minutes.before.label            "cu 30 de minute înainte" >
-<!ENTITY event.reminder.1hour.before.label                "cu o oră înainte" >
+<!ENTITY event.reminder.1hour.before.label                "cu 1 oră înainte" >
 <!ENTITY event.reminder.2hours.before.label               "cu 2 ore înainte" >
 <!ENTITY event.reminder.12hours.before.label              "cu 12 ore înainte" >
 <!ENTITY event.reminder.1day.before.label                 "cu 1 zi înainte" >
