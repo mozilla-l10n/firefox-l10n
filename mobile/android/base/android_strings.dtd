@@ -3,19 +3,37 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "ସ୍ୱାଗତ">
+<!ENTITY firstrun_urlbar_message2 "&brandShortName;କୁ ଚୟନ କରିଥିବାରୁ ଧନ୍ୟବାଦ">
+<!ENTITY newfirstrun_urlbar_message "&brandShortName;କୁ ସ୍ୱାଗତ">
 <!ENTITY firstrun_urlbar_subtext2 "ମାଗଣା ଓ ଖୋଲା ୱେବ ପାଇଁ ପ୍ରତିଜ୍ଞାବଦ୍ଧ ଅଣଲାଭକାରୀ ସଂଗଠନ Mozilla ତିଆରି ଏକ ଆଧୁନିକ ମୋବାଇଲ ବ୍ରାଉଜର ।">
+<!ENTITY newfirstrun_urlbar_subtext "ତୀବ୍ର, ଗୋପନୀୟ ଏବଂ ଆପଣଙ୍କର ସପକ୍ଷରେ">
 <!ENTITY firstrun_panel_title_privacy "ଗୋପନୀୟତା">
 <!ENTITY firstrun_privacy_message "ଏଭଳି ବ୍ରାଉଜ କରନଫତୁ ଯେମିତି କେହି ଦେଖିନପାରେ">
+<!ENTITY firstrun_privacy_subtext "ଆପଣ ବ୍ରାଉଜ କରୁଥିବା ସମୟରେ ଗୋପନ ବ୍ରାଉଜିଂ ଆପଣଙ୍କୁ ଅନୁସାରଣକାରୀମାନଙ୍କଠାରୁ ରକ୍ଷା କରିଥାଏ ଏବଂ ଆପଣ କଣ କଣ ଗୋପନ ବ୍ରାଉଜିଂରେ ଦେଖିଲେ ତାହାର ଇତିହାସ ମନେରଖେ ନାହିଁ । ">
 <!ENTITY newfirstrun_privacy_subtext "ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଂ ଅନଲାଇନରେ ଆପଣଙ୍କ ଅନୁସରଣକାରୀ ବିଜ୍ଞାପନ ଟ୍ର୍ଯାକର ବ୍ଲକ କରେ ।">
+<!ENTITY firstrun_panel_title_customize "ସାଜସଜ୍ଜା">
+<!ENTITY firstrun_customize_message "&brandShortName;କୁ ଆପଣଙ୍କର ନିଜର କରନ୍ତୁ">
+<!ENTITY firstrun_bookmarks_title "ଇତିହାସ">
+<!ENTITY firstrun_data_title "ତଥ୍ୟ">
+<!ENTITY firstrun_data_message "କମ ତଥ୍ୟ, ଅଧିକ ସଞ୍ଚୟ">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message2 "ଯେଉଁଠାରୁ ଛାଡ଼ିଥିଲେ ସେଠାରୁ ଧରନ୍ତୁ">
+<!ENTITY firstrun_signin_message "ସଂଯୋଗ କରି, ଆରମ୍ଭ କରନ୍ତୁ">
+<!ENTITY firstrun_signin_button "ସମୟାନୁସାମୟିକ ହେବାପାଇଁ ଲଗ ଇନ କରନ୍ତୁ">
+<!ENTITY newfirstrun_signin_button "ସମୟାନୁସାମୟିକକୁ ଚାଲୁ କରନ୍ତୁ">
+<!ENTITY updatednewfirstrun_signin_button "&brandShortName;କୁ ଲଗ ଇନ କରନ୍ତୁ">
 <!ENTITY  onboard_start_button_browser "ବ୍ରାଉଜିଙ୍ଗ ଆରମ୍ଭ କରନ୍ତୁ">
+<!ENTITY firstrun_button_notnow "ବର୍ତ୍ତମାନ ନୁହେଁ">
 <!ENTITY firstrun_button_next "ପର">
 
 <!ENTITY firstrun_tabqueue_title "ଲିଙ୍କଗୁଡ଼ିକ">
 
+<!ENTITY firstrun_readerview_title "ଅନୁଚ୍ଛେଦଗୁଡ଼ିକ">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+<!ENTITY firstrun_account_title "ଆପଣ">
+<!ENTITY firstrun_account_message "ଅନ୍ୟ ଏକ ଉପକରଣରେ &brandShortName;କୁ ରଖିଛନ୍ତି କି?">
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName;ର ଏହି ସରଳ ସଂସ୍କରଣରେ ନିରାପଦ ରହନ୍ତୁ ଓ ନିୟନ୍ତ୍ରଣରେ ରହନ୍ତୁ ।">
 
@@ -27,6 +45,7 @@
 <!ENTITY  switch_to_tab "ଆଉ ଏକ ଟ୍ୟାବକୁ ଯାଆନ୍ତୁ">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "ଅଫଲାଇନ ଭର୍ସନ ଦେଖାଉଛି">
 
 <!ENTITY  crash_reporter_title "&brandShortName; ବିନାଶ ଖବରକାରୀ">
 <!ENTITY  crash_message2 "&brandShortName; ଅସୁବିଧା ଥିବା ହେତୁ ବନ୍ଦ ହୋଇଗଲା । ଆପଣଙ୍କ ଟ୍ୟାବମାନ ପୁନରାରମ୍ଭ କଲାବେଳକୁ &brandShortName;ରେ ତାଲିକାଭୁକ୍ତ ହୋଇଥିବ ।">
@@ -43,6 +62,8 @@
 
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; ଅକାରଣେ ବନ୍ଦ ହୋଇଗଲା">
+<!ENTITY  crash_notification_negative_button_text "ଅଗ୍ରାହ୍ୟ କରନ୍ତୁ">
 
 <!ENTITY url_bar_default_text2 "ଠିକଣା ଖୋଜନ୍ତୁ ଅଥବା ଲେଖନ୍ତୁ">
 
@@ -72,9 +93,13 @@
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "ସ୍କ୍ରିନ୍‌ସଟ୍‌ଗୁଡିକ">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "ପଠନ ତାଲିକା">
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
+<!ENTITY bookmark_folder_items "&formatD; ଜିନିଷଗୁଡ଼ିକ">
+<!ENTITY bookmark_folder_one_item "1ଦ୍ରବ୍ୟ">
 
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
