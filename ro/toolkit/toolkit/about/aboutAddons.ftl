@@ -340,15 +340,15 @@ pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</sp
 pending-uninstall-undo-button = Anulează
 addon-detail-updates-label = Permite actualizările automate
 addon-detail-updates-radio-default = Implicit
-addon-detail-updates-radio-on = Activat
-addon-detail-updates-radio-off = Dezactivat
+addon-detail-updates-radio-on = Activate
+addon-detail-updates-radio-off = Dezactivate
 addon-detail-update-check-label = Caută actualizări
 install-update-button = Actualizare
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Permis în ferestre private
-addon-detail-private-browsing-help = Când are accesul permis, extensia va avea acces la activitățile tale online în navigarea privată.<a data-l10n-name="learn-more">Află mai multe</a>
+addon-detail-private-browsing-help = Când are accesul permis, extensia va avea acces la activitățile tale online în navigarea privată. <a data-l10n-name="learn-more">Află mai multe</a>
 addon-detail-private-browsing-allow = Permite
 addon-detail-private-browsing-disallow = Nu permite
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
