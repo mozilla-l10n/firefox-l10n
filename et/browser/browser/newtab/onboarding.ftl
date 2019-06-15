@@ -33,6 +33,9 @@ onboarding-start-browsing-button-label = Alusta veebilehitsemist
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = Kasulikud tooted
+onboarding-benefit-products-text = Saa asjad tehtud perekonna tööriistadega, mis hindavad sinu privaatsust kõigis sinu seadmetes.
+onboarding-benefit-knowledge-title = Praktilised teadmised
 
 ## These strings belong to the individual onboarding messages.
 
