@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Enrollañ ar c'hemmoù
     .accesskey = E
+permissions-autoplay-menu = Dre ziouer evit an holl lec'hiennoù:
 permissions-searchbox =
     .placeholder = Klask lec'hiennoù
+permissions-capabilities-autoplay-allow =
+    .label = Aotren aodio ha video
+permissions-capabilities-autoplay-block =
+    .label = Stankañ an aodio
+permissions-capabilities-autoplay-blockall =
+    .label = Stankañ an aodio ha video
 permissions-capabilities-allow =
     .label = Aotren
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = Aotren
 permissions-capabilities-listitem-block =
     .value = Herzel
-permissions-capabilities-listitem-allow-first-party =
-    .value = Aotren evit an domani pennañ nemetken
 permissions-capabilities-listitem-allow-session =
     .value = Aotren evit an estez
 
@@ -58,10 +63,6 @@ permissions-invalid-uri-label = Roit un anv ostiz talvoudek, mar plij
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Nemedennoù - Gwarez heuliañ
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Diweredekaet ho peus ar gwarez heuliañ war al lec'hiennoù-mañ.
 permissions-exceptions-content-blocking-window =
     .title = Nemedennoù - stankadur endalc'had
     .style = { permissions-window.style }
@@ -101,6 +102,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Nemedennoù - Lenn emgefreek
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Gallout a rit despizañ pe lec'hiennoù a zo bepred aotreet da lenn mediaoù ent emgefreek gant ar son, hag ar re n'int morse aotreet. Biziatait chomlec'h al lec'hienn a fell deoc'h merañ ha klikit war Stankañ pe Aotren.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Arventennoù - lenn emgefreek
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Gallout a rit merañ al lec'hiennoù na heuliont ket hoc'h arventennoù lenn emgefreek dre ziouer amañ.
 
 ## Site Permissions - Notifications
 

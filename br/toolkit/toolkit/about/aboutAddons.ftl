@@ -95,7 +95,7 @@ detail-update-manual =
 detail-private-browsing-label = Lañsañ en ur prenestr prevez
 detail-private-browsing-description2 = P'eo aotreet e c'hall an askouezh haeziñ hoc'h oberiantizoù enlinenn er merdeiñ prevez. <label data-l10n-name="detail-private-browsing-learn-more">Gouzout hiroc'h</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
-# cannot be overriden by the user.
+# cannot be overridden by the user.
 detail-private-disallowed-label = N'eo ket aotreet er prenestroù prevez
 detail-private-disallowed-description = An askouezh-mañ n'eo ket lañset er merdeiñ prevez. <label data-l10n-name="detail-private-browsing-learn-more">Gouzout hiroc'h</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
@@ -149,6 +149,7 @@ legacy-warning-show-legacy = Diskouez an askouezhioù diamzeret
 legacy-extensions =
     .value = Askouezhioù diamzeret
 legacy-extensions-description = An askouezhioù-mañ ne glotont ket kenn gant skouerioù { -brand-short-name } ha diweredekaet int bet. <label data-l10n-name="legacy-learn-more">Gouzout hiroc'h a-zivout ar c'hemmoù en askouezhioù</label>
+private-browsing-description2 = { -brand-short-name } a cheñch an doare ma za an askouezhioù en-dro er merdeiñ prevez. An askouezhioù nevez a ouzhpennot da { -brand-short-name } na vezint ket lañset dre ziouer er prenestroù prevez. Ma ne aotreit ket anezho en arventennoù n'ez int ket en-dro er merdeiñ prevez, ha n'hallint ket haeziñ hoc'h oberiantizoù enlinenn aze. Graet hon eus kement-se evit derc'hel ho merdeiñ prevez evit gwir. <label data-l10n-name="private-browsing-learn-more">Deskit penaos merañ arventennoù an askouezhioù</label>
 extensions-view-discover =
     .name = Kaout askouezhioù
     .tooltiptext = { extensions-view-discover.name }
@@ -232,7 +233,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Merañ ar berradennoù askouezhioù
     .accesskey = b
-shortcuts-empty-message = N'eus berradenn ebet evit an askouezh-mañ.
 shortcuts-no-addons = N'ho peus askouezh ebet gweredekaet.
 shortcuts-no-commands = An askouezhioù da-heul n'ho deus ket a verradenn:
 shortcuts-input =
@@ -260,6 +260,9 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Diskouez nebeutoc'h
 go-back-button =
     .tooltiptext = Distreiñ
+
+## Recommended add-ons page
+
 
 ## Add-on actions
 
@@ -289,3 +292,6 @@ addon-detail-reviews-link =
         [many] { $numberOfReviews } a alioù
        *[other] { $numberOfReviews } ali
     }
+
+## Pending uninstall message bar
+
