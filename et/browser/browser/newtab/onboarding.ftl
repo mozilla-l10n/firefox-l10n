@@ -77,6 +77,14 @@ onboarding-browse-privately-title = Lehitse veebi privaatselt
 onboarding-browse-privately-text = Privaatse veebilehitsemise lõpetamisel kustutatakse otsingu ja lehitsemise ajalugu, et hoida sinu tegevus teiste arvuti kasutajate eest salajas.
 onboarding-browse-privately-button = Ava privaatne aken
 onboarding-firefox-send-title = Hoia oma jagatud failid privaatsena
+onboarding-firefox-send-text2 = Et jagada oma faile krüptitult ja automaatselt aeguva lingi abil, laadi need üles teenusesse { -send-brand-name }.
+onboarding-firefox-send-button = Proovi teenust { -send-brand-name }
+onboarding-mobile-phone-title = Hangi { -brand-product-name } oma telefonile
+onboarding-mobile-phone-text = Laadi alla { -brand-product-name } iOSile või Androidile ja sünkroniseeri oma andmed kõigi seadmete vahel.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Laadi alla mobiilne brauser
+onboarding-send-tabs-title = Saada seadmete vahel kaarte kohe
 
 ## Message strings belonging to the Return to AMO flow
 
