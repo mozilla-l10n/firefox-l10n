@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Değişiklikleri kaydet
     .accesskey = D
+permissions-autoplay-menu = Tüm web siteler için varsayılan:
 permissions-searchbox =
     .placeholder = Web sitesi ara
+permissions-capabilities-autoplay-allow =
+    .label = Ses ve videoya izin ver
+permissions-capabilities-autoplay-block =
+    .label = Sesi engelle
+permissions-capabilities-autoplay-blockall =
+    .label = Ses ve videoyu engelle
 permissions-capabilities-allow =
     .label = İzin ver
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = İzin ver
 permissions-capabilities-listitem-block =
     .value = Engelle
-permissions-capabilities-listitem-allow-first-party =
-    .value = Yalnızca ilk partiye izin ver
 permissions-capabilities-listitem-allow-session =
     .value = Oturum boyunca izin ver
 
@@ -58,10 +63,6 @@ permissions-invalid-uri-label = Lütfen geçerli bir sunucu adı girin
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = İstisnalar - İzlenme Koruması
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Bu sitelerde İzlenme Koruması’nı devre dışı bıraktınız.
 permissions-exceptions-content-blocking-window =
     .title = İstisnalar - İçerik Engelleme
     .style = { permissions-window.style }
@@ -101,6 +102,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = İstisnalar - Otomatik Oynat
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Hangi sitelerin her zaman sesli medyaları otomatik oynatabileceğini veya asla oynatamayacağını belirleyebilirsiniz. Yönetmek istediğiniz sitenin tam adresini yazdıktan sonra “Engelle” veya “İzin ver”e tıklayın.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Ayarlar - Otomatik Oynat
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Varsayılan otomatik oynatma ayarlarınıza uymasını istemediğiniz siteleri buradan yönetebilirsiniz.
 
 ## Site Permissions - Notifications
 

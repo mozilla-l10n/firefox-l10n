@@ -82,9 +82,6 @@ about-debugging-refresh-usb-devices-button = Cihazları yenile
 about-debugging-setup-title = Kurulum
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Cihazınızla uzaktan hata ayıklamak istediğiniz bağlantı yöntemini ayarlayın.
-# Link displayed in the Setup page that leads to MDN page with list of supported devices.
-# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
-about-debugging-setup-link-android-devices = Desteklenen Android cihazların listesini göster
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Bu { -brand-shorter-name } sürümünde sekmelerde, eklentilerde ve service worker’larda hata ayıklamak için <a>{ about-debugging-this-firefox-runtime-name }</a> bölümünü kullanabilirsiniz.
 # Title of the heading Connect section of the Setup page.
@@ -105,12 +102,6 @@ about-debugging-setup-usb-updating-button = Güncelleniyor…
 about-debugging-setup-usb-status-enabled = Etkin
 about-debugging-setup-usb-status-disabled = Devre dışı
 about-debugging-setup-usb-status-updating = Güncelleniyor…
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu = Android cihazınızda Geliştirici menüsünü etkinleştirin. <a>Nasıl yapıldığını öğrenin</a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug = Android Geliştirici menüsünde USB hata ayıklamayı etkinleştirin. <a>Nasıl yapıldığını öğrenin</a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox = Android cihazınızdaki Firefox’ta USB hata ayıklamayı etkinleştirin. <a>Nasıl yapıldığını öğrenin</a>
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Android cihazını bilgisayarınıza bağlayın.
 # Network section of the Setup page
@@ -162,9 +153,6 @@ about-debugging-runtime-other-workers =
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = İşlemler
-# Label of the button opening the performance profiler panel in runtime pages for remote
-# runtimes.
-about-debugging-runtime-profile-button = Profil çalışma zamanı
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
@@ -201,13 +189,6 @@ about-debugging-connection-prompt-enable-button = Bağlantı istemini etkinleşt
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = Bağlantı istemini devre dışı bırak
-# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
-about-debugging-profiler-dialog-title = Performans profilleyici
-# Label of a checkbox displayed in the runtime page for "This Firefox".
-# This checkbox will toggle preferences that enable local addon debugging.
-# The "Learn more" link points to MDN.
-# https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
-about-debugging-extension-debug-setting-label = Eklentilerde hata ayıklamayı etkinleştir. <a>Daha fazla bilgi alın</a>
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
@@ -296,3 +277,5 @@ about-debugging-main-process-description2 = Hedef tarayıcının ana işlemi
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Mesajı kapat
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = Ayrıntılar

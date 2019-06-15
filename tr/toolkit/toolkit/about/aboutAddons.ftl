@@ -95,7 +95,7 @@ detail-update-manual =
 detail-private-browsing-label = Gizli pencerede çalışabilir
 detail-private-browsing-description2 = Bu izni verdiğinizde eklenti, gizli gezinti sırasında yaptıklarınızı görebilecektir. <label data-l10n-name="detail-private-browsing-learn-more">Daha fazla bilgi alın</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
-# cannot be overriden by the user.
+# cannot be overridden by the user.
 detail-private-disallowed-label = Gizli pencerelerde izin verilmiyor
 detail-private-disallowed-description = Gizli gezinti sırasında bu eklenti çalışmaz. <label data-l10n-name="detail-private-browsing-learn-more">Daha fazla bilgi alın</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
@@ -325,6 +325,9 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> kaldırıldı.
 pending-uninstall-undo-button = Geri al
 addon-detail-updates-label = Otomatik güncellemelere izin ver
 addon-detail-updates-radio-default = Varsayılan
@@ -334,8 +337,15 @@ addon-detail-update-check-label = Güncellemeleri denetle
 install-update-button = Güncelle
 addon-detail-private-browsing-allow = İzin ver
 addon-detail-private-browsing-disallow = İzin verme
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Öneriliyor
+    .alt = Öneriliyor
 available-updates-heading = Mevcut güncellemeler
 recent-updates-heading = Son güncellenenler
 release-notes-loading = Yükleniyor…
 release-notes-error = Üzgünüz, sürüm notları yüklenirken bir hata meydana geldi.
 addon-permissions-empty = Bu eklenti herhangi bir izin gerektirmiyor
+recommended-extensions-heading = Önerilen eklentiler
+recommended-themes-heading = Önerilen temalar
