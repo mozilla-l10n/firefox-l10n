@@ -5,11 +5,17 @@
 <!ENTITY position.label             "Posició:">
 <!ENTITY tile.label                 "Mosaic">
 <!ENTITY center.label               "Centre">
-<!ENTITY stretch.label              "Amplia">
-<!ENTITY fill.label                 "Omple">
+<!ENTITY stretch.label              "Estira">
+<!ENTITY fill.label                 "Emplena">
 <!ENTITY fit.label                  "Ajusta">
-<!ENTITY preview.label              "Previsualització">
+<!-- LOCALIZATION NOTE (span.label): This refers to the wallpaper "spanning"
+                       multiple monitors when the user has more than one. Only
+                       some of the entire image will be on each monitor.
+                       This should ideally match the wording in Windows' own
+                       Desktop Background settings page. -->
+<!ENTITY span.label                 "Expandeix">
 <!ENTITY color.label                "Color:">
 <!ENTITY setDesktopBackground.title "Defineix com a fons d'escriptori">
 <!ENTITY openDesktopPrefs.label     "Obre les preferències de l'escriptori">
 <!ENTITY closeWindow.key            "w">
+<!ENTITY previewUnavailable         "La previsualització no està disponible">

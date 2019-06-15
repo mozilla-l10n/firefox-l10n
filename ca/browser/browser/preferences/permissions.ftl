@@ -38,11 +38,11 @@ permissions-autoplay-menu = Per defecte per a tots els llocs web:
 permissions-searchbox =
     .placeholder = Cerca el lloc web
 permissions-capabilities-autoplay-allow =
-    .label = Permet àudio i vídeo
+    .label = Permet l'àudio i el vídeo
 permissions-capabilities-autoplay-block =
-    .label = Bloca àudio
+    .label = Bloca l'àudio
 permissions-capabilities-autoplay-blockall =
-    .label = Bloca àudio i vídeo
+    .label = Bloca l'àudio i el vídeo
 permissions-capabilities-allow =
     .label = Permet
 permissions-capabilities-block =
@@ -108,6 +108,7 @@ permissions-exceptions-autoplay-media-desc2 = Podeu especificar quins llocs web 
 permissions-site-autoplay-window =
     .title = Paràmetres - Reproducció automàtica
     .style = { permissions-window.style }
+permissions-site-autoplay-desc = Aquí podeu gestionar els llocs que no segueixen els vostres paràmetres de reproducció automàtica per defecte.
 
 ## Site Permissions - Notifications
 
