@@ -84,6 +84,8 @@ about-debugging-setup-title = Sąranka
 about-debugging-setup-intro = Konfigūruokite prisijungimo būdą, kuriuo norite derinti savo įrenginį per nuotolį.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Naudokite <a>„{ about-debugging-this-firefox-runtime-name }“</a>, norėdami su šia „{ -brand-shorter-name }“ laida derinti korteles, priedus, aptarnavimo scenarijus.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Norėdami derinti priedus ir aptarnavimo scenarijus su šia „{ -brand-shorter-name }“ laida, naudokite <a>{ about-debugging-this-firefox-runtime-name }</a>.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Prijungti įrenginį
 # USB section of the Setup page
