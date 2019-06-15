@@ -294,6 +294,14 @@ update-pref-write-failure-title = Įrašymo klaida
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Nepavyko įrašyti nuostatos. Negalima įrašyti į failą: { $path }
 update-setting-write-failure-title = Klaida įrašant naujinimų nuostatas
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    „{ -brand-short-name }“ susidūrė su klaida ir neįrašė šio pakeitimo. Atminkite, kad norint pakeisti šią naujinimų nuostatą, reikalingas leidimas rašyti į žemiau nurodytą failą. Jūs, arba sistemos prižiūrėtojas, gali pabandyti tai sutvarkyti, suteikiant visišką šio failo valdymo teisę „Users“ grupei.
+    
+    Nepavyko rašymas į failą: { $path }
 update-in-progress-title = Vyksta naujinimas
 update-in-progress-message = Ar norite, kad „{ -brand-short-name }“ tęstų šį naujinimą?
 update-in-progress-ok-button = &Atsisakyti
@@ -758,6 +766,10 @@ permissions-block-autoplay-media2 =
 permissions-block-autoplay-media-exceptions =
     .label = Išimtys…
     .accesskey = I
+permissions-autoplay = Automatinis grojimas
+permissions-autoplay-settings =
+    .label = Nuostatos…
+    .accesskey = t
 permissions-block-popups =
     .label = Neleisti iškylančiųjų langų
     .accesskey = N
