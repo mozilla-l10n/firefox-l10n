@@ -67,6 +67,11 @@ onboarding-tracking-protection-title2 = Jälitamisvastane kaitse
 onboarding-tracking-protection-text2 = { -brand-short-name } aitab takistada sinu tegevuse jälitamist internetis, tehes reklaamidel sinu järgimise võrgus keerulisemaks.
 onboarding-tracking-protection-button2 = Kuidas see töötab?
 onboarding-data-sync-title = Võta oma sätted endaga kaasa
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Sünkroniseeri oma järjehoidjad, paroolid ja muud asjad igal pool, kus kasutad { -brand-product-name }i.
+onboarding-data-sync-button2 = Logi { -sync-brand-short-name }i sisse
+onboarding-firefox-monitor-title = Hoia end kursis andmeleketega
+onboarding-firefox-monitor-text = { -monitor-brand-name } monitoorib sinu e-posti aadressi esinemist andmeleketes ja annab teada, kui sinu aadress leidub mõnes lekkes.
 
 ## Message strings belonging to the Return to AMO flow
 
