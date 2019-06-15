@@ -89,7 +89,7 @@ extension-controlled-web-notifications = Asiɣzef, <img data-l10n-name="icon"/>{
 extension-controlled-default-search = Yiwen n usiɣzef, <img data-l10n-name="icon"/> { $name }, isenker allal-ik n unadi amezwer.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlled-privacy-containers = Yiwen n useɣzif, <img data-l10n-name="icon"/> { $name }, iḥwaǧ agaliz n waccaren.
+extension-controlled-privacy-containers = Yiwen n usiɣzef, <img data-l10n-name="icon"/> { $name }, iḥwaǧ agaliz n waccaren.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Asiɣzef, <img data-l10n-name="icon"/>{ $name }, isenqad aɣewwar-agi.
@@ -349,7 +349,7 @@ network-proxy-connection-settings =
 
 ## Home Section
 
-home-new-windows-tabs-header = Isfuyla d iccaren imaynuten
+home-new-windows-tabs-header = Isfuyla d yiccaren imaynuten
 home-new-windows-tabs-description2 = Fren ayen ara d-yettwaseknen ticki telḍiḍ asebter agejdan, ifuyla imaynuten neɣ accaren imaynuten.
 
 ## Home Section - Home Page Customization
