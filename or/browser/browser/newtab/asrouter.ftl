@@ -16,21 +16,6 @@ cfr-doorhanger-extension-notification = ସୁପାରିଶ:
 ## These strings are used to display the total number of
 ## users and rating for an add-on. They are shown next to each other.
 
-# Variables:
-#   $total (Number) - The rating of the add-on from 1 to 5
-cfr-doorhanger-extension-rating =
-    .tooltiptext =
-        { $total ->
-            [one] ତାରା
-           *[other] ତାରାଗୁଡ଼ିକ
-        }
-# Variables:
-#   $total (Number) - The total number of users using the add-on
-cfr-doorhanger-extension-total-users =
-    { $total ->
-        [one] ବ୍ୟବହାରକାରୀ
-       *[other] ବ୍ୟବହାରକାରୀଗଣ
-    }
 
 ## These messages are steps on how to use the feature and are shown together.
 
