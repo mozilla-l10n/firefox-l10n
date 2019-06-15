@@ -4,6 +4,7 @@
 
 <!ENTITY firstrun_panel_title_welcome "සාදරයෙන් පිළිගනිමු">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; තෝරාගත්තාට ස්තූතියි">
+<!ENTITY newfirstrun_urlbar_message "&brandShortName; වෙත පිළිගනිමු">
 <!ENTITY firstrun_urlbar_subtext2 "ලාභ නොලබන නිදහස් හා විවෘත ජාලයක් වෙනුවෙන් කැපවූ, නව ජංගම ගවේෂකයක් Mozilla වෙතින්.">
 <!ENTITY firstrun_panel_title_privacy "පෞද්ගලිකත්වය">
 <!ENTITY firstrun_privacy_message "කිසිවෙක් බලාගෙන නොමැති සේ ගවේෂනය කරන්න">
@@ -53,7 +54,13 @@
 <!ENTITY  crash_close_label "Close">
 <!ENTITY  crash_restart_label "&brandShortName; යළි අරඹන්න">
 
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+
 <!ENTITY url_bar_default_text2 "Search or enter address">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -88,6 +95,9 @@
 <!ENTITY bookmark_folder_updated "බහාළුම යාවත් වී ඇත">
 <!ENTITY bookmark_parent_folder "මුල් බහාළුම">
 <!ENTITY bookmark_add_folder "නව බහාළුමක් එක් කරන්න">
+
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
 
 <!ENTITY reader_saved_offline "නොබැඳිව සුරැකි">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -300,6 +310,8 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "සැකසුම් වෙත යන්න">
+<!-- Localization note (tab_queue_notification_prompt): This is the text of the default notification
+shown from Android O while a tab is being queued.-->
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -336,6 +348,8 @@
 <!ENTITY pref_zoom_force_enabled_summary "Force override so you can zoom any page">
 
 <!ENTITY pref_use_master_password "Use master password">
+<!ENTITY pref_sync_default_title "Firefox ගිණුම">
+<!ENTITY pref_sync2 "පිවිසෙන්න">
 <!ENTITY pref_import_options "ආයාත විකල්පයන්">
 <!ENTITY pref_import_android_summary "Import bookmarks and history from the native browser">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
@@ -344,14 +358,15 @@
 <!ENTITY pref_private_data_history2 "Browsing history">
 <!ENTITY pref_private_data_searchHistory "සෙවුම් ඉතිහාසය">
 <!ENTITY pref_private_data_formdata2 "ආකෘති ඉතිහාසය">
-<!ENTITY pref_private_data_passwords2 "සුරැකි පිවිසුම්">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Offline website data">
 <!ENTITY pref_private_data_siteSettings2 "Site settings">
 <!ENTITY pref_private_data_downloadFiles2 "Downloads">
 <!ENTITY pref_private_data_syncedTabs "සම්මුහු කළ ටැබ">
 
-<!ENTITY pref_default_browser "පෙරනිමි ගවේශකය කරන්න">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla සහායට පිවිසෙන්න">
 <!ENTITY pref_about_firefox "About &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">
@@ -445,6 +460,9 @@
 <!ENTITY find_next "Next">
 <!ENTITY find_close "Close">
 
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY media_sending_to "Sending to Device">
@@ -515,6 +533,8 @@
 <!ENTITY bookmark_edit_keyword "මූල පදය">
 <!ENTITY bookmark_select_folder "බහලුම තෝරන්න">
 
+<!ENTITY bookmark_edit_undo "අවලංගු">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "Site Settings">
@@ -573,6 +593,7 @@
 
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+<!ENTITY home_move_back_to_filter "ආපසු &formatS; වෙත">
 
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
@@ -599,6 +620,7 @@
 <!ENTITY filepicker_audio_title "Choose or record a sound">
 <!ENTITY filepicker_image_title "Choose or take a picture">
 <!ENTITY filepicker_video_title "Choose or record a video">
+
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "ඔබ සම්බන්ධ වූයේ..">
@@ -660,6 +682,7 @@ from Android">
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "ඉඩ දෙන්න">
 
     <!-- Guest mode -->
 <!ENTITY new_guest_session "New Guest Session">
@@ -762,13 +785,17 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY fullscreen_warning "මුළු තිරය වෙත ඇතුළු විය">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+ නිවෙස් තිරයට එක් කරන්න">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
 displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "නිවෙස් තිරයට එක් කරන්න">
+<!ENTITY pwa_continue_to_website "ජාල අඩවිය වෙත යන්න">
 
 <!-- Used by accessibility services to identify the play/pause buttons shown in the
 Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "වාදනය">
 
 <!-- Notification channels names -->
 <!ENTITY mls_notification_channel "&vendorShortName; ස්ථානීය සේවා">
