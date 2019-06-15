@@ -69,6 +69,12 @@
 <!ENTITY  crash_close_label "Kapat">
 <!ENTITY  crash_restart_label "&brandShortName; baştan başlasın">
 
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; çöktü">
+<!ENTITY  crash_notification_message "&vendorShortName;’ya bildirmek için dokunun">
+<!ENTITY  crash_notification_negative_button_text "Görmezden gel">
+
 <!ENTITY url_bar_default_text2 "Arama yapın veya adres yazın">
 
 <!-- Localization note: this text will be displayed in the Search Widget -->
@@ -110,6 +116,10 @@
 <!ENTITY bookmark_folder_updated "Dizin güncellendi">
 <!ENTITY bookmark_parent_folder "Üst dizin">
 <!ENTITY bookmark_add_folder "Yeni dizin ekle">
+
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(başlık yok)">
 
 <!ENTITY reader_saved_offline "Çevrimdışı kaydedildi">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -592,6 +602,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "Anahtar kelime">
 <!ENTITY bookmark_select_folder "Dizin seç">
 
+<!ENTITY bookmark_edit_undo "Geri al">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "Site Ayarları">
@@ -933,3 +945,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Site bildirimleri">
+<!ENTITY crash_handler_notifications_channel "&brandShortName; Çökme Raporcusu">
