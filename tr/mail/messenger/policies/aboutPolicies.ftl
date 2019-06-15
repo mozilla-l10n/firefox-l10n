@@ -7,3 +7,6 @@ about-policies-title = Kurumsal ilkeler
 active-policies-tab = Etkin
 errors-tab = Hatalar
 documentation-tab = Belgelendirme
+policy-name = İlke Adı
+policy-value = İlke Değeri
+policy-errors = İlke Hataları
