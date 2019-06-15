@@ -69,6 +69,12 @@
 <!ENTITY  crash_close_label "Serriñ">
 <!ENTITY  crash_restart_label "Adloc\&apos;hañ &brandShortName;">
 
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "Sac\&apos;het eo &brandShortName;">
+<!ENTITY  crash_notification_message "Stokit evit danevelliñ da &vendorShortName;">
+<!ENTITY  crash_notification_negative_button_text "Leuskel a-gostez">
+
 <!ENTITY url_bar_default_text2 "Bizskrivit un termen da glask pe ur chomlec\&apos;h">
 
 <!-- Localization note: this text will be displayed in the Search Widget -->
@@ -110,6 +116,10 @@
 <!ENTITY bookmark_folder_updated "Teuliad hizivaet">
 <!ENTITY bookmark_parent_folder "Teuliad kar">
 <!ENTITY bookmark_add_folder "Ouzhpennañ un teuliad">
+
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(titl ebet)">
 
 <!ENTITY reader_saved_offline "Enrollet ezlinenn">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -592,6 +602,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "Gerioù alc\&apos;hwez">
 <!ENTITY bookmark_select_folder "Dibab un teuliad">
 
+<!ENTITY bookmark_edit_undo "Dizober">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "Arventennoù al lec\&apos;hienn">
@@ -933,3 +945,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Rebuzadurioù al lec\&apos;hienn">
+<!ENTITY crash_handler_notifications_channel "Daneveller sac\&apos;hadennoù &brandShortName;">
