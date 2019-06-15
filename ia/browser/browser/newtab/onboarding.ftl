@@ -3,11 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = Saper plus
 onboarding-button-label-try-now = Proba lo subito
 onboarding-button-label-get-started = Comencia
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Benvenite a { -brand-short-name }
 onboarding-welcome-body = Tu ha recipite le navigator.<br/>Obtene le resto de { -brand-product-name }.
 onboarding-welcome-learn-more = Saper plus re le beneficios.
@@ -53,22 +63,10 @@ onboarding-ghostery-text = Naviga plus veloce, in maniera plus intelligente o pl
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Inscribe te a un { -fxaccount-brand-name } e synchronisa tu marcapaginas, contrasignos e schedas aperte ubicunque tu usa { -brand-short-name }.
-onboarding-tracking-protection-title = Controla como tu es traciate
-onboarding-tracking-protection-text = Odia tu quando le avisos publicitari te seque circum? { -brand-short-name }  te adjuta a controlar como le publicitarios tracia tu activitate online.
-# "Update" is a verb, as in "Update the existing settings", not "Options about
-# updates".
-onboarding-tracking-protection-button =
-    { PLATFORM() ->
-        [windows] Actualisar optiones
-       *[other] Actualisar preferentias
-    }
 onboarding-tracking-protection-title2 = Protection contra le traciamento
 onboarding-tracking-protection-text2 = { -brand-short-name } impedi al sitos web de te traciar online, obstruente pro avisos publicitari te sequer circum le Web.
 onboarding-tracking-protection-button2 = Como functiona illo
 onboarding-data-sync-title = Prende tu parametros con te
-# "Sync" is short for synchronize.
-onboarding-data-sync-text = Synchronisa tu marcapaginas e contrasignos ubique tu usa { -brand-product-name }.
-onboarding-data-sync-button = Accende { -sync-brand-short-name }
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Synchronisa tu marcapaginas, contrasignos e altero ancora ubique tu usa { -brand-product-name }.
 onboarding-data-sync-button2 = Accede a { -sync-brand-short-name }
@@ -77,9 +75,8 @@ onboarding-firefox-monitor-text = { -monitor-brand-name } controla attentemente 
 onboarding-firefox-monitor-button = Inscribe te al Alertas
 onboarding-browse-privately-title = Naviga reservatemente
 onboarding-browse-privately-text = Le navigation reservate clara tu chronologia de recerca e exploration e lo mantene secrete ab quicunque usa tu computator.
-onboarding-browse-privately-button = Aperir un Fenestra reservate
+onboarding-browse-privately-button = Aperir un fenestra private
 onboarding-firefox-send-title = Mantene reservate tu files compartite
-onboarding-firefox-send-text = { -send-brand-name } protege le files que tu comparti con cryptographia bilateral e un ligamine que expira automaticamente.
 onboarding-firefox-send-text2 = Carga tu files a { -send-brand-name } pro los compartir con cryptographia bilateral e un ligamine que expira automaticamente.
 onboarding-firefox-send-button = Prova { -send-brand-name }
 onboarding-mobile-phone-title = Installa { -brand-product-name } sur tu telephono
@@ -93,17 +90,12 @@ onboarding-send-tabs-title = Invia instantaneemente schedas a te mesme
 onboarding-send-tabs-text = "Invia schedas" comparti instantaneemente paginas inter tu apparatos sin deber copiar, collar o lassar le navigator.
 onboarding-send-tabs-button = Comencia a usar "Invia schedas"
 onboarding-pocket-anywhere-title = Lege e ascolta ubicunque
-# "downtime" refers to the user's free/spare time.
-onboarding-pocket-anywhere-text = { -pocket-brand-name } salva tu favorite historias assi que tu pote leger, ascoltar e observar durante tu tempore libere, mesmo si tu es sin connexion.
 onboarding-pocket-anywhere-text2 = Salva tu contentos favorite sin connexion con le application { -pocket-brand-name } e lege, ascolta e observa quandocunque il es conveniente pro te.
 onboarding-pocket-anywhere-button = Prova { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Porta ubique con te tu contrasignos
-onboarding-lockwise-passwords-text = { -lockwise-brand-name } salva tu contrasignos in un loco secur assi que tu pote facilemente accede a tu contos.
-onboarding-lockwise-passwords-button = Discarga { -lockwise-brand-name }
 onboarding-lockwise-passwords-text2 = Mantene secur le contrasignos que tu salva e accede facilemente a tu contos con { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Discarga le app
 onboarding-facebook-container-title = Defini limites pro Facebook
-onboarding-facebook-container-text = { -facebook-container-brand-name } mantene tu identitate de Facebook separate de toto le altero, rendente plus dur traciar te ab le altere latere del Web.
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } mantene tu profilo separate de toto le altero, rende plus difficile pro Facebook te adressar con avisos publicitari.
 onboarding-facebook-container-button = Adder le extension
 
