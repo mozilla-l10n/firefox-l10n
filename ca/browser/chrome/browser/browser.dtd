@@ -132,7 +132,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
 
-
 <!ENTITY taskManagerCmd.label "Gestor de tasques">
 
 <!ENTITY goOfflineCmd.label "Treballa fora de línia">
@@ -217,13 +216,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "El vostre Firefox, a tot arreu">
+<!ENTITY fxa.signin.description.label "Accediu a les vostres adreces d'interès, historial, contrasenyes i preferències en tots els vostres dispositius.">
+<!ENTITY fxa.signin.button.label "Activa el &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "Comproveu el correu">
+<!ENTITY fxa.unverified.description.label "Heu de verificar el vostre compte abans de poder sincronitzar.">
+<!ENTITY fxa.unverified.button.label "Obre els paràmetres del &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Sessió iniciada com a">
+<!ENTITY fxa.menu.manageAccount.label "Gestiona el compte…">
+<!ENTITY fxa.menu.syncSettings.label "Paràmetres del &syncBrand.shortName.label;…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Connecta un altre dispositiu…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -326,6 +337,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Heu blocat l'ús del connector Adobe Flash en aquest lloc web.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Heu blocat l'accés MIDI per a aquest lloc web.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostra l'historial">
 
 <!ENTITY searchItem.title             "Cerca">
@@ -424,7 +436,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Preferències">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
-
 <!ENTITY clearRecentHistory.label               "Neteja l'historial recent…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
@@ -511,6 +522,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "e">
 <!ENTITY customizeMenu.removeExtension.label "Elimina l'extensió">
 <!ENTITY customizeMenu.removeExtension.accesskey "l">
+
+<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
+     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     an abuse report related to that extension. "Report" is a verb. -->
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -861,6 +876,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Aquesta pàgina s'ha carregat des d'una extensió.">
 <!ENTITY identity.insecureLoginForms2 "Les dades d'inici de sessió que introduïu en aquesta pàgina podrien estar en risc.">
 
+
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "El &brandShortName; ha blocat parts d'aquesta pàgina que no són segures.">
 <!ENTITY identity.passiveLoaded "Parts d'aquesta pàgina no són segures (com les imatges).">
@@ -878,6 +894,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Malgrat que el &brandShortName; ha blocat parts del contingut, encara hi ha contingut de la pàgina que no és segur (such as images).">
 <!ENTITY identity.description.activeLoaded "Aquest lloc web inclou contingut que no és segur (com els scripts) i la connexió no és privada.">
 <!ENTITY identity.description.activeLoaded2 "La informació que compartiu amb aquest lloc podria ser visualitzada per altres persones (com contrasenyes, missatges, targetes de crèdit, etc.).">
+
 
 <!ENTITY identity.enableMixedContentBlocking.label "Activa la protecció">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "v">

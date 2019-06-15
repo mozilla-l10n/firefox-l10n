@@ -29,8 +29,15 @@ app-basics-name = Nom
 app-basics-version = Versió
 app-basics-build-id = Identificador del muntatge
 app-basics-update-channel = Canal d'actualitzacions
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Directori d'actualització
+       *[other] Carpeta d'actualització
+    }
 app-basics-update-history = Historial d'actualitzacions
 app-basics-show-update-history = Mostra l'historial d'actualitzacions
+# Represents the path to the binary used to start the application.
+app-basics-binary = Binari de l'aplicació
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Directori del perfil
@@ -46,7 +53,6 @@ app-basics-service-workers = Processos de treball de servei registrats
 app-basics-profiles = Perfils
 app-basics-multi-process-support = Finestres multiprocés
 app-basics-enterprise-policies = Polítiques d'empresa
-app-basics-key-google = Clau de Google
 app-basics-safe-mode = Mode segur
 show-dir-label =
     { PLATFORM() ->
@@ -93,16 +99,27 @@ sandbox-sys-call-number = Crida del sistema
 sandbox-sys-call-args = Arguments
 safe-mode-title = Proveu el mode segur
 restart-in-safe-mode-label = Reinicia amb els complements inhabilitats…
+media-title = Multimèdia
 media-output-devices-title = Dispositius de sortida
 media-input-devices-title = Dispositius d'entrada
 media-device-name = Nom
 media-device-group = Grup
+media-device-vendor = Proveïdor
+media-device-state = Estat
+media-device-preferred = Preferit
 media-device-format = Format
 media-device-channels = Canals
+media-device-rate = Freqüència
 media-device-latency = Latència
 intl-title = Internacionalització i localització
 intl-app-title = Paràmetres de l'aplicació
+intl-locales-requested = Llengües sol·licitades
+intl-locales-available = Llengües disponibles
+intl-locales-supported = Llengües de l'aplicació
+intl-locales-default = Llengua per defecte
 intl-os-title = Sistema operatiu
+intl-os-prefs-system-locales = Llengües del sistema
+intl-regional-prefs = Preferències regionals
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -158,6 +175,8 @@ hardware-h264 = Descodificació H264 per maquinari
 main-thread-no-omtc = fil principal, sense OMTC
 yes = Sí
 no = No
+unknown = Desconegut
+virtual-monitor-disp = Pantalla de monitor virtual
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -165,13 +184,16 @@ no = No
 
 found = S'ha trobat
 missing = Falta
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Descripció
 gpu-vendor-id = ID del proveïdor
 gpu-device-id = ID del dispositiu
 gpu-subsys-id = ID del subsistema
 gpu-drivers = Controladors
 gpu-ram = RAM
-gpu-driver-version = Versió del controlador
+gpu-driver-vendor = Versió del controlador
+gpu-driver-version = Proveïdor del controlador
 gpu-driver-date = Data del controlador
 gpu-active = Activa
 webgl1-extensions = Extensions WebGL 1
