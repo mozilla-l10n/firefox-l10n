@@ -141,3 +141,6 @@ about-telemetry-origin-count = sayaç
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Köken Telemetrisi</a> verileri göndermeden öne şifreler. Böylece { $telemetryServerOwner } bazı şeyleri sayabilir ama hangi { -brand-product-name } tarayıcılarının bu sayıma dahil olduğunu bilemez. (<a data-l10n-name="prio-blog-link">Daha fazla bilgi alın</a>)
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = { $process } işlemi

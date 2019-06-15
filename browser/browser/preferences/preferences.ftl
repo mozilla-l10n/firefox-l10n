@@ -34,6 +34,7 @@ policies-notice =
         [windows] Kurumunuz bazı seçenekleri değiştirme olanağını devre dışı bırakmış.
        *[other] Kurumunuz bazı tercihleri değiştirme olanağını devre dışı bırakmış.
     }
+managed-notice = Tarayıcınız kuruluşunuz tarafından yönetiliyor.
 pane-general-title = Genel
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = Gizlilik ve Güvenlik
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox Hesabı
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -293,6 +290,8 @@ update-pref-write-failure-title = Yazma Hatası
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Tercih kaydedilemiyor. Dosyaya yazılamadı: { $path }
+update-setting-write-failure-title = Güncelleme tercihlerini kaydetmede hata
+update-in-progress-title = Güncelleme sürüyor
 
 ## General Section - Performance
 
@@ -528,8 +527,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Kaydet
     .accesskey = K
-sync-mobilepromo-single = Başka bir cihaz bağla
-sync-mobilepromo-multi = Cihazları yönet
 sync-connect-another-device = Başka bir cihaz bağla
 sync-manage-devices = Cihazları yönet
 sync-fxa-begin-pairing = Cihaz eşleştir
@@ -687,7 +684,6 @@ content-blocking-all-third-party-cookies = Tüm üçüncü taraf çerezlerini en
 content-blocking-cryptominers = Kripto madencileri
 content-blocking-fingerprinters = Parmak izi toplayıcılar
 content-blocking-warning-title = Dikkat!
-content-blocking-warning-desc = Çerezleri ve takipçileri engellemeniz bazı web sitelerinin düzgün çalışmamasına yol açabilir. Güvendiğiniz sitelerde engellemeyi kolayca kapatabilirsiniz.
 content-blocking-warning-description = İçerikleri engellemek bazı sitelerin bozulmasına neden olabilir. Güvendiğiniz sitelerde engellemeyi kolayca kapatabilirsiniz.
 content-blocking-learn-how = Engellemeyi kapatmayı öğrenin
 content-blocking-reload-description = Bu değişiklikleri uygulamak için sekmelerinizi tazelemeniz gerekiyor.
@@ -754,6 +750,10 @@ permissions-block-autoplay-media2 =
 permissions-block-autoplay-media-exceptions =
     .label = İstisnalar…
     .accesskey = s
+permissions-autoplay = Otomatik oynatma
+permissions-autoplay-settings =
+    .label = Ayarlar…
+    .accesskey = r
 permissions-block-popups =
     .label = Açılır pencereleri engelle
     .accesskey = n
