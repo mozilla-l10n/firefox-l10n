@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "Risparmia sulla connessione">
 <!ENTITY firstrun_data_subtext2 "Disattiva le immagini per consumare meno dati ogni volta che visiti un sito.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY updatednewfirstrun_sync_title "Account">
 <!ENTITY firstrun_sync_message2 "Riprendi da dove ti eri interrotto">
 <!ENTITY firstrun_sync_subtext2 "Utilizza Sync per accedere da tutti i dispositivi a segnalibri, password e altre informazioni salvate in &brandShortName;.">
 <!ENTITY newfirstrun_sync_subtext "Sincronizza le informazioni salvate sul tuo dispositivo mobile con Firefox sul tuo computer, in modo riservato e sicuro.">
