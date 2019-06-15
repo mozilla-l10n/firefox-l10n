@@ -64,6 +64,18 @@ onboarding-ghostery-text = Les extensions com el Ghostery, que bloca els anuncis
 onboarding-fxa-title = Sincronització
 onboarding-fxa-text = Creeu un { -fxaccount-brand-name } i sincronitzeu les adreces d'interès, les contrasenyes i les pestanyes obertes arreu on utilitzeu el { -brand-short-name }.
 onboarding-tracking-protection-title2 = Protecció contra el seguiment
+onboarding-tracking-protection-text2 = El { -brand-short-name } impedeix que els llocs web us facin el seguiment mentre navegueu, de manera que és més difícil que els anuncis us puguin seguir per Internet.
+onboarding-tracking-protection-button2 = Com funciona
+onboarding-data-sync-title = Els vostres paràmetres, a tot arreu
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Sincronitzeu les adreces d'interès, les contrasenyes i molt més a tot arreu on utilitzeu el { -brand-product-name }.
+onboarding-data-sync-button2 = Inicia la sessió al { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Estigueu al cas de les filtracions de dades
+onboarding-firefox-monitor-text = El { -monitor-brand-name } comprova si la vostra adreça electrònica ha aparegut en alguna filtració de dades i us avisa si apareix en posteriors filtracions.
+onboarding-firefox-monitor-button = Subscriu-me per rebre alertes
+onboarding-browse-privately-title = Navegueu amb privadesa
+onboarding-browse-privately-text = La navegació privada esborra el vostre historial de cerques i de navegació per tal que ningú més que utilitzi l'ordinador pugui tenir-hi accés.
+onboarding-browse-privately-button = Obre una finestra privada
 
 ## Message strings belonging to the Return to AMO flow
 
