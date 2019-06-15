@@ -34,5 +34,7 @@
 <!ENTITY authRequired.button.label        "Yetkilendir">
 <!ENTITY authRequired.button.accesskey    "Y">
 
+<!ENTITY findCloudFileProviders.label     "Daha fazla sağlayıcı bul…">
+
 <!ENTITY enableCloudFileAccountOffer.label "Bundan büyük dosyaları paylaşmayı öner:">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">

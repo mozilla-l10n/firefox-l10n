@@ -12,3 +12,4 @@ update-pref-write-failure-title = Yazma Hatası
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Tercih kaydedilemiyor. Dosyaya yazılamadı: { $path }
+update-in-progress-title = Güncelleme sürüyor

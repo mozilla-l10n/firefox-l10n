@@ -36,6 +36,8 @@
 <!ENTITY helpKeyboardShortcuts.label "Klavye kısayolları">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
+<!ENTITY helpFeedbackPage.label "Geri bildirim gönder…">
+<!ENTITY helpFeedbackPage.accesskey "G">
 
 <!ENTITY helpShowTour2.label "&brandShorterName; turu">
 <!ENTITY helpShowTour2.accesskey "t">
