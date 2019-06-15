@@ -76,6 +76,20 @@ onboarding-firefox-monitor-button = Subscriu-me per rebre alertes
 onboarding-browse-privately-title = Navegueu amb privadesa
 onboarding-browse-privately-text = La navegació privada esborra el vostre historial de cerques i de navegació per tal que ningú més que utilitzi l'ordinador pugui tenir-hi accés.
 onboarding-browse-privately-button = Obre una finestra privada
+onboarding-firefox-send-title = Els vostres fitxers compartits són privats
+onboarding-firefox-send-text2 = Pugeu els vostres fitxers al { -send-brand-name } per compartir-los amb xifratge d'extrem a extrem i un enllaç que caduca automàticament.
+onboarding-firefox-send-button = Proveu el { -send-brand-name }
+onboarding-mobile-phone-title = Instal·leu el { -brand-product-name } al telèfon
+onboarding-mobile-phone-text = Baixeu el { -brand-product-name } per a l'iOS o l'Android i sincronitzeu les vostres dades entre els dispositius.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Baixa el navegador mòbil
+onboarding-send-tabs-title = Envieu-vos pestanyes instantàniament
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = La funció «Envia la pestanya» comparteix instantàniament les pàgines entre els vostres dispositius sense necessitat de copiar, enganxar ni sortir del navegador.
+onboarding-send-tabs-button = Comença a utilitzar «Envia la pestanya»
+onboarding-pocket-anywhere-title = Llegiu i escolteu en qualsevol lloc
 
 ## Message strings belonging to the Return to AMO flow
 
