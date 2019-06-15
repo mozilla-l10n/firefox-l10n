@@ -57,6 +57,5 @@ profiles-delete-profile-failed-message = Při pokusu o smazání tohoto profilu 
 profiles-opendir =
     { PLATFORM() ->
         [macos] Zobrazit ve Finderu
-        [windows] Otevřít složku
-       *[other] Otevřít adresář
+       *[other] Otevřít
     }

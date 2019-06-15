@@ -452,9 +452,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "N">
 <!ENTITY viewSidebarMenu.label "Postranní lišta">
 <!ENTITY viewSidebarMenu.accesskey "P">
-<!ENTITY viewCustomizeToolbar.label       "Nastavit lišty…">
+<!ENTITY viewCustomizeToolbar.label       "Nastavit tlačítka a lišty…">
 <!ENTITY viewCustomizeToolbar.accesskey     "V">
-<!ENTITY overflowCustomizeToolbar.label       "Nastavit lišty…">
+<!ENTITY overflowCustomizeToolbar.label       "Nastavit tlačítka a lišty…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "N">
 
 <!ENTITY historyMenu.label "Historie">
