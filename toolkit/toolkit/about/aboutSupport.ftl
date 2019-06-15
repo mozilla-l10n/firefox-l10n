@@ -32,8 +32,15 @@ app-basics-name = Pavadinimas
 app-basics-version = Laida
 app-basics-build-id = Versijos ID
 app-basics-update-channel = Atnaujinimų kanalas
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Naujinimų aplankas
+       *[other] Naujinimų aplankas
+    }
 app-basics-update-history = Atnaujinimo žurnalas
 app-basics-show-update-history = Rodyti atnaujinimo žurnalą
+# Represents the path to the binary used to start the application.
+app-basics-binary = Pagrindinis programos failas
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Profilio aplankas
