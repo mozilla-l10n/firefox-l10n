@@ -279,6 +279,7 @@ update-application-check-choose =
 update-application-manual =
     .label = No cerquis mai actualitzacions (no recomanat)
     .accesskey = N
+update-application-warning-cross-user-setting = Aquest paràmetre s'aplicarà a tots els comptes del Windows i perfils del { -brand-short-name } que utilitzin aquesta instal·lació del { -brand-short-name }.
 update-application-use-service =
     .label = Instal·la les actualitzacions en segon pla
     .accesskey = s
@@ -669,6 +670,7 @@ addressbar-suggestions-settings = Canvia les preferències dels suggeriments de 
 
 content-blocking-header = Bloqueig de contingut
 content-blocking-description = Bloqueu el contingut de tercers que us fan el seguiment mentre navegueu. Podeu controlar quanta activitat en línia voleu emmagatzemar i compartir entre els llocs web.
+content-blocking-section-description = Protegiu la vostra privadesa mentre navegueu. Bloqueu el contingut invisible que fa el seguiment dels llocs que visiteu per crear un perfil vostre amb aquesta informació. Blocant aquest contingut, és possible que les pàgines es carreguin més ràpid.
 content-blocking-learn-more = Més informació
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -684,13 +686,23 @@ content-blocking-setting-custom =
 content-blocking-standard-description = Bloca només els elements de seguiment coneguts en finestres privades.
 content-blocking-standard-desc = Equilibri entre protecció i rendiment. Permet alguns elements de seguiment perquè els llocs web funcionin correctament.
 content-blocking-strict-desc = Bloca tots els elements de seguiment que detecta el { -brand-short-name }. Pot fer que alguns llocs no funcionin correctament.
+content-blocking-strict-description = Més protecció, pot fer que alguns llocs no funcionin correctament.
 content-blocking-custom-desc = Trieu què voleu blocar.
 content-blocking-private-trackers = Elements de seguiment coneguts en finestres privades
 content-blocking-third-party-cookies = Galetes de seguiment de tercers
+content-blocking-all-cookies = Totes les galetes
+content-blocking-unvisited-cookies = Galetes de llocs no visitats
 content-blocking-all-windows-trackers = Elements de seguiment coneguts en totes les finestres
 content-blocking-all-third-party-cookies = Totes les galetes de tercers
+content-blocking-cryptominers = Miners de criptomonedes
+content-blocking-fingerprinters = Creadors d'empremtes digitals
 content-blocking-warning-title = Atenció!
+content-blocking-warning-description = El bloqueig de contingut pot fer que alguns llocs web no funcionin correctament. És fàcil desactivar el bloqueig dels llocs en què confieu.
 content-blocking-learn-how = Vegeu com fer-ho
+content-blocking-reload-description = Cal tornar a carregar les pestanyes per aplicar aquests canvis.
+content-blocking-reload-tabs-button =
+    .label = Torna a carregar totes les pestanyes
+    .accesskey = r
 content-blocking-trackers-label =
     .label = Elements de seguiment
     .accesskey = t
@@ -704,6 +716,17 @@ content-blocking-tracking-protection-change-block-list = Canvia la llista de blo
 content-blocking-cookies-label =
     .label = Galetes
     .accesskey = G
+content-blocking-expand-section =
+    .tooltiptext = Més informació
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Miners de criptomonedes
+    .accesskey = M
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Creadors d'empremtes digitals
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
@@ -734,9 +757,16 @@ permissions-notification-link = Més informació
 permissions-notification-pause =
     .label = Posa en pausa les notificacions fins que es reiniciï el { -brand-short-name }
     .accesskey = n
+permissions-block-autoplay-media2 =
+    .label = Bloca la reproducció automàtica de so dels llocs web
+    .accesskey = B
 permissions-block-autoplay-media-exceptions =
     .label = Excepcions…
     .accesskey = E
+permissions-autoplay = Reproducció automàtica
+permissions-autoplay-settings =
+    .label = Paràmetres…
+    .accesskey = t
 permissions-block-popups =
     .label = Bloca les finestres emergents
     .accesskey = B
