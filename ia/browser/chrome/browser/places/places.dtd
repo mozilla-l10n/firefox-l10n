@@ -48,7 +48,7 @@
 <!ENTITY cmd.open.accesskey              "A">
 <!ENTITY cmd.open_window.label           "Aperir in un nove fenestra">
 <!ENTITY cmd.open_window.accesskey       "f">
-<!ENTITY cmd.open_private_window.label     "Aperir in un nove Fenestra private">
+<!ENTITY cmd.open_private_window.label     "Aperir in un nove fenestra private">
 <!ENTITY cmd.open_private_window.accesskey "p">
 <!ENTITY cmd.open_tab.label              "Aperir in un nove scheda">
 <!ENTITY cmd.open_tab.accesskey          "s">

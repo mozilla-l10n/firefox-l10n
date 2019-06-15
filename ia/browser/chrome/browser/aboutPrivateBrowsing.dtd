@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "Tu non es actualmente in un fenestra private.">
-<!ENTITY privatebrowsingpage.openPrivateWindow.label     "Aperir un Fenestra private">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "Aperir un fenestra private">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!ENTITY privateBrowsing.title                           "Navigation private">
@@ -36,7 +36,7 @@
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
                        text for the search box.   -->
 <!ENTITY aboutPrivateBrowsing.search.placeholder         "Cercar in le Web">
-<!ENTITY aboutPrivateBrowsing.info.title                 "Tu es in un Fenestra private">
+<!ENTITY aboutPrivateBrowsing.info.title                 "Tu es in un fenestra private">
 <!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; cancella tu chronologia de navigation e de recerca quando tu quita le application o claude tote le schedas e fenestras de navigation private. Ben que isto non te rende anonyme al sitos web o a tu providitor de servicio internet, illo rende plus facile mantener private lo que tu face online, salvo que pro illes qui usa iste computator.">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->

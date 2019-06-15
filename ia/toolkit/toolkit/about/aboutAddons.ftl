@@ -97,11 +97,11 @@ detail-update-manual =
     .label = Inactive
     .tooltiptext = Non installar automaticamente le actualisationes
 # Used as a description for the option to allow or block an add-on in private windows.
-detail-private-browsing-label = Aperir in Fenestra private
+detail-private-browsing-label = Execution in fenestras private
 detail-private-browsing-description2 = Quando consentite, le extension habera accesso a tu activitates online durante le navigation anonyme. <label data-l10n-name="detail-private-browsing-learn-more">Saper plus</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
-detail-private-disallowed-label = Fenestras private non consentite
+detail-private-disallowed-label = Non permittite in fenestras private
 detail-private-disallowed-description = Iste extension non flue durante le navigation anonyme. <label data-l10n-name="detail-private-browsing-learn-more">Saper plus</label>.
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Require accesso a Fenestras private
@@ -348,7 +348,7 @@ install-update-button = Actualisar
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
-    .title = Consentite in fenestras reservate
+    .title = Permittite in fenestras private
 addon-detail-private-browsing-help = Quando consentite, le extension habera accesso a tu activitates online durante le navigation reservate. <a data-l10n-name="learn-more">Saper plus</a>
 addon-detail-private-browsing-allow = Consentir
 addon-detail-private-browsing-disallow = Non consentir
