@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Įrašyti pakeitimus
     .accesskey = r
+permissions-autoplay-menu = Numatyta visoms svetainėms:
 permissions-searchbox =
     .placeholder = Ieškoti svetainėje
+permissions-capabilities-autoplay-allow =
+    .label = Leisti garsus ir vaizdo įrašus
+permissions-capabilities-autoplay-block =
+    .label = Blokuoti garsus
+permissions-capabilities-autoplay-blockall =
+    .label = Blokuoti garsus ir vaizdo įrašus
 permissions-capabilities-allow =
     .label = Leisti
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = Leisti
 permissions-capabilities-listitem-block =
     .value = Neleisti
-permissions-capabilities-listitem-allow-first-party =
-    .value = Leisti tik pirmajam asmeniui
 permissions-capabilities-listitem-allow-session =
     .value = Leisti vienam seansui
 
@@ -58,10 +63,6 @@ permissions-invalid-uri-label = Prašom surinkti teisingą serverio vardą
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Išimtys – apsauga nuo stebėjimo
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Šiose svetainėse esate išjungę apsaugą nuo stebėjimo.
 permissions-exceptions-content-blocking-window =
     .title = Išimtys – turinio blokavimas
     .style = { permissions-window.style }
@@ -101,6 +102,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Išimtys – automatinis grojimas
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Čia galima nurodyti svetaines, kurioms visada, arba niekada, leidžiama automatiškai groti medijas su garsu. Surinkite tikslų svetainės adresą ir spustelėkite atitinkamą mygtuką: „Neleisti“ ar „Leisti“.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Nuostatos – automatinis grojimas
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Čia galite tvarkyti svetaines, kurioms netaikomos numatytosios automatinio grojimo nuostatos.
 
 ## Site Permissions - Notifications
 
