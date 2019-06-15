@@ -3,12 +3,47 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
 
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
+
+onboarding-button-label-learn-more = Més informació
 onboarding-button-label-try-now = Proveu-ho ara
 onboarding-button-label-get-started = Primers passos
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Us donem la benvinguda al { -brand-short-name }
+onboarding-welcome-body = Ja teniu el navegador.<br/>Ara descobriu la resta del { -brand-product-name }.
+onboarding-welcome-learn-more = Més informació sobre els beneficis.
+onboarding-join-form-header = Uniu-vos al { -brand-product-name }
+onboarding-join-form-body = Introduïu la vostra adreça electrònica per començar.
+onboarding-join-form-email =
+    .placeholder = Introduïu l'adreça electrònica
+onboarding-join-form-email-error = Cal una adreça electrònica vàlida
+onboarding-join-form-legal = En continuar, accepteu les <a data-l10n-name="terms">condicions d'ús del servei</a> i l'<a data-l10n-name="privacy">avís de privadesa</a>.
+onboarding-join-form-continue = Continua
 onboarding-start-browsing-button-label = Comença a navegar
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-title = Productes útils
+onboarding-benefit-products-text = Milloreu la productivitat amb una família d'eines que respecten la vostra privadesa en tots els dispositius.
+onboarding-benefit-knowledge-title = Coneixements pràctics
+onboarding-benefit-knowledge-text = Apreneu tot allò que us cal saber per navegar de forma més intel·ligent i segura.
+onboarding-benefit-privacy-title = Privadesa de debò
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Tot el que fem respecta la nostra «Promesa sobre les dades personals»: recollir menys dades, mantenir-les segures i sense secrets.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -27,6 +62,8 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Les extensions com el Ghostery, que bloca els anuncis molestos, permeten una navegació més ràpida, més intel·ligent i més segura.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sincronització
+onboarding-fxa-text = Creeu un { -fxaccount-brand-name } i sincronitzeu les adreces d'interès, les contrasenyes i les pestanyes obertes arreu on utilitzeu el { -brand-short-name }.
+onboarding-tracking-protection-title2 = Protecció contra el seguiment
 
 ## Message strings belonging to the Return to AMO flow
 

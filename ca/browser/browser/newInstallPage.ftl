@@ -16,8 +16,13 @@ lost = <b>No heu perdut les dades personals ni les personalitzacions.</b> Si ja 
 options-title = Quines opcions tinc?
 options-do-nothing = Si no feu res, les dades del vostre perfil del { -brand-short-name } seran diferents de les dades del perfil de les altres instal·lacions del Firefox.
 options-use-sync = Si voleu que totes les vostres dades del perfil siguin iguals en totes les instal·lacions del Firefox, podeu utilitzar un { -fxaccount-brand-name } per mantenir-les sincronitzades.
+resources = Recursos:
+support-link = Ús del gestor de perfils - Article d'ajuda
+sync-header = Inicieu la sessió o creeu un { -fxaccount-brand-name }
 sync-label = Introduïu la vostra adreça electrònica
 sync-input =
     .placeholder = Adreça electrònica
 sync-button = Continua
+sync-terms = En continuar, accepteu les <a data-l10n-name="terms">condicions d'ús del servei</a> i l'<a data-l10n-name="privacy">avís de privadesa</a>.
+sync-first = És la primera vegada que utilitzeu el { -sync-brand-name }? Haureu d'iniciar la sessió en totes les instal·lacions del Firefox per sincronitzar la vostra informació.
 sync-learn = Més informació
