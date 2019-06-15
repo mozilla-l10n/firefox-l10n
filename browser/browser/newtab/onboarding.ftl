@@ -93,6 +93,7 @@ onboarding-pocket-anywhere-title = Llegiu i escolteu en qualsevol lloc
 onboarding-pocket-anywhere-text2 = Deseu el vostre contingut preferit fora de línia amb l'aplicació { -pocket-brand-name } per poder-lo llegir, escoltar i mirar quan us convingui.
 onboarding-pocket-anywhere-button = Proveu el { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Accediu a les vostres contrasenyes des de qualsevol lloc
+onboarding-lockwise-passwords-text2 = Manteniu segures les contrasenyes desades i inicieu la sessió fàcilment en els vostres comptes amb el { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Baixa l'aplicació
 onboarding-facebook-container-title = Marqueu límits per al Facebook
 onboarding-facebook-container-button = Afegeix l'extensió
