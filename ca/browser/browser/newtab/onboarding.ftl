@@ -96,6 +96,7 @@ onboarding-lockwise-passwords-title = Accediu a les vostres contrasenyes des de 
 onboarding-lockwise-passwords-text2 = Manteniu segures les contrasenyes desades i inicieu la sessió fàcilment en els vostres comptes amb el { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Baixa l'aplicació
 onboarding-facebook-container-title = Marqueu límits per al Facebook
+onboarding-facebook-container-text2 = El { -facebook-container-brand-name } manté el vostre perfil totalment aïllat, així és més difícil que el Facebook us mostri publicitat personalitzada.
 onboarding-facebook-container-button = Afegeix l'extensió
 
 ## Message strings belonging to the Return to AMO flow
