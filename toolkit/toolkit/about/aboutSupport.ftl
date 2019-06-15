@@ -35,7 +35,7 @@ app-basics-name = Název
 app-basics-version = Verze
 app-basics-build-id = ID sestavení
 app-basics-update-channel = Kanál aktualizací
-app-basics-update-dir = Složka se soubory aplikace
+app-basics-update-dir = Složka, kde je aplikace nainstalována
 app-basics-update-history = Historie aktualizací
 app-basics-show-update-history = Zobrazit historii aktualizací
 # Represents the path to the binary used to start the application.
