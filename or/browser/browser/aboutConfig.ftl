@@ -33,3 +33,5 @@ about-config-pref-add-type-string = ବାକ୍ୟ ଖଣ୍ଡ
 
 about-config-pref-accessible-value-default =
     .aria-label = { $value }(ପୂର୍ବନିର୍ଦ୍ଧାରିତ)
+about-config-pref-accessible-value-custom =
+    .aria-label = { $value } (ଇଛା ମୂତାବକ)

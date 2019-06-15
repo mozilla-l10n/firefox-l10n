@@ -15,8 +15,6 @@ category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-category-sync =
-    .tooltiptext = { pane-sync-title }
 focus-search =
     .key = f
 close-button =
@@ -49,7 +47,7 @@ startup-header = ଆରମ୍ଭ
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = { -brand-short-name } ଏବଂ Firefox କୁ ଏକା ସହିତ ଚାଲିବା ପାଇଁ ଅନୁମତି ଦିଅନ୍ତୁ
-use-firefox-sync = ସୂଚନା: ଏହା ପୃଥକ ରୂପରେଖାକୁ ବ୍ୟବହାର କରିଥାଏ। ତଥ୍ଯକୁ ସେଗୁଡ଼ିକ ମଧ୍ଯରେ ସହଭାଗ କରିବା ପାଇଁ ସନ୍ତୁଳନକୁ ବ୍ୟବହାର କରନ୍ତୁ।
+use-firefox-sync = ସୂଚନା: ଏହା ପୃଥକ ରୂପରେଖାକୁ ବ୍ୟବହାର କରିଥାଏ । ତଥ୍ୟକୁ ସେଗୁଡ଼ିକ ମଧ୍ୟରେ ସହଭାଗ କରିବା ପାଇଁ { -sync-brand-short-name } ବ୍ୟବହାର କରନ୍ତୁ ।
 is-default = { -brand-short-name } ବର୍ତ୍ତମାନ ଆପଣଙ୍କର ପୂର୍ବନିର୍ଦ୍ଧାରିତ ବ୍ରାଉଜର ଅଟେ
 is-not-default = { -brand-short-name } ବର୍ତ୍ତମାନ ଆପଣଙ୍କର ପୂର୍ବନିର୍ଦ୍ଧାରିତ ବ୍ରାଉଜର ଅଟେ
 tabs-group-header = ଟ୍ଯାବଗୁଡ଼ିକ
@@ -222,9 +220,6 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-cookies-exceptions =
-    .label = ବ୍ୟତିକ୍ରମ…
-    .accesskey = E
 
 ## Privacy Section - Address Bar
 
