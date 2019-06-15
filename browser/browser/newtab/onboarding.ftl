@@ -71,7 +71,12 @@ onboarding-data-sync-title = Võta oma sätted endaga kaasa
 onboarding-data-sync-text2 = Sünkroniseeri oma järjehoidjad, paroolid ja muud asjad igal pool, kus kasutad { -brand-product-name }i.
 onboarding-data-sync-button2 = Logi { -sync-brand-short-name }i sisse
 onboarding-firefox-monitor-title = Hoia end kursis andmeleketega
-onboarding-firefox-monitor-text = { -monitor-brand-name } monitoorib sinu e-posti aadressi esinemist andmeleketes ja annab teada, kui sinu aadress leidub mõnes lekkes.
+onboarding-firefox-monitor-text = { -monitor-brand-name } monitoorib sinu e-posti aadressi esinemist andmeleketes ja annab teada, kui sinu aadress leitakse mõnest lekkest.
+onboarding-firefox-monitor-button = Telli hoiatused
+onboarding-browse-privately-title = Lehitse veebi privaatselt
+onboarding-browse-privately-text = Privaatse veebilehitsemise lõpetamisel kustutatakse otsingu ja lehitsemise ajalugu, et hoida sinu tegevus teiste arvuti kasutajate eest salajas.
+onboarding-browse-privately-button = Ava privaatne aken
+onboarding-firefox-send-title = Hoia oma jagatud failid privaatsena
 
 ## Message strings belonging to the Return to AMO flow
 
