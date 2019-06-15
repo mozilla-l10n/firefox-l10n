@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "જ્યાંથી તમે છોડી દીધું ત્યાંથી શરૂ કરો.">
 <!ENTITY firstrun_sync_subtext2 "તમારા બધા ઉપકરણો પર &brandShortName; ના બુકમાર્ક્સ, પાસવર્ડ્સ અને તમે જે વસ્તુઓને સંગ્રહો છો તેને શોધવા માટે સમન્વયનો ઉપયોગ કરો.">
 <!ENTITY newfirstrun_sync_subtext "તમે મોબાઇલ પર જે વસ્તુઓ સાચવો છો, તેને ડેસ્કટોપ માટેનાં Firefox માં ખાનગી અને સલામત રીતે સમન્વયિત કરો.">
+<!ENTITY updatednewfirstrun_sync_subtext "&brandShortName; માંથી વધુ મેળવવા માટે તમારા એકાઉન્ટમાં સાઇન ઇન કરો">
 <!ENTITY firstrun_signin_message "જોડે મળી, પ્રારંભ કરો">
 <!ENTITY firstrun_signin_button "સમન્વયન માટે સાઇન ઇન કરો">
 <!ENTITY newfirstrun_signin_button "સમન્વયન ચાલુ કરો">
+<!ENTITY updatednewfirstrun_signin_button "&brandShortName; માં સાઇન ઇન કરો;">
 <!ENTITY  onboard_start_button_browser "બ્રાઉઝ શરૂ કરો">
 <!ENTITY firstrun_button_notnow "હમણા નહિ">
 <!ENTITY firstrun_button_next "આગામી">
@@ -66,6 +68,12 @@
 <!ENTITY  sending_crash_report "ભંગાણ અહેવાલ મોકલી રહ્યા છીએu2026">
 <!ENTITY  crash_close_label "બંધ કરો">
 <!ENTITY  crash_restart_label "&brandShortName; પુનઃશરૂ કરો">
+
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; ક્રેશ થયું">
+<!ENTITY  crash_notification_message "&vendorShortName; પર જાણ કરવા ટેપ કરો;">
+<!ENTITY  crash_notification_negative_button_text "ઉપેક્ષા કરો">
 
 <!ENTITY url_bar_default_text2 "શોધ અથવા સરનામું દાખલ કરો">
 
@@ -108,6 +116,10 @@
 <!ENTITY bookmark_folder_updated "ફોલ્ડર સુધારા કર્યું">
 <!ENTITY bookmark_parent_folder "મુખ્ય ફોલ્ડર">
 <!ENTITY bookmark_add_folder "નવું ફોલ્ડર બનાઓ">
+
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(શીર્ષક નથી)">
 
 <!ENTITY reader_saved_offline "ઓફલાઇન સાચવ્યાં">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -413,8 +425,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "ડાઉનલોડ">
 <!ENTITY pref_private_data_syncedTabs "સમન્વિત કરેલા ટૅબ્સ">
 
-<!ENTITY pref_default_browser "ડિફૉલ્ટ બ્રાઉઝર બનાવો">
-
 <!ENTITY pref_default_browser2 "&brandShortName; ને તમારું મૂળભૂત બ્રાઉઝર બનાવો">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -592,6 +602,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "મુખ્ય શબ્દ">
 <!ENTITY bookmark_select_folder "ફોલ્ડર પસંદ કરો">
 
+<!ENTITY bookmark_edit_undo "છેલ્લી ક્રિયા રદ કરો">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "સાઇટ સેટીંગ">
@@ -679,6 +691,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "ધ્વનિ પસંદ અથવા રૅકોર્ડ કરો">
 <!ENTITY filepicker_image_title "ચિત્ર પસંદ કરો અથવા લો">
 <!ENTITY filepicker_video_title "વીડિયો પસંદ અથવા રૅકોર્ડ કરો">
+
+<!ENTITY filepicker_permission_denied "આવશ્યક પરવાનગીઓ મંજૂર કરાઈ નથી, સિસ્ટમ ફાઇલ પીકર પર પાછા આવી રહી છે.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "તમે જોડાયેલા છો">
