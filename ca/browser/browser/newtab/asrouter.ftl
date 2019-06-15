@@ -53,3 +53,12 @@ cfr-doorhanger-pintab-step2 = Trieu <b>Fixa la pestanya</b> al menú.
 cfr-doorhanger-pintab-step3 = Si el contingut del lloc s'actualitza, veureu un punt blau a la pestanya fixa.
 cfr-doorhanger-pintab-animation-pause = Pausa
 cfr-doorhanger-pintab-animation-resume = Reprèn
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Sincronitzeu les adreces d'interès a tot arreu.
+cfr-doorhanger-bookmark-fxa-body = Una gran troballa! No us quedeu sense aquesta adreça d'interès en els vostres dispositius mòbils. Creeu un { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-link-text = Sincronitza ara les adreces d'interès…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Botó Tanca
+    .title = Tanca

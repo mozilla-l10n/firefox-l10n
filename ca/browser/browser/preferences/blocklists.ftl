@@ -5,7 +5,6 @@
 blocklist-window =
     .title = Llistes de bloquejos
     .style = width: 55em
-blocklist-desc = Podeu triar la llista que utilitzarà el { -brand-short-name } per blocar elements web que podrien fer el seguiment de la vostra activitat a Internet.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -24,7 +23,7 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
-blocklist-item-moz-std-name = Disconnect.me, protecció bàsica (recomanat).
-blocklist-item-moz-std-desc = Permet els elements de seguiment necessaris perquè els llocs web funcionin correctament.
-blocklist-item-moz-full-name = Disconnect.me, protecció estricta.
-blocklist-item-moz-full-desc = Bloca elements de seguiment coneguts. Alguns llocs web podrien no funcionar correctament.
+blocklist-item-moz-std-listName = Llista de bloquejos de nivell 1 (recomanada).
+blocklist-item-moz-std-description = Permet alguns elements de seguiment per tal que hi hagi menys llocs web que no funcionin.
+blocklist-item-moz-full-listName = Llista de bloquejos de nivell 2.
+blocklist-item-moz-full-description = Bloca tots els elements de seguiment detectats. És possible que alguns llocs web o contingut no es carreguin correctament.
