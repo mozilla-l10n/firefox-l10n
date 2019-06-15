@@ -5,6 +5,7 @@
 blocklist-window =
     .title = Llistes de bloquejos
     .style = width: 55em
+blocklist-description = Trieu la llista que el { -brand-short-name } utilitza per blocar els elements us fan el seguiment. Llistes proporcionades per <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =

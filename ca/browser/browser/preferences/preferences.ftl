@@ -4,10 +4,8 @@
 
 do-not-track-description = Envia als llocs web el senyal «No vull ser seguit» per informar-los que no vull que em facin el seguiment
 do-not-track-learn-more = Més informació
-do-not-track-option-default =
-    .label = Només en utilitzar la protecció contra el seguiment
-do-not-track-option-default-content-blocking =
-    .label = Només si el { -brand-short-name } està configurat per blocar els elements de seguiment detectats
+do-not-track-option-default-content-blocking-known =
+    .label = Només quan el { -brand-short-name } estigui configurat per bloquejar els elements de seguiment coneguts
 do-not-track-option-always =
     .label = Sempre
 pref-page =
@@ -36,6 +34,7 @@ policies-notice =
         [windows] La vostra organització ha inhabilitat la possibilitat de canviar algunes opcions.
        *[other] La vostra organització ha inhabilitat la possibilitat de canviar algunes preferències.
     }
+managed-notice = El navegador està gestionat per la vostra organització.
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -48,10 +47,9 @@ category-search =
 pane-privacy-title = Privadesa i seguretat
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Compte del Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = Assistència del { -brand-short-name }
 addons-button-label = Extensions i temes
 focus-search =
@@ -93,9 +91,6 @@ extension-controlled-default-search = L'extensió «<img data-l10n-name="icon"/>
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = L'extensió «<img data-l10n-name="icon"/> { $name }» requereix pestanyes de contenidor.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = L'extensió «<img data-l10n-name="icon"/> { $name }» controla la protecció contra el seguiment.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Una extensió,  <img data-l10n-name="icon"/> { $name }, està controlant aquest paràmetre.
@@ -155,9 +150,6 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Avisa en tancar diverses pestanyes
     .accesskey = d
-warn-on-quit-close-multiple-tabs =
-    .label = Avisa en sortir i tancar diverses pestanyes
-    .accesskey = v
 warn-on-open-many-tabs =
     .label = Avisa quan el fet d'obrir moltes pestanyes pugui alentir el { -brand-short-name }
     .accesskey = o
@@ -297,6 +289,21 @@ update-pref-write-failure-title = Error d'escriptura
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = No s'ha pogut desar la preferència. No s'ha pogut escriure al fitxer: { $path }
+update-setting-write-failure-title = Error en desar les preferències d'actualització
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    El { -brand-short-name } ha trobat un error i no ha desat aquest canvi. Tingueu en compte que, per definir aquesta preferència d'actualització, necessiteu permís per escriure al fitxer següent. Podeu resoldre l’error, o un administrador del sistema, concedint al grup «Usuaris» el control total d'aquest fitxer.
+    
+    No s'ha pogut escriure al fitxer: { $path }
+update-in-progress-title = Actualització en curs
+update-in-progress-message = Voleu que el { -brand-short-name } continuï amb aquesta actualització?
+update-in-progress-ok-button = &Descarta
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Continua
 
 ## General Section - Performance
 
@@ -339,6 +346,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Recomana extensions durant la navegació
     .accesskey = R
+browsing-cfr-features =
+    .label = Recomana funcions durant la navegació
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = Més informació
 
 ## General Section - Proxy
@@ -529,8 +539,9 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Desa
     .accesskey = D
-sync-mobilepromo-single = Connecta un altre dispositiu
-sync-mobilepromo-multi = Gestiona els dispositius
+sync-connect-another-device = Connecta un altre dispositiu
+sync-manage-devices = Gestiona els dispositius
+sync-fxa-begin-pairing = Vincula un dispositiu
 sync-tos-link = Condicions del servei
 sync-fxa-privacy-notice = Avís de privadesa
 
@@ -607,15 +618,10 @@ sitedata-total-size-calculating = S'està calculant la mida de les dades dels ll
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Les galetes, les dades dels llocs i la memòria cau actualment ocupen { $value } { $unit } d'espai de disc.
 sitedata-learn-more = Més informació
-sitedata-keep-until = Conserva-les fins que
-    .accesskey = v
-sitedata-keep-until-expire =
-    .label = vencin
-sitedata-keep-until-closed =
-    .label = es tanqui el { -brand-short-name }
 sitedata-delete-on-close =
     .label = Suprimeix les galetes i les dades dels llocs web en tancar el { -brand-short-name }
     .accesskey = c
+sitedata-delete-on-close-private-browsing = En el mode de navegació privada permanent, les galetes i les dades dels llocs s'esborraran sempre en tancar el { -brand-short-name }.
 sitedata-allow-cookies-option =
     .label = Accepta les galetes i dades dels llocs web
     .accesskey = A
@@ -626,16 +632,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Tipus de contingut blocat
     .accesskey = T
-sitedata-block-trackers-option-recommended =
-    .label = Elements de seguiment de tercers (recomanat)
-sitedata-block-trackers-option =
-    .label = Elements de seguiment de tercers
-sitedata-block-unvisited-option =
-    .label = Galetes de llocs webs no visitats
-sitedata-block-all-third-party-option =
-    .label = Totes les galetes de tercers (pot fer que alguns llocs web no funcionin)
-sitedata-block-all-option =
-    .label = Totes les galetes (farà que alguns llocs web no funcionin)
 sitedata-option-block-trackers =
     .label = Elements de seguiment de tercers
 sitedata-option-block-unvisited =
@@ -650,13 +646,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Gestiona les dades…
     .accesskey = G
-sitedata-cookies-exceptions =
-    .label = Excepcions…
-    .accesskey = E
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Els paràmetres de «Bloqueig de contingut» impedeixen fer canvis en els paràmetres de «Galetes i dades dels llocs».
 sitedata-cookies-permissions =
     .label = Gestiona els permisos…
     .accesskey = p
@@ -679,41 +668,8 @@ addressbar-suggestions-settings = Canvia les preferències dels suggeriments de 
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bloqueig de contingut
-content-blocking-desc = Bloqueu el contingut de tercers, com anuncis o codi, que podria alentir la navegació i fer el seguiment dels llocs que visiteu. Personalitzeu els paràmetres per trobar el millor l'equilibri entre protecció i rendiment.
 content-blocking-description = Bloqueu el contingut de tercers que us fan el seguiment mentre navegueu. Podeu controlar quanta activitat en línia voleu emmagatzemar i compartir entre els llocs web.
 content-blocking-learn-more = Més informació
-content-blocking-restore-defaults =
-    .label = Restaura els valors per defecte
-    .accesskey = R
-content-blocking-toggle-on =
-    .tooltiptext = Desactiva el bloqueig de contingut
-content-blocking-toggle-off =
-    .tooltiptext = Activa el bloqueig de contingut
-content-blocking-toggle-label-on = Activat
-    .accesskey = v
-content-blocking-toggle-label-off = Desactivat
-    .accesskey = v
-content-blocking-category-label = Trieu què voleu blocar
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Elements de seguiment lents
-    .accesskey = s
-content-blocking-fastblock-new-description = Bloca només els elements de seguiment que alenteixen la càrrega de les pàgines.
-content-blocking-tracking-protection-trackers-label =
-    .label = Elements de seguiment
-    .accesskey = t
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Tots els elements de seguiment detectats
-    .accesskey = T
-content-blocking-tracking-protection-new-description = Bloca tots els elements de seguiment coneguts (pot fer que algunes pàgines no es carreguin).
-content-blocking-tracking-protection-option-always =
-    .label = Sempre
-    .accesskey = S
-content-blocking-tracking-protection-option-private =
-    .label = Només en finestres privades
-    .accesskey = N
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -734,7 +690,6 @@ content-blocking-third-party-cookies = Galetes de seguiment de tercers
 content-blocking-all-windows-trackers = Elements de seguiment coneguts en totes les finestres
 content-blocking-all-third-party-cookies = Totes les galetes de tercers
 content-blocking-warning-title = Atenció!
-content-blocking-warning-desc = El bloqueig de galetes i d'elements de seguiment pot fer que alguns llocs web no funcionin correctament. És fàcil desactivar el bloqueig dels llocs en què confieu.
 content-blocking-learn-how = Vegeu com fer-ho
 content-blocking-trackers-label =
     .label = Elements de seguiment
@@ -746,51 +701,12 @@ content-blocking-option-private =
     .label = Només en finestres privades
     .accesskey = N
 content-blocking-tracking-protection-change-block-list = Canvia la llista de bloquejos
-content-blocking-third-party-cookies-label =
-    .label = Galetes de tercers
-    .accesskey = G
-content-blocking-reject-trackers-description = Bloca totes les galetes de tercers o només les que creen els elements de seguiment.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = Els paràmetres de «Galetes i dades dels llocs» impedeixen fer canvis en els paràmetres de «Galetes de tercers».
-content-blocking-change-cookie-settings =
-    .label = Canvi de paràmetres de galetes
-    .accesskey = s
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = Elements de seguiment (recomanat)
-    .accesskey = E
-content-blocking-reject-trackers-block-trackers-option =
-    .label = Elements de seguiment
-    .accesskey = E
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = Totes les galetes de tercers (pot fer que alguns llocs web no funcionin)
-    .accesskey = T
 content-blocking-cookies-label =
     .label = Galetes
     .accesskey = G
 
 ## Privacy Section - Tracking
 
-tracking-header = Protecció contra el seguiment
-tracking-desc = La protecció contra el seguiment bloca els elements de seguiment que recullen de les vostres dades de navegació pels diferents llocs web. <a data-l10n-name="learn-more">Més informació sobre la protecció contra el seguiment i la vostra privadesa</a>
-tracking-mode-label = Utilitza la protecció contra el seguiment per blocar elements de seguiment coneguts
-tracking-mode-always =
-    .label = Sempre
-    .accesskey = S
-tracking-mode-private =
-    .label = Només en finestres privades
-    .accesskey = N
-tracking-mode-never =
-    .label = Mai
-    .accesskey = M
-tracking-exceptions =
-    .label = Excepcions…
-    .accesskey = x
-tracking-change-block-list =
-    .label = Canvia la llista de bloquejos…
-    .accesskey = C
 tracking-manage-exceptions =
     .label = Gestiona les excepcions…
     .accesskey = x
@@ -818,20 +734,9 @@ permissions-notification-link = Més informació
 permissions-notification-pause =
     .label = Posa en pausa les notificacions fins que es reiniciï el { -brand-short-name }
     .accesskey = n
-permissions-block-autoplay-media =
-    .label = Bloca la reproducció automàtica de so dels llocs web
-    .accesskey = B
-permissions-block-autoplay-media-menu = Per als llocs web que reprodueixen so automàticament
 permissions-block-autoplay-media-exceptions =
     .label = Excepcions…
     .accesskey = E
-autoplay-option-ask =
-    .label = Demana-m'ho sempre
-autoplay-option-allow =
-    .label = Permet la reproducció automàtica
-autoplay-option-dont =
-    .label = No permetis la reproducció automàtica
-permissions-autoplay-link = Més informació
 permissions-block-popups =
     .label = Bloca les finestres emergents
     .accesskey = B
@@ -867,10 +772,6 @@ addon-recommendations-link = Més informació
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = L'informe de dades està desactivat en la configuració d'aquesta versió
-collection-browser-errors =
-    .label = Permet que el { -brand-short-name } enviï informes d'error del navegador (inclosos els missatges d'error) a { -vendor-short-name }
-    .accesskey = i
-collection-browser-errors-link = Més informació
 collection-backlogged-crash-reports =
     .label = Permet que el { -brand-short-name } enviï els informes de fallada pendents automàticament
     .accesskey = f

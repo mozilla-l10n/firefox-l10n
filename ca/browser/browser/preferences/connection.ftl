@@ -70,16 +70,21 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Habilita DNS sobre HTTPS
     .accesskey = H
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = URL per resoldre DNS sobre HTTPS
 # Variables:
 #   $url (String) - URL for the DNS over HTTPS provider
 connection-dns-over-https-url-default =
     .label = Utilitza el valor per defecte ({ $url })
     .accesskey = U
     .tooltiptext = Utilitza l'URL per defecte per resoldre DNS sobre HTTPS
+connection-dns-over-https-url-resolver = Utilitza el proveïdor
+    .accesskey = p
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (per defecte)
+    .tooltiptext = Utilitza l'URL per defecte per resoldre DNS sobre HTTPS
 connection-dns-over-https-url-custom =
     .label = Personalitzat
     .accesskey = P
     .tooltiptext = Introduïu el vostre URL preferit per resoldre DNS sobre HTTPS
+connection-dns-over-https-custom-label = Personalitzat
