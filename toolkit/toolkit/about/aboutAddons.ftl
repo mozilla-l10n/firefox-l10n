@@ -239,8 +239,19 @@ shortcuts-input =
 shortcuts-browserAction = Activa l'extensió
 shortcuts-pageAction = Activeu l'acció de la pàgina
 shortcuts-sidebarAction = Mostra/amaga la barra lateral
+shortcuts-modifier-mac = Cal incloure Ctrl, Alt o ⌘
+shortcuts-modifier-other = Cal incloure Ctrl o Alt
 shortcuts-invalid = La combinació no és vàlida
 shortcuts-letter = Escriviu una lletra
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Ja s'utilitza en { $addon }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Mostra'n { $numberToShow } més
+       *[other] Mostra'n { $numberToShow } més
+    }
 shortcuts-card-collapse-button = Mostra'n menys
 go-back-button =
     .tooltiptext = Vés enrere
@@ -248,6 +259,11 @@ go-back-button =
 ## Recommended add-ons page
 
 discopane-notice-learn-more = Més informació
+privacy-policy = Política de privadesa
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = per <a data-l10n-name="author">{ $author }</a>
 # Shows the number of daily users of the add-on.
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
@@ -304,6 +320,9 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> s'ha eliminat.
 pending-uninstall-undo-button = Desfés
 addon-detail-updates-label = Permet actualitzacions automàtiques
 addon-detail-updates-radio-default = Per defecte
@@ -326,6 +345,7 @@ available-updates-heading = Actualitzacions disponibles
 recent-updates-heading = Actualitzacions recents
 release-notes-loading = S'està carregant…
 release-notes-error = S'ha produït un error en carregar les notes de la versió.
+addon-permissions-empty = Aquesta extensió no necessita cap permís
 recommended-extensions-heading = Extensions recomanades
 recommended-themes-heading = Temes recomanats
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
