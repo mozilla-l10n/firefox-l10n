@@ -90,6 +90,12 @@ onboarding-send-tabs-title = Envieu-vos pestanyes instantàniament
 onboarding-send-tabs-text = La funció «Envia la pestanya» comparteix instantàniament les pàgines entre els vostres dispositius sense necessitat de copiar, enganxar ni sortir del navegador.
 onboarding-send-tabs-button = Comença a utilitzar «Envia la pestanya»
 onboarding-pocket-anywhere-title = Llegiu i escolteu en qualsevol lloc
+onboarding-pocket-anywhere-text2 = Deseu el vostre contingut preferit fora de línia amb l'aplicació { -pocket-brand-name } per poder-lo llegir, escoltar i mirar quan us convingui.
+onboarding-pocket-anywhere-button = Proveu el { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Accediu a les vostres contrasenyes des de qualsevol lloc
+onboarding-lockwise-passwords-button2 = Baixa l'aplicació
+onboarding-facebook-container-title = Marqueu límits per al Facebook
+onboarding-facebook-container-button = Afegeix l'extensió
 
 ## Message strings belonging to the Return to AMO flow
 
