@@ -205,6 +205,7 @@
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY searchMailCmd.label "ค้นหาข้อความ…">
+<!ENTITY searchMailCmd.accesskey "M">
 <!ENTITY searchMailCmd.key "f">
 <!ENTITY searchAddressesCmd.label "ค้นหาที่อยู่…">
 

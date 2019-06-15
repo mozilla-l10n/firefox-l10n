@@ -28,6 +28,8 @@
 <!ENTITY contextArchive.label "เก็บถาวร">
 <!ENTITY contextArchive.accesskey "ก">
 
+<!ENTITY contextPeriodic.accesskey "e">
+
 <!ENTITY filterActionDesc.label "ดำเนินการการกระทำเหล่านี้:">
 <!ENTITY filterActionDesc.accesskey "ด">
 

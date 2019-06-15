@@ -12,3 +12,4 @@ update-pref-write-failure-title = การเขียนล้มเหลว
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = ไม่สามารถบันทึกค่ากำหนด ไม่สามารถเขียนไปยังไฟล์: { $path }
+update-in-progress-title = กำลังปรับปรุง
