@@ -860,10 +860,10 @@
 <!ENTITY contextPlay.accesskey "x">
 <!ENTITY contextPause.label "Pausa">
 <!ENTITY contextPause.accesskey "P">
-<!ENTITY contextMute.label "Desativar som">
-<!ENTITY contextMute.accesskey "a">
+<!ENTITY contextMute.label "Silenciar">
+<!ENTITY contextMute.accesskey "S">
 <!ENTITY contextUnmute.label "Ativar som">
-<!ENTITY contextUnmute.accesskey "A">
+<!ENTITY contextUnmute.accesskey "s">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
