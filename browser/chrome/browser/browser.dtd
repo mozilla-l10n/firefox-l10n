@@ -1180,6 +1180,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstall.incognito.checkbox.accesskey "P">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Canvi en les extensions en finestres privades">
+<!ENTITY addonPrivateBrowsing.body2.label "Les extensions noves que afegiu al &brandShorterName; no funcionaran en finestres privades, tret que ho permeteu explícitament en els paràmetres.">
 <!ENTITY addonPrivateBrowsing.learnMore.label "Apreneu a gestionar els paràmetres de les extensions">
 <!ENTITY addonPrivateBrowsing.okButton.label "D'acord">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "o">
