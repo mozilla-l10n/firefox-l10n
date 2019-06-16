@@ -21,8 +21,6 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Laadi kaart uuesti">
 <!ENTITY  reloadTab.accesskey                "i">
-<!ENTITY  reloadAllTabs.label                "Laadi kõik kaardid uuesti">
-<!ENTITY  reloadAllTabs.accesskey            "a">
 <!ENTITY  selectAllTabs.label                "Vali kõik kaardid">
 <!ENTITY  selectAllTabs.accesskey            "k">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
@@ -31,8 +29,6 @@ a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "K">
-<!ENTITY  closeTabOptions.label              "Kaartide sulgemise valikud">
-<!ENTITY  closeTabOptions.accesskey          "v">
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTabs.label                "Klooni kaart">
@@ -47,9 +43,6 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Sulge teised kaardid">
 <!ENTITY  closeOtherTabs.accesskey           "t">
 
-<!ENTITY  closeSelectedTabs.label            "Sulge valitud kaardid">
-<!ENTITY  closeSelectedTabs.accesskey        "S">
-
 <!ENTITY  closeTabs.label                    "Sulge kaardid">
 <!ENTITY  closeTabs.accesskey                "S">
 <!ENTITY  pinSelectedTabs.label              "Tee püsikaartideks">
@@ -62,10 +55,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "T">
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadSelectedTabs.label           "Laadi valitud kaardid uuesti">
-<!ENTITY  reloadSelectedTabs.accesskey       "L">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "Laadi kaardid uuesti">
@@ -74,6 +63,8 @@ but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "k">
+
+<!-- Tab context menu -->
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -90,8 +81,6 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "d">
-<!ENTITY  sendTabToDevice.label              "Saada kaart seadmesse">
-<!ENTITY  sendTabToDevice.accesskey          "a">
 <!ENTITY  sendPageToDevice.label             "Saada leht seadmesse">
 <!ENTITY  sendPageToDevice.accesskey         "h">
 <!ENTITY  sendLinkToDevice.label             "Saada link seadmesse">
@@ -110,8 +99,6 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToNewWindow.accesskey          "k">
 <!ENTITY  reopenInContainer.label            "Taasava konteineris">
 <!ENTITY  reopenInContainer.accesskey        "o">
-<!ENTITY  bookmarkAllTabs.label              "Lisa kõik kaardid järjehoidjatesse…">
-<!ENTITY  bookmarkAllTabs.accesskey          "L">
 <!ENTITY  bookmarkTab.label                  "Lisa kaart järjehoidjatesse">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
@@ -123,6 +110,9 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  hiddenTabs.label                   "Peidetud kaardid">
 
 <!ENTITY  listAllTabs.label      "Näita kõigi kaartide nimekirja">
+<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
+in "Search through tabs". -->
+<!ENTITY  allTabsMenu.searchTabs.label       "Otsi kaartide hulgast">
 
 <!ENTITY tabCmd.label "Uus kaart">
 <!ENTITY tabCmd.accesskey "k">
@@ -141,6 +131,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Prindi…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
+<!ENTITY importFromAnotherBrowserCmd.label "Impordi teisest brauserist…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 <!ENTITY taskManagerCmd.label "Tegumihaldur">
 
@@ -153,11 +145,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Järjehoidjariba">
 <!ENTITY personalbarCmd.accesskey "J">
 <!ENTITY bookmarksToolbarItem.label "Järjehoidjariba elemendid">
-
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Laadi kõik kaardid uuesti">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "L">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Lisa kõik kaardid järjehoidjatesse…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "i">
 
 <!ENTITY toolbarContextMenu.reloadSelectedTab.label "Laadi valitud kaart uuesti">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
@@ -229,6 +216,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "Välju täisekraanirežiimist">
 <!ENTITY fullScreenExit.accesskey "V">
 
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Võta Firefox endaga kaasa">
+<!ENTITY fxa.signin.description.label "Kasuta järjehoidjaid, ajalugu, paroole ja muid sätteid kõigil enda seadmetel.">
+<!ENTITY fxa.signin.button.label "Lülita &syncBrand.shortName.label; sisse…">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "Kontrolli oma e-posti">
+<!ENTITY fxa.unverified.description.label "Enne sünkroonimise alustamist pead oma konto kinnitama.">
+<!ENTITY fxa.unverified.button.label "Ava &syncBrand.shortName.label;i sätted…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Sisse logitud kasutajana">
+<!ENTITY fxa.menu.manageAccount.label "Halda kontot…">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label;i sätted…">
+<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Ühenda teine seade…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -245,6 +254,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Välju täisekraanirežiimist (esc)">
 <!ENTITY leaveDOMFullScreen.label "Välju täisekraanirežiimist">
 <!ENTITY leaveDOMFullScreen.accesskey "t">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
+     these two strings are used when right-clicking on a video in the
+     content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.label "Pilt-pildid">
+<!ENTITY pictureInPicture.accesskey "P">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -263,9 +278,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Lisa see veebileht järjehoidjatesse">
 <!ENTITY editThisBookmarkCmd.label "Muuda seda järjehoidjat">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-<!ENTITY subscribeToPageMenupopup.label "Selle veebilehe uudistevoo tellimine">
-<!ENTITY subscribeToPageMenuitem.label "Telli selle veebilehe uudistevoog...">
 
 <!ENTITY addCurPagesCmd.label "Lisa kõik kaardid järjehoidjatesse...">
 <!ENTITY showAllBookmarks2.label "Kuva kõiki järjehoidjaid">
@@ -328,6 +340,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Oled sellel lehel keelanud plugina Adobe Flash kasutamise.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Oled sellel lehel keelanud ligipääsu MIDIle.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Kuva ajalugu">
 
 <!ENTITY searchItem.title             "Otsi">
@@ -380,10 +393,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Veebiarendajale">
 <!ENTITY webDeveloperMenu.accesskey   "b">
-
-<!ENTITY devtoolsRecordExecution.label "Record Execution">
-<!ENTITY devtoolsSaveRecording.label "Save Recording">
-<!ENTITY devtoolsReplayExecution.label "Replay Execution">
 
 <!ENTITY inspectContextMenu.label     "Inspekteeri elementi">
 <!ENTITY inspectContextMenu.accesskey "n">
@@ -514,9 +523,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "r">
 <!ENTITY customizeMenu.manageExtension.label "Halda laiendust">
 <!ENTITY customizeMenu.manageExtension.accesskey "l">
-
 <!ENTITY customizeMenu.removeExtension.label "Eemalda laiendus">
 <!ENTITY customizeMenu.removeExtension.accesskey "i">
+
+<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
+     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     an abuse report related to that extension. "Report" is a verb. -->
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -655,6 +667,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Pane see paneel järjehoidjatesse">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "e">
 <!ENTITY pageAction.copyLink.label    "Kopeeri link">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
+
 <!ENTITY emailPageCmd.label           "Saada link e-postiga…">
 <!ENTITY emailPageCmd.accesskey       "d">
 <!ENTITY savePageCmd.label            "Salvesta veebileht kui…">
@@ -857,6 +873,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Selle lehe sisu pärineb laienduselt.">
 <!ENTITY identity.insecureLoginForms2 "Sellele lehele sisestatavad kasutajakonto andmed võivad ohus olla.">
 
+
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; blokkis sellel lehel mõned ebaturvalised osad.">
 <!ENTITY identity.passiveLoaded "Mõned selle lehe osad on ebaturvalised (nt pildid).">
@@ -875,6 +892,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "See veebileht sisaldab ebaturvalist sisu (nt skripte) ja ühendus sellega pole privaatne.">
 <!ENTITY identity.description.activeLoaded2 "Saidiga jagatavaid andmeid (nt paroolid, sõnumid, krediitkaardi andmed jne) võivad näha ka teised.">
 
+
 <!ENTITY identity.enableMixedContentBlocking.label "Luba kaitse">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "L">
 <!ENTITY identity.disableMixedContentBlocking.label "Keela kaitse ajutiselt">
@@ -892,6 +910,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Sellele saidile pole tagatud ühtki eriõigust.">
 <!ENTITY identity.permissionsReloadHint "Muudatuste rakendumiseks pead võib-olla lehe uuesti laadima.">
 <!ENTITY identity.permissionsPreferences.tooltip "Ava õiguste sätted">
+
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -994,78 +1013,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.title "Sisu blokkimine">
 <!ENTITY contentBlocking.detected "Sellelt saidilt leiti blokitavat sisu.">
 <!ENTITY contentBlocking.notDetected "Sellel lehel ei tuvastatud blokitavat sisu.">
-<!ENTITY contentBlocking.disabled.label "Keelatud">
-<!ENTITY contentBlocking.disabled.tooltip "Sa oled sisu blokkimise keelanud.">
-<!ENTITY contentBlocking.exception.tooltip "Sa oled sisu blokkimise sellel saidil keelanud.">
-
-<!ENTITY contentBlocking.fastBlock.label "Aeglaselt laadivad jälitajad">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Slow-Loading Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.fastBlock.blocked.label "Blokitud">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
-     "Firefox is blocking Slow-Loading Trackers"-->
-<!ENTITY contentBlocking.fastBlock.blocking.label "blokitakse">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.fastBlock.add.label "Lisa blokeering…">
-
-<!ENTITY contentBlocking.trackingProtection2.label "Kõik tuvastatud jälitajad">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Jälitajad">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
-     This label signals that this type of content blocking is turned
-     OFF and is not blocking tracker content, so this is not
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Allowed"-->
-<!ENTITY contentBlocking.trackingProtection.allowed.label "Lubatud">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking tracker content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.trackingProtection.blocked.label "Blokitud">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Trackers"-->
-<!ENTITY contentBlocking.trackingProtection.blocking.label "blokitakse">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.trackingProtection.add.label "Lisa blokeering…">
-
-<!ENTITY contentBlocking.3rdPartyCookies.label "Kolmanda osapoole küpsised">
-<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Jälitajate küpsised">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking third-party cookies, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Third-Party Cookies [are] Blocked"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Blokitud">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Third-Party Cookies"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "blokitakse">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.3rdPartyCookies.add.label "Lisa blokeering…">
 
 <!ENTITY contentBlocking.manageSettings.label "Halda sisu blokkimist">
 <!ENTITY contentBlocking.manageSettings.accesskey "s">
 
 <!ENTITY contentBlocking.trackersView.label "Jälitajad">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Kõigi jälitajate blokkimiseks määra sisu blokkimise olekuks “Range”.">
+
+
+
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Raporteeri probleemist">
 <!ENTITY contentBlocking.breakageReportView.label "Probleemidest raporteerimine">
@@ -1075,22 +1033,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Millised probleemid esinesid? (valikuline)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Saada raport">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Loobu">
-
-<!ENTITY trackingProtection.title "Jälitamisvastane kaitse">
-<!ENTITY trackingProtection.tooltip "Ava jälitamisvastase kaitse sätted">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock4.label "Keela blokkimine sellel saidil">
-<!ENTITY trackingProtection.unblock4.accesskey "K">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate4.label "Keela blokkimine ajutiselt">
-<!ENTITY trackingProtection.unblockPrivate4.accesskey "A">
-<!ENTITY trackingProtection.block5.label "Luba blokkimine sellel saidil">
-<!ENTITY trackingProtection.block5.accesskey "L">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
@@ -1109,11 +1051,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginNotification.showAll.label "Kuva kõiki">
 <!ENTITY pluginNotification.showAll.accesskey "K">
-
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "Luba">
-<!ENTITY pluginActivateAlways.label "Luba ja pea meeles">
-<!ENTITY pluginBlockNow.label "Bloki plugin">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -1159,6 +1096,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "L">
 <!ENTITY updateAvailable.cancelButton.label "Mitte praegu">
 <!ENTITY updateAvailable.cancelButton.accesskey "M">
+
 <!ENTITY updateAvailable.panelUI.label "Laadi alla &brandShorterName;i uuendus">
 
 <!ENTITY updateManual.message "Laadi alla &brandShorterName;i värske versioon ja me aitame sul selle paigaldada.">
@@ -1200,11 +1138,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Lehe toimingud">
 <!ENTITY pageAction.addToUrlbar.label "Lisa aadressiribale">
 <!ENTITY pageAction.removeFromUrlbar.label "Eemalda aadressiribalt">
-<!ENTITY pageAction.allowInUrlbar.label "Kuva aadressiribal">
-<!ENTITY pageAction.disallowInUrlbar.label "Ära kuva aadressiribal">
 <!ENTITY pageAction.manageExtension.label "Halda laiendust…">
-
-<!ENTITY pageAction.sendTabToDevice.label "Saada kaart seadmesse">
 
 <!ENTITY sendToDevice.syncNotReady.label "Seadmeid sünkroniseeritakse…">
 
@@ -1223,3 +1157,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Halda oma laiendusi, klõpsates nupul <image class='addon-addon-icon'/> menüüs <image class='addon-toolbar-icon'/>.">
+
