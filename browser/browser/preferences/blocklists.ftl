@@ -5,7 +5,7 @@
 blocklist-window =
     .title = Blokkimise nimekirjad
     .style = width: 50em
-blocklist-desc = Siin on võimalik valida nimekirja, mille alusel { -brand-short-name } sinu tegevust jälitavaid veebielemente blokib.
+blocklist-description = Vali nimekiri, mille alusel { -brand-short-name } blokib jälitajaid. Nimekirjad on koostanud <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -24,7 +24,7 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
-blocklist-item-moz-std-name = Disconnect.me tavaline kaitse (soovitatud).
-blocklist-item-moz-std-desc = Mõned jälitajad on lubatud, nii et saidid töötaksid ootuspäraselt.
-blocklist-item-moz-full-name = Disconnect.me range kaitse.
-blocklist-item-moz-full-desc = Blokib teadaolevad jälitajad. Mõned saidid võivad töötada ebakorrektselt.
+blocklist-item-moz-std-listName = 1. taseme blokkimise nimekiri (soovitatav).
+blocklist-item-moz-std-description = Mõned jälitajad on lubatud, et vähem saite katki läheks.
+blocklist-item-moz-full-listName = 2. taseme blokkimise nimekiri.
+blocklist-item-moz-full-description = Kõik tuvastatud jälitajad blokitakse. Mõned saidid või nende sisu ei pruugi korralikult toimida.
