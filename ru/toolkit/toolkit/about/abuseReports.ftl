@@ -48,6 +48,9 @@ abuse-report-messagebar-action-cancel = Отмена
 
 abuse-report-damage-reason = Повреждает данные на компьютере
 abuse-report-spam-reason = Создаёт спам или рекламу
+abuse-report-spam-example = Например: Вставляет рекламу на веб-страницы
+abuse-report-settings-reason = Изменяет мою поисковую систему, домашнюю страницу или страницу новой вкладки, не сообщая и не спрашивая меня
+abuse-report-settings-suggestions = Перед отправкой жалобы на расширение, вы можете попробовать изменить настройки:
 abuse-report-settings-suggestions-search = Изменяет настройки поиска по умолчанию
 abuse-report-settings-suggestions-homepage = Изменяет домашнюю страницу и страницу новой вкладки
 abuse-report-deceptive-reason = Притворяется тем, чем не является
