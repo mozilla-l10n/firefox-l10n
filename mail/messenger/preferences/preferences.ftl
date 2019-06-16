@@ -22,7 +22,13 @@ update-setting-write-failure-message =
     
     Není možný zápis do souboru: { $path }
 update-in-progress-title = Probíhá aktualizace
-update-in-progress-message = Chcete, aby aplikace { -brand-short-name } pokračovala v aktualizaci?
+update-in-progress-message =
+    { -brand-short-name.gender ->
+        [masculine] Chcete, aby { -brand-short-name } pokračoval v aktualizaci?
+        [feminine] Chcete, aby { -brand-short-name } pokračovala v aktualizaci?
+        [neuter] Chcete, aby { -brand-short-name } pokračovalo v aktualizaci?
+       *[other] Chcete, aby aplikace { -brand-short-name } pokračovala v aktualizaci?
+    }
 update-in-progress-ok-button = &Nepokračovat
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
