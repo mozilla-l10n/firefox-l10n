@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Salvesta muudatused
     .accesskey = S
+permissions-autoplay-menu = Vaikeväärtus kõigi saitide jaoks:
 permissions-searchbox =
     .placeholder = Otsi saiti
+permissions-capabilities-autoplay-allow =
+    .label = heli ja video lubatakse
+permissions-capabilities-autoplay-block =
+    .label = heli blokitakse
+permissions-capabilities-autoplay-blockall =
+    .label = heli ja video blokitakse
 permissions-capabilities-allow =
     .label = Lubatud
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = Lubatud
 permissions-capabilities-listitem-block =
     .value = Blokitud
-permissions-capabilities-listitem-allow-first-party =
-    .value = Lubatud sama domeeni piires
 permissions-capabilities-listitem-allow-session =
     .value = Lubatud seansi jooksul
 
@@ -58,10 +63,6 @@ permissions-invalid-uri-label = Palun sisesta korrektne masinanimi
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Erandid - jälitamisvastane kaitse
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Jälitamisvastane kaitse on järgnevatel saitidel keelatud.
 permissions-exceptions-content-blocking-window =
     .title = Erandid - sisu blokkimine
     .style = { permissions-window.style }
@@ -101,6 +102,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Erandid - automaatne esitamine
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Sa võid määrata, millistel saitidel on alati või mitte kunagi lubatud meedia automaatne heliga esitamine. Sisesta hallatava saidi täpne aadress ning seejärel klõpsa Bloki või Luba.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Sätted - automaatne esitamine
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Siin saad määrata, millised saidid ei järgi automaatse esitamise vaikeväärtust.
 
 ## Site Permissions - Notifications
 

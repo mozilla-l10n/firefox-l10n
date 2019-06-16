@@ -34,6 +34,7 @@ policies-notice =
         [windows] Sinu organisatsioon on keelanud mõningate sätete muutmise.
        *[other] Sinu organisatsioon on keelanud mõningate eelistuste muutmise.
     }
+managed-notice = Brauserit haldab sinu organisatsioon.
 pane-general-title = Üldine
 category-general =
     .tooltiptext = { pane-general-title }
@@ -278,6 +279,7 @@ update-application-check-choose =
 update-application-manual =
     .label = Uuendusi ei otsita (mittesoovitatav)
     .accesskey = e
+update-application-warning-cross-user-setting = See säte rakendub kõigile Windowsi kontodele ja { -brand-short-name }i profiilidele, mis kasutavad seda { -brand-short-name }i paigaldust.
 update-application-use-service =
     .label = Uuenduste paigaldamiseks kasutatakse taustateenust
     .accesskey = d
@@ -288,6 +290,7 @@ update-pref-write-failure-title = Viga kirjutamisel
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Sätete salvestamine polnud võimalik. Järgmisse faili polnud võimalik kirjutada: { $path }
+update-setting-write-failure-title = Uuendamise sätete salvestamisel esines viga
 
 ## General Section - Performance
 
