@@ -24,6 +24,8 @@
 <!ENTITY firstrun_sync_subtext2 "మీరు &brandShortName; కు సేవ్ చేసిన భద్రపరిచిన ఇష్టాంశాలు, సంకేతపదాలు మరియు ఇతర విషయాలను మీ అన్ని పరికరాల్లో కనుగొనడానికి సమకాలీకరణను ఉపయోగించండి.">
 <!ENTITY firstrun_signin_message "కనెక్ట్ చేసుకోగా, ప్రారంభించడానికి">
 <!ENTITY firstrun_signin_button "Sync లోనికి ప్రవేశించండి">
+<!ENTITY newfirstrun_signin_button "సమకాలీకరణను ప్రారంభించండి">
+<!ENTITY updatednewfirstrun_signin_button "&brandShortName;కు ప్రవేశించండి">
 <!ENTITY  onboard_start_button_browser "విహరణ మొదలుపెట్టండి">
 <!ENTITY firstrun_button_notnow "ఇప్పుడు కాదు">
 <!ENTITY firstrun_button_next "తదుపరి">
@@ -63,6 +65,12 @@
 <!ENTITY  sending_crash_report "క్రాష్ నివేదికను పంపిస్తున్నాం\u2026">
 <!ENTITY  crash_close_label "మూసివేయి">
 <!ENTITY  crash_restart_label "&brandShortName; పునఃప్రారంభించు">
+
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; క్రాష్">
+<!ENTITY  crash_notification_message "&vendorShortName; కు నివేదించడానికి నొక్కండి">
+<!ENTITY  crash_notification_negative_button_text "విస్మరించు">
 
 <!ENTITY url_bar_default_text2 "వెతకండి లేదా చిరునామాను ఇవ్వండి">
 
@@ -105,6 +113,10 @@
 <!ENTITY bookmark_folder_updated "సంచయం నవీకరించబడింది">
 <!ENTITY bookmark_parent_folder "మాతృ సంచయం">
 <!ENTITY bookmark_add_folder "కొత్త సంచికను జోడించు">
+
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(శీర్షిక లేదు)">
 
 <!ENTITY reader_saved_offline "ఆఫ్‌లైన్లో భద్రమయింది">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -585,6 +597,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "కీపదం">
 <!ENTITY bookmark_select_folder "సంచికని ఎంచుకోండి">
 
+<!ENTITY bookmark_edit_undo "చర్యరద్దు">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "సైటు అమరికలు">
@@ -672,6 +686,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "ఒక శబ్దాన్ని ఎంచండి లేదా రికార్డ్ చేయండి">
 <!ENTITY filepicker_image_title "ఒక చిత్రాన్ని ఎంచండి లేదా తీయండి">
 <!ENTITY filepicker_video_title "ఒక విడియోను ఎంచండి లేదా రికార్డు చేయండి">
+
+<!ENTITY filepicker_permission_denied "అవసరమైన అనుమతులు మంజూరు చేయబడలేదు, సిస్టమ్ ఫైల్ పికర్‌కు తిరిగి మార్చబడతాయి.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "మీరు దీనికి అనుసంధానించ బడినారు">
@@ -914,6 +930,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "నిలుపు">
 <!ENTITY pip_pause_button_description "ఆడించడం నిలుపు">
 
+<!ENTITY pref_notification_settings_link "నోటిఫికేషన్ అమరికలను నిర్వహించండి">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "విహారిణి">
 <!ENTITY mls_notification_channel "&vendorShortName; స్థాన సేవ">
@@ -926,3 +943,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "సైటు గమనింపులు">
+<!ENTITY crash_handler_notifications_channel "&brandShortName; క్రాష్ నివేదిక">
