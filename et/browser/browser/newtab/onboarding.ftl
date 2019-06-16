@@ -93,6 +93,19 @@ onboarding-pocket-anywhere-title = Loe ja kuula kõikjal
 onboarding-pocket-anywhere-text2 = Salvesta oma lemmik sisu rakendusega { -pocket-brand-name }, et saaksid seda lugeda, kuulata või vaadata sulle mugaval ajal, kas või ilma internetita.
 onboarding-pocket-anywhere-button = Proovi { -pocket-brand-name }it
 onboarding-lockwise-passwords-title = Võta oma paroolid kõikjale kaasa
+onboarding-lockwise-passwords-text2 = { -lockwise-brand-name } hoiab sinu salvestatud paroole turvaliselt, et saaksid oma kontodesse lihtsalt sisse logida.
+onboarding-lockwise-passwords-button2 = Hangi rakendus
+onboarding-facebook-container-title = Määra Facebookile piirid
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } hoiab sinu profiili eraldi kõigest muust, tehes Facebookil sulle suunatud reklaamide kuvamise keerulisemaks.
+onboarding-facebook-container-button = Paigalda laiendus
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = Tore, sul on nüüd { -brand-short-name }!
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Hangime sulle nüüd ka laienduse <icon></icon><b>{ $addon-name }</b>.
+return-to-amo-extension-button = Paigalda laiendus
+return-to-amo-get-started-button = Tee algust { -brand-short-name }iga
