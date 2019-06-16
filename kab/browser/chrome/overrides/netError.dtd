@@ -10,9 +10,7 @@
 <!ENTITY returnToPreviousPage.label "Uɣal ɣeṛ deffir">
 <!ENTITY returnToPreviousPage1.label "Uɣal ɣer deffir (Yelha)">
 <!ENTITY advanced.label "Iɣewwaṛen leqqayen ">
-<!ENTITY continue2.label "Ugar…">
 <!ENTITY advanced2.label "Talqayt…">
-<!ENTITY moreInformation.label "Ugar n telɣut">
 <!ENTITY viewCertificate.label "Sken aselkin">
 
 <!-- Specific error messages -->
@@ -28,9 +26,9 @@
 <!ENTITY dnsNotFound.title1 "Hmm. Nesɛa uguren akken ad naf asmel.">
 <!ENTITY dnsNotFound.longDesc1 "<strong>Ma tella tansa-agi d tameɣtut, llant tɣawsiwin-nniḍen ara tɛarḍeḍ:</strong>
 <ul>
-  <li>Ɛreḍ tikelt-niḍen.</li>
-  <li>Senqed tuqqna-inek internet.</li>
-  <li>Ma telliḍ teqqneḍ maca s firewall, senqedd akken &brandShortName; isεa isirag n unekcum ɣer Web.</li>
+  <li>Ɛreḍ tikkelt-nniḍen ticki.</li>
+  <li>Senqed tuqqna-ik ɣer uẓaṭṭa.</li>
+  <li>Ma telliḍ teqqneḍ maca s uɣrab n tmes, senqed ma yella &brandShortName; yesεa tisirag n unekcum ɣer Web.</li>
 </ul>
 ">
 
@@ -97,12 +95,16 @@
 </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Tuqqna-inek d taraɣelsant">
+
 <!ENTITY certerror.longpagetitle2 "Ɣur-k: izmer ad yili ugur n teɣlist">
 <!ENTITY certerror.sts.longpagetitle  "Ur yeqqin ara: Yezmer ad yili ugur n teɣlist">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Imawlan n <span class='hostname'/> ur sewlen ara akken iwata asmel-nsen.  Iwakken ad tettummesten telɣut-inek seg takwerḍa, &brandShortName; ur yeqqin ara ɣeṛ usmel-a web.">
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 <!ENTITY certerror.introPara2 "&brandShortName; yufa-d dakken izmer ad yili ugur n teɣlist u ur ikemmel ara ɣer <span class='hostname'/>. Ma terziḍ ɣer usmel, Imakwaren zemren ad ɛerḍen ad akren talɣut yecban awalen uffiren, imaylen, neɣ talqayt n tkerḍa n usmad.">
 <!ENTITY certerror.sts.introPara "&brandShortName; yufa-d dakken izmer ad yili ugur n teɣlist u ur ikemmel ara ɣer <span class='hostname'/> acku asmel-agi isra tuqqna tɣelsant.">
 
@@ -130,6 +132,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Rnu tasureft…">
+
 <!ENTITY securityOverride.exceptionButton1Label "Qbel ugur u kemmel">
 
 <!ENTITY errorReporting.automatic2 "Tuzzna n tuccḍiwin am ta, d tallalt ad d-tmuddeḍ i Mozilla akken ad isulu u ad isewḥel ismal web n ukellex.">
@@ -150,6 +153,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; ur yeqqin ara ɣer <span id='wrongSystemTimeWithoutReference_URL'/> acku tamrilt n uselkim-inek tesken-d akud arameɣtu u tuqqna-agi d taɣelsant.</p> <p>aselkim-inek ittwasbadu ɣer <span id='wrongSystemTimeWithoutReference_systemDate'/>, akken ad yefru ugur-agi senfel iɣewwaṛen n uzemz d wakud akken ad imṣaḍa d wakud amaɣtu.</p>">
 
 <!ENTITY certerror.pagetitle1  "Tuqqna taraɣelsant">
+
 <!ENTITY certerror.pagetitle2  "Ɣur-k: izmer ad yili ugur n teɣlist">
 <!ENTITY certerror.sts.pagetitle  "Ur yeqqin ara: Yezmer ad yili ugur n teɣlist">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Asmel-agi iseqdac HTTP n tɣellist n umesni ufrin (HSTS) iwakken ad yebgen i &brandShortName; akken ad yeqqen kan s tɣeliist. Ihi, d awezɣi timerna n tsureft i uselkin-agi.">
