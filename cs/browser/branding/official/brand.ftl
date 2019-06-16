@@ -14,10 +14,13 @@
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
 -brand-shorter-name = Firefox
+    .gender = masculine
 -brand-short-name = Firefox
+    .gender = masculine
 -brand-full-name = Mozilla Firefox
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name = Firefox
+    .gender = masculine
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox a logo Firefoxu jsou ochrannými známkami organizace Mozilla Foundation.
