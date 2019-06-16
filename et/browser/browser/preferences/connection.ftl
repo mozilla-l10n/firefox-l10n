@@ -70,16 +70,21 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Lubatakse DNS üle HTTPSi
     .accesskey = D
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = Üle HTTPSi toimiva nimelahenduse jaoks kasutatav URL
 # Variables:
 #   $url (String) - URL for the DNS over HTTPS provider
 connection-dns-over-https-url-default =
     .label = kasutatakse vaikeaadressi ({ $url })
     .accesskey = a
     .tooltiptext = Kasuta üle HTTPSi töötava DNSi puhul vaikeaadressi
+connection-dns-over-https-url-resolver = Teenusepakkuja
+    .accesskey = j
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (vaikimisi)
+    .tooltiptext = Kasuta nimede lahendamiseks üle HTTPSi vaikimis URLi
 connection-dns-over-https-url-custom =
     .label = kohandatud
     .accesskey = k
     .tooltiptext = Sisesta üle HTTPSi töötava DNSi jaoks oma eelistatud URL
+connection-dns-over-https-custom-label = Kohandatud
