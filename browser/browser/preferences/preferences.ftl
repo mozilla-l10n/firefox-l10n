@@ -291,6 +291,20 @@ update-pref-write-failure-title = Viga kirjutamisel
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Sätete salvestamine polnud võimalik. Järgmisse faili polnud võimalik kirjutada: { $path }
 update-setting-write-failure-title = Uuendamise sätete salvestamisel esines viga
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name }il esines viga ja muudatust ei salvestatud. Antud sätte muutmiseks on vajalikud õigused alloleva faili muutmiseks. Probleem võib laheneda, kui sina või sinu süsteemiadministraator annab Users grupile täielikud muutmise õigused sellele failile.
+    
+    Järgmist faili polnud võimalik muuta: { $path }
+update-in-progress-title = Uuendamine
+update-in-progress-message = Kas soovid, et { -brand-short-name } jätkaks uuendamisega?
+update-in-progress-ok-button = &Loobu
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = %Jätka
 
 ## General Section - Performance
 
@@ -331,8 +345,11 @@ browsing-search-on-start-typing =
     .label = Sisestamise alustamisel otsitakse teksti
     .accesskey = e
 browsing-cfr-recommendations =
-    .label = Sirvimise ajal soovitatakse laiendusi
-    .accesskey = S
+    .label = Veebilehitsemise ajal soovitatakse laiendusi
+    .accesskey = V
+browsing-cfr-features =
+    .label = Veebilehitsemise ajal soovitatakse funktsionaalsusi
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = Rohkem teavet
 
 ## General Section - Proxy
@@ -653,6 +670,7 @@ addressbar-suggestions-settings = Muuda otsingumootorite soovituste sätteid
 
 content-blocking-header = Sisu blokkimine
 content-blocking-description = Bloki kolmanda osapoole sisu, mis jälitab sind kogu veebis. Kontrolli, kui palju sinu tegevusest veebisaidid salvestada ja omavahel jagada saavad.
+content-blocking-section-description = Kaitse veebilehitsemise ajal oma privaatsust. Bloki nähtamatu sisu, mis jälitab ning profileerib sinu tegevust. Sellise sisu blokkimine võib teha lehtede laadimise kiiremaks.
 content-blocking-learn-more = Rohkem teavet
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -676,7 +694,10 @@ content-blocking-all-cookies = Kõik küpsised
 content-blocking-unvisited-cookies = Küpsised külastamata saitidelt
 content-blocking-all-windows-trackers = tuntud jälitajad kõigis akendes
 content-blocking-all-third-party-cookies = kõik kolmanda osapoole küpsised
+content-blocking-cryptominers = krüptorahakaevurid
+content-blocking-fingerprinters = seadmetuvastajad
 content-blocking-warning-title = Tähelepanu!
+content-blocking-warning-description = Sisu blokkimine võib põhjustada mõnede saitide purunemise. Blokkimise keelamine usaldusväärsetel saitidel on lihtne.
 content-blocking-learn-how = Vaata juhendit
 content-blocking-reload-description = Tehtud muudatuste rakendamiseks tuleb sul kaardid uuesti laadida.
 content-blocking-reload-tabs-button =
@@ -697,6 +718,15 @@ content-blocking-cookies-label =
     .accesskey = k
 content-blocking-expand-section =
     .tooltiptext = Rohkem teavet
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = krüptorahakaevurid
+    .accesskey = ü
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = seadmetuvastajad
+    .accesskey = j
 
 ## Privacy Section - Tracking
 
@@ -733,6 +763,10 @@ permissions-block-autoplay-media2 =
 permissions-block-autoplay-media-exceptions =
     .label = Erandid…
     .accesskey = E
+permissions-autoplay = Automaatne esitamine
+permissions-autoplay-settings =
+    .label = Sätted…
+    .accesskey = t
 permissions-block-popups =
     .label = Hüpikaknad blokitakse
     .accesskey = H
