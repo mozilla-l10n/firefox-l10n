@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Сохранить изменения
     .accesskey = х
+permissions-autoplay-menu = По умолчанию для всех веб-сайтов:
 permissions-searchbox =
     .placeholder = Поиск по веб-сайту
+permissions-capabilities-autoplay-allow =
+    .label = Разрешить аудио и видео
+permissions-capabilities-autoplay-block =
+    .label = Блокировать аудио
+permissions-capabilities-autoplay-blockall =
+    .label = Блокировать аудио и видео
 permissions-capabilities-allow =
     .label = Разрешить
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = Разрешить
 permissions-capabilities-listitem-block =
     .value = Блокировать
-permissions-capabilities-listitem-allow-first-party =
-    .value = Не принимать куки со сторонних сайтов
 permissions-capabilities-listitem-allow-session =
     .value = Разрешить на сессию
 
@@ -58,10 +63,6 @@ permissions-invalid-uri-label = Введите корректное сетево
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Исключения — Защита от отслеживания
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Вы отключили Защиту от отслеживания на следующих веб-сайтах.
 permissions-exceptions-content-blocking-window =
     .title = Исключения — Блокировка содержимого
     .style = { permissions-window.style }
@@ -101,6 +102,12 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Исключения — Автовоспроизведение
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Вы можете указать, каким веб-сайтам разрешено всегда или никогда автоматически воспроизводить медиа со звуком. Введите точный адрес сайта и нажмите кнопку «Блокировать» или «Разрешить».
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Параметры — Автовоспроизведение
+    .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 
