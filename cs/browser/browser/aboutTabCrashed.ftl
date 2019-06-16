@@ -19,6 +19,6 @@ crashed-comment =
 crashed-include-URL = Zahrnout URL adresy stránek, na kterých jste byli v okamžiku pádu aplikace { -brand-short-name }.
 crashed-email-placeholder = Zde vložte svoji e-mailovou adresu
 crashed-email-me = Informovat mě e-mailem, až bude k dispozici více informací
-crashed-report-sent = Hlášení o pádu bylo odesláno; děkujeme, že nám pomáháte { -brand-short-name } vylepšovat!
+crashed-report-sent = Hlášení o pádu bylo odesláno. Děkujeme, že nám pomáháte aplikaci { -brand-short-name } vylepšovat!
 crashed-request-auto-submit-title = Nahlásit panely na pozadí
 crashed-auto-submit-checkbox = Aktualizovat předvolby pro automatické odesílání pádů aplikace { -brand-short-name }.

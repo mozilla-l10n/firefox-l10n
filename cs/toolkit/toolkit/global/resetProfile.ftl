@@ -11,4 +11,8 @@ refresh-profile-description-details = Tím provedete:
 refresh-profile-remove = Odebraní svých doplňků a vlastního přizpůsobení
 refresh-profile-restore = Obnovení nastavení svého prohlížeče do výchozí podoby
 refresh-profile = Vyladění aplikace { -brand-short-name }
-refresh-profile-button = Obnovit { -brand-short-name }…
+refresh-profile-button =
+    { -brand-short-name.gender ->
+        [masculine] Obnovit { -brand-short-name }…
+       *[other] Obnovit aplikaci { -brand-short-name }…
+    }

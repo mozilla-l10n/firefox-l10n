@@ -31,7 +31,13 @@ restore-page-close-button =
 
 welcome-back-tab-title = Úspěch!
 welcome-back-page-title = Úspěch!
-welcome-back-page-info = Aplikace { -brand-short-name } je připravená.
+welcome-back-page-info =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } je připravený.
+        [feminine] { -brand-short-name } je připravená.
+        [neuter] { -brand-short-name } je připravené.
+       *[other] Aplikace { -brand-short-name } je připravená.
+    }
 welcome-back-restore-button =
     .label = Pojďme na to!
     .accesskey = P

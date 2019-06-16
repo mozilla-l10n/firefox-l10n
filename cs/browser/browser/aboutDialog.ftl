@@ -18,20 +18,30 @@ update-failed = Aktualizace selhala. <label data-l10n-name="failed-link">Stáhno
 update-failed-main = Aktualizace selhala. <a data-l10n-name="failed-link-main">Stáhnout nejnovější verzi</a>
 update-adminDisabled = Aktualizace jsou zakázány správcem
 update-noUpdatesFound = { -brand-short-name } je aktuální
-update-otherInstanceHandlingUpdates = { -brand-short-name } je aktualizován jinou instancí
+update-otherInstanceHandlingUpdates =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } je aktualizován jinou instancí
+        [feminine] { -brand-short-name } je aktualizována jinou instancí
+        [neuter] { -brand-short-name } je aktualizováno jinou instancí
+       *[other] Aplikace { -brand-short-name } je aktualizována jinou instancí
+    }
 update-manual = Aktualizace jsou dostupné na <label data-l10n-name="manual-link"/>
 update-unsupported = Na tomto systému nelze provádět další aktualizace. <label data-l10n-name="unsupported-link">Zjistit více</label>
 update-restarting = Restartování…
 channel-description = Používáte aktualizační kanál <label data-l10n-name="current-channel"></label>.
 warningDesc-version = { -brand-short-name } je experimentální verze a může být nestabilní.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> je <label data-l10n-name="community-exp-creditsLink">celosvětová komunita</label> snažící se o zachování veřejně dostupného, otevřeného a všem přístupného webu.
-community-2 = Aplikace { -brand-short-name } byla vytvořena organizací <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>. Jsme <label data-l10n-name="community-creditsLink">celosvětová komunita</label> snažící se o zachování veřejně dostupného, otevřeného a všem přístupného webu.
+community-2 =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } byl vytvořen organizací <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>.
+        [feminine] { -brand-short-name } byla vytvořena organizací <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>.
+        [neuter] { -brand-short-name } bylo vytvořeno organizací <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>.
+       *[other] Aplikace { -brand-short-name } byla vytvořena organizací <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>.
+    } Jsme <label data-l10n-name="community-creditsLink">celosvětová komunita</label> snažící se o zachování veřejně dostupného, otevřeného a všem přístupného webu.
 helpus = Chcete pomoci? <label data-l10n-name="helpus-donateLink">Darujte příspěvek</label> nebo <label data-l10n-name="helpus-getInvolvedLink">se zapojte!</label>
 bottomLinks-license = Licence
 bottomLinks-rights = Vaše práva
 bottomLinks-privacy = Zásady ochrany osobních údajů
-aboutDialog-architecture-sixtyFourBit = 64 bitů
-aboutDialog-architecture-thirtyTwoBit = 32 bitů
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

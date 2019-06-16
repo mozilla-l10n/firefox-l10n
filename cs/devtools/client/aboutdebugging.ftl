@@ -18,7 +18,13 @@ about-debugging-page-title-runtime-page = Ladění - běhové prostředí / { $s
 
 # Display name of the runtime for the currently running instance of Firefox. Used in the
 # Sidebar and in the Setup page.
-about-debugging-this-firefox-runtime-name = Tato aplikace { -brand-shorter-name }
+about-debugging-this-firefox-runtime-name =
+    { -brand-shorter-name.gender ->
+        [masculine] Tento { -brand-shorter-name }
+        [feminine] Tato { -brand-shorter-name }
+        [neuter] Toto { -brand-shorter-name }
+       *[other] Tato aplikace { -brand-shorter-name }
+    }
 # Sidebar heading for selecting the currently running instance of Firefox
 about-debugging-sidebar-this-firefox =
     .name = { about-debugging-this-firefox-runtime-name }
@@ -82,9 +88,6 @@ about-debugging-refresh-usb-devices-button = Obnovit seznam zařízení
 about-debugging-setup-title = Nastavení
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Nastavte si způsob připojení pro vzdálení ladění vašeho zařízení.
-# Link displayed in the Setup page that leads to MDN page with list of supported devices.
-# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
-about-debugging-setup-link-android-devices = Zobrazit seznam podporovaných zařízení s Androidem
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Použijte <a>{ about-debugging-this-firefox-runtime-name }</a> pro ladění panelů, rozšíření a service workerů v této verzi aplikace { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
@@ -105,12 +108,6 @@ about-debugging-setup-usb-updating-button = Probíhá aktualizace…
 about-debugging-setup-usb-status-enabled = Povoleno
 about-debugging-setup-usb-status-disabled = Zakázáno
 about-debugging-setup-usb-status-updating = Probíhá aktualizace…
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu = Povolte nabídku pro vývojáře na vašem zařízení s Androidem. <a>Jak na to</a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug = Povolte ladění přes USB ve nabídce pro vývojáře Androidu. <a>Jak na to</a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox = Povolte ladění přes USB ve Firefoxu pro Android. <a>Jak na to</a>
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Připojte zařízení s Androidem k vašemu počítači.
 # Network section of the Setup page
