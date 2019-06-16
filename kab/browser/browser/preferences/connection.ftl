@@ -76,6 +76,13 @@ connection-dns-over-https-url-default =
     .label = Seqdec amezwer ({ $url })
     .accesskey = S
     .tooltiptext = Seqdec URL amezwer i tifrat n DNS s HTTPS
+connection-dns-over-https-url-resolver = Seqdec asaǧǧaw
+    .accesskey = S
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (s wudem amezwer)
+    .tooltiptext = Seqdec tansa URL s wudem amezwer i tifrat n DNS s HTTPS
 connection-dns-over-https-url-custom =
     .label = Sagen
     .accesskey = S

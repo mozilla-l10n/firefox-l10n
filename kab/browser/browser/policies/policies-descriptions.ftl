@@ -53,26 +53,36 @@ policy-EnableTrackingProtection = Rmed neɣ sens asewḥel n ugbur u sekker-it m
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Sebded, Kkes neƔ sewḥel isiƔzaf. Asebded yettawi URLs neƔ iberdan d iƔewwaren. Tukksa d usewḥel seqdacen isulayen n isiƔzaf.
+policy-ExtensionSettings = Sefrek meṛṛa timeẓra n usbeddi n yisiɣzaf.
 policy-ExtensionUpdate = Emed neɣ sens alqem awurman n iseɣzaf.
+policy-FirefoxHome = Swel asebter agejdan n Firefox.
 policy-FlashPlugin = Sireg neɣ gdel asemres n uzegrir Flash.
 policy-HardwareAcceleration = Ma ur yelli d ameɣtu, sens tasɣiwelt n warrum.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Sbadu akked sewḥel ma tebɣiḍ asebter agejdan.
 policy-InstallAddonsPermission = Sireg asebded n izegrar di kra n ismal web.
+policy-LocalFileLinks = Sireg ismal usdiden i useqdec n yiseɣqan ɣer yifuyla idiganen.
+policy-NetworkPrediction = Ad yeǧǧ neɣ ad yegdel tifin n yiẓeḍwa (taɣuri tuzwirt DNS)
+policy-NewTabPage = Ad yermed neɣ ad yessens asebter agejdan n yiccer amaynut.
 policy-NoDefaultBookmarks = Sens timerna n tecraḍ n isebtar s wudem imezwer yettunefken akked { -brand-short-name }, akked tecraḍ n isebtar tuḥricin (Yettwarzan aṭas, tibzimin n melmi kan). Awennit: tasertit-agi ad teddu akken ilaq ticki tettwarmed send asenker amenzu n umaƔnu.
 policy-OfferToSaveLogins = Seddu iɣewwaṛen akken ad tsirgeḍ { -brand-short-name } ad imud cfawat n unekcum akked awalen uffiren,ama azalen iseḥan am wid ur neseḥa ad ttwaqeblen.
 policy-OverrideFirstRunPage = Beddel asebter amezwaru n uskar. Sbadu tasertit d tilemt ma tebɣiḍ ad tsenseḍ asebter amezwaru n uskar.
 policy-OverridePostUpdatePage = Beddel asebter "Acu-t amaynut" seld aleqqem. sbadu tasertit d tilemt ma tebɣiḍ ad tsenseḍ  asebter n uleqqem.
 policy-Permissions = Swel tisirag i tkamirat, asawaḍ, adig akked ilɣa.
 policy-PopupBlocking = Sireg kra n ismal web ad skanayen Isfuyla udhimens wudem amezwer.
+policy-Preferences = Ad yesbadu daɣen ad iṣekkeṛ azal n tegrumma tasnawant n yismenyifen.
+policy-PromptForDownloadLocation = Suter anida ara ttwaskelsen yifuyla deg usider.
 policy-Proxy = Swel iɣewwaṛen n upṛuksi.
 policy-RequestedLocales = Sbadu tabdart n tutlayin yettwasutren akken i tesmenyafeḍ
 policy-SanitizeOnShutdown = Sfeḍ akk isefka n tunigin deg usexsi.
+policy-SanitizeOnShutdown2 = Ad yesfeḍ isefka n tunigin deg umdal.
 policy-SearchBar = Sbadu adig imezwer n ufeggag n unadi. Aseqdac izmer ad t-isagen.
 policy-SearchEngines = Swel iƔewwaren n umsedday n unadi. Tasertit-agi tella kan di lqem Extended Support Release (ESR).
+policy-SearchSuggestEnabled = Ad yermed neɣ ad yessens isumar n unadi.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Sebded izegrar n PKCS #11.
 policy-SSLVersionMax = Sbadu lqem afellay n SSL.
 policy-SSLVersionMin = Sbadu lqem adday n SSL.
+policy-SupportMenu = Ad yernu anekcum udmawan ɣer wumuɣ n tallelt i uɛiwen.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Sewḥel anekcum Ɣer ismal web. Wali tasemlit i wugar n telqayt Ɣef umasal.
