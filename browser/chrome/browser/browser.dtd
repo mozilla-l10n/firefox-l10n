@@ -131,6 +131,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Imprimeix…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
+<!ENTITY importFromAnotherBrowserCmd.label "Importa des d'un altre navegador…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 <!ENTITY taskManagerCmd.label "Gestor de tasques">
 
@@ -256,6 +258,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.label "Imatge sobre imatge">
+<!ENTITY pictureInPicture.accesskey "I">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -337,6 +341,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Heu blocat l'ús del connector Adobe Flash en aquest lloc web.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Heu blocat l'accés MIDI per a aquest lloc web.">
 
+<!ENTITY urlbar.installBlocked.tooltip           "Heu blocat la instal·lació de complements per a aquest lloc web.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostra l'historial">
 
@@ -435,6 +440,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferències">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
+<!ENTITY logins.label                           "Inicis de sessió i contrasenyes">
 
 <!ENTITY clearRecentHistory.label               "Neteja l'historial recent…">
 
@@ -465,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Neteja l'historial recent…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaura la sessió anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Mostra la barra lateral de l'historial">
+<!ENTITY appMenuHistory.hideSidebar.label "Amaga la barra lateral de l'historial">
 <!ENTITY appMenuHistory.recentHistory.label "Historial recent">
 <!ENTITY appMenuHelp.label "Ajuda">
 
@@ -493,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Inicia la sessió al Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gestiona els dispositius…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Mostra la barra lateral «Pestanyes sincronitzades»">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Amaga la barra lateral «Pestanyes sincronitzades»">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Connecta un altre dispositiu">
 
 <!ENTITY appMenuRecentHighlights.label "Destacats recents">
@@ -964,6 +972,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Inicia la sessió al &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Sincronitza ara">
+<!ENTITY syncSyncNowItemSyncing.label "S'està sincronitzant…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Torna a connectar al &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "r">
@@ -1029,7 +1038,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Galetes">
 <!ENTITY contentBlocking.cookiesView.label "Galetes i dades dels llocs">
 
+<!ENTITY contentBlocking.cryptominers.label "Miners de criptomonedes">
+<!ENTITY contentBlocking.cryptominersView.label "Miners de criptomonedes">
 
+<!ENTITY contentBlocking.fingerprinters.label "Creadors d'empremtes digitals">
+<!ENTITY contentBlocking.fingerprintersView.label "Creadors d'empremtes digitals">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Informeu d'un problema">
 <!ENTITY contentBlocking.breakageReportView.label "Notificació de problemes">
@@ -1163,4 +1176,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Gestioneu els vostres complements fent clic a <image class='addon-addon-icon'/> al menú <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Permet que aquesta extensió s'executi en finestres privades">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "P">
 
+<!ENTITY addonPrivateBrowsing.header2.label "Canvi en les extensions en finestres privades">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Apreneu a gestionar els paràmetres de les extensions">
+<!ENTITY addonPrivateBrowsing.okButton.label "D'acord">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "o">
+<!ENTITY addonPrivateBrowsing.manageButton.label "Gestiona les extensions">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "G">
