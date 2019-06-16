@@ -108,6 +108,7 @@ permissions-exceptions-autoplay-media-desc2 = Вы можете указать, 
 permissions-site-autoplay-window =
     .title = Параметры — Автовоспроизведение
     .style = { permissions-window.style }
+permissions-site-autoplay-desc = Вы можете указать, какие сайты не будут следовать вашим настройкам автовоспроизведения по умолчанию.
 
 ## Site Permissions - Notifications
 

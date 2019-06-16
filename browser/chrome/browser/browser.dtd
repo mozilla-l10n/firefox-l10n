@@ -886,6 +886,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Эта страница загружена из расширения.">
 <!ENTITY identity.insecureLoginForms2 "Учётные данные, вводимые на этой странице, могут быть скомпрометированы.">
 
+<!ENTITY identity.customRoot "Соединение удостоверено сертификатом, издатель которого не распознан Mozilla.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; заблокировал незащищённые части этой страницы.">
@@ -905,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Этот веб-сайт содержит незащищённое содержимое (такое как сценарии) и ваше соединение с ним является незащищённым.">
 <!ENTITY identity.description.activeLoaded2 "Информация, вводимая вами на этом сайте, может быть видна посторонним (например, пароли, сообщения, номера кредитных карт и т.д.).">
 
+<!ENTITY identity.description.customRoot "Mozilla не может распознать этого издателя сертификатов. Возможно, он был добавлен из вашей операционной системы или администратором.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Включить защиту">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "ю">
