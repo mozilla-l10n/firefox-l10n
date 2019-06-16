@@ -85,6 +85,14 @@ onboarding-mobile-phone-text = Laadi alla { -brand-product-name } iOSile või An
 # browser.
 onboarding-mobile-phone-button = Laadi alla mobiilne brauser
 onboarding-send-tabs-title = Saada seadmete vahel kaarte kohe
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Kaartide saatmine seadmete vahel on kohene, nii et sa ei pea vahepeal linke kopeerima ja brauserist väljuma.
+onboarding-send-tabs-button = Alusta kaartide seadmete vahel saatmisega
+onboarding-pocket-anywhere-title = Loe ja kuula kõikjal
+onboarding-pocket-anywhere-text2 = Salvesta oma lemmik sisu rakendusega { -pocket-brand-name }, et saaksid seda lugeda, kuulata või vaadata sulle mugaval ajal, kas või ilma internetita.
+onboarding-pocket-anywhere-button = Proovi { -pocket-brand-name }it
+onboarding-lockwise-passwords-title = Võta oma paroolid kõikjale kaasa
 
 ## Message strings belonging to the Return to AMO flow
 
