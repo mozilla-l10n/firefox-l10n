@@ -3,15 +3,29 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = Zjistit více
 onboarding-button-label-try-now = Vyzkoušet
 onboarding-button-label-get-started = Začínáme
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Vítá vás { -brand-short-name }
 onboarding-welcome-body = Prohlížeč teď už máte.<br/>Poznejte ještě zbytek aplikace { -brand-product-name }.
 onboarding-welcome-learn-more = Další výhody.
-onboarding-join-form-header = Používejte { -brand-product-name }
+onboarding-join-form-header =
+    { -brand-product-name.gender ->
+        [masculine] Používejte { -brand-product-name }
+       *[other] Používejte aplikaci { -brand-product-name }
+    }
 onboarding-join-form-body = Zde vložte svou e-mailovou adresu.
 onboarding-join-form-email =
     .placeholder = Vložte e-mail
@@ -53,24 +67,16 @@ onboarding-ghostery-text = Ještě rychlejší, chytřejší a bezpečnější p
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synchronizace
 onboarding-fxa-text = Přihlaste se k účtu Firefoxu a synchronizuje své záložky, hesla a otevřené panely kdekoliv používáte aplikaci { -brand-short-name }.
-onboarding-tracking-protection-title = Kontrola nad online sledováním
-onboarding-tracking-protection-text = Nechcete být sledováni reklamami? { -brand-short-name } vám pomůže určit, jak moc nebo málo o vás reklamy zjistí.
-# "Update" is a verb, as in "Update the existing settings", not "Options about
-# updates".
-onboarding-tracking-protection-button =
-    { PLATFORM() ->
-        [windows] Nastavit
-       *[other] Nastavit
-    }
 onboarding-tracking-protection-title2 = Ochrana před sledováním
 onboarding-tracking-protection-text2 = { -brand-short-name } vám pomůže zastavit sledování webovými stránkami a znesnadní reklamám, aby vás následovaly na další weby.
 onboarding-tracking-protection-button2 = Jak to funguje
 onboarding-data-sync-title = Mějte svá nastavení všude s sebou
 # "Sync" is short for synchronize.
-onboarding-data-sync-text = Synchronizujte své záložky a hesla všude, kde používáte aplikaci { -brand-product-name }.
-onboarding-data-sync-button = Zapnout { -sync-brand-short-name }
-# "Sync" is short for synchronize.
-onboarding-data-sync-text2 = Synchronizujte své záložky, hesla a další data všude, kde používáte aplikaci { -brand-product-name }.
+onboarding-data-sync-text2 =
+    { -brand-product-name.gender ->
+        [masculine] Synchronizujte své záložky, hesla a další data všude, kde používáte { -brand-product-name }.
+       *[other] Synchronizujte své záložky, hesla a další data všude, kde používáte aplikaci { -brand-product-name }.
+    }
 onboarding-data-sync-button2 = Přihlásit ke službě { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Buďte informování o únicích dat
 onboarding-firefox-monitor-text = { -monitor-brand-name } hlídá, jestli vaše e-mailová adresa nebyla součástí nějakého úniku dat, a dá vám vědět, pokud ji v nějakém najde.
@@ -79,11 +85,18 @@ onboarding-browse-privately-title = Prohlížejte v soukromí
 onboarding-browse-privately-text = Funkce anonymního prohlížení smaže vaši historii vyhledávání a prohlížení a uchová vaše tajemství před ostatními uživateli vašeho počítače.
 onboarding-browse-privately-button = Otevřít anonymní okno
 onboarding-firefox-send-title = Sdílejte své soubory soukromě a bezpečně
-onboarding-firefox-send-text = Služba { -send-brand-name } chrání sdílené soubory end-to-end šifrováním a pomocí odkazů s omezenou platností.
 onboarding-firefox-send-text2 = Sdílejte své soubory se službou { -send-brand-name }, která je chrání pomocí end-to-end šifrování a odkazů s omezenou platností.
 onboarding-firefox-send-button = Vyzkoušet { -send-brand-name }
-onboarding-mobile-phone-title = Nainstalujte si aplikaci { -brand-product-name } do telefonu
-onboarding-mobile-phone-text = Stáhněte si { -brand-product-name } pro iOS nebo Android a synchronizujte svá data mezi zařízeními.
+onboarding-mobile-phone-title =
+    { -brand-product-name.gender ->
+        [masculine] Nainstalujte si { -brand-product-name } do telefonu
+       *[other] Nainstalujte si aplikaci { -brand-product-name } do telefonu
+    }
+onboarding-mobile-phone-text =
+    { -brand-product-name.gender ->
+        [masculine] Stáhněte si { -brand-product-name } pro iOS nebo Android a synchronizujte svá data mezi zařízeními.
+       *[other] Stáhněte si aplikaci { -brand-product-name } pro iOS nebo Android a synchronizujte svá data mezi zařízeními.
+    }
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Stáhnout mobilní prohlížeč
@@ -93,17 +106,12 @@ onboarding-send-tabs-title = Posílejte si panely mezi zařízeními
 onboarding-send-tabs-text = Posílání panelů funguje jako okamžité sdílení stránek mezi vašimi zařízeními. Nemusíte nic kopírovat ani opouštět prohlížeč.
 onboarding-send-tabs-button = Začít posílat panely
 onboarding-pocket-anywhere-title = Čtěte a nechte si číst
-# "downtime" refers to the user's free/spare time.
-onboarding-pocket-anywhere-text = { -pocket-brand-name } vám uloží články na později, takže si ji můžete přečíst až když máte čas, dokonce i offline.
 onboarding-pocket-anywhere-text2 = Uložte si svůj oblíbený obsah offline s aplikací { -pocket-brand-name } pro přečtení nebo poslech ve chvíli, kdy se vám to opravdu hodí.
 onboarding-pocket-anywhere-button = Vyzkoušet { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Mějte svá hesla všude s sebou
-onboarding-lockwise-passwords-text = { -lockwise-brand-name } bezpečně uloží vaše hesla a usnadní vám přihlašování do vašich účtů.
-onboarding-lockwise-passwords-button = Získat { -lockwise-brand-name }
 onboarding-lockwise-passwords-text2 = Ukládejte svá hesla bezpečně pomocí { -lockwise-brand-name }, který vám usnadní rychlé přihlašování do vašich účtů.
 onboarding-lockwise-passwords-button2 = Stáhnout aplikaci
 onboarding-facebook-container-title = Nastavte hranice pro Facebook
-onboarding-facebook-container-text = Doplněk { -facebook-container-brand-name } oddělí vaši Facebookovou identitu od zbytku internetu, takže nebude tak snadné vás na internetu vysledovat.
 onboarding-facebook-container-text2 = Doplněk { -facebook-container-brand-name } oddělí váš účet od zbytku internetu, takže pro Facebook a jeho reklamy nebude tak snadné vás na internetu vysledovat.
 onboarding-facebook-container-button = Nainstalovat rozšíření
 

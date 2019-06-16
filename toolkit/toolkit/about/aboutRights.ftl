@@ -4,7 +4,13 @@
 
 rights-title = Vaše práva
 rights-intro = { -brand-full-name } je svobodný software s otevřeným zdrojovým kódem, který je vytvářen tisíci dobrovolníky z celého světa. Je zde ale několik věcí, které byste měli vědět:
-rights-intro-point-1 = Aplikace { -brand-short-name } je dostupná za podmínek stanovených ve <a data-l10n-name="mozilla-public-license-link">Veřejné licenci Mozilly</a> (MPL). Ta vám umožňuje aplikaci { -brand-short-name } používat, kopírovat a šířit. Pokud potřebujete, můžete také pozměnit zdrojový kód aplikace { -brand-short-name } podle vašich potřeb. Mozilla Public License vám dává také právo šířit vámi pozměněné verze.
+rights-intro-point-1 =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } je dostupný za podmínek stanovených ve <a data-l10n-name="mozilla-public-license-link">Veřejné licenci Mozilly</a> (MPL).
+        [feminine] { -brand-short-name } je dostupná za podmínek stanovených ve <a data-l10n-name="mozilla-public-license-link">Veřejné licenci Mozilly</a> (MPL).
+        [neuter] { -brand-short-name } je dostupné za podmínek stanovených ve <a data-l10n-name="mozilla-public-license-link">Veřejné licenci Mozilly</a> (MPL).
+       *[other] Aplikace { -brand-short-name } je dostupná za podmínek stanovených ve <a data-l10n-name="mozilla-public-license-link">Veřejné licenci Mozilly</a> (MPL).
+    } Ta vám umožňuje aplikaci { -brand-short-name } používat, kopírovat a šířit. Pokud potřebujete, můžete také pozměnit zdrojový kód aplikace { -brand-short-name } podle vašich potřeb. Mozilla Public License vám dává také právo šířit vámi pozměněné verze.
 rights-intro-point-2 = Nejsou vám však podstoupena žádná práva ani licence k ochranným známkám Mozilla Foundation, či třetích stran, a to zejména k logu a názvu Firefox. Podrobnější informace o ochranných známkách jsou dostupné <a data-l10n-name="mozilla-trademarks-link">zde</a>.
 rights-intro-point-3 = Některé funkce aplikace { -brand-short-name }, jako např. hlášení pádů, vám umožní odeslat zpětnou vazbu organizaci { -vendor-short-name }. Odesláním zpětné vazby poskytujete organizaci { -vendor-short-name } povolení k jejímu použití pro vylepšení produktů, zveřejnění na stránkách a distribuci.
 rights-intro-point-4 = Způsoby užití osobních informací a zpětné vazby odeslané organizaci { -vendor-short-name } pomocí aplikace { -brand-short-name } jsou popsány v <a data-l10n-name="mozilla-privacy-policy-link">zásadách aplikace { -brand-short-name } pro ochranu osobních údajů</a>.

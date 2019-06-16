@@ -13,4 +13,10 @@ safe-mode-description = Nouzový režim je speciální režim aplikace { -brand-
 safe-mode-description-details = Vaše doplňky a vlastní nastavení budou dočasně zakázány a některé funkce aplikace { -brand-short-name } nemusí fungovat jako nyní.
 refresh-profile-instead = Můžete také obnovit nastavení aplikace { -brand-short-name } a začít znova.
 # Shown on the safe mode dialog after multiple startup crashes. 
-auto-safe-mode-description = { -brand-short-name } byl při startu neočekávaně ukončen, což mohlo být způsobeno nainstalovanými doplňky nebo jinými problémy. Můžete se pokusit problémy vyřešit v nouzovém režimu.
+auto-safe-mode-description =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } byl při startu neočekávaně ukončen
+        [feminine] { -brand-short-name } byla při startu neočekávaně ukončena
+        [neuter] { -brand-short-name } bylo při startu neočekávaně ukončeno
+       *[other] Aplikace { -brand-short-name } byla při startu neočekávaně ukončena
+    }, což mohlo být způsobeno nainstalovanými doplňky nebo jinými problémy. Můžete se pokusit problémy vyřešit v nouzovém režimu.

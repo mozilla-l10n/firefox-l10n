@@ -6,10 +6,34 @@ safeb-blocked-phishing-page-title = Klamavá stránka
 safeb-blocked-malware-page-title = Návštěva této stránky může poškodit váš počítač
 safeb-blocked-unwanted-page-title = Tato stránka může obsahovat škodlivé programy
 safeb-blocked-harmful-page-title = Tato stránka může obsahovat malware
-safeb-blocked-phishing-page-short-desc = Aplikace { -brand-short-name } zablokovala tuto stránku, protože se vás může snažit přimět k něčemu nebezpečnému, jako je instalace softwaru nebo prozrazení osobních informací, např. hesel nebo čísla platební karty.
-safeb-blocked-malware-page-short-desc = Aplikace { -brand-short-name } zablokovala tuto stránku, protože se mohla pokusit nainstalovat nebezpečné programy a ukrást nebo smazat vaše data.
-safeb-blocked-unwanted-page-short-desc = Aplikace { -brand-short-name } zablokovala tuto stránku, protože se vás může snažit přimět nainstalovat programy, které vám budou škodit při prohlížení (např. změnou domovské stránky nebo zobrazováním dalších reklam).
-safeb-blocked-harmful-page-short-desc = Aplikace { -brand-short-name } zablokovala tuto stránku, protože se může pokoušet nainstalovat nebezpečné programy a ukrást nebo smazat vaše data (např. fotografie, hesla, zprávy nebo číslo platební karty).
+safeb-blocked-phishing-page-short-desc =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zablokoval tuto stránku
+        [feminine] { -brand-short-name } zablokovala tuto stránku
+        [neuter] { -brand-short-name } zablokovalo tuto stránku
+       *[other] Aplikace { -brand-short-name } zablokovala tuto stránku
+    }, která se vás může snažit přimět k něčemu nebezpečnému, jako je instalace softwaru nebo prozrazení osobních informací, např. hesel nebo čísla platební karty.
+safeb-blocked-malware-page-short-desc =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zablokoval tuto stránku
+        [feminine] { -brand-short-name } zablokovala tuto stránku
+        [neuter] { -brand-short-name } zablokovalo tuto stránku
+       *[other] Aplikace { -brand-short-name } zablokovala tuto stránku
+    }, která se mohla pokoušet nainstalovat nebezpečné programy a ukrást nebo smazat vaše data.
+safeb-blocked-unwanted-page-short-desc =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zablokoval tuto stránku
+        [feminine] { -brand-short-name } zablokovala tuto stránku
+        [neuter] { -brand-short-name } zablokovalo tuto stránku
+       *[other] Aplikace { -brand-short-name } zablokovala tuto stránku
+    }, která se vás může snažit přimět nainstalovat programy, které vám budou škodit při prohlížení (např. změnou domovské stránky nebo zobrazováním dalších reklam).
+safeb-blocked-harmful-page-short-desc =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zablokoval tuto stránku
+        [feminine] { -brand-short-name } zablokovala tuto stránku
+        [neuter] { -brand-short-name } zablokovalo tuto stránku
+       *[other] Aplikace { -brand-short-name } zablokovala tuto stránku
+    }, která se může pokoušet nainstalovat nebezpečné programy a ukrást nebo smazat vaše data (např. fotografie, hesla, zprávy nebo číslo platební karty).
 safeb-palm-advisory-desc = Rady poskytnuty společností <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Zpátky
 safeb-palm-see-details-label = Podrobnosti

@@ -121,7 +121,7 @@ startup-header = Spuštění
 # { -brand-short-name } will be 'Firefox Developer Edition',
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
-    .label = Povolit současné spuštění aplikací { -brand-short-name } a Firefox
+    .label = Povolit současné spuštění aplikace { -brand-short-name } a Firefox
 use-firefox-sync = Tip: Budou použity oddělené uživatelské profily. Pro sdílení dat mezi nimi můžete použít { -sync-brand-short-name(case: "acc") }.
 get-started-not-logged-in = Přihlášení k { -sync-brand-short-name(case: "dat") }…
 get-started-configured = Otevřít nastavení { -sync-brand-short-name(case: "gen") }
@@ -303,7 +303,13 @@ update-setting-write-failure-message =
     
     Není možný zápis do souboru: { $path }
 update-in-progress-title = Probíhá aktualizace
-update-in-progress-message = Chcete, aby aplikace { -brand-short-name } pokračovala v aktualizaci?
+update-in-progress-message =
+    { -brand-short-name.gender ->
+        [masculine] Chcete, aby { -brand-short-name } pokračoval v aktualizaci?
+        [feminine] Chcete, aby { -brand-short-name } pokračovala v aktualizaci?
+        [neuter] Chcete, aby { -brand-short-name } pokračovalo v aktualizaci?
+       *[other] Chcete, aby aplikace { -brand-short-name } pokračovala v aktualizaci?
+    }
 update-in-progress-ok-button = &Nepokračovat
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
