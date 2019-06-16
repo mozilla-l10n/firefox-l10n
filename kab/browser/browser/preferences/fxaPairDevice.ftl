@@ -5,4 +5,5 @@
 fxa-pair-device-dialog =
     .title = Qqen ibenk-nniḍen
     .style = tahri: 26em; tsd-tuɣzi: 35em;
+fxa-qrcode-error-title = Acuddu ur yeddi ara.
 fxa-qrcode-error-body = Ɛreḍ tikelt nniḍen.

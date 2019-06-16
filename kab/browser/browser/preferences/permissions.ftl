@@ -34,8 +34,11 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Sekles asnifel
     .accesskey = S
+permissions-autoplay-menu = S wudem amezwer i yismal meṛṛa:
 permissions-searchbox =
     .placeholder = Nadi asmel web
+permissions-capabilities-autoplay-allow =
+    .label = Sireg ameslaw d uvidyu
 permissions-capabilities-autoplay-block =
     .label = Sewḥel imesli
 permissions-capabilities-autoplay-blockall =
@@ -102,6 +105,10 @@ permissions-exceptions-autoplay-media-desc2 = Tzemreḍ ad d-tmuddeḍ ismal web
 
 ## Site Permissions - Autoplay
 
+permissions-site-autoplay-window =
+    .title = Iɣewwaṛen - Taɣuṛi tawurmant
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Tzemreḍ ad tesferkeḍ dagi ismal ur neṭṭafaṛ ara iɣewwaṛen-ik n tɣuṛi tawurmant s wudem amezwer.
 
 ## Site Permissions - Notifications
 

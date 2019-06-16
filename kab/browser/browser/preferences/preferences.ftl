@@ -34,6 +34,7 @@ policies-notice =
         [windows] Tuddsa-ik tessens tazmert n ubeddel n kra n iɣewwaṛen.
        *[other] Tuddsa-ik tessens tazmert n ubeddel n kra n ismenyifen.
     }
+managed-notice = Iminig-ik tessefrak-it tuddsa-ik.
 pane-general-title = Amatu
 category-general =
     .tooltiptext = { pane-general-title }
@@ -278,6 +279,7 @@ update-application-check-choose =
 update-application-manual =
     .label = Werǧin ad tnadiḍ ileqman (mačči d ayen ilhan)
     .accesskey = W
+update-application-warning-cross-user-setting = Aɣewwaṛ-a ad yeḍḍu ɣef yimiḍanen meṛṛa n Windows akked yimeɣna { -brand-short-name } i yesseqdacen asbeddi n { -brand-short-name }.
 update-application-use-service =
     .label = Seqdec ameẓlu n ugilal i usebded n ileqman
     .accesskey = b
@@ -288,6 +290,7 @@ update-pref-write-failure-title = Tuccḍa deg tira
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = UR yezmir ara ad yessekles ismenyifen.Ur yezmir ad yaru de ufaylu: { $path }
+update-setting-write-failure-title = Tuccḍa deg usekles n yismenyifen n uleqqem
 update-in-progress-title = Aleqqem itteddu
 update-in-progress-message = Tebɣiḍ { -brand-short-name } ad ikemmel aleqqem-agi?
 update-in-progress-ok-button = &Kkes
@@ -335,6 +338,9 @@ browsing-search-on-start-typing =
     .accesskey = N
 browsing-cfr-recommendations =
     .label = Welleh isizaf ticki tettiniged
+    .accesskey = W
+browsing-cfr-features =
+    .label = Welleh ɣef timahilin n tunigin iteddun akka tura.
     .accesskey = W
 browsing-cfr-recommendations-learn-more = Issin ugar
 
@@ -528,6 +534,7 @@ sync-device-name-save =
     .accesskey = l
 sync-connect-another-device = Qqen ibenk-nniḍen
 sync-manage-devices = Sefrek ibenkan
+sync-fxa-begin-pairing = Cudd ibenk
 sync-tos-link = Tiwtilin n useqdec
 sync-fxa-privacy-notice = Tasertit n tbaḍnit
 
