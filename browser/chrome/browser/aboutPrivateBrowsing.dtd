@@ -7,7 +7,6 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
 <!ENTITY privateBrowsing.title                           "Privaatne veebilehitsemine">
-<!ENTITY privateBrowsing.title.tracking                  "Privaatne veebilehitsemine jälitamisvastase kaitsega">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Kui sa lehitsed veebi privaatses aknas, siis Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "ei salvesta">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
@@ -28,9 +27,17 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "privaatse veebilehitsemise kohta">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
-<!ENTITY trackingProtection.title                        "Jälitamisvastane kaitse">
-<!ENTITY trackingProtection.description2                 "Mõned saidid kasutavad jälitamistehnoloogiaid, mis võivad jälitada sinu tegevust üle terve interneti. Firefoxi jälitamisvastane kaitse tõkestab paljudel sellistel jälitajatel sinu tegevuste kohta andmete kogumise.">
 <!ENTITY trackingProtection.startTour1                   "Vaata, kuidas see töötab">
 
 <!ENTITY contentBlocking.title                           "Sisu blokkimine">
 <!ENTITY contentBlocking.description                     "Mõned saidid kasutavad jälitamistehnoloogiaid, mis võivad jälitada sinu tegevust üle terve interneti. Firefoxi sisu blokkija blokib automaatselt paljud sellised jälitajad, kes võivad koguda andmeid sinu lehitsemiseelistuste kohta.">
+
+<!-- Strings for new Private Browsing with Search -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
+                       text for the search box.   -->
+<!ENTITY aboutPrivateBrowsing.search.placeholder         "Otsi veebist">
+<!ENTITY aboutPrivateBrowsing.info.title                 "Oled privaatses aknas">
+<!ENTITY aboutPrivateBrowsing.info.description           "&brandShortName; kustutab otsimise ja lehitsemise ajaloo, kui väljud rakendusest või sulged privaatsed kaardid ja aknad. Kuigi see ei muuda sind külastatavate veebilehtede või internetiteenuse pakkuja ees anonüümseks, siis kaitseb see siiski sinu privaatsust teiste selle arvuti kasutajate eest.">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
+                       about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "Levinumad müüdid privaatse veebilehitsemise kohta">
