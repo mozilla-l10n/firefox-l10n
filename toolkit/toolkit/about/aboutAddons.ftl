@@ -95,7 +95,7 @@ detail-update-manual =
 detail-private-browsing-label = Запуск в приватных окнах
 detail-private-browsing-description2 = Когда разрешено, расширение будет иметь доступ к вашей активности в Интернете во время приватного просмотра. <label data-l10n-name="detail-private-browsing-learn-more">Подробнее</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
-# cannot be overriden by the user.
+# cannot be overridden by the user.
 detail-private-disallowed-label = Не разрешено в приватных окнах
 detail-private-disallowed-description = Это расширение не будет работать в режиме приватного просмотра. <label data-l10n-name="detail-private-browsing-learn-more">Подробнее</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
@@ -353,8 +353,18 @@ addon-badge-private-browsing-allowed =
 addon-detail-private-browsing-help = Когда разрешено, расширение будет иметь доступ к вашей активности в Интернете во время приватного просмотра. <a data-l10n-name="learn-more">Подробнее</a>
 addon-detail-private-browsing-allow = Разрешить
 addon-detail-private-browsing-disallow = Не разрешать
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Рекомендуемые
+    .alt = Рекомендуемые
 available-updates-heading = Доступные обновления
 recent-updates-heading = Недавно обновлённые
 release-notes-loading = Загрузка…
 release-notes-error = При загрузке примечаний к выпуску возникли проблемы.
 addon-permissions-empty = Это расширение не требует дополнительных разрешений
+recommended-extensions-heading = Рекомендуемые расширения
+recommended-themes-heading = Рекомендуемые темы
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Чувствуете прилив вдохновения? <a data-l10n-name="link">Создайте свою собственную тему с помощью Firefox Color.</a>

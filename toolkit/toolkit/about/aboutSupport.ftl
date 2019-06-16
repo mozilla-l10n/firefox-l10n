@@ -87,7 +87,7 @@ graphics-decision-log-title = Лог решения
 graphics-crash-guards-title = Возможности, отключённые защитой от падения
 graphics-workarounds-title = Способы обхода
 # Windowing system in use on Linux (e.g. X11, Wayland).
-graphics-window-protocol = Оконный протокол
+graphics-window-protocol = Протокол управления окнами
 place-database-title = База данных Places
 place-database-integrity = Целостность
 place-database-verify-integrity = Проверить целостность
