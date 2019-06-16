@@ -105,7 +105,7 @@ security-view-privacy-viewpasswords =
 security-view-technical =
     .value = Talqayt tatiknikt
 help-button =
-    .label = Tallalt
+    .label = Tallelt
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo

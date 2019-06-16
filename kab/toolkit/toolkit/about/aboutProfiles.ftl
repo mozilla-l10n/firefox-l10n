@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profiles-title = Talɣut ɣef imaɣna
-profiles-subtitle = Asebter-a ad k-d-yefk tallalt i usefrek n imeɣna-inek. Yal ameɣnu d amaḍal i yiman-is i igebren amazray-ines, ticraḍ-ines n isebtar, iɣawwaṛen-ines d izegrar-ines.
+profiles-subtitle = Asebter-a ad k-d-yefk tallelt i usefrek n imeɣna-inek. Yal ameɣnu d amaḍal i yiman-is i igebren amazray-ines, ticraḍ-ines n isebtar, iɣawwaṛen-ines d izegrar-ines.
 profiles-create = Rnu amaɣnu amaynut
 profiles-restart-title = Ales asenker
 profiles-restart-in-safe-mode = Ales asenker s usensi n izegrar…

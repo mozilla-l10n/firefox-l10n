@@ -131,7 +131,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Siggez">
 <!ENTITY printCmd.accesskey "S">
 <!ENTITY printCmd.commandkey "p">
-
 <!ENTITY importFromAnotherBrowserCmd.label "Kter seg iminig nniḍen…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
@@ -340,6 +339,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Tesweḥleḍ asmel-agi web seg useqdec n umenṭaḍ Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Tesweḥleḍ anekcum i MIDI γer usmel-agi.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Sken amazray">
 
 <!ENTITY searchItem.title             "Nadi">
@@ -437,7 +437,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "w">
 <!ENTITY preferencesCmdUnix.label       "Ismenyifen">
 <!ENTITY preferencesCmdUnix.accesskey     "s">
-
 <!ENTITY logins.label                           "Inekcam d wawalen uffiren">
 
 <!ENTITY clearRecentHistory.label               "Sfeḍ amazray-ik n melmi kan…">
@@ -471,7 +470,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "Sken agalis adisan n umazray">
 <!ENTITY appMenuHistory.hideSidebar.label "Ffer agalis adisan n umazray">
 <!ENTITY appMenuHistory.recentHistory.label "Amazray n melmi kan">
-<!ENTITY appMenuHelp.label "Tallalt">
+<!ENTITY appMenuHelp.label "Tallelt">
 
 <!ENTITY appMenuRemoteTabs.label "Accaren yemtawin">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -528,6 +527,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "n">
 <!ENTITY customizeMenu.removeExtension.label "Kkes asiɣzef">
 <!ENTITY customizeMenu.removeExtension.accesskey "v">
+
+<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
+     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     an abuse report related to that extension. "Report" is a verb. -->
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -878,6 +881,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Asebter-a yuli-d seg usiɣzef.">
 <!ENTITY identity.insecureLoginForms2 "Isem n useqdac d wawal uffir i tesqedceḍ deg usmel-a zemren ad ttwakren.">
 
+
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; issewḥel kra n tazunin ur nelli ara d iɣelsanen deg usebter-a.">
 <!ENTITY identity.passiveLoaded "Kra n yiḥricen deg usebter-a mačči d iɣelsanen (am tugniwin).">
@@ -895,6 +899,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Ɣas akken &brandShortName; issewḥel kra n ugbur, mazal yella kra n ugbur ur nelli d aɣelsan deg usebter (am tugniwin).">
 <!ENTITY identity.description.activeLoaded "Asmel-a isεa agbur araɣelsan (am iskripten) u tuqqna-inek ɣur-s mačči d tusligt.">
 <!ENTITY identity.description.activeLoaded2 "Zemren wiyaḍ ad walin talɣut ara tebḍuḍ d usmel-a (am wawalen uffiren, iznan, atg.).">
+
 
 <!ENTITY identity.enableMixedContentBlocking.label "Sermed ammesten">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "R">

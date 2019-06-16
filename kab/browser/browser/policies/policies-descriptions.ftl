@@ -25,7 +25,7 @@ policy-DefaultDownloadDirectory = Ad yesbadu akaram n usider s wudem amezwer.
 policy-DisableAppUpdate = Sewḥel aleqqem n yiminig.
 policy-DisableBuiltinPDFViewer = Sens PDF.js, ameskan PDF usliɣ deg { -brand-short-name }.
 policy-DisableDeveloperTools = Sewḥel anekcum ɣer ifecka n tneflit.
-policy-DisableFeedbackCommands = Sens tiludna akken ad aɣ-d-tazneḍ tikti-inek/inem seg wumuɣ n tallalt ( Azen-d tikti u mmel-aɣ-d ismal ur nemɛin ara).
+policy-DisableFeedbackCommands = Sens tiludna akken ad aɣ-d-tazneḍ tikti-inek/inem seg wumuɣ n tallelt ( Azen-d tikti u mmel-aɣ-d ismal ur nemɛin ara).
 policy-DisableFirefoxAccounts = Sens tanfiwin yebnan ɣef { -fxaccount-brand-name }, ula d Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Sens tamahilt Firefox Screenshots.

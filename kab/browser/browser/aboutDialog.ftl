@@ -26,12 +26,10 @@ channel-description = Aqli-k tura deg <label data-l10n-name="current-channel"></
 warningDesc-version = { -brand-short-name } d armitan yerna ur yerkid.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name } </label> d <label data-l10n-name="community-exp-creditsLink">tamezdagnut tamaḍalant </label> ad neqdec lwaḥid akken ad neǧǧ Web yeldi, d azayez, d uffran i yal yiwen.
 community-2 = { -brand-short-name } ifeṣṣel-it <label data-l10n-name="community-mozillaLink">{ -vendor-short-name } </label>,agraw amaḍlan n  <label data-l10n-name="community-creditsLink">imttekkiyen </label> ad nexdem lwaḥid akken ad neǧǧ Web yeldi, d azayez, d uffran i yal yiwen.
-helpus = Tebɣiḍ tallalt? <label data-l10n-name="helpus-donateLink">Efk tawsa</label> neɣ <label data-l10n-name="helpus-getInvolvedLink">kki!</label>
+helpus = Tebɣiḍ tallelt? <label data-l10n-name="helpus-donateLink">Efk tawsa</label> neɣ <label data-l10n-name="helpus-getInvolvedLink">kki!</label>
 bottomLinks-license = Talɣut n turagt
 bottomLinks-rights = Izerfan n useqdac
 bottomLinks-privacy = Tasertit n tbaḍnit
-aboutDialog-architecture-sixtyFourBit = 64-ibiten
-aboutDialog-architecture-thirtyTwoBit = 32-ibiten
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

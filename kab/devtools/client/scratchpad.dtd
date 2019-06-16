@@ -11,7 +11,7 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!-- LOCALIZATION NOTE (scratchpad.title):
+<!-- LOCALIZATION NOTE (window.title):
   -  The Scratchpad is intended to provide a simple text editor for creating
   -  and evaluating bits of JavaScript code for the purposes of function
   -  prototyping, experimentation and convenient scripting.
@@ -119,12 +119,12 @@
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
-<!ENTITY helpMenu.label               "Tallalt">
+<!ENTITY helpMenu.label               "Tallelt">
 <!ENTITY helpMenu.accesskey           "l">
-<!ENTITY helpMenuWin.label            "Tallalt">
+<!ENTITY helpMenuWin.label            "Tallelt">
 <!ENTITY helpMenuWin.accesskey        "T">
 
-<!ENTITY documentationLink.label      "Tallalt i tacirra JavaScript  ɣef MDN">
+<!ENTITY documentationLink.label      "Tallelt i tacirra JavaScript ɣef MDN">
 <!ENTITY documentationLink.accesskey  "J">
 
 

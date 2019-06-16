@@ -8,15 +8,15 @@
 <!ENTITY zoomWindow.label         "Semɣer/Semẓi">
 <!ENTITY windowMenu.label         "Asfaylu">
 
-<!ENTITY helpMenu.label           "Tallalt"> 
+<!ENTITY helpMenu.label           "Tallelt"> 
 <!ENTITY helpMenu.accesskey       "T"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Tallalt"> 
+<!ENTITY helpMenuWin.label        "Tallelt"> 
 <!ENTITY helpMenuWin.accesskey    "T">
 <!ENTITY aboutProduct2.label      "Ɣef &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "Γ">
-<!ENTITY productHelp2.label       "Tallalt &brandShorterName;">
+<!ENTITY productHelp2.label       "Tallelt &brandShorterName;">
 <!ENTITY productHelp2.accesskey   "a">
 <!ENTITY helpMac.commandkey       "?">
 
@@ -27,9 +27,6 @@
 <!ENTITY helpSafeMode.accesskey   "A">
 <!ENTITY helpSafeMode.stop.label       "Ales asenker s yizegrar urmiden">
 <!ENTITY helpSafeMode.stop.accesskey   "A">
-
-<!ENTITY healthReport2.label      "Aneqqis n tezmert n &brandShorterName;">
-<!ENTITY healthReport2.accesskey  "T">
 
 <!ENTITY helpTroubleshootingInfo.label      "Talɣut n usellek">
 <!ENTITY helpTroubleshootingInfo.accesskey  "Γ">

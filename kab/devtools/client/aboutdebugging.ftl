@@ -53,7 +53,7 @@ about-debugging-sidebar-runtime-item-name-no-device =
 # Text to show as the ALT attribute of a help icon that accompanies the help about
 # debugging link in the footer of the sidebar
 about-debugging-sidebar-support-icon =
-    .alt = Tignit n tallalt
+    .alt = Tignit n tallelt
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
 about-debugging-refresh-usb-devices-button = Smiren ibenkan

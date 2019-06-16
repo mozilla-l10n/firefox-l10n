@@ -24,7 +24,7 @@ list-empty-button =
 install-addon-from-file =
     .label = Sebded azegrir seg ufaylu…
     .accesskey = S
-help-button = Tallalt izegrar
+help-button = Tallelt izegrar
 preferences =
     { PLATFORM() ->
         [windows] Iɣewwaren n { -brand-short-name }
@@ -76,7 +76,7 @@ detail-version =
     .label = Lqem
 detail-last-updated =
     .label = Aleqqem aneggaru
-detail-contributions-description = Aneflay n uzegrir-agi isutur-ak-d tallalt akken ad iseddu taneflit-ines ticki tmuddeḍ-as cwiṭ n tewsa.
+detail-contributions-description = Aneflay n uzegrir-agi isutur-ak-d tallelt akken ad iseddu taneflit-ines ticki tmuddeḍ-as cwiṭ n tewsa.
 detail-update-type =
     .value = Aleqqem awurman
 detail-update-default =
