@@ -440,6 +440,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "S">
 <!ENTITY preferencesCmdUnix.label       "Eelistused">
 <!ENTITY preferencesCmdUnix.accesskey     "E">
+<!ENTITY logins.label                           "Kasutajatunnused ja paroolid">
 
 <!ENTITY clearRecentHistory.label               "Kustuta hiljutine ajalugu…">
 
@@ -470,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Kustuta hiljutine ajalugu…">
 <!ENTITY appMenuHistory.restoreSession.label "Taasta eelmine seanss">
 <!ENTITY appMenuHistory.viewSidebar.label "Kuva ajaloo külgriba">
+<!ENTITY appMenuHistory.hideSidebar.label "Peida ajaloo külgriba">
 <!ENTITY appMenuHistory.recentHistory.label "Hiljutine ajalugu">
 <!ENTITY appMenuHelp.label "Abi">
 
@@ -498,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Logi Synci sisse">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Halda seadmeid…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vaata sünkroniseeritud kaartide külgriba">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Peida sünkroniseeritud kaartide külgriba">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Ühenda teine seade">
 
 <!ENTITY appMenuRecentHighlights.label "Hiljuti esile tõstetud">
@@ -531,6 +534,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.label "Raporteeri laiendusest">
+<!ENTITY customizeMenu.reportExtension.accesskey "R">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -672,6 +677,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "Salvesta Pocketisse">
+<!ENTITY saveToPocketCmd.label        "Salvesta leht Pocketisse">
+<!ENTITY saveToPocketCmd.accesskey    "k">
+<!ENTITY saveLinkToPocketCmd.label    "Salvesta link Pocketisse">
+<!ENTITY saveLinkToPocketCmd.accesskey "l">
+<!ENTITY pocketMenuitem.label         "Vaata Pocketi nimekirja">
 
 <!ENTITY emailPageCmd.label           "Saada link e-postiga…">
 <!ENTITY emailPageCmd.accesskey       "d">
