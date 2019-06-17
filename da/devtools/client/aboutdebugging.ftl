@@ -113,6 +113,9 @@ about-debugging-setup-link-android-devices = Vis liste med understøttede Androi
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Brug <a>{ about-debugging-this-firefox-runtime-name }</a> til at debugge faneblade, udvidelser og service-workers i denne version af { -brand-shorter-name }.
 
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Brug <a>{ about-debugging-this-firefox-runtime-name }</a> til at debugge udvidelser og service-workers i denne version af { -brand-shorter-name }.
+
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Opret forbindelse til en enhed
 
