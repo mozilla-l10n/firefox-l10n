@@ -24,9 +24,11 @@
 <!ENTITY firstrun_sync_message2 "Halda áfram þar sem frá var horfið.">
 <!ENTITY firstrun_sync_subtext2 "Notaðu samstillingu til að finna bókarmerki, lykilorð og annað sem þú hefur vistað í &brandShortName; á öllum þínum tækjum.">
 <!ENTITY newfirstrun_sync_subtext "Samstilltu á öruggan hátt það sem þú vistar í Firefox á farsímanum yfir á Firefox í tölvunni.">
+<!ENTITY updatednewfirstrun_sync_subtext "Skráðu þig inn með reikningi þínum til að fá sem mest út úr &brandShortName;">
 <!ENTITY firstrun_signin_message "Tengdu þig til að hefjast handa">
 <!ENTITY firstrun_signin_button "Skráðu þig inn til að samstilla">
 <!ENTITY newfirstrun_signin_button "Kveikja á samstillingu">
+<!ENTITY updatednewfirstrun_signin_button "Skrá sig inn í &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Fara að vafra">
 <!ENTITY firstrun_button_notnow "Ekki núna">
 <!ENTITY firstrun_button_next "Áfram">
@@ -66,6 +68,12 @@
 <!ENTITY  sending_crash_report "Senda hrunaskýrslu\u2026">
 <!ENTITY  crash_close_label "Loka">
 <!ENTITY  crash_restart_label "Endurræsa &brandShortName;">
+
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; hrundi">
+<!ENTITY  crash_notification_message "Snerta til að senda &vendorShortName; tilkynningu">
+<!ENTITY  crash_notification_negative_button_text "Hunsa">
 
 <!ENTITY url_bar_default_text2 "Leitaðu eða sláðu inn vistfang">
 
@@ -108,6 +116,10 @@
 <!ENTITY bookmark_folder_updated "Mappa uppfærð">
 <!ENTITY bookmark_parent_folder "Yfirmappa">
 <!ENTITY bookmark_add_folder "Bæta við nýrri möppu">
+
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(enginn titill)">
 
 <!ENTITY reader_saved_offline "Vistað á tæki">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -413,8 +425,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Niðurhal">
 <!ENTITY pref_private_data_syncedTabs "Samstilltir flipar">
 
-<!ENTITY pref_default_browser "Nota sem sjálfgefinn vafri">
-
 <!ENTITY pref_default_browser2 "Gera &brandShortName; að sjálfgefnum vafra">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -592,6 +602,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "Stikkorð">
 <!ENTITY bookmark_select_folder "Veldu möppu">
 
+<!ENTITY bookmark_edit_undo "Afturkalla">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "Svæðis stilingar">
@@ -679,6 +691,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Veldu eða taktu upp hljóðbút">
 <!ENTITY filepicker_image_title "Veldu eða taktu ljómynd">
 <!ENTITY filepicker_video_title "Veldu eða taktu upp myndband">
+
+<!ENTITY filepicker_permission_denied "Nauðsynlegar heimildir ekki veittar, sný aftur í kerfisskráar valmöguleikann.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Núverandi tenging við">
@@ -918,6 +932,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Stöðva">
 <!ENTITY pip_pause_button_description "Stöðva spilun">
 
+<!ENTITY pref_notification_settings_link "Stýra stillingum fyrir tilkynningar">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Vafri">
 <!ENTITY mls_notification_channel "&vendorShortName; staðsetningarþjónusta">
@@ -930,3 +945,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Síðutilkynningar">
+<!ENTITY crash_handler_notifications_channel "&brandShortName; hrunskýrsla">
