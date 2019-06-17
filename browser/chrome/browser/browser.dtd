@@ -886,6 +886,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Selle lehe sisu pärineb laienduselt.">
 <!ENTITY identity.insecureLoginForms2 "Sellele lehele sisestatavad kasutajakonto andmed võivad ohus olla.">
 
+<!ENTITY identity.customRoot "Ühendus on verifitseeritud Mozillale tundmatu serdi väljaandja poolt.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; blokkis sellel lehel mõned ebaturvalised osad.">
@@ -905,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "See veebileht sisaldab ebaturvalist sisu (nt skripte) ja ühendus sellega pole privaatne.">
 <!ENTITY identity.description.activeLoaded2 "Saidiga jagatavaid andmeid (nt paroolid, sõnumid, krediitkaardi andmed jne) võivad näha ka teised.">
 
+<!ENTITY identity.description.customRoot "Mozilla ei tea seda serdi väljaandjat. Selle võis lisada operatsioonisüsteem või süsteemiadministraator.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Luba kaitse">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "L">
@@ -923,6 +925,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Sellele saidile pole tagatud ühtki eriõigust.">
 <!ENTITY identity.permissionsReloadHint "Muudatuste rakendumiseks pead võib-olla lehe uuesti laadima.">
 <!ENTITY identity.permissionsPreferences.tooltip "Ava õiguste sätted">
+<!ENTITY identity.contentBlockingPreferences.tooltip "Ava sisu blokkimise sätted">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -973,6 +976,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Logi &syncBrand.shortName.label;i sisse…">
 <!ENTITY syncSignIn.accesskey         "y">
 <!ENTITY syncSyncNowItem.label        "Sünkroniseeri kohe">
+<!ENTITY syncSyncNowItemSyncing.label "Sünkroniseerimine…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Ühenda &syncBrand.shortName.label; uuesti…">
 <!ENTITY syncReAuthItem.accesskey     "T">
@@ -1035,8 +1039,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "Jälitajad">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Kõigi jälitajate blokkimiseks määra sisu blokkimise olekuks “Range”.">
 
+<!ENTITY contentBlocking.cookies.label "Küpsised">
+<!ENTITY contentBlocking.cookiesView.label "Küpsised ja saidi andmed">
 
+<!ENTITY contentBlocking.cryptominers.label "Krüptorahakaevurid">
+<!ENTITY contentBlocking.cryptominersView.label "Krüptorahakaevurid">
 
+<!ENTITY contentBlocking.fingerprinters.label "Seadmetuvastajad">
+<!ENTITY contentBlocking.fingerprintersView.label "Seadmetuvastajad">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Raporteeri probleemist">
 <!ENTITY contentBlocking.breakageReportView.label "Probleemidest raporteerimine">
@@ -1127,6 +1137,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "T">
 <!ENTITY updateRestart.cancelButton.label "Mitte praegu">
 <!ENTITY updateRestart.cancelButton.accesskey "M">
+<!ENTITY updateUnsupported.panelUI.label "Uuendamine pole enam võimalik">
 <!ENTITY updateRestart.panelUI.label2 "Uuendamiseks taaskäivita &brandShorterName;">
 
 <!ENTITY newTabControlled.header.message "Uue kaardi sisu on muutunud.">
@@ -1170,4 +1181,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
 <!ENTITY addonPostInstallMessage.label "Halda oma laiendusi, klõpsates nupul <image class='addon-addon-icon'/> menüüs <image class='addon-toolbar-icon'/>.">
+<!ENTITY addonPostInstall.incognito.checkbox.label "Sellel laiendusel lubatakse töötada privaatsetes akendes">
+<!ENTITY addonPostInstall.incognito.checkbox.accesskey "S">
 
