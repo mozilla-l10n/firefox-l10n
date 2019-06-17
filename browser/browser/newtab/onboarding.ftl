@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
-
-
 ### UI strings for the simplified onboarding modal / about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -60,27 +57,18 @@ onboarding-ghostery-text = Зрабіце агляд хутчэйшым, бяс�
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Сінхранізаваць
 onboarding-fxa-text = Зарэгіструйцеся ў { -fxaccount-brand-name } і сінхранізуйце свае закладкі, паролі і адкрытыя карткі ўсюды, дзе карыстаецеся { -brand-short-name }.
-onboarding-tracking-protection-title = Кантралюйце асочванне
-# "Update" is a verb, as in "Update the existing settings", not "Options about
-# updates".
-onboarding-tracking-protection-button =
-    { PLATFORM() ->
-        [windows] Абнавіць налады
-       *[other] Абнавіць перавагі
-    }
 onboarding-tracking-protection-title2 = Абарона ад сачэння
 onboarding-tracking-protection-button2 = Як гэта працуе
 onboarding-data-sync-title = Вазьміце свае налады з сабой
-# "Sync" is short for synchronize.
-onboarding-data-sync-text = Сінхранізуйце закладкі і паролі ўсюды, дзе вы карыстаецеся { -brand-product-name }.
-onboarding-data-sync-button = Уключыць { -sync-brand-short-name }
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Сінхранізуйце закладкі, паролі і многае іншае ўсюды, дзе вы карыстаецеся { -brand-product-name }.
 onboarding-data-sync-button2 = Увайсці ў { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Падпішыцеся на абвесткі аб уцечках дадзеных
 onboarding-firefox-monitor-button = Падпісацца на абвестку
 onboarding-browse-privately-title = Аглядайце прыватна
+onboarding-browse-privately-text = Прыватнае агляданне ачышчае вашу гісторыю пошуку і аглядання, каб захаваць яе ў сакрэце ад усіх, хто карыстаецца вашым камп'ютарам.
 onboarding-browse-privately-button = Адкрыць прыватнае акно
+onboarding-firefox-send-title = Трымайце свае абагуленыя файлы прыватнымі
 onboarding-firefox-send-button = Паспрабаваць { -send-brand-name }
 onboarding-mobile-phone-title = Атрымайце { -brand-product-name } на сваім тэлефоне
 onboarding-mobile-phone-text = Сцягніце { -brand-product-name } для iOS або Android і сінхранізуйце свае звесткі паміж прыладамі.
@@ -92,9 +80,10 @@ onboarding-send-tabs-button = Пачаць карыстацца адпраўка
 onboarding-pocket-anywhere-title = Чытайце і слухайце ў любым месцы
 onboarding-pocket-anywhere-button = Паспрабаваць { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Вазьміце свае паролі з сабой
-onboarding-lockwise-passwords-button = Атрымаць { -lockwise-brand-name }
+onboarding-lockwise-passwords-text2 = Бяспечна захоўвайце паролі і лёгка ўваходзьце ў свае ўліковыя запісы з дапамогай { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Атрымаць праграму
 onboarding-facebook-container-title = Усталяваць межы для Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } трымае ваш профіль асобна ад рэшты, што робіць больш складаным для Facebook паказваць вам мэтавую рэкламу.
 onboarding-facebook-container-button = Дадаць пашырэнне
 
 ## Message strings belonging to the Return to AMO flow
