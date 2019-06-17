@@ -1184,3 +1184,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstall.incognito.checkbox.label "Sellel laiendusel lubatakse töötada privaatsetes akendes">
 <!ENTITY addonPostInstall.incognito.checkbox.accesskey "S">
 
+<!ENTITY addonPrivateBrowsing.header2.label "Laienduste kasutamises privaatsetes akendes on toimunud muutus">
+<!ENTITY addonPrivateBrowsing.body2.label "Uued &brandShorterName;ile lisatud laiendused ei tööta privaatsetes akendes seni, kuni see pole laienduse sätetes lubatud.">
+<!ENTITY addonPrivateBrowsing.learnMore.label "Rohkem teavet laienduse sätete haldamise kohta">
+<!ENTITY addonPrivateBrowsing.okButton.label "Olgu, sain aru">
+<!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
+<!ENTITY addonPrivateBrowsing.manageButton.label "Halda laiendusi">
+<!ENTITY addonPrivateBrowsing.manageButton.accesskey "H">
