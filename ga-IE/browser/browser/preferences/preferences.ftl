@@ -4,8 +4,6 @@
 
 do-not-track-description = Inis do shuímh “Ná Lorgaítear Mé” mura bhfuil tú ag iarraidh go lorgófaí thú
 do-not-track-learn-more = Tuilleadh eolais
-do-not-track-option-default =
-    .label = Agus Cosaint ar Lorgaireacht ar siúl amháin
 do-not-track-option-always =
     .label = I gCónaí
 pref-page =
@@ -17,17 +15,20 @@ pref-page =
 pane-general-title = Ginearálta
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Baile
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Cuardaigh
 category-search =
     .tooltiptext = { pane-search-title }
 pane-privacy-title = Príobháideachas agus Slándáil
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Cuntas Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = Tacaíocht { -brand-short-name }
+addons-button-label = Eisínteachtaí agus Téamaí
 focus-search =
     .key = f
 close-button =
@@ -39,6 +40,7 @@ feature-enable-requires-restart = Ní mór duit { -brand-short-name } a atosú c
 feature-disable-requires-restart = Ní mór duit { -brand-short-name } a atosú chun an ghné seo a dhíchumasú.
 should-restart-title = Atosaigh { -brand-short-name }
 should-restart-ok = Atosaigh { -brand-short-name } anois
+cancel-no-restart-button = Cealaigh
 restart-later = Atosaigh Ar Ball
 
 ## Extension Control Notifications
@@ -80,6 +82,9 @@ is-not-default = Ní hé { -brand-short-name } do bhrabhsálaí réamhshocraithe
 set-as-my-default-browser =
     .label = Úsáid mar Réamhshocrú…
     .accesskey = d
+startup-restore-previous-session =
+    .label = Athchóirigh an seisiún roimhe seo
+    .accesskey = s
 tabs-group-header = Cluaisíní
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab le dul trí na cluaisíní san ord ar bhain tú úsáid astu le déanaí
@@ -154,6 +159,7 @@ choose-language-description = Roghnaigh an teanga is fearr leat le taispeáint l
 choose-button =
     .label = Roghnaigh…
     .accesskey = o
+confirm-browser-language-change-button = Cuir i bhfeidhm agus atosaigh
 translate-web-pages =
     .label = Aistrigh leathanaigh Ghréasáin
     .accesskey = A
@@ -264,9 +270,12 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Cuardaigh téacs nuair a thosóidh mé ag clóscríobh
     .accesskey = t
+browsing-cfr-recommendations-learn-more = Tuilleadh eolais
 
 ## General Section - Proxy
 
+network-settings-title = Socruithe Líonra
+network-proxy-connection-learn-more = Tuilleadh eolais
 network-proxy-connection-settings =
     .label = Socruithe…
     .accesskey = e
@@ -276,6 +285,11 @@ network-proxy-connection-settings =
 
 ## Home Section - Home Page Customization
 
+home-newtabs-mode-label = Cluaisíní nua
+home-mode-choice-blank =
+    .label = Leathanach Bán
+home-homepage-custom-url =
+    .placeholder = Greamaigh URL…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -391,7 +405,6 @@ privacy-header = Príobháideachas
 
 ## Privacy Section - Forms
 
-forms-header = Foirmeacha agus Focail Fhaire
 forms-exceptions =
     .label = Eisceachtaí…
     .accesskey = s
@@ -442,9 +455,6 @@ history-clear-on-close-settings =
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Tuilleadh eolais
-sitedata-cookies-exceptions =
-    .label = Eisceachtaí…
-    .accesskey = E
 
 ## Privacy Section - Address Bar
 
@@ -466,22 +476,6 @@ addressbar-suggestions-settings = Roghanna a bhaineann le moltaí cuardaigh
 
 ## Privacy Section - Tracking
 
-tracking-header = Cosaint ar Lorgaireacht
-tracking-mode-always =
-    .label = I gCónaí
-    .accesskey = I
-tracking-mode-private =
-    .label = I bhfuinneog phríobháideach amháin
-    .accesskey = b
-tracking-mode-never =
-    .label = Choíche
-    .accesskey = C
-tracking-exceptions =
-    .label = Eisceachtaí…
-    .accesskey = E
-tracking-change-block-list =
-    .label = Athraigh an Liosta Coiscthe…
-    .accesskey = A
 
 ## Privacy Section - Permissions
 

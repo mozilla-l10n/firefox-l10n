@@ -24,3 +24,6 @@ appmenu-update-restart =
     .buttonaccesskey = A
     .secondarybuttonlabel = Níl Anois
     .secondarybuttonaccesskey = N
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = OK, Tuigim
+    .buttonaccesskey = O

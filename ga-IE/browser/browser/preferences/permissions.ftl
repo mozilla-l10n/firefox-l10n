@@ -7,6 +7,8 @@ permissions-window =
     .style = width: 49em
 permissions-close-key =
     .key = w
+permissions-address = Seoladh an tsuímh Ghréasáin
+    .accesskey = e
 permissions-block =
     .label = Coisc
     .accesskey = C
@@ -16,6 +18,8 @@ permissions-session =
 permissions-allow =
     .label = Ceadaigh
     .accesskey = C
+permissions-site-name =
+    .label = Suíomh Gréasáin
 permissions-status =
     .label = Stádas
 permissions-button-cancel =
@@ -28,12 +32,12 @@ permissions-capabilities-allow =
     .label = Ceadaigh
 permissions-capabilities-block =
     .label = Coisc
+permissions-capabilities-prompt =
+    .label = Fiafraigh Díom i gCónaí
 permissions-capabilities-listitem-allow =
     .value = Ceadaigh
 permissions-capabilities-listitem-block =
     .value = Coisc
-permissions-capabilities-listitem-allow-first-party =
-    .value = Ón chéad pháirtí amháin
 permissions-capabilities-listitem-allow-session =
     .value = Ceadaigh don Seisiún
 
@@ -44,9 +48,6 @@ permissions-invalid-uri-label = Cuir óstainm bailí isteach, le do thoil
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Eisceachtaí - Cosaint ar Lorgaireacht
-    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
@@ -66,6 +67,9 @@ permissions-exceptions-saved-logins-window =
 permissions-exceptions-addons-desc = Is féidir na suímh a bhfuil cead acu breiseáin a shuiteáil a shonrú. Clóscríobh seoladh cruinn an tsuímh a theastaíonn uait a cheadú agus ansin cliceáil Ceadaigh.
 
 ## Exceptions - Autoplay Media
+
+
+## Site Permissions - Autoplay
 
 
 ## Site Permissions - Notifications
