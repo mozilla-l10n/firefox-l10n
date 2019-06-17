@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
-
-
 ### UI strings for the simplified onboarding modal / about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -57,16 +54,14 @@ onboarding-ghostery-text = Мазаңызды алатын жарнаманы б
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Синхрондау
 onboarding-fxa-text = { -fxaccount-brand-name } тіркелгісін жасап, өзіңіз { -brand-short-name } қолданатын әр жерде бетбелгілер, парольдер және ашық беттерді синхрондаңыз.
-# "Update" is a verb, as in "Update the existing settings", not "Options about
-# updates".
-onboarding-tracking-protection-button =
-    { PLATFORM() ->
-        [windows] Баптауларды жаңарту
-       *[other] Баптауларды жаңарту
-    }
 onboarding-tracking-protection-title2 = Бақылаудан қорғаныс
+onboarding-tracking-protection-button2 = Ол қалай жұмыс істейді
 onboarding-browse-privately-button = Жекелік шолу терезесін ашу
 onboarding-firefox-send-title = Ортақ пайдаланылатын файлдарыңызды жеке ұстаңыз
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Мобильді браузерді жүктеп алу
+onboarding-pocket-anywhere-button = { -pocket-brand-name } қолданып көріңіз
 onboarding-lockwise-passwords-button2 = Қолданбаны алу
 onboarding-facebook-container-button = Кеңейтуді қосу
 
