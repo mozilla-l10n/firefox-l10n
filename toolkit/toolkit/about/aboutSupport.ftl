@@ -36,8 +36,15 @@ app-basics-name = Navn
 app-basics-version = Version
 app-basics-build-id = Build-ID
 app-basics-update-channel = Opdateringskanal
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Opdateringsmappe
+       *[other] Opdateringsmappe
+    }
 app-basics-update-history = Opdateringshistorik
 app-basics-show-update-history = Vis opdateringshistorik
+# Represents the path to the binary used to start the application.
+app-basics-binary = Programfil
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Profilmappe

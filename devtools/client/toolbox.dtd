@@ -145,6 +145,11 @@
 <!ENTITY options.timestampMessages.label      "Aktiver tidsstempler">
 <!ENTITY options.timestampMessages.tooltip    "Hvis du aktiverer dette vil der vises et tidsstempel ved kommandoer og output i webkonsollen">
 
+<!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
+   - label for the checkbox that toggles the warningGroups feature in the Web Console -->
+<!ENTITY options.warningGroups.label      "Vis lignende beskeder i grupper">
+<!ENTITY options.warningGroups.tooltip    "Hvis du aktiverer dette bliver lignende beskeder placeret i grupper">
+
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
 <!ENTITY options.debugger.label            "Debugger">
