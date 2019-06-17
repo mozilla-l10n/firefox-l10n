@@ -47,5 +47,14 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step2 = Veldu <b>Festa flipa</ b> í valmyndinni.
 cfr-doorhanger-pintab-animation-pause = Setja í bið
 cfr-doorhanger-pintab-animation-resume = Halda áfram
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-body = Frábær fundur! Vertu ekki án þessa bókamerkis á farsímum þínum. Byrjaðu á { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-link-text = Samstilla bókamerki núna ...
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Loka hnappur
+    .title = Loka
