@@ -425,7 +425,7 @@ release-notes-error = Der opstod en fejl under indlæsning af udgivelsesnoterne.
 addon-permissions-empty = Denne udvidelse kræver ingen tilladelser
 
 recommended-extensions-heading = Anbefalede udvidelser
-recommended-themes-heading = Anbefalede teamer
+recommended-themes-heading = Anbefalede temaer
 
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
