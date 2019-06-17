@@ -71,10 +71,24 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Cló Il-Leithid
+    .accesskey = L
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+fonts-proportional-size = Clómhéid
+    .accesskey = m
+fonts-serif = Serif
+    .accesskey = S
+fonts-sans-serif = Sans-serif
+    .accesskey = n
+fonts-monospace = Cló Aonleithid
+    .accesskey = A
+fonts-monospace-size = Clómhéid
+    .accesskey = d
+fonts-minsize = Clómhéid is lú
+    .accesskey = l
 fonts-minsize-none =
     .label = Gan sonrú
 fonts-allow-own =

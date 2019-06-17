@@ -13,6 +13,12 @@ restore-page-restore-header =
     .label = Athchóirigh
 restore-page-list-header =
     .label = Fuinneoga agus Cluaisíní
+restore-page-try-again-button =
+    .label = Athchóirigh an Seisiún
+    .accesskey = A
+restore-page-close-button =
+    .label = Tosaigh Seisiún Nua
+    .accesskey = N
 
 ## The following strings are used in about:welcomeback
 
