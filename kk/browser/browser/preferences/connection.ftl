@@ -70,9 +70,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = HTTPS арқылы DNS іске қосу
     .accesskey = ы
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = HTTPS арқылы DNS шешу URL сілтемесі
 # Variables:
 #   $url (String) - URL for the DNS over HTTPS provider
 connection-dns-over-https-url-default =
@@ -83,3 +80,4 @@ connection-dns-over-https-url-custom =
     .label = Таңдауыңызша
     .accesskey = т
     .tooltiptext = HTTPS арқылы DNS шешу үшін таңдауыңызша URL енгізіңіз
+connection-dns-over-https-custom-label = Таңдауыңызша

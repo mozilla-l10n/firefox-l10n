@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Өзгерістерді сақтау
     .accesskey = с
+permissions-autoplay-menu = Барлық веб-сайттар үшін негізгі:
 permissions-searchbox =
     .placeholder = Вебсайттан іздеу
+permissions-capabilities-autoplay-allow =
+    .label = Аудио және видеоны рұқсат ету
+permissions-capabilities-autoplay-block =
+    .label = Аудионы бұғаттау
+permissions-capabilities-autoplay-blockall =
+    .label = Аудио мен видеоны бұғаттау
 permissions-capabilities-allow =
     .label = Рұқсат ету
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = Рұқсат ету
 permissions-capabilities-listitem-block =
     .value = Болдырмау
-permissions-capabilities-listitem-allow-first-party =
-    .value = Тек бірінші жаққа рұқсат ету
 permissions-capabilities-listitem-allow-session =
     .value = Тек осы сессияға рұқсат ету
 
@@ -58,10 +63,6 @@ permissions-invalid-uri-label = Сервердің дұрыс атын енгі�
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Ережеден тыс - Бақылаудан қорғаныс
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Бұл вебсайттарда бақылаудан қорғанысты сөндіргенсіз.
 permissions-exceptions-content-blocking-window =
     .title = Ережеден тыс - Құраманы бұғаттау
     .style = { permissions-window.style }
@@ -101,6 +102,9 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Ережеден тыс - автоойнату
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Қай сайттарға дыбысы бар медианы ойнатуды рұқсат етілгенін немесе етілмегенін осында таңдай аласыз. Сайт адресін енгізіп, Бұғаттау немесе Рұқсат ету батырмалардың біреуін басыңыз.
+
+## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
