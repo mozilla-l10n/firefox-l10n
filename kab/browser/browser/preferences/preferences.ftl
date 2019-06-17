@@ -745,6 +745,7 @@ permissions-block-autoplay-media2 =
 permissions-block-autoplay-media-exceptions =
     .label = Tisuraf…
     .accesskey = r
+permissions-autoplay = Aseddu awurman
 permissions-autoplay-settings =
     .label = Iɣewwaṛen
     .accesskey = t
