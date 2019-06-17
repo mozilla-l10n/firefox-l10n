@@ -18,6 +18,9 @@
 <!ENTITY password.text                   "Необавезно, користи се за потврду вашег корисничког имена">
 <!ENTITY rememberPassword.label          "Запамти лозинку">
 <!ENTITY rememberPassword.accesskey      "З">
+<!ENTITY usernameEx.label                "Ваша пријава:">
+<!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 
 <!ENTITY imapLong.label                  "IMAP (удаљене фасцикле)">
 <!ENTITY pop3Long.label                  "POP3 (чува пошту на вашем рачунару)">
