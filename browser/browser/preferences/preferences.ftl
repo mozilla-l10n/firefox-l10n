@@ -354,6 +354,9 @@ containers-remove-button =
 sync-signedout-caption = Beir do Ghréasán féin leat
 sync-signedout-description = Siocrónaigh do chuid leabharmharcanna, stair, cluaisíní, focail fhaire, breiseáin, agus sainroghanna ar do ghléasanna go léir.
 sync-signedout-account-title = Ceangail le { -fxaccount-brand-name }
+sync-signedout-account-signin =
+    .label = Logáil Isteach...
+    .accesskey = I
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -386,6 +389,14 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Stair
     .accesskey = r
+sync-engine-tabs =
+    .label = Cluaisíní oscailte
+    .tooltiptext = Liosta de na cluaisíní oscailte ar gach gléas sioncronaithe
+    .accesskey = t
+sync-engine-creditcards =
+    .label = Cártaí creidmheasa
+    .tooltiptext = Ainmneacha, uimhreacha, agus dátaí éaga (deasc amháin)
+    .accesskey = C
 sync-device-name-header = Ainm an Ghléis
 sync-device-name-change =
     .label = Athraigh Ainm an Ghléis
@@ -454,6 +465,7 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-header = Fianáin agus Sonraí Suímh
 sitedata-learn-more = Tuilleadh eolais
 
 ## Privacy Section - Address Bar
@@ -473,6 +485,26 @@ addressbar-suggestions-settings = Roghanna a bhaineann le moltaí cuardaigh
 
 ## Privacy Section - Content Blocking
 
+content-blocking-learn-more = Tuilleadh eolais
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = Caighdeánach
+    .accesskey = d
+content-blocking-cookies-label =
+    .label = Fianáin
+    .accesskey = F
+content-blocking-expand-section =
+    .tooltiptext = Tuilleadh eolais
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Criptimhianadóirí
+    .accesskey = i
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Méarlorgairí
+    .accesskey = M
 
 ## Privacy Section - Tracking
 
@@ -480,7 +512,26 @@ addressbar-suggestions-settings = Roghanna a bhaineann le moltaí cuardaigh
 ## Privacy Section - Permissions
 
 permissions-header = Ceadanna
+permissions-location = Suíomh
+permissions-location-settings =
+    .label = Socruithe…
+    .accesskey = t
+permissions-camera = Ceamara
+permissions-camera-settings =
+    .label = Socruithe…
+    .accesskey = t
+permissions-microphone = Micreafón
+permissions-microphone-settings =
+    .label = Socruithe…
+    .accesskey = t
 permissions-notification = Fógraí
+permissions-notification-settings =
+    .label = Socruithe…
+    .accesskey = t
+permissions-notification-link = Tuilleadh eolais
+permissions-autoplay-settings =
+    .label = Socruithe...
+    .accesskey = t
 permissions-block-popups =
     .label = Cuir Cosc ar Phreabfhuinneoga
     .accesskey = C
@@ -490,6 +541,7 @@ permissions-block-popups-exceptions =
 permissions-addon-exceptions =
     .label = Eisceachtaí…
     .accesskey = E
+permissions-a11y-privacy-link = Tuilleadh eolais
 
 ## Privacy Section - Data Collection
 
@@ -497,6 +549,7 @@ collection-header = Bailiúchán agus Úsáid Sonraí { -brand-short-name }
 collection-description = Déanaimid ár ndícheall roghanna a thabhairt duit agus an méid is lú sonraí a bhailiú chun feabhas a chur ar { -brand-short-name } ar son an phobail. Iarraimid cead ort i gcónaí sula mbailímid sonraí pearsanta uait.
 collection-privacy-notice = Fógra Príobháideachais
 collection-health-report-link = Tuilleadh eolais
+addon-recommendations-link = Tuilleadh eolais
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Díchumasaíodh tuairisciú sonraí don chumraíocht leagain seo
@@ -511,6 +564,7 @@ security-header = Slándáil
 security-enable-safe-browsing =
     .label = Cuir cosc ar ábhar contúirteach nó cealgach
     .accesskey = C
+security-enable-safe-browsing-link = Tuilleadh eolais
 security-block-downloads =
     .label = Cuir cosc ar íoslódálacha contúirteacha
     .accesskey = s
