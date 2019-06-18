@@ -22,4 +22,5 @@ tracking-protection-start-tour = Kunche'e nixi sachuin
 about-private-browsing-note = Navegación Privada <strong>no te vuelve anónimo</strong> en Internet. Tu jefe o tu proveedor de Internet aún pueden saber las páginas que visitas.
 about-private-browsing =
     .title = Nduku nu web
+about-private-browsing-not-private = Su ventana seé kui.
 content-blocking-title = Kasi kontenido
