@@ -34,5 +34,13 @@ cert-error-domain-mismatch-single-nolink = Webguneek ziurtagirien bidez frogatze
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
 cert-error-domain-mismatch-multiple = Webguneek ziurtagirien bidez frogatzen duten euren identitatea. { -brand-short-name } ez da gune honetaz fio { $hostname } gunerako baliozkoa ez den ziurtagiria darabilelako.  Ziurtagiria ondorengo izenentzat da baliozkoa soilik: { $subject-alt-names }
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = Webguneek ziurtagirien bidez frogatzen dute euren identitatea eta denbora jakin baterako dira baliozkoak. { $hostname } ostalarirako ziurtagiria { $not-after-local-time }(e)n iraungi zen.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = Webguneek ziurtagirien bidez frogatzen dute euren identitatea eta denbora jakin baterako dira baliozkoak. { $hostname } ostalarirako ziurtagiria ez da { $not-before-local-time } arte baliozkoa izango.
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Errore-kodea: <a data-l10n-name="error-code-link">{ $error }</a>

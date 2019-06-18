@@ -19,11 +19,23 @@ onboarding-button-label-get-started = Hasi erabiltzen
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Ongi etorri { -brand-short-name }(e)ra
+onboarding-welcome-body = Nabigatzailea duzu.<br/>Ezagutu gainerako { -brand-product-name } produktuen familia.
+onboarding-welcome-learn-more = Abantailei buruzko argibide gehiago.
+onboarding-join-form-header = Egizu bat { -brand-product-name }(r)ekin
+onboarding-join-form-body = Hasteko, idatzi zure helbide elektronikoa.
+onboarding-join-form-email =
+    .placeholder = Idatzi helbide elektronikoa
+onboarding-join-form-email-error = Baliozko helbide elektronikoa behar da
+onboarding-join-form-legal = Jarraituz gero, <a data-l10n-name="terms">zerbitzuaren baldintzak</a>eta <a data-l10n-name="privacy">pribatutasun-oharra</a> onartzen dituzu.
+onboarding-join-form-continue = Jarraitu
 onboarding-start-browsing-button-label = Hasi nabigatzen
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = Produktu erabilgarriak
+onboarding-benefit-knowledge-title = Ezagutza praktikoa
+onboarding-benefit-privacy-title = Benetako pribatutasuna
 
 ## These strings belong to the individual onboarding messages.
 
@@ -43,6 +55,8 @@ onboarding-ghostery-text = Nabigatu azkarrago, argiago edo seguruago iragarkiak 
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sinkronizatu
 onboarding-fxa-text = Sortu { -fxaccount-brand-name } kontua eta sinkronizatu zure laster-markak, pasahitzak eta irekitako fitxak { -brand-short-name } erabiltzen duzun leku orotan.
+onboarding-tracking-protection-button2 = Nola dabilen
+onboarding-browse-privately-button = Ireki leiho pribatua
 
 ## Message strings belonging to the Return to AMO flow
 
