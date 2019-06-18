@@ -55,13 +55,18 @@ onboarding-ghostery-text = Prehliadajte rýchlejšie, inteligentnejšie a bezpe�
 onboarding-fxa-title = Synchronizácia
 onboarding-fxa-text = Prihláste sa ku svojmu účtu Firefox a synchronizujte svoje záložky, heslá a otvorené karty kdekoľvek používate aplikáciu { -brand-short-name }.
 onboarding-tracking-protection-title2 = Ochrana pred sledovaním
+onboarding-tracking-protection-button2 = Ako to funguje
 onboarding-data-sync-title = Vezmite si svoje nastavenia so sebou
 onboarding-firefox-monitor-button = Prihláste sa na odber upozornení
 onboarding-firefox-send-title = Udržujte svoje zdieľané súbory v súkromí
+onboarding-mobile-phone-title = Nainštalujte si { -brand-product-name } do svojho telefónu
+onboarding-mobile-phone-text = Prevezmite si { -brand-product-name } pre iOS a Android a zosynchronizujte svoje údaje medzi zariadeniami.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Prevziať mobilný prehliadač
+onboarding-pocket-anywhere-button = Vyskúšajte { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Vezmite si svoje heslá so sebou
+onboarding-lockwise-passwords-button2 = Prevziať aplikáciu
 onboarding-facebook-container-button = Pridať rozšírenie
 
 ## Message strings belonging to the Return to AMO flow
