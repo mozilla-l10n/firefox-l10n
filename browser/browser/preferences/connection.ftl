@@ -82,7 +82,7 @@ connection-dns-over-https-url-resolver = Teenusepakkuja
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
     .label = { $name } (vaikimisi)
-    .tooltiptext = Kasuta nimede lahendamiseks üle HTTPSi vaikimis URLi
+    .tooltiptext = Kasuta nimede lahendamiseks üle HTTPSi vaikimisi URLi
 connection-dns-over-https-url-custom =
     .label = kohandatud
     .accesskey = k
