@@ -219,11 +219,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
 <!ENTITY fxa.signin.callout.label "Awi Firefox yid-k">
+<!ENTITY fxa.signin.description.label "Awi ticraḍ-ik n yisebtar, amazray-ik, awalen-ik uffiren d yiɣewwaṛen-nniḍen ɣef ibenkan-ik meṛṛa.">
 <!ENTITY fxa.signin.button.label "Rmed &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
 <!ENTITY fxa.unverified.callout.label "Senqed imayl">
+<!ENTITY fxa.unverified.description.label "Ilaq-ak ad tesfeqdeḍ amiḍan-ik uqbel ad tizmireḍ ad temtawiḍ.">
 <!ENTITY fxa.unverified.button.label "Ldi iɣewwaṛen n &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
@@ -339,6 +341,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Tesweḥleḍ asmel-agi web seg useqdec n umenṭaḍ Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Tesweḥleḍ anekcum i MIDI γer usmel-agi.">
 
+<!ENTITY urlbar.installBlocked.tooltip           "Tesweḥleḍ asbeddi n yizegrar i usmel-a.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Sken amazray">
 
@@ -531,6 +534,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.label "Mmel asiɣzef">
+<!ENTITY customizeMenu.reportExtension.accesskey "u">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -881,6 +886,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Asebter-a yuli-d seg usiɣzef.">
 <!ENTITY identity.insecureLoginForms2 "Isem n useqdac d wawal uffir i tesqedceḍ deg usmel-a zemren ad ttwakren.">
 
+<!ENTITY identity.customRoot "Tuqqna tettwasntem sɣur amazan n uselkin ur tessin ara Mozilla.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; issewḥel kra n tazunin ur nelli ara d iɣelsanen deg usebter-a.">
@@ -900,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Asmel-a isεa agbur araɣelsan (am iskripten) u tuqqna-inek ɣur-s mačči d tusligt.">
 <!ENTITY identity.description.activeLoaded2 "Zemren wiyaḍ ad walin talɣut ara tebḍuḍ d usmel-a (am wawalen uffiren, iznan, atg.).">
 
+<!ENTITY identity.description.customRoot "Mozilla ur teɛqil ara amazan-a n uselkin. Ahat yezmer yettwarn seg unagraw-ik n wammud neɣ anedbal.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Sermed ammesten">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "R">
@@ -1128,6 +1135,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Mačči tura">
 <!ENTITY updateRestart.cancelButton.accesskey "T">
+<!ENTITY updateUnsupported.panelUI.label "Ur tezmireḍ ara ad tgeḍ aleqqem-nniḍen">
 <!ENTITY updateRestart.panelUI.label2 "Sker i tikkelt-nniḍen akken ad tleqqmeḍ&brandShorterName;">
 
 <!ENTITY newTabControlled.header.message "Iccer-ik amaynut ibeddel.">
@@ -1175,6 +1183,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
 
 <!ENTITY addonPrivateBrowsing.header2.label "Asnifel i yisiɣzaf def isfuyla usligen">
+<!ENTITY addonPrivateBrowsing.body2.label "Isiɣzaf imaynuten i terniḍ ɣer &brandShorterName; ur teddun ara deg yisfuyla usligen alama terniḍ tasiregt i uselkem-nsen deg yiɣewwaṛen.">
 <!ENTITY addonPrivateBrowsing.learnMore.label "Issin amek ara tesferkeḍ iɣewwaṛen n yisiɣzaf">
 <!ENTITY addonPrivateBrowsing.okButton.label "Ih, awi-t-id">
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
