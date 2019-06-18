@@ -8,6 +8,7 @@ about-config-warning-text = Bu təkmilləşmiş dəyərləri dəyişdirmək bu t
 about-config-warning-checkbox = Bu xəbərdarlığı mənə təkrar göstər!
 about-config-warning-button = Riski qəbul edirəm
 about-config-title = about:config
+about-config2-title = Təkmilləşmiş Konfiqurasiyalar
 about-config-search-input =
     .placeholder = Axtar
 about-config-show-all = Hamısını göstər
