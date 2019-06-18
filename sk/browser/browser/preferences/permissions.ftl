@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Uložiť zmeny
     .accesskey = U
+permissions-autoplay-menu = Predvolené nastavenia pre všetky webové stránky:
 permissions-searchbox =
     .placeholder = Hľadať
+permissions-capabilities-autoplay-allow =
+    .label = Povoliť zvuk a video
+permissions-capabilities-autoplay-block =
+    .label = Blokovať zvuk
+permissions-capabilities-autoplay-blockall =
+    .label = Blokovať zvuk a video
 permissions-capabilities-allow =
     .label = Povoliť
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = Povoliť
 permissions-capabilities-listitem-block =
     .value = Zakázať
-permissions-capabilities-listitem-allow-first-party =
-    .value = Povoliť len pre rovnaký server
 permissions-capabilities-listitem-allow-session =
     .value = Povoliť pre reláciu
 
@@ -58,10 +63,6 @@ permissions-invalid-uri-label = Zadajte platný názov servera
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Výnimky - Ochrana pred sledovaním
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Na týchto stránkach ste vypli Ochranu pred sledovaním.
 permissions-exceptions-content-blocking-window =
     .title = Výnimky - Blokovanie obsahu
     .style = { permissions-window.style }
@@ -101,6 +102,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Výnimky - Automatické prehrávanie
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Na tomto mieste môžete určiť, ktoré stránky môžu automaticky prehrávať médiá so zvukom. Zadajte presnú adresu stránky, ktorej chcete povoliť prehrávanie médií a potom kliknite na tlačidlo Povoliť alebo Zakázať.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Nastavenia - Automatické prehrávanie
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Na tomto mieste môžete spravovať stránky, ktoré sa neriadia predvolenými nastaveniami.
 
 ## Site Permissions - Notifications
 
