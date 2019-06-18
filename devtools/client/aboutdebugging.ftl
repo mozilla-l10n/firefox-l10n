@@ -32,6 +32,9 @@ about-debugging-sidebar-item-connected-label = Tengd(ur)
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
 about-debugging-sidebar-runtime-item-waiting-for-browser = Beðið eftir vafra…
+# Text displayed in sidebar items for remote devices that have been disconnected from the
+# computer.
+about-debugging-sidebar-runtime-item-unplugged = Ótengt
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName }{ $deviceName }
@@ -56,9 +59,6 @@ about-debugging-refresh-usb-devices-button = Endurglæða tæki
 about-debugging-setup-title = Uppsetning
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Stilla tengileiðina sem þú vilt nota til að kemba tækið þitt með í fjarvinnslu.
-# Link displayed in the Setup page that leads to MDN page with list of supported devices.
-# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
-about-debugging-setup-link-android-devices = Skoða lista af öllum Android tækjum sem eru studd
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Tengja tæki
 # USB section of the Setup page
@@ -77,12 +77,6 @@ about-debugging-setup-usb-updating-button = Uppfæri…
 about-debugging-setup-usb-status-enabled = Virkt
 about-debugging-setup-usb-status-disabled = Óvirkt
 about-debugging-setup-usb-status-updating = Uppfæri…
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu = Virkja þróunarvalmyndina á Android tækinu þínu.<a>Læra hvernig</a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug = Virkja USB kembiforrit í Android þróunarvalmyndinni.  <a> Lærðu hvernig </a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox = Virkja USB kembiforrit í Firefox á Android tækinu. <a>Lærðu hvernig</a>
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Tengja Android tækið við tölvuna þína.
 # Network section of the Setup page
