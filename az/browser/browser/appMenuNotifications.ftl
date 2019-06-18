@@ -29,6 +29,9 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Tamam, başa düşdüm
     .buttonaccesskey = T
 appmenu-addon-post-install-message = Əlavələrinizi <image data-l10n-name='addon-menu-icon'></image> menyusundan <image data-l10n-name='addon-install-icon'></image> klikləyərək idarə edin.
+appmenu-addon-post-install-incognito-checkbox =
+    .label = Bu uzantıya Məxfi Pəncərələrdə işləməyə icazə ver.
+    .accesskey = i
 appmenu-addon-private-browsing =
     .label = Məxfi Pəncərələrdəki uzantılar dəyişdirilir
     .buttonlabel = Uzantıları idarə et
