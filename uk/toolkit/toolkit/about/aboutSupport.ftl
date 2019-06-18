@@ -35,6 +35,11 @@ app-basics-name = Назва
 app-basics-version = Версія
 app-basics-build-id = ID збірки
 app-basics-update-channel = Канал оновлення
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Тека оновлення
+       *[other] Каталог оновлення
+    }
 app-basics-update-history = Історія оновлень
 app-basics-show-update-history = Показати історію оновлень
 # Represents the path to the binary used to start the application.
