@@ -114,6 +114,7 @@
 
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(koo sivia)">
 
 <!ENTITY reader_saved_offline "Inkàa vaii ">
 <!-- Localization note (reader_switch_to_bookmarks) : This
