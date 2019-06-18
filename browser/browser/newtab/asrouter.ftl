@@ -53,6 +53,7 @@ cfr-doorhanger-pintab-animation-resume = Halda áfram
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-header = Samstilltu bókamerkin þín alls staðar.
 cfr-doorhanger-bookmark-fxa-body = Frábær fundur! Vertu ekki án þessa bókamerkis á farsímum þínum. Byrjaðu á { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Samstilla bókamerki núna ...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =

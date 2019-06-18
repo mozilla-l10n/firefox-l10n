@@ -34,6 +34,7 @@ onboarding-start-browsing-button-label = Fara að vafra
 
 onboarding-benefit-products-title = Gagnlegar vörur
 onboarding-benefit-products-text = Afgreiddu verkefni með tólum sem virða friðhelgi einkalífsins á öllum þínum tækjum.
+onboarding-benefit-knowledge-title = Hagnýt þekking
 onboarding-benefit-privacy-title = Sönn persónuvernd
 
 ## These strings belong to the individual onboarding messages.
@@ -55,7 +56,10 @@ onboarding-ghostery-text = Vafra hraðar, betur eða á öruggari máta með vi�
 onboarding-fxa-title = Samstilla
 onboarding-fxa-text = Skráðu þig fyrir { -fxaccount-brand-name } og samstilltu bókamerki, lykilorð og opna flipa hvar sem þú notar { -brand-short-name }.
 onboarding-tracking-protection-button2 = Hvernig þetta virkar
+onboarding-firefox-monitor-title = Vertu á verði gegn gagnalekum
 onboarding-firefox-monitor-button = Skráðu þig fyrir tilkynningum
+onboarding-browse-privately-title = Huliðsvöfrun
+onboarding-browse-privately-button = Opna huliðsglugga
 onboarding-firefox-send-title = Haltu skránum sem þú deilir öruggum
 onboarding-firefox-send-button = Prófa { -send-brand-name }
 onboarding-mobile-phone-title = Náðu í { -brand-product-name } fyrir símann þinn
