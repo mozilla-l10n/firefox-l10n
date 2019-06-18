@@ -945,3 +945,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Notifikasi situs">
+<!ENTITY crash_handler_notifications_channel "Pelapor Kerusakan &brandShortName;">
