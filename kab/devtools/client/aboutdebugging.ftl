@@ -80,6 +80,8 @@ about-debugging-refresh-usb-devices-button = Smiren ibenkan
 
 # Title of the Setup page.
 about-debugging-setup-title = Sebded
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = Swel tarrayt n tuqqna swayes i tessarameḍ ad tseɣtiḍ s wudem anmeggag ibenk-ik.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Seqdec <a>{ about-debugging-this-firefox-runtime-name }</a> akken ad tesseɣtiḍ iccaren, isiɣzaf akked imeẓla workers deg lqem-a n { -brand-shorter-name }.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
@@ -88,6 +90,8 @@ about-debugging-setup-this-firefox2 = Seqdec <a>{ about-debugging-this-firefox-r
 about-debugging-setup-connect-heading = Qen ibenk
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = Arma ad isider daɣen ad isbedd isuddisen n temseɣtayt USB Android i { -brand-shorter-name }.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = Rmed ibenkan USB
