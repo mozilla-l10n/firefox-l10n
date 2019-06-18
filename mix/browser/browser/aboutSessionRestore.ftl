@@ -26,3 +26,6 @@ restore-page-close-button =
 
 welcome-back-tab-title = Vaa na koo
 welcome-back-page-title = Vaa na koo
+welcome-back-restore-button =
+    .label = Kitsa
+    .accesskey = K
