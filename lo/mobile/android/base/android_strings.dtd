@@ -692,6 +692,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_image_title "ເລືອກ ຫລື ຖ່າຍຮູບພາບ">
 <!ENTITY filepicker_video_title "ເລືອກ ຫລື ບັນທຶກວິດີໂອ">
 
+<!ENTITY filepicker_permission_denied "ສິດທິທີ່ຕ້ອງການບໍ່ໄດ້ຮັບການອະນຸຍາດ ກຳລັງປ່ຽນກັບເປັນຕົວເລືອກໄຟລຂອງລະບົບ.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "ທ່ານໄດ້ເຊື່ອມຕໍ່ເຂົ້າກັບ">
