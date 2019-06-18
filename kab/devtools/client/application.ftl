@@ -27,6 +27,14 @@ serviceworker-worker-debug = Tamseɣtayt
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = Bdu
+# Text for the debug link displayed for an already started Service Worker, when we
+# are in multi e10s mode, which effectively disables this link.
+serviceworker-worker-debug-forbidden = Tamseɣtayt
+    .title = Izmer kan ad yesseɣti imeẓla workers ma yella multi e10s yensa
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start2 = Bdu
+    .title = Izmer kan ad yessenker imeẓla workers ma yella multi e10s yensa
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Yettwalqem <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
