@@ -67,6 +67,9 @@
 <!ENTITY  crash_close_label "Zavřít">
 <!ENTITY  crash_restart_label "Restartovat &brandShortName;">
 
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+
 <!ENTITY url_bar_default_text2 "Zadejte adresu nebo dotaz pro vyhledávač">
 
 <!-- Localization note: this text will be displayed in the Search Widget -->
@@ -108,6 +111,9 @@
 <!ENTITY bookmark_folder_updated "Složka aktualizována">
 <!ENTITY bookmark_parent_folder "Nadřazená složka">
 <!ENTITY bookmark_add_folder "Přidat novou složku">
+
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
 
 <!ENTITY reader_saved_offline "Uloženo offline">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -590,6 +596,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "Klíčové slovo">
 <!ENTITY bookmark_select_folder "Vybrat složku">
 
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "Nastavení serveru">
@@ -930,3 +937,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Oznámení stránky">
+<!ENTITY crash_handler_notifications_channel "Hlášení pádů aplikace &brandShortName;">
