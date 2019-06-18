@@ -34,6 +34,7 @@ policies-notice =
         [windows] Vaša organizacija je onemogućila mogućnost promjene nekih opcija.
        *[other] Vaša organizacija je onemogućila mogućnost promjene nekih postavki.
     }
+managed-notice = Vašim preglednikom upravlja vaša organizacija.
 pane-general-title = Osnovno
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = Privatnost i sigurnost
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox račun
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -296,6 +293,21 @@ update-pref-write-failure-title = Greška prilikom zapisivanja
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Nije moguće spremiti postavke. Nije bilo moguće pisati u datoteku: { $path }
+update-setting-write-failure-title = Greška prilikom spremanju postavki ažuriranja
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } je naišao na pogrešku i nije spremio ovu promjenu. Uzmite u obzir da postavljanje postavki za ovo ažuriranje zahtjeva dozvole za pisanje u niže navedenu datoteku. Vi ili vaš administrator sustava možda ste u mogućnosti otkloniti ovu grešku tako da dozvolite grupi korisnika potpunu kontrolu nad ovom datotekom.
+    
+    Nije moguće pisati u datoteku: { $path }
+update-in-progress-title = Ažuriranje u tijeku
+update-in-progress-message = Želite li da { -brand-short-name } nastavi s ovim ažuriranjem?
+update-in-progress-ok-button = O&dbaci
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Nastavi
 
 ## General Section - Performance
 
@@ -531,8 +543,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Spremi
     .accesskey = e
-sync-mobilepromo-single = Povežite drugi uređaj
-sync-mobilepromo-multi = Upravljajte uređajima
 sync-connect-another-device = Poveži drugi uređaj
 sync-manage-devices = Upravljaj uređajima
 sync-fxa-begin-pairing = Upari uređaj
@@ -690,7 +700,6 @@ content-blocking-all-third-party-cookies = Svi kolačići trećih strana
 content-blocking-cryptominers = Kripto rudare
 content-blocking-fingerprinters = Jedinstvene otiske
 content-blocking-warning-title = Upozorenje!
-content-blocking-warning-desc = Blokiranje kolačića i pratitelja može dovesti do grešaka na nekim stranicama. Lako je onemogućiti blokiranje na stranicama kojima vjerujete.
 content-blocking-warning-description = Blokiranje sadržaja može uzrokovati greške u prikazu nekih web stranica. Lako možete isključiti blokiranje na stranicama kojima vjerujete.
 content-blocking-learn-how = Saznajte kako
 content-blocking-reload-description = Morat ćete osvježiti svoje kartice kako bi primijenili ove promjene.
@@ -757,6 +766,10 @@ permissions-block-autoplay-media2 =
 permissions-block-autoplay-media-exceptions =
     .label = Iznimke...
     .accesskey = e
+permissions-autoplay = Automatska reprodukcija
+permissions-autoplay-settings =
+    .label = Postavke…
+    .accesskey = t
 permissions-block-popups =
     .label = Blokiraj skočne prozore
     .accesskey = s

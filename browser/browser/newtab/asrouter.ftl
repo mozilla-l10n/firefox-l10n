@@ -55,3 +55,12 @@ cfr-doorhanger-pintab-step2 = Odaberite <b>Zakači karticu</b> iz izbornika.
 cfr-doorhanger-pintab-step3 = Ukoliko je stranica osvježena, vidjet ćete plavu točku na zakačenoj kartici.
 cfr-doorhanger-pintab-animation-pause = Pauziraj
 cfr-doorhanger-pintab-animation-resume = Nastavi
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Sinkronizirajte svoje zabilješke svugdje.
+cfr-doorhanger-bookmark-fxa-body = Izvrsno! Nemojte ostati bez ove zabilješke na vašem mobilnom uređaju. Započnite s { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-link-text = Sinkronizirajte zabilješke sada…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Tipka za zatvaranje
+    .title = Zatvori
