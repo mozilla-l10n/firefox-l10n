@@ -34,7 +34,7 @@ onboarding-start-browsing-button-label = Alusta veebilehitsemist
 ## description.
 
 onboarding-benefit-products-title = Kasulikud tooted
-onboarding-benefit-products-text = Saa asjad tehtud perekonna tööriistadega, mis hindavad sinu privaatsust kõigis sinu seadmetes.
+onboarding-benefit-products-text = Aja kõik asjad korda meie Mozilla tööriistadega, mis hindavad sinu privaatsust kõigis sinu seadmetes.
 onboarding-benefit-knowledge-title = Praktilised teadmised
 onboarding-benefit-knowledge-text = Omanda teadmisi viisidest, kuidas internetis targemalt ja ohutumalt tegutseda.
 onboarding-benefit-privacy-title = Tõeline privaatsus
@@ -43,7 +43,7 @@ onboarding-benefit-privacy-title = Tõeline privaatsus
 # Firefox Personal Data Promise is the way we honor your data in everything we
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
-onboarding-benefit-privacy-text = Kõik mida me teeme austab meie isiklike andmete lubadust: küsime vähem andmeid; hoiame neid turvaliselt; käitleme neid läbipaistvalt.
+onboarding-benefit-privacy-text = Kõik, mida me teeme, austab meie antud isiklike andmete lubadust: küsime vähem andmeid, hoiame neid turvaliselt, käitleme neid läbipaistvalt.
 
 ## These strings belong to the individual onboarding messages.
 
