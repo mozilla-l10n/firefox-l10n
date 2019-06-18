@@ -28,6 +28,7 @@
 <!ENTITY firstrun_signin_message "Qoşul, Başla">
 <!ENTITY firstrun_signin_button "Sync-ə Daxil ol">
 <!ENTITY newfirstrun_signin_button "Sinxronlaşdırmanı aktivləşdir">
+<!ENTITY updatednewfirstrun_signin_button "&brandShortName; səyyahına daxil ol">
 <!ENTITY  onboard_start_button_browser "Səyahətə Başla">
 <!ENTITY firstrun_button_notnow "İndi deyil">
 <!ENTITY firstrun_button_next "İrəli">
@@ -70,6 +71,9 @@
 
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; çökdü">
+<!ENTITY  crash_notification_message "&vendorShortName;-ya xəbər göndərmək üçün toxunun">
+<!ENTITY  crash_notification_negative_button_text "Əhəmiyyət vermə">
 
 <!ENTITY url_bar_default_text2 "Axtar və ya ünvan daxil et">
 
@@ -115,6 +119,7 @@
 
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(başlıq yoxdur)">
 
 <!ENTITY reader_saved_offline "Oflayn Saxlanılıb">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -420,9 +425,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Endirilənlər">
 <!ENTITY pref_private_data_syncedTabs "Sinxron vərəqlər">
 
+<!ENTITY pref_default_browser2 "&brandShortName; səyyahını əsas səyyahınız edin">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Səyahət proqramına basın və &brandShortName; seçin">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla Dəstəyi ziyarət et">
 <!ENTITY pref_about_firefox "&brandShortName; haqqında">
 <!ENTITY pref_vendor_faqs "ÇSS">
@@ -520,6 +527,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Localization note (find_error) : Error message shown when there is no result for the
      searched for text in this webpage -->
+<!ENTITY find_error "İfadə tapılmadı">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -594,6 +602,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "Açar söz">
 <!ENTITY bookmark_select_folder "Qovluq seç">
 
+<!ENTITY bookmark_edit_undo "Geri al">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -683,6 +692,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_image_title "Şəkli seçin və ya çəkin">
 <!ENTITY filepicker_video_title "Videonu seçin və ya çəkin">
 
+<!ENTITY filepicker_permission_denied "Tələb edilən icazələr verilmədi, sistemin fayl seçicisinə qayıdılır.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Qoşulduğunuz sayt:">
@@ -922,6 +932,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Fasilə">
 <!ENTITY pip_pause_button_description "Oynatmaya fasilə ver">
 
+<!ENTITY pref_notification_settings_link "Bildiriş tənzimləmələrini idarə et">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Səyyah">
 <!ENTITY mls_notification_channel "&vendorShortName; Mövqe Xidməti">
@@ -934,3 +945,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Sayt bildirişləri">
+<!ENTITY crash_handler_notifications_channel "&brandShortName; Çökmə Xəbərçisi">
