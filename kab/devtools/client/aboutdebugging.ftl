@@ -105,13 +105,27 @@ about-debugging-setup-usb-status-enabled = Irmed
 about-debugging-setup-usb-status-disabled = Arurmid
 about-debugging-setup-usb-status-updating = Aleqqem...
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Rmed umuɣ Aneflay deg yiben-ik Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Rmed tamseɣtayt USB deg umuɣ Aneflay Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Rmed tamseɣtayt USB def Firefox deg yibenk-ik android.
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Qqen ibenk Andoid ɣer uselkim-ik/im.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = Uguren n tuqqna ɣer yiben USB? <a>Fru uguren
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Adig n uẓeṭṭa
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = Uguren n tuqqna s wadig n uẓeṭṭa? <a>Fru uguren</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Rnu
+# Text to display when there are no locations to show.
+about-debugging-network-locations-empty-text = Ulac adig n uẓeṭṭa yettwarnan.
 # Text of the label for the text input that allows users to add new network locations in
 # the Connect page. A host is a hostname and a port separated by a colon, as suggested by
 # the input's placeholder "localhost:6080".
@@ -119,6 +133,14 @@ about-debugging-network-locations-host-input-label = Asenneftaɣ
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Kkes
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = Asennftaɣ "{ $host-value }". Amasal yettwaṛǧa d “hostname:portnumber”.
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = Asenneftaɣ "{ $host-value }" yettwasekles yakan
 
 # Runtime Page strings
 
@@ -148,6 +170,22 @@ about-debugging-runtime-processes =
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
 about-debugging-runtime-profile-button2 = Tamellit n umaɣnu
+# This string is displayed in the runtime page if the current configuration of the
+# target runtime is incompatible with service workers. "Learn more" points to MDN.
+# https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
+about-debugging-runtime-service-workers-not-compatible = Tawila n iminig-inek ur temṣada ara akked Service Workers. <a>Issin ugar</a>
+# This string is displayed in the runtime page if the remote browser version is too old.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-browser-version-too-old = Iminig yeqqnen ɣur-s lqem aqbuṛ { $runtimeVersion }. Lqem adday yettwasefraken d { $minVersion }. D tawila ur nettusefrak ara i yezemren ad d-teglu s wuguren akked ifecka n tneflit. Ma ulac aɣilif, leqqem iminig yeqqnen. <a>Fru uguren</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# - from Fx 67 to 66 or to 65
+# - from Fx 68 to 66
+# Those are normally in range for DevTools compatibility policy, but specific non
+# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+about-debugging-browser-version-too-old-67-debugger = Agalis n temseɣtayt tezmer ur tetteddu ara s yiminig yeqqnen. Ma ulac aɣilif, seqde Firefox { $runtimeVersion } ma teḥwaǧeḍ ad tesqedceḍ tamseqtayt s yiminig-a.
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -163,6 +201,10 @@ about-debugging-connection-prompt-enable-button = Rmed aneftaɣ n tiqqna
 about-debugging-connection-prompt-disable-button = Sens aneftaɣ n tuqqna
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
 about-debugging-profiler-dialog-title2 = Amaɣnay
+# Clicking on the header of a debug target category will expand or collapse the debug
+# target items in the category. This text is used as ’title’ attribute of the header,
+# to describe this feature.
+about-debugging-collapse-expand-debug-targets = Fneẓ / Snefli
 
 # Debug Targets strings
 
@@ -176,6 +218,8 @@ about-debugging-debug-target-inspect-button = Ṣweḍ
 # Text of a button displayed in the "This Firefox" page, in the Temporary Extension
 # section. Clicking on the button will open a file picker to load a temporary extension
 about-debugging-tmp-extension-install-button = Sali-d izegrar iskudanen…
+# Text displayed when trying to install a temporary extension in the "This Firefox" page.
+about-debugging-tmp-extension-install-error = Teḍra-d tuccḍa deg usebded n uzegrir askudan.
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = Smiren
