@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Xoş Gəldiniz">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; seçdiyiniz üçün təşəkkürlər">
+<!ENTITY newfirstrun_urlbar_message "&brandShortName; səyyahına xoş gəldiniz">
 <!ENTITY firstrun_urlbar_subtext2 "Azad və açıq internet üçün əlləşən qeyri-kommersiyal Mozilladan müasir mobil səyyah.">
+<!ENTITY newfirstrun_urlbar_subtext "Sürətli, məxfi və sizin tərəfinizdə.">
 <!ENTITY firstrun_panel_title_privacy "Məxfilik">
 <!ENTITY firstrun_privacy_message "Başqalarınız izləməsindən narahat olmadan internetdə gəzin">
 <!ENTITY firstrun_privacy_subtext "İzlənmə Qoruması ilə Məxfi Səyahət internetdə gəzərkən izləyiciləri bloklayır və işiniz bitdikdən sonra hər şeyi unudur.">
+<!ENTITY newfirstrun_privacy_subtext "Məxfi səyahət sizi onlayn izləyən reklam izləyicilərini əngəlləyir.">
 <!ENTITY firstrun_panel_title_customize "Fərdiləşdir">
 <!ENTITY firstrun_customize_message "&brandShortName; səyyahını zövqünüzə görə dəyişdirin.">
 <!ENTITY firstrun_customize_subtext "&brandShortName; səyyahını əlavələrlə fərdiləşdirin. Reklamları bloklayın, yeni özəlliklər əlavə edin və ya zövqünüzə uyğun mövzuları seçin.">
@@ -20,8 +23,11 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Qaldığınız yerdən davam edin.">
 <!ENTITY firstrun_sync_subtext2 "Sync ilə istədiyiniz cihazınızdan &brandShortName; səyyahına saxladığınız əlfəcin, parol və digər şeyləri rahatlıqla tapın.">
+<!ENTITY newfirstrun_sync_subtext "Mobil cihazınızda qeyd etdiklərinizi məxfi və təhlükəsiz şəkildə kompüterinizdəki Firefox ilə sinxronlaşdırın.">
+<!ENTITY updatednewfirstrun_sync_subtext "&brandShortName; səyyahınızı tam işlətmək üçün hesabınıza daxil olun">
 <!ENTITY firstrun_signin_message "Qoşul, Başla">
 <!ENTITY firstrun_signin_button "Sync-ə Daxil ol">
+<!ENTITY newfirstrun_signin_button "Sinxronlaşdırmanı aktivləşdir">
 <!ENTITY  onboard_start_button_browser "Səyahətə Başla">
 <!ENTITY firstrun_button_notnow "İndi deyil">
 <!ENTITY firstrun_button_next "İrəli">
@@ -61,6 +67,9 @@
 <!ENTITY  sending_crash_report "Çökmə xəbəri göndərilir\u2026">
 <!ENTITY  crash_close_label "Qapat">
 <!ENTITY  crash_restart_label "&brandShortName; yenidən başlasın">
+
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 
 <!ENTITY url_bar_default_text2 "Axtar və ya ünvan daxil et">
 
@@ -103,6 +112,9 @@
 <!ENTITY bookmark_folder_updated "Qovluq yeniləndi">
 <!ENTITY bookmark_parent_folder "Üst Qovluq">
 <!ENTITY bookmark_add_folder "Yeni qovluq əlavə et">
+
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
 
 <!ENTITY reader_saved_offline "Oflayn Saxlanılıb">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -408,7 +420,9 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Endirilənlər">
 <!ENTITY pref_private_data_syncedTabs "Sinxron vərəqlər">
 
-<!ENTITY pref_default_browser "Əsas səyyah et">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla Dəstəyi ziyarət et">
 <!ENTITY pref_about_firefox "&brandShortName; haqqında">
 <!ENTITY pref_vendor_faqs "ÇSS">
@@ -504,6 +518,9 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_next "İrəli">
 <!ENTITY find_close "Qapat">
 
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY media_sending_to "Cihaza göndərilir">
@@ -576,6 +593,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Ünvan">
 <!ENTITY bookmark_edit_keyword "Açar söz">
 <!ENTITY bookmark_select_folder "Qovluq seç">
+
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -664,6 +682,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Səsi seçin və ya yazın">
 <!ENTITY filepicker_image_title "Şəkli seçin və ya çəkin">
 <!ENTITY filepicker_video_title "Videonu seçin və ya çəkin">
+
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Qoşulduğunuz sayt:">
