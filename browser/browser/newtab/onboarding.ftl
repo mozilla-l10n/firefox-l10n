@@ -37,6 +37,13 @@ onboarding-benefit-products-title = Korisni proizvodi
 onboarding-benefit-products-text = Obavite posao s pomoću obitelji alata koji poštuju vašu privatnost na svim uređajima.
 onboarding-benefit-knowledge-title = Praktično znanje
 onboarding-benefit-knowledge-text = Saznajte sve što trebate znati kako biste ostali pametniji i sigurniji na mreži.
+onboarding-benefit-privacy-title = Prava privatnost
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Sve što radimo poštuje naše obećanje o osobnim podacima: Uzmi manje podataka. Drži ih na sigurnom. Bez tajni.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -56,6 +63,19 @@ onboarding-ghostery-text = Pretražujte brže, pametnije i sigurnije s dodacima 
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sinkronizacija
 onboarding-fxa-text = Otvorite { -fxaccount-brand-name } i sinkronizirajte svoje zabilješke, lozinke i otvorene kartice gdje god koristite { -brand-short-name }.
+onboarding-tracking-protection-title2 = Zaštita od praćenja
+onboarding-tracking-protection-text2 = { -brand-short-name } sprječava web stranice da vas prate na mreži, što otežava reklamnim agencijama da vas prate reklamama na mreži.
+onboarding-tracking-protection-button2 = Kako ovo funkcionira
+onboarding-data-sync-title = Postavite svoje postavke sa sobom
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Sinkronizirajte svoje zabilješke, lozinke i više svugdje gdje koristite { -brand-product-name }.
+onboarding-data-sync-button2 = Prijavite se u { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Budite upozoreni na curenje podataka
+onboarding-firefox-monitor-text = { -monitor-brand-name } nadzire pojavljuje li se vaša adresa e-pošte u podacima koji su procurili na Internet i obavještava vas ukoliko otkrije.
+onboarding-firefox-monitor-button = Prijavite se za obavijesti
+onboarding-browse-privately-title = Pretražujte privatno
+onboarding-browse-privately-text = Privatno pretraživanje briše povijest pretraživanja i pregledavanja kako bi ostalo skriveno od ostalih koje koriste isto računalo.
+onboarding-browse-privately-button = Otvori privatni prozor
 
 ## Message strings belonging to the Return to AMO flow
 
