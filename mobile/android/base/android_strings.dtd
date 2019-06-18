@@ -224,7 +224,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "Dica: Adicione qualquer site à sua lista de provedores de pesquisa com um toque longo no campo de pesquisa e em seguida tocando no ícone &formatI;.">
+<!ENTITY pref_search_hint2 "Dica: Adicione qualquer site à sua lista de mecanismos de pesquisa com um toque longo no campo de pesquisa e em seguida tocando no ícone &formatI;">
 <!ENTITY pref_category_advanced "Avançado">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
@@ -556,7 +556,7 @@ shown from Android O while a tab is being queued.-->
      just "Pin Site" or "Unpin Site" would mean. -->
 <!ENTITY contextmenu_pin_to_top_sites "Fixar nos sites preferidos">
 <!ENTITY contextmenu_unpin_from_top_sites "Desafixar dos preferidos">
-<!ENTITY contextmenu_add_search_engine "Adicionar mecanismo de pesquisa">
+<!ENTITY contextmenu_add_search_engine "Adicionar pesquisador">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
