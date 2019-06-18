@@ -69,6 +69,12 @@
 <!ENTITY  crash_close_label "Zatvori">
 <!ENTITY  crash_restart_label "Ponovno pokreni &brandShortName;">
 
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; se srušio">
+<!ENTITY  crash_notification_message "Pritisnite za slanje izvještaja &vendorShortName;">
+<!ENTITY  crash_notification_negative_button_text "Zanemari">
+
 <!ENTITY url_bar_default_text2 "Pretražite ili upišite adresu">
 
 <!-- Localization note: this text will be displayed in the Search Widget -->
@@ -939,3 +945,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Obavijesti stranica">
+<!ENTITY crash_handler_notifications_channel "&brandShortName; prijavitelj rušenja">
