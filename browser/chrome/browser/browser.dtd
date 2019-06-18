@@ -258,7 +258,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
-<!ENTITY pictureInPicture.label "Pilt-pildid">
+<!ENTITY pictureInPicture.label "Pilt-pildis">
 <!ENTITY pictureInPicture.accesskey "P">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
@@ -667,11 +667,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "s">
 <!ENTITY setDesktopBackgroundCmd.label      "Määra taustapildiks…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "M">
-<!ENTITY bookmarkPageCmd2.label       "Pane see veebileht järjehoidjatesse">
+<!ENTITY bookmarkPageCmd2.label       "Lisa see veebileht järjehoidjatesse">
 <!ENTITY bookmarkPageCmd2.accesskey   "j">
-<!ENTITY bookmarkThisLinkCmd.label      "Pane see link järjehoidjatesse">
+<!ENTITY bookmarkThisLinkCmd.label      "Lisa see link järjehoidjatesse">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "n">
-<!ENTITY bookmarkThisFrameCmd.label      "Pane see paneel järjehoidjatesse">
+<!ENTITY bookmarkThisFrameCmd.label      "Lisa see paneel järjehoidjatesse">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "e">
 <!ENTITY pageAction.copyLink.label    "Kopeeri link">
 
@@ -881,12 +881,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Turvaline ühendus">
 <!ENTITY identity.connectionNotSecure "Ebaturvaline ühendus">
 <!ENTITY identity.connectionFile "See leht on loodud arvutisse salvestatud faili põhjal.">
-<!ENTITY identity.connectionVerified2 "Ühenduse selle saidiga on turvaline. Saidi omanik on ">
+<!ENTITY identity.connectionVerified2 "Ühendus selle saidiga on turvaline. Saidi omanik on ">
 <!ENTITY identity.connectionInternal "See on turvaline &brandShortName;i leht.">
 <!ENTITY identity.extensionPage "Selle lehe sisu pärineb laienduselt.">
 <!ENTITY identity.insecureLoginForms2 "Sellele lehele sisestatavad kasutajakonto andmed võivad ohus olla.">
 
-<!ENTITY identity.customRoot "Ühendus on verifitseeritud Mozillale tundmatu serdi väljaandja poolt.">
+<!ENTITY identity.customRoot "Ühenduse on verifitseerinud Mozillale tundmatu serdi väljaandja.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; blokkis sellel lehel mõned ebaturvalised osad.">
