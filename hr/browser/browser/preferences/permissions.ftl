@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Spremi promjene
     .accesskey = S
+permissions-autoplay-menu = Zadano za sve web stranice:
 permissions-searchbox =
     .placeholder = Pretraži web stranicu
+permissions-capabilities-autoplay-allow =
+    .label = Dopusti zvuk i video
+permissions-capabilities-autoplay-block =
+    .label = Blokiraj zvuk
+permissions-capabilities-autoplay-blockall =
+    .label = Blokiraj zvuk i video
 permissions-capabilities-allow =
     .label = Dopusti
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = Dopusti
 permissions-capabilities-listitem-block =
     .value = Blokiraj
-permissions-capabilities-listitem-allow-first-party =
-    .value = Dopusti samo od prve strane
 permissions-capabilities-listitem-allow-session =
     .value = Dopusti za sesiju
 
@@ -58,10 +63,6 @@ permissions-invalid-uri-label = Molim vas, upišite valjano ime poslužitelja
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Iznimke - zaštita od praćenja
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Na ovim stranicama ste isključili zaštitu od praćenja.
 permissions-exceptions-content-blocking-window =
     .title = Iznimke - blokiranje sadržaja
     .style = { permissions-window.style }
@@ -101,6 +102,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Iznimke - automatska reprodukcija
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Možete navesti koje web stranice smiju uvijek ili nikad automatski reproducirati medij sa zvukom. Unesite točnu adresu stranice koju želite podesiti, te kliknite Blokiraj ili Dopusti.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Postavke - automatska reprodukcija
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Ovdje možete upravljati stranicama koje ne slijede zadane postavke automatske reprodukcije.
 
 ## Site Permissions - Notifications
 

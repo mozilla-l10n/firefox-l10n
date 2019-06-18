@@ -70,16 +70,21 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Omogući DNS preko HTTPS
     .accesskey = O
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = URL za rješavanje DNS preko HTTPS
 # Variables:
 #   $url (String) - URL for the DNS over HTTPS provider
 connection-dns-over-https-url-default =
     .label = Koristi zadani ({ $url })
     .accesskey = o
     .tooltiptext = Koristi zadani URL za rješavanje DNS preko HTTPS
+connection-dns-over-https-url-resolver = Koristi pružatelja usluge
+    .accesskey = p
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (zadano)
+    .tooltiptext = Koristi zadani URL za DNS preko HTTPS
 connection-dns-over-https-url-custom =
     .label = Prilagođeno
     .accesskey = o
     .tooltiptext = Unesite vaš preferirani URL za rješavanje DNS preko HTTPS
+connection-dns-over-https-custom-label = Prilagođeno
