@@ -47,6 +47,7 @@ onboarding-ghostery-text = Vafra hraðar, betur eða á öruggari máta með vi�
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Samstilla
 onboarding-fxa-text = Skráðu þig fyrir { -fxaccount-brand-name } og samstilltu bókamerki, lykilorð og opna flipa hvar sem þú notar { -brand-short-name }.
+onboarding-tracking-protection-button2 = Hvernig þetta virkar
 onboarding-firefox-monitor-button = Skráðu þig fyrir tilkynningum
 onboarding-firefox-send-title = Haltu skránum sem þú deilir öruggum
 onboarding-firefox-send-button = Prófa { -send-brand-name }
