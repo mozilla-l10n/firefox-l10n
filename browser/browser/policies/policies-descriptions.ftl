@@ -20,6 +20,7 @@ policy-Bookmarks = Búa til bókamerki í bókamerkjastiku, bókamerkjalistanum 
 policy-CaptivePortal = Virkja eða slökkva á þjónustuaðgangi.
 policy-CertificatesDescription = Bæta við vottorði eða nota innbyggða vottorðið.
 policy-Cookies = Leyfa eða hafna vefsvæðum um að stilla smygildi.
+policy-DefaultDownloadDirectory = Stilltu sjálfgefna möppu fyrir niðurhal.
 policy-DisableAppUpdate = Koma í veg fyrir að vafrinn uppfærist.
 policy-DisableBuiltinPDFViewer = Óvirkja PDF.js, innbyggða PDF-lesarann í { -brand-short-name }.
 policy-DisableDeveloperTools = Loka aðgangi að þróunartólum.
@@ -44,13 +45,16 @@ policy-DisplayBookmarksToolbar = Sýna bókamerkjastikuna sjálfgefið.
 policy-DisplayMenuBar = Birta valmyndarstikuna sjálfgefið.
 policy-DNSOverHTTPS = Stilla DNS yfir HTTPS.
 policy-DontCheckDefaultBrowser = Slökkva á sjálfgefinni athugun um aðalvafra kerfis er við ræsingu.
+policy-DownloadDirectory = Stilltu og læstu möppu fyrir niðurhal.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Virkja eða slökkva á Efnablokkun og læsa henni mögulega.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Setja upp, fjarlægja eða læsa fyrir viðbætur. Uppsetningarvalkosturinn samþykkir vefslóðir og leiðir sem breytur. Valkostir um að fjarlægja viðbót eða læstir valkostir krefjast auðkennis viðbótarinnar.
+policy-ExtensionSettings = Stjórna öllum uppsetningarþáttum viðbóta.
 policy-ExtensionUpdate = Virkja eða slökkva á sjálfvirkri uppfærslu á viðbótum.
+policy-FirefoxHome = Stilla Firefox heimasvæðið.
 policy-FlashPlugin = Leyfa eða hafna notkun Flash-viðbótarinnar.
 policy-HardwareAcceleration = Ef rangt, slökkva á hröðun vélbúnaðar.
 # “lock” means that the user won’t be able to change this setting

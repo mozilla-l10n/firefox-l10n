@@ -20,13 +20,20 @@ onboarding-button-label-get-started = Hefjast handa
 
 onboarding-welcome-header = Vertu velkomin í { -brand-short-name }
 onboarding-welcome-body = Þú ert kominn með vafrann. <br/> Hittu restina af { -brand-product-name }.
+onboarding-welcome-learn-more = Fræðast meira um ávinningana.
+onboarding-join-form-header = Skrá þig í { -brand-product-name }
 onboarding-join-form-body = Sláðu inn tölvupóstfang þitt hér til að hefjast handa.
+onboarding-join-form-email =
+    .placeholder = Sláðu inn tölvupóstfang
+onboarding-join-form-email-error = Nauðsynlegt að setja inn tölvupóstfang sem er gilt
 onboarding-join-form-continue = Halda áfram
 onboarding-start-browsing-button-label = Fara að vafra
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = Gagnlegar vörur
+onboarding-benefit-products-text = Afgreiddu verkefni með tólum sem virða friðhelgi einkalífsins á öllum þínum tækjum.
 onboarding-benefit-privacy-title = Sönn persónuvernd
 
 ## These strings belong to the individual onboarding messages.
@@ -51,9 +58,24 @@ onboarding-tracking-protection-button2 = Hvernig þetta virkar
 onboarding-firefox-monitor-button = Skráðu þig fyrir tilkynningum
 onboarding-firefox-send-title = Haltu skránum sem þú deilir öruggum
 onboarding-firefox-send-button = Prófa { -send-brand-name }
+onboarding-mobile-phone-title = Náðu í { -brand-product-name } fyrir símann þinn
+onboarding-mobile-phone-text = Hlaða niður { -brand-product-name } fyrir iOS eða Android og samstilltu gögnin þín milli allra tækja þinna.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Sækja snjalltækja vafra
+onboarding-send-tabs-title = Sendu sjálfri/sjálfum þér flipa
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Senda flipa deilir flipum samstundis milli tækjanna þinna án þess að þurfa að afrita, líma eða yfirgefa vafrann.
+onboarding-send-tabs-button = Byrjaðu að nota Senda flipa
+onboarding-pocket-anywhere-title = Lesa og hlusta á hvar sem er
+onboarding-pocket-anywhere-text2 = Vistaðu uppáhalds efnið þitt á tæki þínu með { -pocket-brand-name } appinu og lestu, hlustaðu og horfðu á hvenær sem það hentar þér.
+onboarding-pocket-anywhere-button = Prófaðu { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Nálgastu lykilorðin þín hvar sem er
+onboarding-lockwise-passwords-text2 = Skráðu þig auðveldlega inná reikninga þína en á sama tíma haltu vistuðum lykilorðum öruggum með { -lockwise-brand-name }
+onboarding-lockwise-passwords-button2 = Náðu í appið
+onboarding-facebook-container-title = Settu mörk á Facebook
+onboarding-facebook-container-button = Bæta við viðbót
 
 ## Message strings belonging to the Return to AMO flow
 

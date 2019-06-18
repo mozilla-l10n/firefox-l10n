@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Vista breytingar
     .accesskey = V
+permissions-autoplay-menu = Sjálfgefið fyrir allar vefsíður:
 permissions-searchbox =
     .placeholder = Leita í vefsvæði
+permissions-capabilities-autoplay-allow =
+    .label = Leyfa hljóð og myndskeið
+permissions-capabilities-autoplay-block =
+    .label = Loka á hljóð
+permissions-capabilities-autoplay-blockall =
+    .label = Loka á hljóð og myndskeið
 permissions-capabilities-allow =
     .label = Leyfa
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = Leyfa
 permissions-capabilities-listitem-block =
     .value = Loka á
-permissions-capabilities-listitem-allow-first-party =
-    .value = Leyfa aðeins fyrsta aðila
 permissions-capabilities-listitem-allow-session =
     .value = Leyfa í þessari vafralotu
 
@@ -97,6 +102,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Undantekningar - sjálfvirk spilun
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Þú getur skilyrt hvaða vefsíður mega alltaf eða aldrei spila sjálfvirkt margmiðlunarefni með hljóði. Sláðu inn vefslóð þeirrar síðu sem þú vilt stilla og veldu annaðhvort Blokka eða Leyfa.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Stillingar - sjálfspillun
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Hér getur þú getur stjórnað þeim síðum sem ekki fylgja sjálfgefnum stillingum sjálfspilunar.
 
 ## Site Permissions - Notifications
 

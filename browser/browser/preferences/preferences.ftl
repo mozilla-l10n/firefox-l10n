@@ -34,6 +34,7 @@ policies-notice =
         [windows] Fyrirtækið þitt hefur lokað á að breyta sumum stillingum.
        *[other] Fyrirtækið þitt hefur lokað á að breyta sumum stillingum.
     }
+managed-notice = Vafra þínum er stjórnað af skipulagsheild þinni.
 pane-general-title = Almennt
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = Friðhelgi og öruggi
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox reikningur
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -282,6 +279,7 @@ update-application-check-choose =
 update-application-manual =
     .label = Aldrei athuga með uppfærslur (ekki mælt með)
     .accesskey = l
+update-application-warning-cross-user-setting = Þessi stilling mun eiga við alla Windows reikninga og { -brand-short-name } notendur sem nota þessa uppsetningu af { -brand-short-name }.
 update-application-use-service =
     .label = Nota bakgrunnsþjónustu til að setja inn uppfærslur
     .accesskey = b
@@ -292,6 +290,7 @@ update-pref-write-failure-title = Skrifvilla
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Ekki er hægt að vista val. Gat ekki skrifað skrá sem: { $path }
+update-setting-write-failure-title = Ekki tókst að vista uppfærða valkosti
 
 ## General Section - Performance
 
@@ -527,8 +526,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Vista
     .accesskey = V
-sync-mobilepromo-single = Tengja annað tæki
-sync-mobilepromo-multi = Sýsla með tæki
 sync-tos-link = Skilmálar þjónustu
 sync-fxa-privacy-notice = Upplýsingar um meðferð persónuupplýsinga
 
@@ -676,7 +673,6 @@ content-blocking-third-party-cookies = Vefkökur frá þriðja aðila
 content-blocking-all-windows-trackers = Þekktir rekjarar í öllum gluggum
 content-blocking-all-third-party-cookies = Allar vefkökur þriðja aðila
 content-blocking-warning-title = Gættu þín!
-content-blocking-warning-desc = Blokkun vefkakna og rekjara getur valdið því að sumar síður hrynji. Það er auðvelt að afvirkja blokkun á síðum sem þú treystir.
 content-blocking-learn-how = Læra hvernig
 content-blocking-reload-tabs-button =
     .label = Endurhlaða alla flipa
