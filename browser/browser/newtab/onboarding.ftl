@@ -3,12 +3,40 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
 
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
+
+onboarding-button-label-learn-more = Saznajte više
 onboarding-button-label-try-now = Isprobajte odmah
 onboarding-button-label-get-started = Započnite
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Dobro došli u { -brand-short-name }
+onboarding-welcome-body = Imate preglednik.<br/>Upoznajte ostatak { -brand-product-name }.
+onboarding-welcome-learn-more = Saznajte više o prednostima.
+onboarding-join-form-header = Pridruži se { -brand-product-name }
+onboarding-join-form-body = Unesite vašu adresu e-pošte kako biste počeli.
+onboarding-join-form-email =
+    .placeholder = Unesite adresu e-pošte
+onboarding-join-form-email-error = Potrebna je ispravna adresa e-pošte
+onboarding-join-form-legal = Ukoliko nastavite, slažete se s <a data-l10n-name="terms">Uvjetima pružanja usluge</a> i <a data-l10n-name="privacy">Politikom privatnosti</a>.
+onboarding-join-form-continue = Nastavi
 onboarding-start-browsing-button-label = Započni pregledavanje
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-title = Korisni proizvodi
+onboarding-benefit-products-text = Obavite posao s pomoću obitelji alata koji poštuju vašu privatnost na svim uređajima.
+onboarding-benefit-knowledge-title = Praktično znanje
+onboarding-benefit-knowledge-text = Saznajte sve što trebate znati kako biste ostali pametniji i sigurniji na mreži.
 
 ## These strings belong to the individual onboarding messages.
 
