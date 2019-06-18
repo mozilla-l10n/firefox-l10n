@@ -3,12 +3,30 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
 
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
+
+onboarding-button-label-learn-more = વધુ શીખો
 onboarding-button-label-try-now = અત્યારે પ્રયત્ન કરો
 onboarding-button-label-get-started = શરૂ કરો
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = { -brand-short-name } માં તમારું સ્વાગત છે
+onboarding-join-form-email =
+    .placeholder = ઇમેઇલ દાખલ કરો
+onboarding-join-form-email-error = માન્ય ઇમેઇલ આવશ્યક છે
 onboarding-start-browsing-button-label = બ્રાઉઝિંગ શરુ કરો
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
 
 ## These strings belong to the individual onboarding messages.
 
