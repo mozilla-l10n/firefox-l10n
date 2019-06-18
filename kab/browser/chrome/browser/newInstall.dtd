@@ -8,5 +8,6 @@
 -->
 
 <!ENTITY window.title "Issalen s wazal">
+<!ENTITY window.style "width: 490px">
 <!ENTITY continue-button "Kemmel">
 

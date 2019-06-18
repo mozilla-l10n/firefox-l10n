@@ -8,6 +8,11 @@
 
 # Page Title strings
 
+# Page title (ie tab title) for the Setup page
+about-debugging-page-title-setup-page = Tamseɣtayt - Aswel
+# Page title (ie tab title) for the Runtime page
+# { $selectedRuntimeId } is the id of the current runtime, such as "this-firefox", "localhost:6080", ...
+about-debugging-page-title-runtime-page = Tamseɣtayt- Aselkem / { $selectedRuntimeId }
 
 # Sidebar strings
 
@@ -27,6 +32,8 @@ about-debugging-sidebar-usb-enabled = USB irmed
 about-debugging-sidebar-usb-disabled = USB insa
 # Connection status (connected) for runtime items in the sidebar
 aboutdebugging-sidebar-runtime-connection-status-connected = Iqqen
+# Connection status (disconnected) for runtime items in the sidebar
+aboutdebugging-sidebar-runtime-connection-status-disconnected = Yeffeɣ
 # Text displayed in the about:debugging sidebar when no device was found.
 about-debugging-sidebar-no-devices = Ulac ibenkan i yellan
 # Text displayed in buttons found in sidebar items representing remote runtimes.
@@ -34,6 +41,11 @@ about-debugging-sidebar-no-devices = Ulac ibenkan i yellan
 about-debugging-sidebar-item-connect-button = Qqen
 # Text displayed in buttons found in sidebar items when the runtime is connecting.
 about-debugging-sidebar-item-connect-button-connecting = Tuqqna…
+# Text displayed in buttons found in sidebar items when the connection failed.
+about-debugging-sidebar-item-connect-button-connection-failed = Tuqqna tecceḍ
+# Text displayed in connection warning on sidebar item of the runtime when connecting to
+# the runtime is taking too much time.
+about-debugging-sidebar-item-connect-button-connection-not-responding = Tuqqna tezga tettraǧu, wali iznan deg yiminig asaḍas
 # Text displayed as connection error in sidebar item when the connection has timed out.
 about-debugging-sidebar-item-connect-button-connection-timeout = Akud n tuqqna yezri
 # Temporary text displayed in sidebar items representing remote runtimes after
@@ -43,6 +55,9 @@ about-debugging-sidebar-item-connected-label = Iqqen
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
 about-debugging-sidebar-runtime-item-waiting-for-browser = Ittṛaǧu iminig...
+# Text displayed in sidebar items for remote devices that have been disconnected from the
+# computer.
+about-debugging-sidebar-runtime-item-unplugged = Yettwakkes
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName }{ $deviceName }
@@ -50,6 +65,9 @@ about-debugging-sidebar-runtime-item-name =
 # locations).
 about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
+# Text to show in the footer of the sidebar that links to a help page
+# (currently: https://developer.mozilla.org/docs/Tools/about:debugging)
+about-debugging-sidebar-support = Tallelt deg temseɣtayt
 # Text to show as the ALT attribute of a help icon that accompanies the help about
 # debugging link in the footer of the sidebar
 about-debugging-sidebar-support-icon =
@@ -62,6 +80,10 @@ about-debugging-refresh-usb-devices-button = Smiren ibenkan
 
 # Title of the Setup page.
 about-debugging-setup-title = Sebded
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox = Seqdec <a>{ about-debugging-this-firefox-runtime-name }</a> akken ad tesseɣtiḍ iccaren, isiɣzaf akked imeẓla workers deg lqem-a n { -brand-shorter-name }.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Seqdec <a>{ about-debugging-this-firefox-runtime-name }</a> akken ad tesseɣtiḍ isiɣzaf akked imeẓla workers deg lqem-a n { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Qen ibenk
 # USB section of the Setup page
