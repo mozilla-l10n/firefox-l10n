@@ -291,6 +291,12 @@ update-pref-write-failure-title = Skrifvilla
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Ekki er hægt að vista val. Gat ekki skrifað skrá sem: { $path }
 update-setting-write-failure-title = Ekki tókst að vista uppfærða valkosti
+update-in-progress-title = Uppfærsla í vinnslu
+update-in-progress-message = Viltu að { -brand-short-name } framkvæmi þessa uppfærslu?
+update-in-progress-ok-button = &Henda
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Halda áfram
 
 ## General Section - Performance
 
@@ -526,6 +532,9 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Vista
     .accesskey = V
+sync-connect-another-device = Tengja annað tæki
+sync-manage-devices = Sýsla með tæki
+sync-fxa-begin-pairing = Para tæki
 sync-tos-link = Skilmálar þjónustu
 sync-fxa-privacy-notice = Upplýsingar um meðferð persónuupplýsinga
 
