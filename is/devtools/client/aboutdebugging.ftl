@@ -101,6 +101,45 @@ about-debugging-network-location-form-invalid = Ógildur hýsill "{ $host-value 
 
 # Runtime Page strings
 
+# Below are the titles for the various categories of debug targets that can be found
+# on "runtime" pages of about:debugging.
+# Title of the temporary extensions category (only available for "This Firefox" runtime).
+about-debugging-runtime-temporary-extensions =
+    .name = Tímabundnar viðbætur
+# Title of the extensions category.
+about-debugging-runtime-extensions =
+    .name = Viðbætur
+# Title of the tabs category.
+about-debugging-runtime-tabs =
+    .name = Flipar
+# Text of a button displayed in Runtime pages for remote runtimes.
+# Clicking on the button will close the connection to the runtime.
+about-debugging-runtime-disconnect-button = Aftengja
 
 # Debug Targets strings
 
+# Displayed in the categories of "runtime" pages that don't have any debug target to
+# show. Debug targets depend on the category (extensions, tabs, workers...).
+about-debugging-debug-target-list-empty = Ekkert ennþá.
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will reload the extension.
+about-debugging-tmp-extension-reload-button = Endurhlaða
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will uninstall the extension and remove it from the page.
+about-debugging-tmp-extension-remove-button = Fjarlægja
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Notes, this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push = Senda
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start = Byrja
+# This string is displayed as a label of the button that unregisters a service worker.
+about-debugging-worker-action-unregister = Afskrá
+# Displayed for service workers in runtime pages that are currently running (service
+# worker instance is active).
+about-debugging-worker-status-running = Í gangi
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = Viðvörunarupplýsingar
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = Nánar

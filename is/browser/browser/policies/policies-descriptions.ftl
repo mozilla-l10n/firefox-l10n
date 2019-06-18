@@ -60,12 +60,15 @@ policy-HardwareAcceleration = Ef rangt, slökkva á hröðun vélbúnaðar.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Stilla og loka mögulega heimsíðu.
 policy-InstallAddonsPermission = Leyfa ákveðnum vefsíðum að setja upp viðbætur.
+policy-LocalFileLinks = Leyfa tilteknum vefsíðum að tengjast staðbundnum skrám.
+policy-NewTabPage = Virkja eða slökkva á nýju flipasíðunni.
 policy-NoDefaultBookmarks = Slökkva á stöðluðum bókamerkjum meðfylgjandi { -brand-short-name } og frá greindum bókamerkjum (flestar heimsóknir, nýleg meki) Ath. að þessi stefna hefur aðeins áhrif ef það er notað áður en sniðið er notað fyrst.
 policy-OfferToSaveLogins = Skoðaðu spurningu um að geyma aðgangsupplýsingar með { -brand-short-name }. Gildin true og false eru bæði gild.
 policy-OverrideFirstRunPage = Breyta upphafssíðu. Tómt gildi til að slökkva á opnun síðunnar.
 policy-OverridePostUpdatePage = Setja Firefox News síðu - birtist eftir uppfærslu á forritinu. Tómt gildi gerir slökkt á því að opna síðuna.
 policy-Permissions = Stilla heimildir fyrir myndavél, hljóðnema, staðsetningu og tilkynningar.
 policy-PopupBlocking = Leyfa tilteknum vefsíðum að birta sprettiglugga að sjálfgefnu.
+policy-PromptForDownloadLocation = Spyrðja hvar eigi að vista skrár frá niðurhali.
 policy-Proxy = Velja proxy-stillingar
 policy-RequestedLocales = Stilla lista yfir tungumál sem óskað er eftir af forritinu, raðað eftir vali.
 policy-SanitizeOnShutdown = Eyða öllum flakk gögnum við lokun

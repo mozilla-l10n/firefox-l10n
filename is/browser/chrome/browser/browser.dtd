@@ -131,7 +131,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Prenta…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-
 <!ENTITY importFromAnotherBrowserCmd.label "Flytja inn gögn frá öðrum vafa…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
@@ -341,6 +340,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Þú hefur lokað á að þetta vefsvæði geti notað Adobe Flash viðbót.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Þú hefur lokað fyrir MIDI aðgang á þessu vefsvæði.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Sýna sögu">
 
 <!ENTITY searchItem.title             "Leita">
@@ -438,7 +438,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "V">
 <!ENTITY preferencesCmdUnix.label       "Valkostir">
 <!ENTITY preferencesCmdUnix.accesskey     "V">
-
 <!ENTITY logins.label                           "Innskráning og lykilorð">
 
 <!ENTITY clearRecentHistory.label               "Hreinsa nýlega ferla…">
@@ -527,6 +526,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
 <!ENTITY customizeMenu.removeExtension.label "Fjarlægja viðbót">
 <!ENTITY customizeMenu.removeExtension.accesskey "v">
+
+<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
+     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.accesskey "o">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -877,6 +881,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Þessi síða er hlaðinn inn af viðbót.">
 <!ENTITY identity.insecureLoginForms2 "Hugsanlega gæti þriðji aðili komist yfir allar þær skráningar sem þú setur inn á þessa síðu.">
 
+
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; hefur lokað á suma hluta á þessari síðu sem eru ekki öruggir.">
 <!ENTITY identity.passiveLoaded "Sumir hlutir á þessari síðu eru ekki öruggir (eins og myndir).">
@@ -894,6 +899,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Þótt &brandShortName; hafi lokað á suma hluta, er ennþá innihald á síðunni sem er ekki öruggt (eins og myndir).">
 <!ENTITY identity.description.activeLoaded "Þetta vefsvæði inniheldur gögn sem eru ekki örugg (eins og skriftur) og tengingin er ekki lokuð.">
 <!ENTITY identity.description.activeLoaded2 "Þær upplýsingar sem þú gefur upp á þessu vefsvæði gætu aðrir skoðað (til dæmis lykilorð, skilaboð, greiðslukort, og fleira).">
+
 
 <!ENTITY identity.enableMixedContentBlocking.label "Virkja vernd">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "e">
@@ -1102,6 +1108,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "H">
 <!ENTITY updateAvailable.cancelButton.label "Ekki núna">
 <!ENTITY updateAvailable.cancelButton.accesskey "n">
+
 <!ENTITY updateAvailable.panelUI.label "Hala niður &brandShorterName; uppfærslu">
 
 <!ENTITY updateManual.message "Halaðu niður nýjum &brandShorterName; og við hjálpum þér að setja hann inn.">
