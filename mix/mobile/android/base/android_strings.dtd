@@ -26,6 +26,7 @@
 <!ENTITY firstrun_signin_message "Chita\&apos;an, kitsaà">
 <!ENTITY firstrun_signin_button "Kivi nuú Sync">
 <!ENTITY newfirstrun_signin_button "Ndatun Sync">
+<!ENTITY updatednewfirstrun_signin_button "Kitsa nu &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Kitsaà Nduku">
 <!ENTITY firstrun_button_notnow "Makuu vichi">
 <!ENTITY firstrun_button_next "Núu">
@@ -68,6 +69,7 @@
 
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "avá &brandShortName;">
 <!ENTITY  crash_notification_negative_button_text "Ma sa kuentaku">
 
 <!ENTITY url_bar_default_text2 "Nda tuku a chika direccion">
@@ -926,6 +928,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Kunchatu">
 <!ENTITY pip_pause_button_description "Kunchatu ña kucheu">
 
+<!ENTITY pref_notification_settings_link "Sama nixi katu\&apos;in">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Ndunku">
 <!ENTITY mls_notification_channel "&vendorShortName; Nduku nchi inkau">
