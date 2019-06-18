@@ -138,6 +138,12 @@ about-debugging-runtime-shared-workers =
 # Title of the other workers category.
 about-debugging-runtime-other-workers =
     .name = Workers nniḍen
+# Title of the processes category.
+about-debugging-runtime-processes =
+    .name = Ikalan
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button2 = Tamellit n umaɣnu
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -151,6 +157,8 @@ about-debugging-connection-prompt-enable-button = Rmed aneftaɣ n tiqqna
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = Sens aneftaɣ n tuqqna
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title2 = Amaɣnay
 
 # Debug Targets strings
 
@@ -195,6 +203,14 @@ about-debugging-worker-action-push = Degger
 about-debugging-worker-action-start = Senker
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Ksiggez
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = Fetch
+    .value = Asɣad n yineḍruyen Fetch
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = Fetch
+    .value = Ulac asɣad n yinuḍruyen Fetch
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
 about-debugging-worker-status-running = Aselkem
@@ -212,8 +228,15 @@ about-debugging-worker-push-service =
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Akala agejdan
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description2 = Akala agejdan i yiminig asaḍas
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Mdel izen
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = Talqayt n tuccḍa
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = Talɣayt n yilɣa
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Talqayt
