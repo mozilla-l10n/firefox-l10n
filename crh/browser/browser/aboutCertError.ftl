@@ -36,3 +36,7 @@ cert-error-domain-mismatch-multiple = Ağ-saytları kimligini şeadetnemeler arq
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Hata kodu: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Ağ-saytları, kimligini, şeadetname salâhiyetleri tarafından ihrac etilgen, şeadetnemeler arqalı isbatlar. Seyrancılarnıñ ekseriyeti, GeoTrust, RapidSSL, Symantec, Thawte ve VeriSign tarafından ihrac etilgen şeadetnamelerge artıq itimat etmey. { $hostname } bu salâhiyetlerden birinden bir şeadetname qullana ve ondan dolayı bu ağ-saytınıñ kimligi isbat etilalmay.
+cert-error-symantec-distrust-admin = Bu mes'ele aqqında ağ-saytınıñ memurını haberdar etebilirsiñiz.
