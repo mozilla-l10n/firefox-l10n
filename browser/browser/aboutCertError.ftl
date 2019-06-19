@@ -36,3 +36,4 @@ cert-error-domain-mismatch-multiple = Nettstadar beviser identiteten sin via ser
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Feilkode: <a data-l10n-name="error-code-link">{ $error }</a>
+cert-error-symantec-distrust-admin = Du kan varsle nettsideadministratoren om dette problemet.
