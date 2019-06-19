@@ -44,3 +44,7 @@ cert-error-not-yet-valid-now = Retejoj legitimas sin per sekurecaj atestiloj, ki
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Erarkodo: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Retejoj legitimas sin per sekurecaj atestiloj, kiuj estas eldonitaj de atestilaj aŭtoritatoj. La plimulto de la retumiloj ne plu fidas sekurecajn atestilojn eldonitajn de GeoTrust, RapidSSL, Symantec, Thawte, and VeriSign. { $hostname } uzas atestilon de unu el tiuj aŭtoritatoj kaj do oni ne povas kontroli la identon de la retejo.
+cert-error-symantec-distrust-admin = Vi povas sciigi la administraton de la retejo pri tiu ĉi problemo.
