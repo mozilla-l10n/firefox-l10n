@@ -44,3 +44,4 @@ cert-error-not-yet-valid-now = ვებსაიტები საკუთა
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = შეცდომის კოდი: <a data-l10n-name="error-code-link">{ $error }</a>
+cert-error-symantec-distrust-admin = შეგიძლიათ აცნობოთ ამ ხარვეზის შესახებ ვებსაიტის ხელმძღვანელობას.
