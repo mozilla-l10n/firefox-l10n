@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "Trafic de date mai mic, mai mult trafic economisit">
 <!ENTITY firstrun_data_subtext2 "Oprește imaginile pentru a consuma mai puțin trafic de date pe fiecare site pe care îl vizitezi.">
 <!ENTITY firstrun_sync_title "Sincronizare">
+<!ENTITY updatednewfirstrun_sync_title "Cont">
 <!ENTITY firstrun_sync_message2 "Continuă de unde ai rămas.">
 <!ENTITY firstrun_sync_subtext2 "Folosește Sync pentru a găsi pe toate dispozitivele tale marcajele, parolele și celelalte lucruri pe care le salvezi în &brandShortName;.">
 <!ENTITY newfirstrun_sync_subtext "Sincronizează lucrurile salvate pe dispozitivul mobil cu Firefox pentru desktop, în mod privat și sigur.">
