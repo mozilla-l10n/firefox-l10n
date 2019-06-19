@@ -21,9 +21,12 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Esta página web en <span id='phishing_sitename'/> ha sido infromada como un sitio engañoso y fue bloqueada según las preferencias de seguridad.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Los sitios engañosos están diseñados para llevarlo a hacer algo peligroso, como instalar software o revelar información personal como contraseñas, números de teléfono o tarjetas de crédito.</p><p>Ingresar cualquier información en esta página web puede resultar en robo de identidad o algún otro fraude.</p>">
 
+<!ENTITY safeb.blocked.harmfulPage.title "El sitio siguiente puede contener programas maliciosos">
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; bloqueó la pagina siguiente <span id='harmful_sitename'/> porque podría intentar instalar aplicaciones peligrosas que roben o eliminen su información (por ejemplo fotos, contraseñas, mensajes y tarjetas de crédito).">
+
 <!-- Localization note (reportDeceptiveSite, notADeceptiveSite) - The two button strings will never be shown at the same time, so it's okay for them to have the same access key. -->
 <!ENTITY reportDeceptiveSite.label "Informar sitio engañoso…">
 <!ENTITY reportDeceptiveSite.accesskey "s">
 <!ENTITY notADeceptiveSite.label "Este no es un sitio engañoso…">
 <!ENTITY notADeceptiveSite.accesskey "E">
-
