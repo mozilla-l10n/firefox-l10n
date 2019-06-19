@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "Mjenjej datow, wěcej zažaržanjow">
 <!ENTITY firstrun_data_subtext2 "Blokěrujśo wobraze, aby mjenjej datow na kuždom sedle pśetrjebował, ku kótaremuž se woglědujośo.">
 <!ENTITY firstrun_sync_title "Snychronizěrowaś">
+<!ENTITY updatednewfirstrun_sync_title "Konto">
 <!ENTITY firstrun_sync_message2 "Cyńśo tam dalej, źož sćo pśestał.">
 <!ENTITY firstrun_sync_subtext2 "Wužywajśo Sync, aby cytańske znamjenja, gronidła a druge wěcy namakał, kótarež w &brandShortName; na wšych swójich rědach składujośo.">
 <!ENTITY newfirstrun_sync_subtext "Synchronizěrujśo informacije, kótarež na mobilnem rěźe składujośo, z Firefox za desktop, priwatnje a wěsće.">
