@@ -44,3 +44,7 @@ cert-error-not-yet-valid-now = 網站會透過憑證來證明自己的身分。�
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = 錯誤碼: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = 網站會透過憑證機構簽發的憑證來驗明正身。大多數瀏覽器已不再信任 GeoTrust、RapidSSL、Symantec、Thawte 及 VeriSign 所簽發的憑證。{ $hostname } 使用來自這些機構簽發的憑證，故無法確認該網站的身分。
+cert-error-symantec-distrust-admin = 您可通知網站管理員這個問題。
