@@ -44,3 +44,7 @@ cert-error-not-yet-valid-now = Saidid tõestavad oma identiteeti kindlaks määr
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Veakood: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Saidid tõestavad oma identiteeti turvasertide abil, mis on välja antud sertifitseerimiskeskuste poolt. Enamik brausereid ei usalda enam serte, mille on välja andnud GeoTrust, RapidSSL, Symantec, Thawte või VeriSign. Sait { $hostname } kasutab serti, mille on väljastanud üks eelnimetatud sertifitseerimiskeskustest ja seetõttu pole selle saidi identiteeti võimalik tõestada.
+cert-error-symantec-distrust-admin = Sa võid teavitada saidi administraatorit sellest probleemist.
