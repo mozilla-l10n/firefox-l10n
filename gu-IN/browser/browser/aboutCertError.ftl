@@ -36,3 +36,4 @@ cert-error-domain-mismatch-multiple = વેબસાઇટ્સ પ્રમ�
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = ભૂલ કોડ: <a data-l10n-name="error-code-link">{ $error }</a>
+cert-error-symantec-distrust-admin = તમે વેબસાઇટના વ્યવસ્થાપકને આ સમસ્યાની જાણ કરી શકો છો.
