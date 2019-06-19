@@ -44,3 +44,7 @@ cert-error-not-yet-valid-now = 웹사이트는 지정된 기간동안 유효한 
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = 오류 코드: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = 웹사이트는 인증 기관에서 발행한 인증서를 통해 신원을 증명합니다. 대부분의 브라우저는 더 이상 GeoTrust나 RapidSSL, Symantec, Thawte, VeriSign에서 발급 한 인증서를 신뢰하지 않습니다. { $hostname }은 이러한 인증 중 하나를 사용하므로 웹 사이트 자신을 증명할 할 수 없습니다.
+cert-error-symantec-distrust-admin = 웹사이트의 관리자에게 이 문제에 대해서 보고할 수 있습니다.
