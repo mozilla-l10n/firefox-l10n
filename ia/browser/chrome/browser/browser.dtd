@@ -1112,7 +1112,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Saper plus super DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "Actualisa tu &brandShorterName; pro le plus recente rapiditate e confidentialitate.">
+<!ENTITY updateAvailable.message "Actualisa tu &brandShorterName; pro beneficiar del ultime meliorationes in rapiditate e confidentialitate.">
 <!ENTITY updateAvailable.whatsnew.label "Vider le novas.">
 <!ENTITY updateAvailable.header.message "Un nove actualisation de &brandShorterName; es disponibile.">
 <!ENTITY updateAvailable.acceptButton.label "Discargar actualisation">
