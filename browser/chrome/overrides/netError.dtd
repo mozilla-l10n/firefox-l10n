@@ -10,9 +10,7 @@
 <!ENTITY returnToPreviousPage.label "Mine tagasi">
 <!ENTITY returnToPreviousPage1.label "Mine tagasi (soovitatav)">
 <!ENTITY advanced.label "Edasijõudnuile">
-<!ENTITY continue2.label "Veel…">
-<!ENTITY moreInformation.label "Rohkem teavet">
-
+<!ENTITY advanced2.label "Edasijõudnuile…">
 <!ENTITY viewCertificate.label "Vaata sertifikaati">
 
 <!-- Specific error messages -->
@@ -149,16 +147,17 @@
 ">
 
 <!ENTITY certerror.longpagetitle1 "Ühendus pole turvaline">
+
 <!ENTITY certerror.longpagetitle2 "Hoiatus: ees on ootamas võimalik turvarisk">
 <!ENTITY certerror.sts.longpagetitle  "Ühendust ei loodud: võimalik turvarisk">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Saidi <span class='hostname'/> omanik on oma veebilehe valesti häälestanud.  Sinu andmete kaitsmiseks varastamise eest ei loonud &brandShortName; selle veebilehega ühendust.">
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 <!ENTITY certerror.introPara2 "&brandShortName; tuvastas võimaliku turvaohu ja ei jätkanud saidi <span class='hostname'/> laadimist. Selle saidi külastamisel võivad ründajad varastada infot nagu sinu paroolid, e-posti aadress või krediitkaardi andmed.">
-
-<!ENTITY certerror.expiredCert.secondPara "Selle probleemi peamiseks põhjuseks on tõenäoliselt see, et sinu arvuti kellaaeg on vale, mis takistab &brandShortName;il turvalise ühenduse loomist.">
-
 <!ENTITY certerror.sts.introPara "&brandShortName; tuvastas potentsiaalse turvalisuse ohu ja ei loonud ühendust saidiga <span class='hostname'/>, kuna see nõuab turvalist ühendust.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; tuvastas probleemi ja ei loonud ühendust saidiga <span class='hostname'/>. Sait on kas poolikult häälestatud või on sinu arvuti kellaaeg vale.">
@@ -200,6 +199,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Lisa erand…">
+
 <!ENTITY securityOverride.exceptionButton1Label "Nõustu riskiga ja jätka">
 
 <!ENTITY errorReporting.automatic2 "Raporteeri taolistest vigadest, et Mozilla saaks tuvastada ja blokkida ohtlikud veebilehed">
@@ -220,6 +220,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; ei loonud ühendust aadressiga <span id='wrongSystemTimeWithoutReference_URL'/>, sest sinu arvuti näib kasutavat vale kellaaega ning see takistab turvalise ühenduse loomist.</p> <p>Sinu arvuti ajaks on <span id='wrongSystemTimeWithoutReference_systemDate'/>. Probleemi lahendamiseks muuda oma arvuti aja sätted õigeks.</p>">
 
 <!ENTITY certerror.pagetitle1  "Ebaturvaline ühendus">
+
 <!ENTITY certerror.pagetitle2  "Hoiatus: ees on ootamas võimalik turvarisk">
 <!ENTITY certerror.sts.pagetitle  "Ühendust ei loodud: võimalik turvarisk">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "See sait kasutab HTTP
@@ -235,6 +236,8 @@ võimalik.">
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> kasutab turvatehnoloogiat, mis on aegunud ja ei paku rünnete eest kaitset. Ründaja võib suurema vaevata pääseda ligi teabele, mis sinu arvates on kaitstud. Saidi külastamiseks peab saidi administraator selle serveri kõigepealt ära parandama.</p><p>Veakood: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Blokitud leht">
+
+<!ENTITY certerror.mitm.title "Tarkvara takistab &brandShortName;il selle saidiga turvalise ühenduse loomist">
 
 <!ENTITY clockSkewError.title "Sinu arvuti aeg on vale">
 <!ENTITY clockSkewError.longDesc "Sinu arvuti arvab ajaks olevat <span id='wrongSystemTime_systemDate1'/> - see takistab &brandShortName;il turvalise ühenduse loomist. Saidi <span class='hostname'></span> külastamiseks määra oma arvuti aeg õigeks ja värskenda siis saidi <span class='hostname'></span> sisu.">
