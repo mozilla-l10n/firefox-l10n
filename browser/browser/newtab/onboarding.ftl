@@ -76,6 +76,11 @@ onboarding-firefox-monitor-button = Prijavite se za obavijesti
 onboarding-browse-privately-title = Pretražujte privatno
 onboarding-browse-privately-text = Privatno pretraživanje briše povijest pretraživanja i pregledavanja kako bi ostalo skriveno od ostalih koje koriste isto računalo.
 onboarding-browse-privately-button = Otvori privatni prozor
+onboarding-firefox-send-title = Držite svoje dijeljene datoteke privatnima
+onboarding-firefox-send-text2 = Prenesite svoje datoteke na { -send-brand-name } kako biste ih dijelili s potpunom enkripcijom i poveznicom koja se automatski briše.
+onboarding-firefox-send-button = Isprobajte { -send-brand-name }
+onboarding-mobile-phone-title = Nabavite { -brand-product-name } za vaš telefon
+onboarding-mobile-phone-text = Preuzmite { -brand-product-name } za iOS ili Android i sinkronizirajte svoje podatke na svim uređajima.
 
 ## Message strings belonging to the Return to AMO flow
 
