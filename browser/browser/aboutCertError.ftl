@@ -47,3 +47,4 @@ cert-error-code-prefix-link = Código do erro: <a data-l10n-name="error-code-lin
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Sites comprovam sua identidade através de certificados, que são emitidos por autoridades certificadoras. A maioria dos navegadores não confia mais em certificados emitidos por GeoTrust, RapidSSL, Symantec, Thawte e VeriSign. { $hostname } usa um certificado de uma dessas autoridades, portanto a identidade do site não pode ser comprovada.
+cert-error-symantec-distrust-admin = Você pode notificar o administrador da página a respeito deste problema.
