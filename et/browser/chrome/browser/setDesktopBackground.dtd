@@ -8,8 +8,14 @@
 <!ENTITY stretch.label              "keskjoondatud maksimeeritud">
 <!ENTITY fill.label                 "täidetud taust">
 <!ENTITY fit.label                  "taustale sobitatud">
-<!ENTITY preview.label              "Eelvaade">
+<!-- LOCALIZATION NOTE (span.label): This refers to the wallpaper "spanning"
+                       multiple monitors when the user has more than one. Only
+                       some of the entire image will be on each monitor.
+                       This should ideally match the wording in Windows' own
+                       Desktop Background settings page. -->
+<!ENTITY span.label                 "üle mitme ekraani">
 <!ENTITY color.label                "Värv:">
 <!ENTITY setDesktopBackground.title "Määra töölaua taustapildiks">
 <!ENTITY openDesktopPrefs.label     "Ava töölaua eelistused">
 <!ENTITY closeWindow.key            "W">
+<!ENTITY previewUnavailable         "Eelvaade pole saadaval">
