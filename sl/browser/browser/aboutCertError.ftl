@@ -36,3 +36,7 @@ cert-error-domain-mismatch-multiple = Spletne strani svojo istovetnost dokazujej
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Koda napake: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Spletne strani svojo istovetnost dokazujejo z digitalnimi potrdili, ki jih izdajajo uradni overitelji. Večina brskalnikov ne zaupa več digitalnim potrdilom, ki so jih izdali GeoTrust, RapidSSL, Symantec, Thawte in VeriSign. Stran { $hostname } uporablja digitalno potrdilo enega od teh overiteljev, zato njene istovetnosti ni mogoče preveriti.
+cert-error-symantec-distrust-admin = O težavi lahko obvestite skrbnika spletne strani.
