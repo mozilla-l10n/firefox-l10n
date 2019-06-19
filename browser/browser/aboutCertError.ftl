@@ -33,3 +33,7 @@ cert-error-domain-mismatch-multiple = Laman web membuktikan identiti melalui sij
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Kod ralat: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Laman web membuktikan identiti melalui sijil yang dikeluarkan oleh pihak berkuasa sijil. Kebanyakan pelayar tidak lagi mempercayai sijil yang dikeluarkan oleh GeoTrust, RapidSSL, Symantec, Thawte, dan VeriSign. { $hostname } menggunakan sijil daripada salah satu pihak berkuasa ini dan oleh itu identiti laman web tidak dapat dibuktikan.
+cert-error-symantec-distrust-admin = Anda boleh maklumkan pentadbir laman web perihal masalah ini.
