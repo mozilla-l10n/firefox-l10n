@@ -186,6 +186,13 @@ about-debugging-browser-version-too-old = Iminig yeqqnen ɣur-s lqem aqbuṛ { $
 # backward compatible changes broke the debugger in those scenarios (Bug 1528219).
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 about-debugging-browser-version-too-old-67-debugger = Agalis n temseɣtayt tezmer ur tetteddu ara s yiminig yeqqnen. Ma ulac aɣilif, seqde Firefox { $runtimeVersion } ma teḥwaǧeḍ ad tesqedceḍ tamseqtayt s yiminig-a.
+# This string is displayed in the runtime page if the remote browser version is too recent.
+# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = Iminig yeqqnen d amaynut { $runtimeVersion }, asulay n bennu { $runtimeID } ɣef wayla-k { -brand-shorter-name }{ -brand-shorter-name } ({ $localVersion }, asulay n bennu { $localID }). Wagu d tawila ur nettusefrak ara daɣen dayen ara yeǧǧen ifecka n tneflin ur leḥḥun ara. Leqqem Firefox ma ulac aɣilif. <a>Fru uguren</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
