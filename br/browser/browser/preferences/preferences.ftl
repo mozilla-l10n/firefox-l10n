@@ -304,7 +304,10 @@ update-setting-write-failure-title = Fazi en ur enrollañ ar gwellvezioù hiziva
 #   $path (String) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
-update-setting-write-failure-message = Degouezhet ez eus bet ur fazi gant { -brand-short-name } ha n'eo ket bet enrollet ar c'hemmoù. Kemmañ ar gwellvez-se a azgoulenn kaout an aotre da skrivañ er restr dindan. Un ardoer reizhiad pe c'hwi hoc'h unan a c'hallfe diskoulmañ ar fazi en ur aotren ar strollad Arveriaded da reoliañ ar restr-mañ.
+update-setting-write-failure-message =
+    Degouezhet ez eus bet ur fazi gant { -brand-short-name } ha n'eo ket bet enrollet ar c'hemmoù. Kemmañ ar gwellvez-se a azgoulenn kaout an aotre da skrivañ er restr dindan. Un ardoer reizhiad pe c'hwi hoc'h unan a c'hallfe diskoulmañ ar fazi en ur aotren ar strollad Arveriaded da reoliañ ar restr-mañ.
+    
+    Dic'houest eo da skrivañ er restr: { $path }
 update-in-progress-title = Hizivadenn war ober
 update-in-progress-message = Fallout a ra deoc'h e kendalc'hfe { -brand-short-name } da hizivaat?
 update-in-progress-ok-button = &Argas
