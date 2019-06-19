@@ -23,7 +23,7 @@
 <!ENTITY attachFileCmd.key "a">
 <!ENTITY attachCloudCmd.label "Anexo on-line">
 <!ENTITY attachCloudCmd.accesskey "l">
-<!ENTITY attachPageCmd.label "Página da web…">
+<!ENTITY attachPageCmd.label "Página web…">
 <!ENTITY attachPageCmd.accesskey "w">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "vCard">
@@ -339,7 +339,7 @@
 <!ENTITY cancelUpload.accesskey "n">
 <!ENTITY convertRegularAttachment.label "Anexo normal">
 <!ENTITY convertRegularAttachment.accesskey "A">
-<!ENTITY attachPage.label "Anexar página da web…">
+<!ENTITY attachPage.label "Anexar página web…">
 <!ENTITY attachPage.accesskey "w">
 
 <!-- Attachment Pane Header Bar Context Menu -->
