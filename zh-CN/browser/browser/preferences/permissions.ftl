@@ -108,7 +108,7 @@ permissions-exceptions-autoplay-media-desc2 = 您可以指定一律允许或不�
 permissions-site-autoplay-window =
     .title = 设置 - 自动播放
     .style = { permissions-window.style }
-permissions-site-autoplay-desc = 您可以在此处管理不遵循默认自动播放设置的网站。
+permissions-site-autoplay-desc = 您可以在此处管理不遵从默认自动播放设置的网站。
 
 ## Site Permissions - Notifications
 
