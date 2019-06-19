@@ -44,3 +44,7 @@ cert-error-not-yet-valid-now = Οι ιστοσελίδες αποδεικνύο�
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Κωδικός σφάλματος: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Οι ιστοσελίδες αποδεικνύουν την ταυτότητά τους μέσω πιστοποιητικών, τα οποία εκδίδονται από αρχές πιστοποιητικών. Τα περισσότερα προγράμματα περιήγησης δεν εμπιστεύονται πλέον πιστοποιητικά από τις GeoTrust, RapidSSL, Symantec, Thawte και VeriSign. Το { $hostname } χρησιμοποιεί ένα πιστοποιητικό από μία από αυτές τις αρχές και για το λόγο αυτό, η ταυτότητα της ιστοσελίδας δεν μπορεί να αποδειχθεί.
+cert-error-symantec-distrust-admin = Μπορείτε να ειδοποιήσετε το διαχειριστή της ιστοσελίδας σχετικά με αυτό το πρόβλημα.
