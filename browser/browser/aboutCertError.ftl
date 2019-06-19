@@ -44,3 +44,6 @@ cert-error-not-yet-valid-now = Веб-сайты подтверждают сво
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Код ошибки: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Веб-сайты подтверждают свою подлинность с помощью сертификатов, выдаваемых центрами сертификации. Большинство браузеров больше не доверяют сертификатам, выпущенным GeoTrust, RapidSSL, Symantec, Thawte и VeriSign. { $hostname } использует сертификат от одного из этих центров, поэтому его подлинность не может быть подтверждена.
