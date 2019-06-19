@@ -36,3 +36,7 @@ cert-error-domain-mismatch-multiple = Vefsíður staðfesta auðkenni sitt með 
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Villunúmer: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Vefsíður sanna auðkenni sitt með vottorðum, sem eru gefin út af vottuðu yfirvaldi. Flestir vafrar styðja ekki lengur vottorð útgefin af GeoTrust, RapidSSL, Symantec, Thawte og VeriSign. { $hostname } notar vottorð frá einu af þessum aðilum og fyrir vikið er ekki hægt að sanna auðkenni vefsíðunnar.
+cert-error-symantec-distrust-admin = Þú mátt láta vefstjóra þessarar síðu vita af vandamálinu.
