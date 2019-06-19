@@ -18,3 +18,4 @@ cert-error-untrusted-default = Сертификатът идва от недос
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Код на грешката: <a data-l10n-name="error-code-link">{ $error }</a>
+cert-error-symantec-distrust-admin = Може да уведомите администратора на страницата за този проблем.
