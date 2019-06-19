@@ -33,17 +33,18 @@ cert-error-domain-mismatch-single-nolink = Websteder bekræfter deres identitet 
 # Variables:
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
 cert-error-domain-mismatch-multiple = Websteder bekræfter deres identitet ved hjælp af sikkerhedscertifikater. { -brand-short-name } stoler ikke på { $hostname }, fordi webstedet bruger et certifikat, der ikke er gyldigt for { $hostname }. Certifikatet er kun gyldigt for følgende navne: { $subject-alt-names }
-
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-after-local-time (Date) - Certificate is not valid after this time.
 cert-error-expired-now = Websteder bekræfter deres identitet ved hjælp af sikkerhedscertifikater, der er gyldige i en bestemt periode. Certifikatet for { $hostname } udløb { $not-after-local-time }.
-
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-before-local-time (Date) - Certificate is not valid before this time.
 cert-error-not-yet-valid-now = Websteder bekræfter deres identitet ved hjælp af sikkerhedscertifikater, der er gyldige i en bestemt periode. Certifikatet for { $hostname } er ikke gyldigt før { $not-before-local-time }.
-
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Fejlkode: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Websteder bekræfter deres identitet ved hjælp af sikkerhedscertifikater, der er udstedt af certifikat-autoriteter. De fleste browsere stoler ikke længere på certifikater udstedt af GeoTrust, RapidSSL, Symantec, Thawte, og VeriSign. { $hostname } bruger et certifikat fra én af disse autoriteter, og webstedets identitet kan derfor ikke bekræftes.
+cert-error-symantec-distrust-admin = Du kan prøve at kontakte webstedets administrator for at gøre opmærksom på problemet.
