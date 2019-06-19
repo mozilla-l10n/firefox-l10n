@@ -35,7 +35,7 @@
 <!ENTITY attachMenu.accesskey "x">
 <!ENTITY attachFileCmd.label "Arquivos...">
 <!ENTITY attachFileCmd.accesskey "A">
-<!ENTITY attachPageCmd.label "Página da web...">
+<!ENTITY attachPageCmd.label "Página web...">
 <!ENTITY attachPageCmd.accesskey "w">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "vCard">
@@ -120,12 +120,12 @@
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
 <!ENTITY addressBar.tooltip "Barra de endereçamento (clique para exibir)">
 <!ENTITY formatToolbar.tooltip "Barra de formatação (clique para exibir)">
-<!ENTITY sendButton.tooltip "Enviar esta mensagem agora"> 
-<!ENTITY sendlaterButton.tooltip "Enviar esta mensagem depois"> 
-<!ENTITY addressButton.tooltip "Selecionar destinatários no catálogo de endereços"> 
-<!ENTITY attachButton.tooltip "Anexar arquivos"> 
-<!ENTITY saveButton.tooltip "Salvar a mensagem na pasta &quot;Rascunhos&quot;"> 
-<!ENTITY stopButton.tooltip "Interromper a transferência atual"> 
+<!ENTITY sendButton.tooltip "Enviar esta mensagem agora">
+<!ENTITY sendlaterButton.tooltip "Enviar esta mensagem depois">
+<!ENTITY addressButton.tooltip "Selecionar destinatários no catálogo de endereços">
+<!ENTITY attachButton.tooltip "Anexar arquivos">
+<!ENTITY saveButton.tooltip "Salvar a mensagem na pasta &quot;Rascunhos&quot;">
+<!ENTITY stopButton.tooltip "Interromper a transferência atual">
 
 <!-- context menu items -->
 <!ENTITY openAttachment.label "Abrir">
@@ -136,5 +136,5 @@
 <!ENTITY selectAllAttachments.accesskey "T">
 <!ENTITY attachFile.label "Anexar arquivos...">
 <!ENTITY attachFile.accesskey "n">
-<!ENTITY attachPage.label "Anexar página da web...">
+<!ENTITY attachPage.label "Anexar página web...">
 <!ENTITY attachPage.accesskey "w">

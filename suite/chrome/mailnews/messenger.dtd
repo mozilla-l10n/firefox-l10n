@@ -216,7 +216,7 @@
 
 <!ENTITY bodyMenuFeed.label "Formatação do RSS como">
 <!ENTITY bodyMenuFeed.accesskey "S">
-<!ENTITY viewFeedWebPage.label "Página da web">
+<!ENTITY viewFeedWebPage.label "Página web">
 <!ENTITY viewFeedWebPage.accesskey "w">
 <!ENTITY viewFeedSummary.label "Resumo">
 <!ENTITY viewFeedSummary.accesskey "s">
