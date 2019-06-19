@@ -44,3 +44,7 @@ cert-error-not-yet-valid-now = Prouet e vez pivelezh al lec'hiennoù gant testen
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Boneg fazi: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Gant testenioù e vez prouet pivelezh al lec'hiennoù. Roet e vezont gant aotrouniezhoù testeniañ. Lodenn vrasañ ar merdeerioù na reont ket fiziañ ken en testenioù roet gant GeoTrust, RapidSSL, Symantec, Thawte ha VeriSign. Un testeni roet gant unan eus an aotrouniezhoù-mañ a vez arveret gant { $hostname }, ha n'hall ket bezañ prouet pivelezh al lec'hienn.
+cert-error-symantec-distrust-admin = Gallout a rit mont e darempred gant merour al lec'hienn diwar-benn ar gudenn-mañ.
