@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "Dữ liệu ít hơn, tiết kiệm nhiều hơn">
 <!ENTITY firstrun_data_subtext2 "Tắt hiển thị ảnh để giảm dữ liệu mà bạn cần tải cho mỗi trang.">
 <!ENTITY firstrun_sync_title "Đồng bộ hóa">
+<!ENTITY updatednewfirstrun_sync_title "Tài khoản">
 <!ENTITY firstrun_sync_message2 "Tiếp tục trang mà bạn vừa rời khỏi.">
 <!ENTITY firstrun_sync_subtext2 "Sử dụng đồng bộ hóa để tìm trang đánh dấu, mật khẩu và những thứ bạn lưu vào &brandShortName; trên tất cả các thiết bị của bạn.">
 <!ENTITY newfirstrun_sync_subtext "Đồng bộ hóa những thứ bạn lưu trên thiết bị di động với Firefox cho máy tính để bàn, riêng tư và an toàn.">
