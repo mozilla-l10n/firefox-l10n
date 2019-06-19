@@ -7,7 +7,7 @@
 <!ENTITY safeb.palm.reportPage.label "Varför blockerades denna sida?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Rapporterad attackerade sida!">
-<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Denna webbsida på <span id='malware_sitename'/> har rapporterats som en attackerande sida och har blockerats enligt dina säkerhetsinställningar.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Attackerande sidor försöker installera program som stjäl personlig information, använder din dator för att attackera andras, eller förstör ditt system.</p><p>Vissa attackerande sidor distribuerar medvetet skadlig programvara, men många är också komprometterade utan ägarens kännedom eller tillåtelse.</p>">
 
@@ -21,6 +21,10 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Denna webbsida på <span id='phishing_sitename'/> har rapporterats som en vilseledande plats och har blockerats enligt dina säkerhetsinställningar.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Vilseledande webbplatser är utformade för att lura dig att göra något farligt, som att installera ett program, eller avslöja personlig information, som lösenord, telefonnummer eller kreditkortsnummer.</p><p>Att ange någon information på denna webbsida kan leda till identitetsstöld eller andra bedrägerier.</p>">
 
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">
+
+<!-- Localization note (reportDeceptiveSite, notADeceptiveSite) - The two button strings will never be shown at the same time, so it's okay for them to have the same access key. -->
 <!ENTITY reportDeceptiveSite.label "Rapportera vilseledande plats…">
 <!ENTITY reportDeceptiveSite.accesskey "v">
 <!ENTITY notADeceptiveSite.label "Detta är inte en vilseledande plats…">
