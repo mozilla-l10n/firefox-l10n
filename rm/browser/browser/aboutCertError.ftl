@@ -36,3 +36,7 @@ cert-error-domain-mismatch-multiple = Websites cumprovan lur identitad cun certi
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Code d'errur: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Websites cumprovan lur identitad cun certificats che vegnan emess dad autoritads da certificaziun. Ils blers navigaturs na sa fidan betg pli da certificats emess da GeoTrust, RapidSSL, Symantec, Thawte e VeriSign. { $hostname } utilisescha in certificat dad ina da questas autoritads, uschia ch'i n'è betg pussaivel da verifitgar l'identitad da la website.
+cert-error-symantec-distrust-admin = Ti pos infurmar l'administratur da la website davart quest problem.
