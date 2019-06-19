@@ -44,3 +44,7 @@ cert-error-not-yet-valid-now = Websedła swóju identitu pśez certifikaty dopok
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Zmólkowy kod: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Websedła swóju identitu pśez certifikaty dopokazuju, kótarež certificěrowanišća wudawaju. Nejwěcej wobglědowakow certifikatam wěcej njedowěrje, kótarež GeoTrust, RapidSSL, Symantec, Thawte a VeriSign su wudali. { $hostname } certifikat jadnogo z toś tych certificěrowanišćow wužywa a togodla njedajo se identita websedła dopokazaś.
+cert-error-symantec-distrust-admin = Snaź cośo administratora websedła wó toś tom problemje informěrowaś.
