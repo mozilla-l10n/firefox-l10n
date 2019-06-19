@@ -79,8 +79,25 @@ onboarding-browse-privately-button = Otvori privatni prozor
 onboarding-firefox-send-title = Držite svoje dijeljene datoteke privatnima
 onboarding-firefox-send-text2 = Prenesite svoje datoteke na { -send-brand-name } kako biste ih dijelili s potpunom enkripcijom i poveznicom koja se automatski briše.
 onboarding-firefox-send-button = Isprobajte { -send-brand-name }
-onboarding-mobile-phone-title = Nabavite { -brand-product-name } za vaš telefon
+onboarding-mobile-phone-title = Preuzmite { -brand-product-name } za vaš telefon
 onboarding-mobile-phone-text = Preuzmite { -brand-product-name } za iOS ili Android i sinkronizirajte svoje podatke na svim uređajima.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Preuzmite mobilni preglednik
+onboarding-send-tabs-title = Trenutno pošaljite sami sebi kartice
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Pošalji kartice trenutno dijeli web stranice između vaših uređaja bez da morate kopirati, zalijepiti ili napustiti vaš preglednik.
+onboarding-send-tabs-button = Počnite korisitit slanje kartica
+onboarding-pocket-anywhere-title = Čitajte i slušajte bilo gdje
+onboarding-pocket-anywhere-text2 = Spremite vaš omiljeni sadržaj lokalno s { -pocket-brand-name } aplikacijom i čitajte, slušajte i gledajte kada god vam to odgovara.
+onboarding-pocket-anywhere-button = Probajte { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Ponesite svoje lozinke posvuda
+onboarding-lockwise-passwords-text2 = Zaštitite lozinke koje spremite i jednostavno se prijavite u svoje račune s { -lockwise-brand-name }.
+onboarding-lockwise-passwords-button2 = Preuzmite aplikaciju
+onboarding-facebook-container-title = Postavite granice s Facebookom
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } drži vaš profil odvojeno od svega drugoga, otežavajući Facebooku da vas prati s reklamama.
+onboarding-facebook-container-button = Instaliraj dodatak
 
 ## Message strings belonging to the Return to AMO flow
 
