@@ -36,4 +36,7 @@ cert-error-domain-mismatch-multiple = Nettstadar beviser identiteten sin via ser
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Feilkode: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Nettstadar viser identiteten sin via sertifikat, som vert skrivne ut av sertifikatstyremakter. Dei fleste nettlesarar stolar ikkje lenger på sertifikat skrivne ut av GeoTrust, RapidSSL, Symantec, Thawte og VeriSign. { $hostname } brukar eit sertifikat frå ein av desse styremaktene, og dermed kan ikkje identiteten til nettstaden bevisast.
 cert-error-symantec-distrust-admin = Du kan varsle nettsideadministratoren om dette problemet.
