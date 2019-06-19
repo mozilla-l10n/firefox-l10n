@@ -44,3 +44,7 @@ cert-error-not-yet-valid-now = Ismal web ttebganen-d timagit-nsen s iselkinen i 
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Tangalt n tuccḍa: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Ismal web ttebganen-d timagit-nsen s Iselkinen i d-ttawin sɣur iduba n iselkinen. Tuget n yiminigen ur ttamnen ara iselkinen n GeoTrust, RapidSSL, Symantec, Thawte, akked VeriSign. { $hostname } isseqdac aselkin n yiwen n yiduba-agi ɣef waya timagit n usmel web ur tezmir ara ad d-tettwabgen.
+cert-error-symantec-distrust-admin = Tzemreḍ ad telɣuḍ anebdal n usmel web ɣef ugur-agi.
