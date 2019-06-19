@@ -44,3 +44,7 @@ cert-error-not-yet-valid-now = Webové stránky preukazujú svoju identitu pomoc
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Kód chyby: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Webové stránky preukazujú svoju identitu pomocou certifikátov. Väčšina prehliadačov už nedôveruje certifikátom od spoločností GeoTrust, RapidSSL, Symantec, Thawte a VeriSign. Stránka { $hostname } používa certifikát vydaný jednou z týchto spoločností a preto jej totožnosť nie je možné overiť.
+cert-error-symantec-distrust-admin = O tomto probléme môžete informovať správcu webovej stránky.
