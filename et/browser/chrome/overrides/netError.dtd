@@ -238,6 +238,11 @@ võimalik.">
 <!ENTITY blockedByPolicy.title "Blokitud leht">
 
 <!ENTITY certerror.mitm.title "Tarkvara takistab &brandShortName;il selle saidiga turvalise ühenduse loomist">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> on suure tõenäosusega ohutu sait, aga turvalise ühenduse loomine polnud sellegi poolest võimalik. Selle probleemi põhjuseks on <span class='mitm-name'/>, mis on kas tarkvara sinu arvutis või siis sinu võrgus.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 'Kui sinu antiviiruse tarkvara sisaldab krüptitud ühenduste skanneerimise funktsionaalsust (tihti nimetatud kui "veebi skannimine (web scanning)" või "httpsi skannimine (https scanning)"), siis võid sa selle funktsionaalsuse keelata. Kui see ei aita, siis proovi antiviiruse tarkvara eemaldada ja uuesti paigaldada.'>
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Kui sa asud ettevõtte võrgus, siis võid pöörduda IT osakonna poole.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Kui <span class='mitm-name'/> on sulle tundmatu, siis võib tegu olla rünnakuga ja sa ei peaks jätkama selle saidi külastamist.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Kui <span class='mitm-name'/> on sulle tundmatu, siis võib tegu olla rünnakuga ja sul puudub praegu võimalus seda saiti külastada.">
 
 <!ENTITY clockSkewError.title "Sinu arvuti aeg on vale">
 <!ENTITY clockSkewError.longDesc "Sinu arvuti arvab ajaks olevat <span id='wrongSystemTime_systemDate1'/> - see takistab &brandShortName;il turvalise ühenduse loomist. Saidi <span class='hostname'></span> külastamiseks määra oma arvuti aeg õigeks ja värskenda siis saidi <span class='hostname'></span> sisu.">
