@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "Kevesebb adat, több spórolás">
 <!ENTITY firstrun_data_subtext2 "Kapcsolja ki a képeket az adatforgalommal való spóroláshoz.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY updatednewfirstrun_sync_title "Fiók">
 <!ENTITY firstrun_sync_message2 "Folytassa ott, ahol abbahagyta.">
 <!ENTITY firstrun_sync_subtext2 "Használja a Syncet a könyjzők, jelszavak, és más dolgok megtalálására, amelyeket a &brandShortName; böngészőbe ment az összes eszközén.">
 <!ENTITY newfirstrun_sync_subtext "Szinkronizálja a mobilra mentett dolgokat az asztali Firefoxszal, bizalmasan és biztonságosan.">
