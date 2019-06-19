@@ -44,3 +44,7 @@ cert-error-not-yet-valid-now = Các trang web chứng minh danh tính của họ
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Mã lỗi: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Các trang web chứng minh danh tính của họ thông qua các chứng chỉ, được cấp bởi các cơ quan chứng nhận. Hầu hết các trình duyệt không còn tin tưởng các chứng chỉ do GeoTrust, RapidSSL, Symantec, Thawte và VeriSign cấp. { $hostname } sử dụng chứng chỉ từ một trong những cơ quan này và do đó, danh tính của trang web không thể chứng minh được.
+cert-error-symantec-distrust-admin = Bạn có thể thông báo cho quản trị viên trang web về vấn đề này.
