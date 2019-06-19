@@ -292,6 +292,11 @@ update-pref-write-failure-title = Yazma Hatası
 update-pref-write-failure-message = Tercih kaydedilemiyor. Dosyaya yazılamadı: { $path }
 update-setting-write-failure-title = Güncelleme tercihlerini kaydetmede hata
 update-in-progress-title = Güncelleme sürüyor
+update-in-progress-message = { -brand-short-name } bu güncellemeyi uygulamaya devam etsin mi?
+update-in-progress-ok-button = &Vazgeç
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Devam et
 
 ## General Section - Performance
 
@@ -546,6 +551,9 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = İstisnalar…
     .accesskey = s
+forms-generate-passwords =
+    .label = Güçlü parolalar öner ve oluştur
+    .accesskey = G
 forms-saved-logins =
     .label = Kayıtlı hesaplar…
     .accesskey = K
