@@ -36,3 +36,7 @@ cert-error-domain-mismatch-multiple = Bidh làraichean-lìn a’ dearbhadh cò i
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Còd na mearachd: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Bidh làraichean-lìn a’ dearbhadh cò iad le teisteanasan tèarainteachd a tha ’gam foillseachadh le ùghdarrasan theisteanasan. Chan eil earbsa aig a’ mhòrchuid de bhrabhsairean ann an GeoTrust, RapidSSL, Symantec, Thawte agus VeriSign tuilleadh. Tha { $hostname } a’ cleachdadh teisteanas o aon dhe na h-ùghdarrasan seo agus cha ghabh dearbh-aithne na làraich-lìn a dhearbhadh ri linn sin.
+cert-error-symantec-distrust-admin = ’S urrainn dhut fios a leigeil gu rianaire na làraich-lìn seo mun duilgheadas seo.
