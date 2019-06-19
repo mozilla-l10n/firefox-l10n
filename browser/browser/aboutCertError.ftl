@@ -44,3 +44,6 @@ cert-error-not-yet-valid-now = Les sites web justifient leur identité par des c
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Code d’erreur : <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Les sites web justifient leur identité avec des certificats émis par des autorités de certification. La plupart des navigateurs ne font plus confiance aux certificats émis par GeoTrust, RapidSSL, Symantec, Thawte, et VeriSign. { $hostname } utilise un certificat émis par l’une de ces autorités ; par conséquent, l’identité du site ne peut être validée.
