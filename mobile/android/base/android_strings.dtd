@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "流量消耗更少，帮您节省更多">
 <!ENTITY firstrun_data_subtext2 "不显示网站上的图像，可节省您访问时消耗的数据流量。">
 <!ENTITY firstrun_sync_title "同步">
+<!ENTITY updatednewfirstrun_sync_title "账户">
 <!ENTITY firstrun_sync_message2 "这边看罢，那边继续。">
 <!ENTITY firstrun_sync_subtext2 "利用同步服务，在您任何设备上的 &brandShortName; 中都能漫游同一套书签、密码等信息。">
 <!ENTITY newfirstrun_sync_subtext "将您在移动设备上保存的内容，私密、安全地同步至桌面版 Firefox。">
