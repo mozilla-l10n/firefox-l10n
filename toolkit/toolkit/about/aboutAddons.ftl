@@ -88,6 +88,22 @@ detail-update-automatic =
 detail-update-manual =
     .label = Isključeno
     .tooltiptext = Nemoj automatski instalirati dopune
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Pokreni u privatnim prozorima
+detail-private-browsing-description2 = Kada je omogućeno, dodatak će imati pristup vašoj aktivnosti dok ste u privatnom pretraživanju. <label data-l10n-name="detail-private-browsing-learn-more">Saznajte više</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overridden by the user.
+detail-private-disallowed-label = Nije dopušteno u privatnim prozorima
+detail-private-disallowed-description = Ovaj dodatak se ne pokreće dok privatno pretražujete. <label data-l10n-name="detail-private-browsing-learn-more">Saznajte više</label>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Zahtjeva pristup u privatnim prozorima
+detail-private-required-description = Ovaj dodatak ima pristup vašoj aktivnosti dok privatno pretražujete. <label data-l10n-name="detail-private-browsing-learn-more">Saznajte više</label>
+detail-private-browsing-on =
+    .label = Dozvoli
+    .tooltiptext = Omogući u privatnom pretraživanju
+detail-private-browsing-off =
+    .label = Nemoj dozvoliti
+    .tooltiptext = Onemogući u privatnom pretraživanju
 detail-home =
     .label = Početna stranica
 detail-home-value =
@@ -130,6 +146,7 @@ legacy-warning-show-legacy = Prikaži zastarjele dodatke
 legacy-extensions =
     .value = Zastarjeli dodaci
 legacy-extensions-description = Ovi dodaci ne zadovoljavaju trenutne { -brand-short-name } standarde te se isključeni. <label data-l10n-name="legacy-learn-more">Saznajte o promjenama u dodacima</label>
+private-browsing-description2 = { -brand-short-name } mijenja način na koji dodaci rade u privatnom pretraživanju. Svaki novi dodatak koji dodate u { -brand-short-name } neće automatski raditi u privatnom pretraživanju. Ukoliko ne dozvolite u postavkama, dodatak neće raditi dok koristite privatno pretraživanje i neće imati pristup vašim aktivnostima. Napravili smo ovu izmjenu kako bismo zadržali vaše pretraživanje privatnim. <label data-l10n-name="private-browsing-learn-more">Saznajte kako upravljati postavkama dodataka</label>
 extensions-view-discover =
     .name = Pronađi dopune
     .tooltiptext = { extensions-view-discover.name }
@@ -207,3 +224,22 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Instaliraj dopune
     .tooltiptext = Instaliraj dostupne dopune s ovog popisa
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Dopušteno u privatnim prozorima
+addon-detail-private-browsing-help = Kada je dopušteno, dodatak će imati pristup vašoj aktivnosti na mreži dok ste u načinu privatnog pretraživanja. <a data-l10n-name="learn-more">Saznajte više</a>
+addon-detail-private-browsing-allow = Dozvoli
+addon-detail-private-browsing-disallow = Nemoj dozvoliti
