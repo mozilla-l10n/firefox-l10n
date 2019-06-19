@@ -127,3 +127,6 @@ about-telemetry-object-header = Taɣawsa
 about-telemetry-extra-header = asemmadan
 about-telemetry-origin-origin = aɣbalu
 about-telemetry-origin-count = Amḍan
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = Akala { $process }

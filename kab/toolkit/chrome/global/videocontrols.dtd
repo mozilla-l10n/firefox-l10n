@@ -38,6 +38,7 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY error.noSource2 "Ulac tavidyutt yettwafen anda tawsit MIME tettusefrak.">
 <!ENTITY error.generic "Urar n tvidyutt yeḥbes acku tella tuccḍa tarussint.">
 
+<!ENTITY status.pictureInPicture "Tavidyut-a tattwaɣray akka tura deg uskar usliɣ.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

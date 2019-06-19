@@ -36,6 +36,12 @@ inactive-css-property-because-of-display = <strong>{ $property }</strong> ur d-i
 ## the problem can be solved.
 
 inactive-css-not-grid-or-flex-container-fix = Aɛraḍ n tmerna n <strong>display:grid</strong> neɣ <strong>display:flex</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Ɛreḍ timerna n <strong>display:grid</strong>, <strong>display:flex</strong>, neɣ <strong>columns:2</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix = Aɛraḍ n tmerna n  <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> neɣ <strong>display:inline-flex</strong>. { learn-more }
 inactive-css-not-grid-item-fix = Aɛraḍ n tmerna n   <strong>display:grid</strong> neɣ <strong>display:inline-grid</strong> ɣer umaraw n uferdis. { learn-more }
 inactive-css-not-grid-container-fix = Aɛraḍ n tmerna n  <strong>display:grid</strong> neɣ <strong>display:inline-grid</strong>. { learn-more }
+inactive-css-not-flex-item-fix = Ɛreḍ timerna n <strong>display:flex</strong> neɣ <strong>display:inline-flex</strong> ɣer umaraw n uferdis. { learn-more }
+inactive-css-not-flex-container-fix = Ɛreḍ timerna n <strong>display:flex</strong> neɣ <strong>display:inline-flex</strong>. { learn-more }
+inactive-css-not-inline-or-tablecell-fix = Ɛreḍ timerna n <strong>display:inline</strong> neɣ<strong>display:table-cell</strong>. { learn-more }
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Ɛreḍ timerna n <strong>display:inline-block</strong> neɣ <strong>display:block</strong>. { learn-more }
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Ɛreḍ timerna n <strong>display:inline-block</strong>. { learn-more }
