@@ -783,7 +783,7 @@ permissions-addon-exceptions =
     .label = Exceções…
     .accesskey = E
 permissions-a11y-privacy-checkbox =
-    .label = Impedir que os serviços de acessibilidade acessem o seu navegador
+    .label = Impedir que serviços de acessibilidade acessem seu navegador
     .accesskey = a
 permissions-a11y-privacy-link = Saiba mais
 

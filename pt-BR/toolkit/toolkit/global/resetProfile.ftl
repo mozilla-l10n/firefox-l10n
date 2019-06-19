@@ -9,6 +9,6 @@ refresh-profile-dialog-button =
 refresh-profile-description = Começar de novo para corrigir problemas e restaurar o desempenho.
 refresh-profile-description-details = Isso irá:
 refresh-profile-remove = Remover suas extensões e personalizações
-refresh-profile-restore = Restaurar configurações do seu navegador
+refresh-profile-restore = Restaurar configuração padrão do navegador
 refresh-profile = Faça uma limpeza no seu { -brand-short-name }
 refresh-profile-button = Restaurar o { -brand-short-name }…
