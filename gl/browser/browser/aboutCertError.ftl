@@ -33,3 +33,7 @@ cert-error-domain-mismatch-multiple = Os sitios web xustifican a súa identidade
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Código de erro: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Os sitios web xustifican a súa identidade con certificados, que son emitidos por entidades de acreditación. A maioría dos navegadores xa non confiarán nos certificados emitidos por GeoTrust, RapidSSL, Symantec, Thawte e VeriSign. { $hostname } usa un certificado emitido por unha destas entidades de acreditación, polo tanto, non é posíbel garantir a autenticidade do sitio.
+cert-error-symantec-distrust-admin = Pode avisar ao administrador do sitio web sobre o problema.
