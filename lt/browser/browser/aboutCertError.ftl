@@ -44,3 +44,7 @@ cert-error-not-yet-valid-now = Svetainės įrodo savo tapatumą pateikdamos liud
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Klaidos kodas: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Svetainės įrodo savo tapatumą pateikdamos liudijimus, išduotus liudijimo įstaigų. Dauguma naršyklių jau nepasitikti liudijimais, kuriuos išdavė „GeoTrust“, „RapidSSL“, „Symantec“, „Thawte“, arba „VeriSign“. { $hostname } naudoja liudijimą, išduotą vienos iš šių įstaigų, tad svetainės tapatumas negali būti įrodytas.
+cert-error-symantec-distrust-admin = Galite apie problemą pranešti svetainės prižiūrėtojui.
