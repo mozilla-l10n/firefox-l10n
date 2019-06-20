@@ -223,11 +223,46 @@ shortcuts-card-collapse-button = कमी दर्शवा
 go-back-button =
     .tooltiptext = मागे जा
 
+## Recommended add-ons page
+
+discopane-notice-learn-more = अधिक जाणा
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = व्‍यवस्‍थापित करा
+find-more-addons = अधिक ऍड-ऑन्स शोधा
+
 ## Add-on actions
 
 remove-addon-button = काढून टाका
 disable-addon-button = निष्क्रिय
 enable-addon-button = सक्रिय
 expand-addon-button = आणखी पर्याय
+details-addon-button = तपशील
+release-notes-addon-button = प्रकाशन टीपा
+permissions-addon-button = परवानग्या
 addons-enabled-heading = सक्रिय
 addons-disabled-heading = निष्क्रिय
+ask-to-activate-button = सक्रिय करण्यास विचारा
+always-activate-button = नेहमी सक्रिय करा
+never-activate-button = कधीही सक्रिय करू नका
+addon-detail-author-label = लेखक
+addon-detail-version-label = आवृत्ती
+addon-detail-homepage-label = मुख्यपृष्ठ
+addon-detail-rating-label = गुणवत्ताश्रेणी
+
+## Pending uninstall message bar
+
+pending-uninstall-undo-button = पूर्ववत् करा
+addon-detail-updates-radio-default = पूर्वनिर्धारीत
+addon-detail-updates-radio-on = चालू
+addon-detail-updates-radio-off = बंद
+addon-detail-update-check-label = सुधारणांकरीता तपासणी करा
+install-update-button = अद्ययावत करा
+addon-detail-private-browsing-allow = परवानगी द्या
+addon-detail-private-browsing-disallow = परवानगी देऊ नका
+available-updates-heading = उपलब्ध सुधारणा
+recent-updates-heading = नुकतीच सुधारणा
+release-notes-loading = लोड करत आहे…
+release-notes-error = माफ करा, परंतु प्रकाशन टिपा लोड करतेवेळी त्रुटी आढळली.
+addon-permissions-empty = या विस्तारास कोणत्याही परवानगीची आवश्यकता नाही
+recommended-extensions-heading = शिफारस केलेले विस्तार
