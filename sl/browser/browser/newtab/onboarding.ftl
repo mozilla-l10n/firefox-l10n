@@ -3,18 +3,47 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = Več o tem
 onboarding-button-label-try-now = Preizkusite ga zdaj
 onboarding-button-label-get-started = Začni
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Dobrodošli v { -brand-short-name }
+onboarding-welcome-body = Brskalnik že imate.<br/>Spoznajte še ostale storitve { -brand-product-name }.
+onboarding-welcome-learn-more = Spoznajte prednosti.
+onboarding-join-form-header = Pridružite se { -brand-product-name }u
+onboarding-join-form-body = Za začetek vnesite e-poštni naslov.
+onboarding-join-form-email =
+    .placeholder = Vnesite e-poštni naslov
+onboarding-join-form-email-error = Vnesite veljaven e-poštni naslov
+onboarding-join-form-legal = Z nadaljevanjem se strinjate s <a data-l10n-name="terms">pogoji uporabe</a> in z <a data-l10n-name="privacy">obvestilom o zasebnosti</a>.
 onboarding-join-form-continue = Nadaljuj
 onboarding-start-browsing-button-label = Začnite z brskanjem
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = Uporabni izdelki
+onboarding-benefit-products-text = Opravite stvari z družino orodij, ki spoštuje vašo zasebnost na vseh napravah.
+onboarding-benefit-knowledge-title = Praktično znanje
+onboarding-benefit-knowledge-text = Naučite se vsega, kar morate vedeti, da bi bili na spletu pametnejši in varnejši.
+onboarding-benefit-privacy-title = Resnična zasebnost
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Vse, kar počnemo, je v skladu z našo obljubo o osebnih podatkih: Vzemi manj. Ohrani varnost. Brez skrivnosti.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -34,6 +63,13 @@ onboarding-ghostery-text = Brskajte hitreje, pametneje in varneje z razširitvam
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sinhronizacija
 onboarding-fxa-text = Ustvarite { -fxaccount-brand-name } ter sinhronizirajte svoje zaznamke, gesla in odprte zavihke povsod, kjer uporabljate { -brand-short-name }.
+onboarding-tracking-protection-title2 = Zaščita pred sledenjem
+onboarding-tracking-protection-button2 = Kako deluje
+onboarding-data-sync-title = Ponesite svoje nastavitve s seboj
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Sinhronizirajte zaznamke, gesla in druge podatke povsod, kjer uporabljate { -brand-product-name }.
+onboarding-data-sync-button2 = Prijava v { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Bodite obveščeni o krajah podatkov
 
 ## Message strings belonging to the Return to AMO flow
 

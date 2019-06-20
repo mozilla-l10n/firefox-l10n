@@ -57,3 +57,11 @@ cfr-doorhanger-pintab-step2 = V meniju izberite <b>Pripni zavihek</b>.
 cfr-doorhanger-pintab-step3 = Ko se spletna stran posodobi, vas pripet zavihek na to opozori z modro piko.
 cfr-doorhanger-pintab-animation-pause = Premor
 cfr-doorhanger-pintab-animation-resume = Nadaljuj
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Sinhronizirajte zaznamke povsod.
+cfr-doorhanger-bookmark-fxa-link-text = Sinhroniziraj zaznamke zdaj …
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Gumb zapri
+    .title = Zapri

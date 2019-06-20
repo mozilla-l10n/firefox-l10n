@@ -34,6 +34,14 @@ cert-error-domain-mismatch-single-nolink = Spletne strani svojo istovetnost doka
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
 cert-error-domain-mismatch-multiple = Spletne strani svojo istovetnost dokazujejo z digitalnimi potrdili. { -brand-short-name } ne zaupa tej strani, ker uporablja digitalno potrdilo, ki ni veljavno za { $hostname }. Digitalno potrdilo je veljavno samo za naslednja imena: { $subject-alt-names }
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = Spletne strani svojo istovetnost dokazujejo z digitalnimi potrdili, ki se izdajo za določeno časovno obdobje. Digitalno potrdilo za { $hostname } je poteklo { $not-after-local-time }.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = Spletne strani svojo istovetnost dokazujejo z digitalnimi potrdili, ki se izdajo za določeno časovno obdobje. Digitalno potrdilo za { $hostname } bo začelo veljati šele { $not-before-local-time }.
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Koda napake: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
