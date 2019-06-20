@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "ઓછી માહિતી, વધુ બચત">
 <!ENTITY firstrun_data_subtext2 "દરેક સાઇટ જેની તમે મુલાકાત લો છો તેના પર ડેટા નો વપરાશ ઓછો કરવા છબીઓ બંધ કરો.">
 <!ENTITY firstrun_sync_title "સમન્વય">
+<!ENTITY updatednewfirstrun_sync_title "ખાતું">
 <!ENTITY firstrun_sync_message2 "જ્યાંથી તમે છોડી દીધું ત્યાંથી શરૂ કરો.">
 <!ENTITY firstrun_sync_subtext2 "તમારા બધા ઉપકરણો પર &brandShortName; ના બુકમાર્ક્સ, પાસવર્ડ્સ અને તમે જે વસ્તુઓને સંગ્રહો છો તેને શોધવા માટે સમન્વયનો ઉપયોગ કરો.">
 <!ENTITY newfirstrun_sync_subtext "તમે મોબાઇલ પર જે વસ્તુઓ સાચવો છો, તેને ડેસ્કટોપ માટેનાં Firefox માં ખાનગી અને સલામત રીતે સમન્વયિત કરો.">
