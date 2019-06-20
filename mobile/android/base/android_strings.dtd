@@ -165,7 +165,7 @@
 <!ENTITY settings "Inställningar">
 <!ENTITY settings_title "Inställningar">
 <!ENTITY pref_category_general "Allmänt">
-<!ENTITY pref_category_general_summary3 "Hem, språk, flik kö">
+<!ENTITY pref_category_general_summary3 "Hem, språk, flikkö">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -285,7 +285,7 @@
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_data_saver "Data sparare">
+<!ENTITY pref_category_data_saver "Datasparare">
 <!ENTITY pref_category_media "Media">
 <!ENTITY pref_category_developer_tools "Utvecklarverktyg">
 
@@ -785,7 +785,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_browsing_notification_text "Tryck för att avsluta">
 
 <!ENTITY exit_guest_session_title "&brandShortName; kommer nu startas om">
-<!ENTITY exit_guest_session_text "Webbläsardatan från den här sessionen kommer att raderas.">
+<!ENTITY exit_guest_session_text "Webbläsardata från den här sessionen kommer att raderas.">
 
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
