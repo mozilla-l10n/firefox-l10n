@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "Minus datos, plus economia">
 <!ENTITY firstrun_data_subtext2 "Disactiva le imagines pro consummar minus datos cata sito tu visita.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY updatednewfirstrun_sync_title "Conto">
 <!ENTITY firstrun_sync_message2 "Reprende de ubi tu lassava">
 <!ENTITY firstrun_sync_subtext2 "Usa Sync pro trovar marcapaginas, contrasignos, e altere cosas que tu salva in &brandShortName; sur tote tu apparatos.">
 <!ENTITY newfirstrun_sync_subtext "Synchronisa in modo reservate e secur, le informationes salvate su tu apparato mobile, in le Firefox pro scriptorio de tu computator.">
@@ -68,6 +69,10 @@
 <!ENTITY  sending_crash_report "Inviante le reporto de collapso\u2026">
 <!ENTITY  crash_close_label "Clauder">
 <!ENTITY  crash_restart_label "Reinitiar &brandShortName;">
+
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_negative_button_text "Ignorar">
 
 <!ENTITY url_bar_default_text2 "Insere un adresse o face un recerca">
 
