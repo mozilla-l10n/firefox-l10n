@@ -291,6 +291,11 @@ remove-addon-button = Fjern
 disable-addon-button = Slå av
 enable-addon-button = Slå på
 expand-addon-button = Fleire alternativ
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Innstillingar
+       *[other] Innstillingar
+    }
 details-addon-button = Detaljar
 release-notes-addon-button = Versjonsnotat
 permissions-addon-button = Løyve
@@ -304,6 +309,11 @@ addon-detail-version-label = Versjon
 addon-detail-last-updated-label = Sist oppdatert
 addon-detail-homepage-label = Heimeside
 addon-detail-rating-label = Vurdering
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Vurdert til { NUMBER($rating, maximumFractionDigits: 1) } av 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -319,6 +329,9 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> er fjerna.
 addon-detail-updates-label = Tillat automatiske oppdateringar
 addon-detail-updates-radio-default = Standard
 addon-detail-updates-radio-on = På
@@ -339,3 +352,5 @@ addon-badge-recommended =
 available-updates-heading = Tilgjengelege oppdateringar
 recent-updates-heading = Nylege oppdateringar
 release-notes-loading = Lastar…
+recommended-extensions-heading = Tilrådde utvidingar
+recommended-themes-heading = Tilrådde tema
