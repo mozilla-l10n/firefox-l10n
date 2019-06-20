@@ -35,8 +35,15 @@ app-basics-name = Nomine
 app-basics-version = Version
 app-basics-build-id = ID de compilation
 app-basics-update-channel = Canal de actualisation
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Actualisar  directorio
+       *[other] Actualisar  plica
+    }
 app-basics-update-history = Chronologia de actualisationes
 app-basics-show-update-history = Monstrar le chronologia del actualisationes
+# Represents the path to the binary used to start the application.
+app-basics-binary = File binari del application
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Directorio del profilo

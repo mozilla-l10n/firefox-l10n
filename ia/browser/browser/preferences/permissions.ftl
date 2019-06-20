@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Cercar in le sito web
+permissions-capabilities-autoplay-block =
+    .label = Blocar audio
+permissions-capabilities-autoplay-blockall =
+    .label = Blocar audio e video
 permissions-capabilities-allow =
     .label = Permitter
 permissions-capabilities-block =
@@ -46,8 +50,6 @@ permissions-capabilities-listitem-allow =
     .value = Permitter
 permissions-capabilities-listitem-block =
     .value = Blocar
-permissions-capabilities-listitem-allow-first-party =
-    .value = Permitter solmente le primes
 permissions-capabilities-listitem-allow-session =
     .value = Permitter pro le session
 
@@ -97,6 +99,9 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Exceptiones - Reproduction automatic
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Tu pote specificar le sitos web que es sempre permittite e illos que non es jammais permittite a presentar automatiamente le media con son.  Scribe le adresse del sito e tunc clicca sur Blocar o Permitter.
+
+## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
