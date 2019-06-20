@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "Llai o ddata, mwy o arbedion">
 <!ENTITY firstrun_data_subtext2 "Diffoddwch ddelweddau a gwario llai ar ddata pob gwefan fyddwch yn mynd iddyn nhw.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY updatednewfirstrun_sync_title "Cyfrif">
 <!ENTITY firstrun_sync_message2 "Parhau lle roeddech o\&apos;r blaen.">
 <!ENTITY firstrun_sync_subtext2 "Defnyddiwch Sync i ganfod nodau tudalen, cyfrineiriau a phethau eraill rydych wedi eu cadw i &brandShortName; ar eich holl ddyfeisiau.">
 <!ENTITY newfirstrun_sync_subtext "Cydweddwch y pethau rydych chi\&apos;n eu cadw ar Firefox symudol i Firefox y bwrdd gwaith, yn breifat ac yn ddiogel.">
