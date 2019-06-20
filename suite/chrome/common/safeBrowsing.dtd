@@ -21,6 +21,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Denna webbsida på <span id='phishing_sitename'/> har rapporterats som en vilseledande plats och har blockerats enligt dina säkerhetsinställningar.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Vilseledande webbplatser är utformade för att lura dig att göra något farligt, som att installera ett program, eller avslöja personlig information, som lösenord, telefonnummer eller kreditkortsnummer.</p><p>Att ange någon information på denna webbsida kan leda till identitetsstöld eller andra bedrägerier.</p>">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Kommande webbplats kan innehålla skadlig kod">
 <!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.harmfulPage.longDesc "">
 
