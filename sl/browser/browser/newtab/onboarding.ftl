@@ -70,6 +70,12 @@ onboarding-data-sync-title = Ponesite svoje nastavitve s seboj
 onboarding-data-sync-text2 = Sinhronizirajte zaznamke, gesla in druge podatke povsod, kjer uporabljate { -brand-product-name }.
 onboarding-data-sync-button2 = Prijava v { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Bodite obveščeni o krajah podatkov
+onboarding-firefox-monitor-text = { -monitor-brand-name } spremlja, ali se je vaš e-poštni naslov pojavil v kraji podatkov, in vas obvesti v primeru novih kraj podatkov.
+onboarding-firefox-monitor-button = Prijavite se na opozorila
+onboarding-browse-privately-title = Brskajte zasebno
+onboarding-browse-privately-text = Zasebno brskanje izbriše zgodovino iskanja in brskanja, tako da ostaneta skriti vsem, ki uporabljajo vaš računalnik.
+onboarding-browse-privately-button = Odpri zasebno okno
+onboarding-firefox-send-title = Ohranite zasebnost datotek, ki jih delite
 
 ## Message strings belonging to the Return to AMO flow
 
