@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "Mindre data, meir spart">
 <!ENTITY firstrun_data_subtext2 "Skru av bilde for å bruka mindre data på kvar nettstad du besøker.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY updatednewfirstrun_sync_title "Konto">
 <!ENTITY firstrun_sync_message2 "Fortset der du slutta.">
 <!ENTITY firstrun_sync_subtext2 "Bruk Sync for å finna bokmerke, passord og andre ting som du lagrar i &brandShortName; på alle einingane dine.">
 <!ENTITY newfirstrun_sync_subtext "Synkroniser det du lagrar på mobilen til Firefox for datamaskiner, privat og sikkert.">
@@ -602,6 +603,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "Nykelord">
 <!ENTITY bookmark_select_folder "Vel mappe">
 
+<!ENTITY bookmark_edit_undo "Angre">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -691,6 +693,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_image_title "Vel eller ta eit bilde">
 <!ENTITY filepicker_video_title "Vel eller spel inn ein video">
 
+<!ENTITY filepicker_permission_denied "Påkravde løyve ikkje gjevne, går tilbake til systemfilveljaren.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Du er tilkopla">
