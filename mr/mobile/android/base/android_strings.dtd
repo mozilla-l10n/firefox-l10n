@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "कमी डाटा, अधिक बचत">
 <!ENTITY firstrun_data_subtext2 "प्रत्येक साईट भेटीवर कमी माहिती खर्च करण्यासाठी प्रतिमा अडवा.">
 <!ENTITY firstrun_sync_title "ताळमेळ">
+<!ENTITY updatednewfirstrun_sync_title "खाते">
 <!ENTITY firstrun_sync_message2 "आपण जिथून सोडले तिथून उचला.">
 <!ENTITY firstrun_sync_subtext2 "आपल्या सर्व डिव्हाइसेसवर &brandShortName; मध्ये आपण जतन केलेले बुकमार्क, संकेतशब्द आणि इतर गोष्टी शोधण्यासाठी Sync वापरा.">
 <!ENTITY newfirstrun_sync_subtext "मोबाईल मध्ये साठवलेल्या गोष्टी Firefox डेस्कटॉप वर सुरक्षित आणि खाजगीरित्या मिळवा.">
