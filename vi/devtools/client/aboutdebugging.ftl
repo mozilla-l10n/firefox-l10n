@@ -84,6 +84,8 @@ about-debugging-setup-title = Cài đặt
 about-debugging-setup-intro = Định cấu hình phương thức kết nối mà bạn muốn gỡ lỗi từ xa cho thiết bị của mình.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Sử dụng <a>{ about-debugging-this-firefox-runtime-name }</a> để gỡ lỗi các thẻ, tiện ích mở rộng và service workers trên phiên bản này của{ -brand-shorter-name }.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Sử dụng <a>{ about-debugging-this-firefox-runtime-name }</a> để sửa lỗi các phần mở rộng và các trình làm việc dịch vụ trên phiên bản của { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Kết nối thiết bị
 # USB section of the Setup page
@@ -204,6 +206,8 @@ about-debugging-connection-prompt-enable-button = Kích hoạt nhắc nhở kế
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = Vô hiệu hóa nhắc nhở kết nối
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title2 = Profiler
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
