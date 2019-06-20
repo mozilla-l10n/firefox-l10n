@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "ใช้ข้อมูลน้อยลง ประหยัดมากขึ้น">
 <!ENTITY firstrun_data_subtext2 "ปิดภาพเพื่อลดการใช้ข้อมูลในทุกไซต์ที่คุณเยี่ยมชม">
 <!ENTITY firstrun_sync_title "ซิงค์">
+<!ENTITY updatednewfirstrun_sync_title "บัญชี">
 <!ENTITY firstrun_sync_message2 "หยิบจากที่ที่คุณทำค้างไว้">
 <!ENTITY firstrun_sync_subtext2 "ใช้ Sync เพื่อค้นหาที่คั่นหน้า, รหัสผ่าน และสิ่งอื่น ๆ ที่คุณบันทึกไปยัง &brandShortName; ในอุปกรณ์ทั้งหมดของคุณ">
 <!ENTITY newfirstrun_sync_subtext "ซิงค์สิ่งที่คุณบันทึกบนมือถือไปยัง Firefox บนเดสก์ท็อป ได้อย่างเป็นส่วนตัวและปลอดภัย">
