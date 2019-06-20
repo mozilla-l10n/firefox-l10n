@@ -12,6 +12,8 @@ update-pref-write-failure-title = Napaka pri pisanju
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Nastavitve ni bilo mogoče shraniti. Ni bilo mogoče pisati v datoteko: { $path }
+update-in-progress-title = Posodobitev je v teku
+update-in-progress-message = Želite, da { -brand-short-name } nadaljuje s to posodobitvijo?
 update-in-progress-ok-button = &Opusti
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
