@@ -76,6 +76,13 @@ onboarding-browse-privately-title = Brskajte zasebno
 onboarding-browse-privately-text = Zasebno brskanje izbriše zgodovino iskanja in brskanja, tako da ostaneta skriti vsem, ki uporabljajo vaš računalnik.
 onboarding-browse-privately-button = Odpri zasebno okno
 onboarding-firefox-send-title = Ohranite zasebnost datotek, ki jih delite
+onboarding-firefox-send-button = Preizkusite { -send-brand-name }
+onboarding-mobile-phone-title = Prenesite { -brand-product-name } na svoj telefon
+onboarding-mobile-phone-text = Prenesite { -brand-product-name } za iOS ali Android in sinhronizirajte svoje podatke med napravami.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Prenesite mobilni brskalnik
+onboarding-pocket-anywhere-title = Berite in poslušajte kjerkoli
 
 ## Message strings belonging to the Return to AMO flow
 
