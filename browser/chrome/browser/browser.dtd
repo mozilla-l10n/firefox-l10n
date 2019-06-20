@@ -64,6 +64,8 @@ but will never be visible at the same time. -->
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "k">
 
+<!-- Tab context menu -->
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -128,7 +130,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "छपाई करा…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-
 <!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 <!ENTITY taskManagerCmd.label "कार्य व्यवस्थापक">
@@ -215,6 +216,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Firefox आपल्यासोबत न्या">
+<!ENTITY fxa.signin.button.label "&syncBrand.shortName.label; चालू करा…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
@@ -222,6 +225,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "म्हणून साइन इन">
+<!ENTITY fxa.menu.manageAccount.label "खाते व्यवस्थापित करा…">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; सेटिंग…">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "अन्य उपकरण जोडा…">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -323,6 +330,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "ह्या संकेतस्थळाला आपण Adobe Flash प्लगिन वापरण्यापासून अवरोधित केले आहे.">
 <!ENTITY urlbar.midiBlocked.tooltip              "या संकेतस्थळासाठी MIDI वापर अवरोधित केला आहे.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "इतिहास दाखवा">
 
 <!ENTITY searchItem.title             "शोधा">
@@ -420,7 +428,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "प्राधान्यता">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
-
 <!ENTITY logins.label                           "लॉगिन आणि पासवर्ड">
 
 <!ENTITY clearRecentHistory.label               "ताजा इतिहास नष्ट करा…">
@@ -508,6 +515,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
 <!ENTITY customizeMenu.removeExtension.label "विस्तार काढा">
 <!ENTITY customizeMenu.removeExtension.accesskey "v">
+
+<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
+     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     an abuse report related to that extension. "Report" is a verb. -->
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -858,6 +869,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "हे पृष्ठ एका विस्तारापासून लोड केलेले आहे.">
 <!ENTITY identity.insecureLoginForms2 "आपण ह्या पृष्ठावर दिलेल्या लॉग इन माहितीबरोबर तडजोड होऊ शकते.">
 
+
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ने ह्या पृष्ठावरील काही असुरक्षित भाग अडवले आहेत.">
 <!ENTITY identity.passiveLoaded "या पृष्ठावरील काही भाग (उदा. प्रतिमा) सुरक्षित नाहीत.">
@@ -875,6 +887,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "&brandShortName;ने काही भाग अडवले असले, तरी ह्या पृष्ठावर काही असुरक्षित आशय आहेत (उदा. प्रतिमा).">
 <!ENTITY identity.description.activeLoaded "या वेबसाईटवरील काही भाग (उदा. स्क्रिप्ट्स) सुरक्षित नाही आणि आपली जोडणी खाजगी नाही आहे.">
 <!ENTITY identity.description.activeLoaded2 "आपण जी माहिती जमा करता आहात (जसे कि पासवर्ड, संदेश, क्रेडीट कार्ड माहिती, इत्यादी) ते इतर लोक पाहू शकतात.">
+
 
 <!ENTITY identity.enableMixedContentBlocking.label "सुरक्षा सक्रीय करा">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
@@ -1077,6 +1090,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "आत्ता नाही">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
+
 <!ENTITY updateAvailable.panelUI.label "अद्ययावत &brandShorterName; डाऊनलोड करा">
 
 <!ENTITY updateManual.message "&brandShorterName; ची नवी प्रत डाउनलोड करा, आम्ही तुम्हाला ती प्रस्थापित करण्यास मदत करू.">

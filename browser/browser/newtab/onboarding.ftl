@@ -50,8 +50,10 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Ghostery सारख्या विस्तारांसह वेगवान, चाणाक्ष किंवा सुरक्षित ब्राउझ करा, जे आपल्याला त्रासदायक जाहिराती अवरोधित करू देतात.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = सिंक
+onboarding-tracking-protection-title2 = ट्रॅकिंग पासून संरक्षण
 onboarding-tracking-protection-button2 = कसं काम करत
 onboarding-data-sync-title = आपण केलेल्या सेटिंग आपल्यासोबत जतन करा
+onboarding-browse-privately-title = खाजगीरित्या ब्राउझ करा
 onboarding-browse-privately-button = खाजगी विंडो उघडा
 onboarding-firefox-send-button = वापरा { -send-brand-name }
 onboarding-pocket-anywhere-title = वाचा आणि ऐका कुठेपण

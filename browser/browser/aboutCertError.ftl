@@ -5,6 +5,7 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } अवैध सुरक्षा प्रमाणपत्र वापरतो.
+cert-error-mitm-intro = वेबसाइट्स आपली ओळख प्रमाणपत्राद्वारे सिद्ध करतात, जी प्रमाणपत्र अधिकार्यांकडून जारी केली जातात.
 cert-error-trust-cert-invalid = प्रमाणपत्र अवैध CA द्वारे पुरविल्यामुळे विश्वासर्ह नाही.
 cert-error-trust-untrusted-issuer = देयक प्रमाणपत्र विश्वार्ह नसल्यामुळे प्रमाणपत्र विश्वासर्ह नाही.
 cert-error-trust-signature-algorithm-disabled = प्रमाणपत्र विश्वासर्ह नाही कारण त्यास सिग्नेचर अल्गोरिदमचा वापर स्वाक्षरी केले आहे ज्यास अल्गोरिदम असुरक्षित असल्यामुळे बंद केले.
