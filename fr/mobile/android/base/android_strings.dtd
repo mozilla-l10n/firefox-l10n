@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "Moins de données, plus d’économies">
 <!ENTITY firstrun_data_subtext2 "Désactivez les images afin de consommer moins de données sur les sites que vous visitez.">
 <!ENTITY firstrun_sync_title "Synchronisation">
+<!ENTITY updatednewfirstrun_sync_title "Compte">
 <!ENTITY firstrun_sync_message2 "Reprenez là où vous en étiez.">
 <!ENTITY firstrun_sync_subtext2 "Utilisez Sync pour accéder aux marque-pages, mots de passe et autres données que vous conservez dans &brandShortName; sur vos autres appareils.">
 <!ENTITY newfirstrun_sync_subtext "Synchronisez ce que vous enregistrez sur votre appareil mobile avec Firefox pour ordinateur, confidentiellement et en toute sécurité.">
