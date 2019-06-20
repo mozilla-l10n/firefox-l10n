@@ -10,10 +10,13 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Välju täisekraanirežiimist">
 <!ENTITY castingButton.castingLabel "Edasta ekraanile">
 <!ENTITY closedCaption.off "Välja lülitatud">
-
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Helitugevuse liugur">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
+the Picture-in-Picture video toggle button when the mouse is hovering it. -->
+<!ENTITY pictureInPicture.label "Pilt-pildis">
 
 <!ENTITY stats.media "Meedia">
 <!ENTITY stats.size "Suurus">
@@ -34,6 +37,8 @@
 <!ENTITY error.srcNotSupported "Video vorming või MIME tüüp pole toetatud.">
 <!ENTITY error.noSource2 "Ei leitud ühtki toetatud vormingus või toetatud MIME tüübiga videot.">
 <!ENTITY error.generic "Video esitamine katkestati tundmatu vea tõttu.">
+
+<!ENTITY status.pictureInPicture "Seda videot esitatakse pilt-pildis režiimis.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
