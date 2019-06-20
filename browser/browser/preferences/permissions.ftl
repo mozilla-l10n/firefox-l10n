@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = บันทึกการเปลี่ยนแปลง
     .accesskey = บ
+permissions-autoplay-menu = ค่าเริ่มต้นสำหรับเว็บไซต์ทั้งหมด:
 permissions-searchbox =
     .placeholder = ค้นหาเว็บไซต์
+permissions-capabilities-autoplay-allow =
+    .label = อนุญาตเสียงและวิดีโอ
+permissions-capabilities-autoplay-block =
+    .label = ปิดกั้นเสียง
+permissions-capabilities-autoplay-blockall =
+    .label = ปิดกั้นเสียงและวิดีโอ
 permissions-capabilities-allow =
     .label = อนุญาต
 permissions-capabilities-block =
@@ -95,6 +102,12 @@ permissions-exceptions-autoplay-media-window2 =
     .title = ข้อยกเว้น - การเล่นอัตโนมัติ
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = คุณสามารถระบุเว็บไซต์ที่อนุญาตหรือไม่อนุญาตให้เล่นสื่อพร้อมเสียงโดยอัตโนมัติเสมอ พิมพ์ที่อยู่ของไซต์ที่คุณต้องการจัดการแล้วคลิก ปิดกั้น หรือ อนุญาต
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = การตั้งค่า - การเล่นอัตโนมัติ
+    .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 

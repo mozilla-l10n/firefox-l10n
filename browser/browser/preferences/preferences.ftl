@@ -743,6 +743,7 @@ permissions-block-autoplay-media2 =
 permissions-block-autoplay-media-exceptions =
     .label = ข้อยกเว้น…
     .accesskey = ข
+permissions-autoplay = การเล่นอัตโนมัติ
 permissions-autoplay-settings =
     .label = การตั้งค่า…
     .accesskey = t
