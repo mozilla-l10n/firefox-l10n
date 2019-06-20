@@ -69,6 +69,7 @@ onboarding-browse-privately-title = Аглядайце прыватна
 onboarding-browse-privately-text = Прыватнае агляданне ачышчае вашу гісторыю пошуку і аглядання, каб захаваць яе ў сакрэце ад усіх, хто карыстаецца вашым камп'ютарам.
 onboarding-browse-privately-button = Адкрыць прыватнае акно
 onboarding-firefox-send-title = Трымайце свае абагуленыя файлы прыватнымі
+onboarding-firefox-send-text2 = Зацягвайце файлы ў { -send-brand-name }, каб дзяліцца імі з выкарыстаннем скразнога шыфравання і спасылкі з функцыяй аўтаматычнага знікнення.
 onboarding-firefox-send-button = Паспрабаваць { -send-brand-name }
 onboarding-mobile-phone-title = Атрымайце { -brand-product-name } на сваім тэлефоне
 onboarding-mobile-phone-text = Сцягніце { -brand-product-name } для iOS або Android і сінхранізуйце свае звесткі паміж прыладамі.
@@ -76,6 +77,9 @@ onboarding-mobile-phone-text = Сцягніце { -brand-product-name } для i
 # browser.
 onboarding-mobile-phone-button = Сцягнуць мабільны браўзер
 onboarding-send-tabs-title = Імгненна дасылайце сабе карткі
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Функцыя адпраўкі картак імгненна абменьваецца старонкамі паміж прыладамі, не капіруючы, не ўстаўляючы і не пакідаючы браўзер.
 onboarding-send-tabs-button = Пачаць карыстацца адпраўкай картак
 onboarding-pocket-anywhere-title = Чытайце і слухайце ў любым месцы
 onboarding-pocket-anywhere-button = Паспрабаваць { -pocket-brand-name }
