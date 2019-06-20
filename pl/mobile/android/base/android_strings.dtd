@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "Mniej danych,\nwięcej oszczędności">
 <!ENTITY firstrun_data_subtext2 "Wyłącz obrazy, aby zmniejszyć zużycie danych.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY updatednewfirstrun_sync_title "Konto">
 <!ENTITY firstrun_sync_message2 "Kontynuuj przeglądanie">
 <!ENTITY firstrun_sync_subtext2 "Użyj synchronizacji, aby mieć zakładki, hasła i inne rzeczy zachowane w przeglądarce &brandShortName; na wszystkich urządzeniach.">
 <!ENTITY newfirstrun_sync_subtext "Synchronizuj rzeczy zachowane na telefonie z Firefoksem na komputerze — prywatnie i bezpiecznie.">
