@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "Менше даних, більше заощаджень">
 <!ENTITY firstrun_data_subtext2 "Вимкніть зображення на відвідуваних сайтах, щоб зменшити споживання даних.">
 <!ENTITY firstrun_sync_title "Синхронізація">
+<!ENTITY updatednewfirstrun_sync_title "Обліковий запис">
 <!ENTITY firstrun_sync_message2 "Продовжуйте з місця, на якому ви зупинилися.">
 <!ENTITY firstrun_sync_subtext2 "Використовуйте синхронізацію для доступу до закладок, паролів та інших даних, які ви зберігаєте в &brandShortName;, на всіх пристроях.">
 <!ENTITY newfirstrun_sync_subtext "Користуйтеся приватною і безпечною синхронізацією Firefox між мобільним і комп\&apos;ютером.">
