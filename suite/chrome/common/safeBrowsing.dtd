@@ -23,6 +23,7 @@
 
 <!ENTITY safeb.blocked.harmfulPage.title "Kommande webbplats kan innehålla skadlig kod">
 <!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; blockerade sidan på <span id='harmful_sitename'/> eftersom den kan försöka installera farliga appar som stjäl eller raderar din information (till exempel bilder, lösenord, meddelanden och kreditkort).">
 <!ENTITY safeb.blocked.harmfulPage.longDesc "">
 
 <!-- Localization note (reportDeceptiveSite, notADeceptiveSite) - The two button strings will never be shown at the same time, so it's okay for them to have the same access key. -->
