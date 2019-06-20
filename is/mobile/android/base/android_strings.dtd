@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "Minna um gögn, meiri niðurhals sparnaður ">
 <!ENTITY firstrun_data_subtext2 "Ekki hlaða myndir til að spara gagnamagn.">
 <!ENTITY firstrun_sync_title "Samstilla">
+<!ENTITY updatednewfirstrun_sync_title "Reikningur">
 <!ENTITY firstrun_sync_message2 "Halda áfram þar sem frá var horfið.">
 <!ENTITY firstrun_sync_subtext2 "Notaðu samstillingu til að finna bókarmerki, lykilorð og annað sem þú hefur vistað í &brandShortName; á öllum þínum tækjum.">
 <!ENTITY newfirstrun_sync_subtext "Samstilltu á öruggan hátt það sem þú vistar í Firefox á farsímanum yfir á Firefox í tölvunni.">
