@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "Vähemmän dataa, enemmän säästöä">
 <!ENTITY firstrun_data_subtext2 "Estä kuvat käyttääksesi vähemmän dataa sivustoilla, joilla vierailet.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY updatednewfirstrun_sync_title "Tili">
 <!ENTITY firstrun_sync_message2 "Jatka siitä, mihin jäit.">
 <!ENTITY firstrun_sync_subtext2 "Käytä Sync-palvelua löytämään kirjanmerkit, salasanat ynnä muut &brandShortName;iin tallentamasi tiedot kaikilla laitteillasi.">
 <!ENTITY newfirstrun_sync_subtext "Synkronoi kaikki mobiililaitteelle tallentamasi Firefoxin työpöytäversioon, yksityisesti ja turvallisesti.">
@@ -72,6 +73,8 @@
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; kaatui">
+<!ENTITY  crash_notification_message "Raportoi &vendorShortName;lle napauttamalla">
+<!ENTITY  crash_notification_negative_button_text "Ohita">
 
 <!ENTITY url_bar_default_text2 "Kirjoita haku tai osoite">
 
@@ -117,6 +120,7 @@
 
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(nimetön)">
 
 <!ENTITY reader_saved_offline "Tallennettiin verkotta luettavaksi">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -599,6 +603,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "Avainsana">
 <!ENTITY bookmark_select_folder "Valitse kansio">
 
+<!ENTITY bookmark_edit_undo "Kumoa">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -944,3 +949,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Sivustoilmoitukset">
+<!ENTITY crash_handler_notifications_channel "&brandShortName;: Kaatumisen raportointi">
