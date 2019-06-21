@@ -12,6 +12,11 @@ abuse-report-learnmore =
     S’jeni i sigurt ç’problem të zgjidhni?
     <a data-l10n-name="learnmore-link">Mësoni më tepër rreth raportimi zgjerimesh dhe temash</a>
 abuse-report-submit-description = Përshkruani problemin (në daçi)
+abuse-report-textarea =
+    .placeholder = Për ne është më e lehtë të merremi me një problem, nëse kemi hollësi. Ju lutemi, përshkruani ç’po ju ndodh. Faleminderit që na ndihmoni ta mbajmë internetin të shëndetshëm.
+abuse-report-submit-note =
+    Shënim: Mos përfshini të dhëna personale, (fjala vjen, emër, adresë email, numër telefoni, adresë fizike).
+     { -vendor-short-name } ruan një regjistër të përhershëm të këtyre raportimeve.
 
 ## Panel buttons.
 
@@ -55,6 +60,9 @@ abuse-report-settings-suggestions = Përpara raportimit të zgjerimit, mund të 
 abuse-report-settings-suggestions-search = Ndryshoni rregullimet mbi parazgjedhje lidhur me kërkimet
 abuse-report-settings-suggestions-homepage = Ndryshoni faqen tuaj hyrëse dhe skedë të re
 abuse-report-deceptive-reason = Pretendon të jetë diçka tjetër nga ç’është
+abuse-report-deceptive-example = Shembull: Përshkrim ose figurë e gabuar
+abuse-report-broken-reason-extension = S’funksionon, bën të mos funksionojnë sajte, ose ngadalëson { -brand-product-name }-in
+abuse-report-broken-reason-theme = S’funksionon ose dëmton shfaqjen e shfletuesit
 abuse-report-policy-reason = Lëndë që nxit urrejtje, e dhunshme ose e paligjshme
 abuse-report-policy-suggestions =
     Shënim: Çështje të drejtash kopjimi dhe shenjash tregtare duhet të raportohen në një proces më vete.
