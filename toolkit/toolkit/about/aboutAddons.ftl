@@ -356,6 +356,15 @@ addon-badge-private-browsing-allowed =
 addon-detail-private-browsing-help = Kun sallittu, laajennuksella on pääsy toimiisi verkossa yksityisen selauksen tilassa. <a data-l10n-name="learn-more">Lue lisää</a>
 addon-detail-private-browsing-allow = Salli
 addon-detail-private-browsing-disallow = Älä salli
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Suositeltu
+    .alt = Suositeltu
 available-updates-heading = Saatavilla olevat päivitykset
 recent-updates-heading = Viimeisimmät päivitykset
 release-notes-loading = Ladataan…
+release-notes-error = Julkaisutietojen lataaminen epäonnistui.
+addon-permissions-empty = Tämä laajennus ei vaadi mitään oikeuksia
+recommended-extensions-heading = Suositellut laajennukset
+recommended-themes-heading = Suositellut teemat
