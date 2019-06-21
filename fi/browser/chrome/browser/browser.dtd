@@ -885,6 +885,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Tämän sivun latasi laajennus.">
 <!ENTITY identity.insecureLoginForms2 "Tälle sivulle kirjoitettujen kirjautumistietojen turvallisuus voi vaarantua.">
 
+<!ENTITY identity.customRoot "Yhteys on suojattu varmenteella, jonka myöntäjää Mozilla ei tunnista.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; on estänyt suojaamattoman sisällön näyttämisen.">
@@ -904,6 +905,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Tällä sivulla on suojaamatonta sisältöä (kuten komentosarjoja) eikä yhteytesi sivustoon ei ole yksityinen.">
 <!ENTITY identity.description.activeLoaded2 "Sivullisten on mahdollista tarkastella antamiasi tietoja (esim. salasanoja, viestejä, luottokorttitietoja).">
 
+<!ENTITY identity.description.customRoot "Mozilla ei tunnista tämän varmenteen myöntäjää. Se on voitu lisätä käyttöjärjestelmästä tai järjestelmänvalvojan toimesta.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Ota suojaus käyttöön">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "O">
