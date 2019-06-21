@@ -16,7 +16,7 @@ list-empty-installed =
 list-empty-available-updates =
     .value = No se encontraron actualizaciones
 list-empty-recent-updates =
-    .value = No ha habido actualizaciones recientes de ningún complemento
+    .value = No hubo actualizaciones recientes de ningún complemento
 list-empty-find-updates =
     .label = Buscar actualizaciones
 list-empty-button =
@@ -24,7 +24,7 @@ list-empty-button =
 install-addon-from-file =
     .label = Instalar complemento desde archivo…
     .accesskey = I
-help-button = Soporte sobre complementos
+help-button = Ayuda sobre complementos
 preferences =
     { PLATFORM() ->
         [windows] Opciones de { -brand-short-name }
