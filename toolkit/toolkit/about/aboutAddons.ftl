@@ -97,14 +97,14 @@ detail-update-manual =
     .tooltiptext = No instalar actualizaciones automáticamente
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Ejecutar en ventanas privadas
-detail-private-browsing-description2 = Cuando esté permitido, la extensión tendrá acceso a su actividad en línea mientras navega de forma privada. <label data-l10n-name="detail-private-browsing-learn-more">Conozca más</label>
+detail-private-browsing-description2 = Cuando esté permitido, el complemento tendrá acceso a su actividad en línea mientras navega de forma privada. <label data-l10n-name="detail-private-browsing-learn-more">Conozca más</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = No permitido en ventanas privadas
-detail-private-disallowed-description = Esta extensión no se ejecuta en la navegación privada. <label data-l10n-name="detail-private-browsing-learn-more">Conocer más </label>
+detail-private-disallowed-description = Este complemento no se ejecuta en la navegación privada. <label data-l10n-name="detail-private-browsing-learn-more">Conocer más </label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Requiere acceso a ventanas privadas
-detail-private-required-description = Esta extensión tiene acceso a sus actividades en línea mientras navega en privado. <label data-l10n-name="detail-private-browsing-learn-more"> Conocer más</label>
+detail-private-required-description = Este complemento tiene acceso a sus actividades en línea mientras navega en privado. <label data-l10n-name="detail-private-browsing-learn-more"> Conocer más</label>
 detail-private-browsing-on =
     .label = Permitir
     .tooltiptext = Habilitar en navegación privada
@@ -144,20 +144,19 @@ detail-rating =
 addon-restart-now =
     .label = Reiniciar ahora
 disabled-unsigned-heading =
-    .value = Algunos complementos han sido deshabilitados
-disabled-unsigned-description = Los siguientes complementos no han sido verificados para usar en { -brand-short-name }. Puede <label data-l10n-name="find-addons">buscar reemplazos</label> o pedir al desarrollador que los haga verificar.
+    .value = Se deshabilitaron algunos complementos
+disabled-unsigned-description = Los siguientes complementos no fueron verificados para usar en { -brand-short-name }. Puede <label data-l10n-name="find-addons">buscar reemplazos</label> o pedir al desarrollador que los haga verificar.
 disabled-unsigned-learn-more = Conocer más sobre nuestros esfuerzos para ayudar a mantenerlo seguro mientras está en línea.
-disabled-unsigned-devinfo = Desarrolladores interesados en conseguir que sus complementos sean verificados pueden continuar leyendo nuestro <label data-l10n-name="learn-more">manual</label>.
-plugin-deprecation-description = ¿Falta algo? Algunos plugins ya no son soportadas por { -brand-short-name }. <label data-l10n-name="learn-more">Conocer más.</label>
-legacy-warning-show-legacy = Mostrar extensiones heredadas
+disabled-unsigned-devinfo = Los desarrolladores interesados en conseguir que sus complementos sean verificados pueden continuar leyendo nuestro <label data-l10n-name="learn-more">manual</label>.
+plugin-deprecation-description = ¿Falta algo? Algunos plugins ya no son compatibles con { -brand-short-name }. <label data-l10n-name="learn-more">Conocer más.</label>
+legacy-warning-show-legacy = Mostrar complementos heredados
 legacy-extensions =
-    .value = Extensiones heredadas
-legacy-extensions-description = Estas extensiones no cumplen los estándares actuales de { -brand-short-name } por lo que han sido desactivadas. <label data-l10n-name="legacy-learn-more">Conocer sobre los cambios en los complementos</label>
+    .value = Complementos heredados
+legacy-extensions-description = Estos complementos no cumplen los estándares actuales de { -brand-short-name } por lo que se desactivaron. <label data-l10n-name="legacy-learn-more">Conocer sobre los cambios en los complementos</label>
 private-browsing-description2 =
-    { -brand-short-name } está cambiando la forma en la que funcionan las extensiones en la navegación privada. Cualquier nueva extensión que agregue a
-    { -brand-short-name } no se ejecutará de forma predeterminada en las ventanas privadas. A menos que lo permita en la configuración, la
-    la extensión no funcionará en la navegación privada, y no tendrá acceso a sus actividades en línea. Hicimos este cambio para mantener privada su navegación privada.
-    <label data-l10n-name = "private-browsing-learn-more"> Aprenda cómo administrar la configuración de la extensión. </label>
+    { -brand-short-name } está cambiando la forma en la que funcionan los complementos en la navegación privada. Cualquier nuevo complemento que agregue a
+    { -brand-short-name } no se ejecutará de forma predeterminada en las ventanas privadas. A menos que lo permita en la configuración, el complemento no funcionará en la navegación privada, y no tendrá acceso a sus actividades en línea. Hicimos este cambio para mantener privada su navegación privada.
+    <label data-l10n-name = "private-browsing-learn-more"> Aprenda cómo administrar la configuración del complemento. </label>
 extensions-view-discover =
     .name = Obtener complementos
     .tooltiptext = { extensions-view-discover.name }
