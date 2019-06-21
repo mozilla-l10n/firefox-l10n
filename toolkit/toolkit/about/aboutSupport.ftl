@@ -35,6 +35,11 @@ app-basics-name = Nom
 app-basics-version = Version
 app-basics-build-id = Identifiant de compilation
 app-basics-update-channel = Canal de mise à jour
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Répertoire pour les mises à jour
+       *[other] Dossier pour les mises à jour
+    }
 app-basics-update-history = Historique des mises à jour
 app-basics-show-update-history = Afficher l’historique des mises à jour
 # Represents the path to the binary used to start the application.
