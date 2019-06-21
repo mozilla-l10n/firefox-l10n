@@ -15,6 +15,7 @@ about-telemetry-option-group-older = Vanhemmat
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Kaukomittaustiedot
+about-telemetry-current-store = Nykyinen säilö:
 about-telemetry-more-information = Etsitkö lisätietoa?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox Data Documentation</a> sisältää englanniksi oppaita datatyökalujen käytöstä.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox Telemetry client documentation</a> sisältää englanniksi käsitteiden määritelmät, API-dokumentaation ja dataviittaukset.
@@ -55,6 +56,16 @@ about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] käytössä
        *[disabled] pois käytöstä
+    }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } näyte, keskiarvo = { $prettyAverage }, summa = { $sum }
+       *[other] { $sampleCount } näytettä, keskiarvo = { $prettyAverage }, summa = { $sum }
     }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
@@ -125,3 +136,6 @@ about-telemetry-category-header = luokka
 about-telemetry-method-header = metodi
 about-telemetry-object-header = objekti
 about-telemetry-extra-header = lisätietoa
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = { $process }-prosessi
