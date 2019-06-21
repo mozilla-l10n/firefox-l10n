@@ -265,6 +265,10 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Jotkin näistä suosituksista ovat henkilökohtaisia. Suositukset pohjautuvat
+    muihin asentamiisi laajennuksiin, profiiliasetuksiin ja käyttötilastoihin.
 discopane-notice-learn-more = Lue lisää
 privacy-policy = Yksityisyyskäytäntö
 # Refers to the author of an add-on, shown below the name of the add-on.
@@ -333,7 +337,9 @@ install-update-button = Päivitä
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Sallittu yksityisissä ikkunoissa
+addon-detail-private-browsing-help = Kun sallittu, laajennuksella on pääsy toimiisi verkossa yksityisen selauksen tilassa. <a data-l10n-name="learn-more">Lue lisää</a>
 addon-detail-private-browsing-allow = Salli
 addon-detail-private-browsing-disallow = Älä salli
 available-updates-heading = Saatavilla olevat päivitykset
 recent-updates-heading = Viimeisimmät päivitykset
+release-notes-loading = Ladataan…

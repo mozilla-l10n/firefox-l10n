@@ -19,6 +19,7 @@ onboarding-button-label-get-started = Aloita
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Tervetuloa { -brand-short-name }iin
+onboarding-welcome-body = Sait selaimen.<br/>Tapaa muut { -brand-product-name }-palvelut.
 onboarding-welcome-learn-more = Lue lisää hyödyistä.
 onboarding-join-form-header = Liity { -brand-product-name }iin
 onboarding-join-form-body = Aloita kirjoittamalla sähköpostiosoitteesi.

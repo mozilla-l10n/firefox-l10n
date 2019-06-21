@@ -33,6 +33,10 @@ abuse-report-submit-button = Lähetä
 
 abuse-report-messagebar-aborted = Raportti lisäosasta <span data-l10n-name="addon-name">{ $addon-name }</span> on peruttu.
 abuse-report-messagebar-submitting = Lähetetään raportti lisäosasta <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-submitted = Kiitos kun lähetit raportin. Haluatko poistaa lisäosan <span data-l10n-name="addon-name">{ $addon-name }</span>?
+abuse-report-messagebar-submitted-noremove = Kiitos kun lähetit raportin.
+abuse-report-messagebar-removed-extension = Kiitos kun lähetit raportin. Poistit laajennuksen <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-theme = Kiitos kun lähetit raportin. Poistit teeman <span data-l10n-name="addon-name">{ $addon-name }</span>.
 
 ## Message bars actions.
 
