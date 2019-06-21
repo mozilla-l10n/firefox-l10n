@@ -410,7 +410,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Νέο παράθυρο">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "Ν">
-<!ENTITY newPrivateWindow.label     "Νέο παράθυρο ιδιωτικής περιήγησης">
+<!ENTITY newPrivateWindow.label     "Νέο ιδιωτικό παράθυρο">
 <!ENTITY newPrivateWindow.accesskey "δ">
 
 <!ENTITY editMenu.label         "Επεξεργασία">
