@@ -243,12 +243,12 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Administrar los accesos directos del complemento
     .accesskey = S
-shortcuts-no-addons = No tiene ninguna extensión habilitada.
-shortcuts-no-commands = Las siguientes extensiones no tienen atajos de teclado:
+shortcuts-no-addons = No tiene ningún complemento habilitado.
+shortcuts-no-commands = Los siguientes complementos no tienen atajos de teclado:
 shortcuts-input =
     .placeholder = Escriba un atajo
-shortcuts-browserAction = Activar extensión
-shortcuts-pageAction = Activar Acción de página
+shortcuts-browserAction = Activar el complemento
+shortcuts-pageAction = Activar Acción de la página
 shortcuts-sidebarAction = Alternar la barra lateral
 shortcuts-modifier-mac = Incluir Ctrl, Alt o ⌘
 shortcuts-modifier-other = Incluir Ctrl o Alt
@@ -273,13 +273,13 @@ go-back-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro =
-    Las extensiones y temas son como aplicaciones para el navegador y le permiten
+    Los complementos y los temas son como aplicaciones para el navegador y le permiten
     proteger sus contraseñas, descargar vídeos, encontrar ofertas, bloquear publicidad,
     cambiar la apariencia del navegador y mucho más. Suelen ser terceros los que generalmente desarrollan estos pequeños programas de software. Le ofrecemos una selección de { -brand-product-name }
     <a data-l10n-name="learn-more-trigger">recomendados</a> en seguridad, rendimiento
     y funcionalidad excepcionales.
 # Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = Algunas de estas recomendaciones son personalizadas. Se basan en otras extensiones que tiene instaladas, preferencias de su perfil y estadísticas de uso.
+discopane-notice-recommendations = Algunas de estas recomendaciones son personalizadas. Se basan en otros complementos que tiene instalados, preferencias de su perfil y estadísticas de uso.
 discopane-notice-learn-more = Conocer más
 privacy-policy = Política de privacidad
 # Refers to the author of an add-on, shown below the name of the add-on.
@@ -356,7 +356,7 @@ install-update-button = Actualizar
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Permitir en ventanas privadas
-addon-detail-private-browsing-help = Cuando está activada, la extensión tendrá acceso a todo lo que hace mientras navega de forma privada. <a data-l10n-name="learn-more">Conozca más más</a>
+addon-detail-private-browsing-help = Cuando está activado, el complemento tendrá acceso a todo lo que hace mientras navega de forma privada. <a data-l10n-name="learn-more">Conozca más más</a>
 addon-detail-private-browsing-allow = Permitir
 addon-detail-private-browsing-disallow = No permitir
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
@@ -368,8 +368,8 @@ available-updates-heading = Actualizaciones disponibles
 recent-updates-heading = Actualizaciones recientes
 release-notes-loading = Cargando…
 release-notes-error = Lo sentimos, pero hubo un error al cargar las notas de la versión.
-addon-permissions-empty = Esta extensión no requiere ningún permiso.
-recommended-extensions-heading = Extensiones recomendadas
+addon-permissions-empty = Este complemento no requiere ningún permiso.
+recommended-extensions-heading = Complementos recomendados
 recommended-themes-heading = Temas recomendados
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
