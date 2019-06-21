@@ -268,6 +268,15 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Laajennukset ja teemat ovat kuin sovelluksia selaimessa; ne voivat suojata salasanojasi,
+    ladata videoita, löytää hyviä tarjouksia, estää ärsyttäviä mainoksia, muuttaa
+    selaimen ulkoasua ja paljon muuta. Nämä pienet ohjelmat ovat usein kolmansien
+    osapuolten kehittämiä. Tässä on valikoima { -brand-product-name }in
+    <a data-l10n-name="learn-more-trigger">suosittelemia</a> laajennuksia
+    tietoturvan, suorituskyvyn ja toiminnallisuuden parantamiseksi.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Jotkin näistä suosituksista ovat henkilökohtaisia. Suositukset pohjautuvat
