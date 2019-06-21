@@ -33,9 +33,9 @@ preferences =
 tools-menu =
     .tooltiptext = Herramientas para todos los complementos
 show-unsigned-extensions-button =
-    .label = Algunas extensiones no pudieron ser verificadas
+    .label = Algunos complementos no pudieron ser verificados
 show-all-extensions-button =
-    .label = Mostrar todas las extensiones
+    .label = Mostrar todos los complementos
 debug-addons =
     .label = Depurar complementos
     .accesskey = D
@@ -69,19 +69,18 @@ cmd-contribute =
     .label = Contribuir
     .accesskey = C
     .tooltiptext = Contribuir al desarrollo de este complemento
-discover-title = Qué son los complementos?
+discover-title = ¿Qué son los complementos?
 discover-description =
     Los complementos son aplicaciones que permiten personalizar { -brand-short-name } con
-    funcionalidad extra o estilo. Pruebe una barra lateral que ahorre tiempo, una notificador de clima o un tema visual para que { -brand-short-name }
-    sea suyo.
+    funcionalidad extra o estilo. Pruebe una barra lateral que ahorre tiempo, un notificador del clima o un tema visual para hacer suyo a { -brand-short-name }
 discover-footer =
     Cuando se conecte a Internet, esta vista mostrara
-    algunos de los mejores y más populares complementos para que pruebe.
+    algunos de los mejores y más populares complementos para que los pruebe.
 detail-version =
     .label = Versión
 detail-last-updated =
     .label = Última actualización
-detail-contributions-description = El programador de este complemento pide que lo ayuden a soportar su desarrollo continuo mediante una pequeña contribución.
+detail-contributions-description = El programador de este complemento pide que lo ayuden a mantener su desarrollo continuo mediante una pequeña contribución.
 detail-contributions-button = Contribuir
     .title = Contribuir con el desarrollo de este complemento
     .accesskey = C
