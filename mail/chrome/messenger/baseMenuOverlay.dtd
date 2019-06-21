@@ -9,6 +9,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Ndihmë">
 <!ENTITY helpMenuWin.accesskey "N">
+<!ENTITY aboutProduct2.label "Mbi &brandShorterName;-in">
+<!ENTITY aboutProduct2.accesskey "M">
 <!ENTITY helpTroubleshootingInfo.label     "Të dhëna Diagnostikimi">
 <!ENTITY helpTroubleshootingInfo.accesskey "T">
 <!ENTITY helpSafeMode.label     "Riniseni me Shtesat të Çaktivizuara…">
@@ -20,13 +22,29 @@
 <!ENTITY openHelp.label "Lëndë Ndihme">
 <!ENTITY openHelp.accesskey "L">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "Ndihmë për &brandShortName;-in">
 <!ENTITY openHelpMac2.label "Ndihmë për &brandFullName;-in">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY aboutMenuCmd.label "Mbi &brandShortName;-in">
-<!ENTITY aboutMenuCmd.accesskey "M">
-
 <!ENTITY aboutMenuCmd2.label "Mbi &brandFullName;-in">
 <!ENTITY aboutMenuCmd2.accesskey "M">
+<!ENTITY productHelp.label "Ndihmë mbi &brandShortName;-in">
+<!ENTITY productHelp.accesskey "N">
+<!ENTITY productHelp.commandkey "VK_F1">
+<!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "accel">
+
+<!ENTITY helpKeyboardShortcuts.label "Shkurtore Tastiere">
+<!ENTITY helpKeyboardShortcuts.accesskey "T">
+
+<!ENTITY helpFeedbackPage.label "Parashtroni Përshtypjet…">
+<!ENTITY helpFeedbackPage.accesskey "P">
+
+<!ENTITY helpShowTour2.label "Tur i &brandShorterName;-it">
+<!ENTITY helpShowTour2.accesskey "T">
+
+<!ENTITY helpGetInvolvedPage.label "Përfshihuni">
+<!ENTITY helpGetInvolvedPage.accesskey "ë">
+
+<!ENTITY helpDonationsPage.label "Bëni një Dhurim">
+<!ENTITY helpDonationsPage.accesskey "B">
