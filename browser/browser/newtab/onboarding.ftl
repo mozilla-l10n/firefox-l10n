@@ -20,11 +20,19 @@ onboarding-button-label-get-started = Kom i gang
 
 onboarding-welcome-header = Velkommen til { -brand-short-name }
 onboarding-welcome-body = Du har nettleseren.<br/>Møt resten av { -brand-product-name }.
+onboarding-welcome-learn-more = Les mer om fordelene.
+onboarding-join-form-header = Vær med { -brand-product-name }
+onboarding-join-form-body = Skriv inn e-postadressen din for å komme i gang.
+onboarding-join-form-email =
+    .placeholder = Skriv inn e-postadresse
+onboarding-join-form-email-error = Gyldig e-postadresse kreves
+onboarding-join-form-continue = Fortsett
 onboarding-start-browsing-button-label = Start nettlesing
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = Nyttige produkt
 
 ## These strings belong to the individual onboarding messages.
 
