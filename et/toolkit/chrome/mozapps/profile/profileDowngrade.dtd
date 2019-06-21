@@ -13,4 +13,8 @@
 <!ENTITY window.style "width: 490px;">
 
 <!ENTITY window.nosync "Vanema Firefoxi versiooni kasutamine võib rikkuda järjehoidjad ning veebilehitsemise ajaloo, mis on olemasolevasse profiili juba salvestatud. Oma andmete kaitsmiseks soovitame luua selle &brandShortName;i paigalduse jaoks uue profiili.">
+<!ENTITY window.sync "Vanema Firefoxi versiooni kasutamine võib rikkuda järjehoidjad ning veebilehitsemise ajaloo, mis on olemasolevasse profiili juba salvestatud. Oma andmete kaitsmiseks soovitame luua selle &brandShortName;i paigalduse jaoks uue profiili. Sa võid alati sisse logida &syncBrand.fxAccount.label;ga ja erinevate profiilide vahel oma järjehoidjad ja veebilehitsemise ajaloo sünkroniseerida.">
 
+<!ENTITY window.create "Loo uus profiil">
+<!ENTITY window.quit-win "Välju">
+<!ENTITY window.quit-nonwin "Välju">
