@@ -173,23 +173,23 @@ extensions-view-available-updates =
 ## These are global warnings
 
 extensions-warning-safe-mode-label =
-    .value = Todos los complementos fueron deshabilitados por el modo seguro.
+    .value = Todos los complementos fueron deshabilitados por el Modo seguro.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
 extensions-warning-check-compatibility-label =
-    .value = La verificación de compatibilidad de complementos está deshabilitada. Puede tener complementos incompatibles.
+    .value = La verificación de compatibilidad de los  complementos está deshabilitada. Puede tener complementos incompatibles.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
 extensions-warning-check-compatibility-enable =
     .label = Habilitar
-    .tooltiptext = Habilitar verificación de compatibilidad de complementos
+    .tooltiptext = Habilitar la verificación de la compatibilidad de los complementos
 extensions-warning-update-security-label =
-    .value = La verificación de actualizaciones de seguridad de complementos está deshabilitada. Puede estar en peligro por las actualizaciones.
+    .value = La verificación de actualizaciones de seguridad de complementos está deshabilitada. Puede estar comprometido por las actualizaciones.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
 extensions-warning-update-security-enable =
     .label = Habilitar
-    .tooltiptext = Habilitar la verificación de actualizaciones de seguridad
+    .tooltiptext = Habilitar la verificación de las actualizaciones de seguridad
 
 ## Strings connected to add-on updates
 
@@ -225,23 +225,23 @@ extensions-updates-reset-updates-to-manual =
 extensions-updates-updating =
     .value = Actualizando complementos
 extensions-updates-installed =
-    .value = Sus complementos han sido actualizados.
+    .value = Se actualizaron sus complementos.
 extensions-updates-downloaded =
-    .value = Sus actualizaciones a los complementos han sido descargadas.
+    .value = Se descargaron las actualizaciones de sus complementos.
 extensions-updates-restart =
     .label = Reiniciar ahora para completar la instalación
 extensions-updates-none-found =
     .value = No se encontraron actualizaciones
 extensions-updates-manual-updates-found =
-    .label = Ver actualizaciones disponibles
+    .label = Ver las actualizaciones disponibles
 extensions-updates-update-selected =
     .label = Instalar actualizaciones
-    .tooltiptext = Instalar actualizaciones disponibles en esta lista
+    .tooltiptext = Instalar las actualizaciones disponibles en esta lista
 
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
-    .label = Administrar accesos directos de extensión
+    .label = Administrar los accesos directos del complemento
     .accesskey = S
 shortcuts-no-addons = No tiene ninguna extensión habilitada.
 shortcuts-no-commands = Las siguientes extensiones no tienen atajos de teclado:
