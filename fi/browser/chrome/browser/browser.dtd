@@ -341,6 +341,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Olet estänyt Adobe Flash -liitännäisen käytön tältä sivustolta.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Olet estänyt MIDI-käytön tältä sivustolta.">
 
+<!ENTITY urlbar.installBlocked.tooltip           "Olet estänyt lisäosien asennuksen tältä sivustolta.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Avaa sivuhistoria">
 
