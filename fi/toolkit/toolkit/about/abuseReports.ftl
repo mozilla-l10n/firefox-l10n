@@ -37,6 +37,7 @@ abuse-report-messagebar-submitted = Kiitos kun lähetit raportin. Haluatko poist
 abuse-report-messagebar-submitted-noremove = Kiitos kun lähetit raportin.
 abuse-report-messagebar-removed-extension = Kiitos kun lähetit raportin. Poistit laajennuksen <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = Kiitos kun lähetit raportin. Poistit teeman <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error-recent-submit = Raporttia lisäosasta <span data-l10n-name="addon-name">{ $addon-name }</span> ei lähetetty, koska toinen raportti lähetettiin äskettäin.
 
 ## Message bars actions.
 
@@ -62,6 +63,14 @@ abuse-report-deceptive-example = Esimerkki: Harhaanjohtava kuvaus tai kuvitus
 abuse-report-broken-reason-extension = Ei toimi, rikkoo sivustoja tai hidastaa { -brand-product-name }ia
 abuse-report-broken-reason-theme = Ei toimi tai rikkoo selaimen esitystavan
 abuse-report-broken-example = Esimerkki: ominaisuudet ovat hitaita, vaikeakäyttöisiä tai eivät toimi; osa sivuista ei lataudu tai ne näyttävät kummallisilta
+abuse-report-broken-suggestions-extension =
+    Vaikuttaa siltä, että löysit ohjelmistovirheen. Tämän raportin lähettämisen lisäksi paras
+    tapa saada toiminnallisuusongelma selvitettyä on olla yhteydessä laajennuksen kehittäjään.
+    <a data-l10n-name="support-link">Käy laajennuksen sivulla</a> nähdäksesi kehittäjän tiedot.
+abuse-report-broken-suggestions-theme =
+    Vaikuttaa siltä, että löysit ohjelmistovirheen. Tämän raportin lähettämisen lisäksi paras
+    tapa saada toiminnallisuusongelma selvitettyä on olla yhteydessä teeman kehittäjään.
+    <a data-l10n-name="support-link">Käy teeman sivulla</a> nähdäksesi kehittäjän tiedot.
 abuse-report-policy-reason = Vihapitoista, väkivaltaista tai laitonta sisältöä
 abuse-report-policy-suggestions =
     Huomio: Tekijänoikeus- ja tavaramerkkiongelmat tulee raportoida eri menettelytavalla.
