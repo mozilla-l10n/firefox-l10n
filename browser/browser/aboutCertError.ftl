@@ -36,7 +36,11 @@ cert-error-domain-mismatch-multiple = Nettsteder beviser identiteten sin via ser
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-after-local-time (Date) - Certificate is not valid after this time.
-cert-error-expired-now = Nettsider bekrefter deres identitet ved hjelp av sertifikater som er gyldige for en angitt periode. Sertifikatet for { $hostname } utløpte { $not-after-local-time }.
+cert-error-expired-now = Nettsteder bekrefter deres identitet ved hjelp av sikkerhets-sertifikater som er gyldige i en bestemt periode. Sertifikatet for { $hostname } utløp { $not-after-local-time }.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = Nettsteder bekrefter deres identitet ved hjelp av sikkerhets-sertifikater som er gyldige i en bestemt periode. Sertifikatet for { $hostname } vil ikke være gyldig før { $not-before-local-time }.
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Feilkode: <a data-l10n-name="error-code-link">{ $error }</a>
