@@ -34,6 +34,7 @@ policies-notice =
         [windows] Ваша арганізацыя выключыла магчымасць змяняць некаторыя налады.
        *[other] Ваша арганізацыя выключыла магчымасць змяняць некаторыя налады.
     }
+managed-notice = Вашым браўзерам кіруе ваша арганізацыя.
 pane-general-title = Агульныя
 category-general =
     .tooltiptext = { pane-general-title }
@@ -292,7 +293,9 @@ update-pref-write-failure-title = Збой запісу
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Немагчыма захаваць налады. Не ўдалося запісаць у файл: { $path }
+update-setting-write-failure-title = Памылка пры захаванні налад абнаўлення
 update-in-progress-title = Абнаўленне ў працэсе
+update-in-progress-message = Хочаце, каб { -brand-short-name } працягнуў гэта абнаўленне?
 update-in-progress-ok-button = &Адкінуць
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
