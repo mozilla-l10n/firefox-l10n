@@ -535,6 +535,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
 <!ENTITY customizeMenu.reportExtension.label "Ilmoita laajennuksesta">
+<!ENTITY customizeMenu.reportExtension.accesskey "t">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains

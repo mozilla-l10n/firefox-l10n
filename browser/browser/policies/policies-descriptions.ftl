@@ -55,6 +55,7 @@ policy-EnableTrackingProtection = Ota käyttöön tai poista käytöstä sisäll
 policy-Extensions = Asenna, poista tai lukitse laajennuksia. Asennusasetus ottaa parametreiksi URL-osoitteita tai polkuja. Poisto- ja lukitsemisasetukset ottavat parametreiksi laajennusten ID:itä.
 policy-ExtensionSettings = Hallitse kaikkia laajennusten asennukseen liittyviä asioita.
 policy-ExtensionUpdate = Ota käyttöön tai poista käytöstä laajennusten automaattipäivitykset.
+policy-FirefoxHome = Muokkaa Firefoxin aloitussivun asetuksia.
 policy-FlashPlugin = Salli tai estä Flash-liitännäisen käyttö.
 policy-HardwareAcceleration = Jos epätosi, poista laitteistokiihdytys käytöstä.
 # “lock” means that the user won’t be able to change this setting
