@@ -1134,6 +1134,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "K">
 <!ENTITY updateRestart.cancelButton.label "Ei nyt">
 <!ENTITY updateRestart.cancelButton.accesskey "E">
+<!ENTITY updateUnsupported.panelUI.label "Uusia päivityksiä ei voi enää asentaa">
 <!ENTITY updateRestart.panelUI.label2 "Päivitä käynnistämällä &brandShorterName; uudestaan">
 
 <!ENTITY newTabControlled.header.message "Uusi välilehti -sivu on vaihtunut.">
