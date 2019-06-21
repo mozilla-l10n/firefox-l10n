@@ -6,6 +6,12 @@ process-type-web = Lëndë Web
 # process used to run privileged pages,
 # such as about:home
 process-type-privileged = Lëndë e Privilegjuar
+# process used to run privileged about pages,
+# such as about:home
+process-type-privilegedabout = Rreth e Privilegjuar
+# process used to run privileged mozilla pages,
+# such as accounts.firefox.com
+process-type-privilegedmozilla = Lëndë Mozilla e Privilegjuar
 process-type-extension = Zgjerim
 # process used to open file:// URLs
 process-type-file = Kartelë Vendore
