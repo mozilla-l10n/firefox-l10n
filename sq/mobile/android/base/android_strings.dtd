@@ -21,12 +21,15 @@
 <!ENTITY firstrun_data_message "Më pak të dhëna, më shumë kursim">
 <!ENTITY firstrun_data_subtext2 "Bllokojini figurat, që të harxhoni më pak të dhëna, në çdo sajt që vizitoni.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY updatednewfirstrun_sync_title "Llogari">
 <!ENTITY firstrun_sync_message2 "Vazhdoni atje ku e latë.">
 <!ENTITY firstrun_sync_subtext2 "Përdoreni Sync-un që të gjeni faqerojtës, fjalëkalime dhe të tjera gjëra që ruani në &brandShortName; në krejt pajisjet tuaja.">
 <!ENTITY newfirstrun_sync_subtext "Njëkohësoni te Firefox-i për desktop gjëra që ruani në celular, privatisht dhe në mënyrë të parrezik.">
+<!ENTITY updatednewfirstrun_sync_subtext "Bëni hyrjen në llogarinë tuaj që të përfitoni maksimumin prej &brandShortName;-it">
 <!ENTITY firstrun_signin_message "Lidhuni, fillojani">
 <!ENTITY firstrun_signin_button "Bëni hyrjen, që të Njëkohësohet">
 <!ENTITY newfirstrun_signin_button "Aktivizo Sync-un">
+<!ENTITY updatednewfirstrun_signin_button "Bëni hyrjen te &brandShortName;-in">
 <!ENTITY  onboard_start_button_browser "Filloni të Shfletoni">
 <!ENTITY firstrun_button_notnow "Jo tani">
 <!ENTITY firstrun_button_next "Pasuesi">
@@ -66,6 +69,12 @@
 <!ENTITY  sending_crash_report "Po dërgohet njoftimi i vithisjes\u2026">
 <!ENTITY  crash_close_label "Mbylleni">
 <!ENTITY  crash_restart_label "Rinise &brandShortName;">
+
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName;-i u vithis">
+<!ENTITY  crash_notification_message "Prekeni që të raportohet te &vendorShortName;">
+<!ENTITY  crash_notification_negative_button_text "Shpërfille">
 
 <!ENTITY url_bar_default_text2 "Bëni kërkim ose jepni adresë">
 
@@ -108,6 +117,10 @@
 <!ENTITY bookmark_folder_updated "Dosja u përditësua">
 <!ENTITY bookmark_parent_folder "Dosja Mëmë">
 <!ENTITY bookmark_add_folder "Shtoni dosje të re">
+
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(pa titull)">
 
 <!ENTITY reader_saved_offline "U ruajt offline">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -414,8 +427,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Shkarkime">
 <!ENTITY pref_private_data_syncedTabs "Skeda të njëkohësuara">
 
-<!ENTITY pref_default_browser "Bëjeni shfletuesin parazgjedhje">
-
 <!ENTITY pref_default_browser2 "Bëjeni &brandShortName;-in shfletuesin tuaj parazgjedhje">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -593,6 +604,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "Fjalëkyç">
 <!ENTITY bookmark_select_folder "Përzgjidhni dosje">
 
+<!ENTITY bookmark_edit_undo "Zhbëje">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "Rregullime Sajti">
@@ -680,6 +693,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Zgjidhni ose regjistroni një tingull">
 <!ENTITY filepicker_image_title "Zgjidhni ose bëni një foto">
 <!ENTITY filepicker_video_title "Zgjidhni ose regjistroni një video">
+
+<!ENTITY filepicker_permission_denied "S’u akordua leja e domosdoshme, po bëhet rikthim te zgjedhësi i kartelave të sistemit.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Jeni lidhur me">
@@ -932,3 +947,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Njoftime sajti">
+<!ENTITY crash_handler_notifications_channel "Raportues Vithisjesh &brandShortName;-i">
