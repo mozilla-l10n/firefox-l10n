@@ -63,9 +63,17 @@ abuse-report-deceptive-reason = Pretendon të jetë diçka tjetër nga ç’ësh
 abuse-report-deceptive-example = Shembull: Përshkrim ose figurë e gabuar
 abuse-report-broken-reason-extension = S’funksionon, bën të mos funksionojnë sajte, ose ngadalëson { -brand-product-name }-in
 abuse-report-broken-reason-theme = S’funksionon ose dëmton shfaqjen e shfletuesit
+abuse-report-broken-example = Shembull: Veçoritë janë të ngadalta, të zorshme për t’u përdorur, ose s’funksionojnë fare; pjesë sajtesh nuk ngarkohen ose duken çuditshëm
+abuse-report-broken-suggestions-extension =
+    Duket sikur keni identifikuar një të metë. Veç parashtrimit të një raporti këtu, rruga më e mirë për zgjidhjen e një problemi funksionimi është të lidheni me zhvilluesin e zgjerimit.
+    Që të merrni të dhëna rreth tij, <a data-l10n-name="support-link">vizitoni sajtin e zgjerimit</a>.
+abuse-report-broken-suggestions-theme =
+    Duket sikur keni identifikuar një të metë. Veç parashtrimit të një raporti këtu, rruga më e mirë për zgjidhjen e një problemi funksionimi është të lidheni me zhvilluesin e temës.
+    Që të merrni të dhëna rreth tij, <a data-l10n-name="support-link">vizitoni sajtin e temës</a>.
 abuse-report-policy-reason = Lëndë që nxit urrejtje, e dhunshme ose e paligjshme
 abuse-report-policy-suggestions =
     Shënim: Çështje të drejtash kopjimi dhe shenjash tregtare duhet të raportohen në një proces më vete.
     Për të raportuar një problem <a data-l10n-name="report-infringement-link">përdorni këto udhëzime</a>.
 abuse-report-unwanted-reason = S’e kam dashur kurrë këtë zgjerim dhe tani s’e heq dot qafe
 abuse-report-unwanted-example = Shembull: E instaloi një aplikacion, pa lejen time
+abuse-report-other-reason = Diçka tjetër
