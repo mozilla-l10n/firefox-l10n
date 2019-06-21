@@ -34,6 +34,14 @@ cert-error-domain-mismatch-single-nolink = Situs web membuktikan identitas merek
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
 cert-error-domain-mismatch-multiple = Situs web membuktikan identitas mereka melalui sertifikat. { -brand-short-name } tidak memercayai situs ini karena menggunakan sertifikat yang tidak valid untuk { $hostname }. Sertifikat ini hanya valid untuk nama-nama berikut: { $subject-alt-names }
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = Situs web membuktikan identitas mereka melalui sertifikat yang berlaku dalam rentang waktu tertentu. Sertifikat untuk { $hostname } akan berakhir pada { $not-after-local-time }.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = Situs web membuktikan identitas mereka melalui sertifikat yang berlaku dalam rentang waktu tertentu. Sertifikat untuk { $hostname } tidak akan berlaku lagi pada { $not-after-local-time }.
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Kode kesalahan: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:

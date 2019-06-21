@@ -55,6 +55,7 @@ cfr-doorhanger-pintab-animation-resume = Lanjutkan
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sinkronkan markah Anda di mana saja.
+cfr-doorhanger-bookmark-fxa-body = Penemuan yang mantap! Sekarang jangan pergi tanpa markah ini di perangkat seluler Anda. Mulai dengan { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Sinkronkan markah sekarang…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tombol tutup
