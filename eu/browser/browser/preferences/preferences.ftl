@@ -34,6 +34,7 @@ policies-notice =
         [windows] Zure erakundeak hainbat aukera aldatzeko modua desgaitu du.
        *[other] Zure erakundeak hainbat hobespen aldatzeko modua desgaitu du.
     }
+managed-notice = Nabigatzailea zure erakundeak kudeatzen du.
 pane-general-title = Orokorra
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = Pribatutasuna eta segurtasuna
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox kontua
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -293,6 +290,18 @@ update-pref-write-failure-title = Idazketa-akatsa
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Ezin da hobespena gorde. Ezin da fitxategira idatzi: { $path }
+update-setting-write-failure-title = Errorea eguneraketen hobespenak gordetzean
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message = { -brand-short-name }(e)k errore bat aurkitu du eta ez du aldaketa hau gorde. Kontuan izan eguneraketen hobespen hau ezartzeak azpiko fitxategia idazteko baimenak behar dituela. Zu edo sistema-kudeatzaile bat errorea konpontzeko moduan izan zaitezkete erabiltzaileen taldeari fitxategi honetarako kontrol osoa emanez.
+update-in-progress-title = Eguneraketa burutzen ari da
+update-in-progress-message = { -brand-short-name }(e)k eguneraketa honekin jarraitzea nahi duzu?
+update-in-progress-ok-button = &Baztertu
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Jarraitu
 
 ## General Section - Performance
 
@@ -528,8 +537,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Gorde
     .accesskey = G
-sync-mobilepromo-single = Konektatu beste gailu bat
-sync-mobilepromo-multi = Kudeatu gailuak
 sync-connect-another-device = Konektatu beste gailu bat
 sync-manage-devices = Kudeatu gailuak
 sync-fxa-begin-pairing = Parekatu gailua
@@ -549,6 +556,9 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = Salbuespenak…
     .accesskey = n
+forms-generate-passwords =
+    .label = Iradoki eta sortu pasahitz sendoak
+    .accesskey = d
 forms-saved-logins =
     .label = Gordetako saio-hasierak…
     .accesskey = s
@@ -687,7 +697,6 @@ content-blocking-all-third-party-cookies = Hirugarrenen cookie guztiak
 content-blocking-cryptominers = Kriptomeatzariak
 content-blocking-fingerprinters = Hatz-marka bidezko jarraipena egiten duten elementuak
 content-blocking-warning-title = Argi!
-content-blocking-warning-desc = Cookieak eta jarraipen-elementuak blokeatzeak zenbait webgune haustea eragin lezake. Erraza da gune fidagarrientzako blokeoa desgaitzea.
 content-blocking-warning-description = Edukia blokeatzeak zenbait webgune haustea eragin lezake. Erraza da konfiantzazko guneetarako blokeoa desgaitzea.
 content-blocking-learn-how = Ikasi nola
 content-blocking-reload-description = Zure fitxak berritu beharko dituzu aldaketa hauek eragina izan dezaten.
@@ -754,6 +763,10 @@ permissions-block-autoplay-media2 =
 permissions-block-autoplay-media-exceptions =
     .label = Salbuespenak…
     .accesskey = S
+permissions-autoplay = Erreprodukzio automatikoa
+permissions-autoplay-settings =
+    .label = Ezarpenak…
+    .accesskey = E
 permissions-block-popups =
     .label = Blokeatu pop-up leihoak
     .accesskey = B

@@ -21,6 +21,7 @@ policy-Bookmarks = Sortu laster-markak laster-marken tresna-barran, menuan edo h
 policy-CaptivePortal = Gaitu edo desgaitu atari gatibuen euskarria.
 policy-CertificatesDescription = Ziurtagiriak gehitzea edo integratutako ziurtagiriak erabiltzea.
 policy-Cookies = Baimendu edo ukatu webguneei cookieak ezartzea.
+policy-DefaultDownloadDirectory = Ezarri deskarga-direktorio lehenetsia.
 policy-DisableAppUpdate = Eragotzi nabigatzailea eguneratzea.
 policy-DisableBuiltinPDFViewer = Desgaitu PDF.js, { -brand-short-name }(r)en integratutako PDF ikustailea.
 policy-DisableDeveloperTools = Blokeatu garatzaile-tresnetarako sarbidea.
@@ -43,15 +44,18 @@ policy-DisableSystemAddonUpdate = Eragotzi nabigatzaileak sistemaren gehigarriak
 policy-DisableTelemetry = Desgaitu Telemetry.
 policy-DisplayBookmarksToolbar = Bistaratu lehenespenez laster-marken tresna-barra.
 policy-DisplayMenuBar = Bistaratu lehenespenez menu-barra.
-policy-DNSOverHTTPS = Konfiguratu HTTPS gaineko DNSa
+policy-DNSOverHTTPS = Konfiguratu HTTPS gaineko DNSa.
 policy-DontCheckDefaultBrowser = Desgaitu abioan nabigatzaile lehenetsia egiaztatzea.
+policy-DownloadDirectory = Ezarri eta blokeatu deskarga-direktorioa.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Gaitu edo desgaitu edukia blokeatzea eta blokeatu ezarpen hau.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Instalatu, desinstalatu edo blokeatu hedapenak. Instalatzeko aukerak URLak edo bide-izenak hartzen ditu parametro gisa. Desinstalatzeko eta blokeatzeko aukerek, berriz, hedapen-IDak.
+policy-ExtensionSettings = Kudeatu hedapenen instalazioko arlo guztiak.
 policy-ExtensionUpdate = Gaitu edo desgaitu hedapenen eguneraketa automatikoa.
+policy-FirefoxHome = Konfiguratu Firefox Home.
 policy-FlashPlugin = Baimendu edo ukatu Flash plugina erabiltzea.
 policy-HardwareAcceleration = Ez badago ezarrita, hardware-azelerazioa desgaituko da.
 # “lock” means that the user won’t be able to change this setting
@@ -67,6 +71,7 @@ policy-OverridePostUpdatePage = Gainidatzi eguneraketen ondoko "Nobedadeak" orri
 policy-Permissions = Konfiguratu baimenak kamera, mikrofono, kokapen eta jakinarazpenentzat.
 policy-PopupBlocking = Baimendu zenbait webguneri lehenespenez popup leihoak bistaratzea.
 policy-Preferences = Ezarri eta blokeatu hobespen-azpimultzo baten balioak.
+policy-PromptForDownloadLocation = Galdetu non gorde deskargatutako fitxategiak.
 policy-Proxy = Konfiguratu proxy-ezarpenak.
 policy-RequestedLocales = Ezarri aplikazioari eskatuko zaizkion hizkuntza-kodeen zerrenda, hobetsitakoen arabera ordenatuta.
 policy-SanitizeOnShutdown = Garbitu nabigazio-datu guztiak nabigatzailea ixtean.
