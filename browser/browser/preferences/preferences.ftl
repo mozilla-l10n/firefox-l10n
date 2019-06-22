@@ -291,6 +291,14 @@ update-pref-write-failure-title = Yazma Hatası
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Tercih kaydedilemiyor. Dosyaya yazılamadı: { $path }
 update-setting-write-failure-title = Güncelleme tercihlerini kaydetmede hata
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } bir hatayla karşılaştı ve bu değişikliği kaydetmedi. Bu güncelleme tercihinin ayarlanması için aşağıdaki dosyaya yazma izninizin olması gerekir. Siz veya sistem yöneticiniz bu dosya için Kullanıcılar grubuna tam denetim vererek hatayı giderebilirsiniz.
+    
+    Dosyaya yazılamadı: { $path }
 update-in-progress-title = Güncelleme sürüyor
 update-in-progress-message = { -brand-short-name } bu güncellemeyi uygulamaya devam etsin mi?
 update-in-progress-ok-button = &Vazgeç

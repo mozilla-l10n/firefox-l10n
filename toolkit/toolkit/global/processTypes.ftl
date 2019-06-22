@@ -6,6 +6,12 @@ process-type-web = Web içeriği
 # process used to run privileged pages,
 # such as about:home
 process-type-privileged = Ayrıcalıklı içerik
+# process used to run privileged about pages,
+# such as about:home
+process-type-privilegedabout = Ayrıcalıklı about
+# process used to run privileged mozilla pages,
+# such as accounts.firefox.com
+process-type-privilegedmozilla = Ayrıcalıklı Mozilla içeriği
 process-type-extension = Eklenti
 # process used to open file:// URLs
 process-type-file = Yerel dosya
