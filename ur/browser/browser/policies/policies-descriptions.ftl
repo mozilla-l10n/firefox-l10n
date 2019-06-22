@@ -34,6 +34,7 @@ policy-DisableTelemetry = ٹیلی میٹری بند کریں۔
 policy-DisplayBookmarksToolbar = بک مارک ٹولبار طے شدہ طور پر ظاہر کریں۔
 policy-DisplayMenuBar = مینوبار طے شدہ طور پر ظاہر کریں۔
 policy-DNSOverHTTPS = HTTPS پرDNS ترتیب کریں۔
+policy-DontCheckDefaultBrowser = ابتدائی طور پر طے شدہ براؤزر کے لئے چیک کرنے کو غیر فعال کریں۔
 policy-FlashPlugin = Flash پلگ ان کے استعمال کا اجازت دینے یا انکار کریں۔
 policy-HardwareAcceleration = غلط ہونے کی صورت میں ہارڈویئر تیز رفتاری کو بند کریں۔
 # “lock” means that the user won’t be able to change this setting
