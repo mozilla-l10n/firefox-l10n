@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Gorde aldaketak
     .accesskey = G
+permissions-autoplay-menu = Webgune guztietarako lehenetsia:
 permissions-searchbox =
     .placeholder = Bilatu webgunea
+permissions-capabilities-autoplay-allow =
+    .label = Baimendu audioa eta bideoa
+permissions-capabilities-autoplay-block =
+    .label = Blokeatu audioa
+permissions-capabilities-autoplay-blockall =
+    .label = Blokeatu audioa eta bideoa
 permissions-capabilities-allow =
     .label = Baimendu
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = Baimendu
 permissions-capabilities-listitem-block =
     .value = Blokeatu
-permissions-capabilities-listitem-allow-first-party =
-    .value = Debekatu hirugarrenenak
 permissions-capabilities-listitem-allow-session =
     .value = Baimendu saiorako
 
@@ -97,6 +102,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Salbuespenak - Auto-erreprodukzioa
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Soinudun multimedia automatikoki erreproduzitzeko baimena duten edo ez duten webguneak ezar daitezke hemen. Idatzi baimendu nahi duzun webgunearen helbidea eta egin klik 'Blokeatu' edo 'Baimendu' botoian.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Ezarpenak - Erreprodukzio automatikoa
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Erreprodukzio automatikoko ezarpen lehenetsiak jarraitzen ez dituzten guneak hemen kudea ditzakezu.
 
 ## Site Permissions - Notifications
 

@@ -57,6 +57,12 @@ onboarding-fxa-title = Sinkronizatu
 onboarding-fxa-text = Sortu { -fxaccount-brand-name } kontua eta sinkronizatu zure laster-markak, pasahitzak eta irekitako fitxak { -brand-short-name } erabiltzen duzun leku orotan.
 onboarding-tracking-protection-button2 = Nola dabilen
 onboarding-browse-privately-button = Ireki leiho pribatua
+onboarding-lockwise-passwords-title = Eraman pasahitzak alboan
+onboarding-lockwise-passwords-text2 = Mantendu seguru gordetako pasahitzak eta hasi saioa zure kontuetan modu errazean { -lockwise-brand-name } erabiliz.
+onboarding-lockwise-passwords-button2 = Eskuratu aplikazioa
+onboarding-facebook-container-title = Ezarri mugak Facebookekin
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } erabilita zure profila gainontzeko guztitik bereiziko da eta Facebooki zailagoa egingo zaio haien iragarkien jomugan zu izatea.
+onboarding-facebook-container-button = Gehitu hedapena
 
 ## Message strings belonging to the Return to AMO flow
 

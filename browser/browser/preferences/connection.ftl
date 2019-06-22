@@ -70,16 +70,21 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Gaitu HTTPS gaineko DNSa
     .accesskey = G
-connection-dns-over-https-url = URLa
-    .accesskey = U
-    .tooltiptext = HTTPS gaineko DNSa ebazteko URLa
 # Variables:
 #   $url (String) - URL for the DNS over HTTPS provider
 connection-dns-over-https-url-default =
     .label = Erabili lehenetsia ({ $url })
     .accesskey = E
     .tooltiptext = Erabili URL lehenetsia HTTPS gaineko DNSa ebazteko
+connection-dns-over-https-url-resolver = Erabili hornitzailea
+    .accesskey = h
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (lehenetsia)
+    .tooltiptext = Erabili URL lehenetsia HTTPS gaineko DNSa ebazteko
 connection-dns-over-https-url-custom =
     .label = Pertsonalizatua
     .accesskey = P
     .tooltiptext = Idatzi HTTPS gaineko DNSa ebazteko hobetsitako URLa
+connection-dns-over-https-custom-label = Pertsonalizatua
