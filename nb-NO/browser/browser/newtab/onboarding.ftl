@@ -26,6 +26,7 @@ onboarding-join-form-body = Skriv inn e-postadressen din for å komme i gang.
 onboarding-join-form-email =
     .placeholder = Skriv inn e-postadresse
 onboarding-join-form-email-error = Gyldig e-postadresse kreves
+onboarding-join-form-legal = Ved å fortsette aksepterer du våre <a data-l10n-name="terms">tjenestevilkår</a> og <a data-l10n-name="privacy">personvernbestemmelser</a>.
 onboarding-join-form-continue = Fortsett
 onboarding-start-browsing-button-label = Start nettlesing
 
@@ -33,6 +34,16 @@ onboarding-start-browsing-button-label = Start nettlesing
 ## description.
 
 onboarding-benefit-products-title = Nyttige produkt
+onboarding-benefit-products-text = Få ting gjort med en familie av verktøy som respekterer personvernet ditt på alle dine enheter.
+onboarding-benefit-knowledge-title = Praktisk kunnskap
+onboarding-benefit-knowledge-text = Lær alt du trenger å vite for å forbli smartere og tryggere på nettet.
+onboarding-benefit-privacy-title = Ekte personvern
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Vi overholder vår lovnad om private data i alt vi gjør: Samle inn mindre. Oppbevar det sikkert. Ingen hemmeligheter.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -52,6 +63,23 @@ onboarding-ghostery-text = Surf raskere, smartere eller sikrere med utvidelser s
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synkroniser
 onboarding-fxa-text = Registrer deg for et { -fxaccount-brand-name } og synkroniser dine bokmerker, passord og åpne faner overalt hvor du bruker { -brand-short-name }.
+onboarding-tracking-protection-title2 = Beskyttelse mot sporing
+onboarding-tracking-protection-text2 = { -brand-short-name } bidrar til å stoppe nettsteder fra å spore deg på nettet, noe som gjør det vanskeligere for reklame å følge deg rundt på nettet.
+onboarding-tracking-protection-button2 = Hvordan det virker
+onboarding-data-sync-title = Ta med deg innstillingene dine
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Synkroniser dine bokmerker, passord og mer overalt hvor du bruker { -brand-product-name }.
+onboarding-data-sync-button2 = Logg inn på { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Vær oppmerksom på datalekkasjer
+onboarding-firefox-monitor-text = { -monitor-brand-name } overvåker om e-postenadressen din har dukket opp i datalekkasjer og varsler deg om det vises i en ny lekkasje.
+onboarding-firefox-monitor-button = Registrer deg for varslinger
+onboarding-browse-privately-title = Surf privat
+onboarding-browse-privately-text = Privat nettlesing fjerner din søke- og nettlesingshistorik for å holde den hemmelig fra andre som bruker din datamaskin.
+onboarding-browse-privately-button = Åpne et privat vindu
+onboarding-firefox-send-title = Hold de delte filene dine privat
+onboarding-firefox-send-text2 = Last opp filene dine til { -send-brand-name } for å dele dem med ende-til-ende-kryptering og en lenke som automatisk utløper.
+onboarding-firefox-send-button = Prøv { -send-brand-name }
+onboarding-mobile-phone-title = Last ned { -brand-product-name } til telefonen din
 
 ## Message strings belonging to the Return to AMO flow
 
