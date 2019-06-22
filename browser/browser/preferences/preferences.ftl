@@ -34,6 +34,7 @@ policies-notice =
         [windows] Din organisasjon har slått av muligheten til å endre visse innstillinger.
        *[other] Din organisasjon har slått av muligheten til å endre visse innstillinger.
     }
+managed-notice = Nettleseren din administreres av organisasjonen din.
 pane-general-title = Generelt
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = Personvern og sikkerhet
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox-konto
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -293,6 +290,13 @@ update-pref-write-failure-title = Skrivfeil
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Kan ikke lagre innstillinger. Kunne ikke skrive til filen: { $path }
+update-setting-write-failure-title = Kunne ikke lagre oppdateringsinnstillinger
+update-in-progress-title = Oppdatering pågår
+update-in-progress-message = Vil du at { -brand-short-name } skal fortsette med denne oppdateringen?
+update-in-progress-ok-button = &Avvis
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Fortsett
 
 ## General Section - Performance
 
@@ -528,8 +532,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Lagre
     .accesskey = L
-sync-mobilepromo-single = Koble til en annen enhet
-sync-mobilepromo-multi = Administrer enheter
 sync-connect-another-device = Koble til en annen enhet
 sync-manage-devices = Administrer enheter
 sync-fxa-begin-pairing = Tilknytt en enhet
@@ -549,6 +551,9 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = Unntak …
     .accesskey = n
+forms-generate-passwords =
+    .label = Foreslå og generer sterke passord
+    .accesskey = o
 forms-saved-logins =
     .label = Lagrede innlogginger …
     .accesskey = L
@@ -687,7 +692,6 @@ content-blocking-all-third-party-cookies = Alle tredjeparts infokapsler
 content-blocking-cryptominers = Kryptominere
 content-blocking-fingerprinters = Nettleseravtrykk
 content-blocking-warning-title = Se opp!
-content-blocking-warning-desc = Blokkering av infokapsler og sporere kan føre til at noen nettsteder slutter å fungere. Det er enkelt å deaktivere blokkering for nettsteder du stoler på.
 content-blocking-warning-description = Blokkering av innhold kan føre til at noen nettsteder slutter å fungere. Det er enkelt å deaktivere blokkering for nettsteder du stoler på.
 content-blocking-learn-how = Finn ut hvordan
 content-blocking-reload-description = Du må oppdatere fanene dine for å kunne bruke disse endringene.
@@ -754,6 +758,10 @@ permissions-block-autoplay-media2 =
 permissions-block-autoplay-media-exceptions =
     .label = Unntak…
     .accesskey = U
+permissions-autoplay = Automatisk avspilling
+permissions-autoplay-settings =
+    .label = Innstillinger…
+    .accesskey = t
 permissions-block-popups =
     .label = Blokker sprettoppvinduer
     .accesskey = B
