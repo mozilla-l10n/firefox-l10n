@@ -95,7 +95,7 @@ detail-update-manual =
 detail-private-browsing-label = Kjør i private vindu
 detail-private-browsing-description2 = Utvidelsen har tilgang til dine aktiviteter mens du bruker privat nettlesing, hvis du gir tilgang til det. <label data-l10n-name="detail-private-browsing-learn-more">Les mer</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
-# cannot be overriden by the user.
+# cannot be overridden by the user.
 detail-private-disallowed-label = Ikke tillatt i private vinduer
 detail-private-disallowed-description = Denne utvidelsen fungerer ikke under privat nettlesing. <label data-l10n-name="detail-private-browsing-learn-more">Les mer</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
@@ -158,6 +158,9 @@ private-browsing-description2 =
 extensions-view-discover =
     .name = Last ned utvidelser
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Anbefalinger
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Nylig oppdatert
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -238,7 +241,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Håndter snarveier for utvidelser
     .accesskey = s
-shortcuts-empty-message = Det er ingen snarveier for denne utvidelsen.
 shortcuts-no-addons = Du har ingen utvidelser aktivert.
 shortcuts-no-commands = Følgende utvidelser har ikke snarveier:
 shortcuts-input =
@@ -262,6 +264,11 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Vis mindre
 go-back-button =
     .tooltiptext = Gå tilbake
+
+## Recommended add-ons page
+
+discopane-notice-learn-more = Les mer
+privacy-policy = Personvernbestemmelser
 
 ## Add-on actions
 
@@ -288,3 +295,6 @@ addon-detail-reviews-link =
         [one] { $numberOfReviews } vurdering
        *[other] { $numberOfReviews } vurderinger
     }
+
+## Pending uninstall message bar
+

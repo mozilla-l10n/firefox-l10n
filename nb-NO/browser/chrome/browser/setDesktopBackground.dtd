@@ -18,3 +18,4 @@
 <!ENTITY setDesktopBackground.title "Sett skrivebordsbakgrunn">
 <!ENTITY openDesktopPrefs.label     "Åpne skrivebordsinnstillinger">
 <!ENTITY closeWindow.key            "w">
+<!ENTITY previewUnavailable         "Forhåndsvisning ikke tilgjengelig">
