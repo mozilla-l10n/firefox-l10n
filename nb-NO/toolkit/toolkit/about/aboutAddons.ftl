@@ -269,20 +269,51 @@ go-back-button =
 
 discopane-notice-learn-more = Les mer
 privacy-policy = Personvernbestemmelser
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = av <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Brukere: { $dailyUsers }
+install-extension-button = Legg til i { -brand-product-name }
+install-theme-button = Installer tema
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Behandle
+find-more-addons = Finn flere utvidelser
 
 ## Add-on actions
 
+report-addon-button = Rapporter
 remove-addon-button = Fjern
 disable-addon-button = Deaktiver
 enable-addon-button = Aktiver
 expand-addon-button = Flere innstillinger
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Innstillinger
+       *[other] Innstillinger
+    }
+details-addon-button = Detaljer
+release-notes-addon-button = Versjonsnotat
+permissions-addon-button = Tillatelser
 addons-enabled-heading = Aktivert
 addons-disabled-heading = Deaktivert
+ask-to-activate-button = Spør om aktivering
+always-activate-button = Aktiver alltid
+never-activate-button = Aktiver aldri
 addon-detail-author-label = Utvikler
 addon-detail-version-label = Versjon
 addon-detail-last-updated-label = Sist oppdatert
 addon-detail-homepage-label = Hjemmeside
 addon-detail-rating-label = Vurdering
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Vurdert { NUMBER($rating, maximumFractionDigits: 1) } av 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
