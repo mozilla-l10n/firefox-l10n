@@ -24,6 +24,7 @@ list-empty-button =
 install-addon-from-file =
     .label = ایڈ اون مسل سے تنصیب کریں...
     .accesskey = ت
+help-button = ایڈ اون ہمایت کردہ
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } اختیارات
@@ -76,6 +77,9 @@ detail-version =
 detail-last-updated =
     .label = آخری تازہ کاری
 detail-contributions-description = اس ایڈ اون کا ڈیولپر آپ سے درخواست کرتا ہے کہ آپ اس کی جاری تکمیل کاری کو کچھ مدد دے کر اس کی معاونت کریں۔
+detail-contributions-button = تعاون کریں
+    .title = اس ایڈ اون کے ڈیولپمینٹ میں تعاون کریں
+    .accesskey = C
 detail-update-type =
     .value = خودکار تازہ کاریاں
 detail-update-default =
