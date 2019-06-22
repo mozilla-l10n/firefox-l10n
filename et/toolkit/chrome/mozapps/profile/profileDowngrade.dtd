@@ -9,7 +9,7 @@
  Firefox" and "version" is used to mean "the specific revision number of a
  given Firefox channel". These terms are not synonymous.
 -->
-<!ENTITY window.title "Käivitatud on vanem versioon Firefoxist">
+<!ENTITY window.title "Käivitatud on Firefoxi vanem versioon">
 <!ENTITY window.style "width: 490px;">
 
 <!ENTITY window.nosync "Vanema Firefoxi versiooni kasutamine võib rikkuda järjehoidjad ning veebilehitsemise ajaloo, mis on olemasolevasse profiili juba salvestatud. Oma andmete kaitsmiseks soovitame luua selle &brandShortName;i paigalduse jaoks uue profiili.">
