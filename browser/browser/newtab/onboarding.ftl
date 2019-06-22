@@ -34,8 +34,16 @@ onboarding-start-browsing-button-label = Aloita selaaminen
 ## description.
 
 onboarding-benefit-products-title = Hyödyllisiä tuotteita
+onboarding-benefit-products-text = Hoida hommat välineillä, jotka kunnioittavat yksityisyyttäsi kaikilla laitteilla.
 onboarding-benefit-knowledge-title = Käytännöllistä tietoutta
+onboarding-benefit-knowledge-text = Lue kaikki tarvittava siitä, miten toimia fiksummin ja turvallisemmin verkossa.
 onboarding-benefit-privacy-title = Todellista yksityisyyttä
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Kaikki toimintamme kunnioittaa henkilötietolupaustamme: Kerää vähemmän. Pidä ne turvassa. Ei salaisuuksia.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -56,20 +64,39 @@ onboarding-ghostery-text = Selaa nopeammin, älykkäämmin tai turvallisemmin la
 onboarding-fxa-title = Synkronointi
 onboarding-fxa-text = Luo { -fxaccount-brand-name } ja synkronoi kirjanmerkit, salasanat ja avoimet välilehdet kaikkialla, missä käytät { -brand-short-name }ia.
 onboarding-tracking-protection-title2 = Suojaa seurannalta
+onboarding-tracking-protection-text2 = { -brand-short-name } auttaa estämään sivustoja seuraamasta sinua verkossa, vaikeuttaen mainoksia seuraamasta sinua ympäri verkkoa.
 onboarding-tracking-protection-button2 = Kuinka se toimii
 onboarding-data-sync-title = Ota asetukset mukaasi
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Synkronoi kirjanmerkit, salasanat ja paljon muuta kaikkialla, missä käytät { -brand-product-name }ia.
+onboarding-data-sync-button2 = Kirjaudu sisään { -sync-brand-short-name }-palveluun
+onboarding-firefox-monitor-title = Pysy ajan tasalla tietovuodoista
+onboarding-firefox-monitor-text = { -monitor-brand-name } tarkkailee, onko sähköpostiosoitteesi ollut mukana tietovuodossa, ja ilmoittaa, jos se on mukana uudessa tietovuodossa.
+onboarding-firefox-monitor-button = Tilaa ilmoitukset
 onboarding-browse-privately-title = Selaa yksityisesti
+onboarding-browse-privately-text = Yksityinen selaus tyhjentää haku- ja selaushistorian, jotta se säilyy salassa kaikilta muilta, jotka käyttävät tietokonettasi.
 onboarding-browse-privately-button = Avaa yksityinen ikkuna
 onboarding-firefox-send-title = Pidä jakamasi tiedostot yksityisinä
+onboarding-firefox-send-text2 = Lataa tiedostosi { -send-brand-name } -palveluun, kun haluat jakaa ne käyttäen läpisalausta ja linkkiä, joka vanhenee automaattisesti.
+onboarding-firefox-send-button = Kokeile { -send-brand-name } -palvelua
 onboarding-mobile-phone-title = Hanki { -brand-product-name } puhelimeesi
+onboarding-mobile-phone-text = Lataa { -brand-product-name } iOS:lle tai Androidille ja synkronoi tietosi laitteiden välillä.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Lataa mobiiliselain
 onboarding-send-tabs-title = Lähetä välilehtiä itsellesi välittömästi
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Välilehden lähettämisen avulla voit jakaa sivuja laitteidesi välillä, tarvitsematta kopioida, liittää tai poistua selaimesta.
+onboarding-send-tabs-button = Ala käyttää välilehden lähettämistä
+onboarding-pocket-anywhere-title = Lue ja kuuntele kaikkialla
+onboarding-pocket-anywhere-text2 = Tallenna suosikkisisältösi paikallisesti { -pocket-brand-name } -sovelluksella ja lue, kuuntele sekä katsele, kun sinulle sopii.
 onboarding-pocket-anywhere-button = Kokeile { -pocket-brand-name }-palvelua
 onboarding-lockwise-passwords-title = Ota salasanat mukaasi kaikkialle
+onboarding-lockwise-passwords-text2 = Pidä tallentamasi salasanat turvassa ja kirjaudu tileillesi helposti { -lockwise-brand-name } -ohjelmalla.
 onboarding-lockwise-passwords-button2 = Hanki sovellus
 onboarding-facebook-container-title = Aseta rajat Facebookille
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } pitää profiilisi erillään kaikesta muusta, vaikeuttaen Facebookia kohdentamasta mainoksia sinulle.
 onboarding-facebook-container-button = Lisää laajennus
 
 ## Message strings belonging to the Return to AMO flow
