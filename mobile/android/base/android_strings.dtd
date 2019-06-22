@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "Mažiau duomenų, daugiau taupymo">
 <!ENTITY firstrun_data_subtext2 "Blokuokite paveikslus, norėdami svetainėse sunaudoti mažiau duomenų.">
 <!ENTITY firstrun_sync_title "Sinchronizavimas">
+<!ENTITY updatednewfirstrun_sync_title "Paskyra">
 <!ENTITY firstrun_sync_message2 "Tęskite nuo ten, kur baigėte.">
 <!ENTITY firstrun_sync_subtext2 "Naudokitės „Sync“ norėdami rasti adresyno įrašus, slaptažodžius bei kitus su „&brandShortName;“ išsaugotus dalykus, visuose savo įrenginiuose.">
 <!ENTITY newfirstrun_sync_subtext "Sinchronizuokite mobiliojoje „Firefox“ įrašytus dalykus su kompiuterine „Firefox“, privačiai ir saugiai.">
