@@ -36,6 +36,12 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = Cari Situs Web
+permissions-capabilities-autoplay-allow =
+    .label = Izinkan Audio dan Video
+permissions-capabilities-autoplay-block =
+    .label = Blokir Audio
+permissions-capabilities-autoplay-blockall =
+    .label = Blokir Audio dan Video
 permissions-capabilities-allow =
     .label = Izinkan
 permissions-capabilities-block =
@@ -95,6 +101,9 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Kekecualian - Putar Otomatis
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Anda dapat menentukan situs web mana saja yang selalu atau tidak diizinkan memutar otomatis media dengan suara. Ketik alamat situs yang akan diatur, lalu klik Blokir atau Izinkan.
+
+## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 

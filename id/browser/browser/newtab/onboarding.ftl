@@ -89,6 +89,9 @@ onboarding-send-tabs-title = Kirim Tab Secara Instan
 # tab's context menu.
 onboarding-send-tabs-text = Kirim Tab secara instan membagikan laman di antara perangkat Anda tanpa harus menyalin, menempel, atau meninggalkan peramban.
 onboarding-pocket-anywhere-title = Baca dan Dengarkan di Mana Saja
+onboarding-pocket-anywhere-button = Coba { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Bawa Sandi Anda ke Mana Saja
+onboarding-lockwise-passwords-button2 = Dapatkan Aplikasinya
 
 ## Message strings belonging to the Return to AMO flow
 
