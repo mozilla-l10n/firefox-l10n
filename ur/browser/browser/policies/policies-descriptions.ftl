@@ -35,11 +35,18 @@ policy-DisplayBookmarksToolbar = بک مارک ٹولبار طے شدہ طور �
 policy-DisplayMenuBar = مینوبار طے شدہ طور پر ظاہر کریں۔
 policy-DNSOverHTTPS = HTTPS پرDNS ترتیب کریں۔
 policy-DontCheckDefaultBrowser = ابتدائی طور پر طے شدہ براؤزر کے لئے چیک کرنے کو غیر فعال کریں۔
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = مواد روکنے کو فعال یا غیر فعال کر اور اس کے بعد اختیاری طور پر اس کو بند کردیں۔
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = ایکسٹنشن کو انسٹال، ان انسٹال یا لاک کریں۔ انسٹال اختیارات URL یا پاتھ کو بطور پیرامیٹر لیتا ہے۔ ان انسٹال یا لاک کے اختیار ایکسٹنش آئی ڈی کے تحت کام کرتے ہیں۔
 policy-FlashPlugin = Flash پلگ ان کے استعمال کا اجازت دینے یا انکار کریں۔
 policy-HardwareAcceleration = غلط ہونے کی صورت میں ہارڈویئر تیز رفتاری کو بند کریں۔
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = ابتدائی صفحہ سیٹ کریں اور اختیاری طور پر تالا بندی کرِں۔
 policy-InstallAddonsPermission = چند ویب سائٹص کو اظافہ جات کی تنسیب کاری کی اجازت دیں۔
+policy-NoDefaultBookmarks = { -brand-short-name } کے ساتھ آئے ہوئے طے شدہ بکمارک، اور سمارٹ بکمارک (سب سے زیادہ ملاحظہ کردہ، حالیہ ٹیگز)، کی تخلیق کو غیر فعال کرے۔ نوٹ: یہ پالسی تبھی مؤثر ہوگی جب پروفائل کے پہلی بار چلانے میں استعمال کی ہوئ ہوگی۔
 policy-Proxy = پراکسی ترتیبات ترتیب کریں۔
 policy-SanitizeOnShutdown = بند کرنے پر تمام نیویگیشن ڈیٹا صاف کریں۔
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
