@@ -131,7 +131,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Cetak…">
 <!ENTITY printCmd.accesskey "C">
 <!ENTITY printCmd.commandkey "p">
-
 <!ENTITY importFromAnotherBrowserCmd.label "Impor dari Peramban Lain…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
@@ -342,6 +341,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Anda telah memblokir situs ini menggunakan pengaya Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Anda telah memblokir akses MIDI untuk situs web ini.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tampilkan riwayat">
 
 <!ENTITY searchItem.title             "Cari">
@@ -439,7 +439,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "g">
 <!ENTITY preferencesCmdUnix.label       "Pengaturan">
 <!ENTITY preferencesCmdUnix.accesskey     "g">
-
 <!ENTITY logins.label                           "Info Masuk dan Sandi">
 
 <!ENTITY clearRecentHistory.label               "Bersihkan Riwayat Terakhir">
@@ -530,6 +529,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
 <!ENTITY customizeMenu.removeExtension.label "Hapus Ekstensi">
 <!ENTITY customizeMenu.removeExtension.accesskey "h">
+
+<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
+     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.label "Laporkan Ekstensi">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -880,6 +884,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Laman ini dimuat dari ekstensi.">
 <!ENTITY identity.insecureLoginForms2 "Info masuk yang dimasukkan di laman ini bisa diketahui orang lain.">
 
+
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; telah memblokir bagian dari laman ini yang tidak aman.">
 <!ENTITY identity.passiveLoaded "Bagian dari laman ini tidak aman (misalnya, gambar).">
@@ -897,6 +902,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Meskipun &brandShortName; telah memblokir sejumlah konten, tetapi masih ada konten di laman ini yang tidak aman (misalnya gambar).">
 <!ENTITY identity.description.activeLoaded "Situs web ini mengandung konten yang tidak aman (misalnya skrip) dan sambungan Anda tidak pribadi.">
 <!ENTITY identity.description.activeLoaded2 "Informasi yang Anda bagikan dengan situs ini dapat dilihat oleh pihak lain (misalnya sandi, pesan, kartu kredit, dll.)">
+
 
 <!ENTITY identity.enableMixedContentBlocking.label "Aktifkan perlindungan">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "A">
