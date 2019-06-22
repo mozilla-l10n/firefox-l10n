@@ -32,8 +32,15 @@ app-basics-name = Adı
 app-basics-version = Sürüm
 app-basics-build-id = Yapı numarası
 app-basics-update-channel = Güncelleme kanalı
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Güncelleme dizini
+       *[other] Güncelleme klasörü
+    }
 app-basics-update-history = Güncelleme geçmişi
 app-basics-show-update-history = Güncelleme geçmişini göster
+# Represents the path to the binary used to start the application.
+app-basics-binary = Çalıştırılabilir uygulama dosyası
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Profil dizini
@@ -79,6 +86,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Karar günlüğü
 graphics-crash-guards-title = Çökme koruyucusu tarafından kapatılan özellikler
 graphics-workarounds-title = Çözümler
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Pencere protokolü
 place-database-title = Places veritabanı
 place-database-integrity = Bütünlük
 place-database-verify-integrity = Bütünlüğü doğrula
