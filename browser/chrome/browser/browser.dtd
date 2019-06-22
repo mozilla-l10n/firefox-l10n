@@ -1133,6 +1133,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "K">
 <!ENTITY updateRestart.cancelButton.label "Jangan Sekarang">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateUnsupported.panelUI.label "Anda tidak dapat melakukan pembaruan lebih lanjut">
 <!ENTITY updateRestart.panelUI.label2 "Mulai ulang untuk memutakhirkan &brandShorterName;">
 
 <!ENTITY newTabControlled.header.message "Tab Baru Anda telah berubah.">
