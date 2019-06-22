@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Lagre endringer
     .accesskey = L
+permissions-autoplay-menu = Standard for alle nettsteder:
 permissions-searchbox =
     .placeholder = Søk på nettside
+permissions-capabilities-autoplay-allow =
+    .label = Tillat lyd og video
+permissions-capabilities-autoplay-block =
+    .label = Blokker lyd
+permissions-capabilities-autoplay-blockall =
+    .label = Blokker lyd og video
 permissions-capabilities-allow =
     .label = Tillat
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = Tillat
 permissions-capabilities-listitem-block =
     .value = Blokker
-permissions-capabilities-listitem-allow-first-party =
-    .value = Tillat bare fra egen kilde
 permissions-capabilities-listitem-allow-session =
     .value = Tillat for programøkten
 
@@ -58,10 +63,6 @@ permissions-invalid-uri-label = Skriv inn et gyldig servernavn
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Unntak - sporingsbeskyttelse
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Du har slått av sporingsbeskyttelse på disse nettstedene.
 permissions-exceptions-content-blocking-window =
     .title = Unntak - innholdsblokkering
     .style = { permissions-window.style }
@@ -101,6 +102,12 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Unntak - autoavspilling
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Du kan spesifisere hvilke nettsteder som alltid eller aldri kan spille av  media med lyd. Skriv inn nettstedsadressen og trykk Blokker eller Tillat.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Innstillinger - Automatisk avspilling
+    .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 

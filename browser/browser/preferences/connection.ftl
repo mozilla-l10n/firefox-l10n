@@ -70,16 +70,21 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Aktiver DNS-over-HTTPS
     .accesskey = H
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = URL for å slå opp DNS-over-HTTPS
 # Variables:
 #   $url (String) - URL for the DNS over HTTPS provider
 connection-dns-over-https-url-default =
     .label = Bruk standard ({ $url })
     .accesskey = u
     .tooltiptext = Bruk standardnettadressen for å slå opp DNS over HTTPS
+connection-dns-over-https-url-resolver = Bruk leverandør
+    .accesskey = B
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (standard)
+    .tooltiptext = Bruk standard-URL-en til DNS-oppslag over HTTPS
 connection-dns-over-https-url-custom =
     .label = Tilpasset
     .accesskey = s
     .tooltiptext = Angi din foretrukne nettadresse for å slå opp DNS over HTTPS
+connection-dns-over-https-custom-label = Tilpasset

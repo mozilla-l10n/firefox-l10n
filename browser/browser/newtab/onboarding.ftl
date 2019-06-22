@@ -80,6 +80,23 @@ onboarding-firefox-send-title = Hold de delte filene dine privat
 onboarding-firefox-send-text2 = Last opp filene dine til { -send-brand-name } for å dele dem med ende-til-ende-kryptering og en lenke som automatisk utløper.
 onboarding-firefox-send-button = Prøv { -send-brand-name }
 onboarding-mobile-phone-title = Last ned { -brand-product-name } til telefonen din
+onboarding-mobile-phone-text = Last ned { -brand-product-name } for iOS eller Android og synkroniser dine data mellom enheter.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Last ned mobilnettleser
+onboarding-send-tabs-title = Send øyeblikkelig faner til deg selv
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Send faner deler øyeblikkelig sider mellom enhetene dine uten å måtte kopiere, lime inn eller forlate nettleseren.
+onboarding-send-tabs-button = Begynn å bruke send fane
+onboarding-pocket-anywhere-title = Les og lytt hvor som helst
+onboarding-pocket-anywhere-text2 = Lagre favorittinnholdet ditt frakoblet med { -pocket-brand-name } appen. Så kan du lese, lytt og se når det passer deg.
+onboarding-pocket-anywhere-button = Prøv { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Ta med deg passordene dine overalt
+onboarding-lockwise-passwords-button2 = Last ned appen
+onboarding-facebook-container-title = Sett grenser for Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } holder din profil skilt unna alt annet, som gjør det vanskeligere for Facebook å målrette annonser mot deg.
+onboarding-facebook-container-button = Legg til utvidelsen
 
 ## Message strings belonging to the Return to AMO flow
 

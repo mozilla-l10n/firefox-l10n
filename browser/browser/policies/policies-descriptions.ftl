@@ -21,6 +21,7 @@ policy-Bookmarks = Opprett bokmerker i bokmerkeverktøylinjen, i bokmerkermenyen
 policy-CaptivePortal = Aktiver eller deaktiver støtte for captive portal.
 policy-CertificatesDescription = Legg til sertifikater eller bruk innebygde sertifikater.
 policy-Cookies = Tillat eller nekt nettsteder å lagre infokapsler.
+policy-DefaultDownloadDirectory = Velg standardmappe for nedlastinger.
 policy-DisableAppUpdate = Forhindre oppdatering av nettleseren.
 policy-DisableBuiltinPDFViewer = Deaktiver PDF.js, det innebygde PDF-visningsprogrammet i { -brand-short-name }
 policy-DisableDeveloperTools = Blokker tilgang til utviklerverktøyene.
@@ -43,15 +44,18 @@ policy-DisableSystemAddonUpdate = Forhindre at nettleseren installerer og oppdat
 policy-DisableTelemetry = Slå av av telemetri.
 policy-DisplayBookmarksToolbar = Vise bokmerkeverktøylinjen som standard.
 policy-DisplayMenuBar = Vise menylinjen som standard.
-policy-DNSOverHTTPS = Konfigurer DNS over HTTPS.
+policy-DNSOverHTTPS = Konfigurer DNS-oppslag over HTTPS.
 policy-DontCheckDefaultBrowser = Deaktiver sjekk om standard-nettleser ved oppstart.
+policy-DownloadDirectory = Angi og lås netlastingskatalogen.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Aktiver eller deaktiver innholdsblokkering med mulighet til å låse valget.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Installere, avinstallere eller låse utvidelser. Installeringsalternativet tar nettadresser eller baner som parametere. Avinstallerings- og Låse-alternativene tar utvidelses-ID som parameter.
+policy-ExtensionSettings = Håndter alle aspekter av utvidelsesinstallasjon.
 policy-ExtensionUpdate = Slå på eller slå av automatisk utvidelsesoppdateringer.
+policy-FirefoxHome = Konfigurer Firefox startside.
 policy-FlashPlugin = Tillat eller nekt bruk av programtillegget Flash.
 policy-HardwareAcceleration = Hvis deaktivert, slå av maskinvareakselerasjon.
 # “lock” means that the user won’t be able to change this setting
@@ -67,6 +71,7 @@ policy-OverridePostUpdatePage = Bytt ut «Hva er nytt»-siden som blir vist ette
 policy-Permissions = Stille inn tillatelser for kamera, mikrofon, plassering og varsler.
 policy-PopupBlocking = Tillat at visse nettsteder skal kunne vise sprettoppvinduer som standard.
 policy-Preferences = Still inn og lås verdien for en undergruppe av innstillingene.
+policy-PromptForDownloadLocation = Spør hvor du skal lagre filer når du laster ned.
 policy-Proxy = Konfigurer proxy-innstillinger.
 policy-RequestedLocales = Velg rekkefølgen av språk, som skal brukes i programmet.
 policy-SanitizeOnShutdown = Fjern alle nettlesingsdata ved avslutning.
