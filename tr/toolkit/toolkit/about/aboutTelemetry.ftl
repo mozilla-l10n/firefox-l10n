@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Ping verisi kaynağı:
-about-telemetry-show-current-ping-data = Şu anki ping verisi
-about-telemetry-show-archived-ping-data = Arşivlenmiş ping verisi
+about-telemetry-show-current-ping-data = Şu anki ping verileri
+about-telemetry-show-archived-ping-data = Arşivlenmiş ping verileri
 about-telemetry-show-subsession-data = Alt oturum verilerini göster
 about-telemetry-choose-ping = Ping'i seçin:
 about-telemetry-archive-ping-type = Ping türü
@@ -15,6 +15,7 @@ about-telemetry-option-group-older = Daha eski
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Telemetri Verileri
+about-telemetry-current-store = Geçerli depo:
 about-telemetry-more-information = Daha fazla bilgi almak mı istiyorsunuz?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox Veri Belgeleri</a>, veri araçlarlarımızla nasıl çalışabileceğinize dair rehberleri içerir.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox Telemetri istemcisi belgeleri</a> kavram tanımlarını, API belgelerini ve veri referanslarını içerir.
