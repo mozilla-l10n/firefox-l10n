@@ -329,3 +329,31 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> er fjernet.
+pending-uninstall-undo-button = Angre
+addon-detail-updates-label = Tillat automatiske oppdateringer
+addon-detail-updates-radio-default = Standard
+addon-detail-updates-radio-on = På
+addon-detail-updates-radio-off = Av
+addon-detail-update-check-label = Se etter oppdateringer
+install-update-button = Oppdater
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Tillat i private vindu
+addon-detail-private-browsing-allow = Tillat
+addon-detail-private-browsing-disallow = Ikke tillat
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Anbefalt
+    .alt = Anbefalt
+available-updates-heading = Tilgjengelige oppdateringer
+recent-updates-heading = Nylig oppdatert
+release-notes-loading = Laster…
+release-notes-error = Beklager, men en feil oppstod under lasting av versjonsnotatet.
+addon-permissions-empty = Denne utvidelsen krever ingen tillatelser
+recommended-extensions-heading = Anbefalte utvidelser
+recommended-themes-heading = Anbefalte temaer

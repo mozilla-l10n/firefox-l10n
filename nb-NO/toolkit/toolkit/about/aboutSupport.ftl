@@ -32,8 +32,15 @@ app-basics-name = Navn
 app-basics-version = Versjon
 app-basics-build-id = Bygg-ID
 app-basics-update-channel = Oppdateringskanal
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Oppdateringsmappe
+       *[other] Oppdateringsmappe
+    }
 app-basics-update-history = Oppdateringshistorikk
 app-basics-show-update-history = Vis oppdateringshistorikk
+# Represents the path to the binary used to start the application.
+app-basics-binary = Programfil
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Profilmappe
@@ -79,6 +86,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Beslutningslogg
 graphics-crash-guards-title = Krasjvern avslåtte funksjoner
 graphics-workarounds-title = Midlertidige løsninger
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Protokoll for vindusbehandler
 place-database-title = Plasser-database
 place-database-integrity = Integritet
 place-database-verify-integrity = Verifiser integritet
@@ -196,6 +205,7 @@ gpu-device-id = Device ID
 gpu-subsys-id = Subsys ID
 gpu-drivers = Drivere
 gpu-ram = RAM
+gpu-driver-vendor = Driver-produsent
 gpu-driver-version = Driverversjon
 gpu-driver-date = Driverdato
 gpu-active = Aktiv
