@@ -290,6 +290,12 @@ update-pref-write-failure-title = Kirjoittaminen epäonnistui
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Asetuksen tallentaminen epäonnistui. Ei voitu kirjoittaa tiedostoon: { $path }
+update-in-progress-title = Päivitys meneillään
+update-in-progress-message = Haluatko, että { -brand-short-name } jatkaa tämän päivityksen asentamista?
+update-in-progress-ok-button = &Hylkää
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Jatka
 
 ## General Section - Performance
 
@@ -748,6 +754,7 @@ permissions-block-autoplay-media2 =
 permissions-block-autoplay-media-exceptions =
     .label = Poikkeukset…
     .accesskey = P
+permissions-autoplay = Automaattinen toisto
 permissions-autoplay-settings =
     .label = Asetukset…
     .accesskey = t

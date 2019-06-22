@@ -105,6 +105,9 @@ permissions-exceptions-autoplay-media-desc2 = Voit valita, mitkä sivustot saava
 
 ## Site Permissions - Autoplay
 
+permissions-site-autoplay-window =
+    .title = Asetukset - Automaattinen toisto
+    .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 
