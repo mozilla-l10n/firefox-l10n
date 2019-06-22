@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "Datu gutxiago, aurrezpen handiagoa">
 <!ENTITY firstrun_data_subtext2 "Desaktibatu irudiak datu gutxiago gastatzeko bisitatzen duzun gune bakoitzean.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY updatednewfirstrun_sync_title "Kontua">
 <!ENTITY firstrun_sync_message2 "Jarraitu utzi zenuen tokitik.">
 <!ENTITY firstrun_sync_subtext2 "Erabili Sync laster-markak, pasahitza eta &brandShortName;(r)en gailu guztietan gordetzen dituzun beste gauzak aurkitzeko.">
 <!ENTITY newfirstrun_sync_subtext "Sinkronizatu mugikorrean gordetako gauzak mahaigainerako Firefoxekin, modu pribatu eta seguruan.">
