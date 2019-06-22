@@ -108,6 +108,7 @@ permissions-exceptions-autoplay-media-desc2 = Du kan spesifisere hvilke nettsted
 permissions-site-autoplay-window =
     .title = Innstillinger - Automatisk avspilling
     .style = { permissions-window.style }
+permissions-site-autoplay-desc = Du kan håndtere de nettsteder som ikke følger dine standardinnstillinger for automatisk avspilling her.
 
 ## Site Permissions - Notifications
 
