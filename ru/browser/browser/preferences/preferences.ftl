@@ -294,6 +294,14 @@ update-pref-write-failure-title = Ошибка записи
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Не удалось сохранить настройку. Не удалось произвести запись в файл: { $path }
 update-setting-write-failure-title = Ошибка при сохранении настроек обновления
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } столкнулся с ошибкой и не смог сохранить это изменение. Обратите внимание, что для установки этой настройки обновления требуется разрешение на запись в файл, указанный ниже. Вы или системный администратор можете исправить эту проблему, если предоставите группе «Пользователи» полный доступ к этому файлу.
+    
+    Не удалось произвести запись в файл: { $path }
 update-in-progress-title = Идёт обновление
 update-in-progress-message = Вы хотите продолжить обновление { -brand-short-name }?
 update-in-progress-ok-button = &Отменить
@@ -554,6 +562,9 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = Исключения…
     .accesskey = ю
+forms-generate-passwords =
+    .label = Предлагать и генерировать надежные пароли
+    .accesskey = н
 forms-saved-logins =
     .label = Сохранённые логины…
     .accesskey = х
