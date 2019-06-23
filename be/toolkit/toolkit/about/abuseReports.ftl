@@ -12,6 +12,11 @@ abuse-report-learnmore =
     Няўпэўнены, якую праблему выбраць?
     <a data-l10n-name="learnmore-link">Даведацца больш аб паведамленні пра пашырэнні і тэмы</a>
 abuse-report-submit-description = Апішыце праблему (неабавязкова)
+abuse-report-textarea =
+    .placeholder = Нам лягчэй вырашыць праблему, калі нам вядомы падрабязнасці. Калі ласка, апішыце, што здарылася. Дзякуем, што дапамагаеце падтрымліваць здароўе сеціва.
+abuse-report-submit-note =
+    Заўвага. Не ўключайце асабістую інфармацыю (напрыклад, імя, адрас электроннай пошты, нумар тэлефона, фізічны адрас).
+    { -vendor-short-name } трымае сталыя запісы гэтых справаздач.
 
 ## Panel buttons.
 
@@ -30,6 +35,10 @@ abuse-report-messagebar-aborted = Справаздача аб <span data-l10n-na
 abuse-report-messagebar-submitting = Адпраўляецца паведамленне пра <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Дзякуем за прадстаўленую справаздачу. Хочаце выдаліць <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = Дзякуем за прадстаўленую справаздачу.
+abuse-report-messagebar-removed-extension = Дзякуй за прадстаўленую справаздачу. Вы выдалілі пашырэнне <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-theme = Дзякуй за прадстаўленую справаздачу. Вы выдалілі <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error = Памылка пры адпраўцы справаздачы для <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error-recent-submit = Справаздача пра <span data-l10n-name="addon-name">{ $addon-name }</span> не адпраўлена, бо нядаўна была пададзена яшчэ адна справаздача.
 
 ## Message bars actions.
 
@@ -43,12 +52,16 @@ abuse-report-messagebar-action-cancel = Скасаваць
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-damage-reason = Псуе мой камп'ютар і дадзеныя
+abuse-report-damage-example = Прыклад: Укаранёна шкодная праграма або скрадзены дадзеныя
 abuse-report-spam-reason = Стварае спам або рэкламу
 abuse-report-spam-example = Прыклад: устаўлены аб'явы на вэб-старонках
 abuse-report-settings-reason = Змяніў маю пошукавую сістэму, хатнюю старонку або новую картку, не інфармуючы і не спытаўшы мяне
 abuse-report-settings-suggestions = Перш чым паведаміць аб пашырэнні, вы можаце паспрабаваць змяніць параметры:
 abuse-report-settings-suggestions-search = Змяніць прадвызначаныя налады пошуку
 abuse-report-settings-suggestions-homepage = Змяніць хатнюю старонку і новую картку
+abuse-report-deceptive-reason = Выдае сябе за тое, чым не з'яўляецца
+abuse-report-deceptive-example = Прыклад: Апісанне або выява ўводзіць у зман
+abuse-report-broken-reason-extension = Не працуе, псуе вэб-сайты або запавольвае { -brand-product-name }
 abuse-report-broken-reason-theme = Не працуе або парушае адлюстраванне браўзера
 abuse-report-broken-example = Прыклад: функцыі марудныя, цяжкія ў выкарыстанні або не працуюць; часткі сайтаў не загружаюцца ці выглядаюць незвычайна
 abuse-report-policy-reason = Ненавісны, гвалтоўны або незаконны змест
