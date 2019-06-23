@@ -24,7 +24,7 @@ onboarding-welcome-learn-more = Lue lisää hyödyistä.
 onboarding-join-form-header = Liity { -brand-product-name }iin
 onboarding-join-form-body = Aloita kirjoittamalla sähköpostiosoitteesi.
 onboarding-join-form-email =
-    .placeholder = Anna sähköpostiosoite
+    .placeholder = Kirjoita sähköpostiosoite
 onboarding-join-form-email-error = Kelvollinen sähköposti vaaditaan
 onboarding-join-form-legal = Jatkamalla hyväksyt <a data-l10n-name="terms">käyttöehdot</a> ja <a data-l10n-name="privacy">tietosuojaselosteen</a>.
 onboarding-join-form-continue = Jatka
@@ -36,7 +36,7 @@ onboarding-start-browsing-button-label = Aloita selaaminen
 onboarding-benefit-products-title = Hyödyllisiä tuotteita
 onboarding-benefit-products-text = Hoida hommat välineillä, jotka kunnioittavat yksityisyyttäsi kaikilla laitteilla.
 onboarding-benefit-knowledge-title = Käytännöllistä tietoutta
-onboarding-benefit-knowledge-text = Lue kaikki tarvittava siitä, miten toimia fiksummin ja turvallisemmin verkossa.
+onboarding-benefit-knowledge-text = Lue, miten toimia fiksummin ja turvallisemmin verkossa.
 onboarding-benefit-privacy-title = Todellista yksityisyyttä
 # "Personal Data Promise" is a concept that should be translated consistently
 # across the product. It refers to a concept shown elsewhere to the user: "The
