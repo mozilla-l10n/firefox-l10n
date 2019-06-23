@@ -5,7 +5,13 @@
 process-type-web = Verkkosisältö
 # process used to run privileged pages,
 # such as about:home
-process-type-privileged = Privileged-sisältö
+process-type-privileged = Etuoikeutettu sisältö
+# process used to run privileged about pages,
+# such as about:home
+process-type-privilegedabout = Etuoikeutettu about-sivu
+# process used to run privileged mozilla pages,
+# such as accounts.firefox.com
+process-type-privilegedmozilla = Etuoikeutettu Mozilla-sisältö
 process-type-extension = Laajennus
 # process used to open file:// URLs
 process-type-file = Paikallinen tiedosto
