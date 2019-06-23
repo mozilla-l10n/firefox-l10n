@@ -262,6 +262,19 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Кеңейтулер және темалар сіздің браузеріңіз үшін қолданбалар сияқты,
+    олардың көмегімен парольдерді қорғау, видеоларды жүктеп алу,
+    жеңілдіктерді табу, жарнаманы бұғаттау, браузердің сыртқы түрін өзгерту,
+    және т.б. жасауға болады. Бұндай кішігірім БҚ жиі үшінші жақтармен
+    жасалады. { -brand-product-name } қосымша қауіпсіздік, өнімділік және
+    мүмкіндіктері үшін <a data-l10n-name="learn-more-trigger">ұсынатын</a> тізім.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Бұл ұсыныстардың кейбіреулері жекеленген. Олар сіз басқа орнатқан кеңейтулер,
+    профиль баптаулары және қолданылу статистикасына негізделген.
 discopane-notice-learn-more = Көбірек білу
 privacy-policy = Жекелік саясаты
 # Refers to the author of an add-on, shown below the name of the add-on.
@@ -337,6 +350,7 @@ install-update-button = Жаңарту
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Жекелік терезелерінде рұқсат етілген
+addon-detail-private-browsing-help = Рұқсат етілген кезде, кеңейту жекелік шолу кезінде сіздің желілік белсенділігіңізге қол жеткізе алады. <a data-l10n-name="learn-more">Көбірек білу</a>
 addon-detail-private-browsing-allow = Рұқсат ету
 addon-detail-private-browsing-disallow = Рұқсат етпеу
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
@@ -351,3 +365,6 @@ release-notes-error = Кешіріңіз, шығарылым ескертпес�
 addon-permissions-empty = Бұл кеңейту ешқандай рұқсаттарды қажет етпейді
 recommended-extensions-heading = Ұсынылатын кеңейтулер
 recommended-themes-heading = Ұсынылатын темалар
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Шабытты сезіп тұрсыз ба? <a data-l10n-name="link">Firefox Color көмегімен өз темаңызды жасаңыз.</a>
