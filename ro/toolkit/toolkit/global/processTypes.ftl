@@ -8,7 +8,7 @@ process-type-web = Conținut web
 process-type-privileged = Conținut privilegiat
 # process used to run privileged about pages,
 # such as about:home
-process-type-privilegedabout = Pagina despre privilegiate
+process-type-privilegedabout = Pagina „about” privilegiată
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = Conținut privilegiat Mozilla

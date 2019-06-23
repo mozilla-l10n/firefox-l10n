@@ -37,27 +37,27 @@ app-basics-build-id = ID-ul versiunii compilate
 app-basics-update-channel = Canal de actualizare
 app-basics-update-dir =
     { PLATFORM() ->
-        [linux] Actualizează directorul
-       *[other] Actualizează dosarul
+        [linux] Directorul actualizărilor
+       *[other] Dosarul actualizărilor
     }
 app-basics-update-history = Istoricul actualizărilor
 app-basics-show-update-history = Afișează istoricul actualizărilor
 # Represents the path to the binary used to start the application.
-app-basics-binary = Fișier binar al aplicației
+app-basics-binary = Fișierul binar al aplicației
 app-basics-profile-dir =
     { PLATFORM() ->
-        [linux] Director de profiluri
-       *[other] Dosar de profiluri
+        [linux] Directorul profilurilor
+       *[other] Dosarul profilurilor
     }
 app-basics-enabled-plugins = Pluginuri activate
 app-basics-build-config = Configurația versiunii compilate
 app-basics-user-agent = Agent utilizator
 app-basics-os = SO
-app-basics-memory-use = Utilizare memorie
+app-basics-memory-use = Utilizarea memoriei
 app-basics-performance = Performanță
 app-basics-service-workers = Scripturi Service Worker înregistrate
 app-basics-profiles = Profiluri
-app-basics-launcher-process-status = Proces de lansare
+app-basics-launcher-process-status = Procesul lansatorului
 app-basics-multi-process-support = Ferestre multiproces
 app-basics-process-count = Procese pentru conținut web
 app-basics-remote-processes-count = Procese la distanță
@@ -240,14 +240,14 @@ d3d9video-crash-buard = Decodor video D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Resetează la următoarea repornire
 gpu-process-kill-button = Termină procesul GPU
-gpu-device-reset = Resetare dispozitiv
+gpu-device-reset = Resetarea dispozitivului
 gpu-device-reset-button = Declanșează resetarea dispozitivului
 uses-tiling = Folosește tiling
 content-uses-tiling = Folosește Tiling (Conținut)
 off-main-thread-paint-enabled = Desenare în afara firului de execuție principal activată
 off-main-thread-paint-worker-count = Număr de workeri pentru desenare în afara firului de execuție principal
 low-end-machine = A detectat o mașină cu performanțe scăzute
-target-frame-rate = Frecvență-țintă de cadre
+target-frame-rate = Frecvență de cadre țintă
 audio-backend = Backend audio
 max-audio-channels = Canale maxime
 channel-layout = Aspect preferat al canalelor
