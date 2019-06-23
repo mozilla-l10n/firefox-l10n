@@ -93,6 +93,7 @@ onboarding-pocket-anywhere-title = Les og lytt hvor som helst
 onboarding-pocket-anywhere-text2 = Lagre favorittinnholdet ditt frakoblet med { -pocket-brand-name } appen. Så kan du lese, lytt og se når det passer deg.
 onboarding-pocket-anywhere-button = Prøv { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Ta med deg passordene dine overalt
+onboarding-lockwise-passwords-text2 = Oppbevar passordene du lagrer sikkert, og logg deg enkelt inn på kontoene dine med { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Last ned appen
 onboarding-facebook-container-title = Sett grenser for Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } holder din profil skilt unna alt annet, som gjør det vanskeligere for Facebook å målrette annonser mot deg.
