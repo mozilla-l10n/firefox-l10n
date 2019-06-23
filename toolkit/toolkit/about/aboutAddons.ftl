@@ -353,7 +353,7 @@ install-update-button = Päivitä
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Sallittu yksityisissä ikkunoissa
-addon-detail-private-browsing-help = Kun sallittu, laajennuksella on pääsy toimiisi verkossa yksityisen selauksen tilassa. <a data-l10n-name="learn-more">Lue lisää</a>
+addon-detail-private-browsing-help = Kun sallittu, laajennus voi seurata, mitä teet verkossa yksityisen selauksen tilassa. <a data-l10n-name="learn-more">Lue lisää</a>
 addon-detail-private-browsing-allow = Salli
 addon-detail-private-browsing-disallow = Älä salli
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
