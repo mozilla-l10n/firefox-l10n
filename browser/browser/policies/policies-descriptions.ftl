@@ -52,6 +52,7 @@ policy-EnableTrackingProtection = Құраманы бұғаттауды іске
 # English or translate them as verbs.
 policy-Extensions = Кеңейтулерді орнату, өшіру немесе бекіту. Орнату опциясы параметрлер ретінде URL-дер немесе орналасуларды қабылдайды. Өшіру және Бекіту опциялары кеңейтулер ID-ін қабылдайды.
 policy-ExtensionUpdate = Кеңейтулерді автожаңартуды іске қосу немесе сөндіру.
+policy-FirefoxHome = Firefox үй парағын баптау.
 policy-FlashPlugin = Flash плагинін қолдануды рұқсат ету немесе бұғаттау.
 policy-HardwareAcceleration = Мәні false болса, құрылғылық үдетуді сөндіру.
 # “lock” means that the user won’t be able to change this setting
@@ -67,6 +68,7 @@ policy-OverridePostUpdatePage = Жаңартылғаннан кейін "Не ж
 policy-Permissions = Камера, микрофон, орналасулар және хабарламалар рұқсаттарын баптау.
 policy-PopupBlocking = Кейбір веб-сайттарға үнсіз келісім бойынша қалқымалы хабарламаларды көрсетуге рұқсат ету.
 policy-Preferences = Баптаулардың бір жиыны үшін мәндерін орнату және бұғаттау.
+policy-PromptForDownloadLocation = Жүктеп алу кезінде файлдарды сақтау орны туралы сұрау.
 policy-Proxy = Прокси баптауларын орнату.
 policy-RequestedLocales = Таңдау ретімен қолданба үшін сұралатын локальдер тізімін орнату.
 policy-SanitizeOnShutdown = Сөндірілген кезде, барлық шолулар тарихын өшіру.

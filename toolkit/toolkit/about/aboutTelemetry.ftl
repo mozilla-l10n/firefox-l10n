@@ -15,6 +15,7 @@ about-telemetry-option-group-older = Ескілеу
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Телеметрия мәліметтері
+about-telemetry-current-store = Ағымдағы қойма:
 about-telemetry-more-information = Көбірек ақпарат керек пе?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox деректер құжаттамасында</a> біздің деректер құралдарымен қалай жұмыс жасау керектігі туралы нұсқаулықтар бар.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox телеметрия клиентінің құжаттамасында</a> концепттер үшін анықтамалар, API құжаттамасы және деректерге сілтемелер бар.
@@ -140,3 +141,6 @@ about-telemetry-origin-count = саны
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox қайнар көзі телеметриясы</a> жіберуге дейін деректерді шифрлейді, осылайша { $telemetryServerOwner } нәрселерді санай алады, бірақ, берілген { -brand-product-name } оған үлесін қосқан ба, соны біле алмайды. (<a data-l10n-name="prio-blog-link">көбірек білу</a>)
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = { $process } процес

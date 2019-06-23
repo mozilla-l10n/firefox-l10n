@@ -95,7 +95,7 @@ detail-update-manual =
 detail-private-browsing-label = Жекелік шолу режиміндегі терезелерде орындау
 detail-private-browsing-description2 = Рұқсат етілген кезде, жекелік шолу кезінде кеңейтулер сіздің желілік белсенділігіңізге қол жеткізе алады. <label data-l10n-name="detail-private-browsing-learn-more">Көбірек білу</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
-# cannot be overriden by the user.
+# cannot be overridden by the user.
 detail-private-disallowed-label = Жекелік шолу терезелерінде рұқсат етілмеген
 detail-private-disallowed-description = Бұл кеңейту жекелік шолу режимінде жасамайды. <label data-l10n-name="detail-private-browsing-learn-more">Көбірек білу</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
@@ -233,7 +233,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Кеңейтудің пернетақта жарлықтарын басқару
     .accesskey = ж
-shortcuts-empty-message = Бұл кеңейту үшін ешқандай жарлық жоқ.
 shortcuts-no-addons = Сізде ешқандай кеңейтулер орнатылмаған.
 shortcuts-no-commands = Келесі кеңейтулерде жарлықтар жоқ:
 shortcuts-input =
@@ -258,19 +257,49 @@ shortcuts-card-collapse-button = Азырақ көрсету
 go-back-button =
     .tooltiptext = Артқа
 
+## Recommended add-ons page
+
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Пайдаланушылар: { $dailyUsers }
+install-extension-button = { -brand-product-name } ішіне қосу
+install-theme-button = Теманы орнату
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Басқару
+find-more-addons = Көбірек қосымшаларды табу
+
 ## Add-on actions
 
+report-addon-button = Хабарлау
 remove-addon-button = Өшіру
 disable-addon-button = Сөндіру
 enable-addon-button = Іске қосу
 expand-addon-button = Көбірек опциялар
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Баптаулар
+       *[other] Баптаулар
+    }
+details-addon-button = Ақпараты
+release-notes-addon-button = Шығарылым ескертпесі
+permissions-addon-button = Рұқсаттар
 addons-enabled-heading = Іске қосулы
 addons-disabled-heading = Сөндірілген
+ask-to-activate-button = Белсендіруді сұрау
+always-activate-button = Әрқашан белсендіру
+never-activate-button = Ешқашан белсендірмеу
 addon-detail-author-label = Авторы
 addon-detail-version-label = Нұсқасы
 addon-detail-last-updated-label = Соңғы жаңартылған
 addon-detail-homepage-label = Үй парағы
 addon-detail-rating-label = Рейтингі
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Рейтингі: 5 ішінен { NUMBER($rating, maximumFractionDigits: 1) }
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -282,3 +311,34 @@ addon-detail-reviews-link =
     { $numberOfReviews ->
        *[other] { $numberOfReviews } пікір
     }
+
+## Pending uninstall message bar
+
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> өшірілді.
+pending-uninstall-undo-button = Болдырмау
+addon-detail-updates-label = Автожаңартуларды рұқсат ету
+addon-detail-updates-radio-default = Бастапқы
+addon-detail-updates-radio-on = Іске қосулы
+addon-detail-updates-radio-off = Сөндірулі
+addon-detail-update-check-label = Жаңартуларды тексеру
+install-update-button = Жаңарту
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Жекелік терезелерінде рұқсат етілген
+addon-detail-private-browsing-allow = Рұқсат ету
+addon-detail-private-browsing-disallow = Рұқсат етпеу
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Ұсынылатын
+    .alt = Ұсынылатын
+available-updates-heading = Қолжетерлік жаңартулар
+recent-updates-heading = Соңғы жаңартулар
+release-notes-loading = Жүктелуде…
+release-notes-error = Кешіріңіз, шығарылым ескертпесін жүктеп алу кезінде қате кетті.
+addon-permissions-empty = Бұл кеңейту ешқандай рұқсаттарды қажет етпейді
+recommended-extensions-heading = Ұсынылатын кеңейтулер
+recommended-themes-heading = Ұсынылатын темалар

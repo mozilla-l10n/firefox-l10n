@@ -32,8 +32,15 @@ app-basics-name = Аты
 app-basics-version = Нұсқасы
 app-basics-build-id = Жинақ ID-і
 app-basics-update-channel = Жаңарту арнасы
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Буманы жаңарту
+       *[other] Буманы жаңарту
+    }
 app-basics-update-history = Жаңартулар тарихы
 app-basics-show-update-history = Жаңартулар тарихын көрсету
+# Represents the path to the binary used to start the application.
+app-basics-binary = Қолданбаның бинарлы файлы
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Профайл бумасы
@@ -79,6 +86,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Шешімдер журналы
 graphics-crash-guards-title = Қулаудан қорғаныс сөндірген мүмкіндіктері
 graphics-workarounds-title = Арнайы қолдау
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Терезелерді басқару хаттамасы
 place-database-title = Орналасулар дерекқоры
 place-database-integrity = Бүтіндігі
 place-database-verify-integrity = Бүтіндігін тексеру
@@ -196,6 +205,7 @@ gpu-device-id = Device ID
 gpu-subsys-id = Ішкі жүйе ID-і
 gpu-drivers = Драйверлер
 gpu-ram = RAM жады
+gpu-driver-vendor = Драйвер өндірушісі
 gpu-driver-version = Драйвер нұсқасы
 gpu-driver-date = Драйвер шыққан күні
 gpu-active = Белсенді
