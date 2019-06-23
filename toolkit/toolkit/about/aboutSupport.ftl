@@ -84,6 +84,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Avgjerdslogg
 graphics-crash-guards-title = Krasjvern slo av funksjonar
 graphics-workarounds-title = Løysingar
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Protokoll for vindaugshandterar
 place-database-title = Plasser database
 place-database-integrity = Integritet
 place-database-verify-integrity = Stadfest integritet
