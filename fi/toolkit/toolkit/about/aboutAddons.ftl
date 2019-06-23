@@ -139,7 +139,7 @@ detail-show-preferences =
            *[other] Muokkaa tämän lisäosan asetuksia
         }
 detail-rating =
-    .value = Arvosana:
+    .value = Arvostelu:
 addon-restart-now =
     .label = Käynnistä uudelleen
 disabled-unsigned-heading =
@@ -343,7 +343,7 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> on poistettu.
 pending-uninstall-undo-button = Kumoa
-addon-detail-updates-label = Salli automaattiset päivitykset
+addon-detail-updates-label = Automaattiset päivitykset
 addon-detail-updates-radio-default = Oletus
 addon-detail-updates-radio-on = Käytössä
 addon-detail-updates-radio-off = Ei käytössä
