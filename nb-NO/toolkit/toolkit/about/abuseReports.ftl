@@ -8,6 +8,7 @@ abuse-report-subtitle = Hva er problemet?
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = av <a data-l10n-name="author-name">{ $author-name }</a>
+abuse-report-submit-description = Beskriv problemet (valgfritt)
 
 ## Panel buttons.
 
