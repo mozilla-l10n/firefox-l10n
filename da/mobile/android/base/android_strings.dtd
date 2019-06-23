@@ -21,12 +21,15 @@
 <!ENTITY firstrun_data_message "Færre data, hurtigere internet">
 <!ENTITY firstrun_data_subtext2 "Blokér billeder, så der skal hentes færre data fra de besøgte sider.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY updatednewfirstrun_sync_title "Konto">
 <!ENTITY firstrun_sync_message2 "Fortsæt hvor du slap.">
 <!ENTITY firstrun_sync_subtext2 "Brug Sync til at finde bogmærker, adgangskoder og andet du har gemt i &brandShortName; på alle dine enheder.">
 <!ENTITY newfirstrun_sync_subtext "Synkroniser de gemte ting i Firefox for Android med Firefox på din computer. Der synkroniseres privat og sikkert.">
+<!ENTITY updatednewfirstrun_sync_subtext "Log ind på din konto for at få det fulde udbytte af &brandShortName;">
 <!ENTITY firstrun_signin_message "Bliv forbundet, start">
 <!ENTITY firstrun_signin_button "Log ind på Sync">
 <!ENTITY newfirstrun_signin_button "Aktiver Sync">
+<!ENTITY updatednewfirstrun_signin_button "Log ind på &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Start surfing">
 <!ENTITY firstrun_button_notnow "Ikke nu">
 <!ENTITY firstrun_button_next "Næste">
@@ -66,6 +69,12 @@
 <!ENTITY  sending_crash_report "Sender fejlrapport\u2026">
 <!ENTITY  crash_close_label "Luk">
 <!ENTITY  crash_restart_label "Genstart &brandShortName;">
+
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; gik ned">
+<!ENTITY  crash_notification_message "Tryk for at rapportere til &vendorShortName;">
+<!ENTITY  crash_notification_negative_button_text "Ignorer">
 
 <!ENTITY url_bar_default_text2 "Indtast søgeord eller adresse">
 
@@ -108,6 +117,10 @@
 <!ENTITY bookmark_folder_updated "Mappe opdateret">
 <!ENTITY bookmark_parent_folder "Overordnet mappe">
 <!ENTITY bookmark_add_folder "Tilføj ny mappe">
+
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(ingen titel)">
 
 <!ENTITY reader_saved_offline "Gemt offline">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -413,8 +426,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Hentede filer">
 <!ENTITY pref_private_data_syncedTabs "Synkroniserede faneblade">
 
-<!ENTITY pref_default_browser "Angiv som standardbrowser">
-
 <!ENTITY pref_default_browser2 "Gør &brandShortName; til din standardbrowser">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -592,6 +603,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "Genvej">
 <!ENTITY bookmark_select_folder "Vælg mappe">
 
+<!ENTITY bookmark_edit_undo "Fortryd">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "Webstedsindstillinger">
@@ -679,6 +692,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Vælg eller optag et lydklip">
 <!ENTITY filepicker_image_title "Vælg eller tag et billede">
 <!ENTITY filepicker_video_title "Vælg eller optag en video">
+
+<!ENTITY filepicker_permission_denied "De nødvendige tilladelser er ikke tildelt, returnerer til systemets filvælger.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Du er forbundet til">
@@ -921,6 +936,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Pause">
 <!ENTITY pip_pause_button_description "Sæt afspilning på pause">
 
+<!ENTITY pref_notification_settings_link "Håndter beskedindstillinger">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Browser">
 <!ENTITY mls_notification_channel "&vendorShortName;s positionstjeneste">
@@ -933,3 +949,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Webstedsbeskeder">
+<!ENTITY crash_handler_notifications_channel "&brandShortName;s fejlrapportering">
