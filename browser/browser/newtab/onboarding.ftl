@@ -3,11 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = Подробнее
 onboarding-button-label-try-now = Попробовать сейчас
 onboarding-button-label-get-started = Начало работы
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Добро пожаловать в { -brand-short-name }
 onboarding-welcome-body = Теперь у вас есть браузер.<br/>Познакомьтесь с { -brand-product-name } поближе.
 onboarding-welcome-learn-more = Узнать больше о преимуществах.
@@ -53,30 +63,20 @@ onboarding-ghostery-text = Пользуйтесь Интернетом быст�
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Синхронизировать
 onboarding-fxa-text = Зарегистрируйте { -fxaccount-brand-name(case: "nominative") } и синхронизируйте свои закладки, пароли и открытые вкладки везде, где бы вы не использовали { -brand-short-name }.
-onboarding-tracking-protection-title = Контролируйте отслеживание
-onboarding-tracking-protection-text = Вам не нравится, когда за вами следуют рекламные трекеры? { -brand-short-name } поможет вам контролировать, как рекламодатели отслеживают вашу активность в Интернете.
-# "Update" is a verb, as in "Update the existing settings", not "Options about
-# updates".
-onboarding-tracking-protection-button =
-    { PLATFORM() ->
-        [windows] Изменить настройки
-       *[other] Изменить настройки
-    }
 onboarding-tracking-protection-title2 = Защита от отслеживания
 onboarding-tracking-protection-text2 = { -brand-short-name } помогает остановить отслеживание ваших действий в Интернете, что затрудняет отслеживание вас рекламой в Интернете.
 onboarding-tracking-protection-button2 = Как это работает
 onboarding-data-sync-title = Возьмите свои настройки с собой
 # "Sync" is short for synchronize.
-onboarding-data-sync-text = Синхронизируйте ваши закладки и пароли, где бы вы ни использовали { -brand-product-name }.
-onboarding-data-sync-button = Включить { -sync-brand-short-name(case: "accusative") }
-# "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Синхронизируйте ваши закладки, пароли и многое другое, где бы вы ни использовали { -brand-product-name }.
 onboarding-data-sync-button2 = Войти в { -sync-brand-short-name(case: "accusative") }
 onboarding-firefox-monitor-title = Подпишитесь на уведомления об утечках данных
+onboarding-firefox-monitor-text = { -monitor-brand-name } следит, не был ли ваш адрес электронной почты затронут утечками данных, и если да, то сразу уведомляет вас об этом.
 onboarding-firefox-monitor-button = Подписаться на уведомления
 onboarding-browse-privately-title = Сёрфите приватно
+onboarding-browse-privately-text = Приватный просмотр удаляет вашу историю поиска и просмотров страниц, чтобы держать её в тайне от других людей, которые используют этот компьютер.
 onboarding-browse-privately-button = Открыть приватное окно
-onboarding-firefox-send-text = { -send-brand-name } защищает файлы, которыми вы делитесь, с помощью сквозного шифрования и ограниченного срока действия ссылки на загрузку.
+onboarding-firefox-send-title = Приватно обменивайтесь файлами
 onboarding-firefox-send-text2 = Загружайте свои файлы с помощью { -send-brand-name }, чтобы делиться ими со сквозным шифрованием и ограниченным сроком действия ссылки на загрузку.
 onboarding-firefox-send-button = Попробовать { -send-brand-name }
 onboarding-mobile-phone-title = Загрузите { -brand-product-name } на ваш телефон
@@ -85,13 +85,18 @@ onboarding-mobile-phone-text = Загрузите { -brand-product-name } для
 # browser.
 onboarding-mobile-phone-button = Загрузить мобильный браузер
 onboarding-send-tabs-title = Мгновенно отправляйте вкладки самому себе
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Send Tabs мгновенно обменивается страницами между вашими устройствами без необходимости копирования, вставки или выхода из браузера.
 onboarding-send-tabs-button = Начать использовать отправку вкладок
 onboarding-pocket-anywhere-title = Читайте и слушайте, где бы вы не находились
+onboarding-pocket-anywhere-text2 = Сохраняйте ваши любимые статьи с помощью { -pocket-brand-name } и читайте, слушайте или просматривайте их даже без Интернета в любое удобное для вас время.
 onboarding-pocket-anywhere-button = Попробовать { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Возьмите свои пароли с собой
-onboarding-lockwise-passwords-button = Загрузить { -lockwise-brand-name }
+onboarding-lockwise-passwords-text2 = Храните пароли в безопасности и легко входите в аккаунты с помощью { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Загрузить приложение
 onboarding-facebook-container-title = Установите границы для Фейсбука
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } отделяет ваш профиль от всего остального, затрудняя Фейсбуку отслеживание вас для показа целевой рекламы.
 onboarding-facebook-container-button = Установить расширение
 
 ## Message strings belonging to the Return to AMO flow
