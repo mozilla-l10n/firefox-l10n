@@ -55,11 +55,23 @@ abuse-report-settings-reason = Менің іздеу жүйесін, үй пар
 abuse-report-settings-suggestions = Кеңетуге шағым жіберу алдында, баптауларыңызды өзгертіп көруіңізге болады:
 abuse-report-settings-suggestions-search = Бастапқы іздеу баптауларын өзгерту
 abuse-report-settings-suggestions-homepage = Үй парағын және жаңа бетті өзгерту
+abuse-report-deceptive-reason = Өзі болмай тұрған нәрсемін деп хабарлайды
 abuse-report-deceptive-example = Мысалы: Алдамшы сипаттама немесе сурет
 abuse-report-broken-reason-extension = Жұмыс жасамайды, веб-сайттарды бұзады, немесе { -brand-product-name } жұмысын баяулатады
 abuse-report-broken-reason-theme = Жұмыс жасамайды немесе браузер жұмысын бұзады
 abuse-report-broken-example = Мысалы: Мүмкіндіктері баяу, қолдануға қиын, немесе тіпті жасмайды; веб-сайттар бөліктері жүктелмейді немесе сыртқы түрлері әдеттен тыс түрде
+abuse-report-broken-suggestions-extension =
+    Ақаулықты тапқан сияқтысыз. Осында шағымды жіберуге қоса, мүмкіндік мәселесін
+    шешудің тиімді жолы - кеңейту әзірлеушісіне хабарласу.
+    Әзірлеуші ақпаратын алу үшін, <a data-l10n-name="support-link">кеңейтудің веб-сайтын шолыңыз</a>.
+abuse-report-broken-suggestions-theme =
+    Ақаулықты тапқан сияқтысыз. Осында шағымды жіберуге қоса, мүмкіндік мәселесін
+    шешудің тиімді жолы - теманың әзірлеушісіне хабарласу.
+    Әзірлеуші ақпаратын алу үшін, <a data-l10n-name="support-link">теманың веб-сайтын шолыңыз</a>.
 abuse-report-policy-reason = Заңсыз, мейірімсіз немесе жек көрушілікті туғызатын мазмұн
+abuse-report-policy-suggestions =
+    Ескерту: Авторлық құқықтар және сауда белгілерін бұзу мәселелері бөлек жіберілуі тиіс.
+    Мәселені хабарлау үшін, <a data-l10n-name="report-infringement-link"> мына нұсқаманы қолданыңыз</a>.
 abuse-report-unwanted-reason = Бұл кеңейтуді ешқашан орнатпадым және өшіре алмаймын
 abuse-report-unwanted-example = Мысалы: Оны қандай да бір қолданба менің рұқсатымсыз орнатты
 abuse-report-other-reason = Басқа нәрсе
