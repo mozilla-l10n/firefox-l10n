@@ -31,21 +31,21 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importShortDesc.label    "Enporti retpoŝton, agordojn kaj filtrilojn el aliaj programoj">
 
 <!ENTITY importDescription1.label "Per tiu ĉi asistanto eblas enporti retleterojn, adresojn kaj abonfluoj, preferojn kaj filtrilojn el aliaj retpoŝtaj programoj el aliaj popularaj retpoŝtaj programoj al &brandShortName;.">
-<!ENTITY importDescription2.label "Once they have been imported, you will be able to access them from within &brandShortName;.">
+<!ENTITY importDescription2.label "Post sukcesa enporto, ĉiuj datumoj estos senpere alireblaj el la &brandShortName;.">
 
-<!ENTITY selectDescription.label  "Please select the type of file that you would like to import:">
-<!ENTITY selectDescriptionB.label "Please select an existing account or create a new account:">
-<!ENTITY selectDescription.accesskey "P">
-<!ENTITY acctName.label           "Name:">
+<!ENTITY selectDescription.label  "Bonvolu elekti tipojn de dosierojn por enporti:">
+<!ENTITY selectDescriptionB.label "Bonvolu elekti la ekzistantan konton aŭ krei novan:">
+<!ENTITY selectDescription.accesskey "B">
+<!ENTITY acctName.label           "Nomo:">
 <!ENTITY acctName.accesskey       "N">
-<!ENTITY noModulesFound.label     "No application or file to import data from was found.">
+<!ENTITY noModulesFound.label     "Ne trovis programon aŭ dosierojn el kiuj eblas enporti datumojn.">
 
-<!ENTITY back.label               "&lt; Back">
-<!ENTITY forward.label            "Next &gt;">
-<!ENTITY finish.label             "Finish">
-<!ENTITY cancel.label             "Cancel">
+<!ENTITY back.label               "&lt; Antaŭa">
+<!ENTITY forward.label            "Sekva &gt;">
+<!ENTITY finish.label             "Fini">
+<!ENTITY cancel.label             "Nuligi">
 
-<!ENTITY select.label             "Enporti nur elektitajn datumojn:">
+<!ENTITY select.label             "Enporti nur la elektitajn datumojn:">
 
-<!ENTITY title.label              "Title">
-<!ENTITY processing.label         "Importing…">
+<!ENTITY title.label              "Titolo">
+<!ENTITY processing.label         "Enportado…">
