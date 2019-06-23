@@ -294,6 +294,14 @@ update-pref-write-failure-title = Збой запісу
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Немагчыма захаваць налады. Не ўдалося запісаць у файл: { $path }
 update-setting-write-failure-title = Памылка пры захаванні налад абнаўлення
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } сутыкнуўся з памылкай і не захаваў гэтую змену. Звярніце ўвагу, што ўстаноўка гэтага параметру абнаўлення патрабуе дазволу на запіс у файл ніжэй. Вы або сістэмны адміністратар можаце мець магчымасць ліквідаваць гэтую памылку, даўшы групе Карыстальнікі поўны кантроль над гэтым файлам.
+    
+    Немагчыма запісаць у файл: { $path }
 update-in-progress-title = Абнаўленне ў працэсе
 update-in-progress-message = Хочаце, каб { -brand-short-name } працягнуў гэта абнаўленне?
 update-in-progress-ok-button = &Адкінуць
@@ -554,6 +562,9 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = Выключэнні…
     .accesskey = ы
+forms-generate-passwords =
+    .label = Прапаноўваць і генераваць надзейныя паролі
+    .accesskey = г
 forms-saved-logins =
     .label = Захаваныя лагіны…
     .accesskey = З
