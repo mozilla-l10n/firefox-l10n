@@ -80,9 +80,9 @@ detail-version =
 detail-last-updated =
     .label = Päivitetty viimeksi
 detail-contributions-description = Tämän lisäosan kehittäjä toivoo, että tukisit lisäosan kehitystyötä pienellä summalla.
-detail-contributions-button = Osallistu
-    .title = Osallistu lisäosan kehitykseen
-    .accesskey = O
+detail-contributions-button = Auta
+    .title = Auta lisäosan kehitystyössä
+    .accesskey = A
 detail-update-type =
     .value = Automaattinen päivitys
 detail-update-default =
@@ -286,7 +286,7 @@ privacy-policy = Tietosuojaseloste
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
-created-by-author = tehnyt <a data-l10n-name="author">{ $author }</a>
+created-by-author = Tekijä: <a data-l10n-name="author">{ $author }</a>
 # Shows the number of daily users of the add-on.
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
@@ -362,7 +362,7 @@ addon-badge-recommended =
     .title = Suositeltu
     .alt = Suositeltu
 available-updates-heading = Saatavilla olevat päivitykset
-recent-updates-heading = Viimeisimmät päivitykset
+recent-updates-heading = Tuoreet päivitykset
 release-notes-loading = Ladataan…
 release-notes-error = Julkaisutietojen lataaminen epäonnistui.
 addon-permissions-empty = Tämä laajennus ei vaadi mitään oikeuksia
