@@ -82,9 +82,6 @@ about-debugging-refresh-usb-devices-button = Құрылғыларды жаңар
 about-debugging-setup-title = Баптау
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Құрылғыңызды қашықтан жөндеуге қолданатын байланыс тәсілін баптаңыз.
-# Link displayed in the Setup page that leads to MDN page with list of supported devices.
-# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
-about-debugging-setup-link-android-devices = Қолдауы бар Android құрылғылары тізімін қараңыз
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = { -brand-shorter-name } бұл нұсқасында беттер, кеңейтулер және қызметтік жұмыс үрдістерін жөндеу үшін <a>{ about-debugging-this-firefox-runtime-name }</a> қолданыңыз.
 # Title of the heading Connect section of the Setup page.
@@ -105,12 +102,6 @@ about-debugging-setup-usb-updating-button = Жаңарту…
 about-debugging-setup-usb-status-enabled = Іске қосылған
 about-debugging-setup-usb-status-disabled = Сөндірілген
 about-debugging-setup-usb-status-updating = Жаңартылу…
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu = Android құрылғыңызда әзірлеуші мәзірін іске қосыңыз. <a>Тәсілін біру</a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug = Android әзірлеуші мәзірінде USB арқылы жөндеуді іске қосыңыз. <a>Тәсілін біру</a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox = Android құрылғыңыздағы Firefox-та USB арқылы жөндеуді іске қосыңыз. <a>Тәсілін біру</a>
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Android құрылғысын компьютерге қосыңыз.
 # Network section of the Setup page
@@ -203,11 +194,6 @@ about-debugging-connection-prompt-enable-button = Қосылу туралы сұ
 about-debugging-connection-prompt-disable-button = Қосылу туралы сұрауды сөндіру
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
 about-debugging-profiler-dialog-title2 = Профильдеуші
-# Label of a checkbox displayed in the runtime page for "This Firefox".
-# This checkbox will toggle preferences that enable local addon debugging.
-# The "Learn more" link points to MDN.
-# https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
-about-debugging-extension-debug-setting-label = Кеңейтулерді жөндеуді іске қосу. <a>Көбірек білу</a>
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
@@ -296,3 +282,9 @@ about-debugging-main-process-description2 = Мақсат браузеріне а
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Хабарламаны жабу
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = Қате ақпараты
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = Ескерту ақпараты
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = Ақпараты

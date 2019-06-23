@@ -34,6 +34,7 @@ onboarding-start-browsing-button-label = Шолуды бастау
 ## description.
 
 onboarding-benefit-products-title = Пайдалы өнімдер
+onboarding-benefit-knowledge-title = Практикалық білім
 onboarding-benefit-privacy-title = Шынайы жекелік
 
 ## These strings belong to the individual onboarding messages.
@@ -56,11 +57,16 @@ onboarding-fxa-title = Синхрондау
 onboarding-fxa-text = { -fxaccount-brand-name } тіркелгісін жасап, өзіңіз { -brand-short-name } қолданатын әр жерде бетбелгілер, парольдер және ашық беттерді синхрондаңыз.
 onboarding-tracking-protection-title2 = Бақылаудан қорғаныс
 onboarding-tracking-protection-button2 = Ол қалай жұмыс істейді
+onboarding-firefox-monitor-button = Хабарламаларға жазылу
+onboarding-browse-privately-title = Жекелік түрде шолыңыз
 onboarding-browse-privately-button = Жекелік шолу терезесін ашу
 onboarding-firefox-send-title = Ортақ пайдаланылатын файлдарыңызды жеке ұстаңыз
+onboarding-firefox-send-button = { -send-brand-name } қолданып көріңіз
+onboarding-mobile-phone-title = { -brand-product-name } өз телефоныңыға алыңыз
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Мобильді браузерді жүктеп алу
+onboarding-send-tabs-title = Браузер беттерін өзіңізге лезде жіберіңіз
 onboarding-pocket-anywhere-button = { -pocket-brand-name } қолданып көріңіз
 onboarding-lockwise-passwords-button2 = Қолданбаны алу
 onboarding-facebook-container-button = Кеңейтуді қосу

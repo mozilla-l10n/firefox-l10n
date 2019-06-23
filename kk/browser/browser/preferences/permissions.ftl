@@ -105,6 +105,9 @@ permissions-exceptions-autoplay-media-desc2 = Қай сайттарға дыбы
 
 ## Site Permissions - Autoplay
 
+permissions-site-autoplay-window =
+    .title = Баптаулар - Автоойнату
+    .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 
