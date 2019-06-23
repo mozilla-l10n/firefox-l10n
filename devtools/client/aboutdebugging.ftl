@@ -84,6 +84,8 @@ about-debugging-setup-title = Баптау
 about-debugging-setup-intro = Құрылғыңызды қашықтан жөндеуге қолданатын байланыс тәсілін баптаңыз.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = { -brand-shorter-name } бұл нұсқасында беттер, кеңейтулер және қызметтік жұмыс үрдістерін жөндеу үшін <a>{ about-debugging-this-firefox-runtime-name }</a> қолданыңыз.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = { -brand-shorter-name } бұл нұсқасында кеңейтулер және қызметтік үрдістерді жөндеу үшін <a>{ about-debugging-this-firefox-runtime-name }</a> қолданыңыз.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Құрылғыны байланыстыру
 # USB section of the Setup page
