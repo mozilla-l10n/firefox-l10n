@@ -23,7 +23,7 @@ update-setting-write-failure-message =
     Nu s-a putut scrie în fișierul: { $path }
 update-in-progress-title = Actualizare în curs
 update-in-progress-message = Vrei ca { -brand-short-name } să continue această actualizare?
-update-in-progress-ok-button = Înlătură
+update-in-progress-ok-button = E&limină
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
-update-in-progress-cancel-button = &Continuă
+update-in-progress-cancel-button = C&ontinuă
