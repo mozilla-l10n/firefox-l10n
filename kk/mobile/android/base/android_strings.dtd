@@ -21,12 +21,15 @@
 <!ENTITY firstrun_data_message "Азырақ деректер, көбірек үнемдеу">
 <!ENTITY firstrun_data_subtext2 "Әр қаралатын сайтта азырақ деректерді қолдану үшін суреттерді сөндіріңіз.">
 <!ENTITY firstrun_sync_title "Синхрондау">
+<!ENTITY updatednewfirstrun_sync_title "Тіркелгі">
 <!ENTITY firstrun_sync_message2 "Жұмысты қалдырған жерінен жалғастырыңыз.">
 <!ENTITY firstrun_sync_subtext2 "Синхрондау көмегімен сіз барлық құрылғыларыңызда &brandShortName; ішінде сақтаған бетбелгілер, парольдер және т.б. нәрселерді табуға болады.">
 <!ENTITY newfirstrun_sync_subtext "Мобильді құрылғыда сақталған нәрселерді жұмыс үстелі Firefox-қа синхрондаңыз, жеке және қауіпсіз түрде.">
+<!ENTITY updatednewfirstrun_sync_subtext "&brandShortName; толығырақ қолдану үшін тіркелгіңізге кіріңіз">
 <!ENTITY firstrun_signin_message "Байланысыңыз, бастаңыз">
 <!ENTITY firstrun_signin_button "Синхрондау ішіне кіру">
 <!ENTITY newfirstrun_signin_button "Синхрондауды іске қосу">
+<!ENTITY updatednewfirstrun_signin_button "&brandShortName; ішіне кіріңіз">
 <!ENTITY  onboard_start_button_browser "Шолуды бастау">
 <!ENTITY firstrun_button_notnow "Қазір емес">
 <!ENTITY firstrun_button_next "Келесі">
@@ -66,6 +69,12 @@
 <!ENTITY  sending_crash_report "Құлау хабарламасын жіберу\u2026">
 <!ENTITY  crash_close_label "Жабу">
 <!ENTITY  crash_restart_label "&brandShortName; қайта іске қосу">
+
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; құлап түсті">
+<!ENTITY  crash_notification_message "&vendorShortName; адресіне есептеме беру үшін шертіңіз">
+<!ENTITY  crash_notification_negative_button_text "Елемеу">
 
 <!ENTITY url_bar_default_text2 "Іздеу немесе адрес">
 
@@ -108,6 +117,10 @@
 <!ENTITY bookmark_folder_updated "Бума жаңартылды">
 <!ENTITY bookmark_parent_folder "Аталық бумасы">
 <!ENTITY bookmark_add_folder "Жаңа буманы қосу">
+
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(атаусыз)">
 
 <!ENTITY reader_saved_offline "Желіден тыс нұсқасы сақталды">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -413,8 +426,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Жүктемелер">
 <!ENTITY pref_private_data_syncedTabs "Синхрондалған беттер">
 
-<!ENTITY pref_default_browser "Негізгі браузер қылу">
-
 <!ENTITY pref_default_browser2 "&brandShortName; негізгі браузер қылыңыз">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -592,6 +603,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "Қысқаша атауы">
 <!ENTITY bookmark_select_folder "Буманы таңдау">
 
+<!ENTITY bookmark_edit_undo "Болдырмау">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "Сайт баптаулары">
@@ -679,6 +692,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Дыбысты таңдау не жазып алу">
 <!ENTITY filepicker_image_title "Суретті таңдау не түсіріп алу">
 <!ENTITY filepicker_video_title "Видеоны таңдау не жазып алу">
+
+<!ENTITY filepicker_permission_denied "Қажет етілген рұқсаттар берілмеді, жүйелік файлдар таңдаушына оралу.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Сіз байланысқан">
@@ -931,3 +946,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Сайт хабарламалары">
+<!ENTITY crash_handler_notifications_channel "&brandShortName; құлаулар хабарлаушысы">
