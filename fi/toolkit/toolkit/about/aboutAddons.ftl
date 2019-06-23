@@ -271,7 +271,7 @@ go-back-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro =
-    Laajennukset ja teemat ovat kuin sovelluksia selaimessa; ne voivat suojata salasanojasi,
+    Laajennukset ja teemat ovat kuin sovelluksia selaimessa. Ne voivat suojata salasanojasi,
     ladata videoita, löytää hyviä tarjouksia, estää ärsyttäviä mainoksia, muuttaa
     selaimen ulkoasua ja paljon muuta. Nämä pienet ohjelmat ovat usein kolmansien
     osapuolten kehittämiä. Tässä on valikoima { -brand-product-name }in
