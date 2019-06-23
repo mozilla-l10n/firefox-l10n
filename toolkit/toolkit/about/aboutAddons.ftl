@@ -87,7 +87,7 @@ detail-update-type =
     .value = Automaattinen päivitys
 detail-update-default =
     .label = Oletus
-    .tooltiptext = Asenna päivitykset automaattisesti vain jos se on oletusasetus
+    .tooltiptext = Asenna päivitykset automaattisesti vain, jos se on oletusasetus
 detail-update-automatic =
     .label = Käytössä
     .tooltiptext = Asenna päivitykset automaattisesti
@@ -282,7 +282,7 @@ discopane-notice-recommendations =
     Jotkin näistä suosituksista ovat henkilökohtaisia. Suositukset pohjautuvat
     muihin asentamiisi laajennuksiin, profiiliasetuksiin ja käyttötilastoihin.
 discopane-notice-learn-more = Lue lisää
-privacy-policy = Yksityisyyskäytäntö
+privacy-policy = Tietosuojaseloste
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
