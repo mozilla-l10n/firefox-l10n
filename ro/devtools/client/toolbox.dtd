@@ -139,6 +139,7 @@
 <!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
    - label for the checkbox that toggles the warningGroups feature in the Web Console -->
 <!ENTITY options.warningGroups.label      "Grupează mesaje similare">
+<!ENTITY options.warningGroups.tooltip    "Când este activat, mesajele similare sunt plasate în grupuri">
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
