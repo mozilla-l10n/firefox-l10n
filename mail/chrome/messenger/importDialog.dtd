@@ -3,18 +3,18 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--
-LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
-Netscape Communicator, Please translate using the brandname in respective 
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
+Netscape Communicator, Please translate using the brandname in respective
 languages for Netscape Communicator 4 releases.
-LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
-<!ENTITY importDialog.windowTitle "Import">
-<!ENTITY importAll.label          "Import Everything">
+<!ENTITY importDialog.windowTitle "Enportilo">
+<!ENTITY importAll.label          "Enporti ĉiujn datumojn">
 <!ENTITY importAll.accesskey      "E">
-<!ENTITY importMail.label         "Mail">
-<!ENTITY importMail.accesskey     "M">
+<!ENTITY importMail.label         "retleteroj">
+<!ENTITY importMail.accesskey     "r">
 <!ENTITY importFeeds.label        "Feed Subscriptions">
 <!ENTITY importFeeds.accesskey    "d">
 <!ENTITY importAddressbook.label  "Address Books">
@@ -45,7 +45,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY finish.label             "Finish">
 <!ENTITY cancel.label             "Cancel">
 
-<!ENTITY select.label             "or select the type of material to import:">
+<!ENTITY select.label             "Enporti nur elektitajn datumojn:">
 
 <!ENTITY title.label              "Title">
 <!ENTITY processing.label         "Importing…">
