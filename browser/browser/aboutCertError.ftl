@@ -40,7 +40,7 @@ cert-error-expired-now = Веб-сайттар өздерінің шынайыл
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-before-local-time (Date) - Certificate is not valid before this time.
-cert-error-not-yet-valid-now = Веб-сайттар өздерінің шынайылығын сертификаттар арқылы дәлелдейді, олар тек белгілі уақыт аралығында жарамды болады. { $hostname } сертификатының мерзімі { $not-after-local-time } дейін әлі басталмайды.
+cert-error-not-yet-valid-now = Веб-сайттар өздерінің шынайылығын сертификаттар арқылы дәлелдейді, олар тек белгілі уақыт аралығында жарамды болады. { $hostname } сертификатының мерзімі { $not-before-local-time } дейін әлі басталмайды.
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Қате коды: <a data-l10n-name="error-code-link">{ $error }</a>
