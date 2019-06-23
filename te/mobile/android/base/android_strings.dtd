@@ -20,8 +20,11 @@
 <!ENTITY firstrun_data_message "తక్కువ డేటా, మరింత పొదుపు">
 <!ENTITY firstrun_data_subtext2 "మీరు సందర్శించే ప్రతి సైట్ డేటాను తక్కువగా ఖర్చు పెట్టడానికి చిత్రాలు ఆపివేయండి.">
 <!ENTITY firstrun_sync_title "సింక్">
+<!ENTITY updatednewfirstrun_sync_title "ఖాతా">
 <!ENTITY firstrun_sync_message2 "మీరు వదిలిన చోటు నుండే మొదలుపెట్టండి.">
 <!ENTITY firstrun_sync_subtext2 "మీరు &brandShortName; కు సేవ్ చేసిన భద్రపరిచిన ఇష్టాంశాలు, సంకేతపదాలు మరియు ఇతర విషయాలను మీ అన్ని పరికరాల్లో కనుగొనడానికి సమకాలీకరణను ఉపయోగించండి.">
+<!ENTITY newfirstrun_sync_subtext "మీరు మొబైల్‌లో భద్రపరిచిన వాటిని డెస్క్‌టాప్ కోసం ఫైర్‌ఫాక్స్‌కు ప్రైవేట్‌గా మరియు సురక్షితంగా సమకాలీకరించండి.">
+<!ENTITY updatednewfirstrun_sync_subtext "&brandShortName; నుండి ఎక్కువ ప్రయోజనం పొందడానికి మీ ఖాతాలోకి ప్రవేశించండి">
 <!ENTITY firstrun_signin_message "కనెక్ట్ చేసుకోగా, ప్రారంభించడానికి">
 <!ENTITY firstrun_signin_button "Sync లోనికి ప్రవేశించండి">
 <!ENTITY newfirstrun_signin_button "సమకాలీకరణను ప్రారంభించండి">
@@ -357,6 +360,7 @@
 <!ENTITY tab_queue_prompt_settings_button "అమరికలకు వెళ్లు">
 <!-- Localization note (tab_queue_notification_prompt): This is the text of the default notification
 shown from Android O while a tab is being queued.-->
+<!ENTITY tab_queue_notification_prompt "&#8230; క్యూలో కొత్త ట్యాబును జోడిస్తుంది">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -425,6 +429,7 @@ shown from Android O while a tab is being queued.-->
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "&amp; బ్రౌజర్ అనువర్తనాన్ని నొక్కండి &brandShortName;ను ఎంచుకోండి">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla తోడ్పాటును చూడండి">
 <!ENTITY pref_about_firefox "&brandShortName; గురించి">
 <!ENTITY pref_vendor_faqs "సందేహాలు">
