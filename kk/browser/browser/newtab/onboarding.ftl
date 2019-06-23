@@ -34,8 +34,16 @@ onboarding-start-browsing-button-label = Шолуды бастау
 ## description.
 
 onboarding-benefit-products-title = Пайдалы өнімдер
+onboarding-benefit-products-text = Құрылғыларыңыздағы жеке өміріңізді құрметтейтін құралдар отбасымен жұмыс жасаңыз.
 onboarding-benefit-knowledge-title = Практикалық білім
+onboarding-benefit-knowledge-text = Интернетте ақылдырақ және қауіпсіз болу үшін білуіңіз керек барлық нәрсені біліңіз.
 onboarding-benefit-privacy-title = Шынайы жекелік
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Біз жасайтын барлық нәрсе біздің Жеке Деректер Уәдесіне сай: Азырақ алу. Оны қауіпсіз сақтау. Құпиясыз.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -56,7 +64,13 @@ onboarding-ghostery-text = Мазаңызды алатын жарнаманы б
 onboarding-fxa-title = Синхрондау
 onboarding-fxa-text = { -fxaccount-brand-name } тіркелгісін жасап, өзіңіз { -brand-short-name } қолданатын әр жерде бетбелгілер, парольдер және ашық беттерді синхрондаңыз.
 onboarding-tracking-protection-title2 = Бақылаудан қорғаныс
+onboarding-tracking-protection-text2 = { -brand-short-name } веб-сайттарды сізді желіде бақылауды тоқтатуға көмектеседі, жарнамаға сізді интернетте артыңыздан еруді қиындатады.
 onboarding-tracking-protection-button2 = Ол қалай жұмыс істейді
+onboarding-data-sync-title = Баптауларыңызды өзіңізбен бірге алып жүріңіз
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = { -brand-product-name } қолданатын барлық жерде бетбелгілер, парольдер және т.б. синхрондаңыз.
+onboarding-data-sync-button2 = { -sync-brand-short-name } ішіне кіріңіз
+onboarding-firefox-monitor-title = Деректердің жайылып кетулері туралы біліп отырыңыз
 onboarding-firefox-monitor-button = Хабарламаларға жазылу
 onboarding-browse-privately-title = Жекелік түрде шолыңыз
 onboarding-browse-privately-button = Жекелік шолу терезесін ашу
