@@ -886,6 +886,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Бұл парақ кеңейтуден жүктелген.">
 <!ENTITY identity.insecureLoginForms2 "Бұл парақта енгізілген логин ақпаратына бөтен адамдардың қолы жетуі мүмкін.">
 
+<!ENTITY identity.customRoot "Байланысты растайтын сертификат шығарушысы Mozilla-ға бейтаныс.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; бұл парақтың кейбір қауіпсіз емес бөліктерін блоктаған.">
@@ -905,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Бұл веб сайттың кейбір құрамасы қауіпсіз емес (скрипттер сияқты) және сіздің оған байланысыңыз шынымен жеке емес.">
 <!ENTITY identity.description.activeLoaded2 "Бұл сайтпен сіз бөліскен ақпаратты басқа адамдар көре алады (парольдер, хабарламалар, кредит карталар, т.б.).">
 
+<!ENTITY identity.description.customRoot "Mozilla бұл сертификатты шығарушысын танымайды. Ол сіздің операциялық жүйеңіз немесе әкімшіңізбен қосылған болуы мүмкін.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Қорғанысты іске қосу">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "е">
@@ -1135,6 +1137,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "т">
 <!ENTITY updateRestart.cancelButton.label "Қазір емес">
 <!ENTITY updateRestart.cancelButton.accesskey "м">
+<!ENTITY updateUnsupported.panelUI.label "Болашақ жаңартуларды жасай алмайсыз">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; жаңарту үшін қайта іске қосу">
 
 <!ENTITY newTabControlled.header.message "Сіздің жаңа бетіңіз өзгертілген.">

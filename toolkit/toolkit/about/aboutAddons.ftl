@@ -153,6 +153,9 @@ private-browsing-description2 = { -brand-short-name } кеңейтулер же�
 extensions-view-discover =
     .name = Қосымшаларды алу
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Ұсыныстар
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Соңғы жаңартулар
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -259,6 +262,12 @@ go-back-button =
 
 ## Recommended add-ons page
 
+discopane-notice-learn-more = Көбірек білу
+privacy-policy = Жекелік саясаты
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = <a data-l10n-name="author">{ $author }</a> жасаған
 # Shows the number of daily users of the add-on.
 # Variables:
 #   $dailyUsers (number) - The number of daily users.

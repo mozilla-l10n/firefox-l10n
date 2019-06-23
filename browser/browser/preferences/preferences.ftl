@@ -34,6 +34,7 @@ policies-notice =
         [windows] Сіздің ұйымыңыз кейбір баптауларды өзгертуді бұғаттаған.
        *[other] Сіздің ұйымыңыз кейбір баптауларды өзгертуді бұғаттаған.
     }
+managed-notice = Браузеріңіз сіздің ұйымыңызбен басқаралады.
 pane-general-title = Жалпы
 category-general =
     .tooltiptext = { pane-general-title }
@@ -289,6 +290,14 @@ update-pref-write-failure-title = Жазу қатесі
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Баптауды сақтау мүмкін емес. Файлға жазу қатесі: { $path }
+update-setting-write-failure-title = Жаңарту баптауларын сақтау қатемен аяқталды.
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message = { -brand-short-name } қатеге тап болып, бұл өзгерісті сақтамады. Бұл жаңарту баптауын өзгерту төмендегі файлға жазу құқығын талап ететінің ескеріңіз. Сіз немесе жүйелік әкімші бұл мәселені Пайдаланушылар тобына бұл файлға толық қатынау құқығын беру арқылы шеше алады.
+update-in-progress-title = Жаңарту орындалуда
+update-in-progress-message = { -brand-short-name } бұл жаңартумен жалғастыруды қалайсыз ба?
 update-in-progress-ok-button = Тай&дыру
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
