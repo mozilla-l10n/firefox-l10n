@@ -44,3 +44,11 @@ abuse-report-messagebar-action-cancel = Avbryt
 
 abuse-report-damage-reason = Skader min datamaskin og mine data
 abuse-report-damage-example = Eksempel: Injisert skadelig kode eller stjal data
+abuse-report-spam-reason = Viser spam eller reklamer
+abuse-report-spam-example = Eksempel: Setter inn reklamer på nettsider
+abuse-report-settings-reason = Endret min søkmotor, startside eller ny fane uten å informere eller spørre meg
+abuse-report-settings-suggestions = Før du rapporterer utvidelsen, kan du prøve å endre dine innstillinger:
+abuse-report-settings-suggestions-search = Endre dine standardinnstillinger for søkemotor
+abuse-report-settings-suggestions-homepage = Endre startside og ny fane-siden
+abuse-report-deceptive-reason = Gir seg ut for å være noe den ikke er
+abuse-report-other-reason = Noe annet
