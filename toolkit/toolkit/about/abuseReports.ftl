@@ -9,8 +9,8 @@ abuse-report-subtitle = Mikä on ongelmana?
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = tekijä <a data-l10n-name="author-name">{ $author-name }</a>
 abuse-report-learnmore =
-    Epävarma mikä ongelmista tulee valita?
-    <a data-l10n-name="learnmore-link">Lue lisää laajennuksien ja teemojen raportoinnista</a>
+    Oletko epävarma, mikä ongelmista tulee valita?
+    <a data-l10n-name="learnmore-link">Lue lisää laajennusten ja teemojen raportoinnista</a>
 abuse-report-submit-description = Kuvaa ongelma (valinnainen)
 abuse-report-textarea =
     .placeholder = Jos kerrot tarkemmin kohtaamastasi ongelmasta, pystymme helpommin paikantamaan sen. Kerro vapaamuotoisesti, mitä olet huomannut. Kiitos, kun autat meitä pitämään verkon turvallisena.
@@ -58,7 +58,7 @@ abuse-report-spam-example = Esimerkki: lisää mainoksia verkkosivuille
 abuse-report-settings-reason = Vaihtoi hakukoneeni, aloitussivuni tai uuden välilehden sisällön kysymättä tai kertomatta
 abuse-report-settings-suggestions = Ennen kuin raportoit laajennuksesta, voit yrittää muuttaa asetuksia:
 abuse-report-settings-suggestions-search = Muuta haun oletusasetuksia
-abuse-report-settings-suggestions-homepage = Muuta kotisivua tai uutta välilehteä
+abuse-report-settings-suggestions-homepage = Muuta aloitussivua tai uutta välilehteä
 abuse-report-deceptive-reason = Teeskentelee olevansa jotain, mitä ei ole
 abuse-report-deceptive-example = Esimerkki: Harhaanjohtava kuvaus tai kuvitus
 abuse-report-broken-reason-extension = Ei toimi, rikkoo sivustoja tai hidastaa { -brand-product-name }ia
@@ -74,7 +74,7 @@ abuse-report-broken-suggestions-theme =
     <a data-l10n-name="support-link">Käy teeman sivulla</a> nähdäksesi kehittäjän tiedot.
 abuse-report-policy-reason = Vihapitoista, väkivaltaista tai laitonta sisältöä
 abuse-report-policy-suggestions =
-    Huomio: Tekijänoikeus- ja tavaramerkkiongelmat tulee raportoida eri menettelytavalla.
+    Huomio: Tekijänoikeus- ja tavaramerkkiongelmat tulee raportoida eri tavalla.
     Raportoi ongelma <a data-l10n-name="report-infringement-link">näiden ohjeiden mukaisesti</a>.
 abuse-report-unwanted-reason = En koskaan halunnut tätä laajennusta, ja nyt en pääse siitä eroon
 abuse-report-unwanted-example = Esimerkki: sovellus asensi sen ilman lupaani
