@@ -15,6 +15,7 @@ about-telemetry-option-group-older = Eldre
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Telemetri-data
+about-telemetry-current-store = Gjeldande lagringsplass:
 about-telemetry-more-information = Ser du etter mer informasjon?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox Data Documentation</a> inneheld rettleiingar om korleis du jobbar med dataverktøa våre.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox Telemetry-klientdokumentasjonen</a> inneheld definisjonar for konsept, API-dokumentasjon og datareferansar.

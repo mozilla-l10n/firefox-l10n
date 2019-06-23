@@ -19,6 +19,7 @@ onboarding-button-label-get-started = Kom i gang
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Velkomen til { -brand-short-name }
+onboarding-welcome-body = Du har nettlesaren.<br/>Møt resten av { -brand-product-name }.
 onboarding-welcome-learn-more = Les meir om fordelane.
 onboarding-join-form-header = Ver med { -brand-product-name } på ferda
 onboarding-join-form-body = Skriv inn e-postadressa di for å kome i gang.

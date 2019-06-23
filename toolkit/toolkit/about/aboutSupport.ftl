@@ -203,6 +203,7 @@ gpu-device-id = Einings-ID
 gpu-subsys-id = Subsys-ID
 gpu-drivers = Drivarar
 gpu-ram = RAM
+gpu-driver-vendor = Drivar-produsent
 gpu-driver-version = Drivarversjon
 gpu-driver-date = Drivardato
 gpu-active = Aktiv
