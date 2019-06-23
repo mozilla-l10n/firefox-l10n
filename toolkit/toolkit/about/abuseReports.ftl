@@ -24,9 +24,23 @@ abuse-report-submit-button = Send
 
 abuse-report-messagebar-aborted = Rapport for <span data-l10n-name="addon-name">{ $addon-name }</span> ble anullert.
 abuse-report-messagebar-submitting = Sender rapport for <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-submitted = Takk for at du sendte inn en rapport. Vil du fjerne <span data-l10n-name="addon-name">{ $addon-name }</span>?
+abuse-report-messagebar-submitted-noremove = Takk for at du sendte inn en rapport.
+abuse-report-messagebar-removed-extension = Takk for at du sendte inn en rapport. Du har fjernet utvidelsen <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-theme = Takk for at du sendte inn en rapport. Du har fjernet temaet <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error = Det oppsto en feil ved sending av rapporten for <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error-recent-submit = Rapporten for <span data-l10n-name="addon-name">{ $addon-name }</span> ble ikke sendt fordi en annen rapport ble sendt inn nylig.
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove-extension = Ja, fjern den
+abuse-report-messagebar-action-keep-extension = Nei, jeg vil beholde den
+abuse-report-messagebar-action-remove-theme = Ja, fjern den
+abuse-report-messagebar-action-keep-theme = Nei, jeg vil beholde den
+abuse-report-messagebar-action-retry = Prøv igjen
+abuse-report-messagebar-action-cancel = Avbryt
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason = Skader min datamaskin og mine data
+abuse-report-damage-example = Eksempel: Injisert skadelig kode eller stjal data
