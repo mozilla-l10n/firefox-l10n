@@ -88,9 +88,9 @@ onboarding-send-tabs-title = Lähetä välilehtiä itsellesi välittömästi
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Välilehden lähettämisen avulla voit jakaa sivuja laitteidesi välillä, tarvitsematta kopioida, liittää tai poistua selaimesta.
-onboarding-send-tabs-button = Ala käyttää välilehden lähettämistä
+onboarding-send-tabs-button = Kokeile välilehden lähettämistä
 onboarding-pocket-anywhere-title = Lue ja kuuntele kaikkialla
-onboarding-pocket-anywhere-text2 = Tallenna suosikkisisältösi paikallisesti { -pocket-brand-name } -sovelluksella ja lue, kuuntele sekä katsele, kun sinulle sopii.
+onboarding-pocket-anywhere-text2 = Tallenna suosikkisisältösi paikallisesti { -pocket-brand-name }-sovelluksella ja lue, kuuntele sekä katsele, kun sinulle sopii.
 onboarding-pocket-anywhere-button = Kokeile { -pocket-brand-name }-palvelua
 onboarding-lockwise-passwords-title = Ota salasanat mukaasi kaikkialle
 onboarding-lockwise-passwords-text2 = Pidä tallentamasi salasanat turvassa ja kirjaudu tileillesi helposti { -lockwise-brand-name } -ohjelmalla.
