@@ -103,10 +103,22 @@ about-debugging-setup-usb-status-enabled = Іске қосылған
 about-debugging-setup-usb-status-disabled = Сөндірілген
 about-debugging-setup-usb-status-updating = Жаңартылу…
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Android құрылғыңызда Әзірлеуші мәзірін іске қосыңыз.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Android Әзірлеуші мәзірінде USB жөндеуін іске қосыңыз.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Android құрылғыңыздағы Firefox ішінде USB жөндеуін іске қосыңыз.
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Android құрылғысын компьютерге қосыңыз.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = USB құрылғысына байланысу мәселелері бар ма? <a>Шешімін табу</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Желілік орналасу
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = Желілік орналасу арқылы байланысу мәселелері бар ма? <a>Шешімін табу</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Қосу
