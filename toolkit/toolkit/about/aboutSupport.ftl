@@ -35,8 +35,15 @@ app-basics-name = Emër
 app-basics-version = Version
 app-basics-build-id = ID Montimi
 app-basics-update-channel = Kanal Përditësimi
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Drejtori Përditësimesh
+       *[other] Dosje Përditësimesh
+    }
 app-basics-update-history = Historik Përditësimesh
 app-basics-show-update-history = Shfaq Historik Përditësimesh
+# Represents the path to the binary used to start the application.
+app-basics-binary = Dyor Aplikacioni
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Drejtoria e Profilit
@@ -82,6 +89,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Regjistër Vendimesh
 graphics-crash-guards-title = Veçori të Çaktivizuara nga Roja i Vithisjeve
 graphics-workarounds-title = Zgjidhje të përkohshme
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Protokoll Window
 place-database-title = Bazë të Dhënash Vendesh
 place-database-integrity = Integritet
 place-database-verify-integrity = Verifikoni Integritetin
@@ -197,6 +206,7 @@ gpu-device-id = ID Pajisjeje
 gpu-subsys-id = ID Subsys-i
 gpu-drivers = Përudhës
 gpu-ram = RAM
+gpu-driver-vendor = Shitës Përudhësi
 gpu-driver-version = Version Përudhësi
 gpu-driver-date = Datë Përudhësi
 gpu-active = Aktiv
