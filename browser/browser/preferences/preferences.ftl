@@ -702,7 +702,7 @@ sitedata-cookies-exceptions =
     .label = Undtagelser…
     .accesskey = U
 forms-generate-passwords =
-    .label = Foreslå og opret stærke adgangskoder
+    .label = Hjælp med at lave stærke adgangskoder
     .accesskey = a
 # This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
