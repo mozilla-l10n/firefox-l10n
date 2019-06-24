@@ -47,7 +47,7 @@
 <!ENTITY fxaccount_back_to_browsing 'დათვალიერებაზე დაბრუნება'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'მოგესალმებათ &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description2 'შედით სისტემაში თქვენი ჩანართების, სანიშნების, პაროლების და ა.შ. დასინქრონებისთვის.'>
+<!ENTITY fxaccount_getting_started_description2 'შედით სისტემაში თქვენი ჩანართების, სანიშნების, პაროლების და ა. შ. დასინქრონებისთვის.'>
 <!ENTITY fxaccount_getting_started_get_started 'დაიწყეთ'>
 <!ENTITY fxaccount_getting_started_old_firefox '&syncBrand.shortName.label;-ის ძველ ვერსიას იყენებთ?'>
 
