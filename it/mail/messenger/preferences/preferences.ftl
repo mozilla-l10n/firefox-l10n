@@ -13,7 +13,17 @@ update-pref-write-failure-title = Scrittura non riuscita
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Impossibile salvare la preferenza. Non è stato possibile scrivere sul file: { $path }
 update-setting-write-failure-title = Errore salvataggio preferenze di aggiornamento
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    Si è verificato un errore e questa modifica non è stata salvata. Per aggiornare le preferenze è necessario avere i permessi di scrittura sul file indicato in seguito. Dovrebbe essere possibile correggere il problema assegnando al gruppo Utenti il pieno controllo di questo file.
+    
+    Impossibile scrivere il file: { $path }
 update-in-progress-title = Aggiornamento in corso
+update-in-progress-message = Procedere con l’aggiornamento di { -brand-short-name }?
+update-in-progress-ok-button = I&nterrompi
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continua
