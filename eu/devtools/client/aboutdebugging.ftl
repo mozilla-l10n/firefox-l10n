@@ -82,9 +82,6 @@ about-debugging-refresh-usb-devices-button = Berritu gailuak
 about-debugging-setup-title = Konfigurazioa
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Konfiguratu zure gailua urrunetik arazteko nahi duzun konexio-metodoa.
-# Link displayed in the Setup page that leads to MDN page with list of supported devices.
-# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
-about-debugging-setup-link-android-devices = Ikusi onartzen diren Android gailuen zerrenda
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Erabili <a>{ about-debugging-this-firefox-runtime-name }</a> { -brand-shorter-name }(r)en bertsio honetan fitxak, hedapenak eta zerbitzu-langileak arazteko.
 # Title of the heading Connect section of the Setup page.
@@ -106,13 +103,16 @@ about-debugging-setup-usb-status-enabled = Gaituta
 about-debugging-setup-usb-status-disabled = Desgaituta
 about-debugging-setup-usb-status-updating = Eguneratzen…
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu = Gaitu garatzailearen menua zure Android gailuan. <a>Ikasi nola</a>
+about-debugging-setup-usb-step-enable-dev-menu2 = Gaitu garatzaile-menua zure Android gailuan.
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug = Gaitu USB arazketa Android garatzailearen menuan. <a>Ikasi nola</a>
+about-debugging-setup-usb-step-enable-debug2 = Gaitu USB arazketa Android garatzaile-menuan.
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox = Gaitu USB arazketa Android gailuko Firefoxen. <a>Ikasi nola</a>
+about-debugging-setup-usb-step-enable-debug-firefox2 = Gaitu Firefoxen USB arazketa Android gailuan.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Konektatu Android gailua zure ordenagailura.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = Arazoak USB gailura konektatzerakoan? <a>Konpondu arazoak</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Gehitu
