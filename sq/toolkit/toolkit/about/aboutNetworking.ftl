@@ -23,6 +23,7 @@ tcp = TCP
 sent = Të dërguara
 received = Të marra
 family = Familje
+trr = TRR
 addresses = Adresa
 expires = Skadon (Sekonda)
 messages-sent = Mesazhe të Dërguar

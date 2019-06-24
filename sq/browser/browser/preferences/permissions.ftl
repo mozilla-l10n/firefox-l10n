@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Ruaji Ndryshimet
     .accesskey = R
+permissions-autoplay-menu = Parazgjedhje për krejt sajtet:
 permissions-searchbox =
     .placeholder = Kërko Në Sajte
+permissions-capabilities-autoplay-allow =
+    .label = Lejo Audio dhe Video
+permissions-capabilities-autoplay-block =
+    .label = Blloko Audion
+permissions-capabilities-autoplay-blockall =
+    .label = Blloko Audio dhe Video
 permissions-capabilities-allow =
     .label = Lejoje
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = Lejoje
 permissions-capabilities-listitem-block =
     .value = Bllokoje
-permissions-capabilities-listitem-allow-first-party =
-    .value = Lejoje vetëm për palën e parë
 permissions-capabilities-listitem-allow-session =
     .value = Lejoje për Sesionin
 
@@ -58,10 +63,6 @@ permissions-invalid-uri-label = Ju lutemi, jepni një strehëemër të vlefshëm
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Përjashtime - Mbrojtje Nga Gjurmimet
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = E keni çaktivizuar Mbrojtjen Nga Gjurmimet në këto sajte.
 permissions-exceptions-content-blocking-window =
     .title = Përjashtime - Bllokim Lënde
     .style = { permissions-window.style }
@@ -101,6 +102,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Përjashtime - Vetëluajtje
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Mund të caktoni cilëve sajte u lejohet përherë ose asnjëherë të vetëluajnë media me tinguj. Shtypni adresën e sajtit që doni të trajtoni dhe mandej klikoni Bllokoje, ose Lejoje.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Rregullime - Vetëluajtje{ permissions-window.style }
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Këtu mund të trajtoni sajtet që nuk ndjekin rregullimet tuaja parazgjedhje për vetëluajtjen.
 
 ## Site Permissions - Notifications
 

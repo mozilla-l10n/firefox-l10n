@@ -18,3 +18,4 @@
 <!ENTITY setDesktopBackground.title "Rregulloni Sfond Desktopi">
 <!ENTITY openDesktopPrefs.label     "Hap Parapëlqime për Desktopin">
 <!ENTITY closeWindow.key            "w">
+<!ENTITY previewUnavailable         "S’ka paraparje gati">

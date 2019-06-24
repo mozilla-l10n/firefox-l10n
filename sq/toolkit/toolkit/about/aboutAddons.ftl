@@ -95,7 +95,7 @@ detail-update-manual =
 detail-private-browsing-label = Xhiroje në Dritare Private
 detail-private-browsing-description2 = Po u lejua, zgjerimi do të mund të hyjë në veprimtaritë tuaja <em>online</em> gjatë shfletimit privat. <label data-l10n-name="detail-private-browsing-learn-more">Mësoni më tepër</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
-# cannot be overriden by the user.
+# cannot be overridden by the user.
 detail-private-disallowed-label = Nuk Lejohet në Dritare Private
 detail-private-disallowed-description = Ky zgjerim nuk punon nën shfletim privat. <label data-l10n-name="detail-private-browsing-learn-more">Mësoni më tepër</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
@@ -239,7 +239,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Administroni Shkurtore Zgjerimesh
     .accesskey = A
-shortcuts-empty-message = S’ka shkurtore për këtë zgjerim.
 shortcuts-no-addons = S’keni të aktivizuar ndonjë zgjerim.
 shortcuts-no-commands = Zgjerimet vijuese nuk kanë shkurtore:
 shortcuts-input =
@@ -299,6 +298,14 @@ remove-addon-button = Hiqe
 disable-addon-button = Çaktivizoje
 enable-addon-button = Aktivizoje
 expand-addon-button = Më tepër Mundësi
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Mundësi
+       *[other] Parapëlqime
+    }
+details-addon-button = Hollësi
+release-notes-addon-button = Shënime Versioni
+permissions-addon-button = Leje
 addons-enabled-heading = I aktivizuar
 addons-disabled-heading = I çaktivizuar
 ask-to-activate-button = Pyet për Aktivizim
@@ -346,5 +353,18 @@ addon-badge-private-browsing-allowed =
 addon-detail-private-browsing-help = Nën lejim, zgjerimi do të mund të shohë veprimtaritë tuaja në linjë, teksa shfletoni privatisht. <a data-l10n-name="learn-more">Mësoni më tepër</a>
 addon-detail-private-browsing-allow = Lejoje
 addon-detail-private-browsing-disallow = Mos e Lejo
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = E këshilluar
+    .alt = E këshilluar
 available-updates-heading = Përditësime të Gatshme
 recent-updates-heading = Përditësime Së Fundi
+release-notes-loading = Po ngarkohet…
+release-notes-error = Na ndjeni, por pati një gabim gjatë ngarkimit të shënimeve të versionit.
+addon-permissions-empty = Ky zgjerim nuk lyp ndonjë leje
+recommended-extensions-heading = Zgjerime të Këshilluara
+recommended-themes-heading = Tema të Këshilluara
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Ju ka kapluar fryma krijuese? <a data-l10n-name="link">Krijoni temën tuaj me  Firefox Color.</a>

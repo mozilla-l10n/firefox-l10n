@@ -55,6 +55,9 @@ about-debugging-sidebar-item-connected-label = I lidhur
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
 about-debugging-sidebar-runtime-item-waiting-for-browser = Po pritet për shfletues…
+# Text displayed in sidebar items for remote devices that have been disconnected from the
+# computer.
+about-debugging-sidebar-runtime-item-unplugged = Të shkëputura
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName } ({ $deviceName })
@@ -79,11 +82,10 @@ about-debugging-refresh-usb-devices-button = Rifresko pajisjet
 about-debugging-setup-title = Rregullim
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Formësoni metodë lidhjeje që doni për diagnostikim të largët të pajisjes tuaj.
-# Link displayed in the Setup page that leads to MDN page with list of supported devices.
-# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
-about-debugging-setup-link-android-devices = Shihni listë pajisjesh Android të mbuluara
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Përdorni <a>{ about-debugging-this-firefox-runtime-name }</a> që të diagnostikoni skeda, zgjerime dhe <em>service workers</em> në këtë version të { -brand-shorter-name }.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Përdorni <a>{ about-debugging-this-firefox-runtime-name }</a> që të diagnostikoni zgjerime dhe <em>service workers</em> në këtë version të { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Lidhni një Pajisje
 # USB section of the Setup page
@@ -103,16 +105,22 @@ about-debugging-setup-usb-status-enabled = E aktivizuar
 about-debugging-setup-usb-status-disabled = E çaktivizuar
 about-debugging-setup-usb-status-updating = Po përditësohet…
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu = Aktivizoni menunë Zhvillues te pajisja juaj Android. <a>Mësoni se si</a>
+about-debugging-setup-usb-step-enable-dev-menu2 = Aktivizoni menu Zhvilluesi te pajisja juaj Android.
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug = Aktivizoni menunë Diagnostikim USB te menuja Zhvillues në Android. <a>Mësoni se si</a>
+about-debugging-setup-usb-step-enable-debug2 = Aktivizoni Diagnostikim USB te Menuja Zhvillues e Android-it.
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox = Aktivizoni menunë Diagnostikim USB në Firefox te pajisje Android. <a>Mësoni se si</a>
+about-debugging-setup-usb-step-enable-debug-firefox2 = Aktivizoni Diagnostikim USB te Firefox-i në pajisjen Android.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Lidheni pajisjen Android me kompjuterin tuaj.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = Probleme lidhjeje me një pajisje USB? <a>Diagnostikojeni</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Vendndodhje Në Rrjet
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = Probleme lidhjeje përmes vendndodhjeje rrjeti? <a>Diagnostikojeni</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Shtoje
@@ -202,11 +210,6 @@ about-debugging-connection-prompt-enable-button = Aktivizo kërkesë lidhjeje
 about-debugging-connection-prompt-disable-button = Çaktivizo kërkesë lidhjeje
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
 about-debugging-profiler-dialog-title2 = Profilizues
-# Label of a checkbox displayed in the runtime page for "This Firefox".
-# This checkbox will toggle preferences that enable local addon debugging.
-# The "Learn more" link points to MDN.
-# https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
-about-debugging-extension-debug-setting-label = Aktivizoni diagnostikim zgjerimesh. <a>Mësoni më tepër</a>
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
@@ -295,3 +298,9 @@ about-debugging-main-process-description2 = Proces Kryesor për shfletuesin e sy
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Mbylle mesazhin
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = Hollësi gabimi
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = Hollësi sinjalizimi
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = Hollësi
