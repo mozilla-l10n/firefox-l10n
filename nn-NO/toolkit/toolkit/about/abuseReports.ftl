@@ -23,6 +23,7 @@ abuse-report-submit-button = Send inn
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+abuse-report-messagebar-submitting = Sender rapport for <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted-noremove = Takk for at du sende inn ein rapport.
 
 ## Message bars actions.
@@ -32,4 +33,5 @@ abuse-report-messagebar-action-cancel = Avbryt
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-deceptive-example = Døme: villeiande skildring eller bilde
 abuse-report-other-reason = Noko anna
