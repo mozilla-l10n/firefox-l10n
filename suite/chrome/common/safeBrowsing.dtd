@@ -21,9 +21,13 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "<span id='phishing_sitename'/> ცნობილია, როგორც თაღლითური საიტი და შეზღუდულია უსაფრთხოების მიზნით.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>თაღლითური საიტები ისეა მოწყობილი, რომ შეძლოს მოტყუებით გაგაკეთებინოთ რამე სახიფათო მოქმედება, მაგალითად, დაგაყენებინოთ პროგრამა, ან ხელყოს თქვენი პირადი მონაცემები, როგორიცაა პაროლები, სატელეფონო ნომრები ან საკრედიტო ბარათები.</p><p>ნებისმიერი მონაცემის ასეთ საიტზე შეყვანამ, შესაძლოა დაგაზარალოთ და ზიანი მოგაყენოთ.</p>">
 
+<!ENTITY safeb.blocked.harmfulPage.title "ეს საიტი შესაძლოა მავნე კოდს შეიცავდეს">
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; ზღუდავს გვერდს <span id='harmful_sitename'/>, ვინაიდან შესაძლოა სახიფათო პროგრამას აყენებდეს და იპარავდეს ან აზიანებდეს თქვენს პირად მონაცემებს (როგორიცაა ფოტოები, პაროლები, შეტყობინებები და საკრედიტო ბარათების ნომრები).">
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">
+
 <!-- Localization note (reportDeceptiveSite, notADeceptiveSite) - The two button strings will never be shown at the same time, so it's okay for them to have the same access key. -->
 <!ENTITY reportDeceptiveSite.label "მოხსენება თაღლითურ საიტზე…">
 <!ENTITY reportDeceptiveSite.accesskey "მ">
 <!ENTITY notADeceptiveSite.label "ეს თაღლითური საიტი არაა…">
 <!ENTITY notADeceptiveSite.accesskey "თ">
-
