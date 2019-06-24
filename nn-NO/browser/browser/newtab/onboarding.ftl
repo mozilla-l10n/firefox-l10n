@@ -26,6 +26,7 @@ onboarding-join-form-body = Skriv inn e-postadressa di for å kome i gang.
 onboarding-join-form-email =
     .placeholder = Skriv inn e-postadresse
 onboarding-join-form-email-error = Gyldig e-postadresse påkravd
+onboarding-join-form-legal = Ved å fortsetje godtek du <a data-l10n-name="terms">tenestevilkåra</a> våre og <a data-l10n-name="privacy">personvernerklæringa</a> vår.
 onboarding-join-form-continue = Fortset
 onboarding-start-browsing-button-label = Start nettlesing
 
@@ -33,7 +34,9 @@ onboarding-start-browsing-button-label = Start nettlesing
 ## description.
 
 onboarding-benefit-products-title = Nyttige produkt
+onboarding-benefit-products-text = Få ting gjort med ein familie av verktøy som respekterer personvernet ditt på alle einingane dine.
 onboarding-benefit-knowledge-title = Praktisk kunnskap
+onboarding-benefit-knowledge-text = Lær alt du treng å vite for å ha ei betre og sikrare oppleving på nettet.
 onboarding-benefit-privacy-title = Ekte personvern
 
 ## These strings belong to the individual onboarding messages.
