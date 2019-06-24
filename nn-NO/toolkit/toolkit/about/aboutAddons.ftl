@@ -332,6 +332,7 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> er fjerna.
+pending-uninstall-undo-button = Angre
 addon-detail-updates-label = Tillat automatiske oppdateringar
 addon-detail-updates-radio-default = Standard
 addon-detail-updates-radio-on = På
@@ -352,5 +353,6 @@ addon-badge-recommended =
 available-updates-heading = Tilgjengelege oppdateringar
 recent-updates-heading = Nylege oppdateringar
 release-notes-loading = Lastar…
+addon-permissions-empty = Denne utvidinga krev inkje løyve
 recommended-extensions-heading = Tilrådde utvidingar
 recommended-themes-heading = Tilrådde tema
