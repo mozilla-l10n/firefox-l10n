@@ -21,9 +21,13 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Tato webová stránka na serveru <span id='phishing_sitename'/> byla nahlášena jako klamavá, a proto byla na základě vašeho bezpečnostního nastavení zablokována.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Klamavé stránky jsou takové, které se vás snaží přimět k něčemu nebezpečnému, jako je instalace softwaru nebo prozrazení osobních informací, např. hesel, telefonního čísla nebo čísla kreditní karty.</p><p>Zadání jakýchkoliv informací na této stránce může vést ke krádeži vaší identity nebo jejímu zneužití.</p>">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Tato stránka může obsahovat malware">
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "Aplikace &brandShortName; zablokovala tuto stránku na serveru <span id='harmful_sitename'/>, protože se může pokoušet nainstalovat nebezpečné programy a ukrást nebo smazat vaše data (např. fotografie, hesla, zprávy nebo číslo platební karty).">
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">
+
 <!-- Localization note (reportDeceptiveSite, notADeceptiveSite) - The two button strings will never be shown at the same time, so it's okay for them to have the same access key. -->
 <!ENTITY reportDeceptiveSite.label "Nahlásit klamavou stránku…">
 <!ENTITY reportDeceptiveSite.accesskey "l">
 <!ENTITY notADeceptiveSite.label "Tato stránka není klamavá…">
 <!ENTITY notADeceptiveSite.accesskey "k">
-
