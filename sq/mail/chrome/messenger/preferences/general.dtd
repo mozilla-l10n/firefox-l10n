@@ -38,3 +38,7 @@
 <!ENTITY browse.accesskey                 "f">
 
 <!ENTITY defaultSearchEngine.label        "Motor Parazgjedhje Kërkimesh">
+<!ENTITY addSearchEngine.label            "Shtoni prej kartele">
+<!ENTITY addSearchEngine.accesskey        "S">
+<!ENTITY removeSearchEngine.label         "Hiqe">
+<!ENTITY removeSearchEngine.accesskey     "q">
