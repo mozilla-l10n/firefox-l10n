@@ -39,6 +39,8 @@ app-basics-update-dir =
     }
 app-basics-update-history = Oppdateringshistorikk
 app-basics-show-update-history = Vis oppdateringshistorikk
+# Represents the path to the binary used to start the application.
+app-basics-binary = Programfil
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Profilmappe
