@@ -10,6 +10,7 @@
 <!ENTITY helpMenuWin.label "Aiuto">
 <!ENTITY helpMenuWin.accesskey "u">
 <!ENTITY aboutProduct2.label "Informazioni su &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey "I">
 <!ENTITY helpTroubleshootingInfo.label     "Risoluzione dei problemi">
 <!ENTITY helpTroubleshootingInfo.accesskey "s">
 <!ENTITY helpSafeMode.label     "Riavvia disattivando i componenti aggiuntivi">
@@ -28,16 +29,22 @@
 <!ENTITY aboutMenuCmd2.label "Informazioni su &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "I">
 <!ENTITY productHelp.label "Guida di &brandShortName;">
+<!ENTITY productHelp.accesskey "G">
 <!ENTITY productHelp.commandkey "VK_F1">
 <!ENTITY productHelpMac.commandkey "?">
 <!ENTITY productHelpMac.modifiers "accel">
 
 <!ENTITY helpKeyboardShortcuts.label "Scorciatoie da tastiera">
+<!ENTITY helpKeyboardShortcuts.accesskey "S">
 
 <!ENTITY helpFeedbackPage.label "Invia feedback…">
+<!ENTITY helpFeedbackPage.accesskey "I">
 
 <!ENTITY helpShowTour2.label "Panoramica di &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey "P">
 
 <!ENTITY helpGetInvolvedPage.label "Collabora con noi">
+<!ENTITY helpGetInvolvedPage.accesskey "C">
 
 <!ENTITY helpDonationsPage.label "Fai una donazione">
+<!ENTITY helpDonationsPage.accesskey "F">
