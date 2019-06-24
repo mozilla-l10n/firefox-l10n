@@ -466,7 +466,7 @@ shown from Android O while a tab is being queued.-->
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-<!ENTITY datareporting_fhr_title "Relatório de integridade do &brandShortName;">
+<!ENTITY datareporting_fhr_title "Relatório de Integridade do &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Compartilhar com a &vendorShortName; dados sobre a saúde do seu navegador e ajudar você a entender o desempenho do seu navegador">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Compartilhar dados de desempenho, uso, hardware e personalização com a &vendorShortName; para nos ajudar a melhorar o &brandShortName;">
