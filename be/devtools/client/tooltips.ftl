@@ -42,3 +42,6 @@ inactive-css-not-grid-item-fix = Паспрабуйце дадаць <strong>dis
 inactive-css-not-grid-container-fix = Паспрабуйце дадаць <strong>display:grid</strong> ці <strong>display:inline-grid</strong>. { learn-more }
 inactive-css-not-flex-item-fix = Паспрабуйце дадаць <strong>display:flex</strong> ці <strong>display:inline-flex</strong> да бацькоўскага элемента. { learn-more }
 inactive-css-not-flex-container-fix = Паспрабуйце дадаць <strong>display:flex</strong> ці <strong>display:inline-flex</strong>. { learn-more }
+inactive-css-not-inline-or-tablecell-fix = Паспрабуйце дадаць <strong>display:inline</strong> ці <strong>display:table-cell</strong>. { learn-more }
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Паспрабуйце дадаць <strong>display:inline-block</strong> або <strong>display:block</strong>. { learn-more }
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Паспрабуйце дадаць <strong>display:inline-block</strong>. { learn-more }
