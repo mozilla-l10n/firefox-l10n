@@ -76,6 +76,13 @@ connection-dns-over-https-url-default =
     .label = Gunakan bawaan ({ $url })
     .accesskey = G
     .tooltiptext = Gunakan URL bawaan untuk mendapatkan DNS lewat HTTPS
+connection-dns-over-https-url-resolver = Gunakan Penyedia
+    .accesskey = P
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (Baku)
+    .tooltiptext = Gunakan URL baku untuk memecahkan masalah DNS atas HTTPS
 connection-dns-over-https-url-custom =
     .label = Khusus
     .accesskey = K

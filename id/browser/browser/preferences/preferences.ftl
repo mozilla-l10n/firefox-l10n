@@ -34,6 +34,7 @@ policies-notice =
         [windows] Organisasi Anda telah menonaktifkan kemampuan untuk mengubah beberapa pengaturan.
        *[other] Organisasi Anda telah menonaktifkan kemampuan untuk mengubah beberapa pengaturan.
     }
+managed-notice = Peramban Anda dikelola oleh organisasi Anda.
 pane-general-title = Umum
 category-general =
     .tooltiptext = { pane-general-title }
@@ -277,7 +278,21 @@ update-pref-write-failure-title = Kegagalan Penulisan
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Gagal menyimpan preferensi. Tidak dapat menulis ke file: { $path }
+update-setting-write-failure-title = Gagal menyimpan preferensi Pemutakhiran
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } mengalami kesalahan dan tidak menyimpan perubahan ini. Perhatikan bahwa pengaturan preferensi pembaruan ini memerlukan izin untuk menulis ke file di bawah ini. Anda atau administrator sistem mungkin dapat menyelesaikan kesalahan dengan memberikan kontrol penuh grup Pengguna ke file ini.
+    
+    Tidak dapat menulis ke file: { $path }
 update-in-progress-title = Sedang Memperbarui
+update-in-progress-message = Apakah Anda ingin { -brand-short-name } melanjutkan pembaruan ini?
+update-in-progress-ok-button = &Hapus Perubahan
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Lanjutkan
 
 ## General Section - Performance
 
@@ -532,6 +547,9 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = Pengecualian…
     .accesskey = c
+forms-generate-passwords =
+    .label = Sarankan dan hasilkan kata sandi yang kuat
+    .accesskey = u
 forms-saved-logins =
     .label = Info Masuk Tersimpan…
     .accesskey = I
@@ -737,6 +755,9 @@ permissions-block-autoplay-media-exceptions =
     .label = Pengecualian…
     .accesskey = l
 permissions-autoplay = Putar Otomatis
+permissions-autoplay-settings =
+    .label = Pengaturan...
+    .accesskey = t
 permissions-block-popups =
     .label = Blokir jendela pop-up
     .accesskey = B

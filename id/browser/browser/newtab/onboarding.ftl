@@ -88,10 +88,16 @@ onboarding-send-tabs-title = Kirim Tab Secara Instan
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Kirim Tab secara instan membagikan laman di antara perangkat Anda tanpa harus menyalin, menempel, atau meninggalkan peramban.
+onboarding-send-tabs-button = Mulai Gunakan Kirim Tab
 onboarding-pocket-anywhere-title = Baca dan Dengarkan di Mana Saja
+onboarding-pocket-anywhere-text2 = Simpan konten favorit Anda luring dengan aplikasi { -pocket-brand-name } dan baca, dengarkan, dan simak kapanpun senyaman Anda.
 onboarding-pocket-anywhere-button = Coba { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Bawa Sandi Anda ke Mana Saja
+onboarding-lockwise-passwords-text2 = Simpan kata sandi yang Anda simpan dengan aman dan mudah masuk ke akun Anda dengan { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Dapatkan Aplikasinya
+onboarding-facebook-container-title = Tetapkan Batas dengan Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } menjaga profil Anda terpisah dari hal lainnya, menjadikan Facebook lebih sulit untuk menargetkan Anda dengan iklan.
+onboarding-facebook-container-button = Tambahkan Ekstensi
 
 ## Message strings belonging to the Return to AMO flow
 
