@@ -18,3 +18,4 @@
 <!ENTITY setDesktopBackground.title "Nastavi ozadje namizja">
 <!ENTITY openDesktopPrefs.label     "Odpri nastavitve namizja">
 <!ENTITY closeWindow.key            "w">
+<!ENTITY previewUnavailable         "Predogled ni na voljo">
