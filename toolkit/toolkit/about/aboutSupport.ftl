@@ -32,6 +32,11 @@ app-basics-name = სახელი
 app-basics-version = ვერსია
 app-basics-build-id = ანაწყობის ID
 app-basics-update-channel = განახლების არხი
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] განახლების მდებარეობა
+       *[other] განახლების საქაღალდე
+    }
 app-basics-update-history = განახლების ისტორია
 app-basics-show-update-history = განახლების ისტორიის ჩვენება
 # Represents the path to the binary used to start the application.
