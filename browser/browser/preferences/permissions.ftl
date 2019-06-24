@@ -34,6 +34,7 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Simpan Perubahan
     .accesskey = S
+permissions-autoplay-menu = Baku untuk semua situs Web:
 permissions-searchbox =
     .placeholder = Cari Situs Web
 permissions-capabilities-autoplay-allow =
@@ -104,6 +105,10 @@ permissions-exceptions-autoplay-media-desc2 = Anda dapat menentukan situs web ma
 
 ## Site Permissions - Autoplay
 
+permissions-site-autoplay-window =
+    .title = Pengaturan - Putar-otomatis
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Anda dapat mengelola situs yang tidak mengikuti pengaturan putar-otomatis baku Anda di sini.
 
 ## Site Permissions - Notifications
 

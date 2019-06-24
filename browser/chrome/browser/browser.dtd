@@ -341,6 +341,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Anda telah memblokir situs ini menggunakan pengaya Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Anda telah memblokir akses MIDI untuk situs web ini.">
 
+<!ENTITY urlbar.installBlocked.tooltip           "Anda telah memblokir pemasangan pengaya untuk situs Web ini.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tampilkan riwayat">
 
@@ -534,6 +535,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
 <!ENTITY customizeMenu.reportExtension.label "Laporkan Ekstensi">
+<!ENTITY customizeMenu.reportExtension.accesskey "o">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -884,6 +886,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Laman ini dimuat dari ekstensi.">
 <!ENTITY identity.insecureLoginForms2 "Info masuk yang dimasukkan di laman ini bisa diketahui orang lain.">
 
+<!ENTITY identity.customRoot "Koneksi diverifikasi oleh penerbit sertifikat yang tidak dikenali oleh Mozilla.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; telah memblokir bagian dari laman ini yang tidak aman.">
@@ -903,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Situs web ini mengandung konten yang tidak aman (misalnya skrip) dan sambungan Anda tidak pribadi.">
 <!ENTITY identity.description.activeLoaded2 "Informasi yang Anda bagikan dengan situs ini dapat dilihat oleh pihak lain (misalnya sandi, pesan, kartu kredit, dll.)">
 
+<!ENTITY identity.description.customRoot "Mozilla tidak mengenali penerbit sertifikat ini. Itu mungkin telah ditambahkan dari sistem operasi Anda atau oleh administrator.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Aktifkan perlindungan">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "A">
