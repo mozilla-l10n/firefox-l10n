@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 abuse-report-title-extension = Rapporter denne utvidinga til { -vendor-short-name }
+abuse-report-title-theme = Rapporter dette temaet til { -vendor-short-name }
 abuse-report-subtitle = Kva er problemet?
 # Variables:
 #   $author-name (string) - Name of the add-on author
@@ -22,6 +23,7 @@ abuse-report-submit-button = Send inn
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+abuse-report-messagebar-submitted-noremove = Takk for at du sende inn ein rapport.
 
 ## Message bars actions.
 
