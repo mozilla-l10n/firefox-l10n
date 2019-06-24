@@ -2,8 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-abuse-report-title-extension = საჩივარს ამ გაფართოების შესახებ გაეცნოს { -vendor-short-name }
-abuse-report-title-theme = საჩივარს, ამ თემის შესახებ გაეცნოს { -vendor-short-name }
+abuse-report-title-extension = საჩივარს ამ გაფართოების შესახებ გაეცნობა { -vendor-short-name }
+abuse-report-title-theme = საჩივარს, ამ თემის შესახებ გაეცნობა { -vendor-short-name }
 abuse-report-subtitle = რას ეხება საქმე?
 # Variables:
 #   $author-name (string) - Name of the add-on author
@@ -71,7 +71,7 @@ abuse-report-broken-suggestions-theme =
     როგორც ჩანს, თქვენ აღმოაჩინეთ ხარვეზი. აქ გამოგზავნილი მოხსენების გარდა, კარგი იქნება, თუ მუშაობასთან
     დაკავშირებული საკითხების მოსაგვარებლად, თავად თემის შემმუშავებელს დაუკავშირდებით.
     <a data-l10n-name="support-link">ეწვიეთ თემის ვებსაიტს</a> შემმუშავებელთან დასაკავშირებლად.
-abuse-report-policy-reason = სიძულვილის, ძალადობის ან უკანონობის შემცველი
+abuse-report-policy-reason = სიძულვილის, ძალადობის ან უკანონობის შემცველია
 abuse-report-policy-suggestions =
     შენიშვნა: საავტორო უფლებებისა და სავაჭრო ნიშნების დარღვევების შესახებ, მოხსენებები ცალკე უნდა გამოიგზავნოს.
     <a data-l10n-name="report-infringement-link">ისარგებლეთ ამ მითითებებით</a>
