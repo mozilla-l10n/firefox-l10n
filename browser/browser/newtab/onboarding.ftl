@@ -64,6 +64,7 @@ onboarding-ghostery-text = Surf raskare, smartare eller sikrare med utvidingar s
 onboarding-fxa-title = Synkroniser
 onboarding-fxa-text = Registrer deg for eit { -fxaccount-brand-name } og synkroniser bokmerka dine, passord og opne faner overalt der du brukar { -brand-short-name }.
 onboarding-tracking-protection-title2 = Vern frå sporing
+onboarding-tracking-protection-text2 = { -brand-short-name } hjelper til med å stoppe nettstadar frå å spore deg på nettet, noko som gjer det vanskelegare for reklamar å følgje deg rundt om på nettet.
 onboarding-tracking-protection-button2 = Korleis det verkar
 onboarding-data-sync-title = Ta med deg innstillingane dine
 onboarding-data-sync-button2 = Logg inn på { -sync-brand-short-name }
@@ -79,10 +80,14 @@ onboarding-mobile-phone-text = Last ned { -brand-product-name } for iOS eller An
 # browser.
 onboarding-mobile-phone-button = Last ned mobilnettlesar
 onboarding-send-tabs-title = Send raskt faner til deg sjølv
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Send faner deler direkte sider mellom einingane dine, utan å måtte kopiere, lime inn eller forlate nettlesaren.
 onboarding-send-tabs-button = Prøv funksjonen
 onboarding-pocket-anywhere-title = Les og lytt kvar som helst
 onboarding-pocket-anywhere-button = Prøv { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Ta med deg passorda overalt
+onboarding-lockwise-passwords-text2 = Oppbevar passorda du lagrar sikkert, og logg deg enkelt inn på kontoane dine med { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Last ned appen
 onboarding-facebook-container-title = Spesifiser grenser for Facebook
 onboarding-facebook-container-button = Legg til utvidinga
