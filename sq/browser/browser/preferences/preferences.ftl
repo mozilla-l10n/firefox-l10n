@@ -34,6 +34,7 @@ policies-notice =
         [windows] Enti juaj e ka çaktivizuar aftësinë e ndryshimit të disa mundësive
        *[other] Enti juaj e ka çaktivizuar mundësinë e ndryshimit të disa parapëlqimeve
     }
+managed-notice = Shfletuesi juaj administrohet nga enti juaj.
 pane-general-title = Të përgjithshme
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = Privatësi & Siguri
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Llogari Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -293,6 +290,21 @@ update-pref-write-failure-title = Dështim Shkrimi
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = S’arrihet të ruhet parapëlqimi. S’u shkrua dot te kartela: { $path }
+update-setting-write-failure-title = Gabim në ruajtjen e parapëlqimeve të Përditësimit
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name }-i hasi një gabim dhe s’e ruajti këtë ndryshim. Kini parasysh se caktimi i këtij parapëlqimi mbi përditësimet lyp leje për shkrim te kartela më poshtë. Ju, ose një përgjegjës sistemi mund të jeni në gjendje ta zgjidhni gabimin duke i akorduar grupit Përdorues kontroll të plotë të kësaj kartele.
+    
+    S’u shkrua dot te kartela: { $path }
+update-in-progress-title = Përditësim Në Ecuri e Sipër
+update-in-progress-message = Doni që { -brand-short-name }-i të vazhdojë me këtë përditësim?
+update-in-progress-ok-button = &Hidhe Tej
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Vazhdo
 
 ## General Section - Performance
 
@@ -528,8 +540,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Ruaje
     .accesskey = u
-sync-mobilepromo-single = Lidhni një tjetër pajisje
-sync-mobilepromo-multi = Administroni pajisje
 sync-connect-another-device = Lidhni tjetër pajisje
 sync-manage-devices = Administroni pajisje
 sync-fxa-begin-pairing = Çiftoni një pajisje
@@ -549,6 +559,9 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = Përjashtime…
     .accesskey = a
+forms-generate-passwords =
+    .label = Sugjeroni dhe prodhoni fjalëkalime të fuqishëm
+    .accesskey = S
 forms-saved-logins =
     .label = Kredenciale të Ruajtura…
     .accesskey = K
@@ -686,7 +699,6 @@ content-blocking-all-windows-trackers = Gjurmues të njohur në krejt dritaret
 content-blocking-all-third-party-cookies = Krejt cookie-t prej palësh të treta
 content-blocking-cryptominers = Nxjerrës kriptomonedhash
 content-blocking-warning-title = Kini mendjen!
-content-blocking-warning-desc = Bllokimi i cookie-eve dhe gjurmuesve mund të bëjë që disa sajte të mos funksionojnë. Është e lehtë të çaktivizoni bllokime për sajte të cilëve u zini besë.
 content-blocking-warning-description = Bllokimi i lëndës mund të dëmtojë funksionimin e disa sajteve. Është e lehtë të çaktivizoni bllokimin për sajte të cilëve u zini besë.
 content-blocking-learn-how = Mësoni se si
 content-blocking-reload-description = Do t’ju duhet të ringarkoni skedat tuaja që të zbatohen këto ndryshime.
@@ -753,6 +765,10 @@ permissions-block-autoplay-media2 =
 permissions-block-autoplay-media-exceptions =
     .label = Përjashtime…
     .accesskey = P
+permissions-autoplay = Vetëluaje
+permissions-autoplay-settings =
+    .label = Rregullime…
+    .accesskey = R
 permissions-block-popups =
     .label = Blloko dritare flluska
     .accesskey = B

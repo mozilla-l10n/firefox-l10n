@@ -131,7 +131,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Shtypni…">
 <!ENTITY printCmd.accesskey "y">
 <!ENTITY printCmd.commandkey "p">
-
 <!ENTITY importFromAnotherBrowserCmd.label "Importoni prej Tjetër Shfletuesi…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
@@ -259,6 +258,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.label "Picture-in-Picture">
+<!ENTITY pictureInPicture.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -339,6 +340,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasBlocked.tooltip            "Për këtë sajt e keni bllokuar përftimin e të dhënave të kanavacës.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Ia keni bllokuar këtij sajti përdorimin e shtojcës Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "E keni bllokuar hyrjen MIDI për këtë sajt.">
+
+<!ENTITY urlbar.installBlocked.tooltip           "Ia keni bllokuar këtij sajti instalimin e shtesave.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Shfaqni historikun">
 
@@ -437,7 +440,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "M">
 <!ENTITY preferencesCmdUnix.label       "Parapëlqime">
 <!ENTITY preferencesCmdUnix.accesskey     "a">
-
 <!ENTITY logins.label                           "Kredenciale Hyrjesh dhe Fjalëkalime">
 
 <!ENTITY clearRecentHistory.label               "Pastroni Historikun Së Fundi…">
@@ -884,6 +886,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Kjo faqe është ngarkuar nga një zgjerim.">
 <!ENTITY identity.insecureLoginForms2 "Kredencialet e hyrjeve të dhëna në këtë faqe mund të komprometohen.">
 
+<!ENTITY identity.customRoot "Lidhje e verifikuar nga një lëshues dëshmish që s’njihet nga Mozilla.">
+
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName;-i ka bllokuar pjesë të kësaj faqeje që s&apos;janë të sigurta.">
 <!ENTITY identity.passiveLoaded "Pjesë të kësaj faqeje (fjala vjen, figura) s&apos;janë të sigurta.">
@@ -901,6 +905,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Edhe pse &brandShortName;-i ka bllokuar një pjesë të lëndës, në këtë faqe prapë ka lëndë që s&apos;është e sigurt (fjala vjen, figura).">
 <!ENTITY identity.description.activeLoaded "Ky sajt përmban lëndë që s&apos;është e sigurt (fjala vjen, programthe) dhe lidhja juaj me të s&apos;është private.">
 <!ENTITY identity.description.activeLoaded2 "Të dhënat që ndani me këtë sajt mund të shihen nga të tjerë (fjala vjen, fjalëkalime, mesazhe, karta krediti, etj.).">
+
+<!ENTITY identity.description.customRoot "Mozilla nuk e njeh këtë lëshues dëshmish. Mund të jetë shtuar nga sistemi juaj operativ ose nga një përgjegjës.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Aktivizo mbrojtjen">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "A">

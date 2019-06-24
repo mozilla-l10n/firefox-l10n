@@ -53,6 +53,7 @@ policy-EnableTrackingProtection = Aktivizoni ose çaktivizoni Bllokim Lënde, dh
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Instaloni, çinstaloni ose kyçni zgjerime. Mundësia Instaloni si parametra përdor URL ose shtigje. Mundësitë Çinstaloni dhe Kyçur përdorin ID zgjerimesh.
+policy-ExtensionSettings = Administroni krejt anët e instalimit të zgjerimeve.
 policy-ExtensionUpdate = Aktivizoni ose çaktivizoni përditësime të vetvetishme të zgjerimeve.
 policy-FirefoxHome = Formësoni Kreun e Firefox-it
 policy-FlashPlugin = Lejoni ose jo përdorimin e shtojcës Flash.
