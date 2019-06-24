@@ -631,7 +631,7 @@
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nouveau message">
 <!ENTITY appmenuNewContactCmd.label "Contact du carnet d’adresses…">
-<!ENTITY appmenuEditMenu.label "Éditer">
+<!ENTITY appmenuEditMenu.label "Édition">
 <!ENTITY appmenuToolbarLayout.label "Personnaliser les barres d’outils…">
 <!ENTITY appmenuSelectThread.label "Sélectionner la discussion">
 <!ENTITY appmenuSelectFlagged.label "Sélectionner les messages suivis">
