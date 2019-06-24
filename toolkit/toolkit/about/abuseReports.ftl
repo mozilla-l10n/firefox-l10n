@@ -37,6 +37,7 @@ abuse-report-messagebar-action-cancel = Avbryt
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason = Skadar datamaskina mi og dataa mine
 abuse-report-damage-example = Døme: Injiserte skadeleg kode eller stal data
 abuse-report-spam-reason = Viser spam eller reklamar
 abuse-report-spam-example = Døme: Set inn reklame på nettsider
@@ -44,5 +45,6 @@ abuse-report-settings-suggestions-search = Endre standardinnstillingane dine for
 abuse-report-settings-suggestions-homepage = Endre startside og ny fane-sida
 abuse-report-deceptive-reason = Gjev seg ut for å vere noko den ikkje er
 abuse-report-deceptive-example = Døme: villeiande skildring eller bilde
+abuse-report-unwanted-reason = Ville aldri ha denne utvidinga og greier ikkje å kvitte meg med henne
 abuse-report-unwanted-example = Døme: Ein app installerte den utan løyve frå meg
 abuse-report-other-reason = Noko anna

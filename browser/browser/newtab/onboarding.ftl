@@ -67,6 +67,8 @@ onboarding-tracking-protection-title2 = Vern frå sporing
 onboarding-tracking-protection-text2 = { -brand-short-name } hjelper til med å stoppe nettstadar frå å spore deg på nettet, noko som gjer det vanskelegare for reklamar å følgje deg rundt om på nettet.
 onboarding-tracking-protection-button2 = Korleis det verkar
 onboarding-data-sync-title = Ta med deg innstillingane dine
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Synkroniser bokmerka dine, passord og meir overalt der du brukar { -brand-product-name }.
 onboarding-data-sync-button2 = Logg inn på { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Hald auge med datalekkasjar
 onboarding-firefox-monitor-button = Registrer deg for varslingar
@@ -90,6 +92,7 @@ onboarding-lockwise-passwords-title = Ta med deg passorda overalt
 onboarding-lockwise-passwords-text2 = Oppbevar passorda du lagrar sikkert, og logg deg enkelt inn på kontoane dine med { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Last ned appen
 onboarding-facebook-container-title = Spesifiser grenser for Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } held profilen din skilt frå alt anna, noko som gjer det vanskeligare for Facebook å målrette annonsar mot deg.
 onboarding-facebook-container-button = Legg til utvidinga
 
 ## Message strings belonging to the Return to AMO flow
