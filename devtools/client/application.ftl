@@ -23,10 +23,18 @@ serviceworker-worker-unregister = Скасаваць рэгістрацыю
 # link opens a new devtools toolbox for this service worker. The title attribute is only
 # displayed when the link is disabled.
 serviceworker-worker-debug = Адладка
-    .title = Можна адладжваць толькі запушчаныя service workers 
+    .title = Можна адладжваць толькі запушчаныя service workers
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = Запусціць
+# Text for the debug link displayed for an already started Service Worker, when we
+# are in multi e10s mode, which effectively disables this link.
+serviceworker-worker-debug-forbidden = Адладзіць
+    .title = Service worker-ы можна адладжваць толькі калі множны e10s выключаны
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start2 = Запусціць
+    .title = Service worker-ы можна запускаць толькі калі множны e10s выключаны
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Абноўлена <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
