@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "Mba\&apos;ekuaarã\&apos;ive, ñembyatyve">
 <!ENTITY firstrun_data_subtext2 "Embogue ta\&apos;angakuéra embohasa\&apos;ive hag̃ua mba\&apos;ekuaarã peteĩteĩva tenda eho hague pegua.">
 <!ENTITY firstrun_sync_title "Mbojuehe">
+<!ENTITY updatednewfirstrun_sync_title "Mba\&apos;ete">
 <!ENTITY firstrun_sync_message2 "Ejapyhyjey eheja haguépe.">
 <!ENTITY firstrun_sync_subtext2 "Eipuru Sync ejuhu hag̃ua ne rechaukaha, ñe\&apos;ẽñemi ha ambueve reñongatuva\&apos;ekue &brandShortName; pe eipuru vove oimeraẽva mba\&apos;e\&apos;oka rerekóva (ne mohendaha, ne pumbyry, tablet  hamba\&apos;e).">
 <!ENTITY newfirstrun_sync_subtext "Embojuehe tetepy eñongatúva pumbyrýpe Firefox mesa arigua ndive, ñemi ha tekorosã reheve.">
