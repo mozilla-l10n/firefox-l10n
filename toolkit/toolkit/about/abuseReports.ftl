@@ -28,10 +28,16 @@ abuse-report-messagebar-submitted-noremove = Takk for at du sende inn ein rappor
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove-extension = Ja, fjern han
+abuse-report-messagebar-action-keep-extension = Nei, eg vil behalde han
+abuse-report-messagebar-action-remove-theme = Ja, fjern han
+abuse-report-messagebar-action-keep-theme = Nei, eg vil behalde han
 abuse-report-messagebar-action-retry = Prøv ein gong til
 abuse-report-messagebar-action-cancel = Avbryt
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-settings-suggestions-search = Endre standardinnstillingane dine for søking
+abuse-report-settings-suggestions-homepage = Endre startside og ny fane-sida
 abuse-report-deceptive-example = Døme: villeiande skildring eller bilde
 abuse-report-other-reason = Noko anna

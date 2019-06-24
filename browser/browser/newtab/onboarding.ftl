@@ -38,6 +38,12 @@ onboarding-benefit-products-text = Få ting gjort med ein familie av verktøy so
 onboarding-benefit-knowledge-title = Praktisk kunnskap
 onboarding-benefit-knowledge-text = Lær alt du treng å vite for å ha ei betre og sikrare oppleving på nettet.
 onboarding-benefit-privacy-title = Ekte personvern
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Alt vi gjer følgjer lovnaden vårt om personlege data (Personal Data Promise): Samle inn mindre. Oppbevar det sikkert. Ingen hemmelegheiter.
 
 ## These strings belong to the individual onboarding messages.
 
