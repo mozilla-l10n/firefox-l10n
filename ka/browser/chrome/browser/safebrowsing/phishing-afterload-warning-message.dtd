@@ -32,7 +32,7 @@
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "ეს საიტი შესაძლოა მავნე პროგრამებს შეიცავდეს">
-<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; ზღუდავს ამ გვერდს, ვინაიდან შესაძლოა მოტყუებით დაგაყენებინოთ პროგრამა, რომელიც ხელყოფს თქვენს ბრაუზერს (მაგალითად, შეგიცვლით საწყის გვერდს, ამოგიგდებთ დამატებით რეკლამებს საიტებზე და ა.შ.).">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; ზღუდავს ამ გვერდს, ვინაიდან შესაძლოა მოტყუებით დაგაყენებინოთ პროგრამა, რომელიც ხელყოფს თქვენს ბრაუზერს (მაგალითად, შეგიცვლით საწყის გვერდს, ამოგიგდებთ დამატებით რეკლამებს საიტებზე და ა. შ.).">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 

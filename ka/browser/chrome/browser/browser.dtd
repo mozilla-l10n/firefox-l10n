@@ -895,7 +895,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "ეს გვერდი სუსტ დაშიფვრას იყენებს.">
 
 <!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "კავშირი ამ საიტთან დაუცველია. თქვენ მიერ გადაგზავნილი ინფორმაცია შესაძლოა სხვებმაც ნახონ (მაგალითად პაროლები, შეტყობინებები, საკრედიტო ბარათების ნომრები და ა.შ.).">
+<!ENTITY identity.description.insecure "კავშირი ამ საიტთან დაუცველია. თქვენ მიერ გადაგზავნილი ინფორმაცია შესაძლოა სხვებმაც ნახონ (მაგალითად პაროლები, შეტყობინებები, საკრედიტო ბარათების ნომრები და ა. შ.).">
 <!ENTITY identity.description.insecureLoginForms "ამ გვერდზე შეყვანილი ანგარიშის მონაცემები დაუცველია და შესაძლოა მოიპარონ.">
 <!ENTITY identity.description.weakCipher "საიტთან კავშირი სუსტ დაშიფვრას იყენებს და დაუცველია.">
 <!ENTITY identity.description.weakCipher2 "სხვებსაც შეუძლიათ თქვენი ინფორმაციის ნახვა ან ვებსაიტის ქცევის შეცვლა.">
@@ -904,7 +904,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded2 "ეს ვებსაიტი შეიცავს შიგთავსს, რომელიც დაუცველია (როგორიცაა სურათები).">
 <!ENTITY identity.description.passiveLoaded3 "მიუხედავად იმისა, რომ &brandShortName; ზღუდავს გარკვეულ შიგთავსს, დაუცველი ნაწილი მაინც რჩება (როგორიცაა სურათები).">
 <!ENTITY identity.description.activeLoaded "საიტი შეიცავს შიგთავსს, რომელიც დაუცველია (როგორიცაა სკრიპტები) და მასთან კავშირი, ვერ უზრუნველყოფს პირადი მონაცემების უსაფრთხოებას.">
-<!ENTITY identity.description.activeLoaded2 "ინფორმაცია, რომელსაც ამ საიტს გაუზიარებთ შესაძლოა სხვებმაც ნახონ (მაგალითად პაროლები, შეტყობინებები, საკრედიტო ბარათები, ა.შ.).">
+<!ENTITY identity.description.activeLoaded2 "ინფორმაცია, რომელსაც ამ საიტს გაუზიარებთ შესაძლოა სხვებმაც ნახონ (მაგალითად პაროლები, შეტყობინებები, საკრედიტო ბარათები, ა. შ.).">
 
 <!ENTITY identity.description.customRoot "Mozilla არ ცნობს ამ სერტიფიკატის გამცემს. იგი შეიძლება დამატებულია თქვენი საოპერაციო სისტემას ან მმართველი პირის მიერ.">
 
@@ -1169,7 +1169,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.shareUrl.label "გაზიარება">
 <!ENTITY pageAction.shareMore.label "სხვა…">
 
-<!ENTITY libraryButton.tooltip "იხილეთ ისტორია, შენახული სანიშნები და ა.შ.">
+<!ENTITY libraryButton.tooltip "იხილეთ ისტორია, შენახული სანიშნები და ა. შ.">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
