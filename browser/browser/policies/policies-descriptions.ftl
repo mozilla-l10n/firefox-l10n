@@ -46,12 +46,14 @@ policy-DisplayBookmarksToolbar = Vis bokmerkeverktøylinja som standard.
 policy-DisplayMenuBar = Vise menylinja som standard.
 policy-DNSOverHTTPS = Konfigurer DNS over HTTPS.
 policy-DontCheckDefaultBrowser = Deaktiver sjekk om standard-nettlesar ved oppstart.
+policy-DownloadDirectory = Spesifiser og lås netlastingskatalogen.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Aktiver eller deaktiver innhaldsblokkering med moglegheit til å låse valet.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Installere, avinstallere eller låse tillegg. Installeringsalternativet tar nettadresser eller baner som parameter. Avinstallerings- og Låse-alternativa tek tilleggs-ID som parameter.
+policy-ExtensionSettings = Handter alle aspekt av utvidingsinstallasjonen.
 policy-ExtensionUpdate = Slå på eller slå av automatisk utvidingsoppdateringar.
 policy-FirefoxHome = Konfigurer Firefox startside.
 policy-FlashPlugin = Tillat eller nekt bruk av programtillegget Flash.
@@ -69,6 +71,7 @@ policy-OverridePostUpdatePage = Byt ut «Kva er nytt»-sida som vert vist etter 
 policy-Permissions = Still inn løyve for kamera, mikrofon, plassering og varsel.
 policy-PopupBlocking = Tillat at visse nettstadar skal kunne vise sprettoppvindauge som standard.
 policy-Preferences = Still inn og lås verdien for ei delmengde av innstillingar.
+policy-PromptForDownloadLocation = Spør kvar nedlasta filer skal lagrast.
 policy-Proxy = Konfigurer proxy-innstillingar.
 policy-RequestedLocales = Vel rekkjefølgja av språk, som skal brukeast i programmet.
 policy-SanitizeOnShutdown = Fjern alle nettlesingsdata ved avslutting.
