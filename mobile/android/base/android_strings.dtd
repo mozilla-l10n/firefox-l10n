@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "ნაკლები მონაცემები, მეტი დანაზოგი">
 <!ENTITY firstrun_data_subtext2 "გამორთეთ გამოსახულებები ნებისმიერ საიტზე ნაკლები მონაცემის დასახარჯად.">
 <!ENTITY firstrun_sync_title "სინქრონიზაცია">
+<!ENTITY updatednewfirstrun_sync_title "ანგარიში">
 <!ENTITY firstrun_sync_message2 "განაგრძეთ იქიდან, სადაც გაჩერდით.">
 <!ENTITY firstrun_sync_subtext2 "გამოიყენეთ სინქრონიზაცია სანიშნების, პაროლებისა და სხვა მონაცემების, რომელთაც &brandShortName; ინახავს, ყველა მოწყობილობაზე გასაზიარებლად.">
 <!ENTITY newfirstrun_sync_subtext "დაასინქრონეთ ნებისმიერი რამ, რასაც შეინახავთ მობილურში, კომპიუტერის Firefox-ზე, უსაფრთხოდ და დაცულად.">
@@ -68,6 +69,12 @@
 <!ENTITY  sending_crash_report "უეცარი გათიშვის მოხსენება იგზავნება\u2026">
 <!ENTITY  crash_close_label "დახურვა">
 <!ENTITY  crash_restart_label "ხელახლა გაეშვას &brandShortName;">
+
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; უეცრად გაითიშა">
+<!ENTITY  crash_notification_message "შეეხეთ, რომ ეცნობოს &vendorShortName;-ს">
+<!ENTITY  crash_notification_negative_button_text "უგულებელყოფა">
 
 <!ENTITY url_bar_default_text2 "მოძებნეთ ან შეიყვანეთ მისამართი">
 
@@ -942,3 +949,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "საიტის შეტყობინებები">
+<!ENTITY crash_handler_notifications_channel "&brandShortName; – უეცარი გათიშვების მომხსენებელი">
