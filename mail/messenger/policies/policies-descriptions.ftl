@@ -2,8 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## The Enterprise Policies feature is aimed at system administrators
-## who want to deploy these settings across several Firefox installations
+## who want to deploy these settings across several Thunderbird installations
 ## all at once. This is traditionally done through the Windows Group Policy
 ## feature, but the system also supports other forms of deployment.
 ## These are short descriptions for individual policies, to be displayed
@@ -32,8 +33,13 @@ policy-DisableSystemAddonUpdate = Impedisci a { -brand-short-name } di installar
 policy-DisableTelemetry = Disattiva telemetria.
 policy-DisplayMenuBar = Visualizza la barra dei menu per impostazione predefinita.
 policy-DNSOverHTTPS = Configura DNS over HTTPS.
+policy-DontCheckDefaultClient = Disattiva il controllo programma di posta predefinito all’avvio.
 policy-DownloadDirectory = Imposta la cartella per i download e impedisci ulteriori modifiche.
+# “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Attiva o disattiva il blocco contenuti ed eventualmente impedisci modifiche all’opzione.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
 policy-Extensions = Installa, disinstalla o blocca estensioni. L’opzione per installare richiede URL o percorsi come parametri. L’opzione per disinstallare o bloccare richiede gli ID delle estensioni.
 policy-ExtensionUpdate = Attiva o disattiva l’aggiornamento automatico delle estensioni.
 policy-HardwareAcceleration = Se “false”, disattiva l’accelerazione hardware.
@@ -49,8 +55,10 @@ policy-Proxy = Configura le impostazioni dei proxy.
 policy-RequestedLocales = Configura, in ordine di preferenza, l’elenco delle lingue (“locale”) richieste per l’applicazione.
 policy-SanitizeOnShutdown2 = Elimina dati di navigazione alla chiusura.
 policy-SearchEngines = Configura le impostazioni relative ai motori di ricerca. Questo criterio è disponibile solo nella versione Extended Support Release (ESR).
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Installa moduli PKCS #11.
 policy-SSLVersionMax = Imposta la versione massima di SSL.
 policy-SSLVersionMin = Imposta la versione minima di SSL.
 policy-SupportMenu = Aggiungi una voce di menu personalizzata nel menu Aiuto.
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Impedisci l’accesso a determinati siti web. Consulta la documentazione per ulteriori dettagli sul formato da utilizzare.

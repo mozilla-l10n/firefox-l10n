@@ -12,3 +12,8 @@ update-pref-write-failure-title = Scrittura non riuscita
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Impossibile salvare la preferenza. Non è stato possibile scrivere sul file: { $path }
+update-setting-write-failure-title = Errore salvataggio preferenze di aggiornamento
+update-in-progress-title = Aggiornamento in corso
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Continua
