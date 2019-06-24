@@ -353,6 +353,7 @@ addon-badge-recommended =
 available-updates-heading = Tilgjengelege oppdateringar
 recent-updates-heading = Nylege oppdateringar
 release-notes-loading = Lastar…
+release-notes-error = Beklagar, men ein feil oppstod under lasting av versjonsnotatet.
 addon-permissions-empty = Denne utvidinga krev inkje løyve
 recommended-extensions-heading = Tilrådde utvidingar
 recommended-themes-heading = Tilrådde tema

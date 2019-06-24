@@ -34,6 +34,7 @@ policies-notice =
         [windows] Din organisasjon har slått av mulegheita til å endre visse innstillingar.
        *[other] Din organisasjon har slått av mulegheita til å endre visse innstillingar.
     }
+managed-notice = Nettlessaren din vert administrert av organisasjonen din.
 pane-general-title = Generelt
 category-general =
     .tooltiptext = { pane-general-title }
@@ -289,6 +290,7 @@ update-pref-write-failure-title = Skrivfeil
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Klarte ikkje å lagre innstillinga. Kunne ikkje skrive til fila: { $path }
+update-setting-write-failure-title = Klarte ikkje å lagre oppdateringsinnstillingar
 update-in-progress-title = Oppdatering i framdrift
 update-in-progress-message = Vil du at { -brand-short-name } skal halde fram med denne oppdateringa?
 update-in-progress-ok-button = &Avvis
