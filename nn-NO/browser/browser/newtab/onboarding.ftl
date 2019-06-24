@@ -73,6 +73,7 @@ onboarding-data-sync-button2 = Logg inn på { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Hald auge med datalekkasjar
 onboarding-firefox-monitor-button = Registrer deg for varslingar
 onboarding-browse-privately-title = Surf privat
+onboarding-browse-privately-text = Privat nettlesing fjernar søke- og nettlesingshistorikken din for å halde han hemmeleg frå andre som brukar datamaskina di.
 onboarding-browse-privately-button = Opne eit privat vindauge
 onboarding-firefox-send-title = Hald dei delte filene dine privat
 onboarding-firefox-send-button = Prøv { -send-brand-name }
