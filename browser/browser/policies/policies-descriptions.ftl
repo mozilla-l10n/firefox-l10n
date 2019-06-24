@@ -21,6 +21,7 @@ policy-Bookmarks = Buat markah pada bilah alat Markah, menu Markah, atau folder 
 policy-CaptivePortal = Aktifkan atau nonaktifkan dukungan captive portal.
 policy-CertificatesDescription = Tambahkan sertifikat atau gunakan sertifikat bawaan.
 policy-Cookies = Izinkan atau tolak situs untuk menyetel kuki.
+policy-DefaultDownloadDirectory = Atur direktori unduhan baku.
 policy-DisableAppUpdate = Cegah peramban untuk memperbarui.
 policy-DisableBuiltinPDFViewer = Nonaktifkan PDF.js, penampil PDF bawaan di { -brand-short-name }.
 policy-DisableDeveloperTools = Blokir akses ke alat pengembang.
@@ -45,13 +46,16 @@ policy-DisplayBookmarksToolbar = Tampilkan Bilah Markah secara baku.
 policy-DisplayMenuBar = Tampilkan Bilah Menu secara otomatis.
 policy-DNSOverHTTPS = Konfigurasikan DNS lewat HTTPS.
 policy-DontCheckDefaultBrowser = Nonaktifkan pemeriksaan untuk peramban bawaan saat memulai.
+policy-DownloadDirectory = Atur dan kunci direktori unduhan.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Aktifkan atau nonaktifkan Pemblokiran Konten dan kunci ia secara opsional.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Memasang, mencopot, atau mengunci ekstensi. Opsi Memasang membutuhkan parameter URL atau jalur. Opsi Mencopot dan Mengunci membutuhkan ID ekstensi.
+policy-ExtensionSettings = Kelola semua aspek pemasangan ekstensi.
 policy-ExtensionUpdate = Aktifkan atau nonaktifkan pembaruan ekstensi otomatis.
+policy-FirefoxHome = Atur Firefox Home.
 policy-FlashPlugin = Izinkan atau tolak penggunaan plugin Flash.
 policy-HardwareAcceleration = Jika bernilai false, menonaktifkan akselerasi perangkat keras.
 # “lock” means that the user won’t be able to change this setting
@@ -67,6 +71,7 @@ policy-OverridePostUpdatePage = Ganti laman "Yang Baru" yang tampil setelah pemb
 policy-Permissions = Atur izin untuk kamera, mikrofon, lokasi, dan notifikasi.
 policy-PopupBlocking = Izinkan situs tertentu untuk menampilkan pop-up secara otomatis.
 policy-Preferences = Tetapkan dan kunci nilai untuk subset preferensi.
+policy-PromptForDownloadLocation = Tanyakan di mana berkas disimpan saat mengunduh.
 policy-Proxy = Atur setelan proxy.
 policy-RequestedLocales = Atur daftar kode pelokalan yang diminta untuk aplikasi sesuai urutan.
 policy-SanitizeOnShutdown = Bersihkan semua data navigasi saat mematikan sistem.
