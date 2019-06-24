@@ -99,7 +99,7 @@ detail-update-manual =
 detail-private-browsing-label = Delovanje v zasebnih oknih
 detail-private-browsing-description2 = Če je dovoljeno, bo imela razširitev dostop do vaše spletne dejavnosti v zasebnem brskanju. <label data-l10n-name="detail-private-browsing-learn-more">Več o tem</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
-# cannot be overriden by the user.
+# cannot be overridden by the user.
 detail-private-disallowed-label = Ni dovoljeno v zasebnih oknih
 detail-private-disallowed-description = Ta razširitev ne deluje v zasebnem brskanju. <label data-l10n-name="detail-private-browsing-learn-more">Več o tem</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
@@ -239,7 +239,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Upravljanje bližnjic razširitev
     .accesskey = b
-shortcuts-empty-message = Za to razširitev ni bližnjic.
 shortcuts-no-addons = Nimate omogočenih razširitev.
 shortcuts-no-commands = Naslednje razširitve nimajo dodeljenih bližnjic:
 shortcuts-input =
@@ -267,14 +266,32 @@ shortcuts-card-collapse-button = Prikaži manj
 go-back-button =
     .tooltiptext = Nazaj
 
+## Recommended add-ons page
+
+install-extension-button = Dodaj v { -brand-product-name }
+install-theme-button = Namesti temo
+find-more-addons = Poišči več dodatkov
+
 ## Add-on actions
 
+report-addon-button = Prijavi
 remove-addon-button = Odstrani
 disable-addon-button = Onemogoči
 enable-addon-button = Omogoči
 expand-addon-button = Več možnosti
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Možnosti
+       *[other] Nastavitve
+    }
+details-addon-button = Podrobnosti
+release-notes-addon-button = Opombe ob izdaji
+permissions-addon-button = Dovoljenja
 addons-enabled-heading = Omogočeno
 addons-disabled-heading = Onemogočeno
+ask-to-activate-button = Vprašaj pred uporabo
+always-activate-button = Vedno omogoči
+never-activate-button = Nikoli ne omogoči
 addon-detail-author-label = Avtor
 addon-detail-version-label = Različica
 addon-detail-last-updated-label = Zadnja posodobitev
@@ -294,3 +311,22 @@ addon-detail-reviews-link =
         [few] { $numberOfReviews } ocene
        *[other] { $numberOfReviews } ocen
     }
+
+## Pending uninstall message bar
+
+pending-uninstall-undo-button = Razveljavi
+addon-detail-updates-label = Dovoli samodejne posodobitve
+addon-detail-updates-radio-default = Privzeto
+addon-detail-update-check-label = Poišči posodobitve
+install-update-button = Posodobi
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Dovoljeno v zasebnih oknih
+addon-detail-private-browsing-allow = Dovoli
+addon-detail-private-browsing-disallow = Ne dovoli
+available-updates-heading = Razpoložljive posodobitve
+recent-updates-heading = Nedavne posodobitve
+release-notes-loading = Nalaganje …
+recommended-extensions-heading = Priporočene razširitve
+recommended-themes-heading = Priporočene teme

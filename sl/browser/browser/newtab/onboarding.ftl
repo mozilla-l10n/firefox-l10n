@@ -83,6 +83,7 @@ onboarding-mobile-phone-text = Prenesite { -brand-product-name } za iOS ali Andr
 # browser.
 onboarding-mobile-phone-button = Prenesite mobilni brskalnik
 onboarding-pocket-anywhere-title = Berite in poslušajte kjerkoli
+onboarding-facebook-container-button = Dodaj razširitev
 
 ## Message strings belonging to the Return to AMO flow
 

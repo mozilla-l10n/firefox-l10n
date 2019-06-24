@@ -21,6 +21,7 @@ policy-Bookmarks = Ustvarjaj zaznamke v orodni vrstici, meniju zaznamkov ali v d
 policy-CaptivePortal = Omogoči ali onemogoči podporo za prestrezni portal.
 policy-CertificatesDescription = Dodaj digitalna potrdila ali uporabi vgrajena potrdila.
 policy-Cookies = Spletnim stranem dovoli ali zavrni nastavljanje piškotkov.
+policy-DefaultDownloadDirectory = Nastavi privzeto mapo za prenose.
 policy-DisableAppUpdate = Prepreči posodabljanje brskalnika.
 policy-DisableBuiltinPDFViewer = Onemogoči PDF.js, pregledovalnik PDF brskalnika { -brand-short-name }.
 policy-DisableDeveloperTools = Zavrni dostop do razvojnih orodij.
@@ -45,6 +46,7 @@ policy-DisplayBookmarksToolbar = Privzeto prikaži orodno vrstico zaznamkov.
 policy-DisplayMenuBar = Privzeto prikaži vrstico z menijem.
 policy-DNSOverHTTPS = Nastavi DNS preko HTTPS.
 policy-DontCheckDefaultBrowser = Onemogoči preverjanje privzetega brskalnika ob zagonu.
+policy-DownloadDirectory = Nastavi in zakleni mapo za prenose.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Omogoči ali onemogoči zavračanje vsebine ter ga po potrebi zakleni.
 # A “locked” extension can’t be disabled or removed by the user. This policy
@@ -52,6 +54,7 @@ policy-EnableTrackingProtection = Omogoči ali onemogoči zavračanje vsebine te
 # English or translate them as verbs.
 policy-Extensions = Namesti, odstrani ali zakleni razširitve. Možnost "Install" kot parametre sprejema URL-je ali poti. Možnosti "Uninstall" in "Locked" sprejemata ID-je razširitev.
 policy-ExtensionUpdate = Omogoči ali onemogoči samodejno posodabljanje razširitev.
+policy-FirefoxHome = Nastavi Firefoxovo domačo stran.
 policy-FlashPlugin = Dovoli ali zavrni uporabo vtičnika Flash.
 policy-HardwareAcceleration = Če je "false", izklopi strojno pospeševanje.
 # “lock” means that the user won’t be able to change this setting
@@ -67,6 +70,7 @@ policy-OverridePostUpdatePage = Preglasi stran "Kaj je novega", ki se odpre po p
 policy-Permissions = Nastavi dovoljenja za kamero, mikrofon, lokacijo in obvestila.
 policy-PopupBlocking = Določenim spletnim stranem dovoli privzeto prikazovanje pojavnih oken.
 policy-Preferences = Nastavi in zakleni vrednost podnabora nastavitev.
+policy-PromptForDownloadLocation = Pri prenosu vprašaj, kam shraniti datoteko.
 policy-Proxy = Nastavi posrednika.
 policy-RequestedLocales = Nastavi vrstni red zahtevanih jezikov za program.
 policy-SanitizeOnShutdown = Ob izhodu počisti vse podatke brskanja.

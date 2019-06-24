@@ -209,6 +209,7 @@ gpu-device-id = ID naprave
 gpu-subsys-id = ID podsistema
 gpu-drivers = Gonilniki
 gpu-ram = RAM
+gpu-driver-vendor = Ponudnik gonilnika
 gpu-driver-version = Različica gonilnika
 gpu-driver-date = Datum gonilnika
 gpu-active = Dejaven
