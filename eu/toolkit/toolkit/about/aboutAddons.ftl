@@ -310,6 +310,11 @@ addon-detail-version-label = Bertsioa
 addon-detail-last-updated-label = Azken eguneraketa
 addon-detail-homepage-label = Hasiera-orria
 addon-detail-rating-label = Balorazioa
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Puntuazioa: 5/{ NUMBER($rating, maximumFractionDigits: 1) }
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -325,3 +330,35 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> kendu egin da.
+pending-uninstall-undo-button = Desegin
+addon-detail-updates-label = Baimendu eguneraketa automatikoak
+addon-detail-updates-radio-default = Lehenetsia
+addon-detail-updates-radio-on = Aktibatuta
+addon-detail-updates-radio-off = Desaktibatuta
+addon-detail-update-check-label = Bilatu eguneraketak
+install-update-button = Eguneratu
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Leiho pribatuetan baimenduta
+addon-detail-private-browsing-help = Baimenduta dagoenean, hedapenak zure lineako jardueretarako sarbidea izango du nabigatze pribatuko moduan. <a data-l10n-name="learn-more">Argibide gehiago</a>
+addon-detail-private-browsing-allow = Baimendu
+addon-detail-private-browsing-disallow = Ez baimendu
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Gomendatua
+    .alt = Gomendatua
+available-updates-heading = Eguneraketa erabilgarriak
+recent-updates-heading = Azken eguneraketak
+release-notes-loading = Kargatzen…
+release-notes-error = Errorea gertatu da bertsio-oharrak kargatzean.
+addon-permissions-empty = Hedapen honek ez du baimenik behar
+recommended-extensions-heading = Gomendatutako hedapenak
+recommended-themes-heading = Gomendatutako itxurak
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Sortzaile izan nahi? <a data-l10n-name="link">Egizu zure itxura propioa Firefox Color erabiliz.</a>
