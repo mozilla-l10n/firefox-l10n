@@ -34,8 +34,16 @@ onboarding-start-browsing-button-label = Hasi nabigatzen
 ## description.
 
 onboarding-benefit-products-title = Produktu erabilgarriak
+onboarding-benefit-products-text = Burutu atazak zure gailuen artean pribatutasuna errespetatzen duen tresnen familiarekin.
 onboarding-benefit-knowledge-title = Ezagutza praktikoa
+onboarding-benefit-knowledge-text = Ikasi jakin beharreko guztia argiago eta seguruago nabigatzeko.
 onboarding-benefit-privacy-title = Benetako pribatutasuna
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Egiten dugun guztia gure Datu Pertsonalen Zin-egitearekin bat dator: Gutxiago hartu. Seguru mantendu. Sekreturik ez.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -55,7 +63,16 @@ onboarding-ghostery-text = Nabigatu azkarrago, argiago edo seguruago iragarkiak 
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sinkronizatu
 onboarding-fxa-text = Sortu { -fxaccount-brand-name } kontua eta sinkronizatu zure laster-markak, pasahitzak eta irekitako fitxak { -brand-short-name } erabiltzen duzun leku orotan.
+onboarding-tracking-protection-title2 = Jarraipenaren babesa
+onboarding-tracking-protection-text2 = Webguneek zure lineako jardueraren jarraipena ez egitera laguntzen du { -brand-short-name }(e)k, horretarako zailagoa eginez iragarkiei webean zehar zu jarraitzea.
 onboarding-tracking-protection-button2 = Nola dabilen
+onboarding-data-sync-title = Eraman aldean zure ezarpenak
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Sinkronizatu zure laster-markak, pasahitzak eta gehiago { -brand-product-name } erabiltzen duzun toki guztietan.
+onboarding-data-sync-button2 = Hasi sioa { -sync-brand-short-name }(e)n
+onboarding-firefox-monitor-title = Erne ibili datuen urradudari
+onboarding-firefox-monitor-text = { -monitor-brand-name }(e)k zure helbide elektronikoa monitorizatzen du datuen urradura berri batean agertuko balitz abisatzeko.
+onboarding-firefox-monitor-button = Eman izena abisuak jasotzeko
 onboarding-browse-privately-title = Nabigatu modu pribatuan
 onboarding-browse-privately-text = Nabigatze pribatuak zure bilaketa- eta nabigatze-historia garbitzen ditu zure ordenagailua darabilen jendearengandik sekretu mantentzeko.
 onboarding-browse-privately-button = Ireki leiho pribatua
