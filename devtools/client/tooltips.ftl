@@ -21,6 +21,7 @@ learn-more = <span data-l10n-name="link">Več o tem</span>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> ne vpliva na ta element, ker ni niti vsebnik flex niti vsebnik grid.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
