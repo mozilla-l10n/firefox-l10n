@@ -19,15 +19,31 @@ onboarding-button-label-get-started = Unuaj paŝoj
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Bonvenon al { -brand-short-name }
+onboarding-welcome-body = Vi havas la retumilon.<br/>Konatiĝu kun la cetero de { -brand-product-name }.
+onboarding-welcome-learn-more = Pli da informo pri la utiloj.
+onboarding-join-form-header = Venu al { -brand-product-name }
+onboarding-join-form-body = Por komenci, tajpu vian retpoŝtan adreson.
 onboarding-join-form-email =
     .placeholder = Tajpu retpoŝtan adreson
 onboarding-join-form-email-error = Valida retpoŝta adreso postulata
+onboarding-join-form-legal = Se vi daŭrigas, vi akceptas la <a data-l10n-name="terms">kondiĉojn de uzo</a> kaj la <a data-l10n-name="privacy">rimarkon pri privateco</a>.
 onboarding-join-form-continue = Daŭrigi
 onboarding-start-browsing-button-label = Komenci retumi
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = Utilaj produktoj
+onboarding-benefit-products-text = Plenumu taskojn per familio de iloj kiuj respektas vian privatecon en ĉiuj viaj aparatoj.
+onboarding-benefit-knowledge-title = Praktikaj konoj
+onboarding-benefit-knowledge-text = Lernu tion kion vi bezonas por retumi inteligente kaj sekure.
+onboarding-benefit-privacy-title = Fakta privateco
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Ĉio, kion ni faras, plenumas nian promeson pri personaj datumoj: preni malpli, teni ilin sekuraj, esti honestaj.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -61,6 +77,27 @@ onboarding-browse-privately-title = Retumu private
 onboarding-browse-privately-text = Privata retumo viŝas vian serĉan kaj retuman historiojn, por kaŝi ilin de aliaj, kiu uzas vian komputilon.
 onboarding-browse-privately-button = Malfermi privatan fenestron
 onboarding-firefox-send-title = Protektu la dosierojn, kiujn vi kundividas
+onboarding-firefox-send-text2 = Alŝutu viajn dosierojn al { -send-brand-name } por kundividi ilin per ĉifrado interflanka kaj ligilo kiu aŭtomate senvalidiĝas.
+onboarding-firefox-send-button = Provu { -send-brand-name }
+onboarding-mobile-phone-title = Ricevu { -brand-product-name } en via telefono
+onboarding-mobile-phone-text = Elŝutu { -brand-product-name } por iOS aŭ Android kaj spegulu viajn datumojn inter aparatoj.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Elŝuti poŝaparata retumilo
+onboarding-send-tabs-title = Sendu langetojn al via aliaj aparatoj
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Sendu paĝojn senpere inter viaj aparatoj, sed devi kopii, alglui aŭ foriri el la retumilo.
+onboarding-send-tabs-button = Komencu uzi "Sendi langetojn"
+onboarding-pocket-anywhere-title = Legu kaj aŭskultu ie ajn
+onboarding-pocket-anywhere-text2 = Konservu vian plej ŝatatan enhavo por uzi malkonektite pero la programo { -pocket-brand-name }, kaj legu aŭskultu kaj rigardu kiam vi volas.
+onboarding-pocket-anywhere-button = Provu { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Portu viajn pasvortojn ĉie
+onboarding-lockwise-passwords-text2 = Sekure gardu la pasvortojn kiujn vi konservis kaj facile komencu seancojn en viaj kontoj per { -lockwise-brand-name }.
+onboarding-lockwise-passwords-button2 = Ricevu la programon
+onboarding-facebook-container-title = Metu limojn ĉirkaŭ Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } tenas vian profilon aparte de ĉiuj aliaj aferoj kaj do estas pli malfacile por Facebook sendi personecigitajn reklamojn.
+onboarding-facebook-container-button = Aldoni la etendaĵon
 
 ## Message strings belonging to the Return to AMO flow
 
