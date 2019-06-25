@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = वेबसाइट खोजें
+permissions-capabilities-autoplay-block =
+    .label = ऑडियो ब्लॉक करें
+permissions-capabilities-autoplay-blockall =
+    .label = ऑडियो और वीडियो ब्लॉक करें
 permissions-capabilities-allow =
     .label = अनुमति दें
 permissions-capabilities-block =
@@ -46,8 +50,6 @@ permissions-capabilities-listitem-allow =
     .value = अनुमति दें
 permissions-capabilities-listitem-block =
     .value = रोकें
-permissions-capabilities-listitem-allow-first-party =
-    .value = केवल प्रथम पक्ष स्वीकारें
 permissions-capabilities-listitem-allow-session =
     .value = सत्र के लिये अनुमति दें
 
@@ -96,6 +98,9 @@ permissions-exceptions-autoplay-media-window2 =
     .title = अपवाद - ऑटोप्ले
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = आप चुन सकते हैं कि किन वेबसाइटों को ध्वनि के साथ मीडिया को स्वतः रूप से हमेशा या कभी नहीं चलाने की अनुमति है. उस वेबसाइट का पता दर्ज करें जिसे आप प्रबंधित करना चाहते हैं फिर ब्लॉक करें या अनुमति दें पर क्लिक करें.
+
+## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 

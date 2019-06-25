@@ -210,12 +210,9 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
-shortcuts-manage =
-    .label = कुंजीपटल शॉर्टकट‌‌
 manage-extensions-shortcuts =
     .label = एक्सटेंशन शॉर्टकट प्रबंधित करें
     .accesskey = S
-shortcuts-empty-message = इस एक्सटेंशन के लिए कोई शॉर्टकट नहीं हैं।
 shortcuts-no-addons = आपके पास कोई एक्सटेंशन सक्रिय नहीं है।
 shortcuts-input =
     .placeholder = एक शॉर्टकट टाइप करें
@@ -228,3 +225,27 @@ shortcuts-invalid = अमान्य संयोजन
 shortcuts-letter = एक अक्षर लिखें
 go-back-button =
     .tooltiptext = वापस जाएँ
+
+## Recommended add-ons page
+
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = <a data-l10n-name="author"> { $author } </a> द्वारा
+install-extension-button = { -brand-product-name } में जोड़ें
+
+## Add-on actions
+
+remove-addon-button = हटाएं
+disable-addon-button = निष्क्रिय करें
+enable-addon-button = सक्रिय करें
+expand-addon-button = अधिक विकल्प
+details-addon-button = विवरण
+addon-detail-author-label = लेखक
+addon-detail-version-label = संस्करण
+addon-detail-rating-label = रेटिंग
+
+## Pending uninstall message bar
+
+addon-detail-updates-radio-on = चालू
+addon-detail-updates-radio-off = बंद

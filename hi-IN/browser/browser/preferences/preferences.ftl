@@ -44,10 +44,9 @@ category-search =
 pane-privacy-title = गोपनीयता व सुरक्षा
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox खाता
-category-sync =
-    .tooltiptext = { pane-sync-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = { -brand-short-name } समर्थन
 addons-button-label = एक्सटेंशन और थीम
 focus-search =
@@ -274,6 +273,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = स्वचालित रूप से खोज इंजन का अद्यतन करें
     .accesskey = e
+update-in-progress-ok-button = और छोड़े
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = और जारी रखें
 
 ## General Section - Performance
 
@@ -503,8 +506,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = सहेजें
     .accesskey = v
-sync-mobilepromo-single = अन्य उपकरण जोड़ें
-sync-mobilepromo-multi = उपकरणों को प्रबंधित करें
 sync-tos-link = सेवा शर्त
 sync-fxa-privacy-notice = गोपनीयता नीति
 
@@ -631,6 +632,7 @@ content-blocking-standard-description = निजी विंडो में �
 content-blocking-custom-desc = अवरोधित करने के लिए चुनें।
 content-blocking-private-trackers = निजी विंडो में केवल ज्ञात ट्रैकर्स
 content-blocking-third-party-cookies = तीसरे-पक्ष की ट्रैकिंग कुकीज़
+content-blocking-all-cookies = सारे कुकीज़
 content-blocking-all-windows-trackers = सभी विंडो में ज्ञात ट्रैकर्स
 content-blocking-all-third-party-cookies = सभी तृतीय-पक्ष कुकीज़
 content-blocking-warning-title = सावधान!
@@ -648,6 +650,8 @@ content-blocking-tracking-protection-change-block-list = ब्लॉक सू�
 content-blocking-cookies-label =
     .label = कुकीज
     .accesskey = C
+content-blocking-expand-section =
+    .tooltiptext = अधिक जानकारी
 
 ## Privacy Section - Tracking
 
@@ -678,20 +682,9 @@ permissions-notification-link = अधिक जानें
 permissions-notification-pause =
     .label = { -brand-short-name } के पुनः शुरू होने तक अधिसूचना रोकें
     .accesskey = n
-permissions-block-autoplay-media =
-    .label = ध्वनि के साथ स्वचालित रूप से मीडिया चलाने से वेबसाइटों को अवरुद्ध करें
-    .accesskey = B
-permissions-block-autoplay-media-menu = उन वेबसाइटों के लिए जो स्वतः ध्वनि बजाते हैं
 permissions-block-autoplay-media-exceptions =
     .label = अपवाद...
     .accesskey = E
-autoplay-option-ask =
-    .label = हमेशा पूछें
-autoplay-option-allow =
-    .label = ऑटो प्ले को अनुमति दें
-autoplay-option-dont =
-    .label = ऑटोप्ले रोकें
-permissions-autoplay-link = अधिक जानें
 permissions-block-popups =
     .label = पॉपअप विंडो को अवरोधित करें
     .accesskey = B
@@ -722,10 +715,6 @@ addon-recommendations-link = और जानें
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = इस निर्मित विन्यास के लिए डेटा रिपोर्टिंग को असक्रिय किया हैं
-collection-browser-errors =
-    .label = अनुमति दें { -brand-short-name } को ब्राउज़र त्रुटि रिपोर्ट (त्रुटि संदेश के साथ) { -vendor-short-name } को भेजने के लिए
-    .accesskey = b
-collection-browser-errors-link = अधिक जानें
 collection-backlogged-crash-reports =
     .label = अनुमति दें { -brand-short-name } को संचित कार्यों के क्रैश रिपोर्ट को आपके ओर से भेजने के लिए
     .accesskey = c
