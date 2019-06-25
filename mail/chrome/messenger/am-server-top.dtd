@@ -22,6 +22,7 @@
 <!ENTITY biffStart.accesskey "ต">
 <!ENTITY biffEnd.label "นาที">
 <!ENTITY useIdleNotifications.label "อนุญาตการแจ้งเตือนเซิร์ฟเวอร์แบบทันทีเมื่อมีข้อความใหม่มาถึง">
+<!ENTITY useIdleNotifications.accesskey "น">
 <!ENTITY connectionSecurity.label "ความปลอดภัยของการเชื่อมต่อ:">
 <!ENTITY connectionSecurity.accesskey "ค">
 <!ENTITY connectionSecurityType-0.label "ไม่มี">
@@ -31,41 +32,58 @@
 <!ENTITY authMethod.label "วิธีการรับรองความถูกต้อง:">
 <!ENTITY authMethod.accesskey "ว">
 <!ENTITY leaveOnServer.label "ฝากข้อความไว้บนเซิร์ฟเวอร์">
+<!ENTITY leaveOnServer.accesskey "ฝ">
 <!ENTITY headersOnly.label "ดึงข้อมูลเฉพาะบริเวณส่วนหัวเท่านั้น">
+<!ENTITY headersOnly.accesskey "ด">
 <!ENTITY deleteByAgeFromServer.label "มากที่สุด">
+<!ENTITY deleteByAgeFromServer.accesskey "ม">
 <!ENTITY daysEnd.label "วัน">
 <!ENTITY deleteOnServer2.label "จนกว่าฉันจะลบ">
+<!ENTITY deleteOnServer2.accesskey "ล">
 <!ENTITY downloadOnBiff.label "ดาวน์โหลดข้อความใหม่โดยอัตโนมัติ">
+<!ENTITY downloadOnBiff.accesskey "า">
 <!ENTITY deleteMessagePrefix.label "เมื่อฉันลบข้อความ:">
 <!ENTITY modelMoveToTrash.label "ให้ย้ายมาไว้ที่โฟลเดอร์นี้:">
+<!ENTITY modelMoveToTrash.accesskey "ย">
 <!ENTITY modelMarkDeleted.label "ให้เพียงแค่ทำเครื่องหมายว่าลบแล้ว">
+<!ENTITY modelMarkDeleted.accesskey "พ">
 <!ENTITY modelDeleteImmediately.label "ให้ลบออกทันที">
+<!ENTITY modelDeleteImmediately.accesskey "บ">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "ล้างข้อมูลในกล่องจดหมายเมื่อออก">
+<!ENTITY expungeOnExit.accesskey "ง">
 <!ENTITY emptyTrashOnExit.label "ล้างข้อมูลในถังขยะเมื่อออก">
+<!ENTITY emptyTrashOnExit.accesskey "ใ">
 <!ENTITY loginAtStartup.label "ตรวจหาข้อความใหม่เมื่อเปิดโปรแกรม">
+<!ENTITY loginAtStartup.accesskey "ต">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
     of messages between them
 -->
 <!ENTITY maxMessagesStart.label "ถามฉันก่อนดาวน์โหลดมากกว่า">
+<!ENTITY maxMessagesStart.accesskey "ถ">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "ข้อความ">
 <!ENTITY alwaysAuthenticate.label "ขอการรับรองความถูกต้องเมื่อเชื่อมต่อมายังเซิร์ฟเวอร์นี้เสมอ">
+<!ENTITY alwaysAuthenticate.accesskey "ข">
 <!ENTITY newsrcFilePath.label "ไฟล์ newsrc:">
 <!ENTITY newsrcPicker.label "เลือกไฟล์ newsrc">
 <!ENTITY abbreviate.label "แสดงชื่อกลุ่มข่าวสารในบานหน้าต่างโฟลเดอร์จดหมายเป็น:">
 <!ENTITY abbreviateOn.label "ชื่อเต็ม (ตัวอย่างเช่น 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "ชื่อย่อ (ตัวอย่างเช่น 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "ขั้นสูง…">
+<!ENTITY advancedButton.accesskey "ส">
 <!ENTITY serverDefaultCharset2.label "รหัสอักขระเริ่มต้น:">
 <!ENTITY localPath.label "ไดเรกทอรีในเครื่อง:">
 <!ENTITY localFolderPicker.label "เลือกไดเรกทอรีในเครื่อง">
 <!ENTITY browseFolder.label "เรียกดู…">
+<!ENTITY browseFolder.accesskey "ร">
 <!ENTITY browseNewsrc.label "เรียกดู…">
+<!ENTITY browseNewsrc.accesskey "ย">
 
 <!ENTITY accountTitle.label "การตั้งค่าบัญชี">
 <!ENTITY accountSettingsDesc.label "บัญชีต่อไปนี้เป็นบัญชีพิเศษ ซึ่งไม่ได้เชื่อมโยงกับข้อมูลประจำตัวใด ๆ">
 <!ENTITY storeType.label "ประเภทการเก็บข้อความ:">
+<!ENTITY storeType.accesskey "ป">
 <!ENTITY mboxStore2.label "ไฟล์ต่อโฟลเดอร์ (mbox)">
 <!ENTITY maildirStore.label "ไฟล์ต่อข้อความ (maildir)">
