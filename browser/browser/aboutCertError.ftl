@@ -34,6 +34,14 @@ cert-error-domain-mismatch-single-nolink = Vefsíður staðfesta auðkenni sitt 
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
 cert-error-domain-mismatch-multiple = Vefsíður staðfesta auðkenni sitt með vottorðum. { -brand-short-name } treystir ekki þessari síðu því hún notar vottorð sem ekki gildir fyrir { $hostname }. Vottorðið gildir einungis fyrir eftirtalin nöfn: { $subject-alt-names }
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = Vefsíður auðkenna sig með vottorðum sem hafa takmarkaðan gildistíma. Vottorðið fyrir { $hostname } rann út { $not-after-local-time }.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = Vefsíður auðkenna sig með vottorðum sem hafa takmarkaðan gildistíma. Vottorðið fyrir { $hostname } verður ekki gilt fyrr en { $not-after-local-time }.
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Villunúmer: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
