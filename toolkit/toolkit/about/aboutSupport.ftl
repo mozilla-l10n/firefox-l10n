@@ -35,6 +35,11 @@ app-basics-name = 이름
 app-basics-version = 버전
 app-basics-build-id = 빌드 ID
 app-basics-update-channel = 업데이트 채널
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] 업데이트 디렉토리
+       *[other] 업데이트 폴더
+    }
 app-basics-update-history = 업데이트 기록
 app-basics-show-update-history = 업데이트 기록 표시
 # Represents the path to the binary used to start the application.

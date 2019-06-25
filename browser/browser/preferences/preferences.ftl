@@ -160,15 +160,15 @@ show-tabs-in-taskbar =
     .label = Windows 작업표시줄에 탭 미리 보기 표시
     .accesskey = k
 browser-containers-enabled =
-    .label = 포함 탭 활성화
+    .label = 컨테이너 탭 활성화
     .accesskey = n
 browser-containers-learn-more = 더 알아보기
 browser-containers-settings =
     .label = 설정…
     .accesskey = i
-containers-disable-alert-title = 모든 포함 탭을 닫으시겠습니까?
-containers-disable-alert-desc = 지금 포함 탭을 비활성화 하면 { $tabCount }개의 포함 탭이 닫히게 됩니다. 포함 탭을 비활성화 하시겠습니까?
-containers-disable-alert-ok-button = { $tabCount }개의 포함탭 닫기
+containers-disable-alert-title = 모든 컨테이너 탭을 닫으시겠습니까?
+containers-disable-alert-desc = 지금 컨테이너 탭을 비활성화 하면 { $tabCount }개의 컨테이너 탭이 닫히게 됩니다. 컨테이너 탭을 비활성화 하시겠습니까?
+containers-disable-alert-ok-button = { $tabCount }개의 컨테이너 탭 닫기
 containers-disable-alert-cancel-button = 활성화 하기
 containers-remove-alert-title = 이 컨테이너를 삭제하시겠습니까?
 # Variables:
@@ -433,7 +433,7 @@ search-keyword-warning-bookmark = 북마크에서 이미 사용 중인 키워드
 ## Containers Section
 
 containers-back-link = « 뒤로가기
-containers-header = 포함 탭
+containers-header = 컨테이너 탭
 containers-add-button =
     .label = 새 컨테이너 추가
     .accesskey = A
@@ -547,6 +547,9 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = 예외 목록…
     .accesskey = x
+forms-generate-passwords =
+    .label = 강력한 암호 제안 및 생성
+    .accesskey = u
 forms-saved-logins =
     .label = 저장된 로그인…
     .accesskey = L
@@ -801,9 +804,9 @@ collection-backlogged-crash-reports-link = 더 알아보기
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = 보안
-security-browsing-protection = 사기성있는 내용과 위험한 소프트웨어 보호
+security-browsing-protection = 사기성 콘텐츠 및 위험한 소프트웨어 보호
 security-enable-safe-browsing =
-    .label = 위험하고 사기성있는 내용을 차단
+    .label = 위험하고 사기성 콘텐츠 차단
     .accesskey = B
 security-enable-safe-browsing-link = 더 알아보기
 security-block-downloads =
