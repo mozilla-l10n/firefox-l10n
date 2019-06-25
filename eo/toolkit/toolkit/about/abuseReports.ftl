@@ -60,3 +60,10 @@ abuse-report-deceptive-example = Ekzemplo: priskribo aŭ bildoj trompaj
 abuse-report-broken-reason-extension = Ĝi ne funkcias, misfunkciigas retejojn aŭ malrapidigas { -brand-product-name }
 abuse-report-broken-reason-theme = Ĝi ne funkcias aŭ difektas la vidon de la retumilo
 abuse-report-broken-example = Ekzemplo: trajtoj estas malrapidaj, malfacile uzeblaj aŭ ne funkcias; partoj de la retejoj ne ŝargiĝos aŭ aspektos strange
+abuse-report-broken-suggestions-extension = Ŝajne vi ĵus trovis eraron. Krom tiu ĉi denunco, la plej bona maniero solvi problemon estas kontakti la programiston. <a data-l10n-name="support-link">Vizitu la retejon de la etendaĵo</a> por havi informon pri la programisto.
+abuse-report-broken-suggestions-theme = Ŝajne vi ĵus trovis eraron. Krom tiu ĉi denunco, la plej bona maniero solvi problemon estas kontakti la programiston. <a data-l10n-name="support-link">Vizitu la retejon de la etoso</a> por havi informon pri la programisto.
+abuse-report-policy-reason = Abomena, perforta aŭ kontraŭleĝa enhavo
+abuse-report-policy-suggestions = Rimarko: kopirajtajn kaj varmarkajn aferojn oni devas denunci aparte. <a data-l10n-name="report-infringement-link">Uzu tiun ĉi instrukciojn</a> por denunci la problemon.
+abuse-report-unwanted-reason = Mi neniam volis tiun ĉi etendaĵon kaj mi ne povas malinstali ĝin
+abuse-report-unwanted-example = Ekzemplo: programo instalis ĝin sen mia permeso
+abuse-report-other-reason = Io alia
