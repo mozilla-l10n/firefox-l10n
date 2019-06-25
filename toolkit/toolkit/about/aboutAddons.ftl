@@ -277,6 +277,10 @@ discopane-notice-recommendations =
     ostalih razširitvah, nastavitvah profila in statistiki uporabe.
 discopane-notice-learn-more = Več o tem
 privacy-policy = Politika zasebnosti
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = (<a data-l10n-name="author">{ $author }</a>)
 # Shows the number of daily users of the add-on.
 # Variables:
 #   $dailyUsers (number) - The number of daily users.

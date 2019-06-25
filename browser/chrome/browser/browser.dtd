@@ -906,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Spletna stran vsebuje elemente, ki niso varni (npr. skripti) in vaša povezava nanjo ni zasebna.">
 <!ENTITY identity.description.activeLoaded2 "Podatke, ki jih delite s to stranjo, si lahko ogledajo druge osebe (npr. gesla, sporočila in kreditne kartice).">
 
+<!ENTITY identity.description.customRoot "Mozilla tega izdajatelja certifikata ne prepozna. Morda ga je dodal vaš operacijski sistem ali skrbnik.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Omogoči zaščito">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "O">
