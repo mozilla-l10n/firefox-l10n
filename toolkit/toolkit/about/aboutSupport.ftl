@@ -32,8 +32,15 @@ app-basics-name = Nomo
 app-basics-version = Versio
 app-basics-build-id = Identigilo de konstruo
 app-basics-update-channel = Kanalo de ĝisdatigo
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Dosierujo de ĝisdatigoj
+       *[other] Dosierujo de ĝisdatigoj
+    }
 app-basics-update-history = Historio de ĝisdatigoj
 app-basics-show-update-history = Montri historion de ĝisdatigoj
+# Represents the path to the binary used to start the application.
+app-basics-binary = Dosiero de programo
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Dosierujo de profiloj
@@ -79,6 +86,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Registro de decidoj
 graphics-crash-guards-title = Trajtoj malŝaltitaj de la protekto kontraŭ paneoj
 graphics-workarounds-title = Provizoraj solvoj
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Fenestra protokolo
 place-database-title = Datumbazo de lokoj
 place-database-integrity = Integreco
 place-database-verify-integrity = Kontroli integrecon
