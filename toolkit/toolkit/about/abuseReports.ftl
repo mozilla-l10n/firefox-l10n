@@ -45,3 +45,6 @@ abuse-report-damage-reason = Skaðar tölvuna mína og gögnin mín
 abuse-report-damage-example = Dæmi: Setti inn spilliforrit eða stal gögnum
 abuse-report-spam-reason = Býr til ruslpóst eða auglýsingar
 abuse-report-spam-example = Dæmi: Bætir auglýsingum inn á vefsíður
+abuse-report-settings-reason = Breytti leitarvélinni minni, heimasíðunni eða nýju flipasíðunni án þess biðja um leyfi eða láta vita
+abuse-report-settings-suggestions = Áður en þú tilkynnir viðbótina gætirðu prófað að breyta stillingunum þínum:
+abuse-report-settings-suggestions-search = Breyta sjálfgefnu leitarvélinni
