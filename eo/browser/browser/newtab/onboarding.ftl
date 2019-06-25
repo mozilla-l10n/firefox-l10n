@@ -3,12 +3,31 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
 
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
+
+onboarding-button-label-learn-more = Pli da informo
 onboarding-button-label-try-now = Provu ĝin nun
 onboarding-button-label-get-started = Unuaj paŝoj
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Bonvenon al { -brand-short-name }
+onboarding-join-form-email =
+    .placeholder = Tajpu retpoŝtan adreson
+onboarding-join-form-email-error = Valida retpoŝta adreso postulata
+onboarding-join-form-continue = Daŭrigi
 onboarding-start-browsing-button-label = Komenci retumi
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
 
 ## These strings belong to the individual onboarding messages.
 
