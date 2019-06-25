@@ -8,6 +8,9 @@ abuse-report-subtitle = Hva er problemet?
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = av <a data-l10n-name="author-name">{ $author-name }</a>
+abuse-report-learnmore =
+    Er du usikker på hvilket problem du skal velge?
+    <a data-l10n-name="learnmore-link">Les mer om rapportering av utvidelser og temaer</a>
 abuse-report-submit-description = Beskriv problemet (valgfritt)
 abuse-report-textarea =
     .placeholder = Det er lettere for oss å løse et problem hvis vi har detaljer. Beskriv hva du opplever. Takk for at du hjelper oss med å gjøre nettet til et bedre sted.

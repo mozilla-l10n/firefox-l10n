@@ -267,6 +267,15 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Utvidelser og temaer er som apper for nettleseren din, og de lar deg
+    beskytte dine passord, laste ned videoer, finn tilbud, blokkere irriterende reklame, endre
+    hvordan nettleseren din ser ut, og mye mer. Disse små programmene er
+    ofte utviklet av en tredjepart. Her er et utvalg { -brand-product-name }
+    <a data-l10n-name="learn-more-trigger">anbefaler</a> for eksepsjonell
+    sikkerhet, ytelse og funksjonalitet.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Noen av disse anbefalingene er målrettet deg. De er basert på andre
