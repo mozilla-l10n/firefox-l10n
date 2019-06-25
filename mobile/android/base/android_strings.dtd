@@ -21,12 +21,15 @@
 <!ENTITY firstrun_data_message "Malpli da datumoj, pli da ŝparo">
 <!ENTITY firstrun_data_subtext2 "Malŝalti bildojn, por uzi malpli da datumoj en ĉiu vizitata retejo.">
 <!ENTITY firstrun_sync_title "Speguli">
+<!ENTITY updatednewfirstrun_sync_title "Konto">
 <!ENTITY firstrun_sync_message2 "Rekomencu kie vi haltis.">
 <!ENTITY firstrun_sync_subtext2 "Uzu Speguli por retrovi en ĉiuj viaj aparatoj la legosignojn, pasvortojn kaj aliajn aferojn kiun vi konservis en &brandShortName;.">
 <!ENTITY newfirstrun_sync_subtext "Sekure kaj private spegulu en la komputila Firefox la aferojn, kiujn vi konservas en poŝaparatoj.">
+<!ENTITY updatednewfirstrun_sync_subtext "Komencu seancon en via konto por eltiri la maksimumon el &brandShortName;">
 <!ENTITY firstrun_signin_message "Komencu seancon kaj eku">
 <!ENTITY firstrun_signin_button "Komenci seancon en Speguli">
 <!ENTITY newfirstrun_signin_button "Malŝalti Speguladon">
+<!ENTITY updatednewfirstrun_signin_button "Komencu seancon en &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Komenci retumi">
 <!ENTITY firstrun_button_notnow "Nun ne">
 <!ENTITY firstrun_button_next "Antaŭen">
@@ -66,6 +69,12 @@
 <!ENTITY  sending_crash_report "Raporto pri paneo sendata\u2026">
 <!ENTITY  crash_close_label "Fermi">
 <!ENTITY  crash_restart_label "Restartigi &brandShortName;">
+
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; paneis">
+<!ENTITY  crash_notification_message "Tuŝetu por raporti al &vendorShortName;">
+<!ENTITY  crash_notification_negative_button_text "Ignori">
 
 <!ENTITY url_bar_default_text2 "Serĉu aŭ tajpu adreson">
 
@@ -108,6 +117,10 @@
 <!ENTITY bookmark_folder_updated "Dosierujo ĝisdatigita">
 <!ENTITY bookmark_parent_folder "Gepatra dosierujo">
 <!ENTITY bookmark_add_folder "Aldoni novan dosierujon">
+
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(sen titolo)">
 
 <!ENTITY reader_saved_offline "Malkonektite konservita">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -590,6 +603,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "Kategoria vorto">
 <!ENTITY bookmark_select_folder "Elekti dosierujon">
 
+<!ENTITY bookmark_edit_undo "Malfari">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "Agordoj de retejo">
@@ -677,6 +692,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Elekti aŭ registri sonon">
 <!ENTITY filepicker_image_title "Elekti aŭ preni foton">
 <!ENTITY filepicker_video_title "Elekti aŭ registri filmeton">
+
+<!ENTITY filepicker_permission_denied "Postulataj permesoj ne ricevitaj, reiro al la sistema dosieresplorilo.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Vi estas konektita al">
@@ -929,3 +946,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Retejaj sciigoj">
+<!ENTITY crash_handler_notifications_channel "Raportoj de paneo de &brandShortName;">
