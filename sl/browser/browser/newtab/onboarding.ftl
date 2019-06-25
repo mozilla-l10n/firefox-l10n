@@ -64,6 +64,7 @@ onboarding-ghostery-text = Brskajte hitreje, pametneje in varneje z razširitvam
 onboarding-fxa-title = Sinhronizacija
 onboarding-fxa-text = Ustvarite { -fxaccount-brand-name } ter sinhronizirajte svoje zaznamke, gesla in odprte zavihke povsod, kjer uporabljate { -brand-short-name }.
 onboarding-tracking-protection-title2 = Zaščita pred sledenjem
+onboarding-tracking-protection-text2 = { -brand-short-name } spletnim mestom preprečuje, da bi vam sledila, tako da vas oglasi težje zasledujejo po spletu.
 onboarding-tracking-protection-button2 = Kako deluje
 onboarding-data-sync-title = Ponesite svoje nastavitve s seboj
 # "Sync" is short for synchronize.
@@ -83,6 +84,7 @@ onboarding-mobile-phone-text = Prenesite { -brand-product-name } za iOS ali Andr
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Prenesite mobilni brskalnik
+onboarding-send-tabs-title = Takoj si pošljite zavihke
 onboarding-pocket-anywhere-title = Berite in poslušajte kjerkoli
 onboarding-pocket-anywhere-text2 = Shranite si priljubljeno vsebino z aplikacijo { -pocket-brand-name } in jo preberite, poslušajte ali si jo oglejte, kadarkoli vam ustreza.
 onboarding-pocket-anywhere-button = Preizkusite { -pocket-brand-name }
