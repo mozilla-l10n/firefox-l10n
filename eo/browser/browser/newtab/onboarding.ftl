@@ -47,6 +47,20 @@ onboarding-ghostery-text = Retumu pli rapide, pli inteligente aŭ pli sekure per
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Spegulado
 onboarding-fxa-text = Registriĝu ĉe { -fxaccount-brand-name } por speguli viajn legosignojn, pasvortojn kaj malfermitajn langetojn ĉie, kie vi uzas { -brand-short-name }.
+onboarding-tracking-protection-title2 = Protekto kontraŭ spurado
+onboarding-tracking-protection-text2 = { -brand-short-name } helpas vin eviti spuradon dum retumo, pro tio estos pli malfacile por reklamoj sekvi vin tra la reto.
+onboarding-tracking-protection-button2 = Kiel tio funkcias
+onboarding-data-sync-title = Poru viajn agordojn kun vi
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Spegulu viajn legosignojn, pasvortojn, kaj pli da aferoj, ĉie, kie vi uzas { -brand-product-name }.
+onboarding-data-sync-button2 = Komenci seancon en { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Estu informata pri datumŝteloj
+onboarding-firefox-monitor-text = { -monitor-brand-name } kontrolas ĉu via retpoŝta adreso iam aperis en datumŝtelo kaj atentigas vin se ĝi aperas en nova ŝtelo.
+onboarding-firefox-monitor-button = Aboni la atentigojn
+onboarding-browse-privately-title = Retumu private
+onboarding-browse-privately-text = Privata retumo viŝas vian serĉan kaj retuman historiojn, por kaŝi ilin de aliaj, kiu uzas vian komputilon.
+onboarding-browse-privately-button = Malfermi privatan fenestron
+onboarding-firefox-send-title = Protektu la dosierojn, kiujn vi kundividas
 
 ## Message strings belonging to the Return to AMO flow
 
