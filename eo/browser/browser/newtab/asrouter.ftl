@@ -53,3 +53,12 @@ cfr-doorhanger-pintab-step2 = Elektu <b>Alpingli langeton</b> el la menuo.
 cfr-doorhanger-pintab-step3 = Se la retejo aktualiĝos, vi vidos bluan punkton sur la alpinglita langeto.
 cfr-doorhanger-pintab-animation-pause = Paŭzigi
 cfr-doorhanger-pintab-animation-resume = Daŭrigi
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Spegulu viajn legosignojn ĉie.
+cfr-doorhanger-bookmark-fxa-body = Bona trovaĵo! Nun, retrovu tiun ĉi legosignon en viaj poŝaparatoj. Komencu per { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-link-text = Speguli legosignojn nun…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Ferma butono
+    .title = Fermi

@@ -6,6 +6,12 @@ process-type-web = Teksaĵa enhavo
 # process used to run privileged pages,
 # such as about:home
 process-type-privileged = Privilegia enhavo
+# process used to run privileged about pages,
+# such as about:home
+process-type-privilegedabout = Privilegia informo
+# process used to run privileged mozilla pages,
+# such as accounts.firefox.com
+process-type-privilegedmozilla = Privilegia enhavo de Mozilla
 process-type-extension = Etendaĵo
 # process used to open file:// URLs
 process-type-file = Loka dosiero
