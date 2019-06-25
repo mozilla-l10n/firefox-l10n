@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Shrani spremembe
     .accesskey = S
+permissions-autoplay-menu = Privzeto za vse spletne strani:
 permissions-searchbox =
     .placeholder = Išči po spletni strani
+permissions-capabilities-autoplay-allow =
+    .label = Dovoli zvok in video
+permissions-capabilities-autoplay-block =
+    .label = Zavrni zvok
+permissions-capabilities-autoplay-blockall =
+    .label = Zavrni zvok in video
 permissions-capabilities-allow =
     .label = Dovoli
 permissions-capabilities-block =
@@ -101,6 +108,7 @@ permissions-exceptions-autoplay-media-desc2 = Določite lahko, katere strani sme
 permissions-site-autoplay-window =
     .title = Nastavitve – Samodejno predvajanje
     .style = { permissions-window.style }
+permissions-site-autoplay-desc = Tukaj lahko upravljate spletne strani, za katere ne veljajo privzete nastavitve samodejnega predvajanja.
 
 ## Site Permissions - Notifications
 
