@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Konservi ŝanĝojn
     .accesskey = K
+permissions-autoplay-menu = Normo por ĉiuj retejoj:
 permissions-searchbox =
     .placeholder = Serĉi en retejo
+permissions-capabilities-autoplay-allow =
+    .label = Permesi sonon kaj videon
+permissions-capabilities-autoplay-block =
+    .label = Bloki sonon
+permissions-capabilities-autoplay-blockall =
+    .label = Bloki sonon kaj videon
 permissions-capabilities-allow =
     .label = Permesi
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = Permesi
 permissions-capabilities-listitem-block =
     .value = Bloki
-permissions-capabilities-listitem-allow-first-party =
-    .value = Permesi nur rektajn
 permissions-capabilities-listitem-allow-session =
     .value = Permesi dum la seanco
 
@@ -58,10 +63,6 @@ permissions-invalid-uri-label = Bonvolu tajpi validan servilan nomon
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Esceptoj - Protekto kontraŭ spurado
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Vi malaktivigis la protekton kontraŭ spurado en tiuj ĉi retejoj.
 permissions-exceptions-content-blocking-window =
     .title = Esceptoj - Blokado de enhavo
     .style = { permissions-window.style }
@@ -101,6 +102,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Esceptoj - Aŭtomata ludado
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Vi povas specifi, kiuj retejoj rajtos ĉu ĉiam ĉu neniam aŭtomate ludi audvidaĵon kun sono. Tajpu la adreson de la retejo, kiun vi volas administri, kaj poste alklaku Bloki aŭ Permesi.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Agordoj - aŭtomata ludado
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Tie ĉi vi povas administri la retejojn, kiuj ne kongruas kun viaj normaj agordoj de automata ludado.
 
 ## Site Permissions - Notifications
 

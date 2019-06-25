@@ -82,11 +82,10 @@ about-debugging-refresh-usb-devices-button = Refreŝigi aparatojn
 about-debugging-setup-title = Agordoj
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Agordu la konektan metodon, kiun vi ŝatus uzi por fora senerarigo de via aparato.
-# Link displayed in the Setup page that leads to MDN page with list of supported devices.
-# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
-about-debugging-setup-link-android-devices = Vidi liston de subtenataj aparatoj Android
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Uzi <a>{ about-debugging-this-firefox-runtime-name }</a> por senerarigi langetojn, etendaĵojn kaj service workers en tiu ĉi versio de { -brand-shorter-name }.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Uzi <a>{ about-debugging-this-firefox-runtime-name }</a> por senerarigi etendaĵojn kaj service workers en tiu ĉi versio de { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Konekti aparaton
 # USB section of the Setup page
@@ -106,16 +105,22 @@ about-debugging-setup-usb-status-enabled = Aktiva
 about-debugging-setup-usb-status-disabled = Malaktiva
 about-debugging-setup-usb-status-updating = Ĝisdatigo…
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu = Aktivigu la programistan menuon en via aparato Android. <a>Kiel fari</a>
+about-debugging-setup-usb-step-enable-dev-menu2 = Aktivigi la menuon por programistoj en via aparato Android.
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug = Aktivigu la senerarigon USB en la programista menuo de Android. <a>Kiel fari</a>
+about-debugging-setup-usb-step-enable-debug2 = Aktivigi senerarigon USB en la menuo por programistoj de Android.
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox = Aktivigu la senerarigon USB en Firefox en la aparato Android. <a>Kiel fari</a>
+about-debugging-setup-usb-step-enable-debug-firefox2 = Aktivigi senerarigon USB en Firefox en via aparato Android.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Konektu la aparaton Android al via komputilo.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = Ĉu estas problemoj en la konekto USB al la aparato? <a>Solvado de problemoj</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Reta situo
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = Ĉu estas problemoj en la reta konekto? <a>Solvado de problemoj</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Aldoni
@@ -162,9 +167,6 @@ about-debugging-runtime-other-workers =
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Procezoj
-# Label of the button opening the performance profiler panel in runtime pages for remote
-# runtimes.
-about-debugging-runtime-profile-button = Rulĉirkaŭaĵa profilo
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
@@ -201,13 +203,6 @@ about-debugging-connection-prompt-enable-button = Aktivigi konektpeton
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = Malaktivigi konektpeton
-# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
-about-debugging-profiler-dialog-title = Analizilo de efikeco
-# Label of a checkbox displayed in the runtime page for "This Firefox".
-# This checkbox will toggle preferences that enable local addon debugging.
-# The "Learn more" link points to MDN.
-# https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
-about-debugging-extension-debug-setting-label = Aktivigi senerarigon de etendaĵoj. <a>Pli da informo</a>
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
