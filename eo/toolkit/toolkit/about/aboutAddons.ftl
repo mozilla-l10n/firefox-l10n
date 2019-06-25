@@ -263,6 +263,11 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro = Etendaĵoj kaj etosoj estas kiel programoj por via retumilo, kiuj permesas al vi protekti pasvortojn, elŝuti filmetojn, serĉi ofertojn, bloki ĝenajn reklamojn, ŝanĝi la aspekton de via retumilo kaj fari multe pli da aferoj. Tiuj etaj programoj estas ofte ne programitaj de ni. Jen <a data-l10n-name="learn-more-trigger">kelkaj rekomendoj</a> de { -brand-product-name } por eksterordinaraj sekureco, efikeco kaj funkcioj.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations = Kelkaj el tiuj ĉi rekomendoj estas personecigitaj. Ili baziĝas sur la listo de viaj nunaj etendaĵoj, preferoj de profilo kaj statistikoj de uzo.
 discopane-notice-learn-more = Pli da informo
 privacy-policy = Politiko pri privateco
 # Refers to the author of an add-on, shown below the name of the add-on.
@@ -305,6 +310,11 @@ addon-detail-version-label = Versio
 addon-detail-last-updated-label = Laste ĝisdatigita
 addon-detail-homepage-label = Ĉefpaĝo
 addon-detail-rating-label = Taksado
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Taksado { NUMBER($rating, maximumFractionDigits: 1) } el 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -320,7 +330,11 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> estis forigita.
 pending-uninstall-undo-button = Malfari
+addon-detail-updates-label = Permesi aŭtomatajn ĝisdatigojn
 addon-detail-updates-radio-default = Norma
 addon-detail-updates-radio-on = Ŝaltita
 addon-detail-updates-radio-off = Malŝaltita
@@ -330,6 +344,7 @@ install-update-button = Ĝisdatigi
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Permesita en privataj fenestroj
+addon-detail-private-browsing-help = Se tio estas permesita, la etendaĵo havos aliron al viaj retumaj agoj dum vi private retumas. <a data-l10n-name="learn-more">Pli da informo</a>
 addon-detail-private-browsing-allow = Permesi
 addon-detail-private-browsing-disallow = Ne permesi
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
