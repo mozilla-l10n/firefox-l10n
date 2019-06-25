@@ -167,6 +167,9 @@ about-debugging-runtime-other-workers =
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Procezoj
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button2 = Rulanalizo de efikeco
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
@@ -203,6 +206,8 @@ about-debugging-connection-prompt-enable-button = Aktivigi konektpeton
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = Malaktivigi konektpeton
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title2 = Rulanalizilo
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
@@ -291,3 +296,9 @@ about-debugging-main-process-description2 = Ĉefa procezo por la cela retumilo
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Fermi mesaĝon
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = Detaloj de eraro
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = Detaloj de averto
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = Detaloj

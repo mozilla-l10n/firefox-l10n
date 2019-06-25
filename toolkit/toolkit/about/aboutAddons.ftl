@@ -95,7 +95,7 @@ detail-update-manual =
 detail-private-browsing-label = Lanĉi en privataj fenestroj
 detail-private-browsing-description2 = Kiam tio ĉi estas permesata, la etendaĵo havos aliron al viaj agoj en la reto, ankaŭ dum privata retumo. <label data-l10n-name="detail-private-browsing-learn-more">Pli da informo</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
-# cannot be overriden by the user.
+# cannot be overridden by the user.
 detail-private-disallowed-label = Ne permesita en privataj fenestroj
 detail-private-disallowed-description = Tiu ĉi etendaĵo ne funkcias dum privata retumo. <label data-l10n-name="detail-private-browsing-learn-more">Pli da informo</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
@@ -153,6 +153,9 @@ private-browsing-description2 = { -brand-short-name } modifis la funkciadon de e
 extensions-view-discover =
     .name = Elŝuti aldonaĵojn
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Rekomendoj
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Ĵusaj ĝisdatigoj
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -233,7 +236,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Administri alirklavojn de etendaĵoj
     .accesskey = A
-shortcuts-empty-message = Estas neniu alirklavo por tiu ĉi etendaĵo.
 shortcuts-no-addons = Vi havas neniun aktivan etendaĵon.
 shortcuts-no-commands = La jenaj etendaĵoj ne havas alirklavojn:
 shortcuts-input =
@@ -259,14 +261,34 @@ shortcuts-card-collapse-button = Montri malpli
 go-back-button =
     .tooltiptext = Iri reen
 
+## Recommended add-ons page
+
+discopane-notice-learn-more = Pli da informo
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Administri
+find-more-addons = Serĉi pli da aldonaĵoj
+
 ## Add-on actions
 
+report-addon-button = Denunci
 remove-addon-button = Forigi
 disable-addon-button = Malaktivigi
 enable-addon-button = Aktivigi
 expand-addon-button = Pli da elektebloj
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Preferoj
+       *[other] Preferoj
+    }
+details-addon-button = Detaloj
+release-notes-addon-button = Notoj pri liverado
+permissions-addon-button = Permesoj
 addons-enabled-heading = Aktiva
 addons-disabled-heading = Malaktiva
+ask-to-activate-button = Demandi antaŭ ol aktivigi
+always-activate-button = Ĉiam aktivigi
+never-activate-button = Neniam aktivigi
 addon-detail-author-label = Aŭtoro
 addon-detail-version-label = Versio
 addon-detail-last-updated-label = Laste ĝisdatigita
@@ -284,3 +306,16 @@ addon-detail-reviews-link =
         [one] { $numberOfReviews } revizio
        *[other] { $numberOfReviews } revizioj
     }
+
+## Pending uninstall message bar
+
+pending-uninstall-undo-button = Malfari
+addon-detail-updates-radio-default = Norma
+addon-detail-updates-radio-on = Ŝaltita
+addon-detail-updates-radio-off = Malŝaltita
+addon-detail-update-check-label = Kontroli ĉu estas ĝisdatigoj
+install-update-button = Ĝisdatigi
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Permesita en privataj fenestroj
