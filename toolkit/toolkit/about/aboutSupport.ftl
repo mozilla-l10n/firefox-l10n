@@ -32,8 +32,15 @@ app-basics-name = Izena
 app-basics-version = Bertsioa
 app-basics-build-id = Eraikitze IDa
 app-basics-update-channel = Eguneraketa-kanala
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Eguneratu direktorioa
+       *[other] Eguneratu karpeta
+    }
 app-basics-update-history = Eguneraketen historia
 app-basics-show-update-history = Erakutsi eguneraketen historia
+# Represents the path to the binary used to start the application.
+app-basics-binary = Aplikazioaren bitarra
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Profilaren direktorioa
@@ -79,6 +86,8 @@ graphics-gpu2-title = 2. GPUa
 graphics-decision-log-title = Erabakien erregistroa
 graphics-crash-guards-title = Babestu desgaitutako eginbideen hutsegiteak
 graphics-workarounds-title = Behin-behineko konponbideak
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Leiho-sistemaren protokoloa
 place-database-title = Lekuen datu-basea
 place-database-integrity = Osotasuna
 place-database-verify-integrity = Egiaztatu osotasuna
@@ -196,6 +205,7 @@ gpu-device-id = Gailuaren IDa
 gpu-subsys-id = Subsys IDa
 gpu-drivers = Kontrolatzaileak
 gpu-ram = RAM
+gpu-driver-vendor = Kontrolatzailearen hornitzailea
 gpu-driver-version = Kontrolatzailearen bertsioa
 gpu-driver-date = Kontrolatzailearen data
 gpu-active = Aktibo

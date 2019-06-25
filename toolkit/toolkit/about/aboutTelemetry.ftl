@@ -15,6 +15,7 @@ about-telemetry-option-group-older = Zaharragoa
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Telemetry datuak
+about-telemetry-current-store = Uneko denda:
 about-telemetry-more-information = Informazio gehiagoren bila?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefoxen datuen dokumentazioa</a>k gure datu-tresnekin nola lan egin erakusten du.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox Telemetry bezeroaren dokumentazioa</a>k kontzeptuen definizioak, API dokumentazioa eta datu-erreferentziak ditu.
@@ -55,6 +56,16 @@ about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] gaituta
        *[disabled] desgaituta
+    }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] lagin { $sampleCount }, bataz bestekoa = { $prettyAverage }, batura = { $sum }
+       *[other] { $sampleCount } lagin, bataz bestekoa = { $prettyAverage }, batura = { $sum }
     }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
@@ -125,3 +136,12 @@ about-telemetry-category-header = kategoria
 about-telemetry-method-header = metodoa
 about-telemetry-object-header = objektua
 about-telemetry-extra-header = estra
+about-telemetry-origin-section = Origin Telemetry
+about-telemetry-origin-origin = jatorria
+about-telemetry-origin-count = kopurua
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a>k bidali aurretik kodetu egiten ditu datuak, { $telemetryServerOwner } zerbitzariak kontaketa burutu ahal izateko baina { -brand-product-name } jakin batek kontaketa horretan parte hartu duen jakiteko modurik gabe. (<a data-l10n-name="prio-blog-link">argibide gehiago</a>)
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = { $process } prozesua
