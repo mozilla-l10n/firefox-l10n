@@ -74,6 +74,7 @@
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; क्रैश हो गया">
 <!ENTITY  crash_notification_message "&vendorShortName; को रिपोर्ट करने हेतु क्लिक करें">
+<!ENTITY  crash_notification_negative_button_text "हटाएं">
 
 <!ENTITY url_bar_default_text2 "खोजें या पता दर्ज करें">
 
@@ -945,3 +946,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "साइट नोटिफिकेशन">
+<!ENTITY crash_handler_notifications_channel "&brandShortName; क्रैश रिपोर्टकर्ता">
