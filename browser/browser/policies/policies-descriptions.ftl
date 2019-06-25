@@ -21,6 +21,7 @@ policy-Bookmarks = Krei legosignojn en la ilaro de legosignoj, en la menuo de le
 policy-CaptivePortal = Aktivigi aŭ malaktivigi subtenon por kapta portalo.
 policy-CertificatesDescription = Aldoni atestilojn aŭ uzi inkluzivitajn atestilojn.
 policy-Cookies = Permesi aŭ bloki al retejoj konservi kuketojn.
+policy-DefaultDownloadDirectory = Difini la norman dosierujon por elŝutoj.
 policy-DisableAppUpdate = Malpermesi al retumilo ĝisdatigiĝi.
 policy-DisableBuiltinPDFViewer = Malaktivigi PDF.js (PDF-legilo inkluzivita en { -brand-short-name }).
 policy-DisableDeveloperTools = Bloki aliron al la iloj por programistoj.
@@ -45,13 +46,16 @@ policy-DisplayBookmarksToolbar = Norme montri la ilaron de legosignoj.
 policy-DisplayMenuBar = Norme montri la menuan strion.
 policy-DNSOverHTTPS = Agordi DNS per HTTPS.
 policy-DontCheckDefaultBrowser = Malaktivigi ĉe starto la kontrolon pri la norma retumilo.
+policy-DownloadDirectory = Difini kaj fiksi la dosierujon por elŝutoj.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Aktivigi aŭ malaktivigi la blokadon de enhavo kaj kun la eblo bloki ĝin.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Instali, malinstali aŭ ŝlosi etendaĵojn. La elekteblo "instali" akceptas retadresojn aŭ vojojn kiel parametrojn. La elektebloj "malinstali" kaj "ŝlosi" akceptas identigilojn de etendaĵo.
+policy-ExtensionSettings = Administri ĉiujn agordojn por instalo de etendaĵoj.
 policy-ExtensionUpdate = Aktivigi aŭ malaktivigi aŭtomatan ĝisdatigon de etendaĵoj.
+policy-FirefoxHome = Agordi la ekan paĝon de Firefox.
 policy-FlashPlugin = Permesi aŭ malpermesi la uzon de la kromprogramo Flash.
 policy-HardwareAcceleration = Se estas "malvera" la aparata akcelo estos malŝaltita.
 # “lock” means that the user won’t be able to change this setting
@@ -67,6 +71,7 @@ policy-OverridePostUpdatePage = Ŝanĝi la postĝisdatigan paĝon "Kio estas nov
 policy-Permissions = Agordi permesojn por filmilo, mikrofono, pozicio kaj sciigoj.
 policy-PopupBlocking = Norme permesi al kelkaj retejoj montri ŝprucfenestrojn.
 policy-Preferences = Difini kaj bloki la valoron por aro de preferoj.
+policy-PromptForDownloadLocation = Demandi kie konservi elŝutitajn dosierojn.
 policy-Proxy = Agordi retperantojn.
 policy-RequestedLocales = Agordi la liston de lingvoj petataj de la programo, ordigitaj laŭ prefero.
 policy-SanitizeOnShutdown = Viŝi ĉiujn retumajn datumojn je sistemfermo.
