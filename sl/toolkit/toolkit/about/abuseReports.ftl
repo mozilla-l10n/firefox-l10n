@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+abuse-report-title-extension = Prijavi to razširitev organizaciji { -vendor-short-name }
+abuse-report-title-theme = Prijavi to temo organizaciji { -vendor-short-name }
 abuse-report-subtitle = Kje je težava?
 # Variables:
 #   $author-name (string) - Name of the add-on author
@@ -10,6 +12,8 @@ abuse-report-learnmore =
     Niste prepričani, katero težavo izbrati?
     <a data-l10n-name="learnmore-link">Več o prijavljanju razširitev in tem</a>
 abuse-report-submit-description = Opišite težavo (neobvezno)
+abuse-report-textarea =
+    .placeholder = Težave lažje odpravimo, če imamo na voljo podrobnosti. Opišite težavo. Hvala, ker nam pomagate ohranjati splet zdrav.
 abuse-report-submit-note =
     Opomba: ne vključujte osebnih podatkov (kot so ime, naslov, e-poštni naslov, telefonska številka).
     { -vendor-short-name } te prijave trajno hrani.
@@ -59,6 +63,9 @@ abuse-report-deceptive-reason = Izdaja se za nekaj drugega
 abuse-report-deceptive-example = Na primer: zavajajoč opis ali slike
 abuse-report-broken-reason-extension = Ne deluje, kvari spletne strani ali upočasnjuje { -brand-product-name }
 abuse-report-policy-reason = Sovražna, nasilna ali nezakonita vsebina
+abuse-report-policy-suggestions =
+    Opomba: Kršitve avtorskih pravic in blagovnih znamk je potrebno prijaviti v ločenem postopku.
+    Za prijavo težave <a data-l10n-name="report-infringement-link">sledite tem navodilom</a>.
 abuse-report-unwanted-reason = Te razširitve nisem hotel in se je ne morem znebiti
 abuse-report-unwanted-example = Na primer: namestil jo je drug program brez mojega dovoljenja
 abuse-report-other-reason = Nekaj drugega
