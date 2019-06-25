@@ -18,3 +18,4 @@
 <!ENTITY setDesktopBackground.title "Ezarri mahaigaineko atzeko planoa">
 <!ENTITY openDesktopPrefs.label     "Ireki mahaigaineko hobespenak">
 <!ENTITY closeWindow.key            "w">
+<!ENTITY previewUnavailable         "Aurrebista ez dago erabilgarri">
