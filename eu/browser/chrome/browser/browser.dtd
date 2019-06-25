@@ -1135,6 +1135,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "B">
 <!ENTITY updateRestart.cancelButton.label "Une honetan ez">
 <!ENTITY updateRestart.cancelButton.accesskey "z">
+<!ENTITY updateUnsupported.panelUI.label "Ezin duzu eguneraketa gehiagorik burutu">
 <!ENTITY updateRestart.panelUI.label2 "Berrabiarazi &brandShorterName; eguneratzeko">
 
 <!ENTITY newTabControlled.header.message "Zure fitxa berria aldatu egin da.">
