@@ -35,6 +35,11 @@ app-basics-name = Ime
 app-basics-version = Različica
 app-basics-build-id = ID gradnje
 app-basics-update-channel = Posodobitveni kanal
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Posodobi mapo
+       *[other] Posodobi mapo
+    }
 app-basics-update-history = Zgodovina posodobitev
 app-basics-show-update-history = Prikaži zgodovino posodobitev
 app-basics-profile-dir =

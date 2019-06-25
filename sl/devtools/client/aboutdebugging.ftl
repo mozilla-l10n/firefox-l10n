@@ -84,6 +84,8 @@ about-debugging-setup-title = Nastavitev
 about-debugging-setup-intro = Nastavite način povezave, s katero želite oddaljeno razhroščevati napravo.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Uporabite <a>{ about-debugging-this-firefox-runtime-name }</a> za razhroščevanje zavihkov, razširitev in service workerjev v tej različici { -brand-shorter-name }a.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Uporabite <a>{ about-debugging-this-firefox-runtime-name }</a> za razhroščevanje razširitev in service workerjev v tej različici { -brand-shorter-name }a.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Poveži napravo
 # USB section of the Setup page
@@ -110,6 +112,9 @@ about-debugging-setup-usb-step-enable-debug2 = Omogočite razhroščevanje USB v
 about-debugging-setup-usb-step-enable-debug-firefox2 = Omogočite oddaljeno razhroščevanje USB v Firefoxu na napravi Android.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Povežite napravo Android z računalnikom.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = Težave pri povezovanju z napravo USB? <a>Odpravljanje težav</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Lokacija omrežja

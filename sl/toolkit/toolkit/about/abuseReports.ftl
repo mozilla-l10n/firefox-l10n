@@ -24,6 +24,7 @@ abuse-report-messagebar-submitted = Hvala za prijavo. Ali želite odstraniti <sp
 abuse-report-messagebar-submitted-noremove = Hvala za prijavo.
 abuse-report-messagebar-removed-extension = Hvala, ker ste nam poslali poročilo. Odstranili ste razširitev <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Pri pošiljanju poročila za <span data-l10n-name="addon-name">{ $addon-name }</span> je prišlo do napake.
+abuse-report-messagebar-error-recent-submit = Poročilo za <span data-l10n-name="addon-name">{ $addon-name }</span> ni bilo poslano, ker je bilo pred kratkim poslano drugo poročilo.
 
 ## Message bars actions.
 
