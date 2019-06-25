@@ -34,6 +34,7 @@ policies-notice =
         [windows] Vaša organizacija vam je onemogočila spreminjanje nekaterih možnosti.
        *[other] Vaša organizacija vam je onemogočila spreminjanje nekaterih nastavitev.
     }
+managed-notice = Vaš brskalnik upravlja vaša organizacija.
 pane-general-title = Splošno
 category-general =
     .tooltiptext = { pane-general-title }
@@ -295,6 +296,13 @@ update-pref-write-failure-title = Napaka pri pisanju
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Nastavitve ni bilo mogoče shraniti. Ni bilo mogoče pisati v datoteko: { $path }
+update-setting-write-failure-title = Napaka pri shranjevanju nastavitev posodobitve
+update-in-progress-title = Posodobitev v teku
+update-in-progress-message = Želite, da { -brand-short-name } nadaljuje s to posodobitvijo?
+update-in-progress-ok-button = &Opusti
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Nadaljuj
 
 ## General Section - Performance
 

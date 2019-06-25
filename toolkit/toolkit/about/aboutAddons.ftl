@@ -159,6 +159,9 @@ private-browsing-description2 =
 extensions-view-discover =
     .name = Prenesi dodatke
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Priporočila
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Nedavne posodobitve
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -268,8 +271,21 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Nekatera od teh priporočil so prilagojena za vas. Temeljijo na vaših
+    ostalih razširitvah, nastavitvah profila in statistiki uporabe.
+discopane-notice-learn-more = Več o tem
+privacy-policy = Politika zasebnosti
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Uporabnikov: { $dailyUsers }
 install-extension-button = Dodaj v { -brand-product-name }
 install-theme-button = Namesti temo
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Upravljaj
 find-more-addons = Poišči več dodatkov
 
 ## Add-on actions
@@ -297,6 +313,11 @@ addon-detail-version-label = Različica
 addon-detail-last-updated-label = Zadnja posodobitev
 addon-detail-homepage-label = Domača stran
 addon-detail-rating-label = Ocena
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Ocena { NUMBER($rating, maximumFractionDigits: 1) } od 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -314,6 +335,9 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = Dodatek <span data-l10n-name="addon-name">{ $addon }</span> je bil odstranjen.
 pending-uninstall-undo-button = Razveljavi
 addon-detail-updates-label = Dovoli samodejne posodobitve
 addon-detail-updates-radio-default = Privzeto
@@ -323,10 +347,21 @@ install-update-button = Posodobi
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Dovoljeno v zasebnih oknih
+addon-detail-private-browsing-help = Če je dovoljeno, bo imela razširitev dostop do vaše spletne dejavnosti v zasebnem brskanju. <a data-l10n-name="learn-more">Več o tem</a>
 addon-detail-private-browsing-allow = Dovoli
 addon-detail-private-browsing-disallow = Ne dovoli
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Priporočeno
+    .alt = Priporočeno
 available-updates-heading = Razpoložljive posodobitve
 recent-updates-heading = Nedavne posodobitve
 release-notes-loading = Nalaganje …
+release-notes-error = Pri nalaganju opomb k izdaji je prišlo do napake.
+addon-permissions-empty = Ta razširitev ne zahteva nobenih dovoljenj
 recommended-extensions-heading = Priporočene razširitve
 recommended-themes-heading = Priporočene teme
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Ste ustvarjalno razpoloženi? <a data-l10n-name="link">Ustvarite lastno temo s Firefox Colorjem.</a>
