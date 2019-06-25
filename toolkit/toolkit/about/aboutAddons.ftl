@@ -82,6 +82,9 @@ detail-version =
 detail-last-updated =
     .label = Viimati uuendatud
 detail-contributions-description = Selle lisa arendaja palub sult väikse annetuse kujul abi arenduse jätkamiseks.
+detail-contributions-button = Aita kaasa
+    .title = Aita selle lisa arendamisele kaasa
+    .accesskey = A
 detail-update-type =
     .value = Automaatne uuendamine
 detail-update-default =
@@ -212,3 +215,15 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Paigalda uuendused
     .tooltiptext = Paigalda saadaolevad uuendused sellest nimekirjast
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
