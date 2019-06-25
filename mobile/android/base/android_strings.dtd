@@ -21,12 +21,15 @@
 <!ENTITY firstrun_data_message "कम डेटा , अधिक बचत">
 <!ENTITY firstrun_data_subtext2 "आपके द्वारा देखे गए हर साइट के लिए छवि बंद करें ताकि डेटा कम खर्च हो.">
 <!ENTITY firstrun_sync_title "सिंक">
+<!ENTITY updatednewfirstrun_sync_title "खाता">
 <!ENTITY firstrun_sync_message2 "जहाँ आपने छोड़ा था वहाँ से चुने.">
 <!ENTITY firstrun_sync_subtext2 "सिंक का उपयोग करें बुकमार्क, पासवर्ड, तथा अन्य चीजें अपने सभी उपकरणों पर पाने के लिए जिन्हें आपने &brandShortName; में सहेजा है.">
 <!ENTITY newfirstrun_sync_subtext "निजी तथा सुरक्षित रूप से, डेस्कटॉप हेतु Firefox में अपने मोबाइल पर सहेजे हुए चीज़ों को सिंक करें।">
+<!ENTITY updatednewfirstrun_sync_subtext "&brandShortName; का पूर्ण रूप से लाभ उठाने के लिए अपने खाते में साइन इन करें">
 <!ENTITY firstrun_signin_message "कनेक्टेड हैं, आरंभ करें">
 <!ENTITY firstrun_signin_button "संकलित करने के लिए साइन इन करें">
 <!ENTITY newfirstrun_signin_button "सिंक चालू करें">
+<!ENTITY updatednewfirstrun_signin_button "&brandShortName;में साइन इन करें">
 <!ENTITY  onboard_start_button_browser "ब्राउजिंग शुरू करें">
 <!ENTITY firstrun_button_notnow "अभी नहीं">
 <!ENTITY firstrun_button_next "अगला">
@@ -66,6 +69,11 @@
 <!ENTITY  sending_crash_report "क्रैश रपट जा रही है\u2026">
 <!ENTITY  crash_close_label "बंद करें">
 <!ENTITY  crash_restart_label "&brandShortName; पुनः आरंभ करें">
+
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; क्रैश हो गया">
+<!ENTITY  crash_notification_message "&vendorShortName; को रिपोर्ट करने हेतु क्लिक करें">
 
 <!ENTITY url_bar_default_text2 "खोजें या पता दर्ज करें">
 
@@ -108,6 +116,9 @@
 <!ENTITY bookmark_folder_updated "फ़ोल्डर अद्यतन किया गया">
 <!ENTITY bookmark_parent_folder "मूल फ़ोल्डर">
 <!ENTITY bookmark_add_folder "नया फ़ोल्डर जोड़ें">
+
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
 
 <!ENTITY reader_saved_offline "ऑफलाइन सहेजा गया">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -413,8 +424,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "डाउनलोड">
 <!ENTITY pref_private_data_syncedTabs "सिंक हुए टैब">
 
-<!ENTITY pref_default_browser "डिफ़ॉल्ट ब्राउज़र बनायें">
-
 <!ENTITY pref_default_browser2 "&brandShortName; को अपना डिफ़ॉल्ट ब्राउज़र बनाएं">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
@@ -592,6 +601,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "बीजशब्द">
 <!ENTITY bookmark_select_folder "फ़ोल्डर चुनें">
 
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "साइट सेटिंग">
@@ -679,6 +689,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "आवाज़ चुनें या रिकॉर्ड करें">
 <!ENTITY filepicker_image_title "तस्वीर चुनें या खींचें">
 <!ENTITY filepicker_video_title "वीडियो चुनें या रिकॉर्ड करें">
+
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "आप यहाँ कनेक्टेड हैं">
