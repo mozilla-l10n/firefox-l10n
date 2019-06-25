@@ -291,6 +291,14 @@ update-pref-write-failure-title = Skrivfeil
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Kan ikke lagre innstillinger. Kunne ikke skrive til filen: { $path }
 update-setting-write-failure-title = Kunne ikke lagre oppdateringsinnstillinger
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } oppdaget en feil og lagret ikke denne endringen. Merk, for å kunne lagre endringen av denne oppdateringsinnstillingen, kreves det tillatelse til å skrive til filen nedenfor. Du eller en systemadministrator kan muligens løse feilen ved å gi gruppen Brukere full tilgang til denne filen.
+    
+    Kunne ikke skrive til filen: { $path }
 update-in-progress-title = Oppdatering pågår
 update-in-progress-message = Vil du at { -brand-short-name } skal fortsette med denne oppdateringen?
 update-in-progress-ok-button = &Avvis
