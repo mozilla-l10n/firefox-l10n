@@ -21,8 +21,10 @@
 <!ENTITY firstrun_data_message "Luxoo tu\&apos;un, kuaka ña  kunka\&apos;va">
 <!ENTITY firstrun_data_subtext2 "Ma chiakà vaii ñaá tutu ndatavana tava luxoo sachuin ta inkau nu sitio web  ">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY updatednewfirstrun_sync_title "Kuenta">
 <!ENTITY firstrun_sync_message2 "Kitsaa nu nikintùu.">
 <!ENTITY firstrun_sync_subtext2 "Kuachu\&apos;un Sync takua ntaneu marcador, tu\&apos;un seé cha ntoo ña nchikavau nu &brandShortName; nu ntii kaa ndusu\&apos;ku.">
+<!ENTITY updatednewfirstrun_sync_subtext "Kitsa sesión tsi kuentaku &brandShortName;">
 <!ENTITY firstrun_signin_message "Chita\&apos;an, kitsaà">
 <!ENTITY firstrun_signin_button "Kivi nuú Sync">
 <!ENTITY newfirstrun_signin_button "Ndatun Sync">
@@ -70,6 +72,7 @@
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "avá &brandShortName;">
+<!ENTITY  crash_notification_message "Katavi takua katu\&apos;un nu &vendorShortName;">
 <!ENTITY  crash_notification_negative_button_text "Ma sa kuentaku">
 
 <!ENTITY url_bar_default_text2 "Nda tuku a chika direccion">
