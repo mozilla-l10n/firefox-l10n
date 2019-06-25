@@ -61,6 +61,7 @@ cfr-doorhanger-pintab-animation-resume = Nadaljuj
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sinhronizirajte zaznamke povsod.
+cfr-doorhanger-bookmark-fxa-body = Odlično! Vzemite ta zaznamek še na mobilno napravo. Začnite s { -fxaccount-brand-name }om.
 cfr-doorhanger-bookmark-fxa-link-text = Sinhroniziraj zaznamke zdaj …
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Gumb zapri
