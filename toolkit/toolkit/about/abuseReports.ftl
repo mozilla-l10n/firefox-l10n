@@ -48,3 +48,16 @@ abuse-report-spam-example = Dæmi: Bætir auglýsingum inn á vefsíður
 abuse-report-settings-reason = Breytti leitarvélinni minni, heimasíðunni eða nýju flipasíðunni án þess biðja um leyfi eða láta vita
 abuse-report-settings-suggestions = Áður en þú tilkynnir viðbótina gætirðu prófað að breyta stillingunum þínum:
 abuse-report-settings-suggestions-search = Breyta sjálfgefnu leitarvélinni
+abuse-report-settings-suggestions-homepage = Breyta heimasíðu og nýju flipasíðunni
+abuse-report-deceptive-reason = Þykist vera eitthvað annað
+abuse-report-deceptive-example = Dæmi: Villandi lýsing eða myndir
+abuse-report-broken-reason-extension = Virkar ekki, lætur vefsíður hætta að virka eða hægir á { -brand-product-name }
+abuse-report-broken-reason-theme = Virkar ekki eða skemmir virkni vafragluggans
+abuse-report-broken-example = Dæmi: Ýmislegt virkar ekki, keyrir hægar, eða er erfiðara að nota; hlutar vefsíða hlaðast ekki eða líta skringilega út
+abuse-report-broken-suggestions-extension = Það hljómar eins og þú hafir lent í hugbúnaðarvillu. Þegar þú hefur sent þessa tilkynningu inn myndi það líka flýta fyrir því að hún verði löguð ef þú hefðir samband við þann sem bjó viðbótina til. <a data-l10n-name="support-link">Farðu á vefsíðu viðbótarinnar</a> til að finna upplýsingar um viðbótarsmiðinn.
+abuse-report-broken-suggestions-theme = Það hljómar eins og þú hafir lent í hugbúnaðarvillu. Þegar þú hefur sent þessa tilkynningu inn myndi það líka flýta fyrir því að hún verði löguð ef þú hefðir samband við þann sem bjó þemað til. <a data-l10n-name="support-link">Farðu á vefsíðu viðbótarinnar</a> til að finna upplýsingar um þemusmiðinn.
+abuse-report-policy-reason = Hatur, ofbeldi eða eitthvað ólöglegt
+abuse-report-policy-suggestions = Athugið: Mál er varða höfundarrétt og vörumerki þarf að tilkynna annars staðar. <a data-l10n-name="report-infringement-link">Fylgið leiðbeiningunum hér</a> til að tilkynna slík mál.
+abuse-report-unwanted-reason = Mig langaði ekki í þessa viðbót og ég losna ekki við hana
+abuse-report-unwanted-example = Dæmi: Forrit setti hana inn án þess að biðja um leyfi
+abuse-report-other-reason = Eitthvað annað
