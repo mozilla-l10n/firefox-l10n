@@ -24,10 +24,10 @@
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to https://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       " is a ">
+<!ENTITY community.exp.middle       " Web'i açık, kamusal ve herkesçe erişilebilir kılmak için birlikte çalışan insanlardan oluşan ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "küresel bir topluluktur.">
-<!ENTITY community.exp.end          "İnterneti herkes için açık, kamuya hizmet eden ve erişilebilir kılmak için birlikte çaba sarf edenlerden oluşur.">
+<!ENTITY community.exp.creditsLink  "küresel bir topluluktur">
+<!ENTITY community.exp.end          ".">
 
 <!ENTITY community.start2           "&brandShortName;, ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to https://www.mozilla.org/. -->
@@ -35,7 +35,7 @@
 <!ENTITY community.middle2          " tarafından tasarlanmıştır. &vendorShortName;, interneti daha iyiye taşımak için birlikte çalışan ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "küresel bir topluluktur.">
-<!ENTITY community.end3             "İnterneti herkes için açık, kamuya hizmet eden ve erişilebilir kılmak için birlikte çaba sarf edenlerden oluşur.">
+<!ENTITY community.end3             " Web'i açık, kamusal ve herkesçe erişilebilir kılmak için birlikte çalışan insanlardan oluşur.">
 
 <!ENTITY helpus.start               "Yardım etmek ister misiniz? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
@@ -101,7 +101,6 @@
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Güncelleme uygulanıyor…">
-
 <!ENTITY update.restarting          "Yeniden başlatılıyor…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
