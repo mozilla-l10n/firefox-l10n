@@ -6,6 +6,12 @@ process-type-web = Web edukia
 # process used to run privileged pages,
 # such as about:home
 process-type-privileged = Eduki pribilegiatua
+# process used to run privileged about pages,
+# such as about:home
+process-type-privilegedabout = Pribilegiodun 'honi buruz' orria
+# process used to run privileged mozilla pages,
+# such as accounts.firefox.com
+process-type-privilegedmozilla = Pribilegiodun Mozilla edukia
 process-type-extension = Hedapena
 # process used to open file:// URLs
 process-type-file = Fitxategi lokala

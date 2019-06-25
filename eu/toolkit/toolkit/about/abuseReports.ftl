@@ -58,3 +58,14 @@ abuse-report-settings-suggestions = Hedapena salatu aurretik, zure ezarpenak ald
 abuse-report-settings-suggestions-search = Aldatu zure bilaketa-ezarpen lehenetsiak
 abuse-report-settings-suggestions-homepage = Aldatu zure hasiera-orria eta fitxa berria
 abuse-report-deceptive-reason = Benetan ez den zerbait izaten saiatu da
+abuse-report-deceptive-example = Adibidea: gezurretako azalpen edo iruditeria
+abuse-report-broken-reason-extension = Ez dabil, webguneak apurtzen ditu edo { -brand-product-name } moteltzen du
+abuse-report-broken-reason-theme = Ez dabil edo nabigatzailearen bistaratzea apurtzen du
+abuse-report-broken-example = Adibidea: eginbideak makalak edo erabiltzeko zailak dira, edo ez dabil; webguneetako zatiak ez dabiltza edo ezohikoak dirudite
+abuse-report-broken-suggestions-extension = Badirudi programa-errore bat aurkitu duzula. Hemen bertan horren berri emateaz gain, arazoa konpontzeko biderik onena zuzenean hedapenaren garatzailearekin harremanetan jartzea da. Garatzaileari buruzko informazioa eskuratzeko, <a data-l10n-name="support-link">bisitatu hedapenaren webgunea</a>.
+abuse-report-broken-suggestions-theme = Badirudi programa-errore bat aurkitu duzula. Hemen bertan horren berri emateaz gain, arazoa konpontzeko biderik onena zuzenean itxuraren garatzailearekin harremanetan jartzea da. Garatzaileari buruzko informazioa eskuratzeko, <a data-l10n-name="support-link">bisitatu itxuraren webgunea</a>.
+abuse-report-policy-reason = Eduki gaitzesgarria, indarkeriazkoa edo ilegala
+abuse-report-policy-suggestions = Oharra: Copyright eta marka erregistratuei buruzko arazoak aparteko prozesu batean salatu behar dira. Arazoaren berri emateko, <a data-l10n-name="report-infringement-link">erabili jarraibide hauek</a>.
+abuse-report-unwanted-reason = Inoiz ez dut hedapen hau nahi izan eta ezin dut kendu
+abuse-report-unwanted-example = Adibidea: aplikazio batek nire baimenik gabe instalatu du
+abuse-report-other-reason = Beste zerbait
