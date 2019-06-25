@@ -49,7 +49,7 @@ abuse-report-messagebar-action-cancel = Avbryt
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-damage-reason = Skader min datamaskin og mine data
-abuse-report-damage-example = Eksempel: Injisert skadelig kode eller stjal data
+abuse-report-damage-example = Eksempel: Injiserte skadelig kode eller stjal data
 abuse-report-spam-reason = Viser spam eller reklamer
 abuse-report-spam-example = Eksempel: Setter inn reklamer på nettsider
 abuse-report-settings-reason = Endret min søkmotor, startside eller ny fane uten å informere eller spørre meg
@@ -74,4 +74,6 @@ abuse-report-policy-suggestions =
     Merknad: Opphavsrett- og varemerkerproblemer rapporteres på en annen måte.
     <a data-l10n-name="report-infringement-link">Bruk disse instruksjonene</a> for å
     rapportere problemet.
+abuse-report-unwanted-reason = Ville aldri ha utvidelsen og klarer ikke å bli kvitt den
+abuse-report-unwanted-example = Eksempel: Et program installerte den uten min tillatelse
 abuse-report-other-reason = Noe annet
