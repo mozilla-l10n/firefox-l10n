@@ -84,6 +84,8 @@ about-debugging-setup-title = Konfigurazioa
 about-debugging-setup-intro = Konfiguratu zure gailua urrunetik arazteko nahi duzun konexio-metodoa.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Erabili <a>{ about-debugging-this-firefox-runtime-name }</a> { -brand-shorter-name }(r)en bertsio honetan fitxak, hedapenak eta zerbitzu-langileak arazteko.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Erabili <a>{ about-debugging-this-firefox-runtime-name }</a> { -brand-shorter-name }(r)en bertsio honetan hedapenak eta zerbitzu-langileak arazteko.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Konektatu gailua
 # USB section of the Setup page
