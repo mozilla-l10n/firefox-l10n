@@ -403,7 +403,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "파일">
 <!ENTITY fileMenu.accesskey       "F">
-<!ENTITY newUserContext.label             "새 포함 탭">
+<!ENTITY newUserContext.label             "새 컨테이너 탭">
 <!ENTITY newUserContext.accesskey         "C">
 <!ENTITY manageUserContext.label          "컨테이너 관리">
 <!ENTITY manageUserContext.accesskey      "O">
@@ -636,7 +636,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "새 창에 프레임 열기">
 <!ENTITY openFrameCmd.accesskey       "W">
-<!ENTITY openLinkCmdInContainerTab.label "새 포함 탭에서 링크 열기">
+<!ENTITY openLinkCmdInContainerTab.label "새 컨테이너 탭에서 링크 열기">
 <!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "이 프레임만 보이기">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
@@ -1037,7 +1037,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "추적기">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "모든 추적기를 차단하려면 콘텐츠 차단을 “엄격함”으로 설정하세요.">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "모든 추적기를 차단하려면 콘텐츠 차단을 “엄격”으로 설정하세요.">
 
 <!ENTITY contentBlocking.cookies.label "쿠키">
 <!ENTITY contentBlocking.cookiesView.label "쿠키와 사이트 데이터">
