@@ -56,7 +56,25 @@ onboarding-ghostery-text = Nabigatu azkarrago, argiago edo seguruago iragarkiak 
 onboarding-fxa-title = Sinkronizatu
 onboarding-fxa-text = Sortu { -fxaccount-brand-name } kontua eta sinkronizatu zure laster-markak, pasahitzak eta irekitako fitxak { -brand-short-name } erabiltzen duzun leku orotan.
 onboarding-tracking-protection-button2 = Nola dabilen
+onboarding-browse-privately-title = Nabigatu modu pribatuan
+onboarding-browse-privately-text = Nabigatze pribatuak zure bilaketa- eta nabigatze-historia garbitzen ditu zure ordenagailua darabilen jendearengandik sekretu mantentzeko.
 onboarding-browse-privately-button = Ireki leiho pribatua
+onboarding-firefox-send-title = Mantendu pribatu partekatutako fitxategiak
+onboarding-firefox-send-text2 = Igo zure fitxategiak { -send-brand-name } zerbitzura muturretik muturrerako zifratzearekin eta automatikoki iraungitzen den lotura batekin partekatzeko.
+onboarding-firefox-send-button = Probatu { -send-brand-name }
+onboarding-mobile-phone-title = Eskuratu { -brand-product-name } zure telefonoan
+onboarding-mobile-phone-text = Deskargatu { -brand-product-name } iOS eta Androiderako eta sinkronizatu zure datuak gailuen artean.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Deskargatu mugikorrerako nabigatzailea
+onboarding-send-tabs-title = Bidali fitxak di-da zure buruari
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Fitxak bidalita berehala partekatzen dira orriak zure gailuen artean, horretarako kopiatu eta itsatsi edo nabigatzailea uzteko beharrik gabe.
+onboarding-send-tabs-button = Hasi fitxak bidaltzeko eginbidea erabiltzen
+onboarding-pocket-anywhere-title = Irakurri eta entzun edonon
+onboarding-pocket-anywhere-text2 = Gorde zure gogoko edukia { -pocket-brand-name } aplikazioarekin lineaz kanpo eta ondoen datorkizunean irakurri, entzun eta ikusteko.
+onboarding-pocket-anywhere-button = Probatu { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Eraman pasahitzak alboan
 onboarding-lockwise-passwords-text2 = Mantendu seguru gordetako pasahitzak eta hasi saioa zure kontuetan modu errazean { -lockwise-brand-name } erabiliz.
 onboarding-lockwise-passwords-button2 = Eskuratu aplikazioa
