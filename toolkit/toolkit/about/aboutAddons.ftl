@@ -264,6 +264,17 @@ go-back-button =
 ## Recommended add-ons page
 
 discopane-notice-learn-more = Pli da informo
+privacy-policy = Politiko pri privateco
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = de <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Uzantoj: { $dailyUsers }
+install-extension-button = Aldoni al { -brand-product-name }
+install-theme-button = Instali etoson
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Administri
@@ -319,3 +330,20 @@ install-update-button = Ĝisdatigi
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Permesita en privataj fenestroj
+addon-detail-private-browsing-allow = Permesi
+addon-detail-private-browsing-disallow = Ne permesi
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Rekomendita
+    .alt = Rekomendita
+available-updates-heading = Haveblaj ĝisdatigoj
+recent-updates-heading = Ĵusaj ĝisdatigoj
+release-notes-loading = Ŝargado…
+release-notes-error = Bedaŭrinde okazis eraro dum la ŝargado de la notoj pri liverado.
+addon-permissions-empty = Tiu ĉi etendaĵo postulas neniun permeson
+recommended-extensions-heading = Rekomenditaj etendaĵoj
+recommended-themes-heading = Rekomenditaj etosoj
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Ĉu vi kreemas? <a data-l10n-name="link">Kreu vian propran etoson per Firefox Color.</a>
