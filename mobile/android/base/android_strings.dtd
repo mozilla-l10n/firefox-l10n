@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "더 적은 데이터, 더 많은 절약">
 <!ENTITY firstrun_data_subtext2 "데이터 사용량을 줄이기 위해 방문하는 모든 사이트에서 이미지를 가져오지 않습니다.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY updatednewfirstrun_sync_title "계정">
 <!ENTITY firstrun_sync_message2 "중단했던 지점에서 다시 시작하세요.">
 <!ENTITY firstrun_sync_subtext2 "Sync를 이용해서 즐겨찾기나 비밀번호, &brandShortName;에 저장한 다른 설정을 사용하는 모든 기기에서 찾아보세요.">
 <!ENTITY newfirstrun_sync_subtext "사적으로 안전하게 모바일 환경에서 저장한 것을 데스크탑용 Firefox와 동기화하세요.">
@@ -68,6 +69,12 @@
 <!ENTITY  sending_crash_report "문제 보내기\u2026">
 <!ENTITY  crash_close_label "닫기">
 <!ENTITY  crash_restart_label "&brandShortName; 다시 시작">
+
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; 충돌됨">
+<!ENTITY  crash_notification_message "탭하여 &vendorShortName;에 보고">
+<!ENTITY  crash_notification_negative_button_text "무시">
 
 <!ENTITY url_bar_default_text2 "검색어 또는 주소를 입력하세요">
 
@@ -939,3 +946,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "사이트 알림">
+<!ENTITY crash_handler_notifications_channel "&brandShortName; 충돌 보고서">
