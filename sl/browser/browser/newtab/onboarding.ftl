@@ -85,10 +85,15 @@ onboarding-mobile-phone-text = Prenesite { -brand-product-name } za iOS ali Andr
 # browser.
 onboarding-mobile-phone-button = Prenesite mobilni brskalnik
 onboarding-send-tabs-title = Takoj si pošljite zavihke
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Pošiljanje zavihkov deli strani med napravami brez kopiranja, lepljenja in zapuščanja brskalnika.
+onboarding-send-tabs-button = Začnite pošiljati zavihke
 onboarding-pocket-anywhere-title = Berite in poslušajte kjerkoli
 onboarding-pocket-anywhere-text2 = Shranite si priljubljeno vsebino z aplikacijo { -pocket-brand-name } in jo preberite, poslušajte ali si jo oglejte, kadarkoli vam ustreza.
 onboarding-pocket-anywhere-button = Preizkusite { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Vzemite gesla s seboj
+onboarding-lockwise-passwords-text2 = Ohranite shranjena gesla na varnem in se enostavno prijavite v svoje račune z { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Prenesite aplikacijo
 onboarding-facebook-container-title = Postavite meje Facebooku
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } ohranja vaš profil ločen od vsega ostalega, kar Facebooku otežuje ciljno oglaševanje.
