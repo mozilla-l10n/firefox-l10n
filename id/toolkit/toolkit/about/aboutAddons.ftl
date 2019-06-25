@@ -299,3 +299,8 @@ pending-uninstall-undo-button = Batal
 addon-detail-updates-radio-off = Nonaktif
 install-update-button = Perbarui
 addon-detail-private-browsing-allow = Izinkan
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Disarankan
+    .alt = Disarankan
