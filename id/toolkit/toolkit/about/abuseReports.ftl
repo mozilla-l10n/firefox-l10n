@@ -15,6 +15,7 @@
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-retry = Ulangi
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
