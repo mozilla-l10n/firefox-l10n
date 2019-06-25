@@ -96,6 +96,22 @@ detail-update-automatic =
 detail-update-manual =
     .label = Väljas
     .tooltiptext = Ära paigalda uuendusi automaatselt
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Privaatsetes akendes käivitamine
+detail-private-browsing-description2 = Lubamise korral saab see laiendus ligi sinu tegevustele privaatsetes akendes. <label data-l10n-name="detail-private-browsing-learn-more">Rohkem teavet</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overridden by the user.
+detail-private-disallowed-label = Privaatsetes akendes keelatud
+detail-private-disallowed-description = See laiendus on privaatse veebilehitsemise ajal keelatud. <label data-l10n-name="detail-private-browsing-learn-more">Rohkem teavet</label>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Nõuab ligipääsu privaatsetele akendele
+detail-private-required-description = Sel laiendusel on ligipääs sinu tegevusele privaatsetes akendes. <label data-l10n-name="detail-private-browsing-learn-more">Rohkem teavet</label>
+detail-private-browsing-on =
+    .label = Lubatud
+    .tooltiptext = Luba privaatsetes akendes
+detail-private-browsing-off =
+    .label = Keelatud
+    .tooltiptext = Keela privaatsetes akendes
 detail-home =
     .label = Koduleht
 detail-home-value =
