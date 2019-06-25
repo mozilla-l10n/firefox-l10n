@@ -345,6 +345,8 @@ pending-uninstall-description = Dodatek <span data-l10n-name="addon-name">{ $add
 pending-uninstall-undo-button = Razveljavi
 addon-detail-updates-label = Dovoli samodejne posodobitve
 addon-detail-updates-radio-default = Privzeto
+addon-detail-updates-radio-on = Vključeno
+addon-detail-updates-radio-off = Izključeno
 addon-detail-update-check-label = Poišči posodobitve
 install-update-button = Posodobi
 # This is the tooltip text for the private browsing badge in about:addons. The

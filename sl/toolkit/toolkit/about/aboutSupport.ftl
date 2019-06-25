@@ -42,6 +42,8 @@ app-basics-update-dir =
     }
 app-basics-update-history = Zgodovina posodobitev
 app-basics-show-update-history = Prikaži zgodovino posodobitev
+# Represents the path to the binary used to start the application.
+app-basics-binary = Binarna datoteka aplikacije
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Mapa s profilom
@@ -87,6 +89,8 @@ graphics-gpu2-title = GPE št. 2
 graphics-decision-log-title = Dnevnik odločitev
 graphics-crash-guards-title = Onemogočene možnosti zaščite pred sesutjem
 graphics-workarounds-title = Zaobidenja
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Okenski protokol
 place-database-title = Podatkovna zbirka mest
 place-database-integrity = Celovitost
 place-database-verify-integrity = Preveri celovitost

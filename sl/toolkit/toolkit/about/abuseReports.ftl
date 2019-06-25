@@ -3,7 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 abuse-report-subtitle = Kje je težava?
+# Variables:
+#   $author-name (string) - Name of the add-on author
+abuse-report-addon-authored-by = (<a data-l10n-name="author-name">{ $author-name }</a>)
+abuse-report-learnmore =
+    Niste prepričani, katero težavo izbrati?
+    <a data-l10n-name="learnmore-link">Več o prijavljanju razširitev in tem</a>
 abuse-report-submit-description = Opišite težavo (neobvezno)
+abuse-report-submit-note =
+    Opomba: ne vključujte osebnih podatkov (kot so ime, naslov, e-poštni naslov, telefonska številka).
+    { -vendor-short-name } te prijave trajno hrani.
 
 ## Panel buttons.
 
@@ -22,7 +31,8 @@ abuse-report-messagebar-aborted = Prijava dodatka <span data-l10n-name="addon-na
 abuse-report-messagebar-submitting = Pošiljanje poročila za <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Hvala za prijavo. Ali želite odstraniti <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = Hvala za prijavo.
-abuse-report-messagebar-removed-extension = Hvala, ker ste nam poslali poročilo. Odstranili ste razširitev <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-extension = Hvala, ker ste nam poslali prijavo. Razširitev <span data-l10n-name="addon-name">{ $addon-name }</span> ste odstranili.
+abuse-report-messagebar-removed-theme = Hvala za prijavo. Temo <span data-l10n-name="addon-name">{ $addon-name }</span> ste odstranili.
 abuse-report-messagebar-error = Pri pošiljanju poročila za <span data-l10n-name="addon-name">{ $addon-name }</span> je prišlo do napake.
 abuse-report-messagebar-error-recent-submit = Poročilo za <span data-l10n-name="addon-name">{ $addon-name }</span> ni bilo poslano, ker je bilo pred kratkim poslano drugo poročilo.
 
