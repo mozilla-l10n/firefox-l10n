@@ -95,7 +95,7 @@ detail-update-manual =
 detail-private-browsing-label = Exekutatu leiho pribatuetan
 detail-private-browsing-description2 = Baimenduta dagoenean, hedapenak zure lineako jardueren sarbidea izango du nabigatze pribatuko moduan. <label data-l10n-name="detail-private-browsing-learn-more">Argibide gehiago</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
-# cannot be overriden by the user.
+# cannot be overridden by the user.
 detail-private-disallowed-label = Ez da leiho pribatuetan onartzen
 detail-private-disallowed-description = Hedapen hau ez dabil leiho pribatuetan. <label data-l10n-name="detail-private-browsing-learn-more">Argibide gehiago</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
@@ -153,6 +153,9 @@ private-browsing-description2 = { -brand-short-name } aldatzen ari da hedapenak 
 extensions-view-discover =
     .name = Eskuratu gehigarriak
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Gomendioak
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Azken eguneraketak
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -233,7 +236,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Kudeatu hedapenen lasterbideak
     .accesskey = K
-shortcuts-empty-message = Ez dago lasterbiderik hedapen honentzat.
 shortcuts-no-addons = Ez daukazu hedapenik gaituta.
 shortcuts-no-commands = Ondorengo hedapenek ez dute lasterbiderik:
 shortcuts-input =
@@ -259,14 +261,50 @@ shortcuts-card-collapse-button = Erakutsi gutxiago
 go-back-button =
     .tooltiptext = Joan atzera
 
+## Recommended add-ons page
+
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro = Aplikazioen antzerako zerak dira hedapenak eta itxurak eta besteak beste ahalbidetzen dute pasahitzak babestea, bideoak deskargatzea, eskaintzak aurkitzea, publizitatea blokeatzea edo nabigatzailearen itxura aldatzea. Software programa txiki hauek hirugarrenek garatuak izan ohi dira. Aparteko segurtasun, errendimendu eta eginbideetarako, hona hemen { -brand-product-name }(e)k <a data-l10n-name="learn-more-trigger">gomendatzen duen</a> hautapen bat.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations = Gomendio hauetako batzuk pertsonalizatuak dira. Instalatuta dituzun hedapenetan, zure hobespenetan eta erabilpen-estatistiketan oinarrituta daude.
+discopane-notice-learn-more = Argibide gehiago
+privacy-policy = Pribatutasun-politika
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = egilea: <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Erabiltzaile kopurua: { $dailyUsers }
+install-extension-button = Gehitu { -brand-product-name }(e)ra
+install-theme-button = Instalatu itxura
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Kudeatu
+find-more-addons = Bilatu gehigarri gehiago
+
 ## Add-on actions
 
+report-addon-button = Salatu
 remove-addon-button = Kendu
 disable-addon-button = Desgaitu
 enable-addon-button = Gaitu
 expand-addon-button = Aukera gehiago
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Aukerak
+       *[other] Hobespenak
+    }
+details-addon-button = Xehetasunak
+release-notes-addon-button = Bertsio-oharrak
+permissions-addon-button = Baimenak
 addons-enabled-heading = Gaituta
 addons-disabled-heading = Desgaituta
+ask-to-activate-button = Galdetu aktibatzea
+always-activate-button = Aktibatu beti
+never-activate-button = Ez aktibatu inoiz
 addon-detail-author-label = Egilea
 addon-detail-version-label = Bertsioa
 addon-detail-last-updated-label = Azken eguneraketa
@@ -284,3 +322,6 @@ addon-detail-reviews-link =
         [one] Berrikuspen bat
        *[other] { $numberOfReviews } berrikuspen
     }
+
+## Pending uninstall message bar
+
