@@ -61,4 +61,17 @@ abuse-report-deceptive-example = Eksempel: Villedende beskrivelse eller bilder
 abuse-report-broken-reason-extension = Fungerer ikke, ødelegger nettsteder, eller gjør { -brand-product-name } treg
 abuse-report-broken-reason-theme = Virker ikke eller ødelegger nettsidens utseende
 abuse-report-broken-example = For eksempel: Funksjoner er treg, vanskelig å bruke, eller fungerer ikke; deler av nettsteder vil ikke laste eller ser uvanlig ut
+abuse-report-broken-suggestions-extension =
+    Det høres ut som om du har identifisert en feil. I tillegg til å sende inn en rapport her, så er den beste måten
+    for å få en funksjonell feil løst på er å kontakte utvidelsesutvikleren.
+    <a data-l10n-name="support-link">Besøk utvidelsens nettsted</a> for å få informasjon om utvikleren.
+abuse-report-broken-suggestions-theme =
+    Det høres ut som om du har identifisert en feil. I tillegg til å sende inn en rapport her, så er den beste måten
+    for å få en funksjonell feil løst på er å kontakte temautvikleren.
+    <a data-l10n-name="support-link">Besøk temaets nettsted</a> for å få informasjon om utvikleren.
+abuse-report-policy-reason = Hatefull, voldelig eller ulovlig innhold
+abuse-report-policy-suggestions =
+    Merknad: Opphavsrett- og varemerkerproblemer rapporteres på en annen måte.
+    <a data-l10n-name="report-infringement-link">Bruk disse instruksjonene</a> for å
+    rapportere problemet.
 abuse-report-other-reason = Noe annet
