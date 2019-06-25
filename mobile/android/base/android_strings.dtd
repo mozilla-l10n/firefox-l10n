@@ -119,6 +119,7 @@
 
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(शीर्षक अनुपलब्ध)">
 
 <!ENTITY reader_saved_offline "ऑफलाइन सहेजा गया">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -601,6 +602,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "बीजशब्द">
 <!ENTITY bookmark_select_folder "फ़ोल्डर चुनें">
 
+<!ENTITY bookmark_edit_undo "पूर्ववत करें">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -690,6 +692,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_image_title "तस्वीर चुनें या खींचें">
 <!ENTITY filepicker_video_title "वीडियो चुनें या रिकॉर्ड करें">
 
+<!ENTITY filepicker_permission_denied "वांछित अनुमतियां अपर्याप्त, सिस्टम फाइल चयनकर्ता पर वापस लौट रहा है।">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "आप यहाँ कनेक्टेड हैं">
