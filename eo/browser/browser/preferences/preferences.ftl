@@ -290,6 +290,21 @@ update-pref-write-failure-title = Malsukcesa skribo
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Ne eblis konservi preferon. Ne eblis skribi en la dosiero: { $path }
+update-setting-write-failure-title = Eraro dum konservo de ĝisdatigoj
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } trovis eraron kaj ne konservis tiun ĉi ŝanĝon. Bonvolu noti ke oni bezonas povi skribi la suban dosieron, por povi agordi tiun ĉi ĝisdatigan preferon. Vi, aŭ sisteman administranton povus eble solvi la eraron jene: rajtigi al la grupo Users plenan regadon de tiu ĉi dosiero.
+    
+    Ne eblis skribi la dosieron: { $path }
+update-in-progress-title = Ĝisdatigo plenumata
+update-in-progress-message = Ĉu vi volas ke { -brand-short-name } daŭrigu tiun ĉi ĝisdatigon?
+update-in-progress-ok-button = &Abandoni
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Daŭrigi
 
 ## General Section - Performance
 
@@ -544,6 +559,9 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = Esceptoj…
     .accesskey = c
+forms-generate-passwords =
+    .label = Sugesti kaj krei fortikajn pasvortojn
+    .accesskey = S
 forms-saved-logins =
     .label = Konservitaj akreditiloj…
     .accesskey = a
@@ -748,6 +766,10 @@ permissions-block-autoplay-media2 =
 permissions-block-autoplay-media-exceptions =
     .label = Esceptoj
     .accesskey = E
+permissions-autoplay = Aŭtomata ludado
+permissions-autoplay-settings =
+    .label = Agordoj…
+    .accesskey = A
 permissions-block-popups =
     .label = Bloki ŝprucfenestrojn
     .accesskey = B
