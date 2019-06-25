@@ -267,6 +267,10 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Noen av disse anbefalingene er målrettet deg. De er basert på andre
+    utvidelser du har installert, profilinnstillinger og statistikk for bruk.
 discopane-notice-learn-more = Les mer
 privacy-policy = Personvernbestemmelser
 # Refers to the author of an add-on, shown below the name of the add-on.
@@ -343,6 +347,7 @@ install-update-button = Oppdater
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Tillat i private vindu
+addon-detail-private-browsing-help = Når det er tillatt, vil utvidelsen få tilgang til dine aktiviteter på nett mens du bruker privat nettlesing. <a data-l10n-name="learn-more">Les mer</a>
 addon-detail-private-browsing-allow = Tillat
 addon-detail-private-browsing-disallow = Ikke tillat
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
@@ -357,3 +362,6 @@ release-notes-error = Beklager, men en feil oppstod under lasting av versjonsnot
 addon-permissions-empty = Denne utvidelsen krever ingen tillatelser
 recommended-extensions-heading = Anbefalte utvidelser
 recommended-themes-heading = Anbefalte temaer
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Er du i det kreative hjørnet? <a data-l10n-name="link">Bygg ditt eget tema med Firefox Color.</a>
