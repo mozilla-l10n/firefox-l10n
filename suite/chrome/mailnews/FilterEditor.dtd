@@ -30,6 +30,8 @@
 <!ENTITY contextArchive.label "Arkivering">
 <!ENTITY contextArchive.accesskey "A">
 
+<!ENTITY contextPeriodic.accesskey "e">
+
 <!ENTITY filterActionDesc.label "Gjør dette med meldingene:">
 <!ENTITY filterActionDesc.accesskey "G">
 

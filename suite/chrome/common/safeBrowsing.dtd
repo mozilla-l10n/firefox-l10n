@@ -21,9 +21,13 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Denne nettsiden på <span id='phishing_sitename'/> er rapportert som et villedende nettsted, og er blokkert basert på sikkerhetsinnstillingene dine.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Villedende nettsider er laget for å lure deg til å gjøre noe farlig, som å installere programmer, eller oppgi personlig informasjon som f.eks. passord, telefonnumre eller kredittkort.</p><p>Innskriving av informasjon på denne siden kan føre til identitetstyveri eller annen svindel.</p>">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Nettstedet forut kan inneholde skadelig programvare">
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; blokkerte nettsiden på <span id='harmful_sitename'/> fordi den kan prøve å installere farlige apper som stjeler eller sletter din informasjon (for eksempel bilder, passord, meldinger og kredittkort).">
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">
+
 <!-- Localization note (reportDeceptiveSite, notADeceptiveSite) - The two button strings will never be shown at the same time, so it's okay for them to have the same access key. -->
 <!ENTITY reportDeceptiveSite.label "Rapporter villedende nettsted…">
 <!ENTITY reportDeceptiveSite.accesskey "d">
 <!ENTITY notADeceptiveSite.label "Dette er ikke et villedende nettsted…">
 <!ENTITY notADeceptiveSite.accesskey "d">
-
