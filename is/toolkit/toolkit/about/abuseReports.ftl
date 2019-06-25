@@ -29,6 +29,12 @@ abuse-report-submit-button = Senda inn
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+abuse-report-messagebar-submitted = Þakka þér fyrir að senda inn skýrslu. Viltu fjarlægja <span data-l10n-name="addon-name">{ $addon-name }</span>?
+abuse-report-messagebar-submitted-noremove = Þakka þér fyrir að senda inn skýrslu.
+abuse-report-messagebar-removed-extension = Þakka þér fyrir að senda inn skýrslu. Viðbótin <span data-l10n-name="addon-name">{ $addon-name }</span> hefur verið fjarlægð.
+abuse-report-messagebar-removed-theme = Þakka þér fyrir að senda inn skýrslu. Þemað <span data-l10n-name="addon-name">{ $addon-name }</span> hefur verið fjarlægt.
+abuse-report-messagebar-error = Villa kom upp þegar reynt var að senda inn skýrslu um <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error-recent-submit = Skýrslan um <span data-l10n-name="addon-name">{ $addon-name }</span> var ekki send inn því önnur skýrsla var send inn nýlega.
 
 ## Message bars actions.
 
