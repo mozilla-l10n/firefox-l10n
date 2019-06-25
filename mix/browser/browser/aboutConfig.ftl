@@ -4,6 +4,7 @@
 
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = ¡Kunchee ña yee!
+about-config-warning-checkbox = ¡Katu'un nu, saa ña mani!
 about-config-warning-button = Vaa
 about-config-title = about:config
 about-config-search-input =

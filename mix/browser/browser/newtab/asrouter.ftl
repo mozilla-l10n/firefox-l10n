@@ -38,3 +38,7 @@ cfr-doorhanger-extension-total-users =
 ## These messages are steps on how to use the feature and are shown together.
 
 cfr-doorhanger-pintab-animation-pause = Kunchatu
+cfr-doorhanger-pintab-animation-resume = Kitsa
+
+## Firefox Accounts Message
+
