@@ -35,3 +35,11 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } उपयोगकर्ता
        *[other] { $total } उपयोग्कत्तायें
     }
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-animation-pause = ठहरें
+cfr-doorhanger-pintab-animation-resume = फिर से शुरू करें
+
+## Firefox Accounts Message
+

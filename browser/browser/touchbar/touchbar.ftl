@@ -17,4 +17,4 @@ reader-view = पाठक परिदृश्य
 # Meant to match the string displayed in an empty URL bar.
 open-location = खोजें या पता दर्ज करें
 share = साझा करें
-focus = बंद करें
+close-window = विंडो बंद करें
