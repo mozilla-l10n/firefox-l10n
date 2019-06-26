@@ -2,15 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-abuse-report-title-extension = Relatar esta extensão para a { -vendor-short-name }
-abuse-report-title-theme = Relatar este tema para a { -vendor-short-name }
+abuse-report-title-extension = Denunciar esta extensão para a { -vendor-short-name }
+abuse-report-title-theme = Denunciar este tema para a { -vendor-short-name }
 abuse-report-subtitle = Qual é o problema?
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = por <a data-l10n-name="author-name">{ $author-name }</a>
 abuse-report-learnmore =
     Não tem certeza de qual problema selecionar?
-    <a data-l10n-name="learnmore-link">Saiba mais sobre como relatar extensões e temas</a>
+    <a data-l10n-name="learnmore-link">Saiba mais sobre como denunciar extensões e temas</a>
 abuse-report-submit-description = Descreva o problema (opcional)
 abuse-report-textarea =
     .placeholder = É mais fácil para nós abordar um problema se tivermos detalhes. Descreva o que está acontecendo. Obrigado por nos ajudar a manter a web saudável.

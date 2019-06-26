@@ -304,7 +304,7 @@ find-more-addons = Encontrar mais extensões
 
 ## Add-on actions
 
-report-addon-button = Relatar
+report-addon-button = Denunciar
 remove-addon-button = Remover
 disable-addon-button = Desativar
 enable-addon-button = Ativar
