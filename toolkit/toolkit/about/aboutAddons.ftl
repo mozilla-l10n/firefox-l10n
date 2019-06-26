@@ -269,6 +269,7 @@ go-back-button =
 
 discopane-notice-learn-more = Pelajari lebih lanjut
 privacy-policy = Kebijakan Privasi
+install-extension-button = Tambahkan ke { -brand-product-name }
 install-theme-button = Pasang Tema
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
@@ -315,11 +316,18 @@ addon-detail-reviews-link =
 ## Pending uninstall message bar
 
 pending-uninstall-undo-button = Batal
+addon-detail-updates-label = Izinkan pembaruan otomatis
 addon-detail-updates-radio-off = Nonaktif
+addon-detail-update-check-label = Periksa Versi Baru
 install-update-button = Perbarui
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Diizinkan di jendela pribadi
 addon-detail-private-browsing-allow = Izinkan
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.
 addon-badge-recommended =
     .title = Disarankan
     .alt = Disarankan
+available-updates-heading = Versi Baru yang Tersedia
