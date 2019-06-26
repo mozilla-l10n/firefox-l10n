@@ -366,7 +366,7 @@ addon-detail-reviews-link =
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> wurde entfernt.
 pending-uninstall-undo-button = Rückgängig
 
-addon-detail-updates-label = Alle automatischen Updates
+addon-detail-updates-label = Automatischen Updates erlauben
 addon-detail-updates-radio-default = Standard
 addon-detail-updates-radio-on = An
 addon-detail-updates-radio-off = Aus
