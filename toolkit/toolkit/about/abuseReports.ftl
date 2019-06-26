@@ -27,7 +27,7 @@ abuse-report-submit-button = Sendi
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
-abuse-report-messagebar-aborted = Denunco por { $addon-name }</span> nuligita.
+abuse-report-messagebar-aborted = Denunco por <span data-l10n-name="addon-name">{ $addon-name }</span> nuligita.
 abuse-report-messagebar-submitting = Sendo de denunco por <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Dankon pro via denunco. Ĉu vi volas forigi <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = Dankon pro via denunco.
