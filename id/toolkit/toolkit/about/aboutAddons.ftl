@@ -158,6 +158,9 @@ private-browsing-description2 =
 extensions-view-discover =
     .name = Unduh Pengaya
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Rekomendasi
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Versi Baru
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -264,18 +267,34 @@ go-back-button =
 
 ## Recommended add-ons page
 
+discopane-notice-learn-more = Pelajari lebih lanjut
+privacy-policy = Kebijakan Privasi
+install-theme-button = Pasang Tema
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Kelola
+find-more-addons = Temukan lebih banyak pengaya
 
 ## Add-on actions
 
+report-addon-button = Laporkan
 remove-addon-button = Hapus
 disable-addon-button = Nonaktifkan
 enable-addon-button = Aktifkan
 expand-addon-button = Opsi Lainnya
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Pengaturan
+       *[other] Preferensi
+    }
+details-addon-button = Detail
 release-notes-addon-button = Catatan Rilis
 permissions-addon-button = Hak Akses
 addons-enabled-heading = Diaktifkan
 addons-disabled-heading = Dinonaktifkan
+ask-to-activate-button = Minta untuk Mengaktifkan
 always-activate-button = Selalu Aktif
+never-activate-button = Jangan Pernah Aktifkan
 addon-detail-author-label = Penyusun
 addon-detail-version-label = Versi
 addon-detail-last-updated-label = Terakhir Diperbarui
