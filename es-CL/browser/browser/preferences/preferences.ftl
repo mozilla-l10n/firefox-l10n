@@ -295,7 +295,10 @@ update-setting-write-failure-title = Error al guardar las preferencias de actual
 #   $path (String) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
-update-setting-write-failure-message = { -brand-short-name } encontró un error y no guardó este cambio. Nótese que ajustar esta preferencia de actualización requiere permisos para escribir al archivo a continuación. Tu o un administrador del sistema podrían resolver el error otorgándole al grupo "Usuarios" control completo para este archivo.
+update-setting-write-failure-message =
+    { -brand-short-name } encontró un error y no guardó este cambio. Nótese que ajustar esta preferencia de actualización requiere permisos para escribir al archivo a continuación. Tu o un administrador del sistema podrían resolver el error otorgándole al grupo "Usuarios" control completo para este archivo.
+    
+    No se pudo escribir al archivo: { $path }
 update-in-progress-title = Actualización en proceso
 update-in-progress-message = ¿Quieres que { -brand-short-name } continúe con esta actualización?
 update-in-progress-ok-button = &Descartar
