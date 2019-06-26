@@ -93,7 +93,7 @@ detail-update-manual =
     .tooltiptext = Installera inte uppdateringar automatiskt
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Kör i privata fönster
-detail-private-browsing-description2 = När det är tillåtet kommer tillägget att ha tillgång till dina onlineaktiviteter medan du surfar. <label data-l10n-name="detail-private-browsing-learn-more">Läs mer</label>
+detail-private-browsing-description2 = När det är tillåtet kommer tillägget att ha tillgång till dina onlineaktiviteter under privat surfning. <label data-l10n-name="detail-private-browsing-learn-more">Läs mer</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Ej tillåtet i privata fönster
@@ -352,7 +352,7 @@ install-update-button = Uppdatera
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Tillåtet i privata fönster
-addon-detail-private-browsing-help = När det är tillåtet kommer tillägget att ha tillgång till dina onlineaktiviteter medan du surfar. <a data-l10n-name="learn-more">Läs mer</a>
+addon-detail-private-browsing-help = När det är tillåtet kommer tillägget att ha tillgång till dina onlineaktiviteter under privat surfning. <a data-l10n-name="learn-more">Läs mer</a>
 addon-detail-private-browsing-allow = Tillåt
 addon-detail-private-browsing-disallow = Tillåt inte
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
