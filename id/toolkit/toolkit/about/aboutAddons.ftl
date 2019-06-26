@@ -331,3 +331,6 @@ addon-badge-recommended =
     .title = Disarankan
     .alt = Disarankan
 available-updates-heading = Versi Baru yang Tersedia
+release-notes-loading = Memuat…
+recommended-extensions-heading = Ekstensi yang Disarankan
+recommended-themes-heading = Tema yang Disarankan
