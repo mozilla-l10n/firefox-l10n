@@ -62,6 +62,16 @@ abuse-report-settings-suggestions-homepage = Spremenite domačo stran in nov zav
 abuse-report-deceptive-reason = Izdaja se za nekaj drugega
 abuse-report-deceptive-example = Na primer: zavajajoč opis ali slike
 abuse-report-broken-reason-extension = Ne deluje, kvari spletne strani ali upočasnjuje { -brand-product-name }
+abuse-report-broken-reason-theme = Ne deluje ali pokvari zaslon brskalnika
+abuse-report-broken-example = Primer: Zmogljivosti so počasne, težke za uporabo ali ne delujejo. Deli spletnih mest se ne naložijo ali izgledajo nenavadno
+abuse-report-broken-suggestions-extension =
+    Zdi se, da ste odkrili napako. Za razrešitev težave vam poleg pošiljanja poročila priporočamo,
+    da se obrnete na razvijalca razširitve. Podatke o razvijalcu lahko najdete na
+    <a data-l10n-name="support-link"> spletnem mestu razširitve </a>.
+abuse-report-broken-suggestions-theme =
+    Zdi se, da ste odkrili napako. Za razrešitev težave vam poleg pošiljanja poročila priporočamo,
+    da se obrnete na razvijalca teme. Podatke o razvijalcu lahko najdete na
+    <a data-l10n-name="support-link"> spletnem mestu teme </a>.
 abuse-report-policy-reason = Sovražna, nasilna ali nezakonita vsebina
 abuse-report-policy-suggestions =
     Opomba: Kršitve avtorskih pravic in blagovnih znamk je potrebno prijaviti v ločenem postopku.

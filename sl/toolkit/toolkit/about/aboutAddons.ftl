@@ -271,6 +271,15 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Razširitve in teme so kot aplikacije za vaš brskalnik in vam omogočajo
+    varovanje gesel, prenašanje videoposnetkov, iskanje ponudb, zavračanje
+    nadležnih oglasov, spreminjanje izgleda brskalnik in še veliko več. Te majhne
+    programčke pogosto razvijajo tretje osebe. Tukaj je izbira, ki jo { -brand-product-name }
+    <a data-l10n-name="learn-more-trigger">priporoča</a> zaradi izjemne varnosti,
+    zmogljivosti in funkcionalnosti.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Nekatera od teh priporočil so prilagojena za vas. Temeljijo na vaših
