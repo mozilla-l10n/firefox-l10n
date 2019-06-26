@@ -29,14 +29,14 @@ abuse-report-submit-button = Enviar
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
-abuse-report-messagebar-aborted = Relato de <span data-l10n-name="addon-name">{ $addon-name }</span> cancelado.
-abuse-report-messagebar-submitting = Enviando relato de <span data-l10n-name="addon-name">{ $addon-name }</span>.
-abuse-report-messagebar-submitted = Obrigado por enviar um relato. Quer remover <span data-l10n-name="addon-name">{ $addon-name }</span>?
-abuse-report-messagebar-submitted-noremove = Obrigado por enviar um relato.
-abuse-report-messagebar-removed-extension = Obrigado por enviar um relato. Você removeu a extensão <span data-l10n-name="addon-name">{ $addon-name }</span>.
-abuse-report-messagebar-removed-theme = Obrigado por enviar um relato. Você removeu o tema <span data-l10n-name="addon-name">{ $addon-name }</span>.
-abuse-report-messagebar-error = Houve um erro ao enviar o relato de <span data-l10n-name="addon-name">{ $addon-name }</span>.
-abuse-report-messagebar-error-recent-submit = O relato de <span data-l10n-name="addon-name">{ $addon-name }</span> não foi enviado porque outro relato foi enviado recentemente.
+abuse-report-messagebar-aborted = Denúncia de <span data-l10n-name="addon-name">{ $addon-name }</span> cancelada.
+abuse-report-messagebar-submitting = Enviando denúncia de <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-submitted = Obrigado por enviar uma denúncia. Quer remover <span data-l10n-name="addon-name">{ $addon-name }</span>?
+abuse-report-messagebar-submitted-noremove = Obrigado por enviar uma denúncia.
+abuse-report-messagebar-removed-extension = Obrigado por enviar uma denúncia. Você removeu a extensão <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-theme = Obrigado por enviar uma denúncia. Você removeu o tema <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error = Houve um erro ao enviar a denúncia de <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error-recent-submit = A denúncia de <span data-l10n-name="addon-name">{ $addon-name }</span> não foi enviada porque outra denúncia foi enviado recentemente.
 
 ## Message bars actions.
 
