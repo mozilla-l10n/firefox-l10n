@@ -53,7 +53,7 @@ onboarding-benefit-privacy-text = Tudo o que fazemos honra nossa Promessa de Dad
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Navegação privativa
-onboarding-private-browsing-text = Navegue sozinho. A navegação privativa com bloqueio de conteúdo impede que rastreadores on-line sigam você pela web.
+onboarding-private-browsing-text = Navegue sozinho. A navegação privativa com bloqueio de conteúdo impede que rastreadores online sigam você pela web.
 onboarding-screenshots-title = Screenshots
 onboarding-screenshots-text = Crie, salve e compartilhe capturas de tela - sem sair do { -brand-short-name }. Capture uma região ou uma página inteira enquanto navega. Então salve na nuvem para acessar e compartilhar com facilidade.
 onboarding-addons-title = Extensões
