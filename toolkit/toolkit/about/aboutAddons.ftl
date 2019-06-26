@@ -276,7 +276,7 @@ go-back-button =
 discopane-intro =
     Razširitve in teme so kot aplikacije za vaš brskalnik in vam omogočajo
     varovanje gesel, prenašanje videoposnetkov, iskanje ponudb, zavračanje
-    nadležnih oglasov, spreminjanje izgleda brskalnik in še veliko več. Te majhne
+    nadležnih oglasov, spreminjanje izgleda brskalnika in še veliko več. Te majhne
     programčke pogosto razvijajo tretje osebe. Tukaj je izbira, ki jo { -brand-product-name }
     <a data-l10n-name="learn-more-trigger">priporoča</a> zaradi izjemne varnosti,
     zmogljivosti in funkcionalnosti.
