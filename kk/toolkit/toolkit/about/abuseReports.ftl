@@ -8,7 +8,6 @@ abuse-report-subtitle = Мәселе қандай?
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = <a data-l10n-name="author-name">{ $author-name }</a> жасаған
-abuse-report-learnmore = Қай мәселені таңдауды білмей тұрсыз ба?
 abuse-report-submit-description = Мәселені сипаттаңыз (қосымша түрде)
 abuse-report-textarea =
     .placeholder = Нақты ақпаратымыз бар кезде мәселені шешу оңайырақ болады. Кездестірген мәселені сипаттаңыз. Интернеттің денін сау ұстауға көмектескеніңіз үшін рахмет.
