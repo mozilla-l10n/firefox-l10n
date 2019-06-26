@@ -72,8 +72,8 @@ abuse-report-broken-suggestions-theme =
     <a data-l10n-name="support-link">Visite o site do tema</a> para obter informações do desenvolvedor.
 abuse-report-policy-reason = Conteúdo de ódio, violência ou ilegal
 abuse-report-policy-suggestions =
-    Nota: Problemas de direitos autorais (copyright) e marcas registradas (trademark) devem ser relatados em um processo separado.
-    <a data-l10n-name="report-infringement-link">Siga essas instruções</a> para relatar o problema.
+    Nota: Problemas de direitos autorais (copyright) e marcas registradas (trademark) devem ser relatados em um processo diferente.
+    <a data-l10n-name="report-infringement-link">Siga essas instruções</a> para relatar um problema.
 abuse-report-unwanted-reason = Nunca quis esta extensão e não consigo me livrar dela
 abuse-report-unwanted-example = Exemplo: uma aplicação instalou sem minha permissão
 abuse-report-other-reason = Outra coisa
