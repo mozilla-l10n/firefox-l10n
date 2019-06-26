@@ -82,9 +82,6 @@ about-debugging-refresh-usb-devices-button = Segarkan peranti
 about-debugging-setup-title = Penyiapan
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Konfigurasikan metode koneksi yang ingin Anda gunakan untuk proses debugging perangkat Anda dari jarak jauh.
-# Link displayed in the Setup page that leads to MDN page with list of supported devices.
-# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
-about-debugging-setup-link-android-devices = Lihat daftar peranti Android yang didukung
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Gunakan <a>{ about-debugging-this-firefox-runtime-name }</a> untuk debugging tab, ekstensi, dan service worker di versi { -brand-shorter-name } ini.
 # Title of the heading Connect section of the Setup page.
@@ -105,12 +102,6 @@ about-debugging-setup-usb-updating-button = Memutakhirkan…
 about-debugging-setup-usb-status-enabled = Diaktifkan
 about-debugging-setup-usb-status-disabled = Dinonaktifkan
 about-debugging-setup-usb-status-updating = Memutakhirkan…
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu = Aktifkan menu Pengembang di peranti Android Anda. <a>Pelajari caranya</a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug = Aktifkan Debugging USB di Menu Pengembang Android. <a>Pelajari caranya</a>
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox = Aktifkan Debugging USB di Firefox pada peranti Android. <a>Pelajari caranya</a>
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Sambungkan peranti Android ke komputer Anda.
 # Network section of the Setup page
@@ -164,7 +155,7 @@ about-debugging-runtime-processes =
     .name = Proses
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
-about-debugging-runtime-profile-button = Runtime Profil
+about-debugging-runtime-profile-button2 = Kinerja profil
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
@@ -201,13 +192,6 @@ about-debugging-connection-prompt-enable-button = Aktifkan prompt sambungan
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = Nonaktifkan prompt sambungan
-# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
-about-debugging-profiler-dialog-title = Profiler Kinerja
-# Label of a checkbox displayed in the runtime page for "This Firefox".
-# This checkbox will toggle preferences that enable local addon debugging.
-# The "Learn more" link points to MDN.
-# https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
-about-debugging-extension-debug-setting-label = Aktifkan debugging ekstensi. <a>Pelajari lebih lanjut</a>
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
@@ -296,3 +280,9 @@ about-debugging-main-process-description2 = Proses Utama untuk peramban target
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Tutup pesan
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = Detail galat
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = Detail peringatan
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = Detail
