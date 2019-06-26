@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "ນຳໃຊ້ຂໍ້ມູນນ້ອຍລົງ ປະຫຍັດຫລາຍຂື້ນກ່ວາເກົ່າ">
 <!ENTITY firstrun_data_subtext2 "ປິດຮູບພາບເພື່ອໃຫ້ຂະຫນາດຂໍ້ມູນຂອງເວັບໄຊທ໌ທີ່ທ່ານເຂົ້າໄປເບິງມີຂະຫນາດນ້ອຍລົງ.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY updatednewfirstrun_sync_title "ບັນຊີ">
 <!ENTITY firstrun_sync_message2 "ຮັບເອົາຈາກບ່ອນທີ່ທ່ານໄດ້ປະເອົາໄວ້.">
 <!ENTITY firstrun_sync_subtext2 "ໃຊ້ Sync ເພື່ອຊອກຫາບຸກມາກ, ລະຫັດຜ່ານ, ແລະ ສິ່ງອື່ນໆທີ່ທ່ານໄດ້ບັນທຶກໄວ້ທີ່ &brandShortName; ໃນອຸປະກອນທັງຫມົດຂອງທ່ານ.">
 <!ENTITY newfirstrun_sync_subtext "Sync ສິ່ງທີ່ທ່ານບັນທຶກໄວ້ໃນໂທລະສັບໄປຫາ Firefox ສຳລັບເດສກທັອບ ເພື່ອໃຫ້ມີຄວາມເປັນສ່ວນຕົວ ແລະ ປອດໄພ.">
