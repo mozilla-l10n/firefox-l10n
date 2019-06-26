@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "Minder gegevens, mear besparje">
 <!ENTITY firstrun_data_subtext2 "Set ôfbyldingen út foar minder gegevensferkear by elke besochte website.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY updatednewfirstrun_sync_title "Account">
 <!ENTITY firstrun_sync_message2 "Gean troch wêr\&apos;t jo bleaun wiene.">
 <!ENTITY firstrun_sync_subtext2 "Brûk Sync om de blêdwizers, wachtwurden en oare saken dy\&apos;t jo yn &brandShortName; op al jo apparaten bewarje te finen.">
 <!ENTITY newfirstrun_sync_subtext "Syngronisearje de dingen dy\&apos;t jo op mobyl bewarje nei Firefox foar desktop, privee en feilich.">
