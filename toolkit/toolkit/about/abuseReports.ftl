@@ -49,7 +49,7 @@ abuse-report-messagebar-action-cancel = Cancelar
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = Danifica meu computador e meus dados
+abuse-report-damage-reason = Danifica meu computador ou meus dados
 abuse-report-damage-example = Exemplo: injetou código malicioso ou roubou dados
 abuse-report-spam-reason = Cria spam ou propaganda
 abuse-report-spam-example = Exemplo: insere anúncios em páginas web
