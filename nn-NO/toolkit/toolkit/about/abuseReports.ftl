@@ -54,5 +54,5 @@ abuse-report-settings-suggestions-homepage = Endre startside og ny fane-sida
 abuse-report-deceptive-reason = Gjev seg ut for å vere noko den ikkje er
 abuse-report-deceptive-example = Døme: villeiande skildring eller bilde
 abuse-report-unwanted-reason = Ville aldri ha denne utvidinga og greier ikkje å kvitte meg med henne
-abuse-report-unwanted-example = Døme: Ein app installerte den utan løyve frå meg
+abuse-report-unwanted-example = Døme: Eit program installerte den utan løyve frå meg
 abuse-report-other-reason = Noko anna
