@@ -8,3 +8,6 @@ cert-error-intro = { $hostname } ay gumagamit ng imbalidong katiwasayang sertipi
 cert-error-trust-expired-issuer = Ang sertipiko ay hindi pinagkakatiwalaan dahil ang issuer ng sertipiko ay expired na.
 cert-error-trust-self-signed = Ang certificate ay hindi pinagkakatiwalaan dahil ito ay sariling-pirma lamang.
 cert-error-untrusted-default = Ang certificate ay hindi galing sa pinagkakatiwalaang pinangalingan.
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
