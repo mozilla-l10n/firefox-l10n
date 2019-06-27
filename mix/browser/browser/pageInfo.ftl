@@ -67,6 +67,7 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-only = Vaa, { $value } { $unit } tu'un sitio
 security-site-data-cookies-only = Vaá,  cookies
 security-site-data-no = No
 image-size-unknown = Desconocido
@@ -88,6 +89,10 @@ saved-passwords-yes = Va'a
 saved-passwords-no = No
 no-page-title =
     .value = Koo sivi página:
+general-quirks-mode =
+    .value = Modo de compatibilidad
+permissions-use-default =
+    .label = Kuachuin tana ntsikai xina
 security-no-visits = No
 # This string is used to display the number of meta tags
 # in the General Tab

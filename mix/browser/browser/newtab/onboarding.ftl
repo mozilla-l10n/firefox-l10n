@@ -42,6 +42,14 @@ onboarding-addons-title = Komplementos
 onboarding-ghostery-title = Ghostery
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
+onboarding-tracking-protection-button2 = Nixi Kuachu'un ña
+onboarding-firefox-send-button = Kunchee { -send-brand-name }
+onboarding-mobile-phone-title = Nduku { -brand-product-name } kaa ndusuku
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Snuu navegador móvil
+onboarding-pocket-anywhere-button = Kunchee { -pocket-brand-name }
+onboarding-lockwise-passwords-button2 = Nduku aplicación
 
 ## Message strings belonging to the Return to AMO flow
 
