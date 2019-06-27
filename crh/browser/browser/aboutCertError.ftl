@@ -40,3 +40,10 @@ cert-error-code-prefix-link = Hata kodu: <a data-l10n-name="error-code-link">{ $
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Ağ-saytları, kimligini, şeadetname salâhiyetleri tarafından ihrac etilgen, şeadetnemeler arqalı isbatlar. Seyrancılarnıñ ekseriyeti, GeoTrust, RapidSSL, Symantec, Thawte ve VeriSign tarafından ihrac etilgen şeadetnamelerge artıq itimat etmey. { $hostname } bu salâhiyetlerden birinden bir şeadetname qullana ve ondan dolayı bu ağ-saytınıñ kimligi isbat etilalmay.
 cert-error-symantec-distrust-admin = Bu mes'ele aqqında ağ-saytınıñ memurını haberdar etebilirsiñiz.
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = HTTP Sıqı Naqliye Emniyeti: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = HTTP Aleniy Anahtar Tüyremesi: { $hasHPKP }
+cert-error-details-cert-chain-label = Şeadetname zıncırı:
