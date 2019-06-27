@@ -39,3 +39,4 @@ cert-error-details-hsts-label = אבטחת תעבורה מחמירה של HTTP �
 # Variables:
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = הצמדת מפתח ציבורי של HTTP:‏ { $hasHPKP }
+cert-error-details-cert-chain-label = שרשרת אישורים:
