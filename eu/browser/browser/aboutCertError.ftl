@@ -48,3 +48,10 @@ cert-error-code-prefix-link = Errore-kodea: <a data-l10n-name="error-code-link">
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Ziurtagiri-autoritateek jaulkitako ziurtagirien bidez frogatzen duten euren identitatea webguneek. Nabigatzaileen gehiengoak hemendik aurrera ez dituzte fidagarritzat ematen GeoTrust, RapidSSL, Symantec, Thawte eta VeriSign-ek jaulkitako ziurtagiriak.Autoritate hauetakoren batetik datorren ziurtagiria darabil { $hostname } domeinuak eta beraz ezin da egiaztatu webgunearen identitatea.
 cert-error-symantec-distrust-admin = Webgunearen kudeatzaileari arazo honen berri eman nahiko diozu agian.
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = HTTP gako publikoen ainguratzea: { $hasHPKP }
+cert-error-details-cert-chain-label = Ziurtagiri-katea:
