@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 abuse-report-subtitle = Apa masalahnya?
+abuse-report-submit-description = Jelaskan masalahnya (opsional)
 
 ## Panel buttons.
 
@@ -28,5 +29,6 @@ abuse-report-messagebar-action-cancel = Batal
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-settings-suggestions-homepage = Ubah beranda dan tab baru Anda
 abuse-report-unwanted-example = Contoh: Sebuah aplikasi memasang sesuatu tanpa izin saya
 abuse-report-other-reason = Lainnya
