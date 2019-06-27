@@ -44,3 +44,10 @@ cert-error-not-yet-valid-now = Els llocs web demostren la seva identitat mitjan�
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Codi d'error: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = Seguretat estricta de transport HTTP: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = Fixació de claus públiques HTTP: { $hasHPKP }
+cert-error-details-cert-chain-label = Cadena de certificats:
