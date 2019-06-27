@@ -72,7 +72,7 @@ abuse-report-broken-suggestions-theme =
     Det høres ut som om du har identifisert en feil. I tillegg til å sende inn en rapport her, så er den beste måten
     for å få en funksjonell feil løst på er å kontakte temautvikleren.
     <a data-l10n-name="support-link">Besøk temaets nettsted</a> for å få informasjon om utvikleren.
-abuse-report-policy-reason = Hatefull, voldelig eller ulovlig innhold
+abuse-report-policy-reason = Hatefullt, voldelig eller ulovlig innhold
 abuse-report-policy-suggestions =
     Merknad: Opphavsrett- og varemerkerproblemer rapporteres på en annen måte.
     <a data-l10n-name="report-infringement-link">Bruk disse instruksjonene</a> for å
