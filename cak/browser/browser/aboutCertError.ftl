@@ -48,3 +48,10 @@ cert-error-code-prefix-link = Rusachoj b'itz'ib': <a data-l10n-name="error-code-
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Ri ajk'amaya'l taq ruxaq nikitojtob'ej ri ab'anikil kik'in taq iqitzijib'äl e'elesan kuma ri kik'amöl taq b'ey iqitzijib'anem. Konojel ri taq okik'amaya'l man nikikuqub'a' ta chik kik'u'x chi kij ri taq iqitzijib'äl elesan kuma GeoTrust, RapidSSL, Symantec, Thawte, chuqa' VeriSign. { $hostname } nrokisaj jun riqitzijib'al jun chi ke re k'amöl taq b'ey re' ruma ri' toq man tikirel ta nitojtob'ëx rub'anikil ri ajk'amaya'l ruxaq.
 cert-error-symantec-distrust-admin = Yatikïr naya' rutzijol chi re ri runuk'samajel ajk'amaya'l ruxaq chi rij re k'ayewal re'.
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = HTTP Jikïl ruchajixik ruk'waxik: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = HTTP Xjikib'äx ri ewan tzij kichin winäq: { $hasHPKP }
+cert-error-details-cert-chain-label = Rucholajil wujil:
