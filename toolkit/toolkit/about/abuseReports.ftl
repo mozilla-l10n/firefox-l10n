@@ -9,6 +9,7 @@ abuse-report-subtitle = Apa masalahnya?
 abuse-report-cancel-button = Batal
 abuse-report-next-button = Lanjut
 abuse-report-goback-button = Kembali
+abuse-report-submit-button = Kirim
 
 ## Message bars descriptions.
 
@@ -16,10 +17,14 @@ abuse-report-goback-button = Kembali
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+abuse-report-messagebar-submitted-noremove = Terima kasih telah mengirimkan laporan.
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove-extension = Ya, Hapus
+abuse-report-messagebar-action-remove-theme = Ya, Hapus
 abuse-report-messagebar-action-retry = Ulangi
+abuse-report-messagebar-action-cancel = Batal
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
