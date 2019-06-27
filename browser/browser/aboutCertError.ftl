@@ -4,3 +4,10 @@
 
 cert-error-trust-signature-algorithm-disabled = Isatifiketi asithenjwa ngenxa yokuba sisayinwe kusetyenziswa ialgorithimu yosayino ngenxa yokuba i-algorithimu ayikhuselekanga.
 cert-error-trust-self-signed = Isatifikethi asithenjwa kuba sisayinwe nguwe.
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = HTTP Ukhuseleko Olungqongqo Lwesithuthi: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = Iqhosha Likawonkewonke Eliyintloko Lepinning: { $hasHPKP }
+cert-error-details-cert-chain-label = Ikhonkco lesatifikethi
