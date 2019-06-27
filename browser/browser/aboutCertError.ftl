@@ -48,3 +48,10 @@ cert-error-code-prefix-link = Foutcode: <a data-l10n-name="error-code-link">{ $e
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Websites tonen hun identiteit aan via certificaten, die door certificaatautoriteiten worden uitgegeven. De meeste browsers vertrouwen certificaten die door GeoTrust, RapidSSL, Symantec, Thawte en VeriSign zijn uitgegeven niet meer. { $hostname } gebruikt een certificaat van een van deze autoriteiten, waardoor de identiteit van de website niet kan worden aangetoond.
 cert-error-symantec-distrust-admin = U kunt de beheerder van de website over dit probleem informeren.
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
+cert-error-details-cert-chain-label = Certificaatketen:
