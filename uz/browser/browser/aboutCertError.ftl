@@ -11,3 +11,10 @@ cert-error-trust-signature-algorithm-disabled = Ushbu sertifikat ishonchli emas,
 cert-error-trust-expired-issuer = Sertifikat ishonchli emas, chunki sertifikatni beruvchi eskirgan.
 cert-error-trust-self-signed = Sertifikat ishonchli emas, chunki uni o‘zi kiritgan.
 cert-error-untrusted-default = Sertifikat ishonchli manbadan emas.
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = HTTP mustahkam transport xavfsizligi: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = HTTP ochiq kalitni qistirish: { $hasHPKP }
+cert-error-details-cert-chain-label = Sertifikat zanjiri:
