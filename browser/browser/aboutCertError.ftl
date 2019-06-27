@@ -48,3 +48,10 @@ cert-error-code-prefix-link = Kód chyby: <a data-l10n-name="error-code-link">{ 
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Webové stránky prokazují svou totožnost pomocí certifikátů vydávaných certifikačními autoritami. Většina prohlížečů už certifikátům od společností GeoTrust, RapidSSL, Symantec, Thawte a VeriSign nedůvěřuje. Server { $hostname } používá certifikát od jedné z těchto autorit a proto jeho totožnost nelze ověřit.
 cert-error-symantec-distrust-admin = Informujte o tomto problému správce webové stránky.
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
+cert-error-details-cert-chain-label = Řetězec certifikátů:
