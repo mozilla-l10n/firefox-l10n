@@ -9,6 +9,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Довідка">
 <!ENTITY helpMenuWin.accesskey "Д">
+<!ENTITY aboutProduct2.label "Про &brandShorterName;">
 <!ENTITY helpTroubleshootingInfo.label     "Вирішення проблем">
 <!ENTITY helpTroubleshootingInfo.accesskey "В">
 <!ENTITY helpSafeMode.label     "Перезапуск з вимкненими додатками…">
@@ -20,13 +21,23 @@
 <!ENTITY openHelp.label "Зміст">
 <!ENTITY openHelp.accesskey "З">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "Довідка &brandShortName;">
 <!ENTITY openHelpMac2.label "Допомога &brandFullName;">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY aboutMenuCmd.label "Про &brandShortName;">
-<!ENTITY aboutMenuCmd.accesskey "П">
-
 <!ENTITY aboutMenuCmd2.label "Про &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "П">
+<!ENTITY productHelp.commandkey "VK_F1">
+<!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "accel">
+
+<!ENTITY helpKeyboardShortcuts.label "Комбінації клавіш">
+<!ENTITY helpKeyboardShortcuts.accesskey "Л">
+
+<!ENTITY helpFeedbackPage.label "Надіслати відгук…">
+<!ENTITY helpFeedbackPage.accesskey "І">
+
+
+<!ENTITY helpGetInvolvedPage.label "Долучитися">
+
+<!ENTITY helpDonationsPage.label "Зробити внесок">
