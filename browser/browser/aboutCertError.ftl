@@ -21,3 +21,4 @@ cert-error-details-hsts-label = Seguretat estricta de transpòrt HTTP: { $hasHST
 # Variables:
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Clau publica fixa HTTP : { $hasHPKP }
+cert-error-details-cert-chain-label = Cadena de certificats :
