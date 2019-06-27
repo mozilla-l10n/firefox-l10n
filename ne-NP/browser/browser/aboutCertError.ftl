@@ -11,3 +11,10 @@ cert-error-trust-signature-algorithm-disabled = यो प्रमाणपत�
 cert-error-trust-expired-issuer = यो प्रमाणपत्र विश्वसनीय छैन किनभने किनभने जारीकर्तालाई प्रमाणपत्र समाप्त भएको छ।
 cert-error-trust-self-signed = यो प्रमाणपत्र विश्वसनीय छैन किनभने यो आत्म-हस्ताक्षरित छ।
 cert-error-untrusted-default = प्रमाणपत्र विश्वसनीय स्रोतबाट आएको छैन।
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
+cert-error-details-cert-chain-label = प्रमाणपत्र चेन:
