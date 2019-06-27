@@ -42,3 +42,6 @@ cfr-doorhanger-pintab-animation-resume = Kitsa
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Kasi botón
+    .title = Kasi
