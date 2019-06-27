@@ -14,3 +14,10 @@ cert-error-untrusted-default = لم تأت هذه الشهادة من مصدر �
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = رمز الخطأ: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = سياسة نقل HTTP الصارمة: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = تثبيت مفتاح HTTP العام: { $hasHPKP }
+cert-error-details-cert-chain-label = سلسلة الشهادة:
