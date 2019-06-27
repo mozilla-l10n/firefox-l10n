@@ -48,3 +48,10 @@ cert-error-code-prefix-link = Kod gabimi: <a data-l10n-name="error-code-link">{ 
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Sajtet e dëshmojnë identitetin e tyre përmes dëshmish, të cilat lëshohen nga autoritete dëshmish. Shumica e shfletuesve nuk u besojnë më dëshmive të lëshuara nga GeoTrust, RapidSSL, Symantec, Thawte, dhe VeriSign. { $hostname } përdor një dëshmi prej njërit prej këtyre autoritete, ndaj identiteti i sajtit s’mund të provohet.
 cert-error-symantec-distrust-admin = Mundeni të njoftoni përgjegjësin e sajtit mbi këtë problem.
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
+cert-error-details-cert-chain-label = Varg dëshmish:
