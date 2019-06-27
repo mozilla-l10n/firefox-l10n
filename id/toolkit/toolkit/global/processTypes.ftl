@@ -6,6 +6,9 @@ process-type-web = Konten Web
 # process used to run privileged pages,
 # such as about:home
 process-type-privileged = Konten dengan Izin Khusus
+# process used to run privileged mozilla pages,
+# such as accounts.firefox.com
+process-type-privilegedmozilla = Konten Mozilla yang Diistimewakan
 process-type-extension = Ekstensi
 # process used to open file:// URLs
 process-type-file = Berkas Lokal

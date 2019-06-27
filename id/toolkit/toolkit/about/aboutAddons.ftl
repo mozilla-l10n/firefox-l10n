@@ -269,6 +269,14 @@ go-back-button =
 
 discopane-notice-learn-more = Pelajari lebih lanjut
 privacy-policy = Kebijakan Privasi
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = oleh <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Pengguna: { $dailyUsers }
 install-extension-button = Tambahkan ke { -brand-product-name }
 install-theme-button = Pasang Tema
 # The label of the button that appears after installing an add-on. Upon click,
@@ -315,6 +323,9 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> telah dihapus.
 pending-uninstall-undo-button = Batal
 addon-detail-updates-label = Izinkan pembaruan otomatis
 addon-detail-updates-radio-off = Nonaktif
@@ -325,6 +336,7 @@ install-update-button = Perbarui
 addon-badge-private-browsing-allowed =
     .title = Diizinkan di jendela pribadi
 addon-detail-private-browsing-allow = Izinkan
+addon-detail-private-browsing-disallow = Jangan Izinkan
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.
 addon-badge-recommended =
