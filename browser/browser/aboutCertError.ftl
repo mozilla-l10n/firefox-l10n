@@ -40,3 +40,7 @@ cert-error-code-prefix-link = Código de error: <a data-l10n-name="error-code-li
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Los sitios web prueban su identidad a través de certificados que son emitidos por las autoridades de certificación. La mayoría de los navegadores ya no confían en los certificados emitidos por GeoTrust, RapidSSL, Symantec, Thawte y VeriSign. { $hostname } usa un certificado de una de estas autoridades y, por lo tanto, no se puede probar la identidad del sitio web.
 cert-error-symantec-distrust-admin = Puedes notificar al administrador del sitio web acerca de este problema.
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = Seguridad de transporte HTTP estricta: { $hasHSTS }
+cert-error-details-cert-chain-label = Cadena de certificado:
