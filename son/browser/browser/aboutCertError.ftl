@@ -11,3 +11,10 @@ cert-error-trust-signature-algorithm-disabled = Naanay ši tabatiyan-tiiraa ga z
 cert-error-trust-expired-issuer = Naanay ši tabatiyan-tiiraa ga zama tabatiyan-tiira sanbakaa waatoo ben.
 cert-error-trust-self-signed = Naanay ši tabatiyan-tiiraa ga zama boŋ-maa žeeri no.
 cert-error-untrusted-default = Tabatiyan-tiiraa ši hun aššil naanayante ga.
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = HTTP baytal kufal kanjiyan: { $hasHPKP }
+cert-error-details-cert-chain-label = Tabatiyan-tiira tenjiri:
