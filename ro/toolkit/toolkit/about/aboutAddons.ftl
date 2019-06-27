@@ -247,7 +247,7 @@ shortcuts-pageAction = Activează acțiunea pe pagină
 shortcuts-sidebarAction = Comută bara laterală
 shortcuts-modifier-mac = Include Ctrl, Alt sau ⌘
 shortcuts-modifier-other = Include Ctrl sau Alt
-shortcuts-invalid = Combinație invalidă
+shortcuts-invalid = Combinație nevalidă
 shortcuts-letter = Tastează o literă
 shortcuts-system = Scurtăturile { -brand-short-name } nu pot fi înlocuite
 # String displayed when a keyboard shortcut is already used by another add-on
