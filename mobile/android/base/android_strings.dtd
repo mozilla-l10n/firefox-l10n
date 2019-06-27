@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "Menos datos, más ahorro">
 <!ENTITY firstrun_data_subtext2 "Desactive imágenes para usar menos datos en cada sitio que visite.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY updatednewfirstrun_sync_title "Cuenta">
 <!ENTITY firstrun_sync_message2 "Continúa donde lo dejaste.">
 <!ENTITY firstrun_sync_subtext2 "Utiliza Sync para encontrar los marcadores, contraseñas y otras cosas que guardas en &brandShortName; en todos sus dispositivos.">
 <!ENTITY newfirstrun_sync_subtext "Sincroniza de forma privada y segura la información que tienes en el móvil con Firefox para escritorio.">
