@@ -156,7 +156,7 @@ private-browsing-description2 =
     Vi har gjort denne endringa for å halde privat nettlesing privat.
     <label data-l10n-name="private-browsing-learn-more">Les om korleis du administrerer utvidingsinnstillingar.</label>
 extensions-view-discover =
-    .name = Last ned tillegg
+    .name = Last ned tillegg:
     .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Tilrådingar
