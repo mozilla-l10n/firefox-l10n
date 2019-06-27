@@ -10,7 +10,7 @@
 
 <!ENTITY clearPrivateData.label           "პირადი მონაცემების გასუფთავება">
 
-<!ENTITY alwaysClear.label                "ჩემი პირადი მონაცემების გასუფთავება ყოველთვის &brandShortName; ბრაუზერის დახურვისას">
+<!ENTITY alwaysClear.label                "ყოველთვის გასუფთავდეს პირადი მონაცემები, როცა &brandShortName; დაიხურება">
 <!ENTITY alwaysClear.accesskey            "w">
 
 <!ENTITY askBeforeClear.label             "ნებართვა, პირადი მონაცემების გასუფთავებამდე">
