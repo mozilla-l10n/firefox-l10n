@@ -48,3 +48,10 @@ cert-error-code-prefix-link = Қате коды: <a data-l10n-name="error-code-l
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Веб-сайттар өздерінің шынайлығын сертификаттау орталықтары шығарған сертификаттар арқылы дәлелдейді. Браузерлердің көбі GeoTrust, RapidSSL, Symantec, Thawte және VeriSign шығарған сертификаттарға енді сенбейді. { $hostname } осы орталықтарының бірімен шығарылған сертификатты пайдаланады, сондықтан веб-сайт шынайылығын дәлелдеу мүмкін емес.
 cert-error-symantec-distrust-admin = Веб-сайт әкімшісіне бұл мәселе туралы хабарлай аласыз.
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
+cert-error-details-cert-chain-label = Сертификаттар тізбегі:
