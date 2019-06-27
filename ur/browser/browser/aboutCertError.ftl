@@ -14,3 +14,10 @@ cert-error-trust-signature-algorithm-disabled = تصدیق نامہ ناقابل
 cert-error-trust-expired-issuer = یہ تصدیق نامہ قابل اعتماد نہیں ہے کیوں کہ جاری کنندہ کا تصدیق نامہ زائدالمدت ہے۔
 cert-error-trust-self-signed = یہ تصدیق نامہ قابل اعتماد نہیں ہے کیوں کہ اس نے خود پر دستخط کیا ہوا ہے۔
 cert-error-untrusted-default = یہ تصدیق نامہ قابل اعتماد ماخذ سے نہیں ہے۔
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = HTTP سخت ٹرانسپورٹ سلامتی: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = HTTP عوامی کلید پننگ: { $hasHPKP }
+cert-error-details-cert-chain-label = تصدیق نامہ سلسلہ:
