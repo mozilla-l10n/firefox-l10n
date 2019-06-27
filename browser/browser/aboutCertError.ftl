@@ -22,4 +22,7 @@ cert-error-symantec-distrust-admin = Може да уведомите админ
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = Сигурен HTTP чрез ограничаване на транспорта (HSTS): { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = Закотвен публичен ключ на HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Верига на сертификата:
