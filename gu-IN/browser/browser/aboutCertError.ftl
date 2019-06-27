@@ -40,3 +40,10 @@ cert-error-code-prefix-link = ભૂલ કોડ: <a data-l10n-name="error-code
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = વેબસાઇટ્સ પ્રમાણપત્રો દ્વારા તેમની ઓળખ સાબિત કરે છે, જે પ્રમાણપત્ર સત્તાવાળાઓ દ્વારા જાહેર કરવામાં આવે છે. મોટાભાગના બ્રાઉઝર્સ હવે GeoTrust, RapidSSL, Symantec, Thawte, અને VeriSign દ્વારા પ્રમાણિત પ્રમાણપત્રો પર વિશ્વાસ કરતા નથી. { $hostname } આ અધિકારીઓમાંથી એકમાંથી પ્રમાણપત્રનો ઉપયોગ કરે છે અને તેથી વેબસાઇટની ઓળખ સાબિત કરી શકાતી નથી.
 cert-error-symantec-distrust-admin = તમે વેબસાઇટના વ્યવસ્થાપકને આ સમસ્યાની જાણ કરી શકો છો.
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = HTTP સખત પરિવહન સુરક્ષા: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = HTTP સાર્વજનિક કી પિનિંગ: { $hasHPKP }
+cert-error-details-cert-chain-label = પ્રમાણપત્ર સાંકળ:
