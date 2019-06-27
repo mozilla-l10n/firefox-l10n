@@ -54,3 +54,4 @@ cert-error-details-hsts-label = Taɣellist n umesni ufrin HTTP: { $hasHSTS }
 # Variables:
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Public Key Pinning HTTP:{ $hasHPKP }
+cert-error-details-cert-chain-label = Azrar n uselkin:
