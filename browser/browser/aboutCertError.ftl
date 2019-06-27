@@ -11,3 +11,10 @@ cert-error-trust-signature-algorithm-disabled = এই সার্টিফি�
 cert-error-trust-expired-issuer = সার্টিফিকেট নির্মাণকারীর মেয়াদ উত্তীর্ণ হওয়ার ফলে এই সার্টিফিকেট বিশ্বস্ত নয়।
 cert-error-trust-self-signed = স্বয়ং স্বাক্ষরিত হওয়ার ফলে এই সার্টিফিকেটটি বিশ্বস্ত নয়।
 cert-error-untrusted-default = সার্টিফিকেটের উৎস বিশ্বস্ত নয়।
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = HTTP ঢ্রর পরিচলন সুরক্ষা: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = HTTP পাবলিক কি পিনিং: { $hasHPKP }
+cert-error-details-cert-chain-label = সার্টিফিকেট চেইন:
