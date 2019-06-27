@@ -19,3 +19,7 @@ cert-error-untrusted-default = Сертификатът идва от недос
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Код на грешката: <a data-l10n-name="error-code-link">{ $error }</a>
 cert-error-symantec-distrust-admin = Може да уведомите администратора на страницата за този проблем.
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = Сигурен HTTP чрез ограничаване на транспорта (HSTS): { $hasHSTS }
+cert-error-details-cert-chain-label = Верига на сертификата:
