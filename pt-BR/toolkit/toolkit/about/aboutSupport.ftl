@@ -37,8 +37,8 @@ app-basics-build-id = ID da compilação
 app-basics-update-channel = Canal de atualização
 app-basics-update-dir =
     { PLATFORM() ->
-        [linux] Atualizar diretório
-       *[other] Atualizar pasta
+        [linux] Diretório de atualizações
+       *[other] Pasta de atualizações
     }
 app-basics-update-history = Histórico de atualizações
 app-basics-show-update-history = Mostrar histórico de atualizações
