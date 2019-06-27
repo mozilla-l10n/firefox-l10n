@@ -11,3 +11,10 @@ cert-error-trust-signature-algorithm-disabled = இந்த சான்றி�
 cert-error-trust-expired-issuer = சான்றிதழை வழங்கும் அமைப்பு காலாவதியானதால், சான்றிதழ் நம்பகமானதல்ல.
 cert-error-trust-self-signed = சுயமாக உருவாக்கப்பட்ட சான்றிதழ் ஆதலால் நம்பகமற்றது.
 cert-error-untrusted-default = சான்றிதழ் ஒரு நம்பகமான மூலத்திலிருந்து வரவில்லை.
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = HTTP கண்டிப்பான போக்குவரத்து பாதுகாப்பு: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = HTTP பொது விசை பிணைப்பு: { $hasHPKP }
+cert-error-details-cert-chain-label = சான்றிதழ் சங்கிலி:
