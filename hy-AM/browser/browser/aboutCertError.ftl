@@ -11,3 +11,10 @@ cert-error-trust-signature-algorithm-disabled = Վկայագիրը վստահե�
 cert-error-trust-expired-issuer = Վկայագիրը վստահելի չէ, քանի որ արտոնագիր տրամադրողի ժամկետը սպառվել է:
 cert-error-trust-self-signed = Վկայագիրը վստահելի չէ քանի որ այն ստորագրվել է իր իսկ կողմից:
 cert-error-untrusted-default = Վկայագիրը ստամադրող աղբյուրը վստահելի չէ:
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = HTTP խիստ փոխանցման անվտանգություն. { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
+cert-error-details-cert-chain-label = Վկայագրի նպատակ.
