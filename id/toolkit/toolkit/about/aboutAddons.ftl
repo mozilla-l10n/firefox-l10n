@@ -328,6 +328,7 @@ addon-detail-reviews-link =
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> telah dihapus.
 pending-uninstall-undo-button = Batal
 addon-detail-updates-label = Izinkan pembaruan otomatis
+addon-detail-updates-radio-default = Baku
 addon-detail-updates-radio-off = Nonaktif
 addon-detail-update-check-label = Periksa Versi Baru
 install-update-button = Perbarui
