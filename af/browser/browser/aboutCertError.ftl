@@ -11,3 +11,7 @@ cert-error-trust-signature-algorithm-disabled = Die sertifikaat word nie vertrou
 cert-error-trust-expired-issuer = Die sertifikaat word nie vertrou nie omdat die uitreikersertifikaat verval het.
 cert-error-trust-self-signed = Die sertifikaat word nie vertrou nie omdat dit selfonderteken is.
 cert-error-untrusted-default = Die sertifikaat kom nie van 'n vertroude bron nie.
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = HTTP streng oordragsekuriteit: { $hasHSTS }
+cert-error-details-cert-chain-label = Sertifikaaatketting:
