@@ -58,7 +58,7 @@ permissions-capabilities-listitem-allow-session =
 
 ## Invalid Hostname Dialog
 
-permissions-invalid-uri-title = A fost introdusă o denumire invalidă de gazdă
+permissions-invalid-uri-title = A fost introdusă o denumire nevalidă de gazdă
 permissions-invalid-uri-label = Te rugăm să introduci un nume de gazdă valid
 
 ## Exceptions - Tracking Protection

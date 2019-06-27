@@ -12,7 +12,7 @@ cert-error-trust-unknown-issuer-intro = Cineva ar putea încerca să uzurpe iden
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-trust-unknown-issuer = Site-urile web își demonstrează identitatea prin intermediul certificatelor. { -brand-short-name } nu are încredere în { $hostname } deoarece emițătorul certificatului este necunoscut, certificatul este autosemnat sau serverul nu trimite certificatele intermediare corecte.
-cert-error-trust-cert-invalid = Certificatul nu este de încredere deoarece a fost emis de o autoritate de certificare invalidă.
+cert-error-trust-cert-invalid = Certificatul nu prezintă încredere deoarece a fost emis de o autoritate de certificare nevalidă.
 cert-error-trust-untrusted-issuer = Certificatul nu prezintă încredere deoarece certificatul emitentului nu prezintă încredere.
 cert-error-trust-signature-algorithm-disabled = Certificatul nu prezintă încredere deoarece a fost semnat folosind un algoritm de semnare care a fost dezactivat deoarece acel algoritm nu este securizat.
 cert-error-trust-expired-issuer = Certificatul nu prezintă încredere deoarece certificatul emitentului a expirat.
