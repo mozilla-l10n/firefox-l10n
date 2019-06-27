@@ -48,4 +48,10 @@ cert-error-code-prefix-link = Κωδικός σφάλματος: <a data-l10n-na
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Οι ιστοσελίδες αποδεικνύουν την ταυτότητά τους μέσω πιστοποιητικών, τα οποία εκδίδονται από αρχές πιστοποιητικών. Τα περισσότερα προγράμματα περιήγησης δεν εμπιστεύονται πλέον πιστοποιητικά από τις GeoTrust, RapidSSL, Symantec, Thawte και VeriSign. Το { $hostname } χρησιμοποιεί ένα πιστοποιητικό από μία από αυτές τις αρχές και για το λόγο αυτό, η ταυτότητα της ιστοσελίδας δεν μπορεί να αποδειχθεί.
 cert-error-symantec-distrust-admin = Μπορείτε να ειδοποιήσετε το διαχειριστή της ιστοσελίδας σχετικά με αυτό το πρόβλημα.
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Ακολουθία πιστοποιητικού:
