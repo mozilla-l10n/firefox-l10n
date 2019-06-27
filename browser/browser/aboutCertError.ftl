@@ -17,3 +17,4 @@ cert-error-details-hsts-label = എച്ച്റ്റിറ്റിപി �
 # Variables:
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = എച്ച്റ്റിറ്റിപി പബ്ലിക്ക് കീ പിന്നിങ്: { $hasHPKP }
+cert-error-details-cert-chain-label = സർട്ടിഫിക്കറ്റ് ചെയിൻ:
