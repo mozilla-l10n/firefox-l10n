@@ -346,3 +346,6 @@ available-updates-heading = Versi Baru yang Tersedia
 release-notes-loading = Memuat…
 recommended-extensions-heading = Ekstensi yang Disarankan
 recommended-themes-heading = Tema yang Disarankan
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Merasa kreatif? <a data-l10n-name="link">Buat tema Anda sendiri dengan Firefox Color.</a>
