@@ -48,3 +48,10 @@ cert-error-code-prefix-link = Koda napake: <a data-l10n-name="error-code-link">{
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Spletne strani svojo istovetnost dokazujejo z digitalnimi potrdili, ki jih izdajajo uradni overitelji. Večina brskalnikov ne zaupa več digitalnim potrdilom, ki so jih izdali GeoTrust, RapidSSL, Symantec, Thawte in VeriSign. Stran { $hostname } uporablja digitalno potrdilo enega od teh overiteljev, zato njene istovetnosti ni mogoče preveriti.
 cert-error-symantec-distrust-admin = O težavi lahko obvestite skrbnika spletne strani.
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = Opredeljevanje javnih ključev HTTP: { $hasHPKP }
+cert-error-details-cert-chain-label = Veriga digitalnih potrdil:
