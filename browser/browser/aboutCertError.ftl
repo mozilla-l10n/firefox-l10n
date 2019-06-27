@@ -18,3 +18,6 @@ cert-error-symantec-distrust-admin = Podètz avisar l’administrator d’aquest
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = Seguretat estricta de transpòrt HTTP: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = Clau publica fixa HTTP : { $hasHPKP }
