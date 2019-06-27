@@ -14,3 +14,10 @@ cert-error-untrusted-default = O certificau no procede d'una fuent de confianza.
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Codigo d'error: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = Seguranza de Transporte Estricto HTTP: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = Fixación de Clau Publica HTTP: { $hasHPKP }
+cert-error-details-cert-chain-label = Cadena de certificaus:
