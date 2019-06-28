@@ -6,6 +6,8 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = ಹೊಸ ಹಾಳೆ
+newtab-settings-button =
+    .title = ಹೊಸ ಹಾಳೆಯ ಪುಟವನ್ನು ಅಗತ್ಯಾನುಗುಣಗೊಳಿಸಿ
 
 ## Search box component.
 
@@ -13,21 +15,36 @@ newtab-page-title = ಹೊಸ ಹಾಳೆ
 newtab-search-box-search-button =
     .title = ಹುಡುಕು
     .aria-label = ಹುಡುಕು
+newtab-search-box-search-the-web-text = ಅಂತರ್ಜಾಲವನ್ನು ಹುಡುಕಿ
+newtab-search-box-search-the-web-input =
+    .placeholder = ಅಂತರ್ಜಾಲವನ್ನು ಹುಡುಕಿ
+    .title = ಅಂತರ್ಜಾಲವನ್ನು ಹುಡುಕಿ
+    .aria-label = ಅಂತರ್ಜಾಲವನ್ನು ಹುಡುಕಿ
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-topsites-header = ಹೊಸ ಅಗ್ರ ತಾಣಗಳು
+newtab-topsites-edit-topsites-header = ಅಗ್ರ ತಾಣಗಳನ್ನು ಸಂಪಾದಿಸಿ
 newtab-topsites-title-label = ಶೀರ್ಷಿಕೆ
+newtab-topsites-title-input =
+    .placeholder = ಶೀರ್ಷಿಕೆಯನ್ನು ನಮೂದಿಸಿ
 newtab-topsites-url-label = URL
+newtab-topsites-url-input =
+    .placeholder = ಒಂದು URL ಅನ್ನು ಟೈಪಿಸಿ ಅಥವಾ ನಕಲಿಸಿ
+newtab-topsites-url-validation = ಸರಿಯಾದ URL ಬೇಕಾಗಿದೆ
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = ರದ್ದು ಮಾಡು
+newtab-topsites-delete-history-button = ಇತಿಹಾಸದಿಂದ ಅಳಿಸು‍
 newtab-topsites-save-button = ಉಳಿಸು
 newtab-topsites-preview-button = ಮುನ್ನೋಟ
 newtab-topsites-add-button = ಸೇರಿಸು
 
 ## Top Sites - Delete history confirmation dialog. 
 
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = ಈ ಕಾರ್ಯವನ್ನು ರದ್ದುಗೊಳಿಸಲು ಸಾಧ್ಯವಿರುವುದಿಲ್ಲ.
 
 ## Context Menu - Action Tooltips.
 
@@ -35,11 +52,21 @@ newtab-topsites-add-button = ಸೇರಿಸು
 newtab-menu-section-tooltip =
     .title = ಮೆನು ತೆರೆ
     .aria-label = ಮೆನು ತೆರೆ
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = ಈ ತಾಣವನ್ನು ಸಂಪಾದಿಸು
+    .aria-label = ಈ ತಾಣವನ್ನು ಸಂಪಾದಿಸು
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = ‍ತಿದ್ದು
 newtab-menu-open-new-window = ಹೊಸ ಕಿಟಕಿಯಲ್ಲಿ ತೆರೆ
+newtab-menu-open-new-private-window = ಹೊಸ ಖಾಸಗಿ ಕಿಟಕಿಯಲ್ಲಿ ತೆರೆ
+newtab-menu-dismiss = ವಜಾಗೊಳಿಸು‍
+newtab-menu-pin = ಪಿನ್
+newtab-menu-unpin = ಅನ್‌ಪಿನ್
+newtab-menu-delete-history = ಇತಿಹಾಸದಿಂದ ಅಳಿಸು‍
+newtab-menu-save-to-pocket = ಪಾಕೆಟ್‌ನಲ್ಲಿ ಉಳಿಸಿ‍
 newtab-menu-delete-pocket = ಪಾಕೆಟ್ನಿಂದ ಅಳಿಸಿ
 newtab-menu-archive-pocket = ಪಾಕೆಟ್ನಲ್ಲಿ ಆರ್ಕೈವ್ ಮಾಡಿ
 # Bookmark is a noun in this case, "Remove bookmark".
@@ -71,6 +98,7 @@ newtab-menu-open-file = ಕಡತವನ್ನು ತೆರೆ
 
 newtab-label-visited = ಭೇಟಿ ನೀಡಲಾದ‍
 newtab-label-bookmarked = ಪುಟಗುರುತು ಮಾಡಲಾದ
+newtab-label-recommended = ಪ್ರಚಲಿತ
 newtab-label-saved = ಪಾಕೆಟ್‌ನಲ್ಲಿ ಉಳಿಸಲಾಗಿದೆ
 newtab-label-download = ಡೌನ್ಲೋಡ್ ಮಾಡಲಾಗಿದೆ
 
@@ -89,12 +117,18 @@ newtab-section-menu-move-down = ಕೆಳಗೆ ಜರುಗಿಸು
 
 newtab-section-header-topsites = ಪ್ರಮುಖ ತಾಣಗಳು
 newtab-section-header-highlights = ಮುಖ್ಯಾಂಶಗಳು
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = { $provider } ರಿಂದ ಶಿಫಾರಸುಮಾಡುಲಾಗಿದೆ
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = ವೀಕ್ಷಣೆ ಮಾಡಲು ಶುರುಮಾಡಿ, ಮತ್ತು ನಾವು ಇತ್ತೀಚೆಗೆ ಭೇಟಿ ನೀಡಿದ ಅಥವಾ ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡಲಾದ ಕೆಲವು ಶ್ರೇಷ್ಠ ಲೇಖನಗಳು, ವೀಡಿಯೊಗಳು ಮತ್ತು ಇತರ ಪುಟಗಳನ್ನು ನಾವು ತೋರಿಸುತ್ತೇವೆ.
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = ಜನಪ್ರಿಯವಾದ ವಿಷಯಗಳು:
 newtab-pocket-how-it-works = ಇದು ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ
 newtab-pocket-cta-button = ಪಾಕೆಟ್ ಪಡೆಯಿರಿ
 
