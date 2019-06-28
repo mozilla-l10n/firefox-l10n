@@ -100,6 +100,9 @@ newtab-section-menu-privacy-notice = رازداری کا نوٹس
 
 newtab-section-header-topsites = بہترین سائٹیں
 newtab-section-header-highlights = شہ سرخياں
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = { $provider } کی جانب سے تجویز کردہ
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
