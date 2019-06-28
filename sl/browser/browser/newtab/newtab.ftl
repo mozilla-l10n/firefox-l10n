@@ -138,6 +138,10 @@ newtab-section-header-pocket = Priporoča { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Začnite z brskanjem, mi pa vam bomo tu prikazovali odlične članke, videoposnetke ter druge strani, ki ste jih nedavno obiskali ali shranili med zaznamke.
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = Zdaj ste seznanjeni z novicami. Vrnite se pozneje in si oglejte nove prispevke iz { $provider }. Komaj čakate? Izberite priljubljeno temo in odkrijte več velikih zgodb na spletu.
 
 ## Pocket Content Section.
 
@@ -145,6 +149,8 @@ newtab-empty-section-highlights = Začnite z brskanjem, mi pa vam bomo tu prikaz
 newtab-pocket-read-more = Priljubljene teme:
 newtab-pocket-more-recommendations = Več priporočil
 newtab-pocket-how-it-works = Kako deluje
+newtab-pocket-cta-button = Prenesi { -pocket-brand-name }
+newtab-pocket-cta-text = Shranite zgodbe, ki jih imate radi, v { -pocket-brand-name }, in napolnite svoje misli z navdušujočim branjem.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
