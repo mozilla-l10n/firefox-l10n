@@ -39,6 +39,8 @@ newtab-topsites-add-button = ചേർക്കൂ
 
 ## Top Sites - Delete history confirmation dialog. 
 
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = ഈ പ്രവർത്തനം പഴയപടിയാക്കാനാവില്ല.
 
 ## Context Menu - Action Tooltips.
 
@@ -53,6 +55,8 @@ newtab-menu-edit-topsites = തിരുത്തുക
 newtab-menu-open-new-window = പുതിയ ജാലകത്തിൽ തുറക്കുക
 newtab-menu-open-new-private-window = പുതിയ രസഹ്യജാലകത്തിൽ തുറക്കുക
 newtab-menu-dismiss = പുറത്താക്കുക
+newtab-menu-pin = പിൻ ചെയ്യുക
+newtab-menu-unpin = അൺപിൻ ചെയ്യുക
 newtab-menu-save-to-pocket = പോക്കറ്റിലേയ്ക്ക് സംരക്ഷിയ്ക്കുക
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = അടയാളം മാറ്റുക
