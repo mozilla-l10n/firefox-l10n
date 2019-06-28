@@ -75,6 +75,7 @@ newtab-menu-open-new-window = Opne i nytt vindauge
 newtab-menu-open-new-private-window = Opne i eit nytt privat vindauge
 newtab-menu-dismiss = Avvis
 newtab-menu-pin = Fest
+newtab-menu-unpin = Løys
 newtab-menu-delete-history = Slett frå historikk
 newtab-menu-save-to-pocket = Lagre til { -pocket-brand-name }
 newtab-menu-delete-pocket = Slett frå { -pocket-brand-name }
