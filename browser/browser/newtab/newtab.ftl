@@ -20,6 +20,9 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-url-input =
+    .placeholder = Nhập hoặc dán URL
+newtab-topsites-url-validation = Yêu cầu URL hợp lệ
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -29,6 +32,7 @@ newtab-topsites-add-button = Thêm
 
 ## Top Sites - Delete history confirmation dialog. 
 
+newtab-confirm-delete-history-p1 = Bạn có chắc bạn muốn xóa bỏ mọi thứ của trang này từ lịch sử?
 
 ## Context Menu - Action Tooltips.
 
@@ -74,6 +78,7 @@ newtab-label-recommended = Xu hướng
 ## Section Headers.
 
 newtab-section-header-topsites = Trang web hàng đầu
+newtab-section-header-highlights = Nổi bật
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
