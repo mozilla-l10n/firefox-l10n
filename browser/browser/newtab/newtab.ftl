@@ -23,6 +23,7 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Lisää hakukone
 newtab-topsites-add-topsites-header = Uusi ykkössivusto
 newtab-topsites-edit-topsites-header = Muokkaa ykkössivustoa
 newtab-topsites-title-label = Otsikko
@@ -99,7 +100,9 @@ newtab-section-menu-remove-section = Poista osio
 newtab-section-menu-collapse-section = Pienennä osio
 newtab-section-menu-expand-section = Laajenna osio
 newtab-section-menu-manage-section = Muokkaa osiota
+newtab-section-menu-manage-webext = Hallitse laajennusta
 newtab-section-menu-add-topsite = Lisää ykkössivusto
+newtab-section-menu-add-search-engine = Lisää hakukone
 newtab-section-menu-move-up = Siirrä ylös
 newtab-section-menu-move-down = Siirrä alas
 newtab-section-menu-privacy-notice = Tietosuojakäytäntö
@@ -124,6 +127,10 @@ newtab-empty-section-topstories = Ei enempää suosituksia juuri nyt. Katso myö
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Suositut aiheet:
+newtab-pocket-more-recommendations = Lisää suosituksia
+newtab-pocket-how-it-works = Kuinka se toimii
+newtab-pocket-cta-button = Hanki { -pocket-brand-name }
+newtab-pocket-cta-text = Tallenna tykkäämäsi tekstit { -pocket-brand-name }iin ja ravitse mieltäsi kiinnostavilla teksteillä.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
