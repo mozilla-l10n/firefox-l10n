@@ -23,15 +23,29 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-topsites-header = പുതിയ മികച്ച സൈറ്റുകൾ
+newtab-topsites-edit-topsites-header = മികച്ച സൈറ്റ് ലിസ്റ്റ് തിരുത്തൂ
+newtab-topsites-title-input =
+    .placeholder = തലക്കെട്ട് നൽകൂ
+newtab-topsites-url-input =
+    .placeholder = വെബ്URLനൽകൂ
+newtab-topsites-url-validation = പ്രവർത്തിയ്ക്കുന്ന URL ആവശ്യമാണ്
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
+newtab-topsites-cancel-button = ഒഴിവാക്കൂ
+newtab-topsites-save-button = സംരക്ഷിയ്ക്കൂ
+newtab-topsites-add-button = ചേർക്കൂ
 
 ## Top Sites - Delete history confirmation dialog. 
 
 
 ## Context Menu - Action Tooltips.
 
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = ഈ സൈറ്റ് തിരുത്തുക
+    .aria-label = ഈ സൈറ്റ് തിരുത്തുക
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -39,6 +53,7 @@ newtab-menu-edit-topsites = തിരുത്തുക
 newtab-menu-open-new-window = പുതിയ ജാലകത്തിൽ തുറക്കുക
 newtab-menu-open-new-private-window = പുതിയ രസഹ്യജാലകത്തിൽ തുറക്കുക
 newtab-menu-dismiss = പുറത്താക്കുക
+newtab-menu-save-to-pocket = പോക്കറ്റിലേയ്ക്ക് സംരക്ഷിയ്ക്കുക
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = അടയാളം മാറ്റുക
 # Bookmark is a verb here.
@@ -59,6 +74,7 @@ newtab-menu-bookmark = അടയാളം
 
 newtab-label-visited = സന്ദർശിച്ചത്‌
 newtab-label-bookmarked = അടയാളപ്പെടുത്തിയത്
+newtab-label-recommended = ട്രെൻഡിംഗ്
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
@@ -74,6 +90,8 @@ newtab-section-header-highlights = ഹൈലൈറ്റുകൾ
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = ജനപ്രിയ വിഷയങ്ങൾ:
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
