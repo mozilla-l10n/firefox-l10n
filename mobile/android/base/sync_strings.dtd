@@ -11,10 +11,10 @@
 <!ENTITY sync.title.connect.label 'התחברות אל &syncBrand.shortName.label;'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'כדי להפעיל את ההתקן החדש שלך, נא לבחור באפשרות “הגדרת &syncBrand.shortName.label;” בהתקן.'>
-<!ENTITY sync.subtitle.pair.label 'כדי להפעיל, נא לבחור באפשרות ”שיוך התקן“ בהתקן האחר שלך.'>
+<!ENTITY sync.subtitle.connect.label 'כדי להפעיל את המכשיר החדש שלך, נא לבחור באפשרות “הגדרת &syncBrand.shortName.label;” במכשיר.'>
+<!ENTITY sync.subtitle.pair.label 'כדי להפעיל, נא לבחור באפשרות ”צימוד מכשיר“ במכשיר האחר שלך.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.link.nodevice.label 'ההתקן אינו עימי…'>
+<!ENTITY sync.link.nodevice.label 'המכשיר אינו עימי…'>
 
 <!-- Configure Engines -->
 <!ENTITY sync.configure.engines.title.passwords2 'כניסות'>
@@ -54,7 +54,7 @@
 <!ENTITY fxaccount_status_auth_server 'שרת חשבון'>
 <!ENTITY fxaccount_status_sync_now 'סנכרון כעת'>
 <!ENTITY fxaccount_status_syncing2 'מסנכרן…'>
-<!ENTITY fxaccount_status_device_name 'שם התקן'>
+<!ENTITY fxaccount_status_device_name 'שם המכשיר'>
 <!ENTITY fxaccount_status_sync_server 'שרת סנכרון'>
 <!ENTITY fxaccount_status_needs_verification2 'יש לאמת את החשבון שלך. עליך לגעת כדי לשלוח את דוא״ל האימות מחדש.'>
 <!ENTITY fxaccount_status_needs_credentials 'לא ניתן להיכנס. לגעת כדי להיכנס.'>
@@ -82,7 +82,7 @@
 <!ENTITY fxaccount_remove_account 'ניתוק&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'האם ברצונך להתנתק מ־Sync?'>
-<!ENTITY fxaccount_remove_account_dialog_message2 'היסטורית הגלישה שלך תישאר על התקן זה, אבל לא תסתנכרן עוד עם החשבון שלך.'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'היסטורית הגלישה שלך תישאר על מכשיר זה, אך לא תסתנכרן עוד עם החשבון שלך.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast2 'חשבון ה־Firefox בכתובת &formatS; נותק.'>

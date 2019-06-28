@@ -6,9 +6,11 @@
 <!ENTITY firstrun_urlbar_message2 "תודה שבחרת ב־&brandShortName;">
 <!ENTITY newfirstrun_urlbar_message "ברוכים הבאים אל &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "דפדפן מודרני לנייד מבית Mozilla, הארגון ללא מטרות רווח שמחויב לאינטרנט חופשי ופתוח.">
+<!ENTITY newfirstrun_urlbar_subtext "מהיר, פרטי ובצד שלך.">
 <!ENTITY firstrun_panel_title_privacy "פרטיות">
 <!ENTITY firstrun_privacy_message "גילשו כאילו אף אחד לא מסתכל">
 <!ENTITY firstrun_privacy_subtext "גלישה פרטית עם הגנת מעקב חוסמת רכיבי מעקב תוך כדי גלישה, ולא תשמור את ההיסטוריה לאחר סיום הגלישה.">
+<!ENTITY newfirstrun_privacy_subtext "גלישה פרטית מסייעת בחסימת רכיבים העוקבים אחריך ברשת.">
 <!ENTITY firstrun_panel_title_customize "התאמה אישית">
 <!ENTITY firstrun_customize_message "התאמת &brandShortName; לטעמך.">
 <!ENTITY firstrun_customize_subtext "ניתן להתאים אישית את &brandShortName; עם תוספות. חסימת פרסומות, הוספת תכונות או בחירה בערכת נושא חדשה שתייצג את האישיות שלך.">
@@ -19,11 +21,15 @@
 <!ENTITY firstrun_data_message "פחות נתונים יותר חסכון">
 <!ENTITY firstrun_data_subtext2 "בטלו הצגת תמונות לחסכון בתעבורת נתונים עם כל אתר שנפתח.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY updatednewfirstrun_sync_title "חשבון">
 <!ENTITY firstrun_sync_message2 "המשך מהמקום שבו הפסקת.">
-<!ENTITY firstrun_sync_subtext2 "ניתן להשתמש ב־Sync כדי למצוא סימניות, ססמאות ודברים נוספים ששמרת ב־&brandShortName; בכל ההתקנים שלך.">
+<!ENTITY firstrun_sync_subtext2 "ניתן להשתמש ב־Sync כדי למצוא סימניות, ססמאות ודברים נוספים ששמרת ב־&brandShortName; בכל המכשירים שלך.">
+<!ENTITY newfirstrun_sync_subtext "סינכרון של הדברים שנשמרים בנייד אל Firefox במחשב, בצורה פרטית ומאובטחת.">
+<!ENTITY updatednewfirstrun_sync_subtext "עליך להתחבר לחשבון שלך כי להפיק את המרב מ־&brandShortName;">
 <!ENTITY firstrun_signin_message "להישאר בעניינים, קדימה">
 <!ENTITY firstrun_signin_button "כניסה אל Sync">
 <!ENTITY newfirstrun_signin_button "הפעלת Sync">
+<!ENTITY updatednewfirstrun_signin_button "כניסה ל־&brandShortName;">
 <!ENTITY  onboard_start_button_browser "התחלת גלישה">
 <!ENTITY firstrun_button_notnow "לא כרגע">
 <!ENTITY firstrun_button_next "הבא">
@@ -37,7 +43,7 @@
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "את/ה">
-<!ENTITY firstrun_account_message "יש לך את &brandShortName; על התקן נוסף?">
+<!ENTITY firstrun_account_message "יש לך את &brandShortName; על מכשיר נוסף?">
 
 <!ENTITY  onboard_start_restricted1 "הישארו בטוחים ובשליטה עם גרסה מופשטת זו של &brandShortName;.">
 
@@ -63,6 +69,12 @@
 <!ENTITY  sending_crash_report "דיווח קריסה נשלח\u2026">
 <!ENTITY  crash_close_label "סגירה">
 <!ENTITY  crash_restart_label "הפעלת &brandShortName; מחדש">
+
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "‏&brandShortName; קרס">
+<!ENTITY  crash_notification_message "יש להקיש כדי לדווח ל־&vendorShortName;">
+<!ENTITY  crash_notification_negative_button_text "התעלמות">
 
 <!ENTITY url_bar_default_text2 "נא להזין ביטוי לחיפוש או כתובת">
 
@@ -105,6 +117,10 @@
 <!ENTITY bookmark_folder_updated "התיקיה עודכנה">
 <!ENTITY bookmark_parent_folder "תיקית הורה">
 <!ENTITY bookmark_add_folder "הוספת תיקייה חדשה">
+
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(ללא כותרת)">
 
 <!ENTITY reader_saved_offline "נשמר בלי צורך בחיבור לרשת">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -173,20 +189,20 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "הוספה לסימניות">
 <!ENTITY overlay_share_bookmark_btn_label_already "כבר נוצרה סימנייה">
-<!ENTITY overlay_share_send_other "שליחה להתקנים אחרים">
+<!ENTITY overlay_share_send_other "שליחה למכשירים אחרים">
 
 <!ENTITY overlay_share_open_browser_btn_label "פתיחה ב־&brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-<!ENTITY overlay_share_send_tab_btn_label "שליחה להתקן אחר">
+<!ENTITY overlay_share_send_tab_btn_label "שליחה למכשיר אחר">
 <!ENTITY overlay_share_no_url "לא נמצא קישור בשיתוף זה">
-<!ENTITY overlay_share_select_device "בחירת התקן">
+<!ENTITY overlay_share_select_device "בחירת מכשיר">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "לא אותרו התקנים המחוברים ל־Firefox Account">
+<!ENTITY overlay_no_synced_devices "לא אותרו מכשירים המחוברים ל־Firefox Account">
 
 <!ENTITY pref_category_search3 "חיפוש">
 <!ENTITY pref_category_search_summary2 "הוספה, הגדרת ברירת מחדל, הצגת הצעות">
@@ -219,7 +235,7 @@
 <!ENTITY pref_category_notifications_summary2 "תכונות חדשות, טיפים למוצר">
 <!ENTITY pref_developer_remotedebugging_usb "ניפוי שגיאות מרחוק דרך USB">
 <!ENTITY pref_developer_remotedebugging_wifi "ניפוי שגיאות מרחוק דרך Wi-Fi">
-<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "ניפוי שגיאות דרך רשת אלחוטית דורש שבהתקן שלך יותקן יישומון לקריאת קודים מסוג QR.">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "ניפוי שגיאות דרך רשת אלחוטית דורש שבמכשיר שלך יותקן יישומון לקריאת קודים מסוג QR.">
 <!ENTITY pref_remember_signons2 "שמירת כניסות">
 <!ENTITY pref_manage_logins "ניהול כניסות">
 
@@ -303,7 +319,7 @@
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
 <!-- Localization note (pref_feature_tips_notification_enabling_hint):
      Describe the action the user should do to enable this preference. -->
-<!ENTITY pref_feature_tips_notification_enabling_hint2 "(כדי להפעיל את אפשרות זו, יש להפעיל &pref_feature_tips_notification_enabling_path;.)">
+<!ENTITY pref_feature_tips_notification_enabling_hint2 "(כדי להפעיל את אפשרות זו, יש להפעיל את &pref_feature_tips_notification_enabling_path;.)">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -414,6 +430,7 @@ shown from Android O while a tab is being queued.-->
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "נא ללחוץ על ישומון הדפדפן ולבחור את &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "ביקור באתר התמיכה של Mozilla">
 <!ENTITY pref_about_firefox "מידע על &brandShortName;">
 <!ENTITY pref_vendor_faqs "תשובות לשאלות נפוצות">
@@ -515,7 +532,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_sending_to "שליחה להתקן">
+<!ENTITY media_sending_to "שליחה למכשיר">
 <!ENTITY media_play "ניגון">
 <!ENTITY media_pause "השהייה">
 <!ENTITY media_stop "הפסקה">
@@ -586,6 +603,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "מילת מפתח">
 <!ENTITY bookmark_select_folder "בחירת תיקייה">
 
+<!ENTITY bookmark_edit_undo "ביטול">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "הגדרות אתר">
@@ -619,10 +638,10 @@ shown from Android O while a tab is being queued.-->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "דף הבית של &brandShortName;">
 <!ENTITY home_history_title "היסטוריה">
-<!ENTITY home_synced_devices_smartfolder "התקנים מסונכרנים">
-<!ENTITY home_synced_devices_number "&formatD; התקנים">
+<!ENTITY home_synced_devices_smartfolder "מכשירים מסונכרנים">
+<!ENTITY home_synced_devices_number "&formatD; מכשירים">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
-<!ENTITY home_synced_devices_one "התקן אחד">
+<!ENTITY home_synced_devices_one "מכשיר אחד">
 <!ENTITY home_history_back_to2 "חזרה להיסטוריה המלאה">
 <!ENTITY home_clear_history_button "מחיקת היסטוריית גלישה">
 <!ENTITY home_clear_history_confirm "האם ברצונך למחוק את ההיסטוריה שלך?">
@@ -650,13 +669,13 @@ shown from Android O while a tab is being queued.-->
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; התקנים מוסתרים">
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; מכשירים מוסתרים">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
-<!ENTITY home_remote_tabs_hidden_devices_title "התקנים מוסתרים">
+<!ENTITY home_remote_tabs_hidden_devices_title "מכשירים מוסתרים">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
-<!ENTITY home_remote_tabs_unhide_selected_devices "ביטול הסתרת ההתקנים הנבחרים">
+<!ENTITY home_remote_tabs_unhide_selected_devices "ביטול הסתרת המכשירים הנבחרים">
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
@@ -664,7 +683,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY home_unpinned_site "בוטלה ההצמדה של האתר">
 
 <!ENTITY remote_tabs_panel_moved_title "לאן נעלמו הלשוניות שלי?">
-<!ENTITY remote_tabs_panel_moved_desc "העברנו את הלשוניות שלך מההתקנים הנוספים לחלונית בעמוד הבית שלך אליה ניתן לגשת בקלות עם כל פתיחת לשונית חדשה.">
+<!ENTITY remote_tabs_panel_moved_desc "העברנו את הלשוניות שלך מהמכשירים הנוספים לחלונית בעמוד הבית שלך אליה ניתן לגשת בקלות עם כל פתיחת לשונית חדשה.">
 <!ENTITY remote_tabs_panel_moved_link "נא להעביר אותי לחלונית החדשה שלי.">
 
 <!ENTITY pin_site_dialog_hint "נא להזין מילת חיפוש">
@@ -673,6 +692,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "בחירה או הקלטת צליל">
 <!ENTITY filepicker_image_title "בחירה או צילום תמונה">
 <!ENTITY filepicker_video_title "בחירה או הקלטת וידאו">
+
+<!ENTITY filepicker_permission_denied "לא סופקו הרשאות נחוצות, נעשה שימוש בבוחר הקבצים המובנה במערכת.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "התחברת לאתר">
@@ -815,7 +836,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-<!ENTITY devtools_auth_scan_header "מתבצעת סריקה לאיתור קוד ה־QR שמוצג בהתקן הנוסף שלך">
+<!ENTITY devtools_auth_scan_header "מתבצעת סריקה לאיתור קוד ה־QR שמוצג במכשיר הנוסף שלך">
 
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
@@ -848,7 +869,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
-<!ENTITY unsupported_sdk_version "‏&brandShortName; לא יעבוד על התקן זה (&formatS1;, &formatS2;). נא להוריד את הגרסה הנכונה, עמכם הסליחה.">
+<!ENTITY unsupported_sdk_version "‏&brandShortName; לא יעבוד על מכשיר זה (&formatS1;, &formatS2;). נא להוריד את הגרסה הנכונה, עמכם הסליחה.">
 
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "לא ניתן לפתוח את &brandShortName;. נא להתקין מחדש ולנסות שוב.">
@@ -893,7 +914,7 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY private_tab_panel_title "גלישה פרטית + הגנת מעקב">
 <!ENTITY private_tab_panel_description "‏&brandShortName; חוסם חלקים מהדפים שעשויים לעקוב אחר פעילות הגלישה שלך.">
-<!ENTITY private_tab_panel_description2 "אנחנו לא נשמור שום היסטוריה, אבל קבצים שיורדו וסימניות חדשות שייווצרו עדיין יישמרו בהתקן שלך.">
+<!ENTITY private_tab_panel_description2 "אנחנו לא נשמור שום היסטוריה, אבל קבצים שיורדו וסימניות חדשות שייווצרו עדיין יישמרו במכשיר שלך.">
 <!ENTITY private_tab_learn_more "מידע נוסף">
 
 <!ENTITY fullscreen_warning "עברת למסך מלא">
@@ -927,4 +948,5 @@ Picture-in-picture mini window -->
 <!ENTITY synced_tabs_notification_channel "לשוניות מסונכרנות">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
-<!ENTITY site_notifications_channel "התראות אתר">
+<!ENTITY site_notifications_channel "התרעות אתר">
+<!ENTITY crash_handler_notifications_channel "מדווח הקריסות של &brandShortName;">
