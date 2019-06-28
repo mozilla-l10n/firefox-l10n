@@ -116,6 +116,10 @@ newtab-label-download = 已下载
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = 移除版块
+newtab-section-menu-collapse-section = 折叠版块
+newtab-section-menu-expand-section = 展开版块
+newtab-section-menu-manage-section = 管理版块
 newtab-section-menu-manage-webext = 管理扩展
 newtab-section-menu-add-topsite = 添加常用网站
 newtab-section-menu-add-search-engine = 添加搜索引擎
