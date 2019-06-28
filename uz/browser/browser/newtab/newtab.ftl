@@ -67,6 +67,8 @@ newtab-menu-pin = Yopishtirish
 newtab-menu-unpin = Ajratish
 newtab-menu-delete-history = Tarixdan o‘chirish
 newtab-menu-save-to-pocket = { -pocket-brand-name } xizmatiga saqlash
+newtab-menu-delete-pocket = { -pocket-brand-name } xizmatidan o‘chirish
+newtab-menu-archive-pocket = { -pocket-brand-name } orqali arxivlash
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Xatcho‘pni olib tashlash
 # Bookmark is a verb here.
@@ -97,6 +99,7 @@ newtab-menu-open-file = Faylni ochish
 newtab-label-visited = Kirilgan
 newtab-label-bookmarked = Xatcho‘pga qo‘shilgan
 newtab-label-recommended = Trendda
+newtab-label-saved = { -pocket-brand-name } xizmatiga saqlandi
 newtab-label-download = Yuklab olindi
 
 ## Section Menu: These strings are displayed in the section context menu and are 
