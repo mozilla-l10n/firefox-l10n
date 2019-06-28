@@ -140,6 +140,7 @@ newtab-pocket-read-more = Sujets populaires :
 newtab-pocket-more-recommendations = Plus de recommandations
 newtab-pocket-how-it-works = Mode d’emploi
 newtab-pocket-cta-button = Installer { -pocket-brand-name }
+newtab-pocket-cta-text = Enregistrez les articles que vous aimez dans { -pocket-brand-name }, et stimulez votre imagination avec des lectures fascinantes.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
