@@ -46,6 +46,8 @@ onboarding-ghostery-text = Ghostery જેવાં વિસ્તરણ સા
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = સમન્વય
 onboarding-fxa-text = { -fxaccount-brand-name } માટે સાઇન અપ કરો અને તમે જ્યાં પણ { -brand-short-name } નો ઉપયોગ કરો છો ત્યાં તમારા બુકમાર્ક્સ, પાસવર્ડ્સ અને ખુલ્લા ટૅબ્સને સમન્વયિત કરો.
+onboarding-pocket-anywhere-text2 = { -pocket-brand-name } એપ્લિકેશન સાથે તમારી પસંદની સામગ્રીને ઓફલાઇન સાચવો અને તમારી અનુકૂળતા પ્રમાણે વાંચો, સાંભળો અને જુઓ.
+onboarding-pocket-anywhere-button = { -pocket-brand-name } વાપરો
 
 ## Message strings belonging to the Return to AMO flow
 
