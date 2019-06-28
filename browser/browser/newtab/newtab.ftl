@@ -23,19 +23,26 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Додати засіб пошуку
 newtab-topsites-add-topsites-header = Новий популярний сайт
 newtab-topsites-edit-topsites-header = Редагувати популярний сайт
+newtab-topsites-title-label = Заголовок
 newtab-topsites-title-input =
     .placeholder = Введіть назву
+newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Введіть або вставте URL-адресу
 newtab-topsites-url-validation = Необхідна дійсна адреса URL
+newtab-topsites-image-url-label = URL власного зображення
+newtab-topsites-use-image-link = Використати власне зображення…
+newtab-topsites-image-validation = Не вдалося завантажити зображення. Спробуйте інший URL.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Скасувати
 newtab-topsites-delete-history-button = Видалити з історії
 newtab-topsites-save-button = Зберегти
+newtab-topsites-preview-button = Попередній перегляд
 newtab-topsites-add-button = Додати
 
 ## Top Sites - Delete history confirmation dialog. 
@@ -46,6 +53,16 @@ newtab-confirm-delete-history-p2 = Цю дію неможливо скасува
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Відкрити меню
+    .aria-label = Відкрити меню
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Відкрити меню
+    .aria-label = Відкрити контекстне меню для { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Змінити цей сайт
@@ -61,6 +78,8 @@ newtab-menu-pin = Прикріпити
 newtab-menu-unpin = Відкріпити
 newtab-menu-delete-history = Видалити з історії
 newtab-menu-save-to-pocket = Зберегти в { -pocket-brand-name }
+newtab-menu-delete-pocket = Видалити з { -pocket-brand-name }
+newtab-menu-archive-pocket = Архівувати в { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Вилучити закладку
 # Bookmark is a verb here.
@@ -91,11 +110,22 @@ newtab-menu-open-file = Відкрити файл
 newtab-label-visited = Відвідано
 newtab-label-bookmarked = Закладено
 newtab-label-recommended = Популярне
+newtab-label-saved = Збережено в { -pocket-brand-name }
 newtab-label-download = Завантажено
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = Вилучити розділ
+newtab-section-menu-collapse-section = Згорнути розділ
+newtab-section-menu-expand-section = Розгорнути розділ
+newtab-section-menu-manage-section = Керувати розділом
+newtab-section-menu-manage-webext = Керувати розширенням
+newtab-section-menu-add-topsite = Додати до популярних сайтів
+newtab-section-menu-add-search-engine = Додати засіб пошуку
+newtab-section-menu-move-up = Вгору
+newtab-section-menu-move-down = Вниз
+newtab-section-menu-privacy-notice = Повідомлення про приватність
 
 ## Section Headers.
 
@@ -107,6 +137,7 @@ newtab-section-header-pocket = Рекомендовано { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = Почніть перегляд, і тут відобразяться деякі цікаві статті, відео та інші сторінки, нещодавно відвідані чи збережені вами до закладок.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -116,7 +147,13 @@ newtab-empty-section-topstories = Готово. Перевірте згодом,
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Популярні теми:
+newtab-pocket-more-recommendations = Інші рекомендації
+newtab-pocket-how-it-works = Як це працює
+newtab-pocket-cta-button = Отримати { -pocket-brand-name }
+newtab-pocket-cta-text = Зберігайте улюблені статті в { -pocket-brand-name } і задовольніть себе захопливим читанням.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = Ой, при завантаженні цього вмісту щось пішло не так.
+newtab-error-fallback-refresh-link = Оновіть сторінку, щоб спробувати знову.
