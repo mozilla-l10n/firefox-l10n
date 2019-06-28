@@ -20,14 +20,22 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-topsites-header = Thêm trang web hàng đầu
+newtab-topsites-edit-topsites-header = Sửa trang web hàng đầu
+newtab-topsites-title-input =
+    .placeholder = Nhập tiêu đề
+newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Nhập hoặc dán URL
 newtab-topsites-url-validation = Yêu cầu URL hợp lệ
+newtab-topsites-use-image-link = Sử dụng hình ảnh tùy chỉnh…
+newtab-topsites-image-validation = Không tải được hình ảnh. Hãy thử một URL khác.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Hủy bỏ
 newtab-topsites-save-button = Lưu lại
+newtab-topsites-preview-button = Xem trước
 newtab-topsites-add-button = Thêm
 
 ## Top Sites - Delete history confirmation dialog. 
@@ -49,6 +57,8 @@ newtab-menu-dismiss = Bỏ qua
 newtab-menu-pin = Ghim
 newtab-menu-unpin = Bỏ ghim
 newtab-menu-save-to-pocket = Lưu vào { -pocket-brand-name }
+newtab-menu-delete-pocket = Xóa khỏi { -pocket-brand-name }
+newtab-menu-archive-pocket = Lưu trữ trong { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Xóa đánh dấu
 # Bookmark is a verb here.
@@ -70,10 +80,19 @@ newtab-menu-bookmark = Đánh dấu
 newtab-label-visited = Đã truy cập
 newtab-label-bookmarked = Đã được đánh dấu
 newtab-label-recommended = Xu hướng
+newtab-label-saved = Đã lưu vào { -pocket-brand-name }
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = Xoá mục
+newtab-section-menu-collapse-section = Thu gọn mục
+newtab-section-menu-expand-section = Mở rộng mục
+newtab-section-menu-manage-section = Quản lý mục
+newtab-section-menu-add-topsite = Thêm trang web hàng đầu
+newtab-section-menu-move-up = Di chuyển lên
+newtab-section-menu-move-down = Di chuyển xuống
+newtab-section-menu-privacy-notice = Chính sách riêng tư
 
 ## Section Headers.
 
@@ -82,6 +101,7 @@ newtab-section-header-highlights = Nổi bật
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = Bắt đầu duyệt web và chúng tôi sẽ hiển thị một số bài báo, video, và các trang khác mà bạn vừa truy cập hoặc đã đánh dấu tại đây.
 
 ## Pocket Content Section.
 
@@ -91,3 +111,5 @@ newtab-pocket-read-more = Các chủ đề phổ biến:
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = Rất tiếc, đã xảy ra lỗi khi tải nội dung này.
+newtab-error-fallback-refresh-link = Thử làm mới lại trang.
