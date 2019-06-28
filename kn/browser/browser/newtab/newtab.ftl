@@ -5,9 +5,14 @@
 
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
+newtab-page-title = ಹೊಸ ಹಾಳೆ
 
 ## Search box component.
 
+# "Search" is a verb/action
+newtab-search-box-search-button =
+    .title = ಹುಡುಕು
+    .aria-label = ಹುಡುಕು
 
 ## Top Sites - General form dialog.
 
@@ -33,11 +38,14 @@ newtab-menu-section-tooltip =
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
+newtab-menu-edit-topsites = ‍ತಿದ್ದು
 newtab-menu-open-new-window = ಹೊಸ ಕಿಟಕಿಯಲ್ಲಿ ತೆರೆ
 newtab-menu-delete-pocket = ಪಾಕೆಟ್ನಿಂದ ಅಳಿಸಿ
 newtab-menu-archive-pocket = ಪಾಕೆಟ್ನಲ್ಲಿ ಆರ್ಕೈವ್ ಮಾಡಿ
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = ಪುಟ ಗುರುತು ತೆಗೆ
+# Bookmark is a verb here.
+newtab-menu-bookmark = ಪುಟ ಗುರುತು
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -79,6 +87,7 @@ newtab-section-menu-move-down = ಕೆಳಗೆ ಜರುಗಿಸು
 
 ## Section Headers.
 
+newtab-section-header-topsites = ಪ್ರಮುಖ ತಾಣಗಳು
 newtab-section-header-highlights = ಮುಖ್ಯಾಂಶಗಳು
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
