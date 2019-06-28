@@ -65,6 +65,7 @@ newtab-menu-open-new-window = Ouvrir dans une nouvelle fenêtre
 newtab-menu-open-new-private-window = Ouvrir dans une nouvelle fenêtre privée
 newtab-menu-dismiss = Retirer
 newtab-menu-pin = Épingler
+newtab-menu-unpin = Désépingler
 newtab-menu-delete-history = Supprimer de l’historique
 newtab-menu-save-to-pocket = Enregistrer dans { -pocket-brand-name }
 newtab-menu-delete-pocket = Supprimer de { -pocket-brand-name }
@@ -136,7 +137,9 @@ newtab-empty-section-topstories = Il n’y en a pas d’autres. Revenez plus tar
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Sujets populaires :
+newtab-pocket-more-recommendations = Plus de recommandations
 newtab-pocket-how-it-works = Mode d’emploi
+newtab-pocket-cta-button = Installer { -pocket-brand-name }
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
