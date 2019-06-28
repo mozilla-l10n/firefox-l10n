@@ -23,6 +23,7 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Tilføj søgetjeneste
 newtab-topsites-add-topsites-header = Ny webside
 newtab-topsites-edit-topsites-header = Rediger mest besøgte webside
 newtab-topsites-title-label = Titel
@@ -52,6 +53,16 @@ newtab-confirm-delete-history-p2 = Denne handling kan ikke fortrydes.
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Åbn menu
+    .aria-label = Åbn menu
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Åbn menu
+    .aria-label = Åbn genvejsmenuen for { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Rediger denne webside
@@ -109,7 +120,9 @@ newtab-section-menu-remove-section = Fjern afsnit
 newtab-section-menu-collapse-section = Sammenfold afsnit
 newtab-section-menu-expand-section = Udvid afsnit
 newtab-section-menu-manage-section = Håndter afsnit
+newtab-section-menu-manage-webext = Håndter udvidelse
 newtab-section-menu-add-topsite = Tilføj ny webside
+newtab-section-menu-add-search-engine = Tilføj søgetjeneste
 newtab-section-menu-move-up = Flyt op
 newtab-section-menu-move-down = Flyt ned
 newtab-section-menu-privacy-notice = Privatlivspolitik
@@ -134,8 +147,13 @@ newtab-empty-section-topstories = Der er ikke flere nye historier. Kom tilbage s
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Populære emner:
+newtab-pocket-more-recommendations = Flere anbefalinger
+newtab-pocket-how-it-works = Sådan virker det
+newtab-pocket-cta-button = Hent { -pocket-brand-name }
+newtab-pocket-cta-text = Gem dine yndlingshistorier i { -pocket-brand-name } og hav dem altid ved hånden.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-info = Hovsa. Noget gik galt ved indlæsning af indholdet.
+newtab-error-fallback-refresh-link = Prøv igen ved at genindlæse siden.
