@@ -85,6 +85,7 @@ newtab-menu-bookmark = පිටු සලකුණ
 
 newtab-label-visited = ප්‍රවේශිත
 newtab-label-bookmarked = පිටු සලකුණු තැබූ
+newtab-label-recommended = නැඹුරුතා
 newtab-label-saved = { -pocket-brand-name } හි සුරකින ලදී
 
 ## Section Menu: These strings are displayed in the section context menu and are 
