@@ -11,6 +11,10 @@ newtab-settings-button =
 
 ## Search box component.
 
+# "Search" is a verb/action
+newtab-search-box-search-button =
+    .title = खोजें
+    .aria-label = खोजें
 newtab-search-box-search-the-web-text = वेब पर खोजें
 newtab-search-box-search-the-web-input =
     .placeholder = वेब पर खोजें
