@@ -23,6 +23,7 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = தேடுபொறியைச் சேர்
 newtab-topsites-add-topsites-header = புதிய முக்கிய தளம்
 newtab-topsites-edit-topsites-header = முக்கிய தளத்தை தொகு
 newtab-topsites-title-label = தலைப்பு
@@ -52,6 +53,16 @@ newtab-confirm-delete-history-p2 = இச்செயலை மீட்க ம�
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = பட்டியைத் திற
+    .aria-label = பட்டியைத் திற
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = பட்டியைத் திற
+    .aria-label = { $title } என்பதற்கான உள்ளடக்க பட்டியலைத் திற
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = இத்தளத்தை தொகு
@@ -111,6 +122,7 @@ newtab-section-menu-expand-section = பகுதியை விரி
 newtab-section-menu-manage-section = பகுதியை நிர்வகி
 newtab-section-menu-manage-webext = நீட்சிகளை நிர்வகி
 newtab-section-menu-add-topsite = முதன்மை தளத்தைச் சேர்
+newtab-section-menu-add-search-engine = தேடுபொறியைச் சேர்
 newtab-section-menu-move-up = மேலே நகர்த்து
 newtab-section-menu-move-down = கீழே நகர்த்து
 newtab-section-menu-privacy-notice = தனியுரிமை அறிவிப்பு
@@ -135,6 +147,8 @@ newtab-empty-section-topstories = நீங்கள் முடித்து
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = பிரபலமான தலைப்புகள்:
+newtab-pocket-more-recommendations = மேலும் பரிந்துரைகள்
+newtab-pocket-how-it-works = இது எப்படி செயல்படுகிறது
 newtab-pocket-cta-button = { -pocket-brand-name } ஐ பெறுக
 newtab-pocket-cta-text = { -pocket-brand-name } நீங்கள் விரும்பும் கதையைச் சேமித்தால், அதுவே உங்கள் மனதை வெள்ளும் வாசித்தலைத் தரும்.
 
