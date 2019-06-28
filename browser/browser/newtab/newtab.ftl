@@ -147,6 +147,7 @@ newtab-empty-section-topstories = Ussa has ti legì tut las novitads. Turna pli 
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Temas populars:
+newtab-pocket-more-recommendations = Dapli propostas
 newtab-pocket-how-it-works = Co ch'i funcziuna
 newtab-pocket-cta-button = Obtegnair { -pocket-brand-name }
 newtab-pocket-cta-text = Memorisescha ils artitgels che ta plaschan en { -pocket-brand-name } e procura per inspiraziun cuntinuanta cun lectura fascinanta.
