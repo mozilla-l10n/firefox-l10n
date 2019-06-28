@@ -13,7 +13,7 @@
 <!ENTITY aboutProduct2.accesskey "p">
 <!ENTITY helpTroubleshootingInfo.label     "Informations de dépannage">
 <!ENTITY helpTroubleshootingInfo.accesskey "I">
-<!ENTITY helpSafeMode.label     "Redémarrer avec les modules désactivés…">
+<!ENTITY helpSafeMode.label     "Redémarrer, modules désactivés…">
 <!ENTITY helpSafeMode.accesskey "R">
 <!ENTITY releaseCmd2.label "Notes de version">
 <!ENTITY releaseCmd2.accesskey "N">
@@ -28,6 +28,8 @@
 
 <!ENTITY aboutMenuCmd2.label "À propos de &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "p">
+<!ENTITY helpSafeMode.stop.label     "Redémarrer, modules activés">
+<!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "Aide de &brandShortName;">
 <!ENTITY productHelp.accesskey "e">
 <!ENTITY productHelp.commandkey "VK_F1">
