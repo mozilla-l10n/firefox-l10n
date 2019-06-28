@@ -147,6 +147,8 @@ newtab-empty-section-topstories = Hua nakà ma. 'Ngà nanikaj ñunt ni nana'uit 
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Sa yitïnj doj:
+newtab-pocket-more-recommendations = A'ngô ne nuguan ni'ñanj huaa
+newtab-pocket-how-it-works = Dàj 'iaj sunj
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
