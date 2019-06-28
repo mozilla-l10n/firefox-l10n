@@ -150,6 +150,7 @@ newtab-pocket-read-more = Tanyag na mga paksa:
 newtab-pocket-more-recommendations = Karagdagang Rekomendasyon
 newtab-pocket-how-it-works = Paano gamitin
 newtab-pocket-cta-button = Kunin ang { -pocket-brand-name }
+newtab-pocket-cta-text = I-save sa { -pocket-brand-name } ang mga kwentong iyong nagustuhan, at palawigin ang iyong pagiisip sa mga nakabibighaning babasahin.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
