@@ -106,6 +106,7 @@ newtab-section-menu-remove-section = Abschnitt entfernen
 newtab-section-menu-collapse-section = Abschnitt einklappen
 newtab-section-menu-expand-section = Abschnitt ausklappen
 newtab-section-menu-manage-section = Abschnitt verwalten
+newtab-section-menu-manage-webext = Erweiterung verwalten
 newtab-section-menu-add-topsite = Wichtige Seite hinzufügen
 newtab-section-menu-move-up = Nach oben schieben
 newtab-section-menu-move-down = Nach unten schieben
