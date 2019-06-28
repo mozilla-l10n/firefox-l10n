@@ -77,6 +77,9 @@ newtab-menu-dismiss = રદ કરો
 newtab-menu-pin = પિન
 newtab-menu-unpin = અનપિન
 newtab-menu-delete-history = ઇતિહાસમાંથી દૂર કરો
+newtab-menu-save-to-pocket = { -pocket-brand-name } માં સાચવો
+newtab-menu-delete-pocket = { -pocket-brand-name } માંથી કાઢી નાંખો
+newtab-menu-archive-pocket = { -pocket-brand-name } માં સંગ્રહ કરો
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = બુકમાર્ક કાઢો
 # Bookmark is a verb here.
@@ -107,6 +110,7 @@ newtab-menu-open-file = ફાઇલ ખોલો
 newtab-label-visited = જોવામા આવેલ:
 newtab-label-bookmarked = બુકમાર્ક્સ
 newtab-label-recommended = વલણ
+newtab-label-saved = { -pocket-brand-name } પર સાચવ્યું
 newtab-label-download = ડાઉનલોડ કરેલું
 
 ## Section Menu: These strings are displayed in the section context menu and are 
