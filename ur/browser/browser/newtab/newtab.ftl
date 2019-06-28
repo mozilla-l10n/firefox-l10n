@@ -94,6 +94,7 @@ newtab-label-download = ڈاؤن لوڈ شدہ
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-add-topsite = بہترین سائٹ شامل کریں
 newtab-section-menu-move-up = اوپر کریں
 newtab-section-menu-move-down = نیچے کریں
 newtab-section-menu-privacy-notice = رازداری کا نوٹس
