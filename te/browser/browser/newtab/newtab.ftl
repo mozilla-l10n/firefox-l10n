@@ -24,19 +24,31 @@ newtab-search-box-search-the-web-input =
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-topsites-header = కొత్త మేటి సైటు
+newtab-topsites-edit-topsites-header = టాప్ సైట్ను సవరించండి
 newtab-topsites-title-label = శీర్షిక
+newtab-topsites-title-input =
+    .placeholder = శీర్షికను నమోదు చేయండి
 newtab-topsites-url-label = చిరునామా
+newtab-topsites-url-input =
+    .placeholder = URL ను టైప్ చేయండి లేదా అతికించండి
+newtab-topsites-url-validation = చెల్లుబాటు అయ్యే URL అవసరం
 newtab-topsites-image-url-label = అభిమత చిత్రపు చిరునామా
 newtab-topsites-use-image-link = అభిమత చిత్రాన్ని వాడు…
 newtab-topsites-image-validation = చిత్రాన్ని లోడు చెయ్యలేకపోయాం. మరో చిరునామా ప్రయత్నించండి.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
+newtab-topsites-cancel-button = రద్దుచేయి
 newtab-topsites-delete-history-button = చరిత్ర నుంచి తీసివేయి
+newtab-topsites-save-button = భద్రపరచు
 newtab-topsites-preview-button = మునుజూపు
+newtab-topsites-add-button = చేర్చు
 
 ## Top Sites - Delete history confirmation dialog. 
 
+newtab-confirm-delete-history-p1 = మీరు మీ చరిత్ర నుండి ఈ పేజీ యొక్క ప్రతి ఉదాహరణకు తొలగించాలనుకుంటున్నారా?
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = ఈ చర్యను రద్దు చేయలేము.
 
 ## Context Menu - Action Tooltips.
 
@@ -62,6 +74,7 @@ newtab-menu-open-new-window = కొత్త విండోలో తెరు
 newtab-menu-open-new-private-window = కొత్త వ్యక్తిగత విండోలో తెరువు
 newtab-menu-dismiss = విస్మరించు
 newtab-menu-delete-history = చరిత్ర నుంచి తీసివేయి
+newtab-menu-save-to-pocket = { -pocket-brand-name } కి సేవ్ చేయండి
 newtab-menu-delete-pocket = { -pocket-brand-name } నుండి తొలగించు
 newtab-menu-archive-pocket = { -pocket-brand-name }లో ఆర్కయివ్ చెయ్యి
 # Bookmark is a noun in this case, "Remove bookmark".
@@ -93,6 +106,7 @@ newtab-menu-open-file = దస్త్రాన్ని తెరువు
 
 newtab-label-visited = సందర్శించారు
 newtab-label-bookmarked = ఇష్టాంశంగా గుర్తుపెట్టారు
+newtab-label-recommended = ట్రెండింగ్
 newtab-label-saved = { -pocket-brand-name }లో భద్రపరచినది
 newtab-label-download = దింపుకున్నవి
 
@@ -119,6 +133,8 @@ newtab-empty-section-highlights = విహారించడం మొదలు
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = ప్రముఖ అంశాలు:
 newtab-pocket-more-recommendations = మరిన్ని సిఫారసులు
 newtab-pocket-how-it-works = ఇది ఎలా పనిచేస్తుంది
 
