@@ -84,9 +84,13 @@ newtab-label-recommended = વલણ
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-manage-webext = એક્સ્ટેંશનનો વહીવટ કરો
 
 ## Section Headers.
 
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = { $provider } દ્વારા ભલામણ
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
