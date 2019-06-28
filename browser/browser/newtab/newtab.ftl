@@ -43,6 +43,9 @@ newtab-topsites-add-button = Ajouter
 
 ## Top Sites - Delete history confirmation dialog. 
 
+newtab-confirm-delete-history-p1 = Voulez-vous vraiment supprimer de l’historique toutes les occurrences de cette page ?
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = Cette action est irréversible.
 
 ## Context Menu - Action Tooltips.
 
@@ -57,6 +60,7 @@ newtab-menu-edit-topsites = Modifier
 newtab-menu-open-new-window = Ouvrir dans une nouvelle fenêtre
 newtab-menu-open-new-private-window = Ouvrir dans une nouvelle fenêtre privée
 newtab-menu-dismiss = Retirer
+newtab-menu-pin = Épingler
 newtab-menu-delete-history = Supprimer de l’historique
 newtab-menu-save-to-pocket = Enregistrer dans { -pocket-brand-name }
 newtab-menu-delete-pocket = Supprimer de { -pocket-brand-name }
