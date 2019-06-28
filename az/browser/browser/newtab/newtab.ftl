@@ -11,6 +11,10 @@ newtab-settings-button =
 
 ## Search box component.
 
+# "Search" is a verb/action
+newtab-search-box-search-button =
+    .title = Axtar
+    .aria-label = Axtar
 newtab-search-box-search-the-web-text = İnternetdə Axtar
 newtab-search-box-search-the-web-input =
     .placeholder = İnternetdə Axtar
@@ -59,9 +63,14 @@ newtab-menu-section-tooltip =
 newtab-menu-content-tooltip =
     .title = Menyunu aç
     .aria-label = { $title } üçün kontekst menyusunu aç
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = Bu saytı düzəlt
+    .aria-label = Bu saytı düzəlt
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
+newtab-menu-edit-topsites = Redaktə et
 newtab-menu-open-new-window = Yeni Pəncərədə Aç
 newtab-menu-open-new-private-window = Yeni Məxfi Pəncərədə Aç
 newtab-menu-dismiss = Rədd et
