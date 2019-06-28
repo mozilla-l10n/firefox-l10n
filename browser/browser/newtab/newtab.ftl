@@ -23,6 +23,7 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Ajouter un moteur de recherche
 newtab-topsites-add-topsites-header = Nouveau site populaire
 newtab-topsites-edit-topsites-header = Modifier le site populaire
 newtab-topsites-title-label = Titre
@@ -110,6 +111,7 @@ newtab-section-menu-expand-section = Développer la section
 newtab-section-menu-manage-section = Gérer la section
 newtab-section-menu-manage-webext = Gérer l’extension
 newtab-section-menu-add-topsite = Ajouter un site populaire
+newtab-section-menu-add-search-engine = Ajouter un moteur de recherche
 newtab-section-menu-move-up = Déplacer vers le haut
 newtab-section-menu-move-down = Déplacer vers le bas
 newtab-section-menu-privacy-notice = Politique de confidentialité
