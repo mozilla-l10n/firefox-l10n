@@ -277,7 +277,7 @@ go-back-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro =
-    Erweiterungen und Themes sind wie Apps für den Browser and ermöglichen es zum Beispiel,
+    Erweiterungen und Themes sind wie Apps für den Browser und ermöglichen es zum Beispiel,
     Passwörter zu schützen, Videos herunterzuladen, keine Angebote zu verpassen, nervige Werbung zu blockieren,
     das Aussehen des Browsers zu verändern und viel mehr. Diese kleinen Software-Programme werden oft von
     Personen oder Organisationen entwickelt, die keine direkte Verbindung mit dem Browser-Entwickler haben.
