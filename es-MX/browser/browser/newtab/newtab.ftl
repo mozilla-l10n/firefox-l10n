@@ -26,11 +26,14 @@ newtab-search-box-search-the-web-input =
 newtab-topsites-add-search-engine-header = Agregar motor de búsqueda
 newtab-topsites-add-topsites-header = Nuevo sitio popular
 newtab-topsites-edit-topsites-header = Editar sitio popular
+newtab-topsites-title-label = Título
 newtab-topsites-title-input =
     .placeholder = Introducir un título
+newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Escribir o pegar una URL
 newtab-topsites-url-validation = Se requiere una URL válida
+newtab-topsites-image-url-label = URL de imagen personalizada
 newtab-topsites-use-image-link = Utilizar una imagen personalizada…
 newtab-topsites-image-validation = La imagen no se pudo cargar. Intente una URL diferente.
 
@@ -39,6 +42,7 @@ newtab-topsites-image-validation = La imagen no se pudo cargar. Intente una URL 
 newtab-topsites-cancel-button = Cancelar
 newtab-topsites-delete-history-button = Eliminar del historial
 newtab-topsites-save-button = Guardar
+newtab-topsites-preview-button = Vista previa
 newtab-topsites-add-button = Agregar
 
 ## Top Sites - Delete history confirmation dialog. 
@@ -62,6 +66,8 @@ newtab-menu-pin = Anclar
 newtab-menu-unpin = Desanclar
 newtab-menu-delete-history = Eliminar del historial
 newtab-menu-save-to-pocket = Guardar en { -pocket-brand-name }
+newtab-menu-delete-pocket = Eliminar de { -pocket-brand-name }
+newtab-menu-archive-pocket = Archivar en { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Eliminar marcador
 # Bookmark is a verb here.
@@ -91,14 +97,20 @@ newtab-menu-open-file = Abrir archivo
 
 newtab-label-visited = Visitados
 newtab-label-recommended = Tendencias
+newtab-label-saved = Guardado en { -pocket-brand-name }
 newtab-label-download = Descargado
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = Eliminar sección
+newtab-section-menu-collapse-section = Sección de colapso
+newtab-section-menu-expand-section = Ampliar la sección
 newtab-section-menu-manage-section = Administrar sección
+newtab-section-menu-add-topsite = Agregar sitio popular
 newtab-section-menu-add-search-engine = Agregar motor de búsqueda
+newtab-section-menu-move-down = Bajar
+newtab-section-menu-privacy-notice = Política de privacidad
 
 ## Section Headers.
 
