@@ -23,22 +23,45 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-topsites-header = নতুন শীর্ষ সাইট
+newtab-topsites-edit-topsites-header = শীর্ষ সাইট সম্পাদনা করুন
 newtab-topsites-title-label = শিরোনাম
+newtab-topsites-title-input =
+    .placeholder = নাম দিন
 newtab-topsites-url-label = URL
+newtab-topsites-url-input =
+    .placeholder = টাইপ করুন অথবা পেস্ট করুন URL
+newtab-topsites-url-validation = কার্যকর URL প্রয়োজন
 newtab-topsites-image-url-label = কাস্টম ছবির URL
 newtab-topsites-use-image-link = কাস্টম ছবি ব্যবহার করুন…
 newtab-topsites-image-validation = ছবি লোড করতে ব্যর্থ। ভিন্ন URL এ চেস্টা করুন।
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
+newtab-topsites-cancel-button = বাতিল
 newtab-topsites-delete-history-button = ইতিহাস থেকে মুছে ফেলুন
+newtab-topsites-save-button = সংরক্ষণ
 newtab-topsites-preview-button = প্রাকদর্শন
+newtab-topsites-add-button = যোগ
 
 ## Top Sites - Delete history confirmation dialog. 
 
+newtab-confirm-delete-history-p1 = আপনি কি নিশ্চিতভাবে আপনার ইতিহাস থেকে এই পাতার সকল কিছু মুছে ফেলতে চান?
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = এই পরিবর্তনটি অপরিবর্তনীয়।
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = মেনু খুলুন
+    .aria-label = মেনু খুলুন
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = মেনু খুলুন
+    .aria-label = { $title } থেকে কনটেক্সট মেনু খুলুন
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = সাইটটি সম্পাদনা করুন
@@ -50,7 +73,10 @@ newtab-menu-edit-topsites = সম্পাদনা
 newtab-menu-open-new-window = নতুন উইন্ডোতে খুলুন
 newtab-menu-open-new-private-window = নতুন ব্যক্তিগত উইন্ডোতে খুলুন
 newtab-menu-dismiss = বাতিল
+newtab-menu-pin = পিন
+newtab-menu-unpin = আনপিন
 newtab-menu-delete-history = ইতিহাস থেকে মুছে ফেলুন
+newtab-menu-save-to-pocket = { -pocket-brand-name } এ সংরক্ষণ করুন
 newtab-menu-delete-pocket = { -pocket-brand-name } থেকে মুছে দিন
 newtab-menu-archive-pocket = { -pocket-brand-name } এ আর্কাইভ করুন
 # Bookmark is a noun in this case, "Remove bookmark".
@@ -82,6 +108,7 @@ newtab-menu-open-file = ফাইল খুলুন
 
 newtab-label-visited = পরিদর্শিত
 newtab-label-bookmarked = বুকমার্ক করা হয়েছে
+newtab-label-recommended = ঝোঁক
 newtab-label-saved = { -pocket-brand-name } এ সংরক্ষণ করুন
 newtab-label-download = ডাউনলোড হয়েছে
 
@@ -101,12 +128,25 @@ newtab-section-menu-privacy-notice = গোপনীয়তা নীতি
 ## Section Headers.
 
 newtab-section-header-topsites = শীর্ঘ সাইট
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = { $provider } দ্বারা সুপারিশকৃত
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = কিছু একটা ঠিক নেই। { $provider } এর শীর্ষ গল্পগুলো পেতে কিছুক্ষণ পর আবার দেখুন। অপেক্ষা করতে চান না? বিশ্বের সেরা গল্পগুলো পেতে কোন জনপ্রিয় বিষয় নির্বাচন করুন।
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = জনপ্রিয় বিষয়:
+newtab-pocket-more-recommendations = আরও সুপারিশ
+newtab-pocket-how-it-works = কিভাবে এটা কাজ করে
+newtab-pocket-cta-button = { -pocket-brand-name } ব্যবহার করুন
+newtab-pocket-cta-text = { -pocket-brand-name } এ আপনার পছন্দের গল্পগুলো সংরক্ষণ করুন, এবং চমৎকার সব লেখা পড়ে আপনার মনের ইন্ধন যোগান।
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
