@@ -131,10 +131,17 @@ newtab-section-menu-privacy-notice = Privacyverklaring
 
 newtab-section-header-topsites = Topwebsites
 newtab-section-header-highlights = Highlights
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = Aanbevolen door { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Begin met surfen, en we tonen hier een aantal geweldige artikelen, video’s en andere pagina’s die u onlangs hebt bezocht of waarvoor u een bladwijzer hebt gemaakt.
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = U bent weer bij. Kijk later nog eens voor meer topverhalen van { $provider }. Kunt u niet wachten? Selecteer een populair onderwerp voor meer geweldige verhalen van het hele web.
 
 ## Pocket Content Section.
 
