@@ -53,6 +53,16 @@ newtab-confirm-delete-history-p2 = Denne handlinga kan ikkje angrast.
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Opne meny
+    .aria-label = Opne meny
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Opne meny
+    .aria-label = Opne kontekstmeny for { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Rediger denne nettsida
@@ -85,6 +95,11 @@ newtab-menu-remove-download = Fjern frå historikk
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Vis i Finder
+       *[other] Opne innhaldsmappe
+    }
 newtab-menu-open-file = Opne fil
 
 ## Card Labels: These labels are associated to pages to give
