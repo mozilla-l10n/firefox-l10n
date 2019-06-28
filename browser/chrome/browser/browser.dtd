@@ -944,7 +944,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.openprefs.label    "פתיחת ההעדפות של &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "יש להפעיל סנכרון כדי לצפות ברשימת הלשוניות שלך מהתקנים אחרים.">
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "יש להפעיל סנכרון לשוניות כדי לצפות ברשימת הלשוניות שלך ממכשירים אחרים.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "חיפוש לשוניות מסונכרנות">
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "חיבור מכשיר נוסף">
 

@@ -5,6 +5,7 @@
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = כאן יש דרקונים!
 about-config-warning-text = שינוי ערכי בררת המחדל של הגדרות מתקדמות אלו יכול להזיק ליציבות, אבטחה והביצועים של ישום זה. מוטב להמשיך רק אם השלכות מעשיך ברורות לך לחלוטין.
+about-config-warning-checkbox = תציקו לי שוב, בבקשה!
 about-config-warning-button = הסיכון מקובל עלי
 about-config-title = about:config
 about-config2-title = תצורות מתקדמות
