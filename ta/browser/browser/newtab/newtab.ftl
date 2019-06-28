@@ -25,21 +25,29 @@ newtab-search-box-search-the-web-input =
 
 newtab-topsites-add-topsites-header = புதிய முக்கிய தளம்
 newtab-topsites-edit-topsites-header = முக்கிய தளத்தை தொகு
+newtab-topsites-title-label = தலைப்பு
 newtab-topsites-title-input =
     .placeholder = தலைப்பை இடு
+newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = உள்ளிடு (அ) ஒரு URL ஒட்டு
 newtab-topsites-url-validation = சரியான URL தேவை
+newtab-topsites-use-image-link = தனிப்பயன் படத்தை பயன்படுத்தவும்…
+newtab-topsites-image-validation = படத்தை ஏற்றுவதில் தோல்வி. வேறு URL ஐ முயற்சிக்கவும்.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = தவிர்
 newtab-topsites-delete-history-button = வரலாற்றிலருந்து அழி
 newtab-topsites-save-button = சேமி
+newtab-topsites-preview-button = முன்தோற்றம்
 newtab-topsites-add-button = சேர்
 
 ## Top Sites - Delete history confirmation dialog. 
 
+newtab-confirm-delete-history-p1 = இப்பக்கத்தை உங்களின் வரலாற்றிலிருந்து முழுமையாக நீக்க விரும்புகிறீர்களா?
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = இச்செயலை மீட்க முடியாது.
 
 ## Context Menu - Action Tooltips.
 
@@ -54,7 +62,12 @@ newtab-menu-edit-topsites = தொகு
 newtab-menu-open-new-window = ஒரு புதிய சாளரத்தில் திற
 newtab-menu-open-new-private-window = ஒரு புதிய அந்தரங்க சாளரத்தில் திற
 newtab-menu-dismiss = வெளியேற்று
+newtab-menu-pin = பொருத்து
+newtab-menu-unpin = விடுவி
 newtab-menu-delete-history = வரலாற்றிலருந்து அழி
+newtab-menu-save-to-pocket = { -pocket-brand-name } ல் சேமி
+newtab-menu-delete-pocket = { -pocket-brand-name } லிருந்து நீக்கு
+newtab-menu-archive-pocket = { -pocket-brand-name } ல் காப்பெடு
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = புத்தகக்குறியை நீக்கு
 # Bookmark is a verb here.
@@ -77,27 +90,42 @@ newtab-menu-copy-download-link = பதிவிறக்க இணைப்ப�
 newtab-label-visited = பார்த்தவை
 newtab-label-bookmarked = புத்தகக்குறியிடப்பட்டது
 newtab-label-recommended = பிரபலமான
+newtab-label-saved = { -pocket-brand-name } ல் சேமிக்கப்பட்டது
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = பகுதியை நீக்கவும்
+newtab-section-menu-collapse-section = பகுதியைச் சுருக்கு
+newtab-section-menu-expand-section = பகுதியை விரி
+newtab-section-menu-manage-section = பகுதியை நிர்வகி
 newtab-section-menu-manage-webext = நீட்சிகளை நிர்வகி
+newtab-section-menu-add-topsite = முதன்மை தளத்தைச் சேர்
+newtab-section-menu-move-up = மேலே நகர்த்து
+newtab-section-menu-move-down = கீழே நகர்த்து
+newtab-section-menu-privacy-notice = தனியுரிமை அறிவிப்பு
 
 ## Section Headers.
 
 newtab-section-header-topsites = சிறந்த தளங்கள்
+newtab-section-header-highlights = மிளிர்ப்புகள்
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } என்பவரால் பரிந்துரைக்கப்பட்டது
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = உலாவலைத் தொடங்கவும், மேலும் நாங்கள் சில சிறந்த கட்டுரைகள், காணொளிகள், மற்றும் நீங்கள் சமீபத்தில் பார்த்த அல்லது புத்தகக்குறியிட்ட பக்கங்களை இங்கே காட்டுவோம்.
 
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = பிரபலமான தலைப்புகள்:
+newtab-pocket-cta-button = { -pocket-brand-name } ஐ பெறுக
+newtab-pocket-cta-text = { -pocket-brand-name } நீங்கள் விரும்பும் கதையைச் சேமித்தால், அதுவே உங்கள் மனதை வெள்ளும் வாசித்தலைத் தரும்.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = அச்சச்சோ, இந்த உள்ளடக்கத்தை ஏற்றுவதில் ஏதோ தவறு ஏற்பட்டது.
+newtab-error-fallback-refresh-link = மீண்டும் முயற்சிக்க பக்கத்தை புதுப்பி.
