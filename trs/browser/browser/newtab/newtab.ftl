@@ -149,6 +149,8 @@ newtab-empty-section-topstories = Hua nakà ma. 'Ngà nanikaj ñunt ni nana'uit 
 newtab-pocket-read-more = Sa yitïnj doj:
 newtab-pocket-more-recommendations = A'ngô ne nuguan ni'ñanj huaa
 newtab-pocket-how-it-works = Dàj 'iaj sunj
+newtab-pocket-cta-button = Girì' { -pocket-brand-name }
+newtab-pocket-cta-text = Na'nïnj sà' nej nuguan' 'ï ruhuât riña { -pocket-brand-name } ni gataj ni'ñanj rát ngà nej sa gahiat.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
