@@ -57,6 +57,12 @@ newtab-confirm-delete-history-p2 = Cha ghabh seo a neo-dhèanamh.
 newtab-menu-section-tooltip =
     .title = Fosgail an clàr-taice
     .aria-label = Fosgail an clàr-taice
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Fosgail an clàr-taice
+    .aria-label = Fosgail an clàr-taice co-theacsail aig { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Deasaich an làrach seo
@@ -125,9 +131,13 @@ newtab-section-menu-privacy-notice = Sanas prìobhaideachd
 
 newtab-section-header-topsites = Brod nan làrach
 newtab-section-header-highlights = Sàr-roghainn
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = ’Ga mholadh le { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = Tòisich air brabhsadh is seallaidh sinn dhut an-seo cuid dhe na h-artaigilean, videothan is duilleagan eile air an do thadhail thu no a chuir thu ris na comharran-lìn o chionn ghoirid.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
