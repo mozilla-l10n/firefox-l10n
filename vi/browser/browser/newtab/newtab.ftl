@@ -34,6 +34,7 @@ newtab-topsites-image-validation = Không tải được hình ảnh. Hãy thử
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Hủy bỏ
+newtab-topsites-delete-history-button = Xóa khỏi lịch sử
 newtab-topsites-save-button = Lưu lại
 newtab-topsites-preview-button = Xem trước
 newtab-topsites-add-button = Thêm
@@ -56,6 +57,7 @@ newtab-menu-open-new-private-window = Mở trong cửa sổ riêng tư mới
 newtab-menu-dismiss = Bỏ qua
 newtab-menu-pin = Ghim
 newtab-menu-unpin = Bỏ ghim
+newtab-menu-delete-history = Xóa khỏi lịch sử
 newtab-menu-save-to-pocket = Lưu vào { -pocket-brand-name }
 newtab-menu-delete-pocket = Xóa khỏi { -pocket-brand-name }
 newtab-menu-archive-pocket = Lưu trữ trong { -pocket-brand-name }
