@@ -18,6 +18,10 @@ newtab-search-box-search-button =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-topsites-header = Novo site popular
+newtab-topsites-edit-topsites-header = Editar site popular
+newtab-topsites-title-input =
+    .placeholder = Digite um título
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -29,6 +33,8 @@ newtab-topsites-add-button = Adicionar
 ## Top Sites - Delete history confirmation dialog. 
 
 newtab-confirm-delete-history-p1 = Você tem certeza que deseja excluir todas as instâncias desta página do seu histórico?
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = Essa ação não pode ser desfeita.
 
 ## Context Menu - Action Tooltips.
 
@@ -43,6 +49,8 @@ newtab-menu-edit-topsites = Editar
 newtab-menu-open-new-window = Abrir em uma nova janela
 newtab-menu-open-new-private-window = Abrir em uma nova janela privativa
 newtab-menu-dismiss = Dispensar
+newtab-menu-pin = Fixar
+newtab-menu-unpin = Desafixar
 newtab-menu-delete-history = Excluir do histórico
 newtab-menu-save-to-pocket = Salvar no { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
