@@ -23,6 +23,7 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = සෙවුම් යන්ත්‍රයක් එක් කරන්න
 newtab-topsites-add-topsites-header = නව ප්‍රමුඛ අඩවියක්
 newtab-topsites-edit-topsites-header = ප්‍රමුඛ අඩවිය සකසන්න
 newtab-topsites-title-label = මාතෘකාව
@@ -38,6 +39,7 @@ newtab-topsites-url-validation = වලංගු URL එකක් අවශ්�
 newtab-topsites-cancel-button = අවලංගු කරන්න
 newtab-topsites-delete-history-button = අතිතයෙන් මකන්න කරන්න
 newtab-topsites-save-button = සුරකින්න
+newtab-topsites-preview-button = පෙරදසුන
 newtab-topsites-add-button = එක් කරන්න
 
 ## Top Sites - Delete history confirmation dialog. 
@@ -48,6 +50,10 @@ newtab-confirm-delete-history-p2 = මෙම ක්‍රියාව අහෝ�
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = මෙනුව විවෘත කරන්න
+    .aria-label = මෙනුව විවෘත කරන්න
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = මෙම අඩවිය සකසන්න
@@ -73,6 +79,9 @@ newtab-menu-bookmark = පිටු සලකුණ
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = බාගැනිමේ සබැඳිය පිටපත් කරන්න
+newtab-menu-go-to-download-page = බාගැනිම් පිටුවට යන්න
+newtab-menu-remove-download = ඉතිහාසයෙන් ඉවත් කරන්න
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
@@ -87,10 +96,13 @@ newtab-label-visited = ප්‍රවේශිත
 newtab-label-bookmarked = පිටු සලකුණු තැබූ
 newtab-label-recommended = නැඹුරුතා
 newtab-label-saved = { -pocket-brand-name } හි සුරකින ලදී
+newtab-label-download = බාගැනිණ
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-manage-webext = දිගුව පාලනය කරන්න
+newtab-section-menu-add-search-engine = සෙවුම් යන්ත්‍රයක් එක් කරන්න
 newtab-section-menu-move-up = ඉහළට ගෙනයන්න
 newtab-section-menu-move-down = පහළට ගෙනයන්න
 newtab-section-menu-privacy-notice = පෞද්ගලිකත්ව සටහන
@@ -110,6 +122,8 @@ newtab-section-header-pocket = { $provider } විසින් නිර්ද�
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = ජනප්‍රිය මාතෘකා:
+newtab-pocket-more-recommendations = තවත් නිර්දේශ
+newtab-pocket-how-it-works = එය ක්‍රියාත්මක වන්නේ කෙසේද
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
