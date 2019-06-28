@@ -23,19 +23,26 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Titz'aqatisäx kanob'äl
 newtab-topsites-add-topsites-header = K'ak'a' Utziläj Ruxaq K'amaya'l
 newtab-topsites-edit-topsites-header = Tinuk' re Utziläj Ruxaq K'amaya'l re'
+newtab-topsites-title-label = B'i'aj
 newtab-topsites-title-input =
     .placeholder = Tatz'ib'aj jun b'i'aj
+newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Tatz'ib'aj o tatz'ajb'a' jun URL
 newtab-topsites-url-validation = Ütz URL k'atzinel
+newtab-topsites-image-url-label = Ichinan Ruwachib'al URL
+newtab-topsites-use-image-link = Tokisäx jun ichinan ruwachib'al…
+newtab-topsites-image-validation = Man xsamajib'ëx ta ri wachib'äl. Titojtob'ëx rik'in jun chik URL.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Tiq'at
 newtab-topsites-delete-history-button = Tiyuj el pa ri Natab'äl
 newtab-topsites-save-button = Tiyak
+newtab-topsites-preview-button = Nab'ey tzub'al
 newtab-topsites-add-button = Titz'aqatisäx
 
 ## Top Sites - Delete history confirmation dialog. 
@@ -61,6 +68,8 @@ newtab-menu-pin = Ximoj
 newtab-menu-unpin = Tosq'opïx
 newtab-menu-delete-history = Tiyuj el pa ri Natab'äl
 newtab-menu-save-to-pocket = Tiyak pa { -pocket-brand-name }
+newtab-menu-delete-pocket = Tiyuj el pa { -pocket-brand-name }
+newtab-menu-archive-pocket = Tiyak pa { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Tiyuj el ri yaketal
 # Bookmark is a verb here.
@@ -69,11 +78,20 @@ newtab-menu-bookmark = Yaketal
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = Tiwachib'ëx Ruximonel Qasanïk
+newtab-menu-go-to-download-page = Tib'e pa Ruxaq Qasanïk
+newtab-menu-remove-download = Tiyuj el pa Natab'äl
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Tik'ut pan Finder
+       *[other] Tijaq K'wayöl Yakwuj
+    }
+newtab-menu-open-file = Tijaq Yakb'äl
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -82,10 +100,22 @@ newtab-menu-bookmark = Yaketal
 newtab-label-visited = Tz'eton
 newtab-label-bookmarked = Yakon retal
 newtab-label-recommended = Rujawaxik
+newtab-label-saved = Yakon pa { -pocket-brand-name }
+newtab-label-download = Xqasäx
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = Tiyuj Tanaj
+newtab-section-menu-collapse-section = Tiwulüx Peraj
+newtab-section-menu-expand-section = Tirik' Peraj
+newtab-section-menu-manage-section = Tinuk'samajïx Peraj
+newtab-section-menu-manage-webext = Tinuk'samajïx K'amal
+newtab-section-menu-add-topsite = Titz'aqatisäx K'ïy Ruwinaq Ruxaq K'amaya'l
+newtab-section-menu-add-search-engine = Titz'aqatisäx kanob'äl
+newtab-section-menu-move-up = Tijotob'äx
+newtab-section-menu-move-down = Tiqasäx qa
+newtab-section-menu-privacy-notice = Ichinan na'oj
 
 ## Section Headers.
 
@@ -95,6 +125,7 @@ newtab-section-header-pocket = Chilab'en ruma { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = Katok pa k'amaya'l richin niqak'üt chawäch jeb'ël taq cholna'oj, taq silowachib'äl, chuqa' ch'aqa' chik taq ruxaq k'a b'a' ke'atz'ët o aya'on kan ketal wawe'.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -108,3 +139,5 @@ newtab-pocket-read-more = Nima'q taq Na'oj:
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = Uy, k'o jun itzel xel toq nisamajib'ëx re rupam re'.
+newtab-error-fallback-refresh-link = Titzolïx ruxaq richin nitojtob'ëx chik.
