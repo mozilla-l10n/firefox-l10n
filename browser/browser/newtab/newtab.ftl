@@ -23,6 +23,7 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Adicionar mecanismo de pesquisa
 newtab-topsites-add-topsites-header = Novo site popular
 newtab-topsites-edit-topsites-header = Editar site popular
 newtab-topsites-title-label = Título
@@ -121,6 +122,7 @@ newtab-section-menu-expand-section = Expandir seção
 newtab-section-menu-manage-section = Gerenciar seção
 newtab-section-menu-manage-webext = Gerenciar extensão
 newtab-section-menu-add-topsite = Adicionar ao sites preferidos
+newtab-section-menu-add-search-engine = Adicionar mecanismo de pesquisa
 newtab-section-menu-move-up = Mover para cima
 newtab-section-menu-move-down = Mover para baixo
 newtab-section-menu-privacy-notice = Política de privacidade
@@ -147,6 +149,7 @@ newtab-empty-section-topstories = Você já viu tudo. Volte mais tarde para mais
 newtab-pocket-read-more = Tópicos populares:
 newtab-pocket-more-recommendations = Mais recomendações
 newtab-pocket-how-it-works = Como funciona
+newtab-pocket-cta-button = Adicionar o { -pocket-brand-name }
 newtab-pocket-cta-text = Salve as histórias que você gosta no { -pocket-brand-name } e abasteça sua mente com leituras fascinantes.
 
 ## Error Fallback Content.
