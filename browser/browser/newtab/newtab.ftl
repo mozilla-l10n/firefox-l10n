@@ -47,6 +47,8 @@ newtab-topsites-add-button = Tambah
 
 ## Top Sites - Delete history confirmation dialog. 
 
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = Tindakan ini tidak bisa diurungkan.
 
 ## Context Menu - Action Tooltips.
 
@@ -65,6 +67,8 @@ newtab-menu-edit-topsites = Edit
 newtab-menu-open-new-window = Buka di Jendela Baru
 newtab-menu-open-new-private-window = Buka di Jendela Penjelajahan Pribadi Baru
 newtab-menu-dismiss = Tutup
+newtab-menu-pin = Semat
+newtab-menu-unpin = Lepas
 newtab-menu-delete-history = Hapus dari Riwayat
 newtab-menu-save-to-pocket = Simpan ke { -pocket-brand-name }
 newtab-menu-delete-pocket = Hapus dari { -pocket-brand-name }
@@ -104,9 +108,14 @@ newtab-section-menu-add-search-engine = Tambahkan Mesin Pencari
 ## Section Headers.
 
 newtab-section-header-topsites = Situs Teratas
+newtab-section-header-highlights = Sorotan
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = Disarankan oleh { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = Mulai menjelajah, dan kami akan menampilkan beberapa artikel bagus, video, dan halaman lain yang baru saja Anda kunjungi atau termarkah di sini.
 
 ## Pocket Content Section.
 
