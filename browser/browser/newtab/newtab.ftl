@@ -25,8 +25,10 @@ newtab-search-box-search-the-web-input =
 
 newtab-topsites-add-topsites-header = Nova najbolja stranica
 newtab-topsites-edit-topsites-header = Uredi najbolju stranicu
+newtab-topsites-title-label = Naslov
 newtab-topsites-title-input =
     .placeholder = Unesi naslov
+newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Utipkajte ili zalijepite URL
 newtab-topsites-url-validation = Potrebno je unijeti ispravan URL
@@ -71,12 +73,20 @@ newtab-menu-bookmark = Zabilježi stranicu
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = Kopiraj poveznicu preuzimanja
+newtab-menu-go-to-download-page = Idi na stranicu preuzimanja
 newtab-menu-remove-download = Ukloni iz povijesti
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Prikaži u Finder-u
+       *[other] Otvori sadržajnu mapu
+    }
+newtab-menu-open-file = Otvori datoteku
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
