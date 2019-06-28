@@ -23,6 +23,7 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = تلاش انجن کا اضافہ کریں
 newtab-topsites-add-topsites-header = نئی بہترین سائٹ
 newtab-topsites-edit-topsites-header = بہترین سائٹٹ کیی تدوین کریں
 newtab-topsites-title-label = عنوان
@@ -66,8 +67,11 @@ newtab-menu-unpin = ان پن
 newtab-menu-delete-history = تاریخ سے حذف کریں
 newtab-menu-save-to-pocket = { -pocket-brand-name } میں محفوظ کریں
 newtab-menu-delete-pocket = { -pocket-brand-name } سے جزف کریں
+newtab-menu-archive-pocket = { -pocket-brand-name } مے محفوظ
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = نشانى ہٹائيں
+# Bookmark is a verb here.
+newtab-menu-bookmark = بک مارک
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -100,7 +104,13 @@ newtab-label-download = ڈاؤن لوڈ شدہ
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = صیغہ ہٹائیں
+newtab-section-menu-collapse-section = صیغہ تفصیل سے دیکھیں
+newtab-section-menu-expand-section = صیغہ کو توسیع کریں
+newtab-section-menu-manage-section = صیغہ کابندرست کریں
+newtab-section-menu-manage-webext = توسیع کابندرست کریں
 newtab-section-menu-add-topsite = بہترین سائٹ شامل کریں
+newtab-section-menu-add-search-engine = تلاش انجن کا اضافہ کریں
 newtab-section-menu-move-up = اوپر کریں
 newtab-section-menu-move-down = نیچے کریں
 newtab-section-menu-privacy-notice = رازداری کا نوٹس
@@ -120,6 +130,9 @@ newtab-section-header-pocket = { $provider } کی جانب سے تجویز کر�
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = مشہور مضامین:
+newtab-pocket-more-recommendations = اور زیادہ سفارشات
+newtab-pocket-how-it-works = یہ کس طرح کام کرتا ہے
+newtab-pocket-cta-button = { -pocket-brand-name } حاصل کریں
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
