@@ -76,6 +76,7 @@ newtab-menu-dismiss = Înlătură
 newtab-menu-pin = Fixează
 newtab-menu-unpin = Anulează fixarea
 newtab-menu-delete-history = Șterge din istoric
+newtab-menu-save-to-pocket = Salvează în { -pocket-brand-name }
 newtab-menu-delete-pocket = Șterge din { -pocket-brand-name }
 newtab-menu-archive-pocket = Arhivează în { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
@@ -127,6 +128,9 @@ newtab-section-menu-move-down = Mută în jos
 
 newtab-section-header-topsites = Site-uri de top
 newtab-section-header-highlights = Evidențieri
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = Recomandat de { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
