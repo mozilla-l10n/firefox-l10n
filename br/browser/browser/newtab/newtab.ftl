@@ -23,19 +23,26 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Ouzhpennañ ul lusker klask
 newtab-topsites-add-topsites-header = Lec'hiennoù gwellañ nevez
 newtab-topsites-edit-topsites-header = Embann al Lec'hiennoù Gwellañ
+newtab-topsites-title-label = Titl
 newtab-topsites-title-input =
     .placeholder = Enankañ un titl
+newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Skrivit pe pegit un URL
 newtab-topsites-url-validation = URL talvoudek azgoulennet
+newtab-topsites-image-url-label = URL ar skeudenn personelaet
+newtab-topsites-use-image-link = Ober gant ur skeudenn personelaet…
+newtab-topsites-image-validation = N'haller ket kargan ar skeudenn. Klaskit gant un URL disheñvel.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Nullañ
 newtab-topsites-delete-history-button = Dilemel eus ar roll istor
 newtab-topsites-save-button = Enrollañ
+newtab-topsites-preview-button = Alberz
 newtab-topsites-add-button = Ouzhpennañ
 
 ## Top Sites - Delete history confirmation dialog. 
@@ -46,6 +53,16 @@ newtab-confirm-delete-history-p2 = Ne c'haller ket dizober ar gwezh-mañ.
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Digeriñ al lañser
+    .aria-label = Digeriñ al lañser
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Digeriñ al lañser
+    .aria-label = Digeriñ al lañser kemperzhel evit { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Embann al lec'hienn-mañ
@@ -61,6 +78,8 @@ newtab-menu-pin = Spilhennañ
 newtab-menu-unpin = Dispilhennañ
 newtab-menu-delete-history = Dilemel eus ar roll istor
 newtab-menu-save-to-pocket = Enrollañ etrezek { -pocket-brand-name }
+newtab-menu-delete-pocket = Dilemel eus { -pocket-brand-name }
+newtab-menu-archive-pocket = Diellaouiñ e { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Dilemel ar sined
 # Bookmark is a verb here.
@@ -69,11 +88,20 @@ newtab-menu-bookmark = Sined
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = Eilañ ere ar pellgargadur
+newtab-menu-go-to-download-page = Mont da bajenn ar pellgargadur
+newtab-menu-remove-download = Dilemel diwar ar roll
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Diskouez e Finder
+       *[other] Digeriñ an teuliad a endalc'h ar restr
+    }
+newtab-menu-open-file = Digeriñ ar restr
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -82,10 +110,21 @@ newtab-menu-bookmark = Sined
 newtab-label-visited = Gweladennet
 newtab-label-bookmarked = Lakaet er sinedoù
 newtab-label-recommended = Brudet
+newtab-label-saved = Enrollet e { -pocket-brand-name }
+newtab-label-download = Pellgarget
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = Dilemel ar gevrenn
+newtab-section-menu-collapse-section = Bihanaat ar gevrenn
+newtab-section-menu-expand-section = Astenn ar gevrenn
+newtab-section-menu-manage-section = Merañ ar gevrenn
+newtab-section-menu-add-topsite = Ouzhpennañ ul lec'hienn gwellañ din
+newtab-section-menu-add-search-engine = Ouzhpennañ ul lusker klask
+newtab-section-menu-move-up = Dilec'hiañ etrezek ar c'hrec'h
+newtab-section-menu-move-down = Dilec'hiañ etrezek an traoñ
+newtab-section-menu-privacy-notice = Evezhiadennoù a-fet buhez prevez
 
 ## Section Headers.
 
@@ -98,12 +137,22 @@ newtab-section-header-pocket = Erbedet gant { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Krogit da verdeiñ hag e tiskouezimp deoc’h pennadoù, videoioù ha pajennoù all gweladennet pe lakaet er sinedoù nevez ’zo.
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = Aet oc'h betek penn. Distroit diwezhatoc'h evit muioc’h a istorioù digant { $provider }. N’oc'h ket evit gortoz? Dibabit un danvez brudet evit klask muioc’h a bennadoù dedennus eus pep lec’h er web.
 
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Danvezioù brudet:
+newtab-pocket-more-recommendations = Erbedadennoù ouzhpenn
+newtab-pocket-how-it-works = Penaos ez a en-dro
+newtab-pocket-cta-button = Staliañ { -pocket-brand-name }
+newtab-pocket-cta-text = Enrollit pennadoù a-zoare e { -pocket-brand-name } ha magit ho spered gant lennadennoù boemus.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = Chaous, un dra bennak a zo a-dreuz en ur gargañ an endalc'had.
+newtab-error-fallback-refresh-link = Adkargit ar bajenn evit klask en-dro.
