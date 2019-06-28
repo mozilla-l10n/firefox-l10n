@@ -15,6 +15,11 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = 搜索
     .aria-label = 搜索
+newtab-search-box-search-the-web-text = 在网络上搜索
+newtab-search-box-search-the-web-input =
+    .placeholder = 在网络上搜索
+    .title = 在网络上搜索
+    .aria-label = 在网络上搜索
 
 ## Top Sites - General form dialog.
 
@@ -29,6 +34,7 @@ newtab-topsites-url-input =
 newtab-topsites-url-validation = 需要有效的网址
 newtab-topsites-image-url-label = 自定义图像网址
 newtab-topsites-use-image-link = 使用自定义图像…
+newtab-topsites-image-validation = 图像载入失败。请尝试其他网址。
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -50,6 +56,12 @@ newtab-confirm-delete-history-p2 = 此操作不能撤销。
 newtab-menu-section-tooltip =
     .title = 打开菜单
     .aria-label = 打开菜单
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = 打开菜单
+    .aria-label = 打开 { $title } 的快捷菜单
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = 编辑此网站
@@ -60,6 +72,7 @@ newtab-menu-topsites-placeholder-tooltip =
 newtab-menu-edit-topsites = 编辑
 newtab-menu-open-new-window = 新建窗口打开
 newtab-menu-open-new-private-window = 新建隐私浏览窗口打开
+newtab-menu-dismiss = 隐藏
 newtab-menu-pin = 固定
 newtab-menu-unpin = 取消固定
 newtab-menu-delete-history = 从历史记录中删除
@@ -68,6 +81,8 @@ newtab-menu-delete-pocket = 从 { -pocket-brand-name } 删除
 newtab-menu-archive-pocket = 在 { -pocket-brand-name } 中存档
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = 移除书签
+# Bookmark is a verb here.
+newtab-menu-bookmark = 添加书签
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -105,6 +120,11 @@ newtab-section-header-pocket = { $provider } 推荐
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = 开始网上冲浪之旅吧，之后这里会显示您最近看过或加了书签的精彩文章、视频与其他页面。
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = 所有文章都读完啦！晚点再来，{ $provider } 将推荐更多热门文章。等不及了？选择一个热门话题，找到更多网上的好文章。
 
 ## Pocket Content Section.
 
@@ -115,4 +135,5 @@ newtab-pocket-how-it-works = 使用方法
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = 哎呀，载入内容时发生错误。
 newtab-error-fallback-refresh-link = 刷新页面以重试。
