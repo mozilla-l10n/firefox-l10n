@@ -64,6 +64,12 @@ newtab-menu-pin = पिन करें
 newtab-menu-unpin = पिन हटाएँ
 newtab-menu-delete-history = इतिहास से मिटाएँ
 newtab-menu-save-to-pocket = { -pocket-brand-name } में सहेजें
+newtab-menu-delete-pocket = { -pocket-brand-name } से हटाएं
+newtab-menu-archive-pocket = { -pocket-brand-name } में संग्रहित करें
+# Bookmark is a noun in this case, "Remove bookmark".
+newtab-menu-remove-bookmark = बुकमार्क हटाएँ
+# Bookmark is a verb here.
+newtab-menu-bookmark = बुकमार्क
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -88,6 +94,7 @@ newtab-menu-open-file = फ़ाइल खोलें
 ## the page is bookmarked, or is currently open on another device.
 
 newtab-label-visited = देखी गई
+newtab-label-bookmarked = बुकमार्क लगाया हुआ
 newtab-label-recommended = लोकप्रिय
 newtab-label-saved = { -pocket-brand-name } में सहेजा
 newtab-label-download = डाउनलोड की गई
