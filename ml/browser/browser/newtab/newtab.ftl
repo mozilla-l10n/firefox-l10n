@@ -34,11 +34,13 @@ newtab-topsites-url-validation = പ്രവർത്തിയ്ക്കു�
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = ഒഴിവാക്കൂ
+newtab-topsites-delete-history-button = നാള്‍വഴിയിൽ നിന്ന് ഒഴിവാക്കുക
 newtab-topsites-save-button = സംരക്ഷിയ്ക്കൂ
 newtab-topsites-add-button = ചേർക്കൂ
 
 ## Top Sites - Delete history confirmation dialog. 
 
+newtab-confirm-delete-history-p1 = നിങ്ങളുടെ നാള്‍വഴിയിൽ നിന്ന് ഈ പേജിന്റെ എല്ലാ ഉദാഹരണങ്ങളും ഇല്ലാതാക്കാൻ നിങ്ങൾ താൽപ്പര്യപ്പെടുന്നുവെന്ന് തീർച്ചയാണോ?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = ഈ പ്രവർത്തനം പഴയപടിയാക്കാനാവില്ല.
 
@@ -57,6 +59,7 @@ newtab-menu-open-new-private-window = പുതിയ രസഹ്യജാല�
 newtab-menu-dismiss = പുറത്താക്കുക
 newtab-menu-pin = പിൻ ചെയ്യുക
 newtab-menu-unpin = അൺപിൻ ചെയ്യുക
+newtab-menu-delete-history = നാള്‍വഴിയിൽ നിന്ന് ഒഴിവാക്കുക
 newtab-menu-save-to-pocket = പോക്കറ്റിലേയ്ക്ക് സംരക്ഷിയ്ക്കുക
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = അടയാളം മാറ്റുക
@@ -79,6 +82,8 @@ newtab-menu-bookmark = അടയാളം
 newtab-label-visited = സന്ദർശിച്ചത്‌
 newtab-label-bookmarked = അടയാളപ്പെടുത്തിയത്
 newtab-label-recommended = ട്രെൻഡിംഗ്
+newtab-label-saved = പോക്കറ്റിലേക്ക് സംരക്ഷിച്ചു
+newtab-label-download = ഡൗൺലോഡ് ചെയ്തവ
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
