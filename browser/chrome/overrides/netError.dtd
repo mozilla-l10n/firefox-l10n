@@ -10,9 +10,7 @@
 <!ENTITY returnToPreviousPage.label "חזרה">
 <!ENTITY returnToPreviousPage1.label "חזרה (מומלץ)">
 <!ENTITY advanced.label "מתקדם">
-<!ENTITY continue2.label "עוד…">
 <!ENTITY advanced2.label "מתקדם…">
-<!ENTITY moreInformation.label "מידע נוסף">
 <!ENTITY viewCertificate.label "הצגת אישור">
 
 <!-- Specific error messages -->
@@ -23,7 +21,7 @@
 <!ENTITY deniedPortAccess.title "כתובת זו מוגבלת">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.pageTitle "שרת לא נמצא">
+<!ENTITY dnsNotFound.pageTitle "השרת לא נמצא">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "אבוי. יש לנו בעיה למצוא את האתר הזה.">
 <!ENTITY dnsNotFound.longDesc1 "
@@ -131,12 +129,16 @@
 ">
 
 <!ENTITY certerror.longpagetitle1 "החיבור שלך אינו מאובטח">
+
 <!ENTITY certerror.longpagetitle2 "אזהרה: סכנת אבטחה אפשרית לפניך">
 <!ENTITY certerror.sts.longpagetitle  "לא בוצעה התחברות: חולשת אבטחה אפשרית">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "הבעלים של <span class='hostname'/> הגדירו את האתר שלהם בצורה לקויה.  על מנת להגן על המידע שלך מפני גניבה, &brandShortName; לא התחבר לאתר זה.">
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 <!ENTITY certerror.introPara2 "‏&brandShortName; זיהה איום אבטחה אפשרי ולא המשיך אל <span class='hostname'/>. אם ברצונך לבקר באתר זה, תוקפים יכולים לנסות לגנוב מידע כמו הססמאות, הודעות דוא״ל או פרטי כרטיס האשראי שלך.">
 <!ENTITY certerror.sts.introPara "‏&brandShortName; זיהה איום אבטחה אפשרי ולא המשיך אל <span class='hostname'/> מכיוון שאתר זה דורש חיבור מאובטח.">
 
@@ -146,10 +148,17 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "מה ניתן לעשות בנדון?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>כנראה שהבעיה היא באתר, ואין שום דבר שאפשר לעשות כדי לפתור זאת.</p>
+<p>אם הינך ברשת ארגונית או משתמש בתוכנת אנטי-וירוס, תוכל לפנות אל צוותי התמיכה לקבלת סיוע. תוכל גם להודיע למנהל האתר על הבעיה.</p>
+">
 
 <!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>שעון המחשב שלך מוגדר ל־<span id='wrongSystemTime_systemDate2'/>. נא לוודא שהתאריך, השעה ואזור הזמן הנכונים מוגדרים בהגדרות המערכת במחשב, ולאחר מכן לרענן את <span class='hostname'/>.</p>
 <p>אם השעון שלך כבר מוגדר לשעה הנכונה, יתכן שהאתר לא מוגדר כראוי, ואין שום דבר שבאפשרותך לעשות כדי לפתור את התקלה. ניתן ליידע את מנהל האתר בנוגע לבעיה.</p>">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>כנראה שהבעיה היא באתר, ואין שום דבר שאפשר לעשות כדי לפתור זאת. ניתן להודיע למנהל האתר על הבעיה.</p>
+">
 
 <!ENTITY sharedLongDesc "<ul> 
 <li>האתר איננו זמין כרגע או שהוא עמוס מדי. נא לנסות שוב בעוד מספר רגעים.</li> 
@@ -165,6 +174,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "הוספת חריגה…">
+
 <!ENTITY securityOverride.exceptionButton1Label "קבלת הסיכון והמשך">
 
 <!ENTITY errorReporting.automatic2 "דיווח על תקלות מסוג זה כדי לסייע ל־Mozilla לזהות ולחסום אתרים מסוכנים">
@@ -185,6 +195,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; לא התחבר אל <span id='wrongSystemTimeWithoutReference_URL'/> מכיוון שנראה ששעון המחשב שלך לא מכוון כראוי, מה שמונע חיבור מאובטח.</p> <p>שעון המחשב שלך מכוון ל־<span id='wrongSystemTimeWithoutReference_systemDate'/>. לתיקון הבעיה, יש לשנות את הגדרות התאריך והשעה כך שיהיו תואמים לזמן הנוכחי.</p>">
 
 <!ENTITY certerror.pagetitle1  "חיבור בלתי מאובטח">
+
 <!ENTITY certerror.pagetitle2  "אזהרה: סכנת אבטחה אפשרית לפניך">
 <!ENTITY certerror.sts.pagetitle  "לא בוצעה התחברות: חולשת אבטחה אפשרית">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "אתר זה משתמש ב־HTTP
