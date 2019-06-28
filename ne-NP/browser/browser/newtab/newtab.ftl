@@ -25,17 +25,23 @@ newtab-search-box-search-the-web-input =
 
 newtab-topsites-add-topsites-header = नयाँ शीर्ष साइट
 newtab-topsites-edit-topsites-header = शीर्ष साइट सम्पादन गर्नुहोस्
+newtab-topsites-title-label = शीर्षक
 newtab-topsites-title-input =
     .placeholder = शीर्षक प्रविष्ट गर्नुहोस्
+newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = URL लेख्नुहोस्
 newtab-topsites-url-validation = मान्य URL चाहिन्छ
+newtab-topsites-image-url-label = अनुकूल तस्बिर URL
+newtab-topsites-use-image-link = अनुकूल तस्बिर प्रयोग गर्नुहोस्…
+newtab-topsites-image-validation = तस्बिर लोड गर्न असफल भयो । फरक URL प्रयास गर्नुहोस् ।
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = रद्द गर्नुहोस्
 newtab-topsites-delete-history-button = इतिहासबाट मेट्नुहोस्
 newtab-topsites-save-button = सङ्ग्रह गर्नुहोस्
+newtab-topsites-preview-button = पूर्ववलोकन
 newtab-topsites-add-button = थप्नुहोस्
 
 ## Top Sites - Delete history confirmation dialog. 
@@ -61,6 +67,8 @@ newtab-menu-pin = पिन गर्नुहोस्
 newtab-menu-unpin = अन पिन गर्नुहोस्
 newtab-menu-delete-history = इतिहासबाट मेट्नुहोस्
 newtab-menu-save-to-pocket = { -pocket-brand-name }मा बचत गर्नुहोस्
+newtab-menu-delete-pocket = { -pocket-brand-name } बाट मेट्नुहोस्
+newtab-menu-archive-pocket = { -pocket-brand-name } मा संग्रह गर्नुहोस्
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = पुस्तकचिनो हटाउनुहोस्
 # Bookmark is a verb here.
@@ -69,11 +77,20 @@ newtab-menu-bookmark = पुस्तकचिनो
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = डाउनलोड लिङ्क प्रतिलिपि गर्नुहोस्
+newtab-menu-go-to-download-page = डाउनलोड पेजमा जानुहोस्
+newtab-menu-remove-download = इतिहासबाट हटाउनुहोस्
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Finder मा देखाउनुहोस्
+       *[other] समाविष्ट भएको फोल्डर खोल्नुहोस्
+    }
+newtab-menu-open-file = फाइल खोल्नुहोस्
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -82,10 +99,20 @@ newtab-menu-bookmark = पुस्तकचिनो
 newtab-label-visited = भ्रमण गरिएको
 newtab-label-bookmarked = पुस्तकचिनो लागाइएको
 newtab-label-recommended = प्रचलनमा
+newtab-label-saved = { -pocket-brand-name } मा सङ्ग्रह गरियो
+newtab-label-download = डाउनलोड भयो
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = खण्ड हटाउनुहोस्
+newtab-section-menu-collapse-section = खण्ड संक्षिप्त गर्नुहोस्
+newtab-section-menu-expand-section = खण्ड विस्तार गर्नुहोस्
+newtab-section-menu-manage-section = खण्ड प्रबन्ध गर्नुहोस्
+newtab-section-menu-add-topsite = शीर्ष साइट थप्नुहोस्
+newtab-section-menu-move-up = माथि सार्नुहोस्
+newtab-section-menu-move-down = तल सार्नुहोस्
+newtab-section-menu-privacy-notice = गोपनीयता नीति
 
 ## Section Headers.
 
@@ -97,6 +124,11 @@ newtab-section-header-pocket = { $provider } द्वारा सिफार�
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = ब्राउज गर्न सुरू गर्नुहोस्, र हामी केहि उत्कृष्ट लेखहरू, भिडियोहरू, र अन्य पृष्ठहरू जुन तपाईंले भर्खरै भ्रमण गर्नुभएको वा पुस्तकचिनो राख्नुभएको छ यहाँ देखाउँछौ ।
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = अहिले यति नै । { $provider } बाट थप शीर्ष कथाहरूको हेर्नका लागि पछि फेरि जाँच गर्नुहोस् । अाफुलाई रोक्न सक्नुहुदैन ? वेबभरिका राम्रा कथाहरु भेटाउन कुनै एउटा लोकप्रिय विषय छान्नुहोस् ।
 
 ## Pocket Content Section.
 
@@ -106,3 +138,5 @@ newtab-pocket-read-more = लोकप्रिय शीर्षकहरू:
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = उफ्, सामाग्री लोड गर्न खोजदा केहि गलत भयो ।
+newtab-error-fallback-refresh-link = पुनः प्रयास गर्न पृष्ठ ताजा गर्नुहोस् ।
