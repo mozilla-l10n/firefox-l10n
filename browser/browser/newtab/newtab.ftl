@@ -1,0 +1,152 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+### Firefox Home / New Tab strings for about:home / about:newtab.
+
+newtab-page-title = Pestanya nova
+newtab-settings-button =
+    .title = Personalitzeu la pàgina de pestanya nova
+
+## Search box component.
+
+# "Search" is a verb/action
+newtab-search-box-search-button =
+    .title = Cerca
+    .aria-label = Cerca
+newtab-search-box-search-the-web-text = Cerca al web
+newtab-search-box-search-the-web-input =
+    .placeholder = Cerca al web
+    .title = Cerca al web
+    .aria-label = Cerca al web
+
+## Top Sites - General form dialog.
+
+newtab-topsites-add-search-engine-header = Afegeix un motor de cerca
+newtab-topsites-add-topsites-header = Lloc principal nou
+newtab-topsites-edit-topsites-header = Edita el lloc principal
+newtab-topsites-title-label = Títol
+newtab-topsites-title-input =
+    .placeholder = Escriviu el títol
+newtab-topsites-url-label = URL
+newtab-topsites-url-input =
+    .placeholder = Escriviu o enganxeu un URL
+newtab-topsites-url-validation = Es necessita un URL vàlid
+newtab-topsites-image-url-label = URL d'imatge personalitzada
+newtab-topsites-use-image-link = Utilitza una imatge personalitzada…
+newtab-topsites-image-validation = S'ha produït un error en carregar la imatge. Proveu un altre URL.
+
+## Top Sites - General form dialog buttons. These are verbs/actions.
+
+newtab-topsites-cancel-button = Cancel·la
+newtab-topsites-delete-history-button = Elimina de l'historial
+newtab-topsites-save-button = Desa
+newtab-topsites-preview-button = Previsualització
+newtab-topsites-add-button = Afegeix
+
+## Top Sites - Delete history confirmation dialog. 
+
+newtab-confirm-delete-history-p1 = Segur que voleu suprimir de l'historial totes les instàncies d'aquesta pàgina?
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = Aquesta acció no es pot desfer.
+
+## Context Menu - Action Tooltips.
+
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Obre el menú
+    .aria-label = Obre el menú
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Obre el menú
+    .aria-label = Obre el menú contextual de { $title }
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = Edita aquest lloc
+    .aria-label = Edita aquest lloc
+
+## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
+
+newtab-menu-edit-topsites = Edita
+newtab-menu-open-new-window = Obre en una finestra nova
+newtab-menu-open-new-private-window = Obre en una finestra privada nova
+newtab-menu-dismiss = Descarta
+newtab-menu-pin = Fixa
+newtab-menu-unpin = No fixis
+newtab-menu-delete-history = Elimina de l'historial
+newtab-menu-save-to-pocket = Desa al { -pocket-brand-name }
+newtab-menu-delete-pocket = Suprimeix del { -pocket-brand-name }
+newtab-menu-archive-pocket = Arxiva en el { -pocket-brand-name }
+# Bookmark is a noun in this case, "Remove bookmark".
+newtab-menu-remove-bookmark = Elimina l'adreça d'interès
+# Bookmark is a verb here.
+newtab-menu-bookmark = Afegeix a les adreces d'interès
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
+newtab-menu-copy-download-link = Copia l'enllaç de la baixada
+newtab-menu-go-to-download-page = Vés a la pàgina de la baixada
+newtab-menu-remove-download = Elimina de l'historial
+
+## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
+## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
+## system for each operating system.
+
+
+## Card Labels: These labels are associated to pages to give
+## context on how the element is related to the user, e.g. type indicates that
+## the page is bookmarked, or is currently open on another device.
+
+newtab-label-visited = Visitat
+newtab-label-bookmarked = A les adreces d'interès
+newtab-label-recommended = Tendència
+newtab-label-saved = Desat al { -pocket-brand-name }
+newtab-label-download = Baixat
+
+## Section Menu: These strings are displayed in the section context menu and are 
+## meant as a call to action for the given section.
+
+newtab-section-menu-collapse-section = Redueix la secció
+newtab-section-menu-expand-section = Amplia la secció
+newtab-section-menu-manage-section = Gestiona la secció
+newtab-section-menu-manage-webext = Gestiona l'extensió
+newtab-section-menu-add-topsite = Afegeix com a lloc principal
+newtab-section-menu-add-search-engine = Afegeix un motor de cerca
+newtab-section-menu-move-up = Mou cap amunt
+newtab-section-menu-move-down = Mou cap avall
+newtab-section-menu-privacy-notice = Avís de privadesa
+
+## Section Headers.
+
+newtab-section-header-topsites = Llocs principals
+newtab-section-header-highlights = Destacats
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = Recomanat per { $provider }
+
+## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+
+newtab-empty-section-highlights = Comenceu a navegar i aquí us mostrarem els millors articles, vídeos i altres pàgines que hàgiu visitat o afegit a les adreces d'interès recentment.
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = Ja esteu al dia. Torneu més tard per veure més articles populars de { $provider }. No podeu esperar? Trieu un tema popular per descobrir els articles més interessants de tot el web.
+
+## Pocket Content Section.
+
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = Temes populars:
+newtab-pocket-more-recommendations = Més recomanacions
+newtab-pocket-how-it-works = Com funciona
+newtab-pocket-cta-button = Obtén el { -pocket-brand-name }
+newtab-pocket-cta-text = Deseu els vostres articles preferits al { -pocket-brand-name } i gaudiu d'altres recomanacions fascinants.
+
+## Error Fallback Content.
+## This message and suggested action link are shown in each section of UI that fails to render.
+
+newtab-error-fallback-info = Vaja, s'ha produït un error en carregar aquest contingut.
+newtab-error-fallback-refresh-link = Actualitzeu la pàgina per tornar-ho a provar.
