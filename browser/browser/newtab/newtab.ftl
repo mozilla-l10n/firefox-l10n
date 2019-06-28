@@ -25,8 +25,10 @@ newtab-search-box-search-the-web-input =
 
 newtab-topsites-add-topsites-header = Barrshuíomh Nua
 newtab-topsites-edit-topsites-header = Cuir an Barrshuíomh in Eagar
+newtab-topsites-title-label = Teideal
 newtab-topsites-title-input =
     .placeholder = Cuir teideal isteach
+newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Clóscríobh nó greamaigh URL
 newtab-topsites-url-validation = URL neamhbhailí
@@ -36,6 +38,7 @@ newtab-topsites-url-validation = URL neamhbhailí
 newtab-topsites-cancel-button = Cealaigh
 newtab-topsites-delete-history-button = Scrios ón Stair
 newtab-topsites-save-button = Sábháil
+newtab-topsites-preview-button = Réamhamharc
 newtab-topsites-add-button = Cuir leis
 
 ## Top Sites - Delete history confirmation dialog. 
@@ -82,6 +85,7 @@ newtab-menu-bookmark = Cruthaigh leabharmharc
 newtab-label-visited = Feicthe
 newtab-label-bookmarked = Leabharmharcáilte
 newtab-label-recommended = Treochtáil
+newtab-label-download = Íoslódáilte
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
@@ -90,6 +94,10 @@ newtab-label-recommended = Treochtáil
 ## Section Headers.
 
 newtab-section-header-topsites = Barrshuímh
+newtab-section-header-highlights = Buaicphointí
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = Molta ag { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
