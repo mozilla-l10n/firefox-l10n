@@ -23,6 +23,7 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = 検索エンジンを追加
 newtab-topsites-add-topsites-header = 新着トップサイト
 newtab-topsites-edit-topsites-header = トップサイトを編集
 newtab-topsites-title-label = タイトル
@@ -52,6 +53,16 @@ newtab-confirm-delete-history-p2 = この操作は取り消せません。
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = メニューを開きます
+    .aria-label = メニューを開きます
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = メニューを開きます
+    .aria-label = { $title } のコンテキストメニューを開く
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = このサイトを編集
@@ -66,6 +77,7 @@ newtab-menu-dismiss = 閉じる
 newtab-menu-pin = ピン留め
 newtab-menu-unpin = ピン留めを外す
 newtab-menu-delete-history = 履歴から削除
+newtab-menu-save-to-pocket = { -pocket-brand-name } に保存
 newtab-menu-delete-pocket = { -pocket-brand-name } から削除
 newtab-menu-archive-pocket = { -pocket-brand-name } にアーカイブ
 # Bookmark is a noun in this case, "Remove bookmark".
@@ -108,7 +120,9 @@ newtab-section-menu-remove-section = セクションを削除
 newtab-section-menu-collapse-section = セクションを折りたたむ
 newtab-section-menu-expand-section = セクションを広げる
 newtab-section-menu-manage-section = セクションを管理
+newtab-section-menu-manage-webext = 拡張機能を管理
 newtab-section-menu-add-topsite = トップサイトを追加
+newtab-section-menu-add-search-engine = 検索エンジンを追加
 newtab-section-menu-move-up = 上へ移動
 newtab-section-menu-move-down = 下へ移動
 newtab-section-menu-privacy-notice = プライバシー通知
@@ -133,8 +147,13 @@ newtab-empty-section-topstories = すべて既読です。また後で戻って 
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = 人気のトピック:
+newtab-pocket-more-recommendations = 他のおすすめ
+newtab-pocket-how-it-works = 使い方
+newtab-pocket-cta-button = { -pocket-brand-name } を入手
+newtab-pocket-cta-text = お気に入りに記事を { -pocket-brand-name } に保存して、魅力的な読み物を思う存分楽しみましょう。
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-info = このコンテンツの読み込み中に何か問題が発生しました。
+newtab-error-fallback-refresh-link = ページを再読み込みしてもう一度試してください。
