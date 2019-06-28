@@ -32,12 +32,14 @@ newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Utipkajte ili zalijepite URL
 newtab-topsites-url-validation = Potrebno je unijeti ispravan URL
+newtab-topsites-image-validation = Neuspjelo učitavanje slike. Pokušajte drugi URL.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Otkaži
 newtab-topsites-delete-history-button = Obriši iz povijesti
 newtab-topsites-save-button = Spremi
+newtab-topsites-preview-button = Pregled
 newtab-topsites-add-button = Dodaj
 
 ## Top Sites - Delete history confirmation dialog. 
@@ -101,6 +103,13 @@ newtab-label-download = Preuzeto
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = Ukloni odjel
+newtab-section-menu-collapse-section = Skupi odjel
+newtab-section-menu-expand-section = Proširi odjel
+newtab-section-menu-manage-section = Upravljanje odjelom
+newtab-section-menu-move-up = Pomakni gore
+newtab-section-menu-move-down = Pomakni dolje
+newtab-section-menu-privacy-notice = Politika privatnosti
 
 ## Section Headers.
 
@@ -122,6 +131,7 @@ newtab-empty-section-topstories = Provjerite kasnije za više najpopularnijih pr
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Popularne teme:
+newtab-pocket-more-recommendations = Više preporuka
 newtab-pocket-cta-text = Spremite priče koje vam se sviđaju u { -pocket-brand-name } i napajajte vaš um s vrhunskim štivom.
 
 ## Error Fallback Content.
