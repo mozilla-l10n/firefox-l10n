@@ -14,7 +14,7 @@
 <!ENTITY cmd.alwaysActivate.tooltip           "להשתמש תמיד בתוספת זו">
 <!ENTITY cmd.neverActivate.label              "לא להפעיל לעולם">
 <!ENTITY cmd.neverActivate.tooltip            "לעולם לא להשתמש בתוספת זו">
-<!ENTITY cmd.stateMenu.tooltip                "לשנות כאשר תוספת זו רצה">
+<!ENTITY cmd.stateMenu.tooltip                "שינוי המועד שבו תוספת זו רצה">
 
 <!ENTITY cmd.uninstallAddon.label             "הסרה">
 <!ENTITY cmd.uninstallAddon.accesskey         "ה">

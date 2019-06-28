@@ -8,6 +8,11 @@ profiles-create = יצירת פרופיל חדש
 profiles-restart-title = הפעלה מחדש
 profiles-restart-in-safe-mode = הפעלה מחדש עם תוספות מנוטרלות…
 profiles-restart-normal = הפעלה רגילה מחדש…
+profiles-conflict = עותק נוסף של { -brand-product-name } ביצע שינויים לפרופילים. יש להפעיל את { -brand-short-name } מחדש לפני ביצוע שינויים נוספים.
+profiles-flush-fail-title = השינויים לא נשמרו
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = שגיאה בלתי צפויה מנעה את שמירת השינויים שלך.
+profiles-flush-restart-button = הפעלת { -brand-short-name } מחדש
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = פרופיל: { $name }

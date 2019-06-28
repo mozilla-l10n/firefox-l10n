@@ -27,11 +27,17 @@ features-title = התכונות של { -brand-short-name }
 features-name = שם
 features-version = גרסה
 features-id = מזהה
+processes-type = סוג
 app-basics-title = מידע יישום בסיסי
 app-basics-name = שם
 app-basics-version = גרסה
 app-basics-build-id = מזהה גרסה
 app-basics-update-channel = ערוץ עדכונים
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] ספריית עדכון
+       *[other] תיקיית עדכון
+    }
 app-basics-update-history = היסטוריית עדכונים
 app-basics-show-update-history = הצגת היסטוריית עדכונים
 app-basics-profile-dir =
@@ -50,7 +56,7 @@ app-basics-profiles = פרופילים
 app-basics-multi-process-support = חלונות מרובי תהליכים
 app-basics-process-count = תהליכי תוכן רשת
 app-basics-enterprise-policies = ערכות מדיניות ארגוניות
-app-basics-key-google = מפתח עבור שירותי Google
+app-basics-location-service-key-google = מפתח עבור שירותי המיקום של Google
 app-basics-key-mozilla = מפתח עבור שירותי המיקום של Mozilla
 app-basics-safe-mode = מצב בטוח
 show-dir-label =
@@ -237,12 +243,12 @@ launcher-process-status-unknown = מצב לא ידוע
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = הופעל ע״י המשתמש
+multi-process-status-0 = הופעל על־ידי המשתמש
 multi-process-status-1 = הופעל כבררת מחדל
 multi-process-status-2 = מנוטרל
 multi-process-status-4 = נוטרל עקב כלי נגישות
 multi-process-status-6 = נוטרל עקב קלט טקסט לא נתמך
-multi-process-status-7 = נוטרל ע״י תוספות
+multi-process-status-7 = נוטרל על־ידי תוספות
 multi-process-status-8 = נוטרל בכוח
 multi-process-status-unknown = מצב לא ידוע
 apz-none = אין

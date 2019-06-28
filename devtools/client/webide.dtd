@@ -36,11 +36,10 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "ל">
 <!ENTITY runtimeMenu_showDetails_label "מידע זמן ריצה">
 <!ENTITY runtimeMenu_showDetails_accesskey "מ">
-<!ENTITY runtimeMenu_showDevicePrefs_label "העדפות התקן">
+<!ENTITY runtimeMenu_showDevicePrefs_label "העדפות מכשיר">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "ת">
-<!ENTITY runtimeMenu_showSettings_label "הגדרות התקן">
+<!ENTITY runtimeMenu_showSettings_label "הגדרות מכשיר">
 <!ENTITY runtimeMenu_showSettings_accesskey "ג">
-
 <!ENTITY runtimeMenu_showPerformancePanel_label "ביצועים">
 <!ENTITY runtimeMenu_showPerformancePanel_accesskey "ב">
 
@@ -77,8 +76,7 @@
 <!ENTITY runtimePanel_usb "התקני USB">
 <!ENTITY runtimePanel_wifi "התקני Wi-Fi">
 <!ENTITY runtimePanel_other "אחר">
-<!ENTITY runtimePanel_noadbhelper "התקנת מסייע ADB">
-<!ENTITY runtimePanel_nousbdevice "ההתקן שלך לא מופיע ברשימה?">
+<!ENTITY runtimePanel_nousbdevice "המכשיר שלך לא מופיע ברשימה?">
 <!ENTITY runtimePanel_refreshDevices_label "רענון התקנים">
 
 <!-- Lense -->
@@ -120,12 +118,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "מידע זמן ריצה">
-<!ENTITY runtimedetails_adbIsRoot "ADB במצב root: ">
-<!ENTITY runtimedetails_summonADBRoot "התקן root">
-<!ENTITY runtimedetails_ADBRootWarning "(נדרש טוען אתחול לא נעול)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "הרשאות DevTools ללא הגבלה: ">
-<!ENTITY runtimedetails_requestPrivileges "לבקש הרשאות גבוהות">
-<!ENTITY runtimedetails_privilegesWarning "(תבוצע הפעלה מחדש להתקן. נדרשת גישת root)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "בוליאני">
@@ -135,14 +127,14 @@
 <!ENTITY device_typenone "בחירת סוג">
 
 <!-- Device Preferences -->
-<!ENTITY devicepreference_title "העדפות התקן">
+<!ENTITY devicepreference_title "העדפות מכשיר">
 <!ENTITY devicepreference_search "חיפוש העדפות">
 <!ENTITY devicepreference_newname "שם העדפה חדשה">
 <!ENTITY devicepreference_newtext "ערך העדפה">
 <!ENTITY devicepreference_addnew "הוספת העדפה חדשה">
 
 <!-- Device Settings -->
-<!ENTITY devicesetting_title "הגדרות התקן">
+<!ENTITY devicesetting_title "הגדרות מכשיר">
 <!ENTITY devicesetting_search "הגדרות חיפוש">
 <!ENTITY devicesetting_newname "שם ההגדרה החדשה">
 <!ENTITY devicesetting_newtext "ערך ההגדרה">
@@ -155,7 +147,7 @@
 <!ENTITY wifi_auth_header "זיהוי לקוח">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
-<!ENTITY wifi_auth_scan_request "נקודת הקצה אליה מתבצע החיבור דורשת יותר מידע כדי לאמת את החיבור הזה. נא לסרוק את קוד ה־QR שלהלן באמצעות הבקשה שבהתקן השני שלך.">
+<!ENTITY wifi_auth_scan_request "נקודת הקצה אליה מתבצע החיבור דורשת יותר מידע כדי לאמת את החיבור הזה.  נא לסרוק את קוד ה־QR שלהלן באמצעות הבקשה שבמכשיר השני שלך.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
 <!ENTITY wifi_auth_no_scanner "אין הודעה על סריקת QR?">
@@ -164,7 +156,7 @@
 <!ENTITY wifi_auth_yes_scanner "מופיעה בפניך הצעה לסריקת QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
-<!ENTITY wifi_auth_token_request "אם ההתקן האחר שלך מבקש ממך אסימון במקום סריקת קוד QR, נא להעתיק את הערך שלהלן להתקן השני:">
+<!ENTITY wifi_auth_token_request "אם המכשיר האחר שלך מבקש ממך אסימון במקום סריקת קוד QR, נא להעתיק את הערך שלהלן למכשיר השני:">
 <!ENTITY wifi_auth_qr_size_note "אם קוד ה־QR קטן מכדי שהקמת החיבור תצליח, ניתן לנסות להתקרב או להגדיל את החלון.">
 
 <!-- Logs panel -->

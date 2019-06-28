@@ -79,6 +79,9 @@ detail-version =
 detail-last-updated =
     .label = עודכן לאחרונה
 detail-contributions-description = המפתחים של תוספת זו מבקשים את עזרתך בהמשך הפיתוח שלה על־ידי מתן תרומה צנועה.
+detail-contributions-button = תרומה
+    .title = מתן תרומה לפיתוח תוספת זו
+    .accesskey = ת
 detail-update-type =
     .value = עדכונים אוטומטיים
 detail-update-default =
@@ -92,7 +95,14 @@ detail-update-manual =
     .tooltiptext = אל תתקין עדכונים אוטומטית
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = הפעלה בחלונות פרטיים
-detail-private-browsing-description = ההרחבה תפעל בחלונות פרטיים, ותהיה לה גישה לפעילויות המקוונות שלך. <label data-l10n-name="detail-private-browsing-learn-more">מידע נוסף</label>
+detail-private-browsing-description2 = כאשר אפשרות זו מופעלת, להרחבה תהיה גישה לפעילויות המקוונות שלך בזמן גלישה פרטית. <label data-l10n-name="detail-private-browsing-learn-more">מידע נוסף</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overridden by the user.
+detail-private-disallowed-label = לא מופעלת בחלונות פרטיים
+detail-private-disallowed-description = הרחבה זו לא פועלת בזמן גלישה פרטית. <label data-l10n-name="detail-private-browsing-learn-more">מידע נוסף</label>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = דורשת גישה לחלונות פרטיים
+detail-private-required-description = להרחבה זו יש גישה לפעילויות  המקוונות שלך בזמן גלישה פרטית. <label data-l10n-name="detail-private-browsing-learn-more">מידע נוסף</label>
 detail-private-browsing-on =
     .label = לאפשר
     .tooltiptext = הפעלה בגלישה פרטית
@@ -141,10 +151,15 @@ legacy-warning-show-legacy = הצגת הרחבות דור קודם
 legacy-extensions =
     .value = הרחבות מדור קודם
 legacy-extensions-description = הרחבות אלו לא עומדות בתקנים הנוכחיים של { -brand-short-name } ולכן כובו. <label data-l10n-name="legacy-learn-more">מידע נוסף על השינויים בתוספות</label>
-private-browsing-description = הרחבות אינן מורשות לפעול כברירת מחדל בחלונות פרטיים. זה אומר שהן לא יעבדו תוך כדי גלישה פרטית, ולא תהיה להן גישה לפעילויות המקוונות שלך שם. כדי לאפשר להרחבה לפעול בחלונות פרטיים, יש לבחור בכרטיס ההרחבה להלן ולשנות את ההגדרה. <label data-l10n-name="private-browsing-learn-more">מידע נוסף</label>
+private-browsing-description2 =
+    ‏{ -brand-short-name } משנה את האופן שבו הרחבות פועלות בגלישה פרטית. כל הרחבה חדשה שתתווסף אל { -brand-short-name } לא תרוץ כברירת מחדל בחלונות פרטיים. כל עוד אפשרות זו לא תופעל בהגדרות, ההרחבה לא תפעל בזמן גלישה פרטית, ולא תהיה לה גישה לפעילויות המקוונות שלך שם. עשינו את השינוי הזה כדי לשמור על הגלישה הפרטית שלך פרטית.
+    <label data-l10n-name="private-browsing-learn-more">מידע נוסף על ניהול הגדרות הרחבות.</label>
 extensions-view-discover =
     .name = קבלת תוספות
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = המלצות
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = עדכונים אחרונים
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -225,8 +240,8 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = ניהול קיצורי דרך להרחבות
     .accesskey = נ
-shortcuts-empty-message = אין קיצורי דרך עבור הרחבה זו.
 shortcuts-no-addons = אין לך הרחבות מופעלות.
+shortcuts-no-commands = להרחבות הבאות אין קיצורי דרך:
 shortcuts-input =
     .placeholder = נא להקליד קיצור דרך
 shortcuts-browserAction = הפעלת הרחבה
@@ -237,6 +252,10 @@ shortcuts-modifier-other = יש לכלול Ctrl או Alt
 shortcuts-invalid = שילוב לא חוקי
 shortcuts-letter = נא להקליד אות
 shortcuts-system = לא ניתן לדרוס קיצור דרך של { -brand-short-name }
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = כבר בשימוש על־ידי { $addon }
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] הצגת אחד נוסף
@@ -245,3 +264,102 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = הצגת פחות
 go-back-button =
     .tooltiptext = חזרה אחורה
+
+## Recommended add-ons page
+
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro = הרחבות הן כמו יישומים לדפדפן שלך, ומאפשרות לך להגן על ססמאות, להוריד סרטונים, למצוא מבצעים, לחסום פרסומות מציקות, לשנות את תצוגת הדפדפן שלך ועוד. היישומים הקטנים האלו לרוב מפותחים על־ידי גורמי צד־שלישי. להלן מבחר הרחבות ש־{ -brand-product-name } <a data-l10n-name="learn-more-trigger">ממליצה</a> עליהן בגלל האבטחה, הביצועים והפונקציונליות יוצאת הדופן שלהן.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations = חלק מהמלצות אלה מותאמות אישית. הן מבוססות על הרחבות אחרות שהתקנת, העדפות פרופיל וסטטיסטיקת שימוש.
+discopane-notice-learn-more = מידע נוסף
+privacy-policy = מדיניות פרטיות
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = מאת <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = משתמשים: { $dailyUsers }
+install-extension-button = הוספה אל { -brand-product-name }
+install-theme-button = התקנת ערכת נושא
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = ניהול
+find-more-addons = חיפוש תוספות נוספות
+
+## Add-on actions
+
+report-addon-button = דיווח
+remove-addon-button = הסרה
+disable-addon-button = השבתה
+enable-addon-button = הפעלה
+expand-addon-button = אפשרויות נוספות
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] אפשרויות
+       *[other] העדפות
+    }
+details-addon-button = פרטים
+release-notes-addon-button = הערות שחרור
+permissions-addon-button = הרשאות
+addons-enabled-heading = מופעלות
+addons-disabled-heading = מושבתות
+ask-to-activate-button = בקשת אישור להפעלה
+always-activate-button = הפעלה תמיד
+never-activate-button = לא להפעיל לעולם
+addon-detail-author-label = מפתח
+addon-detail-version-label = גרסה
+addon-detail-last-updated-label = עדכון אחרון
+addon-detail-homepage-label = דף הבית
+addon-detail-rating-label = דירוג
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = דירוג { NUMBER($rating, maximumFractionDigits: 1) } מתוך 5
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = ‏{ $name } (מושבת)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] סקירה אחת
+       *[other] { $numberOfReviews } סקירות
+    }
+
+## Pending uninstall message bar
+
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = התוספת { $addon } הוסרה.
+pending-uninstall-undo-button = ביטול
+addon-detail-updates-label = עדכונים אוטומטיים
+addon-detail-updates-radio-default = ברירת מחדל
+addon-detail-updates-radio-on = פעיל
+addon-detail-updates-radio-off = כבוי
+addon-detail-update-check-label = בדיקת עדכונים
+install-update-button = עדכון
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = מופעלת בחלונות פרטיים
+addon-detail-private-browsing-help = אם אפשרות זו מופעלת, להרחבה תהיה גישה לפעילויות המקוונות שלך בזמן גלישה פרטית. <a data-l10n-name="learn-more">מידע נוסף</a>
+addon-detail-private-browsing-allow = לאפשר
+addon-detail-private-browsing-disallow = לא לאפשר
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = מומלצת
+    .alt = מומלצת
+available-updates-heading = עדכונים זמינים
+recent-updates-heading = עדכונים אחרונים
+release-notes-loading = בטעינה…
+release-notes-error = מצטערים, אירעה שגיאה במהלך טעינת הערות השחרור.
+addon-permissions-empty = לתוספת זו אינן נדרשות הרשאות
+recommended-extensions-heading = הרחבות מומלצות
+recommended-themes-heading = ערכות נושא מומלצות
