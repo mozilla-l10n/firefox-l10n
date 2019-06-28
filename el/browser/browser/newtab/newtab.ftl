@@ -53,6 +53,16 @@ newtab-confirm-delete-history-p2 = Αυτή η ενέργεια δεν μπορ�
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Άνοιγμα μενού
+    .aria-label = Άνοιγμα μενού
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Άνοιγμα μενού
+    .aria-label = Άνοιγμα μενού επιλογών για το { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Επεξεργασία ιστοσελίδας
@@ -138,7 +148,9 @@ newtab-empty-section-topstories = Δεν υπάρχει κάτι νεότερο.
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Δημοφιλή θέματα:
 newtab-pocket-more-recommendations = Περισσότερες προτάσεις
+newtab-pocket-how-it-works = Πώς λειτουργεί
 newtab-pocket-cta-button = Αποκτήστε το { -pocket-brand-name }
+newtab-pocket-cta-text = Αποθηκεύστε τις ιστορίες που αγαπάτε στο { -pocket-brand-name } και τροφοδοτήστε το μυαλό σας με εκπληκτικά κείμενα.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
