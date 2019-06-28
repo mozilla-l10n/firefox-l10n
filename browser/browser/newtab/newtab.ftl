@@ -26,11 +26,15 @@ newtab-search-box-search-the-web-input =
 newtab-topsites-add-search-engine-header = បន្ថែម​ម៉ាស៊ីន​ស្វែងរក
 newtab-topsites-add-topsites-header = សាយកំពូលថ្មី
 newtab-topsites-edit-topsites-header = កែសម្រួលសាយកំពូល
+newtab-topsites-title-label = ចំណង​ជើង
 newtab-topsites-title-input =
     .placeholder = បញ្ចូលចំណងជើង
+newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = វាយបញ្ចូល ឬបិទភ្ជាប់ URL
 newtab-topsites-url-validation = ត្រូវការ URL ដែលត្រឹមត្រូវ
+newtab-topsites-image-url-label = URL រូបភាពផ្ទាល់ខ្លួន
+newtab-topsites-use-image-link = ប្រើ​ប្រាស់​រូបភាព​ផ្ទាល់ខ្លួន...
 newtab-topsites-image-validation = មិន​អាច​ផ្ទុក​រូបភាព​បាន​ទេ។ សាកល្បង URL ផ្សេង។
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
@@ -38,6 +42,7 @@ newtab-topsites-image-validation = មិន​អាច​ផ្ទុក​រ
 newtab-topsites-cancel-button = បោះបង់
 newtab-topsites-delete-history-button = លុប​ពី​ប្រវត្តិ
 newtab-topsites-save-button = រក្សាទុក
+newtab-topsites-preview-button = មើល​សាកល្បង
 newtab-topsites-add-button = បន្ថែម
 
 ## Top Sites - Delete history confirmation dialog. 
