@@ -24,16 +24,26 @@ newtab-search-box-search-the-web-input =
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Tambahkan Mesin Pencari
+newtab-topsites-add-topsites-header = Situs Pilihan Baru
+newtab-topsites-edit-topsites-header = Ubah Situs Pilihan
 newtab-topsites-title-label = Judul
+newtab-topsites-title-input =
+    .placeholder = Masukkan judul
 newtab-topsites-url-label = URL
+newtab-topsites-url-input =
+    .placeholder = Ketik atau tempel URL
+newtab-topsites-url-validation = URL valid diperlukan
 newtab-topsites-image-url-label = URL Gambar Khusus
 newtab-topsites-use-image-link = Gunakan gambar khusus…
 newtab-topsites-image-validation = Gambar gagal dimuat. Coba URL lain.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
+newtab-topsites-cancel-button = Batalkan
 newtab-topsites-delete-history-button = Hapus dari Riwayat
+newtab-topsites-save-button = Simpan
 newtab-topsites-preview-button = Pratinjau
+newtab-topsites-add-button = Tambah
 
 ## Top Sites - Delete history confirmation dialog. 
 
@@ -56,6 +66,7 @@ newtab-menu-open-new-window = Buka di Jendela Baru
 newtab-menu-open-new-private-window = Buka di Jendela Penjelajahan Pribadi Baru
 newtab-menu-dismiss = Tutup
 newtab-menu-delete-history = Hapus dari Riwayat
+newtab-menu-save-to-pocket = Simpan ke { -pocket-brand-name }
 newtab-menu-delete-pocket = Hapus dari { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Hapus Markah
@@ -78,6 +89,7 @@ newtab-menu-remove-download = Hapus dari Riwayat
 
 newtab-label-visited = Dikunjungi
 newtab-label-bookmarked = Dimarkahi
+newtab-label-recommended = Trending
 newtab-label-saved = Disimpan di { -pocket-brand-name }
 
 ## Section Menu: These strings are displayed in the section context menu and are 
@@ -98,6 +110,8 @@ newtab-section-header-topsites = Situs Teratas
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = Topik Populer:
 newtab-pocket-more-recommendations = Rekomendasi Lainnya
 newtab-pocket-how-it-works = Panduan
 newtab-pocket-cta-button = Dapatkan { -pocket-brand-name }
