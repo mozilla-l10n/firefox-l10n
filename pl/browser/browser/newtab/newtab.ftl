@@ -15,31 +15,65 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Szukaj
     .aria-label = Szukaj
+newtab-search-box-search-the-web-text = Szukaj w Internecie
+newtab-search-box-search-the-web-input =
+    .placeholder = Szukaj w Internecie
+    .title = Szukaj w Internecie
+    .aria-label = Szukaj w Internecie
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Dodaj wyszukiwarkę
+newtab-topsites-add-topsites-header = Dodawanie strony do sekcji Popularne
+newtab-topsites-edit-topsites-header = Edycja strony z sekcji Popularne
 newtab-topsites-title-label = Tytuł
+newtab-topsites-title-input =
+    .placeholder = Tytuł strony
+newtab-topsites-url-label = Adres URL
+newtab-topsites-url-input =
+    .placeholder = Adres strony
+newtab-topsites-url-validation = Wymagany jest prawidłowy adres URL
+newtab-topsites-image-url-label = Własny obraz
+newtab-topsites-use-image-link = Użyj własnego obrazu…
 newtab-topsites-image-validation = Wczytanie obrazu się nie powiodło. Spróbuj innego adresu.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Anuluj
 newtab-topsites-delete-history-button = Usuń z historii
+newtab-topsites-save-button = Zachowaj
 newtab-topsites-preview-button = Podgląd
 newtab-topsites-add-button = Dodaj
 
 ## Top Sites - Delete history confirmation dialog. 
 
+newtab-confirm-delete-history-p1 = Czy na pewno usunąć wszystkie wizyty na tej stronie z historii?
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = Tej czynności nie można cofnąć.
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Otwórz menu
+    .aria-label = Otwórz menu
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Otwórz menu
+    .aria-label = Otwórz menu kontekstowe „{ $title }”
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = Edytuj stronę
+    .aria-label = Edytuj stronę
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Edytuj
 newtab-menu-open-new-window = Otwórz w nowym oknie
 newtab-menu-open-new-private-window = Otwórz w nowym oknie prywatnym
+newtab-menu-dismiss = Usuń z tej sekcji
 newtab-menu-pin = Przypnij
 newtab-menu-unpin = Odepnij
 newtab-menu-delete-history = Usuń z historii
@@ -62,13 +96,22 @@ newtab-menu-remove-download = Usuń z historii
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Pokaż w Finderze
+       *[other] Otwórz folder nadrzędny
+    }
 newtab-menu-open-file = Otwórz plik
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
 ## the page is bookmarked, or is currently open on another device.
 
+newtab-label-visited = Z odwiedzonych
+newtab-label-bookmarked = Z zakładek
 newtab-label-recommended = Na czasie
+newtab-label-saved = Z { -pocket-brand-name }
+newtab-label-download = Z pobranych
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
@@ -77,16 +120,24 @@ newtab-section-menu-remove-section = Usuń sekcję
 newtab-section-menu-collapse-section = Zwiń sekcję
 newtab-section-menu-expand-section = Rozwiń sekcję
 newtab-section-menu-manage-section = Zarządzaj sekcją
+newtab-section-menu-manage-webext = Zarządzaj rozszerzeniem
+newtab-section-menu-add-topsite = Dodaj stronę do popularnych
 newtab-section-menu-add-search-engine = Dodaj wyszukiwarkę
+newtab-section-menu-move-up = Przesuń w górę
+newtab-section-menu-move-down = Przesuń w dół
 newtab-section-menu-privacy-notice = Prywatność
 
 ## Section Headers.
 
 newtab-section-header-topsites = Popularne
 newtab-section-header-highlights = Wyróżnione
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = Polecane przez { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = Zacznij przeglądać Internet, a pojawią się tutaj świetne artykuły, filmy oraz inne ostatnio odwiedzane strony i dodane zakładki.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -94,7 +145,15 @@ newtab-empty-section-topstories = To na razie wszystko. { $provider } później 
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = Popularne treści:
+newtab-pocket-more-recommendations = Więcej polecanych
+newtab-pocket-how-it-works = Jak to działa?
+newtab-pocket-cta-button = Pobierz { -pocket-brand-name }
+newtab-pocket-cta-text = Zachowuj historie w { -pocket-brand-name }, aby wrócić później do ich lektury.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = Coś się nie powiodło podczas wczytywania tej treści
+newtab-error-fallback-refresh-link = Odśwież stronę, by spróbować ponownie
