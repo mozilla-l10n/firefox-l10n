@@ -23,6 +23,7 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Dodaj tražilicu
 newtab-topsites-add-topsites-header = Nova najbolja stranica
 newtab-topsites-edit-topsites-header = Uredi najbolju stranicu
 newtab-topsites-title-label = Naslov
@@ -32,6 +33,8 @@ newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Utipkajte ili zalijepite URL
 newtab-topsites-url-validation = Potrebno je unijeti ispravan URL
+newtab-topsites-image-url-label = Prilagođeni URL slike
+newtab-topsites-use-image-link = Koristi prilagođenu sliku…
 newtab-topsites-image-validation = Neuspjelo učitavanje slike. Pokušajte drugi URL.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
@@ -50,6 +53,16 @@ newtab-confirm-delete-history-p2 = Ova radnja je nepovratna.
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Otvori izbornik
+    .aria-label = Otvori izbornik
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Otvori izbornik
+    .aria-label = Otvorite kontekstni izbornik za { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Uredi ovu stranicu
@@ -107,6 +120,9 @@ newtab-section-menu-remove-section = Ukloni odjel
 newtab-section-menu-collapse-section = Skupi odjel
 newtab-section-menu-expand-section = Proširi odjel
 newtab-section-menu-manage-section = Upravljanje odjelom
+newtab-section-menu-manage-webext = Upravljanje dodatkom
+newtab-section-menu-add-topsite = Dodaj najbolju stranicu
+newtab-section-menu-add-search-engine = Dodaj tražilicu
 newtab-section-menu-move-up = Pomakni gore
 newtab-section-menu-move-down = Pomakni dolje
 newtab-section-menu-privacy-notice = Politika privatnosti
@@ -132,9 +148,12 @@ newtab-empty-section-topstories = Provjerite kasnije za više najpopularnijih pr
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Popularne teme:
 newtab-pocket-more-recommendations = Više preporuka
+newtab-pocket-how-it-works = Kako ovo funkcionira
+newtab-pocket-cta-button = Nabavite { -pocket-brand-name }
 newtab-pocket-cta-text = Spremite priče koje vam se sviđaju u { -pocket-brand-name } i napajajte vaš um s vrhunskim štivom.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-info = Došlo je do greške prilikom učitavanja ovog sadržaja.
+newtab-error-fallback-refresh-link = Osvježite stranicu da biste pokušali ponovno.
