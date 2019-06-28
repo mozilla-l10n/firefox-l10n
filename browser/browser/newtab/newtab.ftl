@@ -45,6 +45,9 @@ newtab-topsites-add-button = ਜੋੜੋ
 
 ## Top Sites - Delete history confirmation dialog. 
 
+newtab-confirm-delete-history-p1 = ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਆਪਣੇ ਅਤੀਤ ਵਿੱਚ ਇਸ ਪੰਨੇ ਦੀ ਹਰੇਕ ਉਦਾਹਰਨ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = ਇਕ ਕਾਰਵਾਈ ਨੂੰ ਅਣਕੀਤਾ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ।
 
 ## Context Menu - Action Tooltips.
 
@@ -60,7 +63,11 @@ newtab-menu-open-new-window = ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਖੋ�
 newtab-menu-open-new-private-window = ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ
 newtab-menu-dismiss = ਰੱਦ ਕਰੋ
 newtab-menu-pin = ਟੰਗੋ
+newtab-menu-unpin = ਅਨਪਿੰਨ ਕਰੋ
 newtab-menu-delete-history = ਅਤੀਤ ਵਿੱਚੋਂ ਹਟਾਓ
+newtab-menu-save-to-pocket = { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲੋ
+newtab-menu-delete-pocket = { -pocket-brand-name } ਤੋਂ ਮਿਟਾਓ
+newtab-menu-archive-pocket = { -pocket-brand-name } ਵਿੱਚ ਪੁਰਾਲੇਖਬੱਧ ਕਰੋ
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = ਬੁੱਕਮਾਰਕ ਨੂੰ ਹਟਾਓ
 # Bookmark is a verb here.
@@ -90,6 +97,8 @@ newtab-menu-open-file = ਫਾਈਲ ਖੋਲ੍ਹੋ
 
 newtab-label-visited = ਖੋਲ੍ਹੀਆਂ
 newtab-label-bookmarked = ਬੁੱਕਮਾਰਕ ਕੀਤੀਆਂ
+newtab-label-recommended = ਪ੍ਰਚਲਿਤ
+newtab-label-saved = { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲਿਆ ਗਿਆ
 newtab-label-download = ਡਾਊਨਲੋਡ ਕਰੋ
 
 ## Section Menu: These strings are displayed in the section context menu and are 
