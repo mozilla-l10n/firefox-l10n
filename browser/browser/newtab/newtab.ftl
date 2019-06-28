@@ -28,7 +28,10 @@ newtab-topsites-edit-topsites-header = शीर्ष साइट सम्प
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
+newtab-topsites-cancel-button = रद्द गर्नुहोस्
 newtab-topsites-delete-history-button = इतिहासबाट मेट्नुहोस्
+newtab-topsites-save-button = सङ्ग्रह गर्नुहोस्
+newtab-topsites-add-button = थप्नुहोस्
 
 ## Top Sites - Delete history confirmation dialog. 
 
@@ -82,6 +85,7 @@ newtab-label-recommended = प्रचलनमा
 ## Section Headers.
 
 newtab-section-header-topsites = शीर्ष साइटहरु
+newtab-section-header-highlights = विशेषताहरू
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } द्वारा सिफारिस गरिएको
