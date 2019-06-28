@@ -10,12 +10,18 @@
 
 # Page title (ie tab title) for the Setup page
 about-debugging-page-title-setup-page = ניפוי שגיאות - הקמה
+# Page title (ie tab title) for the Runtime page
+# { $selectedRuntimeId } is the id of the current runtime, such as "this-firefox", "localhost:6080", ...
+about-debugging-page-title-runtime-page = ניפוי שגיאות - סביבת ריצה / { $selectedRuntimeId }
 
 # Sidebar strings
 
 # Display name of the runtime for the currently running instance of Firefox. Used in the
 # Sidebar and in the Setup page.
 about-debugging-this-firefox-runtime-name = ‏{ -brand-shorter-name } זה
+# Sidebar heading for selecting the currently running instance of Firefox
+about-debugging-sidebar-this-firefox =
+    .name = { about-debugging-this-firefox-runtime-name }
 # Sidebar heading for connecting to some remote source
 about-debugging-sidebar-setup =
     .name = הקמה
@@ -40,11 +46,43 @@ about-debugging-sidebar-item-connect-button-connection-timeout = תם הזמן �
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = מחובר
+# Text displayed in sidebar items for remote devices where a compatible browser (eg
+# Firefox) has not been detected yet. Typically, Android phones connected via USB with
+# USB debugging enabled, but where Firefox is not started.
+about-debugging-sidebar-runtime-item-waiting-for-browser = בהמתנה לדפדפן…
+# Text displayed in sidebar items for remote devices that have been disconnected from the
+# computer.
+about-debugging-sidebar-runtime-item-unplugged = מנותק
+# Title for runtime sidebar items that are related to a specific device (USB, WiFi).
+about-debugging-sidebar-runtime-item-name =
+    .title = { $displayName } ({ $deviceName })
+# Title for runtime sidebar items where we cannot get device information (network
+# locations).
+about-debugging-sidebar-runtime-item-name-no-device =
+    .title = { $displayName }
+# Text to show in the footer of the sidebar that links to a help page
+# (currently: https://developer.mozilla.org/docs/Tools/about:debugging)
+about-debugging-sidebar-support = תמיכה בניפוי שגיאות
+# Text to show as the ALT attribute of a help icon that accompanies the help about
+# debugging link in the footer of the sidebar
+about-debugging-sidebar-support-icon =
+    .alt = סמל עזרה
+# Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
+# will attempt to update the list of devices displayed in the sidebar.
+about-debugging-refresh-usb-devices-button = רענון מכשירים
 
 # Setup Page strings
 
+# Title of the Setup page.
+about-debugging-setup-title = הקמה
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = הגדרת שיטת החיבור שתשמש אותך לניפוי שגיאות מרחוק מול המכשיר שלך.
+# Title of the heading Connect section of the Setup page.
+about-debugging-setup-connect-heading = חיבור מכשיר
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = הפעלת אפשרות זו תוריד ותוסיף את רכיבי ניפוי השגיאות הנדרשים לטובת ניפוי שגיאות בעזרת Android אל { -brand-shorter-name }.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = הפעלת התקני USB
@@ -57,9 +95,17 @@ about-debugging-setup-usb-updating-button = בעדכון…
 about-debugging-setup-usb-status-enabled = מופעל
 about-debugging-setup-usb-status-disabled = מושבת
 about-debugging-setup-usb-status-updating = בעדכון…
+# USB section step by step guide
+about-debugging-setup-usb-step-plug-device = לחבר את מכשיר ה־Android שלך למחשב שלך.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = בעיות בחיבור להתקן ה־USB? <a>פתרון בעיות</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = מיקום רשת
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = בעיות בחיבור דרך מיקום רשת? <a>פתרון בעיות</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = הוספה
@@ -72,6 +118,14 @@ about-debugging-network-locations-host-input-label = מארח
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = הסרה
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = מארח שגוי „{ $host-value }”. התבנית הנדרשת היא „שם_מארח:מספר_פתחה”.
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = המארח „{ $host-value }” כבר נרשם
 
 # Runtime Page strings
 
@@ -98,6 +152,22 @@ about-debugging-runtime-other-workers =
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = תהליכים
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button2 = פרופיל ביצועים
+# This string is displayed in the runtime page if the current configuration of the
+# target runtime is incompatible with service workers. "Learn more" points to MDN.
+# https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
+about-debugging-runtime-service-workers-not-compatible = תצורת הדפדפן שלך אינה תואמת ל־Service Workers. <a>מידע נוסף</a>
+# This string is displayed in the runtime page if the remote browser version is too old.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-browser-version-too-old = הדפדפן המחובר הוא בגרסה ישנה ({ $runtimeVersion }). הגרסה המינימלית ביותר הנתמכת היא ({ $minVersion }). תצורה זו אינה נתמכת ועשויה לגרום לכשל בכלי הפיתוח. נא לעדכן את הדפדפן המחובר. <a>פתרון בעיות</a>
+# Displayed for runtime info in runtime pages.
+# { $name } is brand name such as "Firefox Nightly"
+# { $version } is version such as "64.0a1"
+about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = התנתקות
@@ -118,12 +188,21 @@ about-debugging-debug-target-inspect-button = חקירה
 # Text of a button displayed in the "This Firefox" page, in the Temporary Extension
 # section. Clicking on the button will open a file picker to load a temporary extension
 about-debugging-tmp-extension-install-button = טעינת תוספת זמנית…
+# Text displayed when trying to install a temporary extension in the "This Firefox" page.
+about-debugging-tmp-extension-install-error = אירעה שגיאה במהלך התקנת ההרחבה הזמנית.
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = טעינה מחדש
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = הסרה
+# Message displayed in the file picker that opens to select a temporary extension to load
+# (triggered by the button using "about-debugging-tmp-extension-install-button")
+# manifest.json .xpi and .zip should not be localized.
+# Note: this message is only displayed in Windows and Linux platforms.
+about-debugging-tmp-extension-install-message = נא לבחור בקובץ manifest.json או בארכיון ‎.xpi/.zip
+# This string is displayed as a message about the add-on having a temporaryID.
+about-debugging-tmp-extension-temporary-id = ל־WebExtension זה יש מזהה זמני. <a>מידע נוסף</a>
 # Text displayed for extensions in "runtime" pages, before displaying the extension's uuid.
 # UUIDs look like b293e463-481e-5148-a487-5aaf7a130429
 about-debugging-extension-uuid =
@@ -157,3 +236,9 @@ about-debugging-main-process-name = תהליך ראשי
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = סגירת הודעה
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = פרטי שגיאה
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = פרטי אזהרה
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = פרטים

@@ -32,7 +32,7 @@
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "האתר הבא עלול להכיל תוכניות מזיקות">
-<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; חסם דף זה מכיוון שהוא עלול להערים עליך ולגרום לך להתקין תוכניות שמזיקות לחווית הגלישה שלך (למשל ע״י שינוי דף הבית שלך או הצגת פרסומות נוספות באתרים).">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; חסם דף זה מכיוון שהוא עלול להערים עליך ולגרום לך להתקין תוכניות שמזיקות לחווית הגלישה שלך (למשל על־ידי שינוי דף הבית שלך או הצגת פרסומות נוספות באתרים).">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
@@ -55,7 +55,7 @@
 
 
 <!ENTITY safeb.blocked.harmfulPage.title "האתר הבא עלול להכיל נוזקה">
-<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; חסם דף זה מכיוון שהוא עלול לנסות להתקן יישומים מסוכנים הגונבים או מוחקים את המידע שלך (כמו תמונות, ססמאות, הודעות וכרטיסי אשראי).">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; חסם דף זה מכיוון שהוא עלול לנסות להתקין יישומים מסוכנים הגונבים או מוחקים את המידע שלך (כמו תמונות, ססמאות, הודעות וכרטיסי אשראי).">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 <!ENTITY safeb.blocked.harmfulPage.errorDesc.override "האתר <span id='harmful_sitename'/> <a id='error_desc_link'>דווח כאחד המכיל יישום שככל הנראה מזיק</a>. באפשרותך <a id='ignore_warning_link'>להתעלם מהסיכון</a> ולהמשיך לאתר הלא בטוח הזה.">

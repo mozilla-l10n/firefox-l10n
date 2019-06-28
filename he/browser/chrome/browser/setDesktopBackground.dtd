@@ -8,8 +8,14 @@
 <!ENTITY stretch.label              "מתוח">
 <!ENTITY fill.label                 "מילוי">
 <!ENTITY fit.label                  "התאמה">
-<!ENTITY preview.label              "תצוגה מקדימה">
+<!-- LOCALIZATION NOTE (span.label): This refers to the wallpaper "spanning"
+                       multiple monitors when the user has more than one. Only
+                       some of the entire image will be on each monitor.
+                       This should ideally match the wording in Windows' own
+                       Desktop Background settings page. -->
+<!ENTITY span.label                 "פרישה">
 <!ENTITY color.label                "צבע:">
 <!ENTITY setDesktopBackground.title "קביעה כרקע שולחן העבודה">
 <!ENTITY openDesktopPrefs.label     "פתיחת מאפייני שולחן עבודה">
 <!ENTITY closeWindow.key            "w">
+<!ENTITY previewUnavailable         "התצוגה המקדימה אינה זמינה">

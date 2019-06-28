@@ -8,7 +8,7 @@
   - -->
 
 <!ENTITY title      "התחברות">
-<!ENTITY header     "התחברות להתקן מרוחק">
+<!ENTITY header     "התחברות למכשיר מרוחק">
 <!ENTITY host       "שרת מארח:">
 <!ENTITY port       "שער:">
 <!ENTITY connect    "התחברות">
@@ -24,7 +24,7 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-<!ENTITY remoteHelp "Firefox Developer Tools יכול לנפות שגיאות בהתקנים מרוחקים (Firefox עבור Android ו־Firefox OS, לדוגמה). עליך לוודא כי הפעלת את האפשרות 'ניפוי שגיאות מרוחק' בהתקן המרוחק. למידע נוסף, נא לעיין ">
+<!ENTITY remoteHelp "Firefox Developer Tools יכול לנפות שגיאות במכשירים מרוחקים (Firefox עבור Android ו־Firefox OS, לדוגמה). עליך לוודא כי הפעלת את האפשרות ‘ניפוי שגיאות מרוחק’ במכשיר המרוחק. למידע נוסף, נא לעיין ">
 <!ENTITY remoteDocumentation "בתיעוד">
 <!ENTITY remoteHelpSuffix ".">
 
