@@ -6,6 +6,8 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Neuer Tab
+newtab-settings-button =
+    .title = Einstellungen für neue Tabs anpassen
 
 ## Search box component.
 
@@ -21,8 +23,14 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-topsites-header = Neue wichtige Seite
+newtab-topsites-edit-topsites-header = Wichtige Seite bearbeiten
 newtab-topsites-title-label = Titel
+newtab-topsites-title-input =
+    .placeholder = Name eingeben
 newtab-topsites-url-label = Adresse
+newtab-topsites-url-input =
+    .placeholder = Eine Adresse eingeben oder einfügen
 newtab-topsites-use-image-link = Eine benutzerdefinierte Grafik verwenden…
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
@@ -51,7 +59,9 @@ newtab-menu-topsites-placeholder-tooltip =
 newtab-menu-edit-topsites = Bearbeiten
 newtab-menu-open-new-window = In neuem Fenster öffnen
 newtab-menu-open-new-private-window = In neuem privaten Fenster öffnen
+newtab-menu-dismiss = Entfernen
 newtab-menu-pin = Anheften
+newtab-menu-unpin = Ablösen
 newtab-menu-delete-history = Aus Chronik löschen
 newtab-menu-save-to-pocket = Bei { -pocket-brand-name } speichern
 newtab-menu-delete-pocket = Aus { -pocket-brand-name } löschen
@@ -85,6 +95,7 @@ newtab-menu-open-file = Datei öffnen
 
 newtab-label-visited = Besucht
 newtab-label-bookmarked = Lesezeichen
+newtab-label-recommended = Beliebt
 newtab-label-saved = Bei { -pocket-brand-name } gespeichert
 newtab-label-download = Heruntergeladen
 
@@ -102,12 +113,18 @@ newtab-section-menu-privacy-notice = Datenschutzhinweis
 
 ## Section Headers.
 
+newtab-section-header-topsites = Wichtige Seiten
+newtab-section-header-highlights = Überblick
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Empfohlen von { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = Jetzt kennen Sie die Neuigkeiten. Schauen Sie später wieder vorbei, um neue Informationen von { $provider } zu erhalten. Können Sie nicht warten? Wählen Sie ein beliebtes Thema und lesen Sie weitere interessante Geschichten aus dem Internet.
 
 ## Pocket Content Section.
 
