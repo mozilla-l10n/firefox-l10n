@@ -78,11 +78,20 @@ newtab-menu-bookmark = Lisää kirjanmerkki
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = Kopioi latauslinkki
+newtab-menu-go-to-download-page = Siirry ladatulle sivulle
+newtab-menu-remove-download = Poista historiasta
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Näytä Finderissa
+       *[other] Avaa kohteen kansio
+    }
+newtab-menu-open-file = Avaa tiedosto
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -92,6 +101,7 @@ newtab-label-visited = Vierailtu
 newtab-label-bookmarked = Kirjanmerkki
 newtab-label-recommended = Pinnalla
 newtab-label-saved = Tallennettu { -pocket-brand-name }-palveluun
+newtab-label-download = Ladatut
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
