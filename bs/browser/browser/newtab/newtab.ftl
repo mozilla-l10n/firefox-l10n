@@ -25,17 +25,23 @@ newtab-search-box-search-the-web-input =
 
 newtab-topsites-add-topsites-header = Nova najbolja stranica
 newtab-topsites-edit-topsites-header = Uredi najbolju stranicu
+newtab-topsites-title-label = Naslov
 newtab-topsites-title-input =
     .placeholder = Unesi naslov
+newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Upišite ili zalijepite URL
 newtab-topsites-url-validation = Potrebno je unijeti ispravan URL
+newtab-topsites-image-url-label = Prilagođena URL slika
+newtab-topsites-use-image-link = Koristite prilagođenu sliku…
+newtab-topsites-image-validation = Neuspjelo učitavanje slike. Probajte drugi URL.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Otkaži
 newtab-topsites-delete-history-button = Izbriši iz historije
 newtab-topsites-save-button = Sačuvaj
+newtab-topsites-preview-button = Pregled
 newtab-topsites-add-button = Dodaj
 
 ## Top Sites - Delete history confirmation dialog. 
@@ -61,6 +67,8 @@ newtab-menu-pin = Zakači
 newtab-menu-unpin = Otkači
 newtab-menu-delete-history = Izbriši iz historije
 newtab-menu-save-to-pocket = Sačuvaj na { -pocket-brand-name }
+newtab-menu-delete-pocket = Izbriši iz { -pocket-brand-name }a
+newtab-menu-archive-pocket = Arhiviraj u { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Ukloni zabilješku
 # Bookmark is a verb here.
@@ -69,11 +77,20 @@ newtab-menu-bookmark = Zabilježi
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = Kopiraj link za preuzimanje
+newtab-menu-go-to-download-page = Idi na stranicu za preuzimanje
+newtab-menu-remove-download = Ukloni iz historije
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Prikaži u Finderu
+       *[other] Otvori direktorij u kojem se nalazi
+    }
+newtab-menu-open-file = Otvori datoteku
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -82,10 +99,20 @@ newtab-menu-bookmark = Zabilježi
 newtab-label-visited = Posjećeno
 newtab-label-bookmarked = Zabilježeno
 newtab-label-recommended = Popularno
+newtab-label-saved = Sačuvano u { -pocket-brand-name }
+newtab-label-download = Preuzeto
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = Ukloni sekciju
+newtab-section-menu-collapse-section = Skupi sekciju
+newtab-section-menu-expand-section = Proširi sekciju
+newtab-section-menu-manage-section = Upravljaj sekcijom
+newtab-section-menu-add-topsite = Dodajte omiljenu stranicu
+newtab-section-menu-move-up = Pomjeri gore
+newtab-section-menu-move-down = Pomjeri dole
+newtab-section-menu-privacy-notice = Polica privatnosti
 
 ## Section Headers.
 
@@ -111,3 +138,5 @@ newtab-pocket-read-more = Popularne teme:
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = Ups, došlo je do greške pri učitavanju ovog sadržaja.
+newtab-error-fallback-refresh-link = Osvježite stranicu da biste pokušali ponovo.
