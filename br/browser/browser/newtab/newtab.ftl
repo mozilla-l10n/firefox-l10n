@@ -120,6 +120,7 @@ newtab-section-menu-remove-section = Dilemel ar gevrenn
 newtab-section-menu-collapse-section = Bihanaat ar gevrenn
 newtab-section-menu-expand-section = Astenn ar gevrenn
 newtab-section-menu-manage-section = Merañ ar gevrenn
+newtab-section-menu-manage-webext = Merañ an askouezh
 newtab-section-menu-add-topsite = Ouzhpennañ ul lec'hienn gwellañ din
 newtab-section-menu-add-search-engine = Ouzhpennañ ul lusker klask
 newtab-section-menu-move-up = Dilec'hiañ etrezek ar c'hrec'h
