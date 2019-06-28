@@ -28,6 +28,8 @@
 
 <!ENTITY aboutMenuCmd2.label "O aplikaci &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "O">
+<!ENTITY helpSafeMode.stop.label     "Restartovat s povolenými doplňky">
+<!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "Nápověda aplikace &brandShortName;">
 <!ENTITY productHelp.accesskey "N">
 <!ENTITY productHelp.commandkey "VK_F1">
