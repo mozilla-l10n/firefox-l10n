@@ -23,19 +23,26 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = ရှာဖွေရေးအင်ဂျင် ထည့်ပါ
 newtab-topsites-add-topsites-header = ထိပ်တန်းဆိုက် အသစ်
 newtab-topsites-edit-topsites-header = ထိပ်တန်းဆိုက်ကို တည်းဖြတ်ရန်
+newtab-topsites-title-label = ခေါင်းစဉ်
 newtab-topsites-title-input =
     .placeholder = ခေါင်းစဉ် ရေးပါ
+newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = URL ကို ရိုက်ပါ သို့မဟုတ် ပွားထည့်ပါ
 newtab-topsites-url-validation = URL အမှန် လိုအပ်သည်
+newtab-topsites-image-url-label = စိတ်ကြိုက်ပုံ URL
+newtab-topsites-use-image-link = စိတ်ကြိုက်ပုံတစ်ခုသုံးပါ…
+newtab-topsites-image-validation = ပုံတင်ရန် ပျက်ကွက်ခဲ့သည်။ မတူသော URL ကို စမ်းပါ။
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = မလုပ်တော့ပါ
 newtab-topsites-delete-history-button = မှတ်တမ်းမှ ဖျက်ပါ
 newtab-topsites-save-button = သိမ်းရန်
+newtab-topsites-preview-button = အစမ်းမြင်ကွင်း
 newtab-topsites-add-button = ထည့်ရန်
 
 ## Top Sites - Delete history confirmation dialog. 
@@ -46,6 +53,10 @@ newtab-confirm-delete-history-p2 = ယခုလုပ်ဆောင်မှု
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = မီနူးကို ဖွင့်ပါ
+    .aria-label = မီနူးကို ဖွင့်ပါ
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = ဆိုက်အားပြင်မည်
@@ -61,6 +72,7 @@ newtab-menu-pin = တွယ်ရန်
 newtab-menu-unpin = တွယ်ဖြုတ်ရန်
 newtab-menu-delete-history = မှတ်တမ်းမှ ဖျက်ပါ
 newtab-menu-save-to-pocket = { -pocket-brand-name } သို့ သိမ်းရန်
+newtab-menu-delete-pocket = ပေါ့ကပ်မှပယ်ဖျက်ပါ
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = စာအမှတ်အားဖယ်ပါ
 # Bookmark is a verb here.
@@ -69,11 +81,15 @@ newtab-menu-bookmark = စာအမှတ်
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = ဒေါင်းလုပ်လင့်ကိုကူးပါ
+newtab-menu-go-to-download-page = ဒေါင်းလုပ်စာမျက်နှာကို သွားပါ
+newtab-menu-remove-download = မှတ်တမ်းမှ ဖယ်ရှားပါ
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-open-file = ဖိုင်ကိုဖွင့်ပါ
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -82,10 +98,19 @@ newtab-menu-bookmark = စာအမှတ်
 newtab-label-visited = သွားလည်ခဲ့သော
 newtab-label-bookmarked = စာအမှတ်မှတ်ထားသော
 newtab-label-recommended = လူကြိုက်များနေသော
+newtab-label-download = ဆွဲချခဲ့သည်
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = အပိုင်းကို ပယ်ဖျက်ပါ
+newtab-section-menu-expand-section = အပိုင်းတိုးချဲ့ပါ
+newtab-section-menu-manage-section = အပိုင်းများကိုစီမံရန်
+newtab-section-menu-add-topsite = ထိပ်တန်းဆိုက်များကို ပေါင်းထည့်ပါ
+newtab-section-menu-add-search-engine = ရှာဖွေရေးအင်ဂျင် ထည့်ပါ
+newtab-section-menu-move-up = အပေါ်သို့ ရွှေ့ပါ
+newtab-section-menu-move-down = အောက်သို့ ရွှေ့ပါ
+newtab-section-menu-privacy-notice = ကိုယ်ရေးကာကွယ်မှု သတိပေးချက်
 
 ## Section Headers.
 
@@ -102,7 +127,11 @@ newtab-section-header-pocket = { $provider } က အကြံပြုထား�
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = လူကြိုက်များခေါင်းစဉ်များ
+newtab-pocket-more-recommendations = ပိုများသောအကြံပြုချက်များ
+newtab-pocket-how-it-works = ဘယ်လိုအလုပ်လုပ်လဲ
+newtab-pocket-cta-button = ပေါ့ကပ်ရယူပါ
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-refresh-link = ထပ်ကြိုးစားရန် စာမျက်နှာကို ပြန်တင်ပါ
