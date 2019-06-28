@@ -23,6 +23,7 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Ychwanegu Peiriant Chwilio
 newtab-topsites-add-topsites-header = Hoff Wefan Newydd
 newtab-topsites-edit-topsites-header = Golygu'r Hoff Wefan
 newtab-topsites-title-label = Teitl
@@ -52,6 +53,16 @@ newtab-confirm-delete-history-p2 = Nid oes modd dadwneud hyn.
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Agor y ddewislen
+    .aria-label = Agor y ddewislen
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Agor y ddewislen
+    .aria-label = Agor dewislen cynnwys { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Golygu'r wefan
@@ -77,11 +88,20 @@ newtab-menu-bookmark = Nod Tudalen
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = Copïo Dolen Llwytho i Lawr
+newtab-menu-go-to-download-page = Mynd i'r Dudalen Llwytho i Lawr
+newtab-menu-remove-download = Tynnu o'r Hanes
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Dangos yn Finder
+       *[other] Agor Ffolder Cynhwysol
+    }
+newtab-menu-open-file = Agor Ffeil
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -91,6 +111,7 @@ newtab-label-visited = Ymwelwyd
 newtab-label-bookmarked = Nod Tudalen
 newtab-label-recommended = Trendio
 newtab-label-saved = Wedi ei gadw i { -pocket-brand-name }
+newtab-label-download = Wedi eu Llwytho i Lawr
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
@@ -99,7 +120,9 @@ newtab-section-menu-remove-section = Tynnu'r Adran
 newtab-section-menu-collapse-section = Cau'r Adran
 newtab-section-menu-expand-section = Estyn yr Adran
 newtab-section-menu-manage-section = Rheoli'r Adran
+newtab-section-menu-manage-webext = Rheoli Estyniad
 newtab-section-menu-add-topsite = Ychwanegu Hoff Wefan
+newtab-section-menu-add-search-engine = Ychwanegu Peiriant Chwilio
 newtab-section-menu-move-up = Symud i Fyny
 newtab-section-menu-move-down = Symud i Lawr
 newtab-section-menu-privacy-notice = Hysbysiad Preifatrwydd
@@ -124,6 +147,10 @@ newtab-empty-section-topstories = Rydych wedi dal i fynDewch nôl rhywbryd eto a
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Pynciau Poblogaidd:
+newtab-pocket-more-recommendations = Rhagor o Argymhellion
+newtab-pocket-how-it-works = Sut mae'n gweithio
+newtab-pocket-cta-button = Defnyddio { -pocket-brand-name }
+newtab-pocket-cta-text = Cadw'r straeon rydych yn eu hoffi i { -pocket-brand-name } a bwydo'ch meddwl á deunydd diddorol.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
