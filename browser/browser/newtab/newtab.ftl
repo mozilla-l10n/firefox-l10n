@@ -15,9 +15,15 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Serĉi
     .aria-label = Serĉi
+newtab-search-box-search-the-web-text = Serĉi en la teksaĵo
+newtab-search-box-search-the-web-input =
+    .placeholder = Serĉi en la teksaĵo
+    .title = Serĉi en la teksaĵo
+    .aria-label = Serĉi en la teksaĵo
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Aldoni serĉilon
 newtab-topsites-add-topsites-header = Nova ofta retejo
 newtab-topsites-edit-topsites-header = Redakti oftan retejon
 newtab-topsites-title-label = Titolo
@@ -47,6 +53,16 @@ newtab-confirm-delete-history-p2 = Tiu ĉi ago ne estas malfarebla.
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Malfermi menuon
+    .aria-label = Malfermi menuon
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Malfermi menuon
+    .aria-label = Malfermi kuntekstan menu por { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Redakti ĉi tiun retejon
@@ -106,6 +122,7 @@ newtab-section-menu-expand-section = Malfaldi sekcion
 newtab-section-menu-manage-section = Administri sekcion
 newtab-section-menu-manage-webext = Administri etendaĵon
 newtab-section-menu-add-topsite = Aldoni oftan retejon
+newtab-section-menu-add-search-engine = Aldoni serĉilon
 newtab-section-menu-move-up = Movi supren
 newtab-section-menu-move-down = Movi malsupren
 newtab-section-menu-privacy-notice = Rimarko pri privateco
@@ -130,6 +147,10 @@ newtab-empty-section-topstories = Vi legis ĉion. Kontrolu denove poste ĉu esta
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Ĉefaj temoj:
+newtab-pocket-more-recommendations = Pli da rekomendoj
+newtab-pocket-how-it-works = Kiel funkcias tio
+newtab-pocket-cta-button = Instali { -pocket-brand-name }
+newtab-pocket-cta-text = Konservu viajn ŝatatajn artikolojn en { -pocket-brand-name }, kaj stimulu vian menson per ravaj legaĵoj.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
