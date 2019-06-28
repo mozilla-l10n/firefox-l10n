@@ -23,10 +23,20 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-topsites-header = Nova najbolja stranica
+newtab-topsites-edit-topsites-header = Uredi najbolju stranicu
+newtab-topsites-title-input =
+    .placeholder = Unesi naslov
+newtab-topsites-url-input =
+    .placeholder = Upišite ili zalijepite URL
+newtab-topsites-url-validation = Potrebno je unijeti ispravan URL
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
+newtab-topsites-cancel-button = Otkaži
 newtab-topsites-delete-history-button = Izbriši iz historije
+newtab-topsites-save-button = Sačuvaj
+newtab-topsites-add-button = Dodaj
 
 ## Top Sites - Delete history confirmation dialog. 
 
@@ -36,9 +46,14 @@ newtab-confirm-delete-history-p2 = Ova radnja se ne može opozvati.
 
 ## Context Menu - Action Tooltips.
 
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = Uredi ovu stranicu
+    .aria-label = Uredi ovu stranicu
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
+newtab-menu-edit-topsites = Uredi
 newtab-menu-open-new-window = Otvori u novom prozoru
 newtab-menu-open-new-private-window = Otvori u novom privatnom prozoru
 newtab-menu-dismiss = Odbaci
@@ -82,9 +97,16 @@ newtab-section-header-pocket = Preporučeno od { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = Započnite pretraživati i pokazat ćemo vam neke od izvrsnih članaka, videa i drugih web stranica prema vašim nedavno posjećenim stranicama ili zabilješkama.
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = Provjerite kasnije za više najpopularnijih priča od { $provider }. Ne možete čekati? Odaberite popularne teme kako biste pronašli više kvalitetnih priča s cijelog weba.
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = Popularne teme:
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
