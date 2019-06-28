@@ -34,6 +34,7 @@ policies-notice =
         [windows] הארגון שלך חסם את האפשרות לשנות מספר אפשרויות.
        *[other] הארגון שלך חסם את האפשרות לשנות מספר העדפות.
     }
+managed-notice = הדפדפן שלך מנוהל על־ידי הארגון שלך.
 pane-general-title = כללי
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +47,6 @@ category-search =
 pane-privacy-title = פרטיות ואבטחה
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = חשבון Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -293,6 +290,20 @@ update-pref-write-failure-title = כשל בכתיבה
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = לא ניתן לשמור את ההעדפה. לא ניתן לכתוב לקובץ: { $path }
+update-setting-write-failure-title = שגיאה בשמירת העדפות עדכון
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    ‏{ -brand-short-name } נתקל בשגיאה ולא שמר את השינוי הזה. נא לשים לב כי שינוי ההגדרה של העדפת העדכון דורשת הרשאה לכתוב לקובץ שלהלן. ייתכן שתהיה לך או למנהל מערכת אפשרות לתקן את השגיאה על־ידי הענקת שליטה מלאה לקבוצה 'משתמשים' עבור קובץ זה.
+    
+    לא ניתן לכתוב לקובץ: { $path }
+update-in-progress-title = העדכון בתהליך
+update-in-progress-message = האם ברצונך ש־{ -brand-short-name } ימשיך בעדכון זה?
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &המשך
 
 ## General Section - Performance
 
@@ -483,7 +494,7 @@ sync-sign-in =
     .label = כניסה
     .accesskey = כ
 sync-signedin-settings-header = הגדרות סנכרון
-sync-signedin-settings-desc = נא לבחור את הפריטים שיסונכרנו להתקנים שלך באמצעות { -brand-short-name }.
+sync-signedin-settings-desc = נא לבחור את הפריטים שיסונכרנו למכשירים שלך באמצעות { -brand-short-name }
 sync-engine-bookmarks =
     .label = סימניות
     .accesskey = ס
@@ -518,9 +529,9 @@ sync-engine-prefs =
         }
     .tooltiptext = הגדרות כלליות, פרטיות ואבטחה ששינית
     .accesskey = ת
-sync-device-name-header = שם התקן
+sync-device-name-header = שם המכשיר
 sync-device-name-change =
-    .label = שינוי שם התקן…
+    .label = שינוי שם מכשיר…
     .accesskey = ש
 sync-device-name-cancel =
     .label = ביטול
@@ -528,8 +539,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = שמירה
     .accesskey = ש
-sync-mobilepromo-single = חיבור התקן נוסף
-sync-mobilepromo-multi = ניהול התקנים
 sync-connect-another-device = חיבור מכשיר נוסף
 sync-manage-devices = ניהול מכשירים
 sync-fxa-begin-pairing = צימוד מכשיר
@@ -686,7 +695,6 @@ content-blocking-all-third-party-cookies = כל העוגיות צד־שלישי
 content-blocking-cryptominers = כורי מטבעות דיגיטליים
 content-blocking-fingerprinters = רכיבי זהות דיגיטלית
 content-blocking-warning-title = לתשומת לבך!
-content-blocking-warning-desc = חסימת עוגיות ורכיבי מעקב עשויה לשבש פעילות של מספר אתרים. קל להשבית חסימה של אתרים המהימנים בעיניך.
 content-blocking-warning-description = חסימת תוכן עלולה לגרום לאתרים מסוימים להישבר. קל לבטל חסימה עבור אתרים בטוחים.
 content-blocking-learn-how = מידע נוסף
 content-blocking-reload-description = יהיה עליך לטעון מחדש את הלשוניות שלך כדי להחיל שינויים אלו.
@@ -753,6 +761,10 @@ permissions-block-autoplay-media2 =
 permissions-block-autoplay-media-exceptions =
     .label = חריגות…
     .accesskey = ח
+permissions-autoplay = ניגון אוטומטי
+permissions-autoplay-settings =
+    .label = הגדרות…
+    .accesskey = ה
 permissions-block-popups =
     .label = חסימת חלונות קופצים
     .accesskey = ח
