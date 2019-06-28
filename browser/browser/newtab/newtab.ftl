@@ -23,6 +23,7 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = ਖੋਜ ਇੰਜਣ ਜੋੜੋ
 newtab-topsites-add-topsites-header = ਨਵੀਂ ਉਪਰਲੀ ਸਾਈਟ
 newtab-topsites-edit-topsites-header = ਉਪਰਲੀ ਸਾਈਟ ਸੋਧੋ
 newtab-topsites-title-label = ਸਿਰਲੇਖ
@@ -41,6 +42,7 @@ newtab-topsites-image-validation = ਚਿੱਤਰ ਲੋਡ ਕਰਨ ਤੋਂ
 newtab-topsites-cancel-button = ਰੱਦ ਕਰੋ
 newtab-topsites-delete-history-button = ਅਤੀਤ ਵਿੱਚੋਂ ਹਟਾਓ
 newtab-topsites-save-button = ਸੰਭਾਲੋ
+newtab-topsites-preview-button = ਝਲਕ
 newtab-topsites-add-button = ਜੋੜੋ
 
 ## Top Sites - Delete history confirmation dialog. 
@@ -51,6 +53,16 @@ newtab-confirm-delete-history-p2 = ਇਕ ਕਾਰਵਾਈ ਨੂੰ ਅਣਕ
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = ਮੇਨੂ ਖੋਲ੍ਹੋ
+    .aria-label = ਮੇਨੂ ਖੋਲ੍ਹੋ
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = ਮੇਨੂ ਖੋਲ੍ਹੋ
+    .aria-label = { $title } ਦੇ ਲਈ ਪ੍ਰਸੰਗ ਮੀਨੂੰ ਖ੍ਹੋਲੋ
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = ਇਹ ਸਾਈਟ ਨੂੰ ਸੋਧੋ
@@ -107,8 +119,10 @@ newtab-label-download = ਡਾਊਨਲੋਡ ਕਰੋ
 newtab-section-menu-remove-section = ਸੈਕਸ਼ਨ ਹਟਾਓ
 newtab-section-menu-collapse-section = ਸੈਕਸ਼ਨ ਨੂੰ ਸਮੇਟੋ
 newtab-section-menu-expand-section = ਸੈਕਸ਼ਨ ਦੀ ਫੈਲਾਓ
+newtab-section-menu-manage-section = ਸੈਕਸ਼ਨ ਦਾ ਬੰਦੋਬਸਤ
 newtab-section-menu-manage-webext = ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
 newtab-section-menu-add-topsite = ਚੋਟੀ ਦੀਆਂ ਸਾਈਟਾਂ ਜੋੜੋ
+newtab-section-menu-add-search-engine = ਖੋਜ ਇੰਜਣ ਜੋੜੋ
 newtab-section-menu-move-up = ਉੱਤੇ ਭੇਜੋ
 newtab-section-menu-move-down = ਹੇਠਾਂ ਭੇਜੋ
 newtab-section-menu-privacy-notice = ਨਿੱਜੀ ਨੋਟਿਸ
@@ -128,6 +142,9 @@ newtab-section-header-pocket = { $provider } ਵਲੋਂ ਸਿਫਾਰਸ਼�
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = ਪ੍ਰਸਿੱਧ ਵਿਸ਼ੇ:
+newtab-pocket-more-recommendations = ਹੋਰ ਸਿਫਾਰਸ਼ਾਂ
+newtab-pocket-how-it-works = ਇਹ ਕਿਵੇਂ ਕੰਮ ਕਰਦੀ ਹੈ
+newtab-pocket-cta-button = ਪਾਕੇਟ ਲਵੋ
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
