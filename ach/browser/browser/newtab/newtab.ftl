@@ -25,6 +25,7 @@ newtab-search-box-search-the-web-input =
 
 newtab-topsites-add-search-engine-header = Med ingin me yeny
 newtab-topsites-add-topsites-header = Kakube maloyo manyen
+newtab-topsites-edit-topsites-header = Yub Kakube maloyo
 newtab-topsites-title-label = Wiye madit
 newtab-topsites-title-input =
     .placeholder = Ket wiye
@@ -38,8 +39,11 @@ newtab-topsites-image-validation = Cano cal pe olare. Tem URL mukene.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
+newtab-topsites-cancel-button = Kwer
 newtab-topsites-delete-history-button = Kwany ki ii gin mukato
+newtab-topsites-save-button = Gwoki
 newtab-topsites-preview-button = Nen
+newtab-topsites-add-button = Medi
 
 ## Top Sites - Delete history confirmation dialog. 
 
@@ -70,6 +74,7 @@ newtab-menu-edit-topsites = Yubi
 newtab-menu-open-new-window = Yab i dirica manyen
 newtab-menu-open-new-private-window = Yab i dirica manyen me mung
 newtab-menu-dismiss = Kwer
+newtab-menu-pin = Mwon
 newtab-menu-unpin = War
 newtab-menu-delete-history = Kwany ki ii gin mukato
 newtab-menu-save-to-pocket = Gwok i { -pocket-brand-name }
