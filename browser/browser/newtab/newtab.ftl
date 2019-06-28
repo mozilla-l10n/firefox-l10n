@@ -53,6 +53,16 @@ newtab-confirm-delete-history-p2 = આ ક્રિયા પૂર્વવત�
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = મેનૂ ખોલો
+    .aria-label = મેનૂ ખોલો
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = મેનૂ ખોલો
+    .aria-label = { $title } માટે સંદર્ભ મેનૂ ખોલો
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = આ સાઇટને સંપાદિત કરો
@@ -134,6 +144,7 @@ newtab-empty-section-topstories = તમે પકડાઈ ગયા છો. { 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = લોકપ્રિય વિષયો:
 newtab-pocket-more-recommendations = વધુ ભલામણો
+newtab-pocket-how-it-works = તે કેવી રીતે કામ કરે છે
 newtab-pocket-cta-button = { -pocket-brand-name } મેળવો
 newtab-pocket-cta-text = { -pocket-brand-name } તમને જે કથાઓ ગમે છે તે સાચવો, અને તમારા મનને રસપ્રદ વાંચન સાથે ઉત્તેજિત કરો.
 
