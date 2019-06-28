@@ -15,9 +15,15 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Αναζήτηση
     .aria-label = Αναζήτηση
+newtab-search-box-search-the-web-text = Αναζήτηση στο διαδίκτυο
+newtab-search-box-search-the-web-input =
+    .placeholder = Αναζήτηση στο διαδίκτυο
+    .title = Αναζήτηση στο διαδίκτυο
+    .aria-label = Αναζήτηση στο διαδίκτυο
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Προσθήκη μηχανής αναζήτησης
 newtab-topsites-add-topsites-header = Νέα κορυφαία ιστοσελίδα
 newtab-topsites-edit-topsites-header = Επεξεργασία κορυφαίας ιστοσελίδας
 newtab-topsites-title-label = Τίτλος
@@ -72,11 +78,20 @@ newtab-menu-bookmark = Προσθήκη σελιδοδείκτη
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = Αντιγραφή συνδέσμου λήψης
+newtab-menu-go-to-download-page = Μετάβαση στη σελίδα λήψης
+newtab-menu-remove-download = Αφαίρεση από το ιστορικό
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Εμφάνιση στο Finder
+       *[other] Άνοιγμα φακέλου λήψης
+    }
+newtab-menu-open-file = Άνοιγμα αρχείου
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -86,6 +101,7 @@ newtab-label-visited = Από ιστορικό
 newtab-label-bookmarked = Από σελιδοδείκτες
 newtab-label-recommended = Τάσεις
 newtab-label-saved = Αποθηκεύτηκε στο { -pocket-brand-name }
+newtab-label-download = Λήψεις
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
@@ -94,7 +110,9 @@ newtab-section-menu-remove-section = Αφαίρεση ενότητας
 newtab-section-menu-collapse-section = Σύμπτυξη ενότητας
 newtab-section-menu-expand-section = Επέκταση ενότητας
 newtab-section-menu-manage-section = Διαχείριση ενότητας
+newtab-section-menu-manage-webext = Διαχείριση επέκτασης
 newtab-section-menu-add-topsite = Προσθήκη κορυφαίας ιστοσελίδας
+newtab-section-menu-add-search-engine = Προσθήκη μηχανής αναζήτησης
 newtab-section-menu-move-up = Μετακίνηση επάνω
 newtab-section-menu-move-down = Μετακίνηση κάτω
 newtab-section-menu-privacy-notice = Σημείωση απορρήτου
@@ -119,6 +137,8 @@ newtab-empty-section-topstories = Δεν υπάρχει κάτι νεότερο.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Δημοφιλή θέματα:
+newtab-pocket-more-recommendations = Περισσότερες προτάσεις
+newtab-pocket-cta-button = Αποκτήστε το { -pocket-brand-name }
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
