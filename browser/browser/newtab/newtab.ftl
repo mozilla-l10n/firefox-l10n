@@ -6,6 +6,8 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = ផ្ទាំង​ថ្មី
+newtab-settings-button =
+    .title = ប្តូរទំព័រ ផ្ទាំងថ្មី របស់អ្នកតាមបំណង
 
 ## Search box component.
 
@@ -21,6 +23,7 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = បន្ថែម​ម៉ាស៊ីន​ស្វែងរក
 newtab-topsites-add-topsites-header = សាយកំពូលថ្មី
 newtab-topsites-edit-topsites-header = កែសម្រួលសាយកំពូល
 newtab-topsites-title-input =
@@ -45,6 +48,10 @@ newtab-confirm-delete-history-p2 = សកម្មភាពនេះមិនអ
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = បើក​ម៉ឺនុយ
+    .aria-label = បើក​ម៉ឺនុយ
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = កែសម្រួលសាយនេះ
@@ -70,11 +77,14 @@ newtab-menu-bookmark = ចំណាំ
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = ចម្លង​តំណ​ទាញ​យក
+newtab-menu-go-to-download-page = ទៅ​កាន់​ទំព័រ​ទាញ​យក
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-open-file = បើកឯកសារ
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -84,6 +94,7 @@ newtab-label-visited = បាន​ចូល​មើល
 newtab-label-bookmarked = បាន​ចំណាំ
 newtab-label-recommended = និន្នាការ
 newtab-label-saved = បានរក្សាទុកទៅ { -pocket-brand-name }
+newtab-label-download = បានទាញយក
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
@@ -94,6 +105,9 @@ newtab-section-menu-expand-section = ពង្រីកផ្នែក
 newtab-section-menu-manage-section = គ្រប់គ្រងផ្នែក
 newtab-section-menu-manage-webext = គ្រប់គ្រងផ្នែកបន្ថែម
 newtab-section-menu-add-topsite = បញ្ចូល​គេហទំព័រ​ពេញនិយម​បំផុត
+newtab-section-menu-add-search-engine = បន្ថែម​ម៉ាស៊ីន​ស្វែងរក
+newtab-section-menu-move-up = ​ផ្លាស់ទី​ឡើង​លើ
+newtab-section-menu-move-down = ផ្លាស់ទី​ចុះក្រោម
 newtab-section-menu-privacy-notice = ការជូនដំណឹង​អំពី​ឯកជនភាព
 
 ## Section Headers.
@@ -106,6 +120,7 @@ newtab-section-header-pocket = បានណែនាំដោយ { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = ចាប់ផ្តើមការរុករក ហើយយើងនឹងបង្ហាញអត្ថបទ វីដេអូ និងទំព័រដ៏អស្ចារ្យផ្សេងទៀតដែលអ្នកបានមើល ឬបានចំណាំនៅទីនេះ។
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -115,6 +130,7 @@ newtab-empty-section-topstories = អ្នកបានអានរឿងទា�
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = ប្រធានបទកំពុងពេញនិយម៖
+newtab-pocket-how-it-works = របៀប​ដែល​វា​ដំណើរការ
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
