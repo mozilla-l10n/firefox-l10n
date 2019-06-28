@@ -96,6 +96,11 @@ newtab-menu-remove-download = Burahin sa Kasaysayan
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Ipakita sa Finder
+       *[other] Buksan ang Naglalaman na Folder
+    }
 newtab-menu-open-file = Buksan ang File
 
 ## Card Labels: These labels are associated to pages to give
@@ -141,6 +146,7 @@ newtab-empty-section-topstories = Nakahabol ka na. Bumalik sa ibang pagkakataon 
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Tanyag na mga paksa:
+newtab-pocket-how-it-works = Paano gamitin
 newtab-pocket-cta-button = Kunin ang { -pocket-brand-name }
 
 ## Error Fallback Content.
