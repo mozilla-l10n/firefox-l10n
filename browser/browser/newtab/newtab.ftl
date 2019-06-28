@@ -24,6 +24,8 @@ newtab-search-box-search-the-web-input =
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Add Search Engine
+newtab-topsites-add-topsites-header = Top Sites
+newtab-topsites-edit-topsites-header = Edit Top Site
 newtab-topsites-title-label = Title
 newtab-topsites-title-input =
     .placeholder = Enter a title
@@ -37,8 +39,11 @@ newtab-topsites-image-validation = Image failed to load. Try a different URL.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
+newtab-topsites-cancel-button = Cancel
 newtab-topsites-delete-history-button = Delete from History
+newtab-topsites-save-button = Save
 newtab-topsites-preview-button = Preview
+newtab-topsites-add-button = Add
 
 ## Top Sites - Delete history confirmation dialog. 
 
@@ -69,7 +74,10 @@ newtab-menu-edit-topsites = Edit
 newtab-menu-open-new-window = Open in a New Window
 newtab-menu-open-new-private-window = Open in a New Private Window
 newtab-menu-dismiss = Dismiss
+newtab-menu-pin = Pin
+newtab-menu-unpin = Unpin
 newtab-menu-delete-history = Delete from History
+newtab-menu-save-to-pocket = Save to { -pocket-brand-name }
 newtab-menu-delete-pocket = Delete from { -pocket-brand-name }
 newtab-menu-archive-pocket = Archive in { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
@@ -101,6 +109,7 @@ newtab-menu-open-file = Open File
 
 newtab-label-visited = Visited
 newtab-label-bookmarked = Bookmarked
+newtab-label-recommended = Trending
 newtab-label-saved = Saved to { -pocket-brand-name }
 newtab-label-download = Downloaded
 
