@@ -121,7 +121,7 @@ because displayed names don't have the comma in between. -->
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "Unelte">
 <!ENTITY tasksMenu.accesskey                            "t">
-<!ENTITY messengerCmd.label                             "E-mail și Grupuri de discuții">
+<!ENTITY messengerCmd.label                             "E-mail și grupuri de discuții">
 <!ENTITY messengerCmd.accesskey                         "C">
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY addressBookCmd.label                           "Agendă de contacte">

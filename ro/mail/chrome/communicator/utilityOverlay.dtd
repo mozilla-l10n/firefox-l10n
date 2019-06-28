@@ -9,7 +9,7 @@
 <!ENTITY newMenu.label            "Nou">
 <!ENTITY newMenu.accesskey          "C">
 
-<!ENTITY editMenu.label          "Editează">
+<!ENTITY editMenu.label          "Editare">
 <!ENTITY editMenu.accesskey        "E">
 <!ENTITY undoCmd.label            "Anulează">
 <!ENTITY undoCmd.key            "Z">
