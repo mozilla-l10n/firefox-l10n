@@ -26,6 +26,11 @@ newtab-search-box-search-the-web-input =
 newtab-topsites-add-search-engine-header = Agregar motor de búsqueda
 newtab-topsites-add-topsites-header = Nuevo sitio popular
 newtab-topsites-edit-topsites-header = Editar sitio popular
+newtab-topsites-title-input =
+    .placeholder = Introducir un título
+newtab-topsites-url-input =
+    .placeholder = Escribir o pegar una URL
+newtab-topsites-url-validation = Se requiere una URL válida
 newtab-topsites-use-image-link = Utilizar una imagen personalizada…
 newtab-topsites-image-validation = La imagen no se pudo cargar. Intente una URL diferente.
 
@@ -53,7 +58,10 @@ newtab-menu-topsites-placeholder-tooltip =
 
 newtab-menu-edit-topsites = Editar
 newtab-menu-dismiss = Descartar
+newtab-menu-pin = Anclar
+newtab-menu-unpin = Desanclar
 newtab-menu-delete-history = Eliminar del historial
+newtab-menu-save-to-pocket = Guardar en { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Eliminar marcador
 # Bookmark is a verb here.
@@ -82,6 +90,7 @@ newtab-menu-open-file = Abrir archivo
 ## the page is bookmarked, or is currently open on another device.
 
 newtab-label-visited = Visitados
+newtab-label-recommended = Tendencias
 newtab-label-download = Descargado
 
 ## Section Menu: These strings are displayed in the section context menu and are 
