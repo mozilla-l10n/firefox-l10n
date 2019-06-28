@@ -28,6 +28,8 @@
 
 <!ENTITY aboutMenuCmd2.label "Wó &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "W">
+<!ENTITY helpSafeMode.stop.label     "Ze zmóžnjonymi dodankami znowego startowaś">
+<!ENTITY helpSafeMode.stop.accesskey "Z">
 <!ENTITY productHelp.label "Pomoc &brandShortName;">
 <!ENTITY productHelp.accesskey "P">
 <!ENTITY productHelp.commandkey "VK_F1">
