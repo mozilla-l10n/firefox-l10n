@@ -57,6 +57,12 @@ newtab-confirm-delete-history-p2 = این عمل قابل برگشت نیست.
 newtab-menu-section-tooltip =
     .title = باز کردن منو
     .aria-label = باز کردن منو
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = باز کردن منو
+    .aria-label = بازکردن فهرست زمینه برای { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = ویرایش این سایت
@@ -103,6 +109,7 @@ newtab-menu-open-file = باز کردن پرونده
 
 newtab-label-visited = مشاهده شده
 newtab-label-bookmarked = نشانک شده
+newtab-label-recommended = موضوعات داغ
 newtab-label-saved = در { -pocket-brand-name } ذخیره شد
 newtab-label-download = دریافت شد
 
@@ -130,6 +137,7 @@ newtab-section-header-pocket = پیشنهاد شده توسط { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = مرور کردن را شروع کنید و شاهد تعداد زیادی مقاله، فیلم و صفحات خوبی باشید که اخیر مشاهده کرده اید یا نشانگ گذاری کرده اید.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -140,6 +148,7 @@ newtab-empty-section-topstories = فعلا تموم شد. بعدا دوباره 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = موضوع‌های محبوب:
 newtab-pocket-more-recommendations = توصیه‌های بیشتر
+newtab-pocket-how-it-works = این چجوری کار میکنه
 newtab-pocket-cta-button = دریافت { -pocket-brand-name }
 newtab-pocket-cta-text = مطالبی که دوست دارید را در { -pocket-brand-name } ذخیره کنید، و به ذهن خود را با مطالب فوق‌العاده انرژی بدهید.
 
