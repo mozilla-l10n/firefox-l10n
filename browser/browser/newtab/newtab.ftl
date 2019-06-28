@@ -23,22 +23,40 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = افزودن موتور جست‌وجو
+newtab-topsites-add-topsites-header = سایت برتر جدید
+newtab-topsites-edit-topsites-header = ویرایش سایت برتر
 newtab-topsites-title-label = عنوان
+newtab-topsites-title-input =
+    .placeholder = عنوان را وارد کنید
 newtab-topsites-url-label = آدرس
+newtab-topsites-url-input =
+    .placeholder = یک URL تایپ کنید یا بچسبانید
+newtab-topsites-url-validation = URL معتبر الزامی است
 newtab-topsites-image-url-label = آدرسِ سفارشی عکس
 newtab-topsites-use-image-link = استفاده از یک عکس سفارشی…
 newtab-topsites-image-validation = بارگیری عکس شکست خورد. آدرس دیگری امتحان کنید.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
+newtab-topsites-cancel-button = انصراف
 newtab-topsites-delete-history-button = حذف از تاریخچه
+newtab-topsites-save-button = ذخیره
 newtab-topsites-preview-button = پیش‌نمایش
+newtab-topsites-add-button = افزودن
 
 ## Top Sites - Delete history confirmation dialog. 
 
+newtab-confirm-delete-history-p1 = آیا از پاک کردن همه نمونه‌های این صفحه از تاریخ‌چه خود اطمینان دارید؟
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = این عمل قابل برگشت نیست.
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = باز کردن منو
+    .aria-label = باز کردن منو
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = ویرایش این سایت
@@ -50,7 +68,10 @@ newtab-menu-edit-topsites = ويرايش
 newtab-menu-open-new-window = باز کردن در یک پنجره جدید
 newtab-menu-open-new-private-window = بار کردن در یک پنجره ناشناس جدید
 newtab-menu-dismiss = رد کردن
+newtab-menu-pin = سنجاق کردن
+newtab-menu-unpin = جدا کردن
 newtab-menu-delete-history = حذف از تاریخچه
+newtab-menu-save-to-pocket = ذخیره‌سازی در { -pocket-brand-name }
 newtab-menu-delete-pocket = حذف از { -pocket-brand-name }
 newtab-menu-archive-pocket = آرشیو در { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
@@ -94,6 +115,7 @@ newtab-section-menu-expand-section = باز کردن قسمت
 newtab-section-menu-manage-section = مدیریت قسمت
 newtab-section-menu-manage-webext = مدیریت افزودنی
 newtab-section-menu-add-topsite = اضافه کردن سایت برتر
+newtab-section-menu-add-search-engine = افزودن موتور جست‌وجو
 newtab-section-menu-move-up = جابه‌جایی به بالا
 newtab-section-menu-move-down = جابه‌جایی به پایین
 newtab-section-menu-privacy-notice = نکات حریم‌خصوصی
@@ -101,6 +123,7 @@ newtab-section-menu-privacy-notice = نکات حریم‌خصوصی
 ## Section Headers.
 
 newtab-section-header-topsites = سایت‌های برتر
+newtab-section-header-highlights = برجسته‌ها
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = پیشنهاد شده توسط { $provider }
@@ -114,6 +137,9 @@ newtab-empty-section-topstories = فعلا تموم شد. بعدا دوباره 
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = موضوع‌های محبوب:
+newtab-pocket-more-recommendations = توصیه‌های بیشتر
 newtab-pocket-cta-button = دریافت { -pocket-brand-name }
 newtab-pocket-cta-text = مطالبی که دوست دارید را در { -pocket-brand-name } ذخیره کنید، و به ذهن خود را با مطالب فوق‌العاده انرژی بدهید.
 
