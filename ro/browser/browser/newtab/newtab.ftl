@@ -23,6 +23,7 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Adaugă motor de căutare
 newtab-topsites-add-topsites-header = Site de top nou
 newtab-topsites-edit-topsites-header = Editează site-ul de top
 newtab-topsites-title-label = Titlu
@@ -121,8 +122,10 @@ newtab-section-menu-expand-section = Extinde secțiunea
 newtab-section-menu-manage-section = Gestionează secțiunea
 newtab-section-menu-manage-webext = Gestionează extensia
 newtab-section-menu-add-topsite = Adaugă site de top
+newtab-section-menu-add-search-engine = Adaugă motor de căutare
 newtab-section-menu-move-up = Mută în sus
 newtab-section-menu-move-down = Mută în jos
+newtab-section-menu-privacy-notice = Declarație de confidențialitate
 
 ## Section Headers.
 
@@ -146,6 +149,7 @@ newtab-empty-section-topstories = Ai ajuns la capăt. Revino mai târziu pentru 
 newtab-pocket-read-more = Subiecte populare:
 newtab-pocket-more-recommendations = Mai multe recomandări
 newtab-pocket-cta-button = Obține { -pocket-brand-name }
+newtab-pocket-cta-text = Salvează în { -pocket-brand-name } articolele care ți-au plăcut și hrănește-ți mintea cu lecturi fascinante.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
