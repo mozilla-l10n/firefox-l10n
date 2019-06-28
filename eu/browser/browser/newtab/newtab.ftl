@@ -23,15 +23,26 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Gehitu bilaketa-motorra
+newtab-topsites-add-topsites-header = Maiz erabilitako gune berria
+newtab-topsites-edit-topsites-header = Editatu maiz erabilitako gunea
+newtab-topsites-title-label = Izenburua
+newtab-topsites-title-input =
+    .placeholder = Idatzi izenburua
+newtab-topsites-url-label = URLa
 newtab-topsites-url-input =
     .placeholder = Idatzi edo itsatsi URLa
 newtab-topsites-url-validation = Baliozko URLa behar da
+newtab-topsites-image-url-label = Irudi pertsonalizatuaren URLa
+newtab-topsites-use-image-link = Erabili irudi pertsonalizatua…
+newtab-topsites-image-validation = Ezin da irudia kargatu. Saiatu beste URL batekin.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Utzi
 newtab-topsites-delete-history-button = Ezabatu historiatik
 newtab-topsites-save-button = Gorde
+newtab-topsites-preview-button = Aurrebista
 newtab-topsites-add-button = Gehitu
 
 ## Top Sites - Delete history confirmation dialog. 
@@ -42,6 +53,16 @@ newtab-confirm-delete-history-p2 = Ekintza hau ezin da desegin.
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Ireki menua
+    .aria-label = Ireki menua
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Ireki menua
+    .aria-label = Ikusi { $title } gunerako testuinguru-menua
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Editatu gune hau
@@ -57,6 +78,8 @@ newtab-menu-pin = Ainguratu
 newtab-menu-unpin = Desainguratu
 newtab-menu-delete-history = Ezabatu historiatik
 newtab-menu-save-to-pocket = Gorde { -pocket-brand-name }-en
+newtab-menu-delete-pocket = Ezabatu { -pocket-brand-name }-etik
+newtab-menu-archive-pocket = Artxibatu { -pocket-brand-name }-en
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Kendu laster-marka
 # Bookmark is a verb here.
@@ -65,11 +88,20 @@ newtab-menu-bookmark = Egin laster-marka
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = Kopiatu deskargaren lotura
+newtab-menu-go-to-download-page = Joan deskargaren orrira
+newtab-menu-remove-download = Kendu historiatik
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Erakutsi Finder-en
+       *[other] Ireki dagoen karpeta
+    }
+newtab-menu-open-file = Ireki fitxategia
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -78,24 +110,49 @@ newtab-menu-bookmark = Egin laster-marka
 newtab-label-visited = Bisitatuta
 newtab-label-bookmarked = Laster-marka eginda
 newtab-label-recommended = Joerak
+newtab-label-saved = { -pocket-brand-name }-en gordeta
+newtab-label-download = Deskargatuta
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = Kendu atala
+newtab-section-menu-collapse-section = Tolestu atala
+newtab-section-menu-expand-section = Zabaldu atala
+newtab-section-menu-manage-section = Kudeatu atala
+newtab-section-menu-manage-webext = Kudeatu hedapena
+newtab-section-menu-add-topsite = Gehitu maiz erabilitako gunea
+newtab-section-menu-add-search-engine = Gehitu bilaketa-motorra
+newtab-section-menu-move-up = Eraman gora
+newtab-section-menu-move-down = Eraman behera
+newtab-section-menu-privacy-notice = Pribatutasun-oharra
 
 ## Section Headers.
 
 newtab-section-header-topsites = Gune erabilienak
+newtab-section-header-highlights = Nabarmendutakoak
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } hornitzaileak gomendatuta
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = Hasi nabigatzen eta azkenaldian bisitatutako edo laster-marka egindako aparteko artikulu, bideo eta orriak erakutsiko ditugu.
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = Egunean zaude jada. Etorri berriro geroago { $provider } hornitzailearen istorio ezagun gehiagorako. Ezin duzu itxaron? Hautatu gai ezagun bat webeko istorio gehiago aurkitzeko.
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = Gai ezagunak:
+newtab-pocket-more-recommendations = Gomendio gehiago
+newtab-pocket-cta-button = Eskuratu { -pocket-brand-name }
+newtab-pocket-cta-text = Gorde gogoko dituzun istorioak { -pocket-brand-name }-en eta piztu zure gogoa irakurgai erakargarriekin.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = Kontxo, zerbait gaizki joan da edukia kargatzerakoan.
+newtab-error-fallback-refresh-link = Berritu orria berriro saiatzeko.
