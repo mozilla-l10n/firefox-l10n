@@ -32,6 +32,7 @@ newtab-topsites-url-validation = Необходим е валиден URL
 newtab-topsites-cancel-button = Отказ
 newtab-topsites-delete-history-button = Премахване
 newtab-topsites-save-button = Запазване
+newtab-topsites-preview-button = Преглед
 newtab-topsites-add-button = Добавяне
 
 ## Top Sites - Delete history confirmation dialog. 
@@ -74,10 +75,14 @@ newtab-menu-bookmark = Отметка
 newtab-label-visited = Посетена
 newtab-label-bookmarked = Отметната
 newtab-label-recommended = Тенденции
+newtab-label-saved = Запазено в { -pocket-brand-name }
+newtab-label-download = Изтеглено
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-move-up = Преместване нагоре
+newtab-section-menu-move-down = Преместване надолу
 newtab-section-menu-privacy-notice = Политика за личните данни
 
 ## Section Headers.
