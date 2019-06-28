@@ -23,6 +23,7 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Дадаць пашукавік
 newtab-topsites-add-topsites-header = Новы папулярны сайт
 newtab-topsites-edit-topsites-header = Рэдагаваць папулярны сайт
 newtab-topsites-title-label = Загаловак
@@ -32,12 +33,16 @@ newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Увядзіце або ўстаўце URL
 newtab-topsites-url-validation = Патрабуецца сапраўдны URL
+newtab-topsites-image-url-label = URL уласнага відарыса
+newtab-topsites-use-image-link = Выкарыстоўваць уласны відарыс…
+newtab-topsites-image-validation = Не ўдалося атрымаць відарыс. Паспрабуйце іншы URL.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Скасаваць
 newtab-topsites-delete-history-button = Выдаліць з гісторыі
 newtab-topsites-save-button = Захаваць
+newtab-topsites-preview-button = Перадпрагляд
 newtab-topsites-add-button = Дадаць
 
 ## Top Sites - Delete history confirmation dialog. 
@@ -48,6 +53,16 @@ newtab-confirm-delete-history-p2 = Гэта дзеянне немагчыма а
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Адкрыць меню
+    .aria-label = Адкрыць меню
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Адкрыць меню
+    .aria-label = Адкрыць кантэкстнае меню для { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Рэдагаваць гэты сайт
@@ -64,6 +79,7 @@ newtab-menu-unpin = Адмацаваць
 newtab-menu-delete-history = Выдаліць з гісторыі
 newtab-menu-save-to-pocket = Захаваць у { -pocket-brand-name }
 newtab-menu-delete-pocket = Выдаліць з { -pocket-brand-name }
+newtab-menu-archive-pocket = Архіваваць у { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Выдаліць закладку
 # Bookmark is a verb here.
@@ -72,11 +88,20 @@ newtab-menu-bookmark = У закладкі
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = Капіяваць спасылку сцягвання
+newtab-menu-go-to-download-page = Перайсці на старонку сцягвання
+newtab-menu-remove-download = Выдаліць з гісторыі
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Паказаць у Finder
+       *[other] Адкрыць змяшчальную папку
+    }
+newtab-menu-open-file = Адкрыць файл
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -86,11 +111,20 @@ newtab-label-visited = Наведанае
 newtab-label-bookmarked = У закладках
 newtab-label-recommended = Тэндэнцыі
 newtab-label-saved = Захавана ў { -pocket-brand-name }
+newtab-label-download = Сцягнута
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = Выдаліць раздзел
+newtab-section-menu-collapse-section = Згарнуць раздзел
+newtab-section-menu-expand-section = Разгарнуць раздзел
+newtab-section-menu-manage-section = Наладзіць раздзел
 newtab-section-menu-manage-webext = Кіраваць пашырэннем
+newtab-section-menu-add-topsite = Дадаць папулярны сайт
+newtab-section-menu-add-search-engine = Дадаць пашукавік
+newtab-section-menu-move-up = Пасунуць вышэй
+newtab-section-menu-move-down = Пасунуць ніжэй
 newtab-section-menu-privacy-notice = Паведамленне аб прыватнасці
 
 ## Section Headers.
@@ -113,7 +147,13 @@ newtab-empty-section-topstories = Гатова. Праверце пазней, �
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Папулярныя тэмы:
+newtab-pocket-more-recommendations = Больш рэкамендацый
+newtab-pocket-how-it-works = Як гэта працуе
+newtab-pocket-cta-button = Атрымаць { -pocket-brand-name }
+newtab-pocket-cta-text = Захоўвайце ўлюбёныя гісторыі ў { -pocket-brand-name }, і сілкуйце свой розум добрай чытанкай.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = Ох, нешта пайшло не так пры загрузцы гэтага змесціва.
+newtab-error-fallback-refresh-link = Абнавіць старонку, каб паўтарыць спробу.
