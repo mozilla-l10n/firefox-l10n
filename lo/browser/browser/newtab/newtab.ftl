@@ -18,6 +18,11 @@ newtab-search-box-search-button =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-title-input =
+    .placeholder = ປ້ອນຊື່ເລື່ອງ
+newtab-topsites-url-input =
+    .placeholder = ພິມຫລືວາງ URL
+newtab-topsites-url-validation = ຕ້ອງການ URL ທີ່ຖືກຕ້ອງ
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -38,6 +43,7 @@ newtab-menu-topsites-placeholder-tooltip =
 newtab-menu-edit-topsites = ແກ້ໄຂ
 newtab-menu-dismiss = ຍົກເລີກ
 newtab-menu-delete-history = ລຶບອອກຈາກປະຫວັດການນຳໃຊ້
+newtab-menu-save-to-pocket = ບັນທືກໄປທີ່ { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = ລຶບບຸກມາກອອກ
 # Bookmark is a verb here.
@@ -65,12 +71,18 @@ newtab-label-bookmarked = ບຸກມາກໄວ້ແລ້ວ
 ## Section Headers.
 
 newtab-section-header-topsites = ເວັບໄຊຕ໌ຍອດນິຍົມ
+newtab-section-header-highlights = ລາຍການເດັ່ນ
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = ແນະນຳໂດຍ { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = ຫົວຂໍ້ຍອດນິຍົມ:
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
