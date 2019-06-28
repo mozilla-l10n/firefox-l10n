@@ -23,6 +23,7 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Aggiungi motore di ricerca
 newtab-topsites-add-topsites-header = Nuovi sito principale
 newtab-topsites-edit-topsites-header = Modifica sito principale
 newtab-topsites-title-label = Titolo
@@ -52,6 +53,16 @@ newtab-confirm-delete-history-p2 = Questa operazione non può essere annullata.
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Apri menu
+    .aria-label = Apri menu
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Apri menu
+    .aria-label = Apri menu contestuale per { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Modifica questo sito
@@ -63,6 +74,8 @@ newtab-menu-edit-topsites = Modifica
 newtab-menu-open-new-window = Apri in una nuova finestra
 newtab-menu-open-new-private-window = Apri in una nuova finestra anonima
 newtab-menu-dismiss = Rimuovi
+newtab-menu-pin = Appunta
+newtab-menu-unpin = Rilascia
 newtab-menu-delete-history = Elimina dalla cronologia
 newtab-menu-save-to-pocket = Salva in { -pocket-brand-name }
 newtab-menu-delete-pocket = Elimina da { -pocket-brand-name }
@@ -107,7 +120,11 @@ newtab-section-menu-remove-section = Rimuovi sezione
 newtab-section-menu-collapse-section = Comprimi sezione
 newtab-section-menu-expand-section = Espandi sezione
 newtab-section-menu-manage-section = Gestisci sezione
+newtab-section-menu-manage-webext = Gestisci estensione
 newtab-section-menu-add-topsite = Aggiungi sito principale
+newtab-section-menu-add-search-engine = Aggiungi motore di ricerca
+newtab-section-menu-move-up = Sposta su
+newtab-section-menu-move-down = Sposta giù
 newtab-section-menu-privacy-notice = Informativa sulla privacy
 
 ## Section Headers.
@@ -121,11 +138,19 @@ newtab-section-header-pocket = Consigliati da { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Inizia a navigare e, in questa sezione, verranno visualizzati articoli, video e altre pagine visitate di recente o aggiunte ai segnalibri.
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = Non c’è altro. Controlla più tardi per altre storie da { $provider }. Non vuoi aspettare? Seleziona un argomento tra quelli più popolari per scoprire altre notizie interessanti dal Web.
 
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Argomenti popolari:
+newtab-pocket-more-recommendations = Altri suggerimenti
+newtab-pocket-how-it-works = Come funziona
+newtab-pocket-cta-button = Ottieni { -pocket-brand-name }
+newtab-pocket-cta-text = Salva le storie che ami in { -pocket-brand-name } e nutri la tua mente con letture appassionanti.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
