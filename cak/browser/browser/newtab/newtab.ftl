@@ -53,6 +53,16 @@ newtab-confirm-delete-history-p2 = Man yatikïr ta najäl re b'anïk re'.
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Tijaq k'utüy samaj
+    .aria-label = Tijaq k'utüy samaj
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Tijaq k'utüy samaj
+    .aria-label = Tijar ri ruk'utsamaj k'ojlem richin { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Tinuk' re ruxaq k'amaya'l re'
@@ -119,6 +129,8 @@ newtab-section-menu-privacy-notice = Ichinan na'oj
 
 ## Section Headers.
 
+newtab-section-header-topsites = Jeb'ël Taq Ruxaq
+newtab-section-header-highlights = Ya'on kiq'ij
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Chilab'en ruma { $provider }
@@ -135,6 +147,10 @@ newtab-empty-section-topstories = Xaq'i'. Katzolin chik pe richin ye'ak'ül ri u
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Nima'q taq Na'oj:
+newtab-pocket-more-recommendations = Ch'aqa' chik taq Chilab'enïk
+newtab-pocket-how-it-works = Achike rub'eyal nisamäj
+newtab-pocket-cta-button = Tik'ul { -pocket-brand-name }
+newtab-pocket-cta-text = Ke'ayaka' ri taq b'anob'äl ye'awajo' pa { -pocket-brand-name }, chuqa' taya' ruchuq'a' ajolom kik'in jeb'ël taq sik'inïk.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
