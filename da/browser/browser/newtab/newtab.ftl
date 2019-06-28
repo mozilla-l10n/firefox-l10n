@@ -23,6 +23,7 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-topsites-header = Ny webside
 newtab-topsites-edit-topsites-header = Rediger mest besøgte webside
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
@@ -97,6 +98,7 @@ newtab-menu-open-file = Åbn fil
 
 newtab-label-visited = Besøgt
 newtab-label-bookmarked = Bogmærket
+newtab-label-recommended = Populært
 newtab-label-saved = Gemt til { -pocket-brand-name }
 newtab-label-download = Hentet
 
@@ -115,9 +117,18 @@ newtab-section-menu-privacy-notice = Privatlivspolitik
 ## Section Headers.
 
 newtab-section-header-topsites = Mest besøgte websider
+newtab-section-header-highlights = Fremhævede
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = Anbefalet af { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = Gå i gang med at browse, så vil vi vise dig nogle af de artikler, videoer og andre sider, du har besøgt eller gemt et bogmærke til for nylig.
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = Der er ikke flere nye historier. Kom tilbage senere for at se flere tophistorier fra { $provider }. Kan du ikke vente? Vælg et populært emne og find flere spændende historier fra hele verden.
 
 ## Pocket Content Section.
 
