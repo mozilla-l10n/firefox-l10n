@@ -33,12 +33,16 @@ newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Skriv eller klistra in en URL
 newtab-topsites-url-validation = Giltig URL krävs
+newtab-topsites-image-url-label = Anpassad bild URL
+newtab-topsites-use-image-link = Använd en anpassad bild…
+newtab-topsites-image-validation = Bilden misslyckades att ladda. Prova en annan URL.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Avbryt
 newtab-topsites-delete-history-button = Ta bort från historik
 newtab-topsites-save-button = Spara
+newtab-topsites-preview-button = Förhandsvisa
 newtab-topsites-add-button = Lägg till
 
 ## Top Sites - Delete history confirmation dialog. 
@@ -86,11 +90,18 @@ newtab-menu-bookmark = Bokmärke
 
 newtab-menu-copy-download-link = Kopiera nedladdningslänk
 newtab-menu-go-to-download-page = Gå till hämtningssida
+newtab-menu-remove-download = Ta bort från historik
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Visa i Finder
+       *[other] Öppna objektets mapp
+    }
+newtab-menu-open-file = Öppna fil
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -100,6 +111,7 @@ newtab-label-visited = Besökta
 newtab-label-bookmarked = Bokmärkta
 newtab-label-recommended = Trend
 newtab-label-saved = Spara till { -pocket-brand-name }
+newtab-label-download = Nedladdat
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
@@ -108,6 +120,7 @@ newtab-section-menu-remove-section = Ta bort sektion
 newtab-section-menu-collapse-section = Fäll ihop sektion
 newtab-section-menu-expand-section = Expandera sektion
 newtab-section-menu-manage-section = Hantera sektion
+newtab-section-menu-manage-webext = Hantera tillägg
 newtab-section-menu-add-topsite = Lägg till mest besökta
 newtab-section-menu-add-search-engine = Lägg till sökmotor
 newtab-section-menu-move-up = Flytta upp
