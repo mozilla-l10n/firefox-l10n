@@ -88,9 +88,13 @@ newtab-label-recommended = ട്രെൻഡിംഗ്
 
 newtab-section-header-topsites = മികച്ച സൈറ്റുകൾ
 newtab-section-header-highlights = ഹൈലൈറ്റുകൾ
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = { $provider } ശുപാർശ ചെയ്തത്
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = ബ്രൗസിംഗ് ആരംഭിക്കുക, നിങ്ങൾ സമീപകാലത്ത് സന്ദർശിച്ചതോ ബുക്ക്മാർക്ക് ചെയ്തതോ ആയ മികച്ച ലേഖനങ്ങളിൽ നിന്നോ, വീഡിയോകളിൽ നിന്നോ, മറ്റു പേജുകളിൽ നിന്നോ ചിലത് ഞങ്ങൾ ഇവിടെ കാണിക്കും.
 
 ## Pocket Content Section.
 
