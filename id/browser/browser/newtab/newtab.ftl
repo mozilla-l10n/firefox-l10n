@@ -57,6 +57,12 @@ newtab-confirm-delete-history-p2 = Tindakan ini tidak bisa diurungkan.
 newtab-menu-section-tooltip =
     .title = Buka menu
     .aria-label = Buka menu
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Buka menu
+    .aria-label = Buka menu konteks untuk { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Edit situs ini
@@ -73,6 +79,7 @@ newtab-menu-unpin = Lepas
 newtab-menu-delete-history = Hapus dari Riwayat
 newtab-menu-save-to-pocket = Simpan ke { -pocket-brand-name }
 newtab-menu-delete-pocket = Hapus dari { -pocket-brand-name }
+newtab-menu-archive-pocket = Arsip di { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Hapus Markah
 # Bookmark is a verb here.
@@ -81,12 +88,20 @@ newtab-menu-bookmark = Markah
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = Salin Tautan Unduhan
+newtab-menu-go-to-download-page = Buka Laman Unduhan
 newtab-menu-remove-download = Hapus dari Riwayat
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Tampilkan di Finder
+       *[other] Buka Foldernya
+    }
+newtab-menu-open-file = Buka Berkas
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -96,6 +111,7 @@ newtab-label-visited = Dikunjungi
 newtab-label-bookmarked = Dimarkahi
 newtab-label-recommended = Trending
 newtab-label-saved = Disimpan di { -pocket-brand-name }
+newtab-label-download = Terunduh
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
@@ -104,7 +120,12 @@ newtab-section-menu-remove-section = Hapus Bagian
 newtab-section-menu-collapse-section = Ciutkan Bagian
 newtab-section-menu-expand-section = Bentangkan Bagian
 newtab-section-menu-manage-section = Kelola Bagian
+newtab-section-menu-manage-webext = Kelola Ekstensi
+newtab-section-menu-add-topsite = Tambah Situs Pilihan
 newtab-section-menu-add-search-engine = Tambahkan Mesin Pencari
+newtab-section-menu-move-up = Naikkan
+newtab-section-menu-move-down = Turunkan
+newtab-section-menu-privacy-notice = Kebijakan Privasi
 
 ## Section Headers.
 
