@@ -25,14 +25,17 @@ newtab-search-box-search-the-web-input =
 
 newtab-topsites-add-search-engine-header = Adder un motor de recerca
 newtab-topsites-add-topsites-header = Nove sito popular
+newtab-topsites-edit-topsites-header = Modificar le sito popular
 newtab-topsites-title-label = Titulo
 newtab-topsites-title-input =
     .placeholder = Scriber un titulo
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Scriber o collar un URL
+newtab-topsites-url-validation = Es necessari un URL valide
 newtab-topsites-image-url-label = URL de imagine personal
 newtab-topsites-use-image-link = Uso de imagine personal...
+newtab-topsites-image-validation = Error durante le cargamento del imagine. Prova un altere URL.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -60,6 +63,10 @@ newtab-menu-section-tooltip =
 newtab-menu-content-tooltip =
     .title = Aperir le menu
     .aria-label = Aperir le menu contextual pro { $title }
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = Modificar iste sito
+    .aria-label = Modificar iste sito
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -83,6 +90,7 @@ newtab-menu-bookmark = Adder marcapaginas
 
 newtab-menu-copy-download-link = Copiar le ligamine de discargamento
 newtab-menu-go-to-download-page = Ir al pagina de discargamento
+newtab-menu-remove-download = Remover del chronologia
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
