@@ -33,12 +33,16 @@ newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Унесите или налепите URL
 newtab-topsites-url-validation = Исправан URL се захтева
+newtab-topsites-image-url-label = URL прилагођене слике
+newtab-topsites-use-image-link = Користи прилагођену слику…
+newtab-topsites-image-validation = Нисам успео да учитам слику. Пробајте са другим URL-ом.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Откажи
 newtab-topsites-delete-history-button = Уклони из историјата
 newtab-topsites-save-button = Сачувај
+newtab-topsites-preview-button = Преглед
 newtab-topsites-add-button = Додај
 
 ## Top Sites - Delete history confirmation dialog. 
@@ -49,6 +53,16 @@ newtab-confirm-delete-history-p2 = Ова радња се не може опоз
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Отвори мени
+    .aria-label = Отвори мени
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Отвори мени
+    .aria-label = Отвори мени поља за { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Уреди овај сајт
@@ -116,12 +130,14 @@ newtab-section-menu-privacy-notice = Обавештење о приватнос�
 ## Section Headers.
 
 newtab-section-header-topsites = Омиљени сајтови
+newtab-section-header-highlights = Истакнуто
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Предложио { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = Почните са коришћењем веба а ми ћемо вам овде приказивати неке од одличних чланака, видео записа и других страница које сте скоро посетили.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -132,6 +148,7 @@ newtab-empty-section-topstories = Вратите се касније за нов
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Популарне теме:
 newtab-pocket-more-recommendations = Још препорука
+newtab-pocket-how-it-works = Како ово ради
 newtab-pocket-cta-button = Преузмите { -pocket-brand-name }
 newtab-pocket-cta-text = Сачувајте приче које волите у { -pocket-brand-name } и напуните свој ум фасцинантним причама.
 
