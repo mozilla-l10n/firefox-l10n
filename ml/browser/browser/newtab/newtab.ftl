@@ -61,6 +61,8 @@ newtab-menu-pin = പിൻ ചെയ്യുക
 newtab-menu-unpin = അൺപിൻ ചെയ്യുക
 newtab-menu-delete-history = നാള്‍വഴിയിൽ നിന്ന് ഒഴിവാക്കുക
 newtab-menu-save-to-pocket = പോക്കറ്റിലേയ്ക്ക് സംരക്ഷിയ്ക്കുക
+newtab-menu-delete-pocket = പോക്കറ്റിൽ നിന്ന് ഇല്ലാതാക്കുക
+newtab-menu-archive-pocket = പോക്കറ്റിലേക്ക് ആർക്കൈവ് ചെയ്യുക
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = അടയാളം മാറ്റുക
 # Bookmark is a verb here.
@@ -69,11 +71,20 @@ newtab-menu-bookmark = അടയാളം
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = ഡൗൺലോഡ് കണ്ണി പകർത്തുക
+newtab-menu-go-to-download-page = ഡൗൺലോഡ് താളിലേക്ക് പോകുക
+newtab-menu-remove-download = ചരിത്രത്തിൽ നിന്ന് നീക്കംചെയ്യുക
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] ഫൈൻഡറിൽ കാണിക്കുക
+       *[other] ഉൾക്കൊള്ളുന്ന അറ തുറക്കുക
+    }
+newtab-menu-open-file = ഫയൽ തുറക്കുക
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
