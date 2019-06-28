@@ -115,6 +115,7 @@ newtab-label-download = 已下载
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-manage-webext = 管理扩展
 newtab-section-menu-add-topsite = 添加常用网站
 newtab-section-menu-move-up = 上移
 newtab-section-menu-move-down = 下移
