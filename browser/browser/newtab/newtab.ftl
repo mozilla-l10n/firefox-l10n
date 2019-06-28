@@ -128,6 +128,7 @@ newtab-section-menu-privacy-notice = అంతరంగికత గమనిక
 ## Section Headers.
 
 newtab-section-header-topsites = మేటి సైట్లు
+newtab-section-header-highlights = విశేషాలు
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider }చే సిఫార్సు చేయబడినది
