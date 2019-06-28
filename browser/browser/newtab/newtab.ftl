@@ -109,6 +109,7 @@ newtab-section-menu-remove-section = Retirar sección
 newtab-section-menu-collapse-section = Contraer sección
 newtab-section-menu-expand-section = Expandir sección
 newtab-section-menu-manage-section = Xestionar sección
+newtab-section-menu-manage-webext = Xestionar extensión
 newtab-section-menu-add-topsite = Engadir sitio favorito
 newtab-section-menu-move-up = Subir
 newtab-section-menu-move-down = Baixar
