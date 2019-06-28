@@ -6,6 +6,8 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Llingüeta nueva
+newtab-settings-button =
+    .title = Personalizar páxina Llingüeta nueva
 
 ## Search box component.
 
@@ -21,6 +23,13 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-topsites-header = Nuevu Sitiu más visitáu
+newtab-topsites-edit-topsites-header = Editar Sitiu más visitáu
+newtab-topsites-title-input =
+    .placeholder = Introducir títulu
+newtab-topsites-url-input =
+    .placeholder = Escribi o apega una URL
+newtab-topsites-url-validation = Ríquese una URL válida
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -37,9 +46,14 @@ newtab-confirm-delete-history-p2 = Esta aición nun pue desfacese.
 
 ## Context Menu - Action Tooltips.
 
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = Editar esti sitiu
+    .aria-label = Editar esti sitiu
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
+newtab-menu-edit-topsites = Editar
 newtab-menu-open-new-window = Abrir nuna ventana nueva
 newtab-menu-open-new-private-window = Abrir nuna ventana privada nueva
 newtab-menu-dismiss = Escartar
@@ -75,6 +89,11 @@ newtab-label-recommended = Tendencia
 
 ## Section Headers.
 
+newtab-section-header-topsites = Más visitaos
+newtab-section-header-highlights = Destacaos
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = Recomendáu por { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
