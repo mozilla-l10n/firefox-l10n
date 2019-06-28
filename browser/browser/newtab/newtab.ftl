@@ -5,6 +5,7 @@
 
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
+newtab-page-title = નવી ટૅબ
 newtab-settings-button =
     .title = તમારા નવા ટૅબ પૃષ્ઠને કસ્ટમાઇઝ કરો
 
@@ -24,17 +25,23 @@ newtab-search-box-search-the-web-input =
 
 newtab-topsites-add-topsites-header = નવી ટોચની સાઇટ
 newtab-topsites-edit-topsites-header = ટોચની સાઇટ સંપાદિત કરો
+newtab-topsites-title-label = શીર્ષક
 newtab-topsites-title-input =
     .placeholder = શીર્ષક દાખલ કરો
+newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = URL ટાઇપ કરો અથવા પેસ્ટ કરો
 newtab-topsites-url-validation = માન્ય URL આવશ્યક છે
+newtab-topsites-image-url-label = વૈવિધ્યપૂર્ણ છબી URL
+newtab-topsites-use-image-link = વૈવિધ્યપૂર્ણ છબીનો ઉપયોગ કરો…
+newtab-topsites-image-validation = છબી લોડ થવામાં નિષ્ફળ. એક અલગ URL અજમાવી જુઓ.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = રદ કરો
 newtab-topsites-delete-history-button = ઇતિહાસમાંથી દૂર કરો
 newtab-topsites-save-button = સાચવો
+newtab-topsites-preview-button = પૂર્વદર્શન
 newtab-topsites-add-button = ઉમેરો
 
 ## Top Sites - Delete history confirmation dialog. 
@@ -84,10 +91,20 @@ newtab-label-recommended = વલણ
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = વિભાગ દૂર કરો
+newtab-section-menu-collapse-section = વિભાગ સંકુચિત કરો
+newtab-section-menu-expand-section = વિભાગ વિસ્તૃત કરો
+newtab-section-menu-manage-section = વિભાગ સંચાલિત કરો
 newtab-section-menu-manage-webext = એક્સ્ટેંશનનો વહીવટ કરો
+newtab-section-menu-add-topsite = ટોચની સાઇટ ઉમેરો
+newtab-section-menu-move-up = ઉપર કરો
+newtab-section-menu-move-down = નીચે કરો
+newtab-section-menu-privacy-notice = ખાનગી સૂચના
 
 ## Section Headers.
 
+newtab-section-header-topsites = ટોચની સાઇટ્સ
+newtab-section-header-highlights = હાઇલાઇટ્સ
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } દ્વારા ભલામણ
@@ -104,3 +121,5 @@ newtab-pocket-read-more = લોકપ્રિય વિષયો:
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = ઊફ્ફ, આ સામગ્રીને લોડ કરવામાં કંઈક ખોટું થયું.
+newtab-error-fallback-refresh-link = ફરી પ્રયાસ કરવા માટે પૃષ્ઠને તાજું કરો.
