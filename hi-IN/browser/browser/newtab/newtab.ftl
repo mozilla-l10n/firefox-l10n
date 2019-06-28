@@ -53,6 +53,16 @@ newtab-confirm-delete-history-p2 = इस क्रिया को पहले
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = मेन्यू खोलें
+    .aria-label = मेन्यू खोलें
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = मेन्यू खोलें
+    .aria-label = { $title } के लिए कॉन्टेक्स्ट मेनू खोलें
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = इस साइट को संपादित करें
@@ -137,6 +147,9 @@ newtab-empty-section-topstories = आप अंत तक आ गए हैं. 
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = लोकप्रिय विषय:
+newtab-pocket-more-recommendations = अधिक अनुशंसाएँ
+newtab-pocket-how-it-works = यह किस प्रकार काम करता है
+newtab-pocket-cta-button = { -pocket-brand-name } प्राप्त करें
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
