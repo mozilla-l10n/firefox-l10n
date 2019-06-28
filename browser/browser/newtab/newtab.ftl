@@ -75,11 +75,20 @@ newtab-menu-bookmark = Bookmark
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = Copy Download Link
+newtab-menu-go-to-download-page = Go to Download Page
+newtab-menu-remove-download = Remove from History
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Show in Finder
+       *[other] Open Containing Folder
+    }
+newtab-menu-open-file = Open File
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -89,6 +98,7 @@ newtab-label-visited = Visited
 newtab-label-bookmarked = Bookmarked
 newtab-label-recommended = Trending
 newtab-label-saved = Saved to { -pocket-brand-name }
+newtab-label-download = Downloaded
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
