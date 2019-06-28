@@ -5,6 +5,7 @@
 
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
+newtab-page-title = Nova langeto
 newtab-settings-button =
     .title = Personecigi la paĝon por novaj langetoj
 
@@ -90,6 +91,7 @@ newtab-menu-open-file = Malfermi dosieron
 ## context on how the element is related to the user, e.g. type indicates that
 ## the page is bookmarked, or is currently open on another device.
 
+newtab-label-visited = Vizitita
 newtab-label-bookmarked = Kun legosigno
 newtab-label-recommended = Tendencoj
 newtab-label-saved = Konservita en { -pocket-brand-name }
