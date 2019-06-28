@@ -4,5 +4,6 @@
 
 label-disable = השבתה
 label-enable = הפעלה
+label-more-information = מידע נוסף: תקלה { $bug }
 text-disabled-in-about-config = תכונה זו הושבתה ב־about:config
 text-title = about:compat
