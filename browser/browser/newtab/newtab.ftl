@@ -23,24 +23,53 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = शोध इंजीन जोडा
+newtab-topsites-add-topsites-header = नवीन खास साइट
+newtab-topsites-edit-topsites-header = खास साईट संपादित करा
+newtab-topsites-title-label = शिर्षक
+newtab-topsites-title-input =
+    .placeholder = शिर्षक प्रविष्ट करा
+newtab-topsites-url-label = URL
+newtab-topsites-url-input =
+    .placeholder = URL चिकटवा किंवा टाईप करा
+newtab-topsites-url-validation = वैध URL आवश्यक
+newtab-topsites-image-url-label = सानुकूल प्रतिमा URL
+newtab-topsites-use-image-link = सानुकूल प्रतिमा वापरा…
+newtab-topsites-image-validation = प्रतिमा लोड झाली नाही. वेगळी URL वापरून पहा.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
+newtab-topsites-cancel-button = रद्द करा
 newtab-topsites-delete-history-button = इतिहासातून नष्ट करा
+newtab-topsites-save-button = जतन करा
+newtab-topsites-preview-button = पूर्वावलोकन
+newtab-topsites-add-button = समाविष्ट करा
 
 ## Top Sites - Delete history confirmation dialog. 
 
+newtab-confirm-delete-history-p1 = आपल्या इतिहासामधून या पृष्ठातील प्रत्येक उदाहरण खात्रीने हटवू इच्छिता?
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = ही क्रिया पूर्ववत केली जाऊ शकत नाही.
 
 ## Context Menu - Action Tooltips.
 
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = ही साइट संपादित करा
+    .aria-label = ही साइट संपादित करा
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
+newtab-menu-edit-topsites = संपादित करा
 newtab-menu-open-new-window = नवीन पटलात उघडा
 newtab-menu-open-new-private-window = नवीन खाजगी पटलात उघडा
 newtab-menu-dismiss = रद्द करा
+newtab-menu-pin = पिन लावा
+newtab-menu-unpin = पिन काढा
 newtab-menu-delete-history = इतिहासातून नष्ट करा
 newtab-menu-save-to-pocket = { -pocket-brand-name } मध्ये जतन करा
+newtab-menu-delete-pocket = { -pocket-brand-name } मधून हटवा
+newtab-menu-archive-pocket = { -pocket-brand-name } मध्ये संग्रहित करा
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = वाचनखुण काढा
 # Bookmark is a verb here.
@@ -49,11 +78,20 @@ newtab-menu-bookmark = वाचनखुण
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = डाउनलोड दुव्याची प्रत बनवा
+newtab-menu-go-to-download-page = डाउनलोड पृष्ठावर जा
+newtab-menu-remove-download = इतिहासातून काढून टाका
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Finder मध्ये दर्शवा
+       *[other] समाविष्ट करणारे फोल्डर उघडा
+    }
+newtab-menu-open-file = फाइल उघडा
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -61,22 +99,48 @@ newtab-menu-bookmark = वाचनखुण
 
 newtab-label-visited = भेट दिलेले
 newtab-label-bookmarked = वाचनखुण लावले
+newtab-label-recommended = प्रचलित
+newtab-label-saved = { -pocket-brand-name } मध्ये जतन झाले
+newtab-label-download = डाउनलोड केलेले
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = विभाग काढा
+newtab-section-menu-collapse-section = विभाग ढासळा
+newtab-section-menu-expand-section = विभाग वाढवा
+newtab-section-menu-manage-section = विभाग व्यवस्थापित करा
+newtab-section-menu-manage-webext = एक्सटेन्शन व्यवस्थापित करा
+newtab-section-menu-add-topsite = खास साईट्स जोडा
+newtab-section-menu-add-search-engine = शोध इंजीन जोडा
+newtab-section-menu-move-up = वर जा
+newtab-section-menu-move-down = खाली जा
+newtab-section-menu-privacy-notice = गोपनीयता सूचना
 
 ## Section Headers.
 
 newtab-section-header-topsites = खास साईट
 newtab-section-header-highlights = ठळक
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = { $provider } तर्फे शिफारस
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = ब्राउझिंग सुरू करा, आणि आम्ही आपल्याला इथे आपण अलीकडील भेट दिलेले किंवा वाचनखूण लावलेले उत्कृष्ठ लेख, व्हिडिओ, आणि इतर पृष्ठांपैकी काही दाखवू.
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = तुम्ही सर्व बघितले. { $provider } कडून आणखी महत्वाच्या गोष्टी बघण्यासाठी नंतर परत तपासा. प्रतीक्षा करू शकत नाही? वेबवरील छान गोष्टी शोधण्यासाठी लोकप्रिय विषय निवडा.
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = लोकप्रिय विषय:
+newtab-pocket-cta-button = { -pocket-brand-name } मिळवा
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = अरेरे, हा मजकूर लोड करताना काहीतरी गोंधळ झाला.
+newtab-error-fallback-refresh-link = पुन्हा प्रयत्न करण्यासाठी पृष्ठ रिफ्रेश करा.
