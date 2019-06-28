@@ -24,6 +24,10 @@ abuse-report-submit-button = Gönder
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove-extension = Evet, kaldır
+abuse-report-messagebar-action-keep-extension = Hayır, kalsın
+abuse-report-messagebar-action-remove-theme = Evet, kaldır
+abuse-report-messagebar-action-keep-theme = Hayır, kalsın
 abuse-report-messagebar-action-retry = Yeniden dene
 abuse-report-messagebar-action-cancel = Vazgeç
 
