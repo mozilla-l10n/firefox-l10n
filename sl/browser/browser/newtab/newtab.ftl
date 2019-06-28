@@ -23,6 +23,9 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Dodaj iskalnik
+newtab-topsites-add-topsites-header = Nova glavna stran
+newtab-topsites-edit-topsites-header = Uredi glavno stran
 newtab-topsites-title-label = Naslov
 newtab-topsites-title-input =
     .placeholder = Vnesite ime
@@ -36,15 +39,30 @@ newtab-topsites-image-validation = Slike ni bilo mogoče naložiti. Poskusite dr
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
+newtab-topsites-cancel-button = Prekliči
 newtab-topsites-delete-history-button = Izbriši iz zgodovine
+newtab-topsites-save-button = Shrani
 newtab-topsites-preview-button = Predogled
+newtab-topsites-add-button = Dodaj
 
 ## Top Sites - Delete history confirmation dialog. 
 
 newtab-confirm-delete-history-p1 = Ali ste prepričani, da želite izbrisati vse primerke te strani iz zgodovine?
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = Tega dejanja ni mogoče razveljaviti.
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Odpri meni
+    .aria-label = Odpri meni
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Odpri meni
+    .aria-label = Odpri priročni meni za { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Uredi to stran
@@ -56,7 +74,10 @@ newtab-menu-edit-topsites = Uredi
 newtab-menu-open-new-window = Odpri v novem oknu
 newtab-menu-open-new-private-window = Odpri v novem zasebnem oknu
 newtab-menu-dismiss = Opusti
+newtab-menu-pin = Pripni
+newtab-menu-unpin = Odpni
 newtab-menu-delete-history = Izbriši iz zgodovine
+newtab-menu-save-to-pocket = Shrani v { -pocket-brand-name }
 newtab-menu-delete-pocket = Izbriši iz { -pocket-brand-name }a
 newtab-menu-archive-pocket = Arhiviraj v { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
@@ -88,6 +109,7 @@ newtab-menu-open-file = Odpri datoteko
 
 newtab-label-visited = Obiskano
 newtab-label-bookmarked = Med zaznamki
+newtab-label-recommended = Najbolj priljubljeno
 newtab-label-saved = Shranjeno v { -pocket-brand-name }
 newtab-label-download = Preneseno
 
@@ -98,7 +120,9 @@ newtab-section-menu-remove-section = Odstrani odsek
 newtab-section-menu-collapse-section = Strni odsek
 newtab-section-menu-expand-section = Razširi odsek
 newtab-section-menu-manage-section = Upravljanje odseka
+newtab-section-menu-manage-webext = Upravljaj razširitev
 newtab-section-menu-add-topsite = Dodaj glavno stran
+newtab-section-menu-add-search-engine = Dodaj iskalnik
 newtab-section-menu-move-up = Premakni gor
 newtab-section-menu-move-down = Premakni dol
 newtab-section-menu-privacy-notice = Obvestilo o zasebnosti
@@ -106,6 +130,10 @@ newtab-section-menu-privacy-notice = Obvestilo o zasebnosti
 ## Section Headers.
 
 newtab-section-header-topsites = Glavne strani
+newtab-section-header-highlights = Poudarki
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = Priporoča { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -113,7 +141,10 @@ newtab-empty-section-highlights = Začnite z brskanjem, mi pa vam bomo tu prikaz
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = Priljubljene teme:
 newtab-pocket-more-recommendations = Več priporočil
+newtab-pocket-how-it-works = Kako deluje
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
