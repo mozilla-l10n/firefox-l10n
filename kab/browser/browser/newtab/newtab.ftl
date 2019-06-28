@@ -23,6 +23,7 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Rnu amsedday n unadi
 newtab-topsites-add-topsites-header = Asmel ifazen amaynut
 newtab-topsites-edit-topsites-header = Ẓreg asmel ifazen
 newtab-topsites-title-label = Azwel
@@ -110,6 +111,7 @@ newtab-section-menu-expand-section = Snefli tigezmi
 newtab-section-menu-manage-section = Sefrek tigezmi
 newtab-section-menu-manage-webext = Sefrek asiɣzef
 newtab-section-menu-add-topsite = Rnu asmel ifazen
+newtab-section-menu-add-search-engine = Rnu amsedday n unadi
 newtab-section-menu-move-up = Ali
 newtab-section-menu-move-down = Ader
 newtab-section-menu-privacy-notice = Tasertit n tbaḍnit
