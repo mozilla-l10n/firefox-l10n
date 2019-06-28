@@ -78,11 +78,19 @@ newtab-menu-bookmark = புத்தகக்குறி
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 newtab-menu-copy-download-link = பதிவிறக்க இணைப்பை நகலெடு
+newtab-menu-go-to-download-page = பதிவிறக்க பக்கத்திற்கு செல்
+newtab-menu-remove-download = வரலாற்றிலிருந்து நீக்கு
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] தேடலில் காண்பி
+       *[other] கோப்பகத்திலிருந்து திற
+    }
+newtab-menu-open-file = கோப்பைத் திற
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
