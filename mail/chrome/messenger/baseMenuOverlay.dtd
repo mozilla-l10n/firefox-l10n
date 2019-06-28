@@ -28,6 +28,8 @@
 
 <!ENTITY aboutMenuCmd2.label "Acerca de &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "A">
+<!ENTITY helpSafeMode.stop.label     "Reiniciar con los complementos habilitados">
+<!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "Ayuda de &brandShortName;">
 <!ENTITY productHelp.accesskey "y">
 <!ENTITY productHelp.commandkey "VK_F1">
