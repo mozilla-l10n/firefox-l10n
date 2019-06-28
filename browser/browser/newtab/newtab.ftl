@@ -25,8 +25,10 @@ newtab-search-box-search-the-web-input =
 
 newtab-topsites-add-topsites-header = නව ප්‍රමුඛ අඩවියක්
 newtab-topsites-edit-topsites-header = ප්‍රමුඛ අඩවිය සකසන්න
+newtab-topsites-title-label = මාතෘකාව
 newtab-topsites-title-input =
     .placeholder = සිරස්තල එක් කරන්න
+newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = URL එකක් ඇතුළත් කරන්න
 newtab-topsites-url-validation = වලංගු URL එකක් අවශ්‍ය වේ
@@ -60,6 +62,9 @@ newtab-menu-dismiss = ඉවත් කරන්න
 newtab-menu-pin = ඇමිණීම
 newtab-menu-unpin = ඇමුණුම ඉවත් කරන්න
 newtab-menu-delete-history = අතිතයෙන් මකන්න කරන්න
+newtab-menu-save-to-pocket = { -pocket-brand-name } හි සුරකින්න
+newtab-menu-delete-pocket = { -pocket-brand-name } වෙතින් මකන්න
+newtab-menu-archive-pocket = { -pocket-brand-name } හි සංරක්ෂණ කරන්න
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = පිටු සලකුණ ඉවත් කරන්න
 # Bookmark is a verb here.
@@ -80,10 +85,14 @@ newtab-menu-bookmark = පිටු සලකුණ
 
 newtab-label-visited = ප්‍රවේශිත
 newtab-label-bookmarked = පිටු සලකුණු තැබූ
+newtab-label-saved = { -pocket-brand-name } හි සුරකින ලදී
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-move-up = ඉහළට ගෙනයන්න
+newtab-section-menu-move-down = පහළට ගෙනයන්න
+newtab-section-menu-privacy-notice = පෞද්ගලිකත්ව සටහන
 
 ## Section Headers.
 
