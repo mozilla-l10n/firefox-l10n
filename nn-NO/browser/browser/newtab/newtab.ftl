@@ -23,6 +23,7 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Legg til søkjemotor
 newtab-topsites-add-topsites-header = Ny Mest besøkt
 newtab-topsites-edit-topsites-header = Rediger Mest besøkt
 newtab-topsites-title-label = Tittel
@@ -103,7 +104,9 @@ newtab-section-menu-remove-section = Fjern seksjon
 newtab-section-menu-collapse-section = Slå saman seksjon
 newtab-section-menu-expand-section = Utvid seksjon
 newtab-section-menu-manage-section = Handter seksjon
+newtab-section-menu-manage-webext = Handter utviding
 newtab-section-menu-add-topsite = Legg til mest besøkte
+newtab-section-menu-add-search-engine = Legg til søkjemotor
 newtab-section-menu-move-up = Flytt opp
 newtab-section-menu-move-down = Flytt ned
 newtab-section-menu-privacy-notice = Personvernmerknad
@@ -128,6 +131,10 @@ newtab-empty-section-topstories = Det finst ikkje fleire. Kom tilbake seinare fo
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Populære emne:
+newtab-pocket-more-recommendations = Fleire tilrådingar
+newtab-pocket-how-it-works = Korleis det fungerar
+newtab-pocket-cta-button = Last ned { -pocket-brand-name }
+newtab-pocket-cta-text = Lagre artiklane du synest er interessante i { -pocket-brand-name }, og stimuler tankane dine med fasinerande lesemateriell.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
