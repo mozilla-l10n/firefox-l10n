@@ -1,0 +1,132 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+### Firefox Home / New Tab strings for about:home / about:newtab.
+
+newtab-page-title = Uusi välilehti
+newtab-settings-button =
+    .title = Muokkaa Uusi välilehti -sivua
+
+## Search box component.
+
+# "Search" is a verb/action
+newtab-search-box-search-button =
+    .title = Haku
+    .aria-label = Haku
+newtab-search-box-search-the-web-text = Verkkohaku
+newtab-search-box-search-the-web-input =
+    .placeholder = Verkkohaku
+    .title = Verkkohaku
+    .aria-label = Verkkohaku
+
+## Top Sites - General form dialog.
+
+newtab-topsites-add-topsites-header = Uusi ykkössivusto
+newtab-topsites-edit-topsites-header = Muokkaa ykkössivustoa
+newtab-topsites-title-label = Otsikko
+newtab-topsites-title-input =
+    .placeholder = Kirjoita otsikko
+newtab-topsites-url-label = Osoite
+newtab-topsites-url-input =
+    .placeholder = Kirjoita tai liitä osoite
+newtab-topsites-url-validation = Kelvollinen osoite vaaditaan
+newtab-topsites-image-url-label = Oman kuvan osoite
+newtab-topsites-use-image-link = Käytä omaa kuvaa…
+newtab-topsites-image-validation = Kuvan lataaminen epäonnistui. Kokeile toista osoitetta.
+
+## Top Sites - General form dialog buttons. These are verbs/actions.
+
+newtab-topsites-cancel-button = Peruuta
+newtab-topsites-delete-history-button = Poista historiasta
+newtab-topsites-save-button = Tallenna
+newtab-topsites-preview-button = Esikatsele
+newtab-topsites-add-button = Lisää
+
+## Top Sites - Delete history confirmation dialog. 
+
+newtab-confirm-delete-history-p1 = Haluatko varmasti poistaa tämän sivun kaikkialta historiastasi?
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = Tämä toiminto on peruuttamaton.
+
+## Context Menu - Action Tooltips.
+
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = Muokkaa tätä sivustoa
+    .aria-label = Muokkaa tätä sivustoa
+
+## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
+
+newtab-menu-edit-topsites = Muokkaa
+newtab-menu-open-new-window = Avaa uuteen ikkunaan
+newtab-menu-open-new-private-window = Avaa uuteen yksityiseen ikkunaan
+newtab-menu-dismiss = Hylkää
+newtab-menu-pin = Kiinnitä
+newtab-menu-unpin = Poista kiinnitys
+newtab-menu-delete-history = Poista historiasta
+newtab-menu-save-to-pocket = Tallenna { -pocket-brand-name }-palveluun
+newtab-menu-delete-pocket = Poista { -pocket-brand-name }-palvelusta
+newtab-menu-archive-pocket = Arkistoi { -pocket-brand-name }-palveluun
+# Bookmark is a noun in this case, "Remove bookmark".
+newtab-menu-remove-bookmark = Poista kirjanmerkki
+# Bookmark is a verb here.
+newtab-menu-bookmark = Lisää kirjanmerkki
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
+
+## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
+## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
+## system for each operating system.
+
+
+## Card Labels: These labels are associated to pages to give
+## context on how the element is related to the user, e.g. type indicates that
+## the page is bookmarked, or is currently open on another device.
+
+newtab-label-visited = Vierailtu
+newtab-label-bookmarked = Kirjanmerkki
+newtab-label-recommended = Pinnalla
+newtab-label-saved = Tallennettu { -pocket-brand-name }-palveluun
+
+## Section Menu: These strings are displayed in the section context menu and are 
+## meant as a call to action for the given section.
+
+newtab-section-menu-remove-section = Poista osio
+newtab-section-menu-collapse-section = Pienennä osio
+newtab-section-menu-expand-section = Laajenna osio
+newtab-section-menu-manage-section = Muokkaa osiota
+newtab-section-menu-add-topsite = Lisää ykkössivusto
+newtab-section-menu-move-up = Siirrä ylös
+newtab-section-menu-move-down = Siirrä alas
+newtab-section-menu-privacy-notice = Tietosuojakäytäntö
+
+## Section Headers.
+
+newtab-section-header-topsites = Ykkössivustot
+newtab-section-header-highlights = Nostot
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = Suositukset lähteestä { $provider }
+
+## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+
+newtab-empty-section-highlights = Ala selata, niin tässä alkaa näkyä hyviä juttuja, videoita ja muita sivuja, joilla olet käynyt hiljattain tai jotka olet lisännyt kirjanmerkkeihin.
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = Ei enempää suosituksia juuri nyt. Katso myöhemmin uudestaan lisää ykkösjuttuja lähteestä { $provider }. Etkö malta odottaa? Valitse suosittu aihe ja löydä lisää hyviä juttuja ympäri verkkoa.
+
+## Pocket Content Section.
+
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = Suositut aiheet:
+
+## Error Fallback Content.
+## This message and suggested action link are shown in each section of UI that fails to render.
+
+newtab-error-fallback-info = Hups, jotain meni vikaan tätä sisältöä ladattaessa.
+newtab-error-fallback-refresh-link = Yritä uudestaan päivittämällä sivu.
