@@ -26,8 +26,10 @@ newtab-search-box-search-the-web-input =
 newtab-topsites-add-search-engine-header = 검색 엔진 추가
 newtab-topsites-add-topsites-header = 새로운 인기 사이트
 newtab-topsites-edit-topsites-header = 인기 사이트 편집
+newtab-topsites-title-label = 제목
 newtab-topsites-title-input =
     .placeholder = 제목 입력
+newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = URL 입력 또는 붙여 넣기
 newtab-topsites-url-validation = 유효한 URL이 필요합니다
@@ -53,6 +55,12 @@ newtab-confirm-delete-history-p2 = 이 작업은 되돌릴 수 없습니다.
 newtab-menu-section-tooltip =
     .title = 메뉴 열기
     .aria-label = 메뉴 열기
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = 메뉴 열기
+    .aria-label = { $title }에 대한 컨텍스트 메뉴 열기
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = 이 사이트 수정
@@ -68,6 +76,8 @@ newtab-menu-pin = 고정
 newtab-menu-unpin = 고정 해제
 newtab-menu-delete-history = 방문 기록에서 삭제
 newtab-menu-save-to-pocket = { -pocket-brand-name }에 저장
+newtab-menu-delete-pocket = { -pocket-brand-name }에서 삭제
+newtab-menu-archive-pocket = { -pocket-brand-name }에 보관
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = 즐겨찾기 삭제
 # Bookmark is a verb here.
@@ -89,6 +99,7 @@ newtab-menu-bookmark = 즐겨찾기
 newtab-label-visited = 방문한 사이트
 newtab-label-bookmarked = 즐겨찾기
 newtab-label-recommended = 트랜드
+newtab-label-saved = { -pocket-brand-name }에 저장됨
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
