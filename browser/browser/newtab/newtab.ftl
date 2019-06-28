@@ -22,6 +22,7 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Azonzi motô de riçerca
 newtab-topsites-add-topsites-header = Neuvo scito prinçipâ
 newtab-topsites-edit-topsites-header = Cangia scito prinçipâ
 newtab-topsites-title-label = Titolo
@@ -51,6 +52,16 @@ newtab-confirm-delete-history-p2 = Sta açion a no se peu anulâ.
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Arvi menû
+    .aria-label = Arvi menû
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Arvi menû
+    .aria-label = Arvi into menû contesto pe { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Cangia sto scito
@@ -75,11 +86,19 @@ newtab-menu-bookmark = Azonzi a-i segnalibbri
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = Còpia indirisso òrigine
+newtab-menu-go-to-download-page = Vanni a-a pagina de descaregamento
+newtab-menu-remove-download = Scancella da-a stöia
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Fanni vedde in Finder
+       *[other] Arvi cartella
+    }
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -89,6 +108,7 @@ newtab-label-visited = Vixitou
 newtab-label-bookmarked = Azonto a-i segnalibbri
 newtab-label-recommended = De tentensa
 newtab-label-saved = Sarvou in { -pocket-brand-name }
+newtab-label-download = Descaregou
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
@@ -97,7 +117,9 @@ newtab-section-menu-remove-section = Scancella seçion
 newtab-section-menu-collapse-section = Conprimmi seçion
 newtab-section-menu-expand-section = Espandi seçion
 newtab-section-menu-manage-section = Gestisci seçion
+newtab-section-menu-manage-webext = Gestisci estenscioin
 newtab-section-menu-add-topsite = Azonzi scito prinçipâ
+newtab-section-menu-add-search-engine = Azonzi motô de riçerca
 newtab-section-menu-move-up = Mescia in sciù
 newtab-section-menu-move-down = Mescia in zu
 newtab-section-menu-privacy-notice = Informativa in sciâ privacy
@@ -122,6 +144,10 @@ newtab-empty-section-topstories = No gh'é atro. Contròlla ciù tardi se gh'é 
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Argomenti popolari:
+newtab-pocket-more-recommendations = Atri conseggi
+newtab-pocket-how-it-works = Comme o fonçionn-a
+newtab-pocket-cta-button = Piggite { -pocket-brand-name }
+newtab-pocket-cta-text = Sarva e stöie che te piaxan into { -pocket-brand-name }, e carega torna a mente con letue che incantan.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
