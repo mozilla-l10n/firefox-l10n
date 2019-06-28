@@ -23,6 +23,7 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Añadir motor de búsqueda
 newtab-topsites-add-topsites-header = Nuevo sitio popular
 newtab-topsites-edit-topsites-header = Editar sitio popular
 newtab-topsites-title-label = Título
@@ -32,6 +33,8 @@ newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Escribir o pegar una URL
 newtab-topsites-url-validation = Se requiere una URL válida
+newtab-topsites-image-url-label = URL de imagen personalizada
+newtab-topsites-use-image-link = Utilizar una imagen personalizada…
 newtab-topsites-image-validation = No se ha podido cargar la imagen. Pruebe con una URL diferente.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
@@ -39,6 +42,7 @@ newtab-topsites-image-validation = No se ha podido cargar la imagen. Pruebe con 
 newtab-topsites-cancel-button = Cancelar
 newtab-topsites-delete-history-button = Eliminar del historial
 newtab-topsites-save-button = Guardar
+newtab-topsites-preview-button = Vista preliminar
 newtab-topsites-add-button = Agregar
 
 ## Top Sites - Delete history confirmation dialog. 
@@ -49,6 +53,16 @@ newtab-confirm-delete-history-p2 = Esta acción no se puede deshacer.
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Abrir menú
+    .aria-label = Abrir menú
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Abrir menú
+    .aria-label = Abrir menú de contexto para { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Editar este sitio
@@ -76,11 +90,18 @@ newtab-menu-bookmark = Marcador
 
 newtab-menu-copy-download-link = Copiar el enlace de descarga
 newtab-menu-go-to-download-page = Ir a la página de descarga
+newtab-menu-remove-download = Eliminar del historial
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Mostrar en Finder
+       *[other] Abrir la carpeta que lo contiene
+    }
+newtab-menu-open-file = Abrir archivo
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -90,6 +111,7 @@ newtab-label-visited = Visitados
 newtab-label-bookmarked = En marcadores
 newtab-label-recommended = Tendencias
 newtab-label-saved = Guardado en { -pocket-brand-name }
+newtab-label-download = Descargado
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
@@ -100,6 +122,7 @@ newtab-section-menu-expand-section = Expandir sección
 newtab-section-menu-manage-section = Gestionar sección
 newtab-section-menu-manage-webext = Gestionar extensión
 newtab-section-menu-add-topsite = Añadir sitio popular
+newtab-section-menu-add-search-engine = Añadir motor de búsqueda
 newtab-section-menu-move-up = Subir
 newtab-section-menu-move-down = Bajar
 newtab-section-menu-privacy-notice = Aviso de privacidad
