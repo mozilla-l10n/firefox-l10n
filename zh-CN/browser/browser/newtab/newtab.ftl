@@ -23,6 +23,7 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = 添加搜索引擎
 newtab-topsites-add-topsites-header = 新建常用网站
 newtab-topsites-edit-topsites-header = 编辑常用网站
 newtab-topsites-title-label = 标题
@@ -117,6 +118,7 @@ newtab-label-download = 已下载
 
 newtab-section-menu-manage-webext = 管理扩展
 newtab-section-menu-add-topsite = 添加常用网站
+newtab-section-menu-add-search-engine = 添加搜索引擎
 newtab-section-menu-move-up = 上移
 newtab-section-menu-move-down = 下移
 newtab-section-menu-privacy-notice = 隐私声明
@@ -141,7 +143,10 @@ newtab-empty-section-topstories = 所有文章都读完啦！晚点再来，{ $p
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = 热门主题：
+newtab-pocket-more-recommendations = 更多推荐
 newtab-pocket-how-it-works = 使用方法
+newtab-pocket-cta-button = 获取 { -pocket-brand-name }
+newtab-pocket-cta-text = 将您喜爱的故事保存到 { -pocket-brand-name }，用精彩的读物为思想注入活力。
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
