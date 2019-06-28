@@ -90,6 +90,7 @@ newtab-label-saved = Захавана ў { -pocket-brand-name }
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-manage-webext = Кіраваць пашырэннем
 newtab-section-menu-privacy-notice = Паведамленне аб прыватнасці
 
 ## Section Headers.
