@@ -11,6 +11,10 @@ newtab-settings-button =
 
 ## Search box component.
 
+# "Search" is a verb/action
+newtab-search-box-search-button =
+    .title = Caută
+    .aria-label = Caută
 newtab-search-box-search-the-web-text = Caută pe web
 newtab-search-box-search-the-web-input =
     .placeholder = Caută pe web
@@ -30,12 +34,14 @@ newtab-topsites-url-input =
 newtab-topsites-url-validation = URL valid necesar
 newtab-topsites-image-url-label = URL pentru imagine personalizată
 newtab-topsites-use-image-link = Folosește o imagine personalizată…
+newtab-topsites-image-validation = Imaginea nu s-a încărcat. Încearcă o altă adresă.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Renunță
 newtab-topsites-delete-history-button = Șterge din istoric
 newtab-topsites-save-button = Salvează
+newtab-topsites-preview-button = Previzualizare
 newtab-topsites-add-button = Adaugă
 
 ## Top Sites - Delete history confirmation dialog. 
@@ -50,14 +56,27 @@ newtab-confirm-delete-history-p2 = Această acțiune este ireversibilă.
 newtab-menu-section-tooltip =
     .title = Deschide meniul
     .aria-label = Deschide meniul
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Deschide meniul
+    .aria-label = Deschide meniul contextual pentru { $title }
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = Editează acest site
+    .aria-label = Editează acest site
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
+newtab-menu-edit-topsites = Editează
 newtab-menu-open-new-window = Deschide într-o fereastră nouă
 newtab-menu-open-new-private-window = Deschide într-o fereastră privată nouă
+newtab-menu-dismiss = Înlătură
 newtab-menu-pin = Fixează
 newtab-menu-unpin = Anulează fixarea
 newtab-menu-delete-history = Șterge din istoric
+newtab-menu-delete-pocket = Șterge din { -pocket-brand-name }
 newtab-menu-archive-pocket = Arhivează în { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Elimină marcajul
@@ -111,6 +130,7 @@ newtab-section-header-highlights = Evidențieri
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = Începe să navighezi și noi îți vom arăta articole interesante, videouri sau alte pagini pe care le-ai vizitat sau marcat recent.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
