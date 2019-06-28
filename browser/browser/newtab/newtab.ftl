@@ -61,6 +61,8 @@ newtab-menu-pin = Zakači
 newtab-menu-unpin = Otkači
 newtab-menu-delete-history = Obriši iz povijesti
 newtab-menu-save-to-pocket = Spremi u { -pocket-brand-name }
+newtab-menu-delete-pocket = Izbriši iz { -pocket-brand-name }a
+newtab-menu-archive-pocket = Arhiviraj u { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Ukloni zabilješku
 # Bookmark is a verb here.
@@ -69,6 +71,7 @@ newtab-menu-bookmark = Zabilježi stranicu
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-remove-download = Ukloni iz povijesti
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
@@ -82,6 +85,8 @@ newtab-menu-bookmark = Zabilježi stranicu
 newtab-label-visited = Posjećeno
 newtab-label-bookmarked = Zabilježeno
 newtab-label-recommended = Popularno
+newtab-label-saved = Spremljeno u { -pocket-brand-name }
+newtab-label-download = Preuzeto
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
