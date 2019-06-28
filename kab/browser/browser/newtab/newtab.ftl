@@ -71,6 +71,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Ẓreg
+newtab-menu-open-new-window = Ldi deg usfaylu amaynut
 newtab-menu-open-new-private-window = Ldi deg usfaylu uslig amaynut
 newtab-menu-dismiss = Kkes
 newtab-menu-pin = Senteḍ
