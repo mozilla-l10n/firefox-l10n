@@ -136,6 +136,9 @@ newtab-empty-section-topstories = Ulac wiyaḍ. Uɣal-d ticki s wugar n imagrade
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Isental ittwasnen aṭas:
+newtab-pocket-more-recommendations = Ugar n iwellihen
+newtab-pocket-how-it-works = Amek iteddu
+newtab-pocket-cta-button = Awi-d { -pocket-brand-name }
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
