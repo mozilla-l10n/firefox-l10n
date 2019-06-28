@@ -120,6 +120,7 @@ newtab-section-menu-remove-section = Alisin ang Seksyon
 newtab-section-menu-collapse-section = I-collapse ang Seksyon
 newtab-section-menu-expand-section = Palawakin ang Seksyon
 newtab-section-menu-manage-section = Pamahalaan ang Seksyon
+newtab-section-menu-manage-webext = Pamahalaan ang Ekstensyon
 newtab-section-menu-add-topsite = Magdagdag ng Nangungunang Site
 newtab-section-menu-add-search-engine = Magdagdag ng Search Engine
 newtab-section-menu-move-up = Ilipat Up
@@ -146,6 +147,7 @@ newtab-empty-section-topstories = Nakahabol ka na. Bumalik sa ibang pagkakataon 
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Tanyag na mga paksa:
+newtab-pocket-more-recommendations = Karagdagang Rekomendasyon
 newtab-pocket-how-it-works = Paano gamitin
 newtab-pocket-cta-button = Kunin ang { -pocket-brand-name }
 
