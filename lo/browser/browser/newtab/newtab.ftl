@@ -18,6 +18,7 @@ newtab-search-box-search-button =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = ເພີ່ມ Search Engine
 newtab-topsites-title-input =
     .placeholder = ປ້ອນຊື່ເລື່ອງ
 newtab-topsites-url-input =
@@ -26,7 +27,10 @@ newtab-topsites-url-validation = ຕ້ອງການ URL ທີ່ຖືກຕ
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
+newtab-topsites-cancel-button = ຍົກເລີກ
 newtab-topsites-delete-history-button = ລຶບອອກຈາກປະຫວັດການນຳໃຊ້
+newtab-topsites-save-button = ບັນທຶກ
+newtab-topsites-add-button = ເພີ່ມ
 
 ## Top Sites - Delete history confirmation dialog. 
 
@@ -67,6 +71,7 @@ newtab-label-bookmarked = ບຸກມາກໄວ້ແລ້ວ
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-add-search-engine = ເພີ່ມ Search Engine
 
 ## Section Headers.
 
@@ -83,6 +88,9 @@ newtab-section-header-pocket = ແນະນຳໂດຍ { $provider }
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = ຫົວຂໍ້ຍອດນິຍົມ:
+newtab-pocket-more-recommendations = ຂໍ້ແນະນໍາເພີ່ມເຕີມ
+newtab-pocket-cta-button = ຮັບ { -pocket-brand-name }
+newtab-pocket-cta-text = ຊ່ວຍບັນທຶກເລື່ອງທີ່ທ່ານຮັກໃນ { -pocket-brand-name }, ແລະນ້ໍາໃຈຂອງທ່ານກັບອ່ານທີ່ຫນ້າສົນໃຈ.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
