@@ -23,16 +23,46 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = הוספת מנוע חיפוש
+newtab-topsites-add-topsites-header = אתר מוביל חדש
+newtab-topsites-edit-topsites-header = עריכת אתר מוביל
+newtab-topsites-title-label = כותרת
+newtab-topsites-title-input =
+    .placeholder = נא להזין כותרת
+newtab-topsites-url-label = כתובת
+newtab-topsites-url-input =
+    .placeholder = נא להקליד או להזין כתובת
+newtab-topsites-url-validation = נדרשת כתובת תקינה
+newtab-topsites-image-url-label = כתובת תמונה מותאמת אישית
+newtab-topsites-use-image-link = שימוש בתמונה מותאמת אישית…
+newtab-topsites-image-validation = טעינת התמונה נכשלה. נא לנסות כתובת שונה.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
+newtab-topsites-cancel-button = ביטול
 newtab-topsites-delete-history-button = מחיקה מההיסטוריה
+newtab-topsites-save-button = שמירה
+newtab-topsites-preview-button = תצוגה מקדימה
+newtab-topsites-add-button = הוספה
 
 ## Top Sites - Delete history confirmation dialog. 
 
+newtab-confirm-delete-history-p1 = למחוק כל עותק של העמוד הזה מההיסטוריה שלך?
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = לא ניתן לבטל פעולה זו.
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = פתיחת תפריט
+    .aria-label = פתיחת תפריט
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = פתיחת תפריט
+    .aria-label = פתיחת תפריט ההקשר עבור { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = עריכת אתר זה
@@ -43,7 +73,17 @@ newtab-menu-topsites-placeholder-tooltip =
 newtab-menu-edit-topsites = עריכה
 newtab-menu-open-new-window = פתיחה בחלון חדש
 newtab-menu-open-new-private-window = פתיחה בלשונית פרטית חדשה
+newtab-menu-dismiss = הסרה
+newtab-menu-pin = נעיצה
+newtab-menu-unpin = ביטול נעיצה
 newtab-menu-delete-history = מחיקה מההיסטוריה
+newtab-menu-save-to-pocket = שמירה ל־{ -pocket-brand-name }
+newtab-menu-delete-pocket = מחיקה מ־{ -pocket-brand-name }
+newtab-menu-archive-pocket = העברה לארכיון ב־{ -pocket-brand-name }
+# Bookmark is a noun in this case, "Remove bookmark".
+newtab-menu-remove-bookmark = הסרת סימנייה
+# Bookmark is a verb here.
+newtab-menu-bookmark = הוספת סימנייה
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -68,17 +108,32 @@ newtab-menu-open-file = פתיחת הקובץ
 ## the page is bookmarked, or is currently open on another device.
 
 newtab-label-visited = ביקורים קודמים
+newtab-label-bookmarked = שמור כסימנייה
+newtab-label-recommended = פופולרי
+newtab-label-saved = נשמר ל־{ -pocket-brand-name }
 newtab-label-download = התקבל
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = הסרת מדור
+newtab-section-menu-collapse-section = צמצום מדור
+newtab-section-menu-expand-section = הרחבת מדור
+newtab-section-menu-manage-section = ניהול מדור
 newtab-section-menu-manage-webext = ניהול הרחבה
+newtab-section-menu-add-topsite = הוספת אתר מוביל
+newtab-section-menu-add-search-engine = הוספת מנוע חיפוש
+newtab-section-menu-move-up = העברה למעלה
+newtab-section-menu-move-down = העברה למטה
+newtab-section-menu-privacy-notice = הצהרת פרטיות
 
 ## Section Headers.
 
 newtab-section-header-topsites = אתרים מובילים
 newtab-section-header-highlights = מומלצים
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = מומלץ על ידי { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -90,7 +145,15 @@ newtab-empty-section-topstories = התעדכנת בכל הסיפורים. כדא
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = נושאים פופולריים:
+newtab-pocket-more-recommendations = המלצות נוספות
+newtab-pocket-how-it-works = איך זה עובד
+newtab-pocket-cta-button = קבלת { -pocket-brand-name }
+newtab-pocket-cta-text = שמירת הסיפורים שאהבת ב־{ -pocket-brand-name } על מנת למלא את מחשבתך בקריאה מרתקת.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = אופס, משהו השתבש בעת טעינת התוכן הזה.
+newtab-error-fallback-refresh-link = נא לרענן את הדף כדי לנסות שוב.
