@@ -15,6 +15,11 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Pesquisar
     .aria-label = Pesquisar
+newtab-search-box-search-the-web-text = Pesquisar na web
+newtab-search-box-search-the-web-input =
+    .placeholder = Pesquisar na web
+    .title = Pesquisar na web
+    .aria-label = Pesquisar na web
 
 ## Top Sites - General form dialog.
 
@@ -24,7 +29,11 @@ newtab-topsites-title-label = Título
 newtab-topsites-title-input =
     .placeholder = Digite um título
 newtab-topsites-url-label = URL
+newtab-topsites-url-input =
+    .placeholder = Digite ou cole uma URL
+newtab-topsites-url-validation = É necessário uma URL válida
 newtab-topsites-image-url-label = URL de imagem personalizada
+newtab-topsites-use-image-link = Usar uma imagem personalizada…
 newtab-topsites-image-validation = Não foi possível carregar a imagem. Tente uma URL diferente.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
@@ -43,6 +52,16 @@ newtab-confirm-delete-history-p2 = Essa ação não pode ser desfeita.
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Abrir menu
+    .aria-label = Abrir menu
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Abrir menu
+    .aria-label = Abrir menu de contexto para { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Editar este site
@@ -110,9 +129,13 @@ newtab-section-menu-privacy-notice = Política de privacidade
 
 newtab-section-header-topsites = Sites preferidos
 newtab-section-header-highlights = Destaques
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = Recomendado pelo { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = Comece a navegar e mostraremos aqui alguns ótimos artigos, vídeos e outras páginas que você favoritou ou visitou recentemente.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -122,6 +145,9 @@ newtab-empty-section-topstories = Você já viu tudo. Volte mais tarde para mais
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Tópicos populares:
+newtab-pocket-more-recommendations = Mais recomendações
+newtab-pocket-how-it-works = Como funciona
+newtab-pocket-cta-text = Salve as histórias que você gosta no { -pocket-brand-name } e abasteça sua mente com leituras fascinantes.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
