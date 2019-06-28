@@ -88,6 +88,7 @@ newtab-menu-bookmark = ჩანიშვნა
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = ჩამოტვირთვის ბმულის ასლი
 newtab-menu-go-to-download-page = გადასვლა ჩამოტვირთვის გვერდზე
 newtab-menu-remove-download = ისტორიიდან ამოშლა
 
@@ -130,10 +131,17 @@ newtab-section-menu-privacy-notice = პირადი მონაცემე
 
 newtab-section-header-topsites = რჩეული საიტები
 newtab-section-header-highlights = მნიშვნელოვანი
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = { $provider } გირჩევთ
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = დაიწყეთ გვერდების დათვალიერება და აქ გამოჩნდება თქვენთვის სასურველი სტატიები, ვიდეოები და ბოლოს მონახულებული ან ჩანიშნული საიტები.
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = უკვე ყველაფერს გაეცანით. მოგვიანებით შემოიარეთ მეტი რჩეული სტატიის სანახავად, რომელსაც { $provider } მოგაწვდით. ვერ ითმენთ? აირჩიეთ რომელიმე ფართოდ გავრცელებული საკითხი, ახალი საინტერესო სტატიების მოსაძიებლად.
 
 ## Pocket Content Section.
 
