@@ -6,6 +6,12 @@ process-type-web = Contenu web
 # process used to run privileged pages,
 # such as about:home
 process-type-privileged = Contenu privilégié
+# process used to run privileged about pages,
+# such as about:home
+process-type-privilegedabout = Pages « à propos » privilégiées
+# process used to run privileged mozilla pages,
+# such as accounts.firefox.com
+process-type-privilegedmozilla = Contenus Mozilla privilégiés
 process-type-extension = Extension
 # process used to open file:// URLs
 process-type-file = Fichier local
