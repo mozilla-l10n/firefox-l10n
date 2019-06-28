@@ -87,11 +87,20 @@ newtab-menu-bookmark = 添加书签
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = 复制下载链接
+newtab-menu-go-to-download-page = 前往下载页面
+newtab-menu-remove-download = 从历史记录中移除
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] 显示于访达
+       *[other] 打开所在文件夹
+    }
+newtab-menu-open-file = 打开文件
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -101,6 +110,7 @@ newtab-label-visited = 曾经访问
 newtab-label-bookmarked = 已加书签
 newtab-label-recommended = 趋势
 newtab-label-saved = 已保存到 { -pocket-brand-name }
+newtab-label-download = 已下载
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
