@@ -9,6 +9,10 @@ newtab-page-title = Նոր ներդիր
 
 ## Search box component.
 
+# "Search" is a verb/action
+newtab-search-box-search-button =
+    .title = որոնում
+    .aria-label = որոնում
 newtab-search-box-search-the-web-text = Որոնել առցանց
 newtab-search-box-search-the-web-input =
     .placeholder = Որոնել առցանց
@@ -24,6 +28,9 @@ newtab-topsites-delete-history-button = Ջնջել Պատմությունից
 
 ## Top Sites - Delete history confirmation dialog. 
 
+newtab-confirm-delete-history-p1 = Վստահ եք, որ ցանկանում եք ջնջել այս էջի ամեն մի օրինակ ձեր պատմությունից?
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = Այս գործողությունը չի կարող վերացվել.
 
 ## Context Menu - Action Tooltips.
 
@@ -56,6 +63,7 @@ newtab-menu-bookmark = Էջանիշ
 
 newtab-label-visited = Այցելած
 newtab-label-bookmarked = Էջանշված
+newtab-label-recommended = Թրենդինգ
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
@@ -65,6 +73,9 @@ newtab-label-bookmarked = Էջանշված
 
 newtab-section-header-topsites = Լավագույն կայքեր
 newtab-section-header-highlights = Գունանշումներ
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = Առաջարկվում է { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
