@@ -23,12 +23,24 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-title-label = Titel
+newtab-topsites-title-input =
+    .placeholder = Endatar in titel
+newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Tippar u encollar ina URL
+newtab-topsites-url-validation = In URL valid è necessari
+newtab-topsites-image-url-label = URL dal maletg persunalisà
+newtab-topsites-use-image-link = Utilisar in maletg persunalisà…
+newtab-topsites-image-validation = Impussibel da chargiar il maletg. Emprova in auter URL.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
+newtab-topsites-cancel-button = Interrumper
 newtab-topsites-delete-history-button = Stizzar da la cronologia
+newtab-topsites-save-button = Memorisar
+newtab-topsites-preview-button = Prevista
+newtab-topsites-add-button = Agiuntar
 
 ## Top Sites - Delete history confirmation dialog. 
 
@@ -52,6 +64,9 @@ newtab-menu-dismiss = Sbittar
 newtab-menu-pin = Fixar
 newtab-menu-unpin = Betg pli fixar
 newtab-menu-delete-history = Stizzar da la cronologia
+newtab-menu-save-to-pocket = Memorisar en { -pocket-brand-name }
+newtab-menu-delete-pocket = Stizzar da { -pocket-brand-name }
+newtab-menu-archive-pocket = Archivar en { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Allontanar il segnapagina
 # Bookmark is a verb here.
@@ -60,11 +75,20 @@ newtab-menu-bookmark = Marcar sco segnapagina
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = Copiar la colliaziun a la telechargiada
+newtab-menu-go-to-download-page = Ir a la pagina da telechargiada
+newtab-menu-remove-download = Allontanar da la cronologia
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Mussar en il Finder
+       *[other] Mussar l'ordinatur che cuntegna la datoteca
+    }
+newtab-menu-open-file = Avrir la datoteca
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -72,10 +96,21 @@ newtab-menu-bookmark = Marcar sco segnapagina
 
 newtab-label-visited = Visità
 newtab-label-bookmarked = Cun segnapagina
+newtab-label-recommended = Popular
+newtab-label-saved = Memorisà en { -pocket-brand-name }
+newtab-label-download = Telechargià
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = Allontanar la secziun
+newtab-section-menu-collapse-section = Reducir la secziun
+newtab-section-menu-expand-section = Expander la secziun
+newtab-section-menu-manage-section = Administrar la secziun
+newtab-section-menu-manage-webext = Administrar l'extensiun
+newtab-section-menu-move-up = Spustar ensi
+newtab-section-menu-move-down = Spustar engiu
+newtab-section-menu-privacy-notice = Infurmaziuns davart la protecziun da datas
 
 ## Section Headers.
 
@@ -87,6 +122,7 @@ newtab-section-header-pocket = Recumandà da { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = Cumenza a navigar e nus ta mussain qua artitgels, videos ed autras paginas che ti has visità dacurt u che ti has agiuntà dacurt sco segnapagina.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -94,7 +130,11 @@ newtab-empty-section-topstories = Ussa has ti legì tut las novitads. Turna pli 
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = Temas populars:
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = Oha, igl è succedì in sbagl cun chargiar il cuntegn.
+newtab-error-fallback-refresh-link = Rechargia la pagina per reempruvar.
