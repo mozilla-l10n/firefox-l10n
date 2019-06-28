@@ -25,6 +25,7 @@ newtab-topsites-title-input =
     .placeholder = Digite um título
 newtab-topsites-url-label = URL
 newtab-topsites-image-url-label = URL de imagem personalizada
+newtab-topsites-image-validation = Não foi possível carregar a imagem. Tente uma URL diferente.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
