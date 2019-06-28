@@ -96,6 +96,12 @@ newtab-menu-remove-download = Elimina de l'historial
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Mostra-ho en el Finder
+       *[other] Obre la carpeta on es troba
+    }
+newtab-menu-open-file = Obre el fitxer
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
