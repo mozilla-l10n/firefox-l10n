@@ -23,10 +23,20 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-topsites-header = Lec'hiennoù gwellañ nevez
+newtab-topsites-edit-topsites-header = Embann al Lec'hiennoù Gwellañ
+newtab-topsites-title-input =
+    .placeholder = Enankañ un titl
+newtab-topsites-url-input =
+    .placeholder = Skrivit pe pegit un URL
+newtab-topsites-url-validation = URL talvoudek azgoulennet
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
+newtab-topsites-cancel-button = Nullañ
 newtab-topsites-delete-history-button = Dilemel eus ar roll istor
+newtab-topsites-save-button = Enrollañ
+newtab-topsites-add-button = Ouzhpennañ
 
 ## Top Sites - Delete history confirmation dialog. 
 
@@ -36,9 +46,14 @@ newtab-confirm-delete-history-p2 = Ne c'haller ket dizober ar gwezh-mañ.
 
 ## Context Menu - Action Tooltips.
 
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = Embann al lec'hienn-mañ
+    .aria-label = Embann al lec'hienn-mañ
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
+newtab-menu-edit-topsites = Embann
 newtab-menu-open-new-window = Digeriñ e-barzh ur prenestr nevez
 newtab-menu-open-new-private-window = Digeriñ e-barzh ur prenestr merdeiñ prevez nevez
 newtab-menu-dismiss = Argas
@@ -82,9 +97,12 @@ newtab-section-header-pocket = Erbedet gant { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = Krogit da verdeiñ hag e tiskouezimp deoc’h pennadoù, videoioù ha pajennoù all gweladennet pe lakaet er sinedoù nevez ’zo.
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = Danvezioù brudet:
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
