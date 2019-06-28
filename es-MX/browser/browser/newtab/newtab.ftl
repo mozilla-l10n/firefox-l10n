@@ -107,6 +107,7 @@ newtab-section-menu-remove-section = Eliminar sección
 newtab-section-menu-collapse-section = Sección de colapso
 newtab-section-menu-expand-section = Ampliar la sección
 newtab-section-menu-manage-section = Administrar sección
+newtab-section-menu-manage-webext = Gestionar extensión
 newtab-section-menu-add-topsite = Agregar sitio popular
 newtab-section-menu-add-search-engine = Agregar motor de búsqueda
 newtab-section-menu-move-down = Bajar
