@@ -32,6 +32,7 @@ newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Escribir o pegar una URL
 newtab-topsites-url-validation = Se requiere una URL válida
+newtab-topsites-image-validation = No se ha podido cargar la imagen. Pruebe con una URL diferente.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -42,6 +43,9 @@ newtab-topsites-add-button = Agregar
 
 ## Top Sites - Delete history confirmation dialog. 
 
+newtab-confirm-delete-history-p1 = ¿Está seguro de que quiere eliminar de su historial todas las instancias de esta página?
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = Esta acción no se puede deshacer.
 
 ## Context Menu - Action Tooltips.
 
@@ -56,6 +60,8 @@ newtab-menu-edit-topsites = Editar
 newtab-menu-open-new-window = Abrir en una nueva ventana
 newtab-menu-open-new-private-window = Abrir en una nueva ventana privada
 newtab-menu-dismiss = Ignorar
+newtab-menu-pin = Fijar
+newtab-menu-unpin = Soltar
 newtab-menu-delete-history = Eliminar del historial
 newtab-menu-save-to-pocket = Guardar en { -pocket-brand-name }
 newtab-menu-delete-pocket = Eliminar de { -pocket-brand-name }
@@ -68,6 +74,8 @@ newtab-menu-bookmark = Marcador
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = Copiar el enlace de descarga
+newtab-menu-go-to-download-page = Ir a la página de descarga
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
@@ -106,13 +114,23 @@ newtab-section-header-pocket = Recomendado por { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = Empiece a navegar y nosotros le mostraremos aquí algunos de los mejores artículos, videos y otras páginas que haya visitado recientemente o agregado a marcadores.
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = Ya está al día. Vuelva luego y busque más historias de { $provider }. ¿No puede esperar? Seleccione un tema popular y encontrará más historias alucinantes por toda la web.
 
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Temas populares:
+newtab-pocket-more-recommendations = Más recomendaciones
+newtab-pocket-how-it-works = Cómo funciona
+newtab-pocket-cta-button = Obtener { -pocket-brand-name }
+newtab-pocket-cta-text = Guarde en { -pocket-brand-name } las historias que le gustan y alimente su mente con lecturas fascinantes.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-info = Lo sentimos, algo salió mal al cargar el contenido.
+newtab-error-fallback-refresh-link = Recargue la página e inténtelo de nuevo.
