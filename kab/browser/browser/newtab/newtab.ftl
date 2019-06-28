@@ -89,12 +89,14 @@ newtab-label-recommended = Tiddin
 ## Section Headers.
 
 newtab-section-header-topsites = Ismal ifazen
+newtab-section-header-highlights = Asebrureq
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Iwelleh-it-id { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = Bdu tuniginn sakin nekkni ad k-n-sken imagraden, tividyutin, akked isebtar nniḍen i γef terziḍ yakan neγ i tceṛḍeḍ dagi.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
