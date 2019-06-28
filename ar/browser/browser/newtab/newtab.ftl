@@ -23,19 +23,26 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = أضِف محرك بحث
 newtab-topsites-add-topsites-header = موقع شائع جديد
 newtab-topsites-edit-topsites-header = حرّر الموقع الشائع
+newtab-topsites-title-label = العنوان
 newtab-topsites-title-input =
     .placeholder = أدخل عنوانًا
+newtab-topsites-url-label = المسار
 newtab-topsites-url-input =
     .placeholder = اكتب أو ألصق مسارًا
 newtab-topsites-url-validation = مطلوب مسار صالح
+newtab-topsites-image-url-label = مسار الصورة المخصصة
+newtab-topsites-use-image-link = استخدم صورة مخصصة…
+newtab-topsites-image-validation = فشل تحميل الصورة. جرّب مسارا آخر.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = ألغِ
 newtab-topsites-delete-history-button = احذف من التأريخ
 newtab-topsites-save-button = احفظ
+newtab-topsites-preview-button = عايِن
 newtab-topsites-add-button = أضِفْ
 
 ## Top Sites - Delete history confirmation dialog. 
@@ -46,6 +53,16 @@ newtab-confirm-delete-history-p2 = لا يمكن التراجع عن هذا ال
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = افتح القائمة
+    .aria-label = افتح القائمة
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = افتح القائمة
+    .aria-label = افتح قائمة { $title } السياقية
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = حرّر هذا الموقع
@@ -61,6 +78,8 @@ newtab-menu-pin = ثبّت
 newtab-menu-unpin = أزل
 newtab-menu-delete-history = احذف من التأريخ
 newtab-menu-save-to-pocket = احفظ في { -pocket-brand-name }
+newtab-menu-delete-pocket = احذف من بوكِت
+newtab-menu-archive-pocket = أرشِف في بوكِت
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = أزل العلامة
 # Bookmark is a verb here.
@@ -69,11 +88,20 @@ newtab-menu-bookmark = علّم
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = انسخ رابط التنزيل
+newtab-menu-go-to-download-page = انتقل إلى صفحة التنزيل
+newtab-menu-remove-download = احذف من التأريخ
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] أظهِر في فايندر
+       *[other] افتح المجلد المحتوي
+    }
+newtab-menu-open-file = افتح الملف
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -82,10 +110,22 @@ newtab-menu-bookmark = علّم
 newtab-label-visited = مُزارة
 newtab-label-bookmarked = معلّمة
 newtab-label-recommended = مُتداول
+newtab-label-saved = حُفِظت في بوكِت
+newtab-label-download = نُزّل
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = أزِل القسم
+newtab-section-menu-collapse-section = اطوِ القسم
+newtab-section-menu-expand-section = وسّع القسم
+newtab-section-menu-manage-section = أدِر القسم
+newtab-section-menu-manage-webext = أدِر الامتداد
+newtab-section-menu-add-topsite = أضف موقعًا شائعًا
+newtab-section-menu-add-search-engine = أضِف محرك بحث
+newtab-section-menu-move-up = انقل لأعلى
+newtab-section-menu-move-down = انقل لأسفل
+newtab-section-menu-privacy-notice = تنويه الخصوصية
 
 ## Section Headers.
 
@@ -107,7 +147,12 @@ newtab-empty-section-topstories = لا جديد. تحقق لاحقًا للحص�
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = المواضيع الشائعة:
+newtab-pocket-how-it-works = آلية العمل
+newtab-pocket-cta-button = نزِّل بوكِت
+newtab-pocket-cta-text = احفظ القصص التي تحبّها في بوكِت، وزوّد عقلك بمقالات رائعة.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = أخ! حدث خطب ما أثناء تحميل المحتوى.
+newtab-error-fallback-refresh-link = أنعِش الصفحة لإعادة المحاولة.
