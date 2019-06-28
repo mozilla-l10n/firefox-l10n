@@ -9,6 +9,10 @@ newtab-page-title = ផ្ទាំង​ថ្មី
 
 ## Search box component.
 
+# "Search" is a verb/action
+newtab-search-box-search-button =
+    .title = ស្វែងរក
+    .aria-label = ស្វែងរក
 newtab-search-box-search-the-web-text = ស្វែងរក​បណ្ដាញ
 newtab-search-box-search-the-web-input =
     .placeholder = ស្វែងរក​បណ្ដាញ
@@ -17,23 +21,47 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-topsites-header = សាយកំពូលថ្មី
+newtab-topsites-edit-topsites-header = កែសម្រួលសាយកំពូល
+newtab-topsites-title-input =
+    .placeholder = បញ្ចូលចំណងជើង
+newtab-topsites-url-input =
+    .placeholder = វាយបញ្ចូល ឬបិទភ្ជាប់ URL
+newtab-topsites-url-validation = ត្រូវការ URL ដែលត្រឹមត្រូវ
+newtab-topsites-image-validation = មិន​អាច​ផ្ទុក​រូបភាព​បាន​ទេ។ សាកល្បង URL ផ្សេង។
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
+newtab-topsites-cancel-button = បោះបង់
 newtab-topsites-delete-history-button = លុប​ពី​ប្រវត្តិ
+newtab-topsites-save-button = រក្សាទុក
+newtab-topsites-add-button = បន្ថែម
 
 ## Top Sites - Delete history confirmation dialog. 
 
+newtab-confirm-delete-history-p1 = តើអ្នកប្រាកដថាអ្នកចង់លុបគ្រប់វត្ថុនៃទំព័រនេះពីប្រវត្តិរបស់អ្នកឬ?
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = សកម្មភាពនេះមិនអាចមិនធ្វើឡើង​វិញបានទេ។
 
 ## Context Menu - Action Tooltips.
 
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = កែសម្រួលសាយនេះ
+    .aria-label = កែសម្រួលសាយនេះ
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
+newtab-menu-edit-topsites = កែសម្រួល
 newtab-menu-open-new-window = បើក​នៅ​ក្នុង​បង្អួច​ថ្មី
 newtab-menu-open-new-private-window = បើក​នៅ​ក្នុង​បង្អួច​ឯកជន​ថ្មី
 newtab-menu-dismiss = បោះបង់ចោល
+newtab-menu-pin = ខ្ទាស់
+newtab-menu-unpin = ដកខ្ទាស់
 newtab-menu-delete-history = លុប​ពី​ប្រវត្តិ
+newtab-menu-save-to-pocket = រក្សាទុកទៅ { -pocket-brand-name }
+newtab-menu-delete-pocket = លុបចេញពី { -pocket-brand-name }
+newtab-menu-archive-pocket = ទុកក្នុងប័ណ្ណសារក្នុង { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = លុប​ចំណាំ​ចេញ
 # Bookmark is a verb here.
@@ -54,21 +82,42 @@ newtab-menu-bookmark = ចំណាំ
 
 newtab-label-visited = បាន​ចូល​មើល
 newtab-label-bookmarked = បាន​ចំណាំ
+newtab-label-recommended = និន្នាការ
+newtab-label-saved = បានរក្សាទុកទៅ { -pocket-brand-name }
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = លុប​ផ្នែក​ចេញ
+newtab-section-menu-collapse-section = បង្រួមផ្នែក
+newtab-section-menu-expand-section = ពង្រីកផ្នែក
+newtab-section-menu-manage-section = គ្រប់គ្រងផ្នែក
+newtab-section-menu-manage-webext = គ្រប់គ្រងផ្នែកបន្ថែម
+newtab-section-menu-add-topsite = បញ្ចូល​គេហទំព័រ​ពេញនិយម​បំផុត
+newtab-section-menu-privacy-notice = ការជូនដំណឹង​អំពី​ឯកជនភាព
 
 ## Section Headers.
 
 newtab-section-header-topsites = វិបសាយ​លើ​គេ
+newtab-section-header-highlights = រឿងសំខាន់ៗ
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = បានណែនាំដោយ { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = អ្នកបានអានរឿងទាំងអស់ហើយ។ ពិនិត្យ​រឿង​ដែល​ពេញនិយមបំផុត​ឡើងវិញ​​ពី { $provider }។ មិនអាចរង់ចាំ? ជ្រើសរើសប្រធានបទកំពុងពេញនិយម ដើម្បីស្វែងរករឿងដ៏អស្ចារ្យនៅ​លើ​អ៊ីនធឺណិត។
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = ប្រធានបទកំពុងពេញនិយម៖
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = អូ មានអ្វីមួយខុសប្រក្រតីក្នុងការផ្ទុក​ខ្លឹមសារ​នេះ។
+newtab-error-fallback-refresh-link = ផ្ទុកទំព័រឡើងវិញ ដើម្បីព្យាយាមម្ដងទៀត។
