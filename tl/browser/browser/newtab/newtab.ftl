@@ -23,19 +23,32 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-topsites-header = Bagong nangungunang site
+newtab-topsites-edit-topsites-header = I-edit ang nangungunang site
 newtab-topsites-title-label = Pamagat
+newtab-topsites-title-input =
+    .placeholder = Magpasok ng isang pamagat
 newtab-topsites-url-label = URL
+newtab-topsites-url-input =
+    .placeholder = I-type o i-paste ang URL
+newtab-topsites-url-validation = Wastong URL ang kinakailangan
 newtab-topsites-image-url-label = URL ng Custom na Larawan
 newtab-topsites-use-image-link = Gamitin ang URL custom na larawan...
 newtab-topsites-image-validation = Nabigo ang pag-load ng larawan. Subukan ang ibang URL.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
+newtab-topsites-cancel-button = Kanselahin
 newtab-topsites-delete-history-button = Tanggalin mula History
+newtab-topsites-save-button = I-save
 newtab-topsites-preview-button = I-preview
+newtab-topsites-add-button = Idagdag
 
 ## Top Sites - Delete history confirmation dialog. 
 
+newtab-confirm-delete-history-p1 = Sigurado ka bang gusto mong tanggalin ang bawat pagkakataon ng pahinang ito mula sa iyong kasaysayan?
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = Ang aksyon na ito ay hindi na mababawi.
 
 ## Context Menu - Action Tooltips.
 
@@ -50,7 +63,10 @@ newtab-menu-edit-topsites = I-edit
 newtab-menu-open-new-window = Buksan sa isang Bagong Window
 newtab-menu-open-new-private-window = Buksan sa isang Pribadong Bago na Window
 newtab-menu-dismiss = Paalisin
+newtab-menu-pin = I-pin
+newtab-menu-unpin = I-unpin
 newtab-menu-delete-history = Tanggalin mula History
+newtab-menu-save-to-pocket = I-save sa { -pocket-brand-name }
 newtab-menu-delete-pocket = I-delete sa { -pocket-brand-name }
 newtab-menu-archive-pocket = Mag-archive sa { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
@@ -73,6 +89,7 @@ newtab-menu-bookmark = Bookmark
 
 newtab-label-visited = Binisita
 newtab-label-bookmarked = Bookmarked
+newtab-label-recommended = Nagte-trend
 newtab-label-saved = I-save sa { -pocket-brand-name }
 
 ## Section Menu: These strings are displayed in the section context menu and are 
@@ -90,12 +107,23 @@ newtab-section-menu-privacy-notice = Paunawa sa Privacy
 ## Section Headers.
 
 newtab-section-header-topsites = Tuktok na mga Site
+newtab-section-header-highlights = Naka-highlight
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = Inirekomenda ni { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = Magsimulang mag-browse, at ipapakita namin ang ilan sa mga magagandang artikulo, video, at iba pang mga pahina na kamakailan mong binisita o na-bookmark dito.
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = Nakahabol ka na. Bumalik sa ibang pagkakataon para sa higit pang mga nangungunang kuwento mula sa { $provider }. Hindi makapaghintay? Pumili ng isang tanyag na paksa upang makahanap ng higit pang mahusay na mga kuwento mula sa buong web.
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = Tanyag na mga paksa:
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
