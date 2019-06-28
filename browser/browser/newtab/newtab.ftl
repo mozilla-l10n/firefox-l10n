@@ -68,11 +68,20 @@ newtab-menu-save-to-pocket = { -pocket-brand-name } में सहेजें
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = डाउनलोड लिंक कॉपी करें
+newtab-menu-go-to-download-page = डाउनलोड पृष्ठ पर जाएं
+newtab-menu-remove-download = इतिहास से हटाएँ
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] फाइंडर में दिखाएँ
+       *[other] संग्राहक फोल्डर खोलें
+    }
+newtab-menu-open-file = फ़ाइल खोलें
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -81,6 +90,7 @@ newtab-menu-save-to-pocket = { -pocket-brand-name } में सहेजें
 newtab-label-visited = देखी गई
 newtab-label-recommended = लोकप्रिय
 newtab-label-saved = { -pocket-brand-name } में सहेजा
+newtab-label-download = डाउनलोड की गई
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
