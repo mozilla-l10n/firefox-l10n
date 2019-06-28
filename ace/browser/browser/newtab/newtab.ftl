@@ -12,6 +12,10 @@ newtab-page-title = Tab Barô
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Tamah Meusén Mita
+newtab-topsites-url-validation = Peureulèe URL nyang sah
+newtab-topsites-use-image-link = Ngui gamba kusuih…
+newtab-topsites-image-validation = Gamba han jitém teuhah. Ci cuba URL laén.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -47,15 +51,28 @@ newtab-menu-open-file = Peuhah Beureukaih
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = Böh Bagian
+newtab-section-menu-collapse-section = Tôp Bagian
+newtab-section-menu-expand-section = Peuluwaih Bagian
+newtab-section-menu-manage-section = Atô Bagian
+newtab-section-menu-manage-webext = Atô Ekstensi
+newtab-section-menu-add-topsite = Tamah Situs Peuniléh
+newtab-section-menu-add-search-engine = Tamah Meusén Mita
+newtab-section-menu-move-up = Peuék
+newtab-section-menu-move-down = Peutrôn
+newtab-section-menu-privacy-notice = Keubijakan Privasi
 
 ## Section Headers.
 
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = Mulai seumeulop, lheueh nyan kamoe peudeuih padum-padum boh teunuléh, video ngön laman nyang jroh nyang ban-ban nyoe neusaweue atawa neubôh tanda sinoe.
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = Bhaih Meusyeuhu:
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
