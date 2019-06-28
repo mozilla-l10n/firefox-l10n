@@ -111,6 +111,7 @@ newtab-label-visited = Đã truy cập
 newtab-label-bookmarked = Đã được đánh dấu
 newtab-label-recommended = Xu hướng
 newtab-label-saved = Đã lưu vào { -pocket-brand-name }
+newtab-label-download = Đã tải xuống
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
