@@ -23,19 +23,26 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Embojuaju hekaha
 newtab-topsites-add-topsites-header = Tenda Pyahu Ojeikevéva
 newtab-topsites-edit-topsites-header = Tenda Ojeikevéva Mbosako'i
+newtab-topsites-title-label = Teratee
 newtab-topsites-title-input =
     .placeholder = Ehai herarã
+newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Ehai térã emboja peteĩ URL
 newtab-topsites-url-validation = Oñeikotevẽ URL oiko porãva
+newtab-topsites-image-url-label = URL ra’anga ñemomba’etepyre
+newtab-topsites-use-image-link = Ta’anga ñemomba’etepyre…
+newtab-topsites-image-validation = Ta’anga nehenyhẽkuái. Eipuru peteĩ URL iñambuéva.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Heja
 newtab-topsites-delete-history-button = Tembiasakue Rysýigui Ñeguenohẽ
 newtab-topsites-save-button = Ñongatu
+newtab-topsites-preview-button = Jehecha ypy
 newtab-topsites-add-button = Embojoapy
 
 ## Top Sites - Delete history confirmation dialog. 
@@ -61,6 +68,8 @@ newtab-menu-pin = Mboja
 newtab-menu-unpin = Mboja'ỹ
 newtab-menu-delete-history = Tembiasakue Rysýigui Ñeguenohẽ
 newtab-menu-save-to-pocket = Eñongatu { -pocket-brand-name }-pe
+newtab-menu-delete-pocket = Embogue { -pocket-brand-name }-pe
+newtab-menu-archive-pocket = Eñongatu { -pocket-brand-name }-pe
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Techaukaha Mboguete
 # Bookmark is a verb here.
@@ -69,11 +78,20 @@ newtab-menu-bookmark = Techaukaha
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = Emonguatia juajuha kundaharape
+newtab-menu-go-to-download-page = Eho ñemboguejyha kuatiaroguépe
+newtab-menu-remove-download = Emboguepa tembiasakuégui
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Ehechauka Finder-pe
+       *[other] Embojuruja ñongatuha guerekopýva
+    }
+newtab-menu-open-file = Embojuruja marandurenda
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -82,10 +100,22 @@ newtab-menu-bookmark = Techaukaha
 newtab-label-visited = Jeikepyre
 newtab-label-bookmarked = Oñeñongatuva'ekue techaukaháramo
 newtab-label-recommended = Ojehechajepíva
+newtab-label-saved = { -pocket-brand-name }-pe ñongatupyre
+newtab-label-download = Mboguejypyre
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = Emboguete vore
+newtab-section-menu-collapse-section = Embopytupa vore
+newtab-section-menu-expand-section = Emyasãi vore
+newtab-section-menu-manage-section = Eñagareko vorére
+newtab-section-menu-manage-webext = Emongu'e jepysokue
+newtab-section-menu-add-topsite = Embojuaju Tenda ojeikeveha
+newtab-section-menu-add-search-engine = Embojuaju hekaha
+newtab-section-menu-move-up = Jupi
+newtab-section-menu-move-down = Guejy
+newtab-section-menu-privacy-notice = Marandu’i ñemiguáva
 
 ## Section Headers.
 
@@ -107,7 +137,13 @@ newtab-empty-section-topstories = Ko'ág̃a reikuaapáma ipyahúva. Eikejey ag̃
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Ñe'ẽmbyrã Ojehayhuvéva:
+newtab-pocket-more-recommendations = Hetave je’eporã
+newtab-pocket-how-it-works = Mba’éichapa omba’apo
+newtab-pocket-cta-button = Eguereko { -pocket-brand-name }
+newtab-pocket-cta-text = Eñongatu umi eipotáva tembiasakue { -pocket-brand-name }-pe ha emombarete ne akã ñemoñe’ẽ ha’evévape.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = Ema'ẽ, mba’épa osẽvai henyhẽnguévo ko tetepy.
+newtab-error-fallback-refresh-link = Kuatiarogue mbopiro’y eñepyrũjey hag̃ua
