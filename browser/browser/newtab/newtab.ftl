@@ -23,8 +23,10 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = തിരയൽ യന്ത്രം ചേർക്കുക
 newtab-topsites-add-topsites-header = പുതിയ മികച്ച സൈറ്റുകൾ
 newtab-topsites-edit-topsites-header = മികച്ച സൈറ്റ് ലിസ്റ്റ് തിരുത്തൂ
+newtab-topsites-title-label = തലക്കെട്ട്
 newtab-topsites-title-input =
     .placeholder = തലക്കെട്ട് നൽകൂ
 newtab-topsites-url-input =
@@ -36,6 +38,7 @@ newtab-topsites-url-validation = പ്രവർത്തിയ്ക്കു�
 newtab-topsites-cancel-button = ഒഴിവാക്കൂ
 newtab-topsites-delete-history-button = നാള്‍വഴിയിൽ നിന്ന് ഒഴിവാക്കുക
 newtab-topsites-save-button = സംരക്ഷിയ്ക്കൂ
+newtab-topsites-preview-button = തിരനോട്ടം
 newtab-topsites-add-button = ചേർക്കൂ
 
 ## Top Sites - Delete history confirmation dialog. 
@@ -46,6 +49,10 @@ newtab-confirm-delete-history-p2 = ഈ പ്രവർത്തനം പഴയ�
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = മെനു തുറക്കുക
+    .aria-label = മെനു തുറക്കുക
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = ഈ സൈറ്റ് തിരുത്തുക
@@ -99,6 +106,16 @@ newtab-label-download = ഡൗൺലോഡ് ചെയ്തവ
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = വിഭാഗം നീക്കം ചെയ്യുക
+newtab-section-menu-collapse-section = വിഭാഗം ചുരുക്കുക
+newtab-section-menu-expand-section = വിഭാഗം വികസിപ്പിക്കുക
+newtab-section-menu-manage-section = വിഭാഗം കൈകാര്യം ചെയ്യുക
+newtab-section-menu-manage-webext = വിഭാഗം കൈകാര്യം ചെയ്യുക
+newtab-section-menu-add-topsite = ഏറ്റവും മികച്ച സൈറ്റ് ചേർക്കുക
+newtab-section-menu-add-search-engine = തിരയൽ യന്ത്രം ചേർക്കുക
+newtab-section-menu-move-up = മുകളിലേക്ക്‌ മാറ്റുക
+newtab-section-menu-move-down = താഴേക്ക്‌ മാറ്റുക
+newtab-section-menu-privacy-notice = സ്വകാര്യതാ അറിയിപ്പ്
 
 ## Section Headers.
 
@@ -120,6 +137,9 @@ newtab-empty-section-topstories = നിങ്ങൾ ഇവിടെ വരെ �
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = ജനപ്രിയ വിഷയങ്ങൾ:
+newtab-pocket-more-recommendations = കൂടുതൽ ശുപാർശകൾ
+newtab-pocket-how-it-works = ഇത് എങ്ങനെ പ്രവർത്തിക്കുന്നു
+newtab-pocket-cta-button = പോക്കറ്റ് ലഭ്യമാക്കുക
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
