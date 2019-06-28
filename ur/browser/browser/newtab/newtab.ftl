@@ -73,12 +73,18 @@ newtab-menu-remove-bookmark = نشانى ہٹائيں
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 newtab-menu-copy-download-link = ڈاؤن لوڈ ربط نقل کریں
+newtab-menu-go-to-download-page = ڈاؤن لوڈ صفحہ پر جائیں
 newtab-menu-remove-download = سابقات سے ہٹائیں
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] تلاش کار میں دکھائیں
+       *[other] حامل پوشہ کھولیں
+    }
 newtab-menu-open-file = مسل کھولیں
 
 ## Card Labels: These labels are associated to pages to give
