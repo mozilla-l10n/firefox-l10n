@@ -61,6 +61,8 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Editar
+newtab-menu-open-new-window = Abrir en una nueva ventana
+newtab-menu-open-new-private-window = Abrir en una nueva ventana privada
 newtab-menu-dismiss = Descartar
 newtab-menu-pin = Anclar
 newtab-menu-unpin = Desanclar
@@ -96,6 +98,7 @@ newtab-menu-open-file = Abrir archivo
 ## the page is bookmarked, or is currently open on another device.
 
 newtab-label-visited = Visitados
+newtab-label-bookmarked = En marcadores
 newtab-label-recommended = Tendencias
 newtab-label-saved = Guardado en { -pocket-brand-name }
 newtab-label-download = Descargado
@@ -110,6 +113,7 @@ newtab-section-menu-manage-section = Administrar sección
 newtab-section-menu-manage-webext = Gestionar extensión
 newtab-section-menu-add-topsite = Agregar sitio popular
 newtab-section-menu-add-search-engine = Agregar motor de búsqueda
+newtab-section-menu-move-up = Subir
 newtab-section-menu-move-down = Bajar
 newtab-section-menu-privacy-notice = Política de privacidad
 
