@@ -15,13 +15,20 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Cari
     .aria-label = Cari
+newtab-search-box-search-the-web-text = Cari di Web
+newtab-search-box-search-the-web-input =
+    .placeholder = Cari di Web
+    .title = Cari di Web
+    .aria-label = Cari di Web
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Tambahkan Mesin Pencari
 newtab-topsites-title-label = Judul
 newtab-topsites-url-label = URL
 newtab-topsites-image-url-label = URL Gambar Khusus
 newtab-topsites-use-image-link = Gunakan gambar khusus…
+newtab-topsites-image-validation = Gambar gagal dimuat. Coba URL lain.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -33,9 +40,18 @@ newtab-topsites-preview-button = Pratinjau
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Buka menu
+    .aria-label = Buka menu
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = Edit situs ini
+    .aria-label = Edit situs ini
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
+newtab-menu-edit-topsites = Edit
 newtab-menu-open-new-window = Buka di Jendela Baru
 newtab-menu-open-new-private-window = Buka di Jendela Penjelajahan Pribadi Baru
 newtab-menu-dismiss = Tutup
@@ -71,6 +87,7 @@ newtab-section-menu-remove-section = Hapus Bagian
 newtab-section-menu-collapse-section = Ciutkan Bagian
 newtab-section-menu-expand-section = Bentangkan Bagian
 newtab-section-menu-manage-section = Kelola Bagian
+newtab-section-menu-add-search-engine = Tambahkan Mesin Pencari
 
 ## Section Headers.
 
@@ -82,7 +99,9 @@ newtab-section-header-topsites = Situs Teratas
 ## Pocket Content Section.
 
 newtab-pocket-more-recommendations = Rekomendasi Lainnya
+newtab-pocket-how-it-works = Panduan
 newtab-pocket-cta-button = Dapatkan { -pocket-brand-name }
+newtab-pocket-cta-text = Simpan cerita yang anda sukai di { -pocket-brand-name }, dan dapatkan bacaan menarik untuk Anda.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
