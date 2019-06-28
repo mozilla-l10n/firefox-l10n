@@ -23,6 +23,7 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = অনুসন্ধান ইঞ্জিন যোগ করুন
 newtab-topsites-add-topsites-header = নতুন শীর্ষ সাইট
 newtab-topsites-edit-topsites-header = শীর্ষ সাইট সম্পাদনা করুন
 newtab-topsites-title-label = শিরোনাম
@@ -121,6 +122,7 @@ newtab-section-menu-expand-section = সেকশনটি প্রসারি
 newtab-section-menu-manage-section = সেকশনটি পরিচালনা করুন
 newtab-section-menu-manage-webext = এক্সটেনসন ব্যবহার করুন
 newtab-section-menu-add-topsite = টপ সাইট যোগ করুন
+newtab-section-menu-add-search-engine = অনুসন্ধান ইঞ্জিন যোগ করুন
 newtab-section-menu-move-up = উপরে উঠাও
 newtab-section-menu-move-down = নীচে নামাও
 newtab-section-menu-privacy-notice = গোপনীয়তা নীতি
