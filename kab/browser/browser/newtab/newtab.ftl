@@ -25,17 +25,23 @@ newtab-search-box-search-the-web-input =
 
 newtab-topsites-add-topsites-header = Asmel ifazen amaynut
 newtab-topsites-edit-topsites-header = Ẓreg asmel ifazen
+newtab-topsites-title-label = Azwel
 newtab-topsites-title-input =
     .placeholder = Sekcem azwel
+newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Aru neɣ sekcem tansa URL
 newtab-topsites-url-validation = Tansa URL tameɣtut tettwasra
+newtab-topsites-image-url-label = Tugna tudmawant URL
+newtab-topsites-use-image-link = Seqdec tugna tudmawant…
+newtab-topsites-image-validation = Tugna ur d-uli ara. Ɛreḍ tansa-nniḍen URL.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Sefsex
 newtab-topsites-delete-history-button = Kkes seg umazray
 newtab-topsites-save-button = Sekles
+newtab-topsites-preview-button = Taskant
 newtab-topsites-add-button = Rnu
 
 ## Top Sites - Delete history confirmation dialog. 
@@ -60,6 +66,8 @@ newtab-menu-pin = Senteḍ
 newtab-menu-unpin = Serreḥ
 newtab-menu-delete-history = Kkes seg umazray
 newtab-menu-save-to-pocket = Sekles ɣer { -pocket-brand-name }
+newtab-menu-delete-pocket = Kkes si { -pocket-brand-name }
+newtab-menu-archive-pocket = Ḥrez di { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Kkes tacreṭ-agi
 # Bookmark is a verb here.
@@ -68,6 +76,8 @@ newtab-menu-bookmark = Creḍ asebter-agi
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-go-to-download-page = Ddu ɣer usebter n usider
+newtab-menu-remove-download = Kkes seg umazray
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
@@ -81,10 +91,20 @@ newtab-menu-bookmark = Creḍ asebter-agi
 newtab-label-visited = Yettwarza
 newtab-label-bookmarked = Yettwacreḍ
 newtab-label-recommended = Tiddin
+newtab-label-saved = Yettwakles ɣer { -pocket-brand-name }
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = Kkes tigezmi
+newtab-section-menu-collapse-section = Fneẓ tigezmi
+newtab-section-menu-expand-section = Snefli tigezmi
+newtab-section-menu-manage-section = Sefrek tigezmi
+newtab-section-menu-manage-webext = Sefrek asiɣzef
+newtab-section-menu-add-topsite = Rnu asmel ifazen
+newtab-section-menu-move-up = Ali
+newtab-section-menu-move-down = Ader
+newtab-section-menu-privacy-notice = Tasertit n tbaḍnit
 
 ## Section Headers.
 
@@ -110,3 +130,5 @@ newtab-pocket-read-more = Isental ittwasnen aṭas:
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = Ihuh, yella wayen yeḍran deg usali n ugbur-a.
+newtab-error-fallback-refresh-link = Sali-d aseter akken ad talseḍ aɛraḍ.
