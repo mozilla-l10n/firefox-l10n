@@ -24,12 +24,14 @@ newtab-topsites-title-label = Título
 newtab-topsites-title-input =
     .placeholder = Digite um título
 newtab-topsites-url-label = URL
+newtab-topsites-image-url-label = URL de imagem personalizada
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Cancelar
 newtab-topsites-delete-history-button = Excluir do histórico
 newtab-topsites-save-button = Salvar
+newtab-topsites-preview-button = Visualizar
 newtab-topsites-add-button = Adicionar
 
 ## Top Sites - Delete history confirmation dialog. 
