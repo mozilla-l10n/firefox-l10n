@@ -21,6 +21,7 @@ policy-Bookmarks = Yer imleri araç çubuğunda, yer imleri menüsünde veya bun
 policy-CaptivePortal = Kısıtlama portali desteğini aç veya kapat.
 policy-CertificatesDescription = Sertifika ekle veya yerleşik sertifikaları kullan.
 policy-Cookies = Web sitelerinin çerez ayarlamasına izin ver veya verme.
+policy-DefaultDownloadDirectory = Varsayılan indirme klasörünü ayarla.
 policy-DisableAppUpdate = Tarayıcının güncellenmesini engelle.
 policy-DisableBuiltinPDFViewer = Dahili { -brand-short-name } PDF göstericisi olan PDF.js'i devre dışı bırak.
 policy-DisableDeveloperTools = Geliştirici araçlarına erişimi engelle.
@@ -45,6 +46,7 @@ policy-DisplayBookmarksToolbar = Varsayılan olarak yer imleri araç çubuğunu 
 policy-DisplayMenuBar = Varsayılan olarak menü çubuğunu göster.
 policy-DNSOverHTTPS = HTTP üzerinden DNS’i yapılandır.
 policy-DontCheckDefaultBrowser = Başlangıçta varsayılan tarayıcı kontrolünü devre dışı bırak.
+policy-DownloadDirectory = İndirme klasörünü ayarla ve kilitle.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = İçerik engellemeyi etkinleştir veya devre dışı bırak ve isteğe bağlı olarak kilitle.
 # A “locked” extension can’t be disabled or removed by the user. This policy
