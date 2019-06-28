@@ -24,16 +24,26 @@ newtab-search-box-search-the-web-input =
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Keresőszolgáltatás hozzáadása
+newtab-topsites-add-topsites-header = Új népszerű oldal
+newtab-topsites-edit-topsites-header = Népszerű oldal szerkesztése
 newtab-topsites-title-label = Cím
+newtab-topsites-title-input =
+    .placeholder = Cím megadása
 newtab-topsites-url-label = URL
+newtab-topsites-url-input =
+    .placeholder = Írjon vagy illesszen be egy URL-t
+newtab-topsites-url-validation = Érvényes URL szükséges
 newtab-topsites-image-url-label = Egyéni kép URL
 newtab-topsites-use-image-link = Egyéni kép használata…
 newtab-topsites-image-validation = A kép betöltése nem sikerült. Próbáljon meg egy másik URL-t.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
+newtab-topsites-cancel-button = Mégse
 newtab-topsites-delete-history-button = Törlés az előzményekből
+newtab-topsites-save-button = Mentés
 newtab-topsites-preview-button = Előnézet
+newtab-topsites-add-button = Hozzáadás
 
 ## Top Sites - Delete history confirmation dialog. 
 
@@ -67,6 +77,7 @@ newtab-menu-dismiss = Elutasítás
 newtab-menu-pin = Rögzítés
 newtab-menu-unpin = Rögzítés feloldása
 newtab-menu-delete-history = Törlés az előzményekből
+newtab-menu-save-to-pocket = Mentés a { -pocket-brand-name }be
 newtab-menu-delete-pocket = Törlés a { -pocket-brand-name }ből
 newtab-menu-archive-pocket = Archiválás a { -pocket-brand-name }ben
 # Bookmark is a noun in this case, "Remove bookmark".
@@ -98,6 +109,7 @@ newtab-menu-open-file = Fájl megnyitása
 
 newtab-label-visited = Látogatott
 newtab-label-bookmarked = Könyvjelzőzött
+newtab-label-recommended = Népszerű
 newtab-label-saved = Mentve a { -pocket-brand-name }be
 newtab-label-download = Letöltve
 
@@ -133,6 +145,8 @@ newtab-empty-section-topstories = Már felzárkózott. Nézzen vissza később a
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = Népszerű témák:
 newtab-pocket-more-recommendations = További javaslatok
 newtab-pocket-how-it-works = Hogyan működik
 newtab-pocket-cta-button = { -pocket-brand-name } beszerzése
