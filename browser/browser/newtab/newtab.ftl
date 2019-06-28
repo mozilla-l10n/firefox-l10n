@@ -26,8 +26,10 @@ newtab-search-box-search-the-web-input =
 newtab-topsites-add-search-engine-header = Добавить поисковую систему
 newtab-topsites-add-topsites-header = Новый сайт в топе
 newtab-topsites-edit-topsites-header = Изменить сайт из топа
+newtab-topsites-title-label = Заголовок
 newtab-topsites-title-input =
     .placeholder = Введите название
+newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Введите или вставьте URL
 newtab-topsites-url-validation = Введите корректный URL
@@ -40,6 +42,7 @@ newtab-topsites-image-validation = Изображение не загрузил�
 newtab-topsites-cancel-button = Отмена
 newtab-topsites-delete-history-button = Удалить из истории
 newtab-topsites-save-button = Сохранить
+newtab-topsites-preview-button = Предпросмотр
 newtab-topsites-add-button = Добавить
 
 ## Top Sites - Delete history confirmation dialog. 
@@ -50,6 +53,16 @@ newtab-confirm-delete-history-p2 = Это действие не может бы�
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Открыть меню
+    .aria-label = Открыть меню
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Открыть меню
+    .aria-label = Открыть контекстное меню для { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Изменить этот сайт
@@ -65,6 +78,8 @@ newtab-menu-pin = Прикрепить
 newtab-menu-unpin = Открепить
 newtab-menu-delete-history = Удалить из истории
 newtab-menu-save-to-pocket = Сохранить в { -pocket-brand-name }
+newtab-menu-delete-pocket = Удалить из { -pocket-brand-name }
+newtab-menu-archive-pocket = Архивировать в { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Удалить закладку
 # Bookmark is a verb here.
@@ -95,6 +110,7 @@ newtab-menu-open-file = Открыть файл
 newtab-label-visited = Посещено
 newtab-label-bookmarked = В закладках
 newtab-label-recommended = Популярные
+newtab-label-saved = Сохранено в { -pocket-brand-name }
 newtab-label-download = Загружено
 
 ## Section Menu: These strings are displayed in the section context menu and are 
@@ -107,11 +123,14 @@ newtab-section-menu-manage-section = Управление разделом
 newtab-section-menu-manage-webext = Управление расширением
 newtab-section-menu-add-topsite = Добавить в топ сайтов
 newtab-section-menu-add-search-engine = Добавить поисковую систему
+newtab-section-menu-move-up = Вверх
+newtab-section-menu-move-down = Вниз
 newtab-section-menu-privacy-notice = Уведомление о приватности
 
 ## Section Headers.
 
 newtab-section-header-topsites = Топ сайтов
+newtab-section-header-highlights = Избранное
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Рекомендовано { $provider }
@@ -128,10 +147,13 @@ newtab-empty-section-topstories = Вы всё прочитали. Зайдите
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Популярные темы:
+newtab-pocket-more-recommendations = Ещё рекомендации
 newtab-pocket-how-it-works = Как это работает
+newtab-pocket-cta-button = Загрузить { -pocket-brand-name }
 newtab-pocket-cta-text = Сохраняйте интересные статьи в { -pocket-brand-name } и подпитывайте свой ум увлекательным чтением.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-info = К сожалению что-то пошло не так при загрузке этого содержимого.
+newtab-error-fallback-refresh-link = Обновить страницу, чтобы попробовать ещё раз.
