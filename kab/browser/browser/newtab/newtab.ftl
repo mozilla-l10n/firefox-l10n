@@ -76,6 +76,7 @@ newtab-menu-bookmark = Creḍ asebter-agi
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = Nɣel tansa n useɣwen n usali
 newtab-menu-go-to-download-page = Ddu ɣer usebter n usider
 newtab-menu-remove-download = Kkes seg umazray
 
@@ -83,6 +84,12 @@ newtab-menu-remove-download = Kkes seg umazray
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Sken deg Finder
+       *[other] Ldi akaram deg yella ufaylu
+    }
+newtab-menu-open-file = Ldi afaylu
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -92,6 +99,7 @@ newtab-label-visited = Yettwarza
 newtab-label-bookmarked = Yettwacreḍ
 newtab-label-recommended = Tiddin
 newtab-label-saved = Yettwakles ɣer { -pocket-brand-name }
+newtab-label-download = Yuli-d
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
