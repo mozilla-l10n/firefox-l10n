@@ -148,6 +148,7 @@ newtab-empty-section-topstories = Ai ajuns la capăt. Revino mai târziu pentru 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Subiecte populare:
 newtab-pocket-more-recommendations = Mai multe recomandări
+newtab-pocket-how-it-works = Cum funcționează
 newtab-pocket-cta-button = Obține { -pocket-brand-name }
 newtab-pocket-cta-text = Salvează în { -pocket-brand-name } articolele care ți-au plăcut și hrănește-ți mintea cu lecturi fascinante.
 
