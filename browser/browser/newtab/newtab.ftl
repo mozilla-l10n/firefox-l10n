@@ -20,8 +20,10 @@ newtab-search-box-search-button =
 
 newtab-topsites-add-topsites-header = Novo site popular
 newtab-topsites-edit-topsites-header = Editar site popular
+newtab-topsites-title-label = Título
 newtab-topsites-title-input =
     .placeholder = Digite um título
+newtab-topsites-url-label = URL
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -53,6 +55,8 @@ newtab-menu-pin = Fixar
 newtab-menu-unpin = Desafixar
 newtab-menu-delete-history = Excluir do histórico
 newtab-menu-save-to-pocket = Salvar no { -pocket-brand-name }
+newtab-menu-delete-pocket = Excluir do { -pocket-brand-name }
+newtab-menu-archive-pocket = Arquivar no { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Remover favorito
 # Bookmark is a verb here.
@@ -61,11 +65,20 @@ newtab-menu-bookmark = Adicionar aos favoritos
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = Copiar link do download
+newtab-menu-go-to-download-page = Abrir página de download
+newtab-menu-remove-download = Remover do histórico
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Mostrar no Finder
+       *[other] Abrir pasta
+    }
+newtab-menu-open-file = Abrir arquivo
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -74,11 +87,21 @@ newtab-menu-bookmark = Adicionar aos favoritos
 newtab-label-visited = Visitado
 newtab-label-bookmarked = Adicionado aos favoritos
 newtab-label-recommended = Tendência
+newtab-label-saved = Salvo no { -pocket-brand-name }
+newtab-label-download = Baixado
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = Remover seção
+newtab-section-menu-collapse-section = Recolher seção
+newtab-section-menu-expand-section = Expandir seção
+newtab-section-menu-manage-section = Gerenciar seção
 newtab-section-menu-manage-webext = Gerenciar extensão
+newtab-section-menu-add-topsite = Adicionar ao sites preferidos
+newtab-section-menu-move-up = Mover para cima
+newtab-section-menu-move-down = Mover para baixo
+newtab-section-menu-privacy-notice = Política de privacidade
 
 ## Section Headers.
 
@@ -100,3 +123,5 @@ newtab-pocket-read-more = Tópicos populares:
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = Opa, algo deu errado ao carregar esse conteúdo.
+newtab-error-fallback-refresh-link = Atualize a página para tentar novamente.
