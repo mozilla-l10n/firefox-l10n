@@ -5,6 +5,7 @@
 
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
+newtab-page-title = Neuvo feuggio
 newtab-settings-button =
     .title = Personalizza a teu pagina Neuvo feuggio
 
@@ -71,6 +72,7 @@ newtab-menu-topsites-placeholder-tooltip =
 
 newtab-menu-edit-topsites = Cangia
 newtab-menu-open-new-window = Arvi in neuvo barcon
+newtab-menu-open-new-private-window = Arvi in neuvo barcon privòu
 newtab-menu-dismiss = Scancella
 newtab-menu-pin = Azonzi a-a bacheca
 newtab-menu-unpin = Leva da bacheca
@@ -99,6 +101,7 @@ newtab-menu-show-file =
         [macos] Fanni vedde in Finder
        *[other] Arvi cartella
     }
+newtab-menu-open-file = Arvi schedaio
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
