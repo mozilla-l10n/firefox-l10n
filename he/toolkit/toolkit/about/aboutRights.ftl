@@ -9,22 +9,22 @@ rights-intro-point-2 = לא הוענקה לך אף זכות בסמל המסחר�
 rights-intro-point-3 = תכונות מסוימות ב־{ -brand-short-name }, כמו למשל מדווח הקריסות, נותנות לך את האפשרות לספק משוב ל־{ -vendor-short-name }. באמצעות בחירה בשליחת משוב, אתה נותן ל־{ -vendor-short-name } הרשאה להשתמש במשוב כדי לשפר את המוצרים, לפרסם את המשוב באתר שלהם, ולהפיץ את המשוב.
 rights-intro-point-4 = מידע על אופן השימוש במידע האישי שלך ובמשוב שלך הנשלחים ל־{ -vendor-short-name } דרך { -brand-short-name } מתואר ב<a data-l10n-name="mozilla-privacy-policy-link">מדיניות הפרטיות של { -brand-short-name }</a>.
 rights-intro-point-4-unbranded = כל מדיניות פרטיות ישימה למוצר זה צריכה להופיע כאן.
-rights-intro-point-5 = חלק מהתכונות של { -brand-short-name } משתמשות בשירותי מידע מבוססי רשת, למרות זאת, אין באפשרותנו להבטיח שהם מדויקים ב־100% או נטולי שגיאות. מידע נוסף, לרבות הוראות לניטרול התכונות המשתמשות בשירותים אלו, זמין ב־<a data-l10n-name="mozilla-service-terms-link">תנאי השירות</a>.
+rights-intro-point-5 = חלק מהתכונות של { -brand-short-name } משתמשות בשירותי מידע מבוססי רשת, למרות זאת, אין באפשרותנו להבטיח שהם מדויקים ב־100% או נטולי שגיאות. מידע נוסף, לרבות הוראות לניטרול התכונות המשתמשות בשירותים אלו, זמין ב<a data-l10n-name="mozilla-service-terms-link">תנאי השירות</a>.
 rights-intro-point-5-unbranded = אם מוצר זה כולל שירותי רשת, יש לקשר כל תנאי שירות ישים עבור השירות(ים) אל הסעיף <a data-l10n-name="mozilla-website-services-link">שירותי אתרים</a>.
 rights-intro-point-6 = כדי לנגן סוגים מסוימים של תוכן וידאו, על { -brand-short-name } להוריד רכיבי פענוח תוכן מסוימים מגורמי צד שלישי.
 rights-webservices-header = שירותי מידע מבוססי רשת של { -brand-full-name }
 rights-webservices = { -brand-full-name } משתמש בשירותי מידע מבוססי רשת (להלן "Services") כדי לספק חלק מהתכונות שלו המסופקות לשימושך עם הגרסה הבינארית הזו של { -brand-short-name } תחת התנאים שמתוארים מטה. אם אינך רוצה להשתמש באחד או יותר משירותים אלו או שהתנאים המצוינים למטה אינם מתאימים לך, אתה יכול לנטרל את התכונות או השירותים. הוראות לניטרול תכונות או שירותים מסוימים יכולות להימצא <a data-l10n-name="mozilla-disable-service-link">כאן</a>. תכונות ושירותים אחרים ניתנים לנטרול בהעדפות היישום.
-rights-safebrowsing = <strong>גלישה בטוחה: </strong>ניטרול התכונה גלישה בטוחה לא מומלץ מכיוון שביטול התכונה יאפשר לך לגשת לאתרים לא בטוחים. אם אתה רוצה לנטרל את התכונה לחלוטין, עקוב אחר צעדים אלו:
+rights-safebrowsing = <strong>גלישה בטוחה:</strong> ניטרול התכונה גלישה בטוחה לא מומלץ מכיוון שביטול התכונה יאפשר לך לגשת לאתרים לא בטוחים. אם ברצונך לנטרל את התכונה לחלוטין, יש לעקוב אחר צעדים אלו:
 rights-safebrowsing-term-1 = פתח את העדפות היישום
 rights-safebrowsing-term-2 = בחר בלשונית אבטחה
-rights-safebrowsing-term-3 = ניתן לבטל את הסימון כדי "{ enableSafeBrowsing-label }"
+rights-safebrowsing-term-3 = ניתן לבטל את הסימון כדי להפעיל "{ enableSafeBrowsing-label }"
 enableSafeBrowsing-label = חסימת תוכן מסוכן ומטעה
 rights-safebrowsing-term-4 = גלישה בטוחה מנוטרלת כעת
-rights-locationawarebrowsing = <strong>דפדוף מבוסס מיקום: </strong>תמיד ממתין לאישור המשתמש. אף מידע מיקום לא נשלח בלי לקבל את רשותך. אם אתה מעוניין לנטרל את התכונה הזו לחלוטין, עקוב אחר צעדים אלו:
+rights-locationawarebrowsing = <strong>גלישה מבוססת מיקום:</strong> תמיד ממתינה לאישור המשתמש. אף מידע מיקום לא נשלח בלי לקבל את רשותך. אם ברצונך לנטרל את התכונה הזו לחלוטין, יש לעקוב אחר צעדים אלו:
 rights-locationawarebrowsing-term-1 = בשורת הכתובות, הקש <code>about:config</code>
 rights-locationawarebrowsing-term-2 = הקלד geo.enabled
 rights-locationawarebrowsing-term-3 = לחץ לחיצה כפולה על ההעדפה geo.enabled
-rights-locationawarebrowsing-term-4 = דפדוף מבוסס מיקום מנוטרל כעת
+rights-locationawarebrowsing-term-4 = גלישה מבוססת מיקום מנוטרלת כעת
 rights-webservices-unbranded = סקירה של שירותי האתרים שהמוצר מכיל, יחד עם הוראות כיצד לבטל אותם, אם הדבר ישים, צריכה להיכלל כאן.
 rights-webservices-term-unbranded = יש לרשום כאן כל תנאי שירות ישימים עבור מוצר זה.
 rights-webservices-term-1 = { -vendor-short-name } על תורמיו, בעלי זכויות יוצריו ושותפיו עובדים יחדיו כדי לספק את השירותים העדכניים והמדויקים ביותר.  עם זאת, איננו יכולים להבטיח כי מידע זה מקיף ונטול שגיאות.  לדוגמה, שירות הגלישה הבטוחה עלול שלא לזהות מספר אתרים מסוכנים ועלול לזהות כמה אתרים בטוחים בטעות ובשירות מבוסס המיקום כל המיקומים שמוחזרים על ידי ספקי השירות שלנו משוערכים בלבד וגם אנחנו וגם ספקי השירות שלנו לא יכולים להתחייב לדיוקם של המיקומים המסופקים.

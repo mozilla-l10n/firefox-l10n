@@ -37,7 +37,7 @@ features-network-desc = מעקב אחר בקשות רשת שעשויות להא�
 features-storage-title = אחסון
 features-storage-desc = הוספה, שינוי והסרת מטמון, עוגיות, מסדי נתונים ונתוני פעילות גלישה. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-responsive-title = מצב עיצוב מסתגל
-features-responsive-desc = בדיקת אתרים על התקנים מדומים בדפדפן שלך. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-responsive-desc = בדיקת אתרים על מכשירים מדומים בדפדפן שלך. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-visual-editing-title = עריכה חזותית
 features-visual-editing-desc = כוונון של הנפשות, יישור וריפוד. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-performance-title = ביצועים

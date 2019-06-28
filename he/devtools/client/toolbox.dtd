@@ -10,11 +10,6 @@
 <!ENTITY toggleToolboxF12.keycode          "VK_F12">
 <!ENTITY toggleToolboxF12.keytext          "F12">
 
-<!-- LOCALIZATION NOTE (browserToolboxStatusMessage): This is the label
-  -  shown next to status details when the Browser Toolbox fails to connect or
-  -  appears to be taking a while to do so. -->
-<!ENTITY browserToolboxStatusMessage "מצב חיבור לארגז הכלים של הדפדפן:">
-
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 <!ENTITY options.context.advancedSettings "הגדרות מתקדמות">
@@ -139,6 +134,11 @@
    - label for the checkbox that toggles timestamps in the Web Console -->
 <!ENTITY options.timestampMessages.label      "הצגת חותמות זמן">
 <!ENTITY options.timestampMessages.tooltip    "הפעלת אפשרות זו תציג חותמות זמן בפקודות ובפלט במסוף הרשת">
+
+<!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
+   - label for the checkbox that toggles the warningGroups feature in the Web Console -->
+<!ENTITY options.warningGroups.label      "קיבוץ הודעות דומות">
+<!ENTITY options.warningGroups.tooltip    "כשאפשרות זו מופעלת, הודעות דומות יוצבו בקבוצות">
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->

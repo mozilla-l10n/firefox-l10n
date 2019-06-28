@@ -9,6 +9,7 @@
  Firefox" and "version" is used to mean "the specific revision number of a
  given Firefox channel". These terms are not synonymous.
 -->
+<!ENTITY window.title "הפעלת גרסה ישנה של Firefox">
 <!ENTITY window.style "width: 490px;">
 
 <!ENTITY window.nosync "שימוש בגרסה ישנה של Firefox עלול לפגוע בסימניות ובהיסטוריית הגלישה שכבר שמורים בפרופיל קיים ב־Firefox. כדי להגן על המידע שלך, יש ליצור פרופיל חדש עבור התקנה זו של &brandShortName;.">
