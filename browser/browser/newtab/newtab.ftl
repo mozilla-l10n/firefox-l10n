@@ -86,11 +86,20 @@ newtab-menu-bookmark = 즐겨찾기
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = 다운로드 주소 복사
+newtab-menu-go-to-download-page = 다운로드 페이지로 이동
+newtab-menu-remove-download = 방문 기록에서 삭제
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Finder에서 보기
+       *[other] 저장 폴더 열기
+    }
+newtab-menu-open-file = 파일 열기
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -100,6 +109,7 @@ newtab-label-visited = 방문한 사이트
 newtab-label-bookmarked = 즐겨찾기
 newtab-label-recommended = 트랜드
 newtab-label-saved = { -pocket-brand-name }에 저장됨
+newtab-label-download = 다운로드됨
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
