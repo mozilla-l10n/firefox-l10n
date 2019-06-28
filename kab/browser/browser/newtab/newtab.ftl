@@ -53,6 +53,16 @@ newtab-confirm-delete-history-p2 = Tigawt-agi ur tettuɣal ara ar deffir.
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Ldi umuɣ
+    .aria-label = Ldi umuɣ
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Ldi umuɣ
+    .aria-label = Ldi umuɣ asatal i { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Ẓreg asmel-agi
@@ -139,6 +149,7 @@ newtab-pocket-read-more = Isental ittwasnen aṭas:
 newtab-pocket-more-recommendations = Ugar n iwellihen
 newtab-pocket-how-it-works = Amek iteddu
 newtab-pocket-cta-button = Awi-d { -pocket-brand-name }
+newtab-pocket-cta-text = Sekles tiqṣiḍin i tḥemmleḍ deg { -pocket-brand-name }, sedhu allaɣ-ik s tɣuri ifazen.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
