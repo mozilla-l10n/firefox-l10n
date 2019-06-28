@@ -46,12 +46,18 @@ newtab-confirm-delete-history-p2 = Tiu ĉi ago ne estas malfarebla.
 
 ## Context Menu - Action Tooltips.
 
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = Redakti ĉi tiun retejon
+    .aria-label = Redakti ĉi tiun retejon
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
+newtab-menu-edit-topsites = Redakti
 newtab-menu-open-new-window = Malfermi en nova fenestro
 newtab-menu-open-new-private-window = Malfermi en nova privata fenestro
 newtab-menu-dismiss = Ignori
+newtab-menu-pin = Alpingli
 newtab-menu-unpin = Depingli
 newtab-menu-delete-history = Forigi el historio
 newtab-menu-save-to-pocket = Konservi en { -pocket-brand-name }
@@ -65,18 +71,29 @@ newtab-menu-bookmark = Aldoni legosignon
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = Kopii elŝutan ligilon
+newtab-menu-go-to-download-page = Iri al la paĝo de elŝuto
+newtab-menu-remove-download = Forigi el la historio
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Montri en Finder
+       *[other] Malfermi entenantan dosierujon
+    }
+newtab-menu-open-file = Malfermi dosieron
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
 ## the page is bookmarked, or is currently open on another device.
 
 newtab-label-bookmarked = Kun legosigno
+newtab-label-recommended = Tendencoj
 newtab-label-saved = Konservita en { -pocket-brand-name }
+newtab-label-download = Elŝutita
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
@@ -85,6 +102,7 @@ newtab-section-menu-remove-section = Forigi sekcion
 newtab-section-menu-collapse-section = Faldi sekcion
 newtab-section-menu-expand-section = Malfaldi sekcion
 newtab-section-menu-manage-section = Administri sekcion
+newtab-section-menu-manage-webext = Administri etendaĵon
 newtab-section-menu-add-topsite = Aldoni oftan retejon
 newtab-section-menu-move-up = Movi supren
 newtab-section-menu-move-down = Movi malsupren
