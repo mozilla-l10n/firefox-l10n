@@ -23,6 +23,7 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Suchmaschine hinzufügen
 newtab-topsites-add-topsites-header = Neue wichtige Seite
 newtab-topsites-edit-topsites-header = Wichtige Seite bearbeiten
 newtab-topsites-title-label = Titel
@@ -31,6 +32,7 @@ newtab-topsites-title-input =
 newtab-topsites-url-label = Adresse
 newtab-topsites-url-input =
     .placeholder = Eine Adresse eingeben oder einfügen
+newtab-topsites-image-url-label = Adresse von benutzerdefinierter Grafik
 newtab-topsites-use-image-link = Eine benutzerdefinierte Grafik verwenden…
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
@@ -49,6 +51,16 @@ newtab-confirm-delete-history-p2 = Diese Aktion kann nicht rückgängig gemacht 
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Menü öffnen
+    .aria-label = Menü öffnen
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Menü öffnen
+    .aria-label = Kontextmenü für { $title } öffnen
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Diese Website bearbeiten
@@ -108,6 +120,7 @@ newtab-section-menu-expand-section = Abschnitt ausklappen
 newtab-section-menu-manage-section = Abschnitt verwalten
 newtab-section-menu-manage-webext = Erweiterung verwalten
 newtab-section-menu-add-topsite = Wichtige Seite hinzufügen
+newtab-section-menu-add-search-engine = Suchmaschine hinzufügen
 newtab-section-menu-move-up = Nach oben schieben
 newtab-section-menu-move-down = Nach unten schieben
 newtab-section-menu-privacy-notice = Datenschutzhinweis
@@ -132,6 +145,10 @@ newtab-empty-section-topstories = Jetzt kennen Sie die Neuigkeiten. Schauen Sie 
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Beliebte Themen:
+newtab-pocket-more-recommendations = Mehr Empfehlungen
+newtab-pocket-how-it-works = Wie es funktioniert
+newtab-pocket-cta-button = { -pocket-brand-name } holen
+newtab-pocket-cta-text = Speichern Sie Ihre Lieblingstexte in { -pocket-brand-name } und gewinnen Sie gedankenreiche Einblicke durch faszinierende Texte.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
