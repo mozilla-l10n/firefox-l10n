@@ -26,10 +26,14 @@ newtab-search-box-search-the-web-input =
 newtab-topsites-add-search-engine-header = Tamah Meusén Mita
 newtab-topsites-add-topsites-header = Situih Paléng Ateuëh Barô
 newtab-topsites-edit-topsites-header = Ubah Situih Paléng Ateuëh
+newtab-topsites-title-label = Nan
 newtab-topsites-title-input =
     .placeholder = Peutamong judôi
 newtab-topsites-url-label = URL
+newtab-topsites-url-input =
+    .placeholder = Tép atawa tipék URL
 newtab-topsites-url-validation = Peureulèe URL nyang sah
+newtab-topsites-image-url-label = Atô URL Gamba
 newtab-topsites-use-image-link = Ngui gamba kusuih…
 newtab-topsites-image-validation = Gamba han jitém teuhah. Ci cuba URL laén.
 
@@ -126,6 +130,7 @@ newtab-section-menu-privacy-notice = Keubijakan Privasi
 ## Section Headers.
 
 newtab-section-header-topsites = Situih Paléng Ateuëh
+newtab-section-header-highlights = Keunalön
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Geu-usui uléh { $provider }
@@ -133,6 +138,10 @@ newtab-section-header-pocket = Geu-usui uléh { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Mulai seumeulop, lheueh nyan kamoe peudeuih padum-padum boh teunuléh, video ngön laman nyang jroh nyang ban-ban nyoe neusaweue atawa neubôh tanda sinoe.
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = Ka gura hai rakan. Ntruek neugisa lom beh? mantöng lee hikayat laén dum nyang hayeu hayeu lé { $provider }. Beu jinoe ju? Neu piléh asoe laén nyang meukeunöng man sabôh nyan.
 
 ## Pocket Content Section.
 
@@ -142,3 +151,5 @@ newtab-pocket-read-more = Bhaih Meusyeuhu:
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = Alah hai, na sipue pue nyang salah watée jipeuhah konten.
+newtab-error-fallback-refresh-link = Neu refresh laman bah ji trei lom.
