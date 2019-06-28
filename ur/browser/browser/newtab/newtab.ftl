@@ -79,6 +79,7 @@ newtab-menu-remove-download = سابقات سے ہٹائیں
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-open-file = مسل کھولیں
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -88,6 +89,7 @@ newtab-label-visited = دورہ شدہ
 newtab-label-bookmarked = نشان شدہ
 newtab-label-recommended = رجحان سازی
 newtab-label-saved = { -pocket-brand-name } میں محفوظ شدہ
+newtab-label-download = ڈاؤن لوڈ شدہ
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
