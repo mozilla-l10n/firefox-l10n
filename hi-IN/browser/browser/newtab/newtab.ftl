@@ -19,19 +19,26 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = खोज ईंजन जोड़ें
 newtab-topsites-add-topsites-header = नई शीर्ष साइट
 newtab-topsites-edit-topsites-header = शीर्ष साइट संपादित करें
+newtab-topsites-title-label = शीर्षक
 newtab-topsites-title-input =
     .placeholder = एक शीर्षक दर्ज करें
+newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = एक URL टाइप करें अथवा पेस्ट करें
 newtab-topsites-url-validation = मान्य URL आवश्यक
+newtab-topsites-image-url-label = कस्टम छवि URL
+newtab-topsites-use-image-link = कस्टम छवि का उपयोग करें…
+newtab-topsites-image-validation = छवि लोड करने में विफल । किसी भिंन URL का प्रयास करें ।
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = रद्द करें
 newtab-topsites-delete-history-button = इतिहास से मिटाएँ
 newtab-topsites-save-button = सहेजें
+newtab-topsites-preview-button = पूर्वावलोकन
 newtab-topsites-add-button = जोड़ें
 
 ## Top Sites - Delete history confirmation dialog. 
@@ -73,11 +80,21 @@ newtab-menu-save-to-pocket = { -pocket-brand-name } में सहेजें
 
 newtab-label-visited = देखी गई
 newtab-label-recommended = लोकप्रिय
+newtab-label-saved = { -pocket-brand-name } में सहेजा
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = अनुभाग निकालें
+newtab-section-menu-collapse-section = अनुभाग संक्षिप्त करें
+newtab-section-menu-expand-section = अनुभाग विस्तृत करें
+newtab-section-menu-manage-section = अनुभाग प्रबंधित करें
 newtab-section-menu-manage-webext = विस्तारक प्रबंधित करें
+newtab-section-menu-add-topsite = शीर्ष साइट जोड़ें
+newtab-section-menu-add-search-engine = खोज ईंजन जोड़ें
+newtab-section-menu-move-up = ऊपर जाएँ
+newtab-section-menu-move-down = नीचे जाएँ
+newtab-section-menu-privacy-notice = गोपनीयता नीति
 
 ## Section Headers.
 
@@ -103,3 +120,5 @@ newtab-pocket-read-more = लोकप्रिय विषय:
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = उफ़, कुछ गलत इस सामग्री लोड हो गया ।
+newtab-error-fallback-refresh-link = पुन: प्रयास करने के लिए पृष्ठ ताज़ा करें ।
