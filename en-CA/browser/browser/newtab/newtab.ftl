@@ -23,6 +23,7 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Add Search Engine
 newtab-topsites-add-topsites-header = Top Sites
 newtab-topsites-edit-topsites-header = Edit Top Site
 newtab-topsites-title-label = Title
@@ -52,6 +53,16 @@ newtab-confirm-delete-history-p2 = This action cannot be undone.
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Open menu
+    .aria-label = Open menu
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Open menu
+    .aria-label = Open context menu for { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Edit this site
@@ -109,7 +120,9 @@ newtab-section-menu-remove-section = Remove Section
 newtab-section-menu-collapse-section = Collapse Section
 newtab-section-menu-expand-section = Expand Section
 newtab-section-menu-manage-section = Manage Section
+newtab-section-menu-manage-webext = Manage Extension
 newtab-section-menu-add-topsite = Add Top Site
+newtab-section-menu-add-search-engine = Add Search Engine
 newtab-section-menu-move-up = Move Up
 newtab-section-menu-move-down = Move Down
 newtab-section-menu-privacy-notice = Privacy Notice
@@ -134,6 +147,10 @@ newtab-empty-section-topstories = You’ve caught up. Check back later for more 
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Popular Topics:
+newtab-pocket-more-recommendations = More Recommendations
+newtab-pocket-how-it-works = How it works
+newtab-pocket-cta-button = Get { -pocket-brand-name }
+newtab-pocket-cta-text = Save the stories you love in { -pocket-brand-name }, and fuel your mind with fascinating reads.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
