@@ -73,6 +73,8 @@ newtab-menu-edit-topsites = మార్చు
 newtab-menu-open-new-window = కొత్త విండోలో తెరువు
 newtab-menu-open-new-private-window = కొత్త వ్యక్తిగత విండోలో తెరువు
 newtab-menu-dismiss = విస్మరించు
+newtab-menu-pin = పిన్ను
+newtab-menu-unpin = పిన్ను తీసివేయి
 newtab-menu-delete-history = చరిత్ర నుంచి తీసివేయి
 newtab-menu-save-to-pocket = { -pocket-brand-name } కి సేవ్ చేయండి
 newtab-menu-delete-pocket = { -pocket-brand-name } నుండి తొలగించు
@@ -126,10 +128,17 @@ newtab-section-menu-privacy-notice = అంతరంగికత గమనిక
 ## Section Headers.
 
 newtab-section-header-topsites = మేటి సైట్లు
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = { $provider }చే సిఫార్సు చేయబడినది
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = విహారించడం మొదలుపెట్టండి, మీరు ఈమధ్య చూసిన లేదా ఇష్టపడిన గొప్ప వ్యాసాలను, వీడియోలను, ఇతర పేజీలను ఇక్కడ చూపిస్తాం.
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = మీరు పట్టుబడ్డారు. { $provider } నుండి మరింత అగ్ర కథనాల కోసం తరువాత తనిఖీ చేయండి. వేచి ఉండలేరా? జాలములోని అంతటి నుండి మరింత గొప్ప కథనాలను కనుగొనడానికి ప్రసిద్ధ అంశం ఎంచుకోండి.
 
 ## Pocket Content Section.
 
