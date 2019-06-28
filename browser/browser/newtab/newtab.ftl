@@ -24,16 +24,26 @@ newtab-search-box-search-the-web-input =
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Tambah Enjin Carian
+newtab-topsites-add-topsites-header = Laman Teratas Baru
+newtab-topsites-edit-topsites-header = Edit Laman Teratas
 newtab-topsites-title-label = Tajuk
+newtab-topsites-title-input =
+    .placeholder = Masukkan tajuk
 newtab-topsites-url-label = URL
+newtab-topsites-url-input =
+    .placeholder = Taip atau tampal URL
+newtab-topsites-url-validation = Perlukan URL yang sah
 newtab-topsites-image-url-label = URL Imej Penyesuaian
 newtab-topsites-use-image-link = Guna imej penyesuaian…
 newtab-topsites-image-validation = Imej gagal dimuatkan. Cuba URL lain.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
+newtab-topsites-cancel-button = Batal
 newtab-topsites-delete-history-button = Buang daripada Sejarah
+newtab-topsites-save-button = Simpan
 newtab-topsites-preview-button = Previu
+newtab-topsites-add-button = Tambah
 
 ## Top Sites - Delete history confirmation dialog. 
 
@@ -67,6 +77,7 @@ newtab-menu-dismiss = Abai
 newtab-menu-pin = Pin
 newtab-menu-unpin = Nyahpin
 newtab-menu-delete-history = Buang daripada Sejarah
+newtab-menu-save-to-pocket = Simpan ke { -pocket-brand-name }
 newtab-menu-delete-pocket = Buang dari { -pocket-brand-name }
 newtab-menu-archive-pocket = Arkib dalam { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
@@ -134,6 +145,8 @@ newtab-empty-section-topstories = Anda sudah di sini. Tapi sila datang lagi untu
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = Topik Popular:
 newtab-pocket-more-recommendations = Saranan Lain
 newtab-pocket-how-it-works = Cara pelaksanaan
 newtab-pocket-cta-button = Dapatkan { -pocket-brand-name }
