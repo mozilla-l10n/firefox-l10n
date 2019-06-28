@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "Mačči aṭas n yisefka, ugar n usekles">
 <!ENTITY firstrun_data_subtext2 "Kkes armad n tugniwin akken ad tḥerzeḍ isefka deg yal asmel anda terziḍ.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY updatednewfirstrun_sync_title "Amiḍan">
 <!ENTITY firstrun_sync_message2 "Kemmel seg anida telliḍ.">
 <!ENTITY firstrun_sync_subtext2 "Seqdec Sync akken ad tafeḍ ticraḍ n isebtar, awalen uffiren, akked tiγawsiwin nniḍen γer &brandShortName; deg akk ibenkan.">
 <!ENTITY newfirstrun_sync_subtext "Mtawi ayen i teskelseḍ ɣed yibenk-ik aziraz akked Firefox i uselkim, s tedreg akked tɣellist.">
