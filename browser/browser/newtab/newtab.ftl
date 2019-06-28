@@ -23,6 +23,7 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Agregar buscador
 newtab-topsites-add-topsites-header = Nuevo sitio más visitado
 newtab-topsites-edit-topsites-header = Editar sitio más visitado
 newtab-topsites-title-label = Título
@@ -32,12 +33,16 @@ newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Escribir o pegar URL
 newtab-topsites-url-validation = Se requiere URL válida
+newtab-topsites-image-url-label = URL de Imagen personalizada
+newtab-topsites-use-image-link = Usar imagen personalizada…
+newtab-topsites-image-validation = La imagen no se pudo cargar. Pruebe una URL diferente.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Cancelar
 newtab-topsites-delete-history-button = Borrar del historial
 newtab-topsites-save-button = Guardar
+newtab-topsites-preview-button = Vista previa
 newtab-topsites-add-button = Agregar
 
 ## Top Sites - Delete history confirmation dialog. 
@@ -83,11 +88,20 @@ newtab-menu-bookmark = Marcador
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = Copiar Dirección del enlace
+newtab-menu-go-to-download-page = Ir a la página de descarga
+newtab-menu-remove-download = Eliminar del Historial
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Mostrar en Finder
+       *[other] Abrir Carpeta contenedora
+    }
+newtab-menu-open-file = Abrir Archivo
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -97,6 +111,7 @@ newtab-label-visited = Visitados
 newtab-label-bookmarked = Marcados
 newtab-label-recommended = Tendencias
 newtab-label-saved = Guardado en { -pocket-brand-name }
+newtab-label-download = Descargada
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
@@ -105,7 +120,9 @@ newtab-section-menu-remove-section = Eliminar sección
 newtab-section-menu-collapse-section = Colapsar sección
 newtab-section-menu-expand-section = Expandir sección
 newtab-section-menu-manage-section = Administrar sección
+newtab-section-menu-manage-webext = Administrar extensión
 newtab-section-menu-add-topsite = Agregar Sitio más visitado
+newtab-section-menu-add-search-engine = Agregar buscador
 newtab-section-menu-move-up = Subir
 newtab-section-menu-move-down = Bajar
 newtab-section-menu-privacy-notice = Nota de privacidad
@@ -130,6 +147,10 @@ newtab-empty-section-topstories = Ya te pusiste al día. Volvé más tarde para 
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Tópicos populares:
+newtab-pocket-more-recommendations = Más recomendaciones
+newtab-pocket-how-it-works = Cómo funciona
+newtab-pocket-cta-button = Obtener { -pocket-brand-name }
+newtab-pocket-cta-text = Guarde las historias que quiera en { -pocket-brand-name } y potencie su mente con lecturas fascinantes.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
