@@ -23,6 +23,9 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Agiuntar maschina da tschertgar
+newtab-topsites-add-topsites-header = Nova pagina principala
+newtab-topsites-edit-topsites-header = Modifitgar la pagina principala
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Endatar in titel
@@ -50,6 +53,16 @@ newtab-confirm-delete-history-p2 = Questa acziun na po betg vegnir revocada.
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Avrir il menu
+    .aria-label = Avrir il menu
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Avrir il menu
+    .aria-label = Avrir il menu contextual per { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Modifitgar questa pagina
@@ -108,6 +121,8 @@ newtab-section-menu-collapse-section = Reducir la secziun
 newtab-section-menu-expand-section = Expander la secziun
 newtab-section-menu-manage-section = Administrar la secziun
 newtab-section-menu-manage-webext = Administrar l'extensiun
+newtab-section-menu-add-topsite = Agiuntar ina pagina principala
+newtab-section-menu-add-search-engine = Agiuntar maschina da tschertgar
 newtab-section-menu-move-up = Spustar ensi
 newtab-section-menu-move-down = Spustar engiu
 newtab-section-menu-privacy-notice = Infurmaziuns davart la protecziun da datas
@@ -132,6 +147,9 @@ newtab-empty-section-topstories = Ussa has ti legì tut las novitads. Turna pli 
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Temas populars:
+newtab-pocket-how-it-works = Co ch'i funcziuna
+newtab-pocket-cta-button = Obtegnair { -pocket-brand-name }
+newtab-pocket-cta-text = Memorisescha ils artitgels che ta plaschan en { -pocket-brand-name } e procura per inspiraziun cuntinuanta cun lectura fascinanta.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
