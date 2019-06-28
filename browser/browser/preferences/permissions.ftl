@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = שמירת שינויים
     .accesskey = ש
+permissions-autoplay-menu = ברירת מחדל עבור כל האתרים:
 permissions-searchbox =
     .placeholder = חיפוש אתר
+permissions-capabilities-autoplay-allow =
+    .label = הפעלת שמע ווידאו
+permissions-capabilities-autoplay-block =
+    .label = חסימת שמע
+permissions-capabilities-autoplay-blockall =
+    .label = חסימת שמע ווידאו
 permissions-capabilities-allow =
     .label = הרשה
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = הרשה
 permissions-capabilities-listitem-block =
     .value = חסום
-permissions-capabilities-listitem-allow-first-party =
-    .value = הרשאה לצד ראשון בלבד
 permissions-capabilities-listitem-allow-session =
     .value = הרשה למשך ההפעלה
 
@@ -58,10 +63,6 @@ permissions-invalid-uri-label = אנא הכנס שם מארח חוקי
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = חריגות - הגנת מעקב
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = ביטלת את הגנת המעקב באתרים אלו.
 permissions-exceptions-content-blocking-window =
     .title = חריגות - חסימת תוכן
     .style = { permissions-window.style }
@@ -101,6 +102,12 @@ permissions-exceptions-autoplay-media-window2 =
     .title = חריגות - ניגון אוטומטי
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = באפשרותך לציין לאלו אתרים תמיד מותר או אסור לנגן באופן אוטומטי מדיה עם קול. נא להקליד את כתובת האתר שברצונך לנהל ואז ללחוץ על חסום או הרשה.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = הגדרות - ניגון אוטומטי
+    .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 

@@ -3,11 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = מידע נוסף
 onboarding-button-label-try-now = נסו זאת כעת
 onboarding-button-label-get-started = תחילת עבודה
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = ברוכים הבאים אל { -brand-short-name }
 onboarding-welcome-learn-more = מידע נוסף על היתרונות.
 onboarding-join-form-header = הצטרפות אל { -brand-product-name }
@@ -23,6 +33,7 @@ onboarding-start-browsing-button-label = התחלת גלישה
 ## description.
 
 onboarding-benefit-products-title = מוצרים שימושיים
+onboarding-benefit-privacy-title = פרטיות אמיתית
 
 ## These strings belong to the individual onboarding messages.
 
@@ -42,22 +53,14 @@ onboarding-ghostery-text = גלישה מהירה, חכמה או בטוחה יו�
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = סנכרון
 onboarding-fxa-text = הירשמו ל־{ -fxaccount-brand-name } וסנכרנו את הסימניות, הססמאות והלשוניות הפתוחות בכל מקום שבו תשתמשו ב־{ -brand-short-name }.
-# "Update" is a verb, as in "Update the existing settings", not "Options about
-# updates".
-onboarding-tracking-protection-button =
-    { PLATFORM() ->
-        [windows] עדכון אפשרויות
-       *[other] עדכון העדפות
-    }
+onboarding-tracking-protection-title2 = הגנה מפני מעקב
 onboarding-tracking-protection-button2 = איך זה עובד
-onboarding-data-sync-button = הפעלת { -sync-brand-short-name }
 onboarding-browse-privately-title = גלישה בפרטיות
 onboarding-browse-privately-button = פתיחת חלון פרטי
 onboarding-mobile-phone-title = קבלת { -brand-product-name } לטלפון שלך
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
-onboarding-mobile-phone-button = הורדת דפדפן נייד
-onboarding-lockwise-passwords-button = קבלת { -lockwise-brand-name }
+onboarding-mobile-phone-button = הורדת דפדפן לנייד
 onboarding-facebook-container-button = הוספת ההרחבה
 
 ## Message strings belonging to the Return to AMO flow

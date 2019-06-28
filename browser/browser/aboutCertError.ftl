@@ -30,6 +30,14 @@ cert-error-domain-mismatch-single-nolink = אתרים מוכיחים את זהו
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
 cert-error-domain-mismatch-multiple = אתרים מוכיחים את זהותם באמצעות אישורי אבטחה. { -brand-short-name } לא בוטח באתר זה מכיוון שהוא משתמש באישור אבטחה שאינו תקף עבור { $hostname }. האישור תקף עבור השמות הבאים בלבד: { $subject-alt-names }
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = אתרים מוכיחים את זהותם באמצעות אישורי אבטחה, התקפים לפרק זמן מוגדר. פג תוקפו של אישור האבטחה עבור { $hostname } ב־{ $not-after-local-time }.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = אתרים מוכיחים את זהותם באמצעות אישורי אבטחה, התקפים לפרק זמן מוגדר. אישור האבטחה עבור { $hostname } לא יהיה בתוקף עד { $not-before-local-time }.
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = קוד שגיאה: <a data-l10n-name="error-code-link">{ $error }</a>
 cert-error-symantec-distrust-admin = באפשרותך להודיע למנהל האתר על אודות בעיה זו.

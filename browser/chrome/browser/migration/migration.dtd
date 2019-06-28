@@ -5,9 +5,9 @@
 
 <!ENTITY migrationWizard.title          "אשף היבוא">
 
-<!ENTITY importFrom.label               "יבא אפשרויות, סימניות, היסטוריה, ססמאות ונתונים נוספים מ:">
-<!ENTITY importFromUnix.label           "יבא העדפות, סימניות, היסטוריה, ססמאות ונתונים נוספים:">
-<!ENTITY importFromBookmarks.label      "יבא סימניות מ:">
+<!ENTITY importFrom.label               "ייבוא אפשרויות, סימניות, היסטוריה, ססמאות ונתונים נוספים מ:">
+<!ENTITY importFromUnix.label           "ייבוא העדפות, סימניות, היסטוריה, ססמאות ונתונים נוספים מ:">
+<!ENTITY importFromBookmarks.label      "ייבוא סימניות מ:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "I">
@@ -34,7 +34,7 @@
 
 <!ENTITY noMigrationSources.label       "לא נמצאו תוכנות שמכילות סימניות, היסטוריה, או מידע ססמאות.">
 
-<!ENTITY importSource.title             "יבא נתונים והגדרות:">
+<!ENTITY importSource.title             "ייבוא הגדרות ונתונים">
 <!ENTITY importItems.title              "פריטים ליבוא">
 <!ENTITY importItems.label              "נא לבחור אילו פריטים לייבא:">
 

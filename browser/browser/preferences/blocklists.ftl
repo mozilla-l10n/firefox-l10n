@@ -27,4 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-listName = רשימת חסימה רמה 1 (מומלצת).
 blocklist-item-moz-std-description = אפשור מספר רכיבי מעקב כך שפחות אתרים יישברו.
 blocklist-item-moz-full-listName = רשימת חסימה רמה 2.
-blocklist-item-moz-full-description = חסימת כל העוקבים שזוהו. ייתכן שאתרים או תוכן מסוים לא יטענו כראוי.
+blocklist-item-moz-full-description = חסימת כל רכיבי המעקב המזוהים. ייתכן שאתרים או תוכן מסוים לא יטענו כראוי.

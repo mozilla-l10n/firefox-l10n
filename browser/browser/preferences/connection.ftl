@@ -75,7 +75,7 @@ connection-dns-over-https =
 connection-dns-over-https-url-default =
     .label = שימוש בברירת המחדל ({ $url })
     .accesskey = ב
-    .tooltiptext = שימוש בכתובת בררת המחדל כדי לפתור שאילתות DNS על גבי HTTPS
+    .tooltiptext = שימוש בכתובת ברירת המחדל כדי לפתור שאילתות DNS על גבי HTTPS
 connection-dns-over-https-url-resolver = שימוש בספק
     .accesskey = ש
 # Variables:
@@ -84,7 +84,7 @@ connection-dns-over-https-url-item-default =
     .label = ‏{ $name } (ברירת מחדל)
     .tooltiptext = שימוש בכתובת ברירת המחדל כדי לפתור שאילתות DNS על גבי HTTPS
 connection-dns-over-https-url-custom =
-    .label = התאמה אישית
+    .label = מותאם אישית
     .accesskey = א
     .tooltiptext = נא להקליד את הכתובת המועדפת עליך לפתרון DNS על גבי HTTPS
 connection-dns-over-https-custom-label = מותאם אישית
