@@ -33,6 +33,7 @@ newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = URL එකක් ඇතුළත් කරන්න
 newtab-topsites-url-validation = වලංගු URL එකක් අවශ්‍ය වේ
+newtab-topsites-image-validation = පින්තූරය පැටවීමට අපොහොසත් විය. වෙනත් URL එකක් උත්සාහ කරන්න.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -87,6 +88,7 @@ newtab-menu-remove-download = ඉතිහාසයෙන් ඉවත් කර
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-open-file = ගොනුව විවෘත කරන්න
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -128,3 +130,5 @@ newtab-pocket-how-it-works = එය ක්‍රියාත්මක වන්�
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = අහෝ, මෙම අන්තර්ගතය පූර්ණයෙදී යම් වරදක් සිදුවිය.
+newtab-error-fallback-refresh-link = යළි උත්සාහ කිරීමට පිටුව යාවත්කාලීන කරන්න.
