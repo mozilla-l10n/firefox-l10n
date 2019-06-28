@@ -460,7 +460,7 @@
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Unelte">
 <!ENTITY tasksMenu.accesskey "t">
-<!ENTITY messengerCmd.label "E-mail și Grupuri de discuții">
+<!ENTITY messengerCmd.label "E-mail și grupuri de discuții">
 <!ENTITY messengerCmd.accesskey "n">
 <!ENTITY addressBookCmd.label "Agendă de contacte">
 <!ENTITY addressBookCmd.accesskey "A">
