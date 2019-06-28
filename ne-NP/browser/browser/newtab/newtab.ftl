@@ -25,6 +25,11 @@ newtab-search-box-search-the-web-input =
 
 newtab-topsites-add-topsites-header = नयाँ शीर्ष साइट
 newtab-topsites-edit-topsites-header = शीर्ष साइट सम्पादन गर्नुहोस्
+newtab-topsites-title-input =
+    .placeholder = शीर्षक प्रविष्ट गर्नुहोस्
+newtab-topsites-url-input =
+    .placeholder = URL लेख्नुहोस्
+newtab-topsites-url-validation = मान्य URL चाहिन्छ
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -95,6 +100,8 @@ newtab-section-header-pocket = { $provider } द्वारा सिफार�
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = लोकप्रिय शीर्षकहरू:
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
