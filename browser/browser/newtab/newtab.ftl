@@ -24,16 +24,26 @@ newtab-search-box-search-the-web-input =
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Přidat vyhledávač
+newtab-topsites-add-topsites-header = Nová top stránka
+newtab-topsites-edit-topsites-header = Upravit top stránku
 newtab-topsites-title-label = Název stránky
+newtab-topsites-title-input =
+    .placeholder = Zadejte název
 newtab-topsites-url-label = URL
+newtab-topsites-url-input =
+    .placeholder = Zadejte nebo vložte URL adresu
+newtab-topsites-url-validation = Je vyžadována platná URL
 newtab-topsites-image-url-label = URL adresa vlastního obrázku
 newtab-topsites-use-image-link = Použít vlastní obrázek…
 newtab-topsites-image-validation = Obrázek se nepodařilo načíst. Zkuste jinou URL adresu.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
+newtab-topsites-cancel-button = Zrušit
 newtab-topsites-delete-history-button = Smazat z historie
+newtab-topsites-save-button = Uložit
 newtab-topsites-preview-button = Náhled
+newtab-topsites-add-button = Přidat
 
 ## Top Sites - Delete history confirmation dialog. 
 
@@ -67,6 +77,7 @@ newtab-menu-dismiss = Skrýt
 newtab-menu-pin = Připnout
 newtab-menu-unpin = Odepnout
 newtab-menu-delete-history = Smazat z historie
+newtab-menu-save-to-pocket = Uložit do služby { -pocket-brand-name }
 newtab-menu-delete-pocket = Smazat ze služby { -pocket-brand-name }
 newtab-menu-archive-pocket = Archivovat do služby { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
@@ -98,6 +109,7 @@ newtab-menu-open-file = Otevřít soubor
 
 newtab-label-visited = Navštívené
 newtab-label-bookmarked = V záložkách
+newtab-label-recommended = Populární
 newtab-label-saved = Uloženo do služby { -pocket-brand-name }
 newtab-label-download = Staženo
 
@@ -129,6 +141,8 @@ newtab-empty-section-highlights = Začněte prohlížet a my vám zde ukážeme 
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = Populární témata:
 newtab-pocket-more-recommendations = Další doporučení
 newtab-pocket-how-it-works = Jak to funguje
 newtab-pocket-cta-button = Získejte { -pocket-brand-name }
