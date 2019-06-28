@@ -6,9 +6,15 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = ແທັບໃຫມ່
+newtab-settings-button =
+    .title = ປັບແຕ່ງຫນ້າແທັບໃຫມ່ຂອງທ່ານ
 
 ## Search box component.
 
+# "Search" is a verb/action
+newtab-search-box-search-button =
+    .title = ຊອກ​ຫາ
+    .aria-label = ຊອກ​ຫາ
 
 ## Top Sites - General form dialog.
 
@@ -22,9 +28,14 @@ newtab-topsites-delete-history-button = ລຶບອອກຈາກປະຫວ�
 
 ## Context Menu - Action Tooltips.
 
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = ແກ້ໄຂເວັບໄຊທ໌ນີ້
+    .aria-label = ແກ້ໄຂເວັບໄຊທ໌ນີ້
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
+newtab-menu-edit-topsites = ແກ້ໄຂ
 newtab-menu-dismiss = ຍົກເລີກ
 newtab-menu-delete-history = ລຶບອອກຈາກປະຫວັດການນຳໃຊ້
 # Bookmark is a noun in this case, "Remove bookmark".
