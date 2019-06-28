@@ -148,6 +148,7 @@ newtab-empty-section-topstories = Egunean zaude jada. Etorri berriro geroago { $
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Gai ezagunak:
 newtab-pocket-more-recommendations = Gomendio gehiago
+newtab-pocket-how-it-works = Nola dabilen
 newtab-pocket-cta-button = Eskuratu { -pocket-brand-name }
 newtab-pocket-cta-text = Gorde gogoko dituzun istorioak { -pocket-brand-name }-en eta piztu zure gogoa irakurgai erakargarriekin.
 
