@@ -11,9 +11,19 @@ newtab-settings-button =
 
 ## Search box component.
 
+# "Search" is a verb/action
+newtab-search-box-search-button =
+    .title = Tikanöx
+    .aria-label = Tikanöx
+newtab-search-box-search-the-web-text = Tikanöx pa Ajk'amaya'l
+newtab-search-box-search-the-web-input =
+    .placeholder = Tikanöx pa Ajk'amaya'l
+    .title = Tikanöx pa Ajk'amaya'l
+    .aria-label = Tikanöx pa Ajk'amaya'l
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-topsites-header = K'ak'a' Utziläj Ruxaq K'amaya'l
 newtab-topsites-edit-topsites-header = Tinuk' re Utziläj Ruxaq K'amaya'l re'
 newtab-topsites-title-input =
     .placeholder = Tatz'ib'aj jun b'i'aj
@@ -30,14 +40,25 @@ newtab-topsites-add-button = Titz'aqatisäx
 
 ## Top Sites - Delete history confirmation dialog. 
 
+newtab-confirm-delete-history-p1 = ¿La kan nawajo ye'ayüj el ronojel ri kib'eyal re taq ruxaq re' chi kikojol ri anatab'al?
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = Man yatikïr ta najäl re b'anïk re'.
 
 ## Context Menu - Action Tooltips.
 
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = Tinuk' re ruxaq k'amaya'l re'
+    .aria-label = Tinuk' re ruxaq k'amaya'l re'
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Tinuk'
+newtab-menu-open-new-window = Tijaq pa jun K'ak'a' Tzuwäch
+newtab-menu-open-new-private-window = Tijaq pa jun K'ak'a' Ichinan Tzuwäch
 newtab-menu-dismiss = Tichup ruwäch
+newtab-menu-pin = Ximoj
+newtab-menu-unpin = Tosq'opïx
 newtab-menu-delete-history = Tiyuj el pa ri Natab'äl
 newtab-menu-save-to-pocket = Tiyak pa { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
@@ -59,6 +80,7 @@ newtab-menu-bookmark = Yaketal
 ## the page is bookmarked, or is currently open on another device.
 
 newtab-label-visited = Tz'eton
+newtab-label-bookmarked = Yakon retal
 newtab-label-recommended = Rujawaxik
 
 ## Section Menu: These strings are displayed in the section context menu and are 
@@ -73,6 +95,10 @@ newtab-section-header-pocket = Chilab'en ruma { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = Xaq'i'. Katzolin chik pe richin ye'ak'ül ri utziläj taq rub'anob'al { $provider }. ¿La man noyob'en ta? Tacha' jun ütz na'oj richin nawïl ch'aqa' chik taq b'anob'äl e k'o chi rij ri ajk'amaya'l.
 
 ## Pocket Content Section.
 
