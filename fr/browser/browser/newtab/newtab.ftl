@@ -6,9 +6,15 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Nouvel onglet
+newtab-settings-button =
+    .title = Personnaliser la page Nouvel onglet
 
 ## Search box component.
 
+# "Search" is a verb/action
+newtab-search-box-search-button =
+    .title = Rechercher
+    .aria-label = Rechercher
 newtab-search-box-search-the-web-text = Rechercher sur le Web
 newtab-search-box-search-the-web-input =
     .placeholder = Rechercher sur le Web
@@ -40,9 +46,14 @@ newtab-topsites-add-button = Ajouter
 
 ## Context Menu - Action Tooltips.
 
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = Modifier ce site
+    .aria-label = Modifier ce site
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
+newtab-menu-edit-topsites = Modifier
 newtab-menu-open-new-window = Ouvrir dans une nouvelle fenêtre
 newtab-menu-open-new-private-window = Ouvrir dans une nouvelle fenêtre privée
 newtab-menu-dismiss = Retirer
