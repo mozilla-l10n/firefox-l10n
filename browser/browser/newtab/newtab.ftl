@@ -32,6 +32,7 @@ newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = உள்ளிடு (அ) ஒரு URL ஒட்டு
 newtab-topsites-url-validation = சரியான URL தேவை
+newtab-topsites-image-url-label = தனிப்பயன் பட URL
 newtab-topsites-use-image-link = தனிப்பயன் படத்தை பயன்படுத்தவும்…
 newtab-topsites-image-validation = படத்தை ஏற்றுவதில் தோல்வி. வேறு URL ஐ முயற்சிக்கவும்.
 
@@ -91,6 +92,7 @@ newtab-label-visited = பார்த்தவை
 newtab-label-bookmarked = புத்தகக்குறியிடப்பட்டது
 newtab-label-recommended = பிரபலமான
 newtab-label-saved = { -pocket-brand-name } ல் சேமிக்கப்பட்டது
+newtab-label-download = பதிவிறக்கப்பட்டது
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
@@ -116,6 +118,10 @@ newtab-section-header-pocket = { $provider } என்பவரால் பர�
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = உலாவலைத் தொடங்கவும், மேலும் நாங்கள் சில சிறந்த கட்டுரைகள், காணொளிகள், மற்றும் நீங்கள் சமீபத்தில் பார்த்த அல்லது புத்தகக்குறியிட்ட பக்கங்களை இங்கே காட்டுவோம்.
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = நீங்கள் முடித்துவிட்டீர்கள். { $provider } இலிருந்து கூடுதல் கதைகளுக்கு பின்னர் பாருங்கள். காத்திருக்க முடியவில்லையா? இணையத்திலிருந்து கூடுதலான கதைகளைக் கண்டுபிடிக்க பிரபலமான தலைப்பைத் தேர்ந்தெடுங்கள்.
 
 ## Pocket Content Section.
 
