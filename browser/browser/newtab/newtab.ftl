@@ -110,6 +110,7 @@ newtab-label-download = Baixat
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = Elimina la secció
 newtab-section-menu-collapse-section = Redueix la secció
 newtab-section-menu-expand-section = Amplia la secció
 newtab-section-menu-manage-section = Gestiona la secció
