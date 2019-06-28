@@ -147,6 +147,7 @@ newtab-empty-section-topstories = لا جديد. تحقق لاحقًا للحص�
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = المواضيع الشائعة:
+newtab-pocket-more-recommendations = مقترحات أخرى
 newtab-pocket-how-it-works = آلية العمل
 newtab-pocket-cta-button = نزِّل بوكِت
 newtab-pocket-cta-text = احفظ القصص التي تحبّها في بوكِت، وزوّد عقلك بمقالات رائعة.
