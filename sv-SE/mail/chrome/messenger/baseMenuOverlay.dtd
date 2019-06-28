@@ -28,6 +28,8 @@
 
 <!ENTITY aboutMenuCmd2.label "Om &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "O">
+<!ENTITY helpSafeMode.stop.label     "Starta om med tillägg aktiverade">
+<!ENTITY helpSafeMode.stop.accesskey "S">
 <!ENTITY productHelp.label "&brandShortName; Hjälp">
 <!ENTITY productHelp.accesskey "H">
 <!ENTITY productHelp.commandkey "VK_F1">
