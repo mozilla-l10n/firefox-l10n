@@ -78,8 +78,8 @@ newtab-menu-pin = ثبّت
 newtab-menu-unpin = أزل
 newtab-menu-delete-history = احذف من التأريخ
 newtab-menu-save-to-pocket = احفظ في { -pocket-brand-name }
-newtab-menu-delete-pocket = احذف من بوكِت
-newtab-menu-archive-pocket = أرشِف في بوكِت
+newtab-menu-delete-pocket = احذف من { -pocket-brand-name }
+newtab-menu-archive-pocket = أرشِف في { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = أزل العلامة
 # Bookmark is a verb here.
@@ -110,7 +110,7 @@ newtab-menu-open-file = افتح الملف
 newtab-label-visited = مُزارة
 newtab-label-bookmarked = معلّمة
 newtab-label-recommended = مُتداول
-newtab-label-saved = حُفِظت في بوكِت
+newtab-label-saved = حُفِظت في { -pocket-brand-name }
 newtab-label-download = نُزّل
 
 ## Section Menu: These strings are displayed in the section context menu and are 
@@ -149,8 +149,8 @@ newtab-empty-section-topstories = لا جديد. تحقق لاحقًا للحص�
 newtab-pocket-read-more = المواضيع الشائعة:
 newtab-pocket-more-recommendations = مقترحات أخرى
 newtab-pocket-how-it-works = آلية العمل
-newtab-pocket-cta-button = نزِّل بوكِت
-newtab-pocket-cta-text = احفظ القصص التي تحبّها في بوكِت، وزوّد عقلك بمقالات رائعة.
+newtab-pocket-cta-button = نزِّل { -pocket-brand-name }
+newtab-pocket-cta-text = احفظ القصص التي تحبّها في { -pocket-brand-name }، وزوّد عقلك بمقالات رائعة.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
