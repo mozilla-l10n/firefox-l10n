@@ -23,6 +23,7 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = શોધ એંજીન ઉમેરો
 newtab-topsites-add-topsites-header = નવી ટોચની સાઇટ
 newtab-topsites-edit-topsites-header = ટોચની સાઇટ સંપાદિત કરો
 newtab-topsites-title-label = શીર્ષક
@@ -74,11 +75,20 @@ newtab-menu-bookmark = બુકમાર્ક
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = ડાઉનલોડ કડીની નકલ કરો
+newtab-menu-go-to-download-page = ડાઉનલોડ પૃષ્ઠ પર જાઓ
+newtab-menu-remove-download = ઇતિહાસમાંથી દૂર કરો
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] ફાઇન્ડર માં બતાવો
+       *[other] સમાવેલ ફોલ્ડર ખોલો
+    }
+newtab-menu-open-file = ફાઇલ ખોલો
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -87,6 +97,7 @@ newtab-menu-bookmark = બુકમાર્ક
 newtab-label-visited = જોવામા આવેલ:
 newtab-label-bookmarked = બુકમાર્ક્સ
 newtab-label-recommended = વલણ
+newtab-label-download = ડાઉનલોડ કરેલું
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
@@ -97,6 +108,7 @@ newtab-section-menu-expand-section = વિભાગ વિસ્તૃત ક�
 newtab-section-menu-manage-section = વિભાગ સંચાલિત કરો
 newtab-section-menu-manage-webext = એક્સ્ટેંશનનો વહીવટ કરો
 newtab-section-menu-add-topsite = ટોચની સાઇટ ઉમેરો
+newtab-section-menu-add-search-engine = શોધ એંજીન ઉમેરો
 newtab-section-menu-move-up = ઉપર કરો
 newtab-section-menu-move-down = નીચે કરો
 newtab-section-menu-privacy-notice = ખાનગી સૂચના
@@ -117,6 +129,9 @@ newtab-empty-section-highlights = બ્રાઉઝ કરવું પ્ર�
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = લોકપ્રિય વિષયો:
+newtab-pocket-more-recommendations = વધુ ભલામણો
+newtab-pocket-cta-button = { -pocket-brand-name } મેળવો
+newtab-pocket-cta-text = { -pocket-brand-name } તમને જે કથાઓ ગમે છે તે સાચવો, અને તમારા મનને રસપ્રદ વાંચન સાથે ઉત્તેજિત કરો.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
