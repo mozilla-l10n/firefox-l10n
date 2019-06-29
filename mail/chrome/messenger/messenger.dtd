@@ -440,9 +440,6 @@
 <!ENTITY openMessageWindowCmd.label "Отвори поруку">
 <!ENTITY openMessageWindowCmd.accesskey "О">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Отвори у разговору">
-<!ENTITY openConversationCmd.accesskey "з">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Прилози">
 <!ENTITY openAttachmentListCmd.accesskey "л">
 <!ENTITY openFeedMessage1.label "Приликом отварања порука у доводу">
@@ -606,6 +603,7 @@
 <!ENTITY compactButton.tooltip "Уклони обрисане поруке из изабране фасцикле">
 <!ENTITY appmenuButton1.tooltip "Прикажи мени &brandShortName;-а">
 
+
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Проследи као текст унутар друге поруке">
 <!ENTITY buttonMenuForwardAsAttachment.label "Проследи као прилог">
@@ -676,7 +674,7 @@
 <!ENTITY folderContextMarkNewsgroupRead.label "Обележи новинску групу као прочитану">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "б">
 <!ENTITY folderContextMarkMailFolderRead.label "Обележи фасциклу као прочитану">
-<!ENTITY folderContextMarkMailFolderRead.accesskey "б">
+<!ENTITY folderContextMarkMailFolderRead.accesskey "ф">
 <!ENTITY folderContextSubscribe.label "Претплати се…">
 <!ENTITY folderContextSubscribe.accesskey "т">
 <!ENTITY folderContextSearchForMessages.label "Претражи поруке…">
@@ -811,12 +809,6 @@
 <!ENTITY contextPrintPreview.label "Преглед пре штампе">
 <!ENTITY contextPrintPreview.accesskey "г">
 
-<!-- Thread Pane Column Picker -->
-<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
-     This option in the thread pane column picker causes us to reset the
-     customizations for the thread pane columns in this folder to their default.
-  -->
-<!ENTITY columnPicker.resetToInbox.label "Врати колоне на подразумевано">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
      the "columnPicker.applyToFolder.label" and
@@ -856,7 +848,6 @@
      "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "Ову фасциклу">
-
 
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Пусти">
