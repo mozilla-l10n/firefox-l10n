@@ -63,6 +63,7 @@ app-basics-process-count = Veebisisu protsessid
 app-basics-remote-processes-count = Kaugprotsessid
 app-basics-enterprise-policies = Rühmapoliitikad
 app-basics-location-service-key-google = Google'i asukohateenuse võti
+app-basics-safebrowsing-key-google = Google Safebrowsingu võti
 app-basics-key-mozilla = Mozilla asukohateenuse võti
 app-basics-safe-mode = Ohutu režiim
 show-dir-label =
@@ -88,6 +89,8 @@ graphics-gpu2-title = 2. GPU
 graphics-decision-log-title = Otsuste logi
 graphics-crash-guards-title = Vigade vältimise tõttu keelatud funktsionaalsus
 graphics-workarounds-title = Hädalahendused
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Graafilise kasutajaliidese protokoll
 place-database-title = Asukohtade andmebaas
 place-database-integrity = Terviklus
 place-database-verify-integrity = Verifitseeri terviklus
@@ -188,6 +191,8 @@ hardware-h264 = Riistvaraline H264-dekodeerimise tugi
 main-thread-no-omtc = peamine lõim, ilma OMTC'ta
 yes = jah
 no = ei
+unknown = Tundmatu
+virtual-monitor-disp = Virtual Monitor Display
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -195,6 +200,8 @@ no = ei
 
 found = leitud
 missing = puudub
+gpu-process-pid = GPU protsessi pid
+gpu-process = GPU protsess
 gpu-description = Kirjeldus
 gpu-vendor-id = Tootja ID
 gpu-device-id = Seadme ID
