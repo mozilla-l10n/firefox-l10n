@@ -673,12 +673,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
-<!ENTITY pocketButton.tooltiptext     "ਪਾਕੇਟ ਵਿੱਚ ਸੰਭਾਲੋ">
-<!ENTITY saveToPocketCmd.label        "ਸਫ਼ੇ ਨੂੰ ਪਾਕੇਟ ਵਿੱਚ ਸੰਭਾਲੋ">
+<!ENTITY pocketButton.tooltiptext     "Pocket ਵਿੱਚ ਸੰਭਾਲੋ">
+<!ENTITY saveToPocketCmd.label        "ਸਫ਼ੇ ਨੂੰ Pocket ਵਿੱਚ ਸੰਭਾਲੋ">
 <!ENTITY saveToPocketCmd.accesskey    "k">
-<!ENTITY saveLinkToPocketCmd.label    "ਲਿੰਕ ਨੂੰ ਪਾਕੇਟ 'ਚ ਸੰਭਾਲੋ">
+<!ENTITY saveLinkToPocketCmd.label    "ਲਿੰਕ ਨੂੰ Pocket ਵਿੱਚ ਸੰਭਾਲੋ">
 <!ENTITY saveLinkToPocketCmd.accesskey "o">
-<!ENTITY pocketMenuitem.label         "ਪਾਕੇਟ ਲਿਸਟ ਵੇਖੋ">
+<!ENTITY pocketMenuitem.label         "Pocket ਲਿਸਟ ਵੇਖੋ">
 
 <!ENTITY emailPageCmd.label           "…ਲਿੰਕ ਨੂੰ ਈਮੇਲ ਕਰੋ">
 <!ENTITY emailPageCmd.accesskey       "E">

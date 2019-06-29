@@ -145,6 +145,7 @@ newtab-pocket-read-more = ਪ੍ਰਸਿੱਧ ਵਿਸ਼ੇ:
 newtab-pocket-more-recommendations = ਹੋਰ ਸਿਫਾਰਸ਼ਾਂ
 newtab-pocket-how-it-works = ਇਹ ਕਿਵੇਂ ਕੰਮ ਕਰਦੀ ਹੈ
 newtab-pocket-cta-button = { -pocket-brand-name } ਪ੍ਰਾਪਤ ਕਰੋ
+newtab-pocket-cta-text = { -pocket-brand-name } ਵਿਚ ਆਪਣੀਆਂ ਕਹਾਣੀਆਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ, ਅਤੇ ਆਪਣੇ ਮਨ ਨੂੰ ਦਿਲਚਸਪ ਪੜ੍ਹ ਕੇ ਮਜਬੂਰ ਕਰੋ।
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
