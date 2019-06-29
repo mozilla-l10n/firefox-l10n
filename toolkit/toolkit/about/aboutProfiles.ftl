@@ -25,7 +25,7 @@ profiles-rootdir = Juurkaust
 # part of a backup scheme.)
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Kohalik kaust
-profiles-current-profile = See profiil on kasutuses ja seda ei saa kustutada.
+profiles-current-profile = See profiil on kasutusel ja seda ei saa kustutada.
 profiles-in-use-profile = See profiil on teises rakenduses kasutusel ja seda ei saa kustutada.
 profiles-rename = Muuda nime
 profiles-remove = Eemalda
