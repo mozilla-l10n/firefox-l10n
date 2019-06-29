@@ -35,8 +35,15 @@ app-basics-name = Nimi
 app-basics-version = Versioon
 app-basics-build-id = Kompileerimise ID
 app-basics-update-channel = Uuendustekanal
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Uuenduste kaust
+       *[other] Uuenduste kaust
+    }
 app-basics-update-history = Uuenduste ajalugu
 app-basics-show-update-history = Kuva uuenduste ajalugu
+# Represents the path to the binary used to start the application.
+app-basics-binary = Rakenduse täitmisfail
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Profiili kaust
@@ -50,9 +57,12 @@ app-basics-memory-use = Mälukasutus
 app-basics-performance = Jõudlus
 app-basics-service-workers = Registreeritud Service Workerid
 app-basics-profiles = Profiilid
+app-basics-launcher-process-status = Käivitusprotsess
 app-basics-multi-process-support = Mitme protsessiga aknad
 app-basics-process-count = Veebisisu protsessid
+app-basics-remote-processes-count = Kaugprotsessid
 app-basics-enterprise-policies = Rühmapoliitikad
+app-basics-location-service-key-google = Google'i asukohateenuse võti
 app-basics-key-mozilla = Mozilla asukohateenuse võti
 app-basics-safe-mode = Ohutu režiim
 show-dir-label =
