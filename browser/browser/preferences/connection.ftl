@@ -76,6 +76,11 @@ connection-dns-over-https-url-default =
     .label = Користи подразумевани ({ $url })
     .accesskey = К
     .tooltiptext = Користи подразумевану адресу за разрешавање DNS-а преко HTTPS-a
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (Подразумевано)
+    .tooltiptext = Користите подразумевани URL за разрешавање DNS-а преко HTTPS-а
 connection-dns-over-https-url-custom =
     .label = Прилагођено
     .accesskey = П

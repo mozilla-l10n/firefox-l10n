@@ -34,6 +34,7 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Сачувај промене
     .accesskey = С
+permissions-autoplay-menu = Подразумевано за све веб странице:
 permissions-searchbox =
     .placeholder = Претражите веб сајт
 permissions-capabilities-allow =
@@ -46,8 +47,6 @@ permissions-capabilities-listitem-allow =
     .value = Дозволи
 permissions-capabilities-listitem-block =
     .value = Блокирај
-permissions-capabilities-listitem-allow-first-party =
-    .value = Дозволи само првим лицима
 permissions-capabilities-listitem-allow-session =
     .value = Дозволи за ову сесију
 
@@ -97,6 +96,10 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Изузеци - Аутоматска репродукција
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Можете одредити који веб сајтови ће увек или никад омогућити аутоматско пуштање медија са звуком. Унесите адресу сајта којим желите да управљате и кликните Блокирај или Омогући.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-desc = Овде можете да управљате веб страницама које не прате подразумеване поставке аутоматске репродукције.
 
 ## Site Permissions - Notifications
 
