@@ -5,7 +5,7 @@
 do-not-track-description = Saitidele saadetakse signaal, et sa ei soovi olla jälitatud
 do-not-track-learn-more = Rohkem teavet
 do-not-track-option-default-content-blocking-known =
-    .label = Kui { -brand-short-name } on seadistatud tuntud jälitajaid blokkima
+    .label = kui { -brand-short-name } on seadistatud tuntud jälitajaid blokkima
 do-not-track-option-always =
     .label = alati
 pref-page =
@@ -637,13 +637,13 @@ sitedata-disallow-cookies-option =
 sitedata-block-desc = Seejuures blokitakse
     .accesskey = u
 sitedata-option-block-trackers =
-    .label = Kolmanda osapoole jälitajad
+    .label = kolmanda osapoole jälitajad
 sitedata-option-block-unvisited =
     .label = Küpsised külastamata veebisaitidelt
 sitedata-option-block-all-third-party =
-    .label = Kõik kolmanda osapoole küpsised (võib põhjustada mõnel veebisaidil probleeme)
+    .label = kõik kolmanda osapoole küpsised (võib põhjustada mõnel veebisaidil probleeme)
 sitedata-option-block-all =
-    .label = Kõik küpsised (mõned veebisaidid lähevad katki)
+    .label = kõik küpsised (mõned veebisaidid lähevad katki)
 sitedata-clear =
     .label = Kustuta andmed…
     .accesskey = u
@@ -694,7 +694,7 @@ content-blocking-custom-desc = Võimaldab blokitava sisu ise valida.
 content-blocking-private-trackers = tuntud jälitajad ainult privaatsetes akendes
 content-blocking-third-party-cookies = kolmanda osapoole jälitamise küpsised
 content-blocking-all-cookies = Kõik küpsised
-content-blocking-unvisited-cookies = Küpsised külastamata saitidelt
+content-blocking-unvisited-cookies = küpsised külastamata saitidelt
 content-blocking-all-windows-trackers = tuntud jälitajad kõigis akendes
 content-blocking-all-third-party-cookies = kõik kolmanda osapoole küpsised
 content-blocking-cryptominers = krüptorahakaevurid
@@ -723,12 +723,12 @@ content-blocking-expand-section =
     .tooltiptext = Rohkem teavet
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
-    .label = krüptorahakaevurid
-    .accesskey = ü
+    .label = Krüptorahakaevurid
+    .accesskey = K
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = seadmetuvastajad
+    .label = Seadmetuvastajad
     .accesskey = j
 
 ## Privacy Section - Tracking
