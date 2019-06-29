@@ -317,6 +317,55 @@ addon-detail-version-label = Versioon
 addon-detail-last-updated-label = Viimati uuendatud
 addon-detail-homepage-label = Koduleht
 addon-detail-rating-label = Hinnang
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Hinnatud hindele { NUMBER($rating, maximumFractionDigits: 1) } 5-st
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (keelatud)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] 1 kommentaar
+       *[other] { $numberOfReviews } kommentaari
+    }
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = Lisa <span data-l10n-name="addon-name">{ $addon }</span> eemaldati.
+pending-uninstall-undo-button = Võta tagasi
+addon-detail-updates-label = Automaatsed uuendused
+addon-detail-updates-radio-default = vaikimisi
+addon-detail-updates-radio-on = sees
+addon-detail-updates-radio-off = väljas
+addon-detail-update-check-label = Kontrolli uuendusi
+install-update-button = Uuenda
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Töötamine privaatsetes akendes
+addon-detail-private-browsing-help = Lubamise korral saab laiendus ligipääsu sinu tegevusele privaatsetes akendes. <a data-l10n-name="learn-more">Rohkem teavet</a>
+addon-detail-private-browsing-allow = lubatud
+addon-detail-private-browsing-disallow = keelatud
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Soovitus
+    .alt = Soovitus
+available-updates-heading = Saadaolevad uuendused
+recent-updates-heading = Hiljutised uuendused
+release-notes-loading = Laadimine…
+release-notes-error = Vabandust, väljalasketeate laadimisel esines viga.
+addon-permissions-empty = See laiendus ei nõua eriõigusi
+recommended-extensions-heading = Soovitatavad laiendused
+recommended-themes-heading = Soovitatavad teemad
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Tunned end loomingulisena? <a data-l10n-name="link">Loo endale oma teema Firefox Coloriga.</a>
