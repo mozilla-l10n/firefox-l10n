@@ -131,7 +131,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Штампај…">
 <!ENTITY printCmd.accesskey "Ш">
 <!ENTITY printCmd.commandkey "p">
-
 <!ENTITY importFromAnotherBrowserCmd.label "Увези из другог прегледача…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "У">
 
@@ -252,6 +251,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.label "Слика у слици">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -332,6 +332,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasBlocked.tooltip            "Блокирали сте екстрактовање података слике за овај веб сајт.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Блокирали сте овај веб сајт да користи Adobe Flash прикључак.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Блокирали сте MIDI приступ за овај веб сајт.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Прикажи историјат">
 
@@ -430,7 +431,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "о">
 <!ENTITY preferencesCmdUnix.label       "Поставке">
 <!ENTITY preferencesCmdUnix.accesskey     "П">
-
 <!ENTITY logins.label                           "Пријаве и лозинке">
 
 <!ENTITY clearRecentHistory.label               "Обриши историјат…">
@@ -519,6 +519,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "е">
 <!ENTITY customizeMenu.removeExtension.label "Обриши екстензију">
 <!ENTITY customizeMenu.removeExtension.accesskey "ш">
+
+<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
+     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     an abuse report related to that extension. "Report" is a verb. -->
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -869,6 +873,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Ова страница је учитана са екстензије.">
 <!ENTITY identity.insecureLoginForms2 "Пријаве које су унесене на овој страници су можда угрожене.">
 
+<!ENTITY identity.customRoot "Везу је проверио издавач сертификата који Mozilla не препознаје.">
+
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; је блокирао делове странице које нису безбедне.">
 <!ENTITY identity.passiveLoaded "Делови ове странице нису безбедни (као што су слике).">
@@ -886,6 +892,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Иако је &brandShortName; блокирао неки садржај, још увек има садржаја на странци који није безбедан (као што су слике).">
 <!ENTITY identity.description.activeLoaded "Сајт садржи садржај који није безбедан (као што су скрипте) и веза није приватна.">
 <!ENTITY identity.description.activeLoaded2 "Информације које делите могу бити виђене од стране осталих (као што су лозинке, поруке, кредитне картице, итд.).">
+
+<!ENTITY identity.description.customRoot "Mozilla не препознаје издавача овог сертификата. Можда је додат из вашег оперативног система или од стране администратора.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Омогући заштиту">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "О">
@@ -1020,7 +1028,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Колачићи">
 <!ENTITY contentBlocking.cookiesView.label "Колачићи и подаци сајта">
 
+<!ENTITY contentBlocking.cryptominers.label "Крипто-рудари">
+<!ENTITY contentBlocking.cryptominersView.label "Крипто-рудари">
 
+<!ENTITY contentBlocking.fingerprinters.label "Хватачи отиска">
+<!ENTITY contentBlocking.fingerprintersView.label "Хватачи отиска">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Пријави проблем">
 <!ENTITY contentBlocking.breakageReportView.label "Пријавите проблеме">
@@ -1093,6 +1105,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "П">
 <!ENTITY updateAvailable.cancelButton.label "Не сада">
 <!ENTITY updateAvailable.cancelButton.accesskey "Н">
+
 <!ENTITY updateAvailable.panelUI.label "Ажурирај &brandShorterName;">
 
 <!ENTITY updateManual.message "Преузмите &brandShorterName; и ми ћемо вам помоћи да га инсталирате.">
