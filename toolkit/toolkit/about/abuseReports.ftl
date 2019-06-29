@@ -2,7 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+abuse-report-title-extension = Laporkan Ekstensi Ini ke { -vendor-short-name }
+abuse-report-title-theme = Laporkan Tema Ini ke { -vendor-short-name }
 abuse-report-subtitle = Apa masalahnya?
+# Variables:
+#   $author-name (string) - Name of the add-on author
+abuse-report-addon-authored-by = oleh <a data-l10n-name="author-name">{ $author-name }</a>
+abuse-report-learnmore =
+    Tidak yakin masalah apa yang harus dipilih?
+    <a data-l10n-name="learnmore-link">Pelajari lebih lanjut tentang melaporkan ekstensi dan tema</a>
 abuse-report-submit-description = Jelaskan masalahnya (opsional)
 
 ## Panel buttons.

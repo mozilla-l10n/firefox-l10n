@@ -34,6 +34,8 @@ app-basics-build-id = ID Build
 app-basics-update-channel = Kanal Pemutakhiran
 app-basics-update-history = Riwayat Pemutakhiran
 app-basics-show-update-history = Tampilkan Riwayat Pemutakhiran
+# Represents the path to the binary used to start the application.
+app-basics-binary = Biner Aplikasi
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Direktori Profil

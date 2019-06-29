@@ -345,6 +345,8 @@ addon-badge-recommended =
     .alt = Disarankan
 available-updates-heading = Versi Baru yang Tersedia
 release-notes-loading = Memuat…
+release-notes-error = Maaf, galat terjadi ketika memuat catatan rilis.
+addon-permissions-empty = Ekstensi ini tidak memerlukan izin apa pun
 recommended-extensions-heading = Ekstensi yang Disarankan
 recommended-themes-heading = Tema yang Disarankan
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
