@@ -154,9 +154,13 @@ legacy-warning-show-legacy = Kuva aegunud laiendusi
 legacy-extensions =
     .value = Aegunud laiendused
 legacy-extensions-description = Need laiendused ei vasta tänapäevastele { -brand-short-name }i standarditele ja need keelati. <label data-l10n-name="legacy-learn-more">Vaata rohkem teavet lisadega toimunud muudatuste kohta</label>
+private-browsing-description2 = { -brand-short-name } on muutmas seda, kuidas laiendused töötavad privaatse veebilehitsemise režiimis. Uued { -brand-short-name }ile paigaldatud laiendused privaatsetes akendes vaikimisi enam ei tööta. Kui sa sätetes ei luba laienduse töötamist privaatsetes akendes, siis ei ole sel ligipääsu sinu tegevusele neis akendes. Me tegime selle muudatuse, et hoida sinu privaatne veebilehitsemine täielikult privaatsena. <label data-l10n-name="private-browsing-learn-more">Rohkem teavet laienduste sätete haldamise kohta</label>
 extensions-view-discover =
     .name = Hangi lisasid
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Soovitused
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Hiljutised uuendused
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -234,6 +238,33 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+manage-extensions-shortcuts =
+    .label = Halda laienduste kiirklahve
+    .accesskey = H
+shortcuts-no-addons = Ühtki laiendust pole lubatud.
+shortcuts-no-commands = Järgmistel laiendustel puuduvad kiirklahvid:
+shortcuts-input =
+    .placeholder = Sisesta kiirklahvide kombinatsioon
+shortcuts-browserAction = Aktiveeri laiendus
+shortcuts-pageAction = Aktiveeri lehe toiming
+shortcuts-sidebarAction = Kuva/peida külgriba
+shortcuts-modifier-mac = Kaasa Ctrl, Alt või ⌘
+shortcuts-modifier-other = Kaasa Ctrl või Alt
+shortcuts-invalid = Sobimatu kombinatsioon
+shortcuts-letter = Sisesta täht
+shortcuts-system = Pole võimalik üle kirjutada { -brand-short-name }i kiirklahvide kombinatsiooni
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Lisa { $addon } juba kasutab seda
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Näita veel ühte
+       *[other] Näita veel { $numberToShow }
+    }
+shortcuts-card-collapse-button = Näita vähem
+go-back-button =
+    .tooltiptext = Mine tagasi
 
 ## Recommended add-ons page
 
