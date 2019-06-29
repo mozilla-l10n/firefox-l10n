@@ -28,6 +28,8 @@
 
 <!ENTITY aboutMenuCmd2.label "&brandFullName; პროგრამის შესახებ">
 <!ENTITY aboutMenuCmd2.accesskey "ბ">
+<!ENTITY helpSafeMode.stop.label     "ხელახლა გაშვება ჩართული დამატებებით">
+<!ENTITY helpSafeMode.stop.accesskey "ხ">
 <!ENTITY productHelp.label "&brandShortName; – დახმარება">
 <!ENTITY productHelp.accesskey "დ">
 <!ENTITY productHelp.commandkey "VK_F1">
