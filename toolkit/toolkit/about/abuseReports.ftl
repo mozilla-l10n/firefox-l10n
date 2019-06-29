@@ -43,6 +43,22 @@ abuse-report-messagebar-error-recent-submit = Raportit lisa <span data-l10n-name
 abuse-report-messagebar-action-remove-extension = Jah, eemalda see
 abuse-report-messagebar-action-keep-extension = Ei, las see jääb alles
 abuse-report-messagebar-action-remove-theme = Jah, eemalda see
+abuse-report-messagebar-action-keep-theme = Ei, las see jääb alles
+abuse-report-messagebar-action-retry = Proovi uuesti
+abuse-report-messagebar-action-cancel = Loobu
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason = Kahjustab minu arvutit ja andmeid
+abuse-report-damage-example = Näide: paigaldas pahavara või varastas andmeid
+abuse-report-spam-reason = Loob rämpsposti või reklaame
+abuse-report-spam-example = Näide: lisab veebilehtedele reklaame
+abuse-report-settings-reason = Muutis minu otsingumootorit, avalehte, või uue kaardi lehte, ilma mind informeerimata või luba küsimata
+abuse-report-settings-suggestions = Enne laiendusest raporteerimist võid proovida muuta oma sätteid:
+abuse-report-settings-suggestions-search = Muuda oma vaikimisi otsingu sätteid
+abuse-report-settings-suggestions-homepage = Muuda oma avalehte ja uue kaardi lehte
+abuse-report-deceptive-reason = Väidab olevat end miski, mida see pole
+abuse-report-deceptive-example = Näide: eksitav kirjeldus või pildid
+abuse-report-broken-reason-extension = Ei tööta, lõhub veebilehti või aeglustab { -brand-product-name }i
+abuse-report-broken-reason-theme = Ei tööta või teeb brauseri kuvamise katki
+abuse-report-broken-example = Näide: funktsionaalsused on aeglased, raskesti kasutatavad või ei tööta; mõned veebilehed ei laadi või näevad välja ebatavalised
