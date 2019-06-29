@@ -270,13 +270,13 @@ go-back-button =
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro = Extensiile și temele sunt ca un fel de aplicații pentru browser și îți permit să îți protejezi parolele, să descarci videoclipuri, să descoperi oferte, să blochezi reclame enervante, să schimbi aspectul browserului și multe altele. Aceste programe software mici sunt adesea dezvoltate de părți terțe. Iată o selecție pe care { -brand-product-name } <a data-l10n-name="learn-more-trigger">o recomandă</a> pentru securitate, performanță și funcționalitate de excepție.
 # Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = Unele dintre aceste recomandări sunt personalizate în baza altor extensii pe care le-ai instalat, a preferințelor de profil și a statisticilor de utilizare.
+discopane-notice-recommendations = Unele dintre aceste recomandări sunt personalizate. Această selecție se bazează pe alte extensii pe care le-ai instalat, pe preferințele de profil și pe statisticile de utilizare.
 discopane-notice-learn-more = Află mai multe
 privacy-policy = Politică de confidențialitate
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
-created-by-author = de către <a data-l10n-name="author">{ $author }</a>
+created-by-author = de <a data-l10n-name="author">{ $author }</a>
 # Shows the number of daily users of the add-on.
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
