@@ -268,9 +268,55 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro = Laiendused ja teemad on nagu äpid sinu brauseri jaoks. Need aitavad sul kaitsta paroole, laadida alla videoid, otsida häid tehinguid, blokkida tüütuid reklaame, muuta brauseri välimust ja veel palju muud. Need väikesed programmid on tihti arendatud kolmandate osapoolte poolt. Siin on valik { -brand-product-name }i poolt <a data-l10n-name="learn-more-trigger">soovitatud</a> lisasid, mis paistavad silma oma erakordse turvalisuse, võimekuse või funktsionaalsuse poolest.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Mõned neist soovitustest on isikupärastatud. Need baseeruvad sinu teistel paigaldatud lisadel,
+    profiili sätetel ja kasutamise statistikal.
+discopane-notice-learn-more = Rohkem teavet
+privacy-policy = Privaatsusreeglid
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = arendajalt <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Kasutajaid: { $dailyUsers }
+install-extension-button = Paigalda { -brand-product-name }ile
+install-theme-button = Paigalda teema
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Halda
+find-more-addons = Avasta veel lisasid
 
 ## Add-on actions
 
+report-addon-button = Raporteeri
+remove-addon-button = Eemalda
+disable-addon-button = Keela
+enable-addon-button = Luba
+expand-addon-button = Rohkem sätteid
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Sätted
+       *[other] Eelistused
+    }
+details-addon-button = Üksikasjad
+release-notes-addon-button = Väljalaskemärkmed
+permissions-addon-button = Õigused
+addons-enabled-heading = Lubatud
+addons-disabled-heading = Keelatud
+ask-to-activate-button = Aktiveerimiseks küsitakse luba
+always-activate-button = Alati aktiivne
+never-activate-button = Mitte kunagi aktiivne
+addon-detail-author-label = Autor
+addon-detail-version-label = Versioon
+addon-detail-last-updated-label = Viimati uuendatud
+addon-detail-homepage-label = Koduleht
+addon-detail-rating-label = Hinnang
 
 ## Pending uninstall message bar
 
