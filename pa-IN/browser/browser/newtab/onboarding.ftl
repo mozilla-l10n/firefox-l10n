@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
-
-
 ### UI strings for the simplified onboarding modal / about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -66,20 +63,9 @@ onboarding-ghostery-text = ਗੋਸਟਰੀ ਵਰਗੇ ਇਕਸਟੈਨਸ
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = ਸਿੰਕ ਕਰੋ
 onboarding-fxa-text = { -fxaccount-brand-name } ਲਈ ਸਾਈਨ ਅੱਪ ਕਰੋ ਅਤੇ ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਪਾਸਵਰਡਾਂ ਨੂੰ ਸਿੰਕ ਕਰੋ ਤੇ ਜਿੱਥੇ ਵੀ { -brand-short-name } ਨੂੰ ਵਰਤੋਂ, ਉੱਥੇ ਟੈਬਾਂ ਨੂੰ ਖੋਲ੍ਹੋ।
-onboarding-tracking-protection-title = ਕੰਟਰੋਲ ਕਰੋ ਕਿ ਤੁਹਾਨੂੰ ਕਿਵੇਂ ਟਰੈਕ ਕੀਤਾ ਜਾਂਦਾ ਹੈ
-# "Update" is a verb, as in "Update the existing settings", not "Options about
-# updates".
-onboarding-tracking-protection-button =
-    { PLATFORM() ->
-        [windows] ਅੱਪਡੇਟ ਚੋਣਾਂ
-       *[other] ਅੱਪਡੇਟ ਪਸੰਦਾਂ
-    }
 onboarding-tracking-protection-title2 = ਟਰੈਕ ਹੋਣ ਤੋਂ ਸੁਰੱਖਿਆ
 onboarding-tracking-protection-button2 = ਇਹ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ
 onboarding-data-sync-title = ਆਪਣੀਆਂ ਸੈਟਿੰਗਾਂ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਓ
-# "Sync" is short for synchronize.
-onboarding-data-sync-text = ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ { -brand-product-name } ਵਰਤੋ, ਉੱਥੇ ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ ਤੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਸਿੰਕ ਕਰੋ।
-onboarding-data-sync-button = { -sync-brand-short-name } ਚਾਲੂ ਕਰੋ
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = ਜਿੱਥੇ ਵੀ ਕਿਤੇ ਤੁਸੀਂ { -brand-product-name } ਵਰਤੋ, ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਪਾਸਵਰਡਾਂ ਅਤੇ ਹਰ ਚੀਜ਼ ਨੂੰ ਸਿੰਕ ਕਰੋ।
 onboarding-data-sync-button2 = { -sync-brand-short-name } 'ਚ ਸਾਇਨ-ਇਨ ਕਰੋ
@@ -96,9 +82,9 @@ onboarding-mobile-phone-text = iOS ਜਾਂ ਐਂਡਰਾਇਡ 'ਤੇ { -br
 onboarding-mobile-phone-button = ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ ਡਾਊਨਲੋਡ ਕਰੋ
 onboarding-send-tabs-title = ਟੈਬਾਂ ਖੁਦ ਨੂੰ ਮੌਕੇ 'ਤੇ ਭੇਜੋ
 onboarding-pocket-anywhere-title = ਹਰ ਥਾਂ 'ਤੇ ਪੜ੍ਹੋ ਤੇ ਸੁਣੋ
+onboarding-pocket-anywhere-text2 = { -pocket-brand-name } ਐਪ ਦੇ ਨਾਲ ਆਪਣੀ ਮਨਪਸੰਦ ਸਮੱਗਰੀ ਨੂੰ ਔਫਲਾਈਨ ਸੁਰੱਖਿਅਤ ਕਰੋ ਅਤੇ ਜਦੋਂ ਵੀ ਤੁਹਾਡੇ ਲਈ ਸੁਵਿਧਾਜਨਕ ਹੋਵੇ, ਉਸਨੂੰ ਪੜ੍ਹੋ, ਸੁਣੋ ਅਤੇ ਦੇਖੋ।
 onboarding-pocket-anywhere-button = { -pocket-brand-name } ਵਰਤ ਕੇ ਵੇਖੋ
 onboarding-lockwise-passwords-title = ਆਪਣੇ ਪਾਸਵਰਡ ਹਰ ਥਾਂ ਉੱਤੇ ਲੈ ਜਾਓ
-onboarding-lockwise-passwords-button = { -lockwise-brand-name } ਲਵੋ
 onboarding-lockwise-passwords-button2 = ਐਪ ਲਵੋ
 onboarding-facebook-container-title = ਫੇਸਬੁੱਕ 'ਤੇ ਬੰਨ੍ਹ ਲਾਓ
 onboarding-facebook-container-button = ਇਕਟੈਨਸ਼ਨ ਜੋੜੋ
