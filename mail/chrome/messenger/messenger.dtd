@@ -440,6 +440,9 @@
 <!ENTITY openMessageWindowCmd.label "Отвори поруку">
 <!ENTITY openMessageWindowCmd.accesskey "О">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openInConversationCmd.label "Отвори у разговору">
+<!ENTITY openInConversationCmd.accesskey "г">
+<!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Прилози">
 <!ENTITY openAttachmentListCmd.accesskey "л">
 <!ENTITY openFeedMessage1.label "Приликом отварања порука у доводу">
