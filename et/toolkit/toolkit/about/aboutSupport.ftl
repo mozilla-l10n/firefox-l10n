@@ -208,6 +208,7 @@ gpu-device-id = Seadme ID
 gpu-subsys-id = Alamsüsteemi ID
 gpu-drivers = Draiverid
 gpu-ram = RAM
+gpu-driver-vendor = Draiveri tarnija
 gpu-driver-version = Draiveri versioon
 gpu-driver-date = Draiveri kuupäev
 gpu-active = Aktiivne
@@ -234,11 +235,14 @@ d3d9video-crash-buard = D3D9 video dekodeerija
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Lähtesta järgmisel taaskäivitusel
 gpu-process-kill-button = Peata GPU protsessi töö
+gpu-device-reset = Seadme lähtestamine
 gpu-device-reset-button = Kutsu esile seadme lähtestamine
 uses-tiling = Uses Tiling
 content-uses-tiling = Uses Tiling (Content)
 off-main-thread-paint-enabled = Off Main Thread Painting Enabled
 off-main-thread-paint-worker-count = Off Main Thread Painting Worker Count
+low-end-machine = Tuvastati väikse võimekusega arvuti
+target-frame-rate = Target Frame Rate
 audio-backend = Helisüsteem
 max-audio-channels = Maksimaalne arv kanaleid
 channel-layout = Eelistatud kanalite asetus
@@ -256,6 +260,11 @@ effective-content-sandbox-level = Sisuprotsessi aedikustamise tase
 sandbox-proc-type-content = sisu
 sandbox-proc-type-file = faili sisu
 sandbox-proc-type-media-plugin = meediaplugin
+sandbox-proc-type-data-decoder = data decoder
+launcher-process-status-0 = lubatud
+launcher-process-status-1 = ebaõnnestumise tõttu keelatud
+launcher-process-status-2 = jõuga keelatud
+launcher-process-status-unknown = tundmatu olek
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

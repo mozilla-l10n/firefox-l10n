@@ -15,6 +15,7 @@ about-telemetry-option-group-older = Vanem
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Telemeetriaandmed
+about-telemetry-current-store = Current Store:
 about-telemetry-more-information = Soovid näha rohkem teavet?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefoxi andmete dokumentatsioon</a> sisaldab juhendeid selle kohta, kuidas meie andmetööriistu kasutada.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefoxi telemeetriaandmete kliendidokumentatsioon</a> sisaldab definitsioone mõistete, API dokumentatsiooni ja andmespetsifikatsioonide kohta.
@@ -55,6 +56,16 @@ about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] lubatud
        *[disabled] keelatud
+    }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } sample, average = { $prettyAverage }, sum = { $sum }
+       *[other] { $sampleCount } samples, average = { $prettyAverage }, sum = { $sum }
     }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
@@ -125,3 +136,6 @@ about-telemetry-category-header = kategooria
 about-telemetry-method-header = meetod
 about-telemetry-object-header = objekt
 about-telemetry-extra-header = lisapäis
+about-telemetry-origin-section = Origin Telemetry
+about-telemetry-origin-origin = origin
+about-telemetry-origin-count = count
