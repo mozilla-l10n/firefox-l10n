@@ -10,6 +10,7 @@ about-performance-title = Tegumihaldur
 column-name = Nimi
 column-type = Tüüp
 column-energy-impact = Mõju energiatarbele
+column-memory = Mälu
 
 ## Special values for the Name column
 
@@ -38,6 +39,15 @@ energy-impact-high = Kõrge ({ $value })
 energy-impact-medium = Keskmine ({ $value })
 energy-impact-low = Madal ({ $value })
 
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
+size-KB = { $value } KiB
+size-MB = { $value } MiB
+size-GB = { $value } GiB
+
 ## Tooltips for the action buttons
 
 close-tab =
@@ -46,9 +56,9 @@ show-addon =
     .title = Kuva lisade halduris
 # Tooltip when hovering an item of the about:performance table
 # Variables:
-#   $totalDispatches (Number) - how many dispatches occured for this page since it loaded
+#   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded
 #   $totalDuration (Number) - how much CPU time was used by this page since it loaded
-#   $dispatchesSincePrevious (Number) - how many dispatches occured in the last 2 seconds
+#   $dispatchesSincePrevious (Number) - how many dispatches occurred in the last 2 seconds
 #   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
 item =
     .title =
