@@ -39,6 +39,7 @@ abuse-report-messagebar-action-cancel = Batal
 
 abuse-report-settings-suggestions-search = Ubah setelan pencarian baku Anda
 abuse-report-settings-suggestions-homepage = Ubah beranda dan tab baru Anda
+abuse-report-deceptive-reason = Berpura-pura menjadi sesuatu yang palsu
 abuse-report-unwanted-reason = Tidak pernah menginginkan ekstensi ini dan tidak dapat membuangnya
 abuse-report-unwanted-example = Contoh: Sebuah aplikasi memasang sesuatu tanpa izin saya
 abuse-report-other-reason = Lainnya
