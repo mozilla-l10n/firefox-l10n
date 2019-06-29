@@ -50,7 +50,6 @@ app-basics-profiles = Профили
 app-basics-multi-process-support = Вишепроцесорски прозори
 app-basics-process-count = Процеси веб садржаја
 app-basics-enterprise-policies = Полисе предузећа
-app-basics-key-google = Google кључ
 app-basics-key-mozilla = Кључ Mozilla сервиса за локацију
 app-basics-safe-mode = Безбедни режим
 show-dir-label =
@@ -242,6 +241,7 @@ effective-content-sandbox-level = Ефективни ниво Sandbox проце
 sandbox-proc-type-content = садржај
 sandbox-proc-type-file = садржај дадотеке
 sandbox-proc-type-media-plugin = медија прикључак
+launcher-process-status-0 = Омогућено
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
