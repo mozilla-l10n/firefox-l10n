@@ -34,5 +34,7 @@
 <!ENTITY authRequired.button.label        "Autoriseeri">
 <!ENTITY authRequired.button.accesskey    "A">
 
+<!ENTITY findCloudFileProviders.label     "Leia veel teenusepakkujaid…">
+
 <!ENTITY enableCloudFileAccountOffer.label "Pilveteenuste kasutamist pakutakse suuremate failide puhul kui">
 <!ENTITY enableCloudFileAccountOffer.mb "MiB">
