@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
-
-
 ### UI strings for the simplified onboarding modal / about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -48,4 +45,6 @@ onboarding-fxa-text = Sign up for a { -fxaccount-brand-name } and sync your book
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = Mahusay, ngayon ay mayroon ka nang { -brand-short-name }
 return-to-amo-extension-button = Idagdag ang Extension
+return-to-amo-get-started-button = Simulan ang { -brand-short-name }

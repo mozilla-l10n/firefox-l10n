@@ -17,6 +17,7 @@ policy-BlockAboutProfiles = Bawal i-access ang about:profiles page.
 policy-BlockAboutSupport = Bawal i-access ang about:support page.
 policy-Cookies = Payagan o pigilan ang mga website sa pag lagay ng cookies.
 policy-DisableFirefoxStudies = Pigilan ang { -brand-short-name } mula sa pagpapatakbo ng mga pag-aaral.
+policy-DisableForgetButton = hadlangan ang pag access sa Forget button.
 policy-DisablePocket = Huwag paganahin ang tampok upang i-save ang mga webpage sa Pocket.
 policy-DisablePrivateBrowsing = Huwag paganahin ang Pribadong Pagba-browse.
 policy-DisableTelemetry = I-off ang Telemetry
