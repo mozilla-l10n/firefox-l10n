@@ -72,7 +72,7 @@ newtab-menu-pin = တွယ်ရန်
 newtab-menu-unpin = တွယ်ဖြုတ်ရန်
 newtab-menu-delete-history = မှတ်တမ်းမှ ဖျက်ပါ
 newtab-menu-save-to-pocket = { -pocket-brand-name } သို့ သိမ်းရန်
-newtab-menu-delete-pocket = ပေါ့ကပ်မှပယ်ဖျက်ပါ
+newtab-menu-delete-pocket = { -pocket-brand-name } မှ ပယ်ဖျက်ပါ
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = စာအမှတ်အားဖယ်ပါ
 # Bookmark is a verb here.
@@ -129,7 +129,7 @@ newtab-section-header-pocket = { $provider } က အကြံပြုထား�
 newtab-pocket-read-more = လူကြိုက်များခေါင်းစဉ်များ
 newtab-pocket-more-recommendations = ပိုများသောအကြံပြုချက်များ
 newtab-pocket-how-it-works = ဘယ်လိုအလုပ်လုပ်လဲ
-newtab-pocket-cta-button = ပေါ့ကပ်ရယူပါ
+newtab-pocket-cta-button = { -pocket-brand-name } ကို ရယူပါ
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
