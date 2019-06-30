@@ -77,7 +77,6 @@ newtab-menu-dismiss = Leig seachad
 newtab-menu-pin = Prìnich
 newtab-menu-unpin = Dì-phrìnich
 newtab-menu-delete-history = Sguab às an eachdraidh
-newtab-menu-save-to-pocket = Sàbhail sa phòcaid
 newtab-menu-delete-pocket = Air a sguabadh à { -pocket-brand-name }
 newtab-menu-archive-pocket = Tasglannaich ann am { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
