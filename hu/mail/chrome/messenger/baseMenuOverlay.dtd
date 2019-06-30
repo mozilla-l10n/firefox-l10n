@@ -28,6 +28,8 @@
 
 <!ENTITY aboutMenuCmd2.label "A &brandFullName; névjegye">
 <!ENTITY aboutMenuCmd2.accesskey "n">
+<!ENTITY helpSafeMode.stop.label     "Újraindítás engedélyezett kiegészítőkkel">
+<!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "&brandShortName; Súgó">
 <!ENTITY productHelp.accesskey "S">
 <!ENTITY productHelp.commandkey "VK_F1">
