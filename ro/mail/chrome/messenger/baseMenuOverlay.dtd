@@ -28,6 +28,8 @@
 
 <!ENTITY aboutMenuCmd2.label "Despre &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "D">
+<!ENTITY helpSafeMode.stop.label     "Repornește cu suplimentele activate">
+<!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "Asistență &brandShortName;">
 <!ENTITY productHelp.accesskey "H">
 <!ENTITY productHelp.commandkey "VK_F1">
