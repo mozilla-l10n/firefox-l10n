@@ -67,15 +67,18 @@
  -->
 <!ENTITY updateApp.version.pre           "Versioon ">
 <!ENTITY updateApp.version.post          "">
-<!ENTITY updateAuto.label                "Uuendused paigaldatakse automaatselt (soovitatav: parem turvalisus)">
-<!ENTITY updateAuto.accesskey            "e">
-<!ENTITY updateCheck.label               "Kontrollitakse uuenduste olemasolu, paigaldamise kohta küsitakse kinnitust">
-<!ENTITY updateCheck.accesskey           "K">
+<!ENTITY updateAppAllow.description      "&brandShortName;il lubatakse">
+<!ENTITY updateAuto.label                "uuendused automaatselt paigaldada (soovitatav: parem turvalisus)">
+<!ENTITY updateAuto.accesskey            "u">
+<!ENTITY updateCheck.label               "kontrollida uuenduste olemasolu, paigaldamise kohta küsitakse kinnitust">
+<!ENTITY updateCheck.accesskey           "k">
 <!ENTITY updateHistory.label             "Näita uuenduste ajalugu">
 <!ENTITY updateHistory.accesskey         "j">
 
 <!ENTITY useService.label                "Uuenduste paigaldamiseks kasutatakse taustateenust">
 <!ENTITY useService.accesskey            "U">
+
+<!ENTITY updateCrossUserSettingWarning.description "See säte rakendub kõigile Windowsi kontodele ja &brandShortName;i profiilidele, mis kasutavad seda &brandShortName;i paigaldust.">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Sätted...">
