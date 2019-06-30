@@ -103,10 +103,22 @@ about-debugging-setup-usb-status-enabled = Diaktifkan
 about-debugging-setup-usb-status-disabled = Dinonaktifkan
 about-debugging-setup-usb-status-updating = Memutakhirkan…
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Aktifkan menu Pengembang di perangkat Android Anda.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Aktifkan Pengawakutuan USB di Menu Pengembang Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Aktifkan Pengawakutuan USB di Firefox pada perangkat Android.
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Sambungkan peranti Android ke komputer Anda.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = Ada masalah saat menghubungkan ke perangkat USB? <a>Pemecahan masalah</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Lokasi Jaringan
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = Ada masalah saat menghubungkan melalui lokasi jaringan? <a>Pemecahan masalah</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Tambah
