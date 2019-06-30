@@ -693,6 +693,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_image_title "Pildi valimine või tegemine">
 <!ENTITY filepicker_video_title "Video valimine või salvestamine">
 
+<!ENTITY filepicker_permission_denied "Nõutud õigust ei antud, kasutatakse süsteemset failide valijat.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Oled ühendatud aadressiga">
@@ -935,6 +936,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Paus">
 <!ENTITY pip_pause_button_description "Pane esitamine pausile">
 
+<!ENTITY pref_notification_settings_link "Halda teavituste sätteid">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Brauser">
 <!ENTITY mls_notification_channel "&vendorShortName; asukohateenus">
@@ -947,3 +949,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Saitide teavitused">
+<!ENTITY crash_handler_notifications_channel "&brandShortName;i vigadest teatamise rakendus">
