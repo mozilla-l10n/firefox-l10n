@@ -34,8 +34,11 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = احفظ التغييرات
     .accesskey = ح
+permissions-autoplay-menu = المبدئي للمواقع كافة:
 permissions-searchbox =
     .placeholder = ابحث عن موقع
+permissions-capabilities-autoplay-block =
+    .label = احجب الصوت
 permissions-capabilities-allow =
     .label = اسمح
 permissions-capabilities-block =
@@ -46,8 +49,6 @@ permissions-capabilities-listitem-allow =
     .value = اسمح
 permissions-capabilities-listitem-block =
     .value = احجب
-permissions-capabilities-listitem-allow-first-party =
-    .value = اسمح للموقع الأصلي فقط
 permissions-capabilities-listitem-allow-session =
     .value = اسمح لهذه الجلسة
 
@@ -58,10 +59,6 @@ permissions-invalid-uri-label = رجاءً أدخل اسم مستضيف صالح
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = الاستثنائات – الحماية من التعقّب
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = لقد عُطلت حماية التعقب على مواقع الوِب هذه.
 permissions-exceptions-content-blocking-window =
     .title = الاستثناءات - حجب المحتوى
     .style = { permissions-window.style }
@@ -101,6 +98,10 @@ permissions-exceptions-autoplay-media-window2 =
     .title = الاستثناءات - التشغيل التلقائي
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = يمكنك تحديد أي مواقع يسمح لها دائمًا أو لا يسمح أبدًا بتشغيل تشغيل الوسائط التي تحتوي صوتا تلقائيا.  اكتب عنوان الموقع الذي تريد إدارته وانقر احجب، أو اسمح.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-desc = يمكنك من هنا إدارة المواقع التي لا تتوافق مع الإعدادات المبدئية للتشغيل التلقائي.
 
 ## Site Permissions - Notifications
 

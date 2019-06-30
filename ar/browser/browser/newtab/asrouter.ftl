@@ -65,6 +65,7 @@ cfr-doorhanger-pintab-animation-resume = استأنف
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = زامِن علاماتك في كل مكان.
+cfr-doorhanger-bookmark-fxa-body = أحسنت باكتشاف هذا! حريّ بك أن تحفظ هذه العلامة على أجهزتك المحمولة، وإلا فما الداعي من الاكتشاف؟ ابدأ الآن وافتح { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = زامِن العلامات الآن…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = زر الإغلاق
