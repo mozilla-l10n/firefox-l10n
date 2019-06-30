@@ -67,7 +67,6 @@ newtab-menu-pin = पिन करू
 newtab-menu-unpin = पिन हटाबू
 newtab-menu-delete-history = इतिहास सँ मेटाबू
 newtab-menu-save-to-pocket = { -pocket-brand-name } मे सहेजू
-newtab-menu-archive-pocket = पॉकेट मे आर्काइव
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = पुस्तचिह्न हटाबू
 # Bookmark is a verb here.
