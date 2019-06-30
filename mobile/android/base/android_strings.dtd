@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Tere tulemast!">
 <!ENTITY firstrun_urlbar_message2 "Täname, et valisid &brandShortName;i">
+<!ENTITY newfirstrun_urlbar_message "Tere tulemast &brandShortName;i">
 <!ENTITY firstrun_urlbar_subtext2 "Kaasaegne mobiilne brauser Mozillalt, mittetulundusühingult, mis on pühendunud vabale ja avatud veebile.">
+<!ENTITY newfirstrun_urlbar_subtext "Kiire, privaatne ja sinu poolel.">
 <!ENTITY firstrun_panel_title_privacy "Privaatsus">
 <!ENTITY firstrun_privacy_message "Lehitse veebi nii nagu keegi ei vaataks">
 <!ENTITY firstrun_privacy_subtext "Privaatne veebilehitsemine jälitamisvastase kaitsega blokib jälitajad veebilehitsemise ajal ja ei pea meeles lehitsemise ajalugu sirvimise lõpetamisel.">
+<!ENTITY newfirstrun_privacy_subtext "Privaatse veebilehitsemise režiimis blokitakse reklaamijate jälitajad, mis jälgivad sinu tegevust.">
 <!ENTITY firstrun_panel_title_customize "Kohandamine">
 <!ENTITY firstrun_customize_message "Tee &brandShortName; enda omaks.">
 <!ENTITY firstrun_customize_subtext "Kohanda &brandShortName;i lisadega. Bloki reklaami, lisa funktsionaalsust või vali uus teema, mis peegeldab sinu isiksust.">
@@ -18,10 +21,15 @@
 <!ENTITY firstrun_data_message "Vähem andmeid, vähem vaja salvestada">
 <!ENTITY firstrun_data_subtext2 "Lülita pildid välja, et kasutada saitide sirvimisel vähem andmemahtu.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY updatednewfirstrun_sync_title "Konto">
 <!ENTITY firstrun_sync_message2 "Jätka sealt, kus pooleli jäi.">
 <!ENTITY firstrun_sync_subtext2 "Kasuta Synci, et leida järjehoidjaid, paroole ja muid asju, mida oled salvestanud &brandShortName;i kõigis oma seadmetes.">
+<!ENTITY newfirstrun_sync_subtext "Sünkroniseeri asjad, mida salvestad mobiilis oma töölaua Firefoxi, privaatselt ja turvaliselt.">
+<!ENTITY updatednewfirstrun_sync_subtext "Parima kogemuse saamiseks &brandShortName;iga logi oma kontosse sisse">
 <!ENTITY firstrun_signin_message "Tee algust ja loo ühendus">
 <!ENTITY firstrun_signin_button "Logi Synci sisse">
+<!ENTITY newfirstrun_signin_button "Lülita Sync sisse">
+<!ENTITY updatednewfirstrun_signin_button "Logi &brandShortName;i sisse">
 <!ENTITY  onboard_start_button_browser "Alusta veebilehitsemist">
 <!ENTITY firstrun_button_notnow "Mitte praegu">
 <!ENTITY firstrun_button_next "Edasi">
@@ -62,7 +70,19 @@
 <!ENTITY  crash_close_label "Sulge">
 <!ENTITY  crash_restart_label "Taaskäivita &brandShortName;">
 
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; jooksis kokku">
+<!ENTITY  crash_notification_message "&vendorShortName;le raporti saatmiseks puuduta">
+<!ENTITY  crash_notification_negative_button_text "Ignoreeri">
+
 <!ENTITY url_bar_default_text2 "Otsi või sisesta aadress">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "Otsi veebist">
+<!ENTITY search_widget_default_cropped_text "Otsi">
+<!ENTITY search_widget_logo_description "Otsi veebist &brandShortName;iga">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -97,6 +117,10 @@
 <!ENTITY bookmark_folder_updated "Kaust uuendatud">
 <!ENTITY bookmark_parent_folder "Ülemine kaust">
 <!ENTITY bookmark_add_folder "Lisa uus kaust">
+
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(nimi puudub)">
 
 <!ENTITY reader_saved_offline "Salvestatud võrguta režiimis kasutamiseks">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -290,12 +314,6 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "rohkem teavet &brandShortName;i ja teiste &vendorShortName; toodete kasutamise kohta">
-
-<!-- Localization note (pref_feature_tips_notification_enabling_hint):
-     Describe the action the user should do to enable this preference
-     Will be used in the context "<Turn on> ... to enable this feature" -->
-<!ENTITY pref_feature_tips_notification_enabling_hint "Lülita sisse">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
@@ -341,6 +359,9 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Mine sätetesse">
+<!-- Localization note (tab_queue_notification_prompt): This is the text of the default notification
+shown from Android O while a tab is being queued.-->
+<!ENTITY tab_queue_notification_prompt "Uus kaart lisati järjekorda&#8230;">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -399,14 +420,17 @@
 <!ENTITY pref_private_data_searchHistory "Otsingu ajalugu">
 <!ENTITY pref_private_data_formdata2 "Vormide ajalugu">
 <!ENTITY pref_private_data_cookies2 "Küpsised ja aktiivsed sisselogimised">
-<!ENTITY pref_private_data_passwords2 "Salvestatud kasutajakontod">
 <!ENTITY pref_private_data_cache "Vahemälu">
 <!ENTITY pref_private_data_offlineApps "Veebilehtede võrguta režiimis kasutamiseks mõeldud andmed">
 <!ENTITY pref_private_data_siteSettings2 "Saidi sätted">
 <!ENTITY pref_private_data_downloadFiles2 "Allalaadimised">
 <!ENTITY pref_private_data_syncedTabs "Sünkroniseeritud kaardid">
 
-<!ENTITY pref_default_browser "Määra vaikebrauseriks">
+<!ENTITY pref_default_browser2 "Määra &brandShortName; oma vaikebrauseriks">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Vali Browser app ning seejärel &brandShortName;">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Külasta Mozilla abikeskust">
 <!ENTITY pref_about_firefox "&brandShortName;ist">
 <!ENTITY pref_vendor_faqs "KKK">
@@ -502,6 +526,10 @@
 <!ENTITY find_next "Järgmine">
 <!ENTITY find_close "Sulge">
 
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "Fraasi ei leitud">
+
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY media_sending_to "Edastamine seadmele">
@@ -574,6 +602,8 @@
 <!ENTITY bookmark_edit_location "Asukoht">
 <!ENTITY bookmark_edit_keyword "Võtmesõna">
 <!ENTITY bookmark_select_folder "Kausta valimine">
+
+<!ENTITY bookmark_edit_undo "Võta tagasi">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -662,6 +692,7 @@
 <!ENTITY filepicker_audio_title "Heli valimine või salvestamine">
 <!ENTITY filepicker_image_title "Pildi valimine või tegemine">
 <!ENTITY filepicker_video_title "Video valimine või salvestamine">
+
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Oled ühendatud aadressiga">
@@ -847,8 +878,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName;i on uuendatud">
 <!ENTITY whatsnew_notification_summary "Vaata uuendusi selles versioonis">
 
-<!ENTITY promotion_add_page_shortcut "Lisa otsetee lehele">
-
 <!ENTITY helper_first_offline_bookmark_title "Võrguta režiimis lugemine">
 <!ENTITY helper_first_offline_bookmark_message "Leia oma lugemisnimekirja asjad järjehoidjatest, ka võrguta režiimis olles.">
 <!ENTITY helper_first_offline_bookmark_button "Mine järjehoidjatesse">
@@ -907,15 +936,9 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_description "Pane esitamine pausile">
 
 <!-- Notification channels names -->
-<!ENTITY default_notification_channel "&brandShortName;">
-
-<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Brauser">
 <!ENTITY mls_notification_channel "&vendorShortName; asukohateenus">
 <!ENTITY download_notification_channel "Allalaadimised">
-<!ENTITY media_notification_channel "Meedia taasesitamine">
-<!-- These push notifications come without a specific channel and/or name from Leanplum -->
-<!ENTITY leanplum_default_notifications_channel "&brandShortName;i teavitused">
 <!ENTITY media_notification_channel2 "Heli ja video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName;i näpunäited ja trikid">
