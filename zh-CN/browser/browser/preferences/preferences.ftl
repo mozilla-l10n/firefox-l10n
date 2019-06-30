@@ -90,7 +90,7 @@ extension-controlled-web-notifications = 扩展 <img data-l10n-name="icon"/> { $
 extension-controlled-default-search = 您的默认搜索引擎由扩展 <img data-l10n-name="icon"/> { $name } 设置。
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlled-privacy-containers = 扩展 <img data-l10n-name="icon"/> { $name } 需要启用身份标签页功能才能使用。
+extension-controlled-privacy-containers = 扩展 <img data-l10n-name="icon"/> { $name } 锁定启用了身份标签页功能，以正常运作。
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = 扩展 <img data-l10n-name="icon"/> { $name } 正在控制此设置。
