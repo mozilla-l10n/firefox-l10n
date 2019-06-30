@@ -28,6 +28,8 @@
 
 <!ENTITY aboutMenuCmd2.label "O &brandFullName;u">
 <!ENTITY aboutMenuCmd2.accesskey "O">
+<!ENTITY helpSafeMode.stop.label     "Ponovno zaženi z omogočenimi dodatki">
+<!ENTITY helpSafeMode.stop.accesskey "n">
 <!ENTITY productHelp.label "Pomoč za &brandShortName;">
 <!ENTITY productHelp.accesskey "P">
 <!ENTITY productHelp.commandkey "VK_F1">
