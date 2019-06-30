@@ -5,7 +5,9 @@
 
 ## Column headers
 
+column-name = Pangalan
 column-type = Uri
+column-memory = Memory
 
 ## Special values for the Name column
 
@@ -18,6 +20,7 @@ type-tracker = Tracker
 type-addon = Add-on
 type-browser = Browser
 type-worker = Worker
+type-other = Iba pa
 
 ## Values for the Energy Impact column
 ##
@@ -31,6 +34,8 @@ type-worker = Worker
 ## Variables:
 ##   $value (Number) - How much memory is used
 
+size-KB = { $value } KB
+size-MB = { $value } MB
 size-GB = { $value } GB
 
 ## Tooltips for the action buttons

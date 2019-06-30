@@ -632,6 +632,7 @@ content-blocking-unvisited-cookies = Mga cookie mula sa mga hindi binibisitang s
 content-blocking-all-third-party-cookies = Lahat ng mga third-party na cookies
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
+content-blocking-warning-title = Mag-ingat!
 content-blocking-learn-how = Alamin kung papaano
 content-blocking-reload-tabs-button =
     .label = I-reload ang lahat ng mga tab
@@ -663,6 +664,9 @@ content-blocking-fingerprinters-label =
 
 ## Privacy Section - Tracking
 
+tracking-manage-exceptions =
+    .label = I-manage ang mga Exception...
+    .accesskey = x
 
 ## Privacy Section - Permissions
 

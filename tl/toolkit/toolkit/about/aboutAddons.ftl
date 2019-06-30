@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Add-ons Manager
+search-header =
+    .placeholder = Hanapin sa addons.mozilla.org
+    .searchbuttonlabel = Hanapin
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,7 @@ list-empty-button =
 install-addon-from-file =
     .label = Mag-install ng Add-on Mula sa File…
     .accesskey = i
+help-button = Support para sa mga Add-on
 tools-menu =
     .tooltiptext = Tools para sa lahat ng add-ons
 show-unsigned-extensions-button =
@@ -198,3 +202,15 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = I-install ang mga Update
     .tooltiptext = I-install ang mga update na nasa listahan
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+

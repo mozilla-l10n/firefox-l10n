@@ -29,6 +29,7 @@
 
 <!ENTITY trackingProtection.startTour1                   "Tignan kung paano gumagana">
 
+<!ENTITY contentBlocking.title                           "Nakablock na Content">
 
 <!-- Strings for new Private Browsing with Search -->
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.search.placeholder): This is the placeholder
@@ -37,3 +38,4 @@
 <!ENTITY aboutPrivateBrowsing.info.title                 "Ikaw ay nasa Pribadong Window">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.info.myths): This is a link to a SUMO article
                        about private browsing myths.   -->
+<!ENTITY aboutPrivateBrowsing.info.myths                 "Mga karaniwang kathang-isip tungkol sa pribadong pagba-browse">

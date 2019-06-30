@@ -5,6 +5,8 @@
 # Strings in this file are used to localize button titles displayed on the 
 # MacBook Touch Bar.
 back = Balikan
+forward = Magpatuloy
+reload = I-Reload
 home = Home
 fullscreen = Buong Screen
 find = Hanapin
