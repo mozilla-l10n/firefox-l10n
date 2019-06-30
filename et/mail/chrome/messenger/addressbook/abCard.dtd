@@ -76,11 +76,11 @@
 <!ENTITY HomeWebPage.accesskey          "V">
 <!ENTITY Birthday.label                 "Sünnipäev:">
 <!ENTITY Birthday.accesskey             "ä">
-<!ENTITY In.label                       "">
+<!ENTITY Month.placeholder              "Kuu">
+<!ENTITY Day.placeholder                "Päev">
 <!ENTITY Year.placeholder               "aasta">
-<!ENTITY Or.value                       "või">
+<!ENTITY Age.label                      "Vanus:">
 <!ENTITY Age.placeholder                "vanus">
-<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Töö">
 <!ENTITY Work.accesskey                 "T">
