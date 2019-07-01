@@ -29,11 +29,6 @@ search-input-box =
             [windows] Caută în Opțiuni
            *[other] Caută în Preferințe
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Organizația ta a dezactivat posibilitatea de a modifica anumite opțiuni.
-       *[other] Organizația ta a dezactivat posibilitatea de a modifica anumite preferințe.
-    }
 managed-notice = Browserul este gestionat de organizația ta.
 pane-general-title = General
 category-general =
@@ -562,6 +557,9 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = Excepții…
     .accesskey = x
+forms-generate-passwords =
+    .label = Sugerează și generează parole puternice
+    .accesskey = u
 forms-saved-logins =
     .label = Date de autentificare salvate…
     .accesskey = L
@@ -672,7 +670,6 @@ addressbar-suggestions-settings = Schimbă preferințele pentru sugestiile motoa
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blocare de conținut
-content-blocking-description = Blochează conținutul de la terți care te urmărește pe web. Controlează cât din activitatea ta online este stocată și partajată între site-urile web.
 content-blocking-section-description = Protejează-ți intimitatea la navigare. Blochează conținuturile invizibile care urmăresc pe ce site-uri intri și îți creează profilul. Blocarea unei părți din aceste conținuturi poate conduce la încărcarea mai rapidă a paginilor.
 content-blocking-learn-more = Află mai multe
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -686,9 +683,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Personalizată
     .accesskey = C
-content-blocking-standard-description = Blochează numai elementele de urmărire cunoscute în ferestrele private.
 content-blocking-standard-desc = Echilibrată pentru protecție și performanță. Permite unele elemente de urmărire pentru ca site-urile web să funcționeze corespunzător.
-content-blocking-strict-desc = Blochează toate elementele de urmărire pe care le depistează { -brand-short-name }. Poate produce disfuncționalități pe unele site-uri.
 content-blocking-strict-description = Protecție mai puternică, poate împiedica funcționarea unor site-uri.
 content-blocking-custom-desc = Alege ce să blochezi.
 content-blocking-private-trackers = Elemente de urmărire cunoscute numai în ferestre private
