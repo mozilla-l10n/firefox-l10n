@@ -29,6 +29,8 @@
 
 <!ENTITY fillLoginMenu.label          "Pśizjawjenje wupołniś">
 <!ENTITY fillLoginMenu.accesskey      "u">
+<!ENTITY fillSuggestedPassword.label  "Naraźone gronidło wužywaś">
+<!ENTITY fillSuggestedPassword.accesskey "N">
 <!ENTITY fillPasswordMenu.label       "Gronidło wupołniś">
 <!ENTITY fillPasswordMenu.accesskey   "u">
 <!ENTITY fillUsernameMenu.label       "Wužywarske mě wupołniś">
