@@ -201,10 +201,6 @@
 <!ENTITY custom_tabs_hint_url_copy "Indirizzo copiato">
 <!ENTITY pref_pwa "Web app progressive">
 <!ENTITY pref_pwa_summary "Consenti di aggiungere web app alla pagina iniziale">
-<!ENTITY tracking_protection_prompt_title "Ora con protezione antitracciamento">
-<!ENTITY tracking_protection_prompt_text "Blocca in modo attivo gli elementi traccianti, rimuovendo ogni preoccupazione per l’utente.">
-<!ENTITY tracking_protection_prompt_tip_text "Per ulteriori informazioni visita la sezione Privacy delle impostazioni">
-<!ENTITY tracking_protection_prompt_action_button "Ricevuto!">
 <!ENTITY tab_queue_toast_message3 "Scheda salvata in &brandShortName;">
 <!ENTITY tab_queue_toast_action "Apri adesso">
 <!ENTITY tab_queue_prompt_title "Apertura di più link">
@@ -261,7 +257,6 @@
 <!ENTITY pref_private_data_syncedTabs "Schede sincronizzate">
 <!ENTITY pref_default_browser2 "Imposta &brandShortName; come browser predefinito">
 <!ENTITY default_browser_system_settings_toast "Tocca App Browser e seleziona &brandShortName;">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Visita il supporto Mozilla">
 <!ENTITY pref_about_firefox "Informazioni su &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Invia feedback">

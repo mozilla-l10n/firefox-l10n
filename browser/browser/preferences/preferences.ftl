@@ -29,11 +29,6 @@ search-input-box =
             [windows] Cerca nelle opzioni
            *[other] Cerca nelle preferenze
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] La possibilità di modificare alcune opzioni è stata disattivata dalla propria azienda.
-       *[other] La possibilità di modificare alcune preferenze è stata disattivata dalla propria azienda.
-    }
 managed-notice = Il browser è gestito dalla propria azienda.
 pane-general-title = Generale
 category-general =
@@ -668,7 +663,6 @@ addressbar-suggestions-settings = Modifica le impostazioni relative ai suggerime
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blocco contenuti
-content-blocking-description = Blocca i contenuti di terze parti che ti seguono attraverso il Web. Controlla quanto della tua attività online viene archiviato e condiviso tra siti web.
 content-blocking-section-description = Proteggi la tua privacy durante la navigazione. Blocca contenuti invisibili in grado di tracciare i siti che visiti e creare un profilo con le tue informazioni. Il blocco di alcuni di questi contenuti potrebbe velocizzare il caricamento delle pagine.
 content-blocking-learn-more = Ulteriori informazioni
 content-blocking-setting-standard =
@@ -681,9 +675,7 @@ content-blocking-setting-custom =
     .label = Personalizzato
     .accesskey = P
 
-content-blocking-standard-description = Blocca solo elementi traccianti conosciuti in finestre anonime.
 content-blocking-standard-desc = Il perfetto equilibrio tra protezione e prestazioni. Consenti alcuni elementi traccianti in modo da garantire il corretto funzionamento dei siti.
-content-blocking-strict-desc = Blocca tutti gli elementi traccianti rilevati da { -brand-short-name }. Alcuni siti potrebbero non funzionare correttamente.
 content-blocking-strict-description = Maggiore protezione, alcuni siti potrebbero non funzionare correttamente.
 content-blocking-custom-desc = Scegli che cosa bloccare.
 content-blocking-private-trackers = Elementi traccianti conosciuti in finestre anonime
