@@ -1,6 +1,0 @@
-<!--LOCALIZATION NOTE printPreviewProgress.dtd Main UI for Print Preview Progress Dialog -->
-<!ENTITY printWindow.title "Bona ukugadangisa ngaphambili">
-<!ENTITY title "Isihloko:">
-<!ENTITY spaces "            ">
-<!ENTITY preparing "Iyalungisa...">
-<!ENTITY progress "Iragelo phambili:">
