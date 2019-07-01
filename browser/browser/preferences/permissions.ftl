@@ -46,8 +46,6 @@ permissions-capabilities-listitem-allow =
     .value = അനുവദിക്കുക
 permissions-capabilities-listitem-block =
     .value = തടയുക
-permissions-capabilities-listitem-allow-first-party =
-    .value = ആദ്യത്തെ പാര്‍ട്ടിയെ മാത്രം അനുവദിയ്ക്കുക
 permissions-capabilities-listitem-allow-session =
     .value = ഈ സെഷന്‌ അനുവദിക്കുക
 
@@ -58,10 +56,6 @@ permissions-invalid-uri-label = ദയവായി വാലിഡായ ഒര�
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = ഒഴിവാക്കലുകൾ - ട്രാക്കിംഗ് പ്രൊട്ടക്ഷൻ
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = നിങ്ങൾ ഈ വെബ്സൈറ്റുകളിൽ ട്രാക്കിംഗ് പ്രൊട്ടക്ഷൻ അപ്രാപ്തമാക്കി.
 
 ## Exceptions - Cookies
 
@@ -93,26 +87,37 @@ permissions-exceptions-addons-desc = ഏതൊക്കെ വെബ്‌ സ�
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
     .title = ക്രമീകരണങ്ങൾ - അറിയിപ്പിനുള്ള അനുമതികൾ
     .style = { permissions-window.style }
+permissions-site-notification-disable-label =
+    .label = അറിയിപ്പുകൾ അനുവദിക്കാൻ ആവശ്യപ്പെടുന്ന പുതിയ അഭ്യർത്ഥനകള്‍ തടയുക
 
 ## Site Permissions - Location
 
 permissions-site-location-window =
     .title = ക്രമീകരണങ്ങൾ - ലൊക്കേഷൻ അനുമതികൾ
     .style = { permissions-window.style }
+permissions-site-location-disable-label =
+    .label = നിങ്ങളുടെ സ്ഥലം പരിശോധിക്കുന്നതിനായി ആവശ്യപ്പെടുന്ന പുതിയ അഭ്യർത്ഥനകള്‍ തടയുക
 
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
     .title = ക്രമീകരണങ്ങൾ - ക്യാമറ അനുമതികൾ
     .style = { permissions-window.style }
+permissions-site-camera-disable-label =
+    .label = നിങ്ങളുടെ ക്യാമറ പരിശോധിക്കുന്നതിനായി ആവശ്യപ്പെടുന്ന പുതിയ അഭ്യർത്ഥനകള്‍ തടയുക
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
     .title = ക്രമീകരണങ്ങൾ - മൈക്രോഫോൺ അനുമതികൾ
     .style = { permissions-window.style }
+permissions-site-microphone-disable-label =
+    .label = നിങ്ങളുടെ മൈക്രോഫോൺ പരിശോധിക്കുന്നതിനായി ആവശ്യപ്പെടുന്ന പുതിയ അഭ്യർത്ഥനകള്‍ തടയുക
