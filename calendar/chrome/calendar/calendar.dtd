@@ -129,7 +129,7 @@
      that is after today and after the selected date. If a task repeats, a
      separate entry will be shown for each of the occurrences that happen on or
      before today (or the selected date, whichever is later). -->
-<!ENTITY calendar.task.filter.current.label         "Sarcini curente">
+<!ENTITY calendar.task.filter.current.label         "Sarcini actuale">
 <!ENTITY calendar.task.filter.current.accesskey     "u">
 
 <!ENTITY calendar.task-details.title.label           "titlu">
@@ -347,7 +347,7 @@
 <!ENTITY calendar.alarm.snooze.cancel               "Anulează amânarea">
 
 <!-- Calendar Server Dialog -->
-<!ENTITY calendar.server.dialog.title.edit          "Editare calendar">
+<!ENTITY calendar.server.dialog.title.edit          "Editează calendarul">
 <!ENTITY calendar.server.dialog.name.label          "Denumire calendar:">
 
 <!-- Calendar Properties -->
