@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "Menej prenesených dát, väčšia úspora">
 <!ENTITY firstrun_data_subtext2 "Vypnutím obrázkov prenesiete menej dát na každej stránke, ktorú navštívite.">
 <!ENTITY firstrun_sync_title "Synchronizácia">
+<!ENTITY updatednewfirstrun_sync_title "Účet">
 <!ENTITY firstrun_sync_message2 "Pokračujte tam, kde ste prestali.">
 <!ENTITY firstrun_sync_subtext2 "Nájdite pomocou služby Sync záložky, heslá a ďalšie veci, ktoré ste si uložili do prehliadača &brandShortName; na všetkých svojich zariadeniach.">
 <!ENTITY newfirstrun_sync_subtext "Zosynchronizujte si veci, ktoré si uložíte na mobile s počítačom - bezpečne a s ohľadom na súkromie.">
