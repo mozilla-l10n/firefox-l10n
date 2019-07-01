@@ -45,7 +45,7 @@
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "Meniu aplicație">
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Afișare meniu &brandShortName;">
-<!ENTITY lightning.toolbar.calendarmenu.label        "Panou calendar">
+<!ENTITY lightning.toolbar.calendarmenu.label        "Panoul calendarului">
 <!ENTITY lightning.toolbar.calendarmenu.accesskey    "P">
 <!ENTITY lightning.toolbar.calendarpane.label        "Afișează panoul calendarului">
 <!ENTITY lightning.toolbar.calendarpane.accesskey    "P">
