@@ -28,6 +28,8 @@
 
 <!ENTITY aboutMenuCmd2.label "Ynghylch &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "Y">
+<!ENTITY helpSafeMode.stop.label     "Ailgychwyn gydag Ychwanegion wedi eu Galluogi">
+<!ENTITY helpSafeMode.stop.accesskey "A">
 <!ENTITY productHelp.label "Cymorth &brandShortName;">
 <!ENTITY productHelp.accesskey "C">
 <!ENTITY productHelp.commandkey "VK_F1">
