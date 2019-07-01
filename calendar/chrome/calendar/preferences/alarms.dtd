@@ -12,6 +12,7 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "s">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Gunakan suara bawaan">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "b">
+<!ENTITY pref.calendar.alarms.sound.useCustom.label "Gunakan berkas suara berikut">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Telusuri…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "T">
 <!ENTITY pref.calendar.alarms.sound.play.label "Putar">
