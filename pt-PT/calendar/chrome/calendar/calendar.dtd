@@ -178,8 +178,6 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Assistência">
 <!ENTITY calendar.context.attendance.menu.accesskey             "s">
 <!ENTITY calendar.context.attendance.occurrence.label           "Esta ocorrência">
-<!ENTITY calendar.context.attendance.all.label        "Todas as ocorrências" >
-
 <!ENTITY calendar.context.attendance.all2.label                 "Completar a série">
 <!ENTITY calendar.context.attendance.send.label                 "Enviar uma notificação agora">
 <!ENTITY calendar.context.attendance.send.accesskey             "E">
@@ -331,7 +329,7 @@
 <!ENTITY calendar.alarm.snoozeallfor.label          "Silenciar tudo durante" >
 <!ENTITY calendar.alarm.title.label                 "Lembretes do calendário" >
 <!ENTITY calendar.alarm.dismiss.label               "Dispensar" >
-<!ENTITY calendar.alarm.dismissall.label            "Desistir de tudo" >
+<!ENTITY calendar.alarm.dismissall.label            "Dispensar tudo" >
 
 <!ENTITY calendar.alarm.snooze.5minutes.label       "5 minutos" >
 <!ENTITY calendar.alarm.snooze.10minutes.label      "10 minutos" >
@@ -385,8 +383,8 @@
 <!ENTITY calendar.print.window.title "Imprimir calendário">
 <!ENTITY calendar.print.title.label "Título:">
 <!ENTITY calendar.print.layout.label "Esquema:">
-<!ENTITY calendar.print.range.label "Imprimir">
-<!ENTITY calendar.print.currentView2.label "Visão atual">
+<!ENTITY calendar.print.range.label "O que imprimir">
+<!ENTITY calendar.print.currentView2.label "Visualização atual">
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Eventos/tarefas selecionadas">
 <!ENTITY calendar.print.tasks.label "Tarefas">
 <!ENTITY calendar.print.events.label "Eventos">
