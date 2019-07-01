@@ -283,7 +283,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "管理所有书签">
 <!ENTITY recentBookmarks.label "最近的书签">
 <!ENTITY otherBookmarksCmd.label "其他书签">
-<!ENTITY mobileBookmarksCmd.label "移动版书签">
+<!ENTITY mobileBookmarksCmd.label "移动设备上的书签">
 <!ENTITY bookmarksToolbarChevron.tooltip "显示更多书签">
 
 <!ENTITY backCmd.label                "后退">
@@ -357,7 +357,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksSubview.label             "书签">
 <!ENTITY bookmarksMenuButton2.label         "书签菜单">
 <!ENTITY bookmarksMenuButton.other.label    "其他书签">
-<!ENTITY bookmarksMenuButton.mobile.label   "移动版书签">
+<!ENTITY bookmarksMenuButton.mobile.label   "移动设备上的书签">
 <!ENTITY viewBookmarksSidebar2.label        "显示书签侧栏">
 <!ENTITY hideBookmarksSidebar.label         "隐藏书签侧栏">
 <!ENTITY viewBookmarksToolbar.label         "查看书签工具栏">
