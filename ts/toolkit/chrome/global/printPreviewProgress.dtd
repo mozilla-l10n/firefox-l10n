@@ -1,6 +1,0 @@
-<!--LOCALIZATION NOTE printPreviewProgress.dtd Main UI for Print Preview Progress Dialog -->
-<!ENTITY printWindow.title "Languta Pirinti">
-<!ENTITY title "Nhlokomhaka:">
-<!ENTITY spaces "            ">
-<!ENTITY preparing "Lulamisa...">
-<!ENTITY progress "Phurogiresi:">
