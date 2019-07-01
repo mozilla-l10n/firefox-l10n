@@ -28,6 +28,8 @@
 
 <!ENTITY aboutMenuCmd2.label "O aplikácii &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "m">
+<!ENTITY helpSafeMode.stop.label     "Reštartovať s povolenými doplnkami">
+<!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "Pomocník aplikácie &brandShortName;">
 <!ENTITY productHelp.accesskey "P">
 <!ENTITY productHelp.commandkey "VK_F1">
