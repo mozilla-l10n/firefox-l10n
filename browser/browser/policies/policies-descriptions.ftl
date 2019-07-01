@@ -74,11 +74,10 @@ policy-Preferences = Setează și blochează valoarea pentru un subset de prefer
 policy-PromptForDownloadLocation = Întreabă unde să fie salvate fișierele la descărcare.
 policy-Proxy = Configurează setările proxy.
 policy-RequestedLocales = Setează lista de limbi solicitate de aplicație, în ordinea preferinței.
-policy-SanitizeOnShutdown = Șterge toate datele de navigare la închidere.
 policy-SanitizeOnShutdown2 = Șterge datele de navigare la închidere.
 policy-SearchBar = Setează locația implicită în bara de căutare. Utilizatorul are în continuare posibilitatea de personalizare.
 policy-SearchEngines = Configurează setările motorului de căutare. Politica este disponibilă numai în versiunea Ediție cu suport extins (ERS).
-policy-SearchSuggestEnabled = Activează sau dezactivează sugestiile la căutare.
+policy-SearchSuggestEnabled = Activează sau dezactivează sugestiile de căutare.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalează module PKCS #11.
 policy-SSLVersionMax = Setează versiunea maximă SSL.
