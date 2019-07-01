@@ -72,4 +72,4 @@ remove-all-passwords-prompt = Tem certeza que deseja remover todas as senhas?
 remove-all-passwords-title = Remover todas as senhas
 no-master-password-prompt = Tem certeza que deseja mostrar suas senhas?
 auto-fill-logins-and-passwords =
-    .label = Preencher contas e senhas automaticamente
+    .label = Preencher automaticamente usuário e senha de contas
