@@ -8,7 +8,6 @@ about-config-warning-text = La modifica di queste impostazioni avanzate può com
 about-config-warning-checkbox = Ricordamelo la prossima volta, grazie.
 about-config-warning-button = Accetto i rischi
 
-about-config-title = about:config
 about-config2-title = Configurazioni avanzate
 
 about-config-search-input =

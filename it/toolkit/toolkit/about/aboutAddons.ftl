@@ -154,9 +154,6 @@ private-browsing-description2 =
     stata introdotta per garantire la riservatezza dei dati di navigazione
     quando si utilizzano finestre anonime.
     <label data-l10n-name="private-browsing-learn-more">Scopri come gestire le impostazioni delle estensioni</label>
-extensions-view-discover =
-    .name = Esplora
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Consigli
     .tooltiptext = { extensions-view-discopane.name }
