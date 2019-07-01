@@ -29,6 +29,8 @@
 
 <!ENTITY fillLoginMenu.label          "Přizjewjenje wupjelnić">
 <!ENTITY fillLoginMenu.accesskey      "u">
+<!ENTITY fillSuggestedPassword.label  "Namjetowane hesło wužiwać">
+<!ENTITY fillSuggestedPassword.accesskey "N">
 <!ENTITY fillPasswordMenu.label       "Hesło wupjelnić">
 <!ENTITY fillPasswordMenu.accesskey   "H">
 <!ENTITY fillUsernameMenu.label       "Wužiwarske mjeno wupjelnić">
