@@ -108,6 +108,7 @@ permissions-exceptions-autoplay-media-desc2 = Poți specifica ce site-uri web au
 permissions-site-autoplay-window =
     .title = Setări - Redare automată
     .style = { permissions-window.style }
+permissions-site-autoplay-desc = Poți gestiona aici site-urile care nu respectă setările implicite de redare automată.
 
 ## Site Permissions - Notifications
 
