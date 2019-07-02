@@ -29,6 +29,8 @@
 
 <!ENTITY fillLoginMenu.label          "Oanmelding ynfolje">
 <!ENTITY fillLoginMenu.accesskey      "y">
+<!ENTITY fillSuggestedPassword.label  "In foarsteld wachtwurd brûke">
+<!ENTITY fillSuggestedPassword.accesskey "I">
 <!ENTITY fillPasswordMenu.label       "Wachtwurd ynfolje">
 <!ENTITY fillPasswordMenu.accesskey   "y">
 <!ENTITY fillUsernameMenu.label       "Brûkersnamme ynfolje">
