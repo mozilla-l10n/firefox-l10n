@@ -18,7 +18,6 @@
 <!ENTITY password.text                   "Opțional, se va folosi doar pentru a valida numele de utilizator">
 <!ENTITY rememberPassword.label          "Memorează parola">
 <!ENTITY rememberPassword.accesskey      "M">
-
 <!ENTITY usernameEx.label                "Datele tale de autentificare:">
 <!ENTITY usernameEx.accesskey            "I">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
@@ -99,4 +98,4 @@
 
 <!ENTITY insecureUnencrypted.description "Adresa de e-mail și datele de autentificare sunt transmise fără a fi criptate; prin urmare, parola și mesajul pot fi citite de alte persoane. &brandShortName; va permite accesul la căsuța poștală, dar trebuie să contactezi furnizorul de e-mail pentru configurarea serverului cu o conexiune securizată.">
 <!ENTITY insecureSelfSigned.description  "Serverul folosește un certificat în care nu putem avea încredere și nu putem fi siguri că nu ai traficul interceptat între &brandShortName; și server. &brandShortName; va permite accesul la căsuța poștală, dar trebuie să contactezi neapărat furnizorul de e-mail pentru configurarea serverului cu un certificat de încredere.">
-<!ENTITY secureServer.description        "Felicitări! Server securizat.">
+<!ENTITY secureServer.description        "Felicitări! Acesta este un server securizat.">

@@ -127,7 +127,12 @@ contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
 
-<!ENTITY securityOverride.warningContent "<p>Nu ar trebui să adaugi o excepție dacă folosești o conexiune la internet în care nu ai încredere în totalitate sau dacă nu ești obișnuit să vezi un avertisment pentru acest server.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "
+<p>Nu trebuie să adaugi o excepție dacă folosești o conexiune la internet în care nu ai încredere completă sau dacă nu primești frecvent avertismente legate de acest server.</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">
 
 <!ENTITY remoteXUL.title "XUL la distanță">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Te rugăm să contactezi proprietarii site-ului web pentru a-i informa despre această problemă.</li></ul></p>">
