@@ -17,7 +17,7 @@
 <!ENTITY dnsNotFound.longDesc "<p>Browserul nu a găsit serverul gazdă al adresei specificate.</p><ul><li>Ai tastat greșit numele domeniului? (ex. <q><strong>ww</strong>.mozilla.org</q> în loc de <q><strong>www</strong>.mozilla.org</q>)</li><li>Ești sigur că acest domeniu există?  Se poate ca înregistrarea sa să fi expirat.</li><li>Ai probleme cu navigarea pe alte site-uri?  Verifică conexiunea la rețea și setările serverului DNS.</li><li>Calculatorul este protejat de un firewall sau proxy? Setările incorecte ale acestora poate afecta navigarea pe web.</li></ul>">
 
 <!ENTITY fileNotFound.title "Fișier negăsit">
-<!ENTITY fileNotFound.longDesc "<ul><li>Se poate ca acesta să fi fost redenumit, mutat sau șters?</li><li>Adresa conține vreo eroare de tastare, sau majuscule în loc de minuscule ori invers?</li><li>Aveți suficiente drepturi de acces la fișierul cerut?</li></ul>">
+<!ENTITY fileNotFound.longDesc "<ul><li>Se poate ca acesta să fi fost redenumit, mutat sau șters?</li><li>Adresa conține vreo eroare de tastare, sau majuscule în loc de minuscule ori invers?</li><li>Ai suficiente drepturi de acces la fișierul cerut?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Accesul la fișier a fost refuzat">
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Este posibil să fi fost eliminat, mutat sau permisiunile fișierului pot împiedica accesul.</li></ul>">
