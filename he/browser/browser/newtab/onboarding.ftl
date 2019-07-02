@@ -55,8 +55,10 @@ onboarding-fxa-title = סנכרון
 onboarding-fxa-text = הירשמו ל־{ -fxaccount-brand-name } וסנכרנו את הסימניות, הססמאות והלשוניות הפתוחות בכל מקום שבו תשתמשו ב־{ -brand-short-name }.
 onboarding-tracking-protection-title2 = הגנה מפני מעקב
 onboarding-tracking-protection-button2 = איך זה עובד
+onboarding-firefox-monitor-button = הרשמה להתרעות
 onboarding-browse-privately-title = גלישה בפרטיות
 onboarding-browse-privately-button = פתיחת חלון פרטי
+onboarding-firefox-send-button = לנסות את { -send-brand-name }
 onboarding-mobile-phone-title = קבלת { -brand-product-name } לטלפון שלך
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.

@@ -29,11 +29,6 @@ search-input-box =
             [windows] חיפוש באפשרויות
            *[other] חיפוש בהעדפות
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] הארגון שלך חסם את האפשרות לשנות מספר אפשרויות.
-       *[other] הארגון שלך חסם את האפשרות לשנות מספר העדפות.
-    }
 managed-notice = הדפדפן שלך מנוהל על־ידי הארגון שלך.
 pane-general-title = כללי
 category-general =
@@ -301,6 +296,7 @@ update-setting-write-failure-message =
     לא ניתן לכתוב לקובץ: { $path }
 update-in-progress-title = העדכון בתהליך
 update-in-progress-message = האם ברצונך ש־{ -brand-short-name } ימשיך בעדכון זה?
+update-in-progress-ok-button = &ביטול
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &המשך
@@ -668,7 +664,6 @@ addressbar-suggestions-settings = שינוי העדפות של הצעות מנו
 ## Privacy Section - Content Blocking
 
 content-blocking-header = חסימת תוכן
-content-blocking-description = חסימת תוכן צד־שלישי שעוקב אחריך ברחבי האינטרנט. שליטה בכמות הפעילות המקוונת שלך שנשמרת ומשותפת בין אתרים.
 content-blocking-learn-more = מידע נוסף
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -681,9 +676,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = התאמה אישית
     .accesskey = ה
-content-blocking-standard-description = חסימת רכיבי מעקב מוכרים בחלונות פרטיים בלבד.
 content-blocking-standard-desc = מאוזן בין הגנה לביצועים. מאפשר את פעולתם של חלק מרכיבי המעקב כדי שהאתרים יפעלו כראוי.
-content-blocking-strict-desc = חסימת כל רכיבי המעקב ש־{ -brand-short-name } מזהה. עשוי לשבש פעילות של אתרים.
 content-blocking-strict-description = הגנה חזקה יותר, שעשויה לשבש פעילות של אתרים.
 content-blocking-custom-desc = בחירת הפריטים שייחסמו.
 content-blocking-private-trackers = רכיבי מעקב מוכרים בחלונות פרטיים בלבד
