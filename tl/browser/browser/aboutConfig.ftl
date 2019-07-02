@@ -2,8 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
+about-config-warning-title = Mag-ingat sa mga engkanto. Nakamamatay!
+about-config-warning-text = Ang pagpapalit ng mga advanced na setting na ito ay maaaring makasama sa katatagan, seguridad, at performance ng application na ito. Dapat ka lamang magpatuloy kung sigurado ka sa kung ano ang iyong ginagawa.
+about-config-warning-checkbox = Inisin mo ako ulit, pakiusap!
 about-config-warning-button = Tinatanggap ko ang peligro.
-about-config-title = about:config
+about-config2-title = Advanced na mga Configuration
 about-config-search-input =
     .placeholder = Hanapin
 about-config-show-all = Ipakita Lahat
