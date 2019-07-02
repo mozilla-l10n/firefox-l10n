@@ -19,52 +19,6 @@
 <!ENTITY navbarOverflow.label                "כלים נוספים…">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "טעינת לשונית מחדש">
-<!ENTITY  reloadTab.accesskey                "ט">
-<!ENTITY  selectAllTabs.label                "בחירת כל הלשוניות">
-<!ENTITY  selectAllTabs.accesskey            "ב">
-<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTab.label                 "שכפול לשונית">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTab.accesskey             "כ">
-<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTabs.label                "שכפול לשוניות">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTabs.accesskey            "כ">
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "סגירת כל הלשוניות משמאל">
-<!ENTITY  closeTabsToTheEnd.accesskey        "ס">
-<!ENTITY  closeOtherTabs.label               "סגירת לשוניות אחרות">
-<!ENTITY  closeOtherTabs.accesskey           "א">
-
-<!ENTITY  closeTabs.label                    "סגירת לשוניות">
-<!ENTITY  closeTabs.accesskey                "ס">
-<!ENTITY  pinSelectedTabs.label              "נעיצת לשוניות">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinSelectedTabs.accesskey          "נ">
-<!ENTITY  unpinSelectedTabs.label            "ביטול נעיצת לשוניות">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinSelectedTabs.accesskey        "נ">
-<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadTabs.label                   "טעינת לשוניות מחדש">
-<!ENTITY  reloadTabs.accesskey               "ט">
-<!ENTITY  bookmarkSelectedTabs.label         "יצירת סימנייה ללשוניות…">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkSelectedTabs.accesskey     "נ">
-
-<!-- Tab context menu -->
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -82,31 +36,11 @@ unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "נ">
 <!ENTITY  sendPageToDevice.label             "שליחת דף למכשיר">
-<!ENTITY  sendPageToDevice.accesskey         "ה">
+<!ENTITY  sendPageToDevice.accesskey         "מ">
 <!ENTITY  sendLinkToDevice.label             "שליחת קישור למכשיר">
 <!ENTITY  sendLinkToDevice.accesskey         "ה">
-<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
-These two items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  moveTabOptions.label               "העברת לשונית">
-<!ENTITY  moveTabOptions.accesskey           "ע">
-<!ENTITY  moveSelectedTabOptions.label       "העברת לשוניות">
-<!ENTITY  moveSelectedTabOptions.accesskey   "ע">
-<!ENTITY  moveToStart.label                  "העברה להתחלה">
-<!ENTITY  moveToStart.accesskey              "ת">
-<!ENTITY  moveToEnd.label                    "העברה לסוף">
-<!ENTITY  moveToEnd.accesskey                "ס">
-<!ENTITY  moveToNewWindow.label              "העברה לחלון חדש">
-<!ENTITY  moveToNewWindow.accesskey          "ח">
-<!ENTITY  reopenInContainer.label            "פתיחה מחדש במגירה">
-<!ENTITY  reopenInContainer.accesskey        "פ">
-<!ENTITY  bookmarkTab.label                  "יצירת סימנייה ללשונית">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkTab.accesskey              "צ">
 <!ENTITY  undoCloseTab.label                 "ביטול סגירת לשונית">
 <!ENTITY  undoCloseTab.accesskey             "ב">
-<!ENTITY  closeTab.label                     "סגירת לשונית">
-<!ENTITY  closeTab.accesskey                 "ס">
 <!ENTITY  hiddenTabs.label                   "לשוניות מוסתרות">
 
 <!ENTITY  listAllTabs.label      "רשימת כל הלשוניות">
@@ -145,31 +79,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "סרגל כלים סימניות">
 <!ENTITY personalbarCmd.accesskey "ס">
 <!ENTITY bookmarksToolbarItem.label "פריטי סרגל כלים סימניות">
-
-<!ENTITY toolbarContextMenu.reloadSelectedTab.label "טעינה מחדש של הלשונית שנבחרה">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "ט">
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "טעינה מחדש של הלשוניות שנבחרו">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "ט">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "יצירת סימנייה ללשונית שנבחרה…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "נ">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "יצירת סימנייה ללשוניות שנבחרו…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "נ">
-<!ENTITY toolbarContextMenu.selectAllTabs.label "בחירת כל הלשוניות">
-<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "ב">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "ביטול סגירת לשונית">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "ב">
 
 <!ENTITY pageSourceCmd.label "מקור הדף">
 <!ENTITY pageSourceCmd.accesskey "ר">
@@ -234,7 +143,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signedInAs.label "מחובר בתור">
 <!ENTITY fxa.menu.manageAccount.label "ניהול חשבון…">
 <!ENTITY fxa.menu.syncSettings.label "הגדרות &syncBrand.shortName.label;…">
-<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "חיבור מכשיר נוסף…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -340,7 +248,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasBlocked.tooltip            "חסמת חילוץ נתוני משטחי ציור עבור אתר זה.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "חסמת מפני האתר הזה את האפשרות להשתמש בתוסף החיצוני Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "חסמת גישת MIDI לאתר זה.">
-
 <!ENTITY urlbar.installBlocked.tooltip           "חסמת התקנת תוספות עבור אתר זה.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "הצגת היסטוריה">
@@ -530,7 +437,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "ה">
 <!ENTITY customizeMenu.removeExtension.label "הסרת הרחבה">
 <!ENTITY customizeMenu.removeExtension.accesskey "ס">
-
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
@@ -885,7 +791,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "דף זה הנו דף מאובטח של &brandShortName;.">
 <!ENTITY identity.extensionPage "עמוד זה נטען מתוך הרחבה.">
 <!ENTITY identity.insecureLoginForms2 "פרטי ההתחברות המוזנים בעמוד זה עשויים להיות חשופים בפני גורמי צד שלישי.">
-
 <!ENTITY identity.customRoot "חיבור מאומת על ידי מנפיק אישורים שאינו מזוהה על־ידי Mozilla.">
 
 <!-- Strings for connection state warnings. -->
@@ -905,7 +810,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "למרות ש־&brandShortName; חסם חלק מהתוכן, עדיין קיים בדף תוכן שאינו מאובטח (כגון תמונות).">
 <!ENTITY identity.description.activeLoaded "אתר זה מכיל תוכן שאינו מאובטח (כגון תסריטים) והחיבור שלך אליו אינו פרטי.">
 <!ENTITY identity.description.activeLoaded2 "מידע שישותף עם אתר זה, כגון ססמאות, הודעות, פרטי כרטיס האשראי וכדומה, עשוי להיות נגיש לאחרים.">
-
 <!ENTITY identity.description.customRoot "‏Mozilla אינה מזהה את מנפיק האישורים הזה. ייתכן שהוא נוסף ממערכת ההפעלה שלך או על־ידי מנהל מערכת.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "הפעלת הגנה">
@@ -936,40 +840,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "לשוניות מסונכרנות">
 
 <!ENTITY syncedTabs.sidebar.label              "לשוניות מסונכרנות">
-<!ENTITY syncedTabs.sidebar.noclients.label    "יש להיכנס ל־Firefox מהמכשירים האחרים שלך כדי לצפות בלשוניות שלהם כאן.">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "להציג כאן את הלשוניות שלך ממכשירים אחרים?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "יש להיכנס כדי לצפות ברשימת הלשוניות שלך מהתקנים אחרים.">
-<!ENTITY syncedTabs.sidebar.unverified.label   "יש לאמת את החשבון שלך.">
-<!ENTITY syncedTabs.sidebar.notabs.label       "אין לשוניות פתוחות">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "פתיחת ההעדפות של &syncBrand.shortName.label;">
-<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
-     when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "יש להפעיל סנכרון לשוניות כדי לצפות ברשימת הלשוניות שלך ממכשירים אחרים.">
-<!ENTITY syncedTabs.sidebar.searchPlaceholder  "חיפוש לשוניות מסונכרנות">
-<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "חיבור מכשיר נוסף">
-
-<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
-                        syncedTabs.context.openAllInTabs.accesskey):
-     These access keys are identical because their associated menu items are
-     mutually exclusive -->
-<!ENTITY syncedTabs.context.open.label                       "פתיחה">
-<!ENTITY syncedTabs.context.open.accesskey                   "פ">
-<!ENTITY syncedTabs.context.openInNewTab.label               "פתיחה בלשונית חדשה">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "ל">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "פתיחה בחלון חדש">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "ח">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "פתיחה בחלון פרטי חדש">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "ר">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "יצירת סימנייה ללשונית זו…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "ס">
-<!ENTITY syncedTabs.context.copy.label                       "העתקה">
-<!ENTITY syncedTabs.context.copy.accesskey                   "ע">
-
-<!ENTITY syncedTabs.context.openAllInTabs.label              "פתיחת הכל בלשוניות">
-<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "פ">
-<!ENTITY syncedTabs.context.managedevices.label              "ניהול מכשירים…">
-<!ENTITY syncedTabs.context.managedevices.accesskey          "נ">
-
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -981,42 +851,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.label         "התחברות מחדש אל &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "מ">
 <!ENTITY syncToolbarButton.label      "Sync">
-
-<!ENTITY customizeMode.menuAndToolbars.header3 "ניתן לגרור את הפריטים המועדפים עליך לתוך סרגל הכלים או לתפריט הצף.">
-<!ENTITY customizeMode.restoreDefaults "שחזור לבררות מחדל">
-<!ENTITY customizeMode.done "סיום">
-<!ENTITY customizeMode.titlebar "שורת כותרת">
-<!ENTITY customizeMode.extraDragSpace "שטח גרירה">
-<!ENTITY customizeMode.toolbars2 "סרגלי כלים">
-<!ENTITY customizeMode.lwthemes "ערכות נושא">
-<!ENTITY customizeMode.lwthemes.myThemes "ערכות הנושא שלי">
-<!ENTITY customizeMode.lwthemes.recommended "מומלצים">
-<!ENTITY customizeMode.lwthemes.menuManage "ניהול">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "נ">
-<!ENTITY customizeMode.lwthemes.menuGetMore "קבלת ערכות נושא נוספות">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "ק">
-<!ENTITY customizeMode.overflowList.title2 "התפריט הצף">
-<!ENTITY customizeMode.overflowList.description "ניתן לגרור ולשחרר לכאן פריטים כדי להשאיר אותם בהישג יד אך לא בסרגל הכלים…">
-<!ENTITY customizeMode.uidensity "צפיפות">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
-     “Normal” is displayed in the Customize screen, under the Density menu. -->
-<!ENTITY customizeMode.uidensity.menuNormal.label "רגילה">
-<!ENTITY customizeMode.uidensity.menuNormal.tooltip "רגילה">
-<!ENTITY customizeMode.uidensity.menuNormal.accessKey "ר">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
-     “Compact” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Compact). -->
-<!ENTITY customizeMode.uidensity.menuCompact.label "צפופה">
-<!ENTITY customizeMode.uidensity.menuCompact.tooltip "צפופה">
-<!ENTITY customizeMode.uidensity.menuCompact.accessKey "צ">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
-     “Touch” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Touch), and it means that control layout is
-     optimized for touch devices. -->
-<!ENTITY customizeMode.uidensity.menuTouch.label "מגע">
-<!ENTITY customizeMode.uidensity.menuTouch.tooltip "מגע">
-<!ENTITY customizeMode.uidensity.menuTouch.accessKey "ג">
-<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "שימוש במגע למצב מחשב לוח">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "הסתרה אוטומטית">
 
@@ -1084,27 +918,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "סגירה">
 
-<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
-     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
-     Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "לשכוח">
-<!ENTITY panicButton.view.5min                    "חמש דקות">
-<!ENTITY panicButton.view.2hr                     "שעתיים">
-<!ENTITY panicButton.view.day                     "יממה">
-
-<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
-     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
-     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
-     The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "המשך יוביל ">
-<!ENTITY panicButton.view.deleteCookies           "למחיקת <html:strong>עוגיות</html:strong> אחרונות">
-<!ENTITY panicButton.view.deleteHistory           "למחיקת <html:strong>היסטוריה</html:strong> אחרונה">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "לסגירת כל <html:strong>הלשוניות</html:strong> ו<html:strong>החלונות</html:strong>">
-<!ENTITY panicButton.view.openNewWindow           "לפתיחת חלון נקי חדש">
-
-<!ENTITY panicButton.view.undoWarning             "לא ניתן לבטל פעולה זו.">
-<!ENTITY panicButton.view.forgetButton            "לשכוח!">
-
 <!ENTITY panicButton.thankyou.msg1                "ההיסטוריה האחרונה שלך נמחקה.">
 <!ENTITY panicButton.thankyou.msg2                "המשך גלישה בטוחה!">
 <!ENTITY panicButton.thankyou.buttonlabel         "תודה!">
@@ -1112,31 +925,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "מידע נוסף על ניהול זכויות דיגיטלי…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "ז">
 
-<!ENTITY updateAvailable.message "נא לעדכן את &brandShorterName; כדי ליהנות משיפורי מהירות ופרטיות.">
-<!ENTITY updateAvailable.whatsnew.label "מידע נוסף על החידושים בגרסה זו.">
-<!ENTITY updateAvailable.header.message "קיים עדכון חדש של &brandShorterName;.">
-<!ENTITY updateAvailable.acceptButton.label "הורדת עדכון">
-<!ENTITY updateAvailable.acceptButton.accesskey "ה">
-<!ENTITY updateAvailable.cancelButton.label "לא כעת">
-<!ENTITY updateAvailable.cancelButton.accesskey "ל">
-
 <!ENTITY updateAvailable.panelUI.label "הורדת עדכון &brandShorterName;">
-
-<!ENTITY updateManual.message "נא להוריד עותק חדש של &brandShorterName; ואנו נסייע לך בהתקנה.">
-<!ENTITY updateManual.whatsnew.label "מידע נוסף על החידושים בגרסה זו.">
-<!ENTITY updateManual.header.message "לא ניתן לעדכן את &brandShorterName; לגרסה החדשה.">
-<!ENTITY updateManual.acceptButton.label "הורדת &brandShorterName;">
-<!ENTITY updateManual.acceptButton.accesskey "ה">
-<!ENTITY updateManual.cancelButton.label "לא כעת">
-<!ENTITY updateManual.cancelButton.accesskey "ל">
 <!ENTITY updateManual.panelUI.label "הורדת עותק חדש של &brandShorterName;">
-
-<!ENTITY updateRestart.message2 "לאחר הפעלה מחדש, &brandShorterName; ישחזר את כל הלשוניות והחלונות הפתוחים שאינם במצב גלישה פרטית.">
-<!ENTITY updateRestart.header.message2 "יש להפעיל מחדש כדי לעדכן את &brandShorterName;.">
-<!ENTITY updateRestart.acceptButton.label "הפעלה מחדש ושחזור">
-<!ENTITY updateRestart.acceptButton.accesskey "פ">
-<!ENTITY updateRestart.cancelButton.label "לא כעת">
-<!ENTITY updateRestart.cancelButton.accesskey "ל">
 <!ENTITY updateUnsupported.panelUI.label "לא ניתן לבצע עדכונים נוספים">
 <!ENTITY updateRestart.panelUI.label2 "הפעלה מחדש לעדכון &brandShorterName;">
 
@@ -1176,18 +966,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "תכונות נגישות מופעלות">
-
-<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
-     The first <image> tag is replaced with the icon for the add-ons menu.
-     The second <image> tag is replaced with the icon for the toolbar menu. -->
-<!ENTITY addonPostInstallMessage.label "ניתן לנהל את התוספות שלך על־ידי לחיצה על <image class='addon-addon-icon'/> שבתפריט <image class='addon-toolbar-icon'/>.">
-<!ENTITY addonPostInstall.incognito.checkbox.label "לאפשר להרחבה זו לפעול בחלונות פרטיים">
-<!ENTITY addonPostInstall.incognito.checkbox.accesskey "ל">
-
-<!ENTITY addonPrivateBrowsing.header2.label "שינוי להרחבות בחלונות פרטיים">
-<!ENTITY addonPrivateBrowsing.body2.label "כל הרחבה חדשה שתתווסף אל &brandShorterName; לא תעבוד בחלונות פרטיים אלא אם תאופשר לכך בהגדרות.">
-<!ENTITY addonPrivateBrowsing.learnMore.label "מידע נוסף על ניהול הגדרות הרחבות.">
-<!ENTITY addonPrivateBrowsing.okButton.label "בסדר, הבנתי">
-<!ENTITY addonPrivateBrowsing.okButton.accesskey "ב">
-<!ENTITY addonPrivateBrowsing.manageButton.label "ניהול הרחבות">
-<!ENTITY addonPrivateBrowsing.manageButton.accesskey "נ">
