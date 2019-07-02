@@ -29,6 +29,8 @@
 
 <!ENTITY fillLoginMenu.label          "Bejelentkezés kitöltése">
 <!ENTITY fillLoginMenu.accesskey      "B">
+<!ENTITY fillSuggestedPassword.label  "Javasolt jelszó használata">
+<!ENTITY fillSuggestedPassword.accesskey "J">
 <!ENTITY fillPasswordMenu.label       "Jelszó kitöltése">
 <!ENTITY fillPasswordMenu.accesskey   "J">
 <!ENTITY fillUsernameMenu.label       "Felhasználónév kitöltése">
