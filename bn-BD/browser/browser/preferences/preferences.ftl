@@ -27,11 +27,6 @@ search-input-box =
             [windows] অপশনে অনুসন্ধান
            *[other] পছন্দসমূহে অনুসন্ধান
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] আপনার প্রতিষ্ঠান অপশনের কিছু পরিবর্তনের সক্ষমতা নিষ্ক্রিয় করেছে।
-       *[other] আপনার প্রতিষ্ঠান অপশনের কিছু পরিবর্তনের সক্ষমতা নিষ্ক্রিয় করেছে।
-    }
 pane-general-title = সাধারণ
 category-general =
     .tooltiptext = { pane-general-title }
@@ -44,10 +39,6 @@ category-search =
 pane-privacy-title = গোপনীয়তা ও নিরাপত্তা
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox Account
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -377,6 +368,32 @@ choose-bookmark =
     .label = বুকমার্ক ব্যবহার করুন
     .accesskey = B
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Firefox Home কনটেন্ট
+home-prefs-content-description = আপনার Firefox Home স্ক্রিনে যেসব কনটেন্ট রাখতে চান তা পছন্দ করুন।
+home-prefs-search-header =
+    .label = ওয়েব অনুসন্ধান
+home-prefs-topsites-header =
+    .label = শীর্ষ সাইট
+home-prefs-topsites-description = যে সাইটগুলিতে আপনি বেশি যান
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = স্পন্সর করা স্টোরি
+home-prefs-highlights-description = সাইটের একটি সেকশন যা আপনি সংরক্ষণ অথবা গিয়েছিলেন
+home-prefs-highlights-option-visited-pages =
+    .label = ঘুরে আসা পেজ
+home-prefs-highlights-option-most-recent-download =
+    .label = সর্বশেষ ডাউনলোড
+home-prefs-highlights-option-saved-to-pocket =
+    .label = পেজটি { -pocket-brand-name } এ সংরক্ষণ করা হয়েছে
+home-prefs-snippets-description = { -vendor-short-name } and { -brand-product-name } থেকে হালনাগাদ
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } সারি
+           *[other] { " " }{ $num } সারিগুলি
+        }
+
 ## Search Section
 
 search-bar-header = অনুসন্ধান বার
@@ -519,8 +536,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = সংরক্ষণ
     .accesskey = v
-sync-mobilepromo-single = অন্য ডিভাইস সংযুক্ত করুন
-sync-mobilepromo-multi = ডিভাইস ব্যবস্থাপনা
 sync-connect-another-device = অন্য একটি ডিভাইস সংযুক্ত করুন
 sync-manage-devices = ডিভাইস ব্যবস্থাপনা
 sync-fxa-begin-pairing = কোন ডিভাইস জুটিবদ্ধ করুন
