@@ -38,10 +38,6 @@ category-search =
 pane-privacy-title = Ña i'í tsi ña kunka vaa
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Cuenta Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -175,6 +171,11 @@ choose-bookmark =
     .label = Kuachu'un  markador…
     .accesskey = m
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-sections-rows-option =
+    .label = { $num } fila
+
 ## Search Section
 
 search-bar-header = Barra de búsqueda
@@ -230,7 +231,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Chika vaà
     .accesskey = g
-sync-mobilepromo-single = Chita'an inka kaa ndusu
 
 ## Privacy Section
 
