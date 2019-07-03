@@ -383,6 +383,12 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-topsites-header =
+    .label = Các trang Web hàng đầu
+home-prefs-highlights-header =
+    .label = Nổi bật
+home-prefs-highlights-options-bookmarks =
+    .label = Trang đánh dấu
 
 ## Search Section
 
