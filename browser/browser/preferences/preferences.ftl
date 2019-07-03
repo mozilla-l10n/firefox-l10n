@@ -29,11 +29,6 @@ search-input-box =
             [windows] Treuva in Inpostaçioin
            *[other] Treuva in Preferense
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] A teu òrganizaçion a l'à dizabilitou a poscibilitæ de cangiâ quarche òpçion
-       *[other] A teu òrganizaçion a l'à dizabilitou a poscibilitæ de cangiâ quarche preferensa
-    }
 pane-general-title = Generale
 category-general =
     .tooltiptext = { pane-general-title }
@@ -381,6 +376,9 @@ choose-bookmark =
     .label = Adeuvia o segnalibbro…
     .accesskey = s
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-bar-header = Bara de Riçerca
@@ -660,7 +658,6 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Personalizzou
     .accesskey = P
-content-blocking-standard-description = Blòcca solo i elementi che tracian conosciui inti barcoin privæ.
 content-blocking-strict-description = Proteçion ciù fòrte, çerti sciti porieivan no fonçionâ ben.
 content-blocking-custom-desc = Çerni cöse blòccâ
 content-blocking-private-trackers = Elementi che tracian conosciui inti barcoin privæ
