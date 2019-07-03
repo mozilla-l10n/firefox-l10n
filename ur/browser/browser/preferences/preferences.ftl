@@ -324,6 +324,10 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = بہترین سائٹیں
 home-prefs-topsites-description = سائٹس جو آُپ سب سے زیادہ ملاحظہ کرتے ہیں
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = { $provider } کی جانب سے تجویز کردہ
 home-prefs-recommended-by-option-sponsored-stories =
     .label = سرپرست شدہ کہاناں
 home-prefs-highlights-header =
