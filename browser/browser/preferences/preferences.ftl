@@ -409,6 +409,7 @@ choose-bookmark =
 
 home-prefs-content-header = Cynnwys Cartref Firefox
 home-prefs-content-description = Dewis pa gynnwys rydych eisiau ar eich sgrin Firefox Cartref.
+home-prefs-content-discovery-description = Mae Darganfod Cynnwys yng Nghartref Firefox yn caniatáu i chi ddarganfod erthyglau perthnasol o ansawdd uchel ar draws y we.
 home-prefs-search-header =
     .label = Chwilio'r We
 home-prefs-topsites-header =
@@ -418,11 +419,21 @@ home-prefs-topsites-description = Y gwefannau rydych yn ymweld â nhw amlaf
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Argymhellwyd gan { $provider }
+home-prefs-recommended-by-description = Cynnwys gwych o ar draws y we, wedi ei ddewis yn arbennig i chi
+home-prefs-recommended-by-learn-more = Sut mae'n gweithio
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Straeon wedi eu Noddi
 home-prefs-highlights-header =
     .label = Goreuon
 home-prefs-highlights-description = Detholiad o wefannau rydych wedi eu cadw neu ymweld â nhw
+home-prefs-highlights-option-visited-pages =
+    .label = Tudalennau Ymwelwyd â Nhw
 home-prefs-highlights-options-bookmarks =
     .label = Nodau Tudalen
+home-prefs-highlights-option-most-recent-download =
+    .label = Llwytho i Lawr Mwyaf Diweddar
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Tudalennau wedi eu Cadw i { -pocket-brand-name }
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -430,6 +441,16 @@ home-prefs-highlights-options-bookmarks =
 home-prefs-snippets-header =
     .label = Tameidiau
 home-prefs-snippets-description = Diweddariadau gan { -vendor-short-name } a { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [zero] { $num } rhes
+            [one] { $num } rhes
+            [two] { $num } rhes
+            [few] { $num } rhes
+            [many] { $num } rhes
+           *[other] { $num } rhes
+        }
 
 ## Search Section
 
