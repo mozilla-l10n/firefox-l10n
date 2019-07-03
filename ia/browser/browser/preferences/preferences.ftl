@@ -29,11 +29,6 @@ search-input-box =
             [windows] Cercar in le optiones
            *[other] Cercar in le preferentias
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Tu organisation ha disactivate le poter de cambiar alcun optiones.
-       *[other] Tu organisation ha disactivate le poter de cambiar alcun preferentias.
-    }
 managed-notice = Tu navigator debe ser gerite per tu organisation.
 pane-general-title = General
 category-general =
@@ -398,6 +393,31 @@ choose-bookmark =
     .label = Usar un marcapaginas…
     .accesskey = m
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Pagina initial de Firefox
+home-prefs-content-discovery-description = Content Discovery in Firefox Home te consenti de discoperir articulos pertinente, de alte qualitate, in le Web.
+home-prefs-search-header =
+    .label = Recerca del Web
+home-prefs-topsites-description = Le sitos que tu visita plus
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Recommendate per { $provider }
+home-prefs-recommended-by-description = Grande contento ex tote le Web, personalisate pro te
+home-prefs-recommended-by-learn-more = Como illo labora
+home-prefs-highlights-option-visited-pages =
+    .label = Paginas visitate
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Paginas salvate in { -pocket-brand-name }
+home-prefs-snippets-description = Actualisationes ab { -vendor-short-name } e { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } riga
+           *[other] { $num } rigas
+        }
+
 ## Search Section
 
 search-bar-header = Barra de recerca
@@ -669,7 +689,6 @@ addressbar-suggestions-settings = Cambiar le preferentias pro le suggestiones de
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blocage de contento
-content-blocking-description = Bloca le contento de tertios que te tracia per le web. Controla quanto de tu activitate in linea es immagazinate e condividite inter le sitos web.
 content-blocking-section-description = Protege tu confidentialitate durante que tu naviga. Bloca le contento invisibile que tracia le sitos que tu visita e crea tu profilo. Blocar parte de iste contento pote render plus veloce cargar paginas.
 content-blocking-learn-more = Saper plus
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -683,9 +702,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Personalisate
     .accesskey = P
-content-blocking-standard-description = Le traciatores cognoscite es blocate solmente in le Fenestras private.
 content-blocking-standard-desc = Equilibrio perfecte inter protection e rendimento. Permitte alcun traciatores a fin que le sitos web functiona correctemente.
-content-blocking-strict-desc = Bloca tote le traciatores que { -brand-short-name } detecta. Pote impedir alcun sitos de functionar.
 content-blocking-strict-description = Un protection plus forte pote facer errar in alcun sitos.
 content-blocking-custom-desc = Elige que blocar.
 content-blocking-private-trackers = Traciatores note solo in Fenestras private
