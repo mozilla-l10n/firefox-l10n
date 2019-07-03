@@ -29,11 +29,6 @@ search-input-box =
             [windows] Encontrar en opciones
            *[other] Encontrar en configuraciones
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Tu organización ha deshabilitado la posibilidad de cambiar algunas opciones.
-       *[other] Tu organización ha deshabilitado la posibilidad de cambiar algunas preferencias.
-    }
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +41,6 @@ category-search =
 pane-privacy-title = Privacidad y seguridad
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Cuenta de Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -382,6 +373,23 @@ choose-bookmark =
     .label = Usar marcador…
     .accesskey = m
 
+## Home Section - Firefox Home Content Customization
+
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Recomendado por { $provider }
+home-prefs-recommended-by-description = El mejor contenido de la web, personalizado para ti
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Artículos patrocinados
+home-prefs-highlights-option-visited-pages =
+    .label = Páginas visitadas
+home-prefs-highlights-option-most-recent-download =
+    .label = Descargado recientemente
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Páginas guardadas en { -pocket-brand-name }
+home-prefs-snippets-description = Actualizaciones de { -vendor-short-name } y { -brand-product-name }
+
 ## Search Section
 
 search-bar-header = Barra de búsqueda
@@ -524,8 +532,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Guardar
     .accesskey = v
-sync-mobilepromo-single = Conectar otro dispositivo
-sync-mobilepromo-multi = Administrar dispositivos
 sync-connect-another-device = Conectar otro dispositivo
 sync-manage-devices = Administrar dispositivos
 sync-fxa-begin-pairing = Asociar un dispositivo
@@ -654,7 +660,6 @@ addressbar-suggestions-settings = Cambiar las preferencias para las sugerencias 
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bloqueo de contenido
-content-blocking-description = Bloquear el contenido de terceros que te rastrea en la web. Controla cuánto de tu actividad en línea se almacena y compartes entre sitios web.
 content-blocking-learn-more = Saber más
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -667,9 +672,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Personalizar
     .accesskey = P
-content-blocking-standard-description = Sólo bloquea rastreadores conocidos en pestañas privadas.
 content-blocking-standard-desc = Balanceado para protección y rendimiento. Permite algunos rastreadores, así lo sitios web funcionan adecuadamente.
-content-blocking-strict-desc = Bloquear todos los rastreadores que { -brand-short-name } detecte. Puede causar errores en algunos sitios web.
 content-blocking-custom-desc = Elegir que bloquear
 content-blocking-private-trackers = Rastreadores conocidos solo en ventanas privadas
 content-blocking-third-party-cookies = Cookies de rastreadores de terceros
@@ -678,7 +681,6 @@ content-blocking-unvisited-cookies = Cookies de sitios no visitados
 content-blocking-all-windows-trackers = Rastreadores conocidos en todas las ventanas
 content-blocking-all-third-party-cookies = Todas las cookies de terceros
 content-blocking-warning-title = ¡Atención!
-content-blocking-warning-desc = Bloquear cookies y rastreadores puede causar que algunos sitios web fallen. Es fácil de deshabilitar el bloqueo en sitios en lo que confías.
 content-blocking-learn-how = Saber cómo
 content-blocking-reload-tabs-button =
     .label = Recargar todas las pestañas
