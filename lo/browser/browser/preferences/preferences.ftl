@@ -247,6 +247,10 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-topsites-header =
+    .label = ເວັບໄຊທ໌ຍອດນິຍົມ
+home-prefs-highlights-header =
+    .label = ຈຸດເດັ່ນ
 
 ## Search Section
 
