@@ -29,11 +29,6 @@ search-input-box =
             [windows] Serĉi en elektebloj
            *[other] Serĉi en preferoj
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Via organizaĵo malŝaltis la eblon ŝanĝi kelkajn elekteblojn.
-       *[other] Via organizaĵo malŝaltis la eblon ŝanĝi kelkajn preferojn.
-    }
 managed-notice = Via retumilo estas administrata de via organizo.
 pane-general-title = Ĉefaj
 category-general =
@@ -398,6 +393,36 @@ choose-bookmark =
     .label = Uzi legosignon…
     .accesskey = s
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Enhavo de la hejmekrano de Firefox
+home-prefs-content-description = Elektu la enhavon, kiun vi volas en via hejmekrano de Firefox.
+home-prefs-search-header =
+    .label = Serĉo en la reto
+home-prefs-topsites-description = Viaj plej vizititaj retejoj
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Rekomendita de { $provider }
+home-prefs-highlights-header =
+    .label = Elstaraĵoj
+home-prefs-highlights-description = Retejoj elektitaj inter tiuj, kiun vi vizitis aŭ konservis
+home-prefs-highlights-options-bookmarks =
+    .label = Legosignoj
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Fragmentoj
+home-prefs-snippets-description = Ĝisdatigoj de { -vendor-short-name } kaj { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } vico
+           *[other] { $num } vicoj
+        }
+
 ## Search Section
 
 search-bar-header = Serĉa strio
@@ -672,7 +697,6 @@ addressbar-suggestions-settings = Ŝanĝi preferojn pri serĉilaj sugestoj
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blokado de enhavo
-content-blocking-description = Bloku nerektan enhavon, kiu spuras vin tra la reto. Regu kiom multe de via retuma informo estas konservita kaj dividita inter retejoj.
 content-blocking-section-description = Protektu vian privatecon dum vi retumas. Bloku nevideblan enhavon, kiu registras la retejojn, kiujn vi vizitas por konstrui profilon pri vi. Bloki parton de tiu enhavo povas rapidigi la ŝargadon de paĝoj.
 content-blocking-learn-more = Pli da informo
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -686,9 +710,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Personecigita
     .accesskey = P
-content-blocking-standard-description = Bloki nur konatajn spurilojn en privataj fenestroj.
 content-blocking-standard-desc = Ekvilibro inter protekto kaj efikeco. Kelkaj spuriloj estas permesataj, por ke retejoj funkciu bone.
-content-blocking-strict-desc = Ĉiuj spuriloj trovitaj de { -brand-short-name } estos blokitaj. Tio povas misfunkciigi kelkajn retejojn.
 content-blocking-strict-description = Pli severa protekto, kiu povus misfunkciigi kelkajn retejojn.
 content-blocking-custom-desc = Elektu kion bloki.
 content-blocking-private-trackers = Konataj spuriloj nur en fenestroj de privata retumo.
