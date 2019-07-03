@@ -391,17 +391,31 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Situs Teratas
 home-prefs-topsites-description = Situs yang sering Anda kunjungi
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Disarankan oleh { $provider }
 home-prefs-recommended-by-description = Konten bermutu dari seluruh web, khusus untuk Anda
 home-prefs-recommended-by-learn-more = Panduan
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Konten Sponsor
+home-prefs-highlights-header =
+    .label = Sorotan
 home-prefs-highlights-description = Sejumlah situs yang Anda simpan atau kunjungi
 home-prefs-highlights-option-visited-pages =
     .label = Laman yang Dikunjungi
+home-prefs-highlights-options-bookmarks =
+    .label = Markah
 home-prefs-highlights-option-most-recent-download =
     .label = Unduhan Terbaru
 home-prefs-highlights-option-saved-to-pocket =
     .label = Laman Disimpan di { -pocket-brand-name }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Catatan Kecil
 home-prefs-snippets-description = Pembaruan dari { -vendor-short-name } dan { -brand-product-name }
 home-prefs-sections-rows-option =
     .label = { $num } baris
