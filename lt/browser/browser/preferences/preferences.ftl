@@ -29,11 +29,6 @@ search-input-box =
             [windows] Rasti nuostatose
            *[other] Rasti nuostatose
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Jūsų organizacija apribojo galimybę keisti dalį nuostatų.
-       *[other] Jūsų organizacija apribojo galimybę keisti dalį nuostatų.
-    }
 managed-notice = Jūsų naršyklę tvarko jūsų organizacija.
 pane-general-title = Bendrosios
 category-general =
@@ -401,6 +396,50 @@ choose-bookmark =
     .label = Tinklalapis iš adresyno…
     .accesskey = T
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = „Firefox“ pradžios turinys
+home-prefs-content-description = Pasirinkite, kokį turinį norite matyti „Firefox“ pradžios ekrane
+home-prefs-content-discovery-description = „Firefox“ turinio atradimas pradžios tinklalapyje leidžia atrasti aukštos kokybės ir jums galimai įdomius straipsnius iš interneto.
+home-prefs-search-header =
+    .label = Paieška internete
+home-prefs-topsites-header =
+    .label = Lankomiausios svetainės
+home-prefs-topsites-description = Dažniausiai lankomos svetainės
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Rekomendavo „{ $provider }“
+home-prefs-recommended-by-description = Puikus turinys iš viso saityno, parinktas specialiai jums
+home-prefs-recommended-by-learn-more = Kaip tai veikia
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Rėmėjų straipsniai
+home-prefs-highlights-header =
+    .label = Akcentai
+home-prefs-highlights-description = Aplankytų bei išsaugotų svetainių rinkinys
+home-prefs-highlights-option-visited-pages =
+    .label = Aplankyti tinklalapiai
+home-prefs-highlights-options-bookmarks =
+    .label = Adresynas
+home-prefs-highlights-option-most-recent-download =
+    .label = Paskiausias atsisiuntimas
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Į „{ -pocket-brand-name }“ įrašyti tinklalapiai
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Iškarpos
+home-prefs-snippets-description = Naujienos iš „Mozillos“ ir „{ -brand-product-name }“
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } eilutė
+            [few] { $num } eilučių
+           *[other] { $num } eilutės
+        }
+
 ## Search Section
 
 search-bar-header = Paieškos laukas
@@ -675,7 +714,6 @@ addressbar-suggestions-settings = Keisti ieškyklių siūlymų nuostatas
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Turinio blokavimas
-content-blocking-description = Blokuokite trečiųjų šalių turinį, kuris stebi jūsų veiklą internete. Kontroliuokite, kiek jūsų veiklos saugoma ir dalijamasi tarp svetainių.
 content-blocking-section-description = Saugokite savo privatumą naršydami. Blokuokite nematomą turinį, kuris seka jūsų lankomas svetaines ir jus profiliuoja. Užblokavus dalį šio turinio gali pagreitėti tinklalapių įkėlimas.
 content-blocking-learn-more = Sužinoti daugiau
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -689,9 +727,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Kitas
     .accesskey = K
-content-blocking-standard-description = Blokuoja tik žinomus stebėjimo elementus privačiojo naršymo languose.
 content-blocking-standard-desc = Pritaikyta saugumui ir našumui. Leidžia dalį stebėjimo elementų, kad svetainės veiktų tinkamai.
-content-blocking-strict-desc = Blokuoja visus „{ -brand-short-name }“ aptinkamus stebėjimo elementus. Gali sutrikti kai kurių svetainių veikimas.
 content-blocking-strict-description = Stipresnė apsauga, tačiau gali sutrikti kai kurių svetainių veikimas.
 content-blocking-custom-desc = Pasirinkite, ką blokuoti.
 content-blocking-private-trackers = Žinomi stebėjimo elementai tik privačiojo naršymo languose
