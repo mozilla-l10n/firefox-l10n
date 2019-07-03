@@ -29,11 +29,6 @@ search-input-box =
             [windows] Zoeken in opties
            *[other] Zoeken in voorkeuren
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Uw organisatie heeft de mogelijkheid tot het wijzigen van enkele opties uitgeschakeld.
-       *[other] Uw organisatie heeft de mogelijkheid tot het wijzigen van enkele voorkeuren uitgeschakeld.
-    }
 managed-notice = Uw browser wordt door uw organisatie beheerd.
 pane-general-title = Algemeen
 category-general =
@@ -398,6 +393,36 @@ choose-bookmark =
     .label = Bladwijzer gebruiken…
     .accesskey = B
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-description = Kies welke inhoud u op uw Firefox-startscherm wilt laten weergeven.
+home-prefs-content-discovery-description = Via Content Discovery op de Firefox-startpagina kunt u relevante artikelen op het hele web met hoge kwaliteit vinden.
+home-prefs-topsites-header =
+    .label = Topwebsites
+home-prefs-topsites-description = De websites die u het vaakst bezoekt
+home-prefs-recommended-by-description = Geweldige inhoud van het web, gepersonaliseerd voor u
+home-prefs-recommended-by-learn-more = Hoe het werkt
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Gesponsorde verhalen
+home-prefs-highlights-header =
+    .label = Highlights
+home-prefs-highlights-description = Een selectie van websites die u hebt opgeslagen of bezocht
+home-prefs-highlights-option-visited-pages =
+    .label = Bezochte pagina’s
+home-prefs-highlights-options-bookmarks =
+    .label = Bladwijzers
+home-prefs-highlights-option-most-recent-download =
+    .label = Meest recent gedownload
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Naar { -pocket-brand-name } opgeslagen pagina’s
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Snippets
+home-prefs-snippets-description = Updates van { -vendor-short-name } en { -brand-product-name }
+
 ## Search Section
 
 search-bar-header = Zoekbalk
@@ -672,7 +697,6 @@ addressbar-suggestions-settings = Voorkeuren voor zoekmachinesuggesties wijzigen
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Inhoudsblokkering
-content-blocking-description = Blokkeer inhoud van derden die uw surfgedrag volgt. Bepaal hoeveel van uw online-activiteit wordt bewaard en tussen websites wordt gedeeld.
 content-blocking-section-description = Bescherm uw privacy terwijl u surft. Blokkeer onzichtbare inhoud die de door u bezochte websites volgt en u profileert. Door wat van deze inhoud te blokkeren laden pagina’s mogelijk sneller.
 content-blocking-learn-more = Meer info
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -686,9 +710,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Aangepast
     .accesskey = A
-content-blocking-standard-description = Blokkeert alleen bekende trackers in privévensters.
 content-blocking-standard-desc = Gebalanceerd voor bescherming en prestaties. Staat bepaalde trackers toe, zodat websites goed werken.
-content-blocking-strict-desc = Blokkeert alle trackers die { -brand-short-name } detecteert. Kan ervoor zorgen dat bepaalde websites niet goed werken.
 content-blocking-strict-description = Strengere bescherming, kan ervoor zorgen dat bepaalde websites niet goed werken.
 content-blocking-custom-desc = Kies wat er wordt geblokkeerd.
 content-blocking-private-trackers = Bekende trackers alleen in privévensters
