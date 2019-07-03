@@ -28,6 +28,8 @@
 
 <!ENTITY aboutMenuCmd2.label "Thông tin về &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "A">
+<!ENTITY helpSafeMode.stop.label     "Khởi động lại và kích hoạt các tiện ích">
+<!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "Trợ giúp &brandShortName;">
 <!ENTITY productHelp.accesskey "H">
 <!ENTITY productHelp.commandkey "VK_F1">
