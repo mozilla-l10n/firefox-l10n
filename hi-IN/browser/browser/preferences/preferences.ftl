@@ -363,6 +363,14 @@ choose-bookmark =
 
 home-prefs-topsites-header =
     .label = सर्वोच्च साइटें
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = { $provider } द्वारा अनुशंसित
+home-prefs-highlights-header =
+    .label = प्रमुखताएँ
+home-prefs-highlights-option-most-recent-download =
+    .label = सबसे हालिया डाउनलोड
 
 ## Search Section
 
