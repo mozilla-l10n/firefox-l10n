@@ -400,6 +400,10 @@ home-prefs-content-discovery-description = Via Content Discovery op de Firefox-s
 home-prefs-topsites-header =
     .label = Topwebsites
 home-prefs-topsites-description = De websites die u het vaakst bezoekt
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Aanbevolen door { $provider }
 home-prefs-recommended-by-description = Geweldige inhoud van het web, gepersonaliseerd voor u
 home-prefs-recommended-by-learn-more = Hoe het werkt
 home-prefs-recommended-by-option-sponsored-stories =
