@@ -338,8 +338,11 @@ home-prefs-topsites-header =
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = បានណែនាំដោយ { $provider }
+home-prefs-recommended-by-learn-more = របៀប​ដែល​វា​ដំណើរការ
 home-prefs-highlights-header =
     .label = រឿងសំខាន់ៗ
+home-prefs-highlights-option-visited-pages =
+    .label = ទំព័រ​ដែល​បាន​ទស្សនា
 home-prefs-highlights-options-bookmarks =
     .label = ចំណាំ
 # For the "Snippets" feature traditionally on about:home.
