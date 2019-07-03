@@ -391,6 +391,10 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = 熱門網站
 home-prefs-topsites-description = 最常造訪的網站
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = { $provider } 推薦
 home-prefs-recommended-by-description = 網路上的各種超棒內容，為您量身打造
 home-prefs-recommended-by-learn-more = 原理是什麼
 home-prefs-recommended-by-option-sponsored-stories =
