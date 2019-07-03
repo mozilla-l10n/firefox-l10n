@@ -29,11 +29,6 @@ search-input-box =
             [windows] Canfod yn Dewisiadau
            *[other] Canfod yn Dewisiadau
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Mae eich corff wedi analluogi'r gallu i newid rhai dewisiadau.
-       *[other] Mae eich corff wedi analluogi'r gallu i newid rhai dewisiadau.
-    }
 managed-notice = Mae eich porwr yn cael ei reoli gan eich sefydliad.
 pane-general-title = Cyffredinol
 category-general =
@@ -410,6 +405,32 @@ choose-bookmark =
     .label = Defnyddio Nod Tudalen…
     .accesskey = N
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Cynnwys Cartref Firefox
+home-prefs-content-description = Dewis pa gynnwys rydych eisiau ar eich sgrin Firefox Cartref.
+home-prefs-search-header =
+    .label = Chwilio'r We
+home-prefs-topsites-header =
+    .label = Hoff Wefannau
+home-prefs-topsites-description = Y gwefannau rydych yn ymweld â nhw amlaf
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Argymhellwyd gan { $provider }
+home-prefs-highlights-header =
+    .label = Goreuon
+home-prefs-highlights-description = Detholiad o wefannau rydych wedi eu cadw neu ymweld â nhw
+home-prefs-highlights-options-bookmarks =
+    .label = Nodau Tudalen
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Tameidiau
+home-prefs-snippets-description = Diweddariadau gan { -vendor-short-name } a { -brand-product-name }
+
 ## Search Section
 
 search-bar-header = Bar Chwilio
@@ -684,7 +705,6 @@ addressbar-suggestions-settings = Newid dewisiadau am awgrymiadau peiriannau chw
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Rhwystro Cynnwys
-content-blocking-description = Rhwystro cynnwys trydydd parti sy'n eich dilyn o amgylch y we. Rheolwch faint o'ch gweithgaredd ar-lein sy'n cael ei storio a'i rannu rhwng gwefannau.
 content-blocking-section-description = Diogelwch eich preifatrwydd wrth bori. Rhwystrwch gynnwys cudd sy'n tracio'r gwefannau fyddwch chi'n ymweld â nhw ac sy'n creu proffil ohonoch chi. Gall rwystro peth o'r cynnwys hwn wneud i dudalennau lwytho'n gynt.
 content-blocking-learn-more = Dysgu Rhagor
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -698,9 +718,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Cyfaddasu
     .accesskey = C
-content-blocking-standard-description = Dim ond rhwystro tracwyr hysbys mewn Ffenestri Preifat.
 content-blocking-standard-desc = Cymantoledd rhwng diogelwch a pherfformiad. Yn caniatáu rhai tracwyr fel bod gwefannau'n gweithio'n iawn.
-content-blocking-strict-desc = Rhwystro pob traciwr mae { -brand-short-name } yn eu canfod. Gall achosi rhai gwefannau i dorri.
 content-blocking-strict-description = Gall amddiffyniad cryfach beri i rai safleoedd dorri.
 content-blocking-custom-desc = Dewis beth i'w rhwystro.
 content-blocking-private-trackers = Tracwyr hysbys mewn Ffenestri Preifat yn unig.
