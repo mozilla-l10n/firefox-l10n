@@ -380,7 +380,21 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Tuktok na mga Site
 home-prefs-topsites-description = Ang mga site na iyong pinupuntahan
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Inirekomenda ni { $provider }
+home-prefs-highlights-header =
+    .label = Mga highlight
 home-prefs-highlights-description = Ang isang seleksyon ng mga site na iyong nai-save o binisita
+home-prefs-highlights-options-bookmarks =
+    .label = Mga bookmark
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Mga snippet
 home-prefs-snippets-description = Mga Update mula sa { -vendor-short-name } at { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
