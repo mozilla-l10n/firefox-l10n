@@ -27,11 +27,6 @@ search-input-box =
             [windows] Գտնել Ընտրանքներում
            *[other] Գտնել Կարգավորումներում
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Ձեր կազմակերպությունը անջատել է որոշ ընտրանքներ փոխելու հնարավորությունը:
-       *[other] Ձեր կազմակերպությունը անջատել է որոշ կարգավորումներ փոխելու հնարավորությունը:
-    }
 pane-general-title = Ընդհանուր
 category-general =
     .tooltiptext = { pane-general-title }
@@ -44,10 +39,6 @@ category-search =
 pane-privacy-title = Գաղտնիություն և անվտանգություն
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox-ի Հաշիվ
-category-sync =
-    .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name }-ի աջակցում
 addons-button-label = Ընդլայնումներ և Ոճեր
 focus-search =
@@ -358,6 +349,9 @@ choose-bookmark =
     .label = Օգտագործել էջանիշ...
     .accesskey = է
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-bar-header = Որոնման գոտի
@@ -500,8 +494,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Պահպանել
     .accesskey = պ
-sync-mobilepromo-single = Կապակցել այլ սարքի
-sync-mobilepromo-multi = Կառավարել սարքերը
 sync-manage-devices = Կառավարել սարքերը
 sync-fxa-begin-pairing = Կցել սարք
 sync-tos-link = Ծառայության պայմանները
