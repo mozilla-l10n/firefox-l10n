@@ -406,10 +406,19 @@ home-prefs-topsites-header =
 home-prefs-recommended-by-header =
     .label = Preporučeno od { $provider }
 home-prefs-recommended-by-description = Vrhunski sadržaj iz svih krajeva interneta, presonaliziran za vas
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Sponzorirane priče
 home-prefs-highlights-header =
     .label = Istaknuto
+home-prefs-highlights-description = Izbor stranica koje ste spremili ili posjetili
+home-prefs-highlights-option-visited-pages =
+    .label = Posjećene stranice
 home-prefs-highlights-options-bookmarks =
     .label = Zabilješke
+home-prefs-highlights-option-most-recent-download =
+    .label = Najnovije preuzimanje
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Stranice spremljene u { -pocket-brand-name }
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
