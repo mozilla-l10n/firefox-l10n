@@ -29,11 +29,6 @@ search-input-box =
             [windows] Keresés a beállításokban
            *[other] Keresés a beállításokban
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] A szervezete letiltotta egyes beállítások módosítását.
-       *[other] A szervezete letiltotta egyes beállítások módosítását.
-    }
 managed-notice = A böngészőjét a szervezete kezeli.
 pane-general-title = Általános
 category-general =
@@ -398,6 +393,49 @@ choose-bookmark =
     .label = Könyvjelző használata…
     .accesskey = n
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Firefox kezdőlap tartalma
+home-prefs-content-description = Válassza ki milyen tartalmat szeretne a Firefox kezdőlapon.
+home-prefs-content-discovery-description = A Firefox kezdőlapon lévő tartalomfelfedezéssel kiváló minőségű, releváns cikkeket találhat szerte a weben.
+home-prefs-search-header =
+    .label = Webes keresés
+home-prefs-topsites-header =
+    .label = Népszerű oldalak
+home-prefs-topsites-description = A leggyakrabban látogatott oldalak
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = A(z) { $provider } ajánlásával
+home-prefs-recommended-by-description = Nagyszerű tartalom szerte a webről, személyre szabva
+home-prefs-recommended-by-learn-more = Hogyan működik
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Szponzorált történetek
+home-prefs-highlights-header =
+    .label = Kiemelések
+home-prefs-highlights-description = Válogatás azon oldalakból, amelyeket elmentett vagy felkeresett
+home-prefs-highlights-option-visited-pages =
+    .label = Látogatott oldalak
+home-prefs-highlights-options-bookmarks =
+    .label = Könyvjelzők
+home-prefs-highlights-option-most-recent-download =
+    .label = Legutóbbi letöltés
+home-prefs-highlights-option-saved-to-pocket =
+    .label = { -pocket-brand-name }be mentett lapok
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Töredékek
+home-prefs-snippets-description = Hírek a Mozilláról és a { -brand-product-name }ról
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } sor
+           *[other] { $num } sor
+        }
+
 ## Search Section
 
 search-bar-header = Keresősáv
@@ -672,7 +710,6 @@ addressbar-suggestions-settings = Keresőszolgáltatás-javaslatok beállítása
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Tartalomblokkolás
-content-blocking-description = A harmadik féltől származó tartalmak blokkolása, melyek követik a weben. Irányítsa, hogy az online tevékenysége mekkora része legyen tárolva és megosztva a webhelyek közt.
 content-blocking-section-description = Védje meg a magánszféráját böngészés közben. Blokkolja a láthatatlan tartalmakat, melyek követik, hogy mely oldalakat látogat, és profilt építenek Önről. Egyes tartalmak blokkolása a weboldalak gyorsabb betöltését is eredményezheti.
 content-blocking-learn-more = További tudnivalók
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -686,9 +723,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Egyéni
     .accesskey = E
-content-blocking-standard-description = Csak az ismert követők blokkolása a privát ablakokban.
 content-blocking-standard-desc = Kiegyensúlyozott védelem és teljesítmény. Engedélyez néhány követőt, hogy a webhelyek megfelelően működjenek.
-content-blocking-strict-desc = A { -brand-short-name } blokkolja az összes észlelt követőt. Egyes webhelyek lehet, hogy nem fognak megfelelően működni.
 content-blocking-strict-description = Erősebb védelem, emiatt egyes weboldalak nem fognak megfelelően működni.
 content-blocking-custom-desc = Válassza ki, mit akar blokkolni.
 content-blocking-private-trackers = Ismert követők csak privát ablakokban
