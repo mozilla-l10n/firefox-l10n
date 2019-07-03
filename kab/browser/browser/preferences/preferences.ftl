@@ -29,11 +29,6 @@ search-input-box =
             [windows] Af deg iɣewwaṛen
            *[other] Af deg ismenyifen
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Tuddsa-ik tessens tazmert n ubeddel n kra n iɣewwaṛen.
-       *[other] Tuddsa-ik tessens tazmert n ubeddel n kra n ismenyifen.
-    }
 managed-notice = Iminig-ik tessefrak-it tuddsa-ik.
 pane-general-title = Amatu
 category-general =
@@ -398,6 +393,15 @@ choose-bookmark =
     .label = Ticraḍ n isebtar…
     .accesskey = T
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-topsites-header =
+    .label = Ismal ifazen
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Iwelleh-it-id { $provider }
+
 ## Search Section
 
 search-bar-header = Afeggag n unadi
@@ -672,7 +676,6 @@ addressbar-suggestions-settings = Snifel ismenyifen i yisumar n umsedday n unadi
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Asewḥel n ugbur
-content-blocking-description = Sewḥel Agbur n tɣawsiwin tis kraḍ i k-yeṭṭafaren di web. Senqed acḥal seg urmud-ik di web i yettwakelsen u yettwabḍan gar ismal.
 content-blocking-section-description = Mmesten tabaḍnit-ik deg tunigin. Sewḥel igburen ur d-yettbanen ara, i k-yeṭṭafaṛen seg usmel ɣer wayeḍ daɣen ttwalin amaɣnu-ik. Sewḥel aḥric n yigburen-a i zemren ad sɣiwlen asali n yisebtar.
 content-blocking-learn-more = Issin ugar
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -686,9 +689,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Udmawan
     .accesskey = d
-content-blocking-standard-description = Issewḥal kan ineḍfaren yettwasnen deg isfuyla usligen.
 content-blocking-standard-desc = Iseggem i ummesten akked tmellit. Isirig kra n ineḍfaren akken ismal web ad ddun akken iwata.
-content-blocking-strict-desc = Isewḥal akk ineḍfaren id-yettaf { -brand-short-name }. Kra n yesmal zemren ad ḥebsen.
 content-blocking-strict-description = Ammesten iǧehden, maca yezmer ad isewḥel kra n yismal ur teddun ara akken iwata.
 content-blocking-custom-desc = Fren ayen ara tesweḥleḍ.
 content-blocking-private-trackers = Ineḍfaren yettwasnen deg usfaylu uslig kan
