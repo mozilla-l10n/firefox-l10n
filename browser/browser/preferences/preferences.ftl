@@ -398,14 +398,20 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Firefox početni sadržaj
+home-prefs-content-description = Odaberite koji sadržaj želite na vašoj Firefox početnoj stranici.
 home-prefs-content-discovery-description = Otkrivanje sadržaja u Firefox početnoj stranici pomaže vam u otkrivanju visoko kvalitenih, relevantnih članaka diljem interneta.
+home-prefs-search-header =
+    .label = Web pretraživanje
 home-prefs-topsites-header =
     .label = Najbolje stranice
+home-prefs-topsites-description = Stranice koje najviše posjećujete
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Preporučeno od { $provider }
 home-prefs-recommended-by-description = Vrhunski sadržaj iz svih krajeva interneta, presonaliziran za vas
+home-prefs-recommended-by-learn-more = Kako ovo funkcionira
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponzorirane priče
 home-prefs-highlights-header =
@@ -425,6 +431,14 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Isječci
+home-prefs-snippets-description = Ažuriranja od Mozille i { -brand-product-name }a
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } red
+            [few] { $num } reda
+           *[other] { $num } reda
+        }
 
 ## Search Section
 
