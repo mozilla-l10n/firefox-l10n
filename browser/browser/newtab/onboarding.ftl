@@ -89,8 +89,14 @@ onboarding-send-tabs-title = Kendinize sekme gönderin
 # tab's context menu.
 onboarding-send-tabs-text = Sekme Gönder özelliğiyle, kopyala-yapıştır yapmadan ve tarayıcınızdan ayrılmadan cihazlarınızdan arasında anında sekme paylaşabilirsiniz.
 onboarding-send-tabs-button = Sekme Gönder’i kullanma başla
+onboarding-pocket-anywhere-title = Her yerde okuyun ve dinleyin
+onboarding-pocket-anywhere-text2 = Beğendiğiniz içerikleri { -pocket-brand-name } uygulamasına çevrimdışı kaydedin; sonra internetiniz yokken bile onları okuyun, dinleyin ve izleyin.
+onboarding-pocket-anywhere-button = { -pocket-brand-name }’ı deneyin
+onboarding-lockwise-passwords-title = Parolalarınızı yanınızda taşıyın
+onboarding-lockwise-passwords-text2 = { -lockwise-brand-name } ile parolalarınızı güvenle kaydedip saklayın, hesaplarınıza kolayca giriş yapın.
 onboarding-lockwise-passwords-button2 = Uygulamayı indir
 onboarding-facebook-container-title = Facebook’un sınırlarını belirleyin
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } profilinizi diğer sitelerden ayrı tutar, böylece Facebook’ reklamlarının sizi hedeflemesini zorlaştırır.
 onboarding-facebook-container-button = Eklentiyi yükle
 
 ## Message strings belonging to the Return to AMO flow
