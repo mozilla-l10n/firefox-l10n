@@ -16,10 +16,6 @@ category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Сметка за Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 help-button-label = Поддршка за { -brand-short-name }
 focus-search =
     .key = f
@@ -171,6 +167,25 @@ choose-bookmark =
     .label = Користи обележувач...
     .accesskey = б
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-topsites-header =
+    .label = Популарни мрежни места
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Препорачано од { $provider }
+home-prefs-highlights-header =
+    .label = Интереси
+home-prefs-highlights-options-bookmarks =
+    .label = Обележувачи
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Исечоци
+
 ## Search Section
 
 search-engine-default-header = Основен пребарувач
@@ -273,9 +288,6 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-cookies-exceptions =
-    .label = Исклучоци…
-    .accesskey = И
 
 ## Privacy Section - Address Bar
 
