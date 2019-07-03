@@ -4,8 +4,6 @@
 
 do-not-track-description = Web stranicama šalji “Ne prati” signal da ne želite biti praćeni
 do-not-track-learn-more = Saznajte više
-do-not-track-option-default =
-    .label = Samo kada koristim Zaštitu od praćenja
 do-not-track-option-always =
     .label = Uvijek
 pref-page =
@@ -29,11 +27,6 @@ search-input-box =
             [windows] Pronađi u Opcijama
            *[other] Pronađi u Postavkama
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Vaša organizacija je onemogućila mogućnost promjene nekih opcija.
-       *[other] Vaša organizacija je onemogućila mogućnost promjene nekih postavki.
-    }
 pane-general-title = Opće
 category-general =
     .tooltiptext = { pane-general-title }
@@ -43,10 +36,6 @@ category-search =
 pane-privacy-title = Privatnost & sigurnost
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox račun
-category-sync =
-    .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } podrška
 focus-search =
     .key = f
@@ -83,9 +72,6 @@ extension-controlled-default-search = Ekstenzija, <img data-l10n-name="icon"/> {
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Ekstenzija, <img data-l10n-name="icon"/> { $name }, zahtijeva Container tabove.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Proširenje, <img data-l10n-name="icon"/> { $name }, kontroliše zaštitu od praćenja.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Ekstenzija, <img data-l10n-name="icon"/> { $name }, upravlja kako se { -brand-short-name } konektuje na internet.
@@ -346,6 +332,15 @@ choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = b
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-topsites-header =
+    .label = Najposjećenije stranice
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Preporučeno od { $provider }
+
 ## Search Section
 
 search-bar-header = Traka za pretragu
@@ -488,8 +483,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Spasi
     .accesskey = s
-sync-mobilepromo-single = Povežite drugi uređaj
-sync-mobilepromo-multi = Upravljajte uređajima
 sync-tos-link = Uslovi korištenja
 sync-fxa-privacy-notice = Polica privatnosti
 
@@ -499,7 +492,6 @@ privacy-header = Privatnost browsera
 
 ## Privacy Section - Forms
 
-forms-header = Forme & lozinke
 forms-ask-to-save-logins =
     .label = Pitaj za pamćenje prijava i lozinki za web stranice
     .accesskey = r
@@ -562,17 +554,12 @@ sitedata-total-size-calculating = Računam veličinu podataka web stranica i ke�
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Vaši pohranjeni kolačići, podaci o stranicama i keš trenutno zauzimaju { $value } { $unit } prostora na disku.
 sitedata-learn-more = Saznajte više
-sitedata-keep-until = Čuvaj do
-    .accesskey = u
 sitedata-clear =
     .label = Obriši podatke…
     .accesskey = i
 sitedata-settings =
     .label = Upravljanje podacima…
     .accesskey = m
-sitedata-cookies-exceptions =
-    .label = Izuzeci…
-    .accesskey = I
 
 ## Privacy Section - Address Bar
 
@@ -594,24 +581,6 @@ addressbar-suggestions-settings = Promijenite postavke prijedloga pretraživača
 
 ## Privacy Section - Tracking
 
-tracking-header = Zaštita od praćenja
-tracking-desc = Zaštita od praćenja blokira online tragače koji prikupljaju vaše podatke pretraživanja putem više web stranica. <a data-l10n-name="learn-more">Saznajte više o Zaštiti od praćenja i vašoj privatnosti</a>
-tracking-mode-label = Koristi Zaštitu od praćenja radi blokiranja poznatih pratilaca
-tracking-mode-always =
-    .label = Uvijek
-    .accesskey = j
-tracking-mode-private =
-    .label = Samo u privatnim prozorima
-    .accesskey = a
-tracking-mode-never =
-    .label = Nikad
-    .accesskey = N
-tracking-exceptions =
-    .label = Izuzeci…
-    .accesskey = I
-tracking-change-block-list =
-    .label = Promijeni Blok listu…
-    .accesskey = B
 
 ## Privacy Section - Permissions
 
@@ -668,10 +637,6 @@ collection-studies-link = Prikaži { -brand-short-name } studije
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Izvještaji s podacima su onemogućeni za ovu konfiguraciju
-collection-browser-errors =
-    .label = Dopusti da { -brand-short-name } šalje izvještaje Mozilli o greškama web browsera (uključujući i poruke o greškama)
-    .accesskey = b
-collection-browser-errors-link = Saznajte više
 collection-backlogged-crash-reports =
     .label = Dozvoli { -brand-short-name }u da šalje pohranjene izvještaje o rušenju u vaše ime
     .accesskey = š
