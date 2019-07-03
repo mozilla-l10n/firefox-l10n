@@ -1,13 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
-# License: v. 2.0. If a copy of the MPL was not distributed with this
+# License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Send websteder signalet 'Spor mig ikke' ('Do not track') for at fortælle, at du ikke vil spores
 do-not-track-learn-more = Læs mere
-do-not-track-option-default =
-    .label = Kun når jeg bruger beskyttelse mod sporing
-do-not-track-option-default-content-blocking =
-    .label = Kun når { -brand-short-name } er indstillet til at blokere fundne sporings-elementer
 do-not-track-option-default-content-blocking-known =
     .label = Kun når { -brand-short-name } er indstillet til at blokere kendte sporings-elementer
 do-not-track-option-always =
@@ -33,14 +29,7 @@ search-input-box =
             [windows] Søg i indstillinger
            *[other] Søg i indstillinger
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Din organisation har deaktiveret muligheden for at ændre visse indstillinger.
-       *[other] Din organisation har deaktiveret muligheden for at ændre visse indstillinger.
-    }
-
 managed-notice = Din browser bliver forvaltet af din organisation.
-
 pane-general-title = Generelt
 category-general =
     .tooltiptext = { pane-general-title }
@@ -53,15 +42,9 @@ category-search =
 pane-privacy-title = Privatliv & sikkerhed
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox-konto
-category-sync =
-    .tooltiptext = { pane-sync-title }
-
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
-
 help-button-label = Hjælp til { -brand-short-name }
 addons-button-label = Udvidelser og temaer
 focus-search =
@@ -103,9 +86,6 @@ extension-controlled-default-search = Udvidelsen <img data-l10n-name="icon"/> { 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Udvidelsen <img data-l10n-name="icon"/> { $name } kræver, at kontekst-faneblade er slået til.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Udvidelsen <img data-l10n-name="icon"/> { $name } kontrollerer beskyttelse mod sporing.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Udvidelsen <img data-l10n-name="icon"/> { $name } kontrollerer denne indstilling.
@@ -151,10 +131,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Gendan forrige session
     .accesskey = G
-
 startup-restore-warn-on-quit =
     .label = Advar mig, når jeg lukker browseren
-
 disable-extension =
     .label = Deaktiver udvidelse
 tabs-group-header = Faneblade
@@ -167,11 +145,6 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Advar mig, når jeg lukker flere faneblade
     .accesskey = l
-
-warn-on-quit-close-multiple-tabs =
-    .label = Advar mig, når jeg afslutter og lukker flere faneblade
-    .accesskey = a
-
 warn-on-open-many-tabs =
     .label = Advar mig, hvis jeg åbner flere faneblade, som kan gøre { -brand-short-name } langsommere
     .accesskey = å
@@ -301,37 +274,28 @@ update-application-check-choose =
 update-application-manual =
     .label = aldrig søge efter opdateringer (frarådes)
     .accesskey = N
-
 update-application-warning-cross-user-setting = Denne indstilling vil gælde alle Windows-konti og { -brand-short-name }-profiler, der anvender denne { -brand-short-name }-installation.
-
 update-application-use-service =
     .label = bruge en baggrundsservice til at installere opdateringer
     .accesskey = b
 update-enable-search-update =
     .label = opdatere søgetjenester automatisk
     .accesskey = g
-
 update-pref-write-failure-title = Fejl med at gemme
-
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Kunne ikke gemme indstillingen. Kunne ikke skrive til filen: { $path }
-
 update-setting-write-failure-title = Kunne ikke gemme indstillinger for opdatering
-
 # Variables:
 #   $path (String) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
     { -brand-short-name } stødte på en fejl og gemte ikke ændringen. Bemærk, at for at kunne gemme ændringer, skal der være tilladelse til at skrive til den nedennævnte fil. Du eller en systemadministrator kan måske løse problemet ved at give gruppen Users fuld kontrol over filen.
-
+    
     Kunne ikke skrive til filen: { $path }
-
 update-in-progress-title = Opdatering…
-
 update-in-progress-message = Skal { -brand-short-name } fortsætte med denne opdatering?
-
 update-in-progress-ok-button = &Annuller
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -378,11 +342,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Anbefal udvidelser mens jeg browser
     .accesskey = u
-
 browsing-cfr-features =
     .label = Anbefal funktioner mens jeg browser
     .accesskey = f
-
 browsing-cfr-recommendations-learn-more = Læs mere
 
 ## General Section - Proxy
@@ -430,6 +392,32 @@ use-current-pages =
 choose-bookmark =
     .label = Anvend bogmærke…
     .accesskey = b
+
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Indhold på Firefox' startside
+home-prefs-content-description = Vælg det indhold, du vil have vist på din startside i Firefox.
+home-prefs-search-header =
+    .label = Søgning på internettet
+home-prefs-topsites-header =
+    .label = Mest besøgte websider
+home-prefs-topsites-description = Mest besøgte websider
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Sponsorerede historier
+home-prefs-highlights-description = Et afsnit med sider, du har gemt eller besøgt
+home-prefs-highlights-option-visited-pages =
+    .label = Besøgte sider
+home-prefs-highlights-option-most-recent-download =
+    .label = Seneste filhentninger
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Sider gemt til { -pocket-brand-name }
+home-prefs-snippets-description = Nyheder fra { -vendor-short-name } og { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } række
+           *[other] { $num } rækker
+        }
 
 ## Search Section
 
@@ -573,15 +561,9 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Gem
     .accesskey = G
-sync-mobilepromo-single = Opret forbindelse til en ny enhed
-sync-mobilepromo-multi = Håndter enheder
-
 sync-connect-another-device = Opret forbindelse til en ny enhed
-
 sync-manage-devices = Håndter enheder
-
 sync-fxa-begin-pairing = Tilføj enhed
-
 sync-tos-link = Tjenestevilkår
 sync-fxa-privacy-notice = Privatlivspolitik
 
@@ -591,7 +573,6 @@ privacy-header = Beskyttelse af privatliv
 
 ## Privacy Section - Forms
 
-forms-header = Formularer og adgangskoder
 logins-header = Logins og adgangskoder
 forms-ask-to-save-logins =
     .label = Spørg om at gemme logins og adgangskoder til websteder
@@ -599,6 +580,9 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = Undtagelser…
     .accesskey = U
+forms-generate-passwords =
+    .label = Hjælp med at lave stærke adgangskoder
+    .accesskey = a
 forms-saved-logins =
     .label = Gemte logins…
     .accesskey = G
@@ -659,19 +643,10 @@ sitedata-total-size-calculating = Udregner størrelse på cache og websteds-data
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Dine gemte cookies, websteds-data og cache bruger lige nu { $value } { $unit } diskplads.
 sitedata-learn-more = Læs mere
-sitedata-keep-until = Behold indtil
-    .accesskey = e
-sitedata-keep-until-expire =
-    .label = De udløber
-
 sitedata-delete-on-close =
     .label = Slet cookies og websteds-data, når { -brand-short-name } lukkes
     .accesskey = l
-
 sitedata-delete-on-close-private-browsing = I permanent privat browsing-tilstand bliver cookies og webstedsdata altid slettet, når { -brand-short-name } afsluttes.
-
-sitedata-keep-until-closed =
-    .label = Jeg lukker { -brand-short-name }
 sitedata-allow-cookies-option =
     .label = Accepter cookies og websteds-data
     .accesskey = A
@@ -682,15 +657,13 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Type blokeret
     .accesskey = T
-sitedata-block-trackers-option-recommended =
-    .label = Tredjeparts sporings-tjenester (anbefalet)
-sitedata-block-trackers-option =
+sitedata-option-block-trackers =
     .label = Tredjeparts sporings-tjenester
-sitedata-block-unvisited-option =
+sitedata-option-block-unvisited =
     .label = Cookies fra ikke-besøgte websteder
-sitedata-block-all-third-party-option =
+sitedata-option-block-all-third-party =
     .label = Alle tredjeparts-cookies (kan forhindre websteder i at fungere)
-sitedata-block-all-option =
+sitedata-option-block-all =
     .label = Alle cookies (vil forhindre websteder i at fungere)
 sitedata-clear =
     .label = Ryd data…
@@ -698,17 +671,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Håndter data…
     .accesskey = H
-sitedata-cookies-exceptions =
-    .label = Undtagelser…
-    .accesskey = U
-forms-generate-passwords =
-    .label = Hjælp med at lave stærke adgangskoder
-    .accesskey = a
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Dine indstillinger for Blokering af indhold forhindrer, at indstillinger for cookies og webstedsdata ændres.
-
 sitedata-cookies-permissions =
     .label = Håndter tilladelser…
     .accesskey = t
@@ -731,166 +693,61 @@ addressbar-suggestions-settings = Skift indstillinger for søgeforslag
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blokering af indhold
-
 content-blocking-section-description = Beskyt dit privatliv på nettet. Bloker usynligt indhold, der sporer besøgte websteder, og som opretter profiler ud fra din adfærd. Ved at blokere noget af dette indhold kan sider indlæses hurtigere.
-
-content-blocking-desc = Bloker indhold fra tredjepart, fx reklamer eller kode, der kan gøre din browsing langsommere og som kan spore dig rundt på nettet. Tilpas dine indstillinger for at få den bedste balance mellem beskyttelse og ydelse.
-
-content-blocking-description = Bloker tredjeparts-indhold, der sporer dig rundt på nettet. Kontroller hvor meget af din aktivitet på nettet, der gemmes og deles mellem websteder.
-
 content-blocking-learn-more = Læs mere
-
-content-blocking-reload-description = Du skal genindlæse dine faneblade, før ændringerne slår igennem.
-content-blocking-reload-tabs-button =
-  .label = Genindlæs alle faneblade
-  .accesskey = G
-
-content-blocking-restore-defaults =
-    .label = Gendan standard
-    .accesskey = G
-content-blocking-toggle-on =
-    .tooltiptext = Slå blokering af indhold fra
-content-blocking-toggle-off =
-    .tooltiptext = Slå blokering af indhold til
-content-blocking-toggle-label-on = TIL
-    .accesskey = T
-content-blocking-toggle-label-off = FRA
-    .accesskey = F
-content-blocking-category-label = Vælg hvad der skal blokeres
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Langsomme sporings-elementer
-    .accesskey = L
-content-blocking-fastblock-new-description = Bloker kun de sporings-elementer, der får sider til at blive indlæst langsommere.
-
 content-blocking-setting-standard =
-  .label = Standard
-  .accesskey = d
+    .label = Standard
+    .accesskey = d
 content-blocking-setting-strict =
-  .label = Striks
-  .accesskey = r
+    .label = Striks
+    .accesskey = r
 content-blocking-setting-custom =
-  .label = Tilpasset
-  .accesskey = T
-
-content-blocking-standard-description = Blokerer kun kendte sporings-tjenester i private vinduer
+    .label = Tilpasset
+    .accesskey = T
 content-blocking-standard-desc = Balanceret mellem beskyttelse og ydelse. Tillader nogle sporings-tjenester for at websteder kan fungere ordentligt.
-content-blocking-strict-desc = Blokerer alle sporings-tjenester, som { -brand-short-name } opdager. Kan forhindre nogle websteder i at fungere.
 content-blocking-strict-description = Bedre bedskyttelse, men kan forhindre nogle websteder i at fungere.
 content-blocking-custom-desc = Vælg selv, hvad der skal blokeres.
-
 content-blocking-private-trackers = Kendte sporings-tjenester kun i private vinduer
 content-blocking-third-party-cookies = Sporings-cookies fra tredjepart
 content-blocking-all-cookies = Alle cookies
 content-blocking-unvisited-cookies = Cookies fra ikke-besøgte websteder
 content-blocking-all-windows-trackers = Kendte sporings-tjenester i alle vinduer
 content-blocking-all-third-party-cookies = Alle tredjeparts-cookies
-
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
-
 content-blocking-warning-title = Vigtigt!
-content-blocking-warning-desc = Nogen websteder kan holde op med at fungere, når du blokerer cookies og sporings-tjenester. Det er nemt at slå blokering fra for websteder, du stoler på.
 content-blocking-warning-description = Nogen websteder kan holde op med at fungere, når du blokerer indhold. Det er nemt at slå blokering fra for websteder, du stoler på.
 content-blocking-learn-how = Læs hvordan
-
-content-blocking-tracking-protection-trackers-label =
+content-blocking-reload-description = Du skal genindlæse dine faneblade, før ændringerne slår igennem.
+content-blocking-reload-tabs-button =
+    .label = Genindlæs alle faneblade
+    .accesskey = G
+content-blocking-trackers-label =
     .label = Sporings-elementer
     .accesskey = S
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Alle fundne sporings-elementer
-    .accesskey = A
-content-blocking-tracking-protection-new-description = Bloker alle kendte sporings-elementer. (Kan forhindre at visse sider indlæses).
-content-blocking-tracking-protection-option-always =
-    .label = Altid
-    .accesskey = A
-content-blocking-tracking-protection-option-private =
+content-blocking-tracking-protection-option-all-windows =
+    .label = I alle vinduer
+    .accesskey = a
+content-blocking-option-private =
     .label = Kun i private vinduer
     .accesskey = p
-
-content-blocking-trackers-label =
-  .label = Sporings-elementer
-  .accesskey = S
-content-blocking-tracking-protection-option-all-windows =
-  .label = I alle vinduer
-  .accesskey = a
-content-blocking-option-private =
-  .label = Kun i private vinduer
-  .accesskey = p
-
 content-blocking-tracking-protection-change-block-list = Skift blokeringsliste
-
-content-blocking-third-party-cookies-label =
-    .label = Tredjeparts-cookies
-    .accesskey = c
-content-blocking-reject-trackers-description = Bloker alle tredjeparts-cookies eller kun dem sat af sporings-tjenester.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = Dine indstillinger for cookies og webstedsdata forhindrer, at indstillinger for tredjeparts-cookies ændres.
-content-blocking-change-cookie-settings =
-    .label = Skift indstillinger for cookies
-    .accesskey = i
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = Sporings-elementer (anbefalet)
-    .accesskey = p
-content-blocking-reject-trackers-block-trackers-option =
-    .label = Sporings-elementer
-    .accesskey = p
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = Alle tredjeparts-cookies (kan forhindre websteder i at fungere)
-    .accesskey = A
-
-sitedata-option-block-trackers =
-    .label = Tredjeparts sporings-tjenester
-sitedata-option-block-unvisited =
-    .label = Cookies fra ikke-besøgte websteder
-sitedata-option-block-all-third-party =
-    .label = Alle tredjeparts-cookies (kan forhindre websteder i at fungere)
-sitedata-option-block-all =
-    .label = Alle cookies (vil forhindre websteder i at fungere)
-
 content-blocking-cookies-label =
-  .label = Cookies
-  .accesskey = C
-
-content-blocking-expand-section = 
-  .tooltiptext = Mere information
-
+    .label = Cookies
+    .accesskey = C
+content-blocking-expand-section =
+    .tooltiptext = Mere information
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
-  .label = Cryptominers
-  .accesskey = y
-
+    .label = Cryptominers
+    .accesskey = y
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-  .label = Fingerprinters
-  .accesskey = F
+    .label = Fingerprinters
+    .accesskey = F
 
 ## Privacy Section - Tracking
-
-tracking-header = Beskyttelse mod sporing
-tracking-desc = Beskyttelse mod sporing blokerer sporingstjenester på nettet, der indsamler dine browser-data på tværs af websteder. <a data-l10n-name="learn-more">Læs mere om beskyttelse mod sporing og beskyttelse af dit privatliv</a>
-tracking-mode-label = Brug beskyttelse mod sporing for at blokere kendte sporings-tjenester
-tracking-mode-always =
-    .label = Altid
-    .accesskey = A
-tracking-mode-private =
-    .label = Kun i private vinduer
-    .accesskey = p
-tracking-mode-never =
-    .label = Aldrig
-    .accesskey = l
-tracking-exceptions =
-    .label = Undtagelser…
-    .accesskey = u
-tracking-change-block-list =
-    .label = Skift blokeringsliste
-    .accesskey = S
 
 tracking-manage-exceptions =
     .label = Håndter undtagelser…
@@ -919,32 +776,16 @@ permissions-notification-link = Læs mere
 permissions-notification-pause =
     .label = Sæt beskeder på pause, indtil { -brand-short-name } starter igen
     .accesskey = b
-permissions-block-autoplay-media =
-    .label = Lad ikke websteder starte automatisk afspilning af mediefiler med lyd
-    .accesskey = m
-permissions-block-autoplay-media-menu = For websteder, der automatisk afspiller lyd
-
 permissions-block-autoplay-media2 =
     .label = Lad ikke websteder starte automatisk afspilning af lyd
     .accesskey = l
-
 permissions-block-autoplay-media-exceptions =
     .label = Undtagelser…
     .accesskey = U
-
 permissions-autoplay = Automatisk afspilning
-
 permissions-autoplay-settings =
     .label = Indstillinger…
     .accesskey = I
-
-autoplay-option-ask =
-    .label = Spørg altid
-autoplay-option-allow =
-    .label = Tillad automatisk afspilning
-autoplay-option-dont =
-    .label = Afspil ikke automatisk
-permissions-autoplay-link = Læs mere
 permissions-block-popups =
     .label = Bloker pop op-vinduer
     .accesskey = B
@@ -974,18 +815,12 @@ collection-health-report-link = Læs mere
 collection-studies =
     .label = Tillad at { -brand-short-name } installerer og afvikler undersøgelser
 collection-studies-link = Vis { -brand-short-name }-undersøgelser
-
 addon-recommendations =
     .label = Tillad at { -brand-short-name } anbefaler udvidelser specielt udvalgt til dig
 addon-recommendations-link = Læs mere
-
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Data-rapportering er deaktiveret for denne build-konfiguration
-collection-browser-errors =
-    .label = Tillad at { -brand-short-name } sender rapporter om browser-fejl (inklusive fejlmeddelelser) til { -vendor-short-name }
-    .accesskey = b
-collection-browser-errors-link = Læs mere
 collection-backlogged-crash-reports =
     .label = Tillad at { -brand-short-name } sender ophobede fejlrapporter på dine vegne
     .accesskey = o
@@ -1057,7 +892,6 @@ space-alert-under-5gb-message = { -brand-short-name } er ved at løbe tør for d
 desktop-folder-name = Skrivebord
 downloads-folder-name = Hentede filer
 choose-download-folder-title = Gem filer i
-
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
