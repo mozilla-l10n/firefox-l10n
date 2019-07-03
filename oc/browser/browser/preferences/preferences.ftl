@@ -4,10 +4,6 @@
 
 do-not-track-description = Mandar als sites web lo senhal “Me pistar pas” per lor dire que volètz pas èsser pistat
 do-not-track-learn-more = Ne saber mai
-do-not-track-option-default =
-    .label = Sonque en utilizar la proteccion contra lo seguiment
-do-not-track-option-default-content-blocking =
-    .label = Solament quand { -brand-short-name } es configurat per blocar los elements de seguiment detectats
 do-not-track-option-default-content-blocking-known =
     .label = Solament quand { -brand-short-name } es configurat per blocar los traçadors coneguts
 do-not-track-option-always =
@@ -33,11 +29,6 @@ search-input-box =
             [windows] Recercar dins Opcions
            *[other] Recercar dins Preferéncias
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Vòstra organizacion a desactivat la possibilitat de cambiar unas opcions.
-       *[other] Vòstra organizacion a desactivat la possibilitat de cambiar unas preferéncias.
-    }
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -50,10 +41,6 @@ category-search =
 pane-privacy-title = Vida privada e seguretat
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Compte Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 help-button-label = Assisténcia de { -brand-short-name }
 addons-button-label = Extensions e tèmas
 focus-search =
@@ -95,9 +82,6 @@ extension-controlled-default-search = Una extension, <img data-l10n-name="icon"/
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Una extension, <img data-l10n-name="icon"/> { $name }, requerís los onglets isolats.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Una extension, <img data-l10n-name="icon"/> { $name }, contraròtla la proteccion contra lo seguiment.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Una extension, <img data-l10n-name="icon"/> { $name }, contraròtla aqueste paramètre.
@@ -383,6 +367,48 @@ choose-bookmark =
     .label = Favorits…
     .accesskey = s
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Contengut de la pagina d’acuèlh de Firefox
+home-prefs-content-description = Causissètz lo contengut que volètz a la pagina d’acuèlh de Fireofx.
+home-prefs-search-header =
+    .label = Recèrca web
+home-prefs-topsites-header =
+    .label = Sites populars
+home-prefs-topsites-description = Los sites que visitatz mai sovent
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Recomandat per { $provider }
+home-prefs-recommended-by-description = De contengut interessant de tot lo web, personalizat per vos
+home-prefs-recommended-by-learn-more = Cossí fonciona
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Articles pairinejats
+home-prefs-highlights-header =
+    .label = Notables
+home-prefs-highlights-description = Una seleccion de sites qu’avètz enregistrats o visitats
+home-prefs-highlights-option-visited-pages =
+    .label = Paginas visitadas
+home-prefs-highlights-options-bookmarks =
+    .label = Marcapaginas
+home-prefs-highlights-option-most-recent-download =
+    .label = Telecargament mai recent
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Paginas enregistradas dins { -pocket-brand-name }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Extraches
+home-prefs-snippets-description = Actualitat de { -vendor-short-name } e { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } linha
+           *[other] { $num } linhas
+        }
+
 ## Search Section
 
 search-bar-header = Barra de recèrca
@@ -525,8 +551,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Enregistrar
     .accesskey = g
-sync-mobilepromo-single = Connectar un periferic mai
-sync-mobilepromo-multi = Gerir los periferics
 sync-tos-link = Condicions d'utilizacion
 sync-fxa-privacy-notice = Politica de confidencialitat
 
@@ -603,12 +627,6 @@ sitedata-total-size-calculating = Calcul del pès de las donadas dels sites e de
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Los cookies, lo cache e las donadas dels sites utilizan actualament { $value } { $unit } d’espaci disc.
 sitedata-learn-more = Ne saber mai
-sitedata-keep-until = Las conservar fins a
-    .accesskey = f
-sitedata-keep-until-expire =
-    .label = Expiran
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } es tampat
 sitedata-allow-cookies-option =
     .label = Acceptar los cookies e dondas de site
     .accesskey = A
@@ -619,12 +637,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Tipe de contengut blocat
     .accesskey = T
-sitedata-block-trackers-option-recommended =
-    .label = Traçadors tèrces (recomandat)
-sitedata-block-trackers-option =
-    .label = Traçadors tèrces
-sitedata-block-unvisited-option =
-    .label = Cookies dels sites web pas visitats
 sitedata-option-block-trackers =
     .label = Traçadors tèrces
 sitedata-option-block-unvisited =
@@ -639,9 +651,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Gerir las donadas…
     .accesskey = G
-sitedata-cookies-exceptions =
-    .label = Excepcions…
-    .accesskey = E
 sitedata-cookies-permissions =
     .label = Gerir las autorizacions…
     .accesskey = a
@@ -664,35 +673,7 @@ addressbar-suggestions-settings = Cambiar las preferéncias per las suggestions 
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blocatge de contengut
-content-blocking-desc = Blocatz de contengut tèrces, tal coma de còdis o de reclamas, que pòdon alentir vòstre navegacion e vos pistar sul Web. Configuratz los paramètres segon vòstra volontat entre proteccion e performancia.
 content-blocking-learn-more = Ne saber mai
-content-blocking-restore-defaults =
-    .label = Restablir las valors per defaut
-    .accesskey = R
-content-blocking-toggle-on =
-    .tooltiptext = Desactivar lo blocatge de contengut
-content-blocking-toggle-off =
-    .tooltiptext = Activar lo blocatge de contengut
-content-blocking-toggle-label-on = ACTIU
-    .accesskey = A
-content-blocking-toggle-label-off = INACTIU
-    .accesskey = I
-content-blocking-category-label = Seleccionar lo contengut de blocar
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Traçadors lents
-    .accesskey = T
-content-blocking-tracking-protection-trackers-label =
-    .label = Traçadors
-    .accesskey = T
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Totes los traçadors detectats
-    .accesskey = T
-content-blocking-tracking-protection-option-always =
-    .label = Totjorn
-    .accesskey = T
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -718,45 +699,12 @@ content-blocking-option-private =
     .label = Soque las fenèstras privadas
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = Cambiar la lista de blocatge
-content-blocking-third-party-cookies-label =
-    .label = Cookies tèrces
-    .accesskey = C
-content-blocking-change-cookie-settings =
-    .label = Cambiar los paramètres de cookies
-    .accesskey = C
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = Traçadors (recomandat)
-    .accesskey = d
-content-blocking-reject-trackers-block-trackers-option =
-    .label = Traçadors
-    .accesskey = d
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = Totes los cookies tèrces (unes sites pòdon quitar de foncionar)
-    .accesskey = T
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
 
 ## Privacy Section - Tracking
 
-tracking-header = Proteccion contra lo seguiment
-tracking-desc = La proteccion contra lo seguiment bloca los traçadors en linha que collectan vòstras donadas de navegacion a partir de mantun sites web. <a data-l10n-name="learn-more">Ne saber mai sus la proteccion contra lo seguiment e la proteccion de vòstra privacitat</a>
-tracking-mode-label = Utilizar la proteccion contra lo seguiment per blocar los traçadors coneguts
-tracking-mode-always =
-    .label = Totjorn
-    .accesskey = T
-tracking-mode-private =
-    .label = Sonque las fenèstras privadas
-    .accesskey = q
-tracking-mode-never =
-    .label = Jamai
-    .accesskey = j
-tracking-exceptions =
-    .label = Excepcions…
-    .accesskey = E
-tracking-change-block-list =
-    .label = Cambiar la lista de blocatge…
-    .accesskey = C
 tracking-manage-exceptions =
     .label = Gerir las excepcions…
     .accesskey = x
@@ -784,20 +732,9 @@ permissions-notification-link = Ne saber mai
 permissions-notification-pause =
     .label = Pausar las notificacions fins que { -brand-short-name } reavie
     .accesskey = n
-permissions-block-autoplay-media =
-    .label = Empachar los sites de lançar de mèdias amb lo son
-    .accesskey = E
-permissions-block-autoplay-media-menu = Pels sites que lançan automaticament de son
 permissions-block-autoplay-media-exceptions =
     .label = Excepcions…
     .accesskey = E
-autoplay-option-ask =
-    .label = Totjorn demandar
-autoplay-option-allow =
-    .label = Autorizar la lectura automatica
-autoplay-option-dont =
-    .label = Defendre la lectura automatica
-permissions-autoplay-link = Ne saber mai
 permissions-block-popups =
     .label = Blocar las fenèstras sorgissentas
     .accesskey = B
@@ -833,10 +770,6 @@ addon-recommendations-link = Ne saber mai
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Lo rapòrt de donadas es desactivat per aquela configuracion de compilacion
-collection-browser-errors =
-    .label = Autorizar { -brand-short-name } a enviar los rapòrts d’error (inclús los messatges d’error) del navegador a { -vendor-short-name }
-    .accesskey = u
-collection-browser-errors-link = Ne saber mai
 collection-backlogged-crash-reports =
     .label = Permetre a { -brand-short-name } d’enviar los rapòrts de bugs en espèra
     .accesskey = P
