@@ -397,6 +397,7 @@ choose-bookmark =
 
 home-prefs-content-header = Indhold på Firefox' startside
 home-prefs-content-description = Vælg det indhold, du vil have vist på din startside i Firefox.
+home-prefs-content-discovery-description = Funktionen Opdag indhold på Firefox' startside viser dig relevante artikler af høj kvalitet fra nettet.
 home-prefs-search-header =
     .label = Søgning på internettet
 home-prefs-topsites-header =
@@ -407,6 +408,7 @@ home-prefs-topsites-description = Mest besøgte websider
 home-prefs-recommended-by-header =
     .label = Anbefalet af { $provider }
 home-prefs-recommended-by-description = Spændende indhold fra nettet, specielt udvalgt til dig
+home-prefs-recommended-by-learn-more = Sådan virker det
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponsorerede historier
 home-prefs-highlights-header =
