@@ -370,6 +370,7 @@ home-prefs-topsites-description = आपण सर्वाधिक भेट �
 home-prefs-recommended-by-header =
     .label = { $provider } तर्फे शिफारस
 home-prefs-recommended-by-description = आपल्यासाठी वैयक्तिकीकृत केलेल्या वेबवरील छान सामग्री
+home-prefs-recommended-by-learn-more = हे कसे कार्य करते
 home-prefs-recommended-by-option-sponsored-stories =
     .label = प्रायोजित कथा
 home-prefs-highlights-header =
