@@ -29,11 +29,6 @@ search-input-box =
             [windows] Rechercher dans les options
            *[other] Rechercher dans les préférences
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Votre organisation a désactivé la possibilité de changer certaines options.
-       *[other] Votre organisation a désactivé la possibilité de changer certaines préférences.
-    }
 managed-notice = Votre navigateur est géré par votre organisation.
 pane-general-title = Général
 category-general =
@@ -398,6 +393,38 @@ choose-bookmark =
     .label = Marque-page…
     .accesskey = m
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Contenu de la page d’accueil de Firefox
+home-prefs-content-description = Choisissez le contenu que vous souhaitez pour la page d’accueil de Firefox.
+home-prefs-search-header =
+    .label = Recherche web
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Recommandations par { $provider }
+home-prefs-recommended-by-description = Du contenu intéressant en provenance du Web, personnalisé pour vous
+home-prefs-recommended-by-learn-more = Mode d’emploi
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Articles sponsorisés
+home-prefs-highlights-header =
+    .label = Éléments-clés
+home-prefs-highlights-option-visited-pages =
+    .label = Pages visitées
+home-prefs-highlights-options-bookmarks =
+    .label = Marque-pages
+home-prefs-highlights-option-most-recent-download =
+    .label = Dernier téléchargement
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Pages enregistrées dans { -pocket-brand-name }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Brèves
+home-prefs-snippets-description = Actualité de { -vendor-short-name } et { -brand-product-name }
+
 ## Search Section
 
 search-bar-header = Barre de recherche
@@ -672,7 +699,6 @@ addressbar-suggestions-settings = Modifier les préférences pour les suggestion
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blocage de contenu
-content-blocking-description = Bloquez les contenus tiers qui vous pistent sur le Web. Contrôlez le niveau d’activité en ligne qui est enregistrée et partagée avec des sites web.
 content-blocking-section-description = Protégez votre vie privée pendant votre navigation. Bloquez les contenus invisibles qui vous pistent de site en site et dressent votre profil. Bloquer une partie de ces contenus peut accélérer le chargement des pages.
 content-blocking-learn-more = En savoir plus
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -686,9 +712,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Personnalisé
     .accesskey = P
-content-blocking-standard-description = Bloque uniquement les traqueurs connus dans les fenêtres de navigation privée.
 content-blocking-standard-desc = Équilibré entre protection et performances. Autorise quelques traqueurs pour que les sites web fonctionnent correctement.
-content-blocking-strict-desc = Bloque tous les traqueurs détectés par { -brand-short-name }. Peut provoquer le dysfonctionnement de certains sites.
 content-blocking-strict-description = Une protection renforcée, mais qui peut empêcher certains sites de fonctionner correctement.
 content-blocking-custom-desc = Choisissez ce que vous souhaitez bloquer.
 content-blocking-private-trackers = Les traqueurs connus dans les fenêtres de navigation privée seulement
