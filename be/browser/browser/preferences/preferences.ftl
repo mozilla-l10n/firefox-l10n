@@ -398,22 +398,47 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Хатні экран Firefox
+home-prefs-content-description = Выберыце пажаданае змесціва для хатняга экрана Firefox.
+home-prefs-content-discovery-description = Выяўленне змесціва на хатняй старонцы Firefox дазволіць вам знаходзіць высакаякасныя рэлевантныя артыкулы з усяго сеціва.
+home-prefs-search-header =
+    .label = Пошук у сеціве
 home-prefs-topsites-header =
     .label = Папулярныя сайты
+home-prefs-topsites-description = Сайты, якія вы наведваеце найчасцей
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Рэкамендавана { $provider }
+home-prefs-recommended-by-description = Выдатнае змесціва з усяго інтэрнэту, выбранае спецыяльна для вас
+home-prefs-recommended-by-learn-more = Як гэта працуе
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Артыкулы ад спонсараў
 home-prefs-highlights-header =
     .label = Выбранае
+home-prefs-highlights-description = Выбраныя сайты, якія вы захавалі ці наведалі
+home-prefs-highlights-option-visited-pages =
+    .label = Наведаныя старонкі
 home-prefs-highlights-options-bookmarks =
     .label = Закладкі
+home-prefs-highlights-option-most-recent-download =
+    .label = Нядаўнія сцягванні
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Захаваныя ў { -pocket-brand-name } старонкі
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Урыўкі
+home-prefs-snippets-description = Абнаўленні ад { -vendor-short-name } і { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } радок
+            [few] { $num } радкі
+           *[many] { $num } радкоў
+        }
 
 ## Search Section
 
