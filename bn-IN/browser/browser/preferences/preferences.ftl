@@ -4,10 +4,6 @@
 
 do-not-track-description = যে ওয়েবসাইট থেকে আপনি ট্র্যাক হতে চান না সেগুলোতে “ট্রাক করবে না” সিগন্যাল পাঠান
 do-not-track-learn-more = আরও জানুন
-do-not-track-option-default =
-    .label = যখন শুধুমাত্র ট্র্যাকিং সুরক্ষার সঙ্গে
-do-not-track-option-default-content-blocking =
-    .label = শুধুমাত্র যখন { -brand-short-name } সনাক্ত করা ট্র্যাকারগুলিকে ব্লক করতে সেট করা হয়
 do-not-track-option-default-content-blocking-known =
     .label = শুধুমাত্র যখন { -brand-short-name } পরিচিত ট্র্যাকারগুলিকে ব্লক করার জন্য সেট করা হয়
 do-not-track-option-always =
@@ -33,11 +29,6 @@ search-input-box =
             [windows] বিকল্পগুলিতে খুঁজে বার করুন
            *[other] প্রেফারেন্সে খুঁজে বার করুন
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] আপনার প্রতিষ্ঠান অপশনের কিছু পরিবর্তনের সক্ষমতা নিষ্ক্রিয় করেছে।
-       *[other] আপনার প্রতিষ্ঠান অপশনের কিছু পরিবর্তনের সক্ষমতা নিষ্ক্রিয় করেছে।
-    }
 pane-general-title = সাধারণ
 category-general =
     .tooltiptext = { pane-general-title }
@@ -50,10 +41,6 @@ category-search =
 pane-privacy-title = গোপনীয়তা & নিরাপত্তা
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox অ্যাকাউন্ট
-category-sync =
-    .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } সহায়তা
 addons-button-label = এক্সটেনশন এবং থিমগুলি
 focus-search =
@@ -95,9 +82,6 @@ extension-controlled-default-search = একটি এক্সটেনশা�
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = এক্সটেনশন <img data-l10n-name="icon"/> { $name } যার কন্টেইনার ট্যাব প্রয়োজন।
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = একটি এক্সটেনশান, <img data-l10n-name="icon"/> { $name }, ট্র্যাকিং সুরক্ষাকে নিয়ন্ত্রণ করছে।
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = একটি এক্সটেনশান, <img data-l10n-name="icon"/> { $name }, এই সেটিংটিকে নিয়ন্ত্রণ করছে।
@@ -386,6 +370,11 @@ choose-bookmark =
     .label = বুকমার্ক প্রয়োগ করা হবে…
     .accesskey = B
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-topsites-header =
+    .label = শীর্ষ সাইট
+
 ## Search Section
 
 search-bar-header = অনুসন্ধান  বার
@@ -528,8 +517,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = সংরক্ষণ করুন
     .accesskey = v
-sync-mobilepromo-single = অন্য ডিভাইস সংযুক্ত করুন
-sync-mobilepromo-multi = ডিভাইসের ব্যবস্থাপনা
 sync-tos-link = পরিসেবার নিয়মাবলী
 sync-fxa-privacy-notice = গোপনীয়তা সংক্রান্ত নীতি
 
@@ -606,12 +593,6 @@ sitedata-total-size-calculating = সাইটের তথ্য এবং ক�
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = আপনার সংরক্ষিত কুকি, সাইটের তথ্য এবং ক্যাশ বর্তমানে ডিস্ক স্পেসের { $value } { $unit } ব্যবহার করছে।
 sitedata-learn-more = আরো শিখুন
-sitedata-keep-until = সংরক্ষণের সময়কাল
-    .accesskey = u
-sitedata-keep-until-expire =
-    .label = তাদের মেয়াদ উত্তীর্ণ হয়
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } বন্ধ হয়ে গেছে
 sitedata-delete-on-close =
     .label = { -brand-short-name } বন্ধ থাকলে কুকি এবং সাইট ডেটা মুছুন
     .accesskey = c
@@ -625,16 +606,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = ধরণ ব্লক করা হয়েছে
     .accesskey = T
-sitedata-block-trackers-option-recommended =
-    .label = তৃতীয় পক্ষের ট্র্যাকারগুলি (প্রস্তাবিত)
-sitedata-block-trackers-option =
-    .label = তৃতীয় পক্ষের ট্র্যাকারগুলি
-sitedata-block-unvisited-option =
-    .label = পরিদর্শন করা নয় এমন ওয়েবসাইটের কুকি
-sitedata-block-all-third-party-option =
-    .label = সমস্ত তৃতীয় পক্ষের কুকি (ওয়েবসাইটকে অচল করতে পারে)
-sitedata-block-all-option =
-    .label = সমস্ত কুকি (ওয়েবসাইটকে অচল করবে)
 sitedata-option-block-trackers =
     .label = তৃতীয় পক্ষের ট্র্যাকারগুলি
 sitedata-clear =
@@ -643,13 +614,6 @@ sitedata-clear =
 sitedata-settings =
     .label = তথ্যের ব্যবস্থাপনা…
     .accesskey = M
-sitedata-cookies-exceptions =
-    .label = ব্যতিক্রম...
-    .accesskey = E
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = সামগ্রী ব্লকিংয়ের আপনার সেটিংস কুকি এবং সাইটের তথ্যের সেটিংসগুলির পরিবর্তনগুলিকে আটকেছে।
 
 ## Privacy Section - Address Bar
 
@@ -669,83 +633,11 @@ addressbar-suggestions-settings = সার্চ ইঞ্জিনের প�
 ## Privacy Section - Content Blocking
 
 content-blocking-header = বিষয়বস্তুর ব্লকিং
-content-blocking-desc = বিজ্ঞাপন অথবা কোডের মত তৃতীয় পক্ষের বিষয়বস্তু ব্লক করুন, যা আপনার ব্রাউজিংকে ধীরগতি সম্পন্ন করে দেয় এবং ওয়েবে আপনাকে ট্র্যাক করতে পারে। সুরক্ষা এবং কর্মক্ষমতা সেরা ব্যালেন্সের জন্য আপনার সেটিংসকে কাস্টমাইজ করুন।
 content-blocking-learn-more = আরো জানুন
-content-blocking-restore-defaults =
-    .label = ডিফল্ট রিস্টোর করুন
-    .accesskey = R
-content-blocking-toggle-on =
-    .tooltiptext = বিষয়বস্তুর ব্লকিং বন্ধ করুন
-content-blocking-toggle-off =
-    .tooltiptext = বিষয়বস্তুর ব্লক করা চালু করুন
-content-blocking-toggle-label-on = চালু করুন
-    .accesskey = O
-content-blocking-toggle-label-off = বন্ধ
-    .accesskey = O
-content-blocking-category-label = কি ব্লক করতে তা চয়ন করুন
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = ধীরে লোড হওয়া ট্র্যাকারগুলি
-    .accesskey = S
-content-blocking-fastblock-new-description = দ্রুত লোড হওয়া থেকে পৃষ্ঠাকে আটকায় এমন ট্র্যাকারগুলিকে ব্লক করুন।
-content-blocking-tracking-protection-trackers-label =
-    .label = ট্র্যাকারগুলি
-    .accesskey = T
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = সমস্ত সনাক্তকারী ট্র্যাকারগুলি
-    .accesskey = T
-content-blocking-tracking-protection-new-description = সব পরিচিত ট্র্যাকারগুলিকে ব্লক করুন। (লোড হতে কিছু পৃষ্ঠা প্রতিরোধ করতে পারে।)
-content-blocking-tracking-protection-option-always =
-    .label = সর্বদা
-    .accesskey = A
-content-blocking-tracking-protection-option-private =
-    .label = শুধুমাত্র ব্যাক্তিগত উইন্ডোতে
-    .accesskey = p
 content-blocking-tracking-protection-change-block-list = ব্লক তালিকা পরিবর্তন করুন
-content-blocking-third-party-cookies-label =
-    .label = তৃতীয় পক্ষের কুকি
-    .accesskey = C
-content-blocking-reject-trackers-description = সমস্ত তৃতীয় পক্ষের কুকি বা শুধুমাত্র ট্র্যাকার দ্বারা সেট করা গুলিকে ব্লক করুন।
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = কুকি এবং সাইটের ডেটাতে আপনার সেটিংস তৃতীয় পক্ষের কুকি সেটিংসে পরিবর্তনগুলিকে আটকাচ্ছে।
-content-blocking-change-cookie-settings =
-    .label = কুকি সেটিংস বদল করুন
-    .accesskey = S
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = ট্র্যাকারগুলি (প্রস্তাবিত)
-    .accesskey = k
-content-blocking-reject-trackers-block-trackers-option =
-    .label = ট্র্যাকারগুলি
-    .accesskey = k
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = সমস্ত তৃতীয় পক্ষের কুকি (ওয়েবসাইট অচল করতে পারে)
-    .accesskey = A
 
 ## Privacy Section - Tracking
 
-tracking-header = ট্র্যাকিং সুরক্ষা
-tracking-desc = ট্র্যাকিং সুরক্ষা অনলাইন ট্র্যাকারকে ব্লক করে, যারা বিভিন্ন সাইটে আপনার ব্রাউজিং তথ্য সংগ্রহ করে। <a data-l10n-name="learn-more">ট্রাকিং সুরক্ষা এবং আপনার গোপনীয়তা সম্পর্কে আরও জানুন</a>
-tracking-mode-label = জানা ট্রাকারগুলি ব্লক করতে ট্রাকিং সুরক্ষা ব্যবহার করুন
-tracking-mode-always =
-    .label = সর্বদা
-    .accesskey = y
-tracking-mode-private =
-    .label = নতুন প্রাইভেট উইন্ডোতে খোলা হোক
-    .accesskey = l
-tracking-mode-never =
-    .label = কখনই নয়
-    .accesskey = N
-tracking-exceptions =
-    .label = ব্যতিক্রম...
-    .accesskey = x
-tracking-change-block-list =
-    .label = ব্লক তালিকা পরিবর্তন করুন…
-    .accesskey = C
 
 ## Privacy Section - Permissions
 
@@ -770,20 +662,9 @@ permissions-notification-link = আরো জানুন
 permissions-notification-pause =
     .label = বিজ্ঞপ্তি বন্ধ রাখো যতক্ষণ না { -brand-short-name } পুনরায় শুরু হয়
     .accesskey = n
-permissions-block-autoplay-media =
-    .label = স্বয়ংক্রিয়ভাবে শব্দের সঙ্গে মিডিয়া বাজানো থেকে ওয়েবসাইটকে ব্লক করুন
-    .accesskey = B
-permissions-block-autoplay-media-menu = যেসব ওয়েবসাইট শব্দকে নিজে থেকে চালায়
 permissions-block-autoplay-media-exceptions =
     .label = ব্যতিক্রম…
     .accesskey = E
-autoplay-option-ask =
-    .label = সব সময় জিজ্ঞাসা করবে
-autoplay-option-allow =
-    .label = নিজে থেকে চালু হওয়াকে অনুমতি দিন
-autoplay-option-dont =
-    .label = নিজে থেকে চালু হবে না
-permissions-autoplay-link = আরো জানুন
 permissions-block-popups =
     .label = পপ-আপ উইন্ডো প্রদর্শন প্রতিরোধ করা হবে
     .accesskey = B
@@ -816,10 +697,6 @@ collection-studies-link = { -brand-short-name } -র অধ্যয়ন দ�
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = এই বিল্ড কনফিগারেশনের জন্যে তথ্য রিপোর্ট করা নিস্ক্রিয় করা হয়েছে
-collection-browser-errors =
-    .label = { -vendor-short-name } এর কাছে ব্রাউজারের ত্রুটি রিপোর্ট (ত্রুটি বার্তাসহ) পাঠাতে { -brand-short-name } কে অনুমোদন দিন
-    .accesskey = b
-collection-browser-errors-link = আরও জানুন
 collection-backlogged-crash-reports =
     .label = আপনার পক্ষ থেকে ব্যাকলগকৃত ক্রাশ রিপোর্টগুলি পাঠাতে { -brand-short-name } কে অনুমোদন করুন
     .accesskey = c
