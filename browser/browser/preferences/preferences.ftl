@@ -384,12 +384,16 @@ home-prefs-content-header = Inhalte des Firefox-Startbildschirms
 home-prefs-content-description = Wählen Sie, welche Inhalte auf Ihrem Firefox-Startbildschirm angezeigt werden sollen.
 home-prefs-search-header =
     .label = Internetsuche
+home-prefs-topsites-header =
+    .label = Wichtige Seiten
 home-prefs-topsites-description = Die von die Ihnen am meisten besuchten Websites
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Empfohlen von { $provider }
 home-prefs-recommended-by-description = Tolle Inhalte aus dem ganzen Internet, für Sie personalisiert
+home-prefs-highlights-header =
+    .label = Überblick
 home-prefs-highlights-description = Eine Auswahl von Websites, die Sie gespeichert oder besucht haben
 home-prefs-highlights-option-visited-pages =
     .label = Besuchte Seiten
