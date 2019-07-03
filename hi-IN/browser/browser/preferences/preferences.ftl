@@ -372,6 +372,7 @@ home-prefs-topsites-description = साइटों आप सबसे अध�
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } द्वारा अनुशंसित
+home-prefs-recommended-by-description = वेब से शानदार सामग्री, आपके लिए व्यक्तिगत बनाया गया
 home-prefs-recommended-by-option-sponsored-stories =
     .label = प्रायोजित कहानियां
 home-prefs-highlights-header =
@@ -379,8 +380,12 @@ home-prefs-highlights-header =
 home-prefs-highlights-description = आपके द्वारा सहेजी गई या विज़िट की गई साइटों का चयन
 home-prefs-highlights-option-visited-pages =
     .label = देखे गए पृष्ठ
+home-prefs-highlights-options-bookmarks =
+    .label = बुकमार्क
 home-prefs-highlights-option-most-recent-download =
     .label = सबसे हालिया डाउनलोड
+home-prefs-highlights-option-saved-to-pocket =
+    .label = पृष्ठ { -pocket-brand-name } में सहेजे गए
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
