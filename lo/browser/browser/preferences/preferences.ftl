@@ -4,10 +4,6 @@
 
 do-not-track-description = ສົ່ງສັນຍານ “ບໍ່ຕິດຕາມ” ໃຫ້ກັບເວັບໄຊທ໌ວ່າທ່ານບໍ່ຕ້ອງການຖືກຕິດຕາມ
 do-not-track-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
-do-not-track-option-default =
-    .label = ສະເພາະເມື່ອມີການນຳໃຊ້ການປ້ອງກັນການຕິດຕາມ
-do-not-track-option-default-content-blocking =
-    .label = ສະເພາະໃນເວລາທີ່ { -brand-short-name } ຖືກຕັ້ງຄ່າໃຫ້ປິດກັ້ນຕົວຕິດຕາມທີ່ກວດພົບ
 do-not-track-option-always =
     .label = ຕະຫຼອດເວລາ
 pref-page =
@@ -31,11 +27,6 @@ search-input-box =
             [windows] ຄົ້ນຫາໃນ ທາງເລືອກ
            *[other] ຄົ້ນຫາໃນ ຕັ້ງຄ່າ
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] ອົງກອນຂອງທ່ານໄດ້ປິດການໃຊ້ງານຄວາມສາມາດໃນການປ່ຽນຕົວເລືອກບາງຢ່າງ
-       *[other] ອົງກອນຂອງທ່ານໄດ້ປິດການໃຊ້ງານຄວາມສາມາດໃນການປ່ຽນຄ່າກຳນົດບາງຢ່າງ
-    }
 pane-general-title = ທົ່ວໄປ
 category-general =
     .tooltiptext = { pane-general-title }
@@ -48,10 +39,6 @@ category-search =
 pane-privacy-title = ຄວາມເປັນສ່ວນຕົວ & ຄວາມປອດໄພ
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = ບັນຊີ Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 help-button-label = ການສະຫນັບສະຫນູນ { -brand-short-name }
 addons-button-label = ສ່ວນເສີມ ແລະ ຊຸກຕົກແຕ່ງ
 focus-search =
@@ -258,6 +245,9 @@ choose-bookmark =
     .label = ໃຊ້ບຸກມາກ…
     .accesskey = ບ
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-bar-header = ແທັບຊອກຫາ
@@ -391,8 +381,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = ບັນທຶກ
     .accesskey = v
-sync-mobilepromo-single = ເຊື່ອມຕໍ່ກັບອຸປະກອນອື່ນ
-sync-mobilepromo-multi = ຈັດການອຸປະກອນ
 sync-tos-link = ເງື່ອນໄຂການໃຫ້ບໍລິການ
 sync-fxa-privacy-notice = ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ
 
@@ -402,7 +390,6 @@ privacy-header = ຄວາມເປັນສ່ວນຕົວຂອງບຣາ
 
 ## Privacy Section - Forms
 
-forms-header = ແບບຟອມ & ລະຫັດຜ່ານ
 forms-ask-to-save-logins =
     .label = ຖາມເພື່ອບັນທຶກການເຂົ້າສູ່ລະບົບແລະລະຫັດຜ່ານສຳລັບເວັບໄຊ
     .accesskey = r
@@ -469,12 +456,6 @@ sitedata-total-size-calculating = ກຳລັງຄຳນວນຂໍ້ມູ�
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = ຄຸກກີ້, ຂໍ້ມູນເວັບໄຊ ແລະແຄຊທີ່ຖືກຈັດເກັບໄວ້ຂອງທ່ານໃຊ້ພື້ນທີ່ດິສກ໌ { $value } { $unit }.
 sitedata-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
-sitedata-keep-until = ເກັບຈົນກວ່າ
-    .accesskey = u
-sitedata-keep-until-expire =
-    .label = ພວກມັນໝົດອາຍຸ
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } ຖືກປິດ
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = ປະເພດທີ່ຖືກປິດກັ້ນ
@@ -485,9 +466,6 @@ sitedata-clear =
 sitedata-settings =
     .label = ຈັດການຂໍ້ມູນ…
     .accesskey = M
-sitedata-cookies-exceptions =
-    .label = ຂໍ້ຍົກເວັ້ນ…
-    .accesskey = ຍ
 
 ## Privacy Section - Address Bar
 
@@ -507,61 +485,10 @@ addressbar-locbar-openpage-option =
 
 content-blocking-header = ການປິດກັ້ນເນື້ອຫາ
 content-blocking-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
-content-blocking-restore-defaults =
-    .label = ກູ້ຄືນສູ່ຄ່າເລີ່ມຕົ້ນ
-    .accesskey = ກ
-content-blocking-toggle-on =
-    .tooltiptext = ປິດການປິດກັ້ນເນື້ອຫາ
-content-blocking-toggle-off =
-    .tooltiptext = ເປີດການປິດກັ້ນເນື້ອຫາ
-content-blocking-toggle-label-on = ເປີດ
-    .accesskey = ປ
-content-blocking-toggle-label-off = ປິດ
-    .accesskey = ດ
-content-blocking-category-label = ເລືອກສິ່ງທີ່ຕ້ອງການປິດກັ້ນ
-content-blocking-tracking-protection-option-always =
-    .label = ສະເໝີ
-    .accesskey = A
-content-blocking-tracking-protection-option-private =
-    .label = ສະເພາະໃນວິນໂດສ່ວນຕົວ
-    .accesskey = ສ
 content-blocking-tracking-protection-change-block-list = ປ່ຽນລາຍການທີ່ຖືກລະງັບ
-content-blocking-third-party-cookies-label =
-    .label = ຄຸກກີ້ນອກ
-    .accesskey = C
-content-blocking-change-cookie-settings =
-    .label = ປ່ຽນການຕັ້ງຄ່າຄຸກກີ້
-    .accesskey = s
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = ໂຕຕິດຕາມ(ແນະນຳ)
-    .accesskey = k
-content-blocking-reject-trackers-block-trackers-option =
-    .label = ຕິດຕາມ
-    .accesskey = k
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = ຄຸກກີ້ນອກທັງໝົດ(ອາດເຮັດໃຫ້ເວັບໄຊມີບັນຫາ)
-    .accesskey = A
 
 ## Privacy Section - Tracking
 
-tracking-header = ການປ້ອງກັນການຕິດຕາມ
-tracking-desc = ການປ້ອງກັນການຕິດຕາມຈະບັອກຕົວຕິດຕາມອອນລາຍທີ່ເກັບລວບລວມຂໍ້ມູນການທ່ອງເວັບຂອງທ່ານໃນຫລາຍໆເວັບໄຊ. <a data-l10n-name="learn-more">ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບການປ້ອງກັນການຕິດຕາມ ແລະຄວາມເປັນສ່ວນຕົວຂອງທ່ານ</a>
-tracking-mode-label = ໃຊ້ການປ້ອງກັນການຕິດຕາມເພື່ອບັອກຕົວຕິດຕາມທີ່ຮູ້ຈັກ
-tracking-mode-always =
-    .label = ຕະຫລອດເວລາ
-    .accesskey = ຕ
-tracking-mode-private =
-    .label = ສະເພາະໃນວິນໂດສ່ວນຕົວ
-    .accesskey = ສ
-tracking-mode-never =
-    .label = ບໍ່ເຄີຍ
-    .accesskey = ບ
-tracking-exceptions =
-    .label = ຂໍ້ຍົກເວັ້ນ…
-    .accesskey = x
-tracking-change-block-list =
-    .label = ປ່ຽນລາຍການບັອກ…
-    .accesskey = C
 
 ## Privacy Section - Permissions
 
@@ -586,20 +513,9 @@ permissions-notification-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 permissions-notification-pause =
     .label = ຢຸດການແຈ້ງເຕືອນຊົ່ວຄາວຈົນກວ່າ { -brand-short-name } ເລີ່ມເຮັດວຽກໃຫມ່
     .accesskey = n
-permissions-block-autoplay-media =
-    .label = ບັອກເວັບໄຊບໍ່ໃຫ້ຫລິ້ນສື່ທີ່ມີສຽງໂດຍອັດຕະໂນມັດ
-    .accesskey = B
-permissions-block-autoplay-media-menu = ສຳລັບເວັບໄຊທີ່ມີການຫຼິ້ນສຽງແບບອັດຕະໂນມັດ
 permissions-block-autoplay-media-exceptions =
     .label = ຂໍ້ຍົກເວັ້ນ…
     .accesskey = E
-autoplay-option-ask =
-    .label = ຖາມຢູ່ສະເໝີ
-autoplay-option-allow =
-    .label = ອະນຸຍາດໃຫ້ຫຼິ້ນແບບອັດຕະໂນມັດ
-autoplay-option-dont =
-    .label = ບໍ່ຕ້ອງຫຼິ້ນແບບອັດຕະໂນມັດ
-permissions-autoplay-link = ຮຽນຮູ້ເພີມຕື່ມ
 permissions-block-popups =
     .label = ປິດກັ້ນວິນໂດປັອບອັບ
     .accesskey = ປ
@@ -625,7 +541,6 @@ collection-health-report-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ການລາຍງານຂໍ້ມູນຖືກປິດໃຊ້ງານສຳລັບການກຳນົດຄ່າການສ້າງນີ້
-collection-browser-errors-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 collection-backlogged-crash-reports-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 
 ## Privacy Section - Security
