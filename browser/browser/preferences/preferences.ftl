@@ -400,11 +400,19 @@ home-prefs-recommended-by-header =
     .label = Suositukset lähteestä { $provider }
 home-prefs-recommended-by-description = Hyvää sisältöä kaikkialta verkosta, juuri sinulle
 home-prefs-recommended-by-learn-more = Kuinka se toimii
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Sponsoroidut tarinat
 home-prefs-highlights-header =
     .label = Nostot
 home-prefs-highlights-description = Valikoima sivustoja, joilla olet käynyt tai jotka olet tallentanut
+home-prefs-highlights-option-visited-pages =
+    .label = Vieraillut sivustot
 home-prefs-highlights-options-bookmarks =
     .label = Kirjanmerkit
+home-prefs-highlights-option-most-recent-download =
+    .label = Viimeisimmät lataukset
+home-prefs-highlights-option-saved-to-pocket =
+    .label = { -pocket-brand-name }iin tallennetut sivut
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
