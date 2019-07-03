@@ -4,8 +4,6 @@
 
 do-not-track-description = Kuzatishlarini xohlamasangiz, saytlarga "Kuzatilmasin" signalini yuboring
 do-not-track-learn-more = Batafsil ma’lumot
-do-not-track-option-default =
-    .label = Faqat kuzatishdan himoyalanganda
 do-not-track-option-always =
     .label = Doimo
 pref-page =
@@ -29,11 +27,6 @@ search-input-box =
             [windows] Parametrlar ichidan topish
            *[other] Sozlamalar ichidan topish
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Tashkilotingiz ba’zi parametrlarni o‘zgartirishni bloklab qo‘ygan
-       *[other] Tashkilotingiz ba’zi parametrlarni o‘zgartirishni bloklab qo‘ygan
-    }
 pane-general-title = Umumiy
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +39,6 @@ category-search =
 pane-privacy-title = Maxfiylik va xavfsizlik
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox hisobi
-category-sync =
-    .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } yordami
 focus-search =
     .key = f
@@ -329,6 +318,34 @@ choose-bookmark =
     .label = Xatcho‘pdan foydalanish
     .accesskey = X
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-topsites-header =
+    .label = Ommabop saytlar
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = { $provider } tomonidan tavsiya qilingan
+home-prefs-recommended-by-description = Siz uchun moslangan internetdagi ajoyib kontent
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Homiylik maqolalari
+home-prefs-highlights-header =
+    .label = Ajratilgan saytlar
+home-prefs-highlights-option-visited-pages =
+    .label = Kirilgan sahifalar
+home-prefs-highlights-options-bookmarks =
+    .label = Xatcho‘plar
+home-prefs-highlights-option-most-recent-download =
+    .label = Oxirgi yuklanmalar
+home-prefs-highlights-option-saved-to-pocket =
+    .label = { -pocket-brand-name }’ga saqlangan sahifalar
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Parchalar
+
 ## Search Section
 
 search-bar-header = Qidiruv paneli
@@ -471,8 +488,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Saqlash
     .accesskey = S
-sync-mobilepromo-single = Boshqa qurilmaga ulanish
-sync-mobilepromo-multi = Qurilmalarni boshqarish
 sync-tos-link = Xizmat shartlari
 sync-fxa-privacy-notice = Maxfiylik ogohlantirishlari
 
@@ -482,7 +497,6 @@ privacy-header = Brauzer maxfiyligi
 
 ## Privacy Section - Forms
 
-forms-header = Shakllar va parollar
 forms-ask-to-save-logins =
     .label = Saytlar uchun taxallus va parollarni saqlash so‘ralsin
     .accesskey = r
@@ -541,21 +555,12 @@ history-clear-button =
 
 sitedata-header = Kuki va sayt ma’lumotlari
 sitedata-learn-more = Batafsil ma’lumot
-sitedata-keep-until = Saqlash muddati
-    .accesskey = u
-sitedata-keep-until-expire =
-    .label = Eskirish muddati
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } yopildi
 sitedata-clear =
     .label = Ma’lumotlarni tozalash
     .accesskey = l
 sitedata-settings =
     .label = Ma’lumotlarni boshqarish
     .accesskey = M
-sitedata-cookies-exceptions =
-    .label = Istisnolar…
-    .accesskey = I
 
 ## Privacy Section - Address Bar
 
@@ -577,24 +582,6 @@ addressbar-suggestions-settings = Qidiruv tizimi tavsiyalari uchun sozlamalarni 
 
 ## Privacy Section - Tracking
 
-tracking-header = Kuzatuvdan himoyalanish
-tracking-desc = "Kuzatishdan himoyalanish" funksiyasi  turli qurilmalardagi ma’lumotlaringizni yig‘adigan onlayn kuzatuvchilarni bloklaydi. <a data-l10n-name="learn-more">"Kuzatishdan himoyalanish:"va maxfiyligingiz haqida batafsil ma’lumot"
-tracking-mode-label = Ma’lum kuzatuvchilarni bloklash uchun kuzatishdan himoya vositasidan foydalaning
-tracking-mode-always =
-    .label = Doimo
-    .accesskey = D
-tracking-mode-private =
-    .label = Faqat maxfiy oynalar uchun
-    .accesskey = F
-tracking-mode-never =
-    .label = Hech qachon
-    .accesskey = H
-tracking-exceptions =
-    .label = Istisnolar…
-    .accesskey = I
-tracking-change-block-list =
-    .label = Bloklash ro‘yxatini o‘zgartirish
-    .accesskey = n
 
 ## Privacy Section - Permissions
 
@@ -647,10 +634,6 @@ collection-health-report-link = Batafsil ma’lumot
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Ma’lumotlar hisoboti moslama uchun o‘chirib qo‘yilgan
-collection-browser-errors =
-    .label = { -vendor-short-name }ga brauzerda yuz bergan xato hisobotlarini (xato xabarlari bilan) yuborish uchun { -brand-short-name }ga ruxsat berish
-    .accesskey = g
-collection-browser-errors-link = Batafsil ma’lumot
 collection-backlogged-crash-reports-link = Batafsil ma’lumot
 
 ## Privacy Section - Security
