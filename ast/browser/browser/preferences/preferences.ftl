@@ -4,10 +4,6 @@
 
 do-not-track-description = Unvia la señal «Nun rastrexar» a los sitios web p'avisalos de que nun quies que te rastrexen
 do-not-track-learn-more = Deprendi más
-do-not-track-option-default =
-    .label = Namái al usar proteición de rastrexu
-do-not-track-option-default-content-blocking =
-    .label = Namái cuando { -brand-short-name } ta configuráu pa bloquiar los rastrexadores deteutaos
 do-not-track-option-default-content-blocking-known =
     .label = Namái cuando { -brand-short-name } ta configuráu pa bloquiar los rastrexadores conocíos
 do-not-track-option-always =
@@ -33,11 +29,6 @@ search-input-box =
             [windows] Atopar n'opciones
            *[other] Atopar en preferencies
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] La to organización deshabilitó la posibilidá de camudar dalgunes opciones.
-       *[other] La to organización deshabilitó la posibilidá de camudar dalgunes preferencies.
-    }
 pane-general-title = Xeneral
 category-general =
     .tooltiptext = { pane-general-title }
@@ -50,10 +41,6 @@ category-search =
 pane-privacy-title = Privacidá y Seguranza
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Cuenta de Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 help-button-label = Ayuda de { -brand-short-name }
 addons-button-label = Estensiones y temes
 focus-search =
@@ -95,9 +82,6 @@ extension-controlled-default-search = Una estensión, <img data-l10n-name="icon"
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Una estensión, <img data-l10n-name="icon"/> { $name }, rique llingüetes de contenedores.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Una estensión, <img data-l10n-name="icon"/> { $name }, ta controlando la proteición escontra rastréu.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Una estensión, <img data-l10n-name="icon"/> { $name }, ta controlando esti axuste.
@@ -154,9 +138,6 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Abrir enllaces en llingüetes en cuenta d'en ventanes nueves
     .accesskey = A
-warn-on-quit-close-multiple-tabs =
-    .label = Avisar al colar y zarrar múltiples llingüetes
-    .accesskey = m
 warn-on-close-multiple-tabs =
     .label = Avisar cuando zarres múltiples llingüetes
     .accesskey = m
@@ -389,6 +370,9 @@ choose-bookmark =
     .label = Usar marcador…
     .accesskey = m
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-bar-header = Barra de gueta
@@ -531,8 +515,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Guardar
     .accesskey = v
-sync-mobilepromo-single = Coneutar otro preséu
-sync-mobilepromo-multi = Xestionar preseos
 sync-tos-link = Términos del serviciu
 sync-fxa-privacy-notice = Avisu de privacidá
 
@@ -609,12 +591,6 @@ sitedata-total-size-calculating = Calculando'l tamañu de los datos del sitiu y 
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Les  cookies, datos del sitiu y caché almacenaos ocupen anguaño un { $value } { $unit } d'espaciu en discu.
 sitedata-learn-more = Deprendi más
-sitedata-keep-until = Caltener hasta que
-    .accesskey = C
-sitedata-keep-until-expire =
-    .label = Caduquen
-sitedata-keep-until-closed =
-    .label = zarre { -brand-short-name }
 sitedata-delete-on-close =
     .label = Desaniciar cookies y datos del sitiu cuando zarre { -brand-short-name }
     .accesskey = D
@@ -628,16 +604,6 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Tipu bloquiáu
     .accesskey = T
-sitedata-block-trackers-option-recommended =
-    .label = Rastrexadores de terceros (recomendáu)
-sitedata-block-trackers-option =
-    .label = Rastrexadores de terceros
-sitedata-block-unvisited-option =
-    .label = Cookies de sitios web non andaos
-sitedata-block-all-third-party-option =
-    .label = Toles cookies de terceros (pue causar fallos nos sitios web)
-sitedata-block-all-option =
-    .label = Toles cookies (causará fallos nos sitios web)
 sitedata-option-block-trackers =
     .label = Rastrexadores de terceros
 sitedata-option-block-unvisited =
@@ -652,13 +618,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Xestionar datos…
     .accesskey = X
-sitedata-cookies-exceptions =
-    .label = Esceiciones…
-    .accesskey = E
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Los axustes de bloquéu de conteníu tán torgando'l cambéu de los axustes de cookies y datos del sitiu.
 sitedata-cookies-permissions =
     .label = Xestionar permisos...
     .accesskey = X
@@ -684,19 +643,6 @@ content-blocking-header = Bloquéu de conteníu
 
 ## Privacy Section - Tracking
 
-tracking-header = Proteición de rastrexu
-tracking-mode-always =
-    .label = Siempres
-    .accesskey = i
-tracking-mode-private =
-    .label = Namái en ventanes privaes
-    .accesskey = m
-tracking-mode-never =
-    .label = Enxamás
-    .accesskey = x
-tracking-exceptions =
-    .label = Esceiciones…
-    .accesskey = s
 
 ## Privacy Section - Permissions
 
