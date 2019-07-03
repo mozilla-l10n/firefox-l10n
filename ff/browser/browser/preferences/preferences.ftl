@@ -368,6 +368,23 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Loowdi Jaɓɓorgo Firefox
+home-prefs-content-description = Suɓo hol loowdi njiɗɗaa e yaynirde jaɓɓorgo Firefox maa.
+home-prefs-search-header =
+    .label = Njiilaw Geese
+home-prefs-topsites-description = Lowe ɗe ɓurɗaa waawde yillaade
+home-prefs-highlights-header =
+    .label = Jalbine
+home-prefs-highlights-description = Suɓngo lowe ɗe ndannduɗaa walla ɗe njilliɗaa
+home-prefs-highlights-options-bookmarks =
+    .label = Maantore
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Taƴitine
+home-prefs-snippets-description = Kesɗitineiwde e { -vendor-short-name } kañum e { -brand-product-name }
 
 ## Search Section
 
