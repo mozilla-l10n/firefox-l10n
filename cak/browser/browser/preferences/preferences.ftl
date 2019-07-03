@@ -29,11 +29,6 @@ search-input-box =
             [windows] Tikanöx pa Taq Cha'oj
            *[other] Tikanöx pa Taq Ajowab'äl
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Ri amoloj xeruchüp rub'eyal richin yejal jujun taq cha'oj.
-       *[other] Ri amoloj xeruchüp rub'eyal richin yejal jujun taq ajowab'äl.
-    }
 managed-notice = Ri awokik'amaya'l ninuk'samajiïx ruma ri amoloj.
 pane-general-title = Chijun
 category-general =
@@ -383,6 +378,9 @@ choose-bookmark =
     .label = Tokisäx yaketal…
     .accesskey = y
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-bar-header = Rukajtz'ik Kanoxïk
@@ -654,7 +652,6 @@ addressbar-suggestions-settings = Kek'ex ri taq kajowab'al ri taq kichilab'enik 
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Ruq'atik Rupam
-content-blocking-description = Taq'ata' rupam kichin aj rox winäq yatkojqaj pa ajk'amaya'l. Tachajij jarupe' ri asamaj pa k'amab'ey yeyak chuqa' yekomonïx chi kikojol ajk'amaya'l taq ruxaq.
 content-blocking-section-description = Tachajij ri awichinanem toq yatok pa k'amaya'l. Ke'aq'ata' rupam yekikanoj ri ruxaq e'atz'eton chuqa' yerunük' taq ruwäch b'i'aj. Yeq'at taq rupam nitikïr nub'än chi yesamäj anin ri taq ruxaq.
 content-blocking-learn-more = Tetamäx Ch'aqa' Chik
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -668,9 +665,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Ichinan
     .accesskey = I
-content-blocking-standard-description = Xa xe yeruq'ät ojqanela' etaman kiwäch pa Ichinan taq Ruwi'.
 content-blocking-standard-desc = Pajon richin ri chajinïk chuqa' ri rub'eyal nisamäj. Niya' q'ij chi ke jujun taq ojqanela' richin ütz yesamäj ri ajk'amaya'l ruxaq.
-content-blocking-strict-desc = Yeruq'ät konojel ri ojqanela' yetz'et ruma ri { -brand-short-name }. Rik'in jub'a' nub'än chi jujun ta ruxaq man yesamäj ta ütz.
 content-blocking-strict-description = Jun nïm chajinïk, rik'in jub'a' nub'än chi jujun taq ruxaq k'amaya'l man ütz ta yesamäj.
 content-blocking-custom-desc = Ticha' achike niq'at.
 content-blocking-private-trackers = Ojqanela' etaman kiwäch xa xe pa Ichinan Tzuwäch
