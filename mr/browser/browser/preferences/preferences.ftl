@@ -27,11 +27,6 @@ search-input-box =
             [windows] पर्यायांमध्ये शोधा
            *[other] प्राधान्यतांमध्ये शोधा
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] आपल्या संस्थेने काही पर्याय बदलण्याची क्षमता निष्क्रिय केली आहे.
-       *[other] आपल्या संस्थेने काही प्राधान्य बदलण्याची क्षमता निष्क्रिय केली आहे.
-    }
 pane-general-title = सर्वसाधारण
 category-general =
     .tooltiptext = { pane-general-title }
@@ -360,6 +355,9 @@ use-current-pages =
 choose-bookmark =
     .label = वाचनखूणाचा वापर करा…
     .accesskey = B
+
+## Home Section - Firefox Home Content Customization
+
 
 ## Search Section
 
