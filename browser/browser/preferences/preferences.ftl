@@ -29,11 +29,6 @@ search-input-box =
             [windows] 在選項中尋找
            *[other] 在偏好設定中尋找
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] 您的組織已鎖定某些選項。
-       *[other] 您的組織已鎖定某些偏好設定。
-    }
 managed-notice = 您的瀏覽器受到組織管理。
 pane-general-title = 一般
 category-general =
@@ -386,6 +381,41 @@ choose-bookmark =
     .label = 使用書籤…
     .accesskey = B
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Firefox 首頁內容
+home-prefs-content-description = 選擇要在您的 Firefox 首頁顯示哪些內容。
+home-prefs-content-discovery-description = Firefox Home 的內容探索功能可隨您上網，為您尋找高品質而與您有關的文章。
+home-prefs-search-header =
+    .label = 網頁搜尋
+home-prefs-topsites-header =
+    .label = 熱門網站
+home-prefs-topsites-description = 最常造訪的網站
+home-prefs-recommended-by-description = 網路上的各種超棒內容，為您量身打造
+home-prefs-recommended-by-learn-more = 原理是什麼
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = 贊助內容
+home-prefs-highlights-header =
+    .label = 精選網站
+home-prefs-highlights-description = 您儲存或造訪過的網站精選
+home-prefs-highlights-option-visited-pages =
+    .label = 造訪過的頁面
+home-prefs-highlights-options-bookmarks =
+    .label = 書籤
+home-prefs-highlights-option-most-recent-download =
+    .label = 最新下載
+home-prefs-highlights-option-saved-to-pocket =
+    .label = 儲存至 { -pocket-brand-name } 的頁面
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = 隻字片語
+home-prefs-snippets-description = 來自 { -vendor-short-name } 及 { -brand-product-name } 的大小事
+home-prefs-sections-rows-option =
+    .label = { $num } 行
+
 ## Search Section
 
 search-bar-header = 搜尋列
@@ -660,7 +690,6 @@ addressbar-suggestions-settings = 修改搜尋建議偏好設定
 ## Privacy Section - Content Blocking
 
 content-blocking-header = 內容封鎖
-content-blocking-description = 封鎖會在網路上追蹤您的第三方內容。控制您要讓不同網站儲存並分享多少線上行為。
 content-blocking-section-description = 在上網時保護您的隱私。封鎖會在不同網站間追蹤您上網，並對使用者進行分類的隱藏內容。封鎖這類內容也可能讓網頁更快載入。
 content-blocking-learn-more = 了解更多
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -674,9 +703,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = 自訂
     .accesskey = C
-content-blocking-standard-description = 只在隱私視窗中，封鎖已知的追蹤器。
 content-blocking-standard-desc = 在保護與效能間取得平衡。允許某些追蹤器以確保網站運作正常。
-content-blocking-strict-desc = 封鎖所有 { -brand-short-name } 偵測到的追蹤器。可能造成某些網站故障。
 content-blocking-strict-description = 保護更強，可能造成某些網站無法正常運作。
 content-blocking-custom-desc = 選擇要封鎖哪些內容。
 content-blocking-private-trackers = 僅在隱私視窗中封鎖已知的追蹤器
