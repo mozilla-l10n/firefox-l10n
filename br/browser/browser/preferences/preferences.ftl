@@ -29,11 +29,6 @@ search-input-box =
             [windows] Klask en dibarzhioù
            *[other] Klask er gwellvezioù
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Diweredekaet eo bet ho parregezh da gemmañ dibarzhioù 'zo.
-       *[other] Diweredekaet eo bet ho parregezh da gemmañ gwellvezioù 'zo.
-    }
 managed-notice = Ardoet eo ho merdeer gant hoc'h aozadur.
 pane-general-title = Hollek
 category-general =
@@ -407,6 +402,17 @@ choose-bookmark =
     .label = Arverañ ur sined…
     .accesskey = r
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-topsites-header =
+    .label = Lec'hiennoù gwellañ
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Erbedet gant { $provider }
+home-prefs-highlights-header =
+    .label = Mareoù pouezus
+
 ## Search Section
 
 search-bar-header = Barrenn glask
@@ -678,7 +684,6 @@ addressbar-suggestions-settings = Kemmañ ar gwellvezioù evit ar c'hinnigoù lu
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Stankañ endalc'hadoù
-content-blocking-description = Stankañ endalc'hadoù an tredeoù a heuilh ac'hanoc'h etrezek ar web. Reoliañ kementad ho obererezh enlinenn a zo kadavet ha rannet etre al lec'hiennoù.
 content-blocking-section-description = Gwarezit ho puhez prevez pa verdeit. Stankit an endalc'hadoù diwelus a heuilh al lec'hiennoù a weladennit hag a sav un aelad diwar ho penn. Stankañ ul lodenn eus an endalc'had-mañ a c'hall lakaat ar pajennoù da gargañ buanoc'h.
 content-blocking-learn-more = Gouzout hiroc'h
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -692,9 +697,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Personelaet
     .accesskey = P
-content-blocking-standard-description = Stankañ an heulierien anavezet er merdeiñ prevez nemetken.
 content-blocking-standard-desc = Kempouezet etre gwarez ha mont-en-dro. Aotren a ra heulierien 'zo evit ma 'z afe en-dro al lec'hiennoù.
-content-blocking-strict-desc = Stankañ an holl heulierien dinoet gant { -brand-short-name }. Gallout a ra mirout lec'hiennoù 'zo da vont en-dro en un doare dereat.
 content-blocking-strict-description = Gwarez gwelloc'h, gallout a ra lakaat lec'hiennoù zo da vont en-dro falloc'h.
 content-blocking-custom-desc = Dibabit petra stankañ.
 content-blocking-private-trackers = An heulierien anavezet er merdeiñ prevez hepken
