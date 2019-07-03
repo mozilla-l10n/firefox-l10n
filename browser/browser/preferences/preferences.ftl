@@ -377,6 +377,12 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = শীর্ষ সাইট
 home-prefs-topsites-description = যে সাইটগুলিতে আপনি বেশি যান
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = { $provider } দ্বারা সুপারিশকৃত
+home-prefs-recommended-by-description = ওয়েবের দারুন সব কন্টেন্ট, নিজের মত করে সাঁজিয়ে নিন
+home-prefs-recommended-by-learn-more = কিভাবে এটা কাজ করে
 home-prefs-recommended-by-option-sponsored-stories =
     .label = স্পন্সর করা স্টোরি
 home-prefs-highlights-description = সাইটের একটি সেকশন যা আপনি সংরক্ষণ অথবা গিয়েছিলেন
