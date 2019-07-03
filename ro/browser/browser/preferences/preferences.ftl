@@ -400,12 +400,18 @@ choose-bookmark =
 
 home-prefs-content-header = Conținutul paginii de start Firefox
 home-prefs-content-description = Alege ce conținut vrei pe ecranul de start Firefox.
+home-prefs-content-discovery-description = Descoperirea de conținut din pagina de start Firefox îți permite să descoperi articole relevante de calitate înaltă de pe web.
+home-prefs-search-header =
+    .label = Căutare web
+home-prefs-topsites-header =
+    .label = Site-uri de top
 home-prefs-topsites-description = Site-urile pe care le vizitezi cel mai des
 home-prefs-recommended-by-description = Conținut nemaipomenit de pe web, personalizat pentru tine
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Articole sponsorizate
 home-prefs-highlights-header =
     .label = Evidențieri
+home-prefs-highlights-description = O selecție a site-urilor pe care le-ai salvat sau vizitat
 home-prefs-highlights-option-visited-pages =
     .label = Pagini vizitate
 home-prefs-highlights-options-bookmarks =
@@ -414,6 +420,20 @@ home-prefs-highlights-option-most-recent-download =
     .label = Cele mai recente descărcări
 home-prefs-highlights-option-saved-to-pocket =
     .label = Pagini salvate în { -pocket-brand-name }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Fragmente
+home-prefs-snippets-description = Știri de la { -vendor-short-name } și { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } rând
+            [few] { $num } rânduri
+           *[other] { $num } de rânduri
+        }
 
 ## Search Section
 
