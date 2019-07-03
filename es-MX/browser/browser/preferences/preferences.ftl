@@ -375,19 +375,32 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-topsites-header =
+    .label = Sitios populares
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Recomendado por { $provider }
 home-prefs-recommended-by-description = El mejor contenido de la web, personalizado para ti
+home-prefs-recommended-by-learn-more = Cómo funciona
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Artículos patrocinados
+home-prefs-highlights-header =
+    .label = Destacados
 home-prefs-highlights-option-visited-pages =
     .label = Páginas visitadas
+home-prefs-highlights-options-bookmarks =
+    .label = Marcadores
 home-prefs-highlights-option-most-recent-download =
     .label = Descargado recientemente
 home-prefs-highlights-option-saved-to-pocket =
     .label = Páginas guardadas en { -pocket-brand-name }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Fragmentos
 home-prefs-snippets-description = Actualizaciones de { -vendor-short-name } y { -brand-product-name }
 
 ## Search Section
