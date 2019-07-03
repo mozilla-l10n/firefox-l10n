@@ -401,16 +401,44 @@ choose-bookmark =
 home-prefs-content-header = Strona startowa Firefoksa
 home-prefs-content-description = Wybierz, co wyświetlać na stronie startowej Firefoksa.
 home-prefs-content-discovery-description = Funkcja odkrywania treści na stronie startowej Firefoksa umożliwia odkrywanie spersonalizowanych artykułów o wysokiej jakości z całego Internetu.
+home-prefs-search-header =
+    .label = Pasek wyszukiwania
 home-prefs-topsites-header =
     .label = Popularne
 home-prefs-topsites-description = Najczęściej odwiedzane strony.
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Polecane przez { $provider }
 home-prefs-recommended-by-description = Świetne rzeczy z całego Internetu, wybrane specjalnie dla Ciebie
+home-prefs-recommended-by-learn-more = Jak to działa?
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponsorowane artykuły
 home-prefs-highlights-header =
     .label = Wyróżnione
+home-prefs-highlights-description = Wybierane z zachowanych i odwiedzonych stron.
+home-prefs-highlights-option-visited-pages =
+    .label = Historia
 home-prefs-highlights-options-bookmarks =
     .label = Zakładki
+home-prefs-highlights-option-most-recent-download =
+    .label = Ostatnio pobrane pliki
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Zachowane w { -pocket-brand-name }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Od Mozilli
+home-prefs-snippets-description = Informacje od Mozilli i Firefoksa.
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } wiersz
+            [few] { $num } wiersze
+           *[many] { $num } wierszy
+        }
 
 ## Search Section
 
