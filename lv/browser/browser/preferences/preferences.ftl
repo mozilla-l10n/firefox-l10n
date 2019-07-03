@@ -4,10 +4,6 @@
 
 do-not-track-description = Sūtīt lapām “Do Not Track” signālu, lai norādītu, ka nevēlaties, lai jūs izseko
 do-not-track-learn-more = Uzzināt vairāk
-do-not-track-option-default =
-    .label = Tagad izmantojot izsekošanas aizsardzību
-do-not-track-option-default-content-blocking =
-    .label = Vienīgi, ja { -brand-short-name } ir aktivēta zināmo izsekotāju bloķēšana
 do-not-track-option-always =
     .label = Vienmēr
 pref-page =
@@ -31,11 +27,6 @@ search-input-box =
             [windows] Meklēt iestatījumos
            *[other] Meklēt iestatījumos
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Jūsu organizācija ir liegusi veikt dažu parametru izmaiņas.
-       *[other] Jūsu organizācija ir liegusi veikt dažu parametru izmaiņas.
-    }
 pane-general-title = Galvenie
 category-general =
     .tooltiptext = { pane-general-title }
@@ -48,10 +39,6 @@ category-search =
 pane-privacy-title = Privātums un drošība
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox konts
-category-sync =
-    .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } atbalsts
 addons-button-label = Paplašinājumi un tēmas
 focus-search =
@@ -93,9 +80,6 @@ extension-controlled-default-search = Paplašinājums <img data-l10n-name="icon"
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Paplašinājumam <img data-l10n-name="icon"/> { $name } nepieciešamas konteineru cilnes.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Paplašinājums <img data-l10n-name="icon"/> { $name } kontrolē izsekošanas aizsardzību.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Paplašinājums <img data-l10n-name="icon"/> { $name } kontrolē šo iestatījumu.
@@ -151,9 +135,6 @@ open-new-link-as-tabs =
     .label = Vērt saites cilnēs nevis jaunos logos
     .accesskey = v
 warn-on-close-multiple-tabs =
-    .label = Brīdināt, pirms aizvērt vairākas cilnes
-    .accesskey = m
-warn-on-quit-close-multiple-tabs =
     .label = Brīdināt, pirms aizvērt vairākas cilnes
     .accesskey = m
 warn-on-open-many-tabs =
@@ -388,6 +369,9 @@ choose-bookmark =
     .label = Lietot grāmatzīmi…
     .accesskey = g
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-bar-header = Meklēšanas josla
@@ -530,8 +514,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Saglabāt
     .accesskey = r
-sync-mobilepromo-single = Pievienot citu ierīci
-sync-mobilepromo-multi = Pārvaldīt ierīces
 sync-tos-link = Lietošanas noteikumi
 sync-fxa-privacy-notice = Privātuma piezīme
 
@@ -541,7 +523,6 @@ privacy-header = Pārlūka privātums
 
 ## Privacy Section - Forms
 
-forms-header = Formas un paroles
 logins-header = Lietotājvārdi un paroles
 forms-ask-to-save-logins =
     .label = Lūgt, lai saglabātu lietotājvārdu un paroles vietnēm
@@ -609,12 +590,6 @@ sitedata-total-size-calculating = Aprēķina izmantotās vietas apjomu…
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Jūsu saglabātās sīkdatnes un kešatmiņa šobrīd aizņem { $value } { $unit } vietas.
 sitedata-learn-more = Uzzināt vairāk
-sitedata-keep-until = Glabāt līdz
-    .accesskey = l
-sitedata-keep-until-expire =
-    .label = Derīguma termiņš
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } ir aizvērta
 sitedata-delete-on-close =
     .label = Dzēst sīkfailus un vietnes datus, kad { -brand-short-name } ir aizvērts
     .accesskey = D
@@ -628,29 +603,12 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Bloķētais tips
     .accesskey = t
-sitedata-block-trackers-option-recommended =
-    .label = Trešo pušu sekotāji (ieteicams)
-sitedata-block-trackers-option =
-    .label = Trešo pušu sekotāji
-sitedata-block-unvisited-option =
-    .label = Sīkdatnes no lapām, kuras tiešā veidā nav apmeklētas
-sitedata-block-all-third-party-option =
-    .label = Visus trešo pušu sīkfailus (dažas lapas var nestrādāt)
-sitedata-block-all-option =
-    .label = Visus sīkfailus (lapas noteikti nestrādās)
 sitedata-clear =
     .label = Notīrīt datus…
     .accesskey = n
 sitedata-settings =
     .label = Pārvaldīt datus…
     .accesskey = P
-sitedata-cookies-exceptions =
-    .label = Izņēmumi…
-    .accesskey = I
-# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
-# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
-# Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Jūsu satura bloķēšanas iestatījumi liedz veikt sīkdatņu un lapu datu iestatījumu izmainas.
 sitedata-cookies-permissions =
     .label = Pārvaldīt atļaujas...
     .accesskey = P
@@ -673,28 +631,7 @@ addressbar-suggestions-settings = Izmainiet meklētāju iestatījumus
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Satura bloķēšana
-content-blocking-desc = Bloķējiet trešo pušu saturu, piemēram reklāmas vai kodu, kas ļauj jūs izsekot internetā. Pielāgojiet iestatījumus vēlamai veiktspējai un privātumam.
-content-blocking-description = Bloķējiet trešās puses saturu, kas izseko jums tīmeklī. Kontrolējiet, cik liela daļa no jūsu tiešsaistes darbībām tiek glabāta un kopīgota starp vietnēm.
 content-blocking-learn-more = Uzzināt vairāk
-content-blocking-restore-defaults =
-    .label = Atjaunot sākotnējos
-    .accesskey = A
-content-blocking-toggle-on =
-    .tooltiptext = Atslēgt satura bloķešanu
-content-blocking-toggle-off =
-    .tooltiptext = Ieslēgt satura bloķešanu
-content-blocking-toggle-label-on = Ieslēgta
-    .accesskey = I
-content-blocking-toggle-label-off = Izslēgta
-    .accesskey = z
-content-blocking-category-label = Izvēlieties, ko bloķēt
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Izsekotājus, kas lādējas lēnu
-    .accesskey = s
-content-blocking-fastblock-new-description = Bloķēt tikai sekotājus, kas neļauj lapām ielādēties ātri.
 content-blocking-setting-standard =
     .label = Standarta
     .accesskey = d
@@ -705,74 +642,20 @@ content-blocking-setting-custom =
     .label = Pielāgots
     .accesskey = P
 content-blocking-standard-desc = Līdzsvarots aizsardzībai un veiktspējai. Ļauj dažiem izsekotājiem strādāt, lai vietnes darbojas pareizi.
-content-blocking-strict-desc = Bloķē visus izsekotājus, ko { -brand-short-name } atrod. Dažas lapas var nestrādāt.
 content-blocking-custom-desc = Izvēlies, ko bloķēt.
 content-blocking-private-trackers = Pazīstamos izsekotājus tikai privātajā logā
 content-blocking-third-party-cookies = Trešo pušu izsekošanas sīkfailus
 content-blocking-all-windows-trackers = Pazīstamos izsekotājus visos logos
 content-blocking-all-third-party-cookies = Visus trešo personu sīkfailus
 content-blocking-warning-title = Galvas augšu!
-content-blocking-warning-desc = Bloķējot sīkfailus un izsekotājus, dažas lapas var sabojāties. Varat atslēgt bloķēšanu lapās, kurām uzticaties.
 content-blocking-learn-how = Uzziniet kā
-content-blocking-tracking-protection-trackers-label =
-    .label = Izsekotāji
-    .accesskey = t
-content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Visus izsekotājus
-    .accesskey = t
-content-blocking-tracking-protection-new-description = Bloķēt visus zināmos izsekotājus. (Dažas lapas var nelādēteis.)
-content-blocking-tracking-protection-option-always =
-    .label = Vienmēr
-    .accesskey = V
-content-blocking-tracking-protection-option-private =
-    .label = Tikai privātajos logos
-    .accesskey = P
 content-blocking-tracking-protection-change-block-list = Mainīt bloķēto sarakstu
-content-blocking-third-party-cookies-label =
-    .label = Trešo pušu sīkdatnes
-    .accesskey = T
-content-blocking-reject-trackers-description = Bloķējiet trešo pušu sīkdatnes vai tikai tās, ko iestata sekotāji.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
-# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
-# the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = Jūsu satura un lapu datu iestatījumi liedz veikt izmaiņas trešo pušu sīkdatņu iestatījumos.
-content-blocking-change-cookie-settings =
-    .label = Mainīt sīkdatņu iestatījumus
-    .accesskey = s
-content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = Sekotāji (ieteicams)
-    .accesskey = k
-content-blocking-reject-trackers-block-trackers-option =
-    .label = Sekotāji
-    .accesskey = k
-content-blocking-reject-trackers-all-third-parties-option =
-    .label = Visas trešo pušu sīkdatnes (dažas lapas var saplīst)
-    .accesskey = a
 content-blocking-cookies-label =
     .label = Sīkdatnes
     .accesskey = S
 
 ## Privacy Section - Tracking
 
-tracking-header = Izsekošanas aizsardzība
-tracking-desc = Izsekošanas aizsardzība cīnās pret sekotājiem kas dažādās lapās vāc informāciju par jūsu uzvedību internetā. <a data-l10n-name="learn-more">Uzziniet vairāk par izsekošanas aizsardzību un jūsu privātumu</a>
-tracking-mode-label = Izmantot izsekošanas aizsardzību, lai bloķētu zināmos izsekotājus
-tracking-mode-always =
-    .label = Vienmēr
-    .accesskey = m
-tracking-mode-private =
-    .label = Tikai privātajos logos
-    .accesskey = l
-tracking-mode-never =
-    .label = Nekad
-    .accesskey = N
-tracking-exceptions =
-    .label = Izņēmumi…
-    .accesskey = I
-tracking-change-block-list =
-    .label = Mainīt bloķēto sarakstu…
-    .accesskey = M
 tracking-manage-exceptions =
     .label = Pārvaldīt izņēmumus ...
     .accesskey = d
@@ -800,20 +683,9 @@ permissions-notification-link = Uzzināt vairāk
 permissions-notification-pause =
     .label = Nerādīt paziņojumus līdz { -brand-short-name } pārstartēšanai
     .accesskey = a
-permissions-block-autoplay-media =
-    .label = Neļaut lapām atskaņot multimēdijas ar skaņu
-    .accesskey = N
-permissions-block-autoplay-media-menu = Lapām, kas automātiski atskaņo skaņu
 permissions-block-autoplay-media-exceptions =
     .label = Izņēmumi...
     .accesskey = i
-autoplay-option-ask =
-    .label = Vienmēr jautāt
-autoplay-option-allow =
-    .label = Atļaut automātisku atskaņošanu
-autoplay-option-dont =
-    .label = Neatļaut automātisku atskaņošanu
-permissions-autoplay-link = Uzzināt vairāk
 permissions-block-popups =
     .label = Bloķēt jaunos logus
     .accesskey = B
@@ -846,10 +718,6 @@ collection-studies-link = Aplūkot { -brand-short-name } pētījumus
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Datu ziņošana ir atspējota šajā būvējuma konfigurācija
-collection-browser-errors =
-    .label = Atļaut { -brand-short-name } nosūtīt { -vendor-short-name } pārlūka kļūdu ziņojumus (ieskaitot kļūdas)
-    .accesskey = n
-collection-browser-errors-link = Uzzināt vairāk
 collection-backlogged-crash-reports =
     .label = Atļaut { -brand-short-name } sūtīt uzkrātos avāriju ziņojumus jūsu vārdā
     .accesskey = t
