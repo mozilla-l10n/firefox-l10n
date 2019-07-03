@@ -348,6 +348,7 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Firefox முகப்பு உள்ளடக்கம்
 home-prefs-topsites-header =
     .label = சிறந்த தளங்கள்
 # Variables:
@@ -356,8 +357,11 @@ home-prefs-recommended-by-header =
     .label = { $provider } என்பவரால் பரிந்துரைக்கப்பட்டது
 home-prefs-recommended-by-option-sponsored-stories =
     .label = விளம்பரக் கதைகள்
+home-prefs-highlights-options-bookmarks =
+    .label = புத்தகக்குறிகள்
 home-prefs-highlights-option-most-recent-download =
     .label = அண்மைய பதிவிறக்கம்
+home-prefs-snippets-description = மொசில்லா மற்றும் பயர்பாக்சிலிருந்து புதுப்பிப்புகள்
 
 ## Search Section
 
