@@ -29,11 +29,6 @@ search-input-box =
             [windows] Seçeneklerde qıdır
            *[other] Tercihlerde qıdır
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Teşkilâtıñız bazı seçeneklerni deñiştirme qabiliyetini naqabilleştirgendir.
-       *[other] Teşkilâtıñız bazı tercihlerni deñiştirme qabiliyetini naqabilleştirgendir.
-    }
 pane-general-title = Umumiy
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +41,6 @@ category-search =
 pane-privacy-title = Hususiyat ve Emniyet
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox Esabı
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -386,6 +377,47 @@ choose-bookmark =
     .label = Saifeimi qullan…
     .accesskey = m
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Firefox Ev Muhtevası
+home-prefs-content-description = Firefox Ev saifesinde körmege istegeniñiz muhtevanı saylañız.
+home-prefs-search-header =
+    .label = Ağ Qıdırması
+home-prefs-topsites-header =
+    .label = Eñ Üst Saytlar
+home-prefs-topsites-description = En çoq ziyaret etkeniñiz saytlar
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = { $provider } tevsiyeli
+home-prefs-recommended-by-description = İnternet etrafından mükemmel muhteva, siziñ içün şahsiyleştirilgen
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Sponsorlı Hikâyeler
+home-prefs-highlights-header =
+    .label = Yüksek-ışıtmalar
+home-prefs-highlights-description = Saqlağan yaki ziyaret etken olğanıñız saytlarnıñ bir saylamı
+home-prefs-highlights-option-visited-pages =
+    .label = Ziyaret etilgen saifeler
+home-prefs-highlights-options-bookmarks =
+    .label = Saifeimleri
+home-prefs-highlights-option-most-recent-download =
+    .label = Eñ Deminki Endirme
+home-prefs-highlights-option-saved-to-pocket =
+    .label = { -pocket-brand-name }’ke Saqlanğan Saifeler
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Qırpıntılar
+home-prefs-snippets-description = { -vendor-short-name } ve { -brand-product-name }’tan Yañartmalar
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } satır
+           *[other] { $num } satır
+        }
+
 ## Search Section
 
 search-bar-header = Arama çubuğu
@@ -528,8 +560,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Saqla
     .accesskey = K
-sync-mobilepromo-single = Başqa bir cihaznı bağla
-sync-mobilepromo-multi = Cihazları yönet
 sync-connect-another-device = Başqa bir cihaz bağla
 sync-manage-devices = Cihazlarnı idare et
 sync-fxa-begin-pairing = Bir cihaznı çiftle
@@ -659,7 +689,6 @@ addressbar-suggestions-settings = Qıdırma motorı telqinleri içün tercihlern
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Muhteva Bloklaması
-content-blocking-description = Ağ arqalı sizni izlegen üçünci-taraf muhtevasını blokla. Hat-üstü faaliyetiñizniñ ne qadarınıñ mağazlanğanını ve saytlar arasında üleşilgenini muraqabe etiñiz.
 content-blocking-learn-more = Daha Çoq Ögren
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -672,16 +701,13 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Özel
     .accesskey = e
-content-blocking-standard-description = Faqat Hususiy Pencere'lerde bilingen izcilerni bloklar.
 content-blocking-standard-desc = İmaye ve icraat içün muvazeneli. Ağ-saytlarınıñ münasip çalışması içün bazı izcilerge izin berir.
-content-blocking-strict-desc = { -brand-short-name } tarafından alğılanğan episi izcilerni bloklar. Bazı saytlarnıñ bozulmasına sebep olabilir.
 content-blocking-custom-desc = Nelerniñ bloklanacağını saylañız.
 content-blocking-private-trackers = Faqat Hususiy Pencere'lerde bilingen izciler
 content-blocking-third-party-cookies = Üçünci-taraf izleyici çörekler
 content-blocking-all-windows-trackers = Episi pencerelerde bilingen izciler
 content-blocking-all-third-party-cookies = Üçünci-taraf çörekleriniñ episi
 content-blocking-warning-title = Diqqat!
-content-blocking-warning-desc = Çörekler ve izcilerniñ bloklanması bazı ağ-saytlarınıñ bozulmasına yol açabilir. İtimat etkeniñiz saytlar içün bloklamanı naqabilleştirmek qolaydır.
 content-blocking-warning-description = Muhtevanıñ bloklanması bazı ağ-saytlarınıñ sınmasına sebep olabilir. İtimat etkeniñiz saytlar içün bloklamanı naqabilleştirmek qolaydır.
 content-blocking-learn-how = Nasılnı ögreniñiz
 content-blocking-trackers-label =
@@ -736,23 +762,12 @@ permissions-notification-link = Daha çoq ögren
 permissions-notification-pause =
     .label = { -brand-short-name } kene başlatılğance tebliğlerni tınışla
     .accesskey = b
-permissions-block-autoplay-media =
-    .label = Ağ-saytlarınıñ sesli muhtevanı avtomatik olaraq oynatmasını blokla
-    .accesskey = o
-permissions-block-autoplay-media-menu = Avtomatik olaraq davuş oynatqan ağ-saytları içün
 permissions-block-autoplay-media2 =
     .label = Ağ-saytlarınıñ öz-özünden davuş oynatmasını blokla
     .accesskey = b
 permissions-block-autoplay-media-exceptions =
     .label = İstisnalar…
     .accesskey = s
-autoplay-option-ask =
-    .label = Er Zaman Sora
-autoplay-option-allow =
-    .label = Avtomatik Oynatmağa İzin Ber
-autoplay-option-dont =
-    .label = Avtomatik Oynatma
-permissions-autoplay-link = Daha çoq ögren
 permissions-block-popups =
     .label = Peyda pencerelerni blokla
     .accesskey = b
@@ -788,10 +803,6 @@ addon-recommendations-link = Daha çoq ögren
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Bu yapılandırma için veri raporlama devre dışı bırakılmış
-collection-browser-errors =
-    .label = { -brand-short-name } içün, kezici hata maruzalarını (hata mesajları dahil olmaq üzre) { -vendor-short-name }’ğa yibermek caiz olsun
-    .accesskey = e
-collection-browser-errors-link = Daha çoq ögren
 collection-backlogged-crash-reports =
     .label = { -brand-short-name } içün arqa-kütüklengen çöküş maruzalarını adıñızğa yibermege caiz olsun
     .accesskey = ö
