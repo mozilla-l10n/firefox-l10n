@@ -393,11 +393,13 @@ home-prefs-search-header =
     .label = Nettsøk
 home-prefs-topsites-header =
     .label = Mest besøkte
+home-prefs-topsites-description = Sidene du besøkjer mest
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Tilrådd av { $provider }
 home-prefs-recommended-by-description = Bra innhald frå heile nettet, tilpassa for deg
+home-prefs-recommended-by-learn-more = Korleis det fungerar
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponsa historiar
 home-prefs-highlights-header =
@@ -418,6 +420,12 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Snuttar
 home-prefs-snippets-description = Oppdateringar frå { -vendor-short-name } og { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } rekkje
+           *[other] { $num } rekkjer
+        }
 
 ## Search Section
 
