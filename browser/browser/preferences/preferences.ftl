@@ -372,8 +372,44 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Firefox হোমের বিষয়বস্তু
+home-prefs-content-description = আপনার Firefox হোম স্ক্রিনে যেসব বিষয়বস্তু রাখতে চান তা পছন্দ করুন।
+home-prefs-search-header =
+    .label = ওয়েবে অনুসন্ধান
 home-prefs-topsites-header =
     .label = শীর্ষ সাইট
+home-prefs-topsites-description = যে সাইটগুলিতে আপনি বেশি যান
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = { $provider } দ্বারা সুপারিশকৃত
+home-prefs-recommended-by-description = ওয়েবের দারুন সব বিষয়বস্তু, নিজের মত করে সাজিয়ে নিন
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = স্পন্সর করা গল্প
+home-prefs-highlights-header =
+    .label = হাইলাইটগুলি
+home-prefs-highlights-description = সাইটের একটি বিভাগ যা আপনি সংরক্ষণ করেছিলেন অথবা গিয়েছিলেন
+home-prefs-highlights-option-visited-pages =
+    .label = পরিদর্শন করা পৃষ্ঠা
+home-prefs-highlights-options-bookmarks =
+    .label = বুকমার্কগুলি
+home-prefs-highlights-option-most-recent-download =
+    .label = সর্বশেষ ডাউনলোডগুলি
+home-prefs-highlights-option-saved-to-pocket =
+    .label = পৃষ্ঠাগুলি { -pocket-brand-name } এ সংরক্ষণ করা হয়েছে
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = স্নিপেটগুলি
+home-prefs-snippets-description = { -vendor-short-name } and { -brand-product-name } থেকে আসা আপডেটগুলি
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } টি সারি
+           *[other] { " " }{ $num } টি সারি
+        }
 
 ## Search Section
 
