@@ -395,6 +395,46 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Firefox giriş sayfası içeriği
+home-prefs-content-description = Firefox giriş sayfasında görmek istediğiniz içerikleri seçin.
+home-prefs-content-discovery-description = Firefox giriş sayfasındaki içerik keşfi özelliği, internetteki kaliteli ve ilginizi çekebilecek yazıları keşfetmenizi sağlar.
+home-prefs-search-header =
+    .label = Web araması
+home-prefs-topsites-header =
+    .label = Sık kullanılan siteler
+home-prefs-topsites-description = En çok ziyaret ettiğiniz siteler
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = { $provider } öneriyor
+home-prefs-recommended-by-description = İnternetin her yanından sizin için seçtiğimiz kaliteli içerikler
+home-prefs-recommended-by-learn-more = Nasıl çalışıyor?
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Sponsorlu haberler
+home-prefs-highlights-header =
+    .label = Öne çıkanlar
+home-prefs-highlights-description = Kaydettiğiniz ve ziyaret ettiğiniz sitelerin bir seçkisi
+home-prefs-highlights-option-visited-pages =
+    .label = Ziyaret ettiğim sayfalar
+home-prefs-highlights-options-bookmarks =
+    .label = Yer imleri
+home-prefs-highlights-option-most-recent-download =
+    .label = Son indirme
+home-prefs-highlights-option-saved-to-pocket =
+    .label = { -pocket-brand-name }’a kaydettiğim sayfalar
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Duyurular
+home-prefs-snippets-description = { -vendor-short-name } ve { -brand-product-name }’tan haberler
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } satır
+           *[other] { $num } satır
+        }
 
 ## Search Section
 
