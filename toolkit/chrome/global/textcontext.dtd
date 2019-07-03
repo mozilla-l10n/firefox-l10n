@@ -29,6 +29,8 @@
 
 <!ENTITY fillLoginMenu.label          "Vyplnit přihlašovací údaje">
 <!ENTITY fillLoginMenu.accesskey      "V">
+<!ENTITY fillSuggestedPassword.label  "Použít vygenerované heslo">
+<!ENTITY fillSuggestedPassword.accesskey "g">
 <!ENTITY fillPasswordMenu.label       "Vyplnit heslo">
 <!ENTITY fillPasswordMenu.accesskey   "V">
 <!ENTITY fillUsernameMenu.label       "Vyplnit uživatelské jméno">
