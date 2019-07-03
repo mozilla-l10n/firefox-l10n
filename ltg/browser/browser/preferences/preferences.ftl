@@ -27,11 +27,6 @@ search-input-box =
             [windows] Mekleit īstatiejumūs
            *[other] Mekleit īstatiejumūs
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Jiusu organizaceja aizlīguse mainēt dažus parametrus.
-       *[other] Jiusu organizaceja aizlīguse mainēt dažus parametrus.
-    }
 pane-general-title = Golvonī
 category-general =
     .tooltiptext = { pane-general-title }
@@ -44,10 +39,6 @@ category-search =
 pane-privacy-title = Privatums i drūseiba
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox konts
-category-sync =
-    .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } pabolsts
 focus-search =
     .key = f
@@ -359,6 +350,48 @@ choose-bookmark =
     .label = Lītuot gruomotzeimi…
     .accesskey = g
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Firefox sōkuma saturs
+home-prefs-content-description = Izavielej, kaidu saturu gribi redzēt Firefox sōkuma ekranā.
+home-prefs-search-header =
+    .label = Mekliešona internetā
+home-prefs-topsites-header =
+    .label = Top lopys
+home-prefs-topsites-description = Vaira apmaklātōs lopys
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = { $provider } īsaceitōs
+home-prefs-recommended-by-description = Tev dalāgōts saturs nu vysa interneta
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Sponsorāti roksti
+home-prefs-highlights-header =
+    .label = Izraudzeitī
+home-prefs-highlights-description = Tevis apmaklātū voi saglobōtū lopu izlase
+home-prefs-highlights-option-visited-pages =
+    .label = Apmaklātōs lopys
+home-prefs-highlights-options-bookmarks =
+    .label = Grōmotzeimes
+home-prefs-highlights-option-most-recent-download =
+    .label = Nasanōs lejupīlōdes
+home-prefs-highlights-option-saved-to-pocket =
+    .label = { -pocket-brand-name } saglobōtōs lapys
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Pīzeimes
+home-prefs-snippets-description = { -vendor-short-name } un { -brand-product-name } jaunumi
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [zero] { $num } rindu
+            [one] { $num } rinda
+           *[other] { $num } rindas
+        }
+
 ## Search Section
 
 search-bar-header = Mekliešonys jūsla
@@ -501,8 +534,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Saglobuot
     .accesskey = v
-sync-mobilepromo-single = Daslēgt cytu īreici
-sync-mobilepromo-multi = Porvaļdeit īreices
 sync-tos-link = Lītuošonys nūsacejumi
 sync-fxa-privacy-notice = Privatuma pīzeime
 
