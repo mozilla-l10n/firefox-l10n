@@ -350,6 +350,7 @@ choose-bookmark =
 
 home-prefs-content-header = Firefox முகப்பு உள்ளடக்கம்
 home-prefs-content-description = உங்கள் பயர்பாக்ஸ் முகப்புத் திரையில் என்ன உள்ளடக்கம் வேண்டுமென்று தேர்ந்தெடு.
+home-prefs-content-discovery-description = பயர்பாஃசு முகப்பில் உள்ள உள்ளடக்க கண்டுபிடிப்பு, வலைத்தளங்களில் உள்ள உயர் தர, தொடர்புடைய கட்டுரைகளைக் கண்டறிய அனுமதிக்கிறது.
 home-prefs-topsites-header =
     .label = சிறந்த தளங்கள்
 # Variables:
@@ -357,6 +358,7 @@ home-prefs-topsites-header =
 home-prefs-recommended-by-header =
     .label = { $provider } என்பவரால் பரிந்துரைக்கப்பட்டது
 home-prefs-recommended-by-description = இணையத்திலிருந்து சிறந்த உள்ளடக்கங்கள், உங்களுக்காக தனிப்பயனாக்கப்பட்டவை
+home-prefs-recommended-by-learn-more = இது எப்படி செயல்படுகிறது
 home-prefs-recommended-by-option-sponsored-stories =
     .label = விளம்பரக் கதைகள்
 home-prefs-highlights-header =
