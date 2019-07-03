@@ -337,6 +337,8 @@ home-prefs-highlights-option-visited-pages =
     .label = دورہ کردہ صفحہات
 home-prefs-highlights-options-bookmarks =
     .label = بک مارک
+home-prefs-highlights-option-most-recent-download =
+    .label = حالیہ ڈاؤن لوڈ شدہ
 home-prefs-highlights-option-saved-to-pocket =
     .label = صفحات { -pocket-brand-name } میں محفوظ کر دیئے گئے ہیں
 # For the "Snippets" feature traditionally on about:home.
