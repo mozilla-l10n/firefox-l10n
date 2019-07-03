@@ -390,11 +390,25 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Các trang Web hàng đầu
 home-prefs-topsites-description = Những trang bạn truy cập nhiều nhất
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Được đề xuất bởi { $provider }
+home-prefs-recommended-by-description = Nội dung tuyệt vời từ trên web, được cá nhân hóa cho bạn
+home-prefs-recommended-by-learn-more = Nó hoạt động như thế nào
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Bài viết quảng cáo
 home-prefs-highlights-header =
     .label = Nổi bật
 home-prefs-highlights-description = Một lựa chọn các trang web mà bạn đã lưu hoặc truy cập
+home-prefs-highlights-option-visited-pages =
+    .label = Trang đã truy cập
 home-prefs-highlights-options-bookmarks =
     .label = Trang đánh dấu
+home-prefs-highlights-option-most-recent-download =
+    .label = Tải xuống gần đây nhất
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Trang đã được lưu vào { -pocket-brand-name }
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -402,6 +416,8 @@ home-prefs-highlights-options-bookmarks =
 home-prefs-snippets-header =
     .label = Đoạn
 home-prefs-snippets-description = Cập nhật từ { -vendor-short-name } và { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label = { $num } hàng
 
 ## Search Section
 
