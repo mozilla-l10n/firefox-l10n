@@ -397,6 +397,7 @@ choose-bookmark =
 
 home-prefs-content-header = Agbur agejdan Firefox
 home-prefs-content-description = Fren agbur i tebɣiḍ deg ugdil agejdan Firefox.
+home-prefs-content-discovery-description = Agbur n usebter agejdan n Firefox yessumur imagraden usdiden n tɣara ifazen i d-yekkan seg kuẓ n tɣemmaṛ n Web.
 home-prefs-search-header =
     .label = Anadi Web
 home-prefs-topsites-header =
