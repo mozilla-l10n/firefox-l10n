@@ -249,8 +249,18 @@ choose-bookmark =
 
 home-prefs-topsites-header =
     .label = ເວັບໄຊທ໌ຍອດນິຍົມ
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = ແນະນຳໂດຍ { $provider }
 home-prefs-highlights-header =
     .label = ຈຸດເດັ່ນ
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = ສ່ວນຍ່ອຍ
 
 ## Search Section
 
