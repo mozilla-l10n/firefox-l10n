@@ -154,9 +154,6 @@ legacy-extensions-description = הרחבות אלו לא עומדות בתקני
 private-browsing-description2 =
     ‏{ -brand-short-name } משנה את האופן שבו הרחבות פועלות בגלישה פרטית. כל הרחבה חדשה שתתווסף אל { -brand-short-name } לא תרוץ כברירת מחדל בחלונות פרטיים. כל עוד אפשרות זו לא תופעל בהגדרות, ההרחבה לא תפעל בזמן גלישה פרטית, ולא תהיה לה גישה לפעילויות המקוונות שלך שם. עשינו את השינוי הזה כדי לשמור על הגלישה הפרטית שלך פרטית.
     <label data-l10n-name="private-browsing-learn-more">מידע נוסף על ניהול הגדרות הרחבות.</label>
-extensions-view-discover =
-    .name = קבלת תוספות
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = המלצות
     .tooltiptext = { extensions-view-discopane.name }
@@ -336,7 +333,7 @@ addon-detail-reviews-link =
 
 # Variables:
 #   $addon (string) - Name of the add-on
-pending-uninstall-description = התוספת { $addon } הוסרה.
+pending-uninstall-description = התוספת <span data-l10n-name="addon-name">{ $addon }</span> הוסרה.
 pending-uninstall-undo-button = ביטול
 addon-detail-updates-label = עדכונים אוטומטיים
 addon-detail-updates-radio-default = ברירת מחדל
