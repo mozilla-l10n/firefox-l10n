@@ -384,9 +384,12 @@ home-prefs-topsites-description = Ang mga site na iyong pinupuntahan
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Inirekomenda ni { $provider }
+home-prefs-recommended-by-learn-more = Paano gamitin
 home-prefs-highlights-header =
     .label = Mga highlight
 home-prefs-highlights-description = Ang isang seleksyon ng mga site na iyong nai-save o binisita
+home-prefs-highlights-option-visited-pages =
+    .label = Mga pahinang binisita
 home-prefs-highlights-options-bookmarks =
     .label = Mga bookmark
 home-prefs-highlights-option-most-recent-download =
