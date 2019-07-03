@@ -397,13 +397,23 @@ choose-bookmark =
 
 home-prefs-content-header = תוכן מסך הבית של Firefox
 home-prefs-content-description = בחירת תוכן שיוצג במסך הבית של Firefox.
+home-prefs-content-discovery-description = גילוי תוכן במסך הבית של Firefox מאפשר לך לגלות מאמרים רלוונטים ובאיכות גבוהה מכל רחבי הרשת.
+home-prefs-search-header =
+    .label = חיפוש ברשת
 home-prefs-topsites-header =
     .label = אתרים מובילים
+home-prefs-topsites-description = האתרים בהם ביקרת הכי הרבה
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = מומלץ על ידי { $provider }
 home-prefs-recommended-by-description = תוכן נהדר מכל רחבי הרשת, בהתאמה אישית להעדפותיך
+home-prefs-recommended-by-learn-more = איך זה עובד
 home-prefs-recommended-by-option-sponsored-stories =
     .label = סיפורים ממומנים
 home-prefs-highlights-header =
     .label = מומלצים
+home-prefs-highlights-description = מבחר של אתרים ששמרת או ביקרת בהם
 home-prefs-highlights-option-visited-pages =
     .label = עמודים בהם ביקרת
 home-prefs-highlights-options-bookmarks =
@@ -418,6 +428,13 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = פתקיות
+home-prefs-snippets-description = עדכונים מ־{ -vendor-short-name } ו־{ -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] שורה אחת
+           *[other] { $num } שורות
+        }
 
 ## Search Section
 
