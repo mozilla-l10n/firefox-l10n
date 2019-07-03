@@ -29,11 +29,6 @@ search-input-box =
             [windows] Seçeneklerde ara
            *[other] Tercihlerde ara
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Kurumunuz bazı seçenekleri değiştirme olanağını devre dışı bırakmış.
-       *[other] Kurumunuz bazı tercihleri değiştirme olanağını devre dışı bırakmış.
-    }
 managed-notice = Tarayıcınız kuruluşunuz tarafından yönetiliyor.
 pane-general-title = Genel
 category-general =
@@ -398,6 +393,9 @@ choose-bookmark =
     .label = Yer imi kullan…
     .accesskey = m
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-bar-header = Arama çubuğu
@@ -672,7 +670,6 @@ addressbar-suggestions-settings = Arama motoru önerileri için tercihleri deği
 ## Privacy Section - Content Blocking
 
 content-blocking-header = İçerik engelleme
-content-blocking-description = Web’de sizi takip eden üçüncü taraf içeriklerini engelleyebilirsiniz. İnternette yaptıklarınızın ne kadarının depolanacağına ve siteler arasında paylaşılacağına siz karar verin.
 content-blocking-section-description = Gezinirken gizliliğinizi koruyun. Ziyaret ettiğiniz siteleri izleyen ve profilinizi çıkarak görünmez içerikleri engelleyebilirsiniz. Bu içerikleri engellemek sayfaların daha hızlı yüklenmesini de sağlayabilir.
 content-blocking-learn-more = Daha fazla bilgi al
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -686,9 +683,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Özel
     .accesskey = Ö
-content-blocking-standard-description = Bilinen takipçileri yalnızca gizli penceredeyken engeller.
 content-blocking-standard-desc = Koruma ve performans dengesi sunar. Web sitelerinin düzgün çalışabilmesi için bazı takipçilere izin verir.
-content-blocking-strict-desc = { -brand-short-name } tarafından bulunan tüm takipçileri engeller. Bazı siteler düzgün çalışmayabilir.
 content-blocking-strict-description = Daha güçlü koruma. Bazı sitelerin bozulmasına neden olabilir.
 content-blocking-custom-desc = Nelerin engelleneceğini seçin.
 content-blocking-private-trackers = Bilinen takipçileri yalnızca gizli pencelerde engeller
