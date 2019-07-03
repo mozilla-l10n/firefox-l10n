@@ -347,8 +347,30 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Kontèn Ônkeuë Firefox
+home-prefs-content-description = Piléh kontèn peuë nyang droëneuh peureulèë dilayeuë Ônkeuë Firefox droëneuh.
 home-prefs-search-header =
     .label = Web Mita
+home-prefs-topsites-header =
+    .label = Situih Palèng Ateuëh
+home-prefs-topsites-description = Situih nyang kayèm that droëneuh saweuë
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Geu-usui uléh { $provider }
+home-prefs-recommended-by-description = Kontèn krak nibak ban mandum situihwèb, dipeuturi keu droëneuh
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Kisah-kisah nyang diseuponsor
+home-prefs-highlights-description = Piléh situih nyang droëneuh keubah atawa neusaweuë
+home-prefs-highlights-option-visited-pages =
+    .label = Ônwèb nyang Disaweuë
+home-prefs-highlights-options-bookmarks =
+    .label = Peutanda
+home-prefs-highlights-option-most-recent-download =
+    .label = Donlod Paléng Barô
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Ônwèb Dikeubah keu Pokèt
+home-prefs-snippets-description = Seubarô nibak { -vendor-short-name } ngon { -brand-product-name }
 home-prefs-sections-rows-option =
     .label = { $num } baréh
 
