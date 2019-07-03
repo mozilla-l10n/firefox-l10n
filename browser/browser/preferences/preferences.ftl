@@ -397,6 +397,7 @@ choose-bookmark =
 
 home-prefs-content-header = Enhavo de la hejmekrano de Firefox
 home-prefs-content-description = Elektu la enhavon, kiun vi volas en via hejmekrano de Firefox.
+home-prefs-content-discovery-description = Malkovro de enhavo en la eka paĝo de Firefox permesas al vi trovi altkvalitajn elstarajn artikolojn el la tuta teksaĵo.
 home-prefs-search-header =
     .label = Serĉo en la reto
 home-prefs-topsites-header =
@@ -407,6 +408,7 @@ home-prefs-topsites-description = Viaj plej vizititaj retejoj
 home-prefs-recommended-by-header =
     .label = Rekomendita de { $provider }
 home-prefs-recommended-by-description = Bonega enhavo de la tuta Teksaĵo, personecigita por vi
+home-prefs-recommended-by-learn-more = Kiel funkcias tio
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Patronitaj artikoloj
 home-prefs-highlights-header =
