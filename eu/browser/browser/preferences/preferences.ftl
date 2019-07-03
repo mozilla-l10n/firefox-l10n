@@ -395,12 +395,45 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Firefoxen hasiera-orriko edukia
+home-prefs-content-description = Aukeratu zein eduki nahi duzun Firefoxen hasiera-orriko pantailan.
+home-prefs-content-discovery-description = Firefoxen hasierako edukien aurkikuntzaren bidez kalitate altuko artikulu esanguratsuak aurki ditzakezu webean.
+home-prefs-search-header =
+    .label = Web bilaketa
 home-prefs-topsites-header =
     .label = Gune erabilienak
+home-prefs-topsites-description = Gehien bisitatzen dituzun guneak
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } hornitzaileak gomendatuta
+home-prefs-recommended-by-description = Webeko eduki baliotsua, zuretzat pertsonalizatuta
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Babesleen istorioak
+home-prefs-highlights-header =
+    .label = Nabarmendutakoak
+home-prefs-highlights-description = Gorde edo bisitatu dituzun guneen hautapena
+home-prefs-highlights-option-visited-pages =
+    .label = Bisitatutako orriak
+home-prefs-highlights-options-bookmarks =
+    .label = Laster-markak
+home-prefs-highlights-option-most-recent-download =
+    .label = Azken deskarga
+home-prefs-highlights-option-saved-to-pocket =
+    .label = { -pocket-brand-name }-en gordetako orriak
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Mezu-zatiak
+home-prefs-snippets-description = { -vendor-short-name } eta { -brand-product-name }i buruzko eguneraketak
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] Errenkada bat
+           *[other] { $num } errenkada
+        }
 
 ## Search Section
 
