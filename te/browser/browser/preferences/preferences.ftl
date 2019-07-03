@@ -342,6 +342,37 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Firefox ముంగిలి విషయం
+home-prefs-content-description = మీ Firefox ముంగిలి తెరలో మీకు కావలసిన విషయాల్ని ఎంచుకోండి.
+home-prefs-search-header =
+    .label = జాల వెతుకులాట
+home-prefs-topsites-header =
+    .label = మేటి సైట్లు
+home-prefs-topsites-description = మీరు తరచూ చూసే సైట్లు
+home-prefs-recommended-by-description = ప్రపంచం నలుమూలలనుండి మీకోసం వ్యక్తిగతీకరించబడిన ఆసక్తికర సమాచారం
+home-prefs-recommended-by-learn-more = ఇది ఎలా పనిచేస్తుంది
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = ప్రాయోజిక కథనాలు
+home-prefs-highlights-description = మీరు భద్రపరచిన లేదా సందర్శించిన సైట్ల నుండి ఎంపికచేసినవి
+home-prefs-highlights-option-visited-pages =
+    .label = చూసిన పేజీలు
+home-prefs-highlights-option-most-recent-download =
+    .label = ఇటీవలి దింపుకోలు
+home-prefs-highlights-option-saved-to-pocket =
+    .label = { -pocket-brand-name }లో భద్రపరచిన పేజీలు
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = సంగతులు
+home-prefs-snippets-description = మొజిల్లా, ఫైర్‌ఫాక్స్ నుండి విశేషాలు
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } వరుస
+           *[other] { $num } వరుసలు
+        }
 
 ## Search Section
 
