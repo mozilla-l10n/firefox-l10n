@@ -409,12 +409,17 @@ home-prefs-recommended-by-header =
     .label = Recommendate per { $provider }
 home-prefs-recommended-by-description = Grande contento ex tote le Web, personalisate pro te
 home-prefs-recommended-by-learn-more = Como illo labora
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Articulos sponsorisate
 home-prefs-highlights-header =
     .label = In evidentia
+home-prefs-highlights-description = Un selection de sitos que tu ha salvate o visitate
 home-prefs-highlights-option-visited-pages =
     .label = Paginas visitate
 home-prefs-highlights-options-bookmarks =
     .label = Marcapaginas
+home-prefs-highlights-option-most-recent-download =
+    .label = Discargamento plus recente
 home-prefs-highlights-option-saved-to-pocket =
     .label = Paginas salvate in { -pocket-brand-name }
 # For the "Snippets" feature traditionally on about:home.
