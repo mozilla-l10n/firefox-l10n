@@ -415,7 +415,7 @@ home-prefs-sections-rows-option =
     .label =
         { $num ->
             [one] { $num } সারি
-           *[other] { " " }{ $num } সারিগুলি
+           *[other] { $num } সারিগুলি
         }
 
 ## Search Section
