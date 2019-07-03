@@ -349,6 +349,10 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = మేటి సైట్లు
 home-prefs-topsites-description = మీరు తరచూ చూసే సైట్లు
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = { $provider }చే సిఫార్సు చేయబడినది
 home-prefs-recommended-by-description = ప్రపంచం నలుమూలలనుండి మీకోసం వ్యక్తిగతీకరించబడిన ఆసక్తికర సమాచారం
 home-prefs-recommended-by-learn-more = ఇది ఎలా పనిచేస్తుంది
 home-prefs-recommended-by-option-sponsored-stories =
