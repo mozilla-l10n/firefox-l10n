@@ -393,6 +393,10 @@ choose-bookmark =
     .label = שימוש בסימנייה…
     .accesskey = ס
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-description = בחירת תוכן שיוצג במסך הבית של Firefox.
+
 ## Search Section
 
 search-bar-header = שורת החיפוש
