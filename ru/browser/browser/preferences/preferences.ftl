@@ -29,11 +29,6 @@ search-input-box =
             [windows] Найти в настройках
            *[other] Найти в настройках
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Ваша организация запретила возможность изменения некоторых настроек.
-       *[other] Ваша организация запретила возможность изменения некоторых настроек.
-    }
 managed-notice = Этим браузером управляет ваша организация.
 pane-general-title = Основные
 category-general =
@@ -401,6 +396,27 @@ choose-bookmark =
     .label = Использовать закладку…
     .accesskey = в
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-topsites-header =
+    .label = Топ сайтов
+home-prefs-topsites-description = Сайты, которые вы чаще всего посещаете
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Рекомендовано { $provider }
+home-prefs-recommended-by-learn-more = Как это работает
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Статьи спонсоров
+home-prefs-highlights-description = Избранные сайты, которые вы сохранили или посещали
+home-prefs-highlights-option-visited-pages =
+    .label = Посещённые страницы
+home-prefs-highlights-option-most-recent-download =
+    .label = Недавние загрузки
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Страницы, сохранённые в { -pocket-brand-name }
+home-prefs-snippets-description = Обновления от { -vendor-short-name } и { -brand-product-name }
+
 ## Search Section
 
 search-bar-header = Панель поиска
@@ -675,7 +691,6 @@ addressbar-suggestions-settings = Изменить настройки для п�
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Блокировка содержимого
-content-blocking-description = Блокирует стороннее содержимое, отслеживающее вас в Интернете. Контролируйте, что из вашей онлайн-активности хранится и пересылается между сайтами.
 content-blocking-section-description = Защищайте свою приватность во время веб-сёрфинга. Блокируйте невидимый контент, который отслеживает, какие сайты вы посещаете, и профилирует вас. Блокировка некоторого содержимого может ускорить загрузку страниц.
 content-blocking-learn-more = Подробнее
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -689,9 +704,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Персональная
     .accesskey = а
-content-blocking-standard-description = Блокирует только известные трекеры в приватных окнах.
 content-blocking-standard-desc = Обеспечивает наилучший баланс защиты и производительности. Разрешает некоторые трекеры для корректной работы веб-сайтов.
-content-blocking-strict-desc = Блокирует все трекеры, известные { -brand-short-name }. Может вызывать проблемы с некоторыми веб-сайтами.
 content-blocking-strict-description = Усиленная защита может вызывать проблемы с некоторыми веб-сайтами.
 content-blocking-custom-desc = Выберите, что блокировать.
 content-blocking-private-trackers = Все известные трекеры в приватных окнах
