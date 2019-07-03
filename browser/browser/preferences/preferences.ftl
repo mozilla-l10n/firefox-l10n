@@ -27,11 +27,6 @@ search-input-box =
             [windows] विकल्पों में खोजें
            *[other] वरियताओं में खोजें
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] आपके संगठन ने कुछ विकल्पों को बदलने की क्षमता अक्षम कर दिया है.
-       *[other] आपके संगठन ने कुछ प्राथमिकताओं को बदलने की क्षमता अक्षम कर दिया है.
-    }
 pane-general-title = सामान्य
 category-general =
     .tooltiptext = { pane-general-title }
@@ -364,6 +359,11 @@ choose-bookmark =
     .label = बुकमार्क का उपयोग करें…
     .accesskey = B
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-topsites-header =
+    .label = सर्वोच्च साइटें
+
 ## Search Section
 
 search-bar-header = खोज पट्टी
@@ -628,7 +628,6 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = मनपसंद
     .accesskey = त
-content-blocking-standard-description = निजी विंडो में केवल ज्ञात ट्रैकर्स को बाधित करता है।
 content-blocking-custom-desc = अवरोधित करने के लिए चुनें।
 content-blocking-private-trackers = निजी विंडो में केवल ज्ञात ट्रैकर्स
 content-blocking-third-party-cookies = तीसरे-पक्ष की ट्रैकिंग कुकीज़
