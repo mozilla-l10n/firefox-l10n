@@ -398,10 +398,18 @@ choose-bookmark =
 home-prefs-topsites-header =
     .label = Sites preferidos
 home-prefs-recommended-by-description = Os melhores conteúdos disponíveis na Web, personalizados pra você
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Histórias patrocinadas
 home-prefs-highlights-header =
     .label = Destaques
+home-prefs-highlights-option-visited-pages =
+    .label = Páginas visitadas
 home-prefs-highlights-options-bookmarks =
     .label = Favoritos
+home-prefs-highlights-option-most-recent-download =
+    .label = Download mais recente
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Páginas salvas no { -pocket-brand-name }
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
