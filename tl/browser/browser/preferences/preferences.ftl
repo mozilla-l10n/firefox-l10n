@@ -389,6 +389,10 @@ home-prefs-highlights-header =
 home-prefs-highlights-description = Ang isang seleksyon ng mga site na iyong nai-save o binisita
 home-prefs-highlights-options-bookmarks =
     .label = Mga bookmark
+home-prefs-highlights-option-most-recent-download =
+    .label = Pinakabagong Nai-download
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Mga Pahina na Nai-save sa { -pocket-brand-name }
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
