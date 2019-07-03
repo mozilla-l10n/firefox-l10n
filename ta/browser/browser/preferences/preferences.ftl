@@ -27,11 +27,6 @@ search-input-box =
             [windows] தேர்வுகளில் கண்டுபிடி
            *[other] முன்னுரிமைகளில் கண்டுபிடி
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] சில விருப்பங்களை மாற்றும் ஆற்றலை உங்கள் நிறுவனம் முடக்கியுள்ளது.
-       *[other] சில முன்னுரிமைகளை மாற்றும் ஆற்றலை உங்கள் நிறுவனம் முடக்கியுள்ளது.
-    }
 pane-general-title = பொது
 category-general =
     .tooltiptext = { pane-general-title }
@@ -44,10 +39,6 @@ category-search =
 pane-privacy-title = தனியுரிமை & பாதுகாப்பு
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = பயர்பாக்ஸ் கணக்கு
-category-sync =
-    .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } ஆதரவு
 focus-search =
     .key = f
@@ -355,6 +346,19 @@ choose-bookmark =
     .label = புத்தககுறியை பயன்படுத்தவும்...
     .accesskey = ப
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-topsites-header =
+    .label = சிறந்த தளங்கள்
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = { $provider } என்பவரால் பரிந்துரைக்கப்பட்டது
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = விளம்பரக் கதைகள்
+home-prefs-highlights-option-most-recent-download =
+    .label = அண்மைய பதிவிறக்கம்
+
 ## Search Section
 
 search-bar-header = தேடும் பட்டை
@@ -497,8 +501,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = சேமி
     .accesskey = v
-sync-mobilepromo-single = மற்றொரு சாதனத்தை இணை
-sync-mobilepromo-multi = சாதனங்களை நிர்வகி
 sync-tos-link = சேவை விதிமுறைகள்
 sync-fxa-privacy-notice = தனியுரிம கொள்கை
 
@@ -625,23 +627,12 @@ permissions-notification-link = மேலும் அறிய
 permissions-notification-pause =
     .label = { -brand-short-name } மறுதொடங்கும் வரை அறிவிப்புகளை இடைநிறுத்து
     .accesskey = n
-permissions-block-autoplay-media =
-    .label = ஊடகங்ளை சத்தத்துடன் தானாக இயக்கும் தளங்களைத் தடு
-    .accesskey = B
-permissions-block-autoplay-media-menu = தானாக சத்தங்களை எழுப்பும் தளங்களுக்காக
 permissions-block-autoplay-media2 =
     .label = வலைத்தளங்களில் தானாக ஒலி இயக்குவதைத் தடு
     .accesskey = த
 permissions-block-autoplay-media-exceptions =
     .label = விதிவிலக்குகள்...
     .accesskey = E
-autoplay-option-ask =
-    .label = எப்போதும் கேள்
-autoplay-option-allow =
-    .label = தானியக்கத்தை அனுமதி
-autoplay-option-dont =
-    .label = தானியக்கம் வேண்டாம்
-permissions-autoplay-link = மேலும் அறிய
 permissions-block-popups =
     .label = பாப் அப் (துள்ளும்) சாளரங்களை தடுக்கவும்
     .accesskey = ப
@@ -674,10 +665,6 @@ collection-studies-link = { -brand-short-name } பாடத்திட்ட�
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = இந்தக் கட்டமைப்பிற்கு தரவு அறிக்கை முடக்கப்பட்டுள்ளது
-collection-browser-errors =
-    .label = { -brand-short-name } உலாவி பிழை அறிக்கைகளை அனுப்ப அனுமதி ({ -vendor-short-name } (பிழை செய்திகள் உட்பட)
-    .accesskey = b
-collection-browser-errors-link = மேலும் அறிய
 collection-backlogged-crash-reports =
     .label = { -brand-short-name } உங்கள் சார்பாக பின்புல சிதைவு அறிக்கையை அனுப்ப அனுமதி
     .accesskey = c
