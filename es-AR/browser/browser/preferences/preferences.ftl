@@ -433,7 +433,7 @@ home-prefs-sections-rows-option =
     .label =
         { $num ->
             [one] fila de { $num }
-           *[other] { " " }filas de { $num }
+           *[other] filas de { $num }
         }
 
 ## Search Section
