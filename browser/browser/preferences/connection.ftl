@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = Aşağıdakiler için vekil sunucu kullanılmasın
     .accesskey = A
 connection-proxy-noproxy-desc = Örnek: .mozilla.org, .com.tr, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = Localhost, 127.0.0.1 ve ::1 ile olan bağlantılar asla vekil sunucudan geçmez.
 connection-proxy-autotype =
     .label = Otomatik vekil sunucu yapılandırma URL’si
     .accesskey = O
@@ -70,12 +72,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = HTTPS üzerinden DNS’i etkinleştir
     .accesskey = H
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = Varsayılanı kullan ({ $url })
-    .accesskey = V
-    .tooltiptext = HTTPS üzerinden DNS’i çözümlemek için varsayılan adresi kullan
 connection-dns-over-https-url-resolver = Sağlayıcı
     .accesskey = S
 # Variables:

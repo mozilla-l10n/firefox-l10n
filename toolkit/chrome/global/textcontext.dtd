@@ -29,6 +29,8 @@
 
 <!ENTITY fillLoginMenu.label          "Bilgileri doldur">
 <!ENTITY fillLoginMenu.accesskey      "B">
+<!ENTITY fillSuggestedPassword.label  "Önerilen parolayı kullan">
+<!ENTITY fillSuggestedPassword.accesskey "Ö">
 <!ENTITY fillPasswordMenu.label       "Parolayı doldur">
 <!ENTITY fillPasswordMenu.accesskey   "P">
 <!ENTITY fillUsernameMenu.label       "Kullanıcı adını doldur">
