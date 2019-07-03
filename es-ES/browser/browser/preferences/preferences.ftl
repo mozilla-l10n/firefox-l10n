@@ -413,6 +413,7 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Historias patrocinadas
 home-prefs-highlights-header =
     .label = Destacados
+home-prefs-highlights-description = Una selección de sitios que ha guardado o visitado
 home-prefs-highlights-option-visited-pages =
     .label = Páginas visitadas
 home-prefs-highlights-options-bookmarks =
