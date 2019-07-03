@@ -29,11 +29,6 @@ search-input-box =
             [windows] Cerca en les opcions
            *[other] Cerca en les preferències
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] La vostra organització ha inhabilitat la possibilitat de canviar algunes opcions.
-       *[other] La vostra organització ha inhabilitat la possibilitat de canviar algunes preferències.
-    }
 managed-notice = El navegador està gestionat per la vostra organització.
 pane-general-title = General
 category-general =
@@ -398,6 +393,47 @@ choose-bookmark =
     .label = Utilitza una adreça d'interès…
     .accesskey = z
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Contingut d'inici del Firefox
+home-prefs-content-description = Trieu el contingut que voleu a la pantalla d'inici del Firefox.
+home-prefs-content-discovery-description = El descobriment de contingut en la pàgina d'inici del Firefox us permet descobrir articles de gran qualitat i rellevants de tot el web.
+home-prefs-search-header =
+    .label = Cerca web
+home-prefs-topsites-header =
+    .label = Llocs principals
+home-prefs-topsites-description = Els llocs que visiteu més sovint
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Recomanat per { $provider }
+home-prefs-recommended-by-description = El contingut més interessant de tot el web, personalitzat per a vós
+home-prefs-recommended-by-learn-more = Com funciona
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Articles patrocinats
+home-prefs-highlights-header =
+    .label = Destacats
+home-prefs-highlights-description = Una selecció dels llocs que heu desat o visitat
+home-prefs-highlights-options-bookmarks =
+    .label = Adreces d'interès
+home-prefs-highlights-option-most-recent-download =
+    .label = Baixada més recent
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Pàgines desades al { -pocket-brand-name }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Retalls
+home-prefs-snippets-description = Actualitzacions de { -vendor-short-name } i del { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } fila
+           *[other] { $num } files
+        }
+
 ## Search Section
 
 search-bar-header = Barra de cerca
@@ -669,7 +705,6 @@ addressbar-suggestions-settings = Canvia les preferències dels suggeriments de 
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bloqueig de contingut
-content-blocking-description = Bloqueu el contingut de tercers que us fan el seguiment mentre navegueu. Podeu controlar quanta activitat en línia voleu emmagatzemar i compartir entre els llocs web.
 content-blocking-section-description = Protegiu la vostra privadesa mentre navegueu. Bloqueu el contingut invisible que fa el seguiment dels llocs que visiteu per crear un perfil vostre amb aquesta informació. Blocant aquest contingut, és possible que les pàgines es carreguin més ràpid.
 content-blocking-learn-more = Més informació
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -683,9 +718,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Personalitzat
     .accesskey = z
-content-blocking-standard-description = Bloca només els elements de seguiment coneguts en finestres privades.
 content-blocking-standard-desc = Equilibri entre protecció i rendiment. Permet alguns elements de seguiment perquè els llocs web funcionin correctament.
-content-blocking-strict-desc = Bloca tots els elements de seguiment que detecta el { -brand-short-name }. Pot fer que alguns llocs no funcionin correctament.
 content-blocking-strict-description = Més protecció, pot fer que alguns llocs no funcionin correctament.
 content-blocking-custom-desc = Trieu què voleu blocar.
 content-blocking-private-trackers = Elements de seguiment coneguts en finestres privades
