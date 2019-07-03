@@ -29,11 +29,6 @@ search-input-box =
             [windows] Pronađi u Mogućnostima
            *[other] Pronađi u Postavkama
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Vaša organizacija je onemogućila mogućnost promjene nekih opcija.
-       *[other] Vaša organizacija je onemogućila mogućnost promjene nekih postavki.
-    }
 managed-notice = Vašim preglednikom upravlja vaša organizacija.
 pane-general-title = Osnovno
 category-general =
@@ -401,6 +396,27 @@ choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = š
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-discovery-description = Otkrivanje sadržaja u Firefox početnoj stranici pomaže vam u otkrivanju visoko kvalitenih, relevantnih članaka diljem interneta.
+home-prefs-topsites-header =
+    .label = Najbolje stranice
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Preporučeno od { $provider }
+home-prefs-recommended-by-description = Vrhunski sadržaj iz svih krajeva interneta, presonaliziran za vas
+home-prefs-highlights-header =
+    .label = Istaknuto
+home-prefs-highlights-options-bookmarks =
+    .label = Zabilješke
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Isječci
+
 ## Search Section
 
 search-bar-header = Traka pretraživanja
@@ -672,7 +688,6 @@ addressbar-suggestions-settings = Promijenite postavke za prijedloge tražilica
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blokiranje sadržaja
-content-blocking-description = Blokirajte sadržaj trećih strana koji vas prati na webu. Kontrolirajte koliko se vaših aktivnosti na mreži sprema i dijeli između web stranica.
 content-blocking-section-description = Zaštitite svoju privatnost dok pregledavate. Blokirajte nevidljivi sadržaj koji prati koje stranice posjećujete i profilira vas. Blokiranje dijela ovog sadržaja može ubrzati učitavanje stranica.
 content-blocking-learn-more = Saznajte više
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -686,9 +701,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Prilagođeno
     .accesskey = P
-content-blocking-standard-description = Blokiraj poznate pratitelje samo u Privatnom pretraživanju.
 content-blocking-standard-desc = Uravnoteženo za zaštitu i performanse. Dozvoli neke pratitelje tako da webstranice funkcioniraju ispravno.
-content-blocking-strict-desc = Blokiraj sve pratitelje koje { -brand-short-name } otkrije. Može uzrokovati greške na nekim stranicama.
 content-blocking-strict-description = Snažnija zaštita, može uzrokovati pucanje nekih web stranica.
 content-blocking-custom-desc = Odaberite što blokirati.
 content-blocking-private-trackers = Poznati pratitelji samo u Privatnom pretraživanju
