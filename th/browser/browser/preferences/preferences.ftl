@@ -377,6 +377,7 @@ choose-bookmark =
 
 home-prefs-content-header = เนื้อหาหน้าแรก Firefox
 home-prefs-content-description = เลือกเนื้อหาที่คุณต้องการในหน้าจอหน้าแรก Firefox ของคุณ
+home-prefs-content-discovery-description = Content Discovery ใน Firefox Home ช่วยให้คุณค้นพบบทความที่มีคุณภาพและมีความเกี่ยวข้องสูงจากทั่วทั้งเว็บ
 home-prefs-search-header =
     .label = การค้นหาเว็บ
 home-prefs-topsites-header =
