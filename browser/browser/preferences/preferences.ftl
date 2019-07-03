@@ -29,11 +29,6 @@ search-input-box =
             [windows] Søk i innstillinger
            *[other] Søk i innstillinger
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Din organisasjon har slått av muligheten til å endre visse innstillinger.
-       *[other] Din organisasjon har slått av muligheten til å endre visse innstillinger.
-    }
 managed-notice = Nettleseren din administreres av organisasjonen din.
 pane-general-title = Generelt
 category-general =
@@ -398,6 +393,49 @@ choose-bookmark =
     .label = Bruk bokmerke …
     .accesskey = u
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Innhold Firefox-startside
+home-prefs-content-description = Velg hvilket innhold som du vil ha på din Firefox-startside.
+home-prefs-content-discovery-description = Innholdsoppdagelse på Firefox startside lar deg oppdage relevante artikler av høy kvalitet fra nettet.
+home-prefs-search-header =
+    .label = Nettsøk
+home-prefs-topsites-header =
+    .label = Mest besøkte
+home-prefs-topsites-description = Mest besøkte nettsteder
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Anbefalt av { $provider }
+home-prefs-recommended-by-description = Bra innhold fra hele nettet, tilpasset for deg
+home-prefs-recommended-by-learn-more = Hvordan det virker
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Sponsede historier
+home-prefs-highlights-header =
+    .label = Høydepunkter
+home-prefs-highlights-description = Et utvalg av nettsteder som du har lagret eller besøkt
+home-prefs-highlights-option-visited-pages =
+    .label = Besøkte nettsider
+home-prefs-highlights-options-bookmarks =
+    .label = Bokmerker
+home-prefs-highlights-option-most-recent-download =
+    .label = Siste nedlasting
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Side lagret til { -pocket-brand-name }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Snutter
+home-prefs-snippets-description = Nyheter fra { -vendor-short-name } og { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } rekke
+           *[other] { $num } rekker
+        }
+
 ## Search Section
 
 search-bar-header = Søkelinje
@@ -672,7 +710,6 @@ addressbar-suggestions-settings = Endre innstillinger for søkeforslag
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Innholdsblokkering
-content-blocking-description = Blokker tredjepartsinnhold som sporer deg på nettet. Kontroller hvor mye av din internett-aktivitet som blir lagret og delt mellom nettsteder.
 content-blocking-section-description = Beskytt personvernet ditt mens du surfer. Blokker usynlig innhold som sporer nettsidene du besøker og profilerer deg. Blokkering av noe av dette innholdet kan gjøre nettsider raskere å laste.
 content-blocking-learn-more = Les mer
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -686,9 +723,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Tilpasset
     .accesskey = p
-content-blocking-standard-description = Blokker kun kjente sporere i private vindu.
 content-blocking-standard-desc = Balansert for beskyttelse og ytelse. Tillater noen sporere slik at nettsteder fungerer som de skal.
-content-blocking-strict-desc = Blokkerer alle sporere { -brand-short-name } oppdager. Dette kan begrense funksjonaliteten på visse nettsteder, eller gjøre at nettstedene ikke fungerer.
 content-blocking-strict-description = Sterkere beskyttelse, men kan forhindre noen nettsteder fra å fungere.
 content-blocking-custom-desc = Velg hva du vil blokkere.
 content-blocking-private-trackers = Kjente sporere bare i Private vindu
