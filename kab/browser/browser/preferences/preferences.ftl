@@ -395,22 +395,44 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Agbur agejdan Firefox
+home-prefs-content-description = Fren agbur i tebɣiḍ deg ugdil agejdan Firefox.
+home-prefs-search-header =
+    .label = Anadi Web
 home-prefs-topsites-header =
     .label = Ismal ifazen
+home-prefs-topsites-description = Ismal i tettwaliḍ aṭas
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Iwelleh-it-id { $provider }
+home-prefs-recommended-by-description = Agbur meqqren seg umaḍal, yettwag i kečč
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Tiqṣidin yettwarefden
 home-prefs-highlights-header =
     .label = Asebrureq
+home-prefs-highlights-description = Tafrant n yismal i teskelseḍ neɣ i twalaḍ
+home-prefs-highlights-option-visited-pages =
+    .label = isebtar yettwarzan
 home-prefs-highlights-options-bookmarks =
     .label = Ticraḍ n isebtar
+home-prefs-highlights-option-most-recent-download =
+    .label = Isidar imaynuten
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Isebtar yettwaḥerzen ar { -pocket-brand-name }
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Tiwzillin
+home-prefs-snippets-description = Ileqman seg { -vendor-short-name } d { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } izirig
+           *[other] { $num } izirigen
+        }
 
 ## Search Section
 
