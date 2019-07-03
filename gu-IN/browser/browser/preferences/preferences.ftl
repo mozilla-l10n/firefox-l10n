@@ -375,6 +375,18 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-topsites-header =
+    .label = ટોચની સાઇટ્સ
+home-prefs-highlights-header =
+    .label = વીતી ગયેલું
+home-prefs-highlights-options-bookmarks =
+    .label = બુકમાર્ક્સ
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = જાણકારી આપનારા ઉતારા ક કાપલીઓ
 
 ## Search Section
 
