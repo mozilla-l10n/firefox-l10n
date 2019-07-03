@@ -388,6 +388,7 @@ choose-bookmark =
 
 home-prefs-content-header = Firefoxin aloitussivun sisältö
 home-prefs-content-description = Valitse Firefoxin aloitussivulle haluamasi sisältö.
+home-prefs-content-discovery-description = Firefoxin aloitussivun sisällön esittely näyttää laadukkaita ja olennaisia artikkeleita ympäri verkkoa.
 home-prefs-search-header =
     .label = Verkkohaku
 home-prefs-topsites-header =
@@ -397,6 +398,8 @@ home-prefs-topsites-description = Useimmin vierailemasi sivustot
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Suositukset lähteestä { $provider }
+home-prefs-recommended-by-description = Hyvää sisältöä kaikkialta verkosta, juuri sinulle
+home-prefs-recommended-by-learn-more = Kuinka se toimii
 home-prefs-highlights-header =
     .label = Nostot
 home-prefs-highlights-description = Valikoima sivustoja, joilla olet käynyt tai jotka olet tallentanut
