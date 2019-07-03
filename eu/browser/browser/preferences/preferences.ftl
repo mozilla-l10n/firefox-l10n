@@ -29,11 +29,6 @@ search-input-box =
             [windows] Bilatu aukeretan
            *[other] Bilatu hobespenetan
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Zure erakundeak hainbat aukera aldatzeko modua desgaitu du.
-       *[other] Zure erakundeak hainbat hobespen aldatzeko modua desgaitu du.
-    }
 managed-notice = Nabigatzailea zure erakundeak kudeatzen du.
 pane-general-title = Orokorra
 category-general =
@@ -398,6 +393,15 @@ choose-bookmark =
     .label = Erabili laster-marka…
     .accesskey = b
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-topsites-header =
+    .label = Gune erabilienak
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = { $provider } hornitzaileak gomendatuta
+
 ## Search Section
 
 search-bar-header = Bilaketa-barra
@@ -672,7 +676,6 @@ addressbar-suggestions-settings = Aldatu bilaketa-motorren iradokizunetarako hob
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Edukia blokeatzea
-content-blocking-description = Blokeatu webean zure jarraipena egiten duen hirugarrenen edukia. Kontrolatu zure lineako jarduera zenbateraino gordetzen eta partekatzen den webguneen artean.
 content-blocking-section-description = Nabigatzean, babestu zure pribatutasuna. Blokeatu bisitatutako guneen jarraipena egin eta zure profila sortzeko erabiltzen den eduki ikusgaitza. Eduki hauetako batzuk blokeatzean orriak azkarrago karga litezke.
 content-blocking-learn-more = Argibide gehiago
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -686,9 +689,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Pertsonalizatua
     .accesskey = s
-content-blocking-standard-description = Jarraipen-elementu ezagunak leiho pribatuetan blokeatzen ditu soilik.
 content-blocking-standard-desc = Orekatua babeserako eta errendimendurako. Zenbait jarraipen-elementu onartzen ditu, beraz webguneak ondo ibiliko dira.
-content-blocking-strict-desc = { -brand-short-name }(e)k antzemandako jarraipen-elementu guztiak blokeatzen ditu. Zenbait webgune haustea eragin lezake.
 content-blocking-strict-description = Babes sendoagoa, hainbat gune haustea eragin lezake.
 content-blocking-custom-desc = Aukeratu zer blokeatu.
 content-blocking-private-trackers = Jarraipen-elementu ezagunak soilik leiho pribatuetan
