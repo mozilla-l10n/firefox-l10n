@@ -41,10 +41,6 @@ category-search =
 pane-privacy-title = ਪਰਦੇਦਾਰੀ ਤੇ ਸੁਰੱਖਿਆ
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = ਫਾਇਰਫਾਕਸ ਖਾਤਾ
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -366,6 +362,19 @@ choose-bookmark =
     .label = …ਬੁੱਕਮਾਰਕ ਵਰਤੋ
     .accesskey = B
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-topsites-header =
+    .label = ਸਿਖਰਲੀਆਂ ਸਾਈਟਾਂ
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = { $provider } ਵਲੋਂ ਸਿਫਾਰਸ਼ੀ
+home-prefs-highlights-header =
+    .label = ਹਾਈਲਾਈਟ
+home-prefs-highlights-options-bookmarks =
+    .label = ਬੁੱਕਮਾਰਕ
+
 ## Search Section
 
 search-bar-header = ਖੋਜ ਪੱਟੀ
@@ -508,8 +517,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = ਸੰਭਾਲੋ
     .accesskey = v
-sync-mobilepromo-single = ਹੋਰ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਕਰੋ
-sync-mobilepromo-multi = ਡਿਵਾਈਸਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
 sync-connect-another-device = ਹੋਰ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਕਰੋ
 sync-manage-devices = ਡਿਵਾਈਸਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
 sync-fxa-begin-pairing = ਡਿਵਾਈਸ ਨਾਲ ਜੋੜਾ ਬਣਾਓ
@@ -651,7 +658,6 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = ਚੁਣਿੰਦਾ
     .accesskey = c
-content-blocking-standard-description = ਸਿਰਫ਼ ਨਿੱਜੀ ਵਿੰਡੋ ਵਿੱਚ ਪਛਾਣੇ ਹੋਏ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉ।
 content-blocking-strict-description = ਹੋਰ ਵੱਧ ਸੁਰੱਖਿਆ, ਪਰ ਹੋਰ ਸਕਦਾ ਹੈ ਕਿ ਕੁਝ ਸਾਈਟਾਂ ਕੰਮ ਨਾ ਕਰਨ।
 content-blocking-custom-desc = ਚੁਣੋ ਕਿ ਕਿਸ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣੀ ਹੈ।
 content-blocking-private-trackers = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਕੇਵਲ ਜਾਣ-ਪਛਾਣੇ ਟਰੈਕਰ ਹੀ
