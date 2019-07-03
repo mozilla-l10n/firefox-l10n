@@ -29,11 +29,6 @@ search-input-box =
             [windows] Tìm trong phần tùy chọn
            *[other] Tìm trong phần tùy chỉnh
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Tổ chức của bạn đã vô hiệu hóa khả năng thay đổi một số tùy chọn.
-       *[other] Tổ chức của bạn đã vô hiệu hóa khả năng thay đổi một số tùy chọn.
-    }
 managed-notice = Trình duyệt của bạn đang được quản lý bởi tổ chức của bạn.
 pane-general-title = Tổng quát
 category-general =
@@ -386,6 +381,9 @@ choose-bookmark =
     .label = Dùng trang đánh dấu…
     .accesskey = d
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-bar-header = Thanh tìm kiếm
@@ -660,7 +658,6 @@ addressbar-suggestions-settings = Thay đổi tùy chỉnh phần gợi ý của
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Chặn nội dung
-content-blocking-description = Chặn nội dung của bên thứ ba theo dõi bạn trên web. Kiểm soát số lượng hoạt động trực tuyến của bạn được lưu trữ và chia sẻ giữa các trang web.
 content-blocking-section-description = Bảo vệ riêng tư của bạn trong khi bạn duyệt. Chặn nội dung vô hình của các trang web bạn đang xem truy cập và hồ sơ bạn. Chặn một số nội dung này có thể làm cho các trang tải nhanh hơn.
 content-blocking-learn-more = Tìm hiểu thêm
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -674,9 +671,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Tùy chọn
     .accesskey = C
-content-blocking-standard-description = Chỉ chặn các trình theo dõi đã biết trong cửa sổ riêng tư.
 content-blocking-standard-desc = Cân bằng giữa sự bảo mật và hiệu suất. Cho phép một số trình theo dõi để các trang web hoạt động chính xác.
-content-blocking-strict-desc = Chặn tất cả trình theo dõi mà { -brand-short-name } phát hiện. Có thể khiến một số trang web bị hỏng.
 content-blocking-strict-description = Bảo vệ mạnh mẽ hơn, có thể khiến một số trang web bị vỡ.
 content-blocking-custom-desc = Chọn những gì bạn muốn chặn.
 content-blocking-private-trackers = Trình theo dõi được biết chỉ trong cửa sổ riêng tư
