@@ -4,8 +4,6 @@
 
 do-not-track-description = Ninviar a los webs un sinyal de "No seguir" indicando que no quiers que te fagan garra seguimiento
 do-not-track-learn-more = Saber-ne mas
-do-not-track-option-default =
-    .label = Nomás quan s'use protección contra seguimiento
 do-not-track-option-always =
     .label = Siempre
 pref-page =
@@ -29,11 +27,6 @@ search-input-box =
             [windows] Trobar en Opcions
            *[other] Trobar en Preferencias
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] La tuya organización ha desactivau la posibilidat de cambiar bellas opcions.
-       *[other] La tuya organización ha desactivau la posibilidat de cambiar bellas preferencias.
-    }
 pane-general-title = Cheneral
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +39,6 @@ category-search =
 pane-privacy-title = Privacidat & Seguranza
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Conto de Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 help-button-label = Soporte de { -brand-short-name }
 focus-search =
     .key = f
@@ -87,9 +76,6 @@ extension-controlled-default-search = Una extensión, <img data-l10n-name="icon"
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Una extensión, <img data-l10n-name="icon"/> { $name }, requiere Pestanyas Contenederas.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Una extensión, <img data-l10n-name="icon"/> { $name }, ye controlando la protección contra seguimiento.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Una extensión, <img data-l10n-name="icon"/> { $name }, ye controlando cómo { -brand-short-name } se connecta a internet.
@@ -358,6 +344,47 @@ choose-bookmark =
     .label = Usar o marcapachinas…
     .accesskey = m
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Conteniu d'inicio de Firefox
+home-prefs-content-description = Tría qué contenisu quiers veyer en a tuya pachina d'inicio de Firefox.
+home-prefs-search-header =
+    .label = Busqueda web
+home-prefs-topsites-header =
+    .label = Puestos mas vesitaus
+home-prefs-topsites-description = Los puestos que mas vesitas
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Recomendau per { $provider }
+home-prefs-recommended-by-description = Contenius interesants de tot lo web, personalizau pa tu
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Articlos esponsorizaus
+home-prefs-highlights-header =
+    .label = Destacaus
+home-prefs-highlights-description = Una tría d'os puestos que has alzau u vesitau
+home-prefs-highlights-option-visited-pages =
+    .label = Pachinas visitadas
+home-prefs-highlights-options-bookmarks =
+    .label = Marcapachinas
+home-prefs-highlights-option-most-recent-download =
+    .label = Descarga mas recient
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Pachinas alzadas en { -pocket-brand-name }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Retallos
+home-prefs-snippets-description = Actualizacions de { -vendor-short-name } y { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } ringlera
+           *[other] { $num } ringleras
+        }
+
 ## Search Section
 
 search-bar-header = Barra de busqueda
@@ -500,8 +527,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Alzar
     .accesskey = z
-sync-mobilepromo-single = Connectar con belatro dispositivo
-sync-mobilepromo-multi = Chestionar dispositivos
 sync-tos-link = Termins d'o Servicio
 sync-fxa-privacy-notice = Nota sobre privacidat
 
@@ -511,7 +536,6 @@ privacy-header = Privacidat d'o navegador
 
 ## Privacy Section - Forms
 
-forms-header = Formularios & Claus
 forms-ask-to-save-logins =
     .label = Demandar alzar usuarios y claus d'os puestos web
     .accesskey = r
@@ -578,21 +602,12 @@ sitedata-total-size-calculating = Calculando los datos d'o puesto y la grandaria
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Las tuyas cookies, datos d'o puesto y caché son usando per agora { $value } { $unit } d'o espacio de disco
 sitedata-learn-more = Saber-ne mas
-sitedata-keep-until = Alzar dica
-    .accesskey = u
-sitedata-keep-until-expire =
-    .label = Vencen
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } ye zarrau
 sitedata-clear =
     .label = Borrar los datos…
     .accesskey = r
 sitedata-settings =
     .label = Chestionar datos…
     .accesskey = C
-sitedata-cookies-exceptions =
-    .label = Excepcions…
-    .accesskey = E
 
 ## Privacy Section - Address Bar
 
@@ -614,24 +629,6 @@ addressbar-suggestions-settings = Cam&biar las preferencias de sucherencias en m
 
 ## Privacy Section - Tracking
 
-tracking-header = Protección contra Seguimiento
-tracking-desc = La protección contra seguimiento bloca los trackers en linia que replegan los tuyos daots de navegación en diferents puestos web. <a data-l10n-name="learn-more">Conoixe mas sobre la Protección contra seguimiento y la tuya privacidat</a>
-tracking-mode-label = Usar la protección contra seguimiento pa blocar los trackers conoixius
-tracking-mode-always =
-    .label = Siempre
-    .accesskey = S
-tracking-mode-private =
-    .label = Nomás en finestras privadas
-    .accesskey = m
-tracking-mode-never =
-    .label = Nunca
-    .accesskey = N
-tracking-exceptions =
-    .label = Excepcions…
-    .accesskey = x
-tracking-change-block-list =
-    .label = Cambiar la Lista de Bloqueyo…
-    .accesskey = C
 
 ## Privacy Section - Permissions
 
@@ -656,9 +653,6 @@ permissions-notification-link = Saber-ne mas
 permissions-notification-pause =
     .label = Notificacions de pausa dica que { -brand-short-name } se reinicie
     .accesskey = n
-permissions-block-autoplay-media =
-    .label = Privar que las webs reproduzcan automaticament fichers multimedia con soniu
-    .accesskey = b
 permissions-block-autoplay-media-exceptions =
     .label = Excepcions…
     .accesskey = E
@@ -694,10 +688,6 @@ collection-studies-link = Veyer estudios de { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Lo reporte de datos ye desactivau en esta configuración de programa
-collection-browser-errors =
-    .label = Permitir que { -brand-short-name } ninvie reportes d'error d'o navegador (incluyindo mensaches d'error) ta { -vendor-short-name }
-    .accesskey = b
-collection-browser-errors-link = Saber-ne mas
 collection-backlogged-crash-reports =
     .label = Permitir que { -brand-short-name } ninvie de parte suya los reportes de fallos rechistraus previament
     .accesskey = c
