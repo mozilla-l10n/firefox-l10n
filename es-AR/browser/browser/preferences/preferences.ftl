@@ -29,11 +29,6 @@ search-input-box =
             [windows] Buscar en opciones
            *[other] Buscar en preferencias
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Su organización deshabilitó la posibilidad de cambiar algunas opciones.
-       *[other] Su organización deshabilitó la posibilidad de cambiar algunas perferencias.
-    }
 managed-notice = El navegador está siendo administrado por la organización.
 pane-general-title = General
 category-general =
@@ -398,6 +393,25 @@ choose-bookmark =
     .label = Usar un marcador…
     .accesskey = m
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-topsites-header =
+    .label = Más visitados
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Recomendado por { $provider }
+home-prefs-highlights-header =
+    .label = Destacados
+home-prefs-highlights-options-bookmarks =
+    .label = Marcadores
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Recortes
+
 ## Search Section
 
 search-bar-header = Barra de búsqueda
@@ -672,7 +686,6 @@ addressbar-suggestions-settings = Cambiar preferencias para sugerencias de busca
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bloqueo de contenido
-content-blocking-description = Bloquea el contenido de terceros que lo rastrea en la web. Controle cuánto de su actividad en línea se almacena y comparte entre sitios web.
 content-blocking-section-description = Proteja su privacidad al navegar. Bloquee contenido que rastree los sitios visitados y arma perfiles. Bloquear algún contenido puede hacer que las páginas carguen más rápido.
 content-blocking-learn-more = Conocer más
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -686,9 +699,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Personalizado
     .accesskey = z
-content-blocking-standard-description = Sólo bloquea rastreadores conocidos en pestañas privadas.
 content-blocking-standard-desc = Equilibrado para la protección y el rendimiento. Permite algunos rastreadores para que los sitios web funcionen correctamente.
-content-blocking-strict-desc = Bloquea todos los rastreadores detectados por { -brand-short-name }. Puede causar que algunos sitios fallen.
 content-blocking-strict-description = Una protección más fuerte puede causar que algunos sitios fallen.
 content-blocking-custom-desc = Elegir qué bloquear
 content-blocking-private-trackers = Rastreadores conocidos solo en Ventanas privadas
