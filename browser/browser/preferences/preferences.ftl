@@ -382,6 +382,7 @@ home-prefs-topsites-description = سایت‌هایی که بیشتر بازدی
 home-prefs-recommended-by-header =
     .label = پیشنهاد شده توسط { $provider }
 home-prefs-recommended-by-description = محتوایی عالی از سراسر وب، شخصی شده برای شما
+home-prefs-recommended-by-learn-more = این چجوری کار میکنه
 home-prefs-recommended-by-option-sponsored-stories =
     .label = محتوایی از حامیان مالی
 home-prefs-highlights-header =
