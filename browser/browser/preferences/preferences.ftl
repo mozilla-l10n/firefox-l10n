@@ -397,10 +397,12 @@ choose-bookmark =
 
 home-prefs-content-header = Contenu de la page d’accueil de Firefox
 home-prefs-content-description = Choisissez le contenu que vous souhaitez pour la page d’accueil de Firefox.
+home-prefs-content-discovery-description = La découverte de contenu dans l’accueil de Firefox vous propose des articles pertinents et de bonne qualité en provenance des quatre coins du Web.
 home-prefs-search-header =
     .label = Recherche web
 home-prefs-topsites-header =
     .label = Sites les plus visités
+home-prefs-topsites-description = Les sites que vous visitez le plus
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
@@ -411,6 +413,7 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Articles sponsorisés
 home-prefs-highlights-header =
     .label = Éléments-clés
+home-prefs-highlights-description = Une sélection de sites que vous avez sauvegardés ou visités
 home-prefs-highlights-option-visited-pages =
     .label = Pages visitées
 home-prefs-highlights-options-bookmarks =
@@ -426,6 +429,12 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Brèves
 home-prefs-snippets-description = Actualité de { -vendor-short-name } et { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } ligne
+           *[other] { $num } lignes
+        }
 
 ## Search Section
 
