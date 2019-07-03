@@ -406,11 +406,20 @@ home-prefs-topsites-description = The sites you visit most
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Recommended by { $provider }
+home-prefs-recommended-by-description = Great content from around the web, personalized for you
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Sponsored Stories
 home-prefs-highlights-header =
     .label = Highlights
 home-prefs-highlights-description = A selection of sites that you’ve saved or visited
+home-prefs-highlights-option-visited-pages =
+    .label = Visited Pages
 home-prefs-highlights-options-bookmarks =
     .label = Bookmarks
+home-prefs-highlights-option-most-recent-download =
+    .label = Most Recent Download
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Pages Saved to { -pocket-brand-name }
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
