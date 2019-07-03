@@ -382,6 +382,11 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Садржај Firefox почетне странице
+home-prefs-content-description = Изаберите садржај који желите видети на вашој Firefox почетној страници.
+home-prefs-content-discovery-description = Откривање садржаја на Firefox почетној вам омогућава да добијете веома квалитетне и вама значајне чланке са целог веба.
+home-prefs-search-header =
+    .label = Веб претрага
 home-prefs-topsites-header =
     .label = Омиљени сајтови
 home-prefs-topsites-description = Сајтови које највише посећујете
@@ -390,14 +395,34 @@ home-prefs-topsites-description = Сајтови које највише пос�
 home-prefs-recommended-by-header =
     .label = Предложио { $provider }
 home-prefs-recommended-by-description = Одличан садржај из целог света, персонализован за вас
+home-prefs-recommended-by-learn-more = Како ово ради
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Спонзорисане приче
+home-prefs-highlights-header =
+    .label = Истакнуто
+home-prefs-highlights-description = Изабрани сајтови које сте сачували или посетили
 home-prefs-highlights-option-visited-pages =
     .label = Посећене странице
+home-prefs-highlights-options-bookmarks =
+    .label = Забелешке
 home-prefs-highlights-option-most-recent-download =
     .label = Најновије преузимање
 home-prefs-highlights-option-saved-to-pocket =
     .label = Странице сачуване у { -pocket-brand-name }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Исечци
+home-prefs-snippets-description = Новости од { -vendor-short-name }-е и { -brand-product-name }-а
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } ред
+            [few] { $num } реда
+           *[other] { $num } редова
+        }
 
 ## Search Section
 
