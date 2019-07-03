@@ -380,6 +380,7 @@ home-prefs-topsites-description = Os sitios que máis visita
 home-prefs-recommended-by-header =
     .label = Recomendado por { $provider }
 home-prefs-recommended-by-description = Os mellores contidos dispoñíbeis na web, personalizados para vostede
+home-prefs-recommended-by-learn-more = Como funciona
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Historias patrocinadas
 home-prefs-highlights-header =
