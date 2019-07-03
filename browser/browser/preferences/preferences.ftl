@@ -29,11 +29,6 @@ search-input-box =
             [windows] W nastajenjach pytać
            *[other] W nastajenjach pytać
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Waša organizacija je změny někotrych nastajenjow znjemóžnił.
-       *[other] Waša organizacija je změny někotrych nastajenjow znjemóžnił.
-    }
 managed-notice = Waš wobhladowka so wot wašeje organizacije rjaduje.
 pane-general-title = Powšitkowny
 category-general =
@@ -404,6 +399,51 @@ choose-bookmark =
     .label = Zapołožku wužiwać…
     .accesskey = Z
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Wobsah startoweje strony Firefox
+home-prefs-content-description = Wubjerće, kotry wobsah chceće na swojej startowej wobrazowce Firefox měć.
+home-prefs-content-discovery-description = Content Discovery na startowej stronje Firefox wam zmóžnja, w interneće relewantne nastawki wysokeje kwality namakać.
+home-prefs-search-header =
+    .label = Webpytanje
+home-prefs-topsites-header =
+    .label = Najhusćišo wopytane sydła
+home-prefs-topsites-description = Sydła, kotrež najhusćišo wopytujeće
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Wot { $provider } doporučeny
+home-prefs-recommended-by-description = Wulkotny wobsah z cyłeho weba, wubrany specielnje za was
+home-prefs-recommended-by-learn-more = Kak funguje
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Sponsorowane stawizny
+home-prefs-highlights-header =
+    .label = Wjerški
+home-prefs-highlights-description = Wuběr websydłow, kotrež sće składował abo wopytał
+home-prefs-highlights-option-visited-pages =
+    .label = Wopytane strony
+home-prefs-highlights-options-bookmarks =
+    .label = Zapołožki
+home-prefs-highlights-option-most-recent-download =
+    .label = Najnowše sćehnjenje
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Strony składowane do { -pocket-brand-name }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Šlipki
+home-prefs-snippets-description = Aktualizacije wot { -vendor-short-name } a { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } linka
+            [two] { $num } lince
+            [few] { $num } linki
+           *[other] { $num } linkow
+        }
+
 ## Search Section
 
 search-bar-header = Pytanske polo
@@ -678,7 +718,6 @@ addressbar-suggestions-settings = Nastajenja za namjety pytawy změnić
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blokowanje wobsaha
-content-blocking-description = Blokujće wobsah třećich, kotryž wam po webje slěduje. Kontrolujće, kak husto so waša aktiwita online składuje a mjez websydłami dźěli.
 content-blocking-section-description = Škitajće swoju priwatnosć, mjeztym zo přehladujeće. Blokujće njewidźomny wobsah, kotryž sydła slěduje, kotrež wopytujeće, a profil wo was twori. Hdyž tajki wobsah blokujeće, dadźa so strony snano spěšnišo začitać.
 content-blocking-learn-more = Dalše informacije
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -692,9 +731,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Swójski
     .accesskey = S
-content-blocking-standard-description = Blokuje jenož znate přesćěhowaki w priwatnych woknach.
 content-blocking-standard-desc = Wurunany za škit a wukon. Dowoluje někotre přesćěhowaki, zo bychu websydła porjadnje fungowali.
-content-blocking-strict-desc = Blokuje wšě přesćěhowaki, kotrež { -brand-short-name } namaka. Tohodla njemóhli někotre websydła korektnje fungować.
 content-blocking-strict-description = Sylniši škit, móže zawinować, zo někotre sydła hižo njefunguja.
 content-blocking-custom-desc = Wubjerće, štož chceće blokować.
 content-blocking-private-trackers = Znate přeścěhowaki jenož w priwatnych woknach
