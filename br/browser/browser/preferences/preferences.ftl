@@ -404,22 +404,49 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Endalc'had Degemer Firefox
+home-prefs-content-description = Dibabit peseurt endalc'had a fell deoc'h kaout war ho skramm Firefox Degemer.
+home-prefs-content-discovery-description = Gant ann dizoloadenn endalc'hadoù e Firefox Home e c'hallit dizoloiñ pennadoù a berzhded uhel eus pep lec'h er web.
+home-prefs-search-header =
+    .label = Klask web
 home-prefs-topsites-header =
     .label = Lec'hiennoù gwellañ
+home-prefs-topsites-description = Al lec'hiennoù a weladennit ar muiañ
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Erbedet gant { $provider }
+home-prefs-recommended-by-description = Danvez eus an dibab eus pep lec'h er web, personelaet evidoc'h
+home-prefs-recommended-by-learn-more = Penaos ez a en-dro
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Istorioù kevelet
 home-prefs-highlights-header =
     .label = Mareoù pouezus
+home-prefs-highlights-description = Un dibab a lec'hiennoù ho peus enrollet pe gweladennet
+home-prefs-highlights-option-visited-pages =
+    .label = Pajennoù gweladennet
 home-prefs-highlights-options-bookmarks =
     .label = Sinedoù
+home-prefs-highlights-option-most-recent-download =
+    .label = Pellgargadurioù nevez
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Pajennoù enrollet e { -pocket-brand-name }
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Notennigoù
+home-prefs-snippets-description = Keleier eus { -vendor-short-name } ha { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } renk
+            [two] { $num } renk
+            [few] { $num } renk
+            [many] { $num } a renkoù
+           *[other] { $num } renk
+        }
 
 ## Search Section
 
