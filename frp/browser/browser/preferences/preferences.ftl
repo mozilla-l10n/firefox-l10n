@@ -14,8 +14,6 @@ category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-category-sync =
-    .tooltiptext = { pane-sync-title }
 close-button =
     .aria-label = Sarrar
 
@@ -76,6 +74,9 @@ home-mode-choice-default =
     .label = Reçua de Firefox
 home-homepage-custom-url =
     .placeholder = Gllètar l'adrèce
+
+## Home Section - Firefox Home Content Customization
+
 
 ## Search Section
 
