@@ -408,6 +408,7 @@ home-prefs-topsites-description = Gehien bisitatzen dituzun guneak
 home-prefs-recommended-by-header =
     .label = { $provider } hornitzaileak gomendatuta
 home-prefs-recommended-by-description = Webeko eduki baliotsua, zuretzat pertsonalizatuta
+home-prefs-recommended-by-learn-more = Nola dabilen
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Babesleen istorioak
 home-prefs-highlights-header =
