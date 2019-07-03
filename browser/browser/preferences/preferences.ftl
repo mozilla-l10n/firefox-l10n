@@ -329,22 +329,44 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Firefox गृह सामग्री
+home-prefs-content-description = तपाईंको Firefox गृह पृष्ठमा तपाईँ कुन सामग्री राख्न चाहनुहुन्छ छान्नुहोस् ।
+home-prefs-search-header =
+    .label = वेब खोजि
 home-prefs-topsites-header =
     .label = शीर्ष साइटहरू
+home-prefs-topsites-description = तपाईंले धेरै भ्रमण गर्नुभएका साइटहरू
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } द्वारा सिफारिस गरिएको
+home-prefs-recommended-by-description = वेब वरिपरिका राम्रा सामग्रीहरु, तपाईंको लागि निजीकृत गरिएको
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = प्रायोजित गरिएको कथाहरू
 home-prefs-highlights-header =
     .label = विशेषताहरू
+home-prefs-highlights-description = तपाईंले सुरक्षित गर्नुभएको वा भ्रमण गर्नुभएको साइटहरू
+home-prefs-highlights-option-visited-pages =
+    .label = भ्रमण गरिएका पृष्ठहरू
 home-prefs-highlights-options-bookmarks =
     .label = पुस्तकचिनोहरू
+home-prefs-highlights-option-most-recent-download =
+    .label = सबैभन्दा नयाँ डाउनलोड
+home-prefs-highlights-option-saved-to-pocket =
+    .label = { -pocket-brand-name } मा सङ्ग्रह गरिएका पृष्ठहरू
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = स्निप्पेटस्
+home-prefs-snippets-description = { -vendor-short-name } र { -brand-product-name } का अद्यावधिकहरू
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } पक्ति
+           *[other] { $num } पक्ति
+        }
 
 ## Search Section
 
