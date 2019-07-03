@@ -305,6 +305,11 @@ choose-bookmark =
     .label = Úsáid Leabharmharc…
     .accesskey = L
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-topsites-header =
+    .label = Barrshuímh
+
 ## Search Section
 
 search-engine-default-header = Inneall Cuardaigh Réamhshocraithe
