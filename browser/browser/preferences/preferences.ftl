@@ -400,6 +400,10 @@ home-prefs-content-description = Επιλέξτε τι περιεχόμενο θ
 home-prefs-topsites-header =
     .label = Κορυφαίες ιστοσελίδες
 home-prefs-topsites-description = Οι ιστοσελίδες που επισκέπτεστε περισσότερο
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Προτεινόμενο από τον πάροχο { $provider }
 home-prefs-highlights-header =
     .label = Κορυφαίες στιγμές
 home-prefs-highlights-description = Μια συλλογή ιστοσελίδων που έχετε αποθηκεύσει ή επισκεφθεί
