@@ -382,6 +382,7 @@ choose-bookmark =
 
 home-prefs-content-header = Inhalte des Firefox-Startbildschirms
 home-prefs-content-description = Wählen Sie, welche Inhalte auf Ihrem Firefox-Startbildschirm angezeigt werden sollen.
+home-prefs-content-discovery-description = "Neues aus dem Netz" macht auf gute Inhalte im Internet aufmerksam.
 home-prefs-search-header =
     .label = Internetsuche
 home-prefs-topsites-header =
@@ -392,6 +393,9 @@ home-prefs-topsites-description = Die von die Ihnen am meisten besuchten Website
 home-prefs-recommended-by-header =
     .label = Empfohlen von { $provider }
 home-prefs-recommended-by-description = Tolle Inhalte aus dem ganzen Internet, für Sie personalisiert
+home-prefs-recommended-by-learn-more = Wie es funktioniert
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Gesponserte Inhalte
 home-prefs-highlights-header =
     .label = Überblick
 home-prefs-highlights-description = Eine Auswahl von Websites, die Sie gespeichert oder besucht haben
