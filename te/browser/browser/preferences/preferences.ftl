@@ -27,11 +27,6 @@ search-input-box =
             [windows] ఎంపికలలో వెతకండి
            *[other] ప్రాధాన్యతలు తెరువు
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] కొన్ని ఎంపికలను మార్చుకునే సౌలభ్యాన్ని మీ సంస్థ అచేతనం చేసింది.
-       *[other] కొన్ని అభిరుచులను మార్చుకునే సౌలభ్యాన్ని మీ సంస్థ అచేతనం చేసింది.
-    }
 managed-notice = మీ విహారిణి మీ సంస్థ ద్వారా నిర్వహించబడుతోంది.
 pane-general-title = సాధారణం
 category-general =
@@ -344,6 +339,9 @@ use-current-pages =
 choose-bookmark =
     .label = ఇష్టాంశాన్ని వాడు…
     .accesskey = B
+
+## Home Section - Firefox Home Content Customization
+
 
 ## Search Section
 
