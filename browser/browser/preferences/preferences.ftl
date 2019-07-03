@@ -29,11 +29,6 @@ search-input-box =
             [windows] Sök i inställningar
            *[other] Sök i inställningar
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Ditt företag har inaktiverat möjligheten att ändra vissa inställningar.
-       *[other] Ditt företag har inaktiverat möjligheten att ändra vissa inställningar.
-    }
 managed-notice = Din webbläsare hanteras av din organisation.
 pane-general-title = Allmänt
 category-general =
@@ -398,6 +393,33 @@ choose-bookmark =
     .label = Använd bokmärke…
     .accesskey = d
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Innehåll Firefox-startskärm
+home-prefs-content-description = Välj vilket innehåll du vill ha på din startskärm i Firefox.
+home-prefs-search-header =
+    .label = Webbsök
+home-prefs-topsites-header =
+    .label = Mest besökta
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Rekommenderas av { $provider }
+home-prefs-recommended-by-description = Bra innehåll från hela webben, anpassat för dig
+home-prefs-recommended-by-learn-more = Hur fungerar det
+home-prefs-highlights-header =
+    .label = Höjdpunkter
+home-prefs-highlights-options-bookmarks =
+    .label = Bokmärken
+home-prefs-highlights-option-most-recent-download =
+    .label = Senaste nedladdning
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Kort information
+
 ## Search Section
 
 search-bar-header = Sökfält
@@ -672,7 +694,6 @@ addressbar-suggestions-settings = Ändra inställningar för förslag från sök
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Innehållsblockering
-content-blocking-description = Blockera innehåll från tredje part som spårar dig på webben. Kontrollera hur mycket av din onlineaktivitet som lagras och delas mellan webbplatser.
 content-blocking-section-description = Skydda din integritet medan du surfar. Blockera osynligt innehåll som spårar de webbplatser du besöker och profilerar dig. Att blockera något av detta innehåll kan göra att sidor laddas snabbare.
 content-blocking-learn-more = Läs mer
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -686,9 +707,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Anpassad
     .accesskey = A
-content-blocking-standard-description = Blockera endast kända trackers i privata fönster.
 content-blocking-standard-desc = Balanserad för skydd och prestanda. Tillåter vissa trackers så att webbplatser fungerar korrekt.
-content-blocking-strict-desc = Blockerar alla trackers { -brand-short-name } detekterar. Det kan begränsa funktionaliteten hos vissa webbplatser.
 content-blocking-strict-description = Starkare skydd, kan orsaka fel på vissa webbplatser.
 content-blocking-custom-desc = Välj vad du vill blockera.
 content-blocking-private-trackers = Kända trackers endast i privata fönster
