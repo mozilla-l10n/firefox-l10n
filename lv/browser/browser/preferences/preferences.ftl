@@ -371,6 +371,46 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Firefox sākuma saturs
+home-prefs-content-description = Izvēlieties, ko redzēt Firefox sākuma lapā.
+home-prefs-search-header =
+    .label = Tīmekļa meklēšana
+home-prefs-topsites-header =
+    .label = Populārākās lapas
+home-prefs-topsites-description = Biežāk apmeklētās lapas
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Iesaka { $provider }
+home-prefs-recommended-by-description = Saņemiet sev pielāgotu saturu no visas pasaules
+home-prefs-recommended-by-learn-more = Kā tas strādā
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Sponsorētie stāsti
+home-prefs-highlights-header =
+    .label = Aktualitātes
+home-prefs-highlights-description = Jūsu apmeklēto vai saglabāto lapu izlase
+home-prefs-highlights-option-visited-pages =
+    .label = Apmeklētās lapas
+home-prefs-highlights-options-bookmarks =
+    .label = Grāmatzīmes
+home-prefs-highlights-option-most-recent-download =
+    .label = Nesenās lejupielādes
+home-prefs-highlights-option-saved-to-pocket =
+    .label = { -pocket-brand-name } saglabātās lapas
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Fragmenti
+home-prefs-snippets-description = { -vendor-short-name } un { -brand-product-name } jaunumi
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [zero] { $num } rindu
+            [one] { $num } rinda
+           *[other] { $num } rindas
+        }
 
 ## Search Section
 
