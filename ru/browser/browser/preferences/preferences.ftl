@@ -432,6 +432,13 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Заметки
 home-prefs-snippets-description = Обновления от { -vendor-short-name } и { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } строка
+            [few] { $num } строки
+           *[many] { $num } строк
+        }
 
 ## Search Section
 
