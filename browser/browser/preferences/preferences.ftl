@@ -29,11 +29,6 @@ search-input-box =
             [windows] Najít v možnostech
            *[other] Najít v předvolbách
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Vaše organizace zakázala změny některých možností.
-       *[other] Vaše organizace zakázala změny některých předvoleb.
-    }
 managed-notice = Tento prohlížeč je spravován vaší organizací.
 pane-general-title = Obecné
 category-general =
@@ -407,6 +402,48 @@ choose-bookmark =
     .label = Použít záložku…
     .accesskey = z
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Obsah domovské stránky Firefoxu
+home-prefs-content-description = Vyberte obsah, který chcete mít na výchozí domovské stránce Firefoxu.
+home-prefs-content-discovery-description = Doporučování obsahu na domovské stránce obsahu vám nabídne kvalitní a relevantní články z celého internetu.
+home-prefs-search-header =
+    .label = Vyhledávání na webu
+home-prefs-topsites-header =
+    .label = Top stránky
+home-prefs-topsites-description = Nejnavštěvovanější stránky
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Doporučení ze služby { $provider }
+home-prefs-recommended-by-description = Skvělý obsah z celého webu, vybraný speciálně pro vás
+home-prefs-recommended-by-learn-more = Jak to funguje
+home-prefs-highlights-header =
+    .label = Vybrané
+home-prefs-highlights-description = Výběr z uložených nebo navštívených stránek
+home-prefs-highlights-option-visited-pages =
+    .label = Navštívené stránky
+home-prefs-highlights-options-bookmarks =
+    .label = Záložky
+home-prefs-highlights-option-most-recent-download =
+    .label = Nedávná stahování
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Stránky uložené do služby { -pocket-brand-name }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Útržky
+home-prefs-snippets-description = Aktuální informace od Mozilly a { -brand-product-name }u
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } řádek
+            [few] { $num } řádky
+           *[other] { $num } řádků
+        }
+
 ## Search Section
 
 search-bar-header = Vyhledávací pole
@@ -685,7 +722,6 @@ addressbar-suggestions-settings = Nastavit našeptávání vyhledávače
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blokování obsahu
-content-blocking-description = Blokuje obsah třetích stran, který vás na webu sleduje. Sami určete, jak velká část z vašich aktivit na internetu se bude ukládat a sdílet mezi stránkami.
 content-blocking-section-description = Chraňte své soukromí při prohlížení internetu. Zablokujte neviditelný obsah, který vás sleduje na navštívených stránkách a vytváří profil vašeho chování. Blokování takového obsahu navíc může zrychlit načítání stránek.
 content-blocking-learn-more = Zjistit více
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -699,9 +735,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Vlastní
     .accesskey = V
-content-blocking-standard-description = Blokuje sledovací prvky jen v anonymních oknech.
 content-blocking-standard-desc = Vyvážená úroveň ochrany. Povoluje některé sledovací prvky, aby stránky fungovaly správně.
-content-blocking-strict-desc = Blokuje všechny sledovací prvky, které { -brand-short-name } najde. Může omezit fungování některých stránek.
 content-blocking-strict-description = Více blokovaného obsahu zvyšuje pravděpodobnost, že některé stránky nebudou správně fungovat.
 content-blocking-custom-desc = Sami vyberte, co a kde se má blokovat.
 content-blocking-private-trackers = Sledovací prvky blokovány v anonymních oknech
