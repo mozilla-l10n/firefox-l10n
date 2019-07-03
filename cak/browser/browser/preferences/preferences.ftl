@@ -382,16 +382,22 @@ choose-bookmark =
 
 home-prefs-content-header = Etamab'äl pa ri Rutikirib'al Firefox
 home-prefs-content-description = Tacha' achike etamab'äl nawajo' pa ri Rutikirib'al Firefox ruwäch.
+home-prefs-content-discovery-description = Content Discovery pa Rutikirib'al Firefox nuya' q'ij chawe richin ye'awïl nima'q taq cholna'oj ri nïm kejqalem pa ronojel ajk'amaya'l.
 home-prefs-search-header =
     .label = Ajk'amaya'l Kanoxïk
+home-prefs-topsites-header =
+    .label = Jeb'ël Taq Ruxaq
 home-prefs-topsites-description = Taq ruxaq yalan ye'atz'ët
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Chilab'en ruma { $provider }
 home-prefs-recommended-by-description = Nïm rupam chijun ri ajk'amaya'l, ichinan awuma rat
+home-prefs-recommended-by-learn-more = Achike rub'eyal nisamäj
 home-prefs-recommended-by-option-sponsored-stories =
     .label = To'on taq B'anob'äl
+home-prefs-highlights-header =
+    .label = Ya'on kiq'ij
 home-prefs-highlights-description = Jun rucha'onem ruxaq, ri xayäk o xatz'ët
 home-prefs-highlights-option-visited-pages =
     .label = Taq Ruxaq Etz'eton
