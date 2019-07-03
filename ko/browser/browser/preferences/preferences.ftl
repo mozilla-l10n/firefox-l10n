@@ -385,6 +385,7 @@ choose-bookmark =
 
 home-prefs-content-header = Firefox 홈 콘텐츠
 home-prefs-content-description = Firefox 홈 화면에 나올 콘텐츠를 선택하세요.
+home-prefs-content-discovery-description = Firefox 홈의 콘텐츠 탐색 기능을 사용하면 웹에 있는 고품질의 관련 문서를 탐색할 수 있습니다.
 home-prefs-search-header =
     .label = 웹 검색
 home-prefs-topsites-header =
