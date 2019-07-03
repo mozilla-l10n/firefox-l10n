@@ -433,7 +433,7 @@ home-prefs-sections-rows-option =
     .label =
         { $num ->
             [one] { $num } rysýi
-           *[other] { " " }{ $num } rysýi
+           *[other] { $num } rysýi
         }
 
 ## Search Section
