@@ -407,10 +407,21 @@ home-prefs-topsites-description = Enim külastatud saidid
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } soovitab
+home-prefs-recommended-by-description = Parim veebisisu sinu huvidest lähtuvalt
 home-prefs-recommended-by-learn-more = Kuidas see töötab?
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Sponsitud postitused
+home-prefs-highlights-header =
+    .label = Esiletõstetud
 home-prefs-highlights-description = Valik saitidest, mille oled salvestanud või mida oled külastanud
+home-prefs-highlights-option-visited-pages =
+    .label = Külastatud lehed
 home-prefs-highlights-options-bookmarks =
     .label = Järjehoidjad
+home-prefs-highlights-option-most-recent-download =
+    .label = Viimane allalaadimine
+home-prefs-highlights-option-saved-to-pocket =
+    .label = { -pocket-brand-name }isse salvestatud lehed
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
