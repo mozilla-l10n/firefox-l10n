@@ -383,6 +383,9 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Firefox Home コンテンツ
+home-prefs-content-description = Firefox Home に表示するコンテンツを選びましょう。
+home-prefs-content-discovery-description = Firefox Home のコンテンツディスカバリーは関連性の高い優れた記事をウェブ上から発見できます。
 home-prefs-search-header =
     .label = ウェブ検索
 home-prefs-topsites-header =
@@ -393,6 +396,7 @@ home-prefs-topsites-description = よく訪れるサイト
 home-prefs-recommended-by-header =
     .label = { $provider } のおすすめ
 home-prefs-recommended-by-description = ウェブ上の様々な場所から集められた、あなたにピッタリの優れたコンテンツ
+home-prefs-recommended-by-learn-more = 使い方
 home-prefs-recommended-by-option-sponsored-stories =
     .label = 広告記事
 home-prefs-highlights-header =
@@ -413,6 +417,8 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = スニペット
 home-prefs-snippets-description = { -vendor-short-name } と { -brand-product-name } に関する最新情報
+home-prefs-sections-rows-option =
+    .label = { $num } 行
 
 ## Search Section
 
