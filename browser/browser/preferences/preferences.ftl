@@ -379,14 +379,44 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Cuntegn da la pagina da partenza da Firefox
+home-prefs-content-description = Tscherna il cuntegn che ti vuls vesair sin la pagina da partenza da Firefox.
+home-prefs-search-header =
+    .label = Tschertga web
 home-prefs-topsites-header =
     .label = Paginas preferidas
+home-prefs-topsites-description = Las paginas che ti visitas il pli savens
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Recumandà da { $provider }
+home-prefs-recommended-by-description = Cuntegn interessant ord il web, persunalisà per tai
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Artitgels sponsurads
 home-prefs-highlights-header =
     .label = Accents
+home-prefs-highlights-description = Ina selecziun da paginas che ti has memorisà u visità
+home-prefs-highlights-option-visited-pages =
+    .label = Paginas visitadas
+home-prefs-highlights-options-bookmarks =
+    .label = Segnapaginas
+home-prefs-highlights-option-most-recent-download =
+    .label = L'ultima telechargiada
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Paginas memorisadas en { -pocket-brand-name }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Zinslas
+home-prefs-snippets-description = Novitads da { -vendor-short-name } e { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } lingia
+           *[other] { $num } lingias
+        }
 
 ## Search Section
 
