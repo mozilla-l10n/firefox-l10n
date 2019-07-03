@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = Erandid
     .accesskey = n
 connection-proxy-noproxy-desc = Näide: .mozilla.org, .net.nz, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = localhosti, 127.0.0.1 ja ::1 peale suunduvaid ühendusi ei suunata kunagi läbi puhverserveri.
 connection-proxy-autotype =
     .label = Puhverserveri automaatse häälestuse URL
     .accesskey = a
@@ -70,12 +72,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Lubatakse DNS üle HTTPSi
     .accesskey = D
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = kasutatakse vaikeaadressi ({ $url })
-    .accesskey = a
-    .tooltiptext = Kasuta üle HTTPSi töötava DNSi puhul vaikeaadressi
 connection-dns-over-https-url-resolver = Teenusepakkuja
     .accesskey = j
 # Variables:
