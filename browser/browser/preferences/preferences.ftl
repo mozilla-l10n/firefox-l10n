@@ -383,12 +383,25 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Nội dung trang chủ của Firefox
+home-prefs-content-description = Chọn nội dung mà bạn muốn thêm vào trang chủ của Firefox.
+home-prefs-search-header =
+    .label = Tìm kiếm web
 home-prefs-topsites-header =
     .label = Các trang Web hàng đầu
+home-prefs-topsites-description = Những trang bạn truy cập nhiều nhất
 home-prefs-highlights-header =
     .label = Nổi bật
+home-prefs-highlights-description = Một lựa chọn các trang web mà bạn đã lưu hoặc truy cập
 home-prefs-highlights-options-bookmarks =
     .label = Trang đánh dấu
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Đoạn
+home-prefs-snippets-description = Cập nhật từ { -vendor-short-name } và { -brand-product-name }
 
 ## Search Section
 
