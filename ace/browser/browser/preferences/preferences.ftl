@@ -4,8 +4,6 @@
 
 do-not-track-description = Neukirém keu situs web saboh tanda "Bèk Seutöt". Neubri tanda nyang droëneuh hana meuheut keu jiseutot.
 do-not-track-learn-more = Meurunoë lom
-do-not-track-option-default =
-    .label = 'Oh watèe ngui Peulindông Seutöt mantöng
 do-not-track-option-always =
     .label = Sabé
 pref-page =
@@ -29,11 +27,6 @@ search-input-box =
             [windows] Mita bak Piléhan
            *[other] Mita bak Preferen
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Preferensi awak droen ka meupeulën ladôm
-       *[other] Piléhan keu atô ata awak droen ka meupeulën ladôm
-    }
 pane-general-title = Umom
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +39,6 @@ category-search =
 pane-privacy-title = Jaga Rahsia & Keuamanan
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Akun Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 help-button-label = Dukông { -brand-short-name }
 addons-button-label = Èkstènsi & Kulét
 focus-search =
@@ -88,9 +77,6 @@ extension-controlled-default-search = Sabôh èkstènsi, <img data-l10n-name="ic
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Sabôh èkstènsi, <img data-l10n-name="icon"/>, peureulèë Tab Kontèner.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Sabôh ekstensi, <img data-l10n-name="icon"/>, jipeuatô proteksi tracking
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Sabôh èkstènsi, <img data-l10n-name="icon"/>, meuatô pakiban cara { -brand-short-name } meuhubông keu inteunèt.
@@ -359,6 +345,11 @@ choose-bookmark =
     .label = Ngui bookmark...
     .accesskey = g
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-sections-rows-option =
+    .label = { $num } baréh
+
 ## Search Section
 
 search-bar-header = Bar seumeutöt
@@ -501,8 +492,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Keubah
     .accesskey = K
-sync-mobilepromo-single = Seumöng peukakah laen
-sync-mobilepromo-multi = Atô peukakah
 sync-tos-link = Term nibak peuhirö
 sync-fxa-privacy-notice = Bri thëe privasi
 
@@ -512,7 +501,6 @@ privacy-header = Privasi Browser
 
 ## Privacy Section - Forms
 
-forms-header = Formulir & Lageuem Rahsia
 forms-ask-to-save-logins =
     .label = Lakèe keubah info tamong ngön lageuem rahsia keu situs wèb
     .accesskey = L
@@ -579,12 +567,6 @@ sitedata-total-size-calculating = Bileueng data situs nngön rayëk cache
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Cache, data situs ngon cookies nyang neukeubah jinoe jingui  { $value } { $unit } ruweueng keubah disk
 sitedata-learn-more = Meurunoë lom
-sitedata-keep-until = Keumiet 'an
-    .accesskey = K
-sitedata-keep-until-expire =
-    .label = Kabeh masa nyan
-sitedata-keep-until-closed =
-    .label = { -brand-short-name } ka jitôp
 sitedata-allow-cookies-option =
     .label = Teurimong kuki ngön data situs
     .accesskey = T
@@ -597,9 +579,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Uroh Data...
     .accesskey = U
-sitedata-cookies-exceptions =
-    .label = Keucuali
-    .accesskey = e
 
 ## Privacy Section - Address Bar
 
@@ -619,44 +598,10 @@ addressbar-suggestions-settings = Gantoe geunalak keu saran meusén mita
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Tham asoe
-content-blocking-desc = Tham asoe third-party, lagéi ads atawa kode, nyang peumeulék browsing droen dan ji peiku droen nibak web. Atô peuatô droen beu abéh lagak nibak proteksi dan performance
 content-blocking-learn-more = Meurunoe lôm
-content-blocking-restore-defaults =
-    .label = Peupuléh lagéi söt
-    .accesskey = P
-content-blocking-toggle-on =
-    .tooltiptext = Peulén peutham asoe
-content-blocking-toggle-off =
-    .tooltiptext = Peu udép peutham asoe
-content-blocking-toggle-label-on = Udép
-    .accesskey = U
-content-blocking-toggle-label-off = Lén
-    .accesskey = L
-content-blocking-category-label = Piléh nyan neutham
-content-blocking-tracking-protection-option-always =
-    .label = Sabé
-    .accesskey = S
 
 ## Privacy Section - Tracking
 
-tracking-header = Lindông Seumeutöt
-tracking-desc = Lindong Seumeutöt jitheun seumeutöt online nyang jipeusaho data pumeuhah wèb droeneuh lam macam-macam situs wèb. <a data-l10n-name="learn-more">Neumeurunoe lom bhaih Lindông Seumeutöt ngön privasi Droeneuh</a>
-tracking-mode-label = Ngui Lindông Seumeutöt keu blokir peulacak nyang geutupeue
-tracking-mode-always =
-    .label = Sabé
-    .accesskey = S
-tracking-mode-private =
-    .label = Bak tingkap pribadi mantöng
-    .accesskey = B
-tracking-mode-never =
-    .label = Han tom
-    .accesskey = H
-tracking-exceptions =
-    .label = Keucuwali...
-    .accesskey = K
-tracking-change-block-list =
-    .label = Gantoe Seunaroe Tham
-    .accesskey = G
 
 ## Privacy Section - Permissions
 
@@ -681,20 +626,9 @@ permissions-notification-link = Meurunoë lom
 permissions-notification-pause =
     .label = Bèk bri thèe dilèe trôk 'an { -brand-short-name } jimulai ulang
     .accesskey = B
-permissions-block-autoplay-media =
-    .label = Blokir situs wèb nibak jiputa mèdia nyang na su ngön otomatis
-    .accesskey = B
-permissions-block-autoplay-media-menu = Keu situs web nyang i meusu ju keudroe
 permissions-block-autoplay-media-exceptions =
     .label = Keucuali
     .accesskey = K
-autoplay-option-ask =
-    .label = Tanyöng sabé
-autoplay-option-allow =
-    .label = Peuidin teuhah keudroe
-autoplay-option-dont =
-    .label = Bèk puta keudroe
-permissions-autoplay-link = Meurunoë lom
 permissions-block-popups =
     .label = Blokir tingkap pop-up
     .accesskey = B
@@ -727,10 +661,6 @@ collection-studies-link = Kalön kajian { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Lapuran data meupeulèn keu build konfigurasi nyoe
-collection-browser-errors =
-    .label = Peuidin { -brand-short-name } ji kirém lapuran error browser ( rôh syit peusan error ) keu { -vendor-short-name }
-    .accesskey = P
-collection-browser-errors-link = Meurunoë lom
 collection-backlogged-crash-reports =
     .label = Peuidin { -brand-short-name } i kirém lapuran crash backlogged meunyô neu
     .accesskey = P
@@ -773,3 +703,6 @@ certs-view =
 certs-devices =
     .label = Peukakah Peuji'oh Mara Bahya
     .accesskey = P
+
+## The following strings are used in the Download section of settings
+
