@@ -409,7 +409,7 @@ home-prefs-sections-rows-option =
     .label =
         { $num ->
             [one] { $num } টি সারি
-           *[other] { " " }{ $num } টি সারি
+           *[other] { $num } টি সারি
         }
 
 ## Search Section
