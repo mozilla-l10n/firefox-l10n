@@ -29,11 +29,6 @@ search-input-box =
             [windows] Fyn yn Opsjes
            *[other] Fyn yn Foarkarren
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Jo organisaasje hat de mooglikheid om guon opsjes te wizigjen útskeakele.
-       *[other] Jo organisaasje hat de mooglikheid om guon foarkarren te wizigjen útskeakele.
-    }
 managed-notice = Jo browser wurdt troch jo organisaasje beheard.
 pane-general-title = Algemien
 category-general =
@@ -398,6 +393,49 @@ choose-bookmark =
     .label = Blêdwizer brûke…
     .accesskey = B
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Ynhâld fan Firefox-startside
+home-prefs-content-description = Kies hokker ynhâld jo op jo Firefox-startside werjaan wolle.
+home-prefs-content-discovery-description = Fia Content Discovery op de Firefox-startside kinne jo relevante artikelen op it hiele web mei hege kwaliteit fine.
+home-prefs-search-header =
+    .label = Sykje op it web
+home-prefs-topsites-header =
+    .label = Topwebsites
+home-prefs-topsites-description = De troch jo meast besochte websites
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Oanrekommandearre troch { $provider }
+home-prefs-recommended-by-description = Bjusterbaarlike ynhâld fan it ynternet, oanpast foar jo
+home-prefs-recommended-by-learn-more = Hoe it wurket
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Sponsore ferhalen
+home-prefs-highlights-header =
+    .label = Hichtepunten
+home-prefs-highlights-description = In seleksje fan websites dy't jo bewarre of besocht hawwe
+home-prefs-highlights-option-visited-pages =
+    .label = Besochte siden
+home-prefs-highlights-options-bookmarks =
+    .label = Blêdwizers
+home-prefs-highlights-option-most-recent-download =
+    .label = Meast resinte download
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Siden bewarre nei { -pocket-brand-name }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Koarte ynformaasje
+home-prefs-snippets-description = Fernijingen fan { -vendor-short-name } en { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } rige
+           *[other] { $num } rigen
+        }
+
 ## Search Section
 
 search-bar-header = Sykbalke
@@ -672,7 +710,6 @@ addressbar-suggestions-settings = Foarkarren foar sykmasinesuggestjes wizigje
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Ynhâldsblokkearring
-content-blocking-description = Blokkearje ynhâld fan tredden dy't jo sneupgedrach folget. Bepaal hoefolle fan jo online-aktiviteit bewarre wurdt en tusken websites dield wurdt.
 content-blocking-section-description = Beskermje jo privacy wylst jo sneupe. Blokkearje ûnsichtbere ynhâld dy't de troch jo besochte websites folget en jo profilearje. Troch wat fan dizze ynhâld te blokkearjen lade siden mooglik flugger.
 content-blocking-learn-more = Mear ynfo
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -686,9 +723,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Oanpast
     .accesskey = O
-content-blocking-standard-description = Blokkearret allinnich bekende trackers yn priveefinsters.
 content-blocking-standard-desc = Balansearre foar beskerming en prestaasjes. Stiet bepaalde trackers ta, sadat websites goed wurkje.
-content-blocking-strict-desc = Blokkearret alle trackers dy't { -brand-short-name } detektearret. Kin derfoar soargje dat bepaalde websites net goed wurkje.
 content-blocking-strict-description = Strangere beskerming, kin derfoar soargje dat bepaalde websites net goed wurkje.
 content-blocking-custom-desc = Kies wat der blokkearre wurdt.
 content-blocking-private-trackers = Bekende trackers allinnich yn priveefinsters
