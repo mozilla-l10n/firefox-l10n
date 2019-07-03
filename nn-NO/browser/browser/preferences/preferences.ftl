@@ -29,11 +29,6 @@ search-input-box =
             [windows] Søk i innstillingar
            *[other] Søk i innstillingar
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Din organisasjon har slått av mulegheita til å endre visse innstillingar.
-       *[other] Din organisasjon har slått av mulegheita til å endre visse innstillingar.
-    }
 managed-notice = Nettlessaren din vert administrert av organisasjonen din.
 pane-general-title = Generelt
 category-general =
@@ -390,6 +385,40 @@ choose-bookmark =
     .label = Bruk bokmerke…
     .accesskey = u
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Innhald Firefox-startside
+home-prefs-content-description = Vel kva for innhald du vil ha på Firefox-startsida di.
+home-prefs-search-header =
+    .label = Nettsøk
+home-prefs-topsites-header =
+    .label = Mest besøkte
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Tilrådd av { $provider }
+home-prefs-recommended-by-description = Bra innhald frå heile nettet, tilpassa for deg
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Sponsa historiar
+home-prefs-highlights-header =
+    .label = Høgdepunkt
+home-prefs-highlights-description = Eit utval av nettsider som du har lagra eller besøkt
+home-prefs-highlights-option-visited-pages =
+    .label = Besøkte sider
+home-prefs-highlights-options-bookmarks =
+    .label = Bokmerke
+home-prefs-highlights-option-most-recent-download =
+    .label = Siste nedlasting
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Sider lagra til { -pocket-brand-name }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Snuttar
+home-prefs-snippets-description = Oppdateringar frå { -vendor-short-name } og { -brand-product-name }
+
 ## Search Section
 
 search-bar-header = Søkjelinje
@@ -664,7 +693,6 @@ addressbar-suggestions-settings = Endre innstillingar for søkjeforslag
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Innhaldsblokkering
-content-blocking-description = Blokker tredjepartsinnhald som sporar deg på nettet. Kontroller kor mykje av internett-aktiviteten din som blir lagra og delt mellom nettstadar.
 content-blocking-section-description = Ta vare på personvernet ditt når du surfar. Blokker usynleg innhald som sporar sidene du besøkjer og profilerer deg. Blokkering av noko av dette innhaldet kan gjere sider raskare å laste.
 content-blocking-learn-more = Les meir
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -678,9 +706,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Tilpassa
     .accesskey = p
-content-blocking-standard-description = Blokker berre kjende sporfølgjarar i private vindauge.
 content-blocking-standard-desc = Balansert for vern og yting. Tillèt nokre sporfølgjarar slik at nettsider fungerer som dei skal.
-content-blocking-strict-desc = Blokkerer alle sporfølgjarar { -brand-short-name } oppdagar. Dette kan avgrense funksjonaliteten på nokre nettsider, eller gjere at nettsidene ikkje fungerer.
 content-blocking-strict-description = Sterkare vern kan føre til feil på nettsider.
 content-blocking-custom-desc = Vell kva du vil blokkere.
 content-blocking-private-trackers = Kjende sporfølgjarar berre i Private vindauge
