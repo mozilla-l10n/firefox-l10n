@@ -4,8 +4,6 @@
 
 do-not-track-description = ನೀವು ಟ್ರ್ಯಾಕ್ ಮಾಡಲು ಬಯಸದ ಜಾಲತಾಣಗಳಿಗೆ "ಡು ನಾಟ್ ಟ್ರ್ಯಾಕ್" ಸಿಗ್ನಲ್ ಅನ್ನು ಕಳುಹಿಸಿ
 do-not-track-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
-do-not-track-option-default =
-    .label = ಜಾಡು ಇರಿಸುವಿಕೆ ರಕ್ಷಣೆಯನ್ನು ಬಳಸುವಾಗ ಮಾತ್ರ
 do-not-track-option-always =
     .label = ಯಾವಾಗಲೂ
 pref-page =
@@ -41,10 +39,6 @@ category-search =
 pane-privacy-title = ಗೋಪ್ಯತೆ & ಸುರಕ್ಷತೆ
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox ಖಾತೆ
-category-sync =
-    .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } ಸಹಾಯ
 focus-search =
     .key = f
@@ -270,6 +264,19 @@ choose-bookmark =
     .label = ಪುಟಗುರುತನ್ನು ಬಳಸು…
     .accesskey = B
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = ಫೈರ್ಫಾಕ್ಸ್ ಮುಖಪುಟದ ವಿಷಯ
+home-prefs-search-header =
+    .label = ಜಾಲದ ಹುಡುಕಾಟ
+home-prefs-recommended-by-learn-more = ಇದು ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ
+home-prefs-highlights-option-visited-pages =
+    .label = ಭೇಟಿಕೊಟ್ಟ ಪುಟಗಳು
+home-prefs-highlights-option-most-recent-download =
+    .label = ತೀರಾ ಇತ್ತೀಚಿನ ಡೌನ್ಲೋಡ್
+home-prefs-highlights-option-saved-to-pocket =
+    .label = ಪಾಕೆಟ್ಗೆ ಉಳಿಸಲಾದ ಪುಟಗಳು
+
 ## Search Section
 
 search-bar-header = ಹುಡುಕು  ಪಟ್ಟಿ
@@ -370,8 +377,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = ಉಳಿಸು‍
     .accesskey = v
-sync-mobilepromo-single = ಮತ್ತೊಂದು ಸಾಧನವನ್ನು ಸಂಪರ್ಕವನ್ನು ಸಾಧಿಸು
-sync-mobilepromo-multi = ಸಾಧನಗಳನ್ನು ನಿರ್ವಹಿಸು
 sync-tos-link = ಸೇವೆಯ ನಿಯಮಗಳು
 sync-fxa-privacy-notice = ಗೌಪ್ಯತಾ ಸೂಚನೆ
 
@@ -381,7 +386,6 @@ privacy-header = ವೀಕ್ಷಕದ ಗೌಪ್ಯತೆ
 
 ## Privacy Section - Forms
 
-forms-header = ಫಾರ್ಮ್ಗಳು & ಗುಪ್ತಪದಗಳು
 forms-exceptions =
     .label = ವಿನಾಯಿತಿಗಳು...
     .accesskey = x
@@ -433,17 +437,12 @@ history-clear-on-close-settings =
 
 sitedata-header = ಕುಕ್ಕಿಗಳು ಮತ್ತು ತಾಣ ದತ್ತಾಂಶ
 sitedata-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
-sitedata-keep-until = ಈವರೆಗೆ ಇರಿಸಿಕೋ
-    .accesskey = u
 sitedata-clear =
     .label = ದತ್ತಾಂಶ ಬರಿದುಮಾಡು…
     .accesskey = l
 sitedata-settings =
     .label = ದತ್ತಾಂಶವನ್ನು ನಿರ್ವಹಿಸು…
     .accesskey = M
-sitedata-cookies-exceptions =
-    .label = ವಿನಾಯಿತಿಗಳು...
-    .accesskey = E
 
 ## Privacy Section - Address Bar
 
@@ -463,32 +462,9 @@ addressbar-suggestions-settings = ಹುಡುಕು ಯಂತ್ರಗಳ ಸ�
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
-content-blocking-toggle-label-on = ಆನ್‌
-    .accesskey = O
-content-blocking-toggle-label-off = ಆಫ್‌
-    .accesskey = O
-content-blocking-tracking-protection-option-always =
-    .label = ಯಾವಾಗಲೂ
-    .accesskey = A
 
 ## Privacy Section - Tracking
 
-tracking-header = ಜಾಡು ಇರಿಸುವಿಕೆ ಇಂದ ರಕ್ಷಣೆ
-tracking-mode-always =
-    .label = ಯಾವಾಗಲೂ
-    .accesskey = y
-tracking-mode-private =
-    .label = Only ಖಾಸಗಿ ಕಿಟಕಿಗಳಲ್ಲಿ
-    .accesskey = l
-tracking-mode-never =
-    .label = ಎಂದಿಗೂ ಬೇಡ
-    .accesskey = N
-tracking-exceptions =
-    .label = ವಿನಾಯಿತಿಗಳು...
-    .accesskey = x
-tracking-change-block-list =
-    .label = ನಿರ್ಬಂಧಿತ ಪಟ್ಟಿಯನ್ನು ಬದಲಿಸು…
-    .accesskey = C
 
 ## Privacy Section - Permissions
 
@@ -526,7 +502,6 @@ permissions-a11y-privacy-link = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರ�
 collection-header = { -brand-short-name } ದತ್ತಾಂಶ ಸಂಗ್ರಹಣೆ ಮತ್ತು ಬಳಕೆ
 collection-privacy-notice = ಗೌಪ್ಯತಾ ಸೂಚನೆ
 collection-health-report-link = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
-collection-browser-errors-link = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 collection-backlogged-crash-reports-link = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 
 ## Privacy Section - Security
