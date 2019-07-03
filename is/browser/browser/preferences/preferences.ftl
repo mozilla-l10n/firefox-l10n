@@ -387,6 +387,45 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Upphafssíða Firefox
+home-prefs-content-description = Veldu hvaða efni þú vilt á Firefox heimaskjánum þínum.
+home-prefs-search-header =
+    .label = Vefleit
+home-prefs-topsites-header =
+    .label = Efstu vefsvæði
+home-prefs-topsites-description = Mest heimsóttu vefsíður
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Með þessu mælir { $provider }
+home-prefs-recommended-by-description = Frábært efni víðsvegar að af vefnum, sérsniðið fyrir þig
+home-prefs-recommended-by-learn-more = Hvernig það virkar
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Kostaðar sögur
+home-prefs-highlights-header =
+    .label = Hápunktar
+home-prefs-highlights-description = Úrval af vefsvæðum sem þú hefur vistað eða heimsótt
+home-prefs-highlights-option-visited-pages =
+    .label = Heimsóttar síður
+home-prefs-highlights-options-bookmarks =
+    .label = Bókamerki
+home-prefs-highlights-option-most-recent-download =
+    .label = Síðasta niðurhal
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Síður vistaðar í { -pocket-brand-name }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Bútar
+home-prefs-snippets-description = Uppfærslur frá { -vendor-short-name } og { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } röð
+           *[other] { $num } raðir
+        }
 
 ## Search Section
 
