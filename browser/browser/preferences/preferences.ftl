@@ -29,11 +29,6 @@ search-input-box =
             [windows] Localizar nas opções
            *[other] Localizar nas preferências
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] A sua organização desativou a habilidade de alterar algumas opções.
-       *[other] A sua organização desativou a habilidade de alterar algumas preferências.
-    }
 managed-notice = O seu navegador está a ser gerido pela sua organização.
 pane-general-title = Geral
 category-general =
@@ -398,6 +393,9 @@ choose-bookmark =
     .label = Utilizar marcador…
     .accesskey = m
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-bar-header = Barra de pesquisa
@@ -672,7 +670,6 @@ addressbar-suggestions-settings = Alterar preferências para as sugestões dos m
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bloqueio de conteúdo
-content-blocking-description = Bloqueie conteúdo de terceiros que lhe monitoriza pela web. Controle quanto da sua atividade online é armazenada e partilhada entre websites.
 content-blocking-section-description = Proteja a sua privacidade enquanto navega. Bloqueie conteúdo invisível que monitoriza os sites que visita e lhe perfila. Bloquear parte deste conteúdo pode fazer com que as páginas carreguem mais rapidamente.
 content-blocking-learn-more = Saber mais
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -686,9 +683,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Personalizado
     .accesskey = e
-content-blocking-standard-description = Apenas bloqueia trackers em janelas privadas.
 content-blocking-standard-desc = Equilibrado para proteção e desempenho. Permite alguns trackers para que os websites funcionem corretamente.
-content-blocking-strict-desc = Bloqueia todos os trackers que o { -brand-short-name } deteta. Pode causar com que alguns sites quebrem.
 content-blocking-strict-description = Proteção mais forte, pode causar com que alguns sites quebrem.
 content-blocking-custom-desc = Escolha o que bloquear.
 content-blocking-private-trackers = Trackers conhecidos apenas em janelas privadas
