@@ -397,6 +397,7 @@ choose-bookmark =
 
 home-prefs-content-header = Kuatiarogue retepy Firefox ñepyrũháme
 home-prefs-content-description = Eiporavo mba’e retepýpa eipota Firefox mba’erechaha ñepyrũháme.
+home-prefs-content-discovery-description = Content Discovery Firefox kuatiarogue ñepyrũme ohechaukakuaa tetepy oikóva ha iporãva ñandutípe g̃uarã.
 home-prefs-search-header =
     .label = Ñandutípe jeheka
 home-prefs-topsites-header =
