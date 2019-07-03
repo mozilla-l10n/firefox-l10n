@@ -395,6 +395,8 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-topsites-header =
+    .label = Sites preferidos
 home-prefs-recommended-by-description = Os melhores conteúdos disponíveis na Web, personalizados pra você
 home-prefs-highlights-header =
     .label = Destaques
