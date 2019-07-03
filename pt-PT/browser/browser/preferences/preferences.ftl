@@ -395,6 +395,46 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Conteúdo do ecrã inicial do Firefox
+home-prefs-content-description = Escolha que conteúdo deseja no seu ecrã inicial do Firefox.
+home-prefs-content-discovery-description = A descoberta de conteúdo no Início do Firefox permite-lhe descobrir artigos relevantes e de alta qualidade de toda a web.
+home-prefs-search-header =
+    .label = Pesquisa Web
+home-prefs-topsites-header =
+    .label = Sites mais visitados
+home-prefs-topsites-description = Os sites que mais visita
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Recomendado por { $provider }
+home-prefs-recommended-by-description = Ótimo conteúdo de toda a web, personalizado para si
+home-prefs-recommended-by-learn-more = Como funciona
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Histórias patrocinadas
+home-prefs-highlights-header =
+    .label = Destaques
+home-prefs-highlights-description = Uma seleção de sites que guardou ou visitou
+home-prefs-highlights-option-visited-pages =
+    .label = Páginas visitadas
+home-prefs-highlights-options-bookmarks =
+    .label = Marcadores
+home-prefs-highlights-option-most-recent-download =
+    .label = Transferência mais recente
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Páginas guardadas no { -pocket-brand-name }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Excertos
+home-prefs-snippets-description = Atualizações da { -vendor-short-name } e do { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } linha
+           *[other] { $num } linhas
+        }
 
 ## Search Section
 
