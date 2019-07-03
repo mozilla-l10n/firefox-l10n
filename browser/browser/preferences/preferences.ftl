@@ -395,12 +395,15 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-description = Seleccione el contenido que desea en la pantalla de inicio de Firefox.
 home-prefs-topsites-header =
     .label = Sitios populares
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Recomendado por { $provider }
+home-prefs-recommended-by-description = El mejor contenido de toda la web, personalizado para usted
+home-prefs-recommended-by-learn-more = Cómo funciona
 home-prefs-highlights-header =
     .label = Destacados
 home-prefs-highlights-options-bookmarks =
@@ -413,6 +416,12 @@ home-prefs-highlights-option-most-recent-download =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Mensajes interactivos
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } fila
+           *[other] { $num } filas
+        }
 
 ## Search Section
 
