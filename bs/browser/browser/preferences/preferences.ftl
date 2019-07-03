@@ -340,6 +340,16 @@ home-prefs-topsites-header =
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Preporučeno od { $provider }
+home-prefs-highlights-header =
+    .label = Istaknuto
+home-prefs-highlights-options-bookmarks =
+    .label = Zabilješke
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Isječci
 
 ## Search Section
 
