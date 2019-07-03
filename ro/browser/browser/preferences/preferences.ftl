@@ -406,6 +406,10 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Site-uri de top
 home-prefs-topsites-description = Site-urile pe care le vizitezi cel mai des
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Recomandat de { $provider }
 home-prefs-recommended-by-description = Conținut nemaipomenit de pe web, personalizat pentru tine
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Articole sponsorizate
