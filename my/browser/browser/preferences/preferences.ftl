@@ -351,10 +351,15 @@ home-prefs-topsites-header =
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } က အကြံပြုထားသည်
+home-prefs-recommended-by-learn-more = ဘယ်လိုအလုပ်လုပ်လဲ
 home-prefs-highlights-header =
     .label = ဦးစားပေးအကြောင်းအရာများ
+home-prefs-highlights-option-visited-pages =
+    .label = လည်ပတ်ခဲ့သည့်စာမျက်နှာများ
 home-prefs-highlights-options-bookmarks =
     .label = စာမှတ်များ
+home-prefs-highlights-option-most-recent-download =
+    .label = လတ်တလောဆွဲချမှုများ
 home-prefs-highlights-option-saved-to-pocket =
     .label = { -pocket-brand-name } တွင် သိမ်းထားသည့် စာမျက်နှာများ
 # For the "Snippets" feature traditionally on about:home.
@@ -363,6 +368,7 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = မှတ်စုတိုများ
+home-prefs-snippets-description = { -vendor-short-name } နှင့် { -brand-product-name } မှ အပ်ဒိတ်များ
 
 ## Search Section
 
