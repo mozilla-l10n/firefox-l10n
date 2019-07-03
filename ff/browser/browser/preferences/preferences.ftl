@@ -372,12 +372,28 @@ home-prefs-content-header = Loowdi Jaɓɓorgo Firefox
 home-prefs-content-description = Suɓo hol loowdi njiɗɗaa e yaynirde jaɓɓorgo Firefox maa.
 home-prefs-search-header =
     .label = Njiilaw Geese
+home-prefs-topsites-header =
+    .label = Lowre Rowrowe
 home-prefs-topsites-description = Lowe ɗe ɓurɗaa waawde yillaade
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Waggini ɗum ko { $provider }
+home-prefs-recommended-by-description = Loowdi dowrowri geese, keertinanaandi ma
+home-prefs-recommended-by-learn-more = Hol no gollortoo
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Daari joɓanaaɗi
 home-prefs-highlights-header =
     .label = Jalbine
 home-prefs-highlights-description = Suɓngo lowe ɗe ndannduɗaa walla ɗe njilliɗaa
+home-prefs-highlights-option-visited-pages =
+    .label = Kelle jiyaaɗe
 home-prefs-highlights-options-bookmarks =
     .label = Maantore
+home-prefs-highlights-option-most-recent-download =
+    .label = Cakkitiiɗe awteede
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Kelle kisnaaɗe e { -pocket-brand-name }
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -385,6 +401,12 @@ home-prefs-highlights-options-bookmarks =
 home-prefs-snippets-header =
     .label = Taƴitine
 home-prefs-snippets-description = Kesɗitineiwde e { -vendor-short-name } kañum e { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } gorol
+           *[other] { $num } gorol
+        }
 
 ## Search Section
 
