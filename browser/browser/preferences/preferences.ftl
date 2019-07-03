@@ -399,6 +399,8 @@ home-prefs-highlights-options-bookmarks =
     .label = બુકમાર્ક્સ
 home-prefs-highlights-option-most-recent-download =
     .label = સૌથી તાજેતરની ડાઉનલોડ
+home-prefs-highlights-option-saved-to-pocket =
+    .label = { -pocket-brand-name } પર સાચવેલ પૃષ્ઠો
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
