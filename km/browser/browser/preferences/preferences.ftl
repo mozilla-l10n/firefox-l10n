@@ -332,8 +332,13 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = ខ្លឹមសារ Firefox Home
+home-prefs-content-description = ជ្រើសរើស​ខ្លឹមសារ​អ្វីដែលអ្នកចង់បាននៅលើអេក្រង់ Firefox Home របស់អ្នក។
+home-prefs-search-header =
+    .label = ការស្វែងរកតាម​អ៊ីនធឺណិត
 home-prefs-topsites-header =
     .label = សាយកំពូល
+home-prefs-topsites-description = គេហទំព័រ​ដែល​អ្នក​មើល​ច្រើន​បំផុត
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
@@ -341,6 +346,7 @@ home-prefs-recommended-by-header =
 home-prefs-recommended-by-learn-more = របៀប​ដែល​វា​ដំណើរការ
 home-prefs-highlights-header =
     .label = រឿងសំខាន់ៗ
+home-prefs-highlights-description = ការជ្រើសរើស​គេហទំព័រ​ដែល​អ្នក​បាន​រក្សាទុក ឬ​មើល
 home-prefs-highlights-option-visited-pages =
     .label = ទំព័រ​ដែល​បាន​ទស្សនា
 home-prefs-highlights-options-bookmarks =
@@ -351,6 +357,7 @@ home-prefs-highlights-options-bookmarks =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = អត្ថបទសង្ខេប
+home-prefs-snippets-description = បច្ចុប្បន្នភាពពី { -vendor-short-name } និង { -brand-product-name }
 
 ## Search Section
 
