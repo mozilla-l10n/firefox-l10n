@@ -316,6 +316,30 @@ choose-bookmark =
     .label = بک مارک استعمال کریں…
     .accesskey = B
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Firefox ابتائی مواد
+home-prefs-search-header =
+    .label = وءب تلاش
+home-prefs-topsites-header =
+    .label = بہترین سائٹیں
+home-prefs-topsites-description = سائٹس جو آُپ سب سے زیادہ ملاحظہ کرتے ہیں
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = سرپرست شدہ کہاناں
+home-prefs-highlights-header =
+    .label = شہ سرخياں
+home-prefs-highlights-option-visited-pages =
+    .label = دورہ کردہ صفحہات
+home-prefs-highlights-option-saved-to-pocket =
+    .label = صفحات { -pocket-brand-name } میں محفوظ کر دیئے گئے ہیں
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = سنپیٹ
+home-prefs-snippets-description = { -vendor-short-name } اور{ -brand-product-name } کی جانب سے تازہ کاریاں
+
 ## Search Section
 
 search-bar-header = تلاش بار
