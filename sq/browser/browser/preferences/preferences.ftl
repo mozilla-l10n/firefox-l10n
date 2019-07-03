@@ -29,11 +29,6 @@ search-input-box =
             [windows] Gjeni te Mundësitë
            *[other] Gjeni te Parapëlqimet
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Enti juaj e ka çaktivizuar aftësinë e ndryshimit të disa mundësive
-       *[other] Enti juaj e ka çaktivizuar mundësinë e ndryshimit të disa parapëlqimeve
-    }
 managed-notice = Shfletuesi juaj administrohet nga enti juaj.
 pane-general-title = Të përgjithshme
 category-general =
@@ -398,6 +393,49 @@ choose-bookmark =
     .label = Përdorni Faqerojtës…
     .accesskey = F
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Lëndë Firefox Home
+home-prefs-content-description = Zgjidhni ç’lëndë doni në skenën tuaj Firefox.
+home-prefs-content-discovery-description = Zbulimi i Lëndës në Kreun e Firefox-it ju lejon të zbuloni në internet artikuj të cilësisë së lartë, dhe afër interesave tuaja.
+home-prefs-search-header =
+    .label = Kërkim Web
+home-prefs-topsites-header =
+    .label = Sajte Kryesues
+home-prefs-topsites-description = Sajtet që vizitoni më tepër
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Rekomanduar nga { $provider }
+home-prefs-recommended-by-description = Lëndë e bukur nga anembanë internetit, personalizuar për ju
+home-prefs-recommended-by-learn-more = Si funksionon
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Histori të Sponsorizuara
+home-prefs-highlights-header =
+    .label = Highlights
+home-prefs-highlights-description = Një përzgjedhje të sajteve që keni ruajtur ose vizituar
+home-prefs-highlights-option-visited-pages =
+    .label = Faqe të Vizituara
+home-prefs-highlights-options-bookmarks =
+    .label = Faqerojtës
+home-prefs-highlights-option-most-recent-download =
+    .label = Shkarkimet Më të Reja
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Faqe të Ruajtura te { -pocket-brand-name }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Copëza
+home-prefs-snippets-description = Përditësime nga { -vendor-short-name } dhe { -brand-product-name }-i
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } rresht
+           *[other] { $num } rreshta
+        }
+
 ## Search Section
 
 search-bar-header = Shtyllë Kërkimesh
@@ -672,7 +710,6 @@ addressbar-suggestions-settings = Ndryshoni parapëlqimet mbi këshillime motor�
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bllokim Lënde
-content-blocking-description = Bllokoni lëndë palësh të treta që ju ndjek nëpër internet. Kontrolloni ç’pjesë e veprimtarisë tuaj depozitohet dhe shkëmbehet mes sajtesh.
 content-blocking-section-description = Mbroni privatësinë tuaj teksa shfletoni. Bllokoni lëndë të padukshme që gjurmon sajtet që vizitoni dhe që krijojnë një profil tuajin. Bllokimi i një pjese të kësaj lënde mund të sjellë ngarkim më të shpejtë të faqeve.
 content-blocking-learn-more = Mësoni më tepër
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -686,9 +723,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Vetjak
     .accesskey = V
-content-blocking-standard-description = Bllokon vetëm gjurmues të njohur në Dritare Private.
 content-blocking-standard-desc = E baraspeshuar mes mbrojtjes dhe funksionimit. Lejon disa gjurmues, që sajtet të funksionojnë si duhet.
-content-blocking-strict-desc = Bllokon krejt gjurmuesit që pikas { -brand-short-name }-i. Mund të sjellë mosfunksionim të disa sajteve.
 content-blocking-strict-description = Mbrojtje më e fortë, mund të shkaktojë mosfunksionim për disa sajte.
 content-blocking-custom-desc = Zgjidhni ç’të bllokohet.
 content-blocking-private-trackers = Gjurmues të njohur vetëm në Dritare Private
