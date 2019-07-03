@@ -397,6 +397,7 @@ choose-bookmark =
 
 home-prefs-content-header = Περιεχόμενο αρχικής σελίδας Firefox
 home-prefs-content-description = Επιλέξτε τι περιεχόμενο θέλετε στην αρχική σελίδα του Firefox σας.
+home-prefs-content-discovery-description = Η ανακάλυψη περιεχομένου στην Αρχική Firefox σάς επιτρέπει να ανακαλύψετε υψηλής ποιότητας, σχετικά άρθρα από όλο τον ιστό.
 home-prefs-search-header =
     .label = Διαδικτυακή αναζήτηση
 home-prefs-topsites-header =
@@ -407,6 +408,7 @@ home-prefs-topsites-description = Οι ιστοσελίδες που επισκ�
 home-prefs-recommended-by-header =
     .label = Προτεινόμενο από τον πάροχο { $provider }
 home-prefs-recommended-by-description = Εξαιρετικό περιεχόμενο από το διαδίκτυο, εξατομικευμένο για εσάς
+home-prefs-recommended-by-learn-more = Πώς λειτουργεί
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Χορηγούμενες ιστορίες
 home-prefs-highlights-header =
