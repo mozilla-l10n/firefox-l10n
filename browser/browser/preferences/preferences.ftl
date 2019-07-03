@@ -400,6 +400,20 @@ choose-bookmark =
 
 home-prefs-topsites-header =
     .label = Папулярныя сайты
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Рэкамендавана { $provider }
+home-prefs-highlights-header =
+    .label = Выбранае
+home-prefs-highlights-options-bookmarks =
+    .label = Закладкі
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Урыўкі
 
 ## Search Section
 
