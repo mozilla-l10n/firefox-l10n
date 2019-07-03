@@ -397,6 +397,7 @@ choose-bookmark =
 
 home-prefs-content-header = Firefox Home Content
 home-prefs-content-description = Choose what content you want on your Firefox Home screen.
+home-prefs-content-discovery-description = Content Discovery in Firefox Home allows you to discover high-quality, relevant articles from across the web.
 home-prefs-search-header =
     .label = Web Search
 home-prefs-topsites-header =
@@ -407,6 +408,7 @@ home-prefs-topsites-description = The sites you visit most
 home-prefs-recommended-by-header =
     .label = Recommended by { $provider }
 home-prefs-recommended-by-description = Great content from around the web, personalized for you
+home-prefs-recommended-by-learn-more = How it works
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponsored Stories
 home-prefs-highlights-header =
