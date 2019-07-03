@@ -349,12 +349,14 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header = Firefox முகப்பு உள்ளடக்கம்
+home-prefs-content-description = உங்கள் பயர்பாக்ஸ் முகப்புத் திரையில் என்ன உள்ளடக்கம் வேண்டுமென்று தேர்ந்தெடு.
 home-prefs-topsites-header =
     .label = சிறந்த தளங்கள்
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } என்பவரால் பரிந்துரைக்கப்பட்டது
+home-prefs-recommended-by-description = இணையத்திலிருந்து சிறந்த உள்ளடக்கங்கள், உங்களுக்காக தனிப்பயனாக்கப்பட்டவை
 home-prefs-recommended-by-option-sponsored-stories =
     .label = விளம்பரக் கதைகள்
 home-prefs-highlights-header =
@@ -370,6 +372,12 @@ home-prefs-highlights-option-most-recent-download =
 home-prefs-snippets-header =
     .label = துணுக்குகள்
 home-prefs-snippets-description = மொசில்லா மற்றும் பயர்பாக்சிலிருந்து புதுப்பிப்புகள்
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } வரிசை
+           *[other] { $num } வரிசைகள்
+        }
 
 ## Search Section
 
