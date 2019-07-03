@@ -27,10 +27,6 @@ search-input-box =
             [windows] Търсене в настройките
            *[other] Търсене в настройките
         }
-policies-notice =
-    { PLATFORM() ->
-       *[other] Възможността да променяте някои настройки е ограничена от вашата организация.
-    }
 pane-general-title = Основни
 category-general =
     .tooltiptext = { pane-general-title }
@@ -43,10 +39,6 @@ category-search =
 pane-privacy-title = Поверителност и защита
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox Account
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -367,6 +359,23 @@ choose-bookmark =
     .label = Отметка…
     .accesskey = О
 
+## Home Section - Firefox Home Content Customization
+
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Препоръчано от { $provider }
+home-prefs-highlights-header =
+    .label = Акценти
+home-prefs-highlights-options-bookmarks =
+    .label = Отметки
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Изрезки
+
 ## Search Section
 
 search-bar-header = Лента за търсене
@@ -509,8 +518,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Запазване
     .accesskey = З
-sync-mobilepromo-single = Добавяне на устройство
-sync-mobilepromo-multi = Управление на устройства
 sync-tos-link = Условия на услугата
 sync-fxa-privacy-notice = Политика на поверителност
 
