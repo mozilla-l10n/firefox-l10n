@@ -396,6 +396,25 @@ choose-bookmark =
     .label = Folosește un marcaj…
     .accesskey = B
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Conținutul paginii de start Firefox
+home-prefs-content-description = Alege ce conținut vrei pe ecranul de start Firefox.
+home-prefs-topsites-description = Site-urile pe care le vizitezi cel mai des
+home-prefs-recommended-by-description = Conținut nemaipomenit de pe web, personalizat pentru tine
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Articole sponsorizate
+home-prefs-highlights-header =
+    .label = Evidențieri
+home-prefs-highlights-option-visited-pages =
+    .label = Pagini vizitate
+home-prefs-highlights-options-bookmarks =
+    .label = Marcaje
+home-prefs-highlights-option-most-recent-download =
+    .label = Cele mai recente descărcări
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Pagini salvate în { -pocket-brand-name }
+
 ## Search Section
 
 search-bar-header = Bară de căutare
