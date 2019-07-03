@@ -29,11 +29,6 @@ search-input-box =
             [windows] Szukaj w opcjach
            *[other] Szukaj w preferencjach
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Administrator zablokował możliwość zmiany niektórych opcji
-       *[other] Administrator zablokował możliwość zmiany niektórych preferencji
-    }
 managed-notice = Przeglądarka jest zarządzana przez administratora
 pane-general-title = Ogólne
 category-general =
@@ -401,6 +396,22 @@ choose-bookmark =
     .label = Użyj zakładki…
     .accesskey = z
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Strona startowa Firefoksa
+home-prefs-content-description = Wybierz, co wyświetlać na stronie startowej Firefoksa.
+home-prefs-content-discovery-description = Funkcja odkrywania treści na stronie startowej Firefoksa umożliwia odkrywanie spersonalizowanych artykułów o wysokiej jakości z całego Internetu.
+home-prefs-topsites-header =
+    .label = Popularne
+home-prefs-topsites-description = Najczęściej odwiedzane strony.
+home-prefs-recommended-by-description = Świetne rzeczy z całego Internetu, wybrane specjalnie dla Ciebie
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Sponsorowane artykuły
+home-prefs-highlights-header =
+    .label = Wyróżnione
+home-prefs-highlights-options-bookmarks =
+    .label = Zakładki
+
 ## Search Section
 
 search-bar-header = Pasek wyszukiwania
@@ -675,7 +686,6 @@ addressbar-suggestions-settings = Zmień ustawienia podpowiedzi dostarczanych pr
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blokowanie treści
-content-blocking-description = Blokowanie elementów zewnętrznych witryn, które śledzą aktywność użytkowników sieci. Zdecyduj, jak wiele informacji o aktywności ma być przechowywane i współdzielone przez witryny.
 content-blocking-section-description = Chroń swoją prywatność podczas przeglądania. Blokuj niewidoczne elementy, które śledzą odwiedzane witryny i Cię profilują. Zablokowanie niektórych treści może przyspieszyć wczytywanie stron.
 content-blocking-learn-more = Więcej informacji
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -689,9 +699,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Własne
     .accesskey = W
-content-blocking-standard-description = Blokowanie znanych elementów śledzących tylko w oknach prywatnych.
 content-blocking-standard-desc = Wyważone pod kątem ochrony i szybkości wczytywania stron. Dopuszcza pewne elementy śledzące, aby strony działały prawidłowo.
-content-blocking-strict-desc = Blokowanie wszystkich elementów śledzących wykrytych przez przeglądarkę { -brand-short-name }. Może powodować problemy z niektórymi stronami.
 content-blocking-strict-description = Silniejsza ochrona, ale może powodować problemy z niektórymi stronami.
 content-blocking-custom-desc = Wybierz, co blokować:
 content-blocking-private-trackers = znane elementy śledzące w oknach prywatnych
