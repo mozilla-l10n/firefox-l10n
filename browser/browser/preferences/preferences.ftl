@@ -281,14 +281,13 @@ update-enable-search-update =
     .label = Aggiorna automaticamente i motori di ricerca
     .accesskey = M
 update-pref-write-failure-title = Errore di scrittura
-update-setting-write-failure-title = Errore durante il salvataggio delle preferenze
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Errore durante il salvataggio della preferenza. Impossibile scrivere il file: { $path }
-
+update-setting-write-failure-title = Errore durante il salvataggio delle preferenze
 update-setting-write-failure-message =
     Si è verificato un errore e questa modifica non è stata salvata. Per aggiornare le preferenze è necessario avere i permessi di scrittura sul file indicato in seguito. Dovrebbe essere possibile correggere il problema assegnando al gruppo Utenti il pieno controllo di questo file.
-
+    
     Impossibile scrivere il file: { $path }
 update-in-progress-title = Aggiornamento in corso
 update-in-progress-message = Consentire a { -brand-short-name } di completare l’aggiornamento?
@@ -386,6 +385,47 @@ use-current-pages =
 choose-bookmark =
     .label = Usa un segnalibro…
     .accesskey = b
+
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Pagina iniziale di Firefox
+home-prefs-content-description = Scegli i contenuti da visualizzare nella pagina iniziale di Firefox.
+home-prefs-search-header =
+    .label = Ricerca sul Web
+home-prefs-topsites-header =
+    .label = Siti principali
+home-prefs-topsites-description = I siti più visitati
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Consigliati da { $provider }
+home-prefs-recommended-by-description = Contenuti interessanti da tutto il Web, personalizzati per te.
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Articoli sponsorizzati
+home-prefs-highlights-header =
+    .label = In evidenza
+home-prefs-highlights-description = Una selezione di siti che hai salvato o visitato in precedenza
+home-prefs-highlights-option-visited-pages =
+    .label = Pagine visitate
+home-prefs-highlights-options-bookmarks =
+    .label = Segnalibri
+home-prefs-highlights-option-most-recent-download =
+    .label = Download più recenti
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Pagine salvate in { -pocket-brand-name }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Snippet
+home-prefs-snippets-description = Aggiornamenti da { -vendor-short-name } e { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } riga
+           *[other] { $num } righe
+        }
 
 ## Search Section
 
@@ -614,9 +654,7 @@ sitedata-learn-more = Ulteriori informazioni
 sitedata-delete-on-close =
     .label = Elimina cookie e dati dei siti web alla chiusura di { -brand-short-name }
     .accesskey = c
-
 sitedata-delete-on-close-private-browsing = Se la modalità Navigazione anonima è sempre attiva, i cookie e i dati dei siti web verranno eliminati alla chiusura di { -brand-short-name }.
-
 sitedata-allow-cookies-option =
     .label = Accetta cookie e dati dei siti web
     .accesskey = A
@@ -674,7 +712,6 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Personalizzato
     .accesskey = P
-
 content-blocking-standard-desc = Il perfetto equilibrio tra protezione e prestazioni. Consenti alcuni elementi traccianti in modo da garantire il corretto funzionamento dei siti.
 content-blocking-strict-description = Maggiore protezione, alcuni siti potrebbero non funzionare correttamente.
 content-blocking-custom-desc = Scegli che cosa bloccare.
@@ -691,8 +728,8 @@ content-blocking-warning-description = Il blocco di contenuti potrebbe impedire 
 content-blocking-learn-how = Scopri come
 content-blocking-reload-description = È necessario ricaricare le schede per applicare le modifiche.
 content-blocking-reload-tabs-button =
-  .label = Ricarica tutte le schede
-  .accesskey = R
+    .label = Ricarica tutte le schede
+    .accesskey = R
 content-blocking-trackers-label =
     .label = Elementi traccianti
     .accesskey = E
@@ -707,13 +744,13 @@ content-blocking-cookies-label =
     .label = Cookie
     .accesskey = C
 content-blocking-expand-section =
-  .tooltiptext = Ulteriori informazioni
+    .tooltiptext = Ulteriori informazioni
 content-blocking-cryptominers-label =
-  .label = Cryptominer
-  .accesskey = y
+    .label = Cryptominer
+    .accesskey = y
 content-blocking-fingerprinters-label =
-  .label = Fingerprinter
-  .accesskey = F
+    .label = Fingerprinter
+    .accesskey = F
 
 ## Privacy Section - Tracking
 
@@ -747,10 +784,10 @@ permissions-notification-pause =
 permissions-block-autoplay-media2 =
     .label = Impedisci ai siti web di riprodurre automaticamente audio
     .accesskey = m
-permissions-autoplay = Riproduzione automatica
 permissions-block-autoplay-media-exceptions =
     .label = Eccezioni…
     .accesskey = E
+permissions-autoplay = Riproduzione automatica
 permissions-autoplay-settings =
     .label = Impostazioni…
     .accesskey = t
@@ -783,11 +820,9 @@ collection-health-report-link = Ulteriori informazioni
 collection-studies =
     .label = Consenti a { -brand-short-name } di installare e condurre studi
 collection-studies-link = Visualizza studi di { -brand-short-name }
-
 addon-recommendations =
     .label = Consenti a { -brand-short-name } di visualizzare suggerimenti personalizzati relativi alle estensioni
 addon-recommendations-link = Ulteriori informazioni
-
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = L’invio dei dati è stato disattivato nella configurazione utilizzata per questa build
