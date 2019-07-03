@@ -29,11 +29,6 @@ search-input-box =
             [windows] Eheka Jeporavorãme
            *[other] Eheka Jerohoryvévape
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Nde atyguasu omboguéma ikatúva omambue heta Jeporavorã.
-       *[other] Nde atyguasu omboguéma ikatúva omambue heta jererohoryvéva.
-    }
 managed-notice = Pe kundaha rehe oñangareko atyguasu.
 pane-general-title = Tuichakue
 category-general =
@@ -398,6 +393,25 @@ choose-bookmark =
     .label = Techaukaha puru…
     .accesskey = B
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-topsites-header =
+    .label = Tenda Ojeikevéva
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = { $provider } he'i ndéve reike hag̃ua
+home-prefs-highlights-header =
+    .label = Mba'erechapyrã
+home-prefs-highlights-options-bookmarks =
+    .label = Techaukaha
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Mba'epehẽ
+
 ## Search Section
 
 search-bar-header = Jeheka Renda
@@ -672,7 +686,6 @@ addressbar-suggestions-settings = Jerohoryvéva jehekaha mongu'eha je'epyre momb
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Ejoko tetepy
-content-blocking-description = Ejoko pe tetepy mbohapyháva ohapykuehóva ñandutípe. Eñangareko hembiapo ñanduti pegua ombyaty ha omoherakuãramo ambue ñanduti renda ndive.
 content-blocking-section-description = Emo’ã nde rekoñemi eikundahakuévo. Ejoko tetepy ohapykuehóva umi tenda eike hague ha ojapo mba’ete. Ejokóvo ndahetái tetepy ikatuhína ombopya’eve kuatiarogue ñemyenyhẽ.
 content-blocking-learn-more = Eikuaave
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -686,9 +699,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Ñemomba'e
     .accesskey = C
-content-blocking-standard-description = Ejoko jehekaha ojekuaáva ovetã ñemiguápe añoite.
 content-blocking-standard-desc = Ijojáva omo’ã ha oikoporã hag̃ua. Omoneĩ ndahetái tapykuehápe ikatu hag̃uáicha ñanduti renda oiko hekopete.
-content-blocking-strict-desc = Ojoko opaite tapykuehoha ohecháva { -brand-short-name }. Ikatuhína ombojavy tenda.
 content-blocking-strict-description = Peteĩ ñemo’ã imbaretevéva ikatu ombojavyka ndahetái tenda.
 content-blocking-custom-desc = Eiporavo mba’etépa ejokóta.
 content-blocking-private-trackers = Jehekaha ojekuaáva ovetã ñemiguápe añoite
