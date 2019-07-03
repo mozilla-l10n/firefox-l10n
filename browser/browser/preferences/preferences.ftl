@@ -4,8 +4,6 @@
 
 do-not-track-description = जँ अहाँ ट्रैक हए सँ बचए चाहैत छी तँ वेबसाइट केँ “Do Not Track” सिग्नल भेजू
 do-not-track-learn-more = बेसी जानू
-do-not-track-option-default =
-    .label = केवल ट्रैकिंग सँ बचाव खातिर
 do-not-track-option-always =
     .label = हरदम
 pref-page =
@@ -23,10 +21,6 @@ category-search =
 pane-privacy-title = गोपनीयता आ सुरक्षा
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox खाता
-category-sync =
-    .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } समर्थन
 focus-search =
     .key = f
@@ -166,6 +160,45 @@ choose-bookmark =
     .label = पुस्तकचिह्नक प्रयोग करू…
     .accesskey = B
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Firefox होम सामग्री
+home-prefs-content-description = चुनू, Firefox होम स्क्रीन पर जे सामग्री चाहैत छी.
+home-prefs-search-header =
+    .label = वेब खोज
+home-prefs-topsites-header =
+    .label = टॉप साइट
+home-prefs-topsites-description = जे साइट अहाँ सबसँ बेसी विजिट कएलहुँ
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = { $provider } द्वारा अनुशंसित
+home-prefs-recommended-by-description = वेब सँ बढियाँ कंटेंट पाबू, अहाँ खातिर पर्सनलाइज कएल गेल
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = स्पोंसर कएल स्टोरी
+home-prefs-highlights-header =
+    .label = हाइलाइट
+home-prefs-highlights-description = जे साइट अहाँ विजिट कएलहुँ अथवा सहेजलहुँ ओकर चयन
+home-prefs-highlights-option-visited-pages =
+    .label = विजिट कएल पेज
+home-prefs-highlights-options-bookmarks =
+    .label = पुस्तकचिह्न
+home-prefs-highlights-option-most-recent-download =
+    .label = हालुक डाउनलोड
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = अंश
+home-prefs-snippets-description = { -vendor-short-name } आओर { -brand-product-name } सँ अद्यतन
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } पंक्ति
+           *[other] { $num } पंक्ति सभ
+        }
+
 ## Search Section
 
 search-engine-default-header = तयशुदा खोज इंजिन
@@ -256,9 +289,6 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-cookies-exceptions =
-    .label = अपवाद...
-    .accesskey = E
 
 ## Privacy Section - Address Bar
 
