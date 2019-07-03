@@ -304,8 +304,13 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Firefox මුල්පිටු අන්තර්ගතය
+home-prefs-content-description = Firefox මුල් පිටුවෙහි ඔබට අවැසි වන්නේ කුමන අන්තර්ගතයදැයි තෝරන්න.
+home-prefs-search-header =
+    .label = ජාල සෙවුම
 home-prefs-topsites-header =
     .label = ප්‍රමුඛ අඩවි
+home-prefs-topsites-description = ඔබ වැඩිපුරම පිවිසෙන අඩවි
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
@@ -314,6 +319,12 @@ home-prefs-highlights-header =
     .label = ඉස්මතු කිරීම්
 home-prefs-highlights-options-bookmarks =
     .label = පිටු සලකුණු
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } තීරය
+           *[other] { $num } තීර
+        }
 
 ## Search Section
 
