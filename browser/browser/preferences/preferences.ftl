@@ -375,14 +375,20 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Firefox મુખ્ય સામગ્રી
+home-prefs-content-description = તમારી Firefox મુખ્ય સ્ક્રીન પર કઈ સામગ્રી તમે ઇચ્છો તે પસંદ કરો.
+home-prefs-search-header =
+    .label = વેબ શોધ
 home-prefs-topsites-header =
     .label = ટોચની સાઇટ્સ
+home-prefs-topsites-description = તમે સૌથી વધુ મુલાકાત લો છો તે સાઇટ્સ
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } દ્વારા ભલામણ
 home-prefs-highlights-header =
     .label = વીતી ગયેલું
+home-prefs-highlights-description = સાઇટ્સની પસંદગી કે જે તમે સાચવી અથવા મુલાકાત લીધી છે
 home-prefs-highlights-options-bookmarks =
     .label = બુકમાર્ક્સ
 # For the "Snippets" feature traditionally on about:home.
@@ -391,6 +397,13 @@ home-prefs-highlights-options-bookmarks =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = જાણકારી આપનારા ઉતારા ક કાપલીઓ
+home-prefs-snippets-description = { -vendor-short-name } અને { -brand-product-name } તરફથી અપડેટ્સ
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } પંક્તિ
+           *[other] { $num } પંક્તિઓ
+        }
 
 ## Search Section
 
