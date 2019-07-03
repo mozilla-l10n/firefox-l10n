@@ -402,15 +402,30 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Mest besøgte websider
 home-prefs-topsites-description = Mest besøgte websider
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Anbefalet af { $provider }
+home-prefs-recommended-by-description = Spændende indhold fra nettet, specielt udvalgt til dig
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponsorerede historier
+home-prefs-highlights-header =
+    .label = Fremhævede
 home-prefs-highlights-description = Et afsnit med sider, du har gemt eller besøgt
 home-prefs-highlights-option-visited-pages =
     .label = Besøgte sider
+home-prefs-highlights-options-bookmarks =
+    .label = Bogmærker
 home-prefs-highlights-option-most-recent-download =
     .label = Seneste filhentninger
 home-prefs-highlights-option-saved-to-pocket =
     .label = Sider gemt til { -pocket-brand-name }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Notitser
 home-prefs-snippets-description = Nyheder fra { -vendor-short-name } og { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
