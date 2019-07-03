@@ -328,12 +328,15 @@ home-prefs-topsites-description = سائٹس جو آُپ سب سے زیادہ م
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } کی جانب سے تجویز کردہ
+home-prefs-recommended-by-learn-more = یہ کس طرح کام کرتا ہے
 home-prefs-recommended-by-option-sponsored-stories =
     .label = سرپرست شدہ کہاناں
 home-prefs-highlights-header =
     .label = شہ سرخياں
 home-prefs-highlights-option-visited-pages =
     .label = دورہ کردہ صفحہات
+home-prefs-highlights-options-bookmarks =
+    .label = بک مارک
 home-prefs-highlights-option-saved-to-pocket =
     .label = صفحات { -pocket-brand-name } میں محفوظ کر دیئے گئے ہیں
 # For the "Snippets" feature traditionally on about:home.
