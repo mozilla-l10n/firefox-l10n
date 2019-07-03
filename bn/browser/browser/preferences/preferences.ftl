@@ -393,13 +393,23 @@ home-prefs-recommended-by-description = ওয়েবের দারুন স�
 home-prefs-recommended-by-learn-more = কিভাবে এটা কাজ করে
 home-prefs-recommended-by-option-sponsored-stories =
     .label = স্পন্সর করা স্টোরি
+home-prefs-highlights-header =
+    .label = হাইলাইটস
 home-prefs-highlights-description = সাইটের একটি সেকশন যা আপনি সংরক্ষণ অথবা গিয়েছিলেন
 home-prefs-highlights-option-visited-pages =
     .label = ঘুরে আসা পেজ
+home-prefs-highlights-options-bookmarks =
+    .label = বুকমার্ক
 home-prefs-highlights-option-most-recent-download =
     .label = সর্বশেষ ডাউনলোড
 home-prefs-highlights-option-saved-to-pocket =
     .label = পেজটি { -pocket-brand-name } এ সংরক্ষণ করা হয়েছে
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = টুকিটাকি
 home-prefs-snippets-description = { -vendor-short-name } and { -brand-product-name } থেকে হালনাগাদ
 home-prefs-sections-rows-option =
     .label =
