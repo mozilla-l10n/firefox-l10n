@@ -387,6 +387,7 @@ home-prefs-topsites-description = તમે સૌથી વધુ મુલા�
 home-prefs-recommended-by-header =
     .label = { $provider } દ્વારા ભલામણ
 home-prefs-recommended-by-description = તમારા માટે વ્યક્તિગત કરેલ વેબ પરથી, વિખ્યાત સામગ્રી
+home-prefs-recommended-by-learn-more = તે કેવી રીતે કામ કરે છે
 home-prefs-recommended-by-option-sponsored-stories =
     .label = પ્રાયોજિત વાર્તાઓ
 home-prefs-highlights-header =
