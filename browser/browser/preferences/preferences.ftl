@@ -361,20 +361,45 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Начална страница на Firefox
+home-prefs-content-description = Изберете съдържанието, което искате да виждате на началната страница на Firefox.
+home-prefs-search-header =
+    .label = Търсене в Мрежата
+home-prefs-topsites-header =
+    .label = Често посещавани страници
+home-prefs-topsites-description = Най-посещаваните от вас страници
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Препоръчано от { $provider }
+home-prefs-recommended-by-description = Отлично съдържание от цялата Мрежа, подбрано лично за вас
+home-prefs-recommended-by-learn-more = Как работи
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Платени публикации
 home-prefs-highlights-header =
     .label = Акценти
+home-prefs-highlights-description = Избрани страници, които сте запазили или посетили
+home-prefs-highlights-option-visited-pages =
+    .label = Посетени страници
 home-prefs-highlights-options-bookmarks =
     .label = Отметки
+home-prefs-highlights-option-most-recent-download =
+    .label = Последни изтегляния
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Страници, запазени в { -pocket-brand-name }
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Изрезки
+home-prefs-snippets-description = Новости от { -vendor-short-name } и { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } ред
+           *[other] { $num } реда
+        }
 
 ## Search Section
 
