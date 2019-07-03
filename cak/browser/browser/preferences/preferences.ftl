@@ -408,6 +408,12 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Taq pir
 home-prefs-snippets-description = Kik'exoj { -vendor-short-name } chuqa' { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } cholaj
+           *[other] { $num } taq cholaj
+        }
 
 ## Search Section
 
