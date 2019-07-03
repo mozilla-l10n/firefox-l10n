@@ -322,16 +322,26 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header = ഫയർഫോക്സ് ഹോം ഉള്ളടക്കം
+home-prefs-search-header =
+    .label = വെബ് തിരയൽ
 home-prefs-topsites-header =
     .label = മുന്നേറിയ സൈറ്റുകൾ
+home-prefs-topsites-description = നിങ്ങൾ കൂടുതൽ സന്ദർശിക്കുന്ന സൈറ്റുകൾ
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } ശുപാർശ ചെയ്തത്
+home-prefs-recommended-by-learn-more = ഇത് എങ്ങനെ പ്രവർത്തിക്കുന്നു
 home-prefs-highlights-header =
     .label = ഹൈലൈറ്റുകൾ
+home-prefs-highlights-option-visited-pages =
+    .label = സന്ദർശിച്ച പേജുകൾ
 home-prefs-highlights-options-bookmarks =
     .label = ബുക്ക്മാർക്കുകൾ
+home-prefs-highlights-option-most-recent-download =
+    .label = ഏറ്റവും പുതിയ ഡൗൺലോഡ്
+home-prefs-highlights-option-saved-to-pocket =
+    .label = പോക്കറ്റിൽ സംരക്ഷിച്ച പേജുകൾ
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
