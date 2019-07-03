@@ -347,6 +347,8 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-search-header =
+    .label = Web Mita
 home-prefs-sections-rows-option =
     .label = { $num } baréh
 
