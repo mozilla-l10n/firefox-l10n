@@ -397,11 +397,16 @@ choose-bookmark =
 
 home-prefs-content-header = Firefox საწყისი გვერდი
 home-prefs-content-description = აირჩიეთ, თუ რისი გამოჩენა გსურთ Firefox-ის საწყის გვერდზე.
+home-prefs-content-discovery-description = შიგთავსის მოძიება Firefox-ის მთავარ გვერდზე, საშუალებას გაძლევთ აღმოაჩინოთ მაღალი ხარისხის, გამოსადეგი სტატიები მთელ ინტერნეტში.
 home-prefs-search-header =
     .label = საძიებო ველი
 home-prefs-topsites-header =
     .label = რჩეული საიტები
 home-prefs-topsites-description = ხშირად მონახულებული საიტები
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = { $provider } გირჩევთ
 home-prefs-recommended-by-description = მნიშვნელოვანი ამბები ინტერნეტ-სამყაროდან, შერჩეული თქვენი ინტერესების მიხედვით
 home-prefs-recommended-by-learn-more = როგორ მუშაობს
 home-prefs-recommended-by-option-sponsored-stories =
