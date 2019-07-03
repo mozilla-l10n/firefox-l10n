@@ -39,10 +39,6 @@ category-search =
 pane-privacy-title = ឯកជន​ភាព & សុវត្ថិភាព
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = គណនី Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } ជំនួយ
 focus-search =
     .key = f
@@ -334,6 +330,9 @@ choose-bookmark =
     .label = ប្រើ​ចំណាំ…
     .accesskey = ច
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-bar-header = របារស្វែងរក
@@ -445,8 +444,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = រក្សា​ទុក
     .accesskey = v
-sync-mobilepromo-single = តភ្ជាប់ឧបករណ៍ផ្សេងទៀត
-sync-mobilepromo-multi = គ្រប់គ្រងឧបករណ៍
 sync-tos-link = លក្ខខ័ណ្ឌ​សេវាកម្ម
 sync-fxa-privacy-notice = គោលនយោបាយ​ឯកជន
 
@@ -580,8 +577,6 @@ permissions-notification-pause =
 permissions-block-autoplay-media-exceptions =
     .label = ករណីលើកលែង…
     .accesskey = E
-autoplay-option-ask =
-    .label = សួរជានិច្ច
 permissions-block-popups =
     .label = ទប់ស្កាត់​​បង្អួច​លេច​ឡើង
     .accesskey = ទ
@@ -611,7 +606,6 @@ collection-health-report-link = ស្វែងយល់​​បន្ថែម
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ការ​រាយការណ៍​ទិន្នន័យ​ត្រូវ​បាន​បិទ​សម្រាប់​ការ​កំណត់​រចនាសម្ព័ន្ធ​កំណែ​នេះ
-collection-browser-errors-link = ស្វែងយល់​បន្ថែម
 collection-backlogged-crash-reports-link = ស្វែងយល់​​បន្ថែម
 
 ## Privacy Section - Security
