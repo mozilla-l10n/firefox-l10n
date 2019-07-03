@@ -374,7 +374,7 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = సంగతులు
-home-prefs-snippets-description = మొజిల్లా, ఫైర్‌ఫాక్స్ నుండి విశేషాలు
+home-prefs-snippets-description = { -vendor-short-name }, { -brand-product-name } నుండి విశేషాలు
 home-prefs-sections-rows-option =
     .label =
         { $num ->
