@@ -27,11 +27,6 @@ search-input-box =
             [windows] Hanapin sa Mga Pagpipilian
            *[other] Hanapin sa Mga Kagustuhan
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Hindi pinagana ng iyong organisasyon ang kakayahang baguhin ang ilang mga pagpipilian.
-       *[other] Hindi pinagana ng iyong organisasyon ang kakayahang baguhin ang ilang mga kagustuhan.
-    }
 pane-general-title = Pangkalahatan
 category-general =
     .tooltiptext = { pane-general-title }
@@ -376,6 +371,24 @@ choose-bookmark =
     .label = Gamitan ng Bookmark
     .accesskey = B
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Nilalaman ng Home ng Firefox
+home-prefs-content-description = Piliin kung anong nilalaman ang gusto mo sa iyong screen ng Home ng Firefox.
+home-prefs-search-header =
+    .label = Paghahanap sa Web
+home-prefs-topsites-header =
+    .label = Tuktok na mga Site
+home-prefs-topsites-description = Ang mga site na iyong pinupuntahan
+home-prefs-highlights-description = Ang isang seleksyon ng mga site na iyong nai-save o binisita
+home-prefs-snippets-description = Mga Update mula sa { -vendor-short-name } at { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } hilera
+           *[other] { $num } mga hilera
+        }
+
 ## Search Section
 
 search-bar-header = Search Bar
@@ -625,7 +638,6 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Custom
     .accesskey = C
-content-blocking-strict-desc = Blocks all trackers { -brand-short-name } detects. May cause some sites to break.
 content-blocking-custom-desc = Piliin kung ano ang i-block.
 content-blocking-all-cookies = Lahat ng mga cookie
 content-blocking-unvisited-cookies = Mga cookie mula sa mga hindi binibisitang site
