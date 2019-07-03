@@ -269,13 +269,29 @@ choose-bookmark =
 home-prefs-content-header = ಫೈರ್ಫಾಕ್ಸ್ ಮುಖಪುಟದ ವಿಷಯ
 home-prefs-search-header =
     .label = ಜಾಲದ ಹುಡುಕಾಟ
+home-prefs-topsites-header =
+    .label = ಪ್ರಮುಖ ತಾಣಗಳು
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = { $provider } ರಿಂದ ಶಿಫಾರಸುಮಾಡುಲಾಗಿದೆ
 home-prefs-recommended-by-learn-more = ಇದು ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ
+home-prefs-highlights-header =
+    .label = ಮುಖ್ಯಾಂಶಗಳು
 home-prefs-highlights-option-visited-pages =
     .label = ಭೇಟಿಕೊಟ್ಟ ಪುಟಗಳು
+home-prefs-highlights-options-bookmarks =
+    .label = ಪುಟಗುರುತುಗಳು
 home-prefs-highlights-option-most-recent-download =
     .label = ತೀರಾ ಇತ್ತೀಚಿನ ಡೌನ್ಲೋಡ್
 home-prefs-highlights-option-saved-to-pocket =
     .label = ಪಾಕೆಟ್ಗೆ ಉಳಿಸಲಾದ ಪುಟಗಳು
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = ಉಲ್ಲೇಖಗಳು
 
 ## Search Section
 
