@@ -329,10 +329,22 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-topsites-header =
+    .label = शीर्ष साइटहरू
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } द्वारा सिफारिस गरिएको
+home-prefs-highlights-header =
+    .label = विशेषताहरू
+home-prefs-highlights-options-bookmarks =
+    .label = पुस्तकचिनोहरू
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = स्निप्पेटस्
 
 ## Search Section
 
