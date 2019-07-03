@@ -370,10 +370,23 @@ home-prefs-topsites-header =
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } ਵਲੋਂ ਸਿਫਾਰਸ਼ੀ
+home-prefs-recommended-by-description = ਸਮੁੱਚੇ ਵੈੱਬ ਤੋਂ ਸ਼ਾਨਦਾਰ ਸਮੱਗਰੀ, ਤੁਹਾਡੇ ਲਈ ਵਿਅਕਤੀਗਤ ਹੈ
 home-prefs-highlights-header =
     .label = ਹਾਈਲਾਈਟ
+home-prefs-highlights-description = ਉਹਨਾਂ ਸਾਈਟਾਂ ਦੀ ਚੋਣ ਕਰੋ ਜੋ ਤੁਸੀਂ ਸੁਰੱਖਿਅਤ ਜਾਂ ਵਿਜ਼ਿਟ ਕੀਤੀ ਹੈ
+home-prefs-highlights-option-visited-pages =
+    .label = ਵੇਖੇ ਗਏ ਸਫੇ
 home-prefs-highlights-options-bookmarks =
     .label = ਬੁੱਕਮਾਰਕ
+home-prefs-highlights-option-most-recent-download =
+    .label = ਸਭ ਤੋਂ ਤਾਜ਼ਾ ਕੀਤੇ ਡਾਊਨਲੋਡ
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = ਛੋਟੇ ਟੋਟੇ
+home-prefs-snippets-description = ਮੋਜ਼ੀਲਾ ਅਤੇ ਫਾਇਰਫਾਕਸ ਤੋਂ ਅੱਪਡੇਟ
 
 ## Search Section
 
