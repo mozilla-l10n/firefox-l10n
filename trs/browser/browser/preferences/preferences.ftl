@@ -380,6 +380,7 @@ home-prefs-topsites-description = Riña gaché nu yitïnjt
 home-prefs-recommended-by-header =
     .label = Sa hua hue'e taj { $provider }
 home-prefs-recommended-by-description = Sa hua hue'e doj riña web, guendat huin
+home-prefs-recommended-by-learn-more = Dàj 'iaj sunj
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Nej sa du'uej
 home-prefs-highlights-header =
