@@ -401,6 +401,8 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Vsebina domače strani Firefoxa
+home-prefs-content-description = Izberite vsebino, ki jo želite prikazati na domači strani Firefoxa.
 home-prefs-content-discovery-description = Odkrivanje vsebine na Firefoxovi domači strani vam pomaga odkriti kakovostne članke na spletu, ki bi vas utegnili zanimati.
 home-prefs-search-header =
     .label = Iskanje po spletu
@@ -411,7 +413,10 @@ home-prefs-topsites-description = Strani, ki jih največkrat obiščete
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Priporoča { $provider }
+home-prefs-recommended-by-description = Odlična vsebina iz celega spleta, prilagojena vašemu okusu
 home-prefs-recommended-by-learn-more = Kako deluje
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Zgodbe oglaševalcev
 home-prefs-highlights-header =
     .label = Poudarki
 home-prefs-highlights-description = Izbor strani, ki ste jih shranili ali obiskali
