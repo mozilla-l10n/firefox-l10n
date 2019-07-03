@@ -29,6 +29,8 @@
 
 <!ENTITY fillLoginMenu.label          "Điền thông tin đăng nhập">
 <!ENTITY fillLoginMenu.accesskey      "t">
+<!ENTITY fillSuggestedPassword.label  "Sử dụng mật khẩu được đề xuất">
+<!ENTITY fillSuggestedPassword.accesskey "S">
 <!ENTITY fillPasswordMenu.label       "Điền mật khẩu">
 <!ENTITY fillPasswordMenu.accesskey   "m">
 <!ENTITY fillUsernameMenu.label       "Điền tên người dùng">
