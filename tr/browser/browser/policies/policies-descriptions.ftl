@@ -53,6 +53,7 @@ policy-EnableTrackingProtection = İçerik engellemeyi etkinleştir veya devre d
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Eklentileri yükle, kaldır veya kilitle. Yükleme seçeneğinde parametre olarak URL veya yol kullanılır. Kaldırma ve kilitleme seçeneklerinde ise eklenti kimliği kullanılır.
+policy-ExtensionSettings = Eklenti kurulumunun tüm yönlerini yönet.
 policy-ExtensionUpdate = Otomatik eklenti güncellemelerini aç veya kapat.
 policy-FirefoxHome = Firefox giriş sayfasını yapılandır.
 policy-FlashPlugin = Flash yan uygulama kullanımını engelle ya da kullanımına izin ver.
@@ -73,7 +74,6 @@ policy-Preferences = Bir tercihler alt kümesinin değerini ayarlayıp kilitle.
 policy-PromptForDownloadLocation = Dosya indirirken nereye kaydedileceklerini sor.
 policy-Proxy = Vekil sunucu ayarlarını yapılandır.
 policy-RequestedLocales = Uygulamada kullanılması istenen dilleri tercih sırasına göre ayarla.
-policy-SanitizeOnShutdown = Kapanırken tüm gezinti verilerini temizle.
 policy-SanitizeOnShutdown2 = Kapanırken gezinti verilerini temizle.
 policy-SearchBar = Arama çubuğunun varsayılan konumunu ayarla. Kullanıcı daha sonra özelleştirebilir.
 policy-SearchEngines = Arama motoru ayarlarını yapılandır. Bu ilke yalnızca Extended Support Release (ESR) sürümünde geçerlidir.
