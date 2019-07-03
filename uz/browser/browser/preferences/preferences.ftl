@@ -320,8 +320,13 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Firefox bosh sahifasi
+home-prefs-content-description = Firefox bosh sahifasida qaysi kontent chiqishi kerakligini tanlang.
+home-prefs-search-header =
+    .label = Internetdan qidirish
 home-prefs-topsites-header =
     .label = Ommabop saytlar
+home-prefs-topsites-description = Tez-tez tashrif buyuradigan saytlaringiz
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
@@ -331,6 +336,7 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Homiylik maqolalari
 home-prefs-highlights-header =
     .label = Ajratilgan saytlar
+home-prefs-highlights-description = Saqlangan yoki tashrif buyurgan saralangan saytlaringiz
 home-prefs-highlights-option-visited-pages =
     .label = Kirilgan sahifalar
 home-prefs-highlights-options-bookmarks =
@@ -345,6 +351,13 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Parchalar
+home-prefs-snippets-description = { -vendor-short-name } va { -brand-product-name } yangilanishlari
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } qator
+           *[other] { $num } qator
+        }
 
 ## Search Section
 
