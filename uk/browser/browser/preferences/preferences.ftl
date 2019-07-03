@@ -404,10 +404,18 @@ home-prefs-topsites-header =
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Рекомендовано { $provider }
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Матеріали від спонсорів
 home-prefs-highlights-header =
     .label = Обране
+home-prefs-highlights-option-visited-pages =
+    .label = Відвідані сторінки
 home-prefs-highlights-options-bookmarks =
     .label = Закладки
+home-prefs-highlights-option-most-recent-download =
+    .label = Останні завантаження
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Збережене в { -pocket-brand-name }
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
