@@ -29,11 +29,6 @@ search-input-box =
             [windows] Знайти в налаштуваннях
            *[other] Знайти в налаштуваннях
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Ваша організація вимкнула можливість зміни деяких налаштувань.
-       *[other] Ваша організація вимкнула можливість зміни деяких налаштувань.
-    }
 managed-notice = Вашим браузером керує ваша організація.
 pane-general-title = Загальні
 category-general =
@@ -401,6 +396,25 @@ choose-bookmark =
     .label = Використати закладку…
     .accesskey = к
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-topsites-header =
+    .label = Популярні сайти
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Рекомендовано { $provider }
+home-prefs-highlights-header =
+    .label = Обране
+home-prefs-highlights-options-bookmarks =
+    .label = Закладки
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Фрагменти
+
 ## Search Section
 
 search-bar-header = Панель пошуку
@@ -675,7 +689,6 @@ addressbar-suggestions-settings = Змінити налаштування про
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Блокування вмісту
-content-blocking-description = Блокуйте сторонній вміст, що стежить за вами в інтернеті. Контролюйте обсяг вашої онлайн-активності, що зберігається і передається між веб-сайтами.
 content-blocking-section-description = Захищайте свою приватність під час перегляду. Блокуйте невидимий вміст, що відстежує відвідані вами сайти і створює ваш профіль. Блокування деякого вмісту може пришвидшити завантаження сторінок.
 content-blocking-learn-more = Докладніше
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -689,9 +702,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Власне
     .accesskey = л
-content-blocking-standard-description = Блокує лише відомі елементи стеження у приватних вікнах.
 content-blocking-standard-desc = Збалансовано для захисту і швидкодії. Дозволяє деякі елементи стеження для належної роботи веб-сайтів.
-content-blocking-strict-desc = Блокує все виявлене { -brand-short-name } стеження. Може пошкодити роботу деяких сайтів.
 content-blocking-strict-description = Сильніший захист. Може пошкодити роботу деяких сайтів.
 content-blocking-custom-desc = Оберіть, що блокувати.
 content-blocking-private-trackers = Відомі елементи стеження лише у приватних вікнах
