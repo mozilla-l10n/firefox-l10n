@@ -428,6 +428,12 @@ home-prefs-highlights-option-most-recent-download =
     .label = Najnovejši prenos
 home-prefs-highlights-option-saved-to-pocket =
     .label = Strani, shranjene v { -pocket-brand-name }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Izrezki
 home-prefs-snippets-description = Novice iz sveta Mozille in { -brand-product-name }a
 home-prefs-sections-rows-option =
     .label =
