@@ -37,10 +37,6 @@ category-search =
 pane-privacy-title = സ്വകാര്യത & സുരക്ഷ
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = ഫയര്‍ഫോക്സ് അക്കൌണ്ട്
-category-sync =
-    .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } പിന്തുണ
 addons-button-label = വിപുലീകരണങ്ങളും തീമുകളും
 focus-search =
@@ -322,6 +318,13 @@ use-current-pages =
 choose-bookmark =
     .label = അടയാളക്കുറിപ്പു് ഉപയോഗിയ്ക്കുക…
     .accesskey = B
+
+## Home Section - Firefox Home Content Customization
+
+home-prefs-topsites-header =
+    .label = മുന്നേറിയ സൈറ്റുകൾ
+home-prefs-highlights-header =
+    .label = ഹൈലൈറ്റുകൾ
 
 ## Search Section
 
