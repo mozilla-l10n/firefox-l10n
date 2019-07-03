@@ -396,10 +396,19 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header = Conteúdo inicial do Firefox
+home-prefs-content-description = Escolha que conteúdo você quer na sua tela inicial do Firefox.
+home-prefs-content-discovery-description = A descoberta de conteúdo na página inicial do Firefox permite descobrir artigos relevantes, de alta qualidade, pela web afora.
+home-prefs-search-header =
+    .label = Pesquisar na web
 home-prefs-topsites-header =
     .label = Sites preferidos
 home-prefs-topsites-description = Os sites que você mais visita
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Recomendado pelo { $provider }
 home-prefs-recommended-by-description = Os melhores conteúdos disponíveis na Web, personalizados pra você
+home-prefs-recommended-by-learn-more = Como funciona
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Histórias patrocinadas
 home-prefs-highlights-header =
