@@ -395,7 +395,29 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = תוכן מסך הבית של Firefox
 home-prefs-content-description = בחירת תוכן שיוצג במסך הבית של Firefox.
+home-prefs-topsites-header =
+    .label = אתרים מובילים
+home-prefs-recommended-by-description = תוכן נהדר מכל רחבי הרשת, בהתאמה אישית להעדפותיך
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = סיפורים ממומנים
+home-prefs-highlights-header =
+    .label = מומלצים
+home-prefs-highlights-option-visited-pages =
+    .label = עמודים בהם ביקרת
+home-prefs-highlights-options-bookmarks =
+    .label = סימניות
+home-prefs-highlights-option-most-recent-download =
+    .label = ההורדות האחרונות
+home-prefs-highlights-option-saved-to-pocket =
+    .label = עמודים שנשמרו ל־{ -pocket-brand-name }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = פתקיות
 
 ## Search Section
 
