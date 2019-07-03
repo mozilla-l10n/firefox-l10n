@@ -384,6 +384,7 @@ home-prefs-topsites-description = যে সাইটগুলিতে আপ�
 home-prefs-recommended-by-header =
     .label = { $provider } দ্বারা সুপারিশকৃত
 home-prefs-recommended-by-description = ওয়েবের দারুন সব বিষয়বস্তু, নিজের মত করে সাজিয়ে নিন
+home-prefs-recommended-by-learn-more = এটি কিভাবে কাজ করে
 home-prefs-recommended-by-option-sponsored-stories =
     .label = স্পন্সর করা গল্প
 home-prefs-highlights-header =
