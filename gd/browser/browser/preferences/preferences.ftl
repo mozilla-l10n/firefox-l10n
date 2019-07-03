@@ -393,6 +393,10 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Brod nan làrach
 home-prefs-topsites-description = Na làraichean air an tadhail thu as trice
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = ’Ga mholadh le { $provider }
 home-prefs-recommended-by-description = Sàr-shusbaint o fheadh an lìn, air a phearsantachadh dhut-sa
 home-prefs-recommended-by-learn-more = Mar a dh’obraicheas e
 home-prefs-recommended-by-option-sponsored-stories =
