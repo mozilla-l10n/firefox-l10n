@@ -397,28 +397,44 @@ choose-bookmark =
 
 home-prefs-content-header = Innehåll Firefox-startskärm
 home-prefs-content-description = Välj vilket innehåll du vill ha på din startskärm i Firefox.
+home-prefs-content-discovery-description = Content Discovery på Firefox startsida låter dig upptäcka högkvalitativa, relevanta artiklar från hela webben.
 home-prefs-search-header =
     .label = Webbsök
 home-prefs-topsites-header =
     .label = Mest besökta
+home-prefs-topsites-description = Sidorna du besöker mest
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Rekommenderas av { $provider }
 home-prefs-recommended-by-description = Bra innehåll från hela webben, anpassat för dig
 home-prefs-recommended-by-learn-more = Hur fungerar det
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Sponsrade nyheter
 home-prefs-highlights-header =
     .label = Höjdpunkter
+home-prefs-highlights-description = Ett urval av sidor du har sparat eller besökt
+home-prefs-highlights-option-visited-pages =
+    .label = Besökta sidor
 home-prefs-highlights-options-bookmarks =
     .label = Bokmärken
 home-prefs-highlights-option-most-recent-download =
     .label = Senaste nedladdning
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Sidor sparade till { -pocket-brand-name }
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Kort information
+home-prefs-snippets-description = Uppdateringar från { -vendor-short-name } och { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } rad
+           *[other] { $num } rader
+        }
 
 ## Search Section
 
