@@ -398,6 +398,8 @@ home-prefs-recommended-by-learn-more = 사용 방법
 home-prefs-highlights-header =
     .label = 하이라이트
 home-prefs-highlights-description = 저장하거나 방문한 사이트 모음
+home-prefs-highlights-options-bookmarks =
+    .label = 즐겨찾기
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
