@@ -382,6 +382,22 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-topsites-header =
+    .label = Омиљени сајтови
+home-prefs-topsites-description = Сајтови које највише посећујете
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Предложио { $provider }
+home-prefs-recommended-by-description = Одличан садржај из целог света, персонализован за вас
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Спонзорисане приче
+home-prefs-highlights-option-visited-pages =
+    .label = Посећене странице
+home-prefs-highlights-option-most-recent-download =
+    .label = Најновије преузимање
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Странице сачуване у { -pocket-brand-name }
 
 ## Search Section
 
