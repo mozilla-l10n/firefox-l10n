@@ -29,11 +29,6 @@ search-input-box =
             [windows] 在选项中查找
            *[other] 在首选项中查找
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] 您的组织已禁用某些选项。
-       *[other] 您的组织已禁用某些首选项。
-    }
 managed-notice = 您的浏览器正由组织管理。
 pane-general-title = 常规
 category-general =
@@ -394,6 +389,26 @@ choose-bookmark =
     .label = 使用书签…
     .accesskey = B
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Firefox 主页内容
+home-prefs-search-header =
+    .label = 网络搜索
+home-prefs-topsites-header =
+    .label = 常用网站
+home-prefs-topsites-description = 您经常访问的网站
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = { $provider } 推荐
+home-prefs-recommended-by-learn-more = 使用方法
+home-prefs-highlights-header =
+    .label = 集锦
+home-prefs-highlights-options-bookmarks =
+    .label = 书签
+home-prefs-sections-rows-option =
+    .label = { $num } 行
+
 ## Search Section
 
 search-bar-header = 搜索栏
@@ -668,7 +683,6 @@ addressbar-suggestions-settings = 更改搜索引擎建议的首选项
 ## Privacy Section - Content Blocking
 
 content-blocking-header = 内容拦截
-content-blocking-description = 拦截会在网络上跟踪您的第三方内容。控制多大程度上您要让不同网站保留并互相分享您的上网活动。
 content-blocking-section-description = 在浏览时保护您的隐私。拦截会跟踪您访问活动，并分析用户特征的隐藏内容。拦截此类内容也可能使页面加载更快。
 content-blocking-learn-more = 详细了解
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -682,9 +696,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = 自定义
     .accesskey = C
-content-blocking-standard-description = 仅在隐私窗口中拦截已知的跟踪器
 content-blocking-standard-desc = 平衡保护与性能。允许部分跟踪器以确保网站运行正常。
-content-blocking-strict-desc = 拦截 { -brand-short-name } 检测到的所有跟踪器。可能导致某些网站异常。
 content-blocking-strict-description = 更强的保护，可能导致某些网站异常。
 content-blocking-custom-desc = 选择要拦截的内容。
 content-blocking-private-trackers = 仅在隐私窗口中拦截已知的跟踪器
