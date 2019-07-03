@@ -29,11 +29,6 @@ search-input-box =
             [windows] Otsi sätetest
            *[other] Otsi eelistustest
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Sinu organisatsioon on keelanud mõningate sätete muutmise.
-       *[other] Sinu organisatsioon on keelanud mõningate eelistuste muutmise.
-    }
 managed-notice = Brauserit haldab sinu organisatsioon.
 pane-general-title = Üldine
 category-general =
@@ -398,6 +393,38 @@ choose-bookmark =
     .label = Kasuta järjehoidjat…
     .accesskey = j
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Firefoxi avalehe sisu
+home-prefs-content-description = Vali sisu, mida soovid Firefoxi avalehel näha.
+home-prefs-content-discovery-description = Sisu avastamise funktsionaalsus Firefoxi avalehel võimaldab sul leida kõrge kvaliteediga seonduvaid artikleid kogu internetist.
+home-prefs-search-header =
+    .label = Veebiotsing
+home-prefs-topsites-header =
+    .label = Top saidid
+home-prefs-topsites-description = Enim külastatud saidid
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = { $provider } soovitab
+home-prefs-recommended-by-learn-more = Kuidas see töötab?
+home-prefs-highlights-description = Valik saitidest, mille oled salvestanud või mida oled külastanud
+home-prefs-highlights-options-bookmarks =
+    .label = Järjehoidjad
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Infokillud
+home-prefs-snippets-description = Uuendused { -vendor-short-name }lt ja { -brand-product-name }ilt
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } rida
+           *[other] { $num } rida
+        }
+
 ## Search Section
 
 search-bar-header = Otsinguriba
@@ -672,7 +699,6 @@ addressbar-suggestions-settings = Muuda otsingumootorite soovituste sätteid
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Sisu blokkimine
-content-blocking-description = Bloki kolmanda osapoole sisu, mis jälitab sind kogu veebis. Kontrolli, kui palju sinu tegevusest veebisaidid salvestada ja omavahel jagada saavad.
 content-blocking-section-description = Kaitse veebilehitsemise ajal oma privaatsust. Bloki nähtamatu sisu, mis jälitab ning profileerib sinu tegevust. Sellise sisu blokkimine võib teha lehtede laadimise kiiremaks.
 content-blocking-learn-more = Rohkem teavet
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -686,9 +712,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Kohandatud
     .accesskey = K
-content-blocking-standard-description = Tuntud jälitajad blokitakse vaid privaatsetes akendes.
 content-blocking-standard-desc = Tasakaalustatud kaitse ja jõudlus. Mõned jälitajad on lubatud, et saidid töötaks korrektselt.
-content-blocking-strict-desc = Blokitakse kõik { -brand-short-name }i tuvastatud jälitajad. Mõned saidid ei pruugi korrektselt toimida.
 content-blocking-strict-description = Tugevam kaitse, võib põhjustada mõnel saidil probleeme.
 content-blocking-custom-desc = Võimaldab blokitava sisu ise valida.
 content-blocking-private-trackers = tuntud jälitajad ainult privaatsetes akendes
