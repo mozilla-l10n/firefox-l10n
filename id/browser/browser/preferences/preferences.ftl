@@ -384,12 +384,15 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header = Konten Beranda Firefox
+home-prefs-content-description = Pilih konten yang ingin Anda tampilkan dalam Beranda Firefox.
+home-prefs-content-discovery-description = Penemuan Konten dalam Firefox Home memungkinkan Anda untuk menemukan artikel bermutu tinggi dan relevan dari seluruh web.
 home-prefs-search-header =
     .label = Pencarian Web
 home-prefs-topsites-header =
     .label = Situs Teratas
 home-prefs-topsites-description = Situs yang sering Anda kunjungi
 home-prefs-recommended-by-description = Konten bermutu dari seluruh web, khusus untuk Anda
+home-prefs-recommended-by-learn-more = Panduan
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Konten Sponsor
 home-prefs-highlights-description = Sejumlah situs yang Anda simpan atau kunjungi
@@ -400,6 +403,8 @@ home-prefs-highlights-option-most-recent-download =
 home-prefs-highlights-option-saved-to-pocket =
     .label = Laman Disimpan di { -pocket-brand-name }
 home-prefs-snippets-description = Pembaruan dari { -vendor-short-name } dan { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label = { $num } baris
 
 ## Search Section
 
