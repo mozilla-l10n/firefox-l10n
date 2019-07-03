@@ -401,22 +401,50 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = محتوى فَيَرفُكس الرئيسي
+home-prefs-content-description = اختر المحتوى الذي تريد عرضه في شاشة بداية فَيَرفُكس.
+home-prefs-content-discovery-description = تتيح لك ميزة ”اكتشاف المحتوى“ في صفحة بداية فَيَرفُكس رؤية مقالات عالية الجودة لها علاقة بما تتابع، تأتيك من أرجاء الوِب.
+home-prefs-search-header =
+    .label = ابحث في الوِب
 home-prefs-topsites-header =
     .label = المواقع الأكثر زيارة
+home-prefs-topsites-description = أكثر المواقع المزارة
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = ينصح به { $provider }
+home-prefs-recommended-by-description = محتوى مميز من أرجاء الوِب انتقيناه لك أنت
+home-prefs-recommended-by-learn-more = آلية العمل
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = الأخبار الممولة
 home-prefs-highlights-header =
     .label = أهم الأحداث
+home-prefs-highlights-description = مجموعة المواقع التي حفظتها أو زرتها
+home-prefs-highlights-option-visited-pages =
+    .label = الصفحات المزارة
 home-prefs-highlights-options-bookmarks =
     .label = العلامات
+home-prefs-highlights-option-most-recent-download =
+    .label = آخر ما نُزّل
+home-prefs-highlights-option-saved-to-pocket =
+    .label = الصفحات المحفوظة في بوكِت
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = المقتطفات
+home-prefs-snippets-description = التحديثات من موزيلا وفَيَرفُكس
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [zero] لا صفوف
+            [one] صف واحد
+            [two] صفان
+            [few] { $num } صفوف
+            [many] { $num } صفا
+           *[other] { $num } صف
+        }
 
 ## Search Section
 
