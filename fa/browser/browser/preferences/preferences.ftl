@@ -29,11 +29,6 @@ search-input-box =
             [windows] پیدا‌کردن در گزینه‌ها
            *[other] پیدا‌کردن در ترجیحات
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] سازمان شما امکان تغییر برخی از گزینه‌ها را غیرفعال کرده است.
-       *[other] سازمان شما امکان تغییر برخی از ترجیحات را غیرفعال کرده است.
-    }
 pane-general-title = عمومی
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +41,6 @@ category-search =
 pane-privacy-title = حریم‌خصوصی و امنیت
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = حساب فایرفاکس
-category-sync =
-    .tooltiptext = { pane-sync-title }
 help-button-label = پشتیبانی { -brand-short-name }
 addons-button-label = افزونه‌ها و پوسته‌ها
 focus-search =
@@ -376,6 +367,38 @@ choose-bookmark =
     .label = استفاده از نشانک…
     .accesskey = ن
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = محتوای صفحه خانگی فایرفاکس
+home-prefs-content-description = انتخاب کنید که چه محتوایی می‌خواهید در صفحه خانگیِ فایرفاکس خود ببینید.
+home-prefs-content-discovery-description = سرویس کشف محتوا در فایرفاکس به شما قابلیت پیدا کردن مطالبِ با کیفیت و مرتبط را در سراسر وب می‌دهد.
+home-prefs-search-header =
+    .label = جست‌وجو وب
+home-prefs-topsites-header =
+    .label = سایت‌های برتر
+home-prefs-topsites-description = سایت‌هایی که بیشتر بازدید می‌کنید
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = پیشنهاد شده توسط { $provider }
+home-prefs-recommended-by-description = محتوایی عالی از سراسر وب، شخصی شده برای شما
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = محتوایی از حامیان مالی
+home-prefs-highlights-description = گزیده‌ای از سایت‌هایی که بازدید یا ذخیره کرده‌اید
+home-prefs-highlights-option-visited-pages =
+    .label = صفحات بازدید شده
+home-prefs-highlights-option-most-recent-download =
+    .label = آخرین دریافت
+home-prefs-highlights-option-saved-to-pocket =
+    .label = صفحات در { -pocket-brand-name } ذخیره شد
+home-prefs-snippets-description = بروزرسانی‌هایی از موزیلا و فایرفاکس
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } ردیف
+           *[other] { $num } ردیف
+        }
+
 ## Search Section
 
 search-bar-header = نوار جست وجو
@@ -518,8 +541,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = ذخیره
     .accesskey = ذ
-sync-mobilepromo-single = اتصالِ یک دستگاه دیگر
-sync-mobilepromo-multi = مدیریت دستگاه‌ها
 sync-tos-link = شرایط ارائهٔ خدمات
 sync-fxa-privacy-notice = نکات حفظ حریم خصوصی
 
@@ -653,7 +674,6 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = سفارشی
     .accesskey = C
-content-blocking-standard-description = فقط ردیاب های شناخته شده را در پنجره‌های مرور خصوصی مسدود کن.
 content-blocking-custom-desc = انتخاب کنید چه چیزی مسدود شود.
 content-blocking-third-party-cookies = کوکی‌هایِ ردیبابِ متفرقه
 content-blocking-all-windows-trackers = ردیاب‌های شناخته شده در تمام پنجره‌ها
@@ -706,23 +726,12 @@ permissions-notification-link = بیشتر بدانید
 permissions-notification-pause =
     .label = توقف هوشدار تا زمانی که { -brand-short-name } مجدد راه اندازی شود
     .accesskey = n
-permissions-block-autoplay-media =
-    .label = مسدود کردن پایگاه‌ها برای پخش خودکار رسانه و صوت
-    .accesskey = B
-permissions-block-autoplay-media-menu = برای سایت‌هایی که بطور خودکار صدا پخش می‌کنند
 permissions-block-autoplay-media2 =
     .label = مسدود کردن وب‌سایت‌ها از پخش خودکار صدا
     .accesskey = B
 permissions-block-autoplay-media-exceptions =
     .label = استثاناها…
     .accesskey = E
-autoplay-option-ask =
-    .label = همیشه بپرس
-autoplay-option-allow =
-    .label = اجازه پخش خودکار بده
-autoplay-option-dont =
-    .label = خودکار پخش نکن
-permissions-autoplay-link = بیشتر بدانید
 permissions-block-popups =
     .label = مسدود کردن پنجره‌های بازشو
     .accesskey = م
@@ -758,10 +767,6 @@ addon-recommendations-link = بیشتر بدانید
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = گزارش کردن داده‌ها برای این پیکربندی ساخته شده غیرفعال شده است
-collection-browser-errors =
-    .label = به { -brand-short-name } اجازه بده تا گزارش‌های خطای مرورگر ( شامل پیام‌های خطا) را به { -vendor-short-name } ارسال کند
-    .accesskey = b
-collection-browser-errors-link = بیشتر بدانید
 collection-backlogged-crash-reports =
     .label = به { -brand-short-name } اجازه بده تا گزارش های پس زمینه خرابی را از طرف شما ارسال کند
     .accesskey = c
