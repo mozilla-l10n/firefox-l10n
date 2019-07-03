@@ -377,6 +377,10 @@ choose-bookmark =
 
 home-prefs-topsites-header =
     .label = ટોચની સાઇટ્સ
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = { $provider } દ્વારા ભલામણ
 home-prefs-highlights-header =
     .label = વીતી ગયેલું
 home-prefs-highlights-options-bookmarks =
