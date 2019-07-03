@@ -395,22 +395,45 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Kuatiarogue retepy Firefox ñepyrũháme
+home-prefs-content-description = Eiporavo mba’e retepýpa eipota Firefox mba’erechaha ñepyrũháme.
+home-prefs-search-header =
+    .label = Ñandutípe jeheka
 home-prefs-topsites-header =
     .label = Tenda Ojeikevéva
+home-prefs-topsites-description = Umi tenda ojeikeveha
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } he'i ndéve reike hag̃ua
+home-prefs-recommended-by-description = Iporãvéva ñanduti retepy, oñemomba’éva ndéve g̃uarã
+home-prefs-recommended-by-learn-more = Mba’éichapa omba’apo
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Tembiasakue jehepyme'ẽguáva
 home-prefs-highlights-header =
     .label = Mba'erechapyrã
+home-prefs-highlights-description = Tenda jeporavopy eñongatu térã eike hague
+home-prefs-highlights-option-visited-pages =
+    .label = Tenda jeikepyre
 home-prefs-highlights-options-bookmarks =
     .label = Techaukaha
+home-prefs-highlights-option-most-recent-download =
+    .label = Oñemboguejy ramovéva
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Kuatiarogue ñongatupyre { -pocket-brand-name }-pe
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Mba'epehẽ
+home-prefs-snippets-description = { -vendor-short-name } ha { -brand-product-name } ñembohekopyahu
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } rysýi
+           *[other] { " " }{ $num } rysýi
+        }
 
 ## Search Section
 
