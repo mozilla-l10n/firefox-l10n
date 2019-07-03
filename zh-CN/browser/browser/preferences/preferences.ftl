@@ -404,8 +404,16 @@ home-prefs-recommended-by-header =
 home-prefs-recommended-by-learn-more = 使用方法
 home-prefs-highlights-header =
     .label = 集锦
+home-prefs-highlights-description = 您访问过或保存过的网站精选
 home-prefs-highlights-options-bookmarks =
     .label = 书签
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = 只言片语
+home-prefs-snippets-description = 来自 { -vendor-short-name } 和 { -brand-product-name } 的快讯
 home-prefs-sections-rows-option =
     .label = { $num } 行
 
