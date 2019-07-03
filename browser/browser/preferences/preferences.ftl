@@ -315,8 +315,11 @@ home-prefs-topsites-description = ඔබ වැඩිපුරම පිවි�
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } විසින් නිර්දේශිතයි
+home-prefs-recommended-by-learn-more = එය ක්‍රියාත්මක වන්නේ කෙසේද
 home-prefs-highlights-header =
     .label = ඉස්මතු කිරීම්
+home-prefs-highlights-option-visited-pages =
+    .label = පිවිසුනු පිටු
 home-prefs-highlights-options-bookmarks =
     .label = පිටු සලකුණු
 home-prefs-sections-rows-option =
