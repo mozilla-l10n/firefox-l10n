@@ -364,8 +364,13 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = ਫਾਇਰਫਾਕਸ ਮੁੱਖ ਪੰਨਾ
+home-prefs-content-description = ਉਹ ਸਮੱਗਰੀ ਚੁਣੋ ਜੋ ਤੁਸੀਂ ਆਪਣੇ ਫਾਇਰਫਾਕਸ ਮੁੱਖ ਪੰਨੇ 'ਤੇ ਚਾਹੁੰਦੇ ਹੋ।
+home-prefs-search-header =
+    .label = ਵੈੱਬ ਖੋਜ
 home-prefs-topsites-header =
     .label = ਸਿਖਰਲੀਆਂ ਸਾਈਟਾਂ
+home-prefs-topsites-description = ਤੁਹਾਡੇ ਵੱਲੋਂ ਸਭ ਤੋਂ ਵੱਧ ਵੇਖੀਆਂ ਸਾਈਟਾਂ
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
@@ -387,6 +392,12 @@ home-prefs-highlights-option-most-recent-download =
 home-prefs-snippets-header =
     .label = ਛੋਟੇ ਟੋਟੇ
 home-prefs-snippets-description = ਮੋਜ਼ੀਲਾ ਅਤੇ ਫਾਇਰਫਾਕਸ ਤੋਂ ਅੱਪਡੇਟ
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } ਕਤਾਰ
+           *[other] { $num } ਕਤਾਰਾਂ
+        }
 
 ## Search Section
 
