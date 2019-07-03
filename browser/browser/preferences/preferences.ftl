@@ -29,11 +29,6 @@ search-input-box =
             [windows] Leita í stillingum
            *[other] Leita í stillingum
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Fyrirtækið þitt hefur lokað á að breyta sumum stillingum.
-       *[other] Fyrirtækið þitt hefur lokað á að breyta sumum stillingum.
-    }
 managed-notice = Vafra þínum er stjórnað af skipulagsheild þinni.
 pane-general-title = Almennt
 category-general =
@@ -390,6 +385,9 @@ choose-bookmark =
     .label = Nota bókamerki…
     .accesskey = b
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-bar-header = Leitarslá
@@ -661,7 +659,6 @@ addressbar-suggestions-settings = Breyta stillingum fyrir ábendingar leitarvél
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blokkun efnis
-content-blocking-description = Blokka efni frá þriðja aðila sem rekur feril þinn um netið. Stjórnaðu hversu mikið af netvirkni þinni er geymd og deilt á milli vefsíðna.
 content-blocking-learn-more = Læra meira
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -674,9 +671,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Sérsniðið
     .accesskey = C
-content-blocking-standard-description = Blokka einungis þekkta rekjara í huliðsgluggum.
 content-blocking-standard-desc = Jafnvægi á vernd og vinnslu. Leyfir suma rekjara svo vefsíður virki rétt.
-content-blocking-strict-desc = Blokka alla rekjara sem { -brand-short-name } uppgötvar. Getur valdið því að sumar síður hrynji.
 content-blocking-custom-desc = Velja hvað skal blokka.
 content-blocking-private-trackers = Þekktir rekjarar einungis í huliðsglugga.
 content-blocking-third-party-cookies = Vefkökur frá þriðja aðila
