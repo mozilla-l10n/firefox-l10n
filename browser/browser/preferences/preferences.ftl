@@ -29,11 +29,6 @@ search-input-box =
             [windows] Баптаулардан табу
            *[other] Баптаулардан табу
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Сіздің ұйымыңыз кейбір баптауларды өзгертуді бұғаттаған.
-       *[other] Сіздің ұйымыңыз кейбір баптауларды өзгертуді бұғаттаған.
-    }
 managed-notice = Браузеріңіз сіздің ұйымыңызбен басқаралады.
 pane-general-title = Жалпы
 category-general =
@@ -398,6 +393,49 @@ choose-bookmark =
     .label = Бетбелгіні қолдану…
     .accesskey = Б
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Firefox үй парағы құрамасы
+home-prefs-content-description = Firefox үй парағында қандай құраманы көргіңіз келетінді таңдаңыз.
+home-prefs-content-discovery-description = Firefox үй парағында құраманы табу сізге интернеттен жоғары сапалы, релевантты мақалаларды табуға көмектеседі.
+home-prefs-search-header =
+    .label = Интернеттен іздеу
+home-prefs-topsites-header =
+    .label = Үздік сайттар
+home-prefs-topsites-description = Сіз жиі шолатын сайттар
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Ұсынушы { $provider }
+home-prefs-recommended-by-description = Бүкіл Интернеттен алынған тамаша контент, талғамыңызға сай таңдалған
+home-prefs-recommended-by-learn-more = Ол қалай жұмыс істейді
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Демеушілер мақалалары
+home-prefs-highlights-header =
+    .label = Ерекше жаңалықтар
+home-prefs-highlights-description = Сіз сақтаған немесе шолған таңдамалы сайттар
+home-prefs-highlights-option-visited-pages =
+    .label = Қаралған беттер
+home-prefs-highlights-options-bookmarks =
+    .label = Бетбелгілер
+home-prefs-highlights-option-most-recent-download =
+    .label = Ең соңғы жүктеме
+home-prefs-highlights-option-saved-to-pocket =
+    .label = { -pocket-brand-name }-ке сақталған беттер
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Үзінділер
+home-prefs-snippets-description = { -vendor-short-name } және { -brand-product-name } жаңалықтары
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } жол
+           *[other] { $num } жол
+        }
+
 ## Search Section
 
 search-bar-header = Іздеу жолағы
@@ -672,7 +710,6 @@ addressbar-suggestions-settings = Іздеу жүйесінің ұсыныста
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Құраманы бұғаттау
-content-blocking-description = Интернетте сізді бақылайтын үшінші жақты құраманы бұғаттау. Желілік белсенділігіңіздің қай бөлігі сақталатынын және веб-сайттармен бөлісетінін басқарыңыз.
 content-blocking-section-description = Шолу кезінде жекелігіңізді қорғаңыз. Сіз шолатын сайттарды бақылайтын және сіздің профиліңізді жасайтын көрінбейтін құраманы бұғаттаңыз. Бұл құраманың кейбіреуін бұғаттау беттердің жылдамдау жүктелуіне әкеп соғуы мүмкін.
 content-blocking-learn-more = Көбірек білу
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -686,9 +723,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Таңдауыңызша
     .accesskey = ы
-content-blocking-standard-description = Жекелік терезелерінде тек белгілі трекерлерді бұғаттайды.
 content-blocking-standard-desc = Қорғаныс және өнімділік үшін теңдестірілген. Веб-сайттар дұрыс жұмыс істеу мақсатында кейбір трекерлерді рұқсат етеді.
-content-blocking-strict-desc = { -brand-short-name } анықтайтын барлық трекерлерді бұғаттау. Кейбір сайттар жұмысы бұзылуы мүмкін.
 content-blocking-strict-description = Қатаң қорғаныс, кейбір сайттардың бұзылуына әкеп соғуы мүмкін.
 content-blocking-custom-desc = Нені бұғаттауды таңдаңыз
 content-blocking-private-trackers = Жекелік терезелерінде барлық белгілі трекерлер
