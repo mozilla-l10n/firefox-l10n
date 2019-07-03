@@ -384,13 +384,23 @@ home-prefs-recommended-by-header =
 home-prefs-recommended-by-description = محتوایی عالی از سراسر وب، شخصی شده برای شما
 home-prefs-recommended-by-option-sponsored-stories =
     .label = محتوایی از حامیان مالی
+home-prefs-highlights-header =
+    .label = برجسته‌ها
 home-prefs-highlights-description = گزیده‌ای از سایت‌هایی که بازدید یا ذخیره کرده‌اید
 home-prefs-highlights-option-visited-pages =
     .label = صفحات بازدید شده
+home-prefs-highlights-options-bookmarks =
+    .label = نشانک‌ها
 home-prefs-highlights-option-most-recent-download =
     .label = آخرین دریافت
 home-prefs-highlights-option-saved-to-pocket =
     .label = صفحات در { -pocket-brand-name } ذخیره شد
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = قطعه‌ها
 home-prefs-snippets-description = بروزرسانی‌هایی از موزیلا و فایرفاکس
 home-prefs-sections-rows-option =
     .label =
