@@ -29,11 +29,6 @@ search-input-box =
             [windows] Nong i me ayera
            *[other] Nong i ter
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Dul mamegi ojuko woko kero me loko jami ayera mogo.
-       *[other] Dul mamegi ojuko woko kero me loko ter mogo.
-    }
 pane-general-title = Lumuku
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +41,6 @@ category-search =
 pane-privacy-title = Mung ki Ber bedo
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Akaunt me Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -362,6 +353,42 @@ choose-bookmark =
     .label = Tii ki Alama buk…
     .accesskey = A
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Jami me Acakki Firefox
+home-prefs-content-description = Yer jami ma imito ii kio me Acakki Firefox.
+home-prefs-search-header =
+    .label = Yeny me kakube
+home-prefs-topsites-header =
+    .label = Kakube ma gi loyo
+home-prefs-topsites-description = Kakube ma ilimo loyo
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Lami tam obedo { $provider }
+home-prefs-recommended-by-description = Jami mabeco loyo ki ii kakube, kiyubo piri
+home-prefs-recommended-by-learn-more = Kit ma tiyo kwede
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Lok ma kicwako
+home-prefs-highlights-header =
+    .label = Wiye madito
+home-prefs-highlights-description = Yer me kakube ma igwoko nyo ilimo
+home-prefs-highlights-option-visited-pages =
+    .label = Potbuk ma kilimo
+home-prefs-highlights-options-bookmarks =
+    .label = Alamabuk
+home-prefs-highlights-option-most-recent-download =
+    .label = Gam ma cokcoki loyo
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Kigwoko potbuk i { -pocket-brand-name }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Kwena macek
+home-prefs-snippets-description = Ngec manyen ki bot { -vendor-short-name } ki { -brand-product-name }
+
 ## Search Section
 
 search-bar-header = Lanyut me yeny
@@ -504,8 +531,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Gwoki
     .accesskey = o
-sync-mobilepromo-single = Kub nyonyo mukene
-sync-mobilepromo-multi = Lo nyonyo
 sync-connect-another-device = Kub nyonyo mukene
 sync-manage-devices = Lo nyonyo
 sync-fxa-begin-pairing = Rib nyonyo mo
@@ -621,9 +646,7 @@ addressbar-suggestions-settings = Lok ter pi tam ma kimiyo me injin yeny
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = Nong ngec mapol
-content-blocking-standard-description = Gengo keken lulub kor ma ngene i Dirica me Mung.
 content-blocking-standard-desc = Opore pi gwokke ki tic. Yee lulub kor mogo wek kakube otii maber.
-content-blocking-strict-desc = Gengo lulub kor weng ma { -brand-short-name } nongo. Romo weko kakube mogo tur woko.
 content-blocking-strict-description = Gwokke makato, romo weko kakube mogo tur woko.
 content-blocking-custom-desc = Yer ngo me agenga.
 content-blocking-private-trackers = Lulub kor ma ngene keken i Dirica me Mung
@@ -631,7 +654,6 @@ content-blocking-all-cookies = Angija weng
 content-blocking-unvisited-cookies = Angija ki kakube mape kilimo gi
 content-blocking-all-windows-trackers = Lulub kor ma ngene i dirica weng
 content-blocking-warning-title = Ngec!
-content-blocking-warning-desc = Gengo angija ki lulub kor twero weko kakube mogo bale woko. Yot me juko geng pi kakube ma igeno.
 content-blocking-learn-how = Nong ngec nining
 content-blocking-reload-description = Bi mite ni inwo cano dirica matino mamegi me keto alokoloka magi.
 content-blocking-reload-tabs-button =
