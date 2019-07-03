@@ -27,11 +27,6 @@ search-input-box =
             [windows] ရွေးစရာများထဲမှ ရှာပါ
            *[other] နှစ်သက်ရာအပြင်အဆင်များထဲမှ ရှာပါ
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] သင့် အဖွဲ့အစည်းမှ အခြားသော လုပ်ဆောင်ချက်များအား တားမြစ်ထားသည်
-       *[other] သင့် အဖွဲ့အစည်းမှ အခြားသော  လုပ်ဆောင်ချက် အပြင်အဆင် များအား တားမြစ်ထားသည်
-    }
 pane-general-title = အထွေထွေ
 category-general =
     .tooltiptext = { pane-general-title }
@@ -44,10 +39,6 @@ category-search =
 pane-privacy-title = ကိုယ်ရေးကာကွယ်မှု နှင့် လုံခြုံရေး
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox အကောင့်
-category-sync =
-    .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } အထောက်အပံ့
 addons-button-label = တိုးချဲ့မှုနှင့် အပြင်အဆင်များ
 focus-search =
@@ -352,6 +343,9 @@ choose-bookmark =
     .label = စာမှတ်ကို အသုံးပြုပါ…
     .accesskey = B
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-bar-header = ရှာဖွေရေးဘားတန်း
@@ -494,8 +488,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = သိမ်းဆည်းပါ
     .accesskey = v
-sync-mobilepromo-single = အခြားကိရိယာကို ချိတ်ဆက်ရန်
-sync-mobilepromo-multi = ကိရိယာများကို စီမံရန်
 sync-connect-another-device = အခြားကိရိယာကို ချိတ်ပါ။
 sync-manage-devices = ကိရိယာများကို စီမံပါ။
 sync-fxa-begin-pairing = ကိရိယာတစ်ခု တွဲဖက်ပါ။
