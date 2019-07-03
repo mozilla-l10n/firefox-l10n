@@ -247,20 +247,40 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = ເນື້ອໃນຫນ້າທຳອິດຂອງ Firefox
+home-prefs-content-description = ເລືອກເນື້ອຫາທີ່ທ່ານຕ້ອງການສະແດງໃນຫນ້າຈໍຫນ້າຫລັກ Firefox ຂອງທ່ານ.
+home-prefs-search-header =
+    .label = ຊອກຫາເວັບ
 home-prefs-topsites-header =
     .label = ເວັບໄຊທ໌ຍອດນິຍົມ
+home-prefs-topsites-description = ເວັບໄຊທ໌ທີ່ທ່ານເຂົ້າເບິ່ງຫລາຍທີ່ສຸດ
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = ແນະນຳໂດຍ { $provider }
+home-prefs-recommended-by-description = ເນື້ອຫາທີ່ຍອດຢ້ຽມຈາກເວັບຕ່າງໆ, ປັບແຕ່ງໃຫ້ເປັນສ່ວນບຸກຄົນເພື່ອທ່ານ
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = ເລື່ອງລາວທີ່ໄດ້ຮັບການສະຫນັບສະຫນູນ
 home-prefs-highlights-header =
     .label = ຈຸດເດັ່ນ
+home-prefs-highlights-description = ການຄັດເລືອກເວັບໄຊທ໌ທີ່ທ່ານໄດ້ບັນທຶກໄວ້ຫລືເຂົ້າໄປເບິ່ງມາແລ້ວ
+home-prefs-highlights-option-visited-pages =
+    .label = ຫນ້າທີ່ເຂົ້າໄປເບິ່ງແລ້ວ
+home-prefs-highlights-options-bookmarks =
+    .label = ບຸກມາກ
+home-prefs-highlights-option-most-recent-download =
+    .label = ການດາວໂຫລດລ່າສຸດ
+home-prefs-highlights-option-saved-to-pocket =
+    .label = ຫນ້າທີ່ບັນທຶກໄວ້ໃນ { -pocket-brand-name }
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = ສ່ວນຍ່ອຍ
+home-prefs-snippets-description = ຂໍ້ມູນອັບເດດຈາກ { -vendor-short-name } ແລະ { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label = { $num } ແຖວ
 
 ## Search Section
 
