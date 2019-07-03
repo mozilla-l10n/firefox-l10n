@@ -29,11 +29,6 @@ search-input-box =
             [windows] Temukan di Pengaturan
            *[other] Temukan di Pengaturan
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Organisasi Anda telah menonaktifkan kemampuan untuk mengubah beberapa pengaturan.
-       *[other] Organisasi Anda telah menonaktifkan kemampuan untuk mengubah beberapa pengaturan.
-    }
 managed-notice = Peramban Anda dikelola oleh organisasi Anda.
 pane-general-title = Umum
 category-general =
@@ -386,6 +381,26 @@ choose-bookmark =
     .label = Gunakan Markah…
     .accesskey = h
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Konten Beranda Firefox
+home-prefs-search-header =
+    .label = Pencarian Web
+home-prefs-topsites-header =
+    .label = Situs Teratas
+home-prefs-topsites-description = Situs yang sering Anda kunjungi
+home-prefs-recommended-by-description = Konten bermutu dari seluruh web, khusus untuk Anda
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Konten Sponsor
+home-prefs-highlights-description = Sejumlah situs yang Anda simpan atau kunjungi
+home-prefs-highlights-option-visited-pages =
+    .label = Laman yang Dikunjungi
+home-prefs-highlights-option-most-recent-download =
+    .label = Unduhan Terbaru
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Laman Disimpan di { -pocket-brand-name }
+home-prefs-snippets-description = Pembaruan dari { -vendor-short-name } dan { -brand-product-name }
+
 ## Search Section
 
 search-bar-header = Bilah Pencarian
@@ -660,7 +675,6 @@ addressbar-suggestions-settings = Ubah pengaturan untuk saran mesin pencari
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Pemblokiran Konten
-content-blocking-description = Blokir konten pihak ketiga yang melacak Anda di seantero web. Kendalikan berapa banyak aktivitas daring Anda yang tersimpan dan dibagi antara situs.
 content-blocking-section-description = Lindungi privasi Anda saat menjelajah. Blokir konten tak terlihat yang melacak situs yang Anda kunjungi dan profil Anda. Memblokir sebagian konten ini dapat membuat laman dimuat lebih cepat.
 content-blocking-learn-more = Pelajari Lebih Lanjut
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -674,9 +688,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Ubahsuai
     .accesskey = U
-content-blocking-standard-description = Hanya memblokir pelacak yang sudah diketahui di Jendela Privat
 content-blocking-standard-desc = Imbang antara proteksi dan performa. Memungkinkan sejumlah pelacak agar situs berfungsi dengan baik.
-content-blocking-strict-desc = Blokir semua pelacak yang dideteksi { -brand-short-name } . Dapat menyebabkan kerusakan situs.
 content-blocking-strict-description = Perlindungan yang lebih kuat, dapat menyebabkan beberapa situs rusak.
 content-blocking-custom-desc = Pilih yang diblokir.
 content-blocking-private-trackers = Hanya pelacak yang dikenal di Jendela Privat
