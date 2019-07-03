@@ -381,6 +381,7 @@ choose-bookmark =
 
 home-prefs-content-header = Cuntegn da la pagina da partenza da Firefox
 home-prefs-content-description = Tscherna il cuntegn che ti vuls vesair sin la pagina da partenza da Firefox.
+home-prefs-content-discovery-description = La vitrina da cuntegn pussibilitescha da scuvrir artitgels relevants da gronda qualitad en il web.
 home-prefs-search-header =
     .label = Tschertga web
 home-prefs-topsites-header =
@@ -391,6 +392,7 @@ home-prefs-topsites-description = Las paginas che ti visitas il pli savens
 home-prefs-recommended-by-header =
     .label = Recumandà da { $provider }
 home-prefs-recommended-by-description = Cuntegn interessant ord il web, persunalisà per tai
+home-prefs-recommended-by-learn-more = Co ch'i funcziuna
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Artitgels sponsurads
 home-prefs-highlights-header =
