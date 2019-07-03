@@ -29,11 +29,6 @@ search-input-box =
             [windows] Lorg sna roghainnean
            *[other] Lorg sna roghainnean
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Chuir am buidheann agad casg air atharrachadh cuid a roghainnean.
-       *[other] Chuir am buidheann agad casg air atharrachadh cuid a roghainnean.
-    }
 pane-general-title = Coitcheann
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +41,6 @@ category-search =
 pane-privacy-title = Prìobhaideachd ⁊ tèarainteachd
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Cunntas Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -392,6 +383,47 @@ choose-bookmark =
     .label = Cleachd comharra-lìn…
     .accesskey = c
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Susbaint sgrìn mhòr Firefox
+home-prefs-content-description = Tagh an t-susbaint a bu mhath leat fhaicinn air sgrìn mhòr Firefox
+home-prefs-content-discovery-description = Bheir fidreadh susbaint ann am Firefox Home cothrom dhut sàr-artaigealan iomchaidh o fheadh an lìn a lorg.
+home-prefs-search-header =
+    .label = Lorg air an lìon
+home-prefs-topsites-header =
+    .label = Brod nan làrach
+home-prefs-topsites-description = Na làraichean air an tadhail thu as trice
+home-prefs-recommended-by-description = Sàr-shusbaint o fheadh an lìn, air a phearsantachadh dhut-sa
+home-prefs-recommended-by-learn-more = Mar a dh’obraicheas e
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Sgeulachdan sponsairichte
+home-prefs-highlights-header =
+    .label = Sàr-roghainn
+home-prefs-highlights-description = Taghadh de làraichean a shàbhail thu no air an do thadhail thu
+home-prefs-highlights-option-visited-pages =
+    .label = Duilleagan air an do thadhail thu
+home-prefs-highlights-options-bookmarks =
+    .label = Comharran-lìn
+home-prefs-highlights-option-most-recent-download =
+    .label = Air a luchdadh a-nuas o chionn goirid
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Duilleagan air an sàbhaladh ann am { -pocket-brand-name }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Snippets
+home-prefs-snippets-description = Ùrachaidhean o { -vendor-short-name } is { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } ràgh
+            [two] { $num } ràgh
+            [few] { $num } ràghan
+           *[other] { $num } ràgh
+        }
+
 ## Search Section
 
 search-bar-header = Bàr nan lorg
@@ -534,8 +566,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Sàbhail
     .accesskey = b
-sync-mobilepromo-single = Ceangail uidheam eile ris
-sync-mobilepromo-multi = Stiùirich na h-uidheaman
 sync-connect-another-device = Ceangail uidheam eile ris
 sync-manage-devices = Stiùirich na h-uidheaman
 sync-fxa-begin-pairing = Paidhrich uidheam
@@ -665,7 +695,6 @@ addressbar-suggestions-settings = Atharraich na roghainnean a thaobh mholaidhean
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bacadh susbaint
-content-blocking-description = Bac susbaint threas-phàrtaidhean a thracaicheas tu air feadh an lìn. Cùm smachd air na thèid a stòradh is a cho-roinneadh dhe do ghnìomhachd air loidhne eadar làraichean-lìn.
 content-blocking-section-description = Dìon do phrìobhaideachd fhad ’s a bhios tu a’ brabhsadh. Bac susbaint neo-fhaicsinneach a thracaicheas na làraichean air an tadhail thu agus a chruthaicheas pròifil dhìot. Ma bhacas tu cuid dhen t-susbaint seo, dh’fhaoidte gun luchdaich duilleagan nas luaithe.
 content-blocking-learn-more = Barrachd fiosrachaidh
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -679,9 +708,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Gnàthaichte
     .accesskey = G
-content-blocking-standard-description = Cha bhac seo ach tracaichean as aithne dhuinn ann an uinneagan prìobhaideach.
 content-blocking-standard-desc = Cothromachadh eadar dìon is dèanadas. Ceadaichidh seo cuid a thracaichean airson ’s gun obraich làraichean-lìn mar bu chòir.
-content-blocking-strict-desc = Bacaidh seo gach tracaiche a mhothaicheas { -brand-short-name } dhaibh. Dh’fhaoidte gum bris seo cuid a làraichean.
 content-blocking-strict-description = Dìon nas làidire, dh’fhaoidte gum bris seo cuid a làraichean.
 content-blocking-custom-desc = Tagh na thèid a bhacadh.
 content-blocking-private-trackers = Tracaichean as aithne dhuinn ann an uinneagan prìobhaideach a-mhàin
@@ -693,7 +720,6 @@ content-blocking-all-third-party-cookies = Gach briosgaid le treas-phàrtaidh
 content-blocking-cryptominers = Criopto-mhèinneadairean
 content-blocking-fingerprinters = Lorgaichean-meur
 content-blocking-warning-title = An aire!
-content-blocking-warning-desc = Ma bhacas tu briosgaidean is tracaichean, dh’fhaoidte gum bris seo cuid a làraichean-lìn. Tha e furasta a chur à comas airson làraichean sa bheil earbsa agad.
 content-blocking-warning-description = Ma bhacas tu susbaint, dh’fhaoidte gum bris seo cuid a làraichean-lìn. Tha e furasta a chur à comas airson làraichean sa bheil earbsa agad.
 content-blocking-learn-how = Barrachd fiosrachaidh
 content-blocking-reload-description = Feumaidh tu na tabaichean agad ath-luchdadh mus bi na h-atharraichean seo an sàs.
