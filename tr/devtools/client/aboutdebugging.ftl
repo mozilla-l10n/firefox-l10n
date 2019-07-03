@@ -103,6 +103,8 @@ about-debugging-setup-usb-status-enabled = Etkin
 about-debugging-setup-usb-status-disabled = Devre dışı
 about-debugging-setup-usb-status-updating = Güncelleniyor…
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Android cihazınızda Geliştirici menüsünü etkinleştirin.
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Android cihazını bilgisayarınıza bağlayın.
 # Network section of the Setup page
 about-debugging-setup-network =
@@ -153,6 +155,9 @@ about-debugging-runtime-other-workers =
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = İşlemler
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button2 = Profil performansı
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
@@ -189,6 +194,8 @@ about-debugging-connection-prompt-enable-button = Bağlantı istemini etkinleşt
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = Bağlantı istemini devre dışı bırak
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title2 = Profil oluşturucu
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.

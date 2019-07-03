@@ -155,9 +155,6 @@ private-browsing-description2 =
     Böylece, siz ayarlara girip özellikle izin vermedikçe eklentiler gizli gezinti sırasında yaptıklarınızı göremeyecekler.
     Bu değişikliği, gizli gezintinizin daha da gizli kalması için yapıyoruz.
     <label data-l10n-name="private-browsing-learn-more">Eklenti ayarlarınızı yönetmeyi öğrenin.</label>
-extensions-view-discover =
-    .name = Eklentileri edinin
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Öneriler
     .tooltiptext = { extensions-view-discopane.name }
@@ -268,6 +265,13 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro = Eklentiler ve temalar tarayıcınızın içinde çalışan uygulamalar gibidir. Parolalarınızı saklamanıza, video indirmeize, indirimleri bulmanıza, sinir bozucu reklamları engellemenize, tarayıcınızın görünümü değiştirmenize ve çok daha birçok şey yapmanıza olanak tanırlar. Bu küçük yazılımlar genellikle üçüncü şahıslar tarafından geliştirilir. Ekstra güvenlik, performans ve işlevsellik için { -brand-product-name } tarafından <a data-l10n-name="learn-more-trigger">önerilen</a> eklenti ve temaları aşağıdaki bulabilirsiniz.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Bu önerilerden bazıları kişiselleştirilmiştir. Önerilerimiz; yüklediğiniz
+    diğer eklentileri, profil tercihlerinizi ve kullanım istatistiklerinizi temel alır.
 discopane-notice-learn-more = Daha fazla bilgi al
 privacy-policy = Gizlilik İlkeleri
 # Refers to the author of an add-on, shown below the name of the add-on.
@@ -340,6 +344,11 @@ addon-detail-updates-radio-on = Açık
 addon-detail-updates-radio-off = Kapalı
 addon-detail-update-check-label = Güncellemeleri denetle
 install-update-button = Güncelle
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Gizli pencerelerde izinli
+addon-detail-private-browsing-help = İzin verirseniz bu eklenti, gizli gezinti sırasında çevrimiçi etkinliklerinize erişebilir. <a data-l10n-name="learn-more">Daha fazla bilgi alın</a>
 addon-detail-private-browsing-allow = İzin ver
 addon-detail-private-browsing-disallow = İzin verme
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
@@ -354,3 +363,6 @@ release-notes-error = Üzgünüz, sürüm notları yüklenirken bir hata meydana
 addon-permissions-empty = Bu eklenti herhangi bir izin gerektirmiyor
 recommended-extensions-heading = Önerilen eklentiler
 recommended-themes-heading = Önerilen temalar
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Yaratıcı gününüzde misiniz? <a data-l10n-name="link">Firefox Color ile kendi temanızı oluşturun.</a>
