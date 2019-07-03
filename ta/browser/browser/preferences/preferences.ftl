@@ -363,6 +363,12 @@ home-prefs-highlights-options-bookmarks =
     .label = புத்தகக்குறிகள்
 home-prefs-highlights-option-most-recent-download =
     .label = அண்மைய பதிவிறக்கம்
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = துணுக்குகள்
 home-prefs-snippets-description = மொசில்லா மற்றும் பயர்பாக்சிலிருந்து புதுப்பிப்புகள்
 
 ## Search Section
