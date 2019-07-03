@@ -399,6 +399,8 @@ home-prefs-content-header = Contenu de la page d’accueil de Firefox
 home-prefs-content-description = Choisissez le contenu que vous souhaitez pour la page d’accueil de Firefox.
 home-prefs-search-header =
     .label = Recherche web
+home-prefs-topsites-header =
+    .label = Sites les plus visités
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
