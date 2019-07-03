@@ -29,11 +29,6 @@ search-input-box =
             [windows] ابحث في الخيارات
            *[other] ابحث في التفضيلات
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] منعت الشركة إمكانية تغيير بعض الخيارات.
-       *[other] منعت الشركة إمكانية تغيير بعض التفضيلات.
-    }
 managed-notice = تُدير منظّمتك المتصفح الذي تستخدم الآن.
 pane-general-title = عام
 category-general =
@@ -404,6 +399,9 @@ choose-bookmark =
     .label = استخدم علامة…
     .accesskey = ع
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-bar-header = شريط البحث
@@ -675,7 +673,6 @@ addressbar-suggestions-settings = غيّر تفضيلات اقتراحات مح�
 ## Privacy Section - Content Blocking
 
 content-blocking-header = حجب المحتوى
-content-blocking-description = احجب المحتوى من الأطراف الثالثة والذي يتعقّبك في أرجاء الوِب. تحكّم بمقدار نشاطك الشبكي الذي يُخزّن ويُشارك بين المواقع.
 content-blocking-section-description = احمِ خصوصيتك وأنت تتصفح الوِب بحجب المحتوى الذي يتعقّب المواقع التي تزورها دون أن تعلم، كما ويسجّلها باسمك. يمكنك بحجب جزء من هذا المحتوى تحميل الصفحات بسرعة أكبر.
 content-blocking-learn-more = اطّلع على المزيد
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -689,9 +686,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = مخصّص
     .accesskey = خ
-content-blocking-standard-description = احجب المتعقّبات المعروفة في النوافذ الخاصة فقط.
 content-blocking-standard-desc = الموازنة بين الحماية والأداء. يتيح عمل بعض المتعقّبات لتعمل المواقع كما ينبغي.
-content-blocking-strict-desc = يحجب كل المتعقّبات التي يكتشفها { -brand-short-name }. قد يتسبّب بعطب بعض المواقع.
 content-blocking-strict-description = حماية أقوى وأعتى، لكنها قد تعطب بعض المواقع.
 content-blocking-custom-desc = اختر ما تريد حجبه.
 content-blocking-private-trackers = المتعقّبات المعروفة فقط في النوافذ الخاصة
