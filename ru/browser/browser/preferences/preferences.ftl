@@ -398,6 +398,11 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Домашняя страница Firefox
+home-prefs-content-description = Выберите, какое содержимое вы хотите видеть на домашней странице Firefox.
+home-prefs-content-discovery-description = Обнаружение содержимого на домашней странице Firefox позволит вам находить высококачественные релевантные статьи со всего Интернета.
+home-prefs-search-header =
+    .label = Поиск в Интернете
 home-prefs-topsites-header =
     .label = Топ сайтов
 home-prefs-topsites-description = Сайты, которые вы чаще всего посещаете
@@ -405,16 +410,27 @@ home-prefs-topsites-description = Сайты, которые вы чаще вс�
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Рекомендовано { $provider }
+home-prefs-recommended-by-description = Отличный контент со всего Интернета, отобранный по вашему вкусу
 home-prefs-recommended-by-learn-more = Как это работает
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Статьи спонсоров
+home-prefs-highlights-header =
+    .label = Избранное
 home-prefs-highlights-description = Избранные сайты, которые вы сохранили или посещали
 home-prefs-highlights-option-visited-pages =
     .label = Посещённые страницы
+home-prefs-highlights-options-bookmarks =
+    .label = Закладки
 home-prefs-highlights-option-most-recent-download =
     .label = Недавние загрузки
 home-prefs-highlights-option-saved-to-pocket =
     .label = Страницы, сохранённые в { -pocket-brand-name }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Заметки
 home-prefs-snippets-description = Обновления от { -vendor-short-name } и { -brand-product-name }
 
 ## Search Section
