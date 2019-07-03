@@ -378,6 +378,35 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Pagina iniçiâ de Firefox
+home-prefs-content-description = Çerni i contegnui che ti veu vedde inta pagina iniçiâ de Firefox.
+home-prefs-search-header =
+    .label = Çerca into Web
+home-prefs-topsites-header =
+    .label = I megio sciti
+home-prefs-topsites-description = I sciti che ti vixiti de ciù
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Consegiou da { $provider }
+home-prefs-highlights-header =
+    .label = In evidensa
+home-prefs-highlights-description = 'Na seleçion di sciti che t'ê sarvou ò vixitou
+home-prefs-highlights-options-bookmarks =
+    .label = Segnalibbri
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Snippet
+home-prefs-snippets-description = Agiornamenti da { -vendor-short-name } e { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } riga
+           *[other] { $num } righe
+        }
 
 ## Search Section
 
