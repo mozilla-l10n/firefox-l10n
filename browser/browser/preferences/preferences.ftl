@@ -407,9 +407,18 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Glavne strani
 home-prefs-topsites-description = Strani, ki jih največkrat obiščete
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Priporoča { $provider }
+home-prefs-recommended-by-learn-more = Kako deluje
+home-prefs-highlights-header =
+    .label = Poudarki
 home-prefs-highlights-description = Izbor strani, ki ste jih shranili ali obiskali
 home-prefs-highlights-option-visited-pages =
     .label = Obiskane strani
+home-prefs-highlights-options-bookmarks =
+    .label = Zaznamki
 home-prefs-highlights-option-most-recent-download =
     .label = Najnovejši prenos
 home-prefs-highlights-option-saved-to-pocket =
