@@ -397,6 +397,8 @@ choose-bookmark =
 
 home-prefs-content-header = Περιεχόμενο αρχικής σελίδας Firefox
 home-prefs-content-description = Επιλέξτε τι περιεχόμενο θέλετε στην αρχική σελίδα του Firefox σας.
+home-prefs-search-header =
+    .label = Διαδικτυακή αναζήτηση
 home-prefs-topsites-header =
     .label = Κορυφαίες ιστοσελίδες
 home-prefs-topsites-description = Οι ιστοσελίδες που επισκέπτεστε περισσότερο
@@ -404,11 +406,20 @@ home-prefs-topsites-description = Οι ιστοσελίδες που επισκ�
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Προτεινόμενο από τον πάροχο { $provider }
+home-prefs-recommended-by-description = Εξαιρετικό περιεχόμενο από το διαδίκτυο, εξατομικευμένο για εσάς
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Χορηγούμενες ιστορίες
 home-prefs-highlights-header =
     .label = Κορυφαίες στιγμές
 home-prefs-highlights-description = Μια συλλογή ιστοσελίδων που έχετε αποθηκεύσει ή επισκεφθεί
+home-prefs-highlights-option-visited-pages =
+    .label = Σελίδες που έχετε επισκεφθεί
 home-prefs-highlights-options-bookmarks =
     .label = Σελιδοδείκτες
+home-prefs-highlights-option-most-recent-download =
+    .label = Πιο πρόσφατες λήψεις
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Αποθηκευμένες σελίδες του { -pocket-brand-name }
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
