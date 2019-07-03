@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = Žeden proksy za
     .accesskey = d
 connection-proxy-noproxy-desc = Pśikład: .mozilla.org, .net.nz, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = Zwiski z localhost, 127.0.0.1 a ::1 nigda pśez proksy njejdu.
 connection-proxy-autotype =
     .label = URL awtomatiskeje proksy-konfiguracije
     .accesskey = U
@@ -70,12 +72,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = DNS pśez HTTPS zmóžniś
     .accesskey = H
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = Standard wužywaś ({ $url })
-    .accesskey = S
-    .tooltiptext = Standardny URL za rozpušćowaje DNS pśez HTTPS wužywaś
 connection-dns-over-https-url-resolver = Póbitowarja wužywaś
     .accesskey = P
 # Variables:
