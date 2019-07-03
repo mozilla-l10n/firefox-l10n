@@ -29,11 +29,6 @@ search-input-box =
             [windows] Εύρεση στις επιλογές
            *[other] Εύρεση στις προτιμήσεις
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Ο οργανισμός σας έχει απενεργοποιήσει την ικανότητα αλλαγής μερικών επιλογών.
-       *[other] Ο οργανισμός σας έχει απενεργοποιήσει την ικανότητα αλλαγής μερικών προτιμήσεων.
-    }
 managed-notice = Το πρόγραμμα περιήγησής σας ρυθμίζεται από τον οργανισμό σας.
 pane-general-title = Γενικά
 category-general =
@@ -398,6 +393,32 @@ choose-bookmark =
     .label = Χρήση σελιδοδείκτη…
     .accesskey = σ
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Περιεχόμενο αρχικής σελίδας Firefox
+home-prefs-content-description = Επιλέξτε τι περιεχόμενο θέλετε στην αρχική σελίδα του Firefox σας.
+home-prefs-topsites-header =
+    .label = Κορυφαίες ιστοσελίδες
+home-prefs-topsites-description = Οι ιστοσελίδες που επισκέπτεστε περισσότερο
+home-prefs-highlights-header =
+    .label = Κορυφαίες στιγμές
+home-prefs-highlights-description = Μια συλλογή ιστοσελίδων που έχετε αποθηκεύσει ή επισκεφθεί
+home-prefs-highlights-options-bookmarks =
+    .label = Σελιδοδείκτες
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Αποσπάσματα
+home-prefs-snippets-description = Ενημερώσεις από τη { -vendor-short-name } και το { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } σειρά
+           *[other] { $num } σειρές
+        }
+
 ## Search Section
 
 search-bar-header = Γραμμή αναζήτησης
@@ -672,7 +693,6 @@ addressbar-suggestions-settings = Αλλαγή προτιμήσεων για τ�
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Φραγή περιεχομένου
-content-blocking-description = Αποκλείστε περιεχόμενο τρίτων που σάς παρακολουθεί στο διαδίκτυο. Ελέγξτε πόση διαδικτυακή δραστηριότητα αποθηκεύεται και κοινοποιείται στις ιστοσελίδες.
 content-blocking-section-description = Προστατέψτε το απόρρητό σας ενώ περιηγείστε. Αποκλείστε το αόρατο περιεχόμενο που καταγράφει τις ιστοσελίδες που επισκέπτεστε και δημιουργεί ένα προφίλ για εσάς. Η φραγή μέρους του περιεχομένου αυτού μπορεί να επιταχύνει τη φόρτωση σελίδων.
 content-blocking-learn-more = Μάθετε περισσότερα
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -686,9 +706,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Προσαρμοσμένη
     .accesskey = Π
-content-blocking-standard-description = Αποκλείει μόνο γνωστούς ιχνηλάτες στα ιδιωτικά παράθυρα.
 content-blocking-standard-desc = Ισορροπία ανάμεσα σε προστασία και επιδόσεις. Επιτρέπει ορισμένους ιχνηλάτες για τη σωστή λειτουργία των ιστοσελίδων.
-content-blocking-strict-desc = Αποκλείει όλους τους ιχνηλάτες που ανιχνεύει το { -brand-short-name }. Ορισμένες ιστοσελίδες ενδέχεται να δυσλειτουργούν.
 content-blocking-strict-description = Ισχυρότερη προστασία, πιθανή δυσλειτουργία ορισμένων ιστοσελίδων.
 content-blocking-custom-desc = Επιλέξτε τι θα αποκλείεται.
 content-blocking-private-trackers = Γνωστοί ιχνηλάτες μόνο σε ιδιωτικά παράθυρα
