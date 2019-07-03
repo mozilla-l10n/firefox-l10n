@@ -396,9 +396,12 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header = Pagina initial de Firefox
+home-prefs-content-description = Elige qual contento tu desira pro tu pagina initial de Firefox.
 home-prefs-content-discovery-description = Content Discovery in Firefox Home te consenti de discoperir articulos pertinente, de alte qualitate, in le Web.
 home-prefs-search-header =
     .label = Recerca del Web
+home-prefs-topsites-header =
+    .label = Sitos popular
 home-prefs-topsites-description = Le sitos que tu visita plus
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -406,10 +409,20 @@ home-prefs-recommended-by-header =
     .label = Recommendate per { $provider }
 home-prefs-recommended-by-description = Grande contento ex tote le Web, personalisate pro te
 home-prefs-recommended-by-learn-more = Como illo labora
+home-prefs-highlights-header =
+    .label = In evidentia
 home-prefs-highlights-option-visited-pages =
     .label = Paginas visitate
+home-prefs-highlights-options-bookmarks =
+    .label = Marcapaginas
 home-prefs-highlights-option-saved-to-pocket =
     .label = Paginas salvate in { -pocket-brand-name }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Breve novas
 home-prefs-snippets-description = Actualisationes ab { -vendor-short-name } e { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
