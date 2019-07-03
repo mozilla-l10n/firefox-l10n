@@ -27,11 +27,6 @@ search-input-box =
             [windows] Seçimlərdə tap
            *[other] Nizamlamalarda tap
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Təşkilatınız bəzi seçimləri dəyişdirməyinizi əngəlləyib.
-       *[other] Təşkilatınız bəzi nizamlamaları dəyişdirməyinizi əngəlləyib.
-    }
 pane-general-title = Ümumi
 category-general =
     .tooltiptext = { pane-general-title }
@@ -44,10 +39,6 @@ category-search =
 pane-privacy-title = Məxfilik və Təhlükəsizlik
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox Hesabı
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -378,6 +369,49 @@ choose-bookmark =
     .label = Əlfəcin istifadə et…
     .accesskey = Ə
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Firefox Ev Məzmunu
+home-prefs-content-description = Firefox Evdə hansı məzmunları görmək istədiyinizi seçin.
+home-prefs-content-discovery-description = Firefox Evdəki Məzmun Kəşfi yüksək keyfiyyətli və sizə uyğun internet məqalələrini kəşf etməyinizə imkan verir.
+home-prefs-search-header =
+    .label = Web Axtarış
+home-prefs-topsites-header =
+    .label = Qabaqcıl Saytlar
+home-prefs-topsites-description = Ən çox ziyarət etdiyiniz saytlar
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = { $provider } məsləhət görür
+home-prefs-recommended-by-description = İnternetin ən yaxşı məzmunları, sizə görə fərdiləşdirilmiş
+home-prefs-recommended-by-learn-more = Bu necə işləyir
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Sponsorlaşdırılmış Hekayələr
+home-prefs-highlights-header =
+    .label = Seçilmişlər
+home-prefs-highlights-description = Saxladığınız və ya ziyarət etdiyiniz saytlardan seçmələr
+home-prefs-highlights-option-visited-pages =
+    .label = Baxılmış Səhifələr
+home-prefs-highlights-options-bookmarks =
+    .label = Əlfəcinlər
+home-prefs-highlights-option-most-recent-download =
+    .label = Son Endirmələr
+home-prefs-highlights-option-saved-to-pocket =
+    .label = { -pocket-brand-name }-ə Saxlanılan Səhifələr
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Hissələr
+home-prefs-snippets-description = { -vendor-short-name } və { -brand-product-name }dan yeniliklər
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } sətir
+           *[other] { $num } sətir
+        }
+
 ## Search Section
 
 search-bar-header = Axtarış Sətri
@@ -520,8 +554,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Saxla
     .accesskey = S
-sync-mobilepromo-single = Digər cihazı qoş
-sync-mobilepromo-multi = Cihazları idarə et
 sync-connect-another-device = Digər cihazı qoş
 sync-manage-devices = Cihazları idarə et
 sync-fxa-begin-pairing = Cihaz qoş
@@ -645,7 +677,6 @@ addressbar-suggestions-settings = Axtarış mühərriyi təklifləri üçün niz
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Məzmun Əngəlləmə
-content-blocking-description = Sizi internetdə izləyən üçüncü tərəf məzmunlarını əngəlləyin. Onlayn aktivliyinizin nə qədər saxlandığını və hansı saytlar arasında paylaşıldığını idarə edin.
 content-blocking-learn-more = Ətraflı Öyrən
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -659,14 +690,12 @@ content-blocking-setting-custom =
     .label = Fərdi
     .accesskey = F
 content-blocking-standard-desc = Qoruma və məhsuldarlıq arasında tarazlaşdırılıb. Saytların düzgün işləyə bilmələri üçün bəzi izləyicilərə icazə verir.
-content-blocking-strict-desc = { -brand-short-name } tərəfindən aşkarlanan bütün izləyiciləri əngəlləyir. Bəzi saytların düz işləməməsinə səbəb ola bilər.
 content-blocking-custom-desc = Nəyi əngəlləyəcəyini seçin.
 content-blocking-private-trackers = Ancaq Məxfi Pəncərələrdə bilinən izləyicilər
 content-blocking-third-party-cookies = Üçüncü tərəf izləmə çərəzləri
 content-blocking-all-windows-trackers = Bütün pəncərələrdə bilinən izləyicilər
 content-blocking-all-third-party-cookies = Bütün üçüncü tərəf çərəzləri
 content-blocking-warning-title = Diqqət!
-content-blocking-warning-desc = Çərəzləri və izləyiciləri əngəlləmə bəzi saytların düzgün işləməmələrinə səbəb ola bilər. Güvəndiyiniz saytlar üçün əngəlləməni söndürmək çox asandır.
 content-blocking-learn-how = Necə edəcəyinizi öyrənin
 content-blocking-trackers-label =
     .label = İzləyicilər
