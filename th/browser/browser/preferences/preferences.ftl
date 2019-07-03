@@ -387,6 +387,7 @@ home-prefs-topsites-description = ไซต์ที่คุณเยี่ย�
 home-prefs-recommended-by-header =
     .label = แนะนำโดย { $provider }
 home-prefs-recommended-by-description = เนื้อหาที่ยอดเยี่ยมจากเว็บต่าง ๆ ปรับแต่งให้เป็นส่วนบุคคลเพื่อคุณ
+home-prefs-recommended-by-learn-more = วิธีการทำงาน
 home-prefs-recommended-by-option-sponsored-stories =
     .label = เรื่องราวที่ได้รับการสนับสนุน
 home-prefs-highlights-header =
