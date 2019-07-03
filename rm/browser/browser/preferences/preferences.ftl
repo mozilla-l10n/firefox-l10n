@@ -29,11 +29,6 @@ search-input-box =
             [windows] Tschertgar en las preferenzas
            *[other] Tschertgar en las preferenzas
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Tia organisaziun ha deactivà la pussaivladad da midar tschertas preferenzas.
-       *[other] Tia organisaziun ha deactivà la pussaivladad da midar tschertas preferenzas.
-    }
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +41,6 @@ category-search =
 pane-privacy-title = Sfera privata & segirezza
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Conto da Firefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -386,6 +377,17 @@ choose-bookmark =
     .label = Utilisar segnapaginas…
     .accesskey = l
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-topsites-header =
+    .label = Paginas preferidas
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Recumandà da { $provider }
+home-prefs-highlights-header =
+    .label = Accents
+
 ## Search Section
 
 search-bar-header = Trav da tschertgar
@@ -528,8 +530,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Memorisar
     .accesskey = m
-sync-mobilepromo-single = Connectar in auter apparat
-sync-mobilepromo-multi = Administrar ils apparats
 sync-connect-another-device = Colliar in auter apparat
 sync-manage-devices = Administrar ils apparats
 sync-fxa-begin-pairing = Associar in apparat
@@ -659,7 +659,6 @@ addressbar-suggestions-settings = Midar las preferenzas per propostas da maschin
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bloccada da cuntegn
-content-blocking-description = Blochescha cuntegn da terzas partidas che ta fastizescha en il web. Controllescha quant da tia activitad online che vegn memorisada e cundividida tranter websites.
 content-blocking-section-description = Protegia tia sfera privata durant la navigaziun. Blochescha cuntegn invisibel che po fastizar las websites che ti visitas e skizzar tes profil. Cun bloccar ina part da quest cuntegn chargian las paginas eventualmain pli svelt.
 content-blocking-learn-more = Ulteriuras infurmaziuns
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -673,9 +672,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Persunalisà
     .accesskey = P
-content-blocking-standard-description = Blochescha mo fastizaders enconuschents en fanestras privatas.
 content-blocking-standard-desc = Equiliber tranter protecziun e prestaziun. Permetta tscherts fastizaders per che las websites funcziunian endretg.
-content-blocking-strict-desc = Blochescha tut ils fastizaders che { -brand-short-name } chatta. Eventualmain na funcziunan tschertas websites betg pli endretg.
 content-blocking-strict-description = Ina protecziun pli severa, po avair per consequenza che tschertas websites na funcziuneschan betg pli.
 content-blocking-custom-desc = Tscherna tge bloccar.
 content-blocking-private-trackers = Fastizaders enconuschents mo en il modus privat
@@ -687,7 +684,6 @@ content-blocking-all-third-party-cookies = Tut ils cookies da terzas partidas
 content-blocking-cryptominers = Criptominiers
 content-blocking-fingerprinters = Improntaders dal det
 content-blocking-warning-title = Attenziun!
-content-blocking-warning-desc = La bloccada da cookies e fastizaders po impedir che tschertas websites funcziunian endretg. Igl è simpel da deactivar la bloccada per websites da las qualas ti ta fidas.
 content-blocking-warning-description = La bloccada da cuntegn po impedir che tschertas websites funcziunian. Igl è simpel da deactivar la bloccada per las websites che ti tegnas per fidablas.
 content-blocking-learn-how = Vegnir a savair co
 content-blocking-reload-description = Igl è necessari da rechargiar ils tabs per applitgar las midadas.
