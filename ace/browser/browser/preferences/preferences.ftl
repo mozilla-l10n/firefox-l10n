@@ -361,6 +361,8 @@ home-prefs-recommended-by-header =
 home-prefs-recommended-by-description = Kontèn krak nibak ban mandum situihwèb, dipeuturi keu droëneuh
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Kisah-kisah nyang diseuponsor
+home-prefs-highlights-header =
+    .label = Keunalön
 home-prefs-highlights-description = Piléh situih nyang droëneuh keubah atawa neusaweuë
 home-prefs-highlights-option-visited-pages =
     .label = Ônwèb nyang Disaweuë
@@ -370,6 +372,12 @@ home-prefs-highlights-option-most-recent-download =
     .label = Donlod Paléng Barô
 home-prefs-highlights-option-saved-to-pocket =
     .label = Ônwèb Dikeubah keu Pokèt
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Peunutôh
 home-prefs-snippets-description = Seubarô nibak { -vendor-short-name } ngon { -brand-product-name }
 home-prefs-sections-rows-option =
     .label = { $num } baréh
