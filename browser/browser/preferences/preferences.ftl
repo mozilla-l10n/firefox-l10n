@@ -398,16 +398,25 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Домівка Firefox
+home-prefs-content-description = Оберіть бажаний вміст для показу в домівці Firefox.
+home-prefs-content-discovery-description = Огляд вмісту в домівці Firefox дозволяє вам знаходити високоякісні, цікаві статті з усього інтернету.
+home-prefs-search-header =
+    .label = Пошук в Інтернеті
 home-prefs-topsites-header =
     .label = Популярні сайти
+home-prefs-topsites-description = Сайти, які ви відвідуєте найчастіше
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Рекомендовано { $provider }
+home-prefs-recommended-by-description = Чудові матеріали з усього інтернету, відібрані спеціально для вас
+home-prefs-recommended-by-learn-more = Як це працює
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Матеріали від спонсорів
 home-prefs-highlights-header =
     .label = Обране
+home-prefs-highlights-description = Відібрані веб-сайти, які ви зберегли чи відвідали
 home-prefs-highlights-option-visited-pages =
     .label = Відвідані сторінки
 home-prefs-highlights-options-bookmarks =
@@ -422,6 +431,14 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Фрагменти
+home-prefs-snippets-description = Оновлення від { -vendor-short-name } та { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } рядок
+            [few] { $num } рядки
+           *[many] { $num } рядків
+        }
 
 ## Search Section
 
