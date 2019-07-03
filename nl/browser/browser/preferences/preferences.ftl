@@ -395,8 +395,11 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Inhoud van Firefox-startpagina
 home-prefs-content-description = Kies welke inhoud u op uw Firefox-startscherm wilt laten weergeven.
 home-prefs-content-discovery-description = Via Content Discovery op de Firefox-startpagina kunt u relevante artikelen op het hele web met hoge kwaliteit vinden.
+home-prefs-search-header =
+    .label = Zoeken op het web
 home-prefs-topsites-header =
     .label = Topwebsites
 home-prefs-topsites-description = De websites die u het vaakst bezoekt
@@ -426,6 +429,12 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Snippets
 home-prefs-snippets-description = Updates van { -vendor-short-name } en { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } rij
+           *[other] { $num } rijen
+        }
 
 ## Search Section
 
