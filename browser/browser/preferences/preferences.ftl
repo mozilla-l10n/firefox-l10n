@@ -29,11 +29,6 @@ search-input-box =
             [windows] অপশনে অনুসন্ধান
            *[other] পছন্দসমূহে অনুসন্ধান
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] আপনার প্রতিষ্ঠান অপশনের কিছু পরিবর্তনের সক্ষমতা নিষ্ক্রিয় করেছে।
-       *[other] আপনার প্রতিষ্ঠান অপশনের কিছু পরিবর্তনের সক্ষমতা নিষ্ক্রিয় করেছে।
-    }
 managed-notice = আপনার ব্রাউজার আপনার প্রতিষ্ঠান দ্বারা পরিচালিত হচ্ছে।
 pane-general-title = সাধারণ
 category-general =
@@ -381,6 +376,32 @@ choose-bookmark =
     .label = বুকমার্ক ব্যবহার করুন
     .accesskey = B
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Firefox Home কনটেন্ট
+home-prefs-content-description = আপনার Firefox Home স্ক্রিনে যেসব কনটেন্ট রাখতে চান তা পছন্দ করুন।
+home-prefs-search-header =
+    .label = ওয়েব অনুসন্ধান
+home-prefs-topsites-header =
+    .label = শীর্ষ সাইট
+home-prefs-topsites-description = যে সাইটগুলিতে আপনি বেশি যান
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = স্পন্সর করা স্টোরি
+home-prefs-highlights-description = সাইটের একটি সেকশন যা আপনি সংরক্ষণ অথবা গিয়েছিলেন
+home-prefs-highlights-option-visited-pages =
+    .label = ঘুরে আসা পেজ
+home-prefs-highlights-option-most-recent-download =
+    .label = সর্বশেষ ডাউনলোড
+home-prefs-highlights-option-saved-to-pocket =
+    .label = পেজটি { -pocket-brand-name } এ সংরক্ষণ করা হয়েছে
+home-prefs-snippets-description = { -vendor-short-name } and { -brand-product-name } থেকে হালনাগাদ
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } সারি
+           *[other] { " " }{ $num } সারিগুলি
+        }
+
 ## Search Section
 
 search-bar-header = অনুসন্ধান বার
@@ -652,7 +673,6 @@ addressbar-suggestions-settings = অনুসন্ধান ইঞ্জিন
 ## Privacy Section - Content Blocking
 
 content-blocking-header = কনটেন্ট ব্লকিং
-content-blocking-description = যেসব তৃতীয়-পক্ষ কন্টেন্ট পুরো ওয়েব জুড়ে আপনাকে ট্র্যাক করে তাদের ব্লক করুন। আপনার অনলাইন কার্যক্রম কি পরিমান জমা হচ্ছে এবং ওয়েবসাইটগুলোর মধ্যে আদান-প্রদান হচ্ছে সেটা নিয়ন্ত্রণ করুন।
 content-blocking-learn-more = আরও জানুন
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -665,7 +685,6 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = স্বনির্ধারিত
     .accesskey = C
-content-blocking-standard-description = শুধুমাত্র পরিচিত ট্র্যাকারগুলো কে ব্যক্তিগত উইন্ডো তে ব্লক করে।
 content-blocking-standard-desc = সুরক্ষা এবং সমন্বয়ের মাঝে ভারসাম্য রাখার জন্য। কিছু ট্র্যাকার অনুমোদন করে যাতে ওয়েবসাইট ঠিকমতো কাজ করে।
 content-blocking-custom-desc = নির্বাচন করুন কি ব্লক করবেন
 content-blocking-private-trackers = পরিচিত ট্র্যাকার শুধুমাত্র ব্যক্তিগত উইন্ডো তে
