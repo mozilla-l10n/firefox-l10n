@@ -389,11 +389,21 @@ home-prefs-topsites-description = I sciti che ti vixiti de ciù
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Consegiou da { $provider }
+home-prefs-recommended-by-description = I megio contegnui pigiæ in gio pe-a ræ, personalizæ pe ti
+home-prefs-recommended-by-learn-more = Comme o fonçionn-a
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Stöie sponsorizæ
 home-prefs-highlights-header =
     .label = In evidensa
 home-prefs-highlights-description = 'Na seleçion di sciti che t'ê sarvou ò vixitou
+home-prefs-highlights-option-visited-pages =
+    .label = Pagine vixitæ
 home-prefs-highlights-options-bookmarks =
     .label = Segnalibbri
+home-prefs-highlights-option-most-recent-download =
+    .label = Urtimi descaregamenti
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Pagine sarvæ in { -pocket-brand-name }
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
