@@ -321,6 +321,7 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = ഫയർഫോക്സ് ഹോം ഉള്ളടക്കം
 home-prefs-topsites-header =
     .label = മുന്നേറിയ സൈറ്റുകൾ
 # Variables:
