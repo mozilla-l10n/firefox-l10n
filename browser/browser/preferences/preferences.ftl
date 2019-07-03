@@ -411,6 +411,7 @@ home-prefs-topsites-description = Site-urile pe care le vizitezi cel mai des
 home-prefs-recommended-by-header =
     .label = Recomandat de { $provider }
 home-prefs-recommended-by-description = Conținut nemaipomenit de pe web, personalizat pentru tine
+home-prefs-recommended-by-learn-more = Cum funcționează
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Articole sponsorizate
 home-prefs-highlights-header =
