@@ -29,11 +29,6 @@ search-input-box =
             [windows] Hae asetuksista
            *[other] Hae asetuksista
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Organisaatiosi on estänyt joidenkin asetusten muuttamisen.
-       *[other] Organisaatiosi on estänyt joidenkin asetusten muuttamisen.
-    }
 managed-notice = Organisaatiosi hallitsee selaimesi asetuksia.
 pane-general-title = Yleiset
 category-general =
@@ -389,6 +384,38 @@ choose-bookmark =
     .label = Käytä kirjanmerkkiä…
     .accesskey = m
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Firefoxin aloitussivun sisältö
+home-prefs-content-description = Valitse Firefoxin aloitussivulle haluamasi sisältö.
+home-prefs-search-header =
+    .label = Verkkohaku
+home-prefs-topsites-header =
+    .label = Ykkössivustot
+home-prefs-topsites-description = Useimmin vierailemasi sivustot
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Suositukset lähteestä { $provider }
+home-prefs-highlights-header =
+    .label = Nostot
+home-prefs-highlights-description = Valikoima sivustoja, joilla olet käynyt tai jotka olet tallentanut
+home-prefs-highlights-options-bookmarks =
+    .label = Kirjanmerkit
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Tiedonmuruset
+home-prefs-snippets-description = Päivitykset { -vendor-short-name }lta ja { -brand-product-name }ilta
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } rivi
+           *[other] { $num } riviä
+        }
+
 ## Search Section
 
 search-bar-header = Hakupalkki
@@ -663,7 +690,6 @@ addressbar-suggestions-settings = Muuta hakukoneiden ehdotusten asetuksia
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Sisällön esto
-content-blocking-description = Voit estää kolmannen osapuolen sisältöä, joka seuraa sinua ympäri verkkoa. Voit myös hallita, kuinka paljon tekemisiäsi verkossa tallennetaan ja jaetaan sivustojen välillä.
 content-blocking-section-description = Suojaa yksityisyyttäsi selatessasi. Estä näkymätön sisältö, joka seuraa vierailemiasi sivuja ja profiloi sinua. Jonkin tällaisen sisällön estäminen saattaa nopeuttaa sivujen latautumista.
 content-blocking-learn-more = Lue lisää
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -677,9 +703,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Oma
     .accesskey = O
-content-blocking-standard-description = Estää tunnetut seuraimet vain yksityisissä ikkunoissa.
 content-blocking-standard-desc = Tasapuolinen suojauksen ja suorituskyvyn välillä. Sallii jotkin seuraimet, jotta verkkosivustot toimivat.
-content-blocking-strict-desc = Estää kaikki { -brand-short-name }in havaitsemat seuraimet. Voi aiheuttaa joidenkin sivustojen toimimattomuutta.
 content-blocking-strict-description = Vahvempi suoja. Saattaa aiheuttaa joidenkin sivustojen toimimattomuutta.
 content-blocking-custom-desc = Valitse, mitä estetään.
 content-blocking-private-trackers = Tunnetut seuraimet vain yksityisissä ikkunoissa
