@@ -25,8 +25,8 @@
 
 <!ENTITY cmd.showReleaseNotes.label           "Mostrar notas de lançamento">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Mostrar as notas de lançamento para esta atualização">
-<!ENTITY cmd.hideReleaseNotes.label           "Ocultar notas da versão">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Ocultar as notas da versão para esta atualização">
+<!ENTITY cmd.hideReleaseNotes.label           "Ocultar notas de lançamento">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Ocultar as notas de lançamento desta atualização">
 <!ENTITY cmd.findReplacement.label            "Procurar um substituto">
 
 <!-- download/install progress -->
@@ -61,7 +61,7 @@
 <!ENTITY addon.includeUpdate.label            "Incluir na atualização">
 <!ENTITY addon.updateAvailable.label          "Uma atualização está disponível">
 <!ENTITY addon.checkingForUpdates.label       "Verificando atualização…">
-<!ENTITY addon.releaseNotes.label             "Notas da versão:">
+<!ENTITY addon.releaseNotes.label             "Notas de lançamento:">
 <!ENTITY addon.loadingReleaseNotes.label      "Carregando…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Desculpe, houve um erro ao carregar as notas de lançamento.">
 
