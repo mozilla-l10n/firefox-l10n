@@ -29,11 +29,6 @@ search-input-box =
             [windows] პარამეტრებში ძიება
            *[other] პარამეტრებში ძიება
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] თქვენს დაწესებულებას შეზღუდული აქვს გარკვეული პარამეტრების შეცვლის შესაძლებლობა.
-       *[other] თქვენს დაწესებულებას შეზღუდული აქვს გარკვეული პარამეტრების შეცვლის შესაძლებლობა.
-    }
 managed-notice = თქვენი ბრაუზერი იმართება დაწესებულების მიერ.
 pane-general-title = მთავარი
 category-general =
@@ -398,6 +393,44 @@ choose-bookmark =
     .label = სანიშნის გამოყენება…
     .accesskey = ს
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Firefox საწყისი გვერდი
+home-prefs-content-description = აირჩიეთ, თუ რისი გამოჩენა გსურთ Firefox-ის საწყის გვერდზე.
+home-prefs-search-header =
+    .label = საძიებო ველი
+home-prefs-topsites-header =
+    .label = რჩეული საიტები
+home-prefs-topsites-description = ხშირად მონახულებული საიტები
+home-prefs-recommended-by-description = მნიშვნელოვანი ამბები ინტერნეტ-სამყაროდან, შერჩეული თქვენი ინტერესების მიხედვით
+home-prefs-recommended-by-learn-more = როგორ მუშაობს
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = დაფინანსებული სტატიები
+home-prefs-highlights-header =
+    .label = მნიშვნელოვანი საიტები
+home-prefs-highlights-description = თქვენ მიერ შენახული ან ბოლოს მონახულებული საიტები
+home-prefs-highlights-option-visited-pages =
+    .label = მონახულებული გვერდები
+home-prefs-highlights-options-bookmarks =
+    .label = სანიშნები
+home-prefs-highlights-option-most-recent-download =
+    .label = ბოლო ჩამოტვირთვები
+home-prefs-highlights-option-saved-to-pocket =
+    .label = { -pocket-brand-name }-ში შენახული გვერდები
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = ცნობები
+home-prefs-snippets-description = სიახლეები { -vendor-short-name }-სა და { -brand-product-name }-ისგან
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } რიგად
+           *[other] { $num } რიგად
+        }
+
 ## Search Section
 
 search-bar-header = ძიების ველი
@@ -672,7 +705,6 @@ addressbar-suggestions-settings = საძიებო სისტემის
 ## Privacy Section - Content Blocking
 
 content-blocking-header = შიგთავსის შეზღუდვა
-content-blocking-description = შეზღუდეთ მესამე მხარის შიგთავსი, რომელიც მთელ ინტერნეტში გადევნებთ თვალს. თავად განსაზღვრეთ, თქვენი მოქმედებების რა ნაწილი შეიძლება იყოს შენახული ან გაზიარებული საიტებს შორის.
 content-blocking-section-description = დაიცავით პირადი მონაცემები საიტების მონახულებისას. შეზღუდეთ გვერდებზე ფარული ნაწილები, რომლებიც თვალს ადევნებს და აღრიცხავს ყველა საიტს, რომელსაც ეწვევით. ზოგიერთი მათგანის შეზღუდვა, აგრეთვე ასწრაფებს გვერდების ჩატვირთვასაც.
 content-blocking-learn-more = იხილეთ ვრცლად
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -686,9 +718,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = მორგებული
     .accesskey = გ
-content-blocking-standard-description = ცნობილ მეთვალყურეებს შეზღუდავს მხოლოდ პირად ფანჯრებში.
 content-blocking-standard-desc = წონასწორული მდგომარეობა უსაფრთხოებასა და წარმადობას შორის. მეთვალყურეების ნაწილი დაშვებულია, საიტების გამართულად მუშაობისთვის.
-content-blocking-strict-desc = ზღუდავს ყველა მეთვალყურეს, რომელსაც { -brand-short-name } აღმოაჩენს. საიტების ნაწილმა, შესაძლოა ვერ იმუშაოს გამართულად.
 content-blocking-strict-description = გაძლიერებული დაცვა, მეტ ხარვეზს წარმოშობს საიტზე.
 content-blocking-custom-desc = შესაზღუდი შიგთავსის შერჩევა.
 content-blocking-private-trackers = ცნობილი მეთვალყურეები მხოლოდ პირად ფანჯრებში.
