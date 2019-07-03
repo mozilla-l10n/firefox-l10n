@@ -29,11 +29,6 @@ search-input-box =
             [windows] Нађи у опцијама
            *[other] Нађи у поставкама
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Ваша организација је онемогућила могућност измене неких опција.
-       *[other] Ваша организација је онемогућила могућност измене неких опција.
-    }
 pane-general-title = Опште
 category-general =
     .tooltiptext = { pane-general-title }
@@ -385,6 +380,9 @@ choose-bookmark =
     .label = Користи забелешку…
     .accesskey = з
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-bar-header = Трака за претрагу
@@ -656,7 +654,6 @@ addressbar-suggestions-settings = Измени поставке предлога
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Блокирање садржаја
-content-blocking-description = Блокирај садржај треће стране који вас прати на вебу. Управљајте бележењем ваших активности на вебу и дељењем ових активности на овим веб сајтовима.
 content-blocking-section-description = Заштитите своју приватност док прегледате интернет. Блокирајте невидљиви садржај који прати веб странице које посетите и који вас профилише. Блокирањем неких од ових садржаја странице се брже учитавају.
 content-blocking-learn-more = Сазнајте више
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -670,9 +667,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Прилагођено
     .accesskey = г
-content-blocking-standard-description = Блокирај познате пратиоце само у приватним прозорима.
 content-blocking-standard-desc = Уравнотежено за заштиту и перформансе. Дозвољава неке пратиоце тако да веб сајтови прописно раде.
-content-blocking-strict-desc = Блокирај све пратиоце које { -brand-short-name } уочи. Може сломити неке сајтове.
 content-blocking-strict-description = Снажнија заштита, може проузроковати проблеме са отварањем појединих веб страница.
 content-blocking-custom-desc = Изаберите шта треба блокирати.
 content-blocking-private-trackers = Познате пратиоце само у приватним прозорима
