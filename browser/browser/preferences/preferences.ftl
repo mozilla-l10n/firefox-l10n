@@ -29,11 +29,6 @@ search-input-box =
             [windows] Buscar en Opciones
            *[other] Buscar en Preferencias
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Tu organización deshabilitó la posibilidad de cambiar algunas opciones.
-       *[other] Tu organización deshabilitó la posibilidad de cambiar algunas perferencias.
-    }
 managed-notice = Tu navegador está siendo administrado por tu organización.
 pane-general-title = General
 category-general =
@@ -398,6 +393,49 @@ choose-bookmark =
     .label = Usar un marcador…
     .accesskey = m
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Contenido de la página de inicio de Firefox
+home-prefs-content-description = Elige qué contenido quieres en tu pantalla de inicio de Firefox.
+home-prefs-content-discovery-description = El Descubrimiento de contenido en el Inicio de Firefox te permite descubrir artículos relevantes de alta calidad provenientes de toda la web.
+home-prefs-search-header =
+    .label = Búsqueda web
+home-prefs-topsites-header =
+    .label = Sitios frecuentes
+home-prefs-topsites-description = Los sitios que más visitas
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Recomendado por { $provider }
+home-prefs-recommended-by-description = El mejor contenido de toda la web, seleccionado para ti
+home-prefs-recommended-by-learn-more = Cómo funciona
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Historias patrocinadas
+home-prefs-highlights-header =
+    .label = Destacados
+home-prefs-highlights-description = Una selección de sitios que guardaste o visitaste
+home-prefs-highlights-option-visited-pages =
+    .label = Páginas visitadas
+home-prefs-highlights-options-bookmarks =
+    .label = Marcadores
+home-prefs-highlights-option-most-recent-download =
+    .label = Descarga más reciente
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Páginas guardadas en { -pocket-brand-name }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Fragmentos
+home-prefs-snippets-description = Actualizaciones de { -vendor-short-name } y { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } fila
+           *[other] { $num } filas
+        }
+
 ## Search Section
 
 search-bar-header = Barra de búsqueda
@@ -672,7 +710,6 @@ addressbar-suggestions-settings = Cambia las preferencias para las sugerencias d
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bloqueo de contenido
-content-blocking-description = Bloquea el contenido de terceros que te sigue por la web. Controla cuánta de tu actividad en línea es almacenada y compartida entre sitios.
 content-blocking-section-description = Protege tu privacidad mientras navegas. Bloquea el contenido invisible que rastrea los sitios que visitas y te perfila. Bloquear algunos de estos contenidos puede hacer que las páginas carguen más rápido.
 content-blocking-learn-more = Aprender más
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -686,9 +723,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Personalizado
     .accesskey = C
-content-blocking-standard-description = Solo bloquea rastreadores conocidos en ventanas privadas.
 content-blocking-standard-desc = Balanceado para protección y rendimiento. Permite algunos rastreadores para que los sitios funcionen adecuadamente.
-content-blocking-strict-desc = Bloquea todos los rastreadores que { -brand-short-name } detecte. Puede causar que algunos sitios no funcionen adecuadamente.
 content-blocking-strict-description = Mayor protección, puede hacer que algunos sitios fallen.
 content-blocking-custom-desc = Elige qué bloquear.
 content-blocking-private-trackers = Rastreadores conocidos solo en ventanas privadas
