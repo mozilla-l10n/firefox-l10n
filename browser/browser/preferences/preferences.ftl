@@ -29,11 +29,6 @@ search-input-box =
             [windows] 옵션에서 찾기
            *[other] 설정에서 찾기
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] 속한 회사나 단체에서 몇몇 옵션을 바꿀 수 없게 하였습니다.
-       *[other] 속한 회사나 단체에서 몇몇 설정을 바꿀 수 없게 하였습니다.
-    }
 managed-notice = 속한 회사나 단체에서 브라우저를 관리하고 있습니다.
 pane-general-title = 일반
 category-general =
@@ -386,6 +381,33 @@ choose-bookmark =
     .label = 북마크 사용…
     .accesskey = B
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header = Firefox 홈 콘텐츠
+home-prefs-content-description = Firefox 홈 화면에 나올 콘텐츠를 선택하세요.
+home-prefs-search-header =
+    .label = 웹 검색
+home-prefs-topsites-header =
+    .label = 상위 사이트
+home-prefs-topsites-description = 가장 많이 방문한 사이트
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = { $provider } 추천
+home-prefs-recommended-by-learn-more = 사용 방법
+home-prefs-highlights-header =
+    .label = 하이라이트
+home-prefs-highlights-description = 저장하거나 방문한 사이트 모음
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = 짧은 요약
+home-prefs-snippets-description = { -vendor-short-name }와 { -brand-product-name } 소식
+home-prefs-sections-rows-option =
+    .label = { $num } 행
+
 ## Search Section
 
 search-bar-header = 검색 표시줄
@@ -660,7 +682,6 @@ addressbar-suggestions-settings = 검색 엔진 추천 설정 변경
 ## Privacy Section - Content Blocking
 
 content-blocking-header = 콘텐츠 차단
-content-blocking-description = 사용자의 웹 활동을 추적하는 제3차 콘텐츠를 차단합니다. 웹사이트 간에 사용자의 온라인 활동이 얼마나 저장되고 공유되는지를 제어하세요.
 content-blocking-section-description = 탐색하는 동안 개인 정보를 보호하십시오. 사용자가 방문하는 사이트를 추적하고 개인을 식별하는 보이지 않는 콘텐츠를 차단합니다. 이 콘텐츠 중 일부를 차단하면 페이지가 더 빨리 로드 될 수 있습니다.
 content-blocking-learn-more = 자세히 보기
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -674,9 +695,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = 사용자 지정
     .accesskey = C
-content-blocking-standard-description = 사생활 보호 창에서 알려진 추적기만 차단합니다.
 content-blocking-standard-desc = 보호와 성능 사이의 균형을 유지합니다. 웹 사이트가 제대로 작동하도록 일부 추적기를 허용합니다.
-content-blocking-strict-desc = { -brand-short-name }가 감지하는 모든 추적기를 차단합니다. 일부 사이트가 정상 작동하지 않을 수 있습니다.
 content-blocking-strict-description = 강한 보호 기능으로 인해 일부 사이트가 손상될 수 있습니다.
 content-blocking-custom-desc = 차단할 항목을 선택하세요.
 content-blocking-private-trackers = 사생활 보호 모드에서 알려진 추적기만
