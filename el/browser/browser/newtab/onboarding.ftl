@@ -40,6 +40,9 @@ onboarding-sync-welcome-content = Κρατήστε τα αγαπημένα, το
 onboarding-sync-welcome-learn-more-link = Μάθετε περισσότερα για τους Λογαριασμούς Firefox
 onboarding-sync-form-invalid-input = Απαιτείται έγκυρο email
 onboarding-sync-legal-notice = Συνεχίζοντας, συμφωνείτε με τους <a data-l10n-name="terms">Όρους Υπηρεσίας</a> και τη <a data-l10n-name="privacy">Σημείωση Απορρήτου</a>.
+onboarding-sync-form-input =
+    .placeholder = Email
+onboarding-sync-form-continue-button = Συνέχεια
 onboarding-sync-form-skip-login-button = Παράλειψη βήματος
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
