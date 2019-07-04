@@ -375,7 +375,7 @@ home-prefs-highlights-option-most-recent-download =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = துணுக்குகள்
-home-prefs-snippets-description = மொசில்லா மற்றும் பயர்பாக்சிலிருந்து புதுப்பிப்புகள்
+home-prefs-snippets-description = { -vendor-short-name } மற்றும் { -brand-product-name } இலிருந்து புதுப்பிப்புகள்
 home-prefs-sections-rows-option =
     .label =
         { $num ->
