@@ -29,6 +29,19 @@ onboarding-join-form-legal = בחירה בהמשך התהליך מהווה הס�
 onboarding-join-form-continue = המשך
 onboarding-start-browsing-button-label = התחלת גלישה
 
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = { -brand-product-name } אתך בדרכים
+onboarding-sync-welcome-learn-more-link = מידע נוסף על חשבונות Firefox
+onboarding-sync-legal-notice = בחירתך להמשיך בתהליך מהווה את הסכמתך ל<a data-l10n-name="terms">תנאי השירות</a> ול<a data-l10n-name="privacy">הצהרת הפרטיות</a>.
+onboarding-sync-form-input =
+    .placeholder = דוא״ל
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = נא להקליד את כתובת הדוא״ל שלך
+onboarding-sync-form-sub-header = כדי להמשיך אל { -sync-brand-name }.
+
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
