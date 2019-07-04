@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
-
-
 ### UI strings for the simplified onboarding modal / about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -27,6 +24,15 @@ onboarding-join-form-header = { -brand-product-name }‌తో చేరండ�
 onboarding-join-form-body = మొదలుపెట్టడానికి మీ ఈమెయిలు చిరునామా ఇవ్వండి.
 onboarding-join-form-continue = కొనసాగించు
 onboarding-start-browsing-button-label = విహరించడం మొదలుపెట్టండి
+onboarding-cards-dismiss =
+    .title = విస్మరించు
+    .aria-label = విస్మరించు
+
+## Firefox Sync modal dialog strings.
+
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
@@ -49,7 +55,6 @@ onboarding-browse-privately-title = అంతరంగికంగా విహ�
 onboarding-firefox-send-button = { -send-brand-name }‌ని ప్రయత్నించండి
 onboarding-pocket-anywhere-button = { -pocket-brand-name }‌ని ప్రయత్నించండి
 onboarding-lockwise-passwords-title = మీ సంకేతపదాలను మీతో ఎక్కడికైనా తీసుకెళ్ళండి
-onboarding-lockwise-passwords-button = { -lockwise-brand-name }‌ను పొందండి
 onboarding-facebook-container-title = ఫేస్‌బుక్‌కి హద్దులు గీయండి
 
 ## Message strings belonging to the Return to AMO flow
