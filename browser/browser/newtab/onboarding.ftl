@@ -38,6 +38,7 @@ onboarding-cards-dismiss =
 onboarding-sync-welcome-header = { -brand-product-name }’u yanınızda taşıyın
 onboarding-sync-welcome-content = Yer imlerinizi, geçmişinizi, parolalarınızı ve diğer ayarlarınızı tüm cihazlarınızda kullanabilirsiniz.
 onboarding-sync-welcome-learn-more-link = Firefox Hesapları hakkında bilgi alın
+onboarding-sync-form-invalid-input = Geçerli bir e-posta gerekiyor
 onboarding-sync-legal-notice = Devam ederseniz <a data-l10n-name="terms">Kullanım Koşullarını</a> ve <a data-l10n-name="privacy">Gizlilik Bildirimini</a> kabul etmiş sayılırsınız.
 onboarding-sync-form-input =
     .placeholder = E-posta
