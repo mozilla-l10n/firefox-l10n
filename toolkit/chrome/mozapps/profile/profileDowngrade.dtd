@@ -12,7 +12,7 @@
 <!ENTITY window.title "Spustili jste starší verzi Firefoxu">
 <!ENTITY window.style "width: 490px;">
 
-<!ENTITY window.nosync "Spuštěním starší verze Firefoxu může dojít ke ztrátě záložek a historie prohlížení uložených v profilu Firefoxu. Pro ochranu vašich dat prosím pro tuto instalaci aplikace &brandShortName; vytvořte profil nový.">
+<!ENTITY window.nosync "Spuštěním starší verze Firefoxu může dojít ke ztrátě záložek a historie prohlížení uložených v profilu Firefoxu. Pro ochranu vašich dat prosíme pro tuto instalaci aplikace &brandShortName; vytvořte profil nový.">
 <!ENTITY window.sync "Spuštěním starší verze Firefoxu může dojít ke ztrátě záložek a historie prohlížení uložených v profilu Firefoxu. Pro ochranu vašich dat prosím pro tuto instalaci aplikace &brandShortName; vytvořte profil nový. Pro synchronizaci dat mezi profily můžete použít &syncBrand.fxAccount.label;.">
 
 <!ENTITY window.create "Vytvořit nový profil">
