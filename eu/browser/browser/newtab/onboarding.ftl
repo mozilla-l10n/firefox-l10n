@@ -35,9 +35,20 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = Eraman { -brand-product-name } aldean
+onboarding-sync-welcome-content = Izan laster-markak, historia, pasahitzak eta beste ezarpenak eskura zure gailu guztietan.
+onboarding-sync-welcome-learn-more-link = Firefox kontuei buruzko argibide gehiago
+onboarding-sync-form-invalid-input = Baliozko helbide elektronikoa behar da
+onboarding-sync-legal-notice = Jarraitzearekin bat, <a data-l10n-name="terms">Zerbitzu-baldintzak</a> eta <a data-l10n-name="privacy">Pribatutasun-oharra</a> onartzen dituzu.
+onboarding-sync-form-input =
+    .placeholder = Helbide elektronikoa
+onboarding-sync-form-continue-button = Jarraitu
+onboarding-sync-form-skip-login-button = Saltatu urrats hau
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = Idatzi zure helbide elektronikoa
+onboarding-sync-form-sub-header = { -sync-brand-name }-ekin jarraitzeko.
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
