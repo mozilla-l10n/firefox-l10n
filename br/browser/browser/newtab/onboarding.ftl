@@ -29,6 +29,15 @@ onboarding-join-form-email-error = Postel talvoudek azgoulennet
 onboarding-join-form-legal = En ur genderc'hel ec'h asantit d'an <a data-l10n-name="terms">divizoù arver</a> ha d'ar <a data-l10n-name="privacy">reolenn a-fet buhez prevez</a>.
 onboarding-join-form-continue = Kenderc'hel
 onboarding-start-browsing-button-label = Stagañ da verdeiñ
+onboarding-cards-dismiss =
+    .title = Argas
+    .aria-label = Argas
+
+## Firefox Sync modal dialog strings.
+
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
