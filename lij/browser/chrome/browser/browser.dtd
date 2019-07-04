@@ -19,52 +19,6 @@
 <!ENTITY navbarOverflow.label                "Atri atressi…">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "Recarega feuggio">
-<!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  selectAllTabs.label                "Seleçionna tutti i feuggi">
-<!ENTITY  selectAllTabs.accesskey            "S">
-<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTab.label                 "Duplica Feuggio">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTab.accesskey             "D">
-<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTabs.label                "Duplica Feuggi">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTabs.accesskey            "D">
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Særa i feuggi a drita">
-<!ENTITY  closeTabsToTheEnd.accesskey        "d">
-<!ENTITY  closeOtherTabs.label               "Særa atri feuggi">
-<!ENTITY  closeOtherTabs.accesskey           "S">
-
-<!ENTITY  closeTabs.label                    "Særa feuggi">
-<!ENTITY  closeTabs.accesskey                "S">
-<!ENTITY  pinSelectedTabs.label              "Apendi feuggi">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinSelectedTabs.accesskey          "A">
-<!ENTITY  unpinSelectedTabs.label            "Tia zu feuggi">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinSelectedTabs.accesskey        "f">
-<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadTabs.label                   "Recarega feuggi">
-<!ENTITY  reloadTabs.accesskey               "R">
-<!ENTITY  bookmarkSelectedTabs.label         "Azonzi feuggi a-i segnalibbri…">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkSelectedTabs.accesskey     "z">
-
-<!-- Tab context menu -->
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -85,28 +39,8 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "Manda Colegamento a-o Dispoxitivo">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
-<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
-These two items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  moveTabOptions.label               "Mescia feuggio">
-<!ENTITY  moveTabOptions.accesskey           "c">
-<!ENTITY  moveSelectedTabOptions.label       "Mescia feuggi">
-<!ENTITY  moveSelectedTabOptions.accesskey   "c">
-<!ENTITY  moveToStart.label                  "Mescia a l'iniçio">
-<!ENTITY  moveToStart.accesskey              "M">
-<!ENTITY  moveToEnd.label                    "Mescia a-a fin">
-<!ENTITY  moveToEnd.accesskey                "f">
-<!ENTITY  moveToNewWindow.label              "Mescia inte 'n neuvo barcon">
-<!ENTITY  moveToNewWindow.accesskey          "M">
-<!ENTITY  reopenInContainer.label            "Arvi torna in Contegnitô">
-<!ENTITY  reopenInContainer.accesskey        "e">
-<!ENTITY  bookmarkTab.label                  "Azonzi feuggio a-i segnalibbri">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkTab.accesskey              "A">
 <!ENTITY  undoCloseTab.label                 "Anulla særa feuggio">
 <!ENTITY  undoCloseTab.accesskey             "u">
-<!ENTITY  closeTab.label                     "Særa feuggio">
-<!ENTITY  closeTab.accesskey                 "S">
 <!ENTITY  hiddenTabs.label                   "Feuggi ascozi">
 
 <!ENTITY  listAllTabs.label      "Lista de tutti i feuggi">
@@ -145,31 +79,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Bara di segnalibbri">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Ògetti da bara di segnalibbri">
-
-<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Recarega feuggio seleçionou">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "R">
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Recarega feuggi seleçionæ">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "R">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Azonzi a-i segnalibbri o feuggio seleçionou…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Azonzi a-i segnalibbri i feuggi seleçionæ…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "f">
-<!ENTITY toolbarContextMenu.selectAllTabs.label "Seleçionn-a tutti i feuggi">
-<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "S">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Arvi torna o feuggio serou">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "A">
 
 <!ENTITY pageSourceCmd.label "Sorgente da Pagina">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -233,7 +142,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signedInAs.label "Introu comme">
 <!ENTITY fxa.menu.manageAccount.label "Gestisci account…">
 <!ENTITY fxa.menu.syncSettings.label "Inpostaçioin de &syncBrand.shortName.label;…">
-<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -338,7 +246,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasBlocked.tooltip            "Ti æ blocòu l'estaçion dæti canvas pe sto scito.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Ti æ blocòu l'uzo do plugin Adobe Flash pe sto scito.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Ti æ blocòu l'acesso MIDI pe sto scito.">
-
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Fanni vedde a stöia">
 
@@ -525,7 +432,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "G">
 <!ENTITY customizeMenu.removeExtension.label "Scancella estenscion">
 <!ENTITY customizeMenu.removeExtension.accesskey "c">
-
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
@@ -879,7 +785,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Sta pagina a l'é caregâ da 'na estenscion.">
 <!ENTITY identity.insecureLoginForms2 "I acessi a sta pagina porieivan ese vulnerabili.">
 
-
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "Quarche elemento no seguo da pagina o l'é stæto blocòu da &brandShortName;.">
 <!ENTITY identity.passiveLoaded "Quarche elemento da pagina o no l'é seguo (prezempio inmagini).">
@@ -897,7 +802,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Sciben che quarche elemento o l'é blocòu da &brandShortName;, in sta pagina gh'é ancon di elementi no segui (prezenpio inmagini).">
 <!ENTITY identity.description.activeLoaded "A conescion con sto scito web a no l'é segua perché a gh'à di contegnui no segui (prezenpio script).">
 <!ENTITY identity.description.activeLoaded2 "E informaçioin mandæ, comme prezempio paròlle segrete, mesaggi, dæti de carte de credito, ecc. porievan ese amiæ da atri sogetti.">
-
 
 <!ENTITY identity.enableMixedContentBlocking.label "Ativa proteçion">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "A">
@@ -927,40 +831,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Feuggi scincronizæ">
 
 <!ENTITY syncedTabs.sidebar.label              "Feuggi scincronizæ">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Acedi a Firefox con atri dispoxitivi pe vedde i feuggi averti.">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "Comme pòsso amiâ in sta sescion i feuggi da atri dipoxitivi?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "Acedi pe amiâ un elenco di feuggi averti inti atri dispoxitivi.">
-<!ENTITY syncedTabs.sidebar.unverified.label   "O teu conto o deve ese verificou.">
-<!ENTITY syncedTabs.sidebar.notabs.label       "Nisciun feuggio averto">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "Arvi e inpostaçioin de &syncBrand.shortName.label;">
-<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
-     when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ativa a scincronizaçioin di feuggi pe vedde i feuggi che son inti atri dispoxitivi.">
-<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Çerca feuggio scincronizæ">
-<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Conetti 'n atro dispoxitivo">
-
-<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
-                        syncedTabs.context.openAllInTabs.accesskey):
-     These access keys are identical because their associated menu items are
-     mutually exclusive -->
-<!ENTITY syncedTabs.context.open.label                       "Arvi">
-<!ENTITY syncedTabs.context.open.accesskey                   "A">
-<!ENTITY syncedTabs.context.openInNewTab.label               "Arvi inte 'n neuvo feuggio">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "f">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "Arvi inte 'n neuvo barcon">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "f">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Arvi inte 'n neuvo barcon anònimo">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "n">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Azonzi a-i segnalibbri…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "s">
-<!ENTITY syncedTabs.context.copy.label                       "Còpia">
-<!ENTITY syncedTabs.context.copy.accesskey                   "C">
-
-<!ENTITY syncedTabs.context.openAllInTabs.label              "Arvi tutti i feuggi">
-<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "A">
-<!ENTITY syncedTabs.context.managedevices.label              "Gestisci dispoxitivi…">
-<!ENTITY syncedTabs.context.managedevices.accesskey          "D">
-
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -973,42 +843,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Scincronizaçion">
 
-<!ENTITY customizeMode.menuAndToolbars.header3 "Mescia i teu elementi preferii inta bara de scianco ò into menû extra.">
-<!ENTITY customizeMode.restoreDefaults "Repiggia predefinii">
-<!ENTITY customizeMode.done "Fæto">
-<!ENTITY customizeMode.titlebar "Bara do titolo">
-<!ENTITY customizeMode.extraDragSpace "Spaçio de mesciamento">
-<!ENTITY customizeMode.toolbars2 "Bare di atressi">
-<!ENTITY customizeMode.lwthemes "Temi">
-<!ENTITY customizeMode.lwthemes.myThemes "I mæ temi">
-<!ENTITY customizeMode.lwthemes.recommended "Consegiou">
-<!ENTITY customizeMode.lwthemes.menuManage "Gestisci">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "G">
-<!ENTITY customizeMode.lwthemes.menuGetMore "Piggia atri temi">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "O">
-<!ENTITY customizeMode.overflowList.title2 "Menû de straripo">
-<!ENTITY customizeMode.overflowList.description "Rebela e mòlla i elementi chi pe tegnili razonzibili ma feua da teu bara di atressi…">
-<!ENTITY customizeMode.uidensity "Densitæ">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
-     “Normal” is displayed in the Customize screen, under the Density menu. -->
-<!ENTITY customizeMode.uidensity.menuNormal.label "Normale">
-<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normale">
-<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
-     “Compact” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Compact). -->
-<!ENTITY customizeMode.uidensity.menuCompact.label "Conpatto">
-<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Conpatto">
-<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
-     “Touch” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Touch), and it means that control layout is
-     optimized for touch devices. -->
-<!ENTITY customizeMode.uidensity.menuTouch.label "Tòcco">
-<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Tòcco">
-<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
-<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Deuvia tòcco pe-o mòddo Tablet">
-
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Aoto-ascondi">
 
 <!ENTITY getUserMedia.selectCamera.label "Fòtocamera da condividde:">
@@ -1019,7 +853,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Tutti i barcoin vixibili into schermo saian condivizi.">
 
 <!ENTITY contentBlocking.title "Blòcco di contengui">
-<!ENTITY contentBlocking.detected "Sta pagina a no gh'à di elementi che peuan ese blocâ.">
+<!ENTITY contentBlocking.detected "Sta pagina a no gh'à di elementi che peuan ese blocæ.">
 <!ENTITY contentBlocking.notDetected "Sta pagina a gh'à di elementi che peuan ese blocâ.">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Elementi che tracian">
@@ -1073,27 +907,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "Særa">
 
-<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
-     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
-     Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "Ascòrda:">
-<!ENTITY panicButton.view.5min                    "i urtimi 5 menuti">
-<!ENTITY panicButton.view.2hr                     "e urtime 2 oe">
-<!ENTITY panicButton.view.day                     "e urtime 24 oe">
-
-<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
-     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
-     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
-     The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "E consegoense en:">
-<!ENTITY panicButton.view.deleteCookies           "Scancelaçion di <html:strong>cookie</html:strong> reçenti">
-<!ENTITY panicButton.view.deleteHistory           "Scancelaçion da <html:strong>stöia</html:strong> reçente">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "Særamento de tutti i <html:strong>feuggi</html:strong> e <html:strong>barcoin</html:strong> averti">
-<!ENTITY panicButton.view.openNewWindow           "Avertua de 'n neuvo barcon “netezou”">
-
-<!ENTITY panicButton.view.undoWarning             "Sta operaçion a no se peu anulâ.">
-<!ENTITY panicButton.view.forgetButton            "Ascòrda">
-
 <!ENTITY panicButton.thankyou.msg1                "A stöia reçente a l'é stæta scancelâ.">
 <!ENTITY panicButton.thankyou.msg2                "Bonn-a navegaçion.">
 <!ENTITY panicButton.thankyou.buttonlabel         "Graçie">
@@ -1101,31 +914,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Atre informaçioin un sce DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "Agiorna &brandShorterName; pe-o megio da velocitæ e da privacy.">
-<!ENTITY updateAvailable.whatsnew.label "Amia cöse gh'é de neuvo.">
-<!ENTITY updateAvailable.header.message "Gh'é 'n neuvo agiornamento de &brandShorterName;.">
-<!ENTITY updateAvailable.acceptButton.label "Scarega Agiornamento">
-<!ENTITY updateAvailable.acceptButton.accesskey "S">
-<!ENTITY updateAvailable.cancelButton.label "Òua no">
-<!ENTITY updateAvailable.cancelButton.accesskey "N">
-
 <!ENTITY updateAvailable.panelUI.label "Scarega agiornamento de &brandShorterName;">
-
-<!ENTITY updateManual.message "Scarega 'na còpia neuva de &brandShorterName; e te agiutiemo a instalalo.">
-<!ENTITY updateManual.whatsnew.label "Amia cöse gh'é de neuvo.">
-<!ENTITY updateManual.header.message "&brandShorterName; o no se peu agiornâ a l'urtima verscion.">
-<!ENTITY updateManual.acceptButton.label "Scarega &brandShorterName;">
-<!ENTITY updateManual.acceptButton.accesskey "S">
-<!ENTITY updateManual.cancelButton.label "Òua no">
-<!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Scarega 'na còpia neuva de &brandShorterName;">
-
-<!ENTITY updateRestart.message2 "Dòppo ina avertua rapida, &brandShorterName; o repigiâ tutti feuggi e barcoin che no ean into mòddo de Naveagçion Privâ.">
-<!ENTITY updateRestart.header.message2 "Arvi torna pe agiornâ &brandShorterName;.">
-<!ENTITY updateRestart.acceptButton.label "Arvi torna e repiggia">
-<!ENTITY updateRestart.acceptButton.accesskey "A">
-<!ENTITY updateRestart.cancelButton.label "Òua no">
-<!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Arvi torna pe agiornâ &brandShorterName;">
 
 <!ENTITY newTabControlled.header.message "A pagina neuvo feuggio a l'é cangiâ.">
@@ -1164,17 +954,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Fonçioin de acesibilitæ abilitæ">
-
-<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
-     The first <image> tag is replaced with the icon for the add-ons menu.
-     The second <image> tag is replaced with the icon for the toolbar menu. -->
-<!ENTITY addonPostInstallMessage.label "Gestisci e inpostaçioin di conponenti azonti sciacando <image class='addon-addon-icon'/> into <image class='addon-toolbar-icon'/> menû.">
-<!ENTITY addonPostInstall.incognito.checkbox.label "Permetti l’ezegoçion de sta estenscion inti barcoin privæ">
-<!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
-
-<!ENTITY addonPrivateBrowsing.header2.label "Cangiamenti in scê estenscioin inti barcoin privæ">
-<!ENTITY addonPrivateBrowsing.learnMore.label "Descòvri comme gestî e inpostaçioin de estenscioin.">
-<!ENTITY addonPrivateBrowsing.okButton.label "Va ben, ò capio">
-<!ENTITY addonPrivateBrowsing.okButton.accesskey "V">
-<!ENTITY addonPrivateBrowsing.manageButton.label "Gestisci estenscioin">
-<!ENTITY addonPrivateBrowsing.manageButton.accesskey "G">
