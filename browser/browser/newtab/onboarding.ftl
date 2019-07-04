@@ -35,9 +35,16 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = { -brand-product-name } für unterwegs
+onboarding-sync-form-invalid-input = Gültige E-Mail-Adresse erforderlich
+onboarding-sync-form-input =
+    .placeholder = E-Mail
+onboarding-sync-form-continue-button = Weiter
+onboarding-sync-form-skip-login-button = Diesen Schritt überspringen
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = E-Mail-Adresse eingeben
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
