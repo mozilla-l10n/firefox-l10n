@@ -30,6 +30,21 @@ onboarding-join-form-legal = Continuând, ești de acord cu <a data-l10n-name="t
 onboarding-join-form-continue = Continuă
 onboarding-start-browsing-button-label = Începe să navighezi
 
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Ia { -brand-product-name } cu tine
+onboarding-sync-welcome-content = Ia marcajele, istoricul, parolele și alte setări cu tine pe toate dispozitivele.
+onboarding-sync-welcome-learn-more-link = Află mai multe despre Conturi Firefox
+onboarding-sync-form-input =
+    .placeholder = E-mail
+onboarding-sync-form-continue-button = Continuă
+onboarding-sync-form-skip-login-button = Omite acest pas
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Introdu e-mailul tău
+onboarding-sync-form-sub-header = pentru a continua la { -sync-brand-name }.
+
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
