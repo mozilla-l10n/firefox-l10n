@@ -27,6 +27,7 @@ onboarding-cards-dismiss =
 
 onboarding-sync-welcome-header = Pòrta { -brand-product-name } con ti
 onboarding-sync-welcome-content = Repiggia i teu segnalibbri, stöia, poule segrete e atre inpostaçioin in sce tutti i teu dispoxitivi.
+onboarding-sync-welcome-learn-more-link = Saccine de ciù in sciô conto Firefox
 onboarding-sync-form-invalid-input = Serve 'na email bonn-a
 onboarding-sync-legal-notice = Se ti væ avanti t'ê d'acòrdio co-i <a data-l10n-name="terms">Termini do serviçio</a> e l'<a data-l10n-name="privacy">Informativa in sciâ privacy</a>.
 onboarding-sync-form-input =
