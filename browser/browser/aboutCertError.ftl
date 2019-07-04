@@ -5,6 +5,7 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } menggunakan sijil keselamatan yang tidak sah.
+cert-error-mitm-intro = Laman web membuktikan identiti melalui sijil yang dikeluarkan oleh pihak berkuasa sijil.
 cert-error-trust-unknown-issuer-intro = Ada pihak cuba menyamar sebagai laman ini dan anda tidak sepatutnya meneruskan.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
