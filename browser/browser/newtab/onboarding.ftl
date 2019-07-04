@@ -3,12 +3,41 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
 
 onboarding-button-label-try-now = এখনই পরখ করুন
 onboarding-button-label-get-started = শুরু করুন
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = { -brand-short-name } এ স্বাগতম
 onboarding-start-browsing-button-label = ব্রাউজিং শুরু করুন
+onboarding-cards-dismiss =
+    .title = বাতিল
+    .aria-label = বাতিল
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = অাপনি { -brand-product-name } ব্যবহার করুন
+onboarding-sync-form-input =
+    .placeholder = ইমেইল
+onboarding-sync-form-continue-button = চালিয়ে যান
+onboarding-sync-form-skip-login-button = এই ধাপটি বাদ দিন
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = আপনার ই-মেইল লিখুন
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
 
 ## These strings belong to the individual onboarding messages.
 
