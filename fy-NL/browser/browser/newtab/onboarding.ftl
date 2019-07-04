@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
-
-
 ### UI strings for the simplified onboarding modal / about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -32,6 +29,26 @@ onboarding-join-form-email-error = Jildich e-mailadres fereaske
 onboarding-join-form-legal = Troch fierder te gean, geane jo akkoard mei de <a data-l10n-name="terms">Tsjinstbetingsten</a> en <a data-l10n-name="privacy">Privacyferklearring</a>.
 onboarding-join-form-continue = Trochgean
 onboarding-start-browsing-button-label = Begjinne mei sneupen
+onboarding-cards-dismiss =
+    .title = Fuortsmite
+    .aria-label = Fuortsmite
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Nim { -brand-product-name } mei jo mei
+onboarding-sync-welcome-content = Krij jo blêdwizers, skiednis, wachtwurden en oare ynstellingen op al jo apparaten.
+onboarding-sync-welcome-learn-more-link = Mear ynfo oer Firefox Accounts
+onboarding-sync-form-invalid-input = Jildich e-mailadres fereaske
+onboarding-sync-legal-notice = Troch fierder te gean, gean jo akkoard mei de <a data-l10n-name="terms">Tsjinstbetingsten</a> en <a data-l10n-name="privacy">Privacyferklearring</a>.
+onboarding-sync-form-input =
+    .placeholder = E-mailadres
+onboarding-sync-form-continue-button = Trochgean
+onboarding-sync-form-skip-login-button = Dizze stap oerslaan
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Fier jo e-mailadres yn
+onboarding-sync-form-sub-header = om troch te gean nei { -sync-brand-name }.
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
@@ -66,22 +83,10 @@ onboarding-ghostery-text = Sneup flugger, tûker of feiliger mei útwreidingen l
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Syngronisearje
 onboarding-fxa-text = Meitsje in { -fxaccount-brand-name } oan en syngronisearje jo blêdwizers, wachtwurden en iepen ljepblêden, oeral wêr't jo { -brand-short-name } brûke.
-onboarding-tracking-protection-title = Bepaal hoe't jo folge wurde
-onboarding-tracking-protection-text = Fine jo it net aardich as jo folge wurde troch advertinsjes? Mei { -brand-short-name } bepale jo hoe't advertearders jo online aktiviteit byhâlde.
-# "Update" is a verb, as in "Update the existing settings", not "Options about
-# updates".
-onboarding-tracking-protection-button =
-    { PLATFORM() ->
-        [windows] Fernijingsopsjes
-       *[other] Fernijingsfoarkarren
-    }
 onboarding-tracking-protection-title2 = Beskerming tsjin folgjen
 onboarding-tracking-protection-text2 = { -brand-short-name } helpt foar te kommen dat websites jo online folgje, wêrtroch it foar advertinsjes swierder wurdt om jo op it web te folgjen.
 onboarding-tracking-protection-button2 = Hoe't it wurket
 onboarding-data-sync-title = Nim jo ynstellingen mei jo mei
-# "Sync" is short for synchronize.
-onboarding-data-sync-text = Syngronisearje jo blêdwizers en wachtwurden oeral wêr't jo { -brand-product-name } brûke.
-onboarding-data-sync-button = { -sync-brand-short-name } ynskeakelje
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Syngronisearje jo blêdwizers, wachtwurden en mear, oeral wêr't jo { -brand-product-name } brûke.
 onboarding-data-sync-button2 = Oanmelde by { -sync-brand-short-name }
@@ -92,7 +97,6 @@ onboarding-browse-privately-title = Privee sneupe
 onboarding-browse-privately-text = Priveenavigaasje wisket jo syk- en navigaasjeskiednis, om dit geheim te hâlden foar elkenien dy't jo kompjûter brûkt.
 onboarding-browse-privately-button = Iepenje in priveefinster
 onboarding-firefox-send-title = Hâld jo dielde bestannen privee
-onboarding-firefox-send-text = { -send-brand-name } beskermt de bestannen dy't jo diele mei end-to-endfersifering en in keppeling dy't automatysk ferrint.
 onboarding-firefox-send-text2 = Laad jo bestannen op nei { -send-brand-name } om se te dielen mei end-to-endfersifering en in keppeling dy't automatysk ferrint.
 onboarding-firefox-send-button = Probearje { -send-brand-name }
 onboarding-mobile-phone-title = Download { -brand-product-name } nei jo telefoan
@@ -106,17 +110,12 @@ onboarding-send-tabs-title = Stjoer josels daliks ljepblêden
 onboarding-send-tabs-text = Send Tabs dielt daliks siden tusken jo apparaten sûnder dat jo hoege te kopiearjen, plakken of de browser hoege te ferlitten.
 onboarding-send-tabs-button = Start mei it gebrûk fan Send Tabs
 onboarding-pocket-anywhere-title = Lês en lústerje oeral
-# "downtime" refers to the user's free/spare time.
-onboarding-pocket-anywhere-text = { -pocket-brand-name } bewarret jo favorite ferhalen, sadat jo yn jo frije tiid kinne lêze, lústerje en besjen, sels as jo offline binne.
 onboarding-pocket-anywhere-text2 = Bewarje jo favorite ynhâld offline mei de { -pocket-brand-name }-app en lês, lústerje en sjoch wannear't it jo útkomt.
 onboarding-pocket-anywhere-button = Probearje { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Nim jo wachtwurden oeral mei hinne
-onboarding-lockwise-passwords-text = { -lockwise-brand-name } bewarret jo wachtwurden op in feilich plak, sadat jo jo ienfâldich by jo accounts oanmelde kinne.
-onboarding-lockwise-passwords-button = Download { -lockwise-brand-name }
 onboarding-lockwise-passwords-text2 = Hâld jo bewarre wachtwurden feilich en meld jo ienfâldich by jo accounts oan mei { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Download de app
 onboarding-facebook-container-title = Stel grinzen oan Facebook
-onboarding-facebook-container-text = { -facebook-container-brand-name } hâldt jo Facebookidentiteit skieden fan al it oare, wêrtroch jo swierder op it web folgje wurde kinne.
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } hâldt jo profyl skieden fan al it oare, wêrtroch Facebook jo swierder mei advertinsjes efterfolgje kin.
 onboarding-facebook-container-button = De útwreiding tafoegje
 
