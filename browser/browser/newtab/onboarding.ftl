@@ -48,7 +48,7 @@ onboarding-sync-form-skip-login-button = 跳过此步骤
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = 请输入您的电子邮箱
-onboarding-sync-form-sub-header = 继续使用 Firefox 同步服务。
+onboarding-sync-form-sub-header = 继续使用 { -sync-brand-name }服务。
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
