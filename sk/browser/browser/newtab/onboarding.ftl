@@ -28,6 +28,26 @@ onboarding-join-form-email-error = Vyžaduje sa platná e-mailová adresa
 onboarding-join-form-legal = Pokračovaním vyjadrujete súhlas s <a data-l10n-name="terms">podmienkami používania služby</a> a so <a data-l10n-name="privacy">zásadami ochrany súkromia</a>.
 onboarding-join-form-continue = Pokračovať
 onboarding-start-browsing-button-label = Začať prehliadať
+onboarding-cards-dismiss =
+    .title = Skryť
+    .aria-label = Skryť
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Vezmite si { -brand-product-name } so sebou
+onboarding-sync-welcome-content = Majte svoje záložky, históriu, heslá a ostatné nastavenia na všetkých vašich zariadeniach.
+onboarding-sync-welcome-learn-more-link = Ďalšie informácie o účtoch Firefox
+onboarding-sync-form-invalid-input = Vyžaduje sa platná e-mailová adresa
+onboarding-sync-legal-notice = Pokračovaním súhlasíte s <a data-l10n-name="terms">podmienkami používania služby</a> a <a data-l10n-name="privacy">zásadami ochrany súkromia</a>.
+onboarding-sync-form-input =
+    .placeholder = E-mail
+onboarding-sync-form-continue-button = Pokračovať
+onboarding-sync-form-skip-login-button = Preskočiť tento krok
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Zadajte e-mailovú adresu
+onboarding-sync-form-sub-header = a používajte službu { -sync-brand-name }.
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
