@@ -48,7 +48,7 @@ onboarding-sync-form-skip-login-button = Skip this step
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = Enter your email
-onboarding-sync-form-sub-header = to continue to { -sync-brand-name }.
+onboarding-sync-form-sub-header = to continue to { -sync-brand-name }
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
