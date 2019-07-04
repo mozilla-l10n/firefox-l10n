@@ -35,11 +35,20 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = Portu { -brand-product-name } kun vi
+onboarding-sync-welcome-content = Ricevu viajn legosignojn, historion, pasvortojn kaj aliajn agordojn en ĉiuj viaj aparatoj.
+onboarding-sync-welcome-learn-more-link = Pli da informo pri la kontoj de Firefox
 onboarding-sync-form-invalid-input = Valida retpoŝta adreso postulata
 onboarding-sync-legal-notice = Se vi daŭrigas vi akceptas la <a data-l10n-name="terms">kondiĉojn de uzo</a> kaj <a data-l10n-name="privacy">rimarkon pri privateco</a>.
+onboarding-sync-form-input =
+    .placeholder = Retpoŝta adreso
+onboarding-sync-form-continue-button = Daŭrigi
+onboarding-sync-form-skip-login-button = Pretersalti tiun ĉi paŝon
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = Tajpu vian retpoŝtan adreson
+onboarding-sync-form-sub-header = por pluiri al Spegulado de Firefox.
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
