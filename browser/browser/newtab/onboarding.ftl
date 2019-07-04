@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
-
-
 ### UI strings for the simplified onboarding modal / about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -22,6 +19,15 @@ onboarding-button-label-get-started = Iniçia
 
 onboarding-welcome-header = Benvegnuo in { -brand-short-name }
 onboarding-start-browsing-button-label = Iniçia a navegâ
+onboarding-cards-dismiss =
+    .title = Scancella
+    .aria-label = Scancella
+
+## Firefox Sync modal dialog strings.
+
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
@@ -46,7 +52,6 @@ onboarding-ghostery-text = Navega veloce e in mòddo ciù furbo ò seguo con est
 onboarding-fxa-title = Scincronizaçion
 onboarding-fxa-text = Registrite pe avei 'n { -fxaccount-brand-name } e scincronizza tutti i segnalibbri, poule segrete e feuggi averti donde se segge ti deuvi { -brand-short-name }.
 onboarding-data-sync-title = Pòrta e teu personalizaçioin de longo con ti
-onboarding-data-sync-button = Ativa { -sync-brand-short-name }
 onboarding-data-sync-button2 = Intra in { -sync-brand-short-name }
 onboarding-firefox-monitor-button = Scrivite a-i avisi
 
