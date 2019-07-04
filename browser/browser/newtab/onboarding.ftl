@@ -29,6 +29,26 @@ onboarding-join-form-email-error = Введите действующий адр�
 onboarding-join-form-legal = Продолжая, вы соглашаетесь с <a data-l10n-name="terms">условиями предоставления услуг</a> и <a data-l10n-name="privacy">уведомлением о конфиденциальности</a>.
 onboarding-join-form-continue = Продолжить
 onboarding-start-browsing-button-label = Начать веб-сёрфинг
+onboarding-cards-dismiss =
+    .title = Скрыть
+    .aria-label = Скрыть
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Возьмите { -brand-product-name } с собой
+onboarding-sync-welcome-content = Получите доступ к вашим закладкам, истории, паролям и другим параметрам на всех ваших устройствах.
+onboarding-sync-welcome-learn-more-link = Узнайте больше об Аккаунтах Firefox
+onboarding-sync-form-invalid-input = Введите действующий адрес электронной почты
+onboarding-sync-legal-notice = Продолжая, вы соглашаетесь с <a data-l10n-name="terms">условиями службы</a> и <a data-l10n-name="privacy">политикой приватности</a>.
+onboarding-sync-form-input =
+    .placeholder = Эл. почта
+onboarding-sync-form-continue-button = Продолжить
+onboarding-sync-form-skip-login-button = Пропустить этот шаг
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Введите ваш адрес электронной почты
+onboarding-sync-form-sub-header = чтобы продолжить использовать синхронизацию Firefox.
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
