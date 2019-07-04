@@ -38,6 +38,8 @@ onboarding-cards-dismiss =
 onboarding-sync-welcome-header = Ia { -brand-product-name } cu tine
 onboarding-sync-welcome-content = Ia marcajele, istoricul, parolele și alte setări cu tine pe toate dispozitivele.
 onboarding-sync-welcome-learn-more-link = Află mai multe despre Conturi Firefox
+onboarding-sync-form-invalid-input = Necesită o adresă de e-mail validă
+onboarding-sync-legal-notice = Continuând, ești de acord cu <a data-l10n-name="terms">Termenii de utilizare a serviciului</a> și <a data-l10n-name="privacy">Declarație de confidențialitate</a>.
 onboarding-sync-form-input =
     .placeholder = E-mail
 onboarding-sync-form-continue-button = Continuă
