@@ -84,6 +84,8 @@ about-debugging-setup-title = Penyiapan
 about-debugging-setup-intro = Konfigurasikan metode koneksi yang ingin Anda gunakan untuk proses debugging perangkat Anda dari jarak jauh.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Gunakan <a>{ about-debugging-this-firefox-runtime-name }</a> untuk debugging tab, ekstensi, dan service worker di versi { -brand-shorter-name } ini.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Gunakan <a>{ about-debugging-this-firefox-runtime-name }</a> untuk mengawakutu ekstensi dan service woeker pada { -brand-shorter-name } versi ini.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Sambungkan Peranti
 # USB section of the Setup page
