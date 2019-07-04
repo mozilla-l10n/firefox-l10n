@@ -30,9 +30,19 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = { -brand-product-name }ను మీతో తీసుకెళ్ళండి
+onboarding-sync-welcome-content = మీ ఇష్టాంశాలను, చరిత్రను, సంకేతపదాలను, ఇతర అమరికలను మీ పరికరాలన్నింటిలో పొందండి.
+onboarding-sync-welcome-learn-more-link = Firefox ఖాతాల గురించి మరింత తెలుసుకోండి
+onboarding-sync-form-invalid-input = సరైన ఈమెయిలు తప్పనిసరి
+onboarding-sync-legal-notice = కొనసాగడం ద్వారా మీరు <a data-l10n-name="terms">సేవా నియమాలు</a>, <a data-l10n-name="privacy">అంతరంగికత గమనిక</a> లను అంగీకరిస్తున్నారు.
+onboarding-sync-form-input =
+    .placeholder = ఈమెయిలు
+onboarding-sync-form-continue-button = కొనసాగు
+onboarding-sync-form-skip-login-button = ఈ అంచెను దాటవేయి
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = ఈ ఈమెయిలును ఇవ్వండి
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
