@@ -7,13 +7,8 @@ about-policies-title = उद्यम नीतियां
 active-policies-tab = सक्रिय
 errors-tab = त्रुटियाँ
 documentation-tab = प्रलेखन
+no-specified-policies-message = एंटरप्राइज़ नीतियां सेवा सक्रिय है, लेकिन कोई नीतियाँ सक्षम नहीं हैं।
+inactive-message = एंटरप्राइज नीतियां सेवा निष्क्रिय है।
 policy-name = पॉलिसी का नाम
 policy-value = पॉलिसी मूल्य
 policy-errors = पॉलिसी त्रुटियाँ
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = समूह नीति का उपयोग करते समय, इस नीति को केवल कंप्यूटर स्तर पर सेट किया जा सकता है।
