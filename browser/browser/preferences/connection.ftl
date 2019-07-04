@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = Tanpa Proksi untuk
     .accesskey = t
 connection-proxy-noproxy-desc = Contoh: .mozilla.org, .net.id, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = Koneksi ke localhost, 127.0.0.1, dan :: 1 tidak pernah diproksi.
 connection-proxy-autotype =
     .label = URL konfigurasi proksi otomatis
     .accesskey = o
@@ -70,12 +72,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Aktifkan DNS lewat HTTPS
     .accesskey = D
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = Gunakan bawaan ({ $url })
-    .accesskey = G
-    .tooltiptext = Gunakan URL bawaan untuk mendapatkan DNS lewat HTTPS
 connection-dns-over-https-url-resolver = Gunakan Penyedia
     .accesskey = P
 # Variables:
