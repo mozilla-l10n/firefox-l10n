@@ -35,9 +35,17 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = Uzmite { -brand-product-name } sa sobom
+onboarding-sync-welcome-learn-more-link = Saznajte više o Firefox računima
+onboarding-sync-form-input =
+    .placeholder = E-pošta
+onboarding-sync-form-continue-button = Nastavi
+onboarding-sync-form-skip-login-button = Preskočite ovaj korak
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = Unesite vašu adresu e-pošte
+onboarding-sync-form-sub-header = i prijavi se u { -sync-brand-name }
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
