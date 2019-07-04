@@ -35,6 +35,7 @@ onboarding-sync-form-continue-button = جاری رکھیں
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = اپنی ای میل داخل کریں
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
