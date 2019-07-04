@@ -29,6 +29,26 @@ onboarding-join-form-email-error = E-posti aadress peab olema korrektne
 onboarding-join-form-legal = Jätkates nõustud <a data-l10n-name="terms">teenusetingimuste</a> ja <a data-l10n-name="privacy">privaatsuspoliitikaga</a>.
 onboarding-join-form-continue = Jätka
 onboarding-start-browsing-button-label = Alusta veebilehitsemist
+onboarding-cards-dismiss =
+    .title = Peida
+    .aria-label = Peida
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Võta { -brand-product-name } endaga kaasa
+onboarding-sync-welcome-content = Kasuta järjehoidjaid, ajalugu, paroole ja muid sätteid kõigil enda seadmetel.
+onboarding-sync-welcome-learn-more-link = Rohkem teavet Firefoxi kontost
+onboarding-sync-form-invalid-input = E-posti aadress peab olema korrektne
+onboarding-sync-legal-notice = Jätkates nõustud sa <a data-l10n-name="terms">teenuse tingimuste</a> ja <a data-l10n-name="privacy">privaatsusreeglitega</a>.
+onboarding-sync-form-input =
+    .placeholder = E-post
+onboarding-sync-form-continue-button = Jätka
+onboarding-sync-form-skip-login-button = Jäta see samm vahele
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Sisesta enda e-posti aadress
+onboarding-sync-form-sub-header = { -sync-brand-name }iga jätkamiseks
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
