@@ -9,7 +9,6 @@
 <!ENTITY retry.label "Retentar">
 <!ENTITY returnToPreviousPage.label "Retornar">
 <!ENTITY returnToPreviousPage1.label "Retroceder (Recommendate)">
-<!ENTITY advanced.label "Avantiate">
 <!ENTITY advanced2.label "Avantiate…">
 <!ENTITY viewCertificate.label "Vider le certificato">
 
@@ -120,8 +119,8 @@
 <!ENTITY redirectLoop.title "Le pagina non redirige correctemente">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>Le causa de iste problema pote ser le disactivation o le refusa
-    del cookies.</li>
+  <li>Iste problema pote esser causate per le disactivation o refusa
+    de cookies.</li>
 </ul>
 ">
 
@@ -141,14 +140,8 @@
 </ul>
 ">
 
-<!ENTITY certerror.longpagetitle1 "Tu connexion non es secur">
-
 <!ENTITY certerror.longpagetitle2 "Advertentia: Potential risco de securitate avante">
 <!ENTITY certerror.sts.longpagetitle  "Non connecter se: possibile problema de securitate">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
-will be replaced at runtime with the name of the server to which the user
-was trying to connect. -->
-<!ENTITY certerror.introPara "Le proprietarios de <span class='hostname'/> ha configurate lor sito web incorrectemente. Pro proteger tu informationes de esser robate,  &brandShortName; non se ha connectite a iste sito web.">
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -190,9 +183,6 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "Error de contento corrumpite">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Le pagina que tu tenta vider non pote ser monstrate a causa de un error revelate in le transmission del datos.</p><ul><li>Per favor contacta le proprietarios del sito web pro informar les de iste problema.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Adder un exception…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Acceptar le risco e continuar">
 
 <!ENTITY errorReporting.automatic2 "Reporta errores como tal pro adjutar Mozilla a identificar e blocar le sitos malitiose">
@@ -206,20 +196,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Informationes avantiate: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p>&brandShortName; non se ha connectite a <span id='wrongSystemTime_URL'/> perque le horologio de tu computator sembla monstrar un hora erronee e isto impedi un connexion secur.</p><p>Tu computator pensa que il es <span id='wrongSystemTime_systemDate'/>, quando il deberea esser <span id='wrongSystemTime_actualDate'/>. Pro corriger iste problema, cambia tu parametros de data e hora a fin que illos corresponde al hora correcte.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; non se ha connectite a <span id='wrongSystemTimeWithoutReference_URL'/> perque le horologio de tu computator sembla monstrar un hora erronee e isto impedi un connexion secur.</p><p>Tu computator pensa que il es <span id='wrongSystemTimeWithoutReference_systemDate'/>. Pro corriger iste problema, cambia tu parametros de data e hora a fin que illos corresponde al hora correcte.</p>">
-
-<!ENTITY certerror.pagetitle1  "Connexion non secur">
-
 <!ENTITY certerror.pagetitle2  "Advertentia: Potential risco de securitate avante">
 <!ENTITY certerror.sts.pagetitle  "Non connecter se: possibile problema de securitate">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Iste sito usa HTTP
-Strict Transport Security (HSTS) pro specificar ille &brandShortName; pote connecter se solo
-a illo in modo secur. Assi, adder un exception pro iste
-certificato non es possibile.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> ha un politica de securitate appellate HTTP Strict Transport Security (HSTS), le qual vole dicer que &brandShortName; solmente pote connecter se a illo de maniera secur. Tu pote adder un exception pro visitar iste sito.">
 <!ENTITY certerror.copyToClipboard.label "Copiar le texto in le planchetta">
 
