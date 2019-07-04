@@ -35,9 +35,18 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = Mang { -brand-product-name } theo bạn
+onboarding-sync-welcome-learn-more-link = Tìm hiểu thêm về Tài khoản Firefox
+onboarding-sync-form-invalid-input = Yêu cầu email hợp lệ
+onboarding-sync-legal-notice = Bằng cách tiếp tục, bạn đồng ý với <a data-l10n-name="terms">Điều khoản dịch vụ</a> và <a data-l10n-name="privacy">Thông báo bảo mật</a>.
+onboarding-sync-form-input =
+    .placeholder = Email
+onboarding-sync-form-continue-button = Tiếp tục
+onboarding-sync-form-skip-login-button = Bỏ qua bước này
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = Nhập email của bạn
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
