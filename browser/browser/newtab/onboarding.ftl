@@ -3,11 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = Sužinoti daugiau
 onboarding-button-label-try-now = Išbandykite dabar
 onboarding-button-label-get-started = Pradėti
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Sveiki, čia „{ -brand-short-name }“
 onboarding-welcome-body = Naršyklę jau turite.<br/>Dabar susipažinkite su likusia „{ -brand-product-name }“ šeima.
 onboarding-welcome-learn-more = Sužinokite apie privalumus daugiau.
@@ -19,6 +29,26 @@ onboarding-join-form-email-error = Reikalingas teisingas el. paštas
 onboarding-join-form-legal = Tęsdami, išreiškiate sutikimą su <a data-l10n-name="terms">Paslaugos teikimo nuostatais</a> ir <a data-l10n-name="privacy">Privatumo pranešimu</a>.
 onboarding-join-form-continue = Tęsti
 onboarding-start-browsing-button-label = Pradėti naršymą
+onboarding-cards-dismiss =
+    .title = Paslėpti
+    .aria-label = Paslėpti
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Pasiimkite „{ -brand-product-name }“ su savimi
+onboarding-sync-welcome-content = Turėkite savo adresyną, žurnalą, slaptažodžius ir kitas nuostatas visuose savo įrenginiuose.
+onboarding-sync-welcome-learn-more-link = Sužinokite apie „Firefox“ paskyras daugiau
+onboarding-sync-form-invalid-input = Reikalingas galiojantis el. pašto adresas
+onboarding-sync-legal-notice = Tęsdami sutinkate su <a data-l10n-name="terms">paslaugos teikimo nuostatais</a> ir <a data-l10n-name="privacy">Privatumo pranešimu</a>.
+onboarding-sync-form-input =
+    .placeholder = El. paštas
+onboarding-sync-form-continue-button = Tęsti
+onboarding-sync-form-skip-login-button = Praleisti šį žingsnį
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Įveskite savo el. paštą
+onboarding-sync-form-sub-header = norėdami tęsti su „{ -sync-brand-name }“.
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
@@ -53,22 +83,10 @@ onboarding-ghostery-text = Naršykite greičiau, protingiau, ar saugiau su tokia
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sinchronizavimas
 onboarding-fxa-text = Susikurkite „{ -fxaccount-brand-name }“ ir sinchronizuokite savo adresyną, slaptažodžius, ir atvertas korteles visur, kur naudojate „{ -brand-short-name }“.
-onboarding-tracking-protection-title = Valdykite, kaip esate sekami.
-onboarding-tracking-protection-text = Nemėgstate, kai reklamos seka jums iš paskos? „{ -brand-short-name }“ padeda jums valdyti būdus, kaip reklamų siūlytojai gali stebėti jūsų veiklą internete.
-# "Update" is a verb, as in "Update the existing settings", not "Options about
-# updates".
-onboarding-tracking-protection-button =
-    { PLATFORM() ->
-        [windows] Atnaujinti nuostatas
-       *[other] Atnaujinti nuostatas
-    }
 onboarding-tracking-protection-title2 = Apsauga nuo stebėjimo
 onboarding-tracking-protection-text2 = „{ -brand-short-name }“ padeda sustabdyti svetaines nuo jūsų stebėjimo internete, taip apsunkinant jus sekančių reklamų veikimą naršant.
 onboarding-tracking-protection-button2 = Kaip tai veikia
 onboarding-data-sync-title = Pasiimkite savo nuostatas kartu
-# "Sync" is short for synchronize.
-onboarding-data-sync-text = Sinchronizuokite adresyną ir slaptažodžius visur, kur naudojate „{ -brand-product-name }“.
-onboarding-data-sync-button = Įjungti „{ -sync-brand-short-name }“
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Sinchronizuokite adresyną, slaptažodžius ir daugiau visur, kur naudojate „{ -brand-product-name }“.
 onboarding-data-sync-button2 = Prisijungti prie „{ -sync-brand-short-name }“
@@ -79,7 +97,6 @@ onboarding-browse-privately-title = Naršykite privačiai
 onboarding-browse-privately-text = Privatuiss naršymas išvalo jūsų paieškos ir naršymo žurnalą, kad jis nebūti matomas kitiems, besinaudojantiems šiuo kompiuteriu.
 onboarding-browse-privately-button = Atverti privatųjį langą
 onboarding-firefox-send-title = Išlaikykite pasidalintų failų privatumą
-onboarding-firefox-send-text = „{ -send-brand-name }“ apsaugo pasidalintus failus juos užšifruodama ir suteikia automatiškai susinaikinantį saitą.
 onboarding-firefox-send-text2 = Įkelkite savo failus į „{ -send-brand-name }“, norėdami jais pasidalinti užšifruojant ir suteikiant automatiškai susinaikinantį saitą.
 onboarding-firefox-send-button = Išbandykite „{ -send-brand-name }“
 onboarding-mobile-phone-title = Gaukite „{ -brand-product-name }“ savo telefonui
@@ -93,17 +110,12 @@ onboarding-send-tabs-title = Siųskite sau korteles akimirksniu
 onboarding-send-tabs-text = Kortelių persiuntimas akimirksniu pasidalina tinklalapiais tarp jūsų įrenginių, taip išvengiant kopijavimo ir įdėjimo, ar išėjimo iš naršyklės.
 onboarding-send-tabs-button = Pradėti naudotis kortelių persiuntimu
 onboarding-pocket-anywhere-title = Skaityti ir klausyti bet kur
-# "downtime" refers to the user's free/spare time.
-onboarding-pocket-anywhere-text = „{ -pocket-brand-name }“ įrašo jūsų mėgstamas istorijas, kad galėtumėte vėliau jas skaityti, klausyti, ar žiūrėti, net jei ir esate be interneto.
 onboarding-pocket-anywhere-text2 = Įrašykite savo mėgstamiausią interneto turinį įrenginyje, naudodamiesi „{ -pocket-brand-name }“ programa. Vėliau galėsite skaityti, klausyti, ar žiūrėti jums patogiu metu.
 onboarding-pocket-anywhere-button = Išbandyti „{ -pocket-brand-name }“
 onboarding-lockwise-passwords-title = Turėkite savo slaptažodžius visuose įrenginiuose
-onboarding-lockwise-passwords-text = „{ -lockwise-brand-name }“ įrašo jūsų slaptažodžius saugioje vietoje, kad galėtumėte patogiai prisijungti prie savo paskyrų.
-onboarding-lockwise-passwords-button = Gauti „{ -lockwise-brand-name }“
 onboarding-lockwise-passwords-text2 = Laikykite įrašytus slaptažodžius saugiai, ir lengvai prisijunkite prie savo paskyrų su „{ -lockwise-brand-name }“.
 onboarding-lockwise-passwords-button2 = Parsisiųskite programą
 onboarding-facebook-container-title = Nustatykite „Facebook“ ribas
-onboarding-facebook-container-text = „{ -facebook-container-brand-name }“ laiko jūsų „Facebook“ tapatybę atskirtą nuo viso kito, taip apsunkinant galimybę jus stebėti internete.
 onboarding-facebook-container-text2 = „{ -facebook-container-brand-name }“ laiko jūsų „Facebook“ tapatybę atskirtą nuo viso kito, taip apsunkinant jų galimybę jums pritaikyti reklamas.
 onboarding-facebook-container-button = Pridėti priedą
 
