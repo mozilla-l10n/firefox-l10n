@@ -29,6 +29,15 @@ onboarding-join-form-email-error = Baliozko helbide elektronikoa behar da
 onboarding-join-form-legal = Jarraituz gero, <a data-l10n-name="terms">zerbitzuaren baldintzak</a>eta <a data-l10n-name="privacy">pribatutasun-oharra</a> onartzen dituzu.
 onboarding-join-form-continue = Jarraitu
 onboarding-start-browsing-button-label = Hasi nabigatzen
+onboarding-cards-dismiss =
+    .title = Baztertu
+    .aria-label = Baztertu
+
+## Firefox Sync modal dialog strings.
+
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
