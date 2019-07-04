@@ -29,16 +29,25 @@ onboarding-join-form-email-error = Wymagany jest prawidłowy adres e-mail
 onboarding-join-form-legal = Kontynuując, wyrażasz zgodę na <a data-l10n-name="terms">warunki korzystania z usługi</a> i <a data-l10n-name="privacy">zasady ochrony prywatności</a>.
 onboarding-join-form-continue = Kontynuuj
 onboarding-start-browsing-button-label = Zacznij przeglądać Internet
+onboarding-cards-dismiss =
+    .title = Usuń z tej sekcji
+    .aria-label = Usuń z tej sekcji
 
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = Zabierz Firefoksa ze sobą
+onboarding-sync-welcome-content = Zakładki, historia, hasła i inne ustawienia mogą być dostępne i synchronizowane na wszystkich urządzeniach.
 onboarding-sync-welcome-learn-more-link = Więcej informacji o koncie Firefoksa
+onboarding-sync-form-invalid-input = Wymagany jest prawidłowy adres e-mail
+onboarding-sync-legal-notice = Kontynuując, wyrażasz zgodę na <a data-l10n-name="terms">warunki korzystania z usługi</a> i <a data-l10n-name="privacy">zasady ochrony prywatności</a>.
 onboarding-sync-form-input =
     .placeholder = Adres e-mail
+onboarding-sync-form-continue-button = Kontynuuj
+onboarding-sync-form-skip-login-button = Pomiń
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = Wprowadź adres e-mail
 onboarding-sync-form-sub-header = i zacznij korzystać z synchronizacji Firefoksa
 
 ## These are individual benefit messages shown with an image, title and
