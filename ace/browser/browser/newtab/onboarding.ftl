@@ -27,6 +27,7 @@ onboarding-cards-dismiss =
 onboarding-sync-welcome-learn-more-link = Meurunoë lom bhah Akun Firefox
 onboarding-sync-form-input =
     .placeholder = Surel
+onboarding-sync-form-continue-button = Cahdan
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
