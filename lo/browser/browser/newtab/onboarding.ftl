@@ -3,12 +3,35 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
 
 onboarding-button-label-try-now = ລອງເລີຍຕອນນີ້
 onboarding-button-label-get-started = ເລີ່ມ​ຕົ້ນ
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = ຍິນດີຕ້ອນຮັບສູ່ { -brand-short-name }
 onboarding-start-browsing-button-label = ເລີ່ມການທ່ອງເວັບ
+onboarding-cards-dismiss =
+    .title = ຍົກເລີກ
+    .aria-label = ຍົກເລີກ
+
+## Firefox Sync modal dialog strings.
+
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
 
 ## These strings belong to the individual onboarding messages.
 
@@ -27,3 +50,6 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = ຊອກຫາໄວຂື້ນ, ສະຫລາດຂື້ນ ຫຼື ປອດໄພກວ່າໂດຍ extension  ແບບ Ghostery ເຊິ່ງເຮັດໃຫ້ທ່ານສາມາດບັອກການໂຄສະນາທີ່ຫນ້າລຳຄານໄດ້.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
+
+## Message strings belonging to the Return to AMO flow
+
