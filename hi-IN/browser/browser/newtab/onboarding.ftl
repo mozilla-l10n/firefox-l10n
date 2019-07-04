@@ -22,6 +22,15 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = वैध ईमेल की ज़रूरत
 onboarding-join-form-continue = जारी रखें
 onboarding-start-browsing-button-label = ब्राउज़िंग शुरू करें
+onboarding-cards-dismiss =
+    .title = निरस्त करें
+    .aria-label = निरस्त करें
+
+## Firefox Sync modal dialog strings.
+
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
