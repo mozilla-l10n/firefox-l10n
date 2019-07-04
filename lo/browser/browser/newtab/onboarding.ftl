@@ -25,6 +25,7 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-form-invalid-input = ຕ້ອງການອີເມວທີ່ຖືກຕ້ອງ
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
