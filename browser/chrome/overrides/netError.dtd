@@ -9,10 +9,7 @@
 <!ENTITY retry.label " फिर कोशिश करें">
 <!ENTITY returnToPreviousPage.label "पीछे जाएँ">
 <!ENTITY returnToPreviousPage1.label "पीछे जाएँ (निर्देशित)">
-<!ENTITY advanced.label "उन्नत">
-<!ENTITY continue2.label "अधिक…">
 <!ENTITY advanced2.label "विस्तृत…">
-<!ENTITY moreInformation.label "अधिक सूचना">
 <!ENTITY viewCertificate.label "प्रमाणपत्र देखें">
 
 <!-- Specific error messages -->
@@ -90,12 +87,10 @@
 <!ENTITY nssFailure2.title "सुरक्षित कनेक्शन विफल">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>पृष्ठ जिसे आप देखने की कोशिश कर रहे हैं नहीं दिखाया जा सकता है क्योंकि प्राप्त आंकड़ा की प्रमाणिकता जांची नहीं जा सकी.</li> <li>कृपया वेब साइट मालिक को इस समस्या के बारे में सूचित करने के लिए संपर्क करें.</li> </ul>">
 
-<!ENTITY certerror.longpagetitle1 "आपका संपर्क सुरक्षित नही है">
 <!ENTITY certerror.longpagetitle2 "खतरा: आगे संभावित सुरक्षा जोखिम है">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "<span class='hostname'/> के मालिक ने अपने वेबसाइट को अनुचित तरीके से कॉन्फ़िगर किया है.  आपकी जानकारी को चोरी होने से बचाने के लिए, &brandShortName; इस वेबसाइट से जुड़ा हुआ नहीं है.">
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "आप इसके लिए क्या कर सकते हैं?">
@@ -111,8 +106,6 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title " खराब अंतर्वस्तु त्रुटि">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>पृष्ठ जिसे आप देखने की कोशिश कर रहे हैं नहीं दिखाया जा सकता है क्योंकि आंकड़ा संचारण में त्रुटि पाया गया.</p><ul><li>कृपया वेबसाइट मालिक को इस समस्या के बारे में सूचित करने के लिए संपर्क करें.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel " अपवाद जोड़ें…">
 <!ENTITY securityOverride.exceptionButton1Label "जोखिम को स्वीकार करें और जारी रखें">
 
 <!ENTITY errorReporting.automatic2 "इस तरह की त्रुटियों की सूचना देकर Mozilla का सहयोग करें ताकि Mozilla दुर्भावनापूर्ण साइटों की पहचान कर बंद कर सके">
@@ -126,15 +119,7 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "उन्नत जानकारी: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p>&brandShortName; <span id='wrongSystemTime_URL'/> से संपर्क नहीं कर पाया क्योंकि आपके कंप्यूटर की घड़ी ग़लत समय दिखाती प्रतीत हो रही है और यह एक सुरक्षित संपर्क को रोक रहा है</p><p>आपका कंप्यूटर <span id='wrongSystemTime_systemDate'/> पर सेट है, जबकि इसे <span id='wrongSystemTime_actualDate'/> पर होना चाहिए. इस समस्या को हल करने के लिए अपनी दिनांक और समय सेटिंग को सही समय के साथ मिलाएँ.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; <span id='wrongSystemTimeWithoutReference_URL'/> से संपर्क नहीं कर पाया क्योंकि आपके कंप्यूटर की घड़ी ग़लत समय दिखाती प्रतीत हो रही है और यह एक सुरक्षित संपर्क को रोक रहा है</p> <p>आपका कंप्यूटर <span id='wrongSystemTimeWithoutReference_systemDate'/> पर सेट है. इस समस्या को हल करने के लिए अपनी दिनांक और समय सेटिंग को सही समय के साथ मिलाएँ.</p>">
-
-<!ENTITY certerror.pagetitle1  "असुरक्षित कनेक्शन">
 <!ENTITY certerror.pagetitle2  "खतरा: आगे संभावित सुरक्षा जोखिम है">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "यह साइट HTTP कठोर परिवहन सुरक्षा (HSTS) का उपयोग उल्लेखित करने के लिए करती है कि &brandShortName; का इससे केवल सुरक्षित रूप से संपर्क हो सकता है.">
 <!ENTITY certerror.copyToClipboard.label "क्लिपबोर्ड पर पाठ की नक़ल करें ">
 
 <!ENTITY inadequateSecurityError.title "आपका कनेक्शन सुरक्षित नही हैं">
