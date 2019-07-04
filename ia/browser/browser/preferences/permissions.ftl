@@ -34,8 +34,11 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Salvar le cambios
     .accesskey = S
+permissions-autoplay-menu = Predefinition pro tote le sitos web:
 permissions-searchbox =
     .placeholder = Cercar in le sito web
+permissions-capabilities-autoplay-allow =
+    .label = Permitter audio e video
 permissions-capabilities-autoplay-block =
     .label = Blocar audio
 permissions-capabilities-autoplay-blockall =
@@ -102,6 +105,10 @@ permissions-exceptions-autoplay-media-desc2 = Tu pote specificar le sitos web qu
 
 ## Site Permissions - Autoplay
 
+permissions-site-autoplay-window =
+    .title = Configuration - Autoreproduction
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Specifica hic le sitos web que non seque tu configuration predefinite de autoreproduction.
 
 ## Site Permissions - Notifications
 

@@ -84,6 +84,8 @@ about-debugging-setup-title = Installation
 about-debugging-setup-intro = Configurar le methodo de connexion desirate pro le depuration remote de tu dispositivo.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Usar <a>{ about-debugging-this-firefox-runtime-name }</a> pro depurar schedas, extensiones e obreros de servicio sur iste version de { -brand-shorter-name }.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Usa <a>{ about-debugging-this-firefox-runtime-name }</a> pro cercar defectos in extensiones e "service workers" in iste version de { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Connecter un apparato
 # USB section of the Setup page
