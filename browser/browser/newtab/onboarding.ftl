@@ -25,8 +25,13 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-learn-more-link = Firefox ගිණුම් ගැන වැඩි දුර දැනගන්න
+onboarding-sync-form-invalid-input = වලංගු විද්‍යුත් තැපැල් ලිපිනයක් අවශ්‍ය වේ
+onboarding-sync-legal-notice = ඉදිරියට යාමෙන් ඔබ <a data-l10n-name="terms">සේවා කොන්දේසි</a>සහ <a data-l10n-name="privacy">පෞද්ගලිකත්ව ප්‍රතිපත්තිය</a> සමග එකඟ වන්නේ ය.
 onboarding-sync-form-input =
     .placeholder = විද්‍යුත් තැපෑල
+onboarding-sync-form-continue-button = ඉදිරියට
+onboarding-sync-form-skip-login-button = මෙම පියවර මගහරින්න
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
