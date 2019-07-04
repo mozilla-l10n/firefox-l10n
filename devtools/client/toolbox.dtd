@@ -136,6 +136,11 @@
 <!ENTITY options.timestampMessages.label      "Kích hoạt dấu thời gian">
 <!ENTITY options.timestampMessages.tooltip    "Nếu bạn bật lệnh tùy chọn này và đầu ra trong bảng điều khiển Web sẽ hiển thị dấu thời gian">
 
+<!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
+   - label for the checkbox that toggles the warningGroups feature in the Web Console -->
+<!ENTITY options.warningGroups.label      "Nhóm thông báo tương tự">
+<!ENTITY options.warningGroups.tooltip    "Khi được bật, các thông báo tương tự được đặt thành các nhóm">
+
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
 <!ENTITY options.debugger.label            "Trình gỡ lỗi">
