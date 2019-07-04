@@ -36,6 +36,7 @@ onboarding-cards-dismiss =
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = Mang { -brand-product-name } theo bạn
+onboarding-sync-welcome-content = Đồng bộ các dấu trang, lịch sử, mật khẩu và các cài đặt khác lên tất cả các thiết bị của bạn.
 onboarding-sync-welcome-learn-more-link = Tìm hiểu thêm về Tài khoản Firefox
 onboarding-sync-form-invalid-input = Yêu cầu email hợp lệ
 onboarding-sync-legal-notice = Bằng cách tiếp tục, bạn đồng ý với <a data-l10n-name="terms">Điều khoản dịch vụ</a> và <a data-l10n-name="privacy">Thông báo bảo mật</a>.
