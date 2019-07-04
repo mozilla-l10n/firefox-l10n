@@ -35,10 +35,20 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = Kemerit { -brand-product-name } ganeoc'h
+onboarding-sync-welcome-content = Tizhit o sinedoù, roll-istor, gerioù-tremen hag arventennoù all war hon holl drevnadoù.
+onboarding-sync-welcome-learn-more-link = Gouzout hiroc'h diwar-benn kontoù Firefox
+onboarding-sync-form-invalid-input = Postel talvoudek azgoulennet
+onboarding-sync-legal-notice = En ur genderc'hel, e savit a-du gant an <a data-l10n-name="terms">divizoù arver</a> hag ar <a data-l10n-name="privacy">evezhiadennoù a-fet buhez prevez</a>.
+onboarding-sync-form-input =
+    .placeholder = Postel
+onboarding-sync-form-continue-button = Kenderc'hel
 onboarding-sync-form-skip-login-button = Tremen ar bazenn-mañ
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = Enankit ho chomlec'h postel
+onboarding-sync-form-sub-header = evit kenderc'hel etrezek { -sync-brand-name }.
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
