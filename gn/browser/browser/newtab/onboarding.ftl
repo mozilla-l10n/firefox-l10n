@@ -29,6 +29,15 @@ onboarding-join-form-email-error = Eikotevẽ ñandutiveve oikóva
 onboarding-join-form-legal = Eku’ejeývo, emoneĩma umi <a data-l10n-name="terms">Mba'epytyvõrã ñemboguata</a> ha <a data-l10n-name="privacy">Temiñemi purureko</a>.
 onboarding-join-form-continue = Eku'ejey
 onboarding-start-browsing-button-label = Eñepyrũ eikundaha
+onboarding-cards-dismiss =
+    .title = Emboyke
+    .aria-label = Emboyke
+
+## Firefox Sync modal dialog strings.
+
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
