@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = ਵੈੱਬਾਸਾਈਟ ਨੂੰ ਲੱਭੋ
+permissions-capabilities-autoplay-block =
+    .label = ਆਡੀਓ 'ਤੇ ਪਾਬੰਦੀ ਲਾਓ
+permissions-capabilities-autoplay-blockall =
+    .label = ਆਡੀਓ ਅਤੇ ਵੀਡਿਓ ਤੇ ਪਾਬੰਦੀ ਲਾਓ
 permissions-capabilities-allow =
     .label = ਮਨਜ਼ੂਰ
 permissions-capabilities-block =
@@ -46,8 +50,6 @@ permissions-capabilities-listitem-allow =
     .value = ਮਨਜ਼ੂਰ
 permissions-capabilities-listitem-block =
     .value = ਪਾਬੰਦੀ
-permissions-capabilities-listitem-allow-first-party =
-    .value = ਕੇਵਲ ਪਹਿਲੀ-ਧਿਰ ਹੀ ਮਨਜ਼ੂਰ ਕਰੋ
 permissions-capabilities-listitem-allow-session =
     .value = ਸ਼ੈਸ਼ਨ ਲਈ ਸਵੀਕਾਰ
 
@@ -58,10 +60,6 @@ permissions-invalid-uri-label = ਠੀਕ ਹੋਸਟ ਨਾਂ ਦਿਓ ਜ�
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = ਛੋਟਾਂ - ਟਰੈਕਿੰਗ ਤੋਂ ਸੁਰੱਖਿਆ
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = ਤੁਸੀਂ ਇਹਨਾਂ ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਨੂੰ ਅਸਮਰੱਥ ਕਰ ਚੁੱਕੇ ਹੋ।
 permissions-exceptions-content-blocking-window =
     .title = ਛੋਟਾਂ - ਸਮੱਗਰੀ ਪਾਬੰਦੀ
     .style = { permissions-window.style }
@@ -101,6 +99,12 @@ permissions-exceptions-autoplay-media-window2 =
     .title = ਅਪਵਾਦ- ਸਵੈ ਚਾਲ
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = ਤੁਸੀਂ ਦੱਸ ਸਕਦੇ ਹੋ ਕਿ ਕਿਹੜੀਆਂ ਵੈਬਸਾਈਟਾਂ ਆਵਾਜ਼ ਨਾਲ ਆਟੋਪਲੇ ਮੀਡੀਆ ਨੂੰ ਹਮੇਸ਼ਾ ਜਾਂ ਕਦੇ ਨਹੀਂ ਹੋਣਗੀਆਂ ਉਸ ਸਾਈਟ ਦਾ ਪਤਾ ਟਾਈਪ ਕਰੋ ਜਿਸਨੂੰ ਤੁਸੀਂ ਦੇਖਣਾ ਚਾਹੁੰਦੇ ਹੋ ਅਤੇ ਫਿਰ ਬਲੌਕ ਕਰੋ ਜਾਂ ਆਗਿਆ ਦਿਓ ਤੇ ਕਲਿਕ ਕਰੋ।
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = ਸੈਟਿੰਗਾਂ - ਆਪੇ-ਚਲਾਓ
+    .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 

@@ -81,6 +81,7 @@ onboarding-mobile-phone-text = iOS ਜਾਂ ਐਂਡਰਾਇਡ 'ਤੇ { -br
 # browser.
 onboarding-mobile-phone-button = ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ ਡਾਊਨਲੋਡ ਕਰੋ
 onboarding-send-tabs-title = ਟੈਬਾਂ ਖੁਦ ਨੂੰ ਮੌਕੇ 'ਤੇ ਭੇਜੋ
+onboarding-send-tabs-button = ਟੈਬਾਂ ਭੇਜਣ ਦੀ ਵਰਤੋਂ ਸ਼ੁਰੂ ਕਰੋ
 onboarding-pocket-anywhere-title = ਹਰ ਥਾਂ 'ਤੇ ਪੜ੍ਹੋ ਤੇ ਸੁਣੋ
 onboarding-pocket-anywhere-text2 = { -pocket-brand-name } ਐਪ ਦੇ ਨਾਲ ਆਪਣੀ ਮਨਪਸੰਦ ਸਮੱਗਰੀ ਨੂੰ ਔਫਲਾਈਨ ਸੁਰੱਖਿਅਤ ਕਰੋ ਅਤੇ ਜਦੋਂ ਵੀ ਤੁਹਾਡੇ ਲਈ ਸੁਵਿਧਾਜਨਕ ਹੋਵੇ, ਉਸਨੂੰ ਪੜ੍ਹੋ, ਸੁਣੋ ਅਤੇ ਦੇਖੋ।
 onboarding-pocket-anywhere-button = { -pocket-brand-name } ਵਰਤ ਕੇ ਵੇਖੋ
