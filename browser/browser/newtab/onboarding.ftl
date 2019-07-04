@@ -29,6 +29,15 @@ onboarding-join-form-email-error = Kelvollinen sähköposti vaaditaan
 onboarding-join-form-legal = Jatkamalla hyväksyt <a data-l10n-name="terms">käyttöehdot</a> ja <a data-l10n-name="privacy">tietosuojaselosteen</a>.
 onboarding-join-form-continue = Jatka
 onboarding-start-browsing-button-label = Aloita selaaminen
+onboarding-cards-dismiss =
+    .title = Hylkää
+    .aria-label = Hylkää
+
+## Firefox Sync modal dialog strings.
+
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
