@@ -28,6 +28,15 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Nauðsynlegt að setja inn tölvupóstfang sem er gilt
 onboarding-join-form-continue = Halda áfram
 onboarding-start-browsing-button-label = Fara að vafra
+onboarding-cards-dismiss =
+    .title = Hafna
+    .aria-label = Hafna
+
+## Firefox Sync modal dialog strings.
+
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
