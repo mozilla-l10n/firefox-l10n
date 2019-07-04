@@ -3,12 +3,46 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
 
 onboarding-button-label-try-now = Yakaj da'nga'
 onboarding-button-label-get-started = Gayi'í
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Guruhuât gunumânt riña { -brand-short-name }
 onboarding-start-browsing-button-label = Gayi'i gache nunt
+onboarding-cards-dismiss =
+    .title = Si gui'iaj guendo'
+    .aria-label = Si gui'iaj guendo'
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Garasun { -brand-product-name } guendâ gachē nunt
+onboarding-sync-welcome-content = Gatu riña si markadot, riña gaché nut ni riña nagi'iát si ata't.
+onboarding-sync-welcome-learn-more-link = Doj nuguan’ huā rayi’î nej si kuendâ Firefox
+onboarding-sync-form-invalid-input = 'Ngo korrêo ni'ñanj an achín ma
+onboarding-sync-legal-notice = Si gatut nī garayinat <a data-l10n-name="terms">Nuguan' da'uît gini'înt si ruhuât garasunt</a> nī <a data-l10n-name="privacy">Notisia huìi</a>
+onboarding-sync-form-input =
+    .placeholder = Korrêo
+onboarding-sync-form-continue-button = Gun' ne' ñaan
+onboarding-sync-form-skip-login-button = Gūej yichrá chrēj nan
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Gachrūn si korreot
+onboarding-sync-form-sub-header = da' gatut riña { -sync-brand-name }
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
 
 ## These strings belong to the individual onboarding messages.
 
