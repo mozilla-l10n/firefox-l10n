@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "ਘੱਟ ਡਾਟਾ, ਵੱਧ ਬੱਚਤ">
 <!ENTITY firstrun_data_subtext2 "ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੀ ਜਾਂਦੀ ਹਰ ਸਾਈਟ ਲਈ ਡਾਟੇ ਨੂੰ ਘਟਾਉਣ ਲਈ ਚਿੱਤਰਾਂ ਨੂੰ ਬੰਦ ਕਰੋ।">
 <!ENTITY firstrun_sync_title "ਸਿੰਕ ਕਰੋ">
+<!ENTITY updatednewfirstrun_sync_title "ਖਾਤਾ">
 <!ENTITY firstrun_sync_message2 "ਜਿੱਥੇ ਛੱਡਿਆ ਸੀ, ਉੱਥੋਂ ਸ਼ੁਰੂ ਕਰੋ।">
 <!ENTITY firstrun_sync_subtext2 "ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ, ਜੋ ਕਿ ਤੁਸੀਂ ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ &brandShortName; \&apos;ਤੇ ਸੰਭਾਲਿਆ ਹੈ, ਨੂੰ ਲੱਭਣ ਲਈ ਸਿੰਕ ਨੂੰ ਵਰਤੋਂ।">
 <!ENTITY newfirstrun_sync_subtext "ਤੁਹਾਡੇ ਵਲੋਂ ਮੋਬਾਈਲ ਉੱਤੇ ਸੰਭਾਲੀਆਂ ਚੀਜ਼ਾਂ ਨੂੰ ਡੈਸਕਟਾਪ ਵਿਚਲੇ ਫਾਇਰਪਾਕਸ ਨਾਲ ਗੁਪਤ ਤੌਰ ਉੱਤੇ ਅਤੇ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸਿੰਕ ਕਰੋ।">
@@ -68,7 +69,6 @@
 <!ENTITY  sending_crash_report "ਰਿਪੋਰਟ ਭੇਜੀ ਜਾ ਰਹੀ ਹੈ\u2026">
 <!ENTITY  crash_close_label "ਬੰਦ ਕਰੋ">
 <!ENTITY  crash_restart_label "&brandShortName; ਨੂੰ ਮੁੜ-ਸ਼ੁਰੂ ਕਰੋ">
-
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; ਕਰੈਸ਼ ਹੋਇਆ">
@@ -116,7 +116,6 @@
 <!ENTITY bookmark_folder_updated "ਫੋਲਡਰ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ">
 <!ENTITY bookmark_parent_folder "ਮੁੱਢਲਾ ਫੋਲਡਰ">
 <!ENTITY bookmark_add_folder "ਨਵਾਂ ਫੋਲਡਰ ਜੋੜੋ">
-
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
 <!ENTITY bookmark_default_folder_title "(ਸਿਰਲੇਖ ਨਹੀਂ)">
@@ -340,11 +339,6 @@
 <!ENTITY pref_pwa "ਸਿਲਸਿਲੇਵਾਰ ਵੈੱਬ ਐਪਾਂ">
 <!ENTITY pref_pwa_summary "ਵੈੱਬ ਐਪਾਂ ਨੂੰ ਮੁੱਖ ਸਕਰੀਨ \&apos;ਤੇ ਜੋੜਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ">
 
-<!ENTITY tracking_protection_prompt_title "ਹੁਣ ਟਰੈਕ ਹੋਣ ਤੋਂ ਸੁਰੱਖਿਆ ਦੇ ਨਾਲ">
-<!ENTITY tracking_protection_prompt_text "ਸਰਗਰਮ ਰੂਪ ਵਿੱਚ ਟਰੈਕ ਕੀਤੇ ਜਾਣ ਵਾਲੇ ਭਾਗਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਜਾਂਦੀ ਹੈ ਤਾਂ ਕਿ ਤੁਹਾਨੂੰ ਫ਼ਿਕਰ ਨਾ ਕਰਨਾ ਪਵੇ।">
-<!ENTITY tracking_protection_prompt_tip_text "ਹੋਰ ਸਿੱਖਣ ਲਈ ਪਰਦੇਦਾਰੀ ਸੈਟਿੰਗਾਂ ਨੂੰ ਖੋਲ੍ਹੋ">
-<!ENTITY tracking_protection_prompt_action_button "ਸਮਝ ਗਏ!">
-
 <!ENTITY tab_queue_toast_message3 "&brandShortName; ਵਿੱਚ ਟੈਬ ਨੂੰ ਸੰਭਾਲਿਆ ਗਿਆ">
 <!ENTITY tab_queue_toast_action "ਹੁਣੇ ਖੋਲ੍ਹੋ">
 <!ENTITY tab_queue_prompt_title "ਕਈ ਲਿੰਕਾਂ ਨੂੰ ਖੋਲ੍ਹਣਾ ਹੈ?">
@@ -430,7 +424,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "ਬਰਾਊਜ਼ਰ ਐਪ ਨੂੰ ਛੂਹੋ ਅਤੇ &brandShortName; ਚੁਣੋ">
-<!ENTITY pref_default_browser_mozilla_support_tablet "ਮੋਜ਼ੀਲਾ ਸਹਿਯੋਗ ਨੂੰ ਖੋਲ੍ਹੋ">
 <!ENTITY pref_about_firefox "&brandShortName; ਬਾਰੇ">
 <!ENTITY pref_vendor_faqs "ਸਵਾਲ-ਜਵਾਬ">
 <!ENTITY pref_vendor_feedback "ਸੁਝਾਅ ਦਿਓ">
@@ -691,7 +684,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "ਆਵਾਜ਼ ਨੂੰ ਚੁਣੋ ਜਾਂ ਰਿਕਾਰਡ ਕਰੋ">
 <!ENTITY filepicker_image_title "ਤਸਵੀਰ ਨੂੰ ਚੁਣੋ ਜਾਂ ਖਿੱਚੋ">
 <!ENTITY filepicker_video_title "ਵੀਡਿਓ ਨੂੰ ਚੁਣੋ ਜਾਂ ਰਿਕਾਰਡ ਕਰੋ">
-
 <!ENTITY filepicker_permission_denied "ਚਾਹੀਦੀਆਂ ਇਜਾਜ਼ਤਾਂ ਨਹੀਂ ਦਿੱਤੀਆਂ, ਸਿਸਟਮ ਫਾਇਲ ਚੋਣਕਾਰ ਲਈ ਪਰਤ ਰਿਹਾ ਹੈ।">
 
 <!-- Site identity popup -->
