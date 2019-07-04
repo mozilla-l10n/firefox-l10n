@@ -17,6 +17,8 @@ cert-error-trust-untrusted-issuer = Cha nel treisht currit ayns yn teisht shoh e
 cert-error-trust-signature-algorithm-disabled = Cha nel treisht currit ayns yn teisht shoh er yn oyr dy row eh fo-screeuit jannoo ymmyd jeh algyrytym va mooghit er yn oyr nagh row yn algyrytym sauçhey.
 cert-error-trust-expired-issuer = Cha nel treisht currit ayns yn teisht shoh er yn oyr dy vel teisht yn giooteyder er jeet gys jerrey.
 cert-error-trust-self-signed = Cha nel treisht currit ayns yn teisht shoh er yn oyr dy row eh hene-fo-screeuit.
+cert-error-trust-symantec = Cha nel treisht currit ayns teishtyn currit magh liorish GeoTrust, RapidSSL, Symantec, Thawte, ny VeriSign er yn oyr nagh ren ny lughtyn reill teisht shoh geiyrt er cliaghtaghyn sauçhys keayrt dy row.
+cert-error-untrusted-default = Cha nel treisht currit ayns bun y teisht shoh.
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Coad marranys: <a data-l10n-name="error-code-link">{ $error }</a>
