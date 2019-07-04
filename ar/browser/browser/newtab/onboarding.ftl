@@ -28,6 +28,16 @@ onboarding-join-form-email-error = مطلوب بريد إلكتروني صالح
 onboarding-join-form-legal = بالمتابعة فأنت توافق على <a data-l10n-name="terms">شروط الخدمة</a> و<a data-l10n-name="privacy">تنويه الخصوصية</a>.
 onboarding-join-form-continue = واصِل
 onboarding-start-browsing-button-label = ابدأ التصفح
+onboarding-cards-dismiss =
+    .title = ألغِ
+    .aria-label = ألغِ
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-form-invalid-input = مطلوب بريد إلكتروني صالح
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
