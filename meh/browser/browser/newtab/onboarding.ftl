@@ -21,6 +21,15 @@ onboarding-welcome-header = Kusɨɨ inidáni nkantanu { -brand-short-name }
 onboarding-join-form-continue = Kɨ´ɨ
 onboarding-start-browsing-button-label = Kajie´e nánuku
 
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-form-input =
+    .placeholder = Email
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Chu´un email noo´o
+
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
