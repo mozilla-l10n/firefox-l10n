@@ -29,6 +29,26 @@ onboarding-join-form-email-error = Cal una adreça electrònica vàlida
 onboarding-join-form-legal = En continuar, accepteu les <a data-l10n-name="terms">condicions d'ús del servei</a> i l'<a data-l10n-name="privacy">avís de privadesa</a>.
 onboarding-join-form-continue = Continua
 onboarding-start-browsing-button-label = Comença a navegar
+onboarding-cards-dismiss =
+    .title = Descarta
+    .aria-label = Descarta
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = El vostre { -brand-product-name }, a tot arreu
+onboarding-sync-welcome-content = Accediu a les vostres adreces d'interès, historial, contrasenyes i preferències en tots els vostres dispositius.
+onboarding-sync-welcome-learn-more-link = Més informació sobre el Compte del Firefox
+onboarding-sync-form-invalid-input = Cal una adreça electrònica vàlida
+onboarding-sync-legal-notice = Si continueu, accepteu les <a data-l10n-name="terms">Condicions del servei</a> i l'<a data-l10n-name="privacy">Avís de privadesa</a>.
+onboarding-sync-form-input =
+    .placeholder = Adreça electrònica
+onboarding-sync-form-continue-button = Continua
+onboarding-sync-form-skip-login-button = Omet aquest pas
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Introduïu la vostra adreça electrònica
+onboarding-sync-form-sub-header = per continuar al { -sync-brand-name }.
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
