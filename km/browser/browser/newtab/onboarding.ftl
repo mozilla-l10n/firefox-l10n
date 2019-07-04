@@ -25,9 +25,13 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-form-input =
+    .placeholder = អ៊ីមែល
+onboarding-sync-form-continue-button = បន្ត
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = បញ្ចូល​អ៊ីមែល​របស់​អ្នក
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
