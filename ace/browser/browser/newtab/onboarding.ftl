@@ -18,6 +18,9 @@ onboarding-button-label-try-now = Neuci Jinoe
 
 onboarding-welcome-header = Ka trôk neuteuka bak { -brand-short-name }
 onboarding-start-browsing-button-label = Mulai Seumeulop
+onboarding-cards-dismiss =
+    .title = Peudong
+    .aria-label = Peudong
 
 ## Firefox Sync modal dialog strings.
 
