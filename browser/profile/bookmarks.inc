@@ -43,9 +43,11 @@
 
 # LOCALIZATION NOTE (nightly_blog):
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
+#define nightly_blog ਫਾਇਰਫਾਕਸ ਨਾਈਟਲੀ ਬਲਾਗ
 
 # LOCALIZATION NOTE (bugzilla):
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
+#define bugzilla ਮੌਜ਼ੀਲਾ ਬੱਗ ਟਰੈਕਰ
 
 # LOCALIZATION NOTE (mdn):
 # Nightly builds only, link title for https://developer.mozilla.org/
@@ -57,6 +59,7 @@
 
 # LOCALIZATION NOTE (crashes):
 # Nightly builds only, link title for about:crashes
+#define crashes ਤੁਹਾਡੇ ਸਾਰੇ ਕਰੈਸ਼
 
 # LOCALIZATION NOTE (irc):
 # Nightly builds only, link title for ircs://irc.mozilla.org/nightly
