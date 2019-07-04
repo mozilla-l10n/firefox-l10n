@@ -25,6 +25,14 @@ onboarding-join-form-email =
 onboarding-join-form-continue = Inka
 onboarding-start-browsing-button-label = Kitsaà Ntuku
 
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-form-input =
+    .placeholder = Korreo
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
