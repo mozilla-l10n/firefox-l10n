@@ -28,14 +28,21 @@ onboarding-join-form-email-error = נדרשת כתובת דוא״ל חוקית
 onboarding-join-form-legal = בחירה בהמשך התהליך מהווה הסכמה ל<a data-l10n-name="terms">תנאי השירות</a> ול<a data-l10n-name="privacy">הצהרת הפרטיות</a>.
 onboarding-join-form-continue = המשך
 onboarding-start-browsing-button-label = התחלת גלישה
+onboarding-cards-dismiss =
+    .title = הסרה
+    .aria-label = הסרה
 
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = { -brand-product-name } אתך בדרכים
+onboarding-sync-welcome-content = קבלת המועדפים, ההיסטוריה, הססמאות והגדרות נוספות בכל המכשירים שלך.
 onboarding-sync-welcome-learn-more-link = מידע נוסף על חשבונות Firefox
+onboarding-sync-form-invalid-input = נדרשת כתובת דוא״ל חוקית
 onboarding-sync-legal-notice = בחירתך להמשיך בתהליך מהווה את הסכמתך ל<a data-l10n-name="terms">תנאי השירות</a> ול<a data-l10n-name="privacy">הצהרת הפרטיות</a>.
 onboarding-sync-form-input =
     .placeholder = דוא״ל
+onboarding-sync-form-continue-button = המשך
+onboarding-sync-form-skip-login-button = דילוג על שלב זה
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
