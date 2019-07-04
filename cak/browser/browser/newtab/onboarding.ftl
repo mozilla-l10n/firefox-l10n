@@ -35,9 +35,20 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = Tak'waj ri { -brand-product-name } Awik'in
+onboarding-sync-welcome-content = Ke'ak'waj ri taq yaketal, natab'äl, ewan taq tzij chuqa' ch'aqa' chik taq nuk'ulem pa ronojel taq awokisaxel.
+onboarding-sync-welcome-learn-more-link = Tawetamaj ch'aqa' chik pa ruwi' ri Firefox Taqoya'l
+onboarding-sync-form-invalid-input = Najowäx ütz chi taqoya'l
+onboarding-sync-legal-notice = Toq nasamajij qa, nawojqaj ri <a data-l10n-name="terms">Kojqanem Samaj</a> chuqa' <a data-l10n-name="privacy">Ichinan Na'oj</a>.
+onboarding-sync-form-input =
+    .placeholder = Taqoya'l
+onboarding-sync-form-continue-button = Titikïr chik el
+onboarding-sync-form-skip-login-button = Tixakalüx re jun ruxak re'
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = Tatz'ib'aj ri ataqoya'l
+onboarding-sync-form-sub-header = richin yatok pa { -sync-brand-name }.
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
