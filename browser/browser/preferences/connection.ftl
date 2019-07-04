@@ -55,7 +55,7 @@ connection-proxy-noproxy = 不使用代理
     .accesskey = n
 connection-proxy-noproxy-desc = 例如：.mozilla.org, .net.nz, 192.168.1.0/24
 # Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = 与 localhost、127.0.0.1 和 ::1 的连接永不会被代理。
+connection-proxy-noproxy-localhost-desc = 与 localhost、127.0.0.1 和 ::1 的连接永不经过代理。
 connection-proxy-autotype =
     .label = 自动代理配置的 URL（PAC）
     .accesskey = A
