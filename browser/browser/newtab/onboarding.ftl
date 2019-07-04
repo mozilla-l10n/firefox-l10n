@@ -39,6 +39,7 @@ onboarding-sync-form-invalid-input = Surel harus valid
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-sub-header = Lanjutkan ke { -sync-brand-name }
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
