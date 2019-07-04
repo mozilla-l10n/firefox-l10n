@@ -29,6 +29,26 @@ onboarding-join-form-email-error = Płaśiwa e-mailowa adresa trěbna
 onboarding-join-form-legal = Gaž pókšacujośo, zwólijośo do <a data-l10n-name="terms">wužywańskich wuměnjenjow</a> a <a data-l10n-name="privacy">powěźeńki priwatnosći</a>.
 onboarding-join-form-continue = Dalej
 onboarding-start-browsing-button-label = Pśeglědowanje startowaś
+onboarding-cards-dismiss =
+    .title = Zachyśiś
+    .aria-label = Zachyśiś
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Wzejśo { -brand-product-name } sobu
+onboarding-sync-welcome-content = Wzejśo swóje cytańske znamjenja, historiju, gronidła a druge nastajenja na wšych wašych rědach sobu.
+onboarding-sync-welcome-learn-more-link = Zgóńśo wěcej wó Firefox Accounts
+onboarding-sync-form-invalid-input = Płaśiwa e-mailowa adresa trěbna
+onboarding-sync-legal-notice = Gaž pókšacujośo, zwolijośo do <a data-l10n-name="terms">Wužywańske wuměnjenja</a> a <a data-l10n-name="privacy">Powěźeńka priwatnosći</a>.
+onboarding-sync-form-input =
+    .placeholder = E-mail
+onboarding-sync-form-continue-button = Dalej
+onboarding-sync-form-skip-login-button = Toś ten kšac pśeskócyś
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Zapódajśo swóju e-mailowu adresu
+onboarding-sync-form-sub-header = aby z { -sync-brand-name } pókšacował.
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
