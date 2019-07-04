@@ -25,10 +25,20 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = ເອົາ { -brand-product-name } ໄປກັບທ່ານ
+onboarding-sync-welcome-content = ຮັບບຸກມາກ, ປະຫວັດການໃຊ້ງານ, ລະຫັດຜ່ານ ແລະການຕັ້ງຄ່າອື່ນໆໃນທຸກໆອຸປະກອນຂອງທ່ານ.
+onboarding-sync-welcome-learn-more-link = ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບບັນຊີ Firefox
 onboarding-sync-form-invalid-input = ຕ້ອງການອີເມວທີ່ຖືກຕ້ອງ
+onboarding-sync-legal-notice = ໂດຍການດຳເນີນການຕໍ່, ຖືວ່າທ່ານຍອມຮັບ<a data-l10n-name="terms">ເງື່ອນໄຂການໃຫ້ບໍລິການ</a>ແລະ<a data-l10n-name="privacy">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ</a>.
+onboarding-sync-form-input =
+    .placeholder = ອີເມລ
+onboarding-sync-form-continue-button = ສືບຕໍ່
+onboarding-sync-form-skip-login-button = ຂ້າມຂັ້ນຕອນນີ້
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = ປ້ອນທີ່ຢູ່ອີເມລຂອງທ່ານ
+onboarding-sync-form-sub-header = ເພື່ອດຳເນີນການຕໍ່ໄປຍັງ { -sync-brand-name }
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
