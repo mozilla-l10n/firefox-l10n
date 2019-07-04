@@ -125,10 +125,67 @@ about-debugging-runtime-tabs =
 # Title of the service workers category.
 about-debugging-runtime-service-workers =
     .name = ਸਰਵਿਸ ਵਰਕਰ
+# Title of the shared workers category.
+about-debugging-runtime-shared-workers =
+    .name = ਸਾਂਝੇ ਕੀਤੇ ਵਰਕਜ਼
+# Title of the other workers category.
+about-debugging-runtime-other-workers =
+    .name = ਹੋਰ ਵਰਕਰ
+# Title of the processes category.
+about-debugging-runtime-processes =
+    .name = ਪਰੋਸੈਸ
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button2 = ਪਰੋਫਾਈਲ ਕਾਰਗੁਜ਼ਾਰੀ
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
 about-debugging-runtime-name = { $name } ({ $version })
+# Text of a button displayed in Runtime pages for remote runtimes.
+# Clicking on the button will close the connection to the runtime.
+about-debugging-runtime-disconnect-button = ਡਿਸਕਨੈਕਟ ਕਰੋ
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = ਕਨੈਕਸ਼ਨ ਪਰੌਓਟ ਨੂੰ ਸਮਰੱਥ ਕਰੋ
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is true on the target runtime.
+about-debugging-connection-prompt-disable-button = ਕਨੈਕਸ਼ਨ ਪਰੌਓਟ ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title2 = ਪਰੋਫਾਈਲਰ
+# Clicking on the header of a debug target category will expand or collapse the debug
+# target items in the category. This text is used as ’title’ attribute of the header,
+# to describe this feature.
+about-debugging-collapse-expand-debug-targets = ਸਮੇਟੋ/ਫੈਲਾਓ
 
 # Debug Targets strings
 
+# Displayed in the categories of "runtime" pages that don't have any debug target to
+# show. Debug targets depend on the category (extensions, tabs, workers...).
+about-debugging-debug-target-list-empty = ਹਾਲੇ ਤੱਕ ਕੁਝ ਨਹੀਂ।
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will reload the extension.
+about-debugging-tmp-extension-reload-button = ਮੁੜ-ਲੋਡ ਕਰੋ
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will uninstall the extension and remove it from the page.
+about-debugging-tmp-extension-remove-button = ਹਟਾਓ
+# Text displayed for extensions in "runtime" pages, before displaying a link the extension's
+# manifest URL.
+about-debugging-extension-manifest-url =
+    .label = ਮੈਨੀਫੈਸਟ URL
+# Text displayed for extensions in "runtime" pages, before displaying the extension's uuid.
+# UUIDs look like b293e463-481e-5148-a487-5aaf7a130429
+about-debugging-extension-uuid =
+    .label = ਅੰਦਰੂਨੀ UUID
+# Text displayed for extensions (temporary extensions only) in "runtime" pages, before
+# displaying the location of the temporary extension.
+about-debugging-extension-location =
+    .label = ਟਿਕਾਣਾ
+# Text displayed for extensions in "runtime" pages, before displaying the extension's ID.
+# For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
+about-debugging-extension-id =
+    .label = ਇਕਸਟੈਂਸ਼ਨ ਆਈਡੀ
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Notes, this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push = ਦੱਬੋ
