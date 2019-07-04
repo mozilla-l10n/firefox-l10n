@@ -4,6 +4,7 @@
 
 <!ENTITY firstrun_panel_title_welcome "நல்வரவு">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; உலாவியைத் தேர்ந்தமைக்கு நன்றி">
+<!ENTITY newfirstrun_urlbar_message "&brandShortName; உலாவிக்கு வரவேற்கிறேன்">
 <!ENTITY firstrun_urlbar_subtext2 "சுதந்திர மற்றும் திறந்த இணையத்திற்காக அர்பணிக்கப்பட்ட இலாபநோக்கற்ற, மொசில்லாவிலிருந்து ஒரு நவீன கைபேசி உலாவி.">
 <!ENTITY firstrun_panel_title_privacy "அந்தரங்கம்">
 <!ENTITY firstrun_privacy_message "யாரும் காண வண்ணம் உலாவுங்கள்">
@@ -18,6 +19,7 @@
 <!ENTITY firstrun_data_message "குறைந்த தரவு, நிறைய சேமிப்பு">
 <!ENTITY firstrun_data_subtext2 "நீங்கள் எல்லா தளங்களிலும் குறைந்த தரவை செலவிட படங்களை அணையுங்கள்.">
 <!ENTITY firstrun_sync_title "ஒத்திசை">
+<!ENTITY updatednewfirstrun_sync_title "கணக்கு">
 <!ENTITY firstrun_sync_message2 "நீங்கள் விட்டுவிட்ட இடத்தில் எடு.">
 <!ENTITY firstrun_sync_subtext2 "&brandShortName; உலாவியில் நீங்கள் சேமிக்கும் புத்தகக்குறிகள், கடவுச்சொற்கள், பிறவற்றை உங்கள் எல்லா கருவிகளிலும் எடுக்க ஒத்திசைவைப் பயன்படுத்தவும்.">
 <!ENTITY firstrun_signin_message "இணையுங்கள், தொடங்குங்கள்">
@@ -63,6 +65,9 @@
 <!ENTITY  sending_crash_report "சிதைவு அறிக்கை அனுப்பப்படுகிறது\u2026">
 <!ENTITY  crash_close_label "மூடு">
 <!ENTITY  crash_restart_label "&brandShortName;ஐ மறுதுவக்கவும்">
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; நொறுங்கியது">
 
 <!ENTITY url_bar_default_text2 "தேடு/முகவரியை உள்ளிடு">
 
@@ -102,6 +107,8 @@
 <!ENTITY bookmark_folder_updated "அடைவு புதுப்பிக்கப்பட்டது">
 <!ENTITY bookmark_parent_folder "நடப்பிலுள்ள அடைவு">
 <!ENTITY bookmark_add_folder "புதிய அடைவைச் சேர்">
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
 
 <!ENTITY reader_saved_offline "இணையமற்ற நிலைக்கு சேமித்தது">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -322,11 +329,6 @@
 <!ENTITY pref_pwa "முற்போக்கு வலைச் செயலிகள்">
 <!ENTITY pref_pwa_summary "முகப்பு திரையில் சேர்க்க வலைச் செயலிகளை அனுமதி">
 
-<!ENTITY tracking_protection_prompt_title "தடமறியல் பாதுகாப்புடன் உள்ளது">
-<!ENTITY tracking_protection_prompt_text "நீங்கள் கவலை கொள்ள வேண்டாம் தடமறிதல் உடனடியாக முடக்கப்படுகிறது.">
-<!ENTITY tracking_protection_prompt_tip_text "மேலும் அறிய தனியுறிமை அமைவுகளைக் காண்க">
-<!ENTITY tracking_protection_prompt_action_button "புரிந்தது!">
-
 <!ENTITY tab_queue_toast_message3 "கீற்று &brandShortName; இல் சேமிக்கப்பட்டது">
 <!ENTITY tab_queue_toast_action "இப்போதே திற">
 <!ENTITY tab_queue_prompt_title "பல இணைப்புகளைத் திறக்கிறதா?">
@@ -409,7 +411,6 @@ shown from Android O while a tab is being queued.-->
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
-<!ENTITY pref_default_browser_mozilla_support_tablet "மொசில்லா ஆதரவை பார்வையிடு">
 <!ENTITY pref_about_firefox "&brandShortName;வைப் பற்றி">
 <!ENTITY pref_vendor_faqs "அடிக்கடி கேட்கப்படும் கேள்விகளும் பதில்களும்">
 <!ENTITY pref_vendor_feedback "கருத்து தெரிவிக்கவும்">
@@ -580,6 +581,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "முக்கியச்சொல்">
 <!ENTITY bookmark_select_folder "அடைவைத் தேர்">
 
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "இணையத்தள அமைவுகள்">
@@ -667,7 +669,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "ஒரு ஒலி தேர்வு அல்லது பதிவு">
 <!ENTITY filepicker_image_title "தேர்ந்தெடு அல்லது ஒரு படத்தை எடு">
 <!ENTITY filepicker_video_title "ஒரு படத் தேர்வு அல்லது பதிவு">
-
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "நீங்கள் இதனுடன் இணைக்கப்பட்டுள்ளீர்கள்">
