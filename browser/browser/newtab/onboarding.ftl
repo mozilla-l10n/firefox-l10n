@@ -3,12 +3,46 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
 
 onboarding-button-label-try-now = Feuch e an-dràsta
 onboarding-button-label-get-started = Dèan toiseach tòiseachaidh
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Fàilte gu { -brand-short-name }
 onboarding-start-browsing-button-label = Tòisich air brabhsadh
+onboarding-cards-dismiss =
+    .title = Leig seachad
+    .aria-label = Leig seachad
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Thoir { -brand-product-name } leat
+onboarding-sync-welcome-content = Faigh na comharran-lìn, an eachdraidh, na faclan-faire ’s roghainnean eile air na h-uidheaman air fad agad.
+onboarding-sync-welcome-learn-more-link = Barrachd fiosrachaidh air cunntasan Firefox
+onboarding-sync-form-invalid-input = Tha feum air post-d dligheach
+onboarding-sync-legal-notice = Ma leanas tu air adhart, bidh tu ag aontachadh ri <a data-l10n-name="terms">teirmichean na seirbheise</a> agus <a data-l10n-name="privacy">aithris na prìobhaideachd</a>.
+onboarding-sync-form-input =
+    .placeholder = Post-d
+onboarding-sync-form-continue-button = Lean air adhart
+onboarding-sync-form-skip-login-button = Leum seachad air seo
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Cuir a-steach am post-d agad
+onboarding-sync-form-sub-header = a leantainn air adhart gu sioncronachadh Firefox.
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
 
 ## These strings belong to the individual onboarding messages.
 
