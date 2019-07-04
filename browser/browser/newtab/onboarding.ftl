@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
-
-
 ### UI strings for the simplified onboarding modal / about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -32,6 +29,26 @@ onboarding-join-form-email-error = Lypset email i vlefshëm
 onboarding-join-form-legal = Duke vazhduar, pajtoheni me <a data-l10n-name="terms">Kushte Shërbimi</a> dhe <a data-l10n-name="privacy">Shënim Privatësie</a>.
 onboarding-join-form-continue = Vazhdo
 onboarding-start-browsing-button-label = Filloni të Shfletoni
+onboarding-cards-dismiss =
+    .title = Hidhe tej
+    .aria-label = Hidhe tej
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Merreni { -brand-product-name }-in me Vete
+onboarding-sync-welcome-content = Merrni në krejt pajisjet tuaja faqerojtësit, historikun, fjalëkalimet dhe të tjera rregullime tuajat.
+onboarding-sync-welcome-learn-more-link = Mësoni më tepër rreth Llogarive Firefox
+onboarding-sync-form-invalid-input = Lypset email i vlefshëm
+onboarding-sync-legal-notice = Duke vazhduar, shprehni pajtimin tuaj me <a data-l10n-name="terms">Kushte Shërbimi</a> dhe <a data-l10n-name="privacy">Shënim Mbi Privatësinë</a>.
+onboarding-sync-form-input =
+    .placeholder = Email
+onboarding-sync-form-continue-button = Vazhdo
+onboarding-sync-form-skip-login-button = Anashkalojeni këtë hap
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Jepni email-in tuaj
+onboarding-sync-form-sub-header = që të vazhdoni te { -sync-brand-name }
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
@@ -66,22 +83,10 @@ onboarding-ghostery-text = Shfletoni më shpejt, me më mençuri, ose me më sig
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Njëkohësoni
 onboarding-fxa-text = Regjistrohuni për një  { -fxaccount-brand-name } dhe njëkohësoni fjalëkalimet tuaj, faqerojtësit dhe skedat e hapura nga kudo që përdorni { -brand-short-name }.
-onboarding-tracking-protection-title = Kontrolloni Se Si Ju Gjurmojnë
-onboarding-tracking-protection-text = Nuk ju pëlqen të gjurmoheni nga reklama? { -brand-short-name }-i ju ndihmon të kontrolloni se si e ndjekin veprimtarinë tuaj internetore reklamuesit.
-# "Update" is a verb, as in "Update the existing settings", not "Options about
-# updates".
-onboarding-tracking-protection-button =
-    { PLATFORM() ->
-        [windows] Mundësi Përditësimi
-       *[other] Parapëlqime Përditësimi
-    }
 onboarding-tracking-protection-title2 = Mbrojtje Nga Gjurmimi
 onboarding-tracking-protection-text2 = { -brand-short-name } ndihmon të ndalet gjurmimi juaj në internet nga sajte, duke e bërë më të vështirë për reklamat t’ju ndjekin nëpër internet.
 onboarding-tracking-protection-button2 = Si Funksionon
 onboarding-data-sync-title = Merreni Me Vete Rregullimet Tuaja
-# "Sync" is short for synchronize.
-onboarding-data-sync-text = Njëkohësoni faqerojtësit dhe fjalëkalimet kudo që i përdorni { -brand-product-name }.
-onboarding-data-sync-button = Aktivizo { -sync-brand-short-name }
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Njëkohësoni faqerojtësit tuaj, fjalëkalimet, etj, kudo ku përdorni { -brand-product-name }-in.
 onboarding-data-sync-button2 = Hyni në { -sync-brand-short-name }
@@ -92,7 +97,6 @@ onboarding-browse-privately-title = Shfletoni Privatisht
 onboarding-browse-privately-text = Shfletimi Privat e pastron historikun tuaj të kërkimeve dhe shfletimit, për ta mbajtur të fshehtë ndaj cilitdo që përdor kompjuterin tuaj.
 onboarding-browse-privately-button = Hapni Dritare Private
 onboarding-firefox-send-title = Mbajini Private Kartelat Që Shkëmbeni
-onboarding-firefox-send-text = { -send-brand-name } i mbron kartelat që shkëmbeni me të tjerët, përmes fshehtëzimi skaj-më-skaj dhe një lidhjeje që skadon vetvetiu.
 onboarding-firefox-send-text2 = Ngarkojini kartelat tuaja te { -send-brand-name } që t’i ndani nën fshehtëzim skaj-më-skaj dhe një lidhjeje që skadon vetvetiu.
 onboarding-firefox-send-button = Provoni { -send-brand-name }
 onboarding-mobile-phone-title = Merreni { -brand-product-name } në Telefonin Tuaj
@@ -106,17 +110,12 @@ onboarding-send-tabs-title = Dërgojini Vetes Skeda Aty Për Aty
 onboarding-send-tabs-text = Me Dërgim Skedash bëni ndarje të menjëhershme faqesh mes pajisjeve tuaja pa u dashur të kopjoni, ngjitni, apo të braktisni shfletuesin.
 onboarding-send-tabs-button = Filloni të përdorni Dërgim Skedash
 onboarding-pocket-anywhere-title = Lexoni dhe Dëgjoni Kudo
-# "downtime" refers to the user's free/spare time.
-onboarding-pocket-anywhere-text = { -pocket-brand-name } i ruan leximet tuaja të parapëlqyera, që të mund t’i lexoni, dëgjoni apo shihni kur keni kohë, qoftë edhe pa internet.
 onboarding-pocket-anywhere-text2 = Ruani jashtë interneti lëndën tuaj të parapëlqyer, me aplikacionin  { -pocket-brand-name } dhe lexojeni, dëgjojeni apo shiheni kurdo që keni kohë.
 onboarding-pocket-anywhere-button = Provojeni { -pocket-brand-name }-in
 onboarding-lockwise-passwords-title = Merrini Fjalëkalimet Tuaja Kudo
-onboarding-lockwise-passwords-text = { -lockwise-brand-name } i ruan fjalëkalimet tuaj në një vend të sigurt, që të mund të hyni pa rrezik në llogaritë tuaja.
-onboarding-lockwise-passwords-button = Merreni { -lockwise-brand-name }
 onboarding-lockwise-passwords-text2 = Ruajini pa rrezik fjalëkalimet tuaja dhe hyni me lehtësi në llogaritë tuaja, përmes { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Merrni Aplikacionin
 onboarding-facebook-container-title = Caktoni Caqe me Facebook-un
-onboarding-facebook-container-text = { -facebook-container-brand-name } e mban identitetin tuaj Facebook veçmas nga gjithçka tjetër, duke e bërë më të zorshëm ndjekjen tuaj nëpër internet.
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } e mban profilin tuaj veçmas nga gjithçka tjetër, duke ia bërë të vështirë Facebook-ut profilizimin e reklamave për ju.
 onboarding-facebook-container-button = Shtoje Zgjerimin
 
