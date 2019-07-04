@@ -29,6 +29,15 @@ onboarding-join-form-email-error = Surel harus valid
 onboarding-join-form-legal = Dengan melanjutkan, berarti Anda setuju dengan <a data-l10n-name="terms">Ketentuan Layanan</a> dan <a data-l10n-name="privacy">Pernyataan Privasi</a>.
 onboarding-join-form-continue = Lanjut
 onboarding-start-browsing-button-label = Mulai Menjelajah
+onboarding-cards-dismiss =
+    .title = Tutup
+    .aria-label = Tutup
+
+## Firefox Sync modal dialog strings.
+
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
