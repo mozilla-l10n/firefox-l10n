@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
-
-
 ### UI strings for the simplified onboarding modal / about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -32,6 +29,26 @@ onboarding-join-form-email-error = Płaćiwa e-mejlowa adresa trěbna
 onboarding-join-form-legal = Hdyž pokročujeće, zwoliće do <a data-l10n-name="terms">wužiwanskich wuměnjenjow</a> a <a data-l10n-name="privacy">zdźělenki priwatnosće</a>.
 onboarding-join-form-continue = Dale
 onboarding-start-browsing-button-label = Přehladowanje startować
+onboarding-cards-dismiss =
+    .title = Zaćisnyć
+    .aria-label = Zaćisnyć
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Wzmiće { -brand-product-name } sobu
+onboarding-sync-welcome-content = Wzmiće swoje zapołožki, historiju, hesła a druhe nastajenja na wšěch wašich gratach sobu.
+onboarding-sync-welcome-learn-more-link = Zhońće wjace wo Firefox Accounts
+onboarding-sync-form-invalid-input = Płaćiwa e-mejlowa adresa trěbna
+onboarding-sync-legal-notice = Hdyž pokročujeće, zwoliće do <a data-l10n-name="terms">Wužiwanske wuměnjenja</a> a <a data-l10n-name="privacy">Zdźělenka priwatnosće</a>.
+onboarding-sync-form-input =
+    .placeholder = E-mejl
+onboarding-sync-form-continue-button = Pokročować
+onboarding-sync-form-skip-login-button = Tutón krok přeskočić
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Zapodajće swoju e-mejlowu adresu,
+onboarding-sync-form-sub-header = zo byšće z { -sync-brand-name } pokročował.
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
@@ -66,22 +83,10 @@ onboarding-ghostery-text = Přehladujće spěšnišo, bóle inteligentnje abo w�
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synchronizować
 onboarding-fxa-text = Registrujće so za { -fxaccount-brand-name } a synchronizujće swoje zapołožki, hesła a wočinjene rajtarki, hdźežkuli { -brand-short-name } wužiwaće.
-onboarding-tracking-protection-title = Kontrola nad slědowanjom online
-onboarding-tracking-protection-text = Nochceće, zo wabjenje wam slěduje? { -brand-short-name } wam pomha kontrolować, kak wabjerjo wašim aktiwitam online slěduja.
-# "Update" is a verb, as in "Update the existing settings", not "Options about
-# updates".
-onboarding-tracking-protection-button =
-    { PLATFORM() ->
-        [windows] Nastajenja aktualizować
-       *[other] Nastajenja aktualizować
-    }
 onboarding-tracking-protection-title2 = Škit přećiwo slědowanju
 onboarding-tracking-protection-text2 = { -brand-short-name } wam pomha, websydła při tym haćić, wam online slědować, zo by za wabjenje ćešo było, wam po webje slědować.
 onboarding-tracking-protection-button2 = Kak funguje
 onboarding-data-sync-title = Wzmiće swoje nastajenja sobu
-# "Sync" is short for synchronize.
-onboarding-data-sync-text = Synchronizujće swoje zapołožki a hesła wšudźe, hdźež { -brand-product-name } wužiwaće.
-onboarding-data-sync-button = { -sync-brand-short-name } zapinać
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Synchronizujće swoje zapołožki, hesła a wjace wšudźe, hdźež { -brand-product-name } wužiwaće.
 onboarding-data-sync-button2 = Pola { -sync-brand-short-name } přizjewić
@@ -92,7 +97,6 @@ onboarding-browse-privately-title = Přehladowajće z priwatnosću
 onboarding-browse-privately-text = Priwatny modus wašej pytansku a přehladowansku historiju zhaša, zo by jej před kóždym zatajił, kotryž waš ličak wužiwa.
 onboarding-browse-privately-button = Priwatne wokno wočinić
 onboarding-firefox-send-title = Dźeržće swoje dźělene dataje priwatne
-onboarding-firefox-send-text = { -send-brand-name } dataje, kotrež dźěliće, ze zaklučowanjom kónc do kónca a z wotkazom, kotryž awtomatisce spadnje, škita.
 onboarding-firefox-send-text2 = Nahrajće swoje dataje do { -send-brand-name }, zo byšće je ze zaklučowanjom kónc do kónca a z wotkazom, kotryž awtomatisce spadnje, dźělił.
 onboarding-firefox-send-button = { -send-brand-name } wupruwować
 onboarding-mobile-phone-title = Instalujće sej { -brand-product-name } na swojim telefonje
@@ -106,17 +110,12 @@ onboarding-send-tabs-title = Sćelće hnydom rajtarki
 onboarding-send-tabs-text = Sen Tabs hnydom strony mjez wašimi gratami dźěli, bjeztoho zo byšće kopěrował, zasadźił abo wobhladowak wopušćił.
 onboarding-send-tabs-button = Wužiwajće Send Tabs
 onboarding-pocket-anywhere-title = Čitajće a słuchajće wšudźe
-# "downtime" refers to the user's free/spare time.
-onboarding-pocket-anywhere-text = { -pocket-brand-name } waše najlubše stawizny składuje, zo byšće je za přestawki čitał, słuchał a sej wobhladał, samo hdyž sće offline.
 onboarding-pocket-anywhere-text2 = Składujće swój najlubši wobsah offline z nałoženjom { -pocket-brand-name } a čitajće, słuchajće a wobhladajće, hdyžkuli so wam hodźi.
 onboarding-pocket-anywhere-button = { -pocket-brand-name } wupruwować
 onboarding-lockwise-passwords-title = Wzmiće swoje hesła wšudźe sobu
-onboarding-lockwise-passwords-text = { -lockwise-brand-name } waše hesła na wěstym městnje składuje, zo byšće móhł so lochko pola wašich kontow přizjewić.
-onboarding-lockwise-passwords-button = { -lockwise-brand-name } wobstarać
 onboarding-lockwise-passwords-text2 = Dźeržće hesła, kotrež składujeće, wěste a přizjewće so lochko pola swojich kontow z { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Nałoženje wobstarać
 onboarding-facebook-container-title = Stajće hranicy za Facebook
-onboarding-facebook-container-text = { -facebook-container-brand-name } wašu identitu Facebook dźělenu wot wšeho druheho dźerži. Tak je ćešo, wam po webje slědować.
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } waš profil dźěleny wot wšeho druheho dźerži. Tak je ćešo za Facebook, wam zaměrne wabjenje pokazać.
 onboarding-facebook-container-button = Rozšěrjenje přidać
 
