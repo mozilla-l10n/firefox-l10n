@@ -29,6 +29,26 @@ onboarding-join-form-email-error = Correo válido requerido
 onboarding-join-form-legal = Al proceder, aceptas los <a data-l10n-name="terms">Términos del servicio</a> y el <a data-l10n-name="privacy">Aviso de privacidad</a>.
 onboarding-join-form-continue = Continuar
 onboarding-start-browsing-button-label = Empezar a navegar
+onboarding-cards-dismiss =
+    .title = Descartar
+    .aria-label = Descartar
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Lleva a { -brand-product-name } contigo
+onboarding-sync-welcome-content = Ten tus marcadores, historial, contraseñas y otros ajustes en todos tus dispositivos.
+onboarding-sync-welcome-learn-more-link = Aprende más sobre las cuentas de Firefox
+onboarding-sync-form-invalid-input = Se requiere un correo válido
+onboarding-sync-legal-notice = Al proceder, aceptas los <a data-l10n-name="terms">Términos del servicio</a> y la <a data-l10n-name="privacy">Política de privacidad</a>.
+onboarding-sync-form-input =
+    .placeholder = Correo
+onboarding-sync-form-continue-button = Continuar
+onboarding-sync-form-skip-login-button = Saltar este paso
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Ingresa tu correo
+onboarding-sync-form-sub-header = para conectarte a { -sync-brand-name }.
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
