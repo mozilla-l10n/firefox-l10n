@@ -3,12 +3,46 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
 
 onboarding-button-label-try-now = İndi Yoxlayın
 onboarding-button-label-get-started = Başla
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = { -brand-short-name } səyyahına xoş gəlmisiniz
 onboarding-start-browsing-button-label = Səyahətə Başla
+onboarding-cards-dismiss =
+    .title = Rədd et
+    .aria-label = Rədd et
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = { -brand-product-name }-u özünüzlə gəzdirin
+onboarding-sync-welcome-content = Əlfəcin, tarixçə, parol və digər tənzimləmələrinizi bütün cihazlarınızda əldə edin.
+onboarding-sync-welcome-learn-more-link = Firefox Hesabları haqqında ətraflı öyrənin
+onboarding-sync-form-invalid-input = Doğru e-poçt tələb olunur
+onboarding-sync-legal-notice = Davam etməklə <a data-l10n-name="terms">İstifadə Şərtləri</a> və <a data-l10n-name="privacy">Məxfilik Bildirişi</a> ilə razılaşmış olursuz.
+onboarding-sync-form-input =
+    .placeholder = E-poçt
+onboarding-sync-form-continue-button = Davam et
+onboarding-sync-form-skip-login-button = Bu addımı keç
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = E-poçtunuzu daxil edin
+onboarding-sync-form-sub-header = və { -sync-brand-name } ilə davam edin.
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
 
 ## These strings belong to the individual onboarding messages.
 
