@@ -36,7 +36,10 @@ onboarding-cards-dismiss =
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = Uzmite { -brand-product-name } sa sobom
+onboarding-sync-welcome-content = Preuzmite svoje zabilješke, povijest, lozinke i druge postavke na sve vaše uređaje.
 onboarding-sync-welcome-learn-more-link = Saznajte više o Firefox računima
+onboarding-sync-form-invalid-input = Potrebna je ispravna adresa e-pošte
+onboarding-sync-legal-notice = Nastavljanjem pristajete na <a data-l10n-name="terms">Uvjete korištenja</a> i <a data-l10n-name="privacy">Politiku privatnosti</a>.
 onboarding-sync-form-input =
     .placeholder = E-pošta
 onboarding-sync-form-continue-button = Nastavi
