@@ -28,6 +28,8 @@
 
 <!ENTITY aboutMenuCmd2.label "Informazioni su &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "I">
+<!ENTITY helpSafeMode.stop.label     "Riavvia attivando i componenti aggiuntivi">
+<!ENTITY helpSafeMode.stop.accesskey "a">
 <!ENTITY productHelp.label "Guida di &brandShortName;">
 <!ENTITY productHelp.accesskey "G">
 <!ENTITY productHelp.commandkey "VK_F1">
