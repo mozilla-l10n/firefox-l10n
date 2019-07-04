@@ -27,9 +27,12 @@ onboarding-cards-dismiss =
 
 onboarding-sync-form-input =
     .placeholder = Email
+onboarding-sync-form-continue-button = Magpatuloy
+onboarding-sync-form-skip-login-button = Laktawan ang hakbang na ito
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = Ilagay ang iyong email
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
