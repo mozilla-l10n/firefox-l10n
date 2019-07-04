@@ -35,10 +35,20 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = Ta med dig { -brand-product-name }
 onboarding-sync-welcome-content = Få dina bokmärken, historik, lösenord och andra inställningar på alla dina enheter.
+onboarding-sync-welcome-learn-more-link = Lär dig mer om Firefox-konton
+onboarding-sync-form-invalid-input = Giltig e-postadress krävs
+onboarding-sync-legal-notice = Genom att fortsätta godkänner du <a data-l10n-name="terms">Användarvillkor</a> och <a data-l10n-name="privacy">Sekretesspolicy</a>.
+onboarding-sync-form-input =
+    .placeholder = E-post
+onboarding-sync-form-continue-button = Fortsätt
+onboarding-sync-form-skip-login-button = Hoppa över det här steget
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = Ange din e-postadress
+onboarding-sync-form-sub-header = för att fortsätta till { -sync-brand-name }.
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
