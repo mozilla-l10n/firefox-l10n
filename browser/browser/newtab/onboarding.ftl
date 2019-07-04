@@ -29,9 +29,18 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = તમારી સાથે { -brand-product-name } લો
+onboarding-sync-welcome-content = તમારા બધા ઉપકરણો પર તમારા બુકમાર્ક્સ, ઇતિહાસ, પાસવર્ડ્સ અને અન્ય સેટિંગ્સ મેળવો.
+onboarding-sync-legal-notice = આગળ વધીને, તમે <a data-l10n-name="terms">સેવાની શરતો</a> અને <a data-l10n-name="privacy">ખાનગી સૂચના</a> સાથે સંમત થાઓ છો.
+onboarding-sync-form-input =
+    .placeholder = ઇમેઇલ
+onboarding-sync-form-continue-button = ચાલુ રાખો
+onboarding-sync-form-skip-login-button = આ પગલું છોડી દો
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = તમારા ઇમેઇલ દાખલ કરો
+onboarding-sync-form-sub-header = Firefox સમન્વયન ચાલુ રાખવા માટે.
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
