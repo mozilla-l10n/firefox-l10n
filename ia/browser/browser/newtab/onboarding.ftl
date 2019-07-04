@@ -29,11 +29,15 @@ onboarding-join-form-email-error = Il es necesse un valide adresse email
 onboarding-join-form-legal = Si tu procede, tu consenti al <a data-l10n-name="terms">Terminos de servicio</a> e  al <a data-l10n-name="privacy">Aviso de confidentialitate</a>.
 onboarding-join-form-continue = Continuar
 onboarding-start-browsing-button-label = Comencia a navigar
+onboarding-cards-dismiss =
+    .title = Dimitter
+    .aria-label = Dimitter
 
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = Porta { -brand-product-name } con te
 onboarding-sync-welcome-content = Tene tu marcapaginas, chronologia, contrasignos e altere configurationes sur tote tu apparatos.
+onboarding-sync-welcome-learn-more-link = Saper plus super Firefox Accounts
 onboarding-sync-form-invalid-input = Il es necesse un valide adresse email
 onboarding-sync-legal-notice = Si tu procede, tu consenti a <a data-l10n-name="terms">Terminos de servicio</a> e <a data-l10n-name="privacy">Notification de confidentialitate</a>.
 onboarding-sync-form-input =
