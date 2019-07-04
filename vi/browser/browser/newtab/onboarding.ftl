@@ -48,7 +48,7 @@ onboarding-sync-form-skip-login-button = Bỏ qua bước này
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = Nhập email của bạn
-onboarding-sync-form-sub-header = để tiếp tục với Đồng bộ hóa Firefox
+onboarding-sync-form-sub-header = để tiếp tục với { -sync-brand-name }
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
