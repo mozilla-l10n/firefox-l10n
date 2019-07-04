@@ -29,6 +29,26 @@ onboarding-join-form-email-error = Жарамды эл. пошта адресі 
 onboarding-join-form-legal = Жалғастыру арқылы сіз <a data-l10n-name="terms">Қызмет көрсету шарттары</a> және <a data-l10n-name="privacy">Жекелік ескертуі</a> шарттарымен келісесіз.
 onboarding-join-form-continue = Жалғастыру
 onboarding-start-browsing-button-label = Шолуды бастау
+onboarding-cards-dismiss =
+    .title = Тайдыру
+    .aria-label = Тайдыру
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = { -brand-product-name }-ты өзіңізбен бірге алыңыз
+onboarding-sync-welcome-content = Бетбелгілер, тарих, парольдер және т.б. баптауларды құрылғыларыңыздың барлығында алыңыз.
+onboarding-sync-welcome-learn-more-link = Firefox тіркелгілері туралы көбірек білу
+onboarding-sync-form-invalid-input = Жарамды эл. пошта адресі керек
+onboarding-sync-legal-notice = Жалғастырсаңыз, <a data-l10n-name="terms">Қолдану шарттары</a> және <a data-l10n-name="privacy">Жекелік ескертуі</a> шарттарымен келісесіз.
+onboarding-sync-form-input =
+    .placeholder = Эл. пошта
+onboarding-sync-form-continue-button = Жалғастыру
+onboarding-sync-form-skip-login-button = Бұл қадамды аттап кету
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Эл. поштаны енгізіңіз
+onboarding-sync-form-sub-header = Firefox синхрондауына жалғастыру үшін.
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
