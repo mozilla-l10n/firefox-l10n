@@ -29,6 +29,15 @@ onboarding-join-form-email-error = Geçerli bir e-posta gerekiyor
 onboarding-join-form-legal = Devam ederseniz <a data-l10n-name="terms">Hizmet Koşulları</a>’nı ve <a data-l10n-name="privacy">Gizlilik Bildirimi</a>’ni kabul etmiş olursunuz.
 onboarding-join-form-continue = Devam et
 onboarding-start-browsing-button-label = Gezinmeye başla
+onboarding-cards-dismiss =
+    .title = Kapat
+    .aria-label = Kapat
+
+## Firefox Sync modal dialog strings.
+
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
