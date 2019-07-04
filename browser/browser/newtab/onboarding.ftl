@@ -34,9 +34,17 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = ഫയര്‍ഫോക്സിനെ നിങ്ങളുടെ കൂടെ കൊണ്ടുപോകൂ
+onboarding-sync-welcome-learn-more-link = ഫയർഫോക്സ് അക്കൗണ്ടിനെ കുറിച്ച് കൂടൂതൽ അറിയുക
+onboarding-sync-form-invalid-input = സാധുവായ ഇമെയിൽ ആവശ്യമാണ്
+onboarding-sync-form-input =
+    .placeholder = ഇമെയില്‍
+onboarding-sync-form-continue-button = തുടരുക
+onboarding-sync-form-skip-login-button = ഈ ഘട്ടം ഒഴിവാക്കുക
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = നിങ്ങളുടെ ഇമെയിൽ നൽകുക
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
