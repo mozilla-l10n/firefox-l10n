@@ -35,6 +35,9 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = Вазьміце { -brand-product-name } з сабой
+onboarding-sync-welcome-content = Атрымайце доступ да вашых закладак, гісторыі, пароляў і іншых налад на ўсіх вашых прыладах.
+onboarding-sync-welcome-learn-more-link = Даведайцеся больш пра ўліковыя запісы Firefox
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
