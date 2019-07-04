@@ -29,6 +29,9 @@ onboarding-join-form-email-error = 需要有效的电子邮件地址
 onboarding-join-form-legal = 若继续，即表示您同意我们的<a data-l10n-name="terms">服务条款</a>和<a data-l10n-name="privacy">隐私声明</a>。
 onboarding-join-form-continue = 继续
 onboarding-start-browsing-button-label = 开始浏览
+onboarding-cards-dismiss =
+    .title = 隐藏
+    .aria-label = 隐藏
 
 ## Firefox Sync modal dialog strings.
 
