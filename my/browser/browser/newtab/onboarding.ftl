@@ -25,9 +25,17 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = { -brand-product-name } ကို သင်နှင့်အတူ ခေါ်ဆောင်ပါ
+onboarding-sync-welcome-learn-more-link = Firefox အကောင့်များအကြောင်း ပိုမိုလေ့လာရန်
+onboarding-sync-form-invalid-input = အီးမေးလ်အမှန် လိုအပ်သည်
+onboarding-sync-form-input =
+    .placeholder = အီးမေးလ်
+onboarding-sync-form-continue-button = ဆက်၍
+onboarding-sync-form-skip-login-button = ဒီအဆင့်ကို ကျော်ပါ
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = သင့်အီးမေလ်းအားထည့်ပါ
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
