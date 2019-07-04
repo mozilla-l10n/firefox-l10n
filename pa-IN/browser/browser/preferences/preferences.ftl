@@ -270,6 +270,11 @@ update-pref-write-failure-title = ਲਿਖਣਾ ਅਸਫ਼ਲ
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = ਪਸੰਦ ਸੰਭਾਲਣ ਲਈ ਅਸਫ਼ਲ ਹੈ। ਫ਼ਾਈਲ ਲਿਖੀ ਨਹੀਂ ਜਾ ਸਕੀ: { $path }
+update-in-progress-title = ਅੱਪਡੇਟ ਜਾਰੀ ਹੈ
+update-in-progress-ok-button = ਖਾਰਜ ਕਰੋ(&D)
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = ਜਾਰੀ ਰੱਖੋ(&C)
 
 ## General Section - Performance
 
@@ -396,7 +401,7 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = ਛੋਟੇ ਟੋਟੇ
-home-prefs-snippets-description = ਮੋਜ਼ੀਲਾ ਅਤੇ ਫਾਇਰਫਾਕਸ ਤੋਂ ਅੱਪਡੇਟ
+home-prefs-snippets-description = { -vendor-short-name } ਅਤੇ { -brand-product-name } ਤੋਂ ਅੱਪਡੇਟ
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -717,6 +722,10 @@ content-blocking-cookies-label =
     .accesskey = C
 content-blocking-expand-section =
     .tooltiptext = ਹੋਰ ਜਾਣਕਾਰੀ
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = ਕ੍ਰਿਪਟੋ-ਮਾਈਨਰ
+    .accesskey = y
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
@@ -752,9 +761,16 @@ permissions-notification-link = ਹੋਰ ਜਾਣੋ
 permissions-notification-pause =
     .label = { -brand-short-name } ਮੁੜ-ਚਾਲੂ ਹੋਣ ਤੱਕ ਸੂਚਨਾਵਾਂ ਨੂੰ ਰੋਕੋ
     .accesskey = n
+permissions-block-autoplay-media2 =
+    .label = ਆਪਣੇ-ਆਪ ਆਵਾਜ਼ ਚਲਾਉਣ ਵਾਲੀਆਂ ਵੈਬਸਾਈਟਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ
+    .accesskey = B
 permissions-block-autoplay-media-exceptions =
     .label = ਛੋਟਾਂ…
     .accesskey = E
+permissions-autoplay = ਆਪੇ-ਚਲਾਓ
+permissions-autoplay-settings =
+    .label = …ਸੈਟਿੰਗਾਂ
+    .accesskey = t
 permissions-block-popups =
     .label = ਪੋਪਅੱਪ ਵਿੰਡੋ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ
     .accesskey = B
