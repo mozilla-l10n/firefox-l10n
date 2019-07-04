@@ -30,6 +30,22 @@ onboarding-join-form-legal = Si tu procede, tu consenti al <a data-l10n-name="te
 onboarding-join-form-continue = Continuar
 onboarding-start-browsing-button-label = Comencia a navigar
 
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Porta { -brand-product-name } con te
+onboarding-sync-welcome-content = Tene tu marcapaginas, chronologia, contrasignos e altere configurationes sur tote tu apparatos.
+onboarding-sync-form-invalid-input = Il es necesse un valide adresse email
+onboarding-sync-legal-notice = Si tu procede, tu consenti a <a data-l10n-name="terms">Terminos de servicio</a> e <a data-l10n-name="privacy">Notification de confidentialitate</a>.
+onboarding-sync-form-input =
+    .placeholder = Email
+onboarding-sync-form-continue-button = Continuar
+onboarding-sync-form-skip-login-button = Saltar iste grado
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Insere tu email
+onboarding-sync-form-sub-header = pro continuar con { -sync-brand-name }.
+
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
