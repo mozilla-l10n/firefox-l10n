@@ -28,6 +28,8 @@ onboarding-cards-dismiss =
 onboarding-sync-welcome-header = Nawor { -brand-product-name }
 onboarding-sync-welcome-content = Heɓ maantore maa, aslol maa, finndeeji maa kam e teelte goɗɗe e masiŋon maa fof.
 onboarding-sync-welcome-learn-more-link = Ɓeydu humpito baɗte Konte Firefox
+onboarding-sync-form-invalid-input = Iimeel gollotooɗo hatojinaa
+onboarding-sync-legal-notice = So a waɗii ɗum, firti ko a jaɓii <a data-l10n-name="terms">Laabi Carwol</a> e <a data-l10n-name="privacy">Tintinol Suturo</a>.
 onboarding-sync-form-input =
     .placeholder = Iimeel
 onboarding-sync-form-continue-button = Jokku
