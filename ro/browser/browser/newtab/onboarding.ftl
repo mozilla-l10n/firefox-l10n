@@ -29,6 +29,9 @@ onboarding-join-form-email-error = Este necesară o adresă de e-mail validă
 onboarding-join-form-legal = Continuând, ești de acord cu <a data-l10n-name="terms">Termenii de utilizare a serviciilor</a> și <a data-l10n-name="privacy">Declarația de confidențialitate</a>.
 onboarding-join-form-continue = Continuă
 onboarding-start-browsing-button-label = Începe să navighezi
+onboarding-cards-dismiss =
+    .title = Înlătură
+    .aria-label = Înlătură
 
 ## Firefox Sync modal dialog strings.
 
