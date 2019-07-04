@@ -29,6 +29,9 @@ onboarding-join-form-email-error = Ütz taqoya'l najowäx
 onboarding-join-form-legal = Pa rub'eyal, rat nawojqaj ri <a data-l10n-name="terms">Rojqanem Samaj</a> chuqa' <a data-l10n-name="privacy">Rutzijol Ichinanem</a>.
 onboarding-join-form-continue = Titikïr chik el
 onboarding-start-browsing-button-label = Tichap Okem Pa K'amaya'l
+onboarding-cards-dismiss =
+    .title = Tichup ruwäch
+    .aria-label = Tichup ruwäch
 
 ## Firefox Sync modal dialog strings.
 
