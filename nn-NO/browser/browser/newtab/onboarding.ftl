@@ -29,6 +29,15 @@ onboarding-join-form-email-error = Gyldig e-postadresse påkravd
 onboarding-join-form-legal = Ved å fortsetje godtek du <a data-l10n-name="terms">tenestevilkåra</a> våre og <a data-l10n-name="privacy">personvernerklæringa</a> vår.
 onboarding-join-form-continue = Fortset
 onboarding-start-browsing-button-label = Start nettlesing
+onboarding-cards-dismiss =
+    .title = Avvis
+    .aria-label = Avvis
+
+## Firefox Sync modal dialog strings.
+
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
