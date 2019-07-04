@@ -428,7 +428,7 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Töredékek
-home-prefs-snippets-description = Hírek a Mozilláról és a { -brand-product-name }ról
+home-prefs-snippets-description = Hírek a { -vendor-short-name } és a { -brand-product-name } felől
 home-prefs-sections-rows-option =
     .label =
         { $num ->
