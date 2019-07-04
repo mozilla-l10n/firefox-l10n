@@ -3,12 +3,46 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
 
 onboarding-button-label-try-now = Пробајте сада
 onboarding-button-label-get-started = Први кораци
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Добродошли у { -brand-short-name }
 onboarding-start-browsing-button-label = Почните са прегледањем
+onboarding-cards-dismiss =
+    .title = Уклони
+    .aria-label = Уклони
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Понесите { -brand-product-name } са собом
+onboarding-sync-welcome-content = Имајте све забелешке, историјат, лозинке и друге поставке на свим вашим уређајима.
+onboarding-sync-welcome-learn-more-link = Сазнајте више о Firefox Accounts
+onboarding-sync-form-invalid-input = Исправна е-пошта се захтева
+onboarding-sync-legal-notice = Наставком, прихватате <a data-l10n-name="terms">услове коришћења</a> и <a data-l10n-name="privacy">обавештење о приватности</a>.
+onboarding-sync-form-input =
+    .placeholder = Адреса е-поште
+onboarding-sync-form-continue-button = Настави
+onboarding-sync-form-skip-login-button = Прескочи овај корак
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Унесите вашу адресу е-поште
+onboarding-sync-form-sub-header = да бисте наставили на { -sync-brand-name }.
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
 
 ## These strings belong to the individual onboarding messages.
 
