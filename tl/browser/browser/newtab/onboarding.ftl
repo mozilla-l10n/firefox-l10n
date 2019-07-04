@@ -26,8 +26,10 @@ onboarding-cards-dismiss =
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = Isama ang { -brand-product-name } saan man
+onboarding-sync-welcome-content = Kunin ang mga bookmark, kasaysayan, mga password at iba pang mga setting sa lahat ng iyong mga device.
 onboarding-sync-welcome-learn-more-link = Alamin pa lalo ang tungkol sa Firefox Accounts
 onboarding-sync-form-invalid-input = Balidong email ang kinakailangan
+onboarding-sync-legal-notice = Kung magpapatuloy, ikaw ay pumapayag sa mga <a data-l10n-name="terms">Mga Tuntunin sa Serbisyo</a> at <a data-l10n-name="privacy">Abisong Pangbribasiya</a>.
 onboarding-sync-form-input =
     .placeholder = Email
 onboarding-sync-form-continue-button = Magpatuloy
@@ -36,6 +38,7 @@ onboarding-sync-form-skip-login-button = Laktawan ang hakbang na ito
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = Ilagay ang iyong email
+onboarding-sync-form-sub-header = para magpatuloy sa { -sync-brand-name }
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
