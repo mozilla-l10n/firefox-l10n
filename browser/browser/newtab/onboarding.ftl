@@ -24,6 +24,21 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = বৈধ ইমেইল আবশ্যক
 onboarding-join-form-continue = চালিয়ে যান
 onboarding-start-browsing-button-label = ব্রাউজিং শুরু করুন
+onboarding-cards-dismiss =
+    .title = বাতিল
+    .aria-label = বাতিল
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = অাপনি { -brand-product-name } ব্যবহার করুন
+onboarding-sync-form-input =
+    .placeholder = ইমেইল
+onboarding-sync-form-continue-button = চালিয়ে যান
+onboarding-sync-form-skip-login-button = এই ধাপটি বাদ দিন
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = আপনার ই-মেইল লিখুন
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
