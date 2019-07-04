@@ -3,12 +3,46 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
 
 onboarding-button-label-try-now = Paraugi ņiuļa
 onboarding-button-label-get-started = Ar kū sōkt
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = Vasals { -brand-short-name }
 onboarding-start-browsing-button-label = Sōkt porlyukōšonu
+onboarding-cards-dismiss =
+    .title = Paslēpt
+    .aria-label = Paslēpt
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Pajam { -brand-product-name } sev leidza
+onboarding-sync-welcome-content = Lītoj grōmotzeimes, viesturi, paroles un cytus īstatejumus vysōs sovōs īreicēs.
+onboarding-sync-welcome-learn-more-link = Vaira par Firefox kontim
+onboarding-sync-form-invalid-input = Napīcīšams dereigs e-posts
+onboarding-sync-legal-notice = Turpynojut tu pīkreiti <a data-l10n-name="terms">Lītōšonys nūsacejumi</a> un <a data-l10n-name="privacy">Privatuma pīzeime</a>.
+onboarding-sync-form-input =
+    .placeholder = E-posts
+onboarding-sync-form-continue-button = Turpynōt
+onboarding-sync-form-skip-login-button = Izlaist itū sūli
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Īvodi sova e-posta adresi
+onboarding-sync-form-sub-header = kab turpynōt { -sync-brand-name }
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
 
 ## These strings belong to the individual onboarding messages.
 
