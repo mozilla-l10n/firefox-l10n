@@ -25,6 +25,9 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = Isama ang { -brand-product-name } saan man
+onboarding-sync-welcome-learn-more-link = Alamin pa lalo ang tungkol sa Firefox Accounts
+onboarding-sync-form-invalid-input = Balidong email ang kinakailangan
 onboarding-sync-form-input =
     .placeholder = Email
 onboarding-sync-form-continue-button = Magpatuloy
