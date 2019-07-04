@@ -25,10 +25,20 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = Prenda { -brand-product-name } cun tai
+onboarding-sync-welcome-content = Acceda cun tut tes apparats a tes segnapaginas, a la cronologia, als pleds-clav ed ad autras preferenzas.
+onboarding-sync-welcome-learn-more-link = Ulteriuras infurmaziuns davart contos da Firefox
 onboarding-sync-form-invalid-input = Adressa dad e-mail valida è obligatorica
+onboarding-sync-legal-notice = Cun cuntinuar acceptas ti las <a data-l10n-name="terms">Cundiziuns d'utilisaziun</a> e las <a data-l10n-name="privacy">Infurmaziuns davart la protecziun da datas</a>.
+onboarding-sync-form-input =
+    .placeholder = E-mail
+onboarding-sync-form-continue-button = Cuntinuar
+onboarding-sync-form-skip-login-button = Sursiglir quest pass
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = Endatescha tia adressa dad e-mail
+onboarding-sync-form-sub-header = per cuntinuar cun { -sync-brand-name }.
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
