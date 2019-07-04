@@ -29,6 +29,25 @@ onboarding-join-form-email-error = ਠੀਕ ਈਮੇਲ ਚਾਹੀਦਾ ਹ
 onboarding-join-form-legal = ਜਾਰੀ ਰੱਖ ਕੇ ਤੁਸੀਂ <a data-l10n-name="terms">ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ</a> ਅਤੇ <a data-l10n-name="privacy">ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ</a> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।
 onboarding-join-form-continue = ਜਾਰੀ ਰੱਖੋ
 onboarding-start-browsing-button-label = ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ
+onboarding-cards-dismiss =
+    .title = ਰੱਦ ਕਰੋ
+    .aria-label = ਰੱਦ ਕਰੋ
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = ਫਾਇਰਫਾਕਸ ਨੂੰ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਓ
+onboarding-sync-welcome-content = ਆਪਣੇ ਬੁੱਕਮਾਰਕ, ਅਤੀਤ, ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ ਸੈਟਿੰਗਾਂ ਨੂੰ ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਲਵੋ।
+onboarding-sync-welcome-learn-more-link = ਫਾਇਰਫਾਕਸ ਖਾਤਿਆਂ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਹਾਸਲ ਕਰੋ
+onboarding-sync-legal-notice = ਜਾਰੀ ਰੱਖ ਕੇ ਤੁਸੀਂ <a data-l10n-name="terms">ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ</a> ਅਤੇ <a data-l10n-name="privacy">ਪਰਦੇਦਾਰੀ ਦਾ ਨੋਟਿਸ</a> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।
+onboarding-sync-form-input =
+    .placeholder = ਈਮੇਲ
+onboarding-sync-form-continue-button = ਜਾਰੀ ਰੱਖੋ
+onboarding-sync-form-skip-login-button = ਇਹ ਪਗ਼ ਛੱਡੋ
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = ਆਪਣਾ ਈਮੇਲ ਦਿਓ
+onboarding-sync-form-sub-header = ਤਾਂ ਕਿ ਫਾਇਰਫਾਕਸ ਸਿੰਕ ਨਾਲ ਜਾਰੀ ਰੱਖਿਆ ਜਾਵੇ।
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
