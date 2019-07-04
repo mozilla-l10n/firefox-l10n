@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
-
-
 ### UI strings for the simplified onboarding modal / about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -32,6 +29,26 @@ onboarding-join-form-email-error = Érvényes e-mail cím szükséges
 onboarding-join-form-legal = A folytatással elfogadja a <a data-l10n-name="terms">Szolgáltatási feltételeket</a> és az <a data-l10n-name="privacy">Adatvédelmi nyilatkozatot</a>.
 onboarding-join-form-continue = Folytatás
 onboarding-start-browsing-button-label = Böngészés megkezdése
+onboarding-cards-dismiss =
+    .title = Elutasítás
+    .aria-label = Elutasítás
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Vigye magával a { -brand-product-name }ot
+onboarding-sync-welcome-content = Kapja meg a könyvjelzőit, előzményeit, jelszavait és egyéb beállításait az összes eszközén.
+onboarding-sync-welcome-learn-more-link = Ismerje meg a Firefox fiókokat
+onboarding-sync-form-invalid-input = Érvényes e-mail szükséges
+onboarding-sync-legal-notice = A folytatással elfogadja a <a data-l10n-name="terms">Felhasználási feltételeket</a> és az <a data-l10n-name="privacy">Adatvédelmi nyilatkozatot</a>.
+onboarding-sync-form-input =
+    .placeholder = E-mail
+onboarding-sync-form-continue-button = Folytatás
+onboarding-sync-form-skip-login-button = Lépés kihagyása
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Adja meg az e-mail címét
+onboarding-sync-form-sub-header = és lépjen tovább a { -sync-brand-name }hez.
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
@@ -66,22 +83,10 @@ onboarding-ghostery-text = Böngésszen gyorsabban, okosabban vagy biztonságosa
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Szinkronizálás
 onboarding-fxa-text = Regisztráljon egy { -fxaccount-brand-name }ot, és szinkronizálja a könyvjelzőit, jelszavait és nyitott lapjait bárhol, ahol { -brand-short-name }ot használ.
-onboarding-tracking-protection-title = Szabja meg hogyan követik
-onboarding-tracking-protection-text = Nem szereti, ha a hirdetések követik Önt? A { -brand-short-name } segít szabályozni, hogy a hirdetők hogyan követhetik nyomon az online tevékenységét.
-# "Update" is a verb, as in "Update the existing settings", not "Options about
-# updates".
-onboarding-tracking-protection-button =
-    { PLATFORM() ->
-        [windows] Beállítások frissítése
-       *[other] Beállítások frissítése
-    }
 onboarding-tracking-protection-title2 = Védelem a nyomon követés ellen
 onboarding-tracking-protection-text2 = A { -brand-short-name } segít megakadályozni, hogy a webhelyek nyomon követhessék Önt online, így nehezebbé teszi, hogy a hirdetések kövessék a weben.
 onboarding-tracking-protection-button2 = Hogyan működik
 onboarding-data-sync-title = Vigye magával a beállításait
-# "Sync" is short for synchronize.
-onboarding-data-sync-text = Szinkronizálja a könyvjelzőit és jelszavait mindenhol, ahol { -brand-product-name }ot használ.
-onboarding-data-sync-button = A { -sync-brand-short-name } bekapcsolása
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Szinkronizálja a könyvjelzőket, a jelszavakat és még többet, bárhol is használja a { -brand-product-name }ot.
 onboarding-data-sync-button2 = Jelentkezzen be a { -sync-brand-short-name }be
@@ -92,7 +97,6 @@ onboarding-browse-privately-title = Böngésszen privát módon
 onboarding-browse-privately-text = A privát böngészés törli a keresési és böngészési előzményeket, hogy titokban tartsa azokat azoktól, akik a számítógépét használják.
 onboarding-browse-privately-button = Privát ablak megnyitása
 onboarding-firefox-send-title = Tárolja bizalmasan a megosztott fájljait
-onboarding-firefox-send-text = A { -send-brand-name } végpontok közötti titkosítással és egy automatikusan lejáró hivatkozással védi a megosztott fájljait.
 onboarding-firefox-send-text2 = Töltse fel a fájljait a { -send-brand-name } segítségével, és ossza meg azokat végpontok közötti titkosítással és egy automatikusan lejáró hivatkozással.
 onboarding-firefox-send-button = Próbálja ki a { -send-brand-name }et
 onboarding-mobile-phone-title = Szerezze be a { -brand-product-name } alkalmazást a telefonján
@@ -106,17 +110,12 @@ onboarding-send-tabs-title = Küldjön lapokat magának azonnal
 onboarding-send-tabs-text = A Lapok küldése azonnal megosztja a lapokat az eszközei között, anélkül hogy másolni, beillesztenie kellene, vagy elhagynia a böngészőt.
 onboarding-send-tabs-button = Kezdje el használni a lapok küldését
 onboarding-pocket-anywhere-title = Olvasson és hallgasson bárhol
-# "downtime" refers to the user's free/spare time.
-onboarding-pocket-anywhere-text = A { -pocket-brand-name } elmenti a kedvenc történeteit, így el tudja olvasni, meg tudja hallgatni és meg tudja nézni azokat, amikor csak akarja, akár internetkapcsolat nélkül is.
 onboarding-pocket-anywhere-text2 = Mentse le a kedvenc tartalmait a { -pocket-brand-name } alkalmazással, és olvassa el, hallgassa meg vagy nézze meg, amikor az Ön számára kényelmes.
 onboarding-pocket-anywhere-button = Próbálja ki a { -pocket-brand-name }et
 onboarding-lockwise-passwords-title = Vigye el a jelszavait mindenhová
-onboarding-lockwise-passwords-text = A { -lockwise-brand-name } biztonságos helyen tárolja a jelszavait, így könnyedén bejelentkezhet a fiókjaiba.
-onboarding-lockwise-passwords-button = { -lockwise-brand-name } beszerzése
 onboarding-lockwise-passwords-text2 = Tartsa biztonságban a mentett jelszavait és jelentkezzen be egyszerűen a fiókjaiba a { -lockwise-brand-name } segítségével.
 onboarding-lockwise-passwords-button2 = Alkalmazás beszerzése
 onboarding-facebook-container-title = Állítson be korlátokat a Facebookkal
-onboarding-facebook-container-text = A { -facebook-container-brand-name } elválasztja a Facebook személyazonosságát minden mástól, így nehezebb lesz Önt követni a weben.
 onboarding-facebook-container-text2 = A { -facebook-container-brand-name } elkülöníti a profilját minden mástól, ami nehezebbé teszi, hogy a Facebook célzott hirdetéseket küldjön Önnek.
 onboarding-facebook-container-button = A kiegészítő hozzáadása
 
