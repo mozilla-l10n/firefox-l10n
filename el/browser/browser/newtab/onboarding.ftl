@@ -35,9 +35,17 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = Πάρτε το { -brand-product-name } μαζί σας
+onboarding-sync-welcome-content = Κρατήστε τα αγαπημένα, το ιστορικό, τους κωδικούς πρόσβασης και άλλες ρυθμίσεις σας σε όλες σας τις συσκευές.
+onboarding-sync-welcome-learn-more-link = Μάθετε περισσότερα για τους Λογαριασμούς Firefox
+onboarding-sync-form-invalid-input = Απαιτείται έγκυρο email
+onboarding-sync-legal-notice = Συνεχίζοντας, συμφωνείτε με τους <a data-l10n-name="terms">Όρους Υπηρεσίας</a> και τη <a data-l10n-name="privacy">Σημείωση Απορρήτου</a>.
+onboarding-sync-form-skip-login-button = Παράλειψη βήματος
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = Εισάγετε το email σας
+onboarding-sync-form-sub-header = για να συνεχίσετε στο { -sync-brand-name }.
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
