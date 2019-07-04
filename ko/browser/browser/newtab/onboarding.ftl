@@ -29,6 +29,26 @@ onboarding-join-form-email-error = 유효한 이메일이 필요합니다
 onboarding-join-form-legal = 계속 진행하면 <a data-l10n-name="terms">서비스 약관</a> 및 <a data-l10n-name="privacy">개인 정보 보호 정책</a>에 동의하게 됩니다.
 onboarding-join-form-continue = 계속
 onboarding-start-browsing-button-label = 브라우징 시작
+onboarding-cards-dismiss =
+    .title = 닫기
+    .aria-label = 닫기
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = { -brand-product-name }와 함께 하세요
+onboarding-sync-welcome-content = 즐겨찾기와 방문기록, 비밀번호, 다른 설정을 모든 기기에서 사용해 보세요.
+onboarding-sync-welcome-learn-more-link = Firefox 계정 자세히 알아보기
+onboarding-sync-form-invalid-input = 유효한 이메일 필요함
+onboarding-sync-legal-notice = 진행하면 <a data-l10n-name="terms">이용 약관</a>과 <a data-l10n-name="privacy">개인 정보 보호 정책</a>에 동의하게 됩니다.
+onboarding-sync-form-input =
+    .placeholder = 이메일
+onboarding-sync-form-continue-button = 계속
+onboarding-sync-form-skip-login-button = 단계 건너뛰기
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = 이메일을 입력
+onboarding-sync-form-sub-header = 해서 { -sync-brand-name } 사용
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
