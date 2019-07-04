@@ -29,6 +29,7 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-form-invalid-input = جائز ای میل کی ظرورت ہے
 onboarding-sync-form-input =
     .placeholder = ای میل
 onboarding-sync-form-continue-button = جاری رکھیں
