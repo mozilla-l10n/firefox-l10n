@@ -35,9 +35,20 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = { -brand-product-name } をあなたとともに
+onboarding-sync-welcome-content = すべての端末で、ブックマーク、履歴、パスワード、その他の設定を取得できます。
+onboarding-sync-welcome-learn-more-link = Firefox Accounts に関する詳細情報
+onboarding-sync-form-invalid-input = メールアドレスを正しく入力してください
+onboarding-sync-legal-notice = 続行すると、<a data-l10n-name="terms">サービス利用規約</a> と <a data-l10n-name="privacy">プライバシーに関する通知</a> に同意したものとみなします。
+onboarding-sync-form-input =
+    .placeholder = メールアドレス
+onboarding-sync-form-continue-button = 続ける
+onboarding-sync-form-skip-login-button = この手順をスキップ
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = メールアドレスを入力してください
+onboarding-sync-form-sub-header = { -sync-brand-name } の利用を続けるために必要です
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
