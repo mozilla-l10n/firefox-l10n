@@ -23,6 +23,15 @@ onboarding-join-form-email =
     .placeholder = ઇમેઇલ દાખલ કરો
 onboarding-join-form-email-error = માન્ય ઇમેઇલ આવશ્યક છે
 onboarding-start-browsing-button-label = બ્રાઉઝિંગ શરુ કરો
+onboarding-cards-dismiss =
+    .title = રદ કરો
+    .aria-label = રદ કરો
+
+## Firefox Sync modal dialog strings.
+
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
