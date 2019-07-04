@@ -25,9 +25,18 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = Nawor { -brand-product-name }
+onboarding-sync-welcome-content = Heɓ maantore maa, aslol maa, finndeeji maa kam e teelte goɗɗe e masiŋon maa fof.
+onboarding-sync-welcome-learn-more-link = Ɓeydu humpito baɗte Konte Firefox
+onboarding-sync-form-input =
+    .placeholder = Iimeel
+onboarding-sync-form-continue-button = Jokku
+onboarding-sync-form-skip-login-button = Diw ngal daawal
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = Naatnu iimeel maa
+onboarding-sync-form-sub-header = ngam jokkude to { -sync-brand-name }
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
