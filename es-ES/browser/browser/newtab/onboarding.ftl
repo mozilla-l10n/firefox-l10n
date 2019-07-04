@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
-
-
 ### UI strings for the simplified onboarding modal / about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -32,6 +29,24 @@ onboarding-join-form-email-error = Una dirección de correo válida es obligator
 onboarding-join-form-legal = Si continúas, aceptas los <a data-l10n-name="terms">Términos del servicio</a> y la <a data-l10n-name="privacy">Política de privacidad</a>.
 onboarding-join-form-continue = Continuar
 onboarding-start-browsing-button-label = Empezar a navegar
+onboarding-cards-dismiss =
+    .title = Ignorar
+    .aria-label = Ignorar
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Llévese { -brand-product-name } consigo
+onboarding-sync-welcome-content = Acceda a sus marcadores, historial, contraseñas y más ajustes en todos sus dispositivos.
+onboarding-sync-welcome-learn-more-link = Descubra más sobre las Cuentas de Firefox
+onboarding-sync-form-input =
+    .placeholder = Correo electrónico
+onboarding-sync-form-continue-button = Continuar
+onboarding-sync-form-skip-login-button = Saltar este paso
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Introduzca su correo electrónico
+onboarding-sync-form-sub-header = para acceder a { -sync-brand-name }.
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
@@ -66,22 +81,10 @@ onboarding-ghostery-text = Navegue más rápido, de manera más inteligente o se
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sincronizar
 onboarding-fxa-text = Regístrese para tener una { -fxaccount-brand-name } y sincronice sus marcadores, contraseñas y pestañas abiertas allá donde utilice { -brand-short-name }
-onboarding-tracking-protection-title = Descubre cómo te rastrean y contrólalo
-onboarding-tracking-protection-text = ¿No te gusta que te sigan los anuncios? { -brand-short-name } te permite controlar cómo los anunciantes rastrean tu vida en línea.
-# "Update" is a verb, as in "Update the existing settings", not "Options about
-# updates".
-onboarding-tracking-protection-button =
-    { PLATFORM() ->
-        [windows] Actualizar opciones
-       *[other] Actualizar preferencias
-    }
 onboarding-tracking-protection-title2 = Protección contra rastreo
 onboarding-tracking-protection-text2 = { -brand-short-name } le ayuda a impedir que los sitios le rastreen en línea, por lo que será más difícil que la publicidad le siga mientras navega.
 onboarding-tracking-protection-button2 = Cómo funciona
 onboarding-data-sync-title = Llévate tus ajustes contigo
-# "Sync" is short for synchronize.
-onboarding-data-sync-text = Sincroniza tus marcadores y contraseñas siempre que uses { -brand-product-name }.
-onboarding-data-sync-button = Activar { -sync-brand-short-name }
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Sincronice sus marcadores, contraseñas y mucho más donde quiera que use { -brand-product-name }.
 onboarding-data-sync-button2 = Iniciar sesión en { -sync-brand-short-name }
@@ -92,7 +95,6 @@ onboarding-browse-privately-title = Navegue de forma privada
 onboarding-browse-privately-text = La navegación privada elimina tu historial de búsquedas y de navegación para que nadie que use tu equipo tenga acceso a ellos.
 onboarding-browse-privately-button = Abrir una ventana privada
 onboarding-firefox-send-title = Mantenga privados sus archivos compartidos
-onboarding-firefox-send-text = { -send-brand-name } protege los archivos que compartes con un cifrado de extremo a extremo y un enlace que expira automáticamente.
 onboarding-firefox-send-text2 = Suba sus archivos a { -send-brand-name } para compartirlos con cifrado de extremo a extremo y un enlace que expira automáticamente.
 onboarding-firefox-send-button = Pruebe { -send-brand-name }
 onboarding-mobile-phone-title = Consiga { -brand-product-name } en su teléfono
@@ -106,17 +108,12 @@ onboarding-send-tabs-title = Envíese las pestañas instantáneamente
 onboarding-send-tabs-text = Send Tabs comparte páginas de forma instantánea entre tus dispositivos sin copiar, pegar ni abandonar el navegador.
 onboarding-send-tabs-button = Empieza a usar Send Tabs
 onboarding-pocket-anywhere-title = Lee y escucha sea donde sea
-# "downtime" refers to the user's free/spare time.
-onboarding-pocket-anywhere-text = { -pocket-brand-name } guarda tus historias favoritas para que puedas leerlas, escucharlas o verlas cuando quieras, incluso sin conexión.
 onboarding-pocket-anywhere-text2 = Guarde su contenido favorito sin conexión gracias a la aplicación de { -pocket-brand-name } y léalo, escúchelo o véalo dónde y cuándo mejor le convenga.
 onboarding-pocket-anywhere-button = Pruebe { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Llévese sus contraseñas consigo a todas partes
-onboarding-lockwise-passwords-text = { -lockwise-brand-name } guarda tus contraseñas en un lugar seguro para que puedas iniciar sesión en tus cuentas de una forma más sencilla.
-onboarding-lockwise-passwords-button = Consiga { -lockwise-brand-name }
 onboarding-lockwise-passwords-text2 = Mantenga seguras las contraseñas que guarda e inicie sesión fácilmente en sus cuentas con { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Conseguir la aplicación
 onboarding-facebook-container-title = Establezca límites con Facebook
-onboarding-facebook-container-text = { -facebook-container-brand-name } separa su identidad de Facebook de todo lo demás, dificultando así que pueda rastrearle por la web.
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } separa su identidad de Facebook de todo lo demás, dificultando así que Facebook pueda mostrarle publicidad personalizada.
 onboarding-facebook-container-button = Agregar extensión
 
