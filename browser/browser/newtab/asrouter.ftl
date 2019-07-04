@@ -3,10 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = अनुशंसित एक्सटेंशन
+cfr-doorhanger-extension-sumo-link =
+    .tooltiptext = मैं यह क्यों देख रहा हूँ
 cfr-doorhanger-extension-cancel-button = अभी नहीं
     .accesskey = N
 cfr-doorhanger-extension-ok-button = अभी जोड़ें
     .accesskey = A
+cfr-doorhanger-extension-manage-settings-button = अनुशंसा सेटिंग प्रबंधित करें|
+    .accesskey = म
+cfr-doorhanger-extension-never-show-recommendation = मुझे यह अनुशंसा न दिखाएं
+    .accesskey = स
 cfr-doorhanger-extension-learn-more-link = अधिक जानें
 # This string is used on a new line below the add-on name
 # Variables:
