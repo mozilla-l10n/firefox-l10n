@@ -3,11 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = കൂടുതല്‍ അറിയുക
 onboarding-button-label-try-now = ഇപ്പോൾ ശ്രമിക്കുക
 onboarding-button-label-get-started = ആരംഭിക്കുക
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = { -brand-short-name } ലേക്ക് സ്വാഗതം
 onboarding-welcome-learn-more = ആനുകൂല്യങ്ങളെക്കുറിച്ച് കൂടുതൽ അറിയുക.
 onboarding-join-form-header = { -brand-product-name } ൽ ചേരുക
@@ -18,6 +28,15 @@ onboarding-join-form-email-error = സാധുവായ ഇമെയിൽ ആ�
 onboarding-join-form-legal = തുടരുന്നതിലൂടെ നിങ്ങൾ <a data-l10n-name="terms"> സേവന നിബന്ധനകളും </a> <a data-l10n-name="privacy"> സ്വകാര്യത അറിയിപ്പും </a> അംഗീകരിക്കുന്നു.
 onboarding-join-form-continue = തുടരുക
 onboarding-start-browsing-button-label = ബ്രൗസിംഗ് ആരംഭിക്കുക
+onboarding-cards-dismiss =
+    .title = പുറത്താക്കുക
+    .aria-label = പുറത്താക്കുക
+
+## Firefox Sync modal dialog strings.
+
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
@@ -43,16 +62,7 @@ onboarding-ghostery-title = ഗോസ്റ്ററി
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = സമന്വയം
 onboarding-fxa-text = { -fxaccount-brand-name } എന്നതിനായി സൈൻ അപ്പ് ചെയ്യുക, ഒപ്പം നിങ്ങളുടെ ബുക്ക്മാർക്കുകൾ, രഹസ്യവാക്കുകള്‍, തുറന്ന ടാബുകൾ എന്നിവ { -brand-short-name } ഉപയോഗിച്ച് നിങ്ങൾ എല്ലായിടത്തും സമന്വയിപ്പിക്കുക.
-onboarding-tracking-protection-title = നിങ്ങൾ എങ്ങനെ ട്രാക്കുചെയ്യുന്നുവെന്നത് നിയന്ത്രിക്കുക
-# "Update" is a verb, as in "Update the existing settings", not "Options about
-# updates".
-onboarding-tracking-protection-button =
-    { PLATFORM() ->
-        [windows] ഐച്ഛികങ്ങൾ പുതുക്കുക
-       *[other] വിശേഷതകള്‍ പുതുക്കുക
-    }
 onboarding-data-sync-title = നിങ്ങളുടെ ക്രമീകരണം കൂടെ കൊണ്ട് പോകൂ
-onboarding-data-sync-button = { -sync-brand-short-name } ഓണാക്കുക
 onboarding-firefox-monitor-title = വിവരചോരണങ്ങളെക്കുറിച്ചു് അറിയിപ്പുകള്‍ നേടുക
 onboarding-firefox-monitor-button = അലേർട്ടുകൾക്കായി സൈൻ അപ്പ് ചെയ്യുക
 onboarding-browse-privately-title = സ്വകാര്യമായി ബ്രൌസ് ചെയ്യുക
