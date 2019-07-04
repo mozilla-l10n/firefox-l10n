@@ -3,12 +3,46 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
 
 onboarding-button-label-try-now = همین حالا امتحان کنید
 onboarding-button-label-get-started = شروع کنید
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = به { -brand-short-name } خوش آمدید
 onboarding-start-browsing-button-label = شروع وب‌گردی
+onboarding-cards-dismiss =
+    .title = رد کردن
+    .aria-label = رد کردن
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = فایرفاکس را همراه خود داشته باشید
+onboarding-sync-welcome-content = نشانک‌ها، تاریخچه، گذرواژه‌ها و تنظیمات دیگر خود را بر روی تمام دستگاه‌های خود همراه خود داشته باشید.
+onboarding-sync-welcome-learn-more-link = در مورد حساب‌های فایرفاکس بیشتر بدانید
+onboarding-sync-form-invalid-input = رایانامهٔ معتبر لازم است
+onboarding-sync-legal-notice = با ادامه دادن، شما <a data-l10n-name="terms">قوانین سرویس</a> و <a data-l10n-name="privacy">نکات حریم‌خصوصی</a> قبول می‌کنید.
+onboarding-sync-form-input =
+    .placeholder = پست‌الکترونیکی
+onboarding-sync-form-continue-button = ادامه
+onboarding-sync-form-skip-login-button = پرش از این مرحله
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = پست‌الکترونیکی خود را وارد کنید
+onboarding-sync-form-sub-header = برای فعال کردن همگام‌سازی فایرفاکس.
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
 
 ## These strings belong to the individual onboarding messages.
 
