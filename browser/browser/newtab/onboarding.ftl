@@ -29,6 +29,15 @@ onboarding-join-form-email-error = Патрабуецца сапраўдны а�
 onboarding-join-form-legal = Працягваючы, вы згаджаецеся з <a data-l10n-name="terms">Умовамі абслугоўвання</a> і <a data-l10n-name="privacy">Палітыкай прыватнасці</a>.
 onboarding-join-form-continue = Працягнуць
 onboarding-start-browsing-button-label = Пачаць агляданне
+onboarding-cards-dismiss =
+    .title = Адхіліць
+    .aria-label = Адхіліць
+
+## Firefox Sync modal dialog strings.
+
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
