@@ -29,6 +29,26 @@ onboarding-join-form-email-error = Gyldig e-postadresse kreves
 onboarding-join-form-legal = Ved å fortsette aksepterer du våre <a data-l10n-name="terms">tjenestevilkår</a> og <a data-l10n-name="privacy">personvernbestemmelser</a>.
 onboarding-join-form-continue = Fortsett
 onboarding-start-browsing-button-label = Start nettlesing
+onboarding-cards-dismiss =
+    .title = Avslå
+    .aria-label = Avslå
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Ta med deg { -brand-product-name }
+onboarding-sync-welcome-content = Få dine bokmerker, historikk, passord, og andre innstillinger på alle enhetene dine.
+onboarding-sync-welcome-learn-more-link = Les mer om Firefox-konto
+onboarding-sync-form-invalid-input = Gyldig e-post er nødvendig
+onboarding-sync-legal-notice = Ved å fortsette, godtar du <a data-l10n-name="terms">Tjenestevilkår</a> og <a data-l10n-name="privacy">Personvernbestemmelser</a>.
+onboarding-sync-form-input =
+    .placeholder = E-post
+onboarding-sync-form-continue-button = Fortsett
+onboarding-sync-form-skip-login-button = Hopp over dette trinnet
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Skriv inn e-postadressen din
+onboarding-sync-form-sub-header = for å fortsette til { -sync-brand-name }.
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
