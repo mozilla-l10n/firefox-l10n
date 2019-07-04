@@ -35,6 +35,7 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-form-skip-login-button = Tremen ar bazenn-mañ
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
