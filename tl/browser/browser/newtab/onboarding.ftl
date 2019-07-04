@@ -18,6 +18,9 @@ onboarding-button-label-get-started = Magsimula
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Maligayang pagdating sa { -brand-short-name }
+onboarding-join-form-email =
+    .placeholder = Ipasok ang email
+onboarding-join-form-continue = Magpatuloy
 onboarding-start-browsing-button-label = Mag-simulang mag-browse
 onboarding-cards-dismiss =
     .title = Paalisin
@@ -43,6 +46,7 @@ onboarding-sync-form-sub-header = para magpatuloy sa { -sync-brand-name }
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-knowledge-title = Praktikal na Kaalaman
 
 ## These strings belong to the individual onboarding messages.
 
@@ -62,6 +66,8 @@ onboarding-ghostery-text = Mag-browse nang mas mabilis, mas wais, o mas ligtas n
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Sign up for a { -fxaccount-brand-name } and sync your bookmarks, passwords, and open tabs everywhere you use { -brand-short-name }.
+onboarding-tracking-protection-button2 = Paano Gumagana
+onboarding-data-sync-title = Dalhin Mo ang Iyong mga Setting
 
 ## Message strings belonging to the Return to AMO flow
 
