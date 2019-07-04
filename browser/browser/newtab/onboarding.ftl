@@ -3,12 +3,46 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
 
 onboarding-button-label-try-now = Ensajatz-lo
 onboarding-button-label-get-started = Per començar
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = La benvenguda a { -brand-short-name }
 onboarding-start-browsing-button-label = Començar de navegar
+onboarding-cards-dismiss =
+    .title = Tirar
+    .aria-label = Tirar
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Emportatz { -brand-product-name } amb vos
+onboarding-sync-welcome-content = Accedissètz als marcapaginas, istoric, senhals d’autres paramètres de totes vòstres periferics.
+onboarding-sync-welcome-learn-more-link = Mai d’explicacions tocant los comptes Firefox
+onboarding-sync-form-invalid-input = Cal una adreça electronica valida
+onboarding-sync-legal-notice = Se contunhatz, acceptatz las <a data-l10n-name="terms">Condicions d’utilizacion</a> e l’<a data-l10n-name="privacy">Avís de privacitat</a>.
+onboarding-sync-form-input =
+    .placeholder = Adreça electronica
+onboarding-sync-form-continue-button = Contunhar
+onboarding-sync-form-skip-login-button = Passar aquesta etapa
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Picatz vòstra adreça electronica
+onboarding-sync-form-sub-header = per contunhar amb { -sync-brand-name }.
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
 
 ## These strings belong to the individual onboarding messages.
 
