@@ -29,6 +29,15 @@ onboarding-join-form-email-error = Vnesite veljaven e-poštni naslov
 onboarding-join-form-legal = Z nadaljevanjem se strinjate s <a data-l10n-name="terms">pogoji uporabe</a> in z <a data-l10n-name="privacy">obvestilom o zasebnosti</a>.
 onboarding-join-form-continue = Nadaljuj
 onboarding-start-browsing-button-label = Začnite z brskanjem
+onboarding-cards-dismiss =
+    .title = Opusti
+    .aria-label = Opusti
+
+## Firefox Sync modal dialog strings.
+
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
