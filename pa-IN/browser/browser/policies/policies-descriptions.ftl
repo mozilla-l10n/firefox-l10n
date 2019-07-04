@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-AppUpdateURL = ਕਸਟਮ ਐਪ ਅਪਡੇਟ URL ਸੈੱਟ ਕਰੋ।
 policy-BlockAboutConfig = about:config ਸਫ਼ੇ ਲਈ ਪਹੁੰਚ ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ।
 policy-BlockAboutProfiles = about:profiles ਸਫ਼ੇ ਲਈ ਪਹੁੰਚ ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ।
 policy-CertificatesDescription = ਸਰਟੀਫਿਕੇਟ ਜੋੜੋ ਜਾਂ ਵਿਚੇ ਮੌਜੂਦ ਸਰਟੀਫਿਕੇਟ ਵਰਤੋਂ।
