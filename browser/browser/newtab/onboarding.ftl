@@ -29,6 +29,17 @@ onboarding-join-form-email-error = Valida retpoŝta adreso postulata
 onboarding-join-form-legal = Se vi daŭrigas, vi akceptas la <a data-l10n-name="terms">kondiĉojn de uzo</a> kaj la <a data-l10n-name="privacy">rimarkon pri privateco</a>.
 onboarding-join-form-continue = Daŭrigi
 onboarding-start-browsing-button-label = Komenci retumi
+onboarding-cards-dismiss =
+    .title = Ignori
+    .aria-label = Ignori
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-form-invalid-input = Valida retpoŝta adreso postulata
+onboarding-sync-legal-notice = Se vi daŭrigas vi akceptas la <a data-l10n-name="terms">kondiĉojn de uzo</a> kaj <a data-l10n-name="privacy">rimarkon pri privateco</a>.
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
