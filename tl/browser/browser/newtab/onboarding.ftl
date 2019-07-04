@@ -19,6 +19,15 @@ onboarding-button-label-get-started = Magsimula
 
 onboarding-welcome-header = Maligayang pagdating sa { -brand-short-name }
 onboarding-start-browsing-button-label = Mag-simulang mag-browse
+onboarding-cards-dismiss =
+    .title = Paalisin
+    .aria-label = Paalisin
+
+## Firefox Sync modal dialog strings.
+
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
