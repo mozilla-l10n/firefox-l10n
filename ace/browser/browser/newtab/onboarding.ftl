@@ -24,13 +24,20 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = { -brand-product-name } Kajeuet Neuba Sajan
+onboarding-sync-welcome-content = Neucôk bookmark droen, history, lageum rahsia dan neuatô laén nibak mandum peukakah droen.
 onboarding-sync-welcome-learn-more-link = Meurunoë lom bhah Akun Firefox
+onboarding-sync-form-invalid-input = Peureulé email nyang beutoi
+onboarding-sync-legal-notice = Meunyô neupeuhan, droen sapue kheun nibak <a data-l10n-name="terms">Peuteunté meuhirö</a> dan <a data-l10n-name="privacy">Peuphon brithéi</a>.
 onboarding-sync-form-input =
     .placeholder = Surel
 onboarding-sync-form-continue-button = Cahdan
+onboarding-sync-form-skip-login-button = Pinah ilé
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = Neupasoe email droen
+onboarding-sync-form-sub-header = sambông nibak Peuakô Firefox
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
