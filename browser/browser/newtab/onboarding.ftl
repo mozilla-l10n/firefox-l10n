@@ -3,11 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
+### UI strings for the simplified onboarding modal / about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## These button action text can be split onto multiple lines, so use explicit
+## newlines in translations to control where the line break appears (e.g., to
+## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = იხილეთ ვრცლად
 onboarding-button-label-try-now = გამოცადეთ ახლავე
 onboarding-button-label-get-started = დაწყება
+
+## Welcome modal dialog strings
+
 onboarding-welcome-header = მოგესალმებათ { -brand-short-name }
 onboarding-welcome-body = ბრაუზერი უკვე თქვენია.<br/>გაიცანით უკეთ { -brand-product-name }.
 onboarding-welcome-learn-more = იხილეთ, უპირატესობების შესახებ.
@@ -19,6 +29,26 @@ onboarding-join-form-email-error = აუცილებელია მარ�
 onboarding-join-form-legal = გაგრძელების შემთხვევაში, თქვენ ეთანხმებით <a data-l10n-name="terms">მომსახურების პირობებსა</a> და <a data-l10n-name="privacy">პირადი მონაცემების დაცვის განაცხადს</a>.
 onboarding-join-form-continue = გაგრძელება
 onboarding-start-browsing-button-label = დაიწყეთ მოგზაურობა ინტერნეტში
+onboarding-cards-dismiss =
+    .title = დამალვა
+    .aria-label = დამალვა
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = თან წაიყოლეთ { -brand-product-name }
+onboarding-sync-welcome-content = მიიღეთ წვდომა თქვენს სანიშნებთან, ისტორიასთან, პაროლებსა და სხვა პარამეტრებთან, ყველა თქვენს მოწყობილობაზე.
+onboarding-sync-welcome-learn-more-link = იხილეთ ვრცლად, Firefox-ანგარიშების შესახებ
+onboarding-sync-form-invalid-input = მართებული ელფოსტის მითითება აუცილებელია
+onboarding-sync-legal-notice = გაგრძელების შემთხვევაში, თქვენ ეთანხმებით <a data-l10n-name="terms">გამოყენების პირობებსა</a> და <a data-l10n-name="privacy">პირადი მონაცემების დაცვის განაცხადს</a>.
+onboarding-sync-form-input =
+    .placeholder = ელფოსტა
+onboarding-sync-form-continue-button = გაგრძელება
+onboarding-sync-form-skip-login-button = გამოტოვება
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = შეიყვანეთ თქვენი ელფოსტა
+onboarding-sync-form-sub-header = { -sync-brand-name }-ზე გადასასვლელად.
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
@@ -53,22 +83,10 @@ onboarding-ghostery-text = მოიძიეთ უფრო სწრაფა
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = სინქრონიზაცია
 onboarding-fxa-text = შექმენით { -fxaccount-brand-name } და დაასინქრონეთ თქვენი სანიშნები, პაროლები და გახსნილი ჩანართები ყველგან, სადაც გიყენიათ { -brand-short-name }.
-onboarding-tracking-protection-title = მართეთ მეთვალყურეთა შესაძლებლობები
-onboarding-tracking-protection-text = არ გსიამოვნებთ, რეკლამები თვალს რომ გადევნებთ? { -brand-short-name } დაგეხმარებათ თავად განსაზღვროთ, როგორ ექნება სარეკლამო საშუალებებს წვდომა თქვენს მოქმედებებზე.
-# "Update" is a verb, as in "Update the existing settings", not "Options about
-# updates".
-onboarding-tracking-protection-button =
-    { PLATFORM() ->
-        [windows] პარამეტრების შეცვლა
-       *[other] პარამეტრების შეცვლა
-    }
 onboarding-tracking-protection-title2 = თვალთვალისგან დაცვა
 onboarding-tracking-protection-text2 = { -brand-short-name } გეხმარებათ, აუკრძალოთ საიტებს თქვენი თვალთვალი ინტერნეტში, რაც ურთულებს რეკლამებს შესაძლებლობას, თვალი გადევნოთ ვებსივრცეში.
 onboarding-tracking-protection-button2 = როგორ მუშაობს
 onboarding-data-sync-title = წაიყოლეთ თქვენი პარამეტრები თან
-# "Sync" is short for synchronize.
-onboarding-data-sync-text = დაასინქრონეთ თქვენი სანიშნები და პაროლები ყველგან, სადაც გიყენიათ { -brand-product-name }.
-onboarding-data-sync-button = ჩართეთ { -sync-brand-short-name }
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = დაასინქრონეთ თქვენი სანიშნები, პაროლები და სხვა მონაცემები ყველგან, სადაც გიყენიათ { -brand-product-name }.
 onboarding-data-sync-button2 = გამოიყენეთ { -sync-brand-short-name }
@@ -79,7 +97,6 @@ onboarding-browse-privately-title = მოინახულეთ გვერ�
 onboarding-browse-privately-text = პირადი თვალიერების რეჟიმი ასუფთავებს თქვენ მიერ მოძიებულ და მონახულებულ გვერდებს და არ უმხელს მათ შესახებ, თქვენი კომპიუტერის სხვა მომხმარებლებს
 onboarding-browse-privately-button = პირადი ფანჯრის გახსნა
 onboarding-firefox-send-title = დატოვეთ გაზიარებული ფაილები საიდუმლოდ
-onboarding-firefox-send-text = { -send-brand-name } იცავს თქვენ მიერ გაზიარებულ ფაილებს გამჭოლი დაშიფვრითა და ბმულით, რომელიც თავისით გაუქმდება, ვადის ამოწურვისას.
 onboarding-firefox-send-text2 = ატვირთეთ თქვენი ფაილები, { -send-brand-name } კი გააზიარებს გამჭოლი დაშიფვრითა და ბმულით, რომელიც თავისით გაუქმდება, ვადის ამოწურვისას.
 onboarding-firefox-send-button = გამოცადეთ { -send-brand-name }
 onboarding-mobile-phone-title = გადმოწერეთ { -brand-product-name } თქვენს ტელეფონზე
@@ -93,17 +110,12 @@ onboarding-send-tabs-title = მყისიერად გადააგზ�
 onboarding-send-tabs-text = Send Tabs მყისიერად გააზიარებს გვერდებს თქვენს მოწყობილობებს შორის, ასლის აღების, ჩასმისა და ბრაუზერის დატოვების გარეშე.
 onboarding-send-tabs-button = გამოიყენეთ Send Tabs
 onboarding-pocket-anywhere-title = წაიკითხეთ და მოისმინეთ ნებისმიერ ადგილას
-# "downtime" refers to the user's free/spare time.
-onboarding-pocket-anywhere-text = { -pocket-brand-name } ინახავს თქვენს რჩეულ ამბებს, ასე რომ შეგიძლიათ წაიკითხოთ, მოისმინოთ ან უყუროთ თავისუფალ დროს, ხაზგარეშედაც.
 onboarding-pocket-anywhere-text2 = გადაინახეთ თქვენი რჩეული მასალები ხაზგარეშედ { -pocket-brand-name }-პროგრამით და წაიკითხეთ, მოისმინეთ ან უყურეთ ხელსაყრელ ადგილას.
 onboarding-pocket-anywhere-button = სცადეთ { -pocket-brand-name }
 onboarding-lockwise-passwords-title = წაიყოლეთ თქვენი პაროლები ყველგან
-onboarding-lockwise-passwords-text = { -lockwise-brand-name } ინახავს თქვენს პაროლებს უსაფრთხო ადგილას, შედეგად, მარტივად შეგეძლებათ საკუთარ ანგარიშებზე შესვლა.
-onboarding-lockwise-passwords-button = გადმოწერეთ { -lockwise-brand-name }
 onboarding-lockwise-passwords-text2 = შეინახეთ პაროლები უსაფრთხოდ და მარტივად შედით ანგარიშებზე, { -lockwise-brand-name }-ით.
 onboarding-lockwise-passwords-button2 = გადმოწერეთ
 onboarding-facebook-container-title = შემოსაზღვრეთ Facebook
-onboarding-facebook-container-text = { -facebook-container-brand-name } განაცალკევებს თქვენს Facebook-ვინაობას დანარჩენი გვერდებისგან, რაც გაურთულებს თქვენზე თვალის დევნებას, ვებსივრცეში.
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } განაცალკევებს თქვენს პროფილს დანარჩენი გვერდებისგან, რაც გაურთულებს Facebook-ს თქვენთვის მიზნობრივი რეკლამების შერჩევას.
 onboarding-facebook-container-button = გაფართოების დამატება
 
