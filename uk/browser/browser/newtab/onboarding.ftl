@@ -29,6 +29,15 @@ onboarding-join-form-email-error = Необхідна дійсна адреса 
 onboarding-join-form-legal = Продовжуючи, ви приймаєте <a data-l10n-name="terms">Умови користування</a> і <a data-l10n-name="privacy">Політику приватності</a>.
 onboarding-join-form-continue = Продовжити
 onboarding-start-browsing-button-label = Почати перегляд
+onboarding-cards-dismiss =
+    .title = Сховати
+    .aria-label = Сховати
+
+## Firefox Sync modal dialog strings.
+
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
