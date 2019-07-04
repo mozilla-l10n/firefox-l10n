@@ -19,6 +19,15 @@ onboarding-button-label-get-started = Tús Maith
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Fáilte go { -brand-short-name }
+onboarding-cards-dismiss =
+    .title = Ruaig
+    .aria-label = Ruaig
+
+## Firefox Sync modal dialog strings.
+
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
