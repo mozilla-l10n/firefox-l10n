@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
-
-
 ### UI strings for the simplified onboarding modal / about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -32,6 +29,26 @@ onboarding-join-form-email-error = Geldig e-mailadres vereist
 onboarding-join-form-legal = Door verder te gaan, gaat u akkoord met de <a data-l10n-name="terms">Servicevoorwaarden</a> en <a data-l10n-name="privacy">Privacyverklaring</a>.
 onboarding-join-form-continue = Doorgaan
 onboarding-start-browsing-button-label = Beginnen met browsen
+onboarding-cards-dismiss =
+    .title = Verwijderen
+    .aria-label = Verwijderen
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = Neem { -brand-product-name } met u mee
+onboarding-sync-welcome-content = Bereik uw bladwijzers, geschiedenis, wachtwoorden en andere instellingen op al uw apparaten.
+onboarding-sync-welcome-learn-more-link = Meer info over Firefox Accounts
+onboarding-sync-form-invalid-input = Geldig e-mailadres vereist
+onboarding-sync-legal-notice = Door verder te gaan, gaat u akkoord met de <a data-l10n-name="terms">Servicevoorwaarden</a> en <a data-l10n-name="privacy">Privacyverklaring</a>.
+onboarding-sync-form-input =
+    .placeholder = E-mailadres
+onboarding-sync-form-continue-button = Doorgaan
+onboarding-sync-form-skip-login-button = Deze stap overslaan
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Voer uw e-mailadres in
+onboarding-sync-form-sub-header = om door te gaan naar { -sync-brand-name }
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
@@ -66,22 +83,10 @@ onboarding-ghostery-text = Surf sneller, slimmer of veiliger met extensies zoals
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synchroniseren
 onboarding-fxa-text = Maak een { -fxaccount-brand-name } aan en synchroniseer uw bladwijzers, wachtwoorden en open tabbladen, overal waar u { -brand-short-name } gebruikt.
-onboarding-tracking-protection-title = Bepaal hoe u wordt gevolgd
-onboarding-tracking-protection-text = Vindt u het niet leuk als u wordt gevolgd door advertenties? Met { -brand-short-name } bepaalt u hoe adverteerders uw online activiteit bijhouden.
-# "Update" is a verb, as in "Update the existing settings", not "Options about
-# updates".
-onboarding-tracking-protection-button =
-    { PLATFORM() ->
-        [windows] Updateopties
-       *[other] Updatevoorkeuren
-    }
 onboarding-tracking-protection-title2 = Bescherming tegen volgen
 onboarding-tracking-protection-text2 = { -brand-short-name } helpt voorkomen dat websites u online volgen, waardoor het voor advertenties moeilijker wordt om u op het web te volgen.
 onboarding-tracking-protection-button2 = Hoe het werkt
 onboarding-data-sync-title = Neem uw instellingen met u mee
-# "Sync" is short for synchronize.
-onboarding-data-sync-text = Synchroniseer uw bladwijzers en wachtwoorden overal waar u { -brand-product-name } gebruikt.
-onboarding-data-sync-button = { -sync-brand-short-name } inschakelen
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Synchroniseer uw bladwijzers, wachtwoorden en meer, overal waar u { -brand-product-name } gebruikt.
 onboarding-data-sync-button2 = Aanmelden bij { -sync-brand-short-name }
@@ -92,7 +97,6 @@ onboarding-browse-privately-title = Privé browsen
 onboarding-browse-privately-text = Privénavigatie wist uw zoek- en navigatiegeschiedenis, om dit geheim te houden voor iedereen die uw computer gebruikt.
 onboarding-browse-privately-button = Open een privévenster
 onboarding-firefox-send-title = Houd uw gedeelde bestanden privé
-onboarding-firefox-send-text = { -send-brand-name } beschermt de bestanden die u deelt met end-to-endversleuteling en een koppeling die automatisch vervalt.
 onboarding-firefox-send-text2 = Upload uw bestanden naar { -send-brand-name } om ze te delen met end-to-endversleuteling en een koppeling die automatisch vervalt.
 onboarding-firefox-send-button = Probeer { -send-brand-name }
 onboarding-mobile-phone-title = Download { -brand-product-name } naar uw telefoon
@@ -106,17 +110,12 @@ onboarding-send-tabs-title = Stuur uzelf onmiddellijk tabbladen
 onboarding-send-tabs-text = Send Tabs deelt onmiddellijk pagina’s tussen uw apparaten zonder dat u hoeft te kopiëren, plakken of de browser hoeft te verlaten.
 onboarding-send-tabs-button = Start met het gebruik van Send Tabs
 onboarding-pocket-anywhere-title = Lees en luister overal
-# "downtime" refers to the user's free/spare time.
-onboarding-pocket-anywhere-text = { -pocket-brand-name } slaat uw favoriete verhalen op, zodat u tijdens uw vrije tijd kunt lezen, luisteren en bekijken, zelfs als u offline bent.
 onboarding-pocket-anywhere-text2 = Sla uw favoriete inhoud offline op met de { -pocket-brand-name }-app en lees, luister en kijk wanneer het u uitkomt.
 onboarding-pocket-anywhere-button = Probeer { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Neem uw wachtwoorden overal mee naartoe
-onboarding-lockwise-passwords-text = { -lockwise-brand-name } slaat uw wachtwoorden op een veilige plek op, zodat u zich eenvoudig bij uw accounts kunt aanmelden.
-onboarding-lockwise-passwords-button = Download { -lockwise-brand-name }
 onboarding-lockwise-passwords-text2 = Houd uw opgeslagen wachtwoorden veilig en meld u eenvoudig bij uw accounts aan met { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Download de app
 onboarding-facebook-container-title = Stel grenzen aan Facebook
-onboarding-facebook-container-text = { -facebook-container-brand-name } houdt uw Facebookidentiteit gescheiden van al het andere, waardoor u moeilijker op het web bent te volgen.
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } houdt uw profiel gescheiden van al het andere, waardoor Facebook u moeilijker met advertenties kan bestoken.
 onboarding-facebook-container-button = De extensie toevoegen
 
