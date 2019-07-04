@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## UI strings for the simplified onboarding modal
-
-
 ### UI strings for the simplified onboarding modal / about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
@@ -32,6 +29,15 @@ onboarding-join-form-email-error = Mae angen e-bost dilys
 onboarding-join-form-legal = Drwy barhau, rydych yn cytuno i'r <a data-l10n-name="terms">>Amodau Gwasanaeth</a> a'r <a data-l10n-name="privacy">Hysbysiad Preifatrwydd</a>.
 onboarding-join-form-continue = Parhau
 onboarding-start-browsing-button-label = Cychwyn Pori
+onboarding-cards-dismiss =
+    .title = Cau
+    .aria-label = Cau
+
+## Firefox Sync modal dialog strings.
+
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
@@ -66,22 +72,10 @@ onboarding-ghostery-text = Porwch yn gynt, yn glyfrach neu yn fwy diogel gydag e
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Cofrestrwch am { -fxaccount-brand-name } a chydweddu eich nodau tudalen, cyfrineiriau a thabiau agored ymhob man lle rydych yn defnyddio { -brand-short-name }.
-onboarding-tracking-protection-title = Rheoli Sut Rydych yn Cael eich Tracio
-onboarding-tracking-protection-text = Ddim yn  hoffi pan fydd hysbysebion yn eich dilyn o amgylch? Mae { -brand-short-name } yn eich helpu i reoli sut mae hysbysebwyr yn tracio eich gweithgaredd ar-lein.
-# "Update" is a verb, as in "Update the existing settings", not "Options about
-# updates".
-onboarding-tracking-protection-button =
-    { PLATFORM() ->
-        [windows] Dewisiadau Diweddaru
-       *[other] Dewisiadau Diweddaru
-    }
 onboarding-tracking-protection-title2 = Diogelu Rhag Tracio
 onboarding-tracking-protection-text2 = Mae { -brand-short-name } yn helpu i atal gwefannau rhag eich tracio ar-lein, gan ei gwneud yn anos i hysbysebion eich dilyn o gwmpas y we.
 onboarding-tracking-protection-button2 = Sut mae'n Gweithio
 onboarding-data-sync-title = Mynd â'ch Gosodiadau gyda Chi
-# "Sync" is short for synchronize.
-onboarding-data-sync-text = Cydweddwch eich nodau tudalen a'ch cyfrineiriau ym mhob man y byddwch yn defnyddio { -brand-product-name }.
-onboarding-data-sync-button = Trowch ymlaen { -sync-brand-short-name }
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Cydweddwch eich nodau tudalen, cyfrineiriau, a mwy ym mhob man y byddwch yn defnyddio { -brand-product-name }.
 onboarding-data-sync-button2 = Mewngofnodwch i { -sync-brand-short-name }
@@ -92,7 +86,6 @@ onboarding-browse-privately-title = Pori'n Breifat
 onboarding-browse-privately-text = Mae Pori Preifat yn clirio'ch hanes chwilio a phori er mwyn ei gadw'n gyfrinachol rhag unrhyw un sy'n defnyddio'ch cyfrifiadur.
 onboarding-browse-privately-button = Agor Ffenestr Breifat
 onboarding-firefox-send-title = Cadw eich Ffeiliau a Rennir yn breifat
-onboarding-firefox-send-text = Mae { -send-brand-name } yn gwarchod y ffeiliau rydych chi'n eu rhannu gydag amgryptio o'r dechrau i'r diwedd a dolen sy'n dod i ben yn awtomatig.
 onboarding-firefox-send-text2 = Llwythwch eich ffeiliau i fyny i { -send-brand-name } i'w rhannu gydag amgryptio o'r dechrau i'r diwedd a dolen sy'n dod i ben yn awtomatig.
 onboarding-firefox-send-button = Rhoi cynnig ar { -send-brand-name }
 onboarding-mobile-phone-title = Rhoi { -brand-product-name } ar Eich Ffôn
@@ -106,17 +99,12 @@ onboarding-send-tabs-title = Anfon Tabiau Atoch Chi eich Hun
 onboarding-send-tabs-text = Mae Anfon Tabiau yn rhannu tudalennau yn syth rhwng eich dyfeisiau heb orfod copïo, gludo na gadael y porwr.
 onboarding-send-tabs-button = Cychwyn Defnyddio Anfon Tabiau
 onboarding-pocket-anywhere-title = Darllen a Gwrando yn Unrhyw Le
-# "downtime" refers to the user's free/spare time.
-onboarding-pocket-anywhere-text = Mae { -pocket-brand-name } yn cadw eich hoff straeon fel y gallwch ddarllen, gwrando, a gwylio yn ystod eich amser hamdden, hyd yn oed os nad ydych chi ar-lein.
 onboarding-pocket-anywhere-text2 = Cadwch eich hoff gynnwys all-lein gyda'r Ap { -pocket-brand-name } a darllenwch, gwrandewch, a gwyliwch pryd bynnag y mae'n gyfleus i chi.
 onboarding-pocket-anywhere-button = Rhoi cynnig ar { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Mynd â'ch Cyfrineiriau i Bob Man
-onboarding-lockwise-passwords-text = Mae { -lockwise-brand-name } yn cadw'ch cyfrineiriau mewn man diogel er mwyn i chi allu mewngofnodi yn hawdd i'ch cyfrifon.
-onboarding-lockwise-passwords-button = Estyn { -lockwise-brand-name }
 onboarding-lockwise-passwords-text2 = Cadwch y cyfrineiriau rydych chi'n eu cadw'n ddiogel er mwyn mewngofnodi'n hawdd i'ch cyfrifon gyda { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Estyn yr Ap
 onboarding-facebook-container-title = Gosod Ffiniau i Facebook
-onboarding-facebook-container-text = Mae { -facebook-container-brand-name } yn cadw eich hunaniaeth Facebook ar wahân i bopeth arall, gan ei gwneud yn anos eich tracio ar draws y we.
 onboarding-facebook-container-text2 = Mae { -facebook-container-brand-name } yn cadw eich proffil ar wahân i bopeth arall, gan ei gwneud yn anos i Facebook eich targedu chi gyda hysbysebion.
 onboarding-facebook-container-button = Ychwanegu'r Estyniad
 
