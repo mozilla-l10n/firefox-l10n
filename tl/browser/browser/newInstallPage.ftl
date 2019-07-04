@@ -10,8 +10,12 @@
 title = Mahalagang Balita
 heading = Pagbabago sa iyong { -brand-short-name } profile
 changed-title = Ano ang nabago?
+changed-desc-profiles = Ang installation ng { -brand-short-name } ay may bagong profile. Ang profile ay ang pinagsamang mga files kung saan inilalagay ng Firefox ang mga impormasyong tulad ng mga bookmark, mga password, at mga kagustuhan ng gumagamit.
+changed-desc-dedicated = Upang mapadali at mas ligtas ang paglipat sa pagitan ng mga installation ng Firefox (kasama ang Firefox, Firefox ESR, Firefox beta, Firefox Developer Edition, at Firefox Nightly), ang installation na ito ay may nakatuong profile. Hindi ito agad nagbabahagi ng mga nakatagong impormasyon sa ibang installation.
 options-title = Ano ang pagpipilian?
+options-use-sync = Kung nais mong pareho ang iyong profile data sa lahat ng mga installation ng Firefox, gamitin ang { -fxaccount-brand-name } upang sila ay mag-sync.
 resources = Mga mapagkukunan:
+support-link = Ang paggamit ng Profile Manager - Support Article
 sync-header = Mag-sign in o lumikha ng { -fxaccount-brand-name }
 sync-label = Ilagay ang iyong email
 sync-input =

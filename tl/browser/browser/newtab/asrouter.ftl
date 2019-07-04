@@ -54,3 +54,6 @@ cfr-doorhanger-pintab-animation-resume = Ipagpatuloy
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-header = I-sync mo ang mga bookmark mo kahit saan.
+cfr-doorhanger-bookmark-fxa-body = Magaling! Ngayon huwag kang magpaiwan nang wala ang bookmark na ito sa mga mobile devices mo. Simulan mo sa pamamagitan ng { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-link-text = I-sync na ang mga bookmark...
