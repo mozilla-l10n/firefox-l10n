@@ -35,9 +35,20 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = Awi { -brand-product-name } yid-k
+onboarding-sync-welcome-content = Awi ticraḍ-ik n yisebtar, amazray-ik, awalen-ik uffiren d yiɣewwaṛen-nniḍen ɣef ibenkan-ik meṛṛa.
+onboarding-sync-welcome-learn-more-link = Issin ugar ɣef Firefox Accounts
+onboarding-sync-form-invalid-input = Imayl ameɣtu ilaq
+onboarding-sync-legal-notice = Ma tkemmleḍ, ad tqebleḍ <a data-l10n-name="terms">Tiwtilin n useqdec</a> d <a data-l10n-name="privacy">Tasertit n tbaḍnit</a>.
+onboarding-sync-form-input =
+    .placeholder = Imayl
+onboarding-sync-form-continue-button = Kemmel
+onboarding-sync-form-skip-login-button = Zgel amecwaṛ-agi
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = Sekcem imayl inek
+onboarding-sync-form-sub-header = akken ad tkemleḍ akked { -sync-brand-name }
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
