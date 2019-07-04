@@ -29,6 +29,15 @@ onboarding-join-form-email-error = Ilaq imayl yeɣtin
 onboarding-join-form-legal = Ma tkemmleḍ, ad tqebleḍ <a data-l10n-name="terms">Tiwtilin-nneɣ n useqdec</a> akked <a data-l10n-name="privacy">Tsertit-nneɣ tabaḍnit</a>.
 onboarding-join-form-continue = Kemmel
 onboarding-start-browsing-button-label = Bdu tunigin
+onboarding-cards-dismiss =
+    .title = Kkes
+    .aria-label = Kkes
+
+## Firefox Sync modal dialog strings.
+
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
