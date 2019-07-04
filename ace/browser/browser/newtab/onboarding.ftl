@@ -22,6 +22,8 @@ onboarding-start-browsing-button-label = Mulai Seumeulop
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-learn-more-link = Meurunoë lom bhah Akun Firefox
+onboarding-sync-form-input =
+    .placeholder = Surel
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
