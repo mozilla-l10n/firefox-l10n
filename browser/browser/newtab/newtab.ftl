@@ -23,6 +23,7 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = శోధన యంత్రాన్ని జోడించండి
 newtab-topsites-add-topsites-header = కొత్త మేటి సైటు
 newtab-topsites-edit-topsites-header = టాప్ సైట్ను సవరించండి
 newtab-topsites-title-label = శీర్షిక
@@ -121,6 +122,7 @@ newtab-section-menu-expand-section = విభాగాన్ని విస్
 newtab-section-menu-manage-section = విభాగ నిర్వహణ
 newtab-section-menu-manage-webext = పొడగింత నిర్వహణ
 newtab-section-menu-add-topsite = మేటి సైటును చేర్చు
+newtab-section-menu-add-search-engine = శోధన యంత్రాన్ని జోడించండి
 newtab-section-menu-move-up = పైకి జరుపు
 newtab-section-menu-move-down = కిందకి జరుపు
 newtab-section-menu-privacy-notice = అంతరంగికత గమనిక
@@ -147,6 +149,7 @@ newtab-empty-section-topstories = మీరు పట్టుబడ్డార
 newtab-pocket-read-more = ప్రముఖ అంశాలు:
 newtab-pocket-more-recommendations = మరిన్ని సిఫారసులు
 newtab-pocket-how-it-works = ఇది ఎలా పనిచేస్తుంది
+newtab-pocket-cta-button = { -pocket-brand-name } పొందండి
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = వెబ్‌సైట్లను వెతకండి
+permissions-capabilities-autoplay-block =
+    .label = ఆడియోను నిరోధించు
+permissions-capabilities-autoplay-blockall =
+    .label = ఆడియో మరియు వీడియోను నిరోధించు
 permissions-capabilities-allow =
     .label = అనుమతించు
 permissions-capabilities-block =
@@ -46,8 +50,6 @@ permissions-capabilities-listitem-allow =
     .value = అనుమతించు
 permissions-capabilities-listitem-block =
     .value = నిరోధించు
-permissions-capabilities-listitem-allow-first-party =
-    .value = మొదటి పార్టీ మాత్రమే అనుమతించు
 permissions-capabilities-listitem-allow-session =
     .value = సెషనుకి అనుమతించు
 
@@ -58,10 +60,6 @@ permissions-invalid-uri-label = దయచేసి సరైన హోస్ట�
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = మినహాయింపులు - ట్రాకింగ్ సంరక్షణ
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = ఈ వెబ్‌సైట్లలో మీరు ట్రాకింగ్ సంరక్షణను అచేతనించారు.
 permissions-exceptions-content-blocking-window =
     .title = మినహాయింపులు - విషయ నిరోధం
     .style = { permissions-window.style }
@@ -99,6 +97,9 @@ permissions-exceptions-addons-desc = పొడిగింతలను స్థ
 permissions-exceptions-autoplay-media-window2 =
     .title = మినహాయింపులు - స్వీయారంభం
     .style = { permissions-window.style }
+
+## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
