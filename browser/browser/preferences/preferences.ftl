@@ -522,6 +522,7 @@ sync-device-name-save =
     .label = భద్రపరచు
     .accesskey = v
 sync-manage-devices = పరికరాల నిర్వహణ
+sync-fxa-begin-pairing = ఒక పరికరాన్ని జతచేయి
 sync-tos-link = సేవా నిబంధనలు
 sync-fxa-privacy-notice = గోప్యతా నోటీసు
 
@@ -613,6 +614,9 @@ sitedata-clear =
 sitedata-settings =
     .label = డేటాని నిర్వహించండి…
     .accesskey = M
+sitedata-cookies-permissions =
+    .label = అనుమతులను నిర్వహించండి…
+    .accesskey = P
 
 ## Privacy Section - Address Bar
 
@@ -702,6 +706,10 @@ permissions-notification-link = ఇంకా తెలుసుకోండి
 permissions-block-autoplay-media-exceptions =
     .label = మినహాయింపులు…
     .accesskey = E
+permissions-autoplay = స్వీయారంభం
+permissions-autoplay-settings =
+    .label = అమరికలు…
+    .accesskey = t
 permissions-block-popups =
     .label = పాప్-అప్ విండోలను నిరోధించు
     .accesskey = B
