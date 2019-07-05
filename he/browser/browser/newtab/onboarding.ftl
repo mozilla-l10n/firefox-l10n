@@ -38,7 +38,7 @@ onboarding-sync-welcome-header = { -brand-product-name } אתך בדרכים
 onboarding-sync-welcome-content = קבלת המועדפים, ההיסטוריה, הססמאות והגדרות נוספות בכל המכשירים שלך.
 onboarding-sync-welcome-learn-more-link = מידע נוסף על חשבונות Firefox
 onboarding-sync-form-invalid-input = נדרשת כתובת דוא״ל חוקית
-onboarding-sync-legal-notice = בחירתך להמשיך בתהליך מהווה את הסכמתך ל<a data-l10n-name="terms">תנאי השירות</a> ול<a data-l10n-name="privacy">הצהרת הפרטיות</a>.
+onboarding-sync-legal-notice = בחירה בהמשך התהליך מהווה את הסכמתך ל<a data-l10n-name="terms">תנאי השירות</a> ול<a data-l10n-name="privacy">הצהרת הפרטיות</a>.
 onboarding-sync-form-input =
     .placeholder = דוא״ל
 onboarding-sync-form-continue-button = המשך

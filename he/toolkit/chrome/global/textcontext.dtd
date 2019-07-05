@@ -29,6 +29,8 @@
 
 <!ENTITY fillLoginMenu.label          "מילוי פרטי כניסה">
 <!ENTITY fillLoginMenu.accesskey      "מ">
+<!ENTITY fillSuggestedPassword.label  "שימוש בססמה מוצעת">
+<!ENTITY fillSuggestedPassword.accesskey "ש">
 <!ENTITY fillPasswordMenu.label       "מילוי ססמה">
 <!ENTITY fillPasswordMenu.accesskey   "מ">
 <!ENTITY fillUsernameMenu.label       "מילוי שם משתמש">
