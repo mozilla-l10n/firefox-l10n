@@ -19,52 +19,6 @@
 <!ENTITY navbarOverflow.label                "더 많은 도구…">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "탭 새로 고침">
-<!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  selectAllTabs.label                "모든 탭 선택">
-<!ENTITY  selectAllTabs.accesskey            "S">
-<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTab.label                 "탭 복제">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTab.accesskey             "D">
-<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTabs.label                "탭 복제">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTabs.accesskey            "D">
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "오른쪽에 있는 탭 모두 닫기">
-<!ENTITY  closeTabsToTheEnd.accesskey        "i">
-<!ENTITY  closeOtherTabs.label               "다른 탭 모두 닫기">
-<!ENTITY  closeOtherTabs.accesskey           "o">
-
-<!ENTITY  closeTabs.label                    "탭 닫기">
-<!ENTITY  closeTabs.accesskey                "S">
-<!ENTITY  pinSelectedTabs.label              "탭 고정">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinSelectedTabs.accesskey          "P">
-<!ENTITY  unpinSelectedTabs.label            "탭 고정 해제">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinSelectedTabs.accesskey        "b">
-<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadTabs.label                   "탭 새로 고침">
-<!ENTITY  reloadTabs.accesskey               "R">
-<!ENTITY  bookmarkSelectedTabs.label         "탭 북마크…">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkSelectedTabs.accesskey     "k">
-
-<!-- Tab context menu -->
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -85,28 +39,8 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "링크를 기기로 보내기">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
-<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
-These two items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  moveTabOptions.label               "탭 이동">
-<!ENTITY  moveTabOptions.accesskey           "v">
-<!ENTITY  moveSelectedTabOptions.label       "탭 이동">
-<!ENTITY  moveSelectedTabOptions.accesskey   "v">
-<!ENTITY  moveToStart.label                  "처음으로 이동">
-<!ENTITY  moveToStart.accesskey              "S">
-<!ENTITY  moveToEnd.label                    "끝으로 이동">
-<!ENTITY  moveToEnd.accesskey                "E">
-<!ENTITY  moveToNewWindow.label              "새 창으로 이동">
-<!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  reopenInContainer.label            "컨테이너에서 다시 열기">
-<!ENTITY  reopenInContainer.accesskey        "e">
-<!ENTITY  bookmarkTab.label                  "탭 북마크">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkTab.accesskey              "B">
-<!ENTITY  undoCloseTab.label                 "닫았던 탭 다시 열기">
+<!ENTITY  undoCloseTab.label                 "닫은 탭 다시 열기">
 <!ENTITY  undoCloseTab.accesskey             "U">
-<!ENTITY  closeTab.label                     "탭 닫기">
-<!ENTITY  closeTab.accesskey                 "c">
 <!ENTITY  hiddenTabs.label                   "숨겨진 탭">
 
 <!ENTITY  listAllTabs.label      "탭 전체 목록">
@@ -145,31 +79,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "북마크 모음">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "북마크 모음 항목">
-
-<!ENTITY toolbarContextMenu.reloadSelectedTab.label "선택한 탭 새로고침">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "R">
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "선택한 탭 새로고침">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "R">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "선택한 탭 북마크하기…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "T">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "선택한 탭 북마크하기…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
-<!ENTITY toolbarContextMenu.selectAllTabs.label "모든 탭 선택">
-<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "S">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "닫은 탭 다시 열기">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "페이지 소스">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -234,7 +143,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signedInAs.label "로그인 됨">
 <!ENTITY fxa.menu.manageAccount.label "계정 관리…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; 설정…">
-<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "다른 기기 연결…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -340,7 +248,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasBlocked.tooltip            "이 사이트의 캔바스 데이터 추출을 차단하였습니다.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "이 사이트에서 Adobe Flash 플러그인을 사용할 수 없게 설정하였습니다.">
 <!ENTITY urlbar.midiBlocked.tooltip              "이 사이트의 MIDI 접근을 차단하였습니다.">
-
 <!ENTITY urlbar.installBlocked.tooltip           "이 사이트의 부가 기능 설치를 차단했습니다.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "방문 목록 보기">
@@ -530,7 +437,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
 <!ENTITY customizeMenu.removeExtension.label "확장 기능 제거">
 <!ENTITY customizeMenu.removeExtension.accesskey "v">
-
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
@@ -885,7 +791,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "안전한 &brandShortName; 페이지입니다.">
 <!ENTITY identity.extensionPage "이 페이지는 확장 기능으로부터 로드되었습니다.">
 <!ENTITY identity.insecureLoginForms2 "이 페이지에 입력된 로그인 정보는 노출될 수 있습니다.">
-
 <!ENTITY identity.customRoot "Mozilla에서 인식하지 못하는 인증서 발급자가 연결을 확인했습니다.">
 
 <!-- Strings for connection state warnings. -->
@@ -905,7 +810,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "&brandShortName;가 일부 콘텐츠를 차단했지만 아직 안전하지 않은 컨텐츠(이미지 등)가 있습니다.">
 <!ENTITY identity.description.activeLoaded "이 웹사이트는 안전하지 않은 콘텐츠(스크립트 등)를 포함하고 있고 사용자의 연결이 보호되지 않습니다.">
 <!ENTITY identity.description.activeLoaded2 "이 사이트에 공유하는 정보(비밀번호, 메시지, 신용 카드 번호 등)를 다른사람이 볼 수 있습니다.">
-
 <!ENTITY identity.description.customRoot "Mozilla는 이 인증서 발급자를 인식하지 못합니다. 운영 체제 또는 관리자가 추가한 것일 수 있습니다.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "보호 켜기">
@@ -936,40 +840,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "동기화한 탭">
 
 <!ENTITY syncedTabs.sidebar.label              "동기화한 탭">
-<!ENTITY syncedTabs.sidebar.noclients.label    "다른 기기의 탭을 이곳에서도 보려면 그 기기의 Firefox에 로그인하십시오.">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "다른 기기에서도 여기에서 열린 탭을 사용하시겠습니까?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "다른 기기의 탭 목록을 보기 위해서 로그인 하세요.">
-<!ENTITY syncedTabs.sidebar.unverified.label   "계정 확인이 필요합니다.">
-<!ENTITY syncedTabs.sidebar.notabs.label       "열린 탭이 없음">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; 설정 열기">
-<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
-     when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "다른 기기의 탭 목록을 보려면 탭 동기화를 켜십시오.">
-<!ENTITY syncedTabs.sidebar.searchPlaceholder  "동기화된 탭 검색">
-<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "다른 기기 연결">
-
-<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
-                        syncedTabs.context.openAllInTabs.accesskey):
-     These access keys are identical because their associated menu items are
-     mutually exclusive -->
-<!ENTITY syncedTabs.context.open.label                       "열기">
-<!ENTITY syncedTabs.context.open.accesskey                   "O">
-<!ENTITY syncedTabs.context.openInNewTab.label               "새 탭에서 열기">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "새 창에서 열기">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "새 사생활 보호 창에서 열기">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "이 탭 북마크…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
-<!ENTITY syncedTabs.context.copy.label                       "복사">
-<!ENTITY syncedTabs.context.copy.accesskey                   "C">
-
-<!ENTITY syncedTabs.context.openAllInTabs.label              "탭에서 모두 열기">
-<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
-<!ENTITY syncedTabs.context.managedevices.label              "기기 관리…">
-<!ENTITY syncedTabs.context.managedevices.accesskey          "D">
-
 
 <!ENTITY syncBrand.shortName.label    "동기화">
 
@@ -981,42 +851,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label;에 다시 연결…">
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "동기화">
-
-<!ENTITY customizeMode.menuAndToolbars.header3 "좋아하는 항목을 도구모음이나 더 보기 메뉴에 드래그 하세요.">
-<!ENTITY customizeMode.restoreDefaults "기본값으로 복원">
-<!ENTITY customizeMode.done "완료">
-<!ENTITY customizeMode.titlebar "제목창">
-<!ENTITY customizeMode.extraDragSpace "드래그 공간">
-<!ENTITY customizeMode.toolbars2 "도구 모음">
-<!ENTITY customizeMode.lwthemes "테마">
-<!ENTITY customizeMode.lwthemes.myThemes "내 테마">
-<!ENTITY customizeMode.lwthemes.recommended "추천">
-<!ENTITY customizeMode.lwthemes.menuManage "관리">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
-<!ENTITY customizeMode.lwthemes.menuGetMore "더 많은 테마 구하기">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.overflowList.title2 "더 보기 메뉴">
-<!ENTITY customizeMode.overflowList.description "도구 모음에서는 빼지만 계속 사용할 수 있게 항목을 여기에 끌어다 놓으십시오…">
-<!ENTITY customizeMode.uidensity "밀도">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
-     “Normal” is displayed in the Customize screen, under the Density menu. -->
-<!ENTITY customizeMode.uidensity.menuNormal.label "보통">
-<!ENTITY customizeMode.uidensity.menuNormal.tooltip "보통">
-<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
-     “Compact” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Compact). -->
-<!ENTITY customizeMode.uidensity.menuCompact.label "조밀함">
-<!ENTITY customizeMode.uidensity.menuCompact.tooltip "조밀함">
-<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
-     “Touch” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Touch), and it means that control layout is
-     optimized for touch devices. -->
-<!ENTITY customizeMode.uidensity.menuTouch.label "터치">
-<!ENTITY customizeMode.uidensity.menuTouch.tooltip "터치">
-<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
-<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "태블릿 모드에서 터치 사용">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "자동 숨기기">
 
@@ -1084,27 +918,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "닫기">
 
-<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
-     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
-     Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "지난 시간을 삭제합니다:">
-<!ENTITY panicButton.view.5min                    "5분">
-<!ENTITY panicButton.view.2hr                     "2시간">
-<!ENTITY panicButton.view.day                     "24시간">
-
-<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
-     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
-     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
-     The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "다음을 진행합니다:">
-<!ENTITY panicButton.view.deleteCookies           "최근 <html:strong>쿠키</html:strong> 삭제">
-<!ENTITY panicButton.view.deleteHistory           "최근 <html:strong>방문기록</html:strong> 삭제">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "모든 <html:strong>탭</html:strong>과 <html:strong>창</html:strong> 닫기">
-<!ENTITY panicButton.view.openNewWindow           "빈 새로운 창 열기">
-
-<!ENTITY panicButton.view.undoWarning             "이 작업은 취소할 수 없습니다.">
-<!ENTITY panicButton.view.forgetButton            "삭제!">
-
 <!ENTITY panicButton.thankyou.msg1                "최근 방문기록이 삭제되었습니다.">
 <!ENTITY panicButton.thankyou.msg2                "안전한 브라우징!">
 <!ENTITY panicButton.thankyou.buttonlabel         "감사합니다!">
@@ -1112,31 +925,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "DRM에 대해 더 알아보기…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "가장 빠르고 안전한 &brandShorterName;로 업데이트하십시오.">
-<!ENTITY updateAvailable.whatsnew.label "새 기능 살펴보기.">
-<!ENTITY updateAvailable.header.message "새 &brandShorterName; 업데이트가 있습니다.">
-<!ENTITY updateAvailable.acceptButton.label "업데이트 내려받기">
-<!ENTITY updateAvailable.acceptButton.accesskey "D">
-<!ENTITY updateAvailable.cancelButton.label "바로 안함">
-<!ENTITY updateAvailable.cancelButton.accesskey "N">
-
 <!ENTITY updateAvailable.panelUI.label "&brandShorterName; 업데이트 내려받기">
-
-<!ENTITY updateManual.message "깨끗한 새 &brandShorterName;를 내려받으시면 그걸 어떻게 설치하는지 알려드리겠습니다.">
-<!ENTITY updateManual.whatsnew.label "새 기능 살펴보기.">
-<!ENTITY updateManual.header.message "&brandShorterName; 를 최신 버전으로 업데이트할 수 없습니다.">
-<!ENTITY updateManual.acceptButton.label "&brandShorterName; 내려받기">
-<!ENTITY updateManual.acceptButton.accesskey "D">
-<!ENTITY updateManual.cancelButton.label "바로 안함">
-<!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "&brandShorterName; 의 새 복사본 다운로드">
-
-<!ENTITY updateRestart.message2 "재시작 후 &brandShorterName;가 사생활 보호 모드에 있지 않은 모든 열려있는 탭과 창을 복원합니다.">
-<!ENTITY updateRestart.header.message2 "&brandShorterName;를 닫고 다시 열어 업데이트를 합니다.">
-<!ENTITY updateRestart.acceptButton.label "재시작하여 복원하기">
-<!ENTITY updateRestart.acceptButton.accesskey "R">
-<!ENTITY updateRestart.cancelButton.label "바로 안함">
-<!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateUnsupported.panelUI.label "추가 업데이트를 수행할 수 없습니다">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; 업데이트를 위해 재시작">
 
@@ -1176,18 +966,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "접근성 기능 활성화됨">
-
-<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
-     The first <image> tag is replaced with the icon for the add-ons menu.
-     The second <image> tag is replaced with the icon for the toolbar menu. -->
-<!ENTITY addonPostInstallMessage.label "<image class='addon-toolbar-icon'/> 메뉴에서 <image class='addon-addon-icon'/> 아이콘을 눌러서 부가 기능을 관리하세요.">
-<!ENTITY addonPostInstall.incognito.checkbox.label "이 확장 기능이 사생활 보호 창에서 실행되도록 허용합니다">
-<!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
-
-<!ENTITY addonPrivateBrowsing.header2.label "사생활 보호 창 관련 확장기능 변경 사항">
-<!ENTITY addonPrivateBrowsing.body2.label "&brandShorterName;에 추가되는 모든 새 확장 기능은 사용자가 설정에서 허용하지 않는 한 사생활 보호 모드에서 작동하지 않습니다.">
-<!ENTITY addonPrivateBrowsing.learnMore.label "확장 기능 설정 관리 방법에 대해 알아봅니다.">
-<!ENTITY addonPrivateBrowsing.okButton.label "네, 알겠습니다">
-<!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
-<!ENTITY addonPrivateBrowsing.manageButton.label "확장기능 관리">
-<!ENTITY addonPrivateBrowsing.manageButton.accesskey "M">
