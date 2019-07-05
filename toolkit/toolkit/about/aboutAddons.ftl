@@ -304,8 +304,8 @@ preferences-addon-button =
 details-addon-button = Dettagli
 release-notes-addon-button = Note di versione
 permissions-addon-button = Permessi
-addons-enabled-heading = Attivo
-addons-disabled-heading = Disattivato
+addons-enabled-heading = Elementi attivo
+addons-disabled-heading = Elementi disattivati
 
 ask-to-activate-button = Chiedi prima di attivare
 always-activate-button = Attiva sempre
