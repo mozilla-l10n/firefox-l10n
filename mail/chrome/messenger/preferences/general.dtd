@@ -38,3 +38,7 @@
 <!ENTITY browse.accesskey                 "e">
 
 <!ENTITY defaultSearchEngine.label        "Maschina da tschertgar da standard">
+<!ENTITY addSearchEngine.label            "Agiuntar cun datoteca">
+<!ENTITY addSearchEngine.accesskey        "A">
+<!ENTITY removeSearchEngine.label         "Allontanar">
+<!ENTITY removeSearchEngine.accesskey     "o">
