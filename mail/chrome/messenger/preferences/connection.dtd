@@ -38,6 +38,10 @@
 <!ENTITY  noproxy.label                 "Sem proxy para:">
 <!ENTITY  noproxy.accesskey             "S">
 <!ENTITY  noproxyExplain.label          "Exemplo: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
+  localhost, 127.0.0.1 and ::1.
+-->
+<!ENTITY  noproxyLocalhostDesc.label   "Conexões para localhost, 127.0.0.1 e ::1 não passam por proxy.">
 <!ENTITY  shareproxy.label              "Usar este proxy para todos os protocolos">
 <!ENTITY  shareproxy.accesskey          "x">
 <!ENTITY  autologinproxy.label          "Não pedir confirmação de autenticação se senha estiver memorizada">
