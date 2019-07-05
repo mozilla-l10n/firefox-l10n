@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+toolbar-context-menu-reload-selected-tab =
+    .label = ఎంచుకున్న ట్యాబును తిరిగి లోడు చేయండి
+    .accesskey = R
+toolbar-context-menu-reload-selected-tabs =
+    .label = ఎంచుకున్న ట్యాబులను తిరిగి లోడు చేయండి
+    .accesskey = R
 toolbar-context-menu-select-all-tabs =
     .label = అన్ని ట్యాబులను ఎంచుకో
     .accesskey = S

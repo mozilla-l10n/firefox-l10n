@@ -19,50 +19,6 @@
 <!ENTITY navbarOverflow.label                "మరిన్ని పనిముట్లు…">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "ట్యాబుని మళ్ళీ లోడుచేయి">
-<!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  selectAllTabs.label                "ట్యాబులన్నీ ఎంచుకో">
-<!ENTITY  selectAllTabs.accesskey            "S">
-<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTab.label                 "ట్యాబుని నకలుతీయి">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTab.accesskey             "D">
-<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTabs.accesskey            "D">
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "కుడివైపు ట్యాబులను మూసివేయి">
-<!ENTITY  closeTabsToTheEnd.accesskey        "i">
-<!ENTITY  closeOtherTabs.label               "మిగతా ట్యాబులను మూసివేయి">
-<!ENTITY  closeOtherTabs.accesskey           "o">
-
-<!ENTITY  closeTabs.label                    "ట్యాబులను మూసివేయి">
-<!ENTITY  closeTabs.accesskey                "S">
-<!ENTITY  pinSelectedTabs.label              "ట్యాబులను పిన్ చేయి">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinSelectedTabs.accesskey          "P">
-<!ENTITY  unpinSelectedTabs.label            "ట్యాబుల పిన్ను తీసేయి">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinSelectedTabs.accesskey        "b">
-<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadTabs.accesskey               "R">
-<!ENTITY  bookmarkSelectedTabs.label         "ట్యాబులను ఇష్టాంశాలు చేయి…">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkSelectedTabs.accesskey     "k">
-
-<!-- Tab context menu -->
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -83,28 +39,14 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "లంకెను పరికరానికి పంపు">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
-<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
-These two items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  moveTabOptions.accesskey           "v">
-<!ENTITY  moveSelectedTabOptions.accesskey   "v">
-<!ENTITY  moveToStart.accesskey              "S">
-<!ENTITY  moveToEnd.accesskey                "E">
-<!ENTITY  moveToNewWindow.label              "కొత్త విండోకి తరలించు">
-<!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  reopenInContainer.label            "కంటెయినర్లో తెరువు">
-<!ENTITY  reopenInContainer.accesskey        "e">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkTab.accesskey              "B">
 <!ENTITY  undoCloseTab.label                 "మూసిన ట్యాబుని తిరిగి తెరువు">
 <!ENTITY  undoCloseTab.accesskey             "U">
-<!ENTITY  closeTab.label                     "ట్యాబుని మూసివేయి">
-<!ENTITY  closeTab.accesskey                 "C">
 <!ENTITY  hiddenTabs.label                   "దాచిన ట్యాబులు">
 
 <!ENTITY  listAllTabs.label      "అన్ని ట్యాబుల జాబితా చూపించు">
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
+<!ENTITY  allTabsMenu.searchTabs.label       "ట్యాబులలో వెతకండి">
 
 <!ENTITY tabCmd.label "కొత్త ట్యాబు">
 <!ENTITY tabCmd.accesskey "T">
@@ -135,27 +77,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "ఇష్టాంశాల పట్టీ">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "ఇష్టాంశాల పట్టీ అంశాలు">
-
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "R">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "R">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "T">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
-<!ENTITY toolbarContextMenu.selectAllTabs.label "అన్ని ట్యాబులను ఎంచుకో">
-<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "S">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "మూసిన ట్యాబుని తిరిగి తెరువు">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "పేజీ మూలం">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -214,7 +135,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.manageAccount.label "ఖాతాను నిర్వహించు…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; అమరికలు…">
-<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -313,7 +233,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasBlocked.tooltip            "ఈ వెబ్‌సైటుని కాన్వాస్ డేటా వెలికితీయకుండా మీరు నిరోధించారు.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "అడోబి ఫ్లాష్ చొప్పింతను వాడనీయకుండా ఈ వెబ్‌సైటును మీరు నిరోధించారు.">
 <!ENTITY urlbar.midiBlocked.tooltip              "MIDI సౌలభ్యాన్ని పొందకుండా ఈ వెబ్‌సైటుని మీరు నిరోధించారు.">
-
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "చరిత్రను చూపించు">
 
@@ -496,7 +415,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.label "పొడగింత నిర్వహణ">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
 <!ENTITY customizeMenu.removeExtension.accesskey "v">
-
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
@@ -845,7 +763,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "ఈ పేజీ ఒక పొడగింత నుండి తెరవబడింది.">
 <!ENTITY identity.insecureLoginForms2 "ఈ పేజీలో మీరు ఇచ్చే లాగిన్లు రాజీపడవచ్చు.">
 
-
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "ఈ పేజీలో సురక్షితంకాని భాగాలను &brandShortName; నిరోధించింది.">
 <!ENTITY identity.passiveLoaded "ఈ పేజీలోని కొన్ని భాగాలు సురక్షితమైనవి కావు (బొమ్మల వంటివి).">
@@ -863,7 +780,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "&brandShortName; కొంత కాంటెంట్‌ను నిరోధించినప్పటికీ, ఇంకా ఈ పేజీలో సురక్షితం కాని కాంటెంట్ ఉంది (బొమ్మల వంటివి).">
 <!ENTITY identity.description.activeLoaded "ఈ వెబ్‌సైట్ సురక్షితం కాని కాంటెంట్‌ను కలిగివుంది (స్క్రిప్టుల వంటివి) మరియు దానికి మీరు గుట్టుగా అనుసంధానంకాలేదు.">
 <!ENTITY identity.description.activeLoaded2 "ఈ సైటుతో మీరు పంచుకునే సమాచారాన్ని ఇతరులు చూడవచ్చు (సంకేతపదాలు, సందేశాలు, క్రెడిట్ కార్డులు, మొదలైనవి).">
-
 
 <!ENTITY identity.enableMixedContentBlocking.label "రక్షణను చేతనించు">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
@@ -892,40 +808,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "సింకైన ట్యాబులు">
 
 <!ENTITY syncedTabs.sidebar.label              "సింకైన ట్యాబులు">
-<!ENTITY syncedTabs.sidebar.noclients.label    "మీ ఇతర పరికరాల లోని ట్యాబులను ఇక్కడ చూడడానికి వాటిలో Firefox లోనికి ప్రవేశించండి.">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "మీ ఇతర పరికరాలోని ట్యాబులను ఇక్కడ చూడాలనుకుంటున్నారా?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "మీ ఇతర పరికరాల లోని ట్యాబుల జాబితా చూడడానికి ప్రవేశించండి.">
-<!ENTITY syncedTabs.sidebar.unverified.label   "మీ ఖాతాను తనిఖీ చెయ్యాలి.">
-<!ENTITY syncedTabs.sidebar.notabs.label       "తెరిచివున్న ట్యాబులు లేవు">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; అభిరుచులు తెరువు">
-<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
-     when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "మీ ఇతర పరికరాల లోని ట్యాబుల జాబితాను చూడటానికి ట్యాబుల సింకింగుని చేతనం చెయ్యండి.">
-<!ENTITY syncedTabs.sidebar.searchPlaceholder  "సింకైన ట్యాబులలో వెతకండి">
-<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "మరొక పరికరాన్ని అనుసంధానించండి">
-
-<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
-                        syncedTabs.context.openAllInTabs.accesskey):
-     These access keys are identical because their associated menu items are
-     mutually exclusive -->
-<!ENTITY syncedTabs.context.open.label                       "తెరువు">
-<!ENTITY syncedTabs.context.open.accesskey                   "O">
-<!ENTITY syncedTabs.context.openInNewTab.label               "కొత్త ట్యాబులో తెరువు">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "కొత్త విండోలో తెరువు">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "కొత్త అంతరంగిక విండోలో తెరువు">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "ఈ ట్యాబును ఇష్టాంశంగా చేయి…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
-<!ENTITY syncedTabs.context.copy.label                       "కాపీచేయి">
-<!ENTITY syncedTabs.context.copy.accesskey                   "C">
-
-<!ENTITY syncedTabs.context.openAllInTabs.label              "అన్నింటినీ ట్యాబులలో తెరువండి">
-<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
-<!ENTITY syncedTabs.context.managedevices.label              "పరికరాలను నిర్వహించండి…">
-<!ENTITY syncedTabs.context.managedevices.accesskey          "D">
-
 
 <!ENTITY syncBrand.shortName.label    "సింక్">
 
@@ -936,42 +818,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; కు తిరిగి అనుసంధానించు...">
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "సింక్">
-
-<!ENTITY customizeMode.menuAndToolbars.header3 "మీ అభిమాన అంశాలను పనిముట్లపట్టీకి లేదా ఓవర్‌ఫ్లో మెనూ లోకి లాగండి.">
-<!ENTITY customizeMode.restoreDefaults "అప్రమేయాలను పునరుద్ధరించు">
-<!ENTITY customizeMode.done "పూర్తయింది">
-<!ENTITY customizeMode.titlebar "శీర్షిక పట్టీ">
-<!ENTITY customizeMode.extraDragSpace "స్థలాన్ని లాగండి">
-<!ENTITY customizeMode.toolbars2 "పనిముట్ల పట్టీలు">
-<!ENTITY customizeMode.lwthemes "అలంకారాలు">
-<!ENTITY customizeMode.lwthemes.myThemes "నా అలంకారాలు">
-<!ENTITY customizeMode.lwthemes.recommended "సిఫార్సు చేయబడినవి">
-<!ENTITY customizeMode.lwthemes.menuManage "నిర్వహించండి">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
-<!ENTITY customizeMode.lwthemes.menuGetMore "మరిన్ని అలంకారాలను పొందండి">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.overflowList.title2 "ఓవర్‌ఫ్లో మెనూ">
-<!ENTITY customizeMode.overflowList.description "మీకు చేరువగా ఉండటానికి, కానీ పనిముట్లపట్టీలో లేకుండా, అంశాలను ఇక్కడకు లాగి వదలండి…">
-<!ENTITY customizeMode.uidensity "సాంద్రత">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
-     “Normal” is displayed in the Customize screen, under the Density menu. -->
-<!ENTITY customizeMode.uidensity.menuNormal.label "సాధారణం">
-<!ENTITY customizeMode.uidensity.menuNormal.tooltip "సాధారణం">
-<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
-     “Compact” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Compact). -->
-<!ENTITY customizeMode.uidensity.menuCompact.label "కుదించు">
-<!ENTITY customizeMode.uidensity.menuCompact.tooltip "కుదించు">
-<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
-     “Touch” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Touch), and it means that control layout is
-     optimized for touch devices. -->
-<!ENTITY customizeMode.uidensity.menuTouch.label "తాకండి">
-<!ENTITY customizeMode.uidensity.menuTouch.tooltip "తాకండి">
-<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
-<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "టాబ్లెట్ మోడ్ కోసం టచ్ ఉపయోగించండి">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "స్వయంచాలకంగా మరుగునవుంచు">
 
@@ -1035,27 +881,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "మూసివేయి">
 
-<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
-     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
-     Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "గతాన్ని మరిచిపో:">
-<!ENTITY panicButton.view.5min                    "ఐదు నిమిషాలు">
-<!ENTITY panicButton.view.2hr                     "రెండు గంటలు">
-<!ENTITY panicButton.view.day                     "24 గంటలు">
-
-<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
-     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
-     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
-     The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "కొనసాగితే జరిగేవి:">
-<!ENTITY panicButton.view.deleteCookies           "ఇటీవలి <html:strong>కుకీలు</html:strong> తొలగించు">
-<!ENTITY panicButton.view.deleteHistory           "ఇటీవలి <html:strong>చరిత్ర</html:strong>ను తొలగించు">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "అన్ని <html:strong>ట్యాబులనూ</html:strong> <html:strong>విండోలనూ</html:strong> మూసివేయి">
-<!ENTITY panicButton.view.openNewWindow           "కొత్త ఖాళీ విండోను తెరువు">
-
-<!ENTITY panicButton.view.undoWarning             "ఈ చర్యను రద్దు చేయడం సాధ్యం కాదు.">
-<!ENTITY panicButton.view.forgetButton            "మర్చిపో!">
-
 <!ENTITY panicButton.thankyou.msg1                "మీ ఇటీవలి చరిత్ర తుడిచివేయబడింది.">
 <!ENTITY panicButton.thankyou.msg2                "సురక్షిత విహారణ!">
 <!ENTITY panicButton.thankyou.buttonlabel         "కృతజ్ఞతలు!">
@@ -1063,30 +888,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "DRM గురించి ఇంకా తెలుసుకోండి…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "వేగం మరియు గోప్యత కోసం మీ &brandShorterName;ని తాజాగా నవీకరించండి.">
-<!ENTITY updateAvailable.whatsnew.label "కొత్తవేమిటో చూడండి.">
-<!ENTITY updateAvailable.header.message "ఒక కొత్త &brandShorterName; తాజాకరణ అందుబాటులో ఉంది.">
-<!ENTITY updateAvailable.acceptButton.label "తాజాకరణను దించుకోండి">
-<!ENTITY updateAvailable.acceptButton.accesskey "D">
-<!ENTITY updateAvailable.cancelButton.label "ఇప్పుడు వద్దు">
-<!ENTITY updateAvailable.cancelButton.accesskey "N">
-
 <!ENTITY updateAvailable.panelUI.label "&brandShorterName; తాజాకరణను దించుకోండి">
-
-<!ENTITY updateManual.message "&brandShorterName; తాజా కాపీని దించుకోండి, దాన్ని స్థాపించుకోడానికి మేం సహాయం చేస్తాం.">
-<!ENTITY updateManual.whatsnew.label "కొత్తవేమిటో చూడండి.">
-<!ENTITY updateManual.header.message "&brandShorterName; తాజా వర్షన్కు నవీకరించలేరు.">
-<!ENTITY updateManual.acceptButton.label "&brandShorterName;‌ను దించుకోండి">
-<!ENTITY updateManual.acceptButton.accesskey "D">
-<!ENTITY updateManual.cancelButton.label "ఇప్పుడు వద్దు">
-<!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "&brandShorterName; తాజా కాపీని దించుకోండి">
-
-<!ENTITY updateRestart.header.message2 "&brandShorterName;‌ను తాజాకరించడానికి పునఃప్రారంభించండి.">
-<!ENTITY updateRestart.acceptButton.label "పునరుద్ధరించి పునఃప్రారంభించు">
-<!ENTITY updateRestart.acceptButton.accesskey "R">
-<!ENTITY updateRestart.cancelButton.label "ఇప్పుడు వద్దు">
-<!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName;‌ను తాజాకరించడానికి పునఃప్రారంభించండి">
 
 <!ENTITY newTabControlled.header.message "మీ కొత్త ట్యాబు మారిపోయింది.">
@@ -1123,11 +926,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "ప్రాప్యత లక్షణాలు చేతనమైవున్నాయి">
-
-<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
-     The first <image> tag is replaced with the icon for the add-ons menu.
-     The second <image> tag is replaced with the icon for the toolbar menu. -->
-<!ENTITY addonPostInstallMessage.label "పొడిగింతల నిర్వహణకై <image class='addon-toolbar-icon'/> మెనూ లోని <image class='addon-addon-icon'/> మీద నొక్కండి.">
-
-<!ENTITY addonPrivateBrowsing.okButton.label "సరే, అర్థమయ్యింది">
-<!ENTITY addonPrivateBrowsing.manageButton.label "పొడగింతలను నిర్వహించండి">
