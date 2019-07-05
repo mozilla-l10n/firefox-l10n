@@ -35,6 +35,5 @@ accessibility-text-label-issue-heading-content = Le intestazioni devono avere un
 accessibility-text-label-issue-iframe = Utilizzare l’attributo <code>title</code> per descrivere il contenuto di un <span>iframe</span>. <a>Ulteriori informazioni</a>
 accessibility-text-label-issue-image = I contenuti con immagini devono avere un’etichetta. <a>Ulteriori informazioni</a>
 accessibility-text-label-issue-interactive = Gli elementi interattivi devono avere un’etichetta. <a>Ulteriori informazioni</a>
-accessibility-text-label-issue-optgroup = Gli elementi <code>optgroup</code> devono avere un’etichetta. <a>Ulteriori informazioni</a>
 accessibility-text-label-issue-optgroup-label = Utilizzare l’attributo <code>label</code> per assegnare un’etichetta agli elementi <span>optgroup</span>. <a>Ulteriori informazioni</a>
 accessibility-text-label-issue-toolbar = Le barre degli strumenti devono avere un’etichetta quando è presente più di una barra degli strumenti. <a>Ulteriori informazioni</a>
