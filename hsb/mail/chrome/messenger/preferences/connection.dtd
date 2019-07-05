@@ -38,6 +38,10 @@
 <!ENTITY  noproxy.label                 "Žadyn proksy za:">
 <!ENTITY  noproxy.accesskey             "d">
 <!ENTITY  noproxyExplain.label          "Přikład: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
+  localhost, 127.0.0.1 and ::1.
+-->
+<!ENTITY  noproxyLocalhostDesc.label   "Zwiski z localhost, 127.0.0.1 a ::1 ženje přez proksy njeńdu.">
 <!ENTITY  shareproxy.label              "Tutón proksy-serwer za wšě protokole wužiwać">
 <!ENTITY  shareproxy.accesskey          "u">
 <!ENTITY  autologinproxy.label          "Za awtentifikaciju so njeprašeć, jeli hesło je składowane">
@@ -47,9 +51,6 @@
 <!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  dnsOverHttps.label            "DNS přez HTTPS zmóžnić">
 <!ENTITY  dnsOverHttps.accesskey        "m">
-<!ENTITY  dnsOverHttpsUrl.label         "URL">
-<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
-<!ENTITY  dnsOverHttpsUrl.tooltip       "URL za rozpušćenje DNS přez HTTPS">
 <!ENTITY  dnsOverHttpsUrlDefault.label     "Standard wužiwać">
 <!ENTITY  dnsOverHttpsUrlDefault.accesskey "t">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Za rozpušćenje DNS přez HTTPS standardny URL wužiwać">
