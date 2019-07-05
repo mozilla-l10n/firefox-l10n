@@ -12,7 +12,7 @@
 <!ENTITY window.title "Sće staršu wersiju &brandProductName; startował">
 <!ENTITY window.style "width: 490px;">
 
-<!ENTITY window.nosync "Wužiwanje staršeje wersije &brandProductName; móže eksistowacy profil &brandProductName; wobškodźić. Zo byšće swoje informacije škitał, załožće nowy profil za tutu instalaciju &brandShortName;.">
+<!ENTITY window.nosync2 "Nowša wersija &brandProductName; je změny na wašim profilu přewjedła, kotrež hižo z tutej staršej wersiju kompatibelne njejsu. Wužiwajće tutón profil jenož z nowšej wersiju abo załožće nowy profil za tutu isntalaciju &brandShortName;. Hdyž nowy profil załožiće, dyrbiće swoje konta, protyki a přidatki znowa konfigurować.">
 
 <!ENTITY window.moreinfo "Dalše informacije…">
 <!ENTITY window.create "Nowy profil załožić">
