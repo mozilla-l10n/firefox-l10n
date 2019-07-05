@@ -22,6 +22,9 @@ onboarding-welcome-header = { -brand-short-name }కు స్వాగతం
 onboarding-welcome-learn-more = ప్రయోజనాల గురించి మరింత తెలుసుకోండి.
 onboarding-join-form-header = { -brand-product-name }‌తో చేరండి
 onboarding-join-form-body = మొదలుపెట్టడానికి మీ ఈమెయిలు చిరునామా ఇవ్వండి.
+onboarding-join-form-email =
+    .placeholder = ఇమెయిల్‌ని నమోదు చేయండి
+onboarding-join-form-email-error = సరైన ఈమెయిలు తప్పనిసరి
 onboarding-join-form-continue = కొనసాగించు
 onboarding-start-browsing-button-label = విహరించడం మొదలుపెట్టండి
 onboarding-cards-dismiss =
@@ -47,6 +50,8 @@ onboarding-sync-form-header = ఈ ఈమెయిలును ఇవ్వండ
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = ఉపయోగకరమైన ఉత్పత్తులు
+onboarding-benefit-privacy-title = నిజమైన గోప్యత
 
 ## These strings belong to the individual onboarding messages.
 
@@ -58,6 +63,8 @@ onboarding-sync-form-header = ఈ ఈమెయిలును ఇవ్వండ
 onboarding-private-browsing-title = అంతరంగిక విహారణ
 onboarding-screenshots-title = తెరపట్లు
 onboarding-addons-title = పొడగింతలు
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = సమకాలీకరించు
 onboarding-tracking-protection-title2 = ట్రాకింగు నుండి సంరక్షణ
 onboarding-tracking-protection-button2 = ఇది ఎలా పనిచేస్తుంది
 onboarding-data-sync-title = మీ అమరికలను మీతో తీసుకెళ్ళండి
@@ -65,6 +72,7 @@ onboarding-browse-privately-title = అంతరంగికంగా విహ�
 onboarding-firefox-send-button = { -send-brand-name }‌ని ప్రయత్నించండి
 onboarding-pocket-anywhere-button = { -pocket-brand-name }‌ని ప్రయత్నించండి
 onboarding-lockwise-passwords-title = మీ సంకేతపదాలను మీతో ఎక్కడికైనా తీసుకెళ్ళండి
+onboarding-lockwise-passwords-button2 = అనువర్తనాన్ని తెచ్చుకో
 onboarding-facebook-container-title = ఫేస్‌బుక్‌కి హద్దులు గీయండి
 
 ## Message strings belonging to the Return to AMO flow
