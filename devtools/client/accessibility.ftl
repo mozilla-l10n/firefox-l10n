@@ -23,7 +23,7 @@ accessibility-best-practices =
 
 accessibility-text-label-issue-area = Wužiwajće atribut <code>alt</code>, zo byšće elementy <div>area</div> woznamjenił, kotrež maja atribut <span>href</span>. <a>Dalše informacije</a>
 accessibility-text-label-issue-dialog = Dialogi měli so woznamjenić. <a>Dalše informacije</a>
-accessibility-text-label-issue-document-title = Dokumenty dyrbja atribut <code>title</code> měć. <a>Dalše informacije</a>
+accessibility-text-label-issue-document-title = Dokumenty dyrbja <code>titul</code> měć. <a>Dalše informacije</a>
 accessibility-text-label-issue-embed = Zasadźeny wobsah dyrbi so woznamjenić. <a>Dalše informacije</a>
 accessibility-text-label-issue-figure = Wobrazy z opcionelnymi popisami měli so woznamjenić. <a>Dalše informacije</a>
 accessibility-text-label-issue-fieldset = Elementy <code>fieldset</code> dyrbja so woznamjenić. <a>Dalše informacije</a>
