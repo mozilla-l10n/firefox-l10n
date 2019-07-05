@@ -37,3 +37,5 @@ accessibility-text-label-issue-heading-content = Nadpisma měli widobne tekstowe
 accessibility-text-label-issue-iframe = Wužywajśo atribut <code>title</code>, aby wopśimjeśe <span>iframe</span> wopisał. <a>Dalšne informacije</a>
 accessibility-text-label-issue-image = Wopśimjeśe z wobrazami musy se wóznamjeniś. <a>Dalšne informacije</a>
 accessibility-text-label-issue-interactive = Interaktiwne elementy muse se wóznamjeniś. <a>Dalšne informacije</a>
+accessibility-text-label-issue-optgroup-label = Wužywajśo atribut <code>label</code>, aby elementy <span>optgroup</span> wóznamjenił. <a>Dalšne informacije</a>
+accessibility-text-label-issue-toolbar = Symbolowe rědki muse se wóznamjeniś, gaž dajo wěcej ako jadneje symboloweje rědki. <a>Dalšne informacije</a>
