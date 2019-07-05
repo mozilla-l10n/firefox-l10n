@@ -38,6 +38,10 @@
 <!ENTITY  noproxy.label                 "Bez proxyja za:">
 <!ENTITY  noproxy.accesskey             "z">
 <!ENTITY  noproxyExplain.label          "Primjer: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
+  localhost, 127.0.0.1 and ::1.
+-->
+<!ENTITY  noproxyLocalhostDesc.label   "Veze s localhost, 127.0.0.1 i ::1 nikada nisu preko proxy.">
 <!ENTITY  shareproxy.label              "Koristi ovaj proxy poslužitelj za sve protokole">
 <!ENTITY  shareproxy.accesskey          "o">
 <!ENTITY  autologinproxy.label          "Ne pitaj za prijavu ukoliko je lozinka spremljena">
@@ -47,9 +51,6 @@
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  dnsOverHttps.label            "Omogući DNS preko HTTPS">
 <!ENTITY  dnsOverHttps.accesskey        "D">
-<!ENTITY  dnsOverHttpsUrl.label         "URL">
-<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
-<!ENTITY  dnsOverHttpsUrl.tooltip       "URL za rješavanje DNS preko HTTPS">
 <!ENTITY  dnsOverHttpsUrlDefault.label     "Koristi zadano">
 <!ENTITY  dnsOverHttpsUrlDefault.accesskey "n">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Koristi zadani URL za rješavanje DNS preko HTTPS">
