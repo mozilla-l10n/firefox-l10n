@@ -331,6 +331,9 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = התוספת <span data-l10n-name="addon-name">{ $addon }</span> הוסרה.
 pending-uninstall-undo-button = ביטול
 addon-detail-updates-label = עדכונים אוטומטיים
 addon-detail-updates-radio-default = ברירת מחדל
@@ -354,6 +357,9 @@ available-updates-heading = עדכונים זמינים
 recent-updates-heading = עדכונים אחרונים
 release-notes-loading = בטעינה…
 release-notes-error = מצטערים, אירעה שגיאה במהלך טעינת הערות השחרור.
-addon-permissions-empty = לתוספת זו אינן נדרשות הרשאות
+addon-permissions-empty = לתוספת זו לא נדרשות הרשאות
 recommended-extensions-heading = הרחבות מומלצות
 recommended-themes-heading = ערכות נושא מומלצות
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = גל של יצירתיות שוטף אותך? <a data-l10n-name="link">ניתן ליצור ערכת נושא משלך בעזרת Firefox Color.</a>

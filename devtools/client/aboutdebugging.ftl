@@ -39,6 +39,8 @@ about-debugging-sidebar-no-devices = לא נמצאו מכשירים
 # Text displayed in buttons found in sidebar items representing remote runtimes.
 # Clicking on the button will attempt to connect to the runtime.
 about-debugging-sidebar-item-connect-button = התחברות
+# Text displayed in buttons found in sidebar items when the runtime is connecting.
+about-debugging-sidebar-item-connect-button-connecting = חיבור בהקמה…
 # Text displayed in buttons found in sidebar items when the connection failed.
 about-debugging-sidebar-item-connect-button-connection-failed = החיבור נכשל
 # Text displayed as connection error in sidebar item when the connection has timed out.
