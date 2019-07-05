@@ -9,6 +9,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Agid">
 <!ENTITY helpMenuWin.accesskey "A">
+<!ENTITY aboutProduct2.label "Davart &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey "D">
 <!ENTITY helpTroubleshootingInfo.label     "Infurmaziuns per schliar problems">
 <!ENTITY helpTroubleshootingInfo.accesskey "I">
 <!ENTITY helpSafeMode.label     "Reaviar e deactivar ils supplements…">
@@ -26,3 +28,25 @@
 
 <!ENTITY aboutMenuCmd2.label "Davart &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "a">
+<!ENTITY helpSafeMode.stop.label     "Reaviar cun supplements activads">
+<!ENTITY helpSafeMode.stop.accesskey "R">
+<!ENTITY productHelp.label "Agid da &brandShortName;">
+<!ENTITY productHelp.accesskey "A">
+<!ENTITY productHelp.commandkey "VK_F1">
+<!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "accel">
+
+<!ENTITY helpKeyboardShortcuts.label "Scursanidas da tastas">
+<!ENTITY helpKeyboardShortcuts.accesskey "S">
+
+<!ENTITY helpFeedbackPage.label "Trametter in resun…">
+<!ENTITY helpFeedbackPage.accesskey "T">
+
+<!ENTITY helpShowTour2.label "Tura tras &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey "u">
+
+<!ENTITY helpGetInvolvedPage.label "Participar">
+<!ENTITY helpGetInvolvedPage.accesskey "i">
+
+<!ENTITY helpDonationsPage.label "Far ina donaziun">
+<!ENTITY helpDonationsPage.accesskey "F">
