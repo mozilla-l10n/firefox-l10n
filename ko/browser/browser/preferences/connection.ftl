@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = 프록시를 지나지 않음
     .accesskey = n
 connection-proxy-noproxy-desc = 예: .mozilla.org, .net.nz, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = Localhost나 127.0.0.1, ::1에 대한 연결은 결코 프록시 되지 않습니다.
 connection-proxy-autotype =
     .label = 자동 프록시 설정 URL
     .accesskey = A
@@ -70,12 +72,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = HTTPS를 통해 DNS를 사용 하도록 설정
     .accesskey = b
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = 기본값 사용({ $url })
-    .accesskey = U
-    .tooltiptext = HTTPS에서 DNS 해석을 위해 기본 URL을 사용
 connection-dns-over-https-url-resolver = 공급자 사용
     .accesskey = P
 # Variables:
