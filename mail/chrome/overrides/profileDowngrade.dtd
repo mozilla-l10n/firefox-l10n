@@ -12,7 +12,7 @@
 <!ENTITY window.title "Stai utilizzando una versione più vecchia di &brandProductName;">
 <!ENTITY window.style "width: 490px;">
 
-<!ENTITY window.nosync "L’utilizzo di una versione più vecchia di &brandProductName; può danneggiare un profilo esistente di &brandProductName;. Per proteggere queste informazioni, creare un nuovo profilo per questa installazione di &brandShortName;.">
+<!ENTITY window.nosync2 "Una versione più recente di &brandProductName; potrebbe aver apportato modifiche al profilo incompatibili con questa versione. Utilizzare questo profilo solo con la versione più recente o creare un nuovo profilo per questa installazione di&brandShortName;. Creando un nuovo profilo sarà necessario configurare nuovamente account, calendari e componenti aggiuntivi.">
 
 <!ENTITY window.moreinfo "Ulteriori informazioni…">
 <!ENTITY window.create "Crea un nuovo profilo">
