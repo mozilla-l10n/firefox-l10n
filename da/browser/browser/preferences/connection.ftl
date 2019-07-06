@@ -65,6 +65,9 @@ connection-proxy-noproxy = Ingen proxy for
 
 connection-proxy-noproxy-desc = Fx .mozilla.org, .net.dk, 192.168.1.0/24
 
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = Forbindelser til localhost, 127.0.0.1 og ::1 er aldrig forbundet via en proxy.
+
 connection-proxy-autotype =
     .label = Automatisk proxy-konfigurations-URL
     .accesskey = U
