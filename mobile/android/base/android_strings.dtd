@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "دادهٔ کمتر، صرفه‌جویی بیشتر">
 <!ENTITY firstrun_data_subtext2 "تصاویر را خاموش کنید تا داده کمتری در هنگام مشاهده هر سایت صرف کنید.">
 <!ENTITY firstrun_sync_title "هم‌گام‌سازی">
+<!ENTITY updatednewfirstrun_sync_title "حساب کاربری">
 <!ENTITY firstrun_sync_message2 "از جایی که مانده بود ادامه دهید.">
 <!ENTITY firstrun_sync_subtext2 "برای پیدا کردن نشانک‌ها، گذرواژه‌ها و چیزهای دیگری که در &brandShortName; ذخیره کرده‌اید روی همه دستگاه‌هایتان، از همگام‌ساز استفاده کنید.">
 <!ENTITY newfirstrun_sync_subtext "همگام‌سازی تمام چیزهایی که روی دستگاه موبایل خود ذخیره می‌کنید بر روی مرورگر رومیزی شما به صورت خصوصی و امن.">
@@ -68,6 +69,11 @@
 <!ENTITY  sending_crash_report "درحال گزارش درهم شکستن\u2026">
 <!ENTITY  crash_close_label "بستن">
 <!ENTITY  crash_restart_label "راه‌اندازی مجدد &brandShortName;">
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; با مشکل مواجه شد">
+<!ENTITY  crash_notification_message "برای گزارش به &vendorShortName; ضربه بزنید">
+<!ENTITY  crash_notification_negative_button_text "نادیده گرفتن">
 
 <!ENTITY url_bar_default_text2 "جستجو کنید یا آدرسی را وارد کنید">
 
@@ -110,6 +116,9 @@
 <!ENTITY bookmark_folder_updated "پوشه بروزرسانی شد">
 <!ENTITY bookmark_parent_folder "پوشهٔ والد">
 <!ENTITY bookmark_add_folder "اضافه کردن پوشه جدید">
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(بدون عنوان)">
 
 <!ENTITY reader_saved_offline "ذخیره به صورت آفلاین">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -191,7 +200,7 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "هیچ حساب فایرفاکس متصل شده به این دستگاه پیدا نشد">
+<!ENTITY overlay_no_synced_devices "هیچ دستگاهی که به حساب فایرفاکس متصل باشد پیدا نشد">
 
 <!ENTITY pref_category_search3 "جستجو">
 <!ENTITY pref_category_search_summary2 "اضافه، تنظیمِ پیش‌فرض، نمایش پیشنهادات">
@@ -330,11 +339,6 @@
 <!ENTITY pref_pwa "برنامه‌های پیشرفته وب">
 <!ENTITY pref_pwa_summary "به برنامه‌های وب اجازه بده تا به صفحه خانگی اضافه شوند">
 
-<!ENTITY tracking_protection_prompt_title "هم‌اکنون با قابلیت محافظت در برابر ردگیری">
-<!ENTITY tracking_protection_prompt_text "عناصری که ممکن است شما را ردگیری کنند مسدود خواهند شد، تا شما هیچ نگرانی‌ای نداشته باشید.">
-<!ENTITY tracking_protection_prompt_tip_text "برای اطلاعات بیشتر تنظیمات حریم خصوصی را ببنید">
-<!ENTITY tracking_protection_prompt_action_button "گرفتم!">
-
 <!ENTITY tab_queue_toast_message3 "زبانه در &brandShortName; ذخیره شد">
 <!ENTITY tab_queue_toast_action "هم‌اکنون باز کن">
 <!ENTITY tab_queue_prompt_title "هم‌زمان چند لینک باز می‌کنید؟">
@@ -420,7 +424,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "لمس بر روی برنامه مرورگر&amp; انتخاب &brandShortName;">
-<!ENTITY pref_default_browser_mozilla_support_tablet "بازدید از پشتیبانی موزیلا">
 <!ENTITY pref_about_firefox "درباره &brandShortName;">
 <!ENTITY pref_vendor_faqs "پرسش‌های متداول">
 <!ENTITY pref_vendor_feedback "دادن بازخورد">
@@ -592,6 +595,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "کلیدواژه">
 <!ENTITY bookmark_select_folder "انتخاب پوشه">
 
+<!ENTITY bookmark_edit_undo "واگرد">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "تنظیمات سایت">
@@ -679,7 +684,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "انتخاب یا ضبط یک صدا">
 <!ENTITY filepicker_image_title "انتخاب یا عکس گرفتن">
 <!ENTITY filepicker_video_title "انتخاب یا ضبط یک ویدیو">
-
 <!ENTITY filepicker_permission_denied "مجوز درخواستی ارائه نشد،‌ بازگشت به سیستم انتخاب پرونده.">
 
 <!-- Site identity popup -->
@@ -933,3 +937,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "هشدارهای پایگاه‌های اینترنتی">
+<!ENTITY crash_handler_notifications_channel "گزارش خطای &brandShortName;">
