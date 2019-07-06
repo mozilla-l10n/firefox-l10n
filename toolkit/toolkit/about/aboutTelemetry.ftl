@@ -82,6 +82,7 @@ about-telemetry-category-header = หมวดหมู่
 about-telemetry-method-header = วิธีการ
 about-telemetry-object-header = วัตถุ
 about-telemetry-extra-header = พิเศษ
+about-telemetry-origin-count = จำนวน
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = โปรเซส { $process }
