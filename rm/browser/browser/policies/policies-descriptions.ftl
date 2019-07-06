@@ -21,6 +21,7 @@ policy-Bookmarks = Crear segnapaginas en la trav da segnapaginas, en il menu da 
 policy-CaptivePortal = Activar u deactivar il sustegn per captive portal.
 policy-CertificatesDescription = Agiuntar certificats u utilisar certificats predefinids.
 policy-Cookies = Permetter u scumandar a websites da definir cookies.
+policy-DefaultDownloadDirectory = Definir l'ordinatur da standard per memorisar telechargiadas.
 policy-DisableAppUpdate = Impedir l'actualisaziun dal navigatur.
 policy-DisableBuiltinPDFViewer = Deactivar PDF.js, il lectur per PDFs integrà en { -brand-short-name }.
 policy-DisableDeveloperTools = Bloccar l'access als utensils per sviluppaders.
@@ -45,6 +46,7 @@ policy-DisplayBookmarksToolbar = Mussar la trav da segnapaginas sco standard.
 policy-DisplayMenuBar = Mussar la trav da menu sco standard.
 policy-DNSOverHTTPS = Configurar DNS via HTTPS.
 policy-DontCheckDefaultBrowser = Deactivar la controlla dal navigatur da standard cun aviar.
+policy-DownloadDirectory = Definir e fixar l'ordinatur per memorisar telechargiadas.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Activar u deactivar la bloccada da cuntegn e tut tenor basegn impedir la modificaziun da l'opziun.
 # A “locked” extension can’t be disabled or removed by the user. This policy
@@ -67,9 +69,9 @@ policy-OverridePostUpdatePage = Surscriver la pagina «What's New» che vegn mus
 policy-Permissions = Configurar permissiuns per camera, microfon, posiziun e notificaziuns.
 policy-PopupBlocking = Permetter a tschertas websites da mussar popups sco standard.
 policy-Preferences = Definescha e fixescha la valur per ina subgruppa da preferenzas.
+policy-PromptForDownloadLocation = Dumandar nua memorisar datotecas cun telechargiar.
 policy-Proxy = Configurar ils parameters dal proxy.
 policy-RequestedLocales = Definescha, en la successiun da preferenza, la glista da las linguas («locales») dumandadas da l'applicaziun.
-policy-SanitizeOnShutdown = Stizzar tut las datas da navigaziun cun terminar.
 policy-SanitizeOnShutdown2 = Stizzar las datas da navigaziun cun terminar.
 policy-SearchBar = Definir l'adressa da standard da la trav da tschertgar. L'utilisader la po anc adina persunalisar.
 policy-SearchEngines = Configurar ils parameters da maschinas da tschertgar. Questa directiva è mo disponibla en la versiun Extended Support Release (ESR).
