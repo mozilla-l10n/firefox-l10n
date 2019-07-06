@@ -100,7 +100,7 @@ detail-update-manual =
 detail-private-browsing-label = Exequir en fanestras privatas
 detail-private-browsing-description2 = Sche permess vegn l'extensiun ad avair access a tias activitads online en il modus privat. <label data-l10n-name="detail-private-browsing-learn-more">Ulteriuras infurmaziuns</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
-# cannot be overriden by the user.
+# cannot be overridden by the user.
 detail-private-disallowed-label = Betg permess en fanestras privatas
 detail-private-disallowed-description = Questa extensiun na vegn betg exequida en il modus privat. <label data-l10n-name="detail-private-browsing-learn-more">Ulteriuras infurmaziuns</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
@@ -160,9 +160,6 @@ private-browsing-description2 =
     na vegnan las extensiuns betg a funcziunar en il modus privat e na vegnan er betg ad avair access a tias activitads online en lez modus. 
     Questa midada succeda per che la navigaziun en il modus privat restia privata.
     <label data-l10n-name="private-browsing-learn-more">Vegnir a savair co administrar ils parameters da las extensiuns.</label>
-extensions-view-discover =
-    .name = Catalog
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Ultimas actualisaziuns
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -243,7 +240,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Administrar scursanidas dad extensiuns
     .accesskey = s
-shortcuts-empty-message = I na dat naginas scursanidas per questa extensiun.
 shortcuts-no-addons = Naginas extensiuns activadas.
 shortcuts-no-commands = Las suandantas extensiuns n'han naginas cumbinaziuns da tastas:
 shortcuts-input =
@@ -269,14 +265,21 @@ shortcuts-card-collapse-button = Mussar damain
 go-back-button =
     .tooltiptext = Turnar
 
+## Recommended add-ons page
+
+
 ## Add-on actions
 
+report-addon-button = Rapportar
 remove-addon-button = Allontanar
 disable-addon-button = Deactivar
 enable-addon-button = Activar
 expand-addon-button = Ulteriuras opziuns
 addons-enabled-heading = Activà
 addons-disabled-heading = Deactivà
+ask-to-activate-button = Dumandar per activar
+always-activate-button = Adina activar
+never-activate-button = Mai activar
 addon-detail-author-label = Autur(a)
 addon-detail-version-label = Versiun
 addon-detail-last-updated-label = Ultima actualisaziun
@@ -294,3 +297,22 @@ addon-detail-reviews-link =
         [one] { $numberOfReviews } valitaziun
        *[other] { $numberOfReviews } valitaziuns
     }
+
+## Pending uninstall message bar
+
+pending-uninstall-undo-button = Revocar
+addon-detail-updates-label = Permetter actualisaziuns automaticas
+addon-detail-updates-radio-default = Standard
+addon-detail-updates-radio-on = Activà
+addon-detail-updates-radio-off = Deactivà
+addon-detail-update-check-label = Tschertgar actualisaziuns
+install-update-button = Actualisar
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Permess en fanestras privatas
+addon-detail-private-browsing-help = Sche permess ha questa extensiun access a tias activitads online en il modus privat. <a data-l10n-name="learn-more">Ulteriuras infurmaziuns</a>
+addon-detail-private-browsing-allow = Permetter
+addon-detail-private-browsing-disallow = Betg permetter
+available-updates-heading = Actualisaziuns disponiblas
+recent-updates-heading = Ultimas actualisaziuns
