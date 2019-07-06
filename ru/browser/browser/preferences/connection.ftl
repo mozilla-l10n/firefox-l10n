@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = Не использовать прокси для
     .accesskey = д
 connection-proxy-noproxy-desc = Пример: .mozilla-russia.org, .net.nz, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = Соединения с localhost, 127.0.0.1 и ::1 никогда не проксируются.
 connection-proxy-autotype =
     .label = URL автоматической настройки прокси
     .accesskey = а
@@ -70,12 +72,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Включить DNS через HTTPS
     .accesskey = л
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = Использовать URL по умолчанию ({ $url })
-    .accesskey = п
-    .tooltiptext = Использовать URL по умолчанию для разрешения DNS через HTTPS
 connection-dns-over-https-url-resolver = Используемый провайдер
     .accesskey = п
 # Variables:
