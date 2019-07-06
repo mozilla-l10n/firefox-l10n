@@ -203,9 +203,9 @@
 <!ENTITY overlay_no_synced_devices "هیچ دستگاهی که به حساب فایرفاکس متصل باشد پیدا نشد">
 
 <!ENTITY pref_category_search3 "جستجو">
-<!ENTITY pref_category_search_summary2 "اضافه، تنظیمِ پیش‌فرض، نمایش پیشنهادات">
+<!ENTITY pref_category_search_summary2 "افزودن، تنظیم پیش‌فرض، نمایش پیشنهادها">
 <!ENTITY pref_category_accessibility "دسترسی‌پذیری">
-<!ENTITY pref_category_accessibility_summary2 "اندازه متن، بزرگنمایی، ورودی صوتی">
+<!ENTITY pref_category_accessibility_summary2 "اندازه متن، بزرگ‌نمایی، ورودی صوتی">
 <!ENTITY pref_category_privacy_short "حریم‌خصوصی">
 <!ENTITY pref_category_privacy_summary4 "ردیابی، ورود‌ها، انتخاب داده‌ها">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
@@ -213,8 +213,8 @@
 <!ENTITY pref_category_datareporting "انتخاب داده‌ها">
 <!ENTITY pref_category_logins "ورودها">
 <!ENTITY pref_learn_more "اطلاعات بیشتر">
-<!ENTITY pref_category_installed_search_engines "موتورهای جستجو نصب شده">
-<!ENTITY pref_category_add_search_providers "اضافه کردن تامین‌کننده‌های جستجو">
+<!ENTITY pref_category_installed_search_engines "موتورهای جستجوی نصب شده">
+<!ENTITY pref_category_add_search_providers "افزودن جستجوگرهای بیشتر">
 <!ENTITY pref_category_search_restore_defaults "بازآوری موتورهای جستجو">
 <!ENTITY pref_search_restore_defaults "بازگرداندن پیش‌فرض‌ها">
 <!ENTITY pref_search_restore_defaults_summary "بازگرداندن پیش‌فرض‌ها">
@@ -283,7 +283,7 @@
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_data_saver "صرفه‌جویی‌کننده اطلاعات">
+<!ENTITY pref_category_data_saver "صرفه‌جویی در داده‌ها">
 <!ENTITY pref_category_media "رسانه">
 <!ENTITY pref_category_developer_tools "ابزارهای توسعه‌دهندگان">
 
