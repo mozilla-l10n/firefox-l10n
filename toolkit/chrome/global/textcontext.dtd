@@ -29,6 +29,8 @@
 
 <!ENTITY fillLoginMenu.label          "Rellenar datos de conexión">
 <!ENTITY fillLoginMenu.accesskey      "F">
+<!ENTITY fillSuggestedPassword.label  "Usar una contraseña sugerida">
+<!ENTITY fillSuggestedPassword.accesskey "S">
 <!ENTITY fillPasswordMenu.label       "Rellenar contraseña">
 <!ENTITY fillPasswordMenu.accesskey   "F">
 <!ENTITY fillUsernameMenu.label       "Rellenar nombre de usuario">

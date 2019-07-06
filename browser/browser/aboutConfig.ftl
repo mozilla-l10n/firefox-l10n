@@ -5,9 +5,8 @@
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = ¡Hic sunt dracones!
 about-config-warning-text = Cambiar estos ajustes avanzados puede ser perjudicial para la estabilidad, seguridad y el rendimiento de esta aplicación. Debieras continuar solo si tienes certeza de lo que estás haciendo.
-about-config-warning-checkbox = Vuélvanme a molestar, ¡por favor!
+about-config-warning-checkbox = Sigan advirtiéndome, ¡por favor!
 about-config-warning-button = Acepto el riesgo
-about-config-title = about:config
 about-config2-title = Configuraciones avanzadas
 about-config-search-input =
     .placeholder = Buscar
