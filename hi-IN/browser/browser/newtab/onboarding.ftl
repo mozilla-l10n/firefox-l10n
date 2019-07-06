@@ -94,6 +94,8 @@ onboarding-mobile-phone-button = मोबाइल ब्राउज़र ड
 onboarding-send-tabs-title = तुरंत अपने आप को टैब्स भेजें
 onboarding-send-tabs-button = Send Tabs का उपयोग करना शुरू करें
 onboarding-pocket-anywhere-title = कहीं भी पढ़ें और सुनें
+onboarding-pocket-anywhere-button = { -pocket-brand-name } आज़माएं
+onboarding-facebook-container-button = एक्सटेंशन जोड़ें
 
 ## Message strings belonging to the Return to AMO flow
 
