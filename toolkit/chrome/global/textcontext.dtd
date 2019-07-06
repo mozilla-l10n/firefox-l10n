@@ -29,6 +29,8 @@
 
 <!ENTITY fillLoginMenu.label          "Udfyld login">
 <!ENTITY fillLoginMenu.accesskey      "l">
+<!ENTITY fillSuggestedPassword.label  "Brug en foreslået adgangskode">
+<!ENTITY fillSuggestedPassword.accesskey "f">
 <!ENTITY fillPasswordMenu.label       "Udfyld adgangskode">
 <!ENTITY fillPasswordMenu.accesskey   "a">
 <!ENTITY fillUsernameMenu.label       "Udfyld brugernavn">
