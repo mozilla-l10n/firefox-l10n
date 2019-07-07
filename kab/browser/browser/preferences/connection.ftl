@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = Ulac apṛuksi i
     .accesskey = l
 connection-proxy-noproxy-desc = Amedya: .mozilla.org, .net.nz, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = Tuqqniwin ɣer localhost, 127.0.0.1 ou ::1 urǧin ad ɛeddint s upṛuksi.
 connection-proxy-autotype =
     .label = Tansa n twila tawurmant n upṛuksi URL
     .accesskey = G
@@ -70,12 +72,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Rmed DNS Deg HTTPS
     .accesskey = H
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = Seqdec amezwer ({ $url })
-    .accesskey = S
-    .tooltiptext = Seqdec URL amezwer i tifrat n DNS s HTTPS
 connection-dns-over-https-url-resolver = Seqdec asaǧǧaw
     .accesskey = S
 # Variables:
