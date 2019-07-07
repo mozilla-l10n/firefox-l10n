@@ -431,7 +431,7 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Iškarpos
-home-prefs-snippets-description = Naujienos iš „Mozillos“ ir „{ -brand-product-name }“
+home-prefs-snippets-description = „{ -vendor-short-name }“ ir „{ -brand-product-name }“ naujienos
 home-prefs-sections-rows-option =
     .label =
         { $num ->
