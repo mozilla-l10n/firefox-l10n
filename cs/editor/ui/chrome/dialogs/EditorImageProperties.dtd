@@ -56,7 +56,7 @@
 <!ENTITY wrapLeftPopup.value "Zalomení vlevo">
 
 <!-- These controls are in the Spacing Box -->
-<!ENTITY spacingBox.label "Odstup">
+<!ENTITY spacingBox.label "Rozestupy">
 <!ENTITY leftRightEditField.label "Levý a pravý:">
 <!ENTITY leftRightEditField.accessKey "L">
 <!ENTITY topBottomEditField.label "Horní a dolní:">

@@ -16,11 +16,11 @@
 <!ENTITY tableHeight.accessKey            "V">
 <!ENTITY tableWidth.label                 "Šířka:">
 <!ENTITY tableWidth.accessKey             "k">
-<!ENTITY tableBorderSpacing.label         "Okraje a mezery">
+<!ENTITY tableBorderSpacing.label         "Okraje a rozestupy">
 <!ENTITY tableBorderWidth.label           "Okraje:">
 <!ENTITY tableBorderWidth.accessKey       "O">
-<!ENTITY tableSpacing.label               "Mezery:">
-<!ENTITY tableSpacing.accessKey           "M">
+<!ENTITY tableSpacing.label               "Rozestupy:">
+<!ENTITY tableSpacing.accessKey           "R">
 <!ENTITY tablePadding.label               "Výplň:">
 <!ENTITY tablePadding.accessKey           "l">
 <!ENTITY tablePxBetwCells.label           "body mezi buňkami">
