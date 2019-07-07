@@ -13,8 +13,8 @@
 ##
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
--brand-shorter-name = فایرفاکس
--brand-short-name = فایرفاکس
+-brand-shorter-name = Firefox
+-brand-short-name = Firefox
 -brand-full-name = موزیلا فایرفاکس
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).
