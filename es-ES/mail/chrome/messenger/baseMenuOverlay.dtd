@@ -24,6 +24,8 @@
 <!ENTITY openHelpMac2.modifiers "accel">
 <!ENTITY aboutMenuCmd2.label "Acerca de &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "A">
+<!ENTITY helpSafeMode.stop.label "Reiniciar con los complementos activados">
+<!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "Ayuda de &brandShortName;">
 <!ENTITY productHelp.accesskey "b">
 <!ENTITY productHelp.commandkey "VK_F1">
