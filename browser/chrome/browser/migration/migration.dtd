@@ -23,7 +23,7 @@
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromChromium.label       "ക്രോമിയം">
 <!ENTITY importFromChromium.accesskey   "u">
-<!ENTITY importFromFirefox.label        "ഫയര്‍ഫോക്സ്">
+<!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
 <!ENTITY importFrom360se.label          "360 സെക്യുവര്‍ ബ്രൌസര്‍">
 <!ENTITY importFrom360se.accesskey      "3">
