@@ -6,6 +6,6 @@
 <!ENTITY window.width  "450">
 <!ENTITY info1a.label  "&brandShortName; aŭtomate rekonas alvenantaj mesaĝoj, kiuj aspektas esti nedezirataj (reklamoj, spamo). Ĉiu mesaĝo suspektata pri esti trudmesaĝo estos markita per speciala emblemo">
 <!ENTITY info1b.label  ".">
-<!ENTITY info2.label   "At first, you must train &brandShortName; to identify junk mail by using the Junk toolbar button to mark messages as junk or not junk.">
-<!ENTITY info3.label   "Once &brandShortName; is correctly identifying junk mail, you can use the Junk Mail Controls to automatically move incoming junk mail to the Junk folder.">
-<!ENTITY info4.label   "For more information, click Help.">
+<!ENTITY info2.label   "Unue vi devas instrui al la filtrilo rekoni nedeziratajn mesaĝojn per la butono “nedezirata mesaĝo” sur la ilarstrio; ankaŭ necesas marki ĉiujn deziratajn mesaĝojn kiel deziratajn.">
+<!ENTITY info3.label   "Kiam la kontraŭtrudmesaĝa filtrilo ĝuste rekonas nedeziratajn mesaĝojn, vi povas agordi la programon por aŭtomate movi alvenantajn nedeziratajn mesaĝojn al la “trudmesaĝujo”.">
+<!ENTITY info4.label   "Pliaj informoj troviĝas en la helpo de &brandShortName;.">
