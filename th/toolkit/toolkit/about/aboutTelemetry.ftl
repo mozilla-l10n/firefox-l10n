@@ -98,6 +98,10 @@ about-telemetry-keys-header = คุณสมบัติ
 about-telemetry-names-header = ชื่อ
 about-telemetry-values-header = ค่า
 # Variables:
+#   $stackKey (String): the string key for this stack
+#   $capturedStacksCount (Integer):  the number of times this stack was captured
+about-telemetry-captured-stacks-title = { $stackKey } (จำนวนครั้งที่จับ: { $capturedStacksCount })
+# Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = การเขียนภายหลัง #{ $lateWriteCount }
 about-telemetry-stack-title = สแตก:
@@ -108,6 +112,7 @@ about-telemetry-category-header = หมวดหมู่
 about-telemetry-method-header = วิธีการ
 about-telemetry-object-header = วัตถุ
 about-telemetry-extra-header = พิเศษ
+about-telemetry-origin-origin = ที่มา
 about-telemetry-origin-count = จำนวน
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )

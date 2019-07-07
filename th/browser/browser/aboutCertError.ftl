@@ -5,6 +5,7 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } ใช้ใบรับรองความปลอดภัยที่ผิดกฎ
+cert-error-mitm-intro = เว็บไซต์พิสูจน์ข้อมูลประจำตัวของตัวเองผ่านใบรับรองซึ่งออกโดยผู้ออกใบรับรอง
 cert-error-trust-unknown-issuer-intro = อาจมีใครบางคนพยายามที่จะเลียนแบบไซต์และคุณไม่ควรดำเนินการต่อ
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
