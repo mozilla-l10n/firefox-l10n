@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Yeni bir Sertifika Makamına (CA) güvenmeniz istendi.">
 <!ENTITY downloadCert.trustSSL "Web sitelerini tanımlamak için bu CA'ya güven.">
 <!ENTITY downloadCert.trustEmail "E-posta kullanıcılarını tanımlamak için bu CA'ya güven.">
-<!ENTITY downloadCert.trustObjSign "Yazılım geliştiricileri tanımlamak için bu CA'ya güven.">
 <!ENTITY downloadCert.message3 "Herhangi bir amaçla bu CA'ya güvenmeden önce sertifikasını, ilkelerini ve prosedürlerini (varsa) incelemelisiniz.">
 <!ENTITY downloadCert.viewCert.label "Göster">
 <!ENTITY downloadCert.viewCert.text "CA sertifikasını incele">
@@ -46,6 +45,6 @@
 <!ENTITY createCertInfo.msg2 "Lütfen bekleyin…">
 
 <!-- Strings for protectedAuth dialog -->
-<!ENTITY protectedAuth.title "Korunmuş İşaretin Kimlik Doğrulaması">
-<!ENTITY protectedAuth.msg "Lütfen işarete kimliğinizi doğrulayın. Kimlik doğrulama yöntemi işaretinizin türüne göre değişir.">
+<!ENTITY protectedAuth.title "Korumalı Jeton Kimlik Doğrulaması">
+<!ENTITY protectedAuth.msg "Lütfen jetonda kimliğinizi doğrulayın. Kimlik doğrulama yöntemi jeton türüne göre değişir.">
 <!ENTITY protectedAuth.tokenName.label "Jeton:">
