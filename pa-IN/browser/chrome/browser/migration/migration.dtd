@@ -27,7 +27,7 @@
 <!ENTITY importFromChromeDev.accesskey  "D">
 <!ENTITY importFromChromium.label       "Chromium">
 <!ENTITY importFromChromium.accesskey   "u">
-<!ENTITY importFromFirefox.label        "ਫਾਇਰਫਾਕਸ">
+<!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "X">
 <!ENTITY importFrom360se.label          "360 ਸੁਰੱਖਿਆ ਬਰਾਊਜ਼ਰ">
 <!ENTITY importFrom360se.accesskey      "3">
