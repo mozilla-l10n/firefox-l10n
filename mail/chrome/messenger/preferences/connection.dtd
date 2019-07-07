@@ -38,6 +38,10 @@
 <!ENTITY  noproxy.label                 "პროქსი არაა:">
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "მაგალითი: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
+  localhost, 127.0.0.1 and ::1.
+-->
+<!ENTITY  noproxyLocalhostDesc.label   "ადგილობრივი კავშირები, 127.0.0.1 და ::1 არასდროს გამოიყენებს პროქსის.">
 <!ENTITY  shareproxy.label              "ყველა ოქმისთვის ამ პროქსის გამოყენება">
 <!ENTITY  shareproxy.accesskey          "x">
 <!ENTITY  autologinproxy.label          "შესვლის მოთხოვნის გამოტოვება, თუ პაროლი დამახსოვრებულია">
@@ -47,9 +51,6 @@
 <!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  dnsOverHttps.label            "DNS-ის HTTPS-ით გადაცემის ჩართვა">
 <!ENTITY  dnsOverHttps.accesskey        "ვ">
-<!ENTITY  dnsOverHttpsUrl.label         "URL">
-<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
-<!ENTITY  dnsOverHttpsUrl.tooltip       "URL-მისამართი DNS-გადაყვანებისთვის HTTPS-ით">
 <!ENTITY  dnsOverHttpsUrlDefault.label     "ნაგულისხმევის გამოყენება">
 <!ENTITY  dnsOverHttpsUrlDefault.accesskey "ნ">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "ნაგულისხმევი URL-ს გამოყენება DNS-გადაყვანებისთვის HTTPS-ით">
