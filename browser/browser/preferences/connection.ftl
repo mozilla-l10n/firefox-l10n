@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = Dim Dirprwy ar gyfer
     .accesskey = m
 connection-proxy-noproxy-desc = Esiampl: .mozilla.org, .net.nz, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = Nid yw cysylltiadau i localhost, 127.0.0.1, a ::1 byth yn cael eu cirprwyo.
 connection-proxy-autotype =
     .label = URL ffurfweddu dirprwy yn awtomatig
     .accesskey = U
@@ -70,12 +72,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Galluogi DNS dros HTTPS
     .accesskey = D
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = Defnyddiwch y rhagosodedig ({ $url })
-    .accesskey = D
-    .tooltiptext = Defnyddiwch yr URL rhagosodedig ar gyfer datrys DNS dros HTTPS
 connection-dns-over-https-url-resolver = Defnyddio'r Darparwr
     .accesskey = D
 # Variables:
