@@ -6,7 +6,7 @@
 
 accessibility-learn-more = Læs mere
 
-accessibility-text-label-header = Tekstmærkater og -navne
+accessibility-text-label-header = Tekstetiketter og -navne
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
@@ -23,7 +23,7 @@ accessibility-best-practices =
 ## that describe that currently selected accessible object has an accessibility issue
 ## with its text label or accessible name.
 
-accessibility-text-label-issue-area = Brug attributten <code>alt</code> til at markere <div>area</div>-elementer, der har attributten <span>href</span> attribute. <a>Læs mere</a>
+accessibility-text-label-issue-area = Brug attributten <code>alt</code> til at markere <div>area</div>-elementer, der har attributten <span>href</span>. <a>Læs mere</a>
 
 accessibility-text-label-issue-dialog = Dialog-bokse bør markeres. <a>Læs mere</a>
 
@@ -35,15 +35,15 @@ accessibility-text-label-issue-figure = Figurer og eventuelle billedtekster bør
 
 accessibility-text-label-issue-fieldset = <code>fieldset</code>-elementer skal markeres. <a>Læs mere</a>
 
-accessibility-text-label-issue-fieldset-legend = Brug elementet <code>legend</code> til at føje mærkater til <span>fieldset</span>-elementer. <a>Læs mere</a>
+accessibility-text-label-issue-fieldset-legend = Brug elementet <code>legend</code> til at føje etiketter til <span>fieldset</span>-elementer. <a>Læs mere</a>
 
-accessibility-text-label-issue-form = Form-elementer skal markeres. <a>Læs mere</a>
+accessibility-text-label-issue-form = Formular-elementer skal markeres. <a>Læs mere</a>
 
-accessibility-text-label-issue-form-visible = Form-elementer bør have et synligt tekst-mærkat. <a>Læs mere</a>
+accessibility-text-label-issue-form-visible = Formular-elementer bør have en synligt tekst-etiket. <a>Læs mere</a>
 
 accessibility-text-label-issue-frame = <code>frame</code>-elementer skal markeres. <a>Læs mere</a>
 
-accessibility-text-label-issue-glyph = Brug attributten <code>alt</code> til at føje mærkater til <span>mglyph</span>-elementer. <a>Læs mere</a>
+accessibility-text-label-issue-glyph = Brug attributten <code>alt</code> til at føje etiketter til <span>mglyph</span>-elementer. <a>Læs mere</a>
 
 accessibility-text-label-issue-heading = Overskrifter skal markeres. <a>Læs mere</a>
 
@@ -53,7 +53,7 @@ accessibility-text-label-issue-iframe = Brug attributten <code>title</code> til 
 
 accessibility-text-label-issue-image = Indhold med billeder skal markeres. <a>Læs mere</a>
 
-accessibility-text-label-issue-interactive = Interactive elements must be labeled. <a>Læs mere</a>
+accessibility-text-label-issue-interactive = Interaktive elementer skal markeres. <a>Læs mere</a>
 
 accessibility-text-label-issue-optgroup-label = Brug attributten <code>label</code> til at markere <span>optgroup</span>-elementer. <a>Læs mere</a>
 
