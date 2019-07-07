@@ -23,16 +23,37 @@ policy-DisableAppUpdate = ป้องกันไม่ให้ { -brand-short
 policy-DisableDeveloperTools = ปิดกั้นการเข้าถึงเครื่องมือนักพัฒนา
 policy-DisableForgetButton = ป้องกันไม่ให้เข้าถึงปุ่ม ลืม
 policy-DisableProfileImport = ปิดใช้งานคำสั่งเมนูเพื่อนำเข้าข้อมูลจากแอปพลิเคชันอื่น
+policy-DisableSafeMode = ปิดใช้งานคุณลักษณะสำหรับเริ่มการทำงานใหม่ในโหมดปลอดภัย หมายเหตุ: สามารถปิดใช้งานแป้น Shift สำหรับเข้าสู่โหมดปลอดภัยได้บน Windows เท่านั้นโดยใช้นโยบายกลุ่ม
+policy-DisableSecurityBypass = ป้องกันไม่ให้ผู้ใช้ข้ามคำเตือนความปลอดภัย
 policy-DisableSystemAddonUpdate = ป้องกันไม่ให้ { -brand-short-name } ติดตั้งและอัปเดตส่วนเสริมของระบบ
 policy-DisableTelemetry = ปิดการวัดและส่งข้อมูลทางไกล
 policy-DisplayMenuBar = แสดงแถบเมนูโดยค่าเริ่มต้น
 policy-DNSOverHTTPS = กำหนดค่า DNS ผ่าน HTTPS
+policy-DontCheckDefaultClient = ปิดใช้งานการตรวจสอบไคลเอ็นต์เริ่มต้นเมื่อเปิดโปรแกรม
 policy-DownloadDirectory = ตั้งและล็อคไดเรกทอรีการดาวน์โหลด
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = เปิดหรือปิดใช้งานการปิดกั้นเนื้อหาแล้วเลือกล็อกคุณลักษณะนี้ได้
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = ติดตั้ง ถอนการติดตั้ง หรือล็อกส่วนขยาย ตัวเลือกการติดตั้งนี้จะใช้ URL หรือเส้นทางเป็นพารามิเตอร์ ส่วนตัวเลือกถอนการติดตั้งและล็อกจะใช้ไอดีส่วนขยาย
 policy-ExtensionUpdate = เปิดใช้งานหรือปิดใช้งานการอัปเดตส่วนขยายอัตโนมัติ
 policy-InstallAddonsPermission = อนุญาตให้เว็บไซต์บางส่วนติดตั้งส่วนเสริม
+policy-LocalFileLinks = อนุญาตให้เว็บไซต์ที่ระบุเชื่อมโยงไปยังไฟล์ภายในเครื่อง
+policy-NetworkPrediction = เปิดหรือปิดใช้งานการคาดเดาเครือข่าย (การดึงข้อมูล DNS ล่วงหน้า)
+policy-OfferToSaveLogins = บังคับให้การตั้งค่าอนุญาต { -brand-short-name } ให้เสนอให้จดจำการเข้าสู่ระบบและรหัสผ่านที่บันทึกไว้ โดยสามารถกำหนดค่าเป็นทั้งจริงและเท็จได้
+policy-OverrideFirstRunPage = แทนที่หน้าการเรียกใช้ครั้งแรก ตั้งค่านโยบายนี้เป็นว่างเปล่าถ้าคุณต้องการปิดใช้งานหน้าการเรียกใช้ครั้งแรก
+policy-OverridePostUpdatePage = แทนที่หน้า “มีอะไรใหม่” หลังการอัปเดต ตั้งค่านโยบายนี้เป็นว่างเปล่าถ้าคุณต้องการปิดใช้งานหน้าหลังการอัปเดต
+policy-Preferences = ตั้งและล็อกค่าสำหรับเซตย่อยของค่ากำหนด
+policy-PromptForDownloadLocation = ถามตำแหน่งที่จะบันทึกไฟล์เมื่อดาวน์โหลด
 policy-Proxy = กำหนดค่าการตั้งค่าพร็อกซี
+policy-RequestedLocales = ตั้งค่ารายการภาษาสำหรับแอปพลิเคชันตามลำดับที่ต้องการ
 policy-SanitizeOnShutdown2 = ล้างข้อมูลการนำทางเมื่อปิดเครื่อง
+policy-SearchEngines = กำหนดค่าการตั้งค่าเครื่องมือค้นหา นโยบายนี้ใช้ได้บนรุ่น Extended Support Release (ESR) เท่านั้น
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = ติดตั้งโมดูล PKCS #11
 policy-SSLVersionMax = ตั้งรุ่น SSL สูงสุด
 policy-SSLVersionMin = ตั้งรุ่น SSL ต่ำสุด
+policy-SupportMenu = เพิ่มรายการเมนูฝ่ายสนับสนุนที่กำหนดเองไปยังเมนูช่วยเหลือ
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = ปิดกั้นไม่ให้เยี่ยมชมเว็บไซต์ ดูคู่มือสำหรับรายละเอียดเพิ่มเติมเกี่ยวกับรูปแบบ

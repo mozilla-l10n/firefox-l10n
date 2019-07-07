@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 account-settingsTitle = ตั้งค่าการรับรองความถูกต้อง
+account-channelTitle = แชนเนลเริ่มต้น
