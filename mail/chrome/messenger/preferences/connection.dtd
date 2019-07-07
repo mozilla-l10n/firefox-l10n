@@ -38,6 +38,10 @@
 <!ENTITY  noproxy.label                 "Sin proxy para:">
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "Ejemplo: .mozilla.org, .net.ar, 192.168.1.0/24">
+<!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
+  localhost, 127.0.0.1 and ::1.
+-->
+<!ENTITY  noproxyLocalhostDesc.label   "Las conexiones a localhost, 127.0.0.1 y ::1 nunca pasan pro proxy.">
 <!ENTITY  shareproxy.label              "Usar este servidor proxy para todos los protocolos">
 <!ENTITY  shareproxy.accesskey          "x">
 <!ENTITY  autologinproxy.label          "No pedir autenticación si la contraseña está guardada">
@@ -47,9 +51,6 @@
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  dnsOverHttps.label            "Habilitar DNS por sobre HTTPS">
 <!ENTITY  dnsOverHttps.accesskey        "b">
-<!ENTITY  dnsOverHttpsUrl.label         "URL">
-<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
-<!ENTITY  dnsOverHttpsUrl.tooltip       "URL para resolver DNS por sobre HTTPS">
 <!ENTITY  dnsOverHttpsUrlDefault.label     "Usar la predeterminada">
 <!ENTITY  dnsOverHttpsUrlDefault.accesskey "l">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Usar la URL predeterminada para resolver que DNS tiene prioridad sobre HTTPS">
