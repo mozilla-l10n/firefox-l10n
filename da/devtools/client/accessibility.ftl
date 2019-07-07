@@ -6,7 +6,7 @@
 
 accessibility-learn-more = Læs mere
 
-accessibility-text-label-header = Tekstetiketter og -navne
+accessibility-text-label-header = Tekst-etiketter og -navne
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
@@ -39,7 +39,7 @@ accessibility-text-label-issue-fieldset-legend = Brug elementet <code>legend</co
 
 accessibility-text-label-issue-form = Formular-elementer skal markeres. <a>Læs mere</a>
 
-accessibility-text-label-issue-form-visible = Formular-elementer bør have en synligt tekst-etiket. <a>Læs mere</a>
+accessibility-text-label-issue-form-visible = Formular-elementer bør have en synlig tekst-etiket. <a>Læs mere</a>
 
 accessibility-text-label-issue-frame = <code>frame</code>-elementer skal markeres. <a>Læs mere</a>
 
