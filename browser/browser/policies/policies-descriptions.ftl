@@ -24,10 +24,49 @@ policy-DefaultDownloadDirectory = Postavite zadanu mapu za preuzimanje.
 policy-DisableAppUpdate = Spriječite preglednik da se ažurira.
 policy-DisableBuiltinPDFViewer = Onemogući PDF.js, ugrađeni preglednik PDF datoteka u { -brand-short-name }u.
 policy-DisableDeveloperTools = Blokirajte pristup alatima za razvojne programere.
+policy-DisableFeedbackCommands = Onemogućite naredbe za slanje povratne informacije iz izbornika pomoći (Pošalji povratne informacije i Prijavite obmanjujuću stranicu).
+policy-DisableFirefoxAccounts = Onemogućite usluge koje se temelje na { -fxaccount-brand-name }, uključujući Sync.
+# Firefox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Onemogućite Firefox snimanje zaslona.
+policy-DisableFirefoxStudies = Spriječite { -brand-short-name } da pokreće studije.
+policy-DisableForgetButton = Spriječite pristup tipki za brisanje povijesti pretraživanja.
+policy-DisableFormHistory = Nemoj pamtiti povijest pretraživanja i obrazaca.
+policy-DisableMasterPasswordCreation = Ukoliko je točno, korisnik neće moći napraviti glavnu lozinku.
+policy-DisablePocket = Onemogućite mogućnost spremanja web stranica u Pocket.
 policy-DisablePrivateBrowsing = Onemogući privatno pretraživanje.
+policy-DisableProfileImport = Onemogućite naredbu izbornika za uvoz podatka iz drugog preglednika.
+policy-DisableProfileRefresh = Onemogućite tipku za osvježavanje { -brand-short-name } na about:support stranici.
+policy-DisableSafeMode = Onemogućite značajku za ponovno pokretanje u sigurnom načinu rada. Napomena: Shift tipka za ulazak u sigurni način se može onemogućiti samo na Windowsima koristeći Grupne politike.
+policy-DisableSecurityBypass = Spriječite korisnika da zaobiđe određena sigurnosna upozorenja.
+policy-DisableSetAsDesktopBackground = Onemogućite naredbu izbornika Postavi kao pozadinu radne površine.
+policy-DisableSystemAddonUpdate = Spriječite preglednik da instalira i ažurira sistemske dodatke.
 policy-DisableTelemetry = Isključi telemetriju.
+policy-DisplayBookmarksToolbar = Prema zadanim postavkama prikažite alatnu traku zabilješki.
+policy-DisplayMenuBar = Prema zadanim postavkama prikažite traku izbornika.
 policy-DNSOverHTTPS = Podesi DNS preko HTTPS-a.
 policy-DontCheckDefaultBrowser = Onemogući provjeru za zadani preglednik prilikom pokretanja.
+policy-DownloadDirectory = Postavite i zaključajte direktorij za preuzimanje.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Omogućite ili onemogućite blokiranje sadržaja i opcionalno ga zaključajte.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = Instaliraj, ukloni ili zaključaj dodatke. Mogućnost instalacije uzima URL-ove ili putanje kao parametre. Mogućnosti ukloni ili zaključaj uzima ID dodatka kao parametar.
+policy-ExtensionSettings = Upravljajte svim aspektima instalacije dodataka.
+policy-ExtensionUpdate = Omogućite ili onemogućite automatska ažuriranja dodataka.
+policy-FirefoxHome = Postavite Firefox početnnu stranicu.
+policy-FlashPlugin = Dopustite ili zabranite upotrebu dodatka Flash.
+policy-HardwareAcceleration = Ukoliko je netočno, isključuje hardversko ubrzanje.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Postavite i opcionalno zaključajte početnu stranicu.
+policy-InstallAddonsPermission = Dopustite određenim web stranicama da instaliraju dodatke.
+policy-LocalFileLinks = Omogućite određenim web stranicama poveznice na lokalne datoteke.
+policy-NetworkPrediction = Omogućite ili onemogućite predviđanje mreže (DNS prefetching).
+policy-NewTabPage = Omogućite ili onemogućite stranicu Nova kartica.
+policy-NoDefaultBookmarks = Onemogućite izradu zadanih zabilješki koje dolaze s { -brand-short-name } i pametnih zabilješki (Najposjećenije, Nedavne oznake). Napomena: Ovo pravilo je na snazi samo ako se koristi prije prvog pokretanja profila.
+policy-OfferToSaveLogins = Primorajte postavke dozvole da { -brand-short-name } nudi pamćenje prijava i lozinki. Prihvaćaju se vrijednosti točno i netočno.
+policy-OverrideFirstRunPage = Poništite postavke početne stranice. Postavite ovo pravilo na prazno ukoliko želite onemogućiti početnu stranicu.
+policy-OverridePostUpdatePage = Poništite "Što je novo" stranicu nakon ažuriranja. Postavite ovo pravilo na prazno ukoliko želite onemogućiti stranicu nakon ažuriranja.
 policy-Proxy = Podesi proxy postavke.
 policy-SearchSuggestEnabled = Omogućite ili onemogućite prijedloge za pretraživanje.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
