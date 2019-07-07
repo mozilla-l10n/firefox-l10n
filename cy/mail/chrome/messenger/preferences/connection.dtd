@@ -38,6 +38,10 @@
 <!ENTITY  noproxy.label                 "Dim Dirprwy ar gyfer:">
 <!ENTITY  noproxy.accesskey             "m">
 <!ENTITY  noproxyExplain.label          "Esiampl: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
+  localhost, 127.0.0.1 and ::1.
+-->
+<!ENTITY  noproxyLocalhostDesc.label   "Nid yw cysylltiadau i localhost, 127.0.0.1, a ::1 byth yn cael eu dirprwyo.">
 <!ENTITY  shareproxy.label              "Defnyddio'r gweinydd dirprwyol ar gyfer pob protocol">
 <!ENTITY  shareproxy.accesskey          "f">
 <!ENTITY  autologinproxy.label          "Peidio gofyn am ddilysiad os yw'r cyfrinair wedi ei gadw">
@@ -47,9 +51,6 @@
 <!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  dnsOverHttps.label            "Galluogi DNS dros HTTPS">
 <!ENTITY  dnsOverHttps.accesskey        "G">
-<!ENTITY  dnsOverHttpsUrl.label         "URL">
-<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
-<!ENTITY  dnsOverHttpsUrl.tooltip       "URL ar gyfer datrys DNS dros HTTPS">
 <!ENTITY  dnsOverHttpsUrlDefault.label     "Defnyddio'r rhagosodedig">
 <!ENTITY  dnsOverHttpsUrlDefault.accesskey "D">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Defnyddiwch yr URL rhagosodedig ar gyfer datrys DNS dros HTTPS">
