@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "Manje podataka, više ušteda">
 <!ENTITY firstrun_data_subtext2 "Onemogućite prikazivanje slika kako biste po svakoj posjećenoj stranici potrošili manje podatkovnog prometa.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY updatednewfirstrun_sync_title "Račun">
 <!ENTITY firstrun_sync_message2 "Nastavite gdje ste stali.">
 <!ENTITY firstrun_sync_subtext2 "Koristite Sinkronizaciju kako biste našli zabilješke, lozinke i ostalo što spremate na &brandShortName; kod svih vaših uređaja.">
 <!ENTITY newfirstrun_sync_subtext "Sinkronizirajte stvari koje spremite na mobitelu s Firefoxom za računala, privatno i sigurno.">
@@ -68,7 +69,6 @@
 <!ENTITY  sending_crash_report "Slanje izvještaja o rušenju\u2026">
 <!ENTITY  crash_close_label "Zatvori">
 <!ENTITY  crash_restart_label "Ponovno pokreni &brandShortName;">
-
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; se srušio">
@@ -116,7 +116,6 @@
 <!ENTITY bookmark_folder_updated "Mapa ažurirana">
 <!ENTITY bookmark_parent_folder "Nadređena mapa">
 <!ENTITY bookmark_add_folder "Dodaj novu mapu">
-
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
 <!ENTITY bookmark_default_folder_title "(bez naslova)">
@@ -340,11 +339,6 @@
 <!ENTITY pref_pwa "Progresivne web aplikacije">
 <!ENTITY pref_pwa_summary "Dozvoli dodavanje web aplikacija na početnu stranicu">
 
-<!ENTITY tracking_protection_prompt_title "Sada s zaštitom od praćenja">
-<!ENTITY tracking_protection_prompt_text "Aktivno blokira elemente za praćenje tako da se ne morate brinuti.">
-<!ENTITY tracking_protection_prompt_tip_text "Posjetite Postavke privatnost kako biste saznali više">
-<!ENTITY tracking_protection_prompt_action_button "Razumijem!">
-
 <!ENTITY tab_queue_toast_message3 "Kartica spremljena u &brandShortName;">
 <!ENTITY tab_queue_toast_action "Otvori sada">
 <!ENTITY tab_queue_prompt_title "Otvori više poveznica?">
@@ -430,7 +424,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Pritisnite na polje Aplikacija preglednika i odaberite &brandShortName;">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Posjetite Mozillinu podršku">
 <!ENTITY pref_about_firefox "O &brandShortName;">
 <!ENTITY pref_vendor_faqs "Često postavljana pitanja">
 <!ENTITY pref_vendor_feedback "Dajte povratnu informaciju">
@@ -691,7 +684,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Odaberite ili snimite zvuk">
 <!ENTITY filepicker_image_title "Odaberite ili snimite sliku">
 <!ENTITY filepicker_video_title "Odaberite ili snimite video">
-
 <!ENTITY filepicker_permission_denied "Obavezna dopuštenja nisu odobrena, povratak na odabir datoteka od strane sustava.">
 
 <!-- Site identity popup -->
