@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY cutCmd.accesskey "P">
 <!ENTITY cutCmd.label "Prije">
-<!ENTITY copyCmd.accesskey "K">
+<!ENTITY cutCmd.accesskey "P">
 <!ENTITY copyCmd.label "Kopjoje">
-<!ENTITY pasteCmd.accesskey "N">
+<!ENTITY copyCmd.accesskey "K">
 <!ENTITY pasteCmd.label "Ngjite">
-<!ENTITY undoCmd.accesskey "z">
+<!ENTITY pasteCmd.accesskey "N">
 <!ENTITY undoCmd.label "Zhbëje">
+<!ENTITY undoCmd.accesskey "z">
 <!ENTITY selectAllCmd.label "Përzgjidhe Krejt">
 <!ENTITY selectAllCmd.accesskey "i">
 <!ENTITY deleteCmd.label "Fshije">
@@ -29,6 +29,8 @@
 
 <!ENTITY fillLoginMenu.label          "Jepni Kredenciale Hyrjeje">
 <!ENTITY fillLoginMenu.accesskey      "J">
+<!ENTITY fillSuggestedPassword.label  "Përdorni një Fjalëkalim të Sugjeruar">
+<!ENTITY fillSuggestedPassword.accesskey "K">
 <!ENTITY fillPasswordMenu.label       "Jepni Fjalëkalimin">
 <!ENTITY fillPasswordMenu.accesskey   "J">
 <!ENTITY fillUsernameMenu.label       "Jepni Emër Përdoruesi">
