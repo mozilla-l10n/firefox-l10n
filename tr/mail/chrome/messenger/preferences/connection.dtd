@@ -46,7 +46,7 @@
 <!ENTITY  shareproxy.accesskey          "v">
 <!ENTITY  autologinproxy.label          "Parola kayıtlıysa kimlik doğrulama isteme">
 <!ENTITY  autologinproxy.accesskey      "i">
-<!ENTITY  autologinproxy.tooltip        "Bu seçenek, hesap bilgilerini kaydettiğiniz vekil sunucularda sessizce oturum açar. Kimlik doğrulama başarısız olursa bilgileriniz sorulur.">
+<!ENTITY  autologinproxy.tooltip        "Bu seçenek, hesap bilgilerini kaydettiğiniz vekil sunucularda kimliğinizi sessizce doğrular. Kimlik doğrulama başarısız olursa bilgileriniz sorulur.">
 <!ENTITY  socksRemoteDNS.label          "SOCKS v5 kullanırken vekil sunucu DNS’i">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  dnsOverHttps.label            "HTTP üzerinden DNS’i etkinleştir">
