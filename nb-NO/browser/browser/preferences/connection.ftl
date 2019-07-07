@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = Ingen proxy for
     .accesskey = I
 connection-proxy-noproxy-desc = Eksempel: .mozilla.org, .online.no, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = Tilkoblinger til localhost, 127.0.0.1 og ::1 er aldri koblet til via proxy.
 connection-proxy-autotype =
     .label = Automatisk proxy-konfigureringsadresse
     .accesskey = A
@@ -70,12 +72,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Aktiver DNS-over-HTTPS
     .accesskey = H
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = Bruk standard ({ $url })
-    .accesskey = u
-    .tooltiptext = Bruk standardnettadressen for å slå opp DNS over HTTPS
 connection-dns-over-https-url-resolver = Bruk leverandør
     .accesskey = B
 # Variables:
