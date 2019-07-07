@@ -14,6 +14,7 @@ extensions-name = Naziv
 extensions-enabled = Omogućeno
 extensions-version = Inačica
 extensions-id = ID
+security-software-title = Sigurnosni softver
 security-software-type = Vrsta
 security-software-name = Naziv
 security-software-antivirus = Antivirus
@@ -22,11 +23,21 @@ features-title = { -brand-short-name } mogućnosti
 features-name = Naziv
 features-version = Inačica
 features-id = ID
+processes-title = Udaljeni procesi
+processes-type = Vrsta
+processes-count = Broj
 app-basics-title = Osnove aplikacije
 app-basics-name = Naziv
 app-basics-version = Inačica
 app-basics-build-id = Build ID
 app-basics-update-channel = Kanal ažuriranja
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Ažuriraj mapu
+       *[other] Ažuriraj mapu
+    }
 app-basics-update-history = Povijest ažuriranja
 app-basics-show-update-history = Prikaži povijest ažuriranja
 app-basics-profile-dir =
@@ -43,8 +54,9 @@ app-basics-performance = Performanse
 app-basics-service-workers = Registrirani service workeri
 app-basics-profiles = Profili
 app-basics-multi-process-support = Više procesni prozori
-app-basics-process-count = Procesi web sadržaja
-app-basics-key-google = Google Key
+app-basics-remote-processes-count = Udaljeni procesi
+app-basics-location-service-key-google = Google Location Service Key
+app-basics-safebrowsing-key-google = Google Safebrowsing Key
 app-basics-key-mozilla = Mozilla Location Service Key
 app-basics-safe-mode = Sigurni način rada
 show-dir-label =
@@ -105,6 +117,9 @@ media-device-format = Oblik
 media-device-channels = Kanali
 media-device-rate = Stopa
 media-device-latency = Latencija
+intl-title = Internacionalizacija i lokalizacija
+intl-app-title = Postavke aplikacije
+intl-os-title = Operacijski sustav
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -173,6 +188,8 @@ unknown = Nepoznato
 
 found = Pronađeno
 missing = Nedostaje
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Opis
 gpu-vendor-id = ID proizvođača
 gpu-device-id = ID uređaja
@@ -206,6 +223,10 @@ can-sandbox-content = Sandboxing sadržajnog procesa
 can-sandbox-media = Sandboxing media priključka
 sandbox-proc-type-content = sadržaj
 sandbox-proc-type-media-plugin = medij priključak
+launcher-process-status-0 = Omogućeno
+launcher-process-status-1 = Onemogućeno zbog kvara
+launcher-process-status-2 = Prisilno onemogućeno
+launcher-process-status-unknown = Nepoznato stanje
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -233,3 +254,6 @@ touch-warning = async touch input je onemoguće zbog nepodržane postavke: { $pr
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Neaktivno
+policies-active = Aktivno
+policies-error = Greška
