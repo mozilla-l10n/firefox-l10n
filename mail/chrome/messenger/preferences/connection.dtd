@@ -37,6 +37,7 @@
 <!ENTITY noproxy.label "No usar proxy para:">
 <!ENTITY noproxy.accesskey "n">
 <!ENTITY noproxyExplain.label "Ejemplo: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY noproxyLocalhostDesc.label "Las conexiones a localhost, 127.0.0.1 y ::1 nunca se tratan por el proxy.">
 <!ENTITY shareproxy.label "Usar el mismo proxy para todo">
 <!ENTITY shareproxy.accesskey "x">
 <!ENTITY autologinproxy.label "No solicitar identificación si la contraseña está guardada">
