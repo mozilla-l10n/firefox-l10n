@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = Tiesiogiai jungtis prie
     .accesskey = t
 connection-proxy-noproxy-desc = Pavyzdys: .mozilla.org, .lrs.lt, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = Prisijungimai prie localhost, 127.0.0.1, ir ::1 niekada neina per įgaliotąjį serverį.
 connection-proxy-autotype =
     .label = Automatinė įgaliotųjų serverių sąranka iš URL
     .accesskey = A
@@ -70,12 +72,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Įjungti DNS per HTTPS
     .accesskey = j
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = Naudoti numatytąjį ({ $url })
-    .accesskey = N
-    .tooltiptext = DNS išrišimui per HTTPS naudoti numatytąjį URL
 connection-dns-over-https-url-resolver = Naudoti teikėją
     .accesskey = t
 # Variables:
