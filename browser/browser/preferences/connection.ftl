@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = არ გამოიყენება შემდეგ მისამართებზე
     .accesskey = ა
 connection-proxy-noproxy-desc = მაგალითი: .mozilla.org, .net.nz, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = ადგილობრივი კავშირები, 127.0.0.1 და ::1 არასდროს გამოიყენებს პროქსის.
 connection-proxy-autotype =
     .label = პროქსის თვითგამართვის URL
     .accesskey = ა
@@ -70,12 +72,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = DNS-სთან HTTPS-კავშირი
     .accesskey = H
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = ნაგულისხმევის გამოყენება ({ $url })
-    .accesskey = ნ
-    .tooltiptext = ნაგულისხმევი URL-ს გამოყენება DNS-გადაყვანებისთვის HTTPS-ით
 connection-dns-over-https-url-resolver = მომსახურების გამოყენება
     .accesskey = ხ
 # Variables:
