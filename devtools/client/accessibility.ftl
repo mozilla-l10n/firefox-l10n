@@ -21,14 +21,21 @@ accessibility-best-practices =
 ## that describe that currently selected accessible object has an accessibility issue
 ## with its text label or accessible name.
 
-accessibility-text-label-issue-area = Defnyddiwch briodoledd <code>alt</code> i labelu elfennau <div>ardal</div> sydd â phriodoledd <span>href</span>. <a> Dysgu rhagor</a>
+accessibility-text-label-issue-area = Defnyddiwch briodoledd <code>alt</code> i labelu elfennau <div>ardal</div> sydd â phriodoledd <span>href</span>. <a>Dysgu rhagor</a>
 accessibility-text-label-issue-dialog = Rhais labelu deialogau. <a>Dysgu rhagor</a>
-accessibility-text-label-issue-document-title = Rhaid i ddogfennau feddu ar <code>deitl</code>. <a> Dysgu rhagor</a>
-accessibility-text-label-issue-embed = Rhaid labelu cynnwys wedi'i fewnblannu. <a> ysgu rhagor</a>
+accessibility-text-label-issue-document-title = Rhaid i ddogfennau feddu ar <code>deitl</code>. <a>Dysgu rhagor</a>
+accessibility-text-label-issue-embed = Rhaid labelu cynnwys wedi'i fewnblannu. <a>Dysgu rhagor</a>
 accessibility-text-label-issue-figure = Dylid labelu nodau â chapsiynau dewisol. <a>Dysgu rhagor</a>
-accessibility-text-label-issue-fieldset = Rhaid labelu elfennau <code>fielset</code>. <a> Dysgu rhagor</a>
-accessibility-text-label-issue-fieldset-legend = Defnyddiwch yr elfen <code>legend</code> i labelu elfennau <span>fieldset</span>. <a> Dysgu rhagor</a>
+accessibility-text-label-issue-fieldset = Rhaid labelu elfennau <code>fielset</code>. <a>Dysgu rhagor</a>
+accessibility-text-label-issue-fieldset-legend = Defnyddiwch yr elfen <code>legend</code> i labelu elfennau <span>fieldset</span>. <a>Dysgu rhagor</a>
 accessibility-text-label-issue-form = Rhaid labelu elfennau ffurflen. <a>Dysgu rhagor</a>
 accessibility-text-label-issue-form-visible = Dylai fod gan elfennau ffurflenni label testun gweladwy. <a>Dysgu rhagor</a>
 accessibility-text-label-issue-frame = Rhaid labelu elfennau <code>frame</code>. <a>Dysgu rhagor</a>
 accessibility-text-label-issue-glyph = Defnyddiwch briodoledd <code>alt</code> i labelu elfennau <span>mglyph</span>. <a>Dysgu rhagor</a>
+accessibility-text-label-issue-heading = Rhaid labelu'r penawdau. <a>Dysgu rhagor</a>
+accessibility-text-label-issue-heading-content = Dylai penawdau gynnwys testun gweladwy. <a>Dysgu rhagor</a>
+accessibility-text-label-issue-iframe = Defnyddiwch briodoledd <code>title</code> i ddisgrifio cynnwys <span>iframe</span>. <a>Dysgu rhagor</a>
+accessibility-text-label-issue-image = Rhaid labelu cynnwys gyda delweddau. <a>Dysgu rhagor</a>
+accessibility-text-label-issue-interactive = Rhaid labelu elfennau rhyngweithiol. <a>Dysgu rhagor</a>
+accessibility-text-label-issue-optgroup-label = Defnyddiwch briodoledd <code>label</code> i labelu elfennau <p>optgroup</span>. <a>Dysgu rhagor</a>
+accessibility-text-label-issue-toolbar = Rhaid labelu bariau offer pan fydd mwy nag un bar offer. <a>Dysgu rhagor</a>
