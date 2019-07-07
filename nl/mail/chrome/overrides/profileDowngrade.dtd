@@ -12,7 +12,7 @@
 <!ENTITY window.title "U hebt een oudere versie van &brandProductName; gestart">
 <!ENTITY window.style "width: 490px;">
 
-<!ENTITY window.nosync "Het gebruik van een oudere versie van &brandProductName; kan een bestaand &brandProductName;-profiel beschadigen. Maak een nieuw profiel aan voor deze installatie van &brandShortName; om uw informatie te beschermen.">
+<!ENTITY window.nosync2 "Een nieuwere versie van &brandProductName; heeft misschien wijzigingen in uw profiel aangebracht, waardoor deze niet meer compatibel is met deze oudere versie. Gebruik dit profiel alleen met die nieuwere versie of cmaak een nieuw profiel aan voor deze iinstallatie van &brandShortName;. Als u een nieuw profiel aanmaakt, moet u uw accounts, agenda’s en add-ons opnieuw instellen.">
 
 <!ENTITY window.moreinfo "Meer informatie…">
 <!ENTITY window.create "Nieuw profiel aanmaken">
