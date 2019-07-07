@@ -40,7 +40,7 @@
 <!ENTITY threadColumn.label "მიმოწერა">
 <!ENTITY fromColumn.label "გამგზავნი">
 <!ENTITY recipientColumn.label "მიმღები">
-<!ENTITY correspondentColumn.label "მომწოდებლები">
+<!ENTITY correspondentColumn.label "გამომგზავნები">
 <!ENTITY subjectColumn.label "თემა">
 <!ENTITY dateColumn.label "თარიღი">
 <!ENTITY priorityColumn.label "პრიორიტეტი">
@@ -62,7 +62,7 @@
 <!ENTITY threadColumn2.tooltip "მიმოწერის ჩვენება">
 <!ENTITY fromColumn2.tooltip "გამომგზავნის მიხედვით">
 <!ENTITY recipientColumn2.tooltip "მიმღების მიხედვით">
-<!ENTITY correspondentColumn2.tooltip "მომწოდებლის მიხედვით">
+<!ENTITY correspondentColumn2.tooltip "გამომგზავნების მიხედვით">
 <!ENTITY subjectColumn2.tooltip "თემის მიხედვით">
 <!ENTITY dateColumn2.tooltip "თარიღის მიხედვით">
 <!ENTITY priorityColumn2.tooltip "უპირატესობის მიხედვით">
