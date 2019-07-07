@@ -24,6 +24,7 @@
 <!ENTITY firstrun_sync_message2 "Pokračujte tam, kde jste skončili.">
 <!ENTITY firstrun_sync_subtext2 "Používejte Sync k nalezení záložek, hesel a dalších věcí uložených v aplikaci &brandShortName; na všech vašich zařízeních.">
 <!ENTITY newfirstrun_sync_subtext "Synchronizujte věci, které ukládáte na mobilu, s Firefoxem pro počítač – soukromě a bezpečně.">
+<!ENTITY updatednewfirstrun_sync_subtext "Přihlaste se ke svému účtu a využijte aplikace &brandShortName; naplno">
 <!ENTITY firstrun_signin_message "Připojte se a začněte">
 <!ENTITY firstrun_signin_button "Přihlásit se ke službě Sync">
 <!ENTITY newfirstrun_signin_button "Zapnout synchronizaci">
@@ -66,7 +67,6 @@
 <!ENTITY  sending_crash_report "Odesílání hlášení o pádu\u2026">
 <!ENTITY  crash_close_label "Zavřít">
 <!ENTITY  crash_restart_label "Restartovat &brandShortName;">
-
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 
@@ -111,7 +111,6 @@
 <!ENTITY bookmark_folder_updated "Složka aktualizována">
 <!ENTITY bookmark_parent_folder "Nadřazená složka">
 <!ENTITY bookmark_add_folder "Přidat novou složku">
-
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
 
@@ -334,11 +333,6 @@
 <!ENTITY pref_pwa "Progresivní webové aplikace">
 <!ENTITY pref_pwa_summary "Povolit webovým aplikacím přidání na domovskou obrazovku">
 
-<!ENTITY tracking_protection_prompt_title "Nyní s Ochranou proti sledování">
-<!ENTITY tracking_protection_prompt_text "Aktivně blokuje prvky, které vás mohou sledovat, abyste se o ně nemuseli starat.">
-<!ENTITY tracking_protection_prompt_tip_text "Pro více informací se navštivte nastavení Soukromí">
-<!ENTITY tracking_protection_prompt_action_button "Rozumím">
-
 <!ENTITY tab_queue_toast_message3 "Panel uložen do aplikace &brandShortName;">
 <!ENTITY tab_queue_toast_action "Otevřít nyní">
 <!ENTITY tab_queue_prompt_title "Otevíráte více odkazů?">
@@ -424,7 +418,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Klepněte na „Prohlížeč“ a vyberte &brandShortName;">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Navštivte nápovědu">
 <!ENTITY pref_about_firefox "O aplikaci &brandShortName;">
 <!ENTITY pref_vendor_faqs "Časté otázky">
 <!ENTITY pref_vendor_feedback "Zpětná vazba">
@@ -684,7 +677,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Vyberte nebo nahrajte zvuk">
 <!ENTITY filepicker_image_title "Vyberte nebo vyfoťte obrázek">
 <!ENTITY filepicker_video_title "Vyberte nebo natočte video">
-
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Jste připojeni k">
