@@ -12,4 +12,9 @@
 <!ENTITY window.title "Rydych chi wedi cychwyn fersiwn hŷn o &brandProductName;">
 <!ENTITY window.style "width: 490px;">
 
+<!ENTITY window.nosync2 "Efallai fod fersiwn mwy diweddar o &brandProductName; wedi gwneud newidiadau i'ch proffil nad ydynt bellach yn gydnaws â'r fersiwn hŷn hwn. Defnyddiwch y proffil hwn yn unig gyda'r fersiwn mwy newydd hwnnw, neu crëwch broffil newydd ar gyfer y gosodiad hwn o &brandShortName;. Er mwyn creu proffil newydd mae angen gosod eich cyfrifon, calendrau a'ch ychwanegion eto.">
 
+<!ENTITY window.moreinfo "Rhagor o wybodaeth…">
+<!ENTITY window.create "Creu Proffil Newydd">
+<!ENTITY window.quit-win "Gadael">
+<!ENTITY window.quit-nonwin "Gadael">
