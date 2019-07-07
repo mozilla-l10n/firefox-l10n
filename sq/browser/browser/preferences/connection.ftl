@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = Pa ndërmjetës për
     .accesskey = a
 connection-proxy-noproxy-desc = Shembull: .mozilla.org, .net.nz, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = Lidhjet me localhost, 127.0.0.1, dhe ::1 nuk kalohen kurrë përmes ndërmjetësi.
 connection-proxy-autotype =
     .label = URL formësimi të vetvetishëm ndërmjetësi
     .accesskey = v
@@ -70,12 +72,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Aktivizo DNS përmes HTTPS-je
     .accesskey = A
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = Përdor parazgjedhjen ({ $url })
-    .accesskey = P
-    .tooltiptext = Për ftillim DNS-je përmes HTTPS-së, përdor URL-në parazghjedhje
 connection-dns-over-https-url-resolver = Përdor Furnizues
     .accesskey = P
 # Variables:
