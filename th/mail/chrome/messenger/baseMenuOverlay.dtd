@@ -28,6 +28,8 @@
 
 <!ENTITY aboutMenuCmd2.label "เกี่ยวกับ &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "ก">
+<!ENTITY helpSafeMode.stop.label     "เริ่มการทำงานใหม่พร้อมเปิดใช้งานส่วนเสริม">
+<!ENTITY helpSafeMode.stop.accesskey "ร">
 <!ENTITY productHelp.label "ความช่วยเหลือของ &brandShortName;">
 <!ENTITY productHelp.accesskey "ค">
 <!ENTITY productHelp.commandkey "VK_F1">
