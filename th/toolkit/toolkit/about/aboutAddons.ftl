@@ -97,6 +97,10 @@ detail-private-browsing-description2 = เมื่ออนุญาตแล�
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = ไม่อนุญาตในหน้าต่างส่วนตัว
+detail-private-disallowed-description = ส่วนขยายนี้จะไม่ทำงานในขณะที่เรียกดูแบบส่วนตัว <label data-l10n-name="detail-private-Browsing-Learn-more">เรียนรู้เพิ่มเติม</label>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = จำเป็นต้องเข้าถึงหน้าต่างแบบส่วนตัว
+detail-private-required-description = ส่วนขยายนี้จะสามารถเข้าถึงกิจกรรมออนไลน์ของคุณได้ในขณะที่เรียกดูแบบส่วนตัว <label data-l10n-name="detail-private-browsing-learn-more">เรียนรู้เพิ่มเติม</label>
 detail-private-browsing-on =
     .label = อนุญาต
     .tooltiptext = เปิดใช้งานในการเรียกดูแบบส่วนตัว
@@ -236,6 +240,7 @@ shortcuts-pageAction = เปิดใช้งานการกระทำห
 shortcuts-sidebarAction = เปิด/ปิดแถบข้าง
 shortcuts-modifier-mac = รวม Ctrl, Alt หรือ ⌘
 shortcuts-modifier-other = รวม Ctrl หรือ Alt
+shortcuts-invalid = ลำดับแป้นพิมพ์ไม่ถูกต้อง
 shortcuts-letter = พิมพ์ตัวอักษร
 shortcuts-system = ไม่สามารถเขียนทับทางลัด { -brand-short-name }
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -276,6 +281,11 @@ remove-addon-button = เอาออก
 disable-addon-button = ปิดใช้งาน
 enable-addon-button = เปิดใช้งาน
 expand-addon-button = ตัวเลือกเพิ่มเติม
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] ตัวเลือก
+       *[other] ค่ากำหนด
+    }
 details-addon-button = รายละเอียด
 release-notes-addon-button = บันทึกประจำรุ่น
 permissions-addon-button = การอนุญาต
@@ -322,6 +332,7 @@ install-update-button = อัปเดต
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = อนุญาตในหน้าต่างส่วนตัวแล้ว
+addon-detail-private-browsing-help = เมื่อได้รับอนุญาต ส่วนขยายจะสามารถเข้าถึงกิจกรรมออนไลน์ของคุณได้ในขณะที่เรียกดูแบบส่วนตัว <a data-l10n-name="learn-more">เรียนรู้เพิ่มเติม</a>
 addon-detail-private-browsing-allow = อนุญาต
 addon-detail-private-browsing-disallow = ไม่อนุญาต
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
@@ -332,4 +343,9 @@ addon-badge-recommended =
 available-updates-heading = การอัปเดตที่มี
 recent-updates-heading = การอัปเดตล่าสุด
 release-notes-loading = กำลังโหลด…
+addon-permissions-empty = ส่วนขยายนี้ไม่ต้องการการอนุญาตใด ๆ
 recommended-extensions-heading = ส่วนขยายที่แนะนำ
+recommended-themes-heading = ชุดตกแต่งที่แนะนำ
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = รู้สึกสร้างสรรค์ใช่ไหม? <a data-l10n-name="link">สร้างชุดตกแต่งในรูปแบบของคุณเองด้วย Firefox Color</a>
