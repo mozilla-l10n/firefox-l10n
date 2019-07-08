@@ -28,6 +28,8 @@
 
 <!ENTITY aboutMenuCmd2.label "About &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "A">
+<!ENTITY helpSafeMode.stop.label     "Restart with Add-ons Enabled">
+<!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "&brandShortName; Help">
 <!ENTITY productHelp.accesskey "H">
 <!ENTITY productHelp.commandkey "VK_F1">
