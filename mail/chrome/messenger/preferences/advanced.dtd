@@ -30,6 +30,7 @@
 
 <!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetri">
+<!ENTITY enableTelemetry.label           "Aktifkan Telemetri">
 <!ENTITY telemetryLearnMore.label        "Pelajari Lebih Lanjut">
 
 <!ENTITY crashReporterLearnMore.label    "Pelajari Lebih Lanjut">
@@ -82,5 +83,6 @@
 <!ENTITY certs.auto.accesskey            "P">
 <!ENTITY certs.ask                       "Tanyakan selalu">
 
+<!ENTITY manageCertificates.label "Kelola Sertifikat">
 <!ENTITY viewSecurityDevices.label "Perangkat Keamanan">
 <!ENTITY viewSecurityDevices.accesskey "k">
