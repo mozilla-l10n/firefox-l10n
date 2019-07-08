@@ -26,7 +26,12 @@ abuse-report-submit-button = Kirim
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+abuse-report-messagebar-submitted = Terima kasih telah mengirimkan laporan. Apakah Anda ingin menghapus <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = Terima kasih telah mengirimkan laporan.
+abuse-report-messagebar-removed-extension = Terima kasih telah mengirimkan laporan. Anda telah menghapus ekstensi <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-theme = Terima kasih telah mengirimkan laporan. Anda telah menghapus tema <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error = Terjadi kesalahan saat mengirim laporan untuk <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error-recent-submit = Laporan untuk <span data-l10n-name="addon-name">{ $addon-name }</span> tidak terkirim karena laporan lain telah dikirimkan baru-baru ini.
 
 ## Message bars actions.
 
@@ -40,6 +45,7 @@ abuse-report-messagebar-action-cancel = Batal
 abuse-report-settings-suggestions-search = Ubah setelan pencarian baku Anda
 abuse-report-settings-suggestions-homepage = Ubah beranda dan tab baru Anda
 abuse-report-deceptive-reason = Berpura-pura menjadi sesuatu yang palsu
+abuse-report-policy-reason = Konten yang berisi kebencian, kekerasan, atau melanggar hukum
 abuse-report-unwanted-reason = Tidak pernah menginginkan ekstensi ini dan tidak dapat membuangnya
 abuse-report-unwanted-example = Contoh: Sebuah aplikasi memasang sesuatu tanpa izin saya
 abuse-report-other-reason = Lainnya
