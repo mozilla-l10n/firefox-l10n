@@ -152,9 +152,6 @@ legacy-extensions-description = Tato rozšíření byla zakázána, protože neo
 private-browsing-description2 =
     Fungování rozšíření pro aplikaci { -brand-short-name } se v anonymním prohlížení mění. Všechna nově nainstalovaná rozšíření, nebudou ve výchozím nastavení v anonymních oknech fungovat, pokud jim to nepovolíte. Rozšíření tak nebudou mít bez vašeho vědomí přístup k tomu, co v anonymním prohlížení děláte.
     <label data-l10n-name="private-browsing-learn-more">Jak na nastavení rozšíření</label>
-extensions-view-discover =
-    .name = Získání doplňků
-    .tooltiptext = Získejte další zajímavé doplňky
 extensions-view-discopane =
     .name = Doporučení
     .tooltiptext = { extensions-view-discopane.name }
@@ -361,8 +358,8 @@ addon-detail-private-browsing-disallow = Nepovolit
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.
 addon-badge-recommended =
-    .title = Doporučené
-    .alt = Doporučené
+    .title = Doporučené rozšíření
+    .alt = { addon-badge-recommended.title }
 available-updates-heading = Dostupné aktualizace
 recent-updates-heading = Aktualizováno
 release-notes-loading = Načítání…
