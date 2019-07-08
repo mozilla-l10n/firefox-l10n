@@ -155,9 +155,6 @@ private-browsing-description2 =
     ekstensi tidak akan berfungsi saat menjelajah secara pribadi dan tidak akan memiliki akses ke aktivitas daring Anda
     pada jendela pribadi tersebut. Kami telah membuat perubahan ini untuk menjaga penelusuran pribadi Anda tetap pribadi.
     <label data-l10n-name="private-browsing-learn-more">Pelajari cara mengelola pengaturan ekstensi.</label>
-extensions-view-discover =
-    .name = Unduh Pengaya
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Rekomendasi
     .tooltiptext = { extensions-view-discopane.name }
@@ -344,6 +341,7 @@ addon-badge-recommended =
     .title = Disarankan
     .alt = Disarankan
 available-updates-heading = Versi Baru yang Tersedia
+recent-updates-heading = Versi Terkini
 release-notes-loading = Memuat…
 release-notes-error = Maaf, galat terjadi ketika memuat catatan rilis.
 addon-permissions-empty = Ekstensi ini tidak memerlukan izin apa pun
