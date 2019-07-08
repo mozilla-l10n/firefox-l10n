@@ -104,19 +104,19 @@
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
 <!ENTITY performanceUI.enableMemory             "Memorie de înregistrare">
-<!ENTITY performanceUI.enableMemory.tooltiptext "Utilizarea memoriei de înregistrare la generarea profilurilor.">
+<!ENTITY performanceUI.enableMemory.tooltiptext "Înregistrează consumul de memorie în timpul profilării.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableAllocations): This string
   -  is displayed next to a checkbox determining whether or not allocation
   -  measurements are enabled. -->
 <!ENTITY performanceUI.enableAllocations             "Înregistrează alocările">
-<!ENTITY performanceUI.enableAllocations.tooltiptext "Înregistrează alocările de obiecte la generarea profilurilor.">
+<!ENTITY performanceUI.enableAllocations.tooltiptext "Înregistrează alocările de obiecte în timpul profilării.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
 <!ENTITY performanceUI.enableFramerate             "Înregistrează frecvența cadrelor">
-<!ENTITY performanceUI.enableFramerate.tooltiptext "Înregistrează frecvența cadrelor la generarea profilurilor.">
+<!ENTITY performanceUI.enableFramerate.tooltiptext "Înregistrează frecvența cadrelor în timpul profilării.">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.

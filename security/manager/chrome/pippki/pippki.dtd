@@ -37,7 +37,7 @@
 <!ENTITY pkcs12.setpassword.reminder "Important: Dacă uiți parola de siguranță pentru certificate, nu vei putea reface această copie mai târziu.  Te rugăm să ai grijă să o păstrezi într-un loc sigur.">
 
 <!ENTITY chooseToken.title  "Alege dialogul pentru jetoane">
-<!ENTITY chooseToken.message1 "Te rugăm să alegi un cod.">
+<!ENTITY chooseToken.message1 "Te rugăm să alegi un jeton.">
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Se generează o cheie privată">
