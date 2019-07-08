@@ -134,3 +134,4 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "लगता है आपकी नेटवर्क सिक्योरिटी के कारण यह हो रहा है. क्या आप चाहते हैं कि आपकी सेटिंग पुरानी स्थिति में आ जाए?">
 <!ENTITY prefReset.label "तयशुदा सेटिंग्स पुरानी स्थिति में लाएं">
 
+<!ENTITY networkProtocolError.title "नेटवर्क प्रोटोकॉल त्रुटि">
