@@ -63,7 +63,7 @@
 <!ENTITY cellAlignBottom.label            "Jos">
 <!ENTITY cellAlignJustify.label           "Îndreptat">
 <!ENTITY cellInheritColor.label           "(Lasă să se vadă culoarea tabelului)">
-<!ENTITY cellUseCheckboxHelp.label        "Folosiți casetele de validare pentru a indica ce proprietăți se aplică celulelor selectate">
+<!ENTITY cellUseCheckboxHelp.label        "Folosește casetele de validare pentru a indica ce proprietăți se aplică celulelor selectate">
 
 <!-- Used in both Table and Cell panels  -->
 <!ENTITY size.label                       "Mărime">

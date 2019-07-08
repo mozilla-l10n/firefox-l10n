@@ -15,7 +15,7 @@
 <!ENTITY sendHTML.accesskey           "s">
 <!ENTITY sendBoth.label               "Trimite mesajul atât în format text cât și în format HTML">
 <!ENTITY sendBoth.accesskey           "e">
-<!ENTITY override.label               "Sfat: Folosește agenda de contacte pentru a specifica formatul preferat de destinatari.">
+<!ENTITY override.label               "Notă: Folosește agenda de contacte pentru a specifica formatul preferat de destinatari.">
 
 <!ENTITY domaindesc.label             "Când trimiți un mesaj la o adresă cu una dintre denumirile de domeniu afișate mai jos, &brandShortName; va trimite automat mesajul în formatul corect.">
 <!ENTITY HTMLTab.label                "Domenii cu HTML">
