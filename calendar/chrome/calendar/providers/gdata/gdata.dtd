@@ -19,4 +19,4 @@
 <!ENTITY gdata.wizard.session.description "Te rugăm să alegi o sesiune existentă sau să îți introduci adresa de e-mail pentru a crea o sesiune nouă. Ai nevoie numai de o sesiune per cont.">
 <!ENTITY gdata.wizard.calendars.description "Te rugăm să selectezi calendarele și listele de sarcini la care dorești să te abonezi.">
 
-<!ENTITY gdata.wizard.nextstep.description "Te rugăm să treci la pasul următor pentru configurarea calendarelor.">
+<!ENTITY gdata.wizard.nextstep.description "Te rugăm să treci la pasul următor pentru a configura calendarele.">
