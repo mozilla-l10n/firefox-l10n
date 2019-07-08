@@ -27,6 +27,7 @@
 <!ENTITY addToUserDictionaryButton.accessKey "K">
 <!ENTITY editUserDictionaryButton.label "Sunting…">
 <!ENTITY editUserDictionaryButton.accessKey "u">
+<!ENTITY recheckButton2.label "Cek Ulang Teks">
 <!ENTITY closeButton.label "Tutup">
 <!ENTITY closeButton.accessKey "T">
 <!ENTITY sendButton.label "Kirim">

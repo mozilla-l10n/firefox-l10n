@@ -9,6 +9,8 @@
 # The button when displayed is located directly under the Thunderbird version in
 # the about dialog.
 -->
+<!ENTITY update.checkForUpdatesButton.label       "Periksa Versi Baru">
+<!ENTITY update.updateButton.label3               "Mulai ulang untuk memutakhirkan &brandShorterName;">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
@@ -28,7 +30,10 @@
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "komunitas global">
 
+<!ENTITY helpus.start               "Ingin membantu? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
+<!ENTITY helpus.donateLink          "Berikan sumbangan">
+<!ENTITY helpus.middle              " atau ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to https://www.thunderbird.net/get-involved/. -->
 <!ENTITY helpus.end                 "">
 
