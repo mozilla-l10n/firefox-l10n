@@ -106,7 +106,7 @@ permissions-exceptions-autoplay-media-desc2 = Mund të caktoni cilëve sajte u l
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window =
-    .title = Rregullime - Vetëluajtje{ permissions-window.style }
+    .title = Rregullime - Vetëluajtje
     .style = { permissions-window.style }
 permissions-site-autoplay-desc = Këtu mund të trajtoni sajtet që nuk ndjekin rregullimet tuaja parazgjedhje për vetëluajtjen.
 
