@@ -48,7 +48,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; oferă servicii opționale (&quot;Servicii&quot;), cum ar fi serviciul de actualizare a suplimentelor, care sunt puse la dispoziție pentru utilizarea împreună cu această versiune binară &brandShortName; conform descrierii de mai jos. Dacă nu vrei să utilizezi Serviciile sau dacă termenii de mai jos sunt inacceptabili pentru tine, poți dezactiva serviciul de actualizare a suplimentelor deschizând preferințele aplicației și selectând secțiunea ">
+<!ENTITY rights.webservices-a "&brandFullName; oferă servicii opționale („Servicii”), cum ar fi serviciul de actualizare a suplimentelor, care sunt puse la dispoziție pentru utilizarea împreună cu această versiune binară &brandShortName; conform descrierii de mai jos. Dacă nu vrei să folosești Serviciile sau dacă termenii de mai jos sunt inacceptabili pentru tine, poți dezactiva serviciul de actualizare a suplimentelor deschizând preferințele aplicației și selectând secțiunea ">
 <!ENTITY rights.webservices-b "Avansat">
 <!ENTITY rights.webservices-c ", urmată de fila">
 <!ENTITY rights.webservices-d "Actualizare">
