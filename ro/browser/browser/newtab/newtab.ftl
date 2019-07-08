@@ -155,5 +155,5 @@ newtab-pocket-cta-text = Salvează în { -pocket-brand-name } articolele care ț
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
-newtab-error-fallback-info = Ups, ceva a mers prost la încărcarea acestui conținut.
+newtab-error-fallback-info = Ups, ceva nu a funcționat la încărcarea acestui conținut.
 newtab-error-fallback-refresh-link = Reîmprospătează pagina pentru a încerca din nou.
