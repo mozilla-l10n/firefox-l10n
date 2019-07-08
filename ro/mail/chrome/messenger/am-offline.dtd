@@ -12,7 +12,7 @@
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY autosyncNotDownload.label "Nu descărca mesaje mai mari de">
 <!ENTITY autosyncNotDownload.accesskey "m">
-<!ENTITY kb.label "KO">
+<!ENTITY kb.label "KB">
 <!ENTITY daysOld.label "zile">
 <!ENTITY message.label "mesaje">
 <!ENTITY nntpNotDownloadRead.label "Mesaje citite">
