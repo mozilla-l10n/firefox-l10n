@@ -24,6 +24,7 @@ sentence. -->
 <!ENTITY  sendTyping.label              "Kirimkan pemberitahuan sedang mengetik dalam percakapan">
 <!ENTITY  sendTyping.accesskey          "t">
 
+<!ENTITY  desktopChatNotifications.label      "Tampilkan notifikasi:">
 <!ENTITY  play.label                          "Mainkan">
 <!ENTITY  play.accesskey                      "M">
 <!ENTITY  customsound.label                   "Gunakan berkas suara berikut">

@@ -483,6 +483,7 @@
 <!ENTITY forwardButton.label "Teruskan">
 <!ENTITY fileButton.label "Berkas">
 <!ENTITY archiveButton.label "Arsipkan">
+<!ENTITY openConversationButton.label "Percakapan">
 <!ENTITY nextButton.label "Selanjutnya">
 <!ENTITY nextButtonToolbarItem.label "Yang Belum Dibaca Selanjutnya">
 <!ENTITY nextMsgButton.label "Selanjutnya">
@@ -541,6 +542,7 @@
 <!ENTITY compactButton.tooltip "Buang pesan yang dihapus pada folder terpilih">
 <!ENTITY appmenuButton1.tooltip "Tampilkan Menu &brandShortName;">
 
+
 <!-- Toolbar Button Popup -->
 
 <!-- Remote Content Button Popup -->
@@ -559,6 +561,7 @@
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Tag baru…">
 <!ENTITY addNewTag.accesskey "T">
+<!ENTITY manageTags.label "Kelola Tag…">
 
 <!-- Folder Pane -->
 <!ENTITY folderNameColumn.label "Nama">
@@ -600,6 +603,7 @@
 <!ENTITY folderContextProperties2.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "Folder Favorit">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
+<!ENTITY folderContextSettings2.label "Setelan">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Nama atau Email yang mengandung:">
@@ -706,12 +710,6 @@
 <!ENTITY contextPrintPreview.label "Pratinjau Cetak">
 <!ENTITY contextPrintPreview.accesskey "P">
 
-<!-- Thread Pane Column Picker -->
-<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
-     This option in the thread pane column picker causes us to reset the
-     customizations for the thread pane columns in this folder to their default.
-  -->
-<!ENTITY columnPicker.resetToInbox.label "Kembalikan setelan kolom ke setelan default">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
      the "columnPicker.applyToFolder.label" and
@@ -751,7 +749,6 @@
      "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "Folder ini">
-
 
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Mainkan">
