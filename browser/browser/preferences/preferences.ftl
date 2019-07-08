@@ -543,6 +543,7 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = सहेजें
     .accesskey = v
+sync-connect-another-device = अन्य डिवाइस जोड़ें
 sync-tos-link = सेवा शर्त
 sync-fxa-privacy-notice = गोपनीयता नीति
 
