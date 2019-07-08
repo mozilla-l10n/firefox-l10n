@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = Brez posrednika za
     .accesskey = B
 connection-proxy-noproxy-desc = Primer: .mozilla.org, .net.nz
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = Povezave na localhost, 127.0.0.1 in ::1 niso nikoli usmerjene preko posrednika.
 connection-proxy-autotype =
     .label = URL samodejne nastavitve posrednika
     .accesskey = L
@@ -70,12 +72,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Omogoči DNS preko HTTPS
     .accesskey = H
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = Uporabi privzeto ({ $url })
-    .accesskey = U
-    .tooltiptext = Uporabi privzeti URL za razreševanje DNS preko HTTPS
 connection-dns-over-https-url-resolver = Uporabi ponudnika
     .accesskey = U
 # Variables:
