@@ -68,10 +68,11 @@ policy-OverrideFirstRunPage = Breyta upphafssíðu. Tómt gildi til að slökkva
 policy-OverridePostUpdatePage = Setja Firefox News síðu - birtist eftir uppfærslu á forritinu. Tómt gildi gerir slökkt á því að opna síðuna.
 policy-Permissions = Stilla heimildir fyrir myndavél, hljóðnema, staðsetningu og tilkynningar.
 policy-PopupBlocking = Leyfa tilteknum vefsíðum að birta sprettiglugga að sjálfgefnu.
+policy-Preferences = Stilltu og læstu gildið fyrir undirhóp af stillingum.
 policy-PromptForDownloadLocation = Spyrðja hvar eigi að vista skrár frá niðurhali.
 policy-Proxy = Velja proxy-stillingar
 policy-RequestedLocales = Stilla lista yfir tungumál sem óskað er eftir af forritinu, raðað eftir vali.
-policy-SanitizeOnShutdown = Eyða öllum flakk gögnum við lokun
+policy-SanitizeOnShutdown2 = Hreinsa ferilsgögn við lokun.
 policy-SearchBar = Stilla sjálfgefna staðsetningu leitarstiku. Notanda er enn leyft að sérsníða hana.
 policy-SearchEngines = Stilla leitarvélar. Þessi stefna er aðeins í boði í útgáfu ESR (Extended Support Release).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
