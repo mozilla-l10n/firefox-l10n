@@ -78,6 +78,10 @@ onboarding-fxa-title = Samstilla
 onboarding-fxa-text = Skráðu þig fyrir { -fxaccount-brand-name } og samstilltu bókamerki, lykilorð og opna flipa hvar sem þú notar { -brand-short-name }.
 onboarding-tracking-protection-title2 = Vörn gegn því að fylgst sé með þér
 onboarding-tracking-protection-button2 = Hvernig þetta virkar
+onboarding-data-sync-title = Taktu stillingarnar þínar með þér
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Samstilla bókamerkin og lykilorðin þín, hvar sem þú notar { -brand-product-name }.
+onboarding-data-sync-button2 = Skrá sig inn í { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Vertu á verði gegn gagnalekum
 onboarding-firefox-monitor-button = Skráðu þig fyrir tilkynningum
 onboarding-browse-privately-title = Huliðsvöfrun
