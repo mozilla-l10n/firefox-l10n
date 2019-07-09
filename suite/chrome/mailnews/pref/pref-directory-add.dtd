@@ -25,7 +25,7 @@
 <!ENTITY scope.accesskey                   "m">
 <!ENTITY scopeOneLevel.label               "Um nível">
 <!ENTITY scopeOneLevel.accesskey           "l">
-<!ENTITY scopeSubtree.label                "Sub-árvore">
+<!ENTITY scopeSubtree.label                "Subárvore">
 <!ENTITY scopeSubtree.accesskey            "S">
 <!ENTITY return.label                      "Não devolver mais do que">
 <!ENTITY return.accesskey                  "r">
@@ -34,11 +34,11 @@
 <!ENTITY saslMechanism.label               "Método de acesso: ">
 <!ENTITY saslMechanism.accesskey           "M">
 <!ENTITY saslOff.label                     "Simples">
-<!ENTITY saslOff.accesskey		   "l">
+<!ENTITY saslOff.accesskey                 "l">
 <!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
-<!ENTITY saslGSSAPI.accesskey		   "K">
+<!ENTITY saslGSSAPI.accesskey              "K">
 
-<!-- Localization note: this is here because the width of the dialog 
+<!-- Localization note: this is here because the width of the dialog
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
