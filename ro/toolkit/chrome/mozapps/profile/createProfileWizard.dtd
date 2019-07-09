@@ -9,9 +9,9 @@
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; stochează informații despre setări și preferințe în profilul tău personal.">
 <!ENTITY profileCreationExplanation_2.text  "Dacă mai folosești această copie de &brandShortName; împreună cu alți utilizatori, poți folosi profiluri pentru a păstra separate informațiile fiecărui utilizator. Pentru aceasta, fiecare utilizator ar trebui să-și creeze propriul profil.">
 <!ENTITY profileCreationExplanation_3.text  "Dacă ești singura persoană care folosește această copie de &brandShortName;, trebuie să ai cel puțin un profil. Dacă dorești, poți să îți creezi mai multe profiluri, pentru a stoca seturi diferite de setări și preferințe. De exemplu, poate vrei să ai profiluri separate pentru afaceri și pentru uzul personal.">
-<!ENTITY profileCreationExplanation_4.text  "Pentru a începe să-ți creezi profilul, apasă Înainte.">
+<!ENTITY profileCreationExplanation_4.text  "Pentru a începe să-ți creezi profilul, dă clic pe Înainte.">
 <!ENTITY profileCreationExplanation_4Mac.text  "Pentru a începe să-ți creezi profilul, apasă Continuă.">
-<!ENTITY profileCreationExplanation_4Gnome.text  "Pentru a începe să-ți creezi profilul, apasă Înainte.">
+<!ENTITY profileCreationExplanation_4Gnome.text  "Pentru a începe să-ți creezi profilul, dă clic pe Înainte.">
 
 <!-- Second wizard page -->
 <!ENTITY profileCreationIntro.text      "Dacă creezi mai multe profiluri, le poți deosebi după numele profilurilor. Poți folosi numele sugerat aici sau numele pe care îl dorești tu.">
