@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = C
 menu-copy =
@@ -92,6 +94,10 @@ security-view-identity-validity =
 security-view-privacy =
     .value = গোপনীয়তা আৰু ইতিহাস
 security-view-privacy-history-value = আজিৰ পূৰ্বে মই এই ৱেব ছাইটত আহিছো নে?
+security-view-privacy-sitedata-value = এই ৱেবছাইটটোৱে মোৰ কম্পিউটাৰত তথ্য সঞ্চয় কৰি আছে নেকি?
+security-view-privacy-clearsitedata =
+    .label = কুকিজ আৰু ছাইট ডাটা পৰিষ্কাৰ কৰক
+    .accesskey = C
 security-view-privacy-passwords-value = এই ৱেব ছাইটৰ বাবে মই কোনো পাছৱৰ্ড সংৰক্ষণ কৰিছোঁ নে?
 security-view-privacy-viewpasswords =
     .label = সংৰক্ষিত পাছৱৰ্ড চাওক
@@ -107,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = হয়, কুকিজ আৰু ছাইট ডাটাৰ { $value } { $unit }
+security-site-data-only = হয়, ছাইট ডাটাৰ { $value } { $unit }
+security-site-data-cookies-only = হয়, কুকিজ
+security-site-data-no = নহয়
 image-size-unknown = অজ্ঞাত
 not-set-verified-by = নিৰ্ধাৰিত কৰা হোৱা নাই
 not-set-alternative-text = নিৰ্ধাৰিত কৰা হোৱা নাই
@@ -137,6 +147,47 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = অবিকল্পিত ব্যৱহাৰ কৰক
 security-no-visits = নহয়
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] মেটা (1টা টেগ)
+           *[other] মেটা ({ $tags }টা টেগ)
+        }
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] নহয়
+        [one] হয়, এবাৰ
+       *[other] হয়, { $visits }বাৰ
+    }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } KB ({ $bytes } বাইট)
+           *[other] { $kb } KB ({ $bytes } বাইট)
+        }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [one] { $type } ছবি (এনিমেটেড, { $frames }টা ফ্ৰেম)
+           *[other] { $type } ছবি (এনিমেটেড, { $frames }টা ফ্ৰেম)
+        }
 # This string is used to display the type of
 # an image
 # Variables:
