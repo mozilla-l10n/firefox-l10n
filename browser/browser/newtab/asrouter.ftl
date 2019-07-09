@@ -47,6 +47,7 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = <b>Hægri smella á</ b> á flipann sem þú vilt festa.
 cfr-doorhanger-pintab-step2 = Veldu <b>Festa flipa</ b> í valmyndinni.
 cfr-doorhanger-pintab-animation-pause = Setja í bið
 cfr-doorhanger-pintab-animation-resume = Halda áfram
