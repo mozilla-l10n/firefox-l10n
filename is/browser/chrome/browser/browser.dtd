@@ -875,9 +875,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Vefkökur">
 <!ENTITY contentBlocking.cookiesView.label "Vefkökur og síðugögn">
 
-<!ENTITY contentBlocking.cryptominers.label "Rafnám">
-<!ENTITY contentBlocking.cryptominersView.label "Rafnám">
+<!ENTITY contentBlocking.cryptominers.label "Rafmynt grafarar">
+<!ENTITY contentBlocking.cryptominersView.label "Rafmynt grafarar">
 
+<!ENTITY contentBlocking.fingerprinters.label "Fingraför">
+<!ENTITY contentBlocking.fingerprintersView.label "Fingraför">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Tilkynna vandamál">
 <!ENTITY contentBlocking.breakageReportView.label "Tilkynna vandamál">
