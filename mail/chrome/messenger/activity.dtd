@@ -10,7 +10,7 @@ file names and tall enough to hint that there are more activities in the list --
 
 <!ENTITY activity.title                  "ქმედებების მართვა">
 
-<!ENTITY cmd.pause.label                  "პაუზა">
+<!ENTITY cmd.pause.label                  "შეჩერება">
 <!ENTITY cmd.pause.accesskey              "P">
 <!ENTITY cmd.resume.label                 "გაგრძელება">
 <!ENTITY cmd.resume.accesskey             "R">

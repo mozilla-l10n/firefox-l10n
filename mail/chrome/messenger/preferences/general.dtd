@@ -17,7 +17,7 @@
 <!ENTITY newMessagesArrive.label          "ახალი წერილის შემოსვლისას:">
 <!ENTITY playSound.label                  "გახმოვანება">
 <!ENTITY playSound1.accesskey             "d">
-<!ENTITY playSoundMac.label               "მოცემული ხმოვანი ფაილის დაკვრა:">
+<!ENTITY playSoundMac.label               "მოცემული ხმოვანი ფაილის გაშვება:">
 <!ENTITY playSoundMac.accesskey           "დ">
 <!ENTITY showAnimatedAlert.label          "გაფრთხილების ჩვენება">
 <!ENTITY showAnimatedAlert.accesskey      "S">
