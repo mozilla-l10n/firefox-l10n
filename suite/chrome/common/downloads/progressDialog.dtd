@@ -4,7 +4,7 @@
 
 <!ENTITY progress.title                  "მიმდინარეობს ჩამოტვირთვა…">
 <!ENTITY closeWindow.key                 "w">
-<!ENTITY cmd.pause.tooltip               "პაუზა">
+<!ENTITY cmd.pause.tooltip               "შეჩერება">
 <!ENTITY cmd.resume.tooltip              "დასრულება">
 <!ENTITY cmd.retry.tooltip               "ხელახლა">
 <!ENTITY cmd.cancel.tooltip              "გაუქმება">
