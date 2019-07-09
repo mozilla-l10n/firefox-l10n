@@ -5,7 +5,8 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname }-এ অবৈধ নিৰাপত্তা প্ৰমাণপত্ৰ ব্যৱহাৰ কৰে।
-cert-error-trust-cert-invalid = এটা অবৈধ CA প্ৰমাণপত্ৰৰে প্ৰদান কৰাৰ বাবে এই প্ৰমাণপত্ৰ বিশ্বাসী নহয়।
+cert-error-mitm-intro = ৱেবছাইটবোৰে প্ৰমাণপত্ৰৰ মাধ্যমেৰে নিজৰ পৰিচয়ৰ প্ৰমাণ দিয়ে, যি প্ৰমাণপত্ৰ কৰ্তৃপক্ষবোৰে জাৰি কৰে।
+cert-error-trust-cert-invalid = এটা অবৈধ CA প্ৰমাণপত্ৰই জাৰি কৰাৰ বাবে এই প্ৰমাণপত্ৰ বিশ্বাসী নহয়।
 cert-error-trust-untrusted-issuer = প্ৰমাণপত্ৰ বিশ্বাসী নহয় কাৰণ প্ৰদান কৰোঁতাৰ প্ৰমাণপত্ৰ অবিশ্বাসী।
 cert-error-trust-signature-algorithm-disabled = এই প্ৰমাণপত্ৰক ভৰষা কৰিব নোৱাৰি কাৰণ ইয়াক এটা স্বাক্ষৰ এলগৰিথম দ্বাৰা স্বাক্ষৰ কৰা হৈছিল যাক অসামৰ্থবান কৰা হৈছিল কাৰণ এলগৰিথম সুৰক্ষিত নাছিল।
 cert-error-trust-expired-issuer = প্ৰদান কৰোঁতাৰ প্ৰমাণপত্ৰ শেষ হোৱাৰ কাৰণে এই প্ৰমাণপত্ৰ বিশ্বাসী নহয়।
