@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "C">
 <!ENTITY folderPaneBar.label "Mappenvensterwerkbalk">
 <!ENTITY folderPaneBar.accesskey "v">
-<!ENTITY folderModeSelector.label "Mappenweergaven">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sorteren op">
@@ -605,7 +604,6 @@
 <!ENTITY tagButton.tooltip "Berichten labelen">
 <!ENTITY compactButton.tooltip "Verwijderde berichten uit geselecteerde map verwijderen">
 <!ENTITY appmenuButton1.tooltip "Het &brandShortName;-menu weergeven">
-
 <!ENTITY addonsButton.tooltip "Uw add-ons beheren">
 
 <!-- Toolbar Button Popup -->
