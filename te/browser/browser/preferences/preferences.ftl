@@ -255,6 +255,11 @@ update-application-use-service =
 update-enable-search-update =
     .label = సెర్చింజన్లను స్వయంచాలకంగా తాజాకరించు
     .accesskey = e
+update-in-progress-message = { -brand-short-name } ఈ తాజాకరణతో కొనసాగాలని అనుకుంటున్నారా?
+update-in-progress-ok-button = విస్మరించు (&D)
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = కొనసాగించు (&C)
 
 ## General Section - Performance
 
@@ -521,6 +526,7 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = భద్రపరచు
     .accesskey = v
+sync-connect-another-device = మరొక పరికరాన్ని అనుసంధానించు
 sync-manage-devices = పరికరాల నిర్వహణ
 sync-fxa-begin-pairing = ఒక పరికరాన్ని జతచేయి
 sync-tos-link = సేవా నిబంధనలు
@@ -569,6 +575,7 @@ history-remember-option-never =
     .label = ఎప్పుడూ చరిత్రను గుర్తుపెట్టుకోదు
 history-remember-option-custom =
     .label = చరిత్ర కోసం అభిమత అమరికలు వాడుతుంది
+history-remember-description = { -brand-short-name } మీ విహరణ, దింపుకోళ్ళ, ఫారాల, వెతుకులాటల చరిత్రను గుర్తుపెట్టుకుంటుంది.
 history-dontremember-description = { -brand-short-name } గోప్య వీక్షణం అమరికలనే వాడుతుంది మరియు మీ వీక్షణ చరిత్రని గుర్తుంచుకోదు.
 history-private-browsing-permanent =
     .label = ఎల్లప్పుడూ ఆంతరంగిక విహారణ రీతిని వాడు

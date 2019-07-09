@@ -4,7 +4,6 @@
 
 about-config-warning-checkbox = తర్వాత కూడా నన్ను విసిగించు!
 about-config-warning-button = నేను నష్టభయాన్ని అంగీకరిస్తున్నాను
-about-config-title = about:config
 about-config2-title = ఉన్నత స్వరూపణం
 about-config-search-input =
     .placeholder = వెతకండి
@@ -17,6 +16,7 @@ about-config-pref-delete = తొలగించు
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
+about-config-pref-add-type-boolean = బూలియన్
 about-config-pref-add-type-number = సంఖ్య
 about-config-pref-add-type-string = పదబంధం
 
