@@ -2,29 +2,37 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+printpreview-simplify-page-checkbox =
+    .label = পৃষ্ঠা সৰল কৰক
+    .accesskey = i
+    .tooltiptext = এইখন পৃষ্ঠা স্বয়ংক্ৰিয়ভাৱে সৰল কৰিব নোৱাৰি
+printpreview-simplify-page-checkbox-enabled =
+    .label = { printpreview-simplify-page-checkbox.label }
+    .accesskey = { printpreview-simplify-page-checkbox.accesskey }
+    .tooltiptext = পঢ়া সহজ কৰিবলৈ লে'আউট সলাওক
 printpreview-close =
     .label = বন্ধ কৰক
     .accesskey = C
 printpreview-portrait =
-    .label = পট্ৰেইট
+    .label = পৰ্ট্ৰেইট
     .accesskey = o
 printpreview-landscape =
-    .label = লেণ্ডস্কেইপ
+    .label = লেণ্ডস্কে'প
     .accesskey = L
 printpreview-scale =
-    .value = স্কেইল:
+    .value = স্কেল:
     .accesskey = S
 printpreview-shrink-to-fit =
-    .label = খাপ খুৱাবলৈ সৰু কৰক
+    .label = খাপ খাবলৈ কোঁচ খাওক
 printpreview-custom =
     .label = স্বনিৰ্বাচিত...
 printpreview-print =
-    .label = প্ৰিন্ট কৰক…
+    .label = প্ৰিণ্ট কৰক…
     .accesskey = P
 printpreview-of =
-    .value = ৰ
+    .value = ইয়াৰ
 printpreview-custom-prompt =
-    .value = স্বনিৰ্বাচিত স্কেইল...
+    .value = স্বনিৰ্বাচিত স্কেল...
 printpreview-page-setup =
     .label = পৃষ্ঠাৰ সংস্থাপন…
     .accesskey = u
@@ -36,6 +44,8 @@ printpreview-page =
 ## $percent (integer) - menuitem percent label
 ## $arrow (String) - UTF-8 arrow character for navigation buttons
 
+printpreview-percentage-value =
+    .label = { $percent }%
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = প্ৰথম পৃষ্ঠা
