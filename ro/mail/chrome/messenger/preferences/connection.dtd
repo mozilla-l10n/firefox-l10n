@@ -38,6 +38,10 @@
 <!ENTITY  noproxy.label                 "Fără proxy pentru:">
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "Exemplu: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
+  localhost, 127.0.0.1 and ::1.
+-->
+<!ENTITY  noproxyLocalhostDesc.label   "Conexiunile la localhost, 127.0.0.1 și ::1 nu trec niciodată printr-un proxy.">
 <!ENTITY  shareproxy.label              "Folosește acest server proxy pentru toate protocoalele">
 <!ENTITY  shareproxy.accesskey          "x">
 <!ENTITY  autologinproxy.label          "Nu solicita autentificarea dacă parola este salvată">
@@ -47,9 +51,6 @@
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  dnsOverHttps.label            "Activează DNS prin HTTPS">
 <!ENTITY  dnsOverHttps.accesskey        "z">
-<!ENTITY  dnsOverHttpsUrl.label         "URL">
-<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
-<!ENTITY  dnsOverHttpsUrl.tooltip       "URL pentru determinarea DNS prin HTTPS">
 <!ENTITY  dnsOverHttpsUrlDefault.label     "Folosește setările implicite">
 <!ENTITY  dnsOverHttpsUrlDefault.accesskey "I">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Folosește adresa URL implicită pentru a rezolva DNS prin HTTPS">
