@@ -22,9 +22,9 @@
 <!ENTITY col.status.label                "სტატუსი">
 <!ENTITY col.status.accesskey            "S">
 <!ENTITY col.status.tooltip              "სტატუსი">
-<!ENTITY col.actionPlay.label            "პაუზა/დასრულება/ხელახლა">
+<!ENTITY col.actionPlay.label            "შეჩერება/დასრულება/ხელახლა">
 <!ENTITY col.actionPlay.accesskey        "u">
-<!ENTITY col.actionPlay.tooltip          "პაუზა/დასრულება/ხელახლა">
+<!ENTITY col.actionPlay.tooltip          "შეჩერება/დასრულება/ხელახლა">
 <!ENTITY col.actionStop.label            "გაუქმება/მოცილება">
 <!ENTITY col.actionStop.accesskey        "C">
 <!ENTITY col.actionStop.tooltip          "გაუქმება/მოცილება">
