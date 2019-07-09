@@ -6,6 +6,7 @@
 ## Panel buttons.
 
 abuse-report-cancel-button = రద్దుచేయి
+abuse-report-goback-button = వెనుకకు వెళ్ళు
 
 ## Message bars descriptions.
 

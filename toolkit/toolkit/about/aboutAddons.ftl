@@ -134,9 +134,6 @@ legacy-warning-show-legacy = లెగసీ పొడగింతలను చ�
 legacy-extensions =
     .value = పాత పొడగింతలు
 legacy-extensions-description = ఈ పొడిగింతలు ప్రస్తుత { -brand-short-name } ప్రమాణాలను చేరుకోవు కాబట్టి అవి క్రియారహితం చేయబడ్డాయి. <label data-l10n-name="legacy-learn-more">పొడిగింతల మార్పుల గురించి తెలుసుకోండి</label>
-extensions-view-discover =
-    .name = పొడిగింతలు పొందండి
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = ఇటీవలి నవీకరణలు
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -238,6 +235,8 @@ preferences-addon-button =
         [windows] ఎంపికలు
        *[other] అభిరుచులు
     }
+details-addon-button = వివరాలు
+permissions-addon-button = అనుమతులు
 addons-enabled-heading = చేతనం
 addons-disabled-heading = అచేతనం
 addon-detail-author-label = రచయిత

@@ -17,6 +17,8 @@ about-debugging-this-firefox-runtime-name = ఈ { -brand-shorter-name }
 # Sidebar heading for selecting the currently running instance of Firefox
 about-debugging-sidebar-this-firefox =
     .name = { about-debugging-this-firefox-runtime-name }
+# Connection status (connected) for runtime items in the sidebar
+aboutdebugging-sidebar-runtime-connection-status-connected = అనుసంధానమైంది
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName } ({ $deviceName })
@@ -52,6 +54,9 @@ about-debugging-runtime-tabs =
 
 # Debug Targets strings
 
+# Displayed in the categories of "runtime" pages that don't have any debug target to
+# show. Debug targets depend on the category (extensions, tabs, workers...).
+about-debugging-debug-target-list-empty = ఇంకా ఏమీలేదు.
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = తొలగించు
@@ -59,3 +64,9 @@ about-debugging-tmp-extension-remove-button = తొలగించు
 # displaying the location of the temporary extension.
 about-debugging-extension-location =
     .label = స్థానం
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = దోష వివరాలు
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = హెచ్చరిక వివరాలు
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = వివరాలు
