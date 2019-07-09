@@ -69,7 +69,6 @@
 <!ENTITY  sending_crash_report "უეცარი გათიშვის მოხსენება იგზავნება\u2026">
 <!ENTITY  crash_close_label "დახურვა">
 <!ENTITY  crash_restart_label "ხელახლა გაეშვას &brandShortName;">
-
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; უეცრად გაითიშა">
@@ -117,7 +116,6 @@
 <!ENTITY bookmark_folder_updated "საქაღალდე განახლდა">
 <!ENTITY bookmark_parent_folder "საქაღალდე">
 <!ENTITY bookmark_add_folder "ახალი საქაღალდის დამატება">
-
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
 <!ENTITY bookmark_default_folder_title "(უსათაურო)">
@@ -341,11 +339,6 @@
 <!ENTITY pref_pwa "მზარდი ვებაპლიკაციები">
 <!ENTITY pref_pwa_summary "ვებაპლიკაციების მთავარ გვერდზე დამატების დაშვება">
 
-<!ENTITY tracking_protection_prompt_title "ახლა უკვე თვალთვალისგან დაცვით">
-<!ENTITY tracking_protection_prompt_text "მოთვალთვალე ელემენტები იზღუდება მუდმივად, ასე რომ, შეგიძლიათ არ იდარდოთ.">
-<!ENTITY tracking_protection_prompt_tip_text "მეტის გასაგებად ეწვიეთ პირადი მონაცემების პარამეტრებს">
-<!ENTITY tracking_protection_prompt_action_button "გასაგებია!">
-
 <!ENTITY tab_queue_toast_message3 "ჩანართი შენახულია &brandShortName;-ში">
 <!ENTITY tab_queue_toast_action "ახლავე გახსნა">
 <!ENTITY tab_queue_prompt_title "რამდენიმე ბმულს ხსნით?">
@@ -431,7 +424,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "დაწკაპეთ ბრაუზერის პროგრამაზე და აირჩიეთ &brandShortName;">
-<!ENTITY pref_default_browser_mozilla_support_tablet "ეწვიეთ Mozilla მხარდაჭერას">
 <!ENTITY pref_about_firefox "&brandShortName; ინფორმაცია">
 <!ENTITY pref_vendor_faqs "ხ.დ.კ.">
 <!ENTITY pref_vendor_feedback "გამოხმაურება">
@@ -533,8 +525,8 @@ shown from Android O while a tab is being queued.-->
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY media_sending_to "იგზავნება მოწყობილობაზე">
-<!ENTITY media_play "დაკვრა">
-<!ENTITY media_pause "პაუზა">
+<!ENTITY media_play "გაშვება">
+<!ENTITY media_pause "შეჩერება">
 <!ENTITY media_stop "გაჩერება">
 
 <!ENTITY contextmenu_open_new_tab "გახსნა ახალ ჩანართში">
@@ -692,7 +684,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "ხმოვანი სიგნალის შერჩევა ან ჩაწერა">
 <!ENTITY filepicker_image_title "ფოტოს შერჩევა ან გადაღება">
 <!ENTITY filepicker_video_title "ვიდეოს შერჩევა ან ჩაწერა">
-
 <!ENTITY filepicker_permission_denied "მოთხოვნილი ნებართვები უარყოფილია, დაბრუნება ფაილების სისტემურ შემრჩევში.">
 
 <!-- Site identity popup -->
