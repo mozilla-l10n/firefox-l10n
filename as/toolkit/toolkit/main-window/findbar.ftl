@@ -10,8 +10,20 @@ findbar-next =
 findbar-previous =
     .tooltiptext = বাক্যাংশৰ পূৰ্বৱৰ্তী উপস্থিতি সন্ধান কৰক
 findbar-find-button-close =
-    .tooltiptext = সন্ধান বাৰ বন্ধ কৰক
+    .tooltiptext = বিচৰা দণ্ডিকা বন্ধ কৰক
+findbar-highlight-all2 =
+    .label = সকলো উজ্জ্বল কৰক
+    .accesskey =
+        { PLATFORM() ->
+            [macos] l
+           *[other] a
+        }
+    .tooltiptext = বাক্যাংশৰ সকলো উপস্থিতি উজ্জ্বল কৰক
 findbar-case-sensitive =
     .label = ফলা মিলাওক
     .accesskey = c
     .tooltiptext = ফলা সংবেদনশীলতাৰ সৈতে সন্ধান কৰক
+findbar-entire-word =
+    .label = গোটেই শব্দ
+    .accesskey = W
+    .tooltiptext = কেৱল গোটেই শব্দৰ সন্ধান কৰক
