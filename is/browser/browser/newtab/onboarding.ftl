@@ -55,6 +55,7 @@ onboarding-sync-form-sub-header = fara áfram á { -sync-brand-name }
 onboarding-benefit-products-title = Gagnlegar vörur
 onboarding-benefit-products-text = Afgreiddu verkefni með tólum sem virða friðhelgi einkalífsins á öllum þínum tækjum.
 onboarding-benefit-knowledge-title = Hagnýt þekking
+onboarding-benefit-knowledge-text = Lærðu allt sem er nauðsynlegt til að verða vitrari og öruggari á netinu.
 onboarding-benefit-privacy-title = Sönn persónuvernd
 
 ## These strings belong to the individual onboarding messages.
@@ -75,6 +76,7 @@ onboarding-ghostery-text = Vafra hraðar, betur eða á öruggari máta með vi�
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Samstilla
 onboarding-fxa-text = Skráðu þig fyrir { -fxaccount-brand-name } og samstilltu bókamerki, lykilorð og opna flipa hvar sem þú notar { -brand-short-name }.
+onboarding-tracking-protection-title2 = Vörn gegn því að fylgst sé með þér
 onboarding-tracking-protection-button2 = Hvernig þetta virkar
 onboarding-firefox-monitor-title = Vertu á verði gegn gagnalekum
 onboarding-firefox-monitor-button = Skráðu þig fyrir tilkynningum
