@@ -9,7 +9,7 @@
 <!ENTITY aboutDownloads.open                       "გახსნა">
 <!ENTITY aboutDownloads.remove                     "წაშლა">
 <!ENTITY aboutDownloads.removeAll                  "ყველას წაშლა">
-<!ENTITY aboutDownloads.pause                      "პაუზა">
+<!ENTITY aboutDownloads.pause                      "შეჩერება">
 <!ENTITY aboutDownloads.resume                     "გაგრძელება">
 <!ENTITY aboutDownloads.cancel                     "გაუქმება">
 <!ENTITY aboutDownloads.retry                      "ხელახლა">
