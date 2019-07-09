@@ -84,7 +84,7 @@ onboarding-ghostery-text = 使用 Ghostery 等扩展拦截恼人的广告，让�
 onboarding-fxa-title = 同步
 onboarding-fxa-text = 注册 { -fxaccount-brand-name } 之后，您可在任何使用 { -brand-short-name } 的任何地方同步您的书签、密码和打开的标签页。
 onboarding-tracking-protection-title2 = 保护您不受跟踪
-onboarding-tracking-protection-text2 = { -brand-short-name } 可帮助阻止网站的在线跟踪，让广告更难盯上您。
+onboarding-tracking-protection-text2 = { -brand-short-name } 可帮助阻止网站的在线跟踪，让内容跟踪器更难盯上您。
 onboarding-tracking-protection-button2 = 工作原理
 onboarding-data-sync-title = 将您的设置随身带着走
 # "Sync" is short for synchronize.
