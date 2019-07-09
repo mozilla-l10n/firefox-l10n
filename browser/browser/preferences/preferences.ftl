@@ -719,6 +719,7 @@ content-blocking-unvisited-cookies = Vefkökur frá óheimsóttum vefsíðum
 content-blocking-all-windows-trackers = Þekktir rekjarar í öllum gluggum
 content-blocking-all-third-party-cookies = Allar vefkökur þriðja aðila
 content-blocking-cryptominers = Rafnám
+content-blocking-fingerprinters = Fingraför
 content-blocking-warning-title = Gættu þín!
 content-blocking-learn-how = Læra hvernig
 content-blocking-reload-tabs-button =

@@ -407,6 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Skráðu þig inn í Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Sýsla með tæki…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Skoða samstillta flipavalmynd">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Fela hliðslá fyrir samstillta flipa">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Tengja annað tæki">
 
 <!ENTITY appMenuRecentHighlights.label "Nýlegir atburðir">
@@ -439,6 +440,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.label "Kvarta yfir viðbót">
 <!ENTITY customizeMenu.reportExtension.accesskey "o">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -789,6 +791,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "Þetta er örugg &brandShortName; síða.">
 <!ENTITY identity.extensionPage "Þessi síða er hlaðinn inn af viðbót.">
 <!ENTITY identity.insecureLoginForms2 "Hugsanlega gæti þriðji aðili komist yfir allar þær skráningar sem þú setur inn á þessa síðu.">
+<!ENTITY identity.customRoot "Tenging staðfest af útgefanda vottorðs sem ekki er viðurkennt af Mozilla.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; hefur lokað á suma hluta á þessari síðu sem eru ekki öruggir.">
@@ -872,6 +875,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Vefkökur">
 <!ENTITY contentBlocking.cookiesView.label "Vefkökur og síðugögn">
 
+<!ENTITY contentBlocking.cryptominers.label "Rafnám">
+<!ENTITY contentBlocking.cryptominersView.label "Rafnám">
 
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Tilkynna vandamál">
@@ -919,6 +924,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateAvailable.panelUI.label "Hala niður &brandShorterName; uppfærslu">
 <!ENTITY updateManual.panelUI.label "Hala niður nýrri útgáfu af &brandShorterName;">
+<!ENTITY updateUnsupported.panelUI.label "Ekki er hægt að framkvæma frekari uppfærslur">
 <!ENTITY updateRestart.panelUI.label2 "Endurræstu til að uppfæra &brandShorterName;">
 
 <!ENTITY newTabControlled.header.message "Nýi flipinn breyttist.">
