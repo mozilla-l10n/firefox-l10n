@@ -13,6 +13,7 @@
                        some of the entire image will be on each monitor.
                        This should ideally match the wording in Windows' own
                        Desktop Background settings page. -->
+<!ENTITY span.label                 "Teygja">
 <!ENTITY color.label                "Litur:">
 <!ENTITY setDesktopBackground.title "Setja skjáborðsbakgrunn">
 <!ENTITY openDesktopPrefs.label     "Opna stillingar skjáborðs">

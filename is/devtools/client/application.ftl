@@ -24,6 +24,14 @@ serviceworker-worker-debug = Kemba
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = Byrja
+# Text for the debug link displayed for an already started Service Worker, when we
+# are in multi e10s mode, which effectively disables this link.
+serviceworker-worker-debug-forbidden = Villukemba
+    .title = Eingöngu hægt að villukemba ef margir e10s eru óvirkjaðir
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start2 = Byrja
+    .title = Eingöngu hægt að byrja ef margir e10s eru óvirkjaðir
 # Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
 serviceworker-worker-source = Heimild
 # Text displayed next to the current status of the service worker.
