@@ -13,7 +13,7 @@ connection-close-key =
     .key = w
 connection-disable-extension =
     .label = Dezactivează extensia
-connection-proxy-configure = Configurează accesul proxy la internet
+connection-proxy-configure = Configurează accesul unui server proxy la internet
 connection-proxy-option-no =
     .label = Fără proxy
     .accesskey = y
@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = Fără proxy pentru
     .accesskey = n
 connection-proxy-noproxy-desc = Exemplu: .mozilla.org, .net.nz, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = Conexiunile la localhost, 127.0.0.1 și ::1 nu trec niciodată printr-un proxy.
 connection-proxy-autotype =
     .label = URL pentru configurarea automată a proxy-ului
     .accesskey = A
@@ -70,12 +72,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Activează DNS prin HTTPS
     .accesskey = b
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = Folosește URL-ul implicit ({ $url })
-    .accesskey = U
-    .tooltiptext = Folosește URL-ul implicit pentru a rezolva DNS prin HTTPS
 connection-dns-over-https-url-resolver = Folosește furnizorul
     .accesskey = P
 # Variables:
