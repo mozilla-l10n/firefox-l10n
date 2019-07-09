@@ -63,7 +63,7 @@ onboarding-benefit-privacy-title = Privacidade verdadeira
 # Firefox Personal Data Promise is the way we honor your data in everything we
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
-onboarding-benefit-privacy-text = Tudo o que fazemos honra a nossa Promessa de Dados Pessoais: Recolher menos. Manter seguro. Sem segredos.
+onboarding-benefit-privacy-text = Tudo o que fazemos honra a nossa Promessa de Dados Pessoais: Recolher menos. Mantê-los seguros. Sem segredos.
 
 ## These strings belong to the individual onboarding messages.
 
