@@ -59,7 +59,7 @@ containers-icon-fence =
 containers-icon-fingerprint =
     .label = Impressão digital
 containers-icon-briefcase =
-    .label = Porta-arquivos
+    .label = Maleta
 # String represents a money sign but currently uses a dollar sign
 # so don't change to local currency. See Bug 1291672.
 containers-icon-dollar =
