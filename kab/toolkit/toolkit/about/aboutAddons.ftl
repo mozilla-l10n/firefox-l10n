@@ -77,6 +77,9 @@ detail-version =
 detail-last-updated =
     .label = Aleqqem aneggaru
 detail-contributions-description = Aneflay n uzegrir-agi isutur-ak-d tallelt akken ad iseddu taneflit-ines ticki tmuddeḍ-as cwiṭ n tewsa.
+detail-contributions-button = Ttekki
+    .title = Ttekki deg usnerni n uzegrir-agi
+    .accesskey = T
 detail-update-type =
     .value = Aleqqem awurman
 detail-update-default =
@@ -138,9 +141,6 @@ legacy-warning-show-legacy = Sken akk iseɣzaf iqburen
 legacy-extensions =
     .value = Iseγzaf iqburen
 legacy-extensions-description = Iseγzaf-agi ur sεin ara ilugan n { -brand-short-name } imiranen γef aya ittwasensen. <label data-l10n-name="legacy-learn-more">Issin ugar ɣef usnifel ɣer izegrar</label>
-extensions-view-discover =
-    .name = Awi-d izegrar
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Ileqman n melmi kan
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -231,6 +231,10 @@ shortcuts-modifier-mac = Seddu Ctrl, Alt, neɣ ⌘
 shortcuts-modifier-other = Seddu Ctrl neɣ Alt
 shortcuts-invalid = Yir tuddsa
 shortcuts-letter = Sekcem asekkil
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Iseqdac-it yakan { $addon }
 shortcuts-card-collapse-button = Sken qel
 go-back-button =
     .tooltiptext = Uɣal ɣer deffir
@@ -302,6 +306,11 @@ addon-badge-private-browsing-allowed =
     .title = Yettusireg def usfaylu uslig kan
 addon-detail-private-browsing-allow = Sireg
 addon-detail-private-browsing-disallow = Ur ttaǧǧa ara
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Ihul
+    .alt = Ihul
 available-updates-heading = Ileqman yellan
 recent-updates-heading = Ileqman n melmi kan
 release-notes-loading = Asali…

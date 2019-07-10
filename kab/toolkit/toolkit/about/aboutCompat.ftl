@@ -4,4 +4,5 @@
 
 label-disable = Ssens
 label-enable = Rmed
+label-more-information = Ugar n talɣut: Abug { $bug }
 text-title = about:compat

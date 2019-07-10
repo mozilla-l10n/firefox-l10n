@@ -34,3 +34,4 @@ abuse-report-messagebar-action-cancel = Sefsex
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-other-reason = Ayen nniḍen
