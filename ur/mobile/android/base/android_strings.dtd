@@ -20,6 +20,7 @@
 <!ENTITY firstrun_data_message "کمتر کوائف، مزیدبچت">
 <!ENTITY firstrun_data_subtext2 "ہر سائٹ دیکھتیں وقت نقوش کو آف کردیں تاکہ کمتر کوائف خرچ ہوں۔">
 <!ENTITY firstrun_sync_title "ہمہ وار کریں">
+<!ENTITY updatednewfirstrun_sync_title "اکائونٹ">
 <!ENTITY firstrun_sync_message2 "اٹھائیں جہاں آپ نے چھوڑ دیا ہے۔">
 <!ENTITY firstrun_sync_subtext2 "اپنی نشانی، پاس ورڈ اور دوسری چیزیے جو آپنے تمام آلات پر &brandShortName; میں محفوز کی ہے اسے تلاش کرنے کے لئے ہم وقت سازی کا استعمال کریں۔">
 <!ENTITY firstrun_signin_message "جڑیں، شروع کریں">
@@ -63,6 +64,8 @@
 <!ENTITY  sending_crash_report "کریش رپورٹ بھیج رہا ہے\u2026">
 <!ENTITY  crash_close_label "بند کریں">
 <!ENTITY  crash_restart_label "&brandShortName; پھر شروع کریں">
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 
 <!ENTITY url_bar_default_text2 "پتہ تلاش یا داخل کریں">
 
@@ -104,6 +107,9 @@
 <!ENTITY bookmark_folder_updated "پوشہ کیی تازہکاری">
 <!ENTITY bookmark_parent_folder "جد پوشہ">
 <!ENTITY bookmark_add_folder "نئے پوشہ کا اضافہ کریں">
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(کوئی عنوان نہیں)">
 
 <!ENTITY reader_saved_offline "آف لائن محفوظ کردیا گیا">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -299,6 +305,7 @@
 <!ENTITY pref_feature_tips_notification_summary "&brandShortName; کے استعمال اور دیگر &vendorShortName; مصنوعات کے بارے میں مزید سیکھیں">
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
+<!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
 <!-- Localization note (pref_feature_tips_notification_enabling_hint):
      Describe the action the user should do to enable this preference. -->
 
@@ -321,11 +328,6 @@
 
 <!ENTITY pref_pwa "پروگریسو ویب ایپس">
 <!ENTITY pref_pwa_summary "ابتدائی اسکرین پر ویب ایپس شامل کرنے کی اجازت دیں">
-
-<!ENTITY tracking_protection_prompt_title "اب سراغ کاری حفاظت کے ساتھ">
-<!ENTITY tracking_protection_prompt_text "خود سے سراغ کاری عناصر بلات کریں تاکہ آپ کو پریشانی نہ ہو۔">
-<!ENTITY tracking_protection_prompt_tip_text "مزید سیکھنے کے لیے رازداری سیٹکگیں دیکھیں">
-<!ENTITY tracking_protection_prompt_action_button "ٹھیک ہے!">
 
 <!ENTITY tab_queue_toast_message3 "ٹیب &brandShortName; میں محفوظ کر دیا">
 <!ENTITY tab_queue_toast_action "ابھی کھولیں">
@@ -410,7 +412,6 @@ shown from Android O while a tab is being queued.-->
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
-<!ENTITY pref_default_browser_mozilla_support_tablet "موزیلا تعاون کا دورہ کریں">
 <!ENTITY pref_about_firefox "&brandShortName; کے بارے میں">
 <!ENTITY pref_vendor_faqs "عمومی سوالات">
 <!ENTITY pref_vendor_feedback "رائے دیں">
@@ -581,6 +582,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "محل وقوع">
 <!ENTITY bookmark_edit_keyword "کلیدی لفظ">
 <!ENTITY bookmark_select_folder "پوشہ کو منتخب کریں">
+
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -908,6 +910,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "توقف کریں">
 <!ENTITY pip_pause_button_description "روک دیں">
 
+<!ENTITY pref_notification_settings_link "اطلاع کی ترتیبات بندرست کرین">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "براؤزر">
 <!ENTITY mls_notification_channel "&vendorShortName; محل وقوع خدمات">
