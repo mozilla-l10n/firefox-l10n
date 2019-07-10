@@ -171,6 +171,7 @@
 <!ENTITY pref_cookies_menu "Cookie">
 <!ENTITY pref_cookies_accept_all "Attivi">
 <!ENTITY pref_cookies_not_accept_foreign "Attivi, esclusi di terze parti">
+<!ENTITY pref_cookies_not_accept_trackers "Attivi, esclusi cookie traccianti">
 <!ENTITY pref_cookies_disabled "Disattivati">
 <!ENTITY pref_category_data_saver "Risparmio dati">
 <!ENTITY pref_category_media "Elementi multimediali">
