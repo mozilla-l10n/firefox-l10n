@@ -99,3 +99,4 @@ onboarding-facebook-container-button = एक्सटेंशन जोड़�
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-extension-button = एक्सटेंशन जोड़ें
