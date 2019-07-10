@@ -893,7 +893,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Visitado">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
-<!ENTITY activity_stream_highlight_label_trending "Tendência">
+<!ENTITY activity_stream_highlight_label_trending "Em alta">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 <!ENTITY activity_stream_highlights_empty "Comece a navegar e mostraremos aqui alguns ótimos artigos, vídeos e outras páginas que você visitou ou adicionou aos favoritos recentemente.">
 
