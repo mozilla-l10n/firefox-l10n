@@ -24,3 +24,5 @@ accessibility-text-label-issue-dialog = Dialoger ska vara markerade <a>Läs mer<
 accessibility-text-label-issue-document-title = Dokument måste ha en <code>titel</code>. <a>Läs mer</a>
 accessibility-text-label-issue-glyph = Använd <code>alt</code> attribut för att markera <span>mglyph</span> element <a>Läs mer</a>
 accessibility-text-label-issue-heading = Rubriker måste vara markerade. <a>Läs mer</a>
+accessibility-text-label-issue-heading-content = Rubriker ska ha synligt textinnehåll. <a>Läs mer</a>
+accessibility-text-label-issue-image = Innehåll med bilder måste vara markerade. <a>Läs mer</a>
