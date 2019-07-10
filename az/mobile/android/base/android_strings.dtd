@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "Az data, çox qənaət">
 <!ENTITY firstrun_data_subtext2 "Şəkilləri söndürərək ziyarət etdiyiniz hər saytda daha az data xərcləyin.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY updatednewfirstrun_sync_title "Hesab">
 <!ENTITY firstrun_sync_message2 "Qaldığınız yerdən davam edin.">
 <!ENTITY firstrun_sync_subtext2 "Sync ilə istədiyiniz cihazınızdan &brandShortName; səyyahına saxladığınız əlfəcin, parol və digər şeyləri rahatlıqla tapın.">
 <!ENTITY newfirstrun_sync_subtext "Mobil cihazınızda qeyd etdiklərinizi məxfi və təhlükəsiz şəkildə kompüterinizdəki Firefox ilə sinxronlaşdırın.">
@@ -68,7 +69,6 @@
 <!ENTITY  sending_crash_report "Çökmə xəbəri göndərilir\u2026">
 <!ENTITY  crash_close_label "Qapat">
 <!ENTITY  crash_restart_label "&brandShortName; yenidən başlasın">
-
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; çökdü">
@@ -116,7 +116,6 @@
 <!ENTITY bookmark_folder_updated "Qovluq yeniləndi">
 <!ENTITY bookmark_parent_folder "Üst Qovluq">
 <!ENTITY bookmark_add_folder "Yeni qovluq əlavə et">
-
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
 <!ENTITY bookmark_default_folder_title "(başlıq yoxdur)">
@@ -340,11 +339,6 @@
 <!ENTITY pref_pwa "Proqressiv Web Tətbiqlər">
 <!ENTITY pref_pwa_summary "Web tətbiqlərin ana ekrana əlavə edilməsinə icazə ver">
 
-<!ENTITY tracking_protection_prompt_title "Artıq İzləmə Qoruması ilə">
-<!ENTITY tracking_protection_prompt_text "İzləmə elementlərini aktiv əngəlləyin və narahat olmanıza əsas qalmasın.">
-<!ENTITY tracking_protection_prompt_tip_text "Ətraflı öyrənmək üçün Məxfilik tənzimləmələrinə daxil olun">
-<!ENTITY tracking_protection_prompt_action_button "Bildim!">
-
 <!ENTITY tab_queue_toast_message3 "&brandShortName; səyyahında saxlanmış vərəq">
 <!ENTITY tab_queue_toast_action "İndi aç">
 <!ENTITY tab_queue_prompt_title "Çoxlu keçid açırsız?">
@@ -430,7 +424,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Səyahət proqramına basın və &brandShortName; seçin">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla Dəstəyi ziyarət et">
 <!ENTITY pref_about_firefox "&brandShortName; haqqında">
 <!ENTITY pref_vendor_faqs "ÇSS">
 <!ENTITY pref_vendor_feedback "Əks əlaqə göndər">
@@ -691,7 +684,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Səsi seçin və ya yazın">
 <!ENTITY filepicker_image_title "Şəkli seçin və ya çəkin">
 <!ENTITY filepicker_video_title "Videonu seçin və ya çəkin">
-
 <!ENTITY filepicker_permission_denied "Tələb edilən icazələr verilmədi, sistemin fayl seçicisinə qayıdılır.">
 
 <!-- Site identity popup -->
