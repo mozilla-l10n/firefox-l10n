@@ -12,6 +12,8 @@ abuse-report-learnmore =
     Neviete, ktorý problém vybrať?
     <a data-l10n-name="learnmore-link">Pozrite sa na ďalšie informácie o nahlasovaní rozšírení a tém vzhľadu</a>
 abuse-report-submit-description = Popis problému (voliteľný)
+abuse-report-textarea =
+    .placeholder = Ak váš problém podrobne popíšete, môžeme ho jednoduchšie vyriešiť. Ďakujeme vám za hlásenie.
 abuse-report-submit-note = Poznámka: nezadávajte, prosím, žiadne osobné údaje (meno, e-mailovú adresu, telefónne číslo ani adresu). { -vendor-short-name } si tieto hlásenia trvalo ukladá.
 
 ## Panel buttons.
@@ -32,9 +34,16 @@ abuse-report-messagebar-submitting = Odosielanie hlásenia o doplnku <span data-
 abuse-report-messagebar-submitted = Ďakujeme vám za hlásenie. Chcete doplnok <span data-l10n-name="addon-name">{ $addon-name }</span> odstrániť?
 abuse-report-messagebar-submitted-noremove = Ďakujeme vám za hlásenie.
 abuse-report-messagebar-removed-extension = Ďakujeme vám za hlásenie. Rozšírenie <span data-l10n-name="addon-name">{ $addon-name }</span> bolo odstránené.
+abuse-report-messagebar-removed-theme = Ďakujeme vám za hlásenie. Téma vzhľadu <span data-l10n-name="addon-name">{ $addon-name }</span> bolo odstránené.
+abuse-report-messagebar-error = Pri odosielaní hlásenia o doplnku <span data-l10n-name="addon-name">{ $addon-name }</span> nastala chyba.
+abuse-report-messagebar-error-recent-submit = Hlásenie o doplnku <span data-l10n-name="addon-name">{ $addon-name }</span> nebolo odoslané, pretože ste ho už nedávno nahlásili.
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove-extension = Áno, odstrániť
+abuse-report-messagebar-action-keep-extension = Nie, ponechať
+abuse-report-messagebar-action-remove-theme = Áno, odstrániť
+abuse-report-messagebar-action-keep-theme = Nie, ponechať
 abuse-report-messagebar-action-retry = Skúsiť znova
 abuse-report-messagebar-action-cancel = Zrušiť
 
