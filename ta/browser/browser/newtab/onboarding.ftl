@@ -12,12 +12,20 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
+onboarding-button-label-learn-more = மேலும் அறிய
 onboarding-button-label-try-now = இப்போதே முயற்சியுங்கள்
 onboarding-button-label-get-started = தொடங்கு
 
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = { -brand-short-name } என்பதற்கு வரவேற்கிறோம்
+onboarding-welcome-learn-more = நன்மைகள் பற்றி மேலும் அறிக.
+onboarding-join-form-header = { -brand-product-name } ல் இணைக
+onboarding-join-form-body = தொடங்குவதற்கு உங்கள் மின்னஞ்சல் முகவரியை உள்ளிடவும்.
+onboarding-join-form-email =
+    .placeholder = மின்னஞ்சலை உள்ளிடவும்
+onboarding-join-form-email-error = செல்லுபடியாகும் மின்னஞ்சல் தேவை
+onboarding-join-form-continue = தொடர்க
 onboarding-start-browsing-button-label = உலவத் தொடங்குங்கள்
 onboarding-cards-dismiss =
     .title = வெளியேற்று
@@ -43,6 +51,9 @@ onboarding-sync-form-sub-header = பயர்பாக்சு ஒத்தி
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = பயனுள்ள தயாரிப்புகள்
+onboarding-benefit-knowledge-title = நடைமுறை அறிவு
+onboarding-benefit-privacy-title = உண்மையான தனியுரிமை
 
 ## These strings belong to the individual onboarding messages.
 
@@ -57,6 +68,23 @@ onboarding-addons-title = கூடுதல்-வசதிகள்
 onboarding-ghostery-title = Ghostery
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = ஒத்திசைக்க
+onboarding-tracking-protection-title2 = கண்காணிப்பிலிருந்து பாதுகாப்பு
+onboarding-tracking-protection-button2 = இது எப்படி செயல்படுகிறது
+onboarding-data-sync-title = உங்கள் அமைப்புகளை உங்களுடன் வைத்திருங்கள்
+onboarding-data-sync-button2 = { -sync-brand-short-name } ல் உள்நுழைக
+onboarding-firefox-monitor-title = தரவு மீறல்களுக்கு எச்சரிக்கையாக இருங்கள்
+onboarding-firefox-monitor-button = எச்சரிக்கைக்கு பதிவுபெறுக
+onboarding-browse-privately-title = தனிப்பட்ட முறையில் உலாவுக
+onboarding-browse-privately-button = தனிப்பட்ட சாளரத்தைத் திற
+onboarding-firefox-send-title = உங்கள் பகிரப்பட்ட கோப்புகளை தனிப்பட்டதாக வைத்திருங்கள்
+onboarding-firefox-send-button = { -send-brand-name }ஐ முயற்சிக்க
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = மொபைல் உலாவியைப் பதிவிறக்குக
+onboarding-pocket-anywhere-title = எங்கும் படியுங்கள் கேளுங்கள்
+onboarding-lockwise-passwords-title = உங்கள் கடவுச்சொற்களை உங்களுடன் எடுத்துச் செல்லுங்கள்
+onboarding-lockwise-passwords-button2 = செயலியை பெறுங்கள்
+onboarding-facebook-container-button = நீட்டிப்பைச் சேர்க்க
 
 ## Message strings belonging to the Return to AMO flow
 
