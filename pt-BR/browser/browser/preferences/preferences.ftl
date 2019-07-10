@@ -654,11 +654,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies e dados de sites
-sitedata-total-size-calculating = Calculando o tamanho dos dados de sites e cache…
+sitedata-total-size-calculating = Calculando o tamanho dos dados de sites e do cache…
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Seus cookies, dados de sites e cache armazenados estão atualmente usando { $value } { $unit } do espaço em disco.
+sitedata-total-size = Seus cookies, dados de sites e cache armazenados estão atualmente ocupando { $value } { $unit } de espaço em disco.
 sitedata-learn-more = Saiba mais
 sitedata-delete-on-close =
     .label = Apagar cookies e dados de sites quando o { -brand-short-name } for fechado
