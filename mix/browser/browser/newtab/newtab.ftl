@@ -5,6 +5,9 @@
 
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
+newtab-page-title = Xikua tsàa
+newtab-settings-button =
+    .title = Sa'a nixi kunu koo pagina kitsau
 
 ## Search box component.
 
@@ -20,6 +23,7 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Chika'a ñaa nduku
 newtab-topsites-url-label = URL
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
