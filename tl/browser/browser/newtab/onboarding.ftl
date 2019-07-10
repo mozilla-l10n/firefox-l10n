@@ -12,6 +12,7 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
+onboarding-button-label-learn-more = Alamin
 onboarding-button-label-try-now = Subukan Ngayon
 onboarding-button-label-get-started = Magsimula
 
@@ -47,6 +48,7 @@ onboarding-sync-form-sub-header = para magpatuloy sa { -sync-brand-name }
 ## description.
 
 onboarding-benefit-knowledge-title = Praktikal na Kaalaman
+onboarding-benefit-privacy-title = Tunay na Privacy
 
 ## These strings belong to the individual onboarding messages.
 
@@ -68,6 +70,8 @@ onboarding-fxa-title = Sync
 onboarding-fxa-text = Sign up for a { -fxaccount-brand-name } and sync your bookmarks, passwords, and open tabs everywhere you use { -brand-short-name }.
 onboarding-tracking-protection-button2 = Paano Gumagana
 onboarding-data-sync-title = Dalhin Mo ang Iyong mga Setting
+onboarding-lockwise-passwords-button2 = Kunin ang App
+onboarding-facebook-container-button = Idagdag ang Extension
 
 ## Message strings belonging to the Return to AMO flow
 

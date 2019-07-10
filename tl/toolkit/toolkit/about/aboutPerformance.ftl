@@ -28,6 +28,9 @@ type-other = Iba pa
 ##   $value (Number) - Value of the energy impact, eg. 0.25 (low),
 ##                     5.38 (medium), 105.38 (high)
 
+energy-impact-high = High ({ $value })
+energy-impact-medium = Medium ({ $value })
+energy-impact-low = Low ({ $value })
 
 ## Values for the Memory column
 ##

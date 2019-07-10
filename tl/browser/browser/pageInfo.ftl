@@ -147,6 +147,36 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Gamitin ang Nakatakda
 security-no-visits = Hindi
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] Meta (1 tag)
+           *[other] Meta ({ $tags } tag)
+        }
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] Hindi
+        [one] Oo, isang beses
+       *[other] Oo, { $visits } beses
+    }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } KB ({ $bytes } byte)
+           *[other] { $kb } KB ({ $bytes } bytes)
+        }
 # This string is used to display the type of
 # an image
 # Variables:
