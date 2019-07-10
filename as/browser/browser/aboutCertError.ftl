@@ -15,4 +15,4 @@ cert-error-trust-symantec = GeoTrust, RapidSSL, Symantec, Thawte আৰু VeriS
 cert-error-untrusted-default = এই প্ৰমাণপত্ৰ বিশ্বাসী উৎসৰ পৰা নাহে।
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix-link = ত্ৰুটি ক'ড: <a data-l10n-name="error-code-link">
+cert-error-code-prefix-link = ত্ৰুটি ক'ড: <a data-l10n-name="error-code-link">{ $error }</a>
