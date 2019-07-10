@@ -49,3 +49,5 @@ cfr-doorhanger-pintab-animation-resume = फिर से शुरू करे
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-header = अपने बुकमार्क हर जगह सिंक करें।
+cfr-doorhanger-bookmark-fxa-link-text = अभी बुकमार्क सिंक करें...
