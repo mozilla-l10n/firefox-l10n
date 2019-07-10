@@ -32,10 +32,12 @@ app-basics-name = Izena
 app-basics-version = Bertsioa
 app-basics-build-id = Eraikitze IDa
 app-basics-update-channel = Eguneraketa-kanala
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
-        [linux] Eguneratu direktorioa
-       *[other] Eguneratu karpeta
+        [linux] Eguneraketen direktorioa
+       *[other] Eguneraketen karpeta
     }
 app-basics-update-history = Eguneraketen historia
 app-basics-show-update-history = Erakutsi eguneraketen historia
@@ -56,7 +58,6 @@ app-basics-service-workers = Erregistratutako zerbitzu-langileak
 app-basics-profiles = Profilak
 app-basics-launcher-process-status = Abioko prozesua
 app-basics-multi-process-support = Multiprozesu leihoak
-app-basics-process-count = Webeko eduki-prozesuak
 app-basics-remote-processes-count = Urruneko prozesuak
 app-basics-enterprise-policies = Enpresa-politikak
 app-basics-location-service-key-google = Google Location Service gakoa
@@ -238,7 +239,6 @@ uses-tiling = Mosaikoa darabil
 content-uses-tiling = Mosaikoa darabil (edukia)
 off-main-thread-paint-enabled = Hari nagusitik kanporako margoketa gaituta
 off-main-thread-paint-worker-count = Hari nagusitik kanporako margoketarako langile kopurua
-low-end-machine = Errendimendu baxuagoko makina antzeman da
 target-frame-rate = Helburuko marko-emaria
 audio-backend = Audio backend-a
 max-audio-channels = Gehienezko kanalak
