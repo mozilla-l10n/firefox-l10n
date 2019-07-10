@@ -274,7 +274,7 @@ update-application-check-choose =
 update-application-manual =
     .label = Nunca verificar atualizações (não recomendado)
     .accesskey = N
-update-application-warning-cross-user-setting = Esta configuração se aplicará a todas as contas do Windows e perfis do { -brand-short-name } que usam esta instalação do { -brand-short-name }.
+update-application-warning-cross-user-setting = Esta configuração se aplica a todas as contas do Windows e perfis do { -brand-short-name } que usam esta instalação do { -brand-short-name }.
 update-application-use-service =
     .label = Usar um serviço em segundo plano para instalar atualizações
     .accesskey = s
@@ -359,7 +359,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Novas janelas e abas
-home-new-windows-tabs-description2 = Escolha o que ver quando abrir sua página inicial, novas janelas e novas abas.
+home-new-windows-tabs-description2 = Escolha o que ver quando abrir a página inicial, novas janelas e novas abas.
 
 ## Home Section - Home Page Customization
 
@@ -396,7 +396,7 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header = Conteúdo inicial do Firefox
-home-prefs-content-description = Escolha que conteúdo você quer na sua tela inicial do Firefox.
+home-prefs-content-description = Escolha que conteúdo você quer na tela inicial do Firefox.
 home-prefs-content-discovery-description = A descoberta de conteúdo na página inicial do Firefox permite descobrir artigos relevantes, de alta qualidade, pela web afora.
 home-prefs-search-header =
     .label = Pesquisar na web
@@ -419,7 +419,7 @@ home-prefs-highlights-option-visited-pages =
 home-prefs-highlights-options-bookmarks =
     .label = Favoritos
 home-prefs-highlights-option-most-recent-download =
-    .label = Download mais recente
+    .label = Downloads mais recentes
 home-prefs-highlights-option-saved-to-pocket =
     .label = Páginas salvas no { -pocket-brand-name }
 # For the "Snippets" feature traditionally on about:home.
