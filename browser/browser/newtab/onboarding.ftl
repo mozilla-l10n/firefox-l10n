@@ -19,6 +19,15 @@ onboarding-button-label-get-started = Cumenzar
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Bainvegni a { -brand-short-name }
+onboarding-welcome-body = Ti has gia il navigatur.<br/>Emprenda d'enconuscher tschels products da { -brand-product-name }.
+onboarding-welcome-learn-more = Ve a savair dapli davart ils avantatgs.
+onboarding-join-form-header = Fa part da { -brand-product-name }
+onboarding-join-form-body = Endatescha tia adressa d'e-mail per cumenzar.
+onboarding-join-form-email =
+    .placeholder = Endatar l'e-mail
+onboarding-join-form-email-error = Adressa d'e-mail valida è obligatorica
+onboarding-join-form-legal = Sche ti cuntinueschas, acceptas ti las <a data-l10n-name="terms">cundiziuns d'utilisaziun</a> e las <a data-l10n-name="privacy">infurmaziuns davart la protecziun da datas</a>.
+onboarding-join-form-continue = Cuntinuar
 onboarding-start-browsing-button-label = Cumenzar a navigar
 onboarding-cards-dismiss =
     .title = Sbittar
@@ -44,6 +53,9 @@ onboarding-sync-form-sub-header = per cuntinuar cun { -sync-brand-name }.
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = Products pratics
+onboarding-benefit-products-text = Fa tias chaussas online cun ina paletta dad utensils che resguardan tia sfera privata sin tut tes apparats.
+onboarding-benefit-knowledge-title = Enconuschientschas praticas
 
 ## These strings belong to the individual onboarding messages.
 
