@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = Ingen proxy för
     .accesskey = n
 connection-proxy-noproxy-desc = Exempel: .mozilla.org, .sunet.se, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = Anslutningar till localhost, 127.0.0.1 och ::1 är aldrig anslutna via en proxy.
 connection-proxy-autotype =
     .label = URL för automatisk proxykonfiguration
     .accesskey = U
@@ -70,12 +72,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Aktivera DNS över HTTPS
     .accesskey = A
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = Använd standard ({ $url })
-    .accesskey = A
-    .tooltiptext = Använd standard-URL för att lösa DNS över HTTPS
 connection-dns-over-https-url-resolver = Använd leverantör
     .accesskey = A
 # Variables:
