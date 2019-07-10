@@ -70,15 +70,8 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Paganahin ang DNS sa pamamagitan ng HTTPS
     .accesskey = b
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = URL for resolving DNS over HTTPS
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = Gumamit ng default ({ $url })
-    .accesskey = G
-    .tooltiptext = Gumamit ng default na URL sa pagresolba ng DNS nang naka-HTTPS
+connection-dns-over-https-url-resolver = Gamitin ang Provider
+    .accesskey = P
 connection-dns-over-https-url-custom =
     .label = Custom
     .accesskey = C

@@ -22,4 +22,7 @@ policy-DisablePocket = Huwag paganahin ang tampok upang i-save ang mga webpage s
 policy-DisablePrivateBrowsing = Huwag paganahin ang Pribadong Pagba-browse.
 policy-DisableTelemetry = I-off ang Telemetry
 policy-DNSOverHTTPS = Ayusin ang DNS gamit HTTPS.
+policy-FirefoxHome = I-configure ang Firefox Home.
 policy-Proxy = Ayusin ang proxy settings.
+policy-SSLVersionMax = I-set ang maximum SSL version.
+policy-SSLVersionMin = I-set ang minimum SSL version.
