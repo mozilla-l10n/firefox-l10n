@@ -269,10 +269,10 @@ update-application-auto =
     .label = Installar le actualisationes automaticamente (recommendate)
     .accesskey = A
 update-application-check-choose =
-    .label = Recercar actualisationes ma permitter que tu decide si tu los installara
+    .label = Cercar actualisationes, ma lassar te decider si tu los installa
     .accesskey = C
 update-application-manual =
-    .label = Non recercar jammais actualisationes (non recommendate)
+    .label = Non cercar jammais actualisationes (non recommendate)
     .accesskey = N
 update-application-warning-cross-user-setting = Iste configuration sera applicate a tote le contos de Windows e profilos de { -brand-short-name } per iste installation de { -brand-short-name }.
 update-application-use-service =
@@ -428,7 +428,7 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Breve novas
-home-prefs-snippets-description = Actualisationes ab { -vendor-short-name } e { -brand-product-name }
+home-prefs-snippets-description = Actualitates de { -vendor-short-name } e { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
