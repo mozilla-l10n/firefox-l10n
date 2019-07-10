@@ -38,6 +38,10 @@
 <!ENTITY  noproxy.label                 "Nepoužívať proxy pre:">
 <!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "Príklad: .mozilla.org, .net.nz">
+<!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
+  localhost, 127.0.0.1 and ::1.
+-->
+<!ENTITY  noproxyLocalhostDesc.label   "Pripojenie na localhost, 127.0.0.1 a ::1 nikdy proxy servery nepoužívajú.">
 <!ENTITY  shareproxy.label              "Použiť tento server proxy pre všetky protokoly">
 <!ENTITY  shareproxy.accesskey          "x">
 <!ENTITY  autologinproxy.label          "Nevyžadovať zadanie autorizačných údajov, ak ich má prehliadač uložené">
@@ -47,9 +51,6 @@
 <!ENTITY  socksRemoteDNS.accesskey      "r">
 <!ENTITY  dnsOverHttps.label            "Zapnúť DNS cez HTTPS">
 <!ENTITY  dnsOverHttps.accesskey        "p">
-<!ENTITY  dnsOverHttpsUrl.label         "Adresa URL">
-<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
-<!ENTITY  dnsOverHttpsUrl.tooltip       "URL pre DNS cez HTTPS">
 <!ENTITY  dnsOverHttpsUrlDefault.label     "Použiť predvolenú">
 <!ENTITY  dnsOverHttpsUrlDefault.accesskey "P">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Použiť predvolenú URL pre DNS cez HTTPS">
