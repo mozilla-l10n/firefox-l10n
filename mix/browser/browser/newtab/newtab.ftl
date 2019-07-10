@@ -24,6 +24,9 @@ newtab-search-box-search-the-web-input =
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Chika'a ñaa nduku
+newtab-topsites-title-label = Título
+newtab-topsites-title-input =
+    .placeholder = Chaa título
 newtab-topsites-url-label = URL
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
@@ -42,21 +45,40 @@ newtab-topsites-add-button = Chikaa
 
 newtab-menu-edit-topsites = Sama
 newtab-menu-pin = Chita'an
+newtab-menu-unpin = Sia'a
+newtab-menu-delete-history = Stoò ntii ña ntsinu
+newtab-menu-save-to-pocket = Chika va'a nu { -pocket-brand-name }
+newtab-menu-delete-pocket = Stoo ña inka nu{ -pocket-brand-name }
+newtab-menu-archive-pocket = Chika va'a nu { -pocket-brand-name }
+# Bookmark is a noun in this case, "Remove bookmark".
+newtab-menu-remove-bookmark = Stoo markador
+# Bookmark is a verb here.
+newtab-menu-bookmark = Marka
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = Ndatava enlace nu snuu
+newtab-menu-go-to-download-page = Kua'an nu página snuu
+newtab-menu-remove-download = Stoò ntii ña ntsinu
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Sna'a nu Finder
+       *[other] Kuna karpeta nu inkai
+    }
 newtab-menu-open-file = Kuna tutu
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
 ## the page is bookmarked, or is currently open on another device.
 
+newtab-label-saved = Inka vai ni { -pocket-brand-name }
+newtab-label-download = Snui
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
