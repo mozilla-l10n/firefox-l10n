@@ -20,5 +20,19 @@ cert-error-trust-self-signed = Cha nel treisht currit ayns yn teisht shoh er yn 
 cert-error-trust-symantec = Cha nel treisht currit ayns teishtyn currit magh liorish GeoTrust, RapidSSL, Symantec, Thawte, ny VeriSign er yn oyr nagh ren ny lughtyn reill teisht shoh geiyrt er cliaghtaghyn sauçhys keayrt dy row.
 cert-error-untrusted-default = Cha nel treisht currit ayns bun y teisht shoh.
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-domain-mismatch = Ta ynnydyn-eggey prowal quoi t'ad lesh teishtyn.  Cha nel { -brand-short-name } cur treisht ayns yn ynnyd shoh er yn oyr dy vel eh jannoo ymmyd jeh teisht nagh vel kiart son { $hostname }.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single = Ta ynnydyn-eggey prowal quoi t'ad lesh teishtyn.  Cha nel { -brand-short-name } cur treisht ayns yn ynnyd shoh er yn oyr dy vel eh jannoo ymmyd jeh teisht nagh vel kiart son { $hostname }.  Cha nel yn teisht shoh agh kiart son <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single-nolink = Ta ynnydyn-eggey prowal quoi t'ad lesh teishtyn.  Cha nel { -brand-short-name } cur treisht ayns yn ynnyd shoh er yn oyr dy vel eh jannoo ymmyd jeh teisht nagh vel kiart son { $hostname }.  Cha nel yn teisht shoh agh son { $alt-name }.
+# Variables:
+# $subject-alt-names (String) - Alternate domain names for which the cert is valid.
+cert-error-domain-mismatch-multiple = Ta ynnydyn-eggey prowal quoi t'ad lesh teishtyn.  Cha nel { -brand-short-name } cur treisht ayns yn ynnyd shoh er yn oyr dy vel eh jannoo ymmyd jeh teisht nagh vel kiart son { $hostname }.  Cha nel yn teisht shoh agh kiart son ny h-enmyn shoh: { $subject-alt-names }
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Coad marranys: <a data-l10n-name="error-code-link">{ $error }</a>
