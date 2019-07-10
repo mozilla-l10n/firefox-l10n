@@ -155,9 +155,6 @@ private-browsing-description2 =
     w ustawieniach, rozszerzenie nie będzie działało w trybie prywatnym i nie będzie miało dostępu
     do działań użytkownika. Wprowadziliśmy tę zmianę, aby prywatne przeglądanie zawsze było prywatne.
     <label data-l10n-name="private-browsing-learn-more">Więcej informacji o zarządzaniu ustawieniami rozszerzeń.</label>
-extensions-view-discover =
-    .name = Pobierz dodatki
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Polecane
     .tooltiptext = Wyświetl polecane dodatki
@@ -348,9 +345,9 @@ addon-detail-reviews-link =
 pending-uninstall-description = Usunięto dodatek <span data-l10n-name="addon-name">{ $addon }</span>.
 pending-uninstall-undo-button = Cofnij
 addon-detail-updates-label = Automatyczne aktualizacje
-addon-detail-updates-radio-default = Domyślne
-addon-detail-updates-radio-on = Włączone
-addon-detail-updates-radio-off = Wyłączone
+addon-detail-updates-radio-default = domyślne
+addon-detail-updates-radio-on = włączone
+addon-detail-updates-radio-off = wyłączone
 addon-detail-update-check-label = Sprawdź dostępność aktualizacji
 install-update-button = Uaktualnij
 # This is the tooltip text for the private browsing badge in about:addons. The
@@ -358,8 +355,8 @@ install-update-button = Uaktualnij
 addon-badge-private-browsing-allowed =
     .title = Dozwolone w oknach prywatnych
 addon-detail-private-browsing-help = Zezwolenie spowoduje, że rozszerzenie będzie miało dostęp do działań użytkownika w Internecie podczas przeglądania w trybie prywatnym. <a data-l10n-name="learn-more">Więcej informacji</a>
-addon-detail-private-browsing-allow = Zezwól
-addon-detail-private-browsing-disallow = Nie zezwalaj
+addon-detail-private-browsing-allow = zezwalaj
+addon-detail-private-browsing-disallow = nie zezwalaj
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.
 addon-badge-recommended =
