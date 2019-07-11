@@ -78,27 +78,58 @@ newtab-menu-delete-pocket = { -pocket-brand-name }ରୁ ବିଲୋପ କର�
 newtab-menu-archive-pocket = { -pocket-brand-name }ରେ ସକ୍ରିୟ
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = ବୁକମାର୍କ କାଢ଼ିଦିଅନ୍ତୁ
+# Bookmark is a verb here.
+newtab-menu-bookmark = ଚିହ୍ନିତ ସ୍ଥାନ
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = ଆହରଣ ସଂଯୋଗିକୀକୁ ନକଲ କରନ୍ତୁ
+newtab-menu-go-to-download-page = ଆହରଣ ପୃଷ୍ଠାକୁ ଯାଆନ୍ତୁ
+newtab-menu-remove-download = ପୁରୁଣା ତଥ୍ୟରୁ ବାହାର କରନ୍ତୁ
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] ଫାଇଣ୍ଡର ରେ ଦେଖାନ୍ତୁ
+       *[other] ଧାରଣ କରିଥିବା ଫୋଲଡରଗୁଡ଼ିକୁ ଖୋଲନ୍ତୁ
+    }
+newtab-menu-open-file = ଫାଇଲ ଖୋଲନ୍ତୁ
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
 ## the page is bookmarked, or is currently open on another device.
 
+newtab-label-visited = ପରିଦର୍ଶିତ
+newtab-label-bookmarked = ଚିହ୍ନିତ ସ୍ଥାନ ହେଲା
+newtab-label-recommended = ଟ୍ରେଣ୍ଡିଂ
+newtab-label-saved = { -pocket-brand-name }ରେ ସଂରକ୍ଷିତ
+newtab-label-download = ଆହରଣ ହୋଇସାରିଛି
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = ପରିଚ୍ଛେଦ ହଟାନ୍ତୁ
+newtab-section-menu-collapse-section = ପରିଚ୍ଛେଦକୁ ଜାକି ଦିଅନ୍ତୁ
+newtab-section-menu-expand-section = ପରିଚ୍ଛେଦକୁ ବିସ୍ତୃତ କରିଦିଅନ୍ତୁ
+newtab-section-menu-manage-section = ପରିଚ୍ଛେଦ ପରିଚାଳନା
+newtab-section-menu-manage-webext = ଏକଷ୍ଟେନ୍ସନ ପରିଚାଳନା
+newtab-section-menu-add-topsite = ସବୁଠାରୁ ଭଲ ସାଇଟଟିଏ ଯୋଡ଼ନ୍ତୁ
+newtab-section-menu-add-search-engine = ଖୋଜା ଯନ୍ତ୍ର ଯୋଗ କରନ୍ତୁ
+newtab-section-menu-move-up = ଉପରକୁ ଯାଆନ୍ତୁ
+newtab-section-menu-move-down = ତଳକୁ ଯାଆନ୍ତୁ
+newtab-section-menu-privacy-notice = ଗୋପନୀୟତା ବିଜ୍ଞପ୍ତି
 
 ## Section Headers.
 
+newtab-section-header-topsites = ସବୁଠାରୁ ଭଲ ସାଇଟଗୁଡ଼ିକ
+newtab-section-header-highlights = ହାଇଲାଇଟ୍‌ ଗୁଡ଼ିକ
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = { $provider }ଦ୍ୱାରା ସୁପାରିଶକୃତ
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
