@@ -60,3 +60,10 @@ cfr-doorhanger-bookmark-fxa-link-text = 立即同步书签...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = 关闭按钮
     .title = 关闭
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = 新版变化
+    .tooltiptext = 新版变化
+cfr-whatsnew-panel-header = 新版变化
