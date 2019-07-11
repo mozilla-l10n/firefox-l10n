@@ -12,7 +12,7 @@
 <!ENTITY window.title "Käivitatud on &brandProductName;i vanem versioon">
 <!ENTITY window.style "width: 490px;">
 
-<!ENTITY window.nosync "Vanema &brandProductName;i versiooni kasutamine võib rikkuda olemasoleva &brandProductName;i profiili. Oma andmete kaitsmiseks soovitame luua selle &brandShortName;i paigalduse jaoks uue profiili.">
+<!ENTITY window.nosync2 "Uuem &brandProductName;i versioon on muutnud sinu profiili ja see pole enam vanema versiooniga ühilduv. Kasuta seda profiili vaid uuema versiooniga või loo selle &brandShortName; paigalduse jaoks uus profiil. Uue profiili loomisel pead kontod, kalendrid ja lisad uuesti seadistama.">
 
 <!ENTITY window.moreinfo "Rohkem infot…">
 <!ENTITY window.create "Loo uus profiil">
