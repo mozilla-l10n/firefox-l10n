@@ -69,7 +69,6 @@
 <!ENTITY  sending_crash_report "Đang gửi báo cáo lỗi\u2026">
 <!ENTITY  crash_close_label "Đóng">
 <!ENTITY  crash_restart_label "Khởi động lại &brandShortName;">
-
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; đã bị vỡ">
@@ -117,7 +116,6 @@
 <!ENTITY bookmark_folder_updated "Thư mục đã cập nhật">
 <!ENTITY bookmark_parent_folder "Thư mục cha">
 <!ENTITY bookmark_add_folder "Thêm thư mục mới">
-
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
 <!ENTITY bookmark_default_folder_title "(không tiêu đề)">
@@ -280,6 +278,7 @@
 <!ENTITY pref_cookies_menu "Cookie">
 <!ENTITY pref_cookies_accept_all "Đã bật">
 <!ENTITY pref_cookies_not_accept_foreign "Đã bật, ngoại trừ bên thứ ba">
+<!ENTITY pref_cookies_not_accept_trackers "Đã bật, không bao gồm cookie theo dõi">
 <!ENTITY pref_cookies_disabled "Đã tắt">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -340,11 +339,6 @@
 
 <!ENTITY pref_pwa "Ứng dụng web tiên tiến">
 <!ENTITY pref_pwa_summary "Cho phép ứng dụng web có thể được thêm vào màn hình chính">
-
-<!ENTITY tracking_protection_prompt_title "Bây giờ với trình chống theo dõi">
-<!ENTITY tracking_protection_prompt_text "Chủ động chặn các phần tử theo dõi để bạn không phải lo lắng.">
-<!ENTITY tracking_protection_prompt_tip_text "Vào phần cài đặt riêng tư để tìm hiểu thêm">
-<!ENTITY tracking_protection_prompt_action_button "Đã hiểu!">
 
 <!ENTITY tab_queue_toast_message3 "Thẻ đã được lưu trong &brandShortName;">
 <!ENTITY tab_queue_toast_action "Mở ngay">
@@ -431,7 +425,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Nhấn vào ứng dụng Trình duyệt &amp; chọn &brandShortName;">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Tới trang hỗ trợ của Mozilla">
 <!ENTITY pref_about_firefox "Giới thiệu &brandShortName;">
 <!ENTITY pref_vendor_faqs "Câu hỏi thường gặp">
 <!ENTITY pref_vendor_feedback "Gửi phản hồi">
@@ -692,7 +685,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Chọn hoặc tạo một âm thanh">
 <!ENTITY filepicker_image_title "Chọn hoặc chụp một bức ảnh">
 <!ENTITY filepicker_video_title "Chọn hoặc ghi một đoạn video">
-
 <!ENTITY filepicker_permission_denied "Quyền yêu cầu đã không được cấp, đang trở lại bộ chọn tập tin hệ thống.">
 
 <!-- Site identity popup -->
