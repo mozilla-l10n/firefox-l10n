@@ -18,3 +18,4 @@ reader-view = Čitanski napohlad
 open-location = Pytać abo adresu zapodać
 share = Dźělić
 close-window = Wokno začinić
+open-sidebar = Bóčnicy
