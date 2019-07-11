@@ -49,3 +49,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Hiển thị tất cả">
+
+<!ENTITY touchBarCmdMac.label           "Tùy chỉnh Touch Bar…">

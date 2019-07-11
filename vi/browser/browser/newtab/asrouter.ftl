@@ -60,3 +60,10 @@ cfr-doorhanger-bookmark-fxa-link-text = Đồng bộ trang đánh dấu ngay bâ
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Nút đóng
     .title = Đóng
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Có gì mới
+    .tooltiptext = Có gì mới
+cfr-whatsnew-panel-header = Có gì mới
