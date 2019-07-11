@@ -38,6 +38,10 @@
 <!ENTITY  noproxy.label                 "Χωρίς διαμεσολαβητή για:">
 <!ENTITY  noproxy.accesskey             "Χ">
 <!ENTITY  noproxyExplain.label          "Για παράδειγμα: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
+  localhost, 127.0.0.1 and ::1.
+-->
+<!ENTITY  noproxyLocalhostDesc.label   "Συνδέσεις στο localhost, 127.0.0.1 και ::1 δεν περνούν ποτέ μέσω διαμεσολαβητή.">
 <!ENTITY  shareproxy.label              "Χρήση αυτού του διαμεσολαβητή για όλα τα πρωτόκολλα">
 <!ENTITY  shareproxy.accesskey          "δ">
 <!ENTITY  autologinproxy.label          "Να μην ζητείται έλεγχος ταυτοποίησης αν είναι αποθηκευμένος ο κωδικός πρόσβασης">
