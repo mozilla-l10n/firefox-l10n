@@ -69,7 +69,6 @@
 <!ENTITY  sending_crash_report "正在发送崩溃报告\u2026">
 <!ENTITY  crash_close_label "关闭">
 <!ENTITY  crash_restart_label "重开 &brandShortName;">
-
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; 崩溃了">
@@ -117,7 +116,6 @@
 <!ENTITY bookmark_folder_updated "文件夹已更新">
 <!ENTITY bookmark_parent_folder "父文件夹">
 <!ENTITY bookmark_add_folder "添加新文件夹">
-
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
 <!ENTITY bookmark_default_folder_title "(无标题)">
@@ -280,6 +278,7 @@
 <!ENTITY pref_cookies_menu "Cookie">
 <!ENTITY pref_cookies_accept_all "启用">
 <!ENTITY pref_cookies_not_accept_foreign "启用，第三方 Cookie 除外">
+<!ENTITY pref_cookies_not_accept_trackers "启用，跟踪 Cookie 除外">
 <!ENTITY pref_cookies_disabled "禁用">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -340,11 +339,6 @@
 
 <!ENTITY pref_pwa "渐进式 Web 应用">
 <!ENTITY pref_pwa_summary "允许网页应用添加到主屏幕">
-
-<!ENTITY tracking_protection_prompt_title "跟踪保护功能新上线">
-<!ENTITY tracking_protection_prompt_text "主动拦截跟踪您的元素，无需劳心。">
-<!ENTITY tracking_protection_prompt_tip_text "在“隐私”设置中详细了解">
-<!ENTITY tracking_protection_prompt_action_button "明白了！">
 
 <!ENTITY tab_queue_toast_message3 "已将标签页存到 &brandShortName; 中">
 <!ENTITY tab_queue_toast_action "立即打开">
@@ -431,7 +425,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "点击“浏览器应用程序”并选择 &brandShortName;">
-<!ENTITY pref_default_browser_mozilla_support_tablet "访问 Mozilla 支持">
 <!ENTITY pref_about_firefox "关于 &brandShortName;">
 <!ENTITY pref_vendor_faqs "常见问题">
 <!ENTITY pref_vendor_feedback "提供反馈">
@@ -692,7 +685,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "选择或者录制一段声音">
 <!ENTITY filepicker_image_title "选择或者拍摄一张图片">
 <!ENTITY filepicker_video_title "选择或者录制一段视频">
-
 <!ENTITY filepicker_permission_denied "未授予所需权限，将回退为系统文件选取器。">
 
 <!-- Site identity popup -->
