@@ -582,7 +582,7 @@ sync-connect-another-device = Conectar outro dispositivo
 sync-manage-devices = Gerenciar dispositivos
 sync-fxa-begin-pairing = Parear um dispositivo
 sync-tos-link = Termos de serviço
-sync-fxa-privacy-notice = Nota sobre privacidade
+sync-fxa-privacy-notice = Aviso de privacidade
 
 ## Privacy Section
 
@@ -826,7 +826,7 @@ permissions-a11y-privacy-link = Saiba mais
 
 collection-header = Coleta e uso de dados pelo { -brand-short-name }
 collection-description = Nos esforçamos para proporcionar escolhas e coletar somente o necessário para melhorar e fornecer o { -brand-short-name } para todos. Sempre pedimos permissão antes de receber informações pessoais.
-collection-privacy-notice = Nota sobre privacidade
+collection-privacy-notice = Aviso de privacidade
 collection-health-report =
     .label = Permitir que o { -brand-short-name } envie dados técnicos e de interação para a { -vendor-short-name }
     .accesskey = r

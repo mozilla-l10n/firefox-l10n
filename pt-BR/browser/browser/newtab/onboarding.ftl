@@ -26,7 +26,7 @@ onboarding-join-form-body = Digite seu endereço de e-mail para começar.
 onboarding-join-form-email =
     .placeholder = Digite seu e-mail
 onboarding-join-form-email-error = É necessário um e-mail válido
-onboarding-join-form-legal = Ao continuar, você concorda com os <a data-l10n-name="terms">Termos do Serviço</a> e <a data-l10n-name="privacy">Aviso de Privacidade</a>.
+onboarding-join-form-legal = Ao continuar, você concorda com os <a data-l10n-name="terms">Termos de Serviço</a> e o <a data-l10n-name="privacy">Aviso de Privacidade</a>.
 onboarding-join-form-continue = Continuar
 onboarding-start-browsing-button-label = Comece a navegar
 onboarding-cards-dismiss =
