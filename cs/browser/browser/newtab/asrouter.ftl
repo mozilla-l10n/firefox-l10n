@@ -64,3 +64,10 @@ cfr-doorhanger-bookmark-fxa-link-text = Synchronizujte své záložky…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Zavírací tlačítko
     .title = Zavřít
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Co je nového
+    .tooltiptext = Co je nového
+cfr-whatsnew-panel-header = Co je nového

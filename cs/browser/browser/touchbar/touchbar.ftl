@@ -18,3 +18,4 @@ reader-view = Zobrazení čtečky
 open-location = Zadat vyhledávání nebo adresu
 share = Sdílet
 close-window = Zavřít okno
+open-sidebar = Postranní lišty
