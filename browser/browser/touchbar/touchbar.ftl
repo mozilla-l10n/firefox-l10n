@@ -18,3 +18,4 @@ reader-view = Lezerweergave
 open-location = Voer zoekterm of adres in
 share = Delen
 close-window = Venster sluiten
+open-sidebar = Zijbalken

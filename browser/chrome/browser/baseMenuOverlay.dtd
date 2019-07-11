@@ -49,3 +49,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Toon alles">
+
+<!ENTITY touchBarCmdMac.label           "Aanraakbalk aanpassen…">

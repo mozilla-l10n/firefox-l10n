@@ -62,3 +62,10 @@ cfr-doorhanger-bookmark-fxa-link-text = Bladwijzers nu synchroniseren…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Knop Sluiten
     .title = Sluiten
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Wat is er nieuw
+    .tooltiptext = Wat is er nieuw
+cfr-whatsnew-panel-header = Wat is er nieuw
