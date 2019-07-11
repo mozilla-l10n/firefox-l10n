@@ -18,3 +18,4 @@ reader-view = Olvasó nézet
 open-location = Keressen, vagy adjon meg címet
 share = Megosztás
 close-window = Ablak bezárása
+open-sidebar = Oldalsávok

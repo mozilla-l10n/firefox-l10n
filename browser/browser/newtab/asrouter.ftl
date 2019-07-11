@@ -62,3 +62,10 @@ cfr-doorhanger-bookmark-fxa-link-text = Könyvjelzők szinkronizálása most…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Bezárás gomb
     .title = Bezárás
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Újdonságok
+    .tooltiptext = Újdonságok
+cfr-whatsnew-panel-header = Újdonságok
