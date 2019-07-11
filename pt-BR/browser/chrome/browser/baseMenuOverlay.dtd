@@ -49,3 +49,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Mostrar tudo">
+
+<!ENTITY touchBarCmdMac.label           "Personalizar barra de toque…">
