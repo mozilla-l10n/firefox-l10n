@@ -62,3 +62,10 @@ cfr-doorhanger-bookmark-fxa-link-text = Yer imlerini eşitle…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Kapat düğmesi
     .title = Kapat
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Yeni neler var?
+    .tooltiptext = Yeni neler var?
+cfr-whatsnew-panel-header = Yeni neler var?
