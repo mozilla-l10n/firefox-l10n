@@ -278,6 +278,7 @@
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Ativados">
 <!ENTITY pref_cookies_not_accept_foreign "Ativados, exceto de terceiros">
+<!ENTITY pref_cookies_not_accept_trackers "Ativado, exceto cookies de rastreamento">
 <!ENTITY pref_cookies_disabled "Desativados">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
