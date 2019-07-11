@@ -42,7 +42,7 @@ onboarding-sync-form-skip-login-button = આ પગલું છોડી દો
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = તમારા ઇમેઇલ દાખલ કરો
-onboarding-sync-form-sub-header = Firefox સમન્વયન ચાલુ રાખવા માટે.
+onboarding-sync-form-sub-header = { -sync-brand-name } ચાલુ રાખવા માટે
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
