@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+appmenu-update-available =
+    .label = এটা নতুন { -brand-shorter-name } আপডেট উপলব্ধ।
+    .buttonlabel = আপডেট ডাউনল'ড কৰক
+    .buttonaccesskey = D
+    .secondarybuttonlabel = এতিয়া নহয়
+    .secondarybuttonaccesskey = N
 appmenu-update-whats-new =
     .value = নতুন কি চাওক।
 appmenu-addon-private-browsing-installed =
