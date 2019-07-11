@@ -12,6 +12,7 @@
 <!ENTITY window.title "Du har startat en äldre version av &brandProductName;">
 <!ENTITY window.style "width: 490px;">
 
+<!ENTITY window.nosync2 "En nyare version av &brandProductName; kan ha gjort ändringar i din profil som inte längre är kompatibla med den här äldre versionen. Använd den här profilen endast med den nyare versionen eller skapa en ny profil för den här installationen av &brandShortName;. Om du skapar en ny profil måste du konfigurera dina konton, kalendrar och tillägg igen.">
 
 <!ENTITY window.moreinfo "Mer information…">
 <!ENTITY window.create "Skapa ny profil">
