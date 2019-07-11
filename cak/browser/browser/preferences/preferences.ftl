@@ -285,6 +285,10 @@ update-pref-write-failure-title = Rusachoj Tz'ib'anïk
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Man xyake' ta ri ajowab'äl. Man xtz'ib'äx ta chi re ri yakb'äl: { $path }
+update-in-progress-ok-button = &Tich'aqïx
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Titikïr chik el
 
 ## General Section - Performance
 

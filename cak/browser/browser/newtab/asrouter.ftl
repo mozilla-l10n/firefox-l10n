@@ -62,3 +62,7 @@ cfr-doorhanger-bookmark-fxa-link-text = Wakami yexim taq yaketal...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tz'apïy pitz'b'äl
     .title = Titz'apïx
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-panel-header = Achike natzijoj
