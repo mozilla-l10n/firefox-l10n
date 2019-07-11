@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Geri al
 customize-mode-lwthemes-my-themes =
     .value = Temalarım
+customize-mode-touchbar-cmd =
+    .label = Touch Bar’ı özelleştir…
