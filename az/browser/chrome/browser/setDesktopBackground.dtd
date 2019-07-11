@@ -8,8 +8,14 @@
 <!ENTITY stretch.label              "Genişləndir">
 <!ENTITY fill.label                 "Doldur">
 <!ENTITY fit.label                  "Sığdır">
-<!ENTITY preview.label              "Ön baxış">
+<!-- LOCALIZATION NOTE (span.label): This refers to the wallpaper "spanning"
+                       multiple monitors when the user has more than one. Only
+                       some of the entire image will be on each monitor.
+                       This should ideally match the wording in Windows' own
+                       Desktop Background settings page. -->
+<!ENTITY span.label                 "Genişlət">
 <!ENTITY color.label                "Rənglər:">
 <!ENTITY setDesktopBackground.title "İşçi stolu arxa fonu et">
 <!ENTITY openDesktopPrefs.label     "MasaÜstü Tənzimləmələrini Aç">
 <!ENTITY closeWindow.key            "w">
+<!ENTITY previewUnavailable         "Ön baxış mümkün deyil">
