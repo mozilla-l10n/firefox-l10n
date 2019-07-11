@@ -28,9 +28,6 @@
 <!ENTITY helpSafeMode.stop.label       "Eklentileri etkinleştirip yeniden başlat">
 <!ENTITY helpSafeMode.stop.accesskey   "E">
 
-<!ENTITY healthReport2.label      "&brandShorterName; Sağlık Raporu">
-<!ENTITY healthReport2.accesskey  "R">
-
 <!ENTITY helpTroubleshootingInfo.label      "Sorun giderme bilgileri">
 <!ENTITY helpTroubleshootingInfo.accesskey  "b">
 
@@ -52,3 +49,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Tümünü göster">
+
+<!ENTITY touchBarCmdMac.label           "Touch Bar’ı özelleştir…">
