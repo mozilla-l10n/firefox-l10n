@@ -69,7 +69,6 @@
 <!ENTITY  sending_crash_report "Skickar kraschrapport...\u2026">
 <!ENTITY  crash_close_label "Stäng">
 <!ENTITY  crash_restart_label "Starta om &brandShortName;">
-
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; kraschade">
@@ -117,7 +116,6 @@
 <!ENTITY bookmark_folder_updated "Mapp uppdaterad">
 <!ENTITY bookmark_parent_folder "Överordnad mapp">
 <!ENTITY bookmark_add_folder "Lägg till ny mapp">
-
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
 <!ENTITY bookmark_default_folder_title "(ingen titel)">
@@ -280,6 +278,7 @@
 <!ENTITY pref_cookies_menu "Kakor">
 <!ENTITY pref_cookies_accept_all "Aktiverad">
 <!ENTITY pref_cookies_not_accept_foreign "Aktiverade, utom för tredje part">
+<!ENTITY pref_cookies_not_accept_trackers "Aktiverad, exkluderar spårningskakor">
 <!ENTITY pref_cookies_disabled "Inaktiverade">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -340,11 +339,6 @@
 
 <!ENTITY pref_pwa "Progressiva webbappar">
 <!ENTITY pref_pwa_summary "Tillåt att webappar läggs till på startskärmen">
-
-<!ENTITY tracking_protection_prompt_title "Nu med Spårningsskydd">
-<!ENTITY tracking_protection_prompt_text "Aktivt blockera spårningselement så att du inte behöver oroa dig.">
-<!ENTITY tracking_protection_prompt_tip_text "Besök Integritets inställningar för att lära dig mer">
-<!ENTITY tracking_protection_prompt_action_button "Jag fattar!">
 
 <!ENTITY tab_queue_toast_message3 "Flik sparad i &brandShortName;">
 <!ENTITY tab_queue_toast_action "Öppna nu">
@@ -431,7 +425,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Klicka på webbläsarapp &amp; välj &brandShortName;">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Besök Mozilla Support">
 <!ENTITY pref_about_firefox "Om &brandShortName;">
 <!ENTITY pref_vendor_faqs "Vanliga frågor">
 <!ENTITY pref_vendor_feedback "Ge synpunkter">
@@ -692,7 +685,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Välj eller spela in ett ljud">
 <!ENTITY filepicker_image_title "Välj eller ta en bild">
 <!ENTITY filepicker_video_title "Välj eller spela in en video">
-
 <!ENTITY filepicker_permission_denied "Obligatoriska behörigheter har inte beviljats, återgår till systemfilväljaren.">
 
 <!-- Site identity popup -->
