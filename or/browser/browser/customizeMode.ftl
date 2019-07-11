@@ -4,6 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = ପୂର୍ବ ନିର୍ଦ୍ଧାରିତଗୁଡିକୁ ପୁନଃସ୍ଥାପନ କରନ୍ତୁ
+customize-mode-overflow-list-title = ଓଭରଫ୍ଲୋ ମେନୁ
 customize-mode-uidensity =
     .label = ଘନତା
 customize-mode-done =
@@ -19,6 +20,10 @@ customize-mode-uidensity-menu-touch =
     .label = ସ୍ପର୍ଶ
     .accesskey = ଟି
     .tooltiptext = ଛୁଇଁବା
+customize-mode-uidensity-auto-touch-mode-checkbox =
+    .label = ସ୍ପର୍ଶ କିମ୍ବା ଟ୍ୟାବଲେଟ ପ୍ରଣାଳୀ ଉପଯୋଗ କରନ୍ତୁ
+customize-mode-extra-drag-space =
+    .label = ଟାଣିବା ସ୍ଥାନ
 customize-mode-lwthemes =
     .label = ପ୍ରସଙ୍ଗ
 customize-mode-uidensity-menu-compact =
