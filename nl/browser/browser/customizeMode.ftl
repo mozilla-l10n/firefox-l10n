@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Ongedaan maken
 customize-mode-lwthemes-my-themes =
     .value = Mijn thema’s
+customize-mode-touchbar-cmd =
+    .label = Aanraakbalk aanpassen…
