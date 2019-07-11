@@ -62,3 +62,10 @@ cfr-doorhanger-bookmark-fxa-link-text = Συγχρονισμός σελιδοδ�
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Κουμπί κλεισίματος
     .title = Κλείσιμο
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Τι νέο υπάρχει
+    .tooltiptext = Τι νέο υπάρχει
+cfr-whatsnew-panel-header = Τι νέο υπάρχει
