@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Visszavonás
 customize-mode-lwthemes-my-themes =
     .value = Saját témák
+customize-mode-touchbar-cmd =
+    .label = Érintősár testreszabása…
