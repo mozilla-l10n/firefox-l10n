@@ -18,3 +18,4 @@ reader-view = Chế độ đọc sách
 open-location = Tìm kiếm hoặc nhập địa chỉ
 share = Chia sẻ
 close-window = Đóng cửa sổ
+open-sidebar = Thanh bên

@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Hoàn tác
 customize-mode-lwthemes-my-themes =
     .value = Chủ đề của tôi
+customize-mode-touchbar-cmd =
+    .label = Tùy chỉnh Touch Bar…
