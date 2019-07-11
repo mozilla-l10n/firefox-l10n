@@ -590,7 +590,7 @@ privacy-header = Privacidade do navegador
 
 ## Privacy Section - Forms
 
-logins-header = Contas e Senhas
+logins-header = Contas e senhas
 forms-ask-to-save-logins =
     .label = Perguntar se deve salvar contas e senhas de acesso de sites
     .accesskey = r
@@ -825,7 +825,7 @@ permissions-a11y-privacy-link = Saiba mais
 ## Privacy Section - Data Collection
 
 collection-header = Coleta e uso de dados pelo { -brand-short-name }
-collection-description = Nos esforçamos para proporcionar escolhas e coletar somente o necessário para fornecer e melhorar o { -brand-short-name } para todos. Sempre pedimos permissão antes de receber informações pessoais.
+collection-description = Nos esforçamos para proporcionar escolhas e coletar somente o necessário para melhorar e fornecer o { -brand-short-name } para todos. Sempre pedimos permissão antes de receber informações pessoais.
 collection-privacy-notice = Nota sobre privacidade
 collection-health-report =
     .label = Permitir que o { -brand-short-name } envie dados técnicos e de interação para a { -vendor-short-name }
@@ -851,16 +851,16 @@ collection-backlogged-crash-reports-link = Saiba mais
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Segurança
-security-browsing-protection = Proteção contra Conteúdo Enganoso e Softwares Perigosos
+security-browsing-protection = Proteção contra conteúdo enganoso e softwares perigosos
 security-enable-safe-browsing =
-    .label = Bloquear conteúdo perigoso e enganoso
+    .label = Bloquear conteúdo perigoso ou enganoso
     .accesskey = B
 security-enable-safe-browsing-link = Saiba mais
 security-block-downloads =
     .label = Bloquear downloads perigosos
     .accesskey = d
 security-block-uncommon-software =
-    .label = Avisar sobre softwares indesejados e incomuns
+    .label = Avisar sobre softwares indesejados ou incomuns
     .accesskey = c
 
 ## Privacy Section - Certificates
