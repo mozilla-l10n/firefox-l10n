@@ -10,10 +10,13 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Tam ekrandan çıx">
 <!ENTITY castingButton.castingLabel "Ekrana Yayımla">
 <!ENTITY closedCaption.off "Söndürülmüş">
-
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Səs səviyyəsi sürgüsü">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
+the Picture-in-Picture video toggle button when the mouse is hovering it. -->
+<!ENTITY pictureInPicture.label "Şəkildə-Şəkil">
 
 <!ENTITY stats.media "Ortam">
 <!ENTITY stats.size "Həcmi">
@@ -34,6 +37,8 @@
 <!ENTITY error.srcNotSupported "Video formatı və ya MIME formatı dəstəklənmir.">
 <!ENTITY error.noSource2 "Dəstəklənən formatlarda və ya MIME formatlarında video tapılmadı.">
 <!ENTITY error.generic "Naməlum bir səhv səbəbi ilə video göstərilməsi ləğv edildi.">
+
+<!ENTITY status.pictureInPicture "Video Şəkildə-Şəkil modunda oynadılır.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
