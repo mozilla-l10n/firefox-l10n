@@ -18,6 +18,9 @@ restore-page-list-header =
 restore-page-try-again-button =
     .label = ଅଧିବେଶନକୁ ପୁନଃସ୍ଥାପନ କରନ୍ତୁ
     .accesskey = ର
+restore-page-close-button =
+    .label = ନୂତନ ସେସନ ଆରମ୍ଭ କରନ୍ତୁ
+    .accesskey = ନ
 
 ## The following strings are used in about:welcomeback
 
