@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Cofnyć
 customize-mode-lwthemes-my-themes =
     .value = Moje drasty
+customize-mode-touchbar-cmd =
+    .label = Dótknjensku lajstu přiměrić…

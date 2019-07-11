@@ -49,3 +49,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Wšitke pokazać">
+
+<!ENTITY touchBarCmdMac.label           "Dótknjensku lajstu přiměrić…">
