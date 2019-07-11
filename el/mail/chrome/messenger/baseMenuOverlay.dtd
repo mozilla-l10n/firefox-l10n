@@ -28,6 +28,8 @@
 
 <!ENTITY aboutMenuCmd2.label "Σχετικά με το &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "Σ">
+<!ENTITY helpSafeMode.stop.label     "Επανεκκίνηση με ανενεργά πρόσθετα">
+<!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "Βοήθεια &brandShortName;">
 <!ENTITY productHelp.accesskey "Β">
 <!ENTITY productHelp.commandkey "VK_F1">
