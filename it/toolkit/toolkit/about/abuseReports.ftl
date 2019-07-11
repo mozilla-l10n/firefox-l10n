@@ -68,7 +68,7 @@ abuse-report-deceptive-example = Esempio: descrizione o grafica ingannevoli
 abuse-report-broken-reason-extension = Non funziona, rende i siti web inutilizzabili o rallenta { -brand-product-name }
 abuse-report-broken-reason-theme = Non funziona o rende l’interfaccia del browser inutilizzabile
 abuse-report-broken-example =
-  Esempio: è difficile da utilizzare, è lento o non funziona. I siti web si caricano in modo parziale o vengono visualizzati in modo strano
+  Esempio: è difficile da utilizzare, è lenta o non funziona. I siti web si caricano in modo parziale o vengono visualizzati in modo strano
 abuse-report-broken-suggestions-extension =
   Sembra che tu abbia trovato un bug. Oltre a segnalare il problema qui, il modo migliore per
   risolvere questo tipo di problemi è contattare lo sviluppatore dell’estensione.
