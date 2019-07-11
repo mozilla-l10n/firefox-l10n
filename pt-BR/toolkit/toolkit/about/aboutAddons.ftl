@@ -24,7 +24,7 @@ list-empty-button =
 install-addon-from-file =
     .label = Instalar de um arquivo…
     .accesskey = I
-help-button = Suporte para Extensões
+help-button = Suporte para extensões
 preferences =
     { PLATFORM() ->
         [windows] Opções do { -brand-short-name }
@@ -160,9 +160,6 @@ private-browsing-description2 =
     extensão não funcionará durante a navegação privativa e não terá acesso à sua atividade online.
     Fizemos esta alteração para assegurar sua navegação privativa.
     <label data-l10n-name="private-browsing-learn-more">Saiba como gerenciar configurações de extensões.</label>
-extensions-view-discover =
-    .name = Adicionar
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Recomendações
     .tooltiptext = { extensions-view-discopane.name }
