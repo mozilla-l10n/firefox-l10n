@@ -31,11 +31,6 @@ site-data-button-save =
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
-site-usage-pattern = { $value } { $unit }
-site-usage-persistent = { site-usage-pattern } (persistente)
-# Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-storage-usage =
     .value = { $value } { $unit }
 site-storage-persistent =
@@ -52,6 +47,6 @@ site-data-remove-shown =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Remover
-site-data-removing-header = Removendo cookies e dados de sites
-site-data-removing-desc = Remover cookies e dados de sites pode desconectar você de sites. Tem certeza que deseja fazer as alterações?
+site-data-removing-header = Remoção de cookies e dados de sites
+site-data-removing-desc = Remover cookies e dados de sites pode desconectar você de contas de sites. Tem certeza que deseja fazer as alterações?
 site-data-removing-table = Os cookies e dados dos seguintes sites serão removidos
