@@ -69,7 +69,6 @@
 <!ENTITY  sending_crash_report "Hibajelentés elküldése \u2026">
 <!ENTITY  crash_close_label "Bezárás">
 <!ENTITY  crash_restart_label "A &brandShortName; újraindítása">
-
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "A &brandShortName; összeomlott">
@@ -117,7 +116,6 @@
 <!ENTITY bookmark_folder_updated "Mappa frissítve">
 <!ENTITY bookmark_parent_folder "Szülőmappa">
 <!ENTITY bookmark_add_folder "Új mappa hozzáadása">
-
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
 <!ENTITY bookmark_default_folder_title "(nincs cím)">
@@ -279,7 +277,8 @@
 
 <!ENTITY pref_cookies_menu "Sütik">
 <!ENTITY pref_cookies_accept_all "Engedélyezve">
-<!ENTITY pref_cookies_not_accept_foreign "Engedélyezve, kivéve harmadik féltől származó">
+<!ENTITY pref_cookies_not_accept_foreign "Engedélyezve, kivéve a harmadik féltől származók">
+<!ENTITY pref_cookies_not_accept_trackers "Engedélyezve, kivéve a nyomkövető sütiket">
 <!ENTITY pref_cookies_disabled "Tiltva">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -340,11 +339,6 @@
 
 <!ENTITY pref_pwa "Progresszív webappok">
 <!ENTITY pref_pwa_summary "Webappok kezdőképernyőhöz adásának engedélyezése">
-
-<!ENTITY tracking_protection_prompt_title "Most követés elleni védelemmel">
-<!ENTITY tracking_protection_prompt_text "Aktívan blokkolja a követő elemeket, hogy ne kelljen aggódnia.">
-<!ENTITY tracking_protection_prompt_tip_text "További tudnivalókért keresse fel az Adatvédelmi beállításokat">
-<!ENTITY tracking_protection_prompt_action_button "Megértettem!">
 
 <!ENTITY tab_queue_toast_message3 "Lap mentve a &brandShortName;ban">
 <!ENTITY tab_queue_toast_action "Megnyitás most">
@@ -431,7 +425,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Koppintson a Böngésző alkalmazásra és válassza a &brandShortName;ot">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla támogatás">
 <!ENTITY pref_about_firefox "A &brandShortName; névjegye">
 <!ENTITY pref_vendor_faqs "GYIK">
 <!ENTITY pref_vendor_feedback "Visszajelzés">
@@ -692,7 +685,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Válasszon vagy vegyen fel egy hangot">
 <!ENTITY filepicker_image_title "Válasszon vagy készítsen egy képet">
 <!ENTITY filepicker_video_title "Válasszon vagy vegyen fel egy videót">
-
 <!ENTITY filepicker_permission_denied "A szükséges engedélyek nem lettek megadva, visszatérés a rendszer fájlválasztójához.">
 
 <!-- Site identity popup -->
