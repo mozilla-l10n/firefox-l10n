@@ -69,7 +69,6 @@
 <!ENTITY  sending_crash_report "Çökme raporu gönderiliyor\u2026">
 <!ENTITY  crash_close_label "Kapat">
 <!ENTITY  crash_restart_label "&brandShortName; baştan başlasın">
-
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; çöktü">
@@ -117,7 +116,6 @@
 <!ENTITY bookmark_folder_updated "Dizin güncellendi">
 <!ENTITY bookmark_parent_folder "Üst dizin">
 <!ENTITY bookmark_add_folder "Yeni dizin ekle">
-
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
 <!ENTITY bookmark_default_folder_title "(başlık yok)">
@@ -280,6 +278,7 @@
 <!ENTITY pref_cookies_menu "Çerezler">
 <!ENTITY pref_cookies_accept_all "Etkin">
 <!ENTITY pref_cookies_not_accept_foreign "Etkin, 3. parti hariç">
+<!ENTITY pref_cookies_not_accept_trackers "Etkin, takip çerezleri hariç">
 <!ENTITY pref_cookies_disabled "Devre dışı">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -340,11 +339,6 @@
 
 <!ENTITY pref_pwa "Progresif web uygulamaları">
 <!ENTITY pref_pwa_summary "Web uygulamalarının ana ekrana eklenmesine izin ver">
-
-<!ENTITY tracking_protection_prompt_title "Şimdi İzlenme Koruması ile">
-<!ENTITY tracking_protection_prompt_text "Endişeye yer kalmasın diye, size izleyen öğeleri aktif bir şekilde engelliyoruz.">
-<!ENTITY tracking_protection_prompt_tip_text "Daha fazla bilgi için Gizlilik ayarlarını ziyaret edin">
-<!ENTITY tracking_protection_prompt_action_button "Anladım!">
 
 <!ENTITY tab_queue_toast_message3 "Sekme &brandShortName; üzerinde kaydedildi">
 <!ENTITY tab_queue_toast_action "Şimdi aç">
@@ -431,7 +425,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "“Tarayıcı uygulaması”na dokunup &brandShortName;’u seçin">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla Destek’i ziyaret et">
 <!ENTITY pref_about_firefox "&brandShortName; hakkında">
 <!ENTITY pref_vendor_faqs "SSS">
 <!ENTITY pref_vendor_feedback "Geri bildirim gönder">
@@ -692,7 +685,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Bir ses seçin veya kaydedin">
 <!ENTITY filepicker_image_title "Bir resim seçin veya çekin">
 <!ENTITY filepicker_video_title "Bir video seçin veya kaydedin">
-
 <!ENTITY filepicker_permission_denied "Gerekli izinler verilmedi. Sistem dosya seçicisine dönülüyor.">
 
 <!-- Site identity popup -->
