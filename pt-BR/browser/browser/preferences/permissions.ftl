@@ -73,7 +73,7 @@ permissions-exceptions-content-blocking-desc = Você desativou o bloqueio de con
 permissions-exceptions-cookie-window =
     .title = Exceções - Cookies e dados de sites
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = Você pode especificar que sites tem ou não permissão para usar cookies e dados de sites.  Digite o endereço exato de um site e clique em Permitir, Bloquear ou Permitir nesta sessão.
+permissions-exceptions-cookie-desc = Você pode especificar que sites têm ou não permissão para armazenar cookies e dados de sites no seu computador. Digite o endereço exato de um site e clique em Permitir, Bloquear ou Permitir nesta sessão.
 
 ## Exceptions - Pop-ups
 
