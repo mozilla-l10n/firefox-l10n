@@ -18,3 +18,4 @@ reader-view = Okuyucu görünümü
 open-location = Arama yapın veya adres yazın
 share = Paylaş
 close-window = Pencereyi kapat
+open-sidebar = Kenar çubukları
