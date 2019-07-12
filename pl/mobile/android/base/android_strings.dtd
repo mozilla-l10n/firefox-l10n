@@ -69,7 +69,6 @@
 <!ENTITY  sending_crash_report "Przesyłanie zgłoszenia\u2026">
 <!ENTITY  crash_close_label "Zamknij">
 <!ENTITY  crash_restart_label "Uruchom ponownie przeglądarkę &brandShortName;">
-
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; uległ awarii">
@@ -117,7 +116,6 @@
 <!ENTITY bookmark_folder_updated "Zaktualizowano folder">
 <!ENTITY bookmark_parent_folder "Folder nadrzędny">
 <!ENTITY bookmark_add_folder "Dodaj nowy folder">
-
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
 <!ENTITY bookmark_default_folder_title "(brak tytułu)">
@@ -280,6 +278,7 @@
 <!ENTITY pref_cookies_menu "Ciasteczka">
 <!ENTITY pref_cookies_accept_all "Akceptowanie wszystkich">
 <!ENTITY pref_cookies_not_accept_foreign "Akceptowanie, z wyjątkiem ciasteczek zewnętrznych podmiotów">
+<!ENTITY pref_cookies_not_accept_trackers "Akceptowanie, z wyjątkiem ciasteczek śledzących">
 <!ENTITY pref_cookies_disabled "Wyłączone">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -340,11 +339,6 @@
 
 <!ENTITY pref_pwa "Nowoczesne aplikacje internetowe">
 <!ENTITY pref_pwa_summary "Umożliwia dodawanie aplikacji internetowych do ekranu głównego">
-
-<!ENTITY tracking_protection_prompt_title "Nowa ochrona przed śledzeniem">
-<!ENTITY tracking_protection_prompt_text "Aktywne blokowanie elementów śledzących aktywność użytkownika.">
-<!ENTITY tracking_protection_prompt_tip_text "Więcej informacji w ustawieniach prywatności">
-<!ENTITY tracking_protection_prompt_action_button "Zamknij">
 
 <!ENTITY tab_queue_toast_message3 "Karta zachowana w przeglądarce &brandShortName;">
 <!ENTITY tab_queue_toast_action "Otwórz">
@@ -431,7 +425,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Stuknij opcję „Przeglądarka” i wybierz „&brandShortName;”">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Pomoc Mozilli">
 <!ENTITY pref_about_firefox "O programie &brandShortName;">
 <!ENTITY pref_vendor_faqs "Najczęściej zadawane pytania">
 <!ENTITY pref_vendor_feedback "Wyślij opinię">
@@ -692,7 +685,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Wybierz istniejący dźwięk lub nagraj nowy">
 <!ENTITY filepicker_image_title "Wybierz istniejące zdjęcie lub zrób nowe">
 <!ENTITY filepicker_video_title "Wybierz istniejące wideo lub nagraj nowe">
-
 <!ENTITY filepicker_permission_denied "Nie udzielono wymaganego uprawnienia, przywracanie do systemowego okna wyboru pliku.">
 
 <!-- Site identity popup -->
