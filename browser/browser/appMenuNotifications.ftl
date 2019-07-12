@@ -25,4 +25,17 @@ appmenu-update-restart =
     .secondarybuttonlabel = Не сега
     .secondarybuttonaccesskey = Н
 appmenu-update-restart-message = След бързия рестарт { -brand-shorter-name } ще възстанови всички ваши отворени раздели и прозорци, които не са в режим на поверително разглеждане.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Да, разбрах
+    .buttonaccesskey = а
 appmenu-addon-post-install-message = Управлявайте добавките си като изберете <image data-l10n-name='addon-install-icon'></image> от менюто <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-post-install-incognito-checkbox =
+    .label = Позволете на разширението да работи в поверителни прозорци
+    .accesskey = з
+appmenu-addon-private-browsing =
+    .label = Променете към разширения в Поверителни прозорци
+    .buttonlabel = Управление на разширения
+    .buttonaccesskey = у
+    .secondarybuttonlabel = Да, разбрах
+    .secondarybuttonaccesskey = а
+appmenu-addon-private-browsing-learn-more = Научете как да управлявате настройките на разширенията

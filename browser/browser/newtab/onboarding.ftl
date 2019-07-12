@@ -12,6 +12,7 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
+onboarding-button-label-learn-more = Научете повече
 onboarding-button-label-try-now = Опитайте сега
 onboarding-button-label-get-started = Въведение
 
