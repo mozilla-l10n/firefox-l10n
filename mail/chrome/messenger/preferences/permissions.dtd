@@ -18,5 +18,6 @@
 <!ENTITY allow.accesskey              "I">
 <!ENTITY windowClose.key              "w">
 
+<!ENTITY button.cancel.label          "Batalkan">
 <!ENTITY button.ok.label              "Simpan Perubahan">
 
