@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Revocar
 customize-mode-lwthemes-my-themes =
     .value = Mes designs
+customize-mode-touchbar-cmd =
+    .label = Modifitgar la trav da tutgar…
