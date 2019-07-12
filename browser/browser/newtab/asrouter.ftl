@@ -60,3 +60,10 @@ cfr-doorhanger-bookmark-fxa-link-text = Sinkronkan markah sekarang…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tombol tutup
     .title = T
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Yang Baru
+    .tooltiptext = Yang Baru
+cfr-whatsnew-panel-header = Yang Baru

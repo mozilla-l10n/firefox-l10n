@@ -18,3 +18,4 @@ reader-view = Tampilan Baca
 open-location = Cari atau masukkan alamat
 share = Bagikan
 close-window = Tutup Jendela
+open-sidebar = Bilah Samping
