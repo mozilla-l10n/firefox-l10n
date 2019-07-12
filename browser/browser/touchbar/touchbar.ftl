@@ -18,3 +18,4 @@ reader-view = Golwg Darllen
 open-location = Chwilio neu rhoi cyfeiriad
 share = Rhannu
 close-window = Cau Ffenestr
+open-sidebar = Barrau Ochr
