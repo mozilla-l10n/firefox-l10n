@@ -28,9 +28,6 @@
 <!ENTITY helpSafeMode.stop.label       "Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi">
 <!ENTITY helpSafeMode.stop.accesskey   "A">
 
-<!ENTITY healthReport2.label      "Adroddiad Iechyd &brandShorterName;">
-<!ENTITY healthReport2.accesskey  "A">
-
 <!ENTITY helpTroubleshootingInfo.label      "Gwybodaeth am Ddatrys Problemau">
 <!ENTITY helpTroubleshootingInfo.accesskey  "G">
 
@@ -52,3 +49,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Dangos Popeth">
+
+<!ENTITY touchBarCmdMac.label           "Cyfaddasu'r Bar Cyffwrdd…">

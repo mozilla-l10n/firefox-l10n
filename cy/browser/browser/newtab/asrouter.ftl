@@ -70,3 +70,10 @@ cfr-doorhanger-bookmark-fxa-link-text = Cydweddu nodau tudalen nawr…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Cau botwm
     .title = Cau
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Beth sy'n Newydd
+    .tooltiptext = Beth sy'n Newydd
+cfr-whatsnew-panel-header = Beth sy'n Newydd

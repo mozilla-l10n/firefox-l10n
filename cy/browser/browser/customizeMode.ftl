@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Dadwneud
 customize-mode-lwthemes-my-themes =
     .value = Fy Thema
+customize-mode-touchbar-cmd =
+    .label = Cyfaddasu'r Bar Cyffwrdd…
