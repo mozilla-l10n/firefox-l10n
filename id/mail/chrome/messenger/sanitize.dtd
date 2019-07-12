@@ -20,7 +20,9 @@ that require it.  -->
      480169 -->
 <!ENTITY detailsProgressiveDisclosure.label     "Detail">
 
+<!ENTITY itemHistory.label                 "Riwayat Penjelajahan">
 <!ENTITY itemCookies.label                 "Kuki">
+<!ENTITY itemCache.label                   "Tembolok">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI

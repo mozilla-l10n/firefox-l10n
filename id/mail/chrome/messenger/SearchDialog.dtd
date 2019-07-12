@@ -29,6 +29,7 @@
 <!ENTITY propertiesButton.accesskey  "P">
 <!ENTITY composeButton.label         "Tulis">
 <!ENTITY composeButton.accesskey     "T">
+<!ENTITY deleteCardButton.label      "Hapus">
 <!ENTITY abSearchDialogTitle.label   "Pencarian Canggih Daftar Alamat">
 
 <!-- Thread Pane -->
