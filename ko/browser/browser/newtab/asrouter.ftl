@@ -60,3 +60,10 @@ cfr-doorhanger-bookmark-fxa-link-text = 북마크 지금 동기화…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = 닫기 버튼
     .title = 닫기
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = 새로운 기능
+    .tooltiptext = 새로운 기능
+cfr-whatsnew-panel-header = 새로운 기능
