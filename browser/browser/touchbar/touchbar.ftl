@@ -18,3 +18,4 @@ reader-view = Cytański naglěd
 open-location = Pytaś abo adresu zapódaś
 share = Źěliś
 close-window = Wokno zacyniś
+open-sidebar = Bócnice

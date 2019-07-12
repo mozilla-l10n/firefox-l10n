@@ -66,3 +66,10 @@ cfr-doorhanger-bookmark-fxa-link-text = Synchronizěrujśo něnto cytańske znam
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tłocašk Zacyniś
     .title = Zacyniś
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Nowe funkcije a změny
+    .tooltiptext = Nowe funkcije a změny
+cfr-whatsnew-panel-header = Nowe funkcije a změny
