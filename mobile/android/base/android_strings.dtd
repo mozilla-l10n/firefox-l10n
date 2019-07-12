@@ -69,7 +69,6 @@
 <!ENTITY  sending_crash_report "Ungelokrapport ferstjoere\u2026">
 <!ENTITY  crash_close_label "Slute">
 <!ENTITY  crash_restart_label "&brandShortName; werstarte">
-
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; is ferûngelokke">
@@ -117,7 +116,6 @@
 <!ENTITY bookmark_folder_updated "Map fernijd">
 <!ENTITY bookmark_parent_folder "Boppelizzende map">
 <!ENTITY bookmark_add_folder "Nije map tafoegje">
-
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
 <!ENTITY bookmark_default_folder_title "(gjin titel)">
@@ -280,6 +278,7 @@
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Ynskeakele">
 <!ENTITY pref_cookies_not_accept_foreign "Ynskeakele, útsein fan tredden">
+<!ENTITY pref_cookies_not_accept_trackers "Ynskeakele, eksklusyf trackingcookies">
 <!ENTITY pref_cookies_disabled "Utskeakele">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -340,11 +339,6 @@
 
 <!ENTITY pref_pwa "Progressive Web Apps">
 <!ENTITY pref_pwa_summary "Tastean dat webapps tafoege wurde oan it startskerm">
-
-<!ENTITY tracking_protection_prompt_title "No mei Beskerming tsjin folgjen">
-<!ENTITY tracking_protection_prompt_text "Blokkearje aktyf folcheleminten, sadat jo jo gjin soargen hoege te meitsjen.">
-<!ENTITY tracking_protection_prompt_tip_text "Besykje Privacyynstellingen foar mear ynfo">
-<!ENTITY tracking_protection_prompt_action_button "Begrepen!">
 
 <!ENTITY tab_queue_toast_message3 "Ljepblêd bewarre yn &brandShortName;">
 <!ENTITY tab_queue_toast_action "No iepenje">
@@ -431,7 +425,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Tik op de Browser-app &amp; selektearje &brandShortName;">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla Support besykje">
 <!ENTITY pref_about_firefox "Oer &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ’s">
 <!ENTITY pref_vendor_feedback "Kommentaar jaan">
@@ -692,7 +685,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "In lûd kieze of opnimme">
 <!ENTITY filepicker_image_title "In foto kieze of meitsje">
 <!ENTITY filepicker_video_title "In fideo kieze of opnimme">
-
 <!ENTITY filepicker_permission_denied "Fereaske machtigingen net ferliend, der wurdt weromfallen op de bestânssiker fan it systeem.">
 
 <!-- Site identity popup -->
