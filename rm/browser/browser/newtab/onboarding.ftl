@@ -56,6 +56,14 @@ onboarding-sync-form-sub-header = per cuntinuar cun { -sync-brand-name }.
 onboarding-benefit-products-title = Products pratics
 onboarding-benefit-products-text = Fa tias chaussas online cun ina paletta dad utensils che resguardan tia sfera privata sin tut tes apparats.
 onboarding-benefit-knowledge-title = Enconuschientschas praticas
+onboarding-benefit-knowledge-text = Emprenda a ta mover a moda e maniera pli segira e pli effizienta en l'internet.
+onboarding-benefit-privacy-title = Vaira protecziun da datas
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Per tut quai che nus faschain, vala l'empermischun areguard las datas persunalas: Rimnar pauc, memorisar a moda segira e na zuppentar nagut.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -75,6 +83,7 @@ onboarding-ghostery-text = Navighescha pli spert, pli intelligent e pli segir cu
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sincronisar
 onboarding-fxa-text = Creescha in { -fxaccount-brand-name } per sincronisar ils segnapaginas, ils pleds-clav ed ils tabs averts sin tut tes apparats cun ina installaziun da { -brand-short-name }.
+onboarding-tracking-protection-title2 = Protecziun cunter il fastizar
 
 ## Message strings belonging to the Return to AMO flow
 

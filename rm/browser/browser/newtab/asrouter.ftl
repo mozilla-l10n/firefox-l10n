@@ -62,3 +62,10 @@ cfr-doorhanger-bookmark-fxa-link-text = Sincronisar ussa ils segnapaginas…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Buttun per serrar
     .title = Serrar
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Novaziuns
+    .tooltiptext = Novaziuns
+cfr-whatsnew-panel-header = Novaziuns
