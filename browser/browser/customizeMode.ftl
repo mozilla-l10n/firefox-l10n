@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = 실행 취소
 customize-mode-lwthemes-my-themes =
     .value = 내 테마
+customize-mode-touchbar-cmd =
+    .label = 터치바 사용자 정의…
