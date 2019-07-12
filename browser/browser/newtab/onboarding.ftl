@@ -84,6 +84,16 @@ onboarding-ghostery-text = Navighescha pli spert, pli intelligent e pli segir cu
 onboarding-fxa-title = Sincronisar
 onboarding-fxa-text = Creescha in { -fxaccount-brand-name } per sincronisar ils segnapaginas, ils pleds-clav ed ils tabs averts sin tut tes apparats cun ina installaziun da { -brand-short-name }.
 onboarding-tracking-protection-title2 = Protecziun cunter il fastizar
+onboarding-tracking-protection-text2 = { -brand-short-name } impedescha che websites ta fastizeschan online. Uschia daventi pli grev per reclama da ta persequitar en il web.
+onboarding-tracking-protection-button2 = Co quai funcziuna
+onboarding-data-sync-title = Prenda tias preferenzas cun tai
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Sincronisescha tes segnapaginas, pleds-clav e dapli dapertut là, nua che ti utiliseschas { -brand-product-name }.
+onboarding-data-sync-button2 = S'annunziar tar { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Lascha t'avertir sche servetschs perdan datas
+onboarding-firefox-monitor-button = S'inscriver per avis
+onboarding-browse-privately-title = Navighescha en il modus privat
+onboarding-browse-privately-button = Avrir ina fanestra privata
 
 ## Message strings belonging to the Return to AMO flow
 
