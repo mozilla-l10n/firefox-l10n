@@ -69,7 +69,6 @@
 <!ENTITY  sending_crash_report "Anfon adroddiad chwalu\u2026">
 <!ENTITY  crash_close_label "Cau">
 <!ENTITY  crash_restart_label "Ailgychwyn &brandShortName;">
-
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "Mae &brandShortName; wedi chwalu">
@@ -117,7 +116,6 @@
 <!ENTITY bookmark_folder_updated "Diweddarwyd y ffolder">
 <!ENTITY bookmark_parent_folder "Ffolder Rhiant">
 <!ENTITY bookmark_add_folder "Ychwanegu ffolder newydd">
-
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
 <!ENTITY bookmark_default_folder_title "(dim teitl)">
@@ -280,6 +278,7 @@
 <!ENTITY pref_cookies_menu "Cwcis">
 <!ENTITY pref_cookies_accept_all "Galluogwyd">
 <!ENTITY pref_cookies_not_accept_foreign "Galluogwyd, eithrio 3ydd parti">
+<!ENTITY pref_cookies_not_accept_trackers "Galluogwyd, hepgor cwcis tracio">
 <!ENTITY pref_cookies_disabled "Analluogwyd">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -340,11 +339,6 @@
 
 <!ENTITY pref_pwa "Apiau Gwe Blaengar">
 <!ENTITY pref_pwa_summary "Caniatáu i apiau gwe gael eu hychwanegu i\&apos;r sgrin cartref">
-
-<!ENTITY tracking_protection_prompt_title "Nawr gyda Diogelwch Rhag Tracio">
-<!ENTITY tracking_protection_prompt_text "Yn rhwystro elfennau tracio heb i chi orfod poeni.">
-<!ENTITY tracking_protection_prompt_tip_text "Ewch i\&apos;r gosodiadau Preifatrwydd i ddysgu rhagor">
-<!ENTITY tracking_protection_prompt_action_button "Iawn!">
 
 <!ENTITY tab_queue_toast_message3 "Tabiau gadwyd yn &brandShortName;">
 <!ENTITY tab_queue_toast_action "Agor nawr">
@@ -431,7 +425,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Tapiwch yr ap Porwr i ddewis &brandShortName;">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Mynd i Mozilla Support">
 <!ENTITY pref_about_firefox "Ynghylch &brandShortName;">
 <!ENTITY pref_vendor_faqs "Atebion">
 <!ENTITY pref_vendor_feedback "Rhoi adborth">
@@ -692,7 +685,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Dewis neu recordio sain">
 <!ENTITY filepicker_image_title "Dewis neu dynnu llun">
 <!ENTITY filepicker_video_title "Dewis neu recordio fideo">
-
 <!ENTITY filepicker_permission_denied "Heb roi\&apos;r caniatâd gofynnol, gan ddychwelyd at ddewiswr ffeiliau\&apos;r system.">
 
 <!-- Site identity popup -->
