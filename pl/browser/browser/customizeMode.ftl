@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Cofnij
 customize-mode-lwthemes-my-themes =
     .value = Zainstalowane motywy
+customize-mode-touchbar-cmd =
+    .label = Dostosuj pasek Touch Bar…

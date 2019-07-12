@@ -18,3 +18,4 @@ reader-view = Popraw czytelność
 open-location = Wprowadź adres lub szukaj
 share = Udostępnij
 close-window = Zamknij okno
+open-sidebar = Panele boczne

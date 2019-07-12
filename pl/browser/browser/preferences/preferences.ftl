@@ -431,7 +431,7 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Od Mozilli
-home-prefs-snippets-description = Informacje od Mozilli i Firefoksa.
+home-prefs-snippets-description = Informacje od organizacji { -vendor-short-name } i przeglądarki { -brand-product-name }.
 home-prefs-sections-rows-option =
     .label =
         { $num ->

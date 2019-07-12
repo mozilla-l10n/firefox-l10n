@@ -35,7 +35,7 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
-onboarding-sync-welcome-header = Zabierz Firefoksa ze sobą
+onboarding-sync-welcome-header = Zabierz przeglądarkę { -brand-product-name } ze sobą
 onboarding-sync-welcome-content = Zakładki, historia, hasła i inne ustawienia mogą być dostępne i synchronizowane na wszystkich urządzeniach.
 onboarding-sync-welcome-learn-more-link = Więcej informacji o koncie Firefoksa
 onboarding-sync-form-invalid-input = Wymagany jest prawidłowy adres e-mail
@@ -48,7 +48,7 @@ onboarding-sync-form-skip-login-button = Pomiń
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = Wprowadź adres e-mail
-onboarding-sync-form-sub-header = i zacznij korzystać z synchronizacji Firefoksa
+onboarding-sync-form-sub-header = i zacznij korzystać z { -sync-brand-name(case: "gen", capitalization: "lower") }
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
