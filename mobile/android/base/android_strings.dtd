@@ -69,7 +69,6 @@
 <!ENTITY  sending_crash_report "Wowaleńska rozpšawa so sćelo\u2026">
 <!ENTITY  crash_close_label "Zacyniś">
 <!ENTITY  crash_restart_label "&brandShortName; znowego startowaś">
-
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; jo wótwalił">
@@ -117,7 +116,6 @@
 <!ENTITY bookmark_folder_updated "Zarědnik jo aktualizěrowany">
 <!ENTITY bookmark_parent_folder "Nadrědowany zarědnik">
 <!ENTITY bookmark_add_folder "Nowy zarědnik pśidaś">
-
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
 <!ENTITY bookmark_default_folder_title "(žeden titel)">
@@ -280,6 +278,7 @@
 <!ENTITY pref_cookies_menu "Cookieje">
 <!ENTITY pref_cookies_accept_all "Zmóžnjony">
 <!ENTITY pref_cookies_not_accept_foreign "Zmóžnjony, z wuwześim tśeśich póbitowarjow">
+<!ENTITY pref_cookies_not_accept_trackers "Zmóžnjony, mimo slědujucych cookiejow">
 <!ENTITY pref_cookies_disabled "Znjemóžnjony">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -340,11 +339,6 @@
 
 <!ENTITY pref_pwa "Póstupne webnałoženja">
 <!ENTITY pref_pwa_summary "Dowólśo, až se webnałoženja startowej wobrazowce pśidawaju">
-
-<!ENTITY tracking_protection_prompt_title "Něnto ze slědowańskim šćitom">
-<!ENTITY tracking_protection_prompt_text "Slědowańske elementy se aktiwnje blokěruju, njetrjebaśo pótakem sr starosćiś.">
-<!ENTITY tracking_protection_prompt_tip_text "Woglědajśo se nastajenja priwatnosći, aby wěcej zgónił">
-<!ENTITY tracking_protection_prompt_action_button "Som to zrozměł!">
 
 <!ENTITY tab_queue_toast_message3 "Rejtark jo se w &brandShortName; składł">
 <!ENTITY tab_queue_toast_action "Něnto wócyniś">
@@ -431,7 +425,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Pótusniśo nałoženje wobglědowaka a wubjeŕśo &brandShortName;">
-<!ENTITY pref_default_browser_mozilla_support_tablet "K Pomocy Mozilla se woglědaś">
 <!ENTITY pref_about_firefox "Wó &brandShortName;">
 <!ENTITY pref_vendor_faqs "Ceste pšašanja">
 <!ENTITY pref_vendor_feedback "Komentar pisaś">
@@ -692,7 +685,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Wubjeŕśo abo nagrajśo zuk">
 <!ENTITY filepicker_image_title "Wubjeŕśo abo wótmolujśo wobraz">
 <!ENTITY filepicker_video_title "Wubjeŕśo abo nagrajśo wideo">
-
 <!ENTITY filepicker_permission_denied "Trěbne pšawa njejsu se dali, wrośijo se k systemowemu datajowemu wuběrakoju.">
 
 <!-- Site identity popup -->
