@@ -30,9 +30,7 @@
 <!ENTITY addCloudFileAccount.description  "Додати нову службу зберігання Filelink">
 <!ENTITY removeCloudFileAccount.label     "Вилучити">
 <!ENTITY removeCloudFileAccount.accesskey "В">
-<!ENTITY authRequired.description         "Для перегляду налаштувань цієї служби зберігання потрібна ваша авторизація.">
-<!ENTITY authRequired.button.label        "Авторизуватись">
-<!ENTITY authRequired.button.accesskey    "А">
+<!ENTITY findCloudFileProviders.label     "Знайти більше провайдерів…">
 
 <!ENTITY enableCloudFileAccountOffer.label "Пропонувати поділитись для файлів більших за ">
 <!ENTITY enableCloudFileAccountOffer.mb "Мб">

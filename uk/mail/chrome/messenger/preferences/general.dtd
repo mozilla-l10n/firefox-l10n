@@ -38,3 +38,4 @@
 <!ENTITY browse.accesskey                 "О">
 
 <!ENTITY defaultSearchEngine.label        "Типовий засіб пошуку">
+<!ENTITY addSearchEngine.label            "Додати з файлу">

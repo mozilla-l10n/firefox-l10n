@@ -38,6 +38,10 @@
 <!ENTITY  noproxy.label                 "Не використовувати проксі для:">
 <!ENTITY  noproxy.accesskey             "д">
 <!ENTITY  noproxyExplain.label          "Зразок: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
+  localhost, 127.0.0.1 and ::1.
+-->
+<!ENTITY  noproxyLocalhostDesc.label   "З'єднання з localhost, 127.0.0.1 та ::1 ніколи не використовує проксі.">
 <!ENTITY  shareproxy.label              "Використовувати цей проксі-сервер для всіх протоколів">
 <!ENTITY  shareproxy.accesskey          "с">
 <!ENTITY  autologinproxy.label          "Не запитувати про автентифікацію, якщо пароль вже збережено">
@@ -47,12 +51,4 @@
 <!ENTITY  socksRemoteDNS.accesskey      "к">
 <!ENTITY  dnsOverHttps.label            "Увімкнути DNS через HTTPS">
 <!ENTITY  dnsOverHttps.accesskey        "У">
-<!ENTITY  dnsOverHttpsUrl.label         "URL">
-<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
-<!ENTITY  dnsOverHttpsUrl.tooltip       "URL для вирішення конфліктів DNS через HTTPS">
-<!ENTITY  dnsOverHttpsUrlDefault.label     "Використовувати типовий">
-<!ENTITY  dnsOverHttpsUrlDefault.accesskey "т">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Використовувати типовий URL для вирішення DNS через HTTPS">
-<!ENTITY  dnsOverHttpsUrlCustom.label      "Власний">
-<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "л">
-<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Введіть власний URL для вирішення DNS через HTTPS">

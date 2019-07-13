@@ -15,19 +15,8 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "В">
 <!ENTITY helpSafeMode.label     "Перезапуск з вимкненими додатками…">
 <!ENTITY helpSafeMode.accesskey "П">
-<!ENTITY releaseCmd2.label "Інформація про випуск">
-<!ENTITY releaseCmd2.accesskey "в">
-<!ENTITY whatsNewCmd.label "Що нового">
-<!ENTITY whatsNewCmd.accesskey "Щ">
-<!ENTITY openHelp.label "Зміст">
-<!ENTITY openHelp.accesskey "З">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac2.label "Допомога &brandFullName;">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
-
-<!ENTITY aboutMenuCmd2.label "Про &brandFullName;">
-<!ENTITY aboutMenuCmd2.accesskey "П">
+<!ENTITY helpSafeMode.stop.label     "Перезапустити з увімкненими додатками">
+<!ENTITY helpSafeMode.stop.accesskey "К">
 <!ENTITY productHelp.label "Довідка &brandShortName;">
 <!ENTITY productHelp.accesskey "в">
 <!ENTITY productHelp.commandkey "VK_F1">
