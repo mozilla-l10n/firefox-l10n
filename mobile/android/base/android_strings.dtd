@@ -69,7 +69,6 @@
 <!ENTITY  sending_crash_report "ক্র্যাশ প্রতিবেদন পাঠানো হচ্ছে\u2026">
 <!ENTITY  crash_close_label "বন্ধ">
 <!ENTITY  crash_restart_label "&brandShortName; পুনরায় চালু করুন">
-
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; ক্র্যাশ করেছে">
@@ -117,7 +116,6 @@
 <!ENTITY bookmark_folder_updated "ফোল্ডার আপডেট হয়েছে">
 <!ENTITY bookmark_parent_folder "উর্ধ্বস্থ ফোল্ডার">
 <!ENTITY bookmark_add_folder "নতুন ফোল্ডার যোগ">
-
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
 <!ENTITY bookmark_default_folder_title "(শিরোনামহীন)">
@@ -280,6 +278,7 @@
 <!ENTITY pref_cookies_menu "কুকি">
 <!ENTITY pref_cookies_accept_all "সক্রিয়">
 <!ENTITY pref_cookies_not_accept_foreign "সক্রিয়, তৃতীয় পক্ষ ব্যতীত">
+<!ENTITY pref_cookies_not_accept_trackers "সক্রিয় হয়েছে, ট্র্যাকিং কুকি বাদে">
 <!ENTITY pref_cookies_disabled "নিষ্ক্রিয়">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -340,11 +339,6 @@
 
 <!ENTITY pref_pwa "প্রোগ্রেসিভ ওয়েব অ্যাপ">
 <!ENTITY pref_pwa_summary "নীড় স্ক্রিনে ওয়েব অ্যাপ যোগের অনুমতি দিন">
-
-<!ENTITY tracking_protection_prompt_title "এখন ট্র্যাকিং সুরক্ষিত আছে">
-<!ENTITY tracking_protection_prompt_text "ট্র্যাকিং উপাদান সক্রিয়ভাবে অবরোধ করা হচ্ছে তাই আপনি দুশ্চিন্তা করবেন না।">
-<!ENTITY tracking_protection_prompt_tip_text "বিস্তারিত জানতে ব্যক্তিগত গোপনীয়তা সেটিং এ যান">
-<!ENTITY tracking_protection_prompt_action_button "পেয়েছি!">
 
 <!ENTITY tab_queue_toast_message3 "&brandShortName; নামে ট্যাব সংরক্ষিত হয়েছে">
 <!ENTITY tab_queue_toast_action "এখনি খুলুন">
@@ -431,7 +425,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "ব্রাউজার অ্যাপ ট্যাপ করুন &amp; &brandShortName; নির্বাচন করুন">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla Support দেখুন">
 <!ENTITY pref_about_firefox "&brandShortName; পরিচিতি">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "প্রতিক্রিয়া জানান">
@@ -692,7 +685,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "বেছে নিন বা একটি শব্দ রেকর্ড করুন">
 <!ENTITY filepicker_image_title "বেছে নিন বা একটি ছবি তুলুন">
 <!ENTITY filepicker_video_title "বেছে নিন বা একটি ভিডিও রেকর্ড করুন">
-
 <!ENTITY filepicker_permission_denied "প্রয়োজনীয় অনুমোদন পাওয়া যায়নি, সিস্টেম ফাইল পিকারে ফিরে যাওয়া হবে।">
 
 <!-- Site identity popup -->
