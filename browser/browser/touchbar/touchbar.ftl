@@ -18,3 +18,4 @@ reader-view = Vista de leitura
 open-location = Pesquisar ou introduzir endereço
 share = Partilhar
 close-window = Fechar janela
+open-sidebar = Barras laterais

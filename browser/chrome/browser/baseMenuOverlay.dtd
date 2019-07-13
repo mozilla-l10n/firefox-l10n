@@ -28,9 +28,6 @@
 <!ENTITY helpSafeMode.stop.label       "Reiniciar com os extras ativados">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 
-<!ENTITY healthReport2.label      "Relatório de estado do &brandShorterName;">
-<!ENTITY healthReport2.accesskey  "e">
-
 <!ENTITY helpTroubleshootingInfo.label      "Informação para resolução de problemas">
 <!ENTITY helpTroubleshootingInfo.accesskey  "r">
 
@@ -52,3 +49,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Mostrar tudo">
+
+<!ENTITY touchBarCmdMac.label           "Personalizar barra de toque…">
