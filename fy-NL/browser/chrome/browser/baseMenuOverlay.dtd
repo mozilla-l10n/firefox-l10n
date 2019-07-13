@@ -28,9 +28,6 @@
 <!ENTITY helpSafeMode.stop.label       "Opnij starte mei ynskeakele add-ons">
 <!ENTITY helpSafeMode.stop.accesskey   "r">
 
-<!ENTITY healthReport2.label      "&brandShorterName;-steatrapport">
-<!ENTITY healthReport2.accesskey  "s">
-
 <!ENTITY helpTroubleshootingInfo.label      "Probleemoplossingsynformaasje">
 <!ENTITY helpTroubleshootingInfo.accesskey  "P">
 
@@ -52,3 +49,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Alles toane">
+
+<!ENTITY touchBarCmdMac.label           "Oanraakbalke oanpasse…">
