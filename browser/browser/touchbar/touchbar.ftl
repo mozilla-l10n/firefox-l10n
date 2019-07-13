@@ -18,3 +18,4 @@ reader-view = Lêzerwerjefte
 open-location = Fier sykterm of adres yn
 share = Diele
 close-window = Finster slute
+open-sidebar = Sidebalken

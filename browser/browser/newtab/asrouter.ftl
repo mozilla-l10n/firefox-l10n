@@ -62,3 +62,10 @@ cfr-doorhanger-bookmark-fxa-link-text = Blêdwizers no syngronisearje…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Knop Slute
     .title = Slute
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Wat is der nij
+    .tooltiptext = Wat is der nij
+cfr-whatsnew-panel-header = Wat is der nij
