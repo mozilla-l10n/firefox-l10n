@@ -47,7 +47,6 @@ onboarding-sync-form-skip-login-button = इस चरण को छोड़ �
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = अपना ईमेल प्रविष्ट करें
-onboarding-sync-form-sub-header = Firefox सिंक के लिए जारी रखें.
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
