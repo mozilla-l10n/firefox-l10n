@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Angre
 customize-mode-lwthemes-my-themes =
     .value = Mine temaer
+customize-mode-touchbar-cmd =
+    .label = Tilpass Touch Bar…

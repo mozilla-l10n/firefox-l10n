@@ -18,3 +18,4 @@ reader-view = Lesevisning
 open-location = Søk eller skriv inn adresse
 share = Del
 close-window = Lukk vindu
+open-sidebar = Sidestolper
