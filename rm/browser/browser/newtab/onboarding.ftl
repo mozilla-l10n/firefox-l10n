@@ -91,8 +91,10 @@ onboarding-data-sync-title = Prenda tias preferenzas cun tai
 onboarding-data-sync-text2 = Sincronisescha tes segnapaginas, pleds-clav e dapli dapertut là, nua che ti utiliseschas { -brand-product-name }.
 onboarding-data-sync-button2 = S'annunziar tar { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Lascha t'avertir sche servetschs perdan datas
+onboarding-firefox-monitor-text = { -monitor-brand-name } controllescha sche tia adressa d'e-mail è cumparida en in cas da sperdita da datas e t'avertescha sch'ella cumpara en in nov cas.
 onboarding-firefox-monitor-button = S'inscriver per avis
 onboarding-browse-privately-title = Navighescha en il modus privat
+onboarding-browse-privately-text = Il modus privat stizza tia cronologia da tschertga e navigaziun per che las autras persunas che utiliseschan tes computer na la vesian betg.
 onboarding-browse-privately-button = Avrir ina fanestra privata
 
 ## Message strings belonging to the Return to AMO flow
