@@ -19,6 +19,9 @@ onboarding-button-label-get-started = শুরু করুন
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = { -brand-short-name } এ স্বাগতম
+onboarding-welcome-learn-more = সুবিধাগুলো সম্পর্কে আরও জানুন।
+onboarding-join-form-header = { -brand-product-name } এ যোগ দিন
+onboarding-join-form-body = শুরু করতে এখানে আপনার ইমেইল ঠিকানা দিন।
 onboarding-join-form-email =
     .placeholder = ইমেইল লিখুন
 onboarding-join-form-email-error = বৈধ ইমেইল আবশ্যক
@@ -43,7 +46,7 @@ onboarding-sync-form-skip-login-button = এই ধাপটি বাদ দি
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = আপনার ই-মেইল লিখুন
-onboarding-sync-form-sub-header = Firefox সিঙ্ক চালিয়ে যেতে
+onboarding-sync-form-sub-header = { -sync-brand-name } অব্যাহত রাখতে
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
@@ -68,6 +71,19 @@ onboarding-ghostery-text = Ghostery এর মত এক্সটেনশন �
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = সিঙ্ক
 onboarding-fxa-text = আপনার বুকমার্কস, পাসওয়ার্ড এবং যেখানেই আপনি { -brand-short-name } ট্যাব খোলেন না কেন তা সিঙ্ক করতে একটি { -fxaccount-brand-name } একাউন্ট সাইন আপ করে নিন।
+onboarding-tracking-protection-button2 = কিভাবে এটা কাজ করে
+onboarding-data-sync-button2 = { -sync-brand-short-name } এ সাইন ইন করুন
+onboarding-browse-privately-button = ব্যাক্তিগত উইন্ডোতে খুলুন
+onboarding-firefox-send-title = আপনার শেয়ার করা ফাইলগুলো গোপন রাখুন
+onboarding-firefox-send-button = { -send-brand-name } পরখ করুন
+onboarding-mobile-phone-title = আপনার ফোনে { -brand-product-name } ডাউনলোড করুন
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = মোবাইল ব্রাউজার ডাউনলোড করুন
+onboarding-send-tabs-button = Send Tabs ব্যবহার শুরু করুন
+onboarding-pocket-anywhere-button = { -pocket-brand-name } পরখ করুন
+onboarding-lockwise-passwords-button2 = অ্যাপটি ডাউনলোড করুন
+onboarding-facebook-container-button = এক্সটেনশনটি যোগ করুন
 
 ## Message strings belonging to the Return to AMO flow
 
