@@ -18,3 +18,4 @@ reader-view = Вид для чтения
 open-location = Введите запрос или адрес
 share = Поделиться
 close-window = Закрыть окно
+open-sidebar = Боковые панели
