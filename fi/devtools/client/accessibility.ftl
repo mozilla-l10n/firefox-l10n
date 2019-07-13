@@ -21,3 +21,15 @@ accessibility-best-practices =
 ## that describe that currently selected accessible object has an accessibility issue
 ## with its text label or accessible name.
 
+accessibility-text-label-issue-area = Use <code>alt</code> attribute to label <div>area</div> elements that have the <span>href</span> attribute. <a>Learn more</a>
+accessibility-text-label-issue-dialog = Dialogs should be labeled. <a>Learn more</a>
+accessibility-text-label-issue-document-title = Documents must have a <code>title</code>. <a>Learn more</a>
+accessibility-text-label-issue-embed = Embedded content must be labeled. <a>Learn more</a>
+accessibility-text-label-issue-figure = Figures with optional captions should be labeled. <a>Learn more</a>
+accessibility-text-label-issue-fieldset = <code>fieldset</code> elements must be labeled. <a>Learn more</a>
+accessibility-text-label-issue-fieldset-legend = Use <code>legend</code> element to label <span>fieldset</span> elements. <a>Learn more</a>
+accessibility-text-label-issue-form = Form elements must be labeled. <a>Learn more</a>
+accessibility-text-label-issue-form-visible = Form elements should have a visible text label. <a>Learn more</a>
+accessibility-text-label-issue-frame = <code>frame</code> elements must be labeled. <a>Learn more</a>
+accessibility-text-label-issue-glyph = Use <code>alt</code> attribute to label <span>mglyph</span> elements. <a>Learn more</a>
+accessibility-text-label-issue-heading = Headings must be labeled. <a>Learn more</a>
