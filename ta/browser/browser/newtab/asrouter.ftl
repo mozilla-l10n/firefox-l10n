@@ -41,3 +41,14 @@ cfr-doorhanger-extension-total-users =
         [one] { $total }பயனர்
        *[other] { $total }பயனர்கள்
     }
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-animation-pause = இடைநிறுத்து
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = உங்கள் புத்தககுறிகளை எல்லா இடங்களிலும் ஒத்திசைக்கவும்.
+
+## What's New toolbar button and panel
+
