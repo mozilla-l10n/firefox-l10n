@@ -69,7 +69,6 @@
 <!ENTITY  sending_crash_report "Se trimite raportul de defecțiune\u2026">
 <!ENTITY  crash_close_label "Închide">
 <!ENTITY  crash_restart_label "Repornește &brandShortName;">
-
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; s-a închis neașteptat">
@@ -117,7 +116,6 @@
 <!ENTITY bookmark_folder_updated "Dosar actualizat">
 <!ENTITY bookmark_parent_folder "Dosar părinte">
 <!ENTITY bookmark_add_folder "Adaugă dosar nou">
-
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
 <!ENTITY bookmark_default_folder_title "(fără titlu)">
@@ -280,6 +278,7 @@
 <!ENTITY pref_cookies_menu "Cookie-uri">
 <!ENTITY pref_cookies_accept_all "Activate">
 <!ENTITY pref_cookies_not_accept_foreign "Activate, excluzând terții">
+<!ENTITY pref_cookies_not_accept_trackers "Activate, excluzând cookie-urile de urmărire">
 <!ENTITY pref_cookies_disabled "Dezactivate">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -340,11 +339,6 @@
 
 <!ENTITY pref_pwa "Aplicații web progresive">
 <!ENTITY pref_pwa_summary "Permite aplicațiilor web să fie adăugate în ecranul principal">
-
-<!ENTITY tracking_protection_prompt_title "Acum cu protecție împotriva urmăririi">
-<!ENTITY tracking_protection_prompt_text "Blochează în mod activ elementele care îți urmăresc navigarea astfel încât să nu-ți faci griji.">
-<!ENTITY tracking_protection_prompt_tip_text "Vizitează setările de confidențialitate pentru a afla mai multe">
-<!ENTITY tracking_protection_prompt_action_button "Am înțeles!">
 
 <!ENTITY tab_queue_toast_message3 "Filă salvată în &brandShortName;">
 <!ENTITY tab_queue_toast_action "Deschide acum">
@@ -431,7 +425,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Atinge aplicația Browser și selectează &brandShortName;">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Vizitează Mozilla Support">
 <!ENTITY pref_about_firefox "Despre &brandShortName;">
 <!ENTITY pref_vendor_faqs "Întrebări frecvente">
 <!ENTITY pref_vendor_feedback "Oferă feedback">
@@ -692,7 +685,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Alege sau înregistrează în format audio">
 <!ENTITY filepicker_image_title "Alege sau fă o poză">
 <!ENTITY filepicker_video_title "Alege sau înregistrează în format video">
-
 <!ENTITY filepicker_permission_denied "Permisiunile solicitate nu au fost acordate, se revine la selectorul de fișiere al sistemului.">
 
 <!-- Site identity popup -->
