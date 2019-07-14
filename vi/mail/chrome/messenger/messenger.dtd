@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "C">
 <!ENTITY folderPaneBar.label "Thanh công cụ ngăn thư mục">
 <!ENTITY folderPaneBar.accesskey "F">
-<!ENTITY folderModeSelector.label "Cách hiển thị thư mục">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sắp xếp theo">
@@ -384,7 +383,7 @@
 <!ENTITY moveCopyMsgRecentMenu.accesskey "G">
 <!ENTITY copyMessageLocation.label "Sao chép địa chỉ thư">
 <!ENTITY copyMessageLocation.accesskey "p">
-<!ENTITY copyMsgToMenu.label "Sao chép tới">
+<!ENTITY copyMsgToMenu.label "Sao chép đến">
 <!ENTITY copyMsgToMenu.accesskey "C">
 <!ENTITY moveToFolderAgain.label "Thử di chuyển lại">
 <!ENTITY moveToFolderAgain.accesskey "n">
@@ -605,7 +604,6 @@
 <!ENTITY tagButton.tooltip "Dán nhãn cho thư">
 <!ENTITY compactButton.tooltip "Dọn các thư bị xóa ra khỏi thư mục đã chọn">
 <!ENTITY appmenuButton1.tooltip "Hiển thị menu &brandShortName;">
-
 <!ENTITY addonsButton.tooltip "Quản lý tiện ích của bạn">
 
 <!-- Toolbar Button Popup -->
@@ -792,7 +790,7 @@
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "G">
 <!ENTITY contextMoveCopyMsgFavoritesMenu.label "Ưa thích">
 <!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "F">
-<!ENTITY contextCopyMsgMenu.label "Sao chép tới">
+<!ENTITY contextCopyMsgMenu.label "Sao chép đến">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
 <!ENTITY contextKillThreadMenu.label "Bỏ qua chủ đề">
 <!ENTITY contextKillSubthreadMenu.accesskey "b">
@@ -808,7 +806,7 @@
 <!ENTITY contextSaveAs.accesskey "L">
 <!ENTITY contextPrint.label "In…">
 <!ENTITY contextPrint.accesskey "I">
-<!ENTITY contextPrintPreview.label "Xem trước Bản in">
+<!ENTITY contextPrintPreview.label "Xem trước khi in">
 <!ENTITY contextPrintPreview.accesskey "e">
 
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
