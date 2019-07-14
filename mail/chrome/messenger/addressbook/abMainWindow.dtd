@@ -31,9 +31,9 @@
 <!ENTITY closeCmd.accesskey                             "g">
 <!ENTITY printSetupCmd.label                            "Thiết lập trang…">
 <!ENTITY printSetupCmd.accesskey                        "p">
-<!ENTITY printPreviewContactCmd.label                   "Xem trước Bản in Danh bạ">
+<!ENTITY printPreviewContactCmd.label                   "Xem trước bản in danh bạ">
 <!ENTITY printPreviewContactCmd.accesskey               "X">
-<!ENTITY printPreviewAddressBook.label                  "Xem trước bản in của sổ địa chỉ">
+<!ENTITY printPreviewAddressBook.label                  "Xem trước bản in sổ địa chỉ">
 <!ENTITY printPreviewAddressBook.accesskey              "a">
 <!ENTITY printContactCmd.label                          "In Danh Bạ…">
 <!ENTITY printContactCmd.accesskey                      "I">
