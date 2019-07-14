@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Ångra
 customize-mode-lwthemes-my-themes =
     .value = Mina teman
+customize-mode-touchbar-cmd =
+    .label = Anpassa Touch Bar menyrad...
