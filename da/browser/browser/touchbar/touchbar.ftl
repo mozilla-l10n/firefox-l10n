@@ -18,3 +18,4 @@ reader-view = Læsevisning
 open-location = Søg, eller indtast en adresse
 share = Del
 close-window = Luk vindue
+open-sidebar = Sidepaneler

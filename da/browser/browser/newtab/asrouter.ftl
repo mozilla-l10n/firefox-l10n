@@ -72,3 +72,11 @@ cfr-doorhanger-bookmark-fxa-link-text = Synkroniser bogmærker nu…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
   .aria-label = Luk-knap
   .title = Luk
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+  .label = Nyheder
+  .tooltiptext = Nyheder
+
+cfr-whatsnew-panel-header = Nyheder
