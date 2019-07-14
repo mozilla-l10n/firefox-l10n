@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Atšaukti
 customize-mode-lwthemes-my-themes =
     .value = Įdiegti apvalkalai
+customize-mode-touchbar-cmd =
+    .label = Tvarkyti lietimo juostą…

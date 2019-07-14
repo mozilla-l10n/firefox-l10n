@@ -18,3 +18,4 @@ reader-view = Skaitymo rodinys
 open-location = Įveskite adresą arba paieškos žodžius
 share = Dalintis
 close-window = Užverti langą
+open-sidebar = Parankinės
