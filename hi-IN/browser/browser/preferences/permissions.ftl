@@ -34,8 +34,11 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = परिवर्तन सहेजें
     .accesskey = S
+permissions-autoplay-menu = सभी वेबसाइटों के लिए डिफ़ॉल्ट:
 permissions-searchbox =
     .placeholder = वेबसाइट खोजें
+permissions-capabilities-autoplay-allow =
+    .label = ऑडियो और वीडियो की अनुमति दें
 permissions-capabilities-autoplay-block =
     .label = ऑडियो ब्लॉक करें
 permissions-capabilities-autoplay-blockall =
@@ -63,6 +66,7 @@ permissions-invalid-uri-label = एक वैध मेजबाननाम ड
 permissions-exceptions-content-blocking-window =
     .title = अपवाद - सामग्री अवरोधन
     .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = इन वेबसाइटों के लिए अंतर्वस्तु ब्लॉकिंग अक्षम कर दिया है।
 
 ## Exceptions - Cookies
 
