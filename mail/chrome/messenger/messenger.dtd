@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "V">
 <!ENTITY folderPaneBar.label "Barra d'eines de la subfinestra de carpetes">
 <!ENTITY folderPaneBar.accesskey "f">
-<!ENTITY folderModeSelector.label "Vistes de carpetes">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ordena">
@@ -605,6 +604,7 @@
 <!ENTITY tagButton.tooltip "Etiqueta els missatges">
 <!ENTITY compactButton.tooltip "Treu els missatges suprimits de la carpeta seleccionada">
 <!ENTITY appmenuButton1.tooltip "Mostra el menú del &brandShortName;">
+<!ENTITY addonsButton.tooltip "Gestiona els complements">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Reenvia en el cos del missatge">
@@ -813,12 +813,6 @@
 <!ENTITY contextPrintPreview.label "Exemple d'impressió">
 <!ENTITY contextPrintPreview.accesskey "E">
 
-<!-- Thread Pane Column Picker -->
-<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
-     This option in the thread pane column picker causes us to reset the
-     customizations for the thread pane columns in this folder to their default.
-  -->
-<!ENTITY columnPicker.resetToInbox.label "Restaura les columnes per defecte">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
      the "columnPicker.applyToFolder.label" and
@@ -858,7 +852,6 @@
      "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "Aquesta carpeta">
-
 
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Reprodueix">

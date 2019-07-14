@@ -30,9 +30,7 @@
 <!ENTITY addCloudFileAccount.description  "Afegeix un servei d'emmagatzematge Filelink nou">
 <!ENTITY removeCloudFileAccount.label     "Suprimeix">
 <!ENTITY removeCloudFileAccount.accesskey "r">
-<!ENTITY authRequired.description         "Cal la vostra autorització per veure els paràmetres d'aquest dispositiu d'emmagatzematge.">
-<!ENTITY authRequired.button.label        "Autoritza">
-<!ENTITY authRequired.button.accesskey    "u">
+<!ENTITY findCloudFileProviders.label     "Cerqueu més proveïdors…">
 
 <!ENTITY enableCloudFileAccountOffer.label "Ofereix compartir fitxers més grans de">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
