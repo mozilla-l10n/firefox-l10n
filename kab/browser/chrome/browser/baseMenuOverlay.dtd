@@ -49,3 +49,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Sken Kullec">
+
+<!ENTITY touchBarCmdMac.label           "Mudd udem i Touch Bar…">

@@ -18,3 +18,4 @@ reader-view = Askar n tɣuṛi
 open-location = Nadi neɣ sekcem tansa
 share = Bḍu
 close-window = Mdel asfaylu
+open-sidebar = Igalisen idisanen

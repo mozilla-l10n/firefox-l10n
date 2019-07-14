@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Sefsex
 customize-mode-lwthemes-my-themes =
     .value = Isental-iw
+customize-mode-touchbar-cmd =
+    .label = Mudd udem i Touch Bar…

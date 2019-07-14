@@ -21,3 +21,7 @@ accessibility-best-practices =
 ## that describe that currently selected accessible object has an accessibility issue
 ## with its text label or accessible name.
 
+accessibility-text-label-issue-area = Seqdec <code>alt</code> i tmerna n tibzimin i yiferdisen <div>area</div> yesɛan imyerr <span>href</span>. <a>Issin ugar</a>
+accessibility-text-label-issue-dialog = Adiwen yessefk ad yesɛu tabzimt. <a>Issin ugar</a>
+accessibility-text-label-issue-document-title = ISemliyen yessefk ad sɛun aferdis <code>title</code>.<a>Issin ugar</a>
+accessibility-text-label-issue-embed = Agbur usliɣ yessefk ad yesɛu tabzimt. <a>Issin ugar</a>

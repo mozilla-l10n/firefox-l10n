@@ -19,52 +19,6 @@
 <!ENTITY navbarOverflow.label                "Ugar n yifecka…">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "Smiren iccer">
-<!ENTITY  reloadTab.accesskey                "M">
-<!ENTITY  selectAllTabs.label                "Fren akk accaren">
-<!ENTITY  selectAllTabs.accesskey            "M">
-<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTab.label                 "Sleg iccer">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTab.accesskey             "N">
-<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTabs.label                "Sleg iccaren">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTabs.accesskey            "S">
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Mdel accaren n uyeffus">
-<!ENTITY  closeTabsToTheEnd.accesskey        "M">
-<!ENTITY  closeOtherTabs.label               "Mdel accaren-nniḍen">
-<!ENTITY  closeOtherTabs.accesskey           "M">
-
-<!ENTITY  closeTabs.label                    "Mdel Iccaren">
-<!ENTITY  closeTabs.accesskey                "M">
-<!ENTITY  pinSelectedTabs.label              "Siggez icarren">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinSelectedTabs.accesskey          "g">
-<!ENTITY  unpinSelectedTabs.label            "Serreḥ i yiccaren">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinSelectedTabs.accesskey        "r">
-<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadTabs.label                   "Smiren iccaren">
-<!ENTITY  reloadTabs.accesskey               "S">
-<!ENTITY  bookmarkSelectedTabs.label         "Creḍ akk accaren…">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkSelectedTabs.accesskey     "k">
-
-<!-- Tab context menu -->
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -85,28 +39,8 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendPageToDevice.accesskey         "b">
 <!ENTITY  sendLinkToDevice.label             "Azen aseɣwen ɣer yibenk">
 <!ENTITY  sendLinkToDevice.accesskey         "b">
-<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
-These two items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  moveTabOptions.label               "Senkez iccer">
-<!ENTITY  moveTabOptions.accesskey           "n">
-<!ENTITY  moveSelectedTabOptions.label       "Senkez iccaren">
-<!ENTITY  moveSelectedTabOptions.accesskey   "n">
-<!ENTITY  moveToStart.label                  "Senkez akken ad tebḍuḍ">
-<!ENTITY  moveToStart.accesskey              "B">
-<!ENTITY  moveToEnd.label                    "Senkez akken ad tfakeḍ">
-<!ENTITY  moveToEnd.accesskey                "F">
-<!ENTITY  moveToNewWindow.label              "Senkez ɣer usfaylu amaynut">
-<!ENTITY  moveToNewWindow.accesskey          "m">
-<!ENTITY  reopenInContainer.label            "Ldi-d tikelt-nneḍen amagbar">
-<!ENTITY  reopenInContainer.accesskey        "d">
-<!ENTITY  bookmarkTab.label                  "Iccer n tecraḍ n yisebtar">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkTab.accesskey              "C">
 <!ENTITY  undoCloseTab.label                 "Sefsex amdal n yiccer.">
 <!ENTITY  undoCloseTab.accesskey             "S">
-<!ENTITY  closeTab.label                     "Mdel iccer">
-<!ENTITY  closeTab.accesskey                 "M">
 <!ENTITY  hiddenTabs.label                   "Iccaren ifren">
 
 <!ENTITY  listAllTabs.label      "Bder akk accaren">
@@ -145,31 +79,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Afeggag n tecraḍ">
 <!ENTITY personalbarCmd.accesskey "d">
 <!ENTITY bookmarksToolbarItem.label "Iferdisen n ufeggag n tecraḍ">
-
-<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Sali-d tikkelt nniḍen iccer yettwafernen">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "A">
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Sali-d tikkelt nniḍen accaren yettwafernen">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Creḍ accaren yettwafernen…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "T">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Cṛeḍ iccaren yettwafernen…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
-<!ENTITY toolbarContextMenu.selectAllTabs.label "Fren akk accaren">
-<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "F">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Sefsex amdal n yiccer">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "S">
 
 <!ENTITY pageSourceCmd.label "Tangalt taɣbalut n usebter">
 <!ENTITY pageSourceCmd.accesskey "T">
@@ -234,7 +143,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signedInAs.label "Tkecmeḍ s yisem">
 <!ENTITY fxa.menu.manageAccount.label "Sefrek imiḍanen…">
 <!ENTITY fxa.menu.syncSettings.label "Iɣewwaṛen n &syncBrand.shortName.label;…">
-<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Qqen ibenk-nniḍen...">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -340,7 +248,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasBlocked.tooltip            "Tesweḥleḍ tussfa n yisefka n ubeckil i usmelweb-a.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Tesweḥleḍ asmel-agi web seg useqdec n umenṭaḍ Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Tesweḥleḍ anekcum i MIDI γer usmel-agi.">
-
 <!ENTITY urlbar.installBlocked.tooltip           "Tesweḥleḍ asbeddi n yizegrar i usmel-a.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Sken amazray">
@@ -530,7 +437,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "n">
 <!ENTITY customizeMenu.removeExtension.label "Kkes asiɣzef">
 <!ENTITY customizeMenu.removeExtension.accesskey "v">
-
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
@@ -885,7 +791,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "Wa d asebter &brandShortName; aɣelsan.">
 <!ENTITY identity.extensionPage "Asebter-a yuli-d seg usiɣzef.">
 <!ENTITY identity.insecureLoginForms2 "Isem n useqdac d wawal uffir i tesqedceḍ deg usmel-a zemren ad ttwakren.">
-
 <!ENTITY identity.customRoot "Tuqqna tettwasntem sɣur amazan n uselkin ur tessin ara Mozilla.">
 
 <!-- Strings for connection state warnings. -->
@@ -905,7 +810,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Ɣas akken &brandShortName; issewḥel kra n ugbur, mazal yella kra n ugbur ur nelli d aɣelsan deg usebter (am tugniwin).">
 <!ENTITY identity.description.activeLoaded "Asmel-a isεa agbur araɣelsan (am iskripten) u tuqqna-inek ɣur-s mačči d tusligt.">
 <!ENTITY identity.description.activeLoaded2 "Zemren wiyaḍ ad walin talɣut ara tebḍuḍ d usmel-a (am wawalen uffiren, iznan, atg.).">
-
 <!ENTITY identity.description.customRoot "Mozilla ur teɛqil ara amazan-a n uselkin. Ahat yezmer yettwarn seg unagraw-ik n wammud neɣ anedbal.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Sermed ammesten">
@@ -936,40 +840,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Accaren yemtawin">
 
 <!ENTITY syncedTabs.sidebar.label              "Accaren yemtawin">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Kcem ɣeṛ Firefox seg yibenkan-nniḍen akken ad d-tsekneḍ accaren-nsen dagi.">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "Tebɣid ad twaliḍ da accaren-ik seg yibenkan-nniḍen?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "Qqen akken ad d-tsekneḍ tabdart n waccaren seg yibenkan-ik-nniḍen.">
-<!ENTITY syncedTabs.sidebar.unverified.label   "Amiḍan-ik yeḥwaǧ ad ittusenqed.">
-<!ENTITY syncedTabs.sidebar.notabs.label       "Ulac accaren yeldin">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "Ldi ismenyifen n &syncBrand.shortName.label;">
-<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
-     when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Rmed amtawi n yiccer akken ad d-tsekneḍ tabdart n waccaren seg yibenkan-ik-nniḍen.">
-<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Nadi accaren yemtawan">
-<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Qqen ibenk-nniḍen">
-
-<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
-                        syncedTabs.context.openAllInTabs.accesskey):
-     These access keys are identical because their associated menu items are
-     mutually exclusive -->
-<!ENTITY syncedTabs.context.open.label                       "Ldi">
-<!ENTITY syncedTabs.context.open.accesskey                   "L">
-<!ENTITY syncedTabs.context.openInNewTab.label               "Ldi deg yiccer amaynut">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "c">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "Ldi deg usfaylu amaynut">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "d">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Ldi deg usfaylu uslig amaynut">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "L">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Creḍ iccer-a…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "C">
-<!ENTITY syncedTabs.context.copy.label                       "Nɣel">
-<!ENTITY syncedTabs.context.copy.accesskey                   "N">
-
-<!ENTITY syncedTabs.context.openAllInTabs.label              "Ldi kullec deg waccaren">
-<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "L">
-<!ENTITY syncedTabs.context.managedevices.label              "Sefrek ibenkan…">
-<!ENTITY syncedTabs.context.managedevices.accesskey          "D">
-
 
 <!ENTITY syncBrand.shortName.label    "Mtawi">
 
@@ -981,42 +851,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.label         "Qqen i tikelt-nniḍen ɣeṛ &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "Q">
 <!ENTITY syncToolbarButton.label      "Mtawi">
-
-<!ENTITY customizeMode.menuAndToolbars.header3 "Zuɣer iferdisen-ik ismenyifen ɣer ufeggag n yifecka neɣ ɣer umuɣ n tfuli.">
-<!ENTITY customizeMode.restoreDefaults "Err-d tawila tamezwert">
-<!ENTITY customizeMode.done "Immed">
-<!ENTITY customizeMode.titlebar "Afeggag n uzwel">
-<!ENTITY customizeMode.extraDragSpace "Zuɣer tallunt">
-<!ENTITY customizeMode.toolbars2 "Afeggag n yifecka">
-<!ENTITY customizeMode.lwthemes "Isental">
-<!ENTITY customizeMode.lwthemes.myThemes "Isental-iw">
-<!ENTITY customizeMode.lwthemes.recommended "Ihul">
-<!ENTITY customizeMode.lwthemes.menuManage "Sefrek">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
-<!ENTITY customizeMode.lwthemes.menuGetMore "Awi-d ugar n yisental">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.overflowList.title2 "Umuɣ n usiɣzef n ufeggag n ifecka">
-<!ENTITY customizeMode.overflowList.description "Zuɣer sakin sers iferdisen dagi akken ad ten-teǧǧeḍ ɣef afus, acu kan beṛṛa n ufeggag-ik n ifecka…">
-<!ENTITY customizeMode.uidensity "Taneẓẓi">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
-     “Normal” is displayed in the Customize screen, under the Density menu. -->
-<!ENTITY customizeMode.uidensity.menuNormal.label "Amagnu">
-<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Amagnu">
-<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
-     “Compact” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Compact). -->
-<!ENTITY customizeMode.uidensity.menuCompact.label "Ussid">
-<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Ussid">
-<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
-     “Touch” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Touch), and it means that control layout is
-     optimized for touch devices. -->
-<!ENTITY customizeMode.uidensity.menuTouch.label "Tanalit">
-<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Tanalit">
-<!ENTITY customizeMode.uidensity.menuTouch.accessKey "N">
-<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Seqdec tanalit deg uskar n tfelwit n uselkem">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Ffer s wudem awurman">
 
@@ -1042,6 +876,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Inagan n tuqqna">
 <!ENTITY contentBlocking.cookiesView.label "Inagan n tuqna akked isefka n usmel">
 
+<!ENTITY contentBlocking.cryptominers.label "Ikripṭuminaren">
+<!ENTITY contentBlocking.cryptominersView.label "Ikripṭuminaren">
 
 <!ENTITY contentBlocking.fingerprinters.label "Idsilen umḍinen">
 <!ENTITY contentBlocking.fingerprintersView.label "Idsilen umḍinen">
@@ -1082,27 +918,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "Mdel">
 
-<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
-     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
-     Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "Sfeḍ:">
-<!ENTITY panicButton.view.5min                    "Semmus n tesdatin">
-<!ENTITY panicButton.view.2hr                     "Sin yisragen">
-<!ENTITY panicButton.view.day                     "24 n yisragen">
-
-<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
-     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
-     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
-     The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "Ma tkemmleḍ ad:">
-<!ENTITY panicButton.view.deleteCookies           "Sfeḍ <html:strong>inagan n tuqqna</html:strong> n melmi kan">
-<!ENTITY panicButton.view.deleteHistory           "Sfeḍ <html:strong> amazray </html:strong> n melmi kan">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "Mdel akk<html:strong>iccaren</html:strong> d isfuyla<html:strong>imeṛṛa</html:strong>">
-<!ENTITY panicButton.view.openNewWindow           "Ldi asfaylu ilem amaynut">
-
-<!ENTITY panicButton.view.undoWarning             "Ulac tuɣalin ɣer deffir.">
-<!ENTITY panicButton.view.forgetButton            "Sfeḍ!">
-
 <!ENTITY panicButton.thankyou.msg1                "Amazray-ik n melmi kan yesfeḍ.">
 <!ENTITY panicButton.thankyou.msg2                "Tunigin igerrzen!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Tanemmirt!">
@@ -1110,31 +925,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Issin ugar ɣef DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "Leqqem &brandShorterName; inek akken ad tesεu timahalin timaynutin di truradt akked tbaḍnit.">
-<!ENTITY updateAvailable.whatsnew.label "Wali amaynut.">
-<!ENTITY updateAvailable.header.message "Illa lqem amaynut &brandShorterName;">
-<!ENTITY updateAvailable.acceptButton.label "Sider lqem">
-<!ENTITY updateAvailable.acceptButton.accesskey "D">
-<!ENTITY updateAvailable.cancelButton.label "Mačči tura">
-<!ENTITY updateAvailable.cancelButton.accesskey "T">
-
 <!ENTITY updateAvailable.panelUI.label "Sider lqem n &brandShorterName;">
-
-<!ENTITY updateManual.message "Sider lqem aneggaru n &brandShorterName; sakin ad k-nɛiwen ad t-tesbeddeḍ.">
-<!ENTITY updateManual.whatsnew.label "Wali amaynut.">
-<!ENTITY updateManual.header.message "&brandShorterName; ur izmir ara ad ilqem ɣer lqem aneggaru.">
-<!ENTITY updateManual.acceptButton.label "Sider &brandShorterName;">
-<!ENTITY updateManual.acceptButton.accesskey "D">
-<!ENTITY updateManual.cancelButton.label "Mačči tura">
-<!ENTITY updateManual.cancelButton.accesskey "T">
 <!ENTITY updateManual.panelUI.label "Sider anɣel amaynut n &brandShorterName;">
-
-<!ENTITY updateRestart.message2 "Seld askar arurad, &brandShorterName; ad d-yerr akk accaren yeldin akked yisfayluyen ur nelli ara deg uskar n tunigin tusligt.">
-<!ENTITY updateRestart.header.message2 "Sker i tikkelt-nniḍen akken ad tleqqmeḍ &brandShorterName;.">
-<!ENTITY updateRestart.acceptButton.label "Sker i tikkelt-nniḍen imir err-d">
-<!ENTITY updateRestart.acceptButton.accesskey "R">
-<!ENTITY updateRestart.cancelButton.label "Mačči tura">
-<!ENTITY updateRestart.cancelButton.accesskey "T">
 <!ENTITY updateUnsupported.panelUI.label "Ur tezmireḍ ara ad tgeḍ aleqqem-nniḍen">
 <!ENTITY updateRestart.panelUI.label2 "Sker i tikkelt-nniḍen akken ad tleqqmeḍ&brandShorterName;">
 
@@ -1174,18 +966,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Timahilin n unekcum remdent">
-
-<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
-     The first <image> tag is replaced with the icon for the add-ons menu.
-     The second <image> tag is replaced with the icon for the toolbar menu. -->
-<!ENTITY addonPostInstallMessage.label "Sefrek izegrar inek s usebbed γef <image class='addon-addon-icon'/> deg umuγ <image class='addon-toolbar-icon'/>.">
-<!ENTITY addonPostInstall.incognito.checkbox.label "Sireg isiɣzef-agi ad yeddu deg isfuyla usligen">
-<!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
-
-<!ENTITY addonPrivateBrowsing.header2.label "Asnifel i yisiɣzaf def isfuyla usligen">
-<!ENTITY addonPrivateBrowsing.body2.label "Isiɣzaf imaynuten i terniḍ ɣer &brandShorterName; ur teddun ara deg yisfuyla usligen alama terniḍ tasiregt i uselkem-nsen deg yiɣewwaṛen.">
-<!ENTITY addonPrivateBrowsing.learnMore.label "Issin amek ara tesferkeḍ iɣewwaṛen n yisiɣzaf">
-<!ENTITY addonPrivateBrowsing.okButton.label "Ih, awi-t-id">
-<!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
-<!ENTITY addonPrivateBrowsing.manageButton.label "Sefrek isiɣzaf">
-<!ENTITY addonPrivateBrowsing.manageButton.accesskey "M">

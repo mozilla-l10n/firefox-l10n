@@ -732,6 +732,7 @@ content-blocking-all-cookies = Inagan n tuqqna meṛṛa
 content-blocking-unvisited-cookies = Inagan n tuqqna n yismal ur yettwarzan ara
 content-blocking-all-windows-trackers = Ineḍfaren yettwasnen deg akk isfuyla
 content-blocking-all-third-party-cookies = Akk inagan n tuqqna n wis kraḍ
+content-blocking-cryptominers = Ikripṭuminaren
 content-blocking-fingerprinters = Idsilen umḍinen
 content-blocking-warning-title = Aqeṛṛu d afella!
 content-blocking-warning-description = Asewḥel n ugbru yezmer ur yettaǧǧa ara kra n yismal ad ddun akken iwata. Tzemreḍ s wudem fessusen ad tsenseḍ asewḥel i yismal i tettamned.
@@ -755,6 +756,10 @@ content-blocking-cookies-label =
     .accesskey = I
 content-blocking-expand-section =
     .tooltiptext = Ugar n telɣut
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Ikripṭuminaren
+    .accesskey = k
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =

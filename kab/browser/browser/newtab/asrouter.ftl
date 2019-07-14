@@ -62,3 +62,10 @@ cfr-doorhanger-bookmark-fxa-link-text = Mtawi ticraḍ n yisebtar tura...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Taqeffalt n umdal
     .title = Amdal
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Amaynut
+    .tooltiptext = Amaynut
+cfr-whatsnew-panel-header = Amaynut
