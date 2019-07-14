@@ -151,9 +151,6 @@ private-browsing-description2 =
     приступ вашим активностима на мрежи. Начинили смо ову измену да бисмо одржали ваше коришћење 
     интернета у приватном режиму приватним.
     <label data-l10n-name="private-browsing-learn-more">Сазнајте како да управљате подешавањима екстензија</label>
-extensions-view-discover =
-    .name = Додаци
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Препоруке
     .tooltiptext = { extensions-view-discopane.name }
@@ -244,7 +241,7 @@ shortcuts-browserAction = Активирај екстензију
 
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = Проширења и теме су као апликације за ваш прегледач и омогућавају вам да заштитите лозинке, преузмете видео записе, пронађете понуде, блокирате досадне огласе, промените изглед претраживача и још много тога. Ове мале софтверске програме често развија трећа страна. Ево избора које { -brand-product-name }<a data-l10n-name="learn-more-trigger">препоручује</a> за изузетну безбедност, перформансе и употребљивост.
+discopane-intro = Проширења и теме су као апликације за ваш прегледач и омогућавају вам да заштитите лозинке, преузмете видео записе, пронађете понуде, блокирате досадне огласе, промените изглед претраживача и још много тога. Ове мале софтверске програме често развија трећа страна. Ево избора које { -brand-product-name } <a data-l10n-name="learn-more-trigger">препоручује</a> за изузетну безбедност, перформансе и употребљивост.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Неке од ових препорука су персонализоване. Оне се заснивају на другим проширењима која сте инсталирали, поставкама профила и статистици употребе.
 discopane-notice-learn-more = Сазнајте више
