@@ -53,7 +53,14 @@ onboarding-sync-form-sub-header = para magpatuloy sa { -sync-brand-name }
 
 onboarding-benefit-products-title = Mga mahalagang produkto
 onboarding-benefit-knowledge-title = Praktikal na Kaalaman
+onboarding-benefit-knowledge-text = Alamin lahat ng kailangan malaman upang manatiling listo at ligtas online.
 onboarding-benefit-privacy-title = Tunay na Privacy
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Lahat ng aming ginagawa ay umaayon sa aming Pangako sa Personal na Data: Kaunti lang ang kunin. Pangalagaan ito. Walang mga sikreto.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -73,13 +80,48 @@ onboarding-ghostery-text = Mag-browse nang mas mabilis, mas wais, o mas ligtas n
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Sign up for a { -fxaccount-brand-name } and sync your bookmarks, passwords, and open tabs everywhere you use { -brand-short-name }.
+onboarding-tracking-protection-title2 = Proteksyon mula sa Tracking
+onboarding-tracking-protection-text2 = Nakatutulong ang { -brand-short-name } para pigilan ang mga website sa pag-track sa iyo online, at ginagawa nitong mas mahirap para sa mga ad na sundan ka kahit saan magpunta sa web.
 onboarding-tracking-protection-button2 = Paano Gumagana
 onboarding-data-sync-title = Dalhin Mo ang Iyong mga Setting
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = I-sync ang iyong mga bookmark, password, atbp. sa mga lugar na gagamitan mo ng { -brand-product-name }.
+onboarding-data-sync-button2 = Mag-sign-in sa { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Manatiling Alerto sa mga Data Breach
+onboarding-firefox-monitor-text = Binabantayan ng { -monitor-brand-name } kung ang email mo ay lumabas sa isang data breach at inaalerto ka kung ito'y lumabas sa panibagong breach.
+onboarding-firefox-monitor-button = Mag-sign up para sa mga Alert
+onboarding-browse-privately-title = Mag-browse nang Pribado
+onboarding-browse-privately-text = Binubura ng Private Browsing ang kasaysayan ng mga hinanap mo para hindi malaman ng ibang mga gumagamit ng iyong computer.
+onboarding-firefox-send-title = Panatilihing pribado ang iyong mga Shared File
+onboarding-firefox-send-text2 = I-upload mo ang iyong mga file sa { -send-brand-name } para maipamahagi mo ito nang may end-to-end encryption at link na awtomatikong mag-eexpire.
+onboarding-firefox-send-button = Subukan ang { -send-brand-name }
+onboarding-mobile-phone-title = Kunin ang { -brand-product-name } para sa Iyong Telepono
+onboarding-mobile-phone-text = Mag-download ng { -brand-product-name } para sa iOS o Android at i-sync ang iyong data sa iba't-ibang mga device.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Mag-download ng Mobile Browser
+onboarding-send-tabs-title = Agarang Magpadala ng mga Tab sa Iyong Sarili
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Agarang ipinapamahagi ng Send Tabs ang mga page sa lahat ng iyong mga device nang hindi kailangang i-copy, i-paste, o umalis ng browser.
+onboarding-send-tabs-button = Simulang gamitin ang Send Tabs
+onboarding-pocket-anywhere-title = Basahin at Pakinggan Kahit Saan
+onboarding-pocket-anywhere-text2 = I-save ang iyong mga paboritong content offline gamit ang { -pocket-brand-name } App at basahin, pakinggan, at panoorin kung kailan mo ito naiisin.
+onboarding-pocket-anywhere-button = Subukan ang { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Dalhin mo Kahit Saan ang Iyong mga Password
+onboarding-lockwise-passwords-text2 = Panatilihing secure ang iyong mga password at mabilis mag-log in sa mga account gamit ang { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Kunin ang App
+onboarding-facebook-container-title = Bigyang-hangganan ang Facebook
+onboarding-facebook-container-text2 = Ihinihiwalay ng { -facebook-container-brand-name } ang iyong profile mula sa iba pang mga bagay, at ginagawang mas mahirap para sa Facebook na i-target ka ng mga ad.
 onboarding-facebook-container-button = Idagdag ang Extension
 
 ## Message strings belonging to the Return to AMO flow
 
 return-to-amo-sub-header = Mahusay, ngayon ay mayroon ka nang { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Ngayon kunin natin ang <icon></icon><b>{ $addon-name }</b>.
 return-to-amo-extension-button = Idagdag ang Extension
 return-to-amo-get-started-button = Simulan ang { -brand-short-name }
