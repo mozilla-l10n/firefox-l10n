@@ -28,6 +28,7 @@ abuse-report-messagebar-submitted-noremove = Tanmirt ɣef uneqqis id-tuzneḍ.
 abuse-report-messagebar-removed-extension = Tanmirt ɣef uneqqis id-tuzneḍ. Tekkseḍ asiɣzef <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = Tanmirt ɣef uneqqis id-tuzneḍ. Tekkseḍ asentel <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Tella tucḍa deg uzzna n uneqqis i <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error-recent-submit = Aneqqis n <span data-l10n-name="addon-name">{ $addon-name }</span> ur yettwazen ara acku aneqqis nniḍen yettwazen melmi kan.
 
 ## Message bars actions.
 
