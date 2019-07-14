@@ -215,7 +215,7 @@
 <!ENTITY pref_learn_more "اطلاعات بیشتر">
 <!ENTITY pref_category_installed_search_engines "موتورهای جستجوی نصب شده">
 <!ENTITY pref_category_add_search_providers "افزودن جستجوگرهای بیشتر">
-<!ENTITY pref_category_search_restore_defaults "بازآوری موتورهای جستجو">
+<!ENTITY pref_category_search_restore_defaults "بازگرداندن موتورهای جست‌وجو">
 <!ENTITY pref_search_restore_defaults "بازگرداندن پیش‌فرض‌ها">
 <!ENTITY pref_search_restore_defaults_summary "بازگرداندن پیش‌فرض‌ها">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
@@ -223,22 +223,22 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "نکته: هر وب سایتی را با فشردن طولانی بر روی فیلد جستجو و تپ بر روی شمایل &formatI; به فهرست تامین کننده‌های جستجو اضافه کنید.">
+<!ENTITY pref_search_hint2 "نکته: با لمس طولانی روی فیلد جست‌وجوی هر وب‌سایت و سپس لمس نماد &formatI;، آن وب‌سایت را به جست‌وجوگرهای خود بیفزایید.">
 <!ENTITY pref_category_advanced "پیشرفته">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_advanced_summary3 "بازآوری زبانه‌ها، ذخیره‌کننده اطلاعات، ابزارهای توسعه">
+<!ENTITY pref_category_advanced_summary3 "بازگردانی زبانه‌ها، صرفه‌جوی داده، ابزارهای توسعه‌دهندگان">
 <!ENTITY pref_category_notifications "اعلان‌ها">
 <!ENTITY pref_category_notifications_summary2 "امکانات جدید، نکاتِ محصول">
-<!ENTITY pref_developer_remotedebugging_usb "رفع اشکال از راه دور به واسطه‌ی USB">
-<!ENTITY pref_developer_remotedebugging_wifi "رفع اشکال از راه دور به وسیله Wi-Fi">
-<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "رفع اشکال زدایی توسط Wi-Fi نیازمند نصب برنامه ‌تشخیص کد QR بر روی دستگاه شما می باشد.">
-<!ENTITY pref_remember_signons2 "بخاطر سپردن ورودها">
+<!ENTITY pref_developer_remotedebugging_usb "اشکال‌زدایی از راه دور به‌وسیله USB">
+<!ENTITY pref_developer_remotedebugging_wifi "اشکال‌زدایی از راه دور به‌وسیله Wi-Fi">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "برای اشکال‌زدایی با Wi-Fi باید یک برنامهٔ ‌تشخیص کد QR روی دستگاه شما نصب باشد.">
+<!ENTITY pref_remember_signons2 "به‌یادسپاری ورودها">
 <!ENTITY pref_manage_logins "مدیریت ورود">
 
 <!ENTITY pref_category_home "خانه">
-<!ENTITY pref_category_home_summary "صفحه‌آغازین خود را شخصی سازی کنید">
+<!ENTITY pref_category_home_summary "صفحه آغازین خود را شخصی‌سازی کنید">
 <!ENTITY pref_category_home_panels "قطعه‌ها">
 <!ENTITY pref_category_home_add_ons "افزودنی‌ها">
 <!ENTITY pref_home_updates2 "بروزرسانی‌های محتوا">
@@ -252,12 +252,12 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
-<!ENTITY home_homepage_radio_default "خانه &brandShortName;">
+<!ENTITY home_homepage_radio_default "صفحه خانگی &brandShortName;">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
-<!ENTITY home_homepage_radio_user_address "سفارشی">
+<!ENTITY home_homepage_radio_user_address "دلخواه">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
