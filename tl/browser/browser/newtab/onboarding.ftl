@@ -19,8 +19,12 @@ onboarding-button-label-get-started = Magsimula
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Maligayang pagdating sa { -brand-short-name }
+onboarding-welcome-body = Nakuha mo na ang browser.<br/>Kilalanin ang iba pang miyembro ng { -brand-product-name }.
+onboarding-welcome-learn-more = Alamin ang mga benepisyo.
+onboarding-join-form-body = Ipasok ang iyong email address para magsimula.
 onboarding-join-form-email =
     .placeholder = Ipasok ang email
+onboarding-join-form-legal = Kapag nagpatuloy, ikaw ay sumasang-ayon sa <a data-l10n-name="terms">Terms of Service</a> at <a data-l10n-name="privacy">Privacy Notice</a>.
 onboarding-join-form-continue = Magpatuloy
 onboarding-start-browsing-button-label = Mag-simulang mag-browse
 onboarding-cards-dismiss =
@@ -47,6 +51,7 @@ onboarding-sync-form-sub-header = para magpatuloy sa { -sync-brand-name }
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = Mga mahalagang produkto
 onboarding-benefit-knowledge-title = Praktikal na Kaalaman
 onboarding-benefit-privacy-title = Tunay na Privacy
 
