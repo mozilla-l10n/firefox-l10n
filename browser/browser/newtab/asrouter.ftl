@@ -64,3 +64,10 @@ cfr-doorhanger-bookmark-fxa-link-text = Sinchronizuoti adresyną dabar…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Užvėrimo mygtukas
     .title = Užverti
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Kas naujo
+    .tooltiptext = Kas naujo
+cfr-whatsnew-panel-header = Kas naujo
