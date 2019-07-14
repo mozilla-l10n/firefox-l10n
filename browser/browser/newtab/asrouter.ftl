@@ -51,3 +51,13 @@ cfr-doorhanger-pintab-animation-resume = फिर से शुरू करे
 
 cfr-doorhanger-bookmark-fxa-header = अपने बुकमार्क हर जगह सिंक करें।
 cfr-doorhanger-bookmark-fxa-link-text = अभी बुकमार्क सिंक करें...
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = बटन बंद करें
+    .title = बंद करें
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = क्या नया है
+    .tooltiptext = क्या नया है
+cfr-whatsnew-panel-header = क्या नया है
