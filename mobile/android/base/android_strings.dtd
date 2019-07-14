@@ -69,7 +69,6 @@
 <!ENTITY  sending_crash_report "Lähetetään ilmoitusta\u2026">
 <!ENTITY  crash_close_label "Sulje">
 <!ENTITY  crash_restart_label "Käynnistä &brandShortName; uudestaan">
-
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; kaatui">
@@ -117,7 +116,6 @@
 <!ENTITY bookmark_folder_updated "Kansio päivitetty">
 <!ENTITY bookmark_parent_folder "Yläkansio">
 <!ENTITY bookmark_add_folder "Lisää uusi kansio">
-
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
 <!ENTITY bookmark_default_folder_title "(nimetön)">
@@ -280,6 +278,7 @@
 <!ENTITY pref_cookies_menu "Evästeet">
 <!ENTITY pref_cookies_accept_all "Sallittu">
 <!ENTITY pref_cookies_not_accept_foreign "Sallittu pois lukien kolmannen osapuolen evästeet">
+<!ENTITY pref_cookies_not_accept_trackers "Sallittu pois lukien seurainevästeet">
 <!ENTITY pref_cookies_disabled "Estetty">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -340,11 +339,6 @@
 
 <!ENTITY pref_pwa "Progressive Web Apps">
 <!ENTITY pref_pwa_summary "Salli verkkosovellusten lisääminen aloitusnäytölle">
-
-<!ENTITY tracking_protection_prompt_title "Seurannan suojauksen tuki nyt mukana">
-<!ENTITY tracking_protection_prompt_text "Estää seurantaelementit aktiivisesti, jotta sinun ei tarvitse huolehtia niistä.">
-<!ENTITY tracking_protection_prompt_tip_text "Avaa suojausasetukset lukeaksesi lisää">
-<!ENTITY tracking_protection_prompt_action_button "Selvä!">
 
 <!ENTITY tab_queue_toast_message3 "Välilehti tallennettu &brandShortName;iin">
 <!ENTITY tab_queue_toast_action "Avaa nyt">
@@ -431,7 +425,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Paina Selainsovellus &amp; valitse &brandShortName;">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Käy Mozillan tukisivustossa">
 <!ENTITY pref_about_firefox "Tietoja &brandShortName;ista">
 <!ENTITY pref_vendor_faqs "UKK">
 <!ENTITY pref_vendor_feedback "Anna palautetta">
@@ -692,7 +685,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Valitse tai äänitä ääni">
 <!ENTITY filepicker_image_title "Valitse tai ota kuva">
 <!ENTITY filepicker_video_title "Valitse tai nauhoita video">
-
 <!ENTITY filepicker_permission_denied "Vaadittuja oikeuksia ei annettu, palataan järjestelmän tiedostovalitsimeen.">
 
 <!-- Site identity popup -->
