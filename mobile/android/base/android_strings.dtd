@@ -278,6 +278,7 @@
 <!ENTITY pref_cookies_menu "کوکی‌ها">
 <!ENTITY pref_cookies_accept_all "فعال شد">
 <!ENTITY pref_cookies_not_accept_foreign "فعال شده، بدون شخص ثالث">
+<!ENTITY pref_cookies_not_accept_trackers "فعال شد، به جز برای کوکی‌های ردیابی">
 <!ENTITY pref_cookies_disabled "غیرفعال شد">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
