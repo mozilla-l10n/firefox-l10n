@@ -14,6 +14,8 @@ accessibility-warning =
     .alt = Varning
 accessibility-fail =
     .alt = Fel
+accessibility-best-practices =
+    .alt = Bästa Praxis
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has an accessibility issue
@@ -22,6 +24,7 @@ accessibility-fail =
 accessibility-text-label-issue-area = Använd <code>alt</code> attribut för att markera <div>area</div> element som har <span>href</span> attribut. <a>Läs mer</a>
 accessibility-text-label-issue-dialog = Dialoger ska vara markerade <a>Läs mer</a>
 accessibility-text-label-issue-document-title = Dokument måste ha en <code>titel</code>. <a>Läs mer</a>
+accessibility-text-label-issue-embed = Inbäddat innehåll måste vara märkt. <a>Läs mer</a>
 accessibility-text-label-issue-glyph = Använd <code>alt</code> attribut för att markera <span>mglyph</span> element <a>Läs mer</a>
 accessibility-text-label-issue-heading = Rubriker måste vara markerade. <a>Läs mer</a>
 accessibility-text-label-issue-heading-content = Rubriker ska ha synligt textinnehåll. <a>Läs mer</a>

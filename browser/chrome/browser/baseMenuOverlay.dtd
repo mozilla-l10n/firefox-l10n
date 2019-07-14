@@ -28,9 +28,6 @@
 <!ENTITY helpSafeMode.stop.label       "Starta om med tillägg aktiverade">
 <!ENTITY helpSafeMode.stop.accesskey   "S">
 
-<!ENTITY healthReport2.label      "&brandShorterName; Hälsorapport">
-<!ENTITY healthReport2.accesskey  "H">
-
 <!ENTITY helpTroubleshootingInfo.label      "Felsökningsinformation">
 <!ENTITY helpTroubleshootingInfo.accesskey  "F">
 
@@ -52,3 +49,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Visa alla">
+
+<!ENTITY touchBarCmdMac.label           "Anpassa Touch Bar menyrad…">

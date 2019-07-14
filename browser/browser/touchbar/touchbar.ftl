@@ -18,3 +18,4 @@ reader-view = Läsvy
 open-location = Sök eller ange adress
 share = Dela
 close-window = Stäng fönster
+open-sidebar = Sidrad
