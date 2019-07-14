@@ -34,4 +34,7 @@ abuse-report-messagebar-action-cancel = Sefsex
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason = Yessexsaṛ aselkim-iwakked isefka-iw
+abuse-report-broken-reason-theme = UR iteddu ara neɣ iseḥbes askan n yiminig
+abuse-report-policy-reason = Agbur n kaṛuh, n tekriḍt neɣ arusḍif
 abuse-report-other-reason = Ayen nniḍen
