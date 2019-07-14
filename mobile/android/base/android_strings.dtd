@@ -69,7 +69,6 @@
 <!ENTITY  sending_crash_report "Құлау хабарламасын жіберу\u2026">
 <!ENTITY  crash_close_label "Жабу">
 <!ENTITY  crash_restart_label "&brandShortName; қайта іске қосу">
-
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; құлап түсті">
@@ -117,7 +116,6 @@
 <!ENTITY bookmark_folder_updated "Бума жаңартылды">
 <!ENTITY bookmark_parent_folder "Аталық бумасы">
 <!ENTITY bookmark_add_folder "Жаңа буманы қосу">
-
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
 <!ENTITY bookmark_default_folder_title "(атаусыз)">
@@ -280,6 +278,7 @@
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Іске қосулы">
 <!ENTITY pref_cookies_not_accept_foreign "Іске қосылған, 3 жақты сайттардан басқа">
+<!ENTITY pref_cookies_not_accept_trackers "Іске қосылған, бақылайтын cookie файлдарынан басқа">
 <!ENTITY pref_cookies_disabled "Сөндірілген">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -340,11 +339,6 @@
 
 <!ENTITY pref_pwa "Прогрессивті веб қолданбалар">
 <!ENTITY pref_pwa_summary "Веб қолданбаларға үй экранына қосылуды рұқсат ету">
-
-<!ENTITY tracking_protection_prompt_title "Енді бақылаудан қорғанысы бар">
-<!ENTITY tracking_protection_prompt_text "Бақылайтын элементтерді белсенді түрде блоктайды.">
-<!ENTITY tracking_protection_prompt_tip_text "Көбірек білу үшін жекелік баптауларын шолыңыз">
-<!ENTITY tracking_protection_prompt_action_button "Түсіндім!">
 
 <!ENTITY tab_queue_toast_message3 "&brandShortName; ішінде сақталған бет">
 <!ENTITY tab_queue_toast_action "Қазір ашу">
@@ -431,7 +425,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Браузер қолданбасын шертіңіз және &brandShortName; таңдаңыз">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla қолдау сайтын шолу">
 <!ENTITY pref_about_firefox "&brandShortName; туралы">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Кері байланыс">
@@ -692,7 +685,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Дыбысты таңдау не жазып алу">
 <!ENTITY filepicker_image_title "Суретті таңдау не түсіріп алу">
 <!ENTITY filepicker_video_title "Видеоны таңдау не жазып алу">
-
 <!ENTITY filepicker_permission_denied "Қажет етілген рұқсаттар берілмеді, жүйелік файлдар таңдаушына оралу.">
 
 <!-- Site identity popup -->
