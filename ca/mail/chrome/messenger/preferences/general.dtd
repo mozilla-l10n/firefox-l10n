@@ -38,3 +38,7 @@
 <!ENTITY browse.accesskey                 "N">
 
 <!ENTITY defaultSearchEngine.label        "Motor de cerca per defecte">
+<!ENTITY addSearchEngine.label            "Afegeix des d'un fitxer">
+<!ENTITY addSearchEngine.accesskey        "A">
+<!ENTITY removeSearchEngine.label         "Elimina">
+<!ENTITY removeSearchEngine.accesskey     "E">
