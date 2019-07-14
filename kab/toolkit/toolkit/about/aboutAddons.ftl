@@ -141,6 +141,9 @@ legacy-warning-show-legacy = Sken akk iseɣzaf iqburen
 legacy-extensions =
     .value = Iseγzaf iqburen
 legacy-extensions-description = Iseγzaf-agi ur sεin ara ilugan n { -brand-short-name } imiranen γef aya ittwasensen. <label data-l10n-name="legacy-learn-more">Issin ugar ɣef usnifel ɣer izegrar</label>
+extensions-view-discopane =
+    .name = Iwellihen
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Ileqman n melmi kan
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -222,6 +225,7 @@ manage-extensions-shortcuts =
     .label = Sefrek inegzumen n isiɣzaf
     .accesskey = i
 shortcuts-no-addons = Ur ɣur-k ara ula d yiwen n usiɣzef iremden.
+shortcuts-no-commands = Isiɣzaf id-iteddun ur sɛin ara inegzumen:
 shortcuts-input =
     .placeholder = Sekcem anegzum
 shortcuts-browserAction = Rmed isiɣzaf
@@ -287,6 +291,14 @@ addon-detail-rating-label = Tizmilin
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } ( d arurmid)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } iceggiren
+       *[other] { $numberOfReviews } iceggiren
+    }
 
 ## Pending uninstall message bar
 
@@ -316,3 +328,5 @@ recent-updates-heading = Ileqman n melmi kan
 release-notes-loading = Asali…
 release-notes-error = Suref-aɣ, teḍṛa-d tuccḍa deg usali n iwenniten n lqem.
 addon-permissions-empty = Asiɣzef-agi ur yesra ara tisirag
+recommended-extensions-heading = Isiɣzaf ihulen
+recommended-themes-heading = Isental ihulen
