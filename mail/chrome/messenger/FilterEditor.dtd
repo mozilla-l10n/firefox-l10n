@@ -27,6 +27,7 @@
 <!ENTITY contextOutgoing.accesskey "s">
 <!ENTITY contextArchive.label "Arşivlerken">
 <!ENTITY contextArchive.accesskey "A">
+<!ENTITY contextPeriodic.accesskey "e">
 
 <!ENTITY filterActionDesc.label "Bu eylemleri uygula:">
 <!ENTITY filterActionDesc.accesskey "u">
