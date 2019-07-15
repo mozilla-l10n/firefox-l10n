@@ -23,6 +23,16 @@
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
 <!ENTITY PhoneticField2.id              "PhoneticLastName">
 
+<!ENTITY NameField1.label               "Tên:">
+<!ENTITY NameField1.accesskey           "F">
+<!ENTITY NameField2.label               "Họ:">
+<!ENTITY NameField2.accesskey           "L">
+<!ENTITY PhoneticField1.label           "Ngữ âm:">
+<!ENTITY PhoneticField2.label           "Ngữ âm:">
+<!ENTITY DisplayName.label              "Tên hiển thị:">
+<!ENTITY DisplayName.accesskey          "D">
+<!ENTITY preferDisplayName.label        "Luôn ưu tiên tên hiển thị hơn tiêu đề thư">
+<!ENTITY preferDisplayName.accesskey    "y">
 <!ENTITY NickName.label                 "Tên hiệu:">
 <!ENTITY NickName.accesskey             "h">
 
@@ -30,10 +40,12 @@
 <!ENTITY PrimaryEmail.accesskey         "T">
 <!ENTITY SecondEmail.label              "Thư điện tử Khác:">
 <!ENTITY SecondEmail.accesskey          "K">
-<!ENTITY PlainText.label                "Văn bản Thuần">
+<!ENTITY PreferMailFormat.label         "Ưu tiên nhận tin nhắn được định dạng là:">
+<!ENTITY PreferMailFormat.accesskey     "v">
+<!ENTITY PlainText.label                "Văn bản thuần túy">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Không rõ">
-<!ENTITY chatName.label                 "Tên Trò chuyện:">
+<!ENTITY chatName.label                 "Tên trò chuyện:">
 
 <!ENTITY WorkPhone.label                "Công việc">
 <!ENTITY WorkPhone.accesskey            "k">
@@ -41,6 +53,8 @@
 <!ENTITY HomePhone.accesskey            "m">
 <!ENTITY FaxNumber.label                "Fax:">
 <!ENTITY FaxNumber.accesskey            "F">
+<!ENTITY PagerNumber.label              "Máy nhắn tin:">
+<!ENTITY PagerNumber.accesskey          "g">
 <!ENTITY CellularNumber.label           "Di động:">
 <!ENTITY CellularNumber.accesskey       "D">
 
@@ -50,40 +64,66 @@
 <!ENTITY HomeAddress.accesskey          "c">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.label                 "Thành phố:">
+<!ENTITY HomeCity.accesskey             "y">
+<!ENTITY HomeState.label                "Tỉnh:">
+<!ENTITY HomeState.accesskey            "S">
+<!ENTITY HomeZipCode.label              "Mã bưu điện/ZIP:">
+<!ENTITY HomeZipCode.accesskey          "Z">
 <!ENTITY HomeCountry.label              "Quốc gia:">
 <!ENTITY HomeCountry.accesskey          "Q">
-<!ENTITY HomeWebPage.label              "Trang Web:">
+<!ENTITY HomeWebPage.label              "Trang web:">
 <!ENTITY HomeWebPage.accesskey          "W">
 <!ENTITY Birthday.label                 "Sinh nhật:">
 <!ENTITY Birthday.accesskey             "S">
-<!ENTITY In.label                       "">
+<!ENTITY Month.placeholder              "Tháng">
+<!ENTITY Day.placeholder                "Ngày">
 <!ENTITY Year.placeholder               "Năm">
-<!ENTITY Or.value                       "hoặc">
+<!ENTITY Age.label                      "Tuổi:">
 <!ENTITY Age.placeholder                "Tuổi">
-<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Công việc">
 <!ENTITY Work.accesskey                 "v">
+<!ENTITY JobTitle.label                 "Tiêu đề:">
+<!ENTITY JobTitle.accesskey             "i">
+<!ENTITY Department.label               "Bộ phận:">
+<!ENTITY Department.accesskey           "m">
 <!ENTITY Company.label                  "Tổ chức:">
 <!ENTITY Company.accesskey              "T">
 <!ENTITY WorkAddress.label              "Địa chỉ:">
 <!ENTITY WorkAddress.accesskey          "c">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label                 "Thành phố:">
+<!ENTITY WorkCity.accesskey             "y">
+<!ENTITY WorkState.label                "Tỉnh:">
+<!ENTITY WorkState.accesskey            "S">
+<!ENTITY WorkZipCode.label              "Mã bưu điện/ZIP:">
+<!ENTITY WorkZipCode.accesskey          "Z">
 <!ENTITY WorkCountry.label              "Quốc gia:">
 <!ENTITY WorkCountry.accesskey          "Q">
-<!ENTITY WorkWebPage.label              "Trang Web:">
+<!ENTITY WorkWebPage.label              "Trang web:">
 <!ENTITY WorkWebPage.accesskey          "W">
 
 <!ENTITY Other.tab                      "Khác">
 <!ENTITY Other.accesskey                "K">
+<!ENTITY Custom1.label                  "Tùy chỉnh 1:">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "Tùy chỉnh 2:">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "Tùy chỉnh 3:">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "Tùy chỉnh 4:">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.label                    "Ghi chú:">
+<!ENTITY Notes.accesskey                "N">
 
 <!ENTITY Chat.tab                       "Trò chuyện">
 <!ENTITY Chat.accesskey                 "c">
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
-<!ENTITY AIM2.accesskey                 "A">
+<!ENTITY AIM2.accesskey                 "M">
 <!ENTITY Yahoo.label                    "Yahoo!:">
 <!ENTITY Yahoo.accesskey                "Y">
 <!ENTITY Skype.label                    "Skype:">
@@ -99,5 +139,18 @@
 <!ENTITY IRC.label                      "Tên IRC:">
 <!ENTITY IRC.accesskey                  "R">
 
+<!ENTITY Photo.tab                      "Hình ảnh">
+<!ENTITY Photo.accesskey                "o">
+<!ENTITY GenericPhoto.label             "Ảnh chung">
+<!ENTITY GenericPhoto.accesskey         "G">
 <!ENTITY DefaultPhoto.label             "Mặc định">
+<!ENTITY PhotoFile.label                "Trên máy tính này">
+<!ENTITY PhotoFile.accesskey            "n">
+<!ENTITY BrowsePhoto.label              "Duyệt">
+<!ENTITY BrowsePhoto.accesskey          "r">
+<!ENTITY PhotoURL.label                 "Trên mạng">
+<!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY PhotoURL.placeholder           "Dán hoặc nhập địa chỉ web của ảnh">
 <!ENTITY UpdatePhoto.label              "Cập nhật">
+<!ENTITY UpdatePhoto.accesskey          "u">
+<!ENTITY PhotoDropTarget.label          "Kéo ảnh mới vào đây">

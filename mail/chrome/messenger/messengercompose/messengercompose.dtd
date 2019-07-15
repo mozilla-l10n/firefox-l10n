@@ -84,7 +84,7 @@
      As Mac does not have access keys, this key defines a Mac-only, cross-l10n
      shortcut key (Ctrl+M). Typically, this key should not be translated unless
      otherwise required by specific needs of the localization. -->
-<!ENTITY selectAllCmd.label "Chọn Toàn Bộ">
+<!ENTITY selectAllCmd.label "Chọn tất cả">
 <!ENTITY selectAllCmd.accesskey "B">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY findAgainCmd.label "Tìm tiếp">
@@ -279,7 +279,7 @@
 <!ENTITY removeAttachment.accesskey "p">
 <!ENTITY renameAttachment.label "Đổi tên…">
 <!ENTITY renameAttachment.accesskey "i">
-<!ENTITY selectAll.label "Chọn Toàn Bộ">
+<!ENTITY selectAll.label "Chọn tất cả">
 <!ENTITY selectAll.accesskey "B">
 <!ENTITY attachFile.label "Đính kèm Tập tin…">
 <!ENTITY attachFile.accesskey "k">

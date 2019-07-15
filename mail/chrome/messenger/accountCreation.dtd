@@ -5,7 +5,7 @@
 <!ENTITY autoconfigWizard2.title         "Thiết lập tài khoản email hiện có">
 <!ENTITY name.label                      "Tên của bạn:">
 <!ENTITY name.accesskey                  "T">
-<!ENTITY name.placeholder                "Tên, Họ">
+<!ENTITY name.placeholder                "Tên Họ">
 <!ENTITY name.text                       "Tên của bạn, cho người khác thấy">
 <!ENTITY email.label                     "Địa chỉ email:">
 <!ENTITY email.accesskey                 "l">
