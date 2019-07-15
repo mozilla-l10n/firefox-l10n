@@ -278,6 +278,7 @@
 <!ENTITY pref_cookies_menu "Kolačići">
 <!ENTITY pref_cookies_accept_all "Omogućeno">
 <!ENTITY pref_cookies_not_accept_foreign "Omogućeno, isključujući treće strane">
+<!ENTITY pref_cookies_not_accept_trackers "Omogući, osim kolačića za praćenje">
 <!ENTITY pref_cookies_disabled "Onemogućeno">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
