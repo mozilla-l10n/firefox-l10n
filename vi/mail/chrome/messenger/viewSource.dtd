@@ -19,7 +19,7 @@
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Thiết lập trang…">
 <!ENTITY pageSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Xem trước khi In">
+<!ENTITY printPreviewCmd.label "Xem trước khi in">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "In…">
 <!ENTITY printCmd.accesskey "P">

@@ -89,13 +89,13 @@
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Hiển thị">
 <!ENTITY viewMenu.accesskey                             "H">
-<!ENTITY viewToolbarsMenu.label                         "Thanh Công Cụ">
+<!ENTITY viewToolbarsMenu.label                         "Thanh công cụ">
 <!ENTITY viewToolbarsMenu.accesskey                     "C">
 <!ENTITY menubarCmd.label                               "Thanh menu">
 <!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "Thanh công cụ sổ địa chỉ">
 <!ENTITY showAbToolbarCmd.accesskey                     "S">
-<!ENTITY showTaskbarCmd.label                           "Thanh Trạng Thái">
+<!ENTITY showTaskbarCmd.label                           "Thanh trạng thái">
 <!ENTITY showTaskbarCmd.accesskey                       "a">
 <!ENTITY customizeToolbar.label                         "Tùy biến…">
 <!ENTITY customizeToolbar.accesskey                     "b">
@@ -105,7 +105,7 @@
 <!ENTITY showDirectoryPane.accesskey                    "D">
 <!ENTITY showContactPane2.label                         "Ngăn liên lạc">
 <!ENTITY showContactPane2.accesskey                     "C">
-<!ENTITY menu_ShowNameAs.label                          "Hiện Tên theo dạng">
+<!ENTITY menu_ShowNameAs.label                          "Hiện tên dưới dạng">
 <!ENTITY menu_ShowNameAs.accesskey                      "T">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
@@ -113,7 +113,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.accesskey                        "F">
 <!ENTITY lastFirstCmd.label                             "Họ, Tên">
 <!ENTITY lastFirstCmd.accesskey                         "H">
-<!ENTITY displayNameCmd.label                           "Tên Hiển Thị">
+<!ENTITY displayNameCmd.label                           "Tên hiển thị">
 <!ENTITY displayNameCmd.accesskey                       "i">
 <!ENTITY sortMenu.label                                 "Sắp xếp theo">
 <!ENTITY sortMenu.accesskey                             "S">
@@ -156,7 +156,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editMailingListContext.accesskey               "E">
 <!ENTITY newmsgButton.label                             "Viết thư">
 <!ENTITY newmsgButton.accesskey                         "V">
-<!ENTITY newIM.label                                    "Tin nhắn Nhanh">
+<!ENTITY newIM.label                                    "Tin nhắn nhanh">
 <!ENTITY newIM.accesskey                                "i">
 <!ENTITY printButton.label                              "In…">
 <!ENTITY printButton.accesskey                          "r">
@@ -194,7 +194,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY Company.accesskey                              "h">
 <!ENTITY NickName.label                                 "Tên hiệu">
 <!ENTITY NickName.accesskey                             "u">
-<!ENTITY SecondEmail.label                              "Email Phụ">
+<!ENTITY SecondEmail.label                              "Email phụ">
 <!ENTITY SecondEmail.accesskey                          "P">
 <!ENTITY Department.label                               "Bộ phận">
 <!ENTITY Department.accesskey                           "B">

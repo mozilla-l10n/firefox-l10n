@@ -17,5 +17,5 @@
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Nhập địa chỉ email để thêm chúng vào danh sách thư:">
 <!ENTITY AddressTitle.accesskey         "m">
-<!ENTITY UpButton.label                 "Chuyển Lên">
-<!ENTITY DownButton.label               "Chuyển Xuống">
+<!ENTITY UpButton.label                 "Di chuyển lên">
+<!ENTITY DownButton.label               "Di chuyển xuống">

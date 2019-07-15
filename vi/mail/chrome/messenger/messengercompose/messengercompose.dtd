@@ -21,11 +21,15 @@
 <!ENTITY attachFileCmd.label "Tập tin…">
 <!ENTITY attachFileCmd.accesskey "T">
 <!ENTITY attachFileCmd.key "A">
-<!ENTITY attachPageCmd.label "Trang Web…">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
+<!ENTITY attachPageCmd.label "Trang web…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Thẻ Cá Nhân (vCard)">
+<!ENTITY attachVCardCmd.label "Thẻ cá nhân (vCard)">
 <!ENTITY attachVCardCmd.accesskey "C">
+<!ENTITY remindLater.label "Nhắc tôi sau">
+<!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "Đóng">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "g">
@@ -36,18 +40,20 @@
 <!ENTITY saveAsCmd.accesskey "u">
 <!ENTITY saveAsFileCmd.label "Tập tin…">
 <!ENTITY saveAsFileCmd.accesskey "T">
-<!ENTITY saveAsDraftCmd.label "Thư Nháp">
+<!ENTITY saveAsDraftCmd.label "Thư nháp">
 <!ENTITY saveAsDraftCmd.accesskey "N">
-<!ENTITY saveAsTemplateCmd.label "Thư Mẫu">
+<!ENTITY saveAsTemplateCmd.label "Thư mẫu">
 <!ENTITY saveAsTemplateCmd.accesskey "M">
-<!ENTITY sendNowCmd.label "Gửi Ngay">
+<!ENTITY sendNowCmd.label "Gửi ngay">
 <!ENTITY sendCmd.keycode "VK_RETURN">
 <!ENTITY sendNowCmd.accesskey "N">
-<!ENTITY sendLaterCmd.label "Gửi Sau">
+<!ENTITY sendLaterCmd.label "Gửi sau">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "S">
 <!ENTITY printSetupCmd.label "Thiết lập trang…">
 <!ENTITY printSetupCmd.accesskey "p">
+<!ENTITY printPreviewCmd.label "Xem trước khi in">
+<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "In…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "I">
@@ -77,52 +83,77 @@
 <!ENTITY deleteCmd.accesskey "X">
 <!ENTITY editRewrapCmd.label "Gói lại">
 <!ENTITY editRewrapCmd.key "R">
+<!ENTITY renameAttachmentCmd.label "Đổi tên đính kèm…">
+<!ENTITY renameAttachmentCmd.accesskey "e">
+<!ENTITY reorderAttachmentsCmd.label "Sắp xếp lại đính kèm…">
+<!ENTITY reorderAttachmentsCmd.accesskey "s">
+<!ENTITY reorderAttachmentsCmd.key "x">
+<!ENTITY toggleAttachmentPaneCmd.label "Ngăn đính kèm">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "m">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
      As Mac does not have access keys, this key defines a Mac-only, cross-l10n
      shortcut key (Ctrl+M). Typically, this key should not be translated unless
      otherwise required by specific needs of the localization. -->
+<!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Chọn tất cả">
 <!ENTITY selectAllCmd.accesskey "B">
 <!ENTITY selectAllCmd.key "A">
+<!ENTITY findBarCmd.label "Tìm kiếm…">
+<!ENTITY findBarCmd.accesskey "F">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Tìm và thay thế…">
+<!ENTITY findReplaceCmd.accesskey "l">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Tìm tiếp">
 <!ENTITY findAgainCmd.accesskey "i">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Tìm Trước">
+<!ENTITY findPrevCmd.label "Tìm phía trước">
 <!ENTITY findPrevCmd.accesskey "r">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- Reorder Attachment Panel -->
+<!ENTITY reorderAttachmentsPanel.label "Sắp xếp lại đính kèm">
+<!ENTITY moveAttachmentTopPanelBtn.label "Chuyển lên trên cùng">
+<!ENTITY moveAttachmentUpPanelBtn.label "Di chuyển lên">
+<!ENTITY moveAttachmentBundleUpPanelBtn.label "Di chuyển cung nhau">
+<!ENTITY moveAttachmentDownPanelBtn.label "Di chuyển xuống">
+<!ENTITY moveAttachmentBottomPanelBtn.label "Chuyển xuống dưới cùng">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Sắp xếp: A - Z">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Sắp xếp: Z - A">
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Sắp xếp phần đã chọn: A - Z">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Sắp xếp phần đã chọn: Z - A">
+<!ENTITY sortAttachmentsPanelBtn.key "t">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Hiển thị">
 <!ENTITY viewMenu.accesskey "H">
-<!ENTITY viewToolbarsMenuNew.label "Thanh Công Cụ">
+<!ENTITY viewToolbarsMenuNew.label "Thanh công cụ">
 <!ENTITY viewToolbarsMenuNew.accesskey "C">
 <!ENTITY menubarCmd.label "Thanh menu">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY showCompositionToolbarCmd.label "Thanh Soạn Thảo">
+<!ENTITY showCompositionToolbarCmd.label "Thanh công cụ soạn thảo">
 <!ENTITY showCompositionToolbarCmd.accesskey "S">
-<!ENTITY showFormattingBarCmd.label "Thanh Định Dạng">
+<!ENTITY showFormattingBarCmd.label "Thanh định dạng">
 <!ENTITY showFormattingBarCmd.accesskey "a">
-<!ENTITY showTaskbarCmd.label "Thanh Trạng Thái">
+<!ENTITY showTaskbarCmd.label "Thanh trạng thái">
 <!ENTITY showTaskbarCmd.accesskey "h">
 <!ENTITY customizeToolbar.label "Tùy biến…">
 <!ENTITY customizeToolbar.accesskey "y">
 
-<!ENTITY addressSidebar.label "Thanh Lề Danh Bạ">
-<!ENTITY addressSidebar.accesskey "D">
+<!ENTITY addressSidebar.label "Thanh bên liên hệ">
+<!ENTITY addressSidebar.accesskey "o">
 
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "Định dạng">
@@ -131,20 +162,20 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Tùy chọn">
 <!ENTITY optionsMenu.accesskey "y">
-<!ENTITY checkSpellingCmd2.label "Kiểm tra Chính tả…">
+<!ENTITY checkSpellingCmd2.label "Kiểm tra chính tả…">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
 <!ENTITY checkSpellingCmd2.accesskey "a">
-<!ENTITY enableInlineSpellChecker.label "Kiểm tra Chính tả Khi gõ">
-<!ENTITY enableInlineSpellChecker.accesskey "K">
+<!ENTITY enableInlineSpellChecker.label "Kiểm tra chính tả khi bạn nhập">
+<!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY quoteCmd.label "Trích dẫn Thư">
 <!ENTITY quoteCmd.accesskey "r">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCard.label "Đính kèm Thẻ Cá Nhân (vCard)">
+<!ENTITY attachVCard.label "Đính kèm thẻ cá nhân (vCard)">
 <!ENTITY attachVCard.accesskey "v">
 
-<!ENTITY returnReceiptMenu.label "Chứng nhận Hồi báo">
+<!ENTITY returnReceiptMenu.label "Biên lai hoàn trả">
 <!ENTITY returnReceiptMenu.accesskey "C">
 <!ENTITY dsnMenu.label "Thông báo Trạng thái Gửi thư">
 <!ENTITY dsnMenu.accesskey "G">
@@ -216,7 +247,7 @@
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY fromAddr.label "Gửi Từ:">
+<!ENTITY fromAddr.label "Từ:">
 <!ENTITY fromAddr.accesskey "i">
 <!ENTITY toAddr.label "Tới:">
 <!ENTITY ccAddr.label "Cc:">

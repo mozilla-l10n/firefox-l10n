@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label                   "Tổng quát">
-<!ENTITY itemAutoComplete.label              "Xác định địa chỉ">
+<!ENTITY itemAutoComplete.label              "Địa chỉ">
 <!ENTITY itemSpellCheck.label                "Chính tả">
 
 

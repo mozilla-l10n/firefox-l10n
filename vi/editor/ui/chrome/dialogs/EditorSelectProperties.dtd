@@ -42,7 +42,7 @@
 <!ENTITY AddOptGroup.accesskey "G">
 <!ENTITY RemoveElement.label "Xóa">
 <!ENTITY RemoveElement.accesskey "R">
-<!ENTITY MoveElementUp.label "Chuyển lên">
+<!ENTITY MoveElementUp.label "Di chuyển lên">
 <!ENTITY MoveElementUp.accesskey "U">
-<!ENTITY MoveElementDown.label "Chuyển xuống">
+<!ENTITY MoveElementDown.label "Di chuyển xuống">
 <!ENTITY MoveElementDown.accesskey "D">
