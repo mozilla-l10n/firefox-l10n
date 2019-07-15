@@ -69,7 +69,6 @@
 <!ENTITY  sending_crash_report "Enviando informe de fallo\u2026">
 <!ENTITY  crash_close_label "Cerrar">
 <!ENTITY  crash_restart_label "Reiniciar &brandShortName;">
-
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "se produjo un fallo con &brandShortName;">
@@ -117,7 +116,6 @@
 <!ENTITY bookmark_folder_updated "Carpeta actualizada">
 <!ENTITY bookmark_parent_folder "Carpeta padre">
 <!ENTITY bookmark_add_folder "Añadir carpeta nueva">
-
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
 <!ENTITY bookmark_default_folder_title "(sin título)">
@@ -280,6 +278,7 @@
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Activadas">
 <!ENTITY pref_cookies_not_accept_foreign "Activadas, salvo las de terceras partes">
+<!ENTITY pref_cookies_not_accept_trackers "Habilitado, excluyendo las cookies de rastreo">
 <!ENTITY pref_cookies_disabled "Desactivadas">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -340,11 +339,6 @@
 
 <!ENTITY pref_pwa "Aplicaciones web progresivas">
 <!ENTITY pref_pwa_summary "Permitir a las aplicaciones web añadirse a la pantalla de inicio">
-
-<!ENTITY tracking_protection_prompt_title "Ahora con protección contra rastreo">
-<!ENTITY tracking_protection_prompt_text "Bloquear activamente los elementos de rastreo para que no tenga que preocuparse.">
-<!ENTITY tracking_protection_prompt_tip_text "Visite los ajustes de privacidad para más información">
-<!ENTITY tracking_protection_prompt_action_button "¡Lo tengo!">
 
 <!ENTITY tab_queue_toast_message3 "Pestaña guardada en &brandShortName;">
 <!ENTITY tab_queue_toast_action "Abrir ahora">
@@ -431,7 +425,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Toque la aplicación Navegador y seleccione &brandShortName;">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Visitar Ayuda de Mozilla">
 <!ENTITY pref_about_firefox "Acerca de &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Enviar opinión">
@@ -692,7 +685,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Elegir o grabar un sonido">
 <!ENTITY filepicker_image_title "Elegir o tomar una foto">
 <!ENTITY filepicker_video_title "Elegir o grabar un vídeo">
-
 <!ENTITY filepicker_permission_denied "No se ha otorgado el permiso requerido, volviendo al selector de archivos del sistema.">
 
 <!-- Site identity popup -->
