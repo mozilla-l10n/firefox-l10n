@@ -343,8 +343,8 @@ browsing-cfr-recommendations =
     .label = Gezinirken yeni eklentiler öner
     .accesskey = G
 browsing-cfr-features =
-    .label = Gezinti yeni özellikler öner
-    .accesskey = G
+    .label = Gezinirken yeni özellikler öner
+    .accesskey = z
 browsing-cfr-recommendations-learn-more = Daha fazla bilgi al
 
 ## General Section - Proxy
