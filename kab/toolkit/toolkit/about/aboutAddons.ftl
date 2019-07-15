@@ -93,6 +93,8 @@ detail-update-manual =
     .tooltiptext = Ur sebdad ara ileqman s wudem awurman
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Sker deg usfaylu uslig
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Yesra anekcum ɣer isfuyla usligen
 detail-private-browsing-on =
     .label = Sireg
     .tooltiptext = Sermed aya deg iccer uslig
@@ -235,6 +237,7 @@ shortcuts-modifier-mac = Seddu Ctrl, Alt, neɣ ⌘
 shortcuts-modifier-other = Seddu Ctrl neɣ Alt
 shortcuts-invalid = Yir tuddsa
 shortcuts-letter = Sekcem asekkil
+shortcuts-system = Ur yezmir ad isnifel anegzum n { -brand-short-name }
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
