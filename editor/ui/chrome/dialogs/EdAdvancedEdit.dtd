@@ -11,7 +11,7 @@
 <!ENTITY tree.propertyHeader.label      "Thuộc tính">
 <!ENTITY tree.valueHeader.label         "Giá trị">
 <!ENTITY tabHTML.label                  "Thuộc tính HTML">
-<!ENTITY tabCSS.label                   "Kiểu Bên Trong">
+<!ENTITY tabCSS.label                   "Phong cách bên trong">
 <!ENTITY tabJSE.label                   "Sự kiện JavaScript">
 
 <!ENTITY editAttribute.label    "Nhấn lên một mục ở trên để chỉnh sửa giá trị của nó">

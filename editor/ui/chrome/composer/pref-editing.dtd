@@ -27,5 +27,5 @@
 
 <!ENTITY backgroundImage.label      "Hình nền:">
 <!ENTITY backgroundImage.accesskey  "H">
-<!ENTITY chooseFile.label           "Chọn Tập Tin…">
+<!ENTITY chooseFile.label           "Chọn tập tin…">
 <!ENTITY chooseFile.accesskey       "C">

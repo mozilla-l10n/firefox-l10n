@@ -5,9 +5,9 @@
 <!ENTITY AdvancedEditButton.label "Chỉnh sửa nâng cao…">
 <!ENTITY AdvancedEditButton.accessKey "S">
 <!ENTITY AdvancedEditButton.tooltip "Thêm hoặc chỉnh sửa thuộc tính HTML, thuộc tính style và JavaScript">
-<!ENTITY chooseFileButton.label "Chọn Tập Tin...">
+<!ENTITY chooseFileButton.label "Chọn tập tin…">
 <!ENTITY chooseFileButton.accessKey "C">
-<!ENTITY chooseFileLinkButton.label "Chọn Tập Tin...">
+<!ENTITY chooseFileLinkButton.label "Chọn tập tin…">
 <!ENTITY chooseFileLinkButton.accessKey "h">
 <!ENTITY makeUrlRelative.label "URL tương đối so với địa chỉ trang">
 <!ENTITY makeUrlRelative.accessKey "U">

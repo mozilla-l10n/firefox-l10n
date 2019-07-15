@@ -5,6 +5,9 @@
 <!ENTITY windowTitle.label "Màu">
 <!ENTITY lastPickedColor.label "Màu mới chọn">
 <!ENTITY lastPickedColor.accessKey "M">
+<!ENTITY chooseColor1.label "Chọn một màu:">
+<!ENTITY chooseColor2.label "Nhập chuỗi màu HTML">
+<!ENTITY chooseColor2.accessKey "H">
 <!ENTITY setColorExample.label "(vd.: &quot;#0000ff&quot; hoặc &quot;blue&quot;):">
 <!ENTITY default.label "Mặc định">
 <!ENTITY default.accessKey "M">
