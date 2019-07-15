@@ -19,52 +19,6 @@
 <!ENTITY navbarOverflow.label                "Daha fazla araç…">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "Sekmeyi tazele">
-<!ENTITY  reloadTab.accesskey                "z">
-<!ENTITY  selectAllTabs.label                "Tüm sekmeleri seç">
-<!ENTITY  selectAllTabs.accesskey            "ü">
-<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTab.label                 "Sekmeyi çoğalt">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTab.accesskey             "o">
-<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTabs.label                "Sekmeleri çoğalt">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTabs.accesskey            "o">
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Sağdaki sekmeleri kapat">
-<!ENTITY  closeTabsToTheEnd.accesskey        "a">
-<!ENTITY  closeOtherTabs.label               "Diğer sekmeleri kapat">
-<!ENTITY  closeOtherTabs.accesskey           "D">
-
-<!ENTITY  closeTabs.label                    "Sekmeleri kapat">
-<!ENTITY  closeTabs.accesskey                "S">
-<!ENTITY  pinSelectedTabs.label              "Sekmeleri sabitle">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinSelectedTabs.accesskey          "S">
-<!ENTITY  unpinSelectedTabs.label            "Normal sekmeye dönüştür">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinSelectedTabs.accesskey        "N">
-<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadTabs.label                   "Sekmeleri tazele">
-<!ENTITY  reloadTabs.accesskey               "z">
-<!ENTITY  bookmarkSelectedTabs.label         "Sekmeleri yer imlerine ekle…">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkSelectedTabs.accesskey     "k">
-
-<!-- Tab context menu -->
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -85,28 +39,8 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendPageToDevice.accesskey         "c">
 <!ENTITY  sendLinkToDevice.label             "Bağlantıyı cihaza gönder">
 <!ENTITY  sendLinkToDevice.accesskey         "c">
-<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
-These two items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  moveTabOptions.label               "Sekmeyi taşı">
-<!ENTITY  moveTabOptions.accesskey           "t">
-<!ENTITY  moveSelectedTabOptions.label       "Sekmeleri taşı">
-<!ENTITY  moveSelectedTabOptions.accesskey   "t">
-<!ENTITY  moveToStart.label                  "En başa taşı">
-<!ENTITY  moveToStart.accesskey              "E">
-<!ENTITY  moveToEnd.label                    "En sona taşı">
-<!ENTITY  moveToEnd.accesskey                "s">
-<!ENTITY  moveToNewWindow.label              "Yeni pencereye taşı">
-<!ENTITY  moveToNewWindow.accesskey          "Y">
-<!ENTITY  reopenInContainer.label            "Kapsayıcıda yeniden aç">
-<!ENTITY  reopenInContainer.accesskey        "K">
-<!ENTITY  bookmarkTab.label                  "Sekmeyi yer imlerine ekle">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkTab.accesskey              "i">
 <!ENTITY  undoCloseTab.label                 "Kapatılan sekmeyi aç">
 <!ENTITY  undoCloseTab.accesskey             "ı">
-<!ENTITY  closeTab.label                     "Sekmeyi kapat">
-<!ENTITY  closeTab.accesskey                 "e">
 <!ENTITY  hiddenTabs.label                   "Gizli sekmeler">
 
 <!ENTITY  listAllTabs.label      "Tüm sekmeleri listele">
@@ -145,31 +79,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Yer imleri araç çubuğu">
 <!ENTITY personalbarCmd.accesskey "Y">
 <!ENTITY bookmarksToolbarItem.label "Yer imleri araç çubuğu öğeleri">
-
-<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Seçili sekmeyi tazele">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "z">
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Seçili sekmeleri tazele">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "z">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Seçili sekmeyi yer imlerine ekle…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "m">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Seçili sekmeleri yer imlerine ekle…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "r">
-<!ENTITY toolbarContextMenu.selectAllTabs.label "Tüm sekmeleri seç">
-<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "ü">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Son kapatılan sekmeyi aç">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "K">
 
 <!ENTITY pageSourceCmd.label "Sayfa kaynağı">
 <!ENTITY pageSourceCmd.accesskey "a">
@@ -234,7 +143,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signedInAs.label "Giriş yapan kullanıcı">
 <!ENTITY fxa.menu.manageAccount.label "Hesabı yönet…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; ayarları…">
-<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Başka bir cihaz bağla…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -340,7 +248,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasBlocked.tooltip            "Bu sitenin kanvastan veri ayıklamasını engellediniz.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Bu web sitesinin Adobe Flash yan uygulamasını kullanmasını engellediniz.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Bu sitenin MIDI erişimini engellediniz.">
-
 <!ENTITY urlbar.installBlocked.tooltip           "Bu sitenin eklenti yüklemesini engellediniz.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Geçmişi göster">
@@ -530,12 +437,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
 <!ENTITY customizeMenu.removeExtension.label "Eklentiyi kaldır">
 <!ENTITY customizeMenu.removeExtension.accesskey "n">
-
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
 <!ENTITY customizeMenu.reportExtension.label "Eklentiyi şikâyet et">
-<!ENTITY customizeMenu.reportExtension.accesskey "a">
+<!ENTITY customizeMenu.reportExtension.accesskey "i">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -885,7 +791,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "Burası güvenli bir &brandShortName; sayfasıdır.">
 <!ENTITY identity.extensionPage "Bu sayfa bir eklenti üzerinden yüklendi.">
 <!ENTITY identity.insecureLoginForms2 "Bu sayfaya girilen hesap bilgileri ele geçirilebilir.">
-
 <!ENTITY identity.customRoot "Bağlantı, Mozilla’nın tanımadığı bir sertifika yayıncısı tarafından doğrulandı.">
 
 <!-- Strings for connection state warnings. -->
@@ -905,7 +810,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "&brandShortName; bazı içerikleri engellemiş olmasına rağmen bu sayfada hâlâ güvenli olmayan içerikler (örn. resimler) var.">
 <!ENTITY identity.description.activeLoaded "Bu web sitesinde güvenli olmayan içerikler var (örn. betikler) ve siteye olan bağlantınız gizli değil.">
 <!ENTITY identity.description.activeLoaded2 "Bu siteyle paylaştığınız bilgiler (örn. parolalar, mesajlar, kredi kartı bilgileri vb.) başkaları tarafından görülebilir.">
-
 <!ENTITY identity.description.customRoot "Mozilla bu sertifika yayıncısını tanımıyor. İşletim sisteminiz üzerinden veya sistem yöneticiniz tarafından eklenmiş olabilir.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Korumayı etkinleştir">
@@ -936,40 +840,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Eşitlenmiş sekmeler">
 
 <!ENTITY syncedTabs.sidebar.label              "Eşitlenmiş sekmeler">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Diğer cihazlardaki sekmelerinizi burada görmek için o cihazlardan Firefox’a giriş yapın.">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "Diğer cihazlarınızdaki sekmeleri burada görmek ister misiniz?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "Diğer cihazlarınızdaki sekmeleri görmek için giriş yapın.">
-<!ENTITY syncedTabs.sidebar.unverified.label   "Hesabınızın doğrulanması gerekiyor.">
-<!ENTITY syncedTabs.sidebar.notabs.label       "Açık sekme yok">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; tercihlerini aç">
-<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
-     when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Diğer cihazlardaki sekmeleri görmek için sekme eşitlemeyi açın.">
-<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Eşitlenmiş sekmelerde ara">
-<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Başka bir cihaz bağla">
-
-<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
-                        syncedTabs.context.openAllInTabs.accesskey):
-     These access keys are identical because their associated menu items are
-     mutually exclusive -->
-<!ENTITY syncedTabs.context.open.label                       "Aç">
-<!ENTITY syncedTabs.context.open.accesskey                   "A">
-<!ENTITY syncedTabs.context.openInNewTab.label               "Yeni sekmede aç">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "e">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "Yeni pencerede aç">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "n">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Yeni gizli pencerede aç">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "z">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Sekmeyi yer imlerine ekle…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "S">
-<!ENTITY syncedTabs.context.copy.label                       "Kopyala">
-<!ENTITY syncedTabs.context.copy.accesskey                   "K">
-
-<!ENTITY syncedTabs.context.openAllInTabs.label              "Tümünü sekmelerde aç">
-<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "s">
-<!ENTITY syncedTabs.context.managedevices.label              "Cihazları yönet…">
-<!ENTITY syncedTabs.context.managedevices.accesskey          "C">
-
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -981,42 +851,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label;’e tekrar bağlan…">
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Sync">
-
-<!ENTITY customizeMode.menuAndToolbars.header3 "Sevdiğiniz öğeleri araç çubuğuna veya adres çubuğu menüsüne sürükleyin.">
-<!ENTITY customizeMode.restoreDefaults "Varsayılanları geri yükle">
-<!ENTITY customizeMode.done "Tamam">
-<!ENTITY customizeMode.titlebar "Başlık çubuğu">
-<!ENTITY customizeMode.extraDragSpace "Sürükleme alanı">
-<!ENTITY customizeMode.toolbars2 "Araç çubukları">
-<!ENTITY customizeMode.lwthemes "Temalar">
-<!ENTITY customizeMode.lwthemes.myThemes "Temalarım">
-<!ENTITY customizeMode.lwthemes.recommended "Önerilen">
-<!ENTITY customizeMode.lwthemes.menuManage "Yönet">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "Y">
-<!ENTITY customizeMode.lwthemes.menuGetMore "Daha fazla tema indirin">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "D">
-<!ENTITY customizeMode.overflowList.title2 "Taşma menüsü">
-<!ENTITY customizeMode.overflowList.description "Araç çubuğunda görmek istemediğiniz ama kolayca ulaşmak istediğiniz öğeleri sürükleyip buraya bırakın.">
-<!ENTITY customizeMode.uidensity "Yoğunluk">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
-     “Normal” is displayed in the Customize screen, under the Density menu. -->
-<!ENTITY customizeMode.uidensity.menuNormal.label "Normal">
-<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normal">
-<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
-     “Compact” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Compact). -->
-<!ENTITY customizeMode.uidensity.menuCompact.label "Kompakt">
-<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Kompakt">
-<!ENTITY customizeMode.uidensity.menuCompact.accessKey "K">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
-     “Touch” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Touch), and it means that control layout is
-     optimized for touch devices. -->
-<!ENTITY customizeMode.uidensity.menuTouch.label "Dokunmatik">
-<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Dokunmatik">
-<!ENTITY customizeMode.uidensity.menuTouch.accessKey "D">
-<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Tablet modundayken Dokunmatik’i kullan">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Kendiliğinden gizle">
 
@@ -1084,27 +918,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "Kapat">
 
-<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
-     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
-     Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "Yaptıklarımı unut:">
-<!ENTITY panicButton.view.5min                    "Son 5 dakika">
-<!ENTITY panicButton.view.2hr                     "Son 2 saat">
-<!ENTITY panicButton.view.day                     "Son 24 saat">
-
-<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
-     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
-     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
-     The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "Devam ederseniz…">
-<!ENTITY panicButton.view.deleteCookies           "En son <html:strong>çerezler</html:strong> silinecek">
-<!ENTITY panicButton.view.deleteHistory           "Yakın <html:strong>geçmişiniz</html:strong> silinecek">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "Tüm <html:strong>sekme</html:strong> ve <html:strong>pencereler</html:strong> kapatılacak">
-<!ENTITY panicButton.view.openNewWindow           "Yeni bir temiz pencere açılacak">
-
-<!ENTITY panicButton.view.undoWarning             "Bu işlem geri alınamaz.">
-<!ENTITY panicButton.view.forgetButton            "Unut!">
-
 <!ENTITY panicButton.thankyou.msg1                "Yakın geçmişiniz temizlendi.">
 <!ENTITY panicButton.thankyou.msg2                "Güvenli gezintiler dileriz!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Teşekkürler!">
@@ -1112,31 +925,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "DRM hakkında daha fazla bilgi alın…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "En yeni hız ve gizlilik özellikleri için &brandShorterName; tarayıcınızı güncelleyin.">
-<!ENTITY updateAvailable.whatsnew.label "Yeniliklere bakın.">
-<!ENTITY updateAvailable.header.message "Yeni bir &brandShorterName; güncellemesi var.">
-<!ENTITY updateAvailable.acceptButton.label "Güncellemeyi indir">
-<!ENTITY updateAvailable.acceptButton.accesskey "G">
-<!ENTITY updateAvailable.cancelButton.label "Daha sonra">
-<!ENTITY updateAvailable.cancelButton.accesskey "D">
-
 <!ENTITY updateAvailable.panelUI.label "&brandShorterName; güncellemesini indir">
-
-<!ENTITY updateManual.message "Önce yeni &brandShorterName; kopyanızı indirin. Yüklemenize yardım edeceğiz.">
-<!ENTITY updateManual.whatsnew.label "Yeniliklere bakın.">
-<!ENTITY updateManual.header.message "&brandShorterName; son sürüme güncellenemiyor.">
-<!ENTITY updateManual.acceptButton.label "&brandShorterName; tarayıcısını indir">
-<!ENTITY updateManual.acceptButton.accesskey "t">
-<!ENTITY updateManual.cancelButton.label "Daha sonra">
-<!ENTITY updateManual.cancelButton.accesskey "a">
 <!ENTITY updateManual.panelUI.label "&brandShorterName; tarayıcısının yeni bir kopyasını indir">
-
-<!ENTITY updateRestart.message2 "Yeniden başlatmanın ardından &brandShorterName; tüm açık sekme ve pencerelerinizi geri yükleyecek (Gizli Gezinti modundakiler hariç).">
-<!ENTITY updateRestart.header.message2 "&brandShorterName; tarayıcısını güncellemek için yeniden başlatın.">
-<!ENTITY updateRestart.acceptButton.label "Yeniden başlat ve geri yükle">
-<!ENTITY updateRestart.acceptButton.accesskey "b">
-<!ENTITY updateRestart.cancelButton.label "Daha sonra">
-<!ENTITY updateRestart.cancelButton.accesskey "D">
 <!ENTITY updateUnsupported.panelUI.label "Daha fazla güncelleme yapamazsınız">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; tarayıcısını güncellemek için yeniden başlat">
 
@@ -1176,18 +966,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Erişilebilirlik özellikleri açık">
-
-<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
-     The first <image> tag is replaced with the icon for the add-ons menu.
-     The second <image> tag is replaced with the icon for the toolbar menu. -->
-<!ENTITY addonPostInstallMessage.label "Eklentilerinizi yönetmek için <image class='addon-toolbar-icon'/> menüdeki <image class='addon-addon-icon'/> simgesine tıklayabilirsiniz.">
-<!ENTITY addonPostInstall.incognito.checkbox.label "Bu eklentinin gizli pencerelerde çalışmasına izin ver">
-<!ENTITY addonPostInstall.incognito.checkbox.accesskey "B">
-
-<!ENTITY addonPrivateBrowsing.header2.label "Gizli pencerelerde eklentiler değişiyor">
-<!ENTITY addonPrivateBrowsing.body2.label "Bundan sonra &brandShorterName; tarayıcınıza ekleyeceğiniz eklentiler, siz özellikle izin vermedikçe gizli pencerelerde çalışmayacak.">
-<!ENTITY addonPrivateBrowsing.learnMore.label "Eklenti ayarlarını yönetmeyi öğrenin.">
-<!ENTITY addonPrivateBrowsing.okButton.label "Tamam, anladım">
-<!ENTITY addonPrivateBrowsing.okButton.accesskey "T">
-<!ENTITY addonPrivateBrowsing.manageButton.label "Eklentileri yönet">
-<!ENTITY addonPrivateBrowsing.manageButton.accesskey "E">
