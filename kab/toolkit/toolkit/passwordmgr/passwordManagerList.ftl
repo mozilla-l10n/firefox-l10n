@@ -71,3 +71,5 @@ remove-all-shown =
 remove-all-passwords-prompt = Tebɣiḍ tukksa n wawalen uffiren i meṛṛa?
 remove-all-passwords-title = Kkes akk awalen uffiren
 no-master-password-prompt = Tabɣiḍ ad d-sekneḍ awalen-ik uffiren?
+auto-fill-logins-and-passwords =
+    .label = Ččar inekcam d wawalen uffiren s wudem awurman

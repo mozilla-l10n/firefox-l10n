@@ -93,6 +93,9 @@ detail-update-manual =
     .tooltiptext = Ur sebdad ara ileqman s wudem awurman
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Sker deg usfaylu uslig
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overridden by the user.
+detail-private-disallowed-label = Ur yettusireg ara deg isfuyla usligen
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Yesra anekcum ɣer isfuyla usligen
 detail-private-browsing-on =
