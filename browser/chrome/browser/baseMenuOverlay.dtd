@@ -28,9 +28,6 @@
 <!ENTITY helpSafeMode.stop.label       "Ponovno pokreni s uključenim dodacima">
 <!ENTITY helpSafeMode.stop.accesskey   "v">
 
-<!ENTITY healthReport2.label      "&brandShorterName; izvještaj zdravlja">
-<!ENTITY healthReport2.accesskey  "e">
-
 <!ENTITY helpTroubleshootingInfo.label      "Rješavanje problema">
 <!ENTITY helpTroubleshootingInfo.accesskey  "R">
 
@@ -52,3 +49,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Prikaži sve">
+
+<!ENTITY touchBarCmdMac.label           "Prilagodi traku dodira…">

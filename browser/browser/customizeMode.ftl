@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Vrati
 customize-mode-lwthemes-my-themes =
     .value = Moje teme
+customize-mode-touchbar-cmd =
+    .label = Prilagodi traku dodira…
