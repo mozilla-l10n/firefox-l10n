@@ -4,7 +4,7 @@
 
 <!-- extracted from am-addressing.xul -->
 
-<!ENTITY addressingGroupTitle.label "Xác định Địa chỉ">
+<!ENTITY addressingGroupTitle.label "Địa chỉ">
 <!ENTITY addressingText.label      "Khi tìm địa chỉ:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "Dùng tùy chỉnh máy chủ LDAP bao trùm của tôi cho tài khoản này">

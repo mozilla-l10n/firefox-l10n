@@ -16,9 +16,9 @@
 <!ENTITY reorderTopButton "Chuyển lên trên cùng">
 <!ENTITY reorderTopButton.accessKey "o">
 <!ENTITY reorderTopButton.toolTip "Sắp xếp lại bộ lọc để nó thực thi trước tất cả các bộ lọc khác">
-<!ENTITY reorderUpButton.label "Chuyển lên">
+<!ENTITY reorderUpButton.label "Di chuyển lên">
 <!ENTITY reorderUpButton.accesskey "U">
-<!ENTITY reorderDownButton.label "Chuyển xuống">
+<!ENTITY reorderDownButton.label "Di chuyển xuống">
 <!ENTITY reorderDownButton.accesskey "D">
 <!ENTITY reorderBottomButton "Chuyển xuống dưới cùng">
 <!ENTITY reorderBottomButton.accessKey "B">

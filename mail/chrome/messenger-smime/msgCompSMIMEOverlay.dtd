@@ -7,10 +7,10 @@
 <!ENTITY menu_securityEncryptRequire.label "Mã hóa thư này">
 <!ENTITY menu_securityEncryptRequire.accesskey "M">
 
-<!ENTITY menu_securitySign.label "Chữ kí Điện tử cho Thư này">
+<!ENTITY menu_securitySign.label "Chữ kí điện tử cho thư này">
 <!ENTITY menu_securitySign.accesskey "C">
 
-<!ENTITY menu_securityStatus.label "Hiển thị Thông tin Bảo mật">
+<!ENTITY menu_securityStatus.label "Xem thông tin bảo mật">
 <!ENTITY menu_securityStatus.accesskey "H">
 
 <!ENTITY securityButton.label "Bảo mật">
