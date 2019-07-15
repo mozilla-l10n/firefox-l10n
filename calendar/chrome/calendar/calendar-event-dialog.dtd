@@ -237,7 +237,7 @@
 <!ENTITY event.attachments.popup.remove.accesskey         "X" >
 <!ENTITY event.attachments.popup.open.label               "Mở" >
 <!ENTITY event.attachments.popup.open.accesskey           "M" >
-<!ENTITY event.attachments.popup.removeAll.label          "Xóa Toàn Bộ" >
+<!ENTITY event.attachments.popup.removeAll.label          "Xóa tất cả" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "a" >
 <!ENTITY event.attachments.popup.attachPage.label         "Đính kèm Trang web…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "w" >
