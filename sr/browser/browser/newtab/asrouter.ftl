@@ -55,3 +55,12 @@ cfr-doorhanger-pintab-step2 = Изаберите <b>„Закачи језича
 cfr-doorhanger-pintab-step3 = Уколико има новости на сајту, видећете плаву тачку на вашем закаченом језичку.
 cfr-doorhanger-pintab-animation-pause = Заустави
 cfr-doorhanger-pintab-animation-resume = Настави
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Синхронизујте своје забелешке свуда.
+cfr-doorhanger-bookmark-fxa-body = Одлично откриће! Да бисте имали ову забелешку и на вашем мобилном уређају, крените са коришћењем услуге { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-link-text = Синхронизуј забелешке сада…
+
+## What's New toolbar button and panel
+
