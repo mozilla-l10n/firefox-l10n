@@ -23,6 +23,7 @@ abuse-report-submit-button = Azen
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+abuse-report-messagebar-submitting = Tuzna n uneqqis ɣef <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Tanmirt ɣef uneqqis id-tuzneḍ. Tebɣiḑ ad tekkseḍ <span data-l10n-name="addon-name">{ $addon-name }</span> ?
 abuse-report-messagebar-submitted-noremove = Tanmirt ɣef uneqqis id-tuzneḍ.
 abuse-report-messagebar-removed-extension = Tanmirt ɣef uneqqis id-tuzneḍ. Tekkseḍ asiɣzef <span data-l10n-name="addon-name">{ $addon-name }</span>.
@@ -43,6 +44,9 @@ abuse-report-messagebar-action-cancel = Sefsex
 
 abuse-report-damage-reason = Yessexsaṛ aselkim-iwakked isefka-iw
 abuse-report-spam-reason = Yesnulfu-d ispamen d udellel
+abuse-report-spam-example = Amedya: Sekcem adellel deg yisebtar web
+abuse-report-settings-suggestions-search = Snifel iɣewwaṛen n  unadi amezwer
+abuse-report-settings-suggestions-homepage = Snifel asebter agejdan akked yiccer amaynut
 abuse-report-broken-reason-theme = UR iteddu ara neɣ iseḥbes askan n yiminig
 abuse-report-policy-reason = Agbur n kaṛuh, n tekriḍt neɣ arusḍif
 abuse-report-other-reason = Ayen nniḍen
