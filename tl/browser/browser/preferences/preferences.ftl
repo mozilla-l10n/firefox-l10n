@@ -281,6 +281,10 @@ update-pref-write-failure-title = Isulat ang Kabiguan
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Unable to save preference. Could not write to file: { $path }
+update-in-progress-ok-button = &Discard
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Magpatuloy
 
 ## General Section - Performance
 
@@ -729,6 +733,7 @@ permissions-notification-pause =
 permissions-block-autoplay-media-exceptions =
     .label = mga Execption
     .accesskey = E
+permissions-autoplay = Autoplay
 permissions-autoplay-settings =
     .label = Mga Setting...
     .accesskey = t

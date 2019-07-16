@@ -72,7 +72,13 @@ connection-dns-over-https =
     .accesskey = b
 connection-dns-over-https-url-resolver = Gamitin ang Provider
     .accesskey = P
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (Default)
+    .tooltiptext = Gamitin ang default na URL sa pagresolba ng DNS over HTTPS
 connection-dns-over-https-url-custom =
     .label = Custom
     .accesskey = C
     .tooltiptext = Maglagay ng URL na gusto mong gamitin para sa pag-resolba ng DNS nang naka-HTTPS
+connection-dns-over-https-custom-label = Custom

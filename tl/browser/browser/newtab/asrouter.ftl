@@ -64,3 +64,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## What's New toolbar button and panel
 
+cfr-whatsnew-button =
+    .label = Ano ang Bago
+    .tooltiptext = Ano ang Bago
+cfr-whatsnew-panel-header = Ano ang Bago

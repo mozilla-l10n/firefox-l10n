@@ -21,6 +21,7 @@ onboarding-button-label-get-started = Magsimula
 onboarding-welcome-header = Maligayang pagdating sa { -brand-short-name }
 onboarding-welcome-body = Nakuha mo na ang browser.<br/>Kilalanin ang iba pang miyembro ng { -brand-product-name }.
 onboarding-welcome-learn-more = Alamin ang mga benepisyo.
+onboarding-join-form-header = Sumama sa { -brand-product-name }
 onboarding-join-form-body = Ipasok ang iyong email address para magsimula.
 onboarding-join-form-email =
     .placeholder = Ipasok ang email

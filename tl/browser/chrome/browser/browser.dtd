@@ -19,52 +19,6 @@
 <!ENTITY navbarOverflow.label                "Marami pang tools...">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "I-reload ang Tab">
-<!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  selectAllTabs.label                "Piliin Lahat ng Tab">
-<!ENTITY  selectAllTabs.accesskey            "S">
-<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTab.label                 "Doblehin ang Tab">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTab.accesskey             "D">
-<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTabs.label                "Mga Tabs na Kasingtulad">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTabs.accesskey            "D">
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Isara ang mga Tabs sa Kanan">
-<!ENTITY  closeTabsToTheEnd.accesskey        "i">
-<!ENTITY  closeOtherTabs.label               "Isara ang Ibang Tabs">
-<!ENTITY  closeOtherTabs.accesskey           "o">
-
-<!ENTITY  closeTabs.label                    "Isara ang mga Tab">
-<!ENTITY  closeTabs.accesskey                "S">
-<!ENTITY  pinSelectedTabs.label              "I-pin ang mga Tab">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinSelectedTabs.accesskey          "P">
-<!ENTITY  unpinSelectedTabs.label            "I-unpin ang mga Tab">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinSelectedTabs.accesskey        "b">
-<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadTabs.label                   "I-Reload ang mga Tab">
-<!ENTITY  reloadTabs.accesskey               "R">
-<!ENTITY  bookmarkSelectedTabs.label         "I-Bookmark ang mga Tab…">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkSelectedTabs.accesskey     "B">
-
-<!-- Tab context menu -->
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -85,28 +39,8 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "Ipadala ang Link sa Device">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
-<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
-These two items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  moveTabOptions.label               "Ilipat ang Tab">
-<!ENTITY  moveTabOptions.accesskey           "v">
-<!ENTITY  moveSelectedTabOptions.label       "Ilipat ang mga Tab">
-<!ENTITY  moveSelectedTabOptions.accesskey   "v">
-<!ENTITY  moveToStart.label                  "Ilipat sa Simula">
-<!ENTITY  moveToStart.accesskey              "S">
-<!ENTITY  moveToEnd.label                    "Ilipat sa Huli">
-<!ENTITY  moveToEnd.accesskey                "E">
-<!ENTITY  moveToNewWindow.label              "Pumunta sa Bagong Window">
-<!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  reopenInContainer.label            "Muling buksan sa Lalagyan">
-<!ENTITY  reopenInContainer.accesskey        "e">
-<!ENTITY  bookmarkTab.label                  "I-Bookmark ang Tab">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkTab.accesskey              "B">
 <!ENTITY  undoCloseTab.label                 "Buksang Muli ang Isinarang Tab">
 <!ENTITY  undoCloseTab.accesskey             "U">
-<!ENTITY  closeTab.label                     "Isara ang Tab">
-<!ENTITY  closeTab.accesskey                 "c">
 <!ENTITY  hiddenTabs.label                   "Mga Tinagong Tab">
 
 <!ENTITY  listAllTabs.label      "Ilista ang lahat ng mga tabs">
@@ -145,31 +79,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Tingnan ang Bookmarks Toolbar">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Mga nakalagay sa Bookmarks Toolbar">
-
-<!ENTITY toolbarContextMenu.reloadSelectedTab.label "I-Reload ang napiling Tab">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "R">
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "I-Reload ang mga napiling Tab">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "R">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "I-Bookmark ang napiling Tab…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "T">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "I-Bookmark ang mga napiling Tab...">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
-<!ENTITY toolbarContextMenu.selectAllTabs.label "Piliin ang lahat ng mga Tab">
-<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "S">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Ibalik ang Nakasarang Tab">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "Source code ng web page">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -332,7 +241,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasBlocked.tooltip            "Na-block mo ang data extraction ng canvas para sa website na ito.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Na-block mo ang website na ito mula sa paggamit ng Adobe Flash plugin.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Na-block mo ang access sa MIDI para sa website na ito.">
-
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Ipakita ang kasaysayan">
 
@@ -520,10 +428,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
 <!ENTITY customizeMenu.removeExtension.label "Alisin ang Extension">
 <!ENTITY customizeMenu.removeExtension.accesskey "v">
-
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.accesskey "o">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -872,7 +780,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Ang pahinang ito ay nai-load mula sa isang extension.">
 <!ENTITY identity.insecureLoginForms2 "Ang mga pag-login na ipinasok sa pahinang ito ay maaaring makompromiso.">
 
-
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; Na-block ang mga bahagi ng pahinang ito na hindi ligtas.">
 <!ENTITY identity.passiveLoaded "Ang mga bahagi ng pahinang ito ay hindi ligtas (tulad ng mga larawan).">
@@ -890,7 +797,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Kahit na &brandShortName; Na-block ng ilang nilalaman, may nilalaman pa rin sa pahina na hindi ligtas (tulad ng mga larawan).">
 <!ENTITY identity.description.activeLoaded "Ang website na ito ay naglalaman ng nilalaman na hindi ligtas (tulad ng mga script) at ang iyong koneksyon dito ay hindi pribado.">
 <!ENTITY identity.description.activeLoaded2 "Ang impormasyon na ibinabahagi mo sa site na ito ay maaaring makita ng iba (tulad ng mga password, mensahe, credit card, atbp.).">
-
 
 <!ENTITY identity.enableMixedContentBlocking.label "Paganahin ang proteksyon ">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
@@ -919,40 +825,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Mga Synced na Tab">
 
 <!ENTITY syncedTabs.sidebar.label              "Mga Synced na Tab">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Mag-sign in sa Firefox mula sa iyong iba pang mga device upang tingnan ang kanilang mga tab dito.">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "Gusto mong makita ang iyong mga tab mula sa iba pang mga device dito?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "Mag sign-in para makita ang listahan ng mga tab galing sa iba mo pang devices.">
-<!ENTITY syncedTabs.sidebar.unverified.label   "Ang iyong account ay kailangang ma-verify.">
-<!ENTITY syncedTabs.sidebar.notabs.label       "Walang bukas na tabs">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "Buksan ang &syncBrand.shortName.label; na Preferences">
-<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
-     when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Paganahin ang tab syncing para makita ang listahan ng tabs na galing sa iba mo pang devices.">
-<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Maghanap ng mga naka-sync na tab">
-<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Ikonekta ang Isa pang Device">
-
-<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
-                        syncedTabs.context.openAllInTabs.accesskey):
-     These access keys are identical because their associated menu items are
-     mutually exclusive -->
-<!ENTITY syncedTabs.context.open.label                       "Buksan">
-<!ENTITY syncedTabs.context.open.accesskey                   "O">
-<!ENTITY syncedTabs.context.openInNewTab.label               "Buksan sa Bagong Tab">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "Buksan ang Link sa Bagong Window">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "n">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Buksan sa Bagong Private Window">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "I-bookmark ang Tab na ito...">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
-<!ENTITY syncedTabs.context.copy.label                       "Kopyahin">
-<!ENTITY syncedTabs.context.copy.accesskey                   "C">
-
-<!ENTITY syncedTabs.context.openAllInTabs.label              "Buksan ang Lahat na mga Tab">
-<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
-<!ENTITY syncedTabs.context.managedevices.label              "I-manage ang mga Device...">
-<!ENTITY syncedTabs.context.managedevices.accesskey          "D">
-
 
 <!ENTITY syncBrand.shortName.label    "I-sync">
 
@@ -964,42 +836,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.label         "Kumonekta ulit sa &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "I-sync">
-
-<!ENTITY customizeMode.menuAndToolbars.header3 "I-drag ang iyong mga paboritong item sa toolbar o overflow menu.">
-<!ENTITY customizeMode.restoreDefaults "Ibalik sa Dati">
-<!ENTITY customizeMode.done "Tapos">
-<!ENTITY customizeMode.titlebar "Title Bar">
-<!ENTITY customizeMode.extraDragSpace "I-drag ang Space">
-<!ENTITY customizeMode.toolbars2 "Mga Toolbar">
-<!ENTITY customizeMode.lwthemes "Mga Tema">
-<!ENTITY customizeMode.lwthemes.myThemes "Aking Mga Tema">
-<!ENTITY customizeMode.lwthemes.recommended "Inirekomenda">
-<!ENTITY customizeMode.lwthemes.menuManage "I-manage">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
-<!ENTITY customizeMode.lwthemes.menuGetMore "Kumuha pa ng Ibang Themes ">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.overflowList.title2 "I-overflow Menu">
-<!ENTITY customizeMode.overflowList.description "I-drag at i-drop ang mga item dito upang panatilihin ang mga ito sa loob ng maabot ngunit sa labas ng iyong toolbar...">
-<!ENTITY customizeMode.uidensity "Density">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
-     “Normal” is displayed in the Customize screen, under the Density menu. -->
-<!ENTITY customizeMode.uidensity.menuNormal.label "Normal">
-<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normal">
-<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
-     “Compact” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Compact). -->
-<!ENTITY customizeMode.uidensity.menuCompact.label "Compact">
-<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Compact">
-<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
-     “Touch” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Touch), and it means that control layout is
-     optimized for touch devices. -->
-<!ENTITY customizeMode.uidensity.menuTouch.label "Touch">
-<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Touch">
-<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
-<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Gamitin ang Touch para sa Tablet Mode">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Auto-hide">
 
@@ -1061,27 +897,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "Isarado">
 
-<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
-     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
-     Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "Kalimutan ang huli:">
-<!ENTITY panicButton.view.5min                    "Limang minuto">
-<!ENTITY panicButton.view.2hr                     "Dalawang oras ">
-<!ENTITY panicButton.view.day                     "24 na oras">
-
-<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
-     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
-     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
-     The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "Pagpatuloy ay:">
-<!ENTITY panicButton.view.deleteCookies           "Burahin ang nakaraang <html:strong>Cookies</html:strong>">
-<!ENTITY panicButton.view.deleteHistory           "Burahin ang nakaraang <html:strong>History</html:strong>">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "Isara lahat ng <html:strong>Tabs</html:strong> at <html:strong>Windows</html:strong>">
-<!ENTITY panicButton.view.openNewWindow           "Magbukas ng bagong malinis na Window">
-
-<!ENTITY panicButton.view.undoWarning             "Ang aksyon na ito ay hindi na mababawi.">
-<!ENTITY panicButton.view.forgetButton            "Kalimutan!">
-
 <!ENTITY panicButton.thankyou.msg1                "Ang mga nakaraan mong kasaysayan ay sadyang natanggal na.">
 <!ENTITY panicButton.thankyou.msg2                "Ligtas na pag-browse!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Salamat!">
@@ -1089,31 +904,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Matuto nang higit pa tungkol sa DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "I-update ang iyong &brandShorterName; para sa pinakabago sa speed and privacy.">
-<!ENTITY updateAvailable.whatsnew.label "Makita kung ano ang bago.">
-<!ENTITY updateAvailable.header.message "Ang &brandShorterName; ay may bagong update.">
-<!ENTITY updateAvailable.acceptButton.label "I-download ang Pagbabago">
-<!ENTITY updateAvailable.acceptButton.accesskey "D">
-<!ENTITY updateAvailable.cancelButton.label "Wag muna">
-<!ENTITY updateAvailable.cancelButton.accesskey "N">
-
 <!ENTITY updateAvailable.panelUI.label "I-download ang &brandShorterName; na pagbabago">
-
-<!ENTITY updateManual.message "Mag-download ng bagong kopya ng &brandShorterName; at tutulungan ka namin i-install ito.">
-<!ENTITY updateManual.whatsnew.label "Tingnan kung ano ang bago.">
-<!ENTITY updateManual.header.message "&brandShorterName; ay hindi ma-update sa bagong bersyon na ito.">
-<!ENTITY updateManual.acceptButton.label "I-download &brandShorterName;">
-<!ENTITY updateManual.acceptButton.accesskey "D">
-<!ENTITY updateManual.cancelButton.label "Hindi Ngayon">
-<!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "I-download ang bagong kopya ng &brandShorterName;">
-
-<!ENTITY updateRestart.message2 "Matapos ang isang mabilis na pag-restart, &brandShorterName; ibabalik ang lahat ng iyong mga bukas na tab at window na wala sa pribadong Pagba-browse mode.">
-<!ENTITY updateRestart.header.message2 "Mag-restart para ma-update &brandShorterName;.">
-<!ENTITY updateRestart.acceptButton.label "I-restart at Ibalik">
-<!ENTITY updateRestart.acceptButton.accesskey "R">
-<!ENTITY updateRestart.cancelButton.label "Hindi ngayon">
-<!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Mag-restart para ma-update &brandShorterName;">
 
 <!ENTITY newTabControlled.header.message "Ang iyong Bagong Tab ay nagbago.">
@@ -1152,13 +944,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Pinagana ang Mga Tampok ng Accessibility">
-
-<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
-     The first <image> tag is replaced with the icon for the add-ons menu.
-     The second <image> tag is replaced with the icon for the toolbar menu. -->
-<!ENTITY addonPostInstallMessage.label "Pindutin ang <image class='addon-addon-icon'/> upang i-manage ang iyong mga add-on sa menu ng <image class='addon-toolbar-icon'/>.">
-<!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
-
-<!ENTITY addonPrivateBrowsing.okButton.label "OK, nakuha ko">
-<!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
-<!ENTITY addonPrivateBrowsing.manageButton.accesskey "M">
