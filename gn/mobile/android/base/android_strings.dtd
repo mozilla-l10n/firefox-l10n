@@ -69,7 +69,6 @@
 <!ENTITY  sending_crash_report "Emondohína jejavy rehegua\u2026">
 <!ENTITY  crash_close_label "Mboty">
 <!ENTITY  crash_restart_label "&brandShortName; moñepyrũjey">
-
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; ombeti">
@@ -117,7 +116,6 @@
 <!ENTITY bookmark_folder_updated "Ñongatuha oñembohekopyahúma">
 <!ENTITY bookmark_parent_folder "Ñongatuha mba\&apos;eguasuvéva">
 <!ENTITY bookmark_add_folder "Embojuaju ñongatuha pyahu">
-
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
 <!ENTITY bookmark_default_folder_title "(teratee\&apos;ỹ rehe)">
@@ -280,6 +278,7 @@
 <!ENTITY pref_cookies_menu "Cookie-kuéra">
 <!ENTITY pref_cookies_accept_all "Myandypyre">
 <!ENTITY pref_cookies_not_accept_foreign "Hendypyre, oñemboykehápe pe mbohapyha vore">
+<!ENTITY pref_cookies_not_accept_trackers "Jurujapyre, oñemboykehápe kookie jehapykuehoha">
 <!ENTITY pref_cookies_disabled "Ojepuruve\&apos;ỹva">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -340,11 +339,6 @@
 
 <!ENTITY pref_pwa "Ñanduti Rembipuru Okakuaáva">
 <!ENTITY pref_pwa_summary "Emoneĩ ñanduti rembipurúpe ojuajúvo mba\&apos;erechaha ra\&apos;ãngamýi rehe">
-
-<!ENTITY tracking_protection_prompt_title "Ko\&apos;ág̃a, jehapykueho ñemo\&apos;ãha ndive">
-<!ENTITY tracking_protection_prompt_text "Ejoko mba\&apos;epuru jehapykueho ani hag̃ua rejepy\&apos;apy.">
-<!ENTITY tracking_protection_prompt_tip_text "Eho ñemboheko ñemiguápe eñemomaranduve hag̃ua">
-<!ENTITY tracking_protection_prompt_action_button "Arekóma!">
 
 <!ENTITY tab_queue_toast_message3 "Tendayke oñeñongatu &brandShortName;-pe">
 <!ENTITY tab_queue_toast_action "Ijuruja ko\&apos;ág̃a">
@@ -431,7 +425,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Epoko pe kundaha rembipuru’i &amp; eiporavo &brandShortName;">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Eike Mozilla mombytahápe">
 <!ENTITY pref_about_firefox "&brandShortName; reheguaite">
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "Temiandu mondo">
@@ -692,7 +685,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Eiporavo térã eñongatu mba\&apos;epu">
 <!ENTITY filepicker_image_title "Eiporavo térã enohẽ avara\&apos;ãnga">
 <!ENTITY filepicker_video_title "Eiporavo térã eñongatu ta\&apos;ãngamýi">
-
 <!ENTITY filepicker_permission_denied "Noñemoneĩri tekotevẽháicha, ejevyjeýnte marandurenda apopyvusu poravohápe.">
 
 <!-- Site identity popup -->
