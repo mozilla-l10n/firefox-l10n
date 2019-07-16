@@ -62,3 +62,10 @@ cfr-doorhanger-bookmark-fxa-link-text = Embojuehehína techaukaha...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Emboty votõ
     .title = Emboty
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Oĩpa mba'e pyahu
+    .tooltiptext = Oĩpa mba'e pyahu
+cfr-whatsnew-panel-header = Oĩpa mba'e pyahu

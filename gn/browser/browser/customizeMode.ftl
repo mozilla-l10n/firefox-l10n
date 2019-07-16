@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Mboguevi
 customize-mode-lwthemes-my-themes =
     .value = Mbojeguaha Aipurúva
+customize-mode-touchbar-cmd =
+    .label = Eñemomba'e pokogua rendáre...

@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = Ani eipuru proxy ejapo hag̃ua
     .accesskey = N
 connection-proxy-noproxy-desc = Techapyrã: .mozilla.org, .net.nz, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = Umi jeike localhost-gua, 127.0.0.1 ha ::1 ndohasái proxy rupi.
 connection-proxy-autotype =
     .label = URL mbohekorã ijeheguíva proxy mba'évape g̃uarã
     .accesskey = A
@@ -70,12 +72,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Embojuruja DNS pe HTTPS ári
     .accesskey = b
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = Eipuru ypykuegua ({ $url })
-    .accesskey = U
-    .tooltiptext = Eipuru URL ypykuegua emoĩporã hag̃ua DNS HTTPS ári
 connection-dns-over-https-url-resolver = Eipuru Me'ẽha
     .accesskey = P
 # Variables:

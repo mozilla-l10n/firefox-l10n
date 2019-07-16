@@ -18,3 +18,4 @@ reader-view = Moñe'ẽrã rechaha
 open-location = Eheka térã emoinge kundaharape
 share = Moherakuã
 close-window = Emboty ovetã
+open-sidebar = Tenda yke
