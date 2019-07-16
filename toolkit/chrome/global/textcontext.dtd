@@ -26,8 +26,10 @@
 <!ENTITY searchTextBox.clear.label "Cancella">
 <!ENTITY fillLoginMenu.label "Compila le credenziali di accesso">
 <!ENTITY fillLoginMenu.accesskey "m">
-<!ENTITY fillSuggestedPassword.label "Utilizza una password suggerita">
+<!ENTITY fillSuggestedPassword.label "Usa password suggerita">
 <!ENTITY fillSuggestedPassword.accesskey "s">
+<!ENTITY fillGeneratedPassword.label "Usa password generata in modo sicuro">
+<!ENTITY fillGeneratedPassword.accesskey "w">
 <!ENTITY fillPasswordMenu.label "Compila password">
 <!ENTITY fillPasswordMenu.accesskey "m">
 <!ENTITY fillUsernameMenu.label "Compila nome utente">
