@@ -34,7 +34,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription2.label "Uma vez importados, você poderá acessá-los pelo &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Selecione o tipo de arquivo que você deseja importar:">
-<!ENTITY selectDescriptionB.label "Por favor, selecione uma conta existente ou crie uma conta nova:">
+<!ENTITY selectDescriptionB.label "Selecione uma conta existente ou crie uma nova:">
 <!ENTITY selectDescription.accesskey "P">
 <!ENTITY acctName.label           "Nome:">
 <!ENTITY acctName.accesskey       "N">
