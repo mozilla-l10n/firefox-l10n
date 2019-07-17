@@ -53,6 +53,7 @@ onboarding-sync-form-sub-header = { -sync-brand-name } অব্যাহত র
 
 onboarding-benefit-products-title = দরকারী পণ্য
 onboarding-benefit-knowledge-title = ব্যবহারিক জ্ঞান
+onboarding-benefit-privacy-title = সত্যিকারের গোপনীয়তা
 
 ## These strings belong to the individual onboarding messages.
 
@@ -74,7 +75,10 @@ onboarding-fxa-title = সিঙ্ক
 onboarding-fxa-text = আপনার বুকমার্কস, পাসওয়ার্ড এবং যেখানেই আপনি { -brand-short-name } ট্যাব খোলেন না কেন তা সিঙ্ক করতে একটি { -fxaccount-brand-name } একাউন্ট সাইন আপ করে নিন।
 onboarding-tracking-protection-title2 = ট্র্যাকিং থেকে সুরক্ষা
 onboarding-tracking-protection-button2 = কিভাবে এটা কাজ করে
+onboarding-data-sync-title = আপনার সেটিং আপনার সঙ্গে নিন
 onboarding-data-sync-button2 = { -sync-brand-short-name } এ সাইন ইন করুন
+onboarding-firefox-monitor-button = সতর্কতা জন্য সাইন আপ করুন
+onboarding-browse-privately-title = গোপনভাবে ব্রাউজ করুন
 onboarding-browse-privately-button = ব্যাক্তিগত উইন্ডোতে খুলুন
 onboarding-firefox-send-title = আপনার শেয়ার করা ফাইলগুলো গোপন রাখুন
 onboarding-firefox-send-button = { -send-brand-name } পরখ করুন
@@ -83,7 +87,9 @@ onboarding-mobile-phone-title = আপনার ফোনে { -brand-product-na
 # browser.
 onboarding-mobile-phone-button = মোবাইল ব্রাউজার ডাউনলোড করুন
 onboarding-send-tabs-button = Send Tabs ব্যবহার শুরু করুন
+onboarding-pocket-anywhere-title = যেকোন স্থানে পড়ুন এবং শুনুন।
 onboarding-pocket-anywhere-button = { -pocket-brand-name } পরখ করুন
+onboarding-lockwise-passwords-title = আপনার পাসওয়ার্ড সবখানে নিন।
 onboarding-lockwise-passwords-button2 = অ্যাপটি ডাউনলোড করুন
 onboarding-facebook-container-button = এক্সটেনশনটি যোগ করুন
 

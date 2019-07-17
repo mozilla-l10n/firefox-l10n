@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = পরিবর্তন সংরক্ষণ
     .accesskey = S
+permissions-autoplay-menu = সব ওয়েবসাইটের জন্য ডিফল্ট:
 permissions-searchbox =
     .placeholder = ওয়েবসাইট খুঁজুন
+permissions-capabilities-autoplay-allow =
+    .label = অডিও ও ভিডিও অনুমোদন দিন
+permissions-capabilities-autoplay-block =
+    .label = অডিও ব্লক
+permissions-capabilities-autoplay-blockall =
+    .label = অডিও ও ভিডিও ব্লক
 permissions-capabilities-allow =
     .label = অনুমোদন করা হবে
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = অনুমোদন করা হবে
 permissions-capabilities-listitem-block =
     .value = প্রতিরোধ করা হবে
-permissions-capabilities-listitem-allow-first-party =
-    .value = শুধুমাত্র প্রথম পক্ষকে অনুমোদন করা হবে
 permissions-capabilities-listitem-allow-session =
     .value = সেশনের জন্য অনুমোদন করা হবে
 
@@ -58,10 +63,6 @@ permissions-invalid-uri-label = অনুগ্রহ করে কার্য�
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = ব্যতিক্রমসমূহ - ট্রাকিং সুরক্ষা
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = এই সমস্ত ওয়েবসাইটে আপনি ট্র্যাকিং সুরক্ষা নিষ্ক্রিয় করে রেখেছেন।
 permissions-exceptions-content-blocking-window =
     .title = ব্যতিক্রম - কন্টেন্ট ব্লকিং
     .style = { permissions-window.style }
@@ -101,6 +102,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = ব্যতিক্রম - অটোপ্লে
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = কোন ওয়েবসাইট সবসময় মাল্টিমিডিয়া সাউন্ড স্বয়ংচালনা করবে অথবা কোনটি কখনই করবে না তা আপনি নির্দিষ্ট করতে পারেন। ওয়েব সাইটের সঠিক ঠিকানা টাইপ করুন এবং তারপরে ব্লক করুন, সেশনের জন্য অনুমতি দিন, বা অনুমতি দিন।
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = সেটিংস - অটোপ্লে
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = আপনার ডিফল্ট অটোপ্লে সেটিংস অনুসরণ করে না এমন সাইট আপনি এখানে পরিচালনা করতে পারেন।
 
 ## Site Permissions - Notifications
 

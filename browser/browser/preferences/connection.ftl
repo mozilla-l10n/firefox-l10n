@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = কোনো প্রক্সি নেই
     .accesskey = n
 connection-proxy-noproxy-desc = উদাহরণ: .mozilla.org, .net.nz, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = localhost এ সংযোগ, 127.0.0.1, এবং ::1 কখনো প্রক্সি করা হয় নাই।
 connection-proxy-autotype =
     .label = স্বয়ংক্রিয় প্রক্সি কনফিগারেশন URL
     .accesskey = A
@@ -70,16 +72,15 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = HTTPS এর উপর DNS সক্রিয় করুন
     .accesskey = b
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = HTTPS দ্বারা DNS রিজল্ভ করার URL
+connection-dns-over-https-url-resolver = সরবরাহকারী ব্যবহার করুন
+    .accesskey = P
 # Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = ডিফল্ট ব্যবহার করুন ({ $url })
-    .accesskey = U
-    .tooltiptext = HTTPS এ DNS সমাধানে ডিফল্ট URL ব্যবহার করুন
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (ডিফল্ট)
+    .tooltiptext = HTTPS এ DNS নির্ণায়কের জন্য ডিফল্ট URL ব্যবহার করুন
 connection-dns-over-https-url-custom =
     .label = স্বনির্ধারিত
     .accesskey = C
     .tooltiptext = DNS এ HTTPS সমাধানের জন্য আপনার পছন্দের URL লিখুন
+connection-dns-over-https-custom-label = স্বনির্ধারিত

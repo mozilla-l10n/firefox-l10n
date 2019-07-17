@@ -143,6 +143,15 @@ newtab-empty-section-highlights = ব্রাউজি করা শুরু �
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = কিছু একটা ঠিক নেই। { $provider } এর শীর্ষ গল্পগুলো পেতে কিছুক্ষণ পর আবার দেখুন। অপেক্ষা করতে চান না? বিশ্বের সেরা গল্পগুলো পেতে কোন জনপ্রিয় বিষয় নির্বাচন করুন।
 
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-header = আর কিছু নেই!
+newtab-discovery-empty-section-topstories-content = আরোও গল্পের জন্য পরে আবার দেখুন।
+newtab-discovery-empty-section-topstories-try-again-button = পুনরায় চেষ্টা করুন
+newtab-discovery-empty-section-topstories-loading = লোড করা হচ্ছে…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = ওহো! আমরা এই অনুচ্ছেদ প্রায় লোড করেছিলাম, কিন্তু শেষ করতে পারিনি।
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
