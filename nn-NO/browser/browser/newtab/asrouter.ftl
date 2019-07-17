@@ -62,3 +62,10 @@ cfr-doorhanger-bookmark-fxa-link-text = Synkroniser bokmerke no…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Lat att-knapp
     .title = Lat att
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Kva er nytt
+    .tooltiptext = Kva er nytt
+cfr-whatsnew-panel-header = Kva er nytt
