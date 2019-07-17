@@ -23,7 +23,6 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
-blocklist-item-moz-std-name = Disconnect.me मूल सुरक्षा(अनुशंसित).
-blocklist-item-moz-std-desc = कुछ ट्रैकर्स को अनुमति दें ताकि वेबसाइटें सही तरह से कार्य कर सकें.
-blocklist-item-moz-full-name = डिस्कनेक्ट कठोर सुरक्षा.
-blocklist-item-moz-full-desc = ज्ञात ट्रैकर्स अवरुद्ध किये जाते हैं. कुछ वेबसाइटें ठीक से काम नहीं कर सकेंगी.
+blocklist-item-moz-std-description = कुछ ट्रैकर्स को इतनी कम वेबसाइटों को तोड़ने की अनुमति देता है।
+blocklist-item-moz-full-listName = समतल २ ब्लॉक सूची.
+blocklist-item-moz-full-description = सभी ट्रैकर्स का पता लगाया ब्लॉक। कुछ वेबसाइटें या सामग्री ठीक से लोड नहीं हो सकती हैं।
