@@ -143,6 +143,11 @@ newtab-empty-section-highlights = 开始网上冲浪之旅吧，之后这里会�
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = 所有文章都读完啦！晚点再来，{ $provider } 将推荐更多热门文章。等不及了？选择一个热门话题，找到更多网上的好文章。
 
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-try-again-button = 重试
+newtab-discovery-empty-section-topstories-loading = 正在载入…
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
