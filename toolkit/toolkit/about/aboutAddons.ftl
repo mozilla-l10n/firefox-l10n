@@ -10,7 +10,7 @@ search-header =
 search-header-shortcut =
     .key = f
 loading-label =
-    .value = Đang mở…
+    .value = Đang tải…
 list-empty-installed =
     .value = Bạn không có tiện ích nào thuộc kiểu này được cài đặt
 list-empty-available-updates =
@@ -155,9 +155,6 @@ private-browsing-description2 =
     tiện ích mở rộng sẽ không chạy trong khi duyệt web riêng tư và sẽ không có quyền truy cập vào các hoạt động trực tuyến của bạn.
     Chúng tôi đã thực hiện thay đổi này để giữ trình duyệt của bạn riêng tư.
     <label data-l10n-name="private-browsing-learn-more">Tìm hiểu cách quản lý cài đặt tiện ích mở rộng.</label>
-extensions-view-discover =
-    .name = Tải thêm tiện ích
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Được đề xuất
     .tooltiptext = { extensions-view-discopane.name }
