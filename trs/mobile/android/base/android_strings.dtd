@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Guruhuât gunumânt">
 <!ENTITY firstrun_urlbar_message2 "Guruhuât nadunïnjt &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Guruhuât gunumânt riña &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "‘Ngō navegador guenda telefono Mozilla, nī nitāj si nūn ñanj ‘ngō sa yi’ìi nī huā nikā ruhuaj da’ gā chre nī gā ni’nïnj web.">
+<!ENTITY newfirstrun_urlbar_subtext "Hìo, huì, nī sa huin ngàt huin.">
 <!ENTITY firstrun_panel_title_privacy "Sa hùii">
 <!ENTITY firstrun_privacy_message "Gache nû dadin\&apos; nitaj à\&apos; si \&apos;ngo ni\&apos;iaj si \&apos;iát">
 <!ENTITY firstrun_privacy_subtext "Sa aché nun huìt ngà sa narán ngà aché nunt nī naran riña daran’ nej sa naga’nāj sò’ nga aché nunt, nī nitāj si dunanun ruhuaj riña gan’ānjt.">
+<!ENTITY newfirstrun_privacy_subtext "Riña aché nu huìt nī naran riña nej sa naga\&apos;nāj sò\&apos; riña lînea.">
 <!ENTITY firstrun_panel_title_customize "Nagi\&apos;iô\&apos; daj huin ruhuô\&apos;">
 <!ENTITY firstrun_customize_message "Gi\&apos;iaj &brandShortName; si\&apos;iaj.">
 <!ENTITY firstrun_customize_subtext "Nagi’iaj &brandShortName; daj garan’ ruhuât ngà nej complemento. Narán riña anuncio, nachrūn a’ngô sa ruhuât nī nadunā dàj gā riña gachē nunt da’ gini’in guìi sò’.">
@@ -18,8 +21,10 @@
 <!ENTITY firstrun_data_message "Ninaj doj dâtos, niko sa nun sa\&apos;">
 <!ENTITY firstrun_data_subtext2 "Si naduninjt nej ñan du\&apos;uo\&apos; da\&apos; si gutin\&apos; nikôt datos nga atûj riñan internet.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY updatednewfirstrun_sync_title "Kuênta">
 <!ENTITY firstrun_sync_message2 "Nakāj danè’ gudunâjt.">
 <!ENTITY firstrun_sync_subtext2 "Garasun Sync da’ nana’uì’t nej marcador, da’nga’ huìi nī a’ngô nej sa nū sà’ riña&brandShortName; riña daran’ nej si agâ’t">
+<!ENTITY newfirstrun_sync_subtext "Nagi\&apos;iaj nuguan\&apos;àn nej rasuun na\&apos;nín sà\&apos;t riña si gagâ\&apos;t li guendâ eskritôrio, da\&apos; gā huì ginunj.">
 <!ENTITY firstrun_signin_message "Gatu ni gayi\&apos;ít">
 <!ENTITY firstrun_signin_button "Gatu\&apos; riña Sync">
 <!ENTITY  onboard_start_button_browser "Gayi\&apos;i gache nunt">
@@ -61,8 +66,13 @@
 <!ENTITY  sending_crash_report "A\&apos;nint sa gire\&apos; \u2026">
 <!ENTITY  crash_close_label "Ganarun">
 <!ENTITY  crash_restart_label "Nayi\&apos;i naka &brandShortName;">
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 
 <!ENTITY url_bar_default_text2 "Gachrūn nuguan\&apos; ruhuât nanà\&apos;uìt">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -97,6 +107,8 @@
 <!ENTITY bookmark_folder_updated "\&apos;Ngà nahuin nakà carpeta">
 <!ENTITY bookmark_parent_folder "Karpetâ ña\&apos;aan">
 <!ENTITY bookmark_add_folder "Na\&apos;nin a\&apos;ngô karpetâ nakàa">
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
 
 <!ENTITY reader_saved_offline "nanusà\&apos;aj riña najña\&apos;aan.">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -290,11 +302,6 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Gini\&apos;in doj dàj hua rayi\&apos;î &brandShortName; asi a\&apos;ngô &vendorShortName; nej sa huaa">
-<!-- Localization note (pref_feature_tips_notification_enabling_hint):
-     Describe the action the user should do to enable this preference
-     Will be used in the context "<Turn on> ... to enable this feature" -->
-<!ENTITY pref_feature_tips_notification_enabling_hint "Nachrun">
-
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
@@ -322,11 +329,6 @@
 <!ENTITY pref_pwa "Aplikasiûn web chruun">
 <!ENTITY pref_pwa_summary "Ga\&apos;nin da\&apos; naginùn aplikasiûn riña pantâya">
 
-<!ENTITY tracking_protection_prompt_title "hiaj ni gà\&apos; hua arrán riña sa naga\&apos;naj a">
-<!ENTITY tracking_protection_prompt_text "Narrán riña daran\&apos; sa ga\&apos;ue naga\&apos;naj da\&apos; si ganï chì\&apos; ruhuât">
-<!ENTITY tracking_protection_prompt_tip_text "Si ruhuât gini\&apos;înt doj daj dugumît sa arajsunt ni guij ni\&apos;iaj hiuj na">
-<!ENTITY tracking_protection_prompt_action_button "¡Niká!">
-
 <!ENTITY tab_queue_toast_message3 "Rakij ñanj nanín riñan &brandShortName;">
 <!ENTITY tab_queue_toast_action "Na\&apos;nin hiaj">
 <!ENTITY tab_queue_prompt_title "¡Na\&apos;nin ga\&apos;í enlace aj?">
@@ -340,6 +342,8 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Gun\&apos; riña nagui\&apos;io daj anin ruo\&apos;">
+<!-- Localization note (tab_queue_notification_prompt): This is the text of the default notification
+shown from Android O while a tab is being queued.-->
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -398,15 +402,15 @@
 <!ENTITY pref_private_data_searchHistory "Nej sa ni\&apos;io\&apos; gà\&apos; nana\&apos;uî\&apos;">
 <!ENTITY pref_private_data_formdata2 "Nej sa gà\&apos; ni\&apos;io\&apos; rayi\&apos;î nej formulario">
 <!ENTITY pref_private_data_cookies2 "Cookies ni nej sesión hua ni\&apos;nïnj">
-<!ENTITY pref_private_data_passwords2 "Sesión gà\&apos; gayi\&apos;ì\&apos; nu sà\&apos;a">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Nuguan\&apos; a\&apos;min rayi\&apos;î nej sitio web nitaj si \&apos;iaj suun">
 <!ENTITY pref_private_data_siteSettings2 "Nagi\&apos;iô\&apos; dàj huin ruhuô\&apos; sitio">
 <!ENTITY pref_private_data_downloadFiles2 "Nej sa naduni\&apos;">
 <!ENTITY pref_private_data_syncedTabs "Nej rakïj ñanj guña huaa">
 
-<!ENTITY pref_default_browser "Na nagi\&apos;iát \&apos;ngo sa riña nana\&apos;uì\&apos; yitïnjt">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Guij ni\&apos;iaj sa dugu\&apos;nïn\&apos; rukû Mozilla">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY pref_about_firefox "Ra yi\&apos;î &brandShortName;">
 <!ENTITY pref_vendor_faqs "Nej sa achínaj anj guìi doj">
 <!ENTITY pref_vendor_feedback "Ganin sa anin ruo\&apos;">
@@ -501,6 +505,9 @@
 <!ENTITY find_next "Ne\&apos; ñaan">
 <!ENTITY find_close "Ganarrûn\&apos;">
 
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY media_sending_to "A´nin riñan aga\&apos;">
@@ -573,6 +580,7 @@
 <!ENTITY bookmark_edit_location "Dane\&apos; huin">
 <!ENTITY bookmark_edit_keyword "Nuguan huii">
 <!ENTITY bookmark_select_folder "Nagui karpêta">
+
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -901,15 +909,9 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_description "Duyichin\&apos; akuan\&apos; chra\&apos;a">
 
 <!-- Notification channels names -->
-<!ENTITY default_notification_channel "&brandShortName;">
-
-<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Natsij ni\&apos;iajt">
 <!ENTITY mls_notification_channel "&vendorShortName; Sa rugujñu\&apos;unj nana\&apos;ui\&apos; \&apos;ngo sa huin ruhuô\&apos;">
 <!ENTITY download_notification_channel "Nadunïnj">
-<!ENTITY media_notification_channel "Sa duguachráa ni narii">
-<!-- These push notifications come without a specific channel and/or name from Leanplum -->
-<!ENTITY leanplum_default_notifications_channel "&brandShortName; Nuguan push huaa">
 <!ENTITY media_notification_channel2 "Sa gunïn\&apos; ngà sa ni\&apos;io\&apos;">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; nuguan\&apos; rugûñu\&apos;unj dàj natsít">
