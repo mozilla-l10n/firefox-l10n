@@ -18,3 +18,4 @@ reader-view = Lukunäkymä
 open-location = Kirjoita osoite tai hakusana
 share = Jaa
 close-window = Sulje ikkuna
+open-sidebar = Sivupaneelit

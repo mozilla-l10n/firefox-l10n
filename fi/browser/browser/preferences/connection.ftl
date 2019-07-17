@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = Ei välitystä osoitteille
     .accesskey = v
 connection-proxy-noproxy-desc = Esimerkiksi: 192.168.1.0/24, .mozilla.org, .fi
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = Yhteyksiä osoitteisiin localhost, 127.0.0.1 ja ::1 ei koskaan ohjata välityspalvelimen kautta.
 connection-proxy-autotype =
     .label = Nouda välityspalvelinasetukset osoitteesta
     .accesskey = N
@@ -70,12 +72,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Käytä DNS:ää HTTPS:n välityksellä
     .accesskey = H
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = Käytä oletusta ({ $url })
-    .accesskey = y
-    .tooltiptext = Käytä oletusosoitetta DNS-kyselyjen selvittämiseen HTTPS:n välityksellä
 connection-dns-over-https-url-resolver = Käytä palveluntarjoajaa
     .accesskey = p
 # Variables:
