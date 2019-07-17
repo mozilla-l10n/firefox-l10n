@@ -31,6 +31,8 @@
 <!ENTITY fillLoginMenu.accesskey      "u">
 <!ENTITY fillSuggestedPassword.label  "Koristi predloženu lozinku">
 <!ENTITY fillSuggestedPassword.accesskey "p">
+<!ENTITY fillGeneratedPassword.label  "Koristi sigurno generiranu lozinku">
+<!ENTITY fillGeneratedPassword.accesskey "s">
 <!ENTITY fillPasswordMenu.label       "Popuni lozinku">
 <!ENTITY fillPasswordMenu.accesskey   "z">
 <!ENTITY fillUsernameMenu.label       "Popuni korisničko ime">
