@@ -18,6 +18,7 @@ security-software-title = Sigurnosni softver
 security-software-type = Vrsta
 security-software-name = Naziv
 security-software-antivirus = Antivirus
+security-software-antispyware = Antispyware
 security-software-firewall = Vatrozid
 features-title = { -brand-short-name } mogućnosti
 features-name = Naziv
@@ -40,6 +41,8 @@ app-basics-update-dir =
     }
 app-basics-update-history = Povijest ažuriranja
 app-basics-show-update-history = Prikaži povijest ažuriranja
+# Represents the path to the binary used to start the application.
+app-basics-binary = Binarna aplikacija
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Direktorij profila
@@ -53,8 +56,10 @@ app-basics-memory-use = Zauzeće memorije
 app-basics-performance = Performanse
 app-basics-service-workers = Registrirani service workeri
 app-basics-profiles = Profili
+app-basics-launcher-process-status = Pokretački proces
 app-basics-multi-process-support = Više procesni prozori
 app-basics-remote-processes-count = Udaljeni procesi
+app-basics-enterprise-policies = Pravila poduzeća
 app-basics-location-service-key-google = Google Location Service Key
 app-basics-safebrowsing-key-google = Google Safebrowsing Key
 app-basics-key-mozilla = Mozilla Location Service Key
@@ -82,6 +87,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Zapis odluka
 graphics-crash-guards-title = Onemogućene značajke čuvara rušenja
 graphics-workarounds-title = Zaobilazna rješenja
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Protokol prozora
 place-database-title = Baza podataka mjesta
 place-database-integrity = Cjelovitost
 place-database-verify-integrity = Provjeri cjelovitost
@@ -119,7 +126,13 @@ media-device-rate = Stopa
 media-device-latency = Latencija
 intl-title = Internacionalizacija i lokalizacija
 intl-app-title = Postavke aplikacije
+intl-locales-requested = Traženi jezici
+intl-locales-available = Dostupni jezici
+intl-locales-supported = Jezik aplikacije
+intl-locales-default = Zadani jezik
 intl-os-title = Operacijski sustav
+intl-os-prefs-system-locales = Jezici sustava
+intl-regional-prefs = Regionalne postavke
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -181,6 +194,7 @@ main-thread-no-omtc = glavna nit, bez OMTC
 yes = Da
 no = Ne
 unknown = Nepoznato
+virtual-monitor-disp = Prikaz virtualnog monitora
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -196,9 +210,20 @@ gpu-device-id = ID uređaja
 gpu-subsys-id = Subsys ID
 gpu-drivers = Upravljački programi
 gpu-ram = RAM
+gpu-driver-vendor = Izdavatelj upravljačkog programa
 gpu-driver-version = Inačica upravljačkog programa
 gpu-driver-date = Datum upravljačkog programa
 gpu-active = Aktivan
+webgl1-wsiinfo = WebGL 1 WSI informacije upravljačkog programa
+webgl1-renderer = WebGL 1 Renderer upravljačkog programa
+webgl1-version = WebGL 1 inačica upravljačkog programa
+webgl1-driver-extensions = WebGL 1 dodaci upravljačkog programa
+webgl1-extensions = WebGL 1 dodaci
+webgl2-wsiinfo = WebGL 2 WSI informacije upravljačkog programa
+webgl2-renderer = WebGL 2 Renderer upravljačkog programa
+webgl2-version = WebGL 2 inačica upravljačkog programa
+webgl2-driver-extensions = WebGL 2 dodaci upravljačkog programa
+webgl2-extensions = WebGL 2 dodaci
 blocklisted-bug = Blokiran zbog poznatih problema
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
@@ -211,6 +236,8 @@ d3d11video-crash-guard = D3D11 video dekoder
 d3d9video-crash-buard = D3D9 video dekoder
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Vrati na početne prilikom sljedećeg pokretanja
+gpu-process-kill-button = Prekini GPU proces
+gpu-device-reset = Ponovno pokretanje uređaja
 max-audio-channels = Maksimalno kanala
 channel-layout = Željeni raspored kanala
 min-lib-versions = Očekivana najmanja inačica

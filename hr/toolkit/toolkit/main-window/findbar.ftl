@@ -11,10 +11,14 @@ findbar-previous =
     .tooltiptext = Pronađi prethodno javljanje ovog izraza
 findbar-find-button-close =
     .tooltiptext = Zatvori traku pretraživanja
-findbar-highlight-all =
+findbar-highlight-all2 =
     .label = Istakni sve
-    .accesskey = I
-    .tooltiptext = Istakni sve pronađene fraze
+    .accesskey =
+        { PLATFORM() ->
+            [macos] I
+           *[other] I
+        }
+    .tooltiptext = Istakni sva ponavljanja fraze
 findbar-case-sensitive =
     .label = Osjetljivo na veličinu slova
     .accesskey = j

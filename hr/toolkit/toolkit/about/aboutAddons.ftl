@@ -261,6 +261,19 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Dodaci i teme su kao aplikacije za vaš preglednik i oni vam omogućavaju
+    da zaštitite lozinke, preuzimate video na disk, pronađete akcije, blokirate
+    naporne reklame, izmjenite kako vaš preglednik izgleda i puno više. Ovi mali
+    programi su često razvijeni od treće strane. Ovdje možete pronaći
+    { -brand-product-name } izbor <a data-l10n-name="learn-more-trigger">preporučenih dodataka</a>
+    za dodatnu sigurnost, perfomanse i funkcionalnost.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Nekki prijedlozi su personalizirani. Bazirani su na drugim dodacima koje
+    ste već instalirali, postavkama profila ili statistici korištenja.
 discopane-notice-learn-more = Saznajte više
 privacy-policy = Politika privatnosti
 # Refers to the author of an add-on, shown below the name of the add-on.
@@ -350,5 +363,9 @@ available-updates-heading = Dostupne dopune
 recent-updates-heading = Nedavne dopune
 release-notes-loading = Učitavanje…
 release-notes-error = Došlo je do greške pri učitavanju bilješki izdanja.
+addon-permissions-empty = Ovaj dodatak ne zahtjeva nikakve dozvole.
 recommended-extensions-heading = Preporučeni dodatci
 recommended-themes-heading = Preporučene teme
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Osjećate li se kreativno? <a data-l10n-name="link">Izradite vlastitu temu s Firefox Color.</a>
