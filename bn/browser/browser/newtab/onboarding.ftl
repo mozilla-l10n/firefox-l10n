@@ -52,6 +52,7 @@ onboarding-sync-form-sub-header = { -sync-brand-name } অব্যাহত র
 ## description.
 
 onboarding-benefit-products-title = দরকারী পণ্য
+onboarding-benefit-knowledge-title = ব্যবহারিক জ্ঞান
 
 ## These strings belong to the individual onboarding messages.
 
@@ -71,6 +72,7 @@ onboarding-ghostery-text = Ghostery এর মত এক্সটেনশন �
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = সিঙ্ক
 onboarding-fxa-text = আপনার বুকমার্কস, পাসওয়ার্ড এবং যেখানেই আপনি { -brand-short-name } ট্যাব খোলেন না কেন তা সিঙ্ক করতে একটি { -fxaccount-brand-name } একাউন্ট সাইন আপ করে নিন।
+onboarding-tracking-protection-title2 = ট্র্যাকিং থেকে সুরক্ষা
 onboarding-tracking-protection-button2 = কিভাবে এটা কাজ করে
 onboarding-data-sync-button2 = { -sync-brand-short-name } এ সাইন ইন করুন
 onboarding-browse-privately-button = ব্যাক্তিগত উইন্ডোতে খুলুন

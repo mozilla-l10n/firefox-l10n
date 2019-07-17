@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = পূর্বাবস্থায় ফেরানো U
 customize-mode-lwthemes-my-themes =
     .value = আমার থিমগুলি
+customize-mode-touchbar-cmd =
+    .label = টাচ বার কাস্টোমাইজ করুন...
