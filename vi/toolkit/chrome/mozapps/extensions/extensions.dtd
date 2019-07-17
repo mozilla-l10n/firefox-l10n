@@ -62,7 +62,7 @@
 <!ENTITY addon.updateAvailable.label          "Có một cập nhật cài đặt được">
 <!ENTITY addon.checkingForUpdates.label       "Đang kiểm tra cập nhật…">
 <!ENTITY addon.releaseNotes.label             "Ghi chú phát hành:">
-<!ENTITY addon.loadingReleaseNotes.label      "Đang mở…">
+<!ENTITY addon.loadingReleaseNotes.label      "Đang tải…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Xin lỗi, nhưng có một lỗi khi mở ghi chú phát hành.">
 
 <!ENTITY addon.createdBy.label                "Bởi ">
