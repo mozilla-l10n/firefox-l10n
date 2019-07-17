@@ -143,6 +143,15 @@ newtab-empty-section-highlights = Započnite pretraživati i pokazat ćemo vam n
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Provjerite kasnije za više najpopularnijih priča od { $provider }. Ne možete čekati? Odaberite popularne teme kako biste pronašli više kvalitetnih priča s cijelog weba.
 
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-header = U toku ste sa svime!
+newtab-discovery-empty-section-topstories-content = Provjerite kasnije za više priča.
+newtab-discovery-empty-section-topstories-try-again-button = Pokušaj ponovno
+newtab-discovery-empty-section-topstories-loading = Učitavanje…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Uh! Skoro smo učitali ovaj odjeljak, ali nismo uspjeli do kraja.
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.

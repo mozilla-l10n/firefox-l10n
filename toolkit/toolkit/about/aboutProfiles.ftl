@@ -8,6 +8,11 @@ profiles-create = Stvori novi profil
 profiles-restart-title = Ponovno pokreni
 profiles-restart-in-safe-mode = Ponovno pokreni s isključenim dodacima…
 profiles-restart-normal = Ponovno pokreni u normalan način rada…
+profiles-conflict = Druga { -brand-product-name } kopija je napravila izmjene u profilu. Trebate ponovno pokrenuti { -brand-short-name } prije nego li napravite nove izmjene.
+profiles-flush-fail-title = Izmjene nisu spremljene
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Neočekivana greška je spriječila spremanje vaših izmjena.
+profiles-flush-restart-button = Ponovno pokreni { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profil: { $name }
@@ -26,6 +31,8 @@ profiles-rename = Preimenuj
 profiles-remove = Ukloni
 profiles-set-as-default = Postavi kao zadani profil
 profiles-launch-profile = Pokreni profil u novom pregledniku
+profiles-cannot-set-as-default-title = Nije moguće postaviti kao zadani
+profiles-cannot-set-as-default-message = Zadani profil se ne može izmijeniti za { -brand-short-name }
 profiles-yes = da
 profiles-no = ne
 profiles-rename-profile-title = Preimenuj profil

@@ -233,9 +233,28 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Upravljanje tipkovničkim kraticama dodatka
     .accesskey = U
+shortcuts-no-addons = Nemate omogućenih dodataka
+shortcuts-no-commands = Sljedeći dodaci nemaju prečice:
+shortcuts-input =
+    .placeholder = Upišite prečac
+shortcuts-browserAction = Aktiviraj dodatak
+shortcuts-pageAction = Aktiviraj radnju stranice
 shortcuts-sidebarAction = Prikaži/sakrij bočnu traku
+shortcuts-modifier-mac = Uključi Ctrl, Alt ili ⌘
+shortcuts-modifier-other = Uključi Ctrl ili Alt
 shortcuts-invalid = Nepodržana kombinacija
 shortcuts-letter = Upišite slovo
+shortcuts-system = Nije moguće izmijeniti { -brand-short-name } prečac
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Već se koristi od strane { $addon }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Prikaži još { $numberToShow }
+        [few] Prikaži još { $numberToShow }
+       *[other] Prikaži još { $numberToShow }
+    }
 shortcuts-card-collapse-button = Prikaži manje
 go-back-button =
     .tooltiptext = Idi natrag

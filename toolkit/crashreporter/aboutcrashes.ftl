@@ -6,6 +6,7 @@ crash-reports-title = Izvještaji rušenja
 delete-button-label = Očisti sve
 delete-confirm-title = Jeste li sigurni?
 delete-unsubmitted-description = Ovo će obrisati sve neposlane izvještaje i oni više neće biti dostupni.
+delete-submitted-description = Uvim ćete ukloniti popis poslanih izvještaja rušenja, ali nećete obrisati poslane podatke. Ova radnja se nemože poništiti.
 crashes-unsubmitted-label = Neposlani izvještaji rušenja
 id-heading = ID izvještaja
 date-crashed-heading = Datum rušenja
