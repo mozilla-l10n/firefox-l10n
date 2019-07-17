@@ -143,6 +143,15 @@ newtab-empty-section-highlights = Zachopśo pśeglědowaś, a pokažomy někotar
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = To jo nachylu wšykno. Wrośćo se pózdźej wjelicnych tšojeńkow dla wót { $provider }. Njamóžośo cakaś? Wubjeŕśo woblubowanu temu, aby dalšne wjelicne tšojeńka we webje namakał.
 
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-header = Sćo dogónjony!
+newtab-discovery-empty-section-topstories-content = Glědajśo póozdźej za wěcej tšojenjami.
+newtab-discovery-empty-section-topstories-try-again-button = Hyšći raz wopytaś
+newtab-discovery-empty-section-topstories-loading = Zacytujo se…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Hopla! Smy womało zacytali toś ten wótrězk, ale nic cele.
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
