@@ -45,7 +45,7 @@ newtab-topsites-save-button = Salva
 newtab-topsites-preview-button = Anteprima
 newtab-topsites-add-button = Aggiungi
 
-## Top Sites - Delete history confirmation dialog. 
+## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Eliminare tutte le occorrenze di questa pagina dalla cronologia?
 # "This action" refers to deleting a page from history.
@@ -85,7 +85,7 @@ newtab-menu-remove-bookmark = Elimina segnalibro
 # Bookmark is a verb here.
 newtab-menu-bookmark = Aggiungi ai segnalibri
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 newtab-menu-copy-download-link = Copia indirizzo di origine
@@ -113,7 +113,7 @@ newtab-label-recommended = Di tendenza
 newtab-label-saved = Salvato in { -pocket-brand-name }
 newtab-label-download = Scaricata
 
-## Section Menu: These strings are displayed in the section context menu and are 
+## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = Rimuovi sezione
@@ -142,6 +142,15 @@ newtab-empty-section-highlights = Inizia a navigare e, in questa sezione, verran
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Non c’è altro. Controlla più tardi per altre storie da { $provider }. Non vuoi aspettare? Seleziona un argomento tra quelli più popolari per scoprire altre notizie interessanti dal Web.
+
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-header = Non c’è altro.
+newtab-discovery-empty-section-topstories-content = Controlla più tardi per altre storie.
+newtab-discovery-empty-section-topstories-try-again-button = Riprova
+newtab-discovery-empty-section-topstories-loading = Caricamento in corso…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Oops. Sembra che la sezione non si sia caricata completamente.
 
 ## Pocket Content Section.
 
