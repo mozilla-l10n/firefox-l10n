@@ -35,6 +35,8 @@ app-basics-name = Назва
 app-basics-version = Версія
 app-basics-build-id = ID збірки
 app-basics-update-channel = Канал оновлення
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Тека оновлення
@@ -59,7 +61,6 @@ app-basics-service-workers = Зареєстровані Service Workers
 app-basics-profiles = Профілі
 app-basics-launcher-process-status = Процес запуску
 app-basics-multi-process-support = Багатопроцесні вікна
-app-basics-process-count = Процеси веб-вмісту
 app-basics-remote-processes-count = Віддалені процеси
 app-basics-enterprise-policies = Корпоративні правила
 app-basics-location-service-key-google = Ключ служби Google Location
@@ -68,7 +69,7 @@ app-basics-key-mozilla = Ключ Служби визначення розташ
 app-basics-safe-mode = Безпечний режим
 show-dir-label =
     { PLATFORM() ->
-        [macos] Відкрити відповідну теку
+        [macos] Показати у Finder
         [windows] Відкрити теку
        *[other] Відкрити каталог
     }
@@ -246,7 +247,6 @@ uses-tiling = Використовує тайлинг
 content-uses-tiling = Використовує тайлінг (вміст)
 off-main-thread-paint-enabled = Вимальовування поза основним потоком увімкнено
 off-main-thread-paint-worker-count = Число воркерів вимальовування поза основним потоком
-low-end-machine = Виявлено менш продуктивну машину
 target-frame-rate = Цільова частота кадрів
 audio-backend = Обробка аудіо
 max-audio-channels = Максимальне число каналів
