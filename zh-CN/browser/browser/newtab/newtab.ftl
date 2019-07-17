@@ -145,8 +145,12 @@ newtab-empty-section-topstories = 所有文章都读完啦！晚点再来，{ $p
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = 都读完了！
+newtab-discovery-empty-section-topstories-content = 待会儿回来看看更多新鲜事。
 newtab-discovery-empty-section-topstories-try-again-button = 重试
 newtab-discovery-empty-section-topstories-loading = 正在载入…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = 哎呀！无法完全加载此版块。
 
 ## Pocket Content Section.
 
