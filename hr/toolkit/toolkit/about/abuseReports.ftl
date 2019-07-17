@@ -64,6 +64,14 @@ abuse-report-deceptive-example = Primjer: Obmanjujući opis ili slike
 abuse-report-broken-reason-extension = Ne radi, kvari web stranice ili usporava { -brand-product-name }
 abuse-report-broken-reason-theme = Ne radi ili kvari prikaz preglednika
 abuse-report-broken-example = Primjer: Značajke su spore, teško ih je koristiti ili ne rade, dijelovi web stranica se ne žele učitati ili izgledaju kako ne bi trebali
+abuse-report-broken-suggestions-extension =
+    Zvuči kao da ste pronašli pogrešku u programu. Uz slanje prijave ovdje, najbolji način
+    za rješavanje problema s funkcionalnosti je da kontaktirate razvijatelja dodatka.
+    <a data-l10n-name="support-link">Posjetite web stranicu dodatka</a> kako biste pronašli informacije o razvijatelju.
+abuse-report-broken-suggestions-theme =
+    Zvuči kao da ste pronašli pogrešku u programu. Uz slanje prijave ovdje, najbolji način
+    za rješavanje problema s funkcionalnosti je da kontaktirate razvijatelja teme.
+    <a data-l10n-name="support-link">Posjetite web stranicu teme</a> kako biste pronašli informacije o razvijatelju.
 abuse-report-policy-reason = Sadržaj mržnje, nasilja ili ilegalni
 abuse-report-policy-suggestions =
     Napomena: Problemi s autorskim pravima i zaštitnim znakovima moraju se prijaviti u
