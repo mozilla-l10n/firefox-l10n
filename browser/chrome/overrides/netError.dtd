@@ -9,15 +9,12 @@
 <!ENTITY retry.label "Yritä uudestaan">
 <!ENTITY returnToPreviousPage.label "Palaa">
 <!ENTITY returnToPreviousPage1.label "Palaa (suositellaan)">
-<!ENTITY advanced.label "Yksityiskohdat">
-<!ENTITY continue2.label "Lisää…">
 <!ENTITY advanced2.label "Lisätietoja…">
-<!ENTITY moreInformation.label "Lisätietoja">
 <!ENTITY viewCertificate.label "Näytä varmenne">
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Yhteyden muodostus epäonnistui">
+<!ENTITY connectionFailure.title "Yhdistäminen epäonnistui">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Osoitteen käyttö on rajoitettu">
@@ -148,13 +145,11 @@
 </ul>
 ">
 
-<!ENTITY certerror.longpagetitle1 "Yhteys ei ole suojattu">
 <!ENTITY certerror.longpagetitle2 "Varoitus: mahdollinen tietoturvariski">
 <!ENTITY certerror.sts.longpagetitle  "Ei yhdistetty: mahdollinen turvallisuusongelma">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "Sivuston <span class='hostname'/> omistaja on määrittänyt sivustonsa asetukset väärin. &brandShortName; ei muodostanut yhteyttä sivustoon suojellakseen tietojasi varkaudelta.">
 <!ENTITY certerror.introPara2 "&brandShortName; havaitsi mahdollisen turvallisuusuhan, eikä jatkanut sivustolle <span class='hostname'/>. Jos käyt tällä sivustolla, henkilökohtaisia tietojasi kuten salasanoja, sähköpostiviestejä tai luottokorttitietoja saatetaan yrittää varastaa.">
 <!ENTITY certerror.sts.introPara "&brandShortName; havaitsi mahdollisen turvallisuusuhan, eikä jatkanut sivustolle <span class='hostname'/>, koska tämä sivusto vaatii salatun yhteyden.">
 
@@ -195,8 +190,6 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "Sisältö vioittunut -virhe">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Avattavaa sivua ei voida näyttää, koska tiedonsiirrossa tapahtui virhe.</p><ul><li>Ilmoitathan ongelmasta sivuston omistajalle.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Lisää poikkeus…">
 <!ENTITY securityOverride.exceptionButton1Label "Ota riski ja jatka">
 
 <!ENTITY errorReporting.automatic2 "Auta Mozillaa tunnistamaan ja estämään haitallisia sivustoja ilmoittamalla tällaisista virheistä">
@@ -210,19 +203,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Lisätiedot: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; ei yhdistänyt osoitteeseen <span id='wrongSystemTime_URL'/>, koska tietokoneesi kello näyttää olevan väärässä ajassa ja koska tämä estää suojatun yhteyden muodostamisen.</p> <p>Tietokoneesi mukaan nyt on <span id='wrongSystemTime_systemDate'/>, kun pitäisi olla <span id='wrongSystemTime_actualDate'/>. Voit korjata ongelman asettamalla kellon oikeaan aikaan tietokoneen aika-asetuksista.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; ei yhdistänyt osoitteeseen <span id='wrongSystemTimeWithoutReference_URL'/>, koska tietokoneesi kello näyttää olevan väärässä ajassa ja koska tämä estää suojatun yhteyden muodostamisen.</p> <p>Tietokoneesi mukaan nyt on <span id='wrongSystemTimeWithoutReference_systemDate'/>. Voit korjata ongelman asettamalla kellon oikeaan aikaan tietokoneen aika-asetuksista.</p>">
-
-<!ENTITY certerror.pagetitle1  "Suojaamaton yhteys">
 <!ENTITY certerror.pagetitle2  "Varoitus: mahdollinen tietoturvariski">
 <!ENTITY certerror.sts.pagetitle  "Ei yhdistetty: mahdollinen turvallisuusongelma">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tämä sivusto määrää
-käyttäen HTTP Strict Transport Security (HSTS) -ominaisuutta, että
-&brandShortName; saa muodostaa siihen vain suojatun yhteyden. Tämän takia
-tälle varmenteelle ei voi luoda poikkeusta.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "Sivusto <span class='hostname'></span> noudattaa tietoturvakäytäntöä nimeltään HTTP Strict Transport Security (HSTS), mikä tarkoittaa, että &brandShortName; voi muodostaa siihen vain suojatun yhteyden. Tälle sivustolle siirtymistä varten ei voi lisätä poikkeusta.">
 <!ENTITY certerror.copyToClipboard.label "Kopioi teksti leikepöydälle">
 
