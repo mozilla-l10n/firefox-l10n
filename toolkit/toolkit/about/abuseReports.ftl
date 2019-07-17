@@ -36,4 +36,10 @@ abuse-report-messagebar-action-cancel = Odustani
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-damage-reason = Oštećuje moje računalo i podatke
+abuse-report-policy-reason = Sadržaj mržnje, nasilja ili ilegalni
+abuse-report-policy-suggestions =
+    Napomena: Problemi s autorskim pravima i zaštitnim znakovima moraju se prijaviti u
+    odvojenom procesu. <a data-l10n-name="report-infringement-link">Koristite ova upute</a> za prijavu problema.
+abuse-report-unwanted-reason = Nikad nisam želio ovaj dodatak i ne mogu ga ukloniti
+abuse-report-unwanted-example = Primjer: Aplikacija instalirana bez mog dopuštenja
 abuse-report-other-reason = Nešto drugo
