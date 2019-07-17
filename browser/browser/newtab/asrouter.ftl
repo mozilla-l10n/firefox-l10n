@@ -62,3 +62,10 @@ cfr-doorhanger-bookmark-fxa-link-text = এখনই বুকমার্ক �
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = বন্ধ বোতাম
     .title = শিরোনাম
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = নতুন কি আছে
+    .tooltiptext = নতুন যা আছে
+cfr-whatsnew-panel-header = নতুন কি আছে
