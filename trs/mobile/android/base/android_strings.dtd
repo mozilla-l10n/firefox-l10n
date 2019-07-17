@@ -25,8 +25,11 @@
 <!ENTITY firstrun_sync_message2 "Nakāj danè’ gudunâjt.">
 <!ENTITY firstrun_sync_subtext2 "Garasun Sync da’ nana’uì’t nej marcador, da’nga’ huìi nī a’ngô nej sa nū sà’ riña&brandShortName; riña daran’ nej si agâ’t">
 <!ENTITY newfirstrun_sync_subtext "Nagi\&apos;iaj nuguan\&apos;àn nej rasuun na\&apos;nín sà\&apos;t riña si gagâ\&apos;t li guendâ eskritôrio, da\&apos; gā huì ginunj.">
+<!ENTITY updatednewfirstrun_sync_subtext "Gayi\&apos;ì sesiûn riña si kuendât da\&apos; hue\&apos;êt chre ga\&apos;ue garasunt &brandShortName;">
 <!ENTITY firstrun_signin_message "Gatu ni gayi\&apos;ít">
 <!ENTITY firstrun_signin_button "Gatu\&apos; riña Sync">
+<!ENTITY newfirstrun_signin_button "Nachrūn sa nagi\&apos;aj nuguan\&apos;àan">
+<!ENTITY updatednewfirstrun_signin_button "Nutà\&apos; si yuguît riña &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Gayi\&apos;i gache nunt">
 <!ENTITY firstrun_button_notnow "Si ga\&apos;ue a\&apos;kuan\&apos; \&apos;nin">
 <!ENTITY firstrun_button_next "ne\&apos;ñàan">
@@ -68,10 +71,16 @@
 <!ENTITY  crash_restart_label "Nayi\&apos;i naka &brandShortName;">
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; huā sa giran\&apos;anj">
+<!ENTITY  crash_notification_message "Guru\&apos;man ra\&apos;a da\&apos; ganatà\&apos;t gunï &vendorShortName;">
+<!ENTITY  crash_notification_negative_button_text "Si yakāj guendât">
 
 <!ENTITY url_bar_default_text2 "Gachrūn nuguan\&apos; ruhuât nanà\&apos;uìt">
 
 <!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "Nana\&apos;ui\&apos; riña web">
+<!ENTITY search_widget_default_cropped_text "Nanà\&apos;uì\&apos;">
+<!ENTITY search_widget_logo_description "Nana\&apos;uì\&apos; riña web ngà &brandShortName;">
 
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
@@ -109,6 +118,7 @@
 <!ENTITY bookmark_add_folder "Na\&apos;nin a\&apos;ngô karpetâ nakàa">
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(nitāj si yugui rà man)">
 
 <!ENTITY reader_saved_offline "nanusà\&apos;aj riña najña\&apos;aan.">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -268,6 +278,7 @@
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Ngà \&apos;iaj sunj">
 <!ENTITY pref_cookies_not_accept_foreign "Ngà \&apos;iaj sunj, nagi\&apos;iaj anej man sa ânej e">
+<!ENTITY pref_cookies_not_accept_trackers "Ngà \&apos;iaj sunj, màn si nitāj nej kokîe nikò\&apos; ñù\&apos; hua">
 <!ENTITY pref_cookies_disabled "Nitaj si huáj">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -344,6 +355,7 @@
 <!ENTITY tab_queue_prompt_settings_button "Gun\&apos; riña nagui\&apos;io daj anin ruo\&apos;">
 <!-- Localization note (tab_queue_notification_prompt): This is the text of the default notification
 shown from Android O while a tab is being queued.-->
+<!ENTITY tab_queue_notification_prompt "Nutaj a\&apos;ngô rakïj ñanj nda rukùu&#8230;">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -408,6 +420,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Nej sa naduni\&apos;">
 <!ENTITY pref_private_data_syncedTabs "Nej rakïj ñanj guña huaa">
 
+<!ENTITY pref_default_browser2 "Nagi\&apos;aj &brandShortName; da\&apos; gahuin man riña nana\&apos;ui\&apos; yitïnjt sa ruhuât">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
