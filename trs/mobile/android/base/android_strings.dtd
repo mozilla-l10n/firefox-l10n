@@ -424,6 +424,7 @@ shown from Android O while a tab is being queued.-->
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Guru\&apos;man ra\&apos;a aplikasiûn Nabegadôr &amp; naguī &brandShortName;">
 <!ENTITY pref_about_firefox "Ra yi\&apos;î &brandShortName;">
 <!ENTITY pref_vendor_faqs "Nej sa achínaj anj guìi doj">
 <!ENTITY pref_vendor_feedback "Ganin sa anin ruo\&apos;">
@@ -520,6 +521,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Localization note (find_error) : Error message shown when there is no result for the
      searched for text in this webpage -->
+<!ENTITY find_error "Nu narì\&apos;ij nugua\&apos;anj">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -594,6 +596,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "Nuguan huii">
 <!ENTITY bookmark_select_folder "Nagui karpêta">
 
+<!ENTITY bookmark_edit_undo "Nadurê\&apos;">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -682,6 +685,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Ganahui nej ga\&apos;ninj si nanee re">
 <!ENTITY filepicker_image_title "Ganahui nej si nari riñan du\&apos;ua re">
 <!ENTITY filepicker_video_title "Ganahui nej si nari sa sikï\&apos;">
+<!ENTITY filepicker_permission_denied "Huā nïn\&apos; na\&apos;ue ga\&apos;nïn sa ruhuât gi\&apos;iát, nī nanìka riña sa nagui nej archibô riña sistêma.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Gua conectado nga">
@@ -921,6 +925,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Duyichin\&apos; akuan\&apos;">
 <!ENTITY pip_pause_button_description "Duyichin\&apos; akuan\&apos; chra\&apos;a">
 
+<!ENTITY pref_notification_settings_link "Gi\&apos;nïnj ra\&apos;a nej sa natsij nej notifikasiûn">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Natsij ni\&apos;iajt">
 <!ENTITY mls_notification_channel "&vendorShortName; Sa rugujñu\&apos;unj nana\&apos;ui\&apos; \&apos;ngo sa huin ruhuô\&apos;">
@@ -933,3 +938,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Sa ataj na\&apos;anj daj hua sîtio">
+<!ENTITY crash_handler_notifications_channel "&brandShortName; Sa Gahuin">
