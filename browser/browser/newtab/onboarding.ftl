@@ -24,6 +24,18 @@ onboarding-join-form-header = { -brand-product-name }ରେ ଯୋଗଦାନ �
 onboarding-join-form-body = ନିଜର ଇମେଲ ଠିକଣା ଏଠାରେ ଭରନ୍ତୁ
 onboarding-join-form-email =
     .placeholder = ଇମେଲ ଭରନ୍ତୁ
+onboarding-join-form-email-error = ବୈଧ ଇମେଲ ଆବଶ୍ୟକ
+onboarding-join-form-continue = ଆଗାନ୍ତୁ
+onboarding-start-browsing-button-label = ବ୍ରାଉଜିଂ ଆରମ୍ଭ କରନ୍ତୁ
+onboarding-cards-dismiss =
+    .title = ଖାରଜ କରିବା
+    .aria-label = ଖାରଜ କରିବା
+
+## Firefox Sync modal dialog strings.
+
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
