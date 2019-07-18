@@ -147,6 +147,8 @@ newtab-empty-section-topstories = Nakahabol ka na. Bumalik sa ibang pagkakataon 
 
 newtab-discovery-empty-section-topstories-try-again-button = Subukan mo uli
 newtab-discovery-empty-section-topstories-loading = Nagloload...
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Ops! Halos na-load na yung section na to pero parang hindi pa talaga.
 
 ## Pocket Content Section.
 

@@ -663,6 +663,9 @@ sitedata-clear =
 sitedata-settings =
     .label = I-manage ang mga Data...
     .accesskey = M
+sitedata-cookies-permissions =
+    .label = I-Manage ang mga Permission...
+    .accesskey = P
 
 ## Privacy Section - Address Bar
 

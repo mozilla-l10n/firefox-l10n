@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+process-type-web = Content ng Web
+# process used to run privileged pages,
+# such as about:home
+process-type-privileged = Privileged Content
 # process used to isolate webpages that requested special
 # permission to allocate large amounts of memory
 process-type-weblargeallocation = Malaking Alokasyon

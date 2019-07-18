@@ -66,5 +66,8 @@ policy-Proxy = Ayusin ang proxy settings.
 policy-RequestedLocales = I-set ang listahan ng mga hinihinging locale para sa application ayon sa ninanais na pagkakasunod.
 policy-SanitizeOnShutdown2 = Burahin ang navigation data kapag nag-shutdown.
 policy-SearchBar = I-set ang default location ng search bar. Pinapayagan pa rin ang user na baguhin ito.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = I-install ang mga module para sa PKCS #11.
 policy-SSLVersionMax = I-set ang maximum SSL version.
 policy-SSLVersionMin = I-set ang minimum SSL version.
+policy-SupportMenu = Magdagdag ng custom support menu item sa help menu.

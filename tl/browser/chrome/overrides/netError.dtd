@@ -9,10 +9,6 @@
 <!ENTITY retry.label "Ulitin">
 <!ENTITY returnToPreviousPage.label "Bumalik">
 <!ENTITY returnToPreviousPage1.label "Bumalik (Recommended)">
-<!ENTITY advanced.label "Naka-usad">
-<!ENTITY continue2.label "Marami pa…">
-<!ENTITY moreInformation.label "Kadagdagang Impormasyon">
-
 <!ENTITY viewCertificate.label "Ipakita ang Certificate">
 
 <!-- Specific error messages -->
@@ -74,12 +70,11 @@
 
 <!ENTITY nssFailure2.title "Nabigong Ligtas na Koneksyon">
 
-<!ENTITY certerror.longpagetitle1 "Ang iyong koneksyon ay hindi ligtas">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!ENTITY certerror.longpagetitle2 "Babala: May Potential na Security Risk">
+<!ENTITY certerror.sts.longpagetitle  "Hindi Nag-connect: Potential Security Issue">
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-
-
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Ano ang maaari mong gawin?">
@@ -93,8 +88,6 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "Corrupted Content Error">
 
 
-<!ENTITY securityOverride.exceptionButtonLabel "Magdagdag ng Exception…">
-
 <!ENTITY errorReporting.automatic2 "Mag-report ng mga error kagaya neto para makatulog sa Mozilla makilala at makilatis ang mga hinihinalaang sites">
 <!ENTITY errorReporting.learnMore "Karagdagan kaalaman…">
 
@@ -106,11 +99,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Paunang impormasyon: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-
-<!ENTITY certerror.pagetitle1  "Hindi ligtas na Koneksyon">
+<!ENTITY certerror.pagetitle2  "Babala: Mayroong Potential Security Risk">
+<!ENTITY certerror.sts.pagetitle  "Hindi nag-connect: Potential Security Issue">
 <!ENTITY certerror.copyToClipboard.label "Kopyahin sa clipboard">
 
 <!ENTITY inadequateSecurityError.title "Ang iyong koneksyon ay hindi ligtas">
@@ -119,8 +109,10 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Naka-block na Pahina">
 
+
 <!ENTITY clockSkewError.title "Mali ang oras ng iyong computer">
 
 <!ENTITY prefReset.longDesc "Mukhang ang iyong mga setting ng seguridad sa network ay maaaring magdulot nito. Nais mo bang maibalik ang mga default na setting?">
 <!ENTITY prefReset.label "Ibalik ang default settings">
 
+<!ENTITY networkProtocolError.title "Network Protocol Error">

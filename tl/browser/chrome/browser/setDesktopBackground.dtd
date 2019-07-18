@@ -8,8 +8,14 @@
 <!ENTITY stretch.label              "Mag-stretch">
 <!ENTITY fill.label                 "Punan">
 <!ENTITY fit.label                  "Pagkasyahin">
-<!ENTITY preview.label              "I-preview">
+<!-- LOCALIZATION NOTE (span.label): This refers to the wallpaper "spanning"
+                       multiple monitors when the user has more than one. Only
+                       some of the entire image will be on each monitor.
+                       This should ideally match the wording in Windows' own
+                       Desktop Background settings page. -->
+<!ENTITY span.label                 "Span">
 <!ENTITY color.label                "Kulay:">
 <!ENTITY setDesktopBackground.title "Gawing Background ng Desktop">
 <!ENTITY openDesktopPrefs.label     "Buksan ang mga Preferences ng Desktop">
 <!ENTITY closeWindow.key            "w">
+<!ENTITY previewUnavailable         "Hindi available ang preview">

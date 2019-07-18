@@ -137,6 +137,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Mag-sign in bilang si">
+<!ENTITY fxa.menu.manageAccount.label "I-manage ang Account…">
+<!ENTITY fxa.menu.syncSettings.label "mga &syncBrand.shortName.label; Setting…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Ikonekta sa Ibang Device…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -241,6 +243,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasBlocked.tooltip            "Na-block mo ang data extraction ng canvas para sa website na ito.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Na-block mo ang website na ito mula sa paggamit ng Adobe Flash plugin.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Na-block mo ang access sa MIDI para sa website na ito.">
+<!ENTITY urlbar.installBlocked.tooltip           "Hinarang mo ang pag-install ng mga add-on sa website na ito.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Ipakita ang kasaysayan">
 
@@ -768,6 +771,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Tapos na">
+<!ENTITY editBookmark.showForNewBookmarks.label       "Ipakita ang editor kapag nagse-save">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
