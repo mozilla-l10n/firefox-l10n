@@ -8,9 +8,12 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = ज़रूरी सूचना
+heading = आपके { -brand-short-name } प्रोफाइल में बदलाव
 changed-title = क्या बदला ?
 options-title = मेरे क्या विकल्प हैं
 resources = साधन
+support-link = प्रोफ़ाइल मैनेजर का उपयोग कर - समर्थन लेख
+sync-header = साइन इन करें या एक { -fxaccount-brand-name } खाता बनाएं
 sync-label = ईमेल दर्ज करें
 sync-input =
     .placeholder = ईमेल
