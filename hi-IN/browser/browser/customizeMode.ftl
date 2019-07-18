@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = पहले जैसा
 customize-mode-lwthemes-my-themes =
     .value = मेरा प्रसंग
+customize-mode-touchbar-cmd =
+    .label = टच बार को अनुकूलित करें...

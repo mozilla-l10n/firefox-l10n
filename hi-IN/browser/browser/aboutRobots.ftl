@@ -11,7 +11,7 @@
 # Nonsense line from the movie "The Day The Earth Stood Still". No translation needed.
 page-title = Gort! Klaatu barada nikto!
 # Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
-error-title-text = आप लोगों का स्वागत है!
+error-title-text = स्वागत है इंसानों!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
 error-short-desc-text = हम आपके पास शांति व सद्भाव के साथ आए हैं!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics

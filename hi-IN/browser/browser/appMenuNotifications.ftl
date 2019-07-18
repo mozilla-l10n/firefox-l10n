@@ -18,6 +18,7 @@ appmenu-update-manual =
 appmenu-update-manual-message = { -brand-shorter-name } की एक नई प्रति डाउनलोड करें और हम इसे संस्थापित करने में आपकी सहायता करेंगे.
 appmenu-update-whats-new =
     .value = नया क्या है, देखें.
+appmenu-update-unsupported-message = आपके सिस्टम पर { -brand-shorter-name } का नया संस्करण समर्थित नहीं है।
 appmenu-update-restart =
     .label = { -brand-shorter-name } का अद्यतन करने के लिए पुन: प्रारंभ करें
     .buttonlabel = पुनरारंभ करें और पुनर्स्थिति में लाएँ
