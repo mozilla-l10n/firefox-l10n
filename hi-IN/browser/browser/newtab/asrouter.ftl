@@ -47,7 +47,7 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
-cfr-doorhanger-pintab-step1 = उस टैब के ऊपर <b> राइट-क्लिक करें </ b> जिसे आप पिन करना चाहते हैं।
+cfr-doorhanger-pintab-step1 = उस टैब के ऊपर <b>राइट-क्लिक करें</b> जिसे आप पिन करना चाहते हैं।
 cfr-doorhanger-pintab-step2 = मेन्यू से <b>पिन टैब</b> चुनें।
 cfr-doorhanger-pintab-step3 = अगर साइट पर कोई अपडेट हो तो आपको पिन किए गए टैब पर एक नीला डॉट दिखाई देगा।
 cfr-doorhanger-pintab-animation-pause = ठहरें
