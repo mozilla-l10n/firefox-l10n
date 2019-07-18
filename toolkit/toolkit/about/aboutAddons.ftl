@@ -138,9 +138,6 @@ legacy-warning-show-legacy = Mostrar las extensiones heredadas
 legacy-extensions =
     .value = Extensiones heredadas
 legacy-extensions-description = Estas extensiones no cumplen los estándares actuales de { -brand-short-name } por lo que han sido desactivadas. <label data-l10n-name="legacy-learn-more">Aprender más sobre los cambios de los complementos</label>
-extensions-view-discover =
-    .name = Obtener complementos
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Actualizaciones recientes
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -228,6 +225,20 @@ shortcuts-card-collapse-button = Mostrar menos
 go-back-button =
     .tooltiptext = Regresar
 
+## Recommended add-ons page
+
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Los complementos y temas son como aplicaciones para el navegador y permiten
+    proteger tus contraseñas, descargar vídeos, encontrar ofertas, bloquear publicidad,
+    cambiar la apariencia del navegador y mucho más. Suelen ser terceros quienes desarrollan
+    estos pequeños programas de software. Estos son algunos <a data-l10n-name="learn-more-trigger">recomendados</a>
+    por { -brand-product-name }, para una seguridad, rendimiento
+    y funcionalidad excepcionales.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations = Algunas de estas recomendaciones son personalizadas. Se basan complementos instaladas, preferencias de tu perfil y estadísticas de uso.
+
 ## Add-on actions
 
 remove-addon-button = Eliminar
@@ -241,3 +252,7 @@ addon-detail-version-label = Versión
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (deshabilitado)
+
+## Pending uninstall message bar
+
+recommended-extensions-heading = Complementos recomendados
