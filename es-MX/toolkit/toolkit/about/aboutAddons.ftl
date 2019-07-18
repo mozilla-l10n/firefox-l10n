@@ -20,7 +20,7 @@ list-empty-recent-updates =
 list-empty-find-updates =
     .label = Buscar actualizaciones
 list-empty-button =
-    .label = Obtenga más información sobre complementos
+    .label = Aprender más sobre los complementos
 install-addon-from-file =
     .label = Instalar complemento desde archivo…
     .accesskey = I
@@ -215,6 +215,7 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+shortcuts-no-addons = No tienes complementos habilitados.
 shortcuts-browserAction = Activar extensión
 shortcuts-pageAction = Activar acción de página
 shortcuts-sidebarAction = Alternar la barra lateral
@@ -238,13 +239,14 @@ discopane-intro =
     y funcionalidad excepcionales.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Algunas de estas recomendaciones son personalizadas. Se basan complementos instaladas, preferencias de tu perfil y estadísticas de uso.
+discopane-notice-learn-more = Saber más
 
 ## Add-on actions
 
 remove-addon-button = Eliminar
 disable-addon-button = Deshabilitar
 enable-addon-button = Habilitar
-addons-enabled-heading = Habilitado
+addons-enabled-heading = Habilitados
 addons-disabled-heading = Deshabilitado
 addon-detail-author-label = Autor
 addon-detail-version-label = Versión
