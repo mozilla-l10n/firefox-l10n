@@ -18,3 +18,4 @@ reader-view = Zobrazenie Čítačka
 open-location = Zadajte hľadanie alebo adresu
 share = Zdieľať
 close-window = Zavrieť okno
+open-sidebar = Bočné panely
