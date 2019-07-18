@@ -143,6 +143,10 @@ newtab-empty-section-highlights = Eñepyrũ eikundaha ha rohechaukáta ndéve mb
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Ko'ág̃a reikuaapáma ipyahúva. Eikejey ag̃ave ápe eikuaávo mombe'upy pyahu { $provider } oikuave'ẽva ndéve. Ndaikatuvéima reha'ãrõ? Eiporavo peteĩ ñe'ẽmbyrã ha emoñe'ẽve oĩvéva ñande yvy ape ári.
 
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-loading = Henyhẽhína…
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
