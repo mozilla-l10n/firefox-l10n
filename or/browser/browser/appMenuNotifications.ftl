@@ -4,3 +4,6 @@
 
 appmenu-update-whats-new =
     .value = ନୂଆ କଣସବୁ ରହିଛି ଜାଣନ୍ତୁ
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = ଠିକ ଅଛି, ବୁଝିଲି
+    .buttonaccesskey = ଓ

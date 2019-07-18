@@ -134,9 +134,22 @@ newtab-section-header-pocket = { $provider }ଦ୍ୱାରା ସୁପାର�
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-try-again-button = ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ
+newtab-discovery-empty-section-topstories-loading = ଲୋଡ଼ ହେଉଛି...
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = ଓହୋ! ପରିଚ୍ଛେଦଟି ଲୋଡ ହଉ ହଉ ରହିଗଲା ।
+
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = ଲୋକପ୍ରିୟ ବିଷୟଗୁଡ଼ିକ:
+newtab-pocket-more-recommendations = ଅଧିକ ସୁପାରିଶ
+newtab-pocket-how-it-works = ଏହା କିଭଳି କାମ କରେ
+newtab-pocket-cta-button = { -pocket-brand-name } ପାଆନ୍ତୁ
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-refresh-link = ପୃଷ୍ଠାଟିକୁ ରିଫ୍ରେଶ କରି ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ
