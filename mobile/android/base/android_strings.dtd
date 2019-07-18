@@ -146,7 +146,7 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "Počet kariet: &formatD;">
 <!ENTITY new_tab_opened "Nová karta otvorená">
-<!ENTITY new_private_tab_opened "Nová súkromná karta otvorená">
+<!ENTITY new_private_tab_opened "Bola otvorená nová súkromná karta">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
