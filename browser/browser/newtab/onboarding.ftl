@@ -48,7 +48,7 @@ onboarding-sync-form-skip-login-button = Пропустити цей крок
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = Введіть свою адресу е-пошти
-onboarding-sync-form-sub-header = для продовження в Синхронізації Firefox.
+onboarding-sync-form-sub-header = для продовження в { -sync-brand-name(case: "gen") }
 
 ## These are individual benefit messages shown with an image, title and
 ## description.

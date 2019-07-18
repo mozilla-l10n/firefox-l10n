@@ -18,3 +18,4 @@ reader-view = Режим читання
 open-location = Введіть запит чи адресу
 share = Поділитися
 close-window = Закрити вікно
+open-sidebar = Бічні панелі
