@@ -30,6 +30,7 @@
 <!ENTITY fillLoginMenu.label          "Emonyhẽ jeikeha">
 <!ENTITY fillLoginMenu.accesskey      "F">
 <!ENTITY fillSuggestedPassword.accesskey "S">
+<!ENTITY fillGeneratedPassword.accesskey "S">
 <!ENTITY fillPasswordMenu.label       "Emyenyhẽ ñe'ẽñemi">
 <!ENTITY fillPasswordMenu.accesskey   "F">
 <!ENTITY fillUsernameMenu.label       "Emoĩ puruhára réra">
