@@ -69,7 +69,6 @@
 <!ENTITY  sending_crash_report "ກຳລັງສົ່ງລາຍງານຂໍ້ຜິດພາດ\u2026">
 <!ENTITY  crash_close_label "ປິດ">
 <!ENTITY  crash_restart_label "ເລີ່ມຕົ້ນການທຳງານ &brandShortName; ໃຫມ່">
-
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; ໄດ້ຂັດຂ້ອງ">
@@ -117,7 +116,6 @@
 <!ENTITY bookmark_folder_updated "ອັບເດດໂຟລເດີແລ້ວ">
 <!ENTITY bookmark_parent_folder "ໂຟ​ລ​ເດີ​ຫລັກ">
 <!ENTITY bookmark_add_folder "ເພີ່ມໂຟນເດີໃຫມ່">
-
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
 <!ENTITY bookmark_default_folder_title "(ບໍ່ມີຫົວຂໍ້)">
@@ -280,6 +278,7 @@
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "ເປີດໃຊ້ງານແລ້ວ">
 <!ENTITY pref_cookies_not_accept_foreign "ເປີດໃຊ້ງານແລ້ວ, ໂດຍບໍ່ລວມກັບ 3rd party">
+<!ENTITY pref_cookies_not_accept_trackers "ເປີດໃຊ້ງານຢູ່, ຍົກເວັ້ນການຕິດຕາມ cookies">
 <!ENTITY pref_cookies_disabled "ປິດໃຊ້ງານແລ້ວ">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -340,11 +339,6 @@
 
 <!ENTITY pref_pwa "Progressive Web Apps">
 <!ENTITY pref_pwa_summary "ອະນູຍາດໃຫ້ເພີ່ມເວັບແອັບເຂົ້າໄປຫນ້າຈໍຫລັກ">
-
-<!ENTITY tracking_protection_prompt_title "ຂະນະນີ້ມີການປ້ອງກັນການຕິດຕາມ">
-<!ENTITY tracking_protection_prompt_text "ບັອກອົງປະກອບການຕິດຕາມເພື່ອເຮັດໃຫ້ທ່ານບໍ່ຕ້ອງກັງວົນ.">
-<!ENTITY tracking_protection_prompt_tip_text "ເຂົ້າໄປການຕັ້ງຄ່າຄວາມເປັນສ່ວນຕົວເພື່ອຮຽນຮູ້ເພີ່ມເຕີມ">
-<!ENTITY tracking_protection_prompt_action_button "ເຂົ້າໃຈແລ້ວ!">
 
 <!ENTITY tab_queue_toast_message3 "ບັນທຶກແທັບໄວ້ຢູ່ໃນ &brandShortName;">
 <!ENTITY tab_queue_toast_action "ເປີດດຽວນີ້">
@@ -431,7 +425,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "ແທັບແອັບບຣາວເຊີ &amp; ແລະ ເລືອກ &brandShortName;">
-<!ENTITY pref_default_browser_mozilla_support_tablet "ເຂົ້າໄປທີ່ການສະຫນັບສະຫນູນຂອງ Mozilla">
 <!ENTITY pref_about_firefox "ກ່ຽວກັບ &brandShortName;">
 <!ENTITY pref_vendor_faqs "ຄຳຖາມທີພົບເປັນປະຈຳ">
 <!ENTITY pref_vendor_feedback "ໃຫ້ຄຳແນະນຳ">
@@ -692,7 +685,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "ເລືອກ ຫລື ບັນທຶກສຽງ">
 <!ENTITY filepicker_image_title "ເລືອກ ຫລື ຖ່າຍຮູບພາບ">
 <!ENTITY filepicker_video_title "ເລືອກ ຫລື ບັນທຶກວິດີໂອ">
-
 <!ENTITY filepicker_permission_denied "ສິດທິທີ່ຕ້ອງການບໍ່ໄດ້ຮັບການອະນຸຍາດ ກຳລັງປ່ຽນກັບເປັນຕົວເລືອກໄຟລຂອງລະບົບ.">
 
 <!-- Site identity popup -->
