@@ -21,8 +21,11 @@ policy-Bookmarks = Gumawa ng bookmarks sa Bookmarks toolbar, Bookmarks menu, o k
 policy-CertificatesDescription = Magdagdag ng mga certificate o gumamit ng built-in na mga certificate.
 policy-Cookies = Payagan o pigilan ang mga website sa pag lagay ng cookies.
 policy-DefaultDownloadDirectory = I-set ang default download directory.
+policy-DisableAppUpdate = Pigilan ang browser mula sa pag-update.
 policy-DisableBuiltinPDFViewer = I-disable ang PDF.js, ang built-in na PDF viewer sa { -brand-short-name }.
 policy-DisableDeveloperTools = I-block ang access sa paggamit ng developer tools.
+policy-DisableFeedbackCommands = I-disable ang mga command para magpadala ng feedback mula sa Help menu (Mag-submit ng Feedback at I-report ang Deceptive Site).
+policy-DisableFirefoxAccounts = I-disable ang mga service ng { -fxaccount-brand-name }, kagaya ng Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = I-disable ang Firefox Screenshots feature.
 policy-DisableFirefoxStudies = Pigilan ang { -brand-short-name } mula sa pagpapatakbo ng mga pag-aaral.

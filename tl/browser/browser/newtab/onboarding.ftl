@@ -25,6 +25,7 @@ onboarding-join-form-header = Sumama sa { -brand-product-name }
 onboarding-join-form-body = Ipasok ang iyong email address para magsimula.
 onboarding-join-form-email =
     .placeholder = Ipasok ang email
+onboarding-join-form-email-error = Kailangan ng maayos na email
 onboarding-join-form-legal = Kapag nagpatuloy, ikaw ay sumasang-ayon sa <a data-l10n-name="terms">Terms of Service</a> at <a data-l10n-name="privacy">Privacy Notice</a>.
 onboarding-join-form-continue = Magpatuloy
 onboarding-start-browsing-button-label = Mag-simulang mag-browse
@@ -53,6 +54,7 @@ onboarding-sync-form-sub-header = para magpatuloy sa { -sync-brand-name }
 ## description.
 
 onboarding-benefit-products-title = Mga mahalagang produkto
+onboarding-benefit-products-text = Tapusin ang mga bagay-bagay sa pamamagitan ng mga gamit na gumagalang sa iyong privacy sa lahat ng iyong mga device.
 onboarding-benefit-knowledge-title = Praktikal na Kaalaman
 onboarding-benefit-knowledge-text = Alamin lahat ng kailangan malaman upang manatiling listo at ligtas online.
 onboarding-benefit-privacy-title = Tunay na Privacy
@@ -93,6 +95,7 @@ onboarding-firefox-monitor-text = Binabantayan ng { -monitor-brand-name } kung a
 onboarding-firefox-monitor-button = Mag-sign up para sa mga Alert
 onboarding-browse-privately-title = Mag-browse nang Pribado
 onboarding-browse-privately-text = Binubura ng Private Browsing ang kasaysayan ng mga hinanap mo para hindi malaman ng ibang mga gumagamit ng iyong computer.
+onboarding-browse-privately-button = Magbukas ng Private Window
 onboarding-firefox-send-title = Panatilihing pribado ang iyong mga Shared File
 onboarding-firefox-send-text2 = I-upload mo ang iyong mga file sa { -send-brand-name } para maipamahagi mo ito nang may end-to-end encryption at link na awtomatikong mag-eexpire.
 onboarding-firefox-send-button = Subukan ang { -send-brand-name }

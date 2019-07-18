@@ -18,3 +18,4 @@ reader-view = Reader View
 open-location = Hanapin o ilagay ang address
 share = Ibahagi
 close-window = Isara ang Window
+open-sidebar = Mga sidebar

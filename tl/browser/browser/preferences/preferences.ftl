@@ -823,6 +823,11 @@ space-alert-over-5gb-pref-button =
             [windows] O
            *[other] O
         }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] Nauubusan na ng disk space ang { -brand-short-name }. Maaaring hindi mag-display nang maayos ang laman ng website. Pwede kang mag-clear ng naka-store na data sa Options > Privacy & Security > Mga Cookie at Site Data.
+       *[other] Nauubusan na ng disk space ang { -brand-short-name }. Maaaring hindi mag-display nang maayos ang laman ng website. Pwede kang mag-clear ng naka-store na data sa Options > Privacy & Security > Mga Cookie at Site Data.
+    }
 space-alert-under-5gb-ok-button =
     .label = OK, Nakuha ko ito
     .accesskey = K

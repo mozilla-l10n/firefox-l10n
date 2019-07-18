@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = i-Undo
 customize-mode-lwthemes-my-themes =
     .value = Aking Mga Tema
+customize-mode-touchbar-cmd =
+    .label = I-customize ang Touch Bar...
