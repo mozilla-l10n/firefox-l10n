@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Повернути
 customize-mode-lwthemes-my-themes =
     .value = Мої теми
+customize-mode-touchbar-cmd =
+    .label = Налаштувати сенсорну панель…
