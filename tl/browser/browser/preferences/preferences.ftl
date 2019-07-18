@@ -281,6 +281,9 @@ update-pref-write-failure-title = Isulat ang Kabiguan
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Unable to save preference. Could not write to file: { $path }
+update-setting-write-failure-title = Nagkaroon ng problema sa pag-save ng Update preferences.
+update-in-progress-title = Kasalukuyang Nag-a-update
+update-in-progress-message = Gusto mo bang ipagpatuloy ng { -brand-short-name } ang update na ito?
 update-in-progress-ok-button = &Discard
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -379,6 +382,7 @@ choose-bookmark =
 
 home-prefs-content-header = Nilalaman ng Home ng Firefox
 home-prefs-content-description = Piliin kung anong nilalaman ang gusto mo sa iyong screen ng Home ng Firefox.
+home-prefs-content-discovery-description = Ang Content Discovery sa Firefox Home ay tumutulong sa iyo para makahanap ng mataas na uri at may-katuturang impormasyon mula sa web.
 home-prefs-search-header =
     .label = Paghahanap sa Web
 home-prefs-topsites-header =
@@ -571,6 +575,9 @@ privacy-header = Pang-sarilinan sa Browser
 ## Privacy Section - Forms
 
 logins-header = Mga Login at mga Password
+forms-ask-to-save-logins =
+    .label = Magtanong kung dapat mag-save ng mga login at password sa mga website
+    .accesskey = r
 forms-exceptions =
     .label = Mga exceptions...
     .accesskey = x
@@ -634,6 +641,28 @@ sitedata-total-size-calculating = Kinakalkula ang site data at cache size...
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Ikaw ay nagstore ng cookies, site data at cache ay kasalukuyang gumagamit ng { $value } { $unit } ng disk space.
 sitedata-learn-more = Karagdagang kaalaman
+sitedata-allow-cookies-option =
+    .label = Tumanggap ng mga cookie at site data
+    .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = Harangin ang mga cookie at site data
+    .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Uri ng content na hinaharang
+    .accesskey = T
+sitedata-option-block-trackers =
+    .label = Third-party na mga tracker
+sitedata-option-block-unvisited =
+    .label = Mga cookie na galing sa mga hindi pa nabisitang website
+sitedata-option-block-all =
+    .label = Lahat ng mga cookie (maaaring makasira ng mga website)
+sitedata-clear =
+    .label = Burahin ang mga Data...
+    .accesskey = I
+sitedata-settings =
+    .label = I-manage ang mga Data...
+    .accesskey = M
 
 ## Privacy Section - Address Bar
 

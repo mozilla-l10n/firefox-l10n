@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = I-save ang mga Pagbabago
     .accesskey = S
+permissions-autoplay-menu = Ang default para sa lahat ng mga website:
 permissions-searchbox =
     .placeholder = Maghanap ng Website
+permissions-capabilities-autoplay-allow =
+    .label = Payagan ang Audio at Video
+permissions-capabilities-autoplay-block =
+    .label = Harangin ang Audio
+permissions-capabilities-autoplay-blockall =
+    .label = Harangin ang Audio at Video
 permissions-capabilities-allow =
     .label = Payagan
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = Payagan
 permissions-capabilities-listitem-block =
     .value = Harangin
-permissions-capabilities-listitem-allow-first-party =
-    .value = Pahintulutan ang unang partido lamang
 permissions-capabilities-listitem-allow-session =
     .value = Payagan ang Session
 
@@ -58,10 +63,6 @@ permissions-invalid-uri-label = Mangyaring magpasok ng wastong hostname
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Mga Exception - Tracking Protection
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Hindi mo pinagana ang Tracking Protection sa mga website na ito.
 permissions-exceptions-content-blocking-window =
     .title = Firefox Content Blocking
     .style = { permissions-window.style }
@@ -101,6 +102,12 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Mga Pagbubukod - Autoplay
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = You can specify which web sites are always or never allowed to use cookies.  Type the exact address of the site you want to manage and then click Block, Allow for Session, or Allow.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Mga setting - Autoplay
+    .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 
