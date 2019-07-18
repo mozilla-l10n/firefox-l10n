@@ -29,6 +29,7 @@
 
 <!ENTITY fillLoginMenu.label          "Ввести дані входу">
 <!ENTITY fillLoginMenu.accesskey      "В">
+<!ENTITY fillSuggestedPassword.label  "Використовуйте рекомендований пароль">
 <!ENTITY fillPasswordMenu.label       "Ввести пароль">
 <!ENTITY fillPasswordMenu.accesskey   "В">
 <!ENTITY fillUsernameMenu.label       "Ввести ім'я користувача">
