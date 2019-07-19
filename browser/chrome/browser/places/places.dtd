@@ -42,7 +42,7 @@
 <!ENTITY cmd.restoreFromFile.accesskey  "S">
 
 <!ENTITY cmd.deleteDomainData.label     "Esquecer este site">
-<!ENTITY cmd.deleteDomainData.accesskey "L">
+<!ENTITY cmd.deleteDomainData.accesskey "E">
 
 <!ENTITY cmd.open.label                  "Abrir">
 <!ENTITY cmd.open.accesskey              "r">
