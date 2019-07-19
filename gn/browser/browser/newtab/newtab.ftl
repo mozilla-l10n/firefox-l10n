@@ -149,6 +149,8 @@ newtab-discovery-empty-section-topstories-header = ¡Rejejokóma!
 newtab-discovery-empty-section-topstories-content = Ejujey ag̃ave tembiasaverã.
 newtab-discovery-empty-section-topstories-try-again-button = Eha’ãjey
 newtab-discovery-empty-section-topstories-loading = Henyhẽhína…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = ¡Háke! Haimete ñamyanyhẽ ko pehẽ'i, hákatu nahenyhẽmbamo’ãi.
 
 ## Pocket Content Section.
 

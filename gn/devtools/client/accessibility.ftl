@@ -21,3 +21,7 @@ accessibility-best-practices =
 ## that describe that currently selected accessible object has an accessibility issue
 ## with its text label or accessible name.
 
+accessibility-text-label-issue-area = Eipuru pe tekome’ẽ <code>alt</code> embohéra hag̃ua mba’epuru <div>area</div> oguerekóvan tekome’ẽ <span>href</span>. <a>Eikuaave</a>
+accessibility-text-label-issue-dialog = Umi ñomongeta kora emboherava’erã. <a>Maranduve</a>
+accessibility-text-label-issue-document-title = Kuatiakuéra oguerekova’erã peteĩ <code>title</code>. <a>Eikuaave</a>
+accessibility-text-label-issue-embed = Pe tetepy moingepyre oñemboheva’erã. <a>Eikuaave</a>
