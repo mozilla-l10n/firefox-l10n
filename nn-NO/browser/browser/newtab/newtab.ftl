@@ -148,6 +148,8 @@ newtab-empty-section-topstories = Det finst ikkje fleire. Kom tilbake seinare fo
 newtab-discovery-empty-section-topstories-content = Kom tilbake seinare for fleire artiklar.
 newtab-discovery-empty-section-topstories-try-again-button = Prøv igjen
 newtab-discovery-empty-section-topstories-loading = Lastar…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Ops! Vi lasta nesten denne delen, men ikkje heilt.
 
 ## Pocket Content Section.
 
