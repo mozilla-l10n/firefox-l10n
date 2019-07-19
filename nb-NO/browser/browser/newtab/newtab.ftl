@@ -147,6 +147,8 @@ newtab-empty-section-topstories = Du har tatt igjen. Kom tilbake senere for fler
 
 newtab-discovery-empty-section-topstories-try-again-button = Prøv igjen
 newtab-discovery-empty-section-topstories-loading = Laster…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Ops! Vi lastet nesten denne delen, men ikke helt.
 
 ## Pocket Content Section.
 
