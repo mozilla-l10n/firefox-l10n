@@ -27,6 +27,7 @@ search-input-box =
             [windows] विकल्पों में खोजें
            *[other] वरियताओं में खोजें
         }
+managed-notice = आपके ब्राउज़र को आपके संगठन द्वारा प्रबंधित किया जा रहा है।
 pane-general-title = सामान्य
 category-general =
     .tooltiptext = { pane-general-title }
@@ -121,6 +122,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = पिछला सत्र पुनर्बहाल करें
     .accesskey = s
+startup-restore-warn-on-quit =
+    .label = ब्राउज़र को छोड़ने पर आपको चेतावनी देता है
 disable-extension =
     .label = एक्सटेंशन अक्षम करें
 tabs-group-header = टैब
@@ -545,6 +548,8 @@ sync-device-name-save =
     .label = सहेजें
     .accesskey = v
 sync-connect-another-device = अन्य डिवाइस जोड़ें
+sync-manage-devices = डिवाइस को प्रबंधित करें
+sync-fxa-begin-pairing = एक डिवाइस जोड़े
 sync-tos-link = सेवा शर्त
 sync-fxa-privacy-notice = गोपनीयता नीति
 
@@ -729,6 +734,7 @@ permissions-notification-pause =
 permissions-block-autoplay-media-exceptions =
     .label = अपवाद...
     .accesskey = E
+permissions-autoplay = ऑटोप्‍ले
 permissions-autoplay-settings =
     .label = सेटिंग…
     .accesskey = t

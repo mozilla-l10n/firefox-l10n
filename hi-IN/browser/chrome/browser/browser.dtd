@@ -65,6 +65,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "छापें...">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
+<!ENTITY importFromAnotherBrowserCmd.label "दूसरे ब्राउज़र से आयात करें…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 <!ENTITY taskManagerCmd.label "कार्य प्रबंधक">
@@ -137,6 +138,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.manageAccount.label "खाते का प्रबंधन…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; सेटिंग्स…">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "दूसरा डिवाइस जोड़ें…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
