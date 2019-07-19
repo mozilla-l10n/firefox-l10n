@@ -54,6 +54,8 @@ onboarding-sync-form-sub-header = pe continoâ con { -sync-brand-name }.
 ## description.
 
 onboarding-benefit-products-title = Produti utili
+onboarding-benefit-knowledge-title = Conoscense pratiche
+onboarding-benefit-privacy-title = A vea privacy
 
 ## These strings belong to the individual onboarding messages.
 
