@@ -69,7 +69,6 @@
 <!ENTITY  sending_crash_report "Hutsegite-txostena bidaltzen\u2026">
 <!ENTITY  crash_close_label "Itxi">
 <!ENTITY  crash_restart_label "Berrabiarazi &brandShortName;">
-
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName;(e)k huts egin du">
@@ -117,7 +116,6 @@
 <!ENTITY bookmark_folder_updated "Karpeta eguneratuta">
 <!ENTITY bookmark_parent_folder "Karpeta gurasoa">
 <!ENTITY bookmark_add_folder "Gehitu karpeta berria">
-
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
 <!ENTITY bookmark_default_folder_title "(izenbururik ez)">
@@ -280,6 +278,7 @@
 <!ENTITY pref_cookies_menu "Cookieak">
 <!ENTITY pref_cookies_accept_all "Gaituta">
 <!ENTITY pref_cookies_not_accept_foreign "Gaituta, hirugarrenenak salbu">
+<!ENTITY pref_cookies_not_accept_trackers "Gaituta, jarraipen-cookieak salbuesten">
 <!ENTITY pref_cookies_disabled "Desgaituta">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -340,11 +339,6 @@
 
 <!ENTITY pref_pwa "Web aplikazio aurrerakoiak">
 <!ENTITY pref_pwa_summary "Baimendu hasierako pantailan web aplikazioak gehitzea">
-
-<!ENTITY tracking_protection_prompt_title "Orain jarraipenaren babesarekin">
-<!ENTITY tracking_protection_prompt_text "Blokeatu modu aktiboan jarraipena egiten duten elementuak.">
-<!ENTITY tracking_protection_prompt_tip_text "Bisitatu pribatutasun-ezarpenak argibide gehiagorako">
-<!ENTITY tracking_protection_prompt_action_button "Ulertu dut!">
 
 <!ENTITY tab_queue_toast_message3 "Fitxa &brandShortName;(e)n gordeta">
 <!ENTITY tab_queue_toast_action "Ireki orain">
@@ -431,7 +425,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Sakatu \&apos;Nabigatzailearen aplikazioa\&apos; eta hautatu &brandShortName;">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Bisitatu Mozillaren laguntza">
 <!ENTITY pref_about_firefox "&brandShortName;(r)i buruz">
 <!ENTITY pref_vendor_faqs "Ohiko galderak">
 <!ENTITY pref_vendor_feedback "Emaiguzu zure iritzia!">
@@ -692,7 +685,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Aukeratu edo grabatu soinua">
 <!ENTITY filepicker_image_title "Aukeratu edo egin argazkia">
 <!ENTITY filepicker_video_title "Aukeratu edo grabatu bideoa">
-
 <!ENTITY filepicker_permission_denied "Beharrezko baimenak falta dira; sistemaren fitxategi-hautatzailea erabiliko da.">
 
 <!-- Site identity popup -->
