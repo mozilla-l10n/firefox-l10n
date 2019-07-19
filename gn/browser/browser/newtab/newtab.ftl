@@ -145,6 +145,9 @@ newtab-empty-section-topstories = Ko'ág̃a reikuaapáma ipyahúva. Eikejey ag̃
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = ¡Rejejokóma!
+newtab-discovery-empty-section-topstories-content = Ejujey ag̃ave tembiasaverã.
+newtab-discovery-empty-section-topstories-try-again-button = Eha’ãjey
 newtab-discovery-empty-section-topstories-loading = Henyhẽhína…
 
 ## Pocket Content Section.
