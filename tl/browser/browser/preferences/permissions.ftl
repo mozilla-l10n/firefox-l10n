@@ -108,6 +108,7 @@ permissions-exceptions-autoplay-media-desc2 = You can specify which web sites ar
 permissions-site-autoplay-window =
     .title = Mga setting - Autoplay
     .style = { permissions-window.style }
+permissions-site-autoplay-desc = Maaari mong pamahalaan ang mga site na hindi sumusunod sa iyong default na mga setting ng autoplay dito.
 
 ## Site Permissions - Notifications
 
