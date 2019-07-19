@@ -38,7 +38,7 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY error.noSource2 "지원 파일 형식 및 MIME 타입의 동영상을 발견하지 못했습니다.">
 <!ENTITY error.generic "알 수 없는 오류가 발생했기 때문에 동영상의 재생을 중지했습니다.">
 
-<!ENTITY status.pictureInPicture "이 비디오는 화면 속 화면 모드에서 재생 중입니다.">
+<!ENTITY status.pictureInPicture "이 동영상은 화면 속 화면 모드에서 재생 중입니다.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
