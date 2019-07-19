@@ -82,6 +82,9 @@ about-debugging-setup-usb-step-enable-debug-firefox2 = I-enable ang USB Debuggin
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Network Location
+# Text of a button displayed after the network locations "Host" input.
+# Clicking on it will add the new network location to the list.
+about-debugging-network-locations-add-button = Idagdag
 # Text to display when there are no locations to show.
 about-debugging-network-locations-empty-text = Wala pang nadagdag na mga network location.
 # Text of the label for the text input that allows users to add new network locations in
@@ -94,6 +97,16 @@ about-debugging-network-locations-remove-button = Tanggalin
 
 # Runtime Page strings
 
+# Title of the tabs category.
+about-debugging-runtime-tabs =
+    .name = Mga Tab
+# Title of the processes category.
+about-debugging-runtime-processes =
+    .name = Mga Proseso
+# Displayed for runtime info in runtime pages.
+# { $name } is brand name such as "Firefox Nightly"
+# { $version } is version such as "64.0a1"
+about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Mag-disconnect
@@ -130,5 +143,7 @@ about-debugging-extension-id =
 # Notes, this relates to the "Push" API, which is normally not localized so it is
 # probably better to not localize it.
 about-debugging-worker-action-push = Push
+# Displayed for service workers in runtime pages that are registered but stopped.
+about-debugging-worker-status-stopped = NakatigilItinigil
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Mga Detalye

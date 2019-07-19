@@ -33,6 +33,8 @@ devinfo-status-logged-in =
     .label = Nakalog-in
 devinfo-desc =
     .label = Paglalarawan
+devinfo-man-id =
+    .label = Gumawa
 login-failed = Nabigong mag-Login
 fips-nonempty-password-required = FIPS mode ay nangangailangan na mayroon kang isang Master Password set para sa bawat security device. Mangyaring itakda ang password bago subukang mapagana ang FIPS mode.
 # Load Module Dialog

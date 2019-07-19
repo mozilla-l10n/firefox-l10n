@@ -9,6 +9,7 @@
 <!ENTITY retry.label "Ulitin">
 <!ENTITY returnToPreviousPage.label "Bumalik">
 <!ENTITY returnToPreviousPage1.label "Bumalik (Recommended)">
+<!ENTITY advanced2.label "Advanced…">
 <!ENTITY viewCertificate.label "Ipakita ang Certificate">
 
 <!-- Specific error messages -->

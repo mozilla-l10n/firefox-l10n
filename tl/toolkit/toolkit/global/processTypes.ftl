@@ -6,6 +6,8 @@ process-type-web = Content ng Web
 # process used to run privileged pages,
 # such as about:home
 process-type-privileged = Privileged Content
+# process used to open file:// URLs
+process-type-file = Lokal na File
 # process used to isolate webpages that requested special
 # permission to allocate large amounts of memory
 process-type-weblargeallocation = Malaking Alokasyon

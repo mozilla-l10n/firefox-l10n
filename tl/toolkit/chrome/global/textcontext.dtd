@@ -29,6 +29,8 @@
 
 <!ENTITY fillLoginMenu.label          "Pakipunan ang Login">
 <!ENTITY fillLoginMenu.accesskey      "F">
+<!ENTITY fillSuggestedPassword.accesskey "S">
+<!ENTITY fillGeneratedPassword.accesskey "S">
 <!ENTITY fillPasswordMenu.label       "Pakipunan ang patlang na ito.">
 <!ENTITY fillPasswordMenu.accesskey   "P">
 <!ENTITY fillUsernameMenu.label       "Pakipunan ang Username">
