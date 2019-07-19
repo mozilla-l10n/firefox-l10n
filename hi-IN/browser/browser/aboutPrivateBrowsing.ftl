@@ -14,6 +14,7 @@ about-private-browsing-info-searches = खोज
 about-private-browsing-info-downloads = डाउनलोड्स
 private-browsing-title = निजी ब्राउज़िंग
 about-private-browsing-info-saved = { -brand-short-name } <strong>सहेज दिया जायेगा</strong>आपका:‌
+about-private-browsing-info-myths = निजी ब्राउज़िंग के बारे में आम कथा
 about-private-browsing-info-clipboard = कॉपी किया गया पाठ
 about-private-browsing-info-temporary-files = अस्थायी फाइलें
 about-private-browsing-info-cookies = कुकीज़
