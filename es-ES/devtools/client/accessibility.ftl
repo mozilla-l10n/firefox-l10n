@@ -22,5 +22,6 @@ accessibility-best-practices =
 ## with its text label or accessible name.
 
 accessibility-text-label-issue-dialog = Los cuadros de diálogo deben etiquetarse. <a>Más información</a>
+accessibility-text-label-issue-document-title = Los documentos deben llevar <code>título</code>. <a>Descubre más</a>
 accessibility-text-label-issue-embed = El contenido incrustado debe etiquetarse. <a>Más información</a>
 accessibility-text-label-issue-form = Los elementos del formulario deben etiquetarse. <a>Más información</a>
