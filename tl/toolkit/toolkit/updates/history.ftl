@@ -10,15 +10,8 @@ close-button-label =
 no-updates-label = Wala pang updates na naka-install
 name-header = Pangalan ng Update
 date-header = Petsa ng pag-Install
-type-header = Tepo
+type-header = Uri
 state-header = Estado
-# Used to display update history
-#
-# Variables:
-#   $name (String): name of the update
-#   $buildID (String): build identifier from the local updates.xml
-update-full-name =
-    .name = { $name } ({ $buildID })
 # Used to display update history
 #
 # Variables:
