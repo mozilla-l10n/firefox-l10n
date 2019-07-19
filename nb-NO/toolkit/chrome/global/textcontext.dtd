@@ -31,6 +31,8 @@
 <!ENTITY fillLoginMenu.accesskey      "F">
 <!ENTITY fillSuggestedPassword.label  "Bruk et foreslått passord">
 <!ENTITY fillSuggestedPassword.accesskey "s">
+<!ENTITY fillGeneratedPassword.label  "Bruk et sikkert generert passord">
+<!ENTITY fillGeneratedPassword.accesskey "s">
 <!ENTITY fillPasswordMenu.label       "Fyll inn passord">
 <!ENTITY fillPasswordMenu.accesskey   "F">
 <!ENTITY fillUsernameMenu.label       "Fyll inn brukernavn">
