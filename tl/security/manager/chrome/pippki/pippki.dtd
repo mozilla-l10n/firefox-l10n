@@ -4,6 +4,7 @@
 
 <!-- Values for changepassword.xul -->
 <!ENTITY setPassword.title  "Palitan ang Master Password">
+<!ENTITY setPassword.tokenName.label "Security Device">
 <!ENTITY setPassword.oldPassword.label "Kasalukuyang na password:">
 <!ENTITY setPassword.newPassword.label "Bagong password:">
 <!ENTITY setPassword.reenterPassword.label "Bagong password (ulit):">
@@ -29,3 +30,4 @@
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!-- Strings for protectedAuth dialog -->
+<!ENTITY protectedAuth.tokenName.label "Token:">

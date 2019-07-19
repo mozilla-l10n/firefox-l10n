@@ -12,6 +12,7 @@ newsletter-email-placeholder =
 newsletter-subscribe-button = Mag-Subscribe
 newsletter-thanks-title = Salamat!
 footer-title = Firefox Developer Edition
+features-inspector-title = Inspector
 features-console-title = Console
 features-debugger-title = Debugger
 features-network-title = Network

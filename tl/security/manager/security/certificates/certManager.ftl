@@ -14,12 +14,6 @@ certmgr-cert-detail =
     .title = Detalye ng Sertipiko
     .buttonlabelaccept = Isara
     .buttonaccesskeyaccept = I
-certmgr-cert-detail-o =
-    .value = Organisasyon (O)
-certmgr-cert-detail-sha256-fingerprint =
-    .value = SHA-256 Fingerprint
-certmgr-cert-detail-sha1-fingerprint =
-    .value = SHA1 Fingerprint
 certmgr-cert-detail-org = Organisasyon (O)
 certmgr-cert-detail-sha-256-fingerprint = SHA-256 Fingerprint
 certmgr-cert-detail-sha-1-fingerprint = SHA1 Fingerprint
@@ -38,10 +32,6 @@ certmgr-cert-name =
     .label = Pangalan ng Sertipiko
 certmgr-cert-server =
     .label = Server
-certmgr-begins-value =
-    .value = { certmgr-begins-label.label }
-certmgr-expires-value =
-    .value = { certmgr-expires-label.label }
 certmgr-serial =
     .label = Serial Number
 certmgr-view =
@@ -116,6 +106,8 @@ delete-email-cert-impact = Kung tatangalin mo ang e-mail certificate ng isang ta
 
 ## Cert Viewer
 
+not-present =
+    .value = <Not Part Of Certificate>
 # Cert verification
 cert-verified = Ang sertipikong ito ay nasiyasat para sa mga sumusunod na gamit:
 verify-ssl-ca =

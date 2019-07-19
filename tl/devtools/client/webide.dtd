@@ -41,7 +41,6 @@
 <!ENTITY runtimeMenu_showSettings_label "Mga Setting ng Device">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
 
-
 <!ENTITY viewMenu_label "Tingnan">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_zoomin_label "Zoom In">
@@ -93,11 +92,11 @@
 <!-- Addons -->
 
 <!-- Prefs -->
+<!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "Pangkalahatan">
+<!ENTITY prefs_restore "Restore Defaults">
 
 <!-- Runtime Details -->
-<!ENTITY runtimedetails_adbIsRoot "ADB is root: ">
-<!ENTITY runtimedetails_summonADBRoot "root device">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Boolean">
