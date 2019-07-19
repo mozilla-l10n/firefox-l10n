@@ -145,7 +145,7 @@ newtab-empty-section-topstories = Det finst ikkje fleire. Kom tilbake seinare fo
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
-newtab-discovery-empty-section-topstories-content = Kom tilbake seinare for fleire historiar.
+newtab-discovery-empty-section-topstories-content = Kom tilbake seinare for fleire artiklar.
 newtab-discovery-empty-section-topstories-try-again-button = Prøv igjen
 newtab-discovery-empty-section-topstories-loading = Lastar…
 
