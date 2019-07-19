@@ -12,12 +12,22 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
+onboarding-button-label-learn-more = Atre informaçioin
 onboarding-button-label-try-now = Preuvilo òua
 onboarding-button-label-get-started = Iniçia
 
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Benvegnuo in { -brand-short-name }
+onboarding-welcome-body = Oua ti gh'æ o navegatô.<br/>Amia o resto de { -brand-product-name }.
+onboarding-welcome-learn-more = Ciù informaçioin in sci vantaggi.
+onboarding-join-form-header = Uniscite a { -brand-product-name }
+onboarding-join-form-body = Inserisci o teu indirisso email pe iniçiâ.
+onboarding-join-form-email =
+    .placeholder = Scrivi a mail
+onboarding-join-form-email-error = Serve 'na email bonn-a
+onboarding-join-form-legal = Se ti væ avanti, alôa t'ê d'acòrdio co-i <a data-l10n-name="terms">Termini do serviçio</a> e l'<a data-l10n-name="privacy">Informativa in sciâ privacy</a>.
+onboarding-join-form-continue = Vanni avanti
 onboarding-start-browsing-button-label = Iniçia a navegâ
 onboarding-cards-dismiss =
     .title = Scancella
@@ -43,6 +53,7 @@ onboarding-sync-form-sub-header = pe continoâ con { -sync-brand-name }.
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = Produti utili
 
 ## These strings belong to the individual onboarding messages.
 
