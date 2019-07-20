@@ -31,6 +31,8 @@
 <!ENTITY fillLoginMenu.accesskey      "z">
 <!ENTITY fillSuggestedPassword.label  "Użyj zaproponowanego hasła">
 <!ENTITY fillSuggestedPassword.accesskey "w">
+<!ENTITY fillGeneratedPassword.label  "Użyj bezpiecznie wygenerowanego hasła">
+<!ENTITY fillGeneratedPassword.accesskey "b">
 <!ENTITY fillPasswordMenu.label       "Uzupełnij hasło">
 <!ENTITY fillPasswordMenu.accesskey   "h">
 <!ENTITY fillUsernameMenu.label       "Uzupełnij nazwę użytkownika">
