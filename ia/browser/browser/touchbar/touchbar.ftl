@@ -18,3 +18,4 @@ reader-view = Vista de lectura
 open-location = Insere un adresse o face un recerca
 share = Compartir
 close-window = Clauder fenestra
+open-sidebar = Barras lateral
