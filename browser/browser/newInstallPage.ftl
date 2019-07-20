@@ -23,4 +23,6 @@ sync-label = તમારું ઈમેલ એડ્રેસ લખો
 sync-input =
     .placeholder = ઇમેઇલ
 sync-button = ચાલુ રાખો
+sync-terms = આગળ વધીને, તમે <a data-l10n-name="terms">સેવાની શરતો</a> અને <a data-l10n-name="privacy">ગોપનીયતા સૂચના</a> થી સંમત થાઓ છો.
+sync-first = { -sync-brand-name } નો ઉપયોગ કરીને પ્રથમ વાર? તમારે તમારી માહિતીને સમન્વયિત કરવા માટે Firefoxની દરેક ઇન્સ્ટોલેશનમાં સાઇન ઇન કરવું પડશે.
 sync-learn = વધુ શીખો

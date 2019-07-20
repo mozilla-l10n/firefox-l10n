@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = રદ કરો
 customize-mode-lwthemes-my-themes =
     .value = મારી વિષયવસ્તુઓ
+customize-mode-touchbar-cmd =
+    .label = ટચ બારને કસ્ટમાઇઝ કરો...
