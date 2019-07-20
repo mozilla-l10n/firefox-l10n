@@ -89,7 +89,7 @@ newtab-menu-bookmark = Lisää kirjanmerkki
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 newtab-menu-copy-download-link = Kopioi latauslinkki
-newtab-menu-go-to-download-page = Siirry ladatulle sivulle
+newtab-menu-go-to-download-page = Siirry lataussivulle
 newtab-menu-remove-download = Poista historiasta
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
