@@ -65,7 +65,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>Witryna odpowiedziała w sposób nieoczekiwany i przeglądarka nie może kontynuować.</p>">
 
 <!ENTITY nssFailure2.title "Nie udało się nawiązać bezpiecznego połączenia">
-<!ENTITY nssFailure2.longDesc2 "<p>Żądana strona nie może zostać wyświetlona, ponieważ nie udało się potwierdzić autentyczności otrzymanych danych.</p><ul><li>Należy skontaktować się z właścicielem witryny i poinformować go o tym problemie.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>Otwierana strona nie może zostać wyświetlona, ponieważ nie udało się potwierdzić autentyczności otrzymanych danych.</p><ul><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul>">
 
 <!ENTITY nssBadCert.title "Nie udało się nawiązać bezpiecznego połączenia">
 <!ENTITY nssBadCert.longDesc2 "<ul><li>Powodem tego może być nieprawidłowa konfiguracja serwera albo próba podania się za ten serwer przez podmiot nieuprawniony.</li><li>Jeśli użytkownik łączył się wcześniej z tym serwerem, błąd może być tymczasowy — w tej sytuacji należy spróbować ponownie później.</li></ul>">
@@ -77,7 +77,7 @@
 <!ENTITY cspBlocked.longDesc "<p>Przeglądarka uniemożliwiła tej stronie wczytanie treści w ten sposób, ponieważ jej polityka bezpieczeństwa treści na to nie pozwala.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Błąd: treść uszkodzona">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Strona, którą próbujesz obejrzeć, nie może być wyświetlona, ponieważ wykryto błąd w transmisji danych.</p><ul><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Otwierana strona nie może zostać wyświetlona, ponieważ wykryto błąd w transmisji danych.</p><ul><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul>">
 
 <!ENTITY remoteXUL.title "Zdalna treść XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul></p>">
@@ -90,4 +90,4 @@
 <!ENTITY blockedByPolicy.title "Zablokowana strona">
 
 <!ENTITY networkProtocolError.title "Błąd protokołu sieciowego">
-<!ENTITY networkProtocolError.longDesc "<p>Żądana strona nie może zostać wyświetlona, ponieważ wykryto błąd w protokole sieciowym.</p><ul><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>Otwierana strona nie może zostać wyświetlona, ponieważ wykryto błąd w protokole sieciowym.</p><ul><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul>">
