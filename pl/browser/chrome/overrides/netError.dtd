@@ -9,10 +9,7 @@
 <!ENTITY retry.label "Spróbuj ponownie">
 <!ENTITY returnToPreviousPage.label "Wróć do poprzedniej strony">
 <!ENTITY returnToPreviousPage1.label "Wróć do poprzedniej strony (zalecane)">
-<!ENTITY advanced.label "Zaawansowane">
-<!ENTITY continue2.label "Więcej…">
 <!ENTITY advanced2.label "Zaawansowane…">
-<!ENTITY moreInformation.label "Więcej informacji">
 <!ENTITY viewCertificate.label "Wyświetl certyfikat">
 
 <!-- Specific error messages -->
@@ -83,15 +80,13 @@
 <!ENTITY unknownSocketType.longDesc "<ul><li>Należy sprawdzić, czy zainstalowany jest menedżer zabezpieczeń (PSM).</li><li>Powodem tego błędu może też być niestandardowa konfiguracja serwera.</li></ul>">
 
 <!ENTITY nssFailure2.title "Nie udało się nawiązać bezpiecznego połączenia">
-<!ENTITY nssFailure2.longDesc2 "<ul><li>Żądana strona nie może zostać wyświetlona, ponieważ nie udało się potwierdzić autentyczności otrzymanych danych.</li><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul><li>Otwierana strona nie może zostać wyświetlona, ponieważ nie udało się potwierdzić autentyczności otrzymanych danych.</li><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul>">
 
-<!ENTITY certerror.longpagetitle1 "Połączenie nie jest bezpieczne">
 <!ENTITY certerror.longpagetitle2 "Ostrzeżenie: potencjalne zagrożenie bezpieczeństwa">
 <!ENTITY certerror.sts.longpagetitle  "Nie połączono: potencjalne zagrożenie bezpieczeństwa">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "Właściciel witryny <span class='hostname'/> niepoprawnie ją skonfigurował. &brandShortName; nie połączył się z nią, aby chronić użytkownika przed kradzieżą informacji.">
 <!ENTITY certerror.introPara2 "&brandShortName; wykrył potencjalne zagrożenie bezpieczeństwa i nie wczytał „<span class='hostname'/>”. Jeśli otworzysz tę stronę, atakujący będą mogli przechwycić informacje, takie jak hasła, adresy e-mail czy dane kart płatniczych.">
 <!ENTITY certerror.sts.introPara "&brandShortName; wykrył potencjalne zagrożenie bezpieczeństwa i nie wczytał „<span class='hostname'/>”, ponieważ strona wymaga bezpiecznego połączenia.">
 
@@ -113,10 +108,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; uniemożliwił tej stronie wczytanie treści w ten sposób, ponieważ jej polityka bezpieczeństwa treści na to nie pozwala.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Błąd: treść uszkodzona">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Strona, którą próbujesz obejrzeć, nie może być wyświetlona, ponieważ wykryto błąd w transmisji danych.</p><ul><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Otwierana strona nie może zostać wyświetlona, ponieważ wykryto błąd w transmisji danych.</p><ul><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Dodaj wyjątek…">
 <!ENTITY securityOverride.exceptionButton1Label "Akceptuję ryzyko, kontynuuj">
 
 <!ENTITY errorReporting.automatic2 "Automatyczne zgłaszanie podobnych temu błędów (pomaga Mozilli identyfikować i blokować niebezpieczne strony)">
@@ -130,16 +123,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Szczegóły: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p>&brandShortName; nie połączył się z <span id='wrongSystemTime_URL'/>, ponieważ zegar systemowy wydaje się wskazywać złą datę, co uniemożliwia bezpieczne połączenie.</p><p>Komputer ma ustawioną datę <span id='wrongSystemTime_systemDate'/>, gdy powinien mieć <span id='wrongSystemTime_actualDate'/>. Zmień ustawioną datę i czas na aktualne, aby rozwiązać ten problem.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; nie połączył się z <span id='wrongSystemTimeWithoutReference_URL'/>, ponieważ zegar systemowy wydaje się wskazywać złą datę, co uniemożliwia bezpieczne połączenie.</p><p>Komputer ma ustawioną datę <span id='wrongSystemTimeWithoutReference_systemDate'/>. Zmień ustawioną datę i czas na aktualne, aby rozwiązać ten problem.</p>">
-
-<!ENTITY certerror.pagetitle1  "Niezabezpieczone połączenie">
 <!ENTITY certerror.pagetitle2  "Ostrzeżenie: potencjalne zagrożenie bezpieczeństwa">
 <!ENTITY certerror.sts.pagetitle  "Nie połączono: potencjalne zagrożenie bezpieczeństwa">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ta strona określa poprzez HSTS (HTTP Strict Transport Security), że &brandShortName; ma się z nią łączyć jedynie w sposób bezpieczny. W związku z tym, dodanie wyjątku dla tego certyfikatu jest niemożliwe.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "Witryna „<span class='hostname'></span>” określa poprzez HSTS (HTTP Strict Transport Security), że &brandShortName; ma się z nią łączyć jedynie w sposób bezpieczny. Dodanie wyjątku w celu odwiedzenia tej strony jest niemożliwe.">
 <!ENTITY certerror.copyToClipboard.label "Kopiuj tekst do schowka">
 
@@ -164,4 +149,4 @@ was trying to connect. -->
 <!ENTITY prefReset.label "Przywróć">
 
 <!ENTITY networkProtocolError.title "Błąd protokołu sieciowego">
-<!ENTITY networkProtocolError.longDesc "<p>Żądana strona nie może zostać wyświetlona, ponieważ wykryto błąd w protokole sieciowym.</p><ul><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>Otwierana strona nie może zostać wyświetlona, ponieważ wykryto błąd w protokole sieciowym.</p><ul><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul>">
