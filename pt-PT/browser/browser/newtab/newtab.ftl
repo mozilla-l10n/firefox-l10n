@@ -145,6 +145,7 @@ newtab-empty-section-topstories = Já apanhou tudo. Verifique mais tarde para ma
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = Está em dia!
 newtab-discovery-empty-section-topstories-content = Volte mais tarde para mais histórias.
 newtab-discovery-empty-section-topstories-try-again-button = Tentar novamente
 newtab-discovery-empty-section-topstories-loading = A carregar…
