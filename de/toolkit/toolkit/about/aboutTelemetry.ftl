@@ -65,7 +65,7 @@ about-telemetry-upload-type =
 about-telemetry-histogram-stats = 
     { $sampleCount ->
         [one] { $sampleCount } Messung, Durchschnitt = { $prettyAverage }, Summe = { $sum }
-       *[other] { $sampleCount } Messung, Durchschnitt = { $prettyAverage }, Summe = { $sum }
+       *[other] { $sampleCount } Messungen, Durchschnitt = { $prettyAverage }, Summe = { $sum }
     }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
