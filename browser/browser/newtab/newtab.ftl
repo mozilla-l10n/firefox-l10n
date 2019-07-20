@@ -143,6 +143,15 @@ newtab-empty-section-highlights = Zacznij przeglądać Internet, a pojawią si�
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = To na razie wszystko. { $provider } później będzie mieć więcej popularnych artykułów. Nie możesz się doczekać? Wybierz popularny temat, aby znaleźć więcej artykułów z całego Internetu.
 
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-header = Jesteś na bieżąco!
+newtab-discovery-empty-section-topstories-content = Wróć później po więcej artykułów.
+newtab-discovery-empty-section-topstories-try-again-button = Spróbuj ponownie
+newtab-discovery-empty-section-topstories-loading = Wczytywanie…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Prawie udało się wczytać tę sekcję, ale nie do końca.
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
@@ -150,7 +159,7 @@ newtab-pocket-read-more = Popularne treści:
 newtab-pocket-more-recommendations = Więcej polecanych
 newtab-pocket-how-it-works = Jak to działa?
 newtab-pocket-cta-button = Pobierz { -pocket-brand-name }
-newtab-pocket-cta-text = Zachowuj historie w { -pocket-brand-name }, aby wrócić później do ich lektury.
+newtab-pocket-cta-text = Zachowuj artykuły w { -pocket-brand-name }, aby wrócić później do ich lektury.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
