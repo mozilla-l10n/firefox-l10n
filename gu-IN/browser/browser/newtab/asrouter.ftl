@@ -53,3 +53,19 @@ cfr-doorhanger-pintab-step2 = મેનૂમાંથી <b>પિન ટૅબ
 cfr-doorhanger-pintab-step3 = જો સાઇટમાં એક અપડેટ હોય તો તમને તમારા પિન કરેલા ટેબ પર વાદળી બિંદુ દેખાશે.
 cfr-doorhanger-pintab-animation-pause = અટકાવો
 cfr-doorhanger-pintab-animation-resume = ફરી શરૂ કરો
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = દરેક જગ્યાએ તમારા બુકમાર્ક્સ સમન્વયિત કરો.
+cfr-doorhanger-bookmark-fxa-body = મહાન શોધ! હવે તમારા મોબાઇલ ઉપકરણો પર આ બુકમાર્ક વિના છોડી શકાશે નહીં. { -fxaccount-brand-name } થી પ્રારંભ કરો.
+cfr-doorhanger-bookmark-fxa-link-text = હવે બુકમાર્ક્સ સમન્વયિત કરો...
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = બંધ કરો બટન
+    .title = બંધ
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = નવું શું છે
+    .tooltiptext = નવું શું છે
+cfr-whatsnew-panel-header = નવું શું છે

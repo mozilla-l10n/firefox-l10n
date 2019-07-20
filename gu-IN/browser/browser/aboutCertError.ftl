@@ -34,6 +34,14 @@ cert-error-domain-mismatch-single-nolink = વેબસાઇટ્સ પ્ર
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
 cert-error-domain-mismatch-multiple = વેબસાઇટ્સ પ્રમાણપત્ર દ્વારા તેમની ઓળખ સાબિત કરે છે. { -brand-short-name } આ સાઇટ પર વિશ્વાસ કરતું નથી કારણ કે તે પ્રમાણપત્રનો ઉપયોગ કરે છે જે { $hostname } માટે માન્ય નથી. પ્રમાણપત્ર ફક્ત નીચેના નામો માટે માન્ય છે: { $subject-alt-names }
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = વેબસાઈટો તેમની ઓળખ પ્રમાણપત્રો દ્વારા સાબિત કરે છે, જે સેટ ટાઇમ અવધિ માટે માન્ય છે. { $hostname } માટેનો પ્રમાણપત્ર { $not-after-local-time } પર સમાપ્ત થયો નથી.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = વેબસાઈટો તેમની ઓળખ પ્રમાણપત્રો દ્વારા સાબિત કરે છે, જે સેટ ટાઇમ અવધિ માટે માન્ય છે. { $hostname } માટેનો પ્રમાણપત્ર { $not-before-local-time } સુધી માન્ય રહેશે નહીં.
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = ભૂલ કોડ: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:

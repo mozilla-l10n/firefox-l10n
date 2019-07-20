@@ -19,6 +19,7 @@ onboarding-button-label-get-started = શરૂ કરો
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = { -brand-short-name } માં તમારું સ્વાગત છે
+onboarding-welcome-body = તમને બ્રાઉઝર મળ્યો છે.<br/> બાકીના { -brand-product-name } મળો.
 onboarding-join-form-email =
     .placeholder = ઇમેઇલ દાખલ કરો
 onboarding-join-form-email-error = માન્ય ઇમેઇલ આવશ્યક છે
