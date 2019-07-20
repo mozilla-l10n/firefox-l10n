@@ -26,7 +26,7 @@
 <!ENTITY generic.longDesc "<p>Dodatkowe informacje o tym problemie lub błędzie nie są obecnie dostępne.</p>">
 
 <!ENTITY malformedURI.title "Nieprawidłowy adres">
-<!ENTITY malformedURI.longDesc "<p>Podano adres w nierozpoznawalnym formacie. Należy sprawdzić, czy w pasku adresu nie ma błędów, a następnie spróbuj ponownie.</p>">
+<!ENTITY malformedURI.longDesc "<p>Podano adres w nierozpoznawalnym formacie. Należy sprawdzić, czy w pasku adresu nie ma błędów, a następnie spróbować ponownie.</p>">
 
 <!ENTITY netInterrupt.title "Przerwane połączenie">
 <!ENTITY netInterrupt.longDesc "<p>Przeglądarka nawiązała połączenie, ale zostało ono przerwane podczas przesyłania informacji.</p><ul><li>Witryna może być tymczasowo niedostępna lub przeciążona. Spróbuj ponownie za pewien czas.</li><li>Jeśli nie możesz otworzyć żadnej strony, sprawdź swoje połączenie sieciowe.</li><li>Jeśli ten komputer jest chroniony przez zaporę sieciową lub serwer proxy, należy sprawdzić, czy ten program jest uprawniony do łączenia się z Internetem.</li></ul>">
