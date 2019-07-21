@@ -29,6 +29,10 @@
 
 <!ENTITY fillLoginMenu.label          "Dusîj sesiûn">
 <!ENTITY fillLoginMenu.accesskey      "F">
+<!ENTITY fillSuggestedPassword.label  "Garasun 'ngo danga' huì rikî aga' nan">
+<!ENTITY fillSuggestedPassword.accesskey "S">
+<!ENTITY fillGeneratedPassword.label  "Garasun 'ngō da'nga' huì giri hue'êt">
+<!ENTITY fillGeneratedPassword.accesskey "S">
 <!ENTITY fillPasswordMenu.label       "Nachra riña da'nga' huìi">
 <!ENTITY fillPasswordMenu.accesskey   "F">
 <!ENTITY fillUsernameMenu.label       "Nachra riña si yugui Usuario">
