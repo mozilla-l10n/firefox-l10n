@@ -163,7 +163,7 @@
 <!ENTITY settings "Ustawienia">
 <!ENTITY settings_title "Ustawienia">
 <!ENTITY pref_category_general "Ogólne">
-<!ENTITY pref_category_general_summary3 "Strona domowa, język, kolejka kart">
+<!ENTITY pref_category_general_summary3 "Strona startowa, język, kolejka kart">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -237,22 +237,22 @@
 <!ENTITY pref_remember_signons2 "Zachowywanie danych logowania">
 <!ENTITY pref_manage_logins "Zarządzaj danymi logowania">
 
-<!ENTITY pref_category_home "Strona domowa">
-<!ENTITY pref_category_home_summary "Dostosowanie strony domowej">
+<!ENTITY pref_category_home "Strona startowa">
+<!ENTITY pref_category_home_summary "Dostosowanie strony startowej">
 <!ENTITY pref_category_home_panels "Panele">
 <!ENTITY pref_category_home_add_ons "Dodatki">
 <!ENTITY pref_home_updates2 "Aktualizacje treści">
 <!ENTITY pref_home_updates_enabled "Włączone">
 <!ENTITY pref_home_updates_wifi "Tylko przez Wi-Fi">
-<!ENTITY pref_category_home_homepage "Strona domowa">
+<!ENTITY pref_category_home_homepage "Strona startowa">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
 <!ENTITY home_homepage_every_new_tab "Także w nowych kartach">
-<!ENTITY home_homepage_title "Ustaw stronę domową">
+<!ENTITY home_homepage_title "Ustaw stronę startową">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
-<!ENTITY home_homepage_radio_default "&brandShortName;: Strona domowa">
+<!ENTITY home_homepage_radio_default "&brandShortName;: Strona startowa">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
@@ -534,7 +534,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY contextmenu_open_private_tab "Otwórz w trybie prywatnym">
 <!ENTITY contextmenu_remove "Usuń">
 <!ENTITY contextmenu_add_page_shortcut "Dodaj skrót do strony">
-<!ENTITY contextmenu_set_as_homepage "Ustaw jako stronę domową">
+<!ENTITY contextmenu_set_as_homepage "Ustaw jako stronę startową">
 <!ENTITY contextmenu_share "Udostępnij">
 <!ENTITY contextmenu_pasteandgo "Wklej i przejdź do strony">
 <!ENTITY contextmenu_paste "Wklej">
@@ -629,7 +629,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-<!ENTITY home_title "&brandShortName;: Strona domowa">
+<!ENTITY home_title "&brandShortName;: Strona startowa">
 <!ENTITY home_history_title "Historia">
 <!ENTITY home_synced_devices_smartfolder "Synchronizowane urządzenia">
 <!ENTITY home_synced_devices_number "Urządzenia: &formatD;">
@@ -676,7 +676,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY home_unpinned_site "Odpięto stronę">
 
 <!ENTITY remote_tabs_panel_moved_title "Gdzie zniknęły moje karty?">
-<!ENTITY remote_tabs_panel_moved_desc "Przenieśliśmy twoje karty z innych urządzeń do panelu na stronie domowej, gdzie możesz je łatwo znaleźć przy otwieraniu nowej karty.">
+<!ENTITY remote_tabs_panel_moved_desc "Przenieśliśmy twoje karty z innych urządzeń do panelu na stronie startowej, gdzie możesz je łatwo znaleźć przy otwieraniu nowej karty.">
 <!ENTITY remote_tabs_panel_moved_link "Pokaż mi ten nowy panel.">
 
 <!ENTITY pin_site_dialog_hint "Wpisz słowo-klucz">
