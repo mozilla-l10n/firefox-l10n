@@ -145,6 +145,7 @@ newtab-empty-section-topstories = Ulac wiyaḍ. Uɣal-d ticki s wugar n imagrade
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-content = Uɣal-d ticki akken ad tafeḍ ugar n teqsiḍin.
 newtab-discovery-empty-section-topstories-try-again-button = Ɛreḍ tikelt nniḍen
 newtab-discovery-empty-section-topstories-loading = Asali…
 
