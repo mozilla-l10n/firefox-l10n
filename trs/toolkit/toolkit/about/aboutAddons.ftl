@@ -95,7 +95,7 @@ detail-update-manual =
 detail-private-browsing-label = Na'nïn riña Windows huìi
 detail-private-browsing-description2 = Sisi ga'ue ga'nïn, extensiûn nan ni ga'ue ni'ia sa 'iát ngà aché nun huìt. <label data-l10n-name="detail-private-browsing-learn-more">Gahuin chrun doj</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
-# cannot be overriden by the user.
+# cannot be overridden by the user.
 detail-private-disallowed-label = Si ga'ue riña Windows huìi
 detail-private-disallowed-description = Nga aché nunt riña Windows huìi ni nitaj si 'iaj sun ekstensiûn nan. <label data-l10n-name="detail-private-browsing-learn-more">Gahuin Chrun doj</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
@@ -150,9 +150,9 @@ legacy-extensions =
     .value = Nej extensiûn hua nikaa
 legacy-extensions-description = Nitaj si digahuin nej extensiûn nan ngà nej chrej { -brand-short-name } huaa yi'ì dan giyichin' nej man. <label data-l10n-name="legacy-learn-more">Gini'in doj rayi'î nuguan' hua ngà nadunô' 'ngo komplemênto</label>
 private-browsing-description2 = { -brand-short-name } nadunaj dàj 'iaj sun nej ekstensiûn riña aché nun huìt. Ahuin man'an ekstensiûn nutà't riña { -brand-short-name } ni gay'ì man'an gi'iaj sun riña Windows huìi. Nda doj si ga'nïnt riña configurasiûn, sani ekstensiûn nan ni si gi'iaj sunj riña aché nun huìt ni si gini'in sa 'iát. Nan huin nagi'iaj ñûnj dadin' ruhuâ ñûnj sisi nda hue'ê ga gache nunt. <label data-l10n-name="private-browsing-learn-more"> Gahuin chrun doj dàj gi'iaj sunt ngà ekstensiûn nan</label>
-extensions-view-discover =
-    .name = Nadunïnj nej komplemênto
-    .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Nuguan' ganikò't
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Nej sa hìaj nahuin nakà
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -233,7 +233,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Ni'iaj dàj nagi'iát riña ekstensiûn
     .accesskey = S
-shortcuts-empty-message = nitaj a'ngô sa ga'ue nagi'iô' riña ekstensiûn nan.
 shortcuts-no-addons = Nitaj ngà' si 'ngo ekstensiûn 'iaj sun 'iát.
 shortcuts-no-commands = Nitaj a'ngô nùhuin si hua riña nej ekstensiûn nan:
 shortcuts-input =
@@ -257,6 +256,9 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Nadigân Dòj
 go-back-button =
     .tooltiptext = Nanikàj rukù
+
+## Recommended add-ons page
+
 
 ## Add-on actions
 
@@ -283,3 +285,6 @@ addon-detail-reviews-link =
         [one] { $numberOfReviews } sa natsij
        *[other] { $numberOfReviews } nej sa natsij
     }
+
+## Pending uninstall message bar
+

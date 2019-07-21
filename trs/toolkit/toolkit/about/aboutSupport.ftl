@@ -32,8 +32,17 @@ app-basics-name = Si yuguit
 app-basics-version = Versión
 app-basics-build-id = Id. nagui'iaj chre'
 app-basics-update-channel = Riña nagui'iaj nako'
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Nagi'iaj nakà direktorio
+       *[other] Nagi'iaj nakà riña màn rasuun
+    }
 app-basics-update-history = Riña ma sa nagui'iaj nako'
 app-basics-show-update-history = Digun' riña ma sa nagui'iaj nako'
+# Represents the path to the binary used to start the application.
+app-basics-binary = Aplikasiûn binârio
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Riña nataj ahuin'
@@ -49,7 +58,6 @@ app-basics-service-workers = Nej sa ma sa' Service Workers
 app-basics-profiles = Sa a'min rayi'i'
 app-basics-launcher-process-status = Hìaj 'iaj yugui da' ga'nïn
 app-basics-multi-process-support = Ga'i ventana 'iaj sun
-app-basics-process-count = Sa ma riña Web
 app-basics-remote-processes-count = Nej sa gahuin niñaa
 app-basics-enterprise-policies = Nuguan' nikaj nej emprêsa
 app-basics-location-service-key-google = Da'nga' nikaj sa narì' Google
@@ -79,6 +87,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Riña nej sa ganahui'
 graphics-crash-guards-title = Nej sa Guard Disabled Features
 graphics-workarounds-title = Ganahuin ma
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Chrej nikaj Bentâna
 place-database-title = Places Database
 place-database-integrity = Gâ nin
 place-database-verify-integrity = Ni'iaj si hua nin
@@ -196,6 +206,7 @@ gpu-device-id = ID nikaj ñu'unj aga' na
 gpu-subsys-id = ID si'iaj subsys
 gpu-drivers = Drivers
 gpu-ram = RAM
+gpu-driver-vendor = Sa du'uèj konduktôr
 gpu-driver-version = Daj hua aga' na
 gpu-driver-date = Ahuin gui huin riña aga' na
 gpu-active = Ngà' 'iaj sunj
@@ -228,7 +239,6 @@ uses-tiling = Garasun Tiling
 content-uses-tiling = Garasun Tiling (Sa nika)
 off-main-thread-paint-enabled = Hua habilitado ne'e tàj ñaan
 off-main-thread-paint-worker-count = Nitaj ne' rà guendâ pinturâ Konde
-low-end-machine = Ûta naj 'iaj sun aga' nan
 target-frame-rate = Dàj hìo 'iaj sun aga' nan
 audio-backend = Sa guni' Backend
 max-audio-channels = Kanal Max
