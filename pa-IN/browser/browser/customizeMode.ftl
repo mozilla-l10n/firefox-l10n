@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = ਵਾਪਸ
 customize-mode-lwthemes-my-themes =
     .value = ਮੇਰੇ ਥੀਮ
+customize-mode-touchbar-cmd =
+    .label = ਟੱਚ-ਪੱਟੀ ਨੂੰ ਪਸੰਦੀਦਾ ਬਣਾਓ…
