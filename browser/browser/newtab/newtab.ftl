@@ -33,7 +33,7 @@ newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Skriv eller klistra in en URL
 newtab-topsites-url-validation = Giltig URL krävs
-newtab-topsites-image-url-label = Anpassad bild URL
+newtab-topsites-image-url-label = Anpassa bild-URL
 newtab-topsites-use-image-link = Använd en anpassad bild…
 newtab-topsites-image-validation = Bilden misslyckades att ladda. Prova en annan URL.
 
@@ -73,7 +73,7 @@ newtab-menu-topsites-placeholder-tooltip =
 newtab-menu-edit-topsites = Redigera
 newtab-menu-open-new-window = Öppna i nytt fönster
 newtab-menu-open-new-private-window = Öppna i nytt privat fönster
-newtab-menu-dismiss = Avfärda
+newtab-menu-dismiss = Ignorera
 newtab-menu-pin = Fäst
 newtab-menu-unpin = Lösgör
 newtab-menu-delete-history = Ta bort från historik
@@ -145,8 +145,12 @@ newtab-empty-section-topstories = Det finns inte fler. Kom tillbaka senare för 
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = Du är ikapp!
+newtab-discovery-empty-section-topstories-content = Kom tillbaka senare för fler nyheter.
 newtab-discovery-empty-section-topstories-try-again-button = Försök igen
 newtab-discovery-empty-section-topstories-loading = Laddar…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Hoppsan! Vi laddade nästan detta avsnitt, men inte riktigt.
 
 ## Pocket Content Section.
 
@@ -155,7 +159,7 @@ newtab-pocket-read-more = Populära ämnen:
 newtab-pocket-more-recommendations = Fler rekommendationer
 newtab-pocket-how-it-works = Hur fungerar det
 newtab-pocket-cta-button = Hämta { -pocket-brand-name }
-newtab-pocket-cta-text = Spara de historier som du tycker är intressant i { -pocket-brand-name }, och stimulera dina tankar med fascinerande läsmaterial.
+newtab-pocket-cta-text = Spara de nyheter som du tycker är intressant i { -pocket-brand-name } och stimulera dina tankar med fascinerande läsmaterial.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

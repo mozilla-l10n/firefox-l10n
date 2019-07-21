@@ -67,5 +67,5 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 cfr-whatsnew-button =
     .label = Vad är nytt
-    .tooltiptext = Vad är nytt?
+    .tooltiptext = Vad är nytt
 cfr-whatsnew-panel-header = Vad är nytt

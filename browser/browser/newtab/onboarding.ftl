@@ -30,8 +30,8 @@ onboarding-join-form-legal = Genom att fortsätta godkänner du <a data-l10n-nam
 onboarding-join-form-continue = Fortsätt
 onboarding-start-browsing-button-label = Börja surfa
 onboarding-cards-dismiss =
-    .title = Avfärda
-    .aria-label = Avfärda
+    .title = Ignorera
+    .aria-label = Ignorera
 
 ## Firefox Sync modal dialog strings.
 
