@@ -24,11 +24,16 @@ features-title = Característiques del { -brand-short-name }
 features-name = Nom
 features-version = Versió
 features-id = ID
+processes-title = Processos remots
+processes-type = Tipus
+processes-count = Recompte
 app-basics-title = Paràmetres bàsics de l'aplicació
 app-basics-name = Nom
 app-basics-version = Versió
 app-basics-build-id = Identificador del muntatge
 app-basics-update-channel = Canal d'actualitzacions
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Directori d'actualització
@@ -52,7 +57,11 @@ app-basics-performance = Rendiment
 app-basics-service-workers = Processos de treball de servei registrats
 app-basics-profiles = Perfils
 app-basics-multi-process-support = Finestres multiprocés
+app-basics-remote-processes-count = Processos remots
 app-basics-enterprise-policies = Polítiques d'empresa
+app-basics-location-service-key-google = Clau del servei d'ubicació de Google
+app-basics-safebrowsing-key-google = Clau del servei de navegació segura Google Safebrowsing
+app-basics-key-mozilla = Clau del servei d'ubicació de Mozilla
 app-basics-safe-mode = Mode segur
 show-dir-label =
     { PLATFORM() ->
@@ -77,6 +86,8 @@ graphics-gpu2-title = GPU núm. 2
 graphics-decision-log-title = Registre de decisions
 graphics-crash-guards-title = Característiques del protector de fallades desactivades
 graphics-workarounds-title = Solucions temporals
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Protocol de finestres
 place-database-title = Base de dades de llocs
 place-database-integrity = Integritat
 place-database-verify-integrity = Verifica la integritat
