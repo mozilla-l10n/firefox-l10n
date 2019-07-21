@@ -143,6 +143,15 @@ newtab-empty-section-highlights = Pradėkite naršyti, o mes čia pateiksime pui
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Viską perskaitėte. Užsukite vėliau, norėdami rasti daugiau gerų straipsnių iš „{ $provider }“. Nekantraujate? Pasirinkite populiarią temą, norėdami rasti daugiau puikių straipsnių saityne.
 
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-header = Viską perskaitėte!
+newtab-discovery-empty-section-topstories-content = Daugiau straipsnių atsiras vėliau.
+newtab-discovery-empty-section-topstories-try-again-button = Bandyti dar kartą
+newtab-discovery-empty-section-topstories-loading = Įkeliama…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Oi! Mes beveik įkėlėme šį skyrių, tačiau ne visai.
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
