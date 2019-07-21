@@ -104,3 +104,4 @@ onboarding-facebook-container-button = एक्सटेंशन जोड़�
 
 return-to-amo-sub-header = महान, { -brand-short-name }आपको  मिला है
 return-to-amo-extension-button = एक्सटेंशन जोड़ें
+return-to-amo-get-started-button = { -brand-short-name } से शुरुवात करें
