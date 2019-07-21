@@ -6,6 +6,12 @@ process-type-web = Sa nu riña web
 # process used to run privileged pages,
 # such as about:home
 process-type-privileged = Sa nu hua hue'ê doj
+# process used to run privileged about pages,
+# such as about:home
+process-type-privilegedabout = Hua sa hua riñant Guendâ
+# process used to run privileged mozilla pages,
+# such as accounts.firefox.com
+process-type-privilegedmozilla = Nuguan' du'ue riña Mozilla
 process-type-extension = A'ngô ra'a
 # process used to open file:// URLs
 process-type-file = archibô nichrùn'un
