@@ -19,6 +19,7 @@ abuse-report-submit-note = 'Ngo nuguan'an: Si gachrûnt 'ngo nuguan' hua rayi'î
 abuse-report-cancel-button = Duyichin'
 abuse-report-next-button = Guij ne' ñaan
 abuse-report-goback-button = Nanikàj rukù
+abuse-report-submit-button = Gà'nïnj gan'an
 
 ## Message bars descriptions.
 
@@ -26,9 +27,25 @@ abuse-report-goback-button = Nanikàj rukù
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+abuse-report-messagebar-aborted = Nuguan' huaj guendâ <span data-l10n-name="addon-name">{ $addon-name }</span> giyichin' man.
+abuse-report-messagebar-submitting = Hìaj na'nïn nuguan'an gan'anj guendâ <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-submitted = Guruhuât nata' snan'anjt. Ruhuât nadurê' raj? <span data-l10n-name="addon-name">{ $addon-name }</span>
+abuse-report-messagebar-submitted-noremove = Guruhuât nata' snan'anjt.
+abuse-report-messagebar-removed-extension = Guruhuât nata' snan'anjt. Nadurê't ekstensiun <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-theme = Guruhuât nata' snan'anjt. Nadurê't têma <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error = Ga 'ngo sa gahui' a'nan' ngà na'nïnt nuguan'an <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error-recent-submit = Nuguan' huaj guendâ <span data-l10n-name="addon-name">{ $addon-name }</span> nu gan'an dadin' ngà hua a'ngô nuguan' nukui' riñanj.
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove-extension = Ga'ue, Guxun man
+abuse-report-messagebar-action-keep-extension = Si ga'ue, Ruhuâj na'nïnj sa'àj man
+abuse-report-messagebar-action-remove-theme = Ga'ue, Guxun man
+abuse-report-messagebar-action-keep-theme = Si ga'ue, Ruhuâj na'nïnj sa'àj man
+abuse-report-messagebar-action-retry = A'ngô ñûn
+abuse-report-messagebar-action-cancel = Duyichin'
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason = 'Iaj yi'ìj si aga'á aga' sikà' ràa ni nej sinuguan'ànj
+abuse-report-damage-example = Dàj rû': yi'ì atûj asi nuguan' huan'anj ni'ia
