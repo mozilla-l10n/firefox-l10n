@@ -31,6 +31,8 @@
 <!ENTITY fillLoginMenu.accesskey      "U">
 <!ENTITY fillSuggestedPassword.label  "Naudoti siūlomą slaptažodį">
 <!ENTITY fillSuggestedPassword.accesskey "s">
+<!ENTITY fillGeneratedPassword.label  "Naudoti saugiai sugeneruotą slaptažodį">
+<!ENTITY fillGeneratedPassword.accesskey "s">
 <!ENTITY fillPasswordMenu.label       "Užpildyti slaptažodį">
 <!ENTITY fillPasswordMenu.accesskey   "U">
 <!ENTITY fillUsernameMenu.label       "Užpildyti naudotojo vardą">
