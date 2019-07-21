@@ -259,6 +259,9 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro = Rû' huin 'ngo aplikasiûn huin nej ekstensiûn ngà nej têma guendâ riña sa nana'uî't nuguan'an, ni rugûñu'unj nej man duguminj nej da'nga' huì hua 'iát, nadunïnjt sa ni'iajt, narì't 'ngo sa nïnj du'uee, guxunt nej sa nitaj si ruhuât ni'iajt, nadunat dàj huin ruhuât ruguì' riña sa nana'uî't nuguan'an, ni doj rasuun huaa. Nej rasun li nan sani a'ngô nej duguî' rirà nej man. Hiuj nan mân 'ngo yi'nïn'ïn { -brand-product-name }<a data-l10n-name="learn-more-trigger">ni'ñanj</a> guendâ dgumîn' sa'àj sò', ni da' gi'iaj sun hue'ej ni gi'iaj sun hìo doj.
 
 ## Add-on actions
 
