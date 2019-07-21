@@ -15,6 +15,7 @@ about-telemetry-option-group-older = Sa nâ doj
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Nej sa ma Telemetry
+about-telemetry-current-store = Tiendâ nakàa:
 about-telemetry-more-information = Hua nuguan' nana'uî't doj aj.
 about-telemetry-firefox-data-doc = Sa <a data-l10n-name="data-doc-link"> nagi'iaj chre' si nuguà' Firefox <a> gu'nàj </a> nikaj chrej ganikò' da' nachrun' daran' si nuguàn'anj.
 about-telemetry-telemetry-client-doc = Si <a data-l10n-name="client-doc-link"> Firefox Telemetrîa riña nachra chrej nuguan'an</a> nika daj gataj go'ngo nuguan'an ruhuaj, si nuguàn API ni ñanj màn chre' guendâ nej dâto.
@@ -141,3 +142,6 @@ about-telemetry-origin-count = Guânda
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link"> Dàj gurugui' si Telemetria Firefox</a>Nagi'iaj chre' dâto hìaj gàchin ga'nïnjt{ $telemetryServerOwner } Ga'ue nataj rasuun { -brand-product-name } ruguñu'un guendâ nan. (<a data-l10n-name="prio-blog-link">gahuin chrun doj</a>)
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = Chrej ganikò' { $process }
