@@ -8,6 +8,9 @@ profiles-create = Crea un perfil nou
 profiles-restart-title = Reinicia
 profiles-restart-in-safe-mode = Reinicia amb els complements inhabilitats…
 profiles-restart-normal = Reinicia normalment…
+profiles-flush-fail-title = No s'han desat els canvis
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-restart-button = Reinicia el { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Perfil: { $name }
