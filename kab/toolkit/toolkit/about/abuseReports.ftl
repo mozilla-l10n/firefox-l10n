@@ -49,4 +49,5 @@ abuse-report-settings-suggestions-search = Snifel iɣewwaṛen n  unadi amezwer
 abuse-report-settings-suggestions-homepage = Snifel asebter agejdan akked yiccer amaynut
 abuse-report-broken-reason-theme = UR iteddu ara neɣ iseḥbes askan n yiminig
 abuse-report-policy-reason = Agbur n kaṛuh, n tekriḍt neɣ arusḍif
+abuse-report-unwanted-reason = Werǧin bɣiɣ asiɣzef-agi yerna ur zmireɣ ad t-kkseɣ
 abuse-report-other-reason = Ayen nniḍen

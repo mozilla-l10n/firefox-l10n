@@ -40,6 +40,8 @@ app-basics-update-dir =
     }
 app-basics-update-history = Amazray n ileqman
 app-basics-show-update-history = Sken amazray n ileqman
+# Represents the path to the binary used to start the application.
+app-basics-binary = Timsint n usnas
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Akaram n umaɣnu
@@ -55,6 +57,7 @@ app-basics-service-workers = Tanfa Workers iţwaklesen
 app-basics-profiles = Imeɣna
 app-basics-launcher-process-status = Akala n tnekra
 app-basics-multi-process-support = Isfuyla agetakala
+app-basics-remote-processes-count = Ikalan inmeggagen
 app-basics-enterprise-policies = Tasertit n tkebbanit
 app-basics-location-service-key-google = Tasarutt n umeẓlu n wadi Google
 app-basics-key-mozilla = Tasarutt n umeẓlu n wadi Mozilla
