@@ -39,7 +39,7 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Dokument wygasł">
-<!ENTITY notCached.longDesc "<p>Żądany dokument nie jest dostępny w pamięci podręcznej.</p><ul><li>Ze względów bezpieczeństwa, &brandShortName; automatycznie nie pobiera ponownie wrażliwych dokumentów.</li><li>Kliknij przycisk „Spróbuj ponownie”, aby jeszcze raz pobrać dokument z witryny.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Żądany dokument nie jest dostępny w pamięci podręcznej.</p><ul><li>Ze względów bezpieczeństwa, &brandShortName; automatycznie nie pobiera ponownie prywatnych dokumentów.</li><li>Kliknij przycisk „Spróbuj ponownie”, aby jeszcze raz pobrać dokument z witryny.</li></ul>">
 
 <!ENTITY netOffline.title "Tryb offline">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.

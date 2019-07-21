@@ -844,7 +844,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_camera_microphone "Kamera i mikrofon">
 <!ENTITY restrictable_feature_camera_microphone_description "Umożliwia członkom rodziny korzystanie z komunikacji w czasie rzeczywistym.">
 <!ENTITY restrictable_feature_block_list "Lista blokowanych stron">
-<!ENTITY restrictable_feature_block_list_description "Blokowanie stron zawierających wrażliwą treść.">
+<!ENTITY restrictable_feature_block_list_description "Blokowanie stron zawierających prywatną treść.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
