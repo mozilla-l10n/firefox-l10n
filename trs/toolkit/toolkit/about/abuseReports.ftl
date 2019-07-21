@@ -49,3 +49,14 @@ abuse-report-messagebar-action-cancel = Duyichin'
 
 abuse-report-damage-reason = 'Iaj yi'ìj si aga'á aga' sikà' ràa ni nej sinuguan'ànj
 abuse-report-damage-example = Dàj rû': yi'ì atûj asi nuguan' huan'anj ni'ia
+abuse-report-spam-reason = Rij spam asi nuguan' nitaj si ruhuô' ni'io'
+abuse-report-spam-example = Dàj rû': A'nïn nuguan' nitaj si ruhuô' ni'io' riña pajina
+abuse-report-settings-reason = Nitaj si nachin' nan'an ni nadunaj sa riña nana'uí nuguan'an, pajinâ ayi'ìj asi rikïj ñanj nakàa.
+abuse-report-settings-suggestions = Asij achin gutà't gakïn' rayi'î ekstensiûn ni naduna sinïn si configurasiûnt:
+abuse-report-settings-suggestions-search = Naduna sa hua riña sa nana'nuî't 'na' niñaa
+abuse-report-settings-suggestions-homepage = Naduna si pajinât riña ayi'ìt ni rakïj ñanj nakàa
+abuse-report-deceptive-reason = Gahuin 'ngo sa sêj huin ruhuaj
+abuse-report-deceptive-example = Dàj rû': Nuguan' asi ñadu'ua diga'ñun'unj un
+abuse-report-broken-reason-extension = Nitaj si 'iaj sunj, dure'ej nej sîtio, asi nagi'iaj nna { -brand-product-name }
+abuse-report-broken-reason-theme = Nitaj si 'iaj sunj asi dure'ej riña sa nana'uî' nuguan'an
+abuse-report-broken-example = Dàj rû': 'Iaj sun nnaj nej sa nika, chì' gi'iaj sun' ngàj asi nu ni'ñan; na'ue na'nïn da'àj sa ruhuô' ni'io' asi ninïn huaj
