@@ -352,3 +352,9 @@ available-updates-heading = Nej sa ga'ue nahuin nakà
 recent-updates-heading = Nej sa hìaj nahuin nakà
 release-notes-loading = Hìaj ayi'ij...
 release-notes-error = Si ga'man ruhuât sani, ga 'ngo sa gahui a'na' ngà nej si nota versiôn.
+addon-permissions-empty = Nitaj si ni'ñanj ekstensiûn nan gà' si 'ngo nuguan arajyinaa
+recommended-extensions-heading = Nej ekstensiûn ga'ue garasunt
+recommended-themes-heading = Nej temâ ga'ue garasunt
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Ûta hua sa ahui ràt ruhuâ raj? <a data-l10n-name="link">Girirà dàj ga si temât ngà Firefox Color.</a>
