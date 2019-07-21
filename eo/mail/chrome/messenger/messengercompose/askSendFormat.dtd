@@ -3,18 +3,18 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
-<!ENTITY windowTitle.label "HTML Mail Question">
+<!ENTITY windowTitle.label "Demando pri retleteroj en HTML">
 
-<!ENTITY recipient.label "Some of the recipients are not listed as being able to receive HTML mail.">
+<!ENTITY recipient.label "Kelkaj de ricevontoj ne estas listigitaj kiel eblantaj ricevi mesaĝojn en la HTML‑formo.">
 
-<!ENTITY question.label "Would you like to convert the message to plain text or send it in HTML anyway?">
+<!ENTITY question.label "Ĉu sendi la mesaĝon en HTML aŭ konverti ĝin al platteksto?">
 
-<!ENTITY plainTextAndHtml.label "Send in Plain Text and HTML">
-<!ENTITY plainTextAndHtml.accesskey "a">
-<!ENTITY plainTextOnly.label "Send in Plain Text Only">
-<!ENTITY plainTextOnly.accesskey "P">
-<!ENTITY htmlOnly.label "Send in HTML Only">
+<!ENTITY plainTextAndHtml.label "Sendi kiel plattekston kaj HTML">
+<!ENTITY plainTextAndHtml.accesskey "k">
+<!ENTITY plainTextOnly.label "Sendi nur kiel plattekston">
+<!ENTITY plainTextOnly.accesskey "p">
+<!ENTITY htmlOnly.label "Sendi nur kiel HTML">
 <!ENTITY htmlOnly.accesskey "H">
 
-<!ENTITY send.label "Send">
+<!ENTITY send.label "Sendi">
 <!ENTITY send.accesskey "S">
