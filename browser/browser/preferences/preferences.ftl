@@ -845,7 +845,7 @@ addon-recommendations-link = Więcej informacji
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Przesyłanie danych jest wyłączone przy tej konfiguracji programu
 collection-backlogged-crash-reports =
-    .label = Przesyłanie zgromadzonych raportów z awarii przeglądarki { -brand-short-name }.
+    .label = Przesyłanie zgromadzonych zgłoszeń awarii przeglądarki { -brand-short-name }.
     .accesskey = o
 collection-backlogged-crash-reports-link = Więcej informacji
 
