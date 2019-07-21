@@ -278,6 +278,7 @@
 <!ENTITY pref_cookies_menu "ਕੂਕੀਜ਼">
 <!ENTITY pref_cookies_accept_all "ਸਮਰੱਥ ਹੈ">
 <!ENTITY pref_cookies_not_accept_foreign "ਸੁਤੰਤਰ ਧਿਰ ਤੋਂ ਬਿਨਾਂ ਸਮਰੱਥ">
+<!ENTITY pref_cookies_not_accept_trackers "ਟਰੈਕ ਕਰਨ ਵਾਲੇ ਕੂਕੀਜ਼ ਤੋਂ ਬਿਨਾਂ ਸਮਰੱਥ ਕਰੋ">
 <!ENTITY pref_cookies_disabled "ਅਸਮਰੱਥ ਹੈ">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
