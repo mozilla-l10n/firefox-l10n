@@ -262,20 +262,55 @@ go-back-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro = Rû' huin 'ngo aplikasiûn huin nej ekstensiûn ngà nej têma guendâ riña sa nana'uî't nuguan'an, ni rugûñu'unj nej man duguminj nej da'nga' huì hua 'iát, nadunïnjt sa ni'iajt, narì't 'ngo sa nïnj du'uee, guxunt nej sa nitaj si ruhuât ni'iajt, nadunat dàj huin ruhuât ruguì' riña sa nana'uî't nuguan'an, ni doj rasuun huaa. Nej rasun li nan sani a'ngô nej duguî' rirà nej man. Hiuj nan mân 'ngo yi'nïn'ïn { -brand-product-name }<a data-l10n-name="learn-more-trigger">ni'ñanj</a> guendâ dgumîn' sa'àj sò', ni da' gi'iaj sun hue'ej ni gi'iaj sun hìo doj.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations = Hua da'aj nej rasuun na ni ngà huaj 'naj. Dadin' ni'ia dàj hua nej sa ngà nun 'iát,dàj rû' si perfîlt, ni dàj araj sunt nej man.
+discopane-notice-learn-more = Gahuin chrūn doj
+privacy-policy = Sa garayino’
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = guendâ <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Nej sa araj sun: { $dailyUsers }
+install-extension-button = Nutà' guendâ { -brand-product-name }
+install-theme-button = ga'nïnj têma
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Ganikaj ñu'un'
+find-more-addons = Narì' doj sa nutà't
 
 ## Add-on actions
 
+report-addon-button = Gutà' 'ngo gakïn'ïn
 remove-addon-button = Guxūn
 disable-addon-button = Dunikïn'
 enable-addon-button = Dugi'iaj sun' man
 expand-addon-button = Doj sa ga'ue nagi'át
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Sa huaa
+       *[other] Sa arajsunt doj
+    }
+details-addon-button = A'ngô nej sa nika
+release-notes-addon-button = Nuguan' ri' riña aga' na
+permissions-addon-button = Gachinj ni'iô'
 addons-enabled-heading = Ngà 'iaj sunj
 addons-disabled-heading = Nitaj si huáj
+ask-to-activate-button = Gachinj nì'iaj dugi'iaj sunt man
+always-activate-button = Dugi'iaj sun yitïnj man
+never-activate-button = Nitaj aman dugi'iaj sunt man
 addon-detail-author-label = Sí girirà:
 addon-detail-version-label = Bersiûn
 addon-detail-last-updated-label = Sa nagi'iaj nakà rukù nïn't
 addon-detail-homepage-label = Ñanj ayi'ì'
 addon-detail-rating-label = Antaj nikò guìi araj sun man
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Naga'uì' sa du'ue { NUMBER($rating, maximumFractionDigits: 1) } asîj yakaj gan'anj 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -291,3 +326,29 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> ngà giyi'nej man.
+pending-uninstall-undo-button = Nadurê'
+addon-detail-updates-label = Ga'nín nagi'iaj nakà man'an man
+addon-detail-updates-radio-default = Sa gà' 'na' niñaan
+addon-detail-updates-radio-on = Nachrun
+addon-detail-updates-radio-off = Duna'àj
+addon-detail-update-check-label = Nana'uì' sa Nahuin nakà doj
+install-update-button = Nagi'iaj nakà
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Màn riña nej bentanâ huìi huaj
+addon-detail-private-browsing-help = Sisi ga'nïn, ekstensiûn nan ga'ue ni'iaj sa 'iát nga aché nun huìt. <a data-l10n-name="learn-more">Gahuin chrun doj</a>
+addon-detail-private-browsing-allow = Ga'nïn
+addon-detail-private-browsing-disallow = Si ga'nï'
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Sā sà'a huin ânj
+    .alt = Sā sà'a huin ânj
+available-updates-heading = Nej sa ga'ue nahuin nakà
+recent-updates-heading = Nej sa hìaj nahuin nakà
+release-notes-loading = Hìaj ayi'ij...
+release-notes-error = Si ga'man ruhuât sani, ga 'ngo sa gahui a'na' ngà nej si nota versiôn.
