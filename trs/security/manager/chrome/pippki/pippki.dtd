@@ -13,6 +13,7 @@
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "Nagi'iaj ñû">
 <!ENTITY resetPassword.title  "Nagi'iaj da'nga' huì ñaa">
+<!ENTITY resetPassword.text  "Si nachrūn ñûnt da'nga' huì a'nïn' nikājt, nī narè' daran' nej da'nga' huì nū sà' riña si korreôt ni roña web, si nuguàn' formulârio, si sertifikadôt nī nej da'nga' huì hua 'iát. Anïn hia ruhuât nachrūnt da'nga' huì a'nïn' nikāj raj?">
 
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "si naduninj ma sertifikado">
