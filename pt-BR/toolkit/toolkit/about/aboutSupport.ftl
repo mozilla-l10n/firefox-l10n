@@ -35,6 +35,8 @@ app-basics-name = Nome
 app-basics-version = Versão
 app-basics-build-id = ID da compilação
 app-basics-update-channel = Canal de atualização
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Diretório de atualizações
@@ -59,7 +61,6 @@ app-basics-service-workers = Service Workers registrados
 app-basics-profiles = Perfis
 app-basics-launcher-process-status = Processo de lançamento
 app-basics-multi-process-support = Janelas multiprocessadas
-app-basics-process-count = Processos de conteúdo web
 app-basics-remote-processes-count = Processos remotos
 app-basics-enterprise-policies = Políticas empresariais
 app-basics-location-service-key-google = Chave do Serviço de Localização do Google
@@ -188,7 +189,7 @@ try-newer-driver = Bloqueado para a versão do seu driver gráfico. Tentar atual
 clear-type-parameters = Parâmetros ClearType
 compositing = Composição
 hardware-h264 = Decodificação H264 por hardware
-main-thread-no-omtc = tópico principal, sem OMTC
+main-thread-no-omtc = thread principal, sem OMTC
 yes = Sim
 no = Não
 unknown = Desconhecido
@@ -240,8 +241,7 @@ gpu-device-reset-button = Ativar a Redefinição de Dispositivo
 uses-tiling = Usa mosaicos
 content-uses-tiling = Usa mosaicos (conteúdo)
 off-main-thread-paint-enabled = Ativado o desenho fora do processo principal
-off-main-thread-paint-worker-count = Contagem de desenho fora do tópico principal
-low-end-machine = Detectada máquina com desempenho inferior
+off-main-thread-paint-worker-count = Contagem de desenho fora do thread principal
 target-frame-rate = Alvo de taxa de atualização
 audio-backend = Infraestrutura de Áudio
 max-audio-channels = Máximo de Canais
@@ -250,7 +250,7 @@ sample-rate = Taxa de amostragem preferida
 min-lib-versions = Versão mínima esperada
 loaded-lib-versions = Versão em uso
 has-seccomp-bpf = Seccomp-BPF (Sistema de filtragem de chamadas)
-has-seccomp-tsync = Sincronização do Tópico Seccomp
+has-seccomp-tsync = Sincronização do thread Seccomp
 has-user-namespaces = Espaço de nomes do usuário
 has-privileged-user-namespaces = Espaço de nomes do usuário para processos privilegiados
 can-sandbox-content = Isolamento de processamento de conteúdo
