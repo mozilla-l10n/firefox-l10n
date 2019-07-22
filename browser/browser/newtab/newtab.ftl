@@ -145,6 +145,7 @@ newtab-empty-section-topstories = Готово. Перевірте згодом,
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = Ви все прочитали!
 newtab-discovery-empty-section-topstories-content = Перевірте згодом, щоб побачити більше матеріалів.
 newtab-discovery-empty-section-topstories-try-again-button = Спробувати знову
 newtab-discovery-empty-section-topstories-loading = Завантаження…
