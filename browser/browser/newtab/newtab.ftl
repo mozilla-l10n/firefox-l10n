@@ -143,6 +143,15 @@ newtab-empty-section-highlights = Cumenza a navigar e nus ta mussain qua artitge
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Ussa has ti legì tut las novitads. Turna pli tard per ulteriuras novitads da { $provider }. Na pos betg spetgar? Tscherna in tema popular per chattar ulteriuras istorgias ord il web.
 
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-header = I na dat nagut auter.
+newtab-discovery-empty-section-topstories-content = Returna pli tard per scuvrir auters artitgels.
+newtab-discovery-empty-section-topstories-try-again-button = Reempruvar
+newtab-discovery-empty-section-topstories-loading = Chargiar…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Oha! Nus avain quasi chargià il cuntegn, ma be quasi.
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
