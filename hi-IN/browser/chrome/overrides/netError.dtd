@@ -130,6 +130,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "ब्लॉक किया हुआ पृष्ट">
 
 
+<!ENTITY clockSkewError.title "आपकी कंप्यूटर की घडी गलत है">
 
 <!ENTITY prefReset.longDesc "लगता है आपकी नेटवर्क सिक्योरिटी के कारण यह हो रहा है. क्या आप चाहते हैं कि आपकी सेटिंग पुरानी स्थिति में आ जाए?">
 <!ENTITY prefReset.label "तयशुदा सेटिंग्स पुरानी स्थिति में लाएं">
