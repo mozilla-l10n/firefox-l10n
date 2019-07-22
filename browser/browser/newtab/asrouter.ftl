@@ -61,3 +61,10 @@ cfr-doorhanger-bookmark-fxa-link-text = …ਬੁੱਕਮਾਰਕ ਹੁਣੇ
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = ਬੰਦ ਕਰੋ ਬਟਨ
     .title = ਬੰਦ ਕਰੋ
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = ਨਵਾਂ ਕੀ ਹੈ
+    .tooltiptext = ਨਵਾਂ ਕੀ ਹੈ
+cfr-whatsnew-panel-header = ਨਵਾਂ ਕੀ ਹੈ
