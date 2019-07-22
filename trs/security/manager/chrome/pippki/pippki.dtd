@@ -20,6 +20,7 @@
 <!ENTITY downloadCert.message1 "Gachin ni'io' da' gida'aj si nuguan' 'ngò Dukuâ sun 'iaj sertifikando (CA).">
 <!ENTITY downloadCert.trustSSL "Ga'nin' da' ni CA nani'ìn da'ngà' daj hua sitio web.">
 <!ENTITY downloadCert.trustEmail "Garasun CA na da' nani'in da'ngaj nej duguî' araj sun correo">
+<!ENTITY downloadCert.message3 "Āsij nï' gàchin garasunt CA nan nī, da'uît ni'iājt si sertifikadoj nī nej chrēj nīka (si ga'ue).">
 <!ENTITY downloadCert.viewCert.label "Gini'iaj">
 <!ENTITY downloadCert.viewCert.text "Natsi' CA sertifikado">
 
