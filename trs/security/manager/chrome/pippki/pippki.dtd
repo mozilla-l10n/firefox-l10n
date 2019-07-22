@@ -31,14 +31,20 @@
 <!ENTITY clientAuthAsk.message3 "Nej sa nikaj certificado gida'at:">
 
 <!ENTITY pkcs12.setpassword.title  "Gachrun' 'ngò da'ngà huìi guenda sertifikado na">
+<!ENTITY pkcs12.setpassword.message  "Da'nga' huì nikāj sa dugumîn sertifikâdo nū hiūj nan nī duguminj archibô huin ruhuât girīt.  Da'uît garasunt da'nga' huì nikājt da' ga'ue narīt ñadu'ua man.">
 <!ENTITY pkcs12.setpassword.label1 "Da'ngà' huìi guenda sertifikado na:">
 <!ENTITY pkcs12.setpassword.label2 "Da'ngà' huìi guenda sertifikado na (gi'iaj hìo'):">
 <!ENTITY pkcs12.setpassword.reminder "Sa ña'āanj: Si sā gini'ñunt si da'ngà' huì si sertifikadot nī si ga'ue nari' ñut'. Na'nïnj sa' hue'e.">
 
+<!ENTITY chooseToken.title  "Garasun Token Dialog">
 <!ENTITY chooseToken.message1 "Ganahui 'ngò rasuun.">
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Si ri ma 'ngò da'ngà' huìi">
+<!ENTITY createCertInfo.msg1 "Hìaj nû huin rij da'nga' huìi… Ga'ue gahuin rànj doj….">
+<!ENTITY createCertInfo.msg2 "Ganà'uij akuan'…">
 
 <!-- Strings for protectedAuth dialog -->
+<!ENTITY protectedAuth.title "Ni'ia dàj hua Token huā rán rayi'î">
+<!ENTITY protectedAuth.msg "Gi'iaj 'ngō sunūj un nī nadigânt man'ânt riña token. Chrēj nīkoj da' nadiganj sò' daj hua man'an si tokênt.">
 <!ENTITY protectedAuth.tokenName.label "Token:">
