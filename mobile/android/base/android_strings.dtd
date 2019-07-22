@@ -4,7 +4,9 @@
 
 <!ENTITY firstrun_panel_title_welcome "ಸ್ವಾಗತ">
 <!ENTITY firstrun_urlbar_message2 "ಆಯ್ಕೆ ಮಾಡಿದ್ದಕ್ಕೆ ಧನ್ಯವಾದಗಳು &brandShortName;‍">
+<!ENTITY newfirstrun_urlbar_message "&brandShortName; ಗೆ ಸ್ವಾಗತ">
 <!ENTITY firstrun_urlbar_subtext2 "ಸ್ವತಂತ್ರ ಮತ್ತು ಮುಕ್ತ ಜಾಲಕ್ಕಾಗಿ ಬದ್ಧವಾಗಿರುವ ಲಾಭರಹಿತವಾದ ಮೊಜಿಲ್ಲಾದಿಂದ ಒಂದು ಆಧುನಿಕ ಮೊಬೈಲ್ ಬ್ರೌಸರ್.">
+<!ENTITY newfirstrun_urlbar_subtext "ವೇಗವಾಗಿ, ಖಾಸಗಿ ಮತ್ತು ನಿಮ್ಮ ಕಡೆ.">
 <!ENTITY firstrun_panel_title_privacy "ಗೌಪ್ಯತೆ">
 <!ENTITY firstrun_privacy_message "ಯಾರೂ ನೋಡದಿರುವಂತೆ ಜಾಲಾಡಿ">
 <!ENTITY firstrun_privacy_subtext "ನೀವು ಟ್ರ್ಯಾಕಿಂಗ್ ಸಂರಕ್ಷಣೆಯೊಂದಿಗೆ ಖಾಸಗಿ ಜಾಲಾಟ ಮಾಡುವುದರಿಂದ ನಿಮ್ಮ ಜಾಲವೀಕ್ಷಣಾ ವರ್ತನೆಯ ಬಗ್ಗೆ ಮಾಹಿತಿಯನ್ನು ಸಂಗ್ರಹಿಸುವ ಟ್ರ್ಯಾಕರ್‌ಗಳನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ನೀವು ಜಾಲವೀಕ್ಷಣೆಯನ್ನು ಮುಗಿಸಿದಾಗ ನಿಮ್ಮ ಜಾಲವೀಕ್ಷಣಾ ಇತಿಹಾಸವನ್ನು ಮರೆಯುತ್ತದೆ.">
@@ -18,10 +20,13 @@
 <!ENTITY firstrun_data_message "ಕಡಿಮೆ ದತ್ತಾಂಶ, ಹೆಚ್ಚು ಉಳಿತಾಯ">
 <!ENTITY firstrun_data_subtext2 "‍ನೀವು ವಿಹರಿಸುವ ಪ್ರತಿಯೊಂದೂ ತಾಣದಲ್ಲಿ ಕಡಿಮೆ ಡೇಟಾ ವ್ಯಯಿಸಲು ಚಿತ್ರಗಳನ್ನು ಅಡಗಿಸಿ. ">
 <!ENTITY firstrun_sync_title "ಸಿಂಕ್">
+<!ENTITY updatednewfirstrun_sync_title "ಖಾತೆ">
 <!ENTITY firstrun_sync_message2 "ನೀವು ಬಿಟ್ಟು ಹೋದಲ್ಲಿಂದ ಮುಂದುವರೆಸಿ.">
 <!ENTITY firstrun_sync_subtext2 "ನಿಮ್ಮ ಎಲ್ಲಾ ಸಾಧನಗಳಲ್ಲಿ &brandShortName; ಗೆ ನೀವು ಉಳಿಸುವ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು, ಗುಪ್ತಪದಗಳು ಮತ್ತು ಇತರ ವಿಷಯಗಳನ್ನು ಹುಡುಕಲು ಸಿಂಕ್ ಅನ್ನು ಬಳಸಿ.">
 <!ENTITY firstrun_signin_message "ಸಂಪರ್ಕಕ್ಕೆ ಬನ್ನಿ, ಪ್ರಾರಂಭಿಸಲು ಅನುವಾಗಿ">
 <!ENTITY firstrun_signin_button "ಸಿಂಕ್ ಮಾಡಲು ಸೈನ್ ಇನ್ ಆಗಿ">
+<!ENTITY newfirstrun_signin_button "ಸಿಂಕ್ ಆನ್ ಮಾಡಿ">
+<!ENTITY updatednewfirstrun_signin_button "&brandShortName; ನಲ್ಲಿ ತೆರೆ">
 <!ENTITY  onboard_start_button_browser "ಅಂತರ್ಜಾಲದ ವೀಕ್ಷಣೆಯನ್ನು ಪ್ರಾರಂಭಿಸಿ">
 <!ENTITY firstrun_button_notnow "ಈಗ ಬೇಡ">
 <!ENTITY firstrun_button_next "ಮುಂದೆ">
@@ -61,6 +66,10 @@
 <!ENTITY  sending_crash_report "ಕ್ರಾಶ್ ರಿಪೋರ್ಟ್ ಕಳುಹಿಸಲಾಗುತ್ತಿದೆ\u2026">
 <!ENTITY  crash_close_label "ಮುಚ್ಚು">
 <!ENTITY  crash_restart_label "&brandShortName; ಅನ್ನು ಮರಳಿ ಆರಂಭಿಸು">
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; ಕುಸಿತಗೊಂಡಿದೆ">
+<!ENTITY  crash_notification_negative_button_text "ನಿರ್ಲಕ್ಷಿಸು">
 
 <!ENTITY url_bar_default_text2 "ಹುಡುಕಿ ಅಥವಾ ವಿಳಾಸವನ್ನು ನಮೂದಿಸಿ">
 
@@ -103,6 +112,9 @@
 <!ENTITY bookmark_folder_updated "ಕಡತಕೋಶದ ಪರಿಷ್ಕರಿಸಲಾಗಿದೆ">
 <!ENTITY bookmark_parent_folder "ಪೋಷಕ ಕಡತಕೋಶ">
 <!ENTITY bookmark_add_folder "ಕಡತ ಕೋಶ ಸೇರಿಸು">
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(ಯಾವುದೆ ಶೀರ್ಷಿಕೆಯಿಲ್ಲ)">
 
 <!ENTITY reader_saved_offline "ಆಫ್‌ಲೈನ್ ಉಳಿಸಲಾಗಿದೆ">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -262,6 +274,7 @@
 <!ENTITY pref_cookies_menu "ಕುಕಿಗಳು">
 <!ENTITY pref_cookies_accept_all "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 <!ENTITY pref_cookies_not_accept_foreign "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ, 3ನೆಯವರನ್ನು ಹೊರತುಪಡಿಸಿ">
+<!ENTITY pref_cookies_not_accept_trackers "ಟ್ರ್ಯಾಕಿಂಗ್ ಕುಕೀಗಳನ್ನು ಹೊರತುಪಡಿಸಿ, ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 <!ENTITY pref_cookies_disabled "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -322,11 +335,6 @@
 
 <!ENTITY pref_pwa "ಪ್ರೋಗ್ರೆಸಿವ್ ಜಾಲ ">
 <!ENTITY pref_pwa_summary "ಜಾಲ ಅನ್ವಯಗಳನ್ನು ಮುಖಪುಟದ ಪರದೆಗೆ ಸೇರಿಸುವುದನ್ನು ">
-
-<!ENTITY tracking_protection_prompt_title "ಈಗ ಜಾಡು ಇರಿಸುವಿಕೆಗೆ ರಕ್ಷಣೆ ಜೊತೆಗೆ">
-<!ENTITY tracking_protection_prompt_text "ಸಕ್ರಿಯವಾಗಿ ಜಾಡುಹಿಡಿಯುವ ಅಂಶಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿ ನೀವು ಚಿಂತಿಸುವುದನ್ನು ಬಿಡಬಹುದು.">
-<!ENTITY tracking_protection_prompt_tip_text "ಇನ್ನಷ್ಟು ತಿಳಿಯಲು ಖಾಸಗಿ ಸಿದ್ಧತೆಗಳಿಗೆ ಭೇಟಿಕೊಡಿ">
-<!ENTITY tracking_protection_prompt_action_button "ಅರ್ಥವಾಯಿತು!">
 
 <!ENTITY tab_queue_toast_message3 "&brandShortName; ನಲ್ಲಿ ಹಾಳೆಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ">
 <!ENTITY tab_queue_toast_action "ಈಗ ತೆಗೆ">
@@ -408,8 +416,9 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "ಇಳಿಕೆಗಳು">
 <!ENTITY pref_private_data_syncedTabs "ಸಿಂಕ್ ಮಾಡಿದ ಹಾಳೆಗಳು">
 
-<!ENTITY pref_default_browser "ಪೂರ್ವನಿಯೋಜಿತ ವೀಕ್ಷಕವನ್ನಾಗಿ ಮಾಡಿ">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla ಬೆಂಬಲಕ್ಕೆ ಭೇಟಿಕೊಡಿ">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY pref_about_firefox "&brandShortName; ಬಗ್ಗೆ">
 <!ENTITY pref_vendor_faqs "ಸಾಮಾನ್ಯವಾಗಿ ಕೇಳಲಾಗುವ ಪ್ರಶ್ನೆಗಳು">
 <!ENTITY pref_vendor_feedback "ಪ್ರತಿಕ್ರಿಯೆ ನೀಡು">
@@ -504,6 +513,9 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY find_next "ಮುಂದೆ">
 <!ENTITY find_close "ಮುಚ್ಚು">
 
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY media_sending_to "ಸಾಧನಕ್ಕೆ ಪ್ರಸರಣೊಗಳಿಸಲಾಗುತ್ತಿದೆ">
@@ -576,6 +588,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "ಸ್ಥಳ">
 <!ENTITY bookmark_edit_keyword "ಸೂಚಕ ಪದ">
 <!ENTITY bookmark_select_folder "ಕಡತ ಕೋಶ ಆಯ್ಕೆಮಾಡು">
+
+<!ENTITY bookmark_edit_undo "ರದ್ದುಗೊಳಿಸು">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -903,6 +917,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "ವಿರಾಮ">
 <!ENTITY pip_pause_button_description "ಪ್ಲೇ ವಿರಮಿಸು">
 
+<!ENTITY pref_notification_settings_link "ಸೂಚನೆಯ ಸಿದ್ಧತೆಗಳನ್ನು ನಿರ್ವಹಿಸಿ">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "ಬ್ರೌಸರ್">
 <!ENTITY mls_notification_channel "&vendorShortName; ಸ್ಥಳಾಧಾರಿತ ಸೇವೆಗಳು">
