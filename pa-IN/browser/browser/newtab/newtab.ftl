@@ -138,6 +138,11 @@ newtab-section-header-pocket = { $provider } ਵਲੋਂ ਸਿਫਾਰਸ਼�
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-try-again-button = ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰੋ
+newtab-discovery-empty-section-topstories-loading = ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
