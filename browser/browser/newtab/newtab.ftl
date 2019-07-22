@@ -66,9 +66,9 @@ newtab-menu-dismiss = ವಜಾಗೊಳಿಸು‍
 newtab-menu-pin = ಪಿನ್
 newtab-menu-unpin = ಅನ್‌ಪಿನ್
 newtab-menu-delete-history = ಇತಿಹಾಸದಿಂದ ಅಳಿಸು‍
-newtab-menu-save-to-pocket = ಪಾಕೆಟ್‌ನಲ್ಲಿ ಉಳಿಸಿ‍
-newtab-menu-delete-pocket = ಪಾಕೆಟ್ನಿಂದ ಅಳಿಸಿ
-newtab-menu-archive-pocket = ಪಾಕೆಟ್ನಲ್ಲಿ ಆರ್ಕೈವ್ ಮಾಡಿ
+newtab-menu-save-to-pocket = { -pocket-brand-name } ಗೆ ಉಳಿಸಿ‍
+newtab-menu-delete-pocket = { -pocket-brand-name } ನಿಂದ ಅಳಿಸಿ
+newtab-menu-archive-pocket = { -pocket-brand-name } ಆರ್ಕೈವ್ ಮಾಡಿ
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = ಪುಟ ಗುರುತು ತೆಗೆ
 # Bookmark is a verb here.
@@ -99,7 +99,7 @@ newtab-menu-open-file = ಕಡತವನ್ನು ತೆರೆ
 newtab-label-visited = ಭೇಟಿ ನೀಡಲಾದ‍
 newtab-label-bookmarked = ಪುಟಗುರುತು ಮಾಡಲಾದ
 newtab-label-recommended = ಪ್ರಚಲಿತ
-newtab-label-saved = ಪಾಕೆಟ್‌ನಲ್ಲಿ ಉಳಿಸಲಾಗಿದೆ
+newtab-label-saved = { -pocket-brand-name } ನಲ್ಲಿ ಉಳಿಸಲಾಗಿದೆ
 newtab-label-download = ಡೌನ್ಲೋಡ್ ಮಾಡಲಾಗಿದೆ
 
 ## Section Menu: These strings are displayed in the section context menu and are 
@@ -125,12 +125,15 @@ newtab-section-header-pocket = { $provider } ರಿಂದ ಶಿಫಾರಸು�
 
 newtab-empty-section-highlights = ವೀಕ್ಷಣೆ ಮಾಡಲು ಶುರುಮಾಡಿ, ಮತ್ತು ನಾವು ಇತ್ತೀಚೆಗೆ ಭೇಟಿ ನೀಡಿದ ಅಥವಾ ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡಲಾದ ಕೆಲವು ಶ್ರೇಷ್ಠ ಲೇಖನಗಳು, ವೀಡಿಯೊಗಳು ಮತ್ತು ಇತರ ಪುಟಗಳನ್ನು ನಾವು ತೋರಿಸುತ್ತೇವೆ.
 
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = ಜನಪ್ರಿಯವಾದ ವಿಷಯಗಳು:
 newtab-pocket-how-it-works = ಇದು ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ
-newtab-pocket-cta-button = ಪಾಕೆಟ್ ಪಡೆಯಿರಿ
+newtab-pocket-cta-button = { -pocket-brand-name } ಪಡೆಯಿರಿ
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
