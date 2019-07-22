@@ -315,6 +315,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = जब टाइप करना शुरू करते हैं तभी पाठ के लिए खोजें
     .accesskey = x
+browsing-cfr-features =
+    .label = ब्राउज़ करते समय सुविधाओं की सिफारिश करें
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = और जानें
 
 ## General Section - Proxy
