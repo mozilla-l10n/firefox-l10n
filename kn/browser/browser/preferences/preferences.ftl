@@ -285,7 +285,7 @@ home-prefs-highlights-options-bookmarks =
 home-prefs-highlights-option-most-recent-download =
     .label = ತೀರಾ ಇತ್ತೀಚಿನ ಡೌನ್ಲೋಡ್
 home-prefs-highlights-option-saved-to-pocket =
-    .label = ಪಾಕೆಟ್ಗೆ ಉಳಿಸಲಾದ ಪುಟಗಳು
+    .label = { -pocket-brand-name } ನಲ್ಲಿ ಉಳಿಸಲಾದ ಪುಟಗಳು
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
