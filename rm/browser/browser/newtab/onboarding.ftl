@@ -96,6 +96,7 @@ onboarding-firefox-monitor-button = S'inscriver per avis
 onboarding-browse-privately-title = Navighescha en il modus privat
 onboarding-browse-privately-text = Il modus privat stizza tia cronologia da tschertga e navigaziun per che las autras persunas che utiliseschan tes computer na la vesian betg.
 onboarding-browse-privately-button = Avrir ina fanestra privata
+onboarding-firefox-send-title = Protegia las datotecas che ti cundividas
 
 ## Message strings belonging to the Return to AMO flow
 
