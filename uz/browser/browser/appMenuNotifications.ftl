@@ -18,6 +18,13 @@ appmenu-update-manual =
 appmenu-update-manual-message = { -brand-shorter-name }ning oxirgi versiyasini yuklab oling. Biz uni o‘rnatishingizda yordam beramiz.
 appmenu-update-whats-new =
     .value = Yangi xususiyatlar bilan tanishing.
+appmenu-update-unsupported =
+    .label = { -brand-shorter-name } yangilanmadi.
+    .buttonlabel = Batafsil
+    .buttonaccesskey = L
+    .secondarybuttonlabel = Yopish
+    .secondarybuttonaccesskey = C
+appmenu-update-unsupported-message = { -brand-shorter-name } brauzerining oxirgi versiyasi tizimingizda ishlamaydi.
 appmenu-update-restart =
     .label = { -brand-shorter-name }ni yangilash uchun uni qayta ishga tushiring
     .buttonlabel = Qayta ishga tushirish va tiklash
@@ -25,4 +32,7 @@ appmenu-update-restart =
     .secondarybuttonlabel = Hozir emas
     .secondarybuttonaccesskey = H
 appmenu-update-restart-message = Tezkor qayta ishga tushirishdan keyin { -brand-shorter-name } barcha ochiq qolgan oyna va ichki oynalarni tiklaydi. Faqatgina maxfiy ko‘rish rejimidagi oynalarni tiklay olmaydi.
-appmenu-addon-post-install-message = Qo‘shimcha dasturlarni <image data-l10n-name='addon-menu-icon'></image> menyusidagi <image data-l10n-name='addon-install-icon'></image> ustiga bosib, boshqarish mumkin.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Tushundim
+    .buttonaccesskey = O
+appmenu-addon-post-install-message = Qoʻshimcha dasturlarni <image data-l10n-name='addon-menu-icon'></image> menyusidagi <image data-l10n-name='addon-install-icon'></image> ustiga bosib, boshqarish mumkin.
