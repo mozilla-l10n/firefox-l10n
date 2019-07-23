@@ -97,9 +97,18 @@ about-debugging-network-locations-remove-button = Tanggalin
 
 # Runtime Page strings
 
+# Title of the extensions category.
+about-debugging-runtime-extensions =
+    .name = Mga Extension
 # Title of the tabs category.
 about-debugging-runtime-tabs =
     .name = Mga Tab
+# Title of the service workers category.
+about-debugging-runtime-service-workers =
+    .name = Mga Service Worker
+# Title of the shared workers category.
+about-debugging-runtime-shared-workers =
+    .name = Mga Shared Worker
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Mga Proseso
@@ -122,6 +131,9 @@ about-debugging-debug-target-list-empty = Wala pa.
 # button will open a DevTools toolbox that will allow inspecting the target.
 # A target can be an addon, a tab, a worker...
 about-debugging-debug-target-inspect-button = I-inspect
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will uninstall the extension and remove it from the page.
+about-debugging-tmp-extension-remove-button = Tanggalin
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
