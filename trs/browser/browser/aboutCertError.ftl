@@ -46,7 +46,8 @@ cert-error-not-yet-valid-now = Ngà serifikâdo nadigan nej sîtio sisi hua nika
 cert-error-code-prefix-link = Gire' kodigo: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Ngà serifikâdo nadigan nej sîtio sisi hua nika nej man, ni hua nej dukua sun ri nej sertifikadô nan. ga'ì nej sa nana'ui' nuguan'an ni nitaj si hua nika ruhuâ nej man ngà sertifikadô ri  GeoTrust, RapidSSL, Symantec, Thawte y VeriSign.
+cert-error-symantec-distrust-description = Ngà serifikâdo nadigan nej sîtio sisi hua nika nej man, ni hua nej dukua sun ri nej sertifikadô nan. ga'ì nej sa nana'ui' nuguan'an ni nitaj si hua nika ruhuâ nej man ngà sertifikadô ri  GeoTrust, RapidSSL, Symantec, Thawte ni VeriSign. { $hostname } arâj sun 'ngo sertifikadô ri nej dukua sun nan, yi'ì dan si ga'ue gini'în' dàj gi'iaj sun yangà' web nan.
+cert-error-symantec-distrust-admin = Ga'ue ganatà't riña sa nikaj ñun'unj sitiô nan rayi'î sa gahui a'nan nan.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = Yitïnj hauw ga'anj ma riña HTTP ahī: { $hasHSTS }
