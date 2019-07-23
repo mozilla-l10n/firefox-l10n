@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Disfacer
 customize-mode-lwthemes-my-themes =
     .value = Mi themas
+customize-mode-touchbar-cmd =
+    .label = Personalisar barra de tocco…

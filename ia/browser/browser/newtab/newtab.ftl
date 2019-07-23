@@ -145,6 +145,7 @@ newtab-empty-section-topstories = Tu ja es in die con toto. Reveni plus tarde pr
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = Il ha nihil plus!
 newtab-discovery-empty-section-topstories-try-again-button = Retenta
 newtab-discovery-empty-section-topstories-loading = Cargamento…
 

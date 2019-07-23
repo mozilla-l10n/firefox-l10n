@@ -62,3 +62,10 @@ cfr-doorhanger-bookmark-fxa-link-text = Synchronisa marcapaginas ora…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Button Clauder
     .title = Clauder
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Novas
+    .tooltiptext = Novas
+cfr-whatsnew-panel-header = Novas
