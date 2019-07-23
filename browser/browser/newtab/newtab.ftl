@@ -143,6 +143,10 @@ newtab-empty-section-highlights = Comenzá a navegar y te mostraremos algunos de
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Ya te pusiste al día. Volvé más tarde para más historias de { $provider }. ¿No podés esperar? Seleccioná un tema popular para encontrar más historias de todo el mundo.
 
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-header = ¡Estás atrapado!
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
