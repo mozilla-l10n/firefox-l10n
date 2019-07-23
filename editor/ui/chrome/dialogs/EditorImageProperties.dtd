@@ -5,7 +5,7 @@
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Proprietăți imagine">
+<!ENTITY windowTitle.label "Proprietățile imaginii">
 
 <!ENTITY pixelsPopup.value "pixeli">
 
