@@ -125,7 +125,7 @@ newtab-section-menu-add-topsite = Adicionar ao sites preferidos
 newtab-section-menu-add-search-engine = Adicionar mecanismo de pesquisa
 newtab-section-menu-move-up = Mover para cima
 newtab-section-menu-move-down = Mover para baixo
-newtab-section-menu-privacy-notice = Política de privacidade
+newtab-section-menu-privacy-notice = Aviso de privacidade
 
 ## Section Headers.
 
