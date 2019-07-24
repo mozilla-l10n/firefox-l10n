@@ -143,6 +143,15 @@ newtab-empty-section-highlights = ابدأ التصفح وسنعرض أمامك 
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = لا جديد. تحقق لاحقًا للحصول على مزيد من أهم الأخبار من { $provider }. لا يمكنك الانتظار؟ اختر موضوعًا شائعًا للعثور على المزيد من القصص الرائعة من جميع أنحاء الوِب.
 
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-header = بِتّ تعلم كل شيء!
+newtab-discovery-empty-section-topstories-content = عُد فيما بعد لترى قصص أخرى.
+newtab-discovery-empty-section-topstories-try-again-button = أعِد المحاولة
+newtab-discovery-empty-section-topstories-loading = يحمّل…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = آخ. أوشكنا على تحميل هذا القسم، لكن للأسف لم يكتمل.
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.

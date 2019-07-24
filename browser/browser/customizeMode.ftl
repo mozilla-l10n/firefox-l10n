@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = تراجع
 customize-mode-lwthemes-my-themes =
     .value = سِماتي
+customize-mode-touchbar-cmd =
+    .label = خصّص شريط اللمس…

@@ -99,6 +99,10 @@ onboarding-mobile-phone-text = نزّل { -brand-product-name } على آي‌أ
 onboarding-mobile-phone-button = نزّل متصفّح المحمول
 onboarding-pocket-anywhere-text2 = احفظ ما تحبّ من محتوى وتصفّحه دون اتصال عبر تطبيق { -pocket-brand-name }. بهذا تقرأه وتسمعه وتطالعه متى ما أردت وحينما تشاء.
 onboarding-pocket-anywhere-button = جرّب { -pocket-brand-name }
+onboarding-lockwise-passwords-title = خُذ معك كلمات السر أينما ذهبت
+onboarding-lockwise-passwords-text2 = حافظ على كلمات السر التي حفظتها آمنة ولِج إلى حساباتك عبر { -lockwise-brand-name } ودون عناء.
+onboarding-lockwise-passwords-button2 = نزّل التطبيق
+onboarding-facebook-container-text2 = يفصل { -facebook-container-brand-name } ملفك الشخصي عن المعلومات الأخرى، وهكذا تكون مهمة فيسبوك في إيصال الإعلانات إليك أصعب وأصعب.
 onboarding-facebook-container-button = أضِف الامتداد
 
 ## Message strings belonging to the Return to AMO flow

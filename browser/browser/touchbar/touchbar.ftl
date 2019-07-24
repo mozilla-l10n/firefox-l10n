@@ -18,3 +18,4 @@ reader-view = منظور القارئ
 open-location = ابحث أو أدخِل عنوانا
 share = شارِك
 close-window = أغلِق النافذة
+open-sidebar = الأشرطة الجانبية
