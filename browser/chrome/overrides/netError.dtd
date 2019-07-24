@@ -9,9 +9,7 @@
 <!ENTITY retry.label "Повторен опит">
 <!ENTITY returnToPreviousPage.label "Връщане назад">
 <!ENTITY returnToPreviousPage1.label "Връщане назад (препоръчително)">
-<!ENTITY advanced.label "Подробности">
-<!ENTITY continue2.label "Подробности…">
-<!ENTITY moreInformation.label "Повече информация">
+<!ENTITY advanced2.label "Разширени…">
 <!ENTITY viewCertificate.label "Преглед на сертификата">
 
 <!-- Specific error messages -->
@@ -106,13 +104,11 @@
 <!ENTITY nssFailure2.title "Неуспешно установяване на шифрована връзка">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Страницата не може да бъде показана, защото достоверността на получените данни не може да бъде проверена.</li> <li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> </ul>">
 
-<!ENTITY certerror.longpagetitle1 "Връзката е незащитена">
 <!ENTITY certerror.longpagetitle2 "Внимание: Вероятен риск за сигурността">
 <!ENTITY certerror.sts.longpagetitle  "Неуспешно свързване: Евентуален проблем със сигурността">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "Собственикът на <span class='hostname'/> е настроил страницата неправилно. За да ви защити от кражба на информация, &brandShortName; отказа връзката с тази страница.">
 <!ENTITY certerror.introPara2 "&brandShortName; забеляза възможна заплаха за сигурността и не продължи към <span class='hostname'/>. Ако посетите страницата атакуващ може да опита да открадне информация като ваши пароли, електронни писма или данни за банкови карти.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; откри проблем и не продължи към <span class='hostname'/>. Сайтът е или неправилно настроен, или часовникът на вашия компютър е неверен.">
@@ -139,8 +135,6 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "Грешка поради развалено съдържание">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Страницата не може да бъде показана поради грешка при прехвърляне на данните.</p><ul><li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Добавяне на изключение…">
 <!ENTITY securityOverride.exceptionButton1Label "Продължаване въпреки риска">
 
 <!ENTITY errorReporting.automatic2 "Докладване на такива грешки, за да може Mozilla да идентифицира и ограничи злонамерени сайтове">
@@ -154,16 +148,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Допълнителна информация: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p>&brandShortName; не се свърза с <span id='wrongSystemTime_URL'/>, защото часовникът на компютъра изглежда е неверен, а това пречи на създаването на защитена връзка.</p> <p>Часовнъкът показва <span id='wrongSystemTime_systemDate'/>, а трябва да бъде <span id='wrongSystemTime_actualDate'/>. За да отстраните проблема сверете часовника.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; не се свърза с <span id='wrongSystemTimeWithoutReference_URL'/>, защото часовникът на компютъра изглежда е неверен, а това пречи на създаването на защитена връзка.</p> <p>Часовнъкът показва <span id='wrongSystemTimeWithoutReference_systemDate'/>. За да отстраните проблема сверете часовника.</p>">
-
-<!ENTITY certerror.pagetitle1  "Незащитена връзка">
 <!ENTITY certerror.pagetitle2  "Внимание: Вероятен риск за сигурността">
 <!ENTITY certerror.sts.pagetitle  "Неуспешно свързване: Евентуален проблем със сигурността">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Сайтът използва HTTP Strict Transport Security (HSTS), за да укаже на &brandShortName; да се свързва само по сигурен начин. В резултат на това не може да се добави изключение за този сертификат.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'/> използва политика за сигурност наречена HTTP Strict Transport Security (HSTS), което означава. че &brandShortName; може да използва само сигурни връзки. Не може да добавяте изключение при посещение на тази страница.">
 <!ENTITY certerror.copyToClipboard.label "Копиране на текста в системния буфер">
 

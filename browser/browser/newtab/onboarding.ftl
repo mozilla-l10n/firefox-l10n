@@ -19,6 +19,7 @@ onboarding-button-label-get-started = Въведение
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Добре дошли във { -brand-short-name }
+onboarding-join-form-header = Присъединете се към { -brand-product-name }
 onboarding-start-browsing-button-label = Започнете да разглеждате
 onboarding-cards-dismiss =
     .title = Отхвърляне
@@ -44,6 +45,7 @@ onboarding-sync-form-sub-header = за да продължите към { -sync-
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-privacy-title = Истинска поверителност
 
 ## These strings belong to the individual onboarding messages.
 
@@ -63,6 +65,15 @@ onboarding-ghostery-text = Разглеждайте по-бързо, по-удо
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Регистрирайте { -fxaccount-brand-name } и синхронизирайте отметки, пароли и отворени раздели навсякъде където използвате { -brand-short-name }.
+onboarding-tracking-protection-button2 = Как работи
+onboarding-firefox-monitor-button = Регистрирайте се за сигнали
+onboarding-browse-privately-button = Отваряне на поверителен прозорец
+onboarding-firefox-send-button = Опитайте { -send-brand-name }
+onboarding-mobile-phone-title = Изтеглете { -brand-product-name } на телефона си
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Изтеглете мобилен четец
+onboarding-lockwise-passwords-button2 = Вземете приложението
 
 ## Message strings belonging to the Return to AMO flow
 

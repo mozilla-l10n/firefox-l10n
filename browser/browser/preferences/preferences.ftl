@@ -543,6 +543,7 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Запазване
     .accesskey = З
+sync-manage-devices = Управление на устройства
 sync-tos-link = Условия на услугата
 sync-fxa-privacy-notice = Политика на поверителност
 
@@ -655,6 +656,18 @@ addressbar-suggestions-settings = Настройки на предложения
 
 content-blocking-header = Ограничаване на съдържание
 content-blocking-learn-more = Научете повече
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = Стандартно
+    .accesskey = с
+content-blocking-setting-strict =
+    .label = Строго
+    .accesskey = т
+content-blocking-setting-custom =
+    .label = По избор
+    .accesskey = и
+content-blocking-all-cookies = Всички бисквитки
 content-blocking-warning-title = Внимание!
 content-blocking-learn-how = Научете как
 content-blocking-trackers-label =

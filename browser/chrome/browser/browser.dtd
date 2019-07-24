@@ -65,6 +65,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Отпечатване…">
 <!ENTITY printCmd.accesskey "п">
 <!ENTITY printCmd.commandkey "p">
+<!ENTITY importFromAnotherBrowserCmd.label "Внасяне от друг мрежов четец…">
 
 
 <!ENTITY goOfflineCmd.label "Работа извън мрежата">
@@ -127,6 +128,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "Проверете вашата електронна поща">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
@@ -152,6 +154,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.label "Картина в картината">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -329,6 +332,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "Н">
 <!ENTITY preferencesCmdUnix.label       "Настройки">
 <!ENTITY preferencesCmdUnix.accesskey     "Н">
+<!ENTITY logins.label                           "Регистрации и пароли">
 
 <!ENTITY clearRecentHistory.label               "Изчистване на скорошна история…">
 
@@ -419,6 +423,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.label "Докладване на разширението">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
