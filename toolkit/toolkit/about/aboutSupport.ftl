@@ -32,6 +32,13 @@ app-basics-name = Назив
 app-basics-version = Издање
 app-basics-build-id = ID издања
 app-basics-update-channel = Канал за ажурирање
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Ажурирај директоријум
+       *[other] Ажурирај фасциклу
+    }
 app-basics-update-history = Историја ажурирања
 app-basics-show-update-history = Прикажи историјат ажурирања
 app-basics-profile-dir =
@@ -48,7 +55,6 @@ app-basics-performance = Перформансе
 app-basics-service-workers = Регистровани Service Workers
 app-basics-profiles = Профили
 app-basics-multi-process-support = Вишепроцесорски прозори
-app-basics-process-count = Процеси веб садржаја
 app-basics-enterprise-policies = Полисе предузећа
 app-basics-key-mozilla = Кључ Mozilla сервиса за локацију
 app-basics-safe-mode = Безбедни режим
@@ -242,6 +248,8 @@ sandbox-proc-type-content = садржај
 sandbox-proc-type-file = садржај дадотеке
 sandbox-proc-type-media-plugin = медија прикључак
 launcher-process-status-0 = Омогућено
+launcher-process-status-1 = Онемогућено због грешке
+launcher-process-status-2 = Онемогућен силом
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

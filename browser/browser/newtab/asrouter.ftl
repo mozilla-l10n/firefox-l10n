@@ -64,3 +64,7 @@ cfr-doorhanger-bookmark-fxa-link-text = Синхронизуј забелешк�
 
 ## What's New toolbar button and panel
 
+cfr-whatsnew-button =
+    .label = Шта је ново
+    .tooltiptext = Шта је ново
+cfr-whatsnew-panel-header = Шта је ново

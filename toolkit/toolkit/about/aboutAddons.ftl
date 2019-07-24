@@ -263,23 +263,55 @@ find-more-addons = Пронађи више додатака
 
 ## Add-on actions
 
+report-addon-button = Пријави
+remove-addon-button = Уклони
+disable-addon-button = Онемогући
 expand-addon-button = Више опција
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Подешавања
+       *[other] Поставке
+    }
+details-addon-button = Детаљи
+release-notes-addon-button = Белешке о издању
+permissions-addon-button = Дозволе
 addons-enabled-heading = Омогућено
+addons-disabled-heading = Онемогућено
+ask-to-activate-button = Питај за активирање
+always-activate-button = Увек активирај
+never-activate-button = Никад не активирај
 addon-detail-author-label = Аутор
 addon-detail-version-label = Издање
 addon-detail-last-updated-label = Последњи пут ажурирано
 addon-detail-homepage-label = Матична страница
 addon-detail-rating-label = Оцена
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (искључено)
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = Додатак <span data-l10n-name="addon-name">{ $addon }</span> је уклоњен.
+pending-uninstall-undo-button = Опозови
 addon-detail-updates-label = Дозволи аутоматско ажурирање
 addon-detail-updates-radio-default = Подразумевано
+addon-detail-updates-radio-on = Укључено
+addon-detail-updates-radio-off = Искључено
+addon-detail-update-check-label = Провери ажурирања
+install-update-button = Ажурирај
+addon-detail-private-browsing-help = Када је дозвољено, проширење ће имати приступ вашим активностима на мрежи у приватном прегледавању. <a data-l10n-name="learn-more">Сазнај више</a>
+addon-detail-private-browsing-allow = Дозволи
+addon-detail-private-browsing-disallow = Не дозволи
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.
 addon-badge-recommended =
     .title = Препоручено
     .alt = Препоручено
+release-notes-loading = Учитава се...
+release-notes-error = Нажалост, дошло је до грешке при учитавању напомена о издању.
 recommended-extensions-heading = Препоручена проширења
 recommended-themes-heading = Препоручене теме
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
