@@ -45,4 +45,5 @@ appmenu-addon-private-browsing =
     .buttonaccesskey = у
     .secondarybuttonlabel = Да, разбрах
     .secondarybuttonaccesskey = а
+appmenu-addon-private-browsing-message = Новите разширения, които добавяте към { -brand-shorter-name } няма да работят в поверителни прозорци освен изрично не разрешите в настройките.
 appmenu-addon-private-browsing-learn-more = Научете как да управлявате настройките на разширенията
