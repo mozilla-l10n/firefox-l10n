@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Mail Content -->
+
+
+<!-- Web Content -->
+
+<!ENTITY acceptThirdParty.always.label "Sempre">
+<!ENTITY acceptThirdParty.never.label "Nunquam">
+<!ENTITY keepUntil.label "Conservar usque:">
+<!ENTITY showCookies.label "Monstrar le cookies…">
+
+<!ENTITY doNotTrackInfo.label "Saper plus re Do Not Track">
