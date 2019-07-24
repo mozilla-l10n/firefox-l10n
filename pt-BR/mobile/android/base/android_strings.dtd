@@ -263,7 +263,7 @@
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
-<!ENTITY home_homepage_hint_user_address "Digitar o endereço ou termo para pesquisa">
+<!ENTITY home_homepage_hint_user_address "Digite um endereço ou pesquisa">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "Geral">
@@ -533,7 +533,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY contextmenu_open_new_tab "Abrir em uma nova aba">
 <!ENTITY contextmenu_open_private_tab "Abrir em uma aba privativa">
 <!ENTITY contextmenu_remove "Remover">
-<!ENTITY contextmenu_add_page_shortcut "Adicionar atalho à página">
+<!ENTITY contextmenu_add_page_shortcut "Adicionar atalho para página">
 <!ENTITY contextmenu_set_as_homepage "Definir como página inicial">
 <!ENTITY contextmenu_share "Compartilhar">
 <!ENTITY contextmenu_pasteandgo "Colar e ir">
@@ -679,7 +679,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY remote_tabs_panel_moved_desc "Movemos suas abas de outros dispositivos para um painel na sua página inicial, que pode ser facilmente acessada ​​toda vez que abrir uma nova aba.">
 <!ENTITY remote_tabs_panel_moved_link "Leve-me para o meu novo painel.">
 
-<!ENTITY pin_site_dialog_hint "Digitar uma palavra-chave de pesquisa">
+<!ENTITY pin_site_dialog_hint "Digite uma palavra-chave de pesquisa">
 
 <!ENTITY filepicker_title "Escolher arquivo">
 <!ENTITY filepicker_audio_title "Escolher ou gravar um som">
