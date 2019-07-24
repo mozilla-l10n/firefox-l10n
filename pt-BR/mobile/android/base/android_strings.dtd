@@ -187,14 +187,14 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Favorito">
 <!ENTITY overlay_share_bookmark_btn_label_already "Já está nos favoritos">
-<!ENTITY overlay_share_send_other "Enviar para outros dispositivos">
+<!ENTITY overlay_share_send_other "Enviar para dispositivos">
 
 <!ENTITY overlay_share_open_browser_btn_label "Abrir no &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-<!ENTITY overlay_share_send_tab_btn_label "Enviar para outro dispositivo">
+<!ENTITY overlay_share_send_tab_btn_label "Enviar para dispositivo">
 <!ENTITY overlay_share_no_url "Nenhum link encontrado neste compartilhamento">
 <!ENTITY overlay_share_select_device "Selecionar dispositivo">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
