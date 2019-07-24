@@ -7,13 +7,8 @@ about-policies-title = Ведомствени ограничения
 active-policies-tab = Наложени
 errors-tab = Грешки
 documentation-tab = Документация
+no-specified-policies-message = Услугата за ведомствени политики е активна, но няма активни политики.
+inactive-message = Услугата за ведомствени политики не е активна.
 policy-name = Ограничение
 policy-value = Стойност
 policy-errors = Грешки в ограниченията
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = Ако се използва Group Policy, тази настройка може да бъде настройвана само на ниво компютър.

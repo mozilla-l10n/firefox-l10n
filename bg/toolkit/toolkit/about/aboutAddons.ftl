@@ -138,9 +138,12 @@ legacy-warning-show-legacy = Показване на остарелите раз
 legacy-extensions =
     .value = Остарели добавки
 legacy-extensions-description = Тези разширения не отговарят на текущите стандарти на { -brand-short-name } и затова са изключени. <label data-l10n-name="legacy-learn-more">Научете повече за промените при добавките</label>
-extensions-view-discover =
-    .name = Повече добавки
-    .tooltiptext = { extensions-view-discover.name }
+private-browsing-description2 =
+    { -brand-short-name } променя начина на работа на разширенията в поверителни прозорци. Всяко ново разширение, което добавите в { -brand-short-name } няма да работи по подразбиране в поверителен прозорец, освен ако вие не промените неговите настройки. Направихме тази промяна за да запазим поверителното ви разглеждане наистина поверително.
+    <label data-l10n-name="private-browsing-learn-more">Научете повече как да управлявате разширенията</label>
+extensions-view-discopane =
+    .name = Препоръки
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Скорошни обновявания
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -223,5 +226,20 @@ shortcuts-input =
 shortcuts-invalid = Недействителна комбинация
 shortcuts-letter = Въведете буква
 
+## Recommended add-ons page
+
+discopane-notice-learn-more = Научете повече
+privacy-policy = Политика за поверителност
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Потребители: { $dailyUsers }
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Управление
+
 ## Add-on actions
+
+
+## Pending uninstall message bar
 
