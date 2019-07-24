@@ -53,6 +53,16 @@ newtab-confirm-delete-history-p2 = Действието е необратимо.
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Отваряне на меню
+    .aria-label = Отваряне на меню
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Отваряне на меню
+    .aria-label = Отваряне на менюто за { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Променяне
@@ -132,6 +142,15 @@ newtab-empty-section-highlights = Разглеждайте и тук ще ви �
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Разгледахте всичко. Проверете по-късно за повече истории от { $provider }. Нямате търпение? Изберете популярна тема, за да откриете повече истории от цялата Мрежа.
+
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-header = Изчетохте всичко!
+newtab-discovery-empty-section-topstories-content = Проверете по-късно за повече статии.
+newtab-discovery-empty-section-topstories-try-again-button = Нов опит
+newtab-discovery-empty-section-topstories-loading = Зареждане…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Ами сега! Почти заредихме тази секция, но не съвсем.
 
 ## Pocket Content Section.
 
