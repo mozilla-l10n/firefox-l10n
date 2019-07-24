@@ -842,7 +842,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY contentBlocking.cryptominers.label "Добиване на криптовалути">
+<!ENTITY contentBlocking.cryptominersView.label "Добиване на криптовалути">
 
+<!ENTITY contentBlocking.fingerprinters.label "Снемане на цифров отпечатък">
+<!ENTITY contentBlocking.fingerprintersView.label "Снемане на цифров отпечатък">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Докладване на проблем">
 <!ENTITY contentBlocking.breakageReportView.label "Докладване на проблем">

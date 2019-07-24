@@ -285,6 +285,12 @@ update-pref-write-failure-title = Грешка при запазване
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Настройките не могат да бъдат запазени. Във файлът „{ $path }“ не може да бъде записвано.
+update-in-progress-title = Обновяване е в процес на изпълнение
+update-in-progress-message = Желаете ли { -brand-short-name } да продължи с обновяването?
+update-in-progress-ok-button = &Отхвърляне
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Продължаване
 
 ## General Section - Performance
 
@@ -324,6 +330,12 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Търсене на текст при започване на въвеждане
     .accesskey = Т
+browsing-cfr-recommendations =
+    .label = Препоръчване на разширения
+    .accesskey = П
+browsing-cfr-features =
+    .label = Препоръчване на възможности
+    .accesskey = в
 browsing-cfr-recommendations-learn-more = Научете повече
 
 ## General Section - Proxy
@@ -556,7 +568,9 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Запазване
     .accesskey = З
+sync-connect-another-device = Добавяне на устройство
 sync-manage-devices = Управление на устройства
+sync-fxa-begin-pairing = Сдвояване на устройство
 sync-tos-link = Условия на услугата
 sync-fxa-privacy-notice = Политика на поверителност
 
@@ -573,6 +587,9 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = Изключения…
     .accesskey = к
+forms-generate-passwords =
+    .label = Предлагане и създаване на силни пароли
+    .accesskey = р
 forms-saved-logins =
     .label = Запазени регистрации…
     .accesskey = р
@@ -633,6 +650,9 @@ sitedata-total-size-calculating = Изчисляване на размера н�
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Буферът, бисквитките и данните от страници момента заемат { $value } { $unit } дисково пространство.
 sitedata-learn-more = Научете повече
+sitedata-delete-on-close =
+    .label = Изтриване на бисквитки и данни на страници при затваряне на { -brand-short-name }
+    .accesskey = д
 sitedata-allow-cookies-option =
     .label = Разрешаване на бисквитки и данни
     .accesskey = р
@@ -643,12 +663,23 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Вид на ограничения ресурс
     .accesskey = в
+sitedata-option-block-trackers =
+    .label = Проследяващи трети страни
+sitedata-option-block-unvisited =
+    .label = Бисквитки от непосетени страници
+sitedata-option-block-all-third-party =
+    .label = Всички бисквитки от трети страни (може да доведе до неработещи страници)
+sitedata-option-block-all =
+    .label = Всички бисквитки (ще доведе до неработещи страници)
 sitedata-clear =
     .label = Изчистване на данни…
     .accesskey = т
 sitedata-settings =
     .label = Управление на данни…
     .accesskey = у
+sitedata-cookies-permissions =
+    .label = Управление на права…
+    .accesskey = п
 
 ## Privacy Section - Address Bar
 
@@ -681,6 +712,8 @@ content-blocking-setting-custom =
     .label = По избор
     .accesskey = и
 content-blocking-all-cookies = Всички бисквитки
+content-blocking-cryptominers = Добиване на криптовалути
+content-blocking-fingerprinters = Снемане на цифров отпечатък
 content-blocking-warning-title = Внимание!
 content-blocking-learn-how = Научете как
 content-blocking-trackers-label =
@@ -698,8 +731,13 @@ content-blocking-cookies-label =
     .accesskey = б
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
-    .label = Копачи на криптовалути
+    .label = Добиване на криптовалути
     .accesskey = к
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Снемане на цифров отпечатък
+    .accesskey = ц
 
 ## Privacy Section - Tracking
 
