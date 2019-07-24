@@ -33,3 +33,4 @@ accessibility-text-label-issue-form-visible = Umi myanyhẽha mba’epuru heramo
 accessibility-text-label-issue-frame = Umi mba’epuru <code>frame</code> oñemboheramoĩva’erã. <a>Eikuaave</a>
 accessibility-text-label-issue-glyph = Eipuru tekome’ẽ <code>alt</code> emboheramoĩ hag̃ua mba’epuru <span>mglyph</span>. <a>Eikuaave</a>
 accessibility-text-label-issue-heading = Umi myakãha oñemboheramoĩva’erã. <a>Eikuaave</a>
+accessibility-text-label-issue-heading-content = Umi myakãha hetepy reramoĩjehechava’erã. <a>Eikuaave</a>
