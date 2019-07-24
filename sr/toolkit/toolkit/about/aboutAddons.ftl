@@ -266,6 +266,7 @@ find-more-addons = Пронађи више додатака
 report-addon-button = Пријави
 remove-addon-button = Уклони
 disable-addon-button = Онемогући
+enable-addon-button = Омогући
 expand-addon-button = Више опција
 preferences-addon-button =
     { PLATFORM() ->
