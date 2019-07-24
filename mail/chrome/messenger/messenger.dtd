@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "ก">
 <!ENTITY folderPaneBar.label "แถบเครื่องมือบานหน้าต่างโฟลเดอร์">
 <!ENTITY folderPaneBar.accesskey "โ">
-<!ENTITY folderModeSelector.label "มุมมองโฟลเดอร์">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "เรียงตาม">
@@ -196,8 +195,11 @@
 <!ENTITY sortByJunkStatusCmd.label "สถานะขยะ">
 <!ENTITY sortByJunkStatusCmd.accesskey "ย">
 <!ENTITY sortBySubjectCmd.label "หัวเรื่อง">
+<!ENTITY sortBySubjectCmd.accesskey "b">
 <!ENTITY sortByFromCmd.label "จาก">
+<!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "ผู้รับ">
+<!ENTITY sortByRecipientCmd.accesskey "c">
 <!ENTITY sortByCorrespondentCmd.label "ผู้สื่อสาร">
 <!ENTITY sortByUnreadCmd.label "อ่านแล้ว">
 <!ENTITY sortByOrderReceivedCmd.label "ลำดับที่ได้รับ">
@@ -481,7 +483,6 @@
 <!ENTITY tagButton.tooltip "ติดป้ายกำกับข้อความ">
 <!ENTITY compactButton.tooltip "เอาข้อความที่ถูกลบออกจากโฟลเดอร์ที่เลือก">
 <!ENTITY appmenuButton1.tooltip "แสดงเมนู &brandShortName;">
-
 <!ENTITY addonsButton.tooltip "จัดการส่วนเสริมของคุณ">
 
 <!-- Toolbar Button Popup -->
