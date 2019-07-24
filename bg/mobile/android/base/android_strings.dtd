@@ -6,6 +6,7 @@
 <!ENTITY firstrun_urlbar_message2 "Благодарим ви, че избрахте &brandShortName;">
 <!ENTITY newfirstrun_urlbar_message "Добре дошли при &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Модерен мобилен мрежов четец от Mozilla, организацията с нестопанска цел, отдадена на свободната и отворена Мрежа.">
+<!ENTITY newfirstrun_urlbar_subtext "Бърз, поверителен и винаги на ваша страна.">
 <!ENTITY firstrun_panel_title_privacy "Поверителност">
 <!ENTITY firstrun_privacy_message "Разглеждайте без да ви следят">
 <!ENTITY firstrun_privacy_subtext "Поверителното разглеждане със защитата от проследяване спира следенето докато разглеждате и няма да помни историята, когато приключите.">
@@ -350,6 +351,7 @@
 <!ENTITY tab_queue_prompt_settings_button "Към настройките">
 <!-- Localization note (tab_queue_notification_prompt): This is the text of the default notification
 shown from Android O while a tab is being queued.-->
+<!ENTITY tab_queue_notification_prompt "Добавяне на раздел в опашката&#8230;">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -414,6 +416,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Изтегляния">
 <!ENTITY pref_private_data_syncedTabs "Синхронизирани раздели">
 
+<!ENTITY pref_default_browser2 "Правене на &brandShortName; стандартен четец">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
