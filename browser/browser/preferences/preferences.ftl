@@ -4,6 +4,8 @@
 
 do-not-track-description = Указване на сайтовете, че не желаете да бъдете проследявани
 do-not-track-learn-more = Научете повече
+do-not-track-option-default-content-blocking-known =
+    .label = Само когато { -brand-short-name } е настроен да спира проследяването
 do-not-track-option-always =
     .label = Винаги
 pref-page =
@@ -27,6 +29,7 @@ search-input-box =
             [windows] Търсене в настройките
            *[other] Търсене в настройките
         }
+managed-notice = Мрежовият четец се управлява от вашето ведомство.
 pane-general-title = Основни
 category-general =
     .tooltiptext = { pane-general-title }
@@ -74,6 +77,9 @@ extension-controlled-homepage-override = Разширението „<img data-l
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Разширението „<img data-l10n-name="icon"/> { $name }“ управлява страницата за нов раздел.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Разширението „<img data-l10n-name="icon"/> { $name }“ управлява настройката.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Разширението „<img data-l10n-name="icon"/> { $name }“ е задало стандартната търсеща машина.
@@ -123,8 +129,10 @@ set-as-my-default-browser =
     .label = Задаване като стандартен…
     .accesskey = с
 startup-restore-previous-session =
-    .label = Възстановяване на предишна сесия
+    .label = Възстановяване на предишната сесия
     .accesskey = с
+startup-restore-warn-on-quit =
+    .label = Предупреждаване при затваряне на четеца
 disable-extension =
     .label = Изключване на разширението
 tabs-group-header = Раздели
@@ -245,7 +253,7 @@ applications-type-column =
 applications-action-column =
     .label = Действие
     .accesskey = Д
-drm-content-header = Съдържание с управление на цифрови права (DRM)
+drm-content-header = Съдържание с цифрови права (DRM)
 play-drm-content =
     .label = Изпълняване на съдържание под DRM
     .accesskey = И
@@ -266,12 +274,17 @@ update-application-check-choose =
 update-application-manual =
     .label = Никога да не прави проверка за обновявания (непрепоръчително)
     .accesskey = Н
+update-application-warning-cross-user-setting = Тази настройка ще бъде приложена към всички профили в Windows и всички профили на { -brand-short-name }, използващи тази инсталация на { -brand-short-name }.
 update-application-use-service =
     .label = Използване на услуга във фонов режим за инсталиране на обновявания
     .accesskey = у
 update-enable-search-update =
     .label = Автоматично обновяване на търсещите машини
     .accesskey = т
+update-pref-write-failure-title = Грешка при запазване
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Настройките не могат да бъдат запазени. Във файлът „{ $path }“ не може да бъде записвано.
 
 ## General Section - Performance
 
@@ -749,6 +762,8 @@ collection-health-report-link = Научете повече
 collection-studies =
     .label = Разрешаване на { -brand-short-name } да инсталира и извършва изследвания
 collection-studies-link = Преглед на изследванията на { -brand-short-name }
+addon-recommendations =
+    .label = Разрешаване на { -brand-short-name } да прави персонализирани препоръки за разширения
 addon-recommendations-link = Научете повече
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.

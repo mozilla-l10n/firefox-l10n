@@ -228,6 +228,16 @@ shortcuts-letter = Въведете буква
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Разширенията и темите са като приложения за вашия четец и ви дават
+    възможност за защита на пароли, изтегляне на видеоклипове,
+    намиране на изгодни оферти, блокиране на досадни реклами, промяна
+    изгледа на четеца и много други. Тези малки софтуерни приложения
+    често се разработвато от трети страни. Ето избраните, които { -brand-product-name }
+    <a data-l10n-name="learn-more-trigger">препоръчва</a> за изключителна
+    сигурност, производителност и функционалност.
 discopane-notice-learn-more = Научете повече
 privacy-policy = Политика за поверителност
 # Shows the number of daily users of the add-on.

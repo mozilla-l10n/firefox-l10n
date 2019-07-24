@@ -19,7 +19,14 @@ onboarding-button-label-get-started = Въведение
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Добре дошли във { -brand-short-name }
+onboarding-welcome-body = Разполагате с четеца.<br/>Запознайте се с останалото от { -brand-product-name }.
+onboarding-welcome-learn-more = Научете повече за ползите.
 onboarding-join-form-header = Присъединете се към { -brand-product-name }
+onboarding-join-form-body = За начало въведете адреса на своята ел. поща.
+onboarding-join-form-email =
+    .placeholder = Въведете електронен адрес
+onboarding-join-form-email-error = Необходим е валиден адрес на ел. поща
+onboarding-join-form-continue = Продължаване
 onboarding-start-browsing-button-label = Започнете да разглеждате
 onboarding-cards-dismiss =
     .title = Отхвърляне
@@ -45,6 +52,7 @@ onboarding-sync-form-sub-header = за да продължите към { -sync-
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = Полезни продукти
 onboarding-benefit-privacy-title = Истинска поверителност
 
 ## These strings belong to the individual onboarding messages.
