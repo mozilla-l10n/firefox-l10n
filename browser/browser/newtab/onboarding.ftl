@@ -81,7 +81,10 @@ onboarding-mobile-phone-title = Изтеглете { -brand-product-name } на 
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Изтеглете мобилен четец
+onboarding-pocket-anywhere-button = Опитайте { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Вземете паролите си навсякъде
 onboarding-lockwise-passwords-button2 = Вземете приложението
+onboarding-facebook-container-button = Добавете разширението
 
 ## Message strings belonging to the Return to AMO flow
 
