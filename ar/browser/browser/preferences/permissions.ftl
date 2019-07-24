@@ -37,8 +37,12 @@ permissions-button-ok =
 permissions-autoplay-menu = المبدئي للمواقع كافة:
 permissions-searchbox =
     .placeholder = ابحث عن موقع
+permissions-capabilities-autoplay-allow =
+    .label = اسمح بالصوت والڤِديو
 permissions-capabilities-autoplay-block =
     .label = احجب الصوت
+permissions-capabilities-autoplay-blockall =
+    .label = احجب الصوت والڤِديو
 permissions-capabilities-allow =
     .label = اسمح
 permissions-capabilities-block =
@@ -101,6 +105,9 @@ permissions-exceptions-autoplay-media-desc2 = يمكنك تحديد أي موا�
 
 ## Site Permissions - Autoplay
 
+permissions-site-autoplay-window =
+    .title = الإعدادات - التشغيل التلقائي
+    .style = { permissions-window.style }
 permissions-site-autoplay-desc = يمكنك من هنا إدارة المواقع التي لا تتوافق مع الإعدادات المبدئية للتشغيل التلقائي.
 
 ## Site Permissions - Notifications

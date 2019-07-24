@@ -70,3 +70,10 @@ cfr-doorhanger-bookmark-fxa-link-text = زامِن العلامات الآن…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = زر الإغلاق
     .title = أغلِق
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = ما الجديد
+    .tooltiptext = ما الجديد
+cfr-whatsnew-panel-header = ما الجديد
