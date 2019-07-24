@@ -25,11 +25,17 @@ about-debugging-setup-usb-disable-button = Онемогућите USB уређа
 # USB section of the Setup page (USB status)
 about-debugging-setup-usb-status-enabled = Омогућено
 about-debugging-setup-usb-status-disabled = Онемогућено
+# Text of a button displayed next to existing network locations in the Connect page.
+# Clicking on it removes the network location from the list.
+about-debugging-network-locations-remove-button = Remove
 
 # Runtime Page strings
 
 
 # Debug Targets strings
 
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will uninstall the extension and remove it from the page.
+about-debugging-tmp-extension-remove-button = Remove
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Детаљи

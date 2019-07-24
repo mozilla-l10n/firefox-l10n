@@ -8,6 +8,7 @@ profiles-create = Направи нови профил
 profiles-restart-title = Поново покрени
 profiles-restart-in-safe-mode = Поново покрени са онемогућеним додацима…
 profiles-restart-normal = Поново покрени као иначе…
+profiles-flush-restart-button = Поново покрени { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Профил: { $name }

@@ -11,6 +11,7 @@
 
 ## Values for the Type column
 
+type-addon = Додатак
 
 ## Values for the Energy Impact column
 ##
@@ -27,5 +28,7 @@
 
 ## Tooltips for the action buttons
 
+close-tab =
+    .title = Затвори картицу
 show-addon =
     .title = Прикажи у управнику додатака
