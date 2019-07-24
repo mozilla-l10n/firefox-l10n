@@ -27,3 +27,4 @@ accessibility-text-label-issue-document-title = Kuatiakuéra oguerekova’erã p
 accessibility-text-label-issue-embed = Pe tetepy moingepyre oñemboheva’erã. <a>Eikuaave</a>
 accessibility-text-label-issue-figure = Umi ta’ãnga heratee’i poravokuaáva oñembohéramoĩva’erã. <a>Eikuaave</a>
 accessibility-text-label-issue-fieldset = Umi mba’epuru <code>fieldset</code> oñemboheramoĩva’erã. <a>Eikuaave</a>
+accessibility-text-label-issue-fieldset-legend = Eipuru pe mba’epuru <code>legend</code> emboheramoĩ hag̃ua mba’epuru. <span>fieldset</span>. <a>Eikuaave</a>
