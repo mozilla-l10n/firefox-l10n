@@ -19,6 +19,9 @@ about-debugging-page-title-runtime-page = التنقيح - زمن التشغيل
 # Display name of the runtime for the currently running instance of Firefox. Used in the
 # Sidebar and in the Setup page.
 about-debugging-this-firefox-runtime-name = { -brand-shorter-name } هذا
+# Sidebar heading for selecting the currently running instance of Firefox
+about-debugging-sidebar-this-firefox =
+    .name = { about-debugging-this-firefox-runtime-name }
 # Text displayed in the about:debugging sidebar when USB devices discovery is enabled.
 about-debugging-sidebar-usb-enabled = الربط عبر USB يعمل
 # Text displayed in the about:debugging sidebar when USB devices discovery is disabled
@@ -37,6 +40,9 @@ about-debugging-sidebar-item-connect-button = اتّصل
 about-debugging-sidebar-item-connect-button-connecting = يتّصل…
 # Text displayed in buttons found in sidebar items when the connection failed.
 about-debugging-sidebar-item-connect-button-connection-failed = فشل الاتصال
+# Text displayed in connection warning on sidebar item of the runtime when connecting to
+# the runtime is taking too much time.
+about-debugging-sidebar-item-connect-button-connection-not-responding = ما زال الاتصال جارٍ، طالِح الرسائل في المتصفح الهدف
 # Text displayed as connection error in sidebar item when the connection has timed out.
 about-debugging-sidebar-item-connect-button-connection-timeout = انتهت المهلة للاتصال
 # Temporary text displayed in sidebar items representing remote runtimes after
@@ -46,6 +52,16 @@ about-debugging-sidebar-item-connected-label = متّصل
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
 about-debugging-sidebar-runtime-item-waiting-for-browser = ينتظر المتصفح…
+# Text displayed in sidebar items for remote devices that have been disconnected from the
+# computer.
+about-debugging-sidebar-runtime-item-unplugged = مفصول
+# Title for runtime sidebar items that are related to a specific device (USB, WiFi).
+about-debugging-sidebar-runtime-item-name =
+    .title = { $displayName } ({ $deviceName })
+# Title for runtime sidebar items where we cannot get device information (network
+# locations).
+about-debugging-sidebar-runtime-item-name-no-device =
+    .title = { $displayName }
 # Text to show in the footer of the sidebar that links to a help page
 # (currently: https://developer.mozilla.org/docs/Tools/about:debugging)
 about-debugging-sidebar-support = دعم التنقيح
@@ -65,6 +81,8 @@ about-debugging-setup-title = الإعداد
 about-debugging-setup-intro = اضبط الطريقة التي تريد بها الاتصال بجهازك لتنقيحه.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = استعمل <a>{ about-debugging-this-firefox-runtime-name }</a> لتنقّح الألسنة والامتدادات وعمّال الخدمة في هذه النسخة من { -brand-shorter-name }.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = استعمل <a>{ about-debugging-this-firefox-runtime-name }</a> لتنقّح الامتدادات وعمّال الخدمة في إصدارة { -brand-shorter-name } هذه.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = أوصِل جهازا
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
@@ -99,6 +117,10 @@ about-debugging-setup-network-troubleshoot = أتواجه مشاكل بالات�
 about-debugging-network-locations-add-button = أضِف
 # Text to display when there are no locations to show.
 about-debugging-network-locations-empty-text = لم تُضف أي أماكن على الشبكة بعد.
+# Text of the label for the text input that allows users to add new network locations in
+# the Connect page. A host is a hostname and a port separated by a colon, as suggested by
+# the input's placeholder "localhost:6080".
+about-debugging-network-locations-host-input-label = المضيف
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = أزِل

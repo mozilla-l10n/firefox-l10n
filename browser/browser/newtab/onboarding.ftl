@@ -20,6 +20,7 @@ onboarding-button-label-get-started = فلنبدأ
 
 onboarding-welcome-header = مرحبًا بك في { -brand-short-name }
 onboarding-welcome-body = وصلك الآن المتصفّح.<br/>اطّلع على بقيّة منتجات { -brand-product-name }.
+onboarding-welcome-learn-more = اعرف المزيد حول فوائد ذلك.
 onboarding-join-form-header = انضم إلى { -brand-product-name }
 onboarding-join-form-body = أدخِل عنوان البريد الإلكتروني لتبدأ.
 onboarding-join-form-email =
@@ -34,7 +35,7 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
-onboarding-sync-welcome-header = خذ معك فَيَرفُكس أينما ذهبت
+onboarding-sync-welcome-header = خذ معك { -brand-product-name } أينما ذهبت
 onboarding-sync-welcome-content = تشارك العلامات، وتأريخ التصفح، وكلمات السر وباقي الإعدادات على جميع أجهزتك.
 onboarding-sync-welcome-learn-more-link = اطّلع على المزيد عن حسابات فَيَرفُكس
 onboarding-sync-form-invalid-input = مطلوب بريد إلكتروني صالح
@@ -47,7 +48,7 @@ onboarding-sync-form-skip-login-button = تجاوز هذه الخطوة
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = أدخِل بريدك الإلكتروني
-onboarding-sync-form-sub-header = لمواصلة استخدام «تزامُن فَيَرفُكس»
+onboarding-sync-form-sub-header = لمواصلة استخدام { -sync-brand-name }
 
 ## These are individual benefit messages shown with an image, title and
 ## description.

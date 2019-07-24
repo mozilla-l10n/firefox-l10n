@@ -42,6 +42,9 @@ category-search =
 pane-privacy-title = الخصوصية و الأمان
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = دعم { -brand-short-name }
 addons-button-label = الامتدادات والسمات
 focus-search =
@@ -427,14 +430,14 @@ home-prefs-highlights-options-bookmarks =
 home-prefs-highlights-option-most-recent-download =
     .label = آخر ما نُزّل
 home-prefs-highlights-option-saved-to-pocket =
-    .label = الصفحات المحفوظة في بوكِت
+    .label = الصفحات المحفوظة في { -pocket-brand-name }
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = المقتطفات
-home-prefs-snippets-description = التحديثات من موزيلا وفَيَرفُكس
+home-prefs-snippets-description = التحديثات من { -vendor-short-name } و{ -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -607,6 +610,9 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = الاستثناءات…
     .accesskey = س
+forms-generate-passwords =
+    .label = ولّد كلمات سر قوية واقترحها عليّ
+    .accesskey = ك
 forms-saved-logins =
     .label = جلسات الولوج المحفوظة…
     .accesskey = ح
