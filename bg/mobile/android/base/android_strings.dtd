@@ -4,6 +4,7 @@
 
 <!ENTITY firstrun_panel_title_welcome "Добре дошли">
 <!ENTITY firstrun_urlbar_message2 "Благодарим ви, че избрахте &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Добре дошли при &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Модерен мобилен мрежов четец от Mozilla, организацията с нестопанска цел, отдадена на свободната и отворена Мрежа.">
 <!ENTITY firstrun_panel_title_privacy "Поверителност">
 <!ENTITY firstrun_privacy_message "Разглеждайте без да ви следят">
@@ -18,10 +19,13 @@
 <!ENTITY firstrun_data_message "По-малко данни, повече спестявания">
 <!ENTITY firstrun_data_subtext2 "Изключете изображенията, за да пестите данни от всяка посетена страница.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY updatednewfirstrun_sync_title "Сметка">
 <!ENTITY firstrun_sync_message2 "Продължете откъдето сте спрели.">
 <!ENTITY firstrun_sync_subtext2 "Използвайте Sync, за да намерите отметките, паролите и другите неща, които запазвате в &brandShortName; на всички ваши устройства.">
 <!ENTITY firstrun_signin_message "Свържете се, започнете">
 <!ENTITY firstrun_signin_button "Вписване в Sync">
+<!ENTITY newfirstrun_signin_button "Включване на Sync">
+<!ENTITY updatednewfirstrun_signin_button "Вписване в &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Започнете да разглеждате">
 <!ENTITY firstrun_button_notnow "Не сега">
 <!ENTITY firstrun_button_next "Напред">
@@ -61,6 +65,11 @@
 <!ENTITY  sending_crash_report "Изпращане на доклад за срив\u2026">
 <!ENTITY  crash_close_label "Затваряне">
 <!ENTITY  crash_restart_label "Рестартиране на &brandShortName;">
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; се срина">
+<!ENTITY  crash_notification_message "Докоснете, за да докладвате на &vendorShortName;">
+<!ENTITY  crash_notification_negative_button_text "Пренебрегване">
 
 <!ENTITY url_bar_default_text2 "Търсене или въвеждане на адрес">
 
@@ -103,6 +112,9 @@
 <!ENTITY bookmark_folder_updated "Папката е обновена">
 <!ENTITY bookmark_parent_folder "Родителска папка">
 <!ENTITY bookmark_add_folder "Добавяне на папка">
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(без заглавие)">
 
 <!ENTITY reader_saved_offline "Запазено за извън мрежа">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -323,11 +335,6 @@
 <!ENTITY pref_pwa "Модерни приложения за уеб">
 <!ENTITY pref_pwa_summary "Разрешаване на приложения за уеб да бъдат добавяни към началния екран">
 
-<!ENTITY tracking_protection_prompt_title "Сега със Защитата от проследяване">
-<!ENTITY tracking_protection_prompt_text "Активно блокира проследяващи елементи за ваше спокойствие.">
-<!ENTITY tracking_protection_prompt_tip_text "Вижте настройките на поверителност, за да научите повече">
-<!ENTITY tracking_protection_prompt_action_button "Разбрах!">
-
 <!ENTITY tab_queue_toast_message3 "Разделът е запазен във &brandShortName;">
 <!ENTITY tab_queue_toast_action "Отваряне">
 <!ENTITY tab_queue_prompt_title "Отваряте по няколко препратки наведнъж?">
@@ -341,6 +348,8 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Към настройките">
+<!-- Localization note (tab_queue_notification_prompt): This is the text of the default notification
+shown from Android O while a tab is being queued.-->
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -405,8 +414,9 @@
 <!ENTITY pref_private_data_downloadFiles2 "Изтегляния">
 <!ENTITY pref_private_data_syncedTabs "Синхронизирани раздели">
 
-<!ENTITY pref_default_browser "Избиране като стандартен браузър">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Посетете Поддръжка на Mozilla">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY pref_about_firefox "Относно &brandShortName;">
 <!ENTITY pref_vendor_faqs "Въпроси и отговори">
 <!ENTITY pref_vendor_feedback "Обратна връзка">
@@ -486,7 +496,7 @@
 <!ENTITY tools "Инструменти">
 <!ENTITY new_tab "Нов раздел">
 <!ENTITY new_private_tab "Нов поверителен раздел">
-<!ENTITY close_all_tabs "Затваряне на всички раздели">
+<!ENTITY close_all_tabs "Затваряне на разделите">
 <!ENTITY close_private_tabs "Затваряне на поверителните">
 <!ENTITY tabs_normal "Раздели">
 <!ENTITY tabs_private "Поверителни">
@@ -500,6 +510,10 @@
 <!ENTITY find_prev "Назад">
 <!ENTITY find_next "Напред">
 <!ENTITY find_close "Затваряне">
+
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+<!ENTITY find_error "Фразата не е намерена">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -573,6 +587,8 @@
 <!ENTITY bookmark_edit_location "Адрес">
 <!ENTITY bookmark_edit_keyword "Ключова дума">
 <!ENTITY bookmark_select_folder "Избиране на папка">
+
+<!ENTITY bookmark_edit_undo "Отменяне">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -903,6 +919,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Пауза">
 <!ENTITY pip_pause_button_description "Слагане на изпълнението на пауза">
 
+<!ENTITY pref_notification_settings_link "Управление на настройките на известията">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Мрежов четец">
 <!ENTITY mls_notification_channel "Услуга за местоположение от &vendorShortName;">
@@ -915,3 +932,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Известия на сайта">
+<!ENTITY crash_handler_notifications_channel "Доклад за срив на &brandShortName;">
