@@ -46,3 +46,16 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-pintab-animation-pause = Pausa
 cfr-doorhanger-pintab-animation-resume = Reprene
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Boton tampar
+    .title = Tampar
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Qué de nòu
+    .tooltiptext = Qué de nòu
+cfr-whatsnew-panel-header = Qué de nòu

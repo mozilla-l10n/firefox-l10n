@@ -139,6 +139,11 @@ newtab-section-header-pocket = Recomandat per { $provider }
 
 newtab-empty-section-highlights = Començatz de navegar e aquí vos mostrarem los melhors articles, vidèos e autras paginas qu’avètz visitadas o apondudas als marcapaginas.
 
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-try-again-button = Tornar ensajar
+newtab-discovery-empty-section-topstories-loading = Cargament…
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
