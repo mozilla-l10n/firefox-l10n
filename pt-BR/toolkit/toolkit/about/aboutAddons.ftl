@@ -312,7 +312,7 @@ preferences-addon-button =
        *[other] Preferências
     }
 details-addon-button = Detalhes
-release-notes-addon-button = Notas de lançamento
+release-notes-addon-button = Notas da versão
 permissions-addon-button = Permissões
 addons-enabled-heading = Ativado
 addons-disabled-heading = Desativado
@@ -322,7 +322,7 @@ never-activate-button = Nunca ativar
 addon-detail-author-label = Autor
 addon-detail-version-label = Versão
 addon-detail-last-updated-label = Última atualização
-addon-detail-homepage-label = Página inicial
+addon-detail-homepage-label = Página web
 addon-detail-rating-label = Classificação
 # The average rating that the add-on has received.
 # Variables:
@@ -350,8 +350,8 @@ pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</sp
 pending-uninstall-undo-button = Desfazer
 addon-detail-updates-label = Atualização automática
 addon-detail-updates-radio-default = Padrão
-addon-detail-updates-radio-on = Ligado
-addon-detail-updates-radio-off = Desligado
+addon-detail-updates-radio-on = Ativada
+addon-detail-updates-radio-off = Desativada
 addon-detail-update-check-label = Procurar atualização
 install-update-button = Atualizar
 # This is the tooltip text for the private browsing badge in about:addons. The
