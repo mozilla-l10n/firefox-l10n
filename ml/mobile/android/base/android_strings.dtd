@@ -21,12 +21,15 @@
 <!ENTITY firstrun_data_message "കുറച്ച് ഡേറ്റ, കൂടുതല്‍ നീക്കിയിരുപ്പ്‌">
 <!ENTITY firstrun_data_subtext2 "ഡേറ്റാ ഉപയോഗം കുറക്കാന്‍ നിങ്ങള്‍ സന്ദര്‍ശിക്കുന്ന സൈറ്റുകളില്‍ ചിത്രങ്ങള്‍ കാണിക്കാതിരിക്കുക">
 <!ENTITY firstrun_sync_title "സിന്‍ക്">
+<!ENTITY updatednewfirstrun_sync_title "അക്കൗണ്ട്">
 <!ENTITY firstrun_sync_message2 "അവസാനിപ്പിച്ചിടത്തു നിന്ന് തുടങ്ങുക.">
 <!ENTITY firstrun_sync_subtext2 "നിങ്ങൾ &brandShortName; ൽ നിങ്ങൾ സംരക്ഷിച്ച ബുക്ക്മാർക്കുകൾ, പാസ്വേഡുകൾ, മറ്റ് കാര്യങ്ങൾ എന്നിവ കണ്ടെത്തുന്നതിന് സിങ്ക് ഉപയോഗിക്കുക; നിങ്ങളുടെ എല്ലാ ഉപകരണങ്ങളിലും.">
 <!ENTITY newfirstrun_sync_subtext "നിങ്ങളുടെ മൊബൈലില്‍ സുക്ഷിക്കുന്ന കാര്യങ്ങള്‍ ഫയര്‍ഫോക്സ് ഡെസ്ക്ടോപ്പില്‍ സുരക്ഷിതമായും സ്വകാര്യമായും സമന്വയിപ്പിക്കു.">
+<!ENTITY updatednewfirstrun_sync_subtext "&brandShortName; പരമാവധി പ്രയോജനപ്പെടുത്തുന്നതിന് നിങ്ങളുടെ അക്കൗണ്ടിലേക്ക് പ്രവേശിക്കുക">
 <!ENTITY firstrun_signin_message "കണക്റ്റഡായിരിക്കു, ആരംഭിക്കൂ">
 <!ENTITY firstrun_signin_button "സിന്‍കിലേയ്ക്ക് പ്രവേശിക്കൂ">
 <!ENTITY newfirstrun_signin_button "സമന്വയം പ്രവര്‍ത്തിപ്പിക്കുക">
+<!ENTITY updatednewfirstrun_signin_button "&brandShortName; ലേക്ക് പ്രവേശിക്കുക">
 <!ENTITY  onboard_start_button_browser "ബ്രൌസിങ് തുടങ്ങാം">
 <!ENTITY firstrun_button_notnow "ഇപ്പോള്‍ വേണ്ട">
 <!ENTITY firstrun_button_next "തുടരുക">
@@ -66,6 +69,11 @@
 <!ENTITY  sending_crash_report "തകര്‍ച്ചാ കുറിപ്പ്‌ അയക്കുന്നു\u2026">
 <!ENTITY  crash_close_label "അടക്കുക">
 <!ENTITY  crash_restart_label "&brandShortName; വീണ്ടും ആരംഭിയ്ക്കുക">
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; തകർന്നു">
+<!ENTITY  crash_notification_message "&vendorShortName; - ഇതിലേയ്ക്ക് റിപ്പോർട്ടുചെയ്യാൻ ടാപ്പുചെയ്യുക;">
+<!ENTITY  crash_notification_negative_button_text "അവഗണിക്കുക">
 
 <!ENTITY url_bar_default_text2 "തിരയുകയോ വിലാസം നല്‍കുകയോ ചെയ്യൂ">
 
@@ -108,6 +116,9 @@
 <!ENTITY bookmark_folder_updated "ഫോൾഡർ അപ്ഡേറ്റുചെയ്തു">
 <!ENTITY bookmark_parent_folder "മാതൃ ഫോള്‍ഡര്‍">
 <!ENTITY bookmark_add_folder "പുതിയ ഫോൾഡർ ചേർക്കുക">
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(തലക്കെട്ട് ഇല്ല)">
 
 <!ENTITY reader_saved_offline "ഓഫ്‍ലൈനായി സൂക്ഷിച്ചു">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -267,6 +278,7 @@
 <!ENTITY pref_cookies_menu "കുക്കികള്‍ ">
 <!ENTITY pref_cookies_accept_all "പ്രവര്‍ത്തന സജ്ജമാക്കിയിരിയ്ക്കുന്നു">
 <!ENTITY pref_cookies_not_accept_foreign "മൂന്നാം കക്ഷിയെ ഒഴിവാക്കി, പ്രവര്‍ത്തനസജ്ജമാക്കി">
+<!ENTITY pref_cookies_not_accept_trackers "ട്രാക്കിംഗ് കുക്കികൾ ഒഴികെ മറ്റെല്ലാം പ്രവർത്തനക്ഷമമാക്കി">
 <!ENTITY pref_cookies_disabled "പ്രവര്‍ത്തനരഹിതമാക്കി">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -327,11 +339,6 @@
 
 <!ENTITY pref_pwa "പുരോഗമന വെബ് ആപ്പുകള്‍">
 <!ENTITY pref_pwa_summary "വെബ് ആപ്പുകൾ ഹോം സ്ക്രീനിൽ ചേർക്കാൻ അനുവദിക്കുക">
-
-<!ENTITY tracking_protection_prompt_title "ഇപ്പോള്‍ പിന്തുടല്‍ സുരക്ഷയോടുകൂടെ">
-<!ENTITY tracking_protection_prompt_text "ട്രാക്കുചെയ്യുന്ന ഘടകങ്ങളെ സജീവമായി തടയുക, ആകുലതകള്‍ വേണ്ടെന്നു വക്കുക.">
-<!ENTITY tracking_protection_prompt_tip_text "കൂടുതലറിയാന്‍ സ്വകാര്യ സജ്ജീകരണങ്ങള്‍ സന്ദര്‍ശിക്കൂ">
-<!ENTITY tracking_protection_prompt_action_button "കിട്ടിപ്പോയി!">
 
 <!ENTITY tab_queue_toast_message3 "&brandShortName; എന്നതില്‍ ടാബ് സൂക്ഷിച്ചിരിക്കുന്നു">
 <!ENTITY tab_queue_toast_action "ഇപ്പോൾ തുറക്കുക">
@@ -413,14 +420,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "ഡൌണ്‍ലോഡുകള്‍">
 <!ENTITY pref_private_data_syncedTabs "സമന്വയിപ്പിച്ച ടാബുകള്‍">
 
-<!ENTITY pref_default_browser "സ്വതേയുള്ള ബ്രൗസര്‍ ആക്കുക">
-
 <!ENTITY pref_default_browser2 "&brandShortName; നിങ്ങളുടെ സ്വതേയുള്ള ബ്രൌസറാക്കുക">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "ബ്രൌസര്‍ ആപ്പില്‍ അമര്‍ത്ത് &brandShortName; തെരഞ്ഞെടുക്കുക">
-<!ENTITY pref_default_browser_mozilla_support_tablet "മോസില്ല സപ്പോർട്ട് സന്ദർശിക്കുക">
 <!ENTITY pref_about_firefox "&brandShortName;-നെ സംബന്ധിച്ച്">
 <!ENTITY pref_vendor_faqs "സ്ഥിരം ചോദ്യങ്ങള്‍">
 <!ENTITY pref_vendor_feedback "പ്രതികരണം നല്‍കുക">
@@ -592,6 +596,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "കീവേര്‍ഡ്">
 <!ENTITY bookmark_select_folder "ഫോൾഡർ തിരഞ്ഞെടുക്കുക">
 
+<!ENTITY bookmark_edit_undo "പഴയപടിയാക്കുക">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "വെബ്സൈറ്റ് സജ്ജീകരണങ്ങള്‍">
@@ -679,6 +685,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "ഒരു ഒച്ച തിരഞ്ഞെടുക്കുകയോ റിക്കാര്‍ഡാക്കുകയോ ചെയ്യുക">
 <!ENTITY filepicker_image_title "ഒരു ചിത്രം തിരഞ്ഞെടുക്കുകയോ എടുക്കുകയോ ചെയ്യുക">
 <!ENTITY filepicker_video_title "ഒരു വീഡീയോ തിരഞ്ഞെടുക്കുകയോ റിക്കാര്‍ഡാക്കുകയോ ചെയ്യുക">
+<!ENTITY filepicker_permission_denied "ആവശ്യമായ അനുമതികൾ നല്‍കിയിട്ടില്ല, സിസ്റ്റം ഫയൽ പിക്കറിലേക്ക് തിരിച്ചുപോകുന്നു.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "നിങ്ങള്‍ കണക്ട് ചെയ്യപ്പെട്ടിരിക്കുന്ന ഡൊമെയിന്‍">
@@ -931,3 +938,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "സൈറ്റ് അറിയിപ്പുകൾ">
+<!ENTITY crash_handler_notifications_channel "&brandShortName; തകർച്ച റിപ്പോർട്ടർ">
