@@ -10,6 +10,7 @@
 title = Nuguan' ña'an doj
 heading = Naduna daj ga { -brand-short-name }
 changed-title = ¿Nujhuin si nadunat naj?
+changed-desc-profiles = Hua a'ngô perfî nakàa nikaj { -brand-short-name } na'nïnt nan. Riña na'nïn sà' Firefox 'ngo yi'nïn' niguan'an dàj rû' nej markadô, da'nga' huìi ni sa arâj sun' doj huin 'ngo perfî.
 resources = Nej sa rajsun'
 sync-button = Gun' ne' ñaan
 sync-learn = Gahuin chrūn doj
