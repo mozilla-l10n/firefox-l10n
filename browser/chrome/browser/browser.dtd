@@ -66,7 +66,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "п">
 <!ENTITY printCmd.commandkey "p">
 <!ENTITY importFromAnotherBrowserCmd.label "Внасяне от друг мрежов четец…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "ч">
 
+<!ENTITY taskManagerCmd.label "Диспечер на задачите">
 
 <!ENTITY goOfflineCmd.label "Работа извън мрежата">
 <!ENTITY goOfflineCmd.accesskey "Р">
@@ -125,6 +127,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Вземете Firefox с вас">
+<!ENTITY fxa.signin.description.label "Вземете своите отметки, история, пароли и всички други настройки на всички ваши устройства.">
+<!ENTITY fxa.signin.button.label "Включете &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
@@ -133,6 +138,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Вписани сте като">
+<!ENTITY fxa.menu.manageAccount.label "Управление на сметката…">
+<!ENTITY fxa.menu.syncSettings.label "Настройки на &syncBrand.shortName.label;…">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Добавяне на устройство…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -155,6 +165,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
 <!ENTITY pictureInPicture.label "Картина в картината">
+<!ENTITY pictureInPicture.accesskey "т">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -250,8 +261,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton2.label         "Меню с отметки">
 <!ENTITY bookmarksMenuButton.other.label    "Други отметки">
 <!ENTITY bookmarksMenuButton.mobile.label   "Мобилни отметки">
-<!ENTITY viewBookmarksSidebar2.label        "Показване на страничната лента с отметки">
-<!ENTITY hideBookmarksSidebar.label         "Скриване на страничната лента с отметки">
+<!ENTITY viewBookmarksSidebar2.label        "Страничната лента с отметки">
+<!ENTITY hideBookmarksSidebar.label         "Скриване на лентата с отметки">
 <!ENTITY viewBookmarksToolbar.label         "Показване на лентата с отметки">
 <!ENTITY hideBookmarksToolbar.label         "Скриване на страничната лента с отметки">
 <!ENTITY searchBookmarks.label              "Търсене в отметките">
@@ -362,7 +373,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.showAll.label "Цялата история">
 <!ENTITY appMenuHistory.clearRecent.label "Изчистване на скорошна история…">
 <!ENTITY appMenuHistory.restoreSession.label "Възстановяване на предишна сесия">
-<!ENTITY appMenuHistory.viewSidebar.label "Показване на страничната лента с история">
+<!ENTITY appMenuHistory.viewSidebar.label "Страничната лента с история">
+<!ENTITY appMenuHistory.hideSidebar.label "Скриване на лентата с история">
 <!ENTITY appMenuHistory.recentHistory.label "Скорошна история">
 <!ENTITY appMenuHelp.label "Помощ">
 
@@ -391,6 +403,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Вписване в Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Управление на устройства…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Странична лента с раздели">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Скриване на лентата с раздели">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Добавяне на устройство">
 
 <!ENTITY appMenuRecentHighlights.label "Последни акценти">

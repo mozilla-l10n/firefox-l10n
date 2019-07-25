@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Запазване
     .accesskey = З
+permissions-autoplay-menu = Стандартно за всички страници:
 permissions-searchbox =
     .placeholder = Търсене на страница
+permissions-capabilities-autoplay-allow =
+    .label = Разрешаване на аудио и видео
+permissions-capabilities-autoplay-block =
+    .label = Без аудио
+permissions-capabilities-autoplay-blockall =
+    .label = Спиране на аудио и видео
 permissions-capabilities-allow =
     .label = Разрешаване
 permissions-capabilities-block =
@@ -57,7 +64,7 @@ permissions-invalid-uri-label = Моля, въведете валидно име
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-content-blocking-window =
-    .title = Изключения - Ограничаване на съдържание
+    .title = Изключения – Ограничаване на съдържание
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Изключили сте ограничаването на съдържание за тези страници.
 
@@ -98,6 +105,10 @@ permissions-exceptions-autoplay-media-desc2 = Може да укажете ст�
 
 ## Site Permissions - Autoplay
 
+permissions-site-autoplay-window =
+    .title = Настройки – Автоматично възпроизвеждане
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Тук можете да управлявате страниците, които не следват настройките за автоматично възпроизвеждане по подразбиране.
 
 ## Site Permissions - Notifications
 
