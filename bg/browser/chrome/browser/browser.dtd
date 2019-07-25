@@ -261,7 +261,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton2.label         "Меню с отметки">
 <!ENTITY bookmarksMenuButton.other.label    "Други отметки">
 <!ENTITY bookmarksMenuButton.mobile.label   "Мобилни отметки">
-<!ENTITY viewBookmarksSidebar2.label        "Страничната лента с отметки">
+<!ENTITY viewBookmarksSidebar2.label        "Странична лента с отметки">
 <!ENTITY hideBookmarksSidebar.label         "Скриване на лентата с отметки">
 <!ENTITY viewBookmarksToolbar.label         "Показване на лентата с отметки">
 <!ENTITY hideBookmarksToolbar.label         "Скриване на страничната лента с отметки">
@@ -373,7 +373,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.showAll.label "Цялата история">
 <!ENTITY appMenuHistory.clearRecent.label "Изчистване на скорошна история…">
 <!ENTITY appMenuHistory.restoreSession.label "Възстановяване на предишна сесия">
-<!ENTITY appMenuHistory.viewSidebar.label "Страничната лента с история">
+<!ENTITY appMenuHistory.viewSidebar.label "Странична лента с история">
 <!ENTITY appMenuHistory.hideSidebar.label "Скриване на лентата с история">
 <!ENTITY appMenuHistory.recentHistory.label "Скорошна история">
 <!ENTITY appMenuHelp.label "Помощ">
