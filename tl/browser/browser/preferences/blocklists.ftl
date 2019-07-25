@@ -5,7 +5,7 @@
 blocklist-window =
     .title = Listahan ng Block
     .style = width: 55em
-blocklist-desc = Maaari mong piliin kung aling listahan ang gagamitin ng { -brand-short-name } upang harangan ang mga elemento ng Web na maaaring subaybayan ang iyong aktibidad sa pagba-browse.
+blocklist-description = Piliin ang listahan ng { -brand-short-name } na ginagamit sa pagharang ng mga online tracker. Ang mga listahan ay hatid ng <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -24,7 +24,3 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
-blocklist-item-moz-std-name = Disconnect.me basic protection (Inirerekomenda).
-blocklist-item-moz-std-desc = Pinapayagan ang ilang mga tagasubaybay upang ang mga website ay gumana ng maayos.
-blocklist-item-moz-full-name = Disconnect.me mahigpit na proteksyon.
-blocklist-item-moz-full-desc = Bina-block ang mga kilalang tracker. Ang ilang mga website ay maaaring hindi gumana ng maayos.
