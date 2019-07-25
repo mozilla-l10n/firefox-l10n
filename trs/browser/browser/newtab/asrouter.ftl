@@ -68,3 +68,4 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 cfr-whatsnew-button =
     .label = Nù huin sa nakà hua
     .tooltiptext = Nù huin sa nakà hua
+cfr-whatsnew-panel-header = Nù huin sa nakà hua

@@ -12,6 +12,7 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
+onboarding-button-label-learn-more = Gahuin chrūn doj
 onboarding-button-label-try-now = Yakaj da'nga'
 onboarding-button-label-get-started = Gayi'í
 

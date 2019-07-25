@@ -143,6 +143,15 @@ newtab-empty-section-highlights = Gayi’ì gachē nunt nī nadigân ñûnj nej 
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Hua nakà ma. 'Ngà nanikaj ñunt ni nana'uit sa gahuin { $provider }. Si ga'ue gana'uij 'ngà a'. Ganahui 'ngo sa yitïnj doj da' nahuin hue'e si web.
 
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-header = ¡Nitaj danè' gan'anjt!
+newtab-discovery-empty-section-topstories-content = SI ruhuât gunïnt doj sa hua ni gatu ñû nana doj.
+newtab-discovery-empty-section-topstories-try-again-button = A'ngô ñû
+newtab-discovery-empty-section-topstories-loading = Hìaj ayi'ij...
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = ¡'Ò'! Ngà doj gachìn nayi'nïn hiuj nan, sani gàchin doj.
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
