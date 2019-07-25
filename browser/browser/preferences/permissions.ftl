@@ -46,8 +46,6 @@ permissions-capabilities-listitem-allow =
     .value = Разрешаване
 permissions-capabilities-listitem-block =
     .value = Забраняване
-permissions-capabilities-listitem-allow-first-party =
-    .value = Разрешаване само на оригиналната страница
 permissions-capabilities-listitem-allow-session =
     .value = Разрешаване за сесията
 
@@ -58,10 +56,6 @@ permissions-invalid-uri-label = Моля, въведете валидно име
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Изключения – защита от проследяване
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Изключили сте защитата от проследяване за следните страници.
 permissions-exceptions-content-blocking-window =
     .title = Изключения - Ограничаване на съдържание
     .style = { permissions-window.style }
@@ -100,7 +94,10 @@ permissions-exceptions-addons-desc = Може да посочите страни
 permissions-exceptions-autoplay-media-window2 =
     .title = Изключения – Автоматично възпроизвеждане
     .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Може да укажете страниците, на които винаги е разрешено или забранено автоматично да възпроизвеждат медия със звук. Въведете точния адрес на сайтта и изберете „Забраняване“ или „Разрешаване“.
+permissions-exceptions-autoplay-media-desc2 = Може да укажете страниците, на които винаги е разрешено или забранено автоматично да възпроизвеждат медия със звук. Въведете точния адрес на страницата и изберете „Забраняване“ или „Разрешаване“.
+
+## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
