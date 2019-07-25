@@ -12,12 +12,14 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
+onboarding-button-label-learn-more = Ne saber mai
 onboarding-button-label-try-now = Ensajatz-lo
 onboarding-button-label-get-started = Per començar
 
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = La benvenguda a { -brand-short-name }
+onboarding-join-form-continue = Contunhar
 onboarding-start-browsing-button-label = Començar de navegar
 onboarding-cards-dismiss =
     .title = Tirar
@@ -59,6 +61,8 @@ onboarding-addons-title = Moduls complementaris
 onboarding-ghostery-title = Ghostery
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sincronizar
+onboarding-tracking-protection-title2 = Proteccion contra lo seguiment
+onboarding-tracking-protection-button2 = Cossí fonciona
 
 ## Message strings belonging to the Return to AMO flow
 
