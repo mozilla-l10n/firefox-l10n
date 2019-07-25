@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Nadurê'
 customize-mode-lwthemes-my-themes =
     .value = Si temaj
+customize-mode-touchbar-cmd =
+    .label = Nagi'iaj barrâ tâktil
