@@ -69,7 +69,6 @@
 <!ENTITY  sending_crash_report "Mandadís del rapòrt de plantatge\u2026">
 <!ENTITY  crash_close_label "Tampar">
 <!ENTITY  crash_restart_label "Reaviar &brandShortName;">
-
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; a agut un problèma">
@@ -117,7 +116,6 @@
 <!ENTITY bookmark_folder_updated "Dorsièr mes a jorn">
 <!ENTITY bookmark_parent_folder "Dossièr parent">
 <!ENTITY bookmark_add_folder "Apondre un dossièr novèl">
-
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
 <!ENTITY bookmark_default_folder_title "(sens títol)">
@@ -280,6 +278,7 @@
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Autorizats">
 <!ENTITY pref_cookies_not_accept_foreign "Autorizats, levats cookies tèrces">
+<!ENTITY pref_cookies_not_accept_trackers "Autorizats, fora cookies utilizats pel seguiment">
 <!ENTITY pref_cookies_disabled "Defenduts">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -340,11 +339,6 @@
 
 <!ENTITY pref_pwa "Aplicacions web progressivas">
 <!ENTITY pref_pwa_summary "Autorizar d’apondre las aplicacions web sus l’ecran d’acuèlh">
-
-<!ENTITY tracking_protection_prompt_title "Ara amb proteccion contra lo seguiment">
-<!ENTITY tracking_protection_prompt_text "Los elements de seguiment son blocats aital vos preocupetz pas d’aquò.">
-<!ENTITY tracking_protection_prompt_tip_text "Consultar los paramètres de vida privada per ne saber mai">
-<!ENTITY tracking_protection_prompt_action_button "Comprés !">
 
 <!ENTITY tab_queue_toast_message3 "Onglet apondut a &brandShortName;">
 <!ENTITY tab_queue_toast_action "Dobrir ara">
@@ -431,7 +425,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Tocatz Navegador puèi seleccionatz &brandShortName;">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Visitar l’ajuda de Mozilla">
 <!ENTITY pref_about_firefox "A prepaus de &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "Retorns d’utilizacion">
@@ -692,7 +685,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Causir o enregistrar un son">
 <!ENTITY filepicker_image_title "Causir un imatge o far una còpia d’ecran">
 <!ENTITY filepicker_video_title "Causir o enregistrar una vidèo">
-
 <!ENTITY filepicker_permission_denied "Las autorizacions requesidas son pas acordadas, retorn cap al selector de fichièr del sistèma.">
 
 <!-- Site identity popup -->
