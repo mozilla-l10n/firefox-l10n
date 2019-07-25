@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Extension da'ui' garasun'
+cfr-doorhanger-pintab-heading = Gini'iaj ngà nan: Pin Tab
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ¿Nuhuin saj ni'ia na nanj?
 cfr-doorhanger-extension-cancel-button = Si ga'ue akuan'ni
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Nuto' hiaj
     .accesskey = A
+cfr-doorhanger-pintab-ok-button = Nachrun Rakïj ñanj nan
+    .accesskey = P
 cfr-doorhanger-extension-manage-settings-button = Dugumî dàj hua chrej nikaj nej nuguan' narikî nej si
     .accesskey = M
 cfr-doorhanger-extension-never-show-recommendation = Si nadigant riña nuguan' hua nan
@@ -41,3 +44,27 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } usuario
        *[other] { $total } nej usuario
     }
+cfr-doorhanger-pintab-description = Hìo gatut riña sitiô arâj sunt doj. Dunâj ga ni'nïnj nej man riña 'ngo rakïj ñanj ('Iaj sunj sisi nayi'ì nakà ñûnt).
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = <b>Guru'man ra'a ne' huò'</b> riña rakïj ñanj ruhuât na'nïnjt.
+cfr-doorhanger-pintab-step2 = Nagui <b>Pin Tab</b> riña menû.
+cfr-doorhanger-pintab-step3 = Si hua 'ngo sa ga'ue nahuin nakà riña sîtio, ni guruguì' 'ngo da'nga' kuan li riña rakïj ñanj dan.
+cfr-doorhanger-pintab-animation-pause = Duyichin' akuan'
+cfr-doorhanger-pintab-animation-resume = Gun ne' ñaa
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Nagi'iaj guña si markadôt daran' hiuj u.
+cfr-doorhanger-bookmark-fxa-body = Dugunàj hua sa narî't! Da'uît ga'nïnjt markadô nan riña nej si aga't atât. Gayi'ì ngà 'ngo { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-link-text = à'ngo nagi'iaj guñant nej si markadôt...
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Butûn narûn'
+    .title = Narûn'
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Nù huin sa nakà hua
+    .tooltiptext = Nù huin sa nakà hua

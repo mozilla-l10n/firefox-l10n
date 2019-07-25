@@ -17,5 +17,12 @@ options-title = Nù huin a'ngô sa ga'ue gi'iâ ngà' nanj?
 options-do-nothing = Sisi nagi'íát sa huaa, ni nej nuguan' nikaj si perfît riña { -brand-short-name } ninïn gaj ngà si hua a'ngô nuguan' nikaj si perfît riña a'ngô Firefox.
 options-use-sync = Sisi ruhuât guñan chre ga nej nuguan' nu 'iát riña si perfît riña daran' Firefox, ga'ue garasunt 'ngo { -fxaccount-brand-name } da' nagi'iaj guñat nej man.
 resources = Nej sa rajsun'
+support-link = Dàj garasun' sa nikaj ñu'unj nej perfî - Nej nuguan' natà' gunïn'
+sync-header = Gayi'ì sesiûn asi giri 'ngo { -fxaccount-brand-name }
+sync-label = Gachrun si korreôt
+sync-input =
+    .placeholder = Korrêo
 sync-button = Gun' ne' ñaan
+sync-terms = Sisi gan'anj ne' ñaan, ni gata ruhuaj sisi garaj yinat <a data-l10n-name="terms"> Nuguan' garasun'</a> ni <a data-l10n-name="privacy">Nuguan' hua huìi</a>.
+sync-first = Hìaj 'ngo rïn dachrà araj sunt { -sync-brand-name }aj? Da'uît gayi'ìt sesiûn riña da' go'ngo Firefox nu 'iát da' ga'ue nagi'iaj guñant nej si nuguàn't.
 sync-learn = Gahuin chrūn doj
