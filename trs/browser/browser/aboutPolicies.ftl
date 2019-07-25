@@ -7,13 +7,8 @@ about-policies-title = Sī Polítika Empresa
 active-policies-tab = Ngà' 'iaj sunj
 errors-tab = Nej sa gire'e
 documentation-tab = Nuguan' gimàn chre'
+no-specified-policies-message = Sun guendâ nikaj si nuguàn' empresa 'iaj sun sani nitaj à'ngo nuguan' hua.
+inactive-message = Nitaj si 'iaj sun nej si nuguàn' empresa.
 policy-name = Si yugui politikâ
 policy-value = Daj du'ue polîtika
 policy-errors = Nej politikâ gire'
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = 'Ngà rajsun 'ngò politica, ni ma riña si aga't gi'iaj sun ma.
