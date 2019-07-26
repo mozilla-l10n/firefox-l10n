@@ -270,7 +270,7 @@ go-back-button =
 discopane-intro = Eklentiler ve temalar tarayıcınızın içinde çalışan uygulamalar gibidir. Parolalarınızı saklamanıza, video indirmeize, indirimleri bulmanıza, sinir bozucu reklamları engellemenize, tarayıcınızın görünümü değiştirmenize ve çok daha birçok şey yapmanıza olanak tanırlar. Bu küçük yazılımlar genellikle üçüncü şahıslar tarafından geliştirilir. Ekstra güvenlik, performans ve işlevsellik için { -brand-product-name } tarafından <a data-l10n-name="learn-more-trigger">önerilen</a> eklenti ve temaları aşağıdaki bulabilirsiniz.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
-    Bu önerilerden bazıları kişiselleştirilmiştir. Önerilerimiz; yüklediğiniz
+    Bu önerilerden bazıları size özeldir. Önerilerimiz; yüklediğiniz
     diğer eklentileri, profil tercihlerinizi ve kullanım istatistiklerinizi temel alır.
 discopane-notice-learn-more = Daha fazla bilgi al
 privacy-policy = Gizlilik İlkeleri
