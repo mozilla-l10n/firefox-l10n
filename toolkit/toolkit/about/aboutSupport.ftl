@@ -24,13 +24,25 @@ features-title = Възможности на { -brand-short-name }
 features-name = Наименование
 features-version = Версия
 features-id = ID
+processes-title = Отдалечени процеси
+processes-type = Вид
+processes-count = Брой
 app-basics-title = Основни за приложението
 app-basics-name = Наименование
 app-basics-version = Версия
 app-basics-build-id = Идентификатор на компилиране
 app-basics-update-channel = Канал за обновяване
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Папка за обновявания
+       *[other] Папка за обновявания
+    }
 app-basics-update-history = История на обновяванията
 app-basics-show-update-history = История на обновяванията
+# Represents the path to the binary used to start the application.
+app-basics-binary = Двоичен файл на приловението
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Директория на профила
@@ -45,9 +57,8 @@ app-basics-performance = Производителност
 app-basics-service-workers = Регистрирани Service Workers
 app-basics-profiles = Профили
 app-basics-multi-process-support = Многопроцесни прозорци
-app-basics-process-count = Процеси за уеб съдържание
+app-basics-remote-processes-count = Отдалечени процеси
 app-basics-enterprise-policies = Ведомствени ограничения
-app-basics-key-google = Google Key
 app-basics-key-mozilla = Mozilla Location Service Key
 app-basics-safe-mode = Надежден режим
 show-dir-label =
@@ -180,12 +191,15 @@ no = Не
 
 found = Наличен
 missing = Липсващ
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Описание
 gpu-vendor-id = ID на производител
 gpu-device-id = ID на устройство
 gpu-subsys-id = ID на подсистема
 gpu-drivers = Драйвери
 gpu-ram = RAM
+gpu-driver-vendor = Производител на драйвера
 gpu-driver-version = Версия на драйвера
 gpu-driver-date = Дата на драйвера
 gpu-active = Включен
@@ -212,11 +226,13 @@ d3d9video-crash-buard = Видео декодер на D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Анулиране при следващото рестартиране
 gpu-process-kill-button = Прекъсване на процес на GPU
+gpu-device-reset = Нулиране на устройството
 gpu-device-reset-button = Нулиране на устройството
 uses-tiling = Използване на повтарящо се изображение
 content-uses-tiling = Използване на повтарящо се изображение (за съдържанието)
 off-main-thread-paint-enabled = Изчертаване в отделна нишка включено
 off-main-thread-paint-worker-count = Брой сервизни нишки, изчертаващи в отделна нишка
+target-frame-rate = Целева честота на кадрите
 audio-backend = Аудио хардуер
 max-audio-channels = Максимален брой канали
 channel-layout = Предпочитано разположение на каналите

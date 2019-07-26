@@ -71,3 +71,5 @@ remove-all-shown =
 remove-all-passwords-prompt = Сигурни ли сте, че желаете да изтриете всички запазени пароли?
 remove-all-passwords-title = Изтриване на всички пароли
 no-master-password-prompt = Сигурни ли сте, че желаете паролите ви да бъдат показани?
+auto-fill-logins-and-passwords =
+    .label = Автоматично попълване на регистрации и пароли

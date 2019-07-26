@@ -18,4 +18,4 @@
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-settings-suggestions = Преди да подадете сигнал за разширението, можете да опитате да промените настройките му:
+abuse-report-settings-suggestions = Преди да подадете сигнал за разширението опитайте да промените настройките му:
