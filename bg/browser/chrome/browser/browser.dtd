@@ -134,6 +134,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
 <!ENTITY fxa.unverified.callout.label "Проверете вашата електронна поща">
+<!ENTITY fxa.unverified.description.label "Трябва да потвърдите сметката си преди да може да използвате синхронизиране.">
+<!ENTITY fxa.unverified.button.label "Настройки на &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
