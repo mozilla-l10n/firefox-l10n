@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = Χωρίς διαμεσολαβητή για
     .accesskey = χ
 connection-proxy-noproxy-desc = Για παράδειγμα: .mozilla.org, .net.nz, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = Οι συνδέσεις στο localhost, το 127.0.0.1 και το ::1 δεν προωθούνται ποτέ μέσω διακομιστή μεσολάβησης.
 connection-proxy-autotype =
     .label = URL αυτόματης ρύθμισης διαμεσολαβητή
     .accesskey = α
@@ -70,12 +72,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Ενεργοποίηση DNS αντί HTTPS
     .accesskey = H
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = Χρήση προεπιλογής ({ $url })
-    .accesskey = Χ
-    .tooltiptext = Χρήση του προεπιλεγμένου URL για επίλυση DNS αντί HTTPS
 connection-dns-over-https-url-resolver = Χρήση παρόχου
     .accesskey = Χ
 # Variables:

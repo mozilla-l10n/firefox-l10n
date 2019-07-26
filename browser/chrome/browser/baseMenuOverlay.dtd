@@ -49,3 +49,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Εμφάνιση όλων">
+
+<!ENTITY touchBarCmdMac.label           "Προσαρμογή γραμμής αφής…">

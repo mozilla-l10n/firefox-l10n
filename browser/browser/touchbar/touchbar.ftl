@@ -18,3 +18,4 @@ reader-view = Προβολή ανάγνωσης
 open-location = Αναζήτηση ή εισαγωγή διεύθυνσης
 share = Κοινή χρήση
 close-window = Κλείσιμο παραθύρου
+open-sidebar = Πλευρικές γραμμές
