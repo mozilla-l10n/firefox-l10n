@@ -245,8 +245,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Забранили сте на страницата да отваря изскачащи прозорци.">
 <!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Забранили сте автоматичното възпроизвеждане на медия на страницата.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Забранили сте достъпа до данните от canvas на тази страница.">
-<!ENTITY urlbar.flashPluginBlocked.tooltip       "Използването на приставката Adobe Flash е забранено за този сайт.">
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Забранили сте приставката Adobe Flash на тази страница.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Забранили сте на страницата достъп до MIDI.">
+<!ENTITY urlbar.installBlocked.tooltip           "Забранили сте на страницата да инсталира добавки.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Показване на историята">
 
@@ -439,6 +440,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
 <!ENTITY customizeMenu.reportExtension.label "Докладване на разширението">
+<!ENTITY customizeMenu.reportExtension.accesskey "к">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -580,6 +582,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "Запазване в Pocket">
+<!ENTITY saveToPocketCmd.label        "Запазване на страницата в Pocket">
+<!ENTITY saveToPocketCmd.accesskey    "с">
+<!ENTITY saveLinkToPocketCmd.label    "Запазване на препратката в Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "п">
+<!ENTITY pocketMenuitem.label         "Преглед на списъка на Pocket">
 
 <!ENTITY emailPageCmd.label           "Препратка по имейл…">
 <!ENTITY emailPageCmd.accesskey       "е">
@@ -648,18 +656,18 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.accesskey       "з">
 <!ENTITY mediaPlaybackRate2.label     "Скорост на възпроизвеждане">
 <!ENTITY mediaPlaybackRate2.accesskey "о">
-<!ENTITY mediaPlaybackRate050x2.label "Бавна (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.label "Бавно (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "Б">
-<!ENTITY mediaPlaybackRate100x2.label "Нормална">
+<!ENTITY mediaPlaybackRate100x2.label "Нормално">
 <!ENTITY mediaPlaybackRate100x2.accesskey "Н">
 <!ENTITY mediaPlaybackRate125x2.label "Бързо (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "р">
-<!ENTITY mediaPlaybackRate150x2.label "По-бърза (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.label "По-бързо (1.5×)">
 <!ENTITY mediaPlaybackRate150x2.accesskey "П">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x2.label "Светкавична (2×)">
+<!ENTITY mediaPlaybackRate200x2.label "Светкавично (2×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "С">
 <!ENTITY mediaLoop.label             "Повтаряне">
 <!ENTITY mediaLoop.accesskey         "в">
@@ -782,6 +790,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "Това е защитена страница на &brandShortName;.">
 <!ENTITY identity.extensionPage "Страницата е отворена от разширение.">
 <!ENTITY identity.insecureLoginForms2 "Въведените на страницата данни за вход може да бъдат компрометирани.">
+<!ENTITY identity.customRoot "Връзката е потвърдена от издател на сертификат, който не е разпознат от Mozilla.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; блокира части от страницата, които не са шифрирани.">
@@ -800,6 +809,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "&brandShortName; блокира част от съдържанието, но все още има съдържание, което не е шифрирано, като например изображения.">
 <!ENTITY identity.description.activeLoaded "Страницата има съдържание, например скриптове, което не е шифровано, и връзката със сайта не е поверителна.">
 <!ENTITY identity.description.activeLoaded2 "Споделяната със сайта информация, като например пароли, съобщения, банкови карти и др., може да бъде виждана от други.">
+<!ENTITY identity.description.customRoot "Mozilla не разпознава този издател на сертификати. Може да е добавен от вашата операционна система или от администратор.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Включване на защитата">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "В">
@@ -818,6 +828,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Не сте дали специфични права на този сайт.">
 <!ENTITY identity.permissionsReloadHint "За да бъдат приложени промените може да се наложи да презаредите страницата.">
 <!ENTITY identity.permissionsPreferences.tooltip "Отваряне настройките на права">
+<!ENTITY identity.contentBlockingPreferences.tooltip "Настройки за ограничаване на съдържание">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -834,6 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Вписване в &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "В">
 <!ENTITY syncSyncNowItem.label        "Синхронизиране">
+<!ENTITY syncSyncNowItemSyncing.label "Синхронизиране…">
 <!ENTITY syncSyncNowItem.accesskey    "С">
 <!ENTITY syncReAuthItem.label         "Повторно свързване със &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "С">
@@ -855,8 +867,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Проследявания">
 
 
+<!ENTITY contentBlocking.trackersView.label "Проследявания">
 
 <!ENTITY contentBlocking.cookies.label "Бисквитки">
+<!ENTITY contentBlocking.cookiesView.label "Бисквитки и данни на страници">
 
 <!ENTITY contentBlocking.cryptominers.label "Добиване на криптовалути">
 <!ENTITY contentBlocking.cryptominersView.label "Добиване на криптовалути">
@@ -879,6 +893,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.block6.label "Включване на ограничаването на страницата">
+<!ENTITY trackingProtection.block6.accesskey "в">
 <!ENTITY trackingProtection.reload2.label "Презареждане на страницата">
 <!ENTITY trackingProtection.reload2.accesskey "п">
 
@@ -903,6 +919,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateAvailable.panelUI.label "Изтегляне на обновяване на &brandShorterName;">
 <!ENTITY updateManual.panelUI.label "Изтегляне на ново копие на &brandShorterName;">
+<!ENTITY updateUnsupported.panelUI.label "Не може да извършвате повече обновявания">
 <!ENTITY updateRestart.panelUI.label2 "Рестарт за обновяване на &brandShorterName;">
 
 <!ENTITY newTabControlled.header.message "Новият раздел е променен">
