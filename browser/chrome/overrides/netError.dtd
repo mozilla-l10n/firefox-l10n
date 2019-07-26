@@ -112,6 +112,8 @@ was trying to connect. -->
 <!ENTITY certerror.introPara2 "&brandShortName; забеляза възможна заплаха за сигурността и не продължи към <span class='hostname'/>. Ако посетите страницата атакуващ може да опита да открадне информация като ваши пароли, електронни писма или данни за банкови карти.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; откри проблем и не продължи към <span class='hostname'/>. Сайтът е или неправилно настроен, или часовникът на вашия компютър е неверен.">
+<!ENTITY certerror.expiredCert.secondPara2 "Вероятно е сертификатът на страницата е изтекъл, което пречи на &brandShortName; да осъществи защитена връзка. Ако посетите страницата злонамерено лице може да опита да открадне от вас информация като пароли, имейли или данни за банкови карти.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Вероятно е сертификатът на страницата е изтекъл, което пречи на &brandShortName; да осъществи защитена връзка.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Какво да направите в тази ситуация?">
 
