@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 printpreview-simplify-page-checkbox =
-    .label = Simplificar a página
-    .accesskey = i
+    .label = Simplificar página
+    .accesskey = S
     .tooltiptext = Esta página não pode ser simplificada automaticamente
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
