@@ -19,6 +19,7 @@ onboarding-button-label-get-started = শুরু করুন
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = { -brand-short-name } এ স্বাগতম
+onboarding-welcome-body = ব্রাউজার ইন্সটল হয়েছে। <br/> { -brand-product-name } বাকি  অংশ দেখুন।
 onboarding-welcome-learn-more = সুবিধাগুলো সম্পর্কে আরও জানুন।
 onboarding-join-form-header = { -brand-product-name } এ যোগ দিন
 onboarding-join-form-body = শুরু করতে এখানে আপনার ইমেইল ঠিকানা দিন।
@@ -53,6 +54,7 @@ onboarding-sync-form-sub-header = { -sync-brand-name } অব্যাহত র
 
 onboarding-benefit-products-title = দরকারী পণ্য
 onboarding-benefit-knowledge-title = ব্যবহারিক জ্ঞান
+onboarding-benefit-knowledge-text = অনলাইনে স্মার্ট ও নিরাপদে থাকাতে আপনার যা জানা দরকার তা শিখুন।
 onboarding-benefit-privacy-title = সত্যিকারের গোপনীয়তা
 
 ## These strings belong to the individual onboarding messages.
@@ -91,6 +93,7 @@ onboarding-pocket-anywhere-title = যেকোন স্থানে পড়ু�
 onboarding-pocket-anywhere-button = { -pocket-brand-name } পরখ করুন
 onboarding-lockwise-passwords-title = আপনার পাসওয়ার্ড সবখানে নিন।
 onboarding-lockwise-passwords-button2 = অ্যাপটি ডাউনলোড করুন
+onboarding-facebook-container-title = Facebook মাধ্যমে সীমানা নির্ধারণ করুন
 onboarding-facebook-container-button = এক্সটেনশনটি যোগ করুন
 
 ## Message strings belonging to the Return to AMO flow
