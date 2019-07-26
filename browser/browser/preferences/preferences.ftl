@@ -284,8 +284,18 @@ update-enable-search-update =
 update-pref-write-failure-title = Грешка при запазване
 # Variables:
 #   $path (String) - Path to the configuration file
-update-pref-write-failure-message = Настройките не могат да бъдат запазени. Във файлът „{ $path }“ не може да бъде записвано.
+update-pref-write-failure-message = Настройките не могат да бъдат запазени. Във файлa „{ $path }“ не може да бъде записвано.
 update-setting-write-failure-title = Грешка при запазване на настройките за обновяване
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    Поради възникнала грешка { -brand-short-name } не запази промяната.
+    
+    Обърнете внимание, че задаването на тази настройка за обновяване изисква права за запис във файла по-долу. Вие или системен администратор може да успеете да разрешите проблема, като предоставите на групата потребители пълни права над този файл.¶
+    ¶
+    Във файлa „{ $path }“ не може да бъде записвано.
 update-in-progress-title = Обновяване е в процес на изпълнение
 update-in-progress-message = Желаете ли { -brand-short-name } да продължи с обновяването?
 update-in-progress-ok-button = &Отхвърляне
