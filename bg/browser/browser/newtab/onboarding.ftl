@@ -73,8 +73,10 @@ onboarding-ghostery-text = Разглеждайте по-бързо, по-удо
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Регистрирайте { -fxaccount-brand-name } и синхронизирайте отметки, пароли и отворени раздели навсякъде където използвате { -brand-short-name }.
+onboarding-tracking-protection-title2 = Защита от проследяване
 onboarding-tracking-protection-button2 = Как работи
 onboarding-firefox-monitor-button = Регистрирайте се за сигнали
+onboarding-browse-privately-title = Разглеждайте поверително
 onboarding-browse-privately-button = Отваряне на поверителен прозорец
 onboarding-firefox-send-button = Опитайте { -send-brand-name }
 onboarding-mobile-phone-title = Изтеглете { -brand-product-name } на телефона си
