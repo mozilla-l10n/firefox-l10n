@@ -225,6 +225,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Използване на хранилището за постоянни данни">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Четецът е под дистанционно управление">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Отваря панела за удостоверяване през Мрежата">
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Отваря панела за правата при разглеждане">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Управление споделянето на вашата камера и/или микрофон със сайта">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Управление споделянето на вашия микрофон със сайта">
@@ -866,8 +867,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Проследявания">
 
+<!ENTITY contentBlocking.manageSettings.label "Управление на ограничаване на съдържанието">
+<!ENTITY contentBlocking.manageSettings.accesskey "у">
 
 <!ENTITY contentBlocking.trackersView.label "Проследявания">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "За да ограничите всички проследявания използвайте ниво „Строго“.">
 
 <!ENTITY contentBlocking.cookies.label "Бисквитки">
 <!ENTITY contentBlocking.cookiesView.label "Бисквитки и данни на страници">
@@ -890,9 +894,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "Изключване на ограничаването на страницата">
+<!ENTITY trackingProtection.unblock5.accesskey "в">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "Временно включване на ограничаването">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "в">
 <!ENTITY trackingProtection.block6.label "Включване на ограничаването на страницата">
 <!ENTITY trackingProtection.block6.accesskey "в">
 <!ENTITY trackingProtection.reload2.label "Презареждане на страницата">
