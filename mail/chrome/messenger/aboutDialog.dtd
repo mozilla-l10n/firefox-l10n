@@ -41,7 +41,7 @@
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
 <!ENTITY helpus.donateLink          "Направете дарение">
 <!ENTITY helpus.middle              " или ">
-<!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to https://www.mozilla.org/contribute/. -->
+<!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to https://www.thunderbird.net/get-involved/. -->
 <!ENTITY helpus.getInvolvedLink     "се включете и вие!">
 <!ENTITY helpus.end                 "">
 
@@ -59,7 +59,7 @@
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Проверка за обновяване…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "Използвате последното издание на &brandShortName;">
+<!ENTITY update.noUpdatesFound      "Изданието е последното на &brandShortName;">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Обновяванията са изключени от вашия системен администратор">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
