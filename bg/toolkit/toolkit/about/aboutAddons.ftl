@@ -232,10 +232,33 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+manage-extensions-shortcuts =
+    .label = Управление на клавишните комбинации на разширението
+    .accesskey = к
+shortcuts-no-addons = Нямате включени разширения.
+shortcuts-no-commands = Следните разширения нямат клавишни комбинации:
 shortcuts-input =
     .placeholder = Изберете комбинация
+shortcuts-browserAction = Изпълняване на разширението
+shortcuts-pageAction = Изпълняване на действието със страницата
+shortcuts-sidebarAction = Превключване на страничната лента
+shortcuts-modifier-mac = Включване на Ctrl, Alt, или ⌘
+shortcuts-modifier-other = Включване на Ctrl или Alt
 shortcuts-invalid = Недействителна комбинация
 shortcuts-letter = Въведете буква
+shortcuts-system = Не може да презапишете клавишна комбинация на { -brand-short-name }
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Вече се използва от { $addon }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Показване на още { $numberToShow }
+       *[other] Показване на още { $numberToShow }
+    }
+shortcuts-card-collapse-button = По-малко
+go-back-button =
+    .tooltiptext = Назад
 
 ## Recommended add-ons page
 
@@ -246,21 +269,39 @@ discopane-intro =
     възможност за защита на пароли, изтегляне на видеоклипове,
     намиране на изгодни оферти, блокиране на досадни реклами, промяна
     изгледа на четеца и много други. Тези малки софтуерни приложения
-    често се разработвато от трети страни. Ето избраните, които { -brand-product-name }
+    често се разработвано от трети страни. Ето избраните, които { -brand-product-name }
     <a data-l10n-name="learn-more-trigger">препоръчва</a> за изключителна
     сигурност, производителност и функционалност.
 discopane-notice-learn-more = Научете повече
 privacy-policy = Политика за поверителност
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = от <a data-l10n-name="author">{ $author }</a>
 # Shows the number of daily users of the add-on.
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
 user-count = Потребители: { $dailyUsers }
+install-extension-button = Добавяне към { -brand-product-name }
+install-theme-button = Инсталиране на тема
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Управление
+find-more-addons = Повече добавки
 
 ## Add-on actions
 
+report-addon-button = Докладване
+remove-addon-button = Премахване
+disable-addon-button = Изключване
+enable-addon-button = Включване
+expand-addon-button = Повече настройки
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Настройки
+       *[other] Настройки
+    }
+details-addon-button = Подробности
 
 ## Pending uninstall message bar
 
