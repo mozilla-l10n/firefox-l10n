@@ -18,3 +18,4 @@ reader-view = Изглед за четене
 open-location = Търсене или въвеждане на адрес
 share = Споделяне
 close-window = Затваряне на прозореца
+open-sidebar = Странични ленти
