@@ -61,12 +61,16 @@ policy-InstallAddonsPermission = নির্দিষ্ট কিছু ওয
 policy-LocalFileLinks = নির্ধারিত ওয়েবসাইকে লোকাল ফাইলগুলোকে লিঙ্ক করার অনুমতি দিন।
 policy-NetworkPrediction = নেটওয়ার্ক পূর্বাভাস সক্রিয় অথবা নিষ্ক্রিয় করুন। (DNS prefetching)
 policy-NewTabPage = নতুন ট্যাব সক্রিয় বা নিষ্ক্রিয় করুন।
+policy-Permissions = ক্যামেরা, মাইক্রোফোন, লোকেশন এবং নোটিফিকেশনের জন্য অনুমতিগুলি কনফিগার করুন।
 policy-PopupBlocking = নির্দিষ্ট ওয়েবসাইটের ক্ষেত্রে ডিফল্টরূপে পপআপ প্রদর্শন করার অনুমতি দিন।
+policy-PromptForDownloadLocation = কোথায় ফাইল সংরক্ষণ করবে ডাউনলোডের সময় তা জিজ্ঞাসা কর।
 policy-Proxy = পক্সি সেটিং ঠিক করুন
 policy-SearchBar = অনুসন্ধান বারের ডিফল্ট অবস্থান সেট করুন। ব্যবহারকারী এখনও এটি কাস্টমাইজ করতে পারবেন।
+policy-SearchSuggestEnabled = অনুসন্ধান পরামর্শ সক্রিয় বা নিষ্ক্রিয় করুন।
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = PKCS #11 মডিউল ইনস্টল করুন।
 policy-SSLVersionMax = সর্বাধিক SSL সংস্করণ সেট করুন।
 policy-SSLVersionMin = সর্বনিম্ন SSL সংস্করণ সেট করুন।
+policy-SupportMenu = সহায়তা মেনুতে একটি কাস্টম সহায়তা মেনু যোগ করুন।
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = ওয়েবসাইট পরিদর্শন ব্লক করুন। ফরমেট সম্পর্কে বিস্তারিত জানতে ডকুমেন্টেশন দেখুন।

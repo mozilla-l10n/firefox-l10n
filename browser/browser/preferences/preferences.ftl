@@ -282,6 +282,8 @@ update-enable-search-update =
     .label = স্বয়ংক্রিয়ভাবে অনুসন্ধান ইঞ্জিন হালনাগাদ হবে
     .accesskey = e
 update-pref-write-failure-title = অকৃতকার্য লিখুন।
+update-in-progress-title = হালনাগাদের অগ্রগতি
+update-in-progress-message = আপনি কি { -brand-short-name } এই হালনাগাদে চালিয়ে যেতে চান?
 update-in-progress-ok-button = &বাতিল
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -774,6 +776,10 @@ permissions-block-autoplay-media2 =
 permissions-block-autoplay-media-exceptions =
     .label = ব্যতিক্রম…
     .accesskey = E
+permissions-autoplay = অটোপ্লে
+permissions-autoplay-settings =
+    .label = সেটিং...
+    .accesskey = t
 permissions-block-popups =
     .label = পপ-আপ উইন্ডো ব্লক করা হবে B
     .accesskey = B
