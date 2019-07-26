@@ -884,7 +884,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Докладване на проблем">
 <!ENTITY contentBlocking.breakageReportView.label "Докладване на проблем">
-<!ENTITY contentBlocking.breakageReportView2.description "Спирането на съдържание може да доведе до проблеми с някои страници. Докладвайки за тях помагате да направим &brandShortName; по-добър за всички. (Към Mozilla ще бъде изпратен адреса на страницата, а също и данни за настройките на четеца.)">
+<!ENTITY contentBlocking.breakageReportView2.description "Спирането на съдържание може да наруши работата на някои страници. Докладвайки за тях помагате да направим &brandShortName; по-добър за всички. (Към Mozilla ще бъде изпратен адреса на страницата, а също и данни за настройките на четеца.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Научете повече">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Адрес">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "С какъв проблем се сблъскахте? (по желание)">
