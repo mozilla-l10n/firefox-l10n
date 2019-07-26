@@ -14,7 +14,7 @@ loading-label =
 list-empty-installed =
     .value = Няма инсталирани добавки от този вид
 list-empty-available-updates =
-    .value = Не бяха намерени обновявания
+    .value = Не са открити обновявания
 list-empty-recent-updates =
     .value = Скоро не сте обновявали никоя добавка
 list-empty-find-updates =
@@ -92,8 +92,8 @@ detail-update-manual =
     .label = Изключено
     .tooltiptext = Без автоматично инсталиране на обновявания
 # Used as a description for the option to allow or block an add-on in private windows.
-detail-private-browsing-label = Работи в поверителни прозорци
-detail-private-browsing-description2 = Когато е позволено, разширението ще има достъп до дейностите ви, докато разглеждате поверително. <label data-l10n-name="detail-private-browsing-learn-more">Научете повече</label>
+detail-private-browsing-label = Работa в поверителни прозорци
+detail-private-browsing-description2 = Когато е разрешено, разширението ще има достъп до дейностите ви, докато разглеждате поверително. <label data-l10n-name="detail-private-browsing-learn-more">Научете повече</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Не позволено в поверителни прозорци
@@ -223,7 +223,7 @@ extensions-updates-downloaded =
 extensions-updates-restart =
     .label = Рестартирайте, за да завършите инсталацията сега
 extensions-updates-none-found =
-    .value = Не бяха намерени обновявания
+    .value = Не са открити обновявания
 extensions-updates-manual-updates-found =
     .label = Показване на наличните обновявания
 extensions-updates-update-selected =
@@ -302,6 +302,61 @@ preferences-addon-button =
        *[other] Настройки
     }
 details-addon-button = Подробности
+release-notes-addon-button = Бележки към изданието
+permissions-addon-button = Права
+addons-enabled-heading = Включено
+addons-disabled-heading = Изключено
+addon-detail-author-label = Автор
+addon-detail-version-label = Издание
+addon-detail-last-updated-label = Последно обновяване
+addon-detail-homepage-label = Страница
+addon-detail-rating-label = Оценка
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Оценено на { NUMBER($rating, maximumFractionDigits: 1) } от 5
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (изключено)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } отзив
+       *[other] { $numberOfReviews } отзива
+    }
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> е премахнато.
+pending-uninstall-undo-button = Отменяне
+addon-detail-updates-label = Автоматично обновяване
+addon-detail-updates-radio-default = Стандартно
+addon-detail-updates-radio-on = Включено
+addon-detail-updates-radio-off = Изключено
+addon-detail-update-check-label = Проверка за обновяване
+install-update-button = Обновяване
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Разрешено в поверителни прозорци
+addon-detail-private-browsing-help = Когато е разрешено, разширението ще има достъп до дейностите ви, докато разглеждате поверително. <a data-l10n-name="learn-more">Научете повече</a>
+addon-detail-private-browsing-allow = Разрешаване
+addon-detail-private-browsing-disallow = Забраняване
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Препоръчано
+    .alt = Препоръчано
+available-updates-heading = Налични обновявания
+recent-updates-heading = Последни обновявания
+release-notes-loading = Зареждане…
+release-notes-error = За съжаление, зареждането на бележките към изданието е неуспешно.
+addon-permissions-empty = Разширението не изисква никакви права
+recommended-extensions-heading = Препоръчани разширения
+recommended-themes-heading = Препоръчани теми

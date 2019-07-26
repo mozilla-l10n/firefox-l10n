@@ -23,10 +23,10 @@
 <!ENTITY cmd.showPreferencesUnix.label        "Настройки">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Сменяне на настройките на тази добавка">
 
-<!ENTITY cmd.showReleaseNotes.label           "Показване на бележките по изданието">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Показване на бележките по изданието на това обновяване">
-<!ENTITY cmd.hideReleaseNotes.label           "Скриване на бележките по изданието">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Скриване на бележките по изданието на това обновяване">
+<!ENTITY cmd.showReleaseNotes.label           "Показване на бележките към изданието">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Показване на бележките към изданието на обновяването">
+<!ENTITY cmd.hideReleaseNotes.label           "Скриване на бележките към изданието">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Скриване на бележките към изданието на обновяването">
 <!ENTITY cmd.findReplacement.label            "Намерете заместител">
 
 <!-- download/install progress -->
@@ -60,9 +60,9 @@
 <!ENTITY addon.includeUpdate.label            "Включване в обновяване">
 <!ENTITY addon.updateAvailable.label          "Налично е обновяване">
 <!ENTITY addon.checkingForUpdates.label       "Проверка за обновяване…">
-<!ENTITY addon.releaseNotes.label             "Бележки по изданието:">
+<!ENTITY addon.releaseNotes.label             "Бележки към изданието:">
 <!ENTITY addon.loadingReleaseNotes.label      "Зареждане…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "За съжаление, зареждането на бележките по изданието беше неуспешно.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "За съжаление, зареждането на бележките към изданието е неуспешно.">
 
 <!ENTITY addon.createdBy.label                "От ">
 
