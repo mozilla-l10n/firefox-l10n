@@ -285,6 +285,7 @@ update-pref-write-failure-title = Грешка при запазване
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Настройките не могат да бъдат запазени. Във файлът „{ $path }“ не може да бъде записвано.
+update-setting-write-failure-title = Грешка при запазване на настройките за обновяване
 update-in-progress-title = Обновяване е в процес на изпълнение
 update-in-progress-message = Желаете ли { -brand-short-name } да продължи с обновяването?
 update-in-progress-ok-button = &Отхвърляне
@@ -388,6 +389,7 @@ choose-bookmark =
 
 home-prefs-content-header = Начална страница на Firefox
 home-prefs-content-description = Изберете съдържанието, което искате да виждате на началната страница на Firefox.
+home-prefs-content-discovery-description = Откриването на съдържание от началната страница на Firefox ви позволява да откривате висококачествени и подходящи статии от мрежата.
 home-prefs-search-header =
     .label = Търсене в Мрежата
 home-prefs-topsites-header =
@@ -653,6 +655,7 @@ sitedata-learn-more = Научете повече
 sitedata-delete-on-close =
     .label = Изтриване на бисквитки и данни на страници при затваряне на { -brand-short-name }
     .accesskey = д
+sitedata-delete-on-close-private-browsing = В постоянен режим на поверително разглеждане бисквитките и данните на страници винаги ще бъдат изчиствани при затваряне на { -brand-short-name }.
 sitedata-allow-cookies-option =
     .label = Разрешаване на бисквитки и данни
     .accesskey = р
@@ -699,6 +702,7 @@ addressbar-suggestions-settings = Настройки на предложения
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Ограничаване на съдържание
+content-blocking-section-description = Защитете поверителността си, докато разглеждате. Ограничете невидимото съдържание, което следи страниците, които посещавате и ви профилира. Ограничаването на част от такова съдържание може да подобри зареждането на страниците.
 content-blocking-learn-more = Научете повече
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -711,6 +715,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = По избор
     .accesskey = и
+content-blocking-standard-desc = Баланс между защита и бързодействие. За да работят напълно страниците, разрешава някои проследявания.
 content-blocking-strict-description = Високото ниво на защита може да наруши работата на някои страници.
 content-blocking-custom-desc = Изберете какво да бъде ограничавано.
 content-blocking-private-trackers = Известните проследявания само в поверителни прозорци
@@ -721,7 +726,8 @@ content-blocking-all-windows-trackers = Проследявания във вси
 content-blocking-all-third-party-cookies = Всички странични бисквитки
 content-blocking-cryptominers = Добиване на криптовалути
 content-blocking-fingerprinters = Снемане на цифров отпечатък
-content-blocking-warning-title = Внимание!
+content-blocking-warning-title = Внимавайте!
+content-blocking-warning-description = Ограничаването на съдържание може да наруши работата на някои страници. Лесно е да го изключите за страниците, на които вярвате.
 content-blocking-learn-how = Научете как
 content-blocking-reload-description = За да бъдат приложени промените, разделите трябва да бъдат презаредени.
 content-blocking-reload-tabs-button =
