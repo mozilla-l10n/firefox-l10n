@@ -77,6 +77,9 @@ detail-version =
 detail-last-updated =
     .label = Последно обновяване
 detail-contributions-description = Разработчикът на добавката ви приканва да допринесете за бъдещото ѝ развитие, като направите скромно дарение.
+detail-contributions-button = Допринасяне
+    .title = Допринасяне към разработката на добавката
+    .accesskey = Д
 detail-update-type =
     .value = Автоматично обновяване
 detail-update-default =
@@ -90,6 +93,14 @@ detail-update-manual =
     .tooltiptext = Без автоматично инсталиране на обновявания
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Работи в поверителни прозорци
+detail-private-browsing-description2 = Когато е позволено, разширението ще има достъп до дейностите ви, докато разглеждате поверително. <label data-l10n-name="detail-private-browsing-learn-more">Научете повече</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overridden by the user.
+detail-private-disallowed-label = Не позволено в поверителни прозорци
+detail-private-disallowed-description = Разширението не работи докато разглеждате поверително. <label data-l10n-name="detail-private-browsing-learn-more">Научете повече</label>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Изисква достъп до поверителни прозорци
+detail-private-required-description = Разширението има достъп до дейностите ви, докато разглеждате поверително. <label data-l10n-name="detail-private-browsing-learn-more">Научете повече</label>
 detail-private-browsing-on =
     .label = Разрешаване
     .tooltiptext = Включване при поверително разглеждане

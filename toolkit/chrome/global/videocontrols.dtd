@@ -16,6 +16,7 @@
 
 <!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
+<!ENTITY pictureInPicture.label "Картина в картината">
 
 <!ENTITY stats.media "Медия">
 <!ENTITY stats.size "Размер">
@@ -37,6 +38,7 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY error.noSource2 "Не е намерен поддържан видео формат и вид MIME.">
 <!ENTITY error.generic "Възпроизвеждането на видео прекъсна поради неизвестна грешка.">
 
+<!ENTITY status.pictureInPicture "Видеоклипът се възпроизвежда в режим картина в картината.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

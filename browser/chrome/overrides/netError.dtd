@@ -109,10 +109,11 @@
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara2 "&brandShortName; забеляза възможна заплаха за сигурността и не продължи към <span class='hostname'/>. Ако посетите страницата атакуващ може да опита да открадне информация като ваши пароли, електронни писма или данни за банкови карти.">
+<!ENTITY certerror.introPara2 "&brandShortName; забеляза възможна заплаха за сигурността и не продължи към <span class='hostname'/>. Ако посетите страницата злонамерено лице може да опита да открадне от вас информация като пароли, електронни писма или данни за банкови карти.">
+<!ENTITY certerror.sts.introPara "&brandShortName; забеляза възможна заплаха за сигурността и не продължи към <span class='hostname'/>, защото страницата изисква защитена връзка.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; откри проблем и не продължи към <span class='hostname'/>. Сайтът е или неправилно настроен, или часовникът на вашия компютър е неверен.">
-<!ENTITY certerror.expiredCert.secondPara2 "Вероятно е сертификатът на страницата е изтекъл, което пречи на &brandShortName; да осъществи защитена връзка. Ако посетите страницата злонамерено лице може да опита да открадне от вас информация като пароли, имейли или данни за банкови карти.">
+<!ENTITY certerror.expiredCert.secondPara2 "Вероятно е сертификатът на страницата е изтекъл, което пречи на &brandShortName; да осъществи защитена връзка. Ако посетите страницата злонамерено лице може да опита да открадне от вас информация като пароли, електронни писма или данни за банкови карти.">
 <!ENTITY certerror.expiredCert.sts.secondPara "Вероятно е сертификатът на страницата е изтекъл, което пречи на &brandShortName; да осъществи защитена връзка.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Какво да направите в тази ситуация?">
@@ -162,6 +163,8 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Забранена страница">
 
+<!ENTITY certerror.mitm.title "Софтуер пречи на &brandShortName; да осъществи защитена връзка към страницата">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> най-вероятно е безопасен сайт, но не може да бъде установена защитена връзка. Проблемът е причинен от <span class='mitm-name'/>, което софтуер на вашия компютър или вашата мрежа.">
 
 <!ENTITY clockSkewError.title "Часовникът на компютъра е неверен">
 <!ENTITY clockSkewError.longDesc "Часовникът на компютъра показва <span id='wrongSystemTime_systemDate1'/> което пречи на &brandShortName; да осъществи защитена връзка. Сверете датата, часа и часовия пояс на компютъра в системните настройки, за да посетите <span class='hostname'/>. След това презаредете страницата на <span class='hostname'/>.">
