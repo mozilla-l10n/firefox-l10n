@@ -26,6 +26,7 @@ onboarding-join-form-body = За начало въведете адреса на
 onboarding-join-form-email =
     .placeholder = Въведете електронен адрес
 onboarding-join-form-email-error = Необходим е валиден адрес на ел. поща
+onboarding-join-form-legal = Продължавайки, вие се съгласявате с <a data-l10n-name="terms">условията на услугата</a> и <a data-l10n-name="privacy">политиката за лични данни</a>.
 onboarding-join-form-continue = Продължаване
 onboarding-start-browsing-button-label = Започнете да разглеждате
 onboarding-cards-dismiss =
@@ -53,6 +54,7 @@ onboarding-sync-form-sub-header = за да продължите към { -sync-
 ## description.
 
 onboarding-benefit-products-title = Полезни продукти
+onboarding-benefit-knowledge-title = Практически знания
 onboarding-benefit-privacy-title = Истинска поверителност
 
 ## These strings belong to the individual onboarding messages.
@@ -75,6 +77,8 @@ onboarding-fxa-title = Sync
 onboarding-fxa-text = Регистрирайте { -fxaccount-brand-name } и синхронизирайте отметки, пароли и отворени раздели навсякъде където използвате { -brand-short-name }.
 onboarding-tracking-protection-title2 = Защита от проследяване
 onboarding-tracking-protection-button2 = Как работи
+onboarding-data-sync-title = Вземете своите настройки със себе си
+onboarding-data-sync-button2 = Вписване в { -sync-brand-short-name }
 onboarding-firefox-monitor-button = Регистрирайте се за сигнали
 onboarding-browse-privately-title = Разглеждайте поверително
 onboarding-browse-privately-button = Отваряне на поверителен прозорец
