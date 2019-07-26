@@ -69,7 +69,6 @@
 <!ENTITY  sending_crash_report "Raporto pri paneo sendata\u2026">
 <!ENTITY  crash_close_label "Fermi">
 <!ENTITY  crash_restart_label "Restartigi &brandShortName;">
-
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; paneis">
@@ -117,7 +116,6 @@
 <!ENTITY bookmark_folder_updated "Dosierujo ĝisdatigita">
 <!ENTITY bookmark_parent_folder "Gepatra dosierujo">
 <!ENTITY bookmark_add_folder "Aldoni novan dosierujon">
-
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
 <!ENTITY bookmark_default_folder_title "(sen titolo)">
@@ -280,6 +278,7 @@
 <!ENTITY pref_cookies_menu "Kuketoj">
 <!ENTITY pref_cookies_accept_all "Aktiva">
 <!ENTITY pref_cookies_not_accept_foreign "Aktivaj, krom la nerektaj">
+<!ENTITY pref_cookies_not_accept_trackers "Aktivaj, krom la spurilaj kuketoj">
 <!ENTITY pref_cookies_disabled "Malaktiva">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -340,11 +339,6 @@
 
 <!ENTITY pref_pwa "Poiomaj teksaĵaj programoj">
 <!ENTITY pref_pwa_summary "Permesi ke teksaĵaj programoj estu aldonitaj al la hejmekrano">
-
-<!ENTITY tracking_protection_prompt_title "Nun kun protekto kontraŭ spurado">
-<!ENTITY tracking_protection_prompt_text "Aktive bloki spurajn elementojn, tiel ke vi de bezonos zorgi.">
-<!ENTITY tracking_protection_prompt_tip_text "Vizitu la agordojn de privateco por havi pli da informo">
-<!ENTITY tracking_protection_prompt_action_button "Mi komprenis!">
 
 <!ENTITY tab_queue_toast_message3 "Langeto konservita en &brandShortName;">
 <!ENTITY tab_queue_toast_action "Malfermi nun">
@@ -431,7 +425,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Tuŝetu la programon Retumilo kaj elektu &brandShortName;">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Vizitu la helpan paĝon de Mozilla">
 <!ENTITY pref_about_firefox "Pri &brandShortName;">
 <!ENTITY pref_vendor_faqs "Oftaj demandoj">
 <!ENTITY pref_vendor_feedback "Sendi komentojn">
@@ -692,7 +685,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Elekti aŭ registri sonon">
 <!ENTITY filepicker_image_title "Elekti aŭ preni foton">
 <!ENTITY filepicker_video_title "Elekti aŭ registri filmeton">
-
 <!ENTITY filepicker_permission_denied "Postulataj permesoj ne ricevitaj, reiro al la sistema dosieresplorilo.">
 
 <!-- Site identity popup -->
