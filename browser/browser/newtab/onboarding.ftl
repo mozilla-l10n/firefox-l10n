@@ -55,6 +55,7 @@ onboarding-sync-form-sub-header = за да продължите към { -sync-
 
 onboarding-benefit-products-title = Полезни продукти
 onboarding-benefit-knowledge-title = Практически знания
+onboarding-benefit-knowledge-text = Научете всичко, което трябва да знаете, за да сте в безопасност онлайн.
 onboarding-benefit-privacy-title = Истинска поверителност
 
 ## These strings belong to the individual onboarding messages.
@@ -78,15 +79,23 @@ onboarding-fxa-text = Регистрирайте { -fxaccount-brand-name } и с
 onboarding-tracking-protection-title2 = Защита от проследяване
 onboarding-tracking-protection-button2 = Как работи
 onboarding-data-sync-title = Вземете своите настройки със себе си
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Синхронизирайте своите отметки, пароли и други навсякъде, където използвате { -brand-product-name }.
 onboarding-data-sync-button2 = Вписване в { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Бъдете уведомени при пробив на данни
 onboarding-firefox-monitor-button = Регистрирайте се за сигнали
 onboarding-browse-privately-title = Разглеждайте поверително
 onboarding-browse-privately-button = Отваряне на поверителен прозорец
+onboarding-firefox-send-title = Дръжте споделените си файлове лични
+onboarding-firefox-send-text2 = Качете файловете си в { -send-brand-name }, за да ги споделите с шифроване от край до край и препратка, която изтича автоматично.
 onboarding-firefox-send-button = Опитайте { -send-brand-name }
 onboarding-mobile-phone-title = Изтеглете { -brand-product-name } на телефона си
+onboarding-mobile-phone-text = Изтеглете { -brand-product-name } за iOS или Android и синхронизирайте данни между устройствата си.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Изтеглете мобилен четец
+onboarding-send-tabs-title = Незабавно си изпращайте раздели
+onboarding-pocket-anywhere-title = Четете и слушайте навсякъде
 onboarding-pocket-anywhere-button = Опитайте { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Вземете паролите си навсякъде
 onboarding-lockwise-passwords-button2 = Вземете приложението
