@@ -38,6 +38,9 @@
 <!ENTITY  noproxy.label                 "Без прокси за:">
 <!ENTITY  noproxy.accesskey             "Б">
 <!ENTITY  noproxyExplain.label          "Например: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
+  localhost, 127.0.0.1 and ::1.
+-->
 <!ENTITY  shareproxy.label              "Използване на този мрежов посредник за всички протоколи">
 <!ENTITY  shareproxy.accesskey          "с">
 <!ENTITY  autologinproxy.label          "Да не се пита за удостоверяване, ако паролата е запазена">
@@ -47,6 +50,4 @@
 <!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  dnsOverHttps.label            "Разрешаване на DNS през HTTPS">
 <!ENTITY  dnsOverHttps.accesskey        "р">
-<!ENTITY  dnsOverHttpsUrl.label         "Адрес">
-<!ENTITY  dnsOverHttpsUrl.accesskey     "а">
-<!ENTITY  dnsOverHttpsUrl.tooltip       "Адрес за запитване на DNS през HTTPS">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Използва стандартния адрес за запитвания на DNS през HTTPS">
