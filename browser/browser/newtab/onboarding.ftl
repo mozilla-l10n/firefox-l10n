@@ -48,7 +48,7 @@ onboarding-sync-form-skip-login-button = Pretersalti tiun ĉi paŝon
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = Tajpu vian retpoŝtan adreson
-onboarding-sync-form-sub-header = por pluiri al Spegulado de Firefox.
+onboarding-sync-form-sub-header = por pluiri al { -sync-brand-name }
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
