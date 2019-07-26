@@ -10,6 +10,7 @@
 <!ENTITY firstrun_panel_title_privacy "Поверителност">
 <!ENTITY firstrun_privacy_message "Разглеждайте без да ви следят">
 <!ENTITY firstrun_privacy_subtext "Поверителното разглеждане със защитата от проследяване спира следенето докато разглеждате и няма да помни историята, когато приключите.">
+<!ENTITY newfirstrun_privacy_subtext "При поверително разглеждане проследяването от реклами е възпрепятствано.">
 <!ENTITY firstrun_panel_title_customize "Персонализиране">
 <!ENTITY firstrun_customize_message "Направете &brandShortName; свой.">
 <!ENTITY firstrun_customize_subtext "Настройте &brandShortName; с помощта на добавки. Спрете рекламите, добавете възможности или изберете нова тема, която да подчертава вашата индивидуалност.">
