@@ -44,6 +44,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } taga-gamit
        *[other] { $total } mga taga-gamit
     }
+cfr-doorhanger-pintab-description = I-access ang mga pinakaginagamit mong site sa pinakamadaling paraan. Panatilihing bukas ang mga site sa isang tab (kahit magrestart ka pa).
 
 ## These messages are steps on how to use the feature and are shown together.
 
