@@ -29,11 +29,12 @@
 
 <!ENTITY fillLoginMenu.label          "Pakipunan ang Login">
 <!ENTITY fillLoginMenu.accesskey      "F">
+<!ENTITY fillSuggestedPassword.label  "Gumamit ng Namungkahing Password">
 <!ENTITY fillSuggestedPassword.accesskey "S">
 <!ENTITY fillGeneratedPassword.accesskey "S">
-<!ENTITY fillPasswordMenu.label       "Pakipunan ang patlang na ito.">
-<!ENTITY fillPasswordMenu.accesskey   "P">
-<!ENTITY fillUsernameMenu.label       "Pakipunan ang Username">
+<!ENTITY fillPasswordMenu.label       "Maglagay ng Password">
+<!ENTITY fillPasswordMenu.accesskey   "F">
+<!ENTITY fillUsernameMenu.label       "Maglagay ng Username">
 <!ENTITY fillUsernameMenu.accesskey   "F">
 <!ENTITY noLoginSuggestions.label     "(Walang Iminumungkahing Login)">
 <!ENTITY viewSavedLogins.label        "Tignan ang Naka-save na Logins">

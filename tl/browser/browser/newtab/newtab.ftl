@@ -145,6 +145,8 @@ newtab-empty-section-topstories = Nakahabol ka na. Bumalik sa ibang pagkakataon 
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = Nakapaghabol ka na!
+newtab-discovery-empty-section-topstories-content = Tingnan mo uli mamaya baka sakaling may bago.
 newtab-discovery-empty-section-topstories-try-again-button = Subukan mo uli
 newtab-discovery-empty-section-topstories-loading = Nagloload...
 # Displays when a layout in a section took too long to fetch articles.
