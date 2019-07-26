@@ -57,6 +57,12 @@ onboarding-benefit-products-title = Полезни продукти
 onboarding-benefit-knowledge-title = Практически знания
 onboarding-benefit-knowledge-text = Научете всичко, което трябва да знаете, за да сте в безопасност онлайн.
 onboarding-benefit-privacy-title = Истинска поверителност
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Всичко, което правим зачита нашето обещание за личните данни: Взимаме по-малко, Пазим го зорко. Без тайни.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -95,10 +101,13 @@ onboarding-mobile-phone-text = Изтеглете { -brand-product-name } за i
 # browser.
 onboarding-mobile-phone-button = Изтеглете мобилен четец
 onboarding-send-tabs-title = Незабавно си изпращайте раздели
+onboarding-send-tabs-button = Започнете да изпращате раздели
 onboarding-pocket-anywhere-title = Четете и слушайте навсякъде
 onboarding-pocket-anywhere-button = Опитайте { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Вземете паролите си навсякъде
 onboarding-lockwise-passwords-button2 = Вземете приложението
+onboarding-facebook-container-title = Сложете ограда на Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } държи профила ви отделен от всичко останало, което затруднява Facebook да ви показва целеви реклами.
 onboarding-facebook-container-button = Добавете разширението
 
 ## Message strings belonging to the Return to AMO flow
