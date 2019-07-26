@@ -12,6 +12,7 @@ heading = Промени в профила на { -brand-short-name }
 changed-title = Какви са промените?
 options-title = Какви възможностите имам?
 resources = Ресурси:
+sync-header = Впишете се или създайте { -fxaccount-brand-name }
 sync-label = Въведете вашата ел. поща
 sync-input =
     .placeholder = Електронна поща

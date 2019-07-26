@@ -6,6 +6,7 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } използва невалиден сертификат.
 cert-error-mitm-intro = Страниците потвърждават самоличността си чрез сертификати, издавани от сертифициращи органи.
+cert-error-mitm-mozilla = { -brand-short-name } е подкрепен от Mozilla - организация с нестопанска цел, която управлява изцяло отворено хранилище за администратори на сертификати (CA). Хранилището на СА дава допълнителни гаранции, че сертифициращите органи следват най-добрите практики за защита на потребителите.
 cert-error-trust-unknown-issuer-intro = Някой може би се опитва да подмени истинската страница и по-добре да не продължавате.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.

@@ -64,3 +64,6 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## What's New toolbar button and panel
 
+cfr-whatsnew-button =
+    .label = Какво е новото
+    .tooltiptext = Новото в това издание
