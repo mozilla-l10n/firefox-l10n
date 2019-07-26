@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Αναίρεση
 customize-mode-lwthemes-my-themes =
     .value = Τα θέματά μου
+customize-mode-touchbar-cmd =
+    .label = Προσαρμογή γραμμής αφής…

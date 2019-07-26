@@ -145,8 +145,12 @@ newtab-empty-section-topstories = Δεν υπάρχει κάτι νεότερο.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = Τελειώσατε!
+newtab-discovery-empty-section-topstories-content = Ελέγξτε ξανά αργότερα για περισσότερες ιστορίες.
 newtab-discovery-empty-section-topstories-try-again-button = Δοκιμάστε ξανά
 newtab-discovery-empty-section-topstories-loading = Φόρτωση…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Ωχ! Αυτή η ενότητα σχεδόν φορτώθηκε, αλλά όχι πλήρως.
 
 ## Pocket Content Section.
 
