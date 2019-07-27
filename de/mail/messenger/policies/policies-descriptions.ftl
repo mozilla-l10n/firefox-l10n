@@ -31,6 +31,8 @@ policy-Cookies = Cookies setzen durch Websites erlauben oder verbieten
 
 policy-DefaultDownloadDirectory = Standardordner für Downloads festlegen
 
+policy-DisableAppUpdate = Updates von { -brand-short-name } deaktivieren
+
 policy-DisableDeveloperTools = Zugriff auf Entwicklerwerkzeuge deaktivieren
 
 policy-DisableFeedbackCommands = Feedback senden über "Hilfe"-Menü deaktivieren ("Feedback senden…" und "Betrügerische Website melden…")
@@ -78,6 +80,8 @@ policy-NetworkPrediction = Spekulative DNS-Abfragen für noch nicht angeforderte
 policy-OfferToSaveLogins = Frage zum Speichern von Zugangsdaten durch { -brand-short-name } anzeigen. Die Werte true und false werden akzeptiert.
 
 policy-OverrideFirstRunPage = Einmalig geöffnete Einführungsseite beim Starten eines neuen Profils festlegen. Ein leerer Wert deaktiviert das Öffnen der Seite.
+
+policy-OverridePostUpdatePage = Nach einem Update angezeigte Seite mit Neuigkeiten ersetzen. Ein leerer Wert deaktiviert das Öffnen der Seite.
 
 policy-Preferences = Werte von bestimmten Einstellungen festlegen und Änderungen daran verhindern
 
