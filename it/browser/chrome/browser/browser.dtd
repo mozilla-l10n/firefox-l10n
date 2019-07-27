@@ -568,6 +568,37 @@
 <!ENTITY identity.permissionsEmpty "Nessun permesso speciale associato a questo sito.">
 <!ENTITY identity.permissionsReloadHint "Potrebbe essere necessario ricaricare la pagina per rendere effettive le modifiche.">
 <!ENTITY identity.permissionsPreferences.tooltip "Apri preferenze per i permessi">
+<!ENTITY protections.etpON.header "La protezione antitracciamento avanzata è ATTIVA per questo sito.">
+<!ENTITY protections.etpOFF.header "La protezione antitracciamento avanzata è DISATTIVATA per questo sito">
+<!ENTITY protections.settings.label "Impostazioni protezione">
+<!ENTITY protections.report.label "Visualizza il rapporto completo">
+<!ENTITY protections.siteNotWorking.label "Sito non funzionante?">
+<!ENTITY protections.siteNotWorkingView.title "Sito non funzionante?">
+<!ENTITY protections.siteNotWorkingView.header "Disattivare le protezioni se si riscontrano problemi con:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Campi di accesso">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Moduli">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Pagamenti">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Commenti">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Video">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Il sito non funziona nonostante le protezioni siano state disattivate?">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Invia una segnalazione">
+<!ENTITY protections.blocking.label "Bloccati">
+<!ENTITY protections.notBlocking.label "Non bloccati">
+<!ENTITY protections.notBlocking.why.label "Perché?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Il blocco di questi elementi potrebbe causare il parziale malfunzionamento di alcuni siti web. Senza elementi traccianti, alcuni pulsanti, moduli e campi di accesso non funzionano correttamente.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Disattivando le protezioni verranno consentiti tutti gli elementi traccianti su questo sito. Questa operazione potrebbe anche migliorare il funzionamento di alcune parti del sito web.">
+<!ENTITY protections.socialMediaTrackers.label "Traccianti social media">
+<!ENTITY protections.crossSiteTrackingCookies.label "Cookie traccianti intersito">
+<!ENTITY protections.trackingContent.label "Contenuti traccianti">
+<!ENTITY protections.fingerprinters.label "Fingerprinter">
+<!ENTITY protections.cryptominers.label "Cryptominer">
+<!ENTITY protections.noTrackersFound.description "Nessun elemento tracciante noto a &brandShortName; è stato rilevato in questa pagina.">
+<!ENTITY protections.crossSiteTrackingCookies.description "Questi cookie ti seguono da un sito all’altro per raccogliere informazioni su ciò che fai online. Sono impostati da elementi di terze parti come agenzie pubblicitarie e di analisi dati.">
+<!ENTITY protections.cryptominers.description "I cryptominer utilizzano le risorse del sistema per effettuare il “mining” di valute digitali. Questi script consumano la batteria, rallentano il computer e possono aumentare il costo della bolletta elettrica.">
+<!ENTITY protections.fingerprinters.description "I fingerprinter raccolgono informazioni sulle impostazioni del browser e del computer per creare un tuo profilo. Utilizzando questa “impronta digitale” sono in grado di tracciarti attraverso siti diversi.">
+<!ENTITY protections.trackingContent.description "I siti web possono caricare pubblicità, video e altri contenuti da fonti esterne che includono elementi traccianti. Il blocco degli elementi traccianti può velocizzare il caricamento dei siti, ma può causare il malfunzionamento di pulsanti, moduli e campi di accesso.">
+<!ENTITY protections.socialMediaTrackers.description "I social network impostano elementi traccianti in altri siti per scoprire cosa fai, leggi e guardi quando sei online. Questo permette ai social network di raccogliere molte più informazioni rispetto a quello che condividi nei tuoi profili online.">
+<!ENTITY protections.manageProtectionSettings.label "Gestisci le impostazioni di protezione">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Apri preferenze per il blocco contenuti">
 <!ENTITY tabsToolbar.label "Schede del browser">
 <!ENTITY syncTabsMenu3.label "Schede sincronizzate">
@@ -606,8 +637,12 @@
 <!ENTITY contentBlocking.breakageReportView.label "Segnalazione problema">
 <!ENTITY contentBlocking.breakageReportView2.description "Il blocco contenuti può causare problemi in alcuni siti. Segnalando eventuali anomalie contribuisci a migliorare &brandShortName; per tutti gli utenti. Questa operazione invierà l’indirizzo (URL) a Mozilla, insieme a informazioni relative alle attuali impostazioni del browser.">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Ulteriori informazioni">
+<!ENTITY contentBlocking.breakageReportView.title "Segnala problemi con il sito">
+<!ENTITY contentBlocking.breakageReportView3.description "Il blocco di determinati elementi traccianti può creare problemi in alcuni siti web. Segnalando questi problemi contribuisci a migliorare &brandShortName; per tutti gli utenti. Questa segnalazione verrà inviata a Mozilla e include l’indirizzo del sito e informazioni sulle impostazioni del browser.">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Ulteriori informazioni">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Indirizzo">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Che tipo di problema si verifica? (facoltativo)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Facoltativo: descrivi il problema">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Invia segnalazione">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Annulla">
 <!ENTITY trackingProtection.unblock5.label "Disattiva blocco per questo sito">
