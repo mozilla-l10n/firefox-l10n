@@ -31,7 +31,7 @@
 <!ENTITY fillLoginMenu.accesskey      "V">
 <!ENTITY fillSuggestedPassword.label  "Použít vygenerované heslo">
 <!ENTITY fillSuggestedPassword.accesskey "g">
-<!ENTITY fillGeneratedPassword.label  "Použít bezpečné vygenerované heslo">
+<!ENTITY fillGeneratedPassword.label  "Vygenerovat bezpečné heslo">
 <!ENTITY fillGeneratedPassword.accesskey "g">
 <!ENTITY fillPasswordMenu.label       "Vyplnit heslo">
 <!ENTITY fillPasswordMenu.accesskey   "V">
