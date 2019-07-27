@@ -34,5 +34,7 @@ abuse-report-messagebar-action-cancel = বাতিল কৰক
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-example = উদাহৰণ: মেলৱেৰ ভৰাইছে বা ডাটা চুৰ কৰিছে
+abuse-report-damage-reason = মোৰ কম্পিউটাৰ আৰু ডাটাক ক্ষতিগ্ৰস্ত কৰে
+abuse-report-damage-example = উদাহৰণ: মেলৱেৰ সুমুৱাইছে বা ডাটা চুৰ কৰিছে
+abuse-report-spam-reason = স্পাম বা বিজ্ঞাপন সৃষ্টি কৰে
 abuse-report-spam-example = উদাহৰণ: ৱেবপৃষ্ঠাবোৰত বিজ্ঞাপন ভৰাই
