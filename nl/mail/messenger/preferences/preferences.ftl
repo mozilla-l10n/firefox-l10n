@@ -9,7 +9,7 @@ category-general =
 
 general-language-and-appearance-header = Taal & Vormgeving
 
-general-incoming-mail-header = Inkomende e-mail
+general-incoming-mail-header = Inkomende berichten
 
 general-files-and-attachment-header = Bestanden & Bijlagen
 
