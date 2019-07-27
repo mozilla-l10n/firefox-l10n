@@ -82,6 +82,13 @@ media-output-devices-title = আউটপুট ডিভাইচবোৰ
 media-input-devices-title = ইনপুট ডিভাইচবোৰ
 media-device-name = নাম
 media-device-group = গোট
+media-device-vendor = বিক্রেতা
+media-device-state = অৱস্থা
+media-device-channels = চেনেল
+media-device-rate = হাৰ
+media-device-latency = বিলম্বতা
+intl-app-title = এপ্লিকেশ্যন ছেটিংছ
+intl-locales-requested = অনুৰোধ কৰা ভাষাবোৰ
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -136,6 +143,11 @@ clear-type-parameters = ClearType প্ৰাচলসমূহ
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = পোৱা গ'ল
+missing = হেৰাই আছে
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
+gpu-description = বৰ্ণনা
 gpu-vendor-id = বিক্ৰেতা ID
 gpu-device-id = ডিভাইচ ID
 gpu-subsys-id = Subsys ID
@@ -176,3 +188,6 @@ apz-none = এটাও নহয়
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = নিষ্ক্ৰিয়
+policies-active = সক্ৰিয়
+policies-error = ত্ৰুটি
