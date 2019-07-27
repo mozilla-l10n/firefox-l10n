@@ -4,4 +4,7 @@
 
 privatebrowsingpage-open-private-window-label = এটা ব্যক্তিগত উইন্ডো খোলক
     .accesskey = P
-about-private-browsing-not-private = আপুনি বৰ্তমানে এটা ব্যক্তিগত উইন্ডোত নাই।
+tracking-protection-start-tour = চাওক ই কেনেকৈ কাম কৰে
+about-private-browsing =
+    .title = ৱেবত সন্ধান কৰক
+about-private-browsing-not-private = আপুনি বৰ্তমান ব্যক্তিগত উইণ্ড'ত নাই।
