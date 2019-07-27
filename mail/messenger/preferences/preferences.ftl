@@ -2,6 +2,61 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+pane-general-title = Algemeen
+category-general =
+    .tooltiptext = { pane-general-title }
+
+general-language-and-appearance-header = Taal & Vormgeving
+
+general-incoming-mail-header = Inkomende e-mail
+
+general-files-and-attachment-header = Bestanden & Bijlagen
+
+general-tags-header = Labels
+
+general-reading-and-display-header = Lezen & Weergave
+
+general-updates-header = Updates
+
+general-network-and-diskspace-header = Netwerk & Schijfruimte
+
+general-indexing-label = Indexering
+
+composition-category-header = Compositie
+
+composition-attachments-header = Bijlagen
+
+composition-spelling-title = Spelling
+
+compose-html-style-title = HTML-stijl
+
+composition-addressing-header = Addressering
+
+privacy-main-header = Privacy
+
+privacy-passwords-header = Wachtwoorden
+
+privacy-junk-header = Ongewenste berichten
+
+privacy-data-collection-header = Gegevensverzameling en -gebruik
+
+privacy-security-header = Beveiliging
+
+privacy-scam-detection-title = Scamdetectie
+
+privacy-anti-virus-title = Antivirus
+
+privacy-certificates-title = Certificaten
+
+chat-pane-header = Chat
+
+chat-status-title = Status
+
+chat-notifications-title = Notificaties
+
+chat-pane-styling-header = Vormgeving
+
 choose-messenger-language-description = Kies de talen die worden gebruikt voor het weergeven van menu’s, berichten en notificaties van { -brand-short-name }.
 manage-messenger-languages-button =
   .label = Alternatieven instellen…
