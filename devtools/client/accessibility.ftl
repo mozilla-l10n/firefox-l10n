@@ -31,6 +31,7 @@ accessibility-text-label-issue-frame = Les éléments <code>frame</code> doivent
 accessibility-text-label-issue-glyph = Utilisez l’attribut <code>alt</code> pour étiqueter les éléments <span>mglyph</span>. <a>En savoir plus</a>
 accessibility-text-label-issue-heading = Les titres doivent être étiquetés. <a>En savoir plus</a>
 accessibility-text-label-issue-heading-content = Les titres doivent avoir un contenu textuel visible. <a>En savoir plus</a>
+accessibility-text-label-issue-iframe = Utilisez l’attribut <code>title</code> pour décrire le contenu d’un <span>iframe</span>. <a>En savoir plus</a>
 accessibility-text-label-issue-image = Le contenu avec des images doit être étiqueté. <a>En savoir plus</a>
 accessibility-text-label-issue-interactive = Les éléments interactifs doivent être étiquetés. <a>En savoir plus</a>
 accessibility-text-label-issue-optgroup-label = Utilisez l’attribut <code>label</code> pour étiqueter les éléments <span>optgroup</span>. <a>En savoir plus</a>
