@@ -12,6 +12,8 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "k">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Standardklang verwenden">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "s">
+<!ENTITY pref.calendar.alarms.sound.useCustom.label "Audiodatei verwenden:">
+<!ENTITY pref.calendar.alarms.sound.useCustom.accessKey "v">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Durchsuchen…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "D">
 <!ENTITY pref.calendar.alarms.sound.play.label "Abspielen">
