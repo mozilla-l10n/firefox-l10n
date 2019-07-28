@@ -343,6 +343,7 @@ addon-badge-recommended =
 available-updates-heading = การอัปเดตที่มี
 recent-updates-heading = การอัปเดตล่าสุด
 release-notes-loading = กำลังโหลด…
+release-notes-error = ขออภัย แต่เกิดข้อผิดพลาดในการโหลดบันทึกประจำรุ่น
 addon-permissions-empty = ส่วนขยายนี้ไม่ต้องการการอนุญาตใด ๆ
 recommended-extensions-heading = ส่วนขยายที่แนะนำ
 recommended-themes-heading = ชุดตกแต่งที่แนะนำ
