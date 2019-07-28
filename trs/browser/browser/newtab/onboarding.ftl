@@ -27,6 +27,7 @@ onboarding-join-form-email =
     .placeholder = Gachrun si korreôt
 onboarding-join-form-email-error = 'Ngo korreô ni'ñanj an gachrunt
 onboarding-join-form-legal = Si gan'anjt ne' ñaan, ni arâj yinat <a data-l10n-name="terms"> Dàj hua serbîsio</a> ni <a data-l10n-name="privacy">Nuguan' huaa</a>.
+onboarding-join-form-continue = Gun' ne' ñaan
 onboarding-start-browsing-button-label = Gayi'i gache nunt
 onboarding-cards-dismiss =
     .title = Si gui'iaj guendo'
@@ -52,6 +53,17 @@ onboarding-sync-form-sub-header = da' gatut riña { -sync-brand-name }
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = Nej rasuun Ni'ñanj an
+onboarding-benefit-products-text = Garasun 'ngo yi'nïn rasun nikaj ni'ñanj ngà sa huì 'iát riña nej si agâ't.
+onboarding-benefit-knowledge-title = Rasun ngà ni'în'
+onboarding-benefit-knowledge-text = Hiuj nan 'na' sa da'uît gahuin chrunt gache nun hue'êt ni si naga'naj si sò'.
+onboarding-benefit-privacy-title = Sa huì yangà'a
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Daran' sa hua ni diguminj nuguan' hua rayi'ît: Doj garasunt. Dugumi man. Nitaj nuguan' achrij hùij.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -71,6 +83,7 @@ onboarding-ghostery-text = Hìo doj gache nunt, hue'ê doj ni dugumînt man'ânt
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Gutà' si yuguît guendâ { -fxaccount-brand-name } ni nagi'iaj guña nej nuguan' araj sunt doj, da'nga' huìi ni riña ne rakïj ñanj riña daran' ne aga' nikajt { -brand-short-name }.
+onboarding-tracking-protection-title2 = Sa narán yari'ît da' si ganikò' sa yi'ìi
 
 ## Message strings belonging to the Return to AMO flow
 
