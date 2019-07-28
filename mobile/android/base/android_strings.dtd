@@ -872,7 +872,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_message "Tìm các mục ở chế độ đọc trong trang đánh dấu, ngay cả khi ngoại tuyến.">
 <!ENTITY helper_first_offline_bookmark_button "Đi đến trang đánh dấu">
 
-<!ENTITY helper_triple_readerview_open_title "Khả dụng khi ngoại tuyết">
+<!ENTITY helper_triple_readerview_open_title "Khả dụng khi ngoại tuyến">
 <!ENTITY helper_triple_readerview_open_message "Đánh dấu các mục ở chế độ đọc để đọc chúng khi ngoại tuyến.">
 <!ENTITY helper_triple_readerview_open_button "Thêm vào trang đánh dấu">
 
