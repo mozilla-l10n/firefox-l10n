@@ -32,8 +32,17 @@ app-basics-name = ชื่อ
 app-basics-version = รุ่น
 app-basics-build-id = Build ID
 app-basics-update-channel = ช่องทางการอัปเดต
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] อัปเดตไดเรกทอรี
+       *[other] อัปเดตโฟลเดอร์
+    }
 app-basics-update-history = ประวัติการอัปเดต
 app-basics-show-update-history = แสดงประวัติการอัปเดต
+# Represents the path to the binary used to start the application.
+app-basics-binary = ไบนารีแอปพลิเคชัน
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] ไดเรกทอรีโปรไฟล์
@@ -48,7 +57,6 @@ app-basics-performance = ประสิทธิภาพ
 app-basics-service-workers = ตัวทำงานบริการที่ลงทะเบียน
 app-basics-profiles = โปรไฟล์
 app-basics-multi-process-support = หน้าต่างแบบหลายโปรเซส
-app-basics-process-count = โปรเซสเนื้อหาเว็บ
 app-basics-remote-processes-count = โปรเซสระยะไกล
 app-basics-enterprise-policies = นโยบายองค์กร
 app-basics-safe-mode = โหมดปลอดภัย
@@ -73,10 +81,15 @@ graphics-failure-log-title = รายการบันทึกความล
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
 graphics-decision-log-title = รายการบันทึกการตัดสินใจ
+graphics-crash-guards-title = คุณสมบัติที่ถูกปิดใช้งานโดย Crash Guard
 graphics-workarounds-title = วิธีการแก้ไข
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = โปรโตคอลหน้าต่าง
+place-database-title = ฐานข้อมูลสถานที่
 place-database-integrity = ความสมบูรณ์
 place-database-verify-integrity = ยืนยันความสมบูรณ์
 js-title = JavaScript
+js-incremental-gc = ตัวเก็บกวาดขยะแบบเพิ่มขึ้น
 a11y-title = การช่วยการเข้าถึง
 a11y-activated = เปิดใช้งานแล้ว
 a11y-force-disabled = ป้องกันการช่วยการเข้าถึง
@@ -84,11 +97,13 @@ library-version-title = รุ่น Library
 copy-text-to-clipboard-label = คัดลอกข้อความไปยังคลิปบอร์ด
 copy-raw-data-to-clipboard-label = คัดลอกข้อมูลดิบไปยังคลิปบอร์ด
 sandbox-title = กระบะทราย
+sandbox-sys-call-log-title = ปฏิเสธการเรียกของระบบ
 sandbox-sys-call-index = #
 sandbox-sys-call-age = วินาทีที่แล้ว
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = ชนิดโปรเซส
+sandbox-sys-call-number = การเรียกของระบบ
 sandbox-sys-call-args = อาร์กิวเมนต์
 safe-mode-title = ลองใช้โหมดปลอดภัย
 restart-in-safe-mode-label = เริ่มการทำงานใหม่พร้อมปิดใช้งานส่วนเสริม…
@@ -97,10 +112,12 @@ media-device-name = ชื่อ
 media-device-group = กลุ่ม
 media-device-vendor = ผู้จำหน่าย
 media-device-state = สถานะ
+media-device-preferred = ที่ต้องการ
 media-device-format = รูปแบบ
 media-device-channels = ช่อง
 media-device-rate = อัตรา
 media-device-latency = เวลาแฝง
+intl-title = การทำให้เป็นสากลและการแปลเป็นภาษาท้องถิ่น
 intl-app-title = การตั้งค่าแอปพลิเคชัน
 intl-locales-requested = ภาษาที่ขอ
 intl-locales-available = ภาษาที่มี
@@ -139,8 +156,12 @@ try-newer-driver = ถูกปิดกั้นจากรุ่นไดร�
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = พารามิเตอร์ ClearType
+compositing = การจัดองค์ประกอบ
+hardware-h264 = การถอดรหัสฮาร์ดแวร์ H264
 yes = ใช่
 no = ไม่
+unknown = ไม่ทราบ
+virtual-monitor-disp = จอแสดงผลเสมือนจริง
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -148,6 +169,8 @@ no = ไม่
 
 found = พบ
 missing = หายไป
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = คำอธิบาย
 gpu-vendor-id = ID ผู้จำหน่าย
 gpu-device-id = ID อุปกรณ์
