@@ -14,7 +14,7 @@
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 <!ENTITY reloadPlugin.pre                                    "">
-<!ENTITY reloadPlugin.middle                                 "পৃষ্ঠা পুনঃল'ড কৰক">
+<!ENTITY reloadPlugin.middle                                 "পৃষ্ঠা ৰিল'ড কৰক">
 <!ENTITY reloadPlugin.post                                   " পুনৰ চেষ্টা কৰিবলৈ।">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.please                                       "ক্রেশ্বৰ প্ৰতিবেদন প্ৰেৰণ কৰক">
@@ -28,3 +28,5 @@
 
 <!ENTITY plugin.file                                         "ফাইল">
 <!ENTITY plugin.mimeTypes                                    "MIME-ৰ প্ৰকাৰ">
+<!ENTITY plugin.flashProtectedMode.label                     "Adobe Flash সুৰক্ষিত ম'ড সক্ষম কৰক">
+<!ENTITY plugin.enableBlocklists.label                       "ক্ষতিকাৰক আৰু হস্তক্ষেপকাৰী ফ্লেশ্ব সমল অৱৰোধ কৰক">
