@@ -62,3 +62,10 @@ cfr-doorhanger-bookmark-fxa-link-text = Synkronoi kirjanmerkit nyt…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Sulje-painike
     .title = Sulje
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Mitä uutta
+    .tooltiptext = Mitä uutta
+cfr-whatsnew-panel-header = Mitä uutta
