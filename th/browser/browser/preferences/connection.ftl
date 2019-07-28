@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = ไม่มีพร็อกซีสำหรับ
     .accesskey = ส
 connection-proxy-noproxy-desc = ตัวอย่าง: .mozilla.org, .net.nz, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = การเชื่อมต่อไปยัง localhost, 127.0.0.1, และ ::1 จะไม่ผ่านพร็อกซี
 connection-proxy-autotype =
     .label = URL กำหนดค่าพร็อกซีอัตโนมัติ
     .accesskey = น
@@ -70,12 +72,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = เปิดใช้งาน DNS ผ่าน HTTPS
     .accesskey = ป
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = ใช้ค่าเริ่มต้น ({ $url })
-    .accesskey = ช
-    .tooltiptext = ใช้ URL เริ่มต้นสำหรับแปลงที่อยู่ DNS ผ่าน HTTPS
 connection-dns-over-https-url-resolver = ใช้ผู้ให้บริการ
     .accesskey = ช
 # Variables:

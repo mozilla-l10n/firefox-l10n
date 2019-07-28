@@ -18,3 +18,4 @@ reader-view = มุมมองผู้อ่าน
 open-location = ค้นหาหรือป้อนที่อยู่
 share = แบ่งปัน
 close-window = ปิดหน้าต่าง
+open-sidebar = แถบข้าง
