@@ -274,6 +274,14 @@ update-pref-write-failure-title = การเขียนล้มเหลว
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = ไม่สามารถบันทึกค่ากำหนด ไม่สามารถเขียนไปยังไฟล์: { $path }
 update-setting-write-failure-title = เกิดข้อผิดพลาดในการบันทึกค่ากำหนดการอัปเดต
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } พบข้อผิดพลาดและไม่ได้บันทึกการเปลี่ยนแปลงนี้ โปรดทราบว่าการตั้งค่าค่ากำหนดการอัปเดตนี้จำเป็นต้องได้รับสิทธิอนุญาตให้เขียนไปยังไฟล์ด้านล่าง คุณหรือผู้ดูแลระบบอาจสามารถแก้ไขข้อผิดพลาดได้ด้วยการมอบสิทธิ์ให้กับกลุ่มผู้ใช้เพื่อให้สามารถควบคุมไฟล์นี้ได้อย่างเต็มที่
+    
+    ไม่สามารถเขียนไปยังไฟล์: { $path }
 update-in-progress-title = กำลังอัปเดต
 update-in-progress-message = คุณต้องการให้ { -brand-short-name } ดำเนินการต่อกับการอัปเดตนี้หรือไม่?
 update-in-progress-ok-button = &ละทิ้ง

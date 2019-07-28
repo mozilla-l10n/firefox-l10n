@@ -60,3 +60,10 @@ cfr-doorhanger-bookmark-fxa-link-text = ซิงค์ที่คั่นห�
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = ปุ่มปิด
     .title = ปิด
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = มีอะไรใหม่
+    .tooltiptext = มีอะไรใหม่
+cfr-whatsnew-panel-header = มีอะไรใหม่
