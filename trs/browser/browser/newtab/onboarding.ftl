@@ -85,6 +85,12 @@ onboarding-fxa-title = Sync
 onboarding-fxa-text = Gutà' si yuguît guendâ { -fxaccount-brand-name } ni nagi'iaj guña nej nuguan' araj sunt doj, da'nga' huìi ni riña ne rakïj ñanj riña daran' ne aga' nikajt { -brand-short-name }.
 onboarding-tracking-protection-title2 = Sa narán yari'ît da' si ganikò' sa yi'ìi
 onboarding-tracking-protection-text2 = { -brand-short-name } rugûñu'un da' si nadigân nej sîtio sa 'iát nga aché nunt, ni 'ì doj huaj ganikò' nej anûnsio sò'.
+onboarding-tracking-protection-button2 = Dàj 'iaj sunj
+onboarding-data-sync-title = Gaikaj si konfigurasiûnt ngàt
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Nagi'iaj guñan si markadôt, dan'ga' huì ni a'ngo nej sa nikajt danè' nanj man'an huajt { -brand-product-name }.
+onboarding-data-sync-button2 = Nutà' si yugît riña { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Sasà' ni'iajt da' si gi'iaj duku nej si ngà nej nuguan' màn 'iát
 
 ## Message strings belonging to the Return to AMO flow
 
