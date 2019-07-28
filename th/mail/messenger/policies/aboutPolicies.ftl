@@ -7,6 +7,7 @@ about-policies-title = นโยบายองค์กร
 active-policies-tab = ใช้งานอยู่
 errors-tab = ข้อผิดพลาด
 documentation-tab = เอกสารประกอบ
+no-specified-policies-message = บริการนโยบายขององค์กรใช้งานอยู่ แต่ไม่มีนโยบายที่เปิดใช้งาน
 inactive-message = บริการนโยบายองค์กรไม่ได้ใช้งานอยู่
 policy-name = ชื่อนโยบาย
 policy-value = ค่านโยบาย
