@@ -49,3 +49,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Näytä kaikki">
+
+<!ENTITY touchBarCmdMac.label           "Muokkaa Touch Baria…">
