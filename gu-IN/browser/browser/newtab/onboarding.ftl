@@ -23,6 +23,7 @@ onboarding-welcome-body = તમને બ્રાઉઝર મળ્યો છ
 onboarding-join-form-email =
     .placeholder = ઇમેઇલ દાખલ કરો
 onboarding-join-form-email-error = માન્ય ઇમેઇલ આવશ્યક છે
+onboarding-join-form-continue = ચાલુ રાખો
 onboarding-start-browsing-button-label = બ્રાઉઝિંગ શરુ કરો
 onboarding-cards-dismiss =
     .title = રદ કરો
@@ -48,6 +49,9 @@ onboarding-sync-form-sub-header = { -sync-brand-name } ચાલુ રાખવ
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = ઉપયોગી વસ્તુઓ
+onboarding-benefit-knowledge-title = વ્યવહારુ જ્ઞાન
+onboarding-benefit-knowledge-text = સ્માર્ટ અને સુરક્ષિત ઑનલાઇન રહેવા માટે તમારે જાણવાની જરૂર છે તે બધું જાણો.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -67,6 +71,8 @@ onboarding-ghostery-text = Ghostery જેવાં વિસ્તરણ સા
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = સમન્વય
 onboarding-fxa-text = { -fxaccount-brand-name } માટે સાઇન અપ કરો અને તમે જ્યાં પણ { -brand-short-name } નો ઉપયોગ કરો છો ત્યાં તમારા બુકમાર્ક્સ, પાસવર્ડ્સ અને ખુલ્લા ટૅબ્સને સમન્વયિત કરો.
+onboarding-tracking-protection-button2 = તે કેવી રીતે કામ કરે છે
+onboarding-data-sync-button2 = { -sync-brand-short-name } સાઇન ઇન કરો
 onboarding-pocket-anywhere-text2 = { -pocket-brand-name } એપ્લિકેશન સાથે તમારી પસંદની સામગ્રીને ઓફલાઇન સાચવો અને તમારી અનુકૂળતા પ્રમાણે વાંચો, સાંભળો અને જુઓ.
 onboarding-pocket-anywhere-button = { -pocket-brand-name } વાપરો
 
