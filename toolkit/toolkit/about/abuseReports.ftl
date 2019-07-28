@@ -12,6 +12,11 @@ abuse-report-learnmore =
     Hangi sorunu seçeceğinize karar veremediniz mi?
     <a data-l10n-name="learnmore-link">Eklentileri ve temaları şikâyet etme hakkında daha fazla bilgi alın</a>
 abuse-report-submit-description = Sorunu açıklayın (isteğe bağlı)
+abuse-report-textarea =
+    .placeholder = Elimizde ayrıntılı bilgi olursa sorunu çözmemiz kolaylaşır. Lütfen yaşadığınız sorunu açıklayın. Web’in sağlığını korumaya yardımcı olduğunuz için teşekkür ederiz.
+abuse-report-submit-note =
+    Not: Kişisel bilgilerinizi (ad, e-posta adresi, telefon numarası, fiziksel adres vb.) yazmayın.
+    { -vendor-short-name } bu raporları kalıcı olarak saklar.
 
 ## Panel buttons.
 
@@ -33,6 +38,7 @@ abuse-report-messagebar-submitted-noremove = Şikâyetinizi bizimle paylaştığ
 abuse-report-messagebar-removed-extension = Şikâyetinizi bizimle paylaştığınız için teşekkür ederiz. <span data-l10n-name="addon-name">{ $addon-name }</span> eklentisini kaldırdınız.
 abuse-report-messagebar-removed-theme = Şikâyetinizi bizimle paylaştığınız için teşekkür ederiz. <span data-l10n-name="addon-name">{ $addon-name }</span> temasını kaldırdınız.
 abuse-report-messagebar-error = <span data-l10n-name="addon-name">{ $addon-name }</span> şikâyeti gönderilirken bir hata oluştu.
+abuse-report-messagebar-error-recent-submit = Kısa bir süre önce başka bir rapor gönderdiğiniz için <span data-l10n-name="addon-name">{ $addon-name }</span> raporu gönderilmedi.
 
 ## Message bars actions.
 
@@ -57,7 +63,13 @@ abuse-report-deceptive-reason = Olmadığı bir şeymiş gibi davranıyor
 abuse-report-deceptive-example = Örnek: Yanıltıcı açıklama veya görüntü
 abuse-report-broken-reason-extension = Çalışmıyor, web sitelerini bozuyor veya { -brand-product-name } tarayıcımı yavaşlatıyor
 abuse-report-broken-reason-theme = Çalışmıyor veya tarayıcı ekranını bozuyor
+abuse-report-broken-example = Örnek: Özellikler yavaş, kullanması zor veya çalışmıyor; sitelerin bazı kısımları yüklenmiyor veya bozuk görünüyor
+abuse-report-broken-suggestions-extension = Bir hata (bug) bulmuş olabilirsiniz. Buradan rapor göndermenin yanı sıra, işlevsellik sorunlarını çözmenin en iyi yolu eklentinin geliştiricisiyle iletişime geçmektir. Geliştirici bilgilerine ulaşmak için <a data-l10n-name="support-link">eklentinin sitesini ziyaret edin</a>.
+abuse-report-broken-suggestions-theme = Bir hata (bug) bulmuş olabilirsiniz. Buradan rapor göndermenin yanı sıra, işlevsellik sorunlarını çözmenin en iyi yolu temanın geliştiricisiyle iletişime geçmektir. Geliştirici bilgilerine ulaşmak için <a data-l10n-name="support-link">temanın sitesini ziyaret edin</a>.
 abuse-report-policy-reason = Nefret söylemi, şiddet veya yasa dışı içerik
+abuse-report-policy-suggestions =
+    Not: Telif hakkı ve ticari marka sorunlarını ayrı bir yerden rapor etmeniz gerekiyor.
+    Sorunu rapor etmek için <a data-l10n-name="report-infringement-link">bu yönergeleri kullanın</a>.
 abuse-report-unwanted-reason = Bu eklentiyi yüklemeyi ben istemedim ve eklentiyi kaldıramıyorum
 abuse-report-unwanted-example = Örnek: Bir yazılım, bu eklentiyi benim iznim olmadan yüklemiş
 abuse-report-other-reason = Başka bir şey
