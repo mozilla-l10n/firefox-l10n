@@ -19,6 +19,7 @@ ghost-windows = แท็บที่ปิดล่าสุด
 ## Values for the Type column
 
 type-tab = แท็บ
+type-subframe = เฟรมย่อย
 type-tracker = ตัวติดตาม
 type-addon = ส่วนเสริม
 type-browser = เบราว์เซอร์
