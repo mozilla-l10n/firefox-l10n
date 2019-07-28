@@ -19,6 +19,14 @@ onboarding-button-label-get-started = Gayi'í
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Guruhuât gunumânt riña { -brand-short-name }
+onboarding-welcome-body = Ngà nikajt riñan nana'uì't nuguan'an.<br/>Gini'in doj sa hua { -brand-product-name }.
+onboarding-welcome-learn-more = gahuin chrun doj rayi'î nej sunuj nika.
+onboarding-join-form-header = Nakaj dugui' { -brand-product-name }
+onboarding-join-form-body = Gachrun si korreôt da' ga'ue gayi'ìt.
+onboarding-join-form-email =
+    .placeholder = Gachrun si korreôt
+onboarding-join-form-email-error = 'Ngo korreô ni'ñanj an gachrunt
+onboarding-join-form-legal = Si gan'anjt ne' ñaan, ni arâj yinat <a data-l10n-name="terms"> Dàj hua serbîsio</a> ni <a data-l10n-name="privacy">Nuguan' huaa</a>.
 onboarding-start-browsing-button-label = Gayi'i gache nunt
 onboarding-cards-dismiss =
     .title = Si gui'iaj guendo'
