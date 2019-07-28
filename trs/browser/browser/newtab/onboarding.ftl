@@ -84,6 +84,7 @@ onboarding-ghostery-text = Hìo doj gache nunt, hue'ê doj ni dugumînt man'ânt
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Gutà' si yuguît guendâ { -fxaccount-brand-name } ni nagi'iaj guña nej nuguan' araj sunt doj, da'nga' huìi ni riña ne rakïj ñanj riña daran' ne aga' nikajt { -brand-short-name }.
 onboarding-tracking-protection-title2 = Sa narán yari'ît da' si ganikò' sa yi'ìi
+onboarding-tracking-protection-text2 = { -brand-short-name } rugûñu'un da' si nadigân nej sîtio sa 'iát nga aché nunt, ni 'ì doj huaj ganikò' nej anûnsio sò'.
 
 ## Message strings belonging to the Return to AMO flow
 
