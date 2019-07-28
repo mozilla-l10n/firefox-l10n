@@ -91,6 +91,20 @@ onboarding-data-sync-title = Gaikaj si konfigurasiûnt ngàt
 onboarding-data-sync-text2 = Nagi'iaj guñan si markadôt, dan'ga' huì ni a'ngo nej sa nikajt danè' nanj man'an huajt { -brand-product-name }.
 onboarding-data-sync-button2 = Nutà' si yugît riña { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Sasà' ni'iajt da' si gi'iaj duku nej si ngà nej nuguan' màn 'iát
+onboarding-firefox-monitor-text = { -monitor-brand-name } dugumî sisi hua 'ngo nuguan' ruhuâ nej si gi'iaj tu nej si ni nata' na'an sisi huin ruhuâ nej si gi'iaj tu ñû nej si.
+onboarding-firefox-monitor-button = Nutà' si yugît da' ga'ue nàtaj rayi'î sa huaa
+onboarding-browse-privately-title = Gache nu huì
+onboarding-browse-privately-text = Sa 'ia nga aché nu huìt huin sisi nadure'e daran' chre sa nana'uît ni sa ni'iajt gaché nunt ni si giriñui ruhuât sisi hua a'ngô duguî' garasun aga' sikà rà nan.
+onboarding-browse-privately-button = Na'nïn 'ngo bentanâ huìi
+onboarding-firefox-send-title = Na'nïn sà ginun nej si archibôt
+onboarding-firefox-send-text2 = Nadisîj nej si archibôt riña { -send-brand-name } da' ga'ue duyingâ't man ngà 'ngo sifadô sà' hia nïn'ï.
+onboarding-firefox-send-button = Narì nukuaj ñû { -send-brand-name }
+onboarding-mobile-phone-title = Nadunïnj { -brand-product-name } riña aga' a'mint
+onboarding-mobile-phone-text = Nadunïnj { -brand-product-name } guendâ iOS asi Android ni nagi'iaj nuguan'àn nej nuguan' hua 'iát riña daran' ne si agâ't.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Nadunïnj Mobile Browser
+onboarding-send-tabs-title = Huê ngè diû ga'nïnjt rakïj ñanj
 
 ## Message strings belonging to the Return to AMO flow
 
