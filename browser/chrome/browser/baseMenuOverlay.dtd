@@ -28,9 +28,6 @@
 <!ENTITY helpSafeMode.stop.label       "เริ่มการทำงานใหม่พร้อมเปิดใช้งานส่วนเสริม">
 <!ENTITY helpSafeMode.stop.accesskey   "ร">
 
-<!ENTITY healthReport2.label      "รายงานสุขภาพ &brandShorterName;">
-<!ENTITY healthReport2.accesskey  "ข">
-
 <!ENTITY helpTroubleshootingInfo.label      "ข้อมูลการแก้ไขปัญหา">
 <!ENTITY helpTroubleshootingInfo.accesskey  "ป">
 
@@ -52,3 +49,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "แสดงทั้งหมด">
+
+<!ENTITY touchBarCmdMac.label           "ปรับแต่งแถบสัมผัส…">
