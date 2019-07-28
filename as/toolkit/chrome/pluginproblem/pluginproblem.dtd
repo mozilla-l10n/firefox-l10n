@@ -1,29 +1,30 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-
-
-
-
-
+<!ENTITY tapToPlayPlugin                                     "প্লাগিন সক্ৰিয় কৰিবলৈ ইয়াত টেপ কৰক।">
+<!ENTITY clickToActivatePlugin                               "প্লাগিন সক্ৰিয় কৰক।">
+<!ENTITY checkForUpdates                                     "আপডেটৰ বাবে পৰীক্ষা কৰক…">
+<!ENTITY blockedPlugin.label                                 "আপোনাৰ সুৰক্ষাৰ বাবে এই প্লাগিন অৱৰোধ কৰা হৈছে।">
+<!ENTITY hidePluginBtn.label                                 "প্লাগিন লুকুৱাওক">
+<!ENTITY managePlugins                                       "প্লাগিন পৰিচালনা কৰক…">
 
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
-
 <!ENTITY reloadPlugin.pre                                    "">
-
-
+<!ENTITY reloadPlugin.middle                                 "পৃষ্ঠা পুনঃল'ড কৰক">
+<!ENTITY reloadPlugin.post                                   " পুনৰ চেষ্টা কৰিবলৈ।">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "ক্রেশ্বৰ প্ৰতিবেদন প্ৰেৰণ কৰক">
+<!ENTITY report.submitting                                   "প্ৰতিবেদন প্ৰেৰণ হৈ আছে…">
+<!ENTITY report.submitted                                    "ক্রেশ্বৰ প্ৰতিবেদন প্ৰেৰণ কৰা হ'ল।">
+<!ENTITY report.disabled                                     "ক্রেশ্বৰ প্ৰতিবেদন নিষ্ক্ৰিয় কৰা হৈছে।">
+<!ENTITY report.failed                                       "দাখিল কৰাত বিফল হ'ল।">
+<!ENTITY report.unavailable                                  "কোনো প্ৰতিবেদন উপলব্ধ নহয়।">
+<!ENTITY report.comment                                      "মন্তব্য যোগ কৰক (মন্তব্যবোৰ ৰাজহুৱাকৈ দৃশ্যমান)">
+<!ENTITY report.pageURL                                      "পৃষ্ঠাৰ URL অন্তৰ্ভুক্ত কৰক">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY plugin.file                                         "ফাইল">
+<!ENTITY plugin.mimeTypes                                    "MIME-ৰ প্ৰকাৰ">
