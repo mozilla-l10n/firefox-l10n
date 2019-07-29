@@ -64,12 +64,18 @@ login-item-copied-password-button-text = Monguatiapyre!
 login-item-save-changes-button = Moambue ñongatu
 login-item-save-new-button = Ñongatu
 login-item-cancel-button = Heja
+login-item-time-changed = Moambue ipyahuvéva: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Moheñoimbyre: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Ojepuru ramovéva: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
+master-password-notification-message = Emoinge ne ñe’ẽñemi ha’evéva ehecha hag̃ua tembiapo ñepyrũ ha ñe’ẽñemi ñongatupyre
 master-password-reload-button =
     .label = Tembiapo ñepyrũ
     .accesskey = L
+confirm-delete-dialog-title = ¿Embogue ko tembiapo ñepyrũ?
+confirm-delete-dialog-message = Ko tembiapoite ndaikatúi emboguevi.
 confirm-delete-dialog-dismiss-button =
     .title = Heja
 confirm-delete-dialog-cancel-button = Heja

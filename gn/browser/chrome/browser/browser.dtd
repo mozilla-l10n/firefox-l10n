@@ -832,14 +832,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Eike tetepy jokoha erohoryvévape">
 
 
+<!ENTITY protections.settings.label "Ñemo’ã ñemboheko">
+<!ENTITY protections.report.label "Ehechaukapaite marandu’i">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "¿Ko tenda ndoikói?">
+<!ENTITY protections.siteNotWorkingView.title "¿Ko Tenda Ndoikói?">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Eipe’a umi ñemo’ãha nemoapañuãiramo:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Tembiapo ñepyrũ rekoha">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Ta'ãngamýi">
 
 <!ENTITY protections.blocking.label "Ojokohína">
