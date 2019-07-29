@@ -21,12 +21,12 @@
 <!ENTITY quotedTextColor.accesskey        "L">
 <!ENTITY displayWidth.label               "Negeseuon Testun Plaen">
 <!ENTITY displayText.label                "Wrth ddangos negeseuon testun plaen dyfynedig:">
-<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "Dangos gwenogluniau fel graffigau">
 <!ENTITY convertEmoticons.accesskey    "g">
-<!-- labels -->
 
+<!-- labels -->
 <!ENTITY displayTagsText.label     "Mae modd defnyddio tagiau i gategoreiddio a blaenoriaethu eich negeseuon.">
 <!ENTITY newTagButton.label        "Newydd…">
 <!ENTITY newTagButton.accesskey    "N">
@@ -34,8 +34,8 @@
 <!ENTITY editTagButton1.accesskey  "G">
 <!ENTITY removeTagButton.label     "Dileu">
 <!ENTITY removeTagButton.accesskey "D">
-<!-- Fonts and Colors -->
 
+<!-- Fonts and Colors -->
 <!ENTITY fontsAndColors1.label   "Ffontiau a Lliwiau">
 <!ENTITY defaultFont.label       "Ffont rhagosodedig:">
 <!ENTITY defaultFont.accesskey   "r">
@@ -45,10 +45,11 @@
 <!ENTITY fontOptions.label       "Uwch…">
 <!ENTITY colorButton.label       "Lliwiau…">
 <!ENTITY colorButton.accesskey   "L">
-<!-- Advanced -->
 
+<!-- Advanced -->
 <!ENTITY reading.caption                  "Darllen">
 <!ENTITY display.caption                  "Dangos">
+<!ENTITY displayName.label                "Enw dangos:">
 <!ENTITY showCondensedAddresses.label     "Dangos dim ond enw dangos unigolion yn fy llyfr cyfeiriadau">
 <!ENTITY showCondensedAddresses.accesskey "D">
 

@@ -19,6 +19,7 @@
 <!ENTITY paneAttachments.title    "Atodiadau">
 <!ENTITY panePrivacy.title        "Preifatrwydd">
 <!ENTITY paneSecurity.title       "Diogelwch">
+<!ENTITY panePrivacySecurity.title "Preifatrwydd a Diogelwch">
 <!ENTITY paneLightning.title      "Calendr">
 <!ENTITY paneAdvanced.title       "Uwch">
 <!ENTITY paneAccount.title        "Cyfrifon">
