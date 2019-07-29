@@ -57,7 +57,7 @@
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 <!ENTITY  tab_offline_version "Affichage de la version hors connexion">
 
-<!ENTITY  crash_reporter_title "Rapport de plantage de &brandShortName;">
+<!ENTITY  crash_reporter_title "Rapporteur de plantage de &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; a rencontré un problème et a planté. Vos onglets devraient apparaître sur la page de démarrage de &brandShortName; à son prochain démarrage.">
 <!ENTITY  crash_send_report_message3 "Informer &vendorShortName; de ce problème pour qu’il puisse être corrigé">
 <!ENTITY  crash_include_url2 "Inclure l’adresse de la page où vous vous trouviez">
