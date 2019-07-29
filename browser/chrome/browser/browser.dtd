@@ -19,52 +19,6 @@
 <!ENTITY navbarOverflow.label                "Rhagor o offer…">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "Ail lwytho Tab">
-<!ENTITY  reloadTab.accesskey                "A">
-<!ENTITY  selectAllTabs.label                "Dewis Pob Tab">
-<!ENTITY  selectAllTabs.accesskey            "D">
-<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTab.label                 "Dyblygu Tab">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTab.accesskey             "D">
-<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTabs.label                "Tabiau Dyblyg">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTabs.accesskey            "D">
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Cau Tabiau i'r Dde">
-<!ENTITY  closeTabsToTheEnd.accesskey        "D">
-<!ENTITY  closeOtherTabs.label               "Cau Tabiau Eraill">
-<!ENTITY  closeOtherTabs.accesskey           "C">
-
-<!ENTITY  closeTabs.label                    "Cau Tabiau">
-<!ENTITY  closeTabs.accesskey                "T">
-<!ENTITY  pinSelectedTabs.label              "Pinio Tabiau">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinSelectedTabs.accesskey          "P">
-<!ENTITY  unpinSelectedTabs.label            "Dadbinio Tabiau">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinSelectedTabs.accesskey        "b">
-<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadTabs.label                   "Ail-lwytho Tabiau">
-<!ENTITY  reloadTabs.accesskey               "A">
-<!ENTITY  bookmarkSelectedTabs.label         "Gosod Nod Tudalen i'r Tabiau…">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkSelectedTabs.accesskey     "T">
-
-<!-- Tab context menu -->
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -85,28 +39,8 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "Anfon Dolen i Ddyfais">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
-<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
-These two items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  moveTabOptions.label               "Symud Tab">
-<!ENTITY  moveTabOptions.accesskey           "y">
-<!ENTITY  moveSelectedTabOptions.label       "Symud Tabiau">
-<!ENTITY  moveSelectedTabOptions.accesskey   "y">
-<!ENTITY  moveToStart.label                  "Symud i'r Cychwyn">
-<!ENTITY  moveToStart.accesskey              "C">
-<!ENTITY  moveToEnd.label                    "Symud i'r Diwedd">
-<!ENTITY  moveToEnd.accesskey                "D">
-<!ENTITY  moveToNewWindow.label              "Symud i Ffenestr Newydd">
-<!ENTITY  moveToNewWindow.accesskey          "N">
-<!ENTITY  reopenInContainer.label            "Ail agor mewn Cynhwysydd">
-<!ENTITY  reopenInContainer.accesskey        "A">
-<!ENTITY  bookmarkTab.label                  "Gosod Nod Tudalen i'r Tab">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkTab.accesskey              "N">
 <!ENTITY  undoCloseTab.label                 "Dadwneud Cau'r Tab">
 <!ENTITY  undoCloseTab.accesskey             "D">
-<!ENTITY  closeTab.label                     "Cau Tab">
-<!ENTITY  closeTab.accesskey                 "C">
 <!ENTITY  hiddenTabs.label                   "Tabiau Cudd">
 
 <!ENTITY  listAllTabs.label      "Rhestru pob tab">
@@ -145,31 +79,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Bar Offer Nodau Tudalen">
 <!ENTITY personalbarCmd.accesskey "N">
 <!ENTITY bookmarksToolbarItem.label "Eitemau Bar Offer Nodau Tudalen">
-
-<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Ail Lwytho'r Tab Hwn">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "A">
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Ail Lwytho'r Tabiau Hyn">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Gosod Nod Tudalen i'r Tab Hwn…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "T">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Gosod Nod Tudalen i'r Tabiau Hyn…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
-<!ENTITY toolbarContextMenu.selectAllTabs.label "Dewis Pob Tab">
-<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "D">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Dadwneud Cau'r Tab">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "D">
 
 <!ENTITY pageSourceCmd.label "Cod Gwreiddiol y Dudalen">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -234,7 +143,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signedInAs.label "Mewngofnodwyd fel">
 <!ENTITY fxa.menu.manageAccount.label "Rheoli Cyfrif…">
 <!ENTITY fxa.menu.syncSettings.label "Gosodiadau &syncBrand.shortName.label;…">
-<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Cysylltu Dyfais Arall…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -340,7 +248,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasBlocked.tooltip            "Rydych wedi rhwystro tynnu data canvas o'r wefan hon.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Rydych wedi rhwystro'r wefan yma rhag defnyddio ategyn Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Rydych wedi rhwystro mynediad MIDI ar gyfer y wefan hon.">
-
 <!ENTITY urlbar.installBlocked.tooltip           "Rydych wedi rhwystro gosod ychwanegion ar gyfer y wefan hon.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Dangos hanes">
@@ -530,7 +437,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
 <!ENTITY customizeMenu.removeExtension.label "Tynnu'r Estyniad">
 <!ENTITY customizeMenu.removeExtension.accesskey "T">
-
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
@@ -885,7 +791,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "Mae hon yn dudalen &brandShortName; diogel.">
 <!ENTITY identity.extensionPage "Mae'r dudalen wedi ei llwytho o estyniad.">
 <!ENTITY identity.insecureLoginForms2 "Gall mewngofnodion sy'n cael eu cyflwyno ar y dudalen hon gael eu cyfaddawdu.">
-
 <!ENTITY identity.customRoot "Dilyswyd y cysylltiad gan gyhoeddwr tystysgrif nad yw'n cael ei gydnabod gan Mozilla.">
 
 <!-- Strings for connection state warnings. -->
@@ -905,7 +810,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Er bod &brandShortName; wedi rhwystro peth cynnwys, mae cynnwys dal ar y dudalen nad yw'n ddiogel (megis delweddau).">
 <!ENTITY identity.description.activeLoaded "Mae'r wefan yn cynnwys yn deunydd nad yw'n ddiogel (megis sgriptiau) ac nid yw eich cysylltiad â nhw'n breifat.">
 <!ENTITY identity.description.activeLoaded2 "Gall gwybodaeth fyddwch yn ei gyflwyno cael ei weld gan eraill (megis cyfrineiriau, negeseuon, cardiau credyd, ac ati.).">
-
 <!ENTITY identity.description.customRoot "Nid yw Mozilla yn cydnabod y cyhoeddwr tystysgrif hwn. Efallai ei fod wedi'i ychwanegu o'ch system weithredu neu gan weinyddwr.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Galluogi diogelu">
@@ -928,6 +832,42 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Agor Dewisiadau Rhwystro Cynnwys">
 
 
+<!ENTITY protections.etpON.header "Mae Diogelwch Uwch Rhag Tracio YMLAEN ar y wefan hon">
+<!ENTITY protections.etpOFF.header "Mae Diogelwch Uwch Rhag Tracio I FFWRDD ar y wefan hon">
+<!ENTITY protections.settings.label "Gosodiadau Diogelu">
+<!ENTITY protections.report.label "Dangos yr Adroddiad Llawn">
+<!-- LOCALIZATION NOTE:
+     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
+     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "Gwefan ddim yn gweithio?">
+<!ENTITY protections.siteNotWorkingView.title "Gwefan Ddim yn Gweithio?">
+<!-- LOCALIZATION NOTE:
+     In the Site Not Working? view, we suggest turning off protections if
+     the user is experiencing issues with any of a variety of functionality.
+     protections.siteNotWorkingView.header: The header of the list
+     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Diffoddwch diogelu os rydych yn cael problemau gyda:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Meysydd mewngofnodi">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Ffurflenni">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Taliadau">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Sylwadau">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Fideos">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Mae'r wefan dal wedi torri ar ôl diffodd y diogelu?">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Anfon adroddiad">
+
+<!ENTITY protections.blocking.label "Rhwystro">
+<!ENTITY protections.notBlocking.label "Ddim yn Rhwystro">
+<!ENTITY protections.notBlocking.why.label "Pam?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Gallai rhwystro'r rhain dorri elfennau o rai gwefannau. Heb dracwyr, efallai na fydd rhai botymau, ffurflenni a meysydd mewngofnodi'n gweithio.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Bydd diffodd diogelu'n caniatáu pob traciwr ar y wefan hon. Efallai hefyd, y bydd yn gwella rhywfaint o ymarferoldeb gwefan.">
+<!ENTITY protections.socialMediaTrackers.label "Tracwyr Cyfryngau Cymdeithasol">
+<!ENTITY protections.crossSiteTrackingCookies.label "Cwcis Tracio Traws-Gwefan">
+<!ENTITY protections.trackingContent.label "Cynnwys Tracio">
+<!ENTITY protections.fingerprinters.label "Bysbrintwyr">
+<!ENTITY protections.cryptominers.label "Cryptogloddwyr">
+
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Tabiau porwyr">
@@ -936,40 +876,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Tabiau wedi'u Cydweddu">
 
 <!ENTITY syncedTabs.sidebar.label              "Tabiau wedi'u Cydweddu">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Mewngofnodwch i Firefox o'ch dyfeisiau eraill i weld eu tabiau yma.">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "Hoffech chi weld eich tabiau o ddyfeisiau eraill yma?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "Mewngofnodwch i weld rhestr o dabiau o'ch dyfeisiau eraill.">
-<!ENTITY syncedTabs.sidebar.unverified.label   "Mae angen i'ch cyfrif cael ei gwirio.">
-<!ENTITY syncedTabs.sidebar.notabs.label       "Dim tabiau agored">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "Agor Dewisiadau &syncBrand.shortName.label;">
-<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
-     when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Cychwynnwch gydweddu tabiau er mwyn gweld rhestr o dabiau o'ch dyfeisiau eraill.">
-<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Chwilio tabiau wedi eu cydweddu">
-<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Cysylltu Dyfais Arall">
-
-<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
-                        syncedTabs.context.openAllInTabs.accesskey):
-     These access keys are identical because their associated menu items are
-     mutually exclusive -->
-<!ENTITY syncedTabs.context.open.label                       "Agor">
-<!ENTITY syncedTabs.context.open.accesskey                   "g">
-<!ENTITY syncedTabs.context.openInNewTab.label               "Agor mewn Tab Newydd">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "Agor mewn Ffenestr Newydd">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "F">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Agor Dolen mewn Ffenestr Breifat Newydd">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "N">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Gosod Nod Tudalen i'r Tab Hwn…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "N">
-<!ENTITY syncedTabs.context.copy.label                       "Copïo">
-<!ENTITY syncedTabs.context.copy.accesskey                   "C">
-
-<!ENTITY syncedTabs.context.openAllInTabs.label              "Agor Popeth mewn Tabiau">
-<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "A">
-<!ENTITY syncedTabs.context.managedevices.label              "Rheoli Dyfeisiadau…">
-<!ENTITY syncedTabs.context.managedevices.accesskey          "D">
-
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -981,42 +887,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.label         "Ail gysylltu i &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "A">
 <!ENTITY syncToolbarButton.label      "Sync">
-
-<!ENTITY customizeMode.menuAndToolbars.header3 "Llusgwch eich hoff eitemau i'r bar offer neu'r ddewislen ychwanegol.">
-<!ENTITY customizeMode.restoreDefaults "Adfer y Rhagosodiadau">
-<!ENTITY customizeMode.done "Gorffen">
-<!ENTITY customizeMode.titlebar "Bar Teitl">
-<!ENTITY customizeMode.extraDragSpace "Bwlch Llusgo">
-<!ENTITY customizeMode.toolbars2 "Barrau Offer">
-<!ENTITY customizeMode.lwthemes "Themâu">
-<!ENTITY customizeMode.lwthemes.myThemes "Fy Thema">
-<!ENTITY customizeMode.lwthemes.recommended "Cymeradwy">
-<!ENTITY customizeMode.lwthemes.menuManage "Rheoli">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "R">
-<!ENTITY customizeMode.lwthemes.menuGetMore "Estyn Rhagor o Themâu">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "E">
-<!ENTITY customizeMode.overflowList.title2 "Dewislen Gorlif">
-<!ENTITY customizeMode.overflowList.description "Llusgwch a gollwng yr eitemau hyn yma i'w cadw o fewn cyrraedd ond allan o'ch bar offer…">
-<!ENTITY customizeMode.uidensity "Dwysedd">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
-     “Normal” is displayed in the Customize screen, under the Density menu. -->
-<!ENTITY customizeMode.uidensity.menuNormal.label "Arferol">
-<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Arferol">
-<!ENTITY customizeMode.uidensity.menuNormal.accessKey "A">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
-     “Compact” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Compact). -->
-<!ENTITY customizeMode.uidensity.menuCompact.label "Cywasgu">
-<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Crynhoi">
-<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
-     “Touch” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Touch), and it means that control layout is
-     optimized for touch devices. -->
-<!ENTITY customizeMode.uidensity.menuTouch.label "Cyffwrdd">
-<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Cyffwrdd">
-<!ENTITY customizeMode.uidensity.menuTouch.accessKey "C">
-<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Defnyddio Cyffwrdd ar gyfer y Modd Tabled">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Awto-guddio">
 
@@ -1084,27 +954,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "Cau">
 
-<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
-     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
-     Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "Anghofio'r olaf:">
-<!ENTITY panicButton.view.5min                    "Pum munud">
-<!ENTITY panicButton.view.2hr                     "Dwy awr">
-<!ENTITY panicButton.view.day                     "24 awr">
-
-<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
-     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
-     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
-     The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "Bydd parhau yn:">
-<!ENTITY panicButton.view.deleteCookies           "Dileu <html:strong>Cwcis</html:strong> Diweddar">
-<!ENTITY panicButton.view.deleteHistory           "Dileu <html:strong>Hanes</html:strong> Diweddar">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "Cau pob <html:strong>Tab</html:strong> a <html:strong>Ffenestr</html:strong>">
-<!ENTITY panicButton.view.openNewWindow           "Agor Ffenestr glân newydd">
-
-<!ENTITY panicButton.view.undoWarning             "Nid oes modd dadwneud y weithred.">
-<!ENTITY panicButton.view.forgetButton            "Anghofio!">
-
 <!ENTITY panicButton.thankyou.msg1                "Mae eich hanes diweddar wedi ei glirio.">
 <!ENTITY panicButton.thankyou.msg2                "Pori diogel!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Diolch!">
@@ -1112,31 +961,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Dysgu rhagor am DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "Diweddarwch &brandShorterName; ar gyfer y diweddaraf mewn cyflymder a phreifatrwydd.">
-<!ENTITY updateAvailable.whatsnew.label "Gweld beth sy'n newydd.">
-<!ENTITY updateAvailable.header.message "Mae diweddariad newydd o &brandShorterName; ar gael.">
-<!ENTITY updateAvailable.acceptButton.label "Llwytho'r Diweddariad i Lawr">
-<!ENTITY updateAvailable.acceptButton.accesskey "L">
-<!ENTITY updateAvailable.cancelButton.label "Nid Nawr">
-<!ENTITY updateAvailable.cancelButton.accesskey "N">
-
 <!ENTITY updateAvailable.panelUI.label "Llwytho diweddariad &brandShorterName; i lawr">
-
-<!ENTITY updateManual.message "Llwythwch gopi newydd o &brandShorterName; i lawr ac mi wnawn ni eich helpu i'w gosod.">
-<!ENTITY updateManual.whatsnew.label "Dyma sy'n newydd.">
-<!ENTITY updateManual.header.message "Nid yw &brandShorterName; yn gallu diweddaru i'r fersiwn diweddaraf.">
-<!ENTITY updateManual.acceptButton.label "Llwytho &brandShorterName; i lawr.">
-<!ENTITY updateManual.acceptButton.accesskey "L">
-<!ENTITY updateManual.cancelButton.label "Nid Nawr">
-<!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Llwytho i lawr fersiwn newydd o &brandShorterName;">
-
-<!ENTITY updateRestart.message2 "Ar ôl ailgychwyn cyflym, bydd &brandShorterName; yn adfer eich tabiau a ffenestri agored sydd ddim yn y modd Pori Preifat.">
-<!ENTITY updateRestart.header.message2 "Ailgychwyn i ddiweddaru &brandShorterName;">
-<!ENTITY updateRestart.acceptButton.label "Ail gychwyn ac Adfer">
-<!ENTITY updateRestart.acceptButton.accesskey "A">
-<!ENTITY updateRestart.cancelButton.label "Nid Nawr">
-<!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateUnsupported.panelUI.label "Nid oes modd i chi gyflawni diweddariadau pellach">
 <!ENTITY updateRestart.panelUI.label2 "Ailgychwyn i ddiweddaru &brandShorterName;">
 
@@ -1176,18 +1002,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Nodweddion Hygyrchedd wedi eu Galluogi">
-
-<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
-     The first <image> tag is replaced with the icon for the add-ons menu.
-     The second <image> tag is replaced with the icon for the toolbar menu. -->
-<!ENTITY addonPostInstallMessage.label "Rheolwch eich ychwanegion drwy glicio <image class='addon-addon-icon'/> yn newislen <image class='addon-toolbar-icon'/>.">
-<!ENTITY addonPostInstall.incognito.checkbox.label "Caniatáu i'r estyniad yma redeg mewn Ffenestri Preifat">
-<!ENTITY addonPostInstall.incognito.checkbox.accesskey "C">
-
-<!ENTITY addonPrivateBrowsing.header2.label "Newid i estyniadau mewn Ffenestri Preifat">
-<!ENTITY addonPrivateBrowsing.body2.label "Ni fydd unrhyw estyniad newydd y byddwch yn eu hychwanegu i &brandShorterName; yn gweithio mewn Ffenestri Preifat oni bai eich bod yn caniatáu hynny yn y gosodiadau.">
-<!ENTITY addonPrivateBrowsing.learnMore.label "Dysgu sut i reoli gosodiadau estyniad.">
-<!ENTITY addonPrivateBrowsing.okButton.label "Iawn, rwy'n deall">
-<!ENTITY addonPrivateBrowsing.okButton.accesskey "I">
-<!ENTITY addonPrivateBrowsing.manageButton.label "Rheoli Estyniadau">
-<!ENTITY addonPrivateBrowsing.manageButton.accesskey "R">
