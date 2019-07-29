@@ -19,52 +19,6 @@
 <!ENTITY navbarOverflow.label                "更多工具…">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "重新載入分頁">
-<!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  selectAllTabs.label                "選擇所有分頁">
-<!ENTITY  selectAllTabs.accesskey            "S">
-<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTab.label                 "複製分頁">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTab.accesskey             "D">
-<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTabs.label                "複製分頁">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTabs.accesskey            "D">
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "關閉右方分頁">
-<!ENTITY  closeTabsToTheEnd.accesskey        "i">
-<!ENTITY  closeOtherTabs.label               "關閉其他分頁">
-<!ENTITY  closeOtherTabs.accesskey           "o">
-
-<!ENTITY  closeTabs.label                    "關閉分頁">
-<!ENTITY  closeTabs.accesskey                "S">
-<!ENTITY  pinSelectedTabs.label              "釘選分頁">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinSelectedTabs.accesskey          "P">
-<!ENTITY  unpinSelectedTabs.label            "還原成普通分頁">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinSelectedTabs.accesskey        "b">
-<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadTabs.label                   "重新載入分頁">
-<!ENTITY  reloadTabs.accesskey               "R">
-<!ENTITY  bookmarkSelectedTabs.label         "將分頁加入書籤…">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkSelectedTabs.accesskey     "k">
-
-<!-- Tab context menu -->
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -85,28 +39,8 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "將鏈結傳送至裝置">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
-<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
-These two items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  moveTabOptions.label               "移動分頁">
-<!ENTITY  moveTabOptions.accesskey           "v">
-<!ENTITY  moveSelectedTabOptions.label       "移動分頁">
-<!ENTITY  moveSelectedTabOptions.accesskey   "v">
-<!ENTITY  moveToStart.label                  "移動至開頭">
-<!ENTITY  moveToStart.accesskey              "S">
-<!ENTITY  moveToEnd.label                    "移動至結尾">
-<!ENTITY  moveToEnd.accesskey                "E">
-<!ENTITY  moveToNewWindow.label              "移動到新視窗">
-<!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  reopenInContainer.label            "使用容器開啟">
-<!ENTITY  reopenInContainer.accesskey        "e">
-<!ENTITY  bookmarkTab.label                  "將分頁加入書籤">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkTab.accesskey              "B">
 <!ENTITY  undoCloseTab.label                 "復原已關閉分頁">
 <!ENTITY  undoCloseTab.accesskey             "U">
-<!ENTITY  closeTab.label                     "關閉分頁">
-<!ENTITY  closeTab.accesskey                 "c">
 <!ENTITY  hiddenTabs.label                   "隱藏分頁">
 
 <!ENTITY  listAllTabs.label      "列出所有分頁">
@@ -145,31 +79,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "書籤工具列">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "書籤工具列項目">
-
-<!ENTITY toolbarContextMenu.reloadSelectedTab.label "重新載入選擇的分頁">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "R">
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "重新載入選擇的分頁">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "R">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "將選擇的分頁加入書籤…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "T">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "將選擇的分頁加入書籤…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
-<!ENTITY toolbarContextMenu.selectAllTabs.label "選擇所有分頁">
-<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "S">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "復原已關閉分頁">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "頁面原始碼">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -234,7 +143,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signedInAs.label "已登入為">
 <!ENTITY fxa.menu.manageAccount.label "管理帳號…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; 設定…">
-<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "連結其他裝置…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -340,7 +248,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasBlocked.tooltip            "您已封鎖此網站讀取 canvas 資料的權限。">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "您已封鎖此網站執行 Adobe Flash 外掛程式。">
 <!ENTITY urlbar.midiBlocked.tooltip              "您已封鎖此網站的 MIDI 存取權限。">
-
 <!ENTITY urlbar.installBlocked.tooltip           "您已封鎖此網站安裝附加元件。">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "顯示瀏覽紀錄">
@@ -530,7 +437,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
 <!ENTITY customizeMenu.removeExtension.label "移除擴充套件">
 <!ENTITY customizeMenu.removeExtension.accesskey "v">
-
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
@@ -885,7 +791,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "這是安全的 &brandShortName; 頁面。">
 <!ENTITY identity.extensionPage "此頁面是擴充套件頁面。">
 <!ENTITY identity.insecureLoginForms2 "在此頁面輸入的登入資訊可能會被洩漏。">
-
 <!ENTITY identity.customRoot "連線是由 Mozilla 不認識的憑證簽發者所驗證。">
 
 <!-- Strings for connection state warnings. -->
@@ -905,7 +810,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "雖然 &brandShortName; 已經封鎖部分內容，但頁面中還是有不安全的內容（例如圖片）。">
 <!ENTITY identity.description.activeLoaded "此網站包含不安全的內容（例如指令碼），與其之間的連線並不私密。">
 <!ENTITY identity.description.activeLoaded2 "您提供給此網站的資訊（例如密碼、訊息、信用卡號等等）可能會被其他人看到。">
-
 <!ENTITY identity.description.customRoot "Mozilla 不認識此憑證簽發者，可能是由您的作業系統或網路管理員所加入的。">
 
 <!ENTITY identity.enableMixedContentBlocking.label "啟用保護">
@@ -928,6 +832,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "開啟內容封鎖偏好設定">
 
 
+<!ENTITY protections.report.label "顯示完整報告">
+<!-- LOCALIZATION NOTE:
+     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
+     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!-- LOCALIZATION NOTE:
+     In the Site Not Working? view, we suggest turning off protections if
+     the user is experiencing issues with any of a variety of functionality.
+     protections.siteNotWorkingView.header: The header of the list
+     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "登入欄位">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "表單">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "付款">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "註解">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "影片">
+
+<!ENTITY protections.blocking.label "封鎖">
+<!ENTITY protections.notBlocking.label "不封鎖">
+<!ENTITY protections.notBlocking.why.label "為什麼？">
+<!ENTITY protections.socialMediaTrackers.label "社交媒體追蹤器">
+<!ENTITY protections.crossSiteTrackingCookies.label "跨網站追蹤 Cookie">
+<!ENTITY protections.trackingContent.label "追蹤用內容">
+<!ENTITY protections.fingerprinters.label "數位指紋追蹤程式">
+<!ENTITY protections.cryptominers.label "加密貨幣採礦程式">
+
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "瀏覽器分頁">
@@ -936,40 +866,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "已同步的分頁">
 
 <!ENTITY syncedTabs.sidebar.label              "已同步的分頁">
-<!ENTITY syncedTabs.sidebar.noclients.label    "將您其他裝置也登入至 Firefox，在此檢視那些裝置中開啟的分頁。">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "想在這裡看到您其他裝置上開啟的分頁嗎？">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "登入以檢視您其他裝置中的分頁清單。">
-<!ENTITY syncedTabs.sidebar.unverified.label   "需要驗證您的帳號。">
-<!ENTITY syncedTabs.sidebar.notabs.label       "無已開啟的分頁">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "開啟 &syncBrand.shortName.label; 偏好設定">
-<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
-     when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "開啟分頁同步功能以檢視您其他裝置中的分頁清單。">
-<!ENTITY syncedTabs.sidebar.searchPlaceholder  "搜尋同步的分頁">
-<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "連結其他裝置">
-
-<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
-                        syncedTabs.context.openAllInTabs.accesskey):
-     These access keys are identical because their associated menu items are
-     mutually exclusive -->
-<!ENTITY syncedTabs.context.open.label                       "開啟">
-<!ENTITY syncedTabs.context.open.accesskey                   "O">
-<!ENTITY syncedTabs.context.openInNewTab.label               "用新分頁開啟">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "用新視窗開啟">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "用新隱私視窗開啟">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "將此分頁加入書籤…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
-<!ENTITY syncedTabs.context.copy.label                       "複製">
-<!ENTITY syncedTabs.context.copy.accesskey                   "C">
-
-<!ENTITY syncedTabs.context.openAllInTabs.label              "全部用分頁開啟">
-<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
-<!ENTITY syncedTabs.context.managedevices.label              "管理裝置…">
-<!ENTITY syncedTabs.context.managedevices.accesskey          "D">
-
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -981,42 +877,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.label         "重新連線至 &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "同步">
-
-<!ENTITY customizeMode.menuAndToolbars.header3 "將您最愛的項目拖曳到工具列或收藏選單。">
-<!ENTITY customizeMode.restoreDefaults "回復為預設值">
-<!ENTITY customizeMode.done "完成">
-<!ENTITY customizeMode.titlebar "標題列">
-<!ENTITY customizeMode.extraDragSpace "拖曳空間">
-<!ENTITY customizeMode.toolbars2 "工具列">
-<!ENTITY customizeMode.lwthemes "佈景主題">
-<!ENTITY customizeMode.lwthemes.myThemes "我的佈景主題">
-<!ENTITY customizeMode.lwthemes.recommended "推薦">
-<!ENTITY customizeMode.lwthemes.menuManage "管理">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
-<!ENTITY customizeMode.lwthemes.menuGetMore "下載更多佈景主題">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.overflowList.title2 "收藏選單">
-<!ENTITY customizeMode.overflowList.description "將項目拖曳到此處，方便使用又不佔空間…">
-<!ENTITY customizeMode.uidensity "密度">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
-     “Normal” is displayed in the Customize screen, under the Density menu. -->
-<!ENTITY customizeMode.uidensity.menuNormal.label "標準">
-<!ENTITY customizeMode.uidensity.menuNormal.tooltip "標準">
-<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
-     “Compact” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Compact). -->
-<!ENTITY customizeMode.uidensity.menuCompact.label "緊密">
-<!ENTITY customizeMode.uidensity.menuCompact.tooltip "緊密">
-<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
-     “Touch” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Touch), and it means that control layout is
-     optimized for touch devices. -->
-<!ENTITY customizeMode.uidensity.menuTouch.label "觸控">
-<!ENTITY customizeMode.uidensity.menuTouch.tooltip "觸控">
-<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
-<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "在平板電腦模式中使用觸控大小">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "自動隱藏">
 
@@ -1052,6 +912,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "回報問題">
 <!ENTITY contentBlocking.breakageReportView2.description "內容封鎖功能可能會造成某些網站運作不正常。當您回報問題時，就能幫助讓所有人的 &brandShortName; 變得更好。（將會回報網址與您的瀏覽器相關設定給 Mozilla。）">
 <!ENTITY contentBlocking.breakageReportView.learnMore "了解更多">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "了解更多">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "網址">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "您遇到什麼問題？（選填）">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "傳送回報">
@@ -1084,27 +945,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "關閉">
 
-<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
-     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
-     Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "忘掉先前的瀏覽紀錄:">
-<!ENTITY panicButton.view.5min                    "5 分鐘">
-<!ENTITY panicButton.view.2hr                     "2 小時">
-<!ENTITY panicButton.view.day                     "24 小時">
-
-<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
-     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
-     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
-     The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "接下來將:">
-<!ENTITY panicButton.view.deleteCookies           "刪除近期的 <html:strong>Cookie</html:strong>">
-<!ENTITY panicButton.view.deleteHistory           "刪除近期的<html:strong>瀏覽紀錄</html:strong>">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "關閉所有<html:strong>分頁</html:strong>與<html:strong>視窗</html:strong>">
-<!ENTITY panicButton.view.openNewWindow           "再重新開啟乾淨的視窗">
-
-<!ENTITY panicButton.view.undoWarning             "此動作無法復原。">
-<!ENTITY panicButton.view.forgetButton            "忘掉吧！">
-
 <!ENTITY panicButton.thankyou.msg1                "已清除您最近的瀏覽紀錄。">
 <!ENTITY panicButton.thankyou.msg2                "安全地瀏覽吧！">
 <!ENTITY panicButton.thankyou.buttonlabel         "謝啦！">
@@ -1112,31 +952,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "了解 DRM 的更多資訊…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "更新您的 &brandShorterName;，以獲得最新的效能與隱私權保障。">
-<!ENTITY updateAvailable.whatsnew.label "看看有什麼新鮮事。">
-<!ENTITY updateAvailable.header.message "已推出新版的 &brandShorterName;。">
-<!ENTITY updateAvailable.acceptButton.label "下載更新">
-<!ENTITY updateAvailable.acceptButton.accesskey "D">
-<!ENTITY updateAvailable.cancelButton.label "暫時不要">
-<!ENTITY updateAvailable.cancelButton.accesskey "N">
-
 <!ENTITY updateAvailable.panelUI.label "下載 &brandShorterName; 更新">
-
-<!ENTITY updateManual.message "下載全新的 &brandShorterName;，我們會協助您安裝。">
-<!ENTITY updateManual.whatsnew.label "看看有什麼新鮮事。">
-<!ENTITY updateManual.header.message "&brandShorterName; 無法更新至最新版本。">
-<!ENTITY updateManual.acceptButton.label "下載 &brandShorterName;">
-<!ENTITY updateManual.acceptButton.accesskey "D">
-<!ENTITY updateManual.cancelButton.label "暫時不要">
-<!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "下載全新乾淨的 &brandShorterName;">
-
-<!ENTITY updateRestart.message2 "快速重新啟動後，&brandShorterName; 將還原您所有不在隱私瀏覽模式中開啟的分頁與視窗。">
-<!ENTITY updateRestart.header.message2 "重新啟動以更新 &brandShorterName;。">
-<!ENTITY updateRestart.acceptButton.label "重新啟動並還原">
-<!ENTITY updateRestart.acceptButton.accesskey "R">
-<!ENTITY updateRestart.cancelButton.label "暫時不要">
-<!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateUnsupported.panelUI.label "無法繼續更新">
 <!ENTITY updateRestart.panelUI.label2 "重新啟動以更新 &brandShorterName;">
 
@@ -1176,18 +993,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "已開啟輔助功能">
-
-<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
-     The first <image> tag is replaced with the icon for the add-ons menu.
-     The second <image> tag is replaced with the icon for the toolbar menu. -->
-<!ENTITY addonPostInstallMessage.label "請點擊 <image class='addon-toolbar-icon'/> 選單中的 <image class='addon-addon-icon'/> 來管理附加元件。">
-<!ENTITY addonPostInstall.incognito.checkbox.label "允許此擴充套件於隱私瀏覽視窗中執行">
-<!ENTITY addonPostInstall.incognito.checkbox.accesskey "A">
-
-<!ENTITY addonPrivateBrowsing.header2.label "於隱私視窗中對擴充套件行為的變更">
-<!ENTITY addonPrivateBrowsing.body2.label "除非您在設定中允許，否則任何新安裝到 &brandShorterName; 的擴充套件都將無法在隱私瀏覽視窗中使用。">
-<!ENTITY addonPrivateBrowsing.learnMore.label "了解如何管理擴充套件設定。">
-<!ENTITY addonPrivateBrowsing.okButton.label "好的，知道了">
-<!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
-<!ENTITY addonPrivateBrowsing.manageButton.label "管理擴充套件">
-<!ENTITY addonPrivateBrowsing.manageButton.accesskey "M">
