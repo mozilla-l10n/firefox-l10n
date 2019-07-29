@@ -5,7 +5,7 @@
 about-logins-page-title = Паролі
 login-filter =
     .placeholder = Шукати паролі
-create-login-button = Створити новий пароль
+create-login-button = Створити новий запис
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -33,17 +33,17 @@ login-list-count =
         [few] { $count } паролі
        *[many] { $count } паролів
     }
-login-list-sort-label-text = Сортувати за:
+login-list-sort-label-text = Сортувати:
 login-list-name-option = Ім'я (A-Z)
-login-list-last-changed-option = Востаннє змінено
-login-list-last-used-option = Востаннє використано
-login-list-item-title-new-login = Новий пароль
-login-list-item-subtitle-new-login = Введіть облікові дані для входу
-login-list-item-subtitle-missing-username = (немає імені користувача)
+login-list-last-changed-option = Змінено
+login-list-last-used-option = Використано
+login-list-item-title-new-login = Новий запис
+login-list-item-subtitle-new-login = Введіть облікові дані
+login-list-item-subtitle-missing-username = (без імені користувача)
 
 ## Login
 
-login-item-new-login-title = Створити новий вхід
+login-item-new-login-title = Створити новий запис
 login-item-edit-button = Змінити
 login-item-delete-button = Видалити
 login-item-origin-label = Адреса веб-сайту
@@ -65,9 +65,9 @@ login-item-copied-password-button-text = Скопійовано!
 login-item-save-changes-button = Зберегти зміни
 login-item-save-new-button = Зберегти
 login-item-cancel-button = Скасувати
-login-item-time-changed = Востаннє змінено: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-changed = Змінено: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Створено: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Востаннє використано: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Використано: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
@@ -75,7 +75,7 @@ master-password-notification-message = Введіть головний паро�
 master-password-reload-button =
     .label = Увійти
     .accesskey = в
-confirm-delete-dialog-title = Видалити цей пароль?
+confirm-delete-dialog-title = Видалити цей запис?
 confirm-delete-dialog-message = Це незворотна дія.
 confirm-delete-dialog-dismiss-button =
     .title = Скасувати
