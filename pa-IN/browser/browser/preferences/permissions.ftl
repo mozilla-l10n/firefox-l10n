@@ -36,6 +36,8 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = ਵੈੱਬਾਸਾਈਟ ਨੂੰ ਲੱਭੋ
+permissions-capabilities-autoplay-allow =
+    .label = ਆਡੀਓ ਅਤੇ ਵੀਡੀਓ ਨੂੰ ਅਨੁਮਤੀ ਦਿਓ
 permissions-capabilities-autoplay-block =
     .label = ਆਡੀਓ 'ਤੇ ਪਾਬੰਦੀ ਲਾਓ
 permissions-capabilities-autoplay-blockall =
@@ -105,6 +107,7 @@ permissions-exceptions-autoplay-media-desc2 = ਤੁਸੀਂ ਦੱਸ ਸਕ�
 permissions-site-autoplay-window =
     .title = ਸੈਟਿੰਗਾਂ - ਆਪੇ-ਚਲਾਓ
     .style = { permissions-window.style }
+permissions-site-autoplay-desc = ਤੁਸੀਂ ਉਹਨਾਂ ਸਾਈਟਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰ ਸਕਦੇ ਹੋ ਜੋ ਤੁਹਾਡੀ ਮੂਲ ਆਟੋਪਲੇ ਸਥਾਪਨ ਦੀ ਪਾਲਣਾ ਨਹੀਂ ਕਰਦੀਆਂ।
 
 ## Site Permissions - Notifications
 
