@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+pane-general-title = 一般
 category-general =
     .tooltiptext = { pane-general-title }
 general-language-and-appearance-header = 語言與外觀
@@ -24,6 +25,11 @@ privacy-data-collection-header = 資料收集與使用
 privacy-security-header = 安全性
 privacy-scam-detection-title = 詐騙信偵測
 privacy-anti-virus-title = 防毒
+privacy-certificates-title = 憑證
+chat-pane-header = 聊天
+chat-status-title = 狀態
+chat-notifications-title = 通知
+chat-pane-styling-header = 樣式
 choose-messenger-language-description = 請選擇 { -brand-short-name } 要用來顯示選單、介面訊息以及通知內容的語言。
 manage-messenger-languages-button =
     .label = 設定其他語言…
