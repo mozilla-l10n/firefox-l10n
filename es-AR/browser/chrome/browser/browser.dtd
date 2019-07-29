@@ -846,7 +846,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Desactive las protecciones si tiene problemas con:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Campos de inicio de sesión">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Formularios">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Pagos">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Comentarios">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Videos">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "¿El sitio sigue sin cargarse después de deshabilitar las protecciones?">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Enviar informe">
 
+<!ENTITY protections.blocking.label "Bloquear">
+<!ENTITY protections.notBlocking.label "No bloquear">
+<!ENTITY protections.notBlocking.why.label "¿Por qué?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Bloquear estos podría dañar elementos de algunos sitios web. Sin rastreadores algunos botones, formularios y campos de inicio de sesión podrían no funcionar.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Desactivar las protecciones habilitará todos los rastreadores en este sitio. También puede mejorar su funcionalidad.">
+<!ENTITY protections.socialMediaTrackers.label "Rastreadores de redes sociales">
 
 
 
