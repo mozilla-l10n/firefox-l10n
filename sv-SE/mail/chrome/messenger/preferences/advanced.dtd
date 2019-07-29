@@ -122,3 +122,8 @@
 <!ENTITY manageCertificates.accesskey "H">
 <!ENTITY viewSecurityDevices.label "Säkerhetsenheter">
 <!ENTITY viewSecurityDevices.accesskey "k">
+
+<!ENTITY manageCertificates2.label "Hantera certifikat…">
+<!ENTITY manageCertificates2.accesskey "H">
+<!ENTITY viewSecurityDevices2.label "Säkerhetsenheter…">
+<!ENTITY viewSecurityDevices2.accesskey "k">

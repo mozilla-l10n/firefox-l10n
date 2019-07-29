@@ -3,22 +3,29 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "Konfigurera ett befintligt e-postkonto">
+
+<!ENTITY emailWizard.title               "Konfigurera en befintlig e-postadress">
+<!ENTITY emailWizard.caption             "Använd din nuvarande e-postadress">
 <!ENTITY name.label                      "Ditt namn:">
 <!ENTITY name.accesskey                  "D">
 <!ENTITY name.placeholder                "Förnamn Efternamn">
+<!ENTITY fullname.placeholder            "Ditt fullständiga namn">
 <!ENTITY name.text                       "Ditt namn, som det visas för andra">
+<!ENTITY name.error                      "Ange ditt namn">
 <!ENTITY email.label                     "E-postadress:">
 <!ENTITY email.accesskey                 "E">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "ditt_namn@example.com">
+<!ENTITY email3.placeholder              "Din e-postadress">
 <!ENTITY email.text                      "Din befintliga e-postadress">
+<!ENTITY email.error                     "Ogiltig e-postadress">
 <!ENTITY password.label                  "Lösenord:">
 <!ENTITY password.accesskey              "L">
 <!ENTITY password.placeholder            "Lösenord">
 <!ENTITY password.text                   "Frivilligt, kommer endast användas för att bekräfta användarnamnet">
+<!ENTITY password.toggle                 "Visa/dölj lösenord">
 <!ENTITY rememberPassword.label          "Spara lösenord">
 <!ENTITY rememberPassword.accesskey      "S">
-
 <!ENTITY usernameEx.label                "Din inloggning:">
 <!ENTITY usernameEx.accesskey            "l">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
@@ -26,15 +33,21 @@
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 <!ENTITY usernameEx.text                 "Domäninloggning">
 
+<!ENTITY protocol.label                  "Protokoll:">
 <!ENTITY imapLong.label                  "IMAP (fjärrmappar)">
 <!ENTITY pop3Long.label                  "POP3 (lagra e-posten på datorn)">
 
 <!ENTITY incoming.label                  "Inkommande:">
+<!ENTITY incomingColumn.label            "Inkommande">
 <!ENTITY outgoing.label                  "Utgående:">
+<!ENTITY outgoingColumn.label            "Utgående">
 <!ENTITY username.label                  "Användarnamn:">
 <!ENTITY hostname.label                  "Serverns värdnamn">
 <!ENTITY port.label                      "Port">
 <!ENTITY ssl.label                       "SSL">
+<!ENTITY serverRow.label                 "Server:">
+<!ENTITY portRow.label                   "Port:">
+<!ENTITY sslRow.label                    "SSL:">
 <!ENTITY auth.label                      "Autentisering">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
@@ -60,15 +73,21 @@
 <!ENTITY stop.label                      "Stoppa">
 <!ENTITY stop.accesskey                  "S">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Testa igen">
 <!ENTITY half-manual-test.accesskey      "T">
 <!ENTITY manual-edit.label               "Manuell inställning">
 <!ENTITY manual-edit.accesskey           "M">
+<!ENTITY manual-config.label             "Konfigurera manuellt…">
+<!ENTITY manual-config.accesskey         "M">
 <!ENTITY open-provisioner.label          "Få en ny e-postadress…">
 <!ENTITY open-provisioner.accesskey      "n">
+
+
+<!ENTITY get-help.label                  "Få hjälp">
+<!ENTITY get-help.accesskey              "h">
 
 
 <!ENTITY warning.label                   "Varning!">

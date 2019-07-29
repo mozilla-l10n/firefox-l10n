@@ -37,3 +37,6 @@
 <!ENTITY dntTrackingNotOkay.accesskey "n">
 <!ENTITY doNotTrackInfo.label "Läs mer om spårning">
 
+<!ENTITY doNotTrackCheck.label "Skicka webbplatser en “Spåra inte”-signal att du inte vill bli spårad">
+<!ENTITY doNotTrackCheck.accesskey "n">
+<!ENTITY doNotTrackLearnMore.label "Läs mer">
