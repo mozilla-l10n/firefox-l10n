@@ -832,19 +832,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "打开内容拦截首选项">
 
 
+<!ENTITY protections.etpON.header "此站点已启用增强的跟踪保护功能">
+<!ENTITY protections.etpOFF.header "此站点已关闭增强的跟踪保护功能">
 <!ENTITY protections.settings.label "保护设置">
 <!ENTITY protections.report.label "显示完整报告">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "网站不正常？">
+<!ENTITY protections.siteNotWorkingView.title "网站不正常？">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "请关闭保护，若您遇到以下问题：">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "登录框">
 <!ENTITY protections.siteNotWorkingView.issueList.forms "表单">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "支付">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "评论">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "视频">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "关闭保护后，网站仍然异常？">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "发送反馈">
 
 <!ENTITY protections.notBlocking.why.label "为什么？">
 <!ENTITY protections.socialMediaTrackers.label "社交媒体跟踪器">
@@ -852,6 +861,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "跟踪内容">
 <!ENTITY protections.fingerprinters.label "数字指纹跟踪程序">
 <!ENTITY protections.cryptominers.label "加密货币挖矿程序">
+<!ENTITY protections.noTrackersFound.description "此页面上未检测到 &brandShortName; 已知的跟踪器。">
 
 
 
