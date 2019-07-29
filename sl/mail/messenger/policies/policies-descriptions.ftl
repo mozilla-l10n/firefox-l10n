@@ -41,6 +41,7 @@ policy-EnableTrackingProtection = Omogoči ali onemogoči zavračanje vsebine te
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Namesti, odstrani ali zakleni razširitve. Možnost "Install" kot parametre sprejema URL-je ali poti. Možnosti "Uninstall" in "Locked" sprejemata ID-je razširitev.
+policy-ExtensionSettings = Upravljaj vse vidike namestitve razširitve.
 policy-ExtensionUpdate = Omogoči ali onemogoči samodejno posodabljanje razširitev.
 policy-HardwareAcceleration = Če je "false", izklopi strojno pospeševanje.
 policy-InstallAddonsPermission = Določenim spletnim stranem dovoli nameščanje dodatkov.

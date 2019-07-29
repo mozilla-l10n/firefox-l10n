@@ -49,6 +49,7 @@
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Branje">
 <!ENTITY display.caption                  "Prikaz">
+<!ENTITY displayName.label                "Prikazno ime:">
 <!ENTITY showCondensedAddresses.label     "Za osebe v mojem imeniku prikaži le prikazano ime">
 <!ENTITY showCondensedAddresses.accesskey "a">
 
