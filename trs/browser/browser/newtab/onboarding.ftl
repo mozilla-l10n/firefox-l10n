@@ -105,6 +105,17 @@ onboarding-mobile-phone-text = Nadunïnj { -brand-product-name } guendâ iOS asi
 # browser.
 onboarding-mobile-phone-button = Nadunïnj Mobile Browser
 onboarding-send-tabs-title = Huê ngè diû ga'nïnjt rakïj ñanj
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Send Tabs nadugachîn man nej pâjina riña nej si aga't ni nitaj si achî guxunt ni gachrunt, asi gahuit riña aché nunt.
+onboarding-send-tabs-button = Gayi'ì garasunt Ga'nïnj Rakïj ñanj
+onboarding-pocket-anywhere-title = Gahia ni gunïn danè' gahuin huajt
+onboarding-pocket-anywhere-text2 = Ga'ue na'nïnj sà't sa garan' ruhuât nùj si nitaj koneksiûn hua ngà { -pocket-brand-name } ni gahia, gunïn ni ni'iajt aman garan' ruhuât.
+onboarding-pocket-anywhere-button = Yakaj da'nga' { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Nakaj da'nga' huì nikajt daran' hiuj u
+onboarding-lockwise-passwords-text2 = Dugumî nej da'nga' huì na'nïn sà't ni hìo doj gayi'ìt sesiûn riña nej si kuentàt ngà { -lockwise-brand-name }.
+onboarding-lockwise-passwords-button2 = Girì' App nan
+onboarding-facebook-container-title = Ni'iaj dàj gaj ngà Facebook
 
 ## Message strings belonging to the Return to AMO flow
 
