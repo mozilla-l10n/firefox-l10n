@@ -36,3 +36,6 @@
 <!ENTITY dntTrackingNotOkay.label2 "Sporočaj spletnim mestom, naj mi ne sledijo">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
 <!ENTITY doNotTrackInfo.label "Več o možnosti Brez sledenja">
+
+<!ENTITY doNotTrackCheck.label "S signalom “Brez sledenja” sporočaj spletnim stranem, naj vam ne sledijo">
+<!ENTITY doNotTrackLearnMore.label "Več o tem">
