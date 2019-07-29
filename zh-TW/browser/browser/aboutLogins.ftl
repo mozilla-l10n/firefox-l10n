@@ -63,6 +63,9 @@ login-item-copied-password-button-text = 已複製！
 login-item-save-changes-button = 儲存變更
 login-item-save-new-button = 儲存
 login-item-cancel-button = 取消
+login-item-time-changed = 上次修改: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = 建立於: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = 上次使用: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
