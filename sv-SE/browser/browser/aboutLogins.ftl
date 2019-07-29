@@ -65,6 +65,18 @@ login-item-save-changes-button = Spara ändringar
 login-item-save-new-button = Spara
 login-item-cancel-button = Avbryt
 login-item-time-changed = Senast ändrad: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Skapad: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Senast använt: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
+master-password-notification-message = Ange ditt huvudlösenord för att se sparade inloggningar och lösenord
+master-password-reload-button =
+    .label = Logga in
+    .accesskey = L
+confirm-delete-dialog-title = Ta bort denna inloggning?
+confirm-delete-dialog-message = Den här åtgärden kan inte ångras.
+confirm-delete-dialog-dismiss-button =
+    .title = Avbryt
+confirm-delete-dialog-cancel-button = Avbryt
+confirm-delete-dialog-confirm-button = Ta bort
