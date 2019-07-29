@@ -31,6 +31,8 @@
 <!ENTITY fillLoginMenu.accesskey      "L">
 <!ENTITY fillSuggestedPassword.label  "Usar una contraseña sugerida">
 <!ENTITY fillSuggestedPassword.accesskey "S">
+<!ENTITY fillGeneratedPassword.label  "Use una contraseña generada de forma segura">
+<!ENTITY fillGeneratedPassword.accesskey "S">
 <!ENTITY fillPasswordMenu.label       "Llenar contraseña">
 <!ENTITY fillPasswordMenu.accesskey   "L">
 <!ENTITY fillUsernameMenu.label       "Llenar nombre de usuario">
