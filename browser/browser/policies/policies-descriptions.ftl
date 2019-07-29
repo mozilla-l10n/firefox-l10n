@@ -11,5 +11,6 @@
 ## in the documentation section in about:policies.
 
 policy-DisableFirefoxStudies = Забранява на { -brand-short-name } да извършва изследвания.
+policy-DisablePrivateBrowsing = Изключване на поверителното разглеждане.
 policy-DisableTelemetry = Изключване на телеметрията.
 policy-DNSOverHTTPS = Конфигуриране на DNS през HTTPS.
