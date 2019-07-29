@@ -863,6 +863,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "追蹤用內容">
 <!ENTITY protections.fingerprinters.label "數位指紋追蹤程式">
 <!ENTITY protections.cryptominers.label "加密貨幣採礦程式">
+<!ENTITY protections.noTrackersFound.description "&brandShortName; 未在此頁面偵測到已知的追蹤器。">
 
 
 <!ENTITY protections.manageProtectionSettings.label "管理保護設定">
@@ -922,6 +923,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "內容封鎖功能可能會造成某些網站運作不正常。當您回報問題時，就能幫助讓所有人的 &brandShortName; 變得更好。（將會回報網址與您的瀏覽器相關設定給 Mozilla。）">
 <!ENTITY contentBlocking.breakageReportView.learnMore "了解更多">
 <!ENTITY contentBlocking.breakageReportView.title "回報網站問題">
+<!ENTITY contentBlocking.breakageReportView3.description "封鎖部分追蹤器後，可能會造成某些網站運作不正常。回報問題可幫助讓所有人的 &brandShortName; 變得更好。將會回報網址與您的瀏覽器相關設定給 Mozilla。">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "了解更多">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "網址">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "您遇到什麼問題？（選填）">
