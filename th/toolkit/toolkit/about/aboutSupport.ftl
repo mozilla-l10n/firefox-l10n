@@ -108,6 +108,7 @@ sandbox-sys-call-args = อาร์กิวเมนต์
 safe-mode-title = ลองใช้โหมดปลอดภัย
 restart-in-safe-mode-label = เริ่มการทำงานใหม่พร้อมปิดใช้งานส่วนเสริม…
 media-title = สื่อ
+media-input-devices-title = อุปกรณ์รับข้อมูล
 media-device-name = ชื่อ
 media-device-group = กลุ่ม
 media-device-vendor = ผู้จำหน่าย
