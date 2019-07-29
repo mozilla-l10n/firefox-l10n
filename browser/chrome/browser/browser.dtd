@@ -864,6 +864,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.noTrackersFound.description "此页面上未检测到 &brandShortName; 已知的跟踪器。">
 
 
+<!ENTITY protections.manageProtectionSettings.label "管理保护设置">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
