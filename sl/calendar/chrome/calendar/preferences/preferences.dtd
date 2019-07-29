@@ -6,3 +6,6 @@
 <!ENTITY  paneAlarms.title        "Opomniki">
 <!ENTITY  paneCategories.title    "Kategorije">
 <!ENTITY  paneViews.title         "Pogledi">
+<!ENTITY  panelHeader.title       "Koledar">
+<!ENTITY  panelReminder.title     "Opomniki">
+<!ENTITY  panelCatecory.title     "Kategorije">
