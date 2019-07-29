@@ -2,6 +2,28 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+category-general =
+    .tooltiptext = { pane-general-title }
+general-language-and-appearance-header = 語言與外觀
+general-incoming-mail-header = 收到的郵件
+general-files-and-attachment-header = 檔案與附件
+general-tags-header = 標籤
+general-reading-and-display-header = 閱讀與顯示
+general-updates-header = 更新
+general-network-and-diskspace-header = 網路與磁碟空間
+general-indexing-label = 索引
+composition-category-header = 編輯
+composition-attachments-header = 附件
+composition-spelling-title = 拼字檢查
+compose-html-style-title = HTML 樣式
+composition-addressing-header = 地址
+privacy-main-header = 隱私權
+privacy-passwords-header = 密碼
+privacy-junk-header = 垃圾郵件
+privacy-data-collection-header = 資料收集與使用
+privacy-security-header = 安全性
+privacy-scam-detection-title = 詐騙信偵測
+privacy-anti-virus-title = 防毒
 choose-messenger-language-description = 請選擇 { -brand-short-name } 要用來顯示選單、介面訊息以及通知內容的語言。
 manage-messenger-languages-button =
     .label = 設定其他語言…
