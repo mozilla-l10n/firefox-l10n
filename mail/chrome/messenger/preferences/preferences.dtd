@@ -19,6 +19,7 @@
 <!ENTITY paneAttachments.title    "Priponke">
 <!ENTITY panePrivacy.title        "Zasebnost">
 <!ENTITY paneSecurity.title       "Varnost">
+<!ENTITY panePrivacySecurity.title "Zasebnost in varnost">
 <!ENTITY paneLightning.title      "Koledar">
 <!ENTITY paneAdvanced.title       "Napredno">
 <!ENTITY paneAccount.title        "Računi">

@@ -3,14 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "Nastavitev obstoječega e-poštnega računa">
+
 <!ENTITY name.label                      "Vaše ime:">
 <!ENTITY name.accesskey                  "m">
 <!ENTITY name.placeholder                "Ime Priimek">
 <!ENTITY name.text                       "Vaše ime, s katerim se predstavljate">
+<!ENTITY name.error                      "Vnesite svoje ime">
 <!ENTITY email.label                     "E-poštni naslov:">
 <!ENTITY email.accesskey                 "E">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "vi@example.com">
+<!ENTITY email3.placeholder              "Vaš e-poštni naslov">
 <!ENTITY email.text                      "Vaš obstoječi e-poštni naslov">
 <!ENTITY password.label                  "Geslo:">
 <!ENTITY password.accesskey              "G">
@@ -18,7 +21,6 @@
 <!ENTITY password.text                   "Izbirno, uporabilo se bo samo za potrditev vašega uporabniškega imena">
 <!ENTITY rememberPassword.label          "Zapomni si geslo">
 <!ENTITY rememberPassword.accesskey      "Z">
-
 <!ENTITY usernameEx.label                "Vaša prijava:">
 <!ENTITY usernameEx.accesskey            "p">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
@@ -26,15 +28,21 @@
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 <!ENTITY usernameEx.text                 "Domena prijave">
 
+<!ENTITY protocol.label                  "Protokol:">
 <!ENTITY imapLong.label                  "IMAP (oddaljene mape)">
 <!ENTITY pop3Long.label                  "POP3 (pošto se hrani na vašem računalniku)">
 
 <!ENTITY incoming.label                  "Dohodni:">
+<!ENTITY incomingColumn.label            "Dohodni">
 <!ENTITY outgoing.label                  "Odhodni:">
+<!ENTITY outgoingColumn.label            "Odhodni">
 <!ENTITY username.label                  "Uporabniško ime:">
 <!ENTITY hostname.label                  "Ime strežnika">
 <!ENTITY port.label                      "Vrata">
 <!ENTITY ssl.label                       "SSL">
+<!ENTITY serverRow.label                 "Strežnik:">
+<!ENTITY portRow.label                   "Vrata:">
+<!ENTITY sslRow.label                    "SSL:">
 <!ENTITY auth.label                      "Overitev">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
@@ -60,7 +68,7 @@
 <!ENTITY stop.label                      "Ustavi">
 <!ENTITY stop.accesskey                  "U">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Ponovno preskusi">
@@ -69,6 +77,8 @@
 <!ENTITY manual-edit.accesskey           "R">
 <!ENTITY open-provisioner.label          "Pridobite nov e-poštni naslov …">
 <!ENTITY open-provisioner.accesskey      "n">
+
+
 
 
 <!ENTITY warning.label                   "Opozorilo!">
