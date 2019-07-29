@@ -18,6 +18,7 @@ policy-BlockAboutConfig = Narán riña ga'ue gatu' riña pajinâ about:config.
 policy-BlockAboutProfiles = Narán guenda gatut riña pajinâ about:profiles
 policy-BlockAboutSupport = Narán guendâ gatut riña pajinâ about:support
 policy-Bookmarks = Giri da'nga' dunanû rûa riña 'na' si dukuànj da'nga'a, riña menû Da'nga'a asi riña 'ngo karpeta hua yitïnj niñaa.
+policy-CaptivePortal = Nachrun asi duna'àjt sa dugu'nïn' ruku portâ 'nïn ninïn'ïn
 policy-CertificatesDescription = duguatûj sertifikâdo asi garasun sertifikadô ngà huaa.
 policy-Cookies = Ga'nïn asi si ga'nïnjt riña sitiô da' ga'nïn kokies.
 policy-DefaultDownloadDirectory = Dunaj danj ga sa nadunïnj rasuun.
@@ -73,9 +74,14 @@ policy-Preferences = Narán ni dunâjt daj ga du'ue 'ngo yi'nïn' sa garan' ruhu
 policy-PromptForDownloadLocation = Gachinj na'anj danè' ga'ue na'nïnj sà't nej archibô nadunïnjt.
 policy-Proxy = Naduna dàj nagi'iát riña proxy.
 policy-RequestedLocales = Nachrun dukuànj nej lokâl gachîn aplikasiûn nan dàj huin ruhuât.
+policy-SanitizeOnShutdown2 = Narè' nej nuguan' garâj sunt nga gaché nunt nga gina'àj aga' nan.
 policy-SearchBar = Nachrun sa ruhuât ga yitïnj riña dukuán na'na'uî' sa nana'uî'. Hua nïn hua diû guendâ nagi'iát.
 policy-SearchEngines = Nagi'iaj dàj hua riña sa rugûñu'unj nana'uî'. Màn riña Extended Support Release (ESR) ga'ue naduno' sa ruhuô' nan.
+policy-SearchSuggestEnabled = Nachrun asi duna'àjt nej sa ataj na'anj nù huin si nanà'uì't.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Ga'nïnj nej modulô PKCS #11.
+policy-SSLVersionMax = Dunâj ginun versiûn sà' doj SSL.
+policy-SSLVersionMin = Dunâj ginu bersiûn nij doj SSL.
+policy-SupportMenu = Nutà' 'ngo sa nutà't riña menû nagi'iô sa huin ruhuô' riña menû 'na' sa rugûñun'unj un.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Narán nej sitiô nga gisij gatujt riñanj. Ganatsij doj ni'iajt dàj hua rayi'î sun nan.
