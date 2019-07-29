@@ -53,7 +53,7 @@ policy-EnableTrackingProtection = Omogoči ali onemogoči zavračanje vsebine te
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Namesti, odstrani ali zakleni razširitve. Možnost "Install" kot parametre sprejema URL-je ali poti. Možnosti "Uninstall" in "Locked" sprejemata ID-je razširitev.
-policy-ExtensionSettings = Upravljajte vse vidike namestitve razširitve.
+policy-ExtensionSettings = Upravljaj vse vidike namestitve razširitve.
 policy-ExtensionUpdate = Omogoči ali onemogoči samodejno posodabljanje razširitev.
 policy-FirefoxHome = Nastavi Firefoxovo domačo stran.
 policy-FlashPlugin = Dovoli ali zavrni uporabo vtičnika Flash.
@@ -74,7 +74,6 @@ policy-Preferences = Nastavi in zakleni vrednost podnabora nastavitev.
 policy-PromptForDownloadLocation = Pri prenosu vprašaj, kam shraniti datoteko.
 policy-Proxy = Nastavi posrednika.
 policy-RequestedLocales = Nastavi vrstni red zahtevanih jezikov za program.
-policy-SanitizeOnShutdown = Ob izhodu počisti vse podatke brskanja.
 policy-SanitizeOnShutdown2 = Ob izhodu počisti podatke brskanja.
 policy-SearchBar = Nastavi privzet položaj vrstice za iskanje. Uporabnik ga lahko še vedno prilagodi.
 policy-SearchEngines = Nastavi iskalnike. Ta pravilnik je na voljo le v izdaji Extended Support Release (ESR).
