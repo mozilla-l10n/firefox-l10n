@@ -24,8 +24,8 @@ update-unsupported = Hindi na maaari makapag-update ng pagbabago sa system na it
 update-restarting = Nag-rerestart...
 channel-description = Ikaw ay kasalukuyang nasa <label data-l10n-name="current-channel"></label> i-update ang channel.
 warningDesc-version = Ang { -brand-short-name } ay eksperimental pa at maaring hindi gaanong stable.
-community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> is a <label data-l10n-name="community-exp-creditsLink">pangdaigdigang komunidad</label> sama-samang nagtatrabaho upang panatilihing ang Web ay malaya, bukas sa publiko at para sa lahat.
-community-2 = { -brand-short-name } ay dinisenyo ng/ni<label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, a <label data-l10n-name="community-creditsLink">pangdaigdigang komunidad</label> sama-samang nagtatrabaho upang panatilihing ang Web ay malaya, bukas sa publiko at para sa lahat.
+community-exp = Ang <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ay isang <label data-l10n-name="community-exp-creditsLink">pandaigdigang komunidad</label> na sama-samang nagtutulungan upang ang Web ay mapanatiling malaya, bukas sa publiko at para sa lahat.
+community-2 = Ang { -brand-short-name } ay dinisenyo ng <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, isang <label data-l10n-name="community-creditsLink">pandaigdigang komunidad</label> na sama-samang nagtutulungan upang ang Web ay mapanatiling malaya, bukas sa publiko at para sa lahat.
 helpus = Nais mo bang tumulong? <label data-l10n-name="helpus-donateLink">Magdonasyon</label> o <label data-l10n-name="helpus-getInvolvedLink">sumali na!</label>
 bottomLinks-license = Impormasyon sa Pag-lisensya
 bottomLinks-rights = Mga Karapatan ng Gumagamit
