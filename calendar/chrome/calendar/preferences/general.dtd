@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.mainbox.label "Allmänt" >
+
 <!ENTITY pref.dateformat.label "Datum textformat:" >
 <!ENTITY pref.dateformat.accesskey "D">
 <!ENTITY pref.dateformat.long "Lång" >
@@ -24,6 +25,9 @@
 <!ENTITY pref.default_event_length.label "Standardlängd:" >
 <!ENTITY pref.default_event_length.accesskey "l">
 
+<!ENTITY pref.default_event_task_length.label "Standardlängd för händelser och uppgifter">
+<!ENTITY pref.default_event_task_length.accesskey "l">
+
 <!ENTITY pref.default_task_none.label "Ingen">
 <!ENTITY pref.default_task_start_of_day.label "Början av dagen">
 <!ENTITY pref.default_task_end_of_day.label "Slutet av dagen">
@@ -34,9 +38,6 @@
 <!ENTITY pref.default_task_offset_next_hour.label "Relativt till nästa timme">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Panel för idag">
-<!ENTITY pref.soondays.label "Det kommande avsnittet visar:">
-<!ENTITY pref.soondays.accesskey "k">
-
 <!-- LOCALIZATION NOTE (pref.soondays2.label):
      "Upcoming" is the name of a section and the translation must match the
      translation of that section name (calendar.upcoming.button.label). Also,
