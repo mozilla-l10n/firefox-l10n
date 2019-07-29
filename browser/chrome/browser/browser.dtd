@@ -19,52 +19,6 @@
 <!ENTITY navbarOverflow.label                "Інші інструменти…">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "Оновити вкладку">
-<!ENTITY  reloadTab.accesskey                "О">
-<!ENTITY  selectAllTabs.label                "Обрати всі вкладки">
-<!ENTITY  selectAllTabs.accesskey            "О">
-<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTab.label                 "Дублювати вкладку">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTab.accesskey             "ю">
-<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTabs.label                "Дублювати вкладки">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTabs.accesskey            "ю">
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Закрити вкладки праворуч">
-<!ENTITY  closeTabsToTheEnd.accesskey        "п">
-<!ENTITY  closeOtherTabs.label               "Закрити інші вкладки">
-<!ENTITY  closeOtherTabs.accesskey           "З">
-
-<!ENTITY  closeTabs.label                    "Закрити вкладки">
-<!ENTITY  closeTabs.accesskey                "к">
-<!ENTITY  pinSelectedTabs.label              "Прикріпити вкладки">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinSelectedTabs.accesskey          "П">
-<!ENTITY  unpinSelectedTabs.label            "Відкріпити вкладки">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinSelectedTabs.accesskey        "В">
-<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadTabs.label                   "Оновити вкладки">
-<!ENTITY  reloadTabs.accesskey               "н">
-<!ENTITY  bookmarkSelectedTabs.label         "Закласти вкладки…">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkSelectedTabs.accesskey     "к">
-
-<!-- Tab context menu -->
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -85,28 +39,8 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendPageToDevice.accesskey         "с">
 <!ENTITY  sendLinkToDevice.label             "Відправити посилання на пристрій">
 <!ENTITY  sendLinkToDevice.accesskey         "л">
-<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
-These two items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  moveTabOptions.label               "Перемістити вкладку">
-<!ENTITY  moveTabOptions.accesskey           "П">
-<!ENTITY  moveSelectedTabOptions.label       "Перемістити вкладки">
-<!ENTITY  moveSelectedTabOptions.accesskey   "м">
-<!ENTITY  moveToStart.label                  "Перемістити на початок">
-<!ENTITY  moveToStart.accesskey              "ч">
-<!ENTITY  moveToEnd.label                    "Перемістити в кінець">
-<!ENTITY  moveToEnd.accesskey                "е">
-<!ENTITY  moveToNewWindow.label              "Перенести в нове вікно">
-<!ENTITY  moveToNewWindow.accesskey          "е">
-<!ENTITY  reopenInContainer.label            "Відкрити в контейнері">
-<!ENTITY  reopenInContainer.accesskey        "й">
-<!ENTITY  bookmarkTab.label                  "Закласти вкладку">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkTab.accesskey              "с">
 <!ENTITY  undoCloseTab.label                 "Відновити закриту вкладку">
 <!ENTITY  undoCloseTab.accesskey             "о">
-<!ENTITY  closeTab.label                     "Закрити вкладку">
-<!ENTITY  closeTab.accesskey                 "к">
 <!ENTITY  hiddenTabs.label                   "Приховані вкладки">
 
 <!ENTITY  listAllTabs.label      "Список усіх вкладок">
@@ -145,31 +79,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Панель закладок">
 <!ENTITY personalbarCmd.accesskey "к">
 <!ENTITY bookmarksToolbarItem.label "Елементи панелі закладок">
-
-<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Оновити вибрану вкладку">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "О">
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Оновити вибрані вкладки">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "в">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Закласти вибрану вкладку…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "З">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Закласти вибрані вкладки…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "т">
-<!ENTITY toolbarContextMenu.selectAllTabs.label "Вибрати всі вкладки">
-<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "б">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Відновити закриту вкладку">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "В">
 
 <!ENTITY pageSourceCmd.label "Програмний код сторінки">
 <!ENTITY pageSourceCmd.accesskey "а">
@@ -234,7 +143,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signedInAs.label "Вхід виконано">
 <!ENTITY fxa.menu.manageAccount.label "Керувати обліковим записом…">
 <!ENTITY fxa.menu.syncSettings.label "Налаштування Синхронізації…">
-<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Під'єднати інший пристрій…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -340,7 +248,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasBlocked.tooltip            "Ви заблокували видобування даних canvas для цього веб-сайту.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Ви заборонили використання Adobe Flash на цьому сайті.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Ви заблокували MIDI доступ для цього веб-сайту.">
-
 <!ENTITY urlbar.installBlocked.tooltip           "Ви заблокували встановлення додатка з цього веб-сайту.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Показати історію">
@@ -530,7 +437,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "К">
 <!ENTITY customizeMenu.removeExtension.label "Вилучити розширення">
 <!ENTITY customizeMenu.removeExtension.accesskey "л">
-
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
@@ -885,7 +791,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "Це захищена сторінка &brandShortName;.">
 <!ENTITY identity.extensionPage "Ця сторінка завантажена з розширення.">
 <!ENTITY identity.insecureLoginForms2 "Паролі, введені на цій сторінці, можуть бути скомпрометовані.">
-
 <!ENTITY identity.customRoot "З'єднання засвідчене сертифікатом, видавець якого не розпізнається Mozilla.">
 
 <!-- Strings for connection state warnings. -->
@@ -905,7 +810,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Хоча &brandShortName; заблокував деякий вміст, все ж на сторінці ще залишається вміст, що не є безпечним (наприклад, зображення).">
 <!ENTITY identity.description.activeLoaded "Цей веб-сайт має вміст, що не є безпечним (наприклад, сценарії) і ваше з'єднання з ним не є приватним.">
 <!ENTITY identity.description.activeLoaded2 "Інформація, якою ви ділитесь з цим сайтом може бути переглянута іншими (наприклад, паролі, повідомлення, дані кредитних карт та ін.).">
-
 <!ENTITY identity.description.customRoot "Mozilla не розпізнає цього видавця сертифіката. Він міг бути доданий вашою операційною системою чи адміністратором.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Увімкнути захист">
@@ -928,6 +832,37 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Відкрити налаштування блокування вмісту">
 
 
+<!ENTITY protections.etpON.header "Вдосконалений захист від стеження увімкнено для цього сайту">
+<!ENTITY protections.etpOFF.header "Вдосконалений захист від стеження вимкнено для цього сайту">
+<!ENTITY protections.settings.label "Налаштування захисту">
+<!ENTITY protections.report.label "Показати повний звіт">
+<!-- LOCALIZATION NOTE:
+     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
+     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "Не працює сайт?">
+<!ENTITY protections.siteNotWorkingView.title "Не працює сайт?">
+<!-- LOCALIZATION NOTE:
+     In the Site Not Working? view, we suggest turning off protections if
+     the user is experiencing issues with any of a variety of functionality.
+     protections.siteNotWorkingView.header: The header of the list
+     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Вимкніть захист, якщо у вас виникли проблеми з:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Полями для входу">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Формами">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Платежами">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Коментарями">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Відео">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Сайт все одно не працює належним чином після вимкнення захисту?">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Надіслати звіт">
+
+<!ENTITY protections.blocking.label "Блокування">
+<!ENTITY protections.notBlocking.label "Без блокування">
+<!ENTITY protections.notBlocking.why.label "Чому?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Блокування їх може пошкодити елементи деяких веб-сайтів. Деякі кнопки, поля заповнення форм і входів можуть не працювати без стеження.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Вимкнення захисту дозволить всі елементи стеження на цьому сайті. Це також може покращити деякі функції веб-сайту.">
+
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Вкладок браузера">
@@ -936,40 +871,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Синхронізовані вкладки">
 
 <!ENTITY syncedTabs.sidebar.label              "Синхронізовані вкладки">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Увійдіть у Firefox з інших пристроїв, щоб переглядати їх вкладки тут.">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "Хочете побачити тут свої вкладки з інших пристроїв?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "Увійдіть, щоб переглядати список вкладок з інших ваших пристроїв.">
-<!ENTITY syncedTabs.sidebar.unverified.label   "Ваш обліковий запис потребує підтвердження.">
-<!ENTITY syncedTabs.sidebar.notabs.label       "Немає відкритих вкладок">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "Відкрити налаштування Синхронізації">
-<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
-     when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Увімкніть синхронізацію вкладок для перегляду списку вкладок з інших пристроїв.">
-<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Шукати синхронізовані вкладки">
-<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Під'єднати інший пристрій">
-
-<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
-                        syncedTabs.context.openAllInTabs.accesskey):
-     These access keys are identical because their associated menu items are
-     mutually exclusive -->
-<!ENTITY syncedTabs.context.open.label                       "Відкрити">
-<!ENTITY syncedTabs.context.open.accesskey                   "В">
-<!ENTITY syncedTabs.context.openInNewTab.label               "Відкрити в новій вкладці">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "н">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "Відкрити в новому вікні">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "о">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Відкрити в приватному вікні">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "п">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Закласти цю вкладку…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "З">
-<!ENTITY syncedTabs.context.copy.label                       "Копіювати">
-<!ENTITY syncedTabs.context.copy.accesskey                   "К">
-
-<!ENTITY syncedTabs.context.openAllInTabs.label              "Відкрити всі у вкладках">
-<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "л">
-<!ENTITY syncedTabs.context.managedevices.label              "Керувати пристроями…">
-<!ENTITY syncedTabs.context.managedevices.accesskey          "К">
-
 
 <!ENTITY syncBrand.shortName.label    "Синхронізація">
 
@@ -981,42 +882,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.label         "Перепідключитись до Синхронізації…">
 <!ENTITY syncReAuthItem.accesskey     "П">
 <!ENTITY syncToolbarButton.label      "Синхронізація">
-
-<!ENTITY customizeMode.menuAndToolbars.header3 "Перетягніть улюблені елементи до панелі інструментів чи розширеного меню.">
-<!ENTITY customizeMode.restoreDefaults "Відновити типові">
-<!ENTITY customizeMode.done "Готово">
-<!ENTITY customizeMode.titlebar "Панель заголовка">
-<!ENTITY customizeMode.extraDragSpace "Місце для перетягування">
-<!ENTITY customizeMode.toolbars2 "Панелі інструментів">
-<!ENTITY customizeMode.lwthemes "Теми">
-<!ENTITY customizeMode.lwthemes.myThemes "Мої теми">
-<!ENTITY customizeMode.lwthemes.recommended "Рекомендовані">
-<!ENTITY customizeMode.lwthemes.menuManage "Керувати">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "К">
-<!ENTITY customizeMode.lwthemes.menuGetMore "Отримати більше тем">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "б">
-<!ENTITY customizeMode.overflowList.title2 "Розширене меню">
-<!ENTITY customizeMode.overflowList.description "Переміщуйте елементи сюди, щоб мати їх під рукою, але не на панелі інструментів…">
-<!ENTITY customizeMode.uidensity "Щільність">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
-     “Normal” is displayed in the Customize screen, under the Density menu. -->
-<!ENTITY customizeMode.uidensity.menuNormal.label "Звичайна">
-<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Звичайна">
-<!ENTITY customizeMode.uidensity.menuNormal.accessKey "Н">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
-     “Compact” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Compact). -->
-<!ENTITY customizeMode.uidensity.menuCompact.label "Компактна">
-<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Компактна">
-<!ENTITY customizeMode.uidensity.menuCompact.accessKey "К">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
-     “Touch” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Touch), and it means that control layout is
-     optimized for touch devices. -->
-<!ENTITY customizeMode.uidensity.menuTouch.label "Дотик">
-<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Дотик">
-<!ENTITY customizeMode.uidensity.menuTouch.accessKey "т">
-<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Використовувати дотик для планшетного режиму">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Ховати автоматично">
 
@@ -1084,27 +949,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "Закрити">
 
-<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
-     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
-     Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "Забути останні:">
-<!ENTITY panicButton.view.5min                    "П’ять хвилин">
-<!ENTITY panicButton.view.2hr                     "Дві години">
-<!ENTITY panicButton.view.day                     "24 години">
-
-<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
-     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
-     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
-     The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "При цьому будуть:">
-<!ENTITY panicButton.view.deleteCookies           "Видалені недавні <html:strong>Куки</html:strong>">
-<!ENTITY panicButton.view.deleteHistory           "Видалена недавня <html:strong>Історія</html:strong>">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "Закриті всі <html:strong>Вкладки</html:strong> та <html:strong>Вікна</html:strong>">
-<!ENTITY panicButton.view.openNewWindow           "Відкрито нове чисте вікно">
-
-<!ENTITY panicButton.view.undoWarning             "Цю дію неможливо скасувати.">
-<!ENTITY panicButton.view.forgetButton            "Забути!">
-
 <!ENTITY panicButton.thankyou.msg1                "Ваша недавня історія була видалена.">
 <!ENTITY panicButton.thankyou.msg2                "Безпечний перегляд!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Дякую!">
@@ -1112,31 +956,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Докладніше про DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "Д">
 
-<!ENTITY updateAvailable.message "Оновіть &brandShorterName; для підвищення рівня швидкодії та приватності.">
-<!ENTITY updateAvailable.whatsnew.label "Перегляньте, що нового.">
-<!ENTITY updateAvailable.header.message "Доступна нова версія &brandShorterName;.">
-<!ENTITY updateAvailable.acceptButton.label "Завантажити оновлення">
-<!ENTITY updateAvailable.acceptButton.accesskey "З">
-<!ENTITY updateAvailable.cancelButton.label "Не зараз">
-<!ENTITY updateAvailable.cancelButton.accesskey "Н">
-
 <!ENTITY updateAvailable.panelUI.label "Завантажте оновлення &brandShorterName;">
-
-<!ENTITY updateManual.message "Завантажте нову версію &brandShorterName; і ми допоможемо вам її встановити.">
-<!ENTITY updateManual.whatsnew.label "Перегляньте, що нового.">
-<!ENTITY updateManual.header.message "&brandShorterName; не може оновитися до останньої версії.">
-<!ENTITY updateManual.acceptButton.label "Завантажити &brandShorterName;">
-<!ENTITY updateManual.acceptButton.accesskey "З">
-<!ENTITY updateManual.cancelButton.label "Не зараз">
-<!ENTITY updateManual.cancelButton.accesskey "Н">
 <!ENTITY updateManual.panelUI.label "Завантажте нову версію &brandShorterName;">
-
-<!ENTITY updateRestart.message2 "Після швидкого перезапуску &brandShorterName; відновить всі відкриті вкладки й вікна, які не були відкриті в режимі приватного перегляду.">
-<!ENTITY updateRestart.header.message2 "Перезапуск для оновлення &brandShorterName;.">
-<!ENTITY updateRestart.acceptButton.label "Перезапустити й відновити">
-<!ENTITY updateRestart.acceptButton.accesskey "П">
-<!ENTITY updateRestart.cancelButton.label "Не зараз">
-<!ENTITY updateRestart.cancelButton.accesskey "Н">
 <!ENTITY updateUnsupported.panelUI.label "Неможливо виконати подальші оновлення">
 <!ENTITY updateRestart.panelUI.label2 "Перезапуск для оновлення &brandShorterName;">
 
@@ -1176,18 +997,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Функції доступності увімкнено">
-
-<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
-     The first <image> tag is replaced with the icon for the add-ons menu.
-     The second <image> tag is replaced with the icon for the toolbar menu. -->
-<!ENTITY addonPostInstallMessage.label "Керуйте своїми додатками, натиснувши <image class='addon-addon-icon'/> в меню <image class='addon-toolbar-icon'/>.">
-<!ENTITY addonPostInstall.incognito.checkbox.label "Дозволити цьому розширенню виконуватися в приватних вікнах">
-<!ENTITY addonPostInstall.incognito.checkbox.accesskey "л">
-
-<!ENTITY addonPrivateBrowsing.header2.label "Зміни розширень в приватних вікнах">
-<!ENTITY addonPrivateBrowsing.body2.label "Нові розширення, які ви додаєте в &brandShorterName;, не працюватимуть в приватних вікнах, доки ви не встановите дозвіл в налаштуваннях.">
-<!ENTITY addonPrivateBrowsing.learnMore.label "Дізнайтеся, як керувати налаштуваннями розширень.">
-<!ENTITY addonPrivateBrowsing.okButton.label "Гаразд, зрозуміло">
-<!ENTITY addonPrivateBrowsing.okButton.accesskey "Г">
-<!ENTITY addonPrivateBrowsing.manageButton.label "Керувати розширеннями">
-<!ENTITY addonPrivateBrowsing.manageButton.accesskey "К">
