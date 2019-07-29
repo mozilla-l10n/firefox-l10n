@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.mainbox.label "Gosodiadau Cyffredinol" >
+
 <!ENTITY pref.dateformat.label "Fformat Testun Dyddiad:" >
 <!ENTITY pref.dateformat.accesskey "F">
 <!ENTITY pref.dateformat.long "Hir" >
@@ -24,6 +25,9 @@
 <!ENTITY pref.default_event_length.label "Hyd Rhagosodedig:" >
 <!ENTITY pref.default_event_length.accesskey "H">
 
+<!ENTITY pref.default_event_task_length.label "Hyd Digwyddiad a Tasg Rhagosodedig">
+<!ENTITY pref.default_event_task_length.accesskey "D">
+
 <!ENTITY pref.default_task_none.label "Dim">
 <!ENTITY pref.default_task_start_of_day.label "Cychwyn y Diwrnod">
 <!ENTITY pref.default_task_end_of_day.label "Diwedd y Dydd">
@@ -34,9 +38,6 @@
 <!ENTITY pref.default_task_offset_next_hour.label "Cymharol â'r Awr Nesaf">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Paen Heddiw">
-<!ENTITY pref.soondays.label "Mae'r adran i ddod yn dangos:">
-<!ENTITY pref.soondays.accesskey "d">
-
 <!-- LOCALIZATION NOTE (pref.soondays2.label):
      "Upcoming" is the name of a section and the translation must match the
      translation of that section name (calendar.upcoming.button.label). Also,

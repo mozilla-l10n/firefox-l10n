@@ -6,3 +6,6 @@
 <!ENTITY  paneAlarms.title        "Atgoffwyr">
 <!ENTITY  paneCategories.title    "Categorïau">
 <!ENTITY  paneViews.title         "Golwg">
+<!ENTITY  panelHeader.title       "Calendr">
+<!ENTITY  panelReminder.title     "Atgoffwyr">
+<!ENTITY  panelCatecory.title     "Categorïau">

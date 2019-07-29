@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "Cyffredinol">
+
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Golwg Diwrnod ac Wythnos">
 <!ENTITY pref.calendar.view.multiweekview.caption "Golwg Wythnosau">
 <!ENTITY pref.calendar.view.workweek.caption "Wythnos Waith">
@@ -17,6 +18,8 @@
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Dangos rhif wythnos mewn golwg a mis bach">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "r">
 <!ENTITY pref.daysoff.label "Cynnwys y dyddiau hyn yn yr wythnos waith:">
+
+<!ENTITY pref.workweekDays.label "Diwrnodau wythnos gwaith:">
 
 <!ENTITY pref.calendar.view.daystart.label "Diwrnod yn cychwyn:">
 <!ENTITY pref.calendar.view.daystart.accesskey "D">
