@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = Giri nuguan' gini'ñanj riña WebExtensions da' ga'ue gatu ngà chrome.storage.managed.
 policy-AppUpdateURL = Gachrun URL gi'iaj nahuin nakà aplikasiûn ruhuât.
 policy-Authentication = Nagi'iaj hue'ê autentikasiûn ngà 'na'a riña ne sitiô ga'ue gunùkuaj nej man.
 policy-BlockAboutAddons = Narán riña sa dugumîn nej sa ga'ue nutò' doj (about:addons).
@@ -17,9 +18,9 @@ policy-BlockAboutConfig = Narán riña ga'ue gatu' riña pajinâ about:config.
 policy-BlockAboutProfiles = Narán guenda gatut riña pajinâ about:profiles
 policy-BlockAboutSupport = Narán guendâ gatut riña pajinâ about:support
 policy-Bookmarks = Giri da'nga' dunanû rûa riña 'na' si dukuànj da'nga'a, riña menû Da'nga'a asi riña 'ngo karpeta hua yitïnj niñaa.
-policy-Certificates = Ga'ue asi si ga'ue garasunt sertifikadô hua chre'e. Màn si chrej Windows huin man akuan' nïn.
 policy-CertificatesDescription = duguatûj sertifikâdo asi garasun sertifikadô ngà huaa.
 policy-Cookies = Ga'nïn asi si ga'nïnjt riña sitiô da' ga'nïn kokies.
+policy-DefaultDownloadDirectory = Dunaj danj ga sa nadunïnj rasuun.
 policy-DisableAppUpdate = Si ga'nïnjt nahuin nakà nabegadôr.
 policy-DisableBuiltinPDFViewer = Duyichin' si sun PDF.js, sa ni'io' PDF nu riña { -brand-short-name }.
 policy-DisableDeveloperTools = Narán riña gatut riña màn nej rasuun ri ràa.
@@ -37,7 +38,6 @@ policy-DisableProfileImport = Duyichin' si sun komandô nikaj menû guendâ dugu
 policy-DisableProfileRefresh = Duyichin' si sun sa Nagi'iaj nakà { -brand-short-name } riña pajinâ about:support.
 policy-DisableSafeMode = Duyichin' sun guendâ gayi'ìt riña Sa dugumî sò'. Nuguan' huaa: tekla mayuskula guendâ gatu' riña Sa Dugumî ni ma riña Windows ga'ue giyìchinj.
 policy-DisableSecurityBypass = Si ga'nïntj sisi hua da'aj nej duguî' ruhuâ nadure' nej nuguan' tna'uej rayi'ît.
-policy-DisableSetDesktopBackground = Duyuchin' si komandô menû taj Dunaj ginu ñadu'ua riña eskritôrio.
 policy-DisableSetAsDesktopBackground = Duyichin' si komandô menû taj Dunaj ginu man riña eskritôrio guendâ nej ñadu'ua.
 policy-DisableSystemAddonUpdate = Si ga'nïnjt guendâ na'nïnj nabegadôr na asi nagi'iaj nàkaj ne sa nata'a.
 policy-DisableTelemetry = Dunâ'aj Telemetrîa.
@@ -45,13 +45,15 @@ policy-DisplayBookmarksToolbar = Nadiganj dukuàn ma si rasuun nej sa arâj sun 
 policy-DisplayMenuBar = Nadiganj man'an dukuán 'na' menû.
 policy-DNSOverHTTPS = Nagi'iaj DNS riña HTTPS.
 policy-DontCheckDefaultBrowser = Duyichin' sa natsij nabegadôr hua niña riña gayi'ìj.
+policy-DownloadDirectory = Dunaj ni naránt riña sa nikaj ñu'unj naduni' rasuun.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Nachrun asi duyichîn't Sa narán riña sa mà riña Web.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
-# English or translate them as verbs. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+# English or translate them as verbs.
 policy-Extensions = Ga'nïnj, si ga'nïnt asi garánt riña nej sa nata'a. Riña taj Ga'nïnj arâj sun man URLs . Riña taj Nadure' asi Narán da'a man'an man si IDs man.
+policy-ExtensionSettings = Gachinj daran' nej sa hua da' ga'nïn' nej ekstensiûn.
+policy-ExtensionUpdate = Nachrun asi duna'àj sa nagi'iaj nakà man'an nej ekstensiûn.
 policy-FlashPlugin = Ga'nïn asi si ga'nïnjt gi'iaj sun sa nata' riña Flash.
 policy-HardwareAcceleration = Si sê sa yangà'a huin, duyichin' sa nagi'iaj hìo hardware.
 # “lock” means that the user won’t be able to change this setting
@@ -65,11 +67,9 @@ policy-Permissions = Natsïj riña achín ni'iát rayi'î aga' nari', aga' uxun 
 policy-PopupBlocking = Ga'nïn da' da'aj sîtio nadigân bentanâ narugui' man'an.
 policy-Proxy = Naduna dàj nagi'iát riña proxy.
 policy-RequestedLocales = Nachrun dukuànj nej lokâl gachîn aplikasiûn nan dàj huin ruhuât.
-policy-SanitizeOnShutdown = Nadure' daran' chre nuguan' hua ngà gaché nunt ngà gisîj dunà'ajt.
 policy-SearchBar = Nachrun sa ruhuât ga yitïnj riña dukuán na'na'uî' sa nana'uî'. Hua nïn hua diû guendâ nagi'iát.
 policy-SearchEngines = Nagi'iaj dàj hua riña sa rugûñu'unj nana'uî'. Màn riña Extended Support Release (ESR) ga'ue naduno' sa ruhuô' nan.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Ga'nïnj nej modulô PKCS #11.
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Narán nej sitiô nga gisij gatujt riñanj. Ganatsij doj ni'iajt dàj hua rayi'î sun nan.
