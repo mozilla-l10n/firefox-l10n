@@ -122,3 +122,8 @@
 <!ENTITY manageCertificates.accesskey "U">
 <!ENTITY viewSecurityDevices.label "Varnostne naprave">
 <!ENTITY viewSecurityDevices.accesskey "V">
+
+<!ENTITY manageCertificates2.label "Upravljanje potrdil …">
+<!ENTITY manageCertificates2.accesskey "U">
+<!ENTITY viewSecurityDevices2.label "Varnostne naprave …">
+<!ENTITY viewSecurityDevices2.accesskey "V">

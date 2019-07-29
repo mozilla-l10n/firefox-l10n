@@ -38,4 +38,5 @@
 <!ENTITY doNotTrackInfo.label "Več o možnosti Brez sledenja">
 
 <!ENTITY doNotTrackCheck.label "S signalom “Brez sledenja” sporočaj spletnim stranem, naj vam ne sledijo">
+<!ENTITY doNotTrackCheck.accesskey "b">
 <!ENTITY doNotTrackLearnMore.label "Več o tem">
