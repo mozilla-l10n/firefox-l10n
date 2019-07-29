@@ -25,6 +25,8 @@ menu-menuitem-download-iphone = 适用于 iPhone 和 iPad 的 Lockwise
 
 ## Login List
 
+login-list =
+    .aria-label = 匹配搜索词的登录信息
 login-list-count =
     { $count ->
        *[other] { $count } 条登录信息
