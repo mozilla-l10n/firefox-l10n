@@ -286,6 +286,17 @@ update-pref-write-failure-title = Gire' sa âchrun
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Na'ue na'nïnj sà'aj sa ni'hiajt doj. Nu ga'ue gachrunj riña archibô: { $path }
 update-setting-write-failure-title = Gire' guendâ na'nïnj sà'aj nej sa nihià' doj uhuât nagi'iaj nakàt
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message = { -brand-short-name } nari'ij 'ngo sa hua a'nan'an ni ni na'nïnj sà'aj sa nadunât. Ginu ruhuâ sisi dunâjt nej sa nihià' ruhuât nagi'iaj nakàt ni da'uît gachìnj ni'iát da' gachrunt riña archibô 'na' nan. Ga'ue si sò asi sû' nikaj ñu'unj sistêma ga'ue nagi'iaj sa gire' e sani da'uît dunaj daran'anj riña nej Usuârio archibô nan.
+update-in-progress-title = Hiaj nahuin nakà man
+update-in-progress-message = Huin ruhuât sisi { -brand-short-name } ginùn huin ngà sa ngi'iaj nakà nan anj?
+update-in-progress-ok-button = &Discard
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Gun' ne' ñaan
 
 ## General Section - Performance
 
@@ -328,6 +339,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Duguane' 'ngo ekstensiûn hìaj aché nunt
     .accesskey = R
+browsing-cfr-features =
+    .label = Nga aché nunt ni gataj nan'anj gunïn duguî't nej sa hua hue'ê
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = Gahuin chrūn doj
 
 ## General Section - Proxy
@@ -380,6 +394,7 @@ choose-bookmark =
 
 home-prefs-content-header = Sa nū riña pagina ayi'ì Firefox
 home-prefs-content-description = Gini'iaj ahuin si ruat gini'iaj riña Firefox.
+home-prefs-content-discovery-description = Sa nari' nej rasuun riña Firefox Homea'nïn da' narì't nej nuguan' hua ña'an doj riña da' hua nge web.
 home-prefs-search-header =
     .label = Nana'uì' web
 home-prefs-topsites-header =
@@ -560,6 +575,9 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Na'nïnj sà'
     .accesskey = N
+sync-connect-another-device = Gatu 'ngà a'ngo aga'a...
+sync-manage-devices = Ganikaj ñu'un' nej aga'a
+sync-fxa-begin-pairing = Nagi'iaj guña 'ngo aga'a
 sync-tos-link = Nuguan' da'uît gini'înt si ruhuât garasunt
 sync-fxa-privacy-notice = Notisia huìi
 
@@ -576,6 +594,12 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = Si yakaj guendo'
     .accesskey = x
+forms-generate-passwords =
+    .label = Gataj ni giri nej da'nga' huì hua hue'ê
+    .accesskey = u
+forms-fill-logins-and-passwords =
+    .label = Nachrun man'an riña ayi'ì sesiôn asi da'nga' huìi
+    .accesskey = i
 forms-saved-logins =
     .label = Sa gayi'ìt sesión ngà naginu sà'
     .accesskey = S
@@ -639,6 +663,7 @@ sitedata-learn-more = Gahuin chrūn doj
 sitedata-delete-on-close =
     .label = Nadure' nej koki ni nej si nuguàn sitiô nga gahuit riña { -brand-short-name }
     .accesskey = c
+sitedata-delete-on-close-private-browsing = Riña aché nu huì yitïnjt, nej koki ngà nej dâto sîtio niganj chre narè' nej man nga ganaránt{ -brand-short-name }.
 sitedata-allow-cookies-option =
     .label = Garayina koki ni nej si nuguàn' sîtio
     .accesskey = A
@@ -649,12 +674,23 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Sa naràn riña
     .accesskey = T
+sitedata-option-block-trackers =
+    .label = Sa naga'naj a'ngô nej si
+sitedata-option-block-unvisited =
+    .label = Si kokî nej sitiô nu atûjt
+sitedata-option-block-all-third-party =
+    .label = Sa naga'naj a'ngô nej si (ga'ue si huej dure' sîtio)
+sitedata-option-block-all =
+    .label = Daran' kôki ( ga'ue si huej dure' sîtio)
 sitedata-clear =
     .label = Nadurê' nuguan'an
     .accesskey = N
 sitedata-settings =
     .label = Dugumi' datos
     .accesskey = M
+sitedata-cookies-permissions =
+    .label = Ganikaj ñu'unj nej sa achín ni'iaj nej si
+    .accesskey = P
 
 ## Privacy Section - Address Bar
 
@@ -674,7 +710,13 @@ addressbar-suggestions-settings = Naduno' riña sa ruguñu'unj da' gache nu'
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Garun' riña sa ma
+content-blocking-section-description = Dugumî man'ânt nga aché nunt. Narán riña nej nuguan' nitaj si ra'ngà' hua sani naga'na nùhuin si 'iát nga aché nunt asi nej pefî. Si naránt riña da'aj nej nuguan' nan nj ga'ue gi'iaj sun hìo doj pajinâ nan.
 content-blocking-learn-more = Gahuin chrūn doj
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = Standard
+    .accesskey = d
 content-blocking-setting-strict =
     .label = Sa ahìi
     .accesskey = r
