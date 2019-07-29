@@ -832,20 +832,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "開啟內容封鎖偏好設定">
 
 
+<!ENTITY protections.etpON.header "已開啟針對此網站的追蹤保護功能">
+<!ENTITY protections.etpOFF.header "已關閉針對此網站的追蹤保護功能">
+<!ENTITY protections.settings.label "保護設定">
 <!ENTITY protections.report.label "顯示完整報告">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "網站無法正常運作嗎？">
+<!ENTITY protections.siteNotWorkingView.title "網站無法正常運作嗎？">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "如果遇到以下問題，請關閉保護:">
 <!ENTITY protections.siteNotWorkingView.issueList.logInFields "登入欄位">
 <!ENTITY protections.siteNotWorkingView.issueList.forms "表單">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "付款">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "註解">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "影片">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "關閉保護後網站仍然不正常？">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "回報">
 
 <!ENTITY protections.blocking.label "封鎖">
 <!ENTITY protections.notBlocking.label "不封鎖">
@@ -857,6 +865,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.label "加密貨幣採礦程式">
 
 
+<!ENTITY protections.manageProtectionSettings.label "管理保護設定">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -912,9 +921,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "回報問題">
 <!ENTITY contentBlocking.breakageReportView2.description "內容封鎖功能可能會造成某些網站運作不正常。當您回報問題時，就能幫助讓所有人的 &brandShortName; 變得更好。（將會回報網址與您的瀏覽器相關設定給 Mozilla。）">
 <!ENTITY contentBlocking.breakageReportView.learnMore "了解更多">
+<!ENTITY contentBlocking.breakageReportView.title "回報網站問題">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "了解更多">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "網址">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "您遇到什麼問題？（選填）">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "非必填: 描述問題情況">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "傳送回報">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "取消">
 

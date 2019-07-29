@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = Ping 資料來源:
 about-telemetry-show-current-ping-data = 目前的 ping 資料
+about-telemetry-show-current-data = 現有資料
 about-telemetry-show-archived-ping-data = 已封存的 ping 資料
 about-telemetry-show-subsession-data = 顯示 subsession 資料
 about-telemetry-choose-ping = 選擇 ping:
@@ -101,6 +102,8 @@ about-telemetry-no-search-results-all = 抱歉！所有段落中都沒有「{ $s
 about-telemetry-no-data-to-display = 抱歉！目前沒有「{ $sectionName }」的資料。
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = 目前的 ping
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = 現有資料
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = 全部
 # button label to copy the histogram
