@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = Ping datakälla:
 about-telemetry-show-current-ping-data = Aktuell ping-data
+about-telemetry-show-current-data = Aktuell data
 about-telemetry-show-archived-ping-data = Arkiverad ping-data
 about-telemetry-show-subsession-data = Visa undersessionsdata
 about-telemetry-choose-ping = Välj ping:
@@ -74,8 +75,9 @@ about-telemetry-settings-explanation = Telemetri samlar in { about-telemetry-dat
 # Variables:
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
-about-telemetry-ping-details = Varje del av information skickas sammanslagen “<a data-l10n-name="ping-link">ping</a>”. Du tittar på ping { $name }, { $timestamp }.
-about-telemetry-ping-details-current = Varje del av information skickas sammanslagen “<a data-l10n-name="ping-link">ping</a>“. Du tittar på ping aktuell.
+about-telemetry-ping-details = Varje del av information skickas sammanslagen i “<a data-l10n-name="ping-link">pings</a>”. Du tittar på ping { $name }, { $timestamp }.
+about-telemetry-ping-details-current = Varje del av information skickas sammanslagen i “<a data-l10n-name="ping-link">pings</a>“. Du tittar på aktuell ping.
+about-telemetry-data-details-current = Varje del av information skickas sammanslagen i “<a data-l10n-name="ping-link">pings</a>“. Du tittar på aktuell data.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -102,6 +104,8 @@ about-telemetry-no-search-results-all = Förlåt! Det finns inga resultat i någ
 about-telemetry-no-data-to-display = Förlåt! Det finns för närvarande inga data tillgängliga i “{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = aktuell ping
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = aktuell data
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = allt
 # button label to copy the histogram

@@ -930,8 +930,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "Innehållsblockering kan orsaka problem med vissa webbplatser. När du rapporterar problem hjälper du till att göra &brandShortName; bättre för alla. (Detta skickar en URL samt information om dina webbläsarinställningar till Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Läs mer">
 <!ENTITY contentBlocking.breakageReportView.title "Rapportera en trasig webbplats">
+<!ENTITY contentBlocking.breakageReportView3.description "Blockering av vissa trackers kan orsaka problem med vissa webbplatser. Att rapportera dessa problem hjälper till att göra &brandShortName; bättre för alla. Genom att skicka in den här rapporten skickas en URL och information om dina webbläsarinställningar till Mozilla.">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Läs mer">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Vilka problem har du haft? (Frivillig)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Valfritt: Beskriv problemet">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Skicka rapport">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Avbryt">
 
