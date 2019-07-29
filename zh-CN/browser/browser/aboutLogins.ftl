@@ -5,6 +5,7 @@
 about-logins-page-title = 我的账号和密码
 login-filter =
     .placeholder = 搜索登录信息
+create-login-button = 新建登录信息
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -19,9 +20,15 @@ menu-menuitem-preferences =
     }
 menu-menuitem-feedback = 发送反馈
 menu-menuitem-faq = 常见问题
+menu-menuitem-download-android = 适用于 Android 的 Lockwise
+menu-menuitem-download-iphone = 适用于 iPhone 和 iPad 的 Lockwise
 
 ## Login List
 
+login-list-count =
+    { $count ->
+       *[other] { $count } 条登录信息
+    }
 login-list-sort-label-text = 排序依照：
 login-list-name-option = 名称（A-Z）
 login-list-last-changed-option = 最后修改
@@ -31,6 +38,7 @@ login-list-item-subtitle-missing-username = （无用户名）
 
 ## Login
 
+login-item-new-login-title = 新建登录信息
 login-item-edit-button = 编辑
 login-item-delete-button = 删除
 login-item-origin-label = 网址
@@ -52,9 +60,13 @@ login-item-copied-password-button-text = 已复制！
 login-item-save-changes-button = 保存更改
 login-item-save-new-button = 保存
 login-item-cancel-button = 取消
+login-item-time-changed = 最后修改：{ DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = 创建时间：{ DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = 上次使用：{ DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
+master-password-notification-message = 请输入主密码以查看保存的账号和密码
 master-password-reload-button =
     .label = 登录
     .accesskey = L
