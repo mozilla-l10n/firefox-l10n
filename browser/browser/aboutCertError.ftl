@@ -25,7 +25,7 @@ cert-error-domain-mismatch = ਵੈਬ ਸਾਈਟਾਂ ਆਪਣੀ ਪਛਾ
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single = ਵੈਬ ਸਾਈਟਾਂ ਆਪਣੀ ਪਛਾਣ ਸਰਟੀਫਿਕੇਟ ਰਾਹੀ ਸਾਬਤ ਕਰਦੀਆਂ ਹਨ। { -brand-short-name } ਇਸ ਸਾਈਟ ਤੇ ਭਰੋਸਾ ਨਹੀਂ ਕਰਦਾ ਕਿਉਂਕਿ ਇਹ ਉੁਹ ਸਰਟੀਫਿਕੇਟ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹੈ ਜੋ { $hostname } ਲਈ ਦਰੁਸਤ ਨਹੀਂ ਹੈ। ਸਰਟੀਫਿਕੇਟ ਕੇਵਲ <a data-l10n-name="domain-mismatch-link"> ਲਈ ਦਰੁਸਤ ਹੈ।
+cert-error-domain-mismatch-single = ਵੈਬ ਸਾਈਟਾਂ ਆਪਣੀ ਪਛਾਣ ਸਰਟੀਫਿਕੇਟ ਰਾਹੀ ਸਾਬਤ ਕਰਦੀਆਂ ਹਨ। { -brand-short-name } ਇਸ ਸਾਈਟ ਤੇ ਭਰੋਸਾ ਨਹੀਂ ਕਰਦਾ ਕਿਉਂਕਿ ਇਹ ਉੁਹ ਸਰਟੀਫਿਕੇਟ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹੈ ਜੋ { $hostname } ਲਈ ਦਰੁਸਤ ਨਹੀਂ ਹੈ। ਸਰਟੀਫਿਕੇਟ ਕੇਵਲ <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a> ਲਈ ਦਰੁਸਤ ਹੈ।
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
