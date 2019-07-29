@@ -26,7 +26,7 @@
 <!ENTITY pref.default_event_length.accesskey "l">
 
 <!ENTITY pref.default_event_task_length.label "Standardlängd för händelser och uppgifter">
-<!ENTITY pref.default_event_task_length.accesskey "l">
+<!ENTITY pref.default_event_task_length.accesskey "h">
 
 <!ENTITY pref.default_task_none.label "Ingen">
 <!ENTITY pref.default_task_start_of_day.label "Början av dagen">
