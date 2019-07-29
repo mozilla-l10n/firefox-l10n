@@ -41,6 +41,7 @@ policy-EnableTrackingProtection = 開啟或關閉內容封鎖功能，並可選�
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = 安裝、移除或鎖定擴充套件。安裝選項可加入網址或路徑作為參數。移除和鎖定選項則需要擴充套件 ID 作為參數。
+policy-ExtensionSettings = 管理擴充套件安裝的各種方面。
 policy-ExtensionUpdate = 開啟或關閉擴充套件自動更新。
 policy-HardwareAcceleration = 若為 false，就會關閉硬體加速。
 policy-InstallAddonsPermission = 允許某些網站安裝附加元件。
