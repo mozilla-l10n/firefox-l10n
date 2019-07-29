@@ -122,3 +122,8 @@
 <!ENTITY manageCertificates.accesskey "R">
 <!ENTITY viewSecurityDevices.label "Dyfeisiau Diogelwch">
 <!ENTITY viewSecurityDevices.accesskey "D">
+
+<!ENTITY manageCertificates2.label "Rheoli Tystysgrifau…">
+<!ENTITY manageCertificates2.accesskey "R">
+<!ENTITY viewSecurityDevices2.label "Dyfeisiau Diogelwch…">
+<!ENTITY viewSecurityDevices2.accesskey "D">

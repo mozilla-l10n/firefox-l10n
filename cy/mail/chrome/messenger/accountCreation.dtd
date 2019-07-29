@@ -3,22 +3,29 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "Gosod Cyfrif E-bost Cyfredol">
+
+<!ENTITY emailWizard.title               "Gosod eich Cyfrif E-bost Cyfredol">
+<!ENTITY emailWizard.caption             "Defnyddiwch eich cyfeiriad e-bost cyfredol">
 <!ENTITY name.label                      "Eich enw:">
 <!ENTITY name.accesskey                  "E">
 <!ENTITY name.placeholder                "Cyntaf Olaf">
+<!ENTITY fullname.placeholder            "Eich enw llawn">
 <!ENTITY name.text                       "Eich enw fel mae'n cael ei ddangos i eraill">
+<!ENTITY name.error                      "Rhowch eich enw">
 <!ENTITY email.label                     "Cyfeiriad e-bost:">
 <!ENTITY email.accesskey                 "y">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "you@example.com">
+<!ENTITY email3.placeholder              "Eich cyfeiriad e-bost">
 <!ENTITY email.text                      "Eich cyfeiriad e-bost cyfredol">
+<!ENTITY email.error                     "Cyfeiriad e-bost annilys">
 <!ENTITY password.label                  "Cyfrinair:">
 <!ENTITY password.accesskey              "C">
 <!ENTITY password.placeholder            "Cyfrinair">
 <!ENTITY password.text                   "Dewisol, fydd ond yn cael ei ddefnyddio i ddilysu'r enw defnyddiwr">
+<!ENTITY password.toggle                 "Dangos/Cuddio cyfrinair">
 <!ENTITY rememberPassword.label          "Cofio'r cyfrinair">
 <!ENTITY rememberPassword.accesskey      "o">
-
 <!ENTITY usernameEx.label                "Eich mewngofnod:">
 <!ENTITY usernameEx.accesskey            "m">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
@@ -26,15 +33,21 @@
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 <!ENTITY usernameEx.text                 "Mewngofnod parth">
 
+<!ENTITY protocol.label                  "Protocol:">
 <!ENTITY imapLong.label                  "IMAP (ffolder pell)">
 <!ENTITY pop3Long.label                  "POP3 (cadw e-bost ar eich cyfrifiadur)">
 
 <!ENTITY incoming.label                  "Derbyn:">
+<!ENTITY incomingColumn.label            "Derbyn">
 <!ENTITY outgoing.label                  "Anfon:">
+<!ENTITY outgoingColumn.label            "Anfon">
 <!ENTITY username.label                  "Enw Defnyddiwr:">
 <!ENTITY hostname.label                  "Enw gwesteiwr gweinydd">
 <!ENTITY port.label                      "Porth">
 <!ENTITY ssl.label                       "SSL">
+<!ENTITY serverRow.label                 "Gweinydd:">
+<!ENTITY portRow.label                   "Porth:">
+<!ENTITY sslRow.label                    "SSL:">
 <!ENTITY auth.label                      "Dilysu">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
@@ -60,15 +73,21 @@
 <!ENTITY stop.label                      "Atal">
 <!ENTITY stop.accesskey                  "A">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Ail brofi">
 <!ENTITY half-manual-test.accesskey      "A">
 <!ENTITY manual-edit.label               "Ffurfweddu â llaw">
 <!ENTITY manual-edit.accesskey           "l">
+<!ENTITY manual-config.label             "Ffurfweddu â llaw…">
+<!ENTITY manual-config.accesskey         "F">
 <!ENTITY open-provisioner.label          "Cael cyfeiriad e-bost newydd…">
 <!ENTITY open-provisioner.accesskey      "c">
+
+
+<!ENTITY get-help.label                  "Derbyn Cymorth">
+<!ENTITY get-help.accesskey              "C">
 
 
 <!ENTITY warning.label                   "Rhybudd!">
