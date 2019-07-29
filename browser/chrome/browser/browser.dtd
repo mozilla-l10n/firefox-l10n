@@ -572,8 +572,8 @@
 <!ENTITY protections.etpOFF.header "La protezione antitracciamento avanzata è DISATTIVATA per questo sito">
 <!ENTITY protections.settings.label "Impostazioni protezione">
 <!ENTITY protections.report.label "Visualizza il rapporto completo">
-<!ENTITY protections.siteNotWorking.label "Sito non funzionante?">
-<!ENTITY protections.siteNotWorkingView.title "Sito non funzionante?">
+<!ENTITY protections.siteNotWorking.label "Il sito non funziona?">
+<!ENTITY protections.siteNotWorkingView.title "Sito non funzionante">
 <!ENTITY protections.siteNotWorkingView.header "Disattivare le protezioni se si riscontrano problemi con:">
 <!ENTITY protections.siteNotWorkingView.issueList.logInFields "Campi di accesso">
 <!ENTITY protections.siteNotWorkingView.issueList.forms "Moduli">
@@ -593,11 +593,11 @@
 <!ENTITY protections.fingerprinters.label "Fingerprinter">
 <!ENTITY protections.cryptominers.label "Cryptominer">
 <!ENTITY protections.noTrackersFound.description "Nessun elemento tracciante noto a &brandShortName; è stato rilevato in questa pagina.">
-<!ENTITY protections.crossSiteTrackingCookies.description "Questi cookie ti seguono da un sito all’altro per raccogliere informazioni su ciò che fai online. Sono impostati da elementi di terze parti come agenzie pubblicitarie e di analisi dati.">
+<!ENTITY protections.crossSiteTrackingCookies.description "Questi cookie ti seguono da un sito all’altro per raccogliere informazioni su ciò che fai online. Sono impostati da terze parti come agenzie pubblicitarie e di analisi dati.">
 <!ENTITY protections.cryptominers.description "I cryptominer utilizzano le risorse del sistema per effettuare il “mining” di valute digitali. Questi script consumano la batteria, rallentano il computer e possono aumentare il costo della bolletta elettrica.">
-<!ENTITY protections.fingerprinters.description "I fingerprinter raccolgono informazioni sulle impostazioni del browser e del computer per creare un tuo profilo. Utilizzando questa “impronta digitale” sono in grado di tracciarti attraverso siti diversi.">
+<!ENTITY protections.fingerprinters.description "I fingerprinter raccolgono informazioni sulle impostazioni del browser e del computer al fine di creare un tuo profilo. Utilizzando questa “impronta digitale” sono in grado di seguirti attraverso siti diversi.">
 <!ENTITY protections.trackingContent.description "I siti web possono caricare pubblicità, video e altri contenuti da fonti esterne che includono elementi traccianti. Il blocco degli elementi traccianti può velocizzare il caricamento dei siti, ma può causare il malfunzionamento di pulsanti, moduli e campi di accesso.">
-<!ENTITY protections.socialMediaTrackers.description "I social network impostano elementi traccianti in altri siti per scoprire cosa fai, leggi e guardi quando sei online. Questo permette ai social network di raccogliere molte più informazioni rispetto a quello che condividi nei tuoi profili online.">
+<!ENTITY protections.socialMediaTrackers.description "I social network impostano elementi traccianti in altri siti per scoprire cosa fai, leggi e guardi quando sei online. In questo modo sono in grado di raccogliere molte più informazioni rispetto a quello che condividi nei tuoi profili online.">
 <!ENTITY protections.manageProtectionSettings.label "Gestisci le impostazioni di protezione">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Apri preferenze per il blocco contenuti">
 <!ENTITY tabsToolbar.label "Schede del browser">
