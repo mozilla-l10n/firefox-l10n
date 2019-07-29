@@ -116,6 +116,8 @@ onboarding-lockwise-passwords-title = Nakaj da'nga' huì nikajt daran' hiuj u
 onboarding-lockwise-passwords-text2 = Dugumî nej da'nga' huì na'nïn sà't ni hìo doj gayi'ìt sesiûn riña nej si kuentàt ngà { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Girì' App nan
 onboarding-facebook-container-title = Ni'iaj dàj gaj ngà Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } nagi'ia ninïn si perfît ngà a'ngô sa huaa, ni 'ì huaj da' nagi'iaj Facebook man.
+onboarding-facebook-container-button = Nutà' Ekstensiûn
 
 ## Message strings belonging to the Return to AMO flow
 
@@ -126,3 +128,4 @@ return-to-amo-sub-header = 'Ngà nikajt { -brand-short-name }
 #   $addon-name (String) - Name of the add-on
 return-to-amo-addon-header = Hiaj ni da'ui' giri' <icon></icon><b>{ $addon-name }.</b> guendat
 return-to-amo-extension-button = Nuto' extensiôn
+return-to-amo-get-started-button = Gayi'ì ngà { -brand-short-name }
