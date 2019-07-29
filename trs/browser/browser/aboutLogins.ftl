@@ -70,3 +70,13 @@ login-item-time-used = Diû rukù garâj sunt man: { DATETIME($timeUsed, day: "n
 
 ## Master Password notification
 
+master-password-notification-message = Gachrun da'naga' huî nikajt ni ga'ue ni'iajt si yugui usuârio ni nej da'nga' huì na'nïn sà't
+master-password-reload-button =
+    .label = Gayi'ì sesiûn
+    .accesskey = L
+confirm-delete-dialog-title = ¿Nadurê't riña gayi'ìt sesión na anj?
+confirm-delete-dialog-message = Si ga'ue dure' sa 'ngà gahuin na.
+confirm-delete-dialog-dismiss-button =
+    .title = Duyichin'
+confirm-delete-dialog-cancel-button = Duyichin'
+confirm-delete-dialog-confirm-button = Dure'

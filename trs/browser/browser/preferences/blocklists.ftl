@@ -5,7 +5,7 @@
 blocklist-window =
     .title = Nej sa nitaj si gua ni'ninj
     .style = width: 55em
-blocklist-desc = Ga'ue nahuit ahuin si garasunt { -brand-short-name } da' duninkint nej dugui anin ruhuat naga'naj sô'.
+blocklist-description = Garasun nej yi'nïn' si nuguàn' { -brand-short-name } da' ga'ue naránt riña nej sa naga'naj sò' nga aché nunt. yi'nïn' si nuguàn' <a data-l10n-name="disconnect-link" title="Disconnect">Nitaj si 'iaj sun</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -24,7 +24,7 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
-blocklist-item-moz-std-name = Guxun' ma riña sa dugumi (sa hua hue'e)
-blocklist-item-moz-std-desc = Ga'nin' da' gàtu sa rugujñu'unj sitio web da' gi'iaj sun hue'é ma.
-blocklist-item-moz-full-name = Gahui' riña sa dugumin
-blocklist-item-moz-full-desc = Gàrun' riña sa nuni'in. Ga'ue si hua da'aj sitio web ni si gi'iaj sun hue'ej.
+blocklist-item-moz-std-listName = Yi'nïn' nuguan' naràn riña sa yi'ìi sa huin 1 (Dugunàj huaj)
+blocklist-item-moz-std-description = A'nïn gatu da'aj nej sa naga'naj sò' da' si gi'iaj yi'ìj nej man da'aj sîyio.
+blocklist-item-moz-full-listName = Yi'nïn' nuguan' narán riña sa yi'ìi sa huin 2.
+blocklist-item-moz-full-description = Naran riña daran' chre nej sa naga'naj nari'ij. Hua da'aj nej sîtio na'ue nayi'nïn hue'ê riña nej man.

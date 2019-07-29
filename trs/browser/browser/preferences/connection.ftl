@@ -70,16 +70,15 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Dugi'iaj sun DNS riña HTTPS
     .accesskey = H
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = URL da' nagi'io' DNS riña HTTPS
+connection-dns-over-https-url-resolver = Sa du'uej sa 'iaj sunt
+    .accesskey = P
 # Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = Sa 'na' niñaa ({ $url })
-    .accesskey = U
-    .tooltiptext = Garasun URL ngà hua niñaa da' nagi'iát DNS riña HTTPS
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (Sa ngà hua niñaa)
+    .tooltiptext = Garasun URL ngà hua niñaada' nagi'iát DNS ngà HTTPS
 connection-dns-over-https-url-custom =
     .label = Nagui'iaj mu'ûn'
     .accesskey = C
     .tooltiptext = Gachrun URL nihià' ruhuât da' nagi'iát DNS riña HTTPS
+connection-dns-over-https-custom-label = Nagui'iaj mu'ûn'
