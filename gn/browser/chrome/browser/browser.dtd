@@ -846,6 +846,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
 <!ENTITY protections.siteNotWorkingView.header "Eipe’a umi ñemo’ãha nemoapañuãiramo:">
 <!ENTITY protections.siteNotWorkingView.issueList.logInFields "Tembiapo ñepyrũ rekoha">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Myañyhẽha">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Jehepume'ẽ">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Je'erei">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Ta'ãngamýi">
 
 <!ENTITY protections.blocking.label "Ojokohína">
