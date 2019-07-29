@@ -126,6 +126,10 @@ newtab-section-menu-add-search-engine = Aggiungi motore di ricerca
 newtab-section-menu-move-up = Sposta su
 newtab-section-menu-move-down = Sposta giù
 newtab-section-menu-privacy-notice = Informativa sulla privacy
+newtab-section-collapse-section-label =
+    .aria-label = Comprimi sezione
+newtab-section-expand-section-label =
+    .aria-label = Espandi sezione
 
 ## Section Headers.
 
