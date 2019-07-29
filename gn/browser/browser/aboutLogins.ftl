@@ -33,9 +33,40 @@ login-list-count =
        *[other] { $count } Tembiapo ñepyrũ
     }
 login-list-sort-label-text = Omoĩporã:
+login-list-name-option = Téra  (A-Z)
+login-list-last-changed-option = Ñemoambue ipyahuvéva
+login-list-last-used-option = Ojepurúva ipahaitépe
+login-list-item-title-new-login = Tembiapo ñepyrũ pyahu
+login-list-item-subtitle-new-login = Emoinge nde reraite tembiapo ñepyrũme
+login-list-item-subtitle-missing-username = (puruhára hera'ỹva)
 
 ## Login
 
+login-item-new-login-title = Tembiapo ñepyrũ pyahu moheñói
+login-item-edit-button = Mbosako'i
+login-item-delete-button = Mboguete
+login-item-origin-label = Ñanduti kundaharape
+login-item-origin =
+    .placeholder = https://www.example.com
+login-item-open-site-button = Jepoi
+login-item-username-label = Puruhára réra
+login-item-username =
+    .placeholder = name@example.com
+login-item-copy-username-button-text = Monguatia
+login-item-copied-username-button-text = Monguatiapyre!
+login-item-password-label = Ñe'ẽñemi
+login-item-password-reveal-checkbox-show =
+    .title = Ñe'ẽñemi jehechauka
+login-item-password-reveal-checkbox-hide =
+    .title = Ñe'ẽñemi kañymby
+login-item-copy-password-button-text = Monguatia
+login-item-copied-password-button-text = Monguatiapyre!
+login-item-save-changes-button = Moambue ñongatu
+login-item-save-new-button = Ñongatu
+login-item-cancel-button = Heja
 
 ## Master Password notification
 
+master-password-reload-button =
+    .label = Tembiapo ñepyrũ
+    .accesskey = L
