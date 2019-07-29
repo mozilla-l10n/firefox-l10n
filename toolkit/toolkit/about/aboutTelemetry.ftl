@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = Ffynhonnell data ping:
 about-telemetry-show-current-ping-data = Data ping cyfredol
+about-telemetry-show-current-data = Data cyfredol
 about-telemetry-show-archived-ping-data = Data ping wedi ei archifo
 about-telemetry-show-subsession-data = Dangos data is-sesiwn
 about-telemetry-choose-ping = Dewis ping:
@@ -80,6 +81,7 @@ about-telemetry-settings-explanation = Mae telemetreg yn casglu { about-telemetr
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Mae pob darn o wybodaeth wedi ei anfon wedi ei becynnu i “<a data-l10n-name="ping-link">pingiau</a>”. Rydych yn edrych ar ping { $name }, { $timestamp }.
 about-telemetry-ping-details-current = Mae pob darn o wybodaeth wedi ei anfon wedi ei becynnu i “<a data-l10n-name="ping-link">pingiau</a>“. Rydych yn edrych ar ping cyfredol.
+about-telemetry-data-details-current = Mae pob darn o wybodaeth yn cael ei anfon wedi'i fwndelu i “<a data-l10n-name="ping-link">bingiadau</a>“. Rydych yn edrych ar y data cyfredol.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -106,6 +108,8 @@ about-telemetry-no-search-results-all = Ymddiheuriadau! Nid oes canlyniadau i un
 about-telemetry-no-data-to-display = Ymddiheuriadau! Nid oes data ar gael ar hyn o bryd yn “{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = ping cyfredol
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = data cyfredol
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = popeth
 # button label to copy the histogram

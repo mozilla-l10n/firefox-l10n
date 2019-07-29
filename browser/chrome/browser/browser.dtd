@@ -846,7 +846,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-<!ENTITY protections.siteNotWorkingView.header "Diffoddwch diogelu os rydych yn cael problemau gyda:">
+<!ENTITY protections.siteNotWorkingView.header "Diffoddwch ddiogelu os rydych yn cael problemau gyda:">
 <!ENTITY protections.siteNotWorkingView.issueList.logInFields "Meysydd mewngofnodi">
 <!ENTITY protections.siteNotWorkingView.issueList.forms "Ffurflenni">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Taliadau">
