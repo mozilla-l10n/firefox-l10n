@@ -70,3 +70,7 @@ login-item-cancel-button = Heja
 master-password-reload-button =
     .label = Tembiapo ñepyrũ
     .accesskey = L
+confirm-delete-dialog-dismiss-button =
+    .title = Heja
+confirm-delete-dialog-cancel-button = Heja
+confirm-delete-dialog-confirm-button = Mboguete
