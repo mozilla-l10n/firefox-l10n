@@ -865,8 +865,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Cynnwys Tracio">
 <!ENTITY protections.fingerprinters.label "Bysbrintwyr">
 <!ENTITY protections.cryptominers.label "Cryptogloddwyr">
+<!ENTITY protections.noTrackersFound.description "Dim tracwyr hysbys i &brandShortName; wedi eu canfod ar y dudalen hon.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Mae'r cwcis hyn yn eich dilyn o wefan i wefan i gasglu data am yr hyn rydych chi'n ei wneud ar-lein. Maen nhw'n cael eu gosod gan drydydd partïon fel hysbysebwyr a chwmnïau dadansoddol.">
+<!ENTITY protections.cryptominers.description "Mae cryptogloddwyr yn defnyddio pŵer cyfrifiadurol eich system i gloddio arian digidol. Mae sgriptiau cryptogloddio yn gwagio eich batri, arafu eich cyfrifiadur, a gall gynyddu eich bil trydan.">
+<!ENTITY protections.fingerprinters.description "Mae bysbrintwyr yn casglu gosodiadau o'ch porwr a'ch cyfrifiadur i greu proffil ohonoch. Gan ddefnyddio'r olion bys digidol hwn, mae nhw'n gallu'ch tracio ar draws gwahanol wefannau.">
+<!ENTITY protections.trackingContent.description "Gall gwefannau lwytho hysbysebion allanol, fideos a chynnwys eraill sy'n cynnwys cod tracio. Gall rhwystro cynnwys tracio helpu gwefannau i lwytho'n gynt, ond efallai na fydd rhai botymau, ffurflenni a meysydd mewngofnodi'n gweithio.">
+<!ENTITY protections.socialMediaTrackers.description "Mae rhwydweithiau cymdeithasol yn gosod tracwyr ar wefannau eraill i ddilyn yr hyn rydych chi'n ei wneud, ei weld, a'i wylio ar-lein. Mae hyn yn caniatáu i gwmnïau cyfryngau cymdeithasol ddysgu mwy amdanoch chi y tu hwnt i'r hyn rydych chi'n ei rannu ar eich proffiliau cyfryngau cymdeithasol.">
 
+<!ENTITY protections.manageProtectionSettings.label "Rheoli Gosodiadau Diogelu">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -922,8 +929,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Adrodd ar Broblemau">
 <!ENTITY contentBlocking.breakageReportView2.description "Gall rhwystro cynnwys achosi problemau gyda rai gwefannau. Pan fyddwch yn rhoi adroddiad ar broblemau, byddwch yn helpu gwneud &brandShortName; yn well i bawb. (Bydd hyn yn anfon yr URL yn ogystal â gwybodaeth am osodiadau eich porwr i Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Dysgu Rhagor">
+<!ENTITY contentBlocking.breakageReportView.title "Adrodd ar Wefan wedi Torri">
+<!ENTITY contentBlocking.breakageReportView3.description "Gall rhwystro cynnwys achosi problemau gyda rai gwefannau. Pan fyddwch yn cyflwyno adroddiad ar broblemau, byddwch yn helpu gwneud &brandShortName; yn well i bawb. (Bydd hyn yn anfon yr URL yn ogystal â gwybodaeth am osodiadau eich porwr i Mozilla.">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Dysgu rhagor">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Pa broblemau gawsoch chi? (Dewisol)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Dewisol: Disgrifiwch y broblem">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Anfon Adroddiad">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Diddymu">
 
