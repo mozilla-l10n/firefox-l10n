@@ -4,6 +4,8 @@
 
 do-not-track-description = Ga'nin' 'ngo nuguan'an riña nej sitio “Si naga'najt” da' si ganachij nej dudui' nuhuin si 'io'
 do-not-track-learn-more = Gahuin chrūn doj
+do-not-track-option-default-content-blocking-known =
+    .label = Mà ngà { -brand-short-name } hua yugui guendâ naran riña nej sa naga'naj hua yitïnj ïn
 do-not-track-option-always =
     .label = Nigànj chre
 pref-page =
@@ -27,6 +29,7 @@ search-input-box =
             [windows] Find in Options
            *[other] Find in Preferences
         }
+managed-notice = Yi'nïn' nikòt ni huej dugumi dàj 'iaj sun riña nana'uît nuguan'an.
 pane-general-title = Da'ua nguéj
 category-general =
     .tooltiptext = { pane-general-title }
@@ -39,6 +42,9 @@ category-search =
 pane-privacy-title = Sa huìi 'ngà sa hua ran
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = Sa nikaj ñu'ūnj { -brand-short-name }
 addons-button-label = Ekstensiûn ni Têma
 focus-search =
@@ -125,6 +131,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Nanikaj ñun' riña sesión 'ngà gachin
     .accesskey = s
+startup-restore-warn-on-quit =
+    .label = Gataj na'an gunïnt nga gahui riña nana'uî't nuguan'an
 disable-extension =
     .label = Duyichîn' extension
 tabs-group-header = Rakïj ñaj
@@ -266,6 +274,7 @@ update-application-check-choose =
 update-application-manual =
     .label = Si na'na'ui' sa nakà doj (Se sa hue'ê huin)
     .accesskey = S
+update-application-warning-cross-user-setting = Sa nagi'iát nan ni gi'iaj sun riña daran' si kuentâ Windows ni nej perfî { -brand-short-name } sisi garasunt sa ga'nïnt gu'nàj { -brand-short-name }.
 update-application-use-service =
     .label = Garasun' a'ngo servidor da' dugout' sa nakà doj
     .accesskey = b
@@ -276,6 +285,7 @@ update-pref-write-failure-title = Gire' sa âchrun
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Na'ue na'nïnj sà'aj sa ni'hiajt doj. Nu ga'ue gachrunj riña archibô: { $path }
+update-setting-write-failure-title = Gire' guendâ na'nïnj sà'aj nej sa nihià' doj uhuât nagi'iaj nakàt
 
 ## General Section - Performance
 

@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Na’nïnj sà’ sa nadunat
     .accesskey = s
+permissions-autoplay-menu = Sa ngà hua niña guendâ nej sîtio:
 permissions-searchbox =
     .placeholder = Nana'ui' sitio web
+permissions-capabilities-autoplay-allow =
+    .label = Ga'nïn sa gunïn' ngà sa ni'io'
+permissions-capabilities-autoplay-block =
+    .label = Narán riña sa unïn'
+permissions-capabilities-autoplay-blockall =
+    .label = Narán riña sa unïn' ngà sa ni'io'
 permissions-capabilities-allow =
     .label = Ga'nïn'
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = Ga'nïn'
 permissions-capabilities-listitem-block =
     .value = Garun'
-permissions-capabilities-listitem-allow-first-party =
-    .value = Ga'nïn' ma sa asinìin
 permissions-capabilities-listitem-allow-session =
     .value = Ga'nïn' riña sesiôn na
 
@@ -58,10 +63,6 @@ permissions-invalid-uri-label = Gi'iaj 'ngo sunnuj u ni, gachrun hue'e si direcc
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Se sa yakaj guendo' - Sa arán rastreo
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Nu nachrut sa arán da' si nari' nej dugui' so' riña sitio web na.
 permissions-exceptions-content-blocking-window =
     .title = Sa si gi'iaj guendô' - Sa narán riña sa màn
     .style = { permissions-window.style }
@@ -101,6 +102,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Sā taj a - Gayi'ì ma'an ma
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Ga'ue gatajt ahuin sitio ga'ue nī sa si ga'ue nachrun ma'ān sa gini'io' 'ngà sa guni'. Gachrun si direksion sitio dan nī ne' rukù ga'ui't riña taj si ga'nïn' nej si riña taj ga'nïn'.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Nej sa ga'ue nagi'iát - Sa nanûn man'an
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Ga'ue nagi'iát nej sitiô nitaj si nikaj ni'ñanj ngà sa nanûn man'an hiuj nan.
 
 ## Site Permissions - Notifications
 
