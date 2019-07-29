@@ -290,7 +290,10 @@ update-setting-write-failure-title = Gire' guendâ na'nïnj sà'aj nej sa nihià
 #   $path (String) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
-update-setting-write-failure-message = { -brand-short-name } nari'ij 'ngo sa hua a'nan'an ni ni na'nïnj sà'aj sa nadunât. Ginu ruhuâ sisi dunâjt nej sa nihià' ruhuât nagi'iaj nakàt ni da'uît gachìnj ni'iát da' gachrunt riña archibô 'na' nan. Ga'ue si sò asi sû' nikaj ñu'unj sistêma ga'ue nagi'iaj sa gire' e sani da'uît dunaj daran'anj riña nej Usuârio archibô nan.
+update-setting-write-failure-message =
+    { -brand-short-name } nari'ij 'ngo sa hua a'nan'an ni ni na'nïnj sà'aj sa nadunât. Ginu ruhuâ sisi dunâjt nej sa nihià' ruhuât nagi'iaj nakàt ni da'uît gachìnj ni'iát da' gachrunt riña archibô 'na' nan. Ga'ue si sò asi sû' nikaj ñu'unj sistêma ga'ue nagi'iaj sa gire' e sani da'uît dunaj daran'anj riña nej Usuârio archibô nan.
+    
+    Nu ga'ue gachrunj riña archibô: { $path }
 update-in-progress-title = Hiaj nahuin nakà man
 update-in-progress-message = Huin ruhuât sisi { -brand-short-name } ginùn huin ngà sa ngi'iaj nakà nan anj?
 update-in-progress-ok-button = &Discard
