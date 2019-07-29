@@ -4,6 +4,8 @@
 
 do-not-track-description = Magpadala ng mga website ng signal na ”Huwag Subaybayan” na hindi mo gustong masubaybayan
 do-not-track-learn-more = Matuto ng higit pa
+do-not-track-option-default-content-blocking-known =
+    .label = Payagan lang kung ang { -brand-short-name } ay naka-set na mag-block ng mga kilalang trackers.
 do-not-track-option-always =
     .label = Palagi
 pref-page =
@@ -331,6 +333,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Magrekomenda ng mga extension habang nagba-browse ka
     .accesskey = R
+browsing-cfr-features =
+    .label = Magrekomenda ng mga feature habang nagba-browse
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = Alamin pa
 
 ## General Section - Proxy
@@ -706,6 +711,7 @@ content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
 content-blocking-warning-title = Mag-ingat!
 content-blocking-learn-how = Alamin kung papaano
+content-blocking-reload-description = Kailangan mong i-reload ang iyong tabs upang makita ang mga pagbabago.
 content-blocking-reload-tabs-button =
     .label = I-reload ang lahat ng mga tab
     .accesskey = R
