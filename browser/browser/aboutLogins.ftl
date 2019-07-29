@@ -38,16 +38,45 @@ login-list-last-changed-option = Última modificação
 login-list-last-used-option = Última utilização
 login-list-item-title-new-login = Nova credencial
 login-list-item-subtitle-new-login = Introduza as suas credenciais
+login-list-item-subtitle-missing-username = (sem nome de utilizador)
 
 ## Login
 
 login-item-new-login-title = Criar nova credencial
 login-item-edit-button = Editar
 login-item-delete-button = Apagar
+login-item-origin-label = Endereço do website
 login-item-origin =
     .placeholder = https://www.exemplo.com
 login-item-open-site-button = Iniciar
 login-item-username-label = Nome de utilizador
+login-item-username =
+    .placeholder = nome@exemplo.com
+login-item-copy-username-button-text = Copiar
+login-item-copied-username-button-text = Copiado!
+login-item-password-label = Palavra-passe
+login-item-password-reveal-checkbox-show =
+    .title = Mostrar palavra-passe
+login-item-password-reveal-checkbox-hide =
+    .title = Ocultar palavra-passe
+login-item-copy-password-button-text = Copiar
+login-item-copied-password-button-text = Copiada!
+login-item-save-changes-button = Guardar alterações
+login-item-save-new-button = Guardar
+login-item-cancel-button = Cancelar
+login-item-time-changed = Última modificação: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Criada: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Última utilização: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
+master-password-notification-message = Por favor introduza a sua palavra-passe mestra para ver credenciais e palavras-passe guardadas
+master-password-reload-button =
+    .label = Iniciar sessão
+    .accesskey = I
+confirm-delete-dialog-title = Apagar esta credencial?
+confirm-delete-dialog-message = Esta ação não pode ser desfeita.
+confirm-delete-dialog-dismiss-button =
+    .title = Cancelar
+confirm-delete-dialog-cancel-button = Cancelar
+confirm-delete-dialog-confirm-button = Apagar
