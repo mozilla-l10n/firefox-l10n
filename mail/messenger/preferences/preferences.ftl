@@ -2,6 +2,34 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+pane-general-title = Allmänt
+category-general =
+    .tooltiptext = { pane-general-title }
+general-language-and-appearance-header = Språk & utseende
+general-incoming-mail-header = Inkommande e-post
+general-files-and-attachment-header = Filer & bilagor
+general-tags-header = Etiketter
+general-reading-and-display-header = Läsa & visning
+general-updates-header = Uppdateringar
+general-network-and-diskspace-header = Nätverk & diskutrymme
+general-indexing-label = Indexering
+composition-category-header = Skriva meddelande
+composition-attachments-header = Bilagor
+composition-spelling-title = Stavning
+compose-html-style-title = HTML-stil
+composition-addressing-header = Adressering
+privacy-main-header = Sekretess
+privacy-passwords-header = Lösenord
+privacy-junk-header = Skräp
+privacy-data-collection-header = Datainsamling och användning
+privacy-security-header = Säkerhet
+privacy-scam-detection-title = Bluffdetektering
+privacy-anti-virus-title = Antivirus
+privacy-certificates-title = Certifikat
+chat-pane-header = Chatt
+chat-status-title = Status
+chat-notifications-title = Aviseringar
+chat-pane-styling-header = Formatering
 choose-messenger-language-description = Välj språk som används för att visa menyer, meddelanden och aviseringar från { -brand-short-name }.
 manage-messenger-languages-button =
     .label = Ange alternativ...

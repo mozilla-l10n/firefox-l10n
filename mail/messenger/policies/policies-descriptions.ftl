@@ -41,6 +41,7 @@ policy-EnableTrackingProtection = Aktivera eller inaktivera innehållsblockering
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Installera, avinstallera eller låsa tillägg. Installeringsalternativet tar webbadresser eller sökvägar som parametrar. Alternativen avinstallera och låst tar tilläggs-ID.
+policy-ExtensionSettings = Hantera alla aspekter av tilläggsinstallation.
 policy-ExtensionUpdate = Aktivera eller inaktivera automatiska tilläggsuppdateringar.
 policy-HardwareAcceleration = Om falsk, stängs hårdvaruacceleration av.
 policy-InstallAddonsPermission = Tillåt vissa webbplatser att installera tillägg.

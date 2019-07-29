@@ -19,6 +19,7 @@
 <!ENTITY paneAttachments.title    "Bilagor">
 <!ENTITY panePrivacy.title        "Sekretess">
 <!ENTITY paneSecurity.title       "Säkerhet">
+<!ENTITY panePrivacySecurity.title "Sekretess &amp; säkerhet">
 <!ENTITY paneLightning.title      "Kalender">
 <!ENTITY paneAdvanced.title       "Avancerat">
 <!ENTITY paneAccount.title        "Konton">
