@@ -18,9 +18,54 @@ menu-menuitem-download-iphone = Lockwise for iPhone og iPad
 
 ## Login List
 
+login-list-count =
+    { $count ->
+        [one] { $count } innlogging
+       *[other] { $count } innloggingar
+    }
+login-list-sort-label-text = Sorter etter:
+login-list-name-option = Namn (A-Å)
+login-list-last-changed-option = Sist endra
+login-list-last-used-option = Sist brukt
+login-list-item-title-new-login = Ny innlogging
+login-list-item-subtitle-new-login = Skriv inn innloggingsopplysningar
+login-list-item-subtitle-missing-username = (ikkje noko brukarnamn)
 
 ## Login
 
+login-item-new-login-title = Lag ny innlogging
+login-item-edit-button = Rediger
+login-item-delete-button = Slett
+login-item-origin =
+    .placeholder = https://www.example.com
+login-item-username-label = Brukarnamn
+login-item-username =
+    .placeholder = name@example.com
+login-item-copy-username-button-text = Kopier
+login-item-copied-username-button-text = Kopiert!
+login-item-password-label = Passord
+login-item-password-reveal-checkbox-show =
+    .title = Vis passord
+login-item-password-reveal-checkbox-hide =
+    .title = Gøym passord
+login-item-copy-password-button-text = Kopier
+login-item-copied-password-button-text = Kopiert!
+login-item-save-changes-button = Lagre endringar
+login-item-save-new-button = Lagre
+login-item-cancel-button = Avbryt
+login-item-time-changed = Sist endra: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Oppretta: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Sist brukt: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
+master-password-notification-message = Skriv inn hovudpassordet ditt for å vise lagra innloggingar og passord
+master-password-reload-button =
+    .label = Logg inn
+    .accesskey = L
+confirm-delete-dialog-title = Slette denne innlogginga?
+confirm-delete-dialog-message = Denne handlinga kan ikkje angrast.
+confirm-delete-dialog-dismiss-button =
+    .title = Avbryt
+confirm-delete-dialog-cancel-button = Avbryt
+confirm-delete-dialog-confirm-button = Slett
