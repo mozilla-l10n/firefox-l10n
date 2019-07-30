@@ -855,10 +855,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Stránka nefunguje ani po vypnutí ochrany proti sledování?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Poslat hlášení">
 
+<!ENTITY protections.blocking.label "Blokováno">
+<!ENTITY protections.notBlocking.label "Neblokováno">
 <!ENTITY protections.notBlocking.why.label "Proč?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Blokování těchto prvků může ovlivnit fungování webové stránky. Bez sledovacích prvků nemusí některá tlačítka nebo formuláře správně fungovat.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Vypnutí ochrany povolí načtení všech sledovacích prvků na této stránce. Může to vyřešit případné problémy s jejím fungováním.">
+<!ENTITY protections.socialMediaTrackers.label "Sledovací prvky sociálních sítí">
+<!ENTITY protections.crossSiteTrackingCookies.label "Sledovací cookies">
+<!ENTITY protections.trackingContent.label "Sledující obsah">
+<!ENTITY protections.fingerprinters.label "Vytváření otisku prohlížeče">
+<!ENTITY protections.cryptominers.label "Těžba kryptoměn">
 <!ENTITY protections.noTrackersFound.description "Na této stránce nebyly nalezené žádné sledovací prvky, které &brandShortName; zná.">
 
 
+<!ENTITY protections.manageProtectionSettings.label "Nastavení ochrany">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -918,6 +928,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Zjistit více">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Jaké problémy pozorujete? (nepovinné)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Popis problému (nepovinné)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Odeslat hlášení">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Zrušit">
 
