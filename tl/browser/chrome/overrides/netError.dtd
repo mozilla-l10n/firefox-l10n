@@ -23,6 +23,12 @@
 <!ENTITY dnsNotFound.pageTitle "Hindi matagpuan ang server">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "Hmm. Nagkakaproblema kami sa paghahanap ng site na iyon.">
+<!ENTITY dnsNotFound.longDesc1 "<strong>Kung tama ang address, ito pa ang tatlong bagay na maaari mong gawin:</strong>
+<ul>
+  <li>Subukan mo uli maya-maya.</li>
+  <li>I-check mo ang iyong network connection.</li>
+  <li>Kung nakakonekta ka pero nasa likod ng firewall, i-check mo na may permiso ang &brandShortName; para ma-access ang Web.</li>
+</ul>">
 
 <!ENTITY fileNotFound.title "Hindi makita ang file">
 <!ENTITY fileNotFound.longDesc "<ul><li>Suriin ang file name kung may capitalization o anumang mali sa pagkasulat.</li><li>Suriin kung ang file ay nalipat, nabago ang pangalan, o nabura.</li></ul>">
