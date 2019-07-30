@@ -48,7 +48,7 @@
 <!ENTITY forwardButton.label          "Vpřed">
 <!ENTITY forwardButton.tooltip        "Přejde na následující stránku">
 <!ENTITY reloadButton.label           "Obnovit">
-<!ENTITY reloadButton.tooltip         "Aktualizuje načtenou stránku">
+<!ENTITY reloadButton.tooltip         "Obnoví načtenou stránku">
 <!ENTITY stopButton.label             "Zastavit">
 <!ENTITY stopButton.tooltip           "Zastaví načítání stránky">
 <!ENTITY searchButton.label           "Hledat">
