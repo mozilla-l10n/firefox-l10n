@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "Eksistowace e-mejlowe konto konfigurować">
+
 <!ENTITY name.label                      "Waše mjeno:">
 <!ENTITY name.accesskey                  "m">
 <!ENTITY name.placeholder                "Předmjeno Swójbne mjeno">
@@ -12,13 +13,13 @@
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "wy@example.com">
 <!ENTITY email.text                      "Waša eksistowaca e-mejlowa adresa">
+<!ENTITY email.error                     "Njepłaćiwa e-mejlowa adsresa">
 <!ENTITY password.label                  "Hesło:">
 <!ENTITY password.accesskey              "H">
 <!ENTITY password.placeholder            "Hesło">
 <!ENTITY password.text                   "Opcionalny, budźe so jenož wužiwac, zo by wužiwarske mjeno přepruwowało">
 <!ENTITY rememberPassword.label          "Hesło składować">
 <!ENTITY rememberPassword.accesskey      "s">
-
 <!ENTITY usernameEx.label                "Waše přizjewjenje:">
 <!ENTITY usernameEx.accesskey            "z">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
@@ -60,7 +61,7 @@
 <!ENTITY stop.label                      "Stój">
 <!ENTITY stop.accesskey                  "S">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Znowa testować">
@@ -69,6 +70,8 @@
 <!ENTITY manual-edit.accesskey           "M">
 <!ENTITY open-provisioner.label          "Wobstarajće sej nowu e-mejlowu adresu…">
 <!ENTITY open-provisioner.accesskey      "s">
+
+
 
 
 <!ENTITY warning.label                   "Warnowanje!">
