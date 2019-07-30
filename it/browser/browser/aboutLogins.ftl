@@ -79,3 +79,8 @@ confirm-delete-dialog-dismiss-button =
   .title = Annulla
 confirm-delete-dialog-cancel-button = Annulla
 confirm-delete-dialog-confirm-button = Elimina
+
+## Breach Alert notification
+
+breach-alert-text = Dall’ultima volta in cui hai aggiornato questa credenziale, le password di questo sito web sono state rubate o diffuse pubblicamente. Modifica la tua password per proteggere questo account.
+breach-alert-link = Ulteriori informazioni su questa violazione.
