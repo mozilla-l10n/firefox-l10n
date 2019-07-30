@@ -10,7 +10,10 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = ऐसी नीतियां बनाएं, जिससे WebExtensions chrome.storage.managed के द्वारा पहुँच सके।
 policy-AppUpdateURL = मनपसंद ऐप अपडेट URL सेट करें।
+policy-Authentication = जो वेबसाइटें इसका समर्थन करती हैं उनके लिए एकीकृत प्रमाणीकरण विन्यस्त करें।
+policy-BlockAboutAddons = ऐड-ऑन प्रबंधक तक पहुँच को ब्लॉक करें (परिचय: ऐड-ऑन)।
 policy-CertificatesDescription = प्रमाण पत्र जोड़ें या निर्मित प्रमाण पत्र का उपयोग करें।
 policy-Cookies = कुकीज़ स्थापित करने के लिए वेबसाइटों को अनुमति दें या इनकार करें.
 policy-DefaultDownloadDirectory = डिफ़ॉल्ट डाउनलोड निर्देशिका सेट करें।
@@ -21,6 +24,7 @@ policy-DisableFirefoxScreenshots = Firefox स्क्रीनशॉट सु
 policy-DisableMasterPasswordCreation = यदि सही है, तो एक मास्टर पासवर्ड नहीं बनाया जा सकता है.
 policy-DisablePocket = वेबपृष्ठों को Pocket में सहेजने के लिए सुविधा को अक्षम करें।
 policy-DisablePrivateBrowsing = निजी ब्राउजिंग अक्षम करें।
+policy-DisableSystemAddonUpdate = सिस्टम ऐड-ऑन को इंस्टॉल करने और अपडेट करने से ब्राउज़र को रोकें।
 policy-DisableTelemetry = Telemetry बंद करें।
 policy-DisplayBookmarksToolbar = डिफ़ॉल्ट रूप से बुकमार्क टूलबार प्रदर्शित करें।
 policy-DisplayMenuBar = डिफ़ॉल्ट रूप से मेनू बार प्रदर्शित करें।

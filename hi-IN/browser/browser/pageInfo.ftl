@@ -147,6 +147,36 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = तयशुदा का प्रयो‌‌‌ग करें
 security-no-visits = नहीं‌
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] मेटा (1 टैग)
+           *[other] मेटा ({ $tags } टैग्स)
+        }
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] नहीं
+        [one] हाँ, एक बार
+       *[other] हाँ, { $visits } बार
+    }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } KB ({ $bytes } byte)
+           *[other] { $kb } KB ({ $bytes } bytes)
+        }
 # This string is used to display the type of
 # an image
 # Variables:

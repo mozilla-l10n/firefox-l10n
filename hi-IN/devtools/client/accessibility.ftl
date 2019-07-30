@@ -9,6 +9,8 @@ accessibility-learn-more = अधिक जानें
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
+accessibility-warning =
+    .alt = चेतावनी
 accessibility-fail =
     .alt = त्रुटि
 

@@ -8,5 +8,6 @@
 -->
 
 <!ENTITY window.title "महत्वपूर्ण समाचार">
+<!ENTITY window.style "width: 490px">
 <!ENTITY continue-button "जारी रखें">
 
