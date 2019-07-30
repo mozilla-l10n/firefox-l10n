@@ -862,7 +862,7 @@ collection-backlogged-crash-reports-link = Dalše informacije
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Wěstota
-security-browsing-protection = Škit před wobšudnym wobsahom a stražnej softwaru
+security-browsing-protection = Škit před wobšudnym wobsahom a strašnej softwaru
 security-enable-safe-browsing =
     .label = Strašny a wobšudny wobsah blokować
     .accesskey = S
