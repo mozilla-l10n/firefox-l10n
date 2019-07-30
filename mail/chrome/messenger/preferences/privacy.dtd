@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Mail Content -->
 
+<!-- Mail Content -->
 <!ENTITY captionMailContent.label "Cynnwys E-bost">
 
 <!ENTITY acceptRemoteContent.label "Caniatáu cynnwys pell o fewn negeseuon">
@@ -10,8 +10,8 @@
 <!ENTITY remoteContentExceptions.label "Eithriadau…">
 <!ENTITY remoteContentExceptions.accesskey "E">
 <!ENTITY acceptRemoteContentInfo.label "Dysgu rhagor am faterion preifatrwydd cynnwys pell">
-<!-- Web Content -->
 
+<!-- Web Content -->
 <!ENTITY captionWebContent.label "Cynnwys Gwe">
 
 <!ENTITY keepHistory.label "Cofio gwefannau a dolenni rwyf wedi ymweld â nhw">
@@ -36,3 +36,7 @@
 <!ENTITY dntTrackingNotOkay.label2 "Dweud wrth wefannau nad wyf am gael fy nilyn">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
 <!ENTITY doNotTrackInfo.label "Dysgu rhagor am Peidiwch Tracio">
+
+<!ENTITY doNotTrackCheck.label "Anfon neges “Dim Tracio” at wefannau nad ydych am gael eich tracio">
+<!ENTITY doNotTrackCheck.accesskey "D">
+<!ENTITY doNotTrackLearnMore.label "Dysgu rhagor">

@@ -2,6 +2,34 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+pane-general-title = Cyffredinol
+category-general =
+    .tooltiptext = { pane-general-title }
+general-language-and-appearance-header = Iaith a Gwedd
+general-incoming-mail-header = Derbyn E-byst
+general-files-and-attachment-header = Ffeiliau ac Atodiadau
+general-tags-header = Tagiau
+general-reading-and-display-header = Darllen a Dangos
+general-updates-header = Diweddariadau
+general-network-and-diskspace-header = Rhwydwaith a Lle ar Ddisg
+general-indexing-label = Mynegeio
+composition-category-header = Ysgrifennu
+composition-attachments-header = Atodiadau
+composition-spelling-title = Sillafu
+compose-html-style-title = Arddull HTML
+composition-addressing-header = Cyfeirio
+privacy-main-header = Preifatrwydd
+privacy-passwords-header = Cyfrineiriau
+privacy-junk-header = Sbam
+privacy-data-collection-header = Casglu a Defnydd Data
+privacy-security-header = Diogelwch
+privacy-scam-detection-title = Canfod Twyll
+privacy-anti-virus-title = Gwrth Firws
+privacy-certificates-title = Tystysgrifau
+chat-pane-header = Sgwrsio
+chat-status-title = Statws
+chat-notifications-title = Hysbysiadau
+chat-pane-styling-header = Steilio
 choose-messenger-language-description = Dewis yr ieithoedd sy'n cael ei defnyddio i ddangos dewislenni, negeseuon, a hysbysiadau gan { -brand-short-name }
 manage-messenger-languages-button =
     .label = Gosod Rhai Eraill...
