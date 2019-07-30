@@ -29,7 +29,9 @@
 
 <!ENTITY fillLoginMenu.label          "Emonyhẽ jeikeha">
 <!ENTITY fillLoginMenu.accesskey      "F">
+<!ENTITY fillSuggestedPassword.label  "Eipuru ñe’ẽñemi je’epyre">
 <!ENTITY fillSuggestedPassword.accesskey "S">
+<!ENTITY fillGeneratedPassword.label  "Eipuru ñe’ẽñemi hekorosãva">
 <!ENTITY fillGeneratedPassword.accesskey "S">
 <!ENTITY fillPasswordMenu.label       "Emyenyhẽ ñe'ẽñemi">
 <!ENTITY fillPasswordMenu.accesskey   "F">

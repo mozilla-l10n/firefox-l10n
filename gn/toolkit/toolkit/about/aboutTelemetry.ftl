@@ -77,6 +77,7 @@ about-telemetry-settings-explanation = Telemetría ombyaty hína { about-telemet
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Marandu peteĩteĩva oñemondo “<a data-l10n-name="ping-link">Turuñe'ẽ</a>”-pe. Ehecha hína { $name }, { $timestamp } turuñe'ẽ.
 about-telemetry-ping-details-current = Marandu peteĩteĩva oñemondo “<a data-l10n-name="ping-link">Turuñe'ẽ</a>“-pe. Ehecha hína ag̃agua turuñe'ẽ.
+about-telemetry-data-details-current = Marandu peteĩteĩva oñemondo “<a data-l10n-name="ping-link">“-pe. Ojehecha mba’ekuaarã ag̃agua.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
