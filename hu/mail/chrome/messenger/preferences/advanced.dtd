@@ -122,3 +122,8 @@
 <!ENTITY manageCertificates.accesskey "T">
 <!ENTITY viewSecurityDevices.label "Adatvédelmi eszközök">
 <!ENTITY viewSecurityDevices.accesskey "d">
+
+<!ENTITY manageCertificates2.label "Tanúsítványok kezelése…">
+<!ENTITY manageCertificates2.accesskey "T">
+<!ENTITY viewSecurityDevices2.label "Biztonsági eszközök…">
+<!ENTITY viewSecurityDevices2.accesskey "B">

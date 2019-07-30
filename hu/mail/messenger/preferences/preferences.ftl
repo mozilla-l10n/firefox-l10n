@@ -2,6 +2,20 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+pane-general-title = Általános
+category-general =
+    .tooltiptext = { pane-general-title }
+general-language-and-appearance-header = Nyelv és megjelenés
+general-incoming-mail-header = Bejövő levelek
+general-files-and-attachment-header = Fájlok és mellékletek
+general-tags-header = Címkék
+general-reading-and-display-header = Olvasás és megjelenítés
+general-updates-header = Frissítések
+general-network-and-diskspace-header = Hálózat és lemezterület
+general-indexing-label = Indexelés
+composition-category-header = Szerkesztés
+composition-attachments-header = Mellékletek
+composition-spelling-title = Helyesírás
 choose-messenger-language-description = Válassza ki a { -brand-short-name } menüijeinek, üzeneteinek és értesítéseinek megjelenítési nyelvét
 manage-messenger-languages-button =
     .label = Alternatívák beállítása…
