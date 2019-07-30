@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = Adatforrás pingelése:
 about-telemetry-show-current-ping-data = Aktuális ping adatok
+about-telemetry-show-current-data = Jelenlegi adatok
 about-telemetry-show-archived-ping-data = Archivált ping adatok
 about-telemetry-show-subsession-data = Almunkamenet adatainak megjelenítése
 about-telemetry-choose-ping = Válasszon pinget:
@@ -102,6 +103,8 @@ about-telemetry-no-search-results-all = Elnézést, egyik szakaszban nincs talá
 about-telemetry-no-data-to-display = Elnézést, jelenleg nincs elérhető adat itt: „{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = jelenlegi ping
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = jelenlegi adatok
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = összes
 # button label to copy the histogram
