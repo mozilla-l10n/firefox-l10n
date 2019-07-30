@@ -860,6 +860,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.notBlocking.why.label "Čehodla?">
 
 
+<!ENTITY protections.manageProtectionSettings.label "Škitowe nastajenja rjadować">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -915,8 +916,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Problemy zdźělić">
 <!ENTITY contentBlocking.breakageReportView2.description "Blokowanje wobsaha móže probleme z někotrymi websydłami zawinować. Hdyž problemy zdźěliće, pomhaće &brandShortName; za kóždeho polěpšić. (Pósćele so Mozilla URL a informacije wo wašich nastajenjach wobhladowaka.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Dalše informacije">
+<!ENTITY contentBlocking.breakageReportView.title "Wobškodźene sydło zdźělić">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Dalše informacije">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Kotre problemy sće měł? (na přeće)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Na přěće: Problem wopisać">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Rozprawu pósłać">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Přetorhnyć">
 
