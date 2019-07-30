@@ -3,10 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "Meglévő e-mail fiók beállítása">
+
+<!ENTITY emailWizard.title               "Meglévő e-mail fiókja beállítása">
+<!ENTITY emailWizard.caption             "A jelenlegi e-mail címének használata">
 <!ENTITY name.label                      "Név:">
 <!ENTITY name.accesskey                  "N">
 <!ENTITY name.placeholder                "Utónév, vezetéknév">
+<!ENTITY fullname.placeholder            "A teljes neve">
 <!ENTITY name.text                       "Így fog megjelenni a neve">
+<!ENTITY name.error                      "Adja meg a nevét">
 <!ENTITY email.label                     "E-mail cím:">
 <!ENTITY email.accesskey                 "l">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
@@ -18,7 +23,6 @@
 <!ENTITY password.text                   "Nem kötelező, csak a felhasználónév érvényesítésére lesz használva">
 <!ENTITY rememberPassword.label          "Jelszó megjegyzése">
 <!ENTITY rememberPassword.accesskey      "m">
-
 <!ENTITY usernameEx.label                "A bejelentkezési neve:">
 <!ENTITY usernameEx.accesskey            "b">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
@@ -60,7 +64,7 @@
 <!ENTITY stop.label                      "Leállítás">
 <!ENTITY stop.accesskey                  "L">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Újratesztelés">
@@ -69,6 +73,8 @@
 <!ENTITY manual-edit.accesskey           "K">
 <!ENTITY open-provisioner.label          "Új e-mail cím regisztrációja…">
 <!ENTITY open-provisioner.accesskey      "j">
+
+
 
 
 <!ENTITY warning.label                   "Vigyázat!">
