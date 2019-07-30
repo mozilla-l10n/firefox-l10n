@@ -76,6 +76,7 @@ about-telemetry-settings-explanation = 遥测正在收集{ about-telemetry-data-
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = 每组信息都将集合在“<a data-l10n-name="ping-link">ping</a>”中送出。您正在查看 { $name }, { $timestamp } 的 ping。
 about-telemetry-ping-details-current = 每组信息都将集合在“<a data-l10n-name="ping-link">ping</a>”中送出。您正在查看 当前 的 ping。
+about-telemetry-data-details-current = 每组信息都被打包发送到“<a data-l10n-name="ping-link">pings</a>”，您正在查看的是当前数据。
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
