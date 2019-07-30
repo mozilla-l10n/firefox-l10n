@@ -28,8 +28,8 @@ restore-page-close-button =
 
 ## The following strings are used in about:welcomeback
 
-welcome-back-tab-title = کامیابی!
-welcome-back-page-title = کامیابی!
+welcome-back-tab-title = کامیاب!
+welcome-back-page-title = کامیاب!
 welcome-back-page-info = { -brand-short-name } چلنے کے لیے تیار ہے۔
 welcome-back-restore-button =
     .label = چلو!
