@@ -41,6 +41,7 @@ policy-EnableTrackingProtection = Galluogi neu analluogi Rhwystro Cynnwys ac o d
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Gosod, dadosod neu gloi estyniadau. Mae'r dewis gosod yn cymryd URL neu lwybrau fel paramedrau. Mae'r dewisiadau Dadosod a Chloi yn cymryd dynodiad estyniadau.
+policy-ExtensionSettings = Rheoli pob agwedd ar osod estyniad.
 policy-ExtensionUpdate = Galluogi neu analluogi diweddariadau awtomatig estyniad.
 policy-HardwareAcceleration = Os false, diffoddwch gyflymder y caledwedd.
 policy-InstallAddonsPermission = Caniatáu i wefannau penodol osod ychwanegion.
