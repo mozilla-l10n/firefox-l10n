@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = Ping mba'ekuaarã reñoiha:
 about-telemetry-show-current-ping-data = Ping mba'ekuaarã ag̃aguáva
+about-telemetry-show-current-data = Mba'ekuaarã ag̃agua
 about-telemetry-show-archived-ping-data = Ping mba'ekuaarã ñongatupyre
 about-telemetry-show-subsession-data = Tembiapo'ive mba'ekuaarã jehchauka
 about-telemetry-choose-ping = Ping jeporavo:
@@ -102,6 +103,8 @@ about-telemetry-no-search-results-all = ¡Rombyasy! Ndojejuhúi apopyre mamovete
 about-telemetry-no-data-to-display = ¡Rombyasy! Ndaipói mba'ekuaarã ojepurukuaáva ko'ag̃aite “{ $sectionName }” pe
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = Ping ag̃agua
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = mba'ekuaarã ag̃agua
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = opavave
 # button label to copy the histogram
