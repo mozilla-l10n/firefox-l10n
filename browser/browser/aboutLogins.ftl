@@ -25,6 +25,8 @@ menu-menuitem-download-iphone = iPhone আৰু iPad-ৰ বাবে Lockwise
 
 ## Login List
 
+login-list =
+    .aria-label = সন্ধান কুৱেৰীৰ সৈতে মিলা লগইনবোৰ
 login-list-count =
     { $count ->
         [one] { $count }টা লগইন
@@ -59,7 +61,22 @@ login-item-password-reveal-checkbox-hide =
     .title = পাছৱৰ্ড লুকুৱাওক
 login-item-copy-password-button-text = কপি কৰক
 login-item-copied-password-button-text = কপি কৰা হল!
+login-item-save-changes-button = সাল-সলনি সঞ্চয়
+login-item-save-new-button = সঞ্চয়
+login-item-cancel-button = বাতিল
+login-item-time-changed = শেষবাৰ সলনি হৈছিল: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = সৃষ্টি কৰা হৈছিল: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = শেষবাৰ ব্যৱহৃত: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
+master-password-notification-message = সঞ্চিত লগইন আৰু পাছৱৰ্ডবোৰ চাবলৈ অনুগ্ৰহ কৰি আপোনাৰ প্ৰমুখ পাছৱৰ্ড প্ৰবিষ্ট কৰক
+master-password-reload-button =
+    .label = লগ ইন
+    .accesskey = ল
+confirm-delete-dialog-title = এই লগইন বিলোপ কৰিবনে?
+confirm-delete-dialog-message = এই কাৰ্য্য পিছত পূৰ্বৰ দৰে কৰিব নোৱাৰি।
+confirm-delete-dialog-dismiss-button =
+    .title = বাতিল
+confirm-delete-dialog-cancel-button = বাতিল
 confirm-delete-dialog-confirm-button = বিলোপ
