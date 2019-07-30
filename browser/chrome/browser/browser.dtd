@@ -858,6 +858,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.blocking.label "Blokowanje">
 <!ENTITY protections.notBlocking.label "Žane blokowanje">
 <!ENTITY protections.notBlocking.why.label "Čehodla?">
+<!ENTITY protections.socialMediaTrackers.label "Přesćěhowaki socialnych medijow">
+<!ENTITY protections.trackingContent.label "Slědowacy wobsah">
+<!ENTITY protections.fingerprinters.label "Porstowe wotćišće">
+<!ENTITY protections.cryptominers.label "Kryptokopanje">
 
 
 <!ENTITY protections.manageProtectionSettings.label "Škitowe nastajenja rjadować">
