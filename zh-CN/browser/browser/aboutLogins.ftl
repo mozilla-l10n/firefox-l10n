@@ -20,8 +20,8 @@ menu-menuitem-preferences =
     }
 menu-menuitem-feedback = 发送反馈
 menu-menuitem-faq = 常见问题
-menu-menuitem-download-android = 适用于 Android 的 Lockwise
-menu-menuitem-download-iphone = 适用于 iPhone 和 iPad 的 Lockwise
+menu-menuitem-download-android = Lockwise（Android 版）
+menu-menuitem-download-iphone = Lockwise（iPhone / iPad 版）
 
 ## Login List
 
@@ -35,6 +35,7 @@ login-list-sort-label-text = 排序依照：
 login-list-name-option = 名称（A-Z）
 login-list-last-changed-option = 最后修改
 login-list-last-used-option = 上次使用
+login-list-item-title-new-login = 新建登录信息
 login-list-item-subtitle-new-login = 输入您的登录凭据
 login-list-item-subtitle-missing-username = （无用户名）
 
@@ -68,7 +69,7 @@ login-item-time-used = 上次使用：{ DATETIME($timeUsed, day: "numeric", mont
 
 ## Master Password notification
 
-master-password-notification-message = 请输入主密码以查看保存的账号和密码
+master-password-notification-message = 请输入您的主密码，以查看保存的登录信息
 master-password-reload-button =
     .label = 登录
     .accesskey = L

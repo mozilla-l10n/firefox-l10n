@@ -855,6 +855,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "关闭保护后，网站仍然异常？">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "发送反馈">
 
+<!ENTITY protections.blocking.label "拦截开启">
+<!ENTITY protections.notBlocking.label "未在拦截">
 <!ENTITY protections.notBlocking.why.label "为什么？">
 <!ENTITY protections.socialMediaTrackers.label "社交媒体跟踪器">
 <!ENTITY protections.crossSiteTrackingCookies.label "跨站点跟踪 Cookie">
@@ -920,6 +922,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "反馈故障">
 <!ENTITY contentBlocking.breakageReportView2.description "内容拦截可能导致某些网站出现问题。在您反馈故障时，您得以帮助 &brandShortName; 为所有人提供更好的体验。这将会向 Mozilla 发送网页的地址及浏览器的有关信息。">
 <!ENTITY contentBlocking.breakageReportView.learnMore "详细了解">
+<!ENTITY contentBlocking.breakageReportView.title "反馈网站问题">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "详细了解">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "网址">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "您遇到了什么问题？（可选）">
