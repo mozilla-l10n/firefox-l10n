@@ -6,3 +6,6 @@
 <!ENTITY  paneAlarms.title        "Dopomnjeća">
 <!ENTITY  paneCategories.title    "Kategorije">
 <!ENTITY  paneViews.title         "Napohlady">
+<!ENTITY  panelHeader.title       "Protyka">
+<!ENTITY  panelReminder.title     "Dopomnjeća">
+<!ENTITY  panelCatecory.title     "Kategorije">
