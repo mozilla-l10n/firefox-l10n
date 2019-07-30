@@ -832,8 +832,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "打开内容拦截首选项">
 
 
-<!ENTITY protections.etpON.header "此站点已启用增强的跟踪保护功能">
-<!ENTITY protections.etpOFF.header "此站点已关闭增强的跟踪保护功能">
+<!ENTITY protections.etpON.header "此站点已启用增强型跟踪保护功能">
+<!ENTITY protections.etpOFF.header "此站点已关闭增强型跟踪保护功能">
 <!ENTITY protections.settings.label "保护设置">
 <!ENTITY protections.report.label "显示完整报告">
 <!-- LOCALIZATION NOTE:
@@ -923,6 +923,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "内容拦截可能导致某些网站出现问题。在您反馈故障时，您得以帮助 &brandShortName; 为所有人提供更好的体验。这将会向 Mozilla 发送网页的地址及浏览器的有关信息。">
 <!ENTITY contentBlocking.breakageReportView.learnMore "详细了解">
 <!ENTITY contentBlocking.breakageReportView.title "反馈网站问题">
+<!ENTITY contentBlocking.breakageReportView3.description "拦截某些跟踪器可能导致部分网站出现问题。在您反馈故障时，您得以帮助 &brandShortName; 为所有人提供更好的体验。发送反馈将会向 Mozilla 发送网页的地址及浏览器的有关信息。">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "详细了解">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "网址">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "您遇到了什么问题？（可选）">
