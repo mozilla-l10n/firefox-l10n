@@ -68,9 +68,44 @@ about-debugging-sidebar-runtime-item-name-no-device =
 # Text to show in the footer of the sidebar that links to a help page
 # (currently: https://developer.mozilla.org/docs/Tools/about:debugging)
 about-debugging-sidebar-support = Soportê gi'iaj depurandô'
+# Text to show as the ALT attribute of a help icon that accompanies the help about
+# debugging link in the footer of the sidebar
+about-debugging-sidebar-support-icon =
+    .alt = ikonô ga'ue rugûñu'unj
+# Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
+# will attempt to update the list of devices displayed in the sidebar.
+about-debugging-refresh-usb-devices-button = Nagi'iaj nakò' nej aga'a
 
 # Setup Page strings
 
+# Title of the Setup page.
+about-debugging-setup-title = Chrej ganikò'
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = Nagi'iaj dàj ga koneksiûn ruhuât nagi'iaj hìo ra'at si agâ't.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox = Garasun<a>{ about-debugging-this-firefox-runtime-name }</a> da' nagi'iaj hìot rakïj ñanj, nej ekstensiûn ni nej sa 'iaj sun riña versiûn nikaj { -brand-shorter-name }.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Garasun<a>{ about-debugging-this-firefox-runtime-name }</a> da' nagi'iaj hìot nej ekstensiûn ni nej sa 'iaj sun riña versiûn nikaj { -brand-shorter-name }.
+# Title of the heading Connect section of the Setup page.
+about-debugging-setup-connect-heading = Gi'iaj konektandô 'ngo aga'a
+# USB section of the Setup page
+about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = Sisi nachrunt nan ni nadunïn ni nùtaj nej rasuun nagi'iaj hìo USB nikaj Android guendâ { -brand-shorter-name }.
+# Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
+# Clicking on it will download components needed to debug USB Devices remotely.
+about-debugging-setup-usb-enable-button = Dugi'iaj sun nej aga' USB
+# Text of the button displayed in the USB section of the setup page when USB debugging is enabled.
+about-debugging-setup-usb-disable-button = Duna'àj nej aga' USB
+# Text of the button displayed in the USB section of the setup page while USB debugging
+# components are downloaded and installed.
+about-debugging-setup-usb-updating-button = Nagi'iaj nàkaj...
+# USB section of the Setup page (USB status)
+about-debugging-setup-usb-status-enabled = Ngà 'iaj sunj
+about-debugging-setup-usb-status-disabled = Nitaj si 'iaj sunj
+about-debugging-setup-usb-status-updating = Nagi'iaj nàkaj
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Dugi'iaj sun si menû desarroyadôr riña si agâ't Android.
 
 # Runtime Page strings
 
