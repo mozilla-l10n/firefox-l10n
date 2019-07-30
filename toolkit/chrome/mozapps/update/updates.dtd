@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY  updateWizard.title              "Оновлення програмного забезпечення">
 
-<!ENTITY  checking.title                  "Перевіряється наявність оновлень…">
+<!ENTITY  checking.title                  "Перевірка наявності оновлень">
 <!ENTITY  updateCheck.label               "Пошук нових версій &brandShortName;…">
 
 <!ENTITY  noupdatesfound.title            "Оновлення відсутні">
@@ -52,7 +52,7 @@
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; не може визначити наявність оновлень.
                                            Переконайтеся, що у вас остання версія &brandShortName; від:">
-
+                                           
 <!ENTITY  finishedPage.title              "Оновлення готове до встановлення">
 <!ENTITY  finishedPage.text               "Оновлення буде встановлене при наступному запуску &brandShortName;.
                                            Ви можете перезапустити &brandShortName; зараз, чи працювати далі і перезапустити потім.">
@@ -63,11 +63,9 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Оновлення буде встановлене при наступному запуску &brandShortName;
                                            Ви можете перезапустити &brandShortName; зараз, чи працювати далі і перезапустити потім.">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.moreElevated "Це оновлення потребує прав адміністратора. Оновлення буде
                                            встановлено при наступному запуску &brandShortName;. Ви можете
                                            перезавантажити &brandShortName; зараз, продовжити роботу і
                                            перезавантажити пізніше або відхилити це оновлення.">
 
-<!ENTITY  update.details.label            "Подробиці">
-<!ENTITY  update.installedOn.label        "Встановлено:">
-<!ENTITY  update.status.label             "Стан:">

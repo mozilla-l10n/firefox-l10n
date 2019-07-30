@@ -25,13 +25,11 @@ update-restarting = Перезапуск…
 channel-description = Ви зараз на каналі оновлень <label data-l10n-name="current-channel"></label>.
 warningDesc-version = { -brand-short-name } є експериментальним і може бути нестабільним.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> є <label data-l10n-name="community-exp-creditsLink">глобальною спільнотою</label>, яка працює над тим, щоб інтернет залишався відкритим, громадським та доступним для всіх.
-community-2 = { -brand-short-name } був розроблений в <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> - <label data-l10n-name="community-creditsLink">глобальній спільноті</label>, яка працює над тим, щоб інтернет залишався відкритим, громадським та доступним для всіх.
+community-2 = { -brand-short-name } був розроблений в <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> - <label data-l10n-name="community-creditsLink">глобальній спільноті</label>, яка працює над тим, щоб зберегти Інтернет відкритим, громадським та доступним для всіх.
 helpus = Хочете допомогти? <label data-l10n-name="helpus-donateLink">Зробіть внесок</label> або <label data-l10n-name="helpus-getInvolvedLink">долучайтесь!</label>
 bottomLinks-license = Ліцензійна інформація
 bottomLinks-rights = Права кінцевого користувача
 bottomLinks-privacy = Політика приватності
-aboutDialog-architecture-sixtyFourBit = 64-біт
-aboutDialog-architecture-thirtyTwoBit = 32-біт
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1
