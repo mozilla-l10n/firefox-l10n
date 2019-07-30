@@ -586,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Geselecteerde bericht verplaatsen">
 <!ENTITY archiveButton.tooltip "Geselecteerde berichten archiveren">
 <!ENTITY openConversationButton.tooltip "Conversatie van geselecteerde bericht tonen">
+<!ENTITY openMsgConversationButton.tooltip "Conversatie van geselecteerde bericht tonen">
 <!ENTITY nextButton.tooltip "Naar het volgende ongelezen bericht gaan">
 <!ENTITY nextMsgButton.tooltip "Naar het volgende bericht gaan">
 <!ENTITY previousButton.tooltip "Naar het vorige ongelezen bericht gaan">
