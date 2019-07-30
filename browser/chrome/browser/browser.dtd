@@ -852,7 +852,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Płaćenja">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Komentary">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Wideja">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Je sydło po znjemóžnjenju škitow hišće wobškodźene?">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Rozprawu pósłać">
 
+<!ENTITY protections.blocking.label "Blokowanje">
+<!ENTITY protections.notBlocking.label "Žane blokowanje">
+<!ENTITY protections.notBlocking.why.label "Čehodla?">
 
 
 

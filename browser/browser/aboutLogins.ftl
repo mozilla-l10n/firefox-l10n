@@ -35,9 +35,9 @@ login-list-count =
        *[other] { $count } přizjewjenjow
     }
 login-list-sort-label-text = Sortěrować po:
-login-list-name-option = Mjeno (A-Z)
-login-list-last-changed-option = Poslednja změna
-login-list-last-used-option = Posledni raz wužity
+login-list-name-option = Mjenje (A-Z)
+login-list-last-changed-option = Poslednjej změnje
+login-list-last-used-option = Poslednim wužiću
 login-list-item-title-new-login = Nowe přizjewjenje
 login-list-item-subtitle-new-login = Zapodajće swoje přizjewjenske daty
 login-list-item-subtitle-missing-username = (žane wužiwarske mjeno)
@@ -67,8 +67,8 @@ login-item-save-changes-button = Změny składować
 login-item-save-new-button = Składować
 login-item-cancel-button = Přetorhnyć
 login-item-time-changed = Poslednja změna: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = Wutrworjeny: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Posledni raz wužity: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Wutworjeny: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Poslednje wužiće: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 

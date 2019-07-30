@@ -18,7 +18,7 @@ site-data-column-cookies =
 site-data-column-storage =
     .label = Składowak
 site-data-column-last-used =
-    .label = Posledni raz wužity
+    .label = Poslednje wužiće
 site-data-remove-selected =
     .label = Wubrane wotstronić
     .accesskey = u
@@ -28,11 +28,6 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Změny składować
     .accesskey = s
-# Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
-site-usage-pattern = { $value } { $unit }
-site-usage-persistent = { site-usage-pattern } (wobstajny)
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
