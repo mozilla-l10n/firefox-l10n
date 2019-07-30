@@ -143,6 +143,12 @@ newtab-empty-section-highlights = 브라우징을 시작하면 최근 방문하�
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = 다 왔습니다. { $provider }에서 제공하는 주요 기사를 다시 확인해 보세요. 기다릴 수가 없나요? 주제를 선택하면 웹에서 볼 수 있는 가장 재미있는 글을 볼 수 있습니다.
 
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-content = 더 많은 이야기는 나중에 다시 확인해 보세요.
+newtab-discovery-empty-section-topstories-try-again-button = 다시 시도
+newtab-discovery-empty-section-topstories-loading = 읽는 중…
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
