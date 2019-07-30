@@ -64,6 +64,18 @@ login-item-copied-password-button-text = Másolva!
 login-item-save-changes-button = Változások mentése
 login-item-save-new-button = Mentés
 login-item-cancel-button = Mégse
+login-item-time-changed = Legutóbb módosítva: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Létrehozva: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Legutóbb használva: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
+master-password-reload-button =
+    .label = Bejelentkezés
+    .accesskey = B
+confirm-delete-dialog-title = Törli a bejelentkezést?
+confirm-delete-dialog-message = Ez a művelet nem vonható vissza.
+confirm-delete-dialog-dismiss-button =
+    .title = Mégse
+confirm-delete-dialog-cancel-button = Mégse
+confirm-delete-dialog-confirm-button = Törlés
