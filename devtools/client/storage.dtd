@@ -11,4 +11,6 @@
 <!ENTITY storage.popupMenu.deleteAllLabel "Изтриване на всички">
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all session cookies. -->
-<!ENTITY storage.popupMenu.deleteAllSessionCookiesLabel "Изтриване на сесиините">
+<!ENTITY storage.popupMenu.deleteAllSessionCookiesLabel "Изтриване на сесийните">
+
+<!-- LOCALIZATION NOTE : Label of popup menu action to copy a storage item. -->
