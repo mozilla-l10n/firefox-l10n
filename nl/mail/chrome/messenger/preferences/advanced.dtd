@@ -122,3 +122,7 @@
 <!ENTITY manageCertificates.accesskey   "C">
 <!ENTITY viewSecurityDevices.label      "Beveiligingsapparaten">
 <!ENTITY viewSecurityDevices.accesskey  "B">
+<!ENTITY manageCertificates2.label "Certificaten beheren…">
+<!ENTITY manageCertificates2.accesskey "C">
+<!ENTITY viewSecurityDevices2.label "Beveiligingsapparaten…">
+<!ENTITY viewSecurityDevices2.accesskey "B">
