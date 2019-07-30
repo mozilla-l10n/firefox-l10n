@@ -19,52 +19,6 @@
 <!ENTITY navbarOverflow.label                "Lisää työkaluja…">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "Päivitä välilehti">
-<!ENTITY  reloadTab.accesskey                "P">
-<!ENTITY  selectAllTabs.label                "Valitse kaikki välilehdet">
-<!ENTITY  selectAllTabs.accesskey            "a">
-<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTab.label                 "Monista välilehti">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTab.accesskey             "n">
-<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTabs.label                "Monista välilehdet">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTabs.accesskey            "n">
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Sulje välilehdet oikealla">
-<!ENTITY  closeTabsToTheEnd.accesskey        "o">
-<!ENTITY  closeOtherTabs.label               "Sulje muut välilehdet">
-<!ENTITY  closeOtherTabs.accesskey           "m">
-
-<!ENTITY  closeTabs.label                    "Sulje välilehdet">
-<!ENTITY  closeTabs.accesskey                "S">
-<!ENTITY  pinSelectedTabs.label              "Kiinnitä välilehdet">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinSelectedTabs.accesskey          "K">
-<!ENTITY  unpinSelectedTabs.label            "Irrota välilehdet">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinSelectedTabs.accesskey        "I">
-<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadTabs.label                   "Päivitä välilehdet">
-<!ENTITY  reloadTabs.accesskey               "P">
-<!ENTITY  bookmarkSelectedTabs.label         "Lisää välilehdet kirjanmerkkeihin…">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkSelectedTabs.accesskey     "i">
-
-<!-- Tab context menu -->
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -85,28 +39,8 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendPageToDevice.accesskey         "L">
 <!ENTITY  sendLinkToDevice.label             "Lähetä linkki laitteeseen">
 <!ENTITY  sendLinkToDevice.accesskey         "L">
-<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
-These two items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  moveTabOptions.label               "Siirrä välilehti">
-<!ENTITY  moveTabOptions.accesskey           "r">
-<!ENTITY  moveSelectedTabOptions.label       "Siirrä välilehdet">
-<!ENTITY  moveSelectedTabOptions.accesskey   "r">
-<!ENTITY  moveToStart.label                  "Siirrä alkuun">
-<!ENTITY  moveToStart.accesskey              "a">
-<!ENTITY  moveToEnd.label                    "Siirrä loppuun">
-<!ENTITY  moveToEnd.accesskey                "l">
-<!ENTITY  moveToNewWindow.label              "Siirrä uuteen ikkunaan">
-<!ENTITY  moveToNewWindow.accesskey          "S">
-<!ENTITY  reopenInContainer.label            "Avaa uudelleen eristystilassa">
-<!ENTITY  reopenInContainer.accesskey        "e">
-<!ENTITY  bookmarkTab.label                  "Lisää välilehti kirjanmerkkeihin">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkTab.accesskey              "i">
 <!ENTITY  undoCloseTab.label                 "Kumoa välilehden sulkeminen">
 <!ENTITY  undoCloseTab.accesskey             "u">
-<!ENTITY  closeTab.label                     "Sulje välilehti">
-<!ENTITY  closeTab.accesskey                 "S">
 <!ENTITY  hiddenTabs.label                   "Piilotetut välilehdet">
 
 <!ENTITY  listAllTabs.label      "Listaa kaikki välilehdet">
@@ -145,31 +79,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Kirjanmerkkipalkki">
 <!ENTITY personalbarCmd.accesskey "K">
 <!ENTITY bookmarksToolbarItem.label "Kirjanmerkkipalkin linkit">
-
-<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Päivitä valittu välilehti">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "P">
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Päivitä valitut välilehdet">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "P">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Lisää valittu välilehti kirjanmerkkeihin…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "i">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Lisää valitut välilehdet kirjanmerkkeihin…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "i">
-<!ENTITY toolbarContextMenu.selectAllTabs.label "Valitse kaikki välilehdet">
-<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "a">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Kumoa välilehden sulkeminen">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "m">
 
 <!ENTITY pageSourceCmd.label "Sivun lähdekoodi">
 <!ENTITY pageSourceCmd.accesskey "n">
@@ -234,7 +143,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signedInAs.label "Kirjautuneena tilillä">
 <!ENTITY fxa.menu.manageAccount.label "Hallitse tiliä…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label;-asetukset…">
-<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Yhdistä toiseen laitteeseen…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -340,7 +248,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasBlocked.tooltip            "Olet estänyt kanvaksen sisällön lukemisen tältä sivustolta.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Olet estänyt Adobe Flash -liitännäisen käytön tältä sivustolta.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Olet estänyt MIDI-käytön tältä sivustolta.">
-
 <!ENTITY urlbar.installBlocked.tooltip           "Olet estänyt lisäosien asennuksen tältä sivustolta.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Avaa sivuhistoria">
@@ -530,7 +437,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "a">
 <!ENTITY customizeMenu.removeExtension.label "Poista laajennus">
 <!ENTITY customizeMenu.removeExtension.accesskey "o">
-
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
@@ -885,7 +791,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "Tämä on suojattu &brandShortName;-sivu.">
 <!ENTITY identity.extensionPage "Tämän sivun latasi laajennus.">
 <!ENTITY identity.insecureLoginForms2 "Tälle sivulle kirjoitettujen kirjautumistietojen turvallisuus voi vaarantua.">
-
 <!ENTITY identity.customRoot "Yhteys on suojattu varmenteella, jonka myöntäjää Mozilla ei tunnista.">
 
 <!-- Strings for connection state warnings. -->
@@ -905,7 +810,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Vaikka &brandShortName; on osittain estänyt suojaamattoman sisällön, osa näkyvästä sisällöstä on edelleen suojaamatonta (kuten kuvat).">
 <!ENTITY identity.description.activeLoaded "Tällä sivulla on suojaamatonta sisältöä (kuten komentosarjoja) eikä yhteytesi sivustoon ei ole yksityinen.">
 <!ENTITY identity.description.activeLoaded2 "Sivullisten on mahdollista tarkastella antamiasi tietoja (esim. salasanoja, viestejä, luottokorttitietoja).">
-
 <!ENTITY identity.description.customRoot "Mozilla ei tunnista tämän varmenteen myöntäjää. Se on voitu lisätä käyttöjärjestelmästä tai järjestelmänvalvojan toimesta.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Ota suojaus käyttöön">
@@ -928,6 +832,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Avaa sisällön eston asetukset">
 
 
+<!ENTITY protections.settings.label "Suojauksen asetukset">
+<!ENTITY protections.report.label "Näytä koko raportti">
+<!-- LOCALIZATION NOTE:
+     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
+     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!-- LOCALIZATION NOTE:
+     In the Site Not Working? view, we suggest turning off protections if
+     the user is experiencing issues with any of a variety of functionality.
+     protections.siteNotWorkingView.header: The header of the list
+     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Kirjautumiskentät">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Lomakkeet">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Maksut">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Kommentit">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Videot">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Lähetä raportti">
+
+<!ENTITY protections.socialMediaTrackers.label "Sosiaalisen median seuraimet">
+
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Selaimen välilehdet">
@@ -936,40 +861,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Synkronoidut välilehdet">
 
 <!ENTITY syncedTabs.sidebar.label              "Synkronoidut välilehdet">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Kirjaudu Firefoxiin muilla laitteillasi, jotta voit katsella niiden välilehtiä tästä.">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "Haluatko nähdä muiden laitteiden välilehdet tässä?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "Kirjaudu sisään, jotta voit katsella listaa muiden laitteidesi välilehdistä.">
-<!ENTITY syncedTabs.sidebar.unverified.label   "Tilisi tarvitsee vahvistaa.">
-<!ENTITY syncedTabs.sidebar.notabs.label       "Ei avoimia välilehtiä">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "Avaa &syncBrand.shortName.label;-asetukset">
-<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
-     when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ota välilehtien synkronointi käyttöön, jotta voit katsella listaa muiden laitteidesi välilehdistä.">
-<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Etsi synkronoiduista välilehdistä">
-<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Yhdistä toinen laite">
-
-<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
-                        syncedTabs.context.openAllInTabs.accesskey):
-     These access keys are identical because their associated menu items are
-     mutually exclusive -->
-<!ENTITY syncedTabs.context.open.label                       "Avaa">
-<!ENTITY syncedTabs.context.open.accesskey                   "A">
-<!ENTITY syncedTabs.context.openInNewTab.label               "Avaa uuteen välilehteen">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "v">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "Avaa uuteen ikkunaan">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "i">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Avaa uuteen yksityiseen ikkunaan">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "y">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Luo tästä välilehdestä kirjanmerkki…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "L">
-<!ENTITY syncedTabs.context.copy.label                       "Kopioi">
-<!ENTITY syncedTabs.context.copy.accesskey                   "K">
-
-<!ENTITY syncedTabs.context.openAllInTabs.label              "Avaa kaikki välilehtiin">
-<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "A">
-<!ENTITY syncedTabs.context.managedevices.label              "Hallitse laitteita…">
-<!ENTITY syncedTabs.context.managedevices.accesskey          "H">
-
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -981,42 +872,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.label         "Palauta yhteys &syncBrand.shortName.label;-palveluun…">
 <!ENTITY syncReAuthItem.accesskey     "P">
 <!ENTITY syncToolbarButton.label      "Synkronoi">
-
-<!ENTITY customizeMode.menuAndToolbars.header3 "Vedä suosikkikohteita työkalupalkkiin tai ylivuotovalikkoon.">
-<!ENTITY customizeMode.restoreDefaults "Palauta oletukset">
-<!ENTITY customizeMode.done "Valmis">
-<!ENTITY customizeMode.titlebar "Otsikkopalkki">
-<!ENTITY customizeMode.extraDragSpace "Lisää tyhjää tilaa vetämistä varten">
-<!ENTITY customizeMode.toolbars2 "Työkalupalkit">
-<!ENTITY customizeMode.lwthemes "Teemat">
-<!ENTITY customizeMode.lwthemes.myThemes "Omat teemat">
-<!ENTITY customizeMode.lwthemes.recommended "Suositellut">
-<!ENTITY customizeMode.lwthemes.menuManage "Muokkaa">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
-<!ENTITY customizeMode.lwthemes.menuGetMore "Lataa lisää teemoja">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "L">
-<!ENTITY customizeMode.overflowList.title2 "Ylivuotovalikko">
-<!ENTITY customizeMode.overflowList.description "Vedä ja pudota kohteita tänne pitääksesi ne käden ulottuvissa mutta poissa työkalupalkista…">
-<!ENTITY customizeMode.uidensity "Tiiviys">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
-     “Normal” is displayed in the Customize screen, under the Density menu. -->
-<!ENTITY customizeMode.uidensity.menuNormal.label "Tavallinen">
-<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Tavallinen">
-<!ENTITY customizeMode.uidensity.menuNormal.accessKey "T">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
-     “Compact” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Compact). -->
-<!ENTITY customizeMode.uidensity.menuCompact.label "Tiivis">
-<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Tiivis">
-<!ENTITY customizeMode.uidensity.menuCompact.accessKey "v">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
-     “Touch” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Touch), and it means that control layout is
-     optimized for touch devices. -->
-<!ENTITY customizeMode.uidensity.menuTouch.label "Kosketusoptimoitu">
-<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Kosketusoptimoitu">
-<!ENTITY customizeMode.uidensity.menuTouch.accessKey "K">
-<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Käytä kosketusoptimoitua tablettitilassa">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Piilota automaattisesti">
 
@@ -1052,8 +907,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Ilmoita ongelmista">
 <!ENTITY contentBlocking.breakageReportView2.description "Sisällön esto voi aiheuttaa ongelmia joillakin sivustoilla. Ongelmista ilmoittaminen auttaa tekemään &brandShortName;ista paremman kaikille. (Ilmoittaminen lähettää Mozillalle sivun osoitteen sekä tietoja selainasetuksistasi.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Lue lisää">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Lue lisää">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Osoite">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Mitä ongelmia kohtasit? (Valinnainen)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Valinnainen: Kuvaile ongelma">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Lähetä ilmoitus">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Peruuta">
 
@@ -1084,27 +941,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "Sulje">
 
-<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
-     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
-     Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "Unohda viimeiset:">
-<!ENTITY panicButton.view.5min                    "Viisi minuuttia">
-<!ENTITY panicButton.view.2hr                     "Kaksi tuntia">
-<!ENTITY panicButton.view.day                     "24 tuntia">
-
-<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
-     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
-     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
-     The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "Toiminnon suorittaminen:">
-<!ENTITY panicButton.view.deleteCookies           "Poistaa kertyneet <html:strong>evästeet</html:strong>">
-<!ENTITY panicButton.view.deleteHistory           "Poistaa kertyneen <html:strong>sivuhistorian</html:strong>">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "Sulkee kaikki avatut <html:strong>välilehdet</html:strong> ja <html:strong>ikkunat</html:strong>">
-<!ENTITY panicButton.view.openNewWindow           "Avaa uuden puhtaan ikkunan">
-
-<!ENTITY panicButton.view.undoWarning             "Tätä toimintoa ei voi perua.">
-<!ENTITY panicButton.view.forgetButton            "Unohda!">
-
 <!ENTITY panicButton.thankyou.msg1                "Tapahtumahistoria on poistettu.">
 <!ENTITY panicButton.thankyou.msg2                "Turvallista selaamista!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Kiitos!">
@@ -1112,31 +948,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Lue lisää DRM-suojauksesta…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "Päivitä &brandShorterName;, niin pysyt vauhdissa ja turvassa.">
-<!ENTITY updateAvailable.whatsnew.label "Lue, mikä on uutta.">
-<!ENTITY updateAvailable.header.message "Uusi &brandShorterName;-päivitys on saatavilla.">
-<!ENTITY updateAvailable.acceptButton.label "Lataa päivitys">
-<!ENTITY updateAvailable.acceptButton.accesskey "L">
-<!ENTITY updateAvailable.cancelButton.label "Ei nyt">
-<!ENTITY updateAvailable.cancelButton.accesskey "E">
-
 <!ENTITY updateAvailable.panelUI.label "Lataa &brandShorterName;-päivitys">
-
-<!ENTITY updateManual.message "Lataa uusi &brandShorterName;-kopio, niin autamme sen asentamisessa.">
-<!ENTITY updateManual.whatsnew.label "Lue, mikä on uutta.">
-<!ENTITY updateManual.header.message "&brandShorterName; ei voi päivittyä uusimpaan versioon.">
-<!ENTITY updateManual.acceptButton.label "Lataa &brandShorterName;">
-<!ENTITY updateManual.acceptButton.accesskey "L">
-<!ENTITY updateManual.cancelButton.label "Ei nyt">
-<!ENTITY updateManual.cancelButton.accesskey "E">
 <!ENTITY updateManual.panelUI.label "Lataa uusi &brandShorterName;-kopio">
-
-<!ENTITY updateRestart.message2 "Nopean uudelleenkäynnistyksen jälkeen &brandShorterName; palauttaa kaikki välilehdet ja ikkunat, jotka eivät olleet yksityisen selauksen tilassa.">
-<!ENTITY updateRestart.header.message2 "Päivitä &brandShorterName; käynnistämällä se uudestaan.">
-<!ENTITY updateRestart.acceptButton.label "Käynnistä uudestaan ja palauta">
-<!ENTITY updateRestart.acceptButton.accesskey "K">
-<!ENTITY updateRestart.cancelButton.label "Ei nyt">
-<!ENTITY updateRestart.cancelButton.accesskey "E">
 <!ENTITY updateUnsupported.panelUI.label "Uusia päivityksiä ei voi enää asentaa">
 <!ENTITY updateRestart.panelUI.label2 "Päivitä käynnistämällä &brandShorterName; uudestaan">
 
@@ -1176,18 +989,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Esteettömyysominaisuudet käytössä">
-
-<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
-     The first <image> tag is replaced with the icon for the add-ons menu.
-     The second <image> tag is replaced with the icon for the toolbar menu. -->
-<!ENTITY addonPostInstallMessage.label "Voit hallita lisäosia avaamalla <image class='addon-toolbar-icon'/>-valikon ja napsauttamalla <image class='addon-addon-icon'/>-kuvaketta.">
-<!ENTITY addonPostInstall.incognito.checkbox.label "Salli tämän laajennuksen toiminta yksityisissä ikkunoissa">
-<!ENTITY addonPostInstall.incognito.checkbox.accesskey "S">
-
-<!ENTITY addonPrivateBrowsing.header2.label "Muutos laajennusten toimintaan yksityisissä ikkunoissa">
-<!ENTITY addonPrivateBrowsing.body2.label "Yksikään &brandShorterName;iin lisäämäsi uusi laajennus ei toimi yksityisissä ikkunoissa, ellet salli toimintaa asetuksista.">
-<!ENTITY addonPrivateBrowsing.learnMore.label "Lue lisää kuinka hallita laajennusten asetuksia">
-<!ENTITY addonPrivateBrowsing.okButton.label "Selvä">
-<!ENTITY addonPrivateBrowsing.okButton.accesskey "S">
-<!ENTITY addonPrivateBrowsing.manageButton.label "Hallitse laajennuksia">
-<!ENTITY addonPrivateBrowsing.manageButton.accesskey "H">
