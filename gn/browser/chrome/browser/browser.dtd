@@ -832,6 +832,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Eike tetepy jokoha erohoryvévape">
 
 
+<!ENTITY protections.etpON.header "Ñemo’ã jehapykuehoha iporãvéva ijurujáma ko tendápe g̃uarã">
+<!ENTITY protections.etpOFF.header "Ñemo’ã jehapykuehoha iporãvéva ndoikovéima ko tendápe g̃uarã">
 <!ENTITY protections.settings.label "Ñemo’ã ñemboheko">
 <!ENTITY protections.report.label "Ehechaukapaite marandu’i">
 <!-- LOCALIZATION NOTE:
@@ -850,8 +852,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Jehepume'ẽ">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Je'erei">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Ta'ãngamýi">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "¿Ko tenda moñemyanyhẽi gueteri ojepe’a rire ñemo’ã?">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Emondo marandu'i">
 
 <!ENTITY protections.blocking.label "Ojokohína">
+<!ENTITY protections.notBlocking.label "Ani ejoko">
+<!ENTITY protections.notBlocking.why.label "¿Mba'ére?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Ko’ãva jejoko ikatu ombyai mba’epuru ñanduti renda pegua. Jehapykuehoha’ỹre heta votõ, myanyhẽha ha tembiapo ñepyrũ rekoha ikatu ndoikói.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Ñemo’ãha jepe’a ombojurujáta opaite jehapykuehoha ko tendápe. Ikatu avei omba’apo porãve.">
+<!ENTITY protections.socialMediaTrackers.label "Ava ñandutieta rapykuehoha">
 
 
 
