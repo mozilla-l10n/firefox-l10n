@@ -16,11 +16,14 @@
 <!ENTITY email.accesskey                 "l">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "email@example.com">
+<!ENTITY email3.placeholder              "Az email címe">
 <!ENTITY email.text                      "A meglévő e-mail címe">
+<!ENTITY email.error                     "Érvénytelen e-mail cím">
 <!ENTITY password.label                  "Jelszó:">
 <!ENTITY password.accesskey              "J">
 <!ENTITY password.placeholder            "Jelszó">
 <!ENTITY password.text                   "Nem kötelező, csak a felhasználónév érvényesítésére lesz használva">
+<!ENTITY password.toggle                 "Jelszó megjelenítése/elrejtése">
 <!ENTITY rememberPassword.label          "Jelszó megjegyzése">
 <!ENTITY rememberPassword.accesskey      "m">
 <!ENTITY usernameEx.label                "A bejelentkezési neve:">
@@ -30,15 +33,21 @@
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 <!ENTITY usernameEx.text                 "Tartományi bejelentkezés">
 
+<!ENTITY protocol.label                  "Protokoll:">
 <!ENTITY imapLong.label                  "IMAP (távoli mappák)">
 <!ENTITY pop3Long.label                  "POP3 (levelek a saját gépen)">
 
 <!ENTITY incoming.label                  "Bejövő:">
+<!ENTITY incomingColumn.label            "Bejövő">
 <!ENTITY outgoing.label                  "Kimenő:">
+<!ENTITY outgoingColumn.label            "Kimenő">
 <!ENTITY username.label                  "Felhasználónév:">
 <!ENTITY hostname.label                  "Kiszolgáló neve">
 <!ENTITY port.label                      "Port">
 <!ENTITY ssl.label                       "SSL">
+<!ENTITY serverRow.label                 "Kiszolgáló:">
+<!ENTITY portRow.label                   "Port:">
+<!ENTITY sslRow.label                    "SSL:">
 <!ENTITY auth.label                      "Hitelesítés">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
@@ -71,10 +80,14 @@
 <!ENTITY half-manual-test.accesskey      "t">
 <!ENTITY manual-edit.label               "Kézi beállítás">
 <!ENTITY manual-edit.accesskey           "K">
+<!ENTITY manual-config.label             "Kézi beállítás…">
+<!ENTITY manual-config.accesskey         "K">
 <!ENTITY open-provisioner.label          "Új e-mail cím regisztrációja…">
 <!ENTITY open-provisioner.accesskey      "j">
 
 
+<!ENTITY get-help.label                  "Segítség">
+<!ENTITY get-help.accesskey              "S">
 
 
 <!ENTITY warning.label                   "Vigyázat!">
