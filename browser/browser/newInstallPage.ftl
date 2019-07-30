@@ -18,4 +18,5 @@ sync-label = ईमेल दर्ज करें
 sync-input =
     .placeholder = ईमेल
 sync-button = जारी रखे
+sync-terms = आगे बढ़कर, आप <a data-l10n-name="terms"> सेवा की शर्तों </a> और <a data-l10n-name="privacy"> गोपनीयता सूचना </a> से सहमति देते हैं।
 sync-learn = अधिक जानें
