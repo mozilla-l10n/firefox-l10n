@@ -41,6 +41,7 @@ policy-EnableTrackingProtection = A tartalomblokkolás engedélyezése vagy leti
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Kiegészítők telepítése, eltávolítása vagy zárolása. A Telepítés lehetőség URL-t vagy útvonalat vár paraméterként. Az Eltávolítás és Zárolás kiegészítőazonosítót vár.
+policy-ExtensionSettings = Kezelje a kiegészítőtelepítés összes aspektusát.
 policy-ExtensionUpdate = Az automatikus kiegészítőfrissítések engedélyezése vagy letiltása.
 policy-HardwareAcceleration = Ha hamis, akkor kikapcsolja a hardveres gyorsítást.
 policy-InstallAddonsPermission = Engedélyezi, hogy bizonyos weboldalak kiegészítőket telepítsenek.
