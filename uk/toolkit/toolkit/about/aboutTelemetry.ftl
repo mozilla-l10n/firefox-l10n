@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = Джерело даних пінгу:
 about-telemetry-show-current-ping-data = Дані поточного пінгу
+about-telemetry-show-current-data = Поточні дані
 about-telemetry-show-archived-ping-data = Дані архівованого пінгу
 about-telemetry-show-subsession-data = Показувати дані підсеансу
 about-telemetry-choose-ping = Оберіть пінг:
@@ -77,6 +78,7 @@ about-telemetry-settings-explanation = Телеметрія збирає { about
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Кожна частинка інформації надсилається включеною в “<a data-l10n-name="ping-link">пінг</a>”. Ви дивитесь на пінг { $name }, { $timestamp }.
 about-telemetry-ping-details-current = Кожна частинка інформації надсилається включеною в “<a data-l10n-name="ping-link">пінг</a>“. Ви дивитесь на пінг поточний.
+about-telemetry-data-details-current = Кожен фрагмент інформації надсилається в комплекті з “<a data-l10n-name="ping-link">pings</a>“. Ви переглядаєте поточні дані.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -103,6 +105,8 @@ about-telemetry-no-search-results-all = Вибачте! Для “{ $searchTerms
 about-telemetry-no-data-to-display = Вибачте! В “{ $sectionName }” наразі немає доступних даних
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = поточний пінг
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = поточні дані
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = все
 # button label to copy the histogram
