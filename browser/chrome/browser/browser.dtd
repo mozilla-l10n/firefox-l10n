@@ -858,6 +858,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.blocking.label "封鎖">
 <!ENTITY protections.notBlocking.label "不封鎖">
 <!ENTITY protections.notBlocking.why.label "為什麼？">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "封鎖這些項目可能會造成某些網站上的元素不正常。若沒有追蹤器，某些按鈕、表單、登入欄位可能無法正常運作。">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "若關閉保護，將放行此網站上的所有追蹤器。可能也會改善某些網站功能。">
 <!ENTITY protections.socialMediaTrackers.label "社交媒體追蹤器">
 <!ENTITY protections.crossSiteTrackingCookies.label "跨網站追蹤 Cookie">
 <!ENTITY protections.trackingContent.label "追蹤用內容">
@@ -865,6 +867,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.label "加密貨幣採礦程式">
 <!ENTITY protections.noTrackersFound.description "&brandShortName; 未在此頁面偵測到已知的追蹤器。">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "一些第三方廣告商或分析公司，會設定這些 Cookie 在不同網站間跟蹤您，收集您的上網紀錄。">
 
 <!ENTITY protections.manageProtectionSettings.label "管理保護設定">
 
