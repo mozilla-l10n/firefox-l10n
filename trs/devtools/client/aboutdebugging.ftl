@@ -106,6 +106,8 @@ about-debugging-setup-usb-status-disabled = Nitaj si 'iaj sunj
 about-debugging-setup-usb-status-updating = Nagi'iaj nàkaj
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = Dugi'iaj sun si menû desarroyadôr riña si agâ't Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Dugi'iaj sun sa nagi'iaj hìo USB riña si Menû desarroyadôr Android.
 
 # Runtime Page strings
 
