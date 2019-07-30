@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = Žórło pingdatow:
 about-telemetry-show-current-ping-data = Aktualne pingdaty
+about-telemetry-show-current-data = Aktualne daty
 about-telemetry-show-archived-ping-data = Archiwowane pingdaty
 about-telemetry-show-subsession-data = Daty podposedźenja pokazać
 about-telemetry-choose-ping = Ping wubrać:
@@ -104,6 +105,8 @@ about-telemetry-no-search-results-all = Bohužel we wšěch wotrězkach žane wu
 about-telemetry-no-data-to-display = Bohužel tuchwilu žane daty w “{ $sectionName }” k dispoziciji njejsu
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = aktualny ping
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = aktualne daty
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = wšě
 # button label to copy the histogram
