@@ -859,12 +859,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.notBlocking.label "Nincs blokkolás">
 <!ENTITY protections.notBlocking.why.label "Miért?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Ezek blokkolása egyes webhelyek elemeinek hibáit okozhatja. A nyomkövetők nélkül egyes gombok, űrlapok és bejelentkezési mezők lehet, hogy nem fognak működni.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "A védelem kikapcsolása engedélyezi az összes nyomkövetőt ezen a webhelyen. Ez javíthatja a weboldal egyes funkcióit.">
 <!ENTITY protections.socialMediaTrackers.label "Közösségimédia-követők">
 <!ENTITY protections.crossSiteTrackingCookies.label "Webhelyek közötti nyomkövető sütik">
 <!ENTITY protections.trackingContent.label "Nyomkövető tartalom">
 <!ENTITY protections.fingerprinters.label "Ujjlenyomat-készítők">
 <!ENTITY protections.cryptominers.label "Kriptobányászok">
+<!ENTITY protections.noTrackersFound.description "Egyetlen ismert nyomkövetőt sem észlelt a &brandShortName; ezen az oldalon.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Ezek a sütik követik Ön oldalról oldalra, és adatokat gyűjtenek az online tevékenységéről. Ezeket olyan harmadik felek állítják be, mint a hirdetők és az elemző cégek.">
+<!ENTITY protections.cryptominers.description "A kriptobányászok az Ön rendszerének erőforrásait használják digitális pénzek bányászatához. A kriptobányászok lemerítik az akkumulátort, lelassítják a számítógépét és növelhetik a villanyszámláját.">
+<!ENTITY protections.fingerprinters.description "A ujjlenyomat-készítők beállításokat gyűjtenek a böngészőjéből és számítógépéből, hogy profilt hozzanak létre Önről. A digitális ujjlenyomat használatával követhetik Ön a különböző webhelyek között.">
+<!ENTITY protections.trackingContent.description "A weboldalak külső hirdetéseket, videókat és más tartalmakat tölthetnek be, amelyek követési kódot is tartalmazhatnak. A nyomkövető tartalmak blokkolása az oldalak gyorsabb betöltését eredményezheti, de egyes gombok, űrlapok és bejelentkezési mezők lehet, hogy nem fognak működni.">
 
 <!ENTITY protections.manageProtectionSettings.label "Védelmi beállítások kezelése">
 
