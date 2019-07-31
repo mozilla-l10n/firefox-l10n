@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Mail Content -->
 
+<!-- Mail Content -->
 <!ENTITY captionMailContent.label "E-mejlowy wobsah">
 
 <!ENTITY acceptRemoteContent.label "Zdaleny wobsah w powěsćach dowolić">
@@ -10,8 +10,8 @@
 <!ENTITY remoteContentExceptions.label "Wuwzaća…">
 <!ENTITY remoteContentExceptions.accesskey "u">
 <!ENTITY acceptRemoteContentInfo.label "Zhońće wjace wo problemach priwatnosće zdaleneho wobsaha">
-<!-- Web Content -->
 
+<!-- Web Content -->
 <!ENTITY captionWebContent.label "Webwobsah">
 
 <!ENTITY keepHistory.label "Wopytane websydła a wotkazy sej spomjatkować">
@@ -36,3 +36,7 @@
 <!ENTITY dntTrackingNotOkay.label2 "Sydłam zdźělić, zo nimaja mje slědować">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
 <!ENTITY doNotTrackInfo.label "Dalše informacije wo Do Not Track">
+
+<!ENTITY doNotTrackCheck.label "Websydłam signal “Njeslědować” pósłać, zo nochceće, zo wone was slěduja">
+<!ENTITY doNotTrackCheck.accesskey "s">
+<!ENTITY doNotTrackLearnMore.label "Dalše informacije">
