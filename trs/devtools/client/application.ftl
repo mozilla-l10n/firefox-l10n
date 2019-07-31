@@ -38,3 +38,8 @@ serviceworker-worker-status = Dàj hua riñaj
 # Service Worker status. A running service worker is registered, currently executed, can
 # be debugged and stopped.
 serviceworker-worker-status-running = Sa duguaché
+# Service Worker status. A stopped service worker is registered but not currently active.
+serviceworker-worker-status-stopped = Ganikïnj
+# Service Worker status. A registering service worker is not yet registered and cannot be
+# started or debugged.
+serviceworker-worker-status-registering = Nutaj si yugui
