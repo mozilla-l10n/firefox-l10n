@@ -70,6 +70,7 @@ login-item-time-used = Legutóbb használva: { DATETIME($timeUsed, day: "numeric
 
 ## Master Password notification
 
+master-password-notification-message = Adja meg a mesterjelszavát a mentett bejelentkezések és jelszavak megtekintéséhez
 master-password-reload-button =
     .label = Bejelentkezés
     .accesskey = B
