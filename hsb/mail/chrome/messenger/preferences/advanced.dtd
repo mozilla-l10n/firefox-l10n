@@ -122,3 +122,8 @@
 <!ENTITY manageCertificates.accesskey "C">
 <!ENTITY viewSecurityDevices.label "Wěstotne graty">
 <!ENTITY viewSecurityDevices.accesskey "s">
+
+<!ENTITY manageCertificates2.label "Certifikaty rjadować…">
+<!ENTITY manageCertificates2.accesskey "C">
+<!ENTITY viewSecurityDevices2.label "Wěstotne graty…">
+<!ENTITY viewSecurityDevices2.accesskey "W">

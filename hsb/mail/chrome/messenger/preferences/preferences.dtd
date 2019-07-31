@@ -19,6 +19,7 @@
 <!ENTITY paneAttachments.title    "Přiwěški">
 <!ENTITY panePrivacy.title        "Priwatnosć">
 <!ENTITY paneSecurity.title       "Wěstosć">
+<!ENTITY panePrivacySecurity.title "Priwatnosć a wěstota">
 <!ENTITY paneLightning.title      "Protyka">
 <!ENTITY paneAdvanced.title       "Rozšěrjene">
 <!ENTITY paneAccount.title        "Konta">
