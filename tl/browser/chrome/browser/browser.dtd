@@ -128,10 +128,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
 <!ENTITY fxa.signin.callout.label "Dalhin ang Firefox kasama Mo">
+<!ENTITY fxa.signin.description.label "Kunin ang iyong mga bookmark, history, password at iba pang mga setting sa lahat ng iyong mga device.">
+<!ENTITY fxa.signin.button.label "Buksan ang &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
 <!ENTITY fxa.unverified.callout.label "I-check ang iyong Email">
+<!ENTITY fxa.unverified.description.label "Kailangan mong i-verify ang iyong account bago ka makapag-sync.">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
