@@ -124,9 +124,68 @@ about-debugging-setup-network-troubleshoot = Chì' 'ia guendâ gi'iaj konektand�
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Nutà'
+# Text to display when there are no locations to show.
+about-debugging-network-locations-empty-text = Hua nï' nu natà' riña nuj red.
+# Text of the label for the text input that allows users to add new network locations in
+# the Connect page. A host is a hostname and a port separated by a colon, as suggested by
+# the input's placeholder "localhost:6080".
+about-debugging-network-locations-host-input-label = Sa nikaj ñu'unj
+# Text of a button displayed next to existing network locations in the Connect page.
+# Clicking on it removes the network location from the list.
+about-debugging-network-locations-remove-button = Guxūn
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = Nitaj si hua hue'ê Host "{ $host-value }". Nuguan' da'ui ga huin “hostname:portnumber”.
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = Host "{ $host-value }" ngà tàj si yugui
 
 # Runtime Page strings
 
+# Below are the titles for the various categories of debug targets that can be found
+# on "runtime" pages of about:debugging.
+# Title of the temporary extensions category (only available for "This Firefox" runtime).
+about-debugging-runtime-temporary-extensions =
+    .name = Nej extensiûn nu akuan'
+# Title of the extensions category.
+about-debugging-runtime-extensions =
+    .name = Nej extensiûn
+# Title of the tabs category.
+about-debugging-runtime-tabs =
+    .name = Nej rakïj ñaj
+# Title of the service workers category.
+about-debugging-runtime-service-workers =
+    .name = Servisiô Workers
+# Title of the shared workers category.
+about-debugging-runtime-shared-workers =
+    .name = Nej sa 'iaj sun hua nuguà'an
+# Title of the other workers category.
+about-debugging-runtime-other-workers =
+    .name = A'ngô nej s 'iaj suun
+# Title of the processes category.
+about-debugging-runtime-processes =
+    .name = Dukuán ganikò'
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button2 = Gā yichēj doj Perfî
+# This string is displayed in the runtime page if the current configuration of the
+# target runtime is incompatible with service workers. "Learn more" points to MDN.
+# https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
+about-debugging-runtime-service-workers-not-compatible = Konfugurasiûn nikaj riña sa nana'uî't nuguan'an ni nitaj si aran'anj ngà Service Workers. <a>Gahuin chrun doj</a>
+# This string is displayed in the runtime page if the remote browser version is too old.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-browser-version-too-old = Ginâj rukù sa riña nana'uî't nuguan'an ({ $runtimeVersion }). Sa ginâj rukù nï' ga'ue gi'iaj sunt huin ({ $minVersion }). Nitaj si a'ue garan'anj ngà konfigurasiûn nan ni ga'ue si gi'iaj sun hue'ê DevTools gi'ia. Gi'iaj sunuj u ni nagi'iaj nakàt riña nana'uî't nuguan arâj sunt akan' nïn. <a>Sa nagi'iaj sa hua a'nan'an</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# - from Fx 67 to 66 or to 65
+# - from Fx 68 to 66
+# Those are normally in range for DevTools compatibility policy, but specific non
+# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+about-debugging-browser-version-too-old-67-debugger = Si guruhuaj ni si gi'iaj sun Panel nagi'iaj hìo ngà sa riña nana'uî't nuguan'an akuen' nïn. Gi'iaj sunuj u ni garasunt Firefox { $runtimeVersion } sisi garasunt sa nagi'iaj hìo nga sa nana'uî't nuguan' nan.
 
 # Debug Targets strings
 
