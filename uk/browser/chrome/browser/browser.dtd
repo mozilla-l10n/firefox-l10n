@@ -832,8 +832,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Відкрити налаштування блокування вмісту">
 
 
-<!ENTITY protections.etpON.header "Розширений захист від стеження увімкнено для цього сайту">
-<!ENTITY protections.etpOFF.header "Розширений захист від стеження вимкнено для цього сайту">
+<!ENTITY protections.etpON.header "Розширений захист від стеження для цього сайту увімкнено">
+<!ENTITY protections.etpOFF.header "Розширений захист від стеження для цього сайту вимкнено">
 <!ENTITY protections.settings.label "Налаштування захисту">
 <!ENTITY protections.report.label "Показати повний звіт">
 <!-- LOCALIZATION NOTE:
