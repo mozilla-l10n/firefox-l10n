@@ -307,6 +307,21 @@ permissions-addon-button = Permessi
 addons-enabled-heading = Elementi attivi
 addons-disabled-heading = Elementi disattivati
 
+extension-enabled-heading = Attive
+extension-disabled-heading = Disattivate
+
+theme-enabled-heading = Attivi
+theme-disabled-heading = Disattivati
+
+plugin-enabled-heading = Attivi
+plugin-disabled-heading = Disattivati
+
+dictionary-enabled-heading = Attivi
+dictionary-disabled-heading = Disattivati
+
+locale-enabled-heading = Attive
+locale-disabled-heading = Disattivate
+
 ask-to-activate-button = Chiedi prima di attivare
 always-activate-button = Attiva sempre
 never-activate-button = Non attivare mai
