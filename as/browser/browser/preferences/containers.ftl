@@ -5,6 +5,11 @@
 containers-window-new =
     .title = নতুন কণ্টেইনাৰ যোগ কৰক
     .style = width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update =
+    .title = { $name } কণ্টেইনাৰৰ পচন্দবোৰ
+    .style = width: 45em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied
@@ -47,6 +52,8 @@ containers-color-pink =
     .label = গুলপীয়া
 containers-color-purple =
     .label = জামুৰং
+containers-color-toolbar =
+    .label = টুলবাৰৰ সৈতে মিলাওক
 containers-icon-fence =
     .label = জেওৰা
 containers-icon-fingerprint =
@@ -61,6 +68,8 @@ containers-icon-cart =
     .label = শ্ব'পিং কাৰ্ট
 containers-icon-circle =
     .label = ফুট
+containers-icon-vacation =
+    .label = বন্ধৰ দিন
 containers-icon-gift =
     .label = উপহাৰ
 containers-icon-food =
@@ -71,3 +80,5 @@ containers-icon-pet =
     .label = পোহনীয়া
 containers-icon-tree =
     .label = গছ
+containers-icon-chill =
+    .label = ঠাণ্ডা
