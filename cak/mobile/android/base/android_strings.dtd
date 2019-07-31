@@ -21,12 +21,15 @@
 <!ENTITY firstrun_data_message "Jub\&apos;a\&apos; taq tzij, janila echajin">
 <!ENTITY firstrun_data_subtext2 "Keq\&apos;at ri taq wachib\&apos;äl richin man k\&apos;ïy ta taq tzij yesach toq at k\&apos;o chupam jun ruxaq k\&apos;amaya\&apos;l.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY updatednewfirstrun_sync_title "Rub\&apos;i\&apos; taqoya\&apos;l">
 <!ENTITY firstrun_sync_message2 "Tak\&apos;ama\&apos; el akuchi\&apos; xaya\&apos; wi kan.">
 <!ENTITY firstrun_sync_subtext2 "Tawokisaj Sync richin ye\&apos;awïl ri taq yaketal, ewan taq tzij, chuqa\&apos; ronojel ri nayäk pa &brandShortName; pa ronojel ri taq awokisaxel.">
 <!ENTITY newfirstrun_sync_subtext "Taxima\&apos; ri rupam xayäk pan awoyonib\&apos;al rik\&apos;in Firefox richin ajch\&apos;atal, rik\&apos;in ichinanem chuqa\&apos; ütz rub\&apos;anikil.">
+<!ENTITY updatednewfirstrun_sync_subtext "Tatikirisaj molojri\&apos;ïl pa ri rub\&apos;i\&apos; ataqoya\&apos;l richin ütz nawokisaj &brandShortName;">
 <!ENTITY firstrun_signin_message "Katok, tatikirisaj">
 <!ENTITY firstrun_signin_button "Tatikirisaj molojri\&apos;ïl pa Ximojri\&apos;ïl">
 <!ENTITY newfirstrun_signin_button "Titzij Ximoj">
+<!ENTITY updatednewfirstrun_signin_button "Katok pa &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Tichap okem pa k\&apos;amaya\&apos;l">
 <!ENTITY firstrun_button_notnow "Wakami mani">
 <!ENTITY firstrun_button_next "Jun chik">
@@ -66,6 +69,11 @@
 <!ENTITY  sending_crash_report "Tajin nitaq rutzijol sachoj \u2026">
 <!ENTITY  crash_close_label "Titz\&apos;apïx">
 <!ENTITY  crash_restart_label "Titikirisäx chik &brandShortName;">
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; xsach">
+<!ENTITY  crash_notification_message "Tachapa\&apos; richin naya\&apos; rutzijol chi re ri &vendorShortName;">
+<!ENTITY  crash_notification_negative_button_text "Tiq\&apos;olo richin">
 
 <!ENTITY url_bar_default_text2 "Tikanöx chuqa\&apos; titz\&apos;ib\&apos;äx ri ochochib\&apos;äl">
 
@@ -108,6 +116,9 @@
 <!ENTITY bookmark_folder_updated "K\&apos;exon yakwuj">
 <!ENTITY bookmark_parent_folder "Nimaläj molyakb\&apos;äl">
 <!ENTITY bookmark_add_folder "Titz\&apos;aqatisäx k\&apos;ak\&apos;a\&apos; molyakb\&apos;äl">
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(majun b\&apos;i\&apos;aj)">
 
 <!ENTITY reader_saved_offline "Yakon pa k\&apos;amab\&apos;ey">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -267,6 +278,7 @@
 <!ENTITY pref_cookies_menu "Taq kaxlanwey">
 <!ENTITY pref_cookies_accept_all "Tzijon">
 <!ENTITY pref_cookies_not_accept_foreign "Jaqäl, manäq ri juley chik winäq">
+<!ENTITY pref_cookies_not_accept_trackers "Tzijon, man ke ta ri\&apos; ri taq kuki">
 <!ENTITY pref_cookies_disabled "Man jaqäl ta">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -327,11 +339,6 @@
 
 <!ENTITY pref_pwa "K\&apos;iyirisanelal Ajk\&apos;amaya\&apos;l Chokoy">
 <!ENTITY pref_pwa_summary "Tiya\&apos; q\&apos;ij chi ke ri ajk\&apos;amaya\&apos;l taq chokoy chi ketz\&apos;aqatisäx pa ri ruwa tikirib\&apos;äl">
-
-<!ENTITY tracking_protection_prompt_title "Wakami rik\&apos;in Chajinïk chuwäch Ojqanïk">
-<!ENTITY tracking_protection_prompt_text "Q\&apos;aton wakami ruch\&apos;akulal kanoxïk, ruma ri\&apos; majun achike tamäy.">
-<!ENTITY tracking_protection_prompt_tip_text "Katok chupam ri runuk\&apos;ulem ichinanem richin nawetamaj ch\&apos;aqa\&apos; chik">
-<!ENTITY tracking_protection_prompt_action_button "¡K\&apos;o chik wik\&apos;in!">
 
 <!ENTITY tab_queue_toast_message3 "Ruwi\&apos; yakon pa &brandShortName;">
 <!ENTITY tab_queue_toast_action "Tijaq wakami">
@@ -413,14 +420,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Taq qasanïk">
 <!ENTITY pref_private_data_syncedTabs "Ximon taq ruwi\&apos;">
 
-<!ENTITY pref_default_browser "Tib\&apos;an chi tok jun okik\&apos;amaya\&apos;l ri kan ruk\&apos;amon wi pe">
-
 <!ENTITY pref_default_browser2 "Tib\&apos;an chi ri &brandShortName; awokik\&apos;amaya\&apos;l kan k\&apos;o wi">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Tachapa\&apos; ri Okik\&apos;amaya\&apos;l chokoy &amp; tacha\&apos; &brandShortName;">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Tab\&apos;etz\&apos;eta\&apos; Ruto\&apos;ik Mozilla">
 <!ENTITY pref_about_firefox "Rutzijol &brandShortName;">
 <!ENTITY pref_vendor_faqs "Junelïk taq k\&apos;utunïk">
 <!ENTITY pref_vendor_feedback "Titaq na\&apos;oj">
@@ -592,6 +596,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "Ewan tzij">
 <!ENTITY bookmark_select_folder "Ticha\&apos; molyakb\&apos;äl">
 
+<!ENTITY bookmark_edit_undo "Titzolïx">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "Runuk\&apos;ulem ruxaq">
@@ -679,6 +685,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Ticha\&apos; o tiyak chupam jun k\&apos;oxom">
 <!ENTITY filepicker_image_title "Ticha\&apos; o telesäx jun wachib\&apos;äl">
 <!ENTITY filepicker_video_title "Ticha\&apos; o tiyak chupam jun silowachib\&apos;äl">
+<!ENTITY filepicker_permission_denied "Man xya\&apos; ta q\&apos;ij chi re, nitzolin pa rucha\&apos;öy ruyakb\&apos;al q\&apos;inoj.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "At okinäq pa">
@@ -931,3 +938,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Taq rutzijol ruxaq">
+<!ENTITY crash_handler_notifications_channel "&brandShortName; Rutzijol Sachoj">
