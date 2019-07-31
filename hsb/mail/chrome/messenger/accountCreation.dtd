@@ -4,10 +4,14 @@
 
 <!ENTITY autoconfigWizard2.title         "Eksistowace e-mejlowe konto konfigurować">
 
+<!ENTITY emailWizard.title               "Nastajće swoju eksistowacu e-mejlowu adresu">
+<!ENTITY emailWizard.caption             "Wašu tuchwilnu e-mejlowu adresu wužiwać">
 <!ENTITY name.label                      "Waše mjeno:">
 <!ENTITY name.accesskey                  "m">
 <!ENTITY name.placeholder                "Předmjeno Swójbne mjeno">
+<!ENTITY fullname.placeholder            "Waše dospołne mjeno">
 <!ENTITY name.text                       "Waše mjeno, kaž so druhim pokazuje">
+<!ENTITY name.error                      "Prošu zapodajće swoje mjeno">
 <!ENTITY email.label                     "E-mejlowa adresa:">
 <!ENTITY email.accesskey                 "E">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
