@@ -9,6 +9,9 @@ login-filter =
 
 create-login-button = Inserisci nuova credenziale
 
+fxaccounts-sign-in-text = Ritrova le tue password su tutti i tuoi dispositivi
+fxaccounts-sign-in-button = Accedi a { -sync-brand-short-name }
+
 ## The ⋯ menu that is in the top corner of the page
 menu =
   .title = Apri menu
