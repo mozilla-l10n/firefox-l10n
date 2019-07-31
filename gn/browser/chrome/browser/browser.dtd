@@ -870,6 +870,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Ko’ã kookie ohapykueho opaite hendápe ombyaty hag̃ua mba’ekuaarã ojapóva ñandutípe. Omboaje mbohapyháva, mombe’uháramo ha mba’apoha tesa’ỹijoha.">
 <!ENTITY protections.fingerprinters.description "Umi Kuãhũ kuaaukaha ombyaty ne kundaha ha mohendaha ñemboheko omoheñói hag̃ua imba’eterã. Oipurúva ko kuãhũ ikatu ohapykueho heta ñanduti renda rupive.">
 
+<!ENTITY protections.manageProtectionSettings.label "Eñangareko ñemo’ã ñembohekóre">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -925,9 +926,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Emombe’u apañuãi">
 <!ENTITY contentBlocking.breakageReportView2.description "Pe tetepy jejoko ikatu omoapañuãi tendápe. Oñemomarandúvo apañuãi, oipytyvõ &brandShortName; opavavépe g̃uarã. (Kóva oguerahaukáta URL Mozilla-pe ha péicha avei marandu’i kundahára ñemboheko rehegua).">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Kuaave">
+<!ENTITY contentBlocking.breakageReportView.title "Emombe’u tenda henyhẽ’ỹva">
+<!ENTITY contentBlocking.breakageReportView3.description "Pe tapykuehoha jejoko ikatu omoapañuãi heta ñanduti rendápe. Emombe’úvo ko’ã apañuãi eipytyvõta &brandShortName; oikoporãvétaha opavavépe g̃uarã. Emondóvo ko marandu, og̃uahẽta Mozilla-pe peteĩ URL ha marandu ne kundaha ñemboheko rehegua.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Kuaave">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "¿Mba’e apañuãipa eguereko? (Poravokuaáva)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Jeporavokuaáva: Emoha’ã apañuãi">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Emondo ñemombe'u">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Heja">
 
