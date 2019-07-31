@@ -861,10 +861,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Hdyž tute elementy blokujeće, snano wěste websydła hižo prawje njefunguja. Někotre tłóčatka, formulary a přizjewjenske pola njemóhli bjez přesćěhowakow prawje fungować.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Hdyž škity znjemóžnjeće, so wšě přesćěhowaki na tutym sydle dowola. To móže wěstu funkcionalnosć websydła polěpšić.">
 <!ENTITY protections.socialMediaTrackers.label "Přesćěhowaki socialnych medijow">
+<!ENTITY protections.crossSiteTrackingCookies.label "Slědowace placki mjez sydłami">
 <!ENTITY protections.trackingContent.label "Slědowacy wobsah">
 <!ENTITY protections.fingerprinters.label "Porstowe wotćišće">
 <!ENTITY protections.cryptominers.label "Kryptokopanje">
+<!ENTITY protections.noTrackersFound.description "Žane přesćěhowaki, kotrež &brandShortName; znaje, njejsu na tutej stronje namakali.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Tute placki wam wot sydła do sydła slěduja, zo bychu daty wo tym zběrali, štož online činiće. Stajeja so wot třećich poskićowarjow kaž na přikład wabjerjow a analyzowych předewzaćow.">
 
 <!ENTITY protections.manageProtectionSettings.label "Škitowe nastajenja rjadować">
 
