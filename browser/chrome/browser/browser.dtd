@@ -868,6 +868,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.noTrackersFound.description "Žane přesćěhowaki, kotrež &brandShortName; znaje, njejsu na tutej stronje namakali.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Tute placki wam wot sydła do sydła slěduja, zo bychu daty wo tym zběrali, štož online činiće. Stajeja so wot třećich poskićowarjow kaž na přikład wabjerjow a analyzowych předewzaćow.">
+<!ENTITY protections.cryptominers.description "Kryptokopanje ličenski wukon wašeho systema wužiwa, zo by digitalne pjenjeze dobyło. Kryptokopanske skripty wašu bateriju prózdnja, waš ličak spomaleja a móža wašu přetrjebu miliny powyšić.">
+<!ENTITY protections.fingerprinters.description "Porstowe wotćišće zběraja nastajenja z wašeho wobhladowaka a ličaka, zo bychu profil wo was wutworili. Hdyž tutón digitalny porstowy wotćišć wužiwaće, móža wam přez rozdźělne websydła slědować.">
 
 <!ENTITY protections.manageProtectionSettings.label "Škitowe nastajenja rjadować">
 
