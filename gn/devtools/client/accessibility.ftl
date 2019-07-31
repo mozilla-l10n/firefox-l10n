@@ -38,3 +38,4 @@ accessibility-text-label-issue-iframe = Eipuru <code>title</code> rekome’ẽ e
 accessibility-text-label-issue-image = Pe tetepy ta’ãnga ndive oñemboherava’erã. <a>Eikuaave</a>
 accessibility-text-label-issue-interactive = Pe mba’epuru oñondivegua oñemboherava’erã. <a>Eikuaave</a>
 accessibility-text-label-issue-optgroup-label = Eipuru <code>label</code> rekome’ẽ emboheramoĩ hag̃ua mba’epuru <span>optgroup<span>. <a>Eikuaave</a>
+accessibility-text-label-issue-toolbar = Umi tembipuru renda oñemboherava’erã oĩramo hetave peteĩgui. <a>Eikuaave</a>
