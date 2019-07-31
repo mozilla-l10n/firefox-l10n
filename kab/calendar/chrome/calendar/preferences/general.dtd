@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.mainbox.label "Iɣawwaṛen imuta" >
+
 <!ENTITY pref.dateformat.label "Amasal n wazemz:" >
 <!ENTITY pref.dateformat.accesskey "s">
 <!ENTITY pref.dateformat.long "Aɣezfan" >
@@ -24,6 +25,9 @@
 <!ENTITY pref.default_event_length.label "Teɣzi tamezwert:" >
 <!ENTITY pref.default_event_length.accesskey "z">
 
+<!ENTITY pref.default_event_task_length.label "Anedru amezwer akked teɣzi n twuri">
+<!ENTITY pref.default_event_task_length.accesskey "A">
+
 <!ENTITY pref.default_task_none.label "Ulac">
 <!ENTITY pref.default_task_start_of_day.label "Tzwara n wass">
 <!ENTITY pref.default_task_end_of_day.label "Tagara n wass">
@@ -34,9 +38,6 @@
 <!ENTITY pref.default_task_offset_next_hour.label "Iqqen ɣer usrag d-iteddun">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Agalis Ass-a">
-<!ENTITY pref.soondays.label "Tigezmi d-iteddun teskan-d:">
-<!ENTITY pref.soondays.accesskey "g">
-
 <!-- LOCALIZATION NOTE (pref.soondays2.label):
      "Upcoming" is the name of a section and the translation must match the
      translation of that section name (calendar.upcoming.button.label). Also,

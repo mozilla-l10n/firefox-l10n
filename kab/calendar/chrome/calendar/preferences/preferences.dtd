@@ -6,3 +6,6 @@
 <!ENTITY  paneAlarms.title        "Ismektiyen">
 <!ENTITY  paneCategories.title    "Taggayin">
 <!ENTITY  paneViews.title         "Timezriyin">
+<!ENTITY  panelHeader.title       "Awitay">
+<!ENTITY  panelReminder.title     "Imektiyen">
+<!ENTITY  panelCatecory.title     "Taggayin">

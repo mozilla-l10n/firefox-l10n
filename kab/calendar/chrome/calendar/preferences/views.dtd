@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "Amatu">
+
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Timeẓriyin Wassneɣ n Dduṛt">
 <!ENTITY pref.calendar.view.multiweekview.caption "Timeẓri s deqs n dduṛtat">
 <!ENTITY pref.calendar.view.workweek.caption "Ddurt n umahil">
@@ -17,6 +18,8 @@
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Sken uṭṭun n dduṛt di tmeẓriyin akked waggur meẓẓiyen">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "S">
 <!ENTITY pref.daysoff.label "Seddu ussan-agi di dduṛt n umahil:">
+
+<!ENTITY pref.workweekDays.label "Ussan n tggarra n umalas:">
 
 <!ENTITY pref.calendar.view.daystart.label "Ass ad yebdu di:">
 <!ENTITY pref.calendar.view.daystart.accesskey "s">
