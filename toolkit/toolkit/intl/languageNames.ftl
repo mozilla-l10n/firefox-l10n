@@ -113,6 +113,7 @@ language-name-lij = লিগুৰীয়
 language-name-ln = লিঙ্গালা
 language-name-lo = লাওথিয়ান
 language-name-lt = লিথুৱানিয়ান
+language-name-ltg = লেতগেলিয়ান
 language-name-lu = লুবা-কাটাঙ্গা
 language-name-lv = লাট্‌ভিয়ান
 language-name-mai = মৈথিলী
