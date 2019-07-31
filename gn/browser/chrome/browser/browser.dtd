@@ -867,6 +867,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.label "Criptomineros">
 <!ENTITY protections.noTrackersFound.description "Ndaipóri tapykuehoha &brandShortName; peg̃uarã ojehechakuaáva ko kutiaroguépe.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Ko’ã kookie ohapykueho opaite hendápe ombyaty hag̃ua mba’ekuaarã ojapóva ñandutípe. Omboaje mbohapyháva, mombe’uháramo ha mba’apoha tesa’ỹijoha.">
+<!ENTITY protections.fingerprinters.description "Umi Kuãhũ kuaaukaha ombyaty ne kundaha ha mohendaha ñemboheko omoheñói hag̃ua imba’eterã. Oipurúva ko kuãhũ ikatu ohapykueho heta ñanduti renda rupive.">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
