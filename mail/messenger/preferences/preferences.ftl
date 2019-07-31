@@ -2,6 +2,34 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+pane-general-title = Geral
+category-general =
+    .tooltiptext = { pane-general-title }
+general-language-and-appearance-header = Idioma e aparência
+general-incoming-mail-header = Recebimento de e-mails
+general-files-and-attachment-header = Arquivos e anexos
+general-tags-header = Etiquetas
+general-reading-and-display-header = Leitura e exibição
+general-updates-header = Atualização
+general-network-and-diskspace-header = Rede e espaço em disco
+general-indexing-label = Indexação
+composition-category-header = Redação
+composition-attachments-header = Anexos
+composition-spelling-title = Ortografia
+compose-html-style-title = Estilo HTML
+composition-addressing-header = Endereçamento
+privacy-main-header = Privacidade
+privacy-passwords-header = Senhas
+privacy-junk-header = Spam
+privacy-data-collection-header = Coleta e uso de dados
+privacy-security-header = Segurança
+privacy-scam-detection-title = Detecção de fraudes
+privacy-anti-virus-title = Antivírus
+privacy-certificates-title = Certificados
+chat-pane-header = Bate papo
+chat-status-title = Status
+chat-notifications-title = Notificações
+chat-pane-styling-header = Estilos
 choose-messenger-language-description = Escolha os idiomas utilizados para mostrar menus, mensagens e notificações do { -brand-short-name }.
 manage-messenger-languages-button =
     .label = Definir alternativas…

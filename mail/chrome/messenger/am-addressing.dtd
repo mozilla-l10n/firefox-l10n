@@ -5,7 +5,7 @@
 <!-- extracted from am-addressing.xul -->
 
 <!ENTITY addressing.label          "Redação e endereçamento">
-<!ENTITY addressingGroupTitle.label "Endereçar">
+<!ENTITY addressingGroupTitle.label "Endereçamento">
 <!ENTITY addressingText.label      "Ao procurar endereços:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "Usar as preferências do meu servidor LDAP global para esta conta">
