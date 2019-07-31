@@ -871,6 +871,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.description "A kriptobányászok az Ön rendszerének erőforrásait használják digitális pénzek bányászatához. A kriptobányászok lemerítik az akkumulátort, lelassítják a számítógépét és növelhetik a villanyszámláját.">
 <!ENTITY protections.fingerprinters.description "A ujjlenyomat-készítők beállításokat gyűjtenek a böngészőjéből és számítógépéből, hogy profilt hozzanak létre Önről. A digitális ujjlenyomat használatával követhetik Ön a különböző webhelyek között.">
 <!ENTITY protections.trackingContent.description "A weboldalak külső hirdetéseket, videókat és más tartalmakat tölthetnek be, amelyek követési kódot is tartalmazhatnak. A nyomkövető tartalmak blokkolása az oldalak gyorsabb betöltését eredményezheti, de egyes gombok, űrlapok és bejelentkezési mezők lehet, hogy nem fognak működni.">
+<!ENTITY protections.socialMediaTrackers.description "A közösségi hálózatok nyomkövetőket helyeznek el más weboldalakon, hogy kövessék mit tesz, lát és néz online. Így a közösségi médiával foglalkozó cégek többet tudhatnak meg Önről, mint amit megoszt a közösségimédia-profiljaiban.">
 
 <!ENTITY protections.manageProtectionSettings.label "Védelmi beállítások kezelése">
 
@@ -929,6 +930,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "A tartalomblokkolás problémákat okozhat néhány weboldalon. Ha bejelenti a problémákat, akkor segít jobbá tenni a &brandShortName; böngészőt mindenki számára. (Ez elküldi az URL-t, valamint a böngészőbeállításait a Mozillának.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "További tudnivalók">
 <!ENTITY contentBlocking.breakageReportView.title "Hibás webhely bejelentése">
+<!ENTITY contentBlocking.breakageReportView3.description "Egyes nyomkövetők blokkolása problémákat okozhat néhány weboldalon. Ezen problémák bejelentése segít jobbá tenni a &brandShortName; böngészőt mindenki számára. A jelentés elküldi az URL-t és a böngészőbeállításait a Mozillának.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "További tudnivalók">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Milyen problémái voltak? (Nem kötelező)">
