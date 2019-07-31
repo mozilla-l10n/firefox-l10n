@@ -6,13 +6,20 @@
 
 <!-- Specific error messages -->
 
+<!ENTITY connectionFailure.title "Bigo sa Pag-connect">
+<!ENTITY connectionFailure.longDesc "<p>Mukhang valid naman ang site, pero hindi nakapag-connect nang maayos ang browser.</p><ul><li>Posible bang pansamantalang bagsak ang site? Subukan mo uli mamaya.</li><li>Hindi ka ba nakakapagbukas ng ibang mga site?  I-check ang network connection ng computer.</li><li>Pinoprotektahan ba ang computer o network mo ng isang firewall o proxy? Maaaring makahadlang sa pag-browse ng Web ang mga maling setting.</li></ul>">
 
+<!ENTITY deniedPortAccess.title "Hinarang ang Port dahil sa mga Kadahilanang Pang-seguridad">
+<!ENTITY deniedPortAccess.longDesc "<p>Ang hininging address ay nagbanggit ng port (hal. <q>mozilla.org:80</q> para sa port 80 sa mozilla.org) na karaniwang ginagamit para sa mga bagay na <em>bukod pa</em> sa pag-browse ng Web. Kinansela ng browser ang request para sa iyong proteksyon at kaligtasan.</p>">
 
 <!ENTITY dnsNotFound.title "Hindi matagpuan ang Address">
 
 <!ENTITY fileNotFound.title "File Hindi Natagpuan">
 
+<!ENTITY fileAccessDenied.title "Pinigilan ang pag-access sa file">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Ito'y maaaring natanggal o nilipat, o kaya'y nahaharangan ng access dahil sa mga file permission.</li></ul>">
 
+<!ENTITY generic.title "Hindi Makumpleto ang Request">
 <!ENTITY generic.longDesc "<p>Karagdagang impormasyon tungkol sa problema o error na ito ay kasalukuyang hindi magagamit.</p>">
 
 <!ENTITY malformedURI.title "Di-wastong Address">
@@ -20,6 +27,7 @@
 
 <!ENTITY netInterrupt.title "Naging Interrupted ang Data Transfer">
 
+<!ENTITY notCached.title "Nag-expire ang Document">
 
 <!ENTITY netOffline.title "Offline Mode">
 <!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
@@ -48,6 +56,9 @@
 
 <!ENTITY nssBadCert.title "Nagbigo ang Panatag na Koneksiyon">
 
+<!ENTITY securityOverride.linkText "O kaya ay pwede kang magdagdag ng exception…">
+<!ENTITY securityOverride.warningContent "<p>Hindi ka dapat magdagdag ng exception kung ikaw ay gumagamit ng internet connection na hindi lubos na katiwa-tiwala o kung ikaw ay hindi sanay na makakita ng babala sa server na ito.</p>
+<p>Kung gusto mo pa ring magdagdag ng exception para sa site na ito, pwede mong gawin sa iyong mga setting para sa advanced encryption.</p>">
 
 <!ENTITY cspBlocked.title "Hinarang ng Content Security Policy">
 
@@ -57,7 +68,12 @@
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Hindi ligtas ang connection mo">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "Ang <p><span class='hostname'></span> ay gumagamit ng security technology na luma na at madaling atakihin. Ang isang umaatake ay madaling makapagbibigay ng impormasyon na akala mo ay ligtas. Kinakailangan munang ayusin ng website administrator ang server bago mo maaaring bisitahin ang site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY blockedByPolicy.title "Hinarang na Pahina">
 
+<!ENTITY networkProtocolError.title "Network Protocol Error">
+<!ENTITY networkProtocolError.longDesc "<p>Ang page na sinusubukan mong buksan ay hindi maaaring maipakita dahil nagkaroon ng problema sa network protocol.</p><ul><li>Pakitawagan ang mga may-ari ng website para maipagbigay-alam sa kanila ang problema.</li></ul>">

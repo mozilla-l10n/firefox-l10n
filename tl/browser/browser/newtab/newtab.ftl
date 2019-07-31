@@ -129,7 +129,7 @@ newtab-section-menu-privacy-notice = Paunawa sa Privacy
 
 ## Section Headers.
 
-newtab-section-header-topsites = Tuktok na mga Site
+newtab-section-header-topsites = Mga Pangunahing Site
 newtab-section-header-highlights = Naka-highlight
 # Variables:
 #  $provider (String): Name of the corresponding content provider.

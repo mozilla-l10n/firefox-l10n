@@ -350,7 +350,7 @@ network-proxy-connection-settings =
 
 ## Home Section
 
-home-new-windows-tabs-header = Bagong Durungawan at mga Tab
+home-new-windows-tabs-header = Bagong Mga Window at Tab
 home-new-windows-tabs-description2 = Pumili ng kung ano ang gustong makita kapag binubuksan ang iyong homepage, bagong windows, at bagong tabs.
 
 ## Home Section - Home Page Customization
@@ -393,7 +393,7 @@ home-prefs-content-discovery-description = Ang Content Discovery sa Firefox Home
 home-prefs-search-header =
     .label = Paghahanap sa Web
 home-prefs-topsites-header =
-    .label = Tuktok na mga Site
+    .label = Mga Pangunahing Site
 home-prefs-topsites-description = Ang mga site na iyong pinupuntahan
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
