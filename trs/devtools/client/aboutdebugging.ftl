@@ -290,3 +290,15 @@ about-debugging-worker-push-service =
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Sa asinìin
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description2 = Dukuán sinïn nikaj sa nana'uî' nuguan'an
+# Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon =
+    .alt = Nar'a riña mensâje
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = Hua nej le'ej gahui a'nan'
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = Nej le'ej ataj nan'anj 'ngo sa ga'ue gaa
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = A'ngô nej le'ej nika
