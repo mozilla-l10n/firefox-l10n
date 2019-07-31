@@ -733,7 +733,17 @@ content-blocking-private-trackers = Mà riña Windows huìi ga'ue gini'în' nej 
 content-blocking-third-party-cookies = Nej kokî nikò' sa nuhui' si ni'ñanj nìko
 content-blocking-all-cookies = daran' nej kôki
 content-blocking-unvisited-cookies = SI kokî nej sitiô nitaj si ni'iajt
+content-blocking-all-windows-trackers = Nej sa naga'naj yitïn riña daran' nej bentâna
+content-blocking-all-third-party-cookies = Daran' nej a'ngô kokî huaa
+content-blocking-cryptominers = Nej Kriptominêro
+content-blocking-fingerprinters = Nej da'nga' ra'a
+content-blocking-warning-title = ¡Nuguan' huaa!
+content-blocking-warning-description = Si naránt riña da'aj kontenido ni ga'ue dure'ej da'aj sîtio. Sê si chì' huaj na'nïnt riña nej sitiô ngà ni'înt.
 content-blocking-learn-how = Gahuin chrūn doj
+content-blocking-reload-description = Da' naduna sa huin ruhuât ni da'uît nagi'iaj nakàt rakïj ñanj.
+content-blocking-reload-tabs-button =
+    .label = Nagi'iaj nakà daran' nej rakïj ñaj
+    .accesskey = R
 content-blocking-trackers-label =
     .label = Sa naga'naj
     .accesskey = T
@@ -747,6 +757,17 @@ content-blocking-tracking-protection-change-block-list = Naduna lista sa narán
 content-blocking-cookies-label =
     .label = Kookies
     .accesskey = K
+content-blocking-expand-section =
+    .tooltiptext = Doj nuguan' a'min rayi'î nan
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Nej Kriptominêro
+    .accesskey = y
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Nej Da'nga' ra'a
+    .accesskey = F
 
 ## Privacy Section - Tracking
 
@@ -777,9 +798,16 @@ permissions-notification-link = Gahuin chrun doj
 permissions-notification-pause =
     .label = Duyichi' akuan't nej sa ataj na'an dâ { -brand-short-name } nayi'ì ñu
     .accesskey = n
+permissions-block-autoplay-media2 =
+    .label = Narán riña nej sîtio da' si duyinga' man'an nej man nanèe
+    .accesskey = B
 permissions-block-autoplay-media-exceptions =
     .label = Sa taj a...
     .accesskey = E
+permissions-autoplay = Duyinga' man'an man nanèe
+permissions-autoplay-settings =
+    .label = Nagi'iô'...
+    .accesskey = t
 permissions-block-popups =
     .label = Garrun riña nej ventana ahui ma'an
     .accesskey = B
@@ -809,6 +837,9 @@ collection-health-report-link = Gahuin chrūn doj
 collection-studies =
     .label = Ga'ni' { -brand-short-name } dugutuj sa digi'ñu'
 collection-studies-link = Ni'io' nej sa digi'ñun { -brand-short-name }
+addon-recommendations =
+    .label = Ga'nïn riña { -brand-short-name } da' ganàtaj gunïnt rayi'î nej ekstensiûn ga'ue nadunat
+addon-recommendations-link = Gahuin chrūn doj
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Nej sa ataj na'anj nej datos nitaj si 'iaj sun 'ngà nej kopilacion
