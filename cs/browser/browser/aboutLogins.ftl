@@ -69,7 +69,7 @@ login-item-save-new-button = Uložit
 login-item-cancel-button = Zrušit
 login-item-time-changed = Naposledy změněno { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Vytvořeno { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Naposledy použito { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Naposledy použito { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
