@@ -73,11 +73,14 @@ master-password-reload-button =
   .label = Accedi
   .accesskey = A
 
+## Dialogs
+
+confirmation-dialog-cancel-button = Annulla
+confirmation-dialog-dismiss-button =
+  .title = Annulla
+
 confirm-delete-dialog-title = Eliminare questa credenziale?
 confirm-delete-dialog-message = Questa operazione non può essere annullata.
-confirm-delete-dialog-dismiss-button =
-  .title = Annulla
-confirm-delete-dialog-cancel-button = Annulla
 confirm-delete-dialog-confirm-button = Elimina
 
 ## Breach Alert notification
