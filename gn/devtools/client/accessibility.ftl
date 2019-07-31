@@ -34,3 +34,7 @@ accessibility-text-label-issue-frame = Umi mba’epuru <code>frame</code> oñemb
 accessibility-text-label-issue-glyph = Eipuru tekome’ẽ <code>alt</code> emboheramoĩ hag̃ua mba’epuru <span>mglyph</span>. <a>Eikuaave</a>
 accessibility-text-label-issue-heading = Umi myakãha oñemboheramoĩva’erã. <a>Eikuaave</a>
 accessibility-text-label-issue-heading-content = Umi myakãha hetepy reramoĩjehechava’erã. <a>Eikuaave</a>
+accessibility-text-label-issue-iframe = Eipuru <code>title</code> rekome’ẽ emoha’ãnga hag̃ua <span>iframe</span> retepy. <a>Eikuaave</a>
+accessibility-text-label-issue-image = Pe tetepy ta’ãnga ndive oñemboherava’erã. <a>Eikuaave</a>
+accessibility-text-label-issue-interactive = Pe mba’epuru oñondivegua oñemboherava’erã. <a>Eikuaave</a>
+accessibility-text-label-issue-optgroup-label = Eipuru <code>label</code> rekome’ẽ emboheramoĩ hag̃ua mba’epuru <span>optgroup<span>. <a>Eikuaave</a>
