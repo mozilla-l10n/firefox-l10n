@@ -53,7 +53,7 @@
 <!ENTITY saveAsTemplateCmd.accesskey "T">
 <!ENTITY getNewMsgForCmd.label "获取新消息">
 <!ENTITY getNewMsgForCmd.accesskey "w">
-<!ENTITY getAllNewMsgCmdPopupMenu.label "添加账户">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "所有账户">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "当前账户">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "C">
 <!ENTITY folderPaneBar.label "文件夹窗格工具栏">
 <!ENTITY folderPaneBar.accesskey "F">
-<!ENTITY folderModeSelector.label "文件夹视图">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "排序">
@@ -605,7 +604,6 @@
 <!ENTITY tagButton.tooltip "为消息添加标签">
 <!ENTITY compactButton.tooltip "从选中文件夹移除已删除消息">
 <!ENTITY appmenuButton1.tooltip "显示 &brandShortName; 菜单">
-
 <!ENTITY addonsButton.tooltip "管理您的附加组件">
 
 <!-- Toolbar Button Popup -->
