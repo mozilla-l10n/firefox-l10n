@@ -48,6 +48,7 @@ login-item-delete-button = Excluir
 login-item-origin-label = Endereço do site
 login-item-origin =
     .placeholder = https://www.example.com
+login-item-open-site-button = Iniciar
 login-item-username-label = Nome de usuário
 login-item-username =
     .placeholder = nome@example.com
