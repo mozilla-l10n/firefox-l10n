@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Mga Login at Password
+login-filter =
+    .placeholder = Hanapin sa mga Login
 create-login-button = Gumawa ng Bagong Login
 
 ## The ⋯ menu that is in the top corner of the page
@@ -11,12 +13,18 @@ menu =
     .title = Buksan ang menu
 # This menuitem is only visible on Windows
 menu-menuitem-import = Mag-import ng mga Password...
+menu-menuitem-faq = Mga Kadalasang Tinatanong
+menu-menuitem-download-android = Lockwise para sa Android
 menu-menuitem-download-iphone = Lockwise para sa iPhone at iPad
 
 ## Login List
 
+login-list =
+    .aria-label = Mga login na tumutugma sa hinahanap
+login-list-last-changed-option = Huling Binago
 login-list-last-used-option = Huling Ginamit
 login-list-item-title-new-login = Bagong Login
+login-list-item-subtitle-new-login = Ipasok ang iyong mga login credential
 login-list-item-subtitle-missing-username = (walang username)
 
 ## Login
@@ -44,3 +52,12 @@ login-item-time-used = Huling ginamit: { DATETIME($timeUsed, day: "numeric", mon
 
 ## Master Password notification
 
+master-password-notification-message = Pakipasok ang iyong master password para makita ang mga naka-save na login at password
+master-password-reload-button =
+    .label = Mag-log in
+    .accesskey = L
+confirm-delete-dialog-title = Burahin ang login na ito?
+confirm-delete-dialog-dismiss-button =
+    .title = Ikansela
+confirm-delete-dialog-cancel-button = Ikansela
+confirm-delete-dialog-confirm-button = Burahin

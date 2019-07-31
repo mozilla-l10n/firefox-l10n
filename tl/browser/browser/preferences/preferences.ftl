@@ -29,6 +29,7 @@ search-input-box =
             [windows] Hanapin sa Mga Pagpipilian
            *[other] Hanapin sa Mga Kagustuhan
         }
+managed-notice = Ang iyong browser ay mina-manage ng iyong organisasyon.
 pane-general-title = Pangkalahatan
 category-general =
     .tooltiptext = { pane-general-title }
@@ -398,6 +399,7 @@ home-prefs-topsites-description = Ang mga site na iyong pinupuntahan
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Inirekomenda ni { $provider }
+home-prefs-recommended-by-description = Magagandang mga content na galing sa web, inakma para sa iyo.
 home-prefs-recommended-by-learn-more = Paano gamitin
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Mga Na-sponsor na Kwento
@@ -500,7 +502,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = I-download ang Firefox para sa<img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> or <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> upang i-sync sa iyong mobile device.
+sync-mobile-promo = I-download ang Firefox para sa<img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> o <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> upang i-sync sa iyong mobile device.
 
 ## Sync Section - Signed in
 
@@ -585,8 +587,11 @@ forms-ask-to-save-logins =
     .label = Magtanong kung dapat mag-save ng mga login at password sa mga website
     .accesskey = r
 forms-exceptions =
-    .label = Mga exceptions...
+    .label = Mga exception...
     .accesskey = x
+forms-generate-passwords =
+    .label = Magmungkahi at gumawa ng malakas na password
+    .accesskey = u
 forms-saved-logins =
     .label = Mga na-save na Login…
     .accesskey = L
@@ -647,6 +652,10 @@ sitedata-total-size-calculating = Kinakalkula ang site data at cache size...
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Ikaw ay nagstore ng cookies, site data at cache ay kasalukuyang gumagamit ng { $value } { $unit } ng disk space.
 sitedata-learn-more = Karagdagang kaalaman
+sitedata-delete-on-close =
+    .label = Burahin ang mga cookie at site data kapag sinarado ang { -brand-short-name }
+    .accesskey = c
+sitedata-delete-on-close-private-browsing = Sa permanent private browsing mode, palaging buburahin ang mga cookie at site data kapag sinarado ang { -brand-short-name }.
 sitedata-allow-cookies-option =
     .label = Tumanggap ng mga cookie at site data
     .accesskey = A
@@ -661,6 +670,8 @@ sitedata-option-block-trackers =
     .label = Third-party na mga tracker
 sitedata-option-block-unvisited =
     .label = Mga cookie na galing sa mga hindi pa nabisitang website
+sitedata-option-block-all-third-party =
+    .label = Lahat ng third-party na mga cookie (maaaring maging sanhi upang masira ang mga website)
 sitedata-option-block-all =
     .label = Lahat ng mga cookie (maaaring makasira ng mga website)
 sitedata-clear =

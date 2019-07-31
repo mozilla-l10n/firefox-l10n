@@ -377,7 +377,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.recentHistory.label "Nakaraang Kasaysayan">
 <!ENTITY appMenuHelp.label "Tulong">
 
-<!ENTITY appMenuRemoteTabs.label "I-synced ang mga Tabs ">
+<!ENTITY appMenuRemoteTabs.label "Mga Naka-sync na Tab">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Walang bukas na tabs">
@@ -824,6 +824,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Buksan ang mga Preference sa Content Blocking">
 
 
+<!-- LOCALIZATION NOTE:
+     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
+     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!-- LOCALIZATION NOTE:
+     In the Site Not Working? view, we suggest turning off protections if
+     the user is experiencing issues with any of a variety of functionality.
+     protections.siteNotWorkingView.header: The header of the list
+     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+
+
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Mga tab ng browser">
@@ -833,7 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Mga Synced na Tab">
 
-<!ENTITY syncBrand.shortName.label    "I-sync">
+<!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSignIn.label             "Mag sign-in sa &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">

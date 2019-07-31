@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 blocklist-window =
-    .title = Listahan ng Block
+    .title = Listahan ng mga na-block
     .style = width: 55em
 blocklist-description = Piliin ang listahan ng { -brand-short-name } na ginagamit sa pagharang ng mga online tracker. Ang mga listahan ay hatid ng <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
@@ -24,3 +24,5 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
+blocklist-item-moz-std-description = Payagan ang ilang mga tracker upang kakaunting websites lang ang masisira.
+blocklist-item-moz-full-listName = Level 2 na block list.
