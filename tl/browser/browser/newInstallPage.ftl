@@ -25,4 +25,4 @@ sync-input =
 sync-button = Magpatuloy
 sync-terms = Sa pagpapatuloy, ikaw ay sumasang-ayon sa <a data-l10n-name="terms">Terms of Service</a> at <a data-l10n-name="privacy"> Privacy Notice </a>
 sync-first = Unang beses gumamit ng { -sync-brand-name }? Kailangan mong mag-sign in sa bawat installation ng Firefox para ma-sync ang iyong impormasyon.
-sync-learn = Alamin pa
+sync-learn = Alamin

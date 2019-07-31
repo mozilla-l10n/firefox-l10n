@@ -37,8 +37,10 @@
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Maaaring ito ay nabura, nalipat, o ang nailagay na pahintulot sa file ang humarang upang ma-access ito.</li> </ul>">
 
 <!ENTITY generic.title "Oops.">
+<!ENTITY generic.longDesc "<p>Hindi kayang i-load ng &brandShortName; ang page na ito sa di-kilalang kadahilanan.</p>">
 
 <!ENTITY captivePortal.title "Mag log in sa network">
+<!ENTITY captivePortal.longDesc2 "<p>Kailangan mo munang mag-log in sa network na ito bago mo maaccess ang Internet.</p>">
 
 <!ENTITY openPortalLoginPage.label2 "Buksan ang Login na Pahina para sa Network">
 
@@ -94,6 +96,7 @@ was trying to connect. -->
 
 <!ENTITY corruptedContentErrorv2.title "Corrupted Content Error">
 
+<!ENTITY securityOverride.exceptionButton1Label "Tanggapin ang Panganib at Magpatuloy">
 
 <!ENTITY errorReporting.automatic2 "Mag-report ng mga error kagaya neto para makatulog sa Mozilla makilala at makilatis ang mga hinihinalaang sites">
 <!ENTITY errorReporting.learnMore "Karagdagan kaalaman…">

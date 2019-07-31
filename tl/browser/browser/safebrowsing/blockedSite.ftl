@@ -10,6 +10,7 @@ safeb-blocked-phishing-page-short-desc = Hinarang ng { -brand-short-name } ang p
 safeb-blocked-malware-page-short-desc = hinarangan ng { -brand-short-name } ang page na ito dahil maaaring subukan nitong mag install ng mapaminsalang software na maaaring magnakaw o magbura ng personal na impormasyon sa iyong computer.
 safeb-blocked-unwanted-page-short-desc = Hinarang ng { -brand-short-name } ang page na ito dahil maaari ka nitong linlangin na mag-install ng mga program na makasasama sa iyong browsing experience (halimbawa, sa pagpalit ng iyong homepage o kaya magpakita ng dagdag na ad sa mga binibisita mong site).
 safeb-blocked-harmful-page-short-desc = Hinarang ng { -brand-short-name } ang page na ito dahil maaari nitong subukang mag-install ng mga delikadong app na nagnanakaw o nagdedelete ng iyong mga impormasyon (halimbawa, mga larawan, password, mensahe at credit card).
+safeb-palm-advisory-desc = Ang pagpapayo ay ibinigay ng <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Bumalik
 safeb-palm-see-details-label = Tignan ang detalye
 safeb-blocked-phishing-page-error-desc-override = Ang <span data-l10n-name='sitename'>{ $sitename }</span> ay <a data-l10n-name='error_desc_link'>naiulat bilang isang deceptive site</a>. Maaari mong <a data-l10n-name='report_detection'>i-report ito bilang isang detection problem</a> o <a data-l10n-name='ignore_warning_link'>hindi pansinin ang panganib</a> at pumunta sa hindi ligtas na site na ito.
