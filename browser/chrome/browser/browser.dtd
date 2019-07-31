@@ -858,6 +858,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.blocking.label "Blokkolás">
 <!ENTITY protections.notBlocking.label "Nincs blokkolás">
 <!ENTITY protections.notBlocking.why.label "Miért?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Ezek blokkolása egyes webhelyek elemeinek hibáit okozhatja. A nyomkövetők nélkül egyes gombok, űrlapok és bejelentkezési mezők lehet, hogy nem fognak működni.">
 <!ENTITY protections.socialMediaTrackers.label "Közösségimédia-követők">
 <!ENTITY protections.crossSiteTrackingCookies.label "Webhelyek közötti nyomkövető sütik">
 <!ENTITY protections.trackingContent.label "Nyomkövető tartalom">
