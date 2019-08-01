@@ -24,6 +24,7 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
+blocklist-item-moz-std-listName = Level 1 na block list (Inirerekomenda)
 blocklist-item-moz-std-description = Payagan ang ilang mga tracker upang kakaunting websites lang ang masisira.
 blocklist-item-moz-full-listName = Level 2 na block list.
 blocklist-item-moz-full-description = Harangin lahat ng matuklasang tracker. Maaaring may mga website o nilalaman nito na hindi maipapakita nang maayos.
