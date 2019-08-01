@@ -865,7 +865,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Slědowacy wobsah">
 <!ENTITY protections.fingerprinters.label "Porstowe wotćišće">
 <!ENTITY protections.cryptominers.label "Kryptokopanje">
-<!ENTITY protections.noTrackersFound.description "Žane přesćěhowaki, kotrež &brandShortName; znaje, njejsu na tutej stronje namakali.">
+<!ENTITY protections.noTrackersFound.description "Žane přesćěhowaki, kotrež &brandShortName; znaje, njejsu so na tutej stronje namakali.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Tute placki wam wot sydła do sydła slěduja, zo bychu daty wo tym zběrali, štož online činiće. Stajeja so wot třećich poskićowarjow kaž na přikład wabjerjow a analyzowych předewzaćow.">
 <!ENTITY protections.cryptominers.description "Kryptokopanje ličenski wukon wašeho systema wužiwa, zo by digitalne pjenjeze dobyło. Kryptokopanske skripty wašu bateriju prózdnja, waš ličak spomaleja a móža wašu přetrjebu miliny powyšić.">
