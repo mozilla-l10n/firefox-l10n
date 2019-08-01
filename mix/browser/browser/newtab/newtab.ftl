@@ -24,6 +24,7 @@ newtab-search-box-search-the-web-input =
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Chika'a ñaa nduku
+newtab-topsites-add-topsites-header = Sitio ña ta'an inu
 newtab-topsites-title-label = Título
 newtab-topsites-title-input =
     .placeholder = Chaa título
@@ -44,6 +45,7 @@ newtab-topsites-add-button = Chikaa
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Sama
+newtab-menu-dismiss = Kasi
 newtab-menu-pin = Chita'an
 newtab-menu-unpin = Sia'a
 newtab-menu-delete-history = Stoò ntii ña ntsinu
@@ -77,6 +79,9 @@ newtab-menu-open-file = Kuna tutu
 ## context on how the element is related to the user, e.g. type indicates that
 ## the page is bookmarked, or is currently open on another device.
 
+newtab-label-visited = Ña ntsinu
+newtab-label-bookmarked = Marka
+newtab-label-recommended = Tu'un kanu
 newtab-label-saved = Inka vai ni { -pocket-brand-name }
 newtab-label-download = Snui
 
@@ -91,6 +96,9 @@ newtab-section-menu-move-down = Kanta ninu
 
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+
+
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 
 ## Pocket Content Section.

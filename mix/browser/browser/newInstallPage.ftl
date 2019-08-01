@@ -13,3 +13,4 @@ sync-label = Chaa korreoku
 sync-input =
     .placeholder = Korreo
 sync-button = Inka
+sync-learn = Skua'a kuakaa

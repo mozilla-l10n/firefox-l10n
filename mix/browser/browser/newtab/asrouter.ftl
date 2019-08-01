@@ -45,3 +45,10 @@ cfr-doorhanger-pintab-animation-resume = Kitsa
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Kasi botón
     .title = Kasi
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Nchi yee ña tsaa
+    .tooltiptext = Nchi yee ña tsaa
+cfr-whatsnew-panel-header = Nchi yee ña tsaa
