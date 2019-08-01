@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "Powšykne">
+
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Dnjowny a tyźenjowy naglěd">
 <!ENTITY pref.calendar.view.multiweekview.caption "Wěcejtyźenjowy naglěd">
 <!ENTITY pref.calendar.view.workweek.caption "Źěłowy tyźeń">
@@ -17,6 +18,8 @@
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Numer tyźenja w naglědach a minimjasecu pokazaś">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "t">
 <!ENTITY pref.daysoff.label "Toś te dny do źěłowego tyźenja zapśimjeś:">
+
+<!ENTITY pref.workweekDays.label "Źěłowe dny:">
 
 <!ENTITY pref.calendar.view.daystart.label "Źeń zachopijo:">
 <!ENTITY pref.calendar.view.daystart.accesskey "c">
