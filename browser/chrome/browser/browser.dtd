@@ -832,7 +832,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Mở tùy chọn chặn nội dung">
 
 
-<!ENTITY protections.etpON.header "Trình chống theo dõi nâng cao được BẬT cho trang này">
+<!ENTITY protections.etpON.header "Trình chống theo dõi nâng cao đã được BẬT cho trang này">
 <!ENTITY protections.etpOFF.header "Trình chống theo dõi nâng cao đã bị TẮT cho trang này">
 <!ENTITY protections.settings.label "Cài đặt bảo vệ">
 <!ENTITY protections.report.label "Hiển thị báo cáo đầy đủ">
