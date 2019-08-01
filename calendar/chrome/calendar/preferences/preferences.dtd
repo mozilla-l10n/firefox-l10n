@@ -6,3 +6,6 @@
 <!ENTITY  paneAlarms.title        "Dopomnjeśa">
 <!ENTITY  paneCategories.title    "Kategorije">
 <!ENTITY  paneViews.title         "Naglědy">
+<!ENTITY  panelHeader.title       "Kalendaŕ">
+<!ENTITY  panelReminder.title     "Dopomnjeśa">
+<!ENTITY  panelCatecory.title     "Kategorije">
