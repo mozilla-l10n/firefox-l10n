@@ -865,6 +865,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Trình theo dõi nội dung">
 <!ENTITY protections.fingerprinters.label "Vân tay">
 <!ENTITY protections.cryptominers.label "Tiền điện tử">
+<!ENTITY protections.noTrackersFound.description "&brandShortName; không phát hiện ra trình theo dõi đã biết trên trang này.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Những cookie này theo bạn từ trang này sang trang khác để thu thập dữ liệu về những gì bạn làm trực tuyến. Chúng được đặt bởi các bên thứ ba như nhà quảng cáo và công ty phân tích.">
 <!ENTITY protections.cryptominers.description "Tiền điện tử sử dụng sức mạnh tính toán của hệ thống của bạn để khai thác tiền kỹ thuật số. Các tập lệnh mã hóa làm cạn kiệt pin của bạn, làm chậm máy tính của bạn và có thể tăng hóa đơn năng lượng của bạn.">
