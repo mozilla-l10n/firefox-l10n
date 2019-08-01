@@ -867,7 +867,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.label "Kryptokopanje">
 <!ENTITY protections.noTrackersFound.description "Žedne pśeslědowaki, kótarež &brandShortName; znajo, njejsu se namakali na toś tom boku.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Toś te cookieje wam wót sedła do sedła slěduju, aby daty wó tom zběrali, což online gótujośo. Stajaju se wót tśeśich póbitowarjow kaž na pśikład wabjarjow a analyzowych pśedewześćow.">
 
+<!ENTITY protections.manageProtectionSettings.label "Šćitowe nastajenja zastojaś">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -923,8 +925,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Problemy k wěsći daś">
 <!ENTITY contentBlocking.breakageReportView2.description "Blokěrowanje wopśimjeśa móžo problemy z někotarymi websedłami zawinowaś. Gaž problemy k wěsći dajośo, pomagaśo &brandShortName; za kuždego pólěpšyś. (Pósćelo se Mozilla URL a informacije wó wašych nastajenjach wobglědowaka.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Dalšne informacije">
+<!ENTITY contentBlocking.breakageReportView.title "Wobškóźone sedło k wěsći daś">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Dalšne informacije">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Kótare problemy sćo měł? (na žycenje)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Na žycenje: Problem wopisaś">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Rozpšawu pósłaś">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Pśetergnuś">
 

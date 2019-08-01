@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = Žrědło pingdatow:
 about-telemetry-show-current-ping-data = Aktualne pingdaty
+about-telemetry-show-current-data = Aktualne daty
 about-telemetry-show-archived-ping-data = Archiwěrowane pingdaty
 about-telemetry-show-subsession-data = Daty pódpósejźenja pokazaś
 about-telemetry-choose-ping = Ping wubraś:
@@ -78,6 +79,7 @@ about-telemetry-settings-explanation = Telemetrija { about-telemetry-data-type }
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Kužda informacija se w pakeśe do “<a data-l10n-name="ping-link">pingi</a>” sćelo. Glědaśo na ping { $name }, { $timestamp }.
 about-telemetry-ping-details-current = Kužda informacija se w pakeśe do “<a data-l10n-name="ping-link">pingi</a>“ sćelo. Glědaśo na ping aktualny.
+about-telemetry-data-details-current = Kužda informacija se w „<a data-l10n-name="ping-link">pingach</a>“ zapakowana sćelo. Glědaśo na aktualne daty.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -104,6 +106,8 @@ about-telemetry-no-search-results-all = Bóžko we wšych wótrězkach žedne wu
 about-telemetry-no-data-to-display = Bóžko tuchylu žedne daty w “{ $sectionName }” k dispoziciji njejsu
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = aktualny ping
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = aktualne daty
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = wše
 # button label to copy the histogram
