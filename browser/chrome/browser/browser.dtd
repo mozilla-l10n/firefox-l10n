@@ -13,56 +13,10 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Režim Súkromné prehliadanie)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Súkromné prehliadanie)">
 
 <!ENTITY appmenu.tooltip                     "Otvorí ponuku">
 <!ENTITY navbarOverflow.label                "Ďalšie nástroje…">
-
-<!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "Obnoviť kartu">
-<!ENTITY  reloadTab.accesskey                "O">
-<!ENTITY  selectAllTabs.label                "Vybrať všetky karty">
-<!ENTITY  selectAllTabs.accesskey            "v">
-<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTab.label                 "Duplikovať kartu">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTab.accesskey             "D">
-<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTabs.label                "Duplikovať karty">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTabs.accesskey            "D">
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Zavrieť karty napravo">
-<!ENTITY  closeTabsToTheEnd.accesskey        "n">
-<!ENTITY  closeOtherTabs.label               "Zavrieť ostatné karty">
-<!ENTITY  closeOtherTabs.accesskey           "e">
-
-<!ENTITY  closeTabs.label                    "Zavrieť karty">
-<!ENTITY  closeTabs.accesskey                "Z">
-<!ENTITY  pinSelectedTabs.label              "Pripnúť karty">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinSelectedTabs.accesskey          "P">
-<!ENTITY  unpinSelectedTabs.label            "Zrušiť pripnutie kariet">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinSelectedTabs.accesskey        "r">
-<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadTabs.label                   "Obnoviť karty">
-<!ENTITY  reloadTabs.accesskey               "r">
-<!ENTITY  bookmarkSelectedTabs.label         "Pridať karty medzi záložky…">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkSelectedTabs.accesskey     "k">
 
 <!-- Tab context menu -->
 
@@ -85,28 +39,8 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendPageToDevice.accesskey         "a">
 <!ENTITY  sendLinkToDevice.label             "Odoslať odkaz do zariadenia">
 <!ENTITY  sendLinkToDevice.accesskey         "a">
-<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
-These two items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  moveTabOptions.label               "Presunúť kartu">
-<!ENTITY  moveTabOptions.accesskey           "s">
-<!ENTITY  moveSelectedTabOptions.label       "Presunúť karty">
-<!ENTITY  moveSelectedTabOptions.accesskey   "s">
-<!ENTITY  moveToStart.label                  "Presunúť na začiatok">
-<!ENTITY  moveToStart.accesskey              "z">
-<!ENTITY  moveToEnd.label                    "Presunúť na koniec">
-<!ENTITY  moveToEnd.accesskey                "k">
-<!ENTITY  moveToNewWindow.label              "Presunúť do nového okna">
-<!ENTITY  moveToNewWindow.accesskey          "k">
-<!ENTITY  reopenInContainer.label            "Otvoriť v kontajneri">
-<!ENTITY  reopenInContainer.accesskey        "e">
-<!ENTITY  bookmarkTab.label                  "Pridať kartu medzi záložky">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkTab.accesskey              "z">
 <!ENTITY  undoCloseTab.label                 "Obnoviť zatvorenú kartu">
 <!ENTITY  undoCloseTab.accesskey             "a">
-<!ENTITY  closeTab.label                     "Zavrieť kartu">
-<!ENTITY  closeTab.accesskey                 "Z">
 <!ENTITY  hiddenTabs.label                   "Skryté karty">
 
 <!ENTITY  listAllTabs.label      "Zoznam všetkých kariet">
@@ -145,31 +79,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Panel záložiek">
 <!ENTITY personalbarCmd.accesskey "z">
 <!ENTITY bookmarksToolbarItem.label "Položky panela záložiek">
-
-<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Obnoviť vybranú kartu">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "O">
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Obnoviť vybrané karty">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "O">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Pridať vybranú kartu medzi záložky…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "P">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Pridať vybrané karty medzi záložky…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "P">
-<!ENTITY toolbarContextMenu.selectAllTabs.label "Vybrať všetky karty">
-<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "V">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Obnoviť zatvorenú kartu">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "b">
 
 <!ENTITY pageSourceCmd.label "Zdrojový kód stránky">
 <!ENTITY pageSourceCmd.accesskey "d">
@@ -234,7 +143,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signedInAs.label "Prihlásený ako">
 <!ENTITY fxa.menu.manageAccount.label "Správa účtu…">
 <!ENTITY fxa.menu.syncSettings.label "Nastavenie synchronizácie…">
-<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Pripojiť ďalšie zariadenie…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -340,7 +248,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasBlocked.tooltip            "Tejto stránke ste zakázali prístup k údajom canvasu.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Tejto stránke ste zablokovali možnosť používať zásuvný modul Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Tejto stránke ste zakázali prístup k MIDI.">
-
 <!ENTITY urlbar.installBlocked.tooltip           "Tejto stránke ste zakázali inštaláciu doplnkov.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Zobraziť históriu">
@@ -530,7 +437,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "S">
 <!ENTITY customizeMenu.removeExtension.label "Odstrániť rozšírenie">
 <!ENTITY customizeMenu.removeExtension.accesskey "r">
-
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
@@ -885,7 +791,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "Toto je bezpečná stránka prehliadača &brandShortName;">
 <!ENTITY identity.extensionPage "Táto stránka je načítaná z doplnku.">
 <!ENTITY identity.insecureLoginForms2 "Prihlasovacie údaje zadané na tejto stránke by mohli byť ohrozené.">
-
 <!ENTITY identity.customRoot "Pripojenie je overené vydavateľom certifikátov, ktorého Mozilla nepozná.">
 
 <!-- Strings for connection state warnings. -->
@@ -905,7 +810,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Hoci &brandShortName; zablokoval niektoré súčasti, stále je na stránke dostupný obsah, ktorý nie je bezpečný (ako napr. obrázky).">
 <!ENTITY identity.description.activeLoaded "Táto stránka obsahuje súčasti, ktoré nie sú bezpečné (ako napr. skripty) a vaše pripojenie k nej nie je súkromné.">
 <!ENTITY identity.description.activeLoaded2 "Informácie zadané na tejto stránke (ako heslá, správy, informácie o platobných kartách, atď.) môžu byť viditeľné pre iných ľudí.">
-
 <!ENTITY identity.description.customRoot "Mozilla tohto vydavateľa certifikátov nepozná. Mohol byť pridaný operačným systémom alebo správcom vášho počítača.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Povoliť ochranu">
@@ -928,6 +832,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Otvoriť nastavenia blokovania obsahu">
 
 
+<!-- LOCALIZATION NOTE:
+     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
+     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!-- LOCALIZATION NOTE:
+     In the Site Not Working? view, we suggest turning off protections if
+     the user is experiencing issues with any of a variety of functionality.
+     protections.siteNotWorkingView.header: The header of the list
+     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+
+
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Karty prehliadača">
@@ -936,40 +852,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Synchronizované karty">
 
 <!ENTITY syncedTabs.sidebar.label              "Synchronizované karty">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Prihláste sa do Firefoxu na vašich ostatných zariadeniach, ak tu chcete vidieť karty z týchto zariadení.">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "Chceli by ste tu vidieť vaše karty z ostatných zariadení?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "Prihlásením sa zobrazíte zoznam kariet z vašich ostatných zariadení.">
-<!ENTITY syncedTabs.sidebar.unverified.label   "Váš účet musí byť overený.">
-<!ENTITY syncedTabs.sidebar.notabs.label       "Žiadne otvorené karty">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "Otvoriť nastavenia služby &syncBrand.shortName.label;">
-<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
-     when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Zapnutím synchronizácie kariet zobrazíte zoznam kariet z vašich ostatných zariadení.">
-<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Hľadať v synchronizovaných kartách">
-<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Pripojiť ďalšie zariadenie">
-
-<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
-                        syncedTabs.context.openAllInTabs.accesskey):
-     These access keys are identical because their associated menu items are
-     mutually exclusive -->
-<!ENTITY syncedTabs.context.open.label                       "Otvoriť">
-<!ENTITY syncedTabs.context.open.accesskey                   "O">
-<!ENTITY syncedTabs.context.openInNewTab.label               "Otvoriť na novej karte">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "k">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "Otvoriť v novom okne">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "n">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Otvoriť v novom okne režimu Súkromné prehliadanie">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "S">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Pridať túto kartu medzi záložky…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "z">
-<!ENTITY syncedTabs.context.copy.label                       "Kopírovať">
-<!ENTITY syncedTabs.context.copy.accesskey                   "K">
-
-<!ENTITY syncedTabs.context.openAllInTabs.label              "Otvoriť všetko na kartách">
-<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
-<!ENTITY syncedTabs.context.managedevices.label              "Spravovať zariadenia…">
-<!ENTITY syncedTabs.context.managedevices.accesskey          "i">
-
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -981,42 +863,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.label         "Znova pripojiť k &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "Z">
 <!ENTITY syncToolbarButton.label      "Synchronizácia">
-
-<!ENTITY customizeMode.menuAndToolbars.header3 "Presuňte svoje obľúbené položky na panel nástrojov alebo do rozširujúcej ponuky.">
-<!ENTITY customizeMode.restoreDefaults "Obnoviť predvolené">
-<!ENTITY customizeMode.done "Hotovo">
-<!ENTITY customizeMode.titlebar "Panel s titulkom okna">
-<!ENTITY customizeMode.extraDragSpace "Priestor na presunutie">
-<!ENTITY customizeMode.toolbars2 "Panely s nástrojmi">
-<!ENTITY customizeMode.lwthemes "Témy">
-<!ENTITY customizeMode.lwthemes.myThemes "Moje témy">
-<!ENTITY customizeMode.lwthemes.recommended "Odporúčané">
-<!ENTITY customizeMode.lwthemes.menuManage "Spravovať">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "S">
-<!ENTITY customizeMode.lwthemes.menuGetMore "Získať ďalšie témy">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "Z">
-<!ENTITY customizeMode.overflowList.title2 "Rozširujúca ponuka">
-<!ENTITY customizeMode.overflowList.description "Sem môžete presunúť položky, ktoré chcete mať poruke, ale nie priamo v paneli nástrojov…">
-<!ENTITY customizeMode.uidensity "Hustota">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
-     “Normal” is displayed in the Customize screen, under the Density menu. -->
-<!ENTITY customizeMode.uidensity.menuNormal.label "Normálna">
-<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normálna hustota">
-<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
-     “Compact” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Compact). -->
-<!ENTITY customizeMode.uidensity.menuCompact.label "Kompaktná">
-<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Kompaktná hustota">
-<!ENTITY customizeMode.uidensity.menuCompact.accessKey "K">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
-     “Touch” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Touch), and it means that control layout is
-     optimized for touch devices. -->
-<!ENTITY customizeMode.uidensity.menuTouch.label "Pre dotykové zariadenia">
-<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Hustota pre dotykové zariadenia">
-<!ENTITY customizeMode.uidensity.menuTouch.accessKey "t">
-<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "V režime tabletu použiť hustotu pre dotykové zariadenia">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Automaticky skrývať">
 
@@ -1084,27 +930,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "Zavrieť">
 
-<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
-     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
-     Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "Zabudnúť na:">
-<!ENTITY panicButton.view.5min                    "posledných 5 minút">
-<!ENTITY panicButton.view.2hr                     "posledné 2 hodiny">
-<!ENTITY panicButton.view.day                     "posledných 24 hodín">
-
-<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
-     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
-     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
-     The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "Pokračovaním:">
-<!ENTITY panicButton.view.deleteCookies           "odstránite nedávno vytvorené <html:strong>cookies</html:strong>">
-<!ENTITY panicButton.view.deleteHistory           "vymažete <html:strong>históriu</html:strong> prehliadania">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "zavriete všetky <html:strong>karty</html:strong> a <html:strong>okná</html:strong>">
-<!ENTITY panicButton.view.openNewWindow           "otvoríte nové prázdne okno">
-
-<!ENTITY panicButton.view.undoWarning             "Akciu nie je možné vrátiť späť.">
-<!ENTITY panicButton.view.forgetButton            "Zabudnúť!">
-
 <!ENTITY panicButton.thankyou.msg1                "Vaša nedávna história je teraz vymazaná.">
 <!ENTITY panicButton.thankyou.msg2                "Prajeme bezpečné prehliadanie!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Ďakujeme!">
@@ -1112,31 +937,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Ďalšie informácie o DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "Aktualizujte si svoj &brandShorterName; a získajte najnovšie vylepšenia rýchlosti a súkromia.">
-<!ENTITY updateAvailable.whatsnew.label "Pozrite sa, čo je nové.">
-<!ENTITY updateAvailable.header.message "K dispozícii je nová aktualizácia prehliadača &brandShorterName;.">
-<!ENTITY updateAvailable.acceptButton.label "Prevziať aktualizáciu">
-<!ENTITY updateAvailable.acceptButton.accesskey "P">
-<!ENTITY updateAvailable.cancelButton.label "Teraz nie">
-<!ENTITY updateAvailable.cancelButton.accesskey "n">
-
 <!ENTITY updateAvailable.panelUI.label "Prevziať aktualizáciu aplikácie &brandShorterName;">
-
-<!ENTITY updateManual.message "Prevezmite si novú verziu aplikácie &brandShorterName; a my vám pomôžeme ju nainštalovať.">
-<!ENTITY updateManual.whatsnew.label "Pozrite sa, čo je nové.">
-<!ENTITY updateManual.header.message "Aplikácii &brandShorterName; sa nepodarilo nainštalovať najnovšiu verziu.">
-<!ENTITY updateManual.acceptButton.label "Prevziať &brandShorterName;">
-<!ENTITY updateManual.acceptButton.accesskey "P">
-<!ENTITY updateManual.cancelButton.label "Teraz nie">
-<!ENTITY updateManual.cancelButton.accesskey "n">
 <!ENTITY updateManual.panelUI.label "Prevziať novú verziu aplikácie &brandShorterName;">
-
-<!ENTITY updateRestart.message2 "Po rýchlom reštarte obnoví &brandShorterName; všetky vaše otvorené karty okná, ktoré nie sú otvorené v režime Súkromné prehliadanie.">
-<!ENTITY updateRestart.header.message2 "Reštartovať a aktualizovať aplikáciu &brandShorterName;.">
-<!ENTITY updateRestart.acceptButton.label "Reštartovať a obnoviť">
-<!ENTITY updateRestart.acceptButton.accesskey "R">
-<!ENTITY updateRestart.cancelButton.label "Teraz nie">
-<!ENTITY updateRestart.cancelButton.accesskey "n">
 <!ENTITY updateUnsupported.panelUI.label "Ďalšie aktualizácie nie sú dostupné">
 <!ENTITY updateRestart.panelUI.label2 "Reštartovať a aktualizovať aplikáciu &brandShorterName;">
 
@@ -1176,18 +978,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Funkcie pre zjednodušenie ovládania povolené">
-
-<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
-     The first <image> tag is replaced with the icon for the add-ons menu.
-     The second <image> tag is replaced with the icon for the toolbar menu. -->
-<!ENTITY addonPostInstallMessage.label "Spravujte svoje doplnky kliknutím na <image class='addon-addon-icon'/> v ponuke <image class='addon-toolbar-icon'/>.">
-<!ENTITY addonPostInstall.incognito.checkbox.label "Povoliť toto rozšírenie v súkromných oknách">
-<!ENTITY addonPostInstall.incognito.checkbox.accesskey "P">
-
-<!ENTITY addonPrivateBrowsing.header2.label "Zmena fungovania rozšírení v súkromných oknách">
-<!ENTITY addonPrivateBrowsing.body2.label "Novo nainštalované rozšírenia budú v súkromných oknách aplikácie &brandShorterName; vypnuté, až dokým ich nezapnete v možnostiach.">
-<!ENTITY addonPrivateBrowsing.learnMore.label "Ako spravovať rozšírenia.">
-<!ENTITY addonPrivateBrowsing.okButton.label "Ok, rozumiem">
-<!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
-<!ENTITY addonPrivateBrowsing.manageButton.label "Správa rozšírení">
-<!ENTITY addonPrivateBrowsing.manageButton.accesskey "r">
