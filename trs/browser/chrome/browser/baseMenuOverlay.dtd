@@ -28,9 +28,6 @@
 <!ENTITY helpSafeMode.stop.label       "Nayi'ì ñû' ngà nej sa ga'ue nutò' hua yugui">
 <!ENTITY helpSafeMode.stop.accesskey   "N">
 
-<!ENTITY healthReport2.label      "&brandShorterName; Sa nata' nej sa hua a'na'an">
-<!ENTITY healthReport2.accesskey  "e">
-
 <!ENTITY helpTroubleshootingInfo.label      "Nuguan' garasun' dàj nagi'iô' sa hua a'nan'an">
 <!ENTITY helpTroubleshootingInfo.accesskey  "N">
 
@@ -52,3 +49,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Nadigân daran'anj">
+
+<!ENTITY touchBarCmdMac.label           "Nadunā sa huā riña barrâ tâktil…">

@@ -19,61 +19,6 @@
 <!ENTITY navbarOverflow.label                "Doj sa ga'ue garasun'">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "Nagi'aj nakà rakïj ñaj">
-<!ENTITY  reloadTab.accesskey                "N">
-<!ENTITY  reloadAllTabs.label                "Nagi'iaj nakà daran' nej rakïj ñaj">
-<!ENTITY  reloadAllTabs.accesskey            "A">
-<!ENTITY  selectAllTabs.label                "Nahui' da'ua gè rakïj ñanj">
-<!ENTITY  selectAllTabs.accesskey            "S">
-<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTab.label                 "Girì' a'ngo rakïj ma">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTab.accesskey             "D">
-<!ENTITY  closeTabOptions.label              "Daj gi'io' da' narán nej rakiïj ñaj">
-<!ENTITY  closeTabOptions.accesskey          "O">
-<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTabs.label                "rakïj ñanj nata'a">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTabs.accesskey            "D">
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Narrán nej rakïj ñaj nù ne' huà'a">
-<!ENTITY  closeTabsToTheEnd.accesskey        "i">
-<!ENTITY  closeOtherTabs.label               "Narràn a'ngô da'aj ne rakíj ñaj">
-<!ENTITY  closeOtherTabs.accesskey           "o">
-
-<!ENTITY  closeSelectedTabs.label            "Narrûn' riña rakïj ñaj">
-<!ENTITY  closeSelectedTabs.accesskey        "S">
-
-<!ENTITY  closeTabs.label                    "Narán Rakïj ñanj">
-<!ENTITY  closeTabs.accesskey                "S">
-<!ENTITY  pinSelectedTabs.label              "Gachrun rakïj ñanj">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinSelectedTabs.accesskey          "P">
-<!ENTITY  unpinSelectedTabs.label            "Ga'ne rakïj ñanj">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinSelectedTabs.accesskey        "b">
-<!-- Reload Tab and Reload Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadSelectedTabs.label           "Nachra ñun' riña rakïj ñaj">
-<!ENTITY  reloadSelectedTabs.accesskey       "R">
-<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadTabs.label                   "Nagi'aj nakà nej rakïj ñaj">
-<!ENTITY  reloadTabs.accesskey               "R">
-<!ENTITY  bookmarkSelectedTabs.label         "Nuto' a'ngo rakïj ñanj...">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkSelectedTabs.accesskey     "k">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -90,39 +35,18 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "G">
-<!ENTITY  sendTabToDevice.label              "Ga'nìnj rakïj ñanj gan'anj aga'">
-<!ENTITY  sendTabToDevice.accesskey          "a">
 <!ENTITY  sendPageToDevice.label             "Ga'nïnj pâgina gan'anj aga'">
 <!ENTITY  sendPageToDevice.accesskey         "a">
 <!ENTITY  sendLinkToDevice.label             "Ga'nïnj enlâse riña Aga'">
 <!ENTITY  sendLinkToDevice.accesskey         "A">
-<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
-These two items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  moveTabOptions.label               "Dusikï' rakïj ñanj">
-<!ENTITY  moveTabOptions.accesskey           "v">
-<!ENTITY  moveSelectedTabOptions.label       "Dusikï' rakïj ñanj">
-<!ENTITY  moveSelectedTabOptions.accesskey   "v">
-<!ENTITY  moveToStart.label                  "Dusikï' riña ayi'ij">
-<!ENTITY  moveToStart.accesskey              "S">
-<!ENTITY  moveToEnd.label                    "Dùsiki' ga'an riña menu">
-<!ENTITY  moveToEnd.accesskey                "E">
-<!ENTITY  moveToNewWindow.label              "Dusiki' 'ngo Bendâna">
-<!ENTITY  moveToNewWindow.accesskey          "B">
-<!ENTITY  reopenInContainer.label            "Na'nïn' riña kontenedor">
-<!ENTITY  reopenInContainer.accesskey        "e">
-<!ENTITY  bookmarkAllTabs.label              "Nuto' a'ngo rakïj ñanj...">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
-<!ENTITY  bookmarkTab.label                  "Nuto' a'ngo rakïj ñanj">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkTab.accesskey              "B">
 <!ENTITY  undoCloseTab.label                 "Tanikaj ñûn' rakïj ñanj">
 <!ENTITY  undoCloseTab.accesskey             "U">
-<!ENTITY  closeTab.label                     "Ganarán riñanj">
-<!ENTITY  closeTab.accesskey                 "c">
 <!ENTITY  hiddenTabs.label                   "Rakïj ñanj nun huì">
 
 <!ENTITY  listAllTabs.label      "Ni'io' nej rakïj ñanj hua ni'ninj">
+<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
+in "Search through tabs". -->
+<!ENTITY  allTabsMenu.searchTabs.label       "Nana'uì' nej Rakïj ñanj">
 
 <!ENTITY tabCmd.label "Rakïj ñanj nakàa">
 <!ENTITY tabCmd.accesskey "T">
@@ -141,6 +65,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Nari' ña du'ua">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
+<!ENTITY importFromAnotherBrowserCmd.label "Ganukuo' asìj riña a'ngô navegador…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 <!ENTITY taskManagerCmd.label "Sa nikaj ñu'unj nej suun">
 
@@ -153,36 +79,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Riñan man sa gara sun'">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Dukuán màn sa garasun' ngà nej markador">
-
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Nagi'iaj nakà daran' nej rakïj ñaj">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Nuto' a'ngo rakïj ñanj...">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
-
-<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Nachra ñun' riña rakïj ñaj">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "R">
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Nachra ñun' riña rakïj ñaj">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "R">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Na'ninj so' nej rakïj ñanj nu dukuán markador...">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "T">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Na'ninj so' nej rakïj ñanj nu nej dukuán markador...">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
-<!ENTITY toolbarContextMenu.selectAllTabs.label "Nahui' da'ua gè rakïj ñanj">
-<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "S">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Tanikaj ñûn' rakïj ñanj">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "Si kodigo pagina">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -229,6 +125,27 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "Nagi'iaj lij riña aga' sikà' ràa">
 <!ENTITY fullScreenExit.accesskey "F">
 
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Garasun Firefox guendâ gachē nunt">
+<!ENTITY fxa.signin.description.label "Gatū riña si markadot, riña gaché nunt nī riña nagi'iát si agâ't.">
+<!ENTITY fxa.signin.button.label "Nachrūn &syncBrand.shortName.label;…">
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "Ni'iāj riña si korreôt">
+<!ENTITY fxa.unverified.description.label "Da' ga'ue nagi'iaj nuguan'ànt nī da'uît ni'iāj sinïnt dàj hua riña si kuentât.">
+<!ENTITY fxa.unverified.button.label "Na'nïn &syncBrand.shortName.label; Nagi'iaj…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Dānaj nutà't si yuguît">
+<!ENTITY fxa.menu.manageAccount.label "Si Kuendâ Administrador…">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; Nagi'iaj…">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Duguatûj a'ngô aga'a…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -245,6 +162,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Nagi'iaj lij riña aga' sikà' ràa (esc)">
 <!ENTITY leaveDOMFullScreen.label "Nagi'iaj lij riña aga' sikà' ràa">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
+     these two strings are used when right-clicking on a video in the
+     content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.label "Picture-in-Picture">
+<!ENTITY pictureInPicture.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -263,9 +186,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Sa raj sun nichrà' doj pagina na">
 <!ENTITY editThisBookmarkCmd.label "Nagi'io' sa arajsun nichrò' doj">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-
-<!ENTITY subscribeToPageMenupopup.label "Gutà' si yuguît riña ñaj na">
-<!ENTITY subscribeToPageMenuitem.label "Gutà' si yuguît riña ñaj na...">
 
 <!ENTITY addCurPagesCmd.label "Nuto' a'ngo rakïj ñanj...">
 <!ENTITY showAllBookmarks2.label "Ni'io' sa raj sun nichro' doj">
@@ -305,7 +225,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Nachrâ so' datos da' gahuin rān ma">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Àsij gan' nikaj ñu'unj nej dugui' navegador">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Na'nïn' panel nani'in da'nga' web">
-
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Na'nïn riña nej sa 'na' achín ni'iát da' gachē nunt">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gi'iaj sun sitio na 'ngà si kamarat ni mikrofono">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gi'iaj sun sitio na 'ngà si mikrofonot">
@@ -328,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasBlocked.tooltip            "Gi'iaj blokeandot da' si gida'à nej dugui' datos canva guenda sitio web na.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Gi'iaj blokeandot da' si garajsun sitio web na Adobe Flash plugin.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Gi'iaj blokeandot MIDI guenda sitio web na.">
+<!ENTITY urlbar.installBlocked.tooltip           "Naránt da' nutà' man nej sa huāa guendâ sitiô nan.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Digû' riña gaché nu'">
 
@@ -382,10 +303,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Desarroyador web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY devtoolsRecordExecution.label "Gachra so' ejekusion">
-<!ENTITY devtoolsSaveRecording.label "Na'nïnj so' grabasion">
-<!ENTITY devtoolsReplayExecution.label "Nachrun' ejekusion">
-
 <!ENTITY inspectContextMenu.label     "Natsi' elemento">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
@@ -430,6 +347,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Sa arajsunt doj">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
+<!ENTITY logins.label                           "Nej riña gayi'ìt sesiûn nī nej da'nga' huìi">
 
 <!ENTITY clearRecentHistory.label               "Dure' riña gaché nu'...">
 
@@ -460,6 +378,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Dure' riña gaché nu'...">
 <!ENTITY appMenuHistory.restoreSession.label "Nagi'iaj ñunj sesión gà gachin">
 <!ENTITY appMenuHistory.viewSidebar.label "Ni'io' dukuán gaché nu'">
+<!ENTITY appMenuHistory.hideSidebar.label "Gachrī huì' dukuán 'na' sa nata' danè' gaché nu'">
 <!ENTITY appMenuHistory.recentHistory.label "Riña gaché nu nakò'">
 <!ENTITY appMenuHelp.label "Sa ruguñu'unj un">
 
@@ -488,6 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Gatu' riña Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Nagi'iaj chre' nej aga'a...">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ni'io' nej rakïnj ñaj nūn dukuán nahuìi">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Gachrī huì' dukuán 'na' nej rakïj ñanj huā nuguan'àan">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Ganachun' 'ngà a'ngo aga'a...">
 
 <!ENTITY appMenuRecentHighlights.label "Sa yitïnj doj">
@@ -515,9 +435,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "Dugumin' ra'a ma">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
-
 <!ENTITY customizeMenu.removeExtension.label "Dure' sa taj a">
 <!ENTITY customizeMenu.removeExtension.accesskey "v">
+<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
+     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.label "Natà' daj hua ekstensiûn">
+<!ENTITY customizeMenu.reportExtension.accesskey "o">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -656,6 +580,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Sa raj sun nichrà' doj pagina na">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY pageAction.copyLink.label    "nako' chrej e">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
+<!ENTITY saveToPocketCmd.accesskey    "k">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+
 <!ENTITY emailPageCmd.label           "Ga'ni' Link…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Na'nïnj sà' Pâjina Gù'na…">
@@ -894,6 +824,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsReloadHint "Nagi'iaj nakà ñut pajinâ na da' gi'iaj sun sa nadunat.">
 <!ENTITY identity.permissionsPreferences.tooltip "Na'nïn' sa achín ni'iaj">
 
+
+<!-- LOCALIZATION NOTE:
+     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
+     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!-- LOCALIZATION NOTE:
+     In the Site Not Working? view, we suggest turning off protections if
+     the user is experiencing issues with any of a variety of functionality.
+     protections.siteNotWorkingView.header: The header of the list
+     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+
+
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Nej rakïj ñanj riña aché nu'">
@@ -902,40 +845,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Nej rakïj ñaj guña huaa">
 
 <!ENTITY syncedTabs.sidebar.label              "Nej rakïj ñaj guña hua">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Gayi'ì sesión riña Firefox asij riña a'ngò aga'a.">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "Ni'iaj rakïj ñaj nū riña a'ngo si aga' asij ñuna ànj">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "Gayi'ì sesión da' ni'iaj nej rakïj ñaj asij riña a'ngo si agat.">
-<!ENTITY syncedTabs.sidebar.unverified.label   "Da'ui ma ganatsij ma si kuentat">
-<!ENTITY syncedTabs.sidebar.notabs.label       "Si na'nï' rakij ñanj">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "Na'nïn' &syncBrand.shortName.label; preferensia">
-<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
-     when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Nachrūn si sinkronisasion rakïj ñaj da' ni'iaj nej rakïj ñaj asij riña a'ngo si agat.">
-<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Nana'ui' rakïj ñanj 'iaj sun nugua'ān">
-<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Ganachrun' 'ngà a'ngò aga'a">
-
-<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
-                        syncedTabs.context.openAllInTabs.accesskey):
-     These access keys are identical because their associated menu items are
-     mutually exclusive -->
-<!ENTITY syncedTabs.context.open.label                       "Na'nïn">
-<!ENTITY syncedTabs.context.open.accesskey                   "O">
-<!ENTITY syncedTabs.context.openInNewTab.label               "Na'nïn' riña a'ngô rakïj ñaj nakàa">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "Na'nïn' riña a'ngô rakïj ñaj nakàa">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Na'nïn' riña a'ngô rakïj ñaj huìi">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Nuto' markador riña rakïj ñanj na...">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
-<!ENTITY syncedTabs.context.copy.label                       "Guxun' ni nachrun' a'ngô hiuj u">
-<!ENTITY syncedTabs.context.copy.accesskey                   "C">
-
-<!ENTITY syncedTabs.context.openAllInTabs.label              "Na'nïn' dara'anj 'ngà rakïj ñanj">
-<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
-<!ENTITY syncedTabs.context.managedevices.label              "Nagi'iaj chre' nej aga'a...">
-<!ENTITY syncedTabs.context.managedevices.accesskey          "D">
-
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -946,42 +855,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.label         "Gatu' 'ngà &syncBrand.shortName.label;...">
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Sync">
-
-<!ENTITY customizeMode.menuAndToolbars.header3 "Ganukuaj si rasut ga'an riña dukuán ma rasùun.">
-<!ENTITY customizeMode.restoreDefaults "Nagi'iaj nakà ñu nej sa gá hua">
-<!ENTITY customizeMode.done "Gà' huaj">
-<!ENTITY customizeMode.titlebar "Dukuán ne' ràa">
-<!ENTITY customizeMode.extraDragSpace "Dunaj ni'nïn' riña ganukuo'">
-<!ENTITY customizeMode.toolbars2 "Riña ma sa raj sun'">
-<!ENTITY customizeMode.lwthemes "Têma">
-<!ENTITY customizeMode.lwthemes.myThemes "Si temaj">
-<!ENTITY customizeMode.lwthemes.recommended "Sā sa'a huin ânj">
-<!ENTITY customizeMode.lwthemes.menuManage "Ganikaj ñu'un'">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
-<!ENTITY customizeMode.lwthemes.menuGetMore "Gàchin' doj tema">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.overflowList.title2 "Menu sa niko'o">
-<!ENTITY customizeMode.overflowList.description "Ganukuaj nī na'nïnj ra'àt ñuna da' si ginunj riña dukuán rasùun...">
-<!ENTITY customizeMode.uidensity "Nikòo huaj">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
-     “Normal” is displayed in the Customize screen, under the Density menu. -->
-<!ENTITY customizeMode.uidensity.menuNormal.label "Da'nga' gaj">
-<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Da'nga' gaj">
-<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
-     “Compact” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Compact). -->
-<!ENTITY customizeMode.uidensity.menuCompact.label "Kompakta">
-<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Kompakta">
-<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
-     “Touch” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Touch), and it means that control layout is
-     optimized for touch devices. -->
-<!ENTITY customizeMode.uidensity.menuTouch.label "Tâktil">
-<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Tâktil">
-<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
-<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Garasun' Tâktil da' garasun' 'ngà Tableta">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Gachi hui ma'an ma">
 
@@ -995,78 +868,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.title "Garrun' riña kontenido">
 <!ENTITY contentBlocking.detected "Nachì nità kontenido arrán riña sitio na.">
 <!ENTITY contentBlocking.notDetected "Nū nari'ij kontenido arrán riña sitio na.">
-<!ENTITY contentBlocking.disabled.label "Nitaj si huáj">
-<!ENTITY contentBlocking.disabled.tooltip "Guxunt sa arrán riña kontenido na.">
-<!ENTITY contentBlocking.exception.tooltip "Guxunt sa arrán riña kontenido na guenda sitio na.">
-
-<!ENTITY contentBlocking.fastBlock.label "Sa naga'naj sa 'iaj sun naj">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Slow-Loading Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.fastBlock.blocked.label "Hua blokeadoj">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
-     "Firefox is blocking Slow-Loading Trackers"-->
-<!ENTITY contentBlocking.fastBlock.blocking.label "Garun'">
-<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.fastBlock.add.label "Nuto' sa arrán...">
-
-<!ENTITY contentBlocking.trackingProtection2.label "Daran sa naga'naj a">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Sa naga'naj">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.allowed.label):
-     This label signals that this type of content blocking is turned
-     OFF and is not blocking tracker content, so this is not
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Allowed"-->
-<!ENTITY contentBlocking.trackingProtection.allowed.label "Ga'ue">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking tracker content, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.trackingProtection.blocked.label "Hua blokeadoj">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Trackers"-->
-<!ENTITY contentBlocking.trackingProtection.blocking.label "Garun'">
-<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.trackingProtection.add.label "Nuto' sa arrán...">
-
-<!ENTITY contentBlocking.3rdPartyCookies.label "Si kookies a'ngò dugui'">
-<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Kookies naga'naj">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
-     This label signals that this type of content blocking is turned
-     ON and is successfully blocking third-party cookies, so this is
-     a positive thing. It forms the end of the (imaginary) sentence
-     "Third-Party Cookies [are] Blocked"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Hua blokeadoj">
-<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
-     This label signals that this type of content blocking is turned
-     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Third-Party Cookies"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Garun'">
-<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
-     This is displayed as a link to preferences, where the user can add
-     this specific type of content blocking. When this text is shown
-     the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.3rdPartyCookies.add.label "Nuto' sa arán...">
 
 <!ENTITY contentBlocking.manageSettings.label "Ganikaj ñu'un sa arán riña kontenido">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "Sa naga'naj">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Da' garánt riña daran' sa naga'naj ni ganahuit sa arán gahuin ma ya yitinj in.">
+
+
+
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Nato' sa gire'e">
 <!ENTITY contentBlocking.breakageReportView.label "Nato' sa gire'e">
@@ -1076,22 +888,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Hua 'ngò sa gire' aj (Si garan' ruat)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Ga'ni' reporte">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Duyichin'">
-
-<!ENTITY trackingProtection.title "Sa narrán riña sa naga'nàj a">
-<!ENTITY trackingProtection.tooltip "Na'nïn' daj huin ruo' garán ma">
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock4.label "Guxun' sa arrán guendâ sitio na">
-<!ENTITY trackingProtection.unblock4.accesskey "D">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate4.label "Guxun akun' guendâ sitio na">
-<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
-<!ENTITY trackingProtection.block5.label "Gà ni'nïn sa arrán guendâ sitio na">
-<!ENTITY trackingProtection.block5.accesskey "E">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
@@ -1111,11 +907,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.showAll.label "Nadigân daran'anj">
 <!ENTITY pluginNotification.showAll.accesskey "S">
 
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "Ga'ni'">
-<!ENTITY pluginActivateAlways.label "Ga'ni' nī tanu' ruaj">
-<!ENTITY pluginBlockNow.label "Garrun' plugin">
-
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
@@ -1125,27 +916,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "Narán">
 
-<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
-     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
-     Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "Gini'ñu':">
-<!ENTITY panicButton.view.5min                    "U'ūn' minutu">
-<!ENTITY panicButton.view.2hr                     "Huij hora">
-<!ENTITY panicButton.view.day                     "24 horâ">
-
-<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
-     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
-     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
-     The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "'Ngà gayi'i':">
-<!ENTITY panicButton.view.deleteCookies           "Dure' nej <html:strong>Kookies</html:strong>">
-<!ENTITY panicButton.view.deleteHistory           "Dure' <html:strong>riña gaché nu'</html:strong>">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "Narrun' daran' <html:strong>rakïj ñanj</html:strong> nī <html:strong>ventana</html:strong>">
-<!ENTITY panicButton.view.openNewWindow           "Na'nïn' ventana nakàa">
-
-<!ENTITY panicButton.view.undoWarning             "Si ga'ue dure' sa 'ngà gahuin na.">
-<!ENTITY panicButton.view.forgetButton            "¡Gini'ñu!">
-
 <!ENTITY panicButton.thankyou.msg1                "'Ngà ganare' riña gaché nut.">
 <!ENTITY panicButton.thankyou.msg2                "¡Gadadù gache nut!">
 <!ENTITY panicButton.thankyou.buttonlabel         "¡Guruat!">
@@ -1153,30 +923,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Gahuin chrūn doj rayi'ì DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "Nagi'iaj nakà &brandShorterName;da' gi'iaj sun hiò ma.">
-<!ENTITY updateAvailable.whatsnew.label "Ni'iaj si ngà gurugui' a'ngô sa nakàa.">
-<!ENTITY updateAvailable.header.message "Hua 'ngo sa nakàa guenda &brandShorterName;.">
-<!ENTITY updateAvailable.acceptButton.label "Naduni' sa nagi'iaj nakàa">
-<!ENTITY updateAvailable.acceptButton.accesskey "D">
-<!ENTITY updateAvailable.cancelButton.label "Si ga'ue akuan'ni">
-<!ENTITY updateAvailable.cancelButton.accesskey "N">
 <!ENTITY updateAvailable.panelUI.label "Naduni' sa nakàa guenda &brandShorterName;">
-
-<!ENTITY updateManual.message "Naduninj 'ngò sa nakàa guenda &brandShorterName;.">
-<!ENTITY updateManual.whatsnew.label "Ni'iaj si ngà gurugui' a'ngô sa nakàa.">
-<!ENTITY updateManual.header.message "Si ga'ue nagi'iaj nakàt &brandShorterName;.">
-<!ENTITY updateManual.acceptButton.label "Naduninj &brandShorterName;">
-<!ENTITY updateManual.acceptButton.accesskey "D">
-<!ENTITY updateManual.cancelButton.label "Si ga'ue akuan'ni">
-<!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Naduni' a'ngo sa hua dàdanj &brandShorterName;">
-
-<!ENTITY updateRestart.message2 "'Ngà nayi'ì ñun, &brandShorterName; ni na'nin ñunj daran' rakïj ñanj nī nej ventana hua ni'nïnj.">
-<!ENTITY updateRestart.header.message2 "Duna'àj ni nachrun ñûnt da' nahuin nàkaj &brandShorterName;.">
-<!ENTITY updateRestart.acceptButton.label "Nayi'ì ñut nī nagi'iaj ñut">
-<!ENTITY updateRestart.acceptButton.accesskey "R">
-<!ENTITY updateRestart.cancelButton.label "Si ga'ue akuan'ni">
-<!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Duna'àj ni nachrun ñûnt da' nahuin nàkaj &brandShorterName;">
 
 <!ENTITY newTabControlled.header.message "Nadunà rakïj ñanj.">
@@ -1201,11 +949,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Sa gi'iaj pajinâ na">
 <!ENTITY pageAction.addToUrlbar.label "Nuto' riña dukuán direksiôn">
 <!ENTITY pageAction.removeFromUrlbar.label "Guxun' riña dukuán direksiôn">
-<!ENTITY pageAction.allowInUrlbar.label "Digun' ma riña dukuán direksiôn">
-<!ENTITY pageAction.disallowInUrlbar.label "Sī digan' ma riña dukuán direksiôn">
 <!ENTITY pageAction.manageExtension.label "Ganikaj ñu'un' extensiôn...">
-
-<!ENTITY pageAction.sendTabToDevice.label "Ga'nìnj rakïj ñanj gan'anj aga'">
 
 <!ENTITY sendToDevice.syncNotReady.label "'Iaj sun nugua'ān darn' Aga'a...">
 
@@ -1219,8 +963,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Hua ni'nïnj da' gatu'">
-
-<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
-     The first <image> tag is replaced with the icon for the add-ons menu.
-     The second <image> tag is replaced with the icon for the toolbar menu. -->
-<!ENTITY addonPostInstallMessage.label "Ganikaj ñu'u' komplementos 'ngà ga'ui' klik <image class='addon-addon-icon'/> riña <image class='addon-toolbar-icon'/> menû.">
