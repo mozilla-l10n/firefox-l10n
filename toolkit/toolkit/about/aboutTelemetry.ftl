@@ -77,6 +77,7 @@ about-telemetry-settings-explanation = A telemetria { about-telemetry-data-type 
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Minden információcsomag „<a data-l10n-name="ping-link">ping</a>” csomagként kerül elküldésre. Jelenleg a következő ping látható: { $name }, { $timestamp }.
 about-telemetry-ping-details-current = Minden információcsomag „<a data-l10n-name="ping-link">ping</a>” csomagként kerül elküldésre. Jelenleg a következő ping látható: jelenlegi.
+about-telemetry-data-details-current = Az információk „<a data-l10n-name="ping-link">pingekbe</a>” csomagolva kerülnek elküldésre. Ön a jelenlegi adatokat látja.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
