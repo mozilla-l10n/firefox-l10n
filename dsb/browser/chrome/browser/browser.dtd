@@ -19,52 +19,6 @@
 <!ENTITY navbarOverflow.label                "Dalšne rědy…">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "Rejtark znowego zacytaś">
-<!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  selectAllTabs.label                "Wšykne rejtarki wubraś">
-<!ENTITY  selectAllTabs.accesskey            "W">
-<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTab.label                 "Rejatark pódwójś">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTab.accesskey             "R">
-<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTabs.label                "Rejtarki pódwójś">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTabs.accesskey            "R">
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Rejtarki napšawo zacyniś">
-<!ENTITY  closeTabsToTheEnd.accesskey        "n">
-<!ENTITY  closeOtherTabs.label               "Druge rejtarki zacyniś">
-<!ENTITY  closeOtherTabs.accesskey           "D">
-
-<!ENTITY  closeTabs.label                    "Rejtarki zacyniś">
-<!ENTITY  closeTabs.accesskey                "z">
-<!ENTITY  pinSelectedTabs.label              "Rejtarki pśipěś">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinSelectedTabs.accesskey          "R">
-<!ENTITY  unpinSelectedTabs.label            "Rejtarki wótpěś">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinSelectedTabs.accesskey        "t">
-<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadTabs.label                   "Rejtarki znowego zacytaś">
-<!ENTITY  reloadTabs.accesskey               "n">
-<!ENTITY  bookmarkSelectedTabs.label         "Rejtarki ako cytańske znamjenja składowaś…">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkSelectedTabs.accesskey     "k">
-
-<!-- Tab context menu -->
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -85,28 +39,8 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendPageToDevice.accesskey         "B">
 <!ENTITY  sendLinkToDevice.label             "Wótkaz na rěd pósłaś">
 <!ENTITY  sendLinkToDevice.accesskey         "W">
-<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
-These two items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  moveTabOptions.label               "Rejtark pśesunuś">
-<!ENTITY  moveTabOptions.accesskey           "s">
-<!ENTITY  moveSelectedTabOptions.label       "Rejtarki pśesunuś">
-<!ENTITY  moveSelectedTabOptions.accesskey   "s">
-<!ENTITY  moveToStart.label                  "K zachopjeńkoju pśesunuś">
-<!ENTITY  moveToStart.accesskey              "K">
-<!ENTITY  moveToEnd.label                    "Ku kóńcoju pśesunuś">
-<!ENTITY  moveToEnd.accesskey                "c">
-<!ENTITY  moveToNewWindow.label              "Do nowego wokna pśesunuś">
-<!ENTITY  moveToNewWindow.accesskey          "n">
-<!ENTITY  reopenInContainer.label            "W kontejnerje znowego wócyniś">
-<!ENTITY  reopenInContainer.accesskey        "k">
-<!ENTITY  bookmarkTab.label                  "Rejtark ako cytańske znamje składowaś">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkTab.accesskey              "t">
 <!ENTITY  undoCloseTab.label                 "Zacynjony rejtark wótnowiś">
 <!ENTITY  undoCloseTab.accesskey             "c">
-<!ENTITY  closeTab.label                     "Rejtark zacyniś">
-<!ENTITY  closeTab.accesskey                 "z">
 <!ENTITY  hiddenTabs.label                   "Schowane rejtarki">
 
 <!ENTITY  listAllTabs.label      "Wšykne rejtarki nalicyś">
@@ -145,31 +79,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Rědka cytańskich znamjenjow">
 <!ENTITY personalbarCmd.accesskey "c">
 <!ENTITY bookmarksToolbarItem.label "Zapiski rědki cytańskich znamjenjow">
-
-<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Wubrany rejtark znowego zacytaś">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "b">
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Wubrane rejtarki znowego zacytaś">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "u">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Wubrany rejtark ako cytańske znamje składowaś…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "c">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Wubrane rejtarki ako cytańske znamjenja składowaś…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "b">
-<!ENTITY toolbarContextMenu.selectAllTabs.label "Wšykne rejtarki wubraś">
-<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "u">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Zacynjony rejtark wótnowiś">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "c">
 
 <!ENTITY pageSourceCmd.label "Žrědłowy tekst boka">
 <!ENTITY pageSourceCmd.accesskey "t">
@@ -234,7 +143,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signedInAs.label "Pśizjawjony ako">
 <!ENTITY fxa.menu.manageAccount.label "Konto zastojaś…">
 <!ENTITY fxa.menu.syncSettings.label "Nastajenja &syncBrand.shortName.label;…">
-<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Drugi rěd zwězaś…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -340,7 +248,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasBlocked.tooltip            "Sćo blokěrował pśistup ku canvasowym datam za toś to websedło.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Sćo toś tomu websedłoju wužywanje tykaca Adobe Flash zawoborał.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Sćo blokěrował pśistup k MIDI za toś to websedło.">
-
 <!ENTITY urlbar.installBlocked.tooltip           "Sćo blokěrował instalěrowanje dodankow za toś to websedło.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Historiju pokazaś">
@@ -530,7 +437,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "R">
 <!ENTITY customizeMenu.removeExtension.label "Rozšyrjenje wótwónoźeś">
 <!ENTITY customizeMenu.removeExtension.accesskey "t">
-
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
@@ -885,7 +791,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "To jo wěsty bok &brandShortName;.">
 <!ENTITY identity.extensionPage "Toś ten bok jo se z rozšyrjenja zacytał.">
 <!ENTITY identity.insecureLoginForms2 "Pśizjawjenja, kótarež zapódawaju se na toś tom boku, by mógli wobgrozone byś.">
-
 <!ENTITY identity.customRoot "Zwisk jo se pśeglědował pśez certifikatowego wudawarja, kótaryž njejo pśipóznaty wót Mozilla.">
 
 <!-- Strings for connection state warnings. -->
@@ -905,7 +810,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Lěcrownož &brandShortName; jo wopśimjeśe blokěrował, jo hyšći wopśimjeśe na boku, kótarež njejo wěste (na pśikład wobraze).">
 <!ENTITY identity.description.activeLoaded "Toś to websedło wopśimujo wopśimjeśe, kótarež njejo wěste (na pśikład skripty) a waš zwisk z nim njejo priwatny.">
 <!ENTITY identity.description.activeLoaded2 "Druge luźe mógu informacije wiźeś, kótarež źěliśo z toś tym sedłom (na pśikład gronidła, powěsći, kreditne kórty atd.).">
-
 <!ENTITY identity.description.customRoot "Mozilla toś togo certifikatowego wudawarja njepśipóznawa. Jo se snaź pśidał pśez waš źěłowy system abo wót administratora.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Šćit zmóžniś">
@@ -928,6 +832,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Nastajenja blokěrowanja wopśimjeśa wócyniś">
 
 
+<!ENTITY protections.etpON.header "Pólěpšony slědowański šćit jo zmóžnjony za toś to sedło">
+<!ENTITY protections.etpOFF.header "Polěpšony slědowański šćit jo znjemóžnjony za toś to sedło">
+<!ENTITY protections.settings.label "Šćitowe nastajenja">
+<!ENTITY protections.report.label "Dopołnu rozpšawu pokazaś">
+<!-- LOCALIZATION NOTE:
+     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
+     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "Sedło njefunkcioněrujo?">
+<!ENTITY protections.siteNotWorkingView.title "Sedło njefunkcioněrujo?">
+<!-- LOCALIZATION NOTE:
+     In the Site Not Working? view, we suggest turning off protections if
+     the user is experiencing issues with any of a variety of functionality.
+     protections.siteNotWorkingView.header: The header of the list
+     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Znjemóžniśo šćit, jolic maśo problemy z:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Pśizjawjeńske póla">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Formulary">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Płaśenja">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Komentary">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Wideo">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Jo sedło pó znjemóžnjenju šćitow hyšći wobškóźone?">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Rozpšawu pósłaś">
+
+
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Rejtarki wobglědowaka">
@@ -936,40 +866,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Synchronizěrowane rejtarki">
 
 <!ENTITY syncedTabs.sidebar.label              "Synchronizěrowane rejtarki">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Pśizjawśo se pla Firefox z drugich rědow, aby se jich rejtarki how woglědał.">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "Cośo how swóje rejtarki z drugich rědow wiźeś?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "Pśizjawśo se, aby se lisćinu rejtarkow ze swójich drugich rědow woglědał.">
-<!ENTITY syncedTabs.sidebar.unverified.label   "Wašo konto musy se wobkšuśiś.">
-<!ENTITY syncedTabs.sidebar.notabs.label       "Žedne wócynjone rejtarki">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "Nastajenja &syncBrand.shortName.label; wócyniś">
-<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
-     when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Synchronizěrowanje rejtarkow zašaltowaś, aby se lisćina rejtarkow z drugich rědow pokazała.">
-<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Synchronizěrowane rejtarki pytaś">
-<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Drugi rěd zwězaś">
-
-<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
-                        syncedTabs.context.openAllInTabs.accesskey):
-     These access keys are identical because their associated menu items are
-     mutually exclusive -->
-<!ENTITY syncedTabs.context.open.label                       "Wócyniś">
-<!ENTITY syncedTabs.context.open.accesskey                   "W">
-<!ENTITY syncedTabs.context.openInNewTab.label               "W nowem rejtarku wócyniś">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "r">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "Wótkaz w nowem woknje wócyniś">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "n">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Wótkaz w nowem priwatnem woknje wócyniś">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "r">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Toś ten bok ako cytańske znamje składowaś…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "c">
-<!ENTITY syncedTabs.context.copy.label                       "Kopěrowaś">
-<!ENTITY syncedTabs.context.copy.accesskey                   "K">
-
-<!ENTITY syncedTabs.context.openAllInTabs.label              "Wšykne w rejtarkach wócyniś">
-<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "W">
-<!ENTITY syncedTabs.context.managedevices.label              "Rědy rědowaś…">
-<!ENTITY syncedTabs.context.managedevices.accesskey          "R">
-
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -981,42 +877,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.label         "Znowego z &syncBrand.shortName.label; zwězaś…">
 <!ENTITY syncReAuthItem.accesskey     "Z">
 <!ENTITY syncToolbarButton.label      "Sync">
-
-<!ENTITY customizeMode.menuAndToolbars.header3 "Śěgniśo swóje nejlubše zapiski do symboloweje rědki abo woběžkowego menija.">
-<!ENTITY customizeMode.restoreDefaults "Standard wótnowiś">
-<!ENTITY customizeMode.done "Dokóńcony">
-<!ENTITY customizeMode.titlebar "Titelowa rědka">
-<!ENTITY customizeMode.extraDragSpace "Śěgaty rum">
-<!ENTITY customizeMode.toolbars2 "Symbolowe rědki">
-<!ENTITY customizeMode.lwthemes "Drastwy">
-<!ENTITY customizeMode.lwthemes.myThemes "Móje drastwy">
-<!ENTITY customizeMode.lwthemes.recommended "Dopórucone">
-<!ENTITY customizeMode.lwthemes.menuManage "Zastojaś">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "Z">
-<!ENTITY customizeMode.lwthemes.menuGetMore "Dalšne drastwy wobstaraś">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "D">
-<!ENTITY customizeMode.overflowList.title2 "Woběžkowy meni">
-<!ENTITY customizeMode.overflowList.description "Pśesuńśo zapiski sem, aby je w bliskosći, ale zwenka wašeje symboloweje rědki źaržał…">
-<!ENTITY customizeMode.uidensity "Gustosć">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
-     “Normal” is displayed in the Customize screen, under the Density menu. -->
-<!ENTITY customizeMode.uidensity.menuNormal.label "Normalny">
-<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normalny">
-<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
-     “Compact” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Compact). -->
-<!ENTITY customizeMode.uidensity.menuCompact.label "Kompaktny">
-<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Kompaktny">
-<!ENTITY customizeMode.uidensity.menuCompact.accessKey "K">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
-     “Touch” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Touch), and it means that control layout is
-     optimized for touch devices. -->
-<!ENTITY customizeMode.uidensity.menuTouch.label "Dotyknjenje">
-<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Dotyknjenje">
-<!ENTITY customizeMode.uidensity.menuTouch.accessKey "D">
-<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Dotyknjenje za tabletowy modus wužywaś">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Awtomatiski schowaś">
 
@@ -1084,27 +944,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "Zacyniś">
 
-<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
-     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
-     Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "Zabydni:">
-<!ENTITY panicButton.view.5min                    "zachadnych pěś minutow">
-<!ENTITY panicButton.view.2hr                     "zachadnej dwě góźinje">
-<!ENTITY panicButton.view.day                     "zachadnych 24 góźinow">
-
-<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
-     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
-     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
-     The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "Gaž pókšacujośo:">
-<!ENTITY panicButton.view.deleteCookies           "wulašuju se nejnowše <html:strong>cookieje</html:strong>">
-<!ENTITY panicButton.view.deleteHistory           "wulašujo se nejnowša <html:strong>historija</html:strong>">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "zacynïju se <html:strong>rejtarki</html:strong> a <html:strong>wokna</html:strong>">
-<!ENTITY panicButton.view.openNewWindow           "wócynijo se nowe cyste wokno">
-
-<!ENTITY panicButton.view.undoWarning             "Toś ta akcija njedajo se anulěrowaś.">
-<!ENTITY panicButton.view.forgetButton            "Zabydni!">
-
 <!ENTITY panicButton.thankyou.msg1                "Waša nejnowša historija jo wulašowana.">
 <!ENTITY panicButton.thankyou.msg2                "Wěste pśeglědowanje!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Wjeliki źěk!">
@@ -1112,31 +951,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Zgóńśo wěcej wó DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "Aktualizěrujśo swój &brandShorterName; za nejnowšy w malsnosći a priwatnosći.">
-<!ENTITY updateAvailable.whatsnew.label "Cytajśo, což jo nowe.">
-<!ENTITY updateAvailable.header.message "Nowa aktualizacija &brandShorterName; jo k dispoziciji.">
-<!ENTITY updateAvailable.acceptButton.label "Aktualizaciju ześěgnuś">
-<!ENTITY updateAvailable.acceptButton.accesskey "A">
-<!ENTITY updateAvailable.cancelButton.label "Nic něnto">
-<!ENTITY updateAvailable.cancelButton.accesskey "N">
-
 <!ENTITY updateAvailable.panelUI.label "Aktualizaciju &brandShorterName; ześěgnuś">
-
-<!ENTITY updateManual.message "Ześěgniśo nowu kopiju &brandShorterName; a buźomy pomagaś, ju instalěrowaś.">
-<!ENTITY updateManual.whatsnew.label "Cytajśo, což jo nowe.">
-<!ENTITY updateManual.header.message "&brandShorterName; njedajo se na nejnowšu wersiju aktualizěrowaś.">
-<!ENTITY updateManual.acceptButton.label "&brandShorterName; ześěgnuś">
-<!ENTITY updateManual.acceptButton.accesskey "z">
-<!ENTITY updateManual.cancelButton.label "Nic něnto">
-<!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Nowu kopiju &brandShorterName; ześěgnuś">
-
-<!ENTITY updateRestart.message2 "&brandShorterName; pó malsnem znowegostartowanju swóje wócynjone rejtarki a wokna wótnowijo, kótarež njejsu w priwatnem modusu.">
-<!ENTITY updateRestart.header.message2 "Startujśo znowego, aby &brandShorterName; aktualizěrował.">
-<!ENTITY updateRestart.acceptButton.label "Znowego startowaś a wobnowiś">
-<!ENTITY updateRestart.acceptButton.accesskey "Z">
-<!ENTITY updateRestart.cancelButton.label "Nic něnto">
-<!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateUnsupported.panelUI.label "Njamóžośo dalšne aktualizacije pśewjasć">
 <!ENTITY updateRestart.panelUI.label2 "Startujśo znowego, aby &brandShorterName; aktualizěrował">
 
@@ -1176,18 +992,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Funkcije bźezbariernošći zmóžnjone">
-
-<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
-     The first <image> tag is replaced with the icon for the add-ons menu.
-     The second <image> tag is replaced with the icon for the toolbar menu. -->
-<!ENTITY addonPostInstallMessage.label "Klikniśo na <image class='addon-addon-icon'/> w meniju <image class='addon-toolbar-icon'/>, aby swóje dodanki zastojał.">
-<!ENTITY addonPostInstall.incognito.checkbox.label "Toś to rozšyrjenje w priwatnych woknach dowóliś">
-<!ENTITY addonPostInstall.incognito.checkbox.accesskey "T">
-
-<!ENTITY addonPrivateBrowsing.header2.label "K rozšyrjenjam w priwatnych woknach přejś">
-<!ENTITY addonPrivateBrowsing.body2.label "Někotare nowe rozšyrjenja, kótarež &brandShorterName; pśidawaśo, w priwatnych woknach njefunkcioněruju, snaźkuli dowólujośo to w nastajenjach.">
-<!ENTITY addonPrivateBrowsing.learnMore.label "Zgóńśo, kak se nastajenja rozšyrjenjow zastojaju.">
-<!ENTITY addonPrivateBrowsing.okButton.label "W pórěźe, som zrozměł">
-<!ENTITY addonPrivateBrowsing.okButton.accesskey "z">
-<!ENTITY addonPrivateBrowsing.manageButton.label "Rozšyrjenja zastojaś">
-<!ENTITY addonPrivateBrowsing.manageButton.accesskey "R">
