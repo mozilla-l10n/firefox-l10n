@@ -4,6 +4,8 @@
 
 <!ENTITY autoconfigWizard2.title         "Configura un account di posta elettronica esistente">
 
+<!ENTITY emailWizard.title               "Configura un account email esistente">
+<!ENTITY emailWizard.caption             "Utilizza il tuo indirizzo email attuale">
 <!ENTITY name.label                      "Nome:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "Nome Cognome">
@@ -14,7 +16,9 @@
 <!ENTITY email.accesskey                 "I">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "you@example.com">
+<!ENTITY email3.placeholder              "Indirizzo email">
 <!ENTITY email.text                      "Il tuo indirizzo email esistente">
+<!ENTITY email.error                     "Indirizzo email non valido">
 <!ENTITY password.label                  "Password:">
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "Password">
@@ -76,6 +80,7 @@
 <!ENTITY half-manual-test.accesskey      "e">
 <!ENTITY manual-edit.label               "Configurazione manuale">
 <!ENTITY manual-edit.accesskey           "M">
+<!ENTITY manual-config.label             "Configura manualmente…">
 <!ENTITY open-provisioner.label          "Ottieni un nuovo indirizzo di posta elettronica…">
 <!ENTITY open-provisioner.accesskey      "o">
 
