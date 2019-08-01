@@ -41,6 +41,7 @@ policy-EnableTrackingProtection = Enable or disable Content Blocking and optiona
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Install, uninstall or lock extensions. The Install option takes URLs or paths as parameters. The Uninstall and Locked options take extension IDs.
+policy-ExtensionSettings = Manage all aspects of extension installation.
 policy-ExtensionUpdate = Enable or disable automatic extension updates.
 policy-HardwareAcceleration = If false, turn off hardware acceleration.
 policy-InstallAddonsPermission = Allow certain web sites to install add-ons.
