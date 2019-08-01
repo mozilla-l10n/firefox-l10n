@@ -877,15 +877,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "Sa naga'naj">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Da' garánt riña daran' sa naga'naj ni ganahuit sa arán gahuin ma ya yitinj in.">
 
+<!ENTITY contentBlocking.cookies.label "Nej kôki">
+<!ENTITY contentBlocking.cookiesView.label "Nej kôki ni nej si datô sîtio">
 
+<!ENTITY contentBlocking.cryptominers.label "Kriptominêro">
+<!ENTITY contentBlocking.cryptominersView.label "Nej kriptominêro">
 
+<!ENTITY contentBlocking.fingerprinters.label "Nej da'nga ra'a">
+<!ENTITY contentBlocking.fingerprintersView.label "Nej da'nga' ra'a">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Nato' sa gire'e">
 <!ENTITY contentBlocking.breakageReportView.label "Nato' sa gire'e">
 <!ENTITY contentBlocking.breakageReportView2.description "Sa narán riña nej sa huaa ga'ue gi'iaj yì'ij riña da'aj sîtio. Ngà natâ't nej sa 'iaj a'nan' ni rugûnu'unjt riña &brandShortName; yitïnj chre. (Na'nín 'ngo URL, danj naj nuguan' a'min rayi'î da nagi'iát si nabegadôr Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Gahuin chrūn doj">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Gahuin chrūn doj">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Hua 'ngò sa gire' aj (Si garan' ruat)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Sa tàj a: Natà' sa gahui a'nan'">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Ga'ni' reporte">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Duyichin'">
 

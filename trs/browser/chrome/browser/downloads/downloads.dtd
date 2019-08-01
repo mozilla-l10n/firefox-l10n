@@ -36,7 +36,9 @@
 <!ENTITY cmd.removeFromHistory.label      "Dure' riña gaché nun'">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
 <!ENTITY cmd.clearList2.label             "Nagi'iaj nìñu' riña ni'io'">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "Gùyun' nej sa naduni'">
+<!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
