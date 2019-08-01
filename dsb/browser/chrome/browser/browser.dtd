@@ -855,6 +855,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Jo sedło pó znjemóžnjenju šćitow hyšći wobškóźone?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Rozpšawu pósłaś">
 
+<!ENTITY protections.blocking.label "Blokěrowanje">
+<!ENTITY protections.notBlocking.label "Žedno blokěrowanje">
+<!ENTITY protections.notBlocking.why.label "Cogodla?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Gaž toś te elementy blokěrujośo, snaź wěste websedła wěcej pšawje njefunkcioněruju. Někotare tłocaški, formulary a pśizjawjeńske póla njemógli bźez pśeslědowakow pčawje funkcioněrowaś.">
 
 
 
