@@ -25,6 +25,11 @@ install-addon-from-file =
     .label = Mag-install ng Add-on Mula sa File…
     .accesskey = i
 help-button = Support para sa mga Add-on
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } Mga pagpipilian
+       *[other] { -brand-short-name } Mga kagustohan
+    }
 tools-menu =
     .tooltiptext = Tools para sa lahat ng add-ons
 show-unsigned-extensions-button =
@@ -72,6 +77,9 @@ detail-version =
 detail-last-updated =
     .label = Huling In-update
 detail-contributions-description = Hinihiling ang iyong suporta para sa pagpapatuloy ng development ng add-on na ito sa pamamagitan ng pagbibigay ng ano mang halaga ng kontribusyon.
+detail-contributions-button = Tumulong
+    .title = Tumulong sa pagsulong nitong add-on
+    .accesskey = C
 detail-update-type =
     .value = Awtomatikong Updates
 detail-update-default =
@@ -83,6 +91,22 @@ detail-update-automatic =
 detail-update-manual =
     .label = I-off
     .tooltiptext = Hindi awtomatikong naiinstall updates
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Patakbuhin sa mga Private Window
+detail-private-browsing-description2 = Kapag pinayagan, ang extension ay magkakaroon ng access sa iyong mga online activity habang nasa private browsing. <label data-l10n-name="detail-private-browsing-learn-more">Alamin</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overridden by the user.
+detail-private-disallowed-label = Hindi Pinapayagan sa mga Private Window
+detail-private-disallowed-description = Hindi tumatakbo ang extension na ito habang nasa private browsing. <label data-l10n-name="detail-private-browsing-learn-more">Alamin</label>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Nangangailangan ng Access sa mga Private Window
+detail-private-required-description = Ang extension na ito ay may access sa iyong mga online activity habang nasa private browsing. <label data-l10n-name="detail-private-browsing-learn-more">Alamin</label>
+detail-private-browsing-on =
+    .label = Payagan
+    .tooltiptext = I-enable sa Private Browsing
+detail-private-browsing-off =
+    .label = Huwag Payagan
+    .tooltiptext = I-disable sa Private Browsing
 detail-home =
     .label = Ang homepage
 detail-home-value =
@@ -125,9 +149,9 @@ legacy-warning-show-legacy = Ipakita ang mga extension ng legacy
 legacy-extensions =
     .value = Mga Extension ng Legacy
 legacy-extensions-description = Ang mga extension na ito ay hindi nakakatugon sa kasalukuyang { -brand-short-name } Mga pamantayan upang ma-deactivate ang mga ito. <label data-l10n-name="legacy-learn-more">Alamin ang tungkol sa mga pagbabago sa mga add-on</label>
-extensions-view-discover =
-    .name = Kumuha ng Add-ons
-    .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Mga Mungkahi
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Mga Bagong Updates
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -205,6 +229,14 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+shortcuts-no-addons = Wala kang extension na naka-enable.
+shortcuts-no-commands = Ang mga sumusunod na extension ay walang shortcut:
+shortcuts-input =
+    .placeholder = Mag-type ng shortcut
+shortcuts-browserAction = I-activate ang extension
+shortcuts-pageAction = I-activate ang page action
+shortcuts-modifier-mac = Isama ang Ctrl, Alt, o ⌘
+shortcuts-modifier-other = Isama ang Ctrl o Alt
 
 ## Recommended add-ons page
 
