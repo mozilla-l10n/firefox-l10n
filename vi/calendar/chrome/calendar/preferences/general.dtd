@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.mainbox.label "Thiết lập tổng quát" >
+
 <!ENTITY pref.dateformat.label "Định dạng văn bản ngày:" >
 <!ENTITY pref.dateformat.accesskey "N">
 <!ENTITY pref.dateformat.long "Dài" >
@@ -23,6 +24,9 @@
 
 <!ENTITY pref.default_event_length.label "Độ dài mặc định:" >
 <!ENTITY pref.default_event_length.accesskey "E">
+
+<!ENTITY pref.default_event_task_length.label "Độ dài sự kiện và nhiệm vụ mặc định">
+<!ENTITY pref.default_event_task_length.accesskey "E">
 
 <!ENTITY pref.default_task_none.label "Không có">
 <!ENTITY pref.default_task_start_of_day.label "Ngày bắt đầu">

@@ -2,15 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  prefWindow.titleWin     "Tùy chọn">
-<!ENTITY  prefWindow.titleGNOME   "Tùy chỉnh &brandShortName;">
-<!ENTITY  prefWindow.styleWin     "width: 47em; height: 37em;">
-<!ENTITY  prefWindow.styleMac     "width: 47em;">
-<!ENTITY  prefWindow.styleGNOME   "width: 47em; height: 34.5em;">
-
 <!ENTITY  paneGeneral.title       "Tổng quát">
 <!ENTITY  paneAlarms.title        "Chuông báo">
 <!ENTITY  paneCategories.title    "Phân mục">
 <!ENTITY  paneViews.title         "Hiển thị">
-<!ENTITY  paneTimezones.title     "Múi giờ">
-<!ENTITY  paneAdvanced.title      "Nâng cao">
+<!ENTITY  panelHeader.title       "Lịch">
+<!ENTITY  panelReminder.title     "Nhắc nhở">
+<!ENTITY  panelCatecory.title     "Phân mục">
