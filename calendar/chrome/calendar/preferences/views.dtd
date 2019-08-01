@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "Tổng quát">
+
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Hiển thị theo ngày và tuần">
 <!ENTITY pref.calendar.view.multiweekview.caption "Hiển thị theo nhiều tuần">
 <!ENTITY pref.calendar.view.workweek.caption "Tuần làm việc">
@@ -17,6 +18,8 @@
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Hiển thị số tuần trong lượt xem và tháng nhỏ">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "n">
 <!ENTITY pref.daysoff.label "Tuần làm việc gồm các ngày sau:">
+
+<!ENTITY pref.workweekDays.label "Ngày làm việc:">
 
 <!ENTITY pref.calendar.view.daystart.label "Ngày bắt đầu lúc:">
 <!ENTITY pref.calendar.view.daystart.accesskey "N">
