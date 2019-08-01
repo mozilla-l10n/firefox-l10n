@@ -72,3 +72,13 @@ login-item-time-used = Slědne wužyśe: { DATETIME($timeUsed, day: "numeric", m
 
 ## Master Password notification
 
+master-password-notification-message = Pšosym zapódajśo swójo głowne gronidło, aby se skłaźone pśizjawjenja a gronidła woglědał
+master-password-reload-button =
+    .label = Pśizjawiś
+    .accesskey = P
+confirm-delete-dialog-title = Toś to pśizjawjenje wulašowaś?
+confirm-delete-dialog-message = Toś ta akcija njedajo se anulěrowaś.
+confirm-delete-dialog-dismiss-button =
+    .title = Pśetergnuś
+confirm-delete-dialog-cancel-button = Pśetergnuś
+confirm-delete-dialog-confirm-button = Lašowaś
