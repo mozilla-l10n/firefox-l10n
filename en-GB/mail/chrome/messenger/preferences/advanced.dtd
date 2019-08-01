@@ -122,3 +122,8 @@
 <!ENTITY manageCertificates.accesskey "M">
 <!ENTITY viewSecurityDevices.label "Security Devices">
 <!ENTITY viewSecurityDevices.accesskey "S">
+
+<!ENTITY manageCertificates2.label "Manage Certificates…">
+<!ENTITY manageCertificates2.accesskey "M">
+<!ENTITY viewSecurityDevices2.label "Security Devices…">
+<!ENTITY viewSecurityDevices2.accesskey "D">
