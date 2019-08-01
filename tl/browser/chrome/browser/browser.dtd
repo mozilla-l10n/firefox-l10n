@@ -225,6 +225,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Ilagay ang datos sa Persistent Storage">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Browser ay kasalukuyang nire-remote kontrol">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Buksan ang Web Authentication panel">
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Buksan ang panel ng mga pahintulot para sa browsing activity">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Pangasiwaan ang pag-bahagi ng iyong kodak at/o mikropono sa site">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Pangasiwaan ang pag-bahagi ng iyong mikropono sa site">
@@ -232,7 +233,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Buksan ang install message panel">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Isalin ang pahina na ito">
-<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Pangasiwaan ang pahinang pagsasalin">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "I-manage ang page translation">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Pamahalaan ang paggamit ng DRM software">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Buksan ang MIDI panel">
 
@@ -782,6 +783,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "Seguridad ng Site">
 
+<!ENTITY identity.connection "Koneksyon">
 <!ENTITY identity.connectionSecure "I-secure ang Koneksyon">
 <!ENTITY identity.connectionNotSecure "Hindi Sigurado ang Koneksyon">
 <!ENTITY identity.connectionFile "Ang pahinang ito ay naka-imbak sa iyong computer.">
@@ -952,7 +954,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
 <!ENTITY tabHideControlled.header.message "I-access ang Iyong Mga Nakatagong Tab">
-<!ENTITY tabHideControlled.keepButton.label "Panatiling nakatago ang mga Tab">
+<!ENTITY tabHideControlled.keepButton.label "Panatilihing nakatago ang mga Tab">
 <!ENTITY tabHideControlled.keepButton.accesskey "K">
 <!ENTITY tabHideControlled.disableButton.label "Disable Extension">
 <!ENTITY tabHideControlled.disableButton.accesskey "D">

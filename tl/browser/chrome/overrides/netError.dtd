@@ -52,8 +52,11 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Ang Dokumentong ito ay Expired">
+<!ENTITY notCached.longDesc "<p>Ang dokumento na hiningi ay wala sa cache ng &brandShortName;. </p><ul><li>Bilang security precaution, hindi awtomatikong hinihingi ng &brandShortName; ang mga sensitibong dokumento.</li><li>I-click ang Subukan Uli para muling hingin ang dokumento mula sa website.</li></ul>">
 
 <!ENTITY netOffline.title "Naka-Offline">
+<!ENTITY netOffline.longDesc2 "<ul>
+  <li>Pindutin ang &quot;Subukan Uli&quot; para makabalik sa online mode at maireload ang page.</li></ul>">
 
 <!ENTITY contentEncodingError.title "May mali sa pag-encode na content">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Mangyaring makipag-ugnayan sa mga may-ari ng website upang ipaalam sa kanila ang problemang ito</li> </ul>">
@@ -68,31 +71,53 @@
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Ang address ay hindi naintindihan">
+<!ENTITY unknownProtocolFound.longDesc "<ul>
+  <li>Mukhang kakailanganin mong mag-install ng ibang software para mabuksan ang address na ito.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Ang proxy server ay tinatanggihan ang koneksyon">
+<!ENTITY proxyConnectFailure.longDesc "<ul>
+  <li>I-check ang proxy settings para masigurong tama ang mga ito.</li>
+  <li>Tawagan ang iyong network administrator para masigurong gumagana ang proxy server.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Hindi mahanap ang proxy server">
+<!ENTITY proxyResolveFailure.longDesc "<ul>
+  <li>I-check ang mga proxy setting para masigurong ang mga ito ay tama.</li>
+  <li>I-check na ang computer mo ay may gumaganang network connection.</li>
+  <li>Kung ang computer o network mo ay protektado ng firewall o proxy, siguruhing pinapayagan ang &brandShortName; para ma-access ang Web.</li></ul>">
 
 <!ENTITY redirectLoop.title "Ang pahina ay hindi nag didirekta ng maayos">
+<!ENTITY redirectLoop.longDesc "<ul>
+  <li>Maaaring nangyayari ang problema na ito dahil na-disable o hindi pinayagan ang mga cookie.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Hindi inaasahang tugon mula sa server">
 
 <!ENTITY nssFailure2.title "Nabigong Ligtas na Koneksyon">
+<!ENTITY nssFailure2.longDesc2 "<ul>
+  <li>Ang page na gusto mong makita ay hindi naipapakita dahil hindi masigurong katiwa-tiwala ang nakuhang data.</li>
+  <li>Pakitawagan ang mga may-ari ng website para maipagbigay-alam ang problemang ito.</li></ul>">
 
 <!ENTITY certerror.longpagetitle2 "Babala: May Potential na Security Risk">
 <!ENTITY certerror.sts.longpagetitle  "Hindi Nag-connect: Potential Security Issue">
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara2 "Naka-detect ng potential security threat ang &brandShortName; kaya hindi nagpatuloy sa <span class='hostname'/>. Kung bibisitahin mo ang site na ito, maaari kang manakawan ng mga impormasyon gaya ng iyong mga password, email, o detalye ng credit card.">
+<!ENTITY certerror.sts.introPara "Naka-detect ng potential security threat ang &brandShortName; kaya hindi nagpatuloy sa <span class='hostname'/> dahil kailangan ng website na ito ang isang secure connection.">
 
+<!ENTITY certerror.expiredCert.introPara "Naka-detect ng isyu ang &brandShortName; kaya hindi nagpatuloy sa <span class='hostname'/>. Maaaring misconfigured ang website o mali ang oras na naka-set sa iyong computer.">
+<!ENTITY certerror.expiredCert.secondPara2 "Maaaring expired na ang certificate ng website, na pumipigil sa &brandShortName; para makapag-connect nang maayos. Kung bibisitahin mo ang site na ito, maaari kang manakawan ng impormasyon kagaya ng iyong mga password, email, o detalye ng credit card.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Malamang ay expired ang certificate ng website na ito, na pumipigil sa &brandShortName; mula sa pag-connect nang ligtas.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Ano ang maaari mong gawin?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Malamang na ang isyu ay konektado sa website, at wala tayong magagawa para maayos ito.</p><p>Kung ikaw ay nasa corporate network o gumagamit ng anti-virus software, maaari kang magpatulong sa mga support team. Maaari mo ring ipagbigay-alam ang problema sa administrator ng website na ito.</p>">
+
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>Ang oras ng iyong computer ay naka-set sa <span id='wrongSystemTime_systemDate2'/>. Siguruhing tama ang petsa, oras, at time zone ng iyong computer, at pagkatapos ay i-refresh ang <span class='hostname'/>.</p><p>Kung ang iyong orasan ay naka-set na sa tamang oras, malamang ay misconfigured ang website, at wala tayong magagawa para maayos ito. Maaari mong ipagbigay-alam ang problema sa administrator ng website.</p>">
+
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Malamang na sa website ang isyu, at wala tayong magagawa para maayos ito. Maaari mong ipagbigay-alam ang problema sa administrator ng website.</p>">
 
 
-
-
-<!ENTITY cspBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspBlocked.title "Hinarang ng Content Security Policy">
 
 <!ENTITY corruptedContentErrorv2.title "Corrupted Content Error">
 
@@ -111,14 +136,22 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle2  "Babala: Mayroong Potential Security Risk">
 <!ENTITY certerror.sts.pagetitle  "Hindi nag-connect: Potential Security Issue">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "Ang <span class='hostname'></span> ay may security policy na tinatawag na HTTP Strict Transport Security (HSTS), na ang ibig sabihin ay magko-connect lang ang &brandShortName; dito sa isang ligtas na paraan. Hindi ka maaaring magdagdag ng exception para mabisita ang site na ito.">
 <!ENTITY certerror.copyToClipboard.label "Kopyahin sa clipboard">
 
 <!ENTITY inadequateSecurityError.title "Ang iyong koneksyon ay hindi ligtas">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p>Gumagamit ang <span class='hostname'></span> ng security technology na luma na at madaling maaatake. Ang isang attacker ay madaling makakapagbulgar ng impormasyon na akala mo ay ligtas. Kakailanganin ng website administrator na ayusin muna ang server bago mo mabisita ang site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Naka-block na Pahina">
 
+<!ENTITY certerror.mitm.title "May software na pumipigil sa &brandShortName; sa pag-connect nang ligtas sa site na ito">
+<!ENTITY certerror.mitm.longDesc "Malamang ay ligtas na site ang <span class='hostname'></span>, ngunit hindi kayang makapag-establish ng isang secure connection. Ang issue na ito ay dahil sa <span class='mitm-name'/>, na maaaring software sa computer mo o iyong network.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Kung ang iyong antivirus software ay may feature na nagii-scan ng mga encrypted connection (kadalasa'y tinatawag na “web scanning” o “https scanning”), maaari mo itong i-disable. Kapag hindi gumana, subukan mong tanggalin at i-reinstall ang antivirus software.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Kung ikaw ay nasa corporate network, maaari mong tawagan ang iyong IT department.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Kung hindi ka pamilyar sa <span class='mitm-name'/>, ito ay maaring isang atake at hindi ka dapat magpatuloy sa site.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Kung hindi ka pamilyar sa <span class='mitm-name'/>, ito ay maaring isang atake, at wala tayong magagawa para ma-access ang site.">
 
 <!ENTITY clockSkewError.title "Mali ang oras ng iyong computer">
 
@@ -126,3 +159,4 @@ was trying to connect. -->
 <!ENTITY prefReset.label "Ibalik ang default settings">
 
 <!ENTITY networkProtocolError.title "Network Protocol Error">
+<!ENTITY networkProtocolError.longDesc "<p>Ang page na sinusubukan mong tingnan ay hindi maipakita dahil nagkaroon ng problema sa network protocol.</p><ul><li>Mangyaring tawagan ang may-ari ng website at ipagbigay-alam ang problemang ito.</li></ul>">
