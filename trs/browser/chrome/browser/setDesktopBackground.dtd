@@ -8,7 +8,12 @@
 <!ENTITY stretch.label              "Dùkua ma">
 <!ENTITY fill.label                 "Nachro'">
 <!ENTITY fit.label                  "Nagi'io'">
-<!ENTITY preview.label              "Daj gá ma">
+<!-- LOCALIZATION NOTE (span.label): This refers to the wallpaper "spanning"
+                       multiple monitors when the user has more than one. Only
+                       some of the entire image will be on each monitor.
+                       This should ideally match the wording in Windows' own
+                       Desktop Background settings page. -->
+<!ENTITY span.label                 "Giriñū">
 <!ENTITY color.label                "kolô:">
 <!ENTITY setDesktopBackground.title "Gachrun' ma riña pantayâ si ago'...">
 <!ENTITY openDesktopPrefs.label     "Na'nït preferencia">
