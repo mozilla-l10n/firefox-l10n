@@ -858,6 +858,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.blocking.label "拦截开启">
 <!ENTITY protections.notBlocking.label "未在拦截">
 <!ENTITY protections.notBlocking.why.label "为什么？">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "拦截这些内容可能导致某些网站上的元素异常。若没有跟踪器，某些按钮、表单、登录字段可能无法正常工作。">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "若关闭保护，将放行此网站上的所有跟踪器。可能也会改善某些网站功能。">
 <!ENTITY protections.socialMediaTrackers.label "社交媒体跟踪器">
 <!ENTITY protections.crossSiteTrackingCookies.label "跨站点跟踪 Cookie">
 <!ENTITY protections.trackingContent.label "跟踪内容">
@@ -865,6 +867,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.label "加密货币挖矿程序">
 <!ENTITY protections.noTrackersFound.description "此页面上未检测到 &brandShortName; 已知的跟踪器。">
 
+<!ENTITY protections.trackingContent.description "网站可能会加载包含跟踪代码的外部广告、视频、其他内容。拦截跟踪内容可以让网站加载更快，但某些按钮、表单、登录字段可能无法正常工作。">
 
 <!ENTITY protections.manageProtectionSettings.label "管理保护设置">
 
