@@ -832,10 +832,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Otevřít nastavení blokování obsahu">
 
 
-<!ENTITY protections.etpON.header "Rozšířená ochrana proti sledování je pro tento web povolena">
-<!ENTITY protections.etpOFF.header "Rozšířená ochrana proti sledování je pro tento web vypnuta">
+<!ENTITY protections.etpON.header "Rozšířená ochrana proti sledování je povolena">
+<!ENTITY protections.etpOFF.header "Rozšířená ochrana proti sledování je vypnuta">
 <!ENTITY protections.settings.label "Nastavení ochrany">
-<!ENTITY protections.report.label "Zobrazit podrobné statistiky">
+<!ENTITY protections.report.label "Podrobné statistiky">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
