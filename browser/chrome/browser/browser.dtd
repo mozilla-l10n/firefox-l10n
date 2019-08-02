@@ -916,6 +916,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "跟踪器">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "要拦截所有跟踪器，请将内容拦截设置为“严格”。">
 
+<!ENTITY contentBlocking.socialblock.label "社交媒体跟踪器">
 <!ENTITY contentBlocking.socialblockView.label "已拦截社交媒体跟踪器">
 <!ENTITY contentBlocking.socialblockView.description "社交网站将跟踪器嵌到其他网站，跟踪您在网上做了或看了什么。社交媒体公司对您的了解，绝不止于您在社交媒体上分享的信息。">
 
