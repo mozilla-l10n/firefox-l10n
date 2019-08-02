@@ -7,6 +7,7 @@
 
 column-name = Pangalan
 column-type = Uri
+column-energy-impact = Epekto sa Enerhiya
 column-memory = Memory
 
 ## Special values for the Name column

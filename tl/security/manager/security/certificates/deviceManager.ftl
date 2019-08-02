@@ -5,6 +5,8 @@
 
 ## Strings used for device manager
 
+devmgr-header-details =
+    .label = Detalye
 devmgr-button-login =
     .label = Mag - Log In
     .accesskey = n
@@ -31,6 +33,8 @@ load-device-browse =
 
 devinfo-status-logged-in =
     .label = Nakalog-in
+devinfo-status-ready =
+    .label = Handa na
 devinfo-desc =
     .label = Paglalarawan
 devinfo-man-id =
