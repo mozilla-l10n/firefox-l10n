@@ -82,6 +82,11 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Cancelar
 confirmation-dialog-dismiss-button =
     .title = Cancelar
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Quer ter suas contas em todo lugar onde usa o { -brand-product-name }? Vá nas opções do { -sync-brand-short-name } e selecione a opção Contas de acesso.
+       *[other] Quer ter suas contas em todo lugar onde usa o { -brand-product-name }? Vá nas preferências do { -sync-brand-short-name } e selecione a opção Contas de acesso.
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -98,4 +103,5 @@ confirm-discard-changes-dialog-confirm-button = Descartar
 
 ## Breach Alert notification
 
+breach-alert-text = Senhas foram vazadas ou roubadas deste site desde a última vez que você atualizou seus detalhes de acesso. Mude a senha para proteger sua conta.
 breach-alert-link = Saiba mais sobre este vazamento.

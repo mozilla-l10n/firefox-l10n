@@ -918,6 +918,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.socialblock.label "Rastreadores de mídias sociais">
 <!ENTITY contentBlocking.socialblockView.label "Rastreadores de mídias sociais bloqueados">
+<!ENTITY contentBlocking.socialblockView.description "Redes sociais colocam rastreadores em outros sites para seguir o que você faz, vê e assiste online. Isto permite que empresas de mídias sociais saibam mais sobre você, muito além do que você compartilha nos perfis de suas mídias sociais.">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies e dados de sites">
