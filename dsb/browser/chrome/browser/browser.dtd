@@ -868,6 +868,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.noTrackersFound.description "Žedne pśeslědowaki, kótarež &brandShortName; znajo, njejsu se namakali na toś tom boku.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Toś te cookieje wam wót sedła do sedła slěduju, aby daty wó tom zběrali, což online gótujośo. Stajaju se wót tśeśich póbitowarjow kaž na pśikład wabjarjow a analyzowych pśedewześćow.">
+<!ENTITY protections.cryptominers.description "Kryptokopanje liceńske wugbaśe wašogo systema wužywa, aby digitalne pjenjeze dobyło. Kryptokopanske skripty wašu bateriju proznje, wašo licadło spómałšuju a mógu wašu pśetrjebu energije pówušyś.">
+<!ENTITY protections.fingerprinters.description "Palcowe wótśišće zběraju nastajenja z wašogo wobglědowaka a licadła, aby profil wó was napórali. Gaž toś ten digitalny palcowy wótśišć wužywaśo, mógu wam pśez rozdźělne websedła slědowaś.">
+<!ENTITY protections.trackingContent.description "Websedła mógu eksterne wabjenje, wideo a druge wośimjeśe zacytaś, kótarež slědujucy kod wopśimuju. Gaž slědujuce wopśimjeśe blokěrujośo, móžo to pomagaś, sedła malsnjej zacytaś, ale někotare tłocaški, formulary a pśizjawjeńske póla snaź wěcej njebudu funkcioněrowaś.">
 
 <!ENTITY protections.manageProtectionSettings.label "Šćitowe nastajenja zastojaś">
 
