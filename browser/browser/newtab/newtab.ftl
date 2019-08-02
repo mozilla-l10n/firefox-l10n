@@ -47,6 +47,9 @@ newtab-topsites-add-button = Lägg till
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Är du säker på att du vill radera varje förekomst av den här sidan från din historik?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Den här åtgärden kan inte ångras.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Bokmärke
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Kopiera nedladdningslänk
 newtab-menu-go-to-download-page = Gå till hämtningssida
 newtab-menu-remove-download = Ta bort från historik
@@ -116,6 +123,10 @@ newtab-label-download = Nedladdat
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = Ta bort sektion
 newtab-section-menu-collapse-section = Fäll ihop sektion
 newtab-section-menu-expand-section = Expandera sektion
@@ -126,6 +137,13 @@ newtab-section-menu-add-search-engine = Lägg till sökmotor
 newtab-section-menu-move-up = Flytta upp
 newtab-section-menu-move-down = Flytta ner
 newtab-section-menu-privacy-notice = Sekretesspolicy
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Fäll ihop sektion
+newtab-section-expand-section-label =
+    .aria-label = Expandera sektion
 
 ## Section Headers.
 
