@@ -864,6 +864,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.noTrackersFound.description "Walang mga tracker na kilala ng &brandShortName; na natuklasan sa pahinang ito.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Sinusundan ka ng mga cookie na ito sa iba't-ibang mga site para matyagan ka sa kung ano ang ginagawa mo online. Itinakda ito ng mga third party kagaya ng mga advertiser at kumpanyang may kinalaman sa analytics.">
+<!ENTITY protections.cryptominers.description "Ginagamit ng mga cryptominer ang computing power ng sistema mo para kumita ng digital na pera. Ang mga cryptomining script ay nakakaubos ng baterya mo, nagpapabagal sa computer, at pwedeng dumagdag sa bayarin mo sa kuryente.">
+<!ENTITY protections.fingerprinters.description "Ang mga fingerprinter ay nangongolekta ng mga setting sa browser at computer mo para makilala ka. Gamit ang digital fingerprint na ito, pwede ka nilang manmanan sa iba't-ibang mga website.">
+<!ENTITY protections.trackingContent.description "Maaaring mag-load ang mga website ng panlabas na mga ad, video, at iba pang content na may tracking code. Pwedeng bumilis ang pag-load ng mga site kapag hinarang ang mga tracking content, pero may mga button, form, at login field na maaaring hindi gumana.">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -918,6 +921,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.openBreakageReportView2.label "I-report ang problema">
 <!ENTITY contentBlocking.breakageReportView.label "I-report ang mga problema">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Alamin pa">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Alamin">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Anong mga problema ang mayroon ka? (Optional)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Magpasa ng Report">
