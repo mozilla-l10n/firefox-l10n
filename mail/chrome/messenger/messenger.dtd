@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "c">
 <!ENTITY folderPaneBar.label "Barra de Ferramentas do Painel de Pastas">
 <!ENTITY folderPaneBar.accesskey "F">
-<!ENTITY folderModeSelector.label "Visualização de pastas">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ordenar por">
@@ -587,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Mover mensagem selecionada para outra pasta">
 <!ENTITY archiveButton.tooltip "Arquivar mensagens selecionadas">
 <!ENTITY openConversationButton.tooltip "Mostrar a conversa das mensagens selecionadas">
+<!ENTITY openMsgConversationButton.tooltip "Mostrar conversa da mensagem selecionada">
 <!ENTITY nextButton.tooltip "Mover para próxima mensagem não lida">
 <!ENTITY nextMsgButton.tooltip "Mover para próxima mensagem">
 <!ENTITY previousButton.tooltip "Mover para mensagem anterior não lida">
@@ -605,7 +605,6 @@
 <!ENTITY tagButton.tooltip "Aplicar etiquetas em mensagens">
 <!ENTITY compactButton.tooltip "Remover as mensagens excluídas da pasta selecionada">
 <!ENTITY appmenuButton1.tooltip "Exibir o menu do &brandShortName;">
-
 <!ENTITY addonsButton.tooltip "Gerenciar suas extensões">
 
 <!-- Toolbar Button Popup -->
