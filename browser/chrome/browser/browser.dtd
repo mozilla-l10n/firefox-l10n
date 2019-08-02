@@ -916,6 +916,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "Követők">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Az összes követő blokkolásához állítson be „Szigorú” tartalomblokkolást.">
 
+<!ENTITY contentBlocking.socialblock.label "Közösségimédia-követők">
+<!ENTITY contentBlocking.socialblockView.label "Közösségimédia-követők blokkolva">
+<!ENTITY contentBlocking.socialblockView.description "A közösségi hálózatok nyomkövetőket helyeznek el más weboldalakon, hogy kövessék mit tesz, lát és néz online. Így a közösségi médiával foglalkozó cégek többet tudhatnak meg Önről, mint amit megoszt a közösségimédia-profiljaiban.">
+
 <!ENTITY contentBlocking.cookies.label "Sütik">
 <!ENTITY contentBlocking.cookiesView.label "Sütik és oldaladatok">
 
