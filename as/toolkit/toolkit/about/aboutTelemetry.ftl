@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = পিংগ ডাটাৰ উৎস:
 about-telemetry-show-current-ping-data = বৰ্তমান পিংগ ডাটা
+about-telemetry-show-current-data = বৰ্তমান ডাটা
 about-telemetry-choose-ping = পিংগ বাচি লওক:
 about-telemetry-archive-ping-type = পিংগৰ প্ৰকাৰ
 about-telemetry-archive-ping-header = পিংগ
@@ -54,6 +55,15 @@ about-telemetry-histogram-stats =
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = এই পৃষ্ঠায় টেলিমেট্ৰি দ্বাৰা সংগ্ৰহ কৰা পৰিৱেশন, হাৰ্ডৱেৰ, ব্যৱহাৰ আৰু স্বনিৰ্বাচনসমূহৰ বিষয়ে তথ্য দেখুৱায়। এই তথ্য { -brand-full-name } ক উন্নত কৰাত সহায় কৰিবলে { $telemetryServerOwner } লৈ জমা দিয়া হয়।
+# string used as a placeholder for the search field
+# More info about it can be found here:
+# https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
+# Variables:
+#   $selectedTitle (String): the section name from the structure of the ping.
+about-telemetry-filter-placeholder =
+    .placeholder = { $selectedTitle }ত বিচাৰক
+about-telemetry-filter-all-placeholder =
+    .placeholder = সকলো বিভাগত বিচাৰক
 # Variables:
 #   $searchTerms (String): the searched terms
 about-telemetry-results-for-search = "{ $searchTerms }"ৰ বাবে ফলাফল
@@ -71,6 +81,8 @@ about-telemetry-no-search-results-all = দুঃখিত! “{ $searchTerms }�
 about-telemetry-no-data-to-display = দুঃখিত! বৰ্তমান “{ $sectionName }”ত কোনো ডাটা উপলব্ধ নহয়
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = বৰ্তমান পিংগ
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = বৰ্তমান ডাটা
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = সকলো
 # button label to copy the histogram
