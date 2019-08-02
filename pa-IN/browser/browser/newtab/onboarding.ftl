@@ -35,7 +35,7 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
-onboarding-sync-welcome-header = ਫਾਇਰਫਾਕਸ ਨੂੰ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਓ
+onboarding-sync-welcome-header = { -brand-product-name } ਨੂੰ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਓ
 onboarding-sync-welcome-content = ਆਪਣੇ ਬੁੱਕਮਾਰਕ, ਅਤੀਤ, ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ ਸੈਟਿੰਗਾਂ ਨੂੰ ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਲਵੋ।
 onboarding-sync-welcome-learn-more-link = ਫਾਇਰਫਾਕਸ ਖਾਤਿਆਂ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਹਾਸਲ ਕਰੋ
 onboarding-sync-form-invalid-input = ਢੁੱਕਵੀਂ ਈਮੇਲ ਚਾਹੀਦੀ ਹੈ
@@ -48,7 +48,7 @@ onboarding-sync-form-skip-login-button = ਇਹ ਪਗ਼ ਛੱਡੋ
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = ਆਪਣਾ ਈਮੇਲ ਦਿਓ
-onboarding-sync-form-sub-header = ਤਾਂ ਕਿ ਫਾਇਰਫਾਕਸ ਸਿੰਕ ਨਾਲ ਜਾਰੀ ਰੱਖਿਆ ਜਾਵੇ।
+onboarding-sync-form-sub-header = { -sync-brand-name } ਨਾਲ ਜਾਰੀ ਰੱਖੋ
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
