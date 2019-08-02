@@ -81,6 +81,11 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = 取消
 confirmation-dialog-dismiss-button =
     .title = 取消
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] 想要在使用 { -brand-product-name } 的其他裝置上也能同步登入資訊嗎？請到 { -sync-brand-short-name } 選項勾選「登入資訊」選取盒。
+       *[other] 想要在使用 { -brand-product-name } 的其他裝置上也能同步登入資訊嗎？請到 { -sync-brand-short-name } 偏好設定勾選「登入資訊」選取盒。
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -97,4 +102,5 @@ confirm-discard-changes-dialog-confirm-button = 捨棄
 
 ## Breach Alert notification
 
+breach-alert-text = 自您上次更新登入資訊以來，此網站發生了密碼外洩或失竊事件。請務必更改密碼，確保帳戶安全。
 breach-alert-link = 了解此事件的更多資訊
