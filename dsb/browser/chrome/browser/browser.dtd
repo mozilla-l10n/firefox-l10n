@@ -871,6 +871,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.description "Kryptokopanje liceńske wugbaśe wašogo systema wužywa, aby digitalne pjenjeze dobyło. Kryptokopanske skripty wašu bateriju proznje, wašo licadło spómałšuju a mógu wašu pśetrjebu energije pówušyś.">
 <!ENTITY protections.fingerprinters.description "Palcowe wótśišće zběraju nastajenja z wašogo wobglědowaka a licadła, aby profil wó was napórali. Gaž toś ten digitalny palcowy wótśišć wužywaśo, mógu wam pśez rozdźělne websedła slědowaś.">
 <!ENTITY protections.trackingContent.description "Websedła mógu eksterne wabjenje, wideo a druge wośimjeśe zacytaś, kótarež slědujucy kod wopśimuju. Gaž slědujuce wopśimjeśe blokěrujośo, móžo to pomagaś, sedła malsnjej zacytaś, ale někotare tłocaški, formulary a pśizjawjeńske póla snaź wěcej njebudu funkcioněrowaś.">
+<!ENTITY protections.socialMediaTrackers.description "Socialne seśi placěruju pśeslědowaki na drugich websedłach, aby slědowali, což online gótujośo, wiźiśo a se wobglědujośo. To pśedewześam socialnych medijow dowólujo, wěcej wó was zgónił ako w profilach socialnych medijow źěliśo.">
 
 <!ENTITY protections.manageProtectionSettings.label "Šćitowe nastajenja zastojaś">
 
@@ -929,6 +930,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "Blokěrowanje wopśimjeśa móžo problemy z někotarymi websedłami zawinowaś. Gaž problemy k wěsći dajośo, pomagaśo &brandShortName; za kuždego pólěpšyś. (Pósćelo se Mozilla URL a informacije wó wašych nastajenjach wobglědowaka.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Dalšne informacije">
 <!ENTITY contentBlocking.breakageReportView.title "Wobškóźone sedło k wěsći daś">
+<!ENTITY contentBlocking.breakageReportView3.description "Blokěrowanje wěstych pśeslědowakow móžo problemy z někotarymi websedłami zawinowaś. Gaž problemy k wěsći dajośo, pomagaśo &brandShortName; za kuždego pólěpšyś. Pósćelo se Mozilla URL a informacije wó wašych nastajenjach wobglědowaka.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Dalšne informacije">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Kótare problemy sćo měł? (na žycenje)">
