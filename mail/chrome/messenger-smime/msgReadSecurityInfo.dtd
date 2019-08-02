@@ -5,10 +5,10 @@
 <!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
 
 <!ENTITY status.label "Bảo mật thư">
-<!ENTITY signatureCert.label "Xem Chứng thư Chữ kí">
-<!ENTITY encryptionCert.label "Xem Chứng thư Mã hóa">
+<!ENTITY signatureCert.label "Xem chứng chỉ chữ ký">
+<!ENTITY encryptionCert.label "Xem chứng chỉ mã hóa">
 
 <!ENTITY signer.name "Kí bởi:">
 <!ENTITY recipient.name "Mã hóa cho:">
 <!ENTITY email.address "Địa chỉ email:">
-<!ENTITY issuer.name "Chứng thư được cấp bởi:">
+<!ENTITY issuer.name "Chứng chỉ được cấp bởi:">

@@ -2,6 +2,34 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+pane-general-title = Tổng quát
+category-general =
+    .tooltiptext = { pane-general-title }
+general-language-and-appearance-header = Ngôn ngữ & giao diện
+general-incoming-mail-header = Thư đến:
+general-files-and-attachment-header = Tập tin & đính kèm
+general-tags-header = Nhãn
+general-reading-and-display-header = Đọc & hiển thị
+general-updates-header = Cập nhật
+general-network-and-diskspace-header = Mạng & dung lượng trống
+general-indexing-label = Chỉ mục
+composition-category-header = Soạn thảo
+composition-attachments-header = Đính kèm
+composition-spelling-title = Chính tả
+compose-html-style-title = Phong cách HTML
+composition-addressing-header = Địa chỉ
+privacy-main-header = Riêng tư
+privacy-passwords-header = Mật khẩu
+privacy-junk-header = Thư rác
+privacy-data-collection-header = Thu thập và sử dụng dữ liệu
+privacy-security-header = Bảo mật
+privacy-scam-detection-title = Phát hiện lừa đảo
+privacy-anti-virus-title = Trình chống vi-rút
+privacy-certificates-title = Chứng chỉ
+chat-pane-header = Trò chuyện
+chat-status-title = Trạng thái
+chat-notifications-title = Thông báo
+chat-pane-styling-header = Kiểu dáng
 choose-messenger-language-description = Chọn ngôn ngữ được sử dụng để hiển thị menu, tin nhắn và thông báo từ { -brand-short-name }.
 manage-messenger-languages-button =
     .label = Đặt giải pháp thay thế

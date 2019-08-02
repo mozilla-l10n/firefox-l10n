@@ -31,3 +31,6 @@
 <!ENTITY manageDevices.accesskey "B">
 
 <!-- Strings for the cert picker dialog -->
+<!ENTITY certPicker.title "Chọn chứng chỉ">
+<!ENTITY certPicker.info  "Chứng chỉ:">
+<!ENTITY certPicker.detailsLabel "Chi tiết của chứng chỉ được chọn:">
