@@ -832,6 +832,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "İçerik engelleme tercihlerini aç">
 
 
+<!ENTITY protections.settings.label "Koruma ayarları">
+<!ENTITY protections.report.label "Raporun tamamını göster">
+<!-- LOCALIZATION NOTE:
+     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
+     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "Site çalışmıyor mu?">
+<!ENTITY protections.siteNotWorkingView.title "Site çalışmıyor mu?">
+<!-- LOCALIZATION NOTE:
+     In the Site Not Working? view, we suggest turning off protections if
+     the user is experiencing issues with any of a variety of functionality.
+     protections.siteNotWorkingView.header: The header of the list
+     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Aşağıdakilerle ilgili sorun yaşıyorsanız korumaları kapatın:">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Formlar">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Ödemeler">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Yorumlar">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Videolar">
+
+<!ENTITY protections.notBlocking.why.label "Neden?">
+<!ENTITY protections.fingerprinters.label "Parmak izi toplayıcılar">
+<!ENTITY protections.cryptominers.label "Kripto madenciler">
+
+
+<!ENTITY protections.manageProtectionSettings.label "Koruma ayarlarını yönet">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Tarayıcı sekmeleri">
