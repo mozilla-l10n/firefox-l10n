@@ -910,9 +910,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "Mga tracker">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Upang harangan ang lahat ng mga tracker, i-set ang content blocking sa “Strict”.">
 
+
 <!ENTITY contentBlocking.cookies.label "Mga cookie">
 
-<!ENTITY contentBlocking.cryptominers.label "Cryptominers">
+<!ENTITY contentBlocking.cryptominers.label "Mga Cryptominer">
 <!ENTITY contentBlocking.cryptominersView.label "Cryptominers">
 
 <!ENTITY contentBlocking.fingerprinters.label "Fingerprinters">

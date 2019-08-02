@@ -42,6 +42,7 @@ policy-DisableSecurityBypass = Pigilan ang user na mag-bypass ng ilang security 
 policy-DisableSetAsDesktopBackground = I-disable ang menu command na I-set bilang Desktop Background para sa mga larawan.
 policy-DisableSystemAddonUpdate = Pigilan ang browser mula sa pag-install at pag-update ng mga system add-ons.
 policy-DisableTelemetry = I-off ang Telemetry
+policy-DisplayBookmarksToolbar = Ipakita ang Toolbar ng Bookmark sa default.
 policy-DisplayMenuBar = Ipakita ang Menu Bar bilang default.
 policy-DNSOverHTTPS = Ayusin ang DNS gamit HTTPS.
 policy-DontCheckDefaultBrowser = Huwag i check ang default browser sa startup.
