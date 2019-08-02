@@ -4,7 +4,7 @@
 
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-intro = { $hostname } dùng một chứng chỉ bảo mật bất hợp lệ.
+cert-error-intro = { $hostname } sử dụng một chứng chỉ bảo mật không hợp lệ.
 cert-error-mitm-intro = Các trang web chứng minh danh tính của họ thông qua các chứng chỉ, được cấp bởi các cơ quan chứng nhận.
 cert-error-mitm-mozilla = { -brand-short-name } được hỗ trợ bởi Mozilla phi lợi nhuận, nơi quản lý một cửa hàng ủy quyền chứng chỉ (CA) hoàn toàn mở. Cửa hàng CA giúp đảm bảo rằng các cơ quan cấp chứng chỉ đang tuân theo các thực tiễn tốt nhất để bảo mật người dùng.
 cert-error-mitm-connection = { -brand-short-name } sử dụng cửa hàng Mozilla CA để xác minh rằng kết nối là an toàn, thay vì các chứng chỉ được cung cấp bởi hệ điều hành của người dùng. Vì vậy, nếu chương trình chống vi-rút hoặc mạng đang chặn kết nối với chứng chỉ bảo mật do CA không có trong cửa hàng Mozilla CA, kết nối được coi là không an toàn.
