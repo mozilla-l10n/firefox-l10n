@@ -154,9 +154,6 @@ private-browsing-description2 =
     { -brand-short-name } rupi nomba’apomo’ãi ijypykue rupi kundaha ñemíme. Neremoneĩrirõ Moĩporãhápe, pe jepysokue ndoikomo’ãi kundaha ñemíme, ha ndoikemo’ãi nerembiapo ñanduti
     peguápe. Romoambue roguereko hag̃ua ñemiháme ne kundaha ñemigua.
     <label data-l10n-name="private-browsing-learn-more">Eikuaa mba’éichapa eñangarekóta ko’ã jepysokue ñemboheko rehe </label>
-extensions-view-discover =
-    .name = Moĩmbaha rupity
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Je’eporã
     .tooltiptext = { extensions-view-discopane.name }
@@ -306,6 +303,16 @@ release-notes-addon-button = Jehaipy rehegua
 permissions-addon-button = Moneĩ
 addons-enabled-heading = Mbojurujapyre
 addons-disabled-heading = Pe'apyre
+extension-enabled-heading = Myandypyre
+extension-disabled-heading = Ojepuruve'ỹva
+theme-enabled-heading = Myandypyre
+theme-disabled-heading = Ojepuruve'ỹva
+plugin-enabled-heading = Myandypyre
+plugin-disabled-heading = Ojepuruve'ỹva
+dictionary-enabled-heading = Myandypyre
+dictionary-disabled-heading = Ojepuruve'ỹva
+locale-enabled-heading = Myandypyre
+locale-disabled-heading = Ojepuruve'ỹva
 ask-to-activate-button = Eporandu emyandy hag̃ua
 always-activate-button = Emyandy tapia
 never-activate-button = Ani emyandy araka'eve

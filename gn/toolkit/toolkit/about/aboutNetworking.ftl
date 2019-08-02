@@ -57,3 +57,13 @@ rcwn-avg-long = Mombytegua ipukúva
 rcwn-std-dev-long = Ñemboyke ha'etéva ipukúva
 rcwn-cache-slow = Kache nemba'etéva imbeguéva
 rcwn-cache-not-slow = Kache nemba'etéva imbegue'ỹva
+networkid = Ñanduti ID
+networkid-id = Ñanduti ID
+
+## Link is intended as "network link"
+
+networkid-isUp = Juajuha oĩ yvate
+networkid-statusKnown = Pe juajuha reko ojekuaa
+
+
+
