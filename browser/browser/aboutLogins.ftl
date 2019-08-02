@@ -6,6 +6,8 @@ about-logins-page-title = Паролі
 login-filter =
     .placeholder = Шукати паролі
 create-login-button = Створити новий запис
+fxaccounts-sign-in-text = Отримайте доступ до своїх паролів на інших пристроях
+fxaccounts-sign-in-button = Увійдіть в { -sync-brand-short-name(case: "acc") }
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -75,9 +77,15 @@ master-password-notification-message = Введіть головний паро�
 master-password-reload-button =
     .label = Увійти
     .accesskey = в
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Скасувати
+confirmation-dialog-dismiss-button =
+    .title = Скасувати
 confirm-delete-dialog-title = Видалити цей запис?
 confirm-delete-dialog-message = Це незворотна дія.
-confirm-delete-dialog-dismiss-button =
-    .title = Скасувати
-confirm-delete-dialog-cancel-button = Скасувати
 confirm-delete-dialog-confirm-button = Видалити
+
+## Breach Alert notification
+
