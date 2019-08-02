@@ -4,6 +4,7 @@
 
 about-logins-page-title = Innloggingar og passord
 create-login-button = Lag ny innlogging
+fxaccounts-sign-in-text = Få passorda dine på dei andre einingane dine
 fxaccounts-sign-in-button = Logg inn på { -sync-brand-short-name }
 
 ## The ⋯ menu that is in the top corner of the page
