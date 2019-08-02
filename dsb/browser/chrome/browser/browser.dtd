@@ -916,6 +916,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "Pśeslědowaki">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Aby wšykne pśeslědowaki blokěrował, stajśo blokěrowanje wopśimjeśa na “Striktny”.">
 
+<!ENTITY contentBlocking.socialblock.label "Pśeslědowaki socialnych medijow">
+<!ENTITY contentBlocking.socialblockView.label "Pśeslědowaki socialnych medijow su zablokěrowane">
+<!ENTITY contentBlocking.socialblockView.description "Socialne seśi placěruju pśeslědowaki na drugich websedłach, aby slědowali, což online gótujośo, wiźiśo a se wobglědujośo. To pśedewześam socialnych medijow dowólujo, wěcej wó was zgónił ako w profilach socialnych medijow źěliśo.">
+
 <!ENTITY contentBlocking.cookies.label "Cookieje">
 <!ENTITY contentBlocking.cookiesView.label "Cookieje a sedłowe daty">
 

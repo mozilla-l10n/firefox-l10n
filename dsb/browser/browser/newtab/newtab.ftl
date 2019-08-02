@@ -47,6 +47,9 @@ newtab-topsites-add-button = Pśidaś
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Cośo napšawdu kuždu instancu toś togo boka ze swójeje historije lašowaś?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Toś ta akcija njedajo se anulěrowaś.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Ako cytańske znamje składowaś
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Ześěgnjeński wótkaz kopěrowaś
 newtab-menu-go-to-download-page = K ześěgnjeńskemu bokoju pśejś
 newtab-menu-remove-download = Z historije wótwónoźeś
@@ -116,6 +123,10 @@ newtab-label-download = Ześěgnjony
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = Wótrězk wótwónoźeś
 newtab-section-menu-collapse-section = Wótrězk schowaś
 newtab-section-menu-expand-section = Wótrězk pokazaś
@@ -126,6 +137,13 @@ newtab-section-menu-add-search-engine = Pytnicu pśidaś
 newtab-section-menu-move-up = Górjej
 newtab-section-menu-move-down = Dołoj
 newtab-section-menu-privacy-notice = Powěźeńka priwatnosći
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Wótrězk schowaś
+newtab-section-expand-section-label =
+    .aria-label = Wótrězk pokazaś
 
 ## Section Headers.
 
