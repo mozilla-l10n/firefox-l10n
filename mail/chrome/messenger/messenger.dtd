@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "p">
 <!ENTITY folderPaneBar.label "Verktygsfältet mappfönster">
 <!ENTITY folderPaneBar.accesskey "m">
-<!ENTITY folderModeSelector.label "Mappvyer">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ordna efter">
@@ -587,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Sparar markerat meddelande">
 <!ENTITY archiveButton.tooltip "Arkiverar markerat meddelande">
 <!ENTITY openConversationButton.tooltip "Visa konversation för valt meddelande">
+<!ENTITY openMsgConversationButton.tooltip "Visa konversation för valt meddelande">
 <!ENTITY nextButton.tooltip "Flytta till nästa olästa meddelande">
 <!ENTITY nextMsgButton.tooltip "Flytta till nästa meddelande">
 <!ENTITY previousButton.tooltip "Flytta till föregående olästa meddelande">
@@ -605,7 +605,6 @@
 <!ENTITY tagButton.tooltip "Sätt etiketter på meddelanden">
 <!ENTITY compactButton.tooltip "Rensa ut borttagna meddelanden från markerad mapp">
 <!ENTITY appmenuButton1.tooltip "Visar &brandShortName; menyn">
-
 <!ENTITY addonsButton.tooltip "Hantera dina tillägg">
 
 <!-- Toolbar Button Popup -->
