@@ -155,9 +155,6 @@ private-browsing-description2 =
     Utvidinga vil ikkje fungere under privat nettlesing, og vil ikkje ha tilgang til aktivitetane dine på nettet.
     Vi har gjort denne endringa for å halde privat nettlesing privat.
     <label data-l10n-name="private-browsing-learn-more">Les om korleis du administrerer utvidingsinnstillingar.</label>
-extensions-view-discover =
-    .name = Last ned tillegg:
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Tilrådingar
     .tooltiptext = { extensions-view-discopane.name }
@@ -301,6 +298,16 @@ release-notes-addon-button = Versjonsnotat
 permissions-addon-button = Løyve
 addons-enabled-heading = Påslått
 addons-disabled-heading = Avslått
+extension-enabled-heading = Slått på
+extension-disabled-heading = Slått av
+theme-enabled-heading = Slått på
+theme-disabled-heading = Slått av
+plugin-enabled-heading = Slått på
+plugin-disabled-heading = Slått av
+dictionary-enabled-heading = Slått på
+dictionary-disabled-heading = Slått av
+locale-enabled-heading = Slått på
+locale-disabled-heading = Slått av
 ask-to-activate-button = Spør om aktivering
 always-activate-button = Alttid aktiver
 never-activate-button = Aldri aktiver

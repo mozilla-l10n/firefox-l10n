@@ -13,6 +13,11 @@ menu =
     .title = Opne meny
 # This menuitem is only visible on Windows
 menu-menuitem-import = importer passord…
+menu-menuitem-preferences =
+    { PLATFORM() ->
+        [windows] Innstillingar
+       *[other] Val
+    }
 menu-menuitem-feedback = Send tilbakemelding
 menu-menuitem-faq = Vanlege spørsmål
 menu-menuitem-download-android = Lockwise for Android
