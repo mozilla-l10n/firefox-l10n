@@ -916,6 +916,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "Přesćěhowaki">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Zo byšće wšě přesćěhowaki blokował, stajće blokowanje wobsaha na “Striktny”.">
 
+<!ENTITY contentBlocking.socialblock.label "Přesćěhowaki socialnych medijow">
+<!ENTITY contentBlocking.socialblockView.label "Přesćěhowaki socialnych medijow zablokowane">
+
 <!ENTITY contentBlocking.cookies.label "Placki">
 <!ENTITY contentBlocking.cookiesView.label "Placki a sydłowe daty">
 

@@ -6,6 +6,8 @@ about-logins-page-title = Přizjewjenja a hesła
 login-filter =
     .placeholder = Přizjewjenja pytać
 create-login-button = Nowe přizjewjenje załožić
+fxaccounts-sign-in-text = Přinjesće swoje hesła do wašich druhich gratow
+fxaccounts-sign-in-button = So pola { -sync-brand-short-name } přizjewić
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -76,9 +78,31 @@ master-password-notification-message = Prošu zapodajće swoje hłowne hesło, z
 master-password-reload-button =
     .label = Přizjewić
     .accesskey = P
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Přetorhnyć
+confirmation-dialog-dismiss-button =
+    .title = Přetorhnyć
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Chceće swoje pžizjewjenja wšudźe wužiwa´´c, hdźež { -brand-product-name } wužiwaće? Dźiće k swojim nastajenjam { -sync-brand-short-name } a wubjerće kontrolny kašćik přizjewjenjow.
+       *[other] Chceće swoje pžizjewjenja wšudźe wužiwa´´c, hdźež { -brand-product-name } wužiwaće? Dźiće k swojim nastajenjam { -sync-brand-short-name } a wubjerće kontrolny kašćik přizjewjenjow.
+    }
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Nastajenja { -sync-brand-short-name } wopytać
+           *[other] Nastajenja { -sync-brand-short-name } wopytać
+        }
+    .accesskey = N
 confirm-delete-dialog-title = Tute přizjewjenje zhašeć?
 confirm-delete-dialog-message = Tuta akcija njeda so cofnyć.
-confirm-delete-dialog-dismiss-button =
-    .title = Přetorhnyć
-confirm-delete-dialog-cancel-button = Přetorhnyć
 confirm-delete-dialog-confirm-button = Zhašeć
+confirm-discard-changes-dialog-title = Njeskładowane změny zaćisnyć?
+confirm-discard-changes-dialog-message = Wšě njeskładowane změny so zhubja.
+confirm-discard-changes-dialog-confirm-button = Zaćisnyć
+
+## Breach Alert notification
+
+breach-alert-link = Zhońće wjace wo tutej dźěrje.

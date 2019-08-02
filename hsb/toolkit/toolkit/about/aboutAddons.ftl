@@ -154,9 +154,6 @@ private-browsing-description2 =
     { -brand-short-name } přidawaće, po standardźe w priwatnych woknach njefunguja. Chibazo
     dowoleće to w nastajenjach, rozšěrjenje w priwatnym modusu njefunguje a nima přistup na waše
     aktiwity online. Smy tutu změnu sčinili, zo by waš priwatny modus priwatny wóstał. <label data-l10n-name="private-browsing-learn-more">Zhońće wjace wo rjadowanju nastajenjow rozšěrjenja.</label>
-extensions-view-discover =
-    .name = Přidatki wobstarać
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Doporučenja
     .tooltiptext = { extensions-view-discopane.name }
@@ -308,6 +305,16 @@ release-notes-addon-button = Wersijowe informacije
 permissions-addon-button = Prawa
 addons-enabled-heading = Zmóžnjene
 addons-disabled-heading = Znjemóžnjene
+extension-enabled-heading = Zmóžnjeny
+extension-disabled-heading = Znjemóžnjeny
+theme-enabled-heading = Zmóžnjeny
+theme-disabled-heading = Znjemóžnjeny
+plugin-enabled-heading = Zmóžnjeny
+plugin-disabled-heading = Znjemóžnjeny
+dictionary-enabled-heading = Zmóžnjeny
+dictionary-disabled-heading = Znjemóžnjeny
+locale-enabled-heading = Zmóžnjeny
+locale-disabled-heading = Znjemóžnjeny
 ask-to-activate-button = Za aktiwizowanje so prašeć
 always-activate-button = Přeco aktiwizować
 never-activate-button = Ženje njeaktiwizować

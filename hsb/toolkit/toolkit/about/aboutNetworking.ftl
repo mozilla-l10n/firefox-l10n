@@ -57,3 +57,13 @@ rcwn-avg-long = Dołhi přerězk
 rcwn-std-dev-long = Dołhe standardne wotchilenje
 rcwn-cache-slow = Pomałe ličenje pufrować
 rcwn-cache-not-slow = Pomałe ličenje njepufrować
+networkid = Syćowy ID
+networkid-id = Syćowy ID
+
+## Link is intended as "network link"
+
+networkid-isUp = Wotkaz je spadnjeny
+networkid-statusKnown = Wotkazowy status je znaty
+
+
+
