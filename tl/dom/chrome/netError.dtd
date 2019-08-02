@@ -14,8 +14,10 @@
 <!ENTITY deniedPortAccess.longDesc "<p>Ang hininging address ay nagbanggit ng port (hal. <q>mozilla.org:80</q> para sa port 80 sa mozilla.org) na karaniwang ginagamit para sa mga bagay na <em>bukod pa</em> sa pag-browse ng Web. Kinansela ng browser ang request para sa iyong proteksyon at kaligtasan.</p>">
 
 <!ENTITY dnsNotFound.title "Hindi matagpuan ang Address">
+<!ENTITY dnsNotFound.longDesc "<p>Hindi mahanap ng browser ang host server para sa binigay na address.</p><ul><li>Hindi kaya nagkamali ka nung tinype ang domain? (hal. <q><strong>ww</strong>.mozilla.org</q> sa halip na <q><strong>www</strong>.mozilla.org</q>)</li><li>Sigurado ka bang mayroon talagang ganitong domain address?  Maaaring nag-expire na ang registration nito.</li><li>Hindi ka ba nakaka-browse sa ibang mga site?  Tingnan mo ang iyong network connection at mga server setting ng DNS.</li><li>Ang iyong computer o network ay protektado ba ng firewall o proxy?  Pwedeng makahadlang sa pag-browse sa Web ang mga maling setting.</li></ul>">
 
 <!ENTITY fileNotFound.title "File Hindi Natagpuan">
+<!ENTITY fileNotFound.longDesc "<ul><li>Posible kayang nabago ang pangalan, natanggal, o nailipat?</li><li>Mayroon kayang pagkakamali sa pagkabaybay, capitalization, o ibang maling napindot sa address?</li><li>May sapat ka bang pahintulot para makuha ang hinihinging bagay?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Pinigilan ang pag-access sa file">
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Ito'y maaaring natanggal o nilipat, o kaya'y nahaharangan ng access dahil sa mga file permission.</li></ul>">
@@ -27,8 +29,10 @@
 <!ENTITY malformedURI.longDesc "<p> Ang ibinigay na address ay nasa hindi kilalang format. Mangyaring suriin ang location bar para sa mga pagkakamali at subukan muli. </p>">
 
 <!ENTITY netInterrupt.title "Naging Interrupted ang Data Transfer">
+<!ENTITY netInterrupt.longDesc "<p>Tagumpay na nakakonekta ang browser, pero nagambala ang koneksyon habang nagpapadala ng impormasyon.  Pakisubukan uli.</p><ul><li>Hindi ka ba nakakapag-browse ng ibang mga site? Tingnan ang network connection ng computer mo.</li><li>May problema pa rin? Sumangguni sa iyong network administrator o Internet provider para sa karagdagang tulong.</li></ul>">
 
 <!ENTITY notCached.title "Nag-expire ang Document">
+<!ENTITY notCached.longDesc "<p>Ang hininging dokumento ay hindi natagpuan sa cache ng browser.</p><ul><li>Bilang pag-iingat pang-seguridad, hindi hinihinging muli ng browser ang mga sensitibong dokumento.</li><li>Pindutin ang Subukan Uli para muling hingin ang dokumento mula sa website.</li></ul>">
 
 <!ENTITY netOffline.title "Offline Mode">
 <!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
