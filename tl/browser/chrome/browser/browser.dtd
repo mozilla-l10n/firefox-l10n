@@ -832,6 +832,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Buksan ang mga Preference sa Content Blocking">
 
 
+<!ENTITY protections.etpON.header "Nakabukas ang Enhanced Tracking Protection para sa site na ito">
+<!ENTITY protections.etpOFF.header "Sarado ang Enhanced Tracking Protection para sa site na ito">
 <!ENTITY protections.report.label "Ipakita ang Buong Ulat">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -843,10 +845,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Mga login field">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Mga form">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Mga kabayaran">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Mga komento">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Mga video">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Magpadala ng report">
 
+<!ENTITY protections.blocking.label "Humaharang">
+<!ENTITY protections.notBlocking.label "Hindi Humaharang">
 <!ENTITY protections.notBlocking.why.label "Bakit?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Maaaring masira ang ilang parte ng ilang website kapag hinarang ang mga ito. Kapag walang mga tracker, may mga button, form, at login field na maaaring hindi gumana.">
+<!ENTITY protections.socialMediaTrackers.label "Mga Social Media Tracker">
+<!ENTITY protections.crossSiteTrackingCookies.label "Mga Cross-Site Tracking Cookie">
+<!ENTITY protections.trackingContent.label "Mga Tracking Content">
+<!ENTITY protections.fingerprinters.label "Mga fingerprinter">
+<!ENTITY protections.cryptominers.label "Mga cryptominer">
+<!ENTITY protections.noTrackersFound.description "Walang mga tracker na kilala ng &brandShortName; na natuklasan sa pahinang ito.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Sinusundan ka ng mga cookie na ito sa iba't-ibang mga site para matyagan ka sa kung ano ang ginagawa mo online. Itinakda ito ng mga third party kagaya ng mga advertiser at kumpanyang may kinalaman sa analytics.">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.

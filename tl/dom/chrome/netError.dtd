@@ -47,6 +47,7 @@
 <!ENTITY netReset.longDesc "<p>The network link was interrupted while negotiating a connection. Please try again.</p>">
 
 <!ENTITY netTimeout.title "Network Timeout">
+<!ENTITY netTimeout.longDesc "<p>Ang hininging site ay hindi tumugon sa connection request at tumigil nang mag-intay ang browser.</p><ul><li>Hindi kaya nakararanas ng mabigat na demand ang server, o may panandaliang pagtigil?  Subukan mo uli mamaya.</li><li>Hindi ka ba nakaka-browse ng ibang mga site? Tingnan ang network connection ng computer.</li><li>Ang computer o network ba ay pinoprotektahan ng isang firewall o proxy?  Pwedeng makahadlang sa pag-browse ng Web ang mga maling setting.</li><li>Nagkakaproblema pa rin? Sumangguni sa iyong network administrator o Internet provider para sa karagdagang tulong.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Unknown Protocol">
 <!ENTITY unknownProtocolFound.longDesc "<p>Ang address ay may protocol (hal. <q>wxyz://</q>) na hindi nakikilala ng browser, kaya hindi ito makakonekta nang maayos sa site.</p><ul><li>Sinusubukan mo ba magbukas ng multimedia o mga serbisyong hindi text-based? Tingnan ang site para sa mga karagdagang pangangailangan.</li><li>Ang ibang mga protocol ay nangangailangan ng third-party na software o mga plugin bago ito makilala ng browser.</li></ul>">
@@ -67,12 +68,14 @@
 <!ENTITY nssFailure2.longDesc2 "<p>Ang pahinang sinusubukan mong buksan ay hindi maipakita dahil hindi masigurong tunay ang data na nakuha.</p><ul><li>Pakitawagan ang mga may-ari ng website para maipagbigay-alam ang problemang ito.</li></ul>">
 
 <!ENTITY nssBadCert.title "Nagbigo ang Panatag na Koneksiyon">
+<!ENTITY nssBadCert.longDesc2 "<ul><li>Maaaring may kinalaman ang problemang ito sa configuration ng server, o maaari ring may sumusubok magpanggap gayahin ang server.</li><li>Kung dati ka nang tagumpay na nakakonekta sa server na ito, maaaring panandalian lang ang problema, at pwede mo subukan uli mamaya.</li></ul>">
 
 <!ENTITY securityOverride.linkText "O kaya ay pwede kang magdagdag ng exception…">
 <!ENTITY securityOverride.warningContent "<p>Hindi ka dapat magdagdag ng exception kung ikaw ay gumagamit ng internet connection na hindi lubos na katiwa-tiwala o kung ikaw ay hindi sanay na makakita ng babala sa server na ito.</p>
 <p>Kung gusto mo pa ring magdagdag ng exception para sa site na ito, pwede mong gawin sa iyong mga setting para sa advanced encryption.</p>">
 
 <!ENTITY cspBlocked.title "Hinarang ng Content Security Policy">
+<!ENTITY cspBlocked.longDesc "<p>Hindi pinayagan ng browser na mag-load ang pahinang ito sa ganitong paraan dahil sa content security policy nito.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Corrupted Content Error">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Ang pahinang sinusubukan mong tignan ay hindi pwedeng ipakita sapagkat mayroong problemang napuna sa pagpapadala nang data.</p><ul><li>Ipagbigay alam sa may-ari nang website ang tungkol sa problemang ito.</li></ul>">
