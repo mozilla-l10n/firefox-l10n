@@ -6,3 +6,6 @@
 <!ENTITY  paneAlarms.title        "Podsjetnici">
 <!ENTITY  paneCategories.title    "Kategorije">
 <!ENTITY  paneViews.title         "Prikazi">
+<!ENTITY  panelHeader.title       "Kalendar">
+<!ENTITY  panelReminder.title     "Podsjetnici">
+<!ENTITY  panelCatecory.title     "Kategorije">
