@@ -6,6 +6,7 @@ about-logins-page-title = 我的账号和密码
 login-filter =
     .placeholder = 搜索登录信息
 create-login-button = 新建登录信息
+fxaccounts-sign-in-button = 登录 { -sync-brand-short-name }
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -73,9 +74,15 @@ master-password-notification-message = 请输入您的主密码，以查看保�
 master-password-reload-button =
     .label = 登录
     .accesskey = L
+
+## Dialogs
+
+confirmation-dialog-cancel-button = 取消
+confirmation-dialog-dismiss-button =
+    .title = 取消
 confirm-delete-dialog-title = 删除此登录信息？
 confirm-delete-dialog-message = 此操作不可撤销。
-confirm-delete-dialog-dismiss-button =
-    .title = 取消
-confirm-delete-dialog-cancel-button = 取消
 confirm-delete-dialog-confirm-button = 删除
+
+## Breach Alert notification
+

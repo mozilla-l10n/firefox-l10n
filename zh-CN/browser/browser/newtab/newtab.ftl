@@ -47,6 +47,9 @@ newtab-topsites-add-button = 添加
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = 确定删除此页面在您的历史记录中的所有记录？
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = 此操作不能撤销。
@@ -88,6 +91,10 @@ newtab-menu-bookmark = 添加书签
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = 复制下载链接
 newtab-menu-go-to-download-page = 前往下载页面
 newtab-menu-remove-download = 从历史记录中移除
@@ -116,6 +123,10 @@ newtab-label-download = 已下载
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = 移除版块
 newtab-section-menu-collapse-section = 折叠版块
 newtab-section-menu-expand-section = 展开版块
@@ -126,6 +137,13 @@ newtab-section-menu-add-search-engine = 添加搜索引擎
 newtab-section-menu-move-up = 上移
 newtab-section-menu-move-down = 下移
 newtab-section-menu-privacy-notice = 隐私声明
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = 折叠版块
+newtab-section-expand-section-label =
+    .aria-label = 展开版块
 
 ## Section Headers.
 
