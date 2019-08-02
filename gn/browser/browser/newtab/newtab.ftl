@@ -47,6 +47,9 @@ newtab-topsites-add-button = Embojoapy
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Añetehápepa renohẽse oimeraẽva mba'e ko toguepegua tembiasakue rysýigui?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Ko ojejapóva ndaikatuvéima oñemboguevi.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Techaukaha
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Emonguatia juajuha kundaharape
 newtab-menu-go-to-download-page = Eho ñemboguejyha kuatiaroguépe
 newtab-menu-remove-download = Emboguepa tembiasakuégui
@@ -116,6 +123,10 @@ newtab-label-download = Mboguejypyre
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = Emboguete vore
 newtab-section-menu-collapse-section = Embopytupa vore
 newtab-section-menu-expand-section = Emyasãi vore
@@ -126,6 +137,13 @@ newtab-section-menu-add-search-engine = Embojuaju hekaha
 newtab-section-menu-move-up = Jupi
 newtab-section-menu-move-down = Guejy
 newtab-section-menu-privacy-notice = Marandu’i ñemiguáva
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Emonichĩ vore
+newtab-section-expand-section-label =
+    .aria-label = Emyasãi vore
 
 ## Section Headers.
 

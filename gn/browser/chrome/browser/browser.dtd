@@ -916,6 +916,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "Hekahára">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Ejoko hag̃ua opaite tapykuehoha, emboheko tetepy jokoha “Strict”-pe.">
 
+<!ENTITY contentBlocking.socialblock.label "Ava ñandutieta vore rapykuehoha">
+<!ENTITY contentBlocking.socialblockView.label "Ava ñandutieta jokopyre rapykuehoha">
+
 <!ENTITY contentBlocking.cookies.label "Kookie">
 <!ENTITY contentBlocking.cookiesView.label "Kookie ha mba’ekuaarã renda rehegua">
 

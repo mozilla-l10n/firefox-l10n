@@ -74,9 +74,17 @@ master-password-notification-message = Emoinge ne ñe’ẽñemi ha’evéva ehe
 master-password-reload-button =
     .label = Tembiapo ñepyrũ
     .accesskey = L
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Heja
+confirmation-dialog-dismiss-button =
+    .title = Heja
 confirm-delete-dialog-title = ¿Embogue ko tembiapo ñepyrũ?
 confirm-delete-dialog-message = Ko tembiapoite ndaikatúi emboguevi.
-confirm-delete-dialog-dismiss-button =
-    .title = Heja
-confirm-delete-dialog-cancel-button = Heja
 confirm-delete-dialog-confirm-button = Mboguete
+confirm-discard-changes-dialog-confirm-button = Hejarei
+
+## Breach Alert notification
+
+breach-alert-link = Eñemomaranduve ko mba’evai rehegua.
