@@ -4,6 +4,7 @@
 
 about-logins-page-title = Innloggingar og passord
 create-login-button = Lag ny innlogging
+fxaccounts-sign-in-button = Logg inn på { -sync-brand-short-name }
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -63,9 +64,16 @@ master-password-notification-message = Skriv inn hovudpassordet ditt for å vise
 master-password-reload-button =
     .label = Logg inn
     .accesskey = L
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Avbryt
+confirmation-dialog-dismiss-button =
+    .title = Avbryt
 confirm-delete-dialog-title = Slette denne innlogginga?
 confirm-delete-dialog-message = Denne handlinga kan ikkje angrast.
-confirm-delete-dialog-dismiss-button =
-    .title = Avbryt
-confirm-delete-dialog-cancel-button = Avbryt
 confirm-delete-dialog-confirm-button = Slett
+
+## Breach Alert notification
+
+breach-alert-link = Les meir om denne datalekkasjen.
