@@ -86,8 +86,8 @@ confirmation-dialog-dismiss-button =
     .title = Přetorhnyć
 enable-password-sync-notification-message =
     { PLATFORM() ->
-        [windows] Chceće swoje pžizjewjenja wšudźe wužiwa´´c, hdźež { -brand-product-name } wužiwaće? Dźiće k swojim nastajenjam { -sync-brand-short-name } a wubjerće kontrolny kašćik přizjewjenjow.
-       *[other] Chceće swoje pžizjewjenja wšudźe wužiwa´´c, hdźež { -brand-product-name } wužiwaće? Dźiće k swojim nastajenjam { -sync-brand-short-name } a wubjerće kontrolny kašćik přizjewjenjow.
+        [windows] Chceće swoje přizjewjenja wšudźe wužiwać, hdźež { -brand-product-name } wužiwaće? Dźiće k swojim nastajenjam { -sync-brand-short-name } a wubjerće kontrolny kašćik přizjewjenjow.
+       *[other] Chceće swoje přizjewjenja wšudźe wužiwać, hdźež { -brand-product-name } wužiwaće? Dźiće k swojim nastajenjam { -sync-brand-short-name } a wubjerće kontrolny kašćik přizjewjenjow.
     }
 enable-password-sync-preferences-button =
     .label =
