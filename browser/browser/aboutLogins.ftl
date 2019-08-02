@@ -83,9 +83,26 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Скасувати
 confirmation-dialog-dismiss-button =
     .title = Скасувати
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Хочете, щоб усі ваші паролі були всюди, де ви користуєтесь { -brand-product-name }? Відкрийте налаштування { -sync-brand-short-name(case: "gen") } й встановіть прапорець на Паролі.
+       *[other] Хочете, щоб усі ваші паролі були всюди, де ви користуєтесь { -brand-product-name }? Відкрийте налаштування { -sync-brand-short-name(case: "gen") } й встановіть прапорець на Паролі.
+    }
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Відкрити налаштування { -sync-brand-short-name(case: "gen") }
+           *[other] Відкрити налаштування { -sync-brand-short-name(case: "gen") }
+        }
+    .accesskey = В
 confirm-delete-dialog-title = Видалити цей запис?
 confirm-delete-dialog-message = Це незворотна дія.
 confirm-delete-dialog-confirm-button = Видалити
+confirm-discard-changes-dialog-title = Відхилити незбережені зміни?
+confirm-discard-changes-dialog-message = Всі незбережені зміни будуть втрачені.
+confirm-discard-changes-dialog-confirm-button = Відхилити
 
 ## Breach Alert notification
 
+breach-alert-text = З часу останнього оновлення облікових даних, з цього веб-сайту було викрито або викрадено паролі. Змініть пароль, щоб захистити свій обліковий запис.
+breach-alert-link = Дізнатися більше про цей витік даних.

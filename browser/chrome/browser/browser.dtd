@@ -916,6 +916,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "Стеження">
 <!ENTITY contentBlocking.trackersView.strictInfo.label 'Щоб заблокувати все стеження, встановіть значення блокування вмісту "Суворе".'>
 
+<!ENTITY contentBlocking.socialblock.label "Стеження соціальних мереж">
+<!ENTITY contentBlocking.socialblockView.label "Заблоковано стеження соціальних мереж">
+<!ENTITY contentBlocking.socialblockView.description "Соціальні мережі розміщують елементи стеження на інших веб-сайтах, щоб стежити за вашими діями в мережі. Це дозволяє соціальним мережам вивчати більше про вас, окрім того, чим ви ділитеся в своєму профілі соціальних мереж.">
+
 <!ENTITY contentBlocking.cookies.label "Куки">
 <!ENTITY contentBlocking.cookiesView.label "Куки і дані сайтів">
 
