@@ -918,6 +918,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.socialblock.label "Ava ñandutieta vore rapykuehoha">
 <!ENTITY contentBlocking.socialblockView.label "Ava ñandutieta jokopyre rapykuehoha">
+<!ENTITY contentBlocking.socialblockView.description "Ava ñandutieta omoĩ tapykuehoha ambue ñanduti rendápe ojapo hag̃ua hembiapo, eike ha ehecha ñandutípe. Kóva omoneĩ ava ñandutieta járape oikuaave hag̃ua umi nde emoherakuãvagui ava ñandutietápe.">
 
 <!ENTITY contentBlocking.cookies.label "Kookie">
 <!ENTITY contentBlocking.cookiesView.label "Kookie ha mba’ekuaarã renda rehegua">
