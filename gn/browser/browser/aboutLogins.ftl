@@ -82,6 +82,11 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Heja
 confirmation-dialog-dismiss-button =
     .title = Heja
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] ¿Eipotápa tembiapo ñepyrũ opaite eipuruhápe { -brand-product-name }? Tereho { -sync-brand-short-name } Jeporavorãme ha embosa’y pe tembiapo ñepyrũ kora jehechajey.
+       *[other] ¿Eipotápa tembiapo ñepyrũ opaite eipuruhápe { -brand-product-name }? Tereho { -sync-brand-short-name } Jeporavorãme ha embosa’y pe tembiapo ñepyrũ kora jehechajey.
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -98,4 +103,5 @@ confirm-discard-changes-dialog-confirm-button = Hejarei
 
 ## Breach Alert notification
 
+breach-alert-text = Umi ñe’ẽñemi oñembogua térã oñemonda ko ñanduti rendágui hekopyahu rire ne mba’ekuaarã rembiapo ñepyrũ. Emoambue ne ñe’ẽñemi emo’ã hag̃ua ne mba’ete.
 breach-alert-link = Eñemomaranduve ko mba’evai rehegua.
