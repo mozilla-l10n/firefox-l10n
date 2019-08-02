@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "K">
 <!ENTITY folderPaneBar.label "Symbolowa lajsta rjadowakoweho wobłuka">
 <!ENTITY folderPaneBar.accesskey "S">
-<!ENTITY folderModeSelector.label "Rjadowakowe napohlady">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sortěrować po">
@@ -587,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Wubranu powěsć składować">
 <!ENTITY archiveButton.tooltip "Wubrane powěsće archiwować">
 <!ENTITY openConversationButton.tooltip "Rozmołwu wubraneje powěsće pokazać">
+<!ENTITY openMsgConversationButton.tooltip "Konwersaciju wubraneje powěsće pokazać">
 <!ENTITY nextButton.tooltip "K přichodnej njepřečitanej powěsći">
 <!ENTITY nextMsgButton.tooltip "K přichodnej powěsći přesunyć">
 <!ENTITY previousButton.tooltip "K předchadnej njepřečitanej powěsći">
@@ -605,7 +605,6 @@
 <!ENTITY tagButton.tooltip "Powěsće markěrować">
 <!ENTITY compactButton.tooltip "Zhašane powěsće z wubraneho rjadowaka wotstronić">
 <!ENTITY appmenuButton1.tooltip "Meni &brandShortName; zwobraznić">
-
 <!ENTITY addonsButton.tooltip "Rjadujće swoje přidatki">
 
 <!-- Toolbar Button Popup -->
