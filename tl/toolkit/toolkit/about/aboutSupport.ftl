@@ -8,6 +8,7 @@ crashes-title = Ulat ng mga Crash
 crashes-id = Report ID
 crashes-send-date = Nai-sumite
 crashes-all-reports = Lahat ng Ulat ng Pag-crash
+crashes-no-config = Ang application na ito ay hindi pa na i-configure para ipakita ang mga crash reports.
 extensions-title = Mga extensyon
 extensions-name = Pangalan
 extensions-enabled = Payagan

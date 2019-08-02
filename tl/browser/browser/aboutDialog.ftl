@@ -22,7 +22,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } ay kasalukuyang I-na
 update-manual = Ang mga update ay matatagpuan sa <label data-l10n-name="manual-link"/>
 update-unsupported = Hindi na maaari makapag-update ng pagbabago sa system na ito.<label data-l10n-name="unsupported-link">Higit pang matuto</label>
 update-restarting = Nag-rerestart...
-channel-description = Ikaw ay kasalukuyang nasa <label data-l10n-name="current-channel"></label> i-update ang channel.
+channel-description = Ikaw ay kasalukuyang nasa <label data-l10n-name="current-channel"></label> update channel.
 warningDesc-version = Ang { -brand-short-name } ay eksperimental pa at maaring hindi gaanong stable.
 community-exp = Ang <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ay isang <label data-l10n-name="community-exp-creditsLink">pandaigdigang komunidad</label> na sama-samang nagtutulungan upang ang Web ay mapanatiling malaya, bukas sa publiko at para sa lahat.
 community-2 = Ang { -brand-short-name } ay dinisenyo ng <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, isang <label data-l10n-name="community-creditsLink">pandaigdigang komunidad</label> na sama-samang nagtutulungan upang ang Web ay mapanatiling malaya, bukas sa publiko at para sa lahat.
