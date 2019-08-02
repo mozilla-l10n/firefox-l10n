@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "T">
 <!ENTITY folderPaneBar.label "Mappa ablaktábla eszköztár">
 <!ENTITY folderPaneBar.accesskey "a">
-<!ENTITY folderModeSelector.label "Mappanézetek">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Rendezés">
@@ -587,6 +586,7 @@
 <!ENTITY fileButton.tooltip "A kijelölt üzenet áthelyezése">
 <!ENTITY archiveButton.tooltip "Kijelölt üzenetek archiválása">
 <!ENTITY openConversationButton.tooltip "A kijelölt üzenet beszélgetésének megjelenítése">
+<!ENTITY openMsgConversationButton.tooltip "A kijelölt üzenet beszélgetésének megjelenítése">
 <!ENTITY nextButton.tooltip "Ugrás a következő olvasatlan üzenetre">
 <!ENTITY nextMsgButton.tooltip "Ugrás a következő üzenetre">
 <!ENTITY previousButton.tooltip "Ugrás az előző olvasatlan üzenetre">
@@ -605,7 +605,6 @@
 <!ENTITY tagButton.tooltip "Üzenetek címkézése">
 <!ENTITY compactButton.tooltip "Törölt üzenetek eltávolítása a kijelölt mappából">
 <!ENTITY appmenuButton1.tooltip "A &brandShortName; menü megjelenítése">
-
 <!ENTITY addonsButton.tooltip "Kiegészítők kezelése">
 
 <!-- Toolbar Button Popup -->
