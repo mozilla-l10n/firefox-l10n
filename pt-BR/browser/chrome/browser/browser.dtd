@@ -916,6 +916,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "Rastreadores">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Para bloquear todos os rastreadores, defina o bloqueio de conteúdo como “Rigoroso”.">
 
+<!ENTITY contentBlocking.socialblock.label "Rastreadores de mídias sociais">
+<!ENTITY contentBlocking.socialblockView.label "Rastreadores de mídias sociais bloqueados">
+
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies e dados de sites">
 

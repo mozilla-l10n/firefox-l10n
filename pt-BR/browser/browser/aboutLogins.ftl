@@ -6,6 +6,8 @@ about-logins-page-title = Contas e senhas
 login-filter =
     .placeholder = Pesquisar contas
 create-login-button = Criar nova conta
+fxaccounts-sign-in-text = Tenha suas senhas em seus outros dispositivos
+fxaccounts-sign-in-button = Entre no { -sync-brand-short-name }
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -74,9 +76,26 @@ master-password-notification-message = Digite sua senha mestra para ver contas e
 master-password-reload-button =
     .label = Entrar
     .accesskey = E
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Cancelar
+confirmation-dialog-dismiss-button =
+    .title = Cancelar
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Visite a opções do { -sync-brand-short-name }
+           *[other] Visite as preferências do { -sync-brand-short-name }
+        }
+    .accesskey = V
 confirm-delete-dialog-title = Excluir esta conta?
 confirm-delete-dialog-message = Esta ação não pode ser desfeita.
-confirm-delete-dialog-dismiss-button =
-    .title = Cancelar
-confirm-delete-dialog-cancel-button = Cancelar
 confirm-delete-dialog-confirm-button = Excluir
+confirm-discard-changes-dialog-title = Descartar alterações não salvas?
+confirm-discard-changes-dialog-message = Todas as alterações não salvas serão perdidas.
+confirm-discard-changes-dialog-confirm-button = Descartar
+
+## Breach Alert notification
+
+breach-alert-link = Saiba mais sobre este vazamento.
