@@ -90,6 +90,9 @@
   <li>Maaaring nangyayari ang problema na ito dahil na-disable o hindi pinayagan ang mga cookie.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Hindi inaasahang tugon mula sa server">
+<!ENTITY unknownSocketType.longDesc "<ul>
+  <li>Siguruhing naka-install sa iyong system ang Personal Security Manager.</li>
+  <li>Ito ay maaaring dahil sa hindi standard na configuration sa server.</li></ul>">
 
 <!ENTITY nssFailure2.title "Nabigong Ligtas na Koneksyon">
 <!ENTITY nssFailure2.longDesc2 "<ul>
@@ -116,10 +119,17 @@ was trying to connect. -->
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Malamang na sa website ang isyu, at wala tayong magagawa para maayos ito. Maaari mong ipagbigay-alam ang problema sa administrator ng website.</p>">
 
+<!ENTITY sharedLongDesc "<ul>
+  <li>Maaaring pansamantalang hindi tumatakbo o abala nang husto ang site. Subukan uli sa loob ng ilang sandali.</li>
+  <li>Kung hindi ka nakakapag-load ng kahit anong mga pahina, tingnan ang network connection ng iyong computer.</li>
+  <li>Kung ang iyong computer o network ay pinoprotektahan ng isang firewall o proxy, siguruhing pinapayagan ang &brandShortName; na makakonekta sa Web.</li>
+</ul>">
 
 <!ENTITY cspBlocked.title "Hinarang ng Content Security Policy">
+<!ENTITY cspBlocked.longDesc "<p>Hinarang ng &brandShortName; na mag-load ang pahinang ito sa ganitong paraan dahil sa content security policy ng pahinang ito.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Corrupted Content Error">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Ang pahinang sinusubukan mong tingnan ay hindi maipakita dahil may problemang natuklasan sa pag-transmit ng data.</p><ul><li>Pakitawagan ang mga may-ari ng website upang ipagbigay-alam ang problemang ito.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "Tanggapin ang Panganib at Magpatuloy">
 
@@ -154,6 +164,7 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Kung hindi ka pamilyar sa <span class='mitm-name'/>, ito ay maaring isang atake, at wala tayong magagawa para ma-access ang site.">
 
 <!ENTITY clockSkewError.title "Mali ang oras ng iyong computer">
+<!ENTITY clockSkewError.longDesc "Akala ng computer mo na ngayon ay <span id='wrongSystemTime_systemDate1'/>, na pumipigil sa &brandShortName; sa pag-connect nang ligtas. Para mapuntahan ang <span class='hostname'></span>, baguhin sa system settings ang orasan ng iyong computer sa tamang petsa, oras, at time zone, at pagkatapos ay i-refresh ang <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Mukhang ang iyong mga setting ng seguridad sa network ay maaaring magdulot nito. Nais mo bang maibalik ang mga default na setting?">
 <!ENTITY prefReset.label "Ibalik ang default settings">
