@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "Z">
 <!ENTITY folderPaneBar.label "Orodna vrstica podokna map">
 <!ENTITY folderPaneBar.accesskey "M">
-<!ENTITY folderModeSelector.label "Pogledi map">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Razvrsti po">
@@ -587,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Shrani izbrano sporočilo">
 <!ENTITY archiveButton.tooltip "Arhiviraj izbrana sporočila">
 <!ENTITY openConversationButton.tooltip "Prikaži pogovor izbranega sporočila">
+<!ENTITY openMsgConversationButton.tooltip "Prikaži pogovor izbranega sporočila">
 <!ENTITY nextButton.tooltip "Pojdi na naslednje neprebrano sporočilo">
 <!ENTITY nextMsgButton.tooltip "Pojdi na naslednje sporočilo">
 <!ENTITY previousButton.tooltip "Pojdi na prejšnje neprebrano sporočilo">
@@ -605,7 +605,6 @@
 <!ENTITY tagButton.tooltip "Označi sporočila">
 <!ENTITY compactButton.tooltip "Odstrani izbrisana sporočila iz izbrane mape">
 <!ENTITY appmenuButton1.tooltip "Prikaži &brandShortName;ov meni">
-
 <!ENTITY addonsButton.tooltip "Upravljajte svoje dodatke">
 
 <!-- Toolbar Button Popup -->
