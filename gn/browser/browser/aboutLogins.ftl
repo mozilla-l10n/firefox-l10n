@@ -6,6 +6,8 @@ about-logins-page-title = Tembiapo ñepyrũ ha ñe’ẽñemi
 login-filter =
     .placeholder = Tembiapo ñepyrũ jeheka
 create-login-button = Tembiapo ñepyrũ moheñói
+fxaccounts-sign-in-text = Egueru umi ne ñe’ẽñemi ne ambue mba’e’okágui
+fxaccounts-sign-in-button = Eñemboheraguapy { -sync-brand-short-name }-pe
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -80,9 +82,17 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Heja
 confirmation-dialog-dismiss-button =
     .title = Heja
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Eike { -sync-brand-short-name } Jeporavorãme
+           *[other] Eike { -sync-brand-short-name } Oguerohoryvévape
+        }
+    .accesskey = V
 confirm-delete-dialog-title = ¿Embogue ko tembiapo ñepyrũ?
 confirm-delete-dialog-message = Ko tembiapoite ndaikatúi emboguevi.
 confirm-delete-dialog-confirm-button = Mboguete
+confirm-discard-changes-dialog-title = ¿Emboyke moambue eñongatu’ỹva?
 confirm-discard-changes-dialog-confirm-button = Hejarei
 
 ## Breach Alert notification
