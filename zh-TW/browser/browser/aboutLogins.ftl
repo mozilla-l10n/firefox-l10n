@@ -6,6 +6,8 @@ about-logins-page-title = 登入資訊與密碼
 login-filter =
     .placeholder = 搜尋登入資訊
 create-login-button = 新增登入資訊
+fxaccounts-sign-in-text = 在其他裝置上使用您的密碼
+fxaccounts-sign-in-button = 登入 { -sync-brand-short-name }
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -73,9 +75,16 @@ master-password-notification-message = 請輸入您的主控密碼，以檢視�
 master-password-reload-button =
     .label = 登入
     .accesskey = L
+
+## Dialogs
+
+confirmation-dialog-cancel-button = 取消
+confirmation-dialog-dismiss-button =
+    .title = 取消
 confirm-delete-dialog-title = 要刪除這筆登入資訊嗎？
 confirm-delete-dialog-message = 此動作無法復原。
-confirm-delete-dialog-dismiss-button =
-    .title = 取消
-confirm-delete-dialog-cancel-button = 取消
 confirm-delete-dialog-confirm-button = 刪除
+confirm-discard-changes-dialog-confirm-button = 捨棄
+
+## Breach Alert notification
+
