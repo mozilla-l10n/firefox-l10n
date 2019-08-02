@@ -282,15 +282,7 @@ update-enable-search-update =
     .label = Awtomatikong i-update ang mga search engine
     .accesskey = e
 update-pref-write-failure-title = Isulat ang Kabiguan
-# Variables:
-#   $path (String) - Path to the configuration file
-update-pref-write-failure-message = Unable to save preference. Could not write to file: { $path }
 update-setting-write-failure-title = Nagkaroon ng problema sa pag-save ng Update preferences.
-# Variables:
-#   $path (String) - Path to the configuration file
-# The newlines between the main text and the line containing the path is
-# intentional so the path is easier to identify.
-update-setting-write-failure-message = Nagkaproblema ang { -brand-short-name } at hindi nai-save ang pagbabagong ito. Tandaan na ang pagbago sa update preference na ito ay nangangailangan ng pahintulot para mabago ang file sa baba. Maaaring maayos mo o ng isang system administrator ang problema sa pamamagitan ng pagbigay ng kumpletong access sa Users group sa file na ito.
 update-in-progress-title = Kasalukuyang Nag-a-update
 update-in-progress-message = Gusto mo bang ipagpatuloy ng { -brand-short-name } ang update na ito?
 update-in-progress-ok-button = &Discard
