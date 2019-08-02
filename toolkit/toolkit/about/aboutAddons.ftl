@@ -160,9 +160,6 @@ private-browsing-description2 =
     extension won’t work while private browsing, and won’t have access to your online activities
     there. We’ve made this change to keep your private browsing private.
     <label data-l10n-name="private-browsing-learn-more">Learn how to manage extension settings</label>
-extensions-view-discover =
-    .name = Get Add-ons
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Recommendations
     .tooltiptext = { extensions-view-discopane.name }
@@ -319,6 +316,16 @@ release-notes-addon-button = Release Notes
 permissions-addon-button = Permissions
 addons-enabled-heading = Enabled
 addons-disabled-heading = Disabled
+extension-enabled-heading = Enabled
+extension-disabled-heading = Disabled
+theme-enabled-heading = Enabled
+theme-disabled-heading = Disabled
+plugin-enabled-heading = Enabled
+plugin-disabled-heading = Disabled
+dictionary-enabled-heading = Enabled
+dictionary-disabled-heading = Disabled
+locale-enabled-heading = Enabled
+locale-disabled-heading = Disabled
 ask-to-activate-button = Ask to Activate
 always-activate-button = Always Activate
 never-activate-button = Never Activate
