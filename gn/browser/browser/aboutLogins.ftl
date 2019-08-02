@@ -93,6 +93,7 @@ confirm-delete-dialog-title = ¿Embogue ko tembiapo ñepyrũ?
 confirm-delete-dialog-message = Ko tembiapoite ndaikatúi emboguevi.
 confirm-delete-dialog-confirm-button = Mboguete
 confirm-discard-changes-dialog-title = ¿Emboyke moambue eñongatu’ỹva?
+confirm-discard-changes-dialog-message = Opaite ñemoambue oñeñongatu’ỹva oguepáta.
 confirm-discard-changes-dialog-confirm-button = Hejarei
 
 ## Breach Alert notification
