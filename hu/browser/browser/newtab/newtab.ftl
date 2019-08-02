@@ -47,6 +47,9 @@ newtab-topsites-add-button = Hozzáadás
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Biztosan törli ezen oldal minden példányát az előzményekből?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Ez a művelet nem vonható vissza.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Könyvjelzőzés
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Letöltési hivatkozás másolása
 newtab-menu-go-to-download-page = Ugrás a letöltési oldalra
 newtab-menu-remove-download = Törlés az előzményekből
@@ -116,6 +123,10 @@ newtab-label-download = Letöltve
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = Szakasz eltávolítása
 newtab-section-menu-collapse-section = Szakasz összecsukása
 newtab-section-menu-expand-section = Szakasz lenyitása
@@ -126,6 +137,13 @@ newtab-section-menu-add-search-engine = Keresőszolgáltatás hozzáadása
 newtab-section-menu-move-up = Mozgatás felfelé
 newtab-section-menu-move-down = Mozgatás lefelé
 newtab-section-menu-privacy-notice = Adatvédelmi nyilatkozat
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Szakasz összecsukása
+newtab-section-expand-section-label =
+    .aria-label = Szakasz lenyitása
 
 ## Section Headers.
 

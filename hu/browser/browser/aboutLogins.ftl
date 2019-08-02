@@ -97,3 +97,4 @@ confirm-discard-changes-dialog-confirm-button = Elvetés
 
 ## Breach Alert notification
 
+breach-alert-link = Tudjon meg többet erről az adatsértésről.
