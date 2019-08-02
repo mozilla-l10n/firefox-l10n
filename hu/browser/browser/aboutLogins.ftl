@@ -6,6 +6,7 @@ about-logins-page-title = Bejelentkezések és jelszavak
 login-filter =
     .placeholder = Bejelentkezések keresése
 create-login-button = Új bejelentkezés létrehozása
+fxaccounts-sign-in-button = Jelentkezzen be a { -sync-brand-short-name }be
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -74,9 +75,22 @@ master-password-notification-message = Adja meg a mesterjelszavát a mentett bej
 master-password-reload-button =
     .label = Bejelentkezés
     .accesskey = B
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Mégse
+confirmation-dialog-dismiss-button =
+    .title = Mégse
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] { -sync-brand-short-name } beállítások megtekintése
+           *[other] { -sync-brand-short-name } beállítások megtekintése
+        }
+    .accesskey = m
 confirm-delete-dialog-title = Törli a bejelentkezést?
 confirm-delete-dialog-message = Ez a művelet nem vonható vissza.
-confirm-delete-dialog-dismiss-button =
-    .title = Mégse
-confirm-delete-dialog-cancel-button = Mégse
 confirm-delete-dialog-confirm-button = Törlés
+
+## Breach Alert notification
+
