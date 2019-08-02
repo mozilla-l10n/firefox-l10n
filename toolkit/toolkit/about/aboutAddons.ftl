@@ -160,9 +160,6 @@ private-browsing-description2 =
     в налаштуваннях, розширення не працюватиме під час приватного перегляду і не матиме доступу до вашої діяльності
     в цьому режимі. Ми зробили цю зміну для захисту вашої приватності.
     <label data-l10n-name="private-browsing-learn-more">Дізнайтеся, як керувати налаштуваннями розширень.</label>
-extensions-view-discover =
-    .name = Додати ще
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Рекомендації
     .tooltiptext = { extensions-view-discopane.name }
@@ -318,6 +315,16 @@ release-notes-addon-button = Примітки до випуску
 permissions-addon-button = Дозволи
 addons-enabled-heading = Увімкнено
 addons-disabled-heading = Вимкнено
+extension-enabled-heading = Увімкнено
+extension-disabled-heading = Вимкнено
+theme-enabled-heading = Увімкнено
+theme-disabled-heading = Вимкнено
+plugin-enabled-heading = Увімкнено
+plugin-disabled-heading = Вимкнено
+dictionary-enabled-heading = Увімкнено
+dictionary-disabled-heading = Вимкнено
+locale-enabled-heading = Увімкнено
+locale-disabled-heading = Вимкнено
 ask-to-activate-button = Питати про активацію
 always-activate-button = Завжди активувати
 never-activate-button = Ніколи не активувати

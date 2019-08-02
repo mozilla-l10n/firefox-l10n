@@ -47,6 +47,9 @@ newtab-topsites-add-button = Додати
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Ви справді хочете видалити всі записи про цю сторінку з історії?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Цю дію неможливо скасувати.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Додати до закладок
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Копіювати адресу завантаження
 newtab-menu-go-to-download-page = Перейти на сторінку завантаження
 newtab-menu-remove-download = Видалити з історії
@@ -116,6 +123,10 @@ newtab-label-download = Завантажено
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = Вилучити розділ
 newtab-section-menu-collapse-section = Згорнути розділ
 newtab-section-menu-expand-section = Розгорнути розділ
@@ -126,6 +137,13 @@ newtab-section-menu-add-search-engine = Додати засіб пошуку
 newtab-section-menu-move-up = Вгору
 newtab-section-menu-move-down = Вниз
 newtab-section-menu-privacy-notice = Повідомлення про приватність
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Згорнути розділ
+newtab-section-expand-section-label =
+    .aria-label = Розгорнути розділ
 
 ## Section Headers.
 
