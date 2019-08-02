@@ -6,6 +6,8 @@ about-logins-page-title = Pśizjawjenja a gronidła
 login-filter =
     .placeholder = Pśizjawjenja pytaś
 create-login-button = Nowe pśizjawjenje załožyś
+fxaccounts-sign-in-text = Pśinjasćo swóje gronidła do wašych drugich rědow
+fxaccounts-sign-in-button = Pla { -sync-brand-short-name } pśizjawiś
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -76,9 +78,31 @@ master-password-notification-message = Pšosym zapódajśo swójo głowne gronid
 master-password-reload-button =
     .label = Pśizjawiś
     .accesskey = P
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Pśetergnuś
+confirmation-dialog-dismiss-button =
+    .title = Pśetergnuś
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Cośo swóje pśizjawjenja wšuźi wužywaś, źož { -brand-product-name } wužywaśo? Źiśo k swójim nastajenjam { -sync-brand-short-name } a wubjeŕśo kontrolny kašćik pśizjawjenjow.
+       *[other] Cośo swóje pśizjawjenja wšuźi wužywaś, źož { -brand-product-name } wužywaśo? Źiśo k swójim nastajenjam { -sync-brand-short-name } a wubjeŕśo kontrolny kašćik pśizjawjenjow.
+    }
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Nastajenja { -sync-brand-short-name } se woglědaś
+           *[other] Nastajenja { -sync-brand-short-name } se woglědaś
+        }
+    .accesskey = N
 confirm-delete-dialog-title = Toś to pśizjawjenje wulašowaś?
 confirm-delete-dialog-message = Toś ta akcija njedajo se anulěrowaś.
-confirm-delete-dialog-dismiss-button =
-    .title = Pśetergnuś
-confirm-delete-dialog-cancel-button = Pśetergnuś
 confirm-delete-dialog-confirm-button = Lašowaś
+confirm-discard-changes-dialog-title = Njeskłaźone změny zachyśiś?
+confirm-discard-changes-dialog-message = Wšykne njeskłaźone změny se zgubiju.
+confirm-discard-changes-dialog-confirm-button = Zachyśiś
+
+## Breach Alert notification
+
+breach-alert-link = Zgóńśo wěcej wó toś tej źěrje
