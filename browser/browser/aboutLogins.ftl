@@ -99,6 +99,10 @@ confirm-delete-dialog-title = Eliminare questa credenziale?
 confirm-delete-dialog-message = Questa operazione non può essere annullata.
 confirm-delete-dialog-confirm-button = Elimina
 
+confirm-discard-changes-dialog-title = Ignorare le modifiche non salvate?
+confirm-discard-changes-dialog-message = Tutte le modifiche non salvate andranno perse.
+confirm-discard-changes-dialog-confirm-button = Ignora
+
 ## Breach Alert notification
 
 breach-alert-text = Dall’ultima volta in cui hai aggiornato questa credenziale, le password di questo sito web sono state rubate o diffuse pubblicamente. Modifica la tua password per proteggere questo account.
