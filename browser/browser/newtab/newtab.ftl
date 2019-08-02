@@ -47,6 +47,9 @@ newtab-topsites-add-button = Ekle
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Bu sayfanın tüm kayıtlarını geçmişinizden silmek istediğinizden emin misiniz?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Bu işlem geri alınamaz.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Yer imlerine ekle
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = İndirme bağlantısını kopyala
 newtab-menu-go-to-download-page = İndirme sayfasına git
 newtab-menu-remove-download = Geçmişten kaldır
@@ -116,6 +123,10 @@ newtab-label-download = İndirildi
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = Bölümü sil
 newtab-section-menu-collapse-section = Bölümü daralt
 newtab-section-menu-expand-section = Bölümü genişlet
@@ -126,6 +137,13 @@ newtab-section-menu-add-search-engine = Arama motoru ekle
 newtab-section-menu-move-up = Yukarı taşı
 newtab-section-menu-move-down = Aşağı taşı
 newtab-section-menu-privacy-notice = Gizlilik bildirimi
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Bölümü daralt
+newtab-section-expand-section-label =
+    .aria-label = Bölümü genişlet
 
 ## Section Headers.
 

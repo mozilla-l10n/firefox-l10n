@@ -31,6 +31,11 @@ login-list-count =
        *[other] { $count } hesap
     }
 login-list-sort-label-text = Sıralama:
+login-list-name-option = Ad (A-Z)
+login-list-last-changed-option = Son değişiklik
+login-list-last-used-option = Son kullanım
+login-list-item-title-new-login = Yeni hesap
+login-list-item-subtitle-new-login = Hesap bilgilerinizi girin
 login-list-item-subtitle-missing-username = (kullanıcı adı yok)
 
 ## Login
@@ -57,15 +62,25 @@ login-item-copied-password-button-text = Kopyalandı!
 login-item-save-changes-button = Değişiklikleri kaydet
 login-item-save-new-button = Kaydet
 login-item-cancel-button = İptal
+login-item-time-changed = Son değişiklik: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Oluşturulma: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Son kullanım: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
+master-password-notification-message = Kayıtlı parola ve hesaplarınızı görmek için lütfen ana parolanızı girin
 master-password-reload-button =
     .label = Giriş yap
     .accesskey = G
+
+## Dialogs
+
+confirmation-dialog-cancel-button = İptal
+confirmation-dialog-dismiss-button =
+    .title = İptal
 confirm-delete-dialog-title = Bu hesap silinsin mi?
 confirm-delete-dialog-message = Bu işlem geri alınamaz.
-confirm-delete-dialog-dismiss-button =
-    .title = İptal
-confirm-delete-dialog-cancel-button = İptal
 confirm-delete-dialog-confirm-button = Sil
+
+## Breach Alert notification
+
