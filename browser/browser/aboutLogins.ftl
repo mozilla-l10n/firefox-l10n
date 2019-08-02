@@ -81,10 +81,20 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = 取消
 confirmation-dialog-dismiss-button =
     .title = 取消
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] 前往 { -sync-brand-short-name } 選項
+           *[other] 前往 { -sync-brand-short-name } 偏好設定
+        }
+    .accesskey = V
 confirm-delete-dialog-title = 要刪除這筆登入資訊嗎？
 confirm-delete-dialog-message = 此動作無法復原。
 confirm-delete-dialog-confirm-button = 刪除
+confirm-discard-changes-dialog-title = 要放棄未儲存的變更嗎？
+confirm-discard-changes-dialog-message = 將失去所有未儲存的變更。
 confirm-discard-changes-dialog-confirm-button = 捨棄
 
 ## Breach Alert notification
 
+breach-alert-link = 了解此事件的更多資訊
