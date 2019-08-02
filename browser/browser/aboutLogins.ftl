@@ -57,12 +57,27 @@ login-item-password-reveal-checkbox-show =
     .title = पासवर्ड दिखाएं
 login-item-password-reveal-checkbox-hide =
     .title = पासवर्ड छिपाएं
+login-item-copy-password-button-text = कॉपी करें
+login-item-copied-password-button-text = कॉपी हो गया!
+login-item-save-changes-button = परिवर्तनों को सहेजें
+login-item-save-new-button = सहेजें
+login-item-cancel-button = रद्द करें
+login-item-time-changed = अंतिम परिवर्तन: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = निर्मित: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = अंतिम बार उपयोग: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
+master-password-notification-message = सहेजे गए लॉगिन और पासवर्ड देखने के लिए कृपया अपना मास्टर पासवर्ड दर्ज करें
+master-password-reload-button =
+    .label = लॉग इन
+    .accesskey = L
 
 ## Dialogs
 
+confirm-delete-dialog-title = इस लॉगिन को मिटाएं?
+confirm-delete-dialog-message = इस क्रिया को पहले जैसा नहीं किया जा सकता।
+confirm-delete-dialog-confirm-button = मिटाएं
 
 ## Breach Alert notification
 
