@@ -91,6 +91,9 @@ enable-password-sync-preferences-button =
 confirm-delete-dialog-title = Törli a bejelentkezést?
 confirm-delete-dialog-message = Ez a művelet nem vonható vissza.
 confirm-delete-dialog-confirm-button = Törlés
+confirm-discard-changes-dialog-title = Elveti a mentetlen módosításokat?
+confirm-discard-changes-dialog-message = Minden nem mentett változás elvész.
+confirm-discard-changes-dialog-confirm-button = Elvetés
 
 ## Breach Alert notification
 
