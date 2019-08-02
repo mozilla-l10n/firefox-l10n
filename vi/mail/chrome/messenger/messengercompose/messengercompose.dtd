@@ -211,7 +211,7 @@
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Công cụ">
 <!ENTITY tasksMenu.accesskey "g">
-<!ENTITY messengerCmd.label "Thư &amp; Nhóm tin">
+<!ENTITY messengerCmd.label "Thư &amp; nhóm tin">
 <!ENTITY messengerCmd.accesskey "T">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Sổ địa chỉ">

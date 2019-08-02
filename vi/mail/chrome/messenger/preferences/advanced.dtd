@@ -116,3 +116,6 @@
 <!ENTITY manageCertificates.accesskey "M">
 <!ENTITY viewSecurityDevices.label "Thiết bị bảo mật">
 <!ENTITY viewSecurityDevices.accesskey "D">
+
+<!ENTITY manageCertificates2.label "Quản lý chứng chỉ…">
+<!ENTITY manageCertificates2.accesskey "M">
