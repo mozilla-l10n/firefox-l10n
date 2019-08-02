@@ -918,6 +918,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.socialblock.label "Přesćěhowaki socialnych medijow">
 <!ENTITY contentBlocking.socialblockView.label "Přesćěhowaki socialnych medijow zablokowane">
+<!ENTITY contentBlocking.socialblockView.description "Socialne syće placěruja přesćěhowaki na druhich websydłach, zo bychu slědowali, što online činiće, widźiće a wobkedźbujeće. To předewzaćam socialnych medijow dowola, wjace wo was zhonił hač w profilach socialnych medijow dźěliće.">
 
 <!ENTITY contentBlocking.cookies.label "Placki">
 <!ENTITY contentBlocking.cookiesView.label "Placki a sydłowe daty">
