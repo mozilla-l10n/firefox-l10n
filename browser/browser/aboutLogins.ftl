@@ -6,6 +6,8 @@ about-logins-page-title = লগইন এবং পাসওয়ার্ড
 login-filter =
     .placeholder = লগইন অনুসন্ধান
 create-login-button = নতুন লগইন তৈরি করুন
+fxaccounts-sign-in-text = আপনার অন্যান্য ডিভাইসে আপনার পাসওয়ার্ড পান
+fxaccounts-sign-in-button = { -sync-brand-short-name } এ সাইন ইন করুন
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -20,6 +22,8 @@ menu-menuitem-preferences =
     }
 menu-menuitem-feedback = প্রতিক্রিয়া জানান
 menu-menuitem-faq = প্রায়শই জিজ্ঞাসিত প্রশ্ন
+menu-menuitem-download-android = Android এর জন্য Lockwise
+menu-menuitem-download-iphone = iPhone ও iPad এর জন্য Lockwise
 
 ## Login List
 
@@ -60,8 +64,11 @@ login-item-time-used = সর্বশেষ ব্যবহৃত: { DATETIME($
 master-password-reload-button =
     .label = লগ ইন
     .accesskey = L
+
+## Dialogs
+
 confirm-delete-dialog-title = লগইন মুছে দেওয়া হবে?
-confirm-delete-dialog-dismiss-button =
-    .title = বাতিল
-confirm-delete-dialog-cancel-button = বাতিল
 confirm-delete-dialog-confirm-button = মুছে ফেলুন
+
+## Breach Alert notification
+
