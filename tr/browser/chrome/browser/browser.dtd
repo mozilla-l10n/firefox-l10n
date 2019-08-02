@@ -832,6 +832,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "İçerik engelleme tercihlerini aç">
 
 
+<!ENTITY protections.etpON.header "Bu sitede gelişmiş izlenme koruması AÇIK">
+<!ENTITY protections.etpOFF.header "Bu sitede gelişmiş izlenme koruması KAPALI">
 <!ENTITY protections.settings.label "Koruma ayarları">
 <!ENTITY protections.report.label "Raporun tamamını göster">
 <!-- LOCALIZATION NOTE:
@@ -897,6 +899,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackersView.label "Takipçiler">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Tüm takipçileri engellemek için içerik engellemeyi “Sıkı” olarak ayarlayın.">
+
 
 <!ENTITY contentBlocking.cookies.label "Çerezler">
 <!ENTITY contentBlocking.cookiesView.label "Çerezler ve site verileri">
