@@ -840,11 +840,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Innloggingsfelt">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Skjema">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Betalingar">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Kommentarar">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Videoar">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Send inn ein rapport">
 
+<!ENTITY protections.blocking.label "Blokkerer">
+<!ENTITY protections.notBlocking.label "Blokkerer ikkje">
 <!ENTITY protections.notBlocking.why.label "Kvifor?">
+<!ENTITY protections.fingerprinters.label "Fingerprinters">
+<!ENTITY protections.cryptominers.label "Cryptominers">
 
 
 
@@ -888,6 +895,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackersView.label "Sporfølgjarar">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "For å blokkere alle sporfølgjarar, set innhaldsblokkering til «Streng».">
+
 
 <!ENTITY contentBlocking.cookies.label "Infokapslar">
 <!ENTITY contentBlocking.cookiesView.label "Infokapslar og nettsidedata">
