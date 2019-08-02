@@ -5,7 +5,7 @@
 page-title = Tinotrobolsyot ang Impormasyon
 page-subtitle = This page contains technical information that might be useful when you're trying to solve a problem. If you are looking for answers to common questions about { -brand-short-name }, check out our <a data-l10n-name="support-link">support web site</a>.
 crashes-title = Ulat ng mga Crash
-crashes-id = Ulat ID
+crashes-id = Report ID
 crashes-send-date = Nai-sumite
 crashes-all-reports = Lahat ng Ulat ng Pag-crash
 extensions-title = Mga extensyon
@@ -19,7 +19,7 @@ security-software-name = Pangalan
 security-software-antivirus = Antivirus
 security-software-antispyware = Antispyware
 security-software-firewall = Firewall
-features-title = { -brand-short-name } Mga Tampok
+features-title = Mga katangian ng { -brand-short-name }
 features-name = Pangalan
 features-version = Bersyon
 features-id = ID

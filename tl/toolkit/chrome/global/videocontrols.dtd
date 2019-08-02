@@ -10,9 +10,13 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Lumabas sa pagka-Full Screen">
 <!ENTITY castingButton.castingLabel "Isalin sa Screen">
 <!ENTITY closedCaption.off "Nakapatay">
-
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
+<!ENTITY volumeScrubber.label "Slider ng volume">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
+the Picture-in-Picture video toggle button when the mouse is hovering it. -->
+<!ENTITY pictureInPicture.label "Picture-in-Picture">
 
 <!ENTITY stats.media "Mga Paraan">
 <!ENTITY stats.size "Sukat">
@@ -33,6 +37,8 @@
 <!ENTITY error.srcNotSupported "Ang format ng video o MIME type ay hindi suportado.">
 <!ENTITY error.noSource2 "Walang suportadong format at MIME type ng video ang nahanap.">
 <!ENTITY error.generic "Ang pagplay ng video ay nahinto sa hindi malamang error.">
+
+<!ENTITY status.pictureInPicture "Ang video na ito ay umaandar sa Picture-in-Picture mode.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

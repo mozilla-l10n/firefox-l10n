@@ -37,4 +37,4 @@ welcome-back-restore-button =
     .accesskey = L
 welcome-back-restore-all-label = I-restore ang lahat ng mga window & tab
 welcome-back-restore-some-label = I-restore ang mga gusto mo lang
-welcome-back-page-info-link = Ang iyong add-ons at customizations ay na tanggal at ang iyong browser settings ay naibalik sa defaults. Pag ito ay hindi na ayos ang iyong issue, <a data-l10n-name="link-more">matuto nang higit pa tungkol sa kung ano ang maaari mong gawin.</a>
+welcome-back-page-info-link = Ang iyong mga add-on at customization ay natanggal at ang mga browser setting mo ay naibalik sa default. Kapag hindi nito naayos ang issue, <a data-l10n-name="link-more">alamin kung ano pa ang maaari mong gawin.</a>
