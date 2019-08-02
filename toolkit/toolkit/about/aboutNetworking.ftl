@@ -57,3 +57,13 @@ rcwn-avg-long = Dłujki pśerězk
 rcwn-std-dev-long = Dłujke standardne wótchylenje
 rcwn-cache-slow = Pomałe licenje pufrowaś
 rcwn-cache-not-slow = Pomałe licenje njepufrowaś
+networkid = Seśowy ID
+networkid-id = Seśowy ID
+
+## Link is intended as "network link"
+
+networkid-isUp = Wótkaz jo pśepadnjony
+networkid-statusKnown = Wótkazowy status jo znaty
+
+
+
