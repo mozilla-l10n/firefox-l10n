@@ -122,3 +122,8 @@
 <!ENTITY manageCertificates.accesskey "C">
 <!ENTITY viewSecurityDevices.label "Wěstotne rědy">
 <!ENTITY viewSecurityDevices.accesskey "s">
+
+<!ENTITY manageCertificates2.label "Certifikaty zastojaś…">
+<!ENTITY manageCertificates2.accesskey "C">
+<!ENTITY viewSecurityDevices2.label "Wěstotne rědy…">
+<!ENTITY viewSecurityDevices2.accesskey "W">
