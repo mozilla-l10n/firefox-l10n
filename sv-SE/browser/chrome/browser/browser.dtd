@@ -916,6 +916,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "Trackers">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "För att blockera alla trackers, sätt innehållsblockering till “Strikt”.">
 
+<!ENTITY contentBlocking.socialblock.label "Sociala trackers">
+<!ENTITY contentBlocking.socialblockView.label "Sociala trackers blockerade">
+<!ENTITY contentBlocking.socialblockView.description "Sociala nätverk placerar trackers på andra webbplatser för att följa vad du gör, ser och tittar på online. Detta gör att företag i sociala medier kan lära sig mer om dig utöver vad du delar i dina sociala medieprofiler.">
+
 <!ENTITY contentBlocking.cookies.label "Kakor">
 <!ENTITY contentBlocking.cookiesView.label "Kakor och webbplatsdata">
 

@@ -6,6 +6,8 @@ about-logins-page-title = Inloggningar & lösenord
 login-filter =
     .placeholder = Sök inloggningar
 create-login-button = Skapa ny inloggning
+fxaccounts-sign-in-text = Få dina lösenord på dina andra enheter
+fxaccounts-sign-in-button = Logga in på { -sync-brand-short-name }
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -74,9 +76,32 @@ master-password-notification-message = Ange ditt huvudlösenord för att se spar
 master-password-reload-button =
     .label = Logga in
     .accesskey = L
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Avbryt
+confirmation-dialog-dismiss-button =
+    .title = Avbryt
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Vill du ha dina inloggningar överallt där du använder { -brand-product-name }? Gå till inställningar för { -sync-brand-short-name } och markera kryssrutan Inloggningar.
+       *[other] Vill du ha dina inloggningar överallt där du använder { -brand-product-name }? Gå till inställningar för { -sync-brand-short-name } och markera kryssrutan Inloggningar.
+    }
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Besök { -sync-brand-short-name } Inställningar
+           *[other] Besök { -sync-brand-short-name } Inställningar
+        }
+    .accesskey = B
 confirm-delete-dialog-title = Ta bort denna inloggning?
 confirm-delete-dialog-message = Den här åtgärden kan inte ångras.
-confirm-delete-dialog-dismiss-button =
-    .title = Avbryt
-confirm-delete-dialog-cancel-button = Avbryt
 confirm-delete-dialog-confirm-button = Ta bort
+confirm-discard-changes-dialog-title = Ignorera dessa förändringar?
+confirm-discard-changes-dialog-message = Alla ändringar som inte är sparade kommer att gå förlorade.
+confirm-discard-changes-dialog-confirm-button = Ignorera
+
+## Breach Alert notification
+
+breach-alert-text = Lösenord har läckt eller stulits från den här webbplatsen sedan du senast uppdaterade dina inloggningsuppgifter. Ändra ditt lösenord för att skydda ditt konto.
+breach-alert-link = Läs mer om detta intrång.

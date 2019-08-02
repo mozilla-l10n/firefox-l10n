@@ -57,3 +57,13 @@ rcwn-avg-long = Långt medelvärde
 rcwn-std-dev-long = Lång standardavvikelse
 rcwn-cache-slow = Antal långsam cache
 rcwn-cache-not-slow = Antal inte långsam cache
+networkid = Nätverks-ID
+networkid-id = Nätverks-ID
+
+## Link is intended as "network link"
+
+networkid-isUp = Länken är uppe
+networkid-statusKnown = Länkstatus är känd
+
+
+
