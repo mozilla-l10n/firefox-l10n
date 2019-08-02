@@ -39,6 +39,7 @@ login-item-edit-button = Rediger
 login-item-delete-button = Slett
 login-item-origin =
     .placeholder = https://www.example.com
+login-item-open-site-button = Start
 login-item-username-label = Brukarnamn
 login-item-username =
     .placeholder = name@example.com
@@ -70,9 +71,17 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Avbryt
 confirmation-dialog-dismiss-button =
     .title = Avbryt
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Gå til { -sync-brand-short-name } innstillingar
+           *[other] Gå til { -sync-brand-short-name } innstillingar
+        }
+    .accesskey = G
 confirm-delete-dialog-title = Slette denne innlogginga?
 confirm-delete-dialog-message = Denne handlinga kan ikkje angrast.
 confirm-delete-dialog-confirm-button = Slett
+confirm-discard-changes-dialog-confirm-button = Ignorer
 
 ## Breach Alert notification
 
