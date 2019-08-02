@@ -57,3 +57,13 @@ rcwn-avg-long = Довге середнє
 rcwn-std-dev-long = Довге стандартне відхилення
 rcwn-cache-slow = Лічильник повільного кешу
 rcwn-cache-not-slow = Лічильник не повільного кешу
+networkid = ID мережі
+networkid-id = ID мережі
+
+## Link is intended as "network link"
+
+networkid-isUp = Посилання працює
+networkid-statusKnown = Стан посилання відомий
+
+
+
