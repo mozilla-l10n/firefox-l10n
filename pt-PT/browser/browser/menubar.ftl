@@ -52,6 +52,8 @@ menu-history-show-all-history =
 menu-bookmarks-menu =
     .label = Marcadores
     .accesskey = M
+menu-bookmarks-show-all =
+    .label = Mostrar todos os marcadores
 
 ## Tools Menu
 
