@@ -233,6 +233,9 @@ menu-preferences =
             [windows] O
            *[other] n
         }
+menu-tools-layout-debugger =
+    .label = सजावट त्रुटिमोचक
+    .accesskey = L
 
 ## Window Menu
 
