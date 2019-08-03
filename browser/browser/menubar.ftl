@@ -11,6 +11,9 @@ menu-file-new-tab =
 menu-file-new-window =
     .label = Lefasetere le leswa
     .accesskey = L
+menu-file-new-private-window =
+    .label = Lefasetere le leswa la praebete
+    .accesskey = w
 menu-file-open-file =
     .label = Bula faele…
     .accesskey = B
@@ -32,6 +35,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Gatiša…
     .accesskey = G
+menu-file-go-offline =
+    .label = Šoma o se inthaneteng
+    .accesskey = a
 
 ## Edit Menu
 
@@ -50,6 +56,8 @@ menu-edit-bidi-switch-text-direction =
 menu-view-sidebar =
     .label = Para ya ka thoko
     .accesskey = r
+menu-view-bookmarks =
+    .label = Dipukutshwayo
 menu-view-full-zoom =
     .label = Godiša
     .accesskey = G
@@ -109,6 +117,9 @@ menu-history-undo-window-menu =
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = Dipukutshwayo
+    .accesskey = k
 menu-bookmarks-show-all =
     .label = Laetša dipukutshwayo tšohle
 menu-bookmarks-all-tabs =
