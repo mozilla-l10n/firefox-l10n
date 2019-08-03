@@ -193,6 +193,8 @@ menu-bookmarks-all-tabs =
     .label = Dodaj zakładki do wszystkich kart…
 menu-bookmarks-toolbar =
     .label = Pasek zakładek
+menu-bookmarks-other =
+    .label = Pozostałe zakładki
 menu-bookmarks-mobile =
     .label = Zakładki z urządzeń przenośnych
 
