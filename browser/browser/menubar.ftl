@@ -41,6 +41,8 @@ menu-edit-bidi-switch-text-direction =
 menu-view-sidebar =
     .label = Darikê Quncikê
     .accesskey = Q
+menu-view-bookmarks =
+    .label = Bijare
 menu-view-full-zoom =
     .label = Nêzîk Bike
     .accesskey = z
@@ -69,12 +71,18 @@ menu-view-page-basic-style =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-full-screen =
+    .label = Dîmenter Tijî
+    .accesskey = T
 
 ##
 
 menu-view-show-all-tabs =
     .label = Hemû Hilpekînan Nîşan Bide
     .accesskey = a
+menu-view-bidi-switch-page-direction =
+    .label = Bibore Rêveberiya Rûpelê
+    .accesskey = R
 
 ## History Menu
 
