@@ -5,6 +5,12 @@
 
 ## File Menu
 
+menu-file =
+    .label = Fayl
+    .accesskey = F
+menu-file-new-tab =
+    .label = Yeni vərəq
+    .accesskey = V
 menu-file-new-container-tab =
     .label = Yeni Konteyner Vərəqi
     .accesskey = K
@@ -14,6 +20,17 @@ menu-file-new-window =
 menu-file-new-private-window =
     .label = Yeni Məxfi Pəncərə
     .accesskey = P
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Ünvanı aç…
+menu-file-open-file =
+    .label = Faylı aç…
+    .accesskey = A
+menu-file-close =
+    .label = Qapat
+    .accesskey = Q
 menu-file-close-window =
     .label = Pəncərəni Qapat
     .accesskey = r
@@ -23,12 +40,48 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Keçidi e-poçt ilə göndər…
     .accesskey = K
+menu-file-print-setup =
+    .label = Səhifə nizamı…
+    .accesskey = ı
+menu-file-print-preview =
+    .label = Çapa ön baxış
+    .accesskey = B
 menu-file-print =
     .label = Çap et…
     .accesskey = Ç
+menu-file-import-from-another-browser =
+    .label = Başqa səyyahdan idxal et…
+    .accesskey = I
+menu-file-go-offline =
+    .label = Oflayn işlə
+    .accesskey = l
 
 ## Edit Menu
 
+menu-edit =
+    .label = Düzəlt
+    .accesskey = D
+menu-edit-undo =
+    .label = Geri al
+    .accesskey = G
+menu-edit-redo =
+    .label = Təkrarla
+    .accesskey = T
+menu-edit-cut =
+    .label = Kəs
+    .accesskey = K
+menu-edit-copy =
+    .label = Köçür
+    .accesskey = K
+menu-edit-paste =
+    .label = Yapışdır
+    .accesskey = Y
+menu-edit-delete =
+    .label = Sil
+    .accesskey = S
+menu-edit-select-all =
+    .label = Hamısını Seç
+    .accesskey = H
 menu-edit-find-on =
     .label = Bu Səhifədə Axtar…
     .accesskey = S
@@ -41,6 +94,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Görünüş
+    .accesskey = G
+menu-view-toolbars-menu =
+    .label = Alət sətirləri
+    .accesskey = A
+menu-view-customize-toolbar =
+    .label = Fərdiləşdir…
+    .accesskey = C
 menu-view-sidebar =
     .label = Kənar sətir
     .accesskey = K
@@ -113,6 +175,8 @@ menu-history-synced-tabs =
     .label = Sinxron Vərəqlər
 menu-history-restore-last-session =
     .label = Əvvəlki Seansı Bərpa et
+menu-history-hidden-tabs =
+    .label = Gizli Vərəqlər
 menu-history-undo-menu =
     .label = Yeni qapanmış vərəqlər
 menu-history-undo-window-menu =
@@ -123,9 +187,22 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Əlfəcinlər
     .accesskey = Ə
+menu-bookmarks-show-all =
+    .label = Bütün əlfəcinləri göstər
+menu-bookmarks-all-tabs =
+    .label = Bütün vərəqləri əlfəcinlə…
+menu-bookmarks-toolbar =
+    .label = Əlfəcin paneli
+menu-bookmarks-other =
+    .label = Digər əlfəcinlər
+menu-bookmarks-mobile =
+    .label = Mobil əlfəcinlər
 
 ## Tools Menu
 
+menu-tools =
+    .label = Alətlər
+    .accesskey = A
 menu-tools-downloads =
     .label = Endirilənlər
     .accesskey = E
@@ -141,12 +218,29 @@ menu-tools-sync-now =
 menu-tools-sync-re-auth =
     .label = { -sync-brand-short-name } yenidən qoşul…
     .accesskey = q
+menu-tools-web-developer =
+    .label = Web Tərtibatçısı
+    .accesskey = W
 menu-tools-page-source =
     .label = Səhifə qaynağı
     .accesskey = a
 menu-tools-page-info =
     .label = Səhifə məlumatları
     .accesskey = S
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Seçimlər
+           *[other] Seçimlər
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] i
+        }
+menu-tools-layout-debugger =
+    .label = Düzüm Sazlayıcısı
+    .accesskey = L
 
 ## Window Menu
 
@@ -181,3 +275,9 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Əlavələri aktiv edərək Yenidən başla
     .accesskey = Y
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Aldadıcı sayt xəbər et…
+    .accesskey = D
