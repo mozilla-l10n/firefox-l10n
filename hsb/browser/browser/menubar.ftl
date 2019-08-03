@@ -49,6 +49,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Ćišćeć…
     .accesskey = i
+menu-file-import-from-another-browser =
+    .label = Z druheho wobhladowaka importować…
+    .accesskey = i
 menu-file-go-offline =
     .label = Offline dźełać
     .accesskey = O
@@ -172,6 +175,8 @@ menu-history-synced-tabs =
     .label = Synchronizowane rajtarki
 menu-history-restore-last-session =
     .label = Předchadne posedźenje wobnowić
+menu-history-hidden-tabs =
+    .label = Schowane rajtarki
 menu-history-undo-menu =
     .label = Runje začinjene rajtarki
 menu-history-undo-window-menu =
@@ -233,6 +238,9 @@ menu-preferences =
             [windows] N
            *[other] N
         }
+menu-tools-layout-debugger =
+    .label = Layout Debugger
+    .accesskey = L
 
 ## Window Menu
 
@@ -261,6 +269,9 @@ menu-help-troubleshooting-info =
 menu-help-feedback-page =
     .label = Posudk pósłać…
     .accesskey = P
+menu-help-safe-mode-without-addons =
+    .label = Ze znjemóžnjenymi přidatkami startować…
+    .accesskey = Z
 menu-help-safe-mode-with-addons =
     .label = Ze zmóžnjenymi přidatkami znowa startować
     .accesskey = Z
