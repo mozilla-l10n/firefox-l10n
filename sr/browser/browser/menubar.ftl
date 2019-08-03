@@ -11,21 +11,36 @@ menu-file-new-tab =
 menu-file-new-window =
     .label = Нови прозор
     .accesskey = Н
+menu-file-new-private-window =
+    .label = Нови приватан прозор
+    .accesskey = п
 menu-file-open-file =
     .label = Отвори датотеку…
     .accesskey = д
 menu-file-close-window =
     .label = Затвори прозор
     .accesskey = З
+menu-file-save-page =
+    .label = Сачувај страницу као…
+    .accesskey = С
+menu-file-email-link =
+    .label = Веза е-поште…
+    .accesskey = е
 menu-file-print-setup =
     .label = Подеси страницу…
     .accesskey = у
+menu-file-print-preview =
+    .label = Преглед пре штампе
+    .accesskey = т
 menu-file-go-offline =
     .label = Рад ван мреже
     .accesskey = м
 
 ## Edit Menu
 
+menu-edit-find-on =
+    .label = Нађи на овој страници…
+    .accesskey = Н
 menu-edit-find-again =
     .label = Нађи поново
     .accesskey = п
@@ -35,6 +50,9 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view-sidebar =
+    .label = Бочна палета
+    .accesskey = Б
 menu-view-bookmarks =
     .label = Забелешке
 menu-view-history-button =
@@ -44,6 +62,12 @@ menu-view-synced-tabs-sidebar =
 menu-view-full-zoom =
     .label = Увећај
     .accesskey = У
+menu-view-full-zoom-reduce =
+    .label = Умањи
+    .accesskey = м
+menu-view-full-zoom-reset =
+    .label = Ресетуј
+    .accesskey = Р
 menu-view-full-zoom-toggle =
     .label = Увећај само текст
     .accesskey = т
@@ -63,6 +87,12 @@ menu-view-charset =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Користи цео екран
+    .accesskey = К
+menu-view-exit-full-screen =
+    .label = Изађи из приказа преко целог екрана
+    .accesskey = К
 menu-view-full-screen =
     .label = Користи цео екран
     .accesskey = ц
@@ -110,18 +140,30 @@ menu-bookmarks-other =
 
 ## Tools Menu
 
+menu-tools-downloads =
+    .label = Преузимања
+    .accesskey = П
 menu-tools-addons =
     .label = Додаци
     .accesskey = Д
 menu-tools-sync-sign-in =
     .label = Пријави се на { -sync-brand-short-name }…
     .accesskey = П
+menu-tools-sync-now =
+    .label = Синхронизуј сада
+    .accesskey = С
 menu-tools-sync-re-auth =
     .label = Поново се повежи на { -sync-brand-short-name }…
     .accesskey = ж
 menu-tools-web-developer =
     .label = Програмер
     .accesskey = г
+menu-tools-page-source =
+    .label = Изворни код странице
+    .accesskey = И
+menu-tools-page-info =
+    .label = Подаци о страници
+    .accesskey = с
 
 ## Window Menu
 
