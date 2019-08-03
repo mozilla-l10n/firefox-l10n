@@ -192,6 +192,8 @@ menu-bookmarks-toolbar =
     .label = Bilah Alat Markah
 menu-bookmarks-other =
     .label = Markah Lain
+menu-bookmarks-mobile =
+    .label = Markah Seluler
 
 ## Tools Menu
 
