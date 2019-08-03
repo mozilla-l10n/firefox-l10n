@@ -6,6 +6,8 @@ about-logins-page-title = Přihlašovací údaje
 login-filter =
     .placeholder = Hledat přihlašovací údaje
 create-login-button = Nové přihlašovací údaje
+fxaccounts-sign-in-text = Synchronizujte svá hesla i do ostatních zařízení
+fxaccounts-sign-in-button = Použijte službu { -sync-brand-short-name }
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -83,6 +85,11 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Zrušit
 confirmation-dialog-dismiss-button =
     .title = Zrušit
+enable-password-sync-notification-message =
+    Chcete svá hesla všude s sebou, kde používáte aplikaci { -brand-product-name }? Otevřete { PLATFORM() ->
+        [windows] možnosti
+       *[other] předvolby
+    } služby { -sync-brand-short-name } a zaškrtněte předvolbu pro synchronizaci hesel.
 enable-password-sync-preferences-button =
     .label =
         Navštivte { PLATFORM() ->
@@ -99,4 +106,5 @@ confirm-discard-changes-dialog-confirm-button = Zahodit
 
 ## Breach Alert notification
 
+breach-alert-text = U tohoto serveru došlo od vaší poslední změny přihlašovacích údajů k úniku dat. Pro ochranu vašeho účtu doporučujeme nastavit si nové heslo.
 breach-alert-link = Zjistit více o tomto úniku dat.
