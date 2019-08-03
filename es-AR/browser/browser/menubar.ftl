@@ -5,12 +5,134 @@
 
 ## File Menu
 
+menu-file =
+    .label = Archivo
+    .accesskey = A
+menu-file-new-tab =
+    .label = Nueva pestaña
+    .accesskey = t
+menu-file-new-container-tab =
+    .label = Nueva pestaña contenedora
+    .accesskey = C
+menu-file-new-window =
+    .label = Nueva ventana
+    .accesskey = N
+menu-file-new-private-window =
+    .label = Nueva ventana privada
+    .accesskey = v
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Abrir ubicación…
+menu-file-open-file =
+    .label = Abrir archivo…
+    .accesskey = o
+menu-file-close =
+    .label = Cerrar
+    .accesskey = C
+menu-file-close-window =
+    .label = Cerrar ventana
+    .accesskey = C
+menu-file-save-page =
+    .label = Guardar página como…
+    .accesskey = a
+menu-file-email-link =
+    .label = Enlace por correo…
+    .accesskey = E
+menu-file-print-setup =
+    .label = Configuración de página…
+    .accesskey = u
+menu-file-print-preview =
+    .label = Vista previa
+    .accesskey = V
+menu-file-print =
+    .label = Imprimir…
+    .accesskey = p
+menu-file-go-offline =
+    .label = Trabajar sin conexión
+    .accesskey = j
 
 ## Edit Menu
 
+menu-edit =
+    .label = Editar
+    .accesskey = E
+menu-edit-undo =
+    .label = Deshacer
+    .accesskey = D
+menu-edit-redo =
+    .label = Rehacer
+    .accesskey = R
+menu-edit-cut =
+    .label = Cortar
+    .accesskey = t
+menu-edit-copy =
+    .label = Copiar
+    .accesskey = C
+menu-edit-paste =
+    .label = Pegar
+    .accesskey = P
+menu-edit-delete =
+    .label = Borrar
+    .accesskey = B
+menu-edit-select-all =
+    .label = Seleccionar todo
+    .accesskey = a
+menu-edit-find-on =
+    .label = Buscar en esta página…
+    .accesskey = B
+menu-edit-find-again =
+    .label = Buscar de nuevo
+    .accesskey = n
+menu-edit-bidi-switch-text-direction =
+    .label = Cambiar dirección del texto
+    .accesskey = x
 
 ## View Menu
 
+menu-view =
+    .label = Ver
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = Barras de herramientas
+    .accesskey = t
+menu-view-customize-toolbar =
+    .label = Personalizar…
+    .accesskey = P
+menu-view-sidebar =
+    .label = Barra lateral
+    .accesskey = e
+menu-view-bookmarks =
+    .label = Marcadores
+menu-view-history-button =
+    .label = Historial
+menu-view-synced-tabs-sidebar =
+    .label = Pestañas sincronizadas
+menu-view-full-zoom =
+    .label = Zoom
+    .accesskey = Z
+menu-view-full-zoom-enlarge =
+    .label = Aumentar
+    .accesskey = u
+menu-view-full-zoom-reduce =
+    .label = Disminuir
+    .accesskey = D
+menu-view-full-zoom-reset =
+    .label = Normal
+    .accesskey = N
+menu-view-full-zoom-toggle =
+    .label = Solamente zoom en el texto
+    .accesskey = t
+menu-view-page-style-menu =
+    .label = Estilo de la página
+    .accesskey = g
+menu-view-page-style-no-style =
+    .label = Sin estilo
+    .accesskey = n
+menu-view-page-basic-style =
+    .label = Estilo básico de página
+    .accesskey = b
 menu-view-charset =
     .label = Codificación de texto
     .accesskey = C
@@ -18,18 +140,99 @@ menu-view-charset =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Pasar a pantalla completa
+    .accesskey = l
+menu-view-exit-full-screen =
+    .label = Salir de pantalla completa
+    .accesskey = l
+menu-view-full-screen =
+    .label = Pantalla completa
+    .accesskey = l
 
 ##
 
+menu-view-show-all-tabs =
+    .label = Mostrar todas las pestañas
+    .accesskey = a
+menu-view-bidi-switch-page-direction =
+    .label = Cambiar dirección de la página
+    .accesskey = g
 
 ## History Menu
 
+menu-history =
+    .label = Historial
+    .accesskey = H
+menu-history-show-all-history =
+    .label = Mostrar todo el historial
+menu-history-clear-recent-history =
+    .label = Borrar historial reciente…
+menu-history-synced-tabs =
+    .label = Pestañás sincronizadas
+menu-history-restore-last-session =
+    .label = Restaurar sesión previa
+menu-history-undo-menu =
+    .label = Pestañas cerradas recientemente
+menu-history-undo-window-menu =
+    .label = Ventanas cerradas recientemente
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = Marcadores
+    .accesskey = M
+menu-bookmarks-show-all =
+    .label = Mostrar todos los marcadores
+menu-bookmarks-all-tabs =
+    .label = Marcar todas las pestañas…
+menu-bookmarks-toolbar =
+    .label = Barra de marcadores
+menu-bookmarks-other =
+    .label = Otros marcadores
+menu-bookmarks-mobile =
+    .label = Marcadores de celular
 
 ## Tools Menu
 
+menu-tools =
+    .label = Herramientas
+    .accesskey = t
+menu-tools-downloads =
+    .label = Descargas
+    .accesskey = D
+menu-tools-addons =
+    .label = Complementos
+    .accesskey = o
+menu-tools-sync-sign-in =
+    .label = Ingresar a { -sync-brand-short-name }…
+    .accesskey = Y
+menu-tools-sync-now =
+    .label = Sincronizar ahora
+    .accesskey = S
+menu-tools-sync-re-auth =
+    .label = Reconectar a { -sync-brand-short-name }…
+    .accesskey = R
+menu-tools-web-developer =
+    .label = Desarrollador web
+    .accesskey = w
+menu-tools-page-source =
+    .label = Código fuente
+    .accesskey = o
+menu-tools-page-info =
+    .label = Información de la página
+    .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Opciones
+           *[other] Preferencias
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
 
 ## Window Menu
 
