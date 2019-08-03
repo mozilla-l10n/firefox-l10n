@@ -8,6 +8,9 @@
 menu-file-new-tab =
     .label = Nij ljepblêd
     .accesskey = L
+menu-file-new-container-tab =
+    .label = Nij kontenerljepblêd
+    .accesskey = k
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
 # but Firefox is still running.
@@ -47,6 +50,8 @@ menu-view-bookmarks =
     .label = Blêdwizers
 menu-view-history-button =
     .label = Skiednis
+menu-view-synced-tabs-sidebar =
+    .label = Syngronisearre ljepblêden
 menu-view-full-zoom =
     .label = Zoome
     .accesskey = Z
@@ -72,6 +77,12 @@ menu-view-charset =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Folslein skerm werjefte
+    .accesskey = S
+menu-view-exit-full-screen =
+    .label = Folslein skerm werjefte ferlitte
+    .accesskey = S
 menu-view-full-screen =
     .label = Folslein skerm
     .accesskey = F
@@ -92,6 +103,8 @@ menu-history =
     .accesskey = S
 menu-history-show-all-history =
     .label = Alle skiednis toane
+menu-history-synced-tabs =
+    .label = Syngronisearre ljepblêden
 menu-history-undo-menu =
     .label = Koartlyn sluten ljepblêden
 menu-history-undo-window-menu =
@@ -101,9 +114,17 @@ menu-history-undo-window-menu =
 
 menu-bookmarks-toolbar =
     .label = Blêdwizerarkbalke
+menu-bookmarks-other =
+    .label = Oare blêdwizers
 
 ## Tools Menu
 
+menu-tools-downloads =
+    .label = Downloads
+    .accesskey = D
+menu-tools-sync-sign-in =
+    .label = Oanmelde by { -sync-brand-short-name }…
+    .accesskey = y
 menu-tools-sync-now =
     .label = No syngronisearje
     .accesskey = N
@@ -138,3 +159,12 @@ menu-help-troubleshooting-info =
 menu-help-feedback-page =
     .label = Feedback ferstjoere…
     .accesskey = f
+menu-help-safe-mode-without-addons =
+    .label = Werstart mei útskeakele add-ons…
+    .accesskey = W
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Misliedende website rapportearje…
+    .accesskey = M
