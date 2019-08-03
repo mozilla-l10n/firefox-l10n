@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Mail Content -->
 
+<!-- Mail Content -->
 <!ENTITY captionMailContent.label "E-mailowe wopśimjeśe">
 
 <!ENTITY acceptRemoteContent.label "Daloke wopśimjeśe w powěsćach dowóliś">
@@ -10,8 +10,8 @@
 <!ENTITY remoteContentExceptions.label "Wuwześa…">
 <!ENTITY remoteContentExceptions.accesskey "u">
 <!ENTITY acceptRemoteContentInfo.label "Zgońśo wěcej wó problemach priwatnosći dalokego wopśimjeśa">
-<!-- Web Content -->
 
+<!-- Web Content -->
 <!ENTITY captionWebContent.label "Webwopśimjeśe">
 
 <!ENTITY keepHistory.label "Woglědane websedła a wótkaze se spomnjeś">
@@ -36,3 +36,7 @@
 <!ENTITY dntTrackingNotOkay.label2 "Sedłam k wěsći daś, až njamaju wam slědowaś">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
 <!ENTITY doNotTrackInfo.label "Dalšne informacije wó Do Not Track">
+
+<!ENTITY doNotTrackCheck.label "Websedłam signal “Njeslědowaś” pósłaś, až njocośo, až wóne was slěduju">
+<!ENTITY doNotTrackCheck.accesskey "s">
+<!ENTITY doNotTrackLearnMore.label "Dalšne informacije">
