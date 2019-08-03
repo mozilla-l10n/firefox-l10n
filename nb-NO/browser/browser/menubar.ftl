@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Fil
+    .accesskey = F
 menu-file-new-tab =
     .label = Ny fane
     .accesskey = f
@@ -25,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Åpne fil …
     .accesskey = Å
+menu-file-close =
+    .label = Lukk
+    .accesskey = L
 menu-file-close-window =
     .label = Lukk vindu
     .accesskey = L
@@ -40,12 +46,39 @@ menu-file-print-preview =
 menu-file-print =
     .label = Skriv ut …
     .accesskey = u
+menu-file-import-from-another-browser =
+    .label = Importer fra en annen nettleser…
+    .accesskey = I
 menu-file-go-offline =
     .label = Arbeid frakoblet
     .accesskey = r
 
 ## Edit Menu
 
+menu-edit =
+    .label = Rediger
+    .accesskey = R
+menu-edit-undo =
+    .label = Angre
+    .accesskey = A
+menu-edit-redo =
+    .label = Gjenta
+    .accesskey = G
+menu-edit-cut =
+    .label = Klipp ut
+    .accesskey = u
+menu-edit-copy =
+    .label = Kopier
+    .accesskey = K
+menu-edit-paste =
+    .label = Lim inn
+    .accesskey = L
+menu-edit-delete =
+    .label = Slett
+    .accesskey = t
+menu-edit-select-all =
+    .label = Merk alt
+    .accesskey = M
 menu-edit-find-on =
     .label = Søk på denne siden …
     .accesskey = S
@@ -58,6 +91,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Vis
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = Verktøylinjer
+    .accesskey = V
+menu-view-customize-toolbar =
+    .label = Tilpass …
+    .accesskey = T
 menu-view-sidebar =
     .label = Sidestolpe
     .accesskey = d
@@ -130,6 +172,8 @@ menu-history-synced-tabs =
     .label = Synkroniserte faner
 menu-history-restore-last-session =
     .label = Gjenopprett forrige programøkt
+menu-history-hidden-tabs =
+    .label = Skjulte faner
 menu-history-undo-menu =
     .label = Nylig lukkede faner
 menu-history-undo-window-menu =
@@ -148,9 +192,14 @@ menu-bookmarks-toolbar =
     .label = Bokmerker
 menu-bookmarks-other =
     .label = Andre bokmerker
+menu-bookmarks-mobile =
+    .label = Mobile bokmerker
 
 ## Tools Menu
 
+menu-tools =
+    .label = Verktøy
+    .accesskey = e
 menu-tools-downloads =
     .label = Nedlastinger
     .accesskey = N
@@ -175,6 +224,20 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Sideinformasjon
     .accesskey = d
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Innstillinger
+           *[other] Innstillinger
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] I
+           *[other] I
+        }
+menu-tools-layout-debugger =
+    .label = Feilsøk layout
+    .accesskey = l
 
 ## Window Menu
 
@@ -203,6 +266,9 @@ menu-help-troubleshooting-info =
 menu-help-feedback-page =
     .label = Gi tilbakemelding …
     .accesskey = G
+menu-help-safe-mode-without-addons =
+    .label = Start på nytt med utvidelser avslått …
+    .accesskey = r
 menu-help-safe-mode-with-addons =
     .label = Start på nytt med utvidelser påslått
     .accesskey = S
