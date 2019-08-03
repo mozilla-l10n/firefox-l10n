@@ -8,6 +8,9 @@
 menu-file-new-window =
     .label = Zanfun taaga
     .accesskey = Z
+menu-file-new-private-window =
+    .label = Sutura zanfun taaga
+    .accesskey = z
 menu-file-open-file =
     .label = Tuku feeri…
     .accesskey = T
@@ -17,6 +20,9 @@ menu-file-close-window =
 menu-file-save-page =
     .label = Moɲoo gaabu sanda…
     .accesskey = s
+menu-file-email-link =
+    .label = Bataga dobu…
+    .accesskey = a
 menu-file-print-setup =
     .label = Moo kayandiyan
     .accesskey = k
@@ -26,6 +32,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Kar…
     .accesskey = K
+menu-file-go-offline =
+    .label = Goy bila nda cinari
+    .accesskey = G
 
 ## Edit Menu
 
@@ -44,6 +53,8 @@ menu-edit-bidi-switch-text-direction =
 menu-view-sidebar =
     .label = Cerawžeeri
     .accesskey = C
+menu-view-bookmarks =
+    .label = Doo-šilbawey
 menu-view-full-zoom =
     .label = Bebbeerandi
     .accesskey = B
@@ -98,6 +109,9 @@ menu-history-undo-window-menu =
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = Doo-šilbawey
+    .accesskey = b
 menu-bookmarks-show-all =
     .label = Doo-šilbawey kul cebe
 menu-bookmarks-toolbar =
