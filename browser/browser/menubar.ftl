@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file-email-link =
+    .label = மின்னஞ்சல் இணைப்பு ...
+    .accesskey = ம
 
 ## Edit Menu
 
@@ -67,3 +70,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = உதவி
     .accesskey = H
+menu-help-troubleshooting-info =
+    .label = பிழைத்திருத்தல் தகவல்
+    .accesskey = T
