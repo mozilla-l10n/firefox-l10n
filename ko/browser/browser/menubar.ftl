@@ -155,6 +155,9 @@ menu-view-bidi-switch-page-direction =
 
 ## History Menu
 
+menu-history =
+    .label = 방문기록
+    .accesskey = s
 menu-history-show-all-history =
     .label = 방문 기록 보기
 menu-history-clear-recent-history =
