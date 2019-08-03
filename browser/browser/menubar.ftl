@@ -5,6 +5,12 @@
 
 ## File Menu
 
+menu-file-new-container-tab =
+    .label = Yeni Konteyner Vərəqi
+    .accesskey = K
+menu-file-new-window =
+    .label = Yeni Pəncərə
+    .accesskey = Y
 menu-file-new-private-window =
     .label = Yeni Məxfi Pəncərə
     .accesskey = P
@@ -14,12 +20,21 @@ menu-file-close-window =
 menu-file-save-page =
     .label = Fərqli saxla…
     .accesskey = s
+menu-file-email-link =
+    .label = Keçidi e-poçt ilə göndər…
+    .accesskey = K
 menu-file-print =
     .label = Çap et…
     .accesskey = Ç
 
 ## Edit Menu
 
+menu-edit-find-on =
+    .label = Bu Səhifədə Axtar…
+    .accesskey = S
+menu-edit-find-again =
+    .label = Yenidən Tap
+    .accesskey = Y
 menu-edit-bidi-switch-text-direction =
     .label = Mətnin səmtini dəyiş
     .accesskey = M
@@ -31,6 +46,10 @@ menu-view-sidebar =
     .accesskey = K
 menu-view-bookmarks =
     .label = Əlfəcinlər
+menu-view-history-button =
+    .label = Tarixçə
+menu-view-synced-tabs-sidebar =
+    .label = Sinxron Vərəqlər
 menu-view-full-zoom =
     .label = Yaxınlaşdırma
     .accesskey = Y
@@ -55,6 +74,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Əsas Səhifə Stili
     .accesskey = t
+menu-view-charset =
+    .label = Mətn Kodlaması
+    .accesskey = K
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -83,6 +105,18 @@ menu-view-bidi-switch-page-direction =
 menu-history =
     .label = Tarixçə
     .accesskey = r
+menu-history-show-all-history =
+    .label = Bütün Tarixçəni Göstər
+menu-history-clear-recent-history =
+    .label = Son Tarixçəni Təmizlə…
+menu-history-synced-tabs =
+    .label = Sinxron Vərəqlər
+menu-history-restore-last-session =
+    .label = Əvvəlki Seansı Bərpa et
+menu-history-undo-menu =
+    .label = Yeni qapanmış vərəqlər
+menu-history-undo-window-menu =
+    .label = Yeni qapanmış pəncərələr
 
 ## Bookmarks Menu
 
@@ -95,9 +129,18 @@ menu-bookmarks-menu =
 menu-tools-downloads =
     .label = Endirilənlər
     .accesskey = E
+menu-tools-addons =
+    .label = Əlavələr
+    .accesskey = Ə
+menu-tools-sync-sign-in =
+    .label = { -sync-brand-short-name } hesabına daxil ol…
+    .accesskey = Y
 menu-tools-sync-now =
     .label = İndi Sinxronizə et
     .accesskey = S
+menu-tools-sync-re-auth =
+    .label = { -sync-brand-short-name } yenidən qoşul…
+    .accesskey = q
 menu-tools-page-source =
     .label = Səhifə qaynağı
     .accesskey = a
@@ -114,9 +157,27 @@ menu-window-bring-all-to-front =
 
 ## Help Menu
 
+menu-help =
+    .label = Kömək
+    .accesskey = K
+menu-help-product =
+    .label = { -brand-shorter-name } Kömək
+    .accesskey = K
+menu-help-show-tour =
+    .label = { -brand-shorter-name } Tur
+    .accesskey = T
 menu-help-keyboard-shortcuts =
     .label = Qısa Düymələr
     .accesskey = Q
 menu-help-troubleshooting-info =
     .label = Problemlərin aradan qaldırılması üzrə məlumatlar
     .accesskey = P
+menu-help-feedback-page =
+    .label = Əks əlaqə göndər…
+    .accesskey = g
+menu-help-safe-mode-without-addons =
+    .label = Əlavələri deaktiv edərək Yenidən başla…
+    .accesskey = Y
+menu-help-safe-mode-with-addons =
+    .label = Əlavələri aktiv edərək Yenidən başla
+    .accesskey = Y
