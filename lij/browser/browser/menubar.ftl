@@ -76,6 +76,9 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Fanni vedde
+    .accesskey = F
 menu-view-toolbars-menu =
     .label = Bare
     .accesskey = B
@@ -138,6 +141,9 @@ menu-view-bidi-switch-page-direction =
 
 ## History Menu
 
+menu-history =
+    .label = Stöia
+    .accesskey = i
 menu-history-show-all-history =
     .label = Fanni vedde tutta a stöia
 menu-history-clear-recent-history =
@@ -146,6 +152,8 @@ menu-history-synced-tabs =
     .label = Feuggi scincronizæ
 menu-history-restore-last-session =
     .label = Repiggia a vegia sescion
+menu-history-hidden-tabs =
+    .label = Feuggi ascozi
 menu-history-undo-menu =
     .label = Feuggi seræ urtimamente
 menu-history-undo-window-menu =
@@ -207,9 +215,30 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Agiutto
     .accesskey = A
+menu-help-product =
+    .label = Guidda de { -brand-shorter-name }
+    .accesskey = G
+menu-help-show-tour =
+    .label = Vixita guidâ de { -brand-shorter-name }
+    .accesskey = o
+menu-help-keyboard-shortcuts =
+    .label = Scorsaieu da tastea
+    .accesskey = S
 menu-help-troubleshooting-info =
     .label = Informaçioin in sciâ soluçion di problemi
     .accesskey = I
+menu-help-feedback-page =
+    .label = Manda comento…
+    .accesskey = M
 menu-help-safe-mode-without-addons =
     .label = Arvi torna co-i conponenti azonti dizabilitæ
+    .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = Arvi torna co-i conponente azonti ativæ
+    .accesskey = R
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Segnala scito mascarson…
     .accesskey = R
