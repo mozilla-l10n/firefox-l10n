@@ -31,6 +31,9 @@ menu-file-print-setup =
 
 ## View Menu
 
+menu-view-sidebar =
+    .label = పక్క పట్టీ
+    .accesskey = e
 menu-view-bookmarks =
     .label = ఇష్టాంశాలు
 menu-view-history-button =
