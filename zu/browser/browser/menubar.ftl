@@ -11,6 +11,9 @@ menu-file-new-tab =
 menu-file-new-window =
     .label = Ifasitela elisha
     .accesskey = I
+menu-file-new-private-window =
+    .label = Iwindi elisha langasese
+    .accesskey = w
 menu-file-open-file =
     .label = Vula ifayela…
     .accesskey = V
@@ -20,6 +23,9 @@ menu-file-close-window =
 menu-file-save-page =
     .label = Gcina ikhasi ngokuthi…
     .accesskey = n
+menu-file-email-link =
+    .label = Imeyila isixhumanisi…
+    .accesskey = e
 menu-file-print-setup =
     .label = Ukuhlelwa Kwekhasi…
     .accesskey = k
@@ -29,6 +35,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Printa…
     .accesskey = P
+menu-file-go-offline =
+    .label = Sebenza ngokungaxhunyiwe
+    .accesskey = S
 
 ## Edit Menu
 
@@ -77,6 +86,12 @@ menu-view-page-basic-style =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = U-Enter neskrini esigcwele
+    .accesskey = F
+menu-view-exit-full-screen =
+    .label = Phuma kundlela yeskrini esigcwele
+    .accesskey = e
 menu-view-full-screen =
     .label = Iskrini esigcwele
     .accesskey = I
