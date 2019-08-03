@@ -5,44 +5,236 @@
 
 ## File Menu
 
+menu-file =
+    .label = Sa ma sà'a
+    .accesskey = F
+menu-file-new-tab =
+    .label = Rakïj ñanj nakàa
+    .accesskey = T
+menu-file-new-container-tab =
+    .label = Rakïj ñanj man sa garasun'
+    .accesskey = B
+menu-file-new-window =
+    .label = Ventana nakàa
+    .accesskey = N
+menu-file-new-private-window =
+    .label = Nànin' 'ngo ventana huìi
+    .accesskey = W
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Na'ni' riña nu ma...
+menu-file-open-file =
+    .label = Na'nïn' chrûn ñanj...
+    .accesskey = O
+menu-file-close =
+    .label = Narán
+    .accesskey = C
 menu-file-close-window =
     .label = Nàrrun' Window
     .accesskey = d
+menu-file-save-page =
+    .label = Na'nïnj sà' Pâjina Gù'na…
+    .accesskey = A
+menu-file-email-link =
+    .label = Ga'ni' Link…
+    .accesskey = E
+menu-file-print-setup =
+    .label = Naduna daj gà riña Pâjina
+    .accesskey = u
+menu-file-print-preview =
+    .label = Dàj ga man si narit ñadu'ua
+    .accesskey = v
 menu-file-print =
     .label = Nari' ña du'ua
     .accesskey = P
+menu-file-go-offline =
+    .label = Gi'iaj sun nùnj si nitaj koneksiôn hua
+    .accesskey = k
 
 ## Edit Menu
 
+menu-edit =
+    .label = Nagi'iô'
+    .accesskey = E
+menu-edit-undo =
+    .label = Nadurê'
+    .accesskey = U
+menu-edit-redo =
+    .label = Nagi'iaj ñunj
+    .accesskey = R
+menu-edit-cut =
+    .label = Ga'nè'
+    .accesskey = t
+menu-edit-copy =
+    .label = Guyun'
+    .accesskey = C
+menu-edit-paste =
+    .label = Gachrun
+    .accesskey = P
+menu-edit-delete =
+    .label = Nadurê'
+    .accesskey = D
+menu-edit-select-all =
+    .label = Ganahui' da'ua ngê ma
+    .accesskey = A
+menu-edit-find-on =
+    .label = Narì' Riña Pajinà nan…
+    .accesskey = F
+menu-edit-find-again =
+    .label = Nana'uì' Ñûn
+    .accesskey = g
+menu-edit-bidi-switch-text-direction =
+    .label = Naduno' daj ginū dukuán na
+    .accesskey = w
 
 ## View Menu
 
+menu-view =
+    .label = Gini'iaj
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = Riña ma sa raj sun'
+    .accesskey = T
+menu-view-customize-toolbar =
+    .label = Nagi'iô' daj huin ruhuô'...
+    .accesskey = C
+menu-view-sidebar =
+    .label = Dukuán nū yi'ní ma
+    .accesskey = e
 menu-view-bookmarks =
     .label = Sa raj sun nichrò' doj
 menu-view-history-button =
     .label = Sa gini’iājt
+menu-view-synced-tabs-sidebar =
+    .label = Nej rakïj ñaj guña hua
+menu-view-full-zoom =
+    .label = Soom
+    .accesskey = Z
+menu-view-full-zoom-enlarge =
+    .label = Nagi'iaj niko'
+    .accesskey = I
+menu-view-full-zoom-reduce =
+    .label = Nagi'iaj li'
+    .accesskey = O
+menu-view-full-zoom-reset =
+    .label = Nagi'iaj ñun
+    .accesskey = R
+menu-view-full-zoom-toggle =
+    .label = Ma si soom texto
+    .accesskey = T
+menu-view-page-style-menu =
+    .label = Nanj hua nian pagina
+    .accesskey = y
+menu-view-page-style-no-style =
+    .label = Nitaj estilo
+    .accesskey = n
+menu-view-page-basic-style =
+    .label = Si estilo pagina na
+    .accesskey = b
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Nagi'iaj yachi' riña aga' sikà' ràa
+    .accesskey = F
+menu-view-exit-full-screen =
+    .label = Nagi'iaj lij riña aga' sikà' ràa
+    .accesskey = F
+menu-view-full-screen =
+    .label = Nagi'iaj gachrò' riña aga' sikà' ràa
+    .accesskey = F
 
 ##
 
+menu-view-show-all-tabs =
+    .label = Ni'io' daran' nej rakïj ñaj
+    .accesskey = A
+menu-view-bidi-switch-page-direction =
+    .label = Naduno' daj ginū pagina na
+    .accesskey = D
 
 ## History Menu
 
+menu-history =
+    .label = Sa gini’iājt
+    .accesskey = s
+menu-history-show-all-history =
+    .label = Digû' riña gaché nu'
+menu-history-clear-recent-history =
+    .label = Dure' riña gaché nu'...
+menu-history-synced-tabs =
+    .label = Nej rakïj ñaj guña huaa
+menu-history-restore-last-session =
+    .label = Nagi'iaj ñunj sesión gà gachin
+menu-history-hidden-tabs =
+    .label = Rakïj ñanj nun huì
+menu-history-undo-menu =
+    .label = Rakïj ñanj hiaj narrán nakà
+menu-history-undo-window-menu =
+    .label = Sa hiaj narrán nakà
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = Sa raj sun nichrò' doj
+    .accesskey = B
+menu-bookmarks-show-all =
+    .label = Ni'io' sa raj sun nichro' doj
+menu-bookmarks-all-tabs =
+    .label = Nuto' a'ngo rakïj ñanj...
+menu-bookmarks-toolbar =
+    .label = Riñan man sa gara sun'
+menu-bookmarks-other =
+    .label = A'ngo sa raj sun nichro' doj
+menu-bookmarks-mobile =
+    .label = Si markador aga' a'min'
 
 ## Tools Menu
 
+menu-tools =
+    .label = Rasun
+    .accesskey = T
 menu-tools-downloads =
     .label = Nadunïnj
     .accesskey = D
 menu-tools-addons =
     .label = Sa ga'ue nùtat doj
     .accesskey = A
+menu-tools-sync-sign-in =
+    .label = Gayi'ì' sesión 'ngà { -sync-brand-short-name }...
+    .accesskey = Y
+menu-tools-sync-now =
+    .label = Gi'iaj sun nugua'ān ma
+    .accesskey = S
+menu-tools-sync-re-auth =
+    .label = Gatu' 'ngà { -sync-brand-short-name }...
+    .accesskey = R
+menu-tools-web-developer =
+    .label = Desarroyador web
+    .accesskey = W
+menu-tools-page-source =
+    .label = Si kodigo pagina
+    .accesskey = o
+menu-tools-page-info =
+    .label = Rayi'ì pagina na
+    .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Sa huā gi'iát
+           *[other] Sa arajsunt doj
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
+menu-tools-layout-debugger =
+    .label = Sa nagi'iaj hue'è diseño
+    .accesskey = L
 
 ## Window Menu
 
@@ -77,3 +269,9 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Nayi'ì ñû' ngà nej sa ga'ue nutò' hua yugui
     .accesskey = N
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Nato' ahui sitio nitaj si 'iaj sun hue'e...
+    .accesskey = D
