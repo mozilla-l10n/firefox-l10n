@@ -8,6 +8,14 @@
 menu-file-new-tab =
     .label = Nový panel
     .accesskey = p
+menu-file-new-window =
+    .label = Nové okno
+    .accesskey = N
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Otevřít umístění…
 menu-file-open-file =
     .label = Otevřít soubor…
     .accesskey = s
@@ -86,6 +94,9 @@ menu-bookmarks-toolbar =
 
 ## Tools Menu
 
+menu-tools-sync-re-auth =
+    .label = Opětovné připojení k { -sync-brand-short-name }…
+    .accesskey = p
 menu-tools-page-info =
     .label = Informace o stránce
     .accesskey = I
@@ -95,3 +106,15 @@ menu-tools-page-info =
 
 ## Help Menu
 
+menu-help-product =
+    .label = Nápověda aplikace { -brand-shorter-name }
+    .accesskey = N
+menu-help-show-tour =
+    .label = Průvodce aplikací { -brand-shorter-name }
+    .accesskey = P
+menu-help-keyboard-shortcuts =
+    .label = Klávesové zkratky
+    .accesskey = K
+menu-help-safe-mode-with-addons =
+    .label = Restartovat s povolenými doplňky
+    .accesskey = R
