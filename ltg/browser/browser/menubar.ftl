@@ -8,6 +8,12 @@
 menu-file =
     .label = Fails
     .accesskey = F
+menu-file-new-tab =
+    .label = Jauna cilne
+    .accesskey = c
+menu-file-new-container-tab =
+    .label = Jauna cilņu skreine
+    .accesskey = B
 menu-file-new-window =
     .label = Jauns lūgs
     .accesskey = n
@@ -28,6 +34,9 @@ menu-file-close =
 menu-file-close-window =
     .label = Aiztaiseit lūgu
     .accesskey = g
+menu-file-save-page =
+    .label = Saglobōt lopu kai…
+    .accesskey = S
 menu-file-email-link =
     .label = Nūsyuteit saiti…
     .accesskey = N
@@ -37,6 +46,9 @@ menu-file-print-setup =
 menu-file-print-preview =
     .label = Drukys prīkšskatejums
     .accesskey = p
+menu-file-print =
+    .label = Drukōt…
+    .accesskey = D
 menu-file-go-offline =
     .label = Struoduot nasaistī
     .accesskey = r
@@ -85,6 +97,9 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Reikjūslys
     .accesskey = l
+menu-view-customize-toolbar =
+    .label = Pīlāgōt…
+    .accesskey = P
 menu-view-sidebar =
     .label = Suonu jūsla
     .accesskey = a
@@ -155,6 +170,10 @@ menu-history-clear-recent-history =
     .label = Dzēst nasenū viesturi…
 menu-history-synced-tabs =
     .label = Sinhronizeituos cilnes
+menu-history-restore-last-session =
+    .label = Atjaunōt īprīkšejū seseju
+menu-history-hidden-tabs =
+    .label = Apslāptōs cilnes
 menu-history-undo-menu =
     .label = Naseņ aiztaiseituos cilnes
 menu-history-undo-window-menu =
@@ -196,6 +215,9 @@ menu-tools-sync-now =
 menu-tools-sync-re-auth =
     .label = Sasavīnuot i { -sync-brand-short-name }…
     .accesskey = S
+menu-tools-web-developer =
+    .label = Izstrōdōtōju reiki
+    .accesskey = t
 menu-tools-page-source =
     .label = Lopys pyrmskods
     .accesskey = o
@@ -213,6 +235,9 @@ menu-preferences =
             [windows] m
            *[other] m
         }
+menu-tools-layout-debugger =
+    .label = Maketa atklaidōtōjs
+    .accesskey = M
 
 ## Window Menu
 
