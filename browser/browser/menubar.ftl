@@ -5,9 +5,18 @@
 
 ## File Menu
 
+menu-file =
+    .label = Bestand
+    .accesskey = B
 menu-file-new-tab =
     .label = ­Nieuw tabblad
     .accesskey = t
+menu-file-new-container-tab =
+    .label = Nieuw containertabblad
+    .accesskey = c
+menu-file-new-window =
+    .label = Nieuw venster
+    .accesskey = N
 menu-file-new-private-window =
     .label = Nieuw privévenster
     .accesskey = r
@@ -19,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Bestand openen…
     .accesskey = o
+menu-file-close =
+    .label = Sluiten
+    .accesskey = S
 menu-file-close-window =
     .label = Venster sluiten
     .accesskey = e
@@ -37,18 +49,54 @@ menu-file-print-preview =
 menu-file-print =
     .label = Afdrukken…
     .accesskey = d
+menu-file-import-from-another-browser =
+    .label = Importeren vanuit een andere browser…
+    .accesskey = b
 menu-file-go-offline =
     .label = Offline werken
     .accesskey = f
 
 ## Edit Menu
 
+menu-edit =
+    .label = Bewerken
+    .accesskey = w
+menu-edit-undo =
+    .label = Ongedaan maken
+    .accesskey = O
+menu-edit-redo =
+    .label = Opnieuw uitvoeren
+    .accesskey = u
+menu-edit-cut =
+    .label = Knippen
+    .accesskey = n
+menu-edit-copy =
+    .label = Kopiëren
+    .accesskey = K
+menu-edit-paste =
+    .label = Plakken
+    .accesskey = P
+menu-edit-delete =
+    .label = Verwijderen
+    .accesskey = V
+menu-edit-select-all =
+    .label = Alles selecteren
+    .accesskey = A
 menu-edit-bidi-switch-text-direction =
     .label = Tekstrichting omkeren
     .accesskey = t
 
 ## View Menu
 
+menu-view =
+    .label = Beeld
+    .accesskey = l
+menu-view-toolbars-menu =
+    .label = Werkbalken
+    .accesskey = W
+menu-view-customize-toolbar =
+    .label = Aanpassen…
+    .accesskey = A
 menu-view-sidebar =
     .label = Zijbalk
     .accesskey = Z
@@ -56,6 +104,8 @@ menu-view-bookmarks =
     .label = Bladwijzers
 menu-view-history-button =
     .label = Geschiedenis
+menu-view-synced-tabs-sidebar =
+    .label = Gesynchroniseerde tabbladen
 menu-view-full-zoom =
     .label = Zoomen
     .accesskey = o
@@ -80,6 +130,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Basisstijl
     .accesskey = B
+menu-view-charset =
+    .label = Tekstcodering
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -112,8 +165,12 @@ menu-history-show-all-history =
     .label = Alle geschiedenis tonen
 menu-history-clear-recent-history =
     .label = Recente geschiedenis wissen…
+menu-history-synced-tabs =
+    .label = Gesynchroniseerde tabbladen
 menu-history-restore-last-session =
     .label = Vorige sessie herstellen
+menu-history-hidden-tabs =
+    .label = Verborgen tabbladen
 menu-history-undo-menu =
     .label = Onlangs gesloten tabbladen
 menu-history-undo-window-menu =
@@ -130,6 +187,10 @@ menu-bookmarks-all-tabs =
     .label = Bladwijzer voor alle tabbladen maken…
 menu-bookmarks-toolbar =
     .label = Bladwijzerwerkbalk
+menu-bookmarks-other =
+    .label = Andere bladwijzers
+menu-bookmarks-mobile =
+    .label = Mobiel-bladwijzers
 
 ## Tools Menu
 
@@ -142,6 +203,12 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Add-ons
     .accesskey = A
+menu-tools-sync-sign-in =
+    .label = Aanmelden bij { -sync-brand-short-name }…
+    .accesskey = y
+menu-tools-sync-now =
+    .label = Nu synchroniseren
+    .accesskey = N
 menu-tools-sync-re-auth =
     .label = Opnieuw verbinden met { -sync-brand-short-name }…
     .accesskey = O
@@ -154,6 +221,20 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Pagina-info
     .accesskey = i
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Opties
+           *[other] Voorkeuren
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] V
+        }
+menu-tools-layout-debugger =
+    .label = Lay-out-debugger
+    .accesskey = L
 
 ## Window Menu
 
@@ -167,9 +248,27 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Help
     .accesskey = H
+menu-help-product =
+    .label = { -brand-shorter-name } Help
+    .accesskey = H
+menu-help-show-tour =
+    .label = { -brand-shorter-name }-rondleiding
+    .accesskey = o
 menu-help-troubleshooting-info =
     .label = Probleemoplossingsinformatie
     .accesskey = P
+menu-help-feedback-page =
+    .label = Feedback verzenden…
+    .accesskey = v
 menu-help-safe-mode-without-addons =
     .label = Herstarten met uitgeschakelde add-ons…
     .accesskey = r
+menu-help-safe-mode-with-addons =
+    .label = Herstarten met ingeschakelde add-ons
+    .accesskey = r
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Misleidende website rapporteren…
+    .accesskey = M
