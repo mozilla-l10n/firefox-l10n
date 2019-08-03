@@ -32,6 +32,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Druk…
     .accesskey = D
+menu-file-go-offline =
+    .label = Werk vanlyn
+    .accesskey = k
 
 ## Edit Menu
 
@@ -157,6 +160,9 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Hulp
     .accesskey = H
+menu-help-keyboard-shortcuts =
+    .label = Sleutelbordkortpaaie
+    .accesskey = k
 menu-help-troubleshooting-info =
     .label = Inligting vir probleemoplossing
     .accesskey = p
