@@ -121,3 +121,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Тусламж
     .accesskey = Т
+menu-help-safe-mode-without-addons =
+    .label = Нэмэлтүүдийг идэвхижүүлээгүй горимд дахин эхлүүлэх…
+    .accesskey = Н
