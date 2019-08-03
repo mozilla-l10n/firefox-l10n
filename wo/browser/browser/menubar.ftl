@@ -104,6 +104,12 @@ menu-view-page-basic-style =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Jàll ci yambalaŋ
+    .accesskey = y
+menu-view-exit-full-screen =
+    .label = Génn anamu yambalaŋ
+    .accesskey = G
 menu-view-full-screen =
     .label = Seetukaay bu yambalaŋ
     .accesskey = S
@@ -162,6 +168,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Bataaxal ci xët wi
     .accesskey = i
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Tànneef yi
+           *[other] Taamu yi
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] T
+           *[other] u
+        }
 
 ## Window Menu
 
