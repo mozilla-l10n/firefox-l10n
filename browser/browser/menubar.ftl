@@ -41,6 +41,9 @@ menu-edit-find-on =
 menu-edit-find-again =
     .label = Lorg a-rithist
     .accesskey = g
+menu-edit-bidi-switch-text-direction =
+    .label = Atharraich comhair an teacsa
+    .accesskey = A
 
 ## View Menu
 
@@ -63,6 +66,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = Ath-shuidhich
     .accesskey = A
+menu-view-full-zoom-toggle =
+    .label = Na sùm ach an teacsa
+    .accesskey = t
 menu-view-page-style-menu =
     .label = Stoidhle na duilleige
     .accesskey = S
