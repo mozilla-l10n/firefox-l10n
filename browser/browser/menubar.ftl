@@ -8,6 +8,11 @@
 menu-file-new-tab =
     .label = Tab Baru
     .accesskey = T
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Buka Lokasi…
 
 ## Edit Menu
 
@@ -17,6 +22,8 @@ menu-edit-find-again =
 
 ## View Menu
 
+menu-view-history-button =
+    .label = Sejarah
 menu-view-full-zoom =
     .label = Zum
     .accesskey = Z
@@ -42,6 +49,9 @@ menu-view-full-zoom-toggle =
 menu-tools-addons =
     .label = Add-ons
     .accesskey = A
+menu-tools-sync-sign-in =
+    .label = Daftar Masuk Ke { -sync-brand-short-name }...
+    .accesskey = Y
 
 ## Window Menu
 
