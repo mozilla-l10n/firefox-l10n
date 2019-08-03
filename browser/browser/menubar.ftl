@@ -17,6 +17,8 @@ menu-file-print-setup =
 
 ## View Menu
 
+menu-view-bookmarks =
+    .label = ఇష్టాంశాలు
 menu-view-history-button =
     .label = చరిత్ర
 menu-view-full-zoom =
