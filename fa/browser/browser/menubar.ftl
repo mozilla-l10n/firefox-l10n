@@ -5,12 +5,80 @@
 
 ## File Menu
 
+menu-file =
+    .label = پرونده‌
+    .accesskey = پ
+menu-file-new-tab =
+    .label = زبانه جدید
+    .accesskey = ز
+menu-file-new-container-tab =
+    .label = زبانه حامل جدید
+    .accesskey = ز
+menu-file-new-window =
+    .label = پنجره جدید‌
+    .accesskey = ج
+menu-file-new-private-window =
+    .label = پنجره ناشناس جدید
+    .accesskey = پ
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = بازکردن مکان…
+menu-file-open-file =
+    .label = بازکردن پرونده…
+    .accesskey = ب
+menu-file-close =
+    .label = بستن
+    .accesskey = س
+menu-file-close-window =
+    .label = بستن پنجره
+    .accesskey = پ
 menu-file-save-page =
     .label = ذخیرهٔ صفحه به نام…
     .accesskey = ص
+menu-file-email-link =
+    .label = ایمیل کردن پیوند...
+    .accesskey = ا
+menu-file-print-setup =
+    .label = تنظیم صفحه…
+    .accesskey = ت
+menu-file-print-preview =
+    .label = پیش‌نمایش چاپ
+    .accesskey = پ
+menu-file-print =
+    .label = چاپ...
+    .accesskey = چ
+menu-file-go-offline =
+    .label = آفلاین کار کن
+    .accesskey = ک
 
 ## Edit Menu
 
+menu-edit =
+    .label = ویرایش
+    .accesskey = و
+menu-edit-undo =
+    .label = برگردان
+    .accesskey = ب
+menu-edit-redo =
+    .label = از نو
+    .accesskey = ا
+menu-edit-cut =
+    .label = بریدن
+    .accesskey = ب
+menu-edit-copy =
+    .label = رونوشت‌
+    .accesskey = ر
+menu-edit-paste =
+    .label = چسباندن
+    .accesskey = چ
+menu-edit-delete =
+    .label = حذف
+    .accesskey = ح
+menu-edit-select-all =
+    .label = انتخاب همه
+    .accesskey = ه
 menu-edit-find-on =
     .label = پیدا کردن در این صفحه…
     .accesskey = پ
@@ -23,11 +91,24 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = نما
+    .accesskey = ن
+menu-view-toolbars-menu =
+    .label = نوار ابزار
+    .accesskey = ن
+menu-view-customize-toolbar =
+    .label = سفارشی‌سازی…
+    .accesskey = س
 menu-view-sidebar =
     .label = نوار کناری
     .accesskey = ک
 menu-view-bookmarks =
     .label = نشانک‌ها
+menu-view-history-button =
+    .label = تاریخچه
+menu-view-synced-tabs-sidebar =
+    .label = زبانه‌های همگام شده
 menu-view-full-zoom =
     .label = زوم
     .accesskey = ز
@@ -52,13 +133,28 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = سبک ابتدایی صفحه
     .accesskey = ب
+menu-view-charset =
+    .label = کدگذاری متن
+    .accesskey = گ
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = ورود به تمام‌صفحه
+    .accesskey = ت
+menu-view-exit-full-screen =
+    .label = خروج از حالت تمام‌صفحه
+    .accesskey = ت
+menu-view-full-screen =
+    .label = تمام‌صفحه
+    .accesskey = ت
 
 ##
 
+menu-view-show-all-tabs =
+    .label = نمایش همه زبانه‌ها
+    .accesskey = ه
 menu-view-bidi-switch-page-direction =
     .label = تعویض جهت صفحه
     .accesskey = ع
@@ -68,6 +164,14 @@ menu-view-bidi-switch-page-direction =
 menu-history =
     .label = تاریخچه
     .accesskey = ت
+menu-history-show-all-history =
+    .label = نمایش تمام تاریخچه
+menu-history-clear-recent-history =
+    .label = پاک کردن تاریخچه صفحه‌های اخیراً بازدید شده…
+menu-history-synced-tabs =
+    .label = زبانه‌های همگام‌سازی شده
+menu-history-restore-last-session =
+    .label = بازآوری نشست قبلی
 menu-history-undo-menu =
     .label = زبانه‌های تازه بسته شده
 menu-history-undo-window-menu =
@@ -75,18 +179,60 @@ menu-history-undo-window-menu =
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = نشانک‌ها
+    .accesskey = ن
 menu-bookmarks-show-all =
     .label = نمایش همهٔ نشانک‌ها
 menu-bookmarks-all-tabs =
     .label = نشانک‌گذاری تمامی زبانه‌ها…
 menu-bookmarks-toolbar =
     .label = نوار ابزار نشانک‌ها
+menu-bookmarks-other =
+    .label = نشانک‌‌های دیگر
+menu-bookmarks-mobile =
+    .label = نشانک‌های همراه
 
 ## Tools Menu
 
+menu-tools =
+    .label = ابزارها
+    .accesskey = ا
+menu-tools-downloads =
+    .label = بارگیری‌ها
+    .accesskey = ب
+menu-tools-addons =
+    .label = افزودنی‌ها
+    .accesskey = ا
+menu-tools-sync-sign-in =
+    .label = ورود به { -sync-brand-short-name }…
+    .accesskey = Y
 menu-tools-sync-now =
     .label = انجام هم‌گام‌سازی
     .accesskey = ه
+menu-tools-sync-re-auth =
+    .label = اتصال مجدد به { -sync-brand-short-name }…
+    .accesskey = ت
+menu-tools-web-developer =
+    .label = توسعه‌دهنده وب
+    .accesskey = و
+menu-tools-page-source =
+    .label = متن صفحه
+    .accesskey = م
+menu-tools-page-info =
+    .label = اطلاعات صفحه
+    .accesskey = ا
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] گزینه‌ها
+           *[other] ترجیحات
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] گ
+           *[other] ت
+        }
 
 ## Window Menu
 
@@ -97,3 +243,15 @@ menu-window-bring-all-to-front =
 
 ## Help Menu
 
+menu-help-product =
+    .label = راهنمای { -brand-shorter-name }
+    .accesskey = H
+menu-help-show-tour =
+    .label = تور معرفی { -brand-shorter-name }
+    .accesskey = o
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = گزارشِ سایت گمراه‌کننده…
+    .accesskey = گ
