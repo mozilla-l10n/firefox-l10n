@@ -251,6 +251,12 @@ menu-window-bring-all-to-front =
 
 ## Help Menu
 
+menu-help =
+    .label = Tallelt
+    .accesskey = T
+menu-help-product =
+    .label = Tallelt { -brand-shorter-name }
+    .accesskey = a
 menu-help-show-tour =
     .label = Tirza fessusen ɣer { -brand-shorter-name }
     .accesskey = r
