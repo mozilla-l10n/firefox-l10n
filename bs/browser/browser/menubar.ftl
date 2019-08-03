@@ -5,6 +5,12 @@
 
 ## File Menu
 
+menu-file-new-tab =
+    .label = Novi tab
+    .accesskey = t
+menu-file-new-container-tab =
+    .label = Novi Container tab
+    .accesskey = b
 menu-file-new-window =
     .label = Novi prozor
     .accesskey = N
@@ -25,6 +31,9 @@ menu-file-close-window =
 menu-file-save-page =
     .label = Spasi stranicu kao…
     .accesskey = a
+menu-file-email-link =
+    .label = Pošalji link emailom…
+    .accesskey = e
 menu-file-print-setup =
     .label = Podešavanje strane…
     .accesskey = P
@@ -59,6 +68,8 @@ menu-view-bookmarks =
     .label = Zabilješke
 menu-view-history-button =
     .label = Historija
+menu-view-synced-tabs-sidebar =
+    .label = Sinhronizovani tabovi
 menu-view-full-zoom =
     .label = Zumiraj
     .accesskey = Z
@@ -83,6 +94,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Osnovni stil stranice
     .accesskey = O
+menu-view-charset =
+    .label = Kodna stranica teksta
+    .accesskey = e
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -93,6 +107,9 @@ menu-view-enter-full-screen =
 menu-view-exit-full-screen =
     .label = Izađi iz prikaza preko cijelog ekrana
     .accesskey = F
+menu-view-full-screen =
+    .label = Prikaz preko cijelog ekrana
+    .accesskey = c
 
 ##
 
@@ -112,6 +129,8 @@ menu-history-show-all-history =
     .label = Prikaz cijele historije
 menu-history-clear-recent-history =
     .label = Obriši skorašnju historiju…
+menu-history-synced-tabs =
+    .label = Sinhronizovani tabovi
 menu-history-undo-menu =
     .label = Nedavno zatvoreni tabovi
 menu-history-undo-window-menu =
@@ -124,8 +143,14 @@ menu-bookmarks-menu =
     .accesskey = b
 menu-bookmarks-show-all =
     .label = Prikaži sve zabilješke
+menu-bookmarks-all-tabs =
+    .label = Zabilježi sve tabove…
 menu-bookmarks-toolbar =
     .label = Traka sa zabilješkama
+menu-bookmarks-other =
+    .label = Druge zabilješke
+menu-bookmarks-mobile =
+    .label = Mobilne zabilješke
 
 ## Tools Menu
 
@@ -135,9 +160,15 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Add-oni
     .accesskey = A
+menu-tools-sync-sign-in =
+    .label = Prijava u { -sync-brand-short-name }…
+    .accesskey = Y
 menu-tools-sync-now =
     .label = Sinhronizuj sada
     .accesskey = S
+menu-tools-sync-re-auth =
+    .label = Ponovno povezivanje na { -sync-brand-short-name }…
+    .accesskey = R
 menu-tools-web-developer =
     .label = Web Developer
     .accesskey = W
@@ -160,6 +191,15 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Pomoć
     .accesskey = P
+menu-help-product =
+    .label = { -brand-shorter-name } pomoć
+    .accesskey = H
+menu-help-show-tour =
+    .label = { -brand-shorter-name } vodič
+    .accesskey = o
+menu-help-keyboard-shortcuts =
+    .label = Shortcuti na tastaturi
+    .accesskey = o
 menu-help-troubleshooting-info =
     .label = Informacije za rješavanje problema
     .accesskey = I
@@ -169,3 +209,12 @@ menu-help-feedback-page =
 menu-help-safe-mode-without-addons =
     .label = Restartuj sa onemogućenim add-onima…
     .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = Restartuj sa omogućenim add-onima
+    .accesskey = R
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Prijavi obmanjujuću stranicu…
+    .accesskey = o
