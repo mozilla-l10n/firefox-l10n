@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file-print-preview =
+    .label = Перадпрагляд друку
+    .accesskey = г
 menu-file-print =
     .label = Друкаваць…
     .accesskey = Д
@@ -27,6 +30,12 @@ menu-view-page-basic-style =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = На поўны экран
+    .accesskey = п
+menu-view-exit-full-screen =
+    .label = Закрыць поўны экран
+    .accesskey = З
 menu-view-full-screen =
     .label = Увесь экран
     .accesskey = У
@@ -47,6 +56,8 @@ menu-history-show-all-history =
 menu-bookmarks-menu =
     .label = Закладкі
     .accesskey = З
+menu-bookmarks-show-all =
+    .label = Паказаць усе закладкі
 
 ## Tools Menu
 
