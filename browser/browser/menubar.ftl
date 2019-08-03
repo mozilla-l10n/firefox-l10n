@@ -5,15 +5,23 @@
 
 ## File Menu
 
+menu-file-new-private-window =
+    .label = নতুন ব্যক্তিগত উইন্ডো
+    .accesskey = W
 menu-file-email-link =
     .label = লিঙ্ক ইমেইল করুন... E
     .accesskey = E
+menu-file-go-offline =
+    .label = অফলাইন অবস্থায় কাজ k
+    .accesskey = k
 
 ## Edit Menu
 
 
 ## View Menu
 
+menu-view-bookmarks =
+    .label = বুকমার্ক
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
