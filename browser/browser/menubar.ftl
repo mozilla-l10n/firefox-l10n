@@ -125,6 +125,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = সাধাৰণ পৃষ্টা শৈলী
     .accesskey = B
+menu-view-charset =
+    .label = পাঠ এনক'ডিং
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
