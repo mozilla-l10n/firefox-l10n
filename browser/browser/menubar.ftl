@@ -25,6 +25,9 @@ menu-file-open-file =
 menu-file-close-window =
     .label = ფანჯრის დახურვა
     .accesskey = ხ
+menu-file-print-setup =
+    .label = გვერდის პარამეტრები...
+    .accesskey = ტ
 menu-file-print =
     .label = ამობეჭდვა…
     .accesskey = ა
@@ -39,6 +42,21 @@ menu-view-sidebar =
     .accesskey = ზ
 menu-view-history-button =
     .label = ისტორია
+menu-view-full-zoom-reduce =
+    .label = შემცირება
+    .accesskey = შ
+menu-view-full-zoom-reset =
+    .label = ჩვეულებრივი
+    .accesskey = ჩ
+menu-view-page-style-no-style =
+    .label = სტილის გარეშე
+    .accesskey = გ
+menu-view-page-basic-style =
+    .label = გვერდის ძირითადი სტილი
+    .accesskey = ძ
+menu-view-charset =
+    .label = ტექსტის კოდირება
+    .accesskey = კ
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
