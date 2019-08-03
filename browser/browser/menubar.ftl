@@ -5,11 +5,17 @@
 
 ## File Menu
 
+menu-file-new-tab =
+    .label = ផ្ទាំង​ថ្មី
+    .accesskey = T
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
 # but Firefox is still running.
 menu-file-open-location =
     .label = បើក​ទីតាំង…
+menu-file-open-file =
+    .label = បើក​ឯកសារ…
+    .accesskey = O
 
 ## Edit Menu
 
