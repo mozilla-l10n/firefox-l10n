@@ -133,6 +133,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Основний стиль сторінки
     .accesskey = О
+menu-view-charset =
+    .label = Кодування символів
+    .accesskey = К
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -242,6 +245,9 @@ menu-help =
 menu-help-product =
     .label = Довідка { -brand-shorter-name }
     .accesskey = Д
+menu-help-show-tour =
+    .label = Знайомство з { -brand-shorter-name }
+    .accesskey = й
 menu-help-keyboard-shortcuts =
     .label = Клавіатурні скорочення
     .accesskey = К
