@@ -172,6 +172,8 @@ menu-history-synced-tabs =
     .label = زبانه‌های همگام‌سازی شده
 menu-history-restore-last-session =
     .label = بازآوری نشست قبلی
+menu-history-hidden-tabs =
+    .label = زبانه‌های مخفی
 menu-history-undo-menu =
     .label = زبانه‌های تازه بسته شده
 menu-history-undo-window-menu =
@@ -233,6 +235,9 @@ menu-preferences =
             [windows] گ
            *[other] ت
         }
+menu-tools-layout-debugger =
+    .label = اشکال‌زدای چیدمان
+    .accesskey = L
 
 ## Window Menu
 
@@ -243,12 +248,30 @@ menu-window-bring-all-to-front =
 
 ## Help Menu
 
+menu-help =
+    .label = راهنما
+    .accesskey = H
 menu-help-product =
     .label = راهنمای { -brand-shorter-name }
     .accesskey = H
 menu-help-show-tour =
     .label = تور معرفی { -brand-shorter-name }
     .accesskey = o
+menu-help-keyboard-shortcuts =
+    .label = میانبرهای صفحه کلید
+    .accesskey = K
+menu-help-troubleshooting-info =
+    .label = اطلاعات رفع اشکال
+    .accesskey = T
+menu-help-feedback-page =
+    .label = ارسال نظر…
+    .accesskey = S
+menu-help-safe-mode-without-addons =
+    .label = راه‌اندازی مجدد به همراه غیرفعال کردن افزودنی‌ها…
+    .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = راه‌اندازی مجدد به همراه غیرفعال کردن افزودنی‌ها
+    .accesskey = R
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.
