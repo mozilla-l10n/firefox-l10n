@@ -298,6 +298,9 @@ about-debugging-worker-scope =
 # of a worker
 about-debugging-worker-push-service =
     .label = 推送服务
+# Displayed as title of the inspect button when service worker debugging is disabled.
+about-debugging-worker-inspect-action-disabled =
+    .title = Service Worker “查看”目前在多进程 { -brand-shorter-name } 下禁用
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = 主进程
