@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-logins-page-title = Kirjautumistiedot ja salasanat
+about-logins-page-title = Käyttäjätunnukset ja salasanat
 login-filter =
     .placeholder = Etsi kirjautumistietoja
 create-login-button = Luo uusi kirjautumistieto
@@ -59,13 +59,16 @@ login-item-time-used = Viimeksi käytetty: { DATETIME($timeUsed, day: "numeric",
 
 ## Master Password notification
 
-master-password-notification-message = Kirjoita pääsalasana nähdäksesi tallennetut kirjautumistiedot ja salasanat
+master-password-notification-message = Kirjoita pääsalasana nähdäksesi tallennetut käyttäjätunnukset ja salasanat
 master-password-reload-button =
     .label = Kirjaudu
     .accesskey = K
+
+## Dialogs
+
 confirm-delete-dialog-title = Poistetaanko tämä kirjautumistieto?
 confirm-delete-dialog-message = Tätä toimintoa ei voi perua.
-confirm-delete-dialog-dismiss-button =
-    .title = Peruuta
-confirm-delete-dialog-cancel-button = Peruuta
 confirm-delete-dialog-confirm-button = Poista
+
+## Breach Alert notification
+
