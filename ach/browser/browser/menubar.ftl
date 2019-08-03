@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Pwail
+    .accesskey = P
 menu-file-new-tab =
     .label = Drica matidi manyen
     .accesskey = D
@@ -25,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Yab pwail…
     .accesskey = Y
+menu-file-close =
+    .label = Lor
+    .accesskey = L
 menu-file-close-window =
     .label = Lor dirica
     .accesskey = c
@@ -43,12 +49,39 @@ menu-file-print-preview =
 menu-file-print =
     .label = Go…
     .accesskey = G
+menu-file-import-from-another-browser =
+    .label = Kel ki i Layeny Mukene…
+    .accesskey = K
 menu-file-go-offline =
     .label = Ti ma pe ikube iyamo
     .accesskey = T
 
 ## Edit Menu
 
+menu-edit =
+    .label = Yub
+    .accesskey = Y
+menu-edit-undo =
+    .label = Gony
+    .accesskey = G
+menu-edit-redo =
+    .label = Nwo timo
+    .accesskey = N
+menu-edit-cut =
+    .label = Ngol
+    .accesskey = o
+menu-edit-copy =
+    .label = Lok
+    .accesskey = L
+menu-edit-paste =
+    .label = Mwon
+    .accesskey = M
+menu-edit-delete =
+    .label = Kwany woko
+    .accesskey = K
+menu-edit-select-all =
+    .label = Yer weng
+    .accesskey = w
 menu-edit-find-on =
     .label = Nong i pot buk man…
     .accesskey = N
@@ -61,6 +94,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Nen
+    .accesskey = N
+menu-view-toolbars-menu =
+    .label = Gintic
+    .accesskey = G
+menu-view-customize-toolbar =
+    .label = Yiki…
+    .accesskey = Y
 menu-view-sidebar =
     .label = Gintic ma i nget
     .accesskey = n
@@ -133,6 +175,8 @@ menu-history-synced-tabs =
     .label = Dirica matino ma kiribo
 menu-history-restore-last-session =
     .label = Dwok kare ma okato ni
+menu-history-hidden-tabs =
+    .label = Dirica matino ma okane
 menu-history-undo-menu =
     .label = Dirica matino ma kiloro cokki
 menu-history-undo-window-menu =
@@ -156,6 +200,9 @@ menu-bookmarks-mobile =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Gintic
+    .accesskey = G
 menu-tools-downloads =
     .label = Gam
     .accesskey = G
@@ -180,6 +227,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Ngec me pot buk
     .accesskey = N
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Gin ayera
+           *[other] Ma imaro
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] G
+           *[other] r
+        }
 
 ## Window Menu
 
