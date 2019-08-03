@@ -2,6 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+category-general =
+    .tooltiptext = { pane-general-title }
+general-language-and-appearance-header = Limbă și aspect
+general-files-and-attachment-header = Fișiere și atașamente
+general-updates-header = Actualizări
+compose-html-style-title = Stil HTML
+privacy-passwords-header = Parole
+privacy-certificates-title = Certificate
+chat-notifications-title = Notificări
 choose-messenger-language-description = Alege limba de folosit pentru afișarea meniurilor, mesajelor și a notificărilor de la { -brand-short-name }.
 manage-messenger-languages-button =
     .label = Setează alternative...
