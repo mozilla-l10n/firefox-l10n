@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = கோப்பு
+    .accesskey = F
 menu-file-new-tab =
     .label = புதிய தத்தல்
     .accesskey = T
@@ -41,6 +44,24 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = செவ்வையாக்கு
+    .accesskey = E
+menu-edit-undo =
+    .label = முன்செயல் நீக்கு
+    .accesskey = U
+menu-edit-redo =
+    .label = மீளச் செய்க
+    .accesskey = R
+menu-edit-paste =
+    .label = ஒட்டு
+    .accesskey = P
+menu-edit-delete =
+    .label = அழி
+    .accesskey = D
+menu-edit-select-all =
+    .label = அனைத்தையும் தெரி
+    .accesskey = A
 menu-edit-find-again =
     .label = மீண்டும் தேடு
     .accesskey = g
@@ -50,6 +71,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = நோக்கு
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = கருவிப்பட்டைகள்
+    .accesskey = T
+menu-view-customize-toolbar =
+    .label = தனிப்பயனாக்குக
+    .accesskey = C
 menu-view-sidebar =
     .label = பக்கப்பட்டை
     .accesskey = e
@@ -73,6 +103,12 @@ menu-view-full-zoom-toggle =
 menu-view-page-style-menu =
     .label = பக்கப் பாணி
     .accesskey = y
+menu-view-page-style-no-style =
+    .label = பாணி இல்லை
+    .accesskey = N
+menu-view-page-basic-style =
+    .label = அடிப்படை பக்கப் பாணி
+    .accesskey = B
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -120,6 +156,9 @@ menu-bookmarks-toolbar =
 
 ## Tools Menu
 
+menu-tools =
+    .label = கருவிகள்
+    .accesskey = T
 menu-tools-addons =
     .label = செருகல்கள்
     .accesskey = A
@@ -135,6 +174,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = பக்க தகவல்
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] தேர்வுகள்
+           *[other] விருப்பத்தேர்வுகள்
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
 
 ## Window Menu
 
