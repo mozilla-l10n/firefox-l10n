@@ -47,6 +47,9 @@ newtab-topsites-add-button = Ajouter
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Voulez-vous vraiment supprimer de l’historique toutes les occurrences de cette page ?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Cette action est irréversible.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Marquer cette page
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Copier l’adresse d’origine du téléchargement
 newtab-menu-go-to-download-page = Aller à la page de téléchargement
 newtab-menu-remove-download = Retirer de l’historique
@@ -116,6 +123,10 @@ newtab-label-download = Téléchargé
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = Supprimer la section
 newtab-section-menu-collapse-section = Réduire la section
 newtab-section-menu-expand-section = Développer la section
@@ -126,6 +137,13 @@ newtab-section-menu-add-search-engine = Ajouter un moteur de recherche
 newtab-section-menu-move-up = Déplacer vers le haut
 newtab-section-menu-move-down = Déplacer vers le bas
 newtab-section-menu-privacy-notice = Politique de confidentialité
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Réduire la section
+newtab-section-expand-section-label =
+    .aria-label = Développer la section
 
 ## Section Headers.
 
@@ -149,6 +167,8 @@ newtab-discovery-empty-section-topstories-header = Il n’y a rien d’autre.
 newtab-discovery-empty-section-topstories-content = Revenez plus tard pour découvrir d’autres articles.
 newtab-discovery-empty-section-topstories-try-again-button = Réessayer
 newtab-discovery-empty-section-topstories-loading = Chargement…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Oups, il semblerait que la section ne se soit pas chargée complètement.
 
 ## Pocket Content Section.
 
