@@ -84,9 +84,14 @@ menu-view-full-screen =
 
 ##
 
+menu-view-show-all-tabs =
+    .label = すべてのタブを表示
+    .accesskey = A
 
 ## History Menu
 
+menu-history-clear-recent-history =
+    .label = 最近の履歴を消去
 
 ## Bookmarks Menu
 
