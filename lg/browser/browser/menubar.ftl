@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Fayiro
+    .accesskey = F
 menu-file-new-tab =
     .label = Awaddirira Awapya
     .accesskey = A
@@ -17,6 +20,9 @@ menu-file-new-private-window =
 menu-file-open-file =
     .label = Bikkula Fayiro…
     .accesskey = B
+menu-file-close =
+    .label = Ggalawo
+    .accesskey = G
 menu-file-close-window =
     .label = Ggalawo Endirisa
     .accesskey = i
@@ -41,6 +47,24 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Longoosa
+    .accesskey = L
+menu-edit-redo =
+    .label = Ddamu
+    .accesskey = D
+menu-edit-cut =
+    .label = Ggawo
+    .accesskey = w
+menu-edit-paste =
+    .label = Teeka
+    .accesskey = T
+menu-edit-delete =
+    .label = Sazaamu
+    .accesskey = S
+menu-edit-select-all =
+    .label = Londa Byonna
+    .accesskey = B
 menu-edit-find-on =
     .label = Nonya mu Muko Guno…
     .accesskey = N
@@ -53,6 +77,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Laga
+    .accesskey = L
+menu-view-toolbars-menu =
+    .label = Akabawo kebikozesebwa
+    .accesskey = A
+menu-view-customize-toolbar =
+    .label = Kifuule ky'oyagala…
+    .accesskey = K
 menu-view-sidebar =
     .label = Olusangiro lw'emabbali
     .accesskey = o
@@ -129,6 +162,9 @@ menu-bookmarks-toolbar =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Ebikozesebwa
+    .accesskey = E
 menu-tools-downloads =
     .label = Ebiwanulwa
     .accesskey = E
@@ -147,6 +183,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Ebikwata ku'muko
     .accesskey = b
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Ebilondebwaako
+           *[other] Ebyerobozebwa
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] E
+           *[other] z
+        }
 
 ## Window Menu
 
