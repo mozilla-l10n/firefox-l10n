@@ -136,6 +136,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Basissidestil
     .accesskey = B
+menu-view-charset =
+    .label = Tegnkodning
+    .accesskey = T
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
