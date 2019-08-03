@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = ගොනු
+    .accesskey = F
 menu-file-new-tab =
     .label = නව ටැබයක් විවෘත කරන්න
     .accesskey = T
@@ -25,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = ගොනුවක් විවෘත කරන්න...
     .accesskey = O
+menu-file-close =
+    .label = වසන්න
+    .accesskey = C
 menu-file-close-window =
     .label = කවුළුව වසන්න
     .accesskey = d
@@ -49,6 +55,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = සැකසුම්
+    .accesskey = E
+menu-edit-undo =
+    .label = අවලංගු
+    .accesskey = U
+menu-edit-redo =
+    .label = යළි කරන්න
+    .accesskey = R
+menu-edit-cut =
+    .label = කපන්න
+    .accesskey = t
+menu-edit-copy =
+    .label = පිටපත් කරන්න
+    .accesskey = C
+menu-edit-paste =
+    .label = අලවන්න
+    .accesskey = P
+menu-edit-delete =
+    .label = මකන්න
+    .accesskey = D
+menu-edit-select-all =
+    .label = සියල්ල තෝරන්න
+    .accesskey = A
 menu-edit-find-on =
     .label = මේ පිටුවේ සොයන්න...
     .accesskey = F
@@ -61,6 +91,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = දසුන්
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = මෙවලම් තීරු
+    .accesskey = T
+menu-view-customize-toolbar =
+    .label = රිසිකරණය...
+    .accesskey = C
 menu-view-sidebar =
     .label = පැති තීරුව
     .accesskey = e
@@ -151,9 +190,14 @@ menu-bookmarks-toolbar =
     .label = පිටු සලකුණු මෙවලම් තීරුව
 menu-bookmarks-other =
     .label = වෙනත් පිටුසලකුණු
+menu-bookmarks-mobile =
+    .label = ජංගම පිටු සළකුණු
 
 ## Tools Menu
 
+menu-tools =
+    .label = මෙවලම්
+    .accesskey = T
 menu-tools-downloads =
     .label = බාගැනිම්
     .accesskey = D
@@ -178,6 +222,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = පිටුවේ තොරතුරු
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] විකල්ප...
+           *[other] අභිප්‍රේත
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
 
 ## Window Menu
 
@@ -194,6 +249,9 @@ menu-help =
 menu-help-product =
     .label = { -brand-shorter-name } උදව්
     .accesskey = H
+menu-help-show-tour =
+    .label = { -brand-shorter-name } සංචාරය
+    .accesskey = o
 menu-help-keyboard-shortcuts =
     .label = යතුරු පුවරු කෙටිමං
     .accesskey = K
