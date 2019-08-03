@@ -14,6 +14,9 @@ menu-file-new-container-tab =
 menu-file-new-window =
     .label = Нов прозорец
     .accesskey = Н
+menu-file-new-private-window =
+    .label = Нов приватен прозорец
+    .accesskey = П
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
 # but Firefox is still running.
@@ -28,6 +31,9 @@ menu-file-close-window =
 menu-file-save-page =
     .label = Сними страница како…
     .accesskey = а
+menu-file-email-link =
+    .label = Испрати линк…
+    .accesskey = И
 menu-file-print-setup =
     .label = Поставување на страницата…
     .accesskey = с
