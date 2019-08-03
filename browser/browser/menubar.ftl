@@ -190,6 +190,8 @@ menu-bookmarks-toolbar =
     .label = Панель закладок
 menu-bookmarks-other =
     .label = Інші закладки
+menu-bookmarks-mobile =
+    .label = Мобільні закладки
 
 ## Tools Menu
 
