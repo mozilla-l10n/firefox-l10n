@@ -54,6 +54,9 @@ menu-view-full-screen =
 
 ##
 
+menu-view-show-all-tabs =
+    .label = Mostrar todas las pestañas
+    .accesskey = A
 
 ## History Menu
 
