@@ -17,6 +17,9 @@ menu-file-new-container-tab =
 menu-file-new-window =
     .label = Fenèstra novèla
     .accesskey = n
+menu-file-new-private-window =
+    .label = Novèla fenèstra de navegacion privada
+    .accesskey = N
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
 # but Firefox is still running.
@@ -130,6 +133,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Estil de pagina basic
     .accesskey = b
+menu-view-charset =
+    .label = Encodatge del tèxte :
+    .accesskey = E
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
