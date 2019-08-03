@@ -34,6 +34,8 @@ menu-history-show-all-history =
     .label = Показать весь журнал
 menu-history-undo-menu =
     .label = Недавно закрытые вкладки
+menu-history-undo-window-menu =
+    .label = Недавно закрытые окна
 
 ## Bookmarks Menu
 
