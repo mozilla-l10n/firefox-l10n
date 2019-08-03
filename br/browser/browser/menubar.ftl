@@ -5,9 +5,15 @@
 
 ## File Menu
 
+menu-file =
+    .label = Restr
+    .accesskey = R
 menu-file-new-tab =
     .label = Ivinell nevez
     .accesskey = I
+menu-file-new-container-tab =
+    .label = Ivinell endalc'her nevez
+    .accesskey = e
 menu-file-new-window =
     .label = Prenestr nevez
     .accesskey = n
@@ -22,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Digeriñ ur restr…
     .accesskey = D
+menu-file-close =
+    .label = Serriñ
+    .accesskey = S
 menu-file-close-window =
     .label = Serriñ ar prenestr
     .accesskey = r
@@ -46,6 +55,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Embann
+    .accesskey = E
+menu-edit-undo =
+    .label = Dizober{ " " }
+    .accesskey = D
+menu-edit-redo =
+    .label = Adober
+    .accesskey = r
+menu-edit-cut =
+    .label = Troc'hañ
+    .accesskey = T
+menu-edit-copy =
+    .label = Eilañ
+    .accesskey = i
+menu-edit-paste =
+    .label = Pegañ
+    .accesskey = P
+menu-edit-delete =
+    .label = Dilemel
+    .accesskey = D
+menu-edit-select-all =
+    .label = Diuz pep tra
+    .accesskey = a
 menu-edit-find-on =
     .label = Klask war ar bajennad-mañ…
     .accesskey = K
@@ -58,6 +91,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Gwelout
+    .accesskey = w
+menu-view-toolbars-menu =
+    .label = Barrennoù ostilhoù
+    .accesskey = B
+menu-view-customize-toolbar =
+    .label = Personelaat…
+    .accesskey = P
 menu-view-sidebar =
     .label = Barrenn gostez
     .accesskey = g
@@ -65,6 +107,8 @@ menu-view-bookmarks =
     .label = Sinedoù
 menu-view-history-button =
     .label = Roll istor
+menu-view-synced-tabs-sidebar =
+    .label = Ivinelloù goubredet
 menu-view-full-zoom =
     .label = Zoum
     .accesskey = Z
@@ -89,6 +133,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Stil pajennad eeun
     .accesskey = e
+menu-view-charset =
+    .label = Bonegadur an destenn
+    .accesskey = d
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -121,6 +168,8 @@ menu-history-show-all-history =
     .label = Diskouez ar roll istor a-bezh
 menu-history-clear-recent-history =
     .label = Skarzhañ ar roll istor nevesañ…
+menu-history-synced-tabs =
+    .label = Ivinelloù goubredet
 menu-history-restore-last-session =
     .label = Assav an estez kent
 menu-history-undo-menu =
@@ -139,15 +188,25 @@ menu-bookmarks-all-tabs =
     .label = Ouzhpennañ an holl ivinelloù d'ar sinedoù
 menu-bookmarks-toolbar =
     .label = Barrenn ostilhoù ar sinedoù
+menu-bookmarks-other =
+    .label = Sinedoù all
+menu-bookmarks-mobile =
+    .label = Sinedoù hezoug
 
 ## Tools Menu
 
+menu-tools =
+    .label = Ostilhoù
+    .accesskey = O
 menu-tools-downloads =
     .label = Pellgargadurioù
     .accesskey = d
 menu-tools-addons =
     .label = Askouezhioù
     .accesskey = A
+menu-tools-sync-sign-in =
+    .label = En em gennaskañ ouzh { -sync-brand-short-name }
+    .accesskey = Y
 menu-tools-sync-now =
     .label = Goubredañ bremañ
     .accesskey = G
@@ -163,6 +222,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Stlennoù ar bajennad
     .accesskey = t
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Dibarzhioù
+           *[other] Gwellvezioù
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] b
+           *[other] l
+        }
 
 ## Window Menu
 
@@ -176,6 +246,12 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Skoazell
     .accesskey = S
+menu-help-product =
+    .label = Skoazell { -brand-shorter-name }
+    .accesskey = o
+menu-help-show-tour =
+    .label = Gweladenniñ { -brand-shorter-name }
+    .accesskey = G
 menu-help-keyboard-shortcuts =
     .label = Berradennoù klavier
     .accesskey = k
@@ -188,3 +264,12 @@ menu-help-feedback-page =
 menu-help-safe-mode-without-addons =
     .label = Adloc'hañ gant an askouezhioù diweredekaet…
     .accesskey = r
+menu-help-safe-mode-with-addons =
+    .label = Adloc'hañ gant an askouezhioù diweredekaet
+    .accesskey = r
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Danevelliñ al lec'hienn dagus…
+    .accesskey = d
