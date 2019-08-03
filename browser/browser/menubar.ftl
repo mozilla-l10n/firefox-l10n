@@ -14,6 +14,9 @@ menu-file-new-container-tab =
 menu-file-new-window =
     .label = නව කවුළුවක්
     .accesskey = N
+menu-file-new-private-window =
+    .label = නව පුද්ගලික කවුළුව
+    .accesskey = W
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
 # but Firefox is still running.
@@ -28,6 +31,9 @@ menu-file-close-window =
 menu-file-save-page =
     .label = පිටුව සුරකින්න...
     .accesskey = A
+menu-file-email-link =
+    .label = විද්‍යුත් තැපැල් සබැඳිය
+    .accesskey = E
 menu-file-print-setup =
     .label = පිටු සැකසුම්:
     .accesskey = u
@@ -37,9 +43,21 @@ menu-file-print-preview =
 menu-file-print =
     .label = මුද්‍රණය...
     .accesskey = P
+menu-file-go-offline =
+    .label = නොබැඳිව ක්‍රියා කරන්න
+    .accesskey = k
 
 ## Edit Menu
 
+menu-edit-find-on =
+    .label = මේ පිටුවේ සොයන්න...
+    .accesskey = F
+menu-edit-find-again =
+    .label = ඊළඟ ගැලපුම සොයන්න
+    .accesskey = g
+menu-edit-bidi-switch-text-direction =
+    .label = පෙළ දිශාව හරවන්න
+    .accesskey = w
 
 ## View Menu
 
@@ -52,9 +70,30 @@ menu-view-history-button =
     .label = ඉතිහාසය
 menu-view-synced-tabs-sidebar =
     .label = සම්මුහුර්ථ කළ ටැබ්
+menu-view-full-zoom =
+    .label = විශාලනය
+    .accesskey = Z
 menu-view-full-zoom-enlarge =
     .label = විශාල කරන්න
     .accesskey = I
+menu-view-full-zoom-reduce =
+    .label = කුඩා කරන්න
+    .accesskey = O
+menu-view-full-zoom-reset =
+    .label = යළි සකසන්න
+    .accesskey = R
+menu-view-full-zoom-toggle =
+    .label = විශාලන පෙළ පමණයි
+    .accesskey = T
+menu-view-page-style-menu =
+    .label = පිටු මෝස්තරය
+    .accesskey = y
+menu-view-page-style-no-style =
+    .label = මෝස්තරයක් නැත
+    .accesskey = N
+menu-view-page-basic-style =
+    .label = මූලික පිටු මෝස්තරය
+    .accesskey = B
 menu-view-charset =
     .label = පෙළ සංකේතනය
     .accesskey = c
@@ -77,6 +116,9 @@ menu-view-full-screen =
 menu-view-show-all-tabs =
     .label = සියළු ටැබ් පෙන්වන්න
     .accesskey = A
+menu-view-bidi-switch-page-direction =
+    .label = පිටු දිශාව හරවන්න
+    .accesskey = D
 
 ## History Menu
 
@@ -98,6 +140,9 @@ menu-history-undo-window-menu =
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = පිටු සලකුණු
+    .accesskey = B
 menu-bookmarks-show-all =
     .label = සියළු පිටුසලකුණු පෙන්වන්න…
 menu-bookmarks-all-tabs =
@@ -121,6 +166,12 @@ menu-tools-sync-sign-in =
 menu-tools-sync-now =
     .label = දැන් සම්මුහුර්ත කරන්න
     .accesskey = S
+menu-tools-sync-re-auth =
+    .label = { -sync-brand-short-name } වෙත යලි සබඳවන්න...
+    .accesskey = R
+menu-tools-web-developer =
+    .label = වෙබ් සංවර්ධකයා
+    .accesskey = W
 menu-tools-page-source =
     .label = පිටුවේ මූලය
     .accesskey = o
