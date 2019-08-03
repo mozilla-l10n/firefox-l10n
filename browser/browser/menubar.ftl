@@ -119,6 +119,12 @@ menu-view-full-zoom-toggle =
 menu-view-page-style-menu =
     .label = পৃষ্ঠা শৈলী
     .accesskey = y
+menu-view-page-style-no-style =
+    .label = কোনো শৈলী নাই
+    .accesskey = N
+menu-view-page-basic-style =
+    .label = সাধাৰণ পৃষ্টা শৈলী
+    .accesskey = B
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
