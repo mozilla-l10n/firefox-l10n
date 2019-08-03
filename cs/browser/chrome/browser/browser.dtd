@@ -588,7 +588,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Uložit odkaz do služby Pocket">
 <!ENTITY saveLinkToPocketCmd.accesskey "o">
-<!ENTITY pocketMenuitem.label         "Zobrazit seznam služby Pocket">
+<!ENTITY pocketMenuitem.label         "Seznam služby Pocket">
 
 <!ENTITY emailPageCmd.label           "Poslat odkaz e-mailem…">
 <!ENTITY emailPageCmd.accesskey       "e">
