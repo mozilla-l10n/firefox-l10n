@@ -69,12 +69,24 @@ menu-view-page-style-menu =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = पूर्ण स्क्रीनमे जाउ (F)
+    .accesskey = F
+menu-view-exit-full-screen =
+    .label = पूर्ण स्क्रीनसँ निकलू (F)
+    .accesskey = F
 menu-view-full-screen =
     .label = पूर्ण स्क्रीन
     .accesskey = F
 
 ##
 
+menu-view-show-all-tabs =
+    .label = सभटा टैब देखाउ
+    .accesskey = A
+menu-view-bidi-switch-page-direction =
+    .label = पृष्ठ दिशा बदलू
+    .accesskey = D
 
 ## History Menu
 
@@ -83,9 +95,13 @@ menu-history =
     .accesskey = s
 menu-history-undo-menu =
     .label = हाल मे बंद टैब
+menu-history-undo-window-menu =
+    .label = हाल मे बंद विंडो
 
 ## Bookmarks Menu
 
+menu-bookmarks-show-all =
+    .label = सभटा पुस्तकचिह्न केँ देखाउ
 menu-bookmarks-all-tabs =
     .label = सभटा टैब पुस्तकचिह्नित करू…
 menu-bookmarks-toolbar =
@@ -99,6 +115,12 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = सहयुक्ति
     .accesskey = A
+menu-tools-sync-now =
+    .label = आब तुल्यकालित करू
+    .accesskey = S
+menu-tools-web-developer =
+    .label = वेब डेवलेपर
+    .accesskey = W
 menu-tools-page-source =
     .label = पृष्ठ स्रोत
     .accesskey = o
