@@ -33,7 +33,7 @@ login-list-count =
     { $count ->
        *[other] { $count } 筆登入資訊
     }
-login-list-sort-label-text = 排列依照:
+login-list-sort-label-text = 排序依照:
 login-list-name-option = 名稱（A-Z 排序）
 login-list-last-changed-option = 上次修改
 login-list-last-used-option = 上次使用
