@@ -5,9 +5,18 @@
 
 ## File Menu
 
+menu-file =
+    .label = Fichier
+    .accesskey = F
+menu-file-new-tab =
+    .label = Nouvel onglet
+    .accesskey = T
 menu-file-new-container-tab =
     .label = Nouvel onglet contextuel
     .accesskey = c
+menu-file-new-window =
+    .label = Nouvelle fenêtre
+    .accesskey = u
 menu-file-new-private-window =
     .label = Nouvelle fenêtre de navigation privée
     .accesskey = N
@@ -19,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Ouvrir un fichier…
     .accesskey = O
+menu-file-close =
+    .label = Fermer
+    .accesskey = F
 menu-file-close-window =
     .label = Fermer la fenêtre
     .accesskey = r
@@ -43,6 +55,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Édition
+    .accesskey = n
+menu-edit-undo =
+    .label = Annuler
+    .accesskey = U
+menu-edit-redo =
+    .label = Rétablir
+    .accesskey = R
+menu-edit-cut =
+    .label = Couper
+    .accesskey = C
+menu-edit-copy =
+    .label = Copier
+    .accesskey = p
+menu-edit-paste =
+    .label = Coller
+    .accesskey = o
+menu-edit-delete =
+    .label = Supprimer
+    .accesskey = s
+menu-edit-select-all =
+    .label = Tout sélectionner
+    .accesskey = T
 menu-edit-find-on =
     .label = Rechercher dans la page…
     .accesskey = h
@@ -55,6 +91,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Affichage
+    .accesskey = A
+menu-view-toolbars-menu =
+    .label = Barres d’outils
+    .accesskey = T
+menu-view-customize-toolbar =
+    .label = Personnaliser…
+    .accesskey = P
 menu-view-sidebar =
     .label = Panneau latéral
     .accesskey = e
@@ -150,6 +195,9 @@ menu-bookmarks-mobile =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Outils
+    .accesskey = O
 menu-tools-downloads =
     .label = Téléchargements
     .accesskey = T
@@ -174,6 +222,20 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Informations sur la page
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Options
+           *[other] Préférences
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] f
+        }
+menu-tools-layout-debugger =
+    .label = Débogueur de mise en page
+    .accesskey = m
 
 ## Window Menu
 
@@ -202,6 +264,12 @@ menu-help-troubleshooting-info =
 menu-help-feedback-page =
     .label = Donner votre avis…
     .accesskey = D
+menu-help-safe-mode-without-addons =
+    .label = Redémarrer avec les modules désactivés…
+    .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = Redémarrer avec les modules activés…
+    .accesskey = R
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.
