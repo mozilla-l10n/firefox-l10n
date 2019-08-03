@@ -47,6 +47,9 @@ newtab-topsites-add-button = เพิ่ม
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = คุณแน่ใจหรือไม่ว่าต้องการลบทุกอินสแตนซ์ของหน้านี้ออกจากประวัติของคุณ?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = การกระทำนี้ไม่สามารถเลิกทำได้
@@ -88,6 +91,10 @@ newtab-menu-bookmark = เพิ่มที่คั่นหน้า
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = คัดลอกลิงก์ดาวน์โหลด
 newtab-menu-go-to-download-page = ไปยังหน้าดาวน์โหลด
 newtab-menu-remove-download = เอาออกจากประวัติ
@@ -116,6 +123,10 @@ newtab-label-download = ดาวน์โหลดแล้ว
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = เอาส่วนออก
 newtab-section-menu-collapse-section = ยุบส่วน
 newtab-section-menu-expand-section = ขยายส่วน
@@ -126,6 +137,13 @@ newtab-section-menu-add-search-engine = เพิ่มเครื่องม�
 newtab-section-menu-move-up = ย้ายขึ้น
 newtab-section-menu-move-down = ย้ายลง
 newtab-section-menu-privacy-notice = ประกาศความเป็นส่วนตัว
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = ยุบส่วน
+newtab-section-expand-section-label =
+    .aria-label = ขยายส่วน
 
 ## Section Headers.
 
