@@ -5,9 +5,15 @@
 
 ## File Menu
 
+menu-file =
+    .label = 文件
+    .accesskey = F
 menu-file-new-tab =
     .label = 新建标签页
     .accesskey = T
+menu-file-new-container-tab =
+    .label = 新建身份标签页
+    .accesskey = C
 menu-file-new-window =
     .label = 新建窗口
     .accesskey = N
@@ -22,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = 打开文件…
     .accesskey = O
+menu-file-close =
+    .label = 关闭
+    .accesskey = C
 menu-file-close-window =
     .label = 关闭窗口
     .accesskey = d
@@ -46,6 +55,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = 编辑
+    .accesskey = E
+menu-edit-undo =
+    .label = 撤销
+    .accesskey = U
+menu-edit-redo =
+    .label = 重做
+    .accesskey = R
+menu-edit-cut =
+    .label = 剪切
+    .accesskey = t
+menu-edit-copy =
+    .label = 复制
+    .accesskey = C
+menu-edit-paste =
+    .label = 粘贴
+    .accesskey = P
+menu-edit-delete =
+    .label = 删除
+    .accesskey = D
+menu-edit-select-all =
+    .label = 全选
+    .accesskey = A
 menu-edit-find-on =
     .label = 在此页面中查找…
     .accesskey = F
@@ -58,6 +91,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = 查看
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = 工具栏
+    .accesskey = T
+menu-view-customize-toolbar =
+    .label = 定制…
+    .accesskey = C
 menu-view-sidebar =
     .label = 侧栏
     .accesskey = e
@@ -141,11 +183,16 @@ menu-bookmarks-show-all =
     .label = 管理所有书签
 menu-bookmarks-all-tabs =
     .label = 为所有标签页添加书签…
+menu-bookmarks-other =
+    .label = 其他书签
 menu-bookmarks-mobile =
     .label = 移动设备上的书签
 
 ## Tools Menu
 
+menu-tools =
+    .label = 工具
+    .accesskey = T
 menu-tools-downloads =
     .label = 下载
     .accesskey = D
@@ -170,6 +217,20 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = 页面信息
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] 选项
+           *[other] 首选项
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
+menu-tools-layout-debugger =
+    .label = 布局调试器
+    .accesskey = L
 
 ## Window Menu
 
@@ -204,3 +265,9 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = 重新打开并启用附加组件
     .accesskey = R
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = 举报诈骗网站…
+    .accesskey = D
