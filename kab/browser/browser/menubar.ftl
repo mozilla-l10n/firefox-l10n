@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Afaylu
+    .accesskey = f
 menu-file-new-tab =
     .label = Iccer amaynut
     .accesskey = I
@@ -17,6 +20,9 @@ menu-file-new-private-window =
 menu-file-open-file =
     .label = Ldi afaylu…
     .accesskey = L
+menu-file-close =
+    .label = Mdel
+    .accesskey = M
 menu-file-close-window =
     .label = Mdel asfaylu
     .accesskey = d
@@ -35,12 +41,33 @@ menu-file-print =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Taẓrigt
+    .accesskey = ẓ
+menu-edit-undo =
+    .label = Sefsex
+    .accesskey = S
+menu-edit-redo =
+    .label = Err-d
+    .accesskey = E
+menu-edit-cut =
+    .label = Gzem
+    .accesskey = G
+menu-edit-copy =
+    .label = Nɣel
+    .accesskey = N
+menu-edit-delete =
+    .label = Kkes
+    .accesskey = K
 menu-edit-find-again =
     .label = Nadi ɣer zdat
     .accesskey = d
 
 ## View Menu
 
+menu-view-customize-toolbar =
+    .label = Sagen…
+    .accesskey = S
 menu-view-sidebar =
     .label = Agalis adisan
     .accesskey = g
@@ -82,6 +109,8 @@ menu-history =
     .accesskey = A
 menu-history-show-all-history =
     .label = Sken akk amazray
+menu-history-hidden-tabs =
+    .label = Iccaren ifren
 menu-history-undo-window-menu =
     .label = Isfuyla imedlen melmi kan
 
@@ -90,6 +119,9 @@ menu-history-undo-window-menu =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Ifecka
+    .accesskey = I
 menu-tools-downloads =
     .label = isidar
     .accesskey = i
@@ -108,6 +140,9 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Talɣut ɣef usebter
     .accesskey = T
+menu-tools-layout-debugger =
+    .label = Amseγti n tneγruft
+    .accesskey = L
 
 ## Window Menu
 
@@ -122,6 +157,9 @@ menu-help-show-tour =
 menu-help-keyboard-shortcuts =
     .label = Inegzumen n unasiw
     .accesskey = I
+menu-help-troubleshooting-info =
+    .label = Talɣut n usellek
+    .accesskey = Γ
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.
