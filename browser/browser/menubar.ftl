@@ -76,6 +76,12 @@ menu-view-page-basic-style =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Dhan làn-sgrìn
+    .accesskey = D
+menu-view-exit-full-screen =
+    .label = Fàg an làn-sgrìn
+    .accesskey = l
 menu-view-full-screen =
     .label = Làn-sgrìn
     .accesskey = L
