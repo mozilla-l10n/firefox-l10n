@@ -100,6 +100,9 @@ menu-bookmarks-toolbar =
 menu-tools-downloads =
     .label = Atsiuntimai
     .accesskey = s
+menu-tools-page-info =
+    .label = Informacija apie tinklalapį
+    .accesskey = I
 
 ## Window Menu
 
