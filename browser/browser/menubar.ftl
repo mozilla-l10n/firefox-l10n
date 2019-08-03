@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Fitxer
+    .accesskey = F
 menu-file-new-tab =
     .label = Pestanya nova
     .accesskey = t
@@ -25,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Obre un fitxer…
     .accesskey = O
+menu-file-close =
+    .label = Tanca
+    .accesskey = c
 menu-file-close-window =
     .label = Tanca la finestra
     .accesskey = f
@@ -43,12 +49,39 @@ menu-file-print-preview =
 menu-file-print =
     .label = Imprimeix…
     .accesskey = p
+menu-file-import-from-another-browser =
+    .label = Importa des d'un altre navegador…
+    .accesskey = I
 menu-file-go-offline =
     .label = Treballa fora de línia
     .accesskey = b
 
 ## Edit Menu
 
+menu-edit =
+    .label = Edita
+    .accesskey = E
+menu-edit-undo =
+    .label = Desfés
+    .accesskey = D
+menu-edit-redo =
+    .label = Refés
+    .accesskey = R
+menu-edit-cut =
+    .label = Retalla
+    .accesskey = t
+menu-edit-copy =
+    .label = Copia
+    .accesskey = C
+menu-edit-paste =
+    .label = Enganxa
+    .accesskey = x
+menu-edit-delete =
+    .label = Suprimeix
+    .accesskey = u
+menu-edit-select-all =
+    .label = Selecciona-ho tot
+    .accesskey = a
 menu-edit-find-on =
     .label = Cerca en aquesta pàgina…
     .accesskey = r
@@ -61,6 +94,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Visualitza
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = Barres d'eines
+    .accesskey = a
+menu-view-customize-toolbar =
+    .label = Personalitza…
+    .accesskey = P
 menu-view-sidebar =
     .label = Barra lateral
     .accesskey = e
@@ -156,6 +198,9 @@ menu-bookmarks-mobile =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Eines
+    .accesskey = n
 menu-tools-downloads =
     .label = Baixades
     .accesskey = d
@@ -180,6 +225,20 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Informació de la pàgina
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Opcions
+           *[other] Preferències
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
+menu-tools-layout-debugger =
+    .label = Depurador de disposició
+    .accesskey = D
 
 ## Window Menu
 
@@ -199,9 +258,15 @@ menu-help-product =
 menu-help-show-tour =
     .label = Visita guiada del { -brand-shorter-name }
     .accesskey = V
+menu-help-keyboard-shortcuts =
+    .label = Dreceres de teclat
+    .accesskey = D
 menu-help-troubleshooting-info =
     .label = Informació de resolució de problemes
     .accesskey = r
+menu-help-feedback-page =
+    .label = Envia comentaris…
+    .accesskey = E
 menu-help-safe-mode-without-addons =
     .label = Reinicia amb els complements inhabilitats…
     .accesskey = R
