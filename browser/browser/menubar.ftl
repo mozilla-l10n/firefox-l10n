@@ -17,6 +17,9 @@ menu-file-new-container-tab =
 menu-file-new-window =
     .label = Νέο παράθυρο
     .accesskey = Ν
+menu-file-new-private-window =
+    .label = Νέο ιδιωτικό παράθυρο
+    .accesskey = δ
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
 # but Firefox is still running.
@@ -46,6 +49,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Εκτύπωση…
     .accesskey = κ
+menu-file-import-from-another-browser =
+    .label = Εισαγωγή από άλλο πρόγραμμα περιήγησης…
+    .accesskey = Ε
 menu-file-go-offline =
     .label = Εργασία χωρίς σύνδεση
     .accesskey = χ
