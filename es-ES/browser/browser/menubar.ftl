@@ -49,6 +49,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Imprimir…
     .accesskey = m
+menu-file-import-from-another-browser =
+    .label = Importar desde otro navegador…
+    .accesskey = I
 menu-file-go-offline =
     .label = Trabajar sin conexión
     .accesskey = x
@@ -239,9 +242,37 @@ menu-tools-layout-debugger =
 
 ## Window Menu
 
+menu-window-menu =
+    .label = Ventana
+menu-window-bring-all-to-front =
+    .label = Traer todo al frente
 
 ## Help Menu
 
+menu-help =
+    .label = Ayuda
+    .accesskey = u
+menu-help-product =
+    .label = Ayuda de { -brand-shorter-name }
+    .accesskey = u
+menu-help-show-tour =
+    .label = Paseo por { -brand-shorter-name }
+    .accesskey = P
+menu-help-keyboard-shortcuts =
+    .label = Atajos de teclado
+    .accesskey = t
+menu-help-troubleshooting-info =
+    .label = Información para solucionar problemas
+    .accesskey = f
+menu-help-feedback-page =
+    .label = Enviar opinión…
+    .accesskey = v
+menu-help-safe-mode-without-addons =
+    .label = Reiniciar con los complementos desactivados…
+    .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = Reiniciar con los complementos activados
+    .accesskey = R
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.
