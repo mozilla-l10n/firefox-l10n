@@ -264,6 +264,12 @@ menu-help-troubleshooting-info =
 menu-help-feedback-page =
     .label = प्रतिक्रिया दिनुहोस्…
     .accesskey = S
+menu-help-safe-mode-without-addons =
+    .label = एडअनहरू अक्षम पारेर पुनःसुरु गर्नुहोस् …
+    .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = एडअनहरू सक्षम पारेर पुनःसुरु गर्नुहोस्
+    .accesskey = R
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.
