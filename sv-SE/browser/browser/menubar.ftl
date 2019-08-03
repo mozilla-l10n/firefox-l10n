@@ -11,6 +11,9 @@ menu-file-new-tab =
 menu-file-new-window =
     .label = Nytt fönster
     .accesskey = N
+menu-file-new-private-window =
+    .label = Nytt privat fönster
+    .accesskey = t
 menu-file-open-file =
     .label = Öppna fil…
     .accesskey = Ö
@@ -20,6 +23,9 @@ menu-file-close-window =
 menu-file-save-page =
     .label = Spara sida som…
     .accesskey = m
+menu-file-email-link =
+    .label = E-posta länk…
+    .accesskey = E
 menu-file-print-setup =
     .label = Utskriftsformat…
     .accesskey = o
@@ -82,12 +88,21 @@ menu-view-page-basic-style =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Aktivera helskärm
+    .accesskey = h
+menu-view-exit-full-screen =
+    .label = Stäng helskärm
+    .accesskey = h
 menu-view-full-screen =
     .label = Helskärm
     .accesskey = H
 
 ##
 
+menu-view-show-all-tabs =
+    .label = Visa alla flikar
+    .accesskey = f
 menu-view-bidi-switch-page-direction =
     .label = Byt sidriktning
     .accesskey = B
@@ -99,14 +114,22 @@ menu-history =
     .accesskey = o
 menu-history-show-all-history =
     .label = Visa all historik
+menu-history-clear-recent-history =
+    .label = Rensa ut tidigare historik…
+menu-history-restore-last-session =
+    .label = Återställ föregående session
 menu-history-undo-menu =
     .label = Nyligen stängda flikar
+menu-history-undo-window-menu =
+    .label = Nyligen stängda fönster
 
 ## Bookmarks Menu
 
 menu-bookmarks-menu =
     .label = Bokmärken
     .accesskey = B
+menu-bookmarks-show-all =
+    .label = Visa alla bokmärken
 menu-bookmarks-all-tabs =
     .label = Bokmärke för alla flikar…
 menu-bookmarks-toolbar =
@@ -120,6 +143,15 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Tillägg
     .accesskey = T
+menu-tools-sync-now =
+    .label = Synka nu
+    .accesskey = n
+menu-tools-sync-re-auth =
+    .label = Återanslut till { -sync-brand-short-name }…
+    .accesskey = Å
+menu-tools-web-developer =
+    .label = Webbutvecklare
+    .accesskey = W
 menu-tools-page-source =
     .label = Källkod
     .accesskey = ä
@@ -139,3 +171,15 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Hjälp
     .accesskey = H
+menu-help-keyboard-shortcuts =
+    .label = Tangentbordskommandon
+    .accesskey = T
+menu-help-troubleshooting-info =
+    .label = Felsökningsinformation
+    .accesskey = F
+menu-help-feedback-page =
+    .label = Skicka in feedback…
+    .accesskey = k
+menu-help-safe-mode-without-addons =
+    .label = Starta om utan tillägg…
+    .accesskey = S
