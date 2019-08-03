@@ -11,6 +11,9 @@ menu-file-new-tab =
 menu-file-new-window =
     .label = ਨਵੀਂ ਵਿੰਡੋ
     .accesskey = N
+menu-file-new-private-window =
+    .label = ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ
+    .accesskey = W
 menu-file-print-preview =
     .label = ਪਰਿੰਟ ਝਲਕ
     .accesskey = v
@@ -42,6 +45,9 @@ menu-view-full-zoom-enlarge =
 menu-view-full-zoom-reduce =
     .label = ਜ਼ੂਮ ਆਉਟ
     .accesskey = O
+menu-view-full-zoom-reset =
+    .label = ਮੁੜ-ਸੈੱਟ
+    .accesskey = R
 menu-view-full-zoom-toggle =
     .label = ਕੇਵਲ ਟੈਕਸਟ ਹੀ ਜ਼ੂਮ ਕਰੋ
     .accesskey = T
@@ -52,12 +58,21 @@ menu-view-page-style-no-style =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = ਪੂਰੀ ਸਕਰੀਨ ਉੱਤੇ ਜਾਓ
+    .accesskey = F
+menu-view-exit-full-screen =
+    .label = ਪੂਰੀ ਸਕਰੀਨ ਤੋਂ ਬਾਹਰ
+    .accesskey = F
 menu-view-full-screen =
     .label = ਪੂਰੀ ਸਕਰੀਨ ਉੱਤੇ
     .accesskey = F
 
 ##
 
+menu-view-show-all-tabs =
+    .label = ਸਭ ਟੈਬ ਵੇਖੋ
+    .accesskey = A
 
 ## History Menu
 
@@ -66,12 +81,16 @@ menu-history =
     .accesskey = s
 menu-history-undo-menu =
     .label = ਤਾਜ਼ਾ ਖੋਲ੍ਹੀਆਂ ਟੈਬਾਂ
+menu-history-undo-window-menu =
+    .label = ਤਾਜ਼ਾ ਬੰਦ ਕੀਤੀਆਂ ਵਿੰਡੋ
 
 ## Bookmarks Menu
 
 menu-bookmarks-menu =
     .label = ਬੁੱਕਮਾਰਕ
     .accesskey = B
+menu-bookmarks-all-tabs =
+    .label = …ਸਭ ਟੈਬਾਂ ਲਈ ਬੁੱਕਮਾਰਕ ਬਣਾਓ
 menu-bookmarks-toolbar =
     .label = ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ
 
@@ -83,9 +102,21 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = ਐਡ-ਆਨ
     .accesskey = A
+menu-tools-sync-now =
+    .label = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
+    .accesskey = S
+menu-tools-web-developer =
+    .label = ਵੈੱਬ ਡਿਵੈਲਪਰ
+    .accesskey = W
 
 ## Window Menu
 
 
 ## Help Menu
 
+menu-help-troubleshooting-info =
+    .label = ਸਮੱਸਿਆ ਹੱਲ ਜਾਣਕਾਰੀ
+    .accesskey = T
+menu-help-feedback-page =
+    .label = …ਸੁਝਾਅ ਭੇਜੋ
+    .accesskey = S
