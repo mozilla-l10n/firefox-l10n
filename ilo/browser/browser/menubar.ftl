@@ -59,6 +59,9 @@ menu-edit-delete =
 menu-edit-find-on =
     .label = Find in This Page…
     .accesskey = F
+menu-edit-find-again =
+    .label = Biroken manen
+    .accesskey = g
 menu-edit-bidi-switch-text-direction =
     .label = Sukatan ti Tungo ti Teksto
     .accesskey = w
@@ -122,6 +125,12 @@ menu-view-bidi-switch-page-direction =
 menu-history =
     .label = Pakasaritaan
     .accesskey = s
+menu-history-clear-recent-history =
+    .label = Borraen ti Nabiit a Pakasaritaan…
+menu-history-undo-menu =
+    .label = Nairikep itay a Nabiit a Lapayag
+menu-history-undo-window-menu =
+    .label = Nairikep itay Nabiit a Tawa
 
 ## Bookmarks Menu
 
