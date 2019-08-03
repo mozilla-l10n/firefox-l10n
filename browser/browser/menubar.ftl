@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = ফাইল
+    .accesskey = F
 menu-file-new-tab =
     .label = নতুন ট্যাব T
     .accesskey = T
@@ -25,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = ফাইল খুলুন…
     .accesskey = O
+menu-file-close =
+    .label = বন্ধ
+    .accesskey = C
 menu-file-close-window =
     .label = উইন্ডো বন্ধ
     .accesskey = d
@@ -49,6 +55,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = সম্পাদনা
+    .accesskey = E
+menu-edit-undo =
+    .label = পূর্বাবস্থায় ফেরানো U
+    .accesskey = U
+menu-edit-redo =
+    .label = পুনরায় করা
+    .accesskey = R
+menu-edit-cut =
+    .label = কাটা
+    .accesskey = t
+menu-edit-copy =
+    .label = অনুলিপি C
+    .accesskey = C
+menu-edit-paste =
+    .label = প্রতিলেপন
+    .accesskey = P
+menu-edit-delete =
+    .label = মুছে ফেলুন
+    .accesskey = D
+menu-edit-select-all =
+    .label = সব নির্বাচন
+    .accesskey = A
 menu-edit-find-on =
     .label = এই পাতায় অনুসন্ধান…
     .accesskey = F
@@ -61,6 +91,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = প্রদর্শন
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = টুলবার
+    .accesskey = T
+menu-view-customize-toolbar =
+    .label = নিজের পছন্দানুযায়ী নির্বাচন…
+    .accesskey = C
 menu-view-sidebar =
     .label = সাইডবার
     .accesskey = e
@@ -158,6 +197,9 @@ menu-bookmarks-mobile =
 
 ## Tools Menu
 
+menu-tools =
+    .label = টুল
+    .accesskey = T
 menu-tools-downloads =
     .label = ডাউনলোড
     .accesskey = D
@@ -182,6 +224,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = পাতার সংক্রান্ত তথ্য
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] অপশন
+           *[other] পছন্দসমূহ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
 menu-tools-layout-debugger =
     .label = লেআইট ডিবাগার
     .accesskey = L
