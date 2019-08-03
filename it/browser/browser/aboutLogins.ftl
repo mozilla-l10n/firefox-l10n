@@ -50,7 +50,7 @@ login-list-item-subtitle-missing-username = [nessun nome utente]
 login-intro-heading = Stai cercando le credenziali che hai salvato? Configura { -sync-brand-short-name }.
 login-intro-description = Se le credenziali sono salvate in { -brand-product-name } su un altro dispositivo, ecco come renderle disponibili qui:
 login-intro-instruction-fxa = Accedi o crea un { -fxaccount-brand-name } sul dispositivo dove sono salvate le credenziali
-login-intro-instruction-fxa-settings = Assicurati che la casella “Credenziali” sia selezionata nelle impostazini di { -sync-brand-short-name }
+login-intro-instruction-fxa-settings = Assicurati che la casella “Credenziali” sia selezionata nelle impostazioni di { -sync-brand-short-name }
 login-intro-instruction-faq = Consulta le <a data-l10n-name="faq">domande più frequenti</a> di { -lockwise-brand-short-name } per ulteriori informazioni
 
 ## Login
