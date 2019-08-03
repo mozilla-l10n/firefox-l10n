@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Файл
+    .accesskey = Ф
 menu-file-new-tab =
     .label = Новая картка
     .accesskey = т
@@ -25,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Адкрыць файл…
     .accesskey = ф
+menu-file-close =
+    .label = Закрыць
+    .accesskey = З
 menu-file-close-window =
     .label = Закрыць акно
     .accesskey = н
@@ -52,6 +58,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Праўка
+    .accesskey = р
+menu-edit-undo =
+    .label = Адмяніць
+    .accesskey = м
+menu-edit-redo =
+    .label = Вярнуць
+    .accesskey = р
+menu-edit-cut =
+    .label = Выразаць
+    .accesskey = р
+menu-edit-copy =
+    .label = Капіяваць
+    .accesskey = К
+menu-edit-paste =
+    .label = Уставіць
+    .accesskey = У
+menu-edit-delete =
+    .label = Выдаліць
+    .accesskey = д
+menu-edit-select-all =
+    .label = Вылучыць усё
+    .accesskey = ё
 menu-edit-find-on =
     .label = Знайсці на гэтай старонцы…
     .accesskey = З
@@ -64,6 +94,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Прагляд
+    .accesskey = П
+menu-view-toolbars-menu =
+    .label = Паліцы прылад
+    .accesskey = л
+menu-view-customize-toolbar =
+    .label = Уладкаваць…
+    .accesskey = л
 menu-view-sidebar =
     .label = Бакавая панэль
     .accesskey = п
@@ -161,6 +200,9 @@ menu-bookmarks-mobile =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Прылады
+    .accesskey = л
 menu-tools-downloads =
     .label = Сцягванні
     .accesskey = С
@@ -185,6 +227,20 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Звесткі пра старонку
     .accesskey = З
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Налады
+           *[other] Налады
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Н
+           *[other] л
+        }
+menu-tools-layout-debugger =
+    .label = Адладчык макета
+    .accesskey = А
 
 ## Window Menu
 
