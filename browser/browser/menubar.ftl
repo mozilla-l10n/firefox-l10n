@@ -8,6 +8,9 @@
 menu-file-new-tab =
     .label = નવી ટૅબ
     .accesskey = T
+menu-file-new-container-tab =
+    .label = નવી કન્ટેઈનર ટૅબ
+    .accesskey = B
 menu-file-new-window =
     .label = નવી વિન્ડો
     .accesskey = N
@@ -22,6 +25,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = ફાઈલ ખોલો...
     .accesskey = O
+menu-file-close-window =
+    .label = વિન્ડો બંધ કરો
+    .accesskey = d
 menu-file-save-page =
     .label = આ રીતે પૃષ્ઠ સાચવો ...
     .accesskey = A
@@ -58,8 +64,12 @@ menu-edit-bidi-switch-text-direction =
 menu-view-sidebar =
     .label = બાજુપટ્ટી
     .accesskey = e
+menu-view-bookmarks =
+    .label = બુકમાર્ક્સ
 menu-view-history-button =
     .label = ઇતિહાસ
+menu-view-synced-tabs-sidebar =
+    .label = સમન્વિત કરેલા ટૅબ્સ
 menu-view-full-zoom =
     .label = લખાણ માપ
     .accesskey = Z
@@ -88,9 +98,21 @@ menu-view-page-basic-style =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = પૂર્ણ સ્ક્રીનને દાખલ કરો
+    .accesskey = F
+menu-view-exit-full-screen =
+    .label = પૂર્ણ સ્ક્રીનમાંથી બહાર નીકળો
+    .accesskey = F
+menu-view-full-screen =
+    .label = પૂર્ણ સ્ક્રીન
+    .accesskey = F
 
 ##
 
+menu-view-show-all-tabs =
+    .label = બધા ટૅબ્સને બતાવો
+    .accesskey = A
 menu-view-bidi-switch-page-direction =
     .label = પાનાં દિશા બદલો
     .accesskey = D
@@ -100,17 +122,34 @@ menu-view-bidi-switch-page-direction =
 menu-history =
     .label = ઇતિહાસ
     .accesskey = s
+menu-history-show-all-history =
+    .label = બધો ઇતિહાસ બતાવો
 menu-history-clear-recent-history =
     .label = તાજેતરનાં ઇતિહાસને સાફ કરો…
+menu-history-synced-tabs =
+    .label = સમન્વિત કરેલા ટૅબ્સ
 menu-history-restore-last-session =
     .label = પહેલાનાં સત્રને પુન:સંગ્રહો
+menu-history-undo-menu =
+    .label = છેલ્લે બધ થયેલ ટૅબ્સ
 menu-history-undo-window-menu =
     .label = છેલ્લે બંધ થયેલ વિન્ડો
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = બુકમાર્ક્સ
+    .accesskey = B
+menu-bookmarks-show-all =
+    .label = બધા બુકમાર્ક્સને બતાવો
+menu-bookmarks-all-tabs =
+    .label = બધા ટૅબ્સને બુકમાર્ક કરો…
 menu-bookmarks-toolbar =
     .label = બુકમાર્ક્સ ટૂલબાર
+menu-bookmarks-other =
+    .label = અન્ય બુકમાર્ક્સ
+menu-bookmarks-mobile =
+    .label = મોબાઇલ બુકમાર્ક્સ
 
 ## Tools Menu
 
@@ -120,6 +159,12 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = એડ-ઓન
     .accesskey = A
+menu-tools-sync-sign-in =
+    .label = { -sync-brand-short-name } માં પ્રવેશો…
+    .accesskey = Y
+menu-tools-sync-now =
+    .label = હમણાં સમન્વયિત કરો
+    .accesskey = S
 menu-tools-sync-re-auth =
     .label = { -sync-brand-short-name } માં પુન:જોડાવો…
     .accesskey = R
@@ -129,6 +174,9 @@ menu-tools-web-developer =
 menu-tools-page-source =
     .label = પાનાં સ્રોત
     .accesskey = o
+menu-tools-page-info =
+    .label = પાનાં જાણકારી
+    .accesskey = I
 
 ## Window Menu
 
@@ -142,6 +190,12 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = મદદ
     .accesskey = H
+menu-help-product =
+    .label = { -brand-shorter-name } મદત
+    .accesskey = H
+menu-help-show-tour =
+    .label = { -brand-shorter-name } શોધ
+    .accesskey = o
 menu-help-keyboard-shortcuts =
     .label = કીબોર્ડ શૉર્ટકટ્સ
     .accesskey = K
@@ -153,4 +207,7 @@ menu-help-feedback-page =
     .accesskey = S
 menu-help-safe-mode-without-addons =
     .label = નિષ્ક્રિય થયેલ ઍડ-ઑન સાથે પુન:શરૂ કરો…
+    .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = અડ-ઓન્સ સક્ષમ કારી અને પુનઃ પ્રારંભ કરો
     .accesskey = R
