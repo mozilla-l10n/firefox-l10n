@@ -94,6 +94,8 @@ menu-view-customize-toolbar =
 menu-view-sidebar =
     .label = Trav laterala
     .accesskey = T
+menu-view-bookmarks =
+    .label = Segnapaginas
 menu-view-history-button =
     .label = Cronologia
 menu-view-synced-tabs-sidebar =
@@ -155,6 +157,8 @@ menu-history =
     .accesskey = C
 menu-history-show-all-history =
     .label = Mussar l'entira cronologia
+menu-history-clear-recent-history =
+    .label = Stizzar la cronologia pli nova…
 menu-history-synced-tabs =
     .label = Tabs sincronisads
 menu-history-restore-last-session =
@@ -206,6 +210,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Infurmaziuns davart la pagina
     .accesskey = s
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Preferenzas
+           *[other] Preferenzas
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] e
+           *[other] e
+        }
 
 ## Window Menu
 
