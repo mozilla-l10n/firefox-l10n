@@ -11,6 +11,9 @@ menu-file =
 menu-file-new-tab =
     .label = Onglet novèl
     .accesskey = t
+menu-file-new-container-tab =
+    .label = Onglet contèxtual novèl
+    .accesskey = B
 menu-file-new-window =
     .label = Fenèstra novèla
     .accesskey = n
@@ -233,3 +236,9 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Reaviar, moduls activats…
     .accesskey = R
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Senhalar un site enganaire…
+    .accesskey = S
