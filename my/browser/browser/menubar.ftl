@@ -14,6 +14,9 @@ menu-file-new-window =
 menu-file-open-file =
     .label = ဖိုင်ကိုဖွင့်ရန်...
     .accesskey = O
+menu-file-close-window =
+    .label = ဝင်းဒိုးကို ပိတ်ရန်
+    .accesskey = d
 menu-file-print-setup =
     .label = စာမျက်နှာ ပုံနှိပ်အပြင်အဆင်…
     .accesskey = u
@@ -71,6 +74,9 @@ menu-history-synced-tabs =
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = စာမှတ်များ
+    .accesskey = B
 menu-bookmarks-show-all =
     .label = မှတ်သားချက်များအားလုံးကို ပြသပါ
 menu-bookmarks-toolbar =
