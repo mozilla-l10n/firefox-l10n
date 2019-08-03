@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = ໄຟລ໌
+    .accesskey = F
 menu-file-new-tab =
     .label = ແທັບໃຫມ່
     .accesskey = T
@@ -13,6 +16,9 @@ menu-file-new-tab =
 # but Firefox is still running.
 menu-file-open-location =
     .label = ເປີດຕຳແຫນ່ງທີ່ຕັ້ງ…
+menu-file-close =
+    .label = ປິດ
+    .accesskey = C
 menu-file-save-page =
     .label = ບັນທຶກຫນ້ານີ້ໄວ້ທີ່...
     .accesskey = A
@@ -28,17 +34,40 @@ menu-file-print =
 
 ## Edit Menu
 
+menu-edit =
+    .label = ແກ້ໄຂ
+    .accesskey = E
+menu-edit-redo =
+    .label = ເຮັດຄືນໃຫມ່
+    .accesskey = R
+menu-edit-cut =
+    .label = ຕັດ
+    .accesskey = t
+menu-edit-paste =
+    .label = ວາງ
+    .accesskey = P
+menu-edit-delete =
+    .label = ລຶບ
+    .accesskey = D
 menu-edit-bidi-switch-text-direction =
     .label = ສະລັບທິດທາງຕົວຫນັງສື
     .accesskey = w
 
 ## View Menu
 
+menu-view =
+    .label = ມູມມອງ
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = ແຖບເຄືອງມື
+    .accesskey = T
 menu-view-sidebar =
     .label = ແຖບດ້ານຂ້າງ
     .accesskey = e
 menu-view-bookmarks =
     .label = ບຸກມາກ
+menu-view-history-button =
+    .label = ປະຫວັດ
 menu-view-full-zoom =
     .label = ຂະຫຍາຍ
     .accesskey = Z
@@ -89,6 +118,9 @@ menu-bookmarks-toolbar =
 
 ## Tools Menu
 
+menu-tools =
+    .label = ເຄື່ອງມື
+    .accesskey = T
 menu-tools-sync-now =
     .label = ເລີ່ມການເຊື່ອມຕໍ່ດຽວນີ້
     .accesskey = S
@@ -114,9 +146,15 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = ວິທີໃຊ້
     .accesskey = H
+menu-help-product =
+    .label = { -brand-shorter-name } ຊ່ວຍເຫລືອ
+    .accesskey = H
 menu-help-show-tour =
     .label = { -brand-shorter-name } ວິທີໃຊ້
     .accesskey = o
+menu-help-keyboard-shortcuts =
+    .label = ແປ້ນພີມລັດ
+    .accesskey = K
 menu-help-troubleshooting-info =
     .label = ຂໍ້ມູນຂອງການແກ້ໄຂບັນຫາ
     .accesskey = T
