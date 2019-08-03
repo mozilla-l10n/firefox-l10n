@@ -52,7 +52,7 @@ login-intro-heading = Pytaće swoje składowane přizjewjenja? Konfigurujće { -
 login-intro-description = Jeli sće swoje přizjewjenja { -brand-product-name } na druhim graće składował, tak móžeće je sem přinjesć:
 login-intro-instruction-fxa = Załožće abo přizjewće so pola swojeho { -fxaccount-brand-name } na graće, hdźež waše přizjewjenja su składowane
 login-intro-instruction-fxa-settings = Přeswědčće so, zo sće kontrolny kašćik přizjewjenjow w nastajenjach { -sync-brand-short-name } wubrał
-login-intro-instruction-faq = Čitajće { -lockwise-brand-short-name } <a data-l10n-name="faq">huste prašenja</a> za wjace pomoc
+login-intro-instruction-faq = Čitajće { -lockwise-brand-short-name } <a data-l10n-name="faq">huste prašenja</a> za wjace pomocy
 
 ## Login
 
