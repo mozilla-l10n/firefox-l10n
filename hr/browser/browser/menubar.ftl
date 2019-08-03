@@ -17,6 +17,9 @@ menu-file-open-file =
 menu-file-close-window =
     .label = Zatvori prozor
     .accesskey = o
+menu-file-save-page =
+    .label = Spremi stranicu kao…
+    .accesskey = a
 menu-file-print-setup =
     .label = Postavke stranice...
     .accesskey = s
@@ -68,6 +71,12 @@ menu-view-page-basic-style =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-exit-full-screen =
+    .label = Napusti prikaz preko cijelog zaslona
+    .accesskey = N
+menu-view-full-screen =
+    .label = Potpuni zaslon
+    .accesskey = o
 
 ##
 
@@ -82,6 +91,8 @@ menu-history =
     .accesskey = s
 menu-history-undo-menu =
     .label = Nedavno zatvorene kartice
+menu-history-undo-window-menu =
+    .label = Nedavno zatvoreni prozori
 
 ## Bookmarks Menu
 
@@ -98,6 +109,12 @@ menu-bookmarks-toolbar =
 menu-tools-downloads =
     .label = Preuzimanja
     .accesskey = r
+menu-tools-sync-now =
+    .label = Sinkroniziraj sada
+    .accesskey = S
+menu-tools-web-developer =
+    .label = Web programer
+    .accesskey = W
 menu-tools-page-source =
     .label = Izvorni kod stranice
     .accesskey = o
