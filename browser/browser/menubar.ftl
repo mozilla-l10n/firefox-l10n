@@ -233,6 +233,9 @@ menu-preferences =
             [windows] C
            *[other] ɗ
         }
+menu-tools-layout-debugger =
+    .label = Momtirgel ella Lelngo
+    .accesskey = L
 
 ## Window Menu
 
