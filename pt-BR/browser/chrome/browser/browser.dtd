@@ -138,13 +138,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.button.label "Abrir configurações do &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Usuário">
 <!ENTITY fxa.menu.manageAccount.label "Gerenciar conta…">
 <!ENTITY fxa.menu.syncSettings.label "Configurações do &syncBrand.shortName.label;…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Conectar outro dispositivo…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!ENTITY fxa.menu.signin.label "Entrar no &brandProductName;">
+<!ENTITY fxa.menu.turnOnSync.label "Ativar o &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.account.label "Conta">
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.description "Envie e compartilhe arquivos com criptografia de ponta a ponta, mais um link que expira automaticamente.">
+<!ENTITY fxa.service.send.launch "Abrir o &sendShortName;">
+<!ENTITY fxa.service.monitor.description "Verifique se seu e-mail apareceu em vazamentos de dados e receba um alerta se aparecer em um novo vazamento.">
+<!ENTITY fxa.service.monitor.launch "Abrir o &monitorShortName;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -188,6 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "Adicionar todas as abas…">
+
 <!ENTITY showAllBookmarks2.label "Mostrar favoritos">
 <!ENTITY recentBookmarks.label "Favoritos recentes">
 <!ENTITY otherBookmarksCmd.label "Outros favoritos">
@@ -310,6 +322,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Arquivo">
 <!ENTITY fileMenu.accesskey       "A">
+
 <!ENTITY newUserContext.label             "Nova aba contêiner">
 <!ENTITY newUserContext.accesskey         "c">
 <!ENTITY manageUserContext.label          "Gerenciar contêineres">
@@ -359,6 +372,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "B">
 <!ENTITY viewSidebarMenu.label "Painel">
 <!ENTITY viewSidebarMenu.accesskey "a">
+
 <!ENTITY viewCustomizeToolbar.label       "Personalizar…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
 <!ENTITY overflowCustomizeToolbar.label       "Personalizar barra de ferramentas…">
@@ -372,6 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Restaurar sessão anterior">
 
 <!ENTITY showAllHistoryCmd2.label "Mostrar histórico">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Mostrar histórico">
@@ -592,9 +607,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Enviar link por e-mail…">
 <!ENTITY emailPageCmd.accesskey       "E">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Salvar página como…">
 <!ENTITY savePageCmd.accesskey        "v">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Salvar frame como…">
@@ -699,22 +714,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Ampliar">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "A">
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Reduzir">
 <!ENTITY fullZoomReduceCmd.accesskey    "R">
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Redefinir">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Zoom só do texto">
 <!ENTITY fullZoomToggleCmd.accesskey    "S">
+
 <!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "Z">
 
@@ -732,6 +751,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Fechar">
+
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "F">
 
@@ -888,6 +908,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Entrar no &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
+
 <!ENTITY syncSyncNowItem.label        "Sincronizar agora">
 <!ENTITY syncSyncNowItemSyncing.label "Sincronizando…">
 <!ENTITY syncSyncNowItem.accesskey    "n">
