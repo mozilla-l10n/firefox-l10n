@@ -49,6 +49,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = छापें...
     .accesskey = P
+menu-file-import-from-another-browser =
+    .label = दूसरे ब्राउज़र से आयात करें…
+    .accesskey = I
 menu-file-go-offline =
     .label = ऑफ़लाइन काम करें
     .accesskey = k
@@ -103,6 +106,8 @@ menu-view-customize-toolbar =
 menu-view-sidebar =
     .label = बाज़ू पट्टी
     .accesskey = e
+menu-view-bookmarks =
+    .label = बुकमार्क
 menu-view-history-button =
     .label = इतिहास
 menu-view-synced-tabs-sidebar =
@@ -179,6 +184,19 @@ menu-history-undo-window-menu =
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = बुकमार्क
+    .accesskey = B
+menu-bookmarks-show-all =
+    .label = सभी बुकमार्कों को दिखाएँ
+menu-bookmarks-all-tabs =
+    .label = सभी टैब बुकमार्कित करें…
+menu-bookmarks-toolbar =
+    .label = बुकमार्क औज़ारपट्टी
+menu-bookmarks-other =
+    .label = अन्य बुकमार्क
+menu-bookmarks-mobile =
+    .label = मोबाइल बुकमार्क
 
 ## Tools Menu
 
