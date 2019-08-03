@@ -234,13 +234,13 @@ menu-window-bring-all-to-front =
 ## Help Menu
 
 menu-help =
-    .label = { " " }मदति{ " " }
+    .label = मदति
     .accesskey = H
 menu-help-product =
     .label = { -brand-shorter-name } मददि
     .accesskey = म
 menu-help-show-tour =
-    .label = { -brand-shorter-name } यात्रा{ " " }
+    .label = { -brand-shorter-name } यात्रा
     .accesskey = o
 menu-help-keyboard-shortcuts =
     .label = कुँजीपटल शार्टकट
