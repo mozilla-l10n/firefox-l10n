@@ -23,9 +23,23 @@ menu-edit-bidi-switch-text-direction =
 menu-view-sidebar =
     .label = பக்கப்பட்டை
     .accesskey = e
+menu-view-bookmarks =
+    .label = புத்தகக்குறிகள்
+menu-view-full-zoom =
+    .label = பெரியதாக்கு
+    .accesskey = ப
 menu-view-full-zoom-enlarge =
     .label = பெரிதாக்கு
     .accesskey = I
+menu-view-full-zoom-reduce =
+    .label = சிறிதாக்கு
+    .accesskey = ச
+menu-view-full-zoom-reset =
+    .label = மீளமை
+    .accesskey = ம
+menu-view-full-zoom-toggle =
+    .label = உரையை மட்டும் அளவிடு
+    .accesskey = உ
 menu-view-page-style-menu =
     .label = பக்கப் பாணி
     .accesskey = y
@@ -48,6 +62,9 @@ menu-history =
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = புத்தகக்குறிகள்
+    .accesskey = B
 
 ## Tools Menu
 
