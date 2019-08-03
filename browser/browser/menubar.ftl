@@ -5,6 +5,14 @@
 
 ## File Menu
 
+menu-file-new-container-tab =
+    .label = Nouvel onglet contextuel
+    .accesskey = c
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Ouvrir l’emplacement…
 menu-file-open-file =
     .label = Ouvrir un fichier…
     .accesskey = O
@@ -38,9 +46,19 @@ menu-edit-bidi-switch-text-direction =
 menu-view-sidebar =
     .label = Panneau latéral
     .accesskey = e
+menu-view-history-button =
+    .label = Historique
+menu-view-synced-tabs-sidebar =
+    .label = Onglets synchronisés
 menu-view-full-zoom =
     .label = Zoom
     .accesskey = Z
+menu-view-full-zoom-enlarge =
+    .label = Zoom avant
+    .accesskey = v
+menu-view-full-zoom-reduce =
+    .label = Zoom arrière
+    .accesskey = r
 menu-view-full-zoom-reset =
     .label = Normal
     .accesskey = N
@@ -84,6 +102,12 @@ menu-view-bidi-switch-page-direction =
 menu-history =
     .label = Historique
     .accesskey = H
+menu-history-show-all-history =
+    .label = Afficher l’historique
+menu-history-clear-recent-history =
+    .label = Supprimer l’historique récent…
+menu-history-synced-tabs =
+    .label = Onglets synchronisés
 menu-history-restore-last-session =
     .label = Restaurer la session précédente
 menu-history-undo-menu =
@@ -102,6 +126,10 @@ menu-bookmarks-all-tabs =
     .label = Marquer tous les onglets…
 menu-bookmarks-toolbar =
     .label = Barre personnelle
+menu-bookmarks-other =
+    .label = Autres marque-pages
+menu-bookmarks-mobile =
+    .label = Marque-pages des appareils mobiles
 
 ## Tools Menu
 
@@ -111,9 +139,18 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Modules complémentaires
     .accesskey = e
+menu-tools-sync-sign-in =
+    .label = Se connecter à { -sync-brand-short-name }…
+    .accesskey = Y
 menu-tools-sync-now =
     .label = Synchroniser maintenant
     .accesskey = S
+menu-tools-sync-re-auth =
+    .label = Se reconnecter à { -sync-brand-short-name }…
+    .accesskey = r
+menu-tools-web-developer =
+    .label = Développement web
+    .accesskey = W
 menu-tools-page-info =
     .label = Informations sur la page
     .accesskey = I
@@ -122,9 +159,20 @@ menu-tools-page-info =
 
 menu-window-menu =
     .label = Fenêtre
+menu-window-bring-all-to-front =
+    .label = Tout amener à l’avant-plan
 
 ## Help Menu
 
+menu-help-keyboard-shortcuts =
+    .label = Raccourcis clavier
+    .accesskey = o
 menu-help-feedback-page =
     .label = Donner votre avis…
     .accesskey = D
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Signaler un site trompeur…
+    .accesskey = t
