@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "K">
 <!ENTITY folderPaneBar.label "Symbolowa rědka zarědnikowego wobcerka">
 <!ENTITY folderPaneBar.accesskey "S">
-<!ENTITY folderModeSelector.label "Zarědnikowe naglědy">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sortěrowaś pó">
@@ -587,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Wubranu powěsć wótpołožyś">
 <!ENTITY archiveButton.tooltip "Wubrane powěsći archiwěrowaś">
 <!ENTITY openConversationButton.tooltip "Rozgrono wubraneje powěsći pokazaś">
+<!ENTITY openMsgConversationButton.tooltip "Rozgrono wubraneje powěsći pokazaś">
 <!ENTITY nextButton.tooltip "K pśidujucej njepśecytanej powěsći">
 <!ENTITY nextMsgButton.tooltip "K pśidujucej powěsći pśesunuś">
 <!ENTITY previousButton.tooltip "K pjerjwjejšnej njepśecytanej powěsći">
@@ -605,7 +605,6 @@
 <!ENTITY tagButton.tooltip "Powěsći wóznamjeniś">
 <!ENTITY compactButton.tooltip "Wulašowane powěsći z wubranego zarědnika wótpóraś">
 <!ENTITY appmenuButton1.tooltip "Meni &brandShortName; zwobrazniś">
-
 <!ENTITY addonsButton.tooltip "Zastojśo swóje dodanki">
 
 <!-- Toolbar Button Popup -->
