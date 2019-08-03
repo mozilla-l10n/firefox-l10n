@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Ficheru
+    .accesskey = F
 menu-file-new-tab =
     .label = Llingüeta nueva
     .accesskey = L
@@ -25,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Abrir ficheru…
     .accesskey = A
+menu-file-close =
+    .label = Zarrar
+    .accesskey = Z
 menu-file-close-window =
     .label = Zarrar ventana
     .accesskey = v
@@ -49,6 +55,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Editar
+    .accesskey = E
+menu-edit-undo =
+    .label = Desfacer
+    .accesskey = D
+menu-edit-redo =
+    .label = Refacer
+    .accesskey = R
+menu-edit-cut =
+    .label = Cortar
+    .accesskey = c
+menu-edit-copy =
+    .label = Copiar
+    .accesskey = C
+menu-edit-paste =
+    .label = Apegar
+    .accesskey = A
+menu-edit-delete =
+    .label = Desaniciar
+    .accesskey = s
+menu-edit-select-all =
+    .label = Esbillar too
+    .accesskey = t
 menu-edit-find-on =
     .label = Alcontrar nesta páxina…
     .accesskey = G
@@ -61,6 +91,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Ver
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = Barres de ferramientes
+    .accesskey = B
+menu-view-customize-toolbar =
+    .label = Personalizar…
+    .accesskey = P
 menu-view-sidebar =
     .label = Panel llateral
     .accesskey = a
@@ -156,6 +195,9 @@ menu-bookmarks-mobile =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Ferramientes
+    .accesskey = F
 menu-tools-downloads =
     .label = Descargues
     .accesskey = D
@@ -180,6 +222,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Información de páxina
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Opciones
+           *[other] Preferencies
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
 
 ## Window Menu
 
