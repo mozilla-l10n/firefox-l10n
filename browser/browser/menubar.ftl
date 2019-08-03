@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Schedaio
+    .accesskey = S
 menu-file-new-tab =
     .label = Neuvo feuggio
     .accesskey = N
@@ -14,11 +17,17 @@ menu-file-new-container-tab =
 menu-file-new-window =
     .label = Neuvo barcon
     .accesskey = N
+menu-file-new-private-window =
+    .label = Neuvo barcon privòu
+    .accesskey = u
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
 # but Firefox is still running.
 menu-file-open-location =
     .label = Arvi Indirisso…
+menu-file-open-file =
+    .label = Arvi schedaio…
+    .accesskey = v
 menu-file-close =
     .label = Særa
     .accesskey = S
@@ -28,6 +37,9 @@ menu-file-close-window =
 menu-file-save-page =
     .label = Sarva pagina co-o nomme…
     .accesskey = a
+menu-file-email-link =
+    .label = Manda colegamento pe pòsta…
+    .accesskey = c
 menu-file-print-setup =
     .label = Inpòsta pagina…
     .accesskey = I
@@ -37,6 +49,12 @@ menu-file-print-preview =
 menu-file-print =
     .label = Stanpa…
     .accesskey = p
+menu-file-import-from-another-browser =
+    .label = Inportâ da 'n atro navegatô…
+    .accesskey = I
+menu-file-go-offline =
+    .label = Lòua feua linia
+    .accesskey = L
 
 ## Edit Menu
 
@@ -85,10 +103,15 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = Personalizza…
     .accesskey = P
+menu-view-sidebar =
+    .label = Bara de scianco
+    .accesskey = e
 menu-view-bookmarks =
     .label = Segnalibbri
 menu-view-history-button =
     .label = Stöia
+menu-view-synced-tabs-sidebar =
+    .label = Feuggi scincronizæ
 menu-view-full-zoom =
     .label = Zoom
     .accesskey = Z
@@ -168,11 +191,18 @@ menu-bookmarks-show-all =
     .label = Fanni vedde tutti i segnalibbri
 menu-bookmarks-all-tabs =
     .label = Azonzi tutti i feuggi a-i segnalibbri…
+menu-bookmarks-toolbar =
+    .label = Bara di segnalibbri
+menu-bookmarks-other =
+    .label = Atri segnalibbri
 menu-bookmarks-mobile =
     .label = Segnalibbri mòbili
 
 ## Tools Menu
 
+menu-tools =
+    .label = Atressi
+    .accesskey = t
 menu-tools-downloads =
     .label = Descaregamenti
     .accesskey = D
@@ -182,12 +212,21 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = Acedi a { -sync-brand-short-name }…
     .accesskey = y
+menu-tools-sync-now =
+    .label = Scincronizza òua
+    .accesskey = S
 menu-tools-sync-re-auth =
     .label = Conetti torna a { -sync-brand-short-name }…
     .accesskey = R
+menu-tools-web-developer =
+    .label = Svilupatô web
+    .accesskey = W
 menu-tools-page-source =
     .label = Sorgente da Pagina
     .accesskey = o
+menu-tools-page-info =
+    .label = Informaçioin da pagina
+    .accesskey = I
 menu-preferences =
     .label =
         { PLATFORM() ->
