@@ -43,6 +43,10 @@ login-list-item-subtitle-missing-username = （无用户名）
 
 ## Introduction screen
 
+login-intro-heading = 在找您保存的登录信息？请设置 { -sync-brand-short-name }。
+login-intro-description = 若您曾在其他设备上将登录信息保存到 { -brand-product-name }，请按以下步骤操作：
+login-intro-instruction-fxa = 在您保存登录信息的设备，注册或登录 { -fxaccount-brand-name }
+login-intro-instruction-fxa-settings = 确定您已在 { -sync-brand-short-name }设置中勾选了“登录信息”复选框
 login-intro-instruction-faq = 若需帮助，可参阅 { -lockwise-brand-short-name } <a data-l10n-name="faq">常见问题</a>
 
 ## Login
