@@ -19,6 +19,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = ఫైలును తెరువు…
     .accesskey = O
+menu-file-email-link =
+    .label = లింకును ఈమెయిలు చేయి…
+    .accesskey = E
 menu-file-print-setup =
     .label = పేజీ అమరిక...
     .accesskey = u
@@ -32,9 +35,14 @@ menu-view-bookmarks =
     .label = ఇష్టాంశాలు
 menu-view-history-button =
     .label = చరిత్ర
+menu-view-synced-tabs-sidebar =
+    .label = సింకైన ట్యాబులు
 menu-view-full-zoom =
     .label = జూమ్
     .accesskey = Z
+menu-view-full-zoom-enlarge =
+    .label = జూమ్‌ చేయి
+    .accesskey = I
 menu-view-full-zoom-reduce =
     .label = జూమ్ తగ్గించు
     .accesskey = O
@@ -64,8 +72,12 @@ menu-history-show-all-history =
     .label = మొత్తం చరిత్రను చూపించు
 menu-history-clear-recent-history =
     .label = ఇటీవలి చరిత్రను తుడిచివేయి…
+menu-history-synced-tabs =
+    .label = సింకైన ట్యాబులు
 menu-history-restore-last-session =
     .label = మునుపటి సెషన్‌ను పునరుద్ధరించు
+menu-history-undo-menu =
+    .label = ఇటీవల మూసిన ట్యాబులు
 menu-history-undo-window-menu =
     .label = ఇటీవల మూసిన విండోలు
 
@@ -108,3 +120,9 @@ menu-help-product =
 menu-help-show-tour =
     .label = { -brand-shorter-name } పర్యటన
     .accesskey = o
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = మోసపూరిత సైట్ ను నివేదించండి…
+    .accesskey = D
