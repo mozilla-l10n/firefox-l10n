@@ -11,6 +11,8 @@
 
 ## View Menu
 
+menu-view-bookmarks =
+    .label = বুকমার্ক
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
