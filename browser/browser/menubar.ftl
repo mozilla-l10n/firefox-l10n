@@ -20,6 +20,9 @@ menu-file-close-window =
 menu-file-save-page =
     .label = Boloka letlakala e le…
     .accesskey = e
+menu-file-email-link =
+    .label = Lomaganyo ya imeile...
+    .accesskey = e
 menu-file-print-setup =
     .label = Peakanyo ya letlakala…
     .accesskey = n
@@ -75,9 +78,21 @@ menu-view-page-basic-style =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Tsenya sekirini se tletšego
+    .accesskey = s
+menu-view-exit-full-screen =
+    .label = Etšwa sekirining se tletšego
+    .accesskey = s
+menu-view-full-screen =
+    .label = Sekirini seo se tletšego
+    .accesskey = t
 
 ##
 
+menu-view-show-all-tabs =
+    .label = Laetša dithepo tšohle
+    .accesskey = p
 menu-view-bidi-switch-page-direction =
     .label = Switšha moo letlakala le lebilego
     .accesskey = e
