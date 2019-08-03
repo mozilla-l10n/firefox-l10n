@@ -5,12 +5,23 @@
 
 ## File Menu
 
+menu-file =
+    .label = ഫയല്‍
+    .accesskey = F
 menu-file-new-private-window =
     .label = പുതിയ സ്വകാര്യ ജാലകം
     .accesskey = ല
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = വിലാസം തുറക്കുക...
 menu-file-open-file =
     .label = ഫയല്‍ തുറക്കുക...
     .accesskey = O
+menu-file-close =
+    .label = അടയ്ക്കുക
+    .accesskey = C
 menu-file-close-window =
     .label = ജാലകം അടയ്ക്കുക
     .accesskey = d
@@ -35,6 +46,27 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = ചിട്ടപ്പെടുത്തുക
+    .accesskey = E
+menu-edit-undo =
+    .label = പൂര്‍വ്വാവസ്ഥയിലാക്കുക
+    .accesskey = U
+menu-edit-redo =
+    .label = ആവര്‍ത്തിക്കുക
+    .accesskey = R
+menu-edit-cut =
+    .label = മുറിക്കുക
+    .accesskey = t
+menu-edit-paste =
+    .label = ഒട്ടിക്കുക
+    .accesskey = P
+menu-edit-delete =
+    .label = നിര്‍മാര്‍ജ്ജനം ചെയ്യുക
+    .accesskey = D
+menu-edit-select-all =
+    .label = എല്ലാം തെരഞ്ഞെടുക്കുക
+    .accesskey = A
 menu-edit-find-on =
     .label = ഈ താളില്‍ കണ്ടെത്തുക
     .accesskey = F
@@ -47,9 +79,22 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = കാണുക{ " " }
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = ടൂള്‍ബാറുകള്‍{ " " }
+    .accesskey = T
+menu-view-customize-toolbar =
+    .label = ഇച്ഛാനുസൃതമാക്കുക...
+    .accesskey = C
 menu-view-sidebar =
     .label = സൈഡ് ബാര്‍
     .accesskey = e
+menu-view-history-button =
+    .label = നാള്‍വഴി
+menu-view-synced-tabs-sidebar =
+    .label = സിന്‍ക് ചെയ്ത ടാബുകള്‍
 menu-view-full-zoom =
     .label = വലിപ്പം മാറ്റുക
     .accesskey = Z
@@ -68,6 +113,15 @@ menu-view-full-zoom-toggle =
 menu-view-page-style-menu =
     .label = താള്‍ ശൈലി
     .accesskey = y
+menu-view-page-style-no-style =
+    .label = ശൈലി ഇല്ലാതെ
+    .accesskey = N
+menu-view-page-basic-style =
+    .label = അടിസ്ഥാന താള്‍ ശൈലി
+    .accesskey = B
+menu-view-charset =
+    .label = പദാവലിയുടെ എന്‍കോഡിങ്ങ്
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -96,6 +150,14 @@ menu-view-bidi-switch-page-direction =
 menu-history =
     .label = നാള്‍വഴി
     .accesskey = s
+menu-history-show-all-history =
+    .label = ഇതുവരെയുള്ള നാള്‍വഴി കാണിക്കുക
+menu-history-clear-recent-history =
+    .label = ഏറ്റവും പുതിയ നാള്‍വഴി വെടിപ്പാക്കുക…
+menu-history-synced-tabs =
+    .label = സിന്‍ക് ചെയ്ത ടാബുകള്‍
+menu-history-restore-last-session =
+    .label = മുമ്പുള്ള സെഷന്‍ വീണ്ടെടുക്കുക
 menu-history-undo-menu =
     .label = അടുത്തിടെ അടച്ച റ്റാബുകള്‍
 menu-history-undo-window-menu =
@@ -109,18 +171,29 @@ menu-bookmarks-all-tabs =
     .label = എല്ലാ റ്റാബുകളും അടയാളപ്പെടുത്തുക...
 menu-bookmarks-toolbar =
     .label = അടയാളക്കുറിപ്പിനുള്ള ടൂള്‍ബാര്‍
+menu-bookmarks-other =
+    .label = മറ്റു് അടയാളക്കുറിപ്പുകള്‍
 
 ## Tools Menu
 
+menu-tools =
+    .label = ഉപകരണങ്ങള്‍
+    .accesskey = T
 menu-tools-downloads =
     .label = ഡൌണ്‍ലോഡുകള്‍
     .accesskey = D
 menu-tools-addons =
     .label = ആഡ്‌-ഓണുകള്‍
     .accesskey = A
+menu-tools-sync-sign-in =
+    .label = { -sync-brand-short-name }-ലേക്ക് പ്രവേശിയ്ക്കുക…
+    .accesskey = Y
 menu-tools-sync-now =
     .label = ഉടന്‍ സിന്‍ക് ചെയ്യുക
     .accesskey = S
+menu-tools-sync-re-auth =
+    .label = { -sync-brand-short-name }-ലേക്ക് വീണ്ടും കണക്ട് ചെയ്യുക…
+    .accesskey = R
 menu-tools-web-developer =
     .label = വെബ് ഡവലപ്പര്‍
     .accesskey = W
@@ -130,6 +203,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = താള്‍ വിവരങ്ങള്‍
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] ഐച്ഛികങ്ങള്‍
+           *[other] മുന്‍ഗണനകള്‍
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
 
 ## Window Menu
 
@@ -143,6 +227,12 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = സഹായം
     .accesskey = H
+menu-help-product =
+    .label = { -brand-shorter-name } സഹായം
+    .accesskey = H
+menu-help-show-tour =
+    .label = { -brand-shorter-name } പര്യടനം
+    .accesskey = o
 menu-help-keyboard-shortcuts =
     .label = കീബോര്‍ഡിനുള്ള കുറുക്കുവഴികള്‍
     .accesskey = K
@@ -154,4 +244,7 @@ menu-help-feedback-page =
     .accesskey = S
 menu-help-safe-mode-without-addons =
     .label = ആഡ്-ഓണുകള്‍ പ്രവര്‍ത്തന രഹിതമാക്കി വീണ്ടും ആരംഭിയ്ക്കൂ…
+    .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = ആഡ്-ഓണുകള്‍ പ്രവര്‍ത്തന രഹിതമാക്കി വീണ്ടും ആരംഭിയ്ക്കൂ
     .accesskey = R
