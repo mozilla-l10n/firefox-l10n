@@ -11,6 +11,9 @@ menu-file-new-tab =
 menu-file-new-window =
     .label = 新建窗口
     .accesskey = N
+menu-file-new-private-window =
+    .label = 新建隐私窗口
+    .accesskey = W
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
 # but Firefox is still running.
@@ -22,6 +25,9 @@ menu-file-open-file =
 menu-file-close-window =
     .label = 关闭窗口
     .accesskey = d
+menu-file-save-page =
+    .label = 另存页面为…
+    .accesskey = A
 menu-file-email-link =
     .label = 用邮件发送链接…
     .accesskey = E
@@ -40,6 +46,9 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit-find-on =
+    .label = 在此页面中查找…
+    .accesskey = F
 menu-edit-find-again =
     .label = 查找下一个
     .accesskey = g
@@ -54,6 +63,8 @@ menu-view-sidebar =
     .accesskey = e
 menu-view-history-button =
     .label = 历史
+menu-view-synced-tabs-sidebar =
+    .label = 受同步的标签页
 menu-view-full-zoom =
     .label = 缩放
     .accesskey = Z
@@ -113,6 +124,12 @@ menu-history-show-all-history =
     .label = 管理所有历史记录
 menu-history-clear-recent-history =
     .label = 清除最近的历史记录…
+menu-history-synced-tabs =
+    .label = 受同步的标签页
+menu-history-restore-last-session =
+    .label = 恢复先前的浏览状态
+menu-history-hidden-tabs =
+    .label = 隐藏标签页
 menu-history-undo-menu =
     .label = 最近关闭的标签页
 menu-history-undo-window-menu =
@@ -122,6 +139,10 @@ menu-history-undo-window-menu =
 
 menu-bookmarks-show-all =
     .label = 管理所有书签
+menu-bookmarks-all-tabs =
+    .label = 为所有标签页添加书签…
+menu-bookmarks-mobile =
+    .label = 移动设备上的书签
 
 ## Tools Menu
 
@@ -131,9 +152,15 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = 附加组件
     .accesskey = A
+menu-tools-sync-sign-in =
+    .label = 登录至{ -sync-brand-short-name }服务…
+    .accesskey = Y
 menu-tools-sync-now =
     .label = 立即同步
     .accesskey = S
+menu-tools-sync-re-auth =
+    .label = 重新连接{ -sync-brand-short-name }服务…
+    .accesskey = R
 menu-tools-web-developer =
     .label = Web 开发者
     .accesskey = W
@@ -171,3 +198,9 @@ menu-help-troubleshooting-info =
 menu-help-feedback-page =
     .label = 提交反馈…
     .accesskey = S
+menu-help-safe-mode-without-addons =
+    .label = 以安全模式重新打开…
+    .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = 重新打开并启用附加组件
+    .accesskey = R
