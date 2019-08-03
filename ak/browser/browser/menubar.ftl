@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Fael
+    .accesskey = F
 menu-file-new-tab =
     .label = Tab foforo
     .accesskey = T
@@ -17,6 +20,9 @@ menu-file-new-private-window =
 menu-file-open-file =
     .label = Bue Fael…
     .accesskey = B
+menu-file-close =
+    .label = To mu
+    .accesskey = o
 menu-file-close-window =
     .label = To Tokuro Mu
     .accesskey = k
@@ -41,6 +47,27 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Sesa
+    .accesskey = e
+menu-edit-undo =
+    .label = Nnyɛ
+    .accesskey = y
+menu-edit-redo =
+    .label = Yɛ bio
+    .accesskey = b
+menu-edit-cut =
+    .label = Twa
+    .accesskey = T
+menu-edit-paste =
+    .label = Tare
+    .accesskey = T
+menu-edit-delete =
+    .label = Pepa
+    .accesskey = P
+menu-edit-select-all =
+    .label = Paw No Nyinara
+    .accesskey = a
 menu-edit-find-on =
     .label = Hu wɔ Krataafa Yi Mu…
     .accesskey = H
@@ -53,6 +80,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Hwɛ
+    .accesskey = H
+menu-view-toolbars-menu =
+    .label = Ntuulbaa
+    .accesskey = t
+menu-view-customize-toolbar =
+    .label = Kɔstɔmaez…
+    .accesskey = K
 menu-view-sidebar =
     .label = Nkyɛn-baa
     .accesskey = y
@@ -112,8 +148,12 @@ menu-view-bidi-switch-page-direction =
 menu-history =
     .label = Abakɔsɛm
     .accesskey = s
+menu-history-show-all-history =
+    .label = Kyerɛ abakɔsɛm nyinara
 menu-history-clear-recent-history =
     .label = Pepa ndansa yi ara n'abakɔsɛm…
+menu-history-restore-last-session =
+    .label = Fa sɛhyɛn dadaw no san bra
 menu-history-undo-menu =
     .label = Ntab a Wo Ato Mu Ndansa Yi Ara
 menu-history-undo-window-menu =
@@ -133,6 +173,9 @@ menu-bookmarks-toolbar =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Mfidie
+    .accesskey = i
 menu-tools-downloads =
     .label = Ntwe
     .accesskey = t
@@ -151,6 +194,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Krataafa Ho Info
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Ɔphyɛn…
+           *[other] Apɛde-nhyehyɛ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Ɔ
+           *[other] n
+        }
 
 ## Window Menu
 
