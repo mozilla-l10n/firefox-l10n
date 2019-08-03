@@ -49,6 +49,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Штампај…
     .accesskey = Ш
+menu-file-import-from-another-browser =
+    .label = Увези из другог прегледача…
+    .accesskey = У
 menu-file-go-offline =
     .label = Рад ван мреже
     .accesskey = м
@@ -235,6 +238,9 @@ menu-preferences =
             [windows] о
            *[other] П
         }
+menu-tools-layout-debugger =
+    .label = Исправљач грешака у распореду
+    .accesskey = р
 
 ## Window Menu
 
