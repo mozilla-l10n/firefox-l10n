@@ -19,6 +19,7 @@
 <!ENTITY paneAttachments.title    "Atașamente">
 <!ENTITY panePrivacy.title        "Confidențialitate">
 <!ENTITY paneSecurity.title       "Securitate">
+<!ENTITY panePrivacySecurity.title "Confidențialitate și securitate">
 <!ENTITY paneLightning.title      "Calendar">
 <!ENTITY paneAdvanced.title       "Avansat">
 <!ENTITY paneAccount.title        "Conturi">
