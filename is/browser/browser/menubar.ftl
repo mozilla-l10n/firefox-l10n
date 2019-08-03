@@ -16,12 +16,21 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Opna skrá…
     .accesskey = O
+menu-file-close-window =
+    .label = Loka glugga
+    .accesskey = k
+menu-file-print-setup =
+    .label = Uppsetning síðu…
+    .accesskey = U
 menu-file-print-preview =
     .label = Prentskoðun
     .accesskey = r
 menu-file-print =
     .label = Prenta…
     .accesskey = P
+menu-file-go-offline =
+    .label = Vinna án nettengingar
+    .accesskey = g
 
 ## Edit Menu
 
@@ -64,6 +73,8 @@ menu-history =
     .accesskey = F
 menu-history-show-all-history =
     .label = Skoða alla ferla
+menu-history-restore-last-session =
+    .label = Sækja fyrri vafralotu
 menu-history-undo-menu =
     .label = Nýlega lokaðir flipar
 menu-history-undo-window-menu =
@@ -74,6 +85,8 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Bókamerki
     .accesskey = B
+menu-bookmarks-show-all =
+    .label = Sýna öll bókamerki
 menu-bookmarks-toolbar =
     .label = Bókamerkjaslá
 
@@ -82,6 +95,9 @@ menu-bookmarks-toolbar =
 menu-tools-page-source =
     .label = Frumkóði síðu
     .accesskey = k
+menu-tools-page-info =
+    .label = Upplýsingar síðu
+    .accesskey = U
 
 ## Window Menu
 
