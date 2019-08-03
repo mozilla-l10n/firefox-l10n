@@ -115,6 +115,8 @@ menu-history-hidden-tabs =
 
 ## Bookmarks Menu
 
+menu-bookmarks-show-all =
+    .label = Tüm yer imlerini göster
 menu-bookmarks-all-tabs =
     .label = Tüm sekmeleri yer imlerine ekle…
 menu-bookmarks-mobile =
@@ -134,6 +136,17 @@ menu-tools-sync-now =
 menu-tools-page-source =
     .label = Sayfa kaynağı
     .accesskey = a
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Seçenekler
+           *[other] Tercihler
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] T
+        }
 menu-tools-layout-debugger =
     .label = Düzen hata ayıklayıcısı
     .accesskey = D
