@@ -26,6 +26,10 @@ menu-history-show-all-history =
 
 ## Bookmarks Menu
 
+menu-bookmarks-show-all =
+    .label = แสดงที่คั่นหน้าทั้งหมด
+menu-bookmarks-toolbar =
+    .label = แถบเครื่องมือที่คั่นหน้า
 
 ## Tools Menu
 
