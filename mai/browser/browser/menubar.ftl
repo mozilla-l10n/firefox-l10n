@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = फ़ाइल
+    .accesskey = F
 menu-file-new-tab =
     .label = नव टैब
     .accesskey = T
@@ -22,6 +25,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = फ़ाइल खोलू…
     .accesskey = O
+menu-file-close =
+    .label = बंद करू
+    .accesskey = C
 menu-file-close-window =
     .label = विंडो बंद करू
     .accesskey = d
@@ -46,6 +52,27 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = संपादन
+    .accesskey = E
+menu-edit-undo =
+    .label = पहिने जहिना (U)
+    .accesskey = U
+menu-edit-redo =
+    .label = फेर करू
+    .accesskey = R
+menu-edit-cut =
+    .label = काटू
+    .accesskey = t
+menu-edit-paste =
+    .label = साटू
+    .accesskey = P
+menu-edit-delete =
+    .label = मेटाउ
+    .accesskey = D
+menu-edit-select-all =
+    .label = सभटा चुनू
+    .accesskey = A
 menu-edit-find-on =
     .label = ई पृष्ठ मे ताकू…
     .accesskey = F
@@ -58,6 +85,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = दृश्य
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = अओजारपट्टी
+    .accesskey = T
+menu-view-customize-toolbar =
+    .label = मनपसिन्न बनाउ…
+    .accesskey = C
 menu-view-sidebar =
     .label = बाज़ू पट्टी
     .accesskey = e
@@ -83,6 +119,15 @@ menu-view-full-zoom-toggle =
 menu-view-page-style-menu =
     .label = पृष्ठ शैली
     .accesskey = y
+menu-view-page-style-no-style =
+    .label = कोनो शैली नहीं
+    .accesskey = N
+menu-view-page-basic-style =
+    .label = मौलिक पृष्ठ शैली
+    .accesskey = B
+menu-view-charset =
+    .label = पाठ एनकोडिंग
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -136,15 +181,24 @@ menu-bookmarks-toolbar =
 
 ## Tools Menu
 
+menu-tools =
+    .label = अओजार
+    .accesskey = T
 menu-tools-downloads =
     .label = डाउनलोड
     .accesskey = D
 menu-tools-addons =
     .label = सहयुक्ति
     .accesskey = A
+menu-tools-sync-sign-in =
+    .label = { -sync-brand-short-name } मे साइन इन करू
+    .accesskey = Y
 menu-tools-sync-now =
     .label = आब तुल्यकालित करू
     .accesskey = S
+menu-tools-sync-re-auth =
+    .label = { -sync-brand-short-name } मे फेर कनेक्ट करू (R)…
+    .accesskey = R
 menu-tools-web-developer =
     .label = वेब डेवलेपर
     .accesskey = W
@@ -154,6 +208,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = पृष्ठ सूचना
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] विकल्प
+           *[other] वरीयता
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
 
 ## Window Menu
 
@@ -167,6 +232,15 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = { " " }मदति{ " " }
     .accesskey = H
+menu-help-product =
+    .label = { -brand-shorter-name } मददि
+    .accesskey = म
+menu-help-show-tour =
+    .label = { -brand-shorter-name } यात्रा{ " " }
+    .accesskey = o
+menu-help-keyboard-shortcuts =
+    .label = कुँजीपटल शार्टकट
+    .accesskey = K
 menu-help-troubleshooting-info =
     .label = विघ्ननिवारण सूचना
     .accesskey = T
@@ -175,4 +249,7 @@ menu-help-feedback-page =
     .accesskey = S
 menu-help-safe-mode-without-addons =
     .label = सहयुक्तिक सँग फेर आरंभ  कएनाइ  निष्क्रिय…
+    .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = ऐड-ऑन सक्षम केर सँग फेर आरंभ करू
     .accesskey = R
