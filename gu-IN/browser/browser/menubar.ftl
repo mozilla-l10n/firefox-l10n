@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file-new-tab =
+    .label = નવી ટૅબ
+    .accesskey = T
 menu-file-new-window =
     .label = નવી વિન્ડો
     .accesskey = N
@@ -43,9 +46,20 @@ menu-edit-bidi-switch-text-direction =
 menu-view-sidebar =
     .label = બાજુપટ્ટી
     .accesskey = e
+menu-view-history-button =
+    .label = ઇતિહાસ
+menu-view-full-zoom =
+    .label = લખાણ માપ
+    .accesskey = Z
 menu-view-full-zoom-enlarge =
     .label = વધારો
     .accesskey = I
+menu-view-full-zoom-reduce =
+    .label = ઘટાડો
+    .accesskey = O
+menu-view-full-zoom-reset =
+    .label = સામાન્ય
+    .accesskey = R
 menu-view-page-style-menu =
     .label = પાનાં શૈલી
     .accesskey = y
@@ -56,15 +70,24 @@ menu-view-page-style-menu =
 
 ##
 
+menu-view-bidi-switch-page-direction =
+    .label = પાનાં દિશા બદલો
+    .accesskey = D
 
 ## History Menu
 
+menu-history =
+    .label = ઇતિહાસ
+    .accesskey = s
 
 ## Bookmarks Menu
 
 
 ## Tools Menu
 
+menu-tools-downloads =
+    .label = ડાઉનલોડ
+    .accesskey = D
 menu-tools-page-source =
     .label = પાનાં સ્રોત
     .accesskey = o
