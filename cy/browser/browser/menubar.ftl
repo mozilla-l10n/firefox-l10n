@@ -8,12 +8,20 @@
 menu-file-new-tab =
     .label = Tab Newydd
     .accesskey = T
+menu-file-new-container-tab =
+    .label = Tab Cynhwysydd Newydd
+    .accesskey = y
 menu-file-new-window =
     .label = Ffenestr Newydd
     .accesskey = N
 menu-file-new-private-window =
     .label = Ffenestr Breifat Newydd
     .accesskey = B
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Agor Lleoliad…
 menu-file-open-file =
     .label = Agor Ffeil…
     .accesskey = F
@@ -23,6 +31,9 @@ menu-file-close-window =
 menu-file-save-page =
     .label = Cadw Tudalen Fel…
     .accesskey = C
+menu-file-email-link =
+    .label = E-bostio'r Ddolen…
+    .accesskey = E
 menu-file-print-setup =
     .label = Gosodiad Tudalen…
     .accesskey = o
@@ -38,6 +49,9 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit-find-on =
+    .label = Canfod ar y Dudalen…
+    .accesskey = a
 menu-edit-find-again =
     .label = Canfod Eto
     .accesskey = E
@@ -54,6 +68,8 @@ menu-view-bookmarks =
     .label = Nodau Tudalen
 menu-view-history-button =
     .label = Hanes
+menu-view-synced-tabs-sidebar =
+    .label = Tabiau wedi'u Cydweddu
 menu-view-full-zoom =
     .label = Chwyddo
     .accesskey = h
@@ -78,6 +94,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Arddull Tudalen Sylfaenol
     .accesskey = S
+menu-view-charset =
+    .label = Amgodiad Testun
+    .accesskey = T
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -110,6 +129,8 @@ menu-history-show-all-history =
     .label = Dangos yr Holl Hanes
 menu-history-clear-recent-history =
     .label = Clirio Hanes Diweddar…
+menu-history-synced-tabs =
+    .label = Tabiau wedi'u Cydweddu
 menu-history-restore-last-session =
     .label = Adfer y Sesiwn Flaenorol
 menu-history-undo-menu =
@@ -128,6 +149,10 @@ menu-bookmarks-all-tabs =
     .label = Nod Tudalen i Bob Tab…
 menu-bookmarks-toolbar =
     .label = Bar Offer Nodau Tudalen
+menu-bookmarks-other =
+    .label = Nodau Tudalen Eraill
+menu-bookmarks-mobile =
+    .label = Nodau Tudalen Symudol
 
 ## Tools Menu
 
@@ -137,9 +162,15 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Ychwanegion
     .accesskey = Y
+menu-tools-sync-sign-in =
+    .label = Mewngofnodi i { -sync-brand-short-name }…
+    .accesskey = Y
 menu-tools-sync-now =
     .label = Cydweddu Nawr
     .accesskey = y
+menu-tools-sync-re-auth =
+    .label = Ail gysylltu i { -sync-brand-short-name }…
+    .accesskey = A
 menu-tools-web-developer =
     .label = Datblygwr Gwe
     .accesskey = D
@@ -165,6 +196,15 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Cymorth
     .accesskey = C
+menu-help-product =
+    .label = Cymorth { -brand-shorter-name }
+    .accesskey = m
+menu-help-show-tour =
+    .label = Cyflwyno { -brand-shorter-name }
+    .accesskey = C
+menu-help-keyboard-shortcuts =
+    .label = Llwybrau Byr Bysellfwrdd
+    .accesskey = B
 menu-help-troubleshooting-info =
     .label = Gwybodaeth am Ddatrys Problemau
     .accesskey = G
@@ -174,3 +214,12 @@ menu-help-feedback-page =
 menu-help-safe-mode-without-addons =
     .label = Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi…
     .accesskey = A
+menu-help-safe-mode-with-addons =
+    .label = Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi
+    .accesskey = A
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Adroddwch ar wefan twyllodrus…
+    .accesskey = t
