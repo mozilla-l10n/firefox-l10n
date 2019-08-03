@@ -11,9 +11,18 @@ menu-file-print =
 
 ## Edit Menu
 
+menu-edit-copy =
+    .label = Copiar
+    .accesskey = C
+menu-edit-paste =
+    .label = Gllètar
+    .accesskey = P
 
 ## View Menu
 
+menu-view-charset =
+    .label = Codâjo du tèxto
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
