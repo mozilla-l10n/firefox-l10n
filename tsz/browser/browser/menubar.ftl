@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Patsarakua
+    .accesskey = P
 menu-file-new-tab =
     .label = Jimbanhi iorhukua
     .accesskey = i
@@ -17,6 +20,9 @@ menu-file-new-private-window =
 menu-file-open-file =
     .label = Patsarini míta…
     .accesskey = P
+menu-file-close =
+    .label = Mikani
+    .accesskey = M
 menu-file-close-window =
     .label = Míkani mikua
     .accesskey = m
@@ -41,9 +47,39 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Kunharhitani
+    .accesskey = K
+menu-edit-undo =
+    .label = Xerentsï
+    .accesskey = X
+menu-edit-redo =
+    .label = ÚntsÏ
+    .accesskey = Ú
+menu-edit-cut =
+    .label = Akuarhetani
+    .accesskey = a
+menu-edit-paste =
+    .label = Matani
+    .accesskey = M
+menu-edit-delete =
+    .label = Xerentani
+    .accesskey = X
+menu-edit-select-all =
+    .label = Erakuni iámendu
+    .accesskey = i
 
 ## View Menu
 
+menu-view =
+    .label = Exeni
+    .accesskey = E
+menu-view-toolbars-menu =
+    .label = Anchitakua marhuatakueecha
+    .accesskey = m
+menu-view-customize-toolbar =
+    .label = Peerakurhini…
+    .accesskey = P
 menu-view-sidebar =
     .label = Mananharitarakua
     .accesskey = M
@@ -94,6 +130,9 @@ menu-bookmarks-toolbar =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Anchitakueecha
+    .accesskey = c
 menu-tools-downloads =
     .label = Anchitarakua keskukuecha
     .accesskey = A
@@ -106,6 +145,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Arhintsï ampenkari exeni jaka
     .accesskey = A
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Erakuani
+           *[other] Sánteru xénchakuecha
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] E
+           *[other] S
+        }
 
 ## Window Menu
 
