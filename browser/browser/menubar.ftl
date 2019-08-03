@@ -48,6 +48,9 @@ menu-view-bookmarks =
     .label = Lesezeichen
 menu-view-history-button =
     .label = Chronik
+menu-view-full-zoom =
+    .label = Zoom
+    .accesskey = o
 menu-view-full-zoom-enlarge =
     .label = Vergrößern
     .accesskey = g
@@ -73,9 +76,15 @@ menu-view-page-basic-style =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-full-screen =
+    .label = Vollbild
+    .accesskey = V
 
 ##
 
+menu-view-show-all-tabs =
+    .label = Alle Tabs anzeigen
+    .accesskey = z
 menu-view-bidi-switch-page-direction =
     .label = Seitenrichtung ändern
     .accesskey = S
@@ -87,8 +96,12 @@ menu-history =
     .accesskey = C
 menu-history-show-all-history =
     .label = Gesamte Chronik anzeigen
+menu-history-restore-last-session =
+    .label = Vorherige Sitzung wiederherstellen
 menu-history-undo-menu =
     .label = Kürzlich geschlossene Tabs
+menu-history-undo-window-menu =
+    .label = Kürzlich geschlossene Fenster
 
 ## Bookmarks Menu
 
@@ -102,6 +115,15 @@ menu-bookmarks-toolbar =
 
 ## Tools Menu
 
+menu-tools-downloads =
+    .label = Downloads
+    .accesskey = o
+menu-tools-addons =
+    .label = Add-ons
+    .accesskey = d
+menu-tools-sync-now =
+    .label = Jetzt synchronisieren
+    .accesskey = J
 menu-tools-page-info =
     .label = Seiteninformationen
     .accesskey = S
@@ -118,3 +140,12 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Hilfe
     .accesskey = H
+menu-help-troubleshooting-info =
+    .label = Informationen zur Fehlerbehebung
+    .accesskey = z
+menu-help-feedback-page =
+    .label = Feedback senden…
+    .accesskey = s
+menu-help-safe-mode-without-addons =
+    .label = Mit deaktivierten Add-ons neu starten…
+    .accesskey = A
