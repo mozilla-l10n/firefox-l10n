@@ -5,9 +5,20 @@
 
 ## File Menu
 
+menu-file-new-tab =
+    .label = Nueva pestaña
+    .accesskey = t
+menu-file-new-container-tab =
+    .label = Nueva pestaña contenedora
+    .accesskey = c
 menu-file-new-private-window =
     .label = Nueva ventana privada
     .accesskey = p
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Abrir ubicación…
 menu-file-open-file =
     .label = Abrir archivo…
     .accesskey = A
@@ -46,6 +57,10 @@ menu-view-sidebar =
     .accesskey = l
 menu-view-bookmarks =
     .label = Marcadores
+menu-view-history-button =
+    .label = Historial
+menu-view-synced-tabs-sidebar =
+    .label = Pestañas sincronizadas
 menu-view-full-zoom =
     .label = Tamaño
     .accesskey = T
@@ -70,6 +85,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Básico
     .accesskey = B
+menu-view-charset =
+    .label = Codificación de texto
+    .accesskey = f
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -77,6 +95,9 @@ menu-view-page-basic-style =
 menu-view-enter-full-screen =
     .label = Iniciar Pantalla completa
     .accesskey = P
+menu-view-exit-full-screen =
+    .label = Salir de pantalla completa
+    .accesskey = p
 menu-view-full-screen =
     .label = Pantalla completa
     .accesskey = P
@@ -95,6 +116,14 @@ menu-view-bidi-switch-page-direction =
 menu-history =
     .label = Historial
     .accesskey = H
+menu-history-show-all-history =
+    .label = Mostrar todo el historial
+menu-history-clear-recent-history =
+    .label = Borrar el historial reciente…
+menu-history-synced-tabs =
+    .label = Pestañas sincronizadas
+menu-history-restore-last-session =
+    .label = Restaurar sesión anterior
 menu-history-undo-menu =
     .label = Pestañas cerradas recientemente
 menu-history-undo-window-menu =
@@ -120,6 +149,9 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Complementos
     .accesskey = C
+menu-tools-sync-sign-in =
+    .label = Iniciar sesión a { -sync-brand-short-name }…
+    .accesskey = Y
 menu-tools-sync-now =
     .label = Sincronizar ahora
     .accesskey = S
@@ -142,12 +174,33 @@ menu-window-bring-all-to-front =
 
 ## Help Menu
 
+menu-help =
+    .label = Ayuda
+    .accesskey = y
+menu-help-product =
+    .label = Ayuda de { -brand-shorter-name }
+    .accesskey = A
+menu-help-show-tour =
+    .label = Paseo por { -brand-shorter-name }
+    .accesskey = o
 menu-help-keyboard-shortcuts =
     .label = Atajos de teclado
     .accesskey = t
 menu-help-troubleshooting-info =
     .label = Información para solucionar problemas
     .accesskey = I
+menu-help-feedback-page =
+    .label = Enviar comentarios...
+    .accesskey = S
 menu-help-safe-mode-without-addons =
     .label = Reiniciar con complementos deshabilitados
     .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = Reiniciar con complementos habilitados
+    .accesskey = R
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Reportar sitio fraudulento…
+    .accesskey = f
