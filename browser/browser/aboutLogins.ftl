@@ -49,6 +49,8 @@ login-list-item-subtitle-missing-username = (sem nome de usuário)
 login-intro-heading = Procurando suas contas salvas? Configure o { -sync-brand-short-name }.
 login-intro-description = Se você salvou suas contas no { -brand-product-name } em outro dispositivo, veja como tê-las aqui:
 login-intro-instruction-fxa = Crie ou entre na sua { -fxaccount-brand-name } no dispositivo onde suas contas estão salvas
+login-intro-instruction-fxa-settings = Selecione a opção Contas de acesso nas configurações do { -sync-brand-short-name }
+login-intro-instruction-faq = Visite as <a data-l10n-name="faq">perguntas frequentes</a> do { -lockwise-brand-short-name } para mais ajuda
 
 ## Login
 
