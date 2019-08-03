@@ -138,13 +138,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label; beállítások megnyitása…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Bejelentkezve mint">
 <!ENTITY fxa.menu.manageAccount.label "Fiók kezelése…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; beállítások…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Másik eszköz csatlakoztatása…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!ENTITY fxa.menu.signin.label "Jelentkezzen be a &brandProductName;ba">
+<!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; bekapcsolása">
+<!ENTITY fxa.menu.account.label "Fiók">
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.launch "&sendShortName; indítása">
+<!ENTITY fxa.service.monitor.launch "&monitorShortName; indítása">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -188,6 +197,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "Minden lap egy könyvjelzőbe…">
+
 <!ENTITY showAllBookmarks2.label "Minden könyvjelző megjelenítése">
 <!ENTITY recentBookmarks.label "Nemrég könyvjelzőzött">
 <!ENTITY otherBookmarksCmd.label "Más könyvjelzők">
@@ -310,6 +320,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Fájl">
 <!ENTITY fileMenu.accesskey       "F">
+
 <!ENTITY newUserContext.label             "Új konténerlap">
 <!ENTITY newUserContext.accesskey         "k">
 <!ENTITY manageUserContext.label          "Konténerek kezelése">
@@ -359,6 +370,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "E">
 <!ENTITY viewSidebarMenu.label "Oldalsáv">
 <!ENTITY viewSidebarMenu.accesskey "O">
+
 <!ENTITY viewCustomizeToolbar.label       "Testreszabás…">
 <!ENTITY viewCustomizeToolbar.accesskey     "T">
 <!ENTITY overflowCustomizeToolbar.label       "Eszköztár testreszabása…">
@@ -372,6 +384,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Előző munkamenet helyreállítása">
 
 <!ENTITY showAllHistoryCmd2.label "Minden előzmény megjelenítése">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Minden előzmény megjelenítése">
@@ -592,9 +605,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Hivatkozás küldése e-mailben…">
 <!ENTITY emailPageCmd.accesskey       "d">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Oldal mentése…">
 <!ENTITY savePageCmd.accesskey        "m">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "O">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Keret mentése más néven…">
@@ -699,22 +712,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Nagyítás">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "N">
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Kicsinyítés">
 <!ENTITY fullZoomReduceCmd.accesskey    "K">
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Visszaállítás">
 <!ENTITY fullZoomResetCmd.accesskey     "V">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Csak a szöveg nagyítása">
 <!ENTITY fullZoomToggleCmd.accesskey    "C">
+
 <!ENTITY fullZoom.label                 "Nagyítás">
 <!ENTITY fullZoom.accesskey             "N">
 
@@ -732,6 +749,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Bezárás">
+
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "B">
 
@@ -888,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Bejelentkezés a &syncBrand.shortName.label;be…">
 <!ENTITY syncSignIn.accesskey         "J">
+
 <!ENTITY syncSyncNowItem.label        "Szinkronizálás">
 <!ENTITY syncSyncNowItemSyncing.label "Szinkronizálás…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
