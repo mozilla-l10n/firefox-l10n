@@ -5,9 +5,15 @@
 
 ## File Menu
 
+menu-file =
+    .label = Comhad
+    .accesskey = C
 menu-file-new-tab =
     .label = Cluaisín Nua
     .accesskey = C
+menu-file-new-container-tab =
+    .label = Cluaisín Coimeádáin Nua
+    .accesskey = m
 menu-file-new-window =
     .label = Fuinneog Nua
     .accesskey = N
@@ -22,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Oscail Comhad…
     .accesskey = O
+menu-file-close =
+    .label = Dún
+    .accesskey = D
 menu-file-close-window =
     .label = Dún an Fhuinneog
     .accesskey = F
@@ -46,6 +55,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Eagar
+    .accesskey = E
+menu-edit-undo =
+    .label = Cealaigh
+    .accesskey = l
+menu-edit-redo =
+    .label = Athfheidhmigh
+    .accesskey = f
+menu-edit-cut =
+    .label = Gearr
+    .accesskey = G
+menu-edit-copy =
+    .label = Cóipeáil
+    .accesskey = C
+menu-edit-paste =
+    .label = Greamaigh
+    .accesskey = r
+menu-edit-delete =
+    .label = Scrios
+    .accesskey = S
+menu-edit-select-all =
+    .label = Roghnaigh Uile
+    .accesskey = U
 menu-edit-find-on =
     .label = Aimsigh sa Leathanach Seo…
     .accesskey = A
@@ -58,6 +91,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Amharc
+    .accesskey = A
+menu-view-toolbars-menu =
+    .label = Barraí Uirlisí
+    .accesskey = U
+menu-view-customize-toolbar =
+    .label = Saincheap…
+    .accesskey = c
 menu-view-sidebar =
     .label = Barra Taoibh
     .accesskey = T
@@ -65,6 +107,8 @@ menu-view-bookmarks =
     .label = Leabharmharcanna
 menu-view-history-button =
     .label = Stair
+menu-view-synced-tabs-sidebar =
+    .label = Cluaisíní Sioncronaithe
 menu-view-full-zoom =
     .label = Súmáil
     .accesskey = S
@@ -124,6 +168,8 @@ menu-history-show-all-history =
     .label = Taispeáin an Stair Iomlán
 menu-history-clear-recent-history =
     .label = Glan an Stair Is Déanaí…
+menu-history-synced-tabs =
+    .label = Cluaisíní Sioncronaithe
 menu-history-restore-last-session =
     .label = Athchóirigh an Seisiún Roimhe Seo
 menu-history-undo-menu =
@@ -142,12 +188,28 @@ menu-bookmarks-all-tabs =
     .label = Leabharmharcáil Gach Cluaisín…
 menu-bookmarks-toolbar =
     .label = Barra Leabharmharc
+menu-bookmarks-other =
+    .label = Leabharmharcanna Eile
+menu-bookmarks-mobile =
+    .label = Leabharmharcanna Soghluaiste
 
 ## Tools Menu
 
+menu-tools =
+    .label = Uirlisí
+    .accesskey = U
+menu-tools-downloads =
+    .label = Íoslódálacha
+    .accesskey = l
 menu-tools-addons =
     .label = Breiseáin
     .accesskey = B
+menu-tools-sync-sign-in =
+    .label = Logáil isteach i { -sync-brand-short-name }…
+    .accesskey = Y
+menu-tools-sync-now =
+    .label = Sioncronaigh Anois
+    .accesskey = S
 menu-tools-sync-re-auth =
     .label = Athcheangail le { -sync-brand-short-name }…
     .accesskey = A
@@ -160,11 +222,24 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Eolas Leathanaigh
     .accesskey = s
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Roghanna
+           *[other] Sainroghanna
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] o
+           *[other] n
+        }
 
 ## Window Menu
 
 menu-window-menu =
     .label = Fuinneog
+menu-window-bring-all-to-front =
+    .label = Tabhair an t-iomlán chun tosaigh
 
 ## Help Menu
 
@@ -174,6 +249,9 @@ menu-help =
 menu-help-product =
     .label = Cabhair { -brand-shorter-name }
     .accesskey = C
+menu-help-show-tour =
+    .label = Turas ar { -brand-shorter-name }
+    .accesskey = u
 menu-help-keyboard-shortcuts =
     .label = Aicearraí Méarchláir
     .accesskey = A
@@ -186,3 +264,12 @@ menu-help-feedback-page =
 menu-help-safe-mode-without-addons =
     .label = Atosaigh gan aon bhreiseáin…
     .accesskey = A
+menu-help-safe-mode-with-addons =
+    .label = Atosaigh leis na Breiseáin ar siúl…
+    .accesskey = A
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Tuairiscigh suíomh cealgach…
+    .accesskey = c
