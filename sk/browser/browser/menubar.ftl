@@ -11,6 +11,9 @@ menu-file-new-tab =
 menu-file-new-container-tab =
     .label = Nová kontajnerová karta
     .accesskey = k
+menu-file-new-window =
+    .label = Nové okno
+    .accesskey = o
 menu-file-new-private-window =
     .label = Nové okno v režime Súkromné prehliadanie
     .accesskey = k
@@ -46,6 +49,15 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit-find-on =
+    .label = Hľadať na tejto stránke…
+    .accesskey = n
+menu-edit-find-again =
+    .label = Hľadať znova
+    .accesskey = d
+menu-edit-bidi-switch-text-direction =
+    .label = Zmeniť smer textu
+    .accesskey = m
 
 ## View Menu
 
@@ -54,6 +66,10 @@ menu-view-sidebar =
     .accesskey = B
 menu-view-bookmarks =
     .label = Záložky
+menu-view-history-button =
+    .label = História
+menu-view-synced-tabs-sidebar =
+    .label = Synchronizované karty
 menu-view-full-zoom =
     .label = Lupa
     .accesskey = L
@@ -69,6 +85,12 @@ menu-view-full-zoom-reset =
 menu-view-full-zoom-toggle =
     .label = Meniť iba veľkosť textu
     .accesskey = M
+menu-view-page-style-menu =
+    .label = Štýl stránky
+    .accesskey = n
+menu-view-page-style-no-style =
+    .label = Žiadny štýl
+    .accesskey = a
 menu-view-page-basic-style =
     .label = Základný štýl stránky
     .accesskey = Z
@@ -88,6 +110,9 @@ menu-view-full-screen =
 menu-view-show-all-tabs =
     .label = Zobraziť všetky karty
     .accesskey = a
+menu-view-bidi-switch-page-direction =
+    .label = Zmeniť smer stránky
+    .accesskey = m
 
 ## History Menu
 
@@ -96,6 +121,10 @@ menu-history =
     .accesskey = H
 menu-history-show-all-history =
     .label = Zobraziť celú históriu
+menu-history-clear-recent-history =
+    .label = Vymazať históriu prehliadania…
+menu-history-synced-tabs =
+    .label = Synchronizované karty
 menu-history-restore-last-session =
     .label = Obnoviť predchádzajúcu reláciu
 menu-history-undo-menu =
@@ -117,6 +146,9 @@ menu-bookmarks-toolbar =
 
 ## Tools Menu
 
+menu-tools-downloads =
+    .label = Správca preberania súborov
+    .accesskey = S
 menu-tools-addons =
     .label = Doplnky
     .accesskey = D
@@ -160,3 +192,9 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Reštartovať a povoliť doplnky…
     .accesskey = R
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Nahlásenie podvodnej stránky…
+    .accesskey = N
