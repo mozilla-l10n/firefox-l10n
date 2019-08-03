@@ -24,6 +24,8 @@
 
 ## Bookmarks Menu
 
+menu-bookmarks-show-all =
+    .label = ყველა სანიშნის ჩვენება
 
 ## Tools Menu
 
