@@ -77,9 +77,26 @@ master-password-notification-message = Pro zobrazení uložených přihlašovac�
 master-password-reload-button =
     .label = Přihlásit se
     .accesskey = P
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Zrušit
+confirmation-dialog-dismiss-button =
+    .title = Zrušit
+enable-password-sync-preferences-button =
+    .label =
+        Navštivte { PLATFORM() ->
+            [windows] Možnosti
+           *[other] Předvolby
+        } aplikace { -sync-brand-short-name }
+    .accesskey = V
 confirm-delete-dialog-title = Smazat tyto přihlašovací údaje?
 confirm-delete-dialog-message = Tuto akci nelze vzít zpět.
-confirm-delete-dialog-dismiss-button =
-    .title = Zrušit
-confirm-delete-dialog-cancel-button = Zrušit
 confirm-delete-dialog-confirm-button = Smazat
+confirm-discard-changes-dialog-title = Zahodit neuložené změny?
+confirm-discard-changes-dialog-message = Všechny neuložené změny budou ztraceny.
+confirm-discard-changes-dialog-confirm-button = Zahodit
+
+## Breach Alert notification
+
+breach-alert-link = Zjistit více o tomto úniku dat.
