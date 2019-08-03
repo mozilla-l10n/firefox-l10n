@@ -8,6 +8,11 @@
 menu-file-new-tab =
     .label = Tab Barô
     .accesskey = T
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Peuhah Neuduek...
 
 ## Edit Menu
 
@@ -30,15 +35,21 @@ menu-view-history-button =
 
 menu-history-restore-last-session =
     .label = Peuriwang Sèsi Seugolomjih
+menu-history-hidden-tabs =
+    .label = Tab Teusom
 
 ## Bookmarks Menu
 
+menu-bookmarks-toolbar =
+    .label = Bar Alat Peutanda
 
 ## Tools Menu
 
 
 ## Window Menu
 
+menu-window-bring-all-to-front =
+    .label = Mè Ban Dum u Keue
 
 ## Help Menu
 
