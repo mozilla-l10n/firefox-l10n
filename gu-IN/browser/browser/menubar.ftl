@@ -133,6 +133,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = મૂળભૂત પાનાં શૈલી
     .accesskey = B
+menu-view-charset =
+    .label = લખાણ એનકોડીંગ
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
