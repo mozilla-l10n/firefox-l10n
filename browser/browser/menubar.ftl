@@ -33,10 +33,22 @@ menu-view-bookmarks =
     .label = Bokmerke
 menu-view-history-button =
     .label = Historikk
+menu-view-full-zoom =
+    .label = Skalering
+    .accesskey = r
+menu-view-full-zoom-toggle =
+    .label = Forstørr berre tekst
+    .accesskey = o
+menu-view-page-style-menu =
+    .label = Sidestil
+    .accesskey = e
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-full-screen =
+    .label = Fullskjerm
+    .accesskey = F
 
 ##
 
