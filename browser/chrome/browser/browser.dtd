@@ -138,13 +138,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.button.label "打开&syncBrand.shortName.label;服务设置…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "已登录">
 <!ENTITY fxa.menu.manageAccount.label "管理账户…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label;服务设置…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "连接其他设备…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!ENTITY fxa.menu.turnOnSync.label "开启 &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.account.label "账户">
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -188,6 +194,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "为所有标签页添加书签…">
+
 <!ENTITY showAllBookmarks2.label "管理所有书签">
 <!ENTITY recentBookmarks.label "最近的书签">
 <!ENTITY otherBookmarksCmd.label "其他书签">
@@ -310,6 +317,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "文件">
 <!ENTITY fileMenu.accesskey       "F">
+
 <!ENTITY newUserContext.label             "新建身份标签页">
 <!ENTITY newUserContext.accesskey         "C">
 <!ENTITY manageUserContext.label          "管理身份">
@@ -359,6 +367,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "侧栏">
 <!ENTITY viewSidebarMenu.accesskey "e">
+
 <!ENTITY viewCustomizeToolbar.label       "定制…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 <!ENTITY overflowCustomizeToolbar.label       "定制工具栏…">
@@ -372,6 +381,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "恢复先前的浏览状态">
 
 <!ENTITY showAllHistoryCmd2.label "管理所有历史记录">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "管理所有历史记录">
@@ -592,9 +602,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "用邮件发送链接…">
 <!ENTITY emailPageCmd.accesskey       "E">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "另存页面为…">
 <!ENTITY savePageCmd.accesskey        "A">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "另存框架为…">
@@ -699,22 +709,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "放大">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "缩小">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "重置">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "仅缩放文本">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
+
 <!ENTITY fullZoom.label                 "缩放">
 <!ENTITY fullZoom.accesskey             "Z">
 
@@ -732,6 +746,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "关闭">
+
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "C">
 
@@ -888,6 +903,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "登录至&syncBrand.shortName.label;服务…">
 <!ENTITY syncSignIn.accesskey         "Y">
+
 <!ENTITY syncSyncNowItem.label        "立即同步">
 <!ENTITY syncSyncNowItemSyncing.label "正在同步…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
