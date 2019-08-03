@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = Πηγή δεδομένων ping:
 about-telemetry-show-current-ping-data = Δεδομένα τρέχοντος ping
+about-telemetry-show-current-data = Τρέχοντα δεδομένα
 about-telemetry-show-archived-ping-data = Αρχειοθετημένα δεδομένα ping
 about-telemetry-show-subsession-data = Εμφάνιση δεδομένων υποσυνεδρίας
 about-telemetry-choose-ping = Επιλογή ping:
@@ -102,6 +103,8 @@ about-telemetry-no-search-results-all = Λυπούμαστε! Δεν υπάρχ�
 about-telemetry-no-data-to-display = Λυπούμαστε! Δεν υπάρχουν διαθέσιμα δεδομένα στο “{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = τρέχον ping
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = τρέχοντα δεδομένα
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = όλα
 # button label to copy the histogram
