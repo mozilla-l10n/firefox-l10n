@@ -5,6 +5,15 @@
 
 ## File Menu
 
+menu-file-new-tab =
+    .label = Tab foforo
+    .accesskey = T
+menu-file-new-window =
+    .label = Tokura foforo
+    .accesskey = o
+menu-file-new-private-window =
+    .label = Tokura praevet foforo ma wo nko ara
+    .accesskey = T
 menu-file-open-file =
     .label = Bue Fael…
     .accesskey = B
@@ -38,6 +47,9 @@ menu-edit-find-on =
 menu-edit-find-again =
     .label = Hu Bio
     .accesskey = B
+menu-edit-bidi-switch-text-direction =
+    .label = Dane kwan a tɛkst fa so
+    .accesskey = w
 
 ## View Menu
 
@@ -91,14 +103,21 @@ menu-view-full-screen =
 menu-view-show-all-tabs =
     .label = Kyerɛ Ntab Nyinara
     .accesskey = a
+menu-view-bidi-switch-page-direction =
+    .label = Dane kwan a krataafa fa so
+    .accesskey = w
 
 ## History Menu
 
 menu-history =
     .label = Abakɔsɛm
     .accesskey = s
+menu-history-clear-recent-history =
+    .label = Pepa ndansa yi ara n'abakɔsɛm…
 menu-history-undo-menu =
     .label = Ntab a Wo Ato Mu Ndansa Yi Ara
+menu-history-undo-window-menu =
+    .label = Ntokura a wo ato mu ndansa yi ara
 
 ## Bookmarks Menu
 
@@ -135,6 +154,8 @@ menu-tools-page-info =
 
 ## Window Menu
 
+menu-window-menu =
+    .label = Tokura
 menu-window-bring-all-to-front =
     .label = Fa No Nyinara Bra Enim
 
