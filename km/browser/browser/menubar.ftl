@@ -11,6 +11,10 @@
 
 ## View Menu
 
+menu-view-bookmarks =
+    .label = ចំណាំ
+menu-view-history-button =
+    .label = ប្រវត្តិ
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -30,6 +34,8 @@ menu-history-undo-window-menu =
 
 ## Bookmarks Menu
 
+menu-bookmarks-show-all =
+    .label = បង្ហាញ​ចំណាំ​ទាំងអស់
 menu-bookmarks-all-tabs =
     .label = ចំណាំ​ផ្ទាំង​ទាំងអស់…
 
@@ -38,6 +44,8 @@ menu-bookmarks-all-tabs =
 
 ## Window Menu
 
+menu-window-menu =
+    .label = បង្អួច
 
 ## Help Menu
 
