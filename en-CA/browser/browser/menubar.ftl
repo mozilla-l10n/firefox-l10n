@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = File
+    .accesskey = F
 menu-file-new-tab =
     .label = New Tab
     .accesskey = T
@@ -25,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Open File…
     .accesskey = O
+menu-file-close =
+    .label = Close
+    .accesskey = C
 menu-file-close-window =
     .label = Close Window
     .accesskey = d
@@ -49,6 +55,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Edit
+    .accesskey = E
+menu-edit-undo =
+    .label = Undo
+    .accesskey = U
+menu-edit-redo =
+    .label = Redo
+    .accesskey = R
+menu-edit-cut =
+    .label = Cut
+    .accesskey = t
+menu-edit-copy =
+    .label = Copy
+    .accesskey = C
+menu-edit-paste =
+    .label = Paste
+    .accesskey = P
+menu-edit-delete =
+    .label = Delete
+    .accesskey = D
+menu-edit-select-all =
+    .label = Select All
+    .accesskey = A
 menu-edit-find-on =
     .label = Find in This Page…
     .accesskey = F
@@ -61,6 +91,12 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = View
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = Toolbars
+    .accesskey = T
 menu-view-sidebar =
     .label = Sidebar
     .accesskey = e
@@ -156,6 +192,9 @@ menu-bookmarks-mobile =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Tools
+    .accesskey = T
 menu-tools-downloads =
     .label = Downloads
     .accesskey = D
@@ -177,6 +216,20 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Page Info
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Options
+           *[other] Preferences
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
+menu-tools-layout-debugger =
+    .label = Layout Debugger
+    .accesskey = L
 
 ## Window Menu
 
