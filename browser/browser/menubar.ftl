@@ -103,6 +103,8 @@ menu-view-customize-toolbar =
 menu-view-sidebar =
     .label = 侧栏
     .accesskey = e
+menu-view-bookmarks =
+    .label = 书签
 menu-view-history-button =
     .label = 历史
 menu-view-synced-tabs-sidebar =
@@ -179,10 +181,15 @@ menu-history-undo-window-menu =
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = 书签
+    .accesskey = B
 menu-bookmarks-show-all =
     .label = 管理所有书签
 menu-bookmarks-all-tabs =
     .label = 为所有标签页添加书签…
+menu-bookmarks-toolbar =
+    .label = 书签工具栏
 menu-bookmarks-other =
     .label = 其他书签
 menu-bookmarks-mobile =
