@@ -22,8 +22,8 @@ menu-menuitem-preferences =
     }
 menu-menuitem-feedback = Enviar feedback
 menu-menuitem-faq = Perguntas frequentes
-menu-menuitem-download-android = Lockwise para Android
-menu-menuitem-download-iphone = Bloqueio para iPhone e iPad
+menu-menuitem-android-app = { -lockwise-brand-short-name } para Android
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } para iPhone e iPad
 
 ## Login List
 
@@ -41,6 +41,10 @@ login-list-last-used-option = Última utilização
 login-list-item-title-new-login = Nova credencial
 login-list-item-subtitle-new-login = Introduza as suas credenciais
 login-list-item-subtitle-missing-username = (sem nome de utilizador)
+
+## Introduction screen
+
+login-intro-instruction-faq = Visite { -lockwise-brand-short-name } <a data-l10n-name="faq">perguntas frequentes</a> para mais ajuda
 
 ## Login
 
