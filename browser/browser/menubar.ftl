@@ -134,6 +134,12 @@ menu-view-charset =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = 전체 화면으로 표시
+    .accesskey = F
+menu-view-exit-full-screen =
+    .label = 전체 화면 표시 해제
+    .accesskey = F
 menu-view-full-screen =
     .label = 전체 화면
     .accesskey = F
@@ -228,6 +234,9 @@ menu-window-bring-all-to-front =
 
 ## Help Menu
 
+menu-help =
+    .label = 도움말
+    .accesskey = H
 menu-help-product =
     .label = { -brand-shorter-name } 도움말
     .accesskey = H
