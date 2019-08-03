@@ -5,6 +5,17 @@
 
 ## File Menu
 
+menu-file-new-tab =
+    .label = Novo separador
+    .accesskey = s
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Abrir localização…
+menu-file-close-window =
+    .label = Fechar janela
+    .accesskey = j
 menu-file-print-preview =
     .label = Pré-visualizar impressão
     .accesskey = v
@@ -18,6 +29,9 @@ menu-file-print-preview =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-full-screen =
+    .label = Ecrã completo
+    .accesskey = E
 
 ##
 
@@ -30,6 +44,8 @@ menu-view-show-all-tabs =
 menu-history =
     .label = Histórico
     .accesskey = i
+menu-history-show-all-history =
+    .label = Mostrar todo o histórico
 
 ## Bookmarks Menu
 
@@ -45,3 +61,6 @@ menu-bookmarks-menu =
 
 ## Help Menu
 
+menu-help-show-tour =
+    .label = Visita ao { -brand-shorter-name }
+    .accesskey = o
