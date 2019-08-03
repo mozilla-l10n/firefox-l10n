@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Билэ
+    .accesskey = Б
 menu-file-new-tab =
     .label = Саҥа кыбытык
     .accesskey = к
@@ -17,6 +20,9 @@ menu-file-new-private-window =
 menu-file-open-file =
     .label = Билэни арый…
     .accesskey = Б
+menu-file-close =
+    .label = Сап
+    .accesskey = С
 menu-file-close-window =
     .label = Түннүгү сап
     .accesskey = с
@@ -41,6 +47,27 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Уларытыы
+    .accesskey = У
+menu-edit-undo =
+    .label = Төннөр
+    .accesskey = Т
+menu-edit-redo =
+    .label = Хатылаа
+    .accesskey = Х
+menu-edit-cut =
+    .label = Кырый
+    .accesskey = К
+menu-edit-paste =
+    .label = Ук
+    .accesskey = У
+menu-edit-delete =
+    .label = Сот
+    .accesskey = С
+menu-edit-select-all =
+    .label = Барытын тал
+    .accesskey = т
 menu-edit-find-on =
     .label = Бу сирэйтэн бул...
     .accesskey = Б
@@ -53,6 +80,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Көстүү
+    .accesskey = К
+menu-view-toolbars-menu =
+    .label = Тэриллэр
+    .accesskey = Т
+menu-view-customize-toolbar =
+    .label = Туруорууларын чопчулаа…
+    .accesskey = Т
 menu-view-sidebar =
     .label = Ойоҕос панель
     .accesskey = О
@@ -129,6 +165,9 @@ menu-bookmarks-toolbar =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Үстүрүмүөннэр
+    .accesskey = Ү
 menu-tools-downloads =
     .label = Хачайдааһыннар
     .accesskey = Х
@@ -147,6 +186,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Сирэй туһунан
     .accesskey = т
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Туруоруулар
+           *[other] Туруоруулар
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Т
+           *[other] Т
+        }
 
 ## Window Menu
 
@@ -159,6 +209,12 @@ menu-window-bring-all-to-front =
 
 menu-help =
     .label = Көмө
+    .accesskey = К
+menu-help-product =
+    .label = { -brand-shorter-name } Көмө
+    .accesskey = К
+menu-help-show-tour =
+    .label = { -brand-shorter-name } Көмө
     .accesskey = К
 menu-help-keyboard-shortcuts =
     .label = Кылгас клавиатура
