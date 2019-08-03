@@ -8,6 +8,11 @@
 menu-file-new-tab =
     .label = Nova aba
     .accesskey = N
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Abrir endereço…
 menu-file-open-file =
     .label = Abrir arquivo…
     .accesskey = A
@@ -77,11 +82,16 @@ menu-tools-downloads =
 menu-tools-sync-now =
     .label = Sincronizar agora
     .accesskey = n
+menu-tools-sync-re-auth =
+    .label = Reconectar-se ao { -sync-brand-short-name }…
+    .accesskey = R
 
 ## Window Menu
 
 menu-window-menu =
     .label = Janela
+menu-window-bring-all-to-front =
+    .label = Trazer todas para frente
 
 ## Help Menu
 
