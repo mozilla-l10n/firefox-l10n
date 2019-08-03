@@ -5,9 +5,18 @@
 
 ## File Menu
 
+menu-file =
+    .label = Αρχείο
+    .accesskey = Α
 menu-file-new-tab =
     .label = Νέα καρτέλα
     .accesskey = τ
+menu-file-new-container-tab =
+    .label = Νέα καρτέλα εντός περιβάλλοντος
+    .accesskey = β
+menu-file-new-window =
+    .label = Νέο παράθυρο
+    .accesskey = Ν
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
 # but Firefox is still running.
@@ -16,9 +25,18 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Άνοιγμα αρχείου…
     .accesskey = ν
+menu-file-close =
+    .label = Κλείσιμο
+    .accesskey = Κ
 menu-file-close-window =
     .label = Κλείσιμο παραθύρου
     .accesskey = θ
+menu-file-save-page =
+    .label = Αποθήκευση σελίδας ως…
+    .accesskey = π
+menu-file-email-link =
+    .label = Αποστολή συνδέσμου…
+    .accesskey = λ
 menu-file-print-setup =
     .label = Διαμόρφωση σελίδας…
     .accesskey = μ
@@ -34,19 +52,90 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Επεξεργασία
+    .accesskey = Ε
+menu-edit-undo =
+    .label = Αναίρεση
+    .accesskey = Α
+menu-edit-redo =
+    .label = Ακύρωση αναίρεσης
+    .accesskey = κ
+menu-edit-cut =
+    .label = Αποκοπή
+    .accesskey = π
+menu-edit-copy =
+    .label = Αντιγραφή
+    .accesskey = Α
+menu-edit-paste =
+    .label = Επικόλληση
+    .accesskey = π
+menu-edit-delete =
+    .label = Διαγραφή
+    .accesskey = Δ
+menu-edit-select-all =
+    .label = Επιλογή όλων
+    .accesskey = λ
+menu-edit-find-again =
+    .label = Εύρεση ξανά
+    .accesskey = ξ
+menu-edit-bidi-switch-text-direction =
+    .label = Αλλαγή κατεύθυνσης κειμένου
+    .accesskey = κ
 
 ## View Menu
 
+menu-view =
+    .label = Προβολή
+    .accesskey = ρ
+menu-view-toolbars-menu =
+    .label = Γραμμές εργαλείων
+    .accesskey = ρ
+menu-view-customize-toolbar =
+    .label = Προσαρμογή…
+    .accesskey = Π
+menu-view-sidebar =
+    .label = Πλευρική στήλη
+    .accesskey = ε
 menu-view-bookmarks =
     .label = Σελιδοδείκτες
 menu-view-history-button =
     .label = Ιστορικό
+menu-view-synced-tabs-sidebar =
+    .label = Συγχρονισμένες καρτέλες
+menu-view-full-zoom-enlarge =
+    .label = Μεγέθυνση
+    .accesskey = σ
+menu-view-full-zoom-reduce =
+    .label = Σμίκρυνση
+    .accesskey = υ
+menu-view-full-zoom-reset =
+    .label = Επαναφορά
+    .accesskey = ρ
+menu-view-full-zoom-toggle =
+    .label = Ζουμ μόνο στο κείμενο
+    .accesskey = κ
+menu-view-page-style-menu =
+    .label = Μορφοποίηση σελίδας
+    .accesskey = ο
+menu-view-page-style-no-style =
+    .label = Χωρίς μορφοποίηση
+    .accesskey = ρ
+menu-view-page-basic-style =
+    .label = Βασική μορφοποίηση σελίδας
+    .accesskey = Β
+menu-view-charset =
+    .label = Κωδικοποίηση κειμένου
+    .accesskey = κ
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
 menu-view-enter-full-screen =
     .label = Μετάβαση σε πλήρη οθόνη
+    .accesskey = π
+menu-view-exit-full-screen =
+    .label = Έξοδος από πλήρη οθόνη
     .accesskey = π
 menu-view-full-screen =
     .label = Πλήρης οθόνη
@@ -57,13 +146,21 @@ menu-view-full-screen =
 menu-view-show-all-tabs =
     .label = Προβολή όλων των καρτελών
     .accesskey = λ
+menu-view-bidi-switch-page-direction =
+    .label = Αλλαγή κατεύθυνσης σελίδας
+    .accesskey = τ
 
 ## History Menu
 
+menu-history =
+    .label = Ιστορικό
+    .accesskey = Ι
 menu-history-show-all-history =
     .label = Προβολή όλου του ιστορικού
 menu-history-clear-recent-history =
     .label = Εκκαθάριση πρόσφατου ιστορικού…
+menu-history-synced-tabs =
+    .label = Συγχρονισμένες καρτέλες
 menu-history-restore-last-session =
     .label = Επαναφορά προηγούμενης συνεδρίας
 menu-history-undo-menu =
@@ -78,17 +175,52 @@ menu-bookmarks-menu =
     .accesskey = Σ
 menu-bookmarks-show-all =
     .label = Προβολή όλων των σελιδοδεικτών
+menu-bookmarks-all-tabs =
+    .label = Προσθήκη όλων των καρτελών στους σελιδοδείκτες…
+menu-bookmarks-toolbar =
+    .label = Γραμμή σελιδοδεικτών
 menu-bookmarks-other =
     .label = Άλλοι σελιδοδείκτες
+menu-bookmarks-mobile =
+    .label = Σελιδοδείκτες κινητού
 
 ## Tools Menu
 
+menu-tools =
+    .label = Εργαλεία
+    .accesskey = γ
+menu-tools-downloads =
+    .label = Λήψεις
+    .accesskey = ψ
+menu-tools-addons =
+    .label = Πρόσθετα
+    .accesskey = θ
+menu-tools-sync-now =
+    .label = Συγχρονισμός τώρα
+    .accesskey = Σ
+menu-tools-sync-re-auth =
+    .label = Επανασύνδεση στο { -sync-brand-short-name }…
+    .accesskey = Ρ
+menu-tools-web-developer =
+    .label = Εργαλεία προγραμματιστή
+    .accesskey = Π
 menu-tools-page-source =
     .label = Κώδικας σελίδας
     .accesskey = δ
 menu-tools-page-info =
     .label = Πληροφορίες σελίδας
     .accesskey = λ
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Επιλογές
+           *[other] Προτιμήσεις
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Ε
+           *[other] μ
+        }
 
 ## Window Menu
 
@@ -102,6 +234,12 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Βοηθεια
     .accesskey = Β
+menu-help-product =
+    .label = Βοήθεια για το { -brand-shorter-name }
+    .accesskey = Β
+menu-help-show-tour =
+    .label = Ξενάγηση στο { -brand-shorter-name }
+    .accesskey = Ξ
 menu-help-keyboard-shortcuts =
     .label = Συντομεύσεις πληκτρολογίου
     .accesskey = υ
@@ -111,3 +249,12 @@ menu-help-troubleshooting-info =
 menu-help-feedback-page =
     .label = Υποβολή σχολίων…
     .accesskey = λ
+menu-help-safe-mode-with-addons =
+    .label = Επανεκκίνηση με ενεργά πρόσθετα
+    .accesskey = π
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Αναφορά παραπλανητικής σελίδας…
+    .accesskey = Α
