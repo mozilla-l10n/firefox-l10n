@@ -14,6 +14,11 @@ menu-file-new-window =
 menu-file-new-private-window =
     .label = חלון פרטי חדש
     .accesskey = פ
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = פתיחת מיקום
 menu-file-open-file =
     .label = פתיחת קובץ…
     .accesskey = ק
@@ -38,6 +43,9 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit-find-on =
+    .label = חיפוש בדף זה…
+    .accesskey = ח
 menu-edit-find-again =
     .label = מצא שוב
     .accesskey = ש
@@ -75,6 +83,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = סגנון דף בסיסי
     .accesskey = ס
+menu-view-charset =
+    .label = קידוד טקסט
+    .accesskey = ק
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -97,8 +108,12 @@ menu-view-full-screen =
 menu-history =
     .label = היסטוריה
     .accesskey = ה
+menu-history-show-all-history =
+    .label = הצגת כל ההיסטוריה
 menu-history-clear-recent-history =
     .label = ניקוי היסטוריה אחרונה…
+menu-history-restore-last-session =
+    .label = שחזור הפעלה קודמת
 menu-history-hidden-tabs =
     .label = לשוניות מוסתרות
 menu-history-undo-menu =
@@ -126,6 +141,12 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = תוספות
     .accesskey = ת
+menu-tools-sync-sign-in =
+    .label = התחברות אל { -sync-brand-short-name }…
+    .accesskey = ה
+menu-tools-sync-re-auth =
+    .label = התחברות מחדש אל { -sync-brand-short-name }…
+    .accesskey = מ
 menu-tools-web-developer =
     .label = כלי פיתוח
     .accesskey = כ
@@ -151,6 +172,12 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = עזרה
     .accesskey = ז
+menu-help-product =
+    .label = עזרה עבור { -brand-shorter-name }
+    .accesskey = ע
+menu-help-show-tour =
+    .label = סיור ב־{ -brand-shorter-name }
+    .accesskey = ס
 menu-help-keyboard-shortcuts =
     .label = קיצורי מקלדת
     .accesskey = ק
@@ -163,3 +190,12 @@ menu-help-feedback-page =
 menu-help-safe-mode-without-addons =
     .label = הפעלה מחדש עם תוספות מנוטרלות…
     .accesskey = מ
+menu-help-safe-mode-with-addons =
+    .label = הפעלה מחדש עם תוספות פעילות
+    .accesskey = ח
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = דיווח על אתר מטעה…
+    .accesskey = ד
