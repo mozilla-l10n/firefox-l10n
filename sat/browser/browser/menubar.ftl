@@ -9,13 +9,13 @@ menu-file =
     .label = रेत् (F)
     .accesskey = F
 menu-file-new-tab =
-    .label = नावा टैब (T){ " " }
+    .label = नावा टैब (T)
     .accesskey = T
 menu-file-new-window =
     .label = नावा विंडो (N)
     .accesskey = N
 menu-file-new-private-window =
-    .label = नावा निजेराक् विंडो (W ){ "   " }
+    .label = नावा निजेराक् विंडो (W )
     .accesskey = W
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
@@ -47,13 +47,13 @@ menu-file-print =
     .label = छापा… (P)
     .accesskey = P
 menu-file-go-offline =
-    .label = ऑफलाइन (k){ " " }
+    .label = ऑफलाइन (k)
     .accesskey = k
 
 ## Edit Menu
 
 menu-edit =
-    .label = { " " }सासापड़ाव (E)
+    .label = सासापड़ाव (E)
     .accesskey = E
 menu-edit-undo =
     .label = रुवा़ड़ (U)
@@ -135,7 +135,7 @@ menu-view-exit-full-screen =
 ##
 
 menu-view-show-all-tabs =
-    .label = जोतो टैब को उदुक् मे ( A){ " " }
+    .label = जोतो टैब को उदुक् मे ( A)
     .accesskey = A
 menu-view-bidi-switch-page-direction =
     .label = साहटा नाखा ओताय मे ( D)
@@ -172,19 +172,19 @@ menu-tools-downloads =
     .label = आ़तुर आंड़गो (D)
     .accesskey = D
 menu-tools-addons =
-    .label = एड-ऑन्स (A){ " " }
+    .label = एड-ऑन्स (A)
     .accesskey = A
 menu-tools-sync-now =
     .label = नित् मित् ओकतो (S)
     .accesskey = S
 menu-tools-sync-re-auth =
-    .label = { " " }{ -sync-brand-short-name } रे दोहड़ा जोड़ाव …(R)
+    .label = { -sync-brand-short-name } रे दोहड़ा जोड़ाव …(R)
     .accesskey = R
 menu-tools-web-developer =
     .label = वेब लाहा होचोयिच् (W)
     .accesskey = W
 menu-tools-page-source =
-    .label = साहटा सोत(o){ " " }
+    .label = साहटा सोत(o)
     .accesskey = o
 menu-tools-page-info =
     .label = साहटा ला़य सोदोर ( ) .
