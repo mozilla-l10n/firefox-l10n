@@ -64,6 +64,8 @@ menu-history-show-all-history =
     .label = Mostrar todo el historial
 menu-history-undo-menu =
     .label = Pestañas cerradas recientemente
+menu-history-undo-window-menu =
+    .label = Ventanas cerradas recientemente
 
 ## Bookmarks Menu
 
