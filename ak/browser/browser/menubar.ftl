@@ -26,6 +26,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Prente…
     .accesskey = P
+menu-file-go-offline =
+    .label = Di dwuma ɔflaen
+    .accesskey = l
 
 ## Edit Menu
 
