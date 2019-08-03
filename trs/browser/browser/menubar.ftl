@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file-print =
+    .label = Nari' ña du'ua
+    .accesskey = P
 
 ## Edit Menu
 
