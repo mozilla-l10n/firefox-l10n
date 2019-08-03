@@ -25,6 +25,9 @@ menu-file-new-private-window =
 # but Firefox is still running.
 menu-file-open-location =
     .label = Avrir in lieu…
+menu-file-open-file =
+    .label = Avrir ina datoteca…
+    .accesskey = d
 menu-file-close =
     .label = Serrar
     .accesskey = S
@@ -34,6 +37,9 @@ menu-file-close-window =
 menu-file-save-page =
     .label = Memorisar la pagina sut…
     .accesskey = u
+menu-file-email-link =
+    .label = Trametter la colliaziun via e-mail…
+    .accesskey = E
 menu-file-print-setup =
     .label = Organisar la pagina…
     .accesskey = O
@@ -166,6 +172,8 @@ menu-history-synced-tabs =
     .label = Tabs sincronisads
 menu-history-restore-last-session =
     .label = Restaurar l'ultima sesida
+menu-history-hidden-tabs =
+    .label = Tabs zuppentads
 menu-history-undo-menu =
     .label = Tabs serrads dacurt
 menu-history-undo-window-menu =
@@ -227,6 +235,9 @@ menu-preferences =
             [windows] e
            *[other] e
         }
+menu-tools-layout-debugger =
+    .label = Debugadi da layout
+    .accesskey = l
 
 ## Window Menu
 
