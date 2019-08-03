@@ -9,9 +9,16 @@
 ## - Translated.
 
 -facebook-container-brand-name = Facebook Container
+    .gender = masculine
 -lockwise-brand-name = Firefox Lockwise
+    .gender = masculine
 -lockwise-brand-short-name = Lockwise
+    .gender = masculine
 -monitor-brand-name = Firefox Monitor
+    .gender = masculine
 -monitor-brand-short-name = Monitor
+    .gender = masculine
 -pocket-brand-name = Pocket
+    .gender = masculine
 -send-brand-name = Firefox Send
+    .gender = masculine
