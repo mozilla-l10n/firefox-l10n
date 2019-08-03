@@ -8,6 +8,9 @@
 menu-file-new-tab =
     .label = Ny fane
     .accesskey = f
+menu-file-new-container-tab =
+    .label = Ny innholdsfane
+    .accesskey = i
 menu-file-new-window =
     .label = Nytt vindu
     .accesskey = N
@@ -143,6 +146,8 @@ menu-bookmarks-all-tabs =
     .label = Bokmerk alle faner …
 menu-bookmarks-toolbar =
     .label = Bokmerker
+menu-bookmarks-other =
+    .label = Andre bokmerker
 
 ## Tools Menu
 
@@ -182,6 +187,9 @@ menu-window-bring-all-to-front =
 
 menu-help =
     .label = Hjelp
+    .accesskey = H
+menu-help-product =
+    .label = { -brand-shorter-name } Hjelp
     .accesskey = H
 menu-help-show-tour =
     .label = Omvisning i { -brand-shorter-name }
