@@ -190,6 +190,8 @@ menu-bookmarks-toolbar =
     .label = ಪುಟಗುರುತುಗಳ ಉಪಕರಣ ಪಟ್ಟಿ
 menu-bookmarks-other =
     .label = ಇತರೆ ಪುಟಗುರುತುಗಳು
+menu-bookmarks-mobile =
+    .label = ಮೊಬೈಲ್ ಬುಕ್‌ಮಾರ್ಕುಗಳು
 
 ## Tools Menu
 
