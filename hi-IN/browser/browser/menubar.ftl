@@ -220,6 +220,9 @@ menu-preferences =
             [windows] O
            *[other] n
         }
+menu-tools-layout-debugger =
+    .label = लेआउट डीबगर
+    .accesskey = L
 
 ## Window Menu
 
