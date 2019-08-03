@@ -5,12 +5,32 @@
 
 ## File Menu
 
+menu-file =
+    .label = ಕಡತ
+    .accesskey = F
+menu-file-new-tab =
+    .label = ಹೊಸ ಹಾಳೆ
+    .accesskey = T
+menu-file-new-container-tab =
+    .label = ಹೊಸ ಕಂಟೇನರ್ ಟ್ಯಾಬ್
+    .accesskey = b
 menu-file-new-window =
     .label = ಹೊಸ ಕಿಟಕಿ
     .accesskey = N
 menu-file-new-private-window =
     .label = ಹೊಸ ಖಾಸಗಿ ಕಿಟಕಿ
     .accesskey = W
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = ತಾಣವನ್ನು ತೆರೆ…
+menu-file-open-file =
+    .label = ಕಡತವನ್ನು ತೆರೆ…
+    .accesskey = O
+menu-file-close =
+    .label = ಮುಚ್ಚು
+    .accesskey = C
 menu-file-close-window =
     .label = ಕಿಟಕಿಯನ್ನು ಮುಚ್ಚು
     .accesskey = d
@@ -20,15 +40,45 @@ menu-file-save-page =
 menu-file-email-link =
     .label = ಕೊಂಡಿಯನ್ನು ಇಮೈಲ್ ಮಾಡು…
     .accesskey = E
+menu-file-print-setup =
+    .label = ಪುಟದ Setup…
+    .accesskey = u
 menu-file-print-preview =
     .label = ಮುದ್ರಣ ಮುನ್ನೋಟ
     .accesskey = v
+menu-file-print =
+    .label = ಮುದ್ರಿಸು...
+    .accesskey = P
 menu-file-go-offline =
     .label = ಆಫ್‍ಲೈನ್‍ನಲ್ಲಿ ಕೆಲಸ ಮಾಡು
     .accesskey = k
 
 ## Edit Menu
 
+menu-edit =
+    .label = ಸಂಪಾದನೆ
+    .accesskey = E
+menu-edit-undo =
+    .label = ರದ್ದು ಮಾಡು
+    .accesskey = U
+menu-edit-redo =
+    .label = ಮತ್ತೊಮ್ಮೆ ಮಾಡು
+    .accesskey = R
+menu-edit-cut =
+    .label = ಕತ್ತರಿಸು
+    .accesskey = t
+menu-edit-copy =
+    .label = ಪ್ರತಿ ಮಾಡು
+    .accesskey = C
+menu-edit-paste =
+    .label = ಅಂಟಿಸು
+    .accesskey = P
+menu-edit-delete =
+    .label = ಅಳಿಸು
+    .accesskey = D
+menu-edit-select-all =
+    .label = ಎಲ್ಲವನ್ನೂ ಆರಿಸು
+    .accesskey = A
 menu-edit-find-on =
     .label = ಈ ಪುಟದಲ್ಲಿ ಹುಡುಕು...
     .accesskey = F
@@ -41,11 +91,22 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = ನೋಟ
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = ಉಪಕರಣ ಪಟ್ಟಿಗಳು
+    .accesskey = T
+menu-view-customize-toolbar =
+    .label = ನನ್ನಿಚ್ಛೆಗೆ ತಕ್ಕಂತೆ ಹೊಂದಿಸು...
+    .accesskey = C
 menu-view-sidebar =
     .label = ಬದಿಯ ಪಟ್ಟಿ
     .accesskey = e
 menu-view-bookmarks =
     .label = ಪುಟಗುರುತುಗಳು
+menu-view-synced-tabs-sidebar =
+    .label = ಸಿಂಕ್ ಮಾಡಿದ ಟ್ಯಾಬ್‌ಗಳು
 menu-view-full-zoom =
     .label = ಗಾತ್ರ ಬದಲಿಸು
     .accesskey = Z
@@ -64,6 +125,15 @@ menu-view-full-zoom-toggle =
 menu-view-page-style-menu =
     .label = ಪುಟದ ಶೈಲಿ
     .accesskey = y
+menu-view-page-style-no-style =
+    .label = ಯಾವುದೇ ಶೈಲಿ ಇಲ್ಲ
+    .accesskey = N
+menu-view-page-basic-style =
+    .label = ಮೂಲ  ಪುಟದ ಶೈಲಿ
+    .accesskey = B
+menu-view-charset =
+    .label = ಪಠ್ಯ Encoding
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -92,6 +162,14 @@ menu-view-bidi-switch-page-direction =
 menu-history =
     .label = ಇತಿಹಾಸ
     .accesskey = s
+menu-history-show-all-history =
+    .label = ಎಲ್ಲಾ ಇತಿಹಾಸವನ್ನು ತೋರಿಸು
+menu-history-clear-recent-history =
+    .label = ಇತ್ತೀಚಿನ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿಹಾಕು…
+menu-history-synced-tabs =
+    .label = ಸಿಂಕ್ ಮಾಡಿದ ಟ್ಯಾಬ್‌ಗಳು
+menu-history-restore-last-session =
+    .label = ಹಿಂದಿನ ಅಧಿವೇಶನವನ್ನು ಮರಳಿ ಸ್ಥಾಪಿಸು
 menu-history-undo-menu =
     .label = ಇತ್ತೀಚೆಗೆ ಮುಚ್ಚಲಾದ ಟ್ಯಾಬ್‌ಗಳು
 menu-history-undo-window-menu =
@@ -108,15 +186,23 @@ menu-bookmarks-all-tabs =
     .label = ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಪುಟಗುರುತು ಮಾಡು...
 menu-bookmarks-toolbar =
     .label = ಪುಟಗುರುತುಗಳ ಉಪಕರಣ ಪಟ್ಟಿ
+menu-bookmarks-other =
+    .label = ಇತರೆ ಪುಟಗುರುತುಗಳು
 
 ## Tools Menu
 
+menu-tools =
+    .label = ಉಪಕರಣಗಳು
+    .accesskey = T
 menu-tools-downloads =
     .label = ಡೌನ್‍ಲೋಡ್‍ಗಳು
     .accesskey = D
 menu-tools-addons =
     .label = ಆಡ್-ಆನ್‍ಗಳು
     .accesskey = A
+menu-tools-sync-sign-in =
+    .label = { -sync-brand-short-name } ಗೆ ಸೈನ್-ಇನ್ ಆಗು...
+    .accesskey = Y
 menu-tools-sync-now =
     .label = ಈಗಲೆ ಸಿಂಕ್ ಮಾಡು
     .accesskey = S
@@ -129,6 +215,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = ಪುಟದ ಮಾಹಿತಿ
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] ಆಯ್ಕೆಗಳು
+           *[other] ಆದ್ಯತೆಗಳು
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
 
 ## Window Menu
 
@@ -139,3 +236,30 @@ menu-window-bring-all-to-front =
 
 ## Help Menu
 
+menu-help =
+    .label = Help
+    .accesskey = H
+menu-help-product =
+    .label = { -brand-shorter-name } Help
+    .accesskey = H
+menu-help-show-tour =
+    .label = { -brand-shorter-name } Tour
+    .accesskey = o
+menu-help-troubleshooting-info =
+    .label = Troubleshooting ಮಾಹಿತಿ
+    .accesskey = T
+menu-help-feedback-page =
+    .label = Submit ಅಭಿಪ್ರಾಯ…
+    .accesskey = S
+menu-help-safe-mode-without-addons =
+    .label = Restart ಆಡ್‌-ಆನ್‌ಗಳನ್ನು ಅಶಕ್ತಗೊಳಿಸಿದ ನಂತರ…
+    .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = Restart ಆಡ್‌-ಆನ್‌ಗಳನ್ನು ಅಶಕ್ತಗೊಳಿಸಿದ ನಂತರ
+    .accesskey = R
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = deceptive ತಾಣ ವರದಿ ಮಾಡಿ…
+    .accesskey = d
