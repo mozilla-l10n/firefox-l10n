@@ -26,6 +26,9 @@ menu-view-history-button =
 
 ##
 
+menu-view-bidi-switch-page-direction =
+    .label = పేజీ దిశను మార్చు
+    .accesskey = D
 
 ## History Menu
 
