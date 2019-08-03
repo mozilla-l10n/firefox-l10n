@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Fayl
+    .accesskey = F
 menu-file-new-tab =
     .label = Yangi ichki oyna
     .accesskey = i
@@ -25,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Faylni ochish…
     .accesskey = o
+menu-file-close =
+    .label = Yopish
+    .accesskey = Y
 menu-file-close-window =
     .label = Oynani yopish
     .accesskey = y
@@ -49,6 +55,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Tahrirlash
+    .accesskey = T
+menu-edit-undo =
+    .label = Amalni bekor qilish
+    .accesskey = b
+menu-edit-redo =
+    .label = Amalni qaytarish
+    .accesskey = q
+menu-edit-cut =
+    .label = Kesish
+    .accesskey = K
+menu-edit-copy =
+    .label = Nusxa olish
+    .accesskey = N
+menu-edit-paste =
+    .label = Qo‘yish
+    .accesskey = Q
+menu-edit-delete =
+    .label = O‘chirish
+    .accesskey = O
+menu-edit-select-all =
+    .label = Barchasini tanlash
+    .accesskey = a
 menu-edit-find-on =
     .label = Ushbu sahifadan topish
     .accesskey = t
@@ -61,6 +91,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Ko‘rinish
+    .accesskey = K
+menu-view-toolbars-menu =
+    .label = Asboblar paneli
+    .accesskey = A
+menu-view-customize-toolbar =
+    .label = Moslash…
+    .accesskey = M
 menu-view-sidebar =
     .label = Yon panel
     .accesskey = e
@@ -133,6 +172,8 @@ menu-history-synced-tabs =
     .label = Sinxronlangan ichki oynalar
 menu-history-restore-last-session =
     .label = Oldingi seansni tiklash
+menu-history-hidden-tabs =
+    .label = Yashirilgan ichki oynalar
 menu-history-undo-menu =
     .label = Yaqinda yopilgan ichki oynalar
 menu-history-undo-window-menu =
@@ -156,6 +197,9 @@ menu-bookmarks-mobile =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Asboblar
+    .accesskey = A
 menu-tools-downloads =
     .label = Yuklab olishlar
     .accesskey = Y
@@ -180,6 +224,20 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Sahifa haqida ma’lumot
     .accesskey = u
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Moslamalar
+           *[other] Parametrlar
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] M
+           *[other] m
+        }
+menu-tools-layout-debugger =
+    .label = Maket sozlagich
+    .accesskey = L
 
 ## Window Menu
 
