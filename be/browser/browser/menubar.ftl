@@ -8,15 +8,26 @@
 menu-file-new-tab =
     .label = Новая картка
     .accesskey = т
+menu-file-new-container-tab =
+    .label = Новая картка кантэйнера
+    .accesskey = К
 menu-file-new-window =
     .label = Новае акно
     .accesskey = Н
 menu-file-new-private-window =
     .label = Новае прыватнае акно
     .accesskey = а
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Адкрыць адрас…
 menu-file-open-file =
     .label = Адкрыць файл…
     .accesskey = ф
+menu-file-close-window =
+    .label = Закрыць акно
+    .accesskey = н
 menu-file-save-page =
     .label = Захаваць старонку як…
     .accesskey = я
@@ -54,12 +65,20 @@ menu-view-bookmarks =
     .label = Закладкі
 menu-view-history-button =
     .label = Гісторыя
+menu-view-synced-tabs-sidebar =
+    .label = Сінхранізаваныя карткі
+menu-view-full-zoom =
+    .label = Павелічэнне
+    .accesskey = П
 menu-view-full-zoom-enlarge =
     .label = Павялічыць
     .accesskey = в
 menu-view-full-zoom-reduce =
     .label = Паменшыць
     .accesskey = м
+menu-view-full-zoom-reset =
+    .label = Скінуць
+    .accesskey = к
 menu-view-full-zoom-toggle =
     .label = Павялічваць толькі тэкст
     .accesskey = т
@@ -72,6 +91,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Базавы стыль старонкі
     .accesskey = Б
+menu-view-charset =
+    .label = Кадаванне тэксту
+    .accesskey = к
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -88,6 +110,9 @@ menu-view-full-screen =
 
 ##
 
+menu-view-show-all-tabs =
+    .label = Паказаць усе карткі
+    .accesskey = у
 menu-view-bidi-switch-page-direction =
     .label = Пераключыць кірунак старонкі
     .accesskey = к
@@ -101,8 +126,12 @@ menu-history-show-all-history =
     .label = Паказаць усю гісторыю
 menu-history-clear-recent-history =
     .label = Ачысціць нядаўнюю гісторыю…
+menu-history-synced-tabs =
+    .label = Сінхранізаваныя карткі
 menu-history-restore-last-session =
     .label = Аднавіць папярэдні сеанс
+menu-history-undo-menu =
+    .label = Нядаўна закрытыя карткі
 menu-history-undo-window-menu =
     .label = Нядаўна закрытыя вокны
 
@@ -117,12 +146,22 @@ menu-bookmarks-all-tabs =
     .label = Закладкі на ўсе карткі…
 menu-bookmarks-toolbar =
     .label = Паліца закладак
+menu-bookmarks-other =
+    .label = Іншыя закладкі
+menu-bookmarks-mobile =
+    .label = Мабільныя закладкі
 
 ## Tools Menu
 
+menu-tools-downloads =
+    .label = Сцягванні
+    .accesskey = С
 menu-tools-addons =
     .label = Дадаткі
     .accesskey = Д
+menu-tools-sync-sign-in =
+    .label = Увайсці ў { -sync-brand-short-name }…
+    .accesskey = У
 menu-tools-sync-now =
     .label = Сінхранізаваць зараз{ " " }
     .accesskey = С
@@ -154,9 +193,24 @@ menu-help =
 menu-help-product =
     .label = Даведка { -brand-shorter-name }
     .accesskey = Д
+menu-help-show-tour =
+    .label = Знаёмства з { -brand-shorter-name }
+    .accesskey = З
+menu-help-keyboard-shortcuts =
+    .label = Спалучэнні клавіш
+    .accesskey = К
 menu-help-troubleshooting-info =
     .label = Звесткі для вырашэння праблемаў
     .accesskey = З
+menu-help-feedback-page =
+    .label = Падаць водгук…
+    .accesskey = П
+menu-help-safe-mode-without-addons =
+    .label = Перазапусціць без дадаткаў…
+    .accesskey = П
+menu-help-safe-mode-with-addons =
+    .label = Перазапусціць з дадаткамі
+    .accesskey = П
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.
