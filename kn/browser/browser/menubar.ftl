@@ -42,12 +42,17 @@ menu-view-full-screen =
 
 ##
 
+menu-view-bidi-switch-page-direction =
+    .label = ಪುಟದ ದಿಕ್ಕನ್ನು ಬದಲಾಯಿಸು
+    .accesskey = D
 
 ## History Menu
 
 menu-history =
     .label = ಇತಿಹಾಸ
     .accesskey = s
+menu-history-undo-menu =
+    .label = ಇತ್ತೀಚೆಗೆ ಮುಚ್ಚಲಾದ ಟ್ಯಾಬ್‌ಗಳು
 
 ## Bookmarks Menu
 
