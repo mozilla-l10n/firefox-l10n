@@ -50,6 +50,8 @@ menu-view-bookmarks =
     .label = පිටු සලකුණු
 menu-view-history-button =
     .label = ඉතිහාසය
+menu-view-synced-tabs-sidebar =
+    .label = සම්මුහුර්ථ කළ ටැබ්
 menu-view-full-zoom-enlarge =
     .label = විශාල කරන්න
     .accesskey = I
@@ -82,6 +84,8 @@ menu-history-show-all-history =
     .label = සම්පූර්ණ අතීතය පෙන්වන්න
 menu-history-clear-recent-history =
     .label = මෑත ඉතිහාසය මකන්න...
+menu-history-synced-tabs =
+    .label = සම්මුහුර්ථ කළ ටැබ්
 menu-history-restore-last-session =
     .label = පෙර සැසිය ප්‍රතිස්ථාපනය කරන්න
 menu-history-undo-menu =
@@ -108,6 +112,9 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = ඇඩෝන
     .accesskey = A
+menu-tools-sync-sign-in =
+    .label = { -sync-brand-short-name } වෙත පිවිසෙන්න...
+    .accesskey = Y
 menu-tools-sync-now =
     .label = දැන් සම්මුහුර්ත කරන්න
     .accesskey = S
@@ -145,3 +152,9 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = සක්‍රීය කළ ඇඩෝන සමඟ යළි අරඹන්න
     .accesskey = R
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = අවිශ්වාසී අඩවිය වාර්ථා කරන්න ...
+    .accesskey = D
