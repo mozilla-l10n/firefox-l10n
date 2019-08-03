@@ -138,13 +138,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.button.label "開啟 &syncBrand.shortName.label; 設定…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "已登入為">
 <!ENTITY fxa.menu.manageAccount.label "管理帳號…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; 設定…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "連結其他裝置…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!ENTITY fxa.menu.signin.label "登入 &brandProductName;">
+<!ENTITY fxa.menu.turnOnSync.label "開啟 &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.account.label "帳號">
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.description "使用端對端加密，以及會自動過期的鏈結來上傳要分享的檔案。">
+<!ENTITY fxa.service.send.launch "啟動 &sendShortName;">
+<!ENTITY fxa.service.monitor.description "檢查您的電子郵件信箱是否曾出現在資料外洩事件中，並且在未來發生資料外洩時收到警報通知。">
+<!ENTITY fxa.service.monitor.launch "啟動 &monitorShortName;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -188,6 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "將所有分頁加入書籤…">
+
 <!ENTITY showAllBookmarks2.label "顯示所有書籤">
 <!ENTITY recentBookmarks.label "最近加入的書籤">
 <!ENTITY otherBookmarksCmd.label "其他書籤">
@@ -310,6 +322,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "檔案">
 <!ENTITY fileMenu.accesskey       "F">
+
 <!ENTITY newUserContext.label             "新增容器分頁">
 <!ENTITY newUserContext.accesskey         "B">
 <!ENTITY manageUserContext.label          "管理容器">
@@ -359,6 +372,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "側邊欄">
 <!ENTITY viewSidebarMenu.accesskey "e">
+
 <!ENTITY viewCustomizeToolbar.label       "自訂…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 <!ENTITY overflowCustomizeToolbar.label       "自訂工具列…">
@@ -372,6 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "回復先前的瀏覽狀態">
 
 <!ENTITY showAllHistoryCmd2.label "顯示所有瀏覽記錄">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "顯示所有瀏覽記錄">
@@ -592,9 +607,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "郵寄鏈結…">
 <!ENTITY emailPageCmd.accesskey       "E">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "另存新檔…">
 <!ENTITY savePageCmd.accesskey        "A">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "頁框另存新檔…">
@@ -699,22 +714,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "放大">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "縮小">
 <!ENTITY fullZoomReduceCmd.accesskey    "o">
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "重設">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "只縮放文字">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
+
 <!ENTITY fullZoom.label                 "縮放">
 <!ENTITY fullZoom.accesskey             "Z">
 
@@ -732,6 +751,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "關閉">
+
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "C">
 
@@ -888,6 +908,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "登入至 &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
+
 <!ENTITY syncSyncNowItem.label        "立刻同步">
 <!ENTITY syncSyncNowItemSyncing.label "同步中…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
