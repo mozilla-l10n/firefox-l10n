@@ -138,13 +138,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.button.label "เปิดการตั้งค่า &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "ลงชื่อเข้าเป็น">
 <!ENTITY fxa.menu.manageAccount.label "จัดการบัญชี…">
 <!ENTITY fxa.menu.syncSettings.label "การตั้งค่า &syncBrand.shortName.label;…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "เชื่อมต่ออุปกรณ์อื่น…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!ENTITY fxa.menu.signin.label "ลงชื่อเข้า &brandProductName;">
+<!ENTITY fxa.menu.turnOnSync.label "เปิด &syncBrand.shortName.label;">
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -188,6 +194,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "เพิ่มที่คั่นหน้าสำหรับแท็บทั้งหมด…">
+
 <!ENTITY showAllBookmarks2.label "แสดงที่คั่นหน้าทั้งหมด">
 <!ENTITY recentBookmarks.label "ที่คั่นหน้าที่เพิ่มล่าสุด">
 <!ENTITY otherBookmarksCmd.label "ที่คั่นหน้าอื่น ๆ">
@@ -310,6 +317,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "ไฟล์">
 <!ENTITY fileMenu.accesskey       "ฟ">
+
 <!ENTITY newUserContext.label             "แท็บแยกข้อมูลใหม่">
 <!ENTITY newUserContext.accesskey         "ย">
 <!ENTITY manageUserContext.label          "จัดการการแยกข้อมูล">
@@ -359,6 +367,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "ถ">
 <!ENTITY viewSidebarMenu.label "แถบข้าง">
 <!ENTITY viewSidebarMenu.accesskey "บ">
+
 <!ENTITY viewCustomizeToolbar.label       "ปรับแต่ง…">
 <!ENTITY viewCustomizeToolbar.accesskey     "ป">
 <!ENTITY overflowCustomizeToolbar.label       "ปรับแต่งแถบเครื่องมือ…">
@@ -372,6 +381,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "เรียกคืนวาระก่อนหน้า">
 
 <!ENTITY showAllHistoryCmd2.label "แสดงประวัติทั้งหมด">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "แสดงประวัติทั้งหมด">
@@ -592,9 +602,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "ส่งอีเมลลิงก์…">
 <!ENTITY emailPageCmd.accesskey       "ล">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "บันทึกหน้าเป็น…">
 <!ENTITY savePageCmd.accesskey        "น">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "ห">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "บันทึกกรอบเป็น…">
@@ -699,22 +709,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "ซูมเข้า">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "ม">
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "ซูมออก">
 <!ENTITY fullZoomReduceCmd.accesskey    "อ">
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "กลับค่าเดิม">
 <!ENTITY fullZoomResetCmd.accesskey     "ก">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "ซูมข้อความเท่านั้น">
 <!ENTITY fullZoomToggleCmd.accesskey    "ข">
+
 <!ENTITY fullZoom.label                 "ซูม">
 <!ENTITY fullZoom.accesskey             "ม">
 
@@ -732,6 +746,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "ปิด">
+
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "ป">
 
@@ -832,6 +847,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "เปิดค่ากำหนดการปิดกั้นเนื้อหา">
 
 
+<!-- LOCALIZATION NOTE:
+     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
+     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!-- LOCALIZATION NOTE:
+     In the Site Not Working? view, we suggest turning off protections if
+     the user is experiencing issues with any of a variety of functionality.
+     protections.siteNotWorkingView.header: The header of the list
+     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+
+
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "แท็บเบราว์เซอร์">
@@ -845,6 +872,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "ลงชื่อเข้า &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "ล">
+
 <!ENTITY syncSyncNowItem.label        "ซิงค์ตอนนี้">
 <!ENTITY syncSyncNowItemSyncing.label "กำลังซิงค์…">
 <!ENTITY syncSyncNowItem.accesskey    "ง">
@@ -872,6 +900,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackersView.label "ตัวติดตาม">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "เพื่อปิดกั้นตัวติดตามทั้งหมด ตั้งการปิดกั้นเนื้อหาเป็น “เข้มงวด”">
+
 
 <!ENTITY contentBlocking.cookies.label "คุกกี้">
 <!ENTITY contentBlocking.cookiesView.label "คุกกี้และข้อมูลไซต์">
