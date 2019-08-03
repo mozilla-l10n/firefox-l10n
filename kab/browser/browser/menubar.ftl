@@ -11,12 +11,20 @@ menu-file =
 menu-file-new-tab =
     .label = Iccer amaynut
     .accesskey = I
+menu-file-new-container-tab =
+    .label = Iccer amagbar amaynut
+    .accesskey = m
 menu-file-new-window =
     .label = Asfaylu amaynut
     .accesskey = s
 menu-file-new-private-window =
     .label = Asfaylu amaynut n tunigin tusligt
     .accesskey = y
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Ldi adeg…
 menu-file-open-file =
     .label = Ldi afaylu…
     .accesskey = L
@@ -32,12 +40,18 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Azen s yimayl aseɣwen ɣeṛ usebter…
     .accesskey = A
+menu-file-print-setup =
+    .label = Tarusi n yisebtar…
+    .accesskey = a
 menu-file-print-preview =
     .label = Awali send asiggez
     .accesskey = s
 menu-file-print =
     .label = Siggez
     .accesskey = S
+menu-file-go-offline =
+    .label = Xdem war tuqqna
+    .accesskey = q
 
 ## Edit Menu
 
@@ -56,26 +70,51 @@ menu-edit-cut =
 menu-edit-copy =
     .label = Nɣel
     .accesskey = N
+menu-edit-paste =
+    .label = Senṭeḍ
+    .accesskey = n
 menu-edit-delete =
     .label = Kkes
     .accesskey = K
+menu-edit-select-all =
+    .label = Fren Kullec
+    .accesskey = F
 menu-edit-find-on =
     .label = Nadi deg usebter-a…
     .accesskey = d
 menu-edit-find-again =
     .label = Nadi ɣer zdat
     .accesskey = d
+menu-edit-bidi-switch-text-direction =
+    .label = Beddel taɣda n uḍris
+    .accesskey = n
 
 ## View Menu
 
+menu-view =
+    .label = Askan
+    .accesskey = i
+menu-view-toolbars-menu =
+    .label = Afeggag n yifecka
+    .accesskey = A
 menu-view-customize-toolbar =
     .label = Sagen…
     .accesskey = S
 menu-view-sidebar =
     .label = Agalis adisan
     .accesskey = g
+menu-view-bookmarks =
+    .label = Ticraḍ n yisebtar
 menu-view-history-button =
     .label = Amazray
+menu-view-synced-tabs-sidebar =
+    .label = Accaren yemtawin
+menu-view-full-zoom =
+    .label = Semɣer
+    .accesskey = S
+menu-view-full-zoom-enlarge =
+    .label = Semɣer
+    .accesskey = m
 menu-view-full-zoom-reduce =
     .label = Semẓi
     .accesskey = S
@@ -101,9 +140,24 @@ menu-view-charset =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Uɣal ɣer Agdil Ačaran
+    .accesskey = U
+menu-view-exit-full-screen =
+    .label = Ffeɣ seg Agdil Ačaran
+    .accesskey = F
+menu-view-full-screen =
+    .label = Agdil Ačaran
+    .accesskey = A
 
 ##
 
+menu-view-show-all-tabs =
+    .label = Sken akk accaren
+    .accesskey = k
+menu-view-bidi-switch-page-direction =
+    .label = Beddel tanila n usebter
+    .accesskey = n
 
 ## History Menu
 
@@ -112,17 +166,34 @@ menu-history =
     .accesskey = A
 menu-history-show-all-history =
     .label = Sken akk amazray
+menu-history-clear-recent-history =
+    .label = Sfeḍ amazray-ik n melmi kan…
+menu-history-synced-tabs =
+    .label = Accaren yemtawin
+menu-history-restore-last-session =
+    .label = Err-d tiɣimit yezrin
 menu-history-hidden-tabs =
     .label = Iccaren ifren
+menu-history-undo-menu =
+    .label = Accaren imedlen melmi kan
 menu-history-undo-window-menu =
     .label = Isfuyla imedlen melmi kan
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = Ticraḍ n yisebtar
+    .accesskey = r
+menu-bookmarks-show-all =
+    .label = Sken akk ticraḍ n yisebtar
+menu-bookmarks-all-tabs =
+    .label = Creḍ akk accaren…
 menu-bookmarks-toolbar =
     .label = Afeggag n tecraḍ
 menu-bookmarks-other =
     .label = Ticraḍ-nniḍen
+menu-bookmarks-mobile =
+    .label = Ticraḍ n yisebtar n uziraz
 
 ## Tools Menu
 
@@ -135,6 +206,9 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Izegrar
     .accesskey = I
+menu-tools-sync-sign-in =
+    .label = Kcem ɣer { -sync-brand-short-name }…
+    .accesskey = Y
 menu-tools-sync-now =
     .label = Mtawi tura
     .accesskey = M
@@ -150,6 +224,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Talɣut ɣef usebter
     .accesskey = T
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Iɣewwaren
+           *[other] Ismenyifen
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] w
+           *[other] s
+        }
 menu-tools-layout-debugger =
     .label = Amseγti n tneγruft
     .accesskey = L
@@ -158,6 +243,8 @@ menu-tools-layout-debugger =
 
 menu-window-menu =
     .label = Asfaylu
+menu-window-bring-all-to-front =
+    .label = Awi-d Kullec ɣer Zdat
 
 ## Help Menu
 
