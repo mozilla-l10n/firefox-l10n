@@ -28,6 +28,8 @@ menu-view-history-button =
 
 menu-history-undo-menu =
     .label = File închise recent
+menu-history-undo-window-menu =
+    .label = Ferestre închise recent
 
 ## Bookmarks Menu
 
@@ -37,6 +39,9 @@ menu-history-undo-menu =
 menu-tools-downloads =
     .label = Descărcări
     .accesskey = D
+menu-tools-sync-now =
+    .label = Sincronizează acum
+    .accesskey = S
 
 ## Window Menu
 
