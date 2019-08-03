@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file-new-private-window =
+    .label = പുതിയ സ്വകാര്യ ജാലകം
+    .accesskey = ല
 menu-file-open-file =
     .label = ഫയല്‍ തുറക്കുക...
     .accesskey = O
@@ -140,6 +143,9 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = സഹായം
     .accesskey = H
+menu-help-keyboard-shortcuts =
+    .label = കീബോര്‍ഡിനുള്ള കുറുക്കുവഴികള്‍
+    .accesskey = K
 menu-help-troubleshooting-info =
     .label = ട്രബിള്‍ഷൂട്ടിങിനുള്ള വിവരങ്ങള്‍
     .accesskey = T
