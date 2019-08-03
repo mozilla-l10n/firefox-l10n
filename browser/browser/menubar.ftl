@@ -44,6 +44,8 @@ menu-history-show-all-history =
 
 ## Bookmarks Menu
 
+menu-bookmarks-all-tabs =
+    .label = Tüm sekmeleri yer imlerine ekle…
 
 ## Tools Menu
 
