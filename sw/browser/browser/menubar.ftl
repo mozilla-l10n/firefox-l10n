@@ -11,6 +11,9 @@ menu-file-new-tab =
 menu-file-new-window =
     .label = Dirisha Mpya
     .accesskey = D
+menu-file-new-private-window =
+    .label = Window Mpya ya Kibinafsi
+    .accesskey = W
 menu-file-open-file =
     .label = Fungua Faili…
     .accesskey = F
@@ -20,6 +23,9 @@ menu-file-close-window =
 menu-file-save-page =
     .label = Hifadhi Ukurasa Kama…
     .accesskey = K
+menu-file-email-link =
+    .label = Kiungo cha Barua pepe…
+    .accesskey = B
 menu-file-print-setup =
     .label = Sanidi Ukurasa…
     .accesskey = k
@@ -29,6 +35,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Chapisha…
     .accesskey = C
+menu-file-go-offline =
+    .label = Fanya kazi Nje ya Mtandao
+    .accesskey = F
 
 ## Edit Menu
 
@@ -47,6 +56,8 @@ menu-edit-bidi-switch-text-direction =
 menu-view-sidebar =
     .label = Mwambaa upande
     .accesskey = u
+menu-view-bookmarks =
+    .label = Vialamisho
 menu-view-full-zoom =
     .label = Kuza
     .accesskey = K
@@ -75,6 +86,12 @@ menu-view-page-basic-style =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Ingiza Skrini Nzima
+    .accesskey = S
+menu-view-exit-full-screen =
+    .label = Toka kwenye Skrini Nzima
+    .accesskey = F
 menu-view-full-screen =
     .label = Skrini Nzima
     .accesskey = S
@@ -100,6 +117,9 @@ menu-history-undo-window-menu =
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = Vialamisho
+    .accesskey = V
 menu-bookmarks-show-all =
     .label = Onyesha Alamisho Zote
 menu-bookmarks-all-tabs =
@@ -140,6 +160,9 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Msaada
     .accesskey = M
+menu-help-keyboard-shortcuts =
+    .label = Njiamkato za Kibodi
+    .accesskey = N
 menu-help-troubleshooting-info =
     .label = Kusuluhisha Maelezo
     .accesskey = K
