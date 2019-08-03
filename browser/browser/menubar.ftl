@@ -8,21 +8,61 @@
 menu-file-new-tab =
     .label = لسان جديد
     .accesskey = ل
+menu-file-new-window =
+    .label = نافذة جديدة
+    .accesskey = ج
+menu-file-open-file =
+    .label = افتح ملفًا…
+    .accesskey = ف
 menu-file-close-window =
     .label = أغلق النافذة
     .accesskey = ن
+menu-file-print-setup =
+    .label = إعداد الصفحة…
+    .accesskey = ع
 menu-file-print-preview =
     .label = معاينة الطباعة
     .accesskey = ط
+menu-file-print =
+    .label = اطبع…
+    .accesskey = ط
+menu-file-go-offline =
+    .label = اعمل دون اتصال
+    .accesskey = ع
 
 ## Edit Menu
 
+menu-edit-find-on =
+    .label = ابحث في هذه الصفحة…
+    .accesskey = ب
+menu-edit-find-again =
+    .label = ابحث مجددًا
+    .accesskey = ب
 
 ## View Menu
 
 menu-view-sidebar =
     .label = الشريط الجانبي
     .accesskey = ط
+menu-view-bookmarks =
+    .label = العلامات
+menu-view-history-button =
+    .label = التأريخ
+menu-view-full-zoom =
+    .label = قرّب
+    .accesskey = ر
+menu-view-full-zoom-enlarge =
+    .label = قرّب
+    .accesskey = ق
+menu-view-full-zoom-reduce =
+    .label = بعّد
+    .accesskey = ب
+menu-view-full-zoom-reset =
+    .label = صفّر
+    .accesskey = ص
+menu-view-full-zoom-toggle =
+    .label = قرّب النص فقط
+    .accesskey = ن
 menu-view-page-style-menu =
     .label = طراز الصفحة
     .accesskey = ط
@@ -42,20 +82,60 @@ menu-view-full-screen =
 
 ##
 
+menu-view-show-all-tabs =
+    .label = أظهِر كل الألسنة
+    .accesskey = ك
 
 ## History Menu
 
+menu-history-show-all-history =
+    .label = أظهر كل التأريخ
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = علامات
+    .accesskey = ع
+menu-bookmarks-show-all =
+    .label = أظهِر كل العلامات
+menu-bookmarks-all-tabs =
+    .label = علّم كل الألسنة…
 menu-bookmarks-toolbar =
     .label = شريط العلامات
 
 ## Tools Menu
 
+menu-tools-downloads =
+    .label = التنزيلات
+    .accesskey = ز
+menu-tools-addons =
+    .label = الإضافات
+    .accesskey = ض
+menu-tools-sync-now =
+    .label = زامِن الآن
+    .accesskey = ز
+menu-tools-page-source =
+    .label = مصدر الصفحة
+    .accesskey = ح
+menu-tools-page-info =
+    .label = معلومات الصفحة
+    .accesskey = م
 
 ## Window Menu
 
+menu-window-menu =
+    .label = نافذة
+menu-window-bring-all-to-front =
+    .label = اجلب الكل للمقدمة
 
 ## Help Menu
 
+menu-help-troubleshooting-info =
+    .label = معلومات مواجهة الأعطال
+    .accesskey = ط
+menu-help-feedback-page =
+    .label = أرسِل تعليقًا…
+    .accesskey = ر
+menu-help-safe-mode-without-addons =
+    .label = أعِد التشغيل مع تعطيل الإضافات…
+    .accesskey = ش
