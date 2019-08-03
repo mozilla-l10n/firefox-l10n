@@ -56,6 +56,9 @@ menu-bookmarks-all-tabs =
 menu-tools-sync-sign-in =
     .label = { -sync-brand-short-name } میں سائن ان کریں…
     .accesskey = Y
+menu-tools-layout-debugger =
+    .label = لےآوٹ ڈیبگر
+    .accesskey = L
 
 ## Window Menu
 
