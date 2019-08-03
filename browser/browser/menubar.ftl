@@ -40,6 +40,9 @@ menu-file-email-link =
 menu-file-print =
     .label = In…
     .accesskey = P
+menu-file-go-offline =
+    .label = Làm việc ngoại tuyến
+    .accesskey = k
 
 ## Edit Menu
 
@@ -73,6 +76,9 @@ menu-edit-find-on =
 menu-edit-find-again =
     .label = Tìm lại
     .accesskey = g
+menu-edit-bidi-switch-text-direction =
+    .label = Chuyển hướng văn bản
+    .accesskey = w
 
 ## View Menu
 
@@ -85,12 +91,18 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = Tùy biến…
     .accesskey = C
+menu-view-sidebar =
+    .label = Thanh bên
+    .accesskey = e
 menu-view-bookmarks =
     .label = Trang đánh dấu
 menu-view-history-button =
     .label = Lịch sử
 menu-view-synced-tabs-sidebar =
     .label = Các thẻ đã đồng bộ
+menu-view-full-zoom =
+    .label = Thu phóng
+    .accesskey = Z
 menu-view-full-zoom-enlarge =
     .label = Phóng to
     .accesskey = I
@@ -103,10 +115,22 @@ menu-view-full-zoom-reset =
 menu-view-full-zoom-toggle =
     .label = Chỉ phóng to văn bản
     .accesskey = T
+menu-view-page-style-menu =
+    .label = Kiểu của trang
+    .accesskey = y
+menu-view-page-style-no-style =
+    .label = Không có kiểu
+    .accesskey = n
+menu-view-page-basic-style =
+    .label = Kiểu trang cơ bản
+    .accesskey = b
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Vào chế độ toàn màn hình
+    .accesskey = F
 menu-view-exit-full-screen =
     .label = Thoát chế độ toàn màn hình
     .accesskey = F
@@ -119,12 +143,17 @@ menu-view-full-screen =
 menu-view-show-all-tabs =
     .label = Hiện tất cả các thẻ
     .accesskey = A
+menu-view-bidi-switch-page-direction =
+    .label = Chuyển hướng trang
+    .accesskey = D
 
 ## History Menu
 
 menu-history =
     .label = Lịch sử
     .accesskey = s
+menu-history-show-all-history =
+    .label = Xem toàn bộ lịch sử
 menu-history-clear-recent-history =
     .label = Xóa lịch sử gần đây…
 menu-history-synced-tabs =
@@ -149,6 +178,8 @@ menu-bookmarks-toolbar =
     .label = Thanh đánh dấu
 menu-bookmarks-other =
     .label = Trang đánh dấu khác
+menu-bookmarks-mobile =
+    .label = Trang đánh dấu trên di động
 
 ## Tools Menu
 
@@ -167,6 +198,9 @@ menu-tools-sync-re-auth =
 menu-tools-web-developer =
     .label = Nhà phát triển Web
     .accesskey = W
+menu-tools-page-source =
+    .label = Mở mã nguồn trang
+    .accesskey = o
 menu-tools-page-info =
     .label = Thông tin về trang này
     .accesskey = I
@@ -194,9 +228,15 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Trợ giúp
     .accesskey = H
+menu-help-product =
+    .label = Trợ giúp { -brand-shorter-name }
+    .accesskey = H
 menu-help-show-tour =
     .label = Các tính năng cơ bản của { -brand-shorter-name }
     .accesskey = o
+menu-help-keyboard-shortcuts =
+    .label = Các phím tắt bàn phím
+    .accesskey = K
 menu-help-feedback-page =
     .label = Gửi phản hồi…
     .accesskey = S
