@@ -5,12 +5,18 @@
 
 ## File Menu
 
+menu-file =
+    .label = Fichièr
+    .accesskey = F
 menu-file-new-tab =
     .label = Onglet novèl
     .accesskey = t
 menu-file-new-window =
     .label = Fenèstra novèla
     .accesskey = n
+menu-file-close =
+    .label = Tampar
+    .accesskey = a
 menu-file-close-window =
     .label = Tampar la fenèstra
     .accesskey = f
@@ -29,6 +35,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Edicion
+    .accesskey = n
+menu-edit-undo =
+    .label = Anullar
+    .accesskey = u
+menu-edit-redo =
+    .label = Restablir
+    .accesskey = R
+menu-edit-cut =
+    .label = Talhar
+    .accesskey = T
+menu-edit-copy =
+    .label = Copiar
+    .accesskey = C
+menu-edit-paste =
+    .label = Pegar
+    .accesskey = P
+menu-edit-delete =
+    .label = Suprimir
+    .accesskey = S
+menu-edit-select-all =
+    .label = Seleccionar tot
+    .accesskey = t
 menu-edit-find-again =
     .label = Recercar lo seguent
     .accesskey = g
@@ -38,6 +68,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Afichatge
+    .accesskey = A
+menu-view-toolbars-menu =
+    .label = Barras d'aisinas
+    .accesskey = s
+menu-view-customize-toolbar =
+    .label = Panèl lateral
+    .accesskey = e
 menu-view-sidebar =
     .label = Panèl lateral
     .accesskey = e
@@ -123,9 +162,14 @@ menu-bookmarks-toolbar =
     .label = Barra de personala
 menu-bookmarks-other =
     .label = Autres marcapaginas
+menu-bookmarks-mobile =
+    .label = Marcapaginas del mobile
 
 ## Tools Menu
 
+menu-tools =
+    .label = Aisinas
+    .accesskey = A
 menu-tools-downloads =
     .label = Telecargaments
     .accesskey = T
@@ -147,6 +191,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Informacion sus la pagina
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Opcions
+           *[other] Preferéncias
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] f
+        }
 
 ## Window Menu
 
