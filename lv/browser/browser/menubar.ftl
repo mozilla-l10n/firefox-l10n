@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Fails
+    .accesskey = F
 menu-file-new-tab =
     .label = Jauna cilne
     .accesskey = c
@@ -25,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Atvērt failu…
     .accesskey = A
+menu-file-close =
+    .label = Aizvērt
+    .accesskey = z
 menu-file-close-window =
     .label = Aizvērt logu
     .accesskey = g
@@ -49,6 +55,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Rediģēt
+    .accesskey = e
+menu-edit-undo =
+    .label = Atsaukt
+    .accesskey = u
+menu-edit-redo =
+    .label = Pārdarīt
+    .accesskey = r
+menu-edit-cut =
+    .label = Izgriezt
+    .accesskey = t
+menu-edit-copy =
+    .label = Kopēt
+    .accesskey = K
+menu-edit-paste =
+    .label = Ielīmēt
+    .accesskey = I
+menu-edit-delete =
+    .label = Dzēst
+    .accesskey = D
+menu-edit-select-all =
+    .label = Iezīmēt visu
+    .accesskey = v
 menu-edit-find-on =
     .label = Atrast šajā lapā…
     .accesskey = A
@@ -61,6 +91,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Skats
+    .accesskey = S
+menu-view-toolbars-menu =
+    .label = Rīkjoslas
+    .accesskey = l
+menu-view-customize-toolbar =
+    .label = Pielāgot…
+    .accesskey = P
 menu-view-sidebar =
     .label = Sānu josla
     .accesskey = a
@@ -133,6 +172,8 @@ menu-history-synced-tabs =
     .label = Sinhronizētās cilnes
 menu-history-restore-last-session =
     .label = Atjaunot iepriekšējo sesiju
+menu-history-hidden-tabs =
+    .label = Slēptās cilnes
 menu-history-undo-menu =
     .label = Nesen aizvērtās cilnes
 menu-history-undo-window-menu =
@@ -151,9 +192,14 @@ menu-bookmarks-toolbar =
     .label = Grāmatzīmju rīkjosla
 menu-bookmarks-other =
     .label = Citas grāmatzīmes
+menu-bookmarks-mobile =
+    .label = Mobilās grāmatzīmes
 
 ## Tools Menu
 
+menu-tools =
+    .label = Rīki
+    .accesskey = R
 menu-tools-downloads =
     .label = Lejupielādes
     .accesskey = d
@@ -169,11 +215,28 @@ menu-tools-sync-now =
 menu-tools-sync-re-auth =
     .label = Savienoties un { -sync-brand-short-name }…
     .accesskey = S
+menu-tools-web-developer =
+    .label = Izstrādātāju rīki
+    .accesskey = T
 menu-tools-page-source =
     .label = Lapas pirmkods
     .accesskey = o
 menu-tools-page-info =
     .label = Informācija par lapu
+    .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Iestatījumi
+           *[other] Iestatījumi
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] m
+           *[other] m
+        }
+menu-tools-layout-debugger =
+    .label = Izkārtojuma atkļūdotājs
     .accesskey = I
 
 ## Window Menu
@@ -206,3 +269,9 @@ menu-help-feedback-page =
 menu-help-safe-mode-without-addons =
     .label = Pārstartēt ar deaktivētiem papildinājumiem…
     .accesskey = r
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Ziņot par maldinošu lapu…
+    .accesskey = d
