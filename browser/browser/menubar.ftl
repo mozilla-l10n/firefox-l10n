@@ -41,6 +41,9 @@ menu-edit-find-again =
 
 ## View Menu
 
+menu-view-customize-toolbar =
+    .label = خصّص…
+    .accesskey = ص
 menu-view-sidebar =
     .label = الشريط الجانبي
     .accesskey = ط
@@ -76,6 +79,12 @@ menu-view-page-basic-style =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = تحول إلى ملء الشاشة
+    .accesskey = ش
+menu-view-exit-full-screen =
+    .label = غادر ملء الشاشة
+    .accesskey = ش
 menu-view-full-screen =
     .label = ملء الشاشة
     .accesskey = ش
@@ -114,11 +123,17 @@ menu-tools-addons =
 menu-tools-sync-now =
     .label = زامِن الآن
     .accesskey = ز
+menu-tools-web-developer =
+    .label = مطوّري الوب
+    .accesskey = و
 menu-tools-page-source =
     .label = مصدر الصفحة
     .accesskey = ح
 menu-tools-page-info =
     .label = معلومات الصفحة
+    .accesskey = م
+menu-tools-layout-debugger =
+    .label = منقح تخطيط الصفحة
     .accesskey = م
 
 ## Window Menu
@@ -130,6 +145,9 @@ menu-window-bring-all-to-front =
 
 ## Help Menu
 
+menu-help =
+    .label = مساعدة
+    .accesskey = س
 menu-help-troubleshooting-info =
     .label = معلومات مواجهة الأعطال
     .accesskey = ط
