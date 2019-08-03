@@ -5,18 +5,32 @@
 
 ## File Menu
 
+menu-file =
+    .label = Faidhle
+    .accesskey = F
 menu-file-new-tab =
     .label = Taba ùr
     .accesskey = T
+menu-file-new-container-tab =
+    .label = Taba soithich ùr
+    .accesskey = b
 menu-file-new-window =
     .label = Uinneag ùr
     .accesskey = n
 menu-file-new-private-window =
     .label = Uinneag phrìobhaideach ùr
     .accesskey = U
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Fosgail ionad…
 menu-file-open-file =
     .label = Fosgail faidhle…
     .accesskey = o
+menu-file-close =
+    .label = Dùin
+    .accesskey = D
 menu-file-close-window =
     .label = Dùin an uinneag
     .accesskey = D
@@ -41,6 +55,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Deasaich
+    .accesskey = e
+menu-edit-undo =
+    .label = Neo-dhèan
+    .accesskey = N
+menu-edit-redo =
+    .label = Ath-dhèan
+    .accesskey = A
+menu-edit-cut =
+    .label = Gearr às
+    .accesskey = G
+menu-edit-copy =
+    .label = Dèan lethbhreac
+    .accesskey = c
+menu-edit-paste =
+    .label = Cuir ann
+    .accesskey = C
+menu-edit-delete =
+    .label = Sguab às
+    .accesskey = S
+menu-edit-select-all =
+    .label = Tagh a h-uile
+    .accesskey = T
 menu-edit-find-on =
     .label = Lorg san duilleag seo…
     .accesskey = L
@@ -53,6 +91,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Sealladh
+    .accesskey = S
+menu-view-toolbars-menu =
+    .label = Na bàraichean-inneal
+    .accesskey = N
+menu-view-customize-toolbar =
+    .label = Gnàthaich…
+    .accesskey = c
 menu-view-sidebar =
     .label = Am bàr-taoibh
     .accesskey = t
@@ -60,6 +107,8 @@ menu-view-bookmarks =
     .label = Comharran-lìn
 menu-view-history-button =
     .label = Eachdraidh
+menu-view-synced-tabs-sidebar =
+    .label = Tabaichean sioncronaichte
 menu-view-full-zoom =
     .label = Sùm
     .accesskey = S
@@ -84,6 +133,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Stoidhle bhunaiteach na duilleige
     .accesskey = b
+menu-view-charset =
+    .label = Còdachadh teacsa
+    .accesskey = C
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -116,6 +168,8 @@ menu-history-show-all-history =
     .label = Seall an eachdraidh gu lèir
 menu-history-clear-recent-history =
     .label = Glan an eachdraidh faisg ort…
+menu-history-synced-tabs =
+    .label = Tabaichean sioncronaichte
 menu-history-restore-last-session =
     .label = Aisig an seisean mu dheireadh
 menu-history-undo-menu =
@@ -134,15 +188,31 @@ menu-bookmarks-all-tabs =
     .label = Dèan comharra-lìn de gach taba…
 menu-bookmarks-toolbar =
     .label = Bàr nan comharra-lìn
+menu-bookmarks-other =
+    .label = Comharran-lìn eile
+menu-bookmarks-mobile =
+    .label = Comharran-lìn mobile
 
 ## Tools Menu
 
+menu-tools =
+    .label = Innealan
+    .accesskey = I
 menu-tools-downloads =
     .label = Luchdaidhean a-nuas
     .accesskey = d
 menu-tools-addons =
     .label = Tuilleadain
     .accesskey = a
+menu-tools-sync-sign-in =
+    .label = Clàraich a-steach gu { -sync-brand-short-name }…
+    .accesskey = Y
+menu-tools-sync-now =
+    .label = Sioncronaich an-dràsta
+    .accesskey = S
+menu-tools-sync-re-auth =
+    .label = Ath-cheangail ri { -sync-brand-short-name }…
+    .accesskey = r
 menu-tools-web-developer =
     .label = Leasaichear-lìn
     .accesskey = L
@@ -152,6 +222,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Fiosrachadh na duilleige
     .accesskey = i
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Roghainnean
+           *[other] Roghainnean
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] o
+           *[other] n
+        }
 
 ## Window Menu
 
@@ -165,6 +246,12 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Cobhair
     .accesskey = h
+menu-help-product =
+    .label = Cobhair { -brand-shorter-name }
+    .accesskey = h
+menu-help-show-tour =
+    .label = Turas { -brand-shorter-name }
+    .accesskey = u
 menu-help-keyboard-shortcuts =
     .label = Ath-ghoiridean a' mheur-chlàir
     .accesskey = A
@@ -177,3 +264,12 @@ menu-help-feedback-page =
 menu-help-safe-mode-without-addons =
     .label = Ath-thòisich leis na tuilleadan air an cur à comas…
     .accesskey = r
+menu-help-safe-mode-with-addons =
+    .label = Ath-thòisich leis na tuilleadan an comas
+    .accesskey = t
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Dèan aithris air làrach ionnsaighe…
+    .accesskey = D
