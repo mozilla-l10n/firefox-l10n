@@ -183,6 +183,8 @@ menu-bookmarks-toolbar =
     .label = 북마크 모음
 menu-bookmarks-other =
     .label = 다른 북마크
+menu-bookmarks-mobile =
+    .label = 모바일 북마크
 
 ## Tools Menu
 
