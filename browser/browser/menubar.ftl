@@ -133,6 +133,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Vanleg
     .accesskey = V
+menu-view-charset =
+    .label = Teiknkoding
+    .accesskey = T
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
