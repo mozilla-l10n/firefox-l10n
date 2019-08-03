@@ -11,6 +11,14 @@ menu-file-new-tab =
 menu-file-new-window =
     .label = Nytt vindu
     .accesskey = N
+menu-file-new-private-window =
+    .label = Nytt privat vindu
+    .accesskey = r
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Åpne adresse …
 menu-file-open-file =
     .label = Åpne fil …
     .accesskey = Å
@@ -20,6 +28,9 @@ menu-file-close-window =
 menu-file-save-page =
     .label = Lagre side som …
     .accesskey = a
+menu-file-print-setup =
+    .label = Utskriftsformat …
+    .accesskey = k
 menu-file-print-preview =
     .label = Forhåndsvis side
     .accesskey = v
@@ -51,6 +62,8 @@ menu-view-bookmarks =
     .label = Bokmerker
 menu-view-history-button =
     .label = Historikk
+menu-view-synced-tabs-sidebar =
+    .label = Synkroniserte faner
 menu-view-full-zoom =
     .label = Skalering
     .accesskey = r
@@ -75,16 +88,28 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Vanlig
     .accesskey = V
+menu-view-charset =
+    .label = Tekstkoding
+    .accesskey = T
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Åpne fullskjerm
+    .accesskey = n
+menu-view-exit-full-screen =
+    .label = Avslutt fullskjerm
+    .accesskey = v
 menu-view-full-screen =
     .label = Fullskjerm
     .accesskey = F
 
 ##
 
+menu-view-show-all-tabs =
+    .label = Vis alle faner
+    .accesskey = V
 menu-view-bidi-switch-page-direction =
     .label = Bytt tekstretning på siden
     .accesskey = r
@@ -96,14 +121,24 @@ menu-history =
     .accesskey = s
 menu-history-show-all-history =
     .label = Vis all historikk
+menu-history-clear-recent-history =
+    .label = Slett nylig historikk …
+menu-history-synced-tabs =
+    .label = Synkroniserte faner
+menu-history-restore-last-session =
+    .label = Gjenopprett forrige programøkt
 menu-history-undo-menu =
     .label = Nylig lukkede faner
+menu-history-undo-window-menu =
+    .label = Nylig lukkede vinduer
 
 ## Bookmarks Menu
 
 menu-bookmarks-menu =
     .label = Bokmerker
     .accesskey = B
+menu-bookmarks-show-all =
+    .label = Vis alle bokmerker
 menu-bookmarks-all-tabs =
     .label = Bokmerk alle faner …
 menu-bookmarks-toolbar =
@@ -117,6 +152,21 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Utvidelser
     .accesskey = U
+menu-tools-sync-sign-in =
+    .label = Logg inn på { -sync-brand-short-name } …
+    .accesskey = L
+menu-tools-sync-now =
+    .label = Synkroniser nå
+    .accesskey = r
+menu-tools-sync-re-auth =
+    .label = Koble til { -sync-brand-short-name } på nytt …
+    .accesskey = o
+menu-tools-web-developer =
+    .label = Nettsideutvikling
+    .accesskey = t
+menu-tools-page-source =
+    .label = Kildekode
+    .accesskey = d
 menu-tools-page-info =
     .label = Sideinformasjon
     .accesskey = d
@@ -130,3 +180,27 @@ menu-window-bring-all-to-front =
 
 ## Help Menu
 
+menu-help =
+    .label = Hjelp
+    .accesskey = H
+menu-help-show-tour =
+    .label = Omvisning i { -brand-shorter-name }
+    .accesskey = m
+menu-help-keyboard-shortcuts =
+    .label = Tastatursnarveier
+    .accesskey = T
+menu-help-troubleshooting-info =
+    .label = Feilsøking
+    .accesskey = F
+menu-help-feedback-page =
+    .label = Gi tilbakemelding …
+    .accesskey = G
+menu-help-safe-mode-with-addons =
+    .label = Start på nytt med utvidelser påslått
+    .accesskey = S
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Rapporter villedende nettsted …
+    .accesskey = R
