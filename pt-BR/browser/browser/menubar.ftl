@@ -228,3 +228,6 @@ menu-help-product =
 menu-help-troubleshooting-info =
     .label = Informações para resolver problemas
     .accesskey = I
+menu-help-feedback-page =
+    .label = Enviar opinião…
+    .accesskey = n
