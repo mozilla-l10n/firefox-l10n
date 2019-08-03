@@ -5,12 +5,21 @@
 
 ## File Menu
 
+menu-file =
+    .label = Dosiye
+    .accesskey = D
 menu-file-new-tab =
     .label = Agafishi Gashya
     .accesskey = f
+menu-file-new-window =
+    .label = Idirisha Rishya
+    .accesskey = R
 menu-file-open-file =
     .label = Gufungura Dosiye...
     .accesskey = f
+menu-file-close =
+    .label = Gufunga
+    .accesskey = G
 menu-file-save-page =
     .label = Kubika Paji Muri...
     .accesskey = b
@@ -29,6 +38,24 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Guhindura
+    .accesskey = h
+menu-edit-redo =
+    .label = Gusubiramo
+    .accesskey = r
+menu-edit-cut =
+    .label = Gukata
+    .accesskey = t
+menu-edit-paste =
+    .label = Komeka
+    .accesskey = m
+menu-edit-delete =
+    .label = Gusiba
+    .accesskey = b
+menu-edit-select-all =
+    .label = Guhitamo Byose
+    .accesskey = h
 menu-edit-find-on =
     .label = Gushaka kuri Iyi Paji...
     .accesskey = P
@@ -38,6 +65,15 @@ menu-edit-find-again =
 
 ## View Menu
 
+menu-view =
+    .label = Kureba
+    .accesskey = r
+menu-view-toolbars-menu =
+    .label = Imyanyabikoresho
+    .accesskey = y
+menu-view-customize-toolbar =
+    .label = Kuboneza...
+    .accesskey = b
 menu-view-sidebar =
     .label = Umwanyaruhande
     .accesskey = a
@@ -84,6 +120,9 @@ menu-bookmarks-toolbar =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Ibikoresho
+    .accesskey = k
 menu-tools-downloads =
     .label = Ibikururwa
     .accesskey = I
