@@ -157,9 +157,6 @@ private-browsing-description2 =
     extensão não irá funcionar durante a navegação privada e não irá ter acesso às suas atividades online
     lá. Fizemos esta alteração para manter a sua navegação privada, privada.
     <label data-l10n-name = "private-browsing-learn-more">Saber como gerir definições de extensões.</ label>
-extensions-view-discover =
-    .name = Obter extras
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Recomendações
     .tooltiptext = { extensions-view-discopane.name }
@@ -316,6 +313,16 @@ release-notes-addon-button = Notas de lançamento
 permissions-addon-button = Permissões
 addons-enabled-heading = Ativados
 addons-disabled-heading = Desativados
+extension-enabled-heading = Ativada
+extension-disabled-heading = Desativada
+theme-enabled-heading = Ativado
+theme-disabled-heading = Desativado
+plugin-enabled-heading = Ativado
+plugin-disabled-heading = Desativado
+dictionary-enabled-heading = Ativado
+dictionary-disabled-heading = Desativado
+locale-enabled-heading = Ativada
+locale-disabled-heading = Desativada
 ask-to-activate-button = Solicitar ativação
 always-activate-button = Ativar sempre
 never-activate-button = Nunca ativar
