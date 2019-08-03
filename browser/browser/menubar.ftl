@@ -99,6 +99,8 @@ menu-history =
     .accesskey = ה
 menu-history-clear-recent-history =
     .label = ניקוי היסטוריה אחרונה…
+menu-history-hidden-tabs =
+    .label = לשוניות מוסתרות
 menu-history-undo-menu =
     .label = לשוניות שנסגרו לאחרונה
 menu-history-undo-window-menu =
@@ -133,6 +135,9 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = מידע על הדף
     .accesskey = מ
+menu-tools-layout-debugger =
+    .label = ניפוי שגיאות פריסה
+    .accesskey = פ
 
 ## Window Menu
 
@@ -152,6 +157,9 @@ menu-help-keyboard-shortcuts =
 menu-help-troubleshooting-info =
     .label = מידע לפתרון בעיות
     .accesskey = מ
+menu-help-feedback-page =
+    .label = שליחת משוב…
+    .accesskey = ש
 menu-help-safe-mode-without-addons =
     .label = הפעלה מחדש עם תוספות מנוטרלות…
     .accesskey = מ
