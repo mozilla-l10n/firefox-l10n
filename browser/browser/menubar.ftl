@@ -39,3 +39,6 @@ menu-view-page-basic-style =
 
 ## Help Menu
 
+menu-help-troubleshooting-info =
+    .label = Problēmu novēršanas informācija
+    .accesskey = P
