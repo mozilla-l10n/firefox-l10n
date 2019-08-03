@@ -49,6 +49,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Śišćaś…
     .accesskey = i
+menu-file-import-from-another-browser =
+    .label = Z drugego wobglědowaka importěrowaś…
+    .accesskey = i
 menu-file-go-offline =
     .label = Offline źełaś
     .accesskey = O
@@ -172,6 +175,8 @@ menu-history-synced-tabs =
     .label = Synchronizěrowane rejtarki
 menu-history-restore-last-session =
     .label = Pjerwjejšne pósejźenje wótnowiś
+menu-history-hidden-tabs =
+    .label = Schowane rejtarki
 menu-history-undo-menu =
     .label = Rowno zacynjone rejtarki
 menu-history-undo-window-menu =
@@ -233,6 +238,9 @@ menu-preferences =
             [windows] N
            *[other] N
         }
+menu-tools-layout-debugger =
+    .label = Layout Debugger
+    .accesskey = L
 
 ## Window Menu
 
