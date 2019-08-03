@@ -8,6 +8,11 @@
 menu-file-new-tab =
     .label = ແທັບໃຫມ່
     .accesskey = T
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = ເປີດຕຳແຫນ່ງທີ່ຕັ້ງ…
 menu-file-save-page =
     .label = ບັນທຶກຫນ້ານີ້ໄວ້ທີ່...
     .accesskey = A
