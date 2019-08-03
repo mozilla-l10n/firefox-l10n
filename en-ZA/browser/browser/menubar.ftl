@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = File
+    .accesskey = F
 menu-file-new-tab =
     .label = New Tab
     .accesskey = T
@@ -14,9 +17,17 @@ menu-file-new-window =
 menu-file-new-private-window =
     .label = New Private Window
     .accesskey = W
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Open Location…
 menu-file-open-file =
     .label = Open File…
     .accesskey = O
+menu-file-close =
+    .label = Close
+    .accesskey = C
 menu-file-close-window =
     .label = Close Window
     .accesskey = d
@@ -41,6 +52,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Edit
+    .accesskey = E
+menu-edit-undo =
+    .label = Undo
+    .accesskey = U
+menu-edit-redo =
+    .label = Redo
+    .accesskey = R
+menu-edit-cut =
+    .label = Cut
+    .accesskey = t
+menu-edit-copy =
+    .label = Copy
+    .accesskey = C
+menu-edit-paste =
+    .label = Paste
+    .accesskey = P
+menu-edit-delete =
+    .label = Delete
+    .accesskey = D
+menu-edit-select-all =
+    .label = Select All
+    .accesskey = A
 menu-edit-find-on =
     .label = Find in This Page…
     .accesskey = F
@@ -53,11 +88,24 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = View
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = Toolbars
+    .accesskey = T
+menu-view-customize-toolbar =
+    .label = Customise…
+    .accesskey = C
 menu-view-sidebar =
     .label = Sidebar
     .accesskey = e
 menu-view-bookmarks =
     .label = Bookmarks
+menu-view-history-button =
+    .label = History
+menu-view-synced-tabs-sidebar =
+    .label = Synced Tabs
 menu-view-full-zoom =
     .label = Zoom
     .accesskey = Z
@@ -82,6 +130,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Basic Page Style
     .accesskey = B
+menu-view-charset =
+    .label = Text Encoding
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -110,6 +161,14 @@ menu-view-bidi-switch-page-direction =
 menu-history =
     .label = History
     .accesskey = s
+menu-history-show-all-history =
+    .label = Show All History
+menu-history-clear-recent-history =
+    .label = Clear Recent History…
+menu-history-synced-tabs =
+    .label = Synced Tabs
+menu-history-restore-last-session =
+    .label = Restore Previous Session
 menu-history-undo-menu =
     .label = Recently Closed Tabs
 menu-history-undo-window-menu =
@@ -126,18 +185,29 @@ menu-bookmarks-all-tabs =
     .label = Bookmark All Tabs…
 menu-bookmarks-toolbar =
     .label = Bookmarks Toolbar
+menu-bookmarks-other =
+    .label = Other Bookmarks
 
 ## Tools Menu
 
+menu-tools =
+    .label = Tools
+    .accesskey = T
 menu-tools-downloads =
     .label = Downloads
     .accesskey = D
 menu-tools-addons =
     .label = Add-ons
     .accesskey = A
+menu-tools-sync-sign-in =
+    .label = Sign In To { -sync-brand-short-name }…
+    .accesskey = Y
 menu-tools-sync-now =
     .label = Sync Now
     .accesskey = S
+menu-tools-sync-re-auth =
+    .label = Reconnect to { -sync-brand-short-name }…
+    .accesskey = R
 menu-tools-web-developer =
     .label = Web Developer
     .accesskey = W
@@ -147,6 +217,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Page Info
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Options
+           *[other] Preferences
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
 
 ## Window Menu
 
@@ -160,6 +241,12 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Help
     .accesskey = H
+menu-help-product =
+    .label = { -brand-shorter-name } Help
+    .accesskey = H
+menu-help-show-tour =
+    .label = { -brand-shorter-name } Tour
+    .accesskey = o
 menu-help-keyboard-shortcuts =
     .label = Keyboard Shortcuts
     .accesskey = K
@@ -171,4 +258,7 @@ menu-help-feedback-page =
     .accesskey = S
 menu-help-safe-mode-without-addons =
     .label = Restart with Add-ons Disabled…
+    .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = Restart with Add-ons Enabled
     .accesskey = R
