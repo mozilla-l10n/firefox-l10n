@@ -8,12 +8,20 @@
 menu-file-new-tab =
     .label = Ny flik
     .accesskey = f
+menu-file-new-container-tab =
+    .label = Ny innehållsflik
+    .accesskey = k
 menu-file-new-window =
     .label = Nytt fönster
     .accesskey = N
 menu-file-new-private-window =
     .label = Nytt privat fönster
     .accesskey = t
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Öppna adress…
 menu-file-open-file =
     .label = Öppna fil…
     .accesskey = Ö
@@ -60,6 +68,8 @@ menu-view-bookmarks =
     .label = Bokmärken
 menu-view-history-button =
     .label = Historik
+menu-view-synced-tabs-sidebar =
+    .label = Synkade Flikar
 menu-view-full-zoom =
     .label = Zoom
     .accesskey = Z
@@ -84,6 +94,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Normal sidstil
     .accesskey = N
+menu-view-charset =
+    .label = Textkodning
+    .accesskey = k
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -116,6 +129,8 @@ menu-history-show-all-history =
     .label = Visa all historik
 menu-history-clear-recent-history =
     .label = Rensa ut tidigare historik…
+menu-history-synced-tabs =
+    .label = Synkade flikar
 menu-history-restore-last-session =
     .label = Återställ föregående session
 menu-history-undo-menu =
@@ -134,6 +149,8 @@ menu-bookmarks-all-tabs =
     .label = Bokmärke för alla flikar…
 menu-bookmarks-toolbar =
     .label = Bokmärkesfältet
+menu-bookmarks-other =
+    .label = Andra bokmärken
 
 ## Tools Menu
 
@@ -143,6 +160,9 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Tillägg
     .accesskey = T
+menu-tools-sync-sign-in =
+    .label = Logga in till { -sync-brand-short-name }…
+    .accesskey = Y
 menu-tools-sync-now =
     .label = Synka nu
     .accesskey = n
@@ -171,6 +191,12 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Hjälp
     .accesskey = H
+menu-help-product =
+    .label = { -brand-shorter-name } Hjälp
+    .accesskey = H
+menu-help-show-tour =
+    .label = { -brand-shorter-name }-guide
+    .accesskey = d
 menu-help-keyboard-shortcuts =
     .label = Tangentbordskommandon
     .accesskey = T
@@ -183,3 +209,12 @@ menu-help-feedback-page =
 menu-help-safe-mode-without-addons =
     .label = Starta om utan tillägg…
     .accesskey = S
+menu-help-safe-mode-with-addons =
+    .label = Starta om med tillägg aktiverade
+    .accesskey = S
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Rapportera vilseledande webbplats…
+    .accesskey = d
