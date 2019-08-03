@@ -35,6 +35,8 @@ menu-tools-web-developer =
 
 menu-window-menu =
     .label = Cửa sổ
+menu-window-bring-all-to-front =
+    .label = Đưa tất cả ra phía trước
 
 ## Help Menu
 
