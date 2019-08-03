@@ -11,6 +11,9 @@ menu-file-new-tab =
 menu-file-new-window =
     .label = नव विंडो
     .accesskey = N
+menu-file-new-private-window =
+    .label = नया निज विंडो (W)
+    .accesskey = W
 menu-file-open-file =
     .label = फ़ाइल खोलू…
     .accesskey = O
@@ -20,6 +23,9 @@ menu-file-close-window =
 menu-file-save-page =
     .label = पृष्ठ एहिना सहेजू…
     .accesskey = A
+menu-file-email-link =
+    .label = कड़ी ईमेल करू (E)…
+    .accesskey = E
 menu-file-print-setup =
     .label = पृष्ठ सेटअप…
     .accesskey = u
@@ -29,6 +35,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = छापू…
     .accesskey = P
+menu-file-go-offline =
+    .label = ऑफ़लाइन काम करू (k)
+    .accesskey = k
 
 ## Edit Menu
 
@@ -47,6 +56,8 @@ menu-edit-bidi-switch-text-direction =
 menu-view-sidebar =
     .label = बाज़ू पट्टी
     .accesskey = e
+menu-view-bookmarks =
+    .label = पुस्तकचिह्न
 menu-view-full-zoom =
     .label = पैघ-छोट करू
     .accesskey = Z
@@ -100,6 +111,9 @@ menu-history-undo-window-menu =
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = पुस्तकचिह्न (B)
+    .accesskey = B
 menu-bookmarks-show-all =
     .label = सभटा पुस्तकचिह्न केँ देखाउ
 menu-bookmarks-all-tabs =
