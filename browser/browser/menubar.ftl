@@ -74,6 +74,9 @@ menu-bookmarks-all-tabs =
 menu-tools-downloads =
     .label = Downloads
     .accesskey = D
+menu-tools-sync-now =
+    .label = Sincronizar agora
+    .accesskey = n
 
 ## Window Menu
 
