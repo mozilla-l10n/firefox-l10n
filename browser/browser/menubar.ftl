@@ -52,6 +52,9 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit-find-on =
+    .label = Serĉi en tiu ĉi paĝo…
+    .accesskey = S
 menu-edit-find-again =
     .label = Serĉi denove
     .accesskey = e
