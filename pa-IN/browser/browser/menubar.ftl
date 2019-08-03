@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = ਫਾਈਲ
+    .accesskey = F
 menu-file-new-tab =
     .label = ਨਵੀਂ ਟੈਬ
     .accesskey = T
@@ -25,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = …ਫਾਈਲ ਨੂੰ ਖੋਲ੍ਹੋ
     .accesskey = O
+menu-file-close =
+    .label = ਬੰਦ ਕਰੋ
+    .accesskey = C
 menu-file-close-window =
     .label = ਵਿੰਡੋ ਨੂੰ ਬੰਦ ਕਰੋ
     .accesskey = d
@@ -34,24 +40,66 @@ menu-file-save-page =
 menu-file-email-link =
     .label = …ਲਿੰਕ ਨੂੰ ਈਮੇਲ ਕਰੋ
     .accesskey = E
+menu-file-print-setup =
+    .label = …ਸਫ਼ੇ ਦਾ ਸੈਟਅੱਪ
+    .accesskey = u
 menu-file-print-preview =
     .label = ਪਰਿੰਟ ਝਲਕ
     .accesskey = v
+menu-file-print =
+    .label = …ਪਰਿੰਟ ਕਰੋ
+    .accesskey = P
 menu-file-go-offline =
     .label = ਆਫਲਾਈਨ ਕੰਮ ਕਰੋ
     .accesskey = w
 
 ## Edit Menu
 
+menu-edit =
+    .label = ਸੋਧੋ
+    .accesskey = E
+menu-edit-undo =
+    .label = ਵਾਪਸ
+    .accesskey = U
+menu-edit-redo =
+    .label = ਮੁੜ-ਪਹਿਲਾਂ
+    .accesskey = R
+menu-edit-cut =
+    .label = ਕੱਟੋ
+    .accesskey = t
+menu-edit-copy =
+    .label = ਕਾਪੀ ਕਰੋ
+    .accesskey = C
+menu-edit-paste =
+    .label = ਚੇਪੋ
+    .accesskey = P
+menu-edit-delete =
+    .label = ਹਟਾਓ
+    .accesskey = D
+menu-edit-select-all =
+    .label = ਸਭ ਚੁਣੋ
+    .accesskey = A
 menu-edit-find-on =
     .label = …ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਲੱਭੋ
     .accesskey = F
 menu-edit-find-again =
     .label = ਮੁੜ ਖੋਜ
     .accesskey = g
+menu-edit-bidi-switch-text-direction =
+    .label = ਲਿਖਤ ਦੀ ਦਿਸ਼ਾ ਬਦਲੋ
+    .accesskey = w
 
 ## View Menu
 
+menu-view =
+    .label = ਵੇਖੋ
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = ਟੂਲਬਾਰ
+    .accesskey = T
+menu-view-customize-toolbar =
+    .label = …ਪਸੰਦ
+    .accesskey = C
 menu-view-sidebar =
     .label = ਸਾਈਡਬਾਰ
     .accesskey = e
@@ -85,6 +133,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = ਡਿਫਾਲਟ ਸਫ਼ੇ ਦਾ ਸਟਾਇਲ
     .accesskey = b
+menu-view-charset =
+    .label = ਟੈਕਸਟ ਇੰਕੋਡਿੰਗ
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -113,10 +164,16 @@ menu-view-bidi-switch-page-direction =
 menu-history =
     .label = ਅਤੀਤ
     .accesskey = s
+menu-history-show-all-history =
+    .label = ਸਾਰੇ ਅਤੀਤ ਨੂੰ ਵੇਖੋ
 menu-history-clear-recent-history =
     .label = …ਤਾਜ਼ਾ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰੋ
 menu-history-synced-tabs =
     .label = ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ
+menu-history-restore-last-session =
+    .label = ਪਿਛਲੇ ਸ਼ੈਸ਼ਨ ਨੂੰ ਬਹਾਲ ਕਰੋ
+menu-history-hidden-tabs =
+    .label = ਟੈਬਾਂ ਲੁਕਾਓ
 menu-history-undo-menu =
     .label = ਤਾਜ਼ਾ ਖੋਲ੍ਹੀਆਂ ਟੈਬਾਂ
 menu-history-undo-window-menu =
@@ -140,6 +197,9 @@ menu-bookmarks-mobile =
 
 ## Tools Menu
 
+menu-tools =
+    .label = ਟੂਲ
+    .accesskey = T
 menu-tools-downloads =
     .label = ਡਾਊਨਲੋਡ
     .accesskey = D
@@ -161,12 +221,36 @@ menu-tools-web-developer =
 menu-tools-page-source =
     .label = ਸਫ਼ੇ ਦਾ ਸਰੋਤ
     .accesskey = o
+menu-tools-page-info =
+    .label = ਸਫ਼ੇ ਦੀ ਜਾਣਕਾਰੀ
+    .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] ਚੋਣਾਂ
+           *[other] ਮੇਰੀ ਪਸੰਦ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
+menu-tools-layout-debugger =
+    .label = ਲੇਆਉਟ ਡੀਬੱਗਰ
+    .accesskey = L
 
 ## Window Menu
 
+menu-window-menu =
+    .label = ਵਿੰਡੋ
+menu-window-bring-all-to-front =
+    .label = ਸਭ ਤੋਂ ਅੱਗੇ ਲਿਆਓ
 
 ## Help Menu
 
+menu-help =
+    .label = ਮਦਦ
+    .accesskey = H
 menu-help-product =
     .label = { -brand-shorter-name } ਮਦਦ
     .accesskey = H
