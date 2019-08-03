@@ -8,6 +8,12 @@
 menu-file-close-window =
     .label = Cerrar ventana
     .accesskey = v
+menu-file-print-setup =
+    .label = Configurar página…
+    .accesskey = p
+menu-file-print =
+    .label = Imprimir…
+    .accesskey = I
 menu-file-go-offline =
     .label = Trabajar sin conexión
     .accesskey = x
@@ -17,6 +23,9 @@ menu-file-go-offline =
 
 ## View Menu
 
+menu-view-sidebar =
+    .label = Barra lateral
+    .accesskey = l
 menu-view-page-style-menu =
     .label = Estilo de página
     .accesskey = E
@@ -36,6 +45,9 @@ menu-view-full-screen =
 
 ##
 
+menu-view-show-all-tabs =
+    .label = Mostrar todas las pestañas
+    .accesskey = t
 
 ## History Menu
 
@@ -52,6 +64,10 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Marcadores
     .accesskey = M
+menu-bookmarks-show-all =
+    .label = Mostrar todos los marcadores
+menu-bookmarks-all-tabs =
+    .label = Agregar las pestañas abiertas…
 menu-bookmarks-toolbar =
     .label = Marcadores
 
