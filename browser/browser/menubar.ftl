@@ -26,6 +26,8 @@ menu-view-bookmarks =
     .label = Trang đánh dấu
 menu-view-history-button =
     .label = Lịch sử
+menu-view-synced-tabs-sidebar =
+    .label = Các thẻ đã đồng bộ
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -38,6 +40,8 @@ menu-view-history-button =
 
 menu-history-clear-recent-history =
     .label = Xóa lịch sử gần đây…
+menu-history-synced-tabs =
+    .label = Các thẻ đã đồng bộ
 menu-history-restore-last-session =
     .label = Khôi phục phiên làm việc trước
 menu-history-undo-menu =
@@ -47,6 +51,8 @@ menu-history-undo-window-menu =
 
 ## Bookmarks Menu
 
+menu-bookmarks-show-all =
+    .label = Xem tất cả trang đánh dấu
 menu-bookmarks-all-tabs =
     .label = Đánh dấu tất cả các thẻ…
 menu-bookmarks-toolbar =
