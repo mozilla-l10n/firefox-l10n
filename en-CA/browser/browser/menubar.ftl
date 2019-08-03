@@ -8,9 +8,20 @@
 menu-file-new-tab =
     .label = New Tab
     .accesskey = T
+menu-file-new-container-tab =
+    .label = New Container Tab
+    .accesskey = b
 menu-file-new-window =
     .label = New Window
     .accesskey = N
+menu-file-new-private-window =
+    .label = New Private Window
+    .accesskey = W
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Open Location…
 menu-file-open-file =
     .label = Open File…
     .accesskey = O
@@ -20,6 +31,9 @@ menu-file-close-window =
 menu-file-save-page =
     .label = Save Page As…
     .accesskey = A
+menu-file-email-link =
+    .label = Email Link…
+    .accesskey = E
 menu-file-print-setup =
     .label = Page Setup…
     .accesskey = u
@@ -29,6 +43,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Print…
     .accesskey = P
+menu-file-go-offline =
+    .label = Work Offline
+    .accesskey = k
 
 ## Edit Menu
 
@@ -51,6 +68,8 @@ menu-view-bookmarks =
     .label = Bookmarks
 menu-view-history-button =
     .label = History
+menu-view-synced-tabs-sidebar =
+    .label = Synced Tabs
 menu-view-full-zoom =
     .label = Zoom
     .accesskey = Z
@@ -69,10 +88,19 @@ menu-view-full-zoom-toggle =
 menu-view-page-style-menu =
     .label = Page Style
     .accesskey = y
+menu-view-charset =
+    .label = Text Encoding
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Enter Full Screen
+    .accesskey = F
+menu-view-exit-full-screen =
+    .label = Exit Full Screen
+    .accesskey = F
 menu-view-full-screen =
     .label = Full Screen
     .accesskey = F
@@ -95,6 +123,8 @@ menu-history-show-all-history =
     .label = Show All History
 menu-history-clear-recent-history =
     .label = Clear Recent History…
+menu-history-synced-tabs =
+    .label = Synced Tabs
 menu-history-restore-last-session =
     .label = Restore Previous Session
 menu-history-undo-menu =
@@ -113,6 +143,10 @@ menu-bookmarks-all-tabs =
     .label = Bookmark All Tabs…
 menu-bookmarks-toolbar =
     .label = Bookmarks Toolbar
+menu-bookmarks-other =
+    .label = Other Bookmarks
+menu-bookmarks-mobile =
+    .label = Mobile Bookmarks
 
 ## Tools Menu
 
@@ -122,6 +156,15 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Add-ons
     .accesskey = A
+menu-tools-sync-sign-in =
+    .label = Sign In To { -sync-brand-short-name }…
+    .accesskey = Y
+menu-tools-sync-re-auth =
+    .label = Reconnect to { -sync-brand-short-name }…
+    .accesskey = R
+menu-tools-web-developer =
+    .label = Web Developer
+    .accesskey = W
 menu-tools-page-source =
     .label = Page Source
     .accesskey = o
@@ -141,6 +184,15 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Help
     .accesskey = H
+menu-help-product =
+    .label = { -brand-shorter-name } Help
+    .accesskey = H
+menu-help-show-tour =
+    .label = { -brand-shorter-name } Tour
+    .accesskey = o
+menu-help-keyboard-shortcuts =
+    .label = Keyboard Shortcuts
+    .accesskey = K
 menu-help-troubleshooting-info =
     .label = Troubleshooting Information
     .accesskey = T
@@ -150,3 +202,12 @@ menu-help-feedback-page =
 menu-help-safe-mode-without-addons =
     .label = Restart with Add-ons Disabled…
     .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = Restart with Add-ons Enabled
+    .accesskey = R
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Report deceptive site…
+    .accesskey = d
