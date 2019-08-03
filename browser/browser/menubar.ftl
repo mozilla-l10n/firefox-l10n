@@ -43,6 +43,12 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit-find-on =
+    .label = Rechercher dans la page…
+    .accesskey = h
+menu-edit-find-again =
+    .label = Rechercher le suivant
+    .accesskey = v
 menu-edit-bidi-switch-text-direction =
     .label = Changer le sens du texte
     .accesskey = x
@@ -52,6 +58,8 @@ menu-edit-bidi-switch-text-direction =
 menu-view-sidebar =
     .label = Panneau latéral
     .accesskey = e
+menu-view-bookmarks =
+    .label = Marque-pages
 menu-view-history-button =
     .label = Historique
 menu-view-synced-tabs-sidebar =
@@ -80,6 +88,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Style de base de la page
     .accesskey = b
+menu-view-charset =
+    .label = Encodage du texte
+    .accesskey = E
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -173,9 +184,21 @@ menu-window-bring-all-to-front =
 
 ## Help Menu
 
+menu-help =
+    .label = Aide
+    .accesskey = e
+menu-help-product =
+    .label = Aide de { -brand-shorter-name }
+    .accesskey = A
+menu-help-show-tour =
+    .label = Visite guidée de { -brand-shorter-name }
+    .accesskey = V
 menu-help-keyboard-shortcuts =
     .label = Raccourcis clavier
     .accesskey = o
+menu-help-troubleshooting-info =
+    .label = Informations de dépannage
+    .accesskey = I
 menu-help-feedback-page =
     .label = Donner votre avis…
     .accesskey = D
