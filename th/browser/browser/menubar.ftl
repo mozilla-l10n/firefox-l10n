@@ -11,6 +11,8 @@
 
 ## View Menu
 
+menu-view-bookmarks =
+    .label = ที่คั่นหน้า
 menu-view-history-button =
     .label = ประวัติ
 
