@@ -8,6 +8,9 @@
 menu-file-new-tab =
     .label = Tab Baru
     .accesskey = T
+menu-file-new-container-tab =
+    .label = Tab Kontainer Baru
+    .accesskey = K
 menu-file-new-window =
     .label = Jendela Baru
     .accesskey = J
@@ -62,6 +65,8 @@ menu-view-bookmarks =
     .label = Markah
 menu-view-history-button =
     .label = Riwayat
+menu-view-synced-tabs-sidebar =
+    .label = Tab yang Disinkronkan
 menu-view-full-zoom =
     .label = Perbesaran
     .accesskey = b
@@ -86,10 +91,19 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Gaya Standar Laman
     .accesskey = S
+menu-view-charset =
+    .label = Pengodean Teks
+    .accesskey = o
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Masuk ke Mode Layar Penuh
+    .accesskey = P
+menu-view-exit-full-screen =
+    .label = Keluar dari Mode Layar Penuh
+    .accesskey = K
 menu-view-full-screen =
     .label = Layar Penuh
     .accesskey = P
@@ -112,6 +126,8 @@ menu-history-show-all-history =
     .label = Tampilkan Semua Riwayat
 menu-history-clear-recent-history =
     .label = Bersihkan Riwayat Terakhir
+menu-history-synced-tabs =
+    .label = Tab yang Disinkronkan
 menu-history-restore-last-session =
     .label = Pulihkan Sesi Sebelumnya
 menu-history-hidden-tabs =
@@ -132,6 +148,8 @@ menu-bookmarks-all-tabs =
     .label = Markahi Semua Tab…
 menu-bookmarks-toolbar =
     .label = Bilah Alat Markah
+menu-bookmarks-other =
+    .label = Markah Lain
 
 ## Tools Menu
 
@@ -141,6 +159,9 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Pengaya
     .accesskey = P
+menu-tools-sync-sign-in =
+    .label = Masuk ke { -sync-brand-short-name }…
+    .accesskey = M
 menu-tools-sync-now =
     .label = Sinkronkan Sekarang
     .accesskey = S
@@ -169,6 +190,15 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Bantuan
     .accesskey = n
+menu-help-product =
+    .label = Bantuan { -brand-shorter-name }
+    .accesskey = B
+menu-help-show-tour =
+    .label = Tur { -brand-shorter-name }
+    .accesskey = u
+menu-help-keyboard-shortcuts =
+    .label = Pintasan Papan Ketik
+    .accesskey = K
 menu-help-troubleshooting-info =
     .label = Informasi Pemecahan Masalah…
     .accesskey = M
@@ -178,3 +208,12 @@ menu-help-feedback-page =
 menu-help-safe-mode-without-addons =
     .label = Mulai Ulang dengan Pengaya Dinonaktifkan…
     .accesskey = n
+menu-help-safe-mode-with-addons =
+    .label = Mulai Ulang dengan Pengaya Diaktifkan
+    .accesskey = n
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Laporkan Situs Tipuan…
+    .accesskey = s
