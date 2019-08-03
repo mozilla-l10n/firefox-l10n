@@ -172,6 +172,8 @@ menu-history-synced-tabs =
     .label = Tendayke oñembojuehepyre
 menu-history-restore-last-session =
     .label = Tembiapopa'ũ mboyvegua mbojevy
+menu-history-hidden-tabs =
+    .label = Tendayke kañymby
 menu-history-undo-menu =
     .label = Tendayke oñembotyramóva
 menu-history-undo-window-menu =
@@ -233,6 +235,9 @@ menu-preferences =
             [windows] O
            *[other] n
         }
+menu-tools-layout-debugger =
+    .label = Moha'ãnga mopotĩha
+    .accesskey = L
 
 ## Window Menu
 
