@@ -11,6 +11,12 @@ menu-file-new-tab =
 menu-file-new-container-tab =
     .label = Nueva pestaña contenedora
     .accesskey = C
+menu-file-new-window =
+    .label = Nueva ventana
+    .accesskey = N
+menu-file-new-private-window =
+    .label = Nueva ventana privada
+    .accesskey = W
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
 # but Firefox is still running.
@@ -22,6 +28,9 @@ menu-file-open-file =
 menu-file-close-window =
     .label = Cerrar ventana
     .accesskey = C
+menu-file-save-page =
+    .label = Guardar página como…
+    .accesskey = a
 menu-file-print-setup =
     .label = Configuración de página…
     .accesskey = u
@@ -34,14 +43,39 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit-find-on =
+    .label = Buscar en esta página…
+    .accesskey = B
+menu-edit-bidi-switch-text-direction =
+    .label = Cambiar dirección del texto
+    .accesskey = C
 
 ## View Menu
 
 menu-view-sidebar =
     .label = Barra lateral
     .accesskey = e
+menu-view-bookmarks =
+    .label = Marcadores
+menu-view-history-button =
+    .label = Historial
 menu-view-synced-tabs-sidebar =
     .label = Pestañas sincronizadas
+menu-view-full-zoom =
+    .label = Acercar
+    .accesskey = A
+menu-view-full-zoom-enlarge =
+    .label = Acercar
+    .accesskey = A
+menu-view-full-zoom-reduce =
+    .label = Alejar
+    .accesskey = A
+menu-view-full-zoom-reset =
+    .label = Restablecer
+    .accesskey = R
+menu-view-full-zoom-toggle =
+    .label = Zoom solo en el texto
+    .accesskey = t
 menu-view-page-style-menu =
     .label = Estilo de página
     .accesskey = E
@@ -70,6 +104,9 @@ menu-view-full-screen =
 menu-view-show-all-tabs =
     .label = Mostrar todas las pestañas
     .accesskey = a
+menu-view-bidi-switch-page-direction =
+    .label = Cambiar dirección de la página
+    .accesskey = g
 
 ## History Menu
 
@@ -78,6 +115,8 @@ menu-history =
     .accesskey = s
 menu-history-show-all-history =
     .label = Mostrar todo el historial
+menu-history-clear-recent-history =
+    .label = Limpiar el historial reciente…
 menu-history-synced-tabs =
     .label = Pestañas sincronizadas
 menu-history-restore-last-session =
@@ -101,12 +140,24 @@ menu-bookmarks-toolbar =
 
 ## Tools Menu
 
+menu-tools-downloads =
+    .label = Descargas
+    .accesskey = D
+menu-tools-addons =
+    .label = Complementos
+    .accesskey = o
 menu-tools-sync-sign-in =
     .label = Conectarse a { -sync-brand-short-name }…
     .accesskey = Y
+menu-tools-sync-now =
+    .label = Sincronizar ahora
+    .accesskey = S
 menu-tools-sync-re-auth =
     .label = Reconectar a { -sync-brand-short-name }…
     .accesskey = R
+menu-tools-web-developer =
+    .label = Desarrollador web
+    .accesskey = w
 menu-tools-page-source =
     .label = Código fuente de la página
     .accesskey = o
