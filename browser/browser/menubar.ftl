@@ -65,6 +65,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Basisstyl
     .accesskey = B
+menu-view-charset =
+    .label = Tekenkodearring
+    .accesskey = T
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -126,6 +129,12 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Help
     .accesskey = H
+menu-help-keyboard-shortcuts =
+    .label = Fluchtoetsen
+    .accesskey = t
+menu-help-troubleshooting-info =
+    .label = Probleemoplossingsynformaasje
+    .accesskey = P
 menu-help-feedback-page =
     .label = Feedback ferstjoere…
     .accesskey = f
