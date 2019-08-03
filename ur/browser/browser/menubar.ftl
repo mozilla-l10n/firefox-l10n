@@ -25,6 +25,8 @@ menu-view-history-button =
 
 menu-history-show-all-history =
     .label = تمام سابقات دکھائیں
+menu-history-clear-recent-history =
+    .label = حالیہ سابقات خالی کریں…
 menu-history-restore-last-session =
     .label = پچھلا سیشن بحال کریں
 menu-history-undo-menu =
