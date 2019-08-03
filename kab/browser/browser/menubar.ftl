@@ -121,6 +121,8 @@ menu-history-undo-window-menu =
 
 menu-bookmarks-toolbar =
     .label = Afeggag n tecraḍ
+menu-bookmarks-other =
+    .label = Ticraḍ-nniḍen
 
 ## Tools Menu
 
@@ -136,6 +138,9 @@ menu-tools-addons =
 menu-tools-sync-now =
     .label = Mtawi tura
     .accesskey = M
+menu-tools-sync-re-auth =
+    .label = Qqen i tikelt-nniḍen ɣeṛ { -sync-brand-short-name }…
+    .accesskey = Q
 menu-tools-web-developer =
     .label = Aneflay web
     .accesskey = A
