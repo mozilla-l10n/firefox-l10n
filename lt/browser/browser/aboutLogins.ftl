@@ -98,6 +98,11 @@ enable-password-sync-preferences-button =
 confirm-delete-dialog-title = Pašalinti šį prisijungimą?
 confirm-delete-dialog-message = Atlikus šį veiksmą, jo atšaukti neįmanoma.
 confirm-delete-dialog-confirm-button = Šalinti
+confirm-discard-changes-dialog-title = Atsisakyti neįrašytų pakeitimų?
+confirm-discard-changes-dialog-message = Visi neįrašyti pakeitimai bus prarasti.
+confirm-discard-changes-dialog-confirm-button = Atsisakyti
 
 ## Breach Alert notification
 
+breach-alert-text = Po jūsų paskutinio prisijungimo duomenų atnaujinimo, iš šios svetainės nutekėjo arba buvo pavogti slaptažodžiai. Pasikeiskite slaptažodį, kad apsaugotumėte savo paskyrą.
+breach-alert-link = Sužinokite apie šį pažeidimą daugiau.

@@ -19,52 +19,6 @@
 <!ENTITY navbarOverflow.label                "Daugiau priemonių…">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "Atsiųsti kortelės tinklalapį iš naujo">
-<!ENTITY  reloadTab.accesskey                "n">
-<!ENTITY  selectAllTabs.label                "Pasirinkti visas korteles">
-<!ENTITY  selectAllTabs.accesskey            "P">
-<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTab.label                 "Dubliuoti kortelę">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTab.accesskey             "D">
-<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTabs.label                "Dubliuoti korteles">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTabs.accesskey            "D">
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Užverti korteles dešinėje">
-<!ENTITY  closeTabsToTheEnd.accesskey        "d">
-<!ENTITY  closeOtherTabs.label               "Užverti kitas korteles">
-<!ENTITY  closeOtherTabs.accesskey           "k">
-
-<!ENTITY  closeTabs.label                    "Užverti korteles">
-<!ENTITY  closeTabs.accesskey                "e">
-<!ENTITY  pinSelectedTabs.label              "Įsegti korteles">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinSelectedTabs.accesskey          "s">
-<!ENTITY  unpinSelectedTabs.label            "Išsegti korteles">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinSelectedTabs.accesskey        "g">
-<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadTabs.label                   "Įkelti korteles iš naujo">
-<!ENTITY  reloadTabs.accesskey               "k">
-<!ENTITY  bookmarkSelectedTabs.label         "Korteles įtraukti į adresyną…">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkSelectedTabs.accesskey     "t">
-
-<!-- Tab context menu -->
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -85,28 +39,8 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendPageToDevice.accesskey         "r">
 <!ENTITY  sendLinkToDevice.label             "Siųsti saitą į įrenginį">
 <!ENTITY  sendLinkToDevice.accesskey         "r">
-<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
-These two items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  moveTabOptions.label               "Perkelti kortelę">
-<!ENTITY  moveTabOptions.accesskey           "t">
-<!ENTITY  moveSelectedTabOptions.label       "Perkelti korteles">
-<!ENTITY  moveSelectedTabOptions.accesskey   "t">
-<!ENTITY  moveToStart.label                  "Perkelti į pradžią">
-<!ENTITY  moveToStart.accesskey              "p">
-<!ENTITY  moveToEnd.label                    "Perkelti į pabaigą">
-<!ENTITY  moveToEnd.accesskey                "b">
-<!ENTITY  moveToNewWindow.label              "Perkelti į naują langą">
-<!ENTITY  moveToNewWindow.accesskey          "l">
-<!ENTITY  reopenInContainer.label            "Atverti iš naujo sudėtiniame rodinyje">
-<!ENTITY  reopenInContainer.accesskey        "e">
-<!ENTITY  bookmarkTab.label                  "Įrašyti kortelę į adresyną">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkTab.accesskey              "r">
 <!ENTITY  undoCloseTab.label                 "Atšaukti kortelės užvėrimą">
 <!ENTITY  undoCloseTab.accesskey             "š">
-<!ENTITY  closeTab.label                     "Užverti kortelę">
-<!ENTITY  closeTab.accesskey                 "U">
 <!ENTITY  hiddenTabs.label                   "Paslėptos kortelės">
 
 <!ENTITY  listAllTabs.label      "Pateikti visas korteles">
@@ -145,31 +79,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Adresyno juosta">
 <!ENTITY personalbarCmd.accesskey "A">
 <!ENTITY bookmarksToolbarItem.label "Adresyno juostos elementai">
-
-<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Įkelti pasirinktą kortelę iš naujo">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "e">
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Įkelti pasirinktas korteles iš naujo">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "e">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Įtraukti pasirinktą kortelę į adresyną…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "t">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Įrašyti pasirinktas korteles į adresyną…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "i">
-<!ENTITY toolbarContextMenu.selectAllTabs.label "Pasirinkti visas korteles">
-<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "P">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Atšaukti kortelės užvėrimą">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "š">
 
 <!ENTITY pageSourceCmd.label "Pirminis tekstas">
 <!ENTITY pageSourceCmd.accesskey "e">
@@ -234,7 +143,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signedInAs.label "Prisijungėte kaip">
 <!ENTITY fxa.menu.manageAccount.label "Tvarkyti paskyrą…">
 <!ENTITY fxa.menu.syncSettings.label "„&syncBrand.shortName.label;“ nuostatos…">
-<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Susieti kitą įrenginį…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -340,7 +248,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasBlocked.tooltip            "Šioje svetainėje esate užblokavę drobės duomenų išgavimą.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Šioje svetainėje esate užblokavę „Adobe Flash“ papildinio naudojimą.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Šioje svetainėje esate užblokavę MIDI naudojimą.">
-
 <!ENTITY urlbar.installBlocked.tooltip           "Šioje svetainėje esate užblokavę priedų diegimą.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Rodyti žurnalą">
@@ -530,7 +437,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "p">
 <!ENTITY customizeMenu.removeExtension.label "Pašalinti priedą">
 <!ENTITY customizeMenu.removeExtension.accesskey "l">
-
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
@@ -885,7 +791,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "Tai yra saugus „&brandShortName;“ tinklalapis.">
 <!ENTITY identity.extensionPage "Šis tinklalapis yra įkeltas iš priedo.">
 <!ENTITY identity.insecureLoginForms2 "Šiame tinklalapyje įvesti prisijungimo duomenys gali būti perimti.">
-
 <!ENTITY identity.customRoot "Ryšį patvirtino liudijimo išdavėjas, kurio „Mozilla“ neatpažino.">
 
 <!-- Strings for connection state warnings. -->
@@ -905,7 +810,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Nors „&brandShortName;“ užblokavo dalį turinio, šiame tinklalapyje vis dar yra nesaugaus turinio (pvz., paveikslų).">
 <!ENTITY identity.description.activeLoaded "Šioje svetainėje yra nesaugaus turinio (pvz., scenarijų), be to, jūsų ryšys su ja nėra privatus.">
 <!ENTITY identity.description.activeLoaded2 "Šiai svetainei pateikta informacija gali būti peržiūrėta kitų (pvz., slaptažodžiai, žinutės, banko kortelės, kita).">
-
 <!ENTITY identity.description.customRoot "„Mozilla“ neatpažįsta šio liudijimo išdavėjo. Jis galėjo būti pridėtas iš jūsų operacinės sistemos, arba administratoriaus.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Įjungti apsaugą">
@@ -928,6 +832,35 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Atverti turinio blokavimo nuostatas">
 
 
+<!ENTITY protections.etpON.header "Patobulinta apsauga nuo stebėjimo šioje svetainėje įjungta">
+<!ENTITY protections.etpOFF.header "Patobulinta apsauga nuo stebėjimo šioje svetainėje išjungta">
+<!ENTITY protections.settings.label "Apsaugos nuostatos">
+<!ENTITY protections.report.label "Rodyti visą ataskaitą">
+<!-- LOCALIZATION NOTE:
+     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
+     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "Neveikia svetainė?">
+<!ENTITY protections.siteNotWorkingView.title "Neveikia svetainė?">
+<!-- LOCALIZATION NOTE:
+     In the Site Not Working? view, we suggest turning off protections if
+     the user is experiencing issues with any of a variety of functionality.
+     protections.siteNotWorkingView.header: The header of the list
+     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Išjunkite apsaugas, jeigu patiriate problemų su:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Prisijungimų laukais">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Formomis">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Mokėjimais">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Komentarais">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Vaizdo įrašais">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Svetainė neveikia net ir išjungus apsaugas?">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Siųsti pranešimą">
+
+<!ENTITY protections.blocking.label "Blokuojama">
+<!ENTITY protections.notBlocking.label "Neblokuojama">
+<!ENTITY protections.notBlocking.why.label "Kodėl?">
+
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Kortelių juosta">
@@ -936,40 +869,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Sinchronizuotos kortelės">
 
 <!ENTITY syncedTabs.sidebar.label              "Sinchronizuotos kortelės">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Prisijunkite prie „Firefox“ iš kitų įrenginių, norėdami jų korteles matyti čia.">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "Norite čia matyti savo korteles iš kitų įrenginių?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "Prisijunkite, norėdami peržiūrėti kituose įrenginiuose esančias korteles.">
-<!ENTITY syncedTabs.sidebar.unverified.label   "Jūsų paskyra turi būti patvirtinta.">
-<!ENTITY syncedTabs.sidebar.notabs.label       "Nėra atvirų kortelių">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "Atverti „&syncBrand.shortName.label;“ nuostatas">
-<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
-     when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Įjunkite kortelių sinchronizavimą, norėdami peržiūrėti kituose įrenginiuose esančias korteles.">
-<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Ieškoti tarp sinchronizuotų kortelių">
-<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Susieti kitą įrenginį">
-
-<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
-                        syncedTabs.context.openAllInTabs.accesskey):
-     These access keys are identical because their associated menu items are
-     mutually exclusive -->
-<!ENTITY syncedTabs.context.open.label                       "Atverti">
-<!ENTITY syncedTabs.context.open.accesskey                   "A">
-<!ENTITY syncedTabs.context.openInNewTab.label               "Atverti naujoje kortelėje">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "o">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "Atverti naujame lange">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "l">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Atverti naujame privačiojo naršymo lange">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Įtraukti kortelę į adresyną…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "t">
-<!ENTITY syncedTabs.context.copy.label                       "Kopijuoti">
-<!ENTITY syncedTabs.context.copy.accesskey                   "K">
-
-<!ENTITY syncedTabs.context.openAllInTabs.label              "Atverti viską kortelėse">
-<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "A">
-<!ENTITY syncedTabs.context.managedevices.label              "Tvarkyti įrenginius…">
-<!ENTITY syncedTabs.context.managedevices.accesskey          "r">
-
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -981,42 +880,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.label         "Iš naujo jungtis prie „&syncBrand.shortName.label;“…">
 <!ENTITY syncReAuthItem.accesskey     "n">
 <!ENTITY syncToolbarButton.label      "Sinchronizuoti">
-
-<!ENTITY customizeMode.menuAndToolbars.header3 "Nutempkite savo mėgstamiausius elementus į priemonių juostą arba perpildymo meniu.">
-<!ENTITY customizeMode.restoreDefaults "Grąžinti numatytąją struktūrą">
-<!ENTITY customizeMode.done "Atlikta">
-<!ENTITY customizeMode.titlebar "Antraštės juosta">
-<!ENTITY customizeMode.extraDragSpace "Vieta tempti">
-<!ENTITY customizeMode.toolbars2 "Priemonių juostos">
-<!ENTITY customizeMode.lwthemes "Grafiniai apvalkalai">
-<!ENTITY customizeMode.lwthemes.myThemes "Įdiegti apvalkalai">
-<!ENTITY customizeMode.lwthemes.recommended "Rekomenduojami">
-<!ENTITY customizeMode.lwthemes.menuManage "Tvarkyti">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "T">
-<!ENTITY customizeMode.lwthemes.menuGetMore "Gauti daugiau temų">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.overflowList.title2 "Perpildymo meniu">
-<!ENTITY customizeMode.overflowList.description "Nuvilkite elementus čia, kad jie būtų pasiekiami, tačiau neužimtų vietos priemonių juostoje…">
-<!ENTITY customizeMode.uidensity "Tankis">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
-     “Normal” is displayed in the Customize screen, under the Density menu. -->
-<!ENTITY customizeMode.uidensity.menuNormal.label "Normalus">
-<!ENTITY customizeMode.uidensity.menuNormal.tooltip "&amp;Normalus">
-<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
-     “Compact” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Compact). -->
-<!ENTITY customizeMode.uidensity.menuCompact.label "Kompaktiškas">
-<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Kompaktiškas">
-<!ENTITY customizeMode.uidensity.menuCompact.accessKey "K">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
-     “Touch” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Touch), and it means that control layout is
-     optimized for touch devices. -->
-<!ENTITY customizeMode.uidensity.menuTouch.label "Lietimui">
-<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Lietimui">
-<!ENTITY customizeMode.uidensity.menuTouch.accessKey "L">
-<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Naudoti „lietimui“ planšetės veiksenoje">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Automatiškai slėpti">
 
@@ -1038,6 +901,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackersView.label "Stebėjimo elementai">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Norėdami blokuoti visus stebėjimo elementus, pasirinkite „griežtą“ turinio blokavimą.">
+
 
 <!ENTITY contentBlocking.cookies.label "Slapukai">
 <!ENTITY contentBlocking.cookiesView.label "Slapukai ir svetainių duomenys">
@@ -1084,27 +948,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "Užverti">
 
-<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
-     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
-     Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "Pašalinti įrašus:">
-<!ENTITY panicButton.view.5min                    "penkių minučių">
-<!ENTITY panicButton.view.2hr                     "dviejų valandų">
-<!ENTITY panicButton.view.day                     "24 valandų">
-
-<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
-     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
-     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
-     The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "Jeigu tęsite, bus:">
-<!ENTITY panicButton.view.deleteCookies           "pašalinti paskiausi <html:strong>slapukai</html:strong>">
-<!ENTITY panicButton.view.deleteHistory           "išvalyti <html:strong>naršymo žurnalo</html:strong> įrašai">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "užvertos visos <html:strong>kortelės</html:strong> ir <html:strong>langai</html:strong>">
-<!ENTITY panicButton.view.openNewWindow           "atvertas naujas tuščias naršyklės langas">
-
-<!ENTITY panicButton.view.undoWarning             "Atlikus šį veiksmą, jo atšaukti neįmanoma.">
-<!ENTITY panicButton.view.forgetButton            "Valyti!">
-
 <!ENTITY panicButton.thankyou.msg1                "Paskiausi žurnalo įrašai išvalyti.">
 <!ENTITY panicButton.thankyou.msg2                "Saugaus naršymo!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Ačiū!">
@@ -1112,31 +955,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Sužinokite daugiau apie DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "Atnaujinę „&brandShorterName;“ turėsite paskiausius greičio ir privatumo patobulinimus.">
-<!ENTITY updateAvailable.whatsnew.label "Susipažinkite su naujovėmis.">
-<!ENTITY updateAvailable.header.message "Yra galimas „&brandShorterName;“ naujinimas.">
-<!ENTITY updateAvailable.acceptButton.label "Parsiųsti naujinimą">
-<!ENTITY updateAvailable.acceptButton.accesskey "P">
-<!ENTITY updateAvailable.cancelButton.label "Ne dabar">
-<!ENTITY updateAvailable.cancelButton.accesskey "N">
-
 <!ENTITY updateAvailable.panelUI.label "Parsiųsti „&brandShorterName;“ naujinimą">
-
-<!ENTITY updateManual.message "Parsisiųskite šviežią „&brandShorterName;“ kopiją, o mes jums padėsime ją įsidiegti.">
-<!ENTITY updateManual.whatsnew.label "Susipažinkite su naujovėmis.">
-<!ENTITY updateManual.header.message "„&brandShorterName;“ naujinimas nepavyko.">
-<!ENTITY updateManual.acceptButton.label "Parsiųsti „&brandShorterName;“">
-<!ENTITY updateManual.acceptButton.accesskey "P">
-<!ENTITY updateManual.cancelButton.label "Ne dabar">
-<!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Parsiųsti šviežią „&brandShorterName;“ kopiją">
-
-<!ENTITY updateRestart.message2 "Po greito perleidimo, „&brandShorterName;“ atkurs visas jūsų atviras korteles ir langus, kurie nėra privačiojo naršymo veiksenoje.">
-<!ENTITY updateRestart.header.message2 "Perleiskite, norėdami atnaujinti „&brandShorterName;“">
-<!ENTITY updateRestart.acceptButton.label "Perleisti ir atkurti">
-<!ENTITY updateRestart.acceptButton.accesskey "P">
-<!ENTITY updateRestart.cancelButton.label "Ne dabar">
-<!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateUnsupported.panelUI.label "Tolimesnių naujinimų atlikti negalite">
 <!ENTITY updateRestart.panelUI.label2 "Perleiskite, norėdami atnaujinti „&brandShorterName;“">
 
@@ -1176,18 +996,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Prieinamumo funkcijos įjungtos">
-
-<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
-     The first <image> tag is replaced with the icon for the add-ons menu.
-     The second <image> tag is replaced with the icon for the toolbar menu. -->
-<!ENTITY addonPostInstallMessage.label "Tvarkykite savo priedus paspausdami <image class='addon-addon-icon'/>, esantį <image class='addon-toolbar-icon'/> meniu.">
-<!ENTITY addonPostInstall.incognito.checkbox.label "Leisti šiam priedui veikti privačiojo naršymo languose">
-<!ENTITY addonPostInstall.incognito.checkbox.accesskey "L">
-
-<!ENTITY addonPrivateBrowsing.header2.label "Pakeisti į priedus privačioje naršymo languose">
-<!ENTITY addonPrivateBrowsing.body2.label "Visi naujai priedai, kuriuos pridėsite į „&brandShorterName;“, neveiks privačiojo naršymo languose, nebent leisite tai per nuostatas.">
-<!ENTITY addonPrivateBrowsing.learnMore.label "Sužinokite, kaip tvarkyti priedų nuostatas.">
-<!ENTITY addonPrivateBrowsing.okButton.label "Gerai, supratau">
-<!ENTITY addonPrivateBrowsing.okButton.accesskey "G">
-<!ENTITY addonPrivateBrowsing.manageButton.label "Tvarkyti priedus">
-<!ENTITY addonPrivateBrowsing.manageButton.accesskey "T">
