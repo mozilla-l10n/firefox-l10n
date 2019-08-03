@@ -23,6 +23,9 @@ menu-file-print-preview =
 
 ## Edit Menu
 
+menu-edit-bidi-switch-text-direction =
+    .label = Alterar direção do texto
+    .accesskey = A
 
 ## View Menu
 
@@ -46,6 +49,9 @@ menu-view-full-screen =
 
 ##
 
+menu-view-bidi-switch-page-direction =
+    .label = Alterar direção da página
+    .accesskey = e
 
 ## History Menu
 
