@@ -45,6 +45,8 @@ menu-view-bookmarks =
     .label = Marcapaginas
 menu-view-history-button =
     .label = Istoric
+menu-view-synced-tabs-sidebar =
+    .label = Onglets sincronizats
 menu-view-full-zoom =
     .label = Zoom
     .accesskey = Z
@@ -60,6 +62,9 @@ menu-view-full-zoom-reset =
 menu-view-full-zoom-toggle =
     .label = Zoom tèxte solament
     .accesskey = x
+menu-view-page-style-menu =
+    .label = Estil de la pagina
+    .accesskey = i
 menu-view-page-style-no-style =
     .label = Pas cap d'estil
     .accesskey = P
@@ -70,6 +75,9 @@ menu-view-page-basic-style =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Passar en mòde ecran complet
+    .accesskey = c
 menu-view-exit-full-screen =
     .label = Quitar lo mòde Ecran complet
     .accesskey = p
@@ -93,6 +101,12 @@ menu-history =
     .accesskey = s
 menu-history-show-all-history =
     .label = Afichar tot l'istoric
+menu-history-synced-tabs =
+    .label = Onglets sincronizats
+menu-history-restore-last-session =
+    .label = Restablir la session precedenta
+menu-history-undo-menu =
+    .label = Onglets tampats recentament
 menu-history-undo-window-menu =
     .label = Fenèstras tampadas recentament
 
@@ -107,15 +121,32 @@ menu-bookmarks-all-tabs =
     .label = Marcar totes los onglets…
 menu-bookmarks-toolbar =
     .label = Barra de personala
+menu-bookmarks-other =
+    .label = Autres marcapaginas
 
 ## Tools Menu
 
 menu-tools-downloads =
     .label = Telecargaments
     .accesskey = T
+menu-tools-addons =
+    .label = Moduls complementaris
+    .accesskey = e
+menu-tools-sync-sign-in =
+    .label = Se connectar a { -sync-brand-short-name }
+    .accesskey = Y
+menu-tools-sync-now =
+    .label = Sincronizar ara
+    .accesskey = S
 menu-tools-web-developer =
     .label = Desvolopaire web
     .accesskey = w
+menu-tools-page-source =
+    .label = Còdi font de la pagina
+    .accesskey = C
+menu-tools-page-info =
+    .label = Informacion sus la pagina
+    .accesskey = I
 
 ## Window Menu
 
@@ -129,6 +160,12 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Ajuda
     .accesskey = A
+menu-help-product =
+    .label = Ajuda de { -brand-shorter-name }
+    .accesskey = j
+menu-help-show-tour =
+    .label = Visita guidada de { -brand-shorter-name }
+    .accesskey = V
 menu-help-troubleshooting-info =
     .label = Entresenhas de depanatge
     .accesskey = d
@@ -137,4 +174,7 @@ menu-help-feedback-page =
     .accesskey = B
 menu-help-safe-mode-without-addons =
     .label = Reaviar amb los moduls desactivats…
+    .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = Reaviar, moduls activats…
     .accesskey = R
