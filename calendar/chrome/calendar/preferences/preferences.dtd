@@ -6,3 +6,6 @@
 <!ENTITY  paneAlarms.title        "Υπενθυμίσεις">
 <!ENTITY  paneCategories.title    "Κατηγορίες">
 <!ENTITY  paneViews.title         "Προβολές">
+<!ENTITY  panelHeader.title       "Ημερολόγιο">
+<!ENTITY  panelReminder.title     "Υπενθυμίσεις">
+<!ENTITY  panelCatecory.title     "Κατηγορίες">

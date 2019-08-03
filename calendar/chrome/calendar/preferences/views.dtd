@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "Γενικά">
+
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Προβολές ημέρας και εβδομάδας">
 <!ENTITY pref.calendar.view.multiweekview.caption "Προβολή πολλαπλών εβδομάδων">
 <!ENTITY pref.calendar.view.workweek.caption "Εργάσιμες ημέρες">
@@ -17,6 +18,8 @@
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Εμφάνιση αριθμού εβδομάδας στις διάφορες προβολές και στον μίνι μήνα">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "θ">
 <!ENTITY pref.daysoff.label "Να συμπεριληφθούν αυτές οι ημέρες στις εργάσιμες:">
+
+<!ENTITY pref.workweekDays.label "Εργάσιμες ημέρες:">
 
 <!ENTITY pref.calendar.view.daystart.label "Η ημέρα ξεκινάει:">
 <!ENTITY pref.calendar.view.daystart.accesskey "κ">
