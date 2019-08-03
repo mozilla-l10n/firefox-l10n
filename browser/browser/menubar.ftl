@@ -5,6 +5,11 @@
 
 ## File Menu
 
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = เปิดตำแหน่งที่ตั้ง…
 
 ## Edit Menu
 
@@ -15,6 +20,8 @@ menu-view-bookmarks =
     .label = ที่คั่นหน้า
 menu-view-history-button =
     .label = ประวัติ
+menu-view-synced-tabs-sidebar =
+    .label = แท็บที่ซิงค์
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -27,6 +34,8 @@ menu-view-history-button =
 
 menu-history-show-all-history =
     .label = แสดงประวัติทั้งหมด
+menu-history-synced-tabs =
+    .label = แท็บที่ซิงค์
 
 ## Bookmarks Menu
 
@@ -34,6 +43,8 @@ menu-bookmarks-show-all =
     .label = แสดงที่คั่นหน้าทั้งหมด
 menu-bookmarks-toolbar =
     .label = แถบเครื่องมือที่คั่นหน้า
+menu-bookmarks-other =
+    .label = ที่คั่นหน้าอื่น ๆ
 
 ## Tools Menu
 
