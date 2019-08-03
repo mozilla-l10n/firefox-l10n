@@ -60,6 +60,8 @@ menu-history =
     .accesskey = S
 menu-history-undo-menu =
     .label = Koartlyn sluten ljepblêden
+menu-history-undo-window-menu =
+    .label = Koartlyn sluten skermen
 
 ## Bookmarks Menu
 
