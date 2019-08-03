@@ -49,6 +49,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Moullañ…
     .accesskey = M
+menu-file-import-from-another-browser =
+    .label = Enporzhiañ eus ur merdeer all...
+    .accesskey = E
 menu-file-go-offline =
     .label = Labourat ezlinenn
     .accesskey = z
@@ -172,6 +175,8 @@ menu-history-synced-tabs =
     .label = Ivinelloù goubredet
 menu-history-restore-last-session =
     .label = Assav an estez kent
+menu-history-hidden-tabs =
+    .label = Ivinell kuzh
 menu-history-undo-menu =
     .label = Ivinelloù serret nevez zo
 menu-history-undo-window-menu =
@@ -233,6 +238,9 @@ menu-preferences =
             [windows] b
            *[other] l
         }
+menu-tools-layout-debugger =
+    .label = Diveuger ar pajennaozañ
+    .accesskey = D
 
 ## Window Menu
 
