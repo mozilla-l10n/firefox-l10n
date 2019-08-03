@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = 파일
+    .accesskey = F
 menu-file-new-tab =
     .label = 새 탭
     .accesskey = T
@@ -22,6 +25,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = 파일 열기…
     .accesskey = O
+menu-file-close =
+    .label = 닫기
+    .accesskey = C
 menu-file-close-window =
     .label = 창 닫기
     .accesskey = d
@@ -46,6 +52,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = 편집
+    .accesskey = E
+menu-edit-undo =
+    .label = 실행 취소
+    .accesskey = U
+menu-edit-redo =
+    .label = 실행 반복
+    .accesskey = R
+menu-edit-cut =
+    .label = 잘라내기
+    .accesskey = t
+menu-edit-copy =
+    .label = 복사
+    .accesskey = C
+menu-edit-paste =
+    .label = 붙여넣기
+    .accesskey = P
+menu-edit-delete =
+    .label = 삭제
+    .accesskey = D
+menu-edit-select-all =
+    .label = 모두 선택
+    .accesskey = A
 menu-edit-find-on =
     .label = 이 페이지에서 찾기…
     .accesskey = F
@@ -58,6 +88,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = 보기
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = 도구 모음
+    .accesskey = T
+menu-view-customize-toolbar =
+    .label = 사용자 지정…
+    .accesskey = C
 menu-view-sidebar =
     .label = 탐색창
     .accesskey = e
@@ -65,6 +104,8 @@ menu-view-bookmarks =
     .label = 북마크
 menu-view-history-button =
     .label = 방문 기록
+menu-view-synced-tabs-sidebar =
+    .label = 동기화한 탭
 menu-view-full-zoom-enlarge =
     .label = 확대
     .accesskey = I
@@ -86,6 +127,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = 문서 지정 스타일
     .accesskey = b
+menu-view-charset =
+    .label = 텍스트 인코딩
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -109,8 +153,12 @@ menu-history-show-all-history =
     .label = 방문 기록 보기
 menu-history-clear-recent-history =
     .label = 사용 기록 삭제
+menu-history-synced-tabs =
+    .label = 동기화한 탭
 menu-history-restore-last-session =
     .label = 이전 세션 복원
+menu-history-hidden-tabs =
+    .label = 숨겨진 탭
 menu-history-undo-menu =
     .label = 최근에 닫은 탭
 menu-history-undo-window-menu =
@@ -127,15 +175,23 @@ menu-bookmarks-all-tabs =
     .label = 모든 탭 북마크 추가…
 menu-bookmarks-toolbar =
     .label = 북마크 모음
+menu-bookmarks-other =
+    .label = 다른 북마크
 
 ## Tools Menu
 
+menu-tools =
+    .label = 도구
+    .accesskey = T
 menu-tools-downloads =
     .label = 다운로드
     .accesskey = D
 menu-tools-addons =
     .label = 부가 기능
     .accesskey = A
+menu-tools-sync-sign-in =
+    .label = { -sync-brand-short-name }에 로그인…
+    .accesskey = Y
 menu-tools-sync-now =
     .label = 동기화하기
     .accesskey = S
@@ -148,6 +204,20 @@ menu-tools-web-developer =
 menu-tools-page-info =
     .label = 페이지 정보
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] 설정…
+           *[other] 환경 설정
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
+menu-tools-layout-debugger =
+    .label = 레이아웃 디버거
+    .accesskey = L
 
 ## Window Menu
 
