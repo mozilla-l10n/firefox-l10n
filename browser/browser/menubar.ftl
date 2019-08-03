@@ -5,8 +5,14 @@
 
 ## File Menu
 
+menu-file =
+    .label = Датотека
+    .accesskey = Д
 menu-file-new-tab =
     .label = Нови језичак
+    .accesskey = ј
+menu-file-new-container-tab =
+    .label = Нови контејнер
     .accesskey = ј
 menu-file-new-window =
     .label = Нови прозор
@@ -22,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Отвори датотеку…
     .accesskey = д
+menu-file-close =
+    .label = Затвори
+    .accesskey = З
 menu-file-close-window =
     .label = Затвори прозор
     .accesskey = З
@@ -37,12 +46,39 @@ menu-file-print-setup =
 menu-file-print-preview =
     .label = Преглед пре штампе
     .accesskey = т
+menu-file-print =
+    .label = Штампај…
+    .accesskey = Ш
 menu-file-go-offline =
     .label = Рад ван мреже
     .accesskey = м
 
 ## Edit Menu
 
+menu-edit =
+    .label = Уређивање
+    .accesskey = У
+menu-edit-undo =
+    .label = Поништи
+    .accesskey = ш
+menu-edit-redo =
+    .label = Понови
+    .accesskey = П
+menu-edit-cut =
+    .label = Исеци
+    .accesskey = ц
+menu-edit-copy =
+    .label = Копирај
+    .accesskey = К
+menu-edit-paste =
+    .label = Налепи
+    .accesskey = Н
+menu-edit-delete =
+    .label = Избриши
+    .accesskey = ш
+menu-edit-select-all =
+    .label = Изабери све
+    .accesskey = а
 menu-edit-find-on =
     .label = Нађи на овој страници…
     .accesskey = Н
@@ -55,6 +91,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Преглед
+    .accesskey = г
+menu-view-toolbars-menu =
+    .label = Алатне траке
+    .accesskey = А
+menu-view-customize-toolbar =
+    .label = Прилагоди…
+    .accesskey = ш
 menu-view-sidebar =
     .label = Бочна палета
     .accesskey = Б
@@ -66,6 +111,9 @@ menu-view-synced-tabs-sidebar =
     .label = Синхронизовани језичци
 menu-view-full-zoom =
     .label = Увећај
+    .accesskey = У
+menu-view-full-zoom-enlarge =
+    .label = Увеличај
     .accesskey = У
 menu-view-full-zoom-reduce =
     .label = Умањи
@@ -124,6 +172,8 @@ menu-history-synced-tabs =
     .label = Синхронизовани језичци
 menu-history-restore-last-session =
     .label = Обнови претходну сесију
+menu-history-hidden-tabs =
+    .label = Сакривени језичци
 menu-history-undo-menu =
     .label = Недавно затворени језичци
 menu-history-undo-window-menu =
@@ -147,6 +197,9 @@ menu-bookmarks-mobile =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Алатке
+    .accesskey = А
 menu-tools-downloads =
     .label = Преузимања
     .accesskey = П
@@ -171,6 +224,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Подаци о страници
     .accesskey = с
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Поставке
+           *[other] Поставке
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] о
+           *[other] П
+        }
 
 ## Window Menu
 
