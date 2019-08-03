@@ -5,9 +5,15 @@
 
 ## File Menu
 
+menu-file =
+    .label = קובץ
+    .accesskey = ק
 menu-file-new-tab =
     .label = לשונית חדשה
     .accesskey = ש
+menu-file-new-container-tab =
+    .label = מגירת לשוניות חדשה
+    .accesskey = ג
 menu-file-new-window =
     .label = חלון חדש
     .accesskey = ח
@@ -22,6 +28,12 @@ menu-file-open-location =
 menu-file-open-file =
     .label = פתיחת קובץ…
     .accesskey = ק
+menu-file-close =
+    .label = סגירה
+    .accesskey = ג
+menu-file-close-window =
+    .label = סגירת חלון
+    .accesskey = ס
 menu-file-save-page =
     .label = שמירת דף בשם…
     .accesskey = ר
@@ -37,12 +49,39 @@ menu-file-print-preview =
 menu-file-print =
     .label = הדפסה…
     .accesskey = ד
+menu-file-import-from-another-browser =
+    .label = ייבוא מדפדפן אחר…
+    .accesskey = י
 menu-file-go-offline =
     .label = עבודה לא־מקוונת
     .accesskey = ל
 
 ## Edit Menu
 
+menu-edit =
+    .label = עריכה
+    .accesskey = ע
+menu-edit-undo =
+    .label = ביטול
+    .accesskey = ט
+menu-edit-redo =
+    .label = ביצוע שוב
+    .accesskey = צ
+menu-edit-cut =
+    .label = גזירה
+    .accesskey = ג
+menu-edit-copy =
+    .label = העתקה
+    .accesskey = ת
+menu-edit-paste =
+    .label = הדבקה
+    .accesskey = ה
+menu-edit-delete =
+    .label = מחיקה
+    .accesskey = ח
+menu-edit-select-all =
+    .label = בחירת הכול
+    .accesskey = ב
 menu-edit-find-on =
     .label = חיפוש בדף זה…
     .accesskey = ח
@@ -55,6 +94,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = תצוגה
+    .accesskey = ת
+menu-view-toolbars-menu =
+    .label = סרגלי כלים
+    .accesskey = ם
+menu-view-customize-toolbar =
+    .label = התאמה אישית…
+    .accesskey = ה
 menu-view-sidebar =
     .label = סרגל צד
     .accesskey = ג
@@ -62,6 +110,8 @@ menu-view-bookmarks =
     .label = סימניות
 menu-view-history-button =
     .label = היסטוריה
+menu-view-synced-tabs-sidebar =
+    .label = לשוניות מסונכרנות
 menu-view-full-zoom =
     .label = מרחק מתצוגה
     .accesskey = ת
@@ -74,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = איפוס
     .accesskey = א
+menu-view-full-zoom-toggle =
+    .label = שינוי גודל טקסט בלבד
+    .accesskey = ט
 menu-view-page-style-menu =
     .label = סגנון דף
     .accesskey = נ
@@ -102,6 +155,12 @@ menu-view-full-screen =
 
 ##
 
+menu-view-show-all-tabs =
+    .label = הצגת כל הלשוניות
+    .accesskey = כ
+menu-view-bidi-switch-page-direction =
+    .label = הפיכת כיוון דף
+    .accesskey = פ
 
 ## History Menu
 
@@ -134,9 +193,16 @@ menu-bookmarks-all-tabs =
     .label = יצירת סימנייה לכל הלשוניות…
 menu-bookmarks-toolbar =
     .label = סרגל כלים סימניות
+menu-bookmarks-other =
+    .label = סימניות אחרות
+menu-bookmarks-mobile =
+    .label = סימניות מהנייד
 
 ## Tools Menu
 
+menu-tools =
+    .label = כלים
+    .accesskey = כ
 menu-tools-downloads =
     .label = הורדות
     .accesskey = ד
@@ -146,6 +212,9 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = התחברות אל { -sync-brand-short-name }…
     .accesskey = ה
+menu-tools-sync-now =
+    .label = סנכרון כעת
+    .accesskey = ס
 menu-tools-sync-re-auth =
     .label = התחברות מחדש אל { -sync-brand-short-name }…
     .accesskey = מ
@@ -158,6 +227,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = מידע על הדף
     .accesskey = מ
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] אפשרויות
+           *[other] העדפות
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] א
+           *[other] ד
+        }
 menu-tools-layout-debugger =
     .label = ניפוי שגיאות פריסה
     .accesskey = פ
