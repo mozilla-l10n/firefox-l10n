@@ -80,7 +80,7 @@ menu-edit-find-again =
     .label = Batla Gape
     .accesskey = a
 menu-edit-bidi-switch-text-direction =
-    .label = Fetola Peomannong ya Dikwalwa{ " " }
+    .label = Fetola Peomannong ya Dikwalwa
     .accesskey = e
 
 ## View Menu
