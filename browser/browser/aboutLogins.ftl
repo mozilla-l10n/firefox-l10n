@@ -21,8 +21,8 @@ menu-menuitem-preferences =
     }
 menu-menuitem-feedback = Visszajelzés küldése
 menu-menuitem-faq = Gyakran Ismételt Kérdések
-menu-menuitem-download-android = Lockwise Androidra
-menu-menuitem-download-iphone = Lockwise iPhone és iPad készülékekhez
+menu-menuitem-android-app = { -lockwise-brand-short-name } Androidra
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } iPhone és iPad készülékekhez
 
 ## Login List
 
@@ -37,9 +37,15 @@ login-list-sort-label-text = Rendezés:
 login-list-name-option = Név (A-Z)
 login-list-last-changed-option = Legutóbbi módosítás
 login-list-last-used-option = Legutóbbi használat
+login-list-intro-title = Nincsenek bejelentkezések
 login-list-item-title-new-login = Új bejelentkezés
 login-list-item-subtitle-new-login = Adja meg a bejelentkezési adatait
 login-list-item-subtitle-missing-username = (nincs felhasználónév)
+
+## Introduction screen
+
+login-intro-heading = A mentett bejelentkezéseit keresi? Állítsa be a { -sync-brand-short-name }-t.
+login-intro-description = Ha egy másik eszközön mentette a bejelentkezéseit a { -brand-product-name }ban, akkor így érheti el őket itt:
 
 ## Login
 
