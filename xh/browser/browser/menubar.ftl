@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Ifayile
+    .accesskey = I
 menu-file-new-tab =
     .label = thebhu entsha
     .accesskey = t
@@ -24,6 +27,9 @@ menu-file-open-location =
     .label = Vula indawo…
 menu-file-open-file =
     .label = Vula ifayile…
+    .accesskey = V
+menu-file-close =
+    .label = Vala
     .accesskey = V
 menu-file-close-window =
     .label = Vala iFestile
@@ -49,6 +55,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Hlela
+    .accesskey = H
+menu-edit-undo =
+    .label = Lungisa okwenzileyo
+    .accesskey = L
+menu-edit-redo =
+    .label = Phinda wenze
+    .accesskey = P
+menu-edit-cut =
+    .label = Sika
+    .accesskey = k
+menu-edit-copy =
+    .label = Kopa
+    .accesskey = K
+menu-edit-paste =
+    .label = Ncamathelisa
+    .accesskey = N
+menu-edit-delete =
+    .label = Cima
+    .accesskey = C
+menu-edit-select-all =
+    .label = Khetha Konke
+    .accesskey = K
 menu-edit-find-on =
     .label = Fumana kweli phepha…
     .accesskey = F
@@ -61,6 +91,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Jonga
+    .accesskey = J
+menu-view-toolbars-menu =
+    .label = Iithulbha
+    .accesskey = I
+menu-view-customize-toolbar =
+    .label = Lungiselela…
+    .accesskey = L
 menu-view-sidebar =
     .label = Ibha yasecaleni
     .accesskey = i
@@ -156,6 +195,9 @@ menu-bookmarks-mobile =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Izixhobo
+    .accesskey = I
 menu-tools-downloads =
     .label = Okukhutshelwayo
     .accesskey = O
@@ -180,6 +222,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Inkcazelo yephepha
     .accesskey = y
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Ekunokukhethwa kuko
+           *[other] Iipriferensi
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] E
+           *[other] n
+        }
 
 ## Window Menu
 
