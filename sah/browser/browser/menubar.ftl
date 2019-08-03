@@ -11,6 +11,9 @@ menu-file-new-tab =
 menu-file-new-window =
     .label = Саҥа түннүк
     .accesskey = С
+menu-file-new-private-window =
+    .label = Бүөмнээн көрүү саҥа түннүгэ
+    .accesskey = с
 menu-file-open-file =
     .label = Билэни арый…
     .accesskey = Б
@@ -32,6 +35,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Бэчээт…
     .accesskey = Б
+menu-file-go-offline =
+    .label = Холбоммокко үлэ
+    .accesskey = л
 
 ## Edit Menu
 
@@ -50,6 +56,8 @@ menu-edit-bidi-switch-text-direction =
 menu-view-sidebar =
     .label = Ойоҕос панель
     .accesskey = О
+menu-view-bookmarks =
+    .label = Бэлиэлэр
 menu-view-full-zoom =
     .label = Улаатыннар
     .accesskey = У
@@ -78,6 +86,9 @@ menu-view-page-basic-style =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Толору экраанҥа киир
+    .accesskey = Т
 menu-view-exit-full-screen =
     .label = Толору экраантан таҕыс
     .accesskey = э
@@ -106,6 +117,9 @@ menu-history-undo-window-menu =
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = Бэлиэлэр
+    .accesskey = Б
 menu-bookmarks-show-all =
     .label = Бэлиэтэммити барытын көрдөр
 menu-bookmarks-all-tabs =
@@ -123,6 +137,9 @@ menu-tools-addons =
     .accesskey = Э
 menu-tools-sync-now =
     .label = Синхроннаа
+    .accesskey = С
+menu-tools-web-developer =
+    .label = Ситим сир оҥорооччу
     .accesskey = С
 menu-tools-page-source =
     .label = Сирэй исходнига
@@ -142,6 +159,9 @@ menu-window-bring-all-to-front =
 
 menu-help =
     .label = Көмө
+    .accesskey = К
+menu-help-keyboard-shortcuts =
+    .label = Кылгас клавиатура
     .accesskey = К
 menu-help-troubleshooting-info =
     .label = Кыһалҕаны быһаарар туһунан
