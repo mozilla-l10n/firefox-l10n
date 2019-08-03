@@ -11,6 +11,9 @@ menu-file =
 menu-file-new-tab =
     .label = 新規タブ
     .accesskey = T
+menu-file-new-container-tab =
+    .label = 新規コンテナータブ
+    .accesskey = B
 menu-file-new-window =
     .label = 新規ウインドウ
     .accesskey = N
@@ -46,6 +49,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = プリント...
     .accesskey = P
+menu-file-import-from-another-browser =
+    .label = 他のブラウザーから読み込む...
+    .accesskey = I
 menu-file-go-offline =
     .label = オフライン作業
     .accesskey = k
@@ -169,6 +175,8 @@ menu-history-synced-tabs =
     .label = 同期タブ
 menu-history-restore-last-session =
     .label = 以前のセッションを復元
+menu-history-hidden-tabs =
+    .label = 隠しタブ
 menu-history-undo-menu =
     .label = 最近閉じたタブ
 menu-history-undo-window-menu =
@@ -210,6 +218,9 @@ menu-tools-sync-now =
 menu-tools-sync-re-auth =
     .label = { -sync-brand-short-name } に再接続...
     .accesskey = R
+menu-tools-web-developer =
+    .label = ウェブ開発
+    .accesskey = W
 menu-tools-page-source =
     .label = ページのソース
     .accesskey = o
@@ -227,6 +238,9 @@ menu-preferences =
             [windows] O
            *[other] n
         }
+menu-tools-layout-debugger =
+    .label = レイアウトデバッガー
+    .accesskey = L
 
 ## Window Menu
 
