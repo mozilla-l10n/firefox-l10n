@@ -238,6 +238,9 @@ menu-preferences =
             [windows] o
            *[other] n
         }
+menu-tools-layout-debugger =
+    .label = Dì-bhugaichear na co-dhealbhachd
+    .accesskey = l
 
 ## Window Menu
 
