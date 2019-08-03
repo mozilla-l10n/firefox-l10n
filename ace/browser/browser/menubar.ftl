@@ -55,12 +55,21 @@ menu-edit-undo =
 menu-edit-copy =
     .label = Salèn
     .accesskey = C
+menu-edit-delete =
+    .label = Sampôh
+    .accesskey = D
+menu-edit-select-all =
+    .label = Piléh Ban Mandum
+    .accesskey = A
 menu-edit-find-again =
     .label = Mita Lom
     .accesskey = g
 
 ## View Menu
 
+menu-view =
+    .label = Kalon
+    .accesskey = V
 menu-view-bookmarks =
     .label = Peutanda
 menu-view-history-button =
