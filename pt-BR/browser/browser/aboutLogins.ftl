@@ -22,8 +22,8 @@ menu-menuitem-preferences =
     }
 menu-menuitem-feedback = Enviar opinião
 menu-menuitem-faq = Perguntas frequentes
-menu-menuitem-download-android = Lockwise para Android
-menu-menuitem-download-iphone = Lockwise para iPhone e iPad
+menu-menuitem-android-app = { -lockwise-brand-short-name } para Android
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } para iPhone e iPad
 
 ## Login List
 
@@ -38,9 +38,17 @@ login-list-sort-label-text = Ordenar por:
 login-list-name-option = Nome (A-Z)
 login-list-last-changed-option = Última modificação
 login-list-last-used-option = Último uso
+login-list-intro-title = Nenhuma conta encontrada
+login-list-intro-description = Quando você salva uma senha no { -brand-product-name }, ela aparece aqui.
 login-list-item-title-new-login = Nova conta
 login-list-item-subtitle-new-login = Informe as credenciais da sua conta
 login-list-item-subtitle-missing-username = (sem nome de usuário)
+
+## Introduction screen
+
+login-intro-heading = Procurando suas contas salvas? Configure o { -sync-brand-short-name }.
+login-intro-description = Se você salvou suas contas no { -brand-product-name } em outro dispositivo, veja como tê-las aqui:
+login-intro-instruction-fxa = Crie ou entre na sua { -fxaccount-brand-name } no dispositivo onde suas contas estão salvas
 
 ## Login
 
