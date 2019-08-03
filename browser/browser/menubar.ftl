@@ -61,6 +61,8 @@ menu-history-show-all-history =
     .label = Wys hele geskiedenis
 menu-history-undo-menu =
     .label = Onlangs gesluite oortjies
+menu-history-undo-window-menu =
+    .label = Onlangs gesluite vensters
 
 ## Bookmarks Menu
 
