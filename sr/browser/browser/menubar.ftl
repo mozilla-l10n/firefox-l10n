@@ -142,6 +142,8 @@ menu-bookmarks-toolbar =
     .label = Трака са забелешкама
 menu-bookmarks-other =
     .label = Остале забелешке
+menu-bookmarks-mobile =
+    .label = Мобилне забелешке
 
 ## Tools Menu
 
