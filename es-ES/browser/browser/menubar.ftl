@@ -5,9 +5,21 @@
 
 ## File Menu
 
+menu-file =
+    .label = Archivo
+    .accesskey = A
 menu-file-new-tab =
     .label = Nueva pestaña
     .accesskey = T
+menu-file-new-container-tab =
+    .label = Nueva pestaña contenedora
+    .accesskey = v
+menu-file-new-window =
+    .label = Nueva ventana
+    .accesskey = N
+menu-file-new-private-window =
+    .label = Nueva ventana privada
+    .accesskey = P
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
 # but Firefox is still running.
@@ -16,9 +28,18 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Abrir archivo…
     .accesskey = b
+menu-file-close =
+    .label = Cerrar
+    .accesskey = C
 menu-file-close-window =
     .label = Cerrar ventana
     .accesskey = v
+menu-file-save-page =
+    .label = Guardar como…
+    .accesskey = A
+menu-file-email-link =
+    .label = Enviar enlace…
+    .accesskey = E
 menu-file-print-setup =
     .label = Configurar página…
     .accesskey = u
@@ -34,12 +55,75 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Editar
+    .accesskey = E
+menu-edit-undo =
+    .label = Deshacer
+    .accesskey = h
+menu-edit-redo =
+    .label = Rehacer
+    .accesskey = h
+menu-edit-cut =
+    .label = Cortar
+    .accesskey = t
+menu-edit-copy =
+    .label = Copiar
+    .accesskey = C
+menu-edit-paste =
+    .label = Pegar
+    .accesskey = P
+menu-edit-delete =
+    .label = Eliminar
+    .accesskey = l
+menu-edit-select-all =
+    .label = Seleccionar todo
+    .accesskey = A
+menu-edit-find-on =
+    .label = Buscar en esta página…
+    .accesskey = B
+menu-edit-find-again =
+    .label = Repetir la búsqueda
+    .accesskey = q
+menu-edit-bidi-switch-text-direction =
+    .label = Cambiar dirección del texto
+    .accesskey = d
 
 ## View Menu
 
+menu-view =
+    .label = Ver
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = Barras de herramientas
+    .accesskey = T
+menu-view-customize-toolbar =
+    .label = Personalizar…
+    .accesskey = P
 menu-view-sidebar =
     .label = Panel lateral
     .accesskey = e
+menu-view-bookmarks =
+    .label = Marcadores
+menu-view-history-button =
+    .label = Historial
+menu-view-synced-tabs-sidebar =
+    .label = Pestañas sincronizadas
+menu-view-full-zoom =
+    .label = Tamaño
+    .accesskey = m
+menu-view-full-zoom-enlarge =
+    .label = Aumentar
+    .accesskey = A
+menu-view-full-zoom-reduce =
+    .label = Reducir
+    .accesskey = d
+menu-view-full-zoom-reset =
+    .label = Inicio
+    .accesskey = n
+menu-view-full-zoom-toggle =
+    .label = Sólo ampliar texto
+    .accesskey = p
 menu-view-page-style-menu =
     .label = Estilo de página
     .accesskey = g
@@ -71,6 +155,9 @@ menu-view-full-screen =
 menu-view-show-all-tabs =
     .label = Mostrar todas las pestañas
     .accesskey = A
+menu-view-bidi-switch-page-direction =
+    .label = Cambiar dirección de la página
+    .accesskey = D
 
 ## History Menu
 
@@ -79,6 +166,10 @@ menu-history =
     .accesskey = s
 menu-history-show-all-history =
     .label = Mostrar todo el historial
+menu-history-clear-recent-history =
+    .label = Limpiar el historial reciente…
+menu-history-synced-tabs =
+    .label = Pestañas sincronizadas
 menu-history-restore-last-session =
     .label = Restaurar sesión anterior
 menu-history-undo-menu =
@@ -104,12 +195,44 @@ menu-bookmarks-mobile =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Herramientas
+    .accesskey = T
+menu-tools-downloads =
+    .label = Descargas
+    .accesskey = D
+menu-tools-addons =
+    .label = Complementos
+    .accesskey = C
+menu-tools-sync-sign-in =
+    .label = Conectarse a { -sync-brand-short-name }…
+    .accesskey = Y
+menu-tools-sync-now =
+    .label = Sincronizar ahora
+    .accesskey = z
+menu-tools-sync-re-auth =
+    .label = Reconectar a { -sync-brand-short-name }…
+    .accesskey = R
+menu-tools-web-developer =
+    .label = Desarrollador web
+    .accesskey = W
 menu-tools-page-source =
     .label = Código fuente de la página
     .accesskey = f
 menu-tools-page-info =
     .label = Información de la página
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Opciones
+           *[other] Preferencias
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
 menu-tools-layout-debugger =
     .label = Depurador de representación
     .accesskey = D
