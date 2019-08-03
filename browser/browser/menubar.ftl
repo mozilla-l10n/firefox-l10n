@@ -195,6 +195,8 @@ menu-bookmarks-toolbar =
     .label = Lišta záložek
 menu-bookmarks-other =
     .label = Ostatní záložky
+menu-bookmarks-mobile =
+    .label = Záložky z mobilu
 
 ## Tools Menu
 
