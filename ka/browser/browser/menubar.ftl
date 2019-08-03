@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = ფაილი
+    .accesskey = ფ
 menu-file-new-tab =
     .label = ახალი ჩანართი
     .accesskey = რ
@@ -22,32 +25,96 @@ menu-file-open-location =
 menu-file-open-file =
     .label = ფაილის გახსნა...
     .accesskey = გ
+menu-file-close =
+    .label = დახურვა
+    .accesskey = დ
 menu-file-close-window =
     .label = ფანჯრის დახურვა
     .accesskey = ხ
+menu-file-save-page =
+    .label = გვერდის შენახვა როგორც…
+    .accesskey = შ
+menu-file-email-link =
+    .label = ბმულის გაგზავნა ელფოსტით…
+    .accesskey = ე
 menu-file-print-setup =
     .label = გვერდის პარამეტრები...
     .accesskey = ტ
+menu-file-print-preview =
+    .label = შეთვალიერება ამობეჭდვამდე
+    .accesskey = ჭ
 menu-file-print =
     .label = ამობეჭდვა…
     .accesskey = ა
 
 ## Edit Menu
 
+menu-edit =
+    .label = ჩასწორება
+    .accesskey = რ
+menu-edit-undo =
+    .label = დაბრუნება
+    .accesskey = დ
+menu-edit-redo =
+    .label = კვლავ შესრულება
+    .accesskey = კ
+menu-edit-cut =
+    .label = ამოჭრა
+    .accesskey = ა
+menu-edit-paste =
+    .label = ჩასმა
+    .accesskey = ჩ
+menu-edit-delete =
+    .label = წაშლა
+    .accesskey = წ
+menu-edit-find-on =
+    .label = პოვნა გვერდზე…
+    .accesskey = პ
+menu-edit-find-again =
+    .label = კვლავძიება
+    .accesskey = კ
+menu-edit-bidi-switch-text-direction =
+    .label = ტექსტის მიმართულების შეცვლა
+    .accesskey = ტ
 
 ## View Menu
 
+menu-view =
+    .label = ხედი
+    .accesskey = ხ
+menu-view-toolbars-menu =
+    .label = ხელსაწყოთა ზოლები
+    .accesskey = ხ
+menu-view-customize-toolbar =
+    .label = მორგება…
+    .accesskey = მ
 menu-view-sidebar =
     .label = გვერდითი ზოლი
     .accesskey = ზ
+menu-view-bookmarks =
+    .label = სანიშნები
 menu-view-history-button =
     .label = ისტორია
+menu-view-synced-tabs-sidebar =
+    .label = დასინქრონებული ჩანართები
+menu-view-full-zoom =
+    .label = ზომის ცვლილება
+    .accesskey = მ
+menu-view-full-zoom-enlarge =
+    .label = გადიდება
+    .accesskey = გ
 menu-view-full-zoom-reduce =
     .label = შემცირება
     .accesskey = შ
 menu-view-full-zoom-reset =
     .label = ჩვეულებრივი
     .accesskey = ჩ
+menu-view-full-zoom-toggle =
+    .label = მხოლოდ ტექსტის ზომის შეცვლა
+    .accesskey = ტ
+menu-view-page-style-menu =
+    .label = გვერდის სტილი
+    .accesskey = ტ
 menu-view-page-style-no-style =
     .label = სტილის გარეშე
     .accesskey = გ
@@ -89,6 +156,12 @@ menu-history-show-all-history =
     .label = სრული ისტორიის ჩვენება
 menu-history-clear-recent-history =
     .label = უახლესი ისტორიის გასუფთავება...
+menu-history-synced-tabs =
+    .label = დასინქრონებული ჩანართები
+menu-history-restore-last-session =
+    .label = წინა სეანსის აღდგენა
+menu-history-hidden-tabs =
+    .label = დამალული ჩანართები
 menu-history-undo-menu =
     .label = ბოლოს დახურული ჩანართები
 menu-history-undo-window-menu =
@@ -96,16 +169,60 @@ menu-history-undo-window-menu =
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = სანიშნები
+    .accesskey = ს
 menu-bookmarks-show-all =
     .label = ყველა სანიშნის ჩვენება
 menu-bookmarks-all-tabs =
     .label = ყველა ჩანართის ჩანიშვნა...
+menu-bookmarks-toolbar =
+    .label = სანიშნების ხელსაწყოთა ზოლი
+menu-bookmarks-other =
+    .label = სხვა სანიშნები
+menu-bookmarks-mobile =
+    .label = მობილურის სანიშნები
 
 ## Tools Menu
 
 menu-tools-downloads =
     .label = ჩამოტვირთვები
     .accesskey = ჩ
+menu-tools-addons =
+    .label = დამატებები
+    .accesskey = დ
+menu-tools-sync-sign-in =
+    .label = { -sync-brand-short-name } – შესვლა…
+    .accesskey = შ
+menu-tools-sync-now =
+    .label = დასინქრონება ახლავე
+    .accesskey = ს
+menu-tools-sync-re-auth =
+    .label = { -sync-brand-short-name } – ხელახლა დაკავშირება…
+    .accesskey = ხ
+menu-tools-web-developer =
+    .label = ვებშემმუშავება
+    .accesskey = ვ
+menu-tools-page-source =
+    .label = გვერდის წყარო
+    .accesskey = წ
+menu-tools-page-info =
+    .label = გვერდის მონაცემები
+    .accesskey = ი
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] პარამეტრები
+           *[other] პარამეტრები
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] პ
+           *[other] ტ
+        }
+menu-tools-layout-debugger =
+    .label = განლაგების გამმართველი
+    .accesskey = ნ
 
 ## Window Menu
 
@@ -122,6 +239,27 @@ menu-help =
 menu-help-product =
     .label = { -brand-shorter-name } დახმარება
     .accesskey = დ
+menu-help-show-tour =
+    .label = { -brand-shorter-name } გზამკვლევი
+    .accesskey = ზ
 menu-help-keyboard-shortcuts =
     .label = კლავიატურის მალსახმობები
     .accesskey = კ
+menu-help-troubleshooting-info =
+    .label = გაუმართაობის აღმოფხვრა
+    .accesskey = ფ
+menu-help-feedback-page =
+    .label = გამოგვეხმაურეთ…
+    .accesskey = უ
+menu-help-safe-mode-without-addons =
+    .label = გამორთული დამატებებით გაშვება...
+    .accesskey = გ
+menu-help-safe-mode-with-addons =
+    .label = ჩართული დამატებებით გაშვება
+    .accesskey = ჩ
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = მოხსენება თაღლითურ საიტზე…
+    .accesskey = თ
