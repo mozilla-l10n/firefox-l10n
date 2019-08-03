@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Ficheiro
+    .accesskey = F
 menu-file-new-tab =
     .label = Nova lapela
     .accesskey = v
@@ -25,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Abrir ficheiro…
     .accesskey = A
+menu-file-close =
+    .label = Pechar
+    .accesskey = c
 menu-file-close-window =
     .label = Pechar xanela
     .accesskey = P
@@ -49,6 +55,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Editar
+    .accesskey = E
+menu-edit-undo =
+    .label = Desfacer
+    .accesskey = D
+menu-edit-redo =
+    .label = Refacer
+    .accesskey = R
+menu-edit-cut =
+    .label = Cortar
+    .accesskey = C
+menu-edit-copy =
+    .label = Copiar
+    .accesskey = o
+menu-edit-paste =
+    .label = Pegar
+    .accesskey = P
+menu-edit-delete =
+    .label = Eliminar
+    .accesskey = E
+menu-edit-select-all =
+    .label = Seleccionar todo
+    .accesskey = t
 menu-edit-find-on =
     .label = Localizar nesta páxina…
     .accesskey = L
@@ -61,6 +91,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Ver
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = Barras de ferramentas
+    .accesskey = f
+menu-view-customize-toolbar =
+    .label = Personalizar…
+    .accesskey = P
 menu-view-sidebar =
     .label = Barra lateral
     .accesskey = B
@@ -147,9 +186,16 @@ menu-bookmarks-all-tabs =
     .label = Marcar todas as lapelas…
 menu-bookmarks-toolbar =
     .label = Barra de marcadores
+menu-bookmarks-other =
+    .label = Outros marcadores
+menu-bookmarks-mobile =
+    .label = Marcadores do móbil
 
 ## Tools Menu
 
+menu-tools =
+    .label = Ferramentas
+    .accesskey = t
 menu-tools-downloads =
     .label = Descargas
     .accesskey = D
@@ -174,6 +220,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Información da páxina
     .accesskey = n
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Opcións
+           *[other] Preferencias
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
 menu-tools-layout-debugger =
     .label = Depurador de deseño
     .accesskey = p
