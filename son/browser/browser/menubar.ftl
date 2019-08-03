@@ -133,6 +133,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Moo fasal faala
     .accesskey = f
+menu-view-charset =
+    .label = Hantum harfu-hawyan
+    .accesskey = a
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
