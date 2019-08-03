@@ -22,8 +22,8 @@ menu-menuitem-preferences =
     }
 menu-menuitem-feedback = Skicka återkoppling
 menu-menuitem-faq = Vanliga frågor
-menu-menuitem-download-android = Lockwise för Android
-menu-menuitem-download-iphone = Lockwise för iPhone och iPad
+menu-menuitem-android-app = { -lockwise-brand-short-name } för Android
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } för iPhone och iPad
 
 ## Login List
 
@@ -38,9 +38,19 @@ login-list-sort-label-text = Sortera efter:
 login-list-name-option = Namn (A-Ö)
 login-list-last-changed-option = Senast ändrad
 login-list-last-used-option = Senast använd
+login-list-intro-title = Inga inloggningar hittades
+login-list-intro-description = När du sparar ett lösenord i { -brand-product-name }, kommer det att visas här.
 login-list-item-title-new-login = Ny inloggning
 login-list-item-subtitle-new-login = Ange dina inloggningsuppgifter
 login-list-item-subtitle-missing-username = (inget användarnamn)
+
+## Introduction screen
+
+login-intro-heading = Letar du efter dina sparade inloggningar? Konfigurera{ -sync-brand-short-name }.
+login-intro-description = Om du sparat dina inloggningar i { -brand-product-name } på en annan enhet, så här får du dem hit:
+login-intro-instruction-fxa = Skapa eller logga in på ditt { -fxaccount-brand-name } på enheten där dina inloggningar sparades
+login-intro-instruction-fxa-settings = Se till att du har markerat kryssrutan för inloggningar i { -sync-brand-short-name } inställningar
+login-intro-instruction-faq = Besök { -lockwise-brand-short-name } <a data-l10n-name="faq">vanliga frågor</a> för mer hjälp
 
 ## Login
 
