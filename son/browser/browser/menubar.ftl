@@ -5,15 +5,32 @@
 
 ## File Menu
 
+menu-file =
+    .label = Tuku
+    .accesskey = T
+menu-file-new-tab =
+    .label = Kanji taaga
+    .accesskey = t
+menu-file-new-container-tab =
+    .label = Diikaw kanji taaga
+    .accesskey = k
 menu-file-new-window =
     .label = Zanfun taaga
     .accesskey = Z
 menu-file-new-private-window =
     .label = Sutura zanfun taaga
     .accesskey = z
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Gorodoo feeri…
 menu-file-open-file =
     .label = Tuku feeri…
     .accesskey = T
+menu-file-close =
+    .label = Daabu
+    .accesskey = D
 menu-file-close-window =
     .label = Zanfunoo daabu
     .accesskey = d
@@ -38,6 +55,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Fasal
+    .accesskey = F
+menu-edit-undo =
+    .label = Taafeeri
+    .accesskey = T
+menu-edit-redo =
+    .label = Tee taaga
+    .accesskey = T
+menu-edit-cut =
+    .label = Dunbu
+    .accesskey = D
+menu-edit-copy =
+    .label = Berandi
+    .accesskey = B
+menu-edit-paste =
+    .label = Dobu
+    .accesskey = D
+menu-edit-delete =
+    .label = Tuusu
+    .accesskey = T
+menu-edit-select-all =
+    .label = Kul suuba
+    .accesskey = K
 menu-edit-find-on =
     .label = Moɲoo woo ceeci…
     .accesskey = e
@@ -50,11 +91,24 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Gunari
+    .accesskey = G
+menu-view-toolbars-menu =
+    .label = Goyjinay žeerey
+    .accesskey = G
+menu-view-customize-toolbar =
+    .label = Hanse war boŋ se…
+    .accesskey = H
 menu-view-sidebar =
     .label = Cerawžeeri
     .accesskey = C
 menu-view-bookmarks =
     .label = Doo-šilbawey
+menu-view-history-button =
+    .label = Taariki
+menu-view-synced-tabs-sidebar =
+    .label = Kanji hangantey
 menu-view-full-zoom =
     .label = Bebbeerandi
     .accesskey = B
@@ -95,6 +149,9 @@ menu-view-full-screen =
 
 ##
 
+menu-view-show-all-tabs =
+    .label = Kanjey kul cebe
+    .accesskey = K
 menu-view-bidi-switch-page-direction =
     .label = Moo tenjaroo barmay
     .accesskey = D
@@ -104,6 +161,16 @@ menu-view-bidi-switch-page-direction =
 menu-history =
     .label = Taariki
     .accesskey = T
+menu-history-show-all-history =
+    .label = Taarikoo kul cebe
+menu-history-clear-recent-history =
+    .label = Taariki kokorante tuusu…
+menu-history-synced-tabs =
+    .label = Kanji hangantey
+menu-history-restore-last-session =
+    .label = Goywaati bisantaa yeeti
+menu-history-undo-menu =
+    .label = Kanjey kaŋ kokor ka daaba
 menu-history-undo-window-menu =
     .label = Zanfun kokor daabantey
 
@@ -114,20 +181,35 @@ menu-bookmarks-menu =
     .accesskey = b
 menu-bookmarks-show-all =
     .label = Doo-šilbawey kul cebe
+menu-bookmarks-all-tabs =
+    .label = Kanjey kul doo-šilbay…
 menu-bookmarks-toolbar =
     .label = Doo-šilbawey goyjinay žeeri
+menu-bookmarks-other =
+    .label = Doo-šilbay taaney
+menu-bookmarks-mobile =
+    .label = Doo-šilbay dirantey
 
 ## Tools Menu
 
+menu-tools =
+    .label = Goyjinawey
+    .accesskey = G
 menu-tools-downloads =
     .label = Zumandiyaney
     .accesskey = Z
 menu-tools-addons =
     .label = Tontoney
     .accesskey = T
+menu-tools-sync-sign-in =
+    .label = Huru { -sync-brand-short-name } ra…
+    .accesskey = Y
 menu-tools-sync-now =
     .label = Sync sohõ
     .accesskey = S
+menu-tools-sync-re-auth =
+    .label = Ciya { -sync-brand-short-name }… sekoyne
+    .accesskey = R
 menu-tools-web-developer =
     .label = Tataaru cinakaw
     .accesskey = T
@@ -137,6 +219,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Moo alhabar
     .accesskey = a
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Suubarey
+           *[other] Ibaayey
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] I
+        }
 
 ## Window Menu
 
@@ -150,6 +243,12 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Faaba
     .accesskey = F
+menu-help-product =
+    .label = { -brand-shorter-name } faaba
+    .accesskey = f
+menu-help-show-tour =
+    .label = { -brand-shorter-name } wanga
+    .accesskey = w
 menu-help-keyboard-shortcuts =
     .label = Walha dunbandiyaney
     .accesskey = W
@@ -162,3 +261,12 @@ menu-help-feedback-page =
 menu-help-safe-mode-without-addons =
     .label = Tunandi taaga kaŋ tontoney kayandi…
     .accesskey = u
+menu-help-safe-mode-with-addons =
+    .label = Tunandi taaga kaŋ tontoney ga kayandi
+    .accesskey = u
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Darga nungu bayrandi…
+    .accesskey = D
