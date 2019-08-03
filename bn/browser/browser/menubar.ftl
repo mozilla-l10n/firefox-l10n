@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file-email-link =
+    .label = লিঙ্ক ইমেইল করুন... E
+    .accesskey = E
 
 ## Edit Menu
 
@@ -38,6 +41,10 @@ menu-bookmarks-all-tabs =
 
 ## Window Menu
 
+menu-window-menu =
+    .label = উইন্ডো
+menu-window-bring-all-to-front =
+    .label = সব সামনে আনা হবে
 
 ## Help Menu
 
