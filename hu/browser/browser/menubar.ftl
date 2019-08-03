@@ -11,18 +11,44 @@ menu-file-new-tab =
 menu-file-new-window =
     .label = Új ablak
     .accesskey = a
+menu-file-new-private-window =
+    .label = Új privát ablak
+    .accesskey = v
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Hely megnyitása…
+menu-file-open-file =
+    .label = Fájl megnyitása…
+    .accesskey = F
 menu-file-close-window =
     .label = Ablak bezárása
     .accesskey = A
+menu-file-save-page =
+    .label = Oldal mentése…
+    .accesskey = m
+menu-file-email-link =
+    .label = Hivatkozás küldése e-mailben…
+    .accesskey = d
+menu-file-print-setup =
+    .label = Oldalbeállítás…
+    .accesskey = O
 menu-file-print-preview =
     .label = Nyomtatási kép
     .accesskey = t
+menu-file-print =
+    .label = Nyomtatás…
+    .accesskey = N
 menu-file-go-offline =
     .label = Kapcsolat nélküli munka
     .accesskey = p
 
 ## Edit Menu
 
+menu-edit-find-on =
+    .label = Keresés ezen az oldalon…
+    .accesskey = e
 menu-edit-find-again =
     .label = Következő keresése
     .accesskey = z
@@ -64,6 +90,15 @@ menu-view-page-basic-style =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Belépés a teljes képernyős módba
+    .accesskey = B
+menu-view-exit-full-screen =
+    .label = Kilépés a teljes képernyős módból
+    .accesskey = K
+menu-view-full-screen =
+    .label = Teljes képernyő
+    .accesskey = T
 
 ##
 
@@ -81,6 +116,8 @@ menu-history =
     .accesskey = m
 menu-history-show-all-history =
     .label = Minden előzmény megjelenítése
+menu-history-clear-recent-history =
+    .label = Előzmények törlése…
 menu-history-restore-last-session =
     .label = Előző munkamenet helyreállítása
 menu-history-undo-menu =
@@ -95,11 +132,16 @@ menu-bookmarks-menu =
     .accesskey = K
 menu-bookmarks-show-all =
     .label = Minden könyvjelző megjelenítése
+menu-bookmarks-all-tabs =
+    .label = Minden lap egy könyvjelzőbe…
 menu-bookmarks-toolbar =
     .label = Könyvjelző eszköztár
 
 ## Tools Menu
 
+menu-tools-downloads =
+    .label = Letöltések
+    .accesskey = L
 menu-tools-sync-now =
     .label = Szinkronizálás
     .accesskey = S
@@ -125,6 +167,9 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Súgó
     .accesskey = S
+menu-help-keyboard-shortcuts =
+    .label = Gyorsbillentyűk
+    .accesskey = G
 menu-help-troubleshooting-info =
     .label = Hibakeresési információ
     .accesskey = H
