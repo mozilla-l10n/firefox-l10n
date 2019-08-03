@@ -37,9 +37,18 @@ menu-file-close-window =
 menu-file-email-link =
     .label = Gửi liên kết qua email…
     .accesskey = E
+menu-file-print-setup =
+    .label = Thiết lập trang…
+    .accesskey = u
+menu-file-print-preview =
+    .label = Xem trước khi in
+    .accesskey = v
 menu-file-print =
     .label = In…
     .accesskey = P
+menu-file-import-from-another-browser =
+    .label = Nhập dữ liệu từ trình duyệt khác…
+    .accesskey = I
 menu-file-go-offline =
     .label = Làm việc ngoại tuyến
     .accesskey = k
@@ -124,6 +133,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Kiểu trang cơ bản
     .accesskey = b
+menu-view-charset =
+    .label = Bảng mã văn bản
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -160,6 +172,8 @@ menu-history-synced-tabs =
     .label = Các thẻ đã đồng bộ
 menu-history-restore-last-session =
     .label = Khôi phục phiên làm việc trước
+menu-history-hidden-tabs =
+    .label = Thẻ đã ẩn
 menu-history-undo-menu =
     .label = Thẻ mới đóng gần đây
 menu-history-undo-window-menu =
@@ -192,6 +206,9 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = Đăng nhập vào { -sync-brand-short-name }…
     .accesskey = Y
+menu-tools-sync-now =
+    .label = Đồng bộ ngay
+    .accesskey = S
 menu-tools-sync-re-auth =
     .label = Kết nối lại với { -sync-brand-short-name }…
     .accesskey = R
@@ -240,9 +257,18 @@ menu-help-show-tour =
 menu-help-keyboard-shortcuts =
     .label = Các phím tắt bàn phím
     .accesskey = K
+menu-help-troubleshooting-info =
+    .label = Thông tin gỡ rối vấn đề
+    .accesskey = T
 menu-help-feedback-page =
     .label = Gửi phản hồi…
     .accesskey = S
+menu-help-safe-mode-without-addons =
+    .label = Khởi động lại và vô hiệu hóa các tiện ích…
+    .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = Khởi động lại và kích hoạt các tiện ích
+    .accesskey = R
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.
