@@ -8,6 +8,9 @@
 menu-file-new-tab =
     .label = නව ටැබයක් විවෘත කරන්න
     .accesskey = T
+menu-file-new-container-tab =
+    .label = නව බහලුම් ටැබය
+    .accesskey = C
 menu-file-new-window =
     .label = නව කවුළුවක්
     .accesskey = N
@@ -50,6 +53,9 @@ menu-view-history-button =
 menu-view-full-zoom-enlarge =
     .label = විශාල කරන්න
     .accesskey = I
+menu-view-charset =
+    .label = පෙළ සංකේතනය
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -91,6 +97,8 @@ menu-bookmarks-all-tabs =
     .label = සියලු ටැබ පිටු සලකුණුගත කරන්න...
 menu-bookmarks-toolbar =
     .label = පිටු සලකුණු මෙවලම් තීරුව
+menu-bookmarks-other =
+    .label = වෙනත් පිටුසලකුණු
 
 ## Tools Menu
 
@@ -133,4 +141,7 @@ menu-help-feedback-page =
     .accesskey = S
 menu-help-safe-mode-without-addons =
     .label = ඇඩෝන දුබල කර යළි-අරඹන්න…
+    .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = සක්‍රීය කළ ඇඩෝන සමඟ යළි අරඹන්න
     .accesskey = R
