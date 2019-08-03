@@ -11,6 +11,10 @@
 
 ## View Menu
 
+menu-view-bookmarks =
+    .label = Nodau Tudalen
+menu-view-history-button =
+    .label = Hanes
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -23,6 +27,8 @@
 
 menu-history-show-all-history =
     .label = Dangos yr Holl Hanes
+menu-history-restore-last-session =
+    .label = Adfer y Sesiwn Flaenorol
 menu-history-undo-menu =
     .label = Tabiau Wedi eu Cau'n Ddiweddar
 menu-history-undo-window-menu =
@@ -38,6 +44,13 @@ menu-bookmarks-toolbar =
 
 ## Window Menu
 
+menu-window-menu =
+    .label = Ffenestr
+menu-window-bring-all-to-front =
+    .label = Dwyn y Cyfan i'r Blaen
 
 ## Help Menu
 
+menu-help =
+    .label = Cymorth
+    .accesskey = C
