@@ -14,6 +14,9 @@ menu-file-new-window =
 menu-file-print-preview =
     .label = ਪਰਿੰਟ ਝਲਕ
     .accesskey = v
+menu-file-go-offline =
+    .label = ਆਫਲਾਈਨ ਕੰਮ ਕਰੋ
+    .accesskey = w
 
 ## Edit Menu
 
