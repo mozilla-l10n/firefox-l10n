@@ -79,6 +79,12 @@ menu-view-full-screen =
 
 ##
 
+menu-view-show-all-tabs =
+    .label = Show All Tabs
+    .accesskey = A
+menu-view-bidi-switch-page-direction =
+    .label = Switch Page Direction
+    .accesskey = D
 
 ## History Menu
 
@@ -87,14 +93,22 @@ menu-history =
     .accesskey = s
 menu-history-show-all-history =
     .label = Show All History
+menu-history-clear-recent-history =
+    .label = Clear Recent History…
+menu-history-restore-last-session =
+    .label = Restore Previous Session
 menu-history-undo-menu =
     .label = Recently Closed Tabs
+menu-history-undo-window-menu =
+    .label = Recently Closed Windows
 
 ## Bookmarks Menu
 
 menu-bookmarks-menu =
     .label = Bookmarks
     .accesskey = B
+menu-bookmarks-show-all =
+    .label = Show All Bookmarks
 menu-bookmarks-all-tabs =
     .label = Bookmark All Tabs…
 menu-bookmarks-toolbar =
@@ -108,6 +122,9 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Add-ons
     .accesskey = A
+menu-tools-sync-now =
+    .label = Synchronise Now
+    .accesskey = S
 menu-tools-page-source =
     .label = Page Source
     .accesskey = o
@@ -127,3 +144,12 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Help
     .accesskey = H
+menu-help-troubleshooting-info =
+    .label = Troubleshooting Information
+    .accesskey = T
+menu-help-feedback-page =
+    .label = Submit Feedback…
+    .accesskey = S
+menu-help-safe-mode-without-addons =
+    .label = Restart with Add-ons Disabled…
+    .accesskey = R
