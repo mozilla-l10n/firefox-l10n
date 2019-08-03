@@ -22,8 +22,8 @@ menu-menuitem-preferences =
     }
 menu-menuitem-feedback = 傳送意見回饋
 menu-menuitem-faq = 常見問題
-menu-menuitem-download-android = Lockwise for Android
-menu-menuitem-download-iphone = Lockwise for iPhone 與 iPad
+menu-menuitem-android-app = { -lockwise-brand-short-name } for Android
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } for iPhone 與 iPad
 
 ## Login List
 
@@ -37,9 +37,19 @@ login-list-sort-label-text = 排序依照:
 login-list-name-option = 名稱（A-Z 排序）
 login-list-last-changed-option = 上次修改
 login-list-last-used-option = 上次使用
+login-list-intro-title = 找不到登入資訊
+login-list-intro-description = 當您在 { -brand-product-name } 中儲存密碼後，就會顯示於此處。
 login-list-item-title-new-login = 新增登入資訊
 login-list-item-subtitle-new-login = 請輸入您的登入帳密
 login-list-item-subtitle-missing-username = （無使用者名稱）
+
+## Introduction screen
+
+login-intro-heading = 在找您儲存的登入資訊嗎？請設定 { -sync-brand-short-name }。
+login-intro-description = 若您在其他裝置上儲存登入資訊到 { -brand-product-name } 過，請參考下列步驟，即可在此裝置使用:
+login-intro-instruction-fxa = 在您儲存登入資訊的裝置，註冊或登入 { -fxaccount-brand-name }
+login-intro-instruction-fxa-settings = 確定在 { -sync-brand-short-name } 設定中勾選了「登入資訊」選取盒
+login-intro-instruction-faq = 若有更多問題，可參考 { -lockwise-brand-short-name } <a data-l10n-name="faq">常見問題</a>
 
 ## Login
 
