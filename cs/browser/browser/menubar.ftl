@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Soubor
+    .accesskey = S
 menu-file-new-tab =
     .label = Nový panel
     .accesskey = p
@@ -25,33 +28,81 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Otevřít soubor…
     .accesskey = s
+menu-file-close =
+    .label = Zavřít
+    .accesskey = Z
 menu-file-close-window =
     .label = Zavřít okno
     .accesskey = v
 menu-file-save-page =
     .label = Uložit stránku jako…
     .accesskey = U
+menu-file-email-link =
+    .label = Poslat odkaz e-mailem…
+    .accesskey = e
 menu-file-print-setup =
     .label = Vzhled stránky…
     .accesskey = V
 menu-file-print-preview =
     .label = Náhled tisku
     .accesskey = h
+menu-file-print =
+    .label = Vytisknout stránku…
+    .accesskey = T
+menu-file-import-from-another-browser =
+    .label = Importovat z jiného prohlížeče…
+    .accesskey = m
 menu-file-go-offline =
     .label = Pracovat offline
     .accesskey = l
 
 ## Edit Menu
 
+menu-edit =
+    .label = Úpravy
+    .accesskey = a
+menu-edit-undo =
+    .label = Zpět
+    .accesskey = Z
+menu-edit-redo =
+    .label = Znovu
+    .accesskey = o
+menu-edit-cut =
+    .label = Vyjmout
+    .accesskey = y
+menu-edit-copy =
+    .label = Kopírovat
+    .accesskey = K
+menu-edit-paste =
+    .label = Vložit
+    .accesskey = l
+menu-edit-delete =
+    .label = Smazat
+    .accesskey = m
+menu-edit-select-all =
+    .label = Vybrat vše
+    .accesskey = a
 menu-edit-find-on =
     .label = Najít na této stránce…
     .accesskey = N
 menu-edit-find-again =
     .label = Najít další
     .accesskey = t
+menu-edit-bidi-switch-text-direction =
+    .label = Změnit směr textu
+    .accesskey = r
 
 ## View Menu
 
+menu-view =
+    .label = Zobrazit
+    .accesskey = Z
+menu-view-toolbars-menu =
+    .label = Nástrojové lišty
+    .accesskey = N
+menu-view-customize-toolbar =
+    .label = Nastavení tlačítek a lišt…
+    .accesskey = V
 menu-view-sidebar =
     .label = Postranní lišta
     .accesskey = P
@@ -59,6 +110,8 @@ menu-view-bookmarks =
     .label = Záložky
 menu-view-history-button =
     .label = Historie
+menu-view-synced-tabs-sidebar =
+    .label = Synchronizované panely
 menu-view-full-zoom =
     .label = Velikost stránky
     .accesskey = V
@@ -68,6 +121,9 @@ menu-view-full-zoom-enlarge =
 menu-view-full-zoom-reduce =
     .label = Zmenšit
     .accesskey = m
+menu-view-full-zoom-reset =
+    .label = Výchozí
+    .accesskey = c
 menu-view-full-zoom-toggle =
     .label = Pouze velikost textu
     .accesskey = t
@@ -119,6 +175,8 @@ menu-history-synced-tabs =
     .label = Synchronizované panely
 menu-history-restore-last-session =
     .label = Obnovit předchozí relaci
+menu-history-hidden-tabs =
+    .label = Skryté panely
 menu-history-undo-menu =
     .label = Naposledy zavřené panely
 menu-history-undo-window-menu =
@@ -138,6 +196,9 @@ menu-bookmarks-toolbar =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Nástroje
+    .accesskey = N
 menu-tools-downloads =
     .label = Stahování
     .accesskey = t
@@ -153,18 +214,42 @@ menu-tools-sync-now =
 menu-tools-sync-re-auth =
     .label = Opětovné připojení k { -sync-brand-short-name }…
     .accesskey = p
+menu-tools-web-developer =
+    .label = Nástroje pro vývojáře
+    .accesskey = v
 menu-tools-page-source =
     .label = Zdrojový kód stránky
     .accesskey = j
 menu-tools-page-info =
     .label = Informace o stránce
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Možnosti
+           *[other] Předvolby
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] M
+           *[other] v
+        }
+menu-tools-layout-debugger =
+    .label = Debugger rozložení
+    .accesskey = l
 
 ## Window Menu
 
+menu-window-menu =
+    .label = Okno
+menu-window-bring-all-to-front =
+    .label = Přenést vše do popředí
 
 ## Help Menu
 
+menu-help =
+    .label = Nápověda
+    .accesskey = v
 menu-help-product =
     .label = Nápověda aplikace { -brand-shorter-name }
     .accesskey = N
@@ -174,6 +259,21 @@ menu-help-show-tour =
 menu-help-keyboard-shortcuts =
     .label = Klávesové zkratky
     .accesskey = K
+menu-help-troubleshooting-info =
+    .label = Technické informace
+    .accesskey = T
+menu-help-feedback-page =
+    .label = Odeslat zpětnou vazbu…
+    .accesskey = d
+menu-help-safe-mode-without-addons =
+    .label = Restartovat se zakázanými doplňky…
+    .accesskey = R
 menu-help-safe-mode-with-addons =
     .label = Restartovat s povolenými doplňky
     .accesskey = R
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Nahlásit klamavou stránku…
+    .accesskey = l
