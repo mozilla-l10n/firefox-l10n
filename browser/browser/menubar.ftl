@@ -58,6 +58,8 @@ menu-edit-bidi-switch-text-direction =
 menu-view-sidebar =
     .label = Bilah Samping
     .accesskey = m
+menu-view-bookmarks =
+    .label = Markah
 menu-view-history-button =
     .label = Riwayat
 menu-view-full-zoom =
@@ -97,6 +99,9 @@ menu-view-full-screen =
 menu-view-show-all-tabs =
     .label = Tampilkan Semua Tab
     .accesskey = S
+menu-view-bidi-switch-page-direction =
+    .label = Ubah Arah Laman
+    .accesskey = A
 
 ## History Menu
 
@@ -118,6 +123,9 @@ menu-history-undo-window-menu =
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = Markah
+    .accesskey = M
 menu-bookmarks-show-all =
     .label = Tampilkan Semua Markah…
 menu-bookmarks-all-tabs =
@@ -161,6 +169,9 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Bantuan
     .accesskey = n
+menu-help-troubleshooting-info =
+    .label = Informasi Pemecahan Masalah…
+    .accesskey = M
 menu-help-feedback-page =
     .label = Kirim Saran…
     .accesskey = S
