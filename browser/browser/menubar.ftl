@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = దస్త్రం
+    .accesskey = F
 menu-file-new-tab =
     .label = కొత్త ట్యాబు
     .accesskey = T
@@ -25,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = ఫైలును తెరువు…
     .accesskey = O
+menu-file-close =
+    .label = మూసివేయి
+    .accesskey = C
 menu-file-close-window =
     .label = విండో మూసివేయి
     .accesskey = d
@@ -49,6 +55,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = సవరణ
+    .accesskey = E
+menu-edit-undo =
+    .label = చర్యరద్దు
+    .accesskey = U
+menu-edit-redo =
+    .label = పునరాచరణ
+    .accesskey = R
+menu-edit-cut =
+    .label = కత్తిరించు
+    .accesskey = t
+menu-edit-copy =
+    .label = కాపీ చేయి
+    .accesskey = C
+menu-edit-paste =
+    .label = అతికించు
+    .accesskey = P
+menu-edit-delete =
+    .label = తొలగించు
+    .accesskey = D
+menu-edit-select-all =
+    .label = అన్నిటినీ ఎంచుకో
+    .accesskey = A
 menu-edit-find-on =
     .label = ఈ పేజీలో వెతకండి…
     .accesskey = F
@@ -61,6 +91,12 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = చూడటం
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = పనిముట్ల పట్టీలు
+    .accesskey = T
 menu-view-customize-toolbar =
     .label = అభిమతీకరించు…
     .accesskey = C
@@ -161,6 +197,9 @@ menu-bookmarks-mobile =
 
 ## Tools Menu
 
+menu-tools =
+    .label = పనిముట్లు
+    .accesskey = T
 menu-tools-downloads =
     .label = దింపుకోళ్ళు
     .accesskey = D
@@ -185,6 +224,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = పేజీ సమాచారం
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] ఎంపికలు
+           *[other] అభిరుచులు
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
 menu-tools-layout-debugger =
     .label = లేఅవుట్ డీబగ్గర్
     .accesskey = L
