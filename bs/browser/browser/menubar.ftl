@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Fajl
+    .accesskey = F
 menu-file-new-tab =
     .label = Novi tab
     .accesskey = t
@@ -25,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Otvori fajl…
     .accesskey = O
+menu-file-close =
+    .label = Zatvori
+    .accesskey = Z
 menu-file-close-window =
     .label = Zatvori prozor
     .accesskey = Z
@@ -49,6 +55,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Uredi
+    .accesskey = e
+menu-edit-undo =
+    .label = Poništi
+    .accesskey = P
+menu-edit-redo =
+    .label = Ponovi
+    .accesskey = P
+menu-edit-cut =
+    .label = Isjeci
+    .accesskey = I
+menu-edit-copy =
+    .label = Kopiraj
+    .accesskey = K
+menu-edit-paste =
+    .label = Zalijepi
+    .accesskey = p
+menu-edit-delete =
+    .label = Obriši
+    .accesskey = O
+menu-edit-select-all =
+    .label = Označi sve
+    .accesskey = a
 menu-edit-find-on =
     .label = Pronađi na ovoj stranici…
     .accesskey = P
@@ -61,6 +91,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Prikaz
+    .accesskey = P
+menu-view-toolbars-menu =
+    .label = Trake sa alatima
+    .accesskey = T
+menu-view-customize-toolbar =
+    .label = Prilagođavanje…
+    .accesskey = P
 menu-view-sidebar =
     .label = Bočna traka
     .accesskey = B
@@ -154,6 +193,9 @@ menu-bookmarks-mobile =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Alati
+    .accesskey = t
 menu-tools-downloads =
     .label = Preuzimanja
     .accesskey = P
@@ -178,6 +220,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Podaci o strani
     .accesskey = i
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Opcije
+           *[other] Postavke
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
 
 ## Window Menu
 
