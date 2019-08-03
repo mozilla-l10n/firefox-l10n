@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file-new-tab =
+    .label = Нов раздел
+    .accesskey = д
 menu-file-new-window =
     .label = Нов прозорец
     .accesskey = п
@@ -47,6 +50,8 @@ menu-view-bookmarks =
     .label = Отметки
 menu-view-history-button =
     .label = История
+menu-view-synced-tabs-sidebar =
+    .label = Синхронизирани раздели
 menu-view-full-zoom =
     .label = Мащабиране
     .accesskey = М
@@ -87,6 +92,9 @@ menu-view-full-screen =
 
 ##
 
+menu-view-show-all-tabs =
+    .label = Показване на всички раздели
+    .accesskey = д
 menu-view-bidi-switch-page-direction =
     .label = Превключване посоката на страницата
     .accesskey = П
@@ -100,6 +108,10 @@ menu-history-show-all-history =
     .label = Цялата история
 menu-history-clear-recent-history =
     .label = Изчистване на скорошна история…
+menu-history-synced-tabs =
+    .label = Синхронизирани раздели
+menu-history-undo-menu =
+    .label = Последно затворени раздели
 menu-history-undo-window-menu =
     .label = Последно затворени прозорци
 
@@ -110,6 +122,8 @@ menu-bookmarks-menu =
     .accesskey = О
 menu-bookmarks-show-all =
     .label = Показване на всички отметки
+menu-bookmarks-all-tabs =
+    .label = Отмятане на всички раздели…
 menu-bookmarks-toolbar =
     .label = Лента с отметки
 menu-bookmarks-other =
