@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Bestân
+    .accesskey = B
 menu-file-new-tab =
     .label = Nij ljepblêd
     .accesskey = L
@@ -25,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Bestân iepenje…
     .accesskey = i
+menu-file-close =
+    .label = Slute
+    .accesskey = S
 menu-file-close-window =
     .label = Finster slute
     .accesskey = s
@@ -43,9 +49,39 @@ menu-file-print-preview =
 menu-file-print =
     .label = Ofdrukke…
     .accesskey = d
+menu-file-import-from-another-browser =
+    .label = Ymportearje fan in oare browser út…
+    .accesskey = b
+menu-file-go-offline =
+    .label = Offline wurkje
+    .accesskey = w
 
 ## Edit Menu
 
+menu-edit =
+    .label = Bewurkje
+    .accesskey = W
+menu-edit-undo =
+    .label = Ungedien meitsje
+    .accesskey = U
+menu-edit-redo =
+    .label = Opnij útfiere
+    .accesskey = O
+menu-edit-cut =
+    .label = Knippe
+    .accesskey = N
+menu-edit-copy =
+    .label = Kopiearje
+    .accesskey = K
+menu-edit-paste =
+    .label = Plakke
+    .accesskey = P
+menu-edit-delete =
+    .label = Fuortsmite
+    .accesskey = F
+menu-edit-select-all =
+    .label = Alles selektearje
+    .accesskey = A
 menu-edit-find-on =
     .label = Sykje op dizze side…
     .accesskey = S
@@ -58,6 +94,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Byld
+    .accesskey = y
+menu-view-toolbars-menu =
+    .label = Arkbalken
+    .accesskey = A
+menu-view-customize-toolbar =
+    .label = Oanpasse…
+    .accesskey = O
 menu-view-sidebar =
     .label = Sidebalke
     .accesskey = S
@@ -76,9 +121,15 @@ menu-view-full-zoom-enlarge =
 menu-view-full-zoom-reduce =
     .label = Utzoome
     .accesskey = U
+menu-view-full-zoom-reset =
+    .label = Tebeksette
+    .accesskey = b
 menu-view-full-zoom-toggle =
     .label = Allinnich tekst zoome
     .accesskey = A
+menu-view-page-style-menu =
+    .label = Sidestyl
+    .accesskey = d
 menu-view-page-style-no-style =
     .label = Gjin styl
     .accesskey = G
@@ -122,6 +173,10 @@ menu-history-clear-recent-history =
     .label = Resinte skiednis wiskje…
 menu-history-synced-tabs =
     .label = Syngronisearre ljepblêden
+menu-history-restore-last-session =
+    .label = Foargeande sesje werom bringe
+menu-history-hidden-tabs =
+    .label = Ferstoppe ljepblêden
 menu-history-undo-menu =
     .label = Koartlyn sluten ljepblêden
 menu-history-undo-window-menu =
@@ -140,9 +195,14 @@ menu-bookmarks-toolbar =
     .label = Blêdwizerarkbalke
 menu-bookmarks-other =
     .label = Oare blêdwizers
+menu-bookmarks-mobile =
+    .label = Mobyl-blêdwizers
 
 ## Tools Menu
 
+menu-tools =
+    .label = Ekstra
+    .accesskey = E
 menu-tools-downloads =
     .label = Downloads
     .accesskey = D
@@ -164,6 +224,23 @@ menu-tools-web-developer =
 menu-tools-page-source =
     .label = Sideboarne
     .accesskey = r
+menu-tools-page-info =
+    .label = Side-ynfo
+    .accesskey = f
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Opsjes
+           *[other] Foarkarren…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] F
+        }
+menu-tools-layout-debugger =
+    .label = Layout Debugger
+    .accesskey = L
 
 ## Window Menu
 
@@ -177,6 +254,12 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Help
     .accesskey = H
+menu-help-product =
+    .label = { -brand-shorter-name } Help
+    .accesskey = H
+menu-help-show-tour =
+    .label = { -brand-shorter-name }-toer
+    .accesskey = o
 menu-help-keyboard-shortcuts =
     .label = Fluchtoetsen
     .accesskey = t
@@ -189,6 +272,9 @@ menu-help-feedback-page =
 menu-help-safe-mode-without-addons =
     .label = Werstart mei útskeakele add-ons…
     .accesskey = W
+menu-help-safe-mode-with-addons =
+    .label = Opnij starte mei ynskeakele add-ons
+    .accesskey = r
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.
