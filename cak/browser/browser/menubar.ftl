@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Yakb'äl
+    .accesskey = Y
 menu-file-new-tab =
     .label = K'ak'a' ruwi'
     .accesskey = r
@@ -24,6 +27,9 @@ menu-file-open-location =
     .label = Tijaq ri k'ojlemal…
 menu-file-open-file =
     .label = Tijaq yakb'äl…
+    .accesskey = T
+menu-file-close =
+    .label = Titz'apïx
     .accesskey = T
 menu-file-close-window =
     .label = Titz'apïx Tzuwäch
@@ -49,12 +55,36 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit-undo =
+    .label = Titzolïx
+    .accesskey = t
+menu-edit-cut =
+    .label = Tiqupïx
+    .accesskey = q
+menu-edit-copy =
+    .label = Tiwachib'ëx
+    .accesskey = c
+menu-edit-paste =
+    .label = Titz'ajb'äx
+    .accesskey = T
+menu-edit-delete =
+    .label = Tiyuj
+    .accesskey = T
+menu-edit-select-all =
+    .label = Ticha' ronojel
+    .accesskey = r
 menu-edit-bidi-switch-text-direction =
     .label = Rujalik rub'eyal ri tz'ib'
     .accesskey = r
 
 ## View Menu
 
+menu-view-toolbars-menu =
+    .label = Cholsamajib'äl
+    .accesskey = i
+menu-view-customize-toolbar =
+    .label = Tichinäx…
+    .accesskey = T
 menu-view-sidebar =
     .label = Chuchi' Cholab'äl
     .accesskey = C
@@ -163,6 +193,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Rutzijol rij re jun ruxaq re'
     .accesskey = R
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Taq cha'oj
+           *[other] Taq Ajowanel
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] c
+           *[other] o
+        }
 
 ## Window Menu
 
