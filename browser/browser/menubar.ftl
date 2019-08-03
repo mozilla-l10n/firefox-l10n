@@ -8,9 +8,15 @@
 menu-file =
     .label = ഫയല്‍
     .accesskey = F
+menu-file-new-tab =
+    .label = പുതിയ റ്റാബ്‌
+    .accesskey = T
 menu-file-new-container-tab =
     .label = പുതിയ കണ്ടെയ്നർ ടാബ്
     .accesskey = B
+menu-file-new-window =
+    .label = പുതിയ ജാലകം
+    .accesskey = N
 menu-file-new-private-window =
     .label = പുതിയ സ്വകാര്യ ജാലകം
     .accesskey = ല
@@ -97,6 +103,8 @@ menu-view-customize-toolbar =
 menu-view-sidebar =
     .label = സൈഡ് ബാര്‍
     .accesskey = e
+menu-view-bookmarks =
+    .label = അടയാളക്കുറിപ്പുകള്‍
 menu-view-history-button =
     .label = നാള്‍വഴി
 menu-view-synced-tabs-sidebar =
@@ -171,6 +179,9 @@ menu-history-undo-window-menu =
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = അടയാളക്കുറിപ്പുകള്‍
+    .accesskey = B
 menu-bookmarks-show-all =
     .label = എല്ലാ അടയാളക്കുറിപ്പുകളും കാണിയ്ക്കുക
 menu-bookmarks-all-tabs =
