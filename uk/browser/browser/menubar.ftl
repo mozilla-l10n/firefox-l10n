@@ -49,6 +49,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Друкувати…
     .accesskey = к
+menu-file-import-from-another-browser =
+    .label = Імпорт даних з іншого браузера…
+    .accesskey = І
 menu-file-go-offline =
     .label = Працювати автономно
     .accesskey = ю
@@ -172,6 +175,8 @@ menu-history-synced-tabs =
     .label = Синхронізовані вкладки
 menu-history-restore-last-session =
     .label = Відновити попередній сеанс
+menu-history-hidden-tabs =
+    .label = Приховані вкладки
 menu-history-undo-menu =
     .label = Недавно закриті вкладки
 menu-history-undo-window-menu =
@@ -233,6 +238,9 @@ menu-preferences =
             [windows] Н
            *[other] Н
         }
+menu-tools-layout-debugger =
+    .label = Зневаджувач шаблона
+    .accesskey = ш
 
 ## Window Menu
 
