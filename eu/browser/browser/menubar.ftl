@@ -49,6 +49,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Inprimatu…
     .accesskey = p
+menu-file-import-from-another-browser =
+    .label = Inportatu beste nabigatzaile batetik…
+    .accesskey = I
 menu-file-go-offline =
     .label = Lan egin lineaz kanpo
     .accesskey = o
@@ -172,6 +175,8 @@ menu-history-synced-tabs =
     .label = Sinkronizatutako fitxak
 menu-history-restore-last-session =
     .label = Berreskuratu aurreko saioa
+menu-history-hidden-tabs =
+    .label = Ezkutatutako fitxak
 menu-history-undo-menu =
     .label = Itxitako azken fitxak
 menu-history-undo-window-menu =
@@ -233,6 +238,9 @@ menu-preferences =
             [windows] A
            *[other] n
         }
+menu-tools-layout-debugger =
+    .label = Diseinuaren araztailea
+    .accesskey = D
 
 ## Window Menu
 
