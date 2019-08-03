@@ -116,15 +116,29 @@ menu-tools-page-info =
 
 ## Window Menu
 
+menu-window-menu =
+    .label = Ventana
 
 ## Help Menu
 
+menu-help =
+    .label = Ayuda
+    .accesskey = H
 menu-help-product =
     .label = Ayuda de { -brand-shorter-name }
     .accesskey = H
 menu-help-keyboard-shortcuts =
     .label = Atajos del teclado
     .accesskey = K
+menu-help-troubleshooting-info =
+    .label = Información para resolver problemas
+    .accesskey = T
+menu-help-feedback-page =
+    .label = Enviar comentarios…
+    .accesskey = s
+menu-help-safe-mode-without-addons =
+    .label = Reiniciar con los complementos deshabilitados…
+    .accesskey = R
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.
