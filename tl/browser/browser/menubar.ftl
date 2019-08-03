@@ -5,12 +5,18 @@
 
 ## File Menu
 
+menu-file =
+    .label = File
+    .accesskey = F
 menu-file-new-tab =
     .label = Bagong Tab
     .accesskey = T
 menu-file-new-container-tab =
     .label = Bagong Lalagyanan ng Tab
     .accesskey = B
+menu-file-new-private-window =
+    .label = Bagong Private Window
+    .accesskey = W
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
 # but Firefox is still running.
@@ -19,9 +25,36 @@ menu-file-open-location =
 menu-file-close-window =
     .label = Isara ang Window
     .accesskey = d
+menu-file-print-setup =
+    .label = Maglagay ng Pahina…
+    .accesskey = u
+menu-file-print-preview =
+    .label = Print Preview
+    .accesskey = v
 
 ## Edit Menu
 
+menu-edit =
+    .label = Edit
+    .accesskey = E
+menu-edit-undo =
+    .label = i-Undo
+    .accesskey = U
+menu-edit-cut =
+    .label = I-cut
+    .accesskey = t
+menu-edit-copy =
+    .label = Kopyahin
+    .accesskey = C
+menu-edit-paste =
+    .label = I-paste
+    .accesskey = P
+menu-edit-delete =
+    .label = Burahin
+    .accesskey = B
+menu-edit-select-all =
+    .label = Piliin Lahat
+    .accesskey = A
 menu-edit-find-again =
     .label = Ipahanap Ulit
     .accesskey = g
@@ -31,6 +64,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Tingnan
+    .accesskey = T
+menu-view-toolbars-menu =
+    .label = Mga Toolbars
+    .accesskey = T
+menu-view-customize-toolbar =
+    .label = I-customize...
+    .accesskey = c
 menu-view-bookmarks =
     .label = Mga bookmark
 menu-view-history-button =
@@ -83,6 +125,9 @@ menu-view-bidi-switch-page-direction =
 
 ## History Menu
 
+menu-history =
+    .label = Kasaysayan
+    .accesskey = s
 menu-history-show-all-history =
     .label = Ipakita ang Lahat ng Kasaysayan
 menu-history-clear-recent-history =
@@ -111,6 +156,9 @@ menu-bookmarks-mobile =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Mga Tools
+    .accesskey = T
 menu-tools-downloads =
     .label = Mga Download
     .accesskey = D
@@ -135,6 +183,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Impormasyon tungkol sa web page
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Options
+           *[other] Mga Preferences
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
 
 ## Window Menu
 
