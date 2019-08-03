@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Pel
+    .accesskey = P
 menu-file-new-tab =
     .label = Hilpekîna Nû
     .accesskey = H
@@ -17,6 +20,9 @@ menu-file-new-private-window =
 menu-file-open-file =
     .label = Pelî Veke...
     .accesskey = V
+menu-file-close =
+    .label = Bigire
+    .accesskey = B
 menu-file-close-window =
     .label = Pencereyê Bigire
     .accesskey = P
@@ -41,6 +47,27 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Serastkirin
+    .accesskey = S
+menu-edit-undo =
+    .label = Şûnde Bîne
+    .accesskey = n
+menu-edit-redo =
+    .label = Nû bike
+    .accesskey = N
+menu-edit-cut =
+    .label = Jê bike
+    .accesskey = J
+menu-edit-paste =
+    .label = Pêve bike
+    .accesskey = P
+menu-edit-delete =
+    .label = Jêbirin
+    .accesskey = b
+menu-edit-select-all =
+    .label = Gişî hilbijêre
+    .accesskey = h
 menu-edit-find-on =
     .label = Di vê rûpelê de bibîne...
     .accesskey = D
@@ -53,6 +80,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Nîşan bide
+    .accesskey = b
+menu-view-toolbars-menu =
+    .label = Darikê Amûran
+    .accesskey = A
+menu-view-customize-toolbar =
+    .label = Taybet Bike
+    .accesskey = T
 menu-view-sidebar =
     .label = Darikê Quncikê
     .accesskey = Q
@@ -114,6 +150,8 @@ menu-history =
     .accesskey = R
 menu-history-show-all-history =
     .label = Hemû raboriyê nîşan bide
+menu-history-clear-recent-history =
+    .label = Raboriya nêzîk paqij bike…
 menu-history-restore-last-session =
     .label = Danişîna berê veava bike
 menu-history-undo-menu =
@@ -135,6 +173,9 @@ menu-bookmarks-toolbar =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Amûr
+    .accesskey = A
 menu-tools-downloads =
     .label = Yên hatine daxistin
     .accesskey = d
@@ -144,6 +185,9 @@ menu-tools-addons =
 menu-tools-sync-now =
     .label = Niha senkronîze bike
     .accesskey = s
+menu-tools-sync-re-auth =
+    .label = Têkiliya bi { -sync-brand-short-name } ê re dîsa çêke…
+    .accesskey = R
 menu-tools-web-developer =
     .label = Pêşvebira Webê
     .accesskey = W
@@ -153,6 +197,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Agahiyên Rûpelê
     .accesskey = A
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Vebijêrk
+           *[other] Vebijêrk
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] V
+           *[other] V
+        }
 
 ## Window Menu
 
@@ -166,6 +221,12 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Alîkarî
     .accesskey = A
+menu-help-product =
+    .label = Alîkariya { -brand-shorter-name }ê
+    .accesskey = A
+menu-help-show-tour =
+    .label = Tura { -brand-shorter-name }ê
+    .accesskey = T
 menu-help-keyboard-shortcuts =
     .label = Kurteriyên klavyeyê
     .accesskey = k
