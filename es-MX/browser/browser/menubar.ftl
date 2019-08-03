@@ -73,6 +73,9 @@ menu-bookmarks-toolbar =
 
 ## Tools Menu
 
+menu-tools-page-source =
+    .label = Código fuente de esta página
+    .accesskey = o
 menu-tools-page-info =
     .label = Información sobre esta página
     .accesskey = I
