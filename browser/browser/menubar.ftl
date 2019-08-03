@@ -49,6 +49,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Баспаға шығару…
     .accesskey = ш
+menu-file-import-from-another-browser =
+    .label = Басқа браузерден импорттау…
+    .accesskey = и
 menu-file-go-offline =
     .label = Дербес жұмыс істеу
     .accesskey = Д
@@ -94,6 +97,9 @@ menu-edit-bidi-switch-text-direction =
 menu-view =
     .label = Түрі
     .accesskey = р
+menu-view-toolbars-menu =
+    .label = Құралдар панельдері
+    .accesskey = л
 menu-view-customize-toolbar =
     .label = Баптау…
     .accesskey = а
@@ -169,6 +175,8 @@ menu-history-synced-tabs =
     .label = Синхрондалған беттер
 menu-history-restore-last-session =
     .label = Алдыңғы сессияны қалпына келтіру
+menu-history-hidden-tabs =
+    .label = Жасырын беттер
 menu-history-undo-menu =
     .label = Жақында жабылған беттер
 menu-history-undo-window-menu =
@@ -192,18 +200,33 @@ menu-bookmarks-mobile =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Құралдар
+    .accesskey = л
 menu-tools-downloads =
     .label = Жүктемелер
     .accesskey = Ж
 menu-tools-addons =
     .label = Қосымшалар
     .accesskey = с
+menu-tools-sync-sign-in =
+    .label = { -sync-brand-short-name } ішіне кіру…
+    .accesskey = у
 menu-tools-sync-now =
     .label = Қазір синхрондау
     .accesskey = с
 menu-tools-sync-re-auth =
     .label = { -sync-brand-short-name } үшін қайта байланысу…
     .accesskey = R
+menu-tools-web-developer =
+    .label = Веб-әзірлеуші
+    .accesskey = В
+menu-tools-page-source =
+    .label = Беттің бастапқы коды
+    .accesskey = б
+menu-tools-page-info =
+    .label = Бет ақпараты
+    .accesskey = а
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -215,6 +238,9 @@ menu-preferences =
             [windows] ц
            *[other] м
         }
+menu-tools-layout-debugger =
+    .label = Жайма жөндегіші
+    .accesskey = ж
 
 ## Window Menu
 
