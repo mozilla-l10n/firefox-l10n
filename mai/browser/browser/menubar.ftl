@@ -178,6 +178,10 @@ menu-bookmarks-all-tabs =
     .label = सभटा टैब पुस्तकचिह्नित करू…
 menu-bookmarks-toolbar =
     .label = पुस्तकचिह्नित अओजारपट्टी
+menu-bookmarks-other =
+    .label = आन पुस्तचिह्न
+menu-bookmarks-mobile =
+    .label = मोबाइल पुस्तचिह्न
 
 ## Tools Menu
 
