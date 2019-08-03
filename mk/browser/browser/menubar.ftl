@@ -53,6 +53,9 @@ menu-view-full-screen =
 
 ##
 
+menu-view-show-all-tabs =
+    .label = Прикажи ги сите јазичиња
+    .accesskey = П
 
 ## History Menu
 
