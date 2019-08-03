@@ -14,6 +14,11 @@ menu-file-new-window =
 menu-file-new-private-window =
     .label = नया निज विंडो (W)
     .accesskey = W
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = स्थान खोलू…
 menu-file-open-file =
     .label = फ़ाइल खोलू…
     .accesskey = O
@@ -58,6 +63,8 @@ menu-view-sidebar =
     .accesskey = e
 menu-view-bookmarks =
     .label = पुस्तकचिह्न
+menu-view-history-button =
+    .label = इतिहास
 menu-view-full-zoom =
     .label = पैघ-छोट करू
     .accesskey = Z
@@ -104,6 +111,12 @@ menu-view-bidi-switch-page-direction =
 menu-history =
     .label = इतिहास
     .accesskey = s
+menu-history-show-all-history =
+    .label = सभटा इतिहास देखाउ
+menu-history-clear-recent-history =
+    .label = हालक इतिहास साफ करू…
+menu-history-restore-last-session =
+    .label = पछिला सत्र फेर बहाल करू
 menu-history-undo-menu =
     .label = हाल मे बंद टैब
 menu-history-undo-window-menu =
