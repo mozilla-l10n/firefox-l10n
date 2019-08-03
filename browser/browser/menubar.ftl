@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Archivo
+    .accesskey = A
 menu-file-new-tab =
     .label = Nueva pestaña
     .accesskey = t
@@ -25,15 +28,24 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Abrir archivo…
     .accesskey = o
+menu-file-close =
+    .label = Cerrar
+    .accesskey = C
 menu-file-close-window =
     .label = Cerrar ventana
     .accesskey = C
 menu-file-save-page =
     .label = Guardar página como…
     .accesskey = a
+menu-file-email-link =
+    .label = Enviar enlace por email
+    .accesskey = E
 menu-file-print-setup =
     .label = Configuración de página…
     .accesskey = u
+menu-file-print-preview =
+    .label = Vista previa
+    .accesskey = V
 menu-file-print =
     .label = Imprimir…
     .accesskey = p
@@ -43,8 +55,35 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Editar
+    .accesskey = E
+menu-edit-undo =
+    .label = Deshacer
+    .accesskey = D
+menu-edit-redo =
+    .label = Rehacer
+    .accesskey = R
+menu-edit-cut =
+    .label = Cortar
+    .accesskey = t
+menu-edit-copy =
+    .label = Copiar
+    .accesskey = C
+menu-edit-paste =
+    .label = Pegar
+    .accesskey = P
+menu-edit-delete =
+    .label = Eliminar
+    .accesskey = E
+menu-edit-select-all =
+    .label = Seleccionar todo
+    .accesskey = a
 menu-edit-find-on =
     .label = Buscar en esta página…
+    .accesskey = B
+menu-edit-find-again =
+    .label = Volver a buscar
     .accesskey = B
 menu-edit-bidi-switch-text-direction =
     .label = Cambiar dirección del texto
@@ -52,6 +91,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Ver
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = Barras de herramientas
+    .accesskey = t
+menu-view-customize-toolbar =
+    .label = Personalizar…
+    .accesskey = P
 menu-view-sidebar =
     .label = Barra lateral
     .accesskey = e
@@ -85,6 +133,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Estilo básico de página
     .accesskey = b
+menu-view-charset =
+    .label = Codificación del texto
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -121,6 +172,8 @@ menu-history-synced-tabs =
     .label = Pestañas sincronizadas
 menu-history-restore-last-session =
     .label = Restaurar sesión anterior
+menu-history-hidden-tabs =
+    .label = Pestañas ocultas
 menu-history-undo-menu =
     .label = Pestañas cerradas recientemente
 menu-history-undo-window-menu =
@@ -137,9 +190,16 @@ menu-bookmarks-all-tabs =
     .label = Guardar todas las pestañas en marcadores…
 menu-bookmarks-toolbar =
     .label = Barra de marcadores
+menu-bookmarks-other =
+    .label = Otros marcadores
+menu-bookmarks-mobile =
+    .label = Marcadores en dispositivo móvil
 
 ## Tools Menu
 
+menu-tools =
+    .label = Herramientas
+    .accesskey = t
 menu-tools-downloads =
     .label = Descargas
     .accesskey = D
@@ -164,11 +224,27 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Información de la página
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Opciones
+           *[other] Preferencias
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
+menu-tools-layout-debugger =
+    .label = Depurador de diseño
+    .accesskey = L
 
 ## Window Menu
 
 menu-window-menu =
     .label = Ventana
+menu-window-bring-all-to-front =
+    .label = Traer todo hacia al frente
 
 ## Help Menu
 
@@ -189,6 +265,9 @@ menu-help-feedback-page =
     .accesskey = s
 menu-help-safe-mode-without-addons =
     .label = Reiniciar con los complementos deshabilitados…
+    .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = Reiniciar con los complementos habilitados…
     .accesskey = R
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
