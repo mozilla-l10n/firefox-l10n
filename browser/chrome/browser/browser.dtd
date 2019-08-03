@@ -146,9 +146,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Connecter un autre appareil…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!ENTITY fxa.menu.signin.label "Se connecter à &brandProductName;">
+<!ENTITY fxa.menu.turnOnSync.label "Activer &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.account.label "Compte">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.description "Envoyez des fichiers en ligne et partagez-les avec un chiffrement de bout en bout et un lien qui expire automatiquement.">
+<!ENTITY fxa.service.send.launch "Ouvrir &sendShortName;">
+<!ENTITY fxa.service.monitor.description "Vérifiez si votre adresse électronique apparaît dans une fuite de données et recevez une alerte si elle apparaît dans une nouvelle fuite.">
+<!ENTITY fxa.service.monitor.launch "Ouvrir &monitorShortName;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -882,7 +889,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Ces cookies vous suivent de site en site pour collecter des données sur vos faits et gestes en ligne. Ils sont déposés par des tiers, tels que des annonceurs ou des entreprises d’analyse de données.">
 <!ENTITY protections.cryptominers.description "Les mineurs de cryptomonnaies utilisent la puissance de calcul de votre système pour « extraire » de l’argent numérique. Les scripts de cryptominage déchargent votre batterie, ralentissent votre ordinateur et peuvent augmenter votre facture énergétique.">
+<!ENTITY protections.fingerprinters.description "Les détecteurs d’empreinte numérique recueillent les paramètres de votre navigateur et de votre ordinateur pour créer un profil de vous. En utilisant cette empreinte numérique, ils peuvent vous pister sur différents sites web.">
+<!ENTITY protections.trackingContent.description "Les sites web peuvent charger des publicités, des vidéos et d’autres contenus externes qui contiennent des éléments de pistage. Le blocage du contenu utilisé pour le pistage peut accélérer le chargement des sites, mais certains boutons, formulaires ou champs de connexion risquent de ne pas fonctionner.">
+<!ENTITY protections.socialMediaTrackers.description "Les réseaux sociaux placent des traqueurs sur d’autres sites web pour suivre ce que vous faites, lisez et regardez en ligne. Cela permet aux entreprises de réseaux sociaux d’en savoir plus sur vous au-delà de ce que vous partagez sur vos profils en ligne.">
 
+<!ENTITY protections.manageProtectionSettings.label "Gérer les paramètres de protection">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -926,6 +937,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "Traqueurs">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Pour bloquer tous les traqueurs, définissez le blocage du contenu sur « Strict ».">
 
+<!ENTITY contentBlocking.socialblock.label "Traqueurs de réseaux sociaux">
+<!ENTITY contentBlocking.socialblockView.label "Traqueurs de réseaux sociaux bloqués">
+<!ENTITY contentBlocking.socialblockView.description "Les réseaux sociaux placent des traqueurs sur d’autres sites web pour suivre ce que vous faites, lisez et regardez en ligne. Cela permet aux entreprises de réseaux sociaux d’en savoir plus sur vous au-delà de ce que vous partagez sur vos profils en ligne.">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies et données de sites">
@@ -940,8 +954,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Signaler des problèmes">
 <!ENTITY contentBlocking.breakageReportView2.description "Le blocage des contenus peut occasionner des problèmes sur certains sites web. Quand vous signalez des problèmes, vous contribuez à rendre &brandShortName; meilleur pour tout le monde. (Ceci enverra une URL ainsi que des informations sur les préférences de votre navigateur à Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "En savoir plus">
+<!ENTITY contentBlocking.breakageReportView.title "Signaler des problèmes avec ce site">
+<!ENTITY contentBlocking.breakageReportView3.description "Le blocage de certains traqueurs peut occasionner des problèmes sur des sites web. En signalant ces problèmes, vous contribuez à rendre &brandShortName; meilleur pour tout le monde. L’envoi du rapport communiquera une URL ainsi que des informations sur les préférences de votre navigateur à Mozilla.">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "En savoir plus">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Quels problèmes avez-vous rencontrés ? (facultatif)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Facultatif : décrivez le problème">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Envoyer le rapport">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Annuler">
 
