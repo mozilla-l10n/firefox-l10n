@@ -172,6 +172,8 @@ menu-history-synced-tabs =
     .label = Pestanyas sincronizadas
 menu-history-restore-last-session =
     .label = Restaurar a sesión anterior
+menu-history-hidden-tabs =
+    .label = Pestanyas amagadas
 menu-history-undo-menu =
     .label = Pestanyas zarradas en zagueras
 menu-history-undo-window-menu =
@@ -233,6 +235,9 @@ menu-preferences =
             [windows] O
            *[other] n
         }
+menu-tools-layout-debugger =
+    .label = Depurador de disenyo
+    .accesskey = L
 
 ## Window Menu
 
