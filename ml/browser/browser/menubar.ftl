@@ -173,6 +173,8 @@ menu-bookmarks-toolbar =
     .label = അടയാളക്കുറിപ്പിനുള്ള ടൂള്‍ബാര്‍
 menu-bookmarks-other =
     .label = മറ്റു് അടയാളക്കുറിപ്പുകള്‍
+menu-bookmarks-mobile =
+    .label = മൊബൈൽ ബുക്ക്മാർക്ക്
 
 ## Tools Menu
 
