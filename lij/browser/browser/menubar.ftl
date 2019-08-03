@@ -8,6 +8,9 @@
 menu-file-new-tab =
     .label = Neuvo feuggio
     .accesskey = N
+menu-file-new-container-tab =
+    .label = Neuvo feuggio contenitô
+    .accesskey = c
 menu-file-new-window =
     .label = Neuvo barcon
     .accesskey = N
@@ -81,6 +84,12 @@ menu-view-charset =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Amia a tutto schermo
+    .accesskey = h
+menu-view-exit-full-screen =
+    .label = Sciòrti da a tutto schermo
+    .accesskey = h
 menu-view-full-screen =
     .label = A tutto schermo
     .accesskey = A
@@ -100,6 +109,8 @@ menu-history-show-all-history =
     .label = Fanni vedde tutta a stöia
 menu-history-clear-recent-history =
     .label = Scancella a stöia ciù neuva…
+menu-history-synced-tabs =
+    .label = Feuggi scincronizæ
 menu-history-restore-last-session =
     .label = Repiggia a vegia sescion
 menu-history-undo-menu =
@@ -125,6 +136,12 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Conponenti azonti
     .accesskey = a
+menu-tools-sync-sign-in =
+    .label = Acedi a { -sync-brand-short-name }…
+    .accesskey = y
+menu-tools-sync-re-auth =
+    .label = Conetti torna a { -sync-brand-short-name }…
+    .accesskey = R
 menu-tools-page-source =
     .label = Sorgente da Pagina
     .accesskey = o
