@@ -23,6 +23,8 @@
 
 menu-history-undo-menu =
     .label = সম্প্রতি বন্ধ করা ট্যাব
+menu-history-undo-window-menu =
+    .label = সম্প্রতি বন্ধ করা উইন্ডো
 
 ## Bookmarks Menu
 
