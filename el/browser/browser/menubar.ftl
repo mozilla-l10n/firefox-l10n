@@ -76,6 +76,9 @@ menu-edit-delete =
 menu-edit-select-all =
     .label = Επιλογή όλων
     .accesskey = λ
+menu-edit-find-on =
+    .label = Εύρεση στη σελίδα…
+    .accesskey = ρ
 menu-edit-find-again =
     .label = Εύρεση ξανά
     .accesskey = ξ
@@ -103,6 +106,9 @@ menu-view-history-button =
     .label = Ιστορικό
 menu-view-synced-tabs-sidebar =
     .label = Συγχρονισμένες καρτέλες
+menu-view-full-zoom =
+    .label = Ζουμ
+    .accesskey = Ζ
 menu-view-full-zoom-enlarge =
     .label = Μεγέθυνση
     .accesskey = σ
@@ -163,6 +169,8 @@ menu-history-synced-tabs =
     .label = Συγχρονισμένες καρτέλες
 menu-history-restore-last-session =
     .label = Επαναφορά προηγούμενης συνεδρίας
+menu-history-hidden-tabs =
+    .label = Κρυμμένες καρτέλες
 menu-history-undo-menu =
     .label = Πρόσφατα κλεισμένες καρτέλες
 menu-history-undo-window-menu =
@@ -195,6 +203,9 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Πρόσθετα
     .accesskey = θ
+menu-tools-sync-sign-in =
+    .label = Σύνδεση στο { -sync-brand-short-name }…
+    .accesskey = ν
 menu-tools-sync-now =
     .label = Συγχρονισμός τώρα
     .accesskey = Σ
@@ -221,6 +232,9 @@ menu-preferences =
             [windows] Ε
            *[other] μ
         }
+menu-tools-layout-debugger =
+    .label = Αποσφαλμάτωση διάταξης
+    .accesskey = Δ
 
 ## Window Menu
 
@@ -249,6 +263,9 @@ menu-help-troubleshooting-info =
 menu-help-feedback-page =
     .label = Υποβολή σχολίων…
     .accesskey = λ
+menu-help-safe-mode-without-addons =
+    .label = Επανεκκίνηση με ανενεργά πρόσθετα…
+    .accesskey = π
 menu-help-safe-mode-with-addons =
     .label = Επανεκκίνηση με ενεργά πρόσθετα
     .accesskey = π
