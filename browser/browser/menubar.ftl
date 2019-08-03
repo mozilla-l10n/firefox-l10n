@@ -60,12 +60,24 @@ menu-view-full-zoom =
 menu-view-full-zoom-enlarge =
     .label = 放大
     .accesskey = I
+menu-view-full-zoom-reduce =
+    .label = 缩小
+    .accesskey = O
 menu-view-full-zoom-reset =
     .label = 重置
     .accesskey = R
 menu-view-full-zoom-toggle =
     .label = 仅缩放文本
     .accesskey = T
+menu-view-page-style-menu =
+    .label = 页面样式
+    .accesskey = y
+menu-view-page-style-no-style =
+    .label = 无样式
+    .accesskey = N
+menu-view-page-basic-style =
+    .label = 基本页面样式
+    .accesskey = B
 menu-view-charset =
     .label = 文字编码
     .accesskey = c
@@ -85,6 +97,9 @@ menu-view-full-screen =
 
 ##
 
+menu-view-show-all-tabs =
+    .label = 显示所有标签页
+    .accesskey = A
 menu-view-bidi-switch-page-direction =
     .label = 切换页面方向
     .accesskey = D
