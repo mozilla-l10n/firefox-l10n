@@ -5,6 +5,12 @@
 
 ## File Menu
 
+menu-file-new-window =
+    .label = Новае акно
+    .accesskey = Н
+menu-file-save-page =
+    .label = Захаваць старонку як…
+    .accesskey = я
 menu-file-print-preview =
     .label = Перадпрагляд друку
     .accesskey = г
@@ -17,9 +23,28 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit-find-on =
+    .label = Знайсці на гэтай старонцы…
+    .accesskey = З
+menu-edit-bidi-switch-text-direction =
+    .label = Пераключыць кірунак тэксту
+    .accesskey = р
 
 ## View Menu
 
+menu-view-bookmarks =
+    .label = Закладкі
+menu-view-history-button =
+    .label = Гісторыя
+menu-view-full-zoom-enlarge =
+    .label = Павялічыць
+    .accesskey = в
+menu-view-full-zoom-reduce =
+    .label = Паменшыць
+    .accesskey = м
+menu-view-full-zoom-toggle =
+    .label = Павялічваць толькі тэкст
+    .accesskey = т
 menu-view-page-style-menu =
     .label = Стыль старонкі
     .accesskey = С
@@ -42,6 +67,9 @@ menu-view-full-screen =
 
 ##
 
+menu-view-bidi-switch-page-direction =
+    .label = Пераключыць кірунак старонкі
+    .accesskey = к
 
 ## History Menu
 
@@ -50,6 +78,8 @@ menu-history =
     .accesskey = Г
 menu-history-show-all-history =
     .label = Паказаць усю гісторыю
+menu-history-clear-recent-history =
+    .label = Ачысціць нядаўнюю гісторыю…
 
 ## Bookmarks Menu
 
@@ -61,12 +91,31 @@ menu-bookmarks-show-all =
 
 ## Tools Menu
 
+menu-tools-addons =
+    .label = Дадаткі
+    .accesskey = Д
+menu-tools-sync-now =
+    .label = Сінхранізаваць зараз{ " " }
+    .accesskey = С
+menu-tools-sync-re-auth =
+    .label = Перазлучыцца з { -sync-brand-short-name }…
+    .accesskey = П
 menu-tools-page-info =
     .label = Звесткі пра старонку
     .accesskey = З
 
 ## Window Menu
 
+menu-window-menu =
+    .label = Акно
+menu-window-bring-all-to-front =
+    .label = Выцягнуць усе наперад
 
 ## Help Menu
 
+menu-help =
+    .label = Даведка
+    .accesskey = Д
+menu-help-troubleshooting-info =
+    .label = Звесткі для вырашэння праблемаў
+    .accesskey = З
