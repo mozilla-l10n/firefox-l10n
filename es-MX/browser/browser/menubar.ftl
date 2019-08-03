@@ -39,6 +39,9 @@ menu-view-full-screen =
 
 ## History Menu
 
+menu-history =
+    .label = Historial
+    .accesskey = H
 menu-history-undo-menu =
     .label = Pestañas cerradas recientemente
 menu-history-undo-window-menu =
