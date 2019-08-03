@@ -220,6 +220,9 @@ menu-help-feedback-page =
 menu-help-safe-mode-without-addons =
     .label = Mit deaktivierten Add-ons neu starten…
     .accesskey = A
+menu-help-safe-mode-with-addons =
+    .label = Mit aktivierten Add-ons neu starten
+    .accesskey = A
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.
