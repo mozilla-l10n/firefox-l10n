@@ -172,6 +172,8 @@ menu-history-synced-tabs =
     .label = সিঙ্ক হওয়া ট্যাব
 menu-history-restore-last-session =
     .label = পূর্ববর্তী সেশান পুনরুদ্ধার করুন
+menu-history-hidden-tabs =
+    .label = লুকাইত ট্যাব
 menu-history-undo-menu =
     .label = সম্প্রতি বন্ধ করা ট্যাব
 menu-history-undo-window-menu =
@@ -233,6 +235,9 @@ menu-preferences =
             [windows] O
            *[other] ব
         }
+menu-tools-layout-debugger =
+    .label = লেআউট ডিবাগার
+    .accesskey = L
 
 ## Window Menu
 
