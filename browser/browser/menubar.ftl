@@ -14,6 +14,9 @@ menu-file-new-tab =
 menu-file-new-container-tab =
     .label = ახალი სათავსი ჩანართი
     .accesskey = ს
+menu-file-new-window =
+    .label = ახალი ფანჯარა
+    .accesskey = ნ
 menu-file-new-private-window =
     .label = ახალი პირადი ფანჯარა
     .accesskey = ფ
@@ -46,6 +49,12 @@ menu-file-print-preview =
 menu-file-print =
     .label = ამობეჭდვა…
     .accesskey = ა
+menu-file-import-from-another-browser =
+    .label = გადმოტანა სხვა ბრაუზერიდან…
+    .accesskey = ბ
+menu-file-go-offline =
+    .label = კავშირგარეშე რეჟიმი
+    .accesskey = კ
 
 ## Edit Menu
 
@@ -61,12 +70,18 @@ menu-edit-redo =
 menu-edit-cut =
     .label = ამოჭრა
     .accesskey = ა
+menu-edit-copy =
+    .label = ასლი
+    .accesskey = ს
 menu-edit-paste =
     .label = ჩასმა
     .accesskey = ჩ
 menu-edit-delete =
     .label = წაშლა
     .accesskey = წ
+menu-edit-select-all =
+    .label = ყველაფრის მონიშვნა
+    .accesskey = ყ
 menu-edit-find-on =
     .label = პოვნა გვერდზე…
     .accesskey = პ
@@ -185,6 +200,9 @@ menu-bookmarks-mobile =
 
 ## Tools Menu
 
+menu-tools =
+    .label = ხელსაწყოები
+    .accesskey = წ
 menu-tools-downloads =
     .label = ჩამოტვირთვები
     .accesskey = ჩ
