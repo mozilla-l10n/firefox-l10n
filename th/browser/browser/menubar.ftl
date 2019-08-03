@@ -11,6 +11,8 @@
 
 ## View Menu
 
+menu-view-history-button =
+    .label = ประวัติ
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -36,6 +38,10 @@ menu-bookmarks-toolbar =
 
 ## Window Menu
 
+menu-window-menu =
+    .label = หน้าต่าง
+menu-window-bring-all-to-front =
+    .label = นำทั้งหมดมาข้างหน้า
 
 ## Help Menu
 
