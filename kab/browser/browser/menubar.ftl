@@ -59,6 +59,9 @@ menu-edit-copy =
 menu-edit-delete =
     .label = Kkes
     .accesskey = K
+menu-edit-find-on =
+    .label = Nadi deg usebter-a…
+    .accesskey = d
 menu-edit-find-again =
     .label = Nadi ɣer zdat
     .accesskey = d
@@ -116,6 +119,8 @@ menu-history-undo-window-menu =
 
 ## Bookmarks Menu
 
+menu-bookmarks-toolbar =
+    .label = Afeggag n tecraḍ
 
 ## Tools Menu
 
