@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file-close-window =
+    .label = Nàrrun' Window
+    .accesskey = d
 menu-file-print =
     .label = Nari' ña du'ua
     .accesskey = P
@@ -14,6 +17,10 @@ menu-file-print =
 
 ## View Menu
 
+menu-view-bookmarks =
+    .label = Sa raj sun nichrò' doj
+menu-view-history-button =
+    .label = Sa gini’iājt
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -30,6 +37,12 @@ menu-file-print =
 
 ## Tools Menu
 
+menu-tools-downloads =
+    .label = Nadunïnj
+    .accesskey = D
+menu-tools-addons =
+    .label = Sa ga'ue nùtat doj
+    .accesskey = A
 
 ## Window Menu
 
