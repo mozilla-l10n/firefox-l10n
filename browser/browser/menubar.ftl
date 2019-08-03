@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Datoteka
+    .accesskey = D
 menu-file-new-tab =
     .label = Nov zavihek
     .accesskey = Z
@@ -25,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Odpri datoteko …
     .accesskey = O
+menu-file-close =
+    .label = Zapri
+    .accesskey = Z
 menu-file-close-window =
     .label = Zapri okno
     .accesskey = o
@@ -55,6 +61,27 @@ menu-file-go-offline =
 menu-edit =
     .label = Uredi
     .accesskey = U
+menu-edit-undo =
+    .label = Razveljavi …
+    .accesskey = Z
+menu-edit-redo =
+    .label = Ponovi
+    .accesskey = O
+menu-edit-cut =
+    .label = Izreži
+    .accesskey = i
+menu-edit-copy =
+    .label = Kopiraj
+    .accesskey = K
+menu-edit-paste =
+    .label = Prilepi
+    .accesskey = P
+menu-edit-delete =
+    .label = Izbriši
+    .accesskey = B
+menu-edit-select-all =
+    .label = Izberi vse
+    .accesskey = V
 menu-edit-find-on =
     .label = Najdi na tej strani …
     .accesskey = D
@@ -67,6 +94,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Pogled
+    .accesskey = P
+menu-view-toolbars-menu =
+    .label = Orodne vrstice
+    .accesskey = T
+menu-view-customize-toolbar =
+    .label = Prilagodi …
+    .accesskey = P
 menu-view-sidebar =
     .label = Stranska vrstica
     .accesskey = v
@@ -139,6 +175,8 @@ menu-history-synced-tabs =
     .label = Sinhronizirani zavihki
 menu-history-restore-last-session =
     .label = Obnovi prejšnjo sejo
+menu-history-hidden-tabs =
+    .label = Skriti zavihki
 menu-history-undo-menu =
     .label = Nedavno zaprti zavihki
 menu-history-undo-window-menu =
@@ -189,6 +227,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Podatki o strani
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Možnosti
+           *[other] Nastavitve
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] M
+           *[other] n
+        }
 menu-tools-layout-debugger =
     .label = Razhroščevalnik postavitve
     .accesskey = P
@@ -214,6 +263,9 @@ menu-help-show-tour =
 menu-help-keyboard-shortcuts =
     .label = Bližnjice tipk
     .accesskey = B
+menu-help-troubleshooting-info =
+    .label = Odpravljanje težav
+    .accesskey = R
 menu-help-feedback-page =
     .label = Povratne informacije …
     .accesskey = v
