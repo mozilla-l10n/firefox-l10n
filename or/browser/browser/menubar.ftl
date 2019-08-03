@@ -11,6 +11,9 @@ menu-file-new-tab =
 menu-file-new-window =
     .label = ନୂତନ ୱିଣ୍ଡୋ
     .accesskey = N
+menu-file-new-private-window =
+    .label = ନୂତନ ବ୍ୟକ୍ତିଗତ ୱିଣ୍ଡୋ
+    .accesskey = W
 menu-file-open-file =
     .label = ଫାଇଲ ଖୋଲନ୍ତୁ…
     .accesskey = O
@@ -20,6 +23,9 @@ menu-file-close-window =
 menu-file-save-page =
     .label = ପୃଷ୍ଠାକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ…
     .accesskey = A
+menu-file-email-link =
+    .label = ସଂଯୋଗିକୀକୁ ଇମେଲ କରନ୍ତୁ…
+    .accesskey = E
 menu-file-print-setup =
     .label = ପୃଷ୍ଠା ବିନ୍ୟାସ…
     .accesskey = u
@@ -29,6 +35,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = ମୁଦ୍ରଣ କରନ୍ତୁ…
     .accesskey = P
+menu-file-go-offline =
+    .label = ଅଫଲାଇନରେ କାମ କରନ୍ତୁ
+    .accesskey = k
 
 ## Edit Menu
 
@@ -71,12 +80,21 @@ menu-view-page-style-menu =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = ସମ୍ପୂର୍ଣ୍ଣ ପରଦା କରନ୍ତୁ
+    .accesskey = F
+menu-view-exit-full-screen =
+    .label = ସମ୍ପୂର୍ଣ୍ଣ ପରଦା ତ୍ୟାଗ କରନ୍ତୁ
+    .accesskey = F
 menu-view-full-screen =
     .label = ସମ୍ପୂର୍ଣ୍ଣ ପରଦା
     .accesskey = F
 
 ##
 
+menu-view-show-all-tabs =
+    .label = ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼କୁ ଦର୍ଶାନ୍ତୁ
+    .accesskey = A
 menu-view-bidi-switch-page-direction =
     .label = ପୃଷ୍ଠା ନିର୍ଦ୍ଦେଶ ବଦଳାନ୍ତୁ
     .accesskey = D
@@ -88,12 +106,16 @@ menu-history =
     .accesskey = s
 menu-history-undo-menu =
     .label = ନିକଟରେ ବନ୍ଦ ହୋଇଥିବା ଟ୍ୟାବଗୁଡ଼ିକ
+menu-history-undo-window-menu =
+    .label = ସାମ୍ପ୍ରତିକ ବନ୍ଦ ହୋଇଥିବା ୱିଣ୍ଡୋଗୁଡ଼ିକ
 
 ## Bookmarks Menu
 
 menu-bookmarks-menu =
     .label = ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ
     .accesskey = B
+menu-bookmarks-show-all =
+    .label = ସମସ୍ତ ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ
 menu-bookmarks-all-tabs =
     .label = ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ଚିହ୍ନିତ କରନ୍ତୁ…
 menu-bookmarks-toolbar =
@@ -104,9 +126,15 @@ menu-bookmarks-toolbar =
 menu-tools-downloads =
     .label = ଆହରଣଗୁଡ଼ିକ
     .accesskey = D
+menu-tools-addons =
+    .label = ଏଡ଼-ଅନଗୁଡ଼ିକୁ
+    .accesskey = A
 menu-tools-sync-now =
     .label = ବର୍ତ୍ତମାନ ସନ୍ତୁଳନ କରନ୍ତୁ
     .accesskey = S
+menu-tools-web-developer =
+    .label = ୱେବ ବିକାଶକ
+    .accesskey = W
 menu-tools-page-source =
     .label = ପୃଷ୍ଠା ଉତ୍ସ
     .accesskey = o
@@ -126,3 +154,15 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = ସହାୟତା
     .accesskey = H
+menu-help-keyboard-shortcuts =
+    .label = କିବୋର୍ଡ ସକ୍ଷିପ୍ତପଥ (K)
+    .accesskey = K
+menu-help-troubleshooting-info =
+    .label = ତ୍ରୁଟିନିବାରଣ ସୂଚନା
+    .accesskey = T
+menu-help-feedback-page =
+    .label = ମତାମତ ଦାଖଲ କରନ୍ତୁ…
+    .accesskey = S
+menu-help-safe-mode-without-addons =
+    .label = ଏଡ-ଅନଗୁଡ଼ିକୁ ନିଷ୍କ୍ରିୟ କରି ପୁନଃଚାଳନ କରନ୍ତୁ…
+    .accesskey = R
