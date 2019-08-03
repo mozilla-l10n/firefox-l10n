@@ -25,6 +25,8 @@ menu-history-show-all-history =
     .label = Dangos yr Holl Hanes
 menu-history-undo-menu =
     .label = Tabiau Wedi eu Cau'n Ddiweddar
+menu-history-undo-window-menu =
+    .label = Ffenestri wedi eu Cau yn Ddiweddar
 
 ## Bookmarks Menu
 
