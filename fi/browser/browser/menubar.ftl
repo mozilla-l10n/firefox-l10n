@@ -11,6 +11,9 @@ menu-file =
 menu-file-new-tab =
     .label = Uusi välilehti
     .accesskey = v
+menu-file-new-container-tab =
+    .label = Uusi eristetty välilehti
+    .accesskey = l
 menu-file-new-window =
     .label = Uusi ikkuna
     .accesskey = U
@@ -183,6 +186,8 @@ menu-bookmarks-menu =
     .accesskey = K
 menu-bookmarks-show-all =
     .label = Näytä kaikki kirjanmerkit
+menu-bookmarks-all-tabs =
+    .label = Lisää kaikki välilehdet kirjanmerkkeihin…
 menu-bookmarks-toolbar =
     .label = Kirjanmerkkipalkki
 menu-bookmarks-other =
@@ -236,9 +241,16 @@ menu-tools-layout-debugger =
 
 ## Window Menu
 
+menu-window-menu =
+    .label = Ikkuna
+menu-window-bring-all-to-front =
+    .label = Näytä kaikki
 
 ## Help Menu
 
+menu-help =
+    .label = Ohje
+    .accesskey = O
 menu-help-product =
     .label = { -brand-shorter-name }in ohje
     .accesskey = o
