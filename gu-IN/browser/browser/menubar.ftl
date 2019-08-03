@@ -11,6 +11,9 @@ menu-file-new-tab =
 menu-file-new-window =
     .label = નવી વિન્ડો
     .accesskey = N
+menu-file-new-private-window =
+    .label = નવી ખાનગી વિન્ડો
+    .accesskey = W
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
 # but Firefox is still running.
@@ -19,6 +22,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = ફાઈલ ખોલો...
     .accesskey = O
+menu-file-email-link =
+    .label = ઇમેલ કડી…
+    .accesskey = E
 menu-file-print-setup =
     .label = પાનાં સુયોજન...
     .accesskey = u
@@ -28,6 +34,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = છાપો...
     .accesskey = P
+menu-file-go-offline =
+    .label = ઓફલાઈન કામ કરો
+    .accesskey = k
 
 ## Edit Menu
 
@@ -60,9 +69,18 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = સામાન્ય
     .accesskey = R
+menu-view-full-zoom-toggle =
+    .label = માત્ર લખાણ નાનુંમોટું કરો
+    .accesskey = T
 menu-view-page-style-menu =
     .label = પાનાં શૈલી
     .accesskey = y
+menu-view-page-style-no-style =
+    .label = કોઈ શૈલી નથી
+    .accesskey = N
+menu-view-page-basic-style =
+    .label = મૂળભૂત પાનાં શૈલી
+    .accesskey = B
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -79,6 +97,12 @@ menu-view-bidi-switch-page-direction =
 menu-history =
     .label = ઇતિહાસ
     .accesskey = s
+menu-history-clear-recent-history =
+    .label = તાજેતરનાં ઇતિહાસને સાફ કરો…
+menu-history-restore-last-session =
+    .label = પહેલાનાં સત્રને પુન:સંગ્રહો
+menu-history-undo-window-menu =
+    .label = છેલ્લે બંધ થયેલ વિન્ડો
 
 ## Bookmarks Menu
 
@@ -88,6 +112,15 @@ menu-history =
 menu-tools-downloads =
     .label = ડાઉનલોડ
     .accesskey = D
+menu-tools-addons =
+    .label = એડ-ઓન
+    .accesskey = A
+menu-tools-sync-re-auth =
+    .label = { -sync-brand-short-name } માં પુન:જોડાવો…
+    .accesskey = R
+menu-tools-web-developer =
+    .label = વેબ ડેવલપર
+    .accesskey = W
 menu-tools-page-source =
     .label = પાનાં સ્રોત
     .accesskey = o
@@ -102,3 +135,12 @@ menu-window-menu =
 menu-help =
     .label = મદદ
     .accesskey = H
+menu-help-troubleshooting-info =
+    .label = મુશ્કેલીનિવારણ જાણકારી
+    .accesskey = T
+menu-help-feedback-page =
+    .label = પ્રતિસાદને ઉમેરો…
+    .accesskey = S
+menu-help-safe-mode-without-addons =
+    .label = નિષ્ક્રિય થયેલ ઍડ-ઑન સાથે પુન:શરૂ કરો…
+    .accesskey = R
