@@ -8,6 +8,9 @@
 menu-file =
     .label = Fichier
     .accesskey = F
+menu-file-new-tab =
+    .label = Neien Tab
+    .accesskey = T
 menu-file-new-window =
     .label = Nei Fënster
     .accesskey = N
@@ -19,12 +22,30 @@ menu-file-new-private-window =
 # but Firefox is still running.
 menu-file-open-location =
     .label = Adress opmaachen…
+menu-file-open-file =
+    .label = Fichier Opmaachen…
+    .accesskey = O
 menu-file-close-window =
     .label = Fënster zoumaachen
     .accesskey = d
 menu-file-save-page =
     .label = Säit späicheren ënner…
     .accesskey = A
+menu-file-email-link =
+    .label = Link mailen…
+    .accesskey = E
+menu-file-print-setup =
+    .label = Säitenastellungen…
+    .accesskey = u
+menu-file-print-preview =
+    .label = Dréckvirschau
+    .accesskey = v
+menu-file-print =
+    .label = Drécken…
+    .accesskey = P
+menu-file-go-offline =
+    .label = Offline schaffen
+    .accesskey = k
 
 ## Edit Menu
 
@@ -62,6 +83,9 @@ menu-view-bookmarks =
     .label = Lieszeechen
 menu-view-history-button =
     .label = Historique
+menu-view-charset =
+    .label = Textkodéierung
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -86,6 +110,12 @@ menu-view-show-all-tabs =
 
 menu-history-clear-recent-history =
     .label = Rezenten Historique läschen…
+menu-history-hidden-tabs =
+    .label = Verstoppt Tabs
+menu-history-undo-menu =
+    .label = Rezent zougemaach Tabs
+menu-history-undo-window-menu =
+    .label = Rezent zougemaach Fënsteren
 
 ## Bookmarks Menu
 
@@ -111,6 +141,9 @@ menu-tools =
 menu-tools-addons =
     .label = Add-ons
     .accesskey = A
+menu-tools-sync-now =
+    .label = Elo synchroniséieren
+    .accesskey = S
 menu-tools-page-source =
     .label = Quellcode vun der Säit
     .accesskey = o
@@ -147,12 +180,18 @@ menu-help =
 menu-help-product =
     .label = { -brand-shorter-name } Hëllef
     .accesskey = H
+menu-help-show-tour =
+    .label = { -brand-shorter-name } Tour
+    .accesskey = o
 menu-help-keyboard-shortcuts =
     .label = Tastekombinatiounen
     .accesskey = T
 menu-help-troubleshooting-info =
     .label = Informatiounen zur Feelerbehiewung
     .accesskey = f
+menu-help-feedback-page =
+    .label = Feedback schécken…
+    .accesskey = S
 menu-help-safe-mode-without-addons =
     .label = Ouni Add-ons nei starten...
     .accesskey = A
