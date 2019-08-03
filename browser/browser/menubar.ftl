@@ -43,6 +43,9 @@ menu-view-sidebar =
     .accesskey = a
 menu-view-bookmarks =
     .label = Utumenyetso
+menu-view-full-zoom-reset =
+    .label = Gusubizaho
+    .accesskey = s
 menu-view-page-style-menu =
     .label = Imisusire ya Paji
     .accesskey = s
@@ -65,6 +68,11 @@ menu-view-bidi-switch-page-direction =
 
 ## History Menu
 
+menu-history =
+    .label = Amateka
+    .accesskey = t
+menu-history-undo-menu =
+    .label = Udufishi Twafunze Iyimura
 
 ## Bookmarks Menu
 
@@ -76,6 +84,12 @@ menu-bookmarks-toolbar =
 
 ## Tools Menu
 
+menu-tools-downloads =
+    .label = Ibikururwa
+    .accesskey = I
+menu-tools-addons =
+    .label = Imigereka
+    .accesskey = g
 menu-tools-page-source =
     .label = Inkomoko ya Paji
     .accesskey = P
