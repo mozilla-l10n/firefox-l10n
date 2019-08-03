@@ -5,6 +5,17 @@
 
 ## File Menu
 
+menu-file-new-tab =
+    .label = ­Nieuw tabblad
+    .accesskey = t
+menu-file-new-private-window =
+    .label = Nieuw privévenster
+    .accesskey = r
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Locatie openen…
 menu-file-open-file =
     .label = Bestand openen…
     .accesskey = o
@@ -14,6 +25,9 @@ menu-file-close-window =
 menu-file-save-page =
     .label = Pagina opslaan als…
     .accesskey = p
+menu-file-email-link =
+    .label = Koppeling e-mailen…
+    .accesskey = m
 menu-file-print-setup =
     .label = Pagina-instellingen…
     .accesskey = i
@@ -70,12 +84,24 @@ menu-view-page-basic-style =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Schermvullende weergave
+    .accesskey = S
+menu-view-exit-full-screen =
+    .label = Schermvullende weergave verlaten
+    .accesskey = S
 menu-view-full-screen =
     .label = Volledig scherm
     .accesskey = d
 
 ##
 
+menu-view-show-all-tabs =
+    .label = Alle tabbladen tonen
+    .accesskey = A
+menu-view-bidi-switch-page-direction =
+    .label = Paginarichting omkeren
+    .accesskey = a
 
 ## History Menu
 
@@ -84,14 +110,22 @@ menu-history =
     .accesskey = G
 menu-history-show-all-history =
     .label = Alle geschiedenis tonen
+menu-history-clear-recent-history =
+    .label = Recente geschiedenis wissen…
+menu-history-restore-last-session =
+    .label = Vorige sessie herstellen
 menu-history-undo-menu =
     .label = Onlangs gesloten tabbladen
+menu-history-undo-window-menu =
+    .label = Onlangs gesloten vensters
 
 ## Bookmarks Menu
 
 menu-bookmarks-menu =
     .label = Bladwijzers
     .accesskey = a
+menu-bookmarks-show-all =
+    .label = Alle bladwijzers tonen
 menu-bookmarks-all-tabs =
     .label = Bladwijzer voor alle tabbladen maken…
 menu-bookmarks-toolbar =
@@ -105,6 +139,18 @@ menu-tools =
 menu-tools-downloads =
     .label = Downloads
     .accesskey = D
+menu-tools-addons =
+    .label = Add-ons
+    .accesskey = A
+menu-tools-sync-re-auth =
+    .label = Opnieuw verbinden met { -sync-brand-short-name }…
+    .accesskey = O
+menu-tools-web-developer =
+    .label = Webontwikkelaar
+    .accesskey = W
+menu-tools-page-source =
+    .label = Paginabron
+    .accesskey = b
 menu-tools-page-info =
     .label = Pagina-info
     .accesskey = i
@@ -121,3 +167,9 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Help
     .accesskey = H
+menu-help-troubleshooting-info =
+    .label = Probleemoplossingsinformatie
+    .accesskey = P
+menu-help-safe-mode-without-addons =
+    .label = Herstarten met uitgeschakelde add-ons…
+    .accesskey = r
