@@ -8,6 +8,11 @@
 menu-file-new-tab =
     .label = Nueva pestaña
     .accesskey = T
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Abrir dirección…
 menu-file-open-file =
     .label = Abrir archivo…
     .accesskey = b
@@ -44,6 +49,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Estilo de página básico
     .accesskey = b
+menu-view-charset =
+    .label = Codif. de caracteres
+    .accesskey = C
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -89,15 +97,31 @@ menu-bookmarks-all-tabs =
     .label = Añadir pestañas a marcadores…
 menu-bookmarks-toolbar =
     .label = Barra de herramientas de marcadores
+menu-bookmarks-other =
+    .label = Otros marcadores
+menu-bookmarks-mobile =
+    .label = Marcadores del móvil
 
 ## Tools Menu
 
+menu-tools-page-source =
+    .label = Código fuente de la página
+    .accesskey = f
 menu-tools-page-info =
     .label = Información de la página
     .accesskey = I
+menu-tools-layout-debugger =
+    .label = Depurador de representación
+    .accesskey = D
 
 ## Window Menu
 
 
 ## Help Menu
 
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Informar de sitio engañoso…
+    .accesskey = I
