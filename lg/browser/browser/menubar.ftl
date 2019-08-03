@@ -77,6 +77,12 @@ menu-view-page-basic-style =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Yingira Sikulini Enzijjuvu
+    .accesskey = E
+menu-view-exit-full-screen =
+    .label = Fuluma Sikulini Enzijjuvu
+    .accesskey = E
 menu-view-full-screen =
     .label = Sikulini mu Bujjuvu
     .accesskey = S
