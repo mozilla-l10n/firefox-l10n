@@ -138,13 +138,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.button.label "Nastavení služby &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Přihlášen(a) jako">
 <!ENTITY fxa.menu.manageAccount.label "Správa účtu…">
 <!ENTITY fxa.menu.syncSettings.label "Nastavení synchronizace…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Připojit další zařízení…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!ENTITY fxa.menu.account.label "Účet">
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.launch "Otevřít &sendShortName;">
+<!ENTITY fxa.service.monitor.launch "Otevřít &monitorShortName;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -188,6 +195,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "Přidat všechny panely do záložek…">
+
 <!ENTITY showAllBookmarks2.label "Zobrazit všechny záložky">
 <!ENTITY recentBookmarks.label "Naposledy přidané">
 <!ENTITY otherBookmarksCmd.label "Ostatní záložky">
@@ -310,6 +318,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Soubor">
 <!ENTITY fileMenu.accesskey       "S">
+
 <!ENTITY newUserContext.label             "Nový kontejnerový panel">
 <!ENTITY newUserContext.accesskey         "j">
 <!ENTITY manageUserContext.label          "Správa kontejnerů">
@@ -359,6 +368,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "N">
 <!ENTITY viewSidebarMenu.label "Postranní lišta">
 <!ENTITY viewSidebarMenu.accesskey "P">
+
 <!ENTITY viewCustomizeToolbar.label       "Nastavení tlačítek a lišt…">
 <!ENTITY viewCustomizeToolbar.accesskey     "V">
 <!ENTITY overflowCustomizeToolbar.label       "Nastavit tlačítka a lišty…">
@@ -372,6 +382,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Obnovit předchozí relaci">
 
 <!ENTITY showAllHistoryCmd2.label "Zobrazit celou historii">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Zobrazit celou historii">
@@ -592,9 +603,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Poslat odkaz e-mailem…">
 <!ENTITY emailPageCmd.accesskey       "e">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Uložit stránku jako…">
 <!ENTITY savePageCmd.accesskey        "U">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "j">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Uložit rám jako…">
@@ -699,22 +710,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Zvětšit">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "v">
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Zmenšit">
 <!ENTITY fullZoomReduceCmd.accesskey    "m">
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Výchozí">
 <!ENTITY fullZoomResetCmd.accesskey     "c">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Pouze velikost textu">
 <!ENTITY fullZoomToggleCmd.accesskey    "t">
+
 <!ENTITY fullZoom.label                 "Velikost stránky">
 <!ENTITY fullZoom.accesskey             "V">
 
@@ -732,6 +747,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Zavřít">
+
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "Z">
 
@@ -888,6 +904,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Přihlásit se do &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "i">
+
 <!ENTITY syncSyncNowItem.label        "Synchronizovat">
 <!ENTITY syncSyncNowItemSyncing.label "Probíhá synchronizace…">
 <!ENTITY syncSyncNowItem.accesskey    "S">

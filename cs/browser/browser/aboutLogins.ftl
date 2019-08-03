@@ -22,8 +22,8 @@ menu-menuitem-preferences =
     }
 menu-menuitem-feedback = Odeslat zpětnou vazbu
 menu-menuitem-faq = Často kladené otázky
-menu-menuitem-download-android = Lockwise pro Android
-menu-menuitem-download-iphone = Lockwise pro iPhone a iPad
+menu-menuitem-android-app = { -lockwise-brand-short-name } pro Android
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } pro iPhone a iPad
 
 ## Login List
 
@@ -41,9 +41,13 @@ login-list-sort-label-text = Seřadit:
 login-list-name-option = podle názvu (A-Z)
 login-list-last-changed-option = naposledy změněno
 login-list-last-used-option = naposledy použito
+login-list-intro-title = Nenalezeny žádné přihlašovací údaje
 login-list-item-title-new-login = Nové přihlašovací údaje
 login-list-item-subtitle-new-login = Zadejte své přihlašovací údaje
 login-list-item-subtitle-missing-username = (žádné uživatelské jméno)
+
+## Introduction screen
+
 
 ## Login
 
