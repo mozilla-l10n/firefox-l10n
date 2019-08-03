@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Fil
+    .accesskey = F
 menu-file-new-tab =
     .label = Ny fane
     .accesskey = f
@@ -17,6 +20,26 @@ menu-file-new-window =
 menu-file-new-private-window =
     .label = Nytt privat vindauge
     .accesskey = v
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Opne adresse…
+menu-file-open-file =
+    .label = Opne fil…
+    .accesskey = O
+menu-file-close =
+    .label = Lat att
+    .accesskey = L
+menu-file-close-window =
+    .label = Lat att vindauge
+    .accesskey = L
+menu-file-save-page =
+    .label = Lagre sida som…
+    .accesskey = a
+menu-file-email-link =
+    .label = Send lenke på e-post…
+    .accesskey = e
 menu-file-print-setup =
     .label = Utskriftsformat…
     .accesskey = m
@@ -32,6 +55,33 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Rediger
+    .accesskey = R
+menu-edit-undo =
+    .label = Angre
+    .accesskey = A
+menu-edit-redo =
+    .label = Gjer om
+    .accesskey = G
+menu-edit-cut =
+    .label = Klipp ut
+    .accesskey = u
+menu-edit-copy =
+    .label = Kopier
+    .accesskey = K
+menu-edit-paste =
+    .label = Lim inn
+    .accesskey = L
+menu-edit-delete =
+    .label = Slett
+    .accesskey = t
+menu-edit-select-all =
+    .label = Merk alt
+    .accesskey = M
+menu-edit-find-on =
+    .label = Søk på denne sida…
+    .accesskey = S
 menu-edit-find-again =
     .label = Søk igjen
     .accesskey = ø
@@ -41,6 +91,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Vis
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = Verktøylinjer
+    .accesskey = V
+menu-view-customize-toolbar =
+    .label = Tilpass…
+    .accesskey = T
 menu-view-sidebar =
     .label = Sidestolpe
     .accesskey = d
@@ -78,6 +137,9 @@ menu-view-page-basic-style =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Opne fullskjerm
+    .accesskey = n
 menu-view-exit-full-screen =
     .label = Avslutt fullskjerm
     .accesskey = v
@@ -105,6 +167,10 @@ menu-history-clear-recent-history =
     .label = Slett nyleg historikk…
 menu-history-synced-tabs =
     .label = Synkronisterte faner
+menu-history-restore-last-session =
+    .label = Bygg oppatt siste programøkt
+menu-history-hidden-tabs =
+    .label = Skjulte faner
 menu-history-undo-menu =
     .label = Nyleg attlatne faner
 menu-history-undo-window-menu =
@@ -115,19 +181,37 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Bokmerke
     .accesskey = B
+menu-bookmarks-show-all =
+    .label = Vis alle bokmerka
+menu-bookmarks-all-tabs =
+    .label = Bokmerk alle faner…
 menu-bookmarks-toolbar =
     .label = Bokmerke
 menu-bookmarks-other =
     .label = Andre bokmerke
+menu-bookmarks-mobile =
+    .label = Mobile bokmerke
 
 ## Tools Menu
 
+menu-tools =
+    .label = Verktøy
+    .accesskey = e
 menu-tools-downloads =
     .label = Nedlastingar
     .accesskey = N
+menu-tools-addons =
+    .label = Tillegg
+    .accesskey = T
+menu-tools-sync-sign-in =
+    .label = Logg inn på { -sync-brand-short-name }…
+    .accesskey = L
 menu-tools-sync-now =
     .label = Synkroniser no
     .accesskey = S
+menu-tools-sync-re-auth =
+    .label = Kople til { -sync-brand-short-name } på nytt…
+    .accesskey = R
 menu-tools-web-developer =
     .label = Nettsideutvikling
     .accesskey = N
@@ -137,6 +221,20 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Sideinformasjon
     .accesskey = d
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Innstillingar
+           *[other] Innstillingar
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] I
+           *[other] I
+        }
+menu-tools-layout-debugger =
+    .label = Feilsøk layout
+    .accesskey = F
 
 ## Window Menu
 
@@ -165,6 +263,12 @@ menu-help-troubleshooting-info =
 menu-help-feedback-page =
     .label = Gje tilbakemelding…
     .accesskey = G
+menu-help-safe-mode-without-addons =
+    .label = Start på nytt med avslåtte tillegg…
+    .accesskey = S
+menu-help-safe-mode-with-addons =
+    .label = Start på nytt med påslåtte tillegg
+    .accesskey = S
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.
