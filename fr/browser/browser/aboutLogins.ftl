@@ -22,6 +22,8 @@ menu-menuitem-preferences =
     }
 menu-menuitem-feedback = Donner mon avis
 menu-menuitem-faq = Questions fréquentes
+menu-menuitem-android-app = { -lockwise-brand-short-name } pour Android
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } pour iPhone et iPad
 
 ## Login List
 
@@ -36,12 +38,19 @@ login-list-sort-label-text = Trier par :
 login-list-name-option = Nom (A-Z)
 login-list-last-changed-option = Dernière modification
 login-list-last-used-option = Dernière utilisation
+login-list-intro-title = Aucun identifiant trouvé
+login-list-intro-description = Lorsque vous enregistrez un mot de passe dans { -brand-product-name }, il apparaît ici.
 login-list-item-title-new-login = Nouvel identifiant
 login-list-item-subtitle-new-login = Saisissez vos informations de connexion
 login-list-item-subtitle-missing-username = (aucun nom d’utilisateur)
 
 ## Introduction screen
 
+login-intro-heading = Vous recherchez vos identifiants enregistrés ? Configurez { -sync-brand-short-name }.
+login-intro-description = Si vous avez enregistré vos identifiants dans { -brand-product-name } sur un autre appareil, voici comment y accéder ici :
+login-intro-instruction-fxa = Connectez-vous ou créez un { -fxaccount-brand-name } sur l’appareil où vos identifiants sont enregistrés
+login-intro-instruction-fxa-settings = Assurez-vous d’avoir coché la case Identifiants dans les paramètres de { -sync-brand-short-name }
+login-intro-instruction-faq = Consultez la <a data-l10n-name="faq">foire aux questions</a> de { -lockwise-brand-short-name } pour obtenir de l’aide supplémentaire
 
 ## Login
 
@@ -83,6 +92,11 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Annuler
 confirmation-dialog-dismiss-button =
     .title = Annuler
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Vous souhaitez accéder à vos identifiants partout où vous utilisez { -brand-product-name } ? Rendez-vous dans les options de { -sync-brand-short-name } et cochez la case Identifiants.
+       *[other] Vous souhaitez accéder à vos identifiants partout où vous utilisez { -brand-product-name } ? Rendez-vous dans les préférences de { -sync-brand-short-name } et cochez la case Identifiants.
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
