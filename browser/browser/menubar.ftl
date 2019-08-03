@@ -79,6 +79,9 @@ menu-view-page-basic-style =
 
 ##
 
+menu-view-show-all-tabs =
+    .label = Vis alle faneblade
+    .accesskey = a
 menu-view-bidi-switch-page-direction =
     .label = Skift sideretning
     .accesskey = g
