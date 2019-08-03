@@ -11,12 +11,23 @@ menu-file-new-tab =
 menu-file-new-window =
     .label = 開新視窗
     .accesskey = N
+menu-file-new-private-window =
+    .label = 新增隱私視窗
+    .accesskey = W
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = 開啟網址…
 menu-file-open-file =
     .label = 開啟檔案…
     .accesskey = O
 menu-file-close-window =
     .label = 關閉視窗
     .accesskey = d
+menu-file-email-link =
+    .label = 郵寄鏈結…
+    .accesskey = E
 menu-file-print-setup =
     .label = 頁面設定…
     .accesskey = u
@@ -48,6 +59,8 @@ menu-view-bookmarks =
     .label = 書籤
 menu-view-history-button =
     .label = 歷史
+menu-view-synced-tabs-sidebar =
+    .label = 已同步的分頁
 menu-view-full-zoom =
     .label = 縮放
     .accesskey = Z
@@ -66,10 +79,19 @@ menu-view-full-zoom-toggle =
 menu-view-page-style-menu =
     .label = 頁面樣式
     .accesskey = y
+menu-view-charset =
+    .label = 文字編碼
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = 進入全螢幕模式
+    .accesskey = F
+menu-view-exit-full-screen =
+    .label = 離開全螢幕模式
+    .accesskey = F
 menu-view-full-screen =
     .label = 全螢幕
     .accesskey = F
@@ -79,6 +101,9 @@ menu-view-full-screen =
 menu-view-show-all-tabs =
     .label = 顯示所有分頁
     .accesskey = A
+menu-view-bidi-switch-page-direction =
+    .label = 切換頁面方向
+    .accesskey = D
 
 ## History Menu
 
@@ -87,6 +112,12 @@ menu-history =
     .accesskey = s
 menu-history-show-all-history =
     .label = 顯示所有瀏覽記錄
+menu-history-clear-recent-history =
+    .label = 清除最近的歷史記錄…
+menu-history-synced-tabs =
+    .label = 已同步的分頁
+menu-history-restore-last-session =
+    .label = 回復先前的瀏覽狀態
 menu-history-undo-menu =
     .label = 最近關閉的分頁
 menu-history-undo-window-menu =
@@ -97,8 +128,14 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = 書籤
     .accesskey = B
+menu-bookmarks-show-all =
+    .label = 顯示所有書籤
+menu-bookmarks-all-tabs =
+    .label = 將所有分頁加入書籤…
 menu-bookmarks-toolbar =
     .label = 書籤工具列
+menu-bookmarks-other =
+    .label = 其他書籤
 
 ## Tools Menu
 
@@ -108,6 +145,18 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = 附加元件
     .accesskey = A
+menu-tools-sync-sign-in =
+    .label = 登入至 { -sync-brand-short-name }…
+    .accesskey = Y
+menu-tools-sync-now =
+    .label = 立刻同步
+    .accesskey = S
+menu-tools-sync-re-auth =
+    .label = 重新連線至 { -sync-brand-short-name }…
+    .accesskey = R
+menu-tools-web-developer =
+    .label = 網頁開發者
+    .accesskey = W
 menu-tools-page-source =
     .label = 頁面原始碼
     .accesskey = o
@@ -127,6 +176,27 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = 說明
     .accesskey = H
+menu-help-product =
+    .label = { -brand-shorter-name } 說明
+    .accesskey = H
+menu-help-show-tour =
+    .label = { -brand-shorter-name } 導覽
+    .accesskey = o
 menu-help-troubleshooting-info =
     .label = 疑難排解資訊
     .accesskey = T
+menu-help-feedback-page =
+    .label = 送出意見回饋…
+    .accesskey = S
+menu-help-safe-mode-without-addons =
+    .label = 重新啟動但停用附加元件…
+    .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = 重新啟動並啟用附加元件
+    .accesskey = R
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = 回報詐騙網站…
+    .accesskey = D
