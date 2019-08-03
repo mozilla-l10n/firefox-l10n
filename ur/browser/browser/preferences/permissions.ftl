@@ -36,6 +36,8 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = ویبسائٹ تلاش کریں
+permissions-capabilities-autoplay-block =
+    .label = آڈیو کو مسدود کریں۔
 permissions-capabilities-allow =
     .label = ہونے دیں
 permissions-capabilities-block =
@@ -46,8 +48,6 @@ permissions-capabilities-listitem-allow =
     .value = ہونے دیں
 permissions-capabilities-listitem-block =
     .value = بلاک کریں
-permissions-capabilities-listitem-allow-first-party =
-    .value = صرف پہلے فریق کو اجازت دیں
 permissions-capabilities-listitem-allow-session =
     .value = سیشن کے لیے اجازت دیں
 
@@ -58,10 +58,6 @@ permissions-invalid-uri-label = کوئی جائز نام میزبان داخل �
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = استثنیات - سراغ کاری سے حفاظت
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = آپ نے ان ویب سائٹس پر ٹریکنگ کے تحفظ کو غیر فعال کردیا ہے۔
 permissions-exceptions-content-blocking-window =
     .title = استثنیات - مواد روکنا
     .style = { permissions-window.style }
@@ -101,6 +97,9 @@ permissions-exceptions-autoplay-media-window2 =
     .title = استثنیات - اوٹوپلے
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = آپ اس بات کی وضاحت کر سکتے ہے کہ کون سے ویب سائٹ کو اواز کے ساتھ میڈیا خودبخد چلانے کی اجازت ہمیشہ یا کبھی بھی نھی ہے۔ آپ جس سائٹ کو منظم کرنا چاہتے ہے اس کا پتہ درج کریں اور پھر روکیں یا اجازت پر کلک کریں۔
+
+## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 

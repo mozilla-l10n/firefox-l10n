@@ -237,6 +237,7 @@ update-enable-search-update =
     .label = تلاش کے انجن کو خود بخود اپڈیٹ  کریں
     .accesskey = e
 update-pref-write-failure-title = لکھیں مے ناکام
+update-in-progress-title = اپ ڈیٹ جاری ہے
 
 ## General Section - Performance
 
@@ -641,6 +642,7 @@ permissions-notification-link = مزید سیکھیں
 permissions-block-autoplay-media-exceptions =
     .label = استثنیات…
     .accesskey = E
+permissions-autoplay = آٹو پلے
 permissions-block-popups =
     .label = پوپ اپ دریچے بلاک کیجیے
     .accesskey = B

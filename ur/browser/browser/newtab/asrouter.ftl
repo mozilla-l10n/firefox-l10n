@@ -9,6 +9,8 @@ cfr-doorhanger-extension-cancel-button = ابھی نہیں
     .accesskey = N
 cfr-doorhanger-extension-ok-button = اب شامل کریں
     .accesskey = A
+cfr-doorhanger-pintab-ok-button = اس ٹیب کو پن کریں
+    .accesskey = P
 cfr-doorhanger-extension-manage-settings-button = سفارش کی ترتیبات منظم کریں
     .accesskey = M
 cfr-doorhanger-extension-never-show-recommendation = مجھے اس کی سفارش نا دکھائیں
@@ -49,3 +51,10 @@ cfr-doorhanger-pintab-animation-resume = پھر جاری کریں
 
 ## Firefox Accounts Message
 
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = نیا کیا ہے
+    .tooltiptext = نیا کیا ہے
+cfr-whatsnew-panel-header = نیا کیا ہے

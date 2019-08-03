@@ -45,6 +45,9 @@ newtab-topsites-add-button = اظافہ کریں
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = کیا آپ کو یقین ہے کہ آپ اس صفحہ کا ہر نمونہ اپنے سابقات سے حذف کرنا چاہتے ہیں؟
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = یہ عمل کلعدم نہیں ہو سکتا۔
@@ -80,6 +83,10 @@ newtab-menu-bookmark = بک مارک
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = ڈاؤن لوڈ ربط نقل کریں
 newtab-menu-go-to-download-page = ڈاؤن لوڈ صفحہ پر جائیں
 newtab-menu-remove-download = سابقات سے ہٹائیں
@@ -108,6 +115,10 @@ newtab-label-download = ڈاؤن لوڈ شدہ
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = صیغہ ہٹائیں
 newtab-section-menu-collapse-section = صیغہ تفصیل سے دیکھیں
 newtab-section-menu-expand-section = صیغہ کو توسیع کریں
@@ -119,6 +130,9 @@ newtab-section-menu-move-up = اوپر کریں
 newtab-section-menu-move-down = نیچے کریں
 newtab-section-menu-privacy-notice = رازداری کا نوٹس
 
+## Section aria-labels
+
+
 ## Section Headers.
 
 newtab-section-header-topsites = بہترین سائٹیں
@@ -129,6 +143,11 @@ newtab-section-header-pocket = { $provider } کی جانب سے تجویز کر�
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-try-again-button = دوبارہ کوشش کریں
+newtab-discovery-empty-section-topstories-loading = لوڈ ہو رہا ہے…
 
 ## Pocket Content Section.
 
