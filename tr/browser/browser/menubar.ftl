@@ -17,6 +17,9 @@ menu-file-open-file =
 menu-file-close =
     .label = Kapat
     .accesskey = K
+menu-file-email-link =
+    .label = Bağlantıyı e-postayla gönder…
+    .accesskey = e
 menu-file-import-from-another-browser =
     .label = Başka bir tarayıcıdan içe aktar…
     .accesskey = B
@@ -88,6 +91,9 @@ menu-view-full-zoom-reset =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Tam ekrana geç
+    .accesskey = T
 menu-view-full-screen =
     .label = Tam ekran
     .accesskey = T
@@ -110,6 +116,8 @@ menu-history-show-all-history =
     .label = Tüm geçmişi göster
 menu-history-clear-recent-history =
     .label = Yakın geçmişi temizle…
+menu-history-restore-last-session =
+    .label = Önceki oturumu geri yükle
 menu-history-hidden-tabs =
     .label = Gizli sekmeler
 
