@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Arkiv
+    .accesskey = A
 menu-file-new-tab =
     .label = Ny flik
     .accesskey = f
@@ -25,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Öppna fil…
     .accesskey = Ö
+menu-file-close =
+    .label = Stäng
+    .accesskey = ä
 menu-file-close-window =
     .label = Stäng fönster
     .accesskey = t
@@ -49,6 +55,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Redigera
+    .accesskey = R
+menu-edit-undo =
+    .label = Ångra
+    .accesskey = Å
+menu-edit-redo =
+    .label = Gör om
+    .accesskey = G
+menu-edit-cut =
+    .label = Klipp ut
+    .accesskey = K
+menu-edit-copy =
+    .label = Kopiera
+    .accesskey = o
+menu-edit-paste =
+    .label = Klistra in
+    .accesskey = l
+menu-edit-delete =
+    .label = Ta bort
+    .accesskey = T
+menu-edit-select-all =
+    .label = Markera allt
+    .accesskey = a
 menu-edit-find-on =
     .label = Sök på den här sidan…
     .accesskey = S
@@ -61,6 +91,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Visa
+    .accesskey = s
+menu-view-toolbars-menu =
+    .label = Verktygsfält
+    .accesskey = V
+menu-view-customize-toolbar =
+    .label = Anpassa…
+    .accesskey = A
 menu-view-sidebar =
     .label = Sidofält
     .accesskey = o
@@ -154,6 +193,9 @@ menu-bookmarks-other =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Verktyg
+    .accesskey = V
 menu-tools-downloads =
     .label = Filhämtaren
     .accesskey = F
@@ -178,6 +220,20 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Sidinfo
     .accesskey = d
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Inställningar
+           *[other] Inställningar
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] I
+           *[other] I
+        }
+menu-tools-layout-debugger =
+    .label = Felsök layout
+    .accesskey = e
 
 ## Window Menu
 
