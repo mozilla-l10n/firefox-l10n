@@ -1,0 +1,59 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+## File Menu
+
+menu-file-new-window =
+    .label = కొత్త విండో
+    .accesskey = N
+menu-file-print-setup =
+    .label = పేజీ అమరిక...
+    .accesskey = u
+
+## Edit Menu
+
+
+## View Menu
+
+menu-view-history-button =
+    .label = చరిత్ర
+
+## These should match what Safari and other Apple applications
+## use on macOS.
+
+
+##
+
+
+## History Menu
+
+menu-history =
+    .label = చరిత్ర
+    .accesskey = s
+
+## Bookmarks Menu
+
+
+## Tools Menu
+
+menu-tools-page-source =
+    .label = పేజీ మూలం
+    .accesskey = o
+menu-tools-page-info =
+    .label = పేజీ సమాచారం
+    .accesskey = I
+
+## Window Menu
+
+menu-window-menu =
+    .label = విండో
+menu-window-bring-all-to-front =
+    .label = అన్నీ ముందుకు తీసుకునిరా
+
+## Help Menu
+
+menu-help =
+    .label = సహాయం
+    .accesskey = H
