@@ -11,6 +11,9 @@ menu-file-new-tab =
 menu-file-new-window =
     .label = Ffenestr Newydd
     .accesskey = N
+menu-file-new-private-window =
+    .label = Ffenestr Breifat Newydd
+    .accesskey = B
 menu-file-open-file =
     .label = Agor Ffeil…
     .accesskey = F
@@ -44,6 +47,9 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view-sidebar =
+    .label = Bar Ochr
+    .accesskey = B
 menu-view-bookmarks =
     .label = Nodau Tudalen
 menu-view-history-button =
@@ -140,6 +146,9 @@ menu-tools-web-developer =
 menu-tools-page-source =
     .label = Cod Gwreiddiol y Dudalen
     .accesskey = o
+menu-tools-page-info =
+    .label = Gwybodaeth am y Dudalen
+    .accesskey = w
 menu-tools-layout-debugger =
     .label = Dadfygiwr Dyluniad
     .accesskey = D
