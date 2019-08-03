@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = ফাইল
+    .accesskey = F
 menu-file-new-tab =
     .label = নতুন টেব
     .accesskey = T
@@ -14,9 +17,17 @@ menu-file-new-window =
 menu-file-new-private-window =
     .label = নতুন ব্যক্তিগত উইন্ডো
     .accesskey = W
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = অৱস্থান খোলক…
 menu-file-open-file =
     .label = ফাইল খোলক…
     .accesskey = O
+menu-file-close =
+    .label = বন্ধ কৰক
+    .accesskey = C
 menu-file-close-window =
     .label = উইন্ডো বন্ধ কৰক
     .accesskey = d
@@ -41,15 +52,48 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = সম্পাদন কৰক
+    .accesskey = E
+menu-edit-undo =
+    .label = বাতিল কৰক
+    .accesskey = U
+menu-edit-redo =
+    .label = পুনৰ কৰক
+    .accesskey = R
+menu-edit-cut =
+    .label = কাট কৰক
+    .accesskey = t
+menu-edit-paste =
+    .label = পেইস্ট কৰক
+    .accesskey = P
+menu-edit-delete =
+    .label = মচক
+    .accesskey = D
+menu-edit-select-all =
+    .label = সকলো বাছক
+    .accesskey = A
 menu-edit-find-on =
     .label = এই পৃষ্ঠাত সন্ধান কৰক…
     .accesskey = F
 menu-edit-find-again =
     .label = পুনৰ সন্ধান কৰক
     .accesskey = g
+menu-edit-bidi-switch-text-direction =
+    .label = লিখনিৰ দিশ পৰিবৰ্তন কৰক
+    .accesskey = w
 
 ## View Menu
 
+menu-view =
+    .label = দৰ্শন কৰক
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = টুলবাৰসমূহ
+    .accesskey = T
+menu-view-customize-toolbar =
+    .label = স্বনিৰ্বাচন…
+    .accesskey = C
 menu-view-sidebar =
     .label = কাষবাৰ
     .accesskey = e
@@ -69,6 +113,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = পুনৰ সংহতি
     .accesskey = R
+menu-view-full-zoom-toggle =
+    .label = কেৱল লিখনি জুম কৰক
+    .accesskey = T
 menu-view-page-style-menu =
     .label = পৃষ্ঠা শৈলী
     .accesskey = y
@@ -104,6 +151,8 @@ menu-history-show-all-history =
     .label = সকলো ইতিহাস দেখুৱাওক
 menu-history-clear-recent-history =
     .label = শেহতীয়া ইতিহাস পৰিষ্কাৰ কৰক…
+menu-history-restore-last-session =
+    .label = পুৰ্বৱৰ্তী অধিবেশন পুনৰুদ্ধাৰ কৰক
 menu-history-undo-menu =
     .label = শেহতীয়াভাৱে বন্ধ কৰা টেবসমূহ
 menu-history-undo-window-menu =
@@ -123,6 +172,9 @@ menu-bookmarks-toolbar =
 
 ## Tools Menu
 
+menu-tools =
+    .label = সঁজুলিসমূহ
+    .accesskey = T
 menu-tools-downloads =
     .label = ডাউনল'ডসমূহ
     .accesskey = D
@@ -132,6 +184,9 @@ menu-tools-addons =
 menu-tools-sync-now =
     .label = এতিয়া সংমিহলি কৰক
     .accesskey = S
+menu-tools-sync-re-auth =
+    .label = { -sync-brand-short-name } লৈ পুনৰ সংযোগ কৰক…
+    .accesskey = R
 menu-tools-web-developer =
     .label = ৱেব উন্নয়নকাৰী
     .accesskey = W
@@ -141,6 +196,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = পৃষ্ঠা তথ্য
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] বিকল্পসমূহ
+           *[other] পছন্দসমূহ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
 
 ## Window Menu
 
