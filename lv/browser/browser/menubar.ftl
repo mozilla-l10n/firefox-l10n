@@ -269,6 +269,9 @@ menu-help-feedback-page =
 menu-help-safe-mode-without-addons =
     .label = Pārstartēt ar deaktivētiem papildinājumiem…
     .accesskey = r
+menu-help-safe-mode-with-addons =
+    .label = Pārstartēt ar aktivētiem papildinājumiem
+    .accesskey = r
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.
