@@ -22,8 +22,8 @@ menu-menuitem-preferences =
     }
 menu-menuitem-feedback = Komentar pósłaś
 menu-menuitem-faq = Ceste pšašanja
-menu-menuitem-download-android = Lockwise za Android
-menu-menuitem-download-iphone = Lockwise za iPhone a iPad
+menu-menuitem-android-app = { -lockwise-brand-short-name } za Android
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } za iPhone a iPad
 
 ## Login List
 
@@ -40,9 +40,15 @@ login-list-sort-label-text = Sortěrowaś pó:
 login-list-name-option = Mjenju (A-Z)
 login-list-last-changed-option = Slědnej změnje
 login-list-last-used-option = Slědnem wužyśu
+login-list-intro-title = Žedne pśizjawjenja namakane
+login-list-intro-description = Gaž gronidło w { -brand-product-name } składujośo, wóno se how pokažo.
 login-list-item-title-new-login = Nowe pśizjawjenje
 login-list-item-subtitle-new-login = Zapódajśo swóje pśizjawjeńske daty
 login-list-item-subtitle-missing-username = (žedno wužywarske mě)
+
+## Introduction screen
+
+login-intro-heading = Pytaśo swóje skłaźone pśizjawjenja? Konfigurěrujśo { -sync-brand-short-name }.
 
 ## Login
 
