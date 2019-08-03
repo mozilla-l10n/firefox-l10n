@@ -75,6 +75,8 @@ menu-history-undo-window-menu =
 
 ## Bookmarks Menu
 
+menu-bookmarks-show-all =
+    .label = نمایش همهٔ نشانک‌ها
 menu-bookmarks-all-tabs =
     .label = نشانک‌گذاری تمامی زبانه‌ها…
 menu-bookmarks-toolbar =
