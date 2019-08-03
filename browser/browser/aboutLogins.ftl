@@ -6,6 +6,8 @@ about-logins-page-title = การเข้าสู่ระบบและร
 login-filter =
     .placeholder = ค้นหาการเข้าสู่ระบบ
 create-login-button = สร้างการเข้าสู่ระบบใหม่
+fxaccounts-sign-in-text = รับรหัสผ่านของคุณบนอุปกรณ์อื่น ๆ ของคุณ
+fxaccounts-sign-in-button = ลงชื่อเข้า { -sync-brand-short-name }
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -30,11 +32,16 @@ login-list-name-option = ชื่อตามตัวอักษร
 login-list-last-changed-option = วันที่เปลี่ยนแปลงล่าสุด
 login-list-last-used-option = วันที่ใช้ครั้งล่าสุด
 login-list-intro-title = ไม่พบการเข้าสู่ระบบ
+login-list-intro-description = เมื่อคุณบันทึกรหัสผ่านใน { -brand-product-name } รหัสผ่านจะปรากฏขึ้นที่นี่
 login-list-item-title-new-login = การเข้าสู่ระบบใหม่
 login-list-item-subtitle-missing-username = (ไม่มีชื่อผู้ใช้)
 
 ## Introduction screen
 
+login-intro-heading = กำลังมองหาการเข้าสู่ระบบที่บันทึกไว้ของคุณ? ตั้งค่า { -sync-brand-short-name }
+login-intro-description = หากคุณบันทึกการเข้าสู่ระบบของคุณไว้ที่ { -brand-product-name } บนอุปกรณ์อื่น ๆ คุณสามารถนำมาใช้บนอุปกรณ์นี้ได้ด้วยวิธีนี้:
+login-intro-instruction-fxa = สร้างหรือลงชื่อเข้าใช้ { -fxaccount-brand-name } ของคุณบนอุปกรณ์ที่บันทึกการเข้าสู่ระบบของคุณ
+login-intro-instruction-fxa-settings = ตรวจสอบให้แน่ใจว่าคุณได้เลือกกล่องกาเครื่องหมายการเข้าสู่ระบบในการตั้งค่า { -sync-brand-short-name }
 
 ## Login
 
