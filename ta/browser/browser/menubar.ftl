@@ -49,6 +49,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = அச்சிடு…
     .accesskey = P
+menu-file-go-offline =
+    .label = முடக்க நிலை
+    .accesskey = k
 
 ## Edit Menu
 
