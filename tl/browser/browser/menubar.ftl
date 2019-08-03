@@ -196,7 +196,7 @@ menu-bookmarks-toolbar =
 menu-bookmarks-other =
     .label = Iba pang Bookmarks
 menu-bookmarks-mobile =
-    .label = Mga Mobile bookmark{ " " }
+    .label = Mga Mobile bookmark
 
 ## Tools Menu
 
