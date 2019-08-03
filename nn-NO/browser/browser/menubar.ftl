@@ -8,15 +8,24 @@
 menu-file-new-tab =
     .label = Ny fane
     .accesskey = f
+menu-file-new-container-tab =
+    .label = Ny innhaldsfane
+    .accesskey = i
 menu-file-new-window =
     .label = Nytt vindauge
     .accesskey = N
 menu-file-new-private-window =
     .label = Nytt privat vindauge
     .accesskey = v
+menu-file-print-setup =
+    .label = Utskriftsformat…
+    .accesskey = m
 menu-file-print-preview =
     .label = Førehandsvis sida
     .accesskey = v
+menu-file-print =
+    .label = Skriv ut…
+    .accesskey = u
 menu-file-go-offline =
     .label = Arbeid fråkopla
     .accesskey = r
@@ -92,6 +101,8 @@ menu-history =
     .accesskey = s
 menu-history-show-all-history =
     .label = Vis all historikk
+menu-history-clear-recent-history =
+    .label = Slett nyleg historikk…
 menu-history-synced-tabs =
     .label = Synkronisterte faner
 menu-history-undo-menu =
@@ -106,6 +117,8 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-toolbar =
     .label = Bokmerke
+menu-bookmarks-other =
+    .label = Andre bokmerke
 
 ## Tools Menu
 
@@ -137,6 +150,9 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Hjelp
     .accesskey = H
+menu-help-product =
+    .label = { -brand-shorter-name } Hjelp
+    .accesskey = H
 menu-help-show-tour =
     .label = Omvising i { -brand-shorter-name }
     .accesskey = m
@@ -146,3 +162,12 @@ menu-help-keyboard-shortcuts =
 menu-help-troubleshooting-info =
     .label = Feilsøking
     .accesskey = e
+menu-help-feedback-page =
+    .label = Gje tilbakemelding…
+    .accesskey = G
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Rapporter villeiande nettstad…
+    .accesskey = R
