@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Ifayela
+    .accesskey = I
 menu-file-new-tab =
     .label = Ithebhu entsha
     .accesskey = t
@@ -16,6 +19,9 @@ menu-file-new-private-window =
     .accesskey = w
 menu-file-open-file =
     .label = Vula ifayela…
+    .accesskey = V
+menu-file-close =
+    .label = Vala
     .accesskey = V
 menu-file-close-window =
     .label = Vala iwindi
@@ -41,6 +47,27 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Hlela
+    .accesskey = H
+menu-edit-undo =
+    .label = Susa okwenzile
+    .accesskey = S
+menu-edit-redo =
+    .label = Buyisela okususile
+    .accesskey = B
+menu-edit-cut =
+    .label = Sika
+    .accesskey = k
+menu-edit-paste =
+    .label = Namathisela
+    .accesskey = N
+menu-edit-delete =
+    .label = Cisha
+    .accesskey = C
+menu-edit-select-all =
+    .label = Khetha konke
+    .accesskey = k
 menu-edit-find-on =
     .label = Thola kuleli khasi…
     .accesskey = T
@@ -53,6 +80,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Bheka
+    .accesskey = B
+menu-view-toolbars-menu =
+    .label = Amabha wamathuluzi
+    .accesskey = A
+menu-view-customize-toolbar =
+    .label = Yenza ngokwezifiso…
+    .accesskey = Y
 menu-view-sidebar =
     .label = Ibha esohlangothini
     .accesskey = e
@@ -129,6 +165,9 @@ menu-bookmarks-toolbar =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Amathuluzi
+    .accesskey = A
 menu-tools-downloads =
     .label = Ukwaziswa okuthathwe kwafakwa
     .accesskey = U
@@ -147,6 +186,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Ukwaziswa kwekhasi
     .accesskey = k
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Izinketho
+           *[other] Okuthandwayo
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] I
+           *[other] w
+        }
 
 ## Window Menu
 
