@@ -8,9 +8,26 @@
 menu-file-new-tab =
     .label = Neuer Tab
     .accesskey = T
+menu-file-new-container-tab =
+    .label = Neuer Tab in Umgebung
+    .accesskey = m
+menu-file-new-window =
+    .label = ­Neues Fenster
+    .accesskey = N
+menu-file-new-private-window =
+    .label = Neues privates Fenster
+    .accesskey = p
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Adresse öffnen…
 menu-file-open-file =
     .label = Datei öffnen…
     .accesskey = f
+menu-file-close-window =
+    .label = Fenster schließen
+    .accesskey = h
 menu-file-save-page =
     .label = Seite speichern unter…
     .accesskey = u
@@ -23,12 +40,18 @@ menu-file-print-preview =
 menu-file-print =
     .label = Drucken…
     .accesskey = D
+menu-file-import-from-another-browser =
+    .label = Daten aus einem anderen Browser importieren…
+    .accesskey = r
 menu-file-go-offline =
     .label = Offline arbeiten
     .accesskey = O
 
 ## Edit Menu
 
+menu-edit-select-all =
+    .label = Alles auswählen
+    .accesskey = u
 menu-edit-find-on =
     .label = Seite durchsuchen
     .accesskey = S
@@ -48,6 +71,8 @@ menu-view-bookmarks =
     .label = Lesezeichen
 menu-view-history-button =
     .label = Chronik
+menu-view-synced-tabs-sidebar =
+    .label = Synchronisierte Tabs
 menu-view-full-zoom =
     .label = Zoom
     .accesskey = o
@@ -72,10 +97,19 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Standard-Stil
     .accesskey = S
+menu-view-charset =
+    .label = Textkodierung
+    .accesskey = T
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Vollbild ein
+    .accesskey = V
+menu-view-exit-full-screen =
+    .label = Vollbild aus
+    .accesskey = V
 menu-view-full-screen =
     .label = Vollbild
     .accesskey = V
@@ -96,8 +130,12 @@ menu-history =
     .accesskey = C
 menu-history-show-all-history =
     .label = Gesamte Chronik anzeigen
+menu-history-synced-tabs =
+    .label = Synchronisierte Tabs
 menu-history-restore-last-session =
     .label = Vorherige Sitzung wiederherstellen
+menu-history-hidden-tabs =
+    .label = Ausgeblendete Tabs
 menu-history-undo-menu =
     .label = Kürzlich geschlossene Tabs
 menu-history-undo-window-menu =
@@ -108,10 +146,16 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Lesezeichen
     .accesskey = L
+menu-bookmarks-show-all =
+    .label = Lesezeichen verwalten
 menu-bookmarks-all-tabs =
     .label = Lesezeichen für alle Tabs hinzufügen…
 menu-bookmarks-toolbar =
     .label = Lesezeichen-Symbolleiste
+menu-bookmarks-other =
+    .label = Weitere Lesezeichen
+menu-bookmarks-mobile =
+    .label = Mobile Lesezeichen
 
 ## Tools Menu
 
@@ -121,12 +165,27 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Add-ons
     .accesskey = d
+menu-tools-sync-sign-in =
+    .label = Bei { -sync-brand-short-name } anmelden…
+    .accesskey = Y
 menu-tools-sync-now =
     .label = Jetzt synchronisieren
     .accesskey = J
+menu-tools-sync-re-auth =
+    .label = Wieder mit { -sync-brand-short-name } verbinden…
+    .accesskey = v
+menu-tools-web-developer =
+    .label = Web-Entwickler
+    .accesskey = W
+menu-tools-page-source =
+    .label = Seitenquelltext anzeigen
+    .accesskey = q
 menu-tools-page-info =
     .label = Seiteninformationen
     .accesskey = S
+menu-tools-layout-debugger =
+    .label = Layout-Debugger
+    .accesskey = L
 
 ## Window Menu
 
@@ -140,6 +199,9 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Hilfe
     .accesskey = H
+menu-help-keyboard-shortcuts =
+    .label = Tastenkombinationen
+    .accesskey = T
 menu-help-troubleshooting-info =
     .label = Informationen zur Fehlerbehebung
     .accesskey = z
@@ -149,3 +211,9 @@ menu-help-feedback-page =
 menu-help-safe-mode-without-addons =
     .label = Mit deaktivierten Add-ons neu starten…
     .accesskey = A
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Betrügerische Website melden…
+    .accesskey = m
