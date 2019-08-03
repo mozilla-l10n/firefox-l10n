@@ -11,6 +11,9 @@ menu-file =
 menu-file-new-tab =
     .label = Nova aba
     .accesskey = N
+menu-file-new-container-tab =
+    .label = Nova aba contêiner
+    .accesskey = c
 menu-file-new-window =
     .label = Nova janela
     .accesskey = j
@@ -115,6 +118,9 @@ menu-view-page-style-menu =
 menu-view-page-style-no-style =
     .label = Sem estilo
     .accesskey = m
+menu-view-page-basic-style =
+    .label = Estilo de página básico
+    .accesskey = b
 menu-view-charset =
     .label = Codificação de texto
     .accesskey = c
@@ -209,6 +215,9 @@ menu-preferences =
             [windows] O
            *[other] P
         }
+menu-tools-layout-debugger =
+    .label = Depurador de layout
+    .accesskey = L
 
 ## Window Menu
 
