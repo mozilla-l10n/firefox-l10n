@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file-new-tab =
+    .label = Tab Barô
+    .accesskey = T
 
 ## Edit Menu
 
