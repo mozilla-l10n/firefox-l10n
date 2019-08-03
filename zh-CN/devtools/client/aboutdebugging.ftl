@@ -265,6 +265,15 @@ about-debugging-extension-id =
 about-debugging-worker-action-push = 推送
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = 开始
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Note this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push2 = 推送
+    .disabledTitle = Service Worker “推送”目前在多进程 { -brand-shorter-name } 下禁用
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start2 = 开始
+    .disabledTitle = Service Worker “开始”目前在多进程 { -brand-shorter-name } 下禁用
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = 取消注册
 # Displayed for service workers in runtime pages that listen to Fetch events.

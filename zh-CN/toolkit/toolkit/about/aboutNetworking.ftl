@@ -63,6 +63,7 @@ networkid-id = 网络 ID
 ## Link is intended as "network link"
 
 networkid-isUp = 网络已连接
+networkid-statusKnown = 已知网络连接状态
 
 
 
