@@ -49,6 +49,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Imprimir…
     .accesskey = p
+menu-file-import-from-another-browser =
+    .label = Importar desde otro navegador…
+    .accesskey = I
 menu-file-go-offline =
     .label = Trabajar sin conexión
     .accesskey = j
@@ -172,6 +175,8 @@ menu-history-synced-tabs =
     .label = Pestañás sincronizadas
 menu-history-restore-last-session =
     .label = Restaurar sesión previa
+menu-history-hidden-tabs =
+    .label = Pestañas ocultas
 menu-history-undo-menu =
     .label = Pestañas cerradas recientemente
 menu-history-undo-window-menu =
@@ -233,12 +238,43 @@ menu-preferences =
             [windows] O
            *[other] n
         }
+menu-tools-layout-debugger =
+    .label = Depurador de diseño
+    .accesskey = L
 
 ## Window Menu
 
+menu-window-menu =
+    .label = Ventana
+menu-window-bring-all-to-front =
+    .label = Traer todo al frente
 
 ## Help Menu
 
+menu-help =
+    .label = Ayuda
+    .accesskey = y
+menu-help-product =
+    .label = Ayuda de { -brand-shorter-name }
+    .accesskey = y
+menu-help-show-tour =
+    .label = Tour de { -brand-shorter-name }
+    .accesskey = o
+menu-help-keyboard-shortcuts =
+    .label = Atajos de teclado
+    .accesskey = t
+menu-help-troubleshooting-info =
+    .label = Información para resolver problemas
+    .accesskey = p
+menu-help-feedback-page =
+    .label = Enviar opinión…
+    .accesskey = o
+menu-help-safe-mode-without-addons =
+    .label = Reiniciar con los complementos deshabilitados…
+    .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = Reiniciar con los complementos habilitados
+    .accesskey = R
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.
