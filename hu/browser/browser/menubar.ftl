@@ -49,6 +49,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Nyomtatás…
     .accesskey = N
+menu-file-import-from-another-browser =
+    .label = Importálás egy másik böngészőből…
+    .accesskey = I
 menu-file-go-offline =
     .label = Kapcsolat nélküli munka
     .accesskey = p
@@ -172,6 +175,8 @@ menu-history-synced-tabs =
     .label = Szinkronizált lapok
 menu-history-restore-last-session =
     .label = Előző munkamenet helyreállítása
+menu-history-hidden-tabs =
+    .label = Rejtett lapok
 menu-history-undo-menu =
     .label = Nemrég bezárt lapok
 menu-history-undo-window-menu =
@@ -233,6 +238,9 @@ menu-preferences =
             [windows] e
            *[other] e
         }
+menu-tools-layout-debugger =
+    .label = Elrendezési hibakereső
+    .accesskey = E
 
 ## Window Menu
 
