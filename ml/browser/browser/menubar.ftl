@@ -92,10 +92,10 @@ menu-edit-bidi-switch-text-direction =
 ## View Menu
 
 menu-view =
-    .label = കാണുക{ " " }
+    .label = കാണുക
     .accesskey = V
 menu-view-toolbars-menu =
-    .label = ടൂള്‍ബാറുകള്‍{ " " }
+    .label = ടൂള്‍ബാറുകള്‍
     .accesskey = T
 menu-view-customize-toolbar =
     .label = ഇച്ഛാനുസൃതമാക്കുക...
