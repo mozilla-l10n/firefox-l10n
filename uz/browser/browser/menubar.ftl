@@ -8,12 +8,20 @@
 menu-file-new-tab =
     .label = Yangi ichki oyna
     .accesskey = i
+menu-file-new-container-tab =
+    .label = Yangi Konteyner ichki oynasi
+    .accesskey = i
 menu-file-new-window =
     .label = Yangi oyna
     .accesskey = n
 menu-file-new-private-window =
     .label = Yangi maxfiy oyna
     .accesskey = o
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Manzilni ochish…
 menu-file-open-file =
     .label = Faylni ochish…
     .accesskey = o
@@ -23,6 +31,9 @@ menu-file-close-window =
 menu-file-save-page =
     .label = Sahifani saqlash…
     .accesskey = s
+menu-file-email-link =
+    .label = Havolani e-pochtadan jo‘natish
+    .accesskey = e
 menu-file-print-setup =
     .label = Sahifani moslash…
     .accesskey = l
@@ -38,6 +49,9 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit-find-on =
+    .label = Ushbu sahifadan topish
+    .accesskey = t
 menu-edit-find-again =
     .label = Yana topish
     .accesskey = p
@@ -54,6 +68,11 @@ menu-view-bookmarks =
     .label = Xatcho‘plar
 menu-view-history-button =
     .label = Tarix
+menu-view-synced-tabs-sidebar =
+    .label = Sinxronlangan ichki oynalar
+menu-view-full-zoom =
+    .label = Masshtab
+    .accesskey = M
 menu-view-full-zoom-enlarge =
     .label = Kattalashtirish
     .accesskey = l
@@ -75,6 +94,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Asosiy sahifa uslubi
     .accesskey = A
+menu-view-charset =
+    .label = Matnni kodlash usuli:
+    .accesskey = k
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -94,6 +116,9 @@ menu-view-full-screen =
 menu-view-show-all-tabs =
     .label = Barcha ichki oynalarni ko‘rsatish
     .accesskey = a
+menu-view-bidi-switch-page-direction =
+    .label = Sahifa yo‘nalishini almashtirish
+    .accesskey = y
 
 ## History Menu
 
@@ -104,6 +129,8 @@ menu-history-show-all-history =
     .label = Barcha tarixni ko‘rsatish
 menu-history-clear-recent-history =
     .label = So‘nggi tarixni tozalash
+menu-history-synced-tabs =
+    .label = Sinxronlangan ichki oynalar
 menu-history-restore-last-session =
     .label = Oldingi seansni tiklash
 menu-history-undo-menu =
@@ -122,6 +149,10 @@ menu-bookmarks-all-tabs =
     .label = Barcha ichki oynalarni xatcho‘plash
 menu-bookmarks-toolbar =
     .label = Xatcho‘plar paneli
+menu-bookmarks-other =
+    .label = Boshqa xatcho‘plar
+menu-bookmarks-mobile =
+    .label = Mobil xatcho‘plar
 
 ## Tools Menu
 
@@ -131,6 +162,15 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Qo‘shimcha dasturlar
     .accesskey = Q
+menu-tools-sync-sign-in =
+    .label = { -sync-brand-short-name } tizimiga kirish…
+    .accesskey = Y
+menu-tools-sync-now =
+    .label = Hozir sinxronlash
+    .accesskey = s
+menu-tools-sync-re-auth =
+    .label = { -sync-brand-short-name } ga qayta ulanish…
+    .accesskey = q
 menu-tools-web-developer =
     .label = Veb dasturchi
     .accesskey = V
@@ -145,15 +185,38 @@ menu-tools-page-info =
 
 menu-window-menu =
     .label = Oyna
+menu-window-bring-all-to-front =
+    .label = Barchasini oldinga o‘tkazish
 
 ## Help Menu
 
 menu-help =
     .label = Yordam
     .accesskey = Y
+menu-help-product =
+    .label = { -brand-shorter-name } yordami
+    .accesskey = y
+menu-help-show-tour =
+    .label = { -brand-shorter-name }ga sayohat
+    .accesskey = s
 menu-help-keyboard-shortcuts =
     .label = Klaviatura tugmalar birikmasi
     .accesskey = K
+menu-help-troubleshooting-info =
+    .label = Nosozlik ma’lumoti
+    .accesskey = N
 menu-help-feedback-page =
     .label = Mulohaza bildirish
     .accesskey = b
+menu-help-safe-mode-without-addons =
+    .label = Qo‘sh. dasturlarni o‘chirib, qayta ishga tushirish
+    .accesskey = q
+menu-help-safe-mode-with-addons =
+    .label = Qo‘sh. dasturlarni yoqib, qayta ishga tushirish
+    .accesskey = q
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Qalbaki sayt haqida xabar berish…
+    .accesskey = Q
