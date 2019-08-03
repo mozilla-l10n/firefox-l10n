@@ -58,6 +58,8 @@ menu-view-bidi-switch-page-direction =
 menu-history =
     .label = Histórico
     .accesskey = H
+menu-history-restore-last-session =
+    .label = Restaurar sessão anterior
 
 ## Bookmarks Menu
 
