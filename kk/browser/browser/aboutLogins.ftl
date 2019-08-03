@@ -45,12 +45,45 @@ login-item-new-login-title = Жаңа логинді жасау
 login-item-edit-button = Түзету
 login-item-delete-button = Өшіру
 login-item-origin-label = Веб-сайт адресі
+login-item-origin =
+    .placeholder = https://www.example.com
+login-item-open-site-button = Жөнелту
+login-item-username-label = Пайдаланушы аты
+login-item-username =
+    .placeholder = name@example.com
+login-item-copy-username-button-text = Көшіріп алу
+login-item-copied-username-button-text = Көшірілді!
+login-item-password-label = Пароль
+login-item-password-reveal-checkbox-show =
+    .title = Парольді көрсету
+login-item-password-reveal-checkbox-hide =
+    .title = Парольді жасыру
+login-item-copy-password-button-text = Көшіріп алу
+login-item-copied-password-button-text = Көшірілді!
+login-item-save-changes-button = Өзгерістерді сақтау
+login-item-save-new-button = Сақтау
+login-item-cancel-button = Бас тарту
+login-item-time-changed = Соңғы өзгертілген: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Жасалған: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Соңғы рет қолданылған: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
+master-password-reload-button =
+    .label = Кіру
+    .accesskey = к
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Бас тарту
+confirmation-dialog-dismiss-button =
+    .title = Бас тарту
+confirm-delete-dialog-title = Бұл логинді өшіру керек пе?
+confirm-delete-dialog-message = Бұл әрекетті болдырмау мүмкін емес болады.
+confirm-delete-dialog-confirm-button = Өшіру
+confirm-discard-changes-dialog-title = Сақталмаған өзгерістерді тайдыру керек пе?
+confirm-discard-changes-dialog-message = Барлық сақталмаған өзгерістер жоғалады.
+confirm-discard-changes-dialog-confirm-button = Тайдыру
 
 ## Breach Alert notification
 
