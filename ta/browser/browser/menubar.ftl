@@ -235,6 +235,9 @@ menu-preferences =
             [windows] O
            *[other] n
         }
+menu-tools-layout-debugger =
+    .label = வடிவமைப்பு வழுநீக்கி
+    .accesskey = L
 
 ## Window Menu
 
