@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file-new-private-window =
+    .label = Nowe okno prywatne
+    .accesskey = p
 
 ## Edit Menu
 
@@ -46,9 +49,15 @@ menu-view-page-basic-style =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-exit-full-screen =
+    .label = Opuść tryb pełnoekranowy
+    .accesskey = O
 
 ##
 
+menu-view-show-all-tabs =
+    .label = Wyświetl wszystkie karty
+    .accesskey = W
 menu-view-bidi-switch-page-direction =
     .label = Przełącz kierunek strony
     .accesskey = s
@@ -58,19 +67,37 @@ menu-view-bidi-switch-page-direction =
 menu-history =
     .label = Historia
     .accesskey = h
+menu-history-restore-last-session =
+    .label = Przywróć poprzednią sesję
 menu-history-undo-menu =
     .label = Ostatnio zamknięte karty
+menu-history-undo-window-menu =
+    .label = Ostatnio zamknięte okna
 
 ## Bookmarks Menu
 
+menu-bookmarks-show-all =
+    .label = Wyświetl wszystkie zakładki
 menu-bookmarks-all-tabs =
     .label = Dodaj zakładki do wszystkich kart…
 
 ## Tools Menu
 
+menu-tools-sync-now =
+    .label = Synchronizuj teraz
+    .accesskey = S
+menu-tools-web-developer =
+    .label = Dla twórców witryn
+    .accesskey = W
 
 ## Window Menu
 
 
 ## Help Menu
 
+menu-help-troubleshooting-info =
+    .label = Informacje dla pomocy technicznej
+    .accesskey = n
+menu-help-feedback-page =
+    .label = Prześlij swoją opinię…
+    .accesskey = e
