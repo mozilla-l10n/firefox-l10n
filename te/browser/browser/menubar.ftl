@@ -8,6 +8,17 @@
 menu-file-new-window =
     .label = కొత్త విండో
     .accesskey = N
+menu-file-new-private-window =
+    .label = కొత్త ఆంతరంగిక విండో
+    .accesskey = W
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = స్థానాన్ని తెరువు...
+menu-file-open-file =
+    .label = ఫైలును తెరువు…
+    .accesskey = O
 menu-file-print-setup =
     .label = పేజీ అమరిక...
     .accesskey = u
@@ -27,6 +38,12 @@ menu-view-full-zoom =
 menu-view-full-zoom-reduce =
     .label = జూమ్ తగ్గించు
     .accesskey = O
+menu-view-page-basic-style =
+    .label = ప్రాధమిక పేజీ శైలి
+    .accesskey = B
+menu-view-charset =
+    .label = పాఠ్యపు ఎన్‌కోడింగు
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -43,14 +60,26 @@ menu-view-bidi-switch-page-direction =
 menu-history =
     .label = చరిత్ర
     .accesskey = s
+menu-history-show-all-history =
+    .label = మొత్తం చరిత్రను చూపించు
+menu-history-clear-recent-history =
+    .label = ఇటీవలి చరిత్రను తుడిచివేయి…
+menu-history-restore-last-session =
+    .label = మునుపటి సెషన్‌ను పునరుద్ధరించు
 menu-history-undo-window-menu =
     .label = ఇటీవల మూసిన విండోలు
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = ఇష్టాంశాలు
+    .accesskey = B
 
 ## Tools Menu
 
+menu-tools-sync-sign-in =
+    .label = { -sync-brand-short-name } లోనికి ప్రవేశించండి…
+    .accesskey = Y
 menu-tools-web-developer =
     .label = వెబ్ అభివృద్దికారి
     .accesskey = W
@@ -73,3 +102,9 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = సహాయం
     .accesskey = H
+menu-help-product =
+    .label = { -brand-shorter-name } సహాయం
+    .accesskey = H
+menu-help-show-tour =
+    .label = { -brand-shorter-name } పర్యటన
+    .accesskey = o
