@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Faili
+    .accesskey = F
 menu-file-new-tab =
     .label = Kichupo Kipya
     .accesskey = K
@@ -16,6 +19,9 @@ menu-file-new-private-window =
     .accesskey = W
 menu-file-open-file =
     .label = Fungua Faili…
+    .accesskey = F
+menu-file-close =
+    .label = Funga
     .accesskey = F
 menu-file-close-window =
     .label = Funga Dirisha
@@ -41,6 +47,27 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Hariri
+    .accesskey = H
+menu-edit-undo =
+    .label = Tendua
+    .accesskey = T
+menu-edit-redo =
+    .label = Rudia
+    .accesskey = R
+menu-edit-cut =
+    .label = Kata
+    .accesskey = t
+menu-edit-paste =
+    .label = Bandika
+    .accesskey = B
+menu-edit-delete =
+    .label = Futa
+    .accesskey = F
+menu-edit-select-all =
+    .label = Chagua Zote
+    .accesskey = Z
 menu-edit-find-on =
     .label = Tafuta kwenye Ukurasa Huu…
     .accesskey = T
@@ -53,6 +80,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Onyesha
+    .accesskey = O
+menu-view-toolbars-menu =
+    .label = Mwambaa zana
+    .accesskey = M
+menu-view-customize-toolbar =
+    .label = Geuza kukufaa…
+    .accesskey = G
 menu-view-sidebar =
     .label = Mwambaa upande
     .accesskey = u
@@ -129,6 +165,9 @@ menu-bookmarks-toolbar =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Zana
+    .accesskey = Z
 menu-tools-downloads =
     .label = Upakuzi
     .accesskey = U
@@ -147,6 +186,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Ukurasa Maelezo
     .accesskey = M
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Chaguo
+           *[other] Mapendeleo
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] C
+           *[other] l
+        }
 
 ## Window Menu
 
@@ -160,6 +210,9 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Msaada
     .accesskey = M
+menu-help-product =
+    .label = &brandShortName; Help
+    .accesskey = H
 menu-help-keyboard-shortcuts =
     .label = Njiamkato za Kibodi
     .accesskey = N
