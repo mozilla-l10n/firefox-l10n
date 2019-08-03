@@ -48,6 +48,12 @@ menu-view-page-basic-style =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Entrar a la pantalla completa
+    .accesskey = P
+menu-view-exit-full-screen =
+    .label = Salir de la pantalla completa
+    .accesskey = P
 menu-view-full-screen =
     .label = Pantalla completa
     .accesskey = P
@@ -65,6 +71,8 @@ menu-history =
     .accesskey = s
 menu-history-show-all-history =
     .label = Mostrar todo el historial
+menu-history-restore-last-session =
+    .label = Restaurar sesión anterior
 menu-history-undo-menu =
     .label = Pestañas cerradas recientemente
 menu-history-undo-window-menu =
@@ -75,6 +83,8 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Marcadores
     .accesskey = M
+menu-bookmarks-show-all =
+    .label = Mostrar todos los marcadores
 menu-bookmarks-all-tabs =
     .label = Añadir pestañas a marcadores…
 menu-bookmarks-toolbar =
