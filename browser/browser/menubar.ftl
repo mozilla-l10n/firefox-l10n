@@ -17,6 +17,12 @@ menu-file-go-offline =
 
 ## View Menu
 
+menu-view-page-style-menu =
+    .label = Estilo de página
+    .accesskey = E
+menu-view-page-style-no-style =
+    .label = Deshabilitar
+    .accesskey = D
 menu-view-page-basic-style =
     .label = Básico
     .accesskey = B
@@ -35,6 +41,8 @@ menu-view-full-screen =
 
 menu-history-undo-menu =
     .label = Pestañas cerradas recientemente
+menu-history-undo-window-menu =
+    .label = Ventanas cerradas recientemente
 
 ## Bookmarks Menu
 
