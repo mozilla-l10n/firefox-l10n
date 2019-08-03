@@ -232,6 +232,9 @@ menu-preferences =
             [windows] Н
            *[other] Н
         }
+menu-tools-layout-debugger =
+    .label = Отладчик макета
+    .accesskey = л
 
 ## Window Menu
 
