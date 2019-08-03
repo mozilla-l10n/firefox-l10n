@@ -5,6 +5,18 @@
 
 ## File Menu
 
+menu-file =
+    .label = Plik
+    .accesskey = P
+menu-file-new-tab =
+    .label = Nowa karta
+    .accesskey = t
+menu-file-new-container-tab =
+    .label = Nowa karta z kontekstem
+    .accesskey = k
+menu-file-new-window =
+    .label = Nowe okno
+    .accesskey = N
 menu-file-new-private-window =
     .label = Nowe okno prywatne
     .accesskey = p
@@ -13,19 +25,93 @@ menu-file-new-private-window =
 # but Firefox is still running.
 menu-file-open-location =
     .label = Otwórz adres…
+menu-file-open-file =
+    .label = Otwórz plik…
+    .accesskey = o
+menu-file-close =
+    .label = Zamknij
+    .accesskey = Z
+menu-file-close-window =
+    .label = Zamknij okno
+    .accesskey = m
+menu-file-save-page =
+    .label = Zapisz stronę jako…
+    .accesskey = p
+menu-file-email-link =
+    .label = Wyślij odnośnik…
+    .accesskey = n
+menu-file-print-setup =
+    .label = Ustawienia strony…
+    .accesskey = U
+menu-file-print-preview =
+    .label = Podgląd wydruku
+    .accesskey = g
+menu-file-print =
+    .label = Drukuj…
+    .accesskey = D
+menu-file-import-from-another-browser =
+    .label = Importuj z innej przeglądarki…
+    .accesskey = I
+menu-file-go-offline =
+    .label = Pracuj w trybie offline
+    .accesskey = c
 
 ## Edit Menu
 
+menu-edit =
+    .label = Edycja
+    .accesskey = E
+menu-edit-undo =
+    .label = Cofnij
+    .accesskey = C
+menu-edit-redo =
+    .label = Przywróć
+    .accesskey = P
+menu-edit-cut =
+    .label = Wytnij
+    .accesskey = W
+menu-edit-copy =
+    .label = Kopiuj
+    .accesskey = K
+menu-edit-paste =
+    .label = Wklej
+    .accesskey = e
+menu-edit-delete =
+    .label = Usuń
+    .accesskey = U
+menu-edit-select-all =
+    .label = Zaznacz wszystko
+    .accesskey = a
+menu-edit-find-on =
+    .label = Znajdź na tej stronie…
+    .accesskey = Z
+menu-edit-find-again =
+    .label = Znajdź następne
+    .accesskey = n
 menu-edit-bidi-switch-text-direction =
     .label = Przełącz kierunek tekstu
     .accesskey = t
 
 ## View Menu
 
+menu-view =
+    .label = Widok
+    .accesskey = W
+menu-view-toolbars-menu =
+    .label = Paski narzędzi
+    .accesskey = P
+menu-view-customize-toolbar =
+    .label = Dostosuj…
+    .accesskey = t
+menu-view-sidebar =
+    .label = Panel boczny
+    .accesskey = b
 menu-view-bookmarks =
     .label = Zakładki
 menu-view-history-button =
     .label = Historia
+menu-view-synced-tabs-sidebar =
+    .label = Karty z innych urządzeń
 menu-view-full-zoom =
     .label = Powiększenie
     .accesskey = w
@@ -63,6 +149,9 @@ menu-view-enter-full-screen =
 menu-view-exit-full-screen =
     .label = Opuść tryb pełnoekranowy
     .accesskey = O
+menu-view-full-screen =
+    .label = Tryb pełnoekranowy
+    .accesskey = T
 
 ##
 
@@ -80,8 +169,14 @@ menu-history =
     .accesskey = h
 menu-history-show-all-history =
     .label = Wyświetl całą historię
+menu-history-clear-recent-history =
+    .label = Wyczyść historię przeglądania…
+menu-history-synced-tabs =
+    .label = Karty z innych urządzeń
 menu-history-restore-last-session =
     .label = Przywróć poprzednią sesję
+menu-history-hidden-tabs =
+    .label = Ukryte karty
 menu-history-undo-menu =
     .label = Ostatnio zamknięte karty
 menu-history-undo-window-menu =
@@ -89,30 +184,80 @@ menu-history-undo-window-menu =
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = Zakładki
+    .accesskey = Z
 menu-bookmarks-show-all =
     .label = Wyświetl wszystkie zakładki
 menu-bookmarks-all-tabs =
     .label = Dodaj zakładki do wszystkich kart…
+menu-bookmarks-toolbar =
+    .label = Pasek zakładek
 menu-bookmarks-mobile =
     .label = Zakładki z urządzeń przenośnych
 
 ## Tools Menu
 
+menu-tools =
+    .label = Narzędzia
+    .accesskey = N
+menu-tools-downloads =
+    .label = Pobieranie plików
+    .accesskey = P
+menu-tools-addons =
+    .label = Dodatki
+    .accesskey = D
+menu-tools-sync-sign-in =
+    .label = Zaloguj się, aby rozpocząć synchronizację…
+    .accesskey = s
 menu-tools-sync-now =
     .label = Synchronizuj teraz
     .accesskey = S
+menu-tools-sync-re-auth =
+    .label = Zaloguj się ponownie, aby synchronizować…
+    .accesskey = Z
 menu-tools-web-developer =
     .label = Dla twórców witryn
     .accesskey = W
+menu-tools-page-source =
+    .label = Źródło strony
+    .accesskey = d
+menu-tools-page-info =
+    .label = Informacje o stronie
+    .accesskey = m
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Opcje
+           *[other] Preferencje
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] r
+        }
 menu-tools-layout-debugger =
     .label = Debuger układu
     .accesskey = r
 
 ## Window Menu
 
+menu-window-menu =
+    .label = Okno
+menu-window-bring-all-to-front =
+    .label = Pokaż wszystko na wierzchu
 
 ## Help Menu
 
+menu-help =
+    .label = Pomoc
+    .accesskey = c
+menu-help-product =
+    .label = Pomoc programu { -brand-shorter-name }
+    .accesskey = P
+menu-help-show-tour =
+    .label = Przewodnik po programie
+    .accesskey = r
 menu-help-keyboard-shortcuts =
     .label = Skróty klawiaturowe
     .accesskey = S
@@ -124,6 +269,9 @@ menu-help-feedback-page =
     .accesskey = e
 menu-help-safe-mode-without-addons =
     .label = Uruchom ponownie z wyłączonymi dodatkami…
+    .accesskey = U
+menu-help-safe-mode-with-addons =
+    .label = Uruchom ponownie z włączonymi dodatkami
     .accesskey = U
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
