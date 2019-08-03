@@ -133,6 +133,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Basic na Estilo ng Pahina
     .accesskey = b
+menu-view-charset =
+    .label = Pag-encode ng Teksto
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -230,6 +233,9 @@ menu-preferences =
             [windows] O
            *[other] n
         }
+menu-tools-layout-debugger =
+    .label = Layout Debugger
+    .accesskey = L
 
 ## Window Menu
 
