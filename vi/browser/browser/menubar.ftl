@@ -27,6 +27,9 @@
 
 ## Tools Menu
 
+menu-tools-web-developer =
+    .label = Nhà phát triển Web
+    .accesskey = W
 
 ## Window Menu
 
