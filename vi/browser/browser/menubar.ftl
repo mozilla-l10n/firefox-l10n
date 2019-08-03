@@ -215,6 +215,9 @@ menu-preferences =
             [windows] O
            *[other] n
         }
+menu-tools-layout-debugger =
+    .label = Trình gỡ lỗi bố cục
+    .accesskey = L
 
 ## Window Menu
 
