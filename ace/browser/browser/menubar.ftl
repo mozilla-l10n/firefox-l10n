@@ -123,6 +123,8 @@ menu-tools-page-info =
 
 ## Window Menu
 
+menu-window-menu =
+    .label = Tingkap
 menu-window-bring-all-to-front =
     .label = Mè Ban Dum u Keue
 
