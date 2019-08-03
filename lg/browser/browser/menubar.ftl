@@ -5,6 +5,24 @@
 
 ## File Menu
 
+menu-file-new-tab =
+    .label = Awaddirira Awapya
+    .accesskey = A
+menu-file-new-window =
+    .label = Eddirisa Epya
+    .accesskey = E
+menu-file-open-file =
+    .label = Bikkula Fayiro…
+    .accesskey = B
+menu-file-close-window =
+    .label = Ggalawo Endirisa
+    .accesskey = i
+menu-file-save-page =
+    .label = Tereka Omuko Nga…
+    .accesskey = N
+menu-file-print-setup =
+    .label = Entegeka y'Omuko…
+    .accesskey = e
 menu-file-print-preview =
     .label = Laba Bwekinafuluma
     .accesskey = L
@@ -14,12 +32,38 @@ menu-file-print =
 
 ## Edit Menu
 
+menu-edit-find-on =
+    .label = Nonya mu Muko Guno…
+    .accesskey = N
+menu-edit-find-again =
+    .label = Nonya n'atte
+    .accesskey = t
+menu-edit-bidi-switch-text-direction =
+    .label = Kyusamu Entambula Y'ebigambo
+    .accesskey = y
 
 ## View Menu
 
 menu-view-sidebar =
     .label = Olusangiro lw'emabbali
     .accesskey = o
+menu-view-bookmarks =
+    .label = Obulambe
+menu-view-full-zoom =
+    .label = Zimbulukusa
+    .accesskey = Z
+menu-view-full-zoom-enlarge =
+    .label = Funza mu
+    .accesskey = m
+menu-view-full-zoom-reduce =
+    .label = Zimbulukusa
+    .accesskey = u
+menu-view-full-zoom-reset =
+    .label = Ddamu otegeke
+    .accesskey = D
+menu-view-full-zoom-toggle =
+    .label = Zimbulukusa ekiwandike kyokka
+    .accesskey = e
 menu-view-page-style-menu =
     .label = Omusono gwo Omuko
     .accesskey = u
@@ -33,12 +77,26 @@ menu-view-page-basic-style =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-full-screen =
+    .label = Sikulini mu Bujjuvu
+    .accesskey = S
 
 ##
 
+menu-view-show-all-tabs =
+    .label = Laga Awadirira Wona
+    .accesskey = W
+menu-view-bidi-switch-page-direction =
+    .label = Kyusa Entabula Y'omuko
+    .accesskey = m
 
 ## History Menu
 
+menu-history =
+    .label = Ebyafayo
+    .accesskey = f
+menu-history-undo-menu =
+    .label = Awadirira Awakaggalwawo
 menu-history-undo-window-menu =
     .label = Amadiriisa Agakaggalibwawo
 
@@ -47,12 +105,52 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Obulambe
     .accesskey = O
+menu-bookmarks-show-all =
+    .label = Laga Obulambe Bwonna
+menu-bookmarks-all-tabs =
+    .label = Lamba Awaddirira Wona…
+menu-bookmarks-toolbar =
+    .label = Akabawo Kobulambe
 
 ## Tools Menu
 
+menu-tools-downloads =
+    .label = Ebiwanulwa
+    .accesskey = E
+menu-tools-addons =
+    .label = Ebigattibwako
+    .accesskey = E
+menu-tools-sync-now =
+    .label = Kwanaganya kati
+    .accesskey = K
+menu-tools-web-developer =
+    .label = Omuzimbi w'emitimbagano
+    .accesskey = O
+menu-tools-page-source =
+    .label = Ensibuko y'Omuko
+    .accesskey = n
+menu-tools-page-info =
+    .label = Ebikwata ku'muko
+    .accesskey = b
 
 ## Window Menu
 
+menu-window-menu =
+    .label = Eddirisa
+menu-window-bring-all-to-front =
+    .label = Leeta Bbyonna Mumaso
 
 ## Help Menu
 
+menu-help =
+    .label = Obuyambi
+    .accesskey = O
+menu-help-troubleshooting-info =
+    .label = Amawulire ku kugonjoola obuzibu
+    .accesskey = A
+menu-help-feedback-page =
+    .label = Waayo endowooza yo…
+    .accesskey = W
+menu-help-safe-mode-without-addons =
+    .label = Tandika kompyuta buto nga ojjeko Ebyokwongerako…
+    .accesskey = T
