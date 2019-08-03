@@ -23,14 +23,26 @@
 
 menu-history-undo-menu =
     .label = Վերջին փակված ներդիրները
+menu-history-undo-window-menu =
+    .label = Վերջին փակված պատուհանները
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = Էջանիշեր
+    .accesskey = Է
+menu-bookmarks-show-all =
+    .label = Ցուցադրել բոլոր էջանիշերը
 menu-bookmarks-all-tabs =
     .label = Էջանշել Բոլոր Ներդիրները…
+menu-bookmarks-toolbar =
+    .label = Էջանիշերի Վահանակ
 
 ## Tools Menu
 
+menu-tools-web-developer =
+    .label = Վեբ ծրագրավորող
+    .accesskey = Վ
 
 ## Window Menu
 
@@ -41,3 +53,6 @@ menu-window-bring-all-to-front =
 
 ## Help Menu
 
+menu-help-feedback-page =
+    .label = Ուղարկել արձագանք…
+    .accesskey = Ո
