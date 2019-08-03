@@ -55,9 +55,15 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = K'exob'äl
+    .accesskey = e
 menu-edit-undo =
     .label = Titzolïx
     .accesskey = t
+menu-edit-redo =
+    .label = Tikamulüx
+    .accesskey = m
 menu-edit-cut =
     .label = Tiqupïx
     .accesskey = q
@@ -73,12 +79,21 @@ menu-edit-delete =
 menu-edit-select-all =
     .label = Ticha' ronojel
     .accesskey = r
+menu-edit-find-on =
+    .label = Tikanöx pa Re Ruxaq Re'…
+    .accesskey = R
+menu-edit-find-again =
+    .label = Tikanöx Chik
+    .accesskey = k
 menu-edit-bidi-switch-text-direction =
     .label = Rujalik rub'eyal ri tz'ib'
     .accesskey = r
 
 ## View Menu
 
+menu-view =
+    .label = Tz'etob'äl
+    .accesskey = T
 menu-view-toolbars-menu =
     .label = Cholsamajib'äl
     .accesskey = i
@@ -88,6 +103,8 @@ menu-view-customize-toolbar =
 menu-view-sidebar =
     .label = Chuchi' Cholab'äl
     .accesskey = C
+menu-view-bookmarks =
+    .label = Yaketal
 menu-view-history-button =
     .label = Natab'äl
 menu-view-synced-tabs-sidebar =
@@ -155,6 +172,8 @@ menu-history-synced-tabs =
     .label = Ximon taq ruwi'
 menu-history-restore-last-session =
     .label = Titzolin pa ri molojri'ïl xik'o
+menu-history-hidden-tabs =
+    .label = Ewan taq Ruwi'
 menu-history-undo-menu =
     .label = Taq ruwi' k'a b'a' etz'apin
 menu-history-undo-window-menu =
@@ -162,6 +181,9 @@ menu-history-undo-window-menu =
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = Yaketal
+    .accesskey = y
 menu-bookmarks-show-all =
     .label = Kek'ut konojel ri taq yaketal
 menu-bookmarks-all-tabs =
@@ -175,12 +197,21 @@ menu-bookmarks-mobile =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Samajib'äl
+    .accesskey = i
+menu-tools-downloads =
+    .label = Taq qasanïk
+    .accesskey = q
 menu-tools-addons =
     .label = Taq tz'aqat
     .accesskey = t
 menu-tools-sync-sign-in =
     .label = Titikirisäx molojri'ïl pa { -sync-brand-short-name }…
     .accesskey = I
+menu-tools-sync-now =
+    .label = Tixim Wakami
+    .accesskey = R
 menu-tools-sync-re-auth =
     .label = Tawokisaj chik pa { -sync-brand-short-name }…
     .accesskey = T
@@ -204,6 +235,9 @@ menu-preferences =
             [windows] c
            *[other] o
         }
+menu-tools-layout-debugger =
+    .label = Ruchojmirisanel Wachib'enïk
+    .accesskey = W
 
 ## Window Menu
 
@@ -214,6 +248,9 @@ menu-window-bring-all-to-front =
 
 ## Help Menu
 
+menu-help =
+    .label = Tob'äl
+    .accesskey = T
 menu-help-product =
     .label = { -brand-shorter-name } To'ïk
     .accesskey = T
