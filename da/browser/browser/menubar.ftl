@@ -11,9 +11,15 @@ menu-file =
 menu-file-new-tab =
     .label = Nyt faneblad
     .accesskey = f
+menu-file-new-container-tab =
+    .label = Nyt kontekst-faneblad
+    .accesskey = k
 menu-file-new-window =
     .label = Nyt vindue
     .accesskey = v
+menu-file-new-private-window =
+    .label = Nyt privat vindue
+    .accesskey = p
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
 # but Firefox is still running.
@@ -43,6 +49,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Udskriv…
     .accesskey = U
+menu-file-import-from-another-browser =
+    .label = Importer fra en anden browser…
+    .accesskey = I
 menu-file-go-offline =
     .label = Arbejd offline
     .accesskey = o
@@ -94,10 +103,15 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = Tilpas…
     .accesskey = p
+menu-view-sidebar =
+    .label = Sidepaneler
+    .accesskey = S
 menu-view-bookmarks =
     .label = Bogmærker
 menu-view-history-button =
     .label = Historik
+menu-view-synced-tabs-sidebar =
+    .label = Synkroniserede faneblade
 menu-view-full-zoom =
     .label = Zoom
     .accesskey = Z
@@ -126,6 +140,15 @@ menu-view-page-basic-style =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Start fuld skærm
+    .accesskey = F
+menu-view-exit-full-screen =
+    .label = Afslut fuld skærm
+    .accesskey = F
+menu-view-full-screen =
+    .label = Fuld skærm
+    .accesskey = F
 
 ##
 
@@ -141,10 +164,16 @@ menu-view-bidi-switch-page-direction =
 menu-history =
     .label = Historik
     .accesskey = i
+menu-history-show-all-history =
+    .label = Vis al historik
 menu-history-clear-recent-history =
     .label = Ryd seneste historik…
 menu-history-synced-tabs =
     .label = Synkroniserede faneblade
+menu-history-restore-last-session =
+    .label = Gendan forrige session
+menu-history-hidden-tabs =
+    .label = Skjulte faneblade
 menu-history-undo-menu =
     .label = Senest lukkede faneblade
 menu-history-undo-window-menu =
@@ -155,10 +184,16 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Bogmærker
     .accesskey = B
+menu-bookmarks-show-all =
+    .label = Vis alle bogmærker
 menu-bookmarks-all-tabs =
     .label = Bogmærk alle faneblade…
 menu-bookmarks-toolbar =
     .label = Bogmærkelinje
+menu-bookmarks-other =
+    .label = Andre bogmærker
+menu-bookmarks-mobile =
+    .label = Mobil-bogmærker
 
 ## Tools Menu
 
@@ -171,9 +206,15 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Tilføjelser
     .accesskey = t
+menu-tools-sync-sign-in =
+    .label = Log ind på { -sync-brand-short-name }…
+    .accesskey = Y
 menu-tools-sync-now =
     .label = Synkroniser nu
     .accesskey = S
+menu-tools-sync-re-auth =
+    .label = Genopret forbindelse til { -sync-brand-short-name }…
+    .accesskey = G
 menu-tools-web-developer =
     .label = Webudvikler
     .accesskey = W
@@ -194,6 +235,9 @@ menu-preferences =
             [windows] I
            *[other] I
         }
+menu-tools-layout-debugger =
+    .label = Layout-debugger
+    .accesskey = d
 
 ## Window Menu
 
@@ -207,6 +251,15 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Hjælp
     .accesskey = H
+menu-help-product =
+    .label = Hjælp til { -brand-shorter-name }
+    .accesskey = H
+menu-help-show-tour =
+    .label = Rundvisning i { -brand-shorter-name }
+    .accesskey = R
+menu-help-keyboard-shortcuts =
+    .label = Tastaturgenveje
+    .accesskey = u
 menu-help-troubleshooting-info =
     .label = Teknisk information…
     .accesskey = T
@@ -216,3 +269,12 @@ menu-help-feedback-page =
 menu-help-safe-mode-without-addons =
     .label = Genstart med tilføjelser deaktiveret…
     .accesskey = G
+menu-help-safe-mode-with-addons =
+    .label = Genstart med tilføjelser aktiveret
+    .accesskey = G
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Anmeld vildledende websted…
+    .accesskey = A
