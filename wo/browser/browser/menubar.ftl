@@ -8,12 +8,23 @@
 menu-file =
     .label = Dencukaay
     .accesskey = D
+menu-file-new-tab =
+    .label = Làcc wu wees
+    .accesskey = T
 menu-file-new-window =
     .label = Palanteer bu bees
     .accesskey = n
 menu-file-new-private-window =
     .label = Panlanteeru biir bu bees
     .accesskey = b
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Ubbi fa mu nekk...
+menu-file-open-file =
+    .label = Ubbi ab dencukaay…
+    .accesskey = O
 menu-file-close =
     .label = Tëj
     .accesskey = T
@@ -26,6 +37,12 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Buumu imeel…
     .accesskey = B
+menu-file-print-setup =
+    .label = Jekk-jekkali xët…
+    .accesskey = u
+menu-file-print-preview =
+    .label = Gisandi laata móol
+    .accesskey = v
 menu-file-print =
     .label = Móol…
     .accesskey = M
@@ -195,3 +212,27 @@ menu-window-bring-all-to-front =
 
 ## Help Menu
 
+menu-help =
+    .label = Ndimbal
+    .accesskey = H
+menu-help-product =
+    .label = Ndimbal ci { -brand-shorter-name }
+    .accesskey = H
+menu-help-show-tour =
+    .label = Wëraalu ci { -brand-shorter-name }
+    .accesskey = o
+menu-help-keyboard-shortcuts =
+    .label = Ñalli arafukaay bi
+    .accesskey = K
+menu-help-troubleshooting-info =
+    .label = Xibaari dëng-dëng
+    .accesskey = T
+menu-help-feedback-page =
+    .label = Joxe sa xalaat…
+    .accesskey = S
+menu-help-safe-mode-without-addons =
+    .label = Tambaliwaat te doxadil yokkéef yi …
+    .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = Tambaliwaat te doxal yokkéef yi…
+    .accesskey = R
