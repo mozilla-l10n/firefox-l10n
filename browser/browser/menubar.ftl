@@ -264,3 +264,9 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = અડ-ઓન્સ સક્ષમ કારી અને પુનઃ પ્રારંભ કરો
     .accesskey = R
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = ભ્રામક સાઇટની જાણ કરો ...
+    .accesskey = D
