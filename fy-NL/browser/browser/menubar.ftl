@@ -11,6 +11,12 @@ menu-file-new-tab =
 menu-file-new-container-tab =
     .label = Nij kontenerljepblêd
     .accesskey = k
+menu-file-new-window =
+    .label = Nij finster
+    .accesskey = N
+menu-file-new-private-window =
+    .label = Nij priveefinster
+    .accesskey = p
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
 # but Firefox is still running.
@@ -40,12 +46,21 @@ menu-file-print =
 
 ## Edit Menu
 
+menu-edit-find-on =
+    .label = Sykje op dizze side…
+    .accesskey = S
+menu-edit-find-again =
+    .label = Opnij sykje
+    .accesskey = s
 menu-edit-bidi-switch-text-direction =
     .label = Tekstrjochting draaie
     .accesskey = t
 
 ## View Menu
 
+menu-view-sidebar =
+    .label = Sidebalke
+    .accesskey = S
 menu-view-bookmarks =
     .label = Blêdwizers
 menu-view-history-button =
@@ -103,6 +118,8 @@ menu-history =
     .accesskey = S
 menu-history-show-all-history =
     .label = Alle skiednis toane
+menu-history-clear-recent-history =
+    .label = Resinte skiednis wiskje…
 menu-history-synced-tabs =
     .label = Syngronisearre ljepblêden
 menu-history-undo-menu =
@@ -112,6 +129,13 @@ menu-history-undo-window-menu =
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = Blêdwizers
+    .accesskey = D
+menu-bookmarks-show-all =
+    .label = Alle blêdwizers toane
+menu-bookmarks-all-tabs =
+    .label = Blêdwizer foar alle ljepblêden meitsje…
 menu-bookmarks-toolbar =
     .label = Blêdwizerarkbalke
 menu-bookmarks-other =
@@ -122,6 +146,9 @@ menu-bookmarks-other =
 menu-tools-downloads =
     .label = Downloads
     .accesskey = D
+menu-tools-addons =
+    .label = Add-ons
+    .accesskey = A
 menu-tools-sync-sign-in =
     .label = Oanmelde by { -sync-brand-short-name }…
     .accesskey = y
