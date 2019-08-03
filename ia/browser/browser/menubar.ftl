@@ -140,6 +140,12 @@ menu-view-charset =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Entrar in plen schermo
+    .accesskey = E
+menu-view-exit-full-screen =
+    .label = Exir del plen schermo
+    .accesskey = E
 menu-view-full-screen =
     .label = Plen schermo
     .accesskey = P
@@ -235,6 +241,8 @@ menu-tools-layout-debugger =
 
 menu-window-menu =
     .label = Fenestra
+menu-window-bring-all-to-front =
+    .label = Traher toto al avante
 
 ## Help Menu
 
