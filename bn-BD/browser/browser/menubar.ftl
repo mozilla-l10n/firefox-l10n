@@ -49,6 +49,9 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit-find-on =
+    .label = এই পাতায় অনুসন্ধান…
+    .accesskey = F
 menu-edit-find-again =
     .label = পুনরায় খুঁজুন
     .accesskey = g
@@ -130,6 +133,8 @@ menu-history-synced-tabs =
     .label = সিঙ্ককৃত ট্যাব
 menu-history-restore-last-session =
     .label = পূর্ববর্তী সেশন পুনরুদ্ধার
+menu-history-hidden-tabs =
+    .label = লুকাইত ট্যাব
 menu-history-undo-menu =
     .label = সম্প্রতি বন্ধ করা ট্যাব
 menu-history-undo-window-menu =
@@ -137,6 +142,9 @@ menu-history-undo-window-menu =
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = বুকমার্ক
+    .accesskey = B
 menu-bookmarks-show-all =
     .label = সব বুকমার্ক প্রদর্শন
 menu-bookmarks-all-tabs =
@@ -174,6 +182,9 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = পাতার সংক্রান্ত তথ্য
     .accesskey = I
+menu-tools-layout-debugger =
+    .label = লেআইট ডিবাগার
+    .accesskey = L
 
 ## Window Menu
 
