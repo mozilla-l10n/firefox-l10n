@@ -20,6 +20,9 @@ menu-file-open-file =
 menu-file-close-window =
     .label = উইন্ডো বন্ধ কৰক
     .accesskey = d
+menu-file-save-page =
+    .label = এই ধৰণে পৃষ্ঠা সংৰক্ষণ কৰক…
+    .accesskey = A
 menu-file-email-link =
     .label = লিঙ্ক ই-মেইল কৰক…
     .accesskey = E
@@ -32,6 +35,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = প্ৰিন্ট কৰক…
     .accesskey = P
+menu-file-go-offline =
+    .label = অফলাইন কাম কৰক
+    .accesskey = k
 
 ## Edit Menu
 
@@ -54,6 +60,12 @@ menu-view-history-button =
 menu-view-full-zoom =
     .label = জুম কৰক
     .accesskey = Z
+menu-view-full-zoom-enlarge =
+    .label = জুম ইন
+    .accesskey = I
+menu-view-full-zoom-reduce =
+    .label = জুম আউট
+    .accesskey = O
 menu-view-full-zoom-reset =
     .label = পুনৰ সংহতি
     .accesskey = R
@@ -64,6 +76,9 @@ menu-view-page-style-menu =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = পূৰ্ণপৰ্দাত যাওক
+    .accesskey = F
 menu-view-exit-full-screen =
     .label = পূৰ্ণপৰ্দা ত্যাগ কৰক
     .accesskey = F
@@ -87,6 +102,8 @@ menu-history =
     .accesskey = s
 menu-history-show-all-history =
     .label = সকলো ইতিহাস দেখুৱাওক
+menu-history-clear-recent-history =
+    .label = শেহতীয়া ইতিহাস পৰিষ্কাৰ কৰক…
 menu-history-undo-menu =
     .label = শেহতীয়াভাৱে বন্ধ কৰা টেবসমূহ
 menu-history-undo-window-menu =
@@ -118,6 +135,9 @@ menu-tools-sync-now =
 menu-tools-web-developer =
     .label = ৱেব উন্নয়নকাৰী
     .accesskey = W
+menu-tools-page-source =
+    .label = পৃষ্ঠাৰ উৎস
+    .accesskey = o
 menu-tools-page-info =
     .label = পৃষ্ঠা তথ্য
     .accesskey = I
@@ -126,12 +146,23 @@ menu-tools-page-info =
 
 menu-window-menu =
     .label = উইন্ডো
+menu-window-bring-all-to-front =
+    .label = সকলো সন্মুখলৈ আনক
 
 ## Help Menu
 
 menu-help =
     .label = সহায়
     .accesskey = H
+menu-help-keyboard-shortcuts =
+    .label = কিবৰ্ড চৰ্টকাটসমূহ
+    .accesskey = K
+menu-help-troubleshooting-info =
+    .label = সমস্যামুক্তিৰ তথ্য
+    .accesskey = T
+menu-help-feedback-page =
+    .label = সঁহাৰি জমা দিয়ক…
+    .accesskey = S
 menu-help-safe-mode-without-addons =
     .label = এড-অন সমূহ অসামৰ্থবান থকাকে পুনৰাম্ভ কৰক…
     .accesskey = R
