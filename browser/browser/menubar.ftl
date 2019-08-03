@@ -5,9 +5,18 @@
 
 ## File Menu
 
+menu-file =
+    .label = Arquivo
+    .accesskey = A
 menu-file-new-tab =
     .label = Nova aba
     .accesskey = N
+menu-file-new-window =
+    .label = Nova janela
+    .accesskey = j
+menu-file-new-private-window =
+    .label = Nova janela privativa
+    .accesskey = p
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
 # but Firefox is still running.
@@ -16,6 +25,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Abrir arquivo…
     .accesskey = A
+menu-file-close =
+    .label = Fechar
+    .accesskey = F
 menu-file-close-window =
     .label = Fechar janela
     .accesskey = h
@@ -31,15 +43,51 @@ menu-file-print-setup =
 menu-file-print-preview =
     .label = Visualizar impressão
     .accesskey = z
+menu-file-print =
+    .label = Imprimir…
+    .accesskey = I
 
 ## Edit Menu
 
+menu-edit =
+    .label = Editar
+    .accesskey = E
+menu-edit-undo =
+    .label = Desfazer
+    .accesskey = D
+menu-edit-redo =
+    .label = Refazer
+    .accesskey = R
+menu-edit-cut =
+    .label = Cortar
+    .accesskey = t
+menu-edit-copy =
+    .label = Copiar
+    .accesskey = C
+menu-edit-paste =
+    .label = Colar
+    .accesskey = o
+menu-edit-delete =
+    .label = Excluir
+    .accesskey = x
+menu-edit-select-all =
+    .label = Selecionar tudo
+    .accesskey = S
 menu-edit-bidi-switch-text-direction =
     .label = Alterar direção do texto
     .accesskey = A
 
 ## View Menu
 
+menu-view =
+    .label = Exibir
+    .accesskey = x
+menu-view-toolbars-menu =
+    .label = Barras de ferramentas
+    .accesskey = B
+menu-view-customize-toolbar =
+    .label = Personalizar…
+    .accesskey = P
 menu-view-sidebar =
     .label = Painel
     .accesskey = a
@@ -47,15 +95,29 @@ menu-view-bookmarks =
     .label = Favoritos
 menu-view-history-button =
     .label = Histórico
+menu-view-synced-tabs-sidebar =
+    .label = Abas sincronizadas
 menu-view-full-zoom =
     .label = Zoom
     .accesskey = Z
+menu-view-full-zoom-enlarge =
+    .label = Ampliar
+    .accesskey = A
 menu-view-full-zoom-reduce =
     .label = Reduzir
     .accesskey = R
+menu-view-full-zoom-toggle =
+    .label = Zoom só do texto
+    .accesskey = S
+menu-view-page-style-menu =
+    .label = Estilo da página
+    .accesskey = s
 menu-view-page-style-no-style =
     .label = Sem estilo
     .accesskey = m
+menu-view-charset =
+    .label = Codificação de texto
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -72,6 +134,9 @@ menu-view-full-screen =
 
 ##
 
+menu-view-show-all-tabs =
+    .label = Mostrar todas as abas
+    .accesskey = t
 menu-view-bidi-switch-page-direction =
     .label = Alterar direção da página
     .accesskey = e
@@ -81,6 +146,8 @@ menu-view-bidi-switch-page-direction =
 menu-history =
     .label = Histórico
     .accesskey = H
+menu-history-show-all-history =
+    .label = Mostrar histórico
 menu-history-clear-recent-history =
     .label = Limpar histórico recente…
 menu-history-synced-tabs =
@@ -97,25 +164,51 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Favoritos
     .accesskey = v
+menu-bookmarks-show-all =
+    .label = Mostrar favoritos
 menu-bookmarks-all-tabs =
     .label = Adicionar todas as abas…
 menu-bookmarks-toolbar =
     .label = Barra de favoritos
+menu-bookmarks-other =
+    .label = Outros favoritos
+menu-bookmarks-mobile =
+    .label = Favoritos do celular
 
 ## Tools Menu
 
+menu-tools =
+    .label = Ferramentas
+    .accesskey = F
 menu-tools-downloads =
     .label = Downloads
     .accesskey = D
+menu-tools-addons =
+    .label = Extensões
+    .accesskey = E
 menu-tools-sync-now =
     .label = Sincronizar agora
     .accesskey = n
 menu-tools-sync-re-auth =
     .label = Reconectar-se ao { -sync-brand-short-name }…
     .accesskey = R
+menu-tools-web-developer =
+    .label = Web Developer
+    .accesskey = W
 menu-tools-page-info =
     .label = Informações da página
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Opções
+           *[other] Preferências
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
 
 ## Window Menu
 
@@ -126,3 +219,12 @@ menu-window-bring-all-to-front =
 
 ## Help Menu
 
+menu-help =
+    .label = Ajuda
+    .accesskey = u
+menu-help-product =
+    .label = Ajuda do { -brand-shorter-name }
+    .accesskey = u
+menu-help-troubleshooting-info =
+    .label = Informações para resolver problemas
+    .accesskey = I
