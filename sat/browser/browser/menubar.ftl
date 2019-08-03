@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = रेत् (F)
+    .accesskey = F
 menu-file-new-tab =
     .label = नावा टैब (T){ " " }
     .accesskey = T
@@ -22,6 +25,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = रेत् झिज मे…  (O)
     .accesskey = O
+menu-file-close =
+    .label = बोंद मे (C)
+    .accesskey = C
 menu-file-close-window =
     .label = विंडो बोनदोय मे (d) .
     .accesskey = d
@@ -46,6 +52,27 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = { " " }सासापड़ाव (E)
+    .accesskey = E
+menu-edit-undo =
+    .label = रुवा़ड़ (U)
+    .accesskey = U
+menu-edit-redo =
+    .label = दोहड़ाकोराव (R)
+    .accesskey = R
+menu-edit-cut =
+    .label = गेत् (t)
+    .accesskey = t
+menu-edit-paste =
+    .label = लाठा (P)
+    .accesskey = P
+menu-edit-delete =
+    .label = मेटाव (D)
+    .accesskey = D
+menu-edit-select-all =
+    .label = जोतो बाछाव  (A)
+    .accesskey = A
 menu-edit-find-on =
     .label = नोवा साहटा रे ञाम...  (F)
     .accesskey = F
@@ -58,6 +85,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = ञेंल (V)
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = टुल बार को (To)
+    .accesskey = T
+menu-view-customize-toolbar =
+    .label = कुसियाक् तेयार…(C)
+    .accesskey = C
 menu-view-sidebar =
     .label = धारे बार (e)
     .accesskey = e
@@ -129,6 +165,9 @@ menu-bookmarks-toolbar =
 
 ## Tools Menu
 
+menu-tools =
+    .label = टुल्स (T)
+    .accesskey = T
 menu-tools-downloads =
     .label = आ़तुर आंड़गो (D)
     .accesskey = D
@@ -150,6 +189,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = साहटा ला़य सोदोर ( ) .
     .accesskey = )
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] आपनार मोने तेयाक् को (O)
+           *[other] कुसियाक् को (n)
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
 
 ## Window Menu
 
