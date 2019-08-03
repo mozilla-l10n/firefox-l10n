@@ -31,6 +31,9 @@ menu-file-open-file =
 menu-file-close =
     .label = Tutup
     .accesskey = T
+menu-file-close-window =
+    .label = Tutup Tetingkap
+    .accesskey = u
 menu-file-save-page =
     .label = Simpan Halaman Sebagai…
     .accesskey = H
@@ -82,6 +85,9 @@ menu-edit-find-on =
 menu-edit-find-again =
     .label = Cari Lagi
     .accesskey = g
+menu-edit-bidi-switch-text-direction =
+    .label = Tukar Hala Teks
+    .accesskey = u
 
 ## View Menu
 
@@ -94,6 +100,9 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = Penyesuaian…
     .accesskey = P
+menu-view-sidebar =
+    .label = Bar sisi
+    .accesskey = B
 menu-view-bookmarks =
     .label = Tandabuku
 menu-view-history-button =
@@ -124,10 +133,19 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Gaya Halaman Asas
     .accesskey = a
+menu-view-charset =
+    .label = Pengekodan Teks
+    .accesskey = n
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Masuk Skrin Penuh
+    .accesskey = P
+menu-view-exit-full-screen =
+    .label = Keluar Skrin Penuh
+    .accesskey = K
 menu-view-full-screen =
     .label = Skrin Penuh
     .accesskey = S
@@ -206,6 +224,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Info Halaman
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Pilihan
+           *[other] Keutamaan
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] h
+           *[other] n
+        }
 menu-tools-layout-debugger =
     .label = Penyahpepijat Susun Atur
     .accesskey = S
@@ -243,3 +272,9 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Mula semula dengan Add-ons Didayakan
     .accesskey = M
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Laporkan laman yang mengelirukan…
+    .accesskey = m
