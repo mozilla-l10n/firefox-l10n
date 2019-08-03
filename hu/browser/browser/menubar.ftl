@@ -5,9 +5,15 @@
 
 ## File Menu
 
+menu-file =
+    .label = Fájl
+    .accesskey = F
 menu-file-new-tab =
     .label = Új lap
     .accesskey = l
+menu-file-new-container-tab =
+    .label = Új konténerlap
+    .accesskey = k
 menu-file-new-window =
     .label = Új ablak
     .accesskey = a
@@ -22,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Fájl megnyitása…
     .accesskey = F
+menu-file-close =
+    .label = Bezárás
+    .accesskey = B
 menu-file-close-window =
     .label = Ablak bezárása
     .accesskey = A
@@ -46,6 +55,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Szerkesztés
+    .accesskey = z
+menu-edit-undo =
+    .label = Visszavonás
+    .accesskey = V
+menu-edit-redo =
+    .label = Újra
+    .accesskey = r
+menu-edit-cut =
+    .label = Kivágás
+    .accesskey = K
+menu-edit-copy =
+    .label = Másolás
+    .accesskey = M
+menu-edit-paste =
+    .label = Beillesztés
+    .accesskey = B
+menu-edit-delete =
+    .label = Törlés
+    .accesskey = s
+menu-edit-select-all =
+    .label = Minden kijelölése
+    .accesskey = i
 menu-edit-find-on =
     .label = Keresés ezen az oldalon…
     .accesskey = e
@@ -58,6 +91,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Nézet
+    .accesskey = N
+menu-view-toolbars-menu =
+    .label = Eszköztárak
+    .accesskey = E
+menu-view-customize-toolbar =
+    .label = Testreszabás…
+    .accesskey = T
 menu-view-sidebar =
     .label = Oldalsáv
     .accesskey = O
@@ -65,7 +107,12 @@ menu-view-bookmarks =
     .label = Könyvjelzők
 menu-view-history-button =
     .label = Előzmények
+menu-view-synced-tabs-sidebar =
+    .label = Szinkronizált lapok
 menu-view-full-zoom =
+    .label = Nagyítás
+    .accesskey = N
+menu-view-full-zoom-enlarge =
     .label = Nagyítás
     .accesskey = N
 menu-view-full-zoom-reduce =
@@ -86,6 +133,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Alap oldalstílus
     .accesskey = A
+menu-view-charset =
+    .label = Szövegkódolás
+    .accesskey = d
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -118,6 +168,8 @@ menu-history-show-all-history =
     .label = Minden előzmény megjelenítése
 menu-history-clear-recent-history =
     .label = Előzmények törlése…
+menu-history-synced-tabs =
+    .label = Szinkronizált lapok
 menu-history-restore-last-session =
     .label = Előző munkamenet helyreállítása
 menu-history-undo-menu =
@@ -136,15 +188,31 @@ menu-bookmarks-all-tabs =
     .label = Minden lap egy könyvjelzőbe…
 menu-bookmarks-toolbar =
     .label = Könyvjelző eszköztár
+menu-bookmarks-other =
+    .label = Más könyvjelzők
+menu-bookmarks-mobile =
+    .label = Mobil könyvjelzők
 
 ## Tools Menu
 
+menu-tools =
+    .label = Eszközök
+    .accesskey = E
 menu-tools-downloads =
     .label = Letöltések
     .accesskey = L
+menu-tools-addons =
+    .label = Kiegészítők
+    .accesskey = t
+menu-tools-sync-sign-in =
+    .label = Bejelentkezés a { -sync-brand-short-name }be…
+    .accesskey = J
 menu-tools-sync-now =
     .label = Szinkronizálás
     .accesskey = S
+menu-tools-sync-re-auth =
+    .label = Újracsatlakozás a { -sync-brand-short-name }hez…
+    .accesskey = r
 menu-tools-web-developer =
     .label = Webfejlesztő
     .accesskey = W
@@ -154,6 +222,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Oldal adatai
     .accesskey = O
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Beállítások
+           *[other] Beállítások
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] e
+           *[other] e
+        }
 
 ## Window Menu
 
@@ -167,6 +246,12 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Súgó
     .accesskey = S
+menu-help-product =
+    .label = { -brand-shorter-name } súgó
+    .accesskey = s
+menu-help-show-tour =
+    .label = { -brand-shorter-name } bemutató
+    .accesskey = u
 menu-help-keyboard-shortcuts =
     .label = Gyorsbillentyűk
     .accesskey = G
@@ -176,3 +261,15 @@ menu-help-troubleshooting-info =
 menu-help-feedback-page =
     .label = Visszajelzés beküldése…
     .accesskey = V
+menu-help-safe-mode-without-addons =
+    .label = Újraindítás letiltott kiegészítőkkel…
+    .accesskey = r
+menu-help-safe-mode-with-addons =
+    .label = Újraindítás engedélyezett kiegészítőkkel
+    .accesskey = r
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Félrevezető oldal jelentése…
+    .accesskey = F
