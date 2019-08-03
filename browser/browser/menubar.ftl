@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = ଫାଇଲ
+    .accesskey = F
 menu-file-new-tab =
     .label = ନୂତନ ଟ୍ୟାବ
     .accesskey = T
@@ -14,9 +17,17 @@ menu-file-new-window =
 menu-file-new-private-window =
     .label = ନୂତନ ବ୍ୟକ୍ତିଗତ ୱିଣ୍ଡୋ
     .accesskey = W
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = ଅବସ୍ଥାନ ଖୋଲନ୍ତୁ…
 menu-file-open-file =
     .label = ଫାଇଲ ଖୋଲନ୍ତୁ…
     .accesskey = O
+menu-file-close =
+    .label = ବନ୍ଦକରନ୍ତୁ
+    .accesskey = C
 menu-file-close-window =
     .label = ୱିଣ୍ଡୋ ବନ୍ଦ କରନ୍ତୁ
     .accesskey = d
@@ -41,6 +52,27 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = ସମ୍ପାଦନ କରନ୍ତୁ
+    .accesskey = E
+menu-edit-undo =
+    .label = ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ
+    .accesskey = U
+menu-edit-redo =
+    .label = ପୁଣି କରନ୍ତୁ
+    .accesskey = R
+menu-edit-cut =
+    .label = କାଟନ୍ତୁ
+    .accesskey = t
+menu-edit-paste =
+    .label = ଲଗାନ୍ତୁ
+    .accesskey = P
+menu-edit-delete =
+    .label = ଅପସାରଣ କରନ୍ତୁ
+    .accesskey = D
+menu-edit-select-all =
+    .label = ସମସ୍ତଙ୍କୁ ବାଛନ୍ତୁ
+    .accesskey = A
 menu-edit-find-on =
     .label = ଏହି ପୃଷ୍ଠାରେ ଖୋଜନ୍ତୁ…
     .accesskey = F
@@ -53,11 +85,22 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = ଦୃଶ୍ୟ
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = ସାଧନପଟି
+    .accesskey = T
+menu-view-customize-toolbar =
+    .label = ଇଚ୍ଛାରୂପଣ କରନ୍ତୁ…
+    .accesskey = C
 menu-view-sidebar =
     .label = ପାର୍ଶ୍ୱ ପଟି
     .accesskey = e
 menu-view-bookmarks =
     .label = ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ
+menu-view-history-button =
+    .label = ପୁରୁଣା ତଥ୍ୟ
 menu-view-full-zoom =
     .label = ସାନବଡ଼ କରନ୍ତୁ
     .accesskey = Z
@@ -76,6 +119,12 @@ menu-view-full-zoom-toggle =
 menu-view-page-style-menu =
     .label = ପୃଷ୍ଠା ଶୈଳୀ
     .accesskey = y
+menu-view-page-style-no-style =
+    .label = କୌଣସି ଶୈଳୀ ନାହିଁ
+    .accesskey = N
+menu-view-page-basic-style =
+    .label = ମୌଳିକ ପୃଷ୍ଠା ଶୈଳୀ
+    .accesskey = B
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -104,6 +153,12 @@ menu-view-bidi-switch-page-direction =
 menu-history =
     .label = ପୁରୁଣା ତଥ୍ୟ
     .accesskey = s
+menu-history-show-all-history =
+    .label = ସମସ୍ତ ପୁରୁଣା ତଥ୍ୟ ଦର୍ଶାନ୍ତୁ
+menu-history-clear-recent-history =
+    .label = ନିକଟତମ ପୁରୁଣା ତଥ୍ୟକୁ ସଫାକରନ୍ତୁ…
+menu-history-restore-last-session =
+    .label = ପୂର୍ବବର୍ତ୍ତୀ ଅଧିବେଶନକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ
 menu-history-undo-menu =
     .label = ନିକଟରେ ବନ୍ଦ ହୋଇଥିବା ଟ୍ୟାବଗୁଡ଼ିକ
 menu-history-undo-window-menu =
@@ -123,6 +178,9 @@ menu-bookmarks-toolbar =
 
 ## Tools Menu
 
+menu-tools =
+    .label = ସାଧନଗୁଡ଼ିକ
+    .accesskey = T
 menu-tools-downloads =
     .label = ଆହରଣଗୁଡ଼ିକ
     .accesskey = D
@@ -132,6 +190,9 @@ menu-tools-addons =
 menu-tools-sync-now =
     .label = ବର୍ତ୍ତମାନ ସନ୍ତୁଳନ କରନ୍ତୁ
     .accesskey = S
+menu-tools-sync-re-auth =
+    .label = { -sync-brand-short-name } ସହିତ ପୁଣି ସଂଯୋଗ କରନ୍ତୁ…
+    .accesskey = R
 menu-tools-web-developer =
     .label = ୱେବ ବିକାଶକ
     .accesskey = W
@@ -141,6 +202,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = ପୃଷ୍ଠା ସୂଚନା
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] ବିକଳ୍ପଗୁଡ଼ିକ
+           *[other] ପସନ୍ଦ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
 
 ## Window Menu
 
@@ -154,6 +226,12 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = ସହାୟତା
     .accesskey = H
+menu-help-product =
+    .label = { -brand-shorter-name } ସହଯୋଗ
+    .accesskey = H
+menu-help-show-tour =
+    .label = { -brand-shorter-name } ଜାଣିବା
+    .accesskey = o
 menu-help-keyboard-shortcuts =
     .label = କିବୋର୍ଡ ସକ୍ଷିପ୍ତପଥ (K)
     .accesskey = K
