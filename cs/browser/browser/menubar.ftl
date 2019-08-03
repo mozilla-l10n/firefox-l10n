@@ -193,6 +193,8 @@ menu-bookmarks-all-tabs =
     .label = Přidat všechny panely do záložek…
 menu-bookmarks-toolbar =
     .label = Lišta záložek
+menu-bookmarks-other =
+    .label = Ostatní záložky
 
 ## Tools Menu
 
