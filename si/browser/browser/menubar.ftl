@@ -11,6 +11,11 @@ menu-file-new-tab =
 menu-file-new-window =
     .label = නව කවුළුවක්
     .accesskey = N
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = ස්ථානයක් විවෘත කරන්න...
 menu-file-open-file =
     .label = ගොනුවක් විවෘත කරන්න...
     .accesskey = O
@@ -20,6 +25,9 @@ menu-file-close-window =
 menu-file-save-page =
     .label = පිටුව සුරකින්න...
     .accesskey = A
+menu-file-print-setup =
+    .label = පිටු සැකසුම්:
+    .accesskey = u
 menu-file-print-preview =
     .label = මුද්‍රණ පෙරදැක්ම
     .accesskey = v
@@ -35,6 +43,10 @@ menu-file-print =
 menu-view-sidebar =
     .label = පැති තීරුව
     .accesskey = e
+menu-view-bookmarks =
+    .label = පිටු සලකුණු
+menu-view-history-button =
+    .label = ඉතිහාසය
 menu-view-full-zoom-enlarge =
     .label = විශාල කරන්න
     .accesskey = I
@@ -42,6 +54,9 @@ menu-view-full-zoom-enlarge =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-exit-full-screen =
+    .label = පූර්ණ තිරයෙන් ඉවත්වන්න
+    .accesskey = F
 menu-view-full-screen =
     .label = පූර්ණ තිරය
     .accesskey = F
@@ -57,6 +72,12 @@ menu-view-show-all-tabs =
 menu-history =
     .label = අතීතය
     .accesskey = s
+menu-history-show-all-history =
+    .label = සම්පූර්ණ අතීතය පෙන්වන්න
+menu-history-clear-recent-history =
+    .label = මෑත ඉතිහාසය මකන්න...
+menu-history-restore-last-session =
+    .label = පෙර සැසිය ප්‍රතිස්ථාපනය කරන්න
 menu-history-undo-menu =
     .label = මෑතකදි වැසු ටැබ්
 menu-history-undo-window-menu =
@@ -91,6 +112,8 @@ menu-tools-page-info =
 
 ## Window Menu
 
+menu-window-menu =
+    .label = කවුළුව
 menu-window-bring-all-to-front =
     .label = සියල්ල ඉදිරියට ගෙන එන්න
 
@@ -99,9 +122,15 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = උදව්
     .accesskey = H
+menu-help-keyboard-shortcuts =
+    .label = යතුරු පුවරු කෙටිමං
+    .accesskey = K
 menu-help-troubleshooting-info =
     .label = දෝෂ සෙවීමේ තොරතුරු
     .accesskey = T
 menu-help-feedback-page =
     .label = ප්‍රතිචාරය යවන්න…
     .accesskey = S
+menu-help-safe-mode-without-addons =
+    .label = ඇඩෝන දුබල කර යළි-අරඹන්න…
+    .accesskey = R
