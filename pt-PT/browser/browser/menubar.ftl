@@ -21,6 +21,9 @@ menu-file-print-preview =
 
 ##
 
+menu-view-show-all-tabs =
+    .label = Mostrar todos os separadores
+    .accesskey = t
 
 ## History Menu
 
