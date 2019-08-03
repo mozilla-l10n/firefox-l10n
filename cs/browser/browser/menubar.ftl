@@ -20,6 +20,9 @@ menu-file-print-preview =
 
 ## View Menu
 
+menu-view-sidebar =
+    .label = Postranní lišta
+    .accesskey = P
 menu-view-page-style-menu =
     .label = Styl stránky
     .accesskey = y
@@ -39,6 +42,9 @@ menu-view-full-screen =
 
 ##
 
+menu-view-show-all-tabs =
+    .label = Zobrazit všechny panely
+    .accesskey = b
 
 ## History Menu
 
@@ -49,6 +55,8 @@ menu-history-show-all-history =
     .label = Zobrazit celou historii
 menu-history-undo-menu =
     .label = Naposledy zavřené panely
+menu-history-undo-window-menu =
+    .label = Naposledy zavřená okna
 
 ## Bookmarks Menu
 
