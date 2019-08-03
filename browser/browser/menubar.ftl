@@ -140,6 +140,9 @@ menu-tools-web-developer =
 menu-tools-page-source =
     .label = Cod Gwreiddiol y Dudalen
     .accesskey = o
+menu-tools-layout-debugger =
+    .label = Dadfygiwr Dyluniad
+    .accesskey = D
 
 ## Window Menu
 
