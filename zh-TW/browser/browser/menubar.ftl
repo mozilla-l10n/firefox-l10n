@@ -5,9 +5,15 @@
 
 ## File Menu
 
+menu-file =
+    .label = 檔案
+    .accesskey = F
 menu-file-new-tab =
     .label = 開新分頁
     .accesskey = T
+menu-file-new-container-tab =
+    .label = 新增容器分頁
+    .accesskey = B
 menu-file-new-window =
     .label = 開新視窗
     .accesskey = N
@@ -22,9 +28,15 @@ menu-file-open-location =
 menu-file-open-file =
     .label = 開啟檔案…
     .accesskey = O
+menu-file-close =
+    .label = 關閉
+    .accesskey = C
 menu-file-close-window =
     .label = 關閉視窗
     .accesskey = d
+menu-file-save-page =
+    .label = 另存新檔…
+    .accesskey = A
 menu-file-email-link =
     .label = 郵寄鏈結…
     .accesskey = E
@@ -37,9 +49,36 @@ menu-file-print-preview =
 menu-file-print =
     .label = 列印…
     .accesskey = P
+menu-file-go-offline =
+    .label = 離線模式
+    .accesskey = k
 
 ## Edit Menu
 
+menu-edit =
+    .label = 編輯
+    .accesskey = E
+menu-edit-undo =
+    .label = 復原
+    .accesskey = U
+menu-edit-redo =
+    .label = 取消「復原」
+    .accesskey = R
+menu-edit-cut =
+    .label = 剪下
+    .accesskey = t
+menu-edit-copy =
+    .label = 複製
+    .accesskey = C
+menu-edit-paste =
+    .label = 貼上
+    .accesskey = P
+menu-edit-delete =
+    .label = 刪除
+    .accesskey = D
+menu-edit-select-all =
+    .label = 全選
+    .accesskey = A
 menu-edit-find-on =
     .label = 尋找文字…
     .accesskey = F
@@ -52,6 +91,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = 檢視
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = 工具列
+    .accesskey = T
+menu-view-customize-toolbar =
+    .label = 自訂…
+    .accesskey = C
 menu-view-sidebar =
     .label = 側邊欄
     .accesskey = e
@@ -79,6 +127,12 @@ menu-view-full-zoom-toggle =
 menu-view-page-style-menu =
     .label = 頁面樣式
     .accesskey = y
+menu-view-page-style-no-style =
+    .label = 無樣式
+    .accesskey = n
+menu-view-page-basic-style =
+    .label = 基本頁面樣式
+    .accesskey = b
 menu-view-charset =
     .label = 文字編碼
     .accesskey = c
@@ -118,6 +172,8 @@ menu-history-synced-tabs =
     .label = 已同步的分頁
 menu-history-restore-last-session =
     .label = 回復先前的瀏覽狀態
+menu-history-hidden-tabs =
+    .label = 隱藏分頁
 menu-history-undo-menu =
     .label = 最近關閉的分頁
 menu-history-undo-window-menu =
@@ -136,9 +192,14 @@ menu-bookmarks-toolbar =
     .label = 書籤工具列
 menu-bookmarks-other =
     .label = 其他書籤
+menu-bookmarks-mobile =
+    .label = 行動書籤
 
 ## Tools Menu
 
+menu-tools =
+    .label = 工具
+    .accesskey = T
 menu-tools-downloads =
     .label = 下載
     .accesskey = D
@@ -163,6 +224,20 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = 頁面資訊
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] 選項
+           *[other] 偏好設定
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
+menu-tools-layout-debugger =
+    .label = 版面除錯器
+    .accesskey = L
 
 ## Window Menu
 
@@ -182,6 +257,9 @@ menu-help-product =
 menu-help-show-tour =
     .label = { -brand-shorter-name } 導覽
     .accesskey = o
+menu-help-keyboard-shortcuts =
+    .label = 快速鍵
+    .accesskey = K
 menu-help-troubleshooting-info =
     .label = 疑難排解資訊
     .accesskey = T
