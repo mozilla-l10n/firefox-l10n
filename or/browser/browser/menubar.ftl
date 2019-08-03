@@ -77,6 +77,9 @@ menu-view-full-screen =
 
 ##
 
+menu-view-bidi-switch-page-direction =
+    .label = ପୃଷ୍ଠା ନିର୍ଦ୍ଦେଶ ବଦଳାନ୍ତୁ
+    .accesskey = D
 
 ## History Menu
 
@@ -101,6 +104,9 @@ menu-bookmarks-toolbar =
 menu-tools-downloads =
     .label = ଆହରଣଗୁଡ଼ିକ
     .accesskey = D
+menu-tools-sync-now =
+    .label = ବର୍ତ୍ତମାନ ସନ୍ତୁଳନ କରନ୍ତୁ
+    .accesskey = S
 menu-tools-page-source =
     .label = ପୃଷ୍ଠା ଉତ୍ସ
     .accesskey = o
