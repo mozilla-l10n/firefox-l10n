@@ -5,12 +5,27 @@
 
 ## File Menu
 
+menu-file-open-file =
+    .label = Bula Faele…
+    .accesskey = B
+menu-file-save-page =
+    .label = Boloka Tsebe Jaaka…
+    .accesskey = J
+menu-file-print =
+    .label = Gatisa…
+    .accesskey = G
 
 ## Edit Menu
 
+menu-edit-find-again =
+    .label = Batla Gape
+    .accesskey = a
 
 ## View Menu
 
+menu-view-page-style-no-style =
+    .label = Ga gona Setaele
+    .accesskey = G
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -27,6 +42,9 @@
 
 ## Tools Menu
 
+menu-tools-downloads =
+    .label = Dikopololo
+    .accesskey = D
 menu-tools-page-source =
     .label = Motswedi wa Tsebe
     .accesskey = o
@@ -36,6 +54,8 @@ menu-tools-page-info =
 
 ## Window Menu
 
+menu-window-bring-all-to-front =
+    .label = Tlisa Tsotlhe fa Pele
 
 ## Help Menu
 
