@@ -19,6 +19,9 @@ menu-file-new-window =
 # but Firefox is still running.
 menu-file-open-location =
     .label = Arvi Indirisso…
+menu-file-close =
+    .label = Særa
+    .accesskey = S
 menu-file-close-window =
     .label = Særa o barcon
     .accesskey = S
@@ -37,6 +40,30 @@ menu-file-print =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Cangia
+    .accesskey = C
+menu-edit-undo =
+    .label = Anulla
+    .accesskey = A
+menu-edit-redo =
+    .label = Ripeti
+    .accesskey = R
+menu-edit-cut =
+    .label = Taggia
+    .accesskey = T
+menu-edit-copy =
+    .label = Còpia
+    .accesskey = C
+menu-edit-paste =
+    .label = Incòlla
+    .accesskey = I
+menu-edit-delete =
+    .label = Scancella
+    .accesskey = S
+menu-edit-select-all =
+    .label = Seleçionn-a tutto
+    .accesskey = a
 menu-edit-find-on =
     .label = Treuva…
     .accesskey = T
@@ -49,6 +76,12 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view-toolbars-menu =
+    .label = Bare
+    .accesskey = B
+menu-view-customize-toolbar =
+    .label = Personalizza…
+    .accesskey = P
 menu-view-bookmarks =
     .label = Segnalibbri
 menu-view-history-button =
@@ -127,6 +160,8 @@ menu-bookmarks-show-all =
     .label = Fanni vedde tutti i segnalibbri
 menu-bookmarks-all-tabs =
     .label = Azonzi tutti i feuggi a-i segnalibbri…
+menu-bookmarks-mobile =
+    .label = Segnalibbri mòbili
 
 ## Tools Menu
 
@@ -145,6 +180,20 @@ menu-tools-sync-re-auth =
 menu-tools-page-source =
     .label = Sorgente da Pagina
     .accesskey = o
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Inpostaçioin
+           *[other] Preferense
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] o
+           *[other] n
+        }
+menu-tools-layout-debugger =
+    .label = Aspeto do Debugger
+    .accesskey = A
 
 ## Window Menu
 
