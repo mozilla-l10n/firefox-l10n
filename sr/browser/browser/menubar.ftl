@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file-new-tab =
+    .label = Нови језичак
+    .accesskey = ј
 menu-file-new-window =
     .label = Нови прозор
     .accesskey = Н
@@ -14,6 +17,12 @@ menu-file-open-file =
 menu-file-close-window =
     .label = Затвори прозор
     .accesskey = З
+menu-file-print-setup =
+    .label = Подеси страницу…
+    .accesskey = у
+menu-file-go-offline =
+    .label = Рад ван мреже
+    .accesskey = м
 
 ## Edit Menu
 
@@ -30,6 +39,8 @@ menu-view-bookmarks =
     .label = Забелешке
 menu-view-history-button =
     .label = Историјат
+menu-view-synced-tabs-sidebar =
+    .label = Синхронизовани језичци
 menu-view-full-zoom =
     .label = Увећај
     .accesskey = У
@@ -45,16 +56,25 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Основни стил странице
     .accesskey = О
+menu-view-charset =
+    .label = Кодирање текста
+    .accesskey = К
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-full-screen =
+    .label = Користи цео екран
+    .accesskey = ц
 
 ##
 
 menu-view-show-all-tabs =
     .label = Прикажи све језичке
     .accesskey = П
+menu-view-bidi-switch-page-direction =
+    .label = Промени усмерење странице
+    .accesskey = с
 
 ## History Menu
 
@@ -63,6 +83,10 @@ menu-history =
     .accesskey = И
 menu-history-show-all-history =
     .label = Преглед целог историјата
+menu-history-clear-recent-history =
+    .label = Обриши историјат…
+menu-history-synced-tabs =
+    .label = Синхронизовани језичци
 menu-history-restore-last-session =
     .label = Обнови претходну сесију
 menu-history-undo-menu =
@@ -81,23 +105,57 @@ menu-bookmarks-all-tabs =
     .label = Забележи све језичке…
 menu-bookmarks-toolbar =
     .label = Трака са забелешкама
+menu-bookmarks-other =
+    .label = Остале забелешке
 
 ## Tools Menu
 
 menu-tools-addons =
     .label = Додаци
     .accesskey = Д
+menu-tools-sync-sign-in =
+    .label = Пријави се на { -sync-brand-short-name }…
+    .accesskey = П
+menu-tools-sync-re-auth =
+    .label = Поново се повежи на { -sync-brand-short-name }…
+    .accesskey = ж
+menu-tools-web-developer =
+    .label = Програмер
+    .accesskey = г
 
 ## Window Menu
 
 menu-window-menu =
     .label = Прозор
+menu-window-bring-all-to-front =
+    .label = Стави све напред
 
 ## Help Menu
 
 menu-help =
     .label = Помоћ
     .accesskey = П
+menu-help-product =
+    .label = Помоћ за { -brand-shorter-name }
+    .accesskey = П
+menu-help-show-tour =
+    .label = { -brand-shorter-name } водич
+    .accesskey = в
+menu-help-troubleshooting-info =
+    .label = Подаци о решавању проблема
+    .accesskey = р
 menu-help-feedback-page =
     .label = Пошаљи повратне информације
     .accesskey = ш
+menu-help-safe-mode-without-addons =
+    .label = Рестартуј са онемогућеним додацима
+    .accesskey = д
+menu-help-safe-mode-with-addons =
+    .label = Рестартуј са омогућеним додацима
+    .accesskey = д
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Пријави обманљив сајт…
+    .accesskey = о
