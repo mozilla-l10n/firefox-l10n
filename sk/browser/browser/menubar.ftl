@@ -8,9 +8,17 @@
 menu-file-new-tab =
     .label = Nová karta
     .accesskey = a
+menu-file-new-container-tab =
+    .label = Nová kontajnerová karta
+    .accesskey = k
 menu-file-new-private-window =
     .label = Nové okno v režime Súkromné prehliadanie
     .accesskey = k
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Otvoriť umiestnenie…
 menu-file-open-file =
     .label = Otvoriť súbor…
     .accesskey = s
@@ -44,6 +52,8 @@ menu-file-go-offline =
 menu-view-sidebar =
     .label = Bočný panel
     .accesskey = B
+menu-view-bookmarks =
+    .label = Záložky
 menu-view-full-zoom =
     .label = Lupa
     .accesskey = L
@@ -62,6 +72,9 @@ menu-view-full-zoom-toggle =
 menu-view-page-basic-style =
     .label = Základný štýl stránky
     .accesskey = Z
+menu-view-charset =
+    .label = Kódovanie textu
+    .accesskey = K
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -107,6 +120,9 @@ menu-bookmarks-toolbar =
 menu-tools-addons =
     .label = Doplnky
     .accesskey = D
+menu-tools-sync-sign-in =
+    .label = Prihlásiť sa do služby { -sync-brand-short-name }…
+    .accesskey = r
 menu-tools-sync-now =
     .label = Synchronizovať teraz
     .accesskey = N
@@ -140,4 +156,7 @@ menu-help-troubleshooting-info =
     .accesskey = n
 menu-help-safe-mode-without-addons =
     .label = Reštartovať a zakázať doplnky…
+    .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = Reštartovať a povoliť doplnky…
     .accesskey = R
