@@ -5,6 +5,15 @@
 
 ## File Menu
 
+menu-file-new-window =
+    .label = ಹೊಸ ಕಿಟಕಿ
+    .accesskey = N
+menu-file-new-private-window =
+    .label = ಹೊಸ ಖಾಸಗಿ ಕಿಟಕಿ
+    .accesskey = W
+menu-file-close-window =
+    .label = ಕಿಟಕಿಯನ್ನು ಮುಚ್ಚು
+    .accesskey = d
 menu-file-save-page =
     .label = ಈ ಪುಟವನ್ನು ಹೀಗೆ ಉಳಿಸು...
     .accesskey = A
@@ -14,6 +23,9 @@ menu-file-email-link =
 menu-file-print-preview =
     .label = ಮುದ್ರಣ ಮುನ್ನೋಟ
     .accesskey = v
+menu-file-go-offline =
+    .label = ಆಫ್‍ಲೈನ್‍ನಲ್ಲಿ ಕೆಲಸ ಮಾಡು
+    .accesskey = k
 
 ## Edit Menu
 
@@ -32,6 +44,8 @@ menu-edit-bidi-switch-text-direction =
 menu-view-sidebar =
     .label = ಬದಿಯ ಪಟ್ಟಿ
     .accesskey = e
+menu-view-bookmarks =
+    .label = ಪುಟಗುರುತುಗಳು
 menu-view-full-zoom =
     .label = ಗಾತ್ರ ಬದಲಿಸು
     .accesskey = Z
@@ -80,9 +94,20 @@ menu-history =
     .accesskey = s
 menu-history-undo-menu =
     .label = ಇತ್ತೀಚೆಗೆ ಮುಚ್ಚಲಾದ ಟ್ಯಾಬ್‌ಗಳು
+menu-history-undo-window-menu =
+    .label = ಇತ್ತೀಚಿಗೆ ಮುಚ್ಚಲಾದ ಕಿಟಕಿಗಳು
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = ಪುಟಗುರುತುಗಳು
+    .accesskey = B
+menu-bookmarks-show-all =
+    .label = ಎಲ್ಲಾ ಪುಟಗುರುತುಗಳನ್ನು ತೋರಿಸು
+menu-bookmarks-all-tabs =
+    .label = ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಪುಟಗುರುತು ಮಾಡು...
+menu-bookmarks-toolbar =
+    .label = ಪುಟಗುರುತುಗಳ ಉಪಕರಣ ಪಟ್ಟಿ
 
 ## Tools Menu
 
@@ -98,6 +123,9 @@ menu-tools-sync-now =
 menu-tools-web-developer =
     .label = ಜಾಲ ವಿಕಸನೆಗಾರ
     .accesskey = W
+menu-tools-page-source =
+    .label = ಪುಟದ ಮೂಲ
+    .accesskey = o
 menu-tools-page-info =
     .label = ಪುಟದ ಮಾಹಿತಿ
     .accesskey = I
