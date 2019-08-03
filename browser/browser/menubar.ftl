@@ -173,3 +173,6 @@ menu-help-keyboard-shortcuts =
 menu-help-troubleshooting-info =
     .label = Hibakeresési információ
     .accesskey = H
+menu-help-feedback-page =
+    .label = Visszajelzés beküldése…
+    .accesskey = V
