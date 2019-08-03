@@ -49,6 +49,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Spausdinti…
     .accesskey = S
+menu-file-import-from-another-browser =
+    .label = Importuoti iš kitos naršyklės…
+    .accesskey = I
 menu-file-go-offline =
     .label = Atsijungti nuo tinklo
     .accesskey = t
@@ -172,6 +175,8 @@ menu-history-synced-tabs =
     .label = Sinchronizuotos kortelės
 menu-history-restore-last-session =
     .label = Atkurti paskiausiąjį seansą
+menu-history-hidden-tabs =
+    .label = Paslėptos kortelės
 menu-history-undo-menu =
     .label = Paskiausiai užvertos kortelės
 menu-history-undo-window-menu =
@@ -184,6 +189,8 @@ menu-bookmarks-menu =
     .accesskey = A
 menu-bookmarks-show-all =
     .label = Rodyti visą adresyną
+menu-bookmarks-all-tabs =
+    .label = Visas korteles įtraukti į adresyną…
 menu-bookmarks-toolbar =
     .label = Adresyno juosta
 menu-bookmarks-other =
@@ -214,6 +221,9 @@ menu-tools-sync-re-auth =
 menu-tools-web-developer =
     .label = Saityno kūrėjams
     .accesskey = k
+menu-tools-page-source =
+    .label = Pirminis tekstas
+    .accesskey = e
 menu-tools-page-info =
     .label = Informacija apie tinklalapį
     .accesskey = I
@@ -228,6 +238,9 @@ menu-preferences =
             [windows] N
            *[other] N
         }
+menu-tools-layout-debugger =
+    .label = Išdėstymo derintuvė
+    .accesskey = d
 
 ## Window Menu
 
