@@ -8,6 +8,9 @@
 menu-file-new-container-tab =
     .label = Nouvel onglet contextuel
     .accesskey = c
+menu-file-new-private-window =
+    .label = Nouvelle fenêtre de navigation privée
+    .accesskey = N
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
 # but Firefox is still running.
@@ -22,6 +25,9 @@ menu-file-close-window =
 menu-file-save-page =
     .label = Enregistrer sous…
     .accesskey = E
+menu-file-email-link =
+    .label = Envoyer par courriel un lien vers la page…
+    .accesskey = c
 menu-file-print-setup =
     .label = Mise en page…
     .accesskey = M
@@ -151,6 +157,9 @@ menu-tools-sync-re-auth =
 menu-tools-web-developer =
     .label = Développement web
     .accesskey = W
+menu-tools-page-source =
+    .label = Code source de la page
+    .accesskey = C
 menu-tools-page-info =
     .label = Informations sur la page
     .accesskey = I
