@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Faele
+    .accesskey = F
 menu-file-new-tab =
     .label = Thepo e mpsha
     .accesskey = T
@@ -17,6 +20,9 @@ menu-file-new-private-window =
 menu-file-open-file =
     .label = Bula faele…
     .accesskey = B
+menu-file-close =
+    .label = Tswalela
+    .accesskey = T
 menu-file-close-window =
     .label = Tswalela lefasetere
     .accesskey = e
@@ -41,6 +47,27 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Lokiša
+    .accesskey = L
+menu-edit-undo =
+    .label = Dirolla
+    .accesskey = D
+menu-edit-redo =
+    .label = Dira gape
+    .accesskey = D
+menu-edit-cut =
+    .label = Ripa
+    .accesskey = a
+menu-edit-paste =
+    .label = Kgomaretša
+    .accesskey = K
+menu-edit-delete =
+    .label = Phumola
+    .accesskey = P
+menu-edit-select-all =
+    .label = Kgetha tšohle
+    .accesskey = t
 menu-edit-find-on =
     .label = Hwetša mo letlakaleng le…
     .accesskey = H
@@ -53,6 +80,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Lebelela
+    .accesskey = L
+menu-view-toolbars-menu =
+    .label = Dithulupaa
+    .accesskey = D
+menu-view-customize-toolbar =
+    .label = Tlwaelanya…
+    .accesskey = T
 menu-view-sidebar =
     .label = Para ya ka thoko
     .accesskey = r
@@ -129,6 +165,9 @@ menu-bookmarks-toolbar =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Dithulusi
+    .accesskey = D
 menu-tools-downloads =
     .label = Ditaollo
     .accesskey = D
@@ -147,6 +186,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Tshedimošo ya letlakala
     .accesskey = T
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Dikgetho
+           *[other] Dikganyogo
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] D
+           *[other] n
+        }
 
 ## Window Menu
 
