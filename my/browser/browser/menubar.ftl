@@ -190,6 +190,8 @@ menu-bookmarks-toolbar =
     .label = စာမှတ်များကိရိယာအတန်း
 menu-bookmarks-other =
     .label = အခြား မှတ်သားချက်များ
+menu-bookmarks-mobile =
+    .label = မိုဘိုင်းလ် စာအမှတ်များ
 
 ## Tools Menu
 
