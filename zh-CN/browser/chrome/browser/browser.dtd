@@ -146,6 +146,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.connectAnotherDevice2.label "连接其他设备…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!ENTITY fxa.menu.signin.label "登录&brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "开启 &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "账户">
 
