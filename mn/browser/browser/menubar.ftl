@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Файл
+    .accesskey = Ф
 menu-file-new-tab =
     .label = Хөтлөгч самбар
     .accesskey = Х
@@ -14,6 +17,9 @@ menu-file-new-window =
 menu-file-open-file =
     .label = Файл нээ…
     .accesskey = н
+menu-file-close =
+    .label = Хаа
+    .accesskey = Х
 menu-file-close-window =
     .label = Цонх хаа
     .accesskey = х
@@ -32,6 +38,24 @@ menu-file-print =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Засварла
+    .accesskey = З
+menu-edit-redo =
+    .label = Дахин үйлд
+    .accesskey = Д
+menu-edit-cut =
+    .label = Тасдаж сана
+    .accesskey = Т
+menu-edit-paste =
+    .label = Санамж буулга
+    .accesskey = С
+menu-edit-delete =
+    .label = Устга
+    .accesskey = У
+menu-edit-select-all =
+    .label = Бүгдийг сонго
+    .accesskey = Б
 menu-edit-find-on =
     .label = Энэ хуудсанд ол
     .accesskey = о
@@ -44,6 +68,12 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Харагдац
+    .accesskey = ц
+menu-view-toolbars-menu =
+    .label = Багажит самбарууд
+    .accesskey = Б
 menu-view-sidebar =
     .label = Хажуу самбарт
     .accesskey = Х
@@ -96,6 +126,9 @@ menu-bookmarks-toolbar =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Багаж
+    .accesskey = Б
 menu-tools-downloads =
     .label = Татаж авсан файлууд
     .accesskey = Т
