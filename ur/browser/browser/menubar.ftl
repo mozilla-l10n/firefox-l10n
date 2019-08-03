@@ -36,6 +36,8 @@ menu-history-undo-window-menu =
 
 ## Bookmarks Menu
 
+menu-bookmarks-all-tabs =
+    .label = تمام ٹیب نشان زد کریں…
 
 ## Tools Menu
 
