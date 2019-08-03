@@ -170,6 +170,12 @@ menu-help-keyboard-shortcuts =
 menu-help-troubleshooting-info =
     .label = Talɣut n usellek
     .accesskey = Γ
+menu-help-safe-mode-without-addons =
+    .label = Ales asenker s yizegrar irurmiden…
+    .accesskey = A
+menu-help-safe-mode-with-addons =
+    .label = Ales asenker s yizegrar urmiden
+    .accesskey = A
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.
