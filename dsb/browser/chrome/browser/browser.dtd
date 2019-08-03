@@ -138,13 +138,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.button.label "Nastajenja &syncBrand.shortName.label; wócyniś…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Pśizjawjony ako">
 <!ENTITY fxa.menu.manageAccount.label "Konto zastojaś…">
 <!ENTITY fxa.menu.syncSettings.label "Nastajenja &syncBrand.shortName.label;…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Drugi rěd zwězaś…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!ENTITY fxa.menu.signin.label "Pla &brandProductName; pśizjawiś">
+<!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; zmóžniś">
+<!ENTITY fxa.menu.account.label "Konto">
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.description "Nagrajśo a źělśo dataje z koděrowanim kóńc do kóńca plus wótkaz, kótaryž awtomatiski spadnjo.">
+<!ENTITY fxa.service.send.launch "&sendShortName; startowaś">
+<!ENTITY fxa.service.monitor.description "Glědajśo, lěc se waša e-mailowa adresa w datowej źěrje pokazujo a buźćo warnowany, jolic se w nowej źěrje pokazujo.">
+<!ENTITY fxa.service.monitor.launch "&monitorShortName; startowaś">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -188,6 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "Wšykne rejtarki ako cytańske znamjenja…">
+
 <!ENTITY showAllBookmarks2.label "Wše cytańske znamjenja pokazaś">
 <!ENTITY recentBookmarks.label "Tuchylu ako cytańske znamje składowane">
 <!ENTITY otherBookmarksCmd.label "Druge cytańske znamjenja">
@@ -310,6 +322,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Dataja">
 <!ENTITY fileMenu.accesskey       "D">
+
 <!ENTITY newUserContext.label             "Nowy kontejnerowy rejtark">
 <!ENTITY newUserContext.accesskey         "k">
 <!ENTITY manageUserContext.label          "Kontejnery zastojaś">
@@ -359,6 +372,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "S">
 <!ENTITY viewSidebarMenu.label "Bócnica">
 <!ENTITY viewSidebarMenu.accesskey "B">
+
 <!ENTITY viewCustomizeToolbar.label       "Pśiměriś…">
 <!ENTITY viewCustomizeToolbar.accesskey     "m">
 <!ENTITY overflowCustomizeToolbar.label       "Symbolowu rědku pśiměriś…">
@@ -372,6 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Pjerwjejšne pósejźenje wótnowiś">
 
 <!ENTITY showAllHistoryCmd2.label "Wšu historiju pokazaś">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Wšu historiju pokazaś">
@@ -592,9 +607,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Wótkaz e-mailowaś…">
 <!ENTITY emailPageCmd.accesskey       "e">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Bok składowaś ako…">
 <!ENTITY savePageCmd.accesskey        "B">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "s">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Wobłuk składowaś ako…">
@@ -699,22 +714,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Pówětšyś">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "w">
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Pómjeńšyś">
 <!ENTITY fullZoomReduceCmd.accesskey    "m">
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Slědk stajiś">
 <!ENTITY fullZoomResetCmd.accesskey     "l">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Jano tekst skalěrowaś">
 <!ENTITY fullZoomToggleCmd.accesskey    "J">
+
 <!ENTITY fullZoom.label                 "Skalěrowaś">
 <!ENTITY fullZoom.accesskey             "k">
 
@@ -732,6 +751,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Zacyniś">
+
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "Z">
 
@@ -888,6 +908,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Pla &syncBrand.shortName.label; pśizjawiś…">
 <!ENTITY syncSignIn.accesskey         "P">
+
 <!ENTITY syncSyncNowItem.label        "Něnto synchronizěrowaś">
 <!ENTITY syncSyncNowItemSyncing.label "Synchronizěrujo se…">
 <!ENTITY syncSyncNowItem.accesskey    "N">

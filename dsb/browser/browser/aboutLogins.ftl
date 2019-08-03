@@ -49,6 +49,10 @@ login-list-item-subtitle-missing-username = (žedno wužywarske mě)
 ## Introduction screen
 
 login-intro-heading = Pytaśo swóje skłaźone pśizjawjenja? Konfigurěrujśo { -sync-brand-short-name }.
+login-intro-description = Jolic sćo składł swóje pśizjawjenja { -brand-product-name } na drugem rěźe, tak móžośo je sem pśinjasć:
+login-intro-instruction-fxa = Załožćo abo pśizjawśo se pla swójogo { -fxaccount-brand-name } na rěźe, źož waše pśizjawjenja su skłaźone
+login-intro-instruction-fxa-settings = Pśeznańśo se, až sćo wubrał kontrolny kašćik pśizjawjenjow w nastajenjach { -sync-brand-short-name }
+login-intro-instruction-faq = Cytajśo { -lockwise-brand-short-name } <a data-l10n-name="faq">ceste pšašanja</a> za wěcej pomocy
 
 ## Login
 
@@ -111,4 +115,5 @@ confirm-discard-changes-dialog-confirm-button = Zachyśiś
 
 ## Breach Alert notification
 
+breach-alert-text = Gronidła su se z toś togo websedła roznjasli abo kšadnuli, wót togo, až sćo zaktualizěrował swóje pśizjawjeńske daty slědny raz. Změńśo swójo gronidło, aby swójo konto šćitał.
 breach-alert-link = Zgóńśo wěcej wó toś tej źěrje
