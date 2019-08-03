@@ -49,6 +49,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Nari' ña du'ua
     .accesskey = P
+menu-file-import-from-another-browser =
+    .label = Ganukuo' asìj riña a'ngô navegador…
+    .accesskey = I
 menu-file-go-offline =
     .label = Gi'iaj sun nùnj si nitaj koneksiôn hua
     .accesskey = k
@@ -133,6 +136,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Si estilo pagina na
     .accesskey = b
+menu-view-charset =
+    .label = Si kodifikasiôn texto:
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
