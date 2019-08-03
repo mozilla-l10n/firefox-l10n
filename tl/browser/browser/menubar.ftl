@@ -8,24 +8,56 @@
 menu-file-new-tab =
     .label = Bagong Tab
     .accesskey = T
+menu-file-new-container-tab =
+    .label = Bagong Lalagyanan ng Tab
+    .accesskey = B
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Buksan ang Lokasyon…
 menu-file-close-window =
     .label = Isara ang Window
     .accesskey = d
 
 ## Edit Menu
 
+menu-edit-find-again =
+    .label = Ipahanap Ulit
+    .accesskey = g
 menu-edit-bidi-switch-text-direction =
     .label = Switch Text Direction
     .accesskey = w
 
 ## View Menu
 
+menu-view-bookmarks =
+    .label = Mga bookmark
+menu-view-history-button =
+    .label = Kasaysayan
+menu-view-synced-tabs-sidebar =
+    .label = Mga Synced na Tab
+menu-view-full-zoom =
+    .label = I-zoom
+    .accesskey = Z
+menu-view-full-zoom-enlarge =
+    .label = Palapitin
+    .accesskey = I
+menu-view-full-zoom-reduce =
+    .label = Palayuin
+    .accesskey = O
+menu-view-full-zoom-toggle =
+    .label = I-zoom lamang ang Teksto
+    .accesskey = T
 menu-view-page-style-menu =
     .label = Style ng Page
     .accesskey = y
 menu-view-page-style-no-style =
     .label = Walang Style
     .accesskey = n
+menu-view-page-basic-style =
+    .label = Basic na Estilo ng Pahina
+    .accesskey = b
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -51,6 +83,16 @@ menu-view-bidi-switch-page-direction =
 
 ## History Menu
 
+menu-history-show-all-history =
+    .label = Ipakita ang Lahat ng Kasaysayan
+menu-history-clear-recent-history =
+    .label = Burahin ang Kasaysayan…
+menu-history-synced-tabs =
+    .label = Mga Synced na Tab
+menu-history-restore-last-session =
+    .label = Ibalik ang Nakaraang Session
+menu-history-undo-menu =
+    .label = Mga Nasarang Tabs
 menu-history-undo-window-menu =
     .label = Bagong Sarang mga Window
 
@@ -62,6 +104,10 @@ menu-bookmarks-all-tabs =
     .label = I-bookmark ang lahat ng mga tab…
 menu-bookmarks-toolbar =
     .label = Tingnan ang Bookmarks Toolbar
+menu-bookmarks-other =
+    .label = Iba pang Bookmarks
+menu-bookmarks-mobile =
+    .label = Mga Mobile bookmark{ " " }
 
 ## Tools Menu
 
@@ -71,6 +117,18 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Mga Add-ons
     .accesskey = A
+menu-tools-sync-sign-in =
+    .label = Mag sign-in sa { -sync-brand-short-name }…
+    .accesskey = Y
+menu-tools-sync-now =
+    .label = I-sync Ngayon
+    .accesskey = S
+menu-tools-sync-re-auth =
+    .label = Kumonekta ulit sa { -sync-brand-short-name }…
+    .accesskey = R
+menu-tools-web-developer =
+    .label = Web Developer
+    .accesskey = W
 menu-tools-page-source =
     .label = Source code ng web page
     .accesskey = o
@@ -111,3 +169,9 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Restart with Add-ons Enabled
     .accesskey = R
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Mapanlinlang ulat na site...
+    .accesskey = D
