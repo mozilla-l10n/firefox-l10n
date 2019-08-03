@@ -5,24 +5,47 @@
 
 ## File Menu
 
+menu-file =
+    .label = Dosya
+    .accesskey = D
 menu-file-new-tab =
     .label = Yeni sekme
     .accesskey = s
+menu-file-new-container-tab =
+    .label = Yeni kapsayıcı sekme
+    .accesskey = k
 menu-file-new-window =
     .label = Yeni pencere
     .accesskey = Y
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Konumu aç…
 menu-file-open-file =
     .label = Dosya aç…
     .accesskey = a
 menu-file-close =
     .label = Kapat
     .accesskey = K
+menu-file-close-window =
+    .label = Pencereyi kapat
+    .accesskey = P
+menu-file-save-page =
+    .label = Sayfayı farklı kaydet…
+    .accesskey = f
 menu-file-email-link =
     .label = Bağlantıyı e-postayla gönder…
     .accesskey = e
+menu-file-print-preview =
+    .label = Yazdırma ön izleme
+    .accesskey = ö
 menu-file-import-from-another-browser =
     .label = Başka bir tarayıcıdan içe aktar…
     .accesskey = B
+menu-file-go-offline =
+    .label = Çevrimdışı çalış
+    .accesskey = d
 
 ## Edit Menu
 
@@ -68,6 +91,9 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Araç çubukları
     .accesskey = A
+menu-view-customize-toolbar =
+    .label = Özelleştir…
+    .accesskey = Ö
 menu-view-sidebar =
     .label = Kenar çubuğu
     .accesskey = K
@@ -75,6 +101,8 @@ menu-view-bookmarks =
     .label = Yer imleri
 menu-view-history-button =
     .label = Geçmiş
+menu-view-synced-tabs-sidebar =
+    .label = Eşitlenmiş sekmeler
 menu-view-full-zoom =
     .label = Yakınlaştırma
     .accesskey = Y
@@ -87,12 +115,30 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = Sıfırla
     .accesskey = S
+menu-view-full-zoom-toggle =
+    .label = Sadece metni yakınlaştır
+    .accesskey = m
+menu-view-page-style-menu =
+    .label = Sayfa stili
+    .accesskey = S
+menu-view-page-style-no-style =
+    .label = Stil yok
+    .accesskey = S
+menu-view-page-basic-style =
+    .label = Temel sayfa stili
+    .accesskey = T
+menu-view-charset =
+    .label = Metin kodlaması
+    .accesskey = k
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
 menu-view-enter-full-screen =
     .label = Tam ekrana geç
+    .accesskey = T
+menu-view-exit-full-screen =
+    .label = Tam ekrandan çık
     .accesskey = T
 menu-view-full-screen =
     .label = Tam ekran
@@ -116,17 +162,30 @@ menu-history-show-all-history =
     .label = Tüm geçmişi göster
 menu-history-clear-recent-history =
     .label = Yakın geçmişi temizle…
+menu-history-synced-tabs =
+    .label = Eşitlenmiş sekmeler
 menu-history-restore-last-session =
     .label = Önceki oturumu geri yükle
 menu-history-hidden-tabs =
     .label = Gizli sekmeler
+menu-history-undo-menu =
+    .label = Son kapatılan sekmeler
+menu-history-undo-window-menu =
+    .label = Son kapatılan pencereler
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = Yer imleri
+    .accesskey = Y
 menu-bookmarks-show-all =
     .label = Tüm yer imlerini göster
 menu-bookmarks-all-tabs =
     .label = Tüm sekmeleri yer imlerine ekle…
+menu-bookmarks-toolbar =
+    .label = Yer imleri araç çubuğu
+menu-bookmarks-other =
+    .label = Diğer yer imleri
 menu-bookmarks-mobile =
     .label = Mobil yer imleri
 
@@ -135,12 +194,24 @@ menu-bookmarks-mobile =
 menu-tools =
     .label = Araçlar
     .accesskey = A
+menu-tools-downloads =
+    .label = İndirilenler
+    .accesskey = d
 menu-tools-addons =
     .label = Eklentiler
     .accesskey = E
+menu-tools-sync-sign-in =
+    .label = { -sync-brand-short-name }’e giriş yap…
+    .accesskey = Y
 menu-tools-sync-now =
     .label = Şimdi eşitle
     .accesskey = m
+menu-tools-sync-re-auth =
+    .label = { -sync-brand-short-name }’e tekrar bağlan…
+    .accesskey = R
+menu-tools-web-developer =
+    .label = Web geliştirici
+    .accesskey = W
 menu-tools-page-source =
     .label = Sayfa kaynağı
     .accesskey = a
@@ -171,9 +242,30 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Yardım
     .accesskey = Y
+menu-help-product =
+    .label = { -brand-shorter-name } yardımı
+    .accesskey = m
+menu-help-show-tour =
+    .label = { -brand-shorter-name } turu
+    .accesskey = u
 menu-help-keyboard-shortcuts =
     .label = Klavye kısayolları
     .accesskey = K
+menu-help-troubleshooting-info =
+    .label = Sorun giderme bilgileri
+    .accesskey = b
 menu-help-feedback-page =
     .label = Geri bildirim gönder…
     .accesskey = G
+menu-help-safe-mode-without-addons =
+    .label = Eklentileri devre dışı bırakıp başlat…
+    .accesskey = E
+menu-help-safe-mode-with-addons =
+    .label = Eklentileri etkinleştirip yeniden başlat
+    .accesskey = E
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Aldatıcı siteyi ihbar et…
+    .accesskey = A
