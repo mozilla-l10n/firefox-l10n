@@ -8,6 +8,9 @@
 menu-file-new-tab =
     .label = 開新分頁
     .accesskey = T
+menu-file-new-window =
+    .label = 開新視窗
+    .accesskey = N
 menu-file-open-file =
     .label = 開啟檔案…
     .accesskey = O
@@ -26,18 +29,34 @@ menu-file-print =
 
 ## Edit Menu
 
+menu-edit-find-on =
+    .label = 尋找文字…
+    .accesskey = F
+menu-edit-find-again =
+    .label = 找下一個
+    .accesskey = g
+menu-edit-bidi-switch-text-direction =
+    .label = 改變文字方向
+    .accesskey = w
 
 ## View Menu
 
 menu-view-sidebar =
     .label = 側邊欄
     .accesskey = e
+menu-view-bookmarks =
+    .label = 書籤
+menu-view-history-button =
+    .label = 歷史
 menu-view-full-zoom =
     .label = 縮放
     .accesskey = Z
 menu-view-full-zoom-enlarge =
     .label = 放大
     .accesskey = I
+menu-view-full-zoom-reduce =
+    .label = 縮小
+    .accesskey = o
 menu-view-full-zoom-reset =
     .label = 重設
     .accesskey = R
@@ -57,6 +76,9 @@ menu-view-full-screen =
 
 ##
 
+menu-view-show-all-tabs =
+    .label = 顯示所有分頁
+    .accesskey = A
 
 ## History Menu
 
@@ -67,6 +89,8 @@ menu-history-show-all-history =
     .label = 顯示所有瀏覽記錄
 menu-history-undo-menu =
     .label = 最近關閉的分頁
+menu-history-undo-window-menu =
+    .label = 最近關閉的視窗
 
 ## Bookmarks Menu
 
@@ -78,6 +102,9 @@ menu-bookmarks-toolbar =
 
 ## Tools Menu
 
+menu-tools-downloads =
+    .label = 下載
+    .accesskey = D
 menu-tools-addons =
     .label = 附加元件
     .accesskey = A
@@ -90,6 +117,16 @@ menu-tools-page-info =
 
 ## Window Menu
 
+menu-window-menu =
+    .label = 視窗
+menu-window-bring-all-to-front =
+    .label = 將此程式所有視窗移至最前
 
 ## Help Menu
 
+menu-help =
+    .label = 說明
+    .accesskey = H
+menu-help-troubleshooting-info =
+    .label = 疑難排解資訊
+    .accesskey = T
