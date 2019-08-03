@@ -21,8 +21,8 @@ menu-menuitem-preferences =
     }
 menu-menuitem-feedback = 发送反馈
 menu-menuitem-faq = 常见问题
-menu-menuitem-download-android = Lockwise（Android 版）
-menu-menuitem-download-iphone = Lockwise（iPhone / iPad 版）
+menu-menuitem-android-app = { -lockwise-brand-short-name }（Android 版）
+menu-menuitem-iphone-app = { -lockwise-brand-short-name }（iPhone / iPad 版）
 
 ## Login List
 
@@ -36,9 +36,13 @@ login-list-sort-label-text = 排序依照：
 login-list-name-option = 名称（A-Z）
 login-list-last-changed-option = 最后修改
 login-list-last-used-option = 上次使用
+login-list-intro-title = 未找到登录信息
 login-list-item-title-new-login = 新建登录信息
 login-list-item-subtitle-new-login = 输入您的登录凭据
 login-list-item-subtitle-missing-username = （无用户名）
+
+## Introduction screen
+
 
 ## Login
 
@@ -80,9 +84,17 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = 取消
 confirmation-dialog-dismiss-button =
     .title = 取消
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] 前往 { -sync-brand-short-name }选项
+           *[other] 前往 { -sync-brand-short-name }首选项
+        }
+    .accesskey = V
 confirm-delete-dialog-title = 删除此登录信息？
 confirm-delete-dialog-message = 此操作不可撤销。
 confirm-delete-dialog-confirm-button = 删除
 
 ## Breach Alert notification
 
+breach-alert-link = 详细了解此事件
