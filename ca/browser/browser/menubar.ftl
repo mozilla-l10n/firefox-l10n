@@ -5,6 +5,20 @@
 
 ## File Menu
 
+menu-file-new-tab =
+    .label = Pestanya nova
+    .accesskey = t
+menu-file-new-window =
+    .label = Finestra nova
+    .accesskey = n
+menu-file-new-private-window =
+    .label = Finestra privada nova
+    .accesskey = i
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Obre la ubicació…
 menu-file-open-file =
     .label = Obre un fitxer…
     .accesskey = O
@@ -137,6 +151,9 @@ menu-tools-addons =
 menu-tools-sync-now =
     .label = Sincronitza ara
     .accesskey = S
+menu-tools-sync-re-auth =
+    .label = Torna a connectar al { -sync-brand-short-name }…
+    .accesskey = r
 menu-tools-web-developer =
     .label = Desenvolupador web
     .accesskey = w
@@ -159,6 +176,9 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Ajuda
     .accesskey = j
+menu-help-troubleshooting-info =
+    .label = Informació de resolució de problemes
+    .accesskey = r
 menu-help-safe-mode-without-addons =
     .label = Reinicia amb els complements inhabilitats…
     .accesskey = R
