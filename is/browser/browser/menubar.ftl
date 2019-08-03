@@ -233,6 +233,9 @@ menu-preferences =
             [windows] V
            *[other] V
         }
+menu-tools-layout-debugger =
+    .label = Útlits aflúsari
+    .accesskey = L
 
 ## Window Menu
 
