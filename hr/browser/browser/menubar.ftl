@@ -175,6 +175,8 @@ menu-history-synced-tabs =
     .label = Sinkronizirane kartice
 menu-history-restore-last-session =
     .label = Vrati prijašnju sesiju
+menu-history-hidden-tabs =
+    .label = Skrivene kartice
 menu-history-undo-menu =
     .label = Nedavno zatvorene kartice
 menu-history-undo-window-menu =
@@ -236,6 +238,9 @@ menu-preferences =
             [windows] M
            *[other] P
         }
+menu-tools-layout-debugger =
+    .label = Debugger rasporeda
+    .accesskey = r
 
 ## Window Menu
 
