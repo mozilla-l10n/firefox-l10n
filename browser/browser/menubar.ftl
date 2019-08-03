@@ -87,6 +87,12 @@ menu-view-charset =
 menu-view-enter-full-screen =
     .label = Celoten zaslon
     .accesskey = C
+menu-view-exit-full-screen =
+    .label = Izhod iz celozaslonskega načina
+    .accesskey = C
+menu-view-full-screen =
+    .label = Celoten zaslon
+    .accesskey = C
 
 ##
 
@@ -119,6 +125,8 @@ menu-bookmarks-all-tabs =
     .label = Dodaj vse zavihke med zaznamke …
 menu-bookmarks-toolbar =
     .label = Vrstica zaznamkov
+menu-bookmarks-other =
+    .label = Drugi zaznamki
 
 ## Tools Menu
 
@@ -134,6 +142,9 @@ menu-tools-web-developer =
 menu-tools-page-info =
     .label = Podatki o strani
     .accesskey = I
+menu-tools-layout-debugger =
+    .label = Razhroščevalnik postavitve
+    .accesskey = P
 
 ## Window Menu
 
