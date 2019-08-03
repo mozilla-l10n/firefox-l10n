@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = ফাইল
+    .accesskey = F
 menu-file-new-tab =
     .label = নতুন ট্যাব
     .accesskey = T
@@ -25,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = ফাইল খুলুন...
     .accesskey = O
+menu-file-close =
+    .label = বন্ধ করুন
+    .accesskey = C
 menu-file-close-window =
     .label = উইন্ডো বন্ধ করুন
     .accesskey = d
@@ -49,6 +55,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = সম্পাদনা
+    .accesskey = E
+menu-edit-undo =
+    .label = পূর্বাবস্থা
+    .accesskey = U
+menu-edit-redo =
+    .label = পুনরাবৃত্তি
+    .accesskey = R
+menu-edit-cut =
+    .label = কাট করুন
+    .accesskey = t
+menu-edit-copy =
+    .label = কপি করুন
+    .accesskey = C
+menu-edit-paste =
+    .label = পেস্ট করুন
+    .accesskey = P
+menu-edit-delete =
+    .label = মুছে ফেলুন
+    .accesskey = D
+menu-edit-select-all =
+    .label = সমগ্র নির্বাচন করুন
+    .accesskey = A
 menu-edit-find-on =
     .label = বর্তমান পৃষ্ঠায় অনুসন্ধান
     .accesskey = F
@@ -61,6 +91,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = প্রদর্শন
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = টুলবার
+    .accesskey = T
+menu-view-customize-toolbar =
+    .label = পছন্দ অনুযায়ী নির্বাচন...
+    .accesskey = C
 menu-view-sidebar =
     .label = সাইডবার
     .accesskey = স
@@ -151,9 +190,14 @@ menu-bookmarks-toolbar =
     .label = বুকমার্কের টুলবার
 menu-bookmarks-other =
     .label = অন্যান্য বুকমার্ক
+menu-bookmarks-mobile =
+    .label = মোবাইলের বুকমার্কগুলি
 
 ## Tools Menu
 
+menu-tools =
+    .label = সরঞ্জাম
+    .accesskey = T
 menu-tools-downloads =
     .label = ডাউনলোড
     .accesskey = D
@@ -178,6 +222,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = পৃষ্ঠা সংক্রান্ত তথ্য
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] বিকল্প
+           *[other] বিবিধ বৈশিষ্ট্য
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] ব
+        }
 
 ## Window Menu
 
