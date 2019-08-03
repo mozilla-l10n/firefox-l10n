@@ -5,21 +5,38 @@
 
 ## File Menu
 
+menu-file =
+    .label = Ֆայլ
+    .accesskey = Ֆ
 menu-file-new-tab =
     .label = Նոր Ներդիր
     .accesskey = Ն
+menu-file-new-container-tab =
+    .label = Նոր Պարունակ ներդիր
+    .accesskey = դ
 menu-file-new-window =
     .label = Նոր Պատուհան
     .accesskey = Ն
 menu-file-new-private-window =
     .label = Սկսել Գաղտնի դիտարկում
     .accesskey = Գ
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Բացել Հասցե…
 menu-file-open-file =
     .label = Բացել Ֆայլ…
     .accesskey = Բ
+menu-file-close =
+    .label = Փակել
+    .accesskey = Փ
 menu-file-close-window =
     .label = Փակել Պատուհանը
     .accesskey = տ
+menu-file-save-page =
+    .label = Պահպանել Էջը որպես…
+    .accesskey = ո
 menu-file-email-link =
     .label = Հղումը ուղարկել էլ. փոստով...
     .accesskey = Հ
@@ -38,17 +55,60 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Խմբագրել
+    .accesskey = Խ
+menu-edit-undo =
+    .label = Հետարկել{ " " }
+    .accesskey = Հ
+menu-edit-redo =
+    .label = Կրկնել
+    .accesskey = Կ
+menu-edit-cut =
+    .label = Կտրել
+    .accesskey = ր
+menu-edit-copy =
+    .label = Պատճենել
+    .accesskey = Պ
+menu-edit-paste =
+    .label = Տեղադրել
+    .accesskey = Տ
+menu-edit-delete =
+    .label = Ջնջել
+    .accesskey = Ջ
+menu-edit-select-all =
+    .label = Նշել բոլորը
+    .accesskey = բ
+menu-edit-find-on =
+    .label = Որոնում էջում…
+    .accesskey = Ո
+menu-edit-find-again =
+    .label = Կրկին Որոնել
+    .accesskey = Ո
 menu-edit-bidi-switch-text-direction =
     .label = Փոխել Տեքստի Ուղղությունը
     .accesskey = ո
 
 ## View Menu
 
+menu-view =
+    .label = Տեսք
+    .accesskey = Տ
+menu-view-toolbars-menu =
+    .label = Գործիքագոտիներ
+    .accesskey = Գ
+menu-view-customize-toolbar =
+    .label = Հարմարեցնել…
+    .accesskey = Հ
 menu-view-sidebar =
     .label = Կողային վահանակ
     .accesskey = վ
 menu-view-bookmarks =
     .label = Էջանիշեր
+menu-view-history-button =
+    .label = Պատմություն
+menu-view-synced-tabs-sidebar =
+    .label = Համաժամեցված ներդիրներ
 menu-view-full-zoom =
     .label = Մասշտաբը{ " " }
     .accesskey = Մ
@@ -58,6 +118,9 @@ menu-view-full-zoom-enlarge =
 menu-view-full-zoom-reduce =
     .label = Փոքրացնել
     .accesskey = ա
+menu-view-full-zoom-reset =
+    .label = Վերակայել
+    .accesskey = Վ
 menu-view-full-zoom-toggle =
     .label = Խոշորացնել Միայն Տեքստը
     .accesskey = Մ
@@ -70,6 +133,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Օգտագործել Էջի Հիմնական Ոճը
     .accesskey = Օ
+menu-view-charset =
+    .label = Տեքստի կոդավորումը
+    .accesskey = դ
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -98,6 +164,14 @@ menu-view-bidi-switch-page-direction =
 menu-history =
     .label = Պատմություն
     .accesskey = տ
+menu-history-show-all-history =
+    .label = Ցուցադրել ամբողջ պատմությունը
+menu-history-clear-recent-history =
+    .label = Մաքրել Վերջին Պատմությունը...
+menu-history-synced-tabs =
+    .label = Համաժամեցված ներդիրներ
+menu-history-restore-last-session =
+    .label = Վերականգնել նախորդ աշխատաշրջանը
 menu-history-undo-menu =
     .label = Վերջին փակված ներդիրները
 menu-history-undo-window-menu =
@@ -114,15 +188,31 @@ menu-bookmarks-all-tabs =
     .label = Էջանշել Բոլոր Ներդիրները…
 menu-bookmarks-toolbar =
     .label = Էջանիշերի Վահանակ
+menu-bookmarks-other =
+    .label = Այլ Էջանիշեր
+menu-bookmarks-mobile =
+    .label = Բջջային էջանիշեր
 
 ## Tools Menu
 
+menu-tools =
+    .label = Գործիքներ
+    .accesskey = Գ
+menu-tools-downloads =
+    .label = Ներբեռնումներ
+    .accesskey = Ն
 menu-tools-addons =
     .label = Հավելումներ
     .accesskey = Հ
+menu-tools-sync-sign-in =
+    .label = Մուտք գործել { -sync-brand-short-name }…
+    .accesskey = Y
 menu-tools-sync-now =
     .label = Սինք
     .accesskey = Ս
+menu-tools-sync-re-auth =
+    .label = Վերակապակցվել { -sync-brand-short-name }ին
+    .accesskey = Վ
 menu-tools-web-developer =
     .label = Վեբ ծրագրավորող
     .accesskey = Վ
@@ -132,6 +222,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Էջի Մասին Տվյալներ
     .accesskey = վ
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Կարգավորումներ
+           *[other] Նախըտրանքներ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Կ
+           *[other] ր
+        }
 
 ## Window Menu
 
@@ -145,9 +246,30 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Օգնություն
     .accesskey = Օ
+menu-help-product =
+    .label = { -brand-shorter-name }-ի Օգնությունը
+    .accesskey = Օ
+menu-help-show-tour =
+    .label = Շրջայց { -brand-shorter-name }-ի հետ
+    .accesskey = ջ
 menu-help-keyboard-shortcuts =
     .label = Ստեղնաշարի պիտակներ
     .accesskey = Ս
+menu-help-troubleshooting-info =
+    .label = Անսարքության տեղեկատվություն
+    .accesskey = Ա
 menu-help-feedback-page =
     .label = Ուղարկել արձագանք…
     .accesskey = Ո
+menu-help-safe-mode-without-addons =
+    .label = Վերամեկնարկել՝ անջատելով հավելումները…
+    .accesskey = Վ
+menu-help-safe-mode-with-addons =
+    .label = Վերամեկնարկել՝ միացնելով հավելումները
+    .accesskey = Վ
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Զեկուցել խաբուսիկ կայքի մասին...
+    .accesskey = խ
