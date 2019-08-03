@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Berkas
+    .accesskey = B
 menu-file-new-tab =
     .label = Tab Baru
     .accesskey = T
@@ -25,12 +28,18 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Buka Berkas…
     .accesskey = B
+menu-file-close =
+    .label = Tutup
+    .accesskey = u
 menu-file-close-window =
     .label = Tutup Jendela
     .accesskey = d
 menu-file-save-page =
     .label = Simpan Laman dengan Nama…
     .accesskey = S
+menu-file-email-link =
+    .label = Surelkan Tautan…
+    .accesskey = K
 menu-file-print-setup =
     .label = Tata Laman…
     .accesskey = n
@@ -46,6 +55,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Edit
+    .accesskey = E
+menu-edit-undo =
+    .label = Urungkan
+    .accesskey = g
+menu-edit-redo =
+    .label = Ulangi
+    .accesskey = U
+menu-edit-cut =
+    .label = Potong
+    .accesskey = t
+menu-edit-copy =
+    .label = Salin
+    .accesskey = S
+menu-edit-paste =
+    .label = Tempel
+    .accesskey = p
+menu-edit-delete =
+    .label = Hapus
+    .accesskey = H
+menu-edit-select-all =
+    .label = Pilih Semua
+    .accesskey = a
 menu-edit-find-on =
     .label = Cari di Laman Ini…
     .accesskey = C
@@ -58,6 +91,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Tampilan
+    .accesskey = T
+menu-view-toolbars-menu =
+    .label = Bilah Alat
+    .accesskey = t
+menu-view-customize-toolbar =
+    .label = Ubahsuai…
+    .accesskey = U
 menu-view-sidebar =
     .label = Bilah Samping
     .accesskey = m
@@ -153,6 +195,9 @@ menu-bookmarks-other =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Alat
+    .accesskey = A
 menu-tools-downloads =
     .label = Unduhan
     .accesskey = U
@@ -177,6 +222,20 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Informasi Laman
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Pengaturan…
+           *[other] Pengaturan
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] g
+           *[other] g
+        }
+menu-tools-layout-debugger =
+    .label = Pengawukutu Tata Letak
+    .accesskey = T
 
 ## Window Menu
 
