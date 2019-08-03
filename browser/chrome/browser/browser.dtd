@@ -138,13 +138,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.button.label "Öppna &syncBrand.shortName.label; inställningar…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Inloggad som">
 <!ENTITY fxa.menu.manageAccount.label "Hantera konto…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; inställningar…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Ansluta en annan enhet…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!ENTITY fxa.menu.signin.label "Logga in på &brandProductName;">
+<!ENTITY fxa.menu.turnOnSync.label "Slå på &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.account.label "Konto">
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.description "Ladda upp och dela filer med end-to-end kryptering plus en länk som automatiskt upphör.">
+<!ENTITY fxa.service.send.launch "Starta &sendShortName;">
+<!ENTITY fxa.service.monitor.description "Kontrollera om din e-postadress har förekommit i ett dataintrång och få varningar om det figurerar i ett nytt intrång.">
+<!ENTITY fxa.service.monitor.launch "Starta &monitorShortName;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -188,6 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "Bokmärke för alla flikar…">
+
 <!ENTITY showAllBookmarks2.label "Visa alla bokmärken">
 <!ENTITY recentBookmarks.label "Nyligen bokmärkt">
 <!ENTITY otherBookmarksCmd.label "Andra bokmärken">
@@ -310,6 +322,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Arkiv">
 <!ENTITY fileMenu.accesskey       "A">
+
 <!ENTITY newUserContext.label             "Ny innehållsflik">
 <!ENTITY newUserContext.accesskey         "k">
 <!ENTITY manageUserContext.label          "Hantera behållare">
@@ -359,6 +372,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "V">
 <!ENTITY viewSidebarMenu.label "Sidofält">
 <!ENTITY viewSidebarMenu.accesskey "o">
+
 <!ENTITY viewCustomizeToolbar.label       "Anpassa…">
 <!ENTITY viewCustomizeToolbar.accesskey     "A">
 <!ENTITY overflowCustomizeToolbar.label       "Anpassa verktygsfält…">
@@ -372,6 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Återställ föregående session">
 
 <!ENTITY showAllHistoryCmd2.label "Visa all historik">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Visa all historik">
@@ -592,9 +607,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "E-posta länk…">
 <!ENTITY emailPageCmd.accesskey       "E">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Spara sida som…">
 <!ENTITY savePageCmd.accesskey        "m">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Spara ram som…">
@@ -699,22 +714,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Zooma in">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "Z">
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Zooma ut">
 <!ENTITY fullZoomReduceCmd.accesskey    "u">
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Återställ">
 <!ENTITY fullZoomResetCmd.accesskey     "Å">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Zooma endast texten">
 <!ENTITY fullZoomToggleCmd.accesskey    "e">
+
 <!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "Z">
 
@@ -732,6 +751,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Stäng">
+
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "ä">
 
@@ -888,6 +908,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Logga in till &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
+
 <!ENTITY syncSyncNowItem.label        "Synka nu">
 <!ENTITY syncSyncNowItemSyncing.label "Synkroniserar…">
 <!ENTITY syncSyncNowItem.accesskey    "n">
