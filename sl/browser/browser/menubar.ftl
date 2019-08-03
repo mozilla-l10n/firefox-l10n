@@ -127,6 +127,8 @@ menu-bookmarks-toolbar =
     .label = Vrstica zaznamkov
 menu-bookmarks-other =
     .label = Drugi zaznamki
+menu-bookmarks-mobile =
+    .label = Mobilni zaznamki
 
 ## Tools Menu
 
