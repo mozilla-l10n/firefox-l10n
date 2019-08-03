@@ -19,6 +19,9 @@ menu-file-open-file =
 menu-file-close-window =
     .label = Fechar janela
     .accesskey = h
+menu-file-save-page =
+    .label = Salvar página como…
+    .accesskey = v
 menu-file-print-setup =
     .label = Configurar página…
     .accesskey = C
@@ -44,10 +47,22 @@ menu-view-history-button =
 menu-view-full-zoom =
     .label = Zoom
     .accesskey = Z
+menu-view-full-zoom-reduce =
+    .label = Reduzir
+    .accesskey = R
+menu-view-page-style-no-style =
+    .label = Sem estilo
+    .accesskey = m
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Entrar em tela inteira
+    .accesskey = t
+menu-view-exit-full-screen =
+    .label = Sair da tela inteira
+    .accesskey = t
 menu-view-full-screen =
     .label = Tela inteira
     .accesskey = T
@@ -63,8 +78,14 @@ menu-view-bidi-switch-page-direction =
 menu-history =
     .label = Histórico
     .accesskey = H
+menu-history-clear-recent-history =
+    .label = Limpar histórico recente…
 menu-history-restore-last-session =
     .label = Restaurar sessão anterior
+menu-history-undo-menu =
+    .label = Abas fechadas recentemente
+menu-history-undo-window-menu =
+    .label = Janelas fechadas recentemente
 
 ## Bookmarks Menu
 
@@ -73,6 +94,8 @@ menu-bookmarks-menu =
     .accesskey = v
 menu-bookmarks-all-tabs =
     .label = Adicionar todas as abas…
+menu-bookmarks-toolbar =
+    .label = Barra de favoritos
 
 ## Tools Menu
 
@@ -85,6 +108,9 @@ menu-tools-sync-now =
 menu-tools-sync-re-auth =
     .label = Reconectar-se ao { -sync-brand-short-name }…
     .accesskey = R
+menu-tools-page-info =
+    .label = Informações da página
+    .accesskey = I
 
 ## Window Menu
 
