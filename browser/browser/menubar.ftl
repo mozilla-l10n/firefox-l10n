@@ -37,6 +37,9 @@ menu-file-close-window =
 menu-file-save-page =
     .label = Salvează pagina ca…
     .accesskey = A
+menu-file-email-link =
+    .label = Trimite linkul prin e-mail…
+    .accesskey = E
 menu-file-print-setup =
     .label = Aranjare în pagină…
     .accesskey = u
@@ -46,6 +49,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Tipărește…
     .accesskey = P
+menu-file-import-from-another-browser =
+    .label = Importă din alt browser…
+    .accesskey = I
 menu-file-go-offline =
     .label = Lucrează offline
     .accesskey = k
@@ -109,6 +115,12 @@ menu-view-synced-tabs-sidebar =
 menu-view-full-zoom =
     .label = Zoom
     .accesskey = Z
+menu-view-full-zoom-enlarge =
+    .label = Mărește
+    .accesskey = I
+menu-view-full-zoom-reduce =
+    .label = Micșorează
+    .accesskey = O
 menu-view-full-zoom-reset =
     .label = Resetează
     .accesskey = R
@@ -131,6 +143,12 @@ menu-view-charset =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Intră în modul de ecran complet
+    .accesskey = F
+menu-view-exit-full-screen =
+    .label = Ieși din modul de ecran complet
+    .accesskey = F
 menu-view-full-screen =
     .label = Ecran complet
     .accesskey = F
@@ -220,6 +238,9 @@ menu-preferences =
             [windows] O
            *[other] n
         }
+menu-tools-layout-debugger =
+    .label = Depanator de așezare în pagină
+    .accesskey = L
 
 ## Window Menu
 
@@ -254,3 +275,9 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Repornește cu suplimentele activate
     .accesskey = R
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Raportează site-uri înșelătoare…
+    .accesskey = d
