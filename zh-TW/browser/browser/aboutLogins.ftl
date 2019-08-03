@@ -23,7 +23,7 @@ menu-menuitem-preferences =
 menu-menuitem-feedback = 傳送意見回饋
 menu-menuitem-faq = 常見問題
 menu-menuitem-android-app = { -lockwise-brand-short-name } for Android
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } for iPhone 與 iPad
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } for iPhone and iPad
 
 ## Login List
 
