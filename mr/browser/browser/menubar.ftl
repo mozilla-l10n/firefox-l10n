@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = फाइल
+    .accesskey = F
 menu-file-new-tab =
     .label = नवीन टॅब
     .accesskey = T
@@ -25,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = फाइल उघडा…
     .accesskey = O
+menu-file-close =
+    .label = बंद करा
+    .accesskey = C
 menu-file-close-window =
     .label = चौकट बंद करा
     .accesskey = d
@@ -49,6 +55,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = संपादित करा
+    .accesskey = E
+menu-edit-undo =
+    .label = पूर्ववत् करा
+    .accesskey = U
+menu-edit-redo =
+    .label = पुन्हा करा
+    .accesskey = R
+menu-edit-cut =
+    .label = कापा
+    .accesskey = t
+menu-edit-copy =
+    .label = प्रत बनवा
+    .accesskey = C
+menu-edit-paste =
+    .label = चिटकवा
+    .accesskey = P
+menu-edit-delete =
+    .label = काढून टाका
+    .accesskey = D
+menu-edit-select-all =
+    .label = सर्व निवडा
+    .accesskey = A
 menu-edit-find-on =
     .label = या पृष्ठात शोधा…
     .accesskey = F
@@ -61,6 +91,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = दृष्य
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = साधनपट्ट्या
+    .accesskey = T
+menu-view-customize-toolbar =
+    .label = मनपसंत करा…
+    .accesskey = C
 menu-view-sidebar =
     .label = बाजूचीपट्टी
     .accesskey = e
@@ -156,6 +195,9 @@ menu-bookmarks-mobile =
 
 ## Tools Menu
 
+menu-tools =
+    .label = साधन
+    .accesskey = T
 menu-tools-downloads =
     .label = डाउनलोड्स
     .accesskey = D
@@ -180,6 +222,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = पृष्ठाची माहिती
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] पर्याय
+           *[other] प्राधान्यता
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
 
 ## Window Menu
 
