@@ -8,12 +8,19 @@
 menu-file-close-window =
     .label = Zarrar ventana
     .accesskey = v
+menu-file-email-link =
+    .label = Unviar enllaz…
+    .accesskey = U
 
 ## Edit Menu
 
 
 ## View Menu
 
+menu-view-bookmarks =
+    .label = Marcadores
+menu-view-history-button =
+    .label = Historial
 menu-view-page-style-menu =
     .label = Estilu de páxina
     .accesskey = x
@@ -48,9 +55,26 @@ menu-bookmarks-show-all =
     .label = Amosar tolos marcadores
 menu-bookmarks-toolbar =
     .label = Barra de ferramientes de marcadores
+menu-bookmarks-mobile =
+    .label = Marcadores del móvil
 
 ## Tools Menu
 
+menu-tools-downloads =
+    .label = Descargues
+    .accesskey = D
+menu-tools-addons =
+    .label = Complementos
+    .accesskey = C
+menu-tools-sync-now =
+    .label = Sincronizar agora
+    .accesskey = z
+menu-tools-sync-re-auth =
+    .label = Reconeutar a { -sync-brand-short-name }…
+    .accesskey = R
+menu-tools-web-developer =
+    .label = Desendolcador web
+    .accesskey = W
 menu-tools-page-source =
     .label = Códigu fonte de la páxina
     .accesskey = o
@@ -65,3 +89,21 @@ menu-window-menu =
 menu-help =
     .label = Ayuda
     .accesskey = A
+menu-help-show-tour =
+    .label = Percorríu per { -brand-shorter-name }
+    .accesskey = P
+menu-help-keyboard-shortcuts =
+    .label = Atayos de tecláu
+    .accesskey = t
+menu-help-safe-mode-without-addons =
+    .label = Reaniciar colos complementos desactivaos…
+    .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = Reaniciar colos complementos activaos
+    .accesskey = R
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Reportar sitiu fraudulentu…
+    .accesskey = R
