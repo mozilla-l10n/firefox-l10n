@@ -153,7 +153,7 @@
 <!ENTITY showFolderPaneCmd.accesskey "F">
 <!ENTITY showFolderPaneColsCmd.label "文件夹窗格列">
 <!ENTITY showFolderPaneColsCmd.accesskey "P">
-<!ENTITY showMessageCmd.label "消息">
+<!ENTITY showMessageCmd.label "消息窗格">
 <!ENTITY showMessageCmd.accesskey "M">
 
 <!ENTITY folderView.label "文件夹">
