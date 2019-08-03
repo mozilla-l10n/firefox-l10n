@@ -8,6 +8,11 @@
 menu-file-new-private-window =
     .label = Nowe okno prywatne
     .accesskey = p
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Otwórz adres…
 
 ## Edit Menu
 
@@ -45,10 +50,16 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Styl podstawowy
     .accesskey = S
+menu-view-charset =
+    .label = Kodowanie tekstu
+    .accesskey = K
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Tryb pełnoekranowy
+    .accesskey = T
 menu-view-exit-full-screen =
     .label = Opuść tryb pełnoekranowy
     .accesskey = O
@@ -80,6 +91,8 @@ menu-bookmarks-show-all =
     .label = Wyświetl wszystkie zakładki
 menu-bookmarks-all-tabs =
     .label = Dodaj zakładki do wszystkich kart…
+menu-bookmarks-mobile =
+    .label = Zakładki z urządzeń przenośnych
 
 ## Tools Menu
 
@@ -89,15 +102,30 @@ menu-tools-sync-now =
 menu-tools-web-developer =
     .label = Dla twórców witryn
     .accesskey = W
+menu-tools-layout-debugger =
+    .label = Debuger układu
+    .accesskey = r
 
 ## Window Menu
 
 
 ## Help Menu
 
+menu-help-keyboard-shortcuts =
+    .label = Skróty klawiaturowe
+    .accesskey = S
 menu-help-troubleshooting-info =
     .label = Informacje dla pomocy technicznej
     .accesskey = n
 menu-help-feedback-page =
     .label = Prześlij swoją opinię…
     .accesskey = e
+menu-help-safe-mode-without-addons =
+    .label = Uruchom ponownie z wyłączonymi dodatkami…
+    .accesskey = U
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Zgłoś oszustwo internetowe…
+    .accesskey = Z
