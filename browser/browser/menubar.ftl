@@ -62,6 +62,9 @@ menu-view-charset =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = පූර්ණතිරය වෙත යන්න
+    .accesskey = F
 menu-view-exit-full-screen =
     .label = පූර්ණ තිරයෙන් ඉවත්වන්න
     .accesskey = F
@@ -136,6 +139,9 @@ menu-window-bring-all-to-front =
 
 menu-help =
     .label = උදව්
+    .accesskey = H
+menu-help-product =
+    .label = { -brand-shorter-name } උදව්
     .accesskey = H
 menu-help-keyboard-shortcuts =
     .label = යතුරු පුවරු කෙටිමං
