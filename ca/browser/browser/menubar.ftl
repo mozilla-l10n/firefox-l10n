@@ -8,6 +8,9 @@
 menu-file-new-tab =
     .label = Pestanya nova
     .accesskey = t
+menu-file-new-container-tab =
+    .label = Pestanya de contenidor nova
+    .accesskey = v
 menu-file-new-window =
     .label = Finestra nova
     .accesskey = n
@@ -65,6 +68,8 @@ menu-view-bookmarks =
     .label = Adreces d'interès
 menu-view-history-button =
     .label = Historial
+menu-view-synced-tabs-sidebar =
+    .label = Pestanyes sincronitzades
 menu-view-full-zoom =
     .label = Mida de la pàgina
     .accesskey = d
@@ -89,6 +94,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Estil de pàgina bàsic
     .accesskey = b
+menu-view-charset =
+    .label = Codificació del text
+    .accesskey = C
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -121,6 +129,8 @@ menu-history-show-all-history =
     .label = Mostra tot l'historial
 menu-history-clear-recent-history =
     .label = Neteja l'historial recent…
+menu-history-synced-tabs =
+    .label = Pestanyes sincronitzades
 menu-history-restore-last-session =
     .label = Restaura la sessió anterior
 menu-history-undo-menu =
@@ -139,6 +149,10 @@ menu-bookmarks-all-tabs =
     .label = Afegeix-hi totes les pestanyes…
 menu-bookmarks-toolbar =
     .label = Barra de les adreces d'interès
+menu-bookmarks-other =
+    .label = Altres adreces d'interès
+menu-bookmarks-mobile =
+    .label = Adreces del mòbil
 
 ## Tools Menu
 
@@ -148,6 +162,9 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Complements
     .accesskey = m
+menu-tools-sync-sign-in =
+    .label = Inicia la sessió al { -sync-brand-short-name }…
+    .accesskey = Y
 menu-tools-sync-now =
     .label = Sincronitza ara
     .accesskey = S
@@ -176,9 +193,24 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Ajuda
     .accesskey = j
+menu-help-product =
+    .label = Ajuda del { -brand-shorter-name }
+    .accesskey = j
+menu-help-show-tour =
+    .label = Visita guiada del { -brand-shorter-name }
+    .accesskey = V
 menu-help-troubleshooting-info =
     .label = Informació de resolució de problemes
     .accesskey = r
 menu-help-safe-mode-without-addons =
     .label = Reinicia amb els complements inhabilitats…
     .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = Reinicia amb els complements habilitats
+    .accesskey = R
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Informa que el lloc és maliciós…
+    .accesskey = I
