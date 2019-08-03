@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Datei
+    .accesskey = D
 menu-file-new-tab =
     .label = Neuer Tab
     .accesskey = T
@@ -25,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Datei öffnen…
     .accesskey = f
+menu-file-close =
+    .label = Schließen
+    .accesskey = c
 menu-file-close-window =
     .label = Fenster schließen
     .accesskey = h
@@ -52,6 +58,27 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Bearbeiten
+    .accesskey = B
+menu-edit-undo =
+    .label = Rückgängig
+    .accesskey = R
+menu-edit-redo =
+    .label = Wiederherstellen
+    .accesskey = W
+menu-edit-cut =
+    .label = Ausschneiden
+    .accesskey = A
+menu-edit-copy =
+    .label = Kopieren
+    .accesskey = K
+menu-edit-paste =
+    .label = Einfügen
+    .accesskey = E
+menu-edit-delete =
+    .label = Löschen
+    .accesskey = L
 menu-edit-select-all =
     .label = Alles auswählen
     .accesskey = u
@@ -67,6 +94,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Ansicht
+    .accesskey = A
+menu-view-toolbars-menu =
+    .label = Symbolleisten
+    .accesskey = y
+menu-view-customize-toolbar =
+    .label = Anpassen…
+    .accesskey = A
 menu-view-sidebar =
     .label = Sidebar
     .accesskey = b
@@ -133,6 +169,8 @@ menu-history =
     .accesskey = C
 menu-history-show-all-history =
     .label = Gesamte Chronik anzeigen
+menu-history-clear-recent-history =
+    .label = Neueste Chronik löschen…
 menu-history-synced-tabs =
     .label = Synchronisierte Tabs
 menu-history-restore-last-session =
@@ -162,6 +200,9 @@ menu-bookmarks-mobile =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Extras
+    .accesskey = x
 menu-tools-downloads =
     .label = Downloads
     .accesskey = o
@@ -186,6 +227,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Seiteninformationen
     .accesskey = S
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Einstellungen
+           *[other] Einstellungen
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] E
+           *[other] E
+        }
 menu-tools-layout-debugger =
     .label = Layout-Debugger
     .accesskey = L
