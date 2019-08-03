@@ -172,6 +172,8 @@ menu-history-synced-tabs =
     .label = Համաժամեցված ներդիրներ
 menu-history-restore-last-session =
     .label = Վերականգնել նախորդ աշխատաշրջանը
+menu-history-hidden-tabs =
+    .label = Թաքնված ներդիրներ
 menu-history-undo-menu =
     .label = Վերջին փակված ներդիրները
 menu-history-undo-window-menu =
@@ -233,6 +235,9 @@ menu-preferences =
             [windows] Կ
            *[other] ր
         }
+menu-tools-layout-debugger =
+    .label = Դասավորության վրիպազերծում
+    .accesskey = L
 
 ## Window Menu
 
