@@ -5,27 +5,101 @@
 
 ## File Menu
 
+menu-file =
+    .label = Файл
+    .accesskey = Ф
+menu-file-new-tab =
+    .label = Нова вкладка
+    .accesskey = л
+menu-file-new-container-tab =
+    .label = Нова вкладка в контейнері
+    .accesskey = н
+menu-file-new-window =
+    .label = Нове вікно
+    .accesskey = в
+menu-file-new-private-window =
+    .label = Приватне вікно
+    .accesskey = т
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Відкрити розташування…
+menu-file-open-file =
+    .label = Відкрити файл…
+    .accesskey = а
+menu-file-close =
+    .label = Закрити
+    .accesskey = к
 menu-file-close-window =
     .label = Закрити вікно
     .accesskey = а
+menu-file-save-page =
+    .label = Зберегти як…
+    .accesskey = З
 menu-file-email-link =
     .label = Переслати посилання…
     .accesskey = с
+menu-file-print-setup =
+    .label = Параметри сторінки…
+    .accesskey = П
+menu-file-print-preview =
+    .label = Попередній перегляд
+    .accesskey = г
+menu-file-print =
+    .label = Друкувати…
+    .accesskey = к
 menu-file-go-offline =
     .label = Працювати автономно
     .accesskey = ю
 
 ## Edit Menu
 
+menu-edit =
+    .label = Редагувати
+    .accesskey = Р
+menu-edit-undo =
+    .label = Повернути
+    .accesskey = н
+menu-edit-redo =
+    .label = Повторити
+    .accesskey = в
+menu-edit-cut =
+    .label = Вирізати
+    .accesskey = и
+menu-edit-copy =
+    .label = Копіювати
+    .accesskey = п
+menu-edit-paste =
+    .label = Вставити
+    .accesskey = т
+menu-edit-delete =
+    .label = Видалити
+    .accesskey = В
+menu-edit-select-all =
+    .label = Виділити все
+    .accesskey = с
 menu-edit-find-on =
     .label = Знайти на цій сторінці…
     .accesskey = ц
+menu-edit-find-again =
+    .label = Знайти знову
+    .accesskey = т
 menu-edit-bidi-switch-text-direction =
     .label = Перемкнути напрям тексту на сторінці
     .accesskey = к
 
 ## View Menu
 
+menu-view =
+    .label = Вигляд
+    .accesskey = В
+menu-view-toolbars-menu =
+    .label = Панелі інструментів
+    .accesskey = П
+menu-view-customize-toolbar =
+    .label = Пристосування…
+    .accesskey = П
 menu-view-sidebar =
     .label = Бічна панель
     .accesskey = ч
@@ -33,6 +107,8 @@ menu-view-bookmarks =
     .label = Закладки
 menu-view-history-button =
     .label = Історія
+menu-view-synced-tabs-sidebar =
+    .label = Синхронізовані вкладки
 menu-view-full-zoom =
     .label = Масштаб
     .accesskey = ш
@@ -61,6 +137,15 @@ menu-view-page-basic-style =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = На весь екран
+    .accesskey = е
+menu-view-exit-full-screen =
+    .label = Вийти з повноекранного режиму
+    .accesskey = п
+menu-view-full-screen =
+    .label = На весь екран
+    .accesskey = е
 
 ##
 
@@ -78,6 +163,8 @@ menu-history =
     .accesskey = І
 menu-history-show-all-history =
     .label = Показати всю історію
+menu-history-clear-recent-history =
+    .label = Стерти недавню історію…
 menu-history-restore-last-session =
     .label = Відновити попередній сеанс
 menu-history-undo-menu =
@@ -90,25 +177,55 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Закладки
     .accesskey = З
+menu-bookmarks-show-all =
+    .label = Показати всі закладки
 menu-bookmarks-all-tabs =
     .label = Закласти всі вкладки…
 menu-bookmarks-toolbar =
     .label = Панель закладок
+menu-bookmarks-other =
+    .label = Інші закладки
 
 ## Tools Menu
 
+menu-tools =
+    .label = Інструменти
+    .accesskey = с
 menu-tools-downloads =
     .label = Завантаження
     .accesskey = З
 menu-tools-addons =
     .label = Додатки
     .accesskey = Д
+menu-tools-sync-sign-in =
+    .label = Увійти в Синхронізацію…
+    .accesskey = У
 menu-tools-sync-now =
     .label = Синхронізувати зараз
     .accesskey = С
+menu-tools-sync-re-auth =
+    .label = Перепідключитись до Синхронізації…
+    .accesskey = П
+menu-tools-web-developer =
+    .label = Веб-розробка
+    .accesskey = В
+menu-tools-page-source =
+    .label = Програмний код сторінки
+    .accesskey = а
 menu-tools-page-info =
     .label = Інформація про сторінку
     .accesskey = І
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Налаштування
+           *[other] Налаштування
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Н
+           *[other] Н
+        }
 
 ## Window Menu
 
@@ -122,6 +239,9 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Довідка
     .accesskey = Д
+menu-help-product =
+    .label = Довідка { -brand-shorter-name }
+    .accesskey = Д
 menu-help-keyboard-shortcuts =
     .label = Клавіатурні скорочення
     .accesskey = К
@@ -134,3 +254,12 @@ menu-help-feedback-page =
 menu-help-safe-mode-without-addons =
     .label = Перезапуск з вимкненими додатками…
     .accesskey = П
+menu-help-safe-mode-with-addons =
+    .label = Перезапуск з увімкненими додатками
+    .accesskey = у
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Повідомити про шахрайський сайт…
+    .accesskey = ш
