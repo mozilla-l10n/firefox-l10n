@@ -102,6 +102,8 @@ menu-view-show-all-tabs =
 
 menu-history-show-all-history =
     .label = أظهر كل التأريخ
+menu-history-clear-recent-history =
+    .label = امسح التأريخ الحالي…
 
 ## Bookmarks Menu
 
@@ -151,6 +153,9 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = مساعدة
     .accesskey = س
+menu-help-keyboard-shortcuts =
+    .label = اختصارات لوحة المفاتيح
+    .accesskey = خ
 menu-help-troubleshooting-info =
     .label = معلومات مواجهة الأعطال
     .accesskey = ط
