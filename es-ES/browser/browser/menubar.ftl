@@ -70,6 +70,8 @@ menu-history-undo-menu =
 menu-bookmarks-menu =
     .label = Marcadores
     .accesskey = M
+menu-bookmarks-all-tabs =
+    .label = Añadir pestañas a marcadores…
 menu-bookmarks-toolbar =
     .label = Barra de herramientas de marcadores
 
