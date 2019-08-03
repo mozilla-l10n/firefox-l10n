@@ -36,6 +36,8 @@ menu-history-undo-window-menu =
 
 ## Bookmarks Menu
 
+menu-bookmarks-show-all =
+    .label = Dangos Pob Nod Tudalen
 menu-bookmarks-toolbar =
     .label = Bar Offer Nodau Tudalen
 
