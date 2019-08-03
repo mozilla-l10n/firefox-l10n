@@ -14,6 +14,11 @@ menu-file-new-window =
 menu-file-new-private-window =
     .label = 새 사생활 보호 모드
     .accesskey = W
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = 주소 열기…
 menu-file-open-file =
     .label = 파일 열기…
     .accesskey = O
@@ -134,6 +139,9 @@ menu-tools-addons =
 menu-tools-sync-now =
     .label = 동기화하기
     .accesskey = S
+menu-tools-sync-re-auth =
+    .label = { -sync-brand-short-name }에 다시 연결…
+    .accesskey = R
 menu-tools-web-developer =
     .label = 웹 개발 도구
     .accesskey = W
@@ -150,6 +158,15 @@ menu-window-bring-all-to-front =
 
 ## Help Menu
 
+menu-help-product =
+    .label = { -brand-shorter-name } 도움말
+    .accesskey = H
+menu-help-show-tour =
+    .label = { -brand-shorter-name } 둘러보기
+    .accesskey = o
+menu-help-keyboard-shortcuts =
+    .label = 키보드 단축키
+    .accesskey = K
 menu-help-troubleshooting-info =
     .label = 문제 해결 정보…
     .accesskey = T
@@ -158,4 +175,7 @@ menu-help-feedback-page =
     .accesskey = S
 menu-help-safe-mode-without-addons =
     .label = 안전 모드로 시작…
+    .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = 부가 기능이 켜진 채로 다시 시작
     .accesskey = R
