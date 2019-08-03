@@ -17,15 +17,29 @@ menu-file-new-container-tab =
 menu-file-new-window =
     .label = Fenèstra novèla
     .accesskey = n
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Dobrir l’emplaçament…
+menu-file-open-file =
+    .label = Dobrir un fichièr…
+    .accesskey = o
 menu-file-close =
     .label = Tampar
     .accesskey = a
 menu-file-close-window =
     .label = Tampar la fenèstra
     .accesskey = f
+menu-file-save-page =
+    .label = Enregistrar jos…
+    .accesskey = E
 menu-file-email-link =
     .label = Mandar per corrièr electronic un ligam cap a la pagina…
     .accesskey = c
+menu-file-print-setup =
+    .label = Mesa en pagina…
+    .accesskey = M
 menu-file-print-preview =
     .label = Apercebut abans impression
     .accesskey = b
@@ -62,6 +76,9 @@ menu-edit-delete =
 menu-edit-select-all =
     .label = Seleccionar tot
     .accesskey = t
+menu-edit-find-on =
+    .label = Recercar dins la pagina…
+    .accesskey = R
 menu-edit-find-again =
     .label = Recercar lo seguent
     .accesskey = g
@@ -143,10 +160,14 @@ menu-history =
     .accesskey = s
 menu-history-show-all-history =
     .label = Afichar tot l'istoric
+menu-history-clear-recent-history =
+    .label = Suprimir l'istoric recent…
 menu-history-synced-tabs =
     .label = Onglets sincronizats
 menu-history-restore-last-session =
     .label = Restablir la session precedenta
+menu-history-hidden-tabs =
+    .label = Onglets amagats
 menu-history-undo-menu =
     .label = Onglets tampats recentament
 menu-history-undo-window-menu =
@@ -185,6 +206,9 @@ menu-tools-sync-sign-in =
 menu-tools-sync-now =
     .label = Sincronizar ara
     .accesskey = S
+menu-tools-sync-re-auth =
+    .label = Se reconnectar a { -sync-brand-short-name }…
+    .accesskey = r
 menu-tools-web-developer =
     .label = Desvolopaire web
     .accesskey = w
@@ -205,6 +229,9 @@ menu-preferences =
             [windows] O
            *[other] f
         }
+menu-tools-layout-debugger =
+    .label = Desbugador de disposicion
+    .accesskey = d
 
 ## Window Menu
 
@@ -224,6 +251,9 @@ menu-help-product =
 menu-help-show-tour =
     .label = Visita guidada de { -brand-shorter-name }
     .accesskey = V
+menu-help-keyboard-shortcuts =
+    .label = Acorchis de clavièr
+    .accesskey = j
 menu-help-troubleshooting-info =
     .label = Entresenhas de depanatge
     .accesskey = d
