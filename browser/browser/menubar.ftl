@@ -172,6 +172,8 @@ menu-history-synced-tabs =
     .label = ताळमेळीत टॅब्स
 menu-history-restore-last-session =
     .label = मागील सत्र पूर्वस्थितीत आणा
+menu-history-hidden-tabs =
+    .label = लपवलेले टॅब्स
 menu-history-undo-menu =
     .label = अलिकडील बंद केलेले टॅब्स
 menu-history-undo-window-menu =
@@ -233,6 +235,9 @@ menu-preferences =
             [windows] O
            *[other] n
         }
+menu-tools-layout-debugger =
+    .label = लेआऊट डिबगर
+    .accesskey = L
 
 ## Window Menu
 
