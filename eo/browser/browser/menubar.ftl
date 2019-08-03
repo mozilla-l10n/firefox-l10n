@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Dosiero
+    .accesskey = o
 menu-file-new-tab =
     .label = Nova langeto
     .accesskey = v
@@ -25,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Malfermi dosieron…
     .accesskey = d
+menu-file-close =
+    .label = Fermi
+    .accesskey = F
 menu-file-close-window =
     .label = Fermi fenestron
     .accesskey = e
@@ -52,6 +58,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Redakti
+    .accesskey = R
+menu-edit-undo =
+    .label = Malfari
+    .accesskey = M
+menu-edit-redo =
+    .label = Refari
+    .accesskey = R
+menu-edit-cut =
+    .label = Eltondi
+    .accesskey = t
+menu-edit-copy =
+    .label = Kopii
+    .accesskey = K
+menu-edit-paste =
+    .label = Alglui
+    .accesskey = A
+menu-edit-delete =
+    .label = Forviŝi
+    .accesskey = F
+menu-edit-select-all =
+    .label = Elekti ĉion
+    .accesskey = E
 menu-edit-find-on =
     .label = Serĉi en tiu ĉi paĝo…
     .accesskey = S
@@ -64,6 +94,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Vidi
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = Ilaraj strioj
+    .accesskey = I
+menu-view-customize-toolbar =
+    .label = Personecigi…
+    .accesskey = P
 menu-view-sidebar =
     .label = Flanka strio
     .accesskey = F
@@ -136,6 +175,8 @@ menu-history-synced-tabs =
     .label = Spegulitaj langetoj
 menu-history-restore-last-session =
     .label = Daŭrigi antaŭan seancon
+menu-history-hidden-tabs =
+    .label = Kaŝitaj langetoj
 menu-history-undo-menu =
     .label = Antaŭ nelonge fermitaj langetoj
 menu-history-undo-window-menu =
@@ -159,6 +200,9 @@ menu-bookmarks-mobile =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Iloj
+    .accesskey = I
 menu-tools-downloads =
     .label = Elŝutoj
     .accesskey = E
@@ -174,12 +218,29 @@ menu-tools-sync-now =
 menu-tools-sync-re-auth =
     .label = Rekonekti al { -sync-brand-short-name }…
     .accesskey = R
+menu-tools-web-developer =
+    .label = Teksaĵa programisto
+    .accesskey = P
 menu-tools-page-source =
     .label = Fonto de paĝo
     .accesskey = p
 menu-tools-page-info =
     .label = Informo pri paĝo
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Elektebloj
+           *[other] Preferoj
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+menu-tools-layout-debugger =
+    .label = Erarserĉilo de aranĝo
+    .accesskey = a
 
 ## Window Menu
 
