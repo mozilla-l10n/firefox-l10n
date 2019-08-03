@@ -60,3 +60,10 @@ cfr-doorhanger-bookmark-fxa-link-text = Бетбелгілерді қазір с
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Жабу батырмасы
     .title = Жабу
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Не жаңалық
+    .tooltiptext = Не жаңалық
+cfr-whatsnew-panel-header = Не жаңалық

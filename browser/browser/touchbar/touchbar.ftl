@@ -18,3 +18,4 @@ reader-view = Оқу көрінісі
 open-location = Іздеу немесе адрес
 share = Бөлісу
 close-window = Терезені жабу
+open-sidebar = Бүйір панельдер

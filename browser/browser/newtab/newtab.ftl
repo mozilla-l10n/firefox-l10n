@@ -47,6 +47,9 @@ newtab-topsites-add-button = Қосу
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Бұл парақтың барлық кездесулерін шолу тарихыңыздан өшіруді қалайсыз ба?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Бұл әрекетті болдырмау мүмкін болмайды.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Бетбелгілерге қосу
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Жүктеу сілтемесін көшіріп алу
 newtab-menu-go-to-download-page = Жүктеп алу парағына өту
 newtab-menu-remove-download = Тарихтан өшіру
@@ -116,6 +123,10 @@ newtab-label-download = Жүктеп алынған
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = Санатты өшіру
 newtab-section-menu-collapse-section = Санатты бүктеу
 newtab-section-menu-expand-section = Санатты жазық қылу
@@ -126,6 +137,13 @@ newtab-section-menu-add-search-engine = Іздеу жүйесін қосу
 newtab-section-menu-move-up = Жоғары жылжыту
 newtab-section-menu-move-down = Төмен жылжыту
 newtab-section-menu-privacy-notice = Жекелік ескертуі
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Санатты бүктеу
+newtab-section-expand-section-label =
+    .aria-label = Санатты жазық қылу
 
 ## Section Headers.
 
@@ -142,6 +160,13 @@ newtab-empty-section-highlights = Шолуды бастаңыз, сіз жақы
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Дайын. { $provider } ұсынған көбірек мақалаларды алу үшін кейінірек тексеріңіз. Күте алмайсыз ба? Интернеттен көбірек тамаша мақалаларды алу үшін әйгілі теманы таңдаңыз.
+
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-header = Барлығын оқып шықтыңыз!
+newtab-discovery-empty-section-topstories-content = Көбірек оқиғаларды көру үшін кейінірек кіріңіз.
+newtab-discovery-empty-section-topstories-try-again-button = Қайталап көру
+newtab-discovery-empty-section-topstories-loading = Жүктелуде…
 
 ## Pocket Content Section.
 
