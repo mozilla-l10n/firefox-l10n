@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Ffeil
+    .accesskey = F
 menu-file-new-tab =
     .label = Tab Newydd
     .accesskey = T
@@ -25,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Agor Ffeil…
     .accesskey = F
+menu-file-close =
+    .label = Cau
+    .accesskey = C
 menu-file-close-window =
     .label = Cau Ffenestr
     .accesskey = F
@@ -49,6 +55,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Golygu
+    .accesskey = G
+menu-edit-undo =
+    .label = Dadwneud
+    .accesskey = w
+menu-edit-redo =
+    .label = Ailwneud
+    .accesskey = A
+menu-edit-cut =
+    .label = Torri
+    .accesskey = T
+menu-edit-copy =
+    .label = Copïo
+    .accesskey = C
+menu-edit-paste =
+    .label = Gludo
+    .accesskey = G
+menu-edit-delete =
+    .label = Dileu
+    .accesskey = i
+menu-edit-select-all =
+    .label = Dewis Popeth
+    .accesskey = P
 menu-edit-find-on =
     .label = Canfod ar y Dudalen…
     .accesskey = a
@@ -61,6 +91,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Golwg
+    .accesskey = o
+menu-view-toolbars-menu =
+    .label = Barrau Offer
+    .accesskey = B
+menu-view-customize-toolbar =
+    .label = Cyfaddasu…
+    .accesskey = y
 menu-view-sidebar =
     .label = Bar Ochr
     .accesskey = B
@@ -156,6 +195,9 @@ menu-bookmarks-mobile =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Offer
+    .accesskey = f
 menu-tools-downloads =
     .label = Llwytho i Lawr
     .accesskey = L
@@ -180,6 +222,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Gwybodaeth am y Dudalen
     .accesskey = w
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Dewisiadau
+           *[other] Dewisiadau
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] e
+           *[other] w
+        }
 menu-tools-layout-debugger =
     .label = Dadfygiwr Dyluniad
     .accesskey = D
