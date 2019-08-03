@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Súbor
+    .accesskey = S
 menu-file-new-tab =
     .label = Nová karta
     .accesskey = a
@@ -25,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Otvoriť súbor…
     .accesskey = s
+menu-file-close =
+    .label = Zavrieť
+    .accesskey = Z
 menu-file-close-window =
     .label = Zavrieť okno
     .accesskey = v
@@ -43,12 +49,39 @@ menu-file-print-preview =
 menu-file-print =
     .label = Tlačiť…
     .accesskey = T
+menu-file-import-from-another-browser =
+    .label = Importovať z iného prehliadača…
+    .accesskey = I
 menu-file-go-offline =
     .label = Pracovať offline
     .accesskey = f
 
 ## Edit Menu
 
+menu-edit =
+    .label = Upraviť
+    .accesskey = U
+menu-edit-undo =
+    .label = Späť
+    .accesskey = S
+menu-edit-redo =
+    .label = Znovu
+    .accesskey = Z
+menu-edit-cut =
+    .label = Vystrihnúť
+    .accesskey = V
+menu-edit-copy =
+    .label = Kopírovať
+    .accesskey = K
+menu-edit-paste =
+    .label = Prilepiť
+    .accesskey = P
+menu-edit-delete =
+    .label = Odstrániť
+    .accesskey = O
+menu-edit-select-all =
+    .label = Vybrať všetko
+    .accesskey = a
 menu-edit-find-on =
     .label = Hľadať na tejto stránke…
     .accesskey = n
@@ -61,6 +94,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Zobraziť
+    .accesskey = Z
+menu-view-toolbars-menu =
+    .label = Panely s nástrojmi
+    .accesskey = P
+menu-view-customize-toolbar =
+    .label = Prispôsobiť…
+    .accesskey = P
 menu-view-sidebar =
     .label = Bočný panel
     .accesskey = B
@@ -101,6 +143,12 @@ menu-view-charset =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Prejsť do režimu celej obrazovky
+    .accesskey = c
+menu-view-exit-full-screen =
+    .label = Ukončiť režim celej obrazovky
+    .accesskey = c
 menu-view-full-screen =
     .label = Na celú obrazovku
     .accesskey = c
@@ -127,6 +175,8 @@ menu-history-synced-tabs =
     .label = Synchronizované karty
 menu-history-restore-last-session =
     .label = Obnoviť predchádzajúcu reláciu
+menu-history-hidden-tabs =
+    .label = Skryté karty
 menu-history-undo-menu =
     .label = Nedávno zatvorené karty
 menu-history-undo-window-menu =
@@ -143,9 +193,16 @@ menu-bookmarks-all-tabs =
     .label = Pridať všetky karty medzi záložky…
 menu-bookmarks-toolbar =
     .label = Panel záložiek
+menu-bookmarks-other =
+    .label = Ostatné záložky
+menu-bookmarks-mobile =
+    .label = Záložky mobilného Firefoxu
 
 ## Tools Menu
 
+menu-tools =
+    .label = Nástroje
+    .accesskey = N
 menu-tools-downloads =
     .label = Správca preberania súborov
     .accesskey = S
@@ -170,6 +227,20 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Informácie o stránke
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Možnosti
+           *[other] Možnosti
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] M
+           *[other] M
+        }
+menu-tools-layout-debugger =
+    .label = Ladenie rozloženia
+    .accesskey = L
 
 ## Window Menu
 
@@ -180,12 +251,24 @@ menu-window-bring-all-to-front =
 
 ## Help Menu
 
+menu-help =
+    .label = Pomocník
+    .accesskey = P
+menu-help-product =
+    .label = Pomocník prehliadača { -brand-shorter-name }
+    .accesskey = P
+menu-help-show-tour =
+    .label = Prehliadka prehliadača { -brand-shorter-name }
+    .accesskey = h
 menu-help-keyboard-shortcuts =
     .label = Klávesové skratky
     .accesskey = K
 menu-help-troubleshooting-info =
     .label = Informácie pre riešenie problémov
     .accesskey = n
+menu-help-feedback-page =
+    .label = Odoslať spätnú väzbu…
+    .accesskey = d
 menu-help-safe-mode-without-addons =
     .label = Reštartovať a zakázať doplnky…
     .accesskey = R
