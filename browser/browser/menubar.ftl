@@ -84,6 +84,9 @@ menu-bookmarks-toolbar =
 
 ## Tools Menu
 
+menu-tools-sync-now =
+    .label = انجام هم‌گام‌سازی
+    .accesskey = ه
 
 ## Window Menu
 
