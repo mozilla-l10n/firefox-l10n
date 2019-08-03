@@ -35,6 +35,8 @@ menu-view-page-style-menu =
 
 ## Bookmarks Menu
 
+menu-bookmarks-show-all =
+    .label = မှတ်သားချက်များအားလုံးကို ပြသပါ
 
 ## Tools Menu
 
