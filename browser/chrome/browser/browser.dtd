@@ -911,6 +911,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "Sledovací prvky">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Všechny sledovací prvky zablokuje úroveň „Přísné“.">
 
+<!ENTITY contentBlocking.socialblock.label "Sledovací prvky sociálních sítí">
+<!ENTITY contentBlocking.socialblockView.label "Blokované sledovací prvky sociálních sítí">
+
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies a data stránek">
 
