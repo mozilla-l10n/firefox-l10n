@@ -6,6 +6,8 @@ about-logins-page-title = Credenciais e palavras-passe
 login-filter =
     .placeholder = Pesquisar credenciais
 create-login-button = Criar nova credencial
+fxaccounts-sign-in-text = Obtenha as suas palavras-passe nos seus outros dispositivos
+fxaccounts-sign-in-button = Iniciar sessão no { -sync-brand-short-name }
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -74,9 +76,19 @@ master-password-notification-message = Por favor introduza a sua palavra-passe m
 master-password-reload-button =
     .label = Iniciar sessão
     .accesskey = I
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Cancelar
+confirmation-dialog-dismiss-button =
+    .title = Cancelar
 confirm-delete-dialog-title = Apagar esta credencial?
 confirm-delete-dialog-message = Esta ação não pode ser desfeita.
-confirm-delete-dialog-dismiss-button =
-    .title = Cancelar
-confirm-delete-dialog-cancel-button = Cancelar
 confirm-delete-dialog-confirm-button = Apagar
+confirm-discard-changes-dialog-title = Descartar alterações não guardadas?
+confirm-discard-changes-dialog-message = Todas as alterações não guardadas irão ser perdidas.
+confirm-discard-changes-dialog-confirm-button = Descartar
+
+## Breach Alert notification
+
+breach-alert-link = Saber mais acerca desta brecha.
