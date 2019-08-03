@@ -22,7 +22,10 @@ accessibility-best-practices =
 ## with its text label or accessible name.
 
 accessibility-text-label-issue-area = Utiliser l’attribut <code>alt</code> pour étiqueter les éléments <div>area</div> qui ont l’attribut <span>href</span>. <a>Pour en savoir plus</a>
+accessibility-text-label-issue-dialog = Les dialogues doivent être étiquetés. <a>En savoir plus</a>
 accessibility-text-label-issue-document-title = Les documents doivent avoir un élément <code>title</code>. <a>En savoir plus</a>
+accessibility-text-label-issue-embed = Le contenu intégré doit être étiqueté. <a>En savoir plus</a>
+accessibility-text-label-issue-figure = Les illustrations avec des légendes facultatives doivent être étiquetées. <a>En savoir plus</a>
 accessibility-text-label-issue-fieldset = Les éléments <code>fieldset</code> doivent être étiquetés. <a>En savoir plus</a>
 accessibility-text-label-issue-fieldset-legend = Utilisez l’élément <code>legend</code> pour étiqueter les éléments <span>fieldset</span>. <a>En savoir plus</a>
 accessibility-text-label-issue-form = Les éléments de formulaire doivent être étiquetés. <a>En savoir plus</a>
