@@ -17,6 +17,9 @@ menu-file-new-container-tab =
 menu-file-new-window =
     .label = Yeni pencere
     .accesskey = Y
+menu-file-new-private-window =
+    .label = Yeni gizli pencere
+    .accesskey = n
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
 # but Firefox is still running.
@@ -37,9 +40,15 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Bağlantıyı e-postayla gönder…
     .accesskey = e
+menu-file-print-setup =
+    .label = Sayfa düzeni…
+    .accesskey = ü
 menu-file-print-preview =
     .label = Yazdırma ön izleme
     .accesskey = ö
+menu-file-print =
+    .label = Yazdır…
+    .accesskey = z
 menu-file-import-from-another-browser =
     .label = Başka bir tarayıcıdan içe aktar…
     .accesskey = B
@@ -215,6 +224,9 @@ menu-tools-web-developer =
 menu-tools-page-source =
     .label = Sayfa kaynağı
     .accesskey = a
+menu-tools-page-info =
+    .label = Sayfa bilgileri
+    .accesskey = b
 menu-preferences =
     .label =
         { PLATFORM() ->
