@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file-new-tab =
+    .label = Nový panel
+    .accesskey = p
 menu-file-open-file =
     .label = Otevřít soubor…
     .accesskey = s
@@ -14,6 +17,9 @@ menu-file-print-setup =
 menu-file-print-preview =
     .label = Náhled tisku
     .accesskey = h
+menu-file-go-offline =
+    .label = Pracovat offline
+    .accesskey = l
 
 ## Edit Menu
 
@@ -36,6 +42,12 @@ menu-view-page-basic-style =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Spustit režim celé obrazovky
+    .accesskey = r
+menu-view-exit-full-screen =
+    .label = Ukončit režim celé obrazovky
+    .accesskey = r
 menu-view-full-screen =
     .label = Celá obrazovka
     .accesskey = C
@@ -53,6 +65,8 @@ menu-history =
     .accesskey = H
 menu-history-show-all-history =
     .label = Zobrazit celou historii
+menu-history-restore-last-session =
+    .label = Obnovit předchozí relaci
 menu-history-undo-menu =
     .label = Naposledy zavřené panely
 menu-history-undo-window-menu =
@@ -63,6 +77,8 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Záložky
     .accesskey = o
+menu-bookmarks-show-all =
+    .label = Zobrazit všechny záložky
 menu-bookmarks-all-tabs =
     .label = Přidat všechny panely do záložek…
 menu-bookmarks-toolbar =
