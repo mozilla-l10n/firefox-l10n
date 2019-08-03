@@ -32,6 +32,8 @@ menu-view-history-button =
 menu-history =
     .label = చరిత్ర
     .accesskey = s
+menu-history-undo-window-menu =
+    .label = ఇటీవల మూసిన విండోలు
 
 ## Bookmarks Menu
 
