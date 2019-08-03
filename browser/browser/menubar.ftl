@@ -19,6 +19,12 @@ menu-file-print-setup =
 
 menu-view-history-button =
     .label = చరిత్ర
+menu-view-full-zoom =
+    .label = జూమ్
+    .accesskey = Z
+menu-view-full-zoom-reduce =
+    .label = జూమ్ తగ్గించు
+    .accesskey = O
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -43,6 +49,9 @@ menu-history-undo-window-menu =
 
 ## Tools Menu
 
+menu-tools-web-developer =
+    .label = వెబ్ అభివృద్దికారి
+    .accesskey = W
 menu-tools-page-source =
     .label = పేజీ మూలం
     .accesskey = o
