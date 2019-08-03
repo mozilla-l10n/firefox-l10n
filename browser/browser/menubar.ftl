@@ -156,6 +156,9 @@ menu-window-bring-all-to-front =
 
 ## Help Menu
 
+menu-help =
+    .label = Ajuda
+    .accesskey = j
 menu-help-safe-mode-without-addons =
     .label = Reinicia amb els complements inhabilitats…
     .accesskey = R
