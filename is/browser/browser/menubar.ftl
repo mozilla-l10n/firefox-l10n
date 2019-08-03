@@ -8,9 +8,17 @@
 menu-file-new-tab =
     .label = Nýr flipi
     .accesskey = f
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Opna tengil…
 menu-file-open-file =
     .label = Opna skrá…
     .accesskey = O
+menu-file-print-preview =
+    .label = Prentskoðun
+    .accesskey = r
 menu-file-print =
     .label = Prenta…
     .accesskey = P
@@ -36,6 +44,15 @@ menu-view-page-basic-style =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Fara í fullan skjá
+    .accesskey = F
+menu-view-exit-full-screen =
+    .label = Hætta í fullum skjá
+    .accesskey = f
+menu-view-full-screen =
+    .label = Fylla skjá
+    .accesskey = y
 
 ##
 
@@ -45,8 +62,12 @@ menu-view-page-basic-style =
 menu-history =
     .label = Ferill
     .accesskey = F
+menu-history-show-all-history =
+    .label = Skoða alla ferla
 menu-history-undo-menu =
     .label = Nýlega lokaðir flipar
+menu-history-undo-window-menu =
+    .label = Nýlega lokaðir gluggar
 
 ## Bookmarks Menu
 
