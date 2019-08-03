@@ -5,9 +5,15 @@
 
 ## File Menu
 
+menu-file =
+    .label = Fichero
+    .accesskey = F
 menu-file-new-tab =
     .label = Nueva pestanya
     .accesskey = t
+menu-file-new-container-tab =
+    .label = Nueva pestanya de contenedor
+    .accesskey = c
 menu-file-new-window =
     .label = Nueva finestra
     .accesskey = N
@@ -22,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Ubrir un fichero…
     .accesskey = U
+menu-file-close =
+    .label = Zarrar
+    .accesskey = Z
 menu-file-close-window =
     .label = Zarrar a finestra
     .accesskey = f
@@ -46,6 +55,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Editar
+    .accesskey = E
+menu-edit-undo =
+    .label = Desfer
+    .accesskey = D
+menu-edit-redo =
+    .label = Refer
+    .accesskey = R
+menu-edit-cut =
+    .label = Retallar
+    .accesskey = t
+menu-edit-copy =
+    .label = Copiar
+    .accesskey = C
+menu-edit-paste =
+    .label = Apegar
+    .accesskey = A
+menu-edit-delete =
+    .label = Eliminar
+    .accesskey = l
+menu-edit-select-all =
+    .label = Seleccionar-lo tot
+    .accesskey = a
 menu-edit-find-on =
     .label = Trobar en ista pachina…
     .accesskey = T
@@ -58,6 +91,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Veyer
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = Barras de ferramientas
+    .accesskey = t
+menu-view-customize-toolbar =
+    .label = Personalizar…
+    .accesskey = P
 menu-view-sidebar =
     .label = Panel lateral
     .accesskey = e
@@ -65,6 +107,8 @@ menu-view-bookmarks =
     .label = Marcapachinas
 menu-view-history-button =
     .label = Historial
+menu-view-synced-tabs-sidebar =
+    .label = Pestanyas sincronizadas
 menu-view-full-zoom =
     .label = Mida d'a pachina
     .accesskey = d
@@ -124,6 +168,8 @@ menu-history-show-all-history =
     .label = Amostrar tot l'historial
 menu-history-clear-recent-history =
     .label = Borrar o historial recient…
+menu-history-synced-tabs =
+    .label = Pestanyas sincronizadas
 menu-history-restore-last-session =
     .label = Restaurar a sesión anterior
 menu-history-undo-menu =
@@ -142,15 +188,25 @@ menu-bookmarks-all-tabs =
     .label = Adhibir pestanyas ta marcapachinas…
 menu-bookmarks-toolbar =
     .label = Barra de ferramientas de marcapachinas
+menu-bookmarks-other =
+    .label = Atros marcapachinas
+menu-bookmarks-mobile =
+    .label = Marcapachinas d'o mobil
 
 ## Tools Menu
 
+menu-tools =
+    .label = Ferramientas
+    .accesskey = t
 menu-tools-downloads =
     .label = Descargas
     .accesskey = D
 menu-tools-addons =
     .label = Complementos
     .accesskey = C
+menu-tools-sync-sign-in =
+    .label = Encetar sesion en o { -sync-brand-short-name }…
+    .accesskey = Y
 menu-tools-sync-now =
     .label = Sincronizar agora
     .accesskey = z
@@ -166,6 +222,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Información d'a pachina
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Opcions
+           *[other] Preferencias
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
 
 ## Window Menu
 
@@ -197,3 +264,12 @@ menu-help-feedback-page =
 menu-help-safe-mode-without-addons =
     .label = Reiniciar con os complementos desactivaus…
     .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = Reiniciar con os complementos activaus
+    .accesskey = R
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Informar de puesto malicioso…
+    .accesskey = I
