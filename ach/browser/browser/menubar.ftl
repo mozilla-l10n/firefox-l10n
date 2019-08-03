@@ -10,12 +10,18 @@
 # but Firefox is still running.
 menu-file-open-location =
     .label = Yab Kabedo…
+menu-file-print-setup =
+    .label = Tero Pot Buk…
+    .accesskey = t
 
 ## Edit Menu
 
 
 ## View Menu
 
+menu-view-full-zoom =
+    .label = Kwoti
+    .accesskey = K
 menu-view-page-style-no-style =
     .label = Kite Pe
     .accesskey = K
@@ -29,6 +35,9 @@ menu-view-page-style-no-style =
 
 ## History Menu
 
+menu-history =
+    .label = Gin mukato
+    .accesskey = u
 
 ## Bookmarks Menu
 
@@ -38,6 +47,8 @@ menu-view-page-style-no-style =
 
 ## Window Menu
 
+menu-window-bring-all-to-front =
+    .label = Kel gi Weng Anyim
 
 ## Help Menu
 
