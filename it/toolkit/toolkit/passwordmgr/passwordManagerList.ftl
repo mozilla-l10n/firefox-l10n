@@ -70,6 +70,6 @@ remove-all-shown =
     .accesskey = t
 remove-all-passwords-prompt = Rimuovere tutte le password?
 remove-all-passwords-title = Rimozione password
-no-master-password-prompt = Visualizzare le password memorizzate?
+no-master-password-prompt = Mostrare le password memorizzate?
 auto-fill-logins-and-passwords =
     .label = Compila automaticamente credenziali di accesso
