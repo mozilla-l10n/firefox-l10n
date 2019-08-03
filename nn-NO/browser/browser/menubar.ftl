@@ -11,6 +11,12 @@ menu-file-new-tab =
 menu-file-new-window =
     .label = Nytt vindauge
     .accesskey = N
+menu-file-new-private-window =
+    .label = Nytt privat vindauge
+    .accesskey = v
+menu-file-print-preview =
+    .label = Førehandsvis sida
+    .accesskey = v
 menu-file-go-offline =
     .label = Arbeid fråkopla
     .accesskey = r
@@ -33,25 +39,48 @@ menu-view-bookmarks =
     .label = Bokmerke
 menu-view-history-button =
     .label = Historikk
+menu-view-synced-tabs-sidebar =
+    .label = Synkroniserte faner
 menu-view-full-zoom =
     .label = Skalering
     .accesskey = r
+menu-view-full-zoom-enlarge =
+    .label = Større skrift
+    .accesskey = S
+menu-view-full-zoom-reduce =
+    .label = Mindre skrift
+    .accesskey = M
+menu-view-full-zoom-reset =
+    .label = Still tilbake
+    .accesskey = S
 menu-view-full-zoom-toggle =
     .label = Forstørr berre tekst
     .accesskey = o
 menu-view-page-style-menu =
     .label = Sidestil
     .accesskey = e
+menu-view-page-style-no-style =
+    .label = Ingen
+    .accesskey = I
+menu-view-page-basic-style =
+    .label = Vanleg
+    .accesskey = V
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-exit-full-screen =
+    .label = Avslutt fullskjerm
+    .accesskey = v
 menu-view-full-screen =
     .label = Fullskjerm
     .accesskey = F
 
 ##
 
+menu-view-show-all-tabs =
+    .label = Vis alle faner
+    .accesskey = V
 menu-view-bidi-switch-page-direction =
     .label = Byt tekstretning på sida
     .accesskey = r
@@ -63,6 +92,12 @@ menu-history =
     .accesskey = s
 menu-history-show-all-history =
     .label = Vis all historikk
+menu-history-synced-tabs =
+    .label = Synkronisterte faner
+menu-history-undo-menu =
+    .label = Nyleg attlatne faner
+menu-history-undo-window-menu =
+    .label = Nyleg attlatne vindauge
 
 ## Bookmarks Menu
 
@@ -77,6 +112,15 @@ menu-bookmarks-toolbar =
 menu-tools-downloads =
     .label = Nedlastingar
     .accesskey = N
+menu-tools-sync-now =
+    .label = Synkroniser no
+    .accesskey = S
+menu-tools-web-developer =
+    .label = Nettsideutvikling
+    .accesskey = N
+menu-tools-page-source =
+    .label = Kjeldekode
+    .accesskey = d
 menu-tools-page-info =
     .label = Sideinformasjon
     .accesskey = d
@@ -93,3 +137,12 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Hjelp
     .accesskey = H
+menu-help-show-tour =
+    .label = Omvising i { -brand-shorter-name }
+    .accesskey = m
+menu-help-keyboard-shortcuts =
+    .label = Tastatursnarvegar
+    .accesskey = T
+menu-help-troubleshooting-info =
+    .label = Feilsøking
+    .accesskey = e
