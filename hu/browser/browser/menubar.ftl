@@ -67,6 +67,9 @@ menu-view-page-basic-style =
 
 ##
 
+menu-view-show-all-tabs =
+    .label = Az összes böngészőlap megjelenítése
+    .accesskey = m
 menu-view-bidi-switch-page-direction =
     .label = Oldal irányának átváltása
     .accesskey = l
@@ -78,19 +81,31 @@ menu-history =
     .accesskey = m
 menu-history-show-all-history =
     .label = Minden előzmény megjelenítése
+menu-history-restore-last-session =
+    .label = Előző munkamenet helyreállítása
 menu-history-undo-menu =
     .label = Nemrég bezárt lapok
+menu-history-undo-window-menu =
+    .label = Nemrég bezárt ablakok
 
 ## Bookmarks Menu
 
 menu-bookmarks-menu =
     .label = Könyvjelzők
     .accesskey = K
+menu-bookmarks-show-all =
+    .label = Minden könyvjelző megjelenítése
 menu-bookmarks-toolbar =
     .label = Könyvjelző eszköztár
 
 ## Tools Menu
 
+menu-tools-sync-now =
+    .label = Szinkronizálás
+    .accesskey = S
+menu-tools-web-developer =
+    .label = Webfejlesztő
+    .accesskey = W
 menu-tools-page-source =
     .label = Oldal forrása
     .accesskey = r
@@ -110,3 +125,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Súgó
     .accesskey = S
+menu-help-troubleshooting-info =
+    .label = Hibakeresési információ
+    .accesskey = H
