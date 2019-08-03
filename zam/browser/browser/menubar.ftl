@@ -98,7 +98,7 @@ menu-view-customize-toolbar =
     .label = Tùs kùe...
     .accesskey = e
 menu-view-sidebar =
-    .label = Yaa{ " " }
+    .label = Yaa
     .accesskey = Y
 menu-view-bookmarks =
     .label = Ndó~làz=ná

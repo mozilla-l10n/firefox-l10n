@@ -19,7 +19,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } the thus kue noo kue
 update-manual = Taak laay koo kub lent lo <label data-l10n-name="manual-link"/>
 update-unsupported = Naa gadt liiy kuub kue.<label data-l10n-name="unsupported-link">Lab Kue</label>
 update-restarting = Bí~rè là kíy...
-channel-description = Dee xhin luu kue <label data-l10n-name="current-channel"></label> gui koo kub.{ " " }
+channel-description = Dee xhin luu kue <label data-l10n-name="current-channel"></label> gui koo kub.
 warningDesc-version = { -brand-short-name } nara the thus kue noy.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> naak diif <label data-l10n-name="community-exp-creditsLink">loo yehs</label> the ke xhin xha Internet naak par ree taa men.
 community-2 = { -brand-short-name } kue thus kue <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, diif <label data-l10n-name="community-creditsLink">Men naa loo xhiu</label> the kee noo xhiin xha Internet taak lii xhin ree taa men.
