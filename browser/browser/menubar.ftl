@@ -11,6 +11,9 @@ menu-file-new-tab =
 menu-file-new-window =
     .label = Novo okno
     .accesskey = N
+menu-file-new-private-window =
+    .label = Novo zasebno okno
+    .accesskey = a
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
 # but Firefox is still running.
@@ -22,6 +25,12 @@ menu-file-open-file =
 menu-file-close-window =
     .label = Zapri okno
     .accesskey = o
+menu-file-save-page =
+    .label = Shrani stran kot …
+    .accesskey = S
+menu-file-email-link =
+    .label = Pošlji povezavo po e-pošti …
+    .accesskey = P
 menu-file-print-setup =
     .label = Priprava strani …
     .accesskey = r
@@ -31,9 +40,15 @@ menu-file-print-preview =
 menu-file-print =
     .label = Natisni …
     .accesskey = N
+menu-file-go-offline =
+    .label = Nepovezan način
+    .accesskey = e
 
 ## Edit Menu
 
+menu-edit =
+    .label = Uredi
+    .accesskey = U
 menu-edit-find-on =
     .label = Najdi na tej strani …
     .accesskey = D
@@ -53,6 +68,8 @@ menu-view-bookmarks =
     .label = Zaznamki
 menu-view-history-button =
     .label = Zgodovina
+menu-view-synced-tabs-sidebar =
+    .label = Sinhronizirani zavihki
 menu-view-full-zoom =
     .label = Povečava
     .accesskey = P
@@ -105,8 +122,13 @@ menu-view-bidi-switch-page-direction =
 
 ## History Menu
 
+menu-history =
+    .label = Zgodovina
+    .accesskey = v
 menu-history-show-all-history =
     .label = Prikaži vso zgodovino
+menu-history-synced-tabs =
+    .label = Sinhronizirani zavihki
 menu-history-restore-last-session =
     .label = Obnovi prejšnjo sejo
 menu-history-undo-menu =
@@ -132,15 +154,24 @@ menu-bookmarks-mobile =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Orodja
+    .accesskey = O
 menu-tools-downloads =
     .label = Prenosi
     .accesskey = P
 menu-tools-addons =
     .label = Dodatki
     .accesskey = D
+menu-tools-sync-sign-in =
+    .label = Prijava v { -sync-brand-short-name } …
+    .accesskey = n
 menu-tools-web-developer =
     .label = Spletni razvoj
     .accesskey = S
+menu-tools-page-source =
+    .label = Izvorna koda strani
+    .accesskey = v
 menu-tools-page-info =
     .label = Podatki o strani
     .accesskey = I
@@ -160,3 +191,27 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Pomoč
     .accesskey = M
+menu-help-product =
+    .label = Pomoč za { -brand-shorter-name }
+    .accesskey = m
+menu-help-show-tour =
+    .label = Predstavitev { -brand-shorter-name }a
+    .accesskey = e
+menu-help-keyboard-shortcuts =
+    .label = Bližnjice tipk
+    .accesskey = B
+menu-help-feedback-page =
+    .label = Povratne informacije …
+    .accesskey = v
+menu-help-safe-mode-without-addons =
+    .label = Ponovno zaženi z onemogočenimi dodatki …
+    .accesskey = n
+menu-help-safe-mode-with-addons =
+    .label = Ponovno zaženi z omogočenimi dodatki
+    .accesskey = n
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Prijavi zavajajočo stran …
+    .accesskey = P
