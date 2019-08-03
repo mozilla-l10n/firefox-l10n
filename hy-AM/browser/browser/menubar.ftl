@@ -50,7 +50,7 @@ menu-file-print =
     .label = Տպել…
     .accesskey = Տ
 menu-file-go-offline =
-    .label = Աշխատել անցանց{ " " }
+    .label = Աշխատել անցանց
     .accesskey = տ
 
 ## Edit Menu
@@ -59,7 +59,7 @@ menu-edit =
     .label = Խմբագրել
     .accesskey = Խ
 menu-edit-undo =
-    .label = Հետարկել{ " " }
+    .label = Հետարկել
     .accesskey = Հ
 menu-edit-redo =
     .label = Կրկնել
@@ -110,7 +110,7 @@ menu-view-history-button =
 menu-view-synced-tabs-sidebar =
     .label = Համաժամեցված ներդիրներ
 menu-view-full-zoom =
-    .label = Մասշտաբը{ " " }
+    .label = Մասշտաբը
     .accesskey = Մ
 menu-view-full-zoom-enlarge =
     .label = Խոշորացնել
@@ -147,7 +147,7 @@ menu-view-exit-full-screen =
     .label = Դուրս գալ Լիաէկրան վիճակից
     .accesskey = Լ
 menu-view-full-screen =
-    .label = Բացել Լիաէկրան{ " " }
+    .label = Բացել Լիաէկրան
     .accesskey = Բ
 
 ##
