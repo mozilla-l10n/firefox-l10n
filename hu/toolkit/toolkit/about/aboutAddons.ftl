@@ -155,9 +155,6 @@ private-browsing-description2 =
     akkor a kiegészítő nem fog működni privát böngészésben, és ott nem fog hozzáférni az online tevékenységéhez.
     Ezt a változtatást azért hoztuk, hogy a privát böngészése tényleg privát legyen.
     <label data-l10n-name="private-browsing-learn-more">Tudjon meg többet a kiegészítőbeállítások kezeléséről.</label>
-extensions-view-discover =
-    .name = Kiegészítők letöltése
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Javaslatok
     .tooltiptext = { extensions-view-discopane.name }
@@ -316,6 +313,16 @@ release-notes-addon-button = Kiadási megjegyzések
 permissions-addon-button = Engedélyek
 addons-enabled-heading = Engedélyezve
 addons-disabled-heading = Tiltva
+extension-enabled-heading = Engedélyezve
+extension-disabled-heading = Tiltva
+theme-enabled-heading = Engedélyezve
+theme-disabled-heading = Tiltva
+plugin-enabled-heading = Engedélyezve
+plugin-disabled-heading = Tiltva
+dictionary-enabled-heading = Engedélyezve
+dictionary-disabled-heading = Tiltva
+locale-enabled-heading = Engedélyezve
+locale-disabled-heading = Tiltva
 ask-to-activate-button = Aktiválás kérésre
 always-activate-button = Mindig aktiválja
 never-activate-button = Soha ne aktiválja
