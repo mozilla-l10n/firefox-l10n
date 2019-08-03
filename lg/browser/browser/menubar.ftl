@@ -11,6 +11,9 @@ menu-file-new-tab =
 menu-file-new-window =
     .label = Eddirisa Epya
     .accesskey = E
+menu-file-new-private-window =
+    .label = Akadirisa Akakusike
+    .accesskey = k
 menu-file-open-file =
     .label = Bikkula Fayiro…
     .accesskey = B
@@ -20,6 +23,9 @@ menu-file-close-window =
 menu-file-save-page =
     .label = Tereka Omuko Nga…
     .accesskey = N
+menu-file-email-link =
+    .label = Wereza akagata mu emeyilo…
+    .accesskey = W
 menu-file-print-setup =
     .label = Entegeka y'Omuko…
     .accesskey = e
@@ -29,6 +35,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Fulumya…
     .accesskey = F
+menu-file-go-offline =
+    .label = Kola nga toli ku Mutimbagano
+    .accesskey = K
 
 ## Edit Menu
 
