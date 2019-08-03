@@ -24,8 +24,8 @@ menu-menuitem-preferences =
   }
 menu-menuitem-feedback = Comunicaci la tua opinione
 menu-menuitem-faq = Domande più frequenti
-menu-menuitem-download-android = Lockwise per Android
-menu-menuitem-download-iphone = Lockwise per iPhone e iPad
+menu-menuitem-android-app = { -lockwise-brand-short-name } per Android
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } per iPhone e iPad
 
 ## Login List
 login-list =
@@ -39,9 +39,19 @@ login-list-sort-label-text = Ordina per:
 login-list-name-option = Nome (A-Z)
 login-list-last-changed-option = Ultima modifica
 login-list-last-used-option = Ultimo utilizzo
+login-list-intro-title = Nessuna credenziale trovata
+login-list-intro-description = Le password salvate in { -brand-product-name } verranno visualizzate qui.
 login-list-item-title-new-login = Nuova credenziale
 login-list-item-subtitle-new-login = Inserisci le credenziali di accesso
 login-list-item-subtitle-missing-username = [nessun nome utente]
+
+## Introduction screen
+
+login-intro-heading = Stai cercando le credenziali che hai salvato? Configura { -sync-brand-short-name }.
+login-intro-description = Se le credenziali sono salvate in { -brand-product-name } su un altro dispositivo, ecco come renderle disponibili qui:
+login-intro-instruction-fxa = Accedi o crea un { -fxaccount-brand-name } sul dispositivo dove sono salvate le credenziali
+login-intro-instruction-fxa-settings = Assicurati che la casella “Credenziali” sia selezionata nelle impostazini di { -sync-brand-short-name }
+login-intro-instruction-faq = Consulta le <a data-l10n-name="faq">domande più frequenti</a> di { -lockwise-brand-short-name } per ulteriori informazioni
 
 ## Login
 login-item-new-login-title = Inserisci nuova credenziale
