@@ -60,12 +60,21 @@ menu-view-page-basic-style =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Passer en mode Plein écran
+    .accesskey = P
+menu-view-exit-full-screen =
+    .label = Quitter le mode Plein écran
+    .accesskey = P
 menu-view-full-screen =
     .label = Plein écran
     .accesskey = P
 
 ##
 
+menu-view-show-all-tabs =
+    .label = Afficher tous les onglets
+    .accesskey = A
 menu-view-bidi-switch-page-direction =
     .label = Changer le sens de la page
     .accesskey = g
@@ -75,14 +84,20 @@ menu-view-bidi-switch-page-direction =
 menu-history =
     .label = Historique
     .accesskey = H
+menu-history-restore-last-session =
+    .label = Restaurer la session précédente
 menu-history-undo-menu =
     .label = Onglets récemment fermés
+menu-history-undo-window-menu =
+    .label = Fenêtres récemment fermées
 
 ## Bookmarks Menu
 
 menu-bookmarks-menu =
     .label = Marque-pages
     .accesskey = M
+menu-bookmarks-show-all =
+    .label = Afficher tous les marque-pages
 menu-bookmarks-all-tabs =
     .label = Marquer tous les onglets…
 menu-bookmarks-toolbar =
@@ -96,6 +111,9 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Modules complémentaires
     .accesskey = e
+menu-tools-sync-now =
+    .label = Synchroniser maintenant
+    .accesskey = S
 menu-tools-page-info =
     .label = Informations sur la page
     .accesskey = I
@@ -107,3 +125,6 @@ menu-window-menu =
 
 ## Help Menu
 
+menu-help-feedback-page =
+    .label = Donner votre avis…
+    .accesskey = D
