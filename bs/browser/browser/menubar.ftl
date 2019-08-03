@@ -233,6 +233,9 @@ menu-preferences =
             [windows] O
            *[other] P
         }
+menu-tools-layout-debugger =
+    .label = Debager layouta
+    .accesskey = L
 
 ## Window Menu
 
