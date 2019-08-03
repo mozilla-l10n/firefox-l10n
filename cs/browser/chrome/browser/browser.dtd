@@ -62,7 +62,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printSetupCmd.accesskey "V">
 <!ENTITY printPreviewCmd.label "Náhled tisku">
 <!ENTITY printPreviewCmd.accesskey "h">
-<!ENTITY printCmd.label "Tisk…">
+<!ENTITY printCmd.label "Vytisknout stránku…">
 <!ENTITY printCmd.accesskey "T">
 <!ENTITY printCmd.commandkey "p">
 <!ENTITY importFromAnotherBrowserCmd.label "Importovat z jiného prohlížeče…">
@@ -359,7 +359,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "N">
 <!ENTITY viewSidebarMenu.label "Postranní lišta">
 <!ENTITY viewSidebarMenu.accesskey "P">
-<!ENTITY viewCustomizeToolbar.label       "Nastavit tlačítka a lišty…">
+<!ENTITY viewCustomizeToolbar.label       "Nastavení tlačítek a lišt…">
 <!ENTITY viewCustomizeToolbar.accesskey     "V">
 <!ENTITY overflowCustomizeToolbar.label       "Nastavit tlačítka a lišty…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "N">
