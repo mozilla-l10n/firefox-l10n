@@ -5,15 +5,27 @@
 
 ## File Menu
 
+menu-file-new-window =
+    .label = Ifestile entsha
+    .accesskey = I
 menu-file-new-private-window =
     .label = Ifestile yangasese entsha
     .accesskey = I
 menu-file-open-file =
     .label = Vula ifayile…
     .accesskey = V
+menu-file-close-window =
+    .label = Vala iFestile
+    .accesskey = s
+menu-file-save-page =
+    .label = Gcina iphepha njenge…
+    .accesskey = n
 menu-file-email-link =
     .label = Ikhonkco leimeyile…
     .accesskey = l
+menu-file-print-setup =
+    .label = Ukuseta Kwephepha…
+    .accesskey = s
 menu-file-print-preview =
     .label = Imbonakalo yangaphambi kokuprinta
     .accesskey = m
@@ -26,6 +38,9 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit-find-on =
+    .label = Fumana kweli phepha…
+    .accesskey = F
 menu-edit-find-again =
     .label = Fumana kwakhona
     .accesskey = k
@@ -38,11 +53,16 @@ menu-edit-bidi-switch-text-direction =
 menu-view-sidebar =
     .label = Ibha yasecaleni
     .accesskey = i
+menu-view-bookmarks =
+    .label = Iibhukhmakhi
 menu-view-full-zoom =
     .label = Yandisa/nciphisa
     .accesskey = Y
 menu-view-full-zoom-enlarge =
     .label = Sondeza Kufuphi
+    .accesskey = K
+menu-view-full-zoom-reduce =
+    .label = Bhekelisela Kudana
     .accesskey = K
 menu-view-full-zoom-reset =
     .label = Seta kwakhona
@@ -54,6 +74,12 @@ menu-view-full-zoom-toggle =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Ngenisa isikrini esizeleyo
+    .accesskey = i
+menu-view-exit-full-screen =
+    .label = Phuma kwisikrini esizeleyo
+    .accesskey = k
 menu-view-full-screen =
     .label = Isikrini esiZeleyo
     .accesskey = I
@@ -95,6 +121,15 @@ menu-tools-downloads =
 menu-tools-sync-now =
     .label = Ngqamanisa ngoku
     .accesskey = N
+menu-tools-web-developer =
+    .label = Umphuhlisi-webhu
+    .accesskey = U
+menu-tools-page-source =
+    .label = Umthombo wephepha
+    .accesskey = m
+menu-tools-page-info =
+    .label = Inkcazelo yephepha
+    .accesskey = y
 
 ## Window Menu
 
