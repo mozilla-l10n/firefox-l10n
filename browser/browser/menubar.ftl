@@ -190,6 +190,8 @@ menu-bookmarks-toolbar =
     .label = របារ​ឧបករណ៍​ចំណាំ
 menu-bookmarks-other =
     .label = ចំណាំ​ផ្សេង​ៗ​ទៀត
+menu-bookmarks-mobile =
+    .label = ចំណាំ​ចល័ត
 
 ## Tools Menu
 
