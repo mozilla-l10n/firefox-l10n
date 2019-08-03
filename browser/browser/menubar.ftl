@@ -5,9 +5,15 @@
 
 ## File Menu
 
+menu-file =
+    .label = Fitxategia
+    .accesskey = F
 menu-file-new-tab =
     .label = Fitxa berria
     .accesskey = t
+menu-file-new-container-tab =
+    .label = Edukiontzi-fitxa berria
+    .accesskey = E
 menu-file-new-window =
     .label = Leiho berria
     .accesskey = L
@@ -22,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Ireki fitxategia…
     .accesskey = f
+menu-file-close =
+    .label = Itxi
+    .accesskey = x
 menu-file-close-window =
     .label = Itxi leihoa
     .accesskey = h
@@ -46,6 +55,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Editatu
+    .accesskey = E
+menu-edit-undo =
+    .label = Desegin
+    .accesskey = D
+menu-edit-redo =
+    .label = Berregin
+    .accesskey = r
+menu-edit-cut =
+    .label = Ebaki
+    .accesskey = E
+menu-edit-copy =
+    .label = Kopiatu
+    .accesskey = K
+menu-edit-paste =
+    .label = Itsatsi
+    .accesskey = I
+menu-edit-delete =
+    .label = Ezabatu
+    .accesskey = z
+menu-edit-select-all =
+    .label = Hautatu dena
+    .accesskey = a
 menu-edit-find-on =
     .label = Bilatu orri honetan…
     .accesskey = B
@@ -58,6 +91,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Ikusi
+    .accesskey = I
+menu-view-toolbars-menu =
+    .label = Tresna-barrak
+    .accesskey = T
+menu-view-customize-toolbar =
+    .label = Pertsonalizatu…
+    .accesskey = P
 menu-view-sidebar =
     .label = Alboko barra
     .accesskey = A
@@ -65,6 +107,8 @@ menu-view-bookmarks =
     .label = Laster-markak
 menu-view-history-button =
     .label = Historia
+menu-view-synced-tabs-sidebar =
+    .label = Sinkronizatutako fitxak
 menu-view-full-zoom =
     .label = Zooma
     .accesskey = Z
@@ -89,6 +133,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Oinarrizko orri-estiloa
     .accesskey = O
+menu-view-charset =
+    .label = Testuaren kodeketa
+    .accesskey = k
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -117,8 +164,12 @@ menu-view-bidi-switch-page-direction =
 menu-history =
     .label = Historia
     .accesskey = H
+menu-history-show-all-history =
+    .label = Erakutsi historia guztia
 menu-history-clear-recent-history =
     .label = Garbitu azken historia…
+menu-history-synced-tabs =
+    .label = Sinkronizatutako fitxak
 menu-history-restore-last-session =
     .label = Berreskuratu aurreko saioa
 menu-history-undo-menu =
@@ -137,15 +188,25 @@ menu-bookmarks-all-tabs =
     .label = Egin fitxa guztien laster-marka…
 menu-bookmarks-toolbar =
     .label = Laster-marken tresna-barra
+menu-bookmarks-other =
+    .label = Beste laster-markak
+menu-bookmarks-mobile =
+    .label = Mugikorreko laster-markak
 
 ## Tools Menu
 
+menu-tools =
+    .label = Tresnak
+    .accesskey = T
 menu-tools-downloads =
     .label = Deskargak
     .accesskey = D
 menu-tools-addons =
     .label = Gehigarriak
     .accesskey = G
+menu-tools-sync-sign-in =
+    .label = Hasi saioa { -sync-brand-short-name }(e)n…
+    .accesskey = Y
 menu-tools-sync-now =
     .label = Sinkronizatu orain
     .accesskey = S
@@ -161,6 +222,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Orriaren informazioa
     .accesskey = i
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Aukerak
+           *[other] Hobespenak
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] A
+           *[other] n
+        }
 
 ## Window Menu
 
@@ -174,6 +246,12 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Laguntza
     .accesskey = L
+menu-help-product =
+    .label = { -brand-shorter-name }(r)en laguntza
+    .accesskey = l
+menu-help-show-tour =
+    .label = { -brand-shorter-name }(r)en itzulia
+    .accesskey = u
 menu-help-keyboard-shortcuts =
     .label = Laster-teklak
     .accesskey = s
@@ -186,3 +264,12 @@ menu-help-feedback-page =
 menu-help-safe-mode-without-addons =
     .label = Berrabiarazi gehigarriak desgaituta…
     .accesskey = r
+menu-help-safe-mode-with-addons =
+    .label = Berrabiarazi gehigarriak gaituta
+    .accesskey = r
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Eman gune iruzurtiaren berri…
+    .accesskey = i
