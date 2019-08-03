@@ -5,18 +5,32 @@
 
 ## File Menu
 
+menu-file =
+    .label = Dataja
+    .accesskey = D
 menu-file-new-tab =
     .label = Nowy rejtark
     .accesskey = r
+menu-file-new-container-tab =
+    .label = Nowy kontejnerowy rejtark
+    .accesskey = k
 menu-file-new-window =
     .label = Nowe wokno
     .accesskey = N
 menu-file-new-private-window =
     .label = Nowe priwatne wokno
     .accesskey = r
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Adresu wócyniś…
 menu-file-open-file =
     .label = Dataju wócyniś…
     .accesskey = D
+menu-file-close =
+    .label = Zacyniś
+    .accesskey = Z
 menu-file-close-window =
     .label = Wokno zacyniś
     .accesskey = z
@@ -41,6 +55,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Wobźełaś
+    .accesskey = b
+menu-edit-undo =
+    .label = Anulěrowaś
+    .accesskey = A
+menu-edit-redo =
+    .label = Wóspjetowaś
+    .accesskey = s
+menu-edit-cut =
+    .label = Wurězaś
+    .accesskey = r
+menu-edit-copy =
+    .label = Kopěrowaś
+    .accesskey = K
+menu-edit-paste =
+    .label = Zasajźiś
+    .accesskey = Z
+menu-edit-delete =
+    .label = Lašowaś
+    .accesskey = L
+menu-edit-select-all =
+    .label = Wšykno wubraś
+    .accesskey = u
 menu-edit-find-on =
     .label = Na toś tom boku pytaś…
     .accesskey = t
@@ -53,6 +91,15 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Naglěd
+    .accesskey = N
+menu-view-toolbars-menu =
+    .label = Symbolowe rědki
+    .accesskey = S
+menu-view-customize-toolbar =
+    .label = Pśiměriś…
+    .accesskey = m
 menu-view-sidebar =
     .label = Bócnica
     .accesskey = B
@@ -60,6 +107,8 @@ menu-view-bookmarks =
     .label = Cytańske znamjenja
 menu-view-history-button =
     .label = Historija
+menu-view-synced-tabs-sidebar =
+    .label = Synchronizěrowane rejtarki
 menu-view-full-zoom =
     .label = Skalěrowaś
     .accesskey = k
@@ -84,6 +133,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Zakładny stil boka
     .accesskey = k
+menu-view-charset =
+    .label = Tekstowe koděrowanje
+    .accesskey = d
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -116,6 +168,8 @@ menu-history-show-all-history =
     .label = Wšu historiju pokazaś
 menu-history-clear-recent-history =
     .label = Aktualnu historiju wuprozniś…
+menu-history-synced-tabs =
+    .label = Synchronizěrowane rejtarki
 menu-history-restore-last-session =
     .label = Pjerwjejšne pósejźenje wótnowiś
 menu-history-undo-menu =
@@ -128,19 +182,31 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Cytańske znamjenja
     .accesskey = C
+menu-bookmarks-show-all =
+    .label = Wše cytańske znamjenja pokazaś
 menu-bookmarks-all-tabs =
     .label = Wšykne rejtarki ako cytańske znamjenja…
 menu-bookmarks-toolbar =
     .label = Rědka cytańskich znamjenjow
+menu-bookmarks-other =
+    .label = Druge cytańske znamjenja
+menu-bookmarks-mobile =
+    .label = Mobilne cytańske znamjenja
 
 ## Tools Menu
 
+menu-tools =
+    .label = Rědy
+    .accesskey = R
 menu-tools-downloads =
     .label = Ześěgnjenja
     .accesskey = Z
 menu-tools-addons =
     .label = Dodanki
     .accesskey = D
+menu-tools-sync-sign-in =
+    .label = Pla { -sync-brand-short-name } pśizjawiś…
+    .accesskey = P
 menu-tools-sync-now =
     .label = Něnto synchronizěrowaś
     .accesskey = N
@@ -156,6 +222,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Info wó boku
     .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Nastajenja
+           *[other] Nastajenja
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] N
+           *[other] N
+        }
 
 ## Window Menu
 
@@ -169,12 +246,30 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Pomoc
     .accesskey = P
+menu-help-product =
+    .label = { -brand-shorter-name } - Pomoc
+    .accesskey = m
+menu-help-show-tour =
+    .label = { -brand-shorter-name } - Tura
+    .accesskey = T
 menu-help-keyboard-shortcuts =
     .label = Tastowe skrotconki
     .accesskey = T
+menu-help-troubleshooting-info =
+    .label = Informacije za rozwězowanje problemow
+    .accesskey = I
 menu-help-feedback-page =
     .label = Pósudk pósłaś…
     .accesskey = P
 menu-help-safe-mode-without-addons =
     .label = Ze znjemóžnjonymi dodankami znowego startowaś…
     .accesskey = Z
+menu-help-safe-mode-with-addons =
+    .label = Ze zmóžnjonymi dodankami znowego startowaś
+    .accesskey = Z
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Wobšudnikojske sedło k wěsći daś…
+    .accesskey = b
