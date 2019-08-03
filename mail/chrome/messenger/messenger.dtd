@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "V">
 <!ENTITY folderPaneBar.label "Barra degli strumenti del pannello delle cartelle">
 <!ENTITY folderPaneBar.accesskey "B">
-<!ENTITY folderModeSelector.label "Vista cartella">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ordina per">
@@ -587,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Sposta il messaggio selezionato">
 <!ENTITY archiveButton.tooltip "Archivia i messaggi selezionati">
 <!ENTITY openConversationButton.tooltip "Visualizza conversazione di questo messaggio">
+<!ENTITY openMsgConversationButton.tooltip "Mostra conversazione di questo messaggio">
 <!ENTITY nextButton.tooltip "Vai al messaggio successivo non letto">
 <!ENTITY nextMsgButton.tooltip "Passa al messaggio successivo">
 <!ENTITY previousButton.tooltip "Vai al precedente messaggio non letto ">
@@ -605,7 +605,6 @@
 <!ENTITY tagButton.tooltip "Applica un'etichetta ai messaggi">
 <!ENTITY compactButton.tooltip "Compatta le cartelle">
 <!ENTITY appmenuButton1.tooltip "Mostra il menu di &brandShortName;">
-
 <!ENTITY addonsButton.tooltip "Gestisci i tuoi componenti aggiuntivi">
 
 <!-- Toolbar Button Popup -->
