@@ -43,6 +43,7 @@ login-list-item-subtitle-missing-username = （无用户名）
 
 ## Introduction screen
 
+login-intro-instruction-faq = 若需帮助，可参阅 { -lockwise-brand-short-name } <a data-l10n-name="faq">常见问题</a>
 
 ## Login
 
@@ -94,6 +95,9 @@ enable-password-sync-preferences-button =
 confirm-delete-dialog-title = 删除此登录信息？
 confirm-delete-dialog-message = 此操作不可撤销。
 confirm-delete-dialog-confirm-button = 删除
+confirm-discard-changes-dialog-title = 要丢弃未保存的更改吗？
+confirm-discard-changes-dialog-message = 将失去所有未保存的更改。
+confirm-discard-changes-dialog-confirm-button = 丢弃
 
 ## Breach Alert notification
 
