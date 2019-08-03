@@ -5,12 +5,17 @@
 
 ## File Menu
 
+menu-file-close =
+    .label = Nakasɨ
+    .accesskey = C
 
 ## Edit Menu
 
 
 ## View Menu
 
+menu-view-history-button =
+    .label = Sɨ´ɨ
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -21,12 +26,26 @@
 
 ## History Menu
 
+menu-history =
+    .label = Sɨ´ɨ
+    .accesskey = s
+menu-history-show-all-history =
+    .label = Tuvi kuaiyo sɨ´ɨ
 
 ## Bookmarks Menu
 
 
 ## Tools Menu
 
+menu-tools-downloads =
+    .label = Daa nxinú
+    .accesskey = D
+menu-tools-addons =
+    .label = Ka̱a̱ chunta´an
+    .accesskey = C
+menu-tools-web-developer =
+    .label = Ñivɨ sa´a Web
+    .accesskey = W
 
 ## Window Menu
 
