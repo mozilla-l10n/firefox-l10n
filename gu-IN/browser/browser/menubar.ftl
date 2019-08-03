@@ -22,6 +22,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = ફાઈલ ખોલો...
     .accesskey = O
+menu-file-save-page =
+    .label = આ રીતે પૃષ્ઠ સાચવો ...
+    .accesskey = A
 menu-file-email-link =
     .label = ઇમેલ કડી…
     .accesskey = E
@@ -106,6 +109,8 @@ menu-history-undo-window-menu =
 
 ## Bookmarks Menu
 
+menu-bookmarks-toolbar =
+    .label = બુકમાર્ક્સ ટૂલબાર
 
 ## Tools Menu
 
@@ -129,12 +134,17 @@ menu-tools-page-source =
 
 menu-window-menu =
     .label = વિન્ડો
+menu-window-bring-all-to-front =
+    .label = બધાને આગળ લાવો
 
 ## Help Menu
 
 menu-help =
     .label = મદદ
     .accesskey = H
+menu-help-keyboard-shortcuts =
+    .label = કીબોર્ડ શૉર્ટકટ્સ
+    .accesskey = K
 menu-help-troubleshooting-info =
     .label = મુશ્કેલીનિવારણ જાણકારી
     .accesskey = T
