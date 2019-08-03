@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file =
+    .label = Датотека
+    .accesskey = Д
 menu-file-new-tab =
     .label = Ново јазиче
     .accesskey = ј
@@ -25,6 +28,9 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Отвори датотека…
     .accesskey = О
+menu-file-close =
+    .label = Затвори
+    .accesskey = т
 menu-file-close-window =
     .label = Затвори го прозорецот
     .accesskey = п
@@ -49,6 +55,30 @@ menu-file-go-offline =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Уредување
+    .accesskey = е
+menu-edit-undo =
+    .label = Врати
+    .accesskey = р
+menu-edit-redo =
+    .label = Повтори
+    .accesskey = о
+menu-edit-cut =
+    .label = Отсечи
+    .accesskey = с
+menu-edit-copy =
+    .label = Копирај
+    .accesskey = К
+menu-edit-paste =
+    .label = Залепи
+    .accesskey = З
+menu-edit-delete =
+    .label = Избриши
+    .accesskey = И
+menu-edit-select-all =
+    .label = Избери сè
+    .accesskey = е
 menu-edit-find-on =
     .label = Пронајди во оваа страница…
     .accesskey = р
@@ -61,6 +91,12 @@ menu-edit-bidi-switch-text-direction =
 
 ## View Menu
 
+menu-view =
+    .label = Поглед
+    .accesskey = г
+menu-view-toolbars-menu =
+    .label = Алатници
+    .accesskey = А
 menu-view-customize-toolbar =
     .label = Прилагоди…
     .accesskey = р
@@ -156,6 +192,9 @@ menu-bookmarks-mobile =
 
 ## Tools Menu
 
+menu-tools =
+    .label = Алатки
+    .accesskey = т
 menu-tools-downloads =
     .label = Преземања
     .accesskey = р
@@ -180,6 +219,17 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Информации за страницата
     .accesskey = И
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Опции
+           *[other] Поставки
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] О
+           *[other] ф
+        }
 
 ## Window Menu
 
