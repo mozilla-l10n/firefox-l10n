@@ -14,6 +14,9 @@ menu-file-close-window =
 menu-file-save-page =
     .label = Sie Krataafa Sɛ…
     .accesskey = S
+menu-file-email-link =
+    .label = Emel link…
+    .accesskey = E
 menu-file-print-setup =
     .label = Krataafa Sɛtɔp…
     .accesskey = p
@@ -70,6 +73,12 @@ menu-view-page-basic-style =
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Wura skreen tɛtrɛtɛɛ mood mu
+    .accesskey = t
+menu-view-exit-full-screen =
+    .label = Pue firi skreen tɛtrɛtɛɛ mood mu
+    .accesskey = t
 menu-view-full-screen =
     .label = Skreen Tɛtrɛtɛɛ
     .accesskey = t
@@ -131,6 +140,9 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Mboa
     .accesskey = M
+menu-help-keyboard-shortcuts =
+    .label = Kibɔd kwantia
+    .accesskey = K
 menu-help-troubleshooting-info =
     .label = Hawyi ho infɔmehyɛn
     .accesskey = H
