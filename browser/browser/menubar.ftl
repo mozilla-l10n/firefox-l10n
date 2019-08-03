@@ -49,6 +49,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Skriv ut…
     .accesskey = u
+menu-file-import-from-another-browser =
+    .label = Importera från en annan webbläsare…
+    .accesskey = m
 menu-file-go-offline =
     .label = Arbeta nedkopplad
     .accesskey = b
@@ -172,6 +175,8 @@ menu-history-synced-tabs =
     .label = Synkade flikar
 menu-history-restore-last-session =
     .label = Återställ föregående session
+menu-history-hidden-tabs =
+    .label = Dolda flikar
 menu-history-undo-menu =
     .label = Nyligen stängda flikar
 menu-history-undo-window-menu =
@@ -190,6 +195,8 @@ menu-bookmarks-toolbar =
     .label = Bokmärkesfältet
 menu-bookmarks-other =
     .label = Andra bokmärken
+menu-bookmarks-mobile =
+    .label = Mobila bokmärken
 
 ## Tools Menu
 
