@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file-go-offline =
+    .label = Gweithio All-lein
+    .accesskey = w
 
 ## Edit Menu
 
@@ -15,6 +18,12 @@ menu-view-bookmarks =
     .label = Nodau Tudalen
 menu-view-history-button =
     .label = Hanes
+menu-view-full-zoom =
+    .label = Chwyddo
+    .accesskey = h
+menu-view-full-zoom-reset =
+    .label = Ailosod
+    .accesskey = i
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -22,6 +31,9 @@ menu-view-history-button =
 
 ##
 
+menu-view-show-all-tabs =
+    .label = Dangos Pob Tab
+    .accesskey = a
 
 ## History Menu
 
@@ -43,6 +55,15 @@ menu-bookmarks-toolbar =
 
 ## Tools Menu
 
+menu-tools-sync-now =
+    .label = Cydweddu Nawr
+    .accesskey = y
+menu-tools-web-developer =
+    .label = Datblygwr Gwe
+    .accesskey = D
+menu-tools-page-source =
+    .label = Cod Gwreiddiol y Dudalen
+    .accesskey = o
 
 ## Window Menu
 
@@ -56,3 +77,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Cymorth
     .accesskey = C
+menu-help-troubleshooting-info =
+    .label = Gwybodaeth am Ddatrys Problemau
+    .accesskey = G
