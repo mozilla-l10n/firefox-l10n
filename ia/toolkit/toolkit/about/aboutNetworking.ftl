@@ -57,3 +57,11 @@ rcwn-avg-long = Media longe
 rcwn-std-dev-long = Deviation standard longe
 rcwn-cache-slow = Contage lente de cache
 rcwn-cache-not-slow = Contage non lente de cache
+networkid = ID de rete
+networkid-id = ID de rete
+
+## Link is intended as "network link"
+
+
+
+

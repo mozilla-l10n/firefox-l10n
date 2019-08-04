@@ -102,6 +102,8 @@ about-telemetry-no-search-results-all = Pardono! Il ha nulle resultato in ulle s
 about-telemetry-no-data-to-display = Pardono! Il ha actualmente nulle datos disponibile in “{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = ping actual
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = datos actual
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = toto
 # button label to copy the histogram
