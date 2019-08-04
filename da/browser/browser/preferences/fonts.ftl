@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Skrifttyper
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Skrifttyper for
     .accesskey = f
+
 fonts-langgroup-arabic =
     .label = Arabisk
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proportional
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Størrelse
     .accesskey = ø
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Monospatieret
     .accesskey = M
+
 fonts-monospace-size = Størrelse
     .accesskey = r
+
 fonts-minsize = Minimum skriftstørrelse
     .accesskey = i
+
 fonts-minsize-none =
     .label = Ingen
+
 fonts-allow-own =
     .label = Tillad sider at vælge deres egne skrifttyper i stedet for mine valg
     .accesskey = T
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Tegnkodning for indhold
 fonts-languages-fallback-desc = Denne tegnkodning bruges for indhold, som mangler en erklæring om tegnkodning.
+
 fonts-languages-fallback-label = Standardtegnkodning
     .accesskey = e
+
 fonts-languages-fallback-name-auto =
     .label = Standard for aktuelt sprog
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamesisk
 fonts-languages-fallback-name-other =
     .label = Andre (incl. vest-europæisk)
-fonts-very-large-warning-title = Stor minimum-skriftstørrelse
-fonts-very-large-warning-message = Du har valgt en meget stor minimum-skriftstørrelse (større end 24 pixels). Det kan gøre det svært eller umuligt at ændre vigtige indstillinger.
-fonts-very-large-warning-accept = Behold mine ændringer alligevel
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

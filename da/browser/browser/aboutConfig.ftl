@@ -8,16 +8,11 @@ about-config-warning-text = Ved at ændre disse avancerede indstillinger kan du 
 about-config-warning-checkbox = Advar mig en anden gang
 about-config-warning-button = Jeg ved, hvad jeg laver
 
-about-config-title = about:config
-
 about-config2-title = Avancerede indstillinger
 
 about-config-search-input =
     .placeholder = Søg
 about-config-show-all = Vis alle
-
-about-config-search =
-    .placeholder = Søg eller tryk på ESC for at vise alle
 
 about-config-pref-add = Tilføj
 about-config-pref-toggle = Skift

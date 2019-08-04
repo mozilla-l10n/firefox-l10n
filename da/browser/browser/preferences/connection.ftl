@@ -89,17 +89,6 @@ connection-dns-over-https =
     .label = Aktiver DNS via HTTPS
     .accesskey = H
 
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = URL til DNS-opslag via HTTPS
-
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = Brug ({ $url }) som standard
-    .accesskey = B
-    .tooltiptext = Brug standard-URL'en til DNS-opslag over HTTPS
-
 connection-dns-over-https-url-resolver = Brug leverandør
     .accesskey = l
 
