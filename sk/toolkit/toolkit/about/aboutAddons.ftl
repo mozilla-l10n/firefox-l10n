@@ -160,9 +160,6 @@ private-browsing-description2 =
     Rozšírenia tak nebudú mať bez vášho vedomia prístup k tomu, čo robíte v súkromnom prehliadaní. 
     Týmto krokom sa snažíme zvýšiť vaše súkromie.
     <label data-l10n-name="private-browsing-learn-more">Ďalšie informácie o správe rozšírení.</label>
-extensions-view-discover =
-    .name = Získať doplnky
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Odporúčania
     .tooltiptext = { extensions-view-discopane.name }
@@ -346,10 +343,25 @@ addon-detail-updates-radio-on = Zapnuté
 addon-detail-updates-radio-off = Vypnuté
 addon-detail-update-check-label = Vyhľadať aktualizácie
 install-update-button = Aktualizovať
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Povolené v súkromných oknách
 addon-detail-private-browsing-help = Povolené rozšírenia majú prístup k vašim aktivitám na internete v súkromných oknách. <a data-l10n-name="learn-more">Ďalšie informácie</a>
 addon-detail-private-browsing-allow = Povoliť
 addon-detail-private-browsing-disallow = Nepovoliť
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Odporúčané rozšírenie
+    .alt = Odporúčané rozšírenie
+available-updates-heading = K dispozícii je aktualizácia
 recent-updates-heading = Naposledy aktualizované
 release-notes-loading = Načítava sa…
 release-notes-error = Pri načítaní poznámok k vydaniu sa vyskytla chyba.
 addon-permissions-empty = Toto rozšírenie nevyžaduje žiadne povolenia
+recommended-extensions-heading = Odporúčané rozšírenia
+recommended-themes-heading = Odporúčané témy vzhľadu
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Ste tvoriví? <a data-l10n-name="link">Vytvorte si svoju vlastnú tému vzhľadu pomocou Firefox Color.</a>

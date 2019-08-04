@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Späť
 customize-mode-lwthemes-my-themes =
     .value = Moje témy
+customize-mode-touchbar-cmd =
+    .label = Prispôsobiť touch bar…
