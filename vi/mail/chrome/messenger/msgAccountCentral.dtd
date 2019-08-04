@@ -12,6 +12,8 @@
 <!ENTITY feedsSectionHdr.label        "Nguồn cấp">
 <!ENTITY subscribeFeeds.label         "Quản lí đăng kí">
 
+<!ENTITY chat.label                   "Trò chuyện">
+<!ENTITY movemail.label               "Movemail">
 
 <!ENTITY accountsSectionHdr.label     "Tài khoản">
 <!ENTITY subscribeImapFolders.label   "Quản lí phần đăng kí thư mục">
