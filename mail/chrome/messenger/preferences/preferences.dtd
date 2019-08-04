@@ -19,6 +19,7 @@
 <!ENTITY paneAttachments.title    "Đính kèm">
 <!ENTITY panePrivacy.title        "Riêng tư">
 <!ENTITY paneSecurity.title       "Bảo mật">
+<!ENTITY panePrivacySecurity.title "Riêng tư &amp; Bảo mật">
 <!ENTITY paneLightning.title      "Lịch">
 <!ENTITY paneAdvanced.title       "Nâng cao">
 <!ENTITY paneAccount.title        "Tài khoản">

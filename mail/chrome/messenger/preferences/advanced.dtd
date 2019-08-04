@@ -14,6 +14,7 @@
 <!ENTITY languageSelector.label        "Ngôn ngữ">
 <!ENTITY allowHWAccel.label            "Sử dụng chế độ tăng tốc phần cứng khi khả dụng">
 <!ENTITY allowHWAccel.accesskey        "h">
+<!ENTITY storeType.label               "Kiểu lưu trữ thư cho tài khoản mới:">
 <!ENTITY storeType.accesskey           "T">
 <!ENTITY mboxStore2.label              "Tập tin trên mỗi thư mục (mbox)">
 <!ENTITY maildirStore.label            "Tập tin trên mỗi thư (maildir)">
@@ -37,7 +38,9 @@
 <!ENTITY showReturnReceipts.accesskey  "R">
 
 <!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Telemetry">
 <!ENTITY telemetryDesc.label             "Chia sẻ hiệu suất, cách sử dụng, phần cứng và dữ liệu tùy chỉnh về ứng dụng email khách của bạn với &vendorShortName; để giúp chúng tôi làm cho &brandShortName; tốt hơn">
+<!ENTITY enableTelemetry.label           "Bật Telemetry">
 <!ENTITY enableTelemetry.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "Tìm hiểu thêm">
 
@@ -119,3 +122,5 @@
 
 <!ENTITY manageCertificates2.label "Quản lý chứng chỉ…">
 <!ENTITY manageCertificates2.accesskey "M">
+<!ENTITY viewSecurityDevices2.label "Thiết bị bảo mật…">
+<!ENTITY viewSecurityDevices2.accesskey "D">

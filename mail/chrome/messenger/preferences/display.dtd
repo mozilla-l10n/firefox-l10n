@@ -49,6 +49,7 @@
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Đọc">
 <!ENTITY display.caption                  "Hiển thị">
+<!ENTITY displayName.label                "Tên hiển thị:">
 <!ENTITY showCondensedAddresses.label     "Chỉ hiển thị tên cho những người trong sổ địa chỉ của tôi">
 <!ENTITY showCondensedAddresses.accesskey "S">
 

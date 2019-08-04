@@ -3,19 +3,27 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "Thiết lập tài khoản email hiện có">
+
+<!ENTITY emailWizard.title               "Thiết lập địa chỉ email hiện tại của bạn">
+<!ENTITY emailWizard.caption             "Sử dụng địa chỉ email hiện tại của bạn">
 <!ENTITY name.label                      "Tên của bạn:">
 <!ENTITY name.accesskey                  "T">
 <!ENTITY name.placeholder                "Tên Họ">
+<!ENTITY fullname.placeholder            "Tên đầy đủ của bạn">
 <!ENTITY name.text                       "Tên của bạn, cho người khác thấy">
+<!ENTITY name.error                      "Vui lòng nhập tên của bạn">
 <!ENTITY email.label                     "Địa chỉ email:">
 <!ENTITY email.accesskey                 "l">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "you@example.com">
+<!ENTITY email3.placeholder              "Địa chỉ email của bạn">
 <!ENTITY email.text                      "Địa chỉ thư điện tử hiện tại của bạn">
+<!ENTITY email.error                     "Địa chỉ email không hợp lệ">
 <!ENTITY password.label                  "Mật khẩu:">
 <!ENTITY password.accesskey              "M">
 <!ENTITY password.placeholder            "Mật khẩu">
 <!ENTITY password.text                   "Phụ, chỉ sẽ được dùng để kiểm tra tên đăng nhập">
+<!ENTITY password.toggle                 "Hiện/ẩn mật khẩu">
 <!ENTITY rememberPassword.label          "Ghi nhớ mật khẩu">
 <!ENTITY rememberPassword.accesskey      "G">
 <!ENTITY usernameEx.label                "Tên đăng nhập của bạn:">
@@ -25,15 +33,21 @@
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 <!ENTITY usernameEx.text                 "Đăng nhập tên miền">
 
+<!ENTITY protocol.label                  "Giao thức:">
 <!ENTITY imapLong.label                  "IMAP (các thư mục từ xa)">
 <!ENTITY pop3Long.label                  "POP3 (giữ thư trên máy tính của bạn)">
 
 <!ENTITY incoming.label                  "Đến:">
+<!ENTITY incomingColumn.label            "Hộp thư đến">
 <!ENTITY outgoing.label                  "Đi:">
+<!ENTITY outgoingColumn.label            "Hộp thư đi">
 <!ENTITY username.label                  "Tên đăng nhập:">
 <!ENTITY hostname.label                  "Tên máy chủ">
 <!ENTITY port.label                      "Cổng">
 <!ENTITY ssl.label                       "SSL">
+<!ENTITY serverRow.label                 "Máy chủ:">
+<!ENTITY portRow.label                   "Cổng:">
+<!ENTITY sslRow.label                    "SSL:">
 <!ENTITY auth.label                      "Xác minh">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
@@ -59,15 +73,21 @@
 <!ENTITY stop.label                      "Dừng">
 <!ENTITY stop.accesskey                  "D">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Kiểm tra lại">
 <!ENTITY half-manual-test.accesskey      "K">
 <!ENTITY manual-edit.label               "Cấu hình thủ công">
 <!ENTITY manual-edit.accesskey           "M">
+<!ENTITY manual-config.label             "Cấu hình thủ công…">
+<!ENTITY manual-config.accesskey         "M">
 <!ENTITY open-provisioner.label          "Tạo địa chỉ email mới…">
 <!ENTITY open-provisioner.accesskey      "g">
+
+
+<!ENTITY get-help.label                  "Nhận trợ giúp">
+<!ENTITY get-help.accesskey              "H">
 
 
 <!ENTITY warning.label                   "Cảnh báo!">
