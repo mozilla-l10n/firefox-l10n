@@ -6,11 +6,15 @@ about-logins-page-title = Hesaplar ve Parolalar
 login-filter =
     .placeholder = Hesaplarda ara
 create-login-button = Yeni hesap oluştur
+fxaccounts-sign-in-text = Parolalarınıza diğer cihazlarınızdan da ulaşın
+fxaccounts-sign-in-button = { -sync-brand-short-name }’e giriş yapın
 
 ## The ⋯ menu that is in the top corner of the page
 
 menu =
     .title = Menüyü aç
+# This menuitem is only visible on Windows
+menu-menuitem-import = Parolaları içe aktar…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Seçenekler
@@ -18,8 +22,8 @@ menu-menuitem-preferences =
     }
 menu-menuitem-feedback = Görüş gönder
 menu-menuitem-faq = Sıkça sorulan sorular
-menu-menuitem-download-android = Android için Lockwise
-menu-menuitem-download-iphone = iPhone ve iPad için Lockwise
+menu-menuitem-android-app = Android için { -lockwise-brand-short-name }
+menu-menuitem-iphone-app = iPhone ve iPad için { -lockwise-brand-short-name }
 
 ## Login List
 
@@ -34,9 +38,13 @@ login-list-sort-label-text = Sıralama:
 login-list-name-option = Ad (A-Z)
 login-list-last-changed-option = Son değişiklik
 login-list-last-used-option = Son kullanım
+login-list-intro-title = Hiç hesap bulunamadı
 login-list-item-title-new-login = Yeni hesap
 login-list-item-subtitle-new-login = Hesap bilgilerinizi girin
 login-list-item-subtitle-missing-username = (kullanıcı adı yok)
+
+## Introduction screen
+
 
 ## Login
 
