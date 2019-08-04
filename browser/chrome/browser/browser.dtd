@@ -850,6 +850,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Abrir preferencias de bloqueo de contenido">
 
 
+<!ENTITY protections.settings.label "Ajustes de protección">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -858,9 +859,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Desactiva las protecciones si tienes problemas con:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Campos de conexión">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Formularios">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Pagos">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Comentarios">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Videos">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "¿El sitio sigue sin funcionar después de desactivar las protecciones?">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Envía un reporte">
+
+<!ENTITY protections.blocking.label "Bloqueando">
+<!ENTITY protections.notBlocking.label "No bloqueando">
+<!ENTITY protections.notBlocking.why.label "¿Por qué?">
+<!ENTITY protections.socialMediaTrackers.label "Rastreadores de redes sociales">
+<!ENTITY protections.crossSiteTrackingCookies.label "Cookies de rastreo de sitios cruzados">
+<!ENTITY protections.trackingContent.label "Contenido de rastreo">
+<!ENTITY protections.fingerprinters.label "Creadores de huellas (Fingerprinters)">
+<!ENTITY protections.cryptominers.label "Criptomineros">
 
 
-
+<!ENTITY protections.manageProtectionSettings.label "Gestionar ajustes de protección">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -904,6 +922,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "Rastreadores">
 <!ENTITY contentBlocking.trackersView.strictInfo.label 'Para bloquear todos los rastreadores, ajusta el bloqueo de contenido a "Estricto".'>
 
+<!ENTITY contentBlocking.socialblock.label "Rastreadores de redes sociales">
+<!ENTITY contentBlocking.socialblockView.label "Rastreadores de redes sociales bloqueados">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies y datos de sitio">
@@ -918,8 +938,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Reportar problemas">
 <!ENTITY contentBlocking.breakageReportView2.description "El bloqueo de contenido puede causar problemas con algunos sitios. Cuando reportas problemas, ayudas a mejorar &brandShortName; para todos. (Esto enviará la URL junto con información de la configuración del navegador a Mozilla).">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Aprender más">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Aprender más">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "¿Qué problemas tuviste? (Opcional)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Opcional: Describe el problema">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Enviar reporte">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Cancelar">
 

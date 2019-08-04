@@ -150,9 +150,6 @@ legacy-extensions =
     .value = Extensiones heredadas
 legacy-extensions-description = Estas extensiones no cumplen con los estándares actuales de { -brand-short-name } por lo que han sido desactivadas. <label data-l10n-name="legacy-learn-more">Aprender más sobre los cambios a los complementos</label>
 private-browsing-description2 = { -brand-short-name } está cambiando cómo las extensiones funcionan en la navegación privada. Cualquier extensión nueva que añadas a { -brand-short-name } no será ejecutada por defecto en ventanas privadas. Salvo que la permitas en los ajustes, la extensión no funcionará durante la navegación privada y no tendrá acceso a tus actividades en línea realizadas allí. Hemos realizado este cambio para mantener privada tu navegación privada. <label data-l10n-name="private-browsing-learn-more">Aprende cómo gestionar los ajustes de extensiones.</label>
-extensions-view-discover =
-    .name = Obtener nuevos
-    .tooltiptext = Obtener complementos
 extensions-view-discopane =
     .name = Recomendaciones
     .tooltiptext = { extensions-view-discopane.name }
@@ -302,6 +299,16 @@ release-notes-addon-button = Notas de la versión
 permissions-addon-button = Permisos
 addons-enabled-heading = Activado
 addons-disabled-heading = Desactivado
+extension-enabled-heading = Activada
+extension-disabled-heading = Desactivada
+theme-enabled-heading = Activado
+theme-disabled-heading = Desactivado
+plugin-enabled-heading = Activada
+plugin-disabled-heading = Desactivada
+dictionary-enabled-heading = Activado
+dictionary-disabled-heading = Desactivado
+locale-enabled-heading = Activado
+locale-disabled-heading = Desactivado
 ask-to-activate-button = Preguntar para activar
 always-activate-button = Siempre activar
 never-activate-button = Nunca activar
