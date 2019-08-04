@@ -138,13 +138,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label; баптауларын ашу…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Кім ретінде кірген:">
 <!ENTITY fxa.menu.manageAccount.label "Тіркелгіні басқару…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; баптаулары…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Басқа құрылғыны байланыстыру…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!ENTITY fxa.menu.account.label "Тіркелгі">
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.launch "&sendShortName; жөнелту">
+<!ENTITY fxa.service.monitor.launch "&monitorShortName; жөнелту">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -188,6 +195,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "Барлық беттерді бетбелгілерге қосу…">
+
 <!ENTITY showAllBookmarks2.label "Барлық бетбелгілерді көрсету">
 <!ENTITY recentBookmarks.label "Соңынан қосылғандар">
 <!ENTITY otherBookmarksCmd.label "Басқа бетбелгілер">
@@ -310,6 +318,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Файл">
 <!ENTITY fileMenu.accesskey       "Ф">
+
 <!ENTITY newUserContext.label             "Жаңа контейнерлік бет">
 <!ENTITY newUserContext.accesskey         "к">
 <!ENTITY manageUserContext.label          "Контейнерлерді басқару">
@@ -359,6 +368,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "л">
 <!ENTITY viewSidebarMenu.label "Бүйір панелі">
 <!ENTITY viewSidebarMenu.accesskey "Б">
+
 <!ENTITY viewCustomizeToolbar.label       "Баптау…">
 <!ENTITY viewCustomizeToolbar.accesskey     "а">
 <!ENTITY overflowCustomizeToolbar.label       "Құралдар панелін баптау…">
@@ -372,6 +382,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Алдыңғы сессияны қалпына келтіру">
 
 <!ENTITY showAllHistoryCmd2.label "Бүкіл тарихты көрсету">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Бүкіл тарихты көрсету">
@@ -592,9 +603,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Сілтемені эл. поштамен жіберу…">
 <!ENTITY emailPageCmd.accesskey       "С">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Парақты қалайша сақтау…">
 <!ENTITY savePageCmd.accesskey        "а">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "т">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Фреймді қалайша сақтау…">
@@ -699,22 +710,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Үлкейту">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "л">
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Кішірейту">
 <!ENTITY fullZoomReduceCmd.accesskey    "ш">
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Тастау">
 <!ENTITY fullZoomResetCmd.accesskey     "Т">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Тек мәтінді масштабтау">
 <!ENTITY fullZoomToggleCmd.accesskey    "д">
+
 <!ENTITY fullZoom.label                 "Масштаб">
 <!ENTITY fullZoom.accesskey             "М">
 
@@ -732,6 +747,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Жабу">
+
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "Ж">
 
@@ -861,6 +877,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; ішіне кіру…">
 <!ENTITY syncSignIn.accesskey         "у">
+
 <!ENTITY syncSyncNowItem.label        "Қазір синхрондау">
 <!ENTITY syncSyncNowItemSyncing.label "Синхрондау…">
 <!ENTITY syncSyncNowItem.accesskey    "с">
