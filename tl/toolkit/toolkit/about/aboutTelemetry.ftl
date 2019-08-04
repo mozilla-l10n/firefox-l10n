@@ -90,6 +90,8 @@ about-telemetry-no-search-results-all = Ipagpaumanhin! Walang mga resulta sa kah
 about-telemetry-no-data-to-display = Ipagpaumanhin! Walang kasalukuyang mga datos na magagamit sa “{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = kasalukuyan na ping
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = kasalukuyang data
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = lahat
 # button label to copy the histogram

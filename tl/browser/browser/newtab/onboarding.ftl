@@ -82,7 +82,7 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Mag-browse nang mas mabilis, mas wais, o mas ligtas na may extensyon tulad ng Ghostery, na nahaharang ang mga nakakainis na patalastas.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
-onboarding-fxa-text = Sign up for a { -fxaccount-brand-name } and sync your bookmarks, passwords, and open tabs everywhere you use { -brand-short-name }.
+onboarding-fxa-text = Mag-sign up para sa isang { -fxaccount-brand-name } at i-sync ang iyong mga bookmark, mga password, at buksan ang mga tab kahit saan mo man gamitin ang { -brand-short-name }.
 onboarding-tracking-protection-title2 = Proteksyon mula sa Tracking
 onboarding-tracking-protection-text2 = Nakatutulong ang { -brand-short-name } para pigilan ang mga website sa pag-track sa iyo online, at ginagawa nitong mas mahirap para sa mga ad na sundan ka kahit saan magpunta sa web.
 onboarding-tracking-protection-button2 = Paano Gumagana

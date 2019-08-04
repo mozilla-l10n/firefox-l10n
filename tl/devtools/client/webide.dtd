@@ -106,6 +106,7 @@
 <!-- Device Preferences -->
 
 <!-- Device Settings -->
+<!ENTITY devicesetting_addnew "Magdagdag ng bagong setting">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog

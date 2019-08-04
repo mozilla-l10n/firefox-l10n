@@ -16,6 +16,8 @@ menu =
 menu-menuitem-import = Mag-import ng mga Password...
 menu-menuitem-feedback = Magbigay ng puna
 menu-menuitem-faq = Mga Kadalasang Tinatanong
+menu-menuitem-android-app = { -lockwise-brand-short-name } para sa Android
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } para sa iPhone at iPad
 
 ## Login List
 
@@ -30,6 +32,7 @@ login-list-sort-label-text = Pagsunodsunurin ayon sa:
 login-list-name-option = Pangalan (A-Z)
 login-list-last-changed-option = Huling Binago
 login-list-last-used-option = Huling Ginamit
+login-list-intro-title = Walang natagpuang mga login
 login-list-intro-description = Kapag nagse-save ka ng isang password sa { -brand-product-name }, lalabas iyon dito.
 login-list-item-title-new-login = Bagong Login
 login-list-item-subtitle-new-login = Ipasok ang iyong mga login credential
@@ -37,6 +40,7 @@ login-list-item-subtitle-missing-username = (walang username)
 
 ## Introduction screen
 
+login-intro-instruction-fxa = Gumawa ng o mag-sign in sa iyong { -fxaccount-brand-name } sa device kung saan naka-save ang mga login mo
 
 ## Login
 

@@ -8,6 +8,7 @@ profiles-create = Lumikha ng isang Bagong Profile
 profiles-restart-title = I-restart
 profiles-restart-in-safe-mode = I-restart na may Add-ons Disabled...
 profiles-restart-normal = I-restart ng pangkaraniwan...
+profiles-flush-conflict = { profiles-conflict }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profile: { $name }

@@ -17,6 +17,7 @@ abuse-report-cancel-button = Kanselahin
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-cancel = Kanselahin
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
