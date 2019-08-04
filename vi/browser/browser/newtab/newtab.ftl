@@ -47,6 +47,9 @@ newtab-topsites-add-button = Thêm
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Bạn có chắc bạn muốn xóa bỏ mọi thứ của trang này từ lịch sử?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Thao tác này không thể hoàn tác được.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Đánh dấu
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Sao chép địa chỉ tải xuống
 newtab-menu-go-to-download-page = Đi tới trang web tải xuống
 newtab-menu-remove-download = Xóa khỏi lịch sử
@@ -116,6 +123,10 @@ newtab-label-download = Đã tải xuống
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = Xoá mục
 newtab-section-menu-collapse-section = Thu gọn mục
 newtab-section-menu-expand-section = Mở rộng mục
@@ -126,6 +137,13 @@ newtab-section-menu-add-search-engine = Thêm công cụ tìm kiếm
 newtab-section-menu-move-up = Di chuyển lên
 newtab-section-menu-move-down = Di chuyển xuống
 newtab-section-menu-privacy-notice = Chính sách riêng tư
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Thu gọn mục
+newtab-section-expand-section-label =
+    .aria-label = Mở rộng mục
 
 ## Section Headers.
 

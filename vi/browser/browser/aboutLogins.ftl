@@ -6,6 +6,8 @@ about-logins-page-title = Đăng nhập & mật khẩu
 login-filter =
     .placeholder = Tìm kiếm thông tin đăng nhập
 create-login-button = Tạo đăng nhập mới
+fxaccounts-sign-in-text = Nhận mật khẩu của bạn trên các thiết bị khác của bạn
+fxaccounts-sign-in-button = Đăng nhập vào { -sync-brand-short-name }
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -20,8 +22,8 @@ menu-menuitem-preferences =
     }
 menu-menuitem-feedback = Gửi phản hồi
 menu-menuitem-faq = Các câu hỏi thường gặp
-menu-menuitem-download-android = Lockwise dành cho Android
-menu-menuitem-download-iphone = Lockwise dành cho iPhone và iPad
+menu-menuitem-android-app = { -lockwise-brand-short-name } dành cho Android
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } dành cho iPhone và iPad
 
 ## Login List
 
@@ -35,9 +37,19 @@ login-list-sort-label-text = Sắp xếp theo:
 login-list-name-option = Tên (A-Z)
 login-list-last-changed-option = Sửa đổi lần cuối
 login-list-last-used-option = Sử dụng lần cuối
+login-list-intro-title = Không tìm thấy thông tin đăng nhập
+login-list-intro-description = Khi bạn lưu mật khẩu trong { -brand-product-name }, nó sẽ hiển thị ở đây.
 login-list-item-title-new-login = Đăng nhập mới
 login-list-item-subtitle-new-login = Nhập thông tin đăng nhập của bạn
 login-list-item-subtitle-missing-username = (không có tên người dùng)
+
+## Introduction screen
+
+login-intro-heading = Đang tìm kiếm thông tin đăng nhập đã lưu của bạn? Thiết lập { -sync-brand-short-name }.
+login-intro-description = Nếu bạn đã lưu thông tin đăng nhập của mình vào { -brand-product-name } trên một thiết bị khác, thì đây là cách để có được chúng ở đây:
+login-intro-instruction-fxa = Tạo hoặc đăng nhập vào { -fxaccount-brand-name } trên thiết bị nơi đăng nhập của bạn được lưu
+login-intro-instruction-fxa-settings = Đảm bảo rằng bạn đã chọn hộp kiểm Đăng nhập trong Cài đặt { -sync-brand-short-name }
+login-intro-instruction-faq = Truy cập <a data-l10n-name="faq">câu hỏi thường gặp</a> về { -lockwise-brand-short-name } để được trợ giúp thêm
 
 ## Login
 
@@ -73,9 +85,32 @@ master-password-notification-message = Vui lòng nhập mật khẩu chính củ
 master-password-reload-button =
     .label = Đăng nhập
     .accesskey = L
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Hủy bỏ
+confirmation-dialog-dismiss-button =
+    .title = Hủy bỏ
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Muốn có thông tin đăng nhập của bạn ở mọi nơi bạn sử dụng { -brand-product-name }? Chuyển đến tùy chọn { -sync-brand-short-name } của bạn và chọn hộp kiểm Đăng nhập.
+       *[other] Muốn có thông tin đăng nhập của bạn ở mọi nơi bạn sử dụng { -brand-product-name }? Chuyển đến tùy chỉnh { -sync-brand-short-name } của bạn và chọn hộp kiểm Đăng nhập.
+    }
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Truy cập tùy chọn { -sync-brand-short-name }
+           *[other] Truy cập tùy chỉnh { -sync-brand-short-name }
+        }
+    .accesskey = V
 confirm-delete-dialog-title = Xoá thông tin đăng nhập này?
 confirm-delete-dialog-message = Thao tác này không thể hoàn tác được.
-confirm-delete-dialog-dismiss-button =
-    .title = Hủy bỏ
-confirm-delete-dialog-cancel-button = Hủy bỏ
 confirm-delete-dialog-confirm-button = Xóa
+confirm-discard-changes-dialog-title = Hủy bỏ những thay đổi chưa lưu?
+confirm-discard-changes-dialog-message = Tất cả các thay đổi chưa được lưu sẽ bị mất.
+confirm-discard-changes-dialog-confirm-button = Loại bỏ
+
+## Breach Alert notification
+
+breach-alert-text = Mật khẩu đã bị rò rỉ hoặc đánh cắp từ trang web này kể từ lần cuối bạn cập nhật chi tiết đăng nhập. Thay đổi mật khẩu của bạn để bảo vệ tài khoản của bạn.
+breach-alert-link = Tìm hiểu thêm về rò rỉ này.
