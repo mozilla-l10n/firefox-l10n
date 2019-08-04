@@ -146,6 +146,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Басқа құрылғыны байланыстыру…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!ENTITY fxa.menu.signin.label "&brandProductName; ішіне кіру">
+<!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; іске қосу">
 <!ENTITY fxa.menu.account.label "Тіркелгі">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -848,9 +850,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Құраманы бұғаттау баптауларын ашу">
 
 
+<!ENTITY protections.settings.label "Қорғаныс баптаулары">
+<!ENTITY protections.report.label "Толық есептемені көрсету">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "Сайт жұмыс істемей тұр ма?">
+<!ENTITY protections.siteNotWorkingView.title "Сайт жұмыс істемей тұр ма?">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
@@ -862,6 +868,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Видеолар">
 
 <!ENTITY protections.notBlocking.why.label "Неге?">
+<!ENTITY protections.fingerprinters.label "Баспаны жинаушылар">
+<!ENTITY protections.cryptominers.label "Криптомайнерлер">
 
 
 
@@ -921,8 +929,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Мәселелерді хабарлау">
 <!ENTITY contentBlocking.breakageReportView2.description "Құраманы бұғаттау кейбір веб-сайттармен мәселелерді туғызуы мүмкін. Сіз мәселелерді хабарлаған кезде, &brandShortName; өнімін әркім үшін жақсырақ қылуға көмектесесіз. (Бұл URL және браузер баптаулары ақпаратын Mozilla-ға жібереді.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Көбірек білу">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Көбірек білу">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Мәселелердің қай түрін кездестірдіңіз? (Міндетті емес)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Қосымша: Мәселені сипаттаңыз">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Есептемені жіберу">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Бас тарту">
 

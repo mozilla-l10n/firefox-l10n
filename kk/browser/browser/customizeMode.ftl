@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Болдырмау
 customize-mode-lwthemes-my-themes =
     .value = Менің темаларым
+customize-mode-touchbar-cmd =
+    .label = Сенсорлық панельді баптау…

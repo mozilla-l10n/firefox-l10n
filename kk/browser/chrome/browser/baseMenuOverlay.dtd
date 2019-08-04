@@ -28,9 +28,6 @@
 <!ENTITY helpSafeMode.stop.label       "Сөндірілген кеңейтулермен қайта қосу">
 <!ENTITY helpSafeMode.stop.accesskey   "р">
 
-<!ENTITY healthReport2.label      "&brandShorterName; денсаулық есептемесі">
-<!ENTITY healthReport2.accesskey  "е">
-
 <!ENTITY helpTroubleshootingInfo.label      "Техникалық ақпарат">
 <!ENTITY helpTroubleshootingInfo.accesskey  "а">
 
@@ -52,3 +49,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Барлығын көрсету">
+
+<!ENTITY touchBarCmdMac.label           "Сенсорлық панельді баптау…">
