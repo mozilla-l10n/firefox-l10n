@@ -35,8 +35,17 @@ app-basics-name = Názov
 app-basics-version = Verzia
 app-basics-build-id = Identifikátor zostavenia
 app-basics-update-channel = Kanál aktualizácií
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Priečinok, kde je aplikácia nainštalovaná
+       *[other] Priečinok, kde je aplikácia nainštalovaná
+    }
 app-basics-update-history = História aktualizácií
 app-basics-show-update-history = Zobraziť históriu aktualizácií
+# Represents the path to the binary used to start the application.
+app-basics-binary = Binárny súbor aplikácie
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Priečinok profilu
@@ -52,7 +61,6 @@ app-basics-service-workers = Registrovaní Service Workers
 app-basics-profiles = Profily
 app-basics-launcher-process-status = Spúšťací proces
 app-basics-multi-process-support = Multiprocesové okná
-app-basics-process-count = Procesy pre webový obsah
 app-basics-remote-processes-count = Vzdialené procesy
 app-basics-enterprise-policies = Podnikové pravidlá
 app-basics-location-service-key-google = Kľúč služby Google Location Service
@@ -239,7 +247,6 @@ uses-tiling = Používa skladanie
 content-uses-tiling = Používa skladanie (obsah)
 off-main-thread-paint-enabled = Vykresľovanie mimo hlavného vlákna povolené
 off-main-thread-paint-worker-count = Počet vlákien pre vykresľovanie mimo hlavného vlákna
-low-end-machine = Bolo rozpoznané menej výkonné zariadenie
 target-frame-rate = Cieľová obrazová frekvencia
 audio-backend = Audio Backend
 max-audio-channels = Maximálny počet kanálov

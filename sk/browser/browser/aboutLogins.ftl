@@ -20,8 +20,8 @@ menu-menuitem-preferences =
     }
 menu-menuitem-feedback = Odoslať spätnú väzbu
 menu-menuitem-faq = Často kladené otázky
-menu-menuitem-download-android = Lockwise pre Android
-menu-menuitem-download-iphone = Lockwise pre iPhone a iPad
+menu-menuitem-android-app = { -lockwise-brand-short-name } pre Android
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } pre iPhone a iPad
 
 ## Login List
 
@@ -37,9 +37,13 @@ login-list-sort-label-text = Zoradiť podľa:
 login-list-name-option = názvu (A-Z)
 login-list-last-changed-option = poslednej úpravy
 login-list-last-used-option = posledného použitia
+login-list-intro-title = Nenašli sa žiadne prihlasovacie údaje
 login-list-item-title-new-login = Nové prihlasovacie údaje
 login-list-item-subtitle-new-login = Zadajte svoje prihlasovacie údaje
 login-list-item-subtitle-missing-username = (žiadne používateľské meno)
+
+## Introduction screen
+
 
 ## Login
 
@@ -49,7 +53,7 @@ login-item-delete-button = Odstrániť
 login-item-origin-label = Adresa webovej stránky
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Spustiť
+login-item-open-site-button = Otvoriť
 login-item-username-label = Používateľské meno
 login-item-username =
     .placeholder = name@example.com
@@ -75,9 +79,12 @@ master-password-notification-message = Ak chcete zobraziť uložené prihlasovac
 master-password-reload-button =
     .label = Prihlásiť sa
     .accesskey = P
+
+## Dialogs
+
 confirm-delete-dialog-title = Odstrániť tieto prihlasovacie údaje?
 confirm-delete-dialog-message = Túto akciu nie je možné vrátiť späť.
-confirm-delete-dialog-dismiss-button =
-    .title = Zrušiť
-confirm-delete-dialog-cancel-button = Zrušiť
 confirm-delete-dialog-confirm-button = Odstrániť
+
+## Breach Alert notification
+

@@ -21,6 +21,7 @@ onboarding-button-label-get-started = Začíname
 onboarding-welcome-header = Víta vás { -brand-short-name }
 onboarding-welcome-body = Prehliadač už máte.<br/>Spoznajte ešte zvyšok aplikácie { -brand-product-name }.
 onboarding-welcome-learn-more = Ďalšie výhody.
+onboarding-join-form-header = Prihláste sa do aplikácie { -brand-product-name }
 onboarding-join-form-body = Začnite uvedením svojej e-mailovej adresy.
 onboarding-join-form-email =
     .placeholder = Zadajte e-mailovú adresu
@@ -53,8 +54,16 @@ onboarding-sync-form-sub-header = a používajte službu { -sync-brand-name }.
 ## description.
 
 onboarding-benefit-products-title = Užitočné produkty
+onboarding-benefit-products-text = Používajte nástroje, ktoré rešpektujú vaše súkromie a fungujú na všetkých zariadeniach.
 onboarding-benefit-knowledge-title = Praktické informácie
+onboarding-benefit-knowledge-text = Zistite všetky potrebné informácie o tom, ako zostať v bezpečí na internete.
 onboarding-benefit-privacy-title = Skutočné súkromie
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Zaväzujeme sa, že nezneužijeme vaše údaje. Menej dát je niekedy viac. Udržiavame ich v bezpečí a nemáme pred vami žiadne tajomstvá.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -75,18 +84,39 @@ onboarding-ghostery-text = Prehliadajte rýchlejšie, inteligentnejšie a bezpe�
 onboarding-fxa-title = Synchronizácia
 onboarding-fxa-text = Prihláste sa ku svojmu účtu Firefox a synchronizujte svoje záložky, heslá a otvorené karty kdekoľvek používate aplikáciu { -brand-short-name }.
 onboarding-tracking-protection-title2 = Ochrana pred sledovaním
+onboarding-tracking-protection-text2 = { -brand-short-name } vám pomôže zastaviť sledovanie webovými stránkami a reklamami.
 onboarding-tracking-protection-button2 = Ako to funguje
 onboarding-data-sync-title = Vezmite si svoje nastavenia so sebou
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Synchronizujte svoje záložky, heslá a ďalšie údaje všade, kde používate { -brand-product-name }.
+onboarding-data-sync-button2 = Prihláste sa do služby { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Nechajte sa informovať o únikoch údajov
+onboarding-firefox-monitor-text = { -monitor-brand-name } sleduje, či sa vaša e-mailová adresa neobjavila v nejakom úniku dát a dá vám vedieť, ak ju v nejakom nájde.
 onboarding-firefox-monitor-button = Prihláste sa na odber upozornení
+onboarding-browse-privately-title = Súkromné prehliadanie
+onboarding-browse-privately-text = Súkromné prehliadanie odstráni vašu históriu prehliadania a uchová vaše tajomstvá pred ostatnými používateľmi vášho počítača.
+onboarding-browse-privately-button = Otvoriť súkromné okno
 onboarding-firefox-send-title = Udržujte svoje zdieľané súbory v súkromí
+onboarding-firefox-send-text2 = Zdieľajte svoje súbory prostredníctvom služby { -send-brand-name }, ktorá ich chráni pomocou end-to-end šifrovania a odkazov, ktorých platnosť automaticky vyprší.
+onboarding-firefox-send-button = Vyskúšajte { -send-brand-name }
 onboarding-mobile-phone-title = Nainštalujte si { -brand-product-name } do svojho telefónu
 onboarding-mobile-phone-text = Prevezmite si { -brand-product-name } pre iOS a Android a zosynchronizujte svoje údaje medzi zariadeniami.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Prevziať mobilný prehliadač
+onboarding-send-tabs-title = Odosielajte si karty medzi zariadeniami
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Posielanie kariet funguje ako okamžité zdielanie stránok medzi vašimi zariadeniami. Nemusíte nič kopírovať ani opúšťať prehliadač.
+onboarding-send-tabs-button = Začnite s odosielaním kariet
+onboarding-pocket-anywhere-title = Čítajte a počúvajte kdekoľvek
+onboarding-pocket-anywhere-text2 = Uložte si svoj obľúbený obsah offline s aplikáciou { -pocket-brand-name } a čítajte či počúvajte kedykoľvek.
 onboarding-pocket-anywhere-button = Vyskúšajte { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Vezmite si svoje heslá so sebou
+onboarding-lockwise-passwords-text2 = Uložte si svoje heslá do bezpečia pomocou { -lockwise-brand-name }, ktorý vám uľahčí rýchle prihlasovanie do vašich účtov.
 onboarding-lockwise-passwords-button2 = Prevziať aplikáciu
+onboarding-facebook-container-title = Stanovte hranice pre Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } oddeľuje váš účet od zvyšku internetu, takže pre Facebook a jeho reklamy je zložité vás na internete vysledovať.
 onboarding-facebook-container-button = Pridať rozšírenie
 
 ## Message strings belonging to the Return to AMO flow
