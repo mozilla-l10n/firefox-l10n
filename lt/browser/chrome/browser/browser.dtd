@@ -138,13 +138,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.button.label "Atverti „&syncBrand.shortName.label;“ nuostatas…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Prisijungėte kaip">
 <!ENTITY fxa.menu.manageAccount.label "Tvarkyti paskyrą…">
 <!ENTITY fxa.menu.syncSettings.label "„&syncBrand.shortName.label;“ nuostatos…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Susieti kitą įrenginį…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!ENTITY fxa.menu.signin.label "Prisijungti prie „&brandProductName;“">
+<!ENTITY fxa.menu.turnOnSync.label "Įjungti „&syncBrand.shortName.label;“">
+<!ENTITY fxa.menu.account.label "Paskyra">
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -188,6 +195,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "Visas korteles įtraukti į adresyną…">
+
 <!ENTITY showAllBookmarks2.label "Rodyti visą adresyną">
 <!ENTITY recentBookmarks.label "Paskiausiai įtraukti į adresyną">
 <!ENTITY otherBookmarksCmd.label "Kiti adresai">
@@ -310,6 +318,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Failas">
 <!ENTITY fileMenu.accesskey       "F">
+
 <!ENTITY newUserContext.label             "Nauja sudėtinė kortelė">
 <!ENTITY newUserContext.accesskey         "s">
 <!ENTITY manageUserContext.label          "Tvarkyti sudėtines korteles">
@@ -359,6 +368,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "j">
 <!ENTITY viewSidebarMenu.label "Parankinė">
 <!ENTITY viewSidebarMenu.accesskey "P">
+
 <!ENTITY viewCustomizeToolbar.label       "Tvarkyti…">
 <!ENTITY viewCustomizeToolbar.accesskey     "T">
 <!ENTITY overflowCustomizeToolbar.label       "Tvarkyti priemonių juostą…">
@@ -372,6 +382,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Atkurti paskiausiąjį seansą">
 
 <!ENTITY showAllHistoryCmd2.label "Rodyti visą žurnalą">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Rodyti visą žurnalą">
@@ -592,9 +603,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Išsiųsti saitą el. paštu…">
 <!ENTITY emailPageCmd.accesskey       "ų">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Įrašyti kaip…">
 <!ENTITY savePageCmd.accesskey        "r">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "p">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Įrašyti kadrą kaip…">
@@ -699,22 +710,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Padidinti">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "d">
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "ž">
 
 <!ENTITY fullZoomReduceCmd.label        "Sumažinti">
 <!ENTITY fullZoomReduceCmd.accesskey    "m">
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Originalus">
 <!ENTITY fullZoomResetCmd.accesskey     "O">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "“">
 
 <!ENTITY fullZoomToggleCmd.label        "Keisti tik teksto dydį">
 <!ENTITY fullZoomToggleCmd.accesskey    "t">
+
 <!ENTITY fullZoom.label                 "Mastelis">
 <!ENTITY fullZoom.accesskey             "M">
 
@@ -732,6 +747,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Užverti">
+
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "U">
 
@@ -874,6 +890,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Jungtis prie „&syncBrand.shortName.label;“…">
 <!ENTITY syncSignIn.accesskey         "Y">
+
 <!ENTITY syncSyncNowItem.label        "Sinchronizuoti dabar">
 <!ENTITY syncSyncNowItemSyncing.label "Sinchronizuojama…">
 <!ENTITY syncSyncNowItem.accesskey    "S">

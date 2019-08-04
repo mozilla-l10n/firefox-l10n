@@ -22,8 +22,8 @@ menu-menuitem-preferences =
     }
 menu-menuitem-feedback = Siųsti atsiliepimą
 menu-menuitem-faq = Dažniausi klausimai ir atsakymai
-menu-menuitem-download-android = „Lockwise“, skirta „Android“
-menu-menuitem-download-iphone = „Lockwise“, skirta „iPhone“ ir „iPad“
+menu-menuitem-android-app = „{ -lockwise-brand-short-name }“, skirta „Android“
+menu-menuitem-iphone-app = „{ -lockwise-brand-short-name }“, skirta „iPhone“ ir „iPad“
 
 ## Login List
 
@@ -39,9 +39,19 @@ login-list-sort-label-text = Rikiuoti pagal:
 login-list-name-option = Pavadinimas (A-Z)
 login-list-last-changed-option = Atnaujinimo laikas
 login-list-last-used-option = Paskiausias naudojimo laikas
+login-list-intro-title = Prisijungimų nerasta
+login-list-intro-description = Kai įrašysite slaptažodį į „{ -brand-product-name }“, jis atsiras čia.
 login-list-item-title-new-login = Naujas prisijungimas
 login-list-item-subtitle-new-login = Įveskite prisijungimo duomenis
 login-list-item-subtitle-missing-username = (nėra naudotojo vardo)
+
+## Introduction screen
+
+login-intro-heading = Ieškote įrašytų prisijungimų? Naudokite „{ -sync-brand-short-name }“.
+login-intro-description = Jeigu esate įrašę prisijungimus į „{ -brand-product-name }“ kitame įrenginyje, juos galite turėti čia:
+login-intro-instruction-fxa = Susikurkite arba prisijunkite prie savo „{ -fxaccount-brand-name }“ paskyros tame įrenginyje, kur yra prisijungimai.
+login-intro-instruction-fxa-settings = Įsitikinkite, kad „{ -sync-brand-short-name }“ nuostatose pažymėjote langelį „Prisijungimai“.
+login-intro-instruction-faq = Peržiūrėkite „{ -lockwise-brand-short-name }“ <a data-l10n-name="faq">dažniausius klausimus ir atsakymus</a>
 
 ## Login
 
