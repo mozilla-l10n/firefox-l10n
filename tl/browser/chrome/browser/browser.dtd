@@ -138,13 +138,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.button.label "Buksan ang mga &syncBrand.shortName.label; Setting…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Mag-sign in bilang si">
 <!ENTITY fxa.menu.manageAccount.label "I-manage ang Account…">
 <!ENTITY fxa.menu.syncSettings.label "mga &syncBrand.shortName.label; Setting…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Ikonekta sa Ibang Device…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!ENTITY fxa.menu.signin.label "Mag-sign in sa &brandProductName;">
+<!ENTITY fxa.menu.turnOnSync.label "Buksan ang &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.account.label "Account">
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.description "Mag-upload at magbahagi ng mga file na may end-to-end encryption at link na awtomatikong mag-e-expire.">
+<!ENTITY fxa.service.send.launch "Ilunsad ang &sendShortName;">
+<!ENTITY fxa.service.monitor.description "Tingnan kung ang email mo ay natagpuan sa isang data breach at maalerto kung ito'y matatagpuan sa panibagong breach.">
+<!ENTITY fxa.service.monitor.launch "Ilunsad ang &monitorShortName;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -188,6 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "I-bookmark ang lahat ng mga tab…">
+
 <!ENTITY showAllBookmarks2.label "Ipakita and Lahat na mga Bookmark">
 <!ENTITY recentBookmarks.label "Mga nakaraan na Bookmarked">
 <!ENTITY otherBookmarksCmd.label "Iba pang Bookmarks">
@@ -310,6 +322,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "File">
 <!ENTITY fileMenu.accesskey       "F">
+
 <!ENTITY newUserContext.label             "Bagong Lalagyanan ng Tab">
 <!ENTITY newUserContext.accesskey         "B">
 <!ENTITY manageUserContext.label          "Manage Containers">
@@ -359,6 +372,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "Sidebar">
 <!ENTITY viewSidebarMenu.accesskey "e">
+
 <!ENTITY viewCustomizeToolbar.label       "I-customize...">
 <!ENTITY viewCustomizeToolbar.accesskey     "c">
 <!ENTITY overflowCustomizeToolbar.label       "I-customize ang Toolbar...">
@@ -372,6 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Ibalik ang Nakaraang Session">
 
 <!ENTITY showAllHistoryCmd2.label "Ipakita ang Lahat ng Kasaysayan">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Ipakita ang Lahat na Kasaysayan">
@@ -592,9 +607,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "I-email ang Link…">
 <!ENTITY emailPageCmd.accesskey       "E">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "I-Save ang Page Bilang…">
 <!ENTITY savePageCmd.accesskey        "A">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "I-Save ang Frame Bilang…">
@@ -699,22 +714,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Palapitin">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Palayuin">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "I-reset">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "I-zoom lamang ang Teksto">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
+
 <!ENTITY fullZoom.label                 "I-zoom">
 <!ENTITY fullZoom.accesskey             "Z">
 
@@ -732,6 +751,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Isara">
+
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "C">
 
@@ -882,6 +902,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Mag sign-in sa &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
+
 <!ENTITY syncSyncNowItem.label        "I-sync Ngayon">
 <!ENTITY syncSyncNowItemSyncing.label "Syncing…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
@@ -910,8 +931,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "Mga tracker">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Upang harangan ang lahat ng mga tracker, i-set ang content blocking sa “Strict”.">
 
+<!ENTITY contentBlocking.socialblock.label "Mga Social Media Tracker">
+<!ENTITY contentBlocking.socialblockView.label "Mga Naharang na Social Media Tracker">
+<!ENTITY contentBlocking.socialblockView.description "Naglalagay ng mga tracker ang mga social network sa ibang mga website para sundan kung ano ang iyong mga ginagawa, tinitingnan, at pinapanood online. Dahil dito'y nakikilala ka ng mga kumpanya ng social media sa kabila ng kung ano ang ibinahagi mo sa iyong social media profile.">
 
 <!ENTITY contentBlocking.cookies.label "Mga cookie">
+<!ENTITY contentBlocking.cookiesView.label "Mga Cookie at Site Data">
 
 <!ENTITY contentBlocking.cryptominers.label "Mga Cryptominer">
 <!ENTITY contentBlocking.cryptominersView.label "Cryptominers">
@@ -921,10 +946,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "I-report ang problema">
 <!ENTITY contentBlocking.breakageReportView.label "I-report ang mga problema">
+<!ENTITY contentBlocking.breakageReportView2.description "Ang pagharang ng content ay maaaring maging dahilan ng problema sa ilang mga website. Kapag nag-ulat ka ng mga problema, matutulungan mong pahusayin ang &brandShortName; para sa lahat. (Ito ay magpapadala ng URL at impormasyon tungkol sa iyong mga browser setting sa Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Alamin pa">
+<!ENTITY contentBlocking.breakageReportView.title "Mag-ulat ng Sirang Site">
+<!ENTITY contentBlocking.breakageReportView3.description "Ang pagharang ng ilang mga tracker ay maaaring maging dahilan ng problema sa ilang mga website. Ang pag-ulat ng mga problemang ito ay nakatutulong pahusayin ang &brandShortName; para sa lahat. Ang pagpapadala ng ulat na ito ay magpapadala ng URL at impormasyon tungkol sa iyong mga browser setting sa Mozilla.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Alamin">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Anong mga problema ang mayroon ka? (Optional)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Opsyonal: Ilarawan ang problema">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Magpasa ng Report">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "I-Cancel">
 
