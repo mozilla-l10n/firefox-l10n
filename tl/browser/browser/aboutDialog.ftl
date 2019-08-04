@@ -23,7 +23,7 @@ update-manual = Ang mga update ay matatagpuan sa <label data-l10n-name="manual-l
 update-unsupported = Hindi ka na maaaring makapag-update sa sistemang ito. <label data-l10n-name="unsupported-link">Alamin</label>
 update-restarting = Nag-rerestart...
 channel-description = Ikaw ay kasalukuyang nasa <label data-l10n-name="current-channel"></label> update channel.
-warningDesc-version = Ang { -brand-short-name } ay eksperimental pa at maaring hindi gaanong stable.
+warningDesc-version = Ang { -brand-short-name } ay eksperimental pa at maaaring madaling mabuwag.
 community-exp = Ang <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ay isang <label data-l10n-name="community-exp-creditsLink">pandaigdigang komunidad</label> na sama-samang nagtutulungan upang ang Web ay mapanatiling malaya, bukas sa publiko at para sa lahat.
 community-2 = Ang { -brand-short-name } ay dinisenyo ng <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, isang <label data-l10n-name="community-creditsLink">pandaigdigang komunidad</label> na sama-samang nagtutulungan upang ang Web ay mapanatiling malaya, bukas sa publiko at para sa lahat.
 helpus = Nais mo bang tumulong? <label data-l10n-name="helpus-donateLink">Magdonasyon</label> o <label data-l10n-name="helpus-getInvolvedLink">sumali na!</label>

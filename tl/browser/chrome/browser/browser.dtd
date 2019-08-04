@@ -916,12 +916,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Mga mikropono na pwedeng ibahagi:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-<!ENTITY getUserMedia.audioCapture.label "Ang mga audio na galing sa tab ay  maaring ibahagi.">
+<!ENTITY getUserMedia.audioCapture.label "Ang mga audio na galing sa tab ay maibabahagi.">
 <!ENTITY getUserMedia.allWindowsShared.message "Lahat ng nakikitang window sa iyong screen ay ibabahagi.">
 
 <!ENTITY contentBlocking.title "Content Blocking">
-<!ENTITY contentBlocking.detected "May natuklasang nilalaman na maaring harangin sa pahinang ito.">
-<!ENTITY contentBlocking.notDetected "Walang natuklasang nilalaman na maaring harangin sa pahinang ito.">
+<!ENTITY contentBlocking.detected "May natuklasang nilalaman na maaaring harangin sa site na ito.">
+<!ENTITY contentBlocking.notDetected "Walang natuklasang nilalaman na maaaring harangin sa site na ito.">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Mga tracker">
 

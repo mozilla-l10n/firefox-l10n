@@ -24,7 +24,7 @@ clear-site-data-cookies-with-data =
 clear-site-data-cookies-empty =
     .label = Mga cookie at Site Data
     .accesskey = S
-clear-site-data-cookies-info = Maaring ma signed out ka sa mga website kapag na nabura
+clear-site-data-cookies-info = Maaari kang ma-sign out sa mga website kapag binura
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cached Web Content (24 KB)"
 # Variables:
