@@ -22,6 +22,8 @@ menu-menuitem-preferences =
     }
 menu-menuitem-feedback = Кері байланыс хабарламасын жіберу
 menu-menuitem-faq = Жиі қойылатын сұрақтар
+menu-menuitem-android-app = Android үшін { -lockwise-brand-short-name }
+menu-menuitem-iphone-app = iPhone және iPad үшін { -lockwise-brand-short-name }
 
 ## Login List
 
@@ -35,9 +37,13 @@ login-list-sort-label-text = Бойынша сұрыптау:
 login-list-name-option = Аты (A-Z)
 login-list-last-changed-option = Соңғы рет өзгертілген
 login-list-last-used-option = Соңғы қолданылған
+login-list-intro-title = Логиндер табылмады
 login-list-item-title-new-login = Жаңа логин
 login-list-item-subtitle-new-login = Логин мәліметтерін енгізіңіз
 login-list-item-subtitle-missing-username = (пайдаланушы аты жоқ)
+
+## Introduction screen
+
 
 ## Login
 
@@ -78,6 +84,13 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Бас тарту
 confirmation-dialog-dismiss-button =
     .title = Бас тарту
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] { -sync-brand-short-name } баптауларын ашыңыз
+           *[other] { -sync-brand-short-name } баптауларын ашыңыз
+        }
+    .accesskey = п
 confirm-delete-dialog-title = Бұл логинді өшіру керек пе?
 confirm-delete-dialog-message = Бұл әрекетті болдырмау мүмкін емес болады.
 confirm-delete-dialog-confirm-button = Өшіру
