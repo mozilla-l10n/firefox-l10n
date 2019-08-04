@@ -11,16 +11,16 @@ update-checkForUpdatesButton =
 update-updateButton =
     .label = I-restart upang i-update ang { -brand-shorter-name }
     .accesskey = R
-update-checkingForUpdates = Naghahanap ng updates...
+update-checkingForUpdates = Naghahanap ng mga update...
 update-downloading = <img data-l10n-name="icon"/>Nagda-download ng update — <label data-l10n-name="download-status"/>
 update-applying = Ina-apply ang update...
 update-failed = Bigo ang pag-update. <label data-l10n-name="failed-link">I-download ang pinakabagong bersyon</label>
 update-failed-main = Bigo ang pag-update. <a data-l10n-name="failed-link-main">I-download ang pinakabagong bersyon</a>
 update-adminDisabled = Ang pagdadagdag ng mga pagbabago ay pinawalang bisa ng iyong system administrator.
 update-noUpdatesFound = Ang { -brand-short-name } ay up to date
-update-otherInstanceHandlingUpdates = { -brand-short-name } ay kasalukuyang I-naupdate ng isa pang instance
+update-otherInstanceHandlingUpdates = Ang { -brand-short-name } ay kasalukuyang ina-update ng isa pang instance
 update-manual = Ang mga update ay matatagpuan sa <label data-l10n-name="manual-link"/>
-update-unsupported = Hindi na maaari makapag-update ng pagbabago sa system na ito.<label data-l10n-name="unsupported-link">Higit pang matuto</label>
+update-unsupported = Hindi ka na maaaring makapag-update sa sistemang ito. <label data-l10n-name="unsupported-link">Alamin</label>
 update-restarting = Nag-rerestart...
 channel-description = Ikaw ay kasalukuyang nasa <label data-l10n-name="current-channel"></label> update channel.
 warningDesc-version = Ang { -brand-short-name } ay eksperimental pa at maaring hindi gaanong stable.
