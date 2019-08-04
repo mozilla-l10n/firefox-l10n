@@ -28,9 +28,6 @@
 <!ENTITY helpSafeMode.stop.label       "Reinitiar con le additivos active">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 
-<!ENTITY healthReport2.label      "Reporto de sanitate de &brandShorterName;">
-<!ENTITY healthReport2.accesskey  "e">
-
 <!ENTITY helpTroubleshootingInfo.label      "Informationes de diagnostico">
 <!ENTITY helpTroubleshootingInfo.accesskey  "I">
 
@@ -52,3 +49,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Monstrar toto">
+
+<!ENTITY touchBarCmdMac.label           "Personalisar le Barra tactile…">

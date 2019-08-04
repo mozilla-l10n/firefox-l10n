@@ -107,6 +107,7 @@ enable-password-sync-preferences-button =
 confirm-delete-dialog-title = Deler iste credential?
 confirm-delete-dialog-message = Iste action es irreversibile.
 confirm-delete-dialog-confirm-button = Deler
+confirm-discard-changes-dialog-confirm-button = Refusar
 
 ## Breach Alert notification
 
