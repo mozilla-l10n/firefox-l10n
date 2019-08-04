@@ -68,8 +68,8 @@ login-item-save-changes-button = บันทึกการเปลี่ย�
 login-item-save-new-button = บันทึก
 login-item-cancel-button = ยกเลิก
 login-item-time-changed = วันที่เปลี่ยนแปลงล่าสุด: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = วันที่สร้าง: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = วันที่ใช้ครั้งล่าสุด: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = วันที่สร้าง: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = วันที่ใช้ครั้งล่าสุด: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
