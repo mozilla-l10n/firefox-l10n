@@ -47,6 +47,9 @@ newtab-topsites-add-button = Idagdag
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Sigurado ka bang gusto mong tanggalin ang bawat pagkakataon ng pahinang ito mula sa iyong kasaysayan?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Ang aksyon na ito ay hindi na mababawi.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Bookmark
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Kopyahin ang Download Link
 newtab-menu-go-to-download-page = Pumunta sa Pahina ng mga Download
 newtab-menu-remove-download = Burahin sa Kasaysayan
@@ -116,6 +123,10 @@ newtab-label-download = Nai-download na
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = Alisin ang Seksyon
 newtab-section-menu-collapse-section = I-collapse ang Seksyon
 newtab-section-menu-expand-section = Palawakin ang Seksyon
@@ -126,6 +137,13 @@ newtab-section-menu-add-search-engine = Magdagdag ng Search Engine
 newtab-section-menu-move-up = Ilipat Up
 newtab-section-menu-move-down = Ilipat sa Baba
 newtab-section-menu-privacy-notice = Paunawa sa Privacy
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Paliitin ang Bahagi
+newtab-section-expand-section-label =
+    .aria-label = Palawakin ang Bahagi
 
 ## Section Headers.
 

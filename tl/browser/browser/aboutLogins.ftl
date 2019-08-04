@@ -6,6 +6,7 @@ about-logins-page-title = Mga Login at Password
 login-filter =
     .placeholder = Hanapin sa mga Login
 create-login-button = Gumawa ng Bagong Login
+fxaccounts-sign-in-button = Mag-sign in sa { -sync-brand-short-name }
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -15,20 +16,27 @@ menu =
 menu-menuitem-import = Mag-import ng mga Password...
 menu-menuitem-feedback = Magbigay ng puna
 menu-menuitem-faq = Mga Kadalasang Tinatanong
-menu-menuitem-download-android = Lockwise para sa Android
-menu-menuitem-download-iphone = Lockwise para sa iPhone at iPad
 
 ## Login List
 
 login-list =
     .aria-label = Mga login na tumutugma sa hinahanap
+login-list-count =
+    { $count ->
+        [one] { $count } login
+       *[other] { $count } login
+    }
 login-list-sort-label-text = Pagsunodsunurin ayon sa:
 login-list-name-option = Pangalan (A-Z)
 login-list-last-changed-option = Huling Binago
 login-list-last-used-option = Huling Ginamit
+login-list-intro-description = Kapag nagse-save ka ng isang password sa { -brand-product-name }, lalabas iyon dito.
 login-list-item-title-new-login = Bagong Login
 login-list-item-subtitle-new-login = Ipasok ang iyong mga login credential
 login-list-item-subtitle-missing-username = (walang username)
+
+## Introduction screen
+
 
 ## Login
 
@@ -65,6 +73,9 @@ master-password-reload-button =
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Kanselahin
+confirmation-dialog-dismiss-button =
+    .title = Kanselahin
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Gusto mo bang magamit ang mga login mo kahit saan mo dalhin ang { -brand-product-name }? Puntahan ang iyong mga Option sa { -sync-brand-short-name } at piliin ang Mga Login na checkbox.
@@ -73,6 +84,7 @@ enable-password-sync-notification-message =
 confirm-delete-dialog-title = Burahin ang login na ito?
 confirm-delete-dialog-message = Itong action ay hindi na mababawi.
 confirm-delete-dialog-confirm-button = Burahin
+confirm-discard-changes-dialog-message = Lahat ng hindi nai-save na mga pagbabago ay mawawala.
 
 ## Breach Alert notification
 
