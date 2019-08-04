@@ -90,7 +90,7 @@ shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageSourceCmd.SafariCommandKey "u">
 
-<!ENTITY pageInfoCmd.label "Impormasyon tungkol sa web page">
+<!ENTITY pageInfoCmd.label "Impormasyon tungkol sa Pahina">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Layout Debugger">
@@ -194,7 +194,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Mga Bookmark">
 <!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY bookmarkThisPageCmd.label "I-bookmark ang Pahina na Ito">
+<!ENTITY bookmarkThisPageCmd.label "I-bookmark ang Pahinang Ito">
 <!ENTITY editThisBookmarkCmd.label "i-Edit ang bookmark na ito">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
@@ -211,7 +211,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backButton.tooltip           "Bumalik nang isang pahina">
 <!ENTITY forwardCmd.label             "Magpatuloy">
 <!ENTITY forwardCmd.accesskey         "F">
-<!ENTITY forwardButton.tooltip        "Pumunta sa susunod na web page">
+<!ENTITY forwardButton.tooltip        "Pumunta sa susunod na pahina">
 <!ENTITY backForwardButtonMenu.tooltip "Mag-right-click o mag-pull down para makita ang history">
 <!ENTITY backForwardButtonMenuMac.tooltip "Hilahing pababa para ipakita ang kasaysayan">
 <!ENTITY reloadCmd.label              "Ulitin muli">
@@ -566,7 +566,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "l">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Ipakita ang Source Code ng Selection">
 <!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "Tingnan ang source code ng web page">
+<!ENTITY viewPageSourceCmd.label      "Tingnan ang Source Code ng Pahina">
 <!ENTITY viewPageSourceCmd.accesskey  "T">
 <!ENTITY viewFrameSourceCmd.label     "Ipakita ang Source Code ng Frame">
 <!ENTITY viewFrameSourceCmd.accesskey "k">
@@ -854,6 +854,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY protections.etpON.header "Nakabukas ang Enhanced Tracking Protection para sa site na ito">
 <!ENTITY protections.etpOFF.header "Sarado ang Enhanced Tracking Protection para sa site na ito">
+<!ENTITY protections.settings.label "Mga Protection Setting">
 <!ENTITY protections.report.label "Ipakita ang Buong Ulat">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -871,12 +872,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Mga kabayaran">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Mga komento">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Mga video">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Sira pa rin ang site matapos isara ang mga proteksyon?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Magpadala ng report">
 
 <!ENTITY protections.blocking.label "Humaharang">
 <!ENTITY protections.notBlocking.label "Hindi Humaharang">
 <!ENTITY protections.notBlocking.why.label "Bakit?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Maaaring masira ang ilang parte ng ilang website kapag hinarang ang mga ito. Kapag walang mga tracker, may mga button, form, at login field na maaaring hindi gumana.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Mapapayagan sa site na ito ang lahat ng tracker kapag isinara ang mga proteksyon. Maaari rin nitong mapaganda ang ilang functionality ng website.">
 <!ENTITY protections.socialMediaTrackers.label "Mga Social Media Tracker">
 <!ENTITY protections.crossSiteTrackingCookies.label "Mga Cross-Site Tracking Cookie">
 <!ENTITY protections.trackingContent.label "Mga Tracking Content">
@@ -888,7 +891,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.description "Ginagamit ng mga cryptominer ang computing power ng sistema mo para kumita ng digital na pera. Ang mga cryptomining script ay nakakaubos ng baterya mo, nagpapabagal sa computer, at pwedeng dumagdag sa bayarin mo sa kuryente.">
 <!ENTITY protections.fingerprinters.description "Ang mga fingerprinter ay nangongolekta ng mga setting sa browser at computer mo para makilala ka. Gamit ang digital fingerprint na ito, pwede ka nilang manmanan sa iba't-ibang mga website.">
 <!ENTITY protections.trackingContent.description "Maaaring mag-load ang mga website ng panlabas na mga ad, video, at iba pang content na may tracking code. Pwedeng bumilis ang pag-load ng mga site kapag hinarang ang mga tracking content, pero may mga button, form, at login field na maaaring hindi gumana.">
+<!ENTITY protections.socialMediaTrackers.description "Naglalagay ng mga tracker ang mga social network sa ibang mga website para sundan ang iyong mga ginagawa, tinitingnan, at pinapanood online. Dahil dito'y mas nakikilala ka ng mga kumpanya ng social media bukod sa kung ano ang ibinabahagi mo sa iyong social media profile.">
 
+<!ENTITY protections.manageProtectionSettings.label "I-manage ang mga Protection Setting">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
