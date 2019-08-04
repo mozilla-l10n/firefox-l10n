@@ -15,4 +15,3 @@ column-heading-time-last-used =
 column-heading-time-password-changed =
     .label = Ultima modifica
 logins-description-filtered = Le seguenti credenziali corrispondono alla ricerca:
-no-master-password-prompt = Confermi di voler mostrare le password?
