@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "Genel">
+
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Gün ve hafta görünümleri">
 <!ENTITY pref.calendar.view.multiweekview.caption "Çok haftalı görünüm">
 <!ENTITY pref.calendar.view.workweek.caption "İş günleri">
@@ -17,6 +18,8 @@
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Görünümlerde ve mini ayda hafta numarasını göster">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "G">
 <!ENTITY pref.daysoff.label "İş günleri şunlardır:">
+
+<!ENTITY pref.workweekDays.label "İş haftası günleri:">
 
 <!ENTITY pref.calendar.view.daystart.label "Gün başlangıcı:">
 <!ENTITY pref.calendar.view.daystart.accesskey "G">
