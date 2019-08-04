@@ -138,13 +138,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label; ayarlarını aç…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Giriş yapan kullanıcı">
 <!ENTITY fxa.menu.manageAccount.label "Hesabı yönet…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; ayarları…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Başka bir cihaz bağla…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!ENTITY fxa.menu.account.label "Hesap">
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -188,6 +193,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "Tüm sekmeleri yer imlerine ekle…">
+
 <!ENTITY showAllBookmarks2.label "Tüm yer imlerini göster">
 <!ENTITY recentBookmarks.label "Yer imlerine yeni eklenenler">
 <!ENTITY otherBookmarksCmd.label "Diğer yer imleri">
@@ -310,6 +316,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Dosya">
 <!ENTITY fileMenu.accesskey       "D">
+
 <!ENTITY newUserContext.label             "Yeni kapsayıcı sekme">
 <!ENTITY newUserContext.accesskey         "k">
 <!ENTITY manageUserContext.label          "Kapsayıcıları yönet">
@@ -359,6 +366,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "A">
 <!ENTITY viewSidebarMenu.label "Kenar çubuğu">
 <!ENTITY viewSidebarMenu.accesskey "K">
+
 <!ENTITY viewCustomizeToolbar.label       "Özelleştir…">
 <!ENTITY viewCustomizeToolbar.accesskey     "Ö">
 <!ENTITY overflowCustomizeToolbar.label       "Araç çubuğunu özelleştir…">
@@ -372,6 +380,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Önceki oturumu geri yükle">
 
 <!ENTITY showAllHistoryCmd2.label "Tüm geçmişi göster">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Tüm geçmişi göster">
@@ -592,9 +601,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Bağlantıyı e-postayla gönder…">
 <!ENTITY emailPageCmd.accesskey       "e">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Sayfayı farklı kaydet…">
 <!ENTITY savePageCmd.accesskey        "f">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "f">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Çerçeveyi farklı kaydet…">
@@ -699,22 +708,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Yaklaştır">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "Y">
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Uzaklaştır">
 <!ENTITY fullZoomReduceCmd.accesskey    "U">
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Sıfırla">
 <!ENTITY fullZoomResetCmd.accesskey     "S">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Sadece metni yakınlaştır">
 <!ENTITY fullZoomToggleCmd.accesskey    "m">
+
 <!ENTITY fullZoom.label                 "Yakınlaştırma">
 <!ENTITY fullZoom.accesskey             "Y">
 
@@ -732,6 +745,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Kapat">
+
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "K">
 
@@ -851,7 +865,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Ödemeler">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Yorumlar">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Videolar">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Korumaları kapatmanıza rağmen site düzgün çalışmıyor mu?">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Rapor gönderin">
 
+<!ENTITY protections.blocking.label "Engelleniyor">
+<!ENTITY protections.notBlocking.label "Engellenmiyor">
 <!ENTITY protections.notBlocking.why.label "Neden?">
 <!ENTITY protections.fingerprinters.label "Parmak izi toplayıcılar">
 <!ENTITY protections.cryptominers.label "Kripto madenciler">
@@ -872,6 +890,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label;’e giriş yap…">
 <!ENTITY syncSignIn.accesskey         "Y">
+
 <!ENTITY syncSyncNowItem.label        "Şimdi eşitle">
 <!ENTITY syncSyncNowItemSyncing.label "Eşitleniyor…">
 <!ENTITY syncSyncNowItem.accesskey    "m">
@@ -916,6 +935,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.learnMore "Daha fazla bilgi al">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Adres">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Nasıl bir sorunla karşılaştınız? (tercihe bağlı)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "İsteğe bağlı: Sorunu açıklayın">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Raporu gönder">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Vazgeç">
 

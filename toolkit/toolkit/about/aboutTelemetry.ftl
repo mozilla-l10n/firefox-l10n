@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = Ping verisi kaynağı:
 about-telemetry-show-current-ping-data = Şu anki ping verileri
+about-telemetry-show-current-data = Güncel veriler
 about-telemetry-show-archived-ping-data = Arşivlenmiş ping verileri
 about-telemetry-show-subsession-data = Alt oturum verilerini göster
 about-telemetry-choose-ping = Ping'i seçin:
@@ -76,6 +77,7 @@ about-telemetry-settings-explanation = Telemetri { about-telemetry-data-type } t
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Her bilgi parçası “<a data-l10n-name="ping-link">ping</a>” paketleri halinde gönderilir. Şu anda { $name }, { $timestamp } ping’ine bakıyorsunuz.
 about-telemetry-ping-details-current = Her bilgi parçası “<a data-l10n-name="ping-link">ping</a>“ paketleri halinde gönderilir. Şu anda şu anın ping’ine bakıyorsunuz.
+about-telemetry-data-details-current = Her bilgi parçası  “<a data-l10n-name="ping-link">ping</a>“ denilen paketler halinde gönderilir. Şu anda güncel verilere bakıyorsunuz.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -102,6 +104,8 @@ about-telemetry-no-search-results-all = Kusura bakmayın, hiçbir bölümde “{
 about-telemetry-no-data-to-display = Kusura bakmayın, şu anda “{ $sectionName }” bölümünde hiç veri yok
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = şu anki ping
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = güncel veriler
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = tümü
 # button label to copy the histogram

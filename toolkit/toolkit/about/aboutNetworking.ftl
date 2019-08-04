@@ -57,3 +57,11 @@ rcwn-avg-long = Uzun ortalama
 rcwn-std-dev-long = Uzun standart sapma
 rcwn-cache-slow = Yavaş önbellek sayısı
 rcwn-cache-not-slow = Yavaş olmayan önbellek sayısı
+networkid = Ağ kimliği
+networkid-id = Ağ kimliği
+
+## Link is intended as "network link"
+
+
+
+
