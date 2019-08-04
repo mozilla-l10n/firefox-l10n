@@ -155,6 +155,10 @@ about-debugging-extension-id =
 # Notes, this relates to the "Push" API, which is normally not localized so it is
 # probably better to not localize it.
 about-debugging-worker-action-push = Push
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start = Simulan
+# This string is displayed as a label of the button that unregisters a service worker.
+about-debugging-worker-action-unregister = I-unregister
 # Displayed for service workers in runtime pages that are registered but stopped.
 about-debugging-worker-status-stopped = NakatigilItinigil
 # Label text used for default state of details of message component.
