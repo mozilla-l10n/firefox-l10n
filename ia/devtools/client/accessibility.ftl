@@ -6,6 +6,7 @@
 ### These strings are used inside the Accessibility panel.
 
 accessibility-learn-more = Saper plus
+accessibility-text-label-header = Etiquettas e nomines texto
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
@@ -20,3 +21,4 @@ accessibility-best-practices =
 ## that describe that currently selected accessible object has an accessibility issue
 ## with its text label or accessible name.
 
+accessibility-text-label-issue-heading-content = Les titulos debe haber un contento textual visibile. <a>Saper plus</a>
