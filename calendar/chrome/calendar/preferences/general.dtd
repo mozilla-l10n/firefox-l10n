@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.mainbox.label "Жалпы баптаулар" >
+
 <!ENTITY pref.dateformat.label "Күнді көрсету пішімі:" >
 <!ENTITY pref.dateformat.accesskey "К">
 <!ENTITY pref.dateformat.long "Ұзақ" >
@@ -24,6 +25,9 @@
 <!ENTITY pref.default_event_length.label "Бастапқы ұзақтығы:" >
 <!ENTITY pref.default_event_length.accesskey "с">
 
+<!ENTITY pref.default_event_task_length.label "Оқиға және тапсырманың үнсіз келісім ұзақтығы">
+<!ENTITY pref.default_event_task_length.accesskey "ы">
+
 <!ENTITY pref.default_task_none.label "Ешнәрсе">
 <!ENTITY pref.default_task_start_of_day.label "Күннің басы">
 <!ENTITY pref.default_task_end_of_day.label "Күннің соңы">
@@ -34,9 +38,6 @@
 <!ENTITY pref.default_task_offset_next_hour.label "Келесі сағатқа салыстырмалы түрде">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Бүгінгі панелі">
-<!ENTITY pref.soondays.label "Болашақ таңдауы көрсетеді:">
-<!ENTITY pref.soondays.accesskey "ш">
-
 <!-- LOCALIZATION NOTE (pref.soondays2.label):
      "Upcoming" is the name of a section and the translation must match the
      translation of that section name (calendar.upcoming.button.label). Also,
