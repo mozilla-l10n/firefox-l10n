@@ -4,12 +4,18 @@
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
+<!ENTITY fileMenu.label          "File">
+<!ENTITY fileMenu.accesskey        "F">
+<!ENTITY newMenu.label            "Nove">
+<!ENTITY newMenu.accesskey          "N">
 
 <!ENTITY editMenu.label          "Rediger">
 <!ENTITY editMenu.accesskey        "R">
 <!ENTITY undoCmd.label            "Disfacer">
 <!ENTITY undoCmd.key            "D">
+<!ENTITY undoCmd.accesskey          "U">
 <!ENTITY redoCmd.label            "Refacer">
+<!ENTITY redoCmd.key            "Y">
 <!ENTITY cutCmd.label            "Taliar">
 <!ENTITY cutCmd.key              "X">
 <!ENTITY copyCmd.label            "Copiar">
@@ -38,4 +44,8 @@
 <!ENTITY quitApplicationCmd.label  "Exir">
 <!ENTITY quitApplicationCmd.key    "Q">
 
+<!ENTITY quitApplicationCmdUnix.label  "Quitar">
+<!ENTITY quitApplicationCmdUnix.accesskey  "Q">
 
+<!ENTITY quitApplicationCmdMac.label  "Quitar &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey  "Q">

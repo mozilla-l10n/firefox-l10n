@@ -27,9 +27,15 @@
 <!ENTITY cellSelectNext.accessKey         "S">
 <!ENTITY cellSelectPrevious.label         "Precedente">
 <!ENTITY cellSelectPrevious.accessKey     "P">
+<!ENTITY cellHorizontal.label             "Horizontal:">
+<!ENTITY cellHorizontal.accessKey         "Z">
+<!ENTITY cellVertical.label               "Vertical:">
+<!ENTITY cellVertical.accessKey           "V">
 <!ENTITY cellNormal.label                 "Normal">
 <!ENTITY cellHeader.label                 "Titulo">
+<!ENTITY cellWrap.label                   "Circuir">
 <!ENTITY cellAlignTop.label               "Apice">
+<!ENTITY cellAlignBottom.label            "Basso">
 
 <!-- Used in both Table and Cell panels  -->
 <!ENTITY size.label                       "Dimension">

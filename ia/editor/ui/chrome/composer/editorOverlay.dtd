@@ -12,6 +12,9 @@
 <!ENTITY pasteAs.label "Collar como">
 <!ENTITY pasteAs.accesskey "o">
 <!ENTITY findBarCmd.label "Trovar…">
+<!ENTITY findReplaceCmd.label "Trovar e reimplaciar…">
+<!ENTITY checkSpellingCmd2.label "Verificar le orthographia…">
+<!ENTITY checkSpellingCmd2.accesskey "r">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Inserer">
