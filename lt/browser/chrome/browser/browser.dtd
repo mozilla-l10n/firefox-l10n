@@ -852,8 +852,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Atverti turinio blokavimo nuostatas">
 
 
-<!ENTITY protections.etpON.header "Patobulinta apsauga nuo stebėjimo šioje svetainėje įjungta">
-<!ENTITY protections.etpOFF.header "Patobulinta apsauga nuo stebėjimo šioje svetainėje išjungta">
+<!ENTITY protections.etpON.header "Išplėsta apsauga nuo stebėjimo šioje svetainėje įjungta">
+<!ENTITY protections.etpOFF.header "Išplėsta apsauga nuo stebėjimo šioje svetainėje išjungta">
 <!ENTITY protections.settings.label "Apsaugos nuostatos">
 <!ENTITY protections.report.label "Rodyti visą ataskaitą">
 <!-- LOCALIZATION NOTE:
@@ -885,7 +885,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Stebėjimo turinys">
 <!ENTITY protections.fingerprinters.label "Skaitmeninių atspaudų stebėjimas">
 <!ENTITY protections.cryptominers.label "Kriptovaliutų kasėjai">
-<!ENTITY protections.noTrackersFound.description "Tinklalapyje nerasta jokių „&brandShortName;“ žinomų stebėjimo elementų.">
+<!ENTITY protections.noTrackersFound.description "Tinklalapyje nerasta „&brandShortName;“ žinomų stebėjimo elementų.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Šie slapukai seka jus tarp skirtingų svetainių, rinkdami informaciją, ką veikiate naršydami. Jie yra valdomi trečiųjų šalių, pvz., reklamų kūrėjų arba analitikos kompanijų.">
 <!ENTITY protections.cryptominers.description "Kriptovaliutų kasėjai naudoja jūsų kompiuterio resursus, kad iškastų skaitmeninių pinigų. Šis procesas eikvoja jūsų bateriją, lėtina kompiuterio veikimą, ir gali padidinti sąskaitą už elektrą.">
@@ -938,6 +938,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Norėdami blokuoti visus stebėjimo elementus, pasirinkite „griežtą“ turinio blokavimą.">
 
 <!ENTITY contentBlocking.socialblock.label "Socialinių tinklų stebėjimo elementai">
+<!ENTITY contentBlocking.socialblockView.label "Socialinių tinklų stebėjimo elementai blokuojami">
+<!ENTITY contentBlocking.socialblockView.description "Socialiniai tinklai deda stebėjimo elementus kitose svetainėse, kad galėtų sekti ką veikiate, matote, žiūrite naršydami. Tai leidžia kompanijoms sužinoti apie jus žymiai daugiau, negu dalinatės savo socialinių tinklų profiliuose.">
 
 <!ENTITY contentBlocking.cookies.label "Slapukai">
 <!ENTITY contentBlocking.cookiesView.label "Slapukai ir svetainių duomenys">
@@ -952,8 +954,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Pranešti apie problemas">
 <!ENTITY contentBlocking.breakageReportView2.description "Turinio blokavimas gali sutrikdyti kai kurių svetainių veikimą. Pranešdami apie problemas, padėsite tobulinti „&brandShortName;“. „Mozillai“ bus perduodamas svetainės adresas bei informacija apie jūsų naršyklės nuostatas.">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Sužinoti daugiau">
+<!ENTITY contentBlocking.breakageReportView.title "Pranešti apie neveikiančią svetainę">
+<!ENTITY contentBlocking.breakageReportView3.description "Stebėjimo elementų blokavimas gali sutrikdyti kai kurių svetainių veikimą. Pranešdami apie problemas, padėsite tobulinti „&brandShortName;“. Išsiuntus šį pranešimą, „Mozillai“ bus perduotas svetainės adresas bei informacija apie jūsų naršyklės nuostatas.">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Sužinoti daugiau">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Kokių problemų patyrėte? (neprivaloma)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Neprivaloma: aprašykite problemą">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Siųsti pranešimą">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Atsisakyti">
 
