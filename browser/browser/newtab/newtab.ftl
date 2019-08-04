@@ -118,7 +118,7 @@ newtab-label-visited = Besökta
 newtab-label-bookmarked = Bokmärkta
 newtab-label-recommended = Trend
 newtab-label-saved = Spara till { -pocket-brand-name }
-newtab-label-download = Nedladdat
+newtab-label-download = Hämtat
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
