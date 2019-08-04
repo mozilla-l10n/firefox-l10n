@@ -282,6 +282,9 @@ update-enable-search-update =
     .label = Awtomatikong i-update ang mga search engine
     .accesskey = e
 update-pref-write-failure-title = Isulat ang Kabiguan
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Bigong mai-save ang kagustuhan. Hindi makapagsulat sa file: { $path }
 update-setting-write-failure-title = Nagkaroon ng problema sa pag-save ng Update preferences.
 update-in-progress-title = Kasalukuyang Nag-a-update
 update-in-progress-message = Gusto mo bang ipagpatuloy ng { -brand-short-name } ang update na ito?

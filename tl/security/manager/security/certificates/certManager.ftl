@@ -10,11 +10,17 @@ certmgr-detail-pretty-print-tab-title =
     .accesskey = D
 certmgr-pending-label =
     .value = Kasalukuyan pang beneberipika ang certificate...
+certmgr-subject-label = Ibinigay Kay
+certmgr-issuer-label = Ibinigay Ni
+certmgr-period-of-validity = Panahon ng Bisa
+certmgr-fingerprints = Mga Fingerprint
 certmgr-cert-detail =
     .title = Detalye ng Sertipiko
     .buttonlabelaccept = Isara
     .buttonaccesskeyaccept = I
+certmgr-cert-detail-commonname = Common Name (CN)
 certmgr-cert-detail-org = Organisasyon (O)
+certmgr-cert-detail-serial-number = Serial Number
 certmgr-cert-detail-sha-256-fingerprint = SHA-256 Fingerprint
 certmgr-cert-detail-sha-1-fingerprint = SHA1 Fingerprint
 certmgr-edit-ca-cert =
@@ -32,17 +38,35 @@ certmgr-cert-name =
     .label = Pangalan ng Sertipiko
 certmgr-cert-server =
     .label = Server
+certmgr-override-lifetime =
+    .label = Habang-buhay
+certmgr-token-name =
+    .label = Security Device
+certmgr-begins-on = Nagsisimula Sa
+certmgr-begins-label =
+    .label = Nagsisimula Sa
+certmgr-expires-on = Mawawalang Bisa Sa
+certmgr-expires-label =
+    .label = Mawawalang Bisa Sa
+certmgr-email =
+    .label = E-Mail Address
 certmgr-serial =
     .label = Serial Number
 certmgr-view =
     .label = Tingnan
     .accesskey = T
+certmgr-edit =
+    .label = Baguhin ang Trust...
+    .accesskey = E
 certmgr-export =
     .label = I-export...
     .accesskey = x
 certmgr-delete =
     .label = Burahin…
     .accesskey = B
+certmgr-delete-builtin =
+    .label = Burahin o I-distrust...
+    .accesskey = D
 certmgr-backup =
     .label = Backup…
     .accesskey = B
@@ -82,6 +106,9 @@ pk11-bad-password = Hindi tama ang pinasok mong password.
 
 ## PKCS#12 file dialogs
 
+choose-p12-backup-file-dialog = File Name ng Backup
+file-browse-pkcs12-spec = Mga PKCS12 File
+choose-p12-restore-file-dialog = Certificate File na Iiimport
 
 ## Import certificate(s) file dialog
 
@@ -110,6 +137,11 @@ not-present =
     .value = <Not Part Of Certificate>
 # Cert verification
 cert-verified = Ang sertipikong ito ay nasiyasat para sa mga sumusunod na gamit:
+# Add usage
+verify-ssl-client =
+    .value = SSL Client Certificate
+verify-ssl-server =
+    .value = SSL Server Certificate
 verify-ssl-ca =
     .value = SSL Certificate Authority
 # Cert verification

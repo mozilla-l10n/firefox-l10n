@@ -6,6 +6,7 @@ about-logins-page-title = Mga Login at Password
 login-filter =
     .placeholder = Hanapin sa mga Login
 create-login-button = Gumawa ng Bagong Login
+fxaccounts-sign-in-text = Kuhanin ang iyong mga password sa iba mong mga device
 fxaccounts-sign-in-button = Mag-sign in sa { -sync-brand-short-name }
 
 ## The ⋯ menu that is in the top corner of the page
@@ -41,6 +42,8 @@ login-list-item-subtitle-missing-username = (walang username)
 ## Introduction screen
 
 login-intro-instruction-fxa = Gumawa ng o mag-sign in sa iyong { -fxaccount-brand-name } sa device kung saan naka-save ang mga login mo
+login-intro-instruction-fxa-settings = Siguruhin na napili mo ang checkbox na Mga Login sa Mga Setting ng { -sync-brand-short-name }
+login-intro-instruction-faq = Bisitahin ang <a data-l10n-name="faq">Mga Kadalasang Tinatanong</a> sa { -lockwise-brand-short-name } para sa karagdagang tulong
 
 ## Login
 

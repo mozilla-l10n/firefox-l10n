@@ -12,6 +12,8 @@
 ### across the developer tools. A good criteria is the language in which you'd find the
 ### best documentation on web development on the web.
 
+# Header for the list of Service Workers displayed in the application panel for the current page.
+serviceworker-list-header = Mga Service Worker
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = Unregister
 # Text for the debug link displayed for an already started Service Worker. Clicking on the

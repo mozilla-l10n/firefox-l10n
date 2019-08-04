@@ -14,7 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Tulong"> 
 <!ENTITY helpMenuWin.accesskey    "T">
-<!ENTITY aboutProduct2.label      "About &brandShorterName;">
+<!ENTITY aboutProduct2.label      "Tungkol sa &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "&brandShorterName; Help">
 <!ENTITY productHelp2.accesskey   "H">

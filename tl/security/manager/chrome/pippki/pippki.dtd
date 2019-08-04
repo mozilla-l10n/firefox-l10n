@@ -8,6 +8,7 @@
 <!ENTITY setPassword.oldPassword.label "Kasalukuyang na password:">
 <!ENTITY setPassword.newPassword.label "Bagong password:">
 <!ENTITY setPassword.reenterPassword.label "Bagong password (ulit):">
+<!ENTITY setPassword.meter.label "Pangsukat ng kalidad ng password">
 
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "I-reset">
@@ -16,10 +17,15 @@
 
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Kinukuha ang Sertipiko">
+<!ENTITY downloadCert.message1 "Pinapakiusapan kang pagkatiwalaan ang isang bagong Certificate Authority (CA).">
 <!ENTITY downloadCert.trustSSL "Trust this CA to identify web sites.">
+<!ENTITY downloadCert.trustEmail "Pagkatiwalaan ang CA na ito para matukoy ang mga email user.">
 <!ENTITY downloadCert.message3 "Bago ng magtiwala dito sa  CA  para sa anumang layunin, dapat mong suriin ang sertipiko at ang patakaran at pamamaraan (kung kinakailangan).">
+<!ENTITY downloadCert.viewCert.label "Tingnan">
+<!ENTITY downloadCert.viewCert.text "Suriin ang CA certificate">
 
 <!-- Strings for the SSL client auth ask dialog -->
+<!ENTITY clientAuthAsk.title "User Identification Request">
 <!ENTITY clientAuthAsk.message1 "Ang site na ito ay humiling sa iyo na makilala ang iyong sarili sa isang sertipiko:">
 
 <!ENTITY pkcs12.setpassword.message  "Poprotektahan ng certificate backup password ang backup file na gagawin mo. Kailangan mong magset ng password para magpatuloy sa pagbackup.">
@@ -28,6 +34,8 @@
 <!ENTITY chooseToken.message1 "Mamili ng token.">
 
 <!-- Strings for the CreateCertInfo dialog  -->
+<!ENTITY createCertInfo.title "Paggawa ng Private Key">
+<!ENTITY createCertInfo.msg2 "Pakiintay…">
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.tokenName.label "Token:">
