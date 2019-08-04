@@ -861,6 +861,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Түсіндірмелер">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Видеолар">
 
+<!ENTITY protections.notBlocking.why.label "Неге?">
 
 
 
