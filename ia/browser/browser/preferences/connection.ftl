@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window =
-    .title = Parametros de connection
+    .title = Parametros de connexion
     .style =
         { PLATFORM() ->
             [macos] width: 44em

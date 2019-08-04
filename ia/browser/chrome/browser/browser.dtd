@@ -861,7 +861,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Campos de credentiales">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Formularios">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Pagamentos">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Commentos">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Videos">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Inviar un reporto">
 
+<!ENTITY protections.blocking.label "Blocada">
+<!ENTITY protections.notBlocking.why.label "Perque?">
+<!ENTITY protections.cryptominers.label "Crypto-minatores">
 
 
 
@@ -921,6 +930,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Reportar problemas">
 <!ENTITY contentBlocking.breakageReportView2.description "Le Blocada de contentos pote causar problemas con alcun sitos web. Quando tu reporta problemas, tu adjutara a render &brandShortName; melior pro totes. (Isto inviara a Mozilla un URL tam ben como informationes circa configurationes de tu navigator.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Saper plus">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Saper plus">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Que problema ha tu? (Optional)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Inviar le reporto">
