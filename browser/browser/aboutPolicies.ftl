@@ -15,11 +15,3 @@ inactive-message = Servicen virksomheds-politikker er inaktiv.
 policy-name = Navn på politik
 policy-value = Værdi for politik
 policy-errors = Fejl med politik
-
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-  .title = Når Gruppepolitik anvendes kan denne politik kun indstilles på computer-niveau.

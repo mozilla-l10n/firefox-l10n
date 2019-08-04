@@ -5,32 +5,43 @@
 permissions-window =
     .title = Undtagelser
     .style = width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Adresse på websted
     .accesskey = d
+
 permissions-block =
     .label = Bloker
     .accesskey = B
+
 permissions-session =
     .label = Tillad for session
     .accesskey = s
+
 permissions-allow =
     .label = Tillad
     .accesskey = T
+
 permissions-site-name =
     .label = Websted
+
 permissions-status =
     .label = Status
+
 permissions-remove =
     .label = Fjern websted
     .accesskey = F
+
 permissions-remove-all =
     .label = Fjern alle websteder
     .accesskey = a
+
 permissions-button-cancel =
     .label = Fortryd
     .accesskey = o
+
 permissions-button-ok =
     .label = Gem ændringer
     .accesskey = G
@@ -53,12 +64,11 @@ permissions-capabilities-block =
     .label = Bloker
 permissions-capabilities-prompt =
     .label = Spørg altid
+
 permissions-capabilities-listitem-allow =
     .value = Tillad
 permissions-capabilities-listitem-block =
     .value = Bloker
-permissions-capabilities-listitem-allow-first-party =
-    .value = Tillad kun for det oprindelige websted
 permissions-capabilities-listitem-allow-session =
     .value = Tillad for session
 
@@ -69,10 +79,6 @@ permissions-invalid-uri-label = Indtast venligst et gyldigt værtsnavn
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Undtagelser - beskyttelse mod sporing
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Du har deaktiveret beskyttelse mod sporing på disse websteder.
 permissions-exceptions-content-blocking-window =
     .title = Undtagelser - blokering af indhold
     .style = { permissions-window.style }

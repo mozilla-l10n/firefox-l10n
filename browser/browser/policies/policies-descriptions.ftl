@@ -27,8 +27,6 @@ policy-Bookmarks = Opret bogmærker i Bogmærkelinjen, i menuen Bogmærker eller
 
 policy-CaptivePortal = Slå understøttelse af captive portal til eller fra.
 
-policy-Certificates = Om indbyggede certifikater skal anvendes eller ikke. Denne politik gælder kun for Windows på nuværende tidspunkt.
-
 policy-CertificatesDescription = Tilføj certifikater eller brug indbyggede certifikater.
 
 policy-Cookies = Tillad eller nægt websteder at sætte cookies.
@@ -68,8 +66,6 @@ policy-DisableSafeMode = Deaktiver funktionen til at genstarte i fejlsikret tils
 
 policy-DisableSecurityBypass = Deaktiver brugerens mulighed for at omgå bestemte sikkerhedsadvarsler
 
-policy-DisableSetDesktopBackground = Deaktiver menu-kommandoen Brug billede som skrivebordsbaggrund
-
 policy-DisableSetAsDesktopBackground = Deaktiver menu-kommandoen Brug som skrivebordsbaggrund
 
 policy-DisableSystemAddonUpdate = Deaktiver browserens mulighed for at installere og opdatere system-tilføjelser.
@@ -91,8 +87,7 @@ policy-EnableTrackingProtection = Slå Blokering af indhold til eller fra. Bruge
 
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
-# English or translate them as verbs. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+# English or translate them as verbs.
 policy-Extensions = Installer, afinstaller eller lås udvidelser. Valgmuligheden Installer tager URL’er eller stier som parametre. Valgmulighederne Afinstaller og Låst tager udvidelelses-ID som parameter.
 
 policy-ExtensionSettings = Håndter alle aspekter af udvidelses-installering.
@@ -136,8 +131,6 @@ policy-Proxy = Opsæt proxy-indstillinger.
 
 policy-RequestedLocales = Vælg rækkefølgen af sprog, der skal anvendes i programmet.
 
-policy-SanitizeOnShutdown = Ryd al browsing-data ved lukning.
-
 policy-SanitizeOnShutdown2 = Ryd browsing-data ved lukning.
 
 policy-SearchBar = Indstil standard-placering af søgefeltet. Brugeren kan stadig tilpasse feltet. 
@@ -155,6 +148,5 @@ policy-SSLVersionMin = Angiv den laveste SSL-version.
 
 policy-SupportMenu = Føj et tilpasset menupunkt til menuen Hjælp.
 
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloker websteder fra at blive besøgt. Se dokumentationen for detaljer om formatet.

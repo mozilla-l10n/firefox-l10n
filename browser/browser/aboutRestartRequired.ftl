@@ -4,8 +4,6 @@
 
 restart-required-title = Genstart påkrævet
 restart-required-header = Du bliver nødt til at genstarte din browser.
-restart-required-intro = Vi har installeret en opdatering i baggrunden. Klik på Genstart { -brand-short-name } for at
-    fuldføre installationen.
 restart-required-intro-brand = { -brand-short-name } er blevet opdateret i baggrunden. Klik på Genstart { -brand-short-name } for at gøre opdateringen færdig.
 restart-required-description = Vi genskaber alle dine åbne sider, vinduer og faneblade, så du hurtigt kan komme videre.
 

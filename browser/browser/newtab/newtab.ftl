@@ -29,10 +29,12 @@ newtab-topsites-edit-topsites-header = Rediger mest besøgte webside
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Indtast en titel
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Indtast eller indsæt en URL
 newtab-topsites-url-validation = Gyldig URL påkrævet
+
 newtab-topsites-image-url-label = URL til selvvalgt billede
 newtab-topsites-use-image-link = Brug selvvalgt billede…
 newtab-topsites-image-validation = Kunne ikke indlæse billede. Prøv en anden URL.
@@ -47,6 +49,8 @@ newtab-topsites-add-button = Tilføj
 
 ## Top Sites - Delete history confirmation dialog. 
 
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Er du sikker på, at du vil slette alle forekomster af denne side fra din historik?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Denne handling kan ikke fortrydes.
@@ -57,6 +61,7 @@ newtab-confirm-delete-history-p2 = Denne handling kan ikke fortrydes.
 newtab-menu-section-tooltip =
     .title = Åbn menu
     .aria-label = Åbn menu
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -80,10 +85,14 @@ newtab-menu-delete-history = Slet fra historik
 newtab-menu-save-to-pocket = Gem til { -pocket-brand-name }
 newtab-menu-delete-pocket = Slet fra { -pocket-brand-name }
 newtab-menu-archive-pocket = Arkiver i { -pocket-brand-name }
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Fjern bogmærke
 # Bookmark is a verb here.
 newtab-menu-bookmark = Bogmærk
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -116,6 +125,9 @@ newtab-label-download = Hentet
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+## Section Menu: These strings are displayed in the section context menu and are 
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = Fjern afsnit
 newtab-section-menu-collapse-section = Sammenfold afsnit
 newtab-section-menu-expand-section = Udvid afsnit
@@ -126,6 +138,13 @@ newtab-section-menu-add-search-engine = Tilføj søgetjeneste
 newtab-section-menu-move-up = Flyt op
 newtab-section-menu-move-down = Flyt ned
 newtab-section-menu-privacy-notice = Privatlivspolitik
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Sammenfold afsnit
+newtab-section-expand-section-label =
+    .aria-label = Udvid afsnit
 
 ## Section Headers.
 
@@ -138,10 +157,21 @@ newtab-section-header-pocket = Anbefalet af { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Gå i gang med at browse, så vil vi vise dig nogle af de artikler, videoer og andre sider, du har besøgt eller gemt et bogmærke til for nylig.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Der er ikke flere nye historier. Kom tilbage senere for at se flere tophistorier fra { $provider }. Kan du ikke vente? Vælg et populært emne og find flere spændende historier fra hele verden.
+
+
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-header = Du er opdateret!
+newtab-discovery-empty-section-topstories-content = Kom tilbage senere for at se flere historier.
+newtab-discovery-empty-section-topstories-try-again-button = Prøv igen
+newtab-discovery-empty-section-topstories-loading = Indlæser…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Hov. Det lykkedes ikke at indlæse afsnittet.
 
 ## Pocket Content Section.
 
