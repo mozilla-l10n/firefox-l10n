@@ -48,6 +48,9 @@ login-list-item-subtitle-missing-username = (nincs felhasználónév)
 
 login-intro-heading = A mentett bejelentkezéseit keresi? Állítsa be a { -sync-brand-short-name }-t.
 login-intro-description = Ha egy másik eszközön mentette a bejelentkezéseit a { -brand-product-name }ban, akkor így érheti el őket itt:
+login-intro-instruction-fxa = Hozzon létre egyet, vagy jelentkezzen be a { -fxaccount-brand-name }jába azon az eszközön, amelyen a bejelentkezéseit menti
+login-intro-instruction-fxa-settings = Győződjön meg róla, hogy bejelölte a Bejelentkezések választómezőt a { -sync-brand-short-name } beállításokban
+login-intro-instruction-faq = További segítségért keresse fel a { -lockwise-brand-short-name }-zal kapcsolatos <a data-l10n-name="faq">gyakran ismétlődő kérdéseket</a>
 
 ## Login
 
@@ -89,6 +92,11 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Mégse
 confirmation-dialog-dismiss-button =
     .title = Mégse
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Mindenhol szeretne hozzáférni a bejelentkezéseihez, ahol a { -brand-product-name }ot használja? Ugorjon a { -sync-brand-short-name } beállításokhoz és jelölje be a Bejelentkezések választógombot.
+       *[other] Mindenhol szeretne hozzáférni a bejelentkezéseihez, ahol a { -brand-product-name }ot használja? Ugorjon a { -sync-brand-short-name } beállításokhoz és jelölje be a Bejelentkezések választógombot.
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -105,4 +113,5 @@ confirm-discard-changes-dialog-confirm-button = Elvetés
 
 ## Breach Alert notification
 
+breach-alert-text = A jelszavai kiszivárogtak vagy ellopták őket a weboldalról a bejelentkezési adatai legutóbbi frissítése óta. A fiókja védelme érdekében cserélje le jelszavát.
 breach-alert-link = Tudjon meg többet erről az adatsértésről.
