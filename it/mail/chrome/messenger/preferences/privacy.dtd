@@ -37,4 +37,5 @@
 <!ENTITY dntTrackingNotOkay.accesskey "I">
 <!ENTITY doNotTrackInfo.label "Maggiori informazioni su Non tracciare">
 
+<!ENTITY doNotTrackCheck.label "Comunica ai siti la volontà di non essere tracciato inviando un segnale “Do Not Track”">
 <!ENTITY doNotTrackLearnMore.label "Ulteriori informazioni">
