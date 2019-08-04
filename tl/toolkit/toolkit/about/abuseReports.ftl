@@ -6,6 +6,7 @@ abuse-report-submit-description = Ilarawan ang problema (opsyonal)
 
 ## Panel buttons.
 
+abuse-report-cancel-button = Kanselahin
 
 ## Message bars descriptions.
 

@@ -12,10 +12,10 @@ update-updateButton =
     .label = I-restart upang i-update ang { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Naghahanap ng updates...
-update-downloading = <img data-l10n-name="icon"/>Nagda-download ng update<label data-l10n-name="download-status"/>
+update-downloading = <img data-l10n-name="icon"/>Nagda-download ng update — <label data-l10n-name="download-status"/>
 update-applying = Ina-apply ang update...
-update-failed = Hindi matagumpay na Update.<label data-l10n-name="failed-link">I-download ang pinakabagong bersyon</label>
-update-failed-main = Hindi matagumpay na Update.<a data-l10n-name="failed-link-main">I-download ang pinakabagong bersyon</a>
+update-failed = Bigo ang pag-update. <label data-l10n-name="failed-link">I-download ang pinakabagong bersyon</label>
+update-failed-main = Bigo ang pag-update. <a data-l10n-name="failed-link-main">I-download ang pinakabagong bersyon</a>
 update-adminDisabled = Ang pagdadagdag ng mga pagbabago ay pinawalang bisa ng iyong system administrator.
 update-noUpdatesFound = Ang { -brand-short-name } ay up to date
 update-otherInstanceHandlingUpdates = { -brand-short-name } ay kasalukuyang I-naupdate ng isa pang instance
