@@ -152,7 +152,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.description "Töltsön fel és osszon meg fájlokat végpontok közötti titkosítással, és egy automatikusan lejáró hivatkozással.">
 <!ENTITY fxa.service.send.launch "&sendShortName; indítása">
+<!ENTITY fxa.service.monitor.description "Ellenőrizze, hogy az e-mail címe jelent-e meg adatsértésben, és kapjon figyelmeztetést, ha új adatsértésben jelenik meg.">
 <!ENTITY fxa.service.monitor.launch "&monitorShortName; indítása">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
