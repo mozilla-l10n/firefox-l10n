@@ -152,6 +152,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.description "Įkelkite ir dalinkitės failais su ištisiniu šifravimu bei gaukite automatiškai baigiantį galioti saitą.">
+<!ENTITY fxa.service.send.launch "Paleisti „&sendShortName;“">
+<!ENTITY fxa.service.monitor.description "Pasitikrinkite, ar jūsų el. paštas yra patekęs tarp nutekėjusių duomenų, ir gaukite pranešimą, jeigu taip įvyks ateityje.">
+<!ENTITY fxa.service.monitor.launch "Paleisti „&monitorShortName;“">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -874,7 +878,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.blocking.label "Blokuojama">
 <!ENTITY protections.notBlocking.label "Neblokuojama">
 <!ENTITY protections.notBlocking.why.label "Kodėl?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Šių dalykų blokavimas gali sutrikdyti elementų, esančių svetainėse, veikimą. Be stebėjimo elementų, gali neveikti kai kurie mygtukai, formos, prisijungimo laukai.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Išjungus apsaugas, šioje svetainėje bus leidžiami stebėjimo elementai. Kartu gali pagerėti tam tikras funkcionalumas.">
+<!ENTITY protections.socialMediaTrackers.label "Socialinių tinklų stebėjimo elementai">
+<!ENTITY protections.crossSiteTrackingCookies.label "Tarp svetainių veikiantys stebėjimo slapukai">
+<!ENTITY protections.trackingContent.label "Stebėjimo turinys">
+<!ENTITY protections.fingerprinters.label "Skaitmeninių atspaudų stebėjimas">
+<!ENTITY protections.cryptominers.label "Kriptovaliutų kasėjai">
+<!ENTITY protections.noTrackersFound.description "Tinklalapyje nerasta jokių „&brandShortName;“ žinomų stebėjimo elementų.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Šie slapukai seka jus tarp skirtingų svetainių, rinkdami informaciją, ką veikiate naršydami. Jie yra valdomi trečiųjų šalių, pvz., reklamų kūrėjų arba analitikos kompanijų.">
+<!ENTITY protections.cryptominers.description "Kriptovaliutų kasėjai naudoja jūsų kompiuterio resursus, kad iškastų skaitmeninių pinigų. Šis procesas eikvoja jūsų bateriją, lėtina kompiuterio veikimą, ir gali padidinti sąskaitą už elektrą.">
+<!ENTITY protections.fingerprinters.description "Skaitmeninių atspaudų stebėjimo metu surenkama informacija apie jūsų naršyklės ir kompiuterio parametrus, kad būtų sudarytas jūsų profilis. Jį turint, jus galima sekti tarp skirtingų svetainių.">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
