@@ -4,6 +4,7 @@
 
 <!-- extracted from AccountManager.xul -->
 
+<!ENTITY accountManagerTitle.label "Configurationes del conto">
 
 
 <!-- AccountManager.xul -->

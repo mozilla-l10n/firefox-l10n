@@ -17,7 +17,10 @@
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
 -->
+<!ENTITY fullnameLabel.label "Tu nomine:">
+<!ENTITY fullnameLabel.accesskey "T">
 
+<!ENTITY emailLabel.label "Adresse email:">
 
 <!-- Entities for Incoming Server page -->
 

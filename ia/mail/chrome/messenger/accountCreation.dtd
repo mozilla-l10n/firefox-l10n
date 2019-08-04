@@ -2,43 +2,75 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
 <!ENTITY name.label                      "Tu nomine:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY email.label                     "Adresse email:">
 <!ENTITY email.accesskey                 "e">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "you@example.com">
+<!ENTITY password.label                  "Contrasigno:">
+<!ENTITY password.accesskey              "C">
+<!ENTITY password.placeholder            "Contrasigno">
+<!ENTITY rememberPassword.label          "Rememorar le contrasigno">
+<!ENTITY rememberPassword.accesskey      "m">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 
+<!ENTITY protocol.label                  "Protocollo:">
 
 <!ENTITY outgoing.label                  "In exito:">
+<!ENTITY outgoingColumn.label            "In exito">
+<!ENTITY username.label                  "Nomine del usator:">
+<!ENTITY port.label                      "Porta">
+<!ENTITY ssl.label                       "SSL">
+<!ENTITY serverRow.label                 "Servitor:">
+<!ENTITY portRow.label                   "Porta:">
+<!ENTITY sslRow.label                    "SSL:">
+<!ENTITY auth.label                      "Authentication">
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop3.label                      "POP3">
 <!-- LOCALIZATION NOTE(exchange.label): Do not translate Exchange, it is a product name. -->
+<!ENTITY smtp.label                      "SMTP">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
      Transmission of emails in cleartext over the Internet. -->
 
 <!-- LOCALIZATION NOTE(exchange-hostname.label): Do not translate Exchange, it is a product name. -->
 
+<!ENTITY cancel.label                    "Cancellar">
+<!ENTITY cancel.accesskey                "a">
+<!ENTITY continue.label                  "Continuar">
+<!ENTITY continue.accesskey              "C">
+<!ENTITY stop.label                      "Cessar">
+<!ENTITY stop.accesskey                  "C">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 
 
+
+
+<!ENTITY warning.label                   "Advertentia!">
+<!ENTITY incomingSettings.label          "Parametros in arrivata:">
 <!ENTITY outgoingSettings.label          "Parametros in exito:">
+<!ENTITY technicaldetails.label          "Detalios technic">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
 <!ENTITY confirmWarning.label            "Io comprehende le riscos.">
+<!ENTITY confirmWarning.accesskey        "u">
 <!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
 <!ENTITY doneAccount.label               "Facite">
+<!ENTITY doneAccount.accesskey           "D">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
      the settings and try again. -->
 <!ENTITY changeSettings.label            "Cambiar parametros">
+<!ENTITY changeSettings.accesskey        "S">
 
 
 
