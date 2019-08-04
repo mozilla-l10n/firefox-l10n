@@ -20,11 +20,13 @@ menu-menuitem-preferences =
     }
 menu-menuitem-feedback = Send tilbakemelding
 menu-menuitem-faq = Vanlege spørsmål
-menu-menuitem-download-android = Lockwise for Android
-menu-menuitem-download-iphone = Lockwise for iPhone og iPad
+menu-menuitem-android-app = { -lockwise-brand-short-name } for Android
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } for iPhone og iPad
 
 ## Login List
 
+login-list =
+    .aria-label = Innloggingar som matchar søket
 login-list-count =
     { $count ->
         [one] { $count } innlogging
@@ -34,9 +36,13 @@ login-list-sort-label-text = Sorter etter:
 login-list-name-option = Namn (A-Å)
 login-list-last-changed-option = Sist endra
 login-list-last-used-option = Sist brukt
+login-list-intro-title = Fann ingen innloggingar
 login-list-item-title-new-login = Ny innlogging
 login-list-item-subtitle-new-login = Skriv inn innloggingsopplysningar
 login-list-item-subtitle-missing-username = (ikkje noko brukarnamn)
+
+## Introduction screen
+
 
 ## Login
 

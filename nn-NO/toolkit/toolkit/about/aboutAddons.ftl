@@ -273,6 +273,10 @@ discopane-intro =
     ofte utvikla av ein tredjepart. Her er eit utval { -brand-product-name }
     <a data-l10n-name="learn-more-trigger">tilrår</a> for eksepsjonell
     sikkerheit, yting og funksjonalitet.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Nokre av desse tilrådingane er målretta deg. Dei er baserte på andre
+    utvidingar du har installert, profilinnstillingar og statistikk for bruk.
 discopane-notice-learn-more = Les meir
 privacy-policy = Personvernpraksis
 # Refers to the author of an add-on, shown below the name of the add-on.
@@ -359,6 +363,7 @@ install-update-button = Oppdater
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Tillat i private vindauge
+addon-detail-private-browsing-help = Når det er tillate, vil utvidinga få tilgang til aktivitetane dine på nettet medan du brukar privat nettlesing. <a data-l10n-name="learn-more">Les meir</a>
 addon-detail-private-browsing-allow = Tillat
 addon-detail-private-browsing-disallow = Ikkje tillat
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
