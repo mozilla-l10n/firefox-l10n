@@ -41,6 +41,8 @@ login-list-item-subtitle-missing-username = (walang username)
 
 ## Introduction screen
 
+login-intro-heading = Hinahanap mo ba ang iyong naka-save na mga login? I-set up ang { -sync-brand-short-name }.
+login-intro-description = Kung nag-save ka ng mga login mo sa { -brand-product-name } sa ibang device, ganito ang dapat gawin para makuha mo sila rito:
 login-intro-instruction-fxa = Gumawa ng o mag-sign in sa iyong { -fxaccount-brand-name } sa device kung saan naka-save ang mga login mo
 login-intro-instruction-fxa-settings = Siguruhin na napili mo ang checkbox na Mga Login sa Mga Setting ng { -sync-brand-short-name }
 login-intro-instruction-faq = Bisitahin ang <a data-l10n-name="faq">Mga Kadalasang Tinatanong</a> sa { -lockwise-brand-short-name } para sa karagdagang tulong
