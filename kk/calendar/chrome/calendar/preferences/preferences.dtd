@@ -6,3 +6,6 @@
 <!ENTITY  paneAlarms.title        "Еске салулар">
 <!ENTITY  paneCategories.title    "Санаттар">
 <!ENTITY  paneViews.title         "Көріністер">
+<!ENTITY  panelHeader.title       "Күнтізбе">
+<!ENTITY  panelReminder.title     "Еске салулар">
+<!ENTITY  panelCatecory.title     "Санаттар">

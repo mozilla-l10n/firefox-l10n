@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "Жалпы">
+
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Күн және апта көріністері">
 <!ENTITY pref.calendar.view.multiweekview.caption "Бірнеше апталық көрініс">
 <!ENTITY pref.calendar.view.workweek.caption "Жұмыс аптасы">
@@ -17,6 +18,8 @@
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Көріністер және кіші ай көрінісінде апта нөмірлерін көрсету">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "н">
 <!ENTITY pref.daysoff.label "Жұмыс аптасындағы күндер:">
+
+<!ENTITY pref.workweekDays.label "Жұмыс күндері:">
 
 <!ENTITY pref.calendar.view.daystart.label "Күннің басталуы:">
 <!ENTITY pref.calendar.view.daystart.accesskey "К">
