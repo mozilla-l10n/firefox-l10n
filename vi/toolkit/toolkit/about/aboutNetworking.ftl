@@ -57,3 +57,13 @@ rcwn-avg-long = Trung bình dài
 rcwn-std-dev-long = Độ lệch chuẩn dài
 rcwn-cache-slow = Bộ đếm bộ nhớ đệm chậm
 rcwn-cache-not-slow = Bộ đếm bộ nhớ đệm không chậm
+networkid = ID mạng
+networkid-id = ID mạng
+
+## Link is intended as "network link"
+
+networkid-isUp = Liên kết hoạt động
+networkid-statusKnown = Tình trạng liên kết đã biết
+
+
+
