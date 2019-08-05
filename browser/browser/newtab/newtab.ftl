@@ -47,6 +47,9 @@ newtab-topsites-add-button = Agregar
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = ¿Estás seguro de que quieres eliminar de tu historial todas las instancias de esta página?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Esta acción no se puede deshacer.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Marcador
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Copiar enlace de descarga
 newtab-menu-go-to-download-page = Ir a la página de descarga
 newtab-menu-remove-download = Eliminar del historial
@@ -116,6 +123,10 @@ newtab-label-download = Descargado
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = Eliminar sección
 newtab-section-menu-collapse-section = Sección de colapso
 newtab-section-menu-expand-section = Ampliar la sección
@@ -126,6 +137,9 @@ newtab-section-menu-add-search-engine = Agregar motor de búsqueda
 newtab-section-menu-move-up = Subir
 newtab-section-menu-move-down = Bajar
 newtab-section-menu-privacy-notice = Política de privacidad
+
+## Section aria-labels
+
 
 ## Section Headers.
 
@@ -142,6 +156,15 @@ newtab-empty-section-highlights = Empieza a navegar, y nosotros te mostraremos a
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Ya estás al día. Vuelve luego y busca más historias de { $provider }. ¿No puedes esperar? Selecciona un tema popular y encontrarás más historias interesantes por toda la web.
+
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-header = ¡Estás al día!
+newtab-discovery-empty-section-topstories-content = Vuelve más tarde para más artículos.
+newtab-discovery-empty-section-topstories-try-again-button = Intenta de nuevo
+newtab-discovery-empty-section-topstories-loading = Cargando...
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = ¡Ups! Casi cargamos esta sección, pero no pudimos.
 
 ## Pocket Content Section.
 

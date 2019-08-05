@@ -20,6 +20,7 @@ policy-Bookmarks = Crear marcadores en la barra de herramientas Marcadores, men�
 policy-CaptivePortal = Habilitar o deshabilitar soporte de portal cautivo.
 policy-CertificatesDescription = Agregar certificados o usar certificados incorporados.
 policy-Cookies = Permitir o denegar sitios web para establecer cookies.
+policy-DefaultDownloadDirectory = Establece el directorio de descarga predeterminado
 policy-DisableAppUpdate = Evitar que el navegador se actualice.
 policy-DisableBuiltinPDFViewer = Deshabilitar PDF.js, el lector de PDF integrado en { -brand-short-name }.
 policy-DisableDeveloperTools = Bloquear acceso a las herramientas de desarrollador.
@@ -44,28 +45,33 @@ policy-DisplayBookmarksToolbar = Mostrar la barra de herramientas de marcadores 
 policy-DisplayMenuBar = Mostrar la barra de menú de manera predeterminada.
 policy-DNSOverHTTPS = Configurar DNS over HTTPS.
 policy-DontCheckDefaultBrowser = Deshabilitar la comprobación del navegador predeterminado al inicio.
+policy-DownloadDirectory = Establece y asegura el directorio de descarga
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Habilitar o deshabilitar el bloqueo de contenido y bloquearlo opcionalmente.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Instalar, desinstalar o bloquear extensiones. La opción Instalar toma direcciones URL o rutas como parámetros. Las opciones desinstalar y bloquear toman ID de extensión.
+policy-ExtensionSettings = Administra todos los aspectos de la instalación de extensiones
 policy-ExtensionUpdate = Habilitar o deshabilitar actualizaciones automáticas de extensiones.
+policy-FirefoxHome = Configura Firefox Home.
 policy-FlashPlugin = Permitir o denegar el uso del complemento Flash.
 policy-HardwareAcceleration = Si es "false", desactivar aceleración de hardware.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Establecer y opcionalmente bloquear la página de inicio.
 policy-InstallAddonsPermission = Permitir que algunos sitios web instalen complementos.
+policy-LocalFileLinks = Permitir a sitios web específicos para enlazar a archivos locales.
 policy-NetworkPrediction = Habilitar o deshabilitar predicción de red (búsqueda previa de DNS).
+policy-NewTabPage = Habilitar o deshabilitar la página Nueva pestaña.
 policy-NoDefaultBookmarks = Deshabilitar la creación de los marcadores predeterminados incluidos con { -brand-short-name }, y los marcadores inteligentes (etiquetas más visitadas y recientes). Nota: esta política solo es efectiva si se usa antes de la primera ejecución del perfil.
 policy-OfferToSaveLogins = Haz cumplir la configuración para permitir que { -brand-short-name } ofrezca recordar inicios de sesión y contraseñas guardadas. Se aceptan valores verdaderos y falsos.
 policy-OverrideFirstRunPage = Anular la primera página de ejecución. Establecer esta política en blanco si desea deshabilitar la primera página de ejecución.
 policy-OverridePostUpdatePage = Anular la página "Novedades" posterior a la actualización. Establecer esta política en blanco si deseas deshabilitar la página posterior a la actualización.
 policy-Permissions = Configurar permisos para cámara, micrófono, ubicación y notificaciones.
 policy-PopupBlocking = Permitir que ciertos sitios web muestren ventanas emergentes de manera predeterminada.
+policy-Preferences = Establece y bloquea el valor para un subconjunto de preferencias.
 policy-Proxy = Configura los ajustes del proxy.
 policy-RequestedLocales = Establecer la lista de localizaciones solicitadas para la aplicación, ordenadas por preferencia.
-policy-SanitizeOnShutdown = Borrar todos los datos de navegación al apagar.
 policy-SearchBar = Establecer la ubicación predeterminada de la barra de búsqueda. El usuario aún puede personalizarlo.
 policy-SearchEngines = Configurar los ajustes del motor de búsqueda. Esta política solo está disponible en la versión Extended Support Release (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation

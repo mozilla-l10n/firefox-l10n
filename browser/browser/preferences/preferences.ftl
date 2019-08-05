@@ -29,6 +29,7 @@ search-input-box =
             [windows] Encontrar en opciones
            *[other] Encontrar en configuraciones
         }
+managed-notice = Tu organización gestiona el navegador.
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -273,6 +274,7 @@ update-application-check-choose =
 update-application-manual =
     .label = Nunca busque actualizaciones (no recomendado)
     .accesskey = N
+update-application-warning-cross-user-setting = Este ajuste se aplicará a todas las cuentas de Windows y perfiles de { -brand-short-name } usando esta instalación de { -brand-short-name }.
 update-application-use-service =
     .label = Utilizar un servicio en segundo plano para instalar las actualizaciones
     .accesskey = s
@@ -283,6 +285,7 @@ update-pref-write-failure-title = Error de escritura
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = No se pudo guardar la preferencia. No se pudo escribir al archivo: { $path }
+update-setting-write-failure-title = Error al guardar las preferencias de actualizaciones
 
 ## General Section - Performance
 

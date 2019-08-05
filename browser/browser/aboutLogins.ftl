@@ -55,12 +55,57 @@ login-intro-instruction-faq = Visita { -lockwise-brand-short-name } <a data-l10n
 ## Login
 
 login-item-new-login-title = Crear nuevo inicio de sesión
+login-item-edit-button = Editar
+login-item-delete-button = Eliminar
+login-item-origin-label = Dirección de sitio web
+login-item-origin =
+    .placeholder = https://www.ejemplo.com
+login-item-open-site-button = Iniciar
+login-item-username-label = Nombre de usuario
+login-item-username =
+    .placeholder = nombre@ejemplo.com
+login-item-copy-username-button-text = Copiar
+login-item-copied-username-button-text = ¡Copiado!
+login-item-password-label = Contraseña
+login-item-password-reveal-checkbox-show =
+    .title = Mostrar contraseña
+login-item-password-reveal-checkbox-hide =
+    .title = Esconder contraseña
+login-item-copy-password-button-text = Copiar
+login-item-copied-password-button-text = ¡Copiado!
+login-item-save-changes-button = Guardar cambios
+login-item-save-new-button = Guardar
+login-item-cancel-button = Cancelar
+login-item-time-changed = Última modificación: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Creado: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Último uso: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
+master-password-notification-message = Por favor, ingresa tu contraseña maestra para ver tus inicios de sesión guardados y contraseñas
+master-password-reload-button =
+    .label = Iniciar sesión
+    .accesskey = L
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Cancelar
+confirmation-dialog-dismiss-button =
+    .title = Cancelar
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Visita las opciones de { -sync-brand-short-name }
+           *[other] Visita las preferencias de { -sync-brand-short-name }
+        }
+    .accesskey = V
+confirm-delete-dialog-title = ¿Eliminar este inicio de sesión?
+confirm-delete-dialog-message = Esta acción no se puede deshacer
+confirm-delete-dialog-confirm-button = Eliminar
+confirm-discard-changes-dialog-title = ¿Descartar cambios no guardados?
+confirm-discard-changes-dialog-message = Todos los cambios no guardados se perderán.
+confirm-discard-changes-dialog-confirm-button = Descartar
 
 ## Breach Alert notification
 
+breach-alert-link = Saber más acerca de esta filtración
