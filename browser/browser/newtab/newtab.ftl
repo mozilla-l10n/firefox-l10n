@@ -47,6 +47,9 @@ newtab-topsites-add-button = Dodaj
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Jeste li sigurni da želite obrisati sve primjere ove stranice iz vaše povijesti?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Ova radnja je nepovratna.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Zabilježi stranicu
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Kopiraj poveznicu preuzimanja
 newtab-menu-go-to-download-page = Idi na stranicu preuzimanja
 newtab-menu-remove-download = Ukloni iz povijesti
@@ -116,6 +123,10 @@ newtab-label-download = Preuzeto
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = Ukloni odjel
 newtab-section-menu-collapse-section = Skupi odjel
 newtab-section-menu-expand-section = Proširi odjel
@@ -126,6 +137,13 @@ newtab-section-menu-add-search-engine = Dodaj tražilicu
 newtab-section-menu-move-up = Pomakni gore
 newtab-section-menu-move-down = Pomakni dolje
 newtab-section-menu-privacy-notice = Politika privatnosti
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Skupi odjel
+newtab-section-expand-section-label =
+    .aria-label = Proširi odjel
 
 ## Section Headers.
 
