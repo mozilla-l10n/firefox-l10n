@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.mainbox.label "Splošne nastavitve" >
+
 <!ENTITY pref.dateformat.label "Oblika zapisa datuma:" >
 <!ENTITY pref.dateformat.accesskey "O">
 <!ENTITY pref.dateformat.long "Dolga" >
@@ -24,6 +25,9 @@
 <!ENTITY pref.default_event_length.label "Privzeta dolžina:" >
 <!ENTITY pref.default_event_length.accesskey "P">
 
+<!ENTITY pref.default_event_task_length.label "Privzeta dolžina dogodkov in opravil">
+<!ENTITY pref.default_event_task_length.accesskey "d">
+
 <!ENTITY pref.default_task_none.label "Brez">
 <!ENTITY pref.default_task_start_of_day.label "Začetek dneva">
 <!ENTITY pref.default_task_end_of_day.label "Zaključek dneva">
@@ -34,9 +38,6 @@
 <!ENTITY pref.default_task_offset_next_hour.label "Glede na naslednjo uro">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Današnji dan">
-<!ENTITY pref.soondays.label "Odsek 'Prihajajoči' prikazuje:">
-<!ENTITY pref.soondays.accesskey "d">
-
 <!-- LOCALIZATION NOTE (pref.soondays2.label):
      "Upcoming" is the name of a section and the translation must match the
      translation of that section name (calendar.upcoming.button.label). Also,
