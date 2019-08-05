@@ -47,6 +47,9 @@ newtab-topsites-add-button = சேர்
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = இப்பக்கத்தை உங்களின் வரலாற்றிலிருந்து முழுமையாக நீக்க விரும்புகிறீர்களா?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = இச்செயலை மீட்க முடியாது.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = புத்தகக்குறி
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = பதிவிறக்க இணைப்பை நகலெடு
 newtab-menu-go-to-download-page = பதிவிறக்க பக்கத்திற்கு செல்
 newtab-menu-remove-download = வரலாற்றிலிருந்து நீக்கு
@@ -116,6 +123,10 @@ newtab-label-download = பதிவிறக்கப்பட்டது
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = பகுதியை நீக்கவும்
 newtab-section-menu-collapse-section = பகுதியைச் சுருக்கு
 newtab-section-menu-expand-section = பகுதியை விரி
@@ -126,6 +137,13 @@ newtab-section-menu-add-search-engine = தேடுபொறியைச் ச
 newtab-section-menu-move-up = மேலே நகர்த்து
 newtab-section-menu-move-down = கீழே நகர்த்து
 newtab-section-menu-privacy-notice = தனியுரிமை அறிவிப்பு
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = பகுதியைச் சுருக்கு
+newtab-section-expand-section-label =
+    .aria-label = பகுதியை விரி
 
 ## Section Headers.
 
@@ -142,6 +160,15 @@ newtab-empty-section-highlights = உலாவலைத் தொடங்கவ
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = நீங்கள் முடித்துவிட்டீர்கள். { $provider } இலிருந்து கூடுதல் கதைகளுக்கு பின்னர் பாருங்கள். காத்திருக்க முடியவில்லையா? இணையத்திலிருந்து கூடுதலான கதைகளைக் கண்டுபிடிக்க பிரபலமான தலைப்பைத் தேர்ந்தெடுங்கள்.
+
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-header = நீங்கள் பிடிபட்டீர்கள்!
+newtab-discovery-empty-section-topstories-content = மேலும் கதைகளுக்குப் பின்னர் சரிபார்க்கவும்.
+newtab-discovery-empty-section-topstories-try-again-button = மீண்டும் முயற்சிக்கவும்
+newtab-discovery-empty-section-topstories-loading = ஏற்றுகிறது…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = அச்சச்சோ! நாங்கள் கிட்டத்தட்ட இந்தப் பகுதியை ஏற்றினோம், ஆனால் சரி இல்லை.
 
 ## Pocket Content Section.
 
