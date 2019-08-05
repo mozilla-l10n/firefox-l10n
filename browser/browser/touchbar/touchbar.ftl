@@ -18,3 +18,4 @@ reader-view = Irakurtzeko ikuspegia
 open-location = Bilatu edo idatzi helbidea
 share = Partekatu
 close-window = Itxi leihoa
+open-sidebar = Alboko barrak

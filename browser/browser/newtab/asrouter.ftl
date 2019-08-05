@@ -62,3 +62,10 @@ cfr-doorhanger-bookmark-fxa-link-text = Sinkronizatu laster-markak orain…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Ixteko botoia
     .title = Itxi
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Nobedadeak
+    .tooltiptext = Nobedadeak
+cfr-whatsnew-panel-header = Nobedadeak
