@@ -27,6 +27,10 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } สำหรับ iPh
 
 ## Login List
 
+login-list-count =
+    { $count ->
+       *[other] { $count } การเข้าสู่ระบบ
+    }
 login-list-sort-label-text = เรียงลำดับตาม:
 login-list-name-option = ชื่อตามตัวอักษร
 login-list-last-changed-option = วันที่เปลี่ยนแปลงล่าสุด

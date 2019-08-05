@@ -148,6 +148,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxa.menu.signin.label "ลงชื่อเข้า &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "เปิด &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.account.label "บัญชี">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -855,6 +856,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.issueList.forms "แบบฟอร์ม">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "การชำระเงิน">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "ความคิดเห็น">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "วิดีโอ">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "ส่งรายงาน">
 
 
 
