@@ -11,6 +11,9 @@ menu-file =
 menu-file-new-tab =
     .label = ନୂତନ ଟ୍ୟାବ
     .accesskey = T
+menu-file-new-container-tab =
+    .label = ନୂତନ କଣ୍ଟେନର ଟ୍ୟାବ
+    .accesskey = ବି
 menu-file-new-window =
     .label = ନୂତନ ୱିଣ୍ଡୋ
     .accesskey = N
@@ -46,6 +49,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = ମୁଦ୍ରଣ କରନ୍ତୁ…
     .accesskey = P
+menu-file-import-from-another-browser =
+    .label = ଅନ୍ୟ ଏକ ବ୍ରାଉଜରରୁ ତଥ୍ଯ ଆମଦାନୀ କରନ୍ତୁ…
+    .accesskey = ଇ
 menu-file-go-offline =
     .label = ଅଫଲାଇନରେ କାମ କରନ୍ତୁ
     .accesskey = k
@@ -64,6 +70,9 @@ menu-edit-redo =
 menu-edit-cut =
     .label = କାଟନ୍ତୁ
     .accesskey = t
+menu-edit-copy =
+    .label = ନକଲ କରନ୍ତୁ
+    .accesskey = ସି
 menu-edit-paste =
     .label = ଲଗାନ୍ତୁ
     .accesskey = P
@@ -139,7 +148,7 @@ menu-view-full-screen =
     .label = ସମ୍ପୂର୍ଣ୍ଣ ପରଦା
     .accesskey = F
 
-##
+
 
 menu-view-show-all-tabs =
     .label = ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼କୁ ଦର୍ଶାନ୍ତୁ
@@ -159,6 +168,8 @@ menu-history-clear-recent-history =
     .label = ନିକଟତମ ପୁରୁଣା ତଥ୍ୟକୁ ସଫାକରନ୍ତୁ…
 menu-history-restore-last-session =
     .label = ପୂର୍ବବର୍ତ୍ତୀ ଅଧିବେଶନକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ
+menu-history-hidden-tabs =
+    .label = ଲୁଚିଥିବା ଟ୍ୟାବଗୁଡ଼ିକ
 menu-history-undo-menu =
     .label = ନିକଟରେ ବନ୍ଦ ହୋଇଥିବା ଟ୍ୟାବଗୁଡ଼ିକ
 menu-history-undo-window-menu =
@@ -175,6 +186,10 @@ menu-bookmarks-all-tabs =
     .label = ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ଚିହ୍ନିତ କରନ୍ତୁ…
 menu-bookmarks-toolbar =
     .label = ସାଧନପଟିକୁ ଚିହ୍ନିତ କରନ୍ତୁ
+menu-bookmarks-other =
+    .label = ଅନ୍ୟ ଚିହ୍ନିତ ସ୍ଥାନ
+menu-bookmarks-mobile =
+    .label = ମୋବାଇଲ ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ
 
 ## Tools Menu
 
@@ -187,6 +202,9 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = ଏଡ଼-ଅନଗୁଡ଼ିକୁ
     .accesskey = A
+menu-tools-sync-sign-in =
+    .label = { -sync-brand-short-name }ରେ ଲଗଇନ କରନ୍ତୁ...
+    .accesskey = y
 menu-tools-sync-now =
     .label = ବର୍ତ୍ତମାନ ସନ୍ତୁଳନ କରନ୍ତୁ
     .accesskey = S
@@ -244,3 +262,6 @@ menu-help-feedback-page =
 menu-help-safe-mode-without-addons =
     .label = ଏଡ-ଅନଗୁଡ଼ିକୁ ନିଷ୍କ୍ରିୟ କରି ପୁନଃଚାଳନ କରନ୍ତୁ…
     .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = ଏଡ-ଅନଗୁଡ଼ିକୁ ସକ୍ରିୟ କରି ପୁନଃଚାଳନ କରନ୍ତୁ
+    .accesskey = ର
