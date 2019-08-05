@@ -53,6 +53,8 @@
 <!ENTITY reloadImageCmd.accesskey     "d">
 <!ENTITY viewImageCmd.label           "Visa bild">
 <!ENTITY viewImageCmd.accesskey       "i">
+<!ENTITY viewImageInfoCmd.label       "Visa bildinfo">
+<!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewVideoCmd.label           "Visa video">
 <!ENTITY viewVideoCmd.accesskey       "a">
 <!ENTITY viewBGImageCmd.label         "Visa bakgrundsbild">
