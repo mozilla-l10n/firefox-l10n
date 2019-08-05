@@ -6,6 +6,8 @@ about-logins-page-title = Nej riña gayi'ì' sesiûn & nej da'nga' huìi
 login-filter =
     .placeholder = Nana'uì' nej riña gayi'ì sesiûn
 create-login-button = Giri 'ngo riña gayi'ì sesiûn nakàa
+fxaccounts-sign-in-text = Giri da'ngā huìi da' garasunt riña a'ngo aga'aj
+fxaccounts-sign-in-button = Gatu riña { -sync-brand-short-name }
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -20,8 +22,8 @@ menu-menuitem-preferences =
     }
 menu-menuitem-feedback = Ga'nïnj si nuguàn't gan'an
 menu-menuitem-faq = Nej nuguan' nachín nan'anj yitïn
-menu-menuitem-download-android = Lockwise guendâ Android
-menu-menuitem-download-iphone = Lockwise guendâ iPhone ngà iPad
+menu-menuitem-android-app = { -lockwise-brand-short-name } guenda Android
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } guenda iPhone ni iPad
 
 ## Login List
 
@@ -36,9 +38,15 @@ login-list-sort-label-text = Nagi'aj chre' da':
 login-list-name-option = Si yugui (A-Z)
 login-list-last-changed-option = Sa nagi'iât ne' rukù ni'inj
 login-list-last-used-option = Sa garajsun rukù nï't
+login-list-intro-title = Nu nari'ij riña gayi'ī sesiôn
+login-list-intro-description = Ngà na'ní sa't da'ngā' huìi { -brand-product-name }, ni ñuna gahui ma ni'iajt.
 login-list-item-title-new-login = Gayi'ì sesiûn nakàa
 login-list-item-subtitle-new-login = Gacrun dánt riña gayi'ìt sesiûn
 login-list-item-subtitle-missing-username = (nitaj si yugui usuario hua)
+
+## Introduction screen
+
+login-intro-heading = Nana'uit riña gayi'i si sesiôn raj? Gi'iaj yuhui { -sync-brand-short-name }
 
 ## Login
 
@@ -74,9 +82,12 @@ master-password-notification-message = Gachrun da'naga' huî nikajt ni ga'ue ni'
 master-password-reload-button =
     .label = Gayi'ì sesiûn
     .accesskey = L
+
+## Dialogs
+
 confirm-delete-dialog-title = ¿Nadurê't riña gayi'ìt sesión na anj?
 confirm-delete-dialog-message = Si ga'ue dure' sa 'ngà gahuin na.
-confirm-delete-dialog-dismiss-button =
-    .title = Duyichin'
-confirm-delete-dialog-cancel-button = Duyichin'
 confirm-delete-dialog-confirm-button = Dure'
+
+## Breach Alert notification
+
