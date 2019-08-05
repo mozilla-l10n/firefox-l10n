@@ -33,13 +33,20 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-form-input =
+    .placeholder = ଇମେଲ
+onboarding-sync-form-continue-button = ଆଗକୁ ବଢ଼ନ୍ତୁ
+onboarding-sync-form-skip-login-button = ଏହି ସୋପାନକୁ ଛାଡ଼ିଦିଅନ୍ତୁ
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = ଆପଣଙ୍କର ଇମେଲ ଲେଖନ୍ତୁ
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = ଆବଶ୍ୟକୀୟ ବସ୍ତୁଗୁଡ଼ିକ
+onboarding-benefit-knowledge-title = ବ୍ୟବହାରିକ ଜ୍ଞାନ
 
 ## These strings belong to the individual onboarding messages.
 
