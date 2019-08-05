@@ -115,3 +115,4 @@ confirm-discard-changes-dialog-confirm-button = Odbaci
 ## Breach Alert notification
 
 breach-alert-text = Lozinke su ukradene ili su procurile s ove stranice od kada ste zadnji puta ažurirali svoje podatke za prijavu. Izmijenite svoju lozinku kako biste zaštitili svoj račun.
+breach-alert-link = Saznajte više o ovom curenju podataka.
