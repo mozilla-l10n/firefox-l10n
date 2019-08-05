@@ -53,6 +53,8 @@
 <!ENTITY reloadImageCmd.accesskey     "n">
 <!ENTITY viewImageCmd.label           "Zobraziť obrázok">
 <!ENTITY viewImageCmd.accesskey       "b">
+<!ENTITY viewImageInfoCmd.label       "Zobraziť informácie o obrázku">
+<!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewVideoCmd.label           "Zobraziť video">
 <!ENTITY viewVideoCmd.accesskey       "b">
 <!ENTITY viewBGImageCmd.label         "Zobraziť obrázok pozadia">
