@@ -53,6 +53,8 @@
 <!ENTITY reloadImageCmd.accesskey     "O">
 <!ENTITY viewImageCmd.label           "Vis bilde">
 <!ENTITY viewImageCmd.accesskey       "V">
+<!ENTITY viewImageInfoCmd.label       "Vis bildeinfo">
+<!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewVideoCmd.label           "Vis video">
 <!ENTITY viewVideoCmd.accesskey       "V">
 <!ENTITY viewBGImageCmd.label         "Vis bakgrunnsbilde">
