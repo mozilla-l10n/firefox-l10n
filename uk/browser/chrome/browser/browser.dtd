@@ -138,13 +138,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.button.label "Відкрити налаштування Синхронізації…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Вхід виконано">
 <!ENTITY fxa.menu.manageAccount.label "Керувати обліковим записом…">
 <!ENTITY fxa.menu.syncSettings.label "Налаштування Синхронізації…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Під'єднати інший пристрій…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!ENTITY fxa.menu.signin.label "Увійти в &brandProductName;">
+<!ENTITY fxa.menu.turnOnSync.label "Увімкнути Синхронізацію">
+<!ENTITY fxa.menu.account.label "Обліковий запис">
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.description "Вивантажуйте й обмінюйтесь файлами з наскрізним шифруванням і посиланнями з функцією самознищення.">
+<!ENTITY fxa.service.send.launch "Запустити &sendShortName;">
+<!ENTITY fxa.service.monitor.description "Перевірте чи ваша адреса електронної пошти не з'явилася у витоках даних і отримуйте попередження про нові витоки.">
+<!ENTITY fxa.service.monitor.launch "Запустити &monitorShortName;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -188,6 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "Закласти всі вкладки…">
+
 <!ENTITY showAllBookmarks2.label "Показати всі закладки">
 <!ENTITY recentBookmarks.label "Останні закладки">
 <!ENTITY otherBookmarksCmd.label "Інші закладки">
@@ -310,6 +322,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Файл">
 <!ENTITY fileMenu.accesskey       "Ф">
+
 <!ENTITY newUserContext.label             "Нова вкладка в контейнері">
 <!ENTITY newUserContext.accesskey         "н">
 <!ENTITY manageUserContext.label          "Керувати контейнерами">
@@ -359,6 +372,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "П">
 <!ENTITY viewSidebarMenu.label "Бічна панель">
 <!ENTITY viewSidebarMenu.accesskey "ч">
+
 <!ENTITY viewCustomizeToolbar.label       "Пристосування…">
 <!ENTITY viewCustomizeToolbar.accesskey     "П">
 <!ENTITY overflowCustomizeToolbar.label       "Налаштувати панель інструментів…">
@@ -372,6 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Відновити попередній сеанс">
 
 <!ENTITY showAllHistoryCmd2.label "Показати всю історію">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Показати всю історію">
@@ -592,9 +607,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Переслати посилання…">
 <!ENTITY emailPageCmd.accesskey       "с">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Зберегти як…">
 <!ENTITY savePageCmd.accesskey        "З">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "б">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Зберегти фрейм як…">
@@ -699,22 +714,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Збільшити">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "л">
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Зменшити">
 <!ENTITY fullZoomReduceCmd.accesskey    "н">
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Звичайний">
 <!ENTITY fullZoomResetCmd.accesskey     "ч">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Збільшувати лише текст">
 <!ENTITY fullZoomToggleCmd.accesskey    "т">
+
 <!ENTITY fullZoom.label                 "Масштаб">
 <!ENTITY fullZoom.accesskey             "ш">
 
@@ -732,6 +751,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Закрити">
+
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "к">
 
@@ -888,6 +908,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Увійти в Синхронізацію…">
 <!ENTITY syncSignIn.accesskey         "У">
+
 <!ENTITY syncSyncNowItem.label        "Синхронізувати зараз">
 <!ENTITY syncSyncNowItemSyncing.label "Синхронізація…">
 <!ENTITY syncSyncNowItem.accesskey    "С">
