@@ -26,7 +26,7 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } for iPhone og iPad
 ## Login List
 
 login-list =
-    .aria-label = Innloggingar som matchar søket
+    .aria-label = Innloggingar som samsvarar med søket
 login-list-count =
     { $count ->
         [one] { $count } innlogging
