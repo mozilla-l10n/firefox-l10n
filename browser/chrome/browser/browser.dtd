@@ -859,6 +859,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Iruzkinak">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Bideoak">
 
+<!ENTITY protections.notBlocking.why.label "Zergatik?">
 <!ENTITY protections.fingerprinters.label "Hatz-marka bidezko jarraipena">
 <!ENTITY protections.cryptominers.label "Kriptomeatzariak">
 
