@@ -57,3 +57,18 @@ cfr-doorhanger-pintab-step2 = Tagh <b>Prìnich an taba</b> on chlàr-taice.
 cfr-doorhanger-pintab-step3 = Ma thig ùrachadh air an làrach, chì thu dotag ghorm air an taba phrìnichte agad.
 cfr-doorhanger-pintab-animation-pause = Cuir ’na stad
 cfr-doorhanger-pintab-animation-resume = Lean air
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Sioncronaich na comharran-lìn agad àite sam bith.
+cfr-doorhanger-bookmark-fxa-link-text = Sioncronaich na comharran-lìn an-dràsta…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Am putan airson dùnadh
+    .title = Dùin
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Na tha ùr
+    .tooltiptext = Na tha ùr
+cfr-whatsnew-panel-header = Na tha ùr

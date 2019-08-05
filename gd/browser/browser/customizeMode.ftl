@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Neo-dhèan
 customize-mode-lwthemes-my-themes =
     .value = Na h-ùrlaran agam
+customize-mode-touchbar-cmd =
+    .label = Gnàthaich am bàr-suathaidh…
