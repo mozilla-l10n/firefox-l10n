@@ -54,3 +54,10 @@ cfr-doorhanger-pintab-animation-resume = Kaka
 
 ## Firefox Accounts Message
 
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Nakuvi a jíía íyo
+    .tooltiptext = Nakuvi a jíía íyo
+cfr-whatsnew-panel-header = Nakuvi a jíía íyo

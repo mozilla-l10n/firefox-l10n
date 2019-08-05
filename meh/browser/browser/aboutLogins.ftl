@@ -5,6 +5,8 @@
 
 ## The ⋯ menu that is in the top corner of the page
 
+menu =
+    .title = Síne menu
 
 ## Login List
 
@@ -15,6 +17,13 @@
 ## Login
 
 login-item-delete-button = Xita
+login-item-origin =
+    .placeholder = https://www.example.com
+login-item-username =
+    .placeholder = sivɨ@example.com
+login-item-copy-username-button-text = Tɨɨn
+login-item-copy-password-button-text = Tɨɨn
+login-item-save-new-button = Chuva´a
 
 ## Master Password notification
 
