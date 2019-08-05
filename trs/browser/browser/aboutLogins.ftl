@@ -47,6 +47,10 @@ login-list-item-subtitle-missing-username = (nitaj si yugui usuario hua)
 ## Introduction screen
 
 login-intro-heading = Nana'uit riña gayi'i si sesiôn raj? Gi'iaj yuhui { -sync-brand-short-name }
+login-intro-description = Si nari't riña gayi'ìt sesiôn riña { -brand-product-name } riña a'ngo aga'aj, ni ñuna ni'iaj daj gi'iát da' nari't riña aga' na.
+login-intro-instruction-fxa = Giri nej si gayi'ì sesiôn riña { -fxaccount-brand-name } riña nej aga' ngaà nun sa' ma.
+login-intro-instruction-fxa-settings = Ni'iaj si ganahuit riña gayi'iìt sesioôn riña { -sync-brand-short-name }
+login-intro-instruction-faq = Huij riña { -lockwise-brand-short-name } <a data-l10n-name="faq">sa nachin' na'anj yitinj</a>daj gini'int doj
 
 ## Login
 
@@ -85,6 +89,16 @@ master-password-reload-button =
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Duyichin'
+confirmation-dialog-dismiss-button =
+    .title = Duyichin'
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Ni'iaj daj hua { -sync-brand-short-name }
+           *[other] Ni'iaj daj hua { -sync-brand-short-name }
+        }
+    .accesskey = N
 confirm-delete-dialog-title = ¿Nadurê't riña gayi'ìt sesión na anj?
 confirm-delete-dialog-message = Si ga'ue dure' sa 'ngà gahuin na.
 confirm-delete-dialog-confirm-button = Dure'
