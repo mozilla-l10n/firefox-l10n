@@ -138,13 +138,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.button.label "افتح إعدادات &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "ولِجت باسم">
 <!ENTITY fxa.menu.manageAccount.label "أدِر الحساب…">
 <!ENTITY fxa.menu.syncSettings.label "إعدادات &syncBrand.shortName.label;…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "صِلْ جهازا آخر…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!ENTITY fxa.menu.signin.label "لِج إلى &brandProductName;">
+<!ENTITY fxa.menu.turnOnSync.label "فعّل &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.account.label "الحساب">
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.description "ارفع الملفات وشاركها عبر تعميتها من الطرفين كما وفي رابط ينقضي أجله تلقائيا.">
+<!ENTITY fxa.service.send.launch "أطلِق &sendShortName;">
+<!ENTITY fxa.service.monitor.launch "أطلِق &monitorShortName;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -188,6 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "علّم كل الألسنة…">
+
 <!ENTITY showAllBookmarks2.label "أظهِر كل العلامات">
 <!ENTITY recentBookmarks.label "المعلّم حديثا">
 <!ENTITY otherBookmarksCmd.label "العلامات الأخرى">
@@ -310,6 +321,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "ملف">
 <!ENTITY fileMenu.accesskey       "م">
+
 <!ENTITY newUserContext.label             "لسان حاوٍ جديد">
 <!ENTITY newUserContext.accesskey         "ح">
 <!ENTITY manageUserContext.label          "أدِر الحاويات">
@@ -359,6 +371,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "ش">
 <!ENTITY viewSidebarMenu.label "الشريط الجانبي">
 <!ENTITY viewSidebarMenu.accesskey "ط">
+
 <!ENTITY viewCustomizeToolbar.label       "خصّص…">
 <!ENTITY viewCustomizeToolbar.accesskey     "ص">
 <!ENTITY overflowCustomizeToolbar.label       "خصّص شريط الأدوات…">
@@ -372,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "استعد الجلسة السابقة">
 
 <!ENTITY showAllHistoryCmd2.label "أظهر كل التأريخ">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "أظهر كل التأريخ">
@@ -592,9 +606,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "أرسل الرابط بالبريد…">
 <!ENTITY emailPageCmd.accesskey       "س">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "احفظ الصفحة باسم…">
 <!ENTITY savePageCmd.accesskey        "س">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "س">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "احفظ الإطار باسم…">
@@ -699,22 +713,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "قرّب">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "ق">
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "بعّد">
 <!ENTITY fullZoomReduceCmd.accesskey    "ب">
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "صفّر">
 <!ENTITY fullZoomResetCmd.accesskey     "ص">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "قرّب النص فقط">
 <!ENTITY fullZoomToggleCmd.accesskey    "ن">
+
 <!ENTITY fullZoom.label                 "قرّب">
 <!ENTITY fullZoom.accesskey             "ر">
 
@@ -732,6 +750,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "أغلق">
+
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "غ">
 
@@ -832,6 +851,44 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "افتح تفضيلات حجب المحتوى">
 
 
+<!ENTITY protections.etpON.header "فُعّلت الحماية الموسّعة من التعقب في هذا الموقع">
+<!ENTITY protections.etpOFF.header "عُطّلت الحماية الموسّعة من التعقب في هذا الموقع">
+<!ENTITY protections.settings.label "إعدادات الحماية">
+<!ENTITY protections.report.label "اعرض كامل التقرير">
+<!-- LOCALIZATION NOTE:
+     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
+     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "ألا يعمل الموقع؟">
+<!ENTITY protections.siteNotWorkingView.title "ألا يعمل الموقع؟">
+<!-- LOCALIZATION NOTE:
+     In the Site Not Working? view, we suggest turning off protections if
+     the user is experiencing issues with any of a variety of functionality.
+     protections.siteNotWorkingView.header: The header of the list
+     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "أوقِف ميزات الحماية إن واجهت مشاكل تخص:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "مربعات الولوج">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "الاستمارات">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "عمليات الدفع">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "التعليقات">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "الڤديوهات">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "أما زال الموقع لا يعمل بعدما أوقفت ميزات الحماية؟">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "أرسِل بلاغا">
+
+<!ENTITY protections.blocking.label "على وضع الحجب">
+<!ENTITY protections.notBlocking.why.label "لمَ؟">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "إن حجبتها فقد تعطب بعض العناصر في المواقع. قد لا تعمل بعض الأزرار والاستمارات ومربعات الولوج إن لم تكن هناك متعقّبات.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "إن أوقفت ميزات الحماية فستتيح عمل كل المتعقّبات في هذا الموقع. لربما يحسّن ذلك من أداء الموقع أيضا.">
+<!ENTITY protections.socialMediaTrackers.label "متعقبات مواقع التواصل الاجتماعي">
+<!ENTITY protections.crossSiteTrackingCookies.label "كعكات تتعقّبك بين المواقع">
+<!ENTITY protections.fingerprinters.label "مسجّلات البصمات">
+<!ENTITY protections.cryptominers.label "المُعدّنات المعمّاة">
+<!ENTITY protections.noTrackersFound.description "لم تُكتشف في هذه الصفحة أي متعقّبات يعرفها &brandShortName;.">
+
+<!ENTITY protections.crossSiteTrackingCookies.description "تتعقّبك هذه الكعكات وأنت تفتح الموقع تلو الآخر لتجمع بيانات عمّا تفعله على الشبكة. هذه الكعكات تأتي من أطراف ثالثة مثل شركات الإعلان والتحليل.">
+<!ENTITY protections.cryptominers.description "تستعمل المُعدّنات المعمّاة طاقة الحساب في جهازك لتُعدّن أموالا رقمية. يستنزف هذا التعدين المدخرة ويُبطئ الجهاز ويزيد من فاتورة الكهرباء.">
+<!ENTITY protections.fingerprinters.description "تجمع مُسجّلات البصمات الإعدادات من المتصفح والجهاز لتفتح عنك ملفا عمّن تكون. يمكنها باستعمال هذه البصمة الرقمية تعقّبك في أرجاء مختلف المواقع.">
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "ألسنة المتصفح">
@@ -845,6 +902,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "لِج إلى &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "ل">
+
 <!ENTITY syncSyncNowItem.label        "زامِن الآن">
 <!ENTITY syncSyncNowItemSyncing.label "يُزامن…">
 <!ENTITY syncSyncNowItem.accesskey    "ز">
@@ -872,6 +930,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackersView.label "المتعقّبات">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "لحجب كل المتعقّبات، اضبط حجب المحتوى على ”صارم“.">
+
 
 <!ENTITY contentBlocking.cookies.label "الكعكات">
 <!ENTITY contentBlocking.cookiesView.label "الكعكات وبيانات المواقع">
