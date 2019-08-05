@@ -22,8 +22,8 @@ menu-menuitem-preferences =
     }
 menu-menuitem-feedback = Temimo'ã Ñemondo
 menu-menuitem-faq = Porandu py’ỹiguáva
-menu-menuitem-download-android = Lockwise Android peg̃uarã
-menu-menuitem-download-iphone = Lockwise iPhone ha iPad peg̃uarã
+menu-menuitem-android-app = { -lockwise-brand-short-name } Android peg̃uarã
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } iPhone ha iPad peg̃uarã
 
 ## Login List
 
@@ -38,9 +38,13 @@ login-list-sort-label-text = Omoĩporã:
 login-list-name-option = Téra  (A-Z)
 login-list-last-changed-option = Ñemoambue ipyahuvéva
 login-list-last-used-option = Ojepurúva ipahaitépe
+login-list-intro-title = Ndojejuhúi jeikeha
 login-list-item-title-new-login = Tembiapo ñepyrũ pyahu
 login-list-item-subtitle-new-login = Emoinge nde reraite tembiapo ñepyrũme
 login-list-item-subtitle-missing-username = (puruhára hera'ỹva)
+
+## Introduction screen
+
 
 ## Login
 

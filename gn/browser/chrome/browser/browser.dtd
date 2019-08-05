@@ -138,13 +138,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.button.label "Eike &syncBrand.shortName.label; Ñoĩporã…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Heraguapy kóicha">
 <!ENTITY fxa.menu.manageAccount.label "Mba'ete ñangareko…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; Moĩporã…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Embojuaju ambue mba’e’oka…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!ENTITY fxa.menu.signin.label "Eike &brandProductName;">
+<!ENTITY fxa.menu.account.label "Mba'ete">
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.launch "Embojuruja &sendShortName;">
+<!ENTITY fxa.service.monitor.launch "Embojuruja &monitorShortName;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -188,6 +196,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "Tendayke mbojoapy techaukaháre…">
+
 <!ENTITY showAllBookmarks2.label "Opaite techaukaha jehechauka">
 <!ENTITY recentBookmarks.label "Oñembokurusu ramóva">
 <!ENTITY otherBookmarksCmd.label "Ambuekuéra Techaukaha">
@@ -310,6 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Marandurenda">
 <!ENTITY fileMenu.accesskey       "F">
+
 <!ENTITY newUserContext.label             "Tendayke pyahu rerekoha">
 <!ENTITY newUserContext.accesskey         "b">
 <!ENTITY manageUserContext.label          "Jeguerekoha ñangarekohára">
@@ -359,6 +369,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "Ta'ãngarupa yke">
 <!ENTITY viewSidebarMenu.accesskey "e">
+
 <!ENTITY viewCustomizeToolbar.label       "Ñemomba'e…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 <!ENTITY overflowCustomizeToolbar.label       "Tembiporu rendáre ñemomba'e…">
@@ -372,6 +383,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Tembiapopa'ũ mboyvegua mbojevy">
 
 <!ENTITY showAllHistoryCmd2.label "Tembiasakue jehechaukapa">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Tembiasakue jehechaukapa">
@@ -592,9 +604,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Joajuha mondo…">
 <!ENTITY emailPageCmd.accesskey       "E">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Ñongatu pyahu…">
 <!ENTITY savePageCmd.accesskey        "A">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Kora ñongatu pyahu…">
@@ -699,22 +711,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Mbotuicha">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Momichĩ">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Ñepyrũha">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Moñe'ẽrã año mongakuaa">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
+
 <!ENTITY fullZoom.label                 "Tuichakue">
 <!ENTITY fullZoom.accesskey             "Z">
 
@@ -732,6 +748,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Mboty">
+
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "C">
 
@@ -888,6 +905,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label;-pe jeike…">
 <!ENTITY syncSignIn.accesskey         "Y">
+
 <!ENTITY syncSyncNowItem.label        "Embojuehe ko'ág̃a">
 <!ENTITY syncSyncNowItemSyncing.label "Embojuehehína…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
