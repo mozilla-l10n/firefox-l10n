@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "Prikaži število tedna v pogledih in mini mesecu">
+
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Dnevni in tedenski pogledi">
 <!ENTITY pref.calendar.view.multiweekview.caption "Večtedenski pogled">
 <!ENTITY pref.calendar.view.workweek.caption "Delovni teden">
@@ -17,6 +18,8 @@
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Prikaži število tedna v pogledih in mini mesecu">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "P">
 <!ENTITY pref.daysoff.label "V delovni teden vključi naslednje dni:">
+
+<!ENTITY pref.workweekDays.label "Delovni dnevi:">
 
 <!ENTITY pref.calendar.view.daystart.label "Dan se začne ob:">
 <!ENTITY pref.calendar.view.daystart.accesskey "D">
