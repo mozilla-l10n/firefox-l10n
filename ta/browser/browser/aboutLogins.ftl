@@ -39,9 +39,13 @@ login-list-name-option = பெயர் (அ-ஃ)
 login-list-last-changed-option = கடைசியாக மாற்ற‌ப்பட்டது:
 login-list-last-used-option = இறுதியாக பயன்படுத்தியது
 login-list-intro-title = உள்நுழைவுகள் ஏதுமில்லை
+login-list-item-title-new-login = புதிய உள்நுழைவு
+login-list-item-subtitle-new-login = உங்கள் உள்நுழைவு சான்றுகளை உள்ளிடவும்
+login-list-item-subtitle-missing-username = (பயனர் பெயர் இல்லை)
 
 ## Introduction screen
 
+login-intro-heading = உங்கள் சேமித்த உள்நுழைவுகளைத் தேடுகிறீர்களா? { -sync-brand-short-name } அமை
 
 ## Login
 
