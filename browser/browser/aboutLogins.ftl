@@ -6,6 +6,7 @@ about-logins-page-title = 我的账号和密码
 login-filter =
     .placeholder = 搜索登录信息
 create-login-button = 新建登录信息
+fxaccounts-sign-in-text = 在您的其他设备上取得您的密码
 fxaccounts-sign-in-button = 登录 { -sync-brand-short-name }
 
 ## The ⋯ menu that is in the top corner of the page
@@ -37,6 +38,7 @@ login-list-name-option = 名称（A-Z）
 login-list-last-changed-option = 最后修改
 login-list-last-used-option = 上次使用
 login-list-intro-title = 未找到登录信息
+login-list-intro-description = 在您保存密码到 { -brand-product-name } 后，它会出现在这里。
 login-list-item-title-new-login = 新建登录信息
 login-list-item-subtitle-new-login = 输入您的登录凭据
 login-list-item-subtitle-missing-username = （无用户名）
@@ -89,6 +91,11 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = 取消
 confirmation-dialog-dismiss-button =
     .title = 取消
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] 想将使用 { -brand-product-name } 时填写的登录信息随身携带？打开您的 { -sync-brand-short-name } 选项，选中“登录信息”复选框。
+       *[other] 想将使用 { -brand-product-name } 时填写的登录信息随身携带？打开您的 { -sync-brand-short-name } 首选项，选中“登录信息”复选框。
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -105,4 +112,5 @@ confirm-discard-changes-dialog-confirm-button = 丢弃
 
 ## Breach Alert notification
 
+breach-alert-text = 自您上次更新这份登录信息后，该网站上的密码已遭泄露或窃取。立即更改您的密码以保障账户安全。
 breach-alert-link = 详细了解此事件
