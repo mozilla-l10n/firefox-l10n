@@ -38,7 +38,7 @@ onboarding-sync-form-skip-login-button = Leum seachad air seo
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = Cuir a-steach am post-d agad
-onboarding-sync-form-sub-header = a leantainn air adhart gu sioncronachadh Firefox.
+onboarding-sync-form-sub-header = a leantainn air adhart gu { -sync-brand-name }
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
