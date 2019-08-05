@@ -878,8 +878,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.blocking.label "Blokira se">
 <!ENTITY protections.notBlocking.label "Ne blokira se">
 <!ENTITY protections.notBlocking.why.label "Zašto?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Blokiranjem ovih elemenata mogu se pokvariti elementi nekih web stranica. Bez pratitelja, neki gumbi, obrasci i polja za prijavu možda neće funkcionirati.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Isključivanjem zaštita ćete omogućiti sve pratitelje na ovoj stranici. Možda može poboljšati neke funkcije web stranice.">
+<!ENTITY protections.socialMediaTrackers.label "Pratitelji društvenih mreža">
+<!ENTITY protections.crossSiteTrackingCookies.label "Kolačići za praćenje između različitih stranica">
+<!ENTITY protections.trackingContent.label "Sadržaj za praćenje">
+<!ENTITY protections.fingerprinters.label "Jedinstveni otisci">
+<!ENTITY protections.cryptominers.label "Kripto rudari">
+<!ENTITY protections.noTrackersFound.description "Nisu otkriveni pratitelji poznati &brandShortName;u na ovoj stranici.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Ovi kolačići vas prate od stranice do stranice i prikupljaju podatke o tome što radite na Internetu. Postavljeni su od trećih strana kao što su oglašivači i analitičke tvrtke.">
+<!ENTITY protections.cryptominers.description "Krupto rudari koriste računalnu snagu vašeg sustava kako bi rudarili digitalni novac. Skripte za kripto rudarenje troše bateriju, usporavaju računalo i povećavaju račun za struju.">
+<!ENTITY protections.fingerprinters.description "Jedinstveni otisci prikupljaju postavke vašeg preglednika i računala kako bi stvorili vaš jedinstveni profil. Koristeći ovaj digitali otisak prsta, mogu vas pratiti diljem različitih web stranica.">
+<!ENTITY protections.trackingContent.description "Web stranice mogu učitati vanjske reklame, video materijal i drugi sadržaj koji sadržava kod za praćenje. Blokiranje sadržaja za praćenje možete ubrzati učitavanje stranica, ali neke tipke, obrasci ili polja za prijavu možda neće raditi.">
+<!ENTITY protections.socialMediaTrackers.description "Društvene mreže postavljaju pratitelje na druge web stranice kako bi pratili što radite, pregledavate i vidite na Internetu. Ovo omogućava tvrtkama iza društvenih mreža da saznaju više o vama od onoga što dijelite na svom profilu.">
 
+<!ENTITY protections.manageProtectionSettings.label "Upravljanje postavkama zaštite">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -923,6 +937,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "Pratitelji">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Za blokiranje svih pratitelja, postavite blokiranje sadržaja na “Strogo”.">
 
+<!ENTITY contentBlocking.socialblock.label "Pratitelji društvenih mreža">
+<!ENTITY contentBlocking.socialblockView.label "Pratitelji društvenih mreža su blokirani">
+<!ENTITY contentBlocking.socialblockView.description "Društvene mreže postavljaju pratitelje na druge web stranice kako bi pratili što radite, pregledavate i vidite na Internetu. Ovo omogućava tvrtkama iza društvenih mreža da saznaju više o vama od onoga što dijelite na svom profilu.">
 
 <!ENTITY contentBlocking.cookies.label "Kolačići">
 <!ENTITY contentBlocking.cookiesView.label "Kolačići i podaci stranica">
@@ -937,8 +954,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Prijavi probleme">
 <!ENTITY contentBlocking.breakageReportView2.description "Blokiranje sadržaja može uzrokovati probleme s nekim web stranicama. Kada prijavite probleme, pomoći ćete unaprijediti &brandShortName; za sve korisnike. (Poslati ćete URL stranice, kao i informacije o postavkama preglednika Mozilli.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Saznajte više">
+<!ENTITY contentBlocking.breakageReportView.title "Prijavi neispravnu web stranicu">
+<!ENTITY contentBlocking.breakageReportView3.description "Blokiranje određenih pratitelja može uzrokovati probleme s nekim web stranicama. Prijavljivanjem ovih problema pomoći ćete unaprijediti &brandShortName; za sve korisnike. Slanjem ove prijave poslat ćete URL stranice, kao i informacije o postavkama preglednika Mozilli.">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Saznajte više">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Kakve ste probleme imali? (Neobavezno)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Neobavezno: opišite problem">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Pošalji izvještaj">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Otkaži">
 
