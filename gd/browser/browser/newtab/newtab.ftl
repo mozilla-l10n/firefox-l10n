@@ -47,6 +47,9 @@ newtab-topsites-add-button = Cuir ris
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = A bheil thu cinnteach gu bheil thu airson gach ionstans na duilleige seo a sguabadh às an eachdraidh agad?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Cha ghabh seo a neo-dhèanamh.
@@ -77,6 +80,7 @@ newtab-menu-dismiss = Leig seachad
 newtab-menu-pin = Prìnich
 newtab-menu-unpin = Dì-phrìnich
 newtab-menu-delete-history = Sguab às an eachdraidh
+newtab-menu-save-to-pocket = Sàbhail ann am { -pocket-brand-name }
 newtab-menu-delete-pocket = Air a sguabadh à { -pocket-brand-name }
 newtab-menu-archive-pocket = Tasglannaich ann am { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
@@ -85,6 +89,10 @@ newtab-menu-remove-bookmark = Thoir an comharra-lìn air falbh
 newtab-menu-bookmark = Comharra-lìn
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 newtab-menu-copy-download-link = Dèan lethbhreac dhen cheangal luchdaidh
@@ -115,6 +123,10 @@ newtab-label-download = Air a luchdadh a-nuas
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = Thoir an earrann air falbh
 newtab-section-menu-collapse-section = Co-theannaich an earrann
 newtab-section-menu-expand-section = Leudaich an earrann
@@ -125,6 +137,13 @@ newtab-section-menu-add-search-engine = Cuir einnsean-luirg ris
 newtab-section-menu-move-up = Gluais suas
 newtab-section-menu-move-down = Gluais sìos
 newtab-section-menu-privacy-notice = Sanas prìobhaideachd
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Co-theannaich an earrann
+newtab-section-expand-section-label =
+    .aria-label = Leudaich an earrann
 
 ## Section Headers.
 
@@ -141,6 +160,13 @@ newtab-empty-section-highlights = Tòisich air brabhsadh is seallaidh sinn dhut 
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Sin na naidheachdan uile o { $provider } an-dràsta ach bidh barrachd ann a dh’aithghearr. No thoir sùil air cuspair air a bheil fèill mhòr is leugh na tha a’ dol mun cuairt air an lìon an-dràsta.
+
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-try-again-button = Feuch ris a-rithist
+newtab-discovery-empty-section-topstories-loading = ’Ga luchdadh…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Ìoc, tha sinn cha mhòr air an earrann seo a luchdadh ach chan ann buileach fhathast.
 
 ## Pocket Content Section.
 

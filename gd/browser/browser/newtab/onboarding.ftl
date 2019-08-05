@@ -12,12 +12,14 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
+onboarding-button-label-learn-more = Barrachd fiosrachaidh
 onboarding-button-label-try-now = Feuch e an-dràsta
 onboarding-button-label-get-started = Dèan toiseach tòiseachaidh
 
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Fàilte gu { -brand-short-name }
+onboarding-welcome-body = Tha am brabhsair agad.<br/>Thoir eòlas air a’ chòrr de { -brand-product-name }.
 onboarding-start-browsing-button-label = Tòisich air brabhsadh
 onboarding-cards-dismiss =
     .title = Leig seachad
