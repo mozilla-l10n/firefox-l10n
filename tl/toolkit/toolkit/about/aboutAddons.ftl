@@ -149,6 +149,7 @@ legacy-warning-show-legacy = Ipakita ang mga extension ng legacy
 legacy-extensions =
     .value = Mga Extension ng Legacy
 legacy-extensions-description = Ang mga extension na ito ay hindi nakakatugon sa kasalukuyang { -brand-short-name } Mga pamantayan upang ma-deactivate ang mga ito. <label data-l10n-name="legacy-learn-more">Alamin ang tungkol sa mga pagbabago sa mga add-on</label>
+private-browsing-description2 = Binabago na ng { -brand-short-name } kung paano gumagana ang mga extension sa pribadong pag-browse. Ang mga bagong extension na idinagdag mo sa { -brand-short-name } ay hindi kusang tatakbo sa mga Private Window. Maliban na lang kung payagan mo sa mga setting, hindi gagana ang extension habang nagba-browse nang pribado, at wala itong makukuhang impormasyon sa mga gawain mo online. Ginawa namin itong pagbabagong ito para mapanatiling pribado ang iyong pag-browse nang pribado. <label data-l10n-name="private-browsing-learn-more">Alamin kung paano i-manage ang mga extension setting</label>
 extensions-view-discopane =
     .name = Mga Mungkahi
     .tooltiptext = { extensions-view-discopane.name }
@@ -246,3 +247,6 @@ shortcuts-modifier-other = Isama ang Ctrl o Alt
 
 ## Pending uninstall message bar
 
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = May pagkamalikhain? <a data-l10n-name="link">Bumuo ng sarili mong tema gamit ang Firefox Color.</a>

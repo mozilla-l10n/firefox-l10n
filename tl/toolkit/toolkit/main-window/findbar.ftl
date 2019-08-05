@@ -11,10 +11,14 @@ findbar-previous =
     .tooltiptext = Hanapin ang nakaraang pangyayari ng parirala
 findbar-find-button-close =
     .tooltiptext = Isara ang bar ng paghahanap
-findbar-highlight-all =
-    .label = I-highlight ang Lahat
-    .accesskey = a
-    .tooltiptext = I-highlight ang lahat ng katugmang parilala
+findbar-highlight-all2 =
+    .label = I-highlight lahat
+    .accesskey =
+        { PLATFORM() ->
+            [macos] l
+           *[other] a
+        }
+    .tooltiptext = I-highlight lahat kung saan matatagpuan ang parirala
 findbar-case-sensitive =
     .label = Pagtutugma ng Case
     .accesskey = c

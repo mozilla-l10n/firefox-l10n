@@ -71,3 +71,5 @@ remove-all-shown =
 remove-all-passwords-prompt = Sigurado ka bang gusto mong tanggalin ang lahat na mga password?
 remove-all-passwords-title = Tanggalin ang Lahat na mga Password
 no-master-password-prompt = Sigurado ka bang gusto mong ipakita ang mga password mo?
+auto-fill-logins-and-passwords =
+    .label = Mag-autofill ng mga login at password
