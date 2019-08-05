@@ -293,7 +293,7 @@ find-more-addons = Pronađite više dodataka
 
 ## Add-on actions
 
-report-addon-button = Izvještaj
+report-addon-button = Prijavi
 remove-addon-button = Ukloni
 disable-addon-button = Onemogući
 enable-addon-button = Omogući
