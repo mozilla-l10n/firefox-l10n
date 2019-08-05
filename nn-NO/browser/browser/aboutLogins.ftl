@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Innloggingar og passord
+login-filter =
+    .placeholder = Søk innloggingar
 create-login-button = Lag ny innlogging
 fxaccounts-sign-in-text = Få passorda dine på dei andre einingane dine
 fxaccounts-sign-in-button = Logg inn på { -sync-brand-short-name }
@@ -37,6 +39,7 @@ login-list-name-option = Namn (A-Å)
 login-list-last-changed-option = Sist endra
 login-list-last-used-option = Sist brukt
 login-list-intro-title = Fann ingen innloggingar
+login-list-intro-description = Når du lagrar eit passord i { -brand-product-name }, vil det visast her.
 login-list-item-title-new-login = Ny innlogging
 login-list-item-subtitle-new-login = Skriv inn innloggingsopplysningar
 login-list-item-subtitle-missing-username = (ikkje noko brukarnamn)
