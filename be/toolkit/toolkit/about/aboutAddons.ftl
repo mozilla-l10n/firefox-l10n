@@ -157,9 +157,6 @@ private-browsing-description2 =
     пашырэнне не будзе працаваць у час прыватнага аглядання, і не будзе мець доступу да вашай сеціўнай
     актыўнасці ў гэтым рэжыме. Мы зрабілі гэта для аховы вашай прыватнасці.
     <label data-l10n-name="private-browsing-learn-more">Даведайцеся, як кіраваць наладамі пашырэння.</label>
-extensions-view-discover =
-    .name = Атрымаць дадаткі
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Рэкамендацыі
     .tooltiptext = { extensions-view-discopane.name }
@@ -318,6 +315,16 @@ release-notes-addon-button = Заўвагі да выпуску
 permissions-addon-button = Правы доступу
 addons-enabled-heading = Уключана
 addons-disabled-heading = Выключана
+extension-enabled-heading = Уключана
+extension-disabled-heading = Адключана
+theme-enabled-heading = Уключана
+theme-disabled-heading = Выключана
+plugin-enabled-heading = Уключана
+plugin-disabled-heading = Адключана
+dictionary-enabled-heading = Уключана
+dictionary-disabled-heading = Адключана
+locale-enabled-heading = Уключана
+locale-disabled-heading = Выключана
 ask-to-activate-button = Спытаць для задзейнічання
 always-activate-button = Заўсёды задейнічаць
 never-activate-button = Ніколі не задзейнічаць
