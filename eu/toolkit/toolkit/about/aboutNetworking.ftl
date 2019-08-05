@@ -57,3 +57,11 @@ rcwn-avg-long = Batez besteko luzea
 rcwn-std-dev-long = Desbideratze estandar luzea
 rcwn-cache-slow = Cache motel kopurua
 rcwn-cache-not-slow = Cache ez motel kopurua
+networkid = Sarearen IDa
+networkid-id = Sarearen IDa
+
+## Link is intended as "network link"
+
+
+
+

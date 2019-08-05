@@ -47,6 +47,9 @@ newtab-topsites-add-button = Gehitu
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Ziur zaude orri honen agerpen guztiak ezabatu nahi dituzula historiatik?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Ekintza hau ezin da desegin.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Egin laster-marka
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Kopiatu deskargaren lotura
 newtab-menu-go-to-download-page = Joan deskargaren orrira
 newtab-menu-remove-download = Kendu historiatik
@@ -116,6 +123,10 @@ newtab-label-download = Deskargatuta
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = Kendu atala
 newtab-section-menu-collapse-section = Tolestu atala
 newtab-section-menu-expand-section = Zabaldu atala
@@ -126,6 +137,13 @@ newtab-section-menu-add-search-engine = Gehitu bilaketa-motorra
 newtab-section-menu-move-up = Eraman gora
 newtab-section-menu-move-down = Eraman behera
 newtab-section-menu-privacy-notice = Pribatutasun-oharra
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Tolestu atala
+newtab-section-expand-section-label =
+    .aria-label = Zabaldu atala
 
 ## Section Headers.
 
@@ -142,6 +160,12 @@ newtab-empty-section-highlights = Hasi nabigatzen eta azkenaldian bisitatutako e
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Egunean zaude jada. Etorri berriro geroago { $provider } hornitzailearen istorio ezagun gehiagorako. Ezin duzu itxaron? Hautatu gai ezagun bat webeko istorio gehiago aurkitzeko.
+
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-header = Egunean zaude!
+newtab-discovery-empty-section-topstories-try-again-button = Saiatu berriro
+newtab-discovery-empty-section-topstories-loading = Kargatzen…
 
 ## Pocket Content Section.
 
