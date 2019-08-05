@@ -34,6 +34,7 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Guardar cambios
     .accesskey = G
+permissions-autoplay-menu = Predeterminado para todos los sitios web:
 permissions-searchbox =
     .placeholder = Buscar sitio web
 permissions-capabilities-autoplay-allow =
@@ -104,6 +105,10 @@ permissions-exceptions-autoplay-media-desc2 = Puedes especificar qué sitios tie
 
 ## Site Permissions - Autoplay
 
+permissions-site-autoplay-window =
+    .title = Configuración. Reproducción automática
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Puedes administrar aquí los sitios que no siguen la configuración predeterminada de reproducción automática.
 
 ## Site Permissions - Notifications
 
