@@ -9,3 +9,8 @@
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all storage items. -->
 <!ENTITY storage.popupMenu.deleteAllLabel "Tanggalin ang Lahat">
+
+<!-- LOCALIZATION NOTE : Label of popup menu action to delete all session cookies. -->
+
+<!-- LOCALIZATION NOTE : Label of popup menu action to copy a storage item. -->
+<!ENTITY storage.popupMenu.copyLabel "Kopyahin">

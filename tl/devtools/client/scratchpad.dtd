@@ -11,7 +11,7 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!-- LOCALIZATION NOTE (scratchpad.title):
+<!-- LOCALIZATION NOTE (window.title):
   -  The Scratchpad is intended to provide a simple text editor for creating
   -  and evaluating bits of JavaScript code for the purposes of function
   -  prototyping, experimentation and convenient scripting.
@@ -50,12 +50,14 @@
 <!ENTITY viewMenu.label               "Tingnan">
 <!ENTITY viewMenu.accesskey           "T">
 
+<!ENTITY lineNumbers.label             "Ipakita ang mga Line Number">
 <!ENTITY lineNumbers.accesskey         "L">
 
 <!ENTITY wordWrap.accesskey            "W">
 
 <!ENTITY highlightTrailingSpace.accesskey "H">
 
+<!ENTITY largerFont.label             "Mas Malaking Font">
 <!ENTITY largerFont.accesskey         "a">
 <!ENTITY largerFont.commandkey        "+">
 <!ENTITY largerFont.commandkey2       "="> <!-- + is above this key on many keyboards -->
