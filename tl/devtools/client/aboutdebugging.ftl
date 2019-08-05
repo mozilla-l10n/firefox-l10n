@@ -66,6 +66,10 @@ about-debugging-refresh-usb-devices-button = I-refresh ang mga device
 
 # Title of the Setup page.
 about-debugging-setup-title = Setup
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox = Gamitin ang <a>{ about-debugging-this-firefox-runtime-name }</a> para makapag-debug ng mga tab, extension at service worker sa bersyong ito ng { -brand-shorter-name }.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Gamitin ang <a>{ about-debugging-this-firefox-runtime-name }</a> para makapag-debug ng mga extension at service worker sa bersyong ito ng { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Mag-connect ng Device
 # USB section of the Setup page
