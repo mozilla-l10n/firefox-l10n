@@ -59,6 +59,10 @@ newtab-menu-open-new-window = Síne nuu iin ventana jíia
 newtab-menu-open-new-private-window = Síne iin ventana yu´u
 newtab-menu-dismiss = Xita
 newtab-menu-save-to-pocket = Chuva´a nuu { -pocket-brand-name }
+# Bookmark is a noun in this case, "Remove bookmark".
+newtab-menu-remove-bookmark = Xita a ta´a ini noo´o
+# Bookmark is a verb here.
+newtab-menu-bookmark = A ta´a ini noo´o
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -67,11 +71,14 @@ newtab-menu-save-to-pocket = Chuva´a nuu { -pocket-brand-name }
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = Tɨɨn link xinuun
+newtab-menu-go-to-download-page = Kua'an nuu página xinuun
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-open-file = Sine archivo
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
