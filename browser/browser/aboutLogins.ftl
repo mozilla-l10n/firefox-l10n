@@ -22,8 +22,8 @@ menu-menuitem-preferences =
     }
 menu-menuitem-feedback = Надіслати відгук
 menu-menuitem-faq = Часті питання
-menu-menuitem-download-android = Lockwise для Android
-menu-menuitem-download-iphone = Lockwise для iPhone та iPad
+menu-menuitem-android-app = { -lockwise-brand-short-name } для Android
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } для iPhone та iPad
 
 ## Login List
 
@@ -39,9 +39,16 @@ login-list-sort-label-text = Сортувати:
 login-list-name-option = Ім'я (A-Z)
 login-list-last-changed-option = Змінено
 login-list-last-used-option = Використано
+login-list-intro-title = Паролів не знайдено
+login-list-intro-description = Коли ви зберігаєте пароль в { -brand-product-name }, він з'являтиметься тут.
 login-list-item-title-new-login = Новий запис
 login-list-item-subtitle-new-login = Введіть облікові дані
 login-list-item-subtitle-missing-username = (без імені користувача)
+
+## Introduction screen
+
+login-intro-heading = Шукаєте свої збережені паролі? Налаштуйте { -sync-brand-short-name(case: "acc") }.
+login-intro-description = Якщо ви зберегли паролі в { -brand-product-name } на іншому пристрої, ось як отримати їх тут:
 
 ## Login
 
