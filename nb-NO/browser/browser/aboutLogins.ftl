@@ -46,6 +46,8 @@ login-list-item-subtitle-missing-username = (uten brukernavn)
 
 ## Introduction screen
 
+login-intro-heading = Ser du etter lagrede innlogginger? Konfigurer { -sync-brand-short-name }
+login-intro-description = Slik kan du få dine { -brand-product-name } innlogginer hit, om du har lagret de på en annen enhet
 
 ## Login
 
