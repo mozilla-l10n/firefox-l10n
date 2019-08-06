@@ -164,9 +164,6 @@ private-browsing-description2 =
     de extensie niet tijdens privénavigatie, en heeft deze daarin geen toegang tot uw online-activiteiten.
     Deze wijziging is aangebracht om uw privénavigatie privé te houden.
     <label data-l10n-name="private-browsing-learn-more">Meer info over het beheren van extensie-instellingen</label>
-extensions-view-discover =
-    .name = Add-ons verkrijgen
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Aanbevelingen
     .tooltiptext = { extensions-view-discopane.name }
@@ -323,6 +320,16 @@ release-notes-addon-button = Uitgaveopmerkingen
 permissions-addon-button = Toestemmingen
 addons-enabled-heading = Ingeschakeld
 addons-disabled-heading = Uitgeschakeld
+extension-enabled-heading = Ingeschakeld
+extension-disabled-heading = Uitgeschakeld
+theme-enabled-heading = Ingeschakeld
+theme-disabled-heading = Uitgeschakeld
+plugin-enabled-heading = Ingeschakeld
+plugin-disabled-heading = Uitgeschakeld
+dictionary-enabled-heading = Ingeschakeld
+dictionary-disabled-heading = Uitgeschakeld
+locale-enabled-heading = Ingeschakeld
+locale-disabled-heading = Uitgeschakeld
 ask-to-activate-button = Vragen om te activeren
 always-activate-button = Altijd activeren
 never-activate-button = Nooit activeren
