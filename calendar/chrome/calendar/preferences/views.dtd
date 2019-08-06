@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "Algemien">
+
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Dei- en wykoersichten">
 <!ENTITY pref.calendar.view.multiweekview.caption "Oersjoch mear wiken">
 <!ENTITY pref.calendar.view.workweek.caption "Wurkwike">
@@ -17,6 +18,8 @@
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Wikenûmer toane yn oersichten en minimoanne">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "k">
 <!ENTITY pref.daysoff.label "De wurkwike hat de folgjende dagen:">
+
+<!ENTITY pref.workweekDays.label "Dagen wurkwike:">
 
 <!ENTITY pref.calendar.view.daystart.label "Dei begjint om:">
 <!ENTITY pref.calendar.view.daystart.accesskey "b">

@@ -6,3 +6,6 @@
 <!ENTITY  paneAlarms.title        "Alarmen">
 <!ENTITY  paneCategories.title    "Kategoryën">
 <!ENTITY  paneViews.title         "Oersichten">
+<!ENTITY  panelHeader.title       "Aginda">
+<!ENTITY  panelReminder.title     "Omtinkens">
+<!ENTITY  panelCatecory.title     "Kategoryen">

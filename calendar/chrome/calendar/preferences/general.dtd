@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.mainbox.label "Algemiene ynstellingen" >
+
 <!ENTITY pref.dateformat.label "Datumtekstformaat:" >
 <!ENTITY pref.dateformat.accesskey "f">
 <!ENTITY pref.dateformat.long "Lang" >
@@ -24,6 +25,9 @@
 <!ENTITY pref.default_event_length.label "Standert djoer:" >
 <!ENTITY pref.default_event_length.accesskey "e">
 
+<!ENTITY pref.default_event_task_length.label "Standertlingte barrens en taken">
+<!ENTITY pref.default_event_task_length.accesskey "e">
+
 <!ENTITY pref.default_task_none.label "Gjin">
 <!ENTITY pref.default_task_start_of_day.label "Begjin fan de dei">
 <!ENTITY pref.default_task_end_of_day.label "Ein fan de dei">
@@ -34,9 +38,6 @@
 <!ENTITY pref.default_task_offset_next_hour.label "Relatyf oan folgjende oere">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Finster Hjoed">
-<!ENTITY pref.soondays.label "De oansteande seksje toant:">
-<!ENTITY pref.soondays.accesskey "a">
-
 <!-- LOCALIZATION NOTE (pref.soondays2.label):
      "Upcoming" is the name of a section and the translation must match the
      translation of that section name (calendar.upcoming.button.label). Also,
