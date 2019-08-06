@@ -47,6 +47,9 @@ newtab-topsites-add-button = Nutà'
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Yitinj àni ruat dure' daran' riña gaché nut riña pagina na anj?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Si ga'ue dure' sa 'ngà gahuin na
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Sa arajsun nichrò' doj
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Garasun' da'nga' da' naduni'
 newtab-menu-go-to-download-page = Gun' riña pagina naduninj
 newtab-menu-remove-download = Dure' riña gaché nun'
@@ -116,6 +123,10 @@ newtab-label-download = Ngà nadunin'
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = Dure' seksion
 newtab-section-menu-collapse-section = Guxun' seksion
 newtab-section-menu-expand-section = Nagi'iaj yachi' seksion
@@ -126,6 +137,13 @@ newtab-section-menu-add-search-engine = Nutò' a'ngô sa ruguñu'unj ñù' nana'
 newtab-section-menu-move-up = Dusiki' gan'an ne' yatá'a
 newtab-section-menu-move-down = Dusiki' gan'an ne' riki
 newtab-section-menu-privacy-notice = Notisia huìi
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Guxun' seksion
+newtab-section-expand-section-label =
+    .aria-label = Nagi'iaj yachi' seksion
 
 ## Section Headers.
 

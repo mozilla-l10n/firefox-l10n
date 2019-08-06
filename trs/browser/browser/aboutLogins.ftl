@@ -92,6 +92,11 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Duyichin'
 confirmation-dialog-dismiss-button =
     .title = Duyichin'
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Ruhuât riña ayi'ìt sesiûn danè' huin man'an ayi'ìt ngà { -brand-product-name } aj? Guij danè' taj { -sync-brand-short-name } ni naguit nej riña ayi'ìt.
+       *[other] Ruhuât riña ayi'ìt sesiûn danè' huin man'an ayi'ìt ngà { -brand-product-name } aj?  Guij danè' taj { -sync-brand-short-name } Preferênsia ni naguit man.
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -102,6 +107,11 @@ enable-password-sync-preferences-button =
 confirm-delete-dialog-title = ¿Nadurê't riña gayi'ìt sesión na anj?
 confirm-delete-dialog-message = Si ga'ue dure' sa 'ngà gahuin na.
 confirm-delete-dialog-confirm-button = Dure'
+confirm-discard-changes-dialog-title = ¿Nadurê't nej sa nun na'nïnj sà' raj?
+confirm-discard-changes-dialog-message = Gan'anj ni'ia daran' nej sa nagi'iát ni nu na'nïnj sà't.
+confirm-discard-changes-dialog-confirm-button = Dunâj man
 
 ## Breach Alert notification
 
+breach-alert-text = Gi'iaj tu nej si da'nga' huì hua 'iát nga nagi'iaj nakàt riña ayi'ìt sesiûn. Naduna da'nga' huì hua 'iát daj dugumînt si kuentât.
+breach-alert-link = Gini'in doj dàj hua rayi'î 'ngo gakïn' nan.
