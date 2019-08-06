@@ -538,15 +538,20 @@
 <!ENTITY editBookmark.showForNewBookmarks.label "Visualizza editor quando si salva">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey "V">
 <!ENTITY identity.securityView.label "Sicurezza del sito">
+<!ENTITY identity.securityView.label2 "Sicurezza connessione">
 <!ENTITY identity.connection "Connessione">
 <!ENTITY identity.connectionSecure "Connessione sicura">
+<!ENTITY identity.connectionSecure2 "Connessione sicura">
 <!ENTITY identity.connectionNotSecure "Connessione non sicura">
+<!ENTITY identity.connectionNotSecureSecurityView "La connessione con questo sito non è sicura.">
 <!ENTITY identity.connectionFile "Questa pagina è salvata sul dispositivo in uso.">
-<!ENTITY identity.connectionVerified2 "La connessione con questo sito è sicura. Il sito è gestito da:">
+<!ENTITY identity.connectionVerified2 "La connessione con questo sito è sicura. Il proprietario del sito è:">
+<!ENTITY identity.connectionVerified3 "La connessione con questo sito è sicura.">
 <!ENTITY identity.connectionInternal "Questa è una pagina sicura di &brandShortName;.">
 <!ENTITY identity.extensionPage "Questa pagina è caricata da un’estensione.">
 <!ENTITY identity.insecureLoginForms2 "Gli accessi effettuati in questa pagina potrebbero essere vulnerabili.">
 <!ENTITY identity.customRoot "Connessione verificata da un certificato emesso da un’autorità non riconosciuta da Mozilla.">
+<!ENTITY identity.evOwnerLabel "Proprietario sito:">
 <!ENTITY identity.activeBlocked "Alcuni elementi non sicuri di questa pagina sono stati bloccati da &brandShortName;.">
 <!ENTITY identity.passiveLoaded "Alcuni elementi di questa pagina non sono sicuri (ad esempio immagini).">
 <!ENTITY identity.activeLoaded "La protezione è disattivata per questa pagina.">
@@ -572,6 +577,7 @@
 <!ENTITY identity.moreInfoLinkText2 "Ulteriori informazioni">
 <!ENTITY identity.clearSiteData "Elimina cookie e dati dei siti web…">
 <!ENTITY identity.permissions "Permessi">
+<!ENTITY identity.permissions2 "Permessi impostati">
 <!ENTITY identity.permissionsEmpty "Nessun permesso speciale associato a questo sito.">
 <!ENTITY identity.permissionsReloadHint "Potrebbe essere necessario ricaricare la pagina per rendere effettive le modifiche.">
 <!ENTITY identity.permissionsPreferences.tooltip "Apri preferenze per i permessi">
