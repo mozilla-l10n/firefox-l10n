@@ -45,6 +45,7 @@ login-list-item-subtitle-missing-username = (kullanıcı adı yok)
 
 ## Introduction screen
 
+login-intro-instruction-faq = Daha fazla yardım için { -lockwise-brand-short-name } <a data-l10n-name="faq">sıkça sorulan sorular</a> sayfasını ziyaret edin
 
 ## Login
 
@@ -89,6 +90,10 @@ confirmation-dialog-dismiss-button =
 confirm-delete-dialog-title = Bu hesap silinsin mi?
 confirm-delete-dialog-message = Bu işlem geri alınamaz.
 confirm-delete-dialog-confirm-button = Sil
+confirm-discard-changes-dialog-title = Kaydedilmemiş değişikliklerden vazgeçilsin mi?
+confirm-discard-changes-dialog-message = Kaydedilmemiş değişikliklerin tümü kaybolacak.
+confirm-discard-changes-dialog-confirm-button = Vazgeç
 
 ## Breach Alert notification
 
+breach-alert-link = Bu ihlal hakkında daha fazla bilgi edinin.

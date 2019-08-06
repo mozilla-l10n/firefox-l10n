@@ -47,8 +47,8 @@ onboarding-sync-form-skip-login-button = Bu adımı atla
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
-onboarding-sync-form-header = Firefox Sync’e devam etmek için
-onboarding-sync-form-sub-header = e-posta adresinizi yazın.
+onboarding-sync-form-header = E-posta adresinizi girip
+onboarding-sync-form-sub-header = { -sync-brand-name }'e devam edin.
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
