@@ -852,8 +852,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Öppna inställningar för innehållsblockering">
 
 
-<!ENTITY protections.etpON.header "Förbättrad spårningsskydd är PÅ för den här webbplatsen">
-<!ENTITY protections.etpOFF.header "Förbättrad spårningsskydd är AV för den här webbplatsen">
+<!ENTITY protections.etpON.header "Förbättrat spårningsskydd är PÅ för den här webbplatsen">
+<!ENTITY protections.etpOFF.header "Förbättrat spårningsskydd är AV för den här webbplatsen">
 <!ENTITY protections.settings.label "Skyddsinställningar">
 <!ENTITY protections.report.label "Visa fullständig rapport">
 <!-- LOCALIZATION NOTE:

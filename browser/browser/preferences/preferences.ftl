@@ -343,7 +343,7 @@ browsing-cfr-recommendations =
     .label = Rekommendera tillägg när du surfar
     .accesskey = R
 browsing-cfr-features =
-    .label = Rekommendera funktioner medans du surfar
+    .label = Rekommendera funktioner medan du surfar
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Läs mer
 
