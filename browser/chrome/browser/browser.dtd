@@ -154,7 +154,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      for the Firefox Account toolbar menu screen.  -->
 <!ENTITY fxa.service.send.description "Upload filer og del dem med stærk kryptering og et link, der automatisk udløber.">
 <!ENTITY fxa.service.send.launch "Start &sendShortName;">
-<!ENTITY fxa.service.monitor.description "Undersøg om din mailadresse har været involveret i et datalæk - og få en advarsel, hvis den optræder i et nyt datalæk.">
+<!ENTITY fxa.service.monitor.description "Undersøg om din mailadresse har været involveret i en datalæk - og få en advarsel, hvis den optræder i en ny datalæk.">
 <!ENTITY fxa.service.monitor.launch "Start &monitorShortName;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -885,13 +885,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Sporings-indhold">
 <!ENTITY protections.fingerprinters.label "Fingerprinters">
 <!ENTITY protections.cryptominers.label "Cryptominers">
-<!ENTITY protections.noTrackersFound.description "Ingen af de sporings-mekanismer, &brandShortName; kender til, blev fundet på denne side.">
+<!ENTITY protections.noTrackersFound.description "&brandShortName; fandt ikke kendte sporings-mekanismer på denne side.">
 
-<!ENTITY protections.crossSiteTrackingCookies.description "Disse cookies følger dig fra side til side for at indsamle data om din adfærd på nettet. De stammer fra tredjepart som fx annoncører og anlyse-virksomheder.">
-<!ENTITY protections.cryptominers.description "Cryptominers bruger din computers ressourcer til at udvinde digital valuta. Cryptomining-scripts dræner dit batteri, gør din computer langsommere og kan få den til at bruge mere strøm.">
+<!ENTITY protections.crossSiteTrackingCookies.description "Disse cookies følger dig fra websted til websted for at indsamle data om din adfærd på nettet. De stammer fra tredjepart som fx annoncører og anlyse-virksomheder.">
+<!ENTITY protections.cryptominers.description "Cryptominers bruger din computers ressourcer til at udvinde digital valuta. Cryptomining-scripts gør din computer langsommere og får den til at bruge mere strøm, og de kan dermed dræne dit batteri.">
 <!ENTITY protections.fingerprinters.description "Fingerprinters indsamler indstillinger fra din browser og din computer for at skabe en profil af dig. Ved at bruge dette digitale fingeraftryk kan de spore dig på tværs af forskellige websteder.">
 <!ENTITY protections.trackingContent.description "Websteder kan indlæse eksterne reklamer, videoer og andet indhold, der indeholder sporings-kode. Ved at blokere sporings-indhold kan sider ofte indlæses hurtigere, men nogle knapper, formularer og login-felter virker måske ikke.">
-<!ENTITY protections.socialMediaTrackers.description "Sociale netværk placerer sporings-mekanismer på andre websteder for at følge med i hvad du gør og ser på nettet. Dette giver virksomhederne bag de sociale medier mulighed for at lære mere om dig end hvad du deler på dine sociale medie-profiler.">
+<!ENTITY protections.socialMediaTrackers.description "Sociale netværk placerer sporings-mekanismer på andre websteder for at følge med i, hvad du gør og ser på nettet. Det giver virksomhederne bag de sociale medier mulighed for at lære mere om dig, end det du ellers selv deler på de sociale medier.">
 
 <!ENTITY protections.manageProtectionSettings.label "Håndter indstillinger for beskyttelse">
 
@@ -939,7 +939,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.socialblock.label "Sporing via sociale medier">
 <!ENTITY contentBlocking.socialblockView.label "Sporing via sociale medier er blokeret">
-<!ENTITY contentBlocking.socialblockView.description "Social networks place trackers on other websites to follow what you do, see, and watch online. This allows social media companies to learn more about you beyond what you share on your social media profiles.">
+<!ENTITY contentBlocking.socialblockView.description "Sociale netværk placerer sporings-mekanismer på andre websteder for at følge med i, hvad du gør og ser på nettet. Det giver virksomhederne bag de sociale medier mulighed for at lære mere om dig, end det du ellers selv deler på de sociale medier.">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies og websteds-data">

@@ -166,7 +166,7 @@ newtab-empty-section-topstories = Der er ikke flere nye historier. Kom tilbage s
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
-newtab-discovery-empty-section-topstories-header = Du er opdateret!
+newtab-discovery-empty-section-topstories-header = Du har læst det hele!
 newtab-discovery-empty-section-topstories-content = Kom tilbage senere for at se flere historier.
 newtab-discovery-empty-section-topstories-try-again-button = Prøv igen
 newtab-discovery-empty-section-topstories-loading = Indlæser…
