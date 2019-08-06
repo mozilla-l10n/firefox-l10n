@@ -43,6 +43,7 @@ login-list-count =
   }
 login-list-sort-label-text = Ordina per:
 login-list-name-option = Nome (A-Z)
+login-list-breached-option = Violazione dati
 login-list-last-changed-option = Ultima modifica
 login-list-last-used-option = Ultimo utilizzo
 login-list-intro-title = Nessuna credenziale trovata

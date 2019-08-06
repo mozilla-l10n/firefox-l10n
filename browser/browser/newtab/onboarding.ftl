@@ -68,7 +68,7 @@ onboarding-benefit-privacy-text = Ogni nostra azione avviene nel rispetto della 
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Navigazione anonima
-onboarding-private-browsing-text = Naviga al riparo da occhi indiscreti. La Navigazione anonima con blocco contenuti mette uno stop a tutti gli elementi traccianti che cercano di pedinarti sul Web.
+onboarding-private-browsing-text = Naviga al riparo da occhi indiscreti. La Navigazione anonima con blocco contenuti mette uno stop a tutti gli elementi traccianti che cercano di seguirti sul Web.
 onboarding-screenshots-title = Screenshot
 onboarding-screenshots-text = Cattura, salva e condividi schermate senza uscire da { -brand-short-name }. Cattura una sezione della pagina, o la pagina intera, mentre navighi. Poi salvala sul web per poterla visualizzare e condividere ancora più facilmente.
 onboarding-addons-title = Componenti aggiuntivi
