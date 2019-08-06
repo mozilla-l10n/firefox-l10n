@@ -48,7 +48,7 @@ onboarding-sync-form-skip-login-button = Saltar este paso
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = Ingresa tu correo electrónico
-onboarding-sync-form-sub-header = para acceder a { -sync-brand-name }.
+onboarding-sync-form-sub-header = para continuar a { -sync-brand-name }.
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
@@ -106,6 +106,9 @@ onboarding-send-tabs-button = Empieza a usar Send Tabs
 onboarding-pocket-anywhere-title = Lee y escucha en cualquier lugar
 onboarding-pocket-anywhere-button = Prueba { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Lleva tus contraseñas a todas partes
+onboarding-lockwise-passwords-button2 = Obtener la aplicación
+onboarding-facebook-container-title = Ponle límites a Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } mantiene tu perfil separado de todo lo demás, dificultando que Facebook te dirija anuncios personalizados.
 onboarding-facebook-container-button = Añadir la extensión
 
 ## Message strings belonging to the Return to AMO flow

@@ -45,3 +45,4 @@ appmenu-addon-private-browsing =
     .buttonaccesskey = M
     .secondarybuttonlabel = Listo, entendido
     .secondarybuttonaccesskey = O
+appmenu-addon-private-browsing-learn-more = Cómo gestionar la configuración de las extensiones
