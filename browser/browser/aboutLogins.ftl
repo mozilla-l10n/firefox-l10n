@@ -9,6 +9,12 @@ login-filter =
 
 create-login-button = Inserisci nuova credenziale
 
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+  .alt = Favicon per { $title }
+
 fxaccounts-sign-in-text = Ritrova le tue password su tutti i tuoi dispositivi
 fxaccounts-sign-in-button = Accedi a { -sync-brand-short-name }
 
