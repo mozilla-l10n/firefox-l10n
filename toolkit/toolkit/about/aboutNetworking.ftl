@@ -57,3 +57,11 @@ rcwn-avg-long = Dlhodobý priemer
 rcwn-std-dev-long = Dlhodobá smerodajná odchýlka
 rcwn-cache-slow = Počet pomalých prístupov do vyrovnávacej pamäte
 rcwn-cache-not-slow = Počet rýchlych prístupov do vyrovnávacej pamäte
+networkid = ID siete
+networkid-id = ID siete
+
+## Link is intended as "network link"
+
+
+
+
