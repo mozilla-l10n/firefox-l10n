@@ -49,6 +49,8 @@ login-list-item-subtitle-missing-username = (puruhára hera'ỹva)
 login-intro-heading = ¿Eheka ne ñe’ẽñemi ñongatupyre? Emboheko { -sync-brand-short-name }.
 login-intro-description = Eñongatúvo nde jeike { -brand-product-name }-pe ambue mba’e’okápe.
 login-intro-instruction-fxa = Emoheñói térã eike nde { -fxaccount-brand-name }-pe mba’e’oka eñongatuhápe eikehague
+login-intro-instruction-fxa-settings = Eiporavokuaáke nde jeike { -sync-brand-short-name } ñemoĩporãme
+login-intro-instruction-faq = Eike { -lockwise-brand-short-name } <a data-l10n-name="faq">porandu py’ỹigua</a> ñepytyvõrãve
 
 ## Login
 

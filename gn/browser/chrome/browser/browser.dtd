@@ -147,11 +147,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "Eike &brandProductName;">
+<!ENTITY fxa.menu.turnOnSync.label "Emyandy &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "Mba'ete">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.description "Emyanyhẽ ha emoherakuã marandurenda ipapapy añetéva juajuha opáva ijehegui reheve.">
 <!ENTITY fxa.service.send.launch "Embojuruja &sendShortName;">
+<!ENTITY fxa.service.monitor.description "Ehechajey ne ñanduti veve oĩpa mba’ekuaarã imarãva ha eñeñatói hag̃ua oikéramo marã pyahu.">
 <!ENTITY fxa.service.monitor.launch "Embojuruja &monitorShortName;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
