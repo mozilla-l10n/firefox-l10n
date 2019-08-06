@@ -67,6 +67,8 @@ policy-EnableTrackingProtection = Activar o desactivar el bloqueo de contenido e
 # English or translate them as verbs.
 policy-Extensions = Instalar, desinstalar o bloquear exensiones. La opción Instalar admite URL o rutas como parámetros. Las opciones Desinstalar y Bloquear admiten ID de extensiones.
 
+policy-ExtensionSettings = Administrar todos los aspectos de la instalación de extensiones.
+
 policy-ExtensionUpdate = Activar o desactivar actualizaciones automáticas de extensiones.
 
 policy-HardwareAcceleration = Si falso, desactivar la aceleración hardware.
@@ -96,7 +98,7 @@ policy-SanitizeOnShutdown2 = Limpiar los datos de navegación al cerrar.
 policy-SearchEngines = Configurar los ajustes de buscadores. Esta política solo está disponible en la versión de asistencia extendida (ESR).
 
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
-policy-SecurityDevices = Instalar módules PKCS #11.
+policy-SecurityDevices = Instalar módulos PKCS #11.
 
 policy-SSLVersionMax = Establecer la versión SSL máxima.
 

@@ -17,6 +17,7 @@
 <!ENTITY paneAttachments.title "Adjuntos">
 <!ENTITY panePrivacy.title "Privacidad">
 <!ENTITY paneSecurity.title "Seguridad">
+<!ENTITY panePrivacySecurity.title "Privacidad y seguridad">
 <!ENTITY paneLightning.title "Calendario">
 <!ENTITY paneAdvanced.title "Avanzado">
 <!ENTITY paneAccount.title "Cuentas">

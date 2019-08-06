@@ -159,7 +159,6 @@
 <!ENTITY compactVersion.accesskey "C">
 <!ENTITY folderPaneBar.label "Barra de herramientas del panel de carpetas">
 <!ENTITY folderPaneBar.accesskey "h">
-<!ENTITY folderModeSelector.label "Vistas de carpeta">
 <!ENTITY sortMenu.label "Ordenar por">
 <!ENTITY sortMenu.accesskey "O">
 <!ENTITY sortByDateCmd.label "Fecha">
@@ -541,6 +540,7 @@
 <!ENTITY fileButton.tooltip "Archivar mensaje seleccionado">
 <!ENTITY archiveButton.tooltip "Archivar mensajes seleccionados">
 <!ENTITY openConversationButton.tooltip "Mostrar conversación de este mensaje">
+<!ENTITY openMsgConversationButton.tooltip "Mostrar conversación del mensaje seleccionado">
 <!ENTITY nextButton.tooltip "Ir al siguiente mensaje no leído">
 <!ENTITY nextMsgButton.tooltip "Moverse al mensaje siguiente">
 <!ENTITY previousButton.tooltip "Ir al anterior mensaje no leído">
