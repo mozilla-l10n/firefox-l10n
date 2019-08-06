@@ -37,18 +37,58 @@ login-list-count =
 login-list-sort-label-text = Sorteren op:
 login-list-name-option = Naam (A-Z)
 login-list-last-changed-option = Laatst gewijzigd
+login-list-last-used-option = Laatst gebruikt
+login-list-intro-title = Geen aanmeldingen gevonden
+login-list-intro-description = Wanneer u een wachtwoord opslaat in { -brand-product-name }, wordt dit hier weergegeven.
+login-list-item-title-new-login = Nieuwe aanmelding
+login-list-item-subtitle-new-login = Voer uw aanmeldgegevens in
+login-list-item-subtitle-missing-username = (geen gebruikersnaam)
 
 ## Introduction screen
 
 
 ## Login
 
+login-item-edit-button = Bewerken
+login-item-delete-button = Verwijderen
+login-item-origin-label = Websiteadres
+login-item-origin =
+    .placeholder = https://www.example.com
+login-item-open-site-button = Starten
+login-item-username-label = Gebruikersnaam
+login-item-username =
+    .placeholder = uwnaam@example.com
+login-item-copy-username-button-text = Kopiëren
+login-item-copied-username-button-text = Gekopieerd!
+login-item-password-label = Wachtwoord
+login-item-password-reveal-checkbox-show =
+    .title = Wachtwoord tonen
+login-item-password-reveal-checkbox-hide =
+    .title = Wachtwoorden verbergen
+login-item-copy-password-button-text = Kopiëren
+login-item-copied-password-button-text = Gekopieerd!
+login-item-save-changes-button = Wijzigingen opslaan
+login-item-save-new-button = Opslaan
+login-item-cancel-button = Annuleren
+login-item-time-changed = Laatst gewijzigd: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Gemaakt: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Laatst gebruikt: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
+master-password-notification-message = Voer uw hoofdwachtwoord in om opgeslagen aanmeldingen en wachtwoorden te bekijken
+master-password-reload-button =
+    .label = Aanmelden
+    .accesskey = A
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Annuleren
+confirmation-dialog-dismiss-button =
+    .title = Annuleren
+confirm-delete-dialog-title = Deze aanmelding verwijderen?
+confirm-delete-dialog-message = Deze actie kan niet ongedaan worden gemaakt.
+confirm-delete-dialog-confirm-button = Verwijderen
 
 ## Breach Alert notification
 

@@ -47,6 +47,9 @@ newtab-topsites-add-button = Toevoegen
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Weet u zeker dat u alle exemplaren van deze pagina uit uw geschiedenis wilt verwijderen?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Deze actie kan niet ongedaan worden gemaakt.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Bladwijzer maken
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Downloadkoppeling kopiëren
 newtab-menu-go-to-download-page = Naar downloadpagina gaan
 newtab-menu-remove-download = Verwijderen uit geschiedenis
@@ -116,6 +123,10 @@ newtab-label-download = Gedownload
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = Sectie verwijderen
 newtab-section-menu-collapse-section = Sectie samenvouwen
 newtab-section-menu-expand-section = Sectie uitvouwen
@@ -126,6 +137,13 @@ newtab-section-menu-add-search-engine = Zoekmachine toevoegen
 newtab-section-menu-move-up = Omhoog verplaatsen
 newtab-section-menu-move-down = Omlaag verplaatsen
 newtab-section-menu-privacy-notice = Privacyverklaring
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Sectie samenvouwen
+newtab-section-expand-section-label =
+    .aria-label = Sectie uitvouwen
 
 ## Section Headers.
 
