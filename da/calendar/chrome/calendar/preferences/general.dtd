@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.mainbox.label "Generelle indstillinger" >
+
 <!ENTITY pref.dateformat.label "Datoformat:" >
 <!ENTITY pref.dateformat.accesskey "D">
 <!ENTITY pref.dateformat.long "Langt" >
@@ -15,7 +16,7 @@
 
 <!ENTITY pref.timezones.caption "Tidszone">
 <!ENTITY pref.timezones.label "Vælg den nærmeste by i din tidszone:">
-<!ENTITY pref.timezones.accesskey "æ">
+<!ENTITY pref.timezones.accesskey "z">
 
 <!ENTITY pref.defaults.label "Forvalgte værdier for nye elementer">
 <!ENTITY pref.events.label "Begivenheder">
@@ -23,6 +24,7 @@
 
 <!ENTITY pref.default_event_length.label "Forvalgt varighed:" >
 <!ENTITY pref.default_event_length.accesskey "v">
+
 
 <!ENTITY pref.default_task_none.label "Ingen">
 <!ENTITY pref.default_task_start_of_day.label "Start på dagen">
@@ -34,9 +36,6 @@
 <!ENTITY pref.default_task_offset_next_hour.label "I forhold til næste time">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "I dag">
-<!ENTITY pref.soondays.label "Afsnittet Kommende viser:">
-<!ENTITY pref.soondays.accesskey "a">
-
 <!-- LOCALIZATION NOTE (pref.soondays2.label):
      "Upcoming" is the name of a section and the translation must match the
      translation of that section name (calendar.upcoming.button.label). Also,
