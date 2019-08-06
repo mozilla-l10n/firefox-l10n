@@ -29,11 +29,6 @@ menu-menuitem-iphone-app = ଆଇଫୋନ ଏବଂ ଆଇପ୍ୟାଡ ପ�
 
 login-list =
     .aria-label = ଲଗଇନଟି ଖୋଜା ତଥ୍ୟ ସହ ମିଶୁଛି
-login-list-count =
-    { $count ->
-        [one] ଲଗଇନ
-       *[other] ଲଗଇନ ଗୁଡ଼ିକ
-    }
 login-list-sort-label-text = କ୍ରମ:
 login-list-name-option = ନାମ (କ-କ୍ଷ)
 login-list-last-changed-option = ପୂର୍ବ ରୂପାନ୍ତରଣ
