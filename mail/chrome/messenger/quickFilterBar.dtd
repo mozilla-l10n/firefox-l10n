@@ -81,7 +81,7 @@
      books.
      -->
 <!ENTITY quickFilterBar.inaddrbook.label
-         "Danh bạ">
+         "Liên hệ">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.tooltip):
      The tooltip for the filter button that causes us to filter results to only
