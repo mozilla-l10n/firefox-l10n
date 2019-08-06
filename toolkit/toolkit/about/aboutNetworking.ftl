@@ -59,3 +59,11 @@ rcwn-avg-long = Lang gemiddelde
 rcwn-std-dev-long = Lange standaarddeviatie
 rcwn-cache-slow = Aantal trage buffers
 rcwn-cache-not-slow = Aantal niet-trage buffers
+networkid = Netwerk-ID
+networkid-id = Netwerk-ID
+
+## Link is intended as "network link"
+
+
+
+
