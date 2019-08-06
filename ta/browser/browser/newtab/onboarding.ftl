@@ -33,7 +33,7 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
-onboarding-sync-welcome-header = பயர்பாக்சை உடன் எடுத்துச் செல்லுங்கள்
+onboarding-sync-welcome-header = { -brand-product-name } உடன் எடுத்துச் செல்லுங்கள்
 onboarding-sync-welcome-content = உங்கள் அனைத்துச் சாதனங்களிலும் உள்ள உங்களின் புத்தகக்குறிகள், வரலாறு, கடவுச்சொற்கள் மற்றும் பிற அமைப்புகளைப் பெறுங்கள்.
 onboarding-sync-welcome-learn-more-link = பயர்பாக்சு கணக்கைப் பற்றி மேலும் தெரிந்து கொள்ளவும்
 onboarding-sync-form-invalid-input = நம்பகரமான மின்னஞ்சல் தேவை
@@ -46,7 +46,7 @@ onboarding-sync-form-skip-login-button = இந்த படிநிலைய�
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = உங்களின் மின்னஞ்சலை உள்ளிடுக
-onboarding-sync-form-sub-header = பயர்பாக்சு ஒத்திசையைத் தொடர.
+onboarding-sync-form-sub-header = { -sync-brand-name } ஒத்திசையைத் தொடர.
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
