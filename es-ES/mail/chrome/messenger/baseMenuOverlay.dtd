@@ -12,18 +12,6 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "I">
 <!ENTITY helpSafeMode.label "Reiniciar con los complementos desactivados…">
 <!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY releaseCmd2.label "Notas de esta versión">
-<!ENTITY releaseCmd2.accesskey "N">
-<!ENTITY whatsNewCmd.label "Qué hay de nuevo">
-<!ENTITY whatsNewCmd.accesskey "Q">
-<!ENTITY openHelp.label "Contenidos de la ayuda">
-<!ENTITY openHelp.accesskey "u">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac2.label "Ayuda de &brandFullName;">
-<!ENTITY openHelpMac2.commandkey "?">
-<!ENTITY openHelpMac2.modifiers "accel">
-<!ENTITY aboutMenuCmd2.label "Acerca de &brandFullName;">
-<!ENTITY aboutMenuCmd2.accesskey "A">
 <!ENTITY helpSafeMode.stop.label "Reiniciar con los complementos activados">
 <!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "Ayuda de &brandShortName;">
