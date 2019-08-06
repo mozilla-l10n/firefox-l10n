@@ -910,7 +910,7 @@ content-blocking-setting-custom =
     .accesskey = T
 
 content-blocking-standard-desc = Balanceret mellem beskyttelse og ydelse. Tillader nogle sporings-tjenester for at websteder kan fungere ordentligt.
-content-blocking-strict-description = Bedre bedskyttelse, men kan forhindre nogle websteder i at fungere.
+content-blocking-strict-description = Bedre beskyttelse, men kan forhindre nogle websteder i at fungere.
 content-blocking-custom-desc = Vælg selv, hvad der skal blokeres.
 
 content-blocking-private-trackers = Kendte sporings-tjenester kun i private vinduer
