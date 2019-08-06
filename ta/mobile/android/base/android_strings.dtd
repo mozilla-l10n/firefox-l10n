@@ -6,9 +6,11 @@
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; உலாவியைத் தேர்ந்தமைக்கு நன்றி">
 <!ENTITY newfirstrun_urlbar_message "&brandShortName; உலாவிக்கு வரவேற்கிறேன்">
 <!ENTITY firstrun_urlbar_subtext2 "சுதந்திர மற்றும் திறந்த இணையத்திற்காக அர்பணிக்கப்பட்ட இலாபநோக்கற்ற, மொசில்லாவிலிருந்து ஒரு நவீன கைபேசி உலாவி.">
+<!ENTITY newfirstrun_urlbar_subtext "வேகமான, தனியுரிமையுள்ள மற்றும் உங்கள் பக்கத்தில்.">
 <!ENTITY firstrun_panel_title_privacy "அந்தரங்கம்">
 <!ENTITY firstrun_privacy_message "யாரும் காண வண்ணம் உலாவுங்கள்">
 <!ENTITY firstrun_privacy_subtext "பின்தொடரல் பாதுகாப்புடன் கூடிய தனிப்பட்ட உலாவல் நீங்கள் உலாவும்போது பின்தொடரிகளை தடுக்கிறது மேலும் நீங்கள் உலாவலை முடித்தபின் உங்கள் வரலாற்றை நினைவில் கொள்ளாது.">
+<!ENTITY newfirstrun_privacy_subtext "இணையத்தில் உங்களைப் பின்தொடரும் விளம்பர பின்தொடரிகளை அந்தரங்க உலாவல் தடுக்கிறது.">
 <!ENTITY firstrun_panel_title_customize "விருப்பமை">
 <!ENTITY firstrun_customize_message "&brandShortName; உங்களுடையதாக மாற்றுங்கள்.">
 <!ENTITY firstrun_customize_subtext "&brandShortName; உலாவியை மேற்சேர்க்கைகளுடன் தனிப்பயனாக்கவும். விளம்பரங்களைத் தடுக்கவும், அம்சங்களைச் சேர்க்கவும், அல்லது உங்கள் தோற்றத்தை பிரதிபலிக்கும் ஒரு புதிய கருப்பொருளைத் தேர்ந்தெடுக்கவும்.">
@@ -22,6 +24,8 @@
 <!ENTITY updatednewfirstrun_sync_title "கணக்கு">
 <!ENTITY firstrun_sync_message2 "நீங்கள் விட்டுவிட்ட இடத்தில் எடு.">
 <!ENTITY firstrun_sync_subtext2 "&brandShortName; உலாவியில் நீங்கள் சேமிக்கும் புத்தகக்குறிகள், கடவுச்சொற்கள், பிறவற்றை உங்கள் எல்லா கருவிகளிலும் எடுக்க ஒத்திசைவைப் பயன்படுத்தவும்.">
+<!ENTITY newfirstrun_sync_subtext "உங்கள் கைப்பேசியில் சேமித்தவற்றை மேசைக்கணினிக்கான பயர்பாக்சுடன் அந்தரங்கமாகவும் பாதுகாப்போடும் ஒத்திசையுங்கள்.">
+<!ENTITY updatednewfirstrun_sync_subtext "உங்கள் கணக்கில் உள்நுழைவதின் மூலம் &brandShortName; உலாவியின் அதிக பயனைப் பெறுவீர்கள்">
 <!ENTITY firstrun_signin_message "இணையுங்கள், தொடங்குங்கள்">
 <!ENTITY firstrun_signin_button "ஒத்திசைக்க உள்நுழை">
 <!ENTITY newfirstrun_signin_button "ஒத்திசைவை இயக்கு">
@@ -68,10 +72,15 @@
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; நொறுங்கியது">
+<!ENTITY  crash_notification_message "&vendorShortName; என்பதிற்கு புகாரளிக்க தட்டவும்">
+<!ENTITY  crash_notification_negative_button_text "தவிர்">
 
 <!ENTITY url_bar_default_text2 "தேடு/முகவரியை உள்ளிடு">
 
 <!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "இணையத்தில் தேடு">
+<!ENTITY search_widget_default_cropped_text "தேடு">
+<!ENTITY search_widget_logo_description "&brandShortName; உடன் வலையில் தேடுங்கள்">
 
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
@@ -109,6 +118,7 @@
 <!ENTITY bookmark_add_folder "புதிய அடைவைச் சேர்">
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(தலைப்பற்ற)">
 
 <!ENTITY reader_saved_offline "இணையமற்ற நிலைக்கு சேமித்தது">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -268,6 +278,7 @@
 <!ENTITY pref_cookies_menu "குக்கீகள்">
 <!ENTITY pref_cookies_accept_all "செயல்படுத்தப்பட்டது">
 <!ENTITY pref_cookies_not_accept_foreign "செயலிலுள்ள, 3ஆவது கட்சி நீங்கலாக">
+<!ENTITY pref_cookies_not_accept_trackers "தடமறி நினைவிகளைத் தவிர்த்து, செயலிலுள்ளது">
 <!ENTITY pref_cookies_disabled "முடக்கப்பட்டது">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -344,6 +355,7 @@
 <!ENTITY tab_queue_prompt_settings_button "அமைவுகளுக்கு செல்">
 <!-- Localization note (tab_queue_notification_prompt): This is the text of the default notification
 shown from Android O while a tab is being queued.-->
+<!ENTITY tab_queue_notification_prompt "புதிய கீற்றை &#8230; வரிசையில் சேர்க்கிறது">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -408,9 +420,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "பதிவிறக்கங்கள்">
 <!ENTITY pref_private_data_syncedTabs "ஒத்திசைக்கப்பட்ட கீற்றுகள்">
 
+<!ENTITY pref_default_browser2 "&brandShortName; உலாவியைக் கணினியின் முன்னிறுப்பாக்குங்கள்">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "உலாவி செயலியைத் தட்டி &amp; &brandShortName; தேர்வு செய்யவும்">
 <!ENTITY pref_about_firefox "&brandShortName;வைப் பற்றி">
 <!ENTITY pref_vendor_faqs "அடிக்கடி கேட்கப்படும் கேள்விகளும் பதில்களும்">
 <!ENTITY pref_vendor_feedback "கருத்து தெரிவிக்கவும்">
@@ -507,6 +521,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Localization note (find_error) : Error message shown when there is no result for the
      searched for text in this webpage -->
+<!ENTITY find_error "சொற்றொடர் கிடைக்கவில்லை">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -581,6 +596,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "முக்கியச்சொல்">
 <!ENTITY bookmark_select_folder "அடைவைத் தேர்">
 
+<!ENTITY bookmark_edit_undo "மீளமை">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -669,6 +685,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "ஒரு ஒலி தேர்வு அல்லது பதிவு">
 <!ENTITY filepicker_image_title "தேர்ந்தெடு அல்லது ஒரு படத்தை எடு">
 <!ENTITY filepicker_video_title "ஒரு படத் தேர்வு அல்லது பதிவு">
+<!ENTITY filepicker_permission_denied "தேவையான அனுமதிகள் வழங்கப்படவில்லை, கணினியக கோப்புத்தேர்வாளருக்கு மாற்றியமைக்கப்படுகிறது.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "நீங்கள் இதனுடன் இணைக்கப்பட்டுள்ளீர்கள்">
@@ -908,6 +925,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "நிறுத்து">
 <!ENTITY pip_pause_button_description "இயக்கத்தை நிறுத்து">
 
+<!ENTITY pref_notification_settings_link "அறிவிப்பு அமைவுகளை நிர்வகி">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "உலாவி">
 <!ENTITY mls_notification_channel "&vendorShortName; இடமறியும் சேவை">
@@ -920,3 +938,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "தள அறிவிப்புகள்">
+<!ENTITY crash_handler_notifications_channel "&brandShortName; சிதைவு அறிக்கையாளர்">
