@@ -286,6 +286,12 @@ update-pref-write-failure-title = Error de escritura
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = No se pudo guardar la preferencia. No se pudo escribir al archivo: { $path }
 update-setting-write-failure-title = Error al guardar las preferencias de actualizaciones
+update-in-progress-title = Actualización en curso
+update-in-progress-message = ¿Quieres que { -brand-short-name } continúe con esta actualización?
+update-in-progress-ok-button = &Descartar
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Continuar
 
 ## General Section - Performance
 
@@ -327,6 +333,9 @@ browsing-search-on-start-typing =
     .accesskey = x
 browsing-cfr-recommendations =
     .label = Recomendar extensiones mientras se navega
+    .accesskey = R
+browsing-cfr-features =
+    .label = Recomendar funciones mientras navegas
     .accesskey = R
 browsing-cfr-recommendations-learn-more = Aprender más
 
@@ -642,6 +651,7 @@ sitedata-learn-more = Aprender más
 sitedata-delete-on-close =
     .label = Eliminar cookies y datos del sitio cuando se cierra { -brand-short-name }
     .accesskey = c
+sitedata-delete-on-close-private-browsing = En el modo de navegación privada permanente, las cookies y los datos del sitio se borrarán siempre cuando se cierre { -brand-short-name }.
 sitedata-allow-cookies-option =
     .label = Aceptar cookies y datos del sitio
     .accesskey = A
@@ -701,6 +711,7 @@ content-blocking-setting-custom =
     .label = Personalizar
     .accesskey = P
 content-blocking-standard-desc = Balanceado para protección y rendimiento. Permite algunos rastreadores, así lo sitios web funcionan adecuadamente.
+content-blocking-strict-description = Protección más fuerte; puede interferir con el funcionamiento de algunos sitios.
 content-blocking-custom-desc = Elegir que bloquear
 content-blocking-private-trackers = Rastreadores conocidos solo en ventanas privadas
 content-blocking-third-party-cookies = Cookies de rastreadores de terceros
@@ -709,7 +720,9 @@ content-blocking-unvisited-cookies = Cookies de sitios no visitados
 content-blocking-all-windows-trackers = Rastreadores conocidos en todas las ventanas
 content-blocking-all-third-party-cookies = Todas las cookies de terceros
 content-blocking-warning-title = ¡Atención!
+content-blocking-warning-description = Bloquear el contenido puede hacer que algunos sitios dejen de funcionar. Es fácil desactivar el bloqueo para los sitios en los que confías.
 content-blocking-learn-how = Saber cómo
+content-blocking-reload-description = Tendrás que volver a cargar tus pestañas para aplicar estos cambios.
 content-blocking-reload-tabs-button =
     .label = Recargar todas las pestañas
     .accesskey = R
@@ -732,6 +745,11 @@ content-blocking-expand-section =
 content-blocking-cryptominers-label =
     .label = Criptomineros
     .accesskey = y
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Fingerprinters
+    .accesskey = F
 
 ## Privacy Section - Tracking
 
@@ -762,9 +780,16 @@ permissions-notification-link = Saber más
 permissions-notification-pause =
     .label = Pausar las notificaciones hasta que { -brand-short-name } reinicie
     .accesskey = n
+permissions-block-autoplay-media2 =
+    .label = Bloquear la reproducción automática de sonido en los sitios web
+    .accesskey = B
 permissions-block-autoplay-media-exceptions =
     .label = Excepciones...
     .accesskey = E
+permissions-autoplay = Reproducción automática
+permissions-autoplay-settings =
+    .label = Configuración…
+    .accesskey = C
 permissions-block-popups =
     .label = Bloquear ventanas emergentes
     .accesskey = B

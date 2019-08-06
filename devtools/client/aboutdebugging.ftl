@@ -41,6 +41,8 @@ about-debugging-sidebar-no-devices = No se descubrieron dispositivos.
 about-debugging-sidebar-item-connect-button = Conectar
 # Text displayed in buttons found in sidebar items when the runtime is connecting.
 about-debugging-sidebar-item-connect-button-connecting = Conectando...
+# Text displayed in buttons found in sidebar items when the connection failed.
+about-debugging-sidebar-item-connect-button-connection-failed = Falló la conexión
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Conectado
@@ -55,6 +57,9 @@ about-debugging-sidebar-runtime-item-name =
 # locations).
 about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
+# Text to show in the footer of the sidebar that links to a help page
+# (currently: https://developer.mozilla.org/docs/Tools/about:debugging)
+about-debugging-sidebar-support = Compatibilidad con depuración
 # Text to show as the ALT attribute of a help icon that accompanies the help about
 # debugging link in the footer of the sidebar
 about-debugging-sidebar-support-icon =
@@ -187,3 +192,15 @@ about-debugging-worker-status-registering = Registrando
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Proceso principal
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description2 = Proceso principal del navegador de destino
+# Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon =
+    .alt = Cerrar mensaje
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = Detalles del error
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = Detalles del aviso
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = Detalles
