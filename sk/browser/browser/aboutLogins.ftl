@@ -6,6 +6,7 @@ about-logins-page-title = Prihlasovacie údaje
 login-filter =
     .placeholder = Hľadať
 create-login-button = Nové prihlasovacie údaje
+fxaccounts-sign-in-text = Synchronizujte svoje heslá aj do ostatných zariadení
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -44,6 +45,7 @@ login-list-item-subtitle-missing-username = (žiadne používateľské meno)
 
 ## Introduction screen
 
+login-intro-heading = Hľadáte svoje uložené prihlasovacie údaje? Nastavte si { -sync-brand-short-name }.
 
 ## Login
 
@@ -82,9 +84,13 @@ master-password-reload-button =
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Zrušiť
+confirmation-dialog-dismiss-button =
+    .title = Zrušiť
 confirm-delete-dialog-title = Odstrániť tieto prihlasovacie údaje?
 confirm-delete-dialog-message = Túto akciu nie je možné vrátiť späť.
 confirm-delete-dialog-confirm-button = Odstrániť
 
 ## Breach Alert notification
 
+breach-alert-link = Ďalšie informácie o tomto úniku.
