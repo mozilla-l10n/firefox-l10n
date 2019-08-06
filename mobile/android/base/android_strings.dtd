@@ -7,8 +7,8 @@
 <!ENTITY newfirstrun_urlbar_message "&brandShortName; உலாவிக்கு வரவேற்கிறேன்">
 <!ENTITY firstrun_urlbar_subtext2 "சுதந்திர மற்றும் திறந்த இணையத்திற்காக அர்பணிக்கப்பட்ட இலாபநோக்கற்ற, மொசில்லாவிலிருந்து ஒரு நவீன கைபேசி உலாவி.">
 <!ENTITY newfirstrun_urlbar_subtext "வேகமான, தனியுரிமையுள்ள மற்றும் உங்கள் பக்கத்தில்.">
-<!ENTITY firstrun_panel_title_privacy "அந்தரங்கம்">
-<!ENTITY firstrun_privacy_message "யாரும் காண வண்ணம் உலாவுங்கள்">
+<!ENTITY firstrun_panel_title_privacy "தனியுரிமை">
+<!ENTITY firstrun_privacy_message "யாரும் காணா வண்ணம் உலாவுங்கள்">
 <!ENTITY firstrun_privacy_subtext "பின்தொடரல் பாதுகாப்புடன் கூடிய தனிப்பட்ட உலாவல் நீங்கள் உலாவும்போது பின்தொடரிகளை தடுக்கிறது மேலும் நீங்கள் உலாவலை முடித்தபின் உங்கள் வரலாற்றை நினைவில் கொள்ளாது.">
 <!ENTITY newfirstrun_privacy_subtext "இணையத்தில் உங்களைப் பின்தொடரும் விளம்பர பின்தொடரிகளை அந்தரங்க உலாவல் தடுக்கிறது.">
 <!ENTITY firstrun_panel_title_customize "விருப்பமை">
@@ -29,7 +29,7 @@
 <!ENTITY firstrun_signin_message "இணையுங்கள், தொடங்குங்கள்">
 <!ENTITY firstrun_signin_button "ஒத்திசைக்க உள்நுழை">
 <!ENTITY newfirstrun_signin_button "ஒத்திசைவை இயக்கு">
-<!ENTITY updatednewfirstrun_signin_button "&brandShortName; செயலியில் உள்நுழைக">
+<!ENTITY updatednewfirstrun_signin_button "&brandShortName; உலாவியில் உள்நுழைக">
 <!ENTITY  onboard_start_button_browser "உலாவத் தொடங்குக">
 <!ENTITY firstrun_button_notnow "இப்போது இல்லை">
 <!ENTITY firstrun_button_next "அடுத்தது">
