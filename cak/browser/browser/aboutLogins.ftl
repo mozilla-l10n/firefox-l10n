@@ -35,6 +35,12 @@ login-list-count =
        *[other] { $count } tikirib'äl taq molojri'ïl
     }
 login-list-sort-label-text = Tichol chi:
+login-list-name-option = B'i'aj (A-Y)
+login-list-last-changed-option = Ruk'isib'äl Jaloj
+login-list-last-used-option = Ruk'isib'äl Rokisaxik
+login-list-intro-title = Majun tikirib'äl molojri'ïl xilitäj
+login-list-intro-description = Toq nayäk jun ewan tzij pa { -brand-product-name }, wawe' xtiq'alajin pe.
+login-list-item-title-new-login = K'ak'a' Tikirib'äl Molojri'ïl
 
 ## Introduction screen
 
