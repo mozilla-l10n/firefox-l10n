@@ -493,7 +493,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share_image_failed "Изображението не може да бъде споделено">
 <!ENTITY save_as_pdf "Запазване като PDF">
 <!ENTITY print "Отпечатване">
-<!ENTITY view_page_source "Изходен код на страницата">
+<!ENTITY view_page_source "Изходен код">
 <!ENTITY find_in_page "Търсене в страницата">
 <!ENTITY desktop_mode "Настолна версия на сайта">
 <!ENTITY page "Страница">
@@ -544,7 +544,7 @@ shown from Android O while a tab is being queued.-->
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
-<!ENTITY contextmenu_pin_to_top_sites "Добавяне в най-посещаваните">
+<!ENTITY contextmenu_pin_to_top_sites "Добавяне в посещаваните">
 <!ENTITY contextmenu_unpin_from_top_sites "Премахване от най-посещаваните">
 <!ENTITY contextmenu_add_search_engine "Добавяне на търсачка">
 
