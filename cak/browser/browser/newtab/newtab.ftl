@@ -47,6 +47,9 @@ newtab-topsites-add-button = Titz'aqatisäx
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = ¿La kan nawajo ye'ayüj el ronojel ri kib'eyal re taq ruxaq re' chi kikojol ri anatab'al?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Man yatikïr ta najäl re b'anïk re'.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Yaketal
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Tiwachib'ëx Ruximonel Qasanïk
 newtab-menu-go-to-download-page = Tib'e pa Ruxaq Qasanïk
 newtab-menu-remove-download = Tiyuj el pa Natab'äl
@@ -116,6 +123,10 @@ newtab-label-download = Xqasäx
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = Tiyuj Tanaj
 newtab-section-menu-collapse-section = Tiwulüx Peraj
 newtab-section-menu-expand-section = Tirik' Peraj
@@ -126,6 +137,13 @@ newtab-section-menu-add-search-engine = Titz'aqatisäx kanob'äl
 newtab-section-menu-move-up = Tijotob'äx
 newtab-section-menu-move-down = Tiqasäx qa
 newtab-section-menu-privacy-notice = Ichinan na'oj
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Tik'ol Peraj
+newtab-section-expand-section-label =
+    .aria-label = Tirik' Peraj
 
 ## Section Headers.
 
@@ -142,6 +160,9 @@ newtab-empty-section-highlights = Katok pa k'amaya'l richin niqak'üt chawäch j
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Xaq'i'. Katzolin chik pe richin ye'ak'ül ri utziläj taq rub'anob'al { $provider }. ¿La man noyob'en ta? Tacha' jun ütz na'oj richin nawïl ch'aqa' chik taq b'anob'äl e k'o chi rij ri ajk'amaya'l.
+
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
 
 ## Pocket Content Section.
 

@@ -65,4 +65,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## What's New toolbar button and panel
 
+cfr-whatsnew-button =
+    .label = K'ak'a' Rutzijol
+    .tooltiptext = K'ak'a' Rutzijol
 cfr-whatsnew-panel-header = Achike natzijoj
