@@ -17,6 +17,8 @@ login-favicon =
 
 fxaccounts-sign-in-text = Ritrova le tue password su tutti i tuoi dispositivi
 fxaccounts-sign-in-button = Accedi a { -sync-brand-short-name }
+fxaccounts-avatar-button =
+  .title = Gestisci account
 
 ## The ⋯ menu that is in the top corner of the page
 menu =
