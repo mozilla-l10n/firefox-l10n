@@ -179,7 +179,7 @@
 <!ENTITY calendar.context.attendance.menu.accesskey             "D">
 <!ENTITY calendar.context.attendance.occurrence.label           "Denne førekomsten">
 <!ENTITY calendar.context.attendance.all2.label                 "Komplett serie">
-<!ENTITY calendar.context.attendance.send.label                 "Send et varsel no">
+<!ENTITY calendar.context.attendance.send.label                 "Send eit varsel no">
 <!ENTITY calendar.context.attendance.send.accesskey             "S">
 <!ENTITY calendar.context.attendance.dontsend.label             "Ikkje send eit varsel">
 <!ENTITY calendar.context.attendance.dontsend.accesskey         "d">
