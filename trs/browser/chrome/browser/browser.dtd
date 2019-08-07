@@ -138,13 +138,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.button.label "Na'nïn &syncBrand.shortName.label; Nagi'iaj…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Dānaj nutà't si yuguît">
 <!ENTITY fxa.menu.manageAccount.label "Si Kuendâ Administrador…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; Nagi'iaj…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Duguatûj a'ngô aga'a…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!ENTITY fxa.menu.signin.label "Nutà' si yuguît riña &brandProductName;">
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -188,6 +193,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "Nuto' a'ngo rakïj ñanj...">
+
 <!ENTITY showAllBookmarks2.label "Ni'io' sa raj sun nichro' doj">
 <!ENTITY recentBookmarks.label "Markador nakà doj">
 <!ENTITY otherBookmarksCmd.label "A'ngo sa raj sun nichro' doj">
@@ -310,6 +316,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Sa ma sà'a">
 <!ENTITY fileMenu.accesskey       "F">
+
 <!ENTITY newUserContext.label             "Rakïj ñanj man sa garasun'">
 <!ENTITY newUserContext.accesskey         "B">
 <!ENTITY manageUserContext.label          "Dugumî hue'ê' kontenedor">
@@ -359,6 +366,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "Dukuán nū yi'ní ma">
 <!ENTITY viewSidebarMenu.accesskey "e">
+
 <!ENTITY viewCustomizeToolbar.label       "Nagi'iô' daj huin ruhuô'...">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 <!ENTITY overflowCustomizeToolbar.label       "Nagi'io' dukuán ma sa rajeunit'...">
@@ -372,6 +380,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Nagi'iaj ñunj sesión gà gachin">
 
 <!ENTITY showAllHistoryCmd2.label "Digû' riña gaché nu'">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Digû' riña gaché nu'">
@@ -588,9 +597,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Ga'ni' Link…">
 <!ENTITY emailPageCmd.accesskey       "E">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Na'nïnj sà' Pâjina Gù'na…">
 <!ENTITY savePageCmd.accesskey        "A">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Na'nïnj sà' Pâjina Gù'na…">
@@ -695,22 +704,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Nagi'iaj niko'">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Nagi'iaj li'">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Nagi'iaj ñun">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Ma si soom texto">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
+
 <!ENTITY fullZoom.label                 "Soom">
 <!ENTITY fullZoom.accesskey             "Z">
 
@@ -728,6 +741,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Narán">
+
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "C">
 
@@ -850,6 +864,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Gayi'ì' sesión 'ngà &syncBrand.shortName.label;...">
 <!ENTITY syncSignIn.accesskey         "Y">
+
 <!ENTITY syncSyncNowItem.label        "Gi'iaj sun nugua'ān ma">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Gatu' 'ngà &syncBrand.shortName.label;...">
@@ -876,6 +891,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackersView.label "Sa naga'naj">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Da' garánt riña daran' sa naga'naj ni ganahuit sa arán gahuin ma ya yitinj in.">
+
 
 <!ENTITY contentBlocking.cookies.label "Nej kôki">
 <!ENTITY contentBlocking.cookiesView.label "Nej kôki ni nej si datô sîtio">
