@@ -18,3 +18,4 @@ reader-view = תצוגת קריאה
 open-location = חיפוש או הכנסת כתובת
 share = שיתוף
 close-window = סגירת חלון
+open-sidebar = סרגלי צד

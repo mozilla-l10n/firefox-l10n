@@ -61,3 +61,10 @@ cfr-doorhanger-bookmark-fxa-link-text = סנכרון הסימניות כעת…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = כפתור סגירה
     .title = סגירה
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = מה חדש
+    .tooltiptext = מה חדש
+cfr-whatsnew-panel-header = מה חדש

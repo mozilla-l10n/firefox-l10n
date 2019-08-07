@@ -138,13 +138,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.button.label "פתיחת ההגדרות של &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "מחובר בתור">
 <!ENTITY fxa.menu.manageAccount.label "ניהול חשבון…">
 <!ENTITY fxa.menu.syncSettings.label "הגדרות &syncBrand.shortName.label;…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "חיבור מכשיר נוסף…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!ENTITY fxa.menu.turnOnSync.label "הפעלת &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.account.label "חשבון">
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -188,6 +194,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "יצירת סימנייה לכל הלשוניות…">
+
 <!ENTITY showAllBookmarks2.label "הצגת כל הסימניות">
 <!ENTITY recentBookmarks.label "סימניות שנוספו לאחרונה">
 <!ENTITY otherBookmarksCmd.label "סימניות אחרות">
@@ -310,6 +317,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "קובץ">
 <!ENTITY fileMenu.accesskey       "ק">
+
 <!ENTITY newUserContext.label             "מגירת לשוניות חדשה">
 <!ENTITY newUserContext.accesskey         "ג">
 <!ENTITY manageUserContext.label          "ניהול מגירות">
@@ -359,6 +367,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "ם">
 <!ENTITY viewSidebarMenu.label "סרגל צד">
 <!ENTITY viewSidebarMenu.accesskey "ג">
+
 <!ENTITY viewCustomizeToolbar.label       "התאמה אישית…">
 <!ENTITY viewCustomizeToolbar.accesskey     "ה">
 <!ENTITY overflowCustomizeToolbar.label       "התאמה אישית של סרגל הכלים…">
@@ -372,6 +381,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "שחזור הפעלה קודמת">
 
 <!ENTITY showAllHistoryCmd2.label "הצגת כל ההיסטוריה">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "הצגת כל ההיסטוריה">
@@ -592,9 +602,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "שליחת קישור בדוא״ל…">
 <!ENTITY emailPageCmd.accesskey       "ד">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "שמירת דף בשם…">
 <!ENTITY savePageCmd.accesskey        "ר">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "ב">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "שמירת מסגרת בשם…">
@@ -699,22 +709,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "התקרבות">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "ק">
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "התרחקות">
 <!ENTITY fullZoomReduceCmd.accesskey    "ר">
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "איפוס">
 <!ENTITY fullZoomResetCmd.accesskey     "א">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "שינוי גודל טקסט בלבד">
 <!ENTITY fullZoomToggleCmd.accesskey    "ט">
+
 <!ENTITY fullZoom.label                 "מרחק מתצוגה">
 <!ENTITY fullZoom.accesskey             "ת">
 
@@ -732,6 +746,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "סגירה">
+
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "ג">
 
@@ -832,6 +847,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "פתיחת העדפות לחסימת תוכן">
 
 
+<!ENTITY protections.settings.label "הגדרות הגנה">
+<!-- LOCALIZATION NOTE:
+     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
+     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!-- LOCALIZATION NOTE:
+     In the Site Not Working? view, we suggest turning off protections if
+     the user is experiencing issues with any of a variety of functionality.
+     protections.siteNotWorkingView.header: The header of the list
+     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+
+
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "לשוניות הדפדפן">
@@ -845,6 +873,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "התחברות אל &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "ה">
+
 <!ENTITY syncSyncNowItem.label        "סנכרון כעת">
 <!ENTITY syncSyncNowItemSyncing.label "בתהליך סנכרון…">
 <!ENTITY syncSyncNowItem.accesskey    "ס">
@@ -873,6 +902,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "רכיבי מעקב">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "כדי לחסום את כל רכיבי המעקב, יש להגדיר את חסימת התוכן לרמת “מחמיר”.">
 
+
 <!ENTITY contentBlocking.cookies.label "עוגיות">
 <!ENTITY contentBlocking.cookiesView.label "עוגיות ונתוני אתרים">
 
@@ -886,6 +916,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "דיווח על בעיות">
 <!ENTITY contentBlocking.breakageReportView2.description "חסימת תוכן עשויה לגרום לתקלות במגוון אתרים. עצם הדיווח מצדך, מסייע בשיפור &brandShortName; לטובת הכלל. (פעולה זו תשלח כתובת לרבות מידע על הגדרות הדפדפן שלך ל‏־Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "מידע נוסף">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "מידע נוסף">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "כתובת">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "באילו בעיות נתקלת? (לא חובה)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "שליחת דוח">

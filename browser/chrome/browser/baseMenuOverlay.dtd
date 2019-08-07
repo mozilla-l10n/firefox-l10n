@@ -49,3 +49,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "להציג הכול">
+
+<!ENTITY touchBarCmdMac.label           "התאמה אישית של סרגל המגע…">

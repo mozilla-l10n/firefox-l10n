@@ -47,6 +47,9 @@ newtab-topsites-add-button = הוספה
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = למחוק כל עותק של העמוד הזה מההיסטוריה שלך?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = לא ניתן לבטל פעולה זו.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = הוספת סימנייה
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = העתקת קישור ההורדה
 newtab-menu-go-to-download-page = מעבר לעמוד ההורדה
 newtab-menu-remove-download = הסרה מההיסטוריה
@@ -116,6 +123,10 @@ newtab-label-download = התקבל
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = הסרת מדור
 newtab-section-menu-collapse-section = צמצום מדור
 newtab-section-menu-expand-section = הרחבת מדור
@@ -126,6 +137,9 @@ newtab-section-menu-add-search-engine = הוספת מנוע חיפוש
 newtab-section-menu-move-up = העברה למעלה
 newtab-section-menu-move-down = העברה למטה
 newtab-section-menu-privacy-notice = הצהרת פרטיות
+
+## Section aria-labels
+
 
 ## Section Headers.
 
@@ -142,6 +156,10 @@ newtab-empty-section-highlights = ניתן להתחיל בגלישה ואנו נ
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = התעדכנת בכל הסיפורים. כדאי לנסות שוב מאוחר יותר כדי לקבל עוד סיפורים מובילים מאת { $provider }. לא רוצה לחכות? ניתן לבחור נושא נפוץ כדי למצוא עוד סיפורים נפלאים מרחבי הרשת.
+
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-loading = בטעינה…
 
 ## Pocket Content Section.
 
