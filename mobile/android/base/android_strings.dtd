@@ -537,7 +537,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY contextmenu_copyurl "Копиране на адреса">
 <!ENTITY contextmenu_edit_bookmark "Редактиране">
 <!ENTITY contextmenu_subscribe "Абониране за страницата">
-<!ENTITY contextmenu_site_settings "Редактиране настройките на сайт">
+<!ENTITY contextmenu_site_settings "Настройки на сайта">
 <!ENTITY contextmenu_top_sites_edit "Редактиране">
 <!ENTITY contextmenu_top_sites_pin "Закачане">
 <!ENTITY contextmenu_top_sites_unpin "Премахване от леснодостъпните">
