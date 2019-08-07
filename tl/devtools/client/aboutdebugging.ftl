@@ -30,6 +30,12 @@ about-debugging-sidebar-usb-enabled = USB enabled
 # Text displayed in the about:debugging sidebar when USB devices discovery is disabled
 # (for instance because the mandatory ADB extension is not installed).
 about-debugging-sidebar-usb-disabled = USB disabled
+# Connection status (connected) for runtime items in the sidebar
+aboutdebugging-sidebar-runtime-connection-status-connected = Konektado
+# Connection status (disconnected) for runtime items in the sidebar
+aboutdebugging-sidebar-runtime-connection-status-disconnected = Hindi konektado
+# Text displayed in the about:debugging sidebar when no device was found.
+about-debugging-sidebar-no-devices = Walang device na nakita
 # Text displayed in buttons found in sidebar items representing remote runtimes.
 # Clicking on the button will attempt to connect to the runtime.
 about-debugging-sidebar-item-connect-button = Mag-connect
@@ -136,6 +142,9 @@ about-debugging-debug-target-list-empty = Wala pa.
 # A target can be an addon, a tab, a worker...
 about-debugging-debug-target-inspect-button = I-inspect
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will reload the extension.
+about-debugging-tmp-extension-reload-button = i-Reload
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = Tanggalin
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
@@ -163,7 +172,17 @@ about-debugging-worker-action-push = Push
 about-debugging-worker-action-start = Simulan
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = I-unregister
+# Displayed for service workers in runtime pages that are currently running (service
+# worker instance is active).
+about-debugging-worker-status-running = Tumatakbo
 # Displayed for service workers in runtime pages that are registered but stopped.
 about-debugging-worker-status-stopped = NakatigilItinigil
+# Displayed for service workers in runtime pages, to label the push service endpoint (url)
+# of a worker
+about-debugging-worker-push-service =
+    .label = Push Service
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-name = Main Process
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Mga Detalye

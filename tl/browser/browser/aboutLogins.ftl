@@ -15,6 +15,11 @@ menu =
     .title = Buksan ang menu
 # This menuitem is only visible on Windows
 menu-menuitem-import = Mag-import ng mga Password...
+menu-menuitem-preferences =
+    { PLATFORM() ->
+        [windows] Mga Kagustuhan
+       *[other] Mga Kagustuhan
+    }
 menu-menuitem-feedback = Magbigay ng puna
 menu-menuitem-faq = Mga Kadalasang Tinatanong
 menu-menuitem-android-app = { -lockwise-brand-short-name } para sa Android
@@ -68,6 +73,7 @@ login-item-password-reveal-checkbox-hide =
     .title = Itago ang password
 login-item-copy-password-button-text = Kopyahin
 login-item-copied-password-button-text = Nakopya na!
+login-item-save-new-button = I-Save
 login-item-cancel-button = Ikansela
 login-item-time-changed = Huling binago: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Ginawa: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
@@ -94,6 +100,7 @@ confirm-delete-dialog-title = Burahin ang login na ito?
 confirm-delete-dialog-message = Itong action ay hindi na mababawi.
 confirm-delete-dialog-confirm-button = Burahin
 confirm-discard-changes-dialog-message = Lahat ng hindi nai-save na mga pagbabago ay mawawala.
+confirm-discard-changes-dialog-confirm-button = Balewalain
 
 ## Breach Alert notification
 
