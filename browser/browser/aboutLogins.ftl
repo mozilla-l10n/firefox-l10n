@@ -9,6 +9,10 @@ create-login-button = Sortu saio-hasiera berria
 
 ## The ⋯ menu that is in the top corner of the page
 
+menu =
+    .title = Ireki menua
+# This menuitem is only visible on Windows
+menu-menuitem-import = Inportatu pasahitzak…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Aukerak
@@ -16,6 +20,8 @@ menu-menuitem-preferences =
     }
 menu-menuitem-feedback = Bidali iritzia
 menu-menuitem-faq = Ohiko galderak
+menu-menuitem-android-app = Androiderako { -lockwise-brand-short-name }
+menu-menuitem-iphone-app = iPhone ta iPad-erako { -lockwise-brand-short-name }
 
 ## Login List
 
@@ -31,9 +37,13 @@ login-list-name-option = Izena (A-Z)
 login-list-last-changed-option = Azken aldaketa
 login-list-last-used-option = Azkenekoz erabilia
 login-list-intro-title = Ez da saio-hasierarik aurkitu
+login-list-intro-description = { -brand-product-name }(e)n pasahitza gordetzean, hemen agertuko da.
+login-list-item-title-new-login = Saio-hasiera berria
+login-list-item-subtitle-missing-username = (erabiltzaile-izenik ez)
 
 ## Introduction screen
 
+login-intro-heading = Gordetako saio-hasieren bila? Konfiguratu { -sync-brand-short-name }.
 
 ## Login
 
@@ -65,12 +75,22 @@ login-item-time-used = Azken erabilera: { DATETIME($timeUsed, day: "numeric", mo
 
 ## Master Password notification
 
+master-password-reload-button =
+    .label = Hasi saioa
+    .accesskey = H
 
 ## Dialogs
 
 confirmation-dialog-cancel-button = Utzi
 confirmation-dialog-dismiss-button =
     .title = Utzi
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Bisitatu { -sync-brand-short-name } aukerak
+           *[other] Bisitatu { -sync-brand-short-name } hobespenak
+        }
+    .accesskey = B
 confirm-delete-dialog-title = Ezabatu saio-hasiera hau?
 confirm-delete-dialog-message = Ekintza hau ezin da desegin.
 confirm-delete-dialog-confirm-button = Ezabatu
