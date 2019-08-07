@@ -43,7 +43,7 @@ features-visual-editing-desc = Фино настройване на анимац
 features-performance-title = Производителност
 features-performance-desc = Отстраняване на стеснения, опростяване на процеси, оптимизиране. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-memory-title = Памет
-features-memory-desc = Откриване на загуби на памет и повишаване на отзивчивост. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-memory-desc = Откриване на загуби на памет и повишаване на отзивчивостта. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
 #   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
 newsletter-error-common = Грешка в заявката за абонамент ({ $errorDescription }).

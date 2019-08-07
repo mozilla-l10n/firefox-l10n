@@ -138,13 +138,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.button.label "Настройки на &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Вписани сте като">
 <!ENTITY fxa.menu.manageAccount.label "Управление на сметката…">
 <!ENTITY fxa.menu.syncSettings.label "Настройки на &syncBrand.shortName.label;…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Добавяне на устройство…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -188,6 +192,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "Отмятане на всички раздели…">
+
 <!ENTITY showAllBookmarks2.label "Показване на всички отметки">
 <!ENTITY recentBookmarks.label "Последни отметки">
 <!ENTITY otherBookmarksCmd.label "Други отметки">
@@ -310,6 +315,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Файл">
 <!ENTITY fileMenu.accesskey       "Ф">
+
 <!ENTITY newUserContext.label             "Нов изолиран раздел">
 <!ENTITY newUserContext.accesskey         "и">
 <!ENTITY manageUserContext.label          "Управление на изолатори">
@@ -359,6 +365,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "и">
 <!ENTITY viewSidebarMenu.label "Странична лента">
 <!ENTITY viewSidebarMenu.accesskey "С">
+
 <!ENTITY viewCustomizeToolbar.label       "Персонализиране…">
 <!ENTITY viewCustomizeToolbar.accesskey     "П">
 <!ENTITY overflowCustomizeToolbar.label       "Персонализиране…">
@@ -372,6 +379,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Възстановяване на предишна сесия">
 
 <!ENTITY showAllHistoryCmd2.label "Цялата история">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Цялата история">
@@ -592,9 +600,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Препратка по имейл…">
 <!ENTITY emailPageCmd.accesskey       "е">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Запазване като…">
 <!ENTITY savePageCmd.accesskey        "З">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "З">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Запазване на рамката като…">
@@ -699,22 +707,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Увеличаване">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "У">
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Намаляване">
 <!ENTITY fullZoomReduceCmd.accesskey    "м">
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Нулиране">
 <!ENTITY fullZoomResetCmd.accesskey     "Н">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Само на текста">
 <!ENTITY fullZoomToggleCmd.accesskey    "т">
+
 <!ENTITY fullZoom.label                 "Мащабиране">
 <!ENTITY fullZoom.accesskey             "М">
 
@@ -732,6 +744,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Затваряне">
+
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "З">
 
@@ -832,6 +845,33 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Настройки за ограничаване на съдържание">
 
 
+<!ENTITY protections.etpON.header "Защитата от проследяване ВКЛЮЧЕНА за сайта">
+<!ENTITY protections.etpOFF.header "Защитата от проследяване ИЗКЛЮЧЕНА за сайта">
+<!ENTITY protections.settings.label "Настройки на защитите">
+<!ENTITY protections.report.label "Пълен отчет">
+<!-- LOCALIZATION NOTE:
+     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
+     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "Страницата не работи?">
+<!ENTITY protections.siteNotWorkingView.title "Страницата не работи?">
+<!-- LOCALIZATION NOTE:
+     In the Site Not Working? view, we suggest turning off protections if
+     the user is experiencing issues with any of a variety of functionality.
+     protections.siteNotWorkingView.header: The header of the list
+     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Изключете защитите ако имате проблеми с:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Полета за вписване">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Формуляри">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Плащания">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Коментари">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Видео">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Страницата все още е не работи, въпреки изключените защити?">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Докладване">
+
+<!ENTITY protections.notBlocking.why.label "Защо?">
+
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Раздели на четеца">
@@ -845,6 +885,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Вписване в &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "В">
+
 <!ENTITY syncSyncNowItem.label        "Синхронизиране">
 <!ENTITY syncSyncNowItemSyncing.label "Синхронизиране…">
 <!ENTITY syncSyncNowItem.accesskey    "С">
@@ -867,11 +908,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Проследявания">
 
-<!ENTITY contentBlocking.manageSettings.label "Управление на ограничаване на съдържанието">
+<!ENTITY contentBlocking.manageSettings.label "Управление на ограничаването на съдържание">
 <!ENTITY contentBlocking.manageSettings.accesskey "у">
 
 <!ENTITY contentBlocking.trackersView.label "Проследявания">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "За да ограничите всички проследявания използвайте ниво „Строго“.">
+
+<!ENTITY contentBlocking.socialblock.label "Проследявания от социални мрежи">
+<!ENTITY contentBlocking.socialblockView.label "Спрени проследявания от социални мрежи">
 
 <!ENTITY contentBlocking.cookies.label "Бисквитки">
 <!ENTITY contentBlocking.cookiesView.label "Бисквитки и данни на страници">
@@ -886,6 +930,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Докладване на проблем">
 <!ENTITY contentBlocking.breakageReportView2.description "Спирането на съдържание може да наруши работата на някои страници. Докладвайки за тях помагате да направим &brandShortName; по-добър за всички. (Към Mozilla ще бъде изпратен адреса на страницата, а също и данни за настройките на четеца.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Научете повече">
+<!ENTITY contentBlocking.breakageReportView.title "Докладване за неработеща страница">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Адрес">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "С какъв проблем се сблъскахте? (по желание)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Докладване">
