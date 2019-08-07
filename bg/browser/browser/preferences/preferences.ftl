@@ -712,7 +712,7 @@ addressbar-suggestions-settings = Настройки на предложения
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Ограничаване на съдържание
-content-blocking-section-description = Защитете поверителността си, докато разглеждате. Ограничете невидимото съдържание, което следи страниците, които посещавате и ви профилира. Ограничаването на част от такова съдържание може да подобри зареждането на страниците.
+content-blocking-section-description = Защитете личните си данни, докато разглеждате. Ограничете невидимото съдържание, което следи посещаваните от вас страници и ви профилира. Спирането на част от това съдържание може да подобри зареждането на страниците.
 content-blocking-learn-more = Научете повече
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
