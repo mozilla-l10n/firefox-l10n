@@ -142,7 +142,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Mag-sign in bilang si">
 <!ENTITY fxa.menu.manageAccount.label "I-manage ang Account…">
-<!ENTITY fxa.menu.syncSettings.label "mga &syncBrand.shortName.label; Setting…">
+<!ENTITY fxa.menu.syncSettings.label "Mga &syncBrand.shortName.label; Setting…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Ikonekta sa Ibang Device…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -909,7 +909,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Mag sign-in sa &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
 
-<!ENTITY syncSyncNowItem.label        "I-sync Ngayon">
+<!ENTITY syncSyncNowItem.label        "Mag-sync Na">
 <!ENTITY syncSyncNowItemSyncing.label "Syncing…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Kumonekta ulit sa &syncBrand.shortName.label;…">

@@ -141,7 +141,7 @@ addon-restart-now =
     .label = Magrestart ngayon
 disabled-unsigned-heading =
     .value = Ang ibang add-ons ay na-disable
-disabled-unsigned-description = Ang sumusunod na add-ons ay hindi na-verify para magamit sa { -brand-short-name }. Maaari kang <label data-l10n-name="find-addons">maghanap ng mga pamalit</label> o magtanong sa developer para ma-verify.
+disabled-unsigned-description = Ang mga sumusunod na add-on ay hindi na-verify para magamit sa { -brand-short-name }. Maaari kang <label data-l10n-name="find-addons">maghanap ng mga pamalit</label> o magtanong sa developer para ma-verify ang mga ito.
 disabled-unsigned-learn-more = Matuto pa sa ukol sa aming mga hakbang para maprotektahan ka online.
 disabled-unsigned-devinfo = Ang developers na interesadong mapa-verify ang add-on nila ay pwedeng tumuloy sa pagbasa ng aming <label data-l10n-name="learn-more">manwal</label>.
 plugin-deprecation-description = May hindi ka mahanap? Ang ibang plugin ay di na suportado ng { -brand-short-name }. <label data-l10n-name="learn-more">Matuto pa.</label>

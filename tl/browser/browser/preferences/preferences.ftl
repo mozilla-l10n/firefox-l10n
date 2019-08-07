@@ -492,7 +492,7 @@ sync-signedout-account-title = Kumonekta sa isang { -fxaccount-brand-name }
 sync-signedout-account-create = Wala kang account? Magsimula
     .accesskey = C
 sync-signedout-account-signin =
-    .label = mag Sign In...
+    .label = Mag Sign In...
     .accesskey = I
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -524,7 +524,7 @@ sync-remove-account =
 sync-sign-in =
     .label = Mag sign in
     .accesskey = g
-sync-signedin-settings-header = Sync na mga Setting
+sync-signedin-settings-header = Mga Sync Setting
 sync-signedin-settings-desc = Piliin kung ano ang mag-synchronize sa iyong device gamit ang { -brand-short-name }.
 sync-engine-bookmarks =
     .label = Mga Bookmark

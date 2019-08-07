@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Buong Screen
     .accesskey = B
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Ipakita ang Lahat ng Mga Tab
@@ -207,13 +207,13 @@ menu-tools-downloads =
     .label = Mga Download
     .accesskey = D
 menu-tools-addons =
-    .label = Mga Add-ons
+    .label = Mga Add-on
     .accesskey = A
 menu-tools-sync-sign-in =
     .label = Mag sign-in sa { -sync-brand-short-name }…
     .accesskey = Y
 menu-tools-sync-now =
-    .label = I-sync Ngayon
+    .label = Mag-sync Na
     .accesskey = S
 menu-tools-sync-re-auth =
     .label = Kumonekta ulit sa { -sync-brand-short-name }…
