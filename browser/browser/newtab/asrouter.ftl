@@ -64,3 +64,7 @@ cfr-doorhanger-bookmark-fxa-link-text = Сінхранізаваць закла�
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Кнопка закрыцця
     .title = Закрыць
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-panel-header = Што новага

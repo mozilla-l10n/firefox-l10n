@@ -47,6 +47,9 @@ newtab-topsites-add-button = Дадаць
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Вы сапраўды жадаеце выдаліць усе запісы аб гэтай старонцы з гісторыі?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Гэта дзеянне немагчыма адмяніць.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = У закладкі
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Капіяваць спасылку сцягвання
 newtab-menu-go-to-download-page = Перайсці на старонку сцягвання
 newtab-menu-remove-download = Выдаліць з гісторыі
@@ -116,6 +123,10 @@ newtab-label-download = Сцягнута
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = Выдаліць раздзел
 newtab-section-menu-collapse-section = Згарнуць раздзел
 newtab-section-menu-expand-section = Разгарнуць раздзел
@@ -126,6 +137,13 @@ newtab-section-menu-add-search-engine = Дадаць пашукавік
 newtab-section-menu-move-up = Пасунуць вышэй
 newtab-section-menu-move-down = Пасунуць ніжэй
 newtab-section-menu-privacy-notice = Паведамленне аб прыватнасці
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Згарнуць раздзел
+newtab-section-expand-section-label =
+    .aria-label = Разгарнуць раздзел
 
 ## Section Headers.
 
@@ -142,6 +160,10 @@ newtab-empty-section-highlights = Пачніце агляданне, і мы п�
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Гатова. Праверце пазней, каб убачыць больш матэрыялаў ад { $provider }. Не жадаеце чакаць? Выберыце папулярную тэму, каб знайсці больш цікавых матэрыялаў з усяго Інтэрнэту.
+
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-try-again-button = Паспрабаваць зноў
 
 ## Pocket Content Section.
 

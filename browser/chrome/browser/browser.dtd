@@ -152,6 +152,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.launch "Запусціць &sendShortName;">
+<!ENTITY fxa.service.monitor.launch "Запусціць &monitorShortName;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -858,6 +860,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Каментарыі">
 
+<!ENTITY protections.fingerprinters.label "Збіральнікі адбіткаў пальцаў">
+<!ENTITY protections.cryptominers.label "Майнеры крыптавалют">
 
 
 

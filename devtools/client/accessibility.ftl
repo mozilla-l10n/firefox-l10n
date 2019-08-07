@@ -9,6 +9,8 @@ accessibility-learn-more = Даведацца больш
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
+accessibility-warning =
+    .alt = Папярэджанне
 accessibility-fail =
     .alt = Памылка
 
