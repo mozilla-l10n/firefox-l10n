@@ -64,6 +64,8 @@ networkid-id = Netwerk-ID
 
 ## Link is intended as "network link"
 
+networkid-isUp = Link is beschikbaar
+networkid-statusKnown = Linkstatus is bekend
 
 
 

@@ -77,6 +77,7 @@ about-telemetry-settings-explanation = Telemetry verzamelt { about-telemetry-dat
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Elk stukje gegevens wordt gebundeld in ‘<a data-l10n-name="ping-link">pings</a>’ verzonden. U kijkt naar de ping { $timestamp } van { $name }.
 about-telemetry-ping-details-current = Elk stukje gegevens wordt gebundeld in ‘<a data-l10n-name="ping-link">pings</a>’ verzonden. U kijkt naar de huidige ping.
+about-telemetry-data-details-current = Elk stukje informatie wordt gebundeld verzonden in ‘<a data-l10n-name="ping-link">pings</a>’. U kijkt naar de actuele gegevens.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
