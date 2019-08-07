@@ -46,12 +46,14 @@ policy-DisplayBookmarksToolbar = הצגת סרגל הכלים של הסימני�
 policy-DisplayMenuBar = הצגת סרגל התפריטים כברירת מחדל.
 policy-DNSOverHTTPS = הגדרת DNS על גבי HTTPS.
 policy-DontCheckDefaultBrowser = נטרול בדיקת דפדפן ברירת המחדל עם ההפעלה.
+policy-DownloadDirectory = הגדרה ונעילה של תיקיית ההורדה.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = הפעלה או השבתה של חסימת תוכן עם אפשרות לנעול את הבחירה.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = התקנה, הסרה או נעילה של הרחבות. אפשרות ההתקנה מקבלת כתובות או נתיבים בתור משתנים. האפשרויות להסרה ולנעילה מקבלות מזהים של הרחבות.
+policy-ExtensionSettings = ניהול כל ההיבטים של התקנת הרחבות.
 policy-ExtensionUpdate = הפעלה או השבתה של עדכונים אוטומטיים להרחבות.
 policy-FirefoxHome = הגדרת תצורה של מסך הבית של Firefox.
 policy-FlashPlugin = לאפשר או לדחות את השימוש בתוסף החיצוני Flash.
@@ -72,7 +74,6 @@ policy-Preferences = הגדרה ונעילת הערכים עבור חלק מהה
 policy-PromptForDownloadLocation = הצגת שאלה היכן לשמור קבצים בזמן הורדה.
 policy-Proxy = קביעת תצורה של הגדרות שרת מתווך.
 policy-RequestedLocales = הגדרת רשימת השפות המבוקשות עבור היישום לפי סדר העדפה.
-policy-SanitizeOnShutdown = ניקוי כל נתוני הניווט עם הכיבוי.
 policy-SanitizeOnShutdown2 = ניקוי נתוני ניווט עם הכיבוי.
 policy-SearchBar = הגדרת מיקום ברירת המחדל של סרגל החיפוש. המשתמש עדיין מורשה להתאים זאת אישית.
 policy-SearchEngines = הגדרת תצורת מנועי החיפוש. מדיניות זו זמינה רק בגרסה עם תמיכה מורחבת (ESR).

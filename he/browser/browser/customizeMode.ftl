@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = ביטול
 customize-mode-lwthemes-my-themes =
     .value = ערכות הנושא שלי
+customize-mode-touchbar-cmd =
+    .label = התאמה אישית של סרגל המגע…

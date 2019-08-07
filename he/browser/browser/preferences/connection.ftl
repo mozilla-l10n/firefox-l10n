@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = אין צורך בשרת מתווך עבור
     .accesskey = ב
 connection-proxy-noproxy-desc = דוגמה: mozilla.org.,‏ net.nz, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = חיבורים אל localhost,‏ 127.0.0.1 ואל ‎::1 לעולם לא יועברו דרך מתווך.
 connection-proxy-autotype =
     .label = כתובת לתצורה אוטומטית של שרת מתווך
     .accesskey = ת
@@ -70,12 +72,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = הפעלת DNS על גבי HTTPS
     .accesskey = פ
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = שימוש בברירת המחדל ({ $url })
-    .accesskey = ב
-    .tooltiptext = שימוש בכתובת ברירת המחדל כדי לפתור שאילתות DNS על גבי HTTPS
 connection-dns-over-https-url-resolver = שימוש בספק
     .accesskey = ש
 # Variables:
