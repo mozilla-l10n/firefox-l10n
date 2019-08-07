@@ -9,7 +9,7 @@
 <!ENTITY acceptRemoteContent.accesskey "Р">
 <!ENTITY remoteContentExceptions.label "Изключения…">
 <!ENTITY remoteContentExceptions.accesskey "к">
-<!ENTITY acceptRemoteContentInfo.label "Научете повече за проблемите с поверителността и отдалеченото съдържание">
+<!ENTITY acceptRemoteContentInfo.label "Научете повече за проблемите с личните данни и отдалеченото съдържание">
 
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "Уеб съдържание">
@@ -36,3 +36,4 @@
 <!ENTITY dntTrackingNotOkay.label2 "Казване на сайтовете, че не искам да бъда следен">
 <!ENTITY dntTrackingNotOkay.accesskey "н">
 <!ENTITY doNotTrackInfo.label "Научете повече относно забраната за следене">
+
