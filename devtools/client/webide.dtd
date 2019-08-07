@@ -36,8 +36,6 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "е">
 <!ENTITY runtimeMenu_showDetails_label "Информация за средата за приложения">
 <!ENTITY runtimeMenu_showDetails_accesskey "П">
-<!ENTITY runtimeMenu_showMonitor_label "Следене">
-<!ENTITY runtimeMenu_showMonitor_accesskey "л">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Настройки на устройството">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "у">
 <!ENTITY runtimeMenu_showSettings_label "Настройки на устройството">
@@ -75,10 +73,7 @@
 <!ENTITY projectPanel_tabs "Раздели">
 <!ENTITY runtimePanel_usb "USB устройства">
 <!ENTITY runtimePanel_wifi "Wi-Fi устройства">
-<!ENTITY runtimePanel_simulator "Симулатори">
 <!ENTITY runtimePanel_other "Друго">
-<!ENTITY runtimePanel_installsimulator "Инсталиране на симулатор">
-<!ENTITY runtimePanel_noadbhelper "Инсталиране на помощник за ADB">
 <!ENTITY runtimePanel_nousbdevice "Не виждате своето устройство?">
 <!ENTITY runtimePanel_refreshDevices_label "Опресняване на списъка с устройства">
 
@@ -104,7 +99,7 @@
 
 <!-- Addons -->
 <!ENTITY addons_title "Допълнителни компоненти">
-<!ENTITY addons_aboutaddons "Управление на добавки">
+<!ENTITY addons_aboutaddons "Управление на добавките">
 
 <!-- Prefs -->
 <!ENTITY prefs_title "Настройки">
@@ -121,12 +116,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Информация за средата за приложения">
-<!ENTITY runtimedetails_adbIsRoot "ADB е администратор: ">
-<!ENTITY runtimedetails_summonADBRoot "ставане администратор на устройство">
-<!ENTITY runtimedetails_ADBRootWarning "(изисква незаключено начално зареждане)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Неограничени привилегии за DevTools: ">
-<!ENTITY runtimedetails_requestPrivileges "искане на по-големи привилегии">
-<!ENTITY runtimedetails_privilegesWarning "(Устройството ще се рестартира. Изисква административен достъп.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Булев">
@@ -149,10 +138,6 @@
 <!ENTITY devicesetting_newtext "Стойност за настройката">
 <!ENTITY devicesetting_addnew "Добавяне на настройка">
 
-<!-- Monitor -->
-<!ENTITY monitor_title "Следене">
-<!ENTITY monitor_help "Помощ">
-
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -174,19 +159,3 @@
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Журнал на командите преди пакетирането">
-
-<!-- Simulator Options -->
-<!ENTITY simulator_title "Настройки на симулатора">
-<!ENTITY simulator_remove "Изтриване на симулатора">
-<!ENTITY simulator_reset "Стандартни настройки">
-<!ENTITY simulator_name "Наименование">
-<!ENTITY simulator_software "Софтуер">
-<!ENTITY simulator_version "Версия">
-<!ENTITY simulator_profile "Профил">
-<!ENTITY simulator_hardware "Хардуер">
-<!ENTITY simulator_device "Устройство">
-<!ENTITY simulator_screenSize "Екран">
-<!ENTITY simulator_pixelRatio "Пропорция на пикселите">
-<!ENTITY simulator_tv_data "Симулиране на телевизор">
-<!ENTITY simulator_tv_data_open "Настройка на данни">
-<!ENTITY simulator_tv_data_open_button "Отваряне на директорията с настройки…">

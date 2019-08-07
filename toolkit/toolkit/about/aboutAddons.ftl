@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-window =
-    .title = Управление на добавки
+    .title = Управление на добавките
 search-header =
     .placeholder = търсене в addons.mozilla.org
     .searchbuttonlabel = Търсене
