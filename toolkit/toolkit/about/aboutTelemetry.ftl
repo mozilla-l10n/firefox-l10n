@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = Fonto de datumoj de «ping»:
 about-telemetry-show-current-ping-data = Nunaj datumoj de «ping»
+about-telemetry-show-current-data = Nunaj datumoj
 about-telemetry-show-archived-ping-data = Arkĥivo de datumoj de «ping»
 about-telemetry-show-subsession-data = Montri datumojn de subseancoj
 about-telemetry-choose-ping = Elekti «ping»:
@@ -102,6 +103,8 @@ about-telemetry-no-search-results-all = Bedaŭrinde ne estis rezultoj por “{ $
 about-telemetry-no-data-to-display = Bedaŭrinde nuntempe ne estas datumoj disponeblaj en “{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = nuna ping
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = nunaj datumoj
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = ĉiuj
 # button label to copy the histogram
