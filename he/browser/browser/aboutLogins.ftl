@@ -18,6 +18,7 @@ menu-menuitem-feedback = שליחת משוב
 
 ## Login List
 
+login-list-item-subtitle-missing-username = (אין שם משתמש)
 
 ## Introduction screen
 
@@ -53,6 +54,13 @@ login-item-cancel-button = ביטול
 confirmation-dialog-cancel-button = ביטול
 confirmation-dialog-dismiss-button =
     .title = ביטול
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] פתיחת אפשרויות { -sync-brand-short-name }
+           *[other] פתיחת העדפות { -sync-brand-short-name }
+        }
+    .accesskey = פ
 confirm-delete-dialog-message = לא ניתן לבטל פעולה זו.
 confirm-delete-dialog-confirm-button = מחיקה
 
