@@ -869,6 +869,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Докладване">
 
 <!ENTITY protections.notBlocking.why.label "Защо?">
+<!ENTITY protections.socialMediaTrackers.label "Проследявания от социални мрежи">
 
 
 
@@ -931,8 +932,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "Спирането на съдържание може да наруши работата на някои страници. Докладвайки за тях помагате да направим &brandShortName; по-добър за всички. (Към Mozilla ще бъде изпратен адреса на страницата, а също и данни за настройките на четеца.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Научете повече">
 <!ENTITY contentBlocking.breakageReportView.title "Докладване за неработеща страница">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Научете повече">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Адрес">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "С какъв проблем се сблъскахте? (по желание)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Незадължително: Опишете проблема">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Докладване">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Отказ">
 
