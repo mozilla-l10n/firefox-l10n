@@ -21,11 +21,6 @@ menu-menuitem-faq = वारंवार विचारलेले प्र�
 
 ## Login List
 
-login-list-count =
-    { $count ->
-        [one] लॉगिन
-       *[other] लॉगिन
-    }
 login-list-name-option = नाव (A-Z)
 login-list-last-changed-option = शेवटचा बदल
 login-list-last-used-option = शेवटचा वापर
@@ -43,7 +38,7 @@ login-item-edit-button = संपादन करा
 login-item-delete-button = काढून टाका
 login-item-origin-label = संकेतस्थळ पत्ता
 login-item-origin =
-    .placeholder = http://www.example.com
+    .placeholder = https://www.example.com
 login-item-open-site-button = लाँच करा
 login-item-username-label = वापरकर्तानाव
 login-item-username =
