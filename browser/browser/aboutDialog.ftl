@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 aboutDialog-title =
-    .title = אודות { -brand-full-name }
+    .title = על אודות { -brand-full-name }
 releaseNotes-link = מה חדש
 update-checkForUpdatesButton =
     .label = בדיקת עדכונים
@@ -30,8 +30,6 @@ helpus = מעוניינים לסייע? <label data-l10n-name="helpus-donateLink
 bottomLinks-license = מידע רישוי
 bottomLinks-rights = זכויות משתמש קצה
 bottomLinks-privacy = מדיניות פרטיות
-aboutDialog-architecture-sixtyFourBit = 64 סיביות
-aboutDialog-architecture-thirtyTwoBit = 32 סיביות
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

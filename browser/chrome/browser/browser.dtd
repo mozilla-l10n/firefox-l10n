@@ -38,7 +38,7 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendPageToDevice.label             "שליחת דף למכשיר">
 <!ENTITY  sendPageToDevice.accesskey         "מ">
 <!ENTITY  sendLinkToDevice.label             "שליחת קישור למכשיר">
-<!ENTITY  sendLinkToDevice.accesskey         "ה">
+<!ENTITY  sendLinkToDevice.accesskey         "מ">
 <!ENTITY  undoCloseTab.label                 "ביטול סגירת לשונית">
 <!ENTITY  undoCloseTab.accesskey             "ב">
 <!ENTITY  hiddenTabs.label                   "לשוניות מוסתרות">
