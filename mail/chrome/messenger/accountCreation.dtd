@@ -36,6 +36,8 @@
 <!ENTITY hostname.label                  "Denumire server-gazdă">
 <!ENTITY port.label                      "Port">
 <!ENTITY ssl.label                       "SSL">
+<!ENTITY serverRow.label                 "Server:">
+<!ENTITY portRow.label                   "Port:">
 <!ENTITY sslRow.label                    "SSL:">
 <!ENTITY auth.label                      "Autentificare">
 <!ENTITY imap.label                      "IMAP">
