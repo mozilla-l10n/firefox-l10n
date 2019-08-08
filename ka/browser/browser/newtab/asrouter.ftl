@@ -62,3 +62,6 @@ cfr-doorhanger-bookmark-fxa-link-text = დაასინქრონეთ ს
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = დახურვის ღილაკი
     .title = დახურვა
+
+## What's New toolbar button and panel
+

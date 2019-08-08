@@ -47,6 +47,9 @@ newtab-topsites-add-button = დამატება
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = ნამდვილად გსურთ, ამ გვერდის ყველა ჩანაწერის ისტორიიდან ამოშლა?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = ეს ქმედება შეუქცევადია.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = ჩანიშვნა
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = ჩამოტვირთვის ბმულის ასლი
 newtab-menu-go-to-download-page = გადასვლა ჩამოტვირთვის გვერდზე
 newtab-menu-remove-download = ისტორიიდან ამოშლა
@@ -109,11 +116,15 @@ newtab-menu-open-file = ფაილის გახსნა
 
 newtab-label-visited = მონახულებული
 newtab-label-bookmarked = ჩანიშნული
-newtab-label-recommended = პოპულარული
+newtab-label-recommended = ფართოდ გავრცელებული
 newtab-label-saved = შენახულია { -pocket-brand-name }-ში
 newtab-label-download = ჩამოტვირთული
 
 ## Section Menu: These strings are displayed in the section context menu and are 
+## meant as a call to action for the given section.
+
+
+## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = ამ ნაწილის მოცილება
@@ -126,6 +137,9 @@ newtab-section-menu-add-search-engine = საძიებო სისტემ
 newtab-section-menu-move-up = აწევა
 newtab-section-menu-move-down = ჩამოწევა
 newtab-section-menu-privacy-notice = პირადი მონაცემების დაცვის განაცხადი
+
+## Section aria-labels
+
 
 ## Section Headers.
 
@@ -143,10 +157,13 @@ newtab-empty-section-highlights = დაიწყეთ გვერდები
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = უკვე ყველაფერს გაეცანით. მოგვიანებით შემოიარეთ მეტი რჩეული სტატიის სანახავად, რომელსაც { $provider } მოგაწვდით. ვერ ითმენთ? აირჩიეთ რომელიმე ფართოდ გავრცელებული საკითხი, ახალი საინტერესო სტატიების მოსაძიებლად.
 
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = პოპულარული თემები:
+newtab-pocket-read-more = მეტად გავრცელებული საკითხები:
 newtab-pocket-more-recommendations = მეტი შემოთავაზებები
 newtab-pocket-how-it-works = როგორ მუშაობს
 newtab-pocket-cta-button = გამოიყენეთ { -pocket-brand-name }
