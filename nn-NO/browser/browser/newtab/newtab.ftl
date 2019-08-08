@@ -47,6 +47,9 @@ newtab-topsites-add-button = Legg til
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Er du sikker på at du vil slette alle førekomstar av denne sida frå historikken din?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Denne handlinga kan ikkje angrast.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Bokmerke
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Kopier nedlastingslenke
 newtab-menu-go-to-download-page = Gå til nedlastingsside
 newtab-menu-remove-download = Fjern frå historikk
@@ -116,6 +123,10 @@ newtab-label-download = Nedlasta
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = Fjern seksjon
 newtab-section-menu-collapse-section = Slå saman seksjon
 newtab-section-menu-expand-section = Utvid seksjon
@@ -125,7 +136,10 @@ newtab-section-menu-add-topsite = Legg til mest besøkte
 newtab-section-menu-add-search-engine = Legg til søkjemotor
 newtab-section-menu-move-up = Flytt opp
 newtab-section-menu-move-down = Flytt ned
-newtab-section-menu-privacy-notice = Personvernmerknad
+newtab-section-menu-privacy-notice = Personvernpraksis
+
+## Section aria-labels
+
 
 ## Section Headers.
 
