@@ -6,8 +6,15 @@ about-logins-page-title = Contas e senhas
 login-filter =
     .placeholder = Pesquisar contas
 create-login-button = Criar nova conta
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Favicon de { $title }
 fxaccounts-sign-in-text = Tenha suas senhas em seus outros dispositivos
 fxaccounts-sign-in-button = Entre no { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = Gerenciar conta
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -36,6 +43,7 @@ login-list-count =
     }
 login-list-sort-label-text = Ordenar por:
 login-list-name-option = Nome (A-Z)
+login-list-breached-option = Sites vazados
 login-list-last-changed-option = Última modificação
 login-list-last-used-option = Último uso
 login-list-intro-title = Nenhuma conta encontrada
