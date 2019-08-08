@@ -19,7 +19,10 @@ onboarding-button-label-get-started = सुरु करा
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = { -brand-short-name } मध्ये आपले स्वागत आहे
+onboarding-welcome-body = आपल्याला आपले ब्राऊझर मिळाले.<br/> उर्वरित { -brand-product-name } ला भेटा.
 onboarding-welcome-learn-more = होणाऱ्या लाभाबद्दल अधिक जाणून घ्या.
+onboarding-join-form-header = { -brand-product-name } मध्ये सहभागी व्हा.
+onboarding-join-form-body = सुरू करण्यासाठी आपला ईमेल प्रविष्ट करा.
 onboarding-join-form-email =
     .placeholder = ईमेल प्रविष्ट करा
 onboarding-join-form-email-error = वैध ईमेल आवश्यक
@@ -73,8 +76,12 @@ onboarding-fxa-title = सिंक
 onboarding-tracking-protection-title2 = ट्रॅकिंग पासून संरक्षण
 onboarding-tracking-protection-button2 = कसं काम करत
 onboarding-data-sync-title = आपण केलेल्या सेटिंग आपल्यासोबत जतन करा
+onboarding-data-sync-button2 = { -sync-brand-short-name } मध्ये साइन इन करा
+onboarding-firefox-monitor-title = डेटा ब्रीच पासून सावध रहा
+onboarding-firefox-monitor-button = अलर्टसाठी साइन अप करा
 onboarding-browse-privately-title = खाजगीरित्या ब्राउझ करा
 onboarding-browse-privately-button = खाजगी विंडो उघडा
+onboarding-firefox-send-title = आपल्या सामायिक केलेल्या फाईल खाजगी ठेवा
 onboarding-firefox-send-button = वापरा { -send-brand-name }
 onboarding-pocket-anywhere-title = वाचा आणि ऐका कुठेपण
 onboarding-pocket-anywhere-button = वापरा { -pocket-brand-name }
