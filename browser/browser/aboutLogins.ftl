@@ -6,8 +6,15 @@ about-logins-page-title = Přizjewjenja a hesła
 login-filter =
     .placeholder = Přizjewjenja pytać
 create-login-button = Nowe přizjewjenje załožić
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Fawikon za { $title }
 fxaccounts-sign-in-text = Přinjesće swoje hesła do wašich druhich gratow
 fxaccounts-sign-in-button = So pola { -sync-brand-short-name } přizjewić
+fxaccounts-avatar-button =
+    .title = Konto rjadować
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -38,6 +45,7 @@ login-list-count =
     }
 login-list-sort-label-text = Sortěrować po:
 login-list-name-option = Mjenje (A-Z)
+login-list-breached-option = Zranjene websydła
 login-list-last-changed-option = Poslednjej změnje
 login-list-last-used-option = Poslednim wužiću
 login-list-intro-title = Žane přizjewjenja namakane
