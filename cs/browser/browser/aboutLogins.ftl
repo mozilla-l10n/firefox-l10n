@@ -6,8 +6,15 @@ about-logins-page-title = Přihlašovací údaje
 login-filter =
     .placeholder = Hledat přihlašovací údaje
 create-login-button = Nové přihlašovací údaje
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Ikona { $title }
 fxaccounts-sign-in-text = Synchronizujte svá hesla i do ostatních zařízení
 fxaccounts-sign-in-button = Použijte službu { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = Správa účtu
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -39,15 +46,22 @@ login-list-count =
     }
 login-list-sort-label-text = Seřadit:
 login-list-name-option = podle názvu (A-Z)
+login-list-breached-option = Stránky, na kterých došlo k úniku dat
 login-list-last-changed-option = naposledy změněno
 login-list-last-used-option = naposledy použito
 login-list-intro-title = Nenalezeny žádné přihlašovací údaje
+login-list-intro-description = Tady se zobrazí přihlašovací údaje uložené v aplikaci { -brand-product-name }.
 login-list-item-title-new-login = Nové přihlašovací údaje
 login-list-item-subtitle-new-login = Zadejte své přihlašovací údaje
 login-list-item-subtitle-missing-username = (žádné uživatelské jméno)
 
 ## Introduction screen
 
+login-intro-heading = Hledáte své uložené přihlašovací údaje? Přihlaste se ke službě { -sync-brand-short-name }.
+login-intro-description = Pokud jste si uložili přihlašovací údaje do aplikace { -brand-product-name }, ale na jiném zařízení, můžete je zde získat takto:
+login-intro-instruction-fxa = Vytvořte nebo se přihlaste k účtu { -fxaccount-brand-name } na zařízení, kde máte přihlašovací údaje uložené
+login-intro-instruction-fxa-settings = V nastavení služby { -sync-brand-short-name } na daném zařízení se ujistěte, že máte vybranou synchronizaci přihlašovacích údajů
+login-intro-instruction-faq = Pro více informací navštivte <a data-l10n-name="faq">často kladené otázky</a> slubžy { -lockwise-brand-short-name }
 
 ## Login
 
