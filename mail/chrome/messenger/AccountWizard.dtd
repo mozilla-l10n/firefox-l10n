@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Entities for AccountWizard -->
 
+<!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "Հաշվի Օգնական">
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
-<!-- Entities for Account Type page -->
 
+<!-- Entities for Account Type page -->
 
 <!ENTITY accountSetupInfo2.label "Նամակներ ստանալու համար պետք է կարգավորել փոստարկղ։">
 <!ENTITY accountTypeTitle.label "Նոր փոստարկղի կարգավորում">
@@ -17,13 +17,16 @@
 <!ENTITY accountTypeMail.accesskey "m">
 <!ENTITY accountTypeNews.label "Նորությունների հաշիվ">
 <!ENTITY accountTypeNews.accesskey "ր">
-<!-- Entities for Identity page -->
+<!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
+<!ENTITY accountTypeMovemail.label "Unix Mailspool (Movemail)">
+<!ENTITY accountTypeMovemail.accesskey "U">
 
+<!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Որոշիչ">
 <!ENTITY identityDesc.label "Յուրք. փոստարկղ անհատական է, այն ուղարկում է նշված տեղեկությունը Ձեր մասին, երբ որևէ մեկը ստանում է Ձեր նամակը։">
-<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 
+<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "Նշեք այն անունը, որը կերևա ուղարկված նամակների &quot;Ումից&quot; դաշտում">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
@@ -35,8 +38,8 @@
 
 <!ENTITY emailLabel.label "էլ. փոստ.">
 <!ENTITY emailLabel.accesskey "է">
-<!-- Entities for Incoming Server page -->
 
+<!-- Entities for Incoming Server page -->
 
 <!ENTITY incomingTitle.label "Մուտքային սպասարկիչի տեղեկությունը">
 <!ENTITY incomingServerTypeDesc.label "Ընտրեք մուտքային սպասարկիչի տեսակը։">
@@ -64,8 +67,8 @@
 <!ENTITY newsServerNameDesc.label "Նշեք նորությունների սպասարկիչի անունը (NNTP) (օրինակ՝ &quot;news.example.net&quot;)։">
 <!ENTITY newsServerLabel.label "Լուրախմբերի սպասարկիչ.">
 <!ENTITY newsServerLabel.accesskey "ս">
-<!-- Entities for Outgoing Server page -->
 
+<!-- Entities for Outgoing Server page -->
 
 <!ENTITY outgoingTitle.label "Ելքային սպասարկիչի տեղեկությունը">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
@@ -75,10 +78,10 @@
 <!ENTITY outgoingUsername.description "Նշեք ելքայինի օգտվողի Ձեր անունը">
 <!ENTITY outgoingUsername.label "Ելքային՝ օգտվողի անունը.">
 <!ENTITY outgoingUsername.accesskey "Ե">
+
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
-
 <!ENTITY modifyOutgoing.suffix "Կարող եք փոփոխել փոստարկղի ելքային սպասարկիչը։">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
@@ -98,16 +101,16 @@
 -->
 <!ENTITY haveSmtp3.prefix "Ձեր ելքային (SMTP) սպասարկիչը, &quot;">
 <!ENTITY haveSmtp3.suffix3 "&quot;,-ը հավասարազոր է մուտքային սպասարկիչին, մուտք գործելու համար կօգտագործվի օգտվողի Ձեր անունը։">
-<!-- Entities for Account name page -->
 
+<!-- Entities for Account name page -->
 
 <!ENTITY accnameTitle.label "Փոստարկղի անունը">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Նշեք անունը, որին ցանանում եք կցել այս փոստարկղը (օրինակ՝ &quot;Աշխ. փոստարկղ&quot;, &quot;Տնային փոստարկղ&quot; կամ &quot;Նորությունների փոստարկղ&quot;)։">
 <!ENTITY accnameLabel.label "Փոստարկղի անունը.">
 <!ENTITY accnameLabel.accesskey "A">
-<!-- Entities for Done (Congratulations) page -->
 
+<!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Շնորհավորում ենք!">
 <!ENTITY completionText.label "Համոզվեք, որ տեղեկությունը ճիշտ է։">
