@@ -582,7 +582,7 @@ sync-connect-another-device = Kople til ei anna eining
 sync-manage-devices = Handter einingar
 sync-fxa-begin-pairing = Par ei eining
 sync-tos-link = Tenestevilkår
-sync-fxa-privacy-notice = Personvernerklæring
+sync-fxa-privacy-notice = Personvernpraksis
 
 ## Privacy Section
 
@@ -826,7 +826,7 @@ permissions-a11y-privacy-link = Les meir
 
 collection-header = Datainnsamling og bruk for { -brand-short-name }
 collection-description = Vi prøver alltid å gje deg val og samlar inn berre det vi treng for å levere og forbetre { -brand-short-name } for alle. Vi ber alltid om løyve før vi får personopplysningar.
-collection-privacy-notice = Personvernerklæring
+collection-privacy-notice = Personvernpraksis
 collection-health-report =
     .label = Tillat { -brand-short-name } å sende teknisk- og interaksjonsdata til { -vendor-short-name }
     .accesskey = r
