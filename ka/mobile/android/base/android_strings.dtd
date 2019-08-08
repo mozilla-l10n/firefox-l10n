@@ -278,6 +278,7 @@
 <!ENTITY pref_cookies_menu "ფუნთუშები">
 <!ENTITY pref_cookies_accept_all "ჩართულია">
 <!ENTITY pref_cookies_not_accept_foreign "ჩართულია, გარდა მე-3 მხარისა">
+<!ENTITY pref_cookies_not_accept_trackers "ჩართულია, მეთვალყურე ფუნთუშების გარდა">
 <!ENTITY pref_cookies_disabled "ამორთულია">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -880,7 +881,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "რჩეული საიტები">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
-<!ENTITY activity_stream_topstories "&brandPocket;-ის მიერ შემოთავაზებული">
+<!ENTITY activity_stream_topstories "&brandPocket; გირჩევთ">
 <!ENTITY activity_stream_highlights "მნიშვნელოვანი">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
@@ -893,7 +894,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "მონახულებული">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
-<!ENTITY activity_stream_highlight_label_trending "ყველასთვის სასურველი">
+<!ENTITY activity_stream_highlight_label_trending "ფართოდ გავრცელებული">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 <!ENTITY activity_stream_highlights_empty "დაიწყეთ გვერდების დათვალიერება და აქ გამოჩნდება თქვენთვის სასურველი სტატიები, ვიდეოები და ბოლოს მონახულებული ან ჩანიშნული საიტები.">
 
