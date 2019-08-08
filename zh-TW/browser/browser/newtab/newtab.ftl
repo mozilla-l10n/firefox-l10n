@@ -116,6 +116,7 @@ newtab-menu-open-file = 開啟檔案
 
 newtab-label-visited = 造訪過的網站
 newtab-label-bookmarked = 已加入書籤
+newtab-label-removed-bookmark = 已移除書籤
 newtab-label-recommended = 熱門
 newtab-label-saved = 已儲存至 { -pocket-brand-name }
 newtab-label-download = 已下載

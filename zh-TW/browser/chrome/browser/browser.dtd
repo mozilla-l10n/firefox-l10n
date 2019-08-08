@@ -156,6 +156,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.service.send.launch "啟動 &sendShortName;">
 <!ENTITY fxa.service.monitor.description "檢查您的電子郵件信箱是否曾出現在資料外洩事件中，並且在未來發生資料外洩時收到警報通知。">
 <!ENTITY fxa.service.monitor.launch "啟動 &monitorShortName;">
+<!ENTITY fxa.service.sendTab.description "立即傳送分頁到任何您登入過的裝置。">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -805,13 +806,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "連線">
 <!ENTITY identity.connectionSecure "安全連線">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "連線安全性">
+
+<!ENTITY identity.connectionSecure2 "安全連線">
 <!ENTITY identity.connectionNotSecure "連線不安全">
+<!ENTITY identity.connectionNotSecureSecurityView "您並未安全地連線至此網站。">
 <!ENTITY identity.connectionFile "此頁面位於您的電腦上。">
 <!ENTITY identity.connectionVerified2 "您已安全地連線至此網站，本網站擁有者為:">
+<!ENTITY identity.connectionVerified3 "您正安全地連線至此網站。">
 <!ENTITY identity.connectionInternal "這是安全的 &brandShortName; 頁面。">
 <!ENTITY identity.extensionPage "此頁面是擴充套件頁面。">
 <!ENTITY identity.insecureLoginForms2 "在此頁面輸入的登入資訊可能會被洩漏。">
 <!ENTITY identity.customRoot "連線是由 Mozilla 不認識的憑證簽發者所驗證。">
+
+<!ENTITY identity.evOwnerLabel "網站擁有者:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; 已經封鎖此頁面中不安全的部分。">
@@ -846,6 +857,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "清除 Cookie 與網站資料…">
 
 <!ENTITY identity.permissions "權限">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "權限集">
 <!ENTITY identity.permissionsEmpty "您並未授予此網站任何特殊權限。">
 <!ENTITY identity.permissionsReloadHint "您可能需要重新載入頁面才能讓變更生效。">
 <!ENTITY identity.permissionsPreferences.tooltip "開啟權限偏好設定">
@@ -930,6 +944,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.notDetected "沒有在此網站偵測到可封鎖的內容。">
 
 <!ENTITY contentBlocking.trackingProtection3.label "追蹤器">
+
+<!ENTITY contentBlocking.trackingProtection4.label "追蹤用內容">
 
 <!ENTITY contentBlocking.manageSettings.label "管理內容封鎖功能">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
