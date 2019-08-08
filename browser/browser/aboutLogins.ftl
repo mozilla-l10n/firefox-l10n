@@ -6,8 +6,15 @@ about-logins-page-title = Pśizjawjenja a gronidła
 login-filter =
     .placeholder = Pśizjawjenja pytaś
 create-login-button = Nowe pśizjawjenje załožyś
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Fawikon za { $title }
 fxaccounts-sign-in-text = Pśinjasćo swóje gronidła do wašych drugich rědow
 fxaccounts-sign-in-button = Pla { -sync-brand-short-name } pśizjawiś
+fxaccounts-avatar-button =
+    .title = Konto zastojaś
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -38,6 +45,7 @@ login-list-count =
     }
 login-list-sort-label-text = Sortěrowaś pó:
 login-list-name-option = Mjenju (A-Z)
+login-list-breached-option = Zranjone websedła
 login-list-last-changed-option = Slědnej změnje
 login-list-last-used-option = Slědnem wužyśu
 login-list-intro-title = Žedne pśizjawjenja namakane

@@ -116,6 +116,7 @@ newtab-menu-open-file = Dataju wócyniś
 
 newtab-label-visited = Woglědany
 newtab-label-bookmarked = Ako cytańske znamje skłaźony
+newtab-label-removed-bookmark = Cytańske znamje jo wótwónoźone
 newtab-label-recommended = Popularny
 newtab-label-saved = Do { -pocket-brand-name } skłaźony
 newtab-label-download = Ześěgnjony
