@@ -138,13 +138,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.button.label "გახსენით &syncBrand.shortName.label; – პარამეტრები…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "შესული, როგორც">
 <!ENTITY fxa.menu.manageAccount.label "ანგარიშის მართვა…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; – პარამეტრები…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "სხვა მოწყობილობის დაკავშირება…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -188,6 +192,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "ყველა ჩანართის ჩანიშვნა...">
+
 <!ENTITY showAllBookmarks2.label "ყველა სანიშნის ჩვენება">
 <!ENTITY recentBookmarks.label "ბოლოს ჩანიშნული">
 <!ENTITY otherBookmarksCmd.label "სხვა სანიშნები">
@@ -310,6 +315,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "ფაილი">
 <!ENTITY fileMenu.accesskey       "ფ">
+
 <!ENTITY newUserContext.label             "ახალი სათავსი ჩანართი">
 <!ENTITY newUserContext.accesskey         "ს">
 <!ENTITY manageUserContext.label          "სათავსების მართვა">
@@ -359,6 +365,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "ხ">
 <!ENTITY viewSidebarMenu.label "გვერდითი ზოლი">
 <!ENTITY viewSidebarMenu.accesskey "ზ">
+
 <!ENTITY viewCustomizeToolbar.label       "მორგება…">
 <!ENTITY viewCustomizeToolbar.accesskey     "მ">
 <!ENTITY overflowCustomizeToolbar.label       "ხელსაწყოთა ზოლის მორგება…">
@@ -372,6 +379,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "წინა სეანსის აღდგენა">
 
 <!ENTITY showAllHistoryCmd2.label "სრული ისტორიის ჩვენება">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "სრული ისტორიის ჩვენება">
@@ -592,9 +600,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "ბმულის გაგზავნა ელფოსტით…">
 <!ENTITY emailPageCmd.accesskey       "ე">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "გვერდის შენახვა როგორც…">
 <!ENTITY savePageCmd.accesskey        "შ">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "რ">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "ჩარჩოს შენახვა როგორც…">
@@ -699,22 +707,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "გადიდება">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "გ">
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "შემცირება">
 <!ENTITY fullZoomReduceCmd.accesskey    "შ">
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "ჩვეულებრივი">
 <!ENTITY fullZoomResetCmd.accesskey     "ჩ">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "მხოლოდ ტექსტის ზომის შეცვლა">
 <!ENTITY fullZoomToggleCmd.accesskey    "ტ">
+
 <!ENTITY fullZoom.label                 "ზომის ცვლილება">
 <!ENTITY fullZoom.accesskey             "მ">
 
@@ -732,6 +744,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "დახურვა">
+
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "დ">
 
@@ -785,6 +798,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "კავშირი">
 <!ENTITY identity.connectionSecure "დაცული კავშირი">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+
 <!ENTITY identity.connectionNotSecure "კავშირი დაუცველია">
 <!ENTITY identity.connectionFile "ეს გვერდი თქვენს კომპიუტერში ინახება.">
 <!ENTITY identity.connectionVerified2 "თქვენ საიმედოდ ხართ დაკავშირებული საიტთან, რომლის მფლობელიცაა:">
@@ -792,6 +809,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "ეს გვერდი გახსნილია გაფართოების მიერ.">
 <!ENTITY identity.insecureLoginForms2 "ამ გვერდზე შეყვანილი ანგარიშის მონაცემები შესაძლოა მოიპარონ.">
 <!ENTITY identity.customRoot "კავშირი დამოწმებულია სერტიფიკატის გამომშვების მიერ, რომელიც უცნობია Mozilla-სთვის.">
+
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ზღუდავს გვერდის დაუცველ ნაწილებს.">
@@ -826,10 +844,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "საიტის ფაილებისა და მონაცემების წაშლა…">
 
 <!ENTITY identity.permissions "ნებართვები">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissionsEmpty "ამ საიტისთვის განსაკუთრებული უფლებები არ მიგიციათ.">
 <!ENTITY identity.permissionsReloadHint "ცვლილებების ასამოქმედებლად შესაძლოა გვერდის ხელახლა ჩატვირთვა დაგჭირდეთ.">
 <!ENTITY identity.permissionsPreferences.tooltip "ნებართვების პარამეტრების გახსნა">
 <!ENTITY identity.contentBlockingPreferences.tooltip "შიგთავსის შეზღუდვის პარამეტრების გახსნა">
+
+
+<!ENTITY protections.etpON.header "თვალთვალისგან გაძლიერებული დაცვა ჩართულია ამ საიტზე">
+<!ENTITY protections.etpOFF.header "თვალთვალისგან გაძლიერებული დაცვა გამორთულია ამ საიტზე">
+<!-- LOCALIZATION NOTE:
+     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
+     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!-- LOCALIZATION NOTE:
+     In the Site Not Working? view, we suggest turning off protections if
+     the user is experiencing issues with any of a variety of functionality.
+     protections.siteNotWorkingView.header: The header of the list
+     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+
+
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -845,6 +879,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; – შესვლა…">
 <!ENTITY syncSignIn.accesskey         "შ">
+
 <!ENTITY syncSyncNowItem.label        "დასინქრონება ახლავე">
 <!ENTITY syncSyncNowItemSyncing.label "სინქრონდება…">
 <!ENTITY syncSyncNowItem.accesskey    "ს">
@@ -867,11 +902,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "მეთვალყურეები">
 
+
 <!ENTITY contentBlocking.manageSettings.label "შიგთავსის შეზღუდვის მართვა">
 <!ENTITY contentBlocking.manageSettings.accesskey "შ">
 
 <!ENTITY contentBlocking.trackersView.label "მეთვალყურეები">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "ყველა მეთვალყურის შესაზღუდად, მიუთითეთ „მკაცრი” შეზღუდვა.">
+
 
 <!ENTITY contentBlocking.cookies.label "ფუნთუშები">
 <!ENTITY contentBlocking.cookiesView.label "ფუნთუშები და საიტის მონაცემები">
