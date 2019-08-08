@@ -56,8 +56,8 @@ login-item-save-changes-button = बदल जतन करा
 login-item-save-new-button = जतन करा
 login-item-cancel-button = रद्द करा
 login-item-time-changed = शेवटचा सुधार: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = बनवले: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = शेवटचा वापर: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = बनवले: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = शेवटचा वापर: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
