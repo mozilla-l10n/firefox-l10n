@@ -859,6 +859,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Prawa">
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "Date prawa">
 <!ENTITY identity.permissionsEmpty "Njejsće tutomu sydłu wosebite prawa přizwolił.">
 <!ENTITY identity.permissionsReloadHint "Dyrbiće snano stronu znowa začitać, zo bychu so změny wuskutkowali.">
 <!ENTITY identity.permissionsPreferences.tooltip "Nastajenja prawow wočinić">
@@ -944,6 +945,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Přesćěhowaki">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Slědowacy wobsah">
 
 <!ENTITY contentBlocking.manageSettings.label "Blokowanje wobsaha rjadować">
 <!ENTITY contentBlocking.manageSettings.accesskey "B">
