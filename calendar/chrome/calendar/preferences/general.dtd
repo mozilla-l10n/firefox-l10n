@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.mainbox.label "ძირითადი პარამეტრები" >
+
 <!ENTITY pref.dateformat.label "თარიღის ტექსტური ფორმატი:" >
 <!ENTITY pref.dateformat.accesskey "თ">
 <!ENTITY pref.dateformat.long "გრძელი" >
@@ -23,6 +24,9 @@
 
 <!ENTITY pref.default_event_length.label "ნაგულისხმევი ხანგრძლივობა:" >
 <!ENTITY pref.default_event_length.accesskey "ძ">
+
+<!ENTITY pref.default_event_task_length.label "ღონისძიებისა და დავალების ნაგულისხმევი სიგრძე">
+<!ENTITY pref.default_event_task_length.accesskey "გ">
 
 <!ENTITY pref.default_task_none.label "არცერთი">
 <!ENTITY pref.default_task_start_of_day.label "დაწყების დღე">

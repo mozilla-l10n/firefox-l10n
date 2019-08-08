@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "ძირითადი">
+
 <!ENTITY pref.calendar.view.dayandweekviews.caption "დღეების და კვირების ჩვენება">
 <!ENTITY pref.calendar.view.multiweekview.caption "მრავალი კვირის ჩვენება">
 <!ENTITY pref.calendar.view.workweek.caption "სამუშაო კვირა">
@@ -17,6 +18,8 @@
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.label "კვირების გადანომვრა, სხვადასხვა ხედსა და მცირე კალენდარზე">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "ნ">
 <!ENTITY pref.daysoff.label "სამუშაო კვირის დღეები:">
+
+<!ENTITY pref.workweekDays.label "სამუშაო დღეები:">
 
 <!ENTITY pref.calendar.view.daystart.label "დღის დასაწყისი:">
 <!ENTITY pref.calendar.view.daystart.accesskey "წ">
