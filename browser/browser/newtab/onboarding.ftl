@@ -55,6 +55,37 @@ onboarding-benefit-knowledge-title = ବ୍ୟବହାରିକ ଜ୍ଞାନ
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
+onboarding-private-browsing-title = ଗୋପନୀୟ ବ୍ରାଉଜିଂ
+onboarding-screenshots-title = ସ୍କ୍ରିନ୍‌ସଟ୍‌ଗୁଡିକ
+onboarding-addons-title = ଏଡ-ଅନଗୁଡ଼ିକ
+onboarding-ghostery-title = ଘୋଷ୍ଟ୍ରି
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = ସିଙ୍କ୍
+onboarding-tracking-protection-title2 = ଅନୁସାରଣରୁ ସୁରକ୍ଷା
+onboarding-tracking-protection-button2 = ଏହା କିଭଳି କାମ କରେ
+onboarding-data-sync-title = ଆପଣଙ୍କର ସଜାଣି ଆପଣଙ୍କ ସହିତ ନିଅନ୍ତୁ
+onboarding-data-sync-button2 = { -sync-brand-short-name }କୁ ଲଗ ଇନ କରନ୍ତୁ
+onboarding-browse-privately-title = ଗୋପନୀୟ ଭାବେ ବ୍ରାଉଜିଂ କରନ୍ତୁ
+onboarding-browse-privately-button = ଏକ ବ୍ୟକ୍ତିଗତ ୱିଣ୍ଡୋ ଖୋଲନ୍ତୁ
+onboarding-firefox-send-button = { -send-brand-name } ଚେଷ୍ଟା କରନ୍ତୁ
+onboarding-mobile-phone-title = { -brand-product-name }କୁ ଆପଣଙ୍କର ଫୋନରେ ପାଆନ୍ତୁ
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = ମୋବାଇଲ ବ୍ରାଉଜର ଡାଉନଲୋଡ଼ କରନ୍ତୁ
+onboarding-pocket-anywhere-title = ଯେକୌଣସିଠାରେ ପଢ଼ନ୍ତୁ ଏବଂ ଶୁଣନ୍ତୁ
+onboarding-pocket-anywhere-button = { -pocket-brand-name }କୁ ଚେଷ୍ଟା କରନ୍ତୁ
+onboarding-lockwise-passwords-title = ଆପଣଙ୍କର ପାସୱାର୍ଡ଼ ସବୁଆଡ଼େ ନିଅନ୍ତୁ
+onboarding-lockwise-passwords-button2 = ଆପଟି ଅକ୍ତିଆର କରନ୍ତୁ
+onboarding-facebook-container-title = ଫେସବୁକ ସହିତ ବ୍ୟବଧାନ ସ୍ଥିର କରନ୍ତୁ
+onboarding-facebook-container-button = ଏକଷ୍ଟେନ୍ସନ ଯୋଡ଼ନ୍ତୁ
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = ବାଃ, ଆପଣଙ୍କୁ { -brand-short-name } ମିଳିଗଲା
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = ବର୍ତ୍ତମାନ ଚାଲନ୍ତୁ <icon></icon><b>{ $addon-name }</b> ଆଣିବା
+return-to-amo-extension-button = ଏକଷ୍ଟେନ୍ସନ ଯୋଡ଼ନ୍ତୁ
+return-to-amo-get-started-button = { -brand-short-name }ରେ ଆରମ୍ଭ ହୋଇଯାଆନ୍ତୁ
