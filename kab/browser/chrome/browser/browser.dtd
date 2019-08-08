@@ -861,6 +861,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Iwenniten">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Tividyutin">
 
+<!ENTITY protections.blocking.label "Asewḥel">
 
 
 
