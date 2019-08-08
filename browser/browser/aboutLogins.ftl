@@ -6,8 +6,15 @@ about-logins-page-title = Hesaplar ve Parolalar
 login-filter =
     .placeholder = Hesaplarda ara
 create-login-button = Yeni hesap oluştur
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = { $title } favicon'u
 fxaccounts-sign-in-text = Parolalarınıza diğer cihazlarınızdan da ulaşın
 fxaccounts-sign-in-button = { -sync-brand-short-name }’e giriş yapın
+fxaccounts-avatar-button =
+    .title = Hesabı yönet
 
 ## The ⋯ menu that is in the top corner of the page
 
