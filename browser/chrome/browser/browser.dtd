@@ -97,6 +97,7 @@
 <!ENTITY fxa.service.send.launch "Apri &sendShortName;">
 <!ENTITY fxa.service.monitor.description "Controlla se la tua email è stata coinvolta in una violazione di dati e ricevi un avviso se compare in una nuova violazione.">
 <!ENTITY fxa.service.monitor.launch "Apri &monitorShortName;">
+<!ENTITY fxa.service.sendTab.description "Invia immediatamente una scheda a qualsiasi dispositivo connesso al tuo account.">
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "è ora visualizzato a schermo intero">
 <!ENTITY fullscreenWarning.generic.label "Questo documento è ora visualizzato a schermo intero">
