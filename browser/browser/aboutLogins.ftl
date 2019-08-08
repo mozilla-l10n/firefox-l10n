@@ -8,6 +8,8 @@ login-filter =
 create-login-button = Lag ny innlogging
 fxaccounts-sign-in-text = Få passorda dine på dei andre einingane dine
 fxaccounts-sign-in-button = Logg inn på { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = Handter konto
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -52,6 +54,7 @@ login-list-item-subtitle-missing-username = (ikkje noko brukarnamn)
 login-item-new-login-title = Lag ny innlogging
 login-item-edit-button = Rediger
 login-item-delete-button = Slett
+login-item-origin-label = Nettstadadresse
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-open-site-button = Start
