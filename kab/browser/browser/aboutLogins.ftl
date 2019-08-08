@@ -30,6 +30,7 @@ confirm-delete-dialog-title = Kkes anekcam-agi?
 confirm-delete-dialog-message = Ulac tuɣalin ɣer deffir.
 confirm-delete-dialog-confirm-button = Kkes
 confirm-discard-changes-dialog-title = Sefsex isenfal-agi?
+confirm-discard-changes-dialog-confirm-button = Kkes
 
 ## Breach Alert notification
 

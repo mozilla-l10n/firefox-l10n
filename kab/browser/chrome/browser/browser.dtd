@@ -138,13 +138,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.button.label "Ldi iɣewwaṛen n &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Tkecmeḍ s yisem">
 <!ENTITY fxa.menu.manageAccount.label "Sefrek imiḍanen…">
 <!ENTITY fxa.menu.syncSettings.label "Iɣewwaṛen n &syncBrand.shortName.label;…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Qqen ibenk-nniḍen...">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!ENTITY fxa.menu.turnOnSync.label "Rmed &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.account.label "Amiḍan">
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.launch "Sker &sendShortName;">
+<!ENTITY fxa.service.monitor.launch "Sker &monitorShortName;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -188,6 +196,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "Creḍ akk accaren…">
+
 <!ENTITY showAllBookmarks2.label "Sken akk ticraḍ n yisebtar">
 <!ENTITY recentBookmarks.label "Wid ittwacerḍen melmi kan">
 <!ENTITY otherBookmarksCmd.label "Ticraḍ-nniḍen">
@@ -310,6 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Afaylu">
 <!ENTITY fileMenu.accesskey       "f">
+
 <!ENTITY newUserContext.label             "Iccer amagbar amaynut">
 <!ENTITY newUserContext.accesskey         "m">
 <!ENTITY manageUserContext.label          "Sefrek imagbaren">
@@ -359,6 +369,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "A">
 <!ENTITY viewSidebarMenu.label "Agalis adisan">
 <!ENTITY viewSidebarMenu.accesskey "g">
+
 <!ENTITY viewCustomizeToolbar.label       "Sagen…">
 <!ENTITY viewCustomizeToolbar.accesskey     "S">
 <!ENTITY overflowCustomizeToolbar.label       "Sagen afeggag n yifecka…">
@@ -372,6 +383,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Err-d tiɣimit yezrin">
 
 <!ENTITY showAllHistoryCmd2.label "Sken akk amazray">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Sken akk amazray">
@@ -592,9 +604,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Azen s yimayl aseɣwen ɣeṛ usebter…">
 <!ENTITY emailPageCmd.accesskey       "A">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Sekles asebter di...">
 <!ENTITY savePageCmd.accesskey        "l">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Sekles akatar s yisem...">
@@ -699,22 +711,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Semɣer">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "m">
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Semẓi">
 <!ENTITY fullZoomReduceCmd.accesskey    "S">
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Amagnu">
 <!ENTITY fullZoomResetCmd.accesskey     "A">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Semɣer kan aḍris">
 <!ENTITY fullZoomToggleCmd.accesskey    "S">
+
 <!ENTITY fullZoom.label                 "Semɣer">
 <!ENTITY fullZoom.accesskey             "S">
 
@@ -732,6 +748,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Mdel">
+
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "M">
 
@@ -832,6 +849,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Ldi ismenyifen n usewḥel n ugbur">
 
 
+<!-- LOCALIZATION NOTE:
+     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
+     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!-- LOCALIZATION NOTE:
+     In the Site Not Working? view, we suggest turning off protections if
+     the user is experiencing issues with any of a variety of functionality.
+     protections.siteNotWorkingView.header: The header of the list
+     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Asellek">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Iwenniten">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Tividyutin">
+
+
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Accaren n yiminig">
@@ -845,6 +877,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Kcem ɣer &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
+
 <!ENTITY syncSyncNowItem.label        "Mtawi tura">
 <!ENTITY syncSyncNowItemSyncing.label "Amtawi…">
 <!ENTITY syncSyncNowItem.accesskey    "M">
@@ -872,6 +905,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackersView.label "Ineḍfaren">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Akken ad tesweḥleḍ akk ineḍfaren, sbadu asewḥel n ugbur ɣer “Uḥris”.">
+
 
 <!ENTITY contentBlocking.cookies.label "Inagan n tuqqna">
 <!ENTITY contentBlocking.cookiesView.label "Inagan n tuqna akked isefka n usmel">

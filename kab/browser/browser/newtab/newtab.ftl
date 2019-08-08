@@ -47,6 +47,9 @@ newtab-topsites-add-button = Rnu
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Tebɣiḍ ad tekksed yal tummant n usebter-agi seg umazray-ik?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Tigawt-agi ur tettuɣal ara ar deffir.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Creḍ asebter-agi
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Nɣel tansa n useɣwen n usali
 newtab-menu-go-to-download-page = Ddu ɣer usebter n usider
 newtab-menu-remove-download = Kkes seg umazray
@@ -116,6 +123,10 @@ newtab-label-download = Yuli-d
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = Kkes tigezmi
 newtab-section-menu-collapse-section = Fneẓ tigezmi
 newtab-section-menu-expand-section = Snefli tigezmi
@@ -126,6 +137,13 @@ newtab-section-menu-add-search-engine = Rnu amsedday n unadi
 newtab-section-menu-move-up = Ali
 newtab-section-menu-move-down = Ader
 newtab-section-menu-privacy-notice = Tasertit n tbaḍnit
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Fneẓ tigezmi
+newtab-section-expand-section-label =
+    .aria-label = Snefli tigezmi
 
 ## Section Headers.
 
