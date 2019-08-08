@@ -116,6 +116,7 @@ newtab-menu-open-file = Dataju wočinić
 
 newtab-label-visited = Wopytany
 newtab-label-bookmarked = Jako zapołožka składowany
+newtab-label-removed-bookmark = Zapołožka je so wotstroniła
 newtab-label-recommended = Popularny
 newtab-label-saved = Do { -pocket-brand-name } składowany
 newtab-label-download = Sćehnjeny

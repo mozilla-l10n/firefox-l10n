@@ -156,6 +156,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.service.send.launch "&sendShortName; startować">
 <!ENTITY fxa.service.monitor.description "Hladajće, hač so waša e-mejlowa adresa w datowej dźěrje jewi a budźće warnowany, jeli so w nowej dźěrje jewi.">
 <!ENTITY fxa.service.monitor.launch "&monitorShortName; startować">
+<!ENTITY fxa.service.sendTab.description "Sćelće rajtark hnydom na grat, pola kotrehož sće přizjewjeny.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -805,13 +806,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Zwisk">
 <!ENTITY identity.connectionSecure "Wěsty zwisk">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Zwiskowa wěstota">
+
+<!ENTITY identity.connectionSecure2 "Zwisk je wěsty">
 <!ENTITY identity.connectionNotSecure "Zwisk wěsty njeje">
+<!ENTITY identity.connectionNotSecureSecurityView "Njejsće wěsće z tutym sydłom zwjazany.">
 <!ENTITY identity.connectionFile "Tuta strona je so na wašim ličaku składowała.">
 <!ENTITY identity.connectionVerified2 "Sće z tutym sydłom wěsće zwjazany, kotrehož wobsedźer je:">
+<!ENTITY identity.connectionVerified3 "Sće wěsće z tutym sydłom zwjazany.">
 <!ENTITY identity.connectionInternal "To je wěsta strona &brandShortName;.">
 <!ENTITY identity.extensionPage "Tuta strona je so z rozšěrjenja začitała.">
 <!ENTITY identity.insecureLoginForms2 "Přizjewjenja, kotrež so na tutej stronje zapodawaja, móhli wohrožene być.">
 <!ENTITY identity.customRoot "Zwisk je so přez certifikatoweho wudawarja přepruwował, kotryž wot Mozilla připóznaty njeje.">
+
+<!ENTITY identity.evOwnerLabel "Swójstwownik sydła:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; je dźěle tuteje strony zablokował, kotrež wěste njejsu.">
@@ -846,6 +857,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Placki a sydłowe daty zhašeć…">
 
 <!ENTITY identity.permissions "Prawa">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissionsEmpty "Njejsće tutomu sydłu wosebite prawa přizwolił.">
 <!ENTITY identity.permissionsReloadHint "Dyrbiće snano stronu znowa začitać, zo bychu so změny wuskutkowali.">
 <!ENTITY identity.permissionsPreferences.tooltip "Nastajenja prawow wočinić">
@@ -930,6 +943,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.notDetected "Na tutej stronje njeje so žadyn blokujomny wobsah wotkrył.">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Přesćěhowaki">
+
 
 <!ENTITY contentBlocking.manageSettings.label "Blokowanje wobsaha rjadować">
 <!ENTITY contentBlocking.manageSettings.accesskey "B">
