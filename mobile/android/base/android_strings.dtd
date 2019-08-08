@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "Քիչ տվյալ, շատ պահումներ">
 <!ENTITY firstrun_data_subtext2 "Անջատել պատկերները՝ կայքեր այցելելիս քիչ տվյալներ ծախսելու համար:">
 <!ENTITY firstrun_sync_title "Սինք">
+<!ENTITY updatednewfirstrun_sync_title "Հաշիվ">
 <!ENTITY firstrun_sync_message2 "Շարունակեք այնտեղից, որտեղ ընդհատել եք:">
 <!ENTITY firstrun_sync_subtext2 "Օգտագործեք համաժամեցում՝ գտնելու համար էջանիշները, գաղտնաբառերը և այլն, որոնք պահպանել եք &brandShortName;-ում՝ ցանկացած սարքում:">
 <!ENTITY newfirstrun_sync_subtext "Համաժամեցրեք Firefox-ի բոլոր տարբերակները՝ գաղտնի և ապահով:">
@@ -68,6 +69,11 @@
 <!ENTITY  sending_crash_report "Վթարման զեկույցը ուղարկվում է\u2026">
 <!ENTITY  crash_close_label "Փակել">
 <!ENTITY  crash_restart_label "Վերամեկնարկել &brandShortName; -ը">
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName;-ը ձախողվեց">
+<!ENTITY  crash_notification_message "Հպեք՝ &vendorShortName;-ին զեկուցելու համար">
+<!ENTITY  crash_notification_negative_button_text "Անտեսել">
 
 <!ENTITY url_bar_default_text2 "Մուտքագրեք կայքի հասցե կամ որոնում">
 
@@ -110,6 +116,9 @@
 <!ENTITY bookmark_folder_updated "Թղթապանակը թարմացվել է">
 <!ENTITY bookmark_parent_folder "Ծնող թղթապանակ">
 <!ENTITY bookmark_add_folder "Ավելացնել նոր թղթապանակ">
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(առանց անվանման)">
 
 <!ENTITY reader_saved_offline "Պահվել է առցանց">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -269,6 +278,7 @@
 <!ENTITY pref_cookies_menu "Cookie-ներ">
 <!ENTITY pref_cookies_accept_all "Միացնել">
 <!ENTITY pref_cookies_not_accept_foreign "Միացված՝ բացառելով երրորդ կողմի կայքերը">
+<!ENTITY pref_cookies_not_accept_trackers "Միացված, բացառությամբ հետագծման cookie-ների">
 <!ENTITY pref_cookies_disabled "Անջատել">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -329,11 +339,6 @@
 
 <!ENTITY pref_pwa "Առաջադիմական վեբ հավելվածներ">
 <!ENTITY pref_pwa_summary "Թույլատրել վեբ հավելվածներին ավելացվել տուն էկրանին">
-
-<!ENTITY tracking_protection_prompt_title "Այժմ պաշտպանություն հետագծումից">
-<!ENTITY tracking_protection_prompt_text "Արգելափակում է հետագծող տարրերը:">
-<!ENTITY tracking_protection_prompt_tip_text "Մանրամասները՝ Գաղտնիության կարգավորումներում">
-<!ENTITY tracking_protection_prompt_action_button "Հասկացա">
 
 <!ENTITY tab_queue_toast_message3 "Ներդիրները պահպանվել են &brandShortName;-ում">
 <!ENTITY tab_queue_toast_action "Բացել հիմա">
@@ -420,7 +425,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Հպեք զննիչ հավելվածին և ընտրեք &brandShortName;">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Այցելել Mozilla Support">
 <!ENTITY pref_about_firefox "&brandShortName;-ի մասին">
 <!ENTITY pref_vendor_faqs "ՀՏՀ">
 <!ENTITY pref_vendor_feedback "Ձեր Արձագանքը">
@@ -592,6 +596,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "Հիմնաբառ">
 <!ENTITY bookmark_select_folder "Ընտրել թղթապանակ">
 
+<!ENTITY bookmark_edit_undo "Հետարկել">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "Կայքի կարգավորումներ">
@@ -679,7 +685,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Ընտրեք կամ ձայնագրեք">
 <!ENTITY filepicker_image_title "Ընտրեք կամ նկարեք">
 <!ENTITY filepicker_video_title "Ընտրեք կամ տեսագրեք տեսանյութ">
-
 <!ENTITY filepicker_permission_denied "Պահանջվող թույլտվությունները տրամադրված չեն, վերադարձվում է ֆայլային համակարգի հավաքիչին:">
 
 <!-- Site identity popup -->
@@ -933,3 +938,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Կայքի ծանուցումները">
+<!ENTITY crash_handler_notifications_channel "&brandShortName;-ի Վթարի զեկուցիչ">
