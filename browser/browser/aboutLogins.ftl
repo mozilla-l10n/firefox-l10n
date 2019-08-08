@@ -6,8 +6,15 @@ about-logins-page-title = Credenciais e palavras-passe
 login-filter =
     .placeholder = Pesquisar credenciais
 create-login-button = Criar nova credencial
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Favicon para { $title }
 fxaccounts-sign-in-text = Obtenha as suas palavras-passe nos seus outros dispositivos
 fxaccounts-sign-in-button = Iniciar sessão no { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = Gerir conta
 
 ## The ⋯ menu that is in the top corner of the page
 

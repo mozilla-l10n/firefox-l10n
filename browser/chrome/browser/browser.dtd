@@ -154,6 +154,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      for the Firefox Account toolbar menu screen.  -->
 <!ENTITY fxa.service.send.launch "Iniciar &sendShortName;">
 <!ENTITY fxa.service.monitor.launch "Iniciar &monitorShortName;">
+<!ENTITY fxa.service.sendTab.description "Envie um separador instantaneamente para qualquer dispositivo em que tenha sessão iniciada.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -803,13 +804,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Ligação">
 <!ENTITY identity.connectionSecure "Ligação segura">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Segurança da ligação">
+
+<!ENTITY identity.connectionSecure2 "Ligação segura">
 <!ENTITY identity.connectionNotSecure "Ligação não segura">
+<!ENTITY identity.connectionNotSecureSecurityView "Não está ligado(a) de forma segura a este site.">
 <!ENTITY identity.connectionFile "Esta página está armazenada no seu computador.">
 <!ENTITY identity.connectionVerified2 "Está ligado(a) de forma segura a este site, propriedade de:">
+<!ENTITY identity.connectionVerified3 "Está ligado(a) de forma segura a este site.">
 <!ENTITY identity.connectionInternal "Esta é uma página segura do &brandShortName;.">
 <!ENTITY identity.extensionPage "Esta página está carregada a partir de uma extensão.">
 <!ENTITY identity.insecureLoginForms2 "Credenciais introduzidas nesta página podem ser comprometidas.">
 <!ENTITY identity.customRoot "Ligação verificada por um emissor de certificados que não é reconhecido pela Mozilla.">
+
+<!ENTITY identity.evOwnerLabel "Proprietário do site:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "O &brandShortName; bloqueou partes desta página que não são seguras.">
@@ -844,6 +855,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Limpar cookies e dados de sites…">
 
 <!ENTITY identity.permissions "Permissões">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissionsEmpty "Não concedeu quaisquer permissões especiais a este site.">
 <!ENTITY identity.permissionsReloadHint "Poderá ter de recarregar a página para as alterações se aplicarem.">
 <!ENTITY identity.permissionsPreferences.tooltip "Abrir preferências de permissões">
@@ -923,6 +936,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.notDetected "Não foi detetado conteúdo bloqueável nesta página.">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Trackers">
+
+<!ENTITY contentBlocking.trackingProtection4.label "Conteúdo de monitorização">
 
 <!ENTITY contentBlocking.manageSettings.label "Gerir bloqueio de conteúdo">
 <!ENTITY contentBlocking.manageSettings.accesskey "G">
