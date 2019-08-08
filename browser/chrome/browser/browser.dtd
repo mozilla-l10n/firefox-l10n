@@ -146,6 +146,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Добавяне на устройство…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!ENTITY fxa.menu.account.label "Сметка">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -798,6 +799,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Връзка">
 <!ENTITY identity.connectionSecure "Защитена връзка">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+
 <!ENTITY identity.connectionNotSecure "Връзката е незащитена">
 <!ENTITY identity.connectionFile "Страницата е запазена в компютъра.">
 <!ENTITY identity.connectionVerified2 "Защитена връзка към този сайт, управляван от:">
@@ -805,6 +810,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Страницата е отворена от разширение.">
 <!ENTITY identity.insecureLoginForms2 "Въведените на страницата данни за вход може да бъдат компрометирани.">
 <!ENTITY identity.customRoot "Връзката е потвърдена от издател на сертификат, който не е разпознат от Mozilla.">
+
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; блокира части от страницата, които не са шифрирани.">
@@ -839,14 +845,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Изчистване на бисквитки и данни…">
 
 <!ENTITY identity.permissions "Права">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "Променени права">
 <!ENTITY identity.permissionsEmpty "Не сте дали специфични права на този сайт.">
 <!ENTITY identity.permissionsReloadHint "За да бъдат приложени промените може да се наложи да презаредите страницата.">
 <!ENTITY identity.permissionsPreferences.tooltip "Отваряне настройките на права">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Настройки за ограничаване на съдържание">
 
 
-<!ENTITY protections.etpON.header "Защитата от проследяване ВКЛЮЧЕНА за сайта">
-<!ENTITY protections.etpOFF.header "Защитата от проследяване ИЗКЛЮЧЕНА за сайта">
+<!ENTITY protections.etpON.header "Защитата от проследяване е ВКЛЮЧЕНА за сайта">
+<!ENTITY protections.etpOFF.header "Защитата от проследяване е ИЗКЛЮЧЕНА за сайта">
 <!ENTITY protections.settings.label "Настройки на защитите">
 <!ENTITY protections.report.label "Пълен отчет">
 <!-- LOCALIZATION NOTE:
@@ -908,6 +917,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.notDetected "Страницата няма съдържание годно за спиране.">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Проследявания">
+
 
 <!ENTITY contentBlocking.manageSettings.label "Управление на ограничаването на съдържание">
 <!ENTITY contentBlocking.manageSettings.accesskey "у">
