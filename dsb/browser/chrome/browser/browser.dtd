@@ -156,6 +156,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.service.send.launch "&sendShortName; startowaś">
 <!ENTITY fxa.service.monitor.description "Glědajśo, lěc se waša e-mailowa adresa w datowej źěrje pokazujo a buźćo warnowany, jolic se w nowej źěrje pokazujo.">
 <!ENTITY fxa.service.monitor.launch "&monitorShortName; startowaś">
+<!ENTITY fxa.service.sendTab.description "Sćelśo rejtark ned na rěd, pla kótaregož sćo pśizjawjony.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -805,13 +806,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Zwisk">
 <!ENTITY identity.connectionSecure "Wěsty zwisk">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Zwiskowa wěstota">
+
+<!ENTITY identity.connectionSecure2 "Zwisk jo wěsty">
 <!ENTITY identity.connectionNotSecure "Zwisk njejo wěsty">
+<!ENTITY identity.connectionNotSecureSecurityView "Njejsćo wěsće zwězany z toś tym sedłom.">
 <!ENTITY identity.connectionFile "Toś ten bok jo se na wašom licadle składł.">
 <!ENTITY identity.connectionVerified2 "Sćo z toś tym sedłom wěsće zwězany, kótaregož wobsejźaŕ jo:">
+<!ENTITY identity.connectionVerified3 "Sćo wěsće zwězany z toś tym sedłom.">
 <!ENTITY identity.connectionInternal "To jo wěsty bok &brandShortName;.">
 <!ENTITY identity.extensionPage "Toś ten bok jo se z rozšyrjenja zacytał.">
 <!ENTITY identity.insecureLoginForms2 "Pśizjawjenja, kótarež zapódawaju se na toś tom boku, by mógli wobgrozone byś.">
 <!ENTITY identity.customRoot "Zwisk jo se pśeglědował pśez certifikatowego wudawarja, kótaryž njejo pśipóznaty wót Mozilla.">
+
+<!ENTITY identity.evOwnerLabel "Swójstwownik sedła:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; jo źěle toś togo boka blokěrował, kótarež njejsu wěste.">
@@ -846,6 +857,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Cookieje a sedłowe daty wulašowaś…">
 
 <!ENTITY identity.permissions "Pšawa">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "Dane pšawa">
 <!ENTITY identity.permissionsEmpty "Njejsćo toś tomu sedłoju wósebne pšawa pśizwólił.">
 <!ENTITY identity.permissionsReloadHint "Musyśo snaź bok znowego zacytaś, aby se změny wustatkowali.">
 <!ENTITY identity.permissionsPreferences.tooltip "Nastajenja pšawow wócyniś">
@@ -930,6 +944,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.notDetected "Žedno blokěrujobne wopśimjeśe jo se namakało na toś tom boku.">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Pśeslědowaki">
+
+<!ENTITY contentBlocking.trackingProtection4.label "Slědujuce wopśimjeśe">
 
 <!ENTITY contentBlocking.manageSettings.label "Blokěrowanje wopśimjeśa zastojaś">
 <!ENTITY contentBlocking.manageSettings.accesskey "B">
