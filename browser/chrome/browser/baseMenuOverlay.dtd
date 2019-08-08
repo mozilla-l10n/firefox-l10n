@@ -28,9 +28,6 @@
 <!ENTITY helpSafeMode.stop.label       "Վերամեկնարկել՝ միացնելով հավելումները">
 <!ENTITY helpSafeMode.stop.accesskey   "Վ">
 
-<!ENTITY healthReport2.label      "&brandShorterName;-ի Վիճակի Զեկույց">
-<!ENTITY healthReport2.accesskey  "ճ">
-
 <!ENTITY helpTroubleshootingInfo.label      "Անսարքության տեղեկատվություն">
 <!ENTITY helpTroubleshootingInfo.accesskey  "Ա">
 
@@ -52,3 +49,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Ցուցադրել բոլորը">
+
+<!ENTITY touchBarCmdMac.label           "Հարմարեցնել Հպման փեղկը…">

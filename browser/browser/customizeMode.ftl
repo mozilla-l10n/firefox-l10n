@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Հետարկել
 customize-mode-lwthemes-my-themes =
     .value = Իմ ձևավորումները
+customize-mode-touchbar-cmd =
+    .label = Հարմարեցնել Հպման փեղկը...

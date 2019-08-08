@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Պահել փոփոխությունները
     .accesskey = Պ
+permissions-autoplay-menu = Սկզբնադիր բոլոր կայքերի համար.
 permissions-searchbox =
     .placeholder = Որոնել կայք
+permissions-capabilities-autoplay-allow =
+    .label = Թույլատրել Ձայն և Տեսանյութ
+permissions-capabilities-autoplay-block =
+    .label = Կողպել ձայնը
+permissions-capabilities-autoplay-blockall =
+    .label = Կողպել Ձայնը և Տեսանյութը
 permissions-capabilities-allow =
     .label = Թույլատրել
 permissions-capabilities-block =
@@ -94,6 +101,9 @@ permissions-exceptions-addons-desc = Դուք կարող էք նշել այն վ
 permissions-exceptions-autoplay-media-window2 =
     .title = Բացառություններ՝  Ինքնանվագարկում
     .style = { permissions-window.style }
+
+## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 

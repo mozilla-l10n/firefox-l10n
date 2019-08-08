@@ -49,6 +49,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Տպել…
     .accesskey = Տ
+menu-file-import-from-another-browser =
+    .label = Ներմուծել այլ դիտարկիչից...
+    .accesskey = I
 menu-file-go-offline =
     .label = Աշխատել անցանց
     .accesskey = տ
@@ -150,7 +153,7 @@ menu-view-full-screen =
     .label = Բացել Լիաէկրան
     .accesskey = Բ
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Ցուցադրել բոլոր ներդիրները

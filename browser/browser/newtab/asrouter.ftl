@@ -53,3 +53,18 @@ cfr-doorhanger-pintab-step2 = Ընտրեք<b>Ամրացնել ներդիրը</b>
 cfr-doorhanger-pintab-step3 = Եթե կայքը արդիացում ունի, դուք կտեսնեք կապույտ կետ ձեր ամրացված ներդիրում:
 cfr-doorhanger-pintab-animation-pause = Դադար
 cfr-doorhanger-pintab-animation-resume = Շարունակել
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Համաժամեցրեք ձեր էջանիշերը ամեն տեղ:
+cfr-doorhanger-bookmark-fxa-link-text = Համաժամեցնել էջանիշերը...
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Փակելու կոճակ
+    .title = Փակել
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Ինչն է նոր
+    .tooltiptext = Ինչն է նոր
+cfr-whatsnew-panel-header = Ինչն է նոր
