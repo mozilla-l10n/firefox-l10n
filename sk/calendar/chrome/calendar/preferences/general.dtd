@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.mainbox.label "Hlavné nastavenia" >
+
 <!ENTITY pref.dateformat.label "Textový formát dátumu:" >
 <!ENTITY pref.dateformat.accesskey "T">
 <!ENTITY pref.dateformat.long "Dlhý" >
@@ -24,6 +25,9 @@
 <!ENTITY pref.default_event_length.label "Predvolená dĺžka:" >
 <!ENTITY pref.default_event_length.accesskey "e">
 
+<!ENTITY pref.default_event_task_length.label "Predvolená dĺžka udalosti a úlohy">
+<!ENTITY pref.default_event_task_length.accesskey "P">
+
 <!ENTITY pref.default_task_none.label "Žiadna">
 <!ENTITY pref.default_task_start_of_day.label "Začiatok dňa">
 <!ENTITY pref.default_task_end_of_day.label "Koniec dňa">
@@ -34,9 +38,6 @@
 <!ENTITY pref.default_task_offset_next_hour.label "Relatívna k nasledujúcej hodine">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Panel Dnes">
-<!ENTITY pref.soondays.label "V sekcii Nadchádzajúce zobrazovať:">
-<!ENTITY pref.soondays.accesskey "N">
-
 <!-- LOCALIZATION NOTE (pref.soondays2.label):
      "Upcoming" is the name of a section and the translation must match the
      translation of that section name (calendar.upcoming.button.label). Also,
