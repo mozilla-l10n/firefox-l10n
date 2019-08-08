@@ -156,6 +156,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.service.send.launch "Starta &sendShortName;">
 <!ENTITY fxa.service.monitor.description "Kontrollera om din e-postadress har förekommit i ett dataintrång och få varningar om det figurerar i ett nytt intrång.">
 <!ENTITY fxa.service.monitor.launch "Starta &monitorShortName;">
+<!ENTITY fxa.service.sendTab.description "Skicka en flik direkt till alla enheter du är inloggad på.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -805,13 +806,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Anslutning">
 <!ENTITY identity.connectionSecure "Säker anslutning">
-<!ENTITY identity.connectionNotSecure "Anslutningen är inte säker ">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Anslutningssäkerhet">
+
+<!ENTITY identity.connectionSecure2 "Anslutningen är säker">
+<!ENTITY identity.connectionNotSecure "Anslutningen är inte säker">
+<!ENTITY identity.connectionNotSecureSecurityView "Du är inte säkert ansluten till den här webbplatsen.">
 <!ENTITY identity.connectionFile "Den här sidan är lagrad på din dator.">
 <!ENTITY identity.connectionVerified2 "Du är säkert ansluten till denna webbplats, som tillhör:">
+<!ENTITY identity.connectionVerified3 "Du är säkert ansluten till den här webbplatsen.">
 <!ENTITY identity.connectionInternal "Detta är en säker &brandShortName; sida.">
 <!ENTITY identity.extensionPage "Den här sidan laddas från ett tillägg.">
 <!ENTITY identity.insecureLoginForms2 "Inloggningar du anger på denna sida kan äventyras">
 <!ENTITY identity.customRoot "Anslutning verifierad av en certifikatutgivare som inte känns igen av Mozilla.">
+
+<!ENTITY identity.evOwnerLabel "Webbplats som ägs av:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; har blockerat några osäkra komponenter på sidan.">
@@ -846,6 +857,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Rensa kakor och webbplatsdata…">
 
 <!ENTITY identity.permissions "Rättigheter">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "Rättigheter angivna">
 <!ENTITY identity.permissionsEmpty "Du har inte beviljat denna webbplats några särskilda rättigheter.">
 <!ENTITY identity.permissionsReloadHint "Du kan behöva ladda om sidan för att ändringarna ska verkställas.">
 <!ENTITY identity.permissionsPreferences.tooltip "Öppna behörighetsinställningar">
@@ -930,6 +944,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.notDetected "Inget blockerbart innehåll upptäckt på den här sidan.">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Trackers">
+
+<!ENTITY contentBlocking.trackingProtection4.label "Spårning av innehåll">
 
 <!ENTITY contentBlocking.manageSettings.label "Hantera innehållsblockering">
 <!ENTITY contentBlocking.manageSettings.accesskey "H">
