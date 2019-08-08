@@ -6,8 +6,15 @@ about-logins-page-title = Tembiapo ñepyrũ ha ñe’ẽñemi
 login-filter =
     .placeholder = Tembiapo ñepyrũ jeheka
 create-login-button = Tembiapo ñepyrũ moheñói
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Favicon { $title } peg̃uarã
 fxaccounts-sign-in-text = Egueru umi ne ñe’ẽñemi ne ambue mba’e’okágui
 fxaccounts-sign-in-button = Eñemboheraguapy { -sync-brand-short-name }-pe
+fxaccounts-avatar-button =
+    .title = Eñangareko mba’etére
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -36,6 +43,7 @@ login-list-count =
     }
 login-list-sort-label-text = Omoĩporã:
 login-list-name-option = Téra  (A-Z)
+login-list-breached-option = Ñanduti renda imarãmava
 login-list-last-changed-option = Ñemoambue ipyahuvéva
 login-list-last-used-option = Ojepurúva ipahaitépe
 login-list-intro-title = Ndojejuhúi jeikeha

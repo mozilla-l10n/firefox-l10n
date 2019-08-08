@@ -116,6 +116,7 @@ newtab-menu-open-file = Embojuruja marandurenda
 
 newtab-label-visited = Jeikepyre
 newtab-label-bookmarked = Oñeñongatuva'ekue techaukaháramo
+newtab-label-removed-bookmark = Techaukaha mboguepyre
 newtab-label-recommended = Ojehechajepíva
 newtab-label-saved = { -pocket-brand-name }-pe ñongatupyre
 newtab-label-download = Mboguejypyre
