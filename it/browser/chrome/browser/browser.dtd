@@ -637,6 +637,7 @@
 <!ENTITY contentBlocking.detected "Rilevati contenuti bloccabili in questo sito.">
 <!ENTITY contentBlocking.notDetected "Nessun contenuto bloccabile in questo sito.">
 <!ENTITY contentBlocking.trackingProtection3.label "Elementi traccianti">
+<!ENTITY contentBlocking.trackingProtection4.label "Contenuti traccianti">
 <!ENTITY contentBlocking.manageSettings.label "Gestisci blocco contenuti">
 <!ENTITY contentBlocking.manageSettings.accesskey "G">
 <!ENTITY contentBlocking.trackersView.label "Elementi traccianti">
