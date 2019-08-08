@@ -53,6 +53,8 @@
 <!ENTITY reloadImageCmd.accesskey     "გ">
 <!ENTITY viewImageCmd.label           "სურათის ნახვა">
 <!ENTITY viewImageCmd.accesskey       "ვ">
+<!ENTITY viewImageInfoCmd.label       "გამოსახულების მონაცემთა ჩვენება">
+<!ENTITY viewImageInfoCmd.accesskey   "ც">
 <!ENTITY viewVideoCmd.label           "ვიდეოს ნახვა">
 <!ENTITY viewVideoCmd.accesskey       "ვ">
 <!ENTITY viewBGImageCmd.label         "ფონური სურათის ნახვა">
