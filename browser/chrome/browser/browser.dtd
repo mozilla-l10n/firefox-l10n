@@ -146,12 +146,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Připojit další zařízení…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!ENTITY fxa.menu.signin.label "Přihlásit se k aplikaci &brandProductName;">
+<!ENTITY fxa.menu.turnOnSync.label "Zapnout &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "Účet">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.description "Sdílejte své soubory chráněné pomocí end-to-end šifrování a odkazů s omezenou platností.">
 <!ENTITY fxa.service.send.launch "Otevřít &sendShortName;">
+<!ENTITY fxa.service.monitor.description "Zkontrolujte, jestli vaše e-mailová adresa nebyla součástí nějakého úniku dat, a nechte se informovat, pokud se v nějakém objeví.">
 <!ENTITY fxa.service.monitor.launch "Otevřít &monitorShortName;">
+<!ENTITY fxa.service.sendTab.description "Pošle panel do jiného zařízení, na kterém jste přihlášeni.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -801,13 +806,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Spojení">
 <!ENTITY identity.connectionSecure "Zabezpečené spojení">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Bezpečnost spojení">
+
+<!ENTITY identity.connectionSecure2 "Spojení je zabezpečeno">
 <!ENTITY identity.connectionNotSecure "Spojení není zabezpečeno">
+<!ENTITY identity.connectionNotSecureSecurityView "Spojení s tímto serverem není zabezpečené.">
 <!ENTITY identity.connectionFile "Tato stránka je uložena ve vašem počítači.">
 <!ENTITY identity.connectionVerified2 "Spojení s tímto serverem je zabezpečené. Jeho provozovatelem je:">
+<!ENTITY identity.connectionVerified3 "Spojení s tímto serverem je zabezpečené.">
 <!ENTITY identity.connectionInternal "Toto je zabezpečená stránka aplikace &brandShortName;.">
 <!ENTITY identity.extensionPage "Tato stránka je načtena z doplňku.">
 <!ENTITY identity.insecureLoginForms2 "Přihlašovací údaje zadané na této stránce mohou být vyzrazeny.">
 <!ENTITY identity.customRoot "Připojení je ověřeno vydavatelem certifikátů, kterého Mozilla nezná.">
+
+<!ENTITY identity.evOwnerLabel "Provozovatel serveru:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "Aplikace &brandShortName; zablokovala nezabezpečené části této stránky.">
@@ -842,6 +857,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Vymazat cookies a data stránky…">
 
 <!ENTITY identity.permissions "Oprávnění">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "Oprávnění nastavena">
 <!ENTITY identity.permissionsEmpty "Tento server nemá žádná zvláštní oprávnění.">
 <!ENTITY identity.permissionsReloadHint "Pro provedení změn budete možná muset obnovit stránku.">
 <!ENTITY identity.permissionsPreferences.tooltip "Otevřít nastavení oprávnění">
@@ -926,6 +944,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.notDetected "Na této stránce nebyl nalezen žádný obsah k zablokování.">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Sledovací prvky">
+
+<!ENTITY contentBlocking.trackingProtection4.label "Sledující obsah">
 
 <!ENTITY contentBlocking.manageSettings.label "Nastavení blokování obsahu">
 <!ENTITY contentBlocking.manageSettings.accesskey "N">
