@@ -6,8 +6,15 @@ about-logins-page-title = Паролі
 login-filter =
     .placeholder = Шукати паролі
 create-login-button = Створити новий запис
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Favicon для { $title }
 fxaccounts-sign-in-text = Отримайте доступ до своїх паролів на інших пристроях
 fxaccounts-sign-in-button = Увійдіть в { -sync-brand-short-name(case: "acc") }
+fxaccounts-avatar-button =
+    .title = Керувати обліковим записом
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -37,6 +44,7 @@ login-list-count =
     }
 login-list-sort-label-text = Сортувати:
 login-list-name-option = Ім'я (A-Z)
+login-list-breached-option = Зламані веб-сайти
 login-list-last-changed-option = Змінено
 login-list-last-used-option = Використано
 login-list-intro-title = Паролів не знайдено
