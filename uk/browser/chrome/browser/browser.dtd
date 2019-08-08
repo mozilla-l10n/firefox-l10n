@@ -156,6 +156,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.service.send.launch "Запустити &sendShortName;">
 <!ENTITY fxa.service.monitor.description "Перевірте чи ваша адреса електронної пошти не з'явилася у витоках даних і отримуйте попередження про нові витоки.">
 <!ENTITY fxa.service.monitor.launch "Запустити &monitorShortName;">
+<!ENTITY fxa.service.sendTab.description "Миттєво надсилайте вкладку на будь-який пов'язаний пристрій.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -805,13 +806,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "З'єднання">
 <!ENTITY identity.connectionSecure "Захищене з'єднання">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Безпека з'єднання">
+
+<!ENTITY identity.connectionSecure2 "З'єднання безпечне">
 <!ENTITY identity.connectionNotSecure "Незахищене з'єднання">
+<!ENTITY identity.connectionNotSecureSecurityView "Ваше з'єднання з цим сайтом незахищене.">
 <!ENTITY identity.connectionFile "Ця сторінка збережена на вашому комп'ютері.">
 <!ENTITY identity.connectionVerified2 "Ви безпечно підключились до цього сайту, власником якого є:">
+<!ENTITY identity.connectionVerified3 "Ваше з'єднання з цим сайтом захищене.">
 <!ENTITY identity.connectionInternal "Це захищена сторінка &brandShortName;.">
 <!ENTITY identity.extensionPage "Ця сторінка завантажена з розширення.">
 <!ENTITY identity.insecureLoginForms2 "Паролі, введені на цій сторінці, можуть бути скомпрометовані.">
 <!ENTITY identity.customRoot "З'єднання засвідчене сертифікатом, видавець якого не розпізнається Mozilla.">
+
+<!ENTITY identity.evOwnerLabel "Власник сайту:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; заблокував небезпечні частини цієї сторінки.">
@@ -846,6 +857,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Стерти куки і дані сайтів…">
 
 <!ENTITY identity.permissions "Дозволи">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "Дозволи встановлено">
 <!ENTITY identity.permissionsEmpty "Ви не надали цьому сайту жодних спеціальних дозволів.">
 <!ENTITY identity.permissionsReloadHint "Для застосування змін, можливо, доведеться перезавантажити сторінку.">
 <!ENTITY identity.permissionsPreferences.tooltip "Відкрити налаштування дозволів">
@@ -930,6 +944,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.notDetected "На цій сторінці не виявлено вмісту для блокування.">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Стеження">
+
+<!ENTITY contentBlocking.trackingProtection4.label "Вміст стеження">
 
 <!ENTITY contentBlocking.manageSettings.label "Керувати блокуванням вмісту">
 <!ENTITY contentBlocking.manageSettings.accesskey "К">
