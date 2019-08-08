@@ -6,8 +6,15 @@ about-logins-page-title = Inloggningar & lösenord
 login-filter =
     .placeholder = Sök inloggningar
 create-login-button = Skapa ny inloggning
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Favicon för { $title }
 fxaccounts-sign-in-text = Få dina lösenord på dina andra enheter
 fxaccounts-sign-in-button = Logga in på { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = Hantera konto
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -36,6 +43,7 @@ login-list-count =
     }
 login-list-sort-label-text = Sortera efter:
 login-list-name-option = Namn (A-Ö)
+login-list-breached-option = Webbplatser med dataintrång
 login-list-last-changed-option = Senast ändrad
 login-list-last-used-option = Senast använd
 login-list-intro-title = Inga inloggningar hittades
