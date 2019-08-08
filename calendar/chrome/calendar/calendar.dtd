@@ -178,8 +178,6 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Närvaro">
 <!ENTITY calendar.context.attendance.menu.accesskey             "N">
 <!ENTITY calendar.context.attendance.occurrence.label           "Denna händelse">
-<!ENTITY calendar.context.attendance.all.label        "Alla händelser" >
-
 <!ENTITY calendar.context.attendance.all2.label                 "Komplett serie">
 <!ENTITY calendar.context.attendance.send.label                 "Skicka en avisering nu">
 <!ENTITY calendar.context.attendance.send.accesskey             "S">
@@ -316,7 +314,7 @@
 <!ENTITY calendar.tasks.view.minimonth.label           "Mini-månad">
 <!ENTITY calendar.tasks.view.minimonth.accesskey       "M">
 
-<!ENTITY calendar.tasks.view.calendarlist.label        "Kalender">
+<!ENTITY calendar.tasks.view.calendarlist.label        "Kalenderlista">
 <!ENTITY calendar.tasks.view.calendarlist.accesskey    "K">
 
 <!ENTITY calendar.tasks.view.filtertasks.label           "Sortera uppgifter">
