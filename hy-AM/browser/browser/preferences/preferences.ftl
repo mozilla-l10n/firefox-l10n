@@ -193,6 +193,11 @@ choose-language-description = Ընտրեք ձեր նախընտրելի լեզո�
 choose-button =
     .label = Ընտրել…
     .accesskey = տ
+manage-browser-languages-button =
+    .label = Կայել այլընտրանքներ...
+    .accesskey = l
+confirm-browser-language-change-description = Վերամեկնարկեք { -brand-short-name }-ը՝ փոփոխությունները գործադրելու համար
+confirm-browser-language-change-button = Գործադրել և վերամեկնարկել
 translate-web-pages =
     .label = Թարգմանել բովանդակությունը
     .accesskey = Թ
@@ -264,6 +269,15 @@ update-application-use-service =
 update-enable-search-update =
     .label = Ինքնաբար թարմացնել որոնիչները
     .accesskey = լ
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Անհնար է պահպանել նախապատվությունները: Հնարավոր չէ գրել ֆայլում. { $path }
+update-in-progress-title = Արդիացվում է
+update-in-progress-message = Ցանկանո՞ւմ եք,որ { -brand-short-name }-ը շարունակի այս արդիացմամբ:
+update-in-progress-ok-button = &Հրաժարվել
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Շարունակել
 
 ## General Section - Performance
 
@@ -303,9 +317,11 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Տեքստ մուտքագրելու դեպքում փնտրել այն
     .accesskey = ք
+browsing-cfr-recommendations-learn-more = Իմանալ ավելին
 
 ## General Section - Proxy
 
+network-settings-title = Ցանցի կարգավորումներ
 network-proxy-connection-description = Կազմաձևեք, թե ինչպես { -brand-short-name }-ը կապակցվի համացանցին:
 network-proxy-connection-learn-more = Իմանալ ավելին
 network-proxy-connection-settings =
@@ -351,10 +367,28 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-search-header =
+    .label = Վեբ որոնում
+home-prefs-topsites-header =
+    .label = Լավագույն կայքեր
+home-prefs-topsites-description = Ամենաշատ այցելած կայքեր
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Առաջարկվում է { $provider }
+home-prefs-recommended-by-learn-more = Ինչպես է դա աշխատում
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Հովանավորված կայքեր
+home-prefs-highlights-header =
+    .label = Գունանշումներ
+home-prefs-highlights-option-visited-pages =
+    .label = Այցելած էջեր
+home-prefs-highlights-options-bookmarks =
+    .label = Էջանիշեր
+home-prefs-highlights-option-most-recent-download =
+    .label = Ամենավերջին ներբեռնումը
+home-prefs-highlights-option-saved-to-pocket =
+    .label = { -pocket-brand-name }-ում պահված էջեր
 
 ## Search Section
 
@@ -602,6 +636,9 @@ addressbar-suggestions-settings = Փոխել որոնիչների նախապատ
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = Իմանալ ավելին
+content-blocking-setting-custom =
+    .label = Հարմարեցված
+    .accesskey = C
 content-blocking-learn-how = Սովորել, թե ինչպես
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
@@ -638,6 +675,9 @@ permissions-notification-link = Իմանալ ավելին
 permissions-notification-pause =
     .label = Դադարեցնել ծանուցումները մինչև { -brand-short-name }-ը վերամեկնարկելը
     .accesskey = n
+permissions-autoplay-settings =
+    .label = Կարգավորումներ...
+    .accesskey = t
 permissions-block-popups =
     .label = Կանխել Pop-up պատուհանները
     .accesskey = Կ
@@ -667,6 +707,7 @@ collection-health-report-link = Իմանալ ավելին
 collection-studies =
     .label = Թույլատրել { -brand-short-name }-ին տեղադրել և կատարել հետազոտություններ
 collection-studies-link = Դիտել { -brand-short-name }-ի հետազոտությունները
+addon-recommendations-link = Իմանալ ավելին
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Տվյալների զեկուցումը անջատված է կազմաձևի այս կառուցման համար
