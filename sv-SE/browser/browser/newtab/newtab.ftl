@@ -116,6 +116,7 @@ newtab-menu-open-file = Öppna fil
 
 newtab-label-visited = Besökta
 newtab-label-bookmarked = Bokmärkta
+newtab-label-removed-bookmark = Bokmärke har tagits bort
 newtab-label-recommended = Trend
 newtab-label-saved = Spara till { -pocket-brand-name }
 newtab-label-download = Hämtat
