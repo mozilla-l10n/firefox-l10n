@@ -6,8 +6,15 @@ about-logins-page-title = Logins & Passwords
 login-filter =
     .placeholder = Search Logins
 create-login-button = Create New Login
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Favicon for { $title }
 fxaccounts-sign-in-text = Get your passwords on your other devices
 fxaccounts-sign-in-button = Sign in to { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = Manage account
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -36,6 +43,7 @@ login-list-count =
     }
 login-list-sort-label-text = Sort by:
 login-list-name-option = Name (A-Z)
+login-list-breached-option = Breached Websites
 login-list-last-changed-option = Last Modified
 login-list-last-used-option = Last Used
 login-list-intro-title = No logins found
