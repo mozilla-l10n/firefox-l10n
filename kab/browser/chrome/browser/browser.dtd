@@ -862,6 +862,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Tividyutin">
 
 <!ENTITY protections.blocking.label "Asewḥel">
+<!ENTITY protections.notBlocking.why.label "Ayɣer?">
 
 
 
@@ -907,6 +908,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "Ineḍfaren">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Akken ad tesweḥleḍ akk ineḍfaren, sbadu asewḥel n ugbur ɣer “Uḥris”.">
 
+<!ENTITY contentBlocking.socialblock.label "Ineḍfaṛen n iẓeḍwa imettanen">
 
 <!ENTITY contentBlocking.cookies.label "Inagan n tuqqna">
 <!ENTITY contentBlocking.cookiesView.label "Inagan n tuqna akked isefka n usmel">
