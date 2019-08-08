@@ -138,13 +138,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label; 설정 열기…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "로그인 됨">
 <!ENTITY fxa.menu.manageAccount.label "계정 관리…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; 설정…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "다른 기기 연결…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!ENTITY fxa.menu.signin.label "&brandProductName;에 로그인">
+<!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; 켜기">
+<!ENTITY fxa.menu.account.label "계정">
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.description "종단 간 암호화와 자동 만료되는 링크로 파일을 업로드하고 공유하십시오.">
+<!ENTITY fxa.service.send.launch "&sendShortName; 시작">
+<!ENTITY fxa.service.monitor.description "데이터 유출 사건에 사용자의 이메일이 있는지를 확인하고 새 데이터 유출 사건에 있으면 사용자에게 알려 줍니다.">
+<!ENTITY fxa.service.monitor.launch "&monitorShortName; 시작">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -188,6 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "모든 탭 북마크 추가…">
+
 <!ENTITY showAllBookmarks2.label "모든 북마크 보기">
 <!ENTITY recentBookmarks.label "최근 북마크됨">
 <!ENTITY otherBookmarksCmd.label "다른 북마크">
@@ -310,6 +322,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "파일">
 <!ENTITY fileMenu.accesskey       "F">
+
 <!ENTITY newUserContext.label             "새 컨테이너 탭">
 <!ENTITY newUserContext.accesskey         "C">
 <!ENTITY manageUserContext.label          "컨테이너 관리">
@@ -359,6 +372,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "탐색창">
 <!ENTITY viewSidebarMenu.accesskey "e">
+
 <!ENTITY viewCustomizeToolbar.label       "사용자 지정…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 <!ENTITY overflowCustomizeToolbar.label       "도구 모음 사용자 지정…">
@@ -372,6 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "이전 세션 복원">
 
 <!ENTITY showAllHistoryCmd2.label "방문 기록 보기">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "방문 기록 보기">
@@ -592,9 +607,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "메일로 링크 보내기…">
 <!ENTITY emailPageCmd.accesskey       "E">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "다른 이름으로 저장…">
 <!ENTITY savePageCmd.accesskey        "A">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "프레임을 다른 이름으로 저장…">
@@ -699,22 +714,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "확대">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "축소">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "원래 크기">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "글자 크기만 조정">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
+
 <!ENTITY fullZoom.label                 "확대/축소">
 <!ENTITY fullZoom.accesskey             "Z">
 
@@ -732,6 +751,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "닫기">
+
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "C">
 
@@ -832,6 +852,49 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "콘텐츠 차단 설정 열기">
 
 
+<!ENTITY protections.etpON.header "이 사이트에 향상된 추적 방지 기능이 켜져 있습니다">
+<!ENTITY protections.etpOFF.header "이 사이트에 향상된 추적 방지 기능이 꺼져 있습니다">
+<!ENTITY protections.settings.label "보호 설정">
+<!ENTITY protections.report.label "전체 보고서 보기">
+<!-- LOCALIZATION NOTE:
+     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
+     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "사이트가 작동하지 않습니까?">
+<!ENTITY protections.siteNotWorkingView.title "사이트가 작동하지 않습니까?">
+<!-- LOCALIZATION NOTE:
+     In the Site Not Working? view, we suggest turning off protections if
+     the user is experiencing issues with any of a variety of functionality.
+     protections.siteNotWorkingView.header: The header of the list
+     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "다음과 관련된 문제가 있는 경우 보호 기능을 끕니다:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "로그인 필드">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "서식">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "결제">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "댓글">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "동영상">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "보호 기능을 끈 후에도 사이트가 여전히 깨집니까?">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "보고서 보내기">
+
+<!ENTITY protections.blocking.label "차단">
+<!ENTITY protections.notBlocking.label "차단하지 않음">
+<!ENTITY protections.notBlocking.why.label "왜?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "이들을 차단하면 일부 웹 사이트의 요소가 손상 될 수 있습니다. 추적기가 없으면 일부 버튼, 양식 및 로그인 필드가 작동하지 않을 수 있습니다.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "보호 기능을 끄면 이 사이트의 모든 추적기가 허용됩니다. 또한 일부 웹 사이트 기능을 향상시킬 수 있습니다.">
+<!ENTITY protections.socialMediaTrackers.label "소셜 미디어 추적기">
+<!ENTITY protections.crossSiteTrackingCookies.label "교차 사이트 추적 쿠키">
+<!ENTITY protections.trackingContent.label "추적 콘텐츠">
+<!ENTITY protections.fingerprinters.label "핑거프린터">
+<!ENTITY protections.cryptominers.label "크립토마이너">
+<!ENTITY protections.noTrackersFound.description "이 페이지에서 &brandShortName;에 알려진 추적기가 탐지되지 않았습니다.">
+
+<!ENTITY protections.crossSiteTrackingCookies.description "이러한 쿠키는 사용자가 온라인에서 수행하는 작업에 대한 데이터를 수집하기 위해 사이트 간에 사용자를 따라갑니다. 광고사나 분석 회사와 같은 제3자가 설정합니다.">
+<!ENTITY protections.cryptominers.description "크립토마이너는 디지털 화폐를 채굴하기 위해 시스템의 연산 능력을 사용합니다. 암호 해독 스크립트는 배터리를 소모하고 컴퓨터 속도를 저하시키며 에너지 요금을 증가시킬 수 있습니다.">
+<!ENTITY protections.fingerprinters.description "핑거프린터는 브라우저와 컴퓨터에서 설정을 수집하여 사용자의 프로필을 만듭니다. 이 디지털 지문을 사용하여 여러 웹 사이트에서 사용자를 추적할 수 있습니다.">
+<!ENTITY protections.trackingContent.description "웹 사이트에서 외부 광고, 동영상 및 기타 추적 코드가 포함된 콘텐츠를 로드 할 수 있습니다. 콘텐츠 추적을 차단하면 사이트를 더 빨리 로드 할 수 있지만 일부 버튼, 양식 및 로그인 필드가 작동하지 않을 수 있습니다.">
+<!ENTITY protections.socialMediaTrackers.description "소셜 네트워크는 다른 웹 사이트에 추적기를 배치하여 온라인에서 한 일이나 본 것, 재생한 것을 추적합니다. 이를 통해 소셜 미디어 회사들은 소셜 미디어 프로필에서 공유하는 것 이상의 자세한 정보를 얻을 수 있습니다.">
+
+<!ENTITY protections.manageProtectionSettings.label "보호 설정 관리">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "브라우저 탭">
@@ -845,6 +908,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label;에 로그인…">
 <!ENTITY syncSignIn.accesskey         "Y">
+
 <!ENTITY syncSyncNowItem.label        "동기화하기">
 <!ENTITY syncSyncNowItemSyncing.label "동기화 중…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
@@ -873,6 +937,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "추적기">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "모든 추적기를 차단하려면 콘텐츠 차단을 “엄격”으로 설정하세요.">
 
+<!ENTITY contentBlocking.socialblock.label "소셜 미디어 추적기">
+<!ENTITY contentBlocking.socialblockView.label "소셜 미디어 추적기 차단됨">
+<!ENTITY contentBlocking.socialblockView.description "소셜 네트워크는 다른 웹 사이트에 추적기를 배치하여 온라인에서 한 일이나 본 것, 재생한 것을 추적합니다. 이를 통해 소셜 미디어 회사들은 소셜 미디어 프로필에서 공유하는 것 이상의 자세한 정보를 얻을 수 있습니다.">
+
 <!ENTITY contentBlocking.cookies.label "쿠키">
 <!ENTITY contentBlocking.cookiesView.label "쿠키와 사이트 데이터">
 
@@ -886,8 +954,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "문제 보고">
 <!ENTITY contentBlocking.breakageReportView2.description "콘텐츠 차단기는 어떤 사이트에서 문제를 일으킬 수 있습니다. 문제를 보고하면 &brandShortName;가 더 좋아지는데 도움을 주게 됩니다. (브라우저 설정에 관한 정보와 함께 URL도 Mozilla에 전송됩니다.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "자세히 보기">
+<!ENTITY contentBlocking.breakageReportView.title "깨진 사이트 신고">
+<!ENTITY contentBlocking.breakageReportView3.description "특정 추적기를 차단하면 일부 웹 사이트에서 문제가 발생할 수 있습니다. 이러한 문제를 보고하면 모든 사람에게 더 나은 &brandShortName;를 제공하는데 도움이 됩니다. 이 보고서를 보내면 URL과 브라우저 설정에 대한 정보가 Mozilla로 전송됩니다.">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "더 알아보기">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "어떤 문제가 있었나요? (선택)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "선택 사항: 문제 설명">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "보고서 전송">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "취소">
 
