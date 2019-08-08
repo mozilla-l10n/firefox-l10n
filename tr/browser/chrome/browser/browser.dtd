@@ -800,13 +800,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Bağlantı">
 <!ENTITY identity.connectionSecure "Güvenli bağlantı">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Bağlantı Güvenliği">
+
+<!ENTITY identity.connectionSecure2 "Bağlantı güvenli">
 <!ENTITY identity.connectionNotSecure "Bağlantı güvenli değil">
+<!ENTITY identity.connectionNotSecureSecurityView "Bu siteye güvenli bir şekilde bağlanmadınız.">
 <!ENTITY identity.connectionFile "Bu sayfa bilgisayarınızda depolanıyor.">
 <!ENTITY identity.connectionVerified2 "Bu siteye güvenli bir şekilde bağlandınız. Site sahibi:">
+<!ENTITY identity.connectionVerified3 "Bu siteye güvenli bir şekilde bağlandınız.">
 <!ENTITY identity.connectionInternal "Burası güvenli bir &brandShortName; sayfasıdır.">
 <!ENTITY identity.extensionPage "Bu sayfa bir eklenti üzerinden yüklendi.">
 <!ENTITY identity.insecureLoginForms2 "Bu sayfaya girilen hesap bilgileri ele geçirilebilir.">
 <!ENTITY identity.customRoot "Bağlantı, Mozilla’nın tanımadığı bir sertifika yayıncısı tarafından doğrulandı.">
+
+<!ENTITY identity.evOwnerLabel "Site sahibi:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; bu sayfanın güvenli olmayan kısımlarını engelledi.">
@@ -841,6 +851,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Çerezleri ve site verilerini temizle…">
 
 <!ENTITY identity.permissions "İzinler">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "Ayarlanan izinler">
 <!ENTITY identity.permissionsEmpty "Bu siteye özel bir izin vermediniz.">
 <!ENTITY identity.permissionsReloadHint "Değişikliklerin uygulanması için bu sayfayı tazelemeniz gerekebilir.">
 <!ENTITY identity.permissionsPreferences.tooltip "İzin tercihlerini aç">
@@ -921,6 +934,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.notDetected "Bu sayfada engellenebilir içerik bulunamadı.">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Takipçiler">
+
 
 <!ENTITY contentBlocking.manageSettings.label "İçerik engellemeyi yönet">
 <!ENTITY contentBlocking.manageSettings.accesskey "e">

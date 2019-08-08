@@ -116,6 +116,7 @@ newtab-menu-open-file = Dosyayı aç
 
 newtab-label-visited = Ziyaret etmiştiniz
 newtab-label-bookmarked = Yer imlerinizde
+newtab-label-removed-bookmark = Yer imi silindi
 newtab-label-recommended = Popüler
 newtab-label-saved = { -pocket-brand-name }’a kaydedildi
 newtab-label-download = İndirildi
