@@ -800,6 +800,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "חיבור">
 <!ENTITY identity.connectionSecure "חיבור מאובטח">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "אבטחת החיבור">
+
+<!ENTITY identity.connectionSecure2 "החיבור מאובטח">
 <!ENTITY identity.connectionNotSecure "חיבור זה אינו מאובטח">
 <!ENTITY identity.connectionFile "העמוד הזה מאוחסן במחשב שלך.">
 <!ENTITY identity.connectionVerified2 "התחברת לאתר זה באופן מאובטח, בבעלות:">
@@ -807,6 +813,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "עמוד זה נטען מתוך הרחבה.">
 <!ENTITY identity.insecureLoginForms2 "פרטי ההתחברות המוזנים בעמוד זה עשויים להיות חשופים בפני גורמי צד שלישי.">
 <!ENTITY identity.customRoot "חיבור מאומת על ידי מנפיק אישורים שאינו מזוהה על־ידי Mozilla.">
+
+<!ENTITY identity.evOwnerLabel "האתר בבעלות:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; חסם חלקים שאינם בטוחים בדף זה.">
@@ -841,6 +849,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "ניקוי עוגיות ונתוני אתרים…">
 
 <!ENTITY identity.permissions "הרשאות">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissionsEmpty "לא סופקו לאתר זה הרשאות מיוחדות.">
 <!ENTITY identity.permissionsReloadHint "יתכן שיהיה עליך לרענן את העמוד כדי שהשינויים ייכנסו לתוקף.">
 <!ENTITY identity.permissionsPreferences.tooltip "פתיחת העדפות הרשאות">
@@ -851,6 +861,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "האתר לא עובד?">
+<!ENTITY protections.siteNotWorkingView.title "האתר לא עובד?">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
@@ -859,6 +871,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY protections.manageProtectionSettings.label "ניהול הגדרות הגנה">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -895,6 +908,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.notDetected "לא זוהה תוכן הניתן לחסימה בדף זה.">
 
 <!ENTITY contentBlocking.trackingProtection3.label "רכיבי מעקב">
+
 
 <!ENTITY contentBlocking.manageSettings.label "ניהול חסימת תוכן">
 <!ENTITY contentBlocking.manageSettings.accesskey "ס">
