@@ -55,12 +55,22 @@ login-item-copied-password-button-text = प्रत बनवली!
 login-item-save-changes-button = बदल जतन करा
 login-item-save-new-button = जतन करा
 login-item-cancel-button = रद्द करा
+login-item-time-changed = शेवटचा सुधार: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = बनवले: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = शेवटचा वापर: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
+master-password-notification-message = साठवलेले लॉगिन आणि संकेतशब्द बघायला तुमचा मास्टर संकेतशब्द टाका
+master-password-reload-button =
+    .label = लॉग इन
+    .accesskey = L
 
 ## Dialogs
 
+confirm-delete-dialog-title = लॉगिन मिटवायचे?
+confirm-delete-dialog-message = ही कृती बदलू शकत नाही
+confirm-delete-dialog-confirm-button = मिटवा
 
 ## Breach Alert notification
 
