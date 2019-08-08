@@ -83,8 +83,15 @@ onboarding-browse-privately-title = खाजगीरित्या ब्र�
 onboarding-browse-privately-button = खाजगी विंडो उघडा
 onboarding-firefox-send-title = आपल्या सामायिक केलेल्या फाईल खाजगी ठेवा
 onboarding-firefox-send-button = वापरा { -send-brand-name }
+onboarding-mobile-phone-title = आपल्या फोनवर { -brand-product-name } मिळवा
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = मोबाईल ब्राऊझर डाऊनलोड करा
+onboarding-send-tabs-title = स्वतःला टॅब त्वरित पाठवा
 onboarding-pocket-anywhere-title = वाचा आणि ऐका कुठेपण
 onboarding-pocket-anywhere-button = वापरा { -pocket-brand-name }
+onboarding-lockwise-passwords-button2 = अॅप मिळवा
+onboarding-facebook-container-button = एक्सटेंशन जोडा
 
 ## Message strings belonging to the Return to AMO flow
 

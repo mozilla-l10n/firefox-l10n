@@ -16,6 +16,7 @@ policy-BlockAboutAddons = अॅड-ऑन व्यवस्थापक (about
 policy-BlockAboutConfig = about:config पृष्ठावर प्रवेश अवरोधित करा.
 policy-BlockAboutProfiles = about:profiles पृष्ठावर प्रवेश अवरोधित करा.
 policy-BlockAboutSupport = about:support पृष्ठावर प्रवेश अवरोधित करा.
+policy-Bookmarks = वाचनखूण साधनपट्टी, वाचनखूण मेनू किंवा त्यांच्या आत निर्दिष्ट फोल्डरमध्ये वाचनखूण तयार करा.
 policy-CaptivePortal = कॅप्टिव पोर्टल सपोर्ट सक्षम किंवा अक्षम करा.
 policy-CertificatesDescription = प्रमाणपत्र जोडा किंवा अंगभूत प्रमाणपत्र वापरा.
 policy-Cookies = कुकीज सेट करण्यासाठी वेबसाइटना परवानगी द्या किंवा नकार द्या
