@@ -308,7 +308,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
-<!ENTITY addons.label                 "Mga Add-ons">
+<!ENTITY addons.label                 "Mga add-on">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
@@ -805,6 +805,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Koneksyon">
 <!ENTITY identity.connectionSecure "I-secure ang Koneksyon">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+
 <!ENTITY identity.connectionNotSecure "Hindi Sigurado ang Koneksyon">
 <!ENTITY identity.connectionFile "Ang pahinang ito ay naka-imbak sa iyong computer.">
 <!ENTITY identity.connectionVerified2 "Malayo kang konektado sa site na ito, na pag-aari ng:">
@@ -812,6 +816,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Ang pahinang ito ay nai-load mula sa isang extension.">
 <!ENTITY identity.insecureLoginForms2 "Ang mga pag-login na ipinasok sa pahinang ito ay maaaring makompromiso.">
 <!ENTITY identity.customRoot "Ang connection ay na-verify ng isang certificate issuer na hindi kinikilala ng Mozilla.">
+
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; Na-block ang mga bahagi ng pahinang ito na hindi ligtas.">
@@ -846,6 +851,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Burahin ang mga Cookies at Site Data…">
 
 <!ENTITY identity.permissions "Pahintulot">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissionsEmpty "Hindi mo ipinagkaloob ang site na ito anumang espesyal na pahintulot.">
 <!ENTITY identity.permissionsReloadHint "Maaaring kailangan mong i-reload ang pahina para mag-aplay ang mga pagbabago.">
 <!ENTITY identity.permissionsPreferences.tooltip "Open Permissions Preferences">
@@ -930,6 +937,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.notDetected "Walang natuklasang nilalaman na maaaring harangin sa site na ito.">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Mga tracker">
+
 
 <!ENTITY contentBlocking.manageSettings.label "I-manage ang Content Blocking">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
