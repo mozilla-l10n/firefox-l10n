@@ -154,6 +154,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      for the Firefox Account toolbar menu screen.  -->
 <!ENTITY fxa.service.send.description "Ga'nïnj nī duyinga' nej archibô ngà 'ngō sifradô xàn' chre huaa nī 'ngō enlasê nahuij man'an.">
 <!ENTITY fxa.service.send.launch "Sa rugui' nakà &sendShortName;">
+<!ENTITY fxa.service.monitor.description "Gini'iāj sisī nu gahui si korreôt riña 'ngō sa huā a'nan'an nī nahuin ra'a man nej nuguan' atāj sna'ānj sisī huā si giran' ñû man.">
+<!ENTITY fxa.service.monitor.launch "Sa rugui' nakà &monitorShortName;">
+<!ENTITY fxa.service.sendTab.description "Nda nanè chre ga'ue ga'nïnjt rakïj ñanj gan'an riña amin 'ngō man'an aga' gayi'ìt sesiûn.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -596,8 +599,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "Nanín sa'aj riña Pocket">
+<!ENTITY saveToPocketCmd.label        "Nannj sà' pâjina riña Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
+<!ENTITY saveLinkToPocketCmd.label    "Na'nïnj sà' link riña Pocket">
 <!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label         "Ni'iaj si listâ Pocket">
 
 <!ENTITY emailPageCmd.label           "Ga'ni' Link…">
 <!ENTITY emailPageCmd.accesskey       "E">
