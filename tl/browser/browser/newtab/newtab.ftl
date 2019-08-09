@@ -135,8 +135,8 @@ newtab-section-menu-manage-section = Pamahalaan ang Seksyon
 newtab-section-menu-manage-webext = Pamahalaan ang Ekstensyon
 newtab-section-menu-add-topsite = Magdagdag ng Nangungunang Site
 newtab-section-menu-add-search-engine = Magdagdag ng Search Engine
-newtab-section-menu-move-up = Ilipat Up
-newtab-section-menu-move-down = Ilipat sa Baba
+newtab-section-menu-move-up = Ilipat Pataas
+newtab-section-menu-move-down = Ilipat Pababa
 newtab-section-menu-privacy-notice = Paunawa sa Privacy
 
 ## Section aria-labels

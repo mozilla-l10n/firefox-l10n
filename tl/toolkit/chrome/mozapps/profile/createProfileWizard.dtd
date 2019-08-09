@@ -10,7 +10,7 @@
 <!ENTITY profileCreationExplanation_2.text  "Kung ikaw ay magbabahagi ng kopya ng &brandShortName; sa ibang mga gumagamit, maaari kang gumamit ng profile upang panatilihing hiwalay ang impormasyon ng bawat user. Upang gawin ito, ang bawat gumagamit ay dapat na lumikha ng kanyang sariling profile.">
 <!ENTITY profileCreationExplanation_3.text  "Kung ikaw ay ang tanging tao na gagamit ng kopya ng &brandShortName;, kailangan mong magkaroon ng hindi bababa sa isang profile. Kung nais mo, maaari kang lumikha ng maramihang mga profile para sa iyong sarili upang i-imbak ang mga iba't ibang mga hanay ng mga setting at kagustuhan. Halimbawa, maaaring gusto mong magkaroon ng hiwalay na mga profile para sa negosyo at personal na paggamit.">
 <!ENTITY profileCreationExplanation_4.text  "Upang simulan ang paglikha ng iyong propayl, i-click ang Susunod.">
-<!ENTITY profileCreationExplanation_4Mac.text  "Upang simulan ang paglikha ng iyong profile, i-click ang Magpatuloy.">
+<!ENTITY profileCreationExplanation_4Mac.text  "Para masimulan ang paglikha ng iyong profile, pindutin ang Magpatuloy.">
 <!ENTITY profileCreationExplanation_4Gnome.text  "Upang simulan ang paglikha ng iyong propayl, i-click ang Susunod.">
 
 <!-- Second wizard page -->

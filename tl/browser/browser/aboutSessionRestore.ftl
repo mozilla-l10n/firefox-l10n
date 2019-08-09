@@ -31,10 +31,10 @@ restore-page-close-button =
 
 welcome-back-tab-title = Tagumpay!
 welcome-back-page-title = Tagumpay!
-welcome-back-page-info = { -brand-short-name } ay nakahanda na.
+welcome-back-page-info = Ang { -brand-short-name } ay handa na.
 welcome-back-restore-button =
     .label = Tara!
-    .accesskey = L
+    .accesskey = T
 welcome-back-restore-all-label = I-restore ang lahat ng mga window & tab
-welcome-back-restore-some-label = I-restore ang mga gusto mo lang
+welcome-back-restore-some-label = I-restore lang ang mga gusto mo
 welcome-back-page-info-link = Ang iyong mga add-on at customization ay natanggal at ang mga browser setting mo ay naibalik sa default. Kapag hindi nito naayos ang issue, <a data-l10n-name="link-more">alamin kung ano pa ang maaari mong gawin.</a>
