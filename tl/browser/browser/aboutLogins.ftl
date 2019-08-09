@@ -6,8 +6,15 @@ about-logins-page-title = Mga Login at Password
 login-filter =
     .placeholder = Hanapin sa mga Login
 create-login-button = Gumawa ng Bagong Login
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Favicon para sa { $title }
 fxaccounts-sign-in-text = Kuhanin ang iyong mga password sa iba mong mga device
 fxaccounts-sign-in-button = Mag-sign in sa { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = I-manage ang account
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -36,6 +43,7 @@ login-list-count =
     }
 login-list-sort-label-text = Pagsunodsunurin ayon sa:
 login-list-name-option = Pangalan (A-Z)
+login-list-breached-option = Mga Nakompromisong Website
 login-list-last-changed-option = Huling Binago
 login-list-last-used-option = Huling Ginamit
 login-list-intro-title = Walang natagpuang mga login
@@ -73,6 +81,7 @@ login-item-password-reveal-checkbox-hide =
     .title = Itago ang password
 login-item-copy-password-button-text = Kopyahin
 login-item-copied-password-button-text = Nakopya na!
+login-item-save-changes-button = I-Save ang mga Pagbabago
 login-item-save-new-button = I-Save
 login-item-cancel-button = Ikansela
 login-item-time-changed = Huling binago: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }

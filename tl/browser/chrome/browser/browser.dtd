@@ -156,6 +156,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.service.send.launch "Ilunsad ang &sendShortName;">
 <!ENTITY fxa.service.monitor.description "Tingnan kung ang email mo ay natagpuan sa isang data breach at maalerto kung ito'y matatagpuan sa panibagong breach.">
 <!ENTITY fxa.service.monitor.launch "Ilunsad ang &monitorShortName;">
+<!ENTITY fxa.service.sendTab.description "Magpadala agad ng tab sa device na naka-sign in ka.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -817,6 +818,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Ang mga pag-login na ipinasok sa pahinang ito ay maaaring makompromiso.">
 <!ENTITY identity.customRoot "Ang connection ay na-verify ng isang certificate issuer na hindi kinikilala ng Mozilla.">
 
+<!ENTITY identity.evOwnerLabel "Ang site ay pagmamay-ari ni:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; Na-block ang mga bahagi ng pahinang ito na hindi ligtas.">
@@ -938,6 +940,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Mga tracker">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Mga Tracking Content">
 
 <!ENTITY contentBlocking.manageSettings.label "I-manage ang Content Blocking">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">

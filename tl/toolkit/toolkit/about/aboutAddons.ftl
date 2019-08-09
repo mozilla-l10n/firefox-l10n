@@ -245,14 +245,45 @@ shortcuts-modifier-other = Isama ang Ctrl o Alt
 
 ## Add-on actions
 
+extension-enabled-heading = Naka-enable
+extension-disabled-heading = Naka-disable
+theme-enabled-heading = Naka-enable
+theme-disabled-heading = Naka-disable
+plugin-enabled-heading = Naka-enable
+plugin-disabled-heading = Naka-disable
+dictionary-enabled-heading = Naka-enable
+dictionary-disabled-heading = Naka-disable
+locale-enabled-heading = Naka-enable
+locale-disabled-heading = Naka-disable
 ask-to-activate-button = Magtanong para i-activate
 always-activate-button = Palaging i-activate
 never-activate-button = Wag kailanman i-activate
+addon-detail-author-label = May-akda
 addon-detail-version-label = Bersyon
 addon-detail-rating-label = Grado
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = May gradong { NUMBER($rating, maximumFractionDigits: 1) } / 5
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (naka-disable)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } pagsisiyasat
+       *[other] { $numberOfReviews } pagsisiyasat
+    }
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = Natanggal na ang <span data-l10n-name="addon-name">{ $addon }</span>.
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = May pagkamalikhain? <a data-l10n-name="link">Bumuo ng sarili mong tema gamit ang Firefox Color.</a>
