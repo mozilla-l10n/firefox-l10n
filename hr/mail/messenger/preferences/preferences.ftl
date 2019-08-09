@@ -2,6 +2,34 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+pane-general-title = Općenito
+category-general =
+    .tooltiptext = { pane-general-title }
+general-language-and-appearance-header = Jezik i izgled
+general-incoming-mail-header = Dolazna pošta
+general-files-and-attachment-header = Datoteke i privici
+general-tags-header = Oznake
+general-reading-and-display-header = Čitanje i prikaz
+general-updates-header = Ažuriranja
+general-network-and-diskspace-header = Mreža i diskovni prostor
+general-indexing-label = Indeksiranje
+composition-category-header = Sastavljanje
+composition-attachments-header = Privici
+composition-spelling-title = Pravopis
+compose-html-style-title = HTML stil
+composition-addressing-header = Adresiranje
+privacy-main-header = Privatnost
+privacy-passwords-header = Lozinke
+privacy-junk-header = Neželjena pošta
+privacy-data-collection-header = Prikupljanje i uporaba podataka
+privacy-security-header = Sigurnost
+privacy-scam-detection-title = Otkrivanje prevara
+privacy-anti-virus-title = Antivirus
+privacy-certificates-title = Certifikati
+chat-pane-header = Razgovor
+chat-status-title = Status
+chat-notifications-title = Obavijesti
+chat-pane-styling-header = Stilsko oblikovanje
 choose-messenger-language-description = Odaberite jezike koji će se koristiti za prikaz izbornika, poruka i obavijesti u { -brand-short-name }.
 manage-messenger-languages-button =
     .label = Postavi alternative…
