@@ -6,8 +6,15 @@ about-logins-page-title = 我的账号和密码
 login-filter =
     .placeholder = 搜索登录信息
 create-login-button = 新建登录信息
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = { $title } - 网站图标
 fxaccounts-sign-in-text = 在您的其他设备上取得您的密码
 fxaccounts-sign-in-button = 登录 { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = 管理账户
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -35,6 +42,7 @@ login-list-count =
     }
 login-list-sort-label-text = 排序依照：
 login-list-name-option = 名称（A-Z）
+login-list-breached-option = 发生数据外泄的网站
 login-list-last-changed-option = 最后修改
 login-list-last-used-option = 上次使用
 login-list-intro-title = 未找到登录信息
