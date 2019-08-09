@@ -315,6 +315,7 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = Natanggal na ang <span data-l10n-name="addon-name">{ $addon }</span>.
+pending-uninstall-undo-button = I-undo
 addon-detail-updates-label = Payagan ang mga awtomatikong update
 addon-detail-updates-radio-default = Default
 addon-detail-updates-radio-on = Nakabukas
@@ -325,6 +326,11 @@ install-update-button = I-update
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Pinagpayagan sa mga private window
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Inirerekomenda
+    .alt = Inirerekomenda
 recent-updates-heading = Mga Update Kamakailan
 release-notes-loading = Nagloload...
 recommended-extensions-heading = Mga Inirerekomendang Extension
