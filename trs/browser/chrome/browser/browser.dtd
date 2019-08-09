@@ -809,14 +809,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label2)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Si seguridâ koneksiôn">
 
+<!ENTITY identity.connectionSecure2 "Huā seguridâ nikāj koneksiôn">
 <!ENTITY identity.connectionNotSecure "Nitaj si yitïnj hua coneksion na">
+<!ENTITY identity.connectionNotSecureSecurityView "Nitāj si huā hue'e seguridâ nikāj sitiô nan.">
 <!ENTITY identity.connectionFile "'Ngà nu sa' pajinâ na riña si aga't.">
 <!ENTITY identity.connectionVerified2 "Hua yitïnj sitio na, nikoj:">
+<!ENTITY identity.connectionVerified3 "Riña sitiô nan nī huā seguridâ.">
 <!ENTITY identity.connectionInternal "Nitaj si hua ahī pajina nikaj ñu'unj &brandShortName;">
 <!ENTITY identity.extensionPage "Asij a'ngo hij nachra pajinâ na.">
 <!ENTITY identity.insecureLoginForms2 "Nej sesion ayi'ì hiuna nī nitaj si yitïnj hua ma.">
+<!ENTITY identity.customRoot "'Ngō sa ri sertifikadô nitāj si nani'in Mozilla gini'iāj dàj 'iaj sun koneksiûn nan.">
 
+<!ENTITY identity.evOwnerLabel "Sa si'iaj sitiô nan huin:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; garán ma riña da'aj sa 'na' riña pajinâ na dadin' ahī hua ma.">
