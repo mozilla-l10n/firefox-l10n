@@ -93,6 +93,7 @@
 <!ENTITY fxa.menu.signin.label "Accedi a &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Attiva &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "Account">
+<!ENTITY fxa.menu.firefoxServices.label "Servizi di &brandProductName;">
 <!ENTITY fxa.service.send.description "Carica e condividi file con crittografia end-to-end e un link che scade automaticamente.">
 <!ENTITY fxa.service.send.launch "Apri &sendShortName;">
 <!ENTITY fxa.service.monitor.description "Controlla se la tua email è stata coinvolta in una violazione di dati e ricevi un avviso se compare in una nuova violazione.">
