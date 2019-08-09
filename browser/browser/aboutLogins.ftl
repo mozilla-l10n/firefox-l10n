@@ -54,6 +54,7 @@ login-list-item-subtitle-missing-username = (sin nombre de usuario)
 
 ## Introduction screen
 
+login-intro-heading = ¿Está buscando sus inicios de sesión guardados? Configure { -sync-brand-short-name }.
 
 ## Login
 
