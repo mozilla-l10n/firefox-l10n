@@ -712,14 +712,14 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "Palapitin">
+<!ENTITY fullZoomEnlargeCmd.label       "Palakihin">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label        "Palayuin">
+<!ENTITY fullZoomReduceCmd.label        "Paliitin">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
 
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
