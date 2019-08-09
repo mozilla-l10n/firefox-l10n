@@ -878,6 +878,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.notBlocking.label "არ იზღუდება">
 <!ENTITY protections.notBlocking.why.label "რატომ?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "ამ შეზღუდვების შედეგად, შესაძლოა საიტების ნაწილმა ვერ იმუშაოს გამართულად. მეთვალყურეების მოცილებისას, ზოგიერთი ღილაკი, ანგარიშებისა და სხვა შესავსები ველები, აღარ მოქმედებს ხოლმე.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "დაცვის გამორთვა დაუშვებს ყველა მეთვალყურეს ამ საიტზე. ამით, შესაძლოა გაუმჯობესდეს ვებგვერდის შესაძლებლობების ნაწილი.">
+<!ENTITY protections.crossSiteTrackingCookies.label "საიტთაშორისი მეთვალყურე ფუნთუშები">
 
 <!ENTITY protections.trackingContent.description "საიტები, ზოგჯერ გარე ბმულებიდან ტვირთავენ დამატებით რეკლამებს, ვიდეოებსა და სხვა მასალას, რომლებიც შეიცავს თვალყურის სადევნებელ კოდს. ამ შიგთავსის შეზღუდვით, მართალია საიტი უფრო სწრაფად ჩაიტვირთება, თუმცა ღილაკებმა, ანგარიშისა და სხვა შესავსებმა ველებმა, შეიძლება აღარ იმუშაოს.">
 
