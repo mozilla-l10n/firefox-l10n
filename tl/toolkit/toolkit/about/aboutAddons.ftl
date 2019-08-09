@@ -284,6 +284,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = Natanggal na ang <span data-l10n-name="addon-name">{ $addon }</span>.
+addon-detail-updates-radio-on = Nakabukas
+addon-detail-updates-radio-off = Nakasara
+addon-detail-update-check-label = Maghanap ng mga Update
+install-update-button = I-update
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = May pagkamalikhain? <a data-l10n-name="link">Bumuo ng sarili mong tema gamit ang Firefox Color.</a>
