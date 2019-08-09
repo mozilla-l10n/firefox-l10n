@@ -152,6 +152,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.launch "เรียกใช้ &sendShortName;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -801,6 +802,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "การเชื่อมต่อ">
 <!ENTITY identity.connectionSecure "การเชื่อมต่อปลอดภัย">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+
 <!ENTITY identity.connectionNotSecure "การเชื่อมต่อไม่ปลอดภัย">
 <!ENTITY identity.connectionFile "หน้านี้ถูกจัดเก็บไว้ในคอมพิวเตอร์ของคุณ">
 <!ENTITY identity.connectionVerified2 "คุณได้เชื่อมต่ออย่างปลอดภัยไปยังไซต์นี้ เจ้าของ:">
@@ -808,6 +813,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "หน้านี้ถูกโหลดจากส่วนขยาย">
 <!ENTITY identity.insecureLoginForms2 "การเข้าสู่ระบบที่ป้อนในหน้านี้อาจถูกบุกรุกได้">
 <!ENTITY identity.customRoot "การเชื่อมต่อถูกตรวจสอบโดยผู้ออกใบรับรองที่ Mozilla ไม่รู้จัก">
+
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ได้ปิดกั้นบางส่วนของหน้านี้ที่ไม่ปลอดภัย">
@@ -842,6 +848,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "ล้างคุกกี้และข้อมูลไซต์…">
 
 <!ENTITY identity.permissions "สิทธิอนุญาต">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissionsEmpty "คุณไม่ได้อนุญาตไซต์นี้ด้วยสิทธิอนุญาตพิเศษใด ๆ">
 <!ENTITY identity.permissionsReloadHint "คุณอาจจำเป็นต้องโหลดหน้าใหม่เพื่อให้การเปลี่ยนแปลงมีผล">
 <!ENTITY identity.permissionsPreferences.tooltip "เปิดค่ากำหนดสิทธิอนุญาต">
@@ -862,6 +870,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.videos "วิดีโอ">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "ส่งรายงาน">
 
+<!ENTITY protections.notBlocking.why.label "ทำไม?">
 
 
 
@@ -901,6 +910,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "ตัวติดตาม">
 
+
 <!ENTITY contentBlocking.manageSettings.label "จัดการการปิดกั้นเนื้อหา">
 <!ENTITY contentBlocking.manageSettings.accesskey "จ">
 
@@ -921,6 +931,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "รายงานปัญหา">
 <!ENTITY contentBlocking.breakageReportView2.description "การบล็อกเนื้อหาอาจทำให้เกิดปัญหากับบางเว็บไซต์ได้ เมื่อคุณรายงานปัญหา นั่นก็เท่ากับคุณช่วยทำให้ &brandShortName; ดีขึ้นสำหรับทุกๆ คน (การดำเนินการนี้จะส่ง URL พร้อมทั้งข้อมูลเกี่ยวกับการตั้งค่าเบราว์เซอร์ของคุณไปให้กับ Mozilla)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "เรียนรู้เพิ่มเติม">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "เรียนรู้เพิ่มเติม">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "คุณมีปัญหาอะไร? (ไม่จำเป็นต้องระบุ)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "ส่งรายงาน">
