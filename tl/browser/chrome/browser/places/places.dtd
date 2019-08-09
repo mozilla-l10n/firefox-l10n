@@ -27,10 +27,10 @@
 <!ENTITY view.sortDescending.label      "Z > A Sort Order">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY importBookmarksFromHTML.label     "I-import ang Bookmarks mula sa HTML…">
+<!ENTITY importBookmarksFromHTML.label     "Mag-import ng mga Bookmark galing sa HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       "I-export ang Bookmarks sa HTML...">
-<!ENTITY exportBookmarksToHTML.accesskey   "e">
+<!ENTITY exportBookmarksToHTML.label       "I-export ang mga Bookmark sa HTML...">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
 <!ENTITY importOtherBrowser.label          "I-import ang Data mula sa Ibang Browser...">
 <!ENTITY importOtherBrowser.accesskey      "a">
 
@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "New Separator">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
-<!ENTITY cmd.reloadLivebookmark.label      "I-load ang Live Bookmark muli">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "r">
-
-<!ENTITY cmd.moveBookmarks.label                  "Ilipat...">
-<!ENTITY cmd.moveBookmarks.accesskey              "I">
-
 <!ENTITY col.name.label          "Pangalan">
 <!ENTITY col.tags.label          "Mga Tag">
 <!ENTITY col.url.label           "Lokasyon">
 <!ENTITY col.mostrecentvisit.label "Pinakabagong Kamakailang Pagbisita">
 <!ENTITY col.visitcount.label    "Bilang ng Pagbisita">
-<!ENTITY col.description.label   "Paglalarawan">
 <!ENTITY col.dateadded.label     "Idinagdag">
 <!ENTITY col.lastmodified.label  "Huling Binago">
 
@@ -92,16 +85,12 @@
 
 <!ENTITY maintenance.label      "Import at Backup">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "I-import at i-backup ang inyong mga bookmark">
+<!ENTITY maintenance.tooltip    "I-import at i-backup ang iyong mga bookmark">
 
 <!ENTITY backButton.tooltip  "Bumalik">
 
 <!ENTITY forwardButton.tooltip  "Sulong">
 
-<!ENTITY detailsPane.more.label "More">
-<!ENTITY detailsPane.more.accesskey "e">
-<!ENTITY detailsPane.less.label "Less">
-<!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "Pumili ng item na titingnan at i-edit ang mga properties nito">
 
 <!ENTITY view.label               "I-view ">

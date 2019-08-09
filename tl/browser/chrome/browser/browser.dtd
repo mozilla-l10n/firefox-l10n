@@ -909,9 +909,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabsToolbar.label "Mga tab ng browser">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu3.label     "Mga Synced na Tab">
+<!ENTITY syncTabsMenu3.label     "Mga Naka-sync na Tab">
 
-<!ENTITY syncedTabs.sidebar.label              "Mga Synced na Tab">
+<!ENTITY syncedTabs.sidebar.label              "Mga Naka-sync na Tab">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 

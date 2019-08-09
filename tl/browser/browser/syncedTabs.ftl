@@ -2,11 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-synced-tabs-sidebar-title = Mga Synced na Tab
+synced-tabs-sidebar-title = Mga Naka-sync na Tab
 synced-tabs-sidebar-noclients-subtitle = Gusto mong makita ang iyong mga tab mula sa iba pang mga device dito?
 synced-tabs-sidebar-notsignedin = Mag sign-in para makita ang listahan ng mga tab galing sa iba mo pang devices.
 synced-tabs-sidebar-unverified = Ang iyong account ay kailangang ma-verify.
-synced-tabs-sidebar-notabs = Walang bukas na tabs
+synced-tabs-sidebar-notabs = Walang bukas na mga tab
 synced-tabs-sidebar-openprefs = Buksan ang { -sync-brand-short-name } na Preferences
 synced-tabs-sidebar-tabsnotsyncing = Paganahin ang tab syncing para makita ang listahan ng tabs na galing sa iba mo pang devices.
 synced-tabs-sidebar-connect-another-device = Ikonekta ang Isa pang Device
