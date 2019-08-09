@@ -115,7 +115,7 @@ newtab-menu-open-file = Buksan ang File
 ## the page is bookmarked, or is currently open on another device.
 
 newtab-label-visited = Binisita
-newtab-label-bookmarked = Bookmarked
+newtab-label-bookmarked = Naka-bookmark
 newtab-label-removed-bookmark = Natanggal na ang bookmark
 newtab-label-recommended = Nagte-trend
 newtab-label-saved = I-save sa { -pocket-brand-name }

@@ -190,13 +190,13 @@ menu-bookmarks-menu =
 menu-bookmarks-show-all =
     .label = Ipakita and Lahat na mga Bookmark
 menu-bookmarks-all-tabs =
-    .label = I-bookmark ang lahat ng mga tab…
+    .label = I-bookmark Lahat ng mga Tab…
 menu-bookmarks-toolbar =
     .label = Tingnan ang Bookmarks Toolbar
 menu-bookmarks-other =
-    .label = Iba pang Bookmarks
+    .label = Iba pang mga Bookmark
 menu-bookmarks-mobile =
-    .label = Mga Mobile bookmark
+    .label = Mga Mobile Bookmark
 
 ## Tools Menu
 

@@ -199,12 +199,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "i-Edit ang bookmark na ito">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY addCurPagesCmd.label "I-bookmark ang lahat ng mga tab…">
+<!ENTITY addCurPagesCmd.label "I-bookmark Lahat ng mga Tab…">
 
-<!ENTITY showAllBookmarks2.label "Ipakita and Lahat na mga Bookmark">
-<!ENTITY recentBookmarks.label "Mga nakaraan na Bookmarked">
-<!ENTITY otherBookmarksCmd.label "Iba pang Bookmarks">
-<!ENTITY mobileBookmarksCmd.label "Mga Mobile bookmark ">
+<!ENTITY showAllBookmarks2.label "Ipakita Lahat na mga Bookmark">
+<!ENTITY recentBookmarks.label "Mga Na-bookmark Kamakailan">
+<!ENTITY otherBookmarksCmd.label "Iba pang mga Bookmark">
+<!ENTITY mobileBookmarksCmd.label "Mga Mobile Bookmark">
 <!ENTITY bookmarksToolbarChevron.tooltip "Magpakita ng karagdagang mga bookmark">
 
 <!ENTITY backCmd.label                "Bumalik">
@@ -275,8 +275,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksSubview.label             "Mga bookmark">
-<!ENTITY bookmarksMenuButton2.label         "Mga Bookmark ng Menu">
-<!ENTITY bookmarksMenuButton.other.label    "Ibang pang Bookmark">
+<!ENTITY bookmarksMenuButton2.label         "Menu ng mga Bookmark">
+<!ENTITY bookmarksMenuButton.other.label    "Iba pang mga Bookmark">
 <!ENTITY bookmarksMenuButton.mobile.label   "Mga Mobile Bookmark">
 <!ENTITY viewBookmarksSidebar2.label        "Tingnan ang Bookmarks Sidebar">
 <!ENTITY hideBookmarksSidebar.label         "Itago ang Bookmark Sidebar">
@@ -284,7 +284,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideBookmarksToolbar.label         "Itago ang Bookmark Toolbar">
 <!ENTITY searchBookmarks.label              "Hanapin sa mga Bookmark">
 <!ENTITY bookmarkingTools.label             "Mga Tool sa Pag-bookmark">
-<!ENTITY addBookmarksMenu.label             "Magdagdag ng Mga Bookmark sa Menu sa Toolbar">
+<!ENTITY addBookmarksMenu.label             "Idagdag ang Bookmark Menu sa Toolbar">
 <!ENTITY removeBookmarksMenu.label          "Alisin ang Bookmarks Menu mula sa Toolbar">
 
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
@@ -589,7 +589,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "Gawing Background sa Desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "I-bookmark ang Page na ito">
+<!ENTITY bookmarkPageCmd2.label       "I-bookmark ang Pahinang Ito">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "I-bookmark ang Link na Ito">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
@@ -1042,7 +1042,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.shareUrl.label "Ibahagi">
 <!ENTITY pageAction.shareMore.label "Karagdagang detalye…">
 
-<!ENTITY libraryButton.tooltip "Tingnan ang kasaysayan, naka-save na mga bookmark, at higit pa">
+<!ENTITY libraryButton.tooltip "Tingnan ang kasaysayan, naka-save na mga bookmark, at iba pa">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also

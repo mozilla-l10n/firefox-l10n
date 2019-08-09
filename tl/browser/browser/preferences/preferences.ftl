@@ -382,7 +382,7 @@ use-current-pages =
         }
     .accesskey = G
 choose-bookmark =
-    .label = Gamitan ng Bookmark
+    .label = Gumamit ng Bookmark...
     .accesskey = B
 
 ## Home Section - Firefox Home Content Customization
@@ -470,7 +470,7 @@ search-keyword-warning-title = Nadobleng Keyword
 # Variables:
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Ginagamit ng “{ $name }” ang pinili mong keyword. Pumili nalang ng iba.
-search-keyword-warning-bookmark = Ginagamit ng isang bookmark ang keyword na pinili ninyo. Pumili ng iba.
+search-keyword-warning-bookmark = Ginagamit na ng isang bookmark ang keyword na pinili mo. Pumili ng iba pa.
 
 ## Containers Section
 

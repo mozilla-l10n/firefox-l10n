@@ -10,7 +10,7 @@
 title = Mahalagang Balita
 heading = Pagbabago sa iyong { -brand-short-name } profile
 changed-title = Ano ang nabago?
-changed-desc-profiles = Ang installation ng { -brand-short-name } ay may bagong profile. Ang profile ay ang pinagsamang mga files kung saan inilalagay ng Firefox ang mga impormasyong tulad ng mga bookmark, mga password, at mga kagustuhan ng gumagamit.
+changed-desc-profiles = Ang installation ng { -brand-short-name } ay may bagong profile. Ang isang profile ay ang pinagsama-samang mga file kung saan inilalagay ng Firefox ang mga impormasyon tulad ng mga bookmark, password, at mga kagustuhan ng gumagamit.
 changed-desc-dedicated = Upang mapadali at mas ligtas ang paglipat sa pagitan ng mga installation ng Firefox (kasama ang Firefox, Firefox ESR, Firefox beta, Firefox Developer Edition, at Firefox Nightly), ang installation na ito ay may nakatuong profile. Hindi ito agad nagbabahagi ng mga nakatagong impormasyon sa ibang installation.
 lost = <b>Hindi nawala ang iyong mga datos o mga customization.</b>Kung may na-save kang impormasyon sa Firefox sa computer na ito, makikita pa rin ito sa ibang installation ng Firefox.
 options-title = Ano ang pagpipilian?

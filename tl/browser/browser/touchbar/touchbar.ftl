@@ -11,7 +11,7 @@ home = Home
 fullscreen = Buong Screen
 find = Hanapin
 new-tab = Bagong tab
-add-bookmark = Mag add ng bookmark
+add-bookmark = Magdagdag ng bookmark
 open-bookmarks-sidebar = Buksan ang Bookmarks Sidebar
 reader-view = Reader View
 # Meant to match the string displayed in an empty URL bar.
