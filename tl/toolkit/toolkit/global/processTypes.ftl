@@ -12,6 +12,7 @@ process-type-privilegedabout = Privileged About
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = Privileged Mozilla Content
+process-type-extension = Extension
 # process used to open file:// URLs
 process-type-file = Lokal na File
 # process used to isolate webpages that requested special
