@@ -6,6 +6,6 @@ fxa-pair-device-dialog =
     .title = სხვა მოწყობილობასთან დაკავშირება
     .style = width: 26em; min-height: 35em;
 fxa-qrcode-heading-phase1 = 1. თუ უკვე არ გაქვთ, დააყენეთ <a data-l10n-name="connect-another-device">Firefox თქვენს მობილურ მოწყობილობაზე</a>.
-fxa-qrcode-heading-phase2 = 2. შემდეგ კი შედით { -sync-brand-short-name }-ანგარიშზე ან Android-ის წააკითხეთ მიერთების კოდი { -sync-brand-short-name }-ის პარამეტრებიდან.
+fxa-qrcode-heading-phase2 = 2. შემდეგ კი შედით { -sync-brand-short-name(case: "gen") } ანგარიშზე ან Android-ის წააკითხეთ მიერთების კოდი { -sync-brand-short-name(case: "gen") } პარამეტრებიდან.
 fxa-qrcode-error-title = მიერთება ვერ მოხერხდა.
 fxa-qrcode-error-body = ხელახლა ცდა.
