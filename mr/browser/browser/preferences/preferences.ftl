@@ -27,6 +27,7 @@ search-input-box =
             [windows] पर्यायांमध्ये शोधा
            *[other] प्राधान्यतांमध्ये शोधा
         }
+managed-notice = आपला ब्राउझर आपल्या संस्थेद्वारे व्यवस्थापित केला जात आहे.
 pane-general-title = सर्वसाधारण
 category-general =
     .tooltiptext = { pane-general-title }
@@ -122,6 +123,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = मागील सत्र पूर्वस्थितीत आणा
     .accesskey = s
+startup-restore-warn-on-quit =
+    .label = ब्राउझर सोडताना चेतावनी द्या
 disable-extension =
     .label = वाढीव कार्यक्रम निष्क्रिय करा
 tabs-group-header = टॅब्ज
@@ -308,6 +311,12 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = लिहीण्यास सुरूवात केल्यावर मजकुर शोधा
     .accesskey = x
+browsing-cfr-recommendations =
+    .label = आपण ब्राउझ करता तेव्हा विस्तारांची शिफारस करा
+    .accesskey = R
+browsing-cfr-features =
+    .label = आपण ब्राउझ करता तेव्हा वैशिष्ट्यांची शिफारस करा
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = अधिक जाणा
 
 ## General Section - Proxy
@@ -540,6 +549,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = जतन करा
     .accesskey = v
+sync-connect-another-device = अन्य उपकरण जोडा
+sync-manage-devices = उपकरणे व्यवस्थापित करा
 sync-fxa-begin-pairing = उपकरण संलग्न करा
 sync-tos-link = सेवा अटी
 sync-fxa-privacy-notice = गोपणीयता सूचना
@@ -670,8 +681,17 @@ content-blocking-setting-custom =
     .label = पसंतीचे
     .accesskey = C
 content-blocking-custom-desc = काय ब्लॉक करावे ते निवडा.
+content-blocking-private-trackers = केवळ खाजगी विंडोजमध्ये ज्ञात ट्रॅकर
+content-blocking-third-party-cookies = तृतीय-पक्ष ट्रॅकिंग कुकीज
 content-blocking-all-cookies = सर्व कुकीज
+content-blocking-unvisited-cookies = भेट न दिलेल्या साइटवरील कुकीज
+content-blocking-all-windows-trackers = सर्व विंडोमध्ये ज्ञात ट्रॅकर
+content-blocking-warning-title = सावधान!
 content-blocking-learn-how = कसे ते जाणा
+content-blocking-reload-description = हे बदल लागू करण्यासाठी आपले टॅब रीलोड करावे लागतील.
+content-blocking-reload-tabs-button =
+    .label = सर्व टॅब्ज पुन्हा लोड करा
+    .accesskey = R
 content-blocking-trackers-label =
     .label = ट्रॅकर
     .accesskey = T
@@ -685,6 +705,8 @@ content-blocking-tracking-protection-change-block-list = अवरोधित �
 content-blocking-cookies-label =
     .label = कुकीज
     .accesskey = C
+content-blocking-expand-section =
+    .tooltiptext = अधिक माहिती
 
 ## Privacy Section - Tracking
 
@@ -719,6 +741,9 @@ permissions-block-autoplay-media-exceptions =
     .label = अपवाद…
     .accesskey = E
 permissions-autoplay = ऑटोप्ले
+permissions-autoplay-settings =
+    .label = सेटिंग…
+    .accesskey = t
 permissions-block-popups =
     .label = पॉपअप पटल अडवा
     .accesskey = B
@@ -748,6 +773,8 @@ collection-health-report-link = अधिक जाणा
 collection-studies =
     .label = { -brand-short-name } ला studies प्रस्थापित करून चालवण्याची परवानगी द्या
 collection-studies-link = { -brand-short-name } studies पहा
+addon-recommendations =
+    .label = वैयक्तिकृत विस्ताराच्या शिफारसी करण्यासाठी { -brand-short-name } ला अनुमती द्या
 addon-recommendations-link = अधिक जाणा
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
@@ -818,3 +845,7 @@ space-alert-under-5gb-message = { -brand-short-name } ला डिस्क व
 desktop-folder-name = डेस्कटॉप
 downloads-folder-name = डाउनलोड
 choose-download-folder-title = डाउनलोड संचयिका(फोल्डर) निवडा:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = फाईल { $service-name } इथे साठवा

@@ -5,4 +5,5 @@
 fxa-pair-device-dialog =
     .title = अन्य उपकरण जोडा
     .style = width: 26em; min-height: 35em;
+fxa-qrcode-error-title = जोडणी अयशस्वी.
 fxa-qrcode-error-body = पुन्हा प्रयत्न करा.

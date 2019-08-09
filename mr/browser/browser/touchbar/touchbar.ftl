@@ -12,8 +12,10 @@ fullscreen = पूर्ण स्क्रीन
 find = शोधा
 new-tab = नवीन टॅब
 add-bookmark = वाचनखूण जोडा
+open-bookmarks-sidebar = बुकमार्क साइडबार उघडा
 reader-view = वाचक दृश्य
 # Meant to match the string displayed in an empty URL bar.
 open-location = शोधा किंवा पत्ता द्या
 share = शेअर करा
 close-window = पटल बंद करा
+open-sidebar = बाजूच्या पट्ट्या
