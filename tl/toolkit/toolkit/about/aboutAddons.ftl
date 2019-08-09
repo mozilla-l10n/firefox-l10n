@@ -236,6 +236,7 @@ shortcuts-input =
     .placeholder = Mag-type ng shortcut
 shortcuts-browserAction = I-activate ang extension
 shortcuts-pageAction = I-activate ang page action
+shortcuts-sidebarAction = I-toggle ang sidebar
 shortcuts-modifier-mac = Isama ang Ctrl, Alt, o ⌘
 shortcuts-modifier-other = Isama ang Ctrl o Alt
 
@@ -244,6 +245,10 @@ shortcuts-modifier-other = Isama ang Ctrl o Alt
 
 ## Add-on actions
 
+ask-to-activate-button = Magtanong para i-activate
+always-activate-button = Palaging i-activate
+never-activate-button = Wag kailanman i-activate
+addon-detail-version-label = Bersyon
 
 ## Pending uninstall message bar
 
