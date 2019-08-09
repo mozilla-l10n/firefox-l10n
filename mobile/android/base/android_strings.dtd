@@ -21,10 +21,15 @@
 <!ENTITY firstrun_data_message "Nas lugha de dhàta, caomhnadh nas motha">
 <!ENTITY firstrun_data_subtext2 "Cuir na dealbhan dheth is lughdaich na chaitheas tu de dhàta air na lìon.">
 <!ENTITY firstrun_sync_title "Sioncronachadh">
+<!ENTITY updatednewfirstrun_sync_title "Cunntas">
 <!ENTITY firstrun_sync_message2 "Lean ort far an do stad thu roimhe.">
 <!ENTITY firstrun_sync_subtext2 "Cleachd gleus an t-sioncronachaidh is faigh greim air na comharran-lìn, faclan-faire is rudan eile a shàbhail thu ann am &brandShortName; air feadh nan uidheaman agad.">
+<!ENTITY newfirstrun_sync_subtext "Sioncronaich na rudan a shàbhaileas tu air Firefox Mobile ris an desktop agad air dòigh phrìobhaideach is thèarainteach.">
+<!ENTITY updatednewfirstrun_sync_subtext "Clàraich a-steach dhan chunntas agad is cuir &brandShortName; gu làn-fheum">
 <!ENTITY firstrun_signin_message "Dèan ceangal, dèan toiseach-tòiseachaidh">
 <!ENTITY firstrun_signin_button "Clàraich a-steach gun t-sioncronachadh">
+<!ENTITY newfirstrun_signin_button "Cuir an sioncronachadh air">
+<!ENTITY updatednewfirstrun_signin_button "Clàraich a-steach gu &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Tòisich air brabhsadh">
 <!ENTITY firstrun_button_notnow "Chan ann an-dràsta">
 <!ENTITY firstrun_button_next "Air adhart">
@@ -64,6 +69,11 @@
 <!ENTITY  sending_crash_report "A’ cur aithisg an tuislidh\u2026">
 <!ENTITY  crash_close_label "Dùin">
 <!ENTITY  crash_restart_label "Ath-thòisich &brandShortName;">
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "Thuislich &brandShortName;">
+<!ENTITY  crash_notification_message "Thoir gnogag gus aithisg a chur gu &vendorShortName;">
+<!ENTITY  crash_notification_negative_button_text "Leig seachad">
 
 <!ENTITY url_bar_default_text2 "Lorg no cuir seòladh ann">
 
@@ -106,6 +116,9 @@
 <!ENTITY bookmark_folder_updated "Chaidh am pasgan ùrachadh">
 <!ENTITY bookmark_parent_folder "Pasgan pàraint">
 <!ENTITY bookmark_add_folder "Cuir pasgan ùr ris">
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(gun tiotal)">
 
 <!ENTITY reader_saved_offline "Air a shàbhaladh far loidhne">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -265,6 +278,7 @@
 <!ENTITY pref_cookies_menu "Briosgaidean">
 <!ENTITY pref_cookies_accept_all "An comas">
 <!ENTITY pref_cookies_not_accept_foreign "An comas, as aonais feadhainn o threas-phàrtaidh">
+<!ENTITY pref_cookies_not_accept_trackers "An comas, a’ dùnadh a-mach briosgaidean tracaidh">
 <!ENTITY pref_cookies_disabled "À comas">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -325,11 +339,6 @@
 
 <!ENTITY pref_pwa "Aplacaidean-lìn adhartach">
 <!ENTITY pref_pwa_summary "Gabhaidh aplacaidean-lìn a chur ris an sgrìn mhòr">
-
-<!ENTITY tracking_protection_prompt_title "Le dìon o thracadh a-nis">
-<!ENTITY tracking_protection_prompt_text "Dèan bacadh air eileamaidean tracaidh.">
-<!ENTITY tracking_protection_prompt_tip_text "Tadhail air na roghainnean prìobhaideachd airson barrachd fiosrachaidh">
-<!ENTITY tracking_protection_prompt_action_button "Tha mi agaibh a-nis!">
 
 <!ENTITY tab_queue_toast_message3 "Chaidh an taba a shàbhaladh ann am &brandShortName;">
 <!ENTITY tab_queue_toast_action "Fosgail an-dràsta">
@@ -416,7 +425,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Thoir gnogag air aplacaid a’ bhrabhsair ⁊ tagh &brandShortName;">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Tadhail air taic Mozilla">
 <!ENTITY pref_about_firefox "Mu &brandShortName;">
 <!ENTITY pref_vendor_faqs "CÀBHA">
 <!ENTITY pref_vendor_feedback "Dè do bheachd?">
@@ -588,6 +596,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "Facal-luirg">
 <!ENTITY bookmark_select_folder "Tagh pasgan">
 
+<!ENTITY bookmark_edit_undo "Neo-dhèan">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "Roghainnean na làraich">
@@ -675,7 +685,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Tagh fuaim no clàraich tè">
 <!ENTITY filepicker_image_title "Tagh dealbh no tog fear">
 <!ENTITY filepicker_video_title "Tagh video no clàraich fear">
-
+<!ENTITY filepicker_permission_denied "Cha deach na ceadan a tha a dhìth a thoirt seachad, a’ tilleadh gu roghnaichear nam faidhlichean aig an t-siostam.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Tha thu co-cheangailte ri">
@@ -915,6 +925,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Cuir ’na stad">
 <!ENTITY pip_pause_button_description "Cuir ’na stad">
 
+<!ENTITY pref_notification_settings_link "Stiùirich roghainnean nam brathan">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Brabhsair">
 <!ENTITY mls_notification_channel "Seirbheisean lorgadh &vendorShortName;">
@@ -927,3 +938,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Brathan na làraich">
+<!ENTITY crash_handler_notifications_channel "Aithrisiche nan tuislidhean aig &brandShortName;">
