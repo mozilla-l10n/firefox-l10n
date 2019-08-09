@@ -6,6 +6,15 @@ about-logins-page-title = Inicios de sesión y contraseñas
 login-filter =
     .placeholder = Motores de búsqueda
 create-login-button = Crear nuevo inicio de sesión
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Favicon para { $title }
+fxaccounts-sign-in-text = Obtenga sus contraseñas en sus otros dispositivos
+fxaccounts-sign-in-button = Inicie sesión en { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = Administrar cuenta
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -20,8 +29,8 @@ menu-menuitem-preferences =
     }
 menu-menuitem-feedback = Enviar opinión
 menu-menuitem-faq = Preguntas frecuentes
-menu-menuitem-download-android = Lockwise para Android
-menu-menuitem-download-iphone = Lockwise para iPhone e iPad
+menu-menuitem-android-app = { -lockwise-brand-short-name } para Android
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } para iPhone y iPad
 
 ## Login List
 
@@ -34,11 +43,17 @@ login-list-count =
     }
 login-list-sort-label-text = Ordenar por
 login-list-name-option = Nombre (A-Z)
+login-list-breached-option = Sitios web vulnerados
 login-list-last-changed-option = Última modificación
 login-list-last-used-option = Usado por última vez
+login-list-intro-title = No se encontraron inicios de sesión
+login-list-intro-description = Cuando guarde una contraseña en { -brand-product-name }, va aparecer aquí.
 login-list-item-title-new-login = Nuevo inicio de sesión
 login-list-item-subtitle-new-login = Ingrese sus credenciales de inicio de sesión
 login-list-item-subtitle-missing-username = (sin nombre de usuario)
+
+## Introduction screen
+
 
 ## Login
 
@@ -74,9 +89,12 @@ master-password-notification-message = Ingrese su contraseña maestra para ver l
 master-password-reload-button =
     .label = Ingresar
     .accesskey = L
+
+## Dialogs
+
 confirm-delete-dialog-title = ¿Borrar este inicio de sesión?
 confirm-delete-dialog-message = Esta acción no puede deshacerse.
-confirm-delete-dialog-dismiss-button =
-    .title = Cancelar
-confirm-delete-dialog-cancel-button = Cancelar
 confirm-delete-dialog-confirm-button = Eliminar
+
+## Breach Alert notification
+
