@@ -147,9 +147,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "Nutà' si yuguît riña &brandProductName;">
+<!ENTITY fxa.menu.turnOnSync.label "Nachrūn &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.account.label "Kuênta">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.description "Ga'nïnj nī duyinga' nej archibô ngà 'ngō sifradô xàn' chre huaa nī 'ngō enlasê nahuij man'an.">
+<!ENTITY fxa.service.send.launch "Sa rugui' nakà &sendShortName;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -795,12 +799,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Koneksiôn">
 <!ENTITY identity.connectionSecure "Konexiôn yitinj in">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+
 <!ENTITY identity.connectionNotSecure "Nitaj si yitïnj hua coneksion na">
 <!ENTITY identity.connectionFile "'Ngà nu sa' pajinâ na riña si aga't.">
 <!ENTITY identity.connectionVerified2 "Hua yitïnj sitio na, nikoj:">
 <!ENTITY identity.connectionInternal "Nitaj si hua ahī pajina nikaj ñu'unj &brandShortName;">
 <!ENTITY identity.extensionPage "Asij a'ngo hij nachra pajinâ na.">
 <!ENTITY identity.insecureLoginForms2 "Nej sesion ayi'ì hiuna nī nitaj si yitïnj hua ma.">
+
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; garán ma riña da'aj sa 'na' riña pajinâ na dadin' ahī hua ma.">
@@ -834,6 +843,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Nagi'iaj niñu' kookies nī si dato sitio...">
 
 <!ENTITY identity.permissions "Gachinj ni'iô'">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissionsEmpty "Nitaj si huaj gatut riña sitio na daj garan' ruat.">
 <!ENTITY identity.permissionsReloadHint "Nagi'iaj nakà ñut pajinâ na da' gi'iaj sun sa nadunat.">
 <!ENTITY identity.permissionsPreferences.tooltip "Na'nïn' sa achín ni'iaj">
@@ -885,6 +896,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.notDetected "Nū nari'ij kontenido arrán riña sitio na.">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Sa naga'naj">
+
 
 <!ENTITY contentBlocking.manageSettings.label "Ganikaj ñu'un sa arán riña kontenido">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
