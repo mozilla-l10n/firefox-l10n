@@ -239,12 +239,41 @@ shortcuts-pageAction = I-activate ang page action
 shortcuts-sidebarAction = I-toggle ang sidebar
 shortcuts-modifier-mac = Isama ang Ctrl, Alt, o ⌘
 shortcuts-modifier-other = Isama ang Ctrl o Alt
+go-back-button =
+    .tooltiptext = Bumalik
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro = Ang mga extension at tema ay parang mga app sa iyong browser, pwede kang makapagprotekta ng mga password, mag-download ng video, maghanap ng mga binebentang bagay, magharang ng mga nakakabwiset na ad, baguhin ang itsura ng browser mo, at iba pa. Ang mga maliliit na software na ito ay kadalasang ginagawa ng third party. Narito ang isang koleksyon na <a data-l10n-name="learn-more-trigger">minumungkahi</a> ng { -brand-product-name } para sa katangi-tanging seguridad, pagganap, at pag-andar.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations = Ang ilan sa mga mungkahing ito ay pasadya. Sila na binase sa ibang mga extension na ininstall mo, sa mga profile preference, at usage statistics.
+discopane-notice-learn-more = Alamin
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = ni <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Mga gumagamit: { $dailyUsers }
+install-extension-button = Idagdag sa { -brand-product-name }
+install-theme-button = I-install ang Tema
+find-more-addons = Maghanap pa ng ibang mga add-on
 
 ## Add-on actions
 
+report-addon-button = Isumbong
+remove-addon-button = Tanggalin
+disable-addon-button = I-disable
+enable-addon-button = I-enable
+expand-addon-button = Dagdag na mga Pagpipilian
+details-addon-button = Mga Detalye
+release-notes-addon-button = Mga Release Note
+permissions-addon-button = Mga Permiso
+addons-enabled-heading = Naka-enable
+addons-disabled-heading = Naka-disable
 extension-enabled-heading = Naka-enable
 extension-disabled-heading = Naka-disable
 theme-enabled-heading = Naka-enable
@@ -260,6 +289,8 @@ always-activate-button = Palaging i-activate
 never-activate-button = Wag kailanman i-activate
 addon-detail-author-label = May-akda
 addon-detail-version-label = Bersyon
+addon-detail-last-updated-label = Huling In-update
+addon-detail-homepage-label = Homepage
 addon-detail-rating-label = Grado
 # The average rating that the add-on has received.
 # Variables:
@@ -284,10 +315,20 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = Natanggal na ang <span data-l10n-name="addon-name">{ $addon }</span>.
+addon-detail-updates-label = Payagan ang mga awtomatikong update
+addon-detail-updates-radio-default = Default
 addon-detail-updates-radio-on = Nakabukas
 addon-detail-updates-radio-off = Nakasara
 addon-detail-update-check-label = Maghanap ng mga Update
 install-update-button = I-update
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Pinagpayagan sa mga private window
+recent-updates-heading = Mga Update Kamakailan
+release-notes-loading = Nagloload...
+recommended-extensions-heading = Mga Inirerekomendang Extension
+recommended-themes-heading = Mga Inirerekomendang Tema
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = May pagkamalikhain? <a data-l10n-name="link">Bumuo ng sarili mong tema gamit ang Firefox Color.</a>

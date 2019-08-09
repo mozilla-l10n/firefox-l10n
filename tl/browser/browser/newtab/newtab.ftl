@@ -116,6 +116,7 @@ newtab-menu-open-file = Buksan ang File
 
 newtab-label-visited = Binisita
 newtab-label-bookmarked = Bookmarked
+newtab-label-removed-bookmark = Natanggal na ang bookmark
 newtab-label-recommended = Nagte-trend
 newtab-label-saved = I-save sa { -pocket-brand-name }
 newtab-label-download = Nai-download na
