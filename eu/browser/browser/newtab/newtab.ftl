@@ -116,6 +116,7 @@ newtab-menu-open-file = Ireki fitxategia
 
 newtab-label-visited = Bisitatuta
 newtab-label-bookmarked = Laster-marka eginda
+newtab-label-removed-bookmark = Laster-marka kenduta
 newtab-label-recommended = Joerak
 newtab-label-saved = { -pocket-brand-name }-en gordeta
 newtab-label-download = Deskargatuta

@@ -146,10 +146,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Konektatu beste gailu bat…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!ENTITY fxa.menu.signin.label "Hasi saioa &brandProductName;(e)n">
 <!ENTITY fxa.menu.account.label "Kontua">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.launch "Abiarazi &sendShortName;">
+<!ENTITY fxa.service.monitor.launch "Abiarazi &monitorShortName;">
+<!ENTITY fxa.service.sendTab.description "Bidali fitxa bat berehala saioa hasita duzun edozein gailutara.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -799,13 +803,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Konexioa">
 <!ENTITY identity.connectionSecure "Konexio segurua">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Konexioaren segurtasuna">
+
+<!ENTITY identity.connectionSecure2 "Konexio segurua">
 <!ENTITY identity.connectionNotSecure "Konexioa ez da segurua">
+<!ENTITY identity.connectionNotSecureSecurityView "Ez zaude modu seguruan konektatuta gune honetara.">
 <!ENTITY identity.connectionFile "Orri hau zure ordenagailuan biltegiratuta dago.">
 <!ENTITY identity.connectionVerified2 "Modu seguruan zaude konektatuta gune honetara. Arduraduna:">
+<!ENTITY identity.connectionVerified3 "Modu seguruan zaude konektatuta gune honetara.">
 <!ENTITY identity.connectionInternal "&brandShortName; orri segurua da hau.">
 <!ENTITY identity.extensionPage "Orri hau gehigarri batetik kargatu da.">
 <!ENTITY identity.insecureLoginForms2 "Orri honetan sartutako saio-hasierak arriskuan egon litezke.">
 <!ENTITY identity.customRoot "Mozillak onetsi gabeko ziurtagiri-jaulkitzaile batek egiaztatu du konexioa.">
+
+<!ENTITY identity.evOwnerLabel "Gunearen jabea:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName;(e)k seguruak ez diren orri honetako zatiak blokeatu ditu.">
@@ -840,30 +854,47 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Garbitu cookieak eta guneetako datuak…">
 
 <!ENTITY identity.permissions "Baimenak">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissionsEmpty "Ez diozu gune honi baimen berezirik eman.">
 <!ENTITY identity.permissionsReloadHint "Agian orria berritu beharko duzu aldaketek eragina izan dezaten.">
 <!ENTITY identity.permissionsPreferences.tooltip "Ireki baimenen hobespenak">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Ireki edukia blokeatzeko hobespenak">
 
 
+<!ENTITY protections.settings.label "Babesaren ezarpenak">
+<!ENTITY protections.report.label "Erakutsi txosten osoa">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "Gunea ez dabil?">
+<!ENTITY protections.siteNotWorkingView.title "Gunea ez dabil?">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Desaktibatu babesak ondorengoekin arazoak badituzu:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Saio-hasierako eremuak">
 <!ENTITY protections.siteNotWorkingView.issueList.forms "Inprimakiak">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Ordainketak">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Iruzkinak">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Bideoak">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Gunea oraindik apurtuta dago babesak desaktibatu ondoren?">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Bidali txostena">
 
+<!ENTITY protections.blocking.label "Blokeatzen">
+<!ENTITY protections.notBlocking.label "Ez blokeatzen">
 <!ENTITY protections.notBlocking.why.label "Zergatik?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Hauek blokeatuz gero, zenbait webgunetako elementuak apur litezke. Jarraipen-elementurik gabe, baliteke zenbait botoi, inprimaki eta saio-hasiera eremu ez ibiltzea.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Babesak desaktibatuz gero, jarraipen-elementu guztiak onartuko dira gune honetan. Webgunearen zenbait eginbide hobe litzake halaber.">
+<!ENTITY protections.socialMediaTrackers.label "Sare sozialetako jarraipen-elementuak">
 <!ENTITY protections.fingerprinters.label "Hatz-marka bidezko jarraipena">
 <!ENTITY protections.cryptominers.label "Kriptomeatzariak">
+<!ENTITY protections.noTrackersFound.description "&brandShortName;(r)i ezagunak zaizkion jarraipen-elementurik ez da aurkitu orri honetan.">
 
 
+<!ENTITY protections.manageProtectionSettings.label "Kudeatu babesaren ezarpenak">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -901,12 +932,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Jarraipen-elementuak">
 
+
 <!ENTITY contentBlocking.manageSettings.label "Kudeatu edukia blokeatzea">
 <!ENTITY contentBlocking.manageSettings.accesskey "K">
 
 <!ENTITY contentBlocking.trackersView.label "Jarraipen-elementuak">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Jarraipen-elementu guztiak blokeatzeko, ezarri eduki-blokeo zorrotza.">
 
+<!ENTITY contentBlocking.socialblock.label "Sare sozialetako jarraipen-elementuak">
 
 <!ENTITY contentBlocking.cookies.label "Cookieak">
 <!ENTITY contentBlocking.cookiesView.label "Cookieak eta guneetako datuak">
@@ -924,6 +957,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Argibide gehiago">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URLa">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Zein arazo izan dituzu? (Aukerakoa)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Aukerakoa: azaldu arazoa">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Bidali txostena">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Utzi">
 

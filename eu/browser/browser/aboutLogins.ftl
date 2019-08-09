@@ -6,6 +6,8 @@ about-logins-page-title = Saio-hasierak eta pasahitzak
 login-filter =
     .placeholder = Bilatu saio-hasierak
 create-login-button = Sortu saio-hasiera berria
+fxaccounts-avatar-button =
+    .title = Kudeatu kontua
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -39,11 +41,13 @@ login-list-last-used-option = Azkenekoz erabilia
 login-list-intro-title = Ez da saio-hasierarik aurkitu
 login-list-intro-description = { -brand-product-name }(e)n pasahitza gordetzean, hemen agertuko da.
 login-list-item-title-new-login = Saio-hasiera berria
+login-list-item-subtitle-new-login = Idatzi zure saio-hasierako kredentzialak
 login-list-item-subtitle-missing-username = (erabiltzaile-izenik ez)
 
 ## Introduction screen
 
 login-intro-heading = Gordetako saio-hasieren bila? Konfiguratu { -sync-brand-short-name }.
+login-intro-description = Saio-hasierarik gorde baduzu beste gailu bateko { -brand-product-name }(e)n, jarraian dituzu hauek hemen eskuratzeko urratsak:
 
 ## Login
 
