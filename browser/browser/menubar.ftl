@@ -49,6 +49,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = छपाई करा…
     .accesskey = P
+menu-file-import-from-another-browser =
+    .label = इतर ब्राउझरपासून आयात करा…
+    .accesskey = I
 menu-file-go-offline =
     .label = ऑफलाईन काम करा
     .accesskey = k
@@ -150,7 +153,7 @@ menu-view-full-screen =
     .label = पडदाभर
     .accesskey = F
 
-##
+
 
 menu-view-show-all-tabs =
     .label = सर्व ट्रॅक दाखवा

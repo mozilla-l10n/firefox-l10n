@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = शिफारस केलेले विस्तार
+cfr-doorhanger-pintab-heading = हे करून पहा: पिन टॅब
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = मला हे का दिसत आहे
 cfr-doorhanger-extension-cancel-button = आत्ता नाही
@@ -46,11 +47,20 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step2 = मेनूमधून <b>पिन टॅब</b> निवडा.
 cfr-doorhanger-pintab-animation-pause = स्तब्ध करा
 cfr-doorhanger-pintab-animation-resume = पुन्हा सुरू करा
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-header = आपले बुकमार्क कुठेही सिंक करा.
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = बंद करा बटण
     .title = बंद करा
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = नवीन काय आहे
+    .tooltiptext = नवीन काय आहे
+cfr-whatsnew-panel-header = नवीन काय आहे

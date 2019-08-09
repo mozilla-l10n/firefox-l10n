@@ -47,6 +47,9 @@ newtab-topsites-add-button = समाविष्ट करा
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = आपल्या इतिहासामधून या पृष्ठातील प्रत्येक उदाहरण खात्रीने हटवू इच्छिता?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = ही क्रिया पूर्ववत केली जाऊ शकत नाही.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = वाचनखुण
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = डाउनलोड दुव्याची प्रत बनवा
 newtab-menu-go-to-download-page = डाउनलोड पृष्ठावर जा
 newtab-menu-remove-download = इतिहासातून काढून टाका
@@ -109,11 +116,16 @@ newtab-menu-open-file = फाइल उघडा
 
 newtab-label-visited = भेट दिलेले
 newtab-label-bookmarked = वाचनखुण लावले
+newtab-label-removed-bookmark = वाचनखूण काढली
 newtab-label-recommended = प्रचलित
 newtab-label-saved = { -pocket-brand-name } मध्ये जतन झाले
 newtab-label-download = डाउनलोड केलेले
 
 ## Section Menu: These strings are displayed in the section context menu and are 
+## meant as a call to action for the given section.
+
+
+## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = विभाग काढा
@@ -126,6 +138,13 @@ newtab-section-menu-add-search-engine = शोध इंजीन जोडा
 newtab-section-menu-move-up = वर जा
 newtab-section-menu-move-down = खाली जा
 newtab-section-menu-privacy-notice = गोपनीयता सूचना
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = विभाग संकुचित करा
+newtab-section-expand-section-label =
+    .aria-label = विभाग विस्तृत करा
 
 ## Section Headers.
 
@@ -142,6 +161,14 @@ newtab-empty-section-highlights = ब्राउझिंग सुरू क�
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = तुम्ही सर्व बघितले. { $provider } कडून आणखी महत्वाच्या गोष्टी बघण्यासाठी नंतर परत तपासा. प्रतीक्षा करू शकत नाही? वेबवरील छान गोष्टी शोधण्यासाठी लोकप्रिय विषय निवडा.
+
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-content = अधिक कथांसाठी नंतर पुन्हा तपासा.
+newtab-discovery-empty-section-topstories-try-again-button = पुन्हा प्रयत्न करा
+newtab-discovery-empty-section-topstories-loading = लोड करत आहे…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = अरेरे! आम्ही हा विभाग जवळजवळ लोड केला आहे, परंतु बर्‍यापैकी नाही.
 
 ## Pocket Content Section.
 

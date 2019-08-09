@@ -6,6 +6,9 @@ about-logins-page-title = लॉगिन व संकेतशब्द
 login-filter =
     .placeholder = लॉगिन शोधा
 create-login-button = नविन लॉगिन बनवा
+fxaccounts-sign-in-button = { -sync-brand-short-name } मध्ये साइन इन करा
+fxaccounts-avatar-button =
+    .title = खाते व्यवस्थापित करा
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -18,12 +21,23 @@ menu-menuitem-preferences =
     }
 menu-menuitem-feedback = अभिप्राय पाठवा
 menu-menuitem-faq = वारंवार विचारलेले प्रश्न
+menu-menuitem-android-app = { -lockwise-brand-short-name } Android साठी
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } iPhone and iPad साठी
 
 ## Login List
 
+login-list =
+    .aria-label = शोध क्वेरीशी जुळणारे लॉगिन
+login-list-count =
+    { $count ->
+        [one] { $count } लॉगिन
+       *[other] { $count } लॉगिन्स
+    }
+login-list-sort-label-text = यानुसार क्रमवारी लावा:
 login-list-name-option = नाव (A-Z)
 login-list-last-changed-option = शेवटचा बदल
 login-list-last-used-option = शेवटचा वापर
+login-list-intro-title = कुठलेही लॉगिन सापडले नाही
 login-list-item-title-new-login = नविन लॉगीन
 login-list-item-subtitle-new-login = तुमचे लॉगीन संकेतशब्द टाका
 login-list-item-subtitle-missing-username = (कुठलेही वापरकर्तानाव नाही)
@@ -68,9 +82,14 @@ master-password-reload-button =
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = रद्द करा
+confirmation-dialog-dismiss-button =
+    .title = रद्द करा
 confirm-delete-dialog-title = लॉगिन मिटवायचे?
 confirm-delete-dialog-message = ही कृती बदलू शकत नाही
 confirm-delete-dialog-confirm-button = मिटवा
+confirm-discard-changes-dialog-confirm-button = रद्द करा
 
 ## Breach Alert notification
 
+breach-alert-link = या उल्लंघनाबद्दल अधिक जाणून घ्या.
