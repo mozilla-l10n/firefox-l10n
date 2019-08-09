@@ -146,10 +146,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Een ander apparaat verbinden…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!ENTITY fxa.menu.signin.label "Aanmelden bij &brandProductName;">
+<!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; inschakelen">
 <!ENTITY fxa.menu.account.label "Account">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.launch "&sendShortName; starten">
+<!ENTITY fxa.service.monitor.launch "&monitorShortName; starten">
+<!ENTITY fxa.service.sendTab.description "Stuur een tabblad direct naar elk apparaat waarop u bent aangemeld.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -799,13 +804,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Verbinding">
 <!ENTITY identity.connectionSecure "Beveiligde verbinding">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Verbindingsbeveiliging">
+
+<!ENTITY identity.connectionSecure2 "Verbinding veilig">
 <!ENTITY identity.connectionNotSecure "Verbinding is niet beveiligd">
+<!ENTITY identity.connectionNotSecureSecurityView "U hebt een onbeveiligde verbinding met deze website.">
 <!ENTITY identity.connectionFile "Deze pagina is op uw computer opgeslagen.">
 <!ENTITY identity.connectionVerified2 "U hebt een beveiligde verbinding met deze website, welke wordt beheerd door:">
+<!ENTITY identity.connectionVerified3 "U hebt een beveiligde verbinding met deze website.">
 <!ENTITY identity.connectionInternal "Dit is een beveiligde &brandShortName;-pagina.">
 <!ENTITY identity.extensionPage "Deze pagina is geladen vanuit een extensie.">
 <!ENTITY identity.insecureLoginForms2 "Ingevoerde aanmeldingen op deze pagina zouden kunnen worden onderschept.">
 <!ENTITY identity.customRoot "Verbinding geverifieerd door een certificaatuitgever die niet door Mozilla wordt herkend.">
+
+<!ENTITY identity.evOwnerLabel "Website beheerd door:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; heeft onderdelen van deze pagina die niet zijn beveiligd geblokkeerd.">
@@ -840,6 +855,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Cookies en websitegegevens wissen…">
 
 <!ENTITY identity.permissions "Toestemmingen">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissionsEmpty "U hebt deze website geen speciale toestemmingen gegeven.">
 <!ENTITY identity.permissionsReloadHint "Mogelijk dient u de pagina te vernieuwen om wijzigingen van kracht te laten worden.">
 <!ENTITY identity.permissionsPreferences.tooltip "Voorkeuren voor toestemmingen openen">
@@ -858,7 +875,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Betalingen">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Opmerkingen">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Video’s">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Rapport verzenden">
 
+<!ENTITY protections.blocking.label "Geblokkeerd">
+<!ENTITY protections.notBlocking.label "Niet geblokkeerd">
 <!ENTITY protections.notBlocking.why.label "Waarom?">
 <!ENTITY protections.fingerprinters.label "Fingerprinters">
 <!ENTITY protections.cryptominers.label "Cryptominers">
@@ -900,6 +920,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.notDetected "Geen blokkeerbare inhoud op deze pagina gedetecteerd.">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Trackers">
+
 
 <!ENTITY contentBlocking.manageSettings.label "Inhoudsblokkering beheren">
 <!ENTITY contentBlocking.manageSettings.accesskey "b">

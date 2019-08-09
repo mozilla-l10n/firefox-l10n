@@ -116,6 +116,7 @@ newtab-menu-open-file = Bestand openen
 
 newtab-label-visited = Bezocht
 newtab-label-bookmarked = Bladwijzer gemaakt
+newtab-label-removed-bookmark = Bladwijzer verwijderd
 newtab-label-recommended = Trending
 newtab-label-saved = Opgeslagen naar { -pocket-brand-name }
 newtab-label-download = Gedownload

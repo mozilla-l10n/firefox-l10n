@@ -6,8 +6,15 @@ about-logins-page-title = Aanmeldingen & Wachtwoorden
 login-filter =
     .placeholder = Aanmeldingen zoeken
 create-login-button = Nieuwe aanmelding maken
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Favicon voor { $title }
 fxaccounts-sign-in-text = Breng uw wachtwoorden naar uw andere apparaten
 fxaccounts-sign-in-button = Meld u aan bij { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = Account beheren
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -36,6 +43,7 @@ login-list-count =
     }
 login-list-sort-label-text = Sorteren op:
 login-list-name-option = Naam (A-Z)
+login-list-breached-option = Websites met datalekken
 login-list-last-changed-option = Laatst gewijzigd
 login-list-last-used-option = Laatst gebruikt
 login-list-intro-title = Geen aanmeldingen gevonden
@@ -46,6 +54,7 @@ login-list-item-subtitle-missing-username = (geen gebruikersnaam)
 
 ## Introduction screen
 
+login-intro-heading = Op zoek naar uw opgeslagen aanmeldingen? Stel { -sync-brand-short-name } in.
 
 ## Login
 
