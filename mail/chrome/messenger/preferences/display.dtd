@@ -21,12 +21,12 @@
 <!ENTITY quotedTextColor.accesskey        "B">
 <!ENTITY displayWidth.label               "Poruke s običnim tekstom">
 <!ENTITY displayText.label                "Kod prikaza citiranih poruka s običnim tekstom:">
-<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "Grafički prikaži smješke">
 <!ENTITY convertEmoticons.accesskey    "r">
-<!-- labels -->
 
+<!-- labels -->
 <!ENTITY displayTagsText.label     "Oznake se mogu koristiti za kategoriziranje i određivanje prioriteta vaših poruka.">
 <!ENTITY newTagButton.label        "Nova…">
 <!ENTITY newTagButton.accesskey    "N">
@@ -34,8 +34,8 @@
 <!ENTITY editTagButton1.accesskey  "e">
 <!ENTITY removeTagButton.label     "Obriši">
 <!ENTITY removeTagButton.accesskey "O">
-<!-- Fonts and Colors -->
 
+<!-- Fonts and Colors -->
 <!ENTITY fontsAndColors1.label   "Fontovi i boje">
 <!ENTITY defaultFont.label       "Zadani font:">
 <!ENTITY defaultFont.accesskey   "d">
@@ -45,10 +45,11 @@
 <!ENTITY fontOptions.label       "Napredno…">
 <!ENTITY colorButton.label       "Boje…">
 <!ENTITY colorButton.accesskey   "B">
-<!-- Advanced -->
 
+<!-- Advanced -->
 <!ENTITY reading.caption                  "Čitanje">
 <!ENTITY display.caption                  "Prikaz">
+<!ENTITY displayName.label                "Ime za prikaz:">
 <!ENTITY showCondensedAddresses.label     "Prikaži samo ime za prikaz osoba iz mojeg adresara">
 <!ENTITY showCondensedAddresses.accesskey "P">
 

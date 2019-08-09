@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Mail Content -->
 
+<!-- Mail Content -->
 <!ENTITY captionMailContent.label "Sadržaj poruke">
 
 <!ENTITY acceptRemoteContent.label "Dozvoli vanjski sadržaj u porukama">
@@ -10,8 +10,8 @@
 <!ENTITY remoteContentExceptions.label "Izuzeci…">
 <!ENTITY remoteContentExceptions.accesskey "z">
 <!ENTITY acceptRemoteContentInfo.label "Saznajte više o problemima oko privatnosti kod vanjskog sadržaja">
-<!-- Web Content -->
 
+<!-- Web Content -->
 <!ENTITY captionWebContent.label "Web sadržaj">
 
 <!ENTITY keepHistory.label "Zapamti web stranice i poveznice koje sam posjetio">
@@ -36,3 +36,7 @@
 <!ENTITY dntTrackingNotOkay.label2 "Obavijesti stranice da me ne prate">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
 <!ENTITY doNotTrackInfo.label "Saznajte više o Ne prati me">
+
+<!ENTITY doNotTrackCheck.label "Šalji “Ne prati me” signal web stranicama (stranice ga ne moraju poštivati)">
+<!ENTITY doNotTrackCheck.accesskey "N">
+<!ENTITY doNotTrackLearnMore.label "Saznajte više">

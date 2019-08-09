@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "Z">
 <!ENTITY folderPaneBar.label "Alatna traka okna mapa">
 <!ENTITY folderPaneBar.accesskey "o">
-<!ENTITY folderModeSelector.label "Prikazi mapa">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sortiraj prema">
@@ -587,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Pohrani odabranu poruku">
 <!ENTITY archiveButton.tooltip "Arhiviraj odabrane poruke">
 <!ENTITY openConversationButton.tooltip "Prikaži razgovor odabrane poruke">
+<!ENTITY openMsgConversationButton.tooltip "Prikaži razgovor odabrane poruke">
 <!ENTITY nextButton.tooltip "Idi na sljedeću nepročitanu poruku">
 <!ENTITY nextMsgButton.tooltip "Idi na sljedeću poruku">
 <!ENTITY previousButton.tooltip "Idi na prethodnu nepročitanu poruku">
@@ -605,7 +605,6 @@
 <!ENTITY tagButton.tooltip "Označi poruke">
 <!ENTITY compactButton.tooltip "Ukloni obrisane poruke iz odabrane mape">
 <!ENTITY appmenuButton1.tooltip "Otvori &brandShortName; izbornik">
-
 <!ENTITY addonsButton.tooltip "Upravljajte svojim dodacima">
 
 <!-- Toolbar Button Popup -->

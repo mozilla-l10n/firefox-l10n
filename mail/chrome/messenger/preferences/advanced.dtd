@@ -122,3 +122,8 @@
 <!ENTITY manageCertificates.accesskey "m">
 <!ENTITY viewSecurityDevices.label "Sigurnosni uređaji">
 <!ENTITY viewSecurityDevices.accesskey "S">
+
+<!ENTITY manageCertificates2.label "Upravljanje certifikatima…">
+<!ENTITY manageCertificates2.accesskey "U">
+<!ENTITY viewSecurityDevices2.label "Sigurnosni uređaji…">
+<!ENTITY viewSecurityDevices2.accesskey "S">
