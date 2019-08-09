@@ -874,7 +874,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "დაცვის გამორთვის შემდეგაც დაზიანებულია საიტი?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "მოგვახსენეთ">
 
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "ამ შეზღუდვების შედეგად, შესაძლოა საიტების ნაწილმა ვერ იმუშაოს გამართულად. მეთვალყურეების მოცილებისას, ზოგიერთი ღილაკი, ანგარიშებისა და სხვა შესავსები ველები, აღარ მოქმედებს ხოლმე.">
 
+<!ENTITY protections.trackingContent.description "საიტები, ზოგჯერ გარე ბმულებიდან ტვირთავენ დამატებით რეკლამებს, ვიდეოებსა და სხვა მასალას, რომლებიც შეიცავს თვალყურის სადევნებელ კოდს. ამ შიგთავსის შეზღუდვით, მართალია საიტი უფრო სწრაფად ჩაიტვირთება, თუმცა ღილაკებმა, ანგარიშისა და სხვა შესავსებმა ველებმა, შეიძლება აღარ იმუშაოს.">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
