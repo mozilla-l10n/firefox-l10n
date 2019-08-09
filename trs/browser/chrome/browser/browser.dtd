@@ -841,6 +841,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Antaj si &brandShortName; garán riña da'aj sa ma na sani nū gè sa yi'ì riña pajinâ na (daj run' ñadu'ua).">
 <!ENTITY identity.description.activeLoaded "Nitaj si yitïnj hua sa ma riña pajinâ web na (daj run' skripts) nī nitaj si yitïnj hua riña ma.">
 <!ENTITY identity.description.activeLoaded2 "Nej nuguan' a'nínt riña sitio na nī ga'ue gini'iaj a'ngo dugui' (Daj run' da'ngà huìi, tarjeta yikín, etc.).">
+<!ENTITY identity.description.customRoot "Nu nani'in Mozilla sa giri sertifikadô nan. Sa ga'nïn si sistemât huin asi sa ga'nïn 'ngō administrador huin.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Nachrun' sa dugumî ñù'">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
