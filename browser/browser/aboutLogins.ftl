@@ -58,6 +58,7 @@ login-intro-heading = Op zoek naar uw opgeslagen aanmeldingen? Stel { -sync-bran
 
 ## Login
 
+login-item-new-login-title = Nieuwe aanmelding maken
 login-item-edit-button = Bewerken
 login-item-delete-button = Verwijderen
 login-item-origin-label = Websiteadres
@@ -95,9 +96,21 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Annuleren
 confirmation-dialog-dismiss-button =
     .title = Annuleren
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] { -sync-brand-short-name }-opties bekijken
+           *[other] { -sync-brand-short-name }-voorkeuren bekijken
+        }
+    .accesskey = b
 confirm-delete-dialog-title = Deze aanmelding verwijderen?
 confirm-delete-dialog-message = Deze actie kan niet ongedaan worden gemaakt.
 confirm-delete-dialog-confirm-button = Verwijderen
+confirm-discard-changes-dialog-title = Deze wijzigingen verwerpen?
+confirm-discard-changes-dialog-message = Alle niet-opgeslagen wijzigingen gaan verloren.
+confirm-discard-changes-dialog-confirm-button = Verwerpen
 
 ## Breach Alert notification
 
+breach-alert-text = Wachtwoorden uit deze website zijn gelekt of gestolen sinds u voor het laatst uw inloggegevens hebt bijgewerkt. Wijzig uw wachtwoord om uw account te beschermen.
+breach-alert-link = Meer info over dit datalek
