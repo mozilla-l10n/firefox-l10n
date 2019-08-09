@@ -61,12 +61,54 @@ login-intro-instruction-faq = Besøk { -lockwise-brand-short-name } <a data-l10n
 
 login-item-edit-button = Rediger
 login-item-delete-button = Slett
+login-item-origin-label = Nettadresse
+login-item-origin =
+    .placeholder = https://www.example.com
+login-item-open-site-button = Åpne
+login-item-username-label = Brukernavn
+login-item-username =
+    .placeholder = name@example.com
+login-item-copy-username-button-text = Kopier
+login-item-copied-username-button-text = Kopiert!
+login-item-password-label = Passord
+login-item-password-reveal-checkbox-show =
+    .title = Vis passord
+login-item-password-reveal-checkbox-hide =
+    .title = Skjul passord
+login-item-copy-password-button-text = Kopier
+login-item-copied-password-button-text = Kopiert!
+login-item-save-changes-button = Lagre endringer
+login-item-save-new-button = Lagre
+login-item-cancel-button = Avbryt
+login-item-time-changed = Sist endret: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Opprettet: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Sist brukt: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
+master-password-notification-message = Skriv inn hovedpassordet ditt for å vise lagrede innlogginger og passord
+master-password-reload-button =
+    .label = Logg inn
+    .accesskey = L
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Avbryt
+confirmation-dialog-dismiss-button =
+    .title = Avbryt
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Gå til { -sync-brand-short-name }-innstillinger
+           *[other] Gå til { -sync-brand-short-name }-innstillinger
+        }
+    .accesskey = G
+confirm-delete-dialog-title = Slett denne innloggingen?
+confirm-delete-dialog-message = Denne handlingen kan ikke angres.
+confirm-delete-dialog-confirm-button = Slett
+confirm-discard-changes-dialog-title = Vil du forkaste endringer som ikke er lagret?
+confirm-discard-changes-dialog-message = Alle ikke-lagrede endringer vil gå tapt.
+confirm-discard-changes-dialog-confirm-button = Forkast
 
 ## Breach Alert notification
 
