@@ -156,6 +156,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.service.send.launch "Embojuruja &sendShortName;">
 <!ENTITY fxa.service.monitor.description "Ehechajey ne ñanduti veve oĩpa mba’ekuaarã imarãva ha eñeñatói hag̃ua oikéramo marã pyahu.">
 <!ENTITY fxa.service.monitor.launch "Embojuruja &monitorShortName;">
+<!ENTITY fxa.service.sendTab.description "Emondo tendayke oimeraẽva mba’e’oka emoñepyrũ haguépe tembiapo.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -812,6 +813,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure2 "Eike tekorosãme">
 <!ENTITY identity.connectionNotSecure "Jeikekatu'ỹre">
+<!ENTITY identity.connectionNotSecureSecurityView "Nde jeike nahekorosãi ko tendápe.">
 <!ENTITY identity.connectionFile "Ko kuatiarogue oñeñongatu mohendahápe.">
 <!ENTITY identity.connectionVerified2 "Eikhína tekorosãme ko tendápe, mba'eteépe:">
 <!ENTITY identity.connectionVerified3 "Eikehína tekorosãme ko tendápe.">
