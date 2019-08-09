@@ -6,3 +6,6 @@
 <!ENTITY  paneAlarms.title        "Caismeachdan">
 <!ENTITY  paneCategories.title    "Roinntean">
 <!ENTITY  paneViews.title         "Seallaidhean">
+<!ENTITY  panelHeader.title       "Am mìosachan">
+<!ENTITY  panelReminder.title     "Cuimhneachain">
+<!ENTITY  panelCatecory.title     "Roinnean-seòrsa">
