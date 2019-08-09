@@ -41,6 +41,7 @@ policy-EnableTrackingProtection = Omogući i onemogući blokiranje sadržaja i o
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Instaliraj, ukloni ili zaključaj dodatke. Mogućnost instalacije uzima URL-ove ili putanje kao parametre. Mogućnosti ukloni ili zaključaj uzima ID dodatka.
+policy-ExtensionSettings = Upravljajte svim aspektima instalacije dodataka.
 policy-ExtensionUpdate = Omogući ili onemogući automatsko ažuriranje dodataka.
 policy-HardwareAcceleration = Ukoliko je postavljeno na netočno, isključuje hardversko ubrzanje.
 policy-InstallAddonsPermission = Dopusti određenim stranicama za instaliraju dodatke.
