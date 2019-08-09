@@ -6,8 +6,15 @@ about-logins-page-title = Prisijungimai ir slaptažodžiai
 login-filter =
     .placeholder = Ieškoti prisijungimų
 create-login-button = Sukurti naują prisijungimą
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = „{ $title }“ svetainės piktograma
 fxaccounts-sign-in-text = Turėkite savo slaptažodžius ir kituose įrenginiuose
 fxaccounts-sign-in-button = Prisijungti prie „{ -sync-brand-short-name }“
+fxaccounts-avatar-button =
+    .title = Tvarkyti paskyrą
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -37,6 +44,7 @@ login-list-count =
     }
 login-list-sort-label-text = Rikiuoti pagal:
 login-list-name-option = Pavadinimas (A-Z)
+login-list-breached-option = Pažeistos svetainės
 login-list-last-changed-option = Atnaujinimo laikas
 login-list-last-used-option = Paskiausias naudojimo laikas
 login-list-intro-title = Prisijungimų nerasta

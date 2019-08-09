@@ -116,6 +116,7 @@ newtab-menu-open-file = Atverti failą
 
 newtab-label-visited = Lankytasi
 newtab-label-bookmarked = Iš adresyno
+newtab-label-removed-bookmark = Adresyno įrašas pašalintas
 newtab-label-recommended = Populiaru
 newtab-label-saved = Įrašyta į „{ -pocket-brand-name }“
 newtab-label-download = Atsiųsta

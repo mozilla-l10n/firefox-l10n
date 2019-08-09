@@ -156,6 +156,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.service.send.launch "Paleisti „&sendShortName;“">
 <!ENTITY fxa.service.monitor.description "Pasitikrinkite, ar jūsų el. paštas yra patekęs tarp nutekėjusių duomenų, ir gaukite pranešimą, jeigu taip įvyks ateityje.">
 <!ENTITY fxa.service.monitor.launch "Paleisti „&monitorShortName;“">
+<!ENTITY fxa.service.sendTab.description "Akimirksniu persiųskite kortelę į bet kurį susietą įrenginį.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -805,13 +806,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Ryšys">
 <!ENTITY identity.connectionSecure "Saugus ryšys">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Ryšio saugumas">
+
+<!ENTITY identity.connectionSecure2 "Ryšys saugus">
 <!ENTITY identity.connectionNotSecure "Ryšys nėra saugus">
+<!ENTITY identity.connectionNotSecureSecurityView "Nesate saugiai prisijungę prie šios svetainės.">
 <!ENTITY identity.connectionFile "Šis tinklalapis yra įrašytas jūsų kompiuteryje.">
 <!ENTITY identity.connectionVerified2 "Esate saugiai prisijungę prie šios svetainės, kurią valdo:">
+<!ENTITY identity.connectionVerified3 "Esate saugiai prisijungę prie šios svetainės.">
 <!ENTITY identity.connectionInternal "Tai yra saugus „&brandShortName;“ tinklalapis.">
 <!ENTITY identity.extensionPage "Šis tinklalapis yra įkeltas iš priedo.">
 <!ENTITY identity.insecureLoginForms2 "Šiame tinklalapyje įvesti prisijungimo duomenys gali būti perimti.">
 <!ENTITY identity.customRoot "Ryšį patvirtino liudijimo išdavėjas, kurio „Mozilla“ neatpažino.">
+
+<!ENTITY identity.evOwnerLabel "Svetainė priklauso:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "„&brandShortName;“ užblokavo nesaugias šio tinklalapio dalis.">
@@ -846,6 +857,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Valyti slapukus ir svetainių duomenis…">
 
 <!ENTITY identity.permissions "Leidimai">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "Svetainės leidimai">
 <!ENTITY identity.permissionsEmpty "Šiai svetainei nesate suteikę jokių ypatingų leidimų.">
 <!ENTITY identity.permissionsReloadHint "Kad būtų pritaikyti pakeitimai, tinklalapį galimai reikia atsiųsti iš naujo.">
 <!ENTITY identity.permissionsPreferences.tooltip "Atverti leidimų nuostatas">
@@ -930,6 +944,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.notDetected "Tinklalapyje neaptikta blokuojamo turinio.">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Stebėjimo elementai">
+
+<!ENTITY contentBlocking.trackingProtection4.label "Stebėjimo turinys">
 
 <!ENTITY contentBlocking.manageSettings.label "Tvarkyti turinio blokavimą">
 <!ENTITY contentBlocking.manageSettings.accesskey "T">
