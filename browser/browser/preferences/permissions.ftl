@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = बदल जतन करा
     .accesskey = S
+permissions-autoplay-menu = सर्व वेबसाइटसाठी डीफॉल्टः
 permissions-searchbox =
     .placeholder = वेबसाईट शोधा
+permissions-capabilities-autoplay-allow =
+    .label = ऑडिओ आणि व्हिडिओला अनुमती द्या
+permissions-capabilities-autoplay-block =
+    .label = ऑडिओ अवरोधित करा
+permissions-capabilities-autoplay-blockall =
+    .label = ऑडिओ आणि व्हिडिओ अवरोधित करा
 permissions-capabilities-allow =
     .label = परवानगी द्या
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = परवानगी द्या
 permissions-capabilities-listitem-block =
     .value = अडवा
-permissions-capabilities-listitem-allow-first-party =
-    .value = फक्त पहिल्या पार्टिला परवानगी द्या
 permissions-capabilities-listitem-allow-session =
     .value = कार्यकाळापूरती परवानगी द्या
 
@@ -93,6 +98,12 @@ permissions-exceptions-autoplay-media-window2 =
     .title = अपवाद - ऑटप्ले
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = कुठल्या संकेतस्थाळांना स्वायत्तपणे ध्वनीसह मीडिया चालवू द्यायचा हे आपण निश्चित करू शकता. त्याकरता हव्या असलेल्या स्थळाचा पत्ता लिहा व आडवा किंवा परवानगी आहे वर क्लिक करा.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = सेटिंग - ऑटोप्ले
+    .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 

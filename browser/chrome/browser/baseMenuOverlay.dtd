@@ -28,9 +28,6 @@
 <!ENTITY helpSafeMode.stop.label       "ॲड-ऑन्स् सक्रीय असल्यावर पुनः सुरू करा">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 
-<!ENTITY healthReport2.label      "&brandShorterName; हेल्थ रिपोर्ट">
-<!ENTITY healthReport2.accesskey  "e">
-
 <!ENTITY helpTroubleshootingInfo.label      "त्रुटीनिवारण माहिती">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
@@ -52,3 +49,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "सर्व दर्शवा">
+
+<!ENTITY touchBarCmdMac.label           "टच बार सानुकूलित करा…">
