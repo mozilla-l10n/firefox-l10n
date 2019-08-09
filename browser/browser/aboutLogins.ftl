@@ -5,7 +5,7 @@
 about-logins-page-title = ანგარიშები და პაროლები
 login-filter =
     .placeholder = ანგარიშების ძიება
-create-login-button = ანგარიშის ახალი მონაცემები
+create-login-button = ანგარიშის მონაცემების შეყვანა
 # This string is used as alternative text for favicon images.
 # Variables:
 #   $title (String) - The title of the website associated with the favicon.
@@ -30,12 +30,30 @@ menu-menuitem-preferences =
 menu-menuitem-feedback = გამოხმაურება
 menu-menuitem-faq = ხშირად დასმული კითხვები
 menu-menuitem-android-app = { -lockwise-brand-short-name } Android-ისთვის
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } iPhone-ისა და iPad-ისთვის
 
 ## Login List
 
+login-list-count =
+    { $count ->
+        [one] { $count } ანგარიშის მონაცემი
+       *[other] { $count } ანგარიშის მონაცემი
+    }
+login-list-sort-label-text = დალაგება:
+login-list-name-option = ანბანურად
+login-list-breached-option = მიტაცების მსხვერპლი საიტები
+login-list-last-changed-option = ბოლოს ჩასწორებული
+login-list-last-used-option = ბოლოს გამოყენებული
+login-list-intro-title = მონაცემები ვერ მოიძებნა
+login-list-intro-description = როცა პაროლს შეინახავს { -brand-product-name }, გამოჩნდება აქ.
+login-list-item-title-new-login = ანგარიშის ახალი მონაცემები
+login-list-item-subtitle-new-login = შეიყვანეთ თქვენი მონაცემები
+login-list-item-subtitle-missing-username = (მომხმარებლის სახელის გარეშე)
 
 ## Introduction screen
 
+login-intro-heading = ანგარიშის შენახულ მონაცემებს ეძებთ? გამართეთ { -sync-brand-short-name }
+login-intro-description = თუ თქვენს მონაცემებს { -brand-product-name } სხვა მოწყობილობაზე ინახავს, ნახეთ როგორ უნდა გადმოიტანოთ აქ:
 login-intro-instruction-fxa = შედით ან შექმენით { -fxaccount-brand-name } იმ მოწყობილობიდან, რომელზეც თქვენი ანგარიშები ინახება
 
 ## Login
