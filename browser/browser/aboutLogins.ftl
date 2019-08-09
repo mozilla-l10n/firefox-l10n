@@ -100,9 +100,21 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Cancelar
 confirmation-dialog-dismiss-button =
     .title = Cancelar
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Vaya a Opciones de { -sync-brand-short-name }
+           *[other] Vaya a Preferencias de { -sync-brand-short-name }
+        }
+    .accesskey = V
 confirm-delete-dialog-title = ¿Borrar este inicio de sesión?
 confirm-delete-dialog-message = Esta acción no puede deshacerse.
 confirm-delete-dialog-confirm-button = Eliminar
+confirm-discard-changes-dialog-title = ¿Descartar cambios no guardados?
+confirm-discard-changes-dialog-message = Se van a perder todos los cambios no guardados.
+confirm-discard-changes-dialog-confirm-button = Descartar
 
 ## Breach Alert notification
 
+breach-alert-text = Las contraseñas fueron filtradas o robadas de este sitio web desde la última vez que actualizó sus datos de inicio de sesión. Cambie su contraseña para proteger su cuenta.
+breach-alert-link = Obtenga más información sobre esta violación.
