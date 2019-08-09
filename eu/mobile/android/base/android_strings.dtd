@@ -29,7 +29,7 @@
 <!ENTITY firstrun_signin_message "Konektatu eta abiatu">
 <!ENTITY firstrun_signin_button "Hasi saioa Sync-en">
 <!ENTITY newfirstrun_signin_button "Gaitu sinkronizazioa">
-<!ENTITY updatednewfirstrun_signin_button "Hasi saioa &brandShortName;(r)en">
+<!ENTITY updatednewfirstrun_signin_button "Hasi saioa &brandShortName;(e)n">
 <!ENTITY  onboard_start_button_browser "Hasi nabigatzen">
 <!ENTITY firstrun_button_notnow "Orain ez">
 <!ENTITY firstrun_button_next "Hurrengoa">
