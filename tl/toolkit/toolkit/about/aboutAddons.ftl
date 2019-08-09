@@ -249,6 +249,7 @@ ask-to-activate-button = Magtanong para i-activate
 always-activate-button = Palaging i-activate
 never-activate-button = Wag kailanman i-activate
 addon-detail-version-label = Bersyon
+addon-detail-rating-label = Grado
 
 ## Pending uninstall message bar
 

@@ -31,6 +31,8 @@ app-basics-build-id = Build ID
 app-basics-update-channel = I-update ang Channel
 app-basics-update-history = I-update ang History
 app-basics-show-update-history = Ipakita ang Kasaysayan ng Update
+# Represents the path to the binary used to start the application.
+app-basics-binary = Application Binary
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Talaan ng Profile
@@ -45,6 +47,10 @@ app-basics-performance = Pagganap
 app-basics-service-workers = Mga Nakarehistrong Manggagawa ng Serbisyo
 app-basics-profiles = Mga Profile
 app-basics-multi-process-support = Multiprocess Windows
+app-basics-remote-processes-count = Mga Remote Process
+app-basics-enterprise-policies = Mga Enterprise Policy
+app-basics-location-service-key-google = Google Location Service Key
+app-basics-safebrowsing-key-google = Google Safebrowsing Key
 app-basics-key-mozilla = Mozilla Location Service Key
 app-basics-safe-mode = Safe Mode
 show-dir-label =
