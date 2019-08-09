@@ -116,6 +116,7 @@ newtab-menu-open-file = 打开文件
 
 newtab-label-visited = 曾经访问
 newtab-label-bookmarked = 已加书签
+newtab-label-removed-bookmark = 书签已移除
 newtab-label-recommended = 趋势
 newtab-label-saved = 已保存到 { -pocket-brand-name }
 newtab-label-download = 已下载
