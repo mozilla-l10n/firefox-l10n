@@ -55,6 +55,10 @@ login-list-item-subtitle-missing-username = (sin nombre de usuario)
 ## Introduction screen
 
 login-intro-heading = ¿Está buscando sus inicios de sesión guardados? Configure { -sync-brand-short-name }.
+login-intro-description = Si guardó sus inicios de sesión en { -brand-product-name } en un dispositivo diferente, estos son los pasos a seguir para tenerlas aquí también:
+login-intro-instruction-fxa = Cree o inicie sesión en su { -fxaccount-brand-name } en el dispositivo donde guardó sus inicios de sesión
+login-intro-instruction-fxa-settings = Asegúrese de haber seleccionado la casilla de verificación Inicios de sesión en la Configuración de { -sync-brand-short-name }
+login-intro-instruction-faq = Vaya a { -lockwise-brand-short-name } <a data-l10n-name="faq"> preguntas frecuentes </a> para obtener más ayuda
 
 ## Login
 
@@ -93,6 +97,9 @@ master-password-reload-button =
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Cancelar
+confirmation-dialog-dismiss-button =
+    .title = Cancelar
 confirm-delete-dialog-title = ¿Borrar este inicio de sesión?
 confirm-delete-dialog-message = Esta acción no puede deshacerse.
 confirm-delete-dialog-confirm-button = Eliminar
