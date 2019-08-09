@@ -805,6 +805,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Kết nối">
 <!ENTITY identity.connectionSecure "Kết nối an toàn">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+
 <!ENTITY identity.connectionNotSecure "Kết nối này không an toàn">
 <!ENTITY identity.connectionFile "Trang này đã được lưu ở máy tính của bạn.">
 <!ENTITY identity.connectionVerified2 "Bạn đang kết nối an toàn tới trang này, được sở hữu bởi:">
@@ -812,6 +816,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Trang này được tải từ một tiện ích mở rộng.">
 <!ENTITY identity.insecureLoginForms2 "Đăng nhập vào trang này bạn có thể bị xâm nhập.">
 <!ENTITY identity.customRoot "Kết nối được xác minh bởi nhà phát hành chứng chỉ không được Mozilla công nhận.">
+
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; đã chặn những phần không an toàn của trang này.">
@@ -846,6 +851,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Xóa cookie và dữ liệu trang web…">
 
 <!ENTITY identity.permissions "Quyền hạn">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissionsEmpty "Bạn chưa cấp cho trang này bất kỳ một quyền đặc biệt nào.">
 <!ENTITY identity.permissionsReloadHint "Bạn có thể cần phải tải lại trang để các thay đổi được áp dụng.">
 <!ENTITY identity.permissionsPreferences.tooltip "Mở tùy chọn các quyền">
@@ -930,6 +937,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.notDetected "Không tìm thấy nội dung có thể chặn trên trang này.">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Trình theo dõi">
+
+<!ENTITY contentBlocking.trackingProtection4.label "Trình theo dõi nội dung">
 
 <!ENTITY contentBlocking.manageSettings.label "Quản lý chặn nội dung">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
