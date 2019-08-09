@@ -11,6 +11,9 @@
 <!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteAs.label "Collar como">
 <!ENTITY pasteAs.accesskey "o">
+<!ENTITY pasteAsQuotationCmd.label "Collar como citation">
+<!ENTITY pasteAsQuotationCmd.accesskey "C">
+<!ENTITY pasteAsQuotationCmd.key "i">
 <!ENTITY findBarCmd.label "Trovar…">
 <!ENTITY findReplaceCmd.label "Trovar e reimplaciar…">
 <!ENTITY checkSpellingCmd2.label "Verificar le orthographia…">

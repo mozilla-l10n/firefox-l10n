@@ -25,3 +25,4 @@
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Nove">
 <!ENTITY openToolbarCmd.label "Aperir">
+<!ENTITY openToolbarCmd.tooltip "Aperir un file local">
