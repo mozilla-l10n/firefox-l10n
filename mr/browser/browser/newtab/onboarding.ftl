@@ -88,13 +88,20 @@ onboarding-mobile-phone-title = आपल्या फोनवर { -brand-prod
 # browser.
 onboarding-mobile-phone-button = मोबाईल ब्राऊझर डाऊनलोड करा
 onboarding-send-tabs-title = स्वतःला टॅब त्वरित पाठवा
+onboarding-send-tabs-button = टॅब पाठवा वापरणे प्रारंभ करा
 onboarding-pocket-anywhere-title = वाचा आणि ऐका कुठेपण
 onboarding-pocket-anywhere-button = वापरा { -pocket-brand-name }
 onboarding-lockwise-passwords-button2 = अॅप मिळवा
+onboarding-facebook-container-title = फेसबुक सह सीमा निश्चित करा
 onboarding-facebook-container-button = एक्सटेंशन जोडा
 
 ## Message strings belonging to the Return to AMO flow
 
 return-to-amo-sub-header = छान, आपल्याकडे { -brand-short-name } आहे
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = आता आपण <icon></icon><b>{ $addon-name }</b> घेऊया.
 return-to-amo-extension-button = विस्तार जोडा
 return-to-amo-get-started-button = { -brand-short-name } सह प्रारंभ करा
