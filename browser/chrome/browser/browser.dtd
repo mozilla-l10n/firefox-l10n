@@ -874,6 +874,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "დაცვის გამორთვის შემდეგაც დაზიანებულია საიტი?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "მოგვახსენეთ">
 
+<!ENTITY protections.blocking.label "იზღუდება">
+<!ENTITY protections.notBlocking.label "არ იზღუდება">
+<!ENTITY protections.notBlocking.why.label "რატომ?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "ამ შეზღუდვების შედეგად, შესაძლოა საიტების ნაწილმა ვერ იმუშაოს გამართულად. მეთვალყურეების მოცილებისას, ზოგიერთი ღილაკი, ანგარიშებისა და სხვა შესავსები ველები, აღარ მოქმედებს ხოლმე.">
 
 <!ENTITY protections.trackingContent.description "საიტები, ზოგჯერ გარე ბმულებიდან ტვირთავენ დამატებით რეკლამებს, ვიდეოებსა და სხვა მასალას, რომლებიც შეიცავს თვალყურის სადევნებელ კოდს. ამ შიგთავსის შეზღუდვით, მართალია საიტი უფრო სწრაფად ჩაიტვირთება, თუმცა ღილაკებმა, ანგარიშისა და სხვა შესავსებმა ველებმა, შეიძლება აღარ იმუშაოს.">
@@ -915,6 +918,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "მეთვალყურეები">
 
+<!ENTITY contentBlocking.trackingProtection4.label "თვალის მდევნელი შიგთავსი">
 
 <!ENTITY contentBlocking.manageSettings.label "შიგთავსის შეზღუდვის მართვა">
 <!ENTITY contentBlocking.manageSettings.accesskey "შ">
@@ -922,6 +926,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "მეთვალყურეები">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "ყველა მეთვალყურის შესაზღუდად, მიუთითეთ „მკაცრი” შეზღუდვა.">
 
+<!ENTITY contentBlocking.socialblock.label "სოციალური ქსელის მეთვალყურეები">
+<!ENTITY contentBlocking.socialblockView.label "სოციალური ქსელის მეთვალყურეები შეიზღუდა">
+<!ENTITY contentBlocking.socialblockView.description "სოციალური ქსელები ათავსებენ მეთვალყურეებს სხვა საიტებზე, რომ თვალი გადევნონ ინტერნეტში. ეს საშუალებას აძლევს მათ მფლობელ დაწესებულებებს, იმაზე მეტი რამ შეიტყონ თქვენ შესახებ, ვიდრე ამ სოციალურ ქსელში გაქვთ გაზიარებული.">
 
 <!ENTITY contentBlocking.cookies.label "ფუნთუშები">
 <!ENTITY contentBlocking.cookiesView.label "ფუნთუშები და საიტის მონაცემები">
@@ -936,8 +943,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "ხარვეზების მოხსენება">
 <!ENTITY contentBlocking.breakageReportView2.description "შიგთავსის შეზღუდვის შედეგად, შესაძლოა საიტებმა გამართულად ვერ იმუშაოს. ხარვეზების მოხსენებით, თქვენ დაგვეხმარებით, რომ &brandShortName; გავხადოთ უკეთესი ყველასთვის. (შედეგად, Mozilla-ს გადაეგზავნება როგორც URL-ბმული, აგრეთვე თქვენი ბრაუზერის პარამეტრების მონაცემები)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "იხილეთ ვრცლად">
+<!ENTITY contentBlocking.breakageReportView.title "მოხსენება დაზიანებულ საიტზე">
+<!ENTITY contentBlocking.breakageReportView3.description "შიგთავსის შეზღუდვის შედეგად, შესაძლოა საიტებმა გამართულად ვერ იმუშაოს. ხარვეზების მოხსენებით, თქვენ დაგვეხმარებით, რომ &brandShortName; გავხადოთ უკეთესი ყველასთვის. შედეგად, Mozilla-ს გადაეგზავნება როგორც URL-ბმული, აგრეთვე თქვენი ბრაუზერის პარამეტრების მონაცემები.">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "ვრცლად">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "მისამართი">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "რა ხარვეზები აღმოაჩინეთ? (არასავალდებულო)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "არასავალდებულო: აღწერეთ ხარვეზი">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "მოხსენების გაგზავნა">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "გაუქმება">
 
