@@ -808,15 +808,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label2)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Jeikeha hekorosãva">
 
+<!ENTITY identity.connectionSecure2 "Eike tekorosãme">
 <!ENTITY identity.connectionNotSecure "Jeikekatu'ỹre">
 <!ENTITY identity.connectionFile "Ko kuatiarogue oñeñongatu mohendahápe.">
 <!ENTITY identity.connectionVerified2 "Eikhína tekorosãme ko tendápe, mba'eteépe:">
+<!ENTITY identity.connectionVerified3 "Eikehína tekorosãme ko tendápe.">
 <!ENTITY identity.connectionInternal "Kóva &brandShortName; jeroviáva; kuatiarogue.">
 <!ENTITY identity.extensionPage "Ko kuatiarogue oñemyanyhẽ jepysokue guive.">
 <!ENTITY identity.insecureLoginForms2 "Ojehaiva'ekue jeike hag̃ua ko kuatiaroguépe oñemondakuaa.">
 <!ENTITY identity.customRoot "Jeike ohechapyréva mboajepyre me’ẽha Mozilla omoneĩ’ỹva.">
 
+<!ENTITY identity.evOwnerLabel "Tenda ijárava:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ojokóma ko kuatiarogue pehẽ ijerovia'ỹha.">
@@ -939,6 +943,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Tapykuehohára">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Tetepy jehapykueho">
 
 <!ENTITY contentBlocking.manageSettings.label "Eñangareko tetepy jejoko rehe">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
