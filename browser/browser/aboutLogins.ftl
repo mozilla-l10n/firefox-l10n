@@ -84,9 +84,9 @@ login-item-copied-password-button-text = ასლი აღებულია!
 login-item-save-changes-button = ცვლილებების შენახვა
 login-item-save-new-button = შენახვა
 login-item-cancel-button = გაუქმება
-login-item-time-changed = ბოლოს ჩასწორებული: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-changed = ბოლო ცვლილება: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = შექმნილი: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = ბოლოს გამოყენებული: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = ბოლო გამოყენება: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
