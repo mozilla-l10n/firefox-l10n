@@ -53,7 +53,7 @@ menu-file-import-from-another-browser =
     .label = Mag-import mula sa Ibang Browser…
     .accesskey = I
 menu-file-go-offline =
-    .label = Gumawa kahit walang Internet
+    .label = Magtrabaho kahit walang Internet
     .accesskey = k
 
 ## Edit Menu
@@ -273,11 +273,11 @@ menu-help-safe-mode-without-addons =
     .label = Mag-restart nang Naka-disable ang mga Add-on...
     .accesskey = R
 menu-help-safe-mode-with-addons =
-    .label = Restart with Add-ons Enabled
+    .label = Mag-restart nang Naka-enable ang mga Add-on
     .accesskey = R
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.
 menu-help-report-deceptive-site =
-    .label = Mapanlinlang ulat na site...
+    .label = Magsumbong ng Mapanlinlang na Site...
     .accesskey = D

@@ -216,6 +216,7 @@ content-sandbox-level = Antas ng Sandbox ng Proseso ng Nilalaman
 sandbox-proc-type-content = nilalaman
 sandbox-proc-type-file = nilalaman ng file
 sandbox-proc-type-media-plugin = plugin ng media
+sandbox-proc-type-data-decoder = data decoder
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -238,6 +239,8 @@ autoscroll-enabled = pinagana ang autoscroll
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = na-disable ang async wheel input dahil sa hindi suportadong pref: { $preferenceKey }
+touch-warning = na-disable ang async touch input dahil sa hindi suportadong pref: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
