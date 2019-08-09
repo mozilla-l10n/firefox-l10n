@@ -146,6 +146,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.connectAnotherDevice2.label "სხვა მოწყობილობის დაკავშირება…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!ENTITY fxa.menu.turnOnSync.label "ჩართეთ &syncBrand.shortName.label;">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -857,11 +858,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "არ მუშაობს საიტი?">
+<!ENTITY protections.siteNotWorkingView.title "არ მუშაობს საიტი?">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "გამორთეთ დაცვა, თუ რამე ხარვეზი აღინიშნება:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "ანგარიშის ველებზე">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "შესავსებ კითხვარებზე">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "გადახდებზე">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "გამოხმაურებებზე">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "ვიდეოებზე">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "დაცვის გამორთვის შემდეგაც დაზიანებულია საიტი?">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "მოგვახსენეთ">
 
 
 

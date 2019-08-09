@@ -26,7 +26,7 @@ policy-DisableAppUpdate = ბრაუზერის განახლებ�
 policy-DisableBuiltinPDFViewer = PDF.js-ის გათიშვა, ჩაშენებული PDF-გამხსნელის, რომელსაც იყენებს { -brand-short-name }.
 policy-DisableDeveloperTools = შემმუშავებლის ხელსაწყოებთან წვდომის შეზღუდვა.
 policy-DisableFeedbackCommands = უკუკავშირის ბრძანებების გათიშვა დახმარების მენიუდან (გამოხმაურებისა და თაღლითურ საიტზე მოხსენების გაგზავნა)
-policy-DisableFirefoxAccounts = { -fxaccount-brand-name }-ზე დაფუძნებული მომსახურებების გათიშვა, სინქრონიზაციის ჩათვლით.
+policy-DisableFirefoxAccounts = მომსახურებების გათიშვა, რომელთა მუშაობასაც { -fxaccount-brand-name } უზრუნველყოფს, სინქრონიზაციის ჩათვლით.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Firefox Screenshots-ის გათიშვა
 policy-DisableFirefoxStudies = შეზღუდვა, რომ { -brand-short-name } ვერ შეძლებს კვლევების გაშვებას.
@@ -74,7 +74,6 @@ policy-Preferences = მნიშვნელობების შერჩე�
 policy-PromptForDownloadLocation = ფაილების ჩამოტვირთვისას, ადგილმდებარეობის მითითება.
 policy-Proxy = პროქსის პარამეტრების გამართვა.
 policy-RequestedLocales = მიუთითეთ მოთხოვნილი ენების ჩამონათვალი პროგრამისთვის, პარამეტრების მიხედვით.
-policy-SanitizeOnShutdown = გადაადგილების ყველა მონაცემის გასუფთავება გამორთვისას.
 policy-SanitizeOnShutdown2 = მონახულებული გვერდების გასუფთავება გათიშვისას.
 policy-SearchBar = საძიებო ველისთვის ნაგულისხმევი მისამართის მითითება. მომხმარებელს მაინც შეეძლება მისი შეცვლა.
 policy-SearchEngines = საძიებო პარამეტრების გამართვა. ეს დებულება ხელმისაწვდომია, მხოლოდ გაფართოებული მხარდაჭერის (ESR) გამოშვებაზე.
