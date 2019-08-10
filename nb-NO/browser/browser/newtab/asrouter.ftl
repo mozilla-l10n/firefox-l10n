@@ -2,8 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Anbefalte utvidelser
+cfr-doorhanger-feature-heading = Anbefalt funksjon
 cfr-doorhanger-pintab-heading = Prøv dette: fest fanen
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Hvorfor ser jeg dette?
 cfr-doorhanger-extension-cancel-button = Ikke nå
@@ -69,3 +76,20 @@ cfr-whatsnew-button =
     .label = Hva er nytt
     .tooltiptext = Hva er nytt
 cfr-whatsnew-panel-header = Hva er nytt
+
+## Bookmark Sync
+
+cfr-doorhanger-sync-bookmarks-header = Få dette bokmerket på din telefon
+cfr-doorhanger-sync-bookmarks-body = Ta med bokmerker, passord, historikk og mer overalt hvor du er logget inn på { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = Slå på { -sync-brand-short-name }
+    .accesskey = S
+
+## Send Tab
+
+cfr-doorhanger-send-tab-header = Les dette mens du er på farten
+cfr-doorhanger-send-tab-recipe-header = Ta denne oppskriften med på kjøkkenet
+cfr-doorhanger-send-tab-ok-button = Prøv send fane
+    .accesskey = P
+
+## Firefox Send
+

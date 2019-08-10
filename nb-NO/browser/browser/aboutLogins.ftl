@@ -13,6 +13,8 @@ login-favicon =
     .alt = Favicon for { $title }
 fxaccounts-sign-in-text = Få passordene dine på de andre enheter dine
 fxaccounts-sign-in-button = Logg inn på { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = Behandle konto
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -41,6 +43,7 @@ login-list-count =
     }
 login-list-sort-label-text = Sorter etter:
 login-list-name-option = Navn (A-Å)
+login-list-breached-option = Nettsteder med datalekkasjer
 login-list-last-changed-option = Sist endret
 login-list-last-used-option = Sist brukt
 login-list-intro-title = Fant ingen innlogginger
@@ -59,6 +62,7 @@ login-intro-instruction-faq = Besøk { -lockwise-brand-short-name } <a data-l10n
 
 ## Login
 
+login-item-new-login-title = Lag ny innlogging
 login-item-edit-button = Rediger
 login-item-delete-button = Slett
 login-item-origin-label = Nettadresse
@@ -96,6 +100,11 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Avbryt
 confirmation-dialog-dismiss-button =
     .title = Avbryt
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Vil du ha innlogginger overalt hvor du bruker { -brand-product-name }? Gå til { -sync-brand-short-name }-innstillingene, og velg avkryssingsboks for Innlogginger.
+       *[other] Vil du ha innlogginger overalt hvor du bruker { -brand-product-name }? Gå til { -sync-brand-short-name }-innstillingene, og velg avkryssingsboks for Innlogginger.
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->

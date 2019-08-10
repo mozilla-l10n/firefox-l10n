@@ -869,6 +869,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
 
+<!ENTITY protections.notBlocking.why.label "Hvorfor?">
 
 
 
