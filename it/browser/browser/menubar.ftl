@@ -159,7 +159,7 @@ menu-view-show-all-tabs =
     .label = Visualizza tutte le schede
     .accesskey = h
 menu-view-bidi-switch-page-direction =
-    .label = Cambia direzione di pagina
+    .label = Cambia orientamento pagina
     .accesskey = g
 
 ## History Menu

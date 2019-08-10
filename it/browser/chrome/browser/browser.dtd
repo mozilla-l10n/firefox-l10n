@@ -520,7 +520,7 @@
 <!ENTITY editPopupSettings.label "Modifica le opzioni di blocco finestre pop-up…">
 <!ENTITY editPopupSettings.accesskey "M">
 <!ENTITY dontShowMessage.accesskey "N">
-<!ENTITY bidiSwitchPageDirectionItem.label "Cambia direzione di pagina">
+<!ENTITY bidiSwitchPageDirectionItem.label "Cambia orientamento pagina">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "g">
 <!ENTITY bidiSwitchTextDirectionItem.label "Cambia direzione testo">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "d">
