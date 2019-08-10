@@ -92,10 +92,10 @@ about-telemetry-results-for-search = შედეგები ფრაზის
 # Variables:
 #   $sectionName (String): the section name from the structure of the ping.
 #   $currentSearchText (String): the current text in the search input
-about-telemetry-no-search-results = ვწუხვართ! შედეგები „{ $currentSearchText }“ ფრაზისთვის არ მოიძებნა { $sectionName }-ში
+about-telemetry-no-search-results = ვწუხვართ! შედეგები ფრაზისთვის „{ $currentSearchText }“ არ მოიძებნა არეში { $sectionName }
 # Variables:
 #   $searchTerms (String): the searched terms
-about-telemetry-no-search-results-all = ვწუხვართ! არცერთ განყოფილებაში არ მოიძებნა შედეგები ფრაზისთვის “{ $searchTerms }”
+about-telemetry-no-search-results-all = ვწუხვართ! არცერთ განყოფილებაში არ მოიძებნა შედეგები ფრაზისთვის „{ $searchTerms }“
 # This message is displayed when a section is empty.
 # Variables:
 #   $sectionName (String): is replaced by the section name.

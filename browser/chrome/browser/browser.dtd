@@ -146,10 +146,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.connectAnotherDevice2.label "სხვა მოწყობილობის დაკავშირება…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!ENTITY fxa.menu.signin.label "&brandProductName; – შესვლა">
 <!ENTITY fxa.menu.turnOnSync.label "ჩართეთ &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.account.label "ანგარიში">
+<!ENTITY fxa.menu.firefoxServices.label "&brandProductName; – მომსახურებები">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.launch "იხილეთ &sendShortName;">
+<!ENTITY fxa.service.monitor.launch "იხილეთ &monitorShortName;">
 <!ENTITY fxa.service.sendTab.description "გაგზავნეთ ჩანართი მყისიერად ნებისმიერ მოწყობილობაზე, რომელზეც შესული ხართ.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -803,15 +808,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label2)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "კავშირის უსაფრთხოება">
 
+<!ENTITY identity.connectionSecure2 "კავშირი დაცულია">
 <!ENTITY identity.connectionNotSecure "კავშირი დაუცველია">
+<!ENTITY identity.connectionNotSecureSecurityView "თქვენი კავშირი ამ საიტთან არაა დაცული.">
 <!ENTITY identity.connectionFile "ეს გვერდი თქვენს კომპიუტერში ინახება.">
 <!ENTITY identity.connectionVerified2 "თქვენ საიმედოდ ხართ დაკავშირებული საიტთან, რომლის მფლობელიცაა:">
+<!ENTITY identity.connectionVerified3 "თქვენ საიმედოდ ხართ დაკავშირებული ამ საიტთან.">
 <!ENTITY identity.connectionInternal "&brandShortName; – უსაფრთხო გვერდი.">
 <!ENTITY identity.extensionPage "ეს გვერდი გახსნილია გაფართოების მიერ.">
 <!ENTITY identity.insecureLoginForms2 "ამ გვერდზე შეყვანილი ანგარიშის მონაცემები შესაძლოა მოიპარონ.">
 <!ENTITY identity.customRoot "კავშირი დამოწმებულია სერტიფიკატის გამომშვების მიერ, რომელიც უცნობია Mozilla-სთვის.">
 
+<!ENTITY identity.evOwnerLabel "საიტის მფლობელი:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ზღუდავს გვერდის დაუცველ ნაწილებს.">
@@ -848,6 +858,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "ნებართვები">
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "მინიჭებული უფლებები">
 <!ENTITY identity.permissionsEmpty "ამ საიტისთვის განსაკუთრებული უფლებები არ მიგიციათ.">
 <!ENTITY identity.permissionsReloadHint "ცვლილებების ასამოქმედებლად შესაძლოა გვერდის ხელახლა ჩატვირთვა დაგჭირდეთ.">
 <!ENTITY identity.permissionsPreferences.tooltip "ნებართვების პარამეტრების გახსნა">
@@ -858,6 +869,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpOFF.header "თვალთვალისგან გაძლიერებული დაცვა გამორთულია ამ საიტზე">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "ვრცლად, თვალთვალისგან გაძლიერებული დაცვის შესახებ">
+<!ENTITY protections.settings.label "უსაფრთხოების პარამეტრები">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
