@@ -2,8 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Dopórucone rozšyrjenje
+cfr-doorhanger-feature-heading = Dopórucona funkcija
 cfr-doorhanger-pintab-heading = Wopytajśo to: Rejtark pśipěś
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Cogodla se to pokazujo
 cfr-doorhanger-extension-cancel-button = Nic něnto
@@ -73,3 +80,25 @@ cfr-whatsnew-button =
     .label = Nowe funkcije a změny
     .tooltiptext = Nowe funkcije a změny
 cfr-whatsnew-panel-header = Nowe funkcije a změny
+
+## Bookmark Sync
+
+cfr-doorhanger-sync-bookmarks-header = Spórajśo toś to cytańske znamje na swój telefon
+cfr-doorhanger-sync-bookmarks-body = Wzejśo swóje cytańske znamjenja, gronidła, historiju a wěcej wšuźi sobu, źož sćo se pśizjawił pla { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = { -sync-brand-short-name } zmóžniś
+    .accesskey = m
+
+## Send Tab
+
+cfr-doorhanger-send-tab-header = Cytajśo to pó droze
+cfr-doorhanger-send-tab-recipe-header = Spórajśo toś ten recept do kuchnje
+cfr-doorhanger-send-tab-body = Send Tab wam zmóžnja, toś ten wótkaz lažko ze swójim telefonom źěliś abo wšuźi, źož sćo se pśizjawił pla { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Send Tab wopytaś
+    .accesskey = T
+
+## Firefox Send
+
+cfr-doorhanger-firefox-send-header = Źělśo toś ten PDF wěsće
+cfr-doorhanger-firefox-send-body = Šćitajśo swoje sensibelne dokumenty pśed narskimi póglědnjenjami z koděrowanim kóńc do kóńca a z wótkazom, kótaryž se zgubijo, gaž sćo gótowy.
+cfr-doorhanger-firefox-send-ok-button = { -send-brand-name } wopytaś
+    .accesskey = o
