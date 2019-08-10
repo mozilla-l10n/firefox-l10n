@@ -895,7 +895,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY protections.blocking.label "拦截开启">
 <!ENTITY protections.notBlocking.label "未在拦截">
-<!ENTITY protections.notBlocking.why.label "何故？">
+<!ENTITY protections.notBlocking.why.label "咦？">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "拦截这些内容可能导致某些网站上的元素异常。若没有跟踪器，某些按钮、表单、登录字段可能无法正常工作。">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "若关闭保护，将放行此网站上的所有跟踪器。可能也会改善某些网站功能。">
 <!ENTITY protections.socialMediaTrackers.label "社交媒体跟踪器">
