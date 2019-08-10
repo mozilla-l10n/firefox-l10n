@@ -2,8 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = შემოთავაზებული გაფართოება
 cfr-doorhanger-pintab-heading = სცადეთ: ჩანართის მიმაგრება
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = რატომ ვხედავ ამას
 cfr-doorhanger-extension-cancel-button = ახლა არა
@@ -65,3 +71,23 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## What's New toolbar button and panel
 
+cfr-whatsnew-button =
+    .label = რა სიახლეებია
+    .tooltiptext = რა სიახლეებია
+cfr-whatsnew-panel-header = რა სიახლეებია
+
+## Bookmark Sync
+
+
+## Send Tab
+
+cfr-doorhanger-send-tab-header = წაიკითხეთ გზაში
+cfr-doorhanger-send-tab-recipe-header = წაიღეთ ეს მომზადების წესი სამზარეულოში
+cfr-doorhanger-send-tab-ok-button = გამოცადეთ Send Tab
+    .accesskey = ც
+
+## Firefox Send
+
+cfr-doorhanger-firefox-send-header = გააზიარეთ ეს PDF უსაფრთხოდ
+cfr-doorhanger-firefox-send-ok-button = გამოცადეთ { -send-brand-name }
+    .accesskey = ც

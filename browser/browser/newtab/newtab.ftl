@@ -116,6 +116,7 @@ newtab-menu-open-file = ფაილის გახსნა
 
 newtab-label-visited = მონახულებული
 newtab-label-bookmarked = ჩანიშნული
+newtab-label-removed-bookmark = სანიშნი მოცილებულია
 newtab-label-recommended = ფართოდ გავრცელებული
 newtab-label-saved = შენახულია { -pocket-brand-name }-ში
 newtab-label-download = ჩამოტვირთული
@@ -159,6 +160,7 @@ newtab-empty-section-topstories = უკვე ყველაფერს გ�
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-try-again-button = ხელახლა ცდა
 
 ## Pocket Content Section.
 
