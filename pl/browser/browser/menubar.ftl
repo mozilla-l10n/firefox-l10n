@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Tryb pełnoekranowy
     .accesskey = T
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Wyświetl wszystkie karty
@@ -210,13 +210,13 @@ menu-tools-addons =
     .label = Dodatki
     .accesskey = D
 menu-tools-sync-sign-in =
-    .label = Zaloguj się, aby rozpocząć synchronizację…
+    .label = Zaloguj się do { -sync-brand-short-name(case: "gen", capitalization: "lower") }…
     .accesskey = s
 menu-tools-sync-now =
     .label = Synchronizuj teraz
     .accesskey = S
 menu-tools-sync-re-auth =
-    .label = Zaloguj się ponownie, aby synchronizować…
+    .label = Zaloguj się ponownie do { -sync-brand-short-name(case: "gen", capitalization: "lower") }…
     .accesskey = Z
 menu-tools-web-developer =
     .label = Dla twórców witryn
@@ -258,7 +258,7 @@ menu-help-product =
     .label = Pomoc programu { -brand-shorter-name }
     .accesskey = P
 menu-help-show-tour =
-    .label = Przewodnik po programie
+    .label = Przewodnik po programie { -brand-shorter-name }
     .accesskey = r
 menu-help-keyboard-shortcuts =
     .label = Skróty klawiaturowe
