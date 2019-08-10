@@ -116,6 +116,7 @@ newtab-menu-open-file = Fájl megnyitása
 
 newtab-label-visited = Látogatott
 newtab-label-bookmarked = Könyvjelzőzött
+newtab-label-removed-bookmark = Könyvjelző törölve
 newtab-label-recommended = Népszerű
 newtab-label-saved = Mentve a { -pocket-brand-name }be
 newtab-label-download = Letöltve
