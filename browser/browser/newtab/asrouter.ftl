@@ -79,6 +79,8 @@ cfr-whatsnew-panel-header = Újdonságok
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Vigye át ezt a könyvjelzőt a telefonjára
+cfr-doorhanger-sync-bookmarks-body = Vigye magával a könyvjelzőit, jelszavait, előzményeit és egyebeit bárhová, ahol be van jelentkezve a { -brand-product-name }be.
 cfr-doorhanger-sync-bookmarks-ok-button = { -sync-brand-short-name } bekapcsolása
     .accesskey = b
 
@@ -86,11 +88,13 @@ cfr-doorhanger-sync-bookmarks-ok-button = { -sync-brand-short-name } bekapcsolá
 
 cfr-doorhanger-send-tab-header = Olvassa el ezt útközben
 cfr-doorhanger-send-tab-recipe-header = Vigye a konyhába ezt a receptet
+cfr-doorhanger-send-tab-body = A Lap küldése segítségével könnyedén megoszthatja ezt a hivatkozást a telefonjával, vagy elküldheti bárhová, ahol be van jelentkezve a { -brand-product-name }be.
 cfr-doorhanger-send-tab-ok-button = Próbálja ki a Lap küldését
     .accesskey = P
 
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Ossza meg biztonságosan ezt a PDF-fájlt
+cfr-doorhanger-firefox-send-body = Tartsa biztonságban a bizalmas dokumentumait a kíváncsi szemek elől a végpontok közötti titkosítással, és a hivatkozással, amely eltűnik, ha végzett.
 cfr-doorhanger-firefox-send-ok-button = Próbálja ki a { -send-brand-name }et
     .accesskey = P
