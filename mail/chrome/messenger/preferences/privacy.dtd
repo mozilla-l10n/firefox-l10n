@@ -37,3 +37,6 @@
 <!ENTITY dntTrackingNotOkay.accesskey "o">
 <!ENTITY doNotTrackInfo.label "Læs mere om sporing">
 
+<!ENTITY doNotTrackCheck.label "Send et “Spor mig ikke”-signal til websider som tegn på, at du ikke ønsker at blive sporet">
+<!ENTITY doNotTrackCheck.accesskey "n">
+<!ENTITY doNotTrackLearnMore.label "Læs mere">

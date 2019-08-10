@@ -3,22 +3,29 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "Opret en eksisterende mailkonto">
+
+<!ENTITY emailWizard.title               "Tilføj din eksisterende mailadresse">
+<!ENTITY emailWizard.caption             "Brug din nuværende mailadresse">
 <!ENTITY name.label                      "Dit navn:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "Fornavn Efternavn">
+<!ENTITY fullname.placeholder            "Dit fulde navn">
 <!ENTITY name.text                       "Dit navn som andre skal se det">
+<!ENTITY name.error                      "Indtast dit navn">
 <!ENTITY email.label                     "Din mailadresse:">
 <!ENTITY email.accesskey                 "m">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "mail@eksempel.dk">
+<!ENTITY email3.placeholder              "Din mailadresse">
 <!ENTITY email.text                      "Din eksisterende mailadresse">
+<!ENTITY email.error                     "Ugyldig mailadresse">
 <!ENTITY password.label                  "Adgangskode:">
 <!ENTITY password.accesskey              "d">
 <!ENTITY password.placeholder            "Adgangskode">
 <!ENTITY password.text                   "Valgfri, vil kun blive brugt til at validere brugernavnet">
+<!ENTITY password.toggle                 "Vis/skjul adgangskode">
 <!ENTITY rememberPassword.label          "Husk adgangskode">
 <!ENTITY rememberPassword.accesskey      "H">
-
 <!ENTITY usernameEx.label                "Dit login:">
 <!ENTITY usernameEx.accesskey            "l">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
@@ -26,15 +33,21 @@
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 <!ENTITY usernameEx.text                 "Domæne-login">
 
+<!ENTITY protocol.label                  "Protokol:">
 <!ENTITY imapLong.label                  "IMAP (Adgang til mapper og meddelelser fra flere computere)">
 <!ENTITY pop3Long.label                  "POP3 (Hent alle meddelelser til denne computer, mapper findes kun lokalt)">
 
 <!ENTITY incoming.label                  "Indgående:">
+<!ENTITY incomingColumn.label            "Indgående">
 <!ENTITY outgoing.label                  "Udgående:">
+<!ENTITY outgoingColumn.label            "Udgående">
 <!ENTITY username.label                  "Brugernavn:">
 <!ENTITY hostname.label                  "Server-adresse">
 <!ENTITY port.label                      "Port">
 <!ENTITY ssl.label                       "SSL">
+<!ENTITY serverRow.label                 "Server:">
+<!ENTITY portRow.label                   "Port:">
+<!ENTITY sslRow.label                    "SSL:">
 <!ENTITY auth.label                      "Godkendelse">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
@@ -60,15 +73,21 @@
 <!ENTITY stop.label                      "Stop">
 <!ENTITY stop.accesskey                  "S">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Afprøv konfigurationen">
 <!ENTITY half-manual-test.accesskey      "ø">
 <!ENTITY manual-edit.label               "Manuel konfiguration">
 <!ENTITY manual-edit.accesskey           "M">
+<!ENTITY manual-config.label             "Manuel opsætning…">
+<!ENTITY manual-config.accesskey         "M">
 <!ENTITY open-provisioner.label          "Få en ny mailadresse…">
 <!ENTITY open-provisioner.accesskey      "å">
+
+
+<!ENTITY get-help.label                  "Få hjælp">
+<!ENTITY get-help.accesskey              "H">
 
 
 <!ENTITY warning.label                   "Advarsel!">

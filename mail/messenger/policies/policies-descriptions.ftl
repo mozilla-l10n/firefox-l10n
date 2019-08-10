@@ -41,6 +41,7 @@ policy-EnableTrackingProtection = Slå Blokering af indhold til eller fra. Bruge
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Installer, afinstaller eller lås udvidelser. Valgmuligheden Installer tager URL’er eller stier som parametre. Valgmulighederne Afinstaller og Låst tager et udvidelses-ID som parameter.
+policy-ExtensionSettings = Håndter alle aspekter af udvidelsesinstallationer.
 policy-ExtensionUpdate = Slå automatisk opdatering af udvidelser til eller fra.
 policy-HardwareAcceleration = False slår hardware-acceleration fra.
 policy-InstallAddonsPermission = Tillad bestemte websteder at installere tilføjelser.

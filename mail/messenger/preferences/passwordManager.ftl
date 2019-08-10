@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+saved-logins =
+    .title = Gemte logins
 window-close =
     .key = w
 focus-search-shortcut =
@@ -28,6 +30,18 @@ search-filter =
     .placeholder = Søg
 column-heading-provider =
     .label = Udbyder
+column-heading-username =
+    .label = Brugernavn
+column-heading-password =
+    .label = Adgangskode
+column-heading-time-created =
+    .label = Først brugt
+column-heading-time-last-used =
+    .label = Senest brugt
+column-heading-time-password-changed =
+    .label = Senest ændret
+column-heading-times-used =
+    .label = Gange brugt
 remove =
     .label = Fjern
     .accesskey = F
@@ -43,9 +57,14 @@ show-passwords =
 hide-passwords =
     .label = Skjul adgangskoder
     .accesskey = d
+logins-description-all = Der er gemt login-oplysninger til disse udbydere på din computer
+logins-description-filtered = Disse logins svarer til din søgning:
 remove-all =
     .label = Fjern alle
     .accesskey = a
 remove-all-shown =
     .label = Fjern alle viste
     .accesskey = a
+remove-all-passwords-prompt = Er du sikker på, at du vil fjerne alle adgangskoder?
+remove-all-passwords-title = Fjern alle adgangskoder
+no-master-password-prompt = Er du sikker på, at du vil vise dine adgangskoder?

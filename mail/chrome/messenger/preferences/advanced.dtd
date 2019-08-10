@@ -122,3 +122,8 @@
 <!ENTITY manageCertificates.accesskey "c">
 <!ENTITY viewSecurityDevices.label "Sikkerhedsmoduler">
 <!ENTITY viewSecurityDevices.accesskey "S">
+
+<!ENTITY manageCertificates2.label "Håndter certifikater…">
+<!ENTITY manageCertificates2.accesskey "H">
+<!ENTITY viewSecurityDevices2.label "Sikkerhedsenheder…">
+<!ENTITY viewSecurityDevices2.accesskey "E">
