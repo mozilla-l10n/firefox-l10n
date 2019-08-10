@@ -896,8 +896,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.notBlocking.why.label "რატომ?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "მათი შეზღუდვის შედეგად, შესაძლოა საიტების ნაწილმა ვერ იმუშაოს გამართულად. მეთვალყურეების მოცილებისას, ზოგიერთი ღილაკი, ანგარიშების შესაყვანი და სხვა შესავსები ველები, აღარ მოქმედებს ხოლმე.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "დაცვის გამორთვა დაუშვებს ყველა მეთვალყურეს ამ საიტზე. ამით, შესაძლოა გაუმჯობესდეს ვებგვერდის შესაძლებლობების ნაწილი.">
+<!ENTITY protections.socialMediaTrackers.label "სოციალური ქსელის მეთვალყურეები">
 <!ENTITY protections.crossSiteTrackingCookies.label "საიტთაშორისი მეთვალყურე ფუნთუშები">
+<!ENTITY protections.trackingContent.label "თვალის მდევნელი შიგთავსი">
+<!ENTITY protections.fingerprinters.label "მომხმარებლის ამომცნობები">
+<!ENTITY protections.cryptominers.label "კრიპტოვალუტის გამომმუშავებლები">
+<!ENTITY protections.noTrackersFound.description "ამ გვერდზე მეთვალყურეები, რომელთაც &brandShortName; ცნობს, არ აღმოჩენილა.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "ეს ფუნთუშები თან დაგყვებათ საიტებზე და აგროვებს მონაცემებს, თუ რას აკეთებთ ინტერნეტში. მათ იყენებს გარეშე მხარეები, სარეკლამო და კვლევითი დაწესებულებები.">
 <!ENTITY protections.trackingContent.description "საიტები, ზოგჯერ გარე ბმულებიდან ტვირთავენ დამატებით რეკლამებს, ვიდეოებსა და სხვა მასალას, რომლებიც შეიცავს თვალყურის სადევნებელ კოდს. ამ შიგთავსის შეზღუდვით, მართალია საიტი უფრო სწრაფად ჩაიტვირთება, თუმცა ღილაკებმა, ანგარიშისა და სხვა შესავსებმა ველებმა, შეიძლება აღარ იმუშაოს.">
 
 
