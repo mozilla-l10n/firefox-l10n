@@ -871,7 +871,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpOFF.header "Polěpšeny slědowanski škit je znjemóžnjeny za tute sydło">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
-<!ENTITY protections.etpMoreInfo.label "Dalše informacije wo polěpšeny slědowanski škit">
+<!ENTITY protections.etpMoreInfo.label "Dalše informacije wo polěpšenym slědowanskim škiće">
 <!ENTITY protections.settings.label "Škitowe nastajenja">
 <!ENTITY protections.report.label "Dospołnu rozprawu pokazać">
 <!-- LOCALIZATION NOTE:
