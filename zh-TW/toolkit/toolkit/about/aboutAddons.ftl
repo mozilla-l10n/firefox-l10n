@@ -298,7 +298,7 @@ preferences-addon-button =
        *[other] 偏好設定
     }
 details-addon-button = 詳細資訊
-release-notes-addon-button = 新鮮事
+release-notes-addon-button = 發行公告
 permissions-addon-button = 權限
 addons-enabled-heading = 已啟用
 addons-disabled-heading = 已停用
@@ -364,7 +364,7 @@ addon-badge-recommended =
 available-updates-heading = 可用的更新
 recent-updates-heading = 最近的更新
 release-notes-loading = 載入中…
-release-notes-error = 抱歉，載入新鮮事時發生錯誤。
+release-notes-error = 抱歉，載入發行公告時發生錯誤。
 addon-permissions-empty = 此擴充套件並未要求任何權限
 recommended-extensions-heading = 推薦的擴充套件
 recommended-themes-heading = 推薦的佈景主題
