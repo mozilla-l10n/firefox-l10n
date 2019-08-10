@@ -248,7 +248,7 @@ play-drm-content =
 play-drm-content-learn-more = 了解更多
 update-application-title = { -brand-short-name } 更新
 update-application-description = 保持更新 { -brand-short-name }，獲得最佳效能、穩定度以及安全性。
-update-application-version = { $version }版 <a data-l10n-name="learn-more">有什麼新鮮事</a>
+update-application-version = { $version } 版 <a data-l10n-name="learn-more">有什麼新鮮事</a>
 update-history =
     .label = 顯示更新紀錄…
     .accesskey = p
