@@ -47,6 +47,9 @@ newtab-topsites-add-button = Legg til
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Er du sikker på at du vil slette alle forekomster av denne siden fra historikken?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Denne handlingen kan ikke angres.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Bokmerke
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Kopier nedlastingslenke
 newtab-menu-go-to-download-page = Gå til nedlastingssiden
 newtab-menu-remove-download = Fjern fra historikk
@@ -109,11 +116,16 @@ newtab-menu-open-file = Åpne fil
 
 newtab-label-visited = Besøkt
 newtab-label-bookmarked = Bokmerket
+newtab-label-removed-bookmark = Bokmerke fjernet
 newtab-label-recommended = Trender
 newtab-label-saved = Lagret til { -pocket-brand-name }
 newtab-label-download = Lastet ned
 
 ## Section Menu: These strings are displayed in the section context menu and are 
+## meant as a call to action for the given section.
+
+
+## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = Fjern seksjon
@@ -126,6 +138,13 @@ newtab-section-menu-add-search-engine = Legg til søkemotor
 newtab-section-menu-move-up = Flytt opp
 newtab-section-menu-move-down = Flytt ned
 newtab-section-menu-privacy-notice = Personvernbestemmelser
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Slå sammen seksjon
+newtab-section-expand-section-label =
+    .aria-label = Utvid seksjon
 
 ## Section Headers.
 
@@ -145,6 +164,8 @@ newtab-empty-section-topstories = Du har tatt igjen. Kom tilbake senere for fler
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = Du har lest alt!
+newtab-discovery-empty-section-topstories-content = Kom tilbake senere for flere artikler.
 newtab-discovery-empty-section-topstories-try-again-button = Prøv igjen
 newtab-discovery-empty-section-topstories-loading = Laster…
 # Displays when a layout in a section took too long to fetch articles.

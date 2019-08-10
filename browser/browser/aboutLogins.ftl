@@ -112,3 +112,5 @@ confirm-discard-changes-dialog-confirm-button = Forkast
 
 ## Breach Alert notification
 
+breach-alert-text = Passord ble lekket eller stjålet fra dette nettstedet siden du sist oppdaterte dine innloggingsdetaljer. Endre passordet ditt for å beskytte kontoen din.
+breach-alert-link = Les mer om denne datalekkasjen.
