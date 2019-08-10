@@ -857,6 +857,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
 <!-- LOCALIZATION NOTE:
@@ -871,6 +873,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.sendReport.label "ส่งรายงาน">
 
 <!ENTITY protections.notBlocking.why.label "ทำไม?">
+<!ENTITY protections.fingerprinters.label "ลายนิ้วมือดิจิทัล">
+<!ENTITY protections.cryptominers.label "ตัวขุดเหรียญดิจิทัล">
 
 
 
