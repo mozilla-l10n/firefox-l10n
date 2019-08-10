@@ -200,7 +200,7 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "Ingen Firefox Account-tilkoblede enheter funnet">
+<!ENTITY overlay_no_synced_devices "Ingen Firefox-konto-tilkoblede enheter funnet">
 
 <!ENTITY pref_category_search3 "Søk">
 <!ENTITY pref_category_search_summary2 "Legg til, velg standard, vis forslag">
