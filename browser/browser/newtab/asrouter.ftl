@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Estensione consigliata
+cfr-doorhanger-feature-heading = Funzione consigliata
 cfr-doorhanger-pintab-heading = Prova questo: appunta scheda
 
 cfr-doorhanger-extension-sumo-link =
@@ -77,3 +78,25 @@ cfr-whatsnew-button =
   .tooltiptext = Novità
 
 cfr-whatsnew-panel-header = Novità
+
+## Bookmark Sync
+
+cfr-doorhanger-sync-bookmarks-header = Ritrova questo segnalibro sul tuo telefono
+cfr-doorhanger-sync-bookmarks-body = Mantieni segnalibri, password e cronologia sempre a portata di mano su tutti i dispositivi connessi al tuo account { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = Attiva { -sync-brand-short-name }
+  .accesskey = A
+
+## Send Tab
+
+cfr-doorhanger-send-tab-header = Leggilo ovunque ti trovi
+cfr-doorhanger-send-tab-recipe-header = Porta questa ricetta in cucina
+cfr-doorhanger-send-tab-body = “Invia scheda” ti permette di condividere facilmente questo link con il tuo telefono e altri dispositivi connessi al tuo account { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Prova “Invia scheda”
+  .accesskey = P
+
+## Firefox Send
+
+cfr-doorhanger-firefox-send-header = Condividi questo PDF in modo sicuro
+cfr-doorhanger-firefox-send-body = Mantieni i tuoi documenti riservati al sicuro con crittografia end-to-end e un link che scompare automaticamente dopo l’utilizzo.
+cfr-doorhanger-firefox-send-ok-button = Prova { -send-brand-name }
+  .accesskey = P
