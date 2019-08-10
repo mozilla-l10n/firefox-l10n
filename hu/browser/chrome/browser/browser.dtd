@@ -149,6 +149,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Jelentkezzen be a &brandProductName;ba">
 <!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; bekapcsolása">
 <!ENTITY fxa.menu.account.label "Fiók">
+<!ENTITY fxa.menu.firefoxServices.label "&brandProductName; szolgáltatások">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -805,13 +806,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Kapcsolat">
 <!ENTITY identity.connectionSecure "Biztonságos kapcsolat">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Kapcsolat biztonsága">
+
+<!ENTITY identity.connectionSecure2 "A kapcsolat biztonságos">
 <!ENTITY identity.connectionNotSecure "A kapcsolat nem biztonságos">
+<!ENTITY identity.connectionNotSecureSecurityView "Nem biztonságosan kapcsolódik ehhez az oldalhoz.">
 <!ENTITY identity.connectionFile "Ez az oldal a számítógépén van tárolva.">
 <!ENTITY identity.connectionVerified2 "Biztonságosan kapcsolódott ehhez ez oldalhoz; a tulajdonosa:">
+<!ENTITY identity.connectionVerified3 "Biztonságosan kapcsolódik ehhez az oldalhoz.">
 <!ENTITY identity.connectionInternal "Ez egy biztonságos &brandShortName; oldal.">
 <!ENTITY identity.extensionPage "Ez az oldal kiegészítőből lett betöltve.">
 <!ENTITY identity.insecureLoginForms2 "Az oldalon megadott bejelentkezési adatok nincsenek biztonságban.">
 <!ENTITY identity.customRoot "A kapcsolatot egy olyan tanúsítványkibocsátó igazolta, amelyet a Mozilla nem ismeri fel.">
+
+<!ENTITY identity.evOwnerLabel "A webhely tulajdonosa:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "A &brandShortName; blokkolta az oldal néhány nem biztonságos elemét.">
@@ -846,6 +857,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Sütik és oldaladatok eltávolítása…">
 
 <!ENTITY identity.permissions "Engedélyek">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "Beállított engedélyek">
 <!ENTITY identity.permissionsEmpty "Nem adott speciális engedélyeket ennek az oldalnak.">
 <!ENTITY identity.permissionsReloadHint "Lehet hogy újra kell töltenie az oldalt a változások érvényesítéséhez.">
 <!ENTITY identity.permissionsPreferences.tooltip "Engedélybeállítások megnyitása">
@@ -854,6 +868,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY protections.etpON.header "A továbbfejlesztett követés elleni védelem BE van kapcsolva ezen a webhelyen">
 <!ENTITY protections.etpOFF.header "A továbbfejlesztett követés elleni védelem KI van kapcsolva ezen a webhelyen">
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.settings.label "Védelmi beállítások">
 <!ENTITY protections.report.label "Teljes jelentés megjelenítése">
 <!-- LOCALIZATION NOTE:
@@ -930,6 +946,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.notDetected "Nincs blokkolható tartalom észlelve ezen az oldalon.">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Követők">
+
 
 <!ENTITY contentBlocking.manageSettings.label "Tartalomblokkolás kezelése">
 <!ENTITY contentBlocking.manageSettings.accesskey "T">

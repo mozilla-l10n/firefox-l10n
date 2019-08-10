@@ -6,8 +6,15 @@ about-logins-page-title = Bejelentkezések és jelszavak
 login-filter =
     .placeholder = Bejelentkezések keresése
 create-login-button = Új bejelentkezés létrehozása
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Favicon a következőhöz: { $title }
 fxaccounts-sign-in-text = Érje el jelszavait a többi eszközén is
 fxaccounts-sign-in-button = Jelentkezzen be a { -sync-brand-short-name }be
+fxaccounts-avatar-button =
+    .title = Fiók kezelése
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -36,6 +43,7 @@ login-list-count =
     }
 login-list-sort-label-text = Rendezés:
 login-list-name-option = Név (A-Z)
+login-list-breached-option = Feltört weboldalak
 login-list-last-changed-option = Legutóbbi módosítás
 login-list-last-used-option = Legutóbbi használat
 login-list-intro-title = Nincsenek bejelentkezések

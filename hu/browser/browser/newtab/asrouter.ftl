@@ -2,8 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Ajánlott kiegészítő
+cfr-doorhanger-feature-heading = Ajánlott szolgáltatás
 cfr-doorhanger-pintab-heading = Próbálja ki ezt: Lap rögzítése
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Miért látom ezt
 cfr-doorhanger-extension-cancel-button = Most nem
@@ -69,3 +76,21 @@ cfr-whatsnew-button =
     .label = Újdonságok
     .tooltiptext = Újdonságok
 cfr-whatsnew-panel-header = Újdonságok
+
+## Bookmark Sync
+
+cfr-doorhanger-sync-bookmarks-ok-button = { -sync-brand-short-name } bekapcsolása
+    .accesskey = b
+
+## Send Tab
+
+cfr-doorhanger-send-tab-header = Olvassa el ezt útközben
+cfr-doorhanger-send-tab-recipe-header = Vigye a konyhába ezt a receptet
+cfr-doorhanger-send-tab-ok-button = Próbálja ki a Lap küldését
+    .accesskey = P
+
+## Firefox Send
+
+cfr-doorhanger-firefox-send-header = Ossza meg biztonságosan ezt a PDF-fájlt
+cfr-doorhanger-firefox-send-ok-button = Próbálja ki a { -send-brand-name }et
+    .accesskey = P
