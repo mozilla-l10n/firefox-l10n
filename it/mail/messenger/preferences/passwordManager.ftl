@@ -4,6 +4,12 @@
 
 saved-logins =
     .title = Credenziali salvate
+window-close =
+    .key = w
+focus-search-shortcut =
+    .key = f
+focus-search-altshortcut =
+    .key = k
 column-heading-provider =
     .label = Provider
 column-heading-username =
