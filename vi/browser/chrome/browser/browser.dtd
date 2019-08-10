@@ -861,6 +861,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY protections.etpON.header "Trình chống theo dõi nâng cao đã được BẬT cho trang này">
 <!ENTITY protections.etpOFF.header "Trình chống theo dõi nâng cao đã bị TẮT cho trang này">
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.settings.label "Cài đặt bảo vệ">
 <!ENTITY protections.report.label "Hiển thị báo cáo đầy đủ">
 <!-- LOCALIZATION NOTE:
@@ -1014,14 +1016,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.header.message "Thẻ mới của bạn đã bị thay đổi.">
 <!ENTITY newTabControlled.keepButton.label "Giữ các thay đổi">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
-<!ENTITY newTabControlled.disableButton.label "Vô hiệu hóa tiện ích mở rộng">
+<!ENTITY newTabControlled.disableButton.label "Tắt tiện ích mở rộng">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY homepageControlled.message "Một tiện ích mở rộng đã thay đổi trang chủ của bạn. Bạn có thể khôi phục lại cài đặt của mình nếu không muốn các thay đổi này.">
 <!ENTITY homepageControlled.header.message "Trang chủ của bạn đã thay đổi.">
 <!ENTITY homepageControlled.keepButton.label "Giữ các thay đổi">
 <!ENTITY homepageControlled.keepButton.accesskey "K">
-<!ENTITY homepageControlled.disableButton.label "Vô hiệu hóa tiện ích mở rộng">
+<!ENTITY homepageControlled.disableButton.label "Tắt tiện ích mở rộng">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
 <!ENTITY tabHideControlled.header.message "Truy cập các thẻ ẩn của bạn">

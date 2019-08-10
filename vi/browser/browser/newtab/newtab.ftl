@@ -116,6 +116,7 @@ newtab-menu-open-file = Mở tập tin
 
 newtab-label-visited = Đã truy cập
 newtab-label-bookmarked = Đã được đánh dấu
+newtab-label-removed-bookmark = Đã xóa dấu trang
 newtab-label-recommended = Xu hướng
 newtab-label-saved = Đã lưu vào { -pocket-brand-name }
 newtab-label-download = Đã tải xuống
