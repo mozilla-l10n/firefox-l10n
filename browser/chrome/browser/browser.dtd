@@ -149,6 +149,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Entrar no &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Ativar o &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "Conta">
+<!ENTITY fxa.menu.firefoxServices.label "Serviços do &brandProductName;">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -868,6 +869,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY protections.etpON.header "A proteção aprimorada contra rastreamento está ATIVADA neste site">
 <!ENTITY protections.etpOFF.header "A proteção aprimorada contra rastreamento está DESATIVADA neste site">
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Mais informações sobre a proteção aprimorada contra rastreamento">
 <!ENTITY protections.settings.label "Configurações de proteção">
 <!ENTITY protections.report.label "Mostrar relatório completo">
 <!-- LOCALIZATION NOTE:
