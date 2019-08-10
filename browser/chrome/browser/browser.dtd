@@ -585,6 +585,7 @@
 <!ENTITY identity.permissionsPreferences.tooltip "Apri preferenze per i permessi">
 <!ENTITY protections.etpON.header "La protezione antitracciamento avanzata è ATTIVA per questo sito.">
 <!ENTITY protections.etpOFF.header "La protezione antitracciamento avanzata è DISATTIVATA per questo sito">
+<!ENTITY protections.etpMoreInfo.label "Ulteriori informazioni sulla protezione antitracciamento avanzata">
 <!ENTITY protections.settings.label "Impostazioni protezione">
 <!ENTITY protections.report.label "Visualizza il rapporto completo">
 <!ENTITY protections.siteNotWorking.label "Il sito non funziona?">
