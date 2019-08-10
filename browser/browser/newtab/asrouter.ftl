@@ -99,5 +99,6 @@ cfr-doorhanger-send-tab-ok-button = Send Tab wupruwować
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Dźělće tutón PDF wěsće
+cfr-doorhanger-firefox-send-body = Škitajće swoje sensibelne dokumenty před wćipnymi pohladami ze zaklučowanjom kónc do kónca a z wotkazom, kotryž so zhubi, hdyž sće hotowy.
 cfr-doorhanger-firefox-send-ok-button = { -send-brand-name } wupruwować
     .accesskey = u
