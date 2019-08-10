@@ -857,6 +857,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpON.header "თვალთვალისგან გაძლიერებული დაცვა ჩართულია ამ საიტზე">
 <!ENTITY protections.etpOFF.header "თვალთვალისგან გაძლიერებული დაცვა გამორთულია ამ საიტზე">
 <!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
 <!ENTITY protections.siteNotWorking.label "არ მუშაობს საიტი?">
@@ -878,7 +880,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.blocking.label "იზღუდება">
 <!ENTITY protections.notBlocking.label "არ იზღუდება">
 <!ENTITY protections.notBlocking.why.label "რატომ?">
-<!ENTITY protections.notBlocking.why.etpOn.tooltip "ამ შეზღუდვების შედეგად, შესაძლოა საიტების ნაწილმა ვერ იმუშაოს გამართულად. მეთვალყურეების მოცილებისას, ზოგიერთი ღილაკი, ანგარიშებისა და სხვა შესავსები ველები, აღარ მოქმედებს ხოლმე.">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "მათი შეზღუდვის შედეგად, შესაძლოა საიტების ნაწილმა ვერ იმუშაოს გამართულად. მეთვალყურეების მოცილებისას, ზოგიერთი ღილაკი, ანგარიშების შესაყვანი და სხვა შესავსები ველები, აღარ მოქმედებს ხოლმე.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "დაცვის გამორთვა დაუშვებს ყველა მეთვალყურეს ამ საიტზე. ამით, შესაძლოა გაუმჯობესდეს ვებგვერდის შესაძლებლობების ნაწილი.">
 <!ENTITY protections.crossSiteTrackingCookies.label "საიტთაშორისი მეთვალყურე ფუნთუშები">
 
