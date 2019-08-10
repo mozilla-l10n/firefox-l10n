@@ -92,7 +92,7 @@ onboarding-data-sync-text2 = დაასინქრონეთ თქვე�
 onboarding-data-sync-button2 = გამოიყენეთ { -sync-brand-short-name }
 onboarding-firefox-monitor-title = შეიტყვეთ, მონაცემების მიტაცების შესახებ
 onboarding-firefox-monitor-text = { -monitor-brand-name } მუდმივად გადაამოწმებს, არის თუ არა თქვენი ელფოსტა მიტაცებულ მონაცემებს შორის და გაცნობებთ აღმოჩენის შემთხვევაში.
-onboarding-firefox-monitor-button = გამოიწერეთ ცნობების მისაღებად
+onboarding-firefox-monitor-button = გამოიწერეთ ცნობები
 onboarding-browse-privately-title = მოინახულეთ გვერდები უსაფრთხოდ
 onboarding-browse-privately-text = პირადი თვალიერების რეჟიმი ასუფთავებს თქვენ მიერ მოძიებულ და მონახულებულ გვერდებს და არ უმხელს მათ შესახებ, თქვენი კომპიუტერის სხვა მომხმარებლებს
 onboarding-browse-privately-button = პირადი ფანჯრის გახსნა
@@ -100,10 +100,10 @@ onboarding-firefox-send-title = დატოვეთ გაზიარებ�
 onboarding-firefox-send-text2 = ატვირთეთ თქვენი ფაილები, { -send-brand-name } კი გააზიარებს გამჭოლი დაშიფვრითა და ბმულით, რომელიც თავისით გაუქმდება, ვადის ამოწურვისას.
 onboarding-firefox-send-button = გამოცადეთ { -send-brand-name }
 onboarding-mobile-phone-title = გადმოწერეთ { -brand-product-name } თქვენს ტელეფონზე
-onboarding-mobile-phone-text = ჩამოტვირთეთ { -brand-product-name } iOS ან Android-სისტემისთვის და დაასინქრონეთ მონაცემები ყველა მოწყობილობაზე.
+onboarding-mobile-phone-text = { -brand-product-name } ჩამოტვირთეთ iOS ან Android-სისტემისთვის და დაასინქრონეთ მონაცემები ყველა მოწყობილობაზე.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
-onboarding-mobile-phone-button = ჩამოტვირთეთ მობილური ბრაუზერი
+onboarding-mobile-phone-button = ჩამოტვირთეთ მობილურზე
 onboarding-send-tabs-title = მყისიერად გადააგზავნეთ ჩანართები
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
