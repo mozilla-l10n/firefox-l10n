@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "K">
 <!ENTITY folderPaneBar.label "Værktøjslinje for mapper">
 <!ENTITY folderPaneBar.accesskey "æ">
-<!ENTITY folderModeSelector.label "Mappevisninger">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sorter efter">
@@ -587,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Gem den valgte meddelelse">
 <!ENTITY archiveButton.tooltip "Arkiver valgte meddelelser">
 <!ENTITY openConversationButton.tooltip "Vis den valgte meddelelses samtale">
+<!ENTITY openMsgConversationButton.tooltip "Vis den valgte meddelelses samtale">
 <!ENTITY nextButton.tooltip "Gå til næste ulæste meddelelse">
 <!ENTITY nextMsgButton.tooltip "Gå til den næste meddelelse">
 <!ENTITY previousButton.tooltip "Gå til forrige ulæste meddelelse">
@@ -605,7 +605,6 @@
 <!ENTITY tagButton.tooltip "Marker meddelelser">
 <!ENTITY compactButton.tooltip "Fjern slettede meddelelser fra valgte mappe">
 <!ENTITY appmenuButton1.tooltip "Vis &brandShortName;-menuen">
-
 <!ENTITY addonsButton.tooltip "Håndter dine tilføjelser">
 
 <!-- Toolbar Button Popup -->
