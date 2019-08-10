@@ -93,3 +93,6 @@ cfr-doorhanger-send-tab-ok-button = Prøv send fane
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Del denne PDF-filen sikkert
+cfr-doorhanger-firefox-send-ok-button = Prøv { -send-brand-name }
+    .accesskey = P

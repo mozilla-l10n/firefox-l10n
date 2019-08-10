@@ -57,3 +57,11 @@ rcwn-avg-long = Langt gjennomsnitt
 rcwn-std-dev-long = Langt standardavvik
 rcwn-cache-slow = Antall langsom cache
 rcwn-cache-not-slow = Antall ikke-langsom cache
+networkid = Nettverks-ID
+networkid-id = Nettverks-ID
+
+## Link is intended as "network link"
+
+
+
+

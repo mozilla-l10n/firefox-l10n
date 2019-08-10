@@ -149,12 +149,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Logg inn på &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Slå på &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "Konto">
+<!ENTITY fxa.menu.firefoxServices.label "&brandProductName;-tjenester">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
 <!ENTITY fxa.service.send.description "Last opp og del filer med ende-til-ende-kryptering pluss en lenke som automatisk utløper.">
 <!ENTITY fxa.service.send.launch "Start &sendShortName;">
+<!ENTITY fxa.service.monitor.description "Sjekk om e-postadressen din har vært involvert i en datalekkasje, og bli varslet om den vises i en nytt lekkasje.">
 <!ENTITY fxa.service.monitor.launch "Start &monitorShortName;">
+<!ENTITY fxa.service.sendTab.description "Send en fane øyeblikkelig til alle enheter du er logget inn på.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -807,15 +810,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label2)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Tilkoblingssikkerhet">
 
+<!ENTITY identity.connectionSecure2 "Tilkoblingen er sikker">
 <!ENTITY identity.connectionNotSecure "Tilkoblingen er ikke sikker">
+<!ENTITY identity.connectionNotSecureSecurityView "Du er ikke sikkert koblet til dette nettstedet.">
 <!ENTITY identity.connectionFile "Denne siden lagres på datamaskinen din.">
 <!ENTITY identity.connectionVerified2 "Sikker tilkobling til nettstedet, eid av:">
+<!ENTITY identity.connectionVerified3 "Du er sikkert koblet til dette nettstedet.">
 <!ENTITY identity.connectionInternal "Dette er en sikker &brandShortName;-side.">
 <!ENTITY identity.extensionPage "Denne siden er lastet fra en utvidelse.">
 <!ENTITY identity.insecureLoginForms2 "Innloggingsinfo skrevet inn på denne kan leses av en tredjepart.">
 <!ENTITY identity.customRoot "Tilkobling verifisert av en sertifikatutsteder som ikke kjennes igjen av Mozilla.">
 
+<!ENTITY identity.evOwnerLabel "Nettstedet eiet av:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; blokkerte deler av denne siden som ikke er sikre.">
