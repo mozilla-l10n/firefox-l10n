@@ -46,6 +46,7 @@ login-list-name-option = Ad (A-Z)
 login-list-last-changed-option = Son değişiklik
 login-list-last-used-option = Son kullanım
 login-list-intro-title = Hiç hesap bulunamadı
+login-list-intro-description = { -brand-product-name } tarayıcısında kaydettiğiniz parolalar burada görünecektir.
 login-list-item-title-new-login = Yeni hesap
 login-list-item-subtitle-new-login = Hesap bilgilerinizi girin
 login-list-item-subtitle-missing-username = (kullanıcı adı yok)

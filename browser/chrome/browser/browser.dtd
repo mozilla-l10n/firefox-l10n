@@ -147,6 +147,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.account.label "Hesap">
+<!ENTITY fxa.menu.firefoxServices.label "&brandProductName; hizmetleri">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -862,6 +863,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY protections.etpON.header "Bu sitede gelişmiş izlenme koruması AÇIK">
 <!ENTITY protections.etpOFF.header "Bu sitede gelişmiş izlenme koruması KAPALI">
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.settings.label "Koruma ayarları">
 <!ENTITY protections.report.label "Raporun tamamını göster">
 <!-- LOCALIZATION NOTE:
