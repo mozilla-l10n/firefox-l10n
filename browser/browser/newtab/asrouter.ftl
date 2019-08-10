@@ -77,6 +77,7 @@ cfr-whatsnew-panel-header = 新版变化
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = 在手机上获取此书签
 cfr-doorhanger-sync-bookmarks-ok-button = 开启 { -sync-brand-short-name }
     .accesskey = T
 
@@ -87,3 +88,5 @@ cfr-doorhanger-send-tab-ok-button = 试试标签页发送功能
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-ok-button = 试用 { -send-brand-name }
+    .accesskey = T
