@@ -87,7 +87,7 @@ about-telemetry-filter-all-placeholder =
     .placeholder = ყველა განყოფილებაში ძიება
 # Variables:
 #   $searchTerms (String): the searched terms
-about-telemetry-results-for-search = შედეგები “{ $searchTerms }” ფრაზისთვის
+about-telemetry-results-for-search = შედეგები ფრაზისთვის „{ $searchTerms }“
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
 #   $sectionName (String): the section name from the structure of the ping.
