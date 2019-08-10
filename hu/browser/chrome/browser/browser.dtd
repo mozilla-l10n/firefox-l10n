@@ -157,6 +157,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.service.send.launch "&sendShortName; indítása">
 <!ENTITY fxa.service.monitor.description "Ellenőrizze, hogy az e-mail címe jelent-e meg adatsértésben, és kapjon figyelmeztetést, ha új adatsértésben jelenik meg.">
 <!ENTITY fxa.service.monitor.launch "&monitorShortName; indítása">
+<!ENTITY fxa.service.sendTab.description "Küldjön el egy lapot bármely eszközére, amelyen be van jelentkezve.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -870,6 +871,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpOFF.header "A továbbfejlesztett követés elleni védelem KI van kapcsolva ezen a webhelyen">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "További információk a továbbfejlesztett követés elleni védelemről">
 <!ENTITY protections.settings.label "Védelmi beállítások">
 <!ENTITY protections.report.label "Teljes jelentés megjelenítése">
 <!-- LOCALIZATION NOTE:
@@ -947,6 +949,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Követők">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Nyomkövető tartalom">
 
 <!ENTITY contentBlocking.manageSettings.label "Tartalomblokkolás kezelése">
 <!ENTITY contentBlocking.manageSettings.accesskey "T">
