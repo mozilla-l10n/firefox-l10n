@@ -149,6 +149,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "登入 &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "開啟 &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "帳號">
+<!ENTITY fxa.menu.firefoxServices.label "&brandProductName; 服務">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -866,8 +867,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "開啟內容封鎖偏好設定">
 
 
-<!ENTITY protections.etpON.header "已開啟針對此網站的追蹤保護功能">
-<!ENTITY protections.etpOFF.header "已關閉針對此網站的追蹤保護功能">
+<!ENTITY protections.etpON.header "已開啟針對此網站的加強型追蹤保護功能">
+<!ENTITY protections.etpOFF.header "已關閉針對此網站的加強型追蹤保護功能">
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "關於加強型追蹤保護功能的更多資訊">
 <!ENTITY protections.settings.label "保護設定">
 <!ENTITY protections.report.label "顯示完整報告">
 <!-- LOCALIZATION NOTE:
