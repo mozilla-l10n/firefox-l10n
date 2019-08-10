@@ -2,8 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Extensão Recomendada
+cfr-doorhanger-feature-heading = Recurso recomendado
 cfr-doorhanger-pintab-heading = Experimente isso: Fixar aba
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Por que estou vendo isso
 cfr-doorhanger-extension-cancel-button = Agora não
@@ -69,3 +76,25 @@ cfr-whatsnew-button =
     .label = Novidades
     .tooltiptext = Novidades
 cfr-whatsnew-panel-header = Novidades
+
+## Bookmark Sync
+
+cfr-doorhanger-sync-bookmarks-header = Tenha este favorito em seu celular
+cfr-doorhanger-sync-bookmarks-body = Tenha seus favoritos, senhas, histórico e muito mais em qualquer lugar que acesse sua conta no { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = Ativar o { -sync-brand-short-name }
+    .accesskey = t
+
+## Send Tab
+
+cfr-doorhanger-send-tab-header = Leia isso em movimento
+cfr-doorhanger-send-tab-recipe-header = Leve esta receita para a cozinha
+cfr-doorhanger-send-tab-body = Enviar aba permite compartilhar este link facilmente para seu celular, ou onde quer que acesse sua conta no { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Experimente enviar aba
+    .accesskey = E
+
+## Firefox Send
+
+cfr-doorhanger-firefox-send-header = Compartilhe este PDF com segurança
+cfr-doorhanger-firefox-send-body = Mantenha seus documentos sensíveis a salvo de intrometidos, com criptografia de ponta a ponta e um link que desaparece quando você terminar de usar.
+cfr-doorhanger-firefox-send-ok-button = Experimente o { -send-brand-name }
+    .accesskey = E
