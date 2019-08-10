@@ -2,8 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Doporučené rozšíření
+cfr-doorhanger-feature-heading = Doporučená funkce
 cfr-doorhanger-pintab-heading = Vyzkoušejte připnout panel
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Co to je
 cfr-doorhanger-extension-cancel-button = Teď ne
@@ -71,3 +78,25 @@ cfr-whatsnew-button =
     .label = Co je nového
     .tooltiptext = Co je nového
 cfr-whatsnew-panel-header = Co je nového
+
+## Bookmark Sync
+
+cfr-doorhanger-sync-bookmarks-header = Sdílejte tuto záložku i do svého telefonu
+cfr-doorhanger-sync-bookmarks-body = Mějte své záložky, hesla, historii prohlížení a další vždy po ruce. Přihlaste se v aplikaci { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = Zapnout { -sync-brand-short-name }
+    .accesskey = Z
+
+## Send Tab
+
+cfr-doorhanger-send-tab-header = Přečtěte si tento článek i na cestách
+cfr-doorhanger-send-tab-recipe-header = Vezměte si tento recept rovnou do kuchyně
+cfr-doorhanger-send-tab-body = Posílání panelů funguje pro snadné sdílení odkazů do vašeho telefonu nebo kamkoliv, kde jste přihlášení v aplikaci { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Vyzkoušet posílání panelů
+    .accesskey = V
+
+## Firefox Send
+
+cfr-doorhanger-firefox-send-header = Sdílejte bezpečně toto PDF
+cfr-doorhanger-firefox-send-body = Sdílejte své dokumenty bez toho, aby vám někdo koukal přes rameno, chráněné pomocí end-to-end šifrování a odkazů s omezenou platností.
+cfr-doorhanger-firefox-send-ok-button = Vyzkoušet { -send-brand-name }
+    .accesskey = V

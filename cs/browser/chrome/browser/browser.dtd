@@ -149,6 +149,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Přihlásit se k aplikaci &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Zapnout &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "Účet">
+<!ENTITY fxa.menu.firefoxServices.label "Služby aplikace &brandProductName;">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -868,6 +869,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY protections.etpON.header "Rozšířená ochrana proti sledování je povolena">
 <!ENTITY protections.etpOFF.header "Rozšířená ochrana proti sledování je vypnuta">
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Více informací o rozšířené ochraně proti sledování">
 <!ENTITY protections.settings.label "Nastavení ochrany">
 <!ENTITY protections.report.label "Podrobné statistiky">
 <!-- LOCALIZATION NOTE:
