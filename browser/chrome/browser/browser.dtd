@@ -149,6 +149,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Pola &brandProductName; přizjewić">
 <!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; zmóžnić">
 <!ENTITY fxa.menu.account.label "Konto">
+<!ENTITY fxa.menu.firefoxServices.label "Słužby &brandProductName;">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -868,6 +869,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY protections.etpON.header "Polěpšeny slědowanski škit je zmóžnjeny za tute sydło">
 <!ENTITY protections.etpOFF.header "Polěpšeny slědowanski škit je znjemóžnjeny za tute sydło">
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Dalše informacije wo polěpšeny slědowanski škit">
 <!ENTITY protections.settings.label "Škitowe nastajenja">
 <!ENTITY protections.report.label "Dospołnu rozprawu pokazać">
 <!-- LOCALIZATION NOTE:
