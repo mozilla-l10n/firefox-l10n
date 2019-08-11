@@ -95,5 +95,6 @@ cfr-doorhanger-send-tab-ok-button = გამოცადეთ Send Tab
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = გააზიარეთ ეს PDF უსაფრთხოდ
+cfr-doorhanger-firefox-send-body = დაიცავით თქვენი მნიშვნელოვანი მასალები ცნობისმოყვარეებისგან, გამჭოლი დაშიფვრითა და ბმულით, რომელიც თავისით გაქრება საქმის დასრულებისას.
 cfr-doorhanger-firefox-send-ok-button = გამოცადეთ { -send-brand-name }
     .accesskey = ც

@@ -18,3 +18,4 @@ reader-view = კითხვის რეჟიმი
 open-location = მოძებნეთ ან შეიყვანეთ მისამართი
 share = გაზიარება
 close-window = ფანჯრის დახურვა
+open-sidebar = გვერდითი ზოლები
