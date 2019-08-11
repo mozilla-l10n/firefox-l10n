@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = დაბრუნება
 customize-mode-lwthemes-my-themes =
     .value = ჩემი თემები
+customize-mode-touchbar-cmd =
+    .label = შეხების ზოლის მორგება...
