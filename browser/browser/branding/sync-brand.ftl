@@ -13,4 +13,9 @@
 -sync-brand-name = Firefox Sync
 # “Account” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
--fxaccount-brand-name = Firefox-ანგარიში
+-fxaccount-brand-name =
+    { $case ->
+       *[nom] Firefox-ანგარიში
+        [dat] Firefox-ანგარიშ
+        [gen] Firefox-ანგარიშის
+    }
