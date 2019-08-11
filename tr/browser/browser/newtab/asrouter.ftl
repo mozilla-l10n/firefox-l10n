@@ -83,6 +83,10 @@ cfr-doorhanger-sync-bookmarks-header = Bu yer imini telefonunuza gönderin
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Bu yazıyı yolda okuyun
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Bu PDF’i güvenle paylaşın
+cfr-doorhanger-firefox-send-ok-button = { -send-brand-name }’i deneyin
+    .accesskey = d

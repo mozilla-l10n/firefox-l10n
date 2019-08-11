@@ -43,6 +43,7 @@ login-list-count =
     }
 login-list-sort-label-text = Sıralama:
 login-list-name-option = Ad (A-Z)
+login-list-breached-option = Veri ihlaline uğrayan siteler
 login-list-last-changed-option = Son değişiklik
 login-list-last-used-option = Son kullanım
 login-list-intro-title = Hiç hesap bulunamadı
@@ -53,6 +54,7 @@ login-list-item-subtitle-missing-username = (kullanıcı adı yok)
 
 ## Introduction screen
 
+login-intro-heading = Kayıtlı hesaplarınızı mı arıyorsunuz? { -sync-brand-short-name }’i kurun.
 login-intro-instruction-faq = Daha fazla yardım için { -lockwise-brand-short-name } <a data-l10n-name="faq">sıkça sorulan sorular</a> sayfasını ziyaret edin
 
 ## Login
@@ -104,4 +106,5 @@ confirm-discard-changes-dialog-confirm-button = Vazgeç
 
 ## Breach Alert notification
 
+breach-alert-text = Giriş bilgilerinizi son güncellemenizden bu yana bu web sitesindeki parolalar sızdırılmış veya çalınmış. Hesabınızı korumak için parolanızı değiştirin.
 breach-alert-link = Bu ihlal hakkında daha fazla bilgi edinin.
