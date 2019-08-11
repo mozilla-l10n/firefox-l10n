@@ -40,7 +40,7 @@
 <!ENTITY contentEncodingError.title "Sisällön koodausvirhe">
 <!ENTITY contentEncodingError.longDesc "<p>Avattavaa sivua ei voida näyttää, koska se on pakattu virheellisesti tai muodossa, joka ei ole tuettu.</p><ul><li>Ilmoitathan sivuston omistajalle tästä ongelmasta.</li></ul>">
 
-<!ENTITY unsafeContentType.title "Ei turvallinen tiedostotyyppi">
+<!ENTITY unsafeContentType.title "Vaarallinen tiedostotyyppi">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>Ilmoitathan ongelmasta sivuston omistajalle.</li>
