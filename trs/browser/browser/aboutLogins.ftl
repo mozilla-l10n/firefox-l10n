@@ -6,8 +6,15 @@ about-logins-page-title = Nej riña gayi'ì' sesiûn & nej da'nga' huìi
 login-filter =
     .placeholder = Nana'uì' nej riña gayi'ì sesiûn
 create-login-button = Giri 'ngo riña gayi'ì sesiûn nakàa
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Favicon guendâ { $title }
 fxaccounts-sign-in-text = Giri da'ngā huìi da' garasunt riña a'ngo aga'aj
 fxaccounts-sign-in-button = Gatu riña { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = Si Kuendâ administrador
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -36,6 +43,7 @@ login-list-count =
     }
 login-list-sort-label-text = Nagi'aj chre' da':
 login-list-name-option = Si yugui (A-Z)
+login-list-breached-option = Nej sitiô riña gatûj yuhue nej si
 login-list-last-changed-option = Sa nagi'iât ne' rukù ni'inj
 login-list-last-used-option = Sa garajsun rukù nï't
 login-list-intro-title = Nu nari'ij riña gayi'ī sesiôn

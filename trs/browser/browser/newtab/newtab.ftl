@@ -116,6 +116,7 @@ newtab-menu-open-file = Na'nïn' chrû ñanj
 
 newtab-label-visited = Ga'anj ni'io'
 newtab-label-bookmarked = Sa arajsun nichrò' doj
+newtab-label-removed-bookmark = Nare' markadô
 newtab-label-recommended = Chrej nìkoj hua
 newtab-label-saved = Nanín sa'aj riña { -pocket-brand-name }
 newtab-label-download = Ngà nadunin'

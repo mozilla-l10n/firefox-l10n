@@ -2,8 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Extension da'ui' garasun'
+cfr-doorhanger-feature-heading = Nej sa ga'ue gini'ñanjt
 cfr-doorhanger-pintab-heading = Gini'iaj ngà nan: Pin Tab
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ¿Nuhuin saj ni'ia na nanj?
 cfr-doorhanger-extension-cancel-button = Si ga'ue akuan'ni
@@ -69,3 +76,25 @@ cfr-whatsnew-button =
     .label = Nù huin sa nakà hua
     .tooltiptext = Nù huin sa nakà hua
 cfr-whatsnew-panel-header = Nù huin sa nakà hua
+
+## Bookmark Sync
+
+cfr-doorhanger-sync-bookmarks-header = Ga'nïnj markadô nan riña si aga't li
+cfr-doorhanger-sync-bookmarks-body = Ganikaj nej si markadôt, da'nga' huìi, nej sa gi'iát ni a'ngô gà' nej sa huaa daran' nej ria gayi'ìt sesiûn { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = Dugi'iaj sun { -sync-brand-short-name }
+    .accesskey = T
+
+## Send Tab
+
+cfr-doorhanger-send-tab-header = Gahia nan huajt dan
+cfr-doorhanger-send-tab-recipe-header = Nikaj nuguan' nan gan'anjt ruhuâ dukuât
+cfr-doorhanger-send-tab-body = Rakïj ñanj taj Ga'nïnj gan'an a'nïnj da' duyingâ't enlasê nan riña si telefonôt asi danè' huin man'an gayi'ìt sesiûn { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Garahuè dàj 'iaj sun Ga'nïnj Rakïj ñanj
+    .accesskey = T
+
+## Firefox Send
+
+cfr-doorhanger-firefox-send-header = Duyinga' PDF nan
+cfr-doorhanger-firefox-send-body = Nga sifradô ekstremo nda ekstremo ga'ue gimàn sà' nej ñanj màn 'iát riña nej duguî' yi'ìi dadin' nare' link ngà gisîj 'iaj sunt.
+cfr-doorhanger-firefox-send-ok-button = Ginù huin { -send-brand-name }
+    .accesskey = T
