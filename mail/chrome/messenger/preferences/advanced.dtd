@@ -122,3 +122,8 @@
 <!ENTITY manageCertificates.accesskey "ф">
 <!ENTITY viewSecurityDevices.label "Устройства защиты">
 <!ENTITY viewSecurityDevices.accesskey "ы">
+
+<!ENTITY manageCertificates2.label "Управление сертификатами…">
+<!ENTITY manageCertificates2.accesskey "ф">
+<!ENTITY viewSecurityDevices2.label "Устройства защиты…">
+<!ENTITY viewSecurityDevices2.accesskey "ы">
