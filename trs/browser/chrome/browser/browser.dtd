@@ -149,6 +149,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Nutà' si yuguît riña &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Nachrūn &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "Kuênta">
+<!ENTITY fxa.menu.firefoxServices.label "Nej serbisiû &brandProductName;">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -859,20 +860,42 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Gachinj ni'iô'">
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "Yi'nïn' nej sa da'uî' gachìnj ni'iô'">
 <!ENTITY identity.permissionsEmpty "Nitaj si huaj gatut riña sitio na daj garan' ruat.">
 <!ENTITY identity.permissionsReloadHint "Nagi'iaj nakà ñut pajinâ na da' gi'iaj sun sa nadunat.">
 <!ENTITY identity.permissionsPreferences.tooltip "Na'nïn' sa achín ni'iaj">
+<!ENTITY identity.contentBlockingPreferences.tooltip "Na'nïn' sa arrán riña kontenido">
 
 
+<!ENTITY protections.etpON.header "Nga 'iaj sun sa narán rayi'ît nga aché nunt riña sitiô nan">
+<!ENTITY protections.etpOFF.header "Nitāj si 'iaj sun sa narán rayi'ît nga aché nunt riña sitiô nan">
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Gini'in doj dàj hua rayi'î sa narán rayi'ît nga aché nunt">
+<!ENTITY protections.settings.label "Riña 'na' nej sa nagi'iô' sa narán rayi'î'">
+<!ENTITY protections.report.label "Ni'iaj da' huā ngej">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "Nitāj si 'iaj sun sîtio a'?">
+<!ENTITY protections.siteNotWorkingView.title "Nitāj si 'iaj sun Sîtio a'?">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Guxūn nej sa narán rayi'ît sisī a'ui' yi'ìj riña:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Nej riña ga'ue gayi'ìt sesiûn">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Dàj huaj">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Du'ue">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Nuguan' atāj nej si">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Nej sa siki' ni'io'">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Huā nïn' na'ue gi'iaj sun sitio nga gisîj naránt riña sa dugumîn sò' a'?">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Ga'nïnj 'ngo infôrme">
 
+<!ENTITY protections.blocking.label "Garun'">
+<!ENTITY protections.notBlocking.label "Nitaj si hua ran">
+<!ENTITY protections.notBlocking.why.label "Nù huin saj?">
 
 
 
