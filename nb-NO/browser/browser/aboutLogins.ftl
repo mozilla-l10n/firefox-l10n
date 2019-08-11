@@ -55,7 +55,7 @@ login-list-item-subtitle-missing-username = (uten brukernavn)
 ## Introduction screen
 
 login-intro-heading = Ser du etter lagrede innlogginger? Konfigurer { -sync-brand-short-name }
-login-intro-description = Slik kan du få dine { -brand-product-name } innlogginer hit, om du har lagret de på en annen enhet
+login-intro-description = Slik kan du få dine { -brand-product-name } innlogginger hit, om du har lagret de på en annen enhet
 login-intro-instruction-fxa = Lag eller logg inn på din { -fxaccount-brand-name } på enheten der dine innlogginger er lagret
 login-intro-instruction-fxa-settings = Forsikre deg om at du har markert avkryssingsboksen for innlogginger i { -sync-brand-short-name }-innstillingene
 login-intro-instruction-faq = Besøk { -lockwise-brand-short-name } <a data-l10n-name="faq">ofte stilte spørsmål</a> for mer hjelp

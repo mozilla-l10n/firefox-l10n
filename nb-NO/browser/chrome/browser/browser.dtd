@@ -878,6 +878,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
 
 <!ENTITY protections.notBlocking.why.label "Hvorfor?">
+<!ENTITY protections.cryptominers.label "Kryptominere">
 
 
 
@@ -938,6 +939,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Rapporter problemer">
 <!ENTITY contentBlocking.breakageReportView2.description "Innholdsblokkering kan føre til problemer med enkelte nettsteder. Når du rapporterer problemer, hjelper du med å gjøre &brandShortName; bedre for alle. (Dette vil sende en URL, samt informasjon om nettleserinnstillingene dine, til Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Les mer">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Les mer">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL-adresse">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Hvilke problemer har du? (Valgfri)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Send rapport">
