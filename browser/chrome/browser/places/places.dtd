@@ -75,7 +75,7 @@
 <!ENTITY col.url.label           "כתובת">
 <!ENTITY col.mostrecentvisit.label "ביקור אחרון">
 <!ENTITY col.visitcount.label    "מספר ביקורים">
-<!ENTITY col.dateadded.label     "הוספה">
+<!ENTITY col.dateadded.label     "תאריך הוספה">
 <!ENTITY col.lastmodified.label  "שינוי אחרון">
 
 <!ENTITY historySearch.placeholder  "חיפוש בהיסטוריה">
