@@ -79,7 +79,7 @@ cfr-whatsnew-panel-header = 新版变化
 
 cfr-doorhanger-sync-bookmarks-header = 在手机上获取此书签
 cfr-doorhanger-sync-bookmarks-body = 将您的书签、密码、历史记录及更多，同步到登录至 { -brand-product-name } 的所有设备。
-cfr-doorhanger-sync-bookmarks-ok-button = 开启 { -sync-brand-short-name }
+cfr-doorhanger-sync-bookmarks-ok-button = 开启{ -sync-brand-short-name }
     .accesskey = T
 
 ## Send Tab
