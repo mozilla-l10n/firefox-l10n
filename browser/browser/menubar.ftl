@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Полный экран
     .accesskey = э
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Показать все вкладки
@@ -210,13 +210,13 @@ menu-tools-addons =
     .label = Дополнения
     .accesskey = Д
 menu-tools-sync-sign-in =
-    .label = Войти в Синхронизацию…
+    .label = Войти в { -sync-brand-short-name(case: "accusative") }…
     .accesskey = о
 menu-tools-sync-now =
     .label = Синхронизировать
     .accesskey = х
 menu-tools-sync-re-auth =
-    .label = Переприсоединиться к Синхронизации…
+    .label = Переприсоединиться к { -sync-brand-short-name(case: "genitive") }…
     .accesskey = и
 menu-tools-web-developer =
     .label = Веб-разработка
