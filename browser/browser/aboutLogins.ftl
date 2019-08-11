@@ -11,7 +11,7 @@ create-login-button = ანგარიშის ახალი მონა�
 #   $title (String) - The title of the website associated with the favicon.
 login-favicon =
     .alt = ხატულა საიტის { $title }
-fxaccounts-sign-in-text = მიიღეთ თქვენს პაროლებთან წვდომა, სხვა მოწყობილობებიდანაც
+fxaccounts-sign-in-text = გააზიარეთ პაროლები სხვა მოწყობილობებზეც
 fxaccounts-sign-in-button = { -sync-brand-short-name } – შესვლა
 fxaccounts-avatar-button =
     .title = ანგარიშების მართვა
@@ -42,7 +42,7 @@ login-list-count =
        *[other] { $count } ანგარიშის მონაცემი
     }
 login-list-sort-label-text = დალაგება:
-login-list-name-option = ანბანურად
+login-list-name-option = ანბანური
 login-list-breached-option = მიტაცების მსხვერპლი საიტები
 login-list-last-changed-option = ბოლოს ჩასწორებული
 login-list-last-used-option = ბოლოს გამოყენებული
