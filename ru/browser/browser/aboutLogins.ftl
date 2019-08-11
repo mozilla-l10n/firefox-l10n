@@ -63,12 +63,64 @@ login-intro-instruction-faq = Посетите <a data-l10n-name="faq">част�
 
 ## Login
 
+login-item-new-login-title = Создать новый логин
+login-item-edit-button = Изменить
+login-item-delete-button = Удалить
+login-item-origin-label = Адрес веб-сайта
+login-item-origin =
+    .placeholder = https://www.example.com
+login-item-open-site-button = Открыть
+login-item-username-label = Имя пользователя
+login-item-username =
+    .placeholder = имя@example.com
+login-item-copy-username-button-text = Копировать
+login-item-copied-username-button-text = Скопировано!
+login-item-password-label = Пароль
+login-item-password-reveal-checkbox-show =
+    .title = Показать пароль
+login-item-password-reveal-checkbox-hide =
+    .title = Скрыть пароль
+login-item-copy-password-button-text = Копировать
+login-item-copied-password-button-text = Скопировано!
+login-item-save-changes-button = Сохранить изменения
+login-item-save-new-button = Сохранить
+login-item-cancel-button = Отмена
+login-item-time-changed = Последнее изменение: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Создано: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Последнее использование: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
+master-password-notification-message = Пожалуйста, введите ваш мастер-пароль для просмотра сохранённых логинов и паролей
+master-password-reload-button =
+    .label = Войти
+    .accesskey = В
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Отмена
+confirmation-dialog-dismiss-button =
+    .title = Отмена
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Хотите получать доступ к вашим логинам везде, где бы вы ни использовали { -brand-product-name }? Перейдите в настройки { -sync-brand-short-name(case: "genitive") } и выберите «Логины».
+       *[other] Хотите получать доступ к вашим логинам везде, где бы вы ни использовали { -brand-product-name }? Перейдите в настройки { -sync-brand-short-name(case: "genitive") } и выберите «Логины».
+    }
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Открыть настройки { -sync-brand-short-name(case: "genitive") }
+           *[other] Открыть настройки { -sync-brand-short-name(case: "genitive") }
+        }
+    .accesskey = О
+confirm-delete-dialog-title = Удалить этот логин?
+confirm-delete-dialog-message = Это действие не может быть отменено.
+confirm-delete-dialog-confirm-button = Удалить
+confirm-discard-changes-dialog-title = Отменить несохранённые изменения?
+confirm-discard-changes-dialog-message = Все несохранённые изменения будут потеряны.
+confirm-discard-changes-dialog-confirm-button = Отменить
 
 ## Breach Alert notification
 
+breach-alert-text = С момента последнего обновления данных для входа, с этого сайта произошла утечка или кража паролей. Измените ваш пароль, чтобы защитить свой аккаунт.
+breach-alert-link = Узнать больше об этой утечке.
