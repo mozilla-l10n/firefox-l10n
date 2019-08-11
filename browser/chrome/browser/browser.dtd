@@ -362,7 +362,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "首选项">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
-<!ENTITY logins.label                           "登录信息">
+<!ENTITY logins.label                           "我的密码">
 
 <!ENTITY clearRecentHistory.label               "清除最近的历史记录…">
 

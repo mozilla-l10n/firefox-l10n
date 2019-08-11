@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-logins-page-title = 登录信息
+about-logins-page-title = 我的密码
 login-filter =
     .placeholder = 搜索登录信息
 create-login-button = 新建登录信息
