@@ -141,6 +141,10 @@ newtab-section-menu-privacy-notice = პირადი მონაცემე
 
 ## Section aria-labels
 
+newtab-section-collapse-section-label =
+    .aria-label = ამ ნაწილის აკეცვა
+newtab-section-expand-section-label =
+    .aria-label = ამ ნაწილის გაშლა
 
 ## Section Headers.
 
@@ -160,7 +164,12 @@ newtab-empty-section-topstories = უკვე ყველაფერს გ�
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = ყველაფერი წაკითხულია!
+newtab-discovery-empty-section-topstories-content = ახალი ამბების სანახავად, შეამოწმეთ მოგვიანებით.
 newtab-discovery-empty-section-topstories-try-again-button = ხელახლა ცდა
+newtab-discovery-empty-section-topstories-loading = იტვირთება...
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = ჰმ! თითქმის ჩაიტვირთა, მაგრამ სრულად არა.
 
 ## Pocket Content Section.
 
