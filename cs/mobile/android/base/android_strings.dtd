@@ -21,6 +21,7 @@
 <!ENTITY firstrun_data_message "Méně přenesených dat, větší úspora">
 <!ENTITY firstrun_data_subtext2 "Vypnutím obrázků přenesete méně dat na každé stránce, kterou navštívíte.">
 <!ENTITY firstrun_sync_title "Synchronizace">
+<!ENTITY updatednewfirstrun_sync_title "Účet">
 <!ENTITY firstrun_sync_message2 "Pokračujte tam, kde jste skončili.">
 <!ENTITY firstrun_sync_subtext2 "Používejte Sync k nalezení záložek, hesel a dalších věcí uložených v aplikaci &brandShortName; na všech vašich zařízeních.">
 <!ENTITY newfirstrun_sync_subtext "Synchronizujte věci, které ukládáte na mobilu, s Firefoxem pro počítač – soukromě a bezpečně.">
@@ -28,6 +29,7 @@
 <!ENTITY firstrun_signin_message "Připojte se a začněte">
 <!ENTITY firstrun_signin_button "Přihlásit se ke službě Sync">
 <!ENTITY newfirstrun_signin_button "Zapnout synchronizaci">
+<!ENTITY updatednewfirstrun_signin_button "Přihlaste se do aplikace &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Začít prohlížet">
 <!ENTITY firstrun_button_notnow "Nyní ne">
 <!ENTITY firstrun_button_next "Další">
@@ -69,6 +71,9 @@
 <!ENTITY  crash_restart_label "Restartovat &brandShortName;">
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "Aplikace &brandShortName; spadla">
+<!ENTITY  crash_notification_message "Klepnutím pád nahlásíte společnosti &vendorShortName;">
+<!ENTITY  crash_notification_negative_button_text "Ignorovat">
 
 <!ENTITY url_bar_default_text2 "Zadejte adresu nebo dotaz pro vyhledávač">
 
@@ -113,6 +118,7 @@
 <!ENTITY bookmark_add_folder "Přidat novou složku">
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(bez titulku)">
 
 <!ENTITY reader_saved_offline "Uloženo offline">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -589,6 +595,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "Klíčové slovo">
 <!ENTITY bookmark_select_folder "Vybrat složku">
 
+<!ENTITY bookmark_edit_undo "Vrátit změny">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -677,6 +684,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Vyberte nebo nahrajte zvuk">
 <!ENTITY filepicker_image_title "Vyberte nebo vyfoťte obrázek">
 <!ENTITY filepicker_video_title "Vyberte nebo natočte video">
+<!ENTITY filepicker_permission_denied "Požadovaná oprávnění nebyla udělena, bude použit systémový výběr souborů.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Jste připojeni k">
