@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-config-warning-checkbox = মোক আকৌ আমনি কৰকচোন!
+about-config2-title = অগ্ৰণী ক'নফিগাৰেশ্যন
 about-config-search-input =
     .placeholder = সন্ধান কৰক
 about-config-show-all = সকলো দেখুৱাওক
