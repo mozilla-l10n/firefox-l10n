@@ -18,6 +18,8 @@
 # and kept in English.
 -fxaccount-brand-name =
     { $case ->
-        [instrumental] Firefox-ანგარიშით
-       *[nominative] Firefox-ანგარიში
+       *[nom] Firefox-ანგარიში
+        [dat] Firefox-ანგარიშ
+        [gen] Firefox-ანგარიშის
+        [ins] Firefox-ანგარიშით
     }
