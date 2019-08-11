@@ -3,19 +3,27 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "არსებული ელფოსტის ანგარიშის გამართვა">
+
+<!ENTITY emailWizard.title               "გამართეთ თქვენი არსებული ელფოსტის მისამართი">
+<!ENTITY emailWizard.caption             "გამოიყენეთ თქვენი არსებული ელფოსტის მისამართი">
 <!ENTITY name.label                      "თქვენი სახელი:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "სახელი გვარი">
+<!ENTITY fullname.placeholder            "თქვენი სრული სახელი">
 <!ENTITY name.text                       "სახელი, რომლებსაც სხვები დაინახავენ">
+<!ENTITY name.error                      "გთხოვთ მიუთითოთ თქვენი სახელი">
 <!ENTITY email.label                     "ელფოსტის მისამართი:">
 <!ENTITY email.accesskey                 "l">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "სახელი@example.com">
+<!ENTITY email3.placeholder              "თქვენი ელფოსტის მისამართი">
 <!ENTITY email.text                      "თქვენი მიმდინარე ელფოსტის მისამართი">
+<!ENTITY email.error                     "ელფოსტის არასწორი მისამართი">
 <!ENTITY password.label                  "პაროლი:">
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "პაროლი">
 <!ENTITY password.text                   "სურვილისამებრ, გამოიყენება მხოლოდ სახელის ამოსაცნობად">
+<!ENTITY password.toggle                 "პაროლის გამოჩენა/დამალვა">
 <!ENTITY rememberPassword.label          "პაროლის დამახსოვრება">
 <!ENTITY rememberPassword.accesskey      "m">
 <!ENTITY usernameEx.label                "თქვენი შესვლის მონაცემები:">
@@ -25,15 +33,21 @@
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 <!ENTITY usernameEx.text                 "Domain-ანგარიშის მონაცემები">
 
+<!ENTITY protocol.label                  "ოქმი:">
 <!ENTITY imapLong.label                  "IMAP (ვებსაქაღალდეები)">
 <!ENTITY pop3Long.label                  "POP3 (ფოსტის შენახვა თქვენს კომპიუტერში)">
 
 <!ENTITY incoming.label                  "შემომავალი:">
+<!ENTITY incomingColumn.label            "მიღებული">
 <!ENTITY outgoing.label                  "გამავალი:">
+<!ENTITY outgoingColumn.label            "გაგზავნილი">
 <!ENTITY username.label                  "სახელი:">
 <!ENTITY hostname.label                  "სერვერის ჰოსტი">
 <!ENTITY port.label                      "პორტი">
 <!ENTITY ssl.label                       "SSL">
+<!ENTITY serverRow.label                 "სერვერი:">
+<!ENTITY portRow.label                   "პორტი:">
+<!ENTITY sslRow.label                    "SSL:">
 <!ENTITY auth.label                      "აუთენტიფიკაცია">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
@@ -59,15 +73,21 @@
 <!ENTITY stop.label                      "შეწყვეტა">
 <!ENTITY stop.accesskey                  "S">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "ხელახლა შემოწმება">
 <!ENTITY half-manual-test.accesskey      "t">
 <!ENTITY manual-edit.label               "ხელით გამართვა">
 <!ENTITY manual-edit.accesskey           "M">
+<!ENTITY manual-config.label             "ხელით გამართვა…">
+<!ENTITY manual-config.accesskey         "ხ">
 <!ENTITY open-provisioner.label          "ელფოსტის ახალი მისამართის მიღება…">
 <!ENTITY open-provisioner.accesskey      "რ">
+
+
+<!ENTITY get-help.label                  "დახმარების მიღება">
+<!ENTITY get-help.accesskey              "დ">
 
 
 <!ENTITY warning.label                   "გაფრთხილება!">
