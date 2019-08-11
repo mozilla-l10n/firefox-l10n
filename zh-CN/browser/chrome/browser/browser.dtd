@@ -867,8 +867,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "打开内容拦截首选项">
 
 
-<!ENTITY protections.etpON.header "已开启对此网站的增强型跟踪保护">
-<!ENTITY protections.etpOFF.header "已关闭对此网站的增强型跟踪保护">
+<!ENTITY protections.etpON.header "对此网站已开启增强型跟踪保护">
+<!ENTITY protections.etpOFF.header "对此网站已关闭增强型跟踪保护">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "关于增强型跟踪保护功能的更多信息">

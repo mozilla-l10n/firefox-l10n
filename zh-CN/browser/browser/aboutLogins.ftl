@@ -12,7 +12,7 @@ create-login-button = 新建登录信息
 login-favicon =
     .alt = { $title } - 网站图标
 fxaccounts-sign-in-text = 在您的其他设备上取得您的密码
-fxaccounts-sign-in-button = 登录 { -sync-brand-short-name }
+fxaccounts-sign-in-button = 登录至{ -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = 管理账户
 
@@ -53,10 +53,10 @@ login-list-item-subtitle-missing-username = （无用户名）
 
 ## Introduction screen
 
-login-intro-heading = 在找您保存的登录信息？请设置 { -sync-brand-short-name }。
+login-intro-heading = 在找您保存的登录信息？请设置“{ -sync-brand-short-name }”。
 login-intro-description = 若您曾在其他设备上将登录信息保存到 { -brand-product-name }，请按以下步骤操作：
 login-intro-instruction-fxa = 在您保存登录信息的设备，注册或登录 { -fxaccount-brand-name }
-login-intro-instruction-fxa-settings = 确定您已在 { -sync-brand-short-name }设置中勾选了“登录信息”复选框
+login-intro-instruction-fxa-settings = 确定您已在“{ -sync-brand-short-name }”设置中勾选了“登录信息”复选框
 login-intro-instruction-faq = 若需帮助，可参阅 { -lockwise-brand-short-name } <a data-l10n-name="faq">常见问题</a>
 
 ## Login
@@ -107,8 +107,8 @@ enable-password-sync-notification-message =
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
-            [windows] 前往 { -sync-brand-short-name }选项
-           *[other] 前往 { -sync-brand-short-name }首选项
+            [windows] 前往{ -sync-brand-short-name }选项
+           *[other] 前往{ -sync-brand-short-name }首选项
         }
     .accesskey = V
 confirm-delete-dialog-title = 删除此登录信息？

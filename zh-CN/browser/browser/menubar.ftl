@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = 全屏
     .accesskey = F
 
-##
+
 
 menu-view-show-all-tabs =
     .label = 显示所有标签页
@@ -210,13 +210,13 @@ menu-tools-addons =
     .label = 附加组件
     .accesskey = A
 menu-tools-sync-sign-in =
-    .label = 登录至{ -sync-brand-short-name }服务…
+    .label = 登录至{ -sync-brand-short-name }…
     .accesskey = Y
 menu-tools-sync-now =
     .label = 立即同步
     .accesskey = S
 menu-tools-sync-re-auth =
-    .label = 重新连接{ -sync-brand-short-name }服务…
+    .label = 重新连接至{ -sync-brand-short-name }…
     .accesskey = R
 menu-tools-web-developer =
     .label = Web 开发者
