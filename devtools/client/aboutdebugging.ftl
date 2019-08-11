@@ -109,10 +109,18 @@ about-debugging-setup-usb-status-enabled = Povoleno
 about-debugging-setup-usb-status-disabled = Zakázáno
 about-debugging-setup-usb-status-updating = Probíhá aktualizace…
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Zapněte nabídku vývojáře na vašem zařízení s Android.
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Připojte zařízení s Androidem k vašemu počítači.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = Problémy s připojením k zařízení přes USB? <a>Poradce při potížích</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Síťové umístění
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = Problémy s připojením přes síť? <a>Poradce při potížích</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Přidat
@@ -125,6 +133,10 @@ about-debugging-network-locations-host-input-label = Server
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Odebrat
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = Neplatný hostitel „{ $host-value }“. Očekávaný formát je „hostname:port“.
 # Text used as error message if the input value was already registered in the network locations form of the Setup page.
 # Variables:
 #   $host-value (string) - The input value submitted by the user in the network locations form
@@ -155,10 +167,25 @@ about-debugging-runtime-other-workers =
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Procesy
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button2 = Profilování výkonu
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = Konfigurace vašeho prohlížeče není kompatibilní se Service Workers. <a>Zjistit více</a>
+# This string is displayed in the runtime page if the remote browser version is too old.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-browser-version-too-old = Připojený prohlížeč má starou verzi ({ $runtimeVersion }). Minimální podporovaná verze je ({ $minVersion }). Toto je nepodporovaná konfigurace a může způsobit nefunkčnost nástrojů pro vývojáře. Prosím aktualizujte připojený prohlížeč. <a> Poradce při potížích</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# - from Fx 67 to 66 or to 65
+# - from Fx 68 to 66
+# Those are normally in range for DevTools compatibility policy, but specific non
+# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+about-debugging-browser-version-too-old-67-debugger = Debugger nemusí fungovat s připojeným prohlížečem. Použijte prosím Firefox { $runtimeVersion } pokud potřebujete používat Debugger s tímto prohlížečem.
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -166,6 +193,12 @@ about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Odpojit
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = Povolit výzvu k připojení
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is true on the target runtime.
+about-debugging-connection-prompt-disable-button = Zakázat výzvu k připojení
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
@@ -254,3 +287,9 @@ about-debugging-main-process-description2 = Hlavní proces pro cílový prohlí�
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Zavřít zprávu
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = Podrobnosti o chybě
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = Podrobnosti upozornění
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = Podrobnosti
