@@ -6,6 +6,12 @@ about-logins-page-title = Лагіны & паролі
 login-filter =
     .placeholder = Шукаць лагіны
 create-login-button = Дадаць новы лагін
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Значок для { $title }
+fxaccounts-sign-in-text = Атрымайце доступ да сваіх пароляў на іншых прыладах
 fxaccounts-sign-in-button = Увайсці ў { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Кіраванне ўліковым запісам
@@ -99,3 +105,4 @@ confirm-discard-changes-dialog-confirm-button = Адхіліць
 
 ## Breach Alert notification
 
+breach-alert-link = Даведацца больш пра гэту ўцечку.
