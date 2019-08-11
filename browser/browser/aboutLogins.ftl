@@ -40,7 +40,7 @@ login-list-count =
     { $count ->
        *[other] { $count } 条登录信息
     }
-login-list-sort-label-text = 排序依照：
+login-list-sort-label-text = 顺序：
 login-list-name-option = 名称（A-Z）
 login-list-breached-option = 发生数据外泄的网站
 login-list-last-changed-option = 最后修改
