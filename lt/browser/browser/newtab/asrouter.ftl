@@ -2,8 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Rekomenduojamas priedas
+cfr-doorhanger-feature-heading = Rekomenduojama funkcija
 cfr-doorhanger-pintab-heading = Pabandykite: kortelės įsegimas
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Kodėl tai matau
 cfr-doorhanger-extension-cancel-button = Ne dabar
@@ -71,3 +78,25 @@ cfr-whatsnew-button =
     .label = Kas naujo
     .tooltiptext = Kas naujo
 cfr-whatsnew-panel-header = Kas naujo
+
+## Bookmark Sync
+
+cfr-doorhanger-sync-bookmarks-header = Gaukite šį adresyno įrašą savo telefone
+cfr-doorhanger-sync-bookmarks-body = Turėkite savo adresyną, slaptažodžius, žurnalą ir kitką visur, kur esate prisijungę prie „{ -brand-product-name }“.
+cfr-doorhanger-sync-bookmarks-ok-button = Įjungti „{ -sync-brand-short-name }“
+    .accesskey = j
+
+## Send Tab
+
+cfr-doorhanger-send-tab-header = Skaitykite tai keliaudami
+cfr-doorhanger-send-tab-recipe-header = Nusineškite šį receptą į virtuvę
+cfr-doorhanger-send-tab-body = Kortelių persiuntimas leidžia lengvai perduoti šį saitą į jūsų telefoną ar bet kur kitur, kur esate prisijungę prie „{ -brand-product-name }“.
+cfr-doorhanger-send-tab-ok-button = Išbandyti  kortelių persiuntimą
+    .accesskey = b
+
+## Firefox Send
+
+cfr-doorhanger-firefox-send-header = Dalintis šiuo PDF saugiai
+cfr-doorhanger-firefox-send-body = Laikykite savo svarbius failus saugiai, naudodamiesi ištisiniu šifravimu ir gaudami saitą, kuris išnyksta po nustato laiko.
+cfr-doorhanger-firefox-send-ok-button = Išbandyti „{ -send-brand-name }“
+    .accesskey = b
