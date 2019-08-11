@@ -148,6 +148,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxa.menu.turnOnSync.label "הפעלת &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "חשבון">
+<!ENTITY fxa.menu.firefoxServices.label "שירותי &brandProductName;">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -857,6 +858,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "פתיחת העדפות לחסימת תוכן">
 
 
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.settings.label "הגדרות הגנה">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -869,6 +872,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
 
+<!ENTITY protections.blocking.label "בחסימה">
+<!ENTITY protections.notBlocking.label "לא בחסימה">
+<!ENTITY protections.notBlocking.why.label "למה?">
 
 
 <!ENTITY protections.manageProtectionSettings.label "ניהול הגדרות הגנה">
