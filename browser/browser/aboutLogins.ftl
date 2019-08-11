@@ -55,6 +55,8 @@ login-list-item-subtitle-missing-username = (ikkje noko brukarnamn)
 ## Introduction screen
 
 login-intro-heading = Ser du etter lagra innloggingar? Konfigurer { -sync-brand-short-name }
+login-intro-description = Slik kan du få { -brand-product-name }-innloggingane dine hit, om du har lagra dei på ei anna eining:
+login-intro-instruction-fxa = Lag eller logg inn på { -fxaccount-brand-name } på eininga der innloggingane dine er lagra
 
 ## Login
 
