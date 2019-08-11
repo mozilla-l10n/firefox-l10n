@@ -78,6 +78,8 @@ cfr-whatsnew-panel-header = რა სიახლეებია
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-ok-button = ჩართეთ { -sync-brand-short-name }
+    .accesskey = ჩ
 
 ## Send Tab
 
