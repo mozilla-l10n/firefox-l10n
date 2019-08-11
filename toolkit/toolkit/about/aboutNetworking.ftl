@@ -57,3 +57,13 @@ rcwn-avg-long = Ilgas vidurkis
 rcwn-std-dev-long = Ilgas standartinis nuokrypis
 rcwn-cache-slow = Podėlio lėto kiekis
 rcwn-cache-not-slow = Podėlio ne lėto kiekis
+networkid = Tinklo ID
+networkid-id = Tinklo ID
+
+## Link is intended as "network link"
+
+networkid-isUp = Ryšys veikia
+networkid-statusKnown = Ryšio būsena žinoma
+
+
+

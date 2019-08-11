@@ -149,6 +149,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Prisijungti prie „&brandProductName;“">
 <!ENTITY fxa.menu.turnOnSync.label "Įjungti „&syncBrand.shortName.label;“">
 <!ENTITY fxa.menu.account.label "Paskyra">
+<!ENTITY fxa.menu.firefoxServices.label "„&brandProductName;“ paslaugos">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -868,6 +869,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY protections.etpON.header "Išplėsta apsauga nuo stebėjimo šioje svetainėje įjungta">
 <!ENTITY protections.etpOFF.header "Išplėsta apsauga nuo stebėjimo šioje svetainėje išjungta">
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Daugiau informacijos apie išplėstą apsaugą nuo stebėjimo">
 <!ENTITY protections.settings.label "Apsaugos nuostatos">
 <!ENTITY protections.report.label "Rodyti visą ataskaitą">
 <!-- LOCALIZATION NOTE:

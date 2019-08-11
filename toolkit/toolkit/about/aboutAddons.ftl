@@ -155,9 +155,6 @@ private-browsing-description2 =
     neveiks naršant privačiai, ir neturės prieigos prie tokios jūsų veiklos. Šį pakeitimą atlikome
     norėdami išlaikyti jūsų privatųjį naršymą privačiu.
     <label data-l10n-name="private-browsing-learn-more">Sužinokite, kaip tvarkyti priedų nuostatas.</label>
-extensions-view-discover =
-    .name = Parsisiųsti priedų
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Rekomendacijos
     .tooltiptext = { extensions-view-discopane.name }
@@ -316,6 +313,16 @@ release-notes-addon-button = Laidos apžvalga
 permissions-addon-button = Leidimai
 addons-enabled-heading = Įjungta
 addons-disabled-heading = Išjungta
+extension-enabled-heading = Įjungtas
+extension-disabled-heading = Išjungtas
+theme-enabled-heading = Įjungtas
+theme-disabled-heading = Išjungtas
+plugin-enabled-heading = Įjungtas
+plugin-disabled-heading = Išjungtas
+dictionary-enabled-heading = Įjungtas
+dictionary-disabled-heading = Išjungtas
+locale-enabled-heading = Įjungta
+locale-disabled-heading = Išjungta
 ask-to-activate-button = Klausti prieš aktyvinant
 always-activate-button = Visada aktyvinti
 never-activate-button = Niekada neaktyvinti
