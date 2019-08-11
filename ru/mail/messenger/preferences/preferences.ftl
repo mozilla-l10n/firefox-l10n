@@ -2,6 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+pane-general-title = Основные
+category-general =
+    .tooltiptext = { pane-general-title }
+general-language-and-appearance-header = Язык и внешний вид
+general-incoming-mail-header = Входящие сообщения
+general-files-and-attachment-header = Файлы и вложения
+general-tags-header = Метки
+general-reading-and-display-header = Чтение и отображение
+general-updates-header = Обновления
+general-network-and-diskspace-header = Сеть и дисковое пространство
+general-indexing-label = Индексация
 choose-messenger-language-description = Выберите язык отображения меню, сообщений и уведомлений от { -brand-short-name }.
 manage-messenger-languages-button =
     .label = Выбрать альтернативные…
