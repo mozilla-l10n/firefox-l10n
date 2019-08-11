@@ -434,7 +434,7 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Izrezki
-home-prefs-snippets-description = Novice iz sveta Mozille in { -brand-product-name }a
+home-prefs-snippets-description = Novice organizacije { -vendor-short-name } in { -brand-product-name }a
 home-prefs-sections-rows-option =
     .label =
         { $num ->
