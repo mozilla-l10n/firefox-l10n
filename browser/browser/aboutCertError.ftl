@@ -15,12 +15,25 @@ cert-error-trust-symantec = GeoTrust, RapidSSL, Symantec, Thawte আৰু VeriS
 cert-error-untrusted-default = এই প্ৰমাণপত্ৰ বিশ্বাসী উৎসৰ পৰা নাহে।
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-# $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single = ৱেবছাইটবোৰে প্ৰমাণপত্ৰৰ মাধ্যমেৰে নিজৰ পৰিচয় প্ৰমাণ কৰে। { -brand-short-name }-এ এই ছাইটক বিশ্বাস নকৰে কাৰণ ই এনে প্ৰমাণপত্ৰ ব্যৱহাৰ কৰে যি { $hostname }-ৰ বাবে বৈধ নহয়। প্ৰমাণপত্ৰখন কেৱল <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>-ৰ বাবে বৈধ।
+cert-error-domain-mismatch = ৱেবছাইটবোৰে প্ৰমাণপত্ৰৰ মাধ্যমেৰে নিজৰ পৰিচয় প্ৰমাণ কৰে। { -brand-short-name }-এ এই ছাইটক বিশ্বাস নকৰে কাৰণ ই এনে এখন প্ৰমাণপত্ৰ ব্যৱহাৰ কৰে যি { $hostname }-ৰ বাবে বৈধ নহয়।
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single-nolink = ৱেবছাইটবোৰে প্ৰমাণপত্ৰৰ মাধ্যমেৰে নিজৰ পৰিচয় প্ৰমাণ কৰে। { -brand-short-name }-এ এই ছাইটক বিশ্বাস নকৰে কাৰণ ই এনে প্ৰমাণপত্ৰ ব্যৱহাৰ কৰে যি { $hostname }-ৰ বাবে বৈধ নহয়। প্ৰমাণপত্ৰখন কেৱল { $alt-name }-ৰ বাবে বৈধ।
+cert-error-domain-mismatch-single = ৱেবছাইটবোৰে প্ৰমাণপত্ৰৰ মাধ্যমেৰে নিজৰ পৰিচয় প্ৰমাণ কৰে। { -brand-short-name }-এ এই ছাইটক বিশ্বাস নকৰে কাৰণ ই এনে এখন প্ৰমাণপত্ৰ ব্যৱহাৰ কৰে যি { $hostname }-ৰ বাবে বৈধ নহয়। প্ৰমাণপত্ৰখন কেৱল <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>-ৰ বাবে বৈধ।
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single-nolink = ৱেবছাইটবোৰে প্ৰমাণপত্ৰৰ মাধ্যমেৰে নিজৰ পৰিচয় প্ৰমাণ কৰে। { -brand-short-name }-এ এই ছাইটক বিশ্বাস নকৰে কাৰণ ই এনে এখন প্ৰমাণপত্ৰ ব্যৱহাৰ কৰে যি { $hostname }-ৰ বাবে বৈধ নহয়। প্ৰমাণপত্ৰখন কেৱল { $alt-name }-ৰ বাবে বৈধ।
+# Variables:
+# $subject-alt-names (String) - Alternate domain names for which the cert is valid.
+cert-error-domain-mismatch-multiple = ৱেবছাইটবোৰে প্ৰমাণপত্ৰৰ মাধ্যমেৰে নিজৰ পৰিচয় প্ৰমাণ কৰে। { -brand-short-name }-এ এই ছাইটক বিশ্বাস নকৰে কাৰণ ই এনে এখন প্ৰমাণপত্ৰ ব্যৱহাৰ কৰে যি { $hostname }-ৰ বাবে বৈধ নহয়। প্ৰমাণপত্ৰখন কেৱল তলত দিয়া নামবোৰৰ বাবে বৈধ: { $subject-alt-names }
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = ত্ৰুটি ক'ড: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = HTTP কঠোৰ পৰিবহন নিৰাপত্তা: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = HTTP পাব্লিক কী পিনিং: { $hasHPKP }
+cert-error-details-cert-chain-label = প্ৰমাণপত্ৰ শৃংখলা:
