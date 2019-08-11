@@ -81,7 +81,7 @@
 </ul>
 ">
 
-<!ENTITY unsafeContentType.title "Ei turvallinen tiedostotyyppi">
+<!ENTITY unsafeContentType.title "Vaarallinen tiedostotyyppi">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>Ilmoita sivuston omistajalle tästä ongelmasta.</li>
