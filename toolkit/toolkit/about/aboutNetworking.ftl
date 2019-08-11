@@ -62,6 +62,8 @@ networkid-id = Ağ kimliği
 
 ## Link is intended as "network link"
 
+networkid-isUp = Bağlantı çalışıyor
+networkid-statusKnown = Bağlantı durumu bilinmiyor
 
 
 

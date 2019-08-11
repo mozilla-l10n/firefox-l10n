@@ -151,7 +151,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.launch "&sendShortName;’i aç">
 <!ENTITY fxa.service.monitor.description "E-postanızın bir veri ihlalinde var olup olmadığını kontrol edin ve yeni bir ihlalde var olursa uyarı alın.">
+<!ENTITY fxa.service.monitor.launch "&monitorShortName;’i aç">
+<!ENTITY fxa.service.sendTab.description "Giriş yaptığınız her cihaza anında sekme gönderin.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -865,6 +868,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpOFF.header "Bu sitede gelişmiş izlenme koruması KAPALI">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Gelişmiş izlenme koruması hakkında daha fazla bilgi">
 <!ENTITY protections.settings.label "Koruma ayarları">
 <!ENTITY protections.report.label "Raporun tamamını göster">
 <!-- LOCALIZATION NOTE:
@@ -891,6 +895,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.notBlocking.why.label "Neden?">
 <!ENTITY protections.socialMediaTrackers.label "Sosyal Medya Takipçileri">
 <!ENTITY protections.crossSiteTrackingCookies.label "Siteler Arası Takip Çerezleri">
+<!ENTITY protections.trackingContent.label "Takip amaçlı içerikler">
 <!ENTITY protections.fingerprinters.label "Parmak izi toplayıcılar">
 <!ENTITY protections.cryptominers.label "Kripto madenciler">
 <!ENTITY protections.noTrackersFound.description "Bu sayfada &brandShortName; tarayıcısının tanıdığı bir takipçi tespit edilmedi.">
@@ -938,6 +943,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Takipçiler">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Takip amaçlı içerikler">
 
 <!ENTITY contentBlocking.manageSettings.label "İçerik engellemeyi yönet">
 <!ENTITY contentBlocking.manageSettings.accesskey "e">
@@ -945,6 +951,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "Takipçiler">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Tüm takipçileri engellemek için içerik engellemeyi “Sıkı” olarak ayarlayın.">
 
+<!ENTITY contentBlocking.socialblock.label "Sosyal medya takipçileri">
+<!ENTITY contentBlocking.socialblockView.label "Engellenen sosyal medya takipçileri">
 
 <!ENTITY contentBlocking.cookies.label "Çerezler">
 <!ENTITY contentBlocking.cookiesView.label "Çerezler ve site verileri">
