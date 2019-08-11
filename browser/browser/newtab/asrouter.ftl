@@ -6,6 +6,7 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = შემოთავაზებული გაფართოება
+cfr-doorhanger-feature-heading = შემოთავაზებული შესაძლებლობა
 cfr-doorhanger-pintab-heading = სცადეთ: ჩანართის მიმაგრება
 
 
@@ -78,6 +79,8 @@ cfr-whatsnew-panel-header = რა სიახლეებია
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = მიიღეთ ეს სანიშნი თქვენს ტელეფონზე
+cfr-doorhanger-sync-bookmarks-body = თან წაიყოლეთ თქვენი სანიშნები, პაროლები, ისტორია და ა. შ. ყველგან, სადაც გიყენიათ { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = ჩართეთ { -sync-brand-short-name }
     .accesskey = ჩ
 
@@ -85,6 +88,7 @@ cfr-doorhanger-sync-bookmarks-ok-button = ჩართეთ { -sync-brand-short
 
 cfr-doorhanger-send-tab-header = წაიკითხეთ გზაში
 cfr-doorhanger-send-tab-recipe-header = წაიღეთ ეს მომზადების წესი სამზარეულოში
+cfr-doorhanger-send-tab-body = Send Tab საშუალებას გაძლევთ მარტივად გააზიაროთ ეს ბმული თქვენს ტელეფონზე ან ნებისმიერ მოწყობილობაზე, სადაც გიყენიათ { -brand-product-name }.
 cfr-doorhanger-send-tab-ok-button = გამოცადეთ Send Tab
     .accesskey = ც
 
