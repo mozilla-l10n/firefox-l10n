@@ -78,15 +78,21 @@ cfr-whatsnew-panel-header = 新版变化
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = 在手机上获取此书签
+cfr-doorhanger-sync-bookmarks-body = 将您的书签、密码、历史记录及更多，同步到登录至 { -brand-product-name } 的所有设备。
 cfr-doorhanger-sync-bookmarks-ok-button = 开启 { -sync-brand-short-name }
     .accesskey = T
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = 随时随地阅读
+cfr-doorhanger-send-tab-recipe-header = 把这篇食谱带到厨房
+cfr-doorhanger-send-tab-body = Send Tab 可轻松地将链接分享到手机，或任何登录至 { -brand-product-name } 的设备。
 cfr-doorhanger-send-tab-ok-button = 试试标签页发送功能
     .accesskey = T
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = 安全地分享这份 PDF
+cfr-doorhanger-firefox-send-body = 端到端加密分享文件，链接到期即焚，确保您敏感文件的安全。
 cfr-doorhanger-firefox-send-ok-button = 试用 { -send-brand-name }
     .accesskey = T
