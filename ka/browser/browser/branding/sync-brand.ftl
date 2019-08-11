@@ -4,9 +4,8 @@
 
 -sync-brand-short-name =
     { $case ->
-       *[nom] სინქრონიზაცია
-        [dat] სინქრონიზაციას
         [gen] სინქრონიზაციის
+       *[nom] სინქრონიზაცია
     }
 # “Sync” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
@@ -15,7 +14,6 @@
 # and kept in English.
 -fxaccount-brand-name =
     { $case ->
-       *[nom] Firefox-ანგარიში
-        [dat] Firefox-ანგარიშ
-        [gen] Firefox-ანგარიშის
+        [instrumental] Firefox-ანგარიშით
+       *[nominative] Firefox-ანგარიში
     }
