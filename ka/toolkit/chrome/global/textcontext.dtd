@@ -31,6 +31,8 @@
 <!ENTITY fillLoginMenu.accesskey      "მ">
 <!ENTITY fillSuggestedPassword.label  "მოცემული პაროლის გამოყენება">
 <!ENTITY fillSuggestedPassword.accesskey "ც">
+<!ENTITY fillGeneratedPassword.label  "უსაფრთხოდ წარმოქმნილი პაროლის გამოყენება">
+<!ENTITY fillGeneratedPassword.accesskey "უ">
 <!ENTITY fillPasswordMenu.label       "პაროლის შევსება">
 <!ENTITY fillPasswordMenu.accesskey   "პ">
 <!ENTITY fillUsernameMenu.label       "მომხმარებლის სახელის შევსება">

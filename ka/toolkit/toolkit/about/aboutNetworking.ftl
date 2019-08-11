@@ -57,3 +57,13 @@ rcwn-avg-long = გრძელი საშუალო
 rcwn-std-dev-long = გრძელი სტანდარტული გადახრა
 rcwn-cache-slow = კეშის დაყოვნების რაოდენობა
 rcwn-cache-not-slow = კეშის დაუყოვნებლობის რაოდენობა
+networkid = ქსელის ID
+networkid-id = ქსელის ID
+
+## Link is intended as "network link"
+
+networkid-isUp = ქსელის მაკავშირებელი გამართულია
+networkid-statusKnown = ქსელის მაკავშირებლის მდგომარეობა უცნობია
+
+
+
