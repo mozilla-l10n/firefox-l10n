@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
-<!ENTITY places.library.title  "Arkisto">
+<!ENTITY places.library.title  "Kirjasto">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Järjestä">
@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Uusi erotin">
 <!ENTITY cmd.new_separator.accesskey       "e">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Päivitä live-kirjanmerkki">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "ä">
-
-<!ENTITY cmd.moveBookmarks.label                  "Siirrä…">
-<!ENTITY cmd.moveBookmarks.accesskey              "S">
-
 <!ENTITY col.name.label          "Nimi">
 <!ENTITY col.tags.label          "Avainsanat">
 <!ENTITY col.url.label           "Osoite">
 <!ENTITY col.mostrecentvisit.label "Viimeisin vierailu">
 <!ENTITY col.visitcount.label    "Vierailukerrat">
-<!ENTITY col.description.label   "Kuvaus">
 <!ENTITY col.dateadded.label     "Lisäyspäivä">
 <!ENTITY col.lastmodified.label  "Viimeisin muokkaus">
 
@@ -98,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "Siirry seuraavaan">
 
-<!ENTITY detailsPane.more.label "Lisää">
-<!ENTITY detailsPane.more.accesskey "L">
-<!ENTITY detailsPane.less.label "Vähemmän">
-<!ENTITY detailsPane.less.accesskey "V">
 <!ENTITY detailsPane.selectAnItemText.description "Valitse kohde, jonka ominaisuuksia muokataan tai näytetään">
 
 <!ENTITY view.label               "Näytä">
