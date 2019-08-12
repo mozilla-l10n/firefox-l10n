@@ -871,6 +871,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpOFF.header "Ñemo’ã jehapykuehoha iporãvéva ndoikovéima ko tendápe g̃uarã">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Maranduve jehapykuehoha iporãvéva mo’ãha rehegua">
 <!ENTITY protections.settings.label "Ñemo’ã ñemboheko">
 <!ENTITY protections.report.label "Ehechaukapaite marandu’i">
 <!-- LOCALIZATION NOTE:
