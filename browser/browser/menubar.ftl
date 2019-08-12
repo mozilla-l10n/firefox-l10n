@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Tela inteira
     .accesskey = T
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Mostrar todas as abas
@@ -211,7 +211,7 @@ menu-tools-addons =
     .accesskey = E
 menu-tools-sync-sign-in =
     .label = Entrar no { -sync-brand-short-name }…
-    .accesskey = Y
+    .accesskey = y
 menu-tools-sync-now =
     .label = Sincronizar agora
     .accesskey = n
