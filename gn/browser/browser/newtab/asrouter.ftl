@@ -88,3 +88,5 @@ cfr-doorhanger-send-tab-ok-button = Eñeha’ã emondo tendayke
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Emoherakuã ko PDF tekorosãme
+cfr-doorhanger-firefox-send-ok-button = Ehecha { -send-brand-name }
+    .accesskey = T
