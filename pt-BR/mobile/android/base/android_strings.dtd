@@ -573,7 +573,7 @@ shown from Android O while a tab is being queued.-->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Navegação em tela inteira">
-<!ENTITY pref_scroll_title_bar_summary2 "Ocultar a barra de ferramentas do &brandShortName; ao deslizar uma página para baixo">
+<!ENTITY pref_scroll_title_bar_summary2 "Ocultar a barra de ferramentas do &brandShortName; ao deslizar a tela para baixo">
 
 <!ENTITY pref_tab_queue_title3 "Fila de abas">
 <!ENTITY pref_tab_queue_summary4 "Salvar links para a próxima vez que abrir o &brandShortName;">
