@@ -93,6 +93,13 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Cancelar
 confirmation-dialog-dismiss-button =
     .title = Cancelar
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Visitar as opções do { -sync-brand-short-name }
+           *[other] Visitar as preferências do { -sync-brand-short-name }
+        }
+    .accesskey = V
 confirm-delete-dialog-title = Apagar esta credencial?
 confirm-delete-dialog-message = Esta ação não pode ser desfeita.
 confirm-delete-dialog-confirm-button = Apagar
