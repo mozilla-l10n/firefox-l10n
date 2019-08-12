@@ -39,6 +39,10 @@ permissions-searchbox =
     .placeholder = Tikanöx K'amaya'l
 permissions-capabilities-autoplay-allow =
     .label = Tiya' q'ij chi ke ri K'oxom chuqa' Silowäch
+permissions-capabilities-autoplay-block =
+    .label = Tiq'at K'oxom
+permissions-capabilities-autoplay-blockall =
+    .label = Keq'at K'oxom chuqa' Silowäch
 permissions-capabilities-allow =
     .label = Tiya' q'ij
 permissions-capabilities-block =
@@ -101,6 +105,9 @@ permissions-exceptions-autoplay-media-desc2 = Yatikïr naya' ketal ri ajk'amaya'
 
 ## Site Permissions - Autoplay
 
+permissions-site-autoplay-window =
+    .title = Nuk'ulem - Ruyon Titzijtäj
+    .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 
