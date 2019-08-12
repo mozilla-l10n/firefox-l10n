@@ -899,7 +899,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "拦截这些内容可能导致某些网站上的元素异常。若没有跟踪器，某些按钮、表单、登录字段可能无法正常工作。">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "若关闭保护，将放行此网站上的所有跟踪器。可能也会改善某些网站功能。">
 <!ENTITY protections.socialMediaTrackers.label "社交媒体跟踪器">
-<!ENTITY protections.crossSiteTrackingCookies.label "跨站点跟踪 Cookie">
+<!ENTITY protections.crossSiteTrackingCookies.label "跨网站跟踪型 Cookie">
 <!ENTITY protections.trackingContent.label "跟踪内容">
 <!ENTITY protections.fingerprinters.label "数字指纹跟踪程序">
 <!ENTITY protections.cryptominers.label "加密货币挖矿程序">
