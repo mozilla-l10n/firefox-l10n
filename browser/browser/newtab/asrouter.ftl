@@ -88,11 +88,13 @@ cfr-doorhanger-sync-bookmarks-ok-button = Slå på { -sync-brand-short-name }
 
 cfr-doorhanger-send-tab-header = Les dette mens du er på farten
 cfr-doorhanger-send-tab-recipe-header = Ta denne oppskriften med på kjøkkenet
+cfr-doorhanger-send-tab-body = Send fane lar deg enkelt dele denne lenken til telefonen din eller hvor som helst du er logget inn på { -brand-product-name }.
 cfr-doorhanger-send-tab-ok-button = Prøv send fane
     .accesskey = P
 
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Del denne PDF-filen sikkert
+cfr-doorhanger-firefox-send-body = Hold de sensitive dokumentene dine trygge mot nysgjerrige øyne med ende-til-ende-kryptering og en lenke som forsvinner når du er ferdig.
 cfr-doorhanger-firefox-send-ok-button = Prøv { -send-brand-name }
     .accesskey = P
