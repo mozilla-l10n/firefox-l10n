@@ -47,6 +47,9 @@ newtab-topsites-add-button = Dodaj
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Czy na pewno usunąć wszystkie wizyty na tej stronie z historii?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Tej czynności nie można cofnąć.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Dodaj zakładkę
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Kopiuj adres, z którego pobrano plik
 newtab-menu-go-to-download-page = Przejdź do strony pobierania
 newtab-menu-remove-download = Usuń z historii
@@ -109,11 +116,16 @@ newtab-menu-open-file = Otwórz plik
 
 newtab-label-visited = Z odwiedzonych
 newtab-label-bookmarked = Z zakładek
+newtab-label-removed-bookmark = Usunięto zakładkę
 newtab-label-recommended = Na czasie
 newtab-label-saved = Z { -pocket-brand-name }
 newtab-label-download = Z pobranych
 
 ## Section Menu: These strings are displayed in the section context menu and are 
+## meant as a call to action for the given section.
+
+
+## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = Usuń sekcję
@@ -126,6 +138,13 @@ newtab-section-menu-add-search-engine = Dodaj wyszukiwarkę
 newtab-section-menu-move-up = Przesuń w górę
 newtab-section-menu-move-down = Przesuń w dół
 newtab-section-menu-privacy-notice = Prywatność
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Zwiń sekcję
+newtab-section-expand-section-label =
+    .aria-label = Rozwiń sekcję
 
 ## Section Headers.
 

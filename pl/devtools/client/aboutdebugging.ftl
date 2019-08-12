@@ -263,6 +263,15 @@ about-debugging-extension-id =
 about-debugging-worker-action-push = Wyślij push
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = Uruchom
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Note this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push2 = Wyślij push
+    .disabledTitle = Wysyłanie push wątków usługowych jest obecnie wyłączone w programie { -brand-shorter-name } z obsługą wielu procesów
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start2 = Uruchom
+    .disabledTitle = Uruchamianie wątków usługowych jest obecnie wyłączone w programie { -brand-shorter-name } z obsługą wielu procesów
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Wyrejestruj
 # Displayed for service workers in runtime pages that listen to Fetch events.
@@ -287,6 +296,9 @@ about-debugging-worker-scope =
 # of a worker
 about-debugging-worker-push-service =
     .label = Usługa push
+# Displayed as title of the inspect button when service worker debugging is disabled.
+about-debugging-worker-inspect-action-disabled =
+    .title = Badanie wątków usługowych jest obecnie wyłączone w programie { -brand-shorter-name } z obsługą wielu procesów
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Główny proces
