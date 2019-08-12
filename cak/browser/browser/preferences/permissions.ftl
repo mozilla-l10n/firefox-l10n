@@ -34,8 +34,11 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Keyak taq jaloj
     .accesskey = K
+permissions-autoplay-menu = Kan k'o wi pa ronojel ajk'amaya'l:
 permissions-searchbox =
     .placeholder = Tikanöx K'amaya'l
+permissions-capabilities-autoplay-allow =
+    .label = Tiya' q'ij chi ke ri K'oxom chuqa' Silowäch
 permissions-capabilities-allow =
     .label = Tiya' q'ij
 permissions-capabilities-block =
@@ -46,8 +49,6 @@ permissions-capabilities-listitem-allow =
     .value = Tiya' q'ij
 permissions-capabilities-listitem-block =
     .value = Tiq'eleb'ëx
-permissions-capabilities-listitem-allow-first-party =
-    .value = Tiya' q'ij xa xe chi ke ri nab'ey taq peraj
 permissions-capabilities-listitem-allow-session =
     .value = Tiya' q'ij pa re molojri'ïl re'
 
@@ -58,10 +59,6 @@ permissions-invalid-uri-label = Tatz'ib'aj ri ütz rub'i' ruk'u'x samaj
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Taq man relik ta - Chajinïk chuwäch Ojqanïk
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Xe'achüp ri Chajinïk chuwäch Ojqanïk pa re taq ruxaq ajk'amaya'l re'.
 permissions-exceptions-content-blocking-window =
     .title = Taq man relik ta - Kiq'atik Rupam
     .style = { permissions-window.style }
@@ -101,6 +98,9 @@ permissions-exceptions-autoplay-media-window2 =
     .title = Taq Merelik - Titzij Ruyon
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Yatikïr naya' ketal ri ajk'amaya'l taq ruxaq ya'on o man ya'on ta q'ij chi ke richin pa kiyonil yekitzïj taq k'oxom tikirel ta nikokisaj taq kaxlanwäy. Tatz'ib'aj rub'i' ri rochochib'al k'amaya'l nawajo' nanuk'samajij, k'a ri' tapitz'a' pa Tiq'at o Tiya' Q'ij.
+
+## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 

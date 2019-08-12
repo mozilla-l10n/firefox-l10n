@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = Majun Proxi richin
     .accesskey = m
 connection-proxy-noproxy-desc = Tz'eteb'äl: .mozilla.org, .net.nz, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = Taq okem pa localhost, 127.0.0.1, chuqa' ::1 majub'ey nik'o pa proxi.
 connection-proxy-autotype =
     .label = Ruyon poxi runuk'ulem URL
     .accesskey = R
@@ -70,12 +72,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Titzij DNS chuwäch HTTPS
     .accesskey = H
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = Tokisäx ri k'o wi ({ $url })
-    .accesskey = T
-    .tooltiptext = Tawokisaj ri URL k'o wi richin nisol DNS rik'in HTTPS
 connection-dns-over-https-url-resolver = Tokisäx Ya'öl
     .accesskey = Y
 # Variables:
