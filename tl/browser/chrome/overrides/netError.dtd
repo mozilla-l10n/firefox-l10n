@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Problema ng pagkarga ng pahina">
-<!ENTITY retry.label "Ulitin">
+<!ENTITY retry.label "Subukang muli">
 <!ENTITY returnToPreviousPage.label "Bumalik">
 <!ENTITY returnToPreviousPage1.label "Bumalik (Recommended)">
 <!ENTITY advanced2.label "Advanced…">

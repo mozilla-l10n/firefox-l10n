@@ -5,7 +5,7 @@
 about-logins-page-title = Mga Login at Password
 login-filter =
     .placeholder = Hanapin sa mga Login
-create-login-button = Gumawa ng Bagong Login
+create-login-button = Gumawa ng panibagong Login
 # This string is used as alternative text for favicon images.
 # Variables:
 #   $title (String) - The title of the website associated with the favicon.
@@ -41,7 +41,7 @@ login-list-count =
         [one] { $count } login
        *[other] { $count } login
     }
-login-list-sort-label-text = Pagsunodsunurin ayon sa:
+login-list-sort-label-text = Pagsunud-sunurin ayon sa:
 login-list-name-option = Pangalan (A-Z)
 login-list-breached-option = Mga Nakompromisong Website
 login-list-last-changed-option = Huling Binago
@@ -62,7 +62,7 @@ login-intro-instruction-faq = Bisitahin ang <a data-l10n-name="faq">Mga Kadalasa
 
 ## Login
 
-login-item-new-login-title = Gumawa ng Bagong Login
+login-item-new-login-title = Gumawa ng Panibagong Login
 login-item-edit-button = Baguhin
 login-item-delete-button = Burahin
 login-item-origin-label = Website Address
