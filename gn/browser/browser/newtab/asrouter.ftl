@@ -87,11 +87,13 @@ cfr-doorhanger-sync-bookmarks-ok-button = Emyandy { -sync-brand-short-name }
 
 cfr-doorhanger-send-tab-header = Emoñe’ẽ kóva pya’e
 cfr-doorhanger-send-tab-recipe-header = Egueraha ko tembi’urape kosináme
+cfr-doorhanger-send-tab-body = Emondo tendayke emoherakuã hag̃ua ko juajuha ne pumbyrýpe térã oimehápe eñepyrũ haguépe tembiapo { -brand-product-name }-pe.
 cfr-doorhanger-send-tab-ok-button = Eñeha’ã emondo tendayke
     .accesskey = T
 
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Emoherakuã ko PDF tekorosãme
+cfr-doorhanger-firefox-send-body = Eguereko nde kuatiakuéra ñemiguáva ambue ñema’ẽgui ipapapyetéva reheve ha juajuha oguéva ejapopa vove.
 cfr-doorhanger-firefox-send-ok-button = Ehecha { -send-brand-name }
     .accesskey = T
