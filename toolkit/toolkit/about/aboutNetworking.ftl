@@ -57,3 +57,13 @@ rcwn-avg-long = Cyfartaledd Hir
 rcwn-std-dev-long = Gwyriad Safonol Hir
 rcwn-cache-slow = Cyfrif araf storfa dros dro
 rcwn-cache-not-slow = Cyfrif nid araf storfa dros dro
+networkid = ID Rhwydwaith
+networkid-id = ID Rhwydwaith
+
+## Link is intended as "network link"
+
+networkid-isUp = Mae'r cyswllt ar i fyny
+networkid-statusKnown = Mae statws y cyswllt yn hysbys
+
+
+

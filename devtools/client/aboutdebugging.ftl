@@ -263,6 +263,15 @@ about-debugging-extension-id =
 about-debugging-worker-action-push = Gwthio
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = Cychwyn
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Note this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push2 = Gwthio
+    .disabledTitle = Mae Gweithiwr Gwasanaeth gwthio wedi ei analluogi ar hyn o bryd ar gyfer amlbroses { -brand-shorter-name }
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start2 = Cychwyn
+    .disabledTitle = Mae Gweithiwr Gwasanaeth gwthio wedi ei analluogi ar hyn o bryd ar gyfer amlbroses { -brand-shorter-name }
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Dadgofrestru
 # Displayed for service workers in runtime pages that listen to Fetch events.
@@ -287,6 +296,9 @@ about-debugging-worker-scope =
 # of a worker
 about-debugging-worker-push-service =
     .label = Gwasanaeth Gwthio
+# Displayed as title of the inspect button when service worker debugging is disabled.
+about-debugging-worker-inspect-action-disabled =
+    .title = Mae Gweithiwr Gwasanaeth gwthio wedi ei analluogi ar hyn o bryd ar gyfer amlbroses { -brand-shorter-name }
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Prif Broses
