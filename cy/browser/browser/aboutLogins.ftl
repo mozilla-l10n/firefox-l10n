@@ -6,6 +6,15 @@ about-logins-page-title = Mewngofnodion a Cyfrineiriau
 login-filter =
     .placeholder = Chwilio Mewngofnodion
 create-login-button = Creu Mewngofnod Newydd
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Favicon ar gyfer { $title }
+fxaccounts-sign-in-text = Defnyddiwch eich cyfrineiriau ar eich dyfeisiau eraill
+fxaccounts-sign-in-button = Mewngofnodi i { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = Rheoli cyfrif
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -20,8 +29,8 @@ menu-menuitem-preferences =
     }
 menu-menuitem-feedback = Anfon Adborth
 menu-menuitem-faq = Cwestiynau Cyffredin
-menu-menuitem-download-android = Lockwise ar gyfer Android
-menu-menuitem-download-iphone = Lockwise ar gyfer iPhone ac iPad
+menu-menuitem-android-app = { -lockwise-brand-short-name } ar gyfer Android
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } ar gyfer iPhone ac iPad
 
 ## Login List
 
@@ -38,11 +47,22 @@ login-list-count =
     }
 login-list-sort-label-text = Trefnu yn ôl
 login-list-name-option = Enw (A-Z)
+login-list-breached-option = Gwefannau wedi Dioddef Tor-data
 login-list-last-changed-option = Newidiwyd Diwethaf
 login-list-last-used-option = Defnyddiwyd Diwethaf
+login-list-intro-title = Heb ganfod mewngofnodion
+login-list-intro-description = Pan fyddwch yn cadw cyfrinair yn { -brand-product-name }, bydd yn ymddangos yma.
 login-list-item-title-new-login = Mewngofnod Newydd
 login-list-item-subtitle-new-login = Rhowch eich manylion mewngofnodi
 login-list-item-subtitle-missing-username = (dim enw defnyddwyr)
+
+## Introduction screen
+
+login-intro-heading = Chwilio am eich mewngofnodi wedi'u cadw? Gosodwch { -sync-brand-short-name }.
+login-intro-description = Os gwnaethoch gadw eich mewngofnodion i { -brand-product-name } ar ddyfais wahanol, dyma sut i'w cael yma:
+login-intro-instruction-fxa = Creu neu fewngofnodi i'ch { -fxaccount-brand-name } ar y ddyfais lle mae'ch mewngofnodion yn cael eu cadw
+login-intro-instruction-fxa-settings = Sicrhewch eich bod wedi dewis y blwch gwirio Mewngofnodion yng Ngosodiadau { -sync-brand-short-name }
+login-intro-instruction-faq = Ewch i { -lockwise-brand-short-name } <a data-l10n-name="faq">cwestiynau cyffredin</a> i gael mwy o gymorth
 
 ## Login
 
@@ -78,9 +98,32 @@ master-password-notification-message = Rhowch eich prif gyfrinair i weld mewngof
 master-password-reload-button =
     .label = Mewngofnodi
     .accesskey = M
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Diddymu
+confirmation-dialog-dismiss-button =
+    .title = Diddymu
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Eisiau eich mewngofnodion ym mhobman rydych chi'n defnyddio { -brand-product-name }? Ewch i Ddewisiadau { -sync-brand-short-name } a dewiswch y blwch gwirio Mewngofnodi.
+       *[other] Eisiau eich mewngofnodion ym mhobman rydych chi'n defnyddio { -brand-product-name }? Ewch i Ddewisiadau { -sync-brand-short-name } a dewiswch y blwch gwirio Mewngofnodi.
+    }
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Ewch i { -sync-brand-short-name } Opsiynau
+           *[other] Ewch i { -sync-brand-short-name } Dewisiadau
+        }
+    .accesskey = E
 confirm-delete-dialog-title = Dileu'r mewngofnod hwn?
 confirm-delete-dialog-message = Nid oes modd dadwneud y weithred hon.
-confirm-delete-dialog-dismiss-button =
-    .title = Diddymu
-confirm-delete-dialog-cancel-button = Diddymu
 confirm-delete-dialog-confirm-button = Dileu
+confirm-discard-changes-dialog-title = Hepgor newidiadau heb eu cadw?
+confirm-discard-changes-dialog-message = Bydd yr holl newidiadau sydd heb eu cadw'n cael eu colli.
+confirm-discard-changes-dialog-confirm-button = Dileu
+
+## Breach Alert notification
+
+breach-alert-text = Cafodd cyfrineiriau eu ryddhau neu eu dwyn o'r wefan hon ers i chi ddiweddaru'ch manylion mewngofnodi ddiwethaf. Newid eich cyfrinair i ddiogelu eich cyfrif.
+breach-alert-link = Dysgu rhagor am y tor-data hwn.

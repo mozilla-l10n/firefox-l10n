@@ -2,8 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Estyniadau Cymeradwy
+cfr-doorhanger-feature-heading = Nodwedd Cymeradwy
 cfr-doorhanger-pintab-heading = Profi hwn: Pinio Tab
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pam ydw i'n gweld hyn
 cfr-doorhanger-extension-cancel-button = Nid Nawr
@@ -77,3 +84,25 @@ cfr-whatsnew-button =
     .label = Beth sy'n Newydd
     .tooltiptext = Beth sy'n Newydd
 cfr-whatsnew-panel-header = Beth sy'n Newydd
+
+## Bookmark Sync
+
+cfr-doorhanger-sync-bookmarks-header = Defnyddiwch y nod tudalen hwn ar eich ffôn
+cfr-doorhanger-sync-bookmarks-body = Cymerwch eich nodau tudalen, cyfrineiriau, hanes a mwy ym mhobman rydych chi wedi mewngofnodi iddo { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = Troi { -sync-brand-short-name } ymlaen
+    .accesskey = T
+
+## Send Tab
+
+cfr-doorhanger-send-tab-header = Darllen hwn wrth fynd
+cfr-doorhanger-send-tab-recipe-header = Ewch â'r rysáit hon i'r gegin
+cfr-doorhanger-send-tab-body = Mae'r Tab Anfon yn caniatáu i chi rannu'r ddolen hon yn hawdd i'ch ffôn neu unrhyw le rydych chi wedi mewngofnodi i { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Rhowch gynnig ar y Tab Anfon
+    .accesskey = R
+
+## Firefox Send
+
+cfr-doorhanger-firefox-send-header = Rhannwch y PDF hwn yn ddiogel
+cfr-doorhanger-firefox-send-body = Cadwch eich dogfennau sensitif yn ddiogel rhag llygaid busneslyd gydag amgryptio o'r dechrau i'r diwedd a dolen sy'n diflannu pan fyddwch chi wedi gorffen.
+cfr-doorhanger-firefox-send-ok-button = Rhowch gynnig ar { -send-brand-name }
+    .accesskey = R
