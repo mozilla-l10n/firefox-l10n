@@ -149,6 +149,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Accede a &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Activar &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "Conto">
+<!ENTITY fxa.menu.firefoxServices.label "Servicios de &brandProductName;">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -803,13 +804,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Connexion">
 <!ENTITY identity.connectionSecure "Connexion secur">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Securitate de connexion">
+
+<!ENTITY identity.connectionSecure2 "Connexion secur">
 <!ENTITY identity.connectionNotSecure "Le connexion non es secur">
+<!ENTITY identity.connectionNotSecureSecurityView "Tu non es connectite con securitate a iste sito.">
 <!ENTITY identity.connectionFile "Iste pagina es stockate in tu computator.">
 <!ENTITY identity.connectionVerified2 "Tu es connectite con securitate a iste sito, cuje proprietario es:">
+<!ENTITY identity.connectionVerified3 "Tu es connectite con securitate a iste sito.">
 <!ENTITY identity.connectionInternal "Isto es un pagina secur de &brandShortName;.">
 <!ENTITY identity.extensionPage "Iste pagina es cargate ab un extension.">
 <!ENTITY identity.insecureLoginForms2 "Le informationes de authentication scribite in iste pagina pote esser compromittite.">
 <!ENTITY identity.customRoot "Connexion verificate per un certificate emittite per un autoritate non recognoscite per Mozilla.">
+
+<!ENTITY identity.evOwnerLabel "Proprietario del sito:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ha blocate partes de iste pagina que non es secur.">
@@ -844,6 +855,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Rader cookies e datos de sitos…">
 
 <!ENTITY identity.permissions "Permissiones">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissionsEmpty "Tu non ha concedite ulle permission special a iste sito.">
 <!ENTITY identity.permissionsReloadHint "Il es possibile que tu debe recargar le pagina pro que le cambios se applica.">
 <!ENTITY identity.permissionsPreferences.tooltip "Aperir le preferentias del permissos">
@@ -852,6 +865,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY protections.etpON.header "Le Protection avantiate contra le traciamento es ora ACTIVE pro iste sito">
 <!ENTITY protections.etpOFF.header "Le Protection avantiate contra le traciamento es ora DISACTIVATE pro iste sito">
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.settings.label "Parametros de protection">
 <!ENTITY protections.report.label "Monstrar le reporto complete">
 <!-- LOCALIZATION NOTE:
@@ -872,11 +887,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Inviar un reporto">
 
 <!ENTITY protections.blocking.label "Blocada">
+<!ENTITY protections.notBlocking.label "Non blocante">
 <!ENTITY protections.notBlocking.why.label "Perque?">
 <!ENTITY protections.socialMediaTrackers.label "Traciatores de medios social">
+<!ENTITY protections.fingerprinters.label "Dactylogrammatores">
 <!ENTITY protections.cryptominers.label "Crypto-minatores">
 
 
+<!ENTITY protections.manageProtectionSettings.label "Gerer parametros de protection">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -914,12 +932,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Traciatores">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Contento traciante">
+
 <!ENTITY contentBlocking.manageSettings.label "Gerer le blocage de contentos">
 <!ENTITY contentBlocking.manageSettings.accesskey "G">
 
 <!ENTITY contentBlocking.trackersView.label "Traciatores">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Pro blocar tote le traciatores dispone a “Stricte” le blocage del contento.">
 
+<!ENTITY contentBlocking.socialblock.label "Traciatores de medios social">
 <!ENTITY contentBlocking.socialblockView.label "Traciatores de medios social blocate">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
