@@ -419,7 +419,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Quer ver suas abas de outros dispositivos aqui?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Abrir preferências do Sync">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Entre para ver uma lista de abas de seus outros dispositivos.">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Acesse sua conta para ver uma lista de abas de seus outros dispositivos.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Sua conta precisa ser verificada.">
 <!ENTITY appMenuRemoteTabs.signin.label "Entrar no Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gerenciar dispositivos…">
