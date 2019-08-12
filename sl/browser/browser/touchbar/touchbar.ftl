@@ -18,3 +18,4 @@ reader-view = Bralni pogled
 open-location = Iskanje ali naslov strani
 share = Deli
 close-window = Zapri okno
+open-sidebar = Stranske vrstice

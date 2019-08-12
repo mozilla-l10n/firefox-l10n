@@ -57,3 +57,11 @@ rcwn-avg-long = Dolgo povprečje
 rcwn-std-dev-long = Dolg standardni odklon
 rcwn-cache-slow = Število počasnih delovanj diska
 rcwn-cache-not-slow = Število hitrih delovanj diska
+networkid = ID omrežja
+networkid-id = ID omrežja
+
+## Link is intended as "network link"
+
+
+
+
