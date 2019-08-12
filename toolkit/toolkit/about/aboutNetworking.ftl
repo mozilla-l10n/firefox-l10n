@@ -62,6 +62,8 @@ networkid-id = Nettverks-ID
 
 ## Link is intended as "network link"
 
+networkid-isUp = Nettverkstilkoblingen er oppe
+networkid-statusKnown = Nettverkstilkoblingstatus er kjent
 
 
 
