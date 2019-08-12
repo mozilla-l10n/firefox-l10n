@@ -860,14 +860,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Tillatelser">
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "Tillatelser satt">
 <!ENTITY identity.permissionsEmpty "Du har ikke gitt dette nettstedet noen spesialtillatelser.">
 <!ENTITY identity.permissionsReloadHint "Du må kanskje laste siden på nytt for at endringene skal gjelde.">
 <!ENTITY identity.permissionsPreferences.tooltip "Åpne innstillinger for tillatelser">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Åpne innstillinger for innholdsblokkering">
 
 
+<!ENTITY protections.etpON.header "Forbedret sporingsbeskyttelse er slått PÅ for dette nettstedet">
+<!ENTITY protections.etpOFF.header "Forbedret sporingsbeskyttelse er slått AV for dette nettstedet">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Mer informasjon om forbedret sporingsbeskyttelse">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -955,6 +959,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Les mer">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL-adresse">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Hvilke problemer har du? (Valgfri)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Valgfritt: Beskriv problemet">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Send rapport">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Avbryt">
 
