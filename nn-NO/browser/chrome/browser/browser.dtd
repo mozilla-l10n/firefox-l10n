@@ -881,7 +881,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.notBlocking.label "Blokkerer ikkje">
 <!ENTITY protections.notBlocking.why.label "Kvifor?">
 <!ENTITY protections.fingerprinters.label "Fingerprinters">
-<!ENTITY protections.cryptominers.label "Cryptominers">
+<!ENTITY protections.cryptominers.label "Kryptominarar">
 
 
 
