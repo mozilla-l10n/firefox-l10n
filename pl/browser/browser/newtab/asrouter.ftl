@@ -101,4 +101,4 @@ cfr-doorhanger-send-tab-ok-button = Wypróbuj wysyłanie kart
 cfr-doorhanger-firefox-send-header = Bezpiecznie udostępnij ten plik PDF
 cfr-doorhanger-firefox-send-body = Chroń swoje poufne dokumenty przed wścibskimi oczami dzięki szyfrowaniu typu „end-to-end” i odnośnikowi, który znika po użyciu.
 cfr-doorhanger-firefox-send-ok-button = Wypróbuj { -send-brand-name }
-    .accesskey = w
+    .accesskey = W
