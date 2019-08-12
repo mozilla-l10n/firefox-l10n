@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = Pingdata-kilde:
 about-telemetry-show-current-ping-data = Gjeldende ping-data
+about-telemetry-show-current-data = Gjeldende data
 about-telemetry-show-archived-ping-data = Arkiverte ping-data
 about-telemetry-show-subsession-data = Vis undersøkt-data
 about-telemetry-choose-ping = Velg ping:
@@ -102,6 +103,8 @@ about-telemetry-no-search-results-all = Beklager! Det finnes ingen resultat i no
 about-telemetry-no-data-to-display = Beklager! Det finnes ingen data tilgjengelig i «{ $sectionName }»
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = gjeldende ping
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = gjeldende data
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = alt
 # button label to copy the histogram
