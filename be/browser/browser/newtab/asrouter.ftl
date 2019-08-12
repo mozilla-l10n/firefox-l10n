@@ -2,8 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Рэкамендаванае пашырэнне
+cfr-doorhanger-feature-heading = Рэкамендаваная функцыя
 cfr-doorhanger-pintab-heading = Паспрабуйце: Прышпіліць картку
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Чаму я гэта бачу
 cfr-doorhanger-extension-cancel-button = Не зараз
@@ -67,4 +74,21 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## What's New toolbar button and panel
 
+cfr-whatsnew-button =
+    .label = Што новага
+    .tooltiptext = Што новага
 cfr-whatsnew-panel-header = Што новага
+
+## Bookmark Sync
+
+cfr-doorhanger-sync-bookmarks-header = Атрымаць гэтую закладку на свой тэлефон
+cfr-doorhanger-sync-bookmarks-ok-button = Уключыць { -sync-brand-short-name }
+    .accesskey = У
+
+## Send Tab
+
+cfr-doorhanger-send-tab-header = Чытайце гэта на хаду
+cfr-doorhanger-send-tab-recipe-header = Вазьміце гэты рэцэпт на кухню
+
+## Firefox Send
+
