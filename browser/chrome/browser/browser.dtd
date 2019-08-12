@@ -894,7 +894,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.notBlocking.label "Engellenmiyor">
 <!ENTITY protections.notBlocking.why.label "Neden?">
 <!ENTITY protections.socialMediaTrackers.label "Sosyal Medya Takipçileri">
-<!ENTITY protections.crossSiteTrackingCookies.label "Siteler Arası Takip Çerezleri">
+<!ENTITY protections.crossSiteTrackingCookies.label "Siteler arası takip çerezleri">
 <!ENTITY protections.trackingContent.label "Takip amaçlı içerikler">
 <!ENTITY protections.fingerprinters.label "Parmak izi toplayıcılar">
 <!ENTITY protections.cryptominers.label "Kripto madenciler">
