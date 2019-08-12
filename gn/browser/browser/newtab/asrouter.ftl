@@ -78,10 +78,13 @@ cfr-whatsnew-panel-header = Oĩpa mba'e pyahu
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-ok-button = Emyandy { -sync-brand-short-name }
+    .accesskey = T
 
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Emoñe’ẽ kóva pya’e
+cfr-doorhanger-send-tab-recipe-header = Egueraha ko tembi’urape kosináme
 cfr-doorhanger-send-tab-ok-button = Eñeha’ã emondo tendayke
     .accesskey = T
 
