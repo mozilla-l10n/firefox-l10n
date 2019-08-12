@@ -83,9 +83,22 @@ cfr-whatsnew-panel-header = Co nowego
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Przenieś tę zakładkę na telefon
+cfr-doorhanger-sync-bookmarks-body = Zabierz swoje zakładki, hasła, historię i nie tylko wszędzie, gdzie korzystasz z przeglądarki { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = Włącz { -sync-brand-short-name(case: "acc", capitalization: "lower") }
+    .accesskey = W
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Przeczytaj to w podróży
+cfr-doorhanger-send-tab-recipe-header = Zabierz ten przepis do kuchni
+cfr-doorhanger-send-tab-body = Funkcja przesyłania kart umożliwia łatwe wysłanie tego odnośnika na telefon lub wszędzie, gdzie korzystasz z przeglądarki { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Wypróbuj wysyłanie kart
+    .accesskey = W
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Bezpiecznie udostępnij ten plik PDF
+cfr-doorhanger-firefox-send-body = Chroń swoje poufne dokumenty przed wścibskimi oczami dzięki szyfrowaniu typu „end-to-end” i odnośnikowi, który znika po użyciu.
+cfr-doorhanger-firefox-send-ok-button = Wypróbuj { -send-brand-name }
+    .accesskey = w

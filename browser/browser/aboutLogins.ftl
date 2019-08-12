@@ -44,6 +44,7 @@ login-list-count =
     }
 login-list-sort-label-text = Sortuj wg:
 login-list-name-option = Nazwa (A-Z)
+login-list-breached-option = Witryny z wyciekami haseł
 login-list-last-changed-option = Ostatnia modyfikacja
 login-list-last-used-option = Ostatnie użycie
 login-list-intro-title = Brak danych logowania
@@ -112,6 +113,14 @@ enable-password-sync-preferences-button =
            *[other] Otwórz preferencje { -sync-brand-short-name(case: "gen", capitalization: "lower") }
         }
     .accesskey = O
+confirm-delete-dialog-title = Usunąć te dane logowania?
+confirm-delete-dialog-message = Tej czynności nie można cofnąć.
+confirm-delete-dialog-confirm-button = Usuń
+confirm-discard-changes-dialog-title = Odrzucić niezachowane zmiany?
+confirm-discard-changes-dialog-message = Wszystkie niezachowane zmiany zostaną utracone.
+confirm-discard-changes-dialog-confirm-button = Odrzuć
 
 ## Breach Alert notification
 
+breach-alert-text = Od czasu ostatniej zmiany danych logowania hasła z tej witryny wyciekły lub zostały wykradzione. Zmień hasło, aby ochronić swoje konto.
+breach-alert-link = Więcej informacji o tym wycieku.
