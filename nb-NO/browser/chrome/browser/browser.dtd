@@ -876,9 +876,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Skjemaer">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Betalinger">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Kommentarer">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Videoer">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Er nettstedet fremdeles ødelagt, selv etter å ha slått av beskyttelsen?">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Send inn en rapport">
 
+<!ENTITY protections.blocking.label "Blokkerer">
+<!ENTITY protections.notBlocking.label "Blokkerer ikke">
 <!ENTITY protections.notBlocking.why.label "Hvorfor?">
+<!ENTITY protections.socialMediaTrackers.label "Sporing via sosiale medier">
 <!ENTITY protections.cryptominers.label "Kryptominere">
+<!ENTITY protections.noTrackersFound.description "Ingen sporere kjent for &brandShortName; ble oppdaget på denne siden.">
 
 
 
@@ -925,6 +935,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "Sporere">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "For å blokkere alle sporere, sett innholdsblokkering til «Streng».">
 
+<!ENTITY contentBlocking.socialblock.label "Sporing via sosiale medier">
+<!ENTITY contentBlocking.socialblockView.label "Sporing via sosiale medier er blokkert">
 
 <!ENTITY contentBlocking.cookies.label "Infokapsler">
 <!ENTITY contentBlocking.cookiesView.label "Infokapsler og nettstedsdata">
@@ -939,6 +951,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Rapporter problemer">
 <!ENTITY contentBlocking.breakageReportView2.description "Innholdsblokkering kan føre til problemer med enkelte nettsteder. Når du rapporterer problemer, hjelper du med å gjøre &brandShortName; bedre for alle. (Dette vil sende en URL, samt informasjon om nettleserinnstillingene dine, til Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Les mer">
+<!ENTITY contentBlocking.breakageReportView.title "Rapporter problem med et nettsted">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Les mer">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL-adresse">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Hvilke problemer har du? (Valgfri)">
