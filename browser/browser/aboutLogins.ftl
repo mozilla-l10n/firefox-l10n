@@ -55,15 +55,63 @@ login-list-item-subtitle-missing-username = (bez nazwy użytkownika)
 ## Introduction screen
 
 login-intro-heading = Szukasz swoich zachowanych haseł? Skonfiguruj { -sync-brand-short-name(case: "acc", capitalization: "lower") }.
+login-intro-description = Aby przenieść tutaj dane logowania zachowane w przeglądarce { -brand-product-name } na innym urządzeniu:
+login-intro-instruction-fxa = Zarejestruj się lub zaloguj na { -fxaccount-brand-name(case: "loc", capitalization: "lower") } na urządzeniu, w którym zachowano dane logowania
+login-intro-instruction-fxa-settings = Upewnij się, że opcja „Dane logowania” jest zaznaczona w ustawieniach { -sync-brand-short-name(case: "gen", capitalization: "lower") }
+login-intro-instruction-faq = <a data-l10n-name="faq">Najczęściej zadawane pytania</a> usługi { -lockwise-brand-short-name } zawierają więcej informacji
 
 ## Login
 
+login-item-new-login-title = Nowe dane logowania
+login-item-edit-button = Edytuj
+login-item-delete-button = Usuń
+login-item-origin-label = Adres witryny
+login-item-origin =
+    .placeholder = https://www.example.com
+login-item-open-site-button = Otwórz
+login-item-username-label = Nazwa użytkownika
+login-item-username =
+    .placeholder = e-mail@example.com
+login-item-copy-username-button-text = Kopiuj
+login-item-copied-username-button-text = Skopiowano
+login-item-password-label = Hasło
+login-item-password-reveal-checkbox-show =
+    .title = Wyświetl hasło
+login-item-password-reveal-checkbox-hide =
+    .title = Ukryj hasło
+login-item-copy-password-button-text = Kopiuj
+login-item-copied-password-button-text = Skopiowano
+login-item-save-changes-button = Zapisz zmiany
+login-item-save-new-button = Zapisz
+login-item-cancel-button = Anuluj
+login-item-time-changed = Ostatnia modyfikacja: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Utworzono: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Ostatnie użycie: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
+master-password-notification-message = Proszę podać hasło główne, aby wyświetlić zachowane dane logowania i hasła
+master-password-reload-button =
+    .label = Zaloguj się
+    .accesskey = Z
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Anuluj
+confirmation-dialog-dismiss-button =
+    .title = Anuluj
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Chcesz mieć swoje hasła wszędzie, gdzie korzystasz z przeglądarki { -brand-product-name }? Przejdź do opcji { -sync-brand-short-name(case: "gen", capitalization: "lower") } i zaznacz opcję „Dane logowania”.
+       *[other] Chcesz mieć swoje hasła wszędzie, gdzie korzystasz z przeglądarki { -brand-product-name }? Przejdź do preferencji { -sync-brand-short-name(case: "gen", capitalization: "lower") } i zaznacz opcję „Dane logowania”.
+    }
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Otwórz opcje { -sync-brand-short-name(case: "gen", capitalization: "lower") }
+           *[other] Otwórz preferencje { -sync-brand-short-name(case: "gen", capitalization: "lower") }
+        }
+    .accesskey = O
 
 ## Breach Alert notification
 
