@@ -116,6 +116,7 @@ newtab-menu-open-file = Tijaq Yakb'äl
 
 newtab-label-visited = Tz'eton
 newtab-label-bookmarked = Yakon retal
+newtab-label-removed-bookmark = Yaketal elesan el
 newtab-label-recommended = Rujawaxik
 newtab-label-saved = Yakon pa { -pocket-brand-name }
 newtab-label-download = Xqasäx
@@ -163,6 +164,12 @@ newtab-empty-section-topstories = Xaq'i'. Katzolin chik pe richin ye'ak'ül ri u
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = ¡Awojqan ronojel!
+newtab-discovery-empty-section-topstories-content = K'a xkatzolin pe richin ch'aqa' chik taq b'anob'äl.
+newtab-discovery-empty-section-topstories-try-again-button = Titojtob'ëx Chik
+newtab-discovery-empty-section-topstories-loading = Nisamajib'ëx...
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = ¡Uy! B'ama nisamajïx re peraj re', jub'a' chik xrajo'.
 
 ## Pocket Content Section.
 

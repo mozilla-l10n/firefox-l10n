@@ -95,3 +95,6 @@ cfr-doorhanger-send-tab-ok-button = Tatojtob'ej Send Tab
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Ütz tikomonïx re PDF re'
+cfr-doorhanger-firefox-send-body = Ke'akolo' ri nïm taq awuj chuwäch itzel kitz'etik winaqi' rik'in chijun ewan rusik'ixik chuqa' rik'in jun ximonel, ri nisach el toq nik'is.
+cfr-doorhanger-firefox-send-ok-button = Titojtob'ëx { -send-brand-name }
+    .accesskey = t
