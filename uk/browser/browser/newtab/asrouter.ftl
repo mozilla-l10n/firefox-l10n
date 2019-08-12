@@ -2,8 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Рекомендоване розширення
+cfr-doorhanger-feature-heading = Рекомендована функція
 cfr-doorhanger-pintab-heading = Спробуйте це: Прикріпити вкладку
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Чому я це бачу?
 cfr-doorhanger-extension-cancel-button = Не зараз
@@ -71,3 +78,25 @@ cfr-whatsnew-button =
     .label = Що нового
     .tooltiptext = Що нового
 cfr-whatsnew-panel-header = Що нового
+
+## Bookmark Sync
+
+cfr-doorhanger-sync-bookmarks-header = Отримайте цю закладку на своєму телефоні
+cfr-doorhanger-sync-bookmarks-body = Отримайте свої закладки, паролі, історію та інші дані на всіх пристроях, де ви увійшли в { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = Увімкнути { -sync-brand-short-name(case: "acc") }
+    .accesskey = в
+
+## Send Tab
+
+cfr-doorhanger-send-tab-header = Читайте це на ходу
+cfr-doorhanger-send-tab-recipe-header = Візьміть цей рецепт на кухню
+cfr-doorhanger-send-tab-body = Надсилання вкладки дозволяє вам легко ділитися цим посиланням зі своїм телефоном, або з іншими пристроями, на яких ви увійшли в { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Спробувати надсилання вкладки
+    .accesskey = п
+
+## Firefox Send
+
+cfr-doorhanger-firefox-send-header = Безпечно обмінюйтесь цим PDF
+cfr-doorhanger-firefox-send-body = Зберігайте особисті документи подалі від інших, за допомогою наскрізного шифрування та посилань з функцією самознищення.
+cfr-doorhanger-firefox-send-ok-button = Спробуйте { -send-brand-name }
+    .accesskey = б
