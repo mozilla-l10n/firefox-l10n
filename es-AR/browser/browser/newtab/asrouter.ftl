@@ -81,9 +81,20 @@ cfr-whatsnew-panel-header = Novedades
 
 cfr-doorhanger-sync-bookmarks-header = Ponga este marcador en su teléfono
 cfr-doorhanger-sync-bookmarks-body = Lleve sus marcadores, contraseñas, historial y más a todas partes donde inició sesión en { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = Active { -sync-brand-short-name }
+    .accesskey = T
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Leer esto sobre la marcha
+cfr-doorhanger-send-tab-recipe-header = Llevar esta receta a la cocina
+cfr-doorhanger-send-tab-body = Enviar pestaña le permite compartir fácilmente este enlace en su teléfono o en cualquier lugar donde inició sesión en { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Pruebe enviar pestaña
+    .accesskey = T
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Compartir este PDF de forma segura
+cfr-doorhanger-firefox-send-body = Mantenga sus documentos confidenciales a salvo de miradas indiscretas con cifrado de extremo a extremo y un enlace que desaparece cuando termina.
+cfr-doorhanger-firefox-send-ok-button = Probar { -send-brand-name }
+    .accesskey = T
