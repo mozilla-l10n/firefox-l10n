@@ -906,7 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.noTrackersFound.description "此页面上未检测到 &brandShortName; 已知的跟踪器。">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "第三方广告商或分析公司，会设置这些 Cookie 在不同网站间跟踪您，收集您的网上活动数据。">
-<!ENTITY protections.cryptominers.description "加密货币挖矿程序使用您的计算机算力来对“挖”数字货币，耗尽您的设备电量、拖慢机器性能、增加电费支出。">
+<!ENTITY protections.cryptominers.description "加密货币挖矿程序使用您的计算机算力来“挖”数字货币，耗尽您的设备电量、拖慢机器性能、增加电费支出。">
 <!ENTITY protections.fingerprinters.description "数字指纹追踪程序收集您的浏览器、计算机设置，勾勒出您的精准画像，并在不同网站间跟踪您。">
 <!ENTITY protections.trackingContent.description "网站可能会加载包含跟踪代码的外部广告、视频、其他内容。拦截跟踪内容可以让网站加载更快，但某些按钮、表单、登录字段可能无法正常工作。">
 <!ENTITY protections.socialMediaTrackers.description "社交网站将跟踪器嵌到其他网站，跟踪您在网上做了或看了什么。社交媒体公司对您的了解，绝不止于您在社交媒体上分享的信息。">
