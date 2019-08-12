@@ -100,6 +100,18 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Tiq'at
 confirmation-dialog-dismiss-button =
     .title = Tiq'at
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] ¿La nawajo' ye'atz'ët rutikirib'al taq amolojri'ïl xab'akuchi' nawokisaj { -brand-product-name } { -brand-product-name }? Tajaqa' Taq Rucha'oj { -sync-brand-short-name } richin nacha' ri peraj rujikib'axik rutikirib'al taq molojri'ïl.
+       *[other] ¿La nawajo' ye'atz'ët rutikirib'al taq amolojri'ïl xab'akuchi' nawokisaj { -brand-product-name } { -brand-product-name }? Tajaqa' Taq Rajowab'al{ -sync-brand-short-name } richin nacha' ri peraj rujikib'axik rutikirib'al taq molojri'ïl.
+    }
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Titz'et { -sync-brand-short-name } Taq Cha'oj
+           *[other] Titz'et { -sync-brand-short-name } Taq Ajowab'äl
+        }
+    .accesskey = t
 confirm-delete-dialog-title = ¿La niyuj re rutikirib'al molojri'ïl?
 confirm-delete-dialog-message = Man nitzolin ta chik re samaj.
 confirm-delete-dialog-confirm-button = Tiyuj
@@ -109,4 +121,5 @@ confirm-discard-changes-dialog-confirm-button = Tich'aqïx
 
 ## Breach Alert notification
 
+breach-alert-text = Xechayüx o xe'eleq'äx ri ewan taq tzij pa re ajk'amaya'l ruxaq re' toq xek'ex ri taq rutzij rutikirib'al molojri'ïl ri ruk'isib'äl q'ij. Tajala' ri ewan atzij richin nachajij ri rub'i' ataqoya'l.
 breach-alert-link = Tawetamaj mas chi rij re tz'ilanem.
