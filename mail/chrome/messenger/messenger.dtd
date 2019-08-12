@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "G">
 <!ENTITY folderPaneBar.label "Bar Offer Paen Ffolder">
 <!ENTITY folderPaneBar.accesskey "B">
-<!ENTITY folderModeSelector.label "Golwg Ffolder">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Trefnu yn ôl">
@@ -587,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Ffeilio'r neges">
 <!ENTITY archiveButton.tooltip "Archifo'r negeseuon">
 <!ENTITY openConversationButton.tooltip "Dangos sgwrs neges sydd wedi ei dewis">
+<!ENTITY openMsgConversationButton.tooltip "Dangos sgwrs neges sydd wedi ei dewis">
 <!ENTITY nextButton.tooltip "Symud i'r neges nesaf heb ei darllen">
 <!ENTITY nextMsgButton.tooltip "Symud i'r neges nesaf">
 <!ENTITY previousButton.tooltip "Symud i'r neges heb ei darllen diwethaf">
@@ -605,7 +605,6 @@
 <!ENTITY tagButton.tooltip "Tagio negeseuon">
 <!ENTITY compactButton.tooltip "Tynnu negeseuon wedi'u dileu o'r ffolder">
 <!ENTITY appmenuButton1.tooltip "Dangos Dewislen &brandShortName;">
-
 <!ENTITY addonsButton.tooltip "Rheoli eich ychwanegion">
 
 <!-- Toolbar Button Popup -->
