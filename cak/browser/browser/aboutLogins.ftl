@@ -6,8 +6,15 @@ about-logins-page-title = Kitikirisaxik molojri'ïl & Ewan taq Tzij
 login-filter =
     .placeholder = Kekanöx Tikirib'äl taq Molojri'ïl
 create-login-button = Titz'uk K'ak'a' Tikirib'äl Molojri'ïl
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Favicon richin { $title }
 fxaccounts-sign-in-text = Ke'ak'ulu' ewan taq kitzij ru ch'aqa' chik taq okisab'äl
 fxaccounts-sign-in-button = Titikirisäx molojri'ïl pa { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = Tinuk'samajïx rub'i' taqoya'l
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -36,6 +43,7 @@ login-list-count =
     }
 login-list-sort-label-text = Tichol chi:
 login-list-name-option = B'i'aj (A-Y)
+login-list-breached-option = Tz'ilan Ajk'amaya'l taq K'amaya'l
 login-list-last-changed-option = Ruk'isib'äl Jaloj
 login-list-last-used-option = Ruk'isib'äl Rokisaxik
 login-list-intro-title = Majun tikirib'äl molojri'ïl xilitäj
