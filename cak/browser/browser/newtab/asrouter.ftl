@@ -81,9 +81,17 @@ cfr-whatsnew-panel-header = Achike natzijoj
 
 cfr-doorhanger-sync-bookmarks-header = Taya' re yaketal re' pan awoyonib'al
 cfr-doorhanger-sync-bookmarks-body = Ke'ak'waj ri taq ayaketal, ewan atzij, natab'äl chuqa' ch'aqa' chik pa xab'achike k'ojlib'äl akuchi' natikirisaj molojri'ïl pa { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = Titzij { -sync-brand-short-name }
+    .accesskey = i
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Tisik'ïx re re' pa b'enam
+cfr-doorhanger-send-tab-recipe-header = Tik'wäx re retal rikil pa rute' q'aq'
+cfr-doorhanger-send-tab-body = Send Tab anin nuya' q'ij chawe nakomonij re ximöy tzij re' pan awoyonib'al o xab'akuchi' k'ojlib'äl akuchi' natikirisaj molojri'ïl pa { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Tatojtob'ej Send Tab
+    .accesskey = t
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Ütz tikomonïx re PDF re'
