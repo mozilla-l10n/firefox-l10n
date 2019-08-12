@@ -891,7 +891,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Комментариями">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Видео">
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Сайт всё ещё не работает после отключения защиты?">
-<!ENTITY protections.siteNotWorkingView.sendReport.label "Отправить отчёт">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Отправьте сообщение">
 
 <!ENTITY protections.blocking.label "Блокируются">
 <!ENTITY protections.notBlocking.label "Не блокируются">
