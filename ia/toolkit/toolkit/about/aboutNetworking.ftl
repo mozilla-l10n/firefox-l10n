@@ -62,6 +62,8 @@ networkid-id = ID de rete
 
 ## Link is intended as "network link"
 
+networkid-isUp = Ligamine active
+networkid-statusKnown = Stato del ligamine note
 
 
 
