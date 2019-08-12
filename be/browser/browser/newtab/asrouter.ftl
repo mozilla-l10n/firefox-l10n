@@ -89,6 +89,13 @@ cfr-doorhanger-sync-bookmarks-ok-button = Уключыць { -sync-brand-short-n
 
 cfr-doorhanger-send-tab-header = Чытайце гэта на хаду
 cfr-doorhanger-send-tab-recipe-header = Вазьміце гэты рэцэпт на кухню
+cfr-doorhanger-send-tab-body = Адпраўка картак дазваляе лёгка дзяліцца гэтай спасылкай на ваш тэлефон або ў любое іншае месца, дзе вы ўвайшлі ў { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Паспрабуйце адпраўку картак
+    .accesskey = П
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Дзяліцеся гэтым PDF бяспечна
+cfr-doorhanger-firefox-send-body = Трымайце свае далікатныя дакументы далей ад старонніх вачэй з дапамогай скразнога шыфравання і спасылкі, якая знікае пасля выкарыстання.
+cfr-doorhanger-firefox-send-ok-button = Паспрабуйце { -send-brand-name }
+    .accesskey = П
