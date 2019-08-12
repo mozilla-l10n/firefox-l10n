@@ -138,13 +138,26 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.button.label "Agor Dewisiadau &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Mewngofnodwyd fel">
 <!ENTITY fxa.menu.manageAccount.label "Rheoli Cyfrif…">
 <!ENTITY fxa.menu.syncSettings.label "Gosodiadau &syncBrand.shortName.label;…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Cysylltu Dyfais Arall…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!ENTITY fxa.menu.signin.label "Mewngofnodi i &brandProductName;">
+<!ENTITY fxa.menu.turnOnSync.label "Troi &syncBrand.shortName.label; ymlaen">
+<!ENTITY fxa.menu.account.label "Cyfrif">
+<!ENTITY fxa.menu.firefoxServices.label "Gwasanaethau &brandProductName;">
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.description "Llwythwch i fyny a rhannu ffeiliau gydag amgryptio o'r dechrau i'r diwedd ynghyd â dolen sy'n dod i ben yn awtomatig.">
+<!ENTITY fxa.service.send.launch "Cychwyn &sendShortName;">
+<!ENTITY fxa.service.monitor.description "Edrychwch i weld a yw'ch e-bost wedi ymddangos mewn tor-data a chael rhybudd os yw'n ymddangos mewn tor-data newydd.">
+<!ENTITY fxa.service.monitor.launch "Cychwyn &monitorShortName;">
+<!ENTITY fxa.service.sendTab.description "Anfon tab ar unwaith i unrhyw ddyfais rydych wedi mewngofnodi arni.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -188,6 +201,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "Nod Tudalen i Bob Tab…">
+
 <!ENTITY showAllBookmarks2.label "Dangos Pob Nod Tudalen">
 <!ENTITY recentBookmarks.label "Wedi gosod Nod Tudalen yn Ddiweddar">
 <!ENTITY otherBookmarksCmd.label "Nodau Tudalen Eraill">
@@ -310,6 +324,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Ffeil">
 <!ENTITY fileMenu.accesskey       "F">
+
 <!ENTITY newUserContext.label             "Tab Cynhwysydd Newydd">
 <!ENTITY newUserContext.accesskey         "y">
 <!ENTITY manageUserContext.label          "Rheoli Cynhwysyddion">
@@ -359,6 +374,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "B">
 <!ENTITY viewSidebarMenu.label "Bar Ochr">
 <!ENTITY viewSidebarMenu.accesskey "B">
+
 <!ENTITY viewCustomizeToolbar.label       "Cyfaddasu…">
 <!ENTITY viewCustomizeToolbar.accesskey     "y">
 <!ENTITY overflowCustomizeToolbar.label       "Cyfaddasu'r Bar Offer…">
@@ -372,6 +388,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Adfer y Sesiwn Flaenorol">
 
 <!ENTITY showAllHistoryCmd2.label "Dangos yr Holl Hanes">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Dangos yr Holl Hanes">
@@ -592,9 +609,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "E-bostio'r Ddolen…">
 <!ENTITY emailPageCmd.accesskey       "E">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Cadw Tudalen Fel…">
 <!ENTITY savePageCmd.accesskey        "C">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "T">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Cadw Ffrâm Fel…">
@@ -699,22 +716,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Chwyddo Mewn">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "M">
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Chwyddo Allan">
 <!ENTITY fullZoomReduceCmd.accesskey    "A">
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Ailosod">
 <!ENTITY fullZoomResetCmd.accesskey     "i">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Chwyddo'r Testun yn Unig">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
+
 <!ENTITY fullZoom.label                 "Chwyddo">
 <!ENTITY fullZoom.accesskey             "h">
 
@@ -732,6 +753,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Cau">
+
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "C">
 
@@ -785,13 +807,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Cysylltiad">
 <!ENTITY identity.connectionSecure "Cysylltiad Pell">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Diogelwch y Cysylltiad">
+
+<!ENTITY identity.connectionSecure2 "Cysylltiad yn Ddiogel">
 <!ENTITY identity.connectionNotSecure "Nid yw'r Cysylltiad yn Ddiogel">
+<!ENTITY identity.connectionNotSecureSecurityView "Nid ydych wedi'ch cysylltu'n ddiogel â'r wefan hon.">
 <!ENTITY identity.connectionFile "Mae'r dudalen hon wedi ei chadw ar eich cyfrifiadur.">
 <!ENTITY identity.connectionVerified2 "Rydych wedi eich cysylltu'n ddiogel â'r wefan hon, sy'n cael ei redeg gan:">
+<!ENTITY identity.connectionVerified3 "Rydych wedi eich cysylltu'n ddiogel â'r wefan hon.">
 <!ENTITY identity.connectionInternal "Mae hon yn dudalen &brandShortName; diogel.">
 <!ENTITY identity.extensionPage "Mae'r dudalen wedi ei llwytho o estyniad.">
 <!ENTITY identity.insecureLoginForms2 "Gall mewngofnodion sy'n cael eu cyflwyno ar y dudalen hon gael eu cyfaddawdu.">
 <!ENTITY identity.customRoot "Dilyswyd y cysylltiad gan gyhoeddwr tystysgrif nad yw'n cael ei gydnabod gan Mozilla.">
+
+<!ENTITY identity.evOwnerLabel "Perchennog y wefan yw:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "Mae &brandShortName; wedi rhwystro rhannau o'r dudalen nad ydynt yn ddiogel.">
@@ -826,6 +858,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Clirio Data Cwcis a Gwefan…">
 
 <!ENTITY identity.permissions "Caniatâd">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "Caniatâd wedi eu Gosod">
 <!ENTITY identity.permissionsEmpty "Nid ydych wedi rhoi i'r wefan hon unrhyw ganiatâd arbennig.">
 <!ENTITY identity.permissionsReloadHint "Efallai y bydd angen ail lwytho'r dudalen i newidiadau ddod ar waith.">
 <!ENTITY identity.permissionsPreferences.tooltip "Agor Dewisiadau Caniatâd">
@@ -834,6 +869,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY protections.etpON.header "Mae Diogelwch Uwch Rhag Tracio YMLAEN ar y wefan hon">
 <!ENTITY protections.etpOFF.header "Mae Diogelwch Uwch Rhag Tracio I FFWRDD ar y wefan hon">
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Rhagor o wybodaeth am Ddiogelwch Rhag Tracio Uwch">
 <!ENTITY protections.settings.label "Gosodiadau Diogelu">
 <!ENTITY protections.report.label "Dangos yr Adroddiad Llawn">
 <!-- LOCALIZATION NOTE:
@@ -888,6 +926,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Mewngofnodi i &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
+
 <!ENTITY syncSyncNowItem.label        "Cydweddu Nawr">
 <!ENTITY syncSyncNowItemSyncing.label "Cydweddu…">
 <!ENTITY syncSyncNowItem.accesskey    "y">
@@ -910,11 +949,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Tracwyr">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Cynnwys Tracio">
+
 <!ENTITY contentBlocking.manageSettings.label "Rheoli Rhwystro Cynnwys">
 <!ENTITY contentBlocking.manageSettings.accesskey "R">
 
 <!ENTITY contentBlocking.trackersView.label "Tracwyr">
 <!ENTITY contentBlocking.trackersView.strictInfo.label 'I rwystro pob traciwr, gosodwch rhwystro cynnwys "Llym".'>
+
+<!ENTITY contentBlocking.socialblock.label "Tracwyr Cyfryngau Cymdeithasol">
+<!ENTITY contentBlocking.socialblockView.label "Tracwyr Cyfryngau Cymdeithasol wedi'u Rhwystro">
+<!ENTITY contentBlocking.socialblockView.description "Mae rhwydweithiau cymdeithasol yn gosod tracwyr ar wefannau eraill i ddilyn yr hyn rydych chi'n ei wneud, ei weld, a'i wylio ar-lein. Mae hyn yn caniatáu i gwmnïau cyfryngau cymdeithasol ddysgu mwy amdanoch chi y tu hwnt i'r hyn rydych chi'n ei rannu ar eich proffiliau cyfryngau cymdeithasol.">
 
 <!ENTITY contentBlocking.cookies.label "Cwcis">
 <!ENTITY contentBlocking.cookiesView.label "Cwcis a Data Gwefan">

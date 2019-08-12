@@ -47,6 +47,9 @@ newtab-topsites-add-button = Ychwanegu
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Ydych chi'n siŵr eich bod chi am ddileu pob enghraifft o'r dudalen hon o'ch hanes?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Nid oes modd dadwneud hyn.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Nod Tudalen
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Copïo Dolen Llwytho i Lawr
 newtab-menu-go-to-download-page = Mynd i'r Dudalen Llwytho i Lawr
 newtab-menu-remove-download = Tynnu o'r Hanes
@@ -109,11 +116,16 @@ newtab-menu-open-file = Agor Ffeil
 
 newtab-label-visited = Ymwelwyd
 newtab-label-bookmarked = Nod Tudalen
+newtab-label-removed-bookmark = Wedi Tynnu'r Nod Tudalen
 newtab-label-recommended = Trendio
 newtab-label-saved = Wedi ei gadw i { -pocket-brand-name }
 newtab-label-download = Wedi eu Llwytho i Lawr
 
 ## Section Menu: These strings are displayed in the section context menu and are 
+## meant as a call to action for the given section.
+
+
+## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = Tynnu'r Adran
@@ -126,6 +138,13 @@ newtab-section-menu-add-search-engine = Ychwanegu Peiriant Chwilio
 newtab-section-menu-move-up = Symud i Fyny
 newtab-section-menu-move-down = Symud i Lawr
 newtab-section-menu-privacy-notice = Hysbysiad Preifatrwydd
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Cau'r Adran
+newtab-section-expand-section-label =
+    .aria-label = Ehangu'r Adran
 
 ## Section Headers.
 
