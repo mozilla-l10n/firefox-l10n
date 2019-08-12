@@ -2,8 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Chilab'en K'amal
+cfr-doorhanger-feature-heading = Chilab'en Samaj
 cfr-doorhanger-pintab-heading = Tatojtob'ej rere': Pin Tab
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Aruma nintz'ët re'
 cfr-doorhanger-extension-cancel-button = Wakami Mani
@@ -69,3 +76,14 @@ cfr-whatsnew-button =
     .label = K'ak'a' Rutzijol
     .tooltiptext = K'ak'a' Rutzijol
 cfr-whatsnew-panel-header = Achike natzijoj
+
+## Bookmark Sync
+
+cfr-doorhanger-sync-bookmarks-header = Taya' re yaketal re' pan awoyonib'al
+cfr-doorhanger-sync-bookmarks-body = Ke'ak'waj ri taq ayaketal, ewan atzij, natab'äl chuqa' ch'aqa' chik pa xab'achike k'ojlib'äl akuchi' natikirisaj molojri'ïl pa { -brand-product-name }.
+
+## Send Tab
+
+
+## Firefox Send
+
