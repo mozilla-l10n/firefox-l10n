@@ -6,8 +6,15 @@ about-logins-page-title = Inicios de sesión y contraseñas
 login-filter =
     .placeholder = Buscar inicios de sesión
 create-login-button = Crear nuevo inicio de sesión
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Favicon para { $title }
 fxaccounts-sign-in-text = Obtén tus contraseñas para tus otros dispositivos
 fxaccounts-sign-in-button = Inicia sesión en { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = Administrar cuenta
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -36,6 +43,7 @@ login-list-count =
     }
 login-list-sort-label-text = Ordenar por:
 login-list-name-option = Nombre (A-Z)
+login-list-breached-option = Sitios web vulnerados
 login-list-last-changed-option = Última modificación
 login-list-last-used-option = Último uso
 login-list-intro-title = No se encontraron inicios de sesión
