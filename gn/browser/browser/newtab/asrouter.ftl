@@ -78,6 +78,8 @@ cfr-whatsnew-panel-header = Oĩpa mba'e pyahu
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Emoĩ pe techaukaha ne pumbyrýpe
+cfr-doorhanger-sync-bookmarks-body = Egueraha nde rechaukaha, ñe’ẽñemi, tembiasakue ha hetave opaite hendápe eñepyrũ haguépe tembiapo { -brand-product-name }-pe.
 cfr-doorhanger-sync-bookmarks-ok-button = Emyandy { -sync-brand-short-name }
     .accesskey = T
 
