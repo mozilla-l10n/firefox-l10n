@@ -742,7 +742,7 @@ content-blocking-cryptominers = Cryptominer
 content-blocking-fingerprinters = Fingerprinter
 content-blocking-warning-title = Attenzione
 content-blocking-warning-description = Il blocco di contenuti potrebbe impedire il corretto funzionamento di alcuni siti. È semplice disattivare il blocco per i siti che ritieni affidabili.
-content-blocking-etp-warning-description = Il blocco degli elementi traccianti può impedire il corretto funzionamento di alcuni siti. Ricaricare la pagina con gli elementi traccianti per caricare tutti i contenuti.
+content-blocking-etp-warning-description = Il blocco degli elementi traccianti può impedire il corretto funzionamento di alcuni siti. Ricaricare la pagina con gli elementi traccianti per visualizzare tutti i contenuti.
 content-blocking-warning-learn-how = Scopri come
 
 content-blocking-learn-how = Scopri come
