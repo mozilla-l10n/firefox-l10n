@@ -897,6 +897,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.notBlocking.label "Blokkerer ikke">
 <!ENTITY protections.notBlocking.why.label "Hvorfor?">
 <!ENTITY protections.socialMediaTrackers.label "Sporing via sosiale medier">
+<!ENTITY protections.crossSiteTrackingCookies.label "Sporingsinfokapsler på tvers av nettsteder">
 <!ENTITY protections.trackingContent.label "Sporings-innhold">
 <!ENTITY protections.fingerprinters.label "Fingerprinters">
 <!ENTITY protections.cryptominers.label "Kryptominere">
@@ -941,6 +942,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Sporere">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Sporings-innhold">
 
 <!ENTITY contentBlocking.manageSettings.label "Behandle innholdsblokkering">
 <!ENTITY contentBlocking.manageSettings.accesskey "n">
