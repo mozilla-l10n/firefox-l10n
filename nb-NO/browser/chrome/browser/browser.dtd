@@ -872,14 +872,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Mer informasjon om utvidet sporingsbeskyttelse">
+<!ENTITY protections.settings.label "Innstillinger for beskyttelse">
+<!ENTITY protections.report.label "Vis full rapport">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "Fungerer ikke nettstedet?">
+<!ENTITY protections.siteNotWorkingView.title "Fungerer ikke nettstedet?">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Slå av beskyttelsen hvis du har problemer med:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Innloggingsfelt">
 <!ENTITY protections.siteNotWorkingView.issueList.forms "Skjemaer">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Betalinger">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Kommentarer">
@@ -891,10 +897,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.notBlocking.label "Blokkerer ikke">
 <!ENTITY protections.notBlocking.why.label "Hvorfor?">
 <!ENTITY protections.socialMediaTrackers.label "Sporing via sosiale medier">
+<!ENTITY protections.trackingContent.label "Sporings-innhold">
+<!ENTITY protections.fingerprinters.label "Fingerprinters">
 <!ENTITY protections.cryptominers.label "Kryptominere">
 <!ENTITY protections.noTrackersFound.description "Ingen sporere kjent for &brandShortName; ble oppdaget på denne siden.">
 
 
+<!ENTITY protections.manageProtectionSettings.label "Behandle innstillinger for beskyttelse">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
