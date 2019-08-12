@@ -160,6 +160,8 @@ hardware-h264 = Hardware H264 na Pag-decode
 main-thread-no-omtc = pangunahing thread, walang OMTC
 yes = Oo
 no = Hindi
+unknown = Hindi Alam
+virtual-monitor-disp = Virtual Monitor Display
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -167,12 +169,15 @@ no = Hindi
 
 found = Nahanap
 missing = Nawawala
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Descripsyon
 gpu-vendor-id = Vendor ID
 gpu-device-id = ID ng Device
 gpu-subsys-id = ID ng Subsys
 gpu-drivers = Mga driver
 gpu-ram = RAM
+gpu-driver-vendor = Driver Vendor
 gpu-driver-version = Bersyon ng Driver
 gpu-driver-date = Petsa ng Driver
 gpu-active = Aktibo
@@ -199,6 +204,7 @@ d3d9video-crash-buard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = I-reset sa Sunod na Restart
 gpu-process-kill-button = Patigilin ang mga Proseso ng GPU
+gpu-device-reset = Device Reset
 gpu-device-reset-button = I-trigger ang Pag-reset ng Device
 uses-tiling = Paggamit ng Tiling
 audio-backend = Backend ng Audio
@@ -246,3 +252,4 @@ touch-warning = na-disable ang async touch input dahil sa hindi suportadong pref
 
 policies-inactive = Di Aktibo
 policies-active = Aktibo
+policies-error = Error

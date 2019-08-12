@@ -31,6 +31,8 @@ load-device-browse =
 
 ## Token Manager
 
+devinfo-status =
+    .label = Status
 devinfo-status-logged-in =
     .label = Nakalog-in
 devinfo-status-ready =
@@ -39,7 +41,19 @@ devinfo-desc =
     .label = Paglalarawan
 devinfo-man-id =
     .label = Gumawa
+devinfo-hwversion =
+    .label = HW Version
+devinfo-fwversion =
+    .label = FW Version
+devinfo-modname =
+    .label = Module
+devinfo-modpath =
+    .label = Path
 login-failed = Nabigong mag-Login
+devinfo-label =
+    .label = Label
+devinfo-serialnum =
+    .label = Serial Number
 fips-nonempty-password-required = FIPS mode ay nangangailangan na mayroon kang isang Master Password set para sa bawat security device. Mangyaring itakda ang password bago subukang mapagana ang FIPS mode.
 # Load Module Dialog
 load-module-help-empty-module-name =

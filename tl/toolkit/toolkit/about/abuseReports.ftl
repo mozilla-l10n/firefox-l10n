@@ -7,6 +7,9 @@ abuse-report-submit-description = Ilarawan ang problema (opsyonal)
 ## Panel buttons.
 
 abuse-report-cancel-button = Kanselahin
+abuse-report-next-button = Susunod
+abuse-report-goback-button = Bumalik
+abuse-report-submit-button = Ipadala
 
 ## Message bars descriptions.
 
@@ -17,7 +20,9 @@ abuse-report-cancel-button = Kanselahin
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-retry = UlitinSubukan Muli
 abuse-report-messagebar-action-cancel = Kanselahin
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-other-reason = Iba pa

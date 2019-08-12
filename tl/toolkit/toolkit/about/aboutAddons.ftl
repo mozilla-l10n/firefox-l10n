@@ -326,6 +326,7 @@ install-update-button = I-update
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Pinagpayagan sa mga private window
+addon-detail-private-browsing-allow = Payagan
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.
 addon-badge-recommended =

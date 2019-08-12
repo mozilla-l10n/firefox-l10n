@@ -18,3 +18,6 @@ features-inspector-title = Inspector
 features-console-title = Console
 features-debugger-title = Debugger
 features-network-title = Network
+features-storage-title = Storage
+features-performance-title = Performance
+features-memory-title = Memory
