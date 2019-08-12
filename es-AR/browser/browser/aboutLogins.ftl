@@ -100,6 +100,11 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Cancelar
 confirmation-dialog-dismiss-button =
     .title = Cancelar
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] ¿Quiere ver sus inicios de sesión en todas partes donde usa { -brand-product-name }? Abra Opciones de { -sync-brand-short-name } y seleccione la casilla de verificación Inicios de sesión.
+       *[other] ¿Quiere ver sus inicios de sesión en todas partes donde usa { -brand-product-name }? Abra Preferencias de { -sync-brand-short-name } y seleccione la casilla de verificación Inicios de sesión.
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
