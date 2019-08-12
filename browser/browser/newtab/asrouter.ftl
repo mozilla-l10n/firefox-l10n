@@ -2,8 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Polecane rozszerzenie
+cfr-doorhanger-feature-heading = Polecana funkcja
 cfr-doorhanger-pintab-heading = Wypróbuj przypinanie kart
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Dlaczego jest to wyświetlane?
 cfr-doorhanger-extension-cancel-button = Nie teraz
@@ -73,3 +80,12 @@ cfr-whatsnew-button =
     .label = Co nowego
     .tooltiptext = Co nowego
 cfr-whatsnew-panel-header = Co nowego
+
+## Bookmark Sync
+
+
+## Send Tab
+
+
+## Firefox Send
+
