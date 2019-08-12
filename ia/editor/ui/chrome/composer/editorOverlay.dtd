@@ -16,6 +16,7 @@
 <!ENTITY pasteAsQuotationCmd.key "i">
 <!ENTITY findBarCmd.label "Trovar…">
 <!ENTITY findReplaceCmd.label "Trovar e reimplaciar…">
+<!ENTITY enableInlineSpellChecker.label "Corrector orthographic durante que tu scribe">
 <!ENTITY checkSpellingCmd2.label "Verificar le orthographia…">
 <!ENTITY checkSpellingCmd2.accesskey "r">
 
