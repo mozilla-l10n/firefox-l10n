@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "k">
 <!ENTITY folderPaneBar.label "Pasek panelu folderów">
 <!ENTITY folderPaneBar.accesskey "f">
-<!ENTITY folderModeSelector.label "Widoki folderów">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sortowanie według">
@@ -587,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Przenieś zaznaczoną wiadomość">
 <!ENTITY archiveButton.tooltip "Archiwizuj zaznaczone wiadomości">
 <!ENTITY openConversationButton.tooltip "Wyświetl wątek zaznaczonej wiadomości">
+<!ENTITY openMsgConversationButton.tooltip "Wyświetl wątek zaznaczonej wiadomości">
 <!ENTITY nextButton.tooltip "Przejdź do następnej nieprzeczytanej wiadomości">
 <!ENTITY nextMsgButton.tooltip "Przejdź do następnej wiadomości">
 <!ENTITY previousButton.tooltip "Przejdź do poprzedniej nieprzeczytanej wiadomości">
@@ -605,7 +605,6 @@
 <!ENTITY tagButton.tooltip "Oznacz wiadomości etykietą">
 <!ENTITY compactButton.tooltip "Porządkuj folder, aby wyczyścić pozostałości po usuniętych wiadomościach">
 <!ENTITY appmenuButton1.tooltip "Wyświetl menu programu &brandShortName;">
-
 <!ENTITY addonsButton.tooltip "Zarządzaj dodatkami">
 
 <!-- Toolbar Button Popup -->

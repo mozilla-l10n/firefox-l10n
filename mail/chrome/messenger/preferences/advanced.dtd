@@ -122,3 +122,8 @@
 <!ENTITY manageCertificates.accesskey "Z">
 <!ENTITY viewSecurityDevices.label "Urządzenia zabezpieczające">
 <!ENTITY viewSecurityDevices.accesskey "U">
+
+<!ENTITY manageCertificates2.label "Zarządzaj certyfikatami…">
+<!ENTITY manageCertificates2.accesskey "Z">
+<!ENTITY viewSecurityDevices2.label "Urządzenia zabezpieczające…">
+<!ENTITY viewSecurityDevices2.accesskey "U">
