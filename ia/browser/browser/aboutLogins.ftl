@@ -8,6 +8,8 @@ login-filter =
 create-login-button = Crear un nove accesso
 fxaccounts-sign-in-text = Accede a tu credentiales sur tote tu apparatos
 fxaccounts-sign-in-button = Accede a { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = Gerer le conto
 
 ## The ⋯ menu that is in the top corner of the page
 
