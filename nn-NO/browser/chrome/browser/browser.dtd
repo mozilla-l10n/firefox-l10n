@@ -805,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (identity.securityView.label2)
      This is the header of the security subview in the Site Identity panel. -->
 
+<!ENTITY identity.connectionSecure2 "Tilkoplinga er sikker">
 <!ENTITY identity.connectionNotSecure "Sambandet er ikkje trygt">
 <!ENTITY identity.connectionFile "Denne sida er lagra på datamaskina di.">
 <!ENTITY identity.connectionVerified2 "Du er trygt kopla til denne sida, eigd av:">
@@ -856,6 +857,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Opne innstillingar for innhaldsblokkering">
 
 
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.report.label "Vis full rapport">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
