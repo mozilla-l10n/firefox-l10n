@@ -2,8 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Jepysokue jeroviaháva
 cfr-doorhanger-pintab-heading = Eipuru kóva: Emboja tendayke
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Mba’ére ahechahína kóva
 cfr-doorhanger-extension-cancel-button = Ko'ág̃a nahániri
@@ -69,3 +75,16 @@ cfr-whatsnew-button =
     .label = Oĩpa mba'e pyahu
     .tooltiptext = Oĩpa mba'e pyahu
 cfr-whatsnew-panel-header = Oĩpa mba'e pyahu
+
+## Bookmark Sync
+
+
+## Send Tab
+
+cfr-doorhanger-send-tab-header = Emoñe’ẽ kóva pya’e
+cfr-doorhanger-send-tab-ok-button = Eñeha’ã emondo tendayke
+    .accesskey = T
+
+## Firefox Send
+
+cfr-doorhanger-firefox-send-header = Emoherakuã ko PDF tekorosãme
