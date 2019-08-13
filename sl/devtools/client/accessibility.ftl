@@ -23,7 +23,12 @@ accessibility-best-practices =
 
 accessibility-text-label-issue-dialog = Pogovorna okna morajo biti označena. <a>Več o tem</a>
 accessibility-text-label-issue-document-title = Dokumenti morajo imeti <code>naslov</code>. <a>Več o tem</a>
+accessibility-text-label-issue-embed = Vdelana vsebina mora biti označena. <a>Več o tem</a>
 accessibility-text-label-issue-fieldset = Elementi <code>fieldset</code> morajo biti označeni. <a>Več o tem</a>
+accessibility-text-label-issue-fieldset-legend = Uporabite element <code>legend</code>, da označite elemente <span>fieldset</span>. <a>Več o tem</a>
+accessibility-text-label-issue-form = Elementi obrazca morajo biti označeni. <a>Več o tem</a>
+accessibility-text-label-issue-form-visible = Elementi obrazca morajo imeti vidno oznako besedila. <a>Več o tem</a>
 accessibility-text-label-issue-frame = Elementi <code>frame</code> morajo biti označeni. <a>Več o tem</a>
 accessibility-text-label-issue-heading = Naslovi morajo biti označeni. <a>Več o tem</a>
+accessibility-text-label-issue-heading-content = Naslovi bi morali imeti vidno vsebino besedila. <a>Več o tem</a>
 accessibility-text-label-issue-image = Vsebina s slikami mora biti označena. <a>Več o tem</a>

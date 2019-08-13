@@ -83,6 +83,7 @@ cfr-whatsnew-panel-header = Novosti
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Pošljite si ta zaznamek na telefon
 cfr-doorhanger-sync-bookmarks-body = Vzemite svoje zaznamke, gesla, zgodovino in drugo s seboj, kjerkoli ste prijavljeni v { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = Vklopi { -sync-brand-short-name }
     .accesskey = V
@@ -97,3 +98,5 @@ cfr-doorhanger-send-tab-ok-button = Preskusite Send Tab
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Varno delite ta PDF
+cfr-doorhanger-firefox-send-ok-button = Preizkusite { -send-brand-name }
+    .accesskey = P
