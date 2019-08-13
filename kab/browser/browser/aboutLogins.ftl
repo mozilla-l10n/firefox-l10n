@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Inekcam & wawalen uffiren
+login-filter =
+    .placeholder = Nadi inekcam
+create-login-button = Rnu anekcum amaynut
+fxaccounts-sign-in-button = Qqen ɣer { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Sefrek amiḍan
 
@@ -10,6 +14,8 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Ldi umuɣ
+# This menuitem is only visible on Windows
+menu-menuitem-import = Kter awalen uffiren...
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] iɣewwaṛen
