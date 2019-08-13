@@ -740,7 +740,7 @@ content-blocking-unvisited-cookies = ciasteczka z nieodwiedzonych witryn
 content-blocking-all-windows-trackers = znane elementy śledzące we wszystkich oknach
 content-blocking-all-third-party-cookies = wszystkie ciasteczka zewnętrznych witryn
 content-blocking-cryptominers = elementy używające komputera użytkownika do generowania kryptowalut
-content-blocking-fingerprinters = śledzenie przez zbieranie informacji o konfiguracji
+content-blocking-fingerprinters = elementy śledzące przez zbieranie informacji o konfiguracji
 content-blocking-warning-title = Ostrzeżenie
 content-blocking-warning-description = Blokowanie treści może powodować problemy z niektórymi stronami. Blokowanie można łatwo wyłączyć na stronach, którym ufasz.
 content-blocking-learn-how = Więcej informacji
@@ -770,7 +770,7 @@ content-blocking-cryptominers-label =
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = śledzenie przez zbieranie informacji o konfiguracji
+    .label = elementy śledzące przez zbieranie informacji o konfiguracji
     .accesskey = k
 
 ## Privacy Section - Tracking
