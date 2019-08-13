@@ -80,10 +80,17 @@ cfr-whatsnew-panel-header = Yeni neler var?
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Bu yer imini telefonunuza gönderin
+cfr-doorhanger-sync-bookmarks-body = Yer imlerinize, parolalarınıza, geçmişinize ve diğer bilgilerinize { -brand-product-name } tarayıcınıza giriş yaptığınız her yerden ulaşın.
+cfr-doorhanger-sync-bookmarks-ok-button = { -sync-brand-short-name }’i aç
+    .accesskey = a
 
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Bu yazıyı yolda okuyun
+cfr-doorhanger-send-tab-recipe-header = Bu yazıyı yanınızda taşıyın
+cfr-doorhanger-send-tab-body = Sekme Gönder özelliğiyle bu bağlantıyı kolayca telefonunuza veya { -brand-product-name }’a giriş yaptığınız her yere gönderebilirsiniz.
+cfr-doorhanger-send-tab-ok-button = Sekme göndermeyi dene
+    .accesskey = S
 
 ## Firefox Send
 
