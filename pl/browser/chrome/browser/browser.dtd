@@ -138,7 +138,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.button.label "Otwórz ustawienia synchronizacji…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Zalogowano jako">
 <!ENTITY fxa.menu.manageAccount.label "Zarządzaj kontem…">
@@ -146,13 +146,26 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Połącz inne urządzenie…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!ENTITY fxa.menu.signin.label "Zaloguj się w przeglądarce &brandProductName;">
+<!ENTITY fxa.menu.turnOnSync.label "Włącz synchronizację">
+<!ENTITY fxa.menu.account.label "Konto">
+<!ENTITY fxa.menu.firefoxServices.label "Usługi przeglądarki &brandProductName;">
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.description "Wysyłaj i udostępniaj pliki za pomocą szyfrowania typu „end-to-end” i odnośnika, który automatycznie wygasa.">
+<!ENTITY fxa.service.send.launch "Otwórz usługę &sendShortName;">
+<!ENTITY fxa.service.monitor.description "Sprawdź, czy Twój adres e-mail pojawił się w bazach wykradzionych haseł i otrzymuj powiadomienie, jeśli pojawi się w nowych.">
+<!ENTITY fxa.service.monitor.launch "Otwórz usługę &monitorShortName;">
+<!ENTITY fxa.service.sendTab.description "Błyskawicznie prześlij kartę na dowolne urządzenie, na którym się zalogujesz.">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "działa teraz w trybie pełnoekranowym">
+<!ENTITY fullscreenWarning.afterDomain.label "jest teraz w trybie pełnoekranowym">
 <!ENTITY fullscreenWarning.generic.label "Dokument jest teraz wyświetlany w trybie pełnoekranowym">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
@@ -188,10 +201,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "Dodaj zakładki do wszystkich kart…">
+
 <!ENTITY showAllBookmarks2.label "Wyświetl wszystkie zakładki">
 <!ENTITY recentBookmarks.label "Ostatnio dodane">
 <!ENTITY otherBookmarksCmd.label "Pozostałe zakładki">
-<!ENTITY mobileBookmarksCmd.label "Zakładki z urządzeń przenośnych">
+<!ENTITY mobileBookmarksCmd.label "Zakładki z telefonu">
 <!ENTITY bookmarksToolbarChevron.tooltip "Wyświetl więcej zakładek">
 
 <!ENTITY backCmd.label                "Wstecz">
@@ -264,7 +278,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksSubview.label             "Zakładki">
 <!ENTITY bookmarksMenuButton2.label         "Menu zakładki">
 <!ENTITY bookmarksMenuButton.other.label    "Pozostałe zakładki">
-<!ENTITY bookmarksMenuButton.mobile.label   "Zakładki z urządzeń przenośnych">
+<!ENTITY bookmarksMenuButton.mobile.label   "Zakładki z telefonu">
 <!ENTITY viewBookmarksSidebar2.label        "Wyświetl panel zakładek">
 <!ENTITY hideBookmarksSidebar.label         "Ukryj panel zakładek">
 <!ENTITY viewBookmarksToolbar.label         "Wyświetl pasek zakładek">
@@ -310,6 +324,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Plik">
 <!ENTITY fileMenu.accesskey       "P">
+
 <!ENTITY newUserContext.label             "Nowa karta z kontekstem">
 <!ENTITY newUserContext.accesskey         "k">
 <!ENTITY manageUserContext.label          "Zarządzaj kontekstami">
@@ -359,6 +374,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "P">
 <!ENTITY viewSidebarMenu.label "Panel boczny">
 <!ENTITY viewSidebarMenu.accesskey "b">
+
 <!ENTITY viewCustomizeToolbar.label       "Dostosuj…">
 <!ENTITY viewCustomizeToolbar.accesskey     "t">
 <!ENTITY overflowCustomizeToolbar.label       "Dostosuj pasek narzędzi…">
@@ -372,6 +388,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Przywróć poprzednią sesję">
 
 <!ENTITY showAllHistoryCmd2.label "Wyświetl całą historię">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Wyświetl całą historię">
@@ -592,9 +609,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Wyślij odnośnik…">
 <!ENTITY emailPageCmd.accesskey       "n">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Zapisz stronę jako…">
 <!ENTITY savePageCmd.accesskey        "p">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "s">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Zapisz ramkę jako…">
@@ -699,22 +716,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Powiększ">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "w">
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Pomniejsz">
 <!ENTITY fullZoomReduceCmd.accesskey    "m">
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Rozmiar pierwotny">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Powiększaj tylko tekst">
 <!ENTITY fullZoomToggleCmd.accesskey    "k">
+
 <!ENTITY fullZoom.label                 "Powiększenie">
 <!ENTITY fullZoom.accesskey             "w">
 
@@ -732,6 +753,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Zamknij">
+
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "Z">
 
@@ -785,13 +807,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Połączenie">
 <!ENTITY identity.connectionSecure "Zabezpieczone połączenie">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Bezpieczeństwo połączenia">
+
+<!ENTITY identity.connectionSecure2 "Zabezpieczone połączenie">
 <!ENTITY identity.connectionNotSecure "Połączenie nie jest bezpieczne">
-<!ENTITY identity.connectionFile "Strona wczytana z tego komputera">
+<!ENTITY identity.connectionNotSecureSecurityView "Połączenie z tą stroną nie jest zabezpieczone.">
+<!ENTITY identity.connectionFile "Strona wczytana z tego komputera.">
 <!ENTITY identity.connectionVerified2 "Połączenie bezpieczne, strona:">
+<!ENTITY identity.connectionVerified3 "Połączenie z tą stroną jest zabezpieczone.">
 <!ENTITY identity.connectionInternal "To jest strona programu &brandShortName;.">
 <!ENTITY identity.extensionPage "Ta strona została wczytana przez rozszerzenie.">
 <!ENTITY identity.insecureLoginForms2 "Dane logowania wprowadzone na tej stronie nie są chronione.">
 <!ENTITY identity.customRoot "Połączenie zweryfikowane przez wystawcę certyfikatu, który nie jest rozpoznawany przez Mozillę.">
+
+<!ENTITY identity.evOwnerLabel "Zarządzana przez:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; zablokował elementy tej strony, które nie były przesłane w sposób bezpieczny.">
@@ -826,10 +858,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Wyczyść ciasteczka i dane stron…">
 
 <!ENTITY identity.permissions "Uprawnienia">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissionsEmpty "Strona korzysta z domyślnych uprawnień.">
 <!ENTITY identity.permissionsReloadHint "Ponowne wczytanie strony może być konieczne, aby wprowadzone zmiany przyniosły skutek.">
 <!ENTITY identity.permissionsPreferences.tooltip "Otwórz ustawienia uprawnień">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Otwórz ustawienia blokowania treści">
+
+
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!-- LOCALIZATION NOTE:
+     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
+     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!-- LOCALIZATION NOTE:
+     In the Site Not Working? view, we suggest turning off protections if
+     the user is experiencing issues with any of a variety of functionality.
+     protections.siteNotWorkingView.header: The header of the list
+     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+
+
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -845,6 +893,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Zaloguj się, aby rozpocząć synchronizację…">
 <!ENTITY syncSignIn.accesskey         "s">
+
 <!ENTITY syncSyncNowItem.label        "Synchronizuj teraz">
 <!ENTITY syncSyncNowItemSyncing.label "Synchronizowanie…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
@@ -867,11 +916,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Elementy śledzące">
 
+
 <!ENTITY contentBlocking.manageSettings.label "Ustawienia blokowania treści">
 <!ENTITY contentBlocking.manageSettings.accesskey "U">
 
 <!ENTITY contentBlocking.trackersView.label "Elementy śledzące">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Ustaw blokowanie na „ścisłe”, aby blokować wszystkie elementy śledzące.">
+
 
 <!ENTITY contentBlocking.cookies.label "Ciasteczka">
 <!ENTITY contentBlocking.cookiesView.label "Ciasteczka i dane stron">
