@@ -16,7 +16,6 @@
 <!ENTITY time.minute.label "Минуты">
 <!ENTITY time.second.label "Секунды">
 <!ENTITY time.millisecond.label "Миллисекунды">
-<!ENTITY time.dayperiod.label "AM/PM">
 
 <!-- Placeholders for input type=date -->
 
