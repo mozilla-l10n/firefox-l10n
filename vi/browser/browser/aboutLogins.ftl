@@ -6,8 +6,15 @@ about-logins-page-title = Đăng nhập & mật khẩu
 login-filter =
     .placeholder = Tìm kiếm thông tin đăng nhập
 create-login-button = Tạo đăng nhập mới
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Biểu tượng cho { $title }
 fxaccounts-sign-in-text = Nhận mật khẩu của bạn trên các thiết bị khác của bạn
 fxaccounts-sign-in-button = Đăng nhập vào { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = Quản lý tài khoản
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -35,6 +42,7 @@ login-list-count =
     }
 login-list-sort-label-text = Sắp xếp theo:
 login-list-name-option = Tên (A-Z)
+login-list-breached-option = Trang web đã bị rò rỉ
 login-list-last-changed-option = Sửa đổi lần cuối
 login-list-last-used-option = Sử dụng lần cuối
 login-list-intro-title = Không tìm thấy thông tin đăng nhập
