@@ -152,7 +152,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.description "Upload en deel bestanden met end-to-end-versleuteling en een koppeling die automatisch verloopt.">
 <!ENTITY fxa.service.send.launch "&sendShortName; starten">
+<!ENTITY fxa.service.monitor.description "Kijk of uw e-mailadres is getroffen door een datalek en ontvang een waarschuwing als het voor komt in een nieuw lek.">
 <!ENTITY fxa.service.monitor.launch "&monitorShortName; starten">
 <!ENTITY fxa.service.sendTab.description "Stuur een tabblad direct naar elk apparaat waarop u bent aangemeld.">
 
@@ -857,29 +859,44 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Toestemmingen">
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "Toestemmingen ingesteld">
 <!ENTITY identity.permissionsEmpty "U hebt deze website geen speciale toestemmingen gegeven.">
 <!ENTITY identity.permissionsReloadHint "Mogelijk dient u de pagina te vernieuwen om wijzigingen van kracht te laten worden.">
 <!ENTITY identity.permissionsPreferences.tooltip "Voorkeuren voor toestemmingen openen">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Voorkeuren voor inhoudsblokkering openen">
 
 
+<!ENTITY protections.etpON.header "Verbeterde bescherming tegen volgen is AAN voor deze website">
+<!ENTITY protections.etpOFF.header "Verbeterde bescherming tegen volgen is UIT voor deze website">
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Meer informatie over Verbeterde bescherming tegen volgen">
+<!ENTITY protections.settings.label "Beschermingsinstellingen">
+<!ENTITY protections.report.label "Volledig rapport tonen">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "Werkt de website niet?">
+<!ENTITY protections.siteNotWorkingView.title "Werkt de website niet?">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Schakel beschermingen uit als u problemen hebt met:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Aanmeldvelden">
 <!ENTITY protections.siteNotWorkingView.issueList.forms "Formulieren">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Betalingen">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Opmerkingen">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Video’s">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Werkt de website na uitschakelen beschermingen nog steeds niet?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Rapport verzenden">
 
 <!ENTITY protections.blocking.label "Geblokkeerd">
 <!ENTITY protections.notBlocking.label "Niet geblokkeerd">
 <!ENTITY protections.notBlocking.why.label "Waarom?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Door deze te blokkeren werken elementen van sommige websites mogelijk niet. Zonder trackers werken sommige knoppen, formulieren en aanmeldvelden mogelijk niet.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Door beschermingen uit te schakelen worden alle trackers op deze website toegestaan. Het kan ook de functionaliteit van de website verbeteren.">
 <!ENTITY protections.fingerprinters.label "Fingerprinters">
 <!ENTITY protections.cryptominers.label "Cryptominers">
 
