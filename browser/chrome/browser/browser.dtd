@@ -860,24 +860,53 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Uprawnienia">
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "Nadane uprawnienia">
 <!ENTITY identity.permissionsEmpty "Strona korzysta z domyślnych uprawnień.">
 <!ENTITY identity.permissionsReloadHint "Ponowne wczytanie strony może być konieczne, aby wprowadzone zmiany przyniosły skutek.">
 <!ENTITY identity.permissionsPreferences.tooltip "Otwórz ustawienia uprawnień">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Otwórz ustawienia blokowania treści">
 
 
+<!ENTITY protections.etpON.header "Wzmocniona ochrona przed śledzeniem jest włączona na tej witrynie">
+<!ENTITY protections.etpOFF.header "Wzmocniona ochrona przed śledzeniem jest wyłączona na tej witrynie">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Więcej informacji o wzmocnionej ochronie przed śledzeniem">
+<!ENTITY protections.settings.label "Ustawienia ochrony">
+<!ENTITY protections.report.label "Wyświetl pełny raport">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "Strona nie działa?">
+<!ENTITY protections.siteNotWorkingView.title "Strona nie działa?">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Wyłącz ochronę, jeśli masz problemy z:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "polami logowania">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "formularzami">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "płatnościami">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "komentarzami">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "filmami">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Strona nie działa nawet po wyłączeniu ochrony?">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Wyślij zgłoszenie">
 
+<!ENTITY protections.blocking.label "Blokowanie">
+<!ENTITY protections.notBlocking.label "Bez blokowania">
+<!ENTITY protections.notBlocking.why.label "Dlaczego?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Blokowanie tych elementów może powodować niepoprawne działanie niektórych stron. Bez elementów śledzących niektóre przyciski, formularze i pola logowania mogą nie działać.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Wyłączenie ochrony umożliwi działanie wszystkich elementów śledzących na tej stronie. Może to także naprawić jej funkcjonalność.">
+<!ENTITY protections.socialMediaTrackers.label "Elementy śledzące serwisów społecznościowych">
+<!ENTITY protections.crossSiteTrackingCookies.label "Ciasteczka śledzące między witrynami">
+<!ENTITY protections.trackingContent.label "Treści z elementami śledzącymi">
+<!ENTITY protections.fingerprinters.label "Elementy śledzące przez zbieranie informacji o konfiguracji">
+<!ENTITY protections.cryptominers.label "Elementy używające urządzenia użytkownika do generowania kryptowalut">
+<!ENTITY protections.noTrackersFound.description "&brandShortName; nie wykrył na tej stronie znanych elementów śledzących.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Te ciasteczka śledzą Cię od strony do strony w celu zbierania danych o tym, co robisz w Internecie. Są umieszczane przez zewnętrzne firmy, takie jak agencje reklamowe i firmy analityczne.">
+<!ENTITY protections.cryptominers.description "Te elementy wykorzystują moc obliczeniową Twojego komputera do generowania cyfrowych walut. Skrypty generujące kryptowaluty rozładowują baterię, spowalniają komputer i mogą zwiększyć rachunek za prąd.">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -930,8 +959,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cryptominers.label "Elementy używające komputera użytkownika do generowania kryptowalut">
 <!ENTITY contentBlocking.cryptominersView.label "Elementy używające komputera użytkownika do generowania kryptowalut">
 
-<!ENTITY contentBlocking.fingerprinters.label "Śledzenie przez zbieranie informacji o konfiguracji">
-<!ENTITY contentBlocking.fingerprintersView.label "Śledzenie przez zbieranie informacji o konfiguracji">
+<!ENTITY contentBlocking.fingerprinters.label "Elementy śledzące przez zbieranie informacji o konfiguracji">
+<!ENTITY contentBlocking.fingerprintersView.label "Elementy śledzące przez zbieranie informacji o konfiguracji">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Zgłoś problem">
 <!ENTITY contentBlocking.breakageReportView.label "Zgłaszanie problemu">
