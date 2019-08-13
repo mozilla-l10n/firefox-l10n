@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
 page-info-window =
-    .style = width: 600px; min-height: 500px;
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = C
 menu-copy =
