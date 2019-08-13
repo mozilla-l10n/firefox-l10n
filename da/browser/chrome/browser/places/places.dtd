@@ -70,22 +70,13 @@
 <!ENTITY cmd.new_separator.label           "Ny separator">
 <!ENTITY cmd.new_separator.accesskey       "p">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Genindlæs live bogmærke">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "G">
-
-<!ENTITY cmd.moveBookmarks.label                  "Flyt…">
-<!ENTITY cmd.moveBookmarks.accesskey              "F">
-
 <!ENTITY col.name.label          "Navn">
 <!ENTITY col.tags.label          "Mærkater">
 <!ENTITY col.url.label           "Adresse">
 <!ENTITY col.mostrecentvisit.label "Seneste besøg">
 <!ENTITY col.visitcount.label    "Besøg">
-<!ENTITY col.description.label   "Beskrivelse">
 <!ENTITY col.dateadded.label     "Tilføjet">
 <!ENTITY col.lastmodified.label  "Sidst ændret">
-
-<!ENTITY search.placeholder  "Søg">
 
 <!ENTITY historySearch.placeholder  "Søg i historik">
 <!ENTITY bookmarksSearch.placeholder  "Søg i bogmærker">
@@ -100,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "Gå frem">
 
-<!ENTITY detailsPane.more.label "Mere">
-<!ENTITY detailsPane.more.accesskey "e">
-<!ENTITY detailsPane.less.label "Mindre">
-<!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "Vælg et element til visning og redigering af dets egenskaber">
 
 <!ENTITY view.label               "Vis">
