@@ -138,13 +138,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.button.label "Avaa &syncBrand.shortName.label;-asetukset…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Kirjautuneena tilillä">
 <!ENTITY fxa.menu.manageAccount.label "Hallitse tiliä…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label;-asetukset…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Yhdistä toiseen laitteeseen…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!ENTITY fxa.menu.signin.label "Kirjaudu &brandProductName;iin">
+<!ENTITY fxa.menu.turnOnSync.label "Ota &syncBrand.shortName.label; käyttöön">
+<!ENTITY fxa.menu.account.label "Tili">
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.launch "Käynnistä &sendShortName;">
+<!ENTITY fxa.service.monitor.launch "Käynnistä &monitorShortName;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -188,6 +197,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "Lisää kaikki välilehdet kirjanmerkkeihin…">
+
 <!ENTITY showAllBookmarks2.label "Näytä kaikki kirjanmerkit">
 <!ENTITY recentBookmarks.label "Viimeksi lisätyt">
 <!ENTITY otherBookmarksCmd.label "Muut kirjanmerkit">
@@ -310,6 +320,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Tiedosto">
 <!ENTITY fileMenu.accesskey       "T">
+
 <!ENTITY newUserContext.label             "Uusi eristetty välilehti">
 <!ENTITY newUserContext.accesskey         "l">
 <!ENTITY manageUserContext.label          "Muokkaa eristystiloja">
@@ -359,6 +370,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "Sivupaneeli">
 <!ENTITY viewSidebarMenu.accesskey "p">
+
 <!ENTITY viewCustomizeToolbar.label       "Muokkaa…">
 <!ENTITY viewCustomizeToolbar.accesskey     "M">
 <!ENTITY overflowCustomizeToolbar.label       "Muokkaa työkalupalkkia…">
@@ -372,6 +384,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Palauta edellinen istunto">
 
 <!ENTITY showAllHistoryCmd2.label "Näytä sivuhistoria">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Näytä koko sivuhistoria">
@@ -592,9 +605,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Lähetä linkki…">
 <!ENTITY emailPageCmd.accesskey       "L">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Tallenna sivu nimellä…">
 <!ENTITY savePageCmd.accesskey        "n">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "s">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Tallenna kehys nimellä…">
@@ -699,22 +712,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Suurenna">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "S">
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Pienennä">
 <!ENTITY fullZoomReduceCmd.accesskey    "P">
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Palauta">
 <!ENTITY fullZoomResetCmd.accesskey     "a">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Muuta vain tekstin kokoa">
 <!ENTITY fullZoomToggleCmd.accesskey    "M">
+
 <!ENTITY fullZoom.label                 "Sivun suurennus">
 <!ENTITY fullZoom.accesskey             "S">
 
@@ -732,6 +749,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Sulje">
+
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "S">
 
@@ -785,13 +803,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Yhteys">
 <!ENTITY identity.connectionSecure "Suojattu yhteys">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+
 <!ENTITY identity.connectionNotSecure "Yhteys ei ole suojattu">
+<!ENTITY identity.connectionNotSecureSecurityView "Yhteytesi tähän sivustoon ei ole suojattu.">
 <!ENTITY identity.connectionFile "Sivu on tallennettu tietokoneellesi.">
 <!ENTITY identity.connectionVerified2 "Yhteys sivustoon on suojattu ja sivuston omistaa:">
+<!ENTITY identity.connectionVerified3 "Yhteytesi tähän sivustoon on suojattu.">
 <!ENTITY identity.connectionInternal "Tämä on suojattu &brandShortName;-sivu.">
 <!ENTITY identity.extensionPage "Tämän sivun latasi laajennus.">
 <!ENTITY identity.insecureLoginForms2 "Tälle sivulle kirjoitettujen kirjautumistietojen turvallisuus voi vaarantua.">
 <!ENTITY identity.customRoot "Yhteys on suojattu varmenteella, jonka myöntäjää Mozilla ei tunnista.">
+
+<!ENTITY identity.evOwnerLabel "Sivuston omistaa:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; on estänyt suojaamattoman sisällön näyttämisen.">
@@ -826,29 +852,38 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Poista evästeet ja sivustotiedot…">
 
 <!ENTITY identity.permissions "Oikeudet">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissionsEmpty "Sivustolle ei ole myönnetty mitään erityisoikeuksia.">
 <!ENTITY identity.permissionsReloadHint "Sivu tarvitsee ehkä päivittää, jotta muutokset tulevat voimaan.">
 <!ENTITY identity.permissionsPreferences.tooltip "Avaa oikeusasetukset">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Avaa sisällön eston asetukset">
 
 
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.settings.label "Suojauksen asetukset">
 <!ENTITY protections.report.label "Näytä koko raportti">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "Eikö sivusto toimi?">
+<!ENTITY protections.siteNotWorkingView.title "Eikö sivusto toimi?">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Poista suojaus käytöstä, jos kohtaat ongelmia seuraavien kanssa:">
 <!ENTITY protections.siteNotWorkingView.issueList.logInFields "Kirjautumiskentät">
 <!ENTITY protections.siteNotWorkingView.issueList.forms "Lomakkeet">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Maksut">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Kommentit">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Videot">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Eikö sivusto toimi suojauksen poiskytkemisen jälkeenkään?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Lähetä raportti">
 
+<!ENTITY protections.notBlocking.why.label "Miksi?">
 <!ENTITY protections.socialMediaTrackers.label "Sosiaalisen median seuraimet">
 
 
@@ -866,6 +901,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Kirjaudu &syncBrand.shortName.label;-palveluun…">
 <!ENTITY syncSignIn.accesskey         "K">
+
 <!ENTITY syncSyncNowItem.label        "Synkronoi">
 <!ENTITY syncSyncNowItemSyncing.label "Synkronoidaan…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
@@ -888,11 +924,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Seuraimet">
 
+
 <!ENTITY contentBlocking.manageSettings.label "Hallitse sisällön estämistä">
 <!ENTITY contentBlocking.manageSettings.accesskey "H">
 
 <!ENTITY contentBlocking.trackersView.label "Seuraimet">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Kaikki seuraimet voi estää valitsemalla ”Tiukka” sisällön esto.">
+
 
 <!ENTITY contentBlocking.cookies.label "Evästeet">
 <!ENTITY contentBlocking.cookiesView.label "Evästeet ja sivustotiedot">
