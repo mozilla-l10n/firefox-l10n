@@ -11,7 +11,7 @@ colors-window =
         }
 colors-close-key =
     .key = w
-colors-page-override = דריסת הצבעים שצוינו על ידי העמוד עם הבחירה שלך להלן
+colors-page-override = דריסת הצבעים שצוינו על־ידי העמוד עם הבחירה שלך להלן
     .accesskey = צ
 colors-page-override-option-always =
     .label = תמיד

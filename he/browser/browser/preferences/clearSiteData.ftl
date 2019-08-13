@@ -5,7 +5,7 @@
 clear-site-data-window =
     .title = ניקוי נתונים
     .style = width: 35em
-clear-site-data-description = ניקוי כל העוגיות ונתוני האתר שמאוחסנים על ידי { -brand-short-name } עשוי לנתק את המשתמש שלך מאתרים ויסיר תוכן אינטרנט בלתי מקוון. ניקוי נתוני המטמון לא ישפיע על פרטי הכניסה שלך.
+clear-site-data-description = ניקוי כל העוגיות ונתוני האתר שמאוחסנים על־ידי { -brand-short-name } עשוי לנתק את המשתמש שלך מאתרים ויסיר תוכן אינטרנט בלתי מקוון. ניקוי נתוני המטמון לא ישפיע על פרטי הכניסה שלך.
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage

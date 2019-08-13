@@ -22,7 +22,7 @@
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
 <!ENTITY options.showUserAgentStyles.label "הצגת סגנונות דפדפן">
-<!ENTITY options.showUserAgentStyles.tooltip "הפעלת אפשרות זו תציג את סגנונות בררת המחדל שנטענים על ידי הדפדפן.">
+<!ENTITY options.showUserAgentStyles.tooltip "הפעלת אפשרות זו תציג את סגנונות בררת המחדל שנטענים על־ידי הדפדפן.">
 
 <!-- LOCALIZATION NOTE (options.collapseAttrs.label): This is the label
   -  for the checkbox option to enable collapse attributes in the Inspector
