@@ -79,6 +79,9 @@ cfr-whatsnew-panel-header = Novas
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Recipe iste marcapaginas sur tu smartphono
+cfr-doorhanger-sync-bookmarks-ok-button = Activar { -sync-brand-short-name }
+    .accesskey = A
 
 ## Send Tab
 

@@ -6,6 +6,11 @@ about-logins-page-title = Accessos e contrasignos
 login-filter =
     .placeholder = Cercar credentiales
 create-login-button = Crear un nove accesso
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Favicon pro{ $title }
 fxaccounts-sign-in-text = Accede a tu credentiales sur tote tu apparatos
 fxaccounts-sign-in-button = Accede a { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -38,6 +43,7 @@ login-list-count =
     }
 login-list-sort-label-text = Ordinar per:
 login-list-name-option = Nomine (A-Z)
+login-list-breached-option = Sitos web violate
 login-list-last-changed-option = Ultime modification
 login-list-last-used-option = Ultime vice usate
 login-list-intro-title = Nulle credentiales trovate
