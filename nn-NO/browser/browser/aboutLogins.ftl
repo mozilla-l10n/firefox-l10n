@@ -108,6 +108,7 @@ enable-password-sync-preferences-button =
 confirm-delete-dialog-title = Slette denne innlogginga?
 confirm-delete-dialog-message = Denne handlinga kan ikkje angrast.
 confirm-delete-dialog-confirm-button = Slett
+confirm-discard-changes-dialog-title = Vil du forkaste endringar som ikkje er lagra?
 confirm-discard-changes-dialog-confirm-button = Ignorer
 
 ## Breach Alert notification
