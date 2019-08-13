@@ -149,9 +149,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Inicie sesión en &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Activar &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "Cuenta">
+<!ENTITY fxa.menu.firefoxServices.label "&brandProductName; Servicios">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.description "Cargue y comparta archivos con cifrado de punta a punta más un enlace que caduca automáticamente.">
+<!ENTITY fxa.service.send.launch "Abrir &sendShortName;">
+<!ENTITY fxa.service.monitor.description "Verifique si su correo electrónico apareció en una violación de datos y reciba alertas si aparece en una nueva violación.">
+<!ENTITY fxa.service.monitor.launch "Abrir &monitorShortName;">
+<!ENTITY fxa.service.sendTab.description "Envía una pestaña al instante a cualquier dispositivo en el que haya iniciado sesión.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -804,8 +810,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label2)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Seguridad de la conexión">
 
+<!ENTITY identity.connectionSecure2 "Conexión asegurada">
 <!ENTITY identity.connectionNotSecure "Conexión insegura">
+<!ENTITY identity.connectionNotSecureSecurityView "Su conexión a este sitio no es segura.">
 <!ENTITY identity.connectionFile "Esta página está guardada en su computadora.">
 <!ENTITY identity.connectionVerified2 "La conexión a este sitio es segura, provisto por:">
 <!ENTITY identity.connectionInternal "Esta es una página de &brandShortName; segura.">
