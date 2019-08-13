@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = Ping-datan lähde:
 about-telemetry-show-current-ping-data = Tämänhetkinen ping-data
+about-telemetry-show-current-data = Nykyinen data
 about-telemetry-show-archived-ping-data = Arkistoitu ping-data
 about-telemetry-show-subsession-data = Näytä ali-istuntodata
 about-telemetry-choose-ping = Valitse ping:
@@ -102,6 +103,8 @@ about-telemetry-no-search-results-all = Ei hakutuloksia mistään osiosta haulle
 about-telemetry-no-data-to-display = Osiossa ”{ $sectionName }” ei ole tällä hetkellä dataa
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = nykyinen ping
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = nykyinen data
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = kaikki
 # button label to copy the histogram

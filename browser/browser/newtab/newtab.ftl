@@ -141,6 +141,10 @@ newtab-section-menu-privacy-notice = Tietosuojakäytäntö
 
 ## Section aria-labels
 
+newtab-section-collapse-section-label =
+    .aria-label = Pienennä osio
+newtab-section-expand-section-label =
+    .aria-label = Laajenna osio
 
 ## Section Headers.
 
