@@ -100,7 +100,7 @@ onboarding-firefox-send-title = Zachowaj prywatność udostępnianych plików
 onboarding-firefox-send-text2 = Prześlij swoje pliki do { -send-brand-name }, aby udostępnić je za pomocą szyfrowania typu „end-to-end” i odnośnika, który automatycznie wygasa.
 onboarding-firefox-send-button = Wypróbuj { -send-brand-name }
 onboarding-mobile-phone-title = Pobierz przeglądarkę { -brand-product-name } na telefon
-onboarding-mobile-phone-text = Pobierz przeglądarkę { -brand-product-name } na telefon z systemem Android lub iOS i synchronizuj swoje dane między urządzeniami.
+onboarding-mobile-phone-text = Pobierz przeglądarkę { -brand-product-name } na Androida lub iOS i synchronizuj swoje dane między urządzeniami.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Pobierz przeglądarkę na telefon

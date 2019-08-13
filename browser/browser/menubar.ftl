@@ -196,7 +196,7 @@ menu-bookmarks-toolbar =
 menu-bookmarks-other =
     .label = Pozostałe zakładki
 menu-bookmarks-mobile =
-    .label = Zakładki z urządzeń przenośnych
+    .label = Zakładki z telefonu
 
 ## Tools Menu
 
