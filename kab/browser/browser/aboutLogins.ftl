@@ -31,6 +31,8 @@ login-list-name-option = Isem (A-Z)
 login-list-last-changed-option = Asnifel aneggaru
 login-list-last-used-option = Aseqdec anneggaru
 login-list-intro-title = Ulac inekcam yettwafen
+login-list-item-title-new-login = Anekcum amaynut
+login-list-item-subtitle-missing-username = (ulas isem n useqdac)
 
 ## Introduction screen
 
