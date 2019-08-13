@@ -156,6 +156,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.service.send.description "Tajotob'a' chuqa' ke'akomonij ri taq ayakb'al rik'in nïm ewan rusik'ixik chuqa' rik'in jun ruximonel nik'is ruq'ijul.">
 <!ENTITY fxa.service.send.launch "Tijaq &sendShortName;">
 <!ENTITY fxa.service.monitor.description "Tanik'oj we ri ataqoya'l k'o pa jun kitz'ilanem tzij chuqa' tak'ulu' rutzijol we k'o pa jun k'ak'a' tz'ilanem.">
+<!ENTITY fxa.service.monitor.launch "Tijaq &monitorShortName;">
+<!ENTITY fxa.service.sendTab.description "Tataqa' jun ruwi' chanin pa xab'achike okisab'äl akuchi' atikirisan molojri'ïl.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -809,7 +811,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label2)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Rujikomal Okem">
 
+<!ENTITY identity.connectionSecure2 "Rujikomal Okem">
 <!ENTITY identity.connectionNotSecure "Itzel chi Okem">
 <!ENTITY identity.connectionFile "Re ruxaq k'amaya'l re' yakon pan akematz'ib'.">
 <!ENTITY identity.connectionVerified2 "Ütz ri awokem pa re ruxaq k'amaya'l re', samajib'en ruma:">
