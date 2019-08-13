@@ -13,7 +13,7 @@
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
 <!ENTITY error.suggest.before "Jo kinne ek ien fan de ">
-<!ENTITY error.suggest.middle "fergese alternative e-mailaccounts">
+<!ENTITY error.suggest.middle "fergeze alternative e-mailaccounts">
 <!ENTITY error.suggest.after " probearje.">
 
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
