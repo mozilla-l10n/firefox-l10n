@@ -9,14 +9,6 @@
 <!ENTITY retry.label "Prøv igen">
 <!ENTITY returnToPreviousPage.label "Gå tilbage">
 <!ENTITY returnToPreviousPage1.label "Gå tilbage (anbefalet)">
-<!ENTITY advanced.label "Avanceret">
-
-<!ENTITY continue.label "Fortsæt">
-<!ENTITY continue1.label "Fortsæt…">
-<!ENTITY continue2.label "Mere…">
-<!ENTITY advanced2.label "Avanceret…">
-<!ENTITY moreInformation.label "Mere information">
-
 <!ENTITY viewCertificate.label "Vis certifikat">
 
 <!-- Specific error messages -->
@@ -155,21 +147,13 @@
 </ul>
 ">
 
-<!ENTITY certerror.longpagetitle1 "Din forbindelse er ikke sikker">
 <!ENTITY certerror.longpagetitle2 "Advarsel: Mulig sikkerhedsrisiko">
 <!ENTITY certerror.sts.longpagetitle  "Oprettede ikke forbindelse: Muligt sikkerhedsproblem">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "Ejeren af <span class='hostname'/> har ikke konfigureret sit websted korrekt. For at undgå at dine informationer bliver stjålet, har &brandShortName; ikke oprettet forbindelse til webstedet.">
-
-<!ENTITY certerror.introPara1 "&brandShortName; har opdaget en mulig sikkerhedstrussel og fortsatte ikke til <span class='hostname'/>. Hvis du besøger webstedet, kan angribere forsøge at stjæle informationer, som fx dine adgangskoder, mails eller oplysninger om dine betalingskort.">
-
 <!ENTITY certerror.introPara2 "&brandShortName; har opdaget en mulig sikkerhedstrussel og fortsatte ikke til <span class='hostname'/>. Hvis du besøger webstedet, kan angribere forsøge at stjæle informationer, som fx dine adgangskoder, mails eller oplysninger om dine betalingskort.">
-
 <!ENTITY certerror.sts.introPara "&brandShortName; har opdaget en mulig sikkerhedstrussel og fortsatte ikke til <span class='hostname'/>, fordi webstedet kræver en sikker forbindelse.">
-
-<!ENTITY certerror.expiredCert.secondPara "Problemet skyldes sandsynligvis, at uret i din computer er forkert indstillet. Dette kan forhindre &brandShortName; i at oprette en sikker forbindelse.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; har opdaget et problem og fortsatte ikke til <span class='hostname'/>. Webstedet er enten opsat forkert, eller også er uret i din computer indstillet forkert.">
 <!ENTITY certerror.expiredCert.secondPara2 "Webstedets certifikat er sandsynligvis forældet, hvilket forhindrer &brandShortName; i at oprette en sikker forbindelse. Hvis du besøger webstedet, kan angribere forsøge at stjæle informationer, som fx dine adgangskoder, mails eller oplysninger om dine betalingskort.">
@@ -180,11 +164,6 @@ was trying to connect. -->
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
 <p>Problemet skyldes sandsynligvis en opsætning på webstedet, og du kan i så fald ikke selv gøre noget for at løse det.</p>
 <p>Hvis du befinder dig på et virksomhedsnetværk eller anvender antivirus, kan du kontakte supporten for at få hjælp. Du kan også prøve at give besked til webstedets ejer om problemet.</p>
-">
-
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "
-<p>Uret i din computer er indstillet til <span id='wrongSystemTime_systemDate'/>. Undersøg om din computer er indstillet til den rigtige dato, det rigtige klokkeslæt og den rette tidszone, og genindlæs så <span class='hostname'/>.</p>
-<p>Hvis din computer allerede er indstillet til det korrekte tidspunkt, er webstedet sandsynligvis opsat forkert, og det kan du ikke selv gøre noget ved. Du kan prøve at kontakte webstedets administrator for at gøre opmærksom på problemet.</p>
 ">
 
 <!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
@@ -213,8 +192,6 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "Fejlbehæftet indhold">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Siden, du forsøger at se, kan ikke vises, da der er fundet en fejl i overførslen af data.</p><ul><li>Kontakt ejerne af webstedet omkring dette problem.</li></ul>">
 
-<!ENTITY securityOverride.exceptionButtonLabel "Tilføj undtagelse…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Accepter risikoen og fortsæt">
 
 <!ENTITY errorReporting.automatic2 "Indberet automatisk fejl som denne for at hjælpe Mozilla med at identificere og blokere ondsindede websteder.">
@@ -228,19 +205,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Avanceret info: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; oprettede ikke forbindelse til <span id='wrongSystemTime_URL'/>, fordi din computers ur lader til at være forkert indstillet, hvilket forhindrer, at en sikker forbindelse kan oprettes.</p> <p>Din computer er indstillet til <span id='wrongSystemTime_systemDate'/>, men det burde være <span id='wrongSystemTime_actualDate'/>. Indstil dato og klokkeslæt korrekt for at løse dette problem.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; oprettede ikke forbindelse til <span id='wrongSystemTimeWithoutReference_URL'/> fordi din computers ur lader til at være forkert indstillet</p> <p>Din computer er indstillet til <span id='wrongSystemTimeWithoutReference_systemDate'/>. Indstil dato og klokkeslæt korrekt for at løse dette problem.</p>">
-
-<!ENTITY certerror.pagetitle1  "Usikker forbindelse">
 <!ENTITY certerror.pagetitle2  "Advarsel: Mulig sikkerhedsrisiko">
 <!ENTITY certerror.sts.pagetitle  "Oprettede ikke forbindelse: Muligt sikkerhedsproblem">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Webstedet bruger HTTP
-Strict Transport Security (HSTS) til at angive at &brandShortName; kun
-kan oprette en sikker forbindelse til det. Derfor er det ikke muligt at
-tilføje en undtagelse for dette certifikat.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> bruger en sikkerhedspolitik kaldet HTTP Strict Transport Security (HSTS), hvilket betyder at &brandShortName; kun kan oprette en sikker forbindelse til webstedet. Du kan ikke tilføje en undtagelse for at besøge webstedet.">
 <!ENTITY certerror.copyToClipboard.label "Kopiér tekst til udklipsholder">
 
