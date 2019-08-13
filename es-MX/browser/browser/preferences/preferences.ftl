@@ -588,6 +588,12 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = Excepciones…
     .accesskey = x
+forms-generate-passwords =
+    .label = Sugiere y genera contraseñas fuertes
+    .accesskey = u
+forms-fill-logins-and-passwords =
+    .label = Autollenar inicios de sesión y contraseñas
+    .accesskey = i
 forms-saved-logins =
     .label = Inicios de sesión guardados…
     .accesskey = I
@@ -698,6 +704,7 @@ addressbar-suggestions-settings = Cambiar las preferencias para las sugerencias 
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bloqueo de contenido
+content-blocking-section-description = Protege tu privacidad mientras navegas. Bloquea el contenido invisible que rastrea los sitios que visitas. Bloquear parte de este contenido puede hacer que las páginas se carguen más rápido.
 content-blocking-learn-more = Saber más
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -719,6 +726,8 @@ content-blocking-all-cookies = Todas las cookies
 content-blocking-unvisited-cookies = Cookies de sitios no visitados
 content-blocking-all-windows-trackers = Rastreadores conocidos en todas las ventanas
 content-blocking-all-third-party-cookies = Todas las cookies de terceros
+content-blocking-cryptominers = Criptomineros
+content-blocking-fingerprinters = Huellas dactilares
 content-blocking-warning-title = ¡Atención!
 content-blocking-warning-description = Bloquear el contenido puede hacer que algunos sitios dejen de funcionar. Es fácil desactivar el bloqueo para los sitios en los que confías.
 content-blocking-learn-how = Saber cómo

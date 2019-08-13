@@ -91,10 +91,13 @@ onboarding-data-sync-title = Lleva tu configuración contigo
 onboarding-data-sync-text2 = Sincroniza tus marcadores, contraseñas y más donde sea que uses { -brand-product-name }.
 onboarding-data-sync-button2 = Inicia sesión en { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Mantente alerta de filtraciones de datos
+onboarding-firefox-monitor-text = { -monitor-brand-name } monitorea si tu correo ha aparecido en una filtración de datos y te alerta si aparece en una nueva filtración.
 onboarding-firefox-monitor-button = Regístrate para alertas
 onboarding-browse-privately-title = Navega con privacidad
+onboarding-browse-privately-text = La navegación privada borra tu historial de búsqueda y navegación para mantenerlo en secreto de cualquier persona que use tu computadora.
 onboarding-browse-privately-button = Abrir una ventana privada
 onboarding-firefox-send-title = Mantén tus archivos compartidos en privado
+onboarding-firefox-send-text2 = Subir tus archivos a { -send-brand-name } para compartirlos con una encriptación de punto a punto y un enlace que expira automáticamente.
 onboarding-firefox-send-button = Probar { -send-brand-name }
 onboarding-mobile-phone-title = Obtener { -brand-product-name } en tu teléfono
 onboarding-mobile-phone-text = Descargar { -brand-product-name } para iOS o Android y sincroniza tus datos entre dispositivos.
@@ -102,6 +105,9 @@ onboarding-mobile-phone-text = Descargar { -brand-product-name } para iOS o Andr
 # browser.
 onboarding-mobile-phone-button = Descargar navegador para celulares
 onboarding-send-tabs-title = Envíate pestañas al instante
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Enviar pestañas comparte instantáneamente páginas entre tus dispositivos sin tener que copiar, pegar o abandonar el navegador.
 onboarding-send-tabs-button = Empieza a usar Send Tabs
 onboarding-pocket-anywhere-title = Lee y escucha en cualquier lugar
 onboarding-pocket-anywhere-button = Prueba { -pocket-brand-name }

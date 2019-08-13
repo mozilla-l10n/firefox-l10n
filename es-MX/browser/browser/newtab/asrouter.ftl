@@ -95,3 +95,6 @@ cfr-doorhanger-send-tab-ok-button = Probar Send Tab
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Compartir este PDF con seguridad
+cfr-doorhanger-firefox-send-body = Mantén tus documentos confidenciales a salvo de miradas indiscretas con cifrado de extremo a extremo y un enlace que desaparece cuando hayas terminado.
+cfr-doorhanger-firefox-send-ok-button = Probar { -send-brand-name }
+    .accesskey = T

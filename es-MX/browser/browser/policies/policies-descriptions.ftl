@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = Establece políticas a las que WebExtensions pueda acceder a través de chrome.storage.managed.
 policy-AppUpdateURL = Establecer la URL de actualización de la aplicación personalizada.
 policy-Authentication = Configurar la autenticación integrada para sitios web que lo admitan.
 policy-BlockAboutAddons = Bloquear el acceso al administrador de complementos (about:addons).
@@ -70,10 +71,13 @@ policy-OverridePostUpdatePage = Anular la página "Novedades" posterior a la act
 policy-Permissions = Configurar permisos para cámara, micrófono, ubicación y notificaciones.
 policy-PopupBlocking = Permitir que ciertos sitios web muestren ventanas emergentes de manera predeterminada.
 policy-Preferences = Establece y bloquea el valor para un subconjunto de preferencias.
+policy-PromptForDownloadLocation = Pregunte dónde guardar archivos al descargar.
 policy-Proxy = Configura los ajustes del proxy.
 policy-RequestedLocales = Establecer la lista de localizaciones solicitadas para la aplicación, ordenadas por preferencia.
+policy-SanitizeOnShutdown2 = Borrar datos de navegación al apagar.
 policy-SearchBar = Establecer la ubicación predeterminada de la barra de búsqueda. El usuario aún puede personalizarlo.
 policy-SearchEngines = Configurar los ajustes del motor de búsqueda. Esta política solo está disponible en la versión Extended Support Release (ESR).
+policy-SearchSuggestEnabled = Habilitar o deshabilitar sugerencias de búsqueda.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalar módulos PKCS #11.
 policy-SSLVersionMax = Establecer la versión máxima de SSL.
