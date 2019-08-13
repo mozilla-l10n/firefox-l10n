@@ -100,6 +100,11 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Cancelar
 confirmation-dialog-dismiss-button =
     .title = Cancelar
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] ¿Quieres ver tus inicios de sesión en todas partes donde uses { -brand-product-name }? Abre Opciones de { -sync-brand-short-name } y selecciona la casilla de verificación Inicios de sesión.
+       *[other] ¿Quieres ver tus inicios de sesión en todas partes donde uses { -brand-product-name }? Abre Preferencias de { -sync-brand-short-name } y selecciona la casilla de verificación Inicios de sesión.
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -116,4 +121,5 @@ confirm-discard-changes-dialog-confirm-button = Descartar
 
 ## Breach Alert notification
 
+breach-alert-text = Las contraseñas fueron filtradas o robadas de este sitio web desde la última vez que actualizaste tus datos de inicio de sesión. Cambia tu contraseña para proteger tu cuenta.
 breach-alert-link = Saber más acerca de esta filtración
