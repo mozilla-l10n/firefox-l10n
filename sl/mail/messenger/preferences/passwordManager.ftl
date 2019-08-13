@@ -4,6 +4,12 @@
 
 saved-logins =
     .title = Shranjene prijave
+window-close =
+    .key = w
+focus-search-shortcut =
+    .key = f
+focus-search-altshortcut =
+    .key = k
 copy-provider-url-cmd =
     .label = Kopiraj spletni naslov
     .accesskey = j
@@ -45,6 +51,13 @@ import =
 close-button =
     .label = Zapri
     .accesskey = Z
+show-passwords =
+    .label = Pokaži gesla
+    .accesskey = P
+hide-passwords =
+    .label = Skrij gesla
+    .accesskey = S
+logins-description-all = Prijave za naslednje ponudnike so shranjene na vašem računalniku
 logins-description-filtered = Prijave, ki ustrezajo vašemu iskanju:
 remove-all =
     .label = Odstrani vse
