@@ -857,6 +857,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Permissiones">
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "Configuration de permissiones">
 <!ENTITY identity.permissionsEmpty "Tu non ha concedite ulle permission special a iste sito.">
 <!ENTITY identity.permissionsReloadHint "Il es possibile que tu debe recargar le pagina pro que le cambios se applica.">
 <!ENTITY identity.permissionsPreferences.tooltip "Aperir le preferentias del permissos">
@@ -867,6 +868,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpOFF.header "Le Protection avantiate contra le traciamento es ora DISACTIVATE pro iste sito">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Saper plus re Protection de traciamento meliorate">
 <!ENTITY protections.settings.label "Parametros de protection">
 <!ENTITY protections.report.label "Monstrar le reporto complete">
 <!-- LOCALIZATION NOTE:
@@ -890,6 +892,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.notBlocking.label "Non blocante">
 <!ENTITY protections.notBlocking.why.label "Perque?">
 <!ENTITY protections.socialMediaTrackers.label "Traciatores de medios social">
+<!ENTITY protections.trackingContent.label "Contento traciante">
 <!ENTITY protections.fingerprinters.label "Dactylogrammatores">
 <!ENTITY protections.cryptominers.label "Crypto-minatores">
 
@@ -956,6 +959,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Reportar problemas">
 <!ENTITY contentBlocking.breakageReportView2.description "Le Blocada de contentos pote causar problemas con alcun sitos web. Quando tu reporta problemas, tu adjutara a render &brandShortName; melior pro totes. (Isto inviara a Mozilla un URL tam ben como informationes circa configurationes de tu navigator.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Saper plus">
+<!ENTITY contentBlocking.breakageReportView.title "Reportar sito rupte">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Saper plus">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Que problema ha tu? (Optional)">

@@ -263,6 +263,9 @@ about-debugging-extension-id =
 about-debugging-worker-action-push = Pulsar
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = Initiar
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start2 = Initiar
+    .disabledTitle = Le lanceamento de Service Worker es actualmente disactivate pro multi-processores { -brand-shorter-name }
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = De-registrar
 # Displayed for service workers in runtime pages that listen to Fetch events.
