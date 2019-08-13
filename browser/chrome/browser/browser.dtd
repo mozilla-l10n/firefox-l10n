@@ -885,7 +885,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
 <!ENTITY protections.siteNotWorkingView.header "请关闭保护，若您遇到以下问题：">
-<!ENTITY protections.siteNotWorkingView.issueList.logInFields "登录框">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "登录字段">
 <!ENTITY protections.siteNotWorkingView.issueList.forms "表单">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "支付">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "评论">
