@@ -278,6 +278,7 @@
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Povolit">
 <!ENTITY pref_cookies_not_accept_foreign "Povolit mimo 3. stran">
+<!ENTITY pref_cookies_not_accept_trackers "Povolit, kromě sledovacích cookies">
 <!ENTITY pref_cookies_disabled "Zakázat">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
