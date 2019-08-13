@@ -945,6 +945,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "Trackers">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Stel inhoudsblokkering in op ‘Streng’ om alle trackers te blokkeren.">
 
+<!ENTITY contentBlocking.socialblock.label "Sociale-mediatrackers">
+<!ENTITY contentBlocking.socialblockView.label "Sociale-mediatrackers geblokkeerd">
+<!ENTITY contentBlocking.socialblockView.description "Sociale netwerken plaatsen trackers op andere websites om te volgen wat u online doet, ziet en bekijkt. Hierdoor kunnen sociale-mediabedrijven meer over u leren dan wat u deelt op uw sociale-mediaprofielen.">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies en websitegegevens">
@@ -959,9 +962,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Problemen melden">
 <!ENTITY contentBlocking.breakageReportView2.description "Inhoudsblokkering kan problemen met bepaalde websites veroorzaken. Als u problemen meldt, helpt u &brandShortName; voor iedereen te verbeteren. (Hierdoor wordt zowel een URL als informatie over uw browserinstellingen naar Mozilla verzonden.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Meer info">
+<!ENTITY contentBlocking.breakageReportView.title "Niet-werkende website melden">
+<!ENTITY contentBlocking.breakageReportView3.description "Het blokkeren van bepaalde trackers kan problemen met bepaalde websites veroorzaken. Door deze problemen te melden, helpt u &brandShortName; voor iedereen te verbeteren. Als u dit rapport verzendt, wordt zowel een URL als informatie over uw browserinstellingen naar Mozilla verzonden.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Meer info">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Welke problemen ondervond u? (Optioneel)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Optioneel: beschrijf het probleem">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Rapport verzenden">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Annuleren">
 
