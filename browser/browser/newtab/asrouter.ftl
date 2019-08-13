@@ -6,6 +6,7 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = Tilrådde utvidingar
+cfr-doorhanger-feature-heading = Tilrådd funksjon
 cfr-doorhanger-pintab-heading = Prøv dette: fest fana
 
 
