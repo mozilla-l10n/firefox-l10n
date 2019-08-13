@@ -108,6 +108,7 @@ permissions-exceptions-autoplay-media-desc2 = Yatikïr naya' ketal ri ajk'amaya'
 permissions-site-autoplay-window =
     .title = Nuk'ulem - Ruyon Titzijtäj
     .style = { permissions-window.style }
+permissions-site-autoplay-desc = Wawe' yatikïr ye'anuk'samajij ri taq ruxaq man  kojqan ta ri runuk'ulem k'o wi richin ri ruyonil nitzij.
 
 ## Site Permissions - Notifications
 
