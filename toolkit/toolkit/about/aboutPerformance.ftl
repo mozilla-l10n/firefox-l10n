@@ -8,7 +8,7 @@ about-performance-title = Jobliste
 ## Column headers
 column-name = Navn
 column-type = Type
-column-energy-impact = Energi-påvirkning
+column-energy-impact = Energi-forbrug
 
 column-memory = Hukommelse
 
