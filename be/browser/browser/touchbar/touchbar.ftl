@@ -18,3 +18,4 @@ reader-view = Рэжым чытання
 open-location = Увядзіце запыт або адрас
 share = Падзяліцца
 close-window = Закрыць акно
+open-sidebar = Бакавыя панэлі

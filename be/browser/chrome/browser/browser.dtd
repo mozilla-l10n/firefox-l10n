@@ -149,6 +149,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Увайсці ў &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Уключыць &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "Уліковы запіс">
+<!ENTITY fxa.menu.firefoxServices.label "Сервісы &brandProductName;">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -803,6 +804,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Злучэнне">
 <!ENTITY identity.connectionSecure "Бяспечнае злучэнне">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Бяспека злучэння">
+
+<!ENTITY identity.connectionSecure2 "Бяспечнае злучэнне">
 <!ENTITY identity.connectionNotSecure "Небяспечнае злучэнне">
 <!ENTITY identity.connectionFile "Гэта старонка захоўваецца на вашым камп'ютары.">
 <!ENTITY identity.connectionVerified2 "Вы бяспечна злучаны з гэтым сайтам, якім валодае:">
@@ -810,6 +817,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Гэтая старонка загружана з пашырэння.">
 <!ENTITY identity.insecureLoginForms2 "Лагіны, уведзеныя на гэтай старонцы, могуць быць скампраметаваны.">
 <!ENTITY identity.customRoot "Падключэнне пацверджана сертыфікатам эмітэнта, які не прызнаны Mozilla.">
+
+<!ENTITY identity.evOwnerLabel "Сайт належыць:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; заблакаваў небяспечныя часткі старонкі.">
@@ -844,6 +853,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Выдаліць кукі і дадзеныя сайтаў…">
 
 <!ENTITY identity.permissions "Дазволы">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissionsEmpty "Вы не давалі гэтаму сайту ніякіх адмысловых дазволаў.">
 <!ENTITY identity.permissionsReloadHint "Магчыма, вам спатрэбіцца перазагрузіць старонку, каб змены пачалі дзейнічаць.">
 <!ENTITY identity.permissionsPreferences.tooltip "Адкрыць налады дазволаў">
@@ -851,14 +862,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "Сайт не працуе?">
+<!ENTITY protections.siteNotWorkingView.title "Сайт не працуе?">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Адключыце ахову, калі ўзніклі праблемы з:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Палямі для ўваходу">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Формамі">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Плацяжамі">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Каментарыі">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Відэа">
 
 <!ENTITY protections.fingerprinters.label "Збіральнікі адбіткаў пальцаў">
 <!ENTITY protections.cryptominers.label "Майнеры крыптавалют">
@@ -900,6 +920,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.notDetected "На гэтай старонцы не выяўлена змесціва для блакавання.">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Трэкеры">
+
 
 <!ENTITY contentBlocking.manageSettings.label "Наладзіць блакаванне змесціва">
 <!ENTITY contentBlocking.manageSettings.accesskey "ь">
