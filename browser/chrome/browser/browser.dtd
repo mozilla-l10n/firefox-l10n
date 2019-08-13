@@ -149,6 +149,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Đăng nhập vào &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Bật &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "Tài khoản">
+<!ENTITY fxa.menu.firefoxServices.label "Dịch vụ &brandProductName;">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -156,6 +157,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.service.send.launch "Khởi chạy &sendShortName;">
 <!ENTITY fxa.service.monitor.description "Kiểm tra xem email của bạn có xuất hiện rò rỉ dữ liệu hay không và được cảnh báo nếu nó xuất hiện trong một rò rỉ mới.">
 <!ENTITY fxa.service.monitor.launch "Khởi chạy &monitorShortName;">
+<!ENTITY fxa.service.sendTab.description "Gửi một thẻ ngay lập tức đến bất kỳ thiết bị nào mà bạn đã đăng nhập.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -808,15 +810,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label2)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Bảo mật kết nối">
 
+<!ENTITY identity.connectionSecure2 "Kết nối an toàn">
 <!ENTITY identity.connectionNotSecure "Kết nối này không an toàn">
+<!ENTITY identity.connectionNotSecureSecurityView "Bạn không được kết nối an toàn với trang web này.">
 <!ENTITY identity.connectionFile "Trang này đã được lưu ở máy tính của bạn.">
 <!ENTITY identity.connectionVerified2 "Bạn đang kết nối an toàn tới trang này, được sở hữu bởi:">
+<!ENTITY identity.connectionVerified3 "Bạn đang kết nối an toàn tới trang này.">
 <!ENTITY identity.connectionInternal "Đây là một trang an toàn của &brandShortName;">
 <!ENTITY identity.extensionPage "Trang này được tải từ một tiện ích mở rộng.">
 <!ENTITY identity.insecureLoginForms2 "Đăng nhập vào trang này bạn có thể bị xâm nhập.">
 <!ENTITY identity.customRoot "Kết nối được xác minh bởi nhà phát hành chứng chỉ không được Mozilla công nhận.">
 
+<!ENTITY identity.evOwnerLabel "Trang web thuộc sở hữu của:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; đã chặn những phần không an toàn của trang này.">
@@ -853,6 +860,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Quyền hạn">
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "Cài đặt quyền hạn">
 <!ENTITY identity.permissionsEmpty "Bạn chưa cấp cho trang này bất kỳ một quyền đặc biệt nào.">
 <!ENTITY identity.permissionsReloadHint "Bạn có thể cần phải tải lại trang để các thay đổi được áp dụng.">
 <!ENTITY identity.permissionsPreferences.tooltip "Mở tùy chọn các quyền">
@@ -863,6 +871,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpOFF.header "Trình chống theo dõi nâng cao đã bị TẮT cho trang này">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Thông tin thêm về trình chống theo dõi nâng cao">
 <!ENTITY protections.settings.label "Cài đặt bảo vệ">
 <!ENTITY protections.report.label "Hiển thị báo cáo đầy đủ">
 <!-- LOCALIZATION NOTE:
