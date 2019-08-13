@@ -6,6 +6,7 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = Rekommenderade tillägg
+cfr-doorhanger-feature-heading = cfr-doorhanger-feature-heading = Rekommenderad funktion
 cfr-doorhanger-pintab-heading = Prova detta: Fäst flik
 
 
@@ -78,6 +79,8 @@ cfr-whatsnew-panel-header = Vad är nytt
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-ok-button = Slå på { -sync-brand-short-name }
+    .accesskey = T
 
 ## Send Tab
 
@@ -85,3 +88,5 @@ cfr-whatsnew-panel-header = Vad är nytt
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Dela denna PDF säkert
+cfr-doorhanger-firefox-send-ok-button = Prova{ -send-brand-name }
+    .accesskey = T
