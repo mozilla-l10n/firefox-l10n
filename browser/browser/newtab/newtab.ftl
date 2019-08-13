@@ -116,6 +116,7 @@ newtab-menu-open-file = Abrir archivo
 
 newtab-label-visited = Visitados
 newtab-label-bookmarked = En marcadores
+newtab-label-removed-bookmark = Marcador eliminado
 newtab-label-recommended = Tendencias
 newtab-label-saved = Guardado en { -pocket-brand-name }
 newtab-label-download = Descargado
@@ -140,6 +141,10 @@ newtab-section-menu-privacy-notice = Política de privacidad
 
 ## Section aria-labels
 
+newtab-section-collapse-section-label =
+    .aria-label = Contraer sección
+newtab-section-expand-section-label =
+    .aria-label = Expandir sección
 
 ## Section Headers.
 
