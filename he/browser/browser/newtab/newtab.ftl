@@ -116,6 +116,7 @@ newtab-menu-open-file = פתיחת הקובץ
 
 newtab-label-visited = ביקורים קודמים
 newtab-label-bookmarked = שמור כסימנייה
+newtab-label-removed-bookmark = הסימנייה הוסרה
 newtab-label-recommended = פופולרי
 newtab-label-saved = נשמר ל־{ -pocket-brand-name }
 newtab-label-download = התקבל
@@ -140,6 +141,10 @@ newtab-section-menu-privacy-notice = הצהרת פרטיות
 
 ## Section aria-labels
 
+newtab-section-collapse-section-label =
+    .aria-label = צמצום מדור
+newtab-section-expand-section-label =
+    .aria-label = הרחבת מדור
 
 ## Section Headers.
 
@@ -159,6 +164,7 @@ newtab-empty-section-topstories = התעדכנת בכל הסיפורים. כדא
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-try-again-button = ניסיון חוזר
 newtab-discovery-empty-section-topstories-loading = בטעינה…
 
 ## Pocket Content Section.

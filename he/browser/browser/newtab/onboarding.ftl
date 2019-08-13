@@ -83,6 +83,9 @@ onboarding-mobile-phone-title = קבלת { -brand-product-name } לטלפון ש
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = הורדת דפדפן לנייד
+onboarding-lockwise-passwords-title = לקחת את הססמאות שלך לכל מקום
+onboarding-lockwise-passwords-button2 = הורדת היישומון
+onboarding-facebook-container-title = הגדרת גבולות מול Facebook
 onboarding-facebook-container-button = הוספת ההרחבה
 
 ## Message strings belonging to the Return to AMO flow
