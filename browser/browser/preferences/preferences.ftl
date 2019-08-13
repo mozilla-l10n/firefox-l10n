@@ -406,7 +406,7 @@ home-prefs-topsites-description = האתרים בהם ביקרת הכי הרבה
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
-    .label = מומלץ על ידי { $provider }
+    .label = מומלץ על־ידי { $provider }
 home-prefs-recommended-by-description = תוכן נהדר מכל רחבי הרשת, בהתאמה אישית להעדפותיך
 home-prefs-recommended-by-learn-more = איך זה עובד
 home-prefs-recommended-by-option-sponsored-stories =
@@ -478,7 +478,7 @@ search-keyword-warning-title = מילת מפתח כפולה
 # Variables:
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = בחרת להשתמש במילת מפתח שנמצאת כרגע בשימוש עבור "{ $name }". אנא בחר במילה אחרת.
-search-keyword-warning-bookmark = בחרת להשתמש במילת מפתח שנמצאת כרגע בשימוש על ידי סימנייה. נא לבחור במילה אחרת.
+search-keyword-warning-bookmark = בחרת להשתמש במילת מפתח שנמצאת כרגע בשימוש על־ידי סימנייה. נא לבחור במילה אחרת.
 
 ## Containers Section
 

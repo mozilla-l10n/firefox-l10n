@@ -152,7 +152,7 @@ newtab-section-header-topsites = אתרים מובילים
 newtab-section-header-highlights = מומלצים
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
-newtab-section-header-pocket = מומלץ על ידי { $provider }
+newtab-section-header-pocket = מומלץ על־ידי { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 

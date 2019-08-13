@@ -815,7 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "דף זה הנו דף מאובטח של &brandShortName;.">
 <!ENTITY identity.extensionPage "עמוד זה נטען מתוך הרחבה.">
 <!ENTITY identity.insecureLoginForms2 "פרטי ההתחברות המוזנים בעמוד זה עשויים להיות חשופים בפני גורמי צד שלישי.">
-<!ENTITY identity.customRoot "חיבור מאומת על ידי מנפיק אישורים שאינו מזוהה על־ידי Mozilla.">
+<!ENTITY identity.customRoot "חיבור מאומת על־ידי מנפיק אישורים שאינו מזוהה על־ידי Mozilla.">
 
 <!ENTITY identity.evOwnerLabel "האתר בבעלות:">
 

@@ -120,5 +120,5 @@
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Indicates how to stop the recording, wrapping the command, like
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
-<!ENTITY performanceUI.console.stopCommandStart "הפסקת ההקלטה ע״י הזנת">
+<!ENTITY performanceUI.console.stopCommandStart "הפסקת ההקלטה על־ידי הזנת">
 <!ENTITY performanceUI.console.stopCommandEnd   "לתוך המסוף.">
