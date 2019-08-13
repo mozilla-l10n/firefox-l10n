@@ -157,9 +157,6 @@ private-browsing-description2 =
     { -brand-short-name } está cambiando la forma en la que funcionan los complementos en la navegación privada. Cualquier nuevo complemento que agregue a
     { -brand-short-name } no se ejecutará de forma predeterminada en las ventanas privadas. A menos que lo permita en la configuración, el complemento no funcionará en la navegación privada, y no tendrá acceso a sus actividades en línea. Hicimos este cambio para mantener privada su navegación privada.
     <label data-l10n-name = "private-browsing-learn-more"> Aprenda cómo administrar la configuración del complemento. </label>
-extensions-view-discover =
-    .name = Obtener complementos
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Recomendaciones
     .tooltiptext = { extensions-view-discopane.name }
@@ -314,6 +311,16 @@ release-notes-addon-button = Notas de la versión
 permissions-addon-button = Permisos
 addons-enabled-heading = Habilitado
 addons-disabled-heading = Deshabilitado
+extension-enabled-heading = Habilitado
+extension-disabled-heading = Deshabilitado
+theme-enabled-heading = Habilitado
+theme-disabled-heading = Deshabilitado
+plugin-enabled-heading = Habilitado
+plugin-disabled-heading = Deshabilitado
+dictionary-enabled-heading = Habilitado
+dictionary-disabled-heading = Deshabilitado
+locale-enabled-heading = Habilitado
+locale-disabled-heading = Deshabilitado
 ask-to-activate-button = Preguntar para activar
 always-activate-button = Activar siempre
 never-activate-button = No activar nunca
