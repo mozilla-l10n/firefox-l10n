@@ -64,7 +64,7 @@ login-item-delete-button = Сцерці
 login-item-origin-label = Адрас сайта
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Запусціць
+login-item-open-site-button = Адкрыць
 login-item-username-label = Імя карыстальніка
 login-item-username =
     .placeholder = name@example.com
@@ -96,6 +96,13 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Скасаваць
 confirmation-dialog-dismiss-button =
     .title = Скасаваць
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Адкрыць налады { -sync-brand-short-name }
+           *[other] Адкрыць налады { -sync-brand-short-name }
+        }
+    .accesskey = А
 confirm-delete-dialog-title = Выдаліць гэты лагін?
 confirm-delete-dialog-message = Гэтае дзеянне незваротнае.
 confirm-delete-dialog-confirm-button = Выдаліць
