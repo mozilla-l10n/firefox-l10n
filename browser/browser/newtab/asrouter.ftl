@@ -95,5 +95,6 @@ cfr-doorhanger-send-tab-ok-button = Sekme göndermeyi dene
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Bu PDF’i güvenle paylaşın
+cfr-doorhanger-firefox-send-body = Uçtan uca şifreleme ve işiniz bittiğinde kaybolan bir bağlantıyla hassas belgelerinizi meraklı gözlerden koruyun.
 cfr-doorhanger-firefox-send-ok-button = { -send-brand-name }’i deneyin
     .accesskey = d
