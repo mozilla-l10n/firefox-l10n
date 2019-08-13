@@ -55,6 +55,10 @@ login-list-item-subtitle-missing-username = (geen gebruikersnaam)
 ## Introduction screen
 
 login-intro-heading = Op zoek naar uw opgeslagen aanmeldingen? Stel { -sync-brand-short-name } in.
+login-intro-description = Als u uw aanmeldgegevens bij { -brand-product-name } op een ander apparaat hebt opgeslagen, kunt u ze zo ophalen:
+login-intro-instruction-fxa = Maak op het apparaat waarop uw aanmeldgegevens staan een { -fxaccount-brand-name } of meld u aan
+login-intro-instruction-fxa-settings = Zorg ervoor dat u het veld Aanmeldingen in de instellingen van { -sync-brand-short-name } hebt aangevinkt
+login-intro-instruction-faq = Bezoek voor meer hulp de <a data-l10n-name="faq">veelgestelde vragen</a> voor { -lockwise-brand-short-name }
 
 ## Login
 
@@ -96,6 +100,11 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Annuleren
 confirmation-dialog-dismiss-button =
     .title = Annuleren
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Wilt u uw aanmeldingen overal waar u { -brand-product-name } gebruikt? Ga naar de opties van { -sync-brand-short-name } en vink het veld Aanmeldingen aan.
+       *[other] Wilt u uw aanmeldingen overal waar u { -brand-product-name } gebruikt? Ga naar de voorkeuren van { -sync-brand-short-name } en vink het veld Aanmeldingen aan.
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
