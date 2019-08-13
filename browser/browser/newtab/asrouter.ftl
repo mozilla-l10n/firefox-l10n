@@ -82,6 +82,7 @@ cfr-whatsnew-panel-header = Што новага
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Атрымаць гэтую закладку на свой тэлефон
+cfr-doorhanger-sync-bookmarks-body = Вазьміце свае закладкі, паролі, гісторыю і іншае ўсюды, дзе вы карыстаецеся { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = Уключыць { -sync-brand-short-name }
     .accesskey = У
 

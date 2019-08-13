@@ -28,9 +28,6 @@
 <!ENTITY helpSafeMode.stop.label       "Перазапусціць з дадаткамі">
 <!ENTITY helpSafeMode.stop.accesskey   "П">
 
-<!ENTITY healthReport2.label      "Справаздача пра стан &brandShorterName;">
-<!ENTITY healthReport2.accesskey  "т">
-
 <!ENTITY helpTroubleshootingInfo.label      "Звесткі для вырашэння праблемаў">
 <!ENTITY helpTroubleshootingInfo.accesskey  "З">
 
@@ -52,3 +49,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Паказаць усе">
+
+<!ENTITY touchBarCmdMac.label           "Уладкаваць сенсарную панэль…">
