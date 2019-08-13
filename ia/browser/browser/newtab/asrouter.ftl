@@ -80,6 +80,7 @@ cfr-whatsnew-panel-header = Novas
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Recipe iste marcapaginas sur tu smartphono
+cfr-doorhanger-sync-bookmarks-body = Retene tu marcapaginas, contrasignos, chronologia e altero ancora ubique tu ha accedite in { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = Activar { -sync-brand-short-name }
     .accesskey = A
 
