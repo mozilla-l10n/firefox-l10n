@@ -614,7 +614,6 @@
 <!ENTITY protections.fingerprinters.description "I fingerprinter raccolgono informazioni sulle impostazioni del browser e del computer al fine di creare un tuo profilo. Utilizzando questa “impronta digitale” sono in grado di seguirti attraverso siti diversi.">
 <!ENTITY protections.trackingContent.description "I siti web possono caricare pubblicità, video e altri contenuti da fonti esterne che includono elementi traccianti. Il blocco degli elementi traccianti può velocizzare il caricamento dei siti, ma può causare il malfunzionamento di pulsanti, moduli e campi di accesso.">
 <!ENTITY protections.socialMediaTrackers.description "I social network impostano elementi traccianti in altri siti per scoprire cosa fai, leggi e guardi quando sei online. In questo modo sono in grado di raccogliere molte più informazioni rispetto a quello che condividi nei tuoi profili online.">
-<!ENTITY protections.manageProtectionSettings.label "Gestisci le impostazioni di protezione">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Apri preferenze per il blocco contenuti">
 <!ENTITY tabsToolbar.label "Schede del browser">
 <!ENTITY syncTabsMenu3.label "Schede sincronizzate">
@@ -641,14 +640,14 @@
 <!ENTITY contentBlocking.trackingProtection3.label "Elementi traccianti">
 <!ENTITY contentBlocking.trackingProtection4.label "Contenuti traccianti">
 <!ENTITY contentBlocking.manageSettings.label "Gestisci blocco contenuti">
+<!ENTITY contentBlocking.manageSettings2.label "Gestisci impostazioni protezione">
 <!ENTITY contentBlocking.manageSettings.accesskey "G">
 <!ENTITY contentBlocking.trackersView.label "Elementi traccianti">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Per bloccare tutti gli elementi traccianti, impostare il blocco contenuti su “Restrittivo”.">
 <!ENTITY contentBlocking.socialblock.label "Traccianti dei social media">
-<!ENTITY contentBlocking.socialblockView.label "Bloccati traccianti dei social media">
-<!ENTITY contentBlocking.socialblockView.description "I social network impostano elementi traccianti in altri siti per scoprire cosa fai, leggi e guardi quando sei online. In questo modo sono in grado di raccogliere molte più informazioni rispetto a quello che condividi nei tuoi profili online.">
 <!ENTITY contentBlocking.cookies.label "Cookie">
 <!ENTITY contentBlocking.cookiesView.label "Cookie e dati dei siti web">
+<!ENTITY contentBlocking.cookies2.label "Cookie traccianti intersito">
 <!ENTITY contentBlocking.cryptominers.label "Cryptominer">
 <!ENTITY contentBlocking.cryptominersView.label "Cryptominer">
 <!ENTITY contentBlocking.fingerprinters.label "Fingerprinter">
