@@ -6,6 +6,7 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = Jepysokue jeroviaháva
+cfr-doorhanger-feature-heading = Tembiapoite ñe’ẽporãpyre
 cfr-doorhanger-pintab-heading = Eipuru kóva: Emboja tendayke
 
 
