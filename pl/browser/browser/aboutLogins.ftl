@@ -4,7 +4,7 @@
 
 about-logins-page-title = Dane logowania i hasła
 login-filter =
-    .placeholder = Szukaj dane logowania
+    .placeholder = Szukaj danych logowania
 create-login-button = Utwórz nowe dane logowania
 # This string is used as alternative text for favicon images.
 # Variables:

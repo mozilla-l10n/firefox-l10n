@@ -907,7 +907,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Te ciasteczka śledzą Cię od strony do strony w celu zbierania danych o tym, co robisz w Internecie. Są umieszczane przez zewnętrzne firmy, takie jak agencje reklamowe i firmy analityczne.">
 <!ENTITY protections.cryptominers.description "Te elementy wykorzystują moc obliczeniową Twojego komputera do generowania cyfrowych walut. Skrypty generujące kryptowaluty rozładowują baterię, spowalniają komputer i mogą zwiększyć rachunek za prąd.">
+<!ENTITY protections.fingerprinters.description "Te elementy zbierają ustawienia przeglądarki i komputera, aby utworzyć profil użytkownika. Za pomocą tego cyfrowego odcisku palca mogą śledzić Cię między różnymi witrynami.">
+<!ENTITY protections.trackingContent.description "Witryny mogą wczytywać zewnętrzne reklamy, filmy i inne treści zawierające elementy śledzące. Blokowanie ich może przyspieszyć wczytywanie stron, ale niektóre przyciski, formularze i pola logowania mogą działać niepoprawnie.">
+<!ENTITY protections.socialMediaTrackers.description "Serwisy społecznościowe umieszczają elementy śledzące na innych witrynach, aby śledzić co robisz, widzisz i oglądasz w Internecie. Dzięki temu ich właściciele wiedzą o Tobie więcej, niż udostępniasz w ich serwisach.">
 
+<!ENTITY protections.manageProtectionSettings.label "Zarządzaj ustawieniami ochrony">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -945,13 +949,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Elementy śledzące">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Treści z elementami śledzącymi">
 
-<!ENTITY contentBlocking.manageSettings.label "Ustawienia blokowania treści">
-<!ENTITY contentBlocking.manageSettings.accesskey "U">
+<!ENTITY contentBlocking.manageSettings.label "Zarządzaj blokowaniem treści">
+<!ENTITY contentBlocking.manageSettings.accesskey "Z">
 
 <!ENTITY contentBlocking.trackersView.label "Elementy śledzące">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Ustaw blokowanie na „ścisłe”, aby blokować wszystkie elementy śledzące.">
 
+<!ENTITY contentBlocking.socialblock.label "Elementy śledzące serwisów społecznościowych">
+<!ENTITY contentBlocking.socialblockView.label "Zablokowane elementy śledzące serwisów społecznościowych">
+<!ENTITY contentBlocking.socialblockView.description "Serwisy społecznościowe umieszczają elementy śledzące na innych witrynach, aby śledzić co robisz, widzisz i oglądasz w Internecie. Dzięki temu ich właściciele wiedzą o Tobie więcej, niż udostępniasz w ich serwisach.">
 
 <!ENTITY contentBlocking.cookies.label "Ciasteczka">
 <!ENTITY contentBlocking.cookiesView.label "Ciasteczka i dane stron">
@@ -966,8 +974,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Zgłaszanie problemu">
 <!ENTITY contentBlocking.breakageReportView2.description "Blokowanie treści może powodować problemy z niektórymi stronami. Zgłaszając problemy, pomagasz ulepszać program &brandShortName; (adres odwiedzanej strony oraz informacje o ustawieniach przeglądarki zostaną przesłane do Mozilli).">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Więcej informacji">
+<!ENTITY contentBlocking.breakageReportView.title "Zgłoś niepoprawnie działającą stronę">
+<!ENTITY contentBlocking.breakageReportView3.description "Blokowanie pewnych elementów śledzących może powodować problemy z niektórymi stronami. Zgłaszając problemy, pomagasz ulepszać program &brandShortName; (adres odwiedzanej strony oraz informacje o ustawieniach przeglądarki zostaną przesłane do Mozilli).">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Więcej informacji">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Adres URL problematycznej strony">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Jakie problemy wystąpiły? (opcjonalnie)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Opcjonalnie: opisz problem">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Wyślij zgłoszenie">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Anuluj">
 
