@@ -53,7 +53,9 @@ login-list-item-subtitle-missing-username = (ni uporabniškega imena)
 
 login-intro-heading = Iščete shranjene prijave? Nastavite { -sync-brand-short-name }.
 login-intro-description = Če ste svoje prijave shranili v { -brand-product-name } v drugi napravi, jih lahko prenesete sem, tako da:
+login-intro-instruction-fxa = Ustvarite { -fxaccount-brand-name } ali se prijavite na napravi, kjer so shranjene vaše prijave
 login-intro-instruction-fxa-settings = Prepričajte se, da ste v Nastavitvah { -sync-brand-short-name }a označili polje Prijave
+login-intro-instruction-faq = Za dodatno pomoč obiščite <a data-l10n-name="faq">pogosto zastavljena vprašanja</a> za { -lockwise-brand-short-name }
 
 ## Login
 
@@ -95,9 +97,17 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Prekliči
 confirmation-dialog-dismiss-button =
     .title = Prekliči
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Obišči možnosti { -sync-brand-short-name }a
+           *[other] Obišči nastavitve { -sync-brand-short-name }a
+        }
+    .accesskey = š
 confirm-delete-dialog-title = Izbrišem to prijavo?
 confirm-delete-dialog-message = Tega dejanja ni mogoče razveljaviti.
 confirm-delete-dialog-confirm-button = Izbriši
+confirm-discard-changes-dialog-title = Zavržem neshranjene spremembe?
 confirm-discard-changes-dialog-message = Vse neshranjene spremembe bodo izgubljene.
 confirm-discard-changes-dialog-confirm-button = Prezri
 

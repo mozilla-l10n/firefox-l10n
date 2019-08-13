@@ -49,3 +49,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Prikaži vse">
+
+<!ENTITY touchBarCmdMac.label           "Prilagodi vrstico na dotik …">

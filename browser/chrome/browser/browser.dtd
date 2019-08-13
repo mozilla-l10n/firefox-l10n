@@ -812,6 +812,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure2 "Povezava varna">
 <!ENTITY identity.connectionNotSecure "Povezava ni varna">
+<!ENTITY identity.connectionNotSecureSecurityView "Niste varno povezani na to stran.">
 <!ENTITY identity.connectionFile "Ta stran je shranjena na vašem računalniku.">
 <!ENTITY identity.connectionVerified2 "Varno ste povezani na to stran, ki jo upravlja:">
 <!ENTITY identity.connectionVerified3 "Varno ste povezani na to stran.">
@@ -867,6 +868,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpOFF.header "Izboljšana zaščita pred sledenjem je IZKLJUČENA za to stran">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Več o izboljšani zaščiti pred sledenjem">
 <!ENTITY protections.settings.label "Nastavitve zaščite">
 <!ENTITY protections.report.label "Prikaži celotno poročilo">
 <!-- LOCALIZATION NOTE:
@@ -889,8 +891,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Pošlji poročilo">
 
 <!ENTITY protections.notBlocking.why.label "Zakaj?">
+<!ENTITY protections.socialMediaTrackers.label "Sledilci družbenih omrežij">
 <!ENTITY protections.fingerprinters.label "Sledilci prstnih odtisov">
 <!ENTITY protections.cryptominers.label "Kriptorudarji">
+<!ENTITY protections.noTrackersFound.description "&brandShortName; na strani ni zaznal znanih sledilcev.">
 
 <!ENTITY protections.cryptominers.description "Kriptorudarji izrabljajo zmogljivost vašega računalnika za rudarjenje digitalnega denarja. Rudarski skripti vam praznijo baterijo, upočasnjujejo računalnik in zasolijo račun za elektriko.">
 
@@ -955,6 +959,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Prijavite težave">
 <!ENTITY contentBlocking.breakageReportView2.description "Zavračanje vsebine lahko povzroči težave z nekaterimi spletnimi stranmi. S prijavo težav pomagate izboljšati &brandShortName; za vse uporabnike. (Mozilli bo poslan naslov spletne strani, kot tudi informacije o nastavitvah vašega brskalnika.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Več o tem">
+<!ENTITY contentBlocking.breakageReportView.title "Prijavi nedelujočo stran">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Več o tem">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Kakšne težave ste imeli? (neobvezno)">
