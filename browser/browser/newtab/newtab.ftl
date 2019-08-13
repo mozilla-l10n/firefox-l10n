@@ -47,6 +47,9 @@ newtab-topsites-add-button = Lisää
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Haluatko varmasti poistaa tämän sivun kaikkialta historiastasi?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Tämä toiminto on peruuttamaton.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Lisää kirjanmerkki
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Kopioi latauslinkki
 newtab-menu-go-to-download-page = Siirry lataussivulle
 newtab-menu-remove-download = Poista historiasta
@@ -109,11 +116,16 @@ newtab-menu-open-file = Avaa tiedosto
 
 newtab-label-visited = Vierailtu
 newtab-label-bookmarked = Kirjanmerkki
+newtab-label-removed-bookmark = Kirjanmerkki poistettu
 newtab-label-recommended = Pinnalla
 newtab-label-saved = Tallennettu { -pocket-brand-name }-palveluun
 newtab-label-download = Ladatut
 
 ## Section Menu: These strings are displayed in the section context menu and are 
+## meant as a call to action for the given section.
+
+
+## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = Poista osio
@@ -126,6 +138,9 @@ newtab-section-menu-add-search-engine = Lisää hakukone
 newtab-section-menu-move-up = Siirrä ylös
 newtab-section-menu-move-down = Siirrä alas
 newtab-section-menu-privacy-notice = Tietosuojakäytäntö
+
+## Section aria-labels
+
 
 ## Section Headers.
 

@@ -6,6 +6,10 @@ about-logins-page-title = Käyttäjätunnukset ja salasanat
 login-filter =
     .placeholder = Etsi kirjautumistietoja
 create-login-button = Luo uusi kirjautumistieto
+fxaccounts-sign-in-text = Käytä salasanojasi kaikilla laitteillasi
+fxaccounts-sign-in-button = Kirjaudu { -sync-brand-short-name }-palveluun
+fxaccounts-avatar-button =
+    .title = Hallitse tiliä
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -16,6 +20,8 @@ menu-menuitem-import = Tuo salasanoja…
 menu-menuitem-preferences = Asetukset
 menu-menuitem-feedback = Lähetä palautetta
 menu-menuitem-faq = Usein kysytyt kysymykset
+menu-menuitem-android-app = { -lockwise-brand-short-name } Androidille
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } iPhonelle ja iPadille
 
 ## Login List
 
@@ -30,9 +36,17 @@ login-list-sort-label-text = Järjestys:
 login-list-name-option = Nimi (A–Ö)
 login-list-last-changed-option = Viimeksi muokattu
 login-list-last-used-option = Viimeksi käytetty
+login-list-intro-title = Kirjautumistietoja ei löytynyt
+login-list-item-title-new-login = Uusi kirjautumistieto
+login-list-item-subtitle-new-login = Anna kirjautumistietosi
+login-list-item-subtitle-missing-username = (ei käyttäjätunnusta)
+
+## Introduction screen
+
 
 ## Login
 
+login-item-new-login-title = Luo uusi kirjautumistieto
 login-item-edit-button = Muokkaa
 login-item-delete-button = Poista
 login-item-origin-label = Verkkosivuston osoite
@@ -66,9 +80,15 @@ master-password-reload-button =
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Peruuta
+confirmation-dialog-dismiss-button =
+    .title = Peruuta
 confirm-delete-dialog-title = Poistetaanko tämä kirjautumistieto?
 confirm-delete-dialog-message = Tätä toimintoa ei voi perua.
 confirm-delete-dialog-confirm-button = Poista
+confirm-discard-changes-dialog-title = Hylätäänkö tallentamattomat muutokset?
+confirm-discard-changes-dialog-message = Kaikki tallentamattomat muutokset menetetään.
+confirm-discard-changes-dialog-confirm-button = Hylkää
 
 ## Breach Alert notification
 
