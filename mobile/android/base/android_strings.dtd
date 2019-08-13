@@ -75,7 +75,7 @@
 <!ENTITY  crash_notification_message "Klepnutím pád nahlásíte společnosti &vendorShortName;">
 <!ENTITY  crash_notification_negative_button_text "Ignorovat">
 
-<!ENTITY url_bar_default_text2 "Zadejte adresu nebo dotaz pro vyhledávač">
+<!ENTITY url_bar_default_text2 "Zadejte hledání nebo adresu">
 
 <!-- Localization note: this text will be displayed in the Search Widget -->
 <!ENTITY search_widget_default_text "Vyhledat na webu">
@@ -263,7 +263,7 @@
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
-<!ENTITY home_homepage_hint_user_address "Zadejte adresu nebo dotaz pro vyhledávač">
+<!ENTITY home_homepage_hint_user_address "Zadejte hledání nebo adresu">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "Obecné">
@@ -499,7 +499,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY print "Tisk">
 <!ENTITY view_page_source "Zobrazit zdrojový kód stránky">
 <!ENTITY find_in_page "Najít na stránce">
-<!ENTITY desktop_mode "Verze stránky pro počítač">
+<!ENTITY desktop_mode "Verze pro počítač">
 <!ENTITY page "Stránka">
 <!ENTITY tools "Nástroje">
 <!ENTITY new_tab "Nový panel">
