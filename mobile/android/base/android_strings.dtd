@@ -6,9 +6,11 @@
 <!ENTITY firstrun_urlbar_message2 "Gracias por elegir &brandShortName;">
 <!ENTITY newfirstrun_urlbar_message "Bienvenido a &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Un moderno navegador de Mozilla, la organización sin fines de lucro comprometida con una web abierta y libre.">
+<!ENTITY newfirstrun_urlbar_subtext "Rápido, privado y de tu lado.">
 <!ENTITY firstrun_panel_title_privacy "Privacidad">
 <!ENTITY firstrun_privacy_message "Navega como si nadie te estuviera viendo">
 <!ENTITY firstrun_privacy_subtext "La navegación privada con protección de rastreo bloquea a posibles rastreadores mientras navegas y no guardará tu historial cuando termines.">
+<!ENTITY newfirstrun_privacy_subtext "La navegación privada bloquea rastreadores de publicidad que te siguen en línea.">
 <!ENTITY firstrun_panel_title_customize "Personalizar">
 <!ENTITY firstrun_customize_message "Haz &brandShortName; tuyo.">
 <!ENTITY firstrun_customize_subtext "Personaliza &brandShortName; con complementos. Bloqueo de publicidad, agrega funcionalidades o elige un nuevo tema que refleje tu personalidad.">
@@ -19,10 +21,15 @@
 <!ENTITY firstrun_data_message "Menos datos, más resguardos">
 <!ENTITY firstrun_data_subtext2 "Apagar imágenes para gastar menos datos cada vez que estés en algún sitio web.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY updatednewfirstrun_sync_title "Cuenta">
 <!ENTITY firstrun_sync_message2 "Continúa donde lo dejaste.">
 <!ENTITY firstrun_sync_subtext2 "Usa Sync para encontrar marcadores, contraseñas y todo lo que hayas guardado en &brandShortName; en todos tus dispositivos.">
+<!ENTITY newfirstrun_sync_subtext "Sincroniza las cosas que guardes en tu celular a Firefox para escritorio, con privacidad y seguridad.">
+<!ENTITY updatednewfirstrun_sync_subtext "Inicia sesión a tu cuenta para obtener lo mejor de &brandShortName;">
 <!ENTITY firstrun_signin_message "Conéctate, inicia">
 <!ENTITY firstrun_signin_button "Ingresa a Sync">
+<!ENTITY newfirstrun_signin_button "Habilitar Sync">
+<!ENTITY updatednewfirstrun_signin_button "Inicia sesión en &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Empezar navegación">
 <!ENTITY firstrun_button_notnow "Ahora no">
 <!ENTITY firstrun_button_next "Siguiente">
@@ -62,6 +69,11 @@
 <!ENTITY  sending_crash_report "Enviando reporte de fallos\u2026">
 <!ENTITY  crash_close_label "Cerrar">
 <!ENTITY  crash_restart_label "Reiniciar &brandShortName;">
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; falló">
+<!ENTITY  crash_notification_message "Presionar para reportar &vendorShortName;">
+<!ENTITY  crash_notification_negative_button_text "Ignorar">
 
 <!ENTITY url_bar_default_text2 "Buscar o ingresar dirección">
 
@@ -104,6 +116,9 @@
 <!ENTITY bookmark_folder_updated "Carpeta actualizada">
 <!ENTITY bookmark_parent_folder "Carpeta principal">
 <!ENTITY bookmark_add_folder "Agregar nueva carpeta">
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(sin título)">
 
 <!ENTITY reader_saved_offline "Guardado sin conexión">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -263,6 +278,7 @@
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Habilitado">
 <!ENTITY pref_cookies_not_accept_foreign "Habilitado, excluyendo a terceros">
+<!ENTITY pref_cookies_not_accept_trackers "Habilitado, excluyendo cookies de rastreo">
 <!ENTITY pref_cookies_disabled "Deshabiltado">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -323,11 +339,6 @@
 
 <!ENTITY pref_pwa "Aplicaciones web progresivas">
 <!ENTITY pref_pwa_summary "Permitir que las aplicaciones se agreguen a la pantalla de inicio">
-
-<!ENTITY tracking_protection_prompt_title "Ahora con protección de rastreo">
-<!ENTITY tracking_protection_prompt_text "Activamente bloqueando elementos de rastreo, así que no tienes de que preocuparte.">
-<!ENTITY tracking_protection_prompt_tip_text "Visita la configuración de privacidad para saber más">
-<!ENTITY tracking_protection_prompt_action_button "¡Entendido!">
 
 <!ENTITY tab_queue_toast_message3 "Pestaña guardada en &brandShortName;">
 <!ENTITY tab_queue_toast_action "Abrir ahora">
@@ -409,10 +420,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Descargas">
 <!ENTITY pref_private_data_syncedTabs "Pestañas sincronizadas">
 
+<!ENTITY pref_default_browser2 "Hacer &brandShortName; tu navegador predeterminado">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
-<!ENTITY pref_default_browser_mozilla_support_tablet "Visitar el soporte de Mozilla">
+<!ENTITY default_browser_system_settings_toast "Presiona la aplicación Navegador y selecciona &brandShortName;">
 <!ENTITY pref_about_firefox "Acerca de &brandShortName;">
 <!ENTITY pref_vendor_faqs "Preguntas frecuentes">
 <!ENTITY pref_vendor_feedback "Enviar opinión">
@@ -509,6 +521,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Localization note (find_error) : Error message shown when there is no result for the
      searched for text in this webpage -->
+<!ENTITY find_error "Frase no encontrada">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -582,6 +595,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Ubicación">
 <!ENTITY bookmark_edit_keyword "Palabra clave">
 <!ENTITY bookmark_select_folder "Seleccionar carpeta">
+
+<!ENTITY bookmark_edit_undo "Deshacer">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -670,7 +685,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Elige o graba un sonido">
 <!ENTITY filepicker_image_title "Elige o toma una foto">
 <!ENTITY filepicker_video_title "Elige o graba un video">
-
+<!ENTITY filepicker_permission_denied "No se ha otorgado el permiso requerido, volviendo al selector de archivos del sistema.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Estás conectado a">
@@ -910,6 +925,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Pausa">
 <!ENTITY pip_pause_button_description "Pausar la reproducción">
 
+<!ENTITY pref_notification_settings_link "Administrar ajustes de notificaciones">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Navegador">
 <!ENTITY mls_notification_channel "Servicio de localización de &vendorShortName;">
@@ -922,3 +938,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Notificaciones del sitio">
+<!ENTITY crash_handler_notifications_channel "Informe de fallos de &brandShortName;">
