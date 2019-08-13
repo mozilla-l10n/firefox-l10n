@@ -41,9 +41,7 @@
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Выводит JavaScript функции, на которые браузер потратил больше всего времени при записи.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Размещения">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Показывает, как была распределена память во время записи.">
-<!ENTITY performanceUI.toolbar.js-flamegraph "">
 <!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Показывает стек вызовов JavaScript во время записи.">
-<!ENTITY performanceUI.toolbar.memory-flamegraph "">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
