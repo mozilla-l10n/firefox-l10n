@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+fxaccounts-sign-in-text = קבלת הססמאות שלך במכשירים האחרים שלך
 fxaccounts-avatar-button =
     .title = ניהול חשבון
 
@@ -17,6 +18,9 @@ menu-menuitem-preferences =
        *[other] העדפות
     }
 menu-menuitem-feedback = שליחת משוב
+menu-menuitem-faq = תשובות לשאלות נפוצות
+menu-menuitem-android-app = ‏{ -lockwise-brand-short-name } עבור Android
+menu-menuitem-iphone-app = ‏{ -lockwise-brand-short-name } עבור iPhone ו־iPad
 
 ## Login List
 
