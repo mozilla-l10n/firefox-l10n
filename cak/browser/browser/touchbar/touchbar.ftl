@@ -18,3 +18,4 @@ reader-view = Rutz'etoj Sik'inem
 open-location = Tikanöx o titz'ib'äx ri ochochib'äl
 share = Tikomonïx
 close-window = Titz'apïx Tzuwäch
+open-sidebar = Ruchi' Cholab'äl

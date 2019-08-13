@@ -294,6 +294,8 @@ update-setting-write-failure-message =
     { -brand-short-name } xrïl jun sachoj ruma ri' toq man xuyäk ta re jaloj re'. Tatz'eta' chi re runuk'ulem re rajowab'al jaloj re' nrajo' chi niya' q'ij richin nitz'ib'äx pa ri yakb'äl. Rik'in jub'a' rat o jun runuk'samajel q'inoj yixtikïr nisöl re sachoj, rik'in ruchajixik chijun ri yakb'äl ruma ri molaj okisanela'. 
     
     Man tikirel ta xtz'ib'äx chupam ri yakb'äl: { $path }
+update-in-progress-title = Nitajin Nik'ex
+update-in-progress-message = ¿La nawajo' chi ri { -brand-short-name } nuk'isib'ej ri k'exoj?
 update-in-progress-ok-button = &Tich'aqïx
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -595,6 +597,12 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = Taq man relik ta…
     .accesskey = e
+forms-generate-passwords =
+    .label = Nuchilab'ej chuqa' yerunük' nïm ewan taq tzij
+    .accesskey = c
+forms-fill-logins-and-passwords =
+    .label = Ruyonil ketz'aqatisäx ri tikirib'äl molojri'ïl chuqa' ewan taq tzij
+    .accesskey = i
 forms-saved-logins =
     .label = Yakon kitikirib'al molojri'ïl…
     .accesskey = k
@@ -796,6 +804,10 @@ permissions-block-autoplay-media2 =
 permissions-block-autoplay-media-exceptions =
     .label = Taq man relik ta…
     .accesskey = E
+permissions-autoplay = Ruyon titz'ijtäj
+permissions-autoplay-settings =
+    .label = Taq nuk'ulem…
+    .accesskey = l
 permissions-block-popups =
     .label = Keq'at elenel taq tzuwäch
     .accesskey = K
