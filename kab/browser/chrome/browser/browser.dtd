@@ -802,6 +802,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Tuqqna">
 <!ENTITY identity.connectionSecure "Tuqqna taɣelsant">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Taɣellist n tuqqna">
+
 <!ENTITY identity.connectionNotSecure "Tuqqna-a mačči d taɣelsant">
 <!ENTITY identity.connectionFile "Asebter-a yettwakles deg uselkim-inek.">
 <!ENTITY identity.connectionVerified2 "Aqli-k tura teqqneḍ s tɣellist ɣeṛ usmel-a, bab-is d:">
@@ -809,6 +814,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Asebter-a yuli-d seg usiɣzef.">
 <!ENTITY identity.insecureLoginForms2 "Isem n useqdac d wawal uffir i tesqedceḍ deg usmel-a zemren ad ttwakren.">
 <!ENTITY identity.customRoot "Tuqqna tettwasntem sɣur amazan n uselkin ur tessin ara Mozilla.">
+
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; issewḥel kra n tazunin ur nelli ara d iɣelsanen deg usebter-a.">
@@ -843,12 +849,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Sfeḍ inagan n tuqqna akked isefka n usme…">
 
 <!ENTITY identity.permissions "Tisirag">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissionsEmpty "Ur tefkiḍ ara kra n tsiregt i usmel-a.">
 <!ENTITY identity.permissionsReloadHint "Ahat tesriḍ ad d-tessaliḍ tikelt-nniḍen asebter akken ad yemmed wayen i tbeddleḍ.">
 <!ENTITY identity.permissionsPreferences.tooltip "Ldi ismenyifen n tsirag">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Ldi ismenyifen n usewḥel n ugbur">
 
 
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -863,6 +873,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY protections.blocking.label "Asewḥel">
 <!ENTITY protections.notBlocking.why.label "Ayɣer?">
+<!ENTITY protections.cryptominers.label "Ikripṭuminaren">
 
 
 
@@ -902,6 +913,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Ineḍfaren">
 
+
 <!ENTITY contentBlocking.manageSettings.label "Sefrek Asewḥel n Ugbur">
 <!ENTITY contentBlocking.manageSettings.accesskey "S">
 
@@ -923,6 +935,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Azen-d uguren">
 <!ENTITY contentBlocking.breakageReportView2.description "Asewḥel n ugbur izmer ad d-yawi uguren deg kra n ismal. Mi ara ad aɣ-tazneḍ uguren, ad d-fkeḍ tallelt akken ad yili &brandShortName; igerrez i yal yiwen. ( aya ad yazen URL d  talɣut ɣef iɣewwaṛen , iminig-inek ɣer Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Issin ugar">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Issin ugar">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "D acu n wuguren i tesɛiḍ? (afrayan)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Azen aneqqis">

@@ -116,6 +116,7 @@ newtab-menu-open-file = Ldi afaylu
 
 newtab-label-visited = Yettwarza
 newtab-label-bookmarked = Yettwacreḍ
+newtab-label-removed-bookmark = Tacreṭ n usebter tettwakkes
 newtab-label-recommended = Tiddin
 newtab-label-saved = Yettwakles ɣer { -pocket-brand-name }
 newtab-label-download = Yuli-d
