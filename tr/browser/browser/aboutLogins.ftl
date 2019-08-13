@@ -55,6 +55,9 @@ login-list-item-subtitle-missing-username = (kullanıcı adı yok)
 ## Introduction screen
 
 login-intro-heading = Kayıtlı hesaplarınızı mı arıyorsunuz? { -sync-brand-short-name }’i kurun.
+login-intro-description = Hesaplarınızı farklı bir cihazdaki { -brand-product-name } tarayıcınıza kaydettiyseniz onları buraya aktarabilirsiniz:
+login-intro-instruction-fxa = Hesaplarınızın kayıtlı olduğu cihazda  { -fxaccount-brand-name } hesabı açın veya hesabınıza giriş yapın
+login-intro-instruction-fxa-settings = { -sync-brand-short-name } ayarlarında “Hesaplar”ı işaretlediğinizden emin olun
 login-intro-instruction-faq = Daha fazla yardım için { -lockwise-brand-short-name } <a data-l10n-name="faq">sıkça sorulan sorular</a> sayfasını ziyaret edin
 
 ## Login
@@ -97,6 +100,18 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = İptal
 confirmation-dialog-dismiss-button =
     .title = İptal
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Hesaplarınıza { -brand-product-name } kullandığınız her yerden erişmek ister misiniz? { -sync-brand-short-name } seçeneklerine gidip “Hesaplar”ı işaretleyin.
+       *[other] Hesaplarınıza { -brand-product-name } kullandığınız her yerden erişmek ister misiniz? { -sync-brand-short-name } tercihlerine gidip “Hesaplar”ı işaretleyin.
+    }
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] { -sync-brand-short-name } seçeneklerine git
+           *[other] { -sync-brand-short-name } tercihlerine git
+        }
+    .accesskey = t
 confirm-delete-dialog-title = Bu hesap silinsin mi?
 confirm-delete-dialog-message = Bu işlem geri alınamaz.
 confirm-delete-dialog-confirm-button = Sil

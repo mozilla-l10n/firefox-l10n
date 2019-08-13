@@ -151,6 +151,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.description "Dosyaları uçtan uca şifreleme ve kendiliğinden sona eren bir bağlantıyla yükleyip paylaşın.">
 <!ENTITY fxa.service.send.launch "&sendShortName;’i aç">
 <!ENTITY fxa.service.monitor.description "E-postanızın bir veri ihlalinde var olup olmadığını kontrol edin ve yeni bir ihlalde var olursa uyarı alın.">
 <!ENTITY fxa.service.monitor.launch "&monitorShortName;’i aç">
@@ -893,6 +894,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.blocking.label "Engelleniyor">
 <!ENTITY protections.notBlocking.label "Engellenmiyor">
 <!ENTITY protections.notBlocking.why.label "Neden?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Bunları engellemek bazı web sitelerini kısmen bozabilir. Takipçiler engellendiğinde bazı düğmeler, formlar ve giriş alanları çalışmayabilir.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Korumaları kapattığınızda bu sitedeki tüm takipçilere izin verilecektir. Önceden çalışmayan site işlevleri de çalışır hale gelebilir.">
 <!ENTITY protections.socialMediaTrackers.label "Sosyal Medya Takipçileri">
 <!ENTITY protections.crossSiteTrackingCookies.label "Siteler arası takip çerezleri">
 <!ENTITY protections.trackingContent.label "Takip amaçlı içerikler">
@@ -967,6 +970,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Sorun bildir">
 <!ENTITY contentBlocking.breakageReportView2.description "İçerik engelleme bazı web sitelerinde sorunlara yol açabilir. Bu sorunları bize bildirirseniz &brandShortName; tarayıcısını iyileştirme şansımız olur. (Sorunlu sayfanın adresi ve tarayıcı ayarlarınızla ilgili bilgiler Mozilla’ya gönderilecektir.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Daha fazla bilgi al">
+<!ENTITY contentBlocking.breakageReportView.title "Bozuk Bir Siteyi Bildirin">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Daha fazla bilgi alın">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Adres">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Nasıl bir sorunla karşılaştınız? (tercihe bağlı)">
 <!ENTITY contentBlocking.breakageReportView2.collection.comments.label "İsteğe bağlı: Sorunu açıklayın">
