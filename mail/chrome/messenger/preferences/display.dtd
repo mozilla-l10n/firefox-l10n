@@ -49,6 +49,7 @@
 <!-- Advanced -->
 <!ENTITY reading.caption                  "კითხვა">
 <!ENTITY display.caption                  "გამოსახვა">
+<!ENTITY displayName.label                "გამოსაჩენი სახელი:">
 <!ENTITY showCondensedAddresses.label     "წიგნაკში, მხოლოდ გამოსაჩენი სახელების ჩვენება">
 <!ENTITY showCondensedAddresses.accesskey "წ">
 

@@ -19,6 +19,7 @@
 <!ENTITY paneAttachments.title    "დანართები">
 <!ENTITY panePrivacy.title        "პირადულობა">
 <!ENTITY paneSecurity.title       "უსაფრთხოება">
+<!ENTITY panePrivacySecurity.title "პირადულობა და უსაფრთხოება">
 <!ENTITY paneLightning.title      "კალენდარი">
 <!ENTITY paneAdvanced.title       "დეტალები">
 <!ENTITY paneAccount.title        "ანგარიშები">
