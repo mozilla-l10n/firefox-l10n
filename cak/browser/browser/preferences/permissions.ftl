@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Taq man relik ta - Kiq'atik Rupam
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Xachüp ri ruq'atik Rupam pa re ajk'amaya'l ruxaq re'.
+permissions-exceptions-etp-window =
+    .title = Taq man relik ta richin ri utzirisan Chajinïk chuwäch Ojqanïk
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Xe'achüp ri taq chajinïk pa re taq ajk'amaya'l re'.
 
 ## Exceptions - Cookies
 
