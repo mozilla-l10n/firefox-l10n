@@ -872,7 +872,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Dalše informacije wo polěpšenym slědowanskim škiće">
-<!ENTITY protections.settings.label "Škitowe nastajenja">
+<!ENTITY protections.settings.label "Škitne nastajenja">
 <!ENTITY protections.report.label "Dospołnu rozprawu pokazać">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -951,8 +951,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection4.label "Slědowacy wobsah">
 
-<!ENTITY contentBlocking.manageSettings2.label "Škitowe nastajenja rjadować">
-<!ENTITY contentBlocking.manageSettings.accesskey "B">
+<!ENTITY contentBlocking.manageSettings2.label "Škitne nastajenja rjadować">
+<!ENTITY contentBlocking.manageSettings.accesskey "r">
 
 <!ENTITY contentBlocking.trackersView.label "Přesćěhowaki">
 
