@@ -90,9 +90,20 @@ login-item-time-used = Lêst brûkt: { DATETIME($timeUsed, day: "numeric", month
 
 ## Master Password notification
 
+master-password-notification-message = Fier jo haadwachtwurd yn om bewarre oanmeldingen en wachtwurden te besjen
+master-password-reload-button =
+    .label = Oanmelde
+    .accesskey = O
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Annulearje
+confirmation-dialog-dismiss-button =
+    .title = Annulearje
+confirm-delete-dialog-title = Dizze oanmelding fuortsmite?
+confirm-delete-dialog-message = Dizze aksje kin net ûngedien makke wurde.
+confirm-delete-dialog-confirm-button = Fuortsmite
+confirm-discard-changes-dialog-confirm-button = Ferwerpe
 
 ## Breach Alert notification
 

@@ -160,9 +160,6 @@ private-browsing-description2 =
     de útwreiding net yn priveenavigaasje, en hat dizze dêryn gjin tagong ta jo online-aktiviteiten.
     Dizze wiziging is oanbrocht om jo priveenavigaasje privee te hâlden.
     <label data-l10n-name="private-browsing-learn-more">Mear ynfo oer it behearen fan útwreidingen-ynstellingen.</label>
-extensions-view-discover =
-    .name = Add-ons krije
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Oanrekommandaasjes
     .tooltiptext = { extensions-view-discopane.name }
@@ -319,6 +316,16 @@ release-notes-addon-button = Utjefteopmerkingen
 permissions-addon-button = Tastimmingen
 addons-enabled-heading = Ynskeakele
 addons-disabled-heading = Utskeakele
+extension-enabled-heading = Ynskeakele
+extension-disabled-heading = Utskeakele
+theme-enabled-heading = Ynskeakele
+theme-disabled-heading = Utskeakele
+plugin-enabled-heading = Ynskeakele
+plugin-disabled-heading = Utskeakele
+dictionary-enabled-heading = Ynskeakele
+dictionary-disabled-heading = Utskeakele
+locale-enabled-heading = Ynskeakele
+locale-disabled-heading = Utskeakele
 ask-to-activate-button = Freegje om te aktivearjen
 always-activate-button = Altyd aktivearje
 never-activate-button = Nea aktivearje
