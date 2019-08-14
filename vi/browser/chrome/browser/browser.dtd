@@ -911,8 +911,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.description "Trang web có thể tải quảng cáo bên ngoài, video và nội dung khác có chứa mã theo dõi. Chặn nội dung theo dõi có thể giúp các trang web tải nhanh hơn, nhưng một số nút, biểu mẫu và trường đăng nhập có thể không hoạt động.">
 <!ENTITY protections.socialMediaTrackers.description "Mạng xã hội đặt trình theo dõi trên các trang web khác để theo dõi những gì bạn làm, xem và xem trực tuyến. Điều này cho phép các công ty truyền thông xã hội tìm hiểu thêm về bạn ngoài những gì bạn chia sẻ trên hồ sơ truyền thông xã hội của mình.">
 
-<!ENTITY protections.manageProtectionSettings.label "Quản lý cài đặt bảo vệ">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Thẻ trình duyệt">
@@ -949,20 +947,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Trình theo dõi">
 
+<!ENTITY contentBlocking.manageSettings.label "Quản lý chặn nội dung">
+
 <!ENTITY contentBlocking.trackingProtection4.label "Trình theo dõi nội dung">
 
-<!ENTITY contentBlocking.manageSettings.label "Quản lý chặn nội dung">
+<!ENTITY contentBlocking.manageSettings2.label "Quản lý cài đặt bảo vệ">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "Trình theo dõi">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Để chặn tất cả trình theo dõi, hãy đặt chặn nội dung thành “Nghiêm ngặt”.">
 
-<!ENTITY contentBlocking.socialblock.label "Trình theo dõi truyền thông xã hội">
-<!ENTITY contentBlocking.socialblockView.label "Đã chặn trình theo dõi truyền thông xã hội">
-<!ENTITY contentBlocking.socialblockView.description "Mạng xã hội đặt trình theo dõi trên các trang web khác để theo dõi những gì bạn làm, xem và xem trực tuyến. Điều này cho phép các công ty truyền thông xã hội tìm hiểu thêm về bạn ngoài những gì bạn chia sẻ trên hồ sơ truyền thông xã hội của mình.">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Để chặn tất cả trình theo dõi, hãy đặt chặn nội dung thành “Nghiêm ngặt”.">
 
 <!ENTITY contentBlocking.cookies.label "Cookie">
 <!ENTITY contentBlocking.cookiesView.label "Cookie và dữ liệu trang">
+
+<!ENTITY contentBlocking.socialblock.label "Trình theo dõi truyền thông xã hội">
+
+<!ENTITY contentBlocking.cookies2.label "Cookie theo dõi chéo trang web">
 
 <!ENTITY contentBlocking.cryptominers.label "Tiền điện tử">
 <!ENTITY contentBlocking.cryptominersView.label "Tiền điện tử">
