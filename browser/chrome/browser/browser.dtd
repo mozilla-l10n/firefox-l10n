@@ -911,8 +911,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.description "Websydła móža eksterne wabjenje, wideja a druhi wobsah začitać, kotryž slědowacy kod wobsahuja. Hdyž slědowacy wobsah blokujeće, móže to pomhać, sydła spěšnišo začitać, ale někotre tłóčatka, formulary a přizjewjenske pola snano hižo njebudu fungować.">
 <!ENTITY protections.socialMediaTrackers.description "Socialne syće placěruja přesćěhowaki na druhich websydłach, zo bychu slědowali, što online činiće, widźiće a wobkedźbujeće. To předewzaćam socialnych medijow dowola, wjace wo was zhonił hač w profilach socialnych medijow dźěliće.">
 
-<!ENTITY protections.manageProtectionSettings.label "Škitowe nastajenja rjadować">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Rajtarki wobhladowaka">
@@ -949,20 +947,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Přesćěhowaki">
 
+<!ENTITY contentBlocking.manageSettings.label "Blokowanje wobsaha rjadować">
+
 <!ENTITY contentBlocking.trackingProtection4.label "Slědowacy wobsah">
 
-<!ENTITY contentBlocking.manageSettings.label "Blokowanje wobsaha rjadować">
+<!ENTITY contentBlocking.manageSettings2.label "Škitowe nastajenja rjadować">
 <!ENTITY contentBlocking.manageSettings.accesskey "B">
 
 <!ENTITY contentBlocking.trackersView.label "Přesćěhowaki">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Zo byšće wšě přesćěhowaki blokował, stajće blokowanje wobsaha na “Striktny”.">
 
-<!ENTITY contentBlocking.socialblock.label "Přesćěhowaki socialnych medijow">
-<!ENTITY contentBlocking.socialblockView.label "Přesćěhowaki socialnych medijow zablokowane">
-<!ENTITY contentBlocking.socialblockView.description "Socialne syće placěruja přesćěhowaki na druhich websydłach, zo bychu slědowali, što online činiće, widźiće a wobkedźbujeće. To předewzaćam socialnych medijow dowola, wjace wo was zhonił hač w profilach socialnych medijow dźěliće.">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Zo byšće wšě přesćěhowaki blokował, stajće blokowanje wobsaha na “Striktny”.">
 
 <!ENTITY contentBlocking.cookies.label "Placki">
 <!ENTITY contentBlocking.cookiesView.label "Placki a sydłowe daty">
+
+<!ENTITY contentBlocking.socialblock.label "Přesćěhowaki socialnych medijow">
+
+<!ENTITY contentBlocking.cookies2.label "Slědowace placki mjez sydłami">
 
 <!ENTITY contentBlocking.cryptominers.label "Kryptokopanje">
 <!ENTITY contentBlocking.cryptominersView.label "Kryptokopanje">
