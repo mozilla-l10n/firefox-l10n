@@ -62,6 +62,7 @@ networkid-id = ID δικτύου
 
 ## Link is intended as "network link"
 
+networkid-isUp = Η σύνδεση είναι ενεργή
 networkid-statusKnown = Η κατάσταση σύνδεσης είναι γνωστή
 
 

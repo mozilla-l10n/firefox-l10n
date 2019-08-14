@@ -75,8 +75,9 @@ about-telemetry-settings-explanation = Η τηλεμετρία συλλέγει 
 # Variables:
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
-about-telemetry-ping-details = Κάθε κομμάτι πληροφορίας αποστέλλεται πακεταρισμένο στο “<a data-l10n-name="ping-link">pings</a>”. Αυτή τη στιγμή βλέπετε το ping { $name }, { $timestamp }.
-about-telemetry-ping-details-current = Κάθε κομμάτι πληροφορίας αποστέλλεται πακεταρισμένο στο “<a data-l10n-name="ping-link">pings</a>”. Αυτή τη στιγμή βλέπετε το ping τρέχουσα.
+about-telemetry-ping-details = Κάθε κομμάτι πληροφορίας αποστέλλεται πακεταρισμένο σε “<a data-l10n-name="ping-link">pings</a>”. Βλέπετε το ping { $name }, { $timestamp }.
+about-telemetry-ping-details-current = Κάθε κομμάτι πληροφορίας αποστέλλεται πακεταρισμένο σε “<a data-l10n-name="ping-link">pings</a>”. Βλέπετε το τρέχον ping.
+about-telemetry-data-details-current = Κάθε κομμάτι πληροφορίας αποστέλλεται πακεταρισμένο σε “<a data-l10n-name="ping-link">pings</a>”. Βλέπετε τα τρέχοντα δεδομένα.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
