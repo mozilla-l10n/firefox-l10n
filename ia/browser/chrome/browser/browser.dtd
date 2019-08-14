@@ -899,10 +899,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Blocar isto poterea rumper elementos de alcun sitos web. Sin traciatores, alcun buttones, formas, e campos pro accesso pote non functionar.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Disactivar protectiones consentira tote le traciatores sur iste sito. Pote alsi meliorar alcun functionalitates del sito web.">
 <!ENTITY protections.socialMediaTrackers.label "Traciatores de medios social">
+<!ENTITY protections.crossSiteTrackingCookies.label "Le cookies de traciamento tra sitos">
 <!ENTITY protections.trackingContent.label "Contento traciante">
 <!ENTITY protections.fingerprinters.label "Dactylogrammatores">
 <!ENTITY protections.cryptominers.label "Crypto-minatores">
+<!ENTITY protections.noTrackersFound.description "Nulle traciatores note a &brandShortName; ha essite disvelate sur iste pagina.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Iste cookies te seque de sito a sito pro colliger datos re lo que tu face online. Illos es ponite per tertie partes tal como publicitarios e companias de analyse datos.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
