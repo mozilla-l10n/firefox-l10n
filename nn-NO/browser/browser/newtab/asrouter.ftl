@@ -79,9 +79,15 @@ cfr-whatsnew-panel-header = Kva er nytt
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Få dette bokmerket på telefonen din
+cfr-doorhanger-sync-bookmarks-body = Ta med bokmerke, passord, historikk, og meir, overalt der du er logga inn på { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = Slå på { -sync-brand-short-name }
+    .accesskey = S
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Les dette medan du er påfarten
+cfr-doorhanger-send-tab-recipe-header = Ta denne oppskrifta med på kjøkkenet
 cfr-doorhanger-send-tab-ok-button = Prøv send fane
     .accesskey = P
 

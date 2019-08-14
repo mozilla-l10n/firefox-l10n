@@ -149,6 +149,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Logg inn på &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Slå på &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "Konto">
+<!ENTITY fxa.menu.firefoxServices.label "&brandProductName;-tenester">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
