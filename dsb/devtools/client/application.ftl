@@ -69,3 +69,5 @@ serviceworker-empty-suggestions-debugger = Pśeglědujśo swóju registrěrowanj
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Pśepytujśo service workers wót drugich domenow. <a>about:debugging wócyniś</a>
+# Text displayed when no manifest was found for the current page.
+manifest-empty-intro = Njejo se namakał žeden manifest za pśeglědanje.
