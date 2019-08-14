@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Ngoại lệ - Chặn nội dung
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Bạn đã tắt tính năng chặn nội dung trên các trang web này.
+permissions-exceptions-etp-window =
+    .title = Các ngoại lệ cho trình chống theo dõi nâng cao
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Bạn đã tắt bảo vệ trên các trang web này.
 
 ## Exceptions - Cookies
 
