@@ -890,6 +890,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.logInFields "Kik'ojlib'al tikirisanem">
 <!ENTITY protections.siteNotWorkingView.issueList.forms "Taq Nojwuj">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Taq Tojïk">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Taq tzijol">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Taq Silowäch">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "¿La k'a man nisamäj ta ri ruxaq chi rij toq xechup ri taq ojqanem?">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Titaq jun rutzijol">
 
 
 
