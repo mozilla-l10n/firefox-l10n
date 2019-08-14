@@ -36,3 +36,7 @@
 <!ENTITY dntTrackingNotOkay.label2 "საიტებისთვის „არ მითვალთვალო“ მოთხოვნის გაგზავნა">
 <!ENTITY dntTrackingNotOkay.accesskey "რ">
 <!ENTITY doNotTrackInfo.label "იხილეთ ვრცლად, თვალთვალზე უარის შესახებ">
+
+<!ENTITY doNotTrackCheck.label "საიტებისთვის „არ მითვალთვალო“ მოთხოვნის გაგზავნა, მიუთითებს რომ არ გსურთ თვალი გადევნონ">
+<!ENTITY doNotTrackCheck.accesskey "ზ">
+<!ENTITY doNotTrackLearnMore.label "ვრცლად">

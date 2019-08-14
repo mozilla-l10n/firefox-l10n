@@ -122,3 +122,8 @@
 <!ENTITY manageCertificates.accesskey "მ">
 <!ENTITY viewSecurityDevices.label "უსაფრთხოების მოწყობილობები">
 <!ENTITY viewSecurityDevices.accesskey "S">
+
+<!ENTITY manageCertificates2.label "სერტიფიკატების მართვა…">
+<!ENTITY manageCertificates2.accesskey "ტ">
+<!ENTITY viewSecurityDevices2.label "უსაფრთხოების მოწყობილობები…">
+<!ENTITY viewSecurityDevices2.accesskey "წ">

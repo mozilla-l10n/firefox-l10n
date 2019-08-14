@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "შ">
 <!ENTITY folderPaneBar.label "საქაღალდის დაფის ხელსაწყოები">
 <!ENTITY folderPaneBar.accesskey "ს">
-<!ENTITY folderModeSelector.label "საქაღალდის ხედები">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "დალაგება">
@@ -587,6 +586,7 @@
 <!ENTITY fileButton.tooltip "შერჩეული წერილის შენახვა">
 <!ENTITY archiveButton.tooltip "შერჩეული წერილის დაარქივება">
 <!ENTITY openConversationButton.tooltip "მითითებული შეტყობინების სრული საუბრის ჩვენება">
+<!ENTITY openMsgConversationButton.tooltip "მითითებული შეტყობინების სრული საუბრის ჩვენება">
 <!ENTITY nextButton.tooltip "გადასვლა შემდეგ წასაკითხ წერილზე">
 <!ENTITY nextMsgButton.tooltip "გადასვლა შემდეგ წერილზე">
 <!ENTITY previousButton.tooltip "გადასვლა წინა წასაკითხ წერილზე">
@@ -605,7 +605,6 @@
 <!ENTITY tagButton.tooltip "წერილების დაჭდევება">
 <!ENTITY compactButton.tooltip "წაშლილი წერილების მოცილება შერჩეული საქაღალდიდან">
 <!ENTITY appmenuButton1.tooltip "&brandShortName; მენიუს ჩვენება">
-
 <!ENTITY addonsButton.tooltip "მართეთ თქვენი დამატებები">
 
 <!-- Toolbar Button Popup -->
