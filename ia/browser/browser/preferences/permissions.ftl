@@ -67,6 +67,9 @@ permissions-exceptions-content-blocking-window =
     .title = Exceptiones - Blocada de contentos
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Tu ha disactivate le Blocada de contentos pro iste sito web.
+permissions-exceptions-etp-window =
+    .title = Exceptiones del Protection meliorate contra le traciamento
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 

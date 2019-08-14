@@ -153,8 +153,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.send.description "Carga e comparti files con cryptographia bilateral plus un ligamine que automaticamente expira.">
 <!ENTITY fxa.service.send.launch "Lancear &sendShortName;">
+<!ENTITY fxa.service.monitor.description "Controla si tu adresse email ha apparite in un violation de datos e mantene te allertate si illo appare in un nove violation.">
 <!ENTITY fxa.service.monitor.launch "Lancear &monitorShortName;">
+<!ENTITY fxa.service.sendTab.description "Invia un scheda instantaneemente a ulle dispositivo que tu ha accedite.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -881,23 +884,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Disactiva protectiones si tu ha problemas con:">
 <!ENTITY protections.siteNotWorkingView.issueList.logInFields "Campos de credentiales">
 <!ENTITY protections.siteNotWorkingView.issueList.forms "Formularios">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Pagamentos">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Commentos">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Videos">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Sito ancora corrupte post disactivation de protectiones?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Inviar un reporto">
 
 <!ENTITY protections.blocking.label "Blocada">
 <!ENTITY protections.notBlocking.label "Non blocante">
 <!ENTITY protections.notBlocking.why.label "Perque?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Blocar isto poterea rumper elementos de alcun sitos web. Sin traciatores, alcun buttones, formas, e campos pro accesso pote non functionar.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Disactivar protectiones consentira tote le traciatores sur iste sito. Pote alsi meliorar alcun functionalitates del sito web.">
 <!ENTITY protections.socialMediaTrackers.label "Traciatores de medios social">
 <!ENTITY protections.trackingContent.label "Contento traciante">
 <!ENTITY protections.fingerprinters.label "Dactylogrammatores">
 <!ENTITY protections.cryptominers.label "Crypto-minatores">
 
-
-<!ENTITY protections.manageProtectionSettings.label "Gerer parametros de protection">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -935,19 +940,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Traciatores">
 
+<!ENTITY contentBlocking.manageSettings.label "Gerer le blocage de contentos">
+
 <!ENTITY contentBlocking.trackingProtection4.label "Contento traciante">
 
-<!ENTITY contentBlocking.manageSettings.label "Gerer le blocage de contentos">
 <!ENTITY contentBlocking.manageSettings.accesskey "G">
 
 <!ENTITY contentBlocking.trackersView.label "Traciatores">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Pro blocar tote le traciatores dispone a “Stricte” le blocage del contento.">
 
-<!ENTITY contentBlocking.socialblock.label "Traciatores de medios social">
-<!ENTITY contentBlocking.socialblockView.label "Traciatores de medios social blocate">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Pro blocar tote le traciatores dispone a “Stricte” le blocage del contento.">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies e datos de sitos">
+
+<!ENTITY contentBlocking.socialblock.label "Traciatores de medios social">
+
 
 <!ENTITY contentBlocking.cryptominers.label "Cryptominatores">
 <!ENTITY contentBlocking.cryptominersView.label "Cryptominatores">

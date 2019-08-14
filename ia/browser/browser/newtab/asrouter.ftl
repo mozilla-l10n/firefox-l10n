@@ -94,5 +94,6 @@ cfr-doorhanger-send-tab-ok-button = Proba Invia scheda
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Comparti con securitate iste PDF
+cfr-doorhanger-firefox-send-body = Mantene secur del oculos indiscrete tu documentos sensibile con cryptographia bilateral e un ligamine que dispare quando tu ha finite.
 cfr-doorhanger-firefox-send-ok-button = Prova { -send-brand-name }
     .accesskey = P
