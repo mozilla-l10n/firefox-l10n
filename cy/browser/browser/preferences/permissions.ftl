@@ -68,7 +68,7 @@ permissions-exceptions-content-blocking-window =
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Rydych wedi analluogi rhwystro cynnwys ar y gwefannau hyn.
 permissions-exceptions-etp-window =
-    .title = Eithriadau ar gyfer Diogelu Rhag Tracio Uwch
+    .title = Eithriadau ar gyfer Diogelu Uwch Rhag Tracio
     .style = { permissions-window.style }
 permissions-exceptions-etp-desc = Rydych wedi diffodd y diogelu ar y gwefannau hyn.
 

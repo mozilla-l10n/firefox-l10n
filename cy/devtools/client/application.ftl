@@ -69,3 +69,5 @@ serviceworker-empty-suggestions-debugger = Camu drwy gofrestriad eich Gweithiwr 
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Archwilio'r Gweithwyr Gwasanaeth o barthau eraill. <a>Agor about:debugging</a>
+# Text displayed when no manifest was found for the current page.
+manifest-empty-intro = Heb ganfod maniffest i'w archwilio.
