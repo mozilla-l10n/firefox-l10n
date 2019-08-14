@@ -2,6 +2,34 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+pane-general-title = ძირითადი
+category-general =
+    .tooltiptext = { pane-general-title }
+general-language-and-appearance-header = ენა და იერსახე
+general-incoming-mail-header = შემოსული წერილები
+general-files-and-attachment-header = ფაილები და დანართები
+general-tags-header = ჭდეები
+general-reading-and-display-header = კითხვა და ჩვენება
+general-updates-header = განახლებები
+general-network-and-diskspace-header = ქსელი და ადგილი დისკზე
+general-indexing-label = აღრიცხვა
+composition-category-header = შედგენა
+composition-attachments-header = დანართები
+composition-spelling-title = მართლწერა
+compose-html-style-title = HTML-სახის
+composition-addressing-header = დამისამართება
+privacy-main-header = პირადულობა
+privacy-passwords-header = პაროლები
+privacy-junk-header = ჯართი
+privacy-data-collection-header = მონაცემთა აღრიცხვა და გამოყენება
+privacy-security-header = უსაფრთხოება
+privacy-scam-detection-title = თაღლითობის გამოვლენა
+privacy-anti-virus-title = ანტივირუსი
+privacy-certificates-title = სერტიფიკატები
+chat-pane-header = სასაუბრო
+chat-status-title = მდგომარეობა
+chat-notifications-title = შეტყობინებები
+chat-pane-styling-header = გაფორმება
 choose-messenger-language-description = მიუთითეთ ენა, რომლის მეშვეობითაც მენიუს, შეტყობინებებსა და ცნობებს გაჩვენებთ { -brand-short-name }.
 manage-messenger-languages-button =
     .label = დამატებითი...
