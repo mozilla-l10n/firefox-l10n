@@ -870,16 +870,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY protections.etpON.header "Ri utzirisan Ruchajixik Ojqanem TZIJON richin re ruxaq re' wakami">
+<!ENTITY protections.etpOFF.header "Ri utzirisan Ruchajixik Ojqanem CHUPÜL richin re ruxaq re' wakami">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Ch'aqa' chik etamab'äl chi rij ri Utzirisan Ruchajinik Ojqanem">
+<!ENTITY protections.settings.label "Runuk'ulem Ojqanem">
+<!ENTITY protections.report.label "Tik'ut Chijun Rutzijol">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "¿La man nisamäj ta ri ruxaq?">
+<!ENTITY protections.siteNotWorkingView.title "¿La man nisamäj ta ri ruxaq?">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Ke'achupu' ri taq chajinem we k'o ak'ayewal rik'in:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Kik'ojlib'al tikirisanem">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Taq Nojwuj">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Taq Tojïk">
 
 
 
