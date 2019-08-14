@@ -66,7 +66,11 @@ permissions-invalid-uri-label = Podaj prawidłową nazwę hosta
 permissions-exceptions-content-blocking-window =
     .title = Blokowanie treści — wyjątki
     .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Blokowanie treści zostało wyłączone dla następujących witryn.
+permissions-exceptions-content-blocking-desc = Blokowanie treści zostało wyłączone dla tych witryn.
+permissions-exceptions-etp-window =
+    .title = Wzmocniona ochrona przed śledzeniem — wyjątki
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Ochrona została wyłączona dla tych witryn.
 
 ## Exceptions - Cookies
 
