@@ -17,7 +17,37 @@ cert-error-trust-untrusted-issuer = វិញ្ញាបនបត្រ​ម�
 cert-error-trust-signature-algorithm-disabled = វិញ្ញាបនបត្រ​មិន​ត្រូវ​បាន​ជឿ​ទុកចិត្ត ពីព្រោះ​វា​ត្រូ​វបាន​ចុះ​ហត្ថលេខា​ដោយ​ប្រើ​​ក្បួន​ហត្ថលេខា ដែល​ត្រូវ​បាន​បិទ ពីព្រោះ​ក្បួន​នោះ​មិនមាន​សុវត្ថិភាព​ទេ ។
 cert-error-trust-expired-issuer = វិញ្ញាបនបត្រ​មិន​ត្រូវ​បាន​ជឿ​ទុកចិត្ត​ឡើយ ពីព្រោះ​អ្នក​ចេញ​វិញ្ញាបនបត្រ​ផុត​កំណត់ ។
 cert-error-trust-self-signed = វិញ្ញាបនបត្រ​មិន​ត្រូវ​បាន​ជឿ​ទុកចិត្ត​ឡើយ ពីព្រោះ​វា​ត្រូវ​បាន​ចុះ​ហត្ថលេខា​ខ្លួន​ឯង ។
+cert-error-trust-symantec = វិញ្ញាបនបត្រ​ដែល​បាន​ចេញ​ដោយ GeoTrust, RapidSSL, Symantec, Thawte និង VeriSign លែង​ចាត់ទុក​ថា​មាន​សុវត្ថិភាព​ទៀត​ហើយ ដោយសារ​អាជ្ញាធរ​​វិញ្ញាបនបត្រ​ទាំងនេះ​មិន​អនុវត្ត​តាម​គោលការណ៍​សុវត្ថិភាព​កាលពី​មុន។
 cert-error-untrusted-default = វិញ្ញាបនបត្រ​មិន​មក​ពី​ប្រភព​ដែល​ជឿ​ទុកចិត្ត​ឡើយ ។
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-domain-mismatch = គេហទំព័រ​បញ្ជាក់​​អត្តសញ្ញាណ​របស់​ខ្លួន​តាមរយៈ​វិញ្ញាបនបត្រ។ { -brand-short-name } មិន​ជឿជាក់​លើ​គេហទំព័រ​នេះ ដោយសារ​វា​ប្រើប្រាស់​វិញ្ញាបនបត្រ​ដែល​មិន​អាច​ប្រើ​បាន​​សម្រាប់ { $hostname } ទេ។
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single = គេហទំព័រ​បញ្ជាក់​​អត្តសញ្ញាណ​របស់​ខ្លួន​តាមរយៈ​វិញ្ញាបនបត្រ។ { -brand-short-name } មិន​ជឿជាក់​លើ​គេហទំព័រ​នេះ ដោយសារ​វា​ប្រើប្រាស់​វិញ្ញាបនបត្រ​ដែល​មិន​អាច​ប្រើ​បាន​សម្រាប់ { $hostname } ទេ។ វិញ្ញាបនបត្រ​នេះ​​អាច​ប្រើ​បាន​សម្រាប់​តែ <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a> ប៉ុណ្ណោះ។
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single-nolink = គេហទំព័រ​បញ្ជាក់​​អត្តសញ្ញាណ​របស់​ខ្លួន​តាមរយៈ​វិញ្ញាបនបត្រ។ { -brand-short-name } មិន​ជឿជាក់​លើ​គេហទំព័រ​នេះ ដោយសារ​វា​ប្រើប្រាស់​វិញ្ញាបនបត្រ​ដែល​មិន​​មិន​អាច​ប្រើ​បាន​សម្រាប់ { $hostname } ទេ។ វិញ្ញាបនបត្រ​នេះ​អាច​ប្រើ​បាន​សម្រាប់តែ { $alt-name } ប៉ុណ្ណោះ។
+# Variables:
+# $subject-alt-names (String) - Alternate domain names for which the cert is valid.
+cert-error-domain-mismatch-multiple = គេហទំព័រ​បញ្ជាក់​​អត្តសញ្ញាណ​របស់​ខ្លួន​តាមរយៈ​វិញ្ញាបនបត្រ។ { -brand-short-name } មិន​ជឿជាក់​លើ​គេហទំព័រ​នេះ ដោយសារ​វា​ប្រើប្រាស់​វិញ្ញាបនបត្រ​ដែល​មិនអាច​ប្រើ​បាន​សម្រាប់ { $hostname } ទេ។ វិញ្ញា​បនបត្រ​នេះ​​អាច​ប្រើ​បាន​សម្រាប់​តែ​ឈ្មោះ​ខាងក្រោម៖ { $subject-alt-names }
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = គេហទំព័រ​បញ្ជាក់​អត្តសញ្ញាណ​របស់​ខ្លួន​តាមរយៈ​វិញ្ញាបនបត្រ ដែល​អាច​ប្រើ​បាន​ក្នុង​រយៈពេល​បាន​កំណត់​មួយ។ វិញ្ញាបនបត្រ​សម្រាប់ { $hostname } ផុត​កំណត់​នៅ { $not-after-local-time } ។
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = គេហទំព័រ​បញ្ជាក់​អត្តសញ្ញាណ​របស់​ខ្លួន​តាមរយៈ​វិញ្ញាបនបត្រ ដែល​អាច​ប្រើ​បាន​ក្នុង​រយៈពេល​បាន​កំណត់​មួយ។ វិញ្ញាបនបត្រ​សម្រាប់ { $hostname } នឹង​មិន​អាច​ប្រើ​បាន​រហូតដល់ { $not-after-local-time } ។
+# Variables:
+# $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix-link = បញ្ហា​កូដ៖ <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = គេហទំព័រ​បញ្ជាក់​អត្តសញ្ញាណ​របស់​ខ្លួន​តាមរយៈ​វិញ្ញាបនបត្រ ដែល​ត្រូវបាន​ចេញ​ដោយ​អាជ្ញាធរ​វិញ្ញាបនបត្រ។ កម្មវិធី​រុករក​តាម​អ៊ីនធឺណិត​ច្រើន​បំផុត​លែង​ទុកចិត្ត​វិញ្ញាបនបត្រ​ដែល​បាន​ចេញ​ដោយ GeoTrust, RapidSSL, Symantec, Thawte និង VeriSign ទៀត​ហើយ។ { $hostname } ប្រើប្រាស់​វិញ្ញាបនបត្រ​ពី​អាជ្ញាធរ​មួយ​ក្នុង​ចំណោម​អាជ្ញាធរ​ទាំងនេះ ដូច្នេះ​ហើយ​អត្តសញ្ញាណ​របស់​គេហទំព័រ​នេះ​មិន​អាច​បញ្ជាក់​បាន​ទេ។
+cert-error-symantec-distrust-admin = អ្នក​អាច​ជូនដំណឹង​ដល់​អ្នក​គ្រប់គ្រង​គេហទំព័រ​​អំពី​បញ្ហា​នេះ។
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = សុវត្ថិភាព​ដឹកជញ្ជូន​តឹងរ៉ឹង HTTP៖ { $hasHSTS }
