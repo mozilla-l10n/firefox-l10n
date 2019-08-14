@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+abuse-report-title-extension = Isumbong Itong Extension sa { -vendor-short-name }
+abuse-report-title-theme = Isumbong Itong Tema sa { -vendor-short-name }
+abuse-report-subtitle = Ano ang problema?
+# Variables:
+#   $author-name (string) - Name of the add-on author
+abuse-report-addon-authored-by = ni <a data-l10n-name="author-name">{ $author-name }</a>
 abuse-report-submit-description = Ilarawan ang problema (opsyonal)
 
 ## Panel buttons.
