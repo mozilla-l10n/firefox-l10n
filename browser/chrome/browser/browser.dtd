@@ -338,6 +338,7 @@
 <!ENTITY searchIcon.tooltip "Cerca">
 <!ENTITY searchFor.label "Cerca ">
 <!ENTITY searchWith.label " con:">
+<!ENTITY searchWithDesc.label "Adesso cerca con:">
 <!ENTITY searchWithHeader.label "Cerca con:">
 <!ENTITY search.label "Cerca con ">
 <!ENTITY searchAfter.label "">
