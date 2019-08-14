@@ -69,3 +69,5 @@ serviceworker-empty-suggestions-debugger = 逐步注册您的 Service Worker，�
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = 查看其他域名的 Service Worker。<a>打开 about:debugging</a>
+# Text displayed when no manifest was found for the current page.
+manifest-empty-intro = 未找到可查看的清单文件。

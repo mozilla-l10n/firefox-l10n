@@ -911,8 +911,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.description "网站可能会加载包含跟踪代码的外部广告、视频、其他内容。拦截跟踪内容可以让网站加载更快，但某些按钮、表单、登录字段可能无法正常工作。">
 <!ENTITY protections.socialMediaTrackers.description "社交网站将跟踪器嵌到其他网站，跟踪您在网上做了或看了什么。社交媒体公司对您的了解，绝不止于您在社交媒体上分享的信息。">
 
-<!ENTITY protections.manageProtectionSettings.label "管理保护设置">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "浏览器标签页">
@@ -949,20 +947,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "跟踪器">
 
+<!ENTITY contentBlocking.manageSettings.label "管理内容拦截">
+
 <!ENTITY contentBlocking.trackingProtection4.label "跟踪内容">
 
-<!ENTITY contentBlocking.manageSettings.label "管理内容拦截">
+<!ENTITY contentBlocking.manageSettings2.label "管理保护设置">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "跟踪器">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "要拦截所有跟踪器，请将内容拦截设置为“严格”。">
 
-<!ENTITY contentBlocking.socialblock.label "社交媒体跟踪器">
-<!ENTITY contentBlocking.socialblockView.label "已拦截社交媒体跟踪器">
-<!ENTITY contentBlocking.socialblockView.description "社交网站将跟踪器嵌到其他网站，跟踪您在网上做了或看了什么。社交媒体公司对您的了解，绝不止于您在社交媒体上分享的信息。">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "要拦截所有跟踪器，请将内容拦截设置为“严格”。">
 
 <!ENTITY contentBlocking.cookies.label "Cookie">
 <!ENTITY contentBlocking.cookiesView.label "Cookie 和网站数据">
+
+<!ENTITY contentBlocking.socialblock.label "社交媒体跟踪器">
+
+<!ENTITY contentBlocking.cookies2.label "跨网站跟踪型 Cookie">
 
 <!ENTITY contentBlocking.cryptominers.label "加密货币挖矿程序">
 <!ENTITY contentBlocking.cryptominersView.label "加密货币挖矿程序">
