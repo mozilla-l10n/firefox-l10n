@@ -808,10 +808,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 
 <!ENTITY identity.connectionSecure2 "Tilkoplinga er sikker">
-<!ENTITY identity.connectionNotSecure "Sambandet er ikkje trygt">
+<!ENTITY identity.connectionNotSecure "Tilkoplinga er ikkje sikker">
+<!ENTITY identity.connectionNotSecureSecurityView "Du er ikkje sikkert kopla til denne nettstaden.">
 <!ENTITY identity.connectionFile "Denne sida er lagra på datamaskina di.">
-<!ENTITY identity.connectionVerified2 "Du er trygt kopla til denne sida, eigd av:">
-<!ENTITY identity.connectionInternal "Dette er ei trygg &brandShortName;-side.">
+<!ENTITY identity.connectionVerified2 "Sikker tilkopling til nettstaden, eigd av:">
+<!ENTITY identity.connectionVerified3 "Du er sikkert kopla til denne nettstaden.">
+<!ENTITY identity.connectionInternal "Dette er ei sikker &brandShortName;-side.">
 <!ENTITY identity.extensionPage "Denne sida er lasta frå ei utviding.">
 <!ENTITY identity.insecureLoginForms2 "Innloggingsinfo skrive inn på denne sida kan lesast av tredjepart.">
 <!ENTITY identity.customRoot "Tilkoplinga vart stadfesta av ein sertifikatutskrivar som Mozilla ikkje kjenner.">
@@ -819,13 +821,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.evOwnerLabel "Nettstaden eigd av:">
 
 <!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&brandShortName; har blokkert delar av denne sida som ikkje er trygg.">
+<!ENTITY identity.activeBlocked "&brandShortName; har blokkert delar av denne sida som ikkje er sikre.">
 <!ENTITY identity.passiveLoaded "Delar av denne sida er ikkje trygg (til dømes bilde).">
 <!ENTITY identity.activeLoaded "Du har slått av vern på denne sida.">
 <!ENTITY identity.weakEncryption "Denne sida brukar ei svak kryptering.">
 
 <!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "Sambandet til denne sida er ikkje privat. Informasjon du sender kan sjåast av andre (slik som passord, meldingar, kredittkort osb.).">
+<!ENTITY identity.description.insecure "Tilkoplinga til denne nettstaden er ikkje privat. Informasjon du sender kan lesast av andre (som t.d. passord, meldingar, kredittkort osv.).">
 <!ENTITY identity.description.insecureLoginForms "Innloggingsinformasjonen du skreiv inn på denne sida er ikkje trygg og kan difor verte kompromittert.">
 <!ENTITY identity.description.weakCipher "Sambandet til denne nettsida brukar ei svak kryptering og er ikkje privat.">
 <!ENTITY identity.description.weakCipher2 "Andre personar kan sjå informasjon eller endre måten nettsida oppfører seg på.">
@@ -833,7 +835,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded "Sambandet til denne nettstaden er ikkje privat og informasjon du deler med denne sida kan sjåast av andre.">
 <!ENTITY identity.description.passiveLoaded2 "Denne nettsida har innhald som ikkje er trygt (t.d. bilde).">
 <!ENTITY identity.description.passiveLoaded3 "Sjølv om &brandShortName; har blokkert noko innhald, finst det framleis innhald på sida som ikkje er trygt (slik som bilde).">
-<!ENTITY identity.description.activeLoaded "Denne nettsida har innhald som ikkje er trygt (slik som skript) og sambandet ditt er difor ikkje privat.">
+<!ENTITY identity.description.activeLoaded "Denne nettstaden har innhald som ikkje er overført sikkert (slik som skript) og tilkoplinga di er difor ikkje privat.">
 <!ENTITY identity.description.activeLoaded2 "Informasjonen du deler med denne nettstaden kan sjåast av andre (t.d. passords, meldingar, kredittkort osb.).">
 <!ENTITY identity.description.customRoot "Mozilla kjenner ikkje att utskrivaren av dette sertifikatet. Det kan ha blitt lagt til av operativsystemet ditt, eller av ein administrator.">
 
