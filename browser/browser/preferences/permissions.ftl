@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Εξαιρέσεις - Φραγή περιεχομένου
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Έχετε απενεργοποιήσει τη φραγή περιεχομένου σε αυτές τις ιστοσελίδες.
+permissions-exceptions-etp-window =
+    .title = Εξαιρέσεις για τη βελτιωμένη προστασία από καταγραφή
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Έχετε απενεργοποιήσει την προστασία σε αυτές τις ιστοσελίδες.
 
 ## Exceptions - Cookies
 

@@ -6,6 +6,7 @@ about-logins-page-title = Συνδέσεις & κωδικοί πρόσβασης
 login-filter =
     .placeholder = Αναζήτηση συνδέσεων
 create-login-button = Δημιουργία νέας σύνδεσης
+fxaccounts-sign-in-button = Σύνδεση στο { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Διαχείριση λογαριασμού
 
@@ -13,6 +14,8 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Άνοιγμα μενού
+# This menuitem is only visible on Windows
+menu-menuitem-import = Εισαγωγή κωδικών πρόσβασης...
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Επιλογές
@@ -32,6 +35,7 @@ login-list-count =
     }
 login-list-sort-label-text = Ταξινόμηση κατά:
 login-list-name-option = Όνομα (Α-Ω)
+login-list-breached-option = Παραβιασμένες ιστοσελίδες
 login-list-last-changed-option = Τελευταία αλλαγή
 login-list-last-used-option = Τελευταία χρήση
 login-list-intro-title = Δεν βρέθηκαν συνδέσεις
@@ -43,6 +47,7 @@ login-list-item-subtitle-missing-username = (χωρίς όνομα χρήστη)
 
 ## Login
 
+login-item-new-login-title = Δημιουργία νέας σύνδεσης
 login-item-edit-button = Επεξεργασία
 login-item-delete-button = Διαγραφή
 login-item-origin-label = Διεύθυνση ιστοσελίδας
@@ -53,13 +58,18 @@ login-item-username-label = Όνομα χρήστη
 login-item-username =
     .placeholder = name@example.com
 login-item-copy-username-button-text = Αντιγραφή
+login-item-copied-username-button-text = Αντιγράφηκε!
 login-item-password-label = Κωδικός πρόσβασης
 login-item-password-reveal-checkbox-show =
     .title = Εμφάνιση κωδικού πρόσβασης
 login-item-copy-password-button-text = Αντιγραφή
+login-item-copied-password-button-text = Αντιγράφηκε!
 login-item-save-changes-button = Αποθήκευση αλλαγών
 login-item-save-new-button = Αποθήκευση
 login-item-cancel-button = Ακύρωση
+login-item-time-changed = Τελευταία αλλαγή: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Δημιουργία: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Τελευταία χρήση: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
@@ -76,6 +86,7 @@ confirm-delete-dialog-title = Διαγραφή σύνδεσης;
 confirm-delete-dialog-message = Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
 confirm-delete-dialog-confirm-button = Διαγραφή
 confirm-discard-changes-dialog-title = Απόρριψη μη αποθηκευμένων αλλαγών;
+confirm-discard-changes-dialog-message = Όλες οι μη αποθηκευμένες αλλαγές θα χαθούν.
 confirm-discard-changes-dialog-confirm-button = Απόρριψη
 
 ## Breach Alert notification
