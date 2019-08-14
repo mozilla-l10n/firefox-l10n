@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Excepciones - Bloqueo de contenidos
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Se deshabilitó el bloqueo de contenido en estos sitios.
+permissions-exceptions-etp-window =
+    .title = Excepciones  para la protección de rastreo mejorada
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Desactivó las protecciones en estos sitios web.
 
 ## Exceptions - Cookies
 

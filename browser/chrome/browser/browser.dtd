@@ -911,8 +911,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.description "Los sitios web pueden cargar anuncios externos, videos y otro contenido que contenga código de rastreo. El bloqueo del contenido de rastreo puede ayudar a que los sitios se carguen más rápido, pero es posible que algunos botones, formularios y campos de inicio de sesión no funcionen.">
 <!ENTITY protections.socialMediaTrackers.description "Las redes sociales ubican rastreadores en otros sitios web para seguir lo que hace, ve y mira en línea. Esto permite que las empresas de redes sociales aprendan más sobre usted más allá de lo que comparte en sus perfiles de redes sociales.">
 
-<!ENTITY protections.manageProtectionSettings.label "Administrar la configuración de protección">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Pestañas del navegador">
@@ -949,19 +947,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Rastreadores">
 
-
 <!ENTITY contentBlocking.manageSettings.label "Administrar el Bloqueo de contenido">
+
+<!ENTITY contentBlocking.trackingProtection4.label "Contenido de rastreo">
+
+<!ENTITY contentBlocking.manageSettings2.label "Administrar la configuración de protección">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "Rastreadores">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Para bloquear todos los rastreadores, configure el bloqueo de contenido en “Estricto”.">
 
-<!ENTITY contentBlocking.socialblock.label "Rastreadores de redes sociales">
-<!ENTITY contentBlocking.socialblockView.label "Rastreadores de redes sociales bloqueados">
-<!ENTITY contentBlocking.socialblockView.description "Las redes sociales ubican rastreadores en otros sitios web para seguir lo que hace, ve y mira en línea. Esto permite que las empresas de las redes sociales conozcan más sobre usted más allá de lo que comparte en sus perfiles de redes sociales.">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Para bloquear todos los rastreadores, configure el bloqueo de contenido en “Estricto”.">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies y datos del sitio">
+
+<!ENTITY contentBlocking.socialblock.label "Rastreadores de redes sociales">
+
+<!ENTITY contentBlocking.cookies2.label "Cookies de rastreo de sitios cruzados">
 
 <!ENTITY contentBlocking.cryptominers.label "Cryptominers">
 <!ENTITY contentBlocking.cryptominersView.label "Cryptominers">
