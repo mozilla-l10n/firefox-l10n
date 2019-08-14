@@ -159,9 +159,6 @@ private-browsing-description2 =
     { -brand-short-name } δεν θα εκτελούνται από προεπιλογή στα ιδιωτικά παράθυρα. Αν δεν το επιτρέψετε στις ρυθμίσεις, η
     επέκταση δεν θα λειτουργεί κατά την ιδιωτική περιήγηση και δεν θα έχει πρόσβαση στις διαδικτυακές σας δραστηριότητες εκεί. Έχουμε κάνει αυτή την αλλαγή για να παραμείνει η ιδιωτική σας περιήγηση ιδιωτική.
     <label data-l10n-name="private-browsing-learn-more">Μάθετε πώς να διαχειριστείτε τις ρυθμίσεις επεκτάσεων</label>
-extensions-view-discover =
-    .name = Λήψη προσθέτων
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Προτάσεις
     .tooltiptext = { extensions-view-discopane.name }
@@ -319,6 +316,16 @@ release-notes-addon-button = Σημειώσεις έκδοσης
 permissions-addon-button = Δικαιώματα
 addons-enabled-heading = Ενεργό
 addons-disabled-heading = Ανενεργό
+extension-enabled-heading = Ενεργό
+extension-disabled-heading = Ανενεργό
+theme-enabled-heading = Ενεργό
+theme-disabled-heading = Ανενεργό
+plugin-enabled-heading = Ενεργό
+plugin-disabled-heading = Ανενεργό
+dictionary-enabled-heading = Ενεργό
+dictionary-disabled-heading = Ανενεργό
+locale-enabled-heading = Ενεργό
+locale-disabled-heading = Ανενεργό
 ask-to-activate-button = Ερώτηση για ενεργοποίηση
 always-activate-button = Πάντα ενεργοποιημένο
 never-activate-button = Ποτέ ενεργοποιημένο
