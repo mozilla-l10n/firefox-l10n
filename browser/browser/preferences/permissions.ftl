@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Выключэнні - Блакаванне змесціва
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Вы адключылі блакаванне змесціва на гэтых сайтах.
+permissions-exceptions-etp-window =
+    .title = Выключэнні для ўзмоцненай аховы ад сачэння
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Вы адключылі ахову на гэтых сайтах.
 
 ## Exceptions - Cookies
 

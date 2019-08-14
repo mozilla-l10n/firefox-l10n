@@ -717,6 +717,7 @@ addressbar-suggestions-settings = Змяніць налады для падка�
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Блакаванне змесціва
+content-blocking-enhanced-tracking-protection = Узмоцненая ахова ад сачэння
 content-blocking-section-description = Ахоўвайце сваю прыватнасць у час аглядання. Блакуйце нябачнае змесціва, якое асочвае сайты, што вы наведваеце, і збірае ваш профіль. Блакаванне часткі гэтага змесціва можа паскорыць загрузку старонак.
 content-blocking-learn-more = Падрабязней
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
