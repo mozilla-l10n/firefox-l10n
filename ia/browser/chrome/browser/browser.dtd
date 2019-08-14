@@ -951,6 +951,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection4.label "Contento traciante">
 
+<!ENTITY contentBlocking.manageSettings2.label "Gerer parametros de protection">
 <!ENTITY contentBlocking.manageSettings.accesskey "G">
 
 <!ENTITY contentBlocking.trackersView.label "Traciatores">
@@ -962,6 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.socialblock.label "Traciatores de medios social">
 
+<!ENTITY contentBlocking.cookies2.label "Le cookies de traciamento tra sitos">
 
 <!ENTITY contentBlocking.cryptominers.label "Cryptominatores">
 <!ENTITY contentBlocking.cryptominersView.label "Cryptominatores">
@@ -974,6 +976,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "Le Blocada de contentos pote causar problemas con alcun sitos web. Quando tu reporta problemas, tu adjutara a render &brandShortName; melior pro totes. (Isto inviara a Mozilla un URL tam ben como informationes circa configurationes de tu navigator.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Saper plus">
 <!ENTITY contentBlocking.breakageReportView.title "Reportar sito rupte">
+<!ENTITY contentBlocking.breakageReportView3.description "Blocar certe traciatores pote causar problemas con alcun sitos web. Reportar iste problemas adjuta render melior &brandShortName; pro totes. Le invio de iste reporto transmittera a Mozilla un URL e informationes re parametros de tu navigator.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Saper plus">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Que problema ha tu? (Optional)">
