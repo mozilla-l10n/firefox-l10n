@@ -146,6 +146,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Başka bir cihaz bağla…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!ENTITY fxa.menu.signin.label "&brandProductName;’a giriş yap">
+<!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label;’i etkinleştir">
 <!ENTITY fxa.menu.account.label "Hesap">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; hizmetleri">
 
@@ -909,8 +911,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.description "Web siteler takip kodu içeren harici reklam, video ve diğer içerikleri yükleyebilirler. Takip içeriğini engellemek sitelerin daha hızlı yüklenmesine yardımcı olabilir, fakat bazı düğme, form ve giriş alanları çalışmayabilir.">
 <!ENTITY protections.socialMediaTrackers.description "Sosya ağlar, internette yaptıklarınızı, gördüklerinizi ve izlediklerinizi takip etmek için diğer web sitelerine takipçiler yerleştirirler. Bu sayede sosyal medya şirketleri, sosyal medya profillerinizde paylaştıklarınızdan çok daha fazla şey öğrenebilir.">
 
-<!ENTITY protections.manageProtectionSettings.label "Koruma ayarlarını yönet">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Tarayıcı sekmeleri">
@@ -947,20 +947,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Takipçiler">
 
+<!ENTITY contentBlocking.manageSettings.label "İçerik engellemeyi yönet">
+
 <!ENTITY contentBlocking.trackingProtection4.label "Takip amaçlı içerikler">
 
-<!ENTITY contentBlocking.manageSettings.label "İçerik engellemeyi yönet">
+<!ENTITY contentBlocking.manageSettings2.label "Koruma ayarlarını yönet">
 <!ENTITY contentBlocking.manageSettings.accesskey "e">
 
 <!ENTITY contentBlocking.trackersView.label "Takipçiler">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Tüm takipçileri engellemek için içerik engellemeyi “Sıkı” olarak ayarlayın.">
 
-<!ENTITY contentBlocking.socialblock.label "Sosyal medya takipçileri">
-<!ENTITY contentBlocking.socialblockView.label "Engellenen sosyal medya takipçileri">
-<!ENTITY contentBlocking.socialblockView.description "Sosya ağlar, internette yaptıklarınızı, gördüklerinizi ve izlediklerinizi takip etmek için diğer web sitelerine takipçiler yerleştirirler. Bu sayede sosyal medya şirketleri, sosyal medya profillerinizde paylaştıklarınızdan çok daha fazla şey öğrenebilir.">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Tüm takipçileri engellemek için içerik engellemeyi “Sıkı” olarak ayarlayın.">
 
 <!ENTITY contentBlocking.cookies.label "Çerezler">
 <!ENTITY contentBlocking.cookiesView.label "Çerezler ve site verileri">
+
+<!ENTITY contentBlocking.socialblock.label "Sosyal medya takipçileri">
+
+<!ENTITY contentBlocking.cookies2.label "Siteler arası takip çerezleri">
 
 <!ENTITY contentBlocking.cryptominers.label "Kripto madenciler">
 <!ENTITY contentBlocking.cryptominersView.label "Kripto madenciler">

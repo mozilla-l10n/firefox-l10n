@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = İstisnalar - İçerik Engelleme
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Aşağıdaki web sitelerinde içerik engellemeyi kapattınız.
+permissions-exceptions-etp-window =
+    .title = Gelişmiş İzlenme Koruması İstisnaları
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Aşağıdaki web sitelerinde korumaları kapattınız.
 
 ## Exceptions - Cookies
 

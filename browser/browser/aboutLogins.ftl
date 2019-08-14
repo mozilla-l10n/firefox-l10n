@@ -11,7 +11,7 @@ create-login-button = Yeni hesap oluştur
 #   $title (String) - The title of the website associated with the favicon.
 login-favicon =
     .alt = { $title } favicon'u
-fxaccounts-sign-in-text = Parolalarınıza diğer cihazlarınızdan da ulaşın
+fxaccounts-sign-in-text = Parolalarınızı tüm cihazlarınıza aktarın
 fxaccounts-sign-in-button = { -sync-brand-short-name }’e giriş yapın
 fxaccounts-avatar-button =
     .title = Hesabı yönet
