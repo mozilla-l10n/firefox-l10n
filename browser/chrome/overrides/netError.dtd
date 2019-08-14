@@ -173,7 +173,7 @@ was trying to connect. -->
 <!ENTITY remoteXUL.title "XUL מרוחק">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>פנה אל בעלי האתר כדי ליידע אותם על הבעיה.</li></ul></p>">
 
-<!ENTITY sslv3Used.title "לא ניתן להיכנס באופן מאובטח">
+<!ENTITY sslv3Used.title "לא ניתן להתחבר באופן מאובטח">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "מידע מתקדם: SSL_ERROR_UNSUPPORTED_VERSION">
