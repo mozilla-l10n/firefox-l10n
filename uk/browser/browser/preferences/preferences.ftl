@@ -683,6 +683,10 @@ sitedata-block-desc = Тип блокування
     .accesskey = и
 sitedata-option-block-trackers =
     .label = Стороннє стеження
+sitedata-option-block-cross-site-trackers =
+    .label = Стеження між сайтами
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = Стеження між сайтами і соціальні мережі
 sitedata-option-block-unvisited =
     .label = Куки з невідвіданих веб-сайтів
 sitedata-option-block-all-third-party =
@@ -717,6 +721,7 @@ addressbar-suggestions-settings = Змінити налаштування про
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Блокування вмісту
+content-blocking-enhanced-tracking-protection = Розширений захист від стеження
 content-blocking-section-description = Захищайте свою приватність під час перегляду. Блокуйте невидимий вміст, що відстежує відвідані вами сайти і створює ваш профіль. Блокування деякого вмісту може пришвидшити завантаження сторінок.
 content-blocking-learn-more = Докладніше
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -735,9 +740,16 @@ content-blocking-strict-description = Сильніший захист. Може 
 content-blocking-custom-desc = Оберіть, що блокувати.
 content-blocking-private-trackers = Відомі елементи стеження лише у приватних вікнах
 content-blocking-third-party-cookies = Сторонні куки стеження
+content-blocking-etp-standard-desc = Збалансований захист і швидкодія. Сторінки завантажуватимуться нормально.
+content-blocking-etp-strict-desc = Надійніший захист, але може пошкоджувати деякі сайти чи їх вміст.
+content-blocking-etp-custom-desc = Оберіть тип стеження і скриптів для блокування.
+content-blocking-private-windows = Стеження в приватних вікнах
+content-blocking-cross-site-tracking-cookies = Куки стеження між сайтами
+content-blocking-social-media-trackers = Стеження соціальних мереж
 content-blocking-all-cookies = Усі куки
 content-blocking-unvisited-cookies = Куки з невідвіданих сайтів
 content-blocking-all-windows-trackers = Відомі елементи стеження у всіх вікнах
+content-blocking-all-windows-tracking-content = Стеження у всіх вікнах
 content-blocking-all-third-party-cookies = Усі сторонні куки
 content-blocking-cryptominers = Криптомайнери
 content-blocking-fingerprinters = Зчитування відбитку браузера
