@@ -57,6 +57,7 @@ login-list-item-subtitle-missing-username = (ikkje noko brukarnamn)
 login-intro-heading = Ser du etter lagra innloggingar? Konfigurer { -sync-brand-short-name }
 login-intro-description = Slik kan du få { -brand-product-name }-innloggingane dine hit, om du har lagra dei på ei anna eining:
 login-intro-instruction-fxa = Lag eller logg inn på { -fxaccount-brand-name } på eininga der innloggingane dine er lagra
+login-intro-instruction-faq = Gå til { -lockwise-brand-short-name } <a data-l10n-name="faq">ofte stilte spørsmål</a> for meir hjelp
 
 ## Login
 
@@ -98,6 +99,11 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Avbryt
 confirmation-dialog-dismiss-button =
     .title = Avbryt
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Vil du ha innloggingar overalt der du brukar { -brand-product-name }? Gå til { -sync-brand-short-name }-innstillingane, og vel avkryssingsboksen for Innloggingar.
+       *[other] Vil du ha innloggingar overalt der du brukar { -brand-product-name }? Gå til { -sync-brand-short-name }-innstillingane, og vel avkryssingsboksen for Innloggingar.
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -109,8 +115,10 @@ confirm-delete-dialog-title = Slette denne innlogginga?
 confirm-delete-dialog-message = Denne handlinga kan ikkje angrast.
 confirm-delete-dialog-confirm-button = Slett
 confirm-discard-changes-dialog-title = Vil du forkaste endringar som ikkje er lagra?
+confirm-discard-changes-dialog-message = Alle ikkje-lagra endringar vil gå tapt.
 confirm-discard-changes-dialog-confirm-button = Ignorer
 
 ## Breach Alert notification
 
+breach-alert-text = Passord vart lekne eller stolne frå denne nettstaden sidan du sist oppdaterte innloggingsdetaljane dine. Endre passordet ditt for å beskytte kontoen din.
 breach-alert-link = Les meir om denne datalekkasjen.
