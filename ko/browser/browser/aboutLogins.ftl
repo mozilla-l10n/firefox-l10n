@@ -6,8 +6,15 @@ about-logins-page-title = 로그인과 비밀번호
 login-filter =
     .placeholder = 로그인 검색
 create-login-button = 새 로그인 만들기
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = { $title }의 파비콘
 fxaccounts-sign-in-text = 다른 기기에서 비밀번호 받기
 fxaccounts-sign-in-button = { -sync-brand-short-name }에 로그인
+fxaccounts-avatar-button =
+    .title = 계정 관리
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -35,6 +42,7 @@ login-list-count =
     }
 login-list-sort-label-text = 정렬 방식:
 login-list-name-option = 이름 (A-Z)
+login-list-breached-option = 유출된 웹 사이트
 login-list-last-changed-option = 마지막 수정
 login-list-last-used-option = 마지막 사용
 login-list-intro-title = 로그인을 찾을 수 없음

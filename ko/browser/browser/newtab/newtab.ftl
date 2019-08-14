@@ -116,6 +116,7 @@ newtab-menu-open-file = 파일 열기
 
 newtab-label-visited = 방문한 사이트
 newtab-label-bookmarked = 즐겨찾기
+newtab-label-removed-bookmark = 북마크 삭제됨
 newtab-label-recommended = 트랜드
 newtab-label-saved = { -pocket-brand-name }에 저장됨
 newtab-label-download = 다운로드됨
