@@ -952,7 +952,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection4.label "Slědujuce wopśimjeśe">
 
 <!ENTITY contentBlocking.manageSettings2.label "Šćitowe nastajenja zastojaś">
-<!ENTITY contentBlocking.manageSettings.accesskey "B">
+<!ENTITY contentBlocking.manageSettings.accesskey "z">
 
 <!ENTITY contentBlocking.trackersView.label "Pśeslědowaki">
 
