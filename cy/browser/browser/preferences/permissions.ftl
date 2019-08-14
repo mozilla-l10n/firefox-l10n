@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Eithriadau - Rhwystro Cynnwys
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Rydych wedi analluogi rhwystro cynnwys ar y gwefannau hyn.
+permissions-exceptions-etp-window =
+    .title = Eithriadau ar gyfer Diogelu Rhag Tracio Uwch
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Rydych wedi diffodd y diogelu ar y gwefannau hyn.
 
 ## Exceptions - Cookies
 
