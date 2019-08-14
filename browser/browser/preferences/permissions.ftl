@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = გამონაკლისები – შიგთავსის შეზღუდვა
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = თქვენ ამ ვებგვერდებზე შიგთავსის შეზღუდვა გამორთული გაქვთ.
+permissions-exceptions-etp-window =
+    .title = გამონაკლისები, თვალთვალისგან გაძლიერებული დაცვის
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = ამ საიტებისთვის, დაცვა გამორთული გაქვთ
 
 ## Exceptions - Cookies
 
