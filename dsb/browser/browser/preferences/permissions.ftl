@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Wuwześa - Blokěrowanje wopśimjeśa
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Sćo znjemóžnił blokěrowanje wopśimjeśa na toś tych websedłach.
+permissions-exceptions-etp-window =
+    .title = Wuwześa za pólěpšony slědowański šćit
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Sćo znjemóžnił šćit na toś tych websedłach.
 
 ## Exceptions - Cookies
 

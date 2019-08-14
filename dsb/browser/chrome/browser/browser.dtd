@@ -911,8 +911,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.description "Websedła mógu eksterne wabjenje, wideo a druge wośimjeśe zacytaś, kótarež slědujucy kod wopśimuju. Gaž slědujuce wopśimjeśe blokěrujośo, móžo to pomagaś, sedła malsnjej zacytaś, ale někotare tłocaški, formulary a pśizjawjeńske póla snaź wěcej njebudu funkcioněrowaś.">
 <!ENTITY protections.socialMediaTrackers.description "Socialne seśi placěruju pśeslědowaki na drugich websedłach, aby slědowali, což online gótujośo, wiźiśo a se wobglědujośo. To pśedewześam socialnych medijow dowólujo, wěcej wó was zgónił ako w profilach socialnych medijow źěliśo.">
 
-<!ENTITY protections.manageProtectionSettings.label "Šćitowe nastajenja zastojaś">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Rejtarki wobglědowaka">
@@ -949,20 +947,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Pśeslědowaki">
 
+<!ENTITY contentBlocking.manageSettings.label "Blokěrowanje wopśimjeśa zastojaś">
+
 <!ENTITY contentBlocking.trackingProtection4.label "Slědujuce wopśimjeśe">
 
-<!ENTITY contentBlocking.manageSettings.label "Blokěrowanje wopśimjeśa zastojaś">
+<!ENTITY contentBlocking.manageSettings2.label "Šćitowe nastajenja zastojaś">
 <!ENTITY contentBlocking.manageSettings.accesskey "B">
 
 <!ENTITY contentBlocking.trackersView.label "Pśeslědowaki">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Aby wšykne pśeslědowaki blokěrował, stajśo blokěrowanje wopśimjeśa na “Striktny”.">
 
-<!ENTITY contentBlocking.socialblock.label "Pśeslědowaki socialnych medijow">
-<!ENTITY contentBlocking.socialblockView.label "Pśeslědowaki socialnych medijow su zablokěrowane">
-<!ENTITY contentBlocking.socialblockView.description "Socialne seśi placěruju pśeslědowaki na drugich websedłach, aby slědowali, což online gótujośo, wiźiśo a se wobglědujośo. To pśedewześam socialnych medijow dowólujo, wěcej wó was zgónił ako w profilach socialnych medijow źěliśo.">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Aby wšykne pśeslědowaki blokěrował, stajśo blokěrowanje wopśimjeśa na “Striktny”.">
 
 <!ENTITY contentBlocking.cookies.label "Cookieje">
 <!ENTITY contentBlocking.cookiesView.label "Cookieje a sedłowe daty">
+
+<!ENTITY contentBlocking.socialblock.label "Pśeslědowaki socialnych medijow">
+
+<!ENTITY contentBlocking.cookies2.label "Slědujuce cookieje mjazy sedłami">
 
 <!ENTITY contentBlocking.cryptominers.label "Kryptokopanje">
 <!ENTITY contentBlocking.cryptominersView.label "Kryptokopanje">
