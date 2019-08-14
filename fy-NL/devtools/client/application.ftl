@@ -69,3 +69,5 @@ serviceworker-empty-suggestions-debugger = Stap tooch jo registraasje fan de Ser
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Ynspektearje Service Workers fan oare domeinen. <a>about:debugging iepenje</a>
+# Text displayed when no manifest was found for the current page.
+manifest-empty-intro = Te ynspektearjen manifest net fûn.
