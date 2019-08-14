@@ -57,3 +57,13 @@ rcwn-avg-long = Lang gemiddelde
 rcwn-std-dev-long = Lange standertdeviaasje
 rcwn-cache-slow = Oantal trage buffers
 rcwn-cache-not-slow = Oantal net-trage buffers
+networkid = Netwurk-ID
+networkid-id = Netwurk-ID
+
+## Link is intended as "network link"
+
+networkid-isUp = Keppeling is beskikber
+networkid-statusKnown = Keppelingssteat is bekend
+
+
+
