@@ -47,6 +47,9 @@ newtab-topsites-add-button = Προσθήκη
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Θέλετε σίγουρα να διαγράψετε κάθε παρουσία της σελίδας αυτής από το ιστορικό σας;
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Προσθήκη σελιδοδείκτη
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Αντιγραφή συνδέσμου λήψης
 newtab-menu-go-to-download-page = Μετάβαση στη σελίδα λήψης
 newtab-menu-remove-download = Αφαίρεση από το ιστορικό
@@ -109,11 +116,16 @@ newtab-menu-open-file = Άνοιγμα αρχείου
 
 newtab-label-visited = Από ιστορικό
 newtab-label-bookmarked = Από σελιδοδείκτες
+newtab-label-removed-bookmark = Ο σελιδοδείκτης αφαιρέθηκε
 newtab-label-recommended = Τάσεις
 newtab-label-saved = Αποθηκεύτηκε στο { -pocket-brand-name }
 newtab-label-download = Λήψεις
 
 ## Section Menu: These strings are displayed in the section context menu and are 
+## meant as a call to action for the given section.
+
+
+## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = Αφαίρεση ενότητας
@@ -126,6 +138,13 @@ newtab-section-menu-add-search-engine = Προσθήκη μηχανής αναζ
 newtab-section-menu-move-up = Μετακίνηση επάνω
 newtab-section-menu-move-down = Μετακίνηση κάτω
 newtab-section-menu-privacy-notice = Σημείωση απορρήτου
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Σύμπτυξη ενότητας
+newtab-section-expand-section-label =
+    .aria-label = Επέκταση ενότητας
 
 ## Section Headers.
 
