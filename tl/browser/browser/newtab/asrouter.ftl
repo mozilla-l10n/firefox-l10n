@@ -2,8 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Rekomendadong Ekstensyon
+cfr-doorhanger-feature-heading = Inirerekomenda na Tampok
 cfr-doorhanger-pintab-heading = Subukan: Mag-pin ng Tab
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Bakit ko nakikita ito
 cfr-doorhanger-extension-cancel-button = Hindi Ngayon
@@ -69,3 +76,14 @@ cfr-whatsnew-button =
     .label = Ano ang Bago
     .tooltiptext = Ano ang Bago
 cfr-whatsnew-panel-header = Ano ang Bago
+
+## Bookmark Sync
+
+cfr-doorhanger-sync-bookmarks-header = Kunin ang bookmark na ito sa iyong telepono
+
+## Send Tab
+
+
+## Firefox Send
+
+cfr-doorhanger-firefox-send-header = Ibahagi ang PDF na ito sa ligtas na paraan

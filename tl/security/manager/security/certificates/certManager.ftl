@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+certmgr-tab-mine =
+    .label = Mga Certificate Mo
+certmgr-tab-people =
+    .label = Mga Tao
+certmgr-tab-servers =
+    .label = Mga Server
+certmgr-tab-ca =
+    .label = Mga AuthorityMga Awtoridad
 certmgr-detail-general-tab-title =
     .label = Pangkalahatan
     .accesskey = P

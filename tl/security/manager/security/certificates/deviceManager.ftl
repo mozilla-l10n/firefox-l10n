@@ -7,6 +7,8 @@
 
 devmgr-header-details =
     .label = Detalye
+devmgr-header-value =
+    .label = Halaga
 devmgr-button-login =
     .label = Mag - Log In
     .accesskey = n
@@ -16,23 +18,42 @@ devmgr-button-logout =
 devmgr-button-changepw =
     .label = Palitan ang Password
     .accesskey = P
+devmgr-button-load =
+    .label = I-load
+    .accesskey = L
 devmgr-button-unload =
     .label = I-unload
     .accesskey = U
+devmgr-button-enable-fips =
+    .label = I-enable ang FIPS
+    .accesskey = F
+devmgr-button-disable-fips =
+    .label = I-disable ang FIPS
+    .accesskey = F
 
 ## Strings used for load device
 
+load-device =
+    .title = I-load ang PKCS#11 Device Driver
 load-device-info = Ipasok ang impormasyon para sa module na gusto mong idagdag.
+load-device-modname =
+    .value = Pangalan ng Module
+    .accesskey = M
 load-device-modname-default =
     .value = Bago PKCS#11 Module
+load-device-filename =
+    .value = Filename ng Module
+    .accesskey = f
 load-device-browse =
-    .label = Mag browse…
+    .label = Mag-browse…
     .accesskey = B
 
 ## Token Manager
 
 devinfo-status =
     .label = Status
+devinfo-status-not-logged-in =
+    .label = Hindi Naka-Login
 devinfo-status-logged-in =
     .label = Nakalog-in
 devinfo-status-ready =
@@ -55,11 +76,14 @@ devinfo-label =
 devinfo-serialnum =
     .label = Serial Number
 fips-nonempty-password-required = FIPS mode ay nangangailangan na mayroon kang isang Master Password set para sa bawat security device. Mangyaring itakda ang password bago subukang mapagana ang FIPS mode.
+unable-to-toggle-fips = Hindi kayang baguhin ang FIPS mode para sa security device. Minumungkahing isara mo at i-restart itong application.
+load-pk11-module-file-picker-title = Pumili ng PKCS#11 device driver na ilo-load
 # Load Module Dialog
 load-module-help-empty-module-name =
     .value = Ang pangalan ng module ay hindi maaaring walang laman.
 # Do not translate 'Root Certs'
 load-module-help-root-certs-module-name =
     .value = ‘Root Certs‘ ay nakareserba at hindi maaaring gamitin bilang pangalan ng module.
+add-module-failure = Hindi nakapagdagdag ng module
 del-module-warning = Sigurado ka bang gusto mong burahin itong security module?
 del-module-error = Hindi kayang mabura ang module

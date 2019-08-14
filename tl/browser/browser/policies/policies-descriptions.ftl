@@ -57,22 +57,31 @@ policy-ExtensionSettings = I-manage ang lahat ng aspeto ng pag-install ng mga ex
 policy-ExtensionUpdate = I-enable o i-disable ang awtomatikong pag-update ng mga extension.
 policy-FirefoxHome = I-configure ang Firefox Home.
 policy-FlashPlugin = Payagan o pagbawalan ang paggamit ng Flash plugin.
+policy-HardwareAcceleration = Kapag mali, patayin and hardware acceleration.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = I-set at i-lock (optional) ang homepage.
 policy-InstallAddonsPermission = Payagan ang ilang mga website na mag-install ng mga add-on.
 policy-LocalFileLinks = Payagan ang ilang mga website na mag-link sa mga local file.
 policy-NetworkPrediction = I-enable o i-disable ang network prediction (DNS prefetching).
 policy-NewTabPage = I-enable o i-disable ang New Tab page.
 policy-NoDefaultBookmarks = I-disable ang paggawa ng mga default bookmark na kasama sa { -brand-short-name }, at mga Smart Bookmark (Most Visited, Recent Tags). Note: ang policy na ito ay may pakinabang lang kapag ginamit bago ang unang pagtakbo ng profile.
 policy-OfferToSaveLogins = Ipatupad ang setting para payagan ang { -brand-short-name } na mag-alok na tandaan ang mga naka-save na login at password. Parehong tinatanggap ang mga true at false na value.
+policy-OverrideFirstRunPage = I-override ang first run page. I-set ang policy na ito sa blangko kung gusto mong i-disable ang first run page.
 policy-OverridePostUpdatePage = Baguhin ang post-update sa "What's New" page. I set ito sa blangko kapag gusto mong wag paganahin ang post-update page.
 policy-Permissions = Ayusin ang mga pahintulot para sa camera ,mikropono, lokasyon at notification.
 policy-PopupBlocking = Payagan ang mga piling website para magpakita ng popup by default.
+policy-Preferences = I-set at i-lock ang value para sa ilang piling mga preference.
 policy-PromptForDownloadLocation = Magtanong kung saan maaaring mag save ng file kapag nag-download.
 policy-Proxy = Ayusin ang proxy settings.
 policy-RequestedLocales = I-set ang listahan ng mga hinihinging locale para sa application ayon sa ninanais na pagkakasunod.
 policy-SanitizeOnShutdown2 = Burahin ang navigation data kapag nag-shutdown.
 policy-SearchBar = I-set ang default location ng search bar. Pinapayagan pa rin ang user na baguhin ito.
+policy-SearchEngines = I-configure ang mga setting ng search engine. Ang policy na ito ay matatagpuan lamang sa Extended Support Release (ESR) version.
+policy-SearchSuggestEnabled = I-enable o i-disable ang mga search suggestion.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = I-install ang mga module para sa PKCS #11.
 policy-SSLVersionMax = I-set ang maximum SSL version.
 policy-SSLVersionMin = I-set ang minimum SSL version.
 policy-SupportMenu = Magdagdag ng custom support menu item sa help menu.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Pigilang mabisita ang mga website. Tingnan ang documentation para sa karagdagang impormasyon sa format.

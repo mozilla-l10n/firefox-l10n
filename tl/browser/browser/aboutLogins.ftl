@@ -105,11 +105,21 @@ enable-password-sync-notification-message =
         [windows] Gusto mo bang magamit ang mga login mo kahit saan mo dalhin ang { -brand-product-name }? Puntahan ang iyong mga Option sa { -sync-brand-short-name } at piliin ang Mga Login na checkbox.
        *[other] Gusto mo bang magamit ang mga login mo kahit saan mo dalhin ang { -brand-product-name }? Puntahan ang iyong mga Preference sa { -sync-brand-short-name } at piliin ang Mga Login na checkbox.
     }
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Tingnan ang mga kagustuhan para sa { -sync-brand-short-name }
+           *[other] Tingnan ang mga kagustuhan para sa { -sync-brand-short-name }
+        }
+    .accesskey = V
 confirm-delete-dialog-title = Burahin ang login na ito?
 confirm-delete-dialog-message = Itong action ay hindi na mababawi.
 confirm-delete-dialog-confirm-button = Burahin
+confirm-discard-changes-dialog-title = Itapon ang mga hindi nai-save na pagbabago?
 confirm-discard-changes-dialog-message = Lahat ng hindi nai-save na mga pagbabago ay mawawala.
 confirm-discard-changes-dialog-confirm-button = Balewalain
 
 ## Breach Alert notification
 
+breach-alert-text = May mga passwords na nabunyag o ninakaw mula sa website na ito mula noong huli kang nag-update sa ang iyong mga detalye sa pag-login.Baguhin ang iyong password upang maprotektahan ang iyong account.
+breach-alert-link = Matuto ng higit pa tungkol sa paglabag na ito.
