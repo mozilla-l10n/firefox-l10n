@@ -81,11 +81,13 @@
 <!ENTITY manual-edit.label               "Configurazione manuale">
 <!ENTITY manual-edit.accesskey           "M">
 <!ENTITY manual-config.label             "Configura manualmente…">
+<!ENTITY manual-config.accesskey         "m">
 <!ENTITY open-provisioner.label          "Ottieni un nuovo indirizzo di posta elettronica…">
 <!ENTITY open-provisioner.accesskey      "o">
 
 
 <!ENTITY get-help.label                  "Richiedi supporto">
+<!ENTITY get-help.accesskey              "s">
 
 
 <!ENTITY warning.label                   "Attenzione!">
