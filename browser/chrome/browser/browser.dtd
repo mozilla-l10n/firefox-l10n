@@ -937,7 +937,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection4.label "תוכן מעקב">
 
 <!ENTITY contentBlocking.manageSettings2.label "ניהול הגדרות הגנה">
-<!ENTITY contentBlocking.manageSettings.accesskey "ס">
+<!ENTITY contentBlocking.manageSettings.accesskey "נ">
 
 <!ENTITY contentBlocking.trackersView.label "רכיבי מעקב">
 
