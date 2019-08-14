@@ -13,7 +13,7 @@
 <!ENTITY connectionFailure.title "ਕੁਨੈਕਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY deniedPortAccess.title "ਇਹ ਐਡਰੈਸ ਉੱਤੇ ਪਾਬੰਦੀ ਹੈ">
+<!ENTITY deniedPortAccess.title "ਇਹ ਸਿਰਨਾਵੇਂ ‘ਤੇ ਪਾਬੰਦੀ ਹੈ">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "ਸਰਵਰ ਨਹੀਂ ਲੱਭਿਆ">
@@ -70,7 +70,7 @@
 </ul>
 ">
 
-<!ENTITY netInterrupt.title "ਕੁਨੈਕਸ਼ਨ ਵਿੱਚ ਰੁਕਾਵਟ ਆਈ">
+<!ENTITY netInterrupt.title "ਕਨੈਕਸ਼ਨ ਵਿੱਚ ਰੁਕਾਵਟ ਆਈ">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "ਦਸਤਾਵੇਜ਼ ਦੀ ਮਿਆਦ ਪੁੱਗੀ">
