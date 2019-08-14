@@ -641,7 +641,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY home_bookmarks_empty "ਤੁਹਾਡੇ ਸੰਭਾਲੇ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਇੱਥੇ ਦਿਖਾਇਆ ਜਾਵੇਗਾ।">
 <!ENTITY home_closed_tabs_title2 "ਤਾਜ਼ਾ ਬੰਦ ਕੀਤੇ">
 <!ENTITY home_last_tabs_empty "ਤੁਹਾਡੀਆਂ ਹਾਲ ਦੀਆਂ ਟੈਬਾਂ ਨੂੰ ਇੱਥੇ ਦਿਖਾਇਆ ਜਾਵੇਗਾ।">
-<!ENTITY home_restore_all "ਸਭ ਨੂੰ ਮੁੜ-ਸਟੋਰ ਕਰੋ">
+<!ENTITY home_restore_all "ਸਭ ਨੂੰ ਬਹਾਲ ਕਰੋ">
 <!ENTITY home_closed_tabs_number "&formatD; ਟੈਬਾਂ">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 ਟੈਬ">
