@@ -9,10 +9,7 @@
 <!ENTITY retry.label "Prøv på nytt">
 <!ENTITY returnToPreviousPage.label "Gå tilbake">
 <!ENTITY returnToPreviousPage1.label "Gå tilbake (Tilrådd)">
-<!ENTITY advanced.label "Avansert">
-<!ENTITY continue2.label "Meir…">
 <!ENTITY advanced2.label "Avansert…">
-<!ENTITY moreInformation.label "Meir informasjon">
 <!ENTITY viewCertificate.label "Vis sertifikat">
 
 <!-- Specific error messages -->
@@ -94,13 +91,11 @@
 <!ENTITY nssFailure2.title "Trygt samband feila">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Sida du prøver å opne kan ikkje visast fordi det ikkje kan stadfestast at overførte data er autentiske.</li> <li>Kontakt nettstadeigarane og informer om problemet.</li> </ul>">
 
-<!ENTITY certerror.longpagetitle1 "Tilkoplinga di er ikkje trygg">
 <!ENTITY certerror.longpagetitle2 "Åtvaring: Potensiell sikkerheitsrisiko forut">
 <!ENTITY certerror.sts.longpagetitle  "Kopla ikkje til: Potensielt tryggingsproblem">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "Eigaren av <span class='hostname'/> har konfigurert nettstaden sin feil.  For å verne informasjonen din frå å bli stolen, har &brandShortName; ikkje kopla seg til denne nettstaden.">
 <!ENTITY certerror.introPara2 "&brandShortName; oppdaga ein potensiell sikkerheitstrussel og fortsette ikkje til <span class='hostname'/>. Viss du besøkjer denne nettstaden, kan angriparane prøve å stele informasjon som passord, e-post eller kredittkortdetaljar.">
 <!ENTITY certerror.sts.introPara "&brandShortName; oppdaga ein potensiell sikkerheitstrussel og held ikkje fram til <span class='hostname'/> fordi denne nettstaden krev ei sikker tilkopling.">
 
@@ -132,8 +127,6 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "Øydelagt innhald">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Sida du prøver å vise kan ikkje opnast fordi ein feil i dataoverføringa vart oppdaga.</p><ul><li>Kontakt eigarane av nettstaden og informer dei om dette problemet.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Legg til eit unntak…">
 <!ENTITY securityOverride.exceptionButton1Label "Godta risikoen og fortset">
 
 <!ENTITY errorReporting.automatic2 "Rapporter feil som dette for å hjelpe Mozilla med å identifisere og blokkere skadelege nettstadar">
@@ -147,20 +140,12 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Avansert info: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; kopla seg ikkje til <span id='wrongSystemTime_URL'/> fordi datamaskinklokka ser ut til å visa feil tid og dette hindrar ei trygg tilkopling.</p> <p>Datamaskina di er innstilt på <span id='wrongSystemTime_systemDate'/>, når ho burde vere <span id='wrongSystemTime_actualDate'/>. For å rette opp dette problemet, endre dato- og tidsinnstillingar slik at rett tid vert vist.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; kopla ikkje til <span id='wrongSystemTimeWithoutReference_URL'/> fordi datamaskinklokka di ser ut til å vise feil tid, og dette hindrar ei trygg tilkopling</p> <p>Datamaskina di er innstillt på <span id='wrongSystemTimeWithoutReference_systemDate'/>. For å rette opp feilen, endrar du dato- og tidsinnstillingar slik at rett tid vert vist.</p>">
-
-<!ENTITY certerror.pagetitle1  "Usikker tilkopling">
 <!ENTITY certerror.pagetitle2  "Åtvaring: Potensiell sikkerheitsrisiko forut">
 <!ENTITY certerror.sts.pagetitle  "Kopla ikkje til: Potensielt tryggingsproblem">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Denne nettstaden brukar HTTP Strict Transport Security (HSTS) for å spesifisere at &brandShortName; berre skal kople til trygt. Derfor kan ein ikkje leggje til eit unntak for dette sertifikatet.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> har ein sikkerhetspolicy kalt HTTP Strict Transport Security (HSTS), som betyr at &brandShortName; berre kan kople til den sikkert. Du kan ikkje leggje til eit unntak for å besøkje denne nettstaden.">
 <!ENTITY certerror.copyToClipboard.label "Kopier tekst til utklippstavla">
 
-<!ENTITY inadequateSecurityError.title "Tilkoplinga di er ikkje trygg">
+<!ENTITY inadequateSecurityError.title "Tilkoplinga di er ikkje sikker">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> brukar tryggingsteknologi som er forelda og sårbar for åtak. Ein angripar kan lett avsløre informasjon som du trudde skulle vere sikker. Administrator på nettstaden må fikse tenaren før du kan besøkje nettsida.</p><p>Feilkode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

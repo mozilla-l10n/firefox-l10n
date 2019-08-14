@@ -806,6 +806,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label2)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Tilkoplingssikkerheit">
 
 <!ENTITY identity.connectionSecure2 "Tilkoplinga er sikker">
 <!ENTITY identity.connectionNotSecure "Tilkoplinga er ikkje sikker">
@@ -861,8 +862,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Opne innstillingar for innhaldsblokkering">
 
 
+<!ENTITY protections.etpON.header "Utvida sporingsvern er slått PÅ for denne nettstaden">
+<!ENTITY protections.etpOFF.header "Utvida sporingsvern er slått AV for denne nettstaden">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Meir informasjon om utvida sporingsvern">
 <!ENTITY protections.settings.label "Innstillingar for vern">
 <!ENTITY protections.report.label "Vis full rapport">
 <!-- LOCALIZATION NOTE:
@@ -885,6 +889,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.blocking.label "Blokkerer">
 <!ENTITY protections.notBlocking.label "Blokkerer ikkje">
 <!ENTITY protections.notBlocking.why.label "Kvifor?">
+<!ENTITY protections.crossSiteTrackingCookies.label "Sporingsinfokapslar på tvers av nettstadar">
+<!ENTITY protections.trackingContent.label "Sporingsinnhald">
 <!ENTITY protections.fingerprinters.label "Fingerprinters">
 <!ENTITY protections.cryptominers.label "Kryptominarar">
 
@@ -927,6 +933,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.manageSettings.label "Handter innhaldsblokkering">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Sporingsinnhald">
 
 <!ENTITY contentBlocking.manageSettings.accesskey "H">
 
