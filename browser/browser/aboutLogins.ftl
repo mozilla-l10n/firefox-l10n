@@ -121,5 +121,5 @@ confirm-discard-changes-dialog-confirm-button = Verwerpen
 
 ## Breach Alert notification
 
-breach-alert-text = Wachtwoorden uit deze website zijn gelekt of gestolen sinds u voor het laatst uw inloggegevens hebt bijgewerkt. Wijzig uw wachtwoord om uw account te beschermen.
+breach-alert-text = Wachtwoorden uit deze website zijn gelekt of gestolen sinds u voor het laatst uw aanmeldgegevens hebt bijgewerkt. Wijzig uw wachtwoord om uw account te beschermen.
 breach-alert-link = Meer info over dit datalek
