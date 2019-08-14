@@ -760,6 +760,7 @@ content-blocking-fingerprinters = Palcowe wótśišće
 content-blocking-warning-title = Glědajśo!
 content-blocking-warning-description = Blokěrowanje wopśimjeśa móžo zawinowaś, až někotare websedła wěcej njefunkcioněruju. Jo lažko, blokěrowanje za sedła znjemóžniś, kótarymž dowěriśo.
 content-blocking-learn-how = Zgóńśo kak
+content-blocking-etp-warning-description = Blokěrowanje pśeslědowakow mógło funkcionalnosć někotarych websedłow wobwliwowaś. Zacytajśo bok z pśeslědowakami znowego, aby wšykno wopśimjeśe zacytał.
 content-blocking-warning-learn-how = Zgóńśo kak
 content-blocking-reload-description = Musyśo swóje rejtarki znowego zacytaś, aby toś te změny nałožył.
 content-blocking-reload-tabs-button =
