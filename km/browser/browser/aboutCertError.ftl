@@ -40,7 +40,7 @@ cert-error-expired-now = គេហទំព័រ​បញ្ជាក់​អ�
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-before-local-time (Date) - Certificate is not valid before this time.
-cert-error-not-yet-valid-now = គេហទំព័រ​បញ្ជាក់​អត្តសញ្ញាណ​របស់​ខ្លួន​តាមរយៈ​វិញ្ញាបនបត្រ ដែល​អាច​ប្រើ​បាន​ក្នុង​រយៈពេល​បាន​កំណត់​មួយ។ វិញ្ញាបនបត្រ​សម្រាប់ { $hostname } នឹង​មិន​អាច​ប្រើ​បាន​រហូតដល់ { $not-after-local-time } ។
+cert-error-not-yet-valid-now = គេហទំព័រ​បញ្ជាក់​អត្តសញ្ញាណ​របស់​ខ្លួន​តាមរយៈ​វិញ្ញាបនបត្រ ដែល​អាច​ប្រើ​បាន​ក្នុង​រយៈពេល​បាន​កំណត់​មួយ។ វិញ្ញាបនបត្រ​សម្រាប់ { $hostname } នឹង​មិន​អាច​ប្រើ​បាន​រហូតដល់ { $not-before-local-time } ។
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = បញ្ហា​កូដ៖ <a data-l10n-name="error-code-link">{ $error }</a>
