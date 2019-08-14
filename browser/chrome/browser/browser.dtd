@@ -896,8 +896,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.description "אתרים עשויים לטעון פרסומות חיצוניות, סרטונים ותכנים אחרים המכילים קוד מעקב. חסימת תוכן מעקב יכולה לסייע לאתרים להיטען מהר יותר, אך יתכן שמספר כפתורים, טפסים ושדות התחברות לא יעבדו.">
 <!ENTITY protections.socialMediaTrackers.description "רשתות חברתיות מציבות רכיבי מעקב באתרים אחרים כדי לעקוב אחר מה שהינך עושה ורואה ברשת. זה מאפשר לחברות המדיה החברתית ללמוד עליך מעבר למה שבחרת לשתף בפרופילי המדיה החברתית שלך.">
 
-<!ENTITY protections.manageProtectionSettings.label "ניהול הגדרות הגנה">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "לשוניות הדפדפן">
@@ -934,20 +932,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "רכיבי מעקב">
 
+<!ENTITY contentBlocking.manageSettings.label "ניהול חסימת תוכן">
+
 <!ENTITY contentBlocking.trackingProtection4.label "תוכן מעקב">
 
-<!ENTITY contentBlocking.manageSettings.label "ניהול חסימת תוכן">
+<!ENTITY contentBlocking.manageSettings2.label "ניהול הגדרות הגנה">
 <!ENTITY contentBlocking.manageSettings.accesskey "ס">
 
 <!ENTITY contentBlocking.trackersView.label "רכיבי מעקב">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "כדי לחסום את כל רכיבי המעקב, יש להגדיר את חסימת התוכן לרמת “מחמיר”.">
 
-<!ENTITY contentBlocking.socialblock.label "רכיבי מעקב של מדיה חברתית">
-<!ENTITY contentBlocking.socialblockView.label "רכיבי מעקב של מדיה חברתית חסומים">
-<!ENTITY contentBlocking.socialblockView.description "רשתות חברתיות מציבות רכיבי מעקב באתרים אחרים כדי לעקוב אחר מה שהינך עושה ורואה ברשת. זה מאפשר לחברות המדיה החברתית ללמוד עליך מעבר למה שבחרת לשתף בפרופילי המדיה החברתית שלך.">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "כדי לחסום את כל רכיבי המעקב, יש להגדיר את חסימת התוכן לרמת “מחמיר”.">
 
 <!ENTITY contentBlocking.cookies.label "עוגיות">
 <!ENTITY contentBlocking.cookiesView.label "עוגיות ונתוני אתרים">
+
+<!ENTITY contentBlocking.socialblock.label "רכיבי מעקב של מדיה חברתית">
+
 
 <!ENTITY contentBlocking.cryptominers.label "כורי מטבעות דיגיטליים">
 <!ENTITY contentBlocking.cryptominersView.label "כורי מטבעות דיגיטליים">
