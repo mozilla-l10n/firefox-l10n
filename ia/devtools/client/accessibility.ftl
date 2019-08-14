@@ -21,4 +21,9 @@ accessibility-best-practices =
 ## that describe that currently selected accessible object has an accessibility issue
 ## with its text label or accessible name.
 
+accessibility-text-label-issue-area = Usa attributo de <code>alt</code> pro etiquettar elementos de <div>area</div> que ha le attributo <span>href</span>. <a>Saper plus</a>
+accessibility-text-label-issue-dialog = Dialogos deberea ser etiquettate. <a>Saper plus</a>
+accessibility-text-label-issue-document-title = Documentos debe haber un <code>title</code> <a>Saper plus</a>
+accessibility-text-label-issue-embed = Contento integrate debe ser etiquettate. <a>Saper plus</a>
+accessibility-text-label-issue-figure = Figuras con legendas optional deberea ser etiquettate. <a>Saper plus</a>
 accessibility-text-label-issue-heading-content = Les titulos debe haber un contento textual visibile. <a>Saper plus</a>

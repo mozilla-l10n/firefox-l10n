@@ -263,6 +263,12 @@ about-debugging-extension-id =
 about-debugging-worker-action-push = Pulsar
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = Initiar
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Note this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push2 = Pulsar
+    .disabledTitle = Le pulsar de Service Worker es actualmente disactivate pro { -brand-shorter-name } multe-processo
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start2 = Initiar
     .disabledTitle = Le lanceamento de Service Worker es actualmente disactivate pro multi-processores { -brand-shorter-name }
@@ -290,6 +296,9 @@ about-debugging-worker-scope =
 # of a worker
 about-debugging-worker-push-service =
     .label = Servicio de pulsata
+# Displayed as title of the inspect button when service worker debugging is disabled.
+about-debugging-worker-inspect-action-disabled =
+    .title = Le analyse de Service Worker es actualmente disactivate pro { -brand-shorter-name } multe-processo
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Processo principal
