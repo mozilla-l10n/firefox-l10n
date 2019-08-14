@@ -713,6 +713,7 @@ addressbar-suggestions-settings = Endre innstillingar for søkjeforslag
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Innhaldsblokkering
+content-blocking-enhanced-tracking-protection = Utvida sporingsvern
 content-blocking-section-description = Ta vare på personvernet ditt når du surfar. Blokker usynleg innhald som sporar sidene du besøkjer og profilerer deg. Blokkering av noko av dette innhaldet kan gjere sider raskare å laste.
 content-blocking-learn-more = Les meir
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
