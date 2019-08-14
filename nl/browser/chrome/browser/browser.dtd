@@ -149,6 +149,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Aanmelden bij &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; inschakelen">
 <!ENTITY fxa.menu.account.label "Account">
+<!ENTITY fxa.menu.firefoxServices.label "&brandProductName;-diensten">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -950,6 +951,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection4.label "Volginhoud">
 
+<!ENTITY contentBlocking.manageSettings2.label "Beschermingsinstellingen beheren">
 <!ENTITY contentBlocking.manageSettings.accesskey "b">
 
 <!ENTITY contentBlocking.trackersView.label "Trackers">
@@ -961,6 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.socialblock.label "Sociale-mediatrackers">
 
+<!ENTITY contentBlocking.cookies2.label "Cross-site-trackingcookies">
 
 <!ENTITY contentBlocking.cryptominers.label "Cryptominers">
 <!ENTITY contentBlocking.cryptominersView.label "Cryptominers">
