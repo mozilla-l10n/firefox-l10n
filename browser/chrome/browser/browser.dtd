@@ -149,6 +149,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "&brandProductName;에 로그인">
 <!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; 켜기">
 <!ENTITY fxa.menu.account.label "계정">
+<!ENTITY fxa.menu.firefoxServices.label "&brandProductName; 서비스">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -156,6 +157,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.service.send.launch "&sendShortName; 시작">
 <!ENTITY fxa.service.monitor.description "데이터 유출 사건에 사용자의 이메일이 있는지를 확인하고 새 데이터 유출 사건에 있으면 사용자에게 알려 줍니다.">
 <!ENTITY fxa.service.monitor.launch "&monitorShortName; 시작">
+<!ENTITY fxa.service.sendTab.description "로그인한 모든 기기로 즉시 탭을 보냅니다.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -805,6 +807,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "연결">
 <!ENTITY identity.connectionSecure "안전한 연결">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "연결 보안">
+
+<!ENTITY identity.connectionSecure2 "안전한 연결">
 <!ENTITY identity.connectionNotSecure "안전하지 않은 연결">
 <!ENTITY identity.connectionFile "이 페이지는 사용자의 컴퓨터에 저장됩니다.">
 <!ENTITY identity.connectionVerified2 "안전하게 사이트에 연결되었습니다. 소유자:">
@@ -812,6 +820,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "이 페이지는 확장 기능으로부터 로드되었습니다.">
 <!ENTITY identity.insecureLoginForms2 "이 페이지에 입력된 로그인 정보는 노출될 수 있습니다.">
 <!ENTITY identity.customRoot "Mozilla에서 인식하지 못하는 인증서 발급자가 연결을 확인했습니다.">
+
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName;가 안전하지 않은 페이지의 일부를 차단했습니다.">
@@ -846,6 +855,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "쿠키와 사이트 데이터 삭제…">
 
 <!ENTITY identity.permissions "권한">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissionsEmpty "이 사이트를 특별한 권한으로 승인하지 않았습니다.">
 <!ENTITY identity.permissionsReloadHint "변경 사항을 적용하려면 페이지를 새로고침해야 할 수 있습니다.">
 <!ENTITY identity.permissionsPreferences.tooltip "권한 설정 열기">
@@ -854,6 +865,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY protections.etpON.header "이 사이트에 향상된 추적 방지 기능이 켜져 있습니다">
 <!ENTITY protections.etpOFF.header "이 사이트에 향상된 추적 방지 기능이 꺼져 있습니다">
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.settings.label "보호 설정">
 <!ENTITY protections.report.label "전체 보고서 보기">
 <!-- LOCALIZATION NOTE:
@@ -930,6 +943,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.notDetected "이 페이지에서 차단할 수 있는 콘텐츠가 감지되지 않았습니다.">
 
 <!ENTITY contentBlocking.trackingProtection3.label "추적기">
+
 
 <!ENTITY contentBlocking.manageSettings.label "콘텐츠 차단 관리">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
