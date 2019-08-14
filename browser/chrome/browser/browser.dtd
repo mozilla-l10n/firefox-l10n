@@ -911,8 +911,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.description "網站中可能會有含有追蹤用程式碼的外部廣告、影片、其他內容。封鎖追蹤內容可以讓網站更快載入，但某些按鈕、表單、登入欄位可能無法正常運作。">
 <!ENTITY protections.socialMediaTrackers.description "社群網站會在其他網站放置追蹤器，以追蹤您除了在社群網站分享的東西之外，還在網路上做了或看了什麼，更加了解您的一舉一動。">
 
-<!ENTITY protections.manageProtectionSettings.label "管理保護設定">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "瀏覽器分頁">
@@ -949,20 +947,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "追蹤器">
 
+<!ENTITY contentBlocking.manageSettings.label "管理內容封鎖功能">
+
 <!ENTITY contentBlocking.trackingProtection4.label "追蹤用內容">
 
-<!ENTITY contentBlocking.manageSettings.label "管理內容封鎖功能">
+<!ENTITY contentBlocking.manageSettings2.label "管理保護設定">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "追蹤器">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "若要封鎖所有追蹤器，請將內容封鎖功能設定為「嚴格」。">
 
-<!ENTITY contentBlocking.socialblock.label "社交媒體追蹤器">
-<!ENTITY contentBlocking.socialblockView.label "封鎖社交媒體追蹤器">
-<!ENTITY contentBlocking.socialblockView.description "社群網站會在其他網站放置追蹤器，以追蹤您除了在社群網站分享的東西之外，還在網路上做了或看了什麼，更加了解您的一舉一動。">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "若要封鎖所有追蹤器，請將內容封鎖功能設定為「嚴格」。">
 
 <!ENTITY contentBlocking.cookies.label "Cookie">
 <!ENTITY contentBlocking.cookiesView.label "Cookie 與網站資料">
+
+<!ENTITY contentBlocking.socialblock.label "社交媒體追蹤器">
+
+<!ENTITY contentBlocking.cookies2.label "跨網站追蹤 Cookie">
 
 <!ENTITY contentBlocking.cryptominers.label "加密貨幣採礦程式">
 <!ENTITY contentBlocking.cryptominersView.label "加密貨幣採礦程式">
