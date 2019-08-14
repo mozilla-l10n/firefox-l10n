@@ -348,7 +348,7 @@ browsing-cfr-recommendations =
 browsing-cfr-features =
     .label = Polecanie funkcji podczas przeglądania
     .accesskey = u
-browsing-cfr-recommendations-learn-more = Więcej informacji
+browsing-cfr-recommendations-learn-more = Więcej informacji
 
 ## General Section - Proxy
 
@@ -723,7 +723,7 @@ addressbar-suggestions-settings = Zmień ustawienia podpowiedzi dostarczanych pr
 content-blocking-header = Blokowanie treści
 content-blocking-enhanced-tracking-protection = Wzmocniona ochrona przed śledzeniem
 content-blocking-section-description = Chroń swoją prywatność podczas przeglądania. Blokuj niewidoczne elementy, które śledzą odwiedzane witryny i Cię profilują. Zablokowanie niektórych treści może przyspieszyć wczytywanie stron.
-content-blocking-learn-more = Więcej informacji
+content-blocking-learn-more = Więcej informacji
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -740,7 +740,7 @@ content-blocking-strict-description = Silniejsza ochrona, ale może powodować p
 content-blocking-custom-desc = Wybierz, co blokować:
 content-blocking-private-trackers = znane elementy śledzące w oknach prywatnych
 content-blocking-third-party-cookies = ciasteczka zewnętrznych witryn używane do śledzenia
-content-blocking-etp-standard-desc = Równowaga między bezpieczeństwem a szybkością wczytywania stron. Strony będą wczytywać się bez problemów.
+content-blocking-etp-standard-desc = Równowaga między bezpieczeństwem a szybkością wczytywania stron. Strony będą działać bez problemów.
 content-blocking-etp-strict-desc = Silniejsza ochrona, ale może powodować niepoprawne działanie niektórych stron.
 content-blocking-etp-custom-desc = Wybierz, które elementy śledzące i skrypty blokować:
 content-blocking-private-windows = treści z elementami śledzącymi w oknach prywatnych
@@ -755,7 +755,9 @@ content-blocking-cryptominers = elementy używające komputera użytkownika do g
 content-blocking-fingerprinters = elementy śledzące przez zbieranie informacji o konfiguracji
 content-blocking-warning-title = Ostrzeżenie
 content-blocking-warning-description = Blokowanie treści może powodować problemy z niektórymi stronami. Blokowanie można łatwo wyłączyć na stronach, którym ufasz.
-content-blocking-learn-how = Więcej informacji
+content-blocking-learn-how = Więcej informacji
+content-blocking-etp-warning-description = Blokowanie elementów śledzących może wpłynąć na funkcjonowanie niektórych stron. Odśwież stronę z włączonymi elementami śledzącymi, aby wyświetlić całą jej zawartość.
+content-blocking-warning-learn-how = Więcej informacji
 content-blocking-reload-description = Zastosowanie tych zmian wymaga odświeżenia kart.
 content-blocking-reload-tabs-button =
     .label = Odśwież wszystkie karty
@@ -763,18 +765,21 @@ content-blocking-reload-tabs-button =
 content-blocking-trackers-label =
     .label = elementy śledzące:
     .accesskey = e
+content-blocking-tracking-content-label =
+    .label = treści z elementami śledzącymi:
+    .accesskey = e
 content-blocking-tracking-protection-option-all-windows =
     .label = zawsze
     .accesskey = z
 content-blocking-option-private =
-    .label = w oknach prywatnych
+    .label = w oknach prywatnych
     .accesskey = w
 content-blocking-tracking-protection-change-block-list = Zmień listę blokowanych
 content-blocking-cookies-label =
     .label = ciasteczka:
     .accesskey = c
 content-blocking-expand-section =
-    .tooltiptext = Więcej informacji
+    .tooltiptext = Więcej informacji
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
     .label = elementy używające komputera użytkownika do generowania kryptowalut
@@ -855,7 +860,7 @@ collection-studies =
 collection-studies-link = Wyświetl badania przeglądarki { -brand-short-name }
 addon-recommendations =
     .label = Personalizowane polecenia rozszerzeń przez przeglądarkę { -brand-short-name }.
-addon-recommendations-link = Więcej informacji
+addon-recommendations-link = Więcej informacji
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Przesyłanie danych jest wyłączone przy tej konfiguracji programu
