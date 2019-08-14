@@ -88,6 +88,7 @@ cfr-doorhanger-sync-bookmarks-ok-button = Activar { -sync-brand-short-name }
 
 cfr-doorhanger-send-tab-header = Lege lo ubicunque tu es
 cfr-doorhanger-send-tab-recipe-header = Porta iste recepta in cocina
+cfr-doorhanger-send-tab-body = Invia scheda te pone in grado de compartir facilemente iste ligamine a tu telephono o ubicunque tu ha accedite in a { -brand-product-name }.
 cfr-doorhanger-send-tab-ok-button = Proba Invia scheda
     .accesskey = P
 

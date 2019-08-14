@@ -70,6 +70,7 @@ permissions-exceptions-content-blocking-desc = Tu ha disactivate le Blocada de c
 permissions-exceptions-etp-window =
     .title = Exceptiones del Protection meliorate contra le traciamento
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Tu ha arrestate le protectiones sur iste sitos web.
 
 ## Exceptions - Cookies
 
