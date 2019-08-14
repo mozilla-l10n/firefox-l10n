@@ -166,13 +166,6 @@ about-debugging-runtime-service-workers-not-compatible = תצורת הדפדפן
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
 about-debugging-browser-version-too-old = הדפדפן המחובר הוא בגרסה ישנה ({ $runtimeVersion }). הגרסה המינימלית ביותר הנתמכת היא ({ $minVersion }). תצורה זו אינה נתמכת ועשויה לגרום לכשל בכלי הפיתוח. נא לעדכן את הדפדפן המחובר. <a>פתרון בעיות</a>
-# Dedicated message for a backward compatibility issue that occurs when connecting:
-# - from Fx 67 to 66 or to 65
-# - from Fx 68 to 66
-# Those are normally in range for DevTools compatibility policy, but specific non
-# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
-# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
-about-debugging-browser-version-too-old-67-debugger = ייתכן שהחלונית 'מנפה שגיאות' לא תעבוד עם הדפדפן המחובר. נא להשתמש ב־Firefox %S אם יש לך צורך להשתמש במנפה השגיאות עם דפדפן זה.
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
