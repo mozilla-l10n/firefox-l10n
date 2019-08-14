@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Wuwzaća - Blokowanje wobsaha
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Sće blokowanje wobsaha na tutych websydłach znjemóžnił.
+permissions-exceptions-etp-window =
+    .title = Wuwzaća za polěpšeny slědowanski škit
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Sće škit na tutych websydłach znjemóžnił.
 
 ## Exceptions - Cookies
 
