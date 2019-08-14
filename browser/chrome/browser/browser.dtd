@@ -911,8 +911,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.description "Witryny mogą wczytywać zewnętrzne reklamy, filmy i inne treści zawierające elementy śledzące. Blokowanie ich może przyspieszyć wczytywanie stron, ale niektóre przyciski, formularze i pola logowania mogą działać niepoprawnie.">
 <!ENTITY protections.socialMediaTrackers.description "Serwisy społecznościowe umieszczają elementy śledzące na innych witrynach, aby śledzić co robisz, widzisz i oglądasz w Internecie. Dzięki temu ich właściciele wiedzą o Tobie więcej, niż udostępniasz w ich serwisach.">
 
-<!ENTITY protections.manageProtectionSettings.label "Zarządzaj ustawieniami ochrony">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Karty przeglądarki">
@@ -949,20 +947,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Elementy śledzące">
 
+<!ENTITY contentBlocking.manageSettings.label "Zarządzaj blokowaniem treści">
+
 <!ENTITY contentBlocking.trackingProtection4.label "Treści z elementami śledzącymi">
 
-<!ENTITY contentBlocking.manageSettings.label "Zarządzaj blokowaniem treści">
+<!ENTITY contentBlocking.manageSettings2.label "Zarządzaj ustawieniami ochrony">
 <!ENTITY contentBlocking.manageSettings.accesskey "Z">
 
 <!ENTITY contentBlocking.trackersView.label "Elementy śledzące">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Ustaw blokowanie na „ścisłe”, aby blokować wszystkie elementy śledzące.">
 
-<!ENTITY contentBlocking.socialblock.label "Elementy śledzące serwisów społecznościowych">
-<!ENTITY contentBlocking.socialblockView.label "Zablokowane elementy śledzące serwisów społecznościowych">
-<!ENTITY contentBlocking.socialblockView.description "Serwisy społecznościowe umieszczają elementy śledzące na innych witrynach, aby śledzić co robisz, widzisz i oglądasz w Internecie. Dzięki temu ich właściciele wiedzą o Tobie więcej, niż udostępniasz w ich serwisach.">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Ustaw blokowanie na „ścisłe”, aby blokować wszystkie elementy śledzące.">
 
 <!ENTITY contentBlocking.cookies.label "Ciasteczka">
 <!ENTITY contentBlocking.cookiesView.label "Ciasteczka i dane stron">
+
+<!ENTITY contentBlocking.socialblock.label "Elementy śledzące serwisów społecznościowych">
+
+<!ENTITY contentBlocking.cookies2.label "Ciasteczka śledzące między witrynami">
 
 <!ENTITY contentBlocking.cryptominers.label "Elementy używające komputera użytkownika do generowania kryptowalut">
 <!ENTITY contentBlocking.cryptominersView.label "Elementy używające komputera użytkownika do generowania kryptowalut">
