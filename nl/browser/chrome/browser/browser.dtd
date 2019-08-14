@@ -897,10 +897,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.notBlocking.why.label "Waarom?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Door deze te blokkeren werken elementen van sommige websites mogelijk niet. Zonder trackers werken sommige knoppen, formulieren en aanmeldvelden mogelijk niet.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Door beschermingen uit te schakelen worden alle trackers op deze website toegestaan. Het kan ook de functionaliteit van de website verbeteren.">
+<!ENTITY protections.socialMediaTrackers.label "Sociale-mediatrackers">
+<!ENTITY protections.crossSiteTrackingCookies.label "Cross-site-trackingcookies">
+<!ENTITY protections.trackingContent.label "Volginhoud">
 <!ENTITY protections.fingerprinters.label "Fingerprinters">
 <!ENTITY protections.cryptominers.label "Cryptominers">
+<!ENTITY protections.noTrackersFound.description "Op deze pagina zijn geen bij &brandShortName; bekende trackers aangetroffen.">
 
-
+<!ENTITY protections.crossSiteTrackingCookies.description "Deze cookies volgen u van website naar website om gegevens over wat u online doet te verzamelen. Ze worden geplaatst door derden, zoals advertentiebureaus en analysebedrijven.">
+<!ENTITY protections.cryptominers.description "Cryptominers gebruiken de rekenkracht van uw systeem om digitale valuta te genereren. Cryptominer-scripts trekken uw accu leeg, vertragen uw computer en kunnen uw energierekening omhoog jagen.">
+<!ENTITY protections.fingerprinters.description "Fingerprinters verzamelen instellingen van uw browser en computer om een profiel van u te maken. Met behulp van deze digitale vingerafdruk kunnen ze u op verschillende websites volgen.">
+<!ENTITY protections.trackingContent.description "Websites kunnen externe advertenties, video’s en andere inhoud laden die volgcode bevat. Het blokkeren van volginhoud kan websites helpen sneller te laden, maar sommige knoppen, formulieren en aanmeldvelden werken mogelijk niet.">
+<!ENTITY protections.socialMediaTrackers.description "Sociale netwerken plaatsen trackers op andere websites om te volgen wat u online doet, ziet en bekijkt. Hierdoor kunnen sociale-mediabedrijven meer over u leren dan wat u deelt op uw sociale-mediaprofielen.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -938,19 +946,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Trackers">
 
-
 <!ENTITY contentBlocking.manageSettings.label "Inhoudsblokkering beheren">
+
+<!ENTITY contentBlocking.trackingProtection4.label "Volginhoud">
+
 <!ENTITY contentBlocking.manageSettings.accesskey "b">
 
 <!ENTITY contentBlocking.trackersView.label "Trackers">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Stel inhoudsblokkering in op ‘Streng’ om alle trackers te blokkeren.">
 
-<!ENTITY contentBlocking.socialblock.label "Sociale-mediatrackers">
-<!ENTITY contentBlocking.socialblockView.label "Sociale-mediatrackers geblokkeerd">
-<!ENTITY contentBlocking.socialblockView.description "Sociale netwerken plaatsen trackers op andere websites om te volgen wat u online doet, ziet en bekijkt. Hierdoor kunnen sociale-mediabedrijven meer over u leren dan wat u deelt op uw sociale-mediaprofielen.">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Stel inhoudsblokkering in op ‘Streng’ om alle trackers te blokkeren.">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies en websitegegevens">
+
+<!ENTITY contentBlocking.socialblock.label "Sociale-mediatrackers">
+
 
 <!ENTITY contentBlocking.cryptominers.label "Cryptominers">
 <!ENTITY contentBlocking.cryptominersView.label "Cryptominers">
