@@ -23,3 +23,4 @@ serviceworker-empty-suggestions = Se la pagina corrente include un service worke
 serviceworker-empty-suggestions-console = Verifica la presenza di errori nella console. <a>Apri la console</a>
 serviceworker-empty-suggestions-debugger = Analizza passo per passo la registrazione del service worker e verifica la presenza di eccezioni. <a>Apri Debugger</a>
 serviceworker-empty-suggestions-aboutdebugging = Analizza i service worker da altri domini. <a>Apri about:debugging</a>
+manifest-empty-intro = Nessun manifesto trovato da analizzare.
