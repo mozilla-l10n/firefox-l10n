@@ -683,6 +683,10 @@ sitedata-block-desc = Blokowanie:
     .accesskey = B
 sitedata-option-block-trackers =
     .label = śledzące zewnętrznych witryn
+sitedata-option-block-cross-site-trackers =
+    .label = śledzące między witrynami
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = śledzące między witrynami i serwisów społecznościowych
 sitedata-option-block-unvisited =
     .label = nieodwiedzonych witryn
 sitedata-option-block-all-third-party =
@@ -717,6 +721,7 @@ addressbar-suggestions-settings = Zmień ustawienia podpowiedzi dostarczanych pr
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blokowanie treści
+content-blocking-enhanced-tracking-protection = Wzmocniona ochrona przed śledzeniem
 content-blocking-section-description = Chroń swoją prywatność podczas przeglądania. Blokuj niewidoczne elementy, które śledzą odwiedzane witryny i Cię profilują. Zablokowanie niektórych treści może przyspieszyć wczytywanie stron.
 content-blocking-learn-more = Więcej informacji
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -735,9 +740,16 @@ content-blocking-strict-description = Silniejsza ochrona, ale może powodować p
 content-blocking-custom-desc = Wybierz, co blokować:
 content-blocking-private-trackers = znane elementy śledzące w oknach prywatnych
 content-blocking-third-party-cookies = ciasteczka zewnętrznych witryn używane do śledzenia
+content-blocking-etp-standard-desc = Równowaga między bezpieczeństwem a szybkością wczytywania stron. Strony będą wczytywać się bez problemów.
+content-blocking-etp-strict-desc = Silniejsza ochrona, ale może powodować niepoprawne działanie niektórych stron.
+content-blocking-etp-custom-desc = Wybierz, które elementy śledzące i skrypty blokować:
+content-blocking-private-windows = treści z elementami śledzącymi w oknach prywatnych
+content-blocking-cross-site-tracking-cookies = ciasteczka śledzące między witrynami
+content-blocking-social-media-trackers = elementy śledzące serwisów społecznościowych
 content-blocking-all-cookies = wszystkie ciasteczka
 content-blocking-unvisited-cookies = ciasteczka z nieodwiedzonych witryn
 content-blocking-all-windows-trackers = znane elementy śledzące we wszystkich oknach
+content-blocking-all-windows-tracking-content = treści z elementami śledzącymi we wszystkich oknach
 content-blocking-all-third-party-cookies = wszystkie ciasteczka zewnętrznych witryn
 content-blocking-cryptominers = elementy używające komputera użytkownika do generowania kryptowalut
 content-blocking-fingerprinters = elementy śledzące przez zbieranie informacji o konfiguracji
