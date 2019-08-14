@@ -69,3 +69,5 @@ serviceworker-empty-suggestions-debugger = Bước qua đăng ký Service Worker
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Kiểm tra Service Worker từ các lĩnh vực khác. <a>Mở about:debugging</a>
+# Text displayed when no manifest was found for the current page.
+manifest-empty-intro = Không tìm thấy bảng kê khai để kiểm tra.
