@@ -911,8 +911,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.description "საიტები, ზოგჯერ გარე ბმულებიდან ტვირთავენ თვალის სადევნებელი კოდის შემცველ რეკლამებს, ვიდეოებსა და სხვა მასალას. მათი შეზღუდვით, საიტი კი უფრო სწრაფად ჩაიტვირთება, თუმცა ღილაკებმა, ანგარიშისა და სხვა შესავსებმა ველებმა, შეიძლება აღარ იმუშაოს.">
 <!ENTITY protections.socialMediaTrackers.description "სოციალური ქსელები ათავსებენ მეთვალყურეებს სხვა საიტებზე, რომ თვალი გადევნონ ინტერნეტში. ეს საშუალებას აძლევს მათ მფლობელ დაწესებულებებს, იმაზე მეტი რამ შეიტყონ თქვენ შესახებ, ვიდრე ამ სოციალურ ქსელში გაქვთ გაზიარებული.">
 
-<!ENTITY protections.manageProtectionSettings.label "დაცვის პარამეტრების გამართვა">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "ბრაუზერის ჩანართები">
@@ -949,20 +947,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "მეთვალყურეები">
 
+<!ENTITY contentBlocking.manageSettings.label "შიგთავსის შეზღუდვის მართვა">
+
 <!ENTITY contentBlocking.trackingProtection4.label "თვალის მდევნელი შიგთავსი">
 
-<!ENTITY contentBlocking.manageSettings.label "შიგთავსის შეზღუდვის მართვა">
+<!ENTITY contentBlocking.manageSettings2.label "დაცვის პარამეტრების მართვა">
 <!ENTITY contentBlocking.manageSettings.accesskey "შ">
 
 <!ENTITY contentBlocking.trackersView.label "მეთვალყურეები">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "ყველა მეთვალყურის შესაზღუდად, მიუთითეთ „მკაცრი” შეზღუდვა.">
 
-<!ENTITY contentBlocking.socialblock.label "სოციალური ქსელის მეთვალყურეები">
-<!ENTITY contentBlocking.socialblockView.label "სოციალური ქსელის მეთვალყურეები შეიზღუდა">
-<!ENTITY contentBlocking.socialblockView.description "სოციალური ქსელები ათავსებენ მეთვალყურეებს სხვა საიტებზე, რომ თვალი გადევნონ ინტერნეტში. ეს საშუალებას აძლევს მათ მფლობელ დაწესებულებებს, იმაზე მეტი რამ შეიტყონ თქვენ შესახებ, ვიდრე ამ სოციალურ ქსელში გაქვთ გაზიარებული.">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "ყველა მეთვალყურის შესაზღუდად, მიუთითეთ „მკაცრი” შეზღუდვა.">
 
 <!ENTITY contentBlocking.cookies.label "ფუნთუშები">
 <!ENTITY contentBlocking.cookiesView.label "ფუნთუშები და საიტის მონაცემები">
+
+<!ENTITY contentBlocking.socialblock.label "სოციალური ქსელის მეთვალყურეები">
+
+<!ENTITY contentBlocking.cookies2.label "საიტთაშორისი მეთვალყურე ფუნთუშები">
 
 <!ENTITY contentBlocking.cryptominers.label "კრიპტოვალუტის გამომმუშავებლები">
 <!ENTITY contentBlocking.cryptominersView.label "კრიპტოვალუტის გამომმუშავებლები">
