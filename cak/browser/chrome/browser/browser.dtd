@@ -815,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure2 "Rujikomal Okem">
 <!ENTITY identity.connectionNotSecure "Itzel chi Okem">
+<!ENTITY identity.connectionNotSecureSecurityView "Man ütz ta ri awokem pa re ruxaq k'amaya'l re'.">
 <!ENTITY identity.connectionFile "Re ruxaq k'amaya'l re' yakon pan akematz'ib'.">
 <!ENTITY identity.connectionVerified2 "Ütz ri awokem pa re ruxaq k'amaya'l re', samajib'en ruma:">
 <!ENTITY identity.connectionVerified3 "Ütz ri awokem pa re ruxaq k'amaya'l re'.">
@@ -824,6 +825,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.customRoot "Xjikib'äx ri okem ruma ya'öl iqitzijib'äl, ri man retaman ta ruwäch ri Mozilla.
 ">
 
+<!ENTITY identity.evOwnerLabel "Ri rajaw ruxaq re':">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; xeruq'ät ri itzel taq ruperaj re ruxaq re'.">
@@ -860,12 +862,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Taq ya'oj q'ij">
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "Kinuk'ulem taq Ya'oj Q'ij">
 <!ENTITY identity.permissionsEmpty "Majun chi ya'oj q'ij ya'on chawe' pa re ruxaq k'amaya'l re'.">
 <!ENTITY identity.permissionsReloadHint "Rik'in jub'a' k'o chi yatok chik pa ruxaq richin yesamäj ri taq k'exoj.">
 <!ENTITY identity.permissionsPreferences.tooltip "Kejaq Taq Rajowaxik Ya'oj Q'ij">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Tijaq Rajowab'al Ruq'atik Rupam">
 
 
+<!ENTITY protections.etpON.header "Ri utzirisan Ruchajixik Ojqanem TZIJON richin re ruxaq re' wakami">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!-- LOCALIZATION NOTE:
@@ -876,7 +880,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-
 
 
 
@@ -916,16 +919,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Ojqanela'">
 
-
 <!ENTITY contentBlocking.manageSettings.label "Tinuk'samajïx Ruq'atik Rupam">
+
+
 <!ENTITY contentBlocking.manageSettings.accesskey "T">
 
 <!ENTITY contentBlocking.trackersView.label "Ojqanela'">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Richin yeq'at ri ojqanela', tib'an runuk'ulem ruq'atik rupam pa  “Nimaläj”.">
 
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Richin yeq'at ri ojqanela', tib'an runuk'ulem ruq'atik rupam pa  “Nimaläj”.">
 
 <!ENTITY contentBlocking.cookies.label "Taq kuki">
 <!ENTITY contentBlocking.cookiesView.label "Taq Kuki chuqa' Rutzij Ruxaq">
+
+
 
 <!ENTITY contentBlocking.cryptominers.label "Cryptominers">
 <!ENTITY contentBlocking.cryptominersView.label "Cryptominers">
