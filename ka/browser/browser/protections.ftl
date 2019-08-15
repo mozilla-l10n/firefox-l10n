@@ -6,8 +6,8 @@
 #   $count (Number) - Number of tracking events blocked.
 graph-week-summary =
     { $count ->
-        [one] ამ დღეებში { $count } მეთვალყურეა აღმოჩენილი, რომელსაც { -brand-short-name } ზღუდავს
-       *[other] ამ დღეებში { $count } მეთვალყურეა აღმოჩენილი, რომლებსაც { -brand-short-name } ზღუდავს
+        [one] ამ დღეებში { $count } მეთვალყურეა აღმოჩენილი, რომელსაც ზღუდავს { -brand-short-name }
+       *[other] ამ დღეებში { $count } მეთვალყურეა აღმოჩენილი, რომელთაც ზღუდავს { -brand-short-name }
     }
 # Variables:
 #   $count (Number) - Number of tracking events blocked.
@@ -24,11 +24,15 @@ graph-total-summary =
 protection-header-details-standard = დაცვის დონედ მითითებულია <b>ჩვეულებრივი</b>
 protection-header-details-strict = დაცვის დონედ მითითებულია <b>მკაცრი</b>
 protection-header-details-custom = დაცვის დონედ მითითებულია <b>მორგებული</b>
+protection-report-page-title = პირადულობის დაცვა
+protection-report-content-title = პირადულობის დაცვა
 etp-card-title = თვალთვალისგან გაძლიერებული დაცვა
-etp-card-content = მეთვალყურეები თან დაგყვებათ მთელ ინტერნეტში და აგროვებს ინფრომაციას თქვენი ჩვევებისა და მისწრაფებების შესახებ. { -brand-short-name } ზღუდავს ამ მეთვალყურეების უმეტესობასა და სხვა მავნე კოდებსაც.
+etp-card-content = მეთვალყურეები თან დაგყვებათ მთელ ინტერნეტში და აგროვებს ინფორმაციას თქვენი ჩვევებისა და მისწრაფებების შესახებ. { -brand-short-name } ზღუდავს ამ მეთვალყურეების უმეტესობასა და სხვა მავნე კოდებსაც.
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = დღეს
+# This string is used to describe the graph for screenreader users.
+graph-legend-description = გამოსახულებაზე მოცემულია თითოეული სახის მეთვალყურის რაოდენობა ჯამურად, რომლებიც ამ კვირაში შეიზღუდა.
 social-tab-title = სოციალური ქსელის მეთვალყურეები
 social-tab-contant = სოციალური ქსელები ათავსებს მეთვალყურეებს სხვა საიტებზე, რომ თვალი გადევნონ ინტერნეტში. ეს საშუალებას აძლევს მათ მფლობელ დაწესებულებებს, იმაზე მეტი რამ შეიტყონ თქვენ შესახებ, ვიდრე ამ სოციალურ ქსელში გაქვთ გაზიარებული. <a data-l10n-name="learn-more-link">ვრცლად</a>
 cookie-tab-title = საიტთაშორისი მეთვალყურე ფუნთუშები
@@ -43,6 +47,16 @@ lockwise-title = აღარასდროს დაკარგავთ პ�
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } უსაფრთხოდ შეინახავს თქვენს პაროლებს ბრაუზერში.
 lockwise-header-content-logged-in = პაროლების უსაფრთხო შენახვა და გაზიარება ყველა თქვენს მოწყობილობაზე.
+open-about-logins-button = გახსნის { -brand-short-name }
+lockwise-no-logins-content = გადმოწერეთ აპლიკაცია <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> პაროლების თან წასაღებად.
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+lockwise-passwords-stored =
+    { $count ->
+        [one] პაროლია შენახული უსაფრთხოდ <a data-l10n-name="lockwise-how-it-works">როგორ მუშაობს</a>
+       *[other] პაროლია შენახული უსაფრთხოდ <a data-l10n-name="lockwise-how-it-works">როგორ მუშაობს</a>
+    }
 turn-on-sync = ჩართეთ { -sync-brand-short-name }…
     .title = იხილეთ სინქრონიზაციის პარამეტრები
 # Variables:
@@ -55,6 +69,17 @@ lockwise-sync-status =
 lockwise-sync-not-syncing = არაა დასინქრონებული სხვა მოწყობილობებთან.
 monitor-title = თვალი ადევნეთ მონაცემების მიტაცების შემთხვევებს
 monitor-link = როგორ მუშაობს
+monitor-header-content = გამოცადეთ { -monitor-brand-name } და ნახეთ, თქვენი ინფორმაცია აღმოჩენილია თუ არა მიტაცებულ მონაცემებს შორის და მიიღეთ ცნობები, ახალი შემთხვევების შესახებ.
+monitor-header-content-logged-in = { -monitor-brand-name } გაცნობებთ, თუ თქვენი ინფორმაცია ცნობილ მიტაცემულ მონაცემებში აღმოჩნდება
+monitor-sign-up = გამოიწერეთ ცნობები, მონაცემების მიტაცების შესახებ
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches =
+    { $count ->
+        [one] ცნობილ მიტაცებულ მონაცემებშია აღმოჩენილი თქვენი ინფორმაცია.
+       *[other] ცნობილ მიტაცებულ მონაცემებშია აღმოჩენილი თქვენი ინფორმაცია.
+    }
 full-report-link = იხილეთ სრული ანგარიში ბმულზე <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = პირადულობის პარამეტრებზე გადასვლა
