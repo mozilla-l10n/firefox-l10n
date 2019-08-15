@@ -17,6 +17,7 @@ etp-card-content = Los rastreadores lo siguen en línea para recopilar informaci
 graph-today = Hoy
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Gráfico que contiene el número total de cada tipo de rastreador bloqueado esta semana.
+social-tab-title = Rastreadores de redes sociales
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
