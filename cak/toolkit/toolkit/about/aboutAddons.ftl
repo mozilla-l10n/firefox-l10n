@@ -95,7 +95,7 @@ detail-update-manual =
 detail-private-browsing-label = Kesamajïx pa Ichinan Tzuwäch
 detail-private-browsing-description2 = Toq xtiya' q'ij, ri k'amal xtok pa ri asamaj pa k'amab'ey toq yatok pa ichinan okem. <label data-l10n-name="detail-private-browsing-learn-more">Tawetamaj ch'aqa' chik</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
-# cannot be overriden by the user.
+# cannot be overridden by the user.
 detail-private-disallowed-label = Man ya'on ta q'ij pan Ichinan Tzuwäch
 detail-private-disallowed-description = Man nisamäj ta pa ichinan okem pa k'amaya'l re k'amal re'. <label data-l10n-name="detail-private-browsing-learn-more">Tetamäx ch'aqa' chik</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
@@ -155,9 +155,6 @@ private-browsing-description2 =
     k'amal man xtisamäj ta pa ichinan okem pa k'amaya'l, chuqa' man xkatikïr ta xkatok pa ri asamaj richin k'amab'ey
     chi ri'. Xqab'än re jaloj re' richin nichinäx ri ichinan awokem pa k'amaya'l
     <label data-l10n-name="private-browsing-learn-more">Tawetamaj achike rub'eyal ninuk'samajïx ri runuk'ulem k'amal.</label>
-extensions-view-discover =
-    .name = Kek'ulutäj ri taq tz'aqat
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Taq chilab'enïk
     .tooltiptext = { extensions-view-discopane.name }
@@ -312,6 +309,16 @@ release-notes-addon-button = Ruch'utitzijol re ruwäch re'
 permissions-addon-button = Taq ya'oj q'ij
 addons-enabled-heading = Tzijon
 addons-disabled-heading = Chupun
+extension-enabled-heading = Tzijon
+extension-disabled-heading = Chupül
+theme-enabled-heading = Tzijon
+theme-disabled-heading = Chupül
+plugin-enabled-heading = Tzijon
+plugin-disabled-heading = Chupül
+dictionary-enabled-heading = Tzijon
+dictionary-disabled-heading = Chupül
+locale-enabled-heading = Tzijon
+locale-disabled-heading = Chupül
 ask-to-activate-button = Tik'utüx richin Nitzij
 always-activate-button = Junelik Titzij
 never-activate-button = Majub'ey Titzij
@@ -357,6 +364,11 @@ addon-badge-private-browsing-allowed =
 addon-detail-private-browsing-help = Toq tzij, ri k'amal pa ronojel samaj xtok wi toq atokinäq pa k'amaya'l pan ichinan rub'anikil. <a data-l10n-name="learn-more">Tetamäx ch'aqa' chik</a>
 addon-detail-private-browsing-allow = Tiya' q'ij
 addon-detail-private-browsing-disallow = Man Tiya' Q'ij
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Taq chilab'exïk
+    .alt = Taq chilab'exïk
 available-updates-heading = Taq K'exoj e K'o
 recent-updates-heading = K'ak'a' taq K'exoj
 release-notes-loading = Nusamajib'ej…

@@ -57,3 +57,11 @@ rcwn-avg-long = Nïm Junamilal
 rcwn-std-dev-long = Nïm Rutzalenik pa Rub'eyal
 rcwn-cache-slow = Eqal rutaqoya'l jumejyak
 rcwn-cache-not-slow = Man Eqal ta rutaqoya'l jumejyak
+networkid = K'amab'ey ID
+networkid-id = K'amab'ey ID
+
+## Link is intended as "network link"
+
+
+
+
