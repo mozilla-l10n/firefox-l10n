@@ -27,9 +27,20 @@ protection-header-details-custom = El nivell de protecció és <b>Personalitzat<
 protection-report-page-title = Proteccions de privadesa
 protection-report-content-title = Proteccions de privadesa
 etp-card-title = Protecció contra el seguiment millorada
+etp-card-content = Hi ha elements que us fan el seguiment mentre navegueu per recopilar informació sobre els vostres hàbits de navegació i interessos. El { -brand-short-name } bloca molts d'aquests elements de seguiment i altres scripts maliciosos.
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = avui
+social-tab-title = Elements de seguiment de xarxes socials
+cookie-tab-title = Galetes de seguiment entre llocs
+tracker-tab-title = Contingut que fa seguiment
+fingerprinter-tab-title = Creadors d'empremtes digitals
+cryptominer-tab-title = Miners de criptomonedes
+lockwise-title = No oblideu mai més cap contrasenya
+lockwise-title-logged-in = { -lockwise-brand-name }
+open-about-logins-button = Obre al { -brand-short-name }
+turn-on-sync = Activa el { -sync-brand-short-name }…
+    .title = Vés a les preferències de sincronització
 monitor-link = Com funciona
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = Vés als paràmetres de privadesa
@@ -43,6 +54,20 @@ go-to-saved-logins = Vés als inicis de sessió desats
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Elements de seguiment de xarxes socials
+    .aria-label =
+        { $count ->
+            [one] { $count } element de seguiment de xarxes socials ({ $percentage }%)
+           *[other] { $count } elements de seguiment de xarxes socials ({ $percentage }%)
+        }
+bar-tooltip-cookie =
+    .title = Galetes de seguiment entre llocs
+    .aria-label =
+        { $count ->
+            [one] { $count } galeta de seguiment entre llocs ({ $percentage }%)
+           *[other] { $count } galetes de seguiment entre llocs ({ $percentage }%)
+        }
 bar-tooltip-tracker =
     .title = Contingut que fa seguiment
     .aria-label =
@@ -56,4 +81,11 @@ bar-tooltip-fingerprinter =
         { $count ->
             [one] { $count } creador d'empremtes digitals ({ $percentage }%)
            *[other] { $count } creadors d'empremtes digitals ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Miners de criptomonedes
+    .aria-label =
+        { $count ->
+            [one] { $count } miner de criptomonedes ({ $percentage }%)
+           *[other] { $count } miners de criptomonedes ({ $percentage }%)
         }
