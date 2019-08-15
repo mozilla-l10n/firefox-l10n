@@ -277,7 +277,8 @@
 
 <!ENTITY pref_cookies_menu "Galetes">
 <!ENTITY pref_cookies_accept_all "Habilitades">
-<!ENTITY pref_cookies_not_accept_foreign "Habilitades, excepte de tercers">
+<!ENTITY pref_cookies_not_accept_foreign "Habilitades, excepte les de tercers">
+<!ENTITY pref_cookies_not_accept_trackers "Habilitades, excepte les de seguiment">
 <!ENTITY pref_cookies_disabled "Inhabilitades">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
