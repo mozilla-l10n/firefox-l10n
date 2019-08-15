@@ -28,6 +28,8 @@ etp-card-title = 增强型跟踪保护
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = 本日
+# This string is used to describe the graph for screenreader users.
+graph-legend-description = 此图展示了本周各类型跟踪器的总拦截数。
 social-tab-title = 社交媒体跟踪器
 social-tab-contant = 社交网站将跟踪器嵌到其他网站，跟踪您在网上做了或看了什么。社交媒体公司对您的了解，绝不止于您在社交媒体上分享的信息。<a data-l10n-name="learn-more-link">详细了解</a>
 cookie-tab-title = 跨网站跟踪型 Cookie
