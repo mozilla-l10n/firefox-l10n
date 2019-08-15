@@ -55,7 +55,7 @@
 <!ENTITY proxyConnectFailure.title "Proxy avviste tilkoblingen">
 <!ENTITY proxyConnectFailure.longDesc "<p>Nettleseren er innstilt på å bruke en proxy, men proxy avviste tilkoblingen.</p><ul><li>Er nettleserens proxyinnstillinger korrekte? Kontroller innstillingene og prøv igjen.</li><li>Tillater proxyen tilkoblinger fra dette nettverket?</li><li>Har du fortsatt problem? Kontakt nettverksansvarlig eller Internett-tilbyderen din for mer hjelp.</li></ul>">
 
-<!ENTITY proxyResolveFailure.title "Proxy ikke funnet">
+<!ENTITY proxyResolveFailure.title "Proxy server ikke funnet">
 <!ENTITY proxyResolveFailure.longDesc "<p>Nettleseren er innstilt på å bruke en proxy, men nettleseren klarte ikke å finne proxyen.</p><ul><li>Er nettleserens proxyinnstillinger korrekte? Kontroller innstillingene og prøv igjen.</li><li>Er datamaskinen tilkoblet et aktivt nettverk?</li><li>Har du fortsatt problem? Kontakt nettverksansvarlig eller Internett-tilbyder for mer hjelp.</li></ul>">
 
 <!ENTITY redirectLoop.title "Omdirigeringsløkke">
