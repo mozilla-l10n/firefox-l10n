@@ -37,6 +37,36 @@ cryptominer-tab-title = Kryptominere
 lockwise-title = Glem aldri et passord igjen
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } lagrer passordene dine sikkert i nettleseren din.
+open-about-logins-button = Åpne i { -brand-short-name }
+turn-on-sync = Slå på { -sync-brand-short-name }…
+    .title = Gå til innstillinger for sync
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-sync-status =
+    { $count ->
+        [one] Synkroniserer med { $count } annen enhet
+       *[other] Synkroniserer med { $count } andre enheter
+    }
+lockwise-sync-not-syncing = Synkroniserer ikke med andre enheter.
+monitor-title = Se opp for på datalekkasjer.
+monitor-link = Hvordan det virker
+monitor-header-content = Sjekk { -monitor-brand-name } for å se om du har vært en del av en datalekkasje og få varsler om nye lekkasjer.
+monitor-header-content-logged-in = { -monitor-brand-name } advarer deg om informasjonen din har dukket opp i en kjent datalekkasje
+monitor-sign-up = Registrer deg for datalekkasjevarsler
+auto-scan = Skannes automatisk i dag
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-addresses =
+    { $count ->
+        [one] E-postadresse som overvåkes.
+       *[other] E-postadresser som overvåkes.
+    }
+full-report-link = Se hele rapporten på <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This is the title attribute describing the graph report's link to about:settings#privacy
+go-to-privacy-settings = Gå til personverninnstillinger
+# This is the title attribute describing the Lockwise card's link to about:logins
+go-to-saved-logins = Gå til lagrede innlogginger
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -45,3 +75,17 @@ lockwise-header-content = { -lockwise-brand-name } lagrer passordene dine sikker
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-fingerprinter =
+    .title = Fingerprinters
+    .aria-label =
+        { $count ->
+            [one] { $count } fingerprinter ({ $percentage }%)
+           *[other] { $count } fingerprinters ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Kryptominere
+    .aria-label =
+        { $count ->
+            [one] { $count } kryptominer ({ $percentage }%)
+           *[other] { $count } kryptominere ({ $percentage }%)
+        }
