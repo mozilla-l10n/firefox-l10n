@@ -14,6 +14,8 @@ etp-card-title = Pólěpšony slědowański šćit
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Źinsa
+# This string is used to describe the graph for screenreader users.
+graph-legend-description = Graf, kótaryž cełkownu licbu kuždego typa pśeslědowaka pokazujo, kótaryž jo se zablokěrował toś ten tyźeń.
 social-tab-title = Pśeslědowaki socialnych medijow
 social-tab-contant = Socialne seśi placěruju pśeslědowaki na drugich websedłach, aby slědowali, což online gótujośo, wiźiśo a se wobglědujośo. To pśedewześam socialnych medijow dowólujo, wěcej wó was zgónił ako w profilach socialnych medijow źěliśo. <a data-l10n-name="learn-more-link">Dalšne informacije</a>
 cookie-tab-title = Slědujuce cookieje mjazy sedłami
@@ -52,6 +54,19 @@ lockwise-sync-status =
 lockwise-sync-not-syncing = Z drugimi rědami njesynchronizěrowaś
 monitor-title = Rozglědujśo se za datowymi źěrami
 monitor-link = Kak funkcioněrujo
+monitor-header-content-logged-in = { -monitor-brand-name } was warnujo, jolic waše informacije su se pokazali w znatej datowej źěrje
+monitor-sign-up = Registrěrujśo se za warnowanja wó datowych źěrach
+auto-scan = Źinsa awtomatiski skannowany
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-addresses =
+    { $count ->
+        [one] E-mailowa adresa, kótaraž se doglědujo.
+        [two] E-mailowej adresy, kótarejž se doglědujotej.
+        [few] E-mailowe adrese, kótarež se doglěduju.
+       *[other] E-mailowe adrese, kótarež se doglěduju.
+    }
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = K nastajenjam priwatnosći
 # This is the title attribute describing the Lockwise card's link to about:logins
