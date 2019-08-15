@@ -38,3 +38,4 @@ accessibility-text-label-issue-iframe = Usa attributo <code>title</code> pro des
 accessibility-text-label-issue-image = Contento con imagines debe ser etiquettate. <a>Saper plus</a>
 accessibility-text-label-issue-interactive = Elementos interactive debe ser etiquettate. <a>Saper plus</a>
 accessibility-text-label-issue-optgroup-label = Usa attributo <code>label</code> pro etiquettar elementos <span>optgroup</span>. <a>Saper plus</a>
+accessibility-text-label-issue-toolbar = Barras del instrumentos debe ser etiquettate quando on ha plus de uno. <a>Saper plus</a>
