@@ -62,6 +62,8 @@ lockwise-sync-status =
 lockwise-sync-not-syncing = Z druhimi gratami njesynchronizować
 monitor-title = Rozhladujće so za datowymi dźěrami
 monitor-link = Kak funguje
+monitor-sign-up = Registrujće so za warnowanja wo datowych dźěrach
+auto-scan = Dźensa awtomatisce skenowany
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
