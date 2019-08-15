@@ -40,6 +40,7 @@ graph-legend-description = Graf, kotryž cyłkownu ličbu kóždeho typa přesć
 social-tab-title = Přesćěhowaki socialnych medijow
 social-tab-contant = Socialne syće placěruja přesćěhowaki na druhich websydłach, zo bychu slědowali, što online činiće, widźiće a wobkedźbujeće. To předewzaćam socialnych medijow dowola, wjace wo was zhonił hač w profilach socialnych medijow dźěliće. <a data-l10n-name="learn-more-link">Dalše informacije</a>
 cookie-tab-title = Slědowace placki mjez sydłami
+cookie-tab-content = Tute placki wam wot sydła do sydła slěduja, zo byšće daty wo tym hromadźili, štož online činiće. Stajeja so wot třećich poskićowarjow kaž na přikład wabjerjo a analyzowe předewzaća, Blokowanje slědowacych plackow mjez sydłami ličbu wabjenjow redukuje, kotrež wam slěduja. <a data-l10n-name="learn-more-link">Dalše informacije</a>
 tracker-tab-title = Slědowacy wobsah
 tracker-tab-content = Websydła móža eksterne wabjenje, wideja a druhi wobsah začitać, kotryž slědowacy kod wobsahuja. Hdyž slědowacy wobsah blokujeće, móže to pomhać, sydła spěšnišo začitać, ale někotre tłóčatka, formulary a přizjewjenske pola snano hižo njebudu fungować. <a data-l10n-name="learn-more-link">Dalše informacije</a>
 fingerprinter-tab-title = Porstowe wotćišće
