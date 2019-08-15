@@ -26,11 +26,23 @@ abuse-report-submit-button = Ipadala
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove-extension = Oo, Tanggalin Mo
+abuse-report-messagebar-action-keep-extension = Huwag Nang Ituloy
+abuse-report-messagebar-action-remove-theme = Oo, Tanggalin Mo
+abuse-report-messagebar-action-keep-theme = Huwag Nang Ituloy
 abuse-report-messagebar-action-retry = UlitinSubukan Muli
 abuse-report-messagebar-action-cancel = Kanselahin
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason = Sinisira ang computer at data ko
+abuse-report-damage-example = Halimbawa: Nagpasok ng malware o nagnakaw ng data
+abuse-report-spam-reason = Nagii-spam o nang-aalok ng kung anu-ano
+abuse-report-spam-example = Halimbawa: Nagpapasok ng mga ad sa mga webpage
+abuse-report-settings-reason = Binago ang aking search engine, homepage, o bagong tab nang hindi ako inaabisuhan
+abuse-report-settings-suggestions = Bago isumbong ang extension, subukan mo munang baguhin ang iyong mga setting:
+abuse-report-settings-suggestions-search = Baguhin ang iyong mga default search setting
+abuse-report-settings-suggestions-homepage = Baguhin ang iyong homepage at bagong tab
 abuse-report-deceptive-reason = Mapagpanggap
 abuse-report-deceptive-example = Halimbawa: Mapanlinlang na pagkakalarawan
 abuse-report-broken-reason-extension = Hindi gumagana, naninira ng website, o nagpapabagal sa { -brand-product-name }

@@ -18,9 +18,9 @@
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY pictureInPicture.label "Picture-in-Picture">
 
-<!ENTITY stats.media "Mga Paraan">
+<!ENTITY stats.media "Media">
 <!ENTITY stats.size "Sukat">
-<!ENTITY stats.activity "aktibidad">
+<!ENTITY stats.activity "Aktibidad">
 <!ENTITY stats.activityPaused "Naka-hinto">
 <!ENTITY stats.activityPlaying "paglalaro">
 <!ENTITY stats.activityEnded "pagkatapos">

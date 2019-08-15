@@ -6,7 +6,7 @@
 <!ENTITY  checking.title                  "Sinusuri para sa mga Update">
 <!ENTITY  updateCheck.label               "Hinahanap para sa bagong mga bersyon ng &brandShortName;…">
 
-<!ENTITY  noupdatesfound.title            "Hindi Nahanap ang mga Update">
+<!ENTITY  noupdatesfound.title            "Walang Nahanap na mga Update">
 <!ENTITY  noupdatesautoenabled.intro      "Walang mga update na magagamit. &brandShortName; ay magsusuri paminsan-minsan para sa mga update">
 <!ENTITY  noupdatesautodisabled.intro     "Walang mga update na magagamit. Mangyaring suriin muli sa paglaon o paganahin ang awtomatikong pagsusuri ng pagupdate ng  &brandShortName;.">
 
@@ -51,7 +51,7 @@
 
 <!ENTITY  genericBackgroundError.label    "Ang &brandShortName; ay hindi maaaring tukuyin kung may magagamit na update. Mangyaring
                                            siguraduhin na mayroon kang pinakabagong bersyon ng &brandShortName; mula sa:">
-
+                                           
 <!ENTITY  finishedPage.title              "Nakahanda na ang Update para Iinstall">
 <!ENTITY  finishedPage.text               "Ang update ay maiinstall sa sunod na patakbuhin mo ang &brandShortName;. Ikaw ay maaaring mag-restart sa &brandShortName; ngayon, o magpatuloy na magtrabaho at mag-restart mamaya.">
 
@@ -61,11 +61,9 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Ang update ay iinstall sa sunod na panahon na tatakbo ang &brandShortName;. Ikaw
                                            ay maaaring mag-restart ng &brandShortName; ngayon, o magpatuloy na magtrabaho at mag-restart mamaya.">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.moreElevated "Ang update na ito ay nangangailangan ng mga pribilehiyo ng tagapangasiwa. Ang update ay
                                            ay iinstall sa sunod na panahon na tatakbo ang &brandShortName;. Maari kang mag-restart sa
                                            &brandShortName; ngayon, magpatuloy sa pagtrabaho at mag-restart mamaya o tanggihan ang
                                            update na ito.">
 
-<!ENTITY  update.details.label            "Mga detalye">
-<!ENTITY  update.installedOn.label        "Na-install noong:">
-<!ENTITY  update.status.label             "Estado:">

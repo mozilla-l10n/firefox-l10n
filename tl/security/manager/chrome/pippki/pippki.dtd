@@ -31,11 +31,15 @@
 <!ENTITY pkcs12.setpassword.message  "Poprotektahan ng certificate backup password ang backup file na gagawin mo. Kailangan mong magset ng password para magpatuloy sa pagbackup.">
 <!ENTITY pkcs12.setpassword.reminder "Mahalaga: Kung nakalimutan mo ang iyong password sa backup certificate, hindi mo magagawang ibalik ang backup na ito mamaya. Paki-record ang mga ito sa isang ligtas na lokasyon.">
 
+<!ENTITY chooseToken.title  "Pumili ng Token Dialog">
 <!ENTITY chooseToken.message1 "Mamili ng token.">
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Paggawa ng Private Key">
+<!ENTITY createCertInfo.msg1 "Kasalukuyang gumagawa ng Key… Baka abutin ng ilang minuto….">
 <!ENTITY createCertInfo.msg2 "Pakiintay…">
 
 <!-- Strings for protectedAuth dialog -->
+<!ENTITY protectedAuth.title "Protected Token Authentication">
+<!ENTITY protectedAuth.msg "Paki-authenticate sa token. Nagdedepende ang authentication method sa uri ng iyong token.">
 <!ENTITY protectedAuth.tokenName.label "Token:">
