@@ -42,8 +42,31 @@ tracker-tab-content = Sitos web pote cargar avisos publicitari externe, videos e
 fingerprinter-tab-title = Dactylogrammatores
 fingerprinter-tab-content = Dactylogrammatores collige parametros de tu navigator e computator pro crear un profilo re te. Per iste dactylogramma digital, illos pote traciar te inter le differente sitos web. <a data-l10n-name="learn-more-link">
 cryptominer-tab-title = Cryptominatores
+cryptominer-tab-content = Cryptominatores usa potentia de calculo de tu systema pro cavar moneta digital. Scripts del minatores occulte exhauri tu batteria, relenta tu computator e pote accrescer le factura de tu energia.<a data-l10n-name="learn-more-link">Saper plus</a>
+lockwise-title = Jammais oblidar plus un contrasigno
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-header-content = { -lockwise-brand-name } immagazina con securitate tu contrasignos in tu navigator.
+lockwise-header-content-logged-in = Reserva e synchronisa con securitate tu contrasignos pro totes tu apparatos.
 open-about-logins-button = Aperir in { -brand-short-name }
+lockwise-no-logins-content = Obtene le application <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> pro haber tu contrasignos ubique.
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+lockwise-passwords-stored =
+    { $count ->
+        [one] Contrasigno immagazinate con securitate <a data-l10n-name="lockwise-how-it-works">Como illo functiona</a>
+       *[other] Contrasignos immagazinate con securitate <a data-l10n-name="lockwise-how-it-works">Como illo functiona</a>
+    }
+turn-on-sync = Accende { -sync-brand-short-name }…
+    .title = Ir al preferentias de Sync
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-sync-status =
+    { $count ->
+        [one] Synchronisation a { $count } altere dispositivo
+       *[other] Synchronisation a { $count } altere dispositivos
+    }
+lockwise-sync-not-syncing = Nulle synchronisation a altere apparatos
 monitor-link = Como illo functiona
 
 ## The title attribute is used to display the type of protection.
