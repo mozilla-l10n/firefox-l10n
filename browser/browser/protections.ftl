@@ -31,6 +31,12 @@ etp-card-title = Proteção aprimorada contra rastreamento
 # capitalization for this string should match the output for your locale.
 graph-today = Hoje
 social-tab-title = Rastreadores de mídias sociais
+cookie-tab-title = Cookies de rastreamento entre sites
+tracker-tab-title = Conteúdo de rastreamento
+fingerprinter-tab-title = Fingerprinters
+cryptominer-tab-title = Criptomineradores
+lockwise-title-logged-in = { -lockwise-brand-name }
+monitor-link = Como funciona
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
