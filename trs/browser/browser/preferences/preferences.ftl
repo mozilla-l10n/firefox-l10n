@@ -679,6 +679,10 @@ sitedata-block-desc = Sa naràn riña
     .accesskey = T
 sitedata-option-block-trackers =
     .label = Sa naga'naj a'ngô nej si
+sitedata-option-block-cross-site-trackers =
+    .label = Sa naga'naj riña nej sitiô nadunâ dugui'
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = Sa naga'naj riña nej sîtio ni nej rêd sociâl
 sitedata-option-block-unvisited =
     .label = Si kokî nej sitiô nu atûjt
 sitedata-option-block-all-third-party =
@@ -713,6 +717,7 @@ addressbar-suggestions-settings = Naduno' riña sa ruguñu'unj da' gache nu'
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Garun' riña sa ma
+content-blocking-enhanced-tracking-protection = Sa hua hue'ê doj guendâ nará riña sa naga'naj a
 content-blocking-section-description = Dugumî man'ânt nga aché nunt. Narán riña nej nuguan' nitaj si ra'ngà' hua sani naga'na nùhuin si 'iát nga aché nunt asi nej pefî. Si naránt riña da'aj nej nuguan' nan nj ga'ue gi'iaj sun hìo doj pajinâ nan.
 content-blocking-learn-more = Gahuin chrūn doj
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -731,6 +736,9 @@ content-blocking-strict-description = Si ga'nïn dugumîn hue'eu man doj, ni ga'
 content-blocking-custom-desc = Nagui ahuin si riña naránt.
 content-blocking-private-trackers = Mà riña Windows huìi ga'ue gini'în' nej sa naga'naj yitïnj ïn
 content-blocking-third-party-cookies = Nej kokî nikò' sa nuhui' si ni'ñanj nìko
+content-blocking-etp-standard-desc = Nda hue'ê chre huaj da' gi'iaj sunj ni naran rayi'ît. Nej pâjina ni nayi'nïn riña man dàj rû' 'iaj yitïn.
+content-blocking-etp-strict-desc = Nùkuaj doj naran rayi'ît, sani ga'ue si gi'iaj sun hue'ê da'aj sîtio asi sa màn riñanj.
+content-blocking-etp-custom-desc = Nagui nej sa naga'naj a asi a'ngô sa riña ruhuât naránt.
 content-blocking-all-cookies = daran' nej kôki
 content-blocking-unvisited-cookies = SI kokî nej sitiô nitaj si ni'iajt
 content-blocking-all-windows-trackers = Nej sa naga'naj yitïn riña daran' nej bentâna
