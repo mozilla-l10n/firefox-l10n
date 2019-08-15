@@ -78,7 +78,7 @@ lockwise-sync-not-syncing = Z druhimi gratami njesynchronizować
 monitor-title = Rozhladujće so za datowymi dźěrami
 monitor-link = Kak funguje
 monitor-header-content = Přepruwujće { -monitor-brand-name }, zo byšće zwěsćił, hač sće na datowu dźěru padnył a warnowanja wp nowych dźěrach dóstawaće.
-monitor-header-content-logged-in = { -monitor-brand-name } was warnuje, jeli waše informacije su so w znatej datowewj dźěrje zjewili
+monitor-header-content-logged-in = { -monitor-brand-name } was warnuje, jeli waše informacije su so w znatej datowej dźěrje zjewili
 monitor-sign-up = Registrujće so za warnowanja wo datowych dźěrach
 auto-scan = Dźensa awtomatisce skenowany
 # This string is displayed after a large numeral that indicates the total number
