@@ -57,6 +57,75 @@ lockwise-header-content = Mae { -lockwise-brand-name } yn cadw'ch cyfrineiriau y
 lockwise-header-content-logged-in = Cadwch a chydweddwch eich cyfrineiriau'n ddiogel i'ch holl ddyfeisiau.
 open-about-logins-button = Agorwch yn { -brand-short-name }
 lockwise-no-logins-content = Defnyddiwch yr ap <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name } i gymryd eich cyfrineiriau i bob man.
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+lockwise-passwords-stored =
+    { $count ->
+        [zero] Cyfrineiriau wedi'u cadw'n ddiogel <a data-l10n-name="lockwise-how-it-works">Sut mae'n gweithio</a>
+        [one] Cyfrinair wedi'i gadw'n ddiogel <a data-l10n-name="lockwise-how-it-works">Sut mae'n gweithio</a>
+        [two] Gyfrinair wedi'u cadw'n ddiogel <a data-l10n-name="lockwise-how-it-works">Sut mae'n gweithio</a>
+        [few] Cyfrinair wedi'u cadw'n ddiogel <a data-l10n-name="lockwise-how-it-works">Sut mae'n gweithio</a>
+        [many] Cyfrinair wedi'u cadw'n ddiogel <a data-l10n-name="lockwise-how-it-works">Sut mae'n gweithio</a>
+       *[other] Cyfrinair wedi'u cadw'n ddiogel <a data-l10n-name="lockwise-how-it-works">Sut mae'n gweithio</a>
+    }
+turn-on-sync = Cychwyn { -sync-brand-short-name }…
+    .title = Mynd i ddewisiadau cydweddu
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-sync-status =
+    { $count ->
+        [zero] Cydweddu i { $count } dyfais arall
+        [one] Cydweddu i { $count } dyfais arall
+        [two] Cydweddu i { $count } ddyfais arall
+        [few] Cydweddu i { $count } dyfais arall
+        [many] Cydweddu i { $count } dyfais arall
+       *[other] Cydweddu i { $count } dyfais arall
+    }
+lockwise-sync-not-syncing = Ddim yn cydweddu â dyfeisiau eraill.
+monitor-title = Cadw llygad allan am dor-data.
+monitor-link = Sut mae'n gweithio
+monitor-header-content = Edrychwch ar { -monitor-brand-name } i weld a ydych chi wedi bod yn rhan o dor-data a chael rhybuddion am dor-data newydd.
+monitor-header-content-logged-in = Mae { -monitor-brand-name } yn eich rhybuddio os yw'ch manylion wedi ymddangos mewn tor-data hysbys
+monitor-sign-up = Cofrestrwch am Rybuddion Tor-data
+auto-scan = Wedi'u sganio'n awtomatig heddiw
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-addresses =
+    { $count ->
+        [zero] Cyfeiriadau e-bost yn cael eu monitro
+        [one] Cyfeiriad e-bost yn cael ei fonitro
+        [two] Gyfeiriad e-bost yn cael eu monitro
+        [few] Cyfeiriad e-bost yn cael eu monitro
+        [many] Cyfeiriad e-bost yn cael eu monitro
+       *[other] Cyfeiriad e-bost yn cael eu monitro
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches =
+    { $count ->
+        [zero] Tor-data hysbys wedi amlygu eich manylion
+        [one] Tor-data hysbys wedi amlygu eich manylion
+        [two] Dor-data hysbys wedi amlygu eich manylion
+        [few] Tor-data hysbys wedi amlygu eich manylion
+        [many] Tor-data hysbys wedi amlygu eich manylion
+       *[other] Tor-data hysbys wedi amlygu eich manylion
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords =
+    { $count ->
+        [zero] Cyfrineiriau wedi'u hamlygu ar draws pob tor-data
+        [one] Cyfrinair wedi'i amlygu ar draws pob tor-data
+        [two] Gyfrinair wedi'u hamlygu ar draws pob tor-data
+        [few] Cyfrinair wedi'u hamlygu ar draws pob tor-data
+        [many] Cyfrinair wedi'u hamlygu ar draws pob tor-data
+       *[other] Cyfrinair wedi'u hamlygu ar draws pob tor-data
+    }
+full-report-link = Mae'r adroddiad llawn yn <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
