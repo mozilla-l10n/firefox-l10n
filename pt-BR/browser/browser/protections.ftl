@@ -38,6 +38,7 @@ cookie-tab-title = Cookies de rastreamento entre sites
 tracker-tab-title = Conteúdo de rastreamento
 fingerprinter-tab-title = Fingerprinters
 cryptominer-tab-title = Criptomineradores
+lockwise-title = Nunca esqueça uma senha novamente
 lockwise-title-logged-in = { -lockwise-brand-name }
 monitor-link = Como funciona
 
