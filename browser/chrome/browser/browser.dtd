@@ -913,6 +913,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Dizze cookies folgje jo fan website nei website om gegevens oer wat jo online dogge te sammeljen. Se wurde pleatst troch tredden, lykas advertinsjeburo's en analysebedriuwen.">
 <!ENTITY protections.cryptominers.description "Cryptominers brûke de rekkenkrêft fan jo systeem om digitale faluta te generearjen. Cryptominer-scripts lûke jo batterij leech, fertraagje jo kompjûter en kinne jo enerzjyrekkening omheech jeie.">
 <!ENTITY protections.fingerprinters.description "Fingerprinters sammelje ynstellingen fan jo browser en kompjûter om in profyl fan jo te meitsjen. Mei help fan dizze digitale fingerôfdruk kinne se jo op ferskate websites folgje.">
+<!ENTITY protections.trackingContent.description "Websites kinne eksterne advertinsjes, fideo’s en oare ynhâld lade dy't folchkoade befettet. It blokkearjen fan folchynhâld kin websites helpe flugger te laden, mar guon knoppen, formulieren en oanmeldfjilden wurkje mooglik net.">
+<!ENTITY protections.socialMediaTrackers.description "Sosjale netwurken pleatse trackers op oare websites om te folgjen wat jo online dogge en besjogge. Hjirtroch kinne sosjale-mediabedriuwen mear oer jo leare dan wat jo diele op jo sosjale-mediaprofilen.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -979,9 +981,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "Ynhâldsblokkearring kin problemen mei bepaalde websites feroarsaakje. As jo problemen rapportearje, helpe jo &brandShortName; foar elkenien te ferbetterjen. (Hjirtroch wurdt sawol in URL as ynformaasje oer jo browserynstellingen nei Mozilla ferstjoerd.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Mear ynfo">
 <!ENTITY contentBlocking.breakageReportView.title "Net-wurkjende website melde">
+<!ENTITY contentBlocking.breakageReportView3.description "It blokkearjen fan bepaalde trackers kin problemen mei bepaalde websites feroarsaakje. Troch dizze problemen te melden, helpe jo &brandShortName; foar elkenien te ferbetterjen. As jo dit rapport ferstjoere, wurdt sawol in URL as ynformaasje oer jo browserynstellingen nei Mozilla ferstjoerd.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Mear ynfo">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Hokker problemen hiene jo? (Opsjoneel)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Opsjoneel: beskriuw it probleem">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Rapport ferstjoere">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Annulearje">
 
