@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Utsûnderingen - Ynhâldsblokkearring
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Jo hawwe ynhâldsblokkearring útskeakele op dizze websites.
+permissions-exceptions-etp-window =
+    .title = Utsûnderingen foar Ferbettere beskerming tsjin folgjen
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Jo hawwe beskermingen foar dizze websites útskeakele.
 
 ## Exceptions - Cookies
 
