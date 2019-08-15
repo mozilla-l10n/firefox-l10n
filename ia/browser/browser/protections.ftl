@@ -31,8 +31,15 @@ etp-card-content = Le traciatores te seque circum online pro colliger informatio
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Hodie
+# This string is used to describe the graph for screenreader users.
+graph-legend-description = Un graphico que contine le numero total de cata typo de traciator blocate iste septimana.
+social-tab-title = Traciatores de retes social
+social-tab-contant = Retes social placia traciatores sur altere sitos web pro sequer lo que tu face, vide e observa online. Isto consenti al companias de retes social de saper plus re te, ultra illo que tu comparti sur tu profilo de retes social. <a data-l10n-name="learn-more-link">Saper plus</a>
 cookie-tab-title = Cookies de traciamento tra sitos
+cookie-tab-content = Iste cookies te seque de sito a sito pro colliger datos re lo que tu face online. Illos es ponite per tertie partes tal como publicitarios e companias de analyse datos. Blocar le cookies traciator tra sitos reduce le numero de avisos publicitari que te seque. <a data-l10n-name="learn-more-link">
 tracker-tab-title = Contento traciator
+tracker-tab-content = Sitos web pote cargar avisos publicitari externe, videos e altere contento que contine codification de traciamento. Blocar contento traciator pote adjutar a cargar sitos plus velocemente, ma alcun buttones, formas e campos de accesso pote non functionar. <a data-l10n-name="learn-more-link">
+fingerprinter-tab-title = Dactylogrammatores
 cryptominer-tab-title = Cryptominatores
 lockwise-title-logged-in = { -lockwise-brand-name }
 open-about-logins-button = Aperir in { -brand-short-name }
