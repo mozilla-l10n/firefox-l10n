@@ -52,6 +52,32 @@ lockwise-sync-status =
     }
 lockwise-sync-not-syncing = No se está sincronizando con otros dispositivos.
 monitor-link = Cómo funciona
+monitor-sign-up = Regístrate para recibir alertas de filtraciones
+auto-scan = Escaneado automáticamente el día de hoy
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-addresses =
+    { $count ->
+        [one] Dirección de correo monitoreada.
+       *[other] Direcciones de correos monitoreadas.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches =
+    { $count ->
+        [one] Una filtración de datos conocida ha expuesto tu información.
+       *[other] Filtraciones de datos conocidas han expuesto tu información.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords =
+    { $count ->
+        [one] Contraseña expuesta dentro de las filtraciones.
+       *[other] Contraseñas expuestas dentro de las filtraciones.
+    }
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = Ir a los ajustes de privacidad
 # This is the title attribute describing the Lockwise card's link to about:logins
