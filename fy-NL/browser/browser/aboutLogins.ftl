@@ -100,10 +100,26 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Annulearje
 confirmation-dialog-dismiss-button =
     .title = Annulearje
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Wolle jo jo oanmeldingen oeral wêr't jo { -brand-product-name } brûke? Gean nei de opsjes fan { -sync-brand-short-name } en finkje it fjild Oanmeldingen oan.
+       *[other] Wolle jo jo oanmeldingen oeral wêr't jo { -brand-product-name } brûke? Gean nei de foarkarren fan { -sync-brand-short-name } en finkje it fjild Oanmeldingen oan.
+    }
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] { -sync-brand-short-name }-opsjes besjen
+           *[other] { -sync-brand-short-name }-foarkarren besjen
+        }
+    .accesskey = b
 confirm-delete-dialog-title = Dizze oanmelding fuortsmite?
 confirm-delete-dialog-message = Dizze aksje kin net ûngedien makke wurde.
 confirm-delete-dialog-confirm-button = Fuortsmite
+confirm-discard-changes-dialog-title = Dizze wizigingen ferwerpe?
+confirm-discard-changes-dialog-message = Alle net-bewarre wizigingen gean ferlern.
 confirm-discard-changes-dialog-confirm-button = Ferwerpe
 
 ## Breach Alert notification
 
+breach-alert-text = Wachtwurden út dizze website binne lekt of stellen sûnt jo foar it lêst jo oanmeldgegevens bywurke hawwe. Wizigje jo wachtwurd om jo account te beskermjen.
+breach-alert-link = Mear ynfo oer dit datalek

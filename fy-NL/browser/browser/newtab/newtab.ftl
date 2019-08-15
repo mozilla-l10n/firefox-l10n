@@ -116,6 +116,7 @@ newtab-menu-open-file = Bestân iepenje
 
 newtab-label-visited = Besocht
 newtab-label-bookmarked = Blêdwizer makke
+newtab-label-removed-bookmark = Blêdwizer fuortsmiten
 newtab-label-recommended = Trending
 newtab-label-saved = Bewarre nei { -pocket-brand-name }
 newtab-label-download = Download
@@ -140,6 +141,10 @@ newtab-section-menu-privacy-notice = Privacyferklearring
 
 ## Section aria-labels
 
+newtab-section-collapse-section-label =
+    .aria-label = Seksje ynklappe
+newtab-section-expand-section-label =
+    .aria-label = Seksje útklappe
 
 ## Section Headers.
 
@@ -159,8 +164,12 @@ newtab-empty-section-topstories = Jo binne by. Kom letter werom foar mear ferhal
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = Jo binne folslein by!
+newtab-discovery-empty-section-topstories-content = Kom letter werom foar mear ferhalen.
 newtab-discovery-empty-section-topstories-try-again-button = Opnij probearje
 newtab-discovery-empty-section-topstories-loading = Lade…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Oeps! Wy hiene dizze seksje hast laden, mar dochs net hielendal.
 
 ## Pocket Content Section.
 
