@@ -19,3 +19,17 @@ monitor-link = Como illo functiona
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-cookie =
+    .title = Cookies de traciamento tra sitos
+    .aria-label =
+        { $count ->
+            [one] { $count } cookie de traciamento tra sitos ( { $percentage } %)
+           *[other] { $count } cookies de traciamento tra sitos ( { $percentage } %)
+        }
+bar-tooltip-cryptominer =
+    .title = Cryptominatores
+    .aria-label =
+        { $count ->
+            [one] { $count } cryptominator ({ $percentage }%)
+           *[other] { $count } cryptominatores ({ $percentage }%)
+        }
