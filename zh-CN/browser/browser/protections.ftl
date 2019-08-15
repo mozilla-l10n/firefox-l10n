@@ -14,7 +14,7 @@ graph-week-summary =
 # earliest date recorded in the database.
 graph-total-summary =
     { $count ->
-       *[other] 自 { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } 起，拦截了 { $count } 个跟踪器
+       *[other] 自 { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } 起，已拦截 { $count } 个跟踪器
     }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -42,6 +42,7 @@ lockwise-title = 不再忘记密码
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } 将您的密码安全地存储在浏览器中。
 lockwise-header-content-logged-in = 安全地存储密码，并同步到您的所有设备。
+open-about-logins-button = 在 { -brand-short-name } 中打开
 lockwise-no-logins-content = 下载 <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> 应用程序，将密码随身携带。
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -56,10 +57,13 @@ turn-on-sync = 开启{ -sync-brand-short-name }…
 #   $count (Number) - Number of devices connected with sync.
 lockwise-sync-status =
     { $count ->
-       *[other] 与另 { $count } 台设备同步
+       *[other] 与其他 { $count } 台设备同步
     }
 lockwise-sync-not-syncing = 未与其他设备同步。
 monitor-title = 帮你关心数据泄漏事故
+monitor-link = 工作原理
+monitor-header-content = 到 { -monitor-brand-name } 检测您是否处于数据外泄事件之中，并在有新外泄事件时收到警报。
+monitor-header-content-logged-in = 若您的信息出现在已知的数据外泄事件中，{ -monitor-brand-name } 将警告您
 monitor-sign-up = 订阅数据外泄警报
 auto-scan = 本日已自动扫描
 full-report-link = 到 <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a> 查看完整报告
