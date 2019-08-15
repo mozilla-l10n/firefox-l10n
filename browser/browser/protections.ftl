@@ -2,6 +2,28 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+graph-week-summary =
+    { $count ->
+        [one] ამ დღეებში { $count } მეთვალყურეა აღმოჩენილი, რომელსაც { -brand-short-name } ზღუდავს
+       *[other] ამ დღეებში { $count } მეთვალყურეა აღმოჩენილი, რომლებსაც { -brand-short-name } ზღუდავს
+    }
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
+# earliest date recorded in the database.
+graph-total-summary =
+    { $count ->
+        [one] { $count } მეთვალყურეა შეზღუდული თარიღიდან { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+       *[other] { $count } მეთვალყურეა შეზღუდული თარიღიდან { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+    }
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-header-details-standard = დაცვის დონედ მითითებულია <b>ჩვეულებრივი</b>
+protection-header-details-strict = დაცვის დონედ მითითებულია <b>მკაცრი</b>
+protection-header-details-custom = დაცვის დონედ მითითებულია <b>მორგებული</b>
 etp-card-title = თვალთვალისგან გაძლიერებული დაცვა
 etp-card-content = მეთვალყურეები თან დაგყვებათ მთელ ინტერნეტში და აგროვებს ინფრომაციას თქვენი ჩვევებისა და მისწრაფებების შესახებ. { -brand-short-name } ზღუდავს ამ მეთვალყურეების უმეტესობასა და სხვა მავნე კოდებსაც.
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
