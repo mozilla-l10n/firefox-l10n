@@ -67,7 +67,37 @@ lockwise-sync-status =
        *[other] Synchronisation a { $count } altere dispositivos
     }
 lockwise-sync-not-syncing = Nulle synchronisation a altere apparatos
+monitor-title = Reguardar violationes de datos
 monitor-link = Como illo functiona
+monitor-header-content = Discoperi { -monitor-brand-name } si tu ha essite parte de un violation de datos e recipe avisos re nove violationes.
+monitor-header-content-logged-in = { -monitor-brand-name } te adverti si tu information ha apparite in un note violation de datos
+monitor-sign-up = Inscribe te al Avisos de violation
+auto-scan = Automaticamente scandite hodie
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-addresses =
+    { $count ->
+        [one] Adresse email a esser controlate
+       *[other] Adresses email a esser controlate
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches =
+    { $count ->
+        [one] Note violation de datos ha exponite tu informationes.
+       *[other] Note violationes de datos ha exponite tu informationes.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords =
+    { $count ->
+        [one] Contrasigno exponite tra tote le violationes
+       *[other] Contrasignos exponite tra tote le violationes
+    }
+full-report-link = Vider reporto complete sur <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
