@@ -2,8 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Extensió recomanada
+cfr-doorhanger-feature-heading = Funció recomanada
 cfr-doorhanger-pintab-heading = Proveu això: Fixa la pestanya
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Per què veig això?
 cfr-doorhanger-extension-cancel-button = Ara no
@@ -62,3 +69,19 @@ cfr-doorhanger-bookmark-fxa-link-text = Sincronitza ara les adreces d'interès�
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Botó Tanca
     .title = Tanca
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Novetats
+    .tooltiptext = Novetats
+cfr-whatsnew-panel-header = Novetats
+
+## Bookmark Sync
+
+
+## Send Tab
+
+
+## Firefox Send
+

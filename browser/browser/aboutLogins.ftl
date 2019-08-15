@@ -62,6 +62,7 @@ login-intro-instruction-faq = Vegeu les <a data-l10n-name="faq">preguntes més f
 
 ## Login
 
+login-item-new-login-title = Crea un inici de sessió
 login-item-edit-button = Edita
 login-item-delete-button = Suprimeix
 login-item-origin-label = Adreça del lloc web
@@ -120,3 +121,5 @@ confirm-discard-changes-dialog-confirm-button = Descarta
 
 ## Breach Alert notification
 
+breach-alert-text = S'han filtrat o robat contrasenyes d'aquest lloc web des de la darrera vegada que en vàreu actualitzar les vostres dades d'inici de sessió. Canvieu la contrasenya per protegir el vostre compte.
+breach-alert-link = Més informació sobre aquesta filtració.
