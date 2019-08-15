@@ -126,6 +126,22 @@ info-exposed-passwords =
        *[other] Cyfrinair wedi'u hamlygu ar draws pob tor-data
     }
 full-report-link = Mae'r adroddiad llawn yn <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [zero] Mewngofnodion wedi'u cadw wedi'u hamlygu mewn tor-data. Newidiwch y cyfrineiriau hyn i gael gwell diogelwch ar-lein. <a data-l10n-name="lockwise-link">Edrych ar eich Mewngofnodion wedi'u Cadw</a>
+        [one] Mewngofnod wedi'i gadw o bosib wedi'i amlygu mewn tor-data. Newidiwch y cyfrinair hwn i gael gwell diogelwch ar-lein. <a data-l10n-name="lockwise-link">Edrych ar eich Mewngofnodion wedi'u Cadw</a>
+        [two] Fewngofnod wedi'i gadw o bosib wedi'i amlygu mewn tor-data. Newidiwch y cyfrineiriau hyn i gael gwell diogelwch ar-lein. <a data-l10n-name="lockwise-link">Edrych ar eich Mewngofnodion wedi'u Cadw</a>
+        [few] Mewngofnod wedi'i gadw o bosib wedi'i amlygu mewn tor-data. Newidiwch y cyfrineiriau hyn i gael gwell diogelwch ar-lein. <a data-l10n-name="lockwise-link">Edrych ar eich Mewngofnodion wedi'u Cadw</a>
+        [many] Mewngofnod wedi'i gadw o bosib wedi'i amlygu mewn tor-data. Newidiwch y cyfrineiriau hyn i gael gwell diogelwch ar-lein. <a data-l10n-name="lockwise-link">Edrych ar eich Mewngofnodion wedi'u Cadw</a>
+       *[other] Mewngofnod wedi'i gadw o bosib wedi'i amlygu mewn tor-data. Newidiwch y cyfrineiriau hyn i gael gwell diogelwch ar-lein. <a data-l10n-name="lockwise-link">Edrych ar eich Mewngofnodion wedi'u Cadw</a>
+    }
+# This is the title attribute describing the graph report's link to about:settings#privacy
+go-to-privacy-settings = Ewch i'r Gosodiadau Preifatrwydd
+# This is the title attribute describing the Lockwise card's link to about:logins
+go-to-saved-logins = Ewch i'r Mewngofnodin wedi'u Cadw
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -134,3 +150,25 @@ full-report-link = Mae'r adroddiad llawn yn <a data-l10n-name="monitor-inline-li
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Tracwyr Cyfryngau Cymdeithasol
+    .aria-label =
+        { $count ->
+            [zero] { $count } tracwyr cyfryngau cymdeithasol ({ $percentage }%)
+            [one] { $count } traciwr cyfryngau cymdeithasol ({ $percentage }%)
+            [two] { $count } draciwr cyfryngau cymdeithasol ({ $percentage }%)
+            [few] { $count } traciwr cyfryngau cymdeithasol ({ $percentage }%)
+            [many] { $count } traciwr cyfryngau cymdeithasol ({ $percentage }%)
+           *[other] { $count } traciwr cyfryngau cymdeithasol ({ $percentage }%)
+        }
+bar-tooltip-cookie =
+    .title = Cwcis Tracio Traws-Gwefan
+    .aria-label =
+        { $count ->
+            [zero] { $count } cwcis tracio traws-gwefan ({ $percentage }%)
+            [one] { $count } cwci tracio traws-gwefan ({ $percentage }%)
+            [two] { $count } gwci tracio traws-gwefan ({ $percentage }%)
+            [few] { $count } cwci tracio traws-gwefan ({ $percentage }%)
+            [many] { $count } cwci tracio traws-gwefan ({ $percentage }%)
+           *[other] { $count } cwci tracio traws-gwefan ({ $percentage }%)
+        }
