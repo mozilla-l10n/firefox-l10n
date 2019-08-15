@@ -79,6 +79,8 @@
 <!ENTITY fullScreenAutohide.accesskey "N">
 <!ENTITY fullScreenExit.label "Esci da schermo intero">
 <!ENTITY fullScreenExit.accesskey "E">
+<!ENTITY pictureInPictureHideToggle.label "Nascondi selettore Picture-in-Picture">
+<!ENTITY pictureInPictureHideToggle.accesskey "N">
 <!ENTITY fxa.signin.callout.label "Porta Firefox con te">
 <!ENTITY fxa.signin.description.label "Ritrova segnalibri, cronologia, password e altre impostazioni su tutti i tuoi dispositivi.">
 <!ENTITY fxa.signin.button.label "Attiva &syncBrand.shortName.label;…">
@@ -336,6 +338,7 @@
 <!ENTITY searchIcon.tooltip "Cerca">
 <!ENTITY searchFor.label "Cerca ">
 <!ENTITY searchWith.label " con:">
+<!ENTITY searchWithDesc.label "Adesso cerca con:">
 <!ENTITY searchWithHeader.label "Cerca con:">
 <!ENTITY search.label "Cerca con ">
 <!ENTITY searchAfter.label "">
