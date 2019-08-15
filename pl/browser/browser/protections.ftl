@@ -73,6 +73,51 @@ lockwise-sync-status =
 lockwise-sync-not-syncing = Żadne inne urządzenia nie są synchronizowane.
 monitor-title = Miej oko na wyciekach danych
 monitor-link = Jak to działa
+monitor-header-content = Wypróbuj { -monitor-brand-name }, aby sprawdzić, czy Twoje dane nie wyciekły i otrzymywać powiadomienia o nowych wyciekach danych.
+monitor-header-content-logged-in = { -monitor-brand-name } ostrzega, jeśli Twoje dane pojawiły się w znanym wycieku
+monitor-sign-up = Subskrybuj powiadomienia o wyciekach
+auto-scan = Automatycznie przeskanowano dzisiaj
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-addresses =
+    { $count ->
+        [one] monitorowany adres e-mail.
+        [few] monitorowane adresy e-mail.
+       *[many] monitorowanych adresów e-mail.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches =
+    { $count ->
+        [one] znany wyciek ujawnił Twoje dane.
+        [few] znane wycieki ujawniły Twoje dane.
+       *[many] znanych wycieków ujawniło Twoje dane.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords =
+    { $count ->
+        [one] hasło zostało ujawnione we wszystkich wyciekach.
+        [few] hasła zostały ujawnione we wszystkich wyciekach.
+       *[many] haseł zostało ujawnionych we wszystkich wyciekach.
+    }
+full-report-link = Wyświetl pełny raport w usłudze <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] zachowane dane logowania mogły zostać ujawnione w wycieku danych. Zmień to hasło, aby zachować bezpieczeństwo w Internecie. <a data-l10n-name="lockwise-link">Wyświetl zachowane dane logowania</a>
+        [few] zachowane dane logowania mogły zostać ujawnione w wycieku danych. Zmień te hasła, aby zachować bezpieczeństwo w Internecie. <a data-l10n-name="lockwise-link">Wyświetl zachowane dane logowania</a>
+       *[many] zachowanych danych logowania mogło zostać ujawnionych w wycieku danych. Zmień te hasła, aby zachować bezpieczeństwo w Internecie. <a data-l10n-name="lockwise-link">Wyświetl zachowane dane logowania</a>
+    }
+# This is the title attribute describing the graph report's link to about:settings#privacy
+go-to-privacy-settings = Otwórz ustawienia prywatności
+# This is the title attribute describing the Lockwise card's link to about:logins
+go-to-saved-logins = Wyświetl zachowane dane logowania
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -81,3 +126,43 @@ monitor-link = Jak to działa
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Elementy śledzące serwisów społecznościowych
+    .aria-label =
+        { $count ->
+            [one] { $count } element śledzący serwisów społecznościowych ({ $percentage }%)
+            [few] { $count } elementy śledzące serwisów społecznościowych ({ $percentage }%)
+           *[many] { $count } elementów śledzących serwisów społecznościowych ({ $percentage }%)
+        }
+bar-tooltip-cookie =
+    .title = Ciasteczka śledzące między witrynami
+    .aria-label =
+        { $count ->
+            [one] { $count } ciasteczko śledzące między witrynami ({ $percentage }%)
+            [few] { $count } ciasteczka śledzące między witrynami ({ $percentage }%)
+           *[many] { $count } ciasteczek śledzących między witrynami ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = Treści z elementami śledzącymi
+    .aria-label =
+        { $count ->
+            [one] { $count } treść z elementami śledzącymi ({ $percentage }%)
+            [few] { $count } treści z elementami śledzącymi ({ $percentage }%)
+           *[many] { $count } treści z elementami śledzącymi ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Elementy śledzące przez zbieranie informacji o konfiguracji
+    .aria-label =
+        { $count ->
+            [one] { $count } element śledzący przez zbieranie informacji o konfiguracji ({ $percentage }%)
+            [few] { $count } elementy śledzące przez zbieranie informacji o konfiguracji ({ $percentage }%)
+           *[many] { $count } elementów śledzących przez zbieranie informacji o konfiguracji ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Elementy używające komputera użytkownika do generowania kryptowalut
+    .aria-label =
+        { $count ->
+            [one] { $count } element używający komputera użytkownika do generowania kryptowalut ({ $percentage }%)
+            [few] { $count } elementy używające komputera użytkownika do generowania kryptowalut ({ $percentage }%)
+           *[many] { $count } elementów używających komputera użytkownika do generowania kryptowalut ({ $percentage }%)
+        }
