@@ -137,6 +137,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Jo moatte jo account ferifiearje eardat jo syngronisearje kinne.">
 <!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label;-ynstellingen iepenje…">
 
+<!ENTITY pictureInPictureHideToggle.label "Ofbylding-yn-ôfbylding-skeakeler ferstopje">
+<!ENTITY pictureInPictureHideToggle.accesskey "O">
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -146,11 +149,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.connectAnotherDevice2.label "In oar apparaat ferbine…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!ENTITY fxa.menu.signin.label "Oanmelde by &brandProductName;">
+<!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; ynskeakelje">
 <!ENTITY fxa.menu.account.label "Account">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName;-tsjinsten">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "Stjoer in ljepblêd daliks nei elk apparaat wêrop jo oanmeld binne.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -529,6 +535,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Sykje mei:">
+
+<!-- LOCALIZATION NOTE (searchWithDesc.label):
+     This string prompts the user to use the list of one-click search engines in
+     the Urlbar and searchbar. -->
+<!ENTITY searchWithDesc.label         "Diskear sykje mei:">
+
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -803,15 +815,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label2)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Ferbiningsbefeiliging">
 
+<!ENTITY identity.connectionSecure2 "Ferbining feilich">
 <!ENTITY identity.connectionNotSecure "Ferbining is net befeilige">
+<!ENTITY identity.connectionNotSecureSecurityView "Jo hawwe in ûnbefeilige ferbining mei dizze website.">
 <!ENTITY identity.connectionFile "Dizze side is op jo kompjûter bewarre.">
 <!ENTITY identity.connectionVerified2 "Jo hawwe in befeilige ferbining mei dizze website, hokker beheard wurdt troch:">
+<!ENTITY identity.connectionVerified3 "Jo hawwe in befeilige ferbining mei dizze website.">
 <!ENTITY identity.connectionInternal "Dit is in befeilige &brandShortName;-side.">
 <!ENTITY identity.extensionPage "Dizze side is laden fan in útwreiding út.">
 <!ENTITY identity.insecureLoginForms2 "Ynfierde oanmeldingen op dizze side soene oernommen wurde kinne.">
 <!ENTITY identity.customRoot "Ferbining ferifiearre troch in sertifikaatútjouwer dy't net troch Mozilla werkend wurdt.">
 
+<!ENTITY identity.evOwnerLabel "Website beheard troch:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; hat ûnderdielen fan dizze side dy't net befeilige binne blokkearre.">
@@ -848,22 +865,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Tastimmingen">
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "Tastimmingen ynsteld">
 <!ENTITY identity.permissionsEmpty "Jo hawwe dizze website gjin spesjale tastimmingen jûn.">
 <!ENTITY identity.permissionsReloadHint "It is mooglik dat jo de side opnij lade moatte om de wizigingen aktyf te meitsjen.">
 <!ENTITY identity.permissionsPreferences.tooltip "Opsjes tastimmingen iepenje">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Foarkarren foar ynhâldsblokkearring iepenje">
 
 
+<!ENTITY protections.etpON.header "Ferbettere beskerming tsjin folgjen is OAN foar dizze website">
+<!ENTITY protections.etpOFF.header "Ferbettere beskerming tsjin folgjen is ÚT foar dizze website">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Mear ynformaasje oer Ferbettere beskerming tsjin folgjen">
+<!ENTITY protections.settings.label "Beskermingsynstellingen">
+<!ENTITY protections.report.label "Folslein rapport toane">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "Wurket de website net?">
+<!ENTITY protections.siteNotWorkingView.title "Wurket de website net?">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Skeakelje beskermingen út as jo problemen hawwe mei:">
 <!ENTITY protections.siteNotWorkingView.issueList.logInFields "Oanmeldfjilden">
 <!ENTITY protections.siteNotWorkingView.issueList.forms "Formulieren">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Betellingen">
@@ -875,10 +901,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.blocking.label "Blokkearre">
 <!ENTITY protections.notBlocking.label "Net blokkearre">
 <!ENTITY protections.notBlocking.why.label "Wêrom?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Troch dizze te blokkearjen wurkje eleminten fan guon websites mooglik net. Sûnder trackers wurkje guon knoppen, formulieren en oanmeldfjilden mooglik net.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Troch beskermingen út te skeakeljen wurde alle trackers op dizze website tastien. It kin ek de funksjonaliteit fan de website ferbetterje.">
+<!ENTITY protections.socialMediaTrackers.label "Sosjale-mediatrackers">
+<!ENTITY protections.crossSiteTrackingCookies.label "Cross-site-trackingcookies">
 <!ENTITY protections.trackingContent.label "Folchynhâld">
 <!ENTITY protections.fingerprinters.label "Fingerprinters">
 <!ENTITY protections.cryptominers.label "Cryptominers">
+<!ENTITY protections.noTrackersFound.description "Op dizze side binne gjin by &brandShortName; bekende trackers oantroffen.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Dizze cookies folgje jo fan website nei website om gegevens oer wat jo online dogge te sammeljen. Se wurde pleatst troch tredden, lykas advertinsjeburo's en analysebedriuwen.">
+<!ENTITY protections.cryptominers.description "Cryptominers brûke de rekkenkrêft fan jo systeem om digitale faluta te generearjen. Cryptominer-scripts lûke jo batterij leech, fertraagje jo kompjûter en kinne jo enerzjyrekkening omheech jeie.">
+<!ENTITY protections.fingerprinters.description "Fingerprinters sammelje ynstellingen fan jo browser en kompjûter om in profyl fan jo te meitsjen. Mei help fan dizze digitale fingerôfdruk kinne se jo op ferskate websites folgje.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->

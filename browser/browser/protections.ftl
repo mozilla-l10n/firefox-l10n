@@ -42,7 +42,7 @@ tracker-tab-content = Websites kinne eksterne advertinsjes, fideo’s en oare yn
 fingerprinter-tab-title = Fingerprinters
 fingerprinter-tab-content = Fingerprinters sammelje ynstellingen fan jo browser en kompjûter om in profyl fan jo te meitsjen. Mei help fan dizze digitale fingerôfdruk kinne se jo op ferskate websites folgje. <a data-l10n-name="learn-more-link">Mear ynfo</a>
 cryptominer-tab-title = Cryptominers
-cryptominer-tab-content = Cryptominers brûke de rekkenkrêft fan jo systeem om digitale faluta te generearjen. Cryptominer-scripts lûke jo batterij leech, fertraagje jo kompjûter en kinne jo enerzjyrekkening omheech jage. <a data-l10n-name="learn-more-link">Mear ynfo</a>
+cryptominer-tab-content = Cryptominers brûke de rekkenkrêft fan jo systeem om digitale faluta te generearjen. Cryptominer-scripts lûke jo batterij leech, fertraagje jo kompjûter en kinne jo enerzjyrekkening omheech jeie. <a data-l10n-name="learn-more-link">Mear ynfo</a>
 lockwise-title = Ferjit nea mear in wachtwurd
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } bewarret jo wachtwurden feilich yn jo browser.
@@ -98,6 +98,18 @@ info-exposed-passwords =
        *[other] wachtwurden lekt yn alle lekken.
     }
 full-report-link = Besjoch it folsleine rapport op <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] bewarre oanmelding is mooglik lekt yn in datalek. Wizigje dit wachtwurd foar bettere online befeiliging. <a data-l10n-name="lockwise-link">Bewarre oanmeldingen besjen</a>
+       *[other] bewarre oanmeldingen binne mooglik lekt yn in datalek. Wizigje dizze wachtwurden foar bettere online befeiliging. <a data-l10n-name="lockwise-link">Bewarre oanmeldingen besjen</a>
+    }
+# This is the title attribute describing the graph report's link to about:settings#privacy
+go-to-privacy-settings = Nei privacyynstellingen
+# This is the title attribute describing the Lockwise card's link to about:logins
+go-to-saved-logins = Nei bewarre oanmeldingen
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -106,3 +118,38 @@ full-report-link = Besjoch it folsleine rapport op <a data-l10n-name="monitor-in
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Sosjale-mediatrackers
+    .aria-label =
+        { $count ->
+            [one] { $count } sosjale-mediatracker ({ $percentage }%)
+           *[other] { $count } sosjale-mediatrackers ({ $percentage }%)
+        }
+bar-tooltip-cookie =
+    .title = Cross-site-trackingcookies
+    .aria-label =
+        { $count ->
+            [one] { $count } cross-site-trackingcookie ({ $percentage }%)
+           *[other] { $count } cross-site-trackingcookies ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = Folchynhâld
+    .aria-label =
+        { $count ->
+            [one] { $count } folchynhâlditem ({ $percentage }%)
+           *[other] { $count } folchynhâlditems ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Fingerprinters
+    .aria-label =
+        { $count ->
+            [one] { $count } fingerprinter ({ $percentage }%)
+           *[other] { $count } fingerprinters ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Cryptominers
+    .aria-label =
+        { $count ->
+            [one] { $count } cryptominer ({ $percentage }%)
+           *[other] { $count } cryptominers ({ $percentage }%)
+        }
