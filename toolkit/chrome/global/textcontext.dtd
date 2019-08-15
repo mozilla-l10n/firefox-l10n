@@ -31,6 +31,8 @@
 <!ENTITY fillLoginMenu.accesskey      "y">
 <!ENTITY fillSuggestedPassword.label  "In foarsteld wachtwurd brûke">
 <!ENTITY fillSuggestedPassword.accesskey "I">
+<!ENTITY fillGeneratedPassword.label  "In feilich oanmakke wachtwurd brûke">
+<!ENTITY fillGeneratedPassword.accesskey "f">
 <!ENTITY fillPasswordMenu.label       "Wachtwurd ynfolje">
 <!ENTITY fillPasswordMenu.accesskey   "y">
 <!ENTITY fillUsernameMenu.label       "Brûkersnamme ynfolje">
