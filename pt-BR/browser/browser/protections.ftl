@@ -63,6 +63,32 @@ lockwise-sync-status =
     }
 lockwise-sync-not-syncing = Não sincronizando com outros dispositivos.
 monitor-link = Como funciona
+monitor-sign-up = Cadastre-se para receber alertas de vazamentos
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-addresses =
+    { $count ->
+        [one] Endereço de e-mail sendo monitorado.
+       *[other] Endereços de e-mail sendo monitorados.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches =
+    { $count ->
+        [one] Vazamento de dados conhecido expôs suas informações.
+       *[other] Vazamentos de dados conhecidos expuseram suas informações.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords =
+    { $count ->
+        [one] Senha exposta em meio a todos os vazamentos.
+       *[other] Senhas expostas em meio a todos os vazamentos.
+    }
+full-report-link = Ver relatório completo no <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -71,3 +97,38 @@ monitor-link = Como funciona
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Rastreadores de mídias sociais
+    .aria-label =
+        { $count ->
+            [one] { $count } rastreador de mídias sociais ({ $percentage }%)
+           *[other] { $count } rastreadores de mídias sociais ({ $percentage }%)
+        }
+bar-tooltip-cookie =
+    .title = Cookies de rastreamento entre sites
+    .aria-label =
+        { $count ->
+            [one] { $count } cookie de rastreamento entre sites ({ $percentage }%)
+           *[other] { $count } cookies de rastreamento entre sites ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = Conteúdo de rastreamento
+    .aria-label =
+        { $count ->
+            [one] { $count } conteúdo de rastreamento ({ $percentage }%)
+           *[other] { $count } conteúdos de rastreamento ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Fingerprinters
+    .aria-label =
+        { $count ->
+            [one] { $count } fingerprinter ({ $percentage }%)
+           *[other] { $count } fingerprinters ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Criptomineradores
+    .aria-label =
+        { $count ->
+            [one] { $count } criptominerador ({ $percentage }%)
+           *[other] { $count } criptomineradores ({ $percentage }%)
+        }
