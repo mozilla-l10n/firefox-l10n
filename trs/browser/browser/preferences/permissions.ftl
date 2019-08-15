@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Sa si gi'iaj guendô' - Sa narán riña sa màn
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Guxun ngèt sa narán riña sa yi'ìi guendâ nej sitiô nan.
+permissions-exceptions-etp-window =
+    .title = Sa nitaj si hua riña sa nará riña sa naga'naj sà' doj
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Ga'nejt nej sa narán nej sa naga'naj a riña nej sitiô nan.
 
 ## Exceptions - Cookies
 
