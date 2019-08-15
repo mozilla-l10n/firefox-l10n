@@ -752,6 +752,7 @@ content-blocking-fingerprinters = Ujjlenyomat-készítők
 content-blocking-warning-title = Figyelem!
 content-blocking-warning-description = A tartalomblokkolás egyes webhelyek hibás működését okozhatja. A blokkolás könnyen letiltható azokon az oldalakon, melyekben megbízik.
 content-blocking-learn-how = Tudja meg, hogyan
+content-blocking-etp-warning-description = A nyomkövetők blokkolása befolyásolhatja az egyes webhelyek működését. Töltse újra az oldalt a nyomkövetőkkel, hogy betöltse az összes tartalmat.
 content-blocking-warning-learn-how = Tudja meg, hogyan
 content-blocking-reload-description = A módosítások alkalmazásához frissítenie kell a lapokat.
 content-blocking-reload-tabs-button =
