@@ -48,6 +48,17 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } waše hesła we wašim wobhladowaku wěsće składuje.
 lockwise-header-content-logged-in = Składujće a synchronizujće hesła za wšě waše graty.
 open-about-logins-button = W { -brand-short-name } wočinić
+lockwise-no-logins-content = Wobstarajće sej nałoženje <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }, zo byšće swoje hesła wšudźe sobu wzał.
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+lockwise-passwords-stored =
+    { $count ->
+        [one] Wěsće składowane hesło <a data-l10n-name="lockwise-how-it-works">Kak to funguje</a>
+        [two] Wěsće składowanej hesle <a data-l10n-name="lockwise-how-it-works">Kak to funguje</a>
+        [few] Wěsće składowane hesła <a data-l10n-name="lockwise-how-it-works">Kak to funguje</a>
+       *[other] Wěsće składowanych hesłow <a data-l10n-name="lockwise-how-it-works">Kak to funguje</a>
+    }
 turn-on-sync = { -sync-brand-short-name } zmóžnić
     .title = K synchronizowanskim nastajenjam
 # Variables:
@@ -62,6 +73,7 @@ lockwise-sync-status =
 lockwise-sync-not-syncing = Z druhimi gratami njesynchronizować
 monitor-title = Rozhladujće so za datowymi dźěrami
 monitor-link = Kak funguje
+monitor-header-content-logged-in = { -monitor-brand-name } was warnuje, jeli waše informacije su so w znatej datowewj dźěrje zjewili
 monitor-sign-up = Registrujće so za warnowanja wo datowych dźěrach
 auto-scan = Dźensa awtomatisce skenowany
 # This string is displayed after a large numeral that indicates the total number
@@ -95,6 +107,16 @@ info-exposed-passwords =
        *[other] Hesła su so přez wšě datowe dźery přeradźili.
     }
 full-report-link = Wobhladajće sej dospołnu rozprawu na <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] Składowane přizjewjenje je so w datowej dźěrje wotkryło. Změńće tute hesło za lěpšu wěstotu online. <a data-l10n-name="lockwise-link">Składowane přizjewjenja pokazać</a>
+        [two] Składowane jpřizjewjeni stej so w datowej dźěrje wotkryłoj. Změńće tutej hesle za lěpšu wěstotu online. <a data-l10n-name="lockwise-link">Składowane přizjewjenja pokazać</a>
+        [few] Składowane přizjewjenja su so w datowej dźěrje wotkryli. Změńće tute hesła za lěpšu wěstotu online. <a data-l10n-name="lockwise-link">Składowane přizjewjenja pokazać</a>
+       *[other] Składowane přizjewjenja su so w datowej dźěrje wotkryli. Změńće tute hesła za lěpšu wěstotu online. <a data-l10n-name="lockwise-link">Składowane přizjewjenja pokazać</a>
+    }
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = K nastajenjam priwatnosće
 # This is the title attribute describing the Lockwise card's link to about:logins
