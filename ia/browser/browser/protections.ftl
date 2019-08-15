@@ -10,6 +10,8 @@ graph-today = Hodie
 cookie-tab-title = Cookies de traciamento tra sitos
 tracker-tab-title = Contento traciator
 cryptominer-tab-title = Cryptominatores
+lockwise-title-logged-in = { -lockwise-brand-name }
+open-about-logins-button = Aperir in { -brand-short-name }
 monitor-link = Como illo functiona
 
 ## The title attribute is used to display the type of protection.
