@@ -90,8 +90,8 @@
 <!ENTITY display.accesskey            "b">
 <!ENTITY display.key                  "l">
 
-<!ENTITY pprint.label                 "Pretty Print">
-<!ENTITY pprint.key                   "p">
+<!ENTITY pprint.label                 "Embelezar">
+<!ENTITY pprint.key                   "E">
 <!ENTITY pprint.accesskey             "P">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
@@ -100,11 +100,11 @@
   -  the user is evaluating against. I.e., Content (current tab) or Chrome
   -  (browser).
   -->
-<!ENTITY environmentMenu.label        "Environment">
-<!ENTITY environmentMenu.accesskey    "N">
+<!ENTITY environmentMenu.label        "Ambiente">
+<!ENTITY environmentMenu.accesskey    "m">
 
 
-<!ENTITY contentContext.label         "Content">
+<!ENTITY contentContext.label         "Conteúdo">
 <!ENTITY contentContext.accesskey     "C">
 
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
@@ -113,8 +113,8 @@
   -  enabled via the devtools.chrome.enabled preference. Formerly, this label
   -  was called "Chrome".
   -->
-<!ENTITY browserContext.label         "Browser">
-<!ENTITY browserContext.accesskey     "B">
+<!ENTITY browserContext.label         "Navegador">
+<!ENTITY browserContext.accesskey     "N">
 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
@@ -131,14 +131,14 @@
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext2.label          "Reset Variables">
-<!ENTITY resetContext2.accesskey      "T">
+<!ENTITY resetContext2.label          "Redefinir variáveis">
+<!ENTITY resetContext2.accesskey      "v">
 
-<!ENTITY reloadAndRun.label           "Reload And Run">
+<!ENTITY reloadAndRun.label           "Recarregar e executar">
 <!ENTITY reloadAndRun.accesskey       "E">
 <!ENTITY reloadAndRun.key             "r">
 
-<!ENTITY executeMenu.label            "Execute">
+<!ENTITY executeMenu.label            "Executar">
 <!ENTITY executeMenu.accesskey        "X">
 
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
@@ -150,6 +150,6 @@
 <!-- LOCALIZATION NOTE (evalFunction.label): This command allows the developer
   -  to evaluate the top-level function that the cursor is currently at.
   -->
-<!ENTITY evalFunction.label "Evaluate Current Function">
+<!ENTITY evalFunction.label "Avaliar função atual">
 <!ENTITY evalFunction.accesskey "v">
 <!ENTITY evalFunction.key "e">
