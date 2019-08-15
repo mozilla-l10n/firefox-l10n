@@ -137,6 +137,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Dyrbiće swoje konto wobkrućić, prjedy hač móžeće synchronizować.">
 <!ENTITY fxa.unverified.button.label "Nastajenja &syncBrand.shortName.label; wočinić…">
 
+<!ENTITY pictureInPictureHideToggle.label "Přepinanje wobraz-we-wobrazu schować">
+<!ENTITY pictureInPictureHideToggle.accesskey "P">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -154,10 +156,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-<!ENTITY fxa.service.send.description "Nahrajće a dźělće dataje ze zaklučowanjom kónc do kónca plus wotkaz, kotryž awtomatisce spadnje.">
-<!ENTITY fxa.service.send.launch "&sendShortName; startować">
-<!ENTITY fxa.service.monitor.description "Hladajće, hač so waša e-mejlowa adresa w datowej dźěrje jewi a budźće warnowany, jeli so w nowej dźěrje jewi.">
-<!ENTITY fxa.service.monitor.launch "&monitorShortName; startować">
 <!ENTITY fxa.service.sendTab.description "Sćelće rajtark hnydom na grat, pola kotrehož sće přizjewjeny.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
