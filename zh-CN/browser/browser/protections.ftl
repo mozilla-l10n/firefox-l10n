@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+graph-week-summary =
+    { $count ->
+       *[other] 过去一周，{ -brand-short-name } 拦截了 { $count } 个跟踪器
+    }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -19,6 +25,12 @@ cryptominer-tab-title = 加密货币挖矿程序
 lockwise-title-logged-in = { -lockwise-brand-name }
 turn-on-sync = 开启{ -sync-brand-short-name }…
     .title = 前往“同步”首选项
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-sync-status =
+    { $count ->
+       *[other] 与另 { $count } 台设备同步
+    }
 lockwise-sync-not-syncing = 未与其他设备同步。
 monitor-title = 帮你关心数据泄漏事故
 monitor-sign-up = 订阅数据外泄警报
@@ -35,4 +47,28 @@ bar-tooltip-social =
     .aria-label =
         { $count ->
            *[other] { $count } 个社交媒体跟踪器（{ $percentage }%）
+        }
+bar-tooltip-cookie =
+    .title = 跨网站跟踪型 Cookie
+    .aria-label =
+        { $count ->
+           *[other] { $count } 个跨网站跟踪型 Cookie（{ $percentage }%）
+        }
+bar-tooltip-tracker =
+    .title = 跟踪性内容
+    .aria-label =
+        { $count ->
+           *[other] { $count } 个跟踪性内容（{ $percentage }%）
+        }
+bar-tooltip-fingerprinter =
+    .title = 数字指纹跟踪程序
+    .aria-label =
+        { $count ->
+           *[other] { $count } 个数字指纹跟踪程序（{ $percentage }%）
+        }
+bar-tooltip-cryptominer =
+    .title = 加密货币挖矿程序
+    .aria-label =
+        { $count ->
+           *[other] { $count } 个加密货币挖矿程序（{ $percentage }%）
         }
