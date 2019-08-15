@@ -47,6 +47,9 @@ newtab-topsites-add-button = Afegeix
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Segur que voleu suprimir de l'historial totes les instàncies d'aquesta pàgina?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Aquesta acció no es pot desfer.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Afegeix a les adreces d'interès
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Copia l'enllaç de la baixada
 newtab-menu-go-to-download-page = Vés a la pàgina de la baixada
 newtab-menu-remove-download = Elimina de l'historial
@@ -109,11 +116,16 @@ newtab-menu-open-file = Obre el fitxer
 
 newtab-label-visited = Visitat
 newtab-label-bookmarked = A les adreces d'interès
+newtab-label-removed-bookmark = S'ha eliminat l'adreça d'interès
 newtab-label-recommended = Tendència
 newtab-label-saved = Desat al { -pocket-brand-name }
 newtab-label-download = Baixat
 
 ## Section Menu: These strings are displayed in the section context menu and are 
+## meant as a call to action for the given section.
+
+
+## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = Elimina la secció
@@ -126,6 +138,13 @@ newtab-section-menu-add-search-engine = Afegeix un motor de cerca
 newtab-section-menu-move-up = Mou cap amunt
 newtab-section-menu-move-down = Mou cap avall
 newtab-section-menu-privacy-notice = Avís de privadesa
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Redueix la secció
+newtab-section-expand-section-label =
+    .aria-label = Amplia la secció
 
 ## Section Headers.
 
@@ -142,6 +161,15 @@ newtab-empty-section-highlights = Comenceu a navegar i aquí us mostrarem els mi
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Ja esteu al dia. Torneu més tard per veure més articles populars de { $provider }. No podeu esperar? Trieu un tema popular per descobrir els articles més interessants de tot el web.
+
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-header = Ja esteu al dia.
+newtab-discovery-empty-section-topstories-content = Torneu més tard per veure si hi ha més articles.
+newtab-discovery-empty-section-topstories-try-again-button = Torna-ho a provar
+newtab-discovery-empty-section-topstories-loading = S'està carregant…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Ups! Sembla que aquesta secció no s'ha carregat del tot.
 
 ## Pocket Content Section.
 

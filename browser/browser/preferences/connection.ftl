@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = Sense servidor intermediari per a
     .accesskey = n
 connection-proxy-noproxy-desc = Exemple: .mozilla.org, .net.nz, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = No s'utilitza mail cap servidor intermediari per a les connexions a localhost, 127.0.0.1 i ::1.
 connection-proxy-autotype =
     .label = URL de configuració automàtica del servidor intermediari
     .accesskey = a
@@ -70,12 +72,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Habilita DNS sobre HTTPS
     .accesskey = H
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = Utilitza el valor per defecte ({ $url })
-    .accesskey = U
-    .tooltiptext = Utilitza l'URL per defecte per resoldre DNS sobre HTTPS
 connection-dns-over-https-url-resolver = Utilitza el proveïdor
     .accesskey = p
 # Variables:
