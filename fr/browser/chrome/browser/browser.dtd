@@ -137,6 +137,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Vous devrez vérifier votre compte avant de pouvoir lancer la synchronisation.">
 <!ENTITY fxa.unverified.button.label "Ouvrir les paramètres de &syncBrand.shortName.label;…">
 
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -534,6 +535,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Rechercher avec :">
+
+<!-- LOCALIZATION NOTE (searchWithDesc.label):
+     This string prompts the user to use the list of one-click search engines in
+     the Urlbar and searchbar. -->
+
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -805,6 +811,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Connexion">
 <!ENTITY identity.connectionSecure "Connexion sécurisée">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+
 <!ENTITY identity.connectionNotSecure "Connexion non sécurisée">
 <!ENTITY identity.connectionFile "Cette page est stockée sur votre ordinateur.">
 <!ENTITY identity.connectionVerified2 "Votre connexion à ce site est sécurisée. Son détenteur est :">
@@ -812,6 +822,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Cette page a été chargée depuis une extension.">
 <!ENTITY identity.insecureLoginForms2 "Les identifiants saisis sur cette page pourraient être compromis.">
 <!ENTITY identity.customRoot "Connexion vérifiée par un émetteur de certificat non reconnu par Mozilla.">
+
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; a bloqué des éléments non sécurisés sur cette page.">
@@ -846,6 +857,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Effacer les cookies et les données de sites…">
 
 <!ENTITY identity.permissions "Permissions">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissionsEmpty "Vous n’avez pas accordé de permission particulière à ce site.">
 <!ENTITY identity.permissionsReloadHint "Vous devrez peut-être actualiser la page pour que les changements prennent effet.">
 <!ENTITY identity.permissionsPreferences.tooltip "Ouvrir les préférences des permissions">
@@ -854,6 +867,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY protections.etpON.header "La protection renforcée contre le pistage est ACTIVÉE pour ce site.">
 <!ENTITY protections.etpOFF.header "La protection renforcée contre le pistage est DÉSACTIVÉE pour ce site.">
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.settings.label "Paramètres de protection">
 <!ENTITY protections.report.label "Afficher le rapport complet">
 <!-- LOCALIZATION NOTE:
@@ -888,12 +903,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.noTrackersFound.description "Aucun traqueur connu par &brandShortName; n’a été détecté sur cette page.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Ces cookies vous suivent de site en site pour collecter des données sur vos faits et gestes en ligne. Ils sont déposés par des tiers, tels que des annonceurs ou des entreprises d’analyse de données.">
-<!ENTITY protections.cryptominers.description "Les mineurs de cryptomonnaies utilisent la puissance de calcul de votre système pour « extraire » de l’argent numérique. Les scripts de cryptominage déchargent votre batterie, ralentissent votre ordinateur et peuvent augmenter votre facture énergétique.">
+<!ENTITY protections.cryptominers.description "Les mineurs de cryptomonnaies utilisent la puissance de calcul de votre système pour « extraire » de l’argent numérique. Les scripts de cryptominage déchargent votre batterie, ralentissent votre ordinateur et peuvent augmenter votre facture énergétique.">
 <!ENTITY protections.fingerprinters.description "Les détecteurs d’empreinte numérique recueillent les paramètres de votre navigateur et de votre ordinateur pour créer un profil de vous. En utilisant cette empreinte numérique, ils peuvent vous pister sur différents sites web.">
 <!ENTITY protections.trackingContent.description "Les sites web peuvent charger des publicités, des vidéos et d’autres contenus externes qui contiennent des éléments de pistage. Le blocage du contenu utilisé pour le pistage peut accélérer le chargement des sites, mais certains boutons, formulaires ou champs de connexion risquent de ne pas fonctionner.">
 <!ENTITY protections.socialMediaTrackers.description "Les réseaux sociaux placent des traqueurs sur d’autres sites web pour suivre ce que vous faites, lisez et regardez en ligne. Cela permet aux entreprises de réseaux sociaux d’en savoir plus sur vous au-delà de ce que vous partagez sur vos profils en ligne.">
-
-<!ENTITY protections.manageProtectionSettings.label "Gérer les paramètres de protection">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -932,17 +945,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Traqueurs">
 
 <!ENTITY contentBlocking.manageSettings.label "Gérer le blocage de contenu">
+
+
 <!ENTITY contentBlocking.manageSettings.accesskey "G">
 
 <!ENTITY contentBlocking.trackersView.label "Traqueurs">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Pour bloquer tous les traqueurs, définissez le blocage du contenu sur « Strict ».">
 
-<!ENTITY contentBlocking.socialblock.label "Traqueurs de réseaux sociaux">
-<!ENTITY contentBlocking.socialblockView.label "Traqueurs de réseaux sociaux bloqués">
-<!ENTITY contentBlocking.socialblockView.description "Les réseaux sociaux placent des traqueurs sur d’autres sites web pour suivre ce que vous faites, lisez et regardez en ligne. Cela permet aux entreprises de réseaux sociaux d’en savoir plus sur vous au-delà de ce que vous partagez sur vos profils en ligne.">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Pour bloquer tous les traqueurs, définissez le blocage du contenu sur « Strict ».">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies et données de sites">
+
+<!ENTITY contentBlocking.socialblock.label "Traqueurs de réseaux sociaux">
+
 
 <!ENTITY contentBlocking.cryptominers.label "Mineurs de cryptomonnaies">
 <!ENTITY contentBlocking.cryptominersView.label "Mineurs de cryptomonnaies">
