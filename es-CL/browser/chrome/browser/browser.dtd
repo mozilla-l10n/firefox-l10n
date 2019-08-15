@@ -870,8 +870,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Abrir preferencias de bloqueo de contenido">
 
 
+<!ENTITY protections.etpON.header "La protección de seguimiento mejorada está ACTIVADA para este sitio">
+<!ENTITY protections.etpOFF.header "La protección de seguimiento mejorada está DESACTIVADA para este sitio">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Más información sobre la protección de seguimiento mejorada">
 <!ENTITY protections.settings.label "Ajustes de protección">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -898,6 +901,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Contenido de rastreo">
 <!ENTITY protections.fingerprinters.label "Creadores de huellas (Fingerprinters)">
 <!ENTITY protections.cryptominers.label "Criptomineros">
+<!ENTITY protections.noTrackersFound.description "No se detectaron rastreadores conocidos por &brandShortName; en esta página.">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
