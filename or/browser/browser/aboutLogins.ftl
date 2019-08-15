@@ -6,8 +6,15 @@ about-logins-page-title = ଲଗଇନ ଏବଂ ପାସୱାର୍ଡ଼
 login-filter =
     .placeholder = ଖୋଜା ଲଗିନ
 create-login-button = ନୂଆ ଲଗଇନ ତିଆରି କରନ୍ତୁ
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = { $title } ପାଇଁ ଫାଭିକନ
 fxaccounts-sign-in-text = ନିଜର ଉପକରଣରେ ନିଜସ୍ୱ ପାସୱାର୍ଡ଼ ପାଆନ୍ତୁ
 fxaccounts-sign-in-button = { -sync-brand-short-name }ରେ ଲଗ-ଇନ କରନ୍ତୁ
+fxaccounts-avatar-button =
+    .title = ଖାତା ପରିଚାଳନା
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -29,8 +36,14 @@ menu-menuitem-iphone-app = ଆଇଫୋନ ଏବଂ ଆଇପ୍ୟାଡ ପ�
 
 login-list =
     .aria-label = ଲଗଇନଟି ଖୋଜା ତଥ୍ୟ ସହ ମିଶୁଛି
+login-list-count =
+    { $count ->
+        [one] ଲଗଇନ
+       *[other] ଲଗଇନ ଗୁଡ଼ିକ
+    }
 login-list-sort-label-text = କ୍ରମ:
 login-list-name-option = ନାମ (କ-କ୍ଷ)
+login-list-breached-option = ଉଲଙ୍ଘିତ ୱେବସାଇଟଗୁଡ଼ିକ
 login-list-last-changed-option = ପୂର୍ବ ରୂପାନ୍ତରଣ
 login-list-last-used-option = ଶେଷ ଥର ବ୍ୟବହୃତ
 login-list-intro-title = କୌଣସି ଲଗଇନ ମିଳିଲା ନାହିଁ
@@ -81,6 +94,8 @@ confirmation-dialog-dismiss-button =
 confirm-delete-dialog-title = ଲଗଇନକୁ ବିଲୋପ କରିଦେବେ?
 confirm-delete-dialog-message = ଏହି କାର୍ଯ୍ୟର ପଦକ୍ଷେପ ବାତିଲ କରିପାରିବେ ନାହିଁ।
 confirm-delete-dialog-confirm-button = ଅପସାରଣ କରନ୍ତୁ
+confirm-discard-changes-dialog-title = ଅଣସଞ୍ଚିତ ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ନଷ୍ଟ କରିଦେବେ?
+confirm-discard-changes-dialog-message = ସମସ୍ତ ଅଣସଂରକ୍ଷିତ ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ବିଲୁପ୍ତ ହୋଇଯିବ
 confirm-discard-changes-dialog-confirm-button = ପରିତ୍ୟାଗ
 
 ## Breach Alert notification

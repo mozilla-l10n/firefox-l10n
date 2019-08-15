@@ -14,9 +14,13 @@ menu-select-all =
     .accesskey = A
 close-window =
     .key = A
+close-dialog =
+    .key = w
 general-tab =
     .label = ସାଧାରଣ
     .accesskey = G
+general-title =
+    .value = ଶୀର୍ଷକ:
 general-url =
     .value = ଠିକଣା:
 general-type =
@@ -83,9 +87,12 @@ security-view-identity-domain =
     .value = ୱେବ ସାଇଟ:
 security-view-identity-verifier =
     .value = ଦ୍ୱାରା ପ୍ରମାଣିତ:
+security-view-identity-validity =
+    .value = ଅବଧି ସମାପ୍ତି ହେବ:
 security-view-privacy =
     .value = ଗୋପନୀୟତା ଏବଂ ପୁରୁଣା ତଥ୍ୟ
 security-view-privacy-history-value = ଏହା ପୂର୍ବରୁ ମୁଁ କେବେ ଏହି ୱେବ ସାଇଟକୁ ପରିଦର୍ଶନ କରିଥିଲି କି?
+security-view-privacy-sitedata-value = କଣ ଏହି ୱେବ ସାଇଟ ମୋର କମ୍ପୁଟରରେ ସୂଚନାକୁ ସଞ୍ଚୟ କରୁଅଛି?
 security-view-privacy-passwords-value = ଏହି ୱେବ ସାଇଟ ପାଇଁ ମୁଁ କୌଣସି ପ୍ରବେଶ ସଂକେତ ସଂରକ୍ଷଣ କରିଅଛି କି?
 security-view-privacy-viewpasswords =
     .label = ସଂରକ୍ଷିତ ପ୍ରବେଶ ସଂକେତ ଦେଖନ୍ତୁ
@@ -133,6 +140,16 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = ପୂର୍ବନିର୍ଦ୍ଧାରିତକୁ ବ୍ୟବହାର କରନ୍ତୁ
 security-no-visits = ନା
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] ନା
+        [one] ହଁ, ଥରେ
+       *[other] ହଁ, { $visits } ଥର
+    }
 # This string is used to display the type of
 # an image
 # Variables:
