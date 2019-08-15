@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-logins-page-title = כניסות וססמאות
 fxaccounts-sign-in-text = קבלת הססמאות שלך במכשירים האחרים שלך
 fxaccounts-avatar-button =
     .title = ניהול חשבון
@@ -67,8 +68,10 @@ enable-password-sync-preferences-button =
            *[other] פתיחת העדפות { -sync-brand-short-name }
         }
     .accesskey = פ
+confirm-delete-dialog-title = האם למחוק כניסה זו?
 confirm-delete-dialog-message = לא ניתן לבטל פעולה זו.
 confirm-delete-dialog-confirm-button = מחיקה
 
 ## Breach Alert notification
 
+breach-alert-text = ססמאות הודלפו או נגנבו מאתר זה מאז שעדכנת לאחרונה את פרטי הכניסה שלך. יש לשנות את הססמה שלך כדי להגן על חשבונך.
