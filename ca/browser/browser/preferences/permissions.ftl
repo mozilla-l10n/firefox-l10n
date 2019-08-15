@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Excepcions - Bloqueig de contingut
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Heu desactivat el bloqueig de contingut en aquests llocs web.
+permissions-exceptions-etp-window =
+    .title = Excepcions a la protecció contra el seguiment millorada
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Heu desactivat les proteccions en aquests llocs web.
 
 ## Exceptions - Cookies
 
