@@ -28,7 +28,7 @@ etp-card-title = 增强型跟踪保护
 etp-card-content = 跟踪器会跟踪您的在线活动，收集您的浏览习惯与兴趣爱好。{ -brand-short-name } 可拦截众多跟踪器和其他恶意脚本。
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
-graph-today = 本日
+graph-today = 今日
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = 此图展示了本周各类型跟踪器的总拦截数。
 social-tab-title = 社交媒体跟踪器
@@ -68,7 +68,7 @@ monitor-link = 工作原理
 monitor-header-content = 到 { -monitor-brand-name } 检测您是否处于数据外泄事件之中，并在有新外泄事件时收到警报。
 monitor-header-content-logged-in = 若您的信息出现在已知的数据外泄事件中，{ -monitor-brand-name } 将警告您
 monitor-sign-up = 订阅数据外泄警报
-auto-scan = 本日已自动扫描
+auto-scan = 今日已自动扫描
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
