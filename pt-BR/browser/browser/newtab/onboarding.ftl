@@ -19,7 +19,7 @@ onboarding-button-label-get-started = Começar
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Boas-vindas ao { -brand-short-name }
-onboarding-welcome-body = Você instalou o navegador.<br/>Descubra outros produtos e serviços da { -brand-product-name }.
+onboarding-welcome-body = Você instalou o navegador.<br/>Conheça outros produtos e serviços do { -brand-product-name }.
 onboarding-welcome-learn-more = Saiba mais sobre os benefícios.
 onboarding-join-form-header = Junte-se ao { -brand-product-name }
 onboarding-join-form-body = Digite seu endereço de e-mail para começar.
@@ -63,7 +63,7 @@ onboarding-benefit-privacy-title = Privacidade verdadeira
 # Firefox Personal Data Promise is the way we honor your data in everything we
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
-onboarding-benefit-privacy-text = Tudo o que fazemos honra nossa Promessa de Dados Pessoais: Levar menos. Manter seguro. Sem segredos.
+onboarding-benefit-privacy-text = Tudo o que fazemos honra nossa promessa de como lidar com dados pessoais: Coletar pouco. Manter seguro. Sem segredos.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -94,7 +94,7 @@ onboarding-firefox-monitor-title = Fique atento a vazamentos de dados
 onboarding-firefox-monitor-text = O { -monitor-brand-name } verifica se seu e-mail apareceu em um vazamento de dados e manda um alerta para você caso apareça em um novo vazamento.
 onboarding-firefox-monitor-button = Cadastre-se para receber alertas
 onboarding-browse-privately-title = Navegue com privacidade
-onboarding-browse-privately-text = A navegação privativa limpa sua pesquisa e seu histórico de navegação para manter em segredo de qualquer um que use seu computador.
+onboarding-browse-privately-text = A navegação privativa limpa seu histórico de pesquisa e navegação para manter em segredo de qualquer um que use o computador.
 onboarding-browse-privately-button = Abrir uma janela privativa
 onboarding-firefox-send-title = Mantenha privativos seus arquivos compartilhados
 onboarding-firefox-send-text2 = Envie seus arquivos para pelo { -send-brand-name } para compartilhar com criptografia de ponta a ponta e um link que expira automaticamente.
@@ -121,7 +121,7 @@ onboarding-facebook-container-button = Adicionar a extensão
 
 ## Message strings belonging to the Return to AMO flow
 
-return-to-amo-sub-header = Ótimo, agora você tem o { -brand-short-name }
+return-to-amo-sub-header = Ótimo, você tem o { -brand-short-name }
 # <icon></icon> will be replaced with the icon belonging to the extension
 #
 # Variables:
