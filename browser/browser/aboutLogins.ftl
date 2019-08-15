@@ -11,6 +11,7 @@ create-login-button = Crea un inici de sessió
 #   $title (String) - The title of the website associated with the favicon.
 login-favicon =
     .alt = Icona de web de { $title }
+fxaccounts-sign-in-text = Accediu a les contrasenyes en tots els vostres dispositius
 fxaccounts-sign-in-button = Inicia la sessió al { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Gestiona el compte
@@ -55,15 +56,67 @@ login-list-item-subtitle-missing-username = (cap nom d'usuari)
 
 login-intro-heading = Esteu cercant els inicis de sessió que heu desat? Configureu el { -sync-brand-short-name }.
 login-intro-description = Si heu desat els vostres inicis de sessió en el { -brand-product-name } des d'un altre dispositiu, aquesta és la manera de tenir-los també aquí:
+login-intro-instruction-fxa = Creeu un { -fxaccount-brand-name } o inicieu-hi la sessió des del dispositiu on teniu desats els vostres inicis de sessió
+login-intro-instruction-fxa-settings = Assegureu-vos que heu seleccionat la casella de selecció Inicis de sessió en els paràmetres del { -sync-brand-short-name }
+login-intro-instruction-faq = Vegeu les <a data-l10n-name="faq">preguntes més freqüents</a> del { -lockwise-brand-short-name } per obtenir més ajuda
 
 ## Login
 
+login-item-edit-button = Edita
+login-item-delete-button = Suprimeix
+login-item-origin-label = Adreça del lloc web
+login-item-origin =
+    .placeholder = https://www.example.com
+login-item-open-site-button = Obre
+login-item-username-label = Nom d'usuari
+login-item-username =
+    .placeholder = nom@example.com
+login-item-copy-username-button-text = Copia
+login-item-copied-username-button-text = S'ha copiat
+login-item-password-label = Contrasenya
+login-item-password-reveal-checkbox-show =
+    .title = Mostra la contrasenya
+login-item-password-reveal-checkbox-hide =
+    .title = Amaga la contrasenya
+login-item-copy-password-button-text = Copia
+login-item-copied-password-button-text = S'ha copiat
+login-item-save-changes-button = Desa els canvis
+login-item-save-new-button = Desa
+login-item-cancel-button = Cancel·la
+login-item-time-changed = Darrera modificació: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Creat: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Darrer ús: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
+master-password-notification-message = Introduïu la contrasenya mestra per veure els inicis de sessió i les contrasenyes desats
+master-password-reload-button =
+    .label = Inicia la sessió
+    .accesskey = I
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Cancel·la
+confirmation-dialog-dismiss-button =
+    .title = Cancel·la
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Voleu accedir als vostres inicis de sessió arreu on utilitzeu el { -brand-product-name }? Aneu a les Opcions del { -sync-brand-short-name } i marqueu la casella de selecció Inicis de sessió.
+       *[other] Voleu accedir als vostres inicis de sessió arreu on utilitzeu el { -brand-product-name }? Aneu a les Preferències del { -sync-brand-short-name } i marqueu la casella de selecció Inicis de sessió.
+    }
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Vés a les Opcions del { -sync-brand-short-name }
+           *[other] Vés a les Preferències del { -sync-brand-short-name }
+        }
+    .accesskey = V
+confirm-delete-dialog-title = Voleu suprimir aquest inici de sessió?
+confirm-delete-dialog-message = Aquesta acció no es pot desfer.
+confirm-delete-dialog-confirm-button = Suprimeix
+confirm-discard-changes-dialog-title = Voleu descartar els canvis no desats?
+confirm-discard-changes-dialog-message = Es perdran tots els canvis que no hàgiu desat.
+confirm-discard-changes-dialog-confirm-button = Descarta
 
 ## Breach Alert notification
 
