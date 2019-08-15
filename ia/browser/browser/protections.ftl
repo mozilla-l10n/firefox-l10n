@@ -98,6 +98,18 @@ info-exposed-passwords =
        *[other] Contrasignos exponite tra tote le violationes
     }
 full-report-link = Vider reporto complete sur <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] Le credential salvate ha forsan essite exponite in un violation de datos. Cambia iste contrasigno pro melior securitate online. <a data-l10n-name="lockwise-link">Vide le credential salvate</a>
+       *[other] Credentiales salvate ha forsan essite exponite in un violation de datos. Cambia iste contrasignos pro melior securitate online. <a data-l10n-name="lockwise-link">Vide credentiales salvate</a>
+    }
+# This is the title attribute describing the graph report's link to about:settings#privacy
+go-to-privacy-settings = Ir al Parametros de confidentialitate
+# This is the title attribute describing the Lockwise card's link to about:logins
+go-to-saved-logins = Ir a Credentiales salvate
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -106,12 +118,33 @@ full-report-link = Vider reporto complete sur <a data-l10n-name="monitor-inline-
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Traciatores de retes social
+    .aria-label =
+        { $count ->
+            [one] { $count } traciator de retes social ({ $percentage }%)
+           *[other] { $count } traciatores de retes social ({ $percentage }%)
+        }
 bar-tooltip-cookie =
     .title = Cookies de traciamento tra sitos
     .aria-label =
         { $count ->
             [one] { $count } cookie de traciamento tra sitos ( { $percentage } %)
            *[other] { $count } cookies de traciamento tra sitos ( { $percentage } %)
+        }
+bar-tooltip-tracker =
+    .title = Contento traciator
+    .aria-label =
+        { $count ->
+            [one] { $count } contento traciator ({ $percentage }%)
+           *[other] { $count } contento traciator ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Dactylogrammatores
+    .aria-label =
+        { $count ->
+            [one] { $count } dactylogrammator ({ $percentage }%)
+           *[other] { $count } dactylogrammatores ({ $percentage }%)
         }
 bar-tooltip-cryptominer =
     .title = Cryptominatores
