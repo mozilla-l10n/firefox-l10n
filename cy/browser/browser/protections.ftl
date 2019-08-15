@@ -172,3 +172,36 @@ bar-tooltip-cookie =
             [many] { $count } cwci tracio traws-gwefan ({ $percentage }%)
            *[other] { $count } cwci tracio traws-gwefan ({ $percentage }%)
         }
+bar-tooltip-tracker =
+    .title = Cynnwys Tracio
+    .aria-label =
+        { $count ->
+            [zero] { $count } cynnwys tracio ({ $percentage }%)
+            [one] { $count } cynnwys tracio ({ $percentage }%)
+            [two] { $count } cynnwys tracio ({ $percentage }%)
+            [few] { $count } cynnwys tracio ({ $percentage }%)
+            [many] { $count } cynnwys tracio ({ $percentage }%)
+           *[other] { $count } cynnwys tracio ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Bysbrintwyr
+    .aria-label =
+        { $count ->
+            [zero] { $count } bysbrintwyr ({ $percentage }%)
+            [one] { $count } bysbrintwyr ({ $percentage }%)
+            [two] { $count } bysbrintwyr ({ $percentage }%)
+            [few] { $count } bysbrintwyr ({ $percentage }%)
+            [many] { $count } bysbrintwyr ({ $percentage }%)
+           *[other] { $count } bysbrintwyr ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Cryptogloddwyr
+    .aria-label =
+        { $count ->
+            [zero] { $count } cryptogloddwyr ({ $percentage }%)
+            [one] { $count } cryptogloddwyr ({ $percentage }%)
+            [two] { $count } cryptogloddwyr ({ $percentage }%)
+            [few] { $count } cryptogloddwyr ({ $percentage }%)
+            [many] { $count } cryptogloddwyr ({ $percentage }%)
+           *[other] { $count } cryptogloddwyr ({ $percentage }%)
+        }
