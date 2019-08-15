@@ -156,10 +156,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-<!ENTITY fxa.service.send.description "上传并分享您的文件，端到端加密，自动过期的分享链接。">
-<!ENTITY fxa.service.send.launch "启动 &sendShortName;">
-<!ENTITY fxa.service.monitor.description "检查是否有涉及到您的电子邮件地址的数据泄露，并在发生新的泄露时收到提醒。">
-<!ENTITY fxa.service.monitor.launch "启动 &monitorShortName;">
 <!ENTITY fxa.service.sendTab.description "立即发送标签页到任何您登录过的设备。">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -543,6 +539,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchWithDesc.label):
      This string prompts the user to use the list of one-click search engines in
      the Urlbar and searchbar. -->
+<!ENTITY searchWithDesc.label         "此次搜索，使用：">
 
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
