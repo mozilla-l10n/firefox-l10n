@@ -137,6 +137,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Você precisa confirmar sua conta antes de poder sincronizar.">
 <!ENTITY fxa.unverified.button.label "Abrir configurações do &syncBrand.shortName.label;…">
 
+<!ENTITY pictureInPictureHideToggle.label "Ocultar seletor de Picture-in-Picture">
+<!ENTITY pictureInPictureHideToggle.accesskey "O">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
