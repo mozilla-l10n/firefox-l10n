@@ -31,9 +31,12 @@ protection-header-details-custom = Škitny schodźenk je so na <b>Swójski</b> s
 protection-report-page-title = Škity priwatnosće
 protection-report-content-title = Škity priwatnosće
 etp-card-title = Polěpšeny slědowanski škit
+etp-card-content = Přesćěhowaki wam online slěduja, zo bychu informacije wo wašich přehladowanskich zwučenosćach a zajimach hromadźili. { -brand-short-name } wjele z tutych přesćěhowakow a druhe złóstne skripty blokuje.
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Dźensa
+# This string is used to describe the graph for screenreader users.
+graph-legend-description = Graf, kotryž cyłkownu ličbu kóždeho typa přesćěhowaka pokazuje, kotryž je so tutón tydźeń zablokował.
 social-tab-title = Přesćěhowaki socialnych medijow
 social-tab-contant = Socialne syće placěruja přesćěhowaki na druhich websydłach, zo bychu slědowali, što online činiće, widźiće a wobkedźbujeće. To předewzaćam socialnych medijow dowola, wjace wo was zhonił hač w profilach socialnych medijow dźěliće. <a data-l10n-name="learn-more-link">Dalše informacije</a>
 cookie-tab-title = Slědowace placki mjez sydłami
@@ -73,6 +76,7 @@ lockwise-sync-status =
 lockwise-sync-not-syncing = Z druhimi gratami njesynchronizować
 monitor-title = Rozhladujće so za datowymi dźěrami
 monitor-link = Kak funguje
+monitor-header-content = Přepruwujće { -monitor-brand-name }, zo byšće zwěsćił, hač sće na datowu dźěru padnył a warnowanja wp nowych dźěrach dóstawaće.
 monitor-header-content-logged-in = { -monitor-brand-name } was warnuje, jeli waše informacije su so w znatej datowewj dźěrje zjewili
 monitor-sign-up = Registrujće so za warnowanja wo datowych dźěrach
 auto-scan = Dźensa awtomatisce skenowany
