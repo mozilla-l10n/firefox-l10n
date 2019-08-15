@@ -20,7 +20,7 @@
 <!ENTITY fileNotFound.longDesc "<ul><li>¿Es posible que el elemento haya sido renombrado, eliminado o cambiado de ubicación?</li><li>¿Hay algún error de ortografía, mayúsculas o cualquier otro error al escribir la dirección?</li><li>¿Tienes privilegios de acceso suficientes para el elemento solicitado?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "El acceso al archivo fue denegado">
-<!ENTITY fileAccessDenied.longDesc "<ul><li>Puede haber sido removido o movido, o puede que los permisos del archivo prevengan el acceso.</li></ul>
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Puede haber sido eliminado o movido, o puede que los permisos del archivo prevengan el acceso.</li></ul>
 ">
 
 <!ENTITY generic.title "No se puede completar solicitud">

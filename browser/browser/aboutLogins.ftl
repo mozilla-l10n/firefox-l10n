@@ -6,8 +6,15 @@ about-logins-page-title = Conexiones y contraseñas
 login-filter =
     .placeholder = Buscar conexiones
 create-login-button = Crear nueva conexión
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Favicon para { $title }
 fxaccounts-sign-in-text = Ten tus contraseñas en tus otros dispositivos
 fxaccounts-sign-in-button = Conectarse a { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = Administrar cuenta
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -102,7 +109,11 @@ enable-password-sync-preferences-button =
 confirm-delete-dialog-title = ¿Eliminar esta conexión?
 confirm-delete-dialog-message = Esta acción no puede revertirse.
 confirm-delete-dialog-confirm-button = Eliminar
+confirm-discard-changes-dialog-title = ¿Descartar cambios sin guardar?
+confirm-discard-changes-dialog-message = Todos los cambios sin guardar se perderán.
 confirm-discard-changes-dialog-confirm-button = Descartar
 
 ## Breach Alert notification
 
+breach-alert-text = Se filtraron o robaron contraseñas de este sitio desde la última vez en que actualizaste tus datos de conexión. Cambia tu contraseña para proteger tu cuenta.
+breach-alert-link = Aprende más sobre esta filtración.
