@@ -38,6 +38,12 @@ tracker-tab-title = Rojqanem Rupam
 cryptominer-tab-title = Cryptominers
 lockwise-title-logged-in = { -lockwise-brand-name }
 open-about-logins-button = Tijaq pa { -brand-short-name }
+monitor-link = Achike rub'eyal nisamäj
+full-report-link = Titz'et chijun rutzijol pa <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This is the title attribute describing the graph report's link to about:settings#privacy
+go-to-privacy-settings = Jät pa Runuk'ulem Ichinanem
+# This is the title attribute describing the Lockwise card's link to about:logins
+go-to-saved-logins = Jät pan Kitikirib'al Molojri'ïl Eyakon
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -46,3 +52,10 @@ open-about-logins-button = Tijaq pa { -brand-short-name }
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-cryptominer =
+    .title = Cryptominers
+    .aria-label =
+        { $count ->
+            [one] { $count } cryptominers ({ $percentage }%)
+           *[other] { $count } cryptominers ({ $percentage }%)
+        }

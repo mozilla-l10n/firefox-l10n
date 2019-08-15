@@ -137,6 +137,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "K'o chi nanik'oj ri rub'i' ataqoya'l chuwäch yatikïr yaximon.">
 <!ENTITY fxa.unverified.button.label "Kejaq ri taq Runuk'ulem &syncBrand.shortName.label;…">
 
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -153,10 +154,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-<!ENTITY fxa.service.send.description "Tajotob'a' chuqa' ke'akomonij ri taq ayakb'al rik'in nïm ewan rusik'ixik chuqa' rik'in jun ruximonel nik'is ruq'ijul.">
-<!ENTITY fxa.service.send.launch "Tijaq &sendShortName;">
-<!ENTITY fxa.service.monitor.description "Tanik'oj we ri ataqoya'l k'o pa jun kitz'ilanem tzij chuqa' tak'ulu' rutzijol we k'o pa jun k'ak'a' tz'ilanem.">
-<!ENTITY fxa.service.monitor.launch "Tijaq &monitorShortName;">
 <!ENTITY fxa.service.sendTab.description "Tataqa' jun ruwi' chanin pa xab'achike okisab'äl akuchi' atikirisan molojri'ïl.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -537,6 +534,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Tikanöx pa:">
+
+<!-- LOCALIZATION NOTE (searchWithDesc.label):
+     This string prompts the user to use the list of one-click search engines in
+     the Urlbar and searchbar. -->
+
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -895,6 +897,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "¿La k'a man nisamäj ta ri ruxaq chi rij toq xechup ri taq ojqanem?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Titaq jun rutzijol">
 
+<!ENTITY protections.blocking.label "Niq'at">
+<!ENTITY protections.notBlocking.label "Man Tiq'at">
+<!ENTITY protections.notBlocking.why.label "¿Achike ruma?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Toq niq'at re re' nitikïr yerutz'ila' taq kich'akulal jujun ajk'amaya'l ruxaq. We majun ojqanela' jujun taq pitz'b'äl, taq nojwuj chuqa' taq ruk'ojlib'al rutikirib'al molojri'ïl rik'in jub'a' man ütz ta yesamäj.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Yechup ri taq chajinem xkerutzïj ronojel ri rojqanela' re ruxaq re'. Chuqa' nitikïr nrutzilaj rusamaj.">
+<!ENTITY protections.socialMediaTrackers.label "Kojqanela' aj Winäq K'amab'ey">
+<!ENTITY protections.crossSiteTrackingCookies.label "Kikuki Rojqanela' Xoch'in taq Ruxaq">
+<!ENTITY protections.trackingContent.label "Rojqanem Rupam">
+<!ENTITY protections.fingerprinters.label "Ketal ruwi' q'ab'aj">
+<!ENTITY protections.cryptominers.label "Cryptominers">
+<!ENTITY protections.noTrackersFound.description "Majun ojqanela' etaman richin &brandShortName; xe'ilitäj pa re ruxaq re'.">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -935,7 +948,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.manageSettings.label "Tinuk'samajïx Ruq'atik Rupam">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Rojqanem Rupam">
 
+<!ENTITY contentBlocking.manageSettings2.label "Runuk'samajel Runuk'ulem Ojqanem">
 <!ENTITY contentBlocking.manageSettings.accesskey "T">
 
 <!ENTITY contentBlocking.trackersView.label "Ojqanela'">
@@ -945,7 +960,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Taq kuki">
 <!ENTITY contentBlocking.cookiesView.label "Taq Kuki chuqa' Rutzij Ruxaq">
 
+<!ENTITY contentBlocking.socialblock.label "Kojqanela' aj Winäq K'amab'ey">
 
+<!ENTITY contentBlocking.cookies2.label "Kikuki Rojqanela' Xoch'in taq Ruxaq">
 
 <!ENTITY contentBlocking.cryptominers.label "Cryptominers">
 <!ENTITY contentBlocking.cryptominersView.label "Cryptominers">
@@ -957,6 +974,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Tiya' Kitzijol K'ayewal">
 <!ENTITY contentBlocking.breakageReportView2.description "Kiq'atik rupam nitikïr nuya' k'ayewal pa jujun ajk'amaya'l ruxaq. Toq naya' kitzijol k'ayewal, yato'on chi ri &brandShortName; ütz nub'än chi qawäch qonojel. (Re re' xtutäq ri URL chuqa' ri etamab'äl chi rij ri runuk'ulem ri okik'amaya'l chi re ri Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Tetamäx Ch'aqa' Chik">
+<!ENTITY contentBlocking.breakageReportView.title "Tiya' Rutzijol jun Ruxaq Man Nisamäj ta">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Tetamäx ch'aqa' chik">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "¿Achike k'ayewal xawïl? (Cha'el)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Titaq Rutzijol">
