@@ -116,6 +116,7 @@ newtab-menu-open-file = Abrir archivo
 
 newtab-label-visited = Visitado
 newtab-label-bookmarked = Marcado
+newtab-label-removed-bookmark = Marcador eliminado
 newtab-label-recommended = Popular
 newtab-label-saved = Guardado en { -pocket-brand-name }
 newtab-label-download = Descargado
