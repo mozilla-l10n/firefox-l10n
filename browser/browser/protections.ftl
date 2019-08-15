@@ -33,9 +33,11 @@ cookie-tab-title = 跨网站跟踪型 Cookie
 tracker-tab-title = 跟踪性内容
 fingerprinter-tab-title = 数字指纹跟踪程序
 cryptominer-tab-title = 加密货币挖矿程序
+lockwise-title = 不再忘记密码
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } 将您的密码安全地存储在浏览器中。
 lockwise-header-content-logged-in = 安全地存储密码，并同步到您的所有设备。
+lockwise-no-logins-content = 下载 <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> 应用程序，将密码随身携带。
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -54,6 +56,7 @@ lockwise-sync-status =
 lockwise-sync-not-syncing = 未与其他设备同步。
 monitor-title = 帮你关心数据泄漏事故
 monitor-sign-up = 订阅数据外泄警报
+auto-scan = 本日已自动扫描
 full-report-link = 到 <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a> 查看完整报告
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = 前往隐私设置
