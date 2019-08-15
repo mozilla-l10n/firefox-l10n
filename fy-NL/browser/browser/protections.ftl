@@ -38,6 +38,66 @@ social-tab-contant = Sosjale netwurken pleatse trackers op oare websites om te f
 cookie-tab-title = Cross-site-trackingcookies
 cookie-tab-content = Dizze cookies folgje jo op ferskate websites om gegevens te sammeljen oer wat jo online dogge. Se wurde pleatst troch tredden, lykas advertearders en analysebedriuwen. Troch cross-sitetrackingcookies te blokkearjen, ferminderet it oantal advertinsjes dat jo folget. <a data-l10n-name="learn-more-link">Mear ynfo</a>
 tracker-tab-title = Folchynhâld
+tracker-tab-content = Websites kinne eksterne advertinsjes, fideo’s en oare ynhâld lade dy't folchkoade befettet. It blokkearjen fan folchynhâld kin websites helpe flugger te laden, mar guon knoppen, formulieren en oanmeldfjilden wurkje mooglik net. <a data-l10n-name="learn-more-link">Mear ynfo</a>
+fingerprinter-tab-title = Fingerprinters
+fingerprinter-tab-content = Fingerprinters sammelje ynstellingen fan jo browser en kompjûter om in profyl fan jo te meitsjen. Mei help fan dizze digitale fingerôfdruk kinne se jo op ferskate websites folgje. <a data-l10n-name="learn-more-link">Mear ynfo</a>
+cryptominer-tab-title = Cryptominers
+cryptominer-tab-content = Cryptominers brûke de rekkenkrêft fan jo systeem om digitale faluta te generearjen. Cryptominer-scripts lûke jo batterij leech, fertraagje jo kompjûter en kinne jo enerzjyrekkening omheech jage. <a data-l10n-name="learn-more-link">Mear ynfo</a>
+lockwise-title = Ferjit nea mear in wachtwurd
+lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-header-content = { -lockwise-brand-name } bewarret jo wachtwurden feilich yn jo browser.
+lockwise-header-content-logged-in = Bewarje en syngronisearje jo wachtwurden feilich op al jo apparaten.
+open-about-logins-button = Iepenje yn { -brand-short-name }
+lockwise-no-logins-content = Download de <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a>-app om jo wachtwurden oeral mei hinne te nimmen.
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+lockwise-passwords-stored =
+    { $count ->
+        [one] wachtwurd feilich bewarre <a data-l10n-name="lockwise-how-it-works">Hoe't it werkt</a>
+       *[other] wachtwurden feilich bewarre <a data-l10n-name="lockwise-how-it-works">Hoe't it werkt</a>
+    }
+turn-on-sync = { -sync-brand-short-name } ynskeakelje…
+    .title = Nei syngronisaasjefoarkarren
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-sync-status =
+    { $count ->
+        [one] Syngronisearret mei { $count } oar apparaat
+       *[other] Syngronisearret mei { $count } oare apparaten
+    }
+lockwise-sync-not-syncing = Syngronisearret net mei oare apparaten.
+monitor-title = Let op datalekken
+monitor-link = Hoe't it wurket
+monitor-header-content = Sjoch op { -monitor-brand-name } om te sjen oft jo troffen binne troch in datalek en ûntfang warskôgingen oer nije datalekken.
+monitor-header-content-logged-in = { -monitor-brand-name } warskôget jo as jo gegevens foarkomme yn in bekend datalek
+monitor-sign-up = Ynskriuwe foar warskôgingen oer datalekken
+auto-scan = Hjoed automatysk scand
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-addresses =
+    { $count ->
+        [one] e-mailadres wurdt bewekke.
+       *[other] e-mailadressen wurde bewekke.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches =
+    { $count ->
+        [one] bekend datalek hat jo gegevens lekt.
+       *[other] bekende datalekken hawwe jo gegevens lekt.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords =
+    { $count ->
+        [one] wachtwurd lekt yn alle lekken.
+       *[other] wachtwurden lekt yn alle lekken.
+    }
+full-report-link = Besjoch it folsleine rapport op <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
