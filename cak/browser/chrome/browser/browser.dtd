@@ -909,6 +909,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.label "Cryptominers">
 <!ENTITY protections.noTrackersFound.description "Majun ojqanela' etaman richin &brandShortName; xe'ilitäj pa re ruxaq re'.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Re taq kuki re' yatkitzeqelb'ej pa taq ruxaq richin nikimöl taq tzij chi rij ri nab'än pa k'amab'ey. Yekijikib'a' aj rox winäq achi'el tzijonela' chuqa' ch'onel taq k'ayinela'.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -978,6 +979,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Tetamäx ch'aqa' chik">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "¿Achike k'ayewal xawïl? (Cha'el)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Cha'el: Tichol ri k'ayewal">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Titaq Rutzijol">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Tiq'at">
 

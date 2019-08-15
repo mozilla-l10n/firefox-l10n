@@ -34,6 +34,7 @@ graph-today = Wakami
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Wachib'äl nuk'üt ronojel ri kajilab'al kiwäch ojqanela' eq'aton re wuqq'ij re'.
 social-tab-title = Kojqanela' aj Winäq taq K'amab'ey
+cookie-tab-title = Kikuki Rojqanela' Xoch'in taq Ruxaq
 tracker-tab-title = Rojqanem Rupam
 cryptominer-tab-title = Cryptominers
 lockwise-title-logged-in = { -lockwise-brand-name }
