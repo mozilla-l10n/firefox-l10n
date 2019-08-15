@@ -679,6 +679,10 @@ sitedata-block-desc = Type blokkert
     .accesskey = T
 sitedata-option-block-trackers =
     .label = Tredjeparts-sporere
+sitedata-option-block-cross-site-trackers =
+    .label = Sporing på tvers av nettsteder
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = Sporing på tvers av nettsteder og sosiale media-sporere
 sitedata-option-block-unvisited =
     .label = Infokapsler fra ubesøkte nettsteder
 sitedata-option-block-all-third-party =
@@ -713,6 +717,7 @@ addressbar-suggestions-settings = Endre innstillinger for søkeforslag
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Innholdsblokkering
+content-blocking-enhanced-tracking-protection = Utvidet sporingsbeskyttelse
 content-blocking-section-description = Beskytt personvernet ditt mens du surfer. Blokker usynlig innhold som sporer nettsidene du besøker og profilerer deg. Blokkering av noe av dette innholdet kan gjøre nettsider raskere å laste.
 content-blocking-learn-more = Les mer
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -740,12 +745,16 @@ content-blocking-fingerprinters = Nettleseravtrykk
 content-blocking-warning-title = Se opp!
 content-blocking-warning-description = Blokkering av innhold kan føre til at noen nettsteder slutter å fungere. Det er enkelt å deaktivere blokkering for nettsteder du stoler på.
 content-blocking-learn-how = Finn ut hvordan
+content-blocking-warning-learn-how = Les hvordan
 content-blocking-reload-description = Du må oppdatere fanene dine for å kunne bruke disse endringene.
 content-blocking-reload-tabs-button =
     .label = Last inn alle faner på nytt
     .accesskey = L
 content-blocking-trackers-label =
     .label = Sporere
+    .accesskey = S
+content-blocking-tracking-content-label =
+    .label = Sporingsinnhold
     .accesskey = S
 content-blocking-tracking-protection-option-all-windows =
     .label = I alle vindu

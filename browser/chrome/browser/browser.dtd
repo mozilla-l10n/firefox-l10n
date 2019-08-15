@@ -137,6 +137,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Du må bekrefte kontoen din før du kan synkronisere.">
 <!ENTITY fxa.unverified.button.label "Åpne &syncBrand.shortName.label;-innstillinger">
 
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -153,10 +154,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-<!ENTITY fxa.service.send.description "Last opp og del filer med ende-til-ende-kryptering pluss en lenke som automatisk utløper.">
-<!ENTITY fxa.service.send.launch "Start &sendShortName;">
-<!ENTITY fxa.service.monitor.description "Sjekk om e-postadressen din har vært involvert i en datalekkasje, og bli varslet om den vises i en nytt lekkasje.">
-<!ENTITY fxa.service.monitor.launch "Start &monitorShortName;">
 <!ENTITY fxa.service.sendTab.description "Send en fane øyeblikkelig til alle enheter du er logget inn på.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -536,6 +533,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Søk med:">
+
+<!-- LOCALIZATION NOTE (searchWithDesc.label):
+     This string prompts the user to use the list of one-click search engines in
+     the Urlbar and searchbar. -->
+
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -896,6 +898,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.blocking.label "Blokkerer">
 <!ENTITY protections.notBlocking.label "Blokkerer ikke">
 <!ENTITY protections.notBlocking.why.label "Hvorfor?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Blokkering av disse kan føre til feil med elementer på noen nettsteder. Uten sporere fungerer kanskje ikke noen knapper, skjemaer og innloggingsfelt.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Ved å slå av beskyttelse tillates alle sporer på dette nettstedet. Det kan også forbedre noe funksjonalitet på nettstedet.">
 <!ENTITY protections.socialMediaTrackers.label "Sporing via sosiale medier">
 <!ENTITY protections.crossSiteTrackingCookies.label "Sporingsinfokapsler på tvers av nettsteder">
 <!ENTITY protections.trackingContent.label "Sporings-innhold">
@@ -903,8 +907,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.label "Kryptominere">
 <!ENTITY protections.noTrackersFound.description "Ingen sporere kjent for &brandShortName; ble oppdaget på denne siden.">
 
-
-<!ENTITY protections.manageProtectionSettings.label "Behandle innstillinger for beskyttelse">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -942,19 +944,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Sporere">
 
+<!ENTITY contentBlocking.manageSettings.label "Behandle innholdsblokkering">
+
 <!ENTITY contentBlocking.trackingProtection4.label "Sporings-innhold">
 
-<!ENTITY contentBlocking.manageSettings.label "Behandle innholdsblokkering">
 <!ENTITY contentBlocking.manageSettings.accesskey "n">
 
 <!ENTITY contentBlocking.trackersView.label "Sporere">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "For å blokkere alle sporere, sett innholdsblokkering til «Streng».">
 
-<!ENTITY contentBlocking.socialblock.label "Sporing via sosiale medier">
-<!ENTITY contentBlocking.socialblockView.label "Sporing via sosiale medier er blokkert">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "For å blokkere alle sporere, sett innholdsblokkering til «Streng».">
 
 <!ENTITY contentBlocking.cookies.label "Infokapsler">
 <!ENTITY contentBlocking.cookiesView.label "Infokapsler og nettstedsdata">
+
+<!ENTITY contentBlocking.socialblock.label "Sporing via sosiale medier">
+
 
 <!ENTITY contentBlocking.cryptominers.label "Kryptominere">
 <!ENTITY contentBlocking.cryptominersView.label "Kryptominere">
