@@ -137,6 +137,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "A szinkronizálás előtt meg kell erősítenie a fiókját.">
 <!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label; beállítások megnyitása…">
 
+<!ENTITY pictureInPictureHideToggle.label "Kép a képben kapcsoló elrejtése">
+<!ENTITY pictureInPictureHideToggle.accesskey "r">
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -153,10 +156,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-<!ENTITY fxa.service.send.description "Töltsön fel és osszon meg fájlokat végpontok közötti titkosítással, és egy automatikusan lejáró hivatkozással.">
-<!ENTITY fxa.service.send.launch "&sendShortName; indítása">
-<!ENTITY fxa.service.monitor.description "Ellenőrizze, hogy az e-mail címe jelent-e meg adatsértésben, és kapjon figyelmeztetést, ha új adatsértésben jelenik meg.">
-<!ENTITY fxa.service.monitor.launch "&monitorShortName; indítása">
 <!ENTITY fxa.service.sendTab.description "Küldjön el egy lapot bármely eszközére, amelyen be van jelentkezve.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -536,6 +535,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Keresés ezzel:">
+
+<!-- LOCALIZATION NOTE (searchWithDesc.label):
+     This string prompts the user to use the list of one-click search engines in
+     the Urlbar and searchbar. -->
+<!ENTITY searchWithDesc.label         "Ezúttal keressen a következővel:">
+
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -911,8 +916,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.description "A weboldalak külső hirdetéseket, videókat és más tartalmakat tölthetnek be, amelyek követési kódot is tartalmazhatnak. A nyomkövető tartalmak blokkolása az oldalak gyorsabb betöltését eredményezheti, de egyes gombok, űrlapok és bejelentkezési mezők lehet, hogy nem fognak működni.">
 <!ENTITY protections.socialMediaTrackers.description "A közösségi hálózatok nyomkövetőket helyeznek el más weboldalakon, hogy kövessék mit tesz, lát és néz online. Így a közösségi médiával foglalkozó cégek többet tudhatnak meg Önről, mint amit megoszt a közösségimédia-profiljaiban.">
 
-<!ENTITY protections.manageProtectionSettings.label "Védelmi beállítások kezelése">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Böngészőlapok">
@@ -949,20 +952,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Követők">
 
+<!ENTITY contentBlocking.manageSettings.label "Tartalomblokkolás kezelése">
+
 <!ENTITY contentBlocking.trackingProtection4.label "Nyomkövető tartalom">
 
-<!ENTITY contentBlocking.manageSettings.label "Tartalomblokkolás kezelése">
+<!ENTITY contentBlocking.manageSettings2.label "Védelmi beállítások kezelése">
 <!ENTITY contentBlocking.manageSettings.accesskey "T">
 
 <!ENTITY contentBlocking.trackersView.label "Követők">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Az összes követő blokkolásához állítson be „Szigorú” tartalomblokkolást.">
 
-<!ENTITY contentBlocking.socialblock.label "Közösségimédia-követők">
-<!ENTITY contentBlocking.socialblockView.label "Közösségimédia-követők blokkolva">
-<!ENTITY contentBlocking.socialblockView.description "A közösségi hálózatok nyomkövetőket helyeznek el más weboldalakon, hogy kövessék mit tesz, lát és néz online. Így a közösségi médiával foglalkozó cégek többet tudhatnak meg Önről, mint amit megoszt a közösségimédia-profiljaiban.">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Az összes követő blokkolásához állítson be „Szigorú” tartalomblokkolást.">
 
 <!ENTITY contentBlocking.cookies.label "Sütik">
 <!ENTITY contentBlocking.cookiesView.label "Sütik és oldaladatok">
+
+<!ENTITY contentBlocking.socialblock.label "Közösségimédia-követők">
+
+<!ENTITY contentBlocking.cookies2.label "Webhelyek közötti nyomkövető sütik">
 
 <!ENTITY contentBlocking.cryptominers.label "Kriptobányászok">
 <!ENTITY contentBlocking.cryptominersView.label "Kriptobányászok">
