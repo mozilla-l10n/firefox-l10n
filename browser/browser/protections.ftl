@@ -22,9 +22,51 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } waše hesła we wašim wobhladowaku wěsće składuje.
 lockwise-header-content-logged-in = Składujće a synchronizujće hesła za wšě waše graty.
 open-about-logins-button = W { -brand-short-name } wočinić
+turn-on-sync = { -sync-brand-short-name } zmóžnić
+    .title = K synchronizowanskim nastajenjam
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-sync-status =
+    { $count ->
+        [one] Synchronizuje so z { $count } druhim gratom
+        [two] Synchronizuje so z { $count } druhimaj gratomaj
+        [few] Synchronizuje so z { $count } druhimi gratami
+       *[other] Synchronizuje so z { $count } druhimi gratami
+    }
 lockwise-sync-not-syncing = Z druhimi gratami njesynchronizować
 monitor-title = Rozhladujće so za datowymi dźěrami
 monitor-link = Kak funguje
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-addresses =
+    { $count ->
+        [one] E-mejlowa adresa, kotraž so dohladuje.
+        [two] E-mejlowej adresy, kotrejž so dohladujetej.
+        [few] E-mejlowe adresy, kotrež so dohladuja.
+       *[other] E-mejlowe adresy, kotrež so dohladuja.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches =
+    { $count ->
+        [one] Znata datowa dźěra je waše informacije přeradźiła.
+        [two] Znatej datowej dźěrje stej waše informacije přeradźiłoj.
+        [few] Znate datowe dźěry su waše informacije přeradźili.
+       *[other] Znate datowe dźěry su waše informacije přeradźili.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords =
+    { $count ->
+        [one] Hesło je so přez wšě datowe dźery přeradźiło.
+        [two] Hesle stej so přez wšě datowe dźery přeradźiłoj.
+        [few] Hesła su so přez wšě datowe dźery přeradźili.
+       *[other] Hesła su so přez wšě datowe dźery přeradźili.
+    }
+full-report-link = Wobhladajće sej dospołnu rozprawu na <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = K nastajenjam priwatnosće
 # This is the title attribute describing the Lockwise card's link to about:logins
@@ -63,4 +105,22 @@ bar-tooltip-tracker =
             [two] { $count } slědowacej wobsahaj ({ $percentage } %)
             [few] { $count } slědowace wobsahi ({ $percentage } %)
            *[other] { $count } slědowacych wobsahow ({ $percentage } %)
+        }
+bar-tooltip-fingerprinter =
+    .title = Porstowe wotćišće
+    .aria-label =
+        { $count ->
+            [one] { $count } porstowy wotćišć ({ $percentage } %)
+            [two] { $count } porstowej wotćišćej ({ $percentage } %)
+            [few] { $count } porstowe wotćišće ({ $percentage } %)
+           *[other] { $count } porstowych wotćišćow ({ $percentage } %)
+        }
+bar-tooltip-cryptominer =
+    .title = Kryptokopaki
+    .aria-label =
+        { $count ->
+            [one] { $count } kryptokopak ({ $percentage } %)
+            [two] { $count } kryptokopakaj ({ $percentage } %)
+            [few] { $count } kryptokopaki ({ $percentage } %)
+           *[other] { $count } kryptokopakow ({ $percentage } %)
         }
