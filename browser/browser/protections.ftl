@@ -25,6 +25,7 @@ protection-header-details-custom = 保護等級設為<b>自訂</b>
 protection-report-page-title = 隱私保護
 protection-report-content-title = 隱私保護
 etp-card-title = 加強型追蹤保護
+etp-card-content = 追蹤器會在網路上跟蹤您，收集您的興趣與喜好。{ -brand-short-name } 會封鎖許多追蹤器與其他有害指令碼。
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = 今天
@@ -33,6 +34,7 @@ graph-legend-description = 在這一週當中封鎖的各類型追蹤器的總�
 social-tab-title = 社交媒體追蹤器
 social-tab-contant = 社群網站會在其他網站放置追蹤器，以追蹤您除了在社群網站分享的東西之外，還在網路上做了或看了什麼，更加了解您的一舉一動。<a data-l10n-name="learn-more-link">了解更多</a>
 cookie-tab-title = 跨網站追蹤 Cookie
+cookie-tab-content = 一些第三方廣告商或分析公司，會設定這些 Cookie 在不同網站間跟蹤您，收集您的上網紀錄。封鎖這些跨網站 Cookie 可減少在網路上跟蹤您的廣告。<a data-l10n-name="learn-more-link">了解更多</a>
 tracker-tab-title = 追蹤用內容
 tracker-tab-content = 網站中可能會有含有追蹤用程式碼的外部廣告、影片、其他內容。封鎖追蹤內容可以讓網站更快載入，但某些按鈕、表單、登入欄位可能無法正常運作。<a data-l10n-name="learn-more-link">了解更多</a>
 fingerprinter-tab-title = 數位指紋追蹤程式
@@ -67,7 +69,35 @@ monitor-header-content = 使用 { -monitor-brand-name } 檢查您是否處於資
 monitor-header-content-logged-in = 若您的資訊出現在已知的資料外洩事件中，{ -monitor-brand-name } 將警告您
 monitor-sign-up = 訂閱資料外洩警報
 auto-scan = 今天自動掃描過
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-addresses =
+    { $count ->
+       *[other] 組信箱監控中。
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches =
+    { $count ->
+       *[other] 場資料外洩事件，流出了您的個資。
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords =
+    { $count ->
+       *[other] 組密碼在資料外洩事件中流出。
+    }
 full-report-link = 到 <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a> 看完整報告
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+       *[other] 有網站發生資料外洩事件，當中可能流出了您儲存的登入資訊。請更改此密碼以維護線上安全。<a data-l10n-name="lockwise-link">檢視已存登入資訊</a>
+    }
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = 前往隱私設定
 # This is the title attribute describing the Lockwise card's link to about:logins
