@@ -72,6 +72,7 @@ monitor-link = Como funciona
 monitor-header-content = Veja no { -monitor-brand-name } se você foi vítima de um vazamento de dados e receba alertas sobre novos vazamentos.
 monitor-header-content-logged-in = O { -monitor-brand-name } avisa caso suas informações apareçam em um vazamento de dados conhecido
 monitor-sign-up = Cadastre-se para receber alertas de vazamentos
+auto-scan = Analisados automaticamente hoje
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
