@@ -72,6 +72,7 @@ monitor-link = როგორ მუშაობს
 monitor-header-content = გამოცადეთ { -monitor-brand-name } და ნახეთ, თქვენი ინფორმაცია აღმოჩენილია თუ არა მიტაცებულ მონაცემებს შორის და მიიღეთ ცნობები, ახალი შემთხვევების შესახებ.
 monitor-header-content-logged-in = { -monitor-brand-name } გაცნობებთ, თუ თქვენი ინფორმაცია ცნობილ მიტაცემულ მონაცემებში აღმოჩნდება
 monitor-sign-up = გამოიწერეთ ცნობები, მონაცემების მიტაცების შესახებ
+auto-scan = ავტომატურად გადამოწმებული დღეს
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -97,6 +98,14 @@ info-exposed-passwords =
        *[other] პაროლია გამჟღავნებული, მონაცემების მიტაცების შემთხვევების შედეგად.
     }
 full-report-link = იხილეთ სრული ანგარიში ბმულზე <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] ანგარიშის ინფორმაცია შესაძლოა გამჟღავნებული იყოს მონაცემთა მიტაცების შედეგად. უსაფრთხოებისთვის, ჯობია შეცვალოთ აღნიშნული პაროლი. <a data-l10n-name="lockwise-link">იხილეთ შენახული მონაცემები</a>
+       *[other] ანგარიშის ინფორმაცია შესაძლოა გამჟღავნებული იყოს მონაცემთა მიტაცების შედეგად. უსაფრთხოებისთვის, ჯობია შეცვალოთ აღნიშნული პაროლები. <a data-l10n-name="lockwise-link">იხილეთ შენახული მონაცემები</a>
+    }
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = პირადულობის პარამეტრებზე გადასვლა
 # This is the title attribute describing the Lockwise card's link to about:logins
@@ -109,3 +118,38 @@ go-to-saved-logins = შენახულ ანგარიშებზე გ
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = სოციალური ქსელის მეთვალყურეები
+    .aria-label =
+        { $count ->
+            [one] სოციალური ქსელის { $count } მეთვალყურე ({ $percentage }%)
+           *[other] სოციალური ქსელის { $count } მეთვალყურე ({ $percentage }%)
+        }
+bar-tooltip-cookie =
+    .title = საიტთაშორისი მეთვალყურე ფუნთუშები
+    .aria-label =
+        { $count ->
+            [one] { $count } საიტთაშორისი მეთვალყურე ფუნთუშა ({ $percentage }%)
+           *[other] { $count } საიტთაშორისი მეთვალყურე ფუნთუშა ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = თვალის მდევნელი შიგთავსი
+    .aria-label =
+        { $count ->
+            [one] { $count } თვალის მდევნელი შიგთავსი ({ $percentage }%)
+           *[other] { $count } თვალის მდევნელი შიგთავსი ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = მომხმარებლის ამომცნობები
+    .aria-label =
+        { $count ->
+            [one] მომხმარებლის { $count } ამომცნობი ({ $percentage }%)
+           *[other] მომხმარებლის { $count } ამომცნობი ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = კრიპტოვალუტის გამომმუშავებლები
+    .aria-label =
+        { $count ->
+            [one] კრიპტოვალუტის { $count } გამომმუშავებელი ({ $percentage }%)
+           *[other] კრიპტოვალუტის { $count } გამომმუშავებელი ({ $percentage }%)
+        }
