@@ -25,6 +25,7 @@ protection-header-details-custom = 保护等级设为<b>自定义</b>
 protection-report-page-title = 隐私保护
 protection-report-content-title = 隐私保护
 etp-card-title = 增强型跟踪保护
+etp-card-content = 跟踪器会跟踪您的在线活动，收集您的浏览习惯与兴趣爱好。{ -brand-short-name } 可拦截众多跟踪器和其他恶意脚本。
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = 本日
@@ -68,7 +69,35 @@ monitor-header-content = 到 { -monitor-brand-name } 检测您是否处于数据
 monitor-header-content-logged-in = 若您的信息出现在已知的数据外泄事件中，{ -monitor-brand-name } 将警告您
 monitor-sign-up = 订阅数据外泄警报
 auto-scan = 本日已自动扫描
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-addresses =
+    { $count ->
+       *[other] 个电子邮件地址已在监控。
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches =
+    { $count ->
+       *[other] 次数据外泄事件，泄露了您的信息。
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords =
+    { $count ->
+       *[other] 组密码在数据外泄事件中泄露。
+    }
 full-report-link = 到 <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a> 查看完整报告
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+       *[other] 有网站发生数据外泄事件，可能已泄露您在其保存的登录信息。请尽快修改此密码，提升网络安全性。<a data-l10n-name="lockwise-link">查看已存登录信息</a>
+    }
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = 前往隐私设置
 # This is the title attribute describing the Lockwise card's link to about:logins
