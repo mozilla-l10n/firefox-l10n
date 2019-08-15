@@ -137,6 +137,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Eşitlemeyi başlatabilmek için hesabınızı doğrulamanız gerekir.">
 <!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label; ayarlarını aç…">
 
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -536,6 +537,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Bununla ara:">
+
+<!-- LOCALIZATION NOTE (searchWithDesc.label):
+     This string prompts the user to use the list of one-click search engines in
+     the Urlbar and searchbar. -->
+
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -908,7 +914,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Bu çerezler çevrimiçi olarak yaptığınız şeyler hakkında veriler toplamak için sizi siteden siteye takip eder. Reklamverenler ve analiz şirketleri gibi üçüncü taraflar tarafından ayarlanmışlardır.">
 <!ENTITY protections.cryptominers.description "Kripto madencileri sayısal para madenciliğinde bulunmak için sisteminizin hesaplama gücünü kullanır. Kripto madencilik komut dosyaları pilinizi tüketir, bilgisayarınızı yavaşlatır ve elektrik faturanızı kabartabilir.">
 <!ENTITY protections.fingerprinters.description "Parmak izi toplayıcıları profilinizi oluşturmak için tarayıcı ve bilgisayarınızdaki ayarları toplarlar. Bu dijital parmak izini kullanarak farklı web siteler arasında sizi takip edebilirler.">
-<!ENTITY protections.trackingContent.description "Web siteler takip kodu içeren harici reklam, video ve diğer içerikleri yükleyebilirler. Takip içeriğini engellemek sitelerin daha hızlı yüklenmesine yardımcı olabilir, fakat bazı düğme, form ve giriş alanları çalışmayabilir.">
+<!ENTITY protections.trackingContent.description "Web siteleri; takip kodu içeren harici reklamlar, videolar ve başka içerikler yükleyebilir. Takip amaçlı içerikleri engellemek sitelerin daha hızlı yüklenmesini sağlayabilir ama bazı düğmeler, formlar ve giriş alanları çalışmayabilir.">
 <!ENTITY protections.socialMediaTrackers.description "Sosya ağlar, internette yaptıklarınızı, gördüklerinizi ve izlediklerinizi takip etmek için diğer web sitelerine takipçiler yerleştirirler. Bu sayede sosyal medya şirketleri, sosyal medya profillerinizde paylaştıklarınızdan çok daha fazla şey öğrenebilir.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
