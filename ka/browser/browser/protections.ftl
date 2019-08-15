@@ -73,12 +73,28 @@ monitor-header-content = გამოცადეთ { -monitor-brand-name } დ
 monitor-header-content-logged-in = { -monitor-brand-name } გაცნობებთ, თუ თქვენი ინფორმაცია ცნობილ მიტაცემულ მონაცემებში აღმოჩნდება
 monitor-sign-up = გამოიწერეთ ცნობები, მონაცემების მიტაცების შესახებ
 # This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-addresses =
+    { $count ->
+        [one] ელფოსტის მისამართია დაკვირვების ქვეშ.
+       *[other] ელფოსტის მისამართია დაკვირვების ქვეშ.
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-known-breaches =
     { $count ->
         [one] ცნობილ მიტაცებულ მონაცემებშია აღმოჩენილი თქვენი ინფორმაცია.
        *[other] ცნობილ მიტაცებულ მონაცემებშია აღმოჩენილი თქვენი ინფორმაცია.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords =
+    { $count ->
+        [one] პაროლია გამჟღავნებული, მონაცემების მიტაცების შემთხვევების შედეგად.
+       *[other] პაროლია გამჟღავნებული, მონაცემების მიტაცების შემთხვევების შედეგად.
     }
 full-report-link = იხილეთ სრული ანგარიში ბმულზე <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This is the title attribute describing the graph report's link to about:settings#privacy
