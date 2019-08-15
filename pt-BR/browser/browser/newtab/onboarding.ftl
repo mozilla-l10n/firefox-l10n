@@ -89,7 +89,7 @@ onboarding-tracking-protection-button2 = Como funciona
 onboarding-data-sync-title = Leve suas configurações com você
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Sincronize favoritos, senhas e outras coisas em todo lugar que usar o { -brand-product-name }.
-onboarding-data-sync-button2 = Entrar no { -sync-brand-short-name }
+onboarding-data-sync-button2 = Entre no { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Fique atento a vazamentos de dados
 onboarding-firefox-monitor-text = O { -monitor-brand-name } verifica se seu e-mail apareceu em um vazamento de dados e manda um alerta para você caso apareça em um novo vazamento.
 onboarding-firefox-monitor-button = Cadastre-se para receber alertas
@@ -103,7 +103,7 @@ onboarding-mobile-phone-title = Instale o { -brand-product-name } no seu celular
 onboarding-mobile-phone-text = Baixe o { -brand-product-name } para iOS ou Android e sincronize seus dados entre dispositivos.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
-onboarding-mobile-phone-button = Baixar o navegador para celular
+onboarding-mobile-phone-button = Baixe o navegador para celular
 onboarding-send-tabs-title = Envie abas para si mesmo instantaneamente
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
