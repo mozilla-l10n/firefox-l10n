@@ -29,10 +29,15 @@ etp-card-title = 增强型跟踪保护
 # capitalization for this string should match the output for your locale.
 graph-today = 本日
 social-tab-title = 社交媒体跟踪器
+social-tab-contant = 社交网站将跟踪器嵌到其他网站，跟踪您在网上做了或看了什么。社交媒体公司对您的了解，绝不止于您在社交媒体上分享的信息。<a data-l10n-name="learn-more-link">详细了解</a>
 cookie-tab-title = 跨网站跟踪型 Cookie
+cookie-tab-content = 这些 Cookie 由第三方广告商或分析公司设置，能够在不同网站间跟踪您，以收集您的在线活动数据。<a data-l10n-name="learn-more-link">详细了解</a>
 tracker-tab-title = 跟踪性内容
+tracker-tab-content = 网站可能会加载包含跟踪代码的外部广告、视频、其他内容。拦截跟踪内容可以让网站加载更快，但某些按钮、表单、登录字段可能无法正常工作。<a data-l10n-name="learn-more-link">详细了解</a>
 fingerprinter-tab-title = 数字指纹跟踪程序
+fingerprinter-tab-content = 数字指纹追踪程序收集您的浏览器、计算机设置，勾勒出您的精准画像，并在不同网站间跟踪您。<a data-l10n-name="learn-more-link">详细了解</a>
 cryptominer-tab-title = 加密货币挖矿程序
+cryptominer-tab-content = 加密货币挖矿程序使用您的计算机算力来“挖”数字货币，耗尽您的设备电量、拖慢机器性能、增加电费支出。<a data-l10n-name="learn-more-link">详细了解</a>
 lockwise-title = 不再忘记密码
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } 将您的密码安全地存储在浏览器中。
