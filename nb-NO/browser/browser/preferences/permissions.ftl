@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Unntak - innholdsblokkering
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Du har slått av innholdsblokkering på disse nettstedene.
+permissions-exceptions-etp-window =
+    .title = Unntak for utvidet sporingsbeskyttelse
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Du har slått av beskyttelsen på disse nettstedene.
 
 ## Exceptions - Cookies
 
