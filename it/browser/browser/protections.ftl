@@ -27,9 +27,9 @@ graph-total-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = Il livello di protezione è impostato a <b>Normale</b>
-protection-header-details-strict = Il livello di protezione è impostato a <b>Restrittivo</b>
-protection-header-details-custom = Il livello di protezione è impostato a <b>Personalizzato</b>
+protection-header-details-standard = Il livello di protezione è impostato su <b>Normale</b>
+protection-header-details-strict = Il livello di protezione è impostato su <b>Restrittivo</b>
+protection-header-details-custom = Il livello di protezione è impostato su <b>Personalizzato</b>
 protection-report-page-title = Protezioni per la privacy
 protection-report-content-title = Protezioni per la privacy
 
@@ -77,15 +77,15 @@ turn-on-sync = Attiva { -sync-brand-short-name }…
 #   $count (Number) - Number of devices connected with sync.
 lockwise-sync-status =
   { $count ->
-     [one] Sincronizzazione con un altro dispositivo
-    *[other] Sincronizzazione con { $count } altri dispositivi
+     [one] Sincronizzato con un altro dispositivo
+    *[other] Sincronizzato con { $count } altri dispositivi
   }
 lockwise-sync-not-syncing = Non sincronizzato con altri dispositivi.
 
 monitor-title = Tieni sotto controllo le violazioni di dati
 monitor-link = Come funziona
 monitor-header-content = Controlla { -monitor-brand-name } per verificare se sei stato coinvolto in una violazione di dati e ricevere avvisi per nuove violazioni.
-monitor-header-content-logged-in = { -monitor-brand-name } ti avvisa se le tue informazioni risultano in una violazione di dati conosciuta
+monitor-header-content-logged-in = { -monitor-brand-name } ti avvisa se le tue informazioni compaiono in una violazione di dati conosciuta.
 monitor-sign-up = Iscriviti per ricevere avvisi sulle violazioni
 auto-scan = Controllato automaticamente oggi
 
