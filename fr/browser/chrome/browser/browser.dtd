@@ -153,10 +153,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-<!ENTITY fxa.service.send.description "Envoyez des fichiers en ligne et partagez-les avec un chiffrement de bout en bout et un lien qui expire automatiquement.">
-<!ENTITY fxa.service.send.launch "Ouvrir &sendShortName;">
-<!ENTITY fxa.service.monitor.description "Vérifiez si votre adresse électronique apparaît dans une fuite de données et recevez une alerte si elle apparaît dans une nouvelle fuite.">
-<!ENTITY fxa.service.monitor.launch "Ouvrir &monitorShortName;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -890,8 +886,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Le site ne fonctionne toujours pas après avoir désactivé les protections ?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Envoyer un rapport">
 
-<!ENTITY protections.blocking.label "Bloqué">
-<!ENTITY protections.notBlocking.label "Non bloqué">
+<!ENTITY protections.blocking.label "Bloqués">
+<!ENTITY protections.notBlocking.label "Non bloqués">
 <!ENTITY protections.notBlocking.why.label "Pourquoi ?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Bloquer ces éléments peut entraîner un dysfonctionnement partiel de certains sites web. Sans les traqueurs, certains boutons, formulaires ou champs de connexion peuvent ne pas fonctionner correctement.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Désactiver les protections autorisera tous les traqueurs sur ce site. Cette action peut aussi améliorer le fonctionnement de certaines parties du site web.">
