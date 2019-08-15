@@ -2,6 +2,32 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+graph-week-summary =
+    { $count ->
+        [one] { -brand-short-name } je { $count } přesćěhowak zańdźeny tydźeń zablokował
+        [two] { -brand-short-name } je { $count } přesćěhowakaj zańdźeny tydźeń zablokował
+        [few] { -brand-short-name } je { $count } přesćěhowaki zańdźeny tydźeń zablokował
+       *[other] { -brand-short-name } je { $count } přesćěhowakow zańdźeny tydźeń zablokował
+    }
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
+# earliest date recorded in the database.
+graph-total-summary =
+    { $count ->
+        [one] { $count } přesćěhowak je so wot { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } zablokował
+        [two] { $count } přesćěhowakaj stej so wot { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } zablokowałoj
+        [few] { $count } přesćěhowaki su so wot { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } zablokowali
+       *[other] { $count } přesćěhowakow je so wot { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } zablokowało
+    }
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-header-details-standard = Škitny schodźenk je so na <b>Standard</b> stajił
+protection-header-details-strict = Škitny schodźenk je so na <b>Striktny</b> stajił
+protection-header-details-custom = Škitny schodźenk je so na <b>Swójski</b> stajił
 protection-report-page-title = Škity priwatnosće
 protection-report-content-title = Škity priwatnosće
 etp-card-title = Polěpšeny slědowanski škit
