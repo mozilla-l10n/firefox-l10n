@@ -40,6 +40,7 @@ cookie-tab-content = Iste cookies te seque de sito a sito pro colliger datos re 
 tracker-tab-title = Contento traciator
 tracker-tab-content = Sitos web pote cargar avisos publicitari externe, videos e altere contento que contine codification de traciamento. Blocar contento traciator pote adjutar a cargar sitos plus velocemente, ma alcun buttones, formas e campos de accesso pote non functionar. <a data-l10n-name="learn-more-link">
 fingerprinter-tab-title = Dactylogrammatores
+fingerprinter-tab-content = Dactylogrammatores collige parametros de tu navigator e computator pro crear un profilo re te. Per iste dactylogramma digital, illos pote traciar te inter le differente sitos web. <a data-l10n-name="learn-more-link">
 cryptominer-tab-title = Cryptominatores
 lockwise-title-logged-in = { -lockwise-brand-name }
 open-about-logins-button = Aperir in { -brand-short-name }
