@@ -137,6 +137,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Deberás verificar tu cuenta antes de poder usar sync.">
 <!ENTITY fxa.unverified.button.label "Abrir ajustes de &syncBrand.shortName.label;…">
 
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -152,8 +154,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-<!ENTITY fxa.service.send.launch "Abrir &sendShortName;">
-<!ENTITY fxa.service.monitor.launch "Abrir &monitorShortName;">
+<!ENTITY fxa.service.sendTab.description "Envía de forma instantánea una pestaña a cualquier dispositivo en el que te encuentres conectado.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -532,6 +533,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Buscar con:">
+
+<!-- LOCALIZATION NOTE (searchWithDesc.label):
+     This string prompts the user to use the list of one-click search engines in
+     the Urlbar and searchbar. -->
+<!ENTITY searchWithDesc.label         "Esta vez, buscar con:">
+
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -803,13 +810,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Conexión">
 <!ENTITY identity.connectionSecure "Conexión segura">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Seguridad de la conexión">
+
+<!ENTITY identity.connectionSecure2 "Conexión segura">
 <!ENTITY identity.connectionNotSecure "Conexión no segura">
+<!ENTITY identity.connectionNotSecureSecurityView "No estás conectado de forma segura a este sitio.">
 <!ENTITY identity.connectionFile "Esta página está almacenada en tu computador.">
 <!ENTITY identity.connectionVerified2 "Estás conectado de forma segura a este sitio, perteneciente a:">
+<!ENTITY identity.connectionVerified3 "Está conectado de forma segura a este sitio.">
 <!ENTITY identity.connectionInternal "Esta es una página segura de &brandShortName;.">
 <!ENTITY identity.extensionPage "Esta página es cargada desde una extensión.">
 <!ENTITY identity.insecureLoginForms2 "Las conexiones realizadas en esta página pueden verse comprometidas.">
 <!ENTITY identity.customRoot "Conexión verificada por un emisor de certificados que no es reconocido por Mozilla.">
+
+<!ENTITY identity.evOwnerLabel "Sitio perteneciente a:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ha bloqueado partes de esta página que no son seguras.">
@@ -844,12 +861,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Limpiar cookies y datos del sitio…">
 
 <!ENTITY identity.permissions "Permisos">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "Permisos ajustados">
 <!ENTITY identity.permissionsEmpty "No has dado permisos especiales a este sitio.">
 <!ENTITY identity.permissionsReloadHint "Puede que tengas que recargar la página para que los cambios se apliquen.">
 <!ENTITY identity.permissionsPreferences.tooltip "Abrir preferencias de permisos">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Abrir preferencias de bloqueo de contenido">
 
 
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.settings.label "Ajustes de protección">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -877,8 +899,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.fingerprinters.label "Creadores de huellas (Fingerprinters)">
 <!ENTITY protections.cryptominers.label "Criptomineros">
 
-
-<!ENTITY protections.manageProtectionSettings.label "Gestionar ajustes de protección">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -917,16 +937,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Rastreadores">
 
 <!ENTITY contentBlocking.manageSettings.label "Gestionar bloqueo de contenido">
+
+<!ENTITY contentBlocking.trackingProtection4.label "Contenido de rastreo">
+
+<!ENTITY contentBlocking.manageSettings2.label "Gestionar ajustes de protección">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "Rastreadores">
-<!ENTITY contentBlocking.trackersView.strictInfo.label 'Para bloquear todos los rastreadores, ajusta el bloqueo de contenido a "Estricto".'>
 
-<!ENTITY contentBlocking.socialblock.label "Rastreadores de redes sociales">
-<!ENTITY contentBlocking.socialblockView.label "Rastreadores de redes sociales bloqueados">
+<!ENTITY contentBlocking.trackersView.strictInfo.label 'Para bloquear todos los rastreadores, ajusta el bloqueo de contenido a "Estricto".'>
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies y datos de sitio">
+
+<!ENTITY contentBlocking.socialblock.label "Rastreadores de redes sociales">
+
+<!ENTITY contentBlocking.cookies2.label "Cookies de rastreo de sitios cruzados">
 
 <!ENTITY contentBlocking.cryptominers.label "Criptomineros">
 <!ENTITY contentBlocking.cryptominersView.label "Criptomineros">
