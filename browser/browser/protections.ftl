@@ -17,6 +17,8 @@ tracker-tab-title = 跟踪性内容
 fingerprinter-tab-title = 数字指纹跟踪程序
 cryptominer-tab-title = 加密货币挖矿程序
 lockwise-title-logged-in = { -lockwise-brand-name }
+turn-on-sync = 开启{ -sync-brand-short-name }…
+    .title = 前往“同步”首选项
 lockwise-sync-not-syncing = 未与其他设备同步。
 monitor-title = 帮你关心数据泄漏事故
 monitor-sign-up = 订阅数据外泄警报
@@ -28,3 +30,9 @@ monitor-sign-up = 订阅数据外泄警报
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = 社交媒体跟踪器
+    .aria-label =
+        { $count ->
+           *[other] { $count } 个社交媒体跟踪器（{ $percentage }%）
+        }
