@@ -18,6 +18,26 @@ graph-total-summary =
         [one] { $count } ojqanel q'aton chik pe pa { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] { $count } ojqanela' eq'aton chik pe pa { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }{ DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-header-details-standard = Ri Rupalem Chajinem nijikib'äx pa <b>Junamil</b>
+protection-header-details-strict = Ri Rupalem Chajinem nijikib'äx pa <b>K'a'alri'ïl</b>
+protection-header-details-custom = Ri Rupalem Chajinem nijikib'äx pan <b>Ichinan</b>
+protection-report-page-title = Ichinanem taq Chajinïk
+protection-report-content-title = Ichinanem taq Chajinïk
+etp-card-title = Utzirisan Chajinem chuwäch Ojqanem
+etp-card-content = Ri ojqanela' yatkojqaj pa k'amab'ey richin nikimöl ri awetamab'al chi rij ri ye'ab'än chuqa' ri niqa chawäch nakanoj. { -brand-short-name } ke'aq'ata' k'ïy chi ke ri taq ojqanela' ri' chuqa' ch'aqa' chik tz'ilanel taq skrip.
+# This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
+# capitalization for this string should match the output for your locale.
+graph-today = Wakami
+# This string is used to describe the graph for screenreader users.
+graph-legend-description = Wachib'äl nuk'üt ronojel ri kajilab'al kiwäch ojqanela' eq'aton re wuqq'ij re'.
+social-tab-title = Kojqanela' aj Winäq taq K'amab'ey
+tracker-tab-title = Rojqanem Rupam
+cryptominer-tab-title = Cryptominers
+lockwise-title-logged-in = { -lockwise-brand-name }
+open-about-logins-button = Tijaq pa { -brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
