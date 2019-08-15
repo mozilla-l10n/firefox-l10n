@@ -27,9 +27,12 @@ protection-header-details-custom = O nível de proteção está definido como <b
 protection-report-page-title = Proteções de privacidade
 protection-report-content-title = Proteções de privacidade
 etp-card-title = Proteção aprimorada contra rastreamento
+etp-card-content = Rastreadores seguem você online por todo canto para coletar informações sobre seus interesses e hábitos de navegação. O { -brand-short-name } bloqueia muitos desses rastreadores e outros scripts maliciosos.
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Hoje
+# This string is used to describe the graph for screenreader users.
+graph-legend-description = Um gráfico contendo o número total de cada tipo de rastreador bloqueado esta semana.
 social-tab-title = Rastreadores de mídias sociais
 cookie-tab-title = Cookies de rastreamento entre sites
 tracker-tab-title = Conteúdo de rastreamento
