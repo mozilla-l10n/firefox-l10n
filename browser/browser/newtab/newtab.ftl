@@ -47,6 +47,9 @@ newtab-topsites-add-button = Pridať
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Ste si istí, že chcete odstrániť všetky výskyty tejto stránky zo svojej histórie prehliadania?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Túto akciu nie je možné vrátiť späť.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Pridať medzi záložky
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Kopírovať adresu súboru
 newtab-menu-go-to-download-page = Prejsť na stránku so súborom
 newtab-menu-remove-download = Odstrániť z histórie
@@ -116,6 +123,10 @@ newtab-label-download = Prevzaté
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = Odstrániť sekciu
 newtab-section-menu-collapse-section = Zbaliť sekciu
 newtab-section-menu-expand-section = Rozbaliť sekciu
@@ -126,6 +137,13 @@ newtab-section-menu-add-search-engine = Pridať vyhľadávací modul
 newtab-section-menu-move-up = Posunúť vyššie
 newtab-section-menu-move-down = Posunúť nižšie
 newtab-section-menu-privacy-notice = Zásady ochrany súkromia
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Zbaliť sekciu
+newtab-section-expand-section-label =
+    .aria-label = Rozbaliť sekciu
 
 ## Section Headers.
 

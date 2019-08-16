@@ -271,6 +271,14 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Rozšírenia a témy vzhľadu sú ako aplikácie pre váš prehliadač. S nimi môžete
+    chrániť svoje heslá, preberať videá, hľadať výhodné ponuky, blokovať reklamy,
+    meniť vzhľad prehliadača a omnoho viac. Tieto malé programy väčšinou vyrába
+    niekto iný ako my. Tu je výber <a data-l10n-name="learn-more-trigger">odporúčaných</a>
+    rozšírení pre { -brand-product-name }, ktoré majú jedinečnú bezpečnosť a funkcie.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Niektoré z týchto odporúčaní sú vám prispôsobené. Sú založené na rozšíreniach, ktoré už
@@ -309,6 +317,16 @@ release-notes-addon-button = Poznámky k vydaniu
 permissions-addon-button = Povolenia
 addons-enabled-heading = Povolené
 addons-disabled-heading = Zakázané
+extension-enabled-heading = Povolené rozšírenia
+extension-disabled-heading = Zakázané rozšírenia
+theme-enabled-heading = Aktívna téma vzhľadu
+theme-disabled-heading = Zakázané témy vzhľadu
+plugin-enabled-heading = Povolené zásuvné moduly
+plugin-disabled-heading = Zakázané zásuvné moduly
+dictionary-enabled-heading = Povolené slovníky
+dictionary-disabled-heading = Zakázané slovníky
+locale-enabled-heading = Povolené jazyky
+locale-disabled-heading = Zakázané jazyky
 ask-to-activate-button = Vyžiadať aktivovanie
 always-activate-button = Vždy aktivovať
 never-activate-button = Nikdy neaktivovať
@@ -317,6 +335,11 @@ addon-detail-version-label = Verzia
 addon-detail-last-updated-label = Posledná aktualizácia
 addon-detail-homepage-label = Domovská stránka
 addon-detail-rating-label = Hodnotenie
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Ohodnotené na { NUMBER($rating, maximumFractionDigits: 1) } z 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
