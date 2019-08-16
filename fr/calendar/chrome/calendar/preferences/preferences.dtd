@@ -6,3 +6,5 @@
 <!ENTITY  paneAlarms.title        "Alarmes">
 <!ENTITY  paneCategories.title    "Catégories">
 <!ENTITY  paneViews.title         "Vues">
+<!ENTITY  panelHeader.title       "Agenda">
+<!ENTITY  panelCatecory.title     "Catégories">
