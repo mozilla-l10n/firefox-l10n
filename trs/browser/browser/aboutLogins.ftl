@@ -123,3 +123,5 @@ confirm-discard-changes-dialog-confirm-button = Dunâj man
 
 breach-alert-text = Gi'iaj tu nej si da'nga' huì hua 'iát nga nagi'iaj nakàt riña ayi'ìt sesiûn. Naduna da'nga' huì hua 'iát daj dugumînt si kuentât.
 breach-alert-link = Gini'in doj dàj hua rayi'î 'ngo gakïn' nan.
+breach-alert-dismiss =
+    .title = Narán riña sa ataj snan'anj nan
