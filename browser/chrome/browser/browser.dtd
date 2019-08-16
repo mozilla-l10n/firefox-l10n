@@ -137,6 +137,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Для початку синхронізації вам необхідно підтвердити свій обліковий запис.">
 <!ENTITY fxa.unverified.button.label "Відкрити налаштування Синхронізації…">
 
+<!ENTITY pictureInPictureHideToggle.label "Приховати перемикач Зображення в зображенні">
+<!ENTITY pictureInPictureHideToggle.accesskey "х">
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -153,10 +156,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-<!ENTITY fxa.service.send.description "Вивантажуйте й обмінюйтесь файлами з наскрізним шифруванням і посиланнями з функцією самознищення.">
-<!ENTITY fxa.service.send.launch "Запустити &sendShortName;">
-<!ENTITY fxa.service.monitor.description "Перевірте чи ваша адреса електронної пошти не з'явилася у витоках даних і отримуйте попередження про нові витоки.">
-<!ENTITY fxa.service.monitor.launch "Запустити &monitorShortName;">
 <!ENTITY fxa.service.sendTab.description "Миттєво надсилайте вкладку на будь-який пов'язаний пристрій.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -536,6 +535,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Шукати з:">
+
+<!-- LOCALIZATION NOTE (searchWithDesc.label):
+     This string prompts the user to use the list of one-click search engines in
+     the Urlbar and searchbar. -->
+<!ENTITY searchWithDesc.label         "Цього разу, пошук з:">
+
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -911,8 +916,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.description "Веб-сайти можуть завантажувати зовнішню рекламу, відео, а також інший вміст, що містить код стеження. Блокування такого вмісту може допомогти сайтам швидше завантажуватись, але при цьому деякі кнопки, поля форм і входів можуть не працювати.">
 <!ENTITY protections.socialMediaTrackers.description "Соціальні мережі розміщують елементи стеження на інших веб-сайтах, щоб стежити за вашими діями в мережі. Це дозволяє соціальним мережам вивчати більше про вас, окрім того, чим ви ділитеся в своєму профілі соціальних мереж.">
 
-<!ENTITY protections.manageProtectionSettings.label "Керувати налаштуваннями захисту">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Вкладок браузера">
@@ -949,20 +952,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Стеження">
 
+<!ENTITY contentBlocking.manageSettings.label "Керувати блокуванням вмісту">
+
 <!ENTITY contentBlocking.trackingProtection4.label "Вміст стеження">
 
-<!ENTITY contentBlocking.manageSettings.label "Керувати блокуванням вмісту">
+<!ENTITY contentBlocking.manageSettings2.label "Керувати налаштуваннями захисту">
 <!ENTITY contentBlocking.manageSettings.accesskey "К">
 
 <!ENTITY contentBlocking.trackersView.label "Стеження">
-<!ENTITY contentBlocking.trackersView.strictInfo.label 'Щоб заблокувати все стеження, встановіть значення блокування вмісту "Суворе".'>
 
-<!ENTITY contentBlocking.socialblock.label "Стеження соціальних мереж">
-<!ENTITY contentBlocking.socialblockView.label "Заблоковано стеження соціальних мереж">
-<!ENTITY contentBlocking.socialblockView.description "Соціальні мережі розміщують елементи стеження на інших веб-сайтах, щоб стежити за вашими діями в мережі. Це дозволяє соціальним мережам вивчати більше про вас, окрім того, чим ви ділитеся в своєму профілі соціальних мереж.">
+<!ENTITY contentBlocking.trackersView.strictInfo.label 'Щоб заблокувати все стеження, встановіть значення блокування вмісту "Суворе".'>
 
 <!ENTITY contentBlocking.cookies.label "Куки">
 <!ENTITY contentBlocking.cookiesView.label "Куки і дані сайтів">
+
+<!ENTITY contentBlocking.socialblock.label "Стеження соціальних мереж">
+
+<!ENTITY contentBlocking.cookies2.label "Куки стеження між сайтами">
 
 <!ENTITY contentBlocking.cryptominers.label "Криптомайнери">
 <!ENTITY contentBlocking.cryptominersView.label "Криптомайнери">
