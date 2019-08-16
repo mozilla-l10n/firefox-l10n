@@ -70,6 +70,10 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tz'apïy pitz'b'äl
     .title = Titz'apïx
 
+## Protections panel
+
+cfr-protections-panel-link-text = Tetamäx ch'aqa' chik
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =

@@ -123,3 +123,5 @@ confirm-discard-changes-dialog-confirm-button = Tich'aqïx
 
 breach-alert-text = Xechayüx o xe'eleq'äx ri ewan taq tzij pa re ajk'amaya'l ruxaq re' toq xek'ex ri taq rutzij rutikirib'al molojri'ïl ri ruk'isib'äl q'ij. Tajala' ri ewan atzij richin nachajij ri rub'i' ataqoya'l.
 breach-alert-link = Tawetamaj mas chi rij re tz'ilanem.
+breach-alert-dismiss =
+    .title = Titz'apïx re rutzijol k'ayewal re'
