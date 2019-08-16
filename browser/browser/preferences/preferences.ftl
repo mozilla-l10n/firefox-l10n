@@ -731,6 +731,7 @@ content-blocking-strict-description = Une protection renforcée, mais qui peut e
 content-blocking-custom-desc = Choisissez ce que vous souhaitez bloquer.
 content-blocking-private-trackers = Traqueurs connus dans les fenêtres de navigation privée seulement
 content-blocking-third-party-cookies = Cookies tiers utilisés pour le pistage
+content-blocking-etp-strict-desc = Protection renforcée, mais certains sites ou contenus peuvent ne pas fonctionner correctement.
 content-blocking-all-cookies = Tous les cookies
 content-blocking-unvisited-cookies = Cookies de sites non visités
 content-blocking-all-windows-trackers = Traqueurs connus dans toutes les fenêtres
