@@ -255,6 +255,12 @@ shortcuts-modifier-other = Druk ek op Ctrl of Alt
 shortcuts-invalid = Unjildige kombinaasje
 shortcuts-letter = Typ in letter
 shortcuts-system = Kin gjin besteande { -brand-short-name }-fluchtoets brûke
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Dûbele fluchkeppeling
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } wurdt yn mear as ien gefal as fluchkeppeling brûkt. Dûbele fluckkeppelingen kinne unferwacht gedrach feroarsaakje.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
