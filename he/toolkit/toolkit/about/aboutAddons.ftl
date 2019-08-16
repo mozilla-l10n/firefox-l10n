@@ -249,6 +249,8 @@ shortcuts-modifier-other = יש לכלול Ctrl או Alt
 shortcuts-invalid = שילוב לא חוקי
 shortcuts-letter = נא להקליד אות
 shortcuts-system = לא ניתן לדרוס קיצור דרך של { -brand-short-name }
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = קיצור דרך כפול
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on

@@ -137,6 +137,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "יש לאמת את החשבון שלך לפני שיהיה ניתן לסנכרן.">
 <!ENTITY fxa.unverified.button.label "פתיחת ההגדרות של &syncBrand.shortName.label;…">
 
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -146,14 +147,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.connectAnotherDevice2.label "חיבור מכשיר נוסף…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!ENTITY fxa.menu.signin.label "התחברות אל &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "הפעלת &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "חשבון">
 <!ENTITY fxa.menu.firefoxServices.label "שירותי &brandProductName;">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-<!ENTITY fxa.service.send.launch "פתיחת &sendShortName;">
-<!ENTITY fxa.service.monitor.launch "פתיחת &monitorShortName;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -532,6 +532,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "חיפוש עם:">
+
+<!-- LOCALIZATION NOTE (searchWithDesc.label):
+     This string prompts the user to use the list of one-click search engines in
+     the Urlbar and searchbar. -->
+<!ENTITY searchWithDesc.label         "הפעם, לחפש באמצעות:">
+
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -888,6 +894,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.notBlocking.label "לא בחסימה">
 <!ENTITY protections.notBlocking.why.label "למה?">
 <!ENTITY protections.socialMediaTrackers.label "רכיבי מעקב של מדיה חברתית">
+<!ENTITY protections.crossSiteTrackingCookies.label "עוגיות מעקב חוצות אתרים">
 <!ENTITY protections.trackingContent.label "תוכן מעקב">
 <!ENTITY protections.cryptominers.label "כורי מטבעות דיגיטליים">
 <!ENTITY protections.noTrackersFound.description "לא זוהו רכיבי מעקב המוכרים ל־&brandShortName; בדף זה.">
@@ -948,6 +955,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.socialblock.label "רכיבי מעקב של מדיה חברתית">
 
+<!ENTITY contentBlocking.cookies2.label "עוגיות מעקב חוצות אתרים">
 
 <!ENTITY contentBlocking.cryptominers.label "כורי מטבעות דיגיטליים">
 <!ENTITY contentBlocking.cryptominersView.label "כורי מטבעות דיגיטליים">
@@ -964,6 +972,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.learnMore "מידע נוסף">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "כתובת">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "באילו בעיות נתקלת? (לא חובה)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "אופציונלי: תיאור הבעיה">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "שליחת דוח">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "ביטול">
 

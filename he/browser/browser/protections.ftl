@@ -35,7 +35,11 @@ cryptominer-tab-title = כורי מטבעות דיגיטליים
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } מאחסן באופן מאובטח את הססמאות שלך בדפדפן.
 open-about-logins-button = פתיחה ב־{ -brand-short-name }
+manage-devices = ניהול מכשירים
 monitor-link = איך זה עובד
+auto-scan = נסרק באופן אוטומטי היום
+# This is the title attribute describing the graph report's link to about:settings#privacy
+go-to-privacy-settings = מעבר להגדרות פרטיות
 # This is the title attribute describing the Lockwise card's link to about:logins
 go-to-saved-logins = מעבר לכניסות השמורות
 
@@ -46,3 +50,31 @@ go-to-saved-logins = מעבר לכניסות השמורות
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = רכיבי מעקב של מדיה חברתית
+    .aria-label =
+        { $count ->
+            [one] רכיב מעקב אחד של מדיה חברתית ({ $percentage }%)
+           *[other] { $count } רכיבי מעקב של מדיה חברתית ({ $percentage }%)
+        }
+bar-tooltip-cookie =
+    .title = עוגיות מעקב חוצות אתרים
+    .aria-label =
+        { $count ->
+            [one] עוגיית מעקב חוצת אתרים אחת ({ $percentage }%)
+           *[other] { $count } עוגיות מעקב חוצות אתרים ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = תוכן מעקב
+    .aria-label =
+        { $count ->
+            [one] תוכן מעקב אחד ({ $percentage }%)
+           *[other] 2 תכני מעקב ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = כורי מטבעות דיגיטליים
+    .aria-label =
+        { $count ->
+            [one] כורה מטבעות דיגיטליים אחד ({ $percentage }%)
+           *[other] { $count } כורי מטבעות דיגיטליים ({ $percentage }%)
+        }

@@ -6,6 +6,7 @@
 ### These strings are used inside the Accessibility panel.
 
 accessibility-learn-more = מידע נוסף
+accessibility-text-label-header = תוויות טקסט ושמות
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
