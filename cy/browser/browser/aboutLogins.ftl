@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-logins-page-title = Mewngofnodion a Cyfrineiriau
+about-logins-page-title = Mewngofnodion a Chyfrineiriau
 login-filter =
     .placeholder = Chwilio Mewngofnodion
 create-login-button = Creu Mewngofnod Newydd
