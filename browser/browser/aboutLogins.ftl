@@ -123,3 +123,5 @@ confirm-discard-changes-dialog-confirm-button = Verwerpen
 
 breach-alert-text = Wachtwoorden uit deze website zijn gelekt of gestolen sinds u voor het laatst uw aanmeldgegevens hebt bijgewerkt. Wijzig uw wachtwoord om uw account te beschermen.
 breach-alert-link = Meer info over dit datalek
+breach-alert-dismiss =
+    .title = Deze waarschuwing sluiten
