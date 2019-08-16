@@ -123,3 +123,5 @@ confirm-discard-changes-dialog-confirm-button = Refusar
 
 breach-alert-text = Contrasignos ha essite revelate o robate ab iste sito web desde tu ultime actualisation del detalios de tu accesso. Cambia tu contrasigno pro proteger tu conto.
 breach-alert-link = Saper plus re iste violation.
+breach-alert-dismiss =
+    .title = Clauder iste alerta

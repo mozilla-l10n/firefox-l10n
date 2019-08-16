@@ -59,6 +59,7 @@ lockwise-passwords-stored =
     }
 turn-on-sync = Accende { -sync-brand-short-name }…
     .title = Ir al preferentias de Sync
+manage-devices = Gerer apparatos
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
 lockwise-sync-status =
