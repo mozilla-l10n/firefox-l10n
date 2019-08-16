@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "Generelt">
+
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Dag- og vekevising">
 <!ENTITY pref.calendar.view.multiweekview.caption "Fleirveke-vising">
 <!ENTITY pref.calendar.view.workweek.caption "Arbeidsveke">
@@ -17,6 +18,8 @@
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Vis vekenummer i visingar og minimånad">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "n">
 <!ENTITY pref.daysoff.label "Dagar i arbeidsveka:">
+
+<!ENTITY pref.workweekDays.label "Arbeidsvekedagar:">
 
 <!ENTITY pref.calendar.view.daystart.label "Dagen startar klokka:">
 <!ENTITY pref.calendar.view.daystart.accesskey "D">
