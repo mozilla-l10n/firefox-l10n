@@ -253,6 +253,8 @@ shortcuts-modifier-other = გამოყენებული იყოს Ctr
 shortcuts-invalid = არასწორი შერჩევა
 shortcuts-letter = აკრიფეთ ასონიშანი
 shortcuts-system = ვერ გადაეწერება სწრაფ ღილაკს, რომელსაც { -brand-short-name } იყენებს
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = განმეორებული მალსახმობი
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on

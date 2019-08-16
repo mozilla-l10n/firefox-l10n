@@ -70,6 +70,12 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = დახურვის ღილაკი
     .title = დახურვა
 
+## Protections panel
+
+cfr-protections-panel-header = მოინახულეთ გვერდები მეთვალყურეების გარეშე
+cfr-protections-panel-body = დატოვეთ თქვენი მონაცემები პირადი. { -brand-short-name } აგარიდებთ ცნობილი მეთვალყურეების უმეტესობას, რომლებიც თან დაგყვებათ ინტერნეტში.
+cfr-protections-panel-link-text = ვრცლად
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
