@@ -6,6 +6,8 @@
 
 <!ENTITY accountManagerTitle.label "Configurationes del conto">
 
+<!ENTITY setDefaultButton.label "Stabilir como predeterminate">
+<!ENTITY setDefaultButton.accesskey "P">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
