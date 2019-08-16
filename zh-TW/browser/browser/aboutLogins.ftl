@@ -122,3 +122,5 @@ confirm-discard-changes-dialog-confirm-button = 捨棄
 
 breach-alert-text = 自您上次更新登入資訊以來，此網站發生了密碼外洩或失竊事件。請務必更改密碼，確保帳戶安全。
 breach-alert-link = 了解此事件的更多資訊
+breach-alert-dismiss =
+    .title = 關閉此警報

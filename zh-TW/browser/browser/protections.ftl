@@ -56,6 +56,7 @@ lockwise-passwords-stored =
     }
 turn-on-sync = 開啟 { -sync-brand-short-name }…
     .title = 前往同步偏好設定
+manage-devices = 管理裝置
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
 lockwise-sync-status =
