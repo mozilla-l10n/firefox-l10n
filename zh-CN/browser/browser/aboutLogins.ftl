@@ -122,3 +122,5 @@ confirm-discard-changes-dialog-confirm-button = 丢弃
 
 breach-alert-text = 自您上次更新这份登录信息后，该网站上的密码已遭泄露或窃取。立即更改您的密码以保障账户安全。
 breach-alert-link = 详细了解此事件
+breach-alert-dismiss =
+    .title = 关闭此警报
