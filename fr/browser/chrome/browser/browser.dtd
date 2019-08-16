@@ -810,8 +810,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label2)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Sécurité de la connexion">
 
+<!ENTITY identity.connectionSecure2 "Connexion sécurisée">
 <!ENTITY identity.connectionNotSecure "Connexion non sécurisée">
+<!ENTITY identity.connectionNotSecureSecurityView "Votre connexion à ce site n’est pas sécurisée.">
 <!ENTITY identity.connectionFile "Cette page est stockée sur votre ordinateur.">
 <!ENTITY identity.connectionVerified2 "Votre connexion à ce site est sécurisée. Son détenteur est :">
 <!ENTITY identity.connectionInternal "Cette page de &brandShortName; est sécurisée.">
@@ -855,6 +858,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Permissions">
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "Liste de permissions">
 <!ENTITY identity.permissionsEmpty "Vous n’avez pas accordé de permission particulière à ce site.">
 <!ENTITY identity.permissionsReloadHint "Vous devrez peut-être actualiser la page pour que les changements prennent effet.">
 <!ENTITY identity.permissionsPreferences.tooltip "Ouvrir les préférences des permissions">
