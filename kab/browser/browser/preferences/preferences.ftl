@@ -737,6 +737,7 @@ content-blocking-fingerprinters = Idsilen umḍinen
 content-blocking-warning-title = Aqeṛṛu d afella!
 content-blocking-warning-description = Asewḥel n ugbru yezmer ur yettaǧǧa ara kra n yismal ad ddun akken iwata. Tzemreḍ s wudem fessusen ad tsenseḍ asewḥel i yismal i tettamned.
 content-blocking-learn-how = Issin amek
+content-blocking-warning-learn-how = Issin amek
 content-blocking-reload-description = Yessefk ad talseḍ asali n yiccaren-ik akken ad ddun ibeddilen-a.
 content-blocking-reload-tabs-button =
     .label = Smiren akk accaren
