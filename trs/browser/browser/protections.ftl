@@ -34,6 +34,7 @@ graph-today = Gui hìaj
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Riña grafikâ nan 'na' daran' nej sa naga'naj narán riña da'hua ngè semanâ nan.
 social-tab-title = Nej sa naga'naj riña nej rêd sociâl
+social-tab-contant = Da' gini'in nej rêd sosiâl nej sa 'iát ni sa ni'iajt riña lînia ni a'nïn sa naga'naj sò' riña a'nô da'aj nej sîtio. Huê na rugûñun'un da' gini'in nej dukua si sun nej rêd sosiâl nùj huin si hua doj 'iát nga aché nunt. <a data-l10n-name="learn-more-link">Gahuin chrun doj</a>
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
