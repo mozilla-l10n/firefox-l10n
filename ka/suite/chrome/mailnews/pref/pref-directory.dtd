@@ -10,8 +10,8 @@
 <!ENTITY directoriesText.label     "LDAP საქაღალდის სერვერის არჩევა:">
 <!ENTITY directoriesText.accesskey "S">
 <!ENTITY addDirectory.label        "დამატება">
-<!ENTITY addDirectory.accesskey    "a">
+<!ENTITY addDirectory.accesskey    "დ">
 <!ENTITY editDirectory.label       "ჩასწორება">
-<!ENTITY editDirectory.accesskey   "e">
+<!ENTITY editDirectory.accesskey   "ჩ">
 <!ENTITY deleteDirectory.label     "წაშლა">
-<!ENTITY deleteDirectory.accesskey "d">
+<!ENTITY deleteDirectory.accesskey "წ">

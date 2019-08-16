@@ -6,26 +6,25 @@
 <!ENTITY selectAddressWindow.title           "მისამართების შერჩევა">
 
 <!-- Buttons -->
-<!ENTITY toButton.label                      "ვის->"> 
-<!ENTITY toButton.accesskey                  "T"> 
-<!ENTITY ccButton.label                      "ასლი->"> 
-<!ENTITY ccButton.accesskey                  "C"> 
-<!ENTITY bccButton.label                     "მეორე ასლი->">  
-<!ENTITY bccButton.accesskey                 "B">  
-<!ENTITY newButton.label                     "ახალი…"> 
-<!ENTITY newButton.accesskey                 "N"> 
-<!ENTITY editButton.label                    "ჩასწორება…"> 
-<!ENTITY editButton.accesskey                "E">
-<!ENTITY removeButton.label                  "მოცილება"> 
-<!ENTITY removeButton.accesskey              "R"> 
-<!ENTITY lookIn.label                        "ძებნა:"> 
-<!ENTITY lookIn.accesskey                    "L"> 
-<!ENTITY for.label                           "ტექსტი:"> 
-<!ENTITY for.accesskey                       "f"> 
+<!ENTITY toButton.label                      "ვის->">
+<!ENTITY toButton.accesskey                  "ვ">
+<!ENTITY ccButton.label                      "ასლი->">
+<!ENTITY ccButton.accesskey                  "ს">
+<!ENTITY bccButton.label                     "დაფარული ასლი->">
+<!ENTITY bccButton.accesskey                 "ფ">
+<!ENTITY newButton.label                     "ახალი…">
+<!ENTITY newButton.accesskey                 "ა">
+<!ENTITY editButton.label                    "ჩასწორება…">
+<!ENTITY editButton.accesskey                "ჩ">
+<!ENTITY removeButton.label                  "მოცილება">
+<!ENTITY removeButton.accesskey              "მ">
+<!ENTITY lookIn.label                        "ძებნა:">
+<!ENTITY lookIn.accesskey                    "ძ">
+<!ENTITY for.label                           "ტექსტი:">
+<!ENTITY for.accesskey                       "ტ">
 <!ENTITY for.placeholder                     "სახელი ან ელფოსტა">
-<!ENTITY addressMessageTo.label              "წერილის მისამართი:"> 
+<!ENTITY addressMessageTo.label              "წერილის მისამართი:">
 
 <!-- Tooltips items -->
-<!ENTITY addressPickerNewButton.tooltip      "წიგნაკის ახალი ბარათის შექმნა"> 
-<!ENTITY addressPickerEditButton.tooltip     "მონიშნული ბარათის ჩასწორება"> 
-
+<!ENTITY addressPickerNewButton.tooltip      "წიგნაკის ახალი ბარათის შექმნა">
+<!ENTITY addressPickerEditButton.tooltip     "მონიშნული ბარათის ჩასწორება">

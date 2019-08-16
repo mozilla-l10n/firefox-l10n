@@ -105,10 +105,10 @@
 <!ENTITY mediaPause.label             "შეჩერება">
 <!ENTITY mediaPause.accesskey         "შ">
 <!ENTITY mediaMute.label              "დადუმება">
-<!ENTITY mediaMute.accesskey          "დ">
+<!ENTITY mediaMute.accesskey          "უ">
 <!ENTITY mediaUnmute.label            "ხმის ჩართვა">
 <!ENTITY mediaUnmute.accesskey        "ხ">
-<!ENTITY mediaPlaybackRate.label        "დაკრის სიჩქარე">
+<!ENTITY mediaPlaybackRate.label        "დაკვრის სიჩქარე">
 <!ENTITY mediaPlaybackRate.accesskey    "ჩ">
 <!ENTITY mediaPlaybackRate050.label     "შენელებული (½×)">
 <!ENTITY mediaPlaybackRate050.accesskey "შ">
