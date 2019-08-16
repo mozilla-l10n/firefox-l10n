@@ -12,6 +12,8 @@
 <!-- Toolbar-only items -->
 
 <!-- File menu items -->
+<!ENTITY exportToTextCmd.label "Exportation como texto…">
+<!ENTITY exportToTextCmd.accesskey "x">
 <!ENTITY sendPageCmd.label "Inviar pagina…">
 <!ENTITY sendPageCmd.accesskey "v">
 
@@ -26,6 +28,8 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formato">
 <!ENTITY formatMenu.accesskey "o">
+<!ENTITY pageProperties.label "Titulo e proprietates del pagina…">
+<!ENTITY pageProperties.accesskey "g">
 
 <!-- Tools menu items -->
 <!ENTITY validateCmd.label "Validar HTML">

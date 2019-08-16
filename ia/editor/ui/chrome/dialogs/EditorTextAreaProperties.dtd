@@ -4,6 +4,18 @@
 
 
 
+<!ENTITY TextAreaRows.label "Rigas:">
+<!ENTITY TextAreaRows.accessKey "R">
+<!ENTITY TextAreaCols.label "Columnas:">
+<!ENTITY TextAreaCols.accessKey "C">
+<!ENTITY TextAreaReadOnly.label "Lectura solmente">
+<!ENTITY TextAreaReadOnly.accessKey "S">
+<!ENTITY TextAreaDisabled.label "Disactivate">
+<!ENTITY TextAreaDisabled.accessKey "D">
+<!ENTITY TextAreaTabIndex.label "Indice tubulation:">
+<!ENTITY TextAreaTabIndex.accessKey "I">
+<!ENTITY TextAreaAccessKey.label "Clave de accesso:">
+<!ENTITY TextAreaAccessKey.accessKey "C">
 
 <!ENTITY WrapOff.value "Inactive">
 <!ENTITY WrapHard.value "Dur">

@@ -5,20 +5,29 @@
 
 <!ENTITY name.label                      "Tu nomine:">
 <!ENTITY name.accesskey                  "n">
+<!ENTITY fullname.placeholder            "Tu nomine integre">
 <!ENTITY email.label                     "Adresse email:">
 <!ENTITY email.accesskey                 "e">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "you@example.com">
+<!ENTITY email3.placeholder              "Tu adresse email">
+<!ENTITY email.text                      "Tu adresse email existente">
+<!ENTITY email.error                     "Adresse email non valide">
 <!ENTITY password.label                  "Contrasigno:">
 <!ENTITY password.accesskey              "C">
 <!ENTITY password.placeholder            "Contrasigno">
 <!ENTITY rememberPassword.label          "Rememorar le contrasigno">
 <!ENTITY rememberPassword.accesskey      "m">
+<!ENTITY usernameEx.label                "Tu credential:">
+<!ENTITY usernameEx.accesskey            "c">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
+<!ENTITY usernameEx.text                 "Accesso al dominio">
 
 <!ENTITY protocol.label                  "Protocollo:">
 
+<!ENTITY incoming.label                  "In entrata:">
+<!ENTITY incomingColumn.label            "In entrata">
 <!ENTITY outgoing.label                  "In exito:">
 <!ENTITY outgoingColumn.label            "In exito">
 <!ENTITY username.label                  "Nomine del usator:">
@@ -32,10 +41,15 @@
 <!ENTITY pop3.label                      "POP3">
 <!-- LOCALIZATION NOTE(exchange.label): Do not translate Exchange, it is a product name. -->
 <!ENTITY smtp.label                      "SMTP">
+<!ENTITY autodetect.label                "Detectar automaticamente">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
      Transmission of emails in cleartext over the Internet. -->
+<!ENTITY noEncryption.label              "Nulle">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
 
 <!-- LOCALIZATION NOTE(exchange-hostname.label): Do not translate Exchange, it is a product name. -->
+<!ENTITY exchange-hostname.label         "Servitor Exchange:">
 
 <!ENTITY cancel.label                    "Cancellar">
 <!ENTITY cancel.accesskey                "a">
@@ -49,6 +63,8 @@
      the user has manually changed. -->
 
 
+<!ENTITY get-help.label                  "Obtener auxilio">
+<!ENTITY get-help.accesskey              "A">
 
 
 <!ENTITY warning.label                   "Advertentia!">

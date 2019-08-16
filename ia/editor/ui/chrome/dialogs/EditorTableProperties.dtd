@@ -35,7 +35,9 @@
 <!ENTITY cellHeader.label                 "Titulo">
 <!ENTITY cellWrap.label                   "Circuir">
 <!ENTITY cellAlignTop.label               "Apice">
+<!ENTITY cellAlignMiddle.label            "Medie">
 <!ENTITY cellAlignBottom.label            "Basso">
+<!ENTITY cellAlignJustify.label           "Justificar">
 
 <!-- Used in both Table and Cell panels  -->
 <!ENTITY size.label                       "Dimension">
