@@ -2,8 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = సిఫార్సు చేయబడిన పొడగింత
 cfr-doorhanger-pintab-heading = ఇది ప్రయత్నించండి: ట్యాబును పిన్ చెయ్యడం
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ఇది నేను ఎందుకు చూస్తున్నాను
 cfr-doorhanger-extension-cancel-button = ఇప్పుడు వద్దు
@@ -53,3 +59,23 @@ cfr-doorhanger-pintab-animation-resume = కొనసాగించు
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = మూసివేయు బొత్తం
     .title = మూసివేయి
+
+## Protections panel
+
+cfr-protections-panel-link-text = ఇంకా తెలుసుకోండి
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = కొత్తవి ఏమిటి
+    .tooltiptext = కొత్తవి ఏమిటి
+cfr-whatsnew-panel-header = కొత్తవి ఏమిటి
+
+## Bookmark Sync
+
+
+## Send Tab
+
+
+## Firefox Send
+
