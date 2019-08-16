@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Skriv ut">
 <!ENTITY printButton.tooltip          "Skriv ut denne siden">
 
-<!ENTITY urlbar.viewSiteInfo.label                      "Vis sideinformasjon">
+<!ENTITY urlbar.viewSiteInfo.label                      "Vis nettstedsinformasjon">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Åpne meldingspanel">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Åpne panel for stedsforespørsel">

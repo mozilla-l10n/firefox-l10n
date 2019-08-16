@@ -566,7 +566,7 @@ sync-engine-prefs =
             [windows] Innstillinger
            *[other] Innstillinger
         }
-    .tooltiptext = Generelle, personvern og sikkerhetsinnstillinger du har endret
+    .tooltiptext = Generelle, personvern- og sikkerhetsinnstillinger du har endret
     .accesskey = I
 sync-device-name-header = Enhetsnavn
 sync-device-name-change =
