@@ -36,7 +36,7 @@ graph-legend-description = Um gráfico contendo o número total de cada tipo de 
 social-tab-title = Rastreadores de mídias sociais
 social-tab-contant = Redes sociais colocam rastreadores em outros sites para seguir o que você faz, vê e assiste online. Isto permite que empresas de mídias sociais saibam mais sobre você, muito além do que você compartilha em seus perfis de mídias sociais. <a data-l10n-name="learn-more-link">Saiba mais</a>
 cookie-tab-title = Cookies de rastreamento entre sites
-cookie-tab-content = Esses cookies seguem você de um site para outro para coletar dados sobre o que você faz online. Eles são criados por terceiros como anunciantes e empresas de análises. Bloquear cookies de rastreamento entre sites reduz o número de anúncios que seguem você por todo canto. <a data-l10n-name="learn-more-link">Saiba mais</a>
+cookie-tab-content = Esses cookies seguem você de um site para outro para coletar dados sobre o que você faz online. Eles são criados por terceiros, como anunciantes e empresas de análises. Bloquear cookies de rastreamento entre sites reduz o número de anúncios que seguem você por todo canto. <a data-l10n-name="learn-more-link">Saiba mais</a>
 tracker-tab-title = Conteúdo de rastreamento
 tracker-tab-content = Sites podem carregar anúncios, vídeos e outros conteúdos externos que contêm código de rastreamento. Bloquear conteúdo de rastreamento pode ajudar a agilizar o carregamento de sites, mas alguns botões, formulários e campos de acesso a contas podem não funcionar. <a data-l10n-name="learn-more-link">Saiba mais</a>
 fingerprinter-tab-title = Fingerprinters
