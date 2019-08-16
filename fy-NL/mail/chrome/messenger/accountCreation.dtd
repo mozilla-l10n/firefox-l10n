@@ -3,22 +3,29 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "In besteand account ynstelle">
+
+<!ENTITY emailWizard.title               "Jo besteande e-mailadres ynstelle">
+<!ENTITY emailWizard.caption             "Jo besteande e-mailadres brûke">
 <!ENTITY name.label                      "Jo namme">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "Foarnamme Efternamme">
+<!ENTITY fullname.placeholder            "Jo folsleine namme">
 <!ENTITY name.text                       "Jo namme, as toant oan oaren">
+<!ENTITY name.error                      "Fier jo namme yn">
 <!ENTITY email.label                     "E-mailadres:">
 <!ENTITY email.accesskey                 "l">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "you@example.com">
+<!ENTITY email3.placeholder              "Jo e-mailadres">
 <!ENTITY email.text                      "Jo besteande e-mailadres">
+<!ENTITY email.error                     "Unjildich e-mailadres">
 <!ENTITY password.label                  "Wachtwurd:">
 <!ENTITY password.accesskey              "W">
 <!ENTITY password.placeholder            "Wachtwurd">
 <!ENTITY password.text                   "Opsjoneel, sil allinnich brûkt wurde om de brûkersnamme te falidearjen">
+<!ENTITY password.toggle                 "Wachtwurd toane/ferstopje">
 <!ENTITY rememberPassword.label          "Wachtwurd ûnthâlde">
 <!ENTITY rememberPassword.accesskey      "u">
-
 <!ENTITY usernameEx.label                "Jo oanmelding:">
 <!ENTITY usernameEx.accesskey            "o">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
@@ -26,15 +33,21 @@
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 <!ENTITY usernameEx.text                 "Domeinoanmelding">
 
+<!ENTITY protocol.label                  "Protokol:">
 <!ENTITY imapLong.label                  "IMAP (mappen op in oare kompjûter)">
 <!ENTITY pop3Long.label                  "POP3 (e-mail op jo kompjûter bewarje)">
 
 <!ENTITY incoming.label                  "Ynkommend:">
+<!ENTITY incomingColumn.label            "Ynkommend">
 <!ENTITY outgoing.label                  "Utgeand:">
+<!ENTITY outgoingColumn.label            "Utgeand">
 <!ENTITY username.label                  "Brûkersnamme:">
 <!ENTITY hostname.label                  "Serverhostnamme">
 <!ENTITY port.label                      "Poarte">
 <!ENTITY ssl.label                       "SSL">
+<!ENTITY serverRow.label                 "Server:">
+<!ENTITY portRow.label                   "Poarte:">
+<!ENTITY sslRow.label                    "SSL:">
 <!ENTITY auth.label                      "Autentikaasje">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
@@ -60,15 +73,21 @@
 <!ENTITY stop.label                      "Stop">
 <!ENTITY stop.accesskey                  "S">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Opnij teste">
 <!ENTITY half-manual-test.accesskey      "t">
 <!ENTITY manual-edit.label               "Hânmjittich ynstelle">
 <!ENTITY manual-edit.accesskey           "H">
+<!ENTITY manual-config.label             "Hânmjittich konfigurearje…">
+<!ENTITY manual-config.accesskey         "H">
 <!ENTITY open-provisioner.label          "Krij in nij e-mailadres…">
 <!ENTITY open-provisioner.accesskey      "k">
+
+
+<!ENTITY get-help.label                  "Help krije">
+<!ENTITY get-help.accesskey              "H">
 
 
 <!ENTITY warning.label                   "Warskôging!">
