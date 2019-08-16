@@ -68,16 +68,16 @@
 
 <!ENTITY calendar.nextday.label                 "შემდეგი დღე" >
 <!ENTITY calendar.prevday.label                 "წინა დღე" >
-<!ENTITY calendar.nextday.accesskey             "x" >
-<!ENTITY calendar.prevday.accesskey             "s" >
+<!ENTITY calendar.nextday.accesskey             "შ" >
+<!ENTITY calendar.prevday.accesskey             "წ" >
 <!ENTITY calendar.nextweek.label                "შემდეგი კვირა" >
 <!ENTITY calendar.prevweek.label                "წინა კვირა" >
-<!ENTITY calendar.nextweek.accesskey            "x" >
-<!ENTITY calendar.prevweek.accesskey            "s" >
+<!ENTITY calendar.nextweek.accesskey            "შ" >
+<!ENTITY calendar.prevweek.accesskey            "წ" >
 <!ENTITY calendar.nextmonth.label               "შემდეგი თვე" >
 <!ENTITY calendar.prevmonth.label               "წინა თვე" >
-<!ENTITY calendar.nextmonth.accesskey           "x" >
-<!ENTITY calendar.prevmonth.accesskey           "s" >
+<!ENTITY calendar.nextmonth.accesskey           "შ" >
+<!ENTITY calendar.prevmonth.accesskey           "წ" >
 
 <!ENTITY calendar.navigation.nextday.tooltip    "ერთი დღით შემდგომ" >
 <!ENTITY calendar.navigation.prevday.tooltip    "ერთი დღით წინ" >
@@ -173,7 +173,7 @@
 <!ENTITY calendar.context.copyevent.accesskey         "ლ">
 <!ENTITY calendar.context.pasteevent.label            "ჩასმა">
 <!ENTITY calendar.context.pasteevent.accesskey        "ჩ">
-<!ENTITY calendar.context.button.label                "დღევანდელის სტენდი">
+<!ENTITY calendar.context.button.label                "დღევანდელის დღის არე">
 <!ENTITY calendar.context.button.accesskey            "ღ">
 
 <!ENTITY calendar.context.attendance.menu.label                 "დამსწრეები">
@@ -391,7 +391,7 @@
 <!ENTITY calendar.print.events.label "ღონისძიებები">
 <!ENTITY calendar.print.custom.label "მონაცემთა საკუთარი რანგი:">
 <!ENTITY calendar.print.from.label "დაწყ.:">
-<!ENTITY calendar.print.to.label "-:">
+<!ENTITY calendar.print.to.label "ვის:">
 <!ENTITY calendar.print.settingsGroup.label "ბეჭდვის პარამეტრები">
 <!ENTITY calendar.print.optionsGroup.label "პარამეტრები">
 <!ENTITY calendar.print.taskswithnoduedate.label "უვადო დავალებები">
