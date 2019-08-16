@@ -74,6 +74,12 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Przycisk zamknięcia
     .title = Zamknij
 
+## Protections panel
+
+cfr-protections-panel-header = Przeglądaj bez wścibskich oczu
+cfr-protections-panel-body = Zachowaj prywatność swoich danych. { -brand-short-name } chroni Cię przed wieloma najpopularniejszymi elementami śledzącymi, które monitorują, co robisz w Internecie.
+cfr-protections-panel-link-text = Więcej informacji
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
