@@ -11,12 +11,12 @@
 
 <!ENTITY pref.dateformat.label "თარიღის ტექსტური ფორმატი:" >
 <!ENTITY pref.dateformat.accesskey "თ">
-<!ENTITY pref.dateformat.long "გრძელი" >
+<!ENTITY pref.dateformat.long "სრული" >
 <!ENTITY pref.dateformat.short "მოკლე"  >
 
 <!ENTITY pref.timezones.caption "დროის სარტყელი">
 <!ENTITY pref.timezones.label "უახლოესი ქალაქი თქვენს დროის სარტყელში:">
-<!ENTITY pref.timezones.accesskey "ქ">
+<!ENTITY pref.timezones.accesskey "ს">
 
 <!ENTITY pref.defaults.label "ახალი ელემენტების ნაგულისხმევი მნიშვნელობები">
 <!ENTITY pref.events.label "ღონისძიებები">
