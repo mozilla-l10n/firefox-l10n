@@ -9,9 +9,9 @@
 <!ENTITY itemCertificates.label  "სერტიფიკატები">
 
 <!-- General Settings -->
-<!ENTITY enableGlodaSearch.label       "გლობალური ძიებისა და გზავნილთა ინდექსაციის ჩართვა">
-<!ENTITY enableGlodaSearch.accesskey   "E">
-<!ENTITY dateTimeFormatting.label      "რიცხვისა და დროის გაფორმება">
+<!ENTITY enableGlodaSearch.label       "ერთიანი ძიებისა და გზავნილთა აღრიცხვის ჩართვა">
+<!ENTITY enableGlodaSearch.accesskey   "ე">
+<!ENTITY dateTimeFormatting.label      "თარიღისა და დროის გაფორმება">
 <!ENTITY languageSelector.label        "ენა">
 <!ENTITY allowHWAccel.label            "ხელმისაწვდომობის შემთხვევაში აპარატული აჩქარების გამოყენება">
 <!ENTITY allowHWAccel.accesskey        "პ">
@@ -27,15 +27,15 @@
 <!ENTITY useSmoothScrolling.accesskey  "გ">
 
 <!ENTITY systemIntegration.label       "სისტემური ინტეგრაცია">
-<!ENTITY alwaysCheckDefault.label      "გახსნისას &brandShortName; პროგრამის ყოველთვის შემოწმება ნაგულისხმებ საფოსტო პროგრამად">
-<!ENTITY alwaysCheckDefault.accesskey  "A">
-<!ENTITY searchIntegration.label       "&searchIntegration.engineName; სისტემისთვის წერილებში ძიების ნებართვა">
-<!ENTITY searchIntegration.accesskey   "S">
+<!ENTITY alwaysCheckDefault.label      "ყოველთვის შემოწმდეს გაშვებისას, არის თუ არა &brandShortName; ელფოსტის ნაგულისხმევი პროგრამა">
+<!ENTITY alwaysCheckDefault.accesskey  "ყ">
+<!ENTITY searchIntegration.label       "ნებართვა, რომ &searchIntegration.engineName; შეძლებს წერილებში ძიებას">
+<!ENTITY searchIntegration.accesskey   "ნ">
 <!ENTITY checkDefaultsNow.label        "შემოწმება ახლავე…">
-<!ENTITY checkDefaultsNow.accesskey    "N">
-<!ENTITY configEditDesc.label          "დეტალური გამართვა">
-<!ENTITY configEdit.label              "გამართვის რედაქტორი…">
-<!ENTITY configEdit.accesskey          "C">
+<!ENTITY checkDefaultsNow.accesskey    "ხ">
+<!ENTITY configEditDesc.label          "დამატებითი გამართვა">
+<!ENTITY configEdit.label              "პარამეტრების ჩამსწორებელი…">
+<!ENTITY configEdit.accesskey          "ჩ">
 <!ENTITY returnReceiptsInfo.label      "როგორ მოეპყრას &brandShortName; მიღების დასტურებს">
 <!ENTITY showReturnReceipts.label      "მიღების დასტურები…">
 <!ENTITY showReturnReceipts.accesskey  "რ">
@@ -82,18 +82,18 @@
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "პარამეტრები…">
-<!ENTITY showSettings.accesskey        "S">
+<!ENTITY showSettings.accesskey        "პ">
 <!ENTITY proxiesConfigure.label        "როგორ დაუკავშირდეს &brandShortName; პროგრამა ინტერნეტს.">
 <!ENTITY connectionsInfo.caption       "კავშირი">
 <!ENTITY offlineInfo.caption           "კავშირგარეშე">
 <!ENTITY offlineInfo.label             "კავშირგარეშე რეჟიმის პარამეტრები">
 <!ENTITY showOffline.label             "კავშირგარეშე…">
-<!ENTITY showOffline.accesskey         "O">
+<!ENTITY showOffline.accesskey         "გ">
 
 <!ENTITY Diskspace                       "ადგილი დისკზე">
 <!ENTITY offlineCompactFolders.label     "ყველა საქაღალდის შეკუმშვა, თუ მეტ სივრცეს გამოათავისუფლებს">
-<!ENTITY offlineCompactFolders.accesskey "a">
-<!ENTITY offlineCompactFoldersMB.label   "მბ მაინც">
+<!ENTITY offlineCompactFolders.accesskey "ტ">
+<!ENTITY offlineCompactFoldersMB.label   "მბაიტი ჯამში">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -102,26 +102,26 @@
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
 <!ENTITY useCacheBefore.label            "გამოყენება, მანამ">
-<!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheAfter.label             "მბ ბუფერისთვის">
+<!ENTITY useCacheBefore.accesskey        "ყ">
+<!ENTITY useCacheAfter.label             "მბაიტი ბუფერისთვის">
 <!ENTITY overrideSmartCacheSize.label    "კეშის ზომის თვითგანსაზღვრის უგულებელყოფა">
 <!ENTITY overrideSmartCacheSize.accesskey "ვ">
 <!ENTITY clearCacheNow.label             "გასუფთავება">
-<!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY clearCacheNow.accesskey         "ფ">
 
 <!-- Certificates -->
 <!ENTITY certSelection.description       "როცა სერვერი ჩემს პირად სერტიფიკატს ითხოვს:">
-<!ENTITY certs.auto                      "ავტომატური შერჩევა">
-<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.auto                      "თვითშერჩევა">
+<!ENTITY certs.auto.accesskey            "თ">
 <!ENTITY certs.ask                       "შეკითხვა ყოველ ჯერზე">
-<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY certs.ask.accesskey             "ყ">
 <!ENTITY enableOCSP.label                "OCSP სერვერებისთვის სერტიფიკატების მიმდინარე მდგომარეობის კითხვა">
 <!ENTITY enableOCSP.accesskey            "ს">
 
 <!ENTITY manageCertificates.label "სერტიფიკატების მართვა">
 <!ENTITY manageCertificates.accesskey "მ">
 <!ENTITY viewSecurityDevices.label "უსაფრთხოების მოწყობილობები">
-<!ENTITY viewSecurityDevices.accesskey "S">
+<!ENTITY viewSecurityDevices.accesskey "უ">
 
 <!ENTITY manageCertificates2.label "სერტიფიკატების მართვა…">
 <!ENTITY manageCertificates2.accesskey "ტ">
