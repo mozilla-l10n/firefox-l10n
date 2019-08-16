@@ -2,8 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Asiɣzef yelhan
 cfr-doorhanger-pintab-heading = Ɛreḍ aya: senṭeḍ iccer
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Acuɣer i d-yettban waya
 cfr-doorhanger-extension-cancel-button = Mačči tura
@@ -63,9 +69,22 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Taqeffalt n umdal
     .title = Amdal
 
+## Protections panel
+
+cfr-protections-panel-link-text = Issin ugar
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
     .label = Amaynut
     .tooltiptext = Amaynut
 cfr-whatsnew-panel-header = Amaynut
+
+## Bookmark Sync
+
+
+## Send Tab
+
+
+## Firefox Send
+

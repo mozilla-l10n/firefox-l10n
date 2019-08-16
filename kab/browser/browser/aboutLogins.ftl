@@ -39,6 +39,7 @@ login-list-item-subtitle-missing-username = (ulas isem n useqdac)
 
 ## Login
 
+login-item-new-login-title = Rnu anekcum amaynut
 login-item-edit-button = Ẓreg
 login-item-delete-button = Kkes
 login-item-origin-label = Tansa n usmel web
