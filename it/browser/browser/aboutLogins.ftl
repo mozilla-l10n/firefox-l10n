@@ -126,3 +126,5 @@ confirm-discard-changes-dialog-confirm-button = Ignora
 
 breach-alert-text = Dall’ultima volta in cui hai aggiornato questa credenziale, le password di questo sito web sono state rubate o diffuse pubblicamente. Modifica la tua password per proteggere questo account.
 breach-alert-link = Ulteriori informazioni su questa violazione.
+breach-alert-dismiss =
+    .title = Chiudi questo avviso
