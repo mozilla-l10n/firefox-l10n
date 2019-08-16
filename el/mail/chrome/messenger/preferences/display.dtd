@@ -49,6 +49,7 @@
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Ανάγνωση">
 <!ENTITY display.caption                  "Προβολή">
+<!ENTITY displayName.label                "Εμφανιζόμενο όνομα:">
 <!ENTITY showCondensedAddresses.label     "Εμφάνιση μόνο του ονόματος εμφάνισης για τα άτομα στο ευρετήριο διευθύνσεών μου">
 <!ENTITY showCondensedAddresses.accesskey "ε">
 

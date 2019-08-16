@@ -19,6 +19,7 @@
 <!ENTITY paneAttachments.title    "Συνημμένα">
 <!ENTITY panePrivacy.title        "Απόρρητο">
 <!ENTITY paneSecurity.title       "Ασφάλεια">
+<!ENTITY panePrivacySecurity.title "Απόρρητο &amp; Ασφάλεια">
 <!ENTITY paneLightning.title      "Ημερολόγιο">
 <!ENTITY paneAdvanced.title       "Για προχωρημένους">
 <!ENTITY paneAccount.title        "Λογαριασμοί">

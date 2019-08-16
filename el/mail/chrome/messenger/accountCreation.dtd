@@ -4,6 +4,8 @@
 
 <!ENTITY autoconfigWizard2.title         "Ρύθμιση υπάρχοντος λογαριασμού e-mail">
 
+<!ENTITY emailWizard.title               "Ρύθμιση της υπάρχουσας διεύθυνσης e-mail">
+<!ENTITY emailWizard.caption             "Χρήση της τρέχουσας διεύθυνσης email">
 <!ENTITY name.label                      "Το όνομά σας:">
 <!ENTITY name.accesskey                  "ν">
 <!ENTITY name.placeholder                "Όνομα Επίθετο">
@@ -78,6 +80,8 @@
 <!ENTITY half-manual-test.accesskey      "ξ">
 <!ENTITY manual-edit.label               "Χειροκίνητη ρύθμιση">
 <!ENTITY manual-edit.accesskey           "ρ">
+<!ENTITY manual-config.label             "Ρύθμιση με χειροκίνητο τρόπο…">
+<!ENTITY manual-config.accesskey         "M">
 <!ENTITY open-provisioner.label          "Απόκτηση νέας διεύθυνσης e-mail…">
 <!ENTITY open-provisioner.accesskey      "α">
 
