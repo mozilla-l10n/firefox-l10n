@@ -137,14 +137,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Pred začatím synchronizácie musíte overiť svoj účet.">
 <!ENTITY fxa.unverified.button.label "Nastavenia služby &syncBrand.shortName.label;…">
 
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Prihlásený ako">
 <!ENTITY fxa.menu.manageAccount.label "Správa účtu…">
 <!ENTITY fxa.menu.syncSettings.label "Nastavenie synchronizácie…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Pripojiť ďalšie zariadenie…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -188,6 +193,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "Pridať všetky karty medzi záložky…">
+
 <!ENTITY showAllBookmarks2.label "Zobraziť všetky záložky">
 <!ENTITY recentBookmarks.label "Nedávno pridané medzi záložky">
 <!ENTITY otherBookmarksCmd.label "Ostatné záložky">
@@ -310,6 +316,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Súbor">
 <!ENTITY fileMenu.accesskey       "S">
+
 <!ENTITY newUserContext.label             "Nová kontajnerová karta">
 <!ENTITY newUserContext.accesskey         "k">
 <!ENTITY manageUserContext.label          "Správa kontajnerov">
@@ -317,7 +324,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Nové okno">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "o">
-<!ENTITY newPrivateWindow.label     "Nové okno v režime Súkromné prehliadanie">
+<!ENTITY newPrivateWindow.label     "Nové súkromné okno">
 <!ENTITY newPrivateWindow.accesskey "k">
 
 <!ENTITY editMenu.label         "Upraviť">
@@ -359,6 +366,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "P">
 <!ENTITY viewSidebarMenu.label "Bočný panel">
 <!ENTITY viewSidebarMenu.accesskey "B">
+
 <!ENTITY viewCustomizeToolbar.label       "Prispôsobiť…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
 <!ENTITY overflowCustomizeToolbar.label       "Upraviť panel nástrojov…">
@@ -372,6 +380,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Obnoviť predchádzajúcu reláciu">
 
 <!ENTITY showAllHistoryCmd2.label "Zobraziť celú históriu">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Zobraziť celú históriu">
@@ -519,6 +528,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Vyhľadávať pomocou:">
+
+<!-- LOCALIZATION NOTE (searchWithDesc.label):
+     This string prompts the user to use the list of one-click search engines in
+     the Urlbar and searchbar. -->
+
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -534,7 +548,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "O">
 <!ENTITY openLinkCmd.label            "Otvoriť odkaz v novom okne">
 <!ENTITY openLinkCmd.accesskey        "t">
-<!ENTITY openLinkInPrivateWindowCmd.label "Otvoriť odkaz v okne režimu Súkromné prehliadanie">
+<!ENTITY openLinkInPrivateWindowCmd.label "Otvoriť odkaz v novom súkromnom okne">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "h">
 <!ENTITY openLinkCmdInCurrent.label     "Otvoriť odkaz">
 <!ENTITY openLinkCmdInCurrent.accesskey "d">
@@ -592,9 +606,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Odoslať odkaz…">
 <!ENTITY emailPageCmd.accesskey       "l">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Uložiť stránku ako…">
 <!ENTITY savePageCmd.accesskey        "r">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "U">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Uložiť rámec ako…">
@@ -699,22 +713,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Priblížiť">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "P">
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Vzdialiť">
 <!ENTITY fullZoomReduceCmd.accesskey    "V">
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Obnoviť">
 <!ENTITY fullZoomResetCmd.accesskey     "O">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Meniť iba veľkosť textu">
 <!ENTITY fullZoomToggleCmd.accesskey    "M">
+
 <!ENTITY fullZoom.label                 "Lupa">
 <!ENTITY fullZoom.accesskey             "L">
 
@@ -732,6 +750,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Zavrieť">
+
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "Z">
 
@@ -785,6 +804,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Pripojenie">
 <!ENTITY identity.connectionSecure "Zabezpečené pripojenie">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+
 <!ENTITY identity.connectionNotSecure "Pripojenie nie je zabezpečené">
 <!ENTITY identity.connectionFile "Táto stránka je uložená vo vašom počítači.">
 <!ENTITY identity.connectionVerified2 "Pripojenie k tejto stránke je zabezpečené. Spravuje ju:">
@@ -792,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Táto stránka je načítaná z doplnku.">
 <!ENTITY identity.insecureLoginForms2 "Prihlasovacie údaje zadané na tejto stránke by mohli byť ohrozené.">
 <!ENTITY identity.customRoot "Pripojenie je overené vydavateľom certifikátov, ktorého Mozilla nepozná.">
+
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; zablokoval nezabezpečené časti tejto stránky.">
@@ -826,12 +850,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Vymazať cookies a údaje stránok…">
 
 <!ENTITY identity.permissions "Povolenia">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissionsEmpty "Tejto stránke ste neurčili žiadne špeciálne povolenia.">
 <!ENTITY identity.permissionsReloadHint "Pre vykonanie zmien budete možno musieť stránku obnoviť.">
 <!ENTITY identity.permissionsPreferences.tooltip "Otvoriť nastavenia povolení">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Otvoriť nastavenia blokovania obsahu">
 
 
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -840,7 +868,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-
 
 
 
@@ -857,6 +884,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Prihlásiť sa do služby &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "r">
+
 <!ENTITY syncSyncNowItem.label        "Synchronizovať teraz">
 <!ENTITY syncSyncNowItemSyncing.label "Synchronizuje sa…">
 <!ENTITY syncSyncNowItem.accesskey    "N">
@@ -880,13 +908,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Sledovacie prvky">
 
 <!ENTITY contentBlocking.manageSettings.label "Správa blokovania obsahu">
+
+
 <!ENTITY contentBlocking.manageSettings.accesskey "S">
 
 <!ENTITY contentBlocking.trackersView.label "Sledovacie prvky">
+
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Ak chcete blokovať všetky sledovacie prvky, vyberte úroveň „Prísne“.">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies a údaje stránok">
+
+
 
 <!ENTITY contentBlocking.cryptominers.label "Ťažba kryptomien">
 <!ENTITY contentBlocking.cryptominersView.label "Ťažba kryptomien">

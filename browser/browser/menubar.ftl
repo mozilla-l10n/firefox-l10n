@@ -18,7 +18,7 @@ menu-file-new-window =
     .label = Nové okno
     .accesskey = o
 menu-file-new-private-window =
-    .label = Nové okno v režime Súkromné prehliadanie
+    .label = Nové súkromné okno
     .accesskey = k
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Na celú obrazovku
     .accesskey = c
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Zobraziť všetky karty
