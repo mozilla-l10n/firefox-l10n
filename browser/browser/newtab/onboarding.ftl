@@ -19,6 +19,7 @@ onboarding-button-label-get-started = תחילת עבודה
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = ברוכים הבאים אל { -brand-short-name }
+onboarding-welcome-body = הדפדפן כבר בידיך.<br/>עכשיו נציג את שאר { -brand-product-name }.
 onboarding-welcome-learn-more = מידע נוסף על היתרונות.
 onboarding-join-form-header = הצטרפות אל { -brand-product-name }
 onboarding-join-form-body = נא להכניס את כתובת הדוא״ל שלך כדי להתחיל.
@@ -53,6 +54,8 @@ onboarding-sync-form-sub-header = כדי להמשיך אל { -sync-brand-name }.
 ## description.
 
 onboarding-benefit-products-title = מוצרים שימושיים
+onboarding-benefit-products-text = לבצע משימות עם משפחת כלים שמכבדת את הפרטיות שלך בכל המכשירים שלך.
+onboarding-benefit-knowledge-title = ידע מעשי
 onboarding-benefit-privacy-title = פרטיות אמיתית
 
 ## These strings belong to the individual onboarding messages.
@@ -75,6 +78,9 @@ onboarding-fxa-title = סנכרון
 onboarding-fxa-text = הירשמו ל־{ -fxaccount-brand-name } וסנכרנו את הסימניות, הססמאות והלשוניות הפתוחות בכל מקום שבו תשתמשו ב־{ -brand-short-name }.
 onboarding-tracking-protection-title2 = הגנה מפני מעקב
 onboarding-tracking-protection-button2 = איך זה עובד
+onboarding-data-sync-title = ההגדרות שלך הולכות אתך
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = סנכרון הסימניות, הססמאות ופריטים נוספים שלך בכל מקום בו יש לך את { -brand-product-name }.
 onboarding-firefox-monitor-button = הרשמה להתרעות
 onboarding-browse-privately-title = גלישה בפרטיות
 onboarding-browse-privately-button = פתיחת חלון פרטי
