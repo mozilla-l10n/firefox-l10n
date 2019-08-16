@@ -137,6 +137,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Anda harus memverifikasi akun Anda sebelum dapat menyinkronkan.">
 <!ENTITY fxa.unverified.button.label "Buka Setelan &syncBrand.shortName.label;…">
 
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -146,11 +147,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Sambungkan Peranti Lain…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!ENTITY fxa.menu.signin.label "Masuk ke &brandProductName;">
+<!ENTITY fxa.menu.turnOnSync.label "Aktifkan &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.account.label "Akun">
 <!ENTITY fxa.menu.firefoxServices.label "Layanan &brandProductName;">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-<!ENTITY fxa.service.send.description "Unduh dan bagikan berkas dengan enkripsi ujung-ke-ujung ditambah tautan yang secara otomatis kedaluarsa.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -529,6 +532,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Cari lewat:">
+
+<!-- LOCALIZATION NOTE (searchWithDesc.label):
+     This string prompts the user to use the list of one-click search engines in
+     the Urlbar and searchbar. -->
+<!ENTITY searchWithDesc.label         "Kali ini, cari dengan:">
+
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -803,10 +812,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label2)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Keamanan Sambungan">
 
+<!ENTITY identity.connectionSecure2 "Sambungan Aman">
 <!ENTITY identity.connectionNotSecure "Sambungan Tidak Aman">
+<!ENTITY identity.connectionNotSecureSecurityView "Anda tidak terhubung dengan aman ke situs ini.">
 <!ENTITY identity.connectionFile "Laman ini tersimpan di komputer Anda.">
 <!ENTITY identity.connectionVerified2 "Anda tersambung secara aman ke situs ini, dimiliki oleh:">
+<!ENTITY identity.connectionVerified3 "Anda terhubung dengan aman ke situs ini.">
 <!ENTITY identity.connectionInternal "Ini adalah laman &brandShortName; aman.">
 <!ENTITY identity.extensionPage "Laman ini dimuat dari ekstensi.">
 <!ENTITY identity.insecureLoginForms2 "Info masuk yang dimasukkan di laman ini bisa diketahui orang lain.">
@@ -864,8 +877,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Formulir">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Pembayaran">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Komentar">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Video">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Kirim laporan">
 
-
+<!ENTITY protections.notBlocking.why.label "Mengapa?">
+<!ENTITY protections.socialMediaTrackers.label "Pelacak Media Sosial">
+<!ENTITY protections.crossSiteTrackingCookies.label "Kuki Pelacakan Lintas Situs">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -904,16 +924,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Pelacak">
 
-
 <!ENTITY contentBlocking.manageSettings.label "Kelola Pemblokiran Konten">
+
+
+<!ENTITY contentBlocking.manageSettings2.label "Kelola Setelan Perlindungan">
 <!ENTITY contentBlocking.manageSettings.accesskey "K">
 
 <!ENTITY contentBlocking.trackersView.label "Pelacak">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Untuk memblokir semua pelacak, setel pemblokiran konten ke “Ketat”.">
 
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Untuk memblokir semua pelacak, setel pemblokiran konten ke “Ketat”.">
 
 <!ENTITY contentBlocking.cookies.label "Kuki">
 <!ENTITY contentBlocking.cookiesView.label "Kuki dan Data Situs">
+
+<!ENTITY contentBlocking.socialblock.label "Pelacak Media Sosial">
+
+<!ENTITY contentBlocking.cookies2.label "Kuki Pelacakan Lintas Situs">
 
 <!ENTITY contentBlocking.cryptominers.label "Penambang Kripto">
 <!ENTITY contentBlocking.cryptominersView.label "Penambang Kripto">
@@ -925,8 +951,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Laporkan Masalah">
 <!ENTITY contentBlocking.breakageReportView2.description "Pemblokiran konten bisa menyebabkan beberapa situs web tidak berfungsi dengan baik. Saat Anda melaporkan masalahnya, Anda membantu agar &brandShortName; menjadi lebih baik bagi semua orang. (Proses ini akan mengirimkan URL serta informasi tentang pengaturan peramban Anda ke Mozilla).">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Pelajari Lebih Lanjut">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Pelajari lebih lanjut">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Apa masalahnya? (Opsional)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Opsional: Jelaskan masalahnya">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Kirim Laporan">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Batal">
 
