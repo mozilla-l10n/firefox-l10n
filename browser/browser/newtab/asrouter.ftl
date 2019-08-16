@@ -68,6 +68,12 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = 关闭按钮
     .title = 关闭
 
+## Protections panel
+
+cfr-protections-panel-header = 浏览，不被跟踪
+cfr-protections-panel-body = 保护好自己的数据。{ -brand-short-name } 保护您免受众多常见跟踪器对您在线活动的窥视。
+cfr-protections-panel-link-text = 详细了解
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
