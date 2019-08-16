@@ -123,3 +123,5 @@ confirm-discard-changes-dialog-confirm-button = Hejarei
 
 breach-alert-text = Umi ñe’ẽñemi oñembogua térã oñemonda ko ñanduti rendágui hekopyahu rire ne mba’ekuaarã rembiapo ñepyrũ. Emoambue ne ñe’ẽñemi emo’ã hag̃ua ne mba’ete.
 breach-alert-link = Eñemomaranduve ko mba’evai rehegua.
+breach-alert-dismiss =
+    .title = Emboty ko kyhyjeha

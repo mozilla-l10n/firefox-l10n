@@ -137,6 +137,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Ehechajeyva’erã ne mba’ete embojuehe mboyve.">
 <!ENTITY fxa.unverified.button.label "Eike &syncBrand.shortName.label; Ñoĩporã…">
 
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -153,10 +155,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-<!ENTITY fxa.service.send.description "Emyanyhẽ ha emoherakuã marandurenda ipapapy añetéva juajuha opáva ijehegui reheve.">
-<!ENTITY fxa.service.send.launch "Embojuruja &sendShortName;">
-<!ENTITY fxa.service.monitor.description "Ehechajey ne ñanduti veve oĩpa mba’ekuaarã imarãva ha eñeñatói hag̃ua oikéramo marã pyahu.">
-<!ENTITY fxa.service.monitor.launch "Embojuruja &monitorShortName;">
 <!ENTITY fxa.service.sendTab.description "Emondo tendayke oimeraẽva mba’e’oka emoñepyrũ haguépe tembiapo.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -536,6 +534,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Kóva ndive jeheka:">
+
+<!-- LOCALIZATION NOTE (searchWithDesc.label):
+     This string prompts the user to use the list of one-click search engines in
+     the Urlbar and searchbar. -->
+<!ENTITY searchWithDesc.label         "Ko'ág̃a, eheka hendive:">
+
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -911,8 +915,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.description "Umi ñanduti renda ikatu omyanyhẽ marandu ñemurã okayguávagui, ta’ãngamýi ha ambue tetepy oguerekóva ayvu rapykuehoha. Pe tetepy jejoko rapykuehoha ikatu nepytyvõ umi tenda henyhẽ pya’eve hag̃ua, hákatu ikatuhína ndahetái votõ, myanyhẽha ha tembiapo ñepyrũ rekoha ndoikói.">
 <!ENTITY protections.socialMediaTrackers.description "Umi ava ñandutieta ohechakuaa tapykuehoha ambue ñanduti rendápe ohapykueho hag̃ua hembiapo, ohecha tapia ñandutípe. Kóva omoneĩ mba’apohaguasu ava ñandutietápe oikuaavévo ndehegui umi emoherakuãvagui ava ñandutietápe.">
 
-<!ENTITY protections.manageProtectionSettings.label "Eñangareko ñemo’ã ñembohekóre">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Kundahára rendayke">
@@ -949,20 +951,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Tapykuehohára">
 
+<!ENTITY contentBlocking.manageSettings.label "Eñangareko tetepy jejoko rehe">
+
 <!ENTITY contentBlocking.trackingProtection4.label "Tetepy jehapykueho">
 
-<!ENTITY contentBlocking.manageSettings.label "Eñangareko tetepy jejoko rehe">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "Hekahára">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Ejoko hag̃ua opaite tapykuehoha, emboheko tetepy jokoha “Strict”-pe.">
 
-<!ENTITY contentBlocking.socialblock.label "Ava ñandutieta vore rapykuehoha">
-<!ENTITY contentBlocking.socialblockView.label "Ava ñandutieta jokopyre rapykuehoha">
-<!ENTITY contentBlocking.socialblockView.description "Ava ñandutieta omoĩ tapykuehoha ambue ñanduti rendápe ojapo hag̃ua hembiapo, eike ha ehecha ñandutípe. Kóva omoneĩ ava ñandutieta járape oikuaave hag̃ua umi nde emoherakuãvagui ava ñandutietápe.">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Ejoko hag̃ua opaite tapykuehoha, emboheko tetepy jokoha “Strict”-pe.">
 
 <!ENTITY contentBlocking.cookies.label "Kookie">
 <!ENTITY contentBlocking.cookiesView.label "Kookie ha mba’ekuaarã renda rehegua">
+
+<!ENTITY contentBlocking.socialblock.label "Ava ñandutieta vore rapykuehoha">
+
 
 <!ENTITY contentBlocking.cryptominers.label "Criptominero">
 <!ENTITY contentBlocking.cryptominersView.label "Criptominero">

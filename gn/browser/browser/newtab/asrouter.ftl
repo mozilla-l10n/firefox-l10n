@@ -70,6 +70,10 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Emboty votõ
     .title = Emboty
 
+## Protections panel
+
+cfr-protections-panel-link-text = Eikuaave
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
