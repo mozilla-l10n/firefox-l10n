@@ -361,7 +361,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "e">
 <!ENTITY preferencesCmdUnix.label       "Dewisiadau">
 <!ENTITY preferencesCmdUnix.accesskey     "w">
-<!ENTITY logins.label                           "Mewngofnodion a Cyfrineiriau">
+<!ENTITY logins.label                           "Mewngofnodion a Chyfrineiriau">
 
 <!ENTITY clearRecentHistory.label               "Clirio Hanes Diweddar…">
 
