@@ -255,6 +255,10 @@ shortcuts-letter = აკრიფეთ ასონიშანი
 shortcuts-system = ვერ გადაეწერება სწრაფ ღილაკს, რომელსაც { -brand-short-name } იყენებს
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = განმეორებული მალსახმობი
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } მალსახმობის სახით გამოიყენება ერთზე მეტ შემთხვევაში. განმეორებულმა მალსახმობებმა, შესაძლოა მოულოდნელი შედეგები წარმოშვას.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
