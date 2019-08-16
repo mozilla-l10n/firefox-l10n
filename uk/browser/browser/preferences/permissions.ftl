@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Винятки - Блокування вмісту
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Ви вимкнули блокування вмісту на цих веб-сайтах.
+permissions-exceptions-etp-window =
+    .title = Винятки для розширеного захисту від стеження
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Ви вимкнули захист для цих веб-сайтів.
 
 ## Exceptions - Cookies
 

@@ -255,6 +255,12 @@ shortcuts-modifier-other = Додайте Ctrl або Alt
 shortcuts-invalid = Неправильна комбінація
 shortcuts-letter = Введіть літеру
 shortcuts-system = Неможливо перевизначити комбінацію клавіш { -brand-short-name }
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Дублікат комбінації клавіш
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } використовується більше одного випадку. Дублікати комбінацій клавіш можуть спричинити неочікувану поведінку.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
