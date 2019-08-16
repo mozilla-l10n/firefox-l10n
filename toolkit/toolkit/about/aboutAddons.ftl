@@ -245,6 +245,12 @@ shortcuts-modifier-other = Uključi Ctrl ili Alt
 shortcuts-invalid = Nepodržana kombinacija
 shortcuts-letter = Upišite slovo
 shortcuts-system = Nije moguće izmijeniti { -brand-short-name } prečac
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Duplikat prečice
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } se koristi kao prečica u više od jednog slučaja. Duplikati prečice mogu uzrokovati neočekivano ponašanje.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
