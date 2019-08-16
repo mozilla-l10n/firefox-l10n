@@ -939,6 +939,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Кукі">
 <!ENTITY contentBlocking.cookiesView.label "Кукі і дадзеныя сайтаў">
 
+<!ENTITY contentBlocking.socialblock.label "Трэкеры сацыяльных сетак">
 
 
 <!ENTITY contentBlocking.cryptominers.label "Майнеры крыптавалют">
