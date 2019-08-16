@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "K">
 <!ENTITY folderPaneBar.label "Mappenfinsterarkbalke">
 <!ENTITY folderPaneBar.accesskey "M">
-<!ENTITY folderModeSelector.label "Mappenwerjefte">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sortearje op">
@@ -587,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Selektearre berjocht ferpleatse">
 <!ENTITY archiveButton.tooltip "Selektearre berjocht argivearje">
 <!ENTITY openConversationButton.tooltip "Petear fan selektearre berjocht toane">
+<!ENTITY openMsgConversationButton.tooltip "Petear fan selektearre berjocht toane">
 <!ENTITY nextButton.tooltip "Nei it folgjende net-lêzen berjocht gean">
 <!ENTITY nextMsgButton.tooltip "Nei it folgjende berjocht gean">
 <!ENTITY previousButton.tooltip "Nei it foarige net-lêzen berjocht gean">
@@ -605,7 +605,6 @@
 <!ENTITY tagButton.tooltip "Berjocht labelje">
 <!ENTITY compactButton.tooltip "Fuortsmiten berjochten út de selektearre map definityf fuortsmite">
 <!ENTITY appmenuButton1.tooltip "It &brandShortName;-menu toane">
-
 <!ENTITY addonsButton.tooltip "Jo add-ons beheare">
 
 <!-- Toolbar Button Popup -->
