@@ -19,6 +19,8 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } untuk iPhone dan iPad
 
 login-list-sort-label-text = Urutkan berdasarkan:
 login-list-name-option = Nama (A-Z)
+login-list-last-changed-option = Terakhir Diubah
+login-list-last-used-option = Terakhir Digunakan
 login-list-item-title-new-login = Log Masuk Baru
 
 ## Introduction screen
