@@ -7,11 +7,11 @@
 <!ENTITY titleSeparator.label " - ">
 
 <!-- tabmail -->
-<!ENTITY tabmailClose.label "დაფის დახურვა">
-<!ENTITY tabmailClose.tooltip "დაფის დახურვა">
-<!ENTITY tabmailNewButton.tooltip "მიდინარე დაფის დუბლირება">
-<!ENTITY tabmailCloseButton.tooltip "მიმდინარე დაფის დახურვა">
-<!ENTITY tabmailAllTabs.tooltip "ყველა დაფის სია">
+<!ENTITY tabmailClose.label "ჩანართის დახურვა">
+<!ENTITY tabmailClose.tooltip "ჩანართის დახურვა">
+<!ENTITY tabmailNewButton.tooltip "მიდინარე ჩანართის დუბლირება">
+<!ENTITY tabmailCloseButton.tooltip "მიმდინარე ჩანართის დახურვა">
+<!ENTITY tabmailAllTabs.tooltip "ყველა ჩანართის სია">
 
 <!-- menu items: the . means that the menu item isn't implemented yet -->
 
@@ -22,10 +22,10 @@
 <!ENTITY newFolderCmd.accesskey "ქ">
 <!ENTITY newVirtualFolderCmd.label "შენახული ძიება…">
 <!ENTITY newVirtualFolderCmd.accesskey "შ">
-<!ENTITY newTabCmd.label "დაფის გაორმაგება">
+<!ENTITY newTabCmd.label "ჩანართის გაორმაგება">
 <!ENTITY newTabCmd.accesskey "ო">
 <!ENTITY newTabCmd.key "t">
-<!ENTITY closeTabCmd.label "დაფის დახურვა">
+<!ENTITY closeTabCmd.label "ჩანართის დახურვა">
 <!ENTITY closeTabCmd.accesskey "დ">
 <!ENTITY newAccountCmd.label "ანგარიში…">
 <!ENTITY newAccountCmd.accesskey "ნ">
@@ -116,7 +116,7 @@
 <!ENTITY showMessengerToolbarCmd.accesskey "მ">
 <!ENTITY showSearchToolbarCmd.label "საძიებო ზოლი">
 <!ENTITY showSearchToolbarCmd.accesskey "ზ">
-<!ENTITY showTabsToolbarCmd.label "დაფების სამართავი">
+<!ENTITY showTabsToolbarCmd.label "ჩანართების სამართავი">
 <!ENTITY showTabsToolbarCmd.accesskey "რ">
 
 <!ENTITY messagePaneLayoutStyle.label "განლაგება">
@@ -457,7 +457,7 @@
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "წერილის ახალ ფანჯარაში გახსნა">
 <!ENTITY contextOpenNewWindow.accesskey "ფ">
-<!ENTITY contextOpenNewTab.label "წერილის გახსნა ახალ დაფაზე">
+<!ENTITY contextOpenNewTab.label "წერილის გახსნა ახალ ჩანართიზე">
 <!ENTITY contextOpenNewTab.accesskey "გ">
 <!ENTITY contextEditAsNew.label "ჩასწორება როგორც ახლის…">
 <!ENTITY contextEditAsNew.accesskey "ჩ">
@@ -497,7 +497,7 @@
 <!ENTITY folderContextGetMessages.accesskey "მ">
 <!ENTITY folderContextOpenNewWindow.label "გახსნა ახალ ფანჯარაში">
 <!ENTITY folderContextOpenNewWindow.accesskey "ფ">
-<!ENTITY folderContextOpenNewTab.label "გახსნა ახალ დაფაზე">
+<!ENTITY folderContextOpenNewTab.label "გახსნა ახალ ჩანართიზე">
 <!ENTITY folderContextOpenNewTab.accesskey "ა">
 <!ENTITY folderContextRename.label "გადარქმევა">
 <!ENTITY folderContextRename.accesskey "გ">

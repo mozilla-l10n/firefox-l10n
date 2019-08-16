@@ -9,19 +9,19 @@
 <!ENTITY external.label "ბმები სხვა პროგრამებიდან">
 <!ENTITY externalDescription.label "სხვა პროგრამებიდან გადმოტანილი ბმების გახსნა:">
 
-<!ENTITY openCurrent.label "მიმდინარე დაფაზე/სარკმელში">
+<!ENTITY openCurrent.label "მიმდინარე ჩანართიზე/სარკმელში">
 <!ENTITY newWindowGroupCurrent.accesskey "c">
 <!ENTITY externalGroupCurrent.accesskey "u">
 
-<!ENTITY openTab.label "მიმდინარე სარკმლის ახალ დაფაზე">
-<!ENTITY newWindowGroupTab.accesskey "t">
-<!ENTITY externalGroupTab.accesskey "a">
+<!ENTITY openTab.label "მიმდინარე სარკმლის ახალ ჩანართიზე">
+<!ENTITY newWindowGroupTab.accesskey "მ">
+<!ENTITY externalGroupTab.accesskey "ი">
 
 <!ENTITY openWindow.label "ახალ დაფაზე">
 <!ENTITY newWindowGroupWindow.accesskey "w">
 <!ENTITY externalGroupWindow.accesskey "o">
 
-<!ENTITY divertAll.label "სარკმლების ყოველთვის გადამისამართება დაფებზე">
+<!ENTITY divertAll.label "სარკმლების ყოველთვის გადამისამართება ჩანართებზე">
 <!ENTITY divertAll.accesskey "d">
 <!ENTITY divertNoFeatures.label "საკუთარი სარკმლების შენარჩუნება">
 <!ENTITY divertNoFeatures.accesskey "s">

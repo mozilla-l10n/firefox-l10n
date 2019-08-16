@@ -15,9 +15,9 @@
 
 <!ENTITY searchResults.label              "ძიების შედეგები">
 
-<!ENTITY openInTab.label                  "სტენდის ძიების შედეგების ახალ დაფახზე გახსნა">
-<!ENTITY openInTab.accesskey              "n">
-<!ENTITY openContextSearchTab.label       "კონტექსტური მენიუდან ძიების შედეგების დაფაზე გახსნა სარკმლის ნაცვლად">
-<!ENTITY openContextSearchTab.accesskey   "t">
-<!ENTITY openSidebarSearchPanel.label     "ძიების დაწყებისას ძიების დაფის სტენდზე გახსნა">
+<!ENTITY openInTab.label                  "გვერდითი ზოლის ძიების შედეგების ახალ ჩანართიხზე გახსნა">
+<!ENTITY openInTab.accesskey              "ზ">
+<!ENTITY openContextSearchTab.label       "კონტექსტური მენიუდან ძიების შედეგების ჩანართზე გახსნა სარკმლის ნაცვლად">
+<!ENTITY openContextSearchTab.accesskey   "მ">
+<!ENTITY openSidebarSearchPanel.label     "ძიების დაწყებისას ძიების ჩანართის გვერდითი ზოლზე გახსნა">
 <!ENTITY openSidebarSearchPanel.accesskey "O">

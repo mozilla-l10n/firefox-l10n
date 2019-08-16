@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- File Menu -->
-<!ENTITY tabCmd.label "ბრაუზერის დაფა">
-<!ENTITY tabCmd.accesskey "T">
+<!ENTITY tabCmd.label "ბრაუზერის ჩანართი">
+<!ENTITY tabCmd.accesskey "თ">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openCmd.label "ვებგვერდის გახსნა…">
 <!ENTITY openCmd.accesskey "L">
@@ -13,8 +13,8 @@
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
 
-<!ENTITY closeOtherTabs.label "სხვა დაფების დახურვა">
-<!ENTITY closeOtherTabs.accesskey "T">
+<!ENTITY closeOtherTabs.label "სხვა ჩანართების დახურვა">
+<!ENTITY closeOtherTabs.accesskey "თ">
 
 <!ENTITY uploadFile.label "ფაილის ატვირთვა…">
 <!ENTITY uploadFile.accesskey "F">
@@ -28,8 +28,8 @@
 <!-- View Menu -->
 <!ENTITY toolbarsCmd.label "ჩვენება/დამალვა">
 <!ENTITY toolbarsCmd.accesskey "w">
-<!ENTITY tabbarCmd.label "დაფების პანელი">
-<!ENTITY tabbarCmd.accesskey "T">
+<!ENTITY tabbarCmd.label "ჩანართების ზოლი">
+<!ENTITY tabbarCmd.accesskey "თ">
 <!ENTITY taskbarCmd.label "სტატუსის პანელი">
 <!ENTITY taskbarCmd.accesskey "S">
 <!ENTITY componentbarCmd.label "კომპონენტების პანელი">
@@ -61,16 +61,16 @@
 <!ENTITY historyCmd.label "ისტორია">
 <!ENTITY historyCmd.accesskey "s">
 <!ENTITY history.commandKey "h">
-<!ENTITY recentTabs.label "ბოლოს დახურული დაფები">
-<!ENTITY recentTabs.accesskey "C">
+<!ENTITY recentTabs.label "ბოლოს დახურული ჩანართები">
+<!ENTITY recentTabs.accesskey "დ">
 <!ENTITY recentTabs.commandkey "t">
 <!ENTITY recentWindows.label "ბოლოს დახურული სარკმლები">
 <!ENTITY recentWindows.accesskey "W">
 <!ENTITY recentWindows.commandkey "y">
 <!ENTITY historyRestoreLastSession.label "წიანა სეანსის აღდგენა">
 <!ENTITY historyRestoreLastSession.accesskey "R">
-<!ENTITY syncTabsMenu.label "დაფები სხვა კომპიუტერიდან">
-<!ENTITY syncTabsMenu.accesskey "O">
+<!ENTITY syncTabsMenu.label "ჩანართები სხვა კომპიუტერიდან">
+<!ENTITY syncTabsMenu.accesskey "ო">
 
 <!-- Bookmarks Menu -->
 <!ENTITY bookmarksMenu.label "სანიშნები">
@@ -80,8 +80,8 @@
 <!ENTITY addCurPageAsCmd.label "სანიშნის შექმნა…">
 <!ENTITY addCurPageAsCmd.accesskey "F">
 <!ENTITY addCurPageAsCmd.commandkey "d">
-<!ENTITY addCurTabsAsCmd.label "ამ დაფების ჯგუფის ჩანიშვნა…">
-<!ENTITY addCurTabsAsCmd.accesskey "G">
+<!ENTITY addCurTabsAsCmd.label "ამ ჩანართების ჯგუფის ჩანიშვნა…">
+<!ENTITY addCurTabsAsCmd.accesskey "გ">
 <!ENTITY manBookmarksCmd.label "სანიშნების მართვა…">
 <!ENTITY manBookmarksCmd.accesskey "M">
 <!ENTITY manBookmarksCmd.commandkey "b">

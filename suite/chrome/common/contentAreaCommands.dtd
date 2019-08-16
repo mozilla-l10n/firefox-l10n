@@ -7,7 +7,7 @@
 <!ENTITY popupWindowRejectCmd.accesskey "ა">
 <!ENTITY popupWindowAllowCmd.label      "ამ საიტიდან ამომხტომი ფანჯრების დაშვება">
 <!ENTITY popupWindowAllowCmd.accesskey  "დ">
-<!ENTITY openLinkCmdInTab.label       "ბმულის ახალ დაფაზე გახსნა">
+<!ENTITY openLinkCmdInTab.label       "ბმულის ახალ ჩანართზე გახსნა">
 <!ENTITY openLinkCmdInTab.accesskey   "გ">
 <!ENTITY openLinkCmd.label            "ბმულის ახალ სარკმლეში გახსნა">
 <!ENTITY openLinkCmd.accesskey        "რ">
@@ -17,7 +17,7 @@
 <!ENTITY openLinkInWindowCmd.accesskey "ხ">
 <!ENTITY openFrameCmd.label           "ჩარჩოს ახალ სარკმელში გახსნა">
 <!ENTITY openFrameCmd.accesskey       "ჩ">
-<!ENTITY openFrameCmdInTab.label      "ჩარჩოს ახალ დაფაზე გახსნა">
+<!ENTITY openFrameCmdInTab.label      "ჩარჩოს ახალ ჩანართზე გახსნა">
 <!ENTITY openFrameCmdInTab.accesskey  "რ">
 <!ENTITY keywordfield.label           "საკვანძო სიტყვის დამატება ამ ძიებაში…">
 <!ENTITY keywordfield.accesskey       "კ">

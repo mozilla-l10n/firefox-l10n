@@ -17,8 +17,8 @@
 <!ENTITY  closeWindow.key        "w">
 <!ENTITY  copyLinks.label           "ბმულ(ებ)ის ასლი">
 <!ENTITY  copyLinks.accesskey       "უ">
-<!ENTITY  openInNewTab.label        "გახსნა ახალ დფაზე">
-<!ENTITY  openInNewTab.accesskey    "T">
+<!ENTITY  openInNewTab.label        "გახსნა ახალ ჩანართში">
+<!ENTITY  openInNewTab.accesskey    "თ">
 <!ENTITY  openInNewWindow.label     "გახსნა ახალ სარკმელში">
 <!ENTITY  openInNewWindow.accesskey "W">
 
@@ -37,8 +37,8 @@
 <!ENTITY  generalSecurityDetails           "დაწვრილებით">
 <!ENTITY  generalSecurityDetails.accesskey "დ">
 
-<!ENTITY  formsTab              "ფორმები">
-<!ENTITY  formsTab.accesskey    "F">
+<!ENTITY  formsTab              "ველები">
+<!ENTITY  formsTab.accesskey    "ვ">
 <!ENTITY  formAction            "ფორმის ქმედება">
 <!ENTITY  formMethod            "მეთოდი">
 <!ENTITY  formName              "სახელი">
@@ -50,8 +50,8 @@
 <!ENTITY  formType              "სახეობა">
 <!ENTITY  formCValue            "მნიშვნელობა">
 
-<!ENTITY  linksTab              "ბმები">
-<!ENTITY  linksTab.accesskey    "L">
+<!ENTITY  linksTab              "ბმულები">
+<!ENTITY  linksTab.accesskey    "ლ">
 <!ENTITY  linkName              "სახელი">
 <!ENTITY  linkAddress           "მისამართი">
 <!ENTITY  linkType              "სახეობა">
@@ -59,7 +59,7 @@
 <!ENTITY  linkAccessKey         "წვდომის კლავიში">
 
 <!ENTITY  mediaTab              "მედია">
-<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaTab.accesskey    "მ">
 <!ENTITY  mediaURL              "მისამართი:">
 <!ENTITY  mediaAlt              "ალტერნატული ტექსტი:">
 <!ENTITY  mediaAltHeader        "ალტერნატული ტექსტი">
@@ -78,12 +78,12 @@
 <!ENTITY  mediaPreview          "მედიაფაილის შეთვალიერება:">
 
 <!ENTITY  feedTab               "არხები">
-<!ENTITY  feedTab.accesskey     "F">
+<!ENTITY  feedTab.accesskey     "რ">
 <!ENTITY  feedSubscribe         "გამოწერა">
 <!ENTITY  feedSubscribe.accesskey "ო">
 
-<!ENTITY  permTab               "უფლებები">
-<!ENTITY  permTab.accesskey     "P">
+<!ENTITY  permTab               "ნებართვები">
+<!ENTITY  permTab.accesskey     "ნ">
 <!ENTITY  permUseDefault        "ნაგულისხმების გამოყენება">
 <!ENTITY  permAskAlways         "შეკითხვა ყოველ ჯერზე">
 <!ENTITY  permAllow             "დაშვება">
@@ -98,7 +98,7 @@
 <!ENTITY  permGeo               "მდებარეობის გაზიარება">
 
 <!ENTITY  securityTab           "უსაფრთხოება">
-<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityTab.accesskey "უ">
 <!ENTITY  securityHeader        "უსაფრთხოების მონაცემები ამ გვერდისთვის">
 <!ENTITY  securityView.certView "სერტიფიკატის ჩვენება">
 <!ENTITY  securityView.accesskey "V">

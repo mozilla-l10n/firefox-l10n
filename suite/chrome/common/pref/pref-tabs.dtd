@@ -2,27 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabHeader.label "დაფების გამოყენება">
+<!ENTITY tabHeader.label "ჩანართების გამოყენება">
 
-<!ENTITY tabDisplay.label "დაფების ჩვენება">
-<!ENTITY autoHide.label "დაფების პანელის დამალვა მხოლოდ ერთი გახსნილი დაფის შემთხვევაში">
+<!ENTITY tabDisplay.label "ჩანართების ჩვენება">
+<!ENTITY autoHide.label "ჩანართების პანელის დამალვა მხოლოდ ერთი გახსნილი ჩანართის შემთხვევაში">
 <!ENTITY autoHide.accesskey2 "მ">
-<!ENTITY background.label "ბმებიდან გახსნილი დაფების არჩევა">
+<!ENTITY background.label "ბმებიდან გახსნილი ჩანართების არჩევა">
 <!ENTITY background.accesskey "ხ">
-<!ENTITY warnOnClose.label "გაფრთხილება, მრავალი დაფის ერთდროულად დახურვისას">
+<!ENTITY warnOnClose.label "გაფრთხილება, მრავალი ჩანართის ერთდროულად დახურვისას">
 <!ENTITY warnOnClose.accesskey "ფ">
-<!ENTITY relatedAfterCurrent.label "დაკავშირებული დაფების გახსნა მიმდინარე დაფის შემდეგ">
+<!ENTITY relatedAfterCurrent.label "დაკავშირებული ჩანართების გახსნა მიმდინარე ჩანართის შემდეგ">
 <!ENTITY relatedAfterCurrent.accesskey "დ">
 
 <!ENTITY loadGroup.label "სანიშნეთა ჯგუფის გახსნისას">
-<!ENTITY loadGroupAppend.label "დაფების დამატება">
+<!ENTITY loadGroupAppend.label "ჩანართების დამატება">
 <!ENTITY loadGroupAppend.accesskey "მ">
-<!ENTITY loadGroupReplace.label "არსებული დაფების ჩანაცვლება">
+<!ENTITY loadGroupReplace.label "არსებული ჩანართების ჩანაცვლება">
 <!ENTITY loadGroupReplace.accesskey "ჩ">
 
-<!ENTITY openTabs.label "გახსნა დაფებზე ნაცვლად სარკმლებისა">
+<!ENTITY openTabs.label "გახსნა ჩანართებზე ნაცვლად სარკმლებისა">
 
-<!ENTITY openManagers.label "ახალ დაფაზე გახსნა, ფანჯრის ნაცვლად">
+<!ENTITY openManagers.label "ახალ ჩანართზე გახსნა, ფანჯრის ნაცვლად">
 <!ENTITY openDataManager.label "მონაცემთა მმართველი">
 <!ENTITY openDataManager.accesskey "მ">
 <!ENTITY openAddOnsManager.label "დამატებების მმართველი">

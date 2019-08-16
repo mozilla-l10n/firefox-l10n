@@ -8,7 +8,7 @@
 <!ENTITY unsubscribeButton.label      "გამოწერის გაუქმება">
 <!ENTITY unsubscribeButton.accesskey  "U">
 <!ENTITY newGroupsTab.label           "ახალი ჯგუფები">
-<!ENTITY newGroupsTab.accesskey       "N">
+<!ENTITY newGroupsTab.accesskey       "ა">
 <!ENTITY refreshButton.label          "განახლება">
 <!ENTITY refreshButton.accesskey      "ნ">
 <!ENTITY stopButton.label             "შეჩერება">
