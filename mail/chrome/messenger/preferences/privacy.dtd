@@ -37,4 +37,6 @@
 <!ENTITY dntTrackingNotOkay.accesskey "σ">
 <!ENTITY doNotTrackInfo.label "Μάθετε περισσότερα για την Αποτροπή καταγραφής">
 
+<!ENTITY doNotTrackCheck.label "Αποστολή σήματος “Αποτροπή καταγραφής” που σημαίνει ότι δεν θέλετε να καταγράφεστε από τις ιστοσελίδες">
+<!ENTITY doNotTrackCheck.accesskey "n">
 <!ENTITY doNotTrackLearnMore.label "Μάθετε περισσότερα">

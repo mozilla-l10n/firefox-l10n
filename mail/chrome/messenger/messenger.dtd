@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "Σ">
 <!ENTITY folderPaneBar.label "Γραμμή εργαλείων προβολής φακέλων">
 <!ENTITY folderPaneBar.accesskey "Θ">
-<!ENTITY folderModeSelector.label "Όψεις φακέλων">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ταξινόμηση κατά">
@@ -587,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Αρχειοθέτηση επιλεγμένου μηνύματος">
 <!ENTITY archiveButton.tooltip "Αρχειοθέτηση επιλεγμένων μηνυμάτων">
 <!ENTITY openConversationButton.tooltip "Εμφάνιση συζήτησης για το επιλεγμένο μήνυμα">
+<!ENTITY openMsgConversationButton.tooltip "Εμφάνιση συζήτησης για το επιλεγμένο μήνυμα">
 <!ENTITY nextButton.tooltip "Μετάβαση στο επόμενο μη αναγνωσμένο μήνυμα">
 <!ENTITY nextMsgButton.tooltip "Μετάβαση στο επόμενο μήνυμα">
 <!ENTITY previousButton.tooltip "Μετάβαση στο προηγούμενο μη αναγνωσμένο">
@@ -605,7 +605,6 @@
 <!ENTITY tagButton.tooltip "Ετικέτα σε μηνύματα">
 <!ENTITY compactButton.tooltip "Απομάκρυνση διαγραμμένων μηνυμάτων από τον επιλεγμένο φάκελο">
 <!ENTITY appmenuButton1.tooltip "Προβολή του μενού του &brandShortName;">
-
 <!ENTITY addonsButton.tooltip "Διαχείριση των προσθέτων σας">
 
 <!-- Toolbar Button Popup -->

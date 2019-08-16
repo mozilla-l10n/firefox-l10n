@@ -123,6 +123,7 @@
 <!ENTITY viewSecurityDevices.label "Συσκευές ασφαλείας">
 <!ENTITY viewSecurityDevices.accesskey "υ">
 
+<!ENTITY manageCertificates2.label "Διαχείριση Πιστοποιητικών…">
 <!ENTITY manageCertificates2.accesskey "Δ">
 <!ENTITY viewSecurityDevices2.label "Συσκευές ασφαλείας…">
 <!ENTITY viewSecurityDevices2.accesskey "Σ">
