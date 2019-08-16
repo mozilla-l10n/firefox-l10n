@@ -123,3 +123,5 @@ confirm-discard-changes-dialog-confirm-button = Ferwerpe
 
 breach-alert-text = Wachtwurden út dizze website binne lekt of stellen sûnt jo foar it lêst jo oanmeldgegevens bywurke hawwe. Wizigje jo wachtwurd om jo account te beskermjen.
 breach-alert-link = Mear ynfo oer dit datalek
+breach-alert-dismiss =
+    .title = Dizze warskôging slute
