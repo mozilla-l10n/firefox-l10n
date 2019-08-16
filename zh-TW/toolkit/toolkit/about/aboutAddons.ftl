@@ -249,6 +249,12 @@ shortcuts-modifier-other = 包含 Ctrl 或 Alt
 shortcuts-invalid = 無效的快速鍵
 shortcuts-letter = 按下一個字母
 shortcuts-system = 無法蓋過 { -brand-short-name } 的快速鍵
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = 快速鍵重複
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = 有超過一種情況使用 { $shortcut } 作為快捷鍵，重複的快速鍵可能會有無法預期的行為。
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
