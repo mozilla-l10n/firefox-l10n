@@ -249,6 +249,10 @@ shortcuts-letter = 输入一个字母
 shortcuts-system = 不可覆盖 { -brand-short-name } 的快捷键
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = 快捷键重复
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } 被不止一个附加组件设为快捷键，重复的快捷键可能会导致意外行为。
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
