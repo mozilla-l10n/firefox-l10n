@@ -64,13 +64,6 @@ bar-tooltip-cookie =
             [one] עוגיית מעקב חוצת אתרים אחת ({ $percentage }%)
            *[other] { $count } עוגיות מעקב חוצות אתרים ({ $percentage }%)
         }
-bar-tooltip-tracker =
-    .title = תוכן מעקב
-    .aria-label =
-        { $count ->
-            [one] תוכן מעקב אחד ({ $percentage }%)
-           *[other] 2 תכני מעקב ({ $percentage }%)
-        }
 bar-tooltip-cryptominer =
     .title = כורי מטבעות דיגיטליים
     .aria-label =
