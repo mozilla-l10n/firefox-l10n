@@ -41,9 +41,19 @@ login-list-count =
        *[other] ការចូល​ចំនួន { $count }
     }
 login-list-sort-label-text = តម្រៀបតាម៖
+login-list-name-option = ឈ្មោះ (A-Z)
+login-list-last-changed-option = បាន​កែប្រែ​ចុងក្រោយ
+login-list-last-used-option = បាន​ប្រើប្រាស់​ចុងក្រោយ
+login-list-intro-title = រក​មិន​ឃើញ​ការចូល​ទេ
+login-list-intro-description = នៅពេល​អ្នក​រក្សាទុក​ពាក្យ​សម្ងាត់​នៅ​ក្នុង { -brand-product-name } វា​នឹង​បង្ហាញ​នៅ​ត្រង់​នេះ។
+login-list-item-title-new-login = ការចូល​ថ្មី
+login-list-item-subtitle-new-login = បញ្ចូល​ព័ត៌មាន​លម្អិត​ការចូល​របស់​អ្នក
+login-list-item-subtitle-missing-username = (គ្មាន​ឈ្មោះ​អ្នក​ប្រើប្រាស់)
 
 ## Introduction screen
 
+login-intro-heading = កំពុង​រក​មើល​ការចូល​ដែល​បាន​រក្សាទុក​របស់​អ្នក​មែន​ទេ? រៀបចំ { -sync-brand-short-name } ។
+login-intro-description = ប្រសិនបើ​អ្នក​បាន​រក្សាទុក​ការចូល​របស់​អ្នក​ទៅ { -brand-product-name } នៅ​លើ​ឧបករណ៍​ផ្សេង នេះជា​របៀប​​ចូល​​មើល​ការចូល​ទាំងនោះ​នៅ​ត្រង់នេះ៖
 
 ## Login
 
