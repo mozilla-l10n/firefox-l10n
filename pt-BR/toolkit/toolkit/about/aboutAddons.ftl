@@ -255,6 +255,12 @@ shortcuts-modifier-other = Incluir Ctrl ou Alt
 shortcuts-invalid = Combinação inválida
 shortcuts-letter = Digite uma letra
 shortcuts-system = Não é possível substituir um atalho do { -brand-short-name }
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Atalho duplicado
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } está sendo usado como atalho em mais de um caso. Atalhos duplicados podem causar comportamento inesperado.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
