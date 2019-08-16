@@ -12,9 +12,9 @@
 <!ENTITY pref.categories.newButton.accesskey "ხ">
 <!ENTITY pref.categories.edit.title "კატეგორიის ჩასწორება">
 <!ENTITY pref.categories.editButton.label "ჩასწორება…">
-<!ENTITY pref.categories.editButton.accesskey "E">
+<!ENTITY pref.categories.editButton.accesskey "ჩ">
 <!ENTITY pref.categories.removeButton.label "მოცილება">
-<!ENTITY pref.categories.removeButton.accesskey "R">
+<!ENTITY pref.categories.removeButton.accesskey "მ">
 <!ENTITY pref.categories.name.label "სახელი">
 <!ENTITY pref.categories.color.label "ფერი">
 <!ENTITY pref.categories.usecolor.label "ფერის გამოყენება">
