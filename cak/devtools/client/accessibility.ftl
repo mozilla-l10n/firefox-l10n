@@ -18,3 +18,4 @@ accessibility-fail =
 ## that describe that currently selected accessible object has an accessibility issue
 ## with its text label or accessible name.
 
+accessibility-text-label-issue-document-title = Ri taq wujil k'o chi kik'wan jun <code>b'i'aj</code>. <a>Tetamäx ch'aqa' chik</a>
