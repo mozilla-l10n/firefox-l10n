@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "General">
+
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Vistas die e septimana">
 <!ENTITY pref.calendar.view.multiweekview.caption "Vista multe-septimanal">
 <!ENTITY pref.calendar.view.workweek.caption "Septimana laborative">
@@ -17,6 +18,8 @@
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Monstrar numero del septimana in vistas e mini-mense">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "n">
 <!ENTITY pref.daysoff.label "Dies laborative:">
+
+<!ENTITY pref.workweekDays.label "Dies laborative:">
 
 <!ENTITY pref.calendar.view.daystart.label "Le die comencia al:">
 <!ENTITY pref.calendar.view.daystart.accesskey "D">
