@@ -124,3 +124,5 @@ confirm-discard-changes-dialog-confirm-button = Odrzuć
 
 breach-alert-text = Od czasu ostatniej zmiany danych logowania hasła z tej witryny wyciekły lub zostały wykradzione. Zmień hasło, aby ochronić swoje konto.
 breach-alert-link = Więcej informacji o tym wycieku.
+breach-alert-dismiss =
+    .title = Zamknij to powiadomienie
