@@ -24,7 +24,7 @@
 <!ENTITY lightning.toolbar.calendar.accesskey "კ">
 <!ENTITY lightning.toolbar.task.label         "დავალებები">
 <!ENTITY lightning.toolbar.task.tooltip       "გადასვლა დავალებების დაფაზე">
-<!ENTITY lightning.toolbar.task.accesskey     "ფ">
+<!ENTITY lightning.toolbar.task.accesskey     "ბ">
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "ღონისძიება">

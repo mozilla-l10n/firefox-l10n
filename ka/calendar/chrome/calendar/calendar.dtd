@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "ახალი დავალების შექმნა" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "დავალებები" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "დასრულებული დავალების ჩვენება">
 
 <!ENTITY calendar.today.button.label          "დღეს">
@@ -95,14 +96,14 @@
 <!ENTITY calendar.month.button.label            "თვე" >
 <!ENTITY calendar.multiweek.button.label        "მრავალი კვირა" >
 <!ENTITY calendar.onlyworkday.checkbox.label    "მხოლოდ სამუშაო დღეები" >
-<!ENTITY calendar.onlyworkday.checkbox.accesskey  "r" >
+<!ENTITY calendar.onlyworkday.checkbox.accesskey  "უ" >
 <!ENTITY calendar.displaytodos.checkbox.label   "ნაჩვენები დავალების" >
-<!ENTITY calendar.displaytodos.checkbox.accesskey "k" >
+<!ENTITY calendar.displaytodos.checkbox.accesskey "ნ" >
 <!ENTITY calendar.completedtasks.checkbox.label     "დასრულებული დავალებების ჩვენება" >
 <!ENTITY calendar.completedtasks.checkbox.accesskey "ს" >
 
 <!ENTITY calendar.orientation.label "ხედის დატრიალება" >
-<!ENTITY calendar.orientation.accesskey "o" >
+<!ENTITY calendar.orientation.accesskey "ხ" >
 
 <!ENTITY calendar.search.options.searchfor " შეიცავს">
 
@@ -155,13 +156,13 @@
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "გახსნა">
-<!ENTITY calendar.context.modifyorviewitem.accesskey  "O">
+<!ENTITY calendar.context.modifyorviewitem.accesskey  "გ">
 <!ENTITY calendar.context.modifyorviewtask.label      "დავალების გახსნა…">
-<!ENTITY calendar.context.modifyorviewtask.accesskey  "ხ">
+<!ENTITY calendar.context.modifyorviewtask.accesskey  "დ">
 <!ENTITY calendar.context.newevent.label              "ახალი ღონისძიება…">
 <!ENTITY calendar.context.newevent.accesskey          "ხ">
 <!ENTITY calendar.context.newtodo.label               "ახალი დავალება…">
-<!ENTITY calendar.context.newtodo.accesskey           "k">
+<!ENTITY calendar.context.newtodo.accesskey           "ხ">
 <!ENTITY calendar.context.deletetask.label            "დავალების წაშლა">
 <!ENTITY calendar.context.deletetask.accesskey        "ლ">
 <!ENTITY calendar.context.deleteevent.label           "ღონისძიების წაშლა">
@@ -173,10 +174,10 @@
 <!ENTITY calendar.context.pasteevent.label            "ჩასმა">
 <!ENTITY calendar.context.pasteevent.accesskey        "ჩ">
 <!ENTITY calendar.context.button.label                "დღევანდელის სტენდი">
-<!ENTITY calendar.context.button.accesskey            "T">
+<!ENTITY calendar.context.button.accesskey            "ღ">
 
 <!ENTITY calendar.context.attendance.menu.label                 "დამსწრეები">
-<!ENTITY calendar.context.attendance.menu.accesskey             "d">
+<!ENTITY calendar.context.attendance.menu.accesskey             "წ">
 <!ENTITY calendar.context.attendance.occurrence.label           "ჩატარების თარიღი">
 <!ENTITY calendar.context.attendance.all2.label                 "სრული რიგი">
 <!ENTITY calendar.context.attendance.send.label                 "შეტყობინება ახლავე">
@@ -216,16 +217,16 @@
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "მიმდინარეობა">
-<!ENTITY calendar.context.progress.accesskey          "P">
-<!ENTITY calendar.context.priority.label              "პრიორიტეტი">
-<!ENTITY calendar.context.priority.accesskey          "r">
+<!ENTITY calendar.context.progress.accesskey          "მ">
+<!ENTITY calendar.context.priority.label              "უპირატესობა">
+<!ENTITY calendar.context.priority.accesskey          "უ">
 <!ENTITY calendar.context.postpone.label              "გადადებული დავალებები">
-<!ENTITY calendar.context.postpone.accesskey          "s">
+<!ENTITY calendar.context.postpone.accesskey          "ბ">
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
 <!ENTITY calendar.context.markcompleted.label     "მონიშვნა დასრულებულად">
-<!ENTITY calendar.context.markcompleted.accesskey "o">
+<!ENTITY calendar.context.markcompleted.accesskey "ო">
 
 <!ENTITY progress.level.0             "0&percnt; დასრულდა">
 <!ENTITY progress.level.0.accesskey   "0">
@@ -239,20 +240,20 @@
 <!ENTITY progress.level.100.accesskey  "1">
 
 <!ENTITY priority.level.none                "არ მითითებულა">
-<!ENTITY priority.level.none.accesskey      "s">
+<!ENTITY priority.level.none.accesskey      "რ">
 <!ENTITY priority.level.low                 "დაბალი">
-<!ENTITY priority.level.low.accesskey       "L">
+<!ENTITY priority.level.low.accesskey       "დ">
 <!ENTITY priority.level.normal              "საშუალო">
-<!ENTITY priority.level.normal.accesskey    "N">
+<!ENTITY priority.level.normal.accesskey    "ს">
 <!ENTITY priority.level.high                "მაღალი">
-<!ENTITY priority.level.high.accesskey      "H">
+<!ENTITY priority.level.high.accesskey      "მ">
 
 <!ENTITY calendar.context.postpone.1hour.label      "1 საათი">
-<!ENTITY calendar.context.postpone.1hour.accesskey  "H">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "თ">
 <!ENTITY calendar.context.postpone.1day.label       "1 დღე">
-<!ENTITY calendar.context.postpone.1day.accesskey   "D">
+<!ENTITY calendar.context.postpone.1day.accesskey   "ღ">
 <!ENTITY calendar.context.postpone.1week.label      "1 კვირა">
-<!ENTITY calendar.context.postpone.1week.accesskey  "W">
+<!ENTITY calendar.context.postpone.1week.accesskey  "კ">
 
 <!ENTITY calendar.copylink.label       "ბმულის მისამართის ასლი">
 <!ENTITY calendar.copylink.accesskey   "ლ">
@@ -264,9 +265,9 @@
 
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label              "ახალი კალენდარი">
-<!ENTITY calendar.context.newserver.accesskey          "N">
+<!ENTITY calendar.context.newserver.accesskey          "ა">
 <!ENTITY calendar.context.findcalendar.label           "კალენდრის პოვნა…" >
-<!ENTITY calendar.context.findcalendar.accesskey       "F" >
+<!ENTITY calendar.context.findcalendar.accesskey       "პ" >
 <!ENTITY calendar.context.deleteserver2.label          "კალენდრის წაშლა…">
 <!ENTITY calendar.context.deleteserver2.accesskey      "წ">
 
@@ -279,13 +280,13 @@
 <!ENTITY calendar.context.unsubscribeserver.label      "კალენდრის გამოწერის გაუქმება…">
 <!ENTITY calendar.context.unsubscribeserver.accesskey  "უ">
 <!ENTITY calendar.context.synccalendars.label          "კალენდრების სინქრონიზაცია">
-<!ENTITY calendar.context.synccalendars.accesskey      "S">
+<!ENTITY calendar.context.synccalendars.accesskey      "ქ">
 <!ENTITY calendar.context.publish.label                "კალენდრის გამოქვეყნება">
-<!ENTITY calendar.context.publish.accesskey            "b">
-<!ENTITY calendar.context.export.label                 "კალენდრის ექსპორტი…">
-<!ENTITY calendar.context.export.accesskey             "E">
+<!ENTITY calendar.context.publish.accesskey            "ყ">
+<!ENTITY calendar.context.export.label                 "კალენდრის გადატანა…">
+<!ENTITY calendar.context.export.accesskey             "ტ">
 <!ENTITY calendar.context.properties.label             "პარამეტრები">
-<!ENTITY calendar.context.properties.accesskey         "P">
+<!ENTITY calendar.context.properties.accesskey         "პ">
 
 <!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
@@ -302,12 +303,12 @@
 <!ENTITY calendar.context.showall.accesskey            "ყ">
 
 <!ENTITY calendar.context.convertmenu.label              "გარდაქმნა -">
-<!ENTITY calendar.context.convertmenu.accesskey.mail     "n">
-<!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
+<!ENTITY calendar.context.convertmenu.accesskey.mail     "რ">
+<!ENTITY calendar.context.convertmenu.accesskey.calendar "ი">
 <!ENTITY calendar.context.convertmenu.event.label        "ღონისძიება…">
 <!ENTITY calendar.context.convertmenu.event.accesskey    "ღ">
 <!ENTITY calendar.context.convertmenu.message.label      "გზავნილი…">
-<!ENTITY calendar.context.convertmenu.message.accesskey  "M">
+<!ENTITY calendar.context.convertmenu.message.accesskey  "ზ">
 <!ENTITY calendar.context.convertmenu.task.label         "დავალება…">
 <!ENTITY calendar.context.convertmenu.task.accesskey     "ც">
 
