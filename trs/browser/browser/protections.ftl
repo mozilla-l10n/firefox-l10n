@@ -35,6 +35,11 @@ graph-today = Gui hìaj
 graph-legend-description = Riña grafikâ nan 'na' daran' nej sa naga'naj narán riña da'hua ngè semanâ nan.
 social-tab-title = Nej sa naga'naj riña nej rêd sociâl
 social-tab-contant = Da' gini'in nej rêd sosiâl nej sa 'iát ni sa ni'iajt riña lînia ni a'nïn sa naga'naj sò' riña a'nô da'aj nej sîtio. Huê na rugûñun'un da' gini'in nej dukua si sun nej rêd sosiâl nùj huin si hua doj 'iát nga aché nunt. <a data-l10n-name="learn-more-link">Gahuin chrun doj</a>
+cookie-tab-title = Nej kokî nikò' riña nej sîtio
+cookie-tab-content = Nej kokî nan ni nikò' nej man sò' danè' nanj gahuin huajt da' gini'in sa 'iát. Sa a'nïn guì ânej e huin, dà' rû' guì du'uèj e asi nej sû' nariñu sa aran' ruhuô'. Si naránt riña nej kokî nan ni si gurugui' nìko nej anûnsio gini'iajt. <a data-l10n-name="learn-more-link">Gahuin chrun doj</a>
+tracker-tab-title = Sa nikò' nej kontenîdo
+tracker-tab-content = Ga'ue nadigân nej sitiô nan nej anûnsio, sa siki' ni'io' así a'ngô sa nikaj 'ngo da'nga' nikò' ñù'. Si naránt riña da'nga' nikò' sò' ni rugûñu'un da' nayi'nin hìo doj riña si pajinât sani ga'ue sisi hua da'aj nej butûn asi a'ngô ngà' sa huaa si gi'iaj sun hue'ê. <a data-l10n-name="learn-more-link">Gahuin chrun doj</a>
+fingerprinter-tab-title = Nej da'nga ra'a
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

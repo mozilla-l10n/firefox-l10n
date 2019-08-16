@@ -70,6 +70,12 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Butûn narûn'
     .title = Narûn'
 
+## Protections panel
+
+cfr-protections-panel-header = Gache nun ni a'ngo sa si ganikò' sò'.
+cfr-protections-panel-body = Na'nïnj sà' si nuguàn't guendâ man'ânt. { -brand-short-name } Naran rayi'ît riña nej sa naga'naj sa 'iát nga aché nunt.
+cfr-protections-panel-link-text = Gahuin chrūn doj
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =

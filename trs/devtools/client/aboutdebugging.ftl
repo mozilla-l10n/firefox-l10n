@@ -263,6 +263,15 @@ about-debugging-extension-id =
 about-debugging-worker-action-push = Push
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = Gayi'ì
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Note this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push2 = Guru'man ra'a
+    .disabledTitle = Sa ru'man Service Worker nitaj si 'iaj sunj akuan' nïn guendâ multiprosêso { -brand-shorter-name }
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start2 = Gayi'ì
+    .disabledTitle = Sa gayi'ì Service Worker nitaj si 'iaj sunj guendâ multiprosêso { -brand-shorter-name }
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Guxun' si yugui ma
 # Displayed for service workers in runtime pages that listen to Fetch events.
