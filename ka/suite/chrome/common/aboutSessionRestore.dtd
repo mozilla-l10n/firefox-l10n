@@ -6,7 +6,7 @@
 <!ENTITY restorepage.pagetitle      "გნებავთ თქვენი სეანსის აღდგენა?">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "&brandShortName; პროგრამის თქვენი წინა სეანსი მოულოდნელად დაიხურა. გულწრფელად ვწუხვართ. შეგიძლიათ წინა სეანსის სარკმლებისა და დაფების აღდგენა ან ახალი სეანსის დაწყება თუ ისინი აღარ გჭირდებათ.">
+<!ENTITY restorepage.issueDesc      "&brandShortName; პროგრამის თქვენი წინა სეანსი მოულოდნელად დაიხურა. გულწრფელად ვწუხვართ. შეგიძლიათ წინა სეანსის სარკმლებისა და ჩანართების აღდგენა ან ახალი სეანსის დაწყება თუ ისინი აღარ გჭირდებათ.">
 <!ENTITY restorepage.remedies       "თუ &brandShortName; პროგრამა რეგულარულად იხურება:">
 <!ENTITY restorepage.dueToChrome    "სცადეთ ბოლოს დამატებული გაფართოებების ამორთვა დამატებების მმართველიდან.">
 <!ENTITY restorepage.dueToContent   "სცადეთ აღადგინოთ საეჭვო ვებსაიტების გარეშე:">
@@ -17,6 +17,6 @@
 <!ENTITY restorepage.cancel.access  "S">
 
 <!ENTITY restorepage.restoreHeader  "აღდგენა">
-<!ENTITY restorepage.listHeader     "სარკმლები და დაფები">
+<!ENTITY restorepage.listHeader     "სარკმლები და ჩანართები">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "სარკმელი &#37;S">

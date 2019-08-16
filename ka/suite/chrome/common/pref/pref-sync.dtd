@@ -5,7 +5,7 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "გამართეთ &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; თქვენი ისტორიის, სანიშნების, პაროლების და გახსნილი დაფების ყველა მოწყობილობიდან წვდომის საშუალებას გაძლევთ.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; თქვენი ისტორიის, სანიშნების, პაროლების და გახსნილი ჩანართების ყველა მოწყობილობიდან წვდომის საშუალებას გაძლევთ.">
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; ანგარიში">
@@ -42,8 +42,8 @@
 <!ENTITY engine.addons.accesskey    "A">
 <!ENTITY engine.bookmarks.label     "სანიშნები">
 <!ENTITY engine.bookmarks.accesskey "B">
-<!ENTITY engine.tabs.label          "დაფები">
-<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.tabs.label          "ჩანართები">
+<!ENTITY engine.tabs.accesskey      "თ">
 <!ENTITY engine.history.label       "ისტორია">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "პაროლები">

@@ -8,7 +8,7 @@
 <!ENTITY navRadio.accesskey             "n">
 <!ENTITY navStartPageMenu.label         "ნავიგატორის სეანსის დაწყება">
 <!ENTITY newWinPageMenu.label           "ახალ სარკმელში">
-<!ENTITY newTabPageMenu.label           "ახალ დაფაზე">
+<!ENTITY newTabPageMenu.label           "ახალ ჩანართიზე">
 
 <!ENTITY blankPageRadio.label           "სუფთა გვერდით">
 <!ENTITY blankPageRadio.accesskey       "B">
@@ -20,15 +20,15 @@
 <!ENTITY restoreSessionRadio.accesskey  "P">
 
 <!ENTITY restoreSessionIntro.label      "სეანსებისა და სარკმლების აღდგენისას">
-<!ENTITY restoreImmediately.label       "ყველა დაფის დაუყოვნებლივ აღდგენა">
+<!ENTITY restoreImmediately.label       "ყველა ჩანართის დაუყოვნებლივ აღდგენა">
 <!ENTITY restoreImmediately.accesskey   "e">
 <!-- LOCALIZATION NOTE (restoreTabs.label): This will concatenate to
      "Restore [___] tab(s) at a time",
      using (restoreTabs.label) and a number (restoreTabsAtATime.label). -->
 <!ENTITY restoreTabs.label              "აღდგენა">
-<!ENTITY restoreTabs.accesskey          "s">
-<!ENTITY restoreTabsAtATime.label       "დაფა ერთ ჯერზე">
-<!ENTITY restoreDeferred.label          "დაფების აღდგენა მხოლოდ მოთხოვნისას">
+<!ENTITY restoreTabs.accesskey          "ღ">
+<!ENTITY restoreTabsAtATime.label       "ჩანართი ერთ ჯერზე">
+<!ENTITY restoreDeferred.label          "ჩანართების აღდგენა მხოლოდ მოთხოვნისას">
 <!ENTITY restoreDeferred.accesskey      "O">
 
 <!ENTITY homePageIntro.label            "თავფურცლის ღილაკზე დაჭერა ამ გვერდზე ან გვერდთა ჯგუფზე გადაგიყვანთ:">

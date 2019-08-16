@@ -2,31 +2,31 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sidebar.panels.label           "სტენდი">
+<!ENTITY sidebar.panels.label           "გვერდითი ზოლი">
 <!ENTITY sidebar.reload.label           "განახლება">
 <!ENTITY sidebar.reload.accesskey       "R">
-<!ENTITY sidebar.picker.label           "დაფები">
+<!ENTITY sidebar.picker.label           "ჩანართები">
 <!ENTITY sidebar.customize.label        "გვერდითი ზოლის მორგება…">
 <!ENTITY sidebar.customize.accesskey    "გ">
-<!ENTITY sidebar.hide.label             "დაფის დამალვა">
+<!ENTITY sidebar.hide.label             "ჩანართის დამალვა">
 <!ENTITY sidebar.hide.accesskey         "H">
-<!ENTITY sidebar.switch.label           "დაფაზე გადართვა">
+<!ENTITY sidebar.switch.label           "ჩანართზე გადართვა">
 <!ENTITY sidebar.switch.accesskey       "T">
-<!ENTITY sidebarCmd.label               "სტენდი">
+<!ENTITY sidebarCmd.label               "გვერდითი ზოლი">
 <!ENTITY sidebarCmd.accesskey           "b">
 <!ENTITY sidebar.loading.label          "ჩატვირთვა…">
 <!ENTITY sidebar.loadstopped.label      "ჩატვირთვა შეჩერებულია">
 <!ENTITY sidebar.loading.stop.label     "შეჩერება">
 <!ENTITY sidebar.loading.stop.accesskey "S">
 
-<!ENTITY sidebar.no-panels.state     "სტენდი ამჟამად ცარიელია.">
-<!ENTITY sidebar.no-panels.add       'დაფების დამატება შეგიძლიათ „დაფების“ ღილაკზე დაწკაპებით.'>
+<!ENTITY sidebar.no-panels.state     "გვერდითი ზოლი ამჟამად ცარიელია.">
+<!ENTITY sidebar.no-panels.add       'ჩანართების დამატება შეგიძლიათ „ჩანართების“ ღილაკზე დაწკაპებით.'>
 <!ENTITY sidebar.no-panels.hide      'თუ გვერდითი ზოლის სრულად დამალვა გსურთ, მენიუში დაწკაპეთ „ჩვენება“ და აირჩიეთ „გვერდითი ზოლი“ ქვემენიუში „ჩვენება/დამალვა“.'>
-<!ENTITY sidebar.sbDirectory.label   "სტენდის საქაღალდე…">
+<!ENTITY sidebar.sbDirectory.label   "გვერდითი ზოლის საქაღალდე…">
 
-<!ENTITY sidebar.pagenotfound.label  "ეს დაფა ამჟამად ვერ გამოიყენება.">
-<!ENTITY sidebar.close.tooltip       "სტენდის დახურვა">
-<!ENTITY sidebar.open.tooltip        "სტენდის გახსნა">
+<!ENTITY sidebar.pagenotfound.label  "ეს ჩანართი ამჟამად ვერ გამოიყენება.">
+<!ENTITY sidebar.close.tooltip       "გვერდითი ზოლის დახურვა">
+<!ENTITY sidebar.open.tooltip        "გვერდითი ზოლის გახსნა">
 
 <!ENTITY sidebar.search.label         "ძიება">
 <!ENTITY sidebar.client-bookmarks.label     "სანიშნები">

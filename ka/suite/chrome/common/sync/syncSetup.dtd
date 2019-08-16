@@ -89,7 +89,7 @@
 <!ENTITY engine.addons.accesskey    "A">
 <!ENTITY engine.bookmarks.label     "სანიშნები">
 <!ENTITY engine.bookmarks.accesskey "B">
-<!ENTITY engine.tabs.label          "დაფები">
+<!ENTITY engine.tabs.label          "ჩანართები">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "ისტორია">
 <!ENTITY engine.history.accesskey   "r">

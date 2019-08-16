@@ -3,20 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  untitledTab            "(უსათაურო)">
-<!ENTITY  newTab.label           "ახალი დაფა">
-<!ENTITY  newTab.accesskey       "N">
-<!ENTITY  closeTab.label         "დაფის დახურვა">
-<!ENTITY  closeTab.accesskey         "C">
-<!ENTITY  closeOtherTabs.label   "სხვა დაფების დახურვა">
-<!ENTITY  closeOtherTabs.accesskey         "O">
-<!ENTITY  reloadAllTabs.label    "ყველა დაფის განახლება">
-<!ENTITY  reloadAllTabs.accesskey         "A">
-<!ENTITY  reloadTab.label        "დაფის განახლება">
-<!ENTITY  reloadTab.accesskey         "R">
-<!ENTITY  bookmarkGroup.label    "ამ დაფების ჯგუფის ჩანიშვნა">
+<!ENTITY  newTab.label           "ახალი ჩანართი">
+<!ENTITY  newTab.accesskey       "ა">
+<!ENTITY  closeTab.label         "ჩანართის დახურვა">
+<!ENTITY  closeTab.accesskey         "დ">
+<!ENTITY  closeOtherTabs.label   "სხვა ჩანართების დახურვა">
+<!ENTITY  closeOtherTabs.accesskey         "ვ">
+<!ENTITY  reloadAllTabs.label    "ყველა ჩანართის განახლება">
+<!ENTITY  reloadAllTabs.accesskey         "ყ">
+<!ENTITY  reloadTab.label        "ჩანართის განახლება">
+<!ENTITY  reloadTab.accesskey         "გ">
+<!ENTITY  bookmarkGroup.label    "ამ ჩანართების ჯგუფის ჩანიშვნა">
 <!ENTITY  bookmarkGroup.accesskey  "B">
-<!ENTITY  closeTabButton.tooltip   "მიმდინარე დაფის დახურვა">
-<!ENTITY  newTabButton.tooltip   "ახალი დაფის გახსნა">
-<!ENTITY  listAllTabs.tooltip    "ყველა დაფის სია">
-<!ENTITY  undoCloseTab.label    "დახურული დაფის დაბრუნება">
-<!ENTITY  undoCloseTab.accesskey  "U">
+<!ENTITY  closeTabButton.tooltip   "მიმდინარე ჩანართის დახურვა">
+<!ENTITY  newTabButton.tooltip   "ახალი ჩანართის გახსნა">
+<!ENTITY  listAllTabs.tooltip    "ყველა ჩანართის სია">
+<!ENTITY  undoCloseTab.label    "დახურული ჩანართის დაბრუნება">
+<!ENTITY  undoCloseTab.accesskey  "დ">
