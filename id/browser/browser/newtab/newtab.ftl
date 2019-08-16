@@ -164,6 +164,8 @@ newtab-empty-section-topstories = Maaf Anda tercegat. Periksa lagi nanti untuk l
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-try-again-button = Coba Lagi
+newtab-discovery-empty-section-topstories-loading = Memuat…
 
 ## Pocket Content Section.
 
