@@ -48,7 +48,7 @@
 <!ENTITY cmd.open.accesskey              "O">
 <!ENTITY cmd.open_window.label           "Otvoriť v novom okne">
 <!ENTITY cmd.open_window.accesskey       "m">
-<!ENTITY cmd.open_private_window.label     "Otvoriť v novom okne režimu Súkromné prehliadanie">
+<!ENTITY cmd.open_private_window.label     "Otvoriť v novom súkromnom okne">
 <!ENTITY cmd.open_private_window.accesskey "s">
 <!ENTITY cmd.open_tab.label              "Otvoriť na novej karte">
 <!ENTITY cmd.open_tab.accesskey          "v">
@@ -70,15 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Nový oddeľovač">
 <!ENTITY cmd.new_separator.accesskey       "d">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Obnoviť aktívnu záložku">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "a">
-
 <!ENTITY col.name.label          "Názov">
 <!ENTITY col.tags.label          "Značky">
 <!ENTITY col.url.label           "Adresa">
 <!ENTITY col.mostrecentvisit.label "Dátum poslednej návštevy">
 <!ENTITY col.visitcount.label    "Počet návštev">
-<!ENTITY col.description.label   "Popis">
 <!ENTITY col.dateadded.label     "Pridané">
 <!ENTITY col.lastmodified.label  "Posledná úprava">
 
@@ -95,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "Prejsť dopredu">
 
-<!ENTITY detailsPane.more.label "Viac">
-<!ENTITY detailsPane.more.accesskey "V">
-<!ENTITY detailsPane.less.label "Menej">
-<!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "Vyberte položku, ktorej vlastnosti chcete zobraziť alebo upraviť">
 
 <!ENTITY view.label               "Zobraziť">

@@ -75,7 +75,7 @@ newtab-menu-topsites-placeholder-tooltip =
 
 newtab-menu-edit-topsites = Upraviť
 newtab-menu-open-new-window = Otvoriť v novom okne
-newtab-menu-open-new-private-window = Otvoriť v novom okne režimu Súkromné prehliadanie
+newtab-menu-open-new-private-window = Otvoriť v novom súkromnom okne
 newtab-menu-dismiss = Skryť
 newtab-menu-pin = Pripnúť
 newtab-menu-unpin = Odopnúť
