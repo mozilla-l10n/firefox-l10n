@@ -69,7 +69,6 @@
 <!ENTITY  sending_crash_report "క్రాష్ నివేదికను పంపిస్తున్నాం\u2026">
 <!ENTITY  crash_close_label "మూసివేయి">
 <!ENTITY  crash_restart_label "&brandShortName; పునఃప్రారంభించు">
-
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; క్రాష్">
@@ -117,7 +116,6 @@
 <!ENTITY bookmark_folder_updated "సంచయం నవీకరించబడింది">
 <!ENTITY bookmark_parent_folder "మాతృ సంచయం">
 <!ENTITY bookmark_add_folder "కొత్త సంచికను జోడించు">
-
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
 <!ENTITY bookmark_default_folder_title "(శీర్షిక లేదు)">
@@ -280,6 +278,7 @@
 <!ENTITY pref_cookies_menu "కుకీలు">
 <!ENTITY pref_cookies_accept_all "చేతనం">
 <!ENTITY pref_cookies_not_accept_foreign "చేతనం, 3వ పక్షం మినహాయించి">
+<!ENTITY pref_cookies_not_accept_trackers "చేతనం, ట్రాకింగు కుకీలను మినహాయించి">
 <!ENTITY pref_cookies_disabled "అచేతనం">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -340,11 +339,6 @@
 
 <!ENTITY pref_pwa "ప్రగతిశీల వెబ్ ఆప్స్">
 <!ENTITY pref_pwa_summary "ముందు తెరకు జోడించడం కోసం వెబ్ ఆప్స్‌ని అనుమతించండి">
-
-<!ENTITY tracking_protection_prompt_title "ఇప్పుడు ట్రాకింగ్ సంరక్షణతో ఉన్నది">
-<!ENTITY tracking_protection_prompt_text "కాబట్టి మీరు ఆందోళన చెందనవసరం లేదు చురుకుగా ట్రాకింగ్ అంశాలు బ్లాక్ చేయండి.">
-<!ENTITY tracking_protection_prompt_tip_text "మరింత తెలుసుకోవడానికి అంతరంగిక అమరికలు చూడండి">
-<!ENTITY tracking_protection_prompt_action_button "అర్థమయింది!">
 
 <!ENTITY tab_queue_toast_message3 "&brandShortName;‌లో ట్యాబు భద్రమయింది">
 <!ENTITY tab_queue_toast_action "ఇప్పుడే తెరువు">
@@ -431,7 +425,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "&amp; బ్రౌజర్ అనువర్తనాన్ని నొక్కండి &brandShortName;ను ఎంచుకోండి">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla తోడ్పాటును చూడండి">
 <!ENTITY pref_about_firefox "&brandShortName; గురించి">
 <!ENTITY pref_vendor_faqs "సందేహాలు">
 <!ENTITY pref_vendor_feedback "అభిప్రాయాన్ని తెలియజేయండి">
@@ -692,7 +685,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "ఒక శబ్దాన్ని ఎంచండి లేదా రికార్డ్ చేయండి">
 <!ENTITY filepicker_image_title "ఒక చిత్రాన్ని ఎంచండి లేదా తీయండి">
 <!ENTITY filepicker_video_title "ఒక విడియోను ఎంచండి లేదా రికార్డు చేయండి">
-
 <!ENTITY filepicker_permission_denied "అవసరమైన అనుమతులు మంజూరు చేయబడలేదు, సిస్టమ్ ఫైల్ పికర్‌కు తిరిగి మార్చబడతాయి.">
 
 <!-- Site identity popup -->
