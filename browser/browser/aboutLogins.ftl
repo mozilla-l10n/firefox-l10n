@@ -127,3 +127,5 @@ confirm-discard-changes-dialog-confirm-button = Dileu
 
 breach-alert-text = Cafodd cyfrineiriau eu ryddhau neu eu dwyn o'r wefan hon ers i chi ddiweddaru'ch manylion mewngofnodi ddiwethaf. Newid eich cyfrinair i ddiogelu eich cyfrif.
 breach-alert-link = Dysgu rhagor am y tor-data hwn.
+breach-alert-dismiss =
+    .title = Diffodd y rhybudd

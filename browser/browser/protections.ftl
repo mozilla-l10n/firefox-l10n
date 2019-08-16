@@ -71,6 +71,7 @@ lockwise-passwords-stored =
     }
 turn-on-sync = Cychwyn { -sync-brand-short-name }…
     .title = Mynd i ddewisiadau cydweddu
+manage-devices = Rheoli dyfeisiau
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
 lockwise-sync-status =
