@@ -70,6 +70,11 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Button Clauder
     .title = Clauder
 
+## Protections panel
+
+cfr-protections-panel-header = Naviga sin lassar te sequer
+cfr-protections-panel-link-text = Saper plus
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
