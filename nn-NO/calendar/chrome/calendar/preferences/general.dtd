@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.mainbox.label "Generelle innstillingar" >
+
 <!ENTITY pref.dateformat.label "Datoformat:" >
 <!ENTITY pref.dateformat.accesskey "D">
 <!ENTITY pref.dateformat.long "Lang" >
@@ -24,6 +25,9 @@
 <!ENTITY pref.default_event_length.label "Standard lengde:" >
 <!ENTITY pref.default_event_length.accesskey "S">
 
+<!ENTITY pref.default_event_task_length.label "Standardlengde for hendingar og oppgåver">
+<!ENTITY pref.default_event_task_length.accesskey "h">
+
 <!ENTITY pref.default_task_none.label "Ingen">
 <!ENTITY pref.default_task_start_of_day.label "Starten på dagen">
 <!ENTITY pref.default_task_end_of_day.label "Slutten på dagen">
@@ -34,9 +38,6 @@
 <!ENTITY pref.default_task_offset_next_hour.label "I høve til neste time">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "I dag-ruta">
-<!ENTITY pref.soondays.label "Komande seksjon viser:">
-<!ENTITY pref.soondays.accesskey "K">
-
 <!-- LOCALIZATION NOTE (pref.soondays2.label):
      "Upcoming" is the name of a section and the translation must match the
      translation of that section name (calendar.upcoming.button.label). Also,
