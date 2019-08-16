@@ -59,6 +59,7 @@ lockwise-passwords-stored =
     }
 turn-on-sync = ჩართეთ { -sync-brand-short-name }…
     .title = იხილეთ სინქრონიზაციის პარამეტრები
+manage-devices = მოწყობილობების მართვა
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
 lockwise-sync-status =
