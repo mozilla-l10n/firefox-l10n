@@ -72,6 +72,14 @@ info-known-breaches =
         [one] Tz'ilanem tzij etaman ruwäch, xuk'üt ri awetamab'al.
        *[other] Taq tz'ilanem tzij etaman kiwäch, xkik'üt ri awetamab'al.
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords =
+    { $count ->
+        [one] Ewan tzij xk'ut chi kikojol ri taq tz'ilanem.
+       *[other] Ewan taq tzij xek'ut chi kikojol ri taq tz'ilanem.
+    }
 full-report-link = Titz'et chijun rutzijol pa <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = Jät pa Runuk'ulem Ichinanem
@@ -85,6 +93,34 @@ go-to-saved-logins = Jät pan Kitikirib'al Molojri'ïl Eyakon
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Ojqanela' aj Winäq K'amab'ey
+    .aria-label =
+        { $count ->
+            [one] { $count } ojqanel aj winäq k'amab'ey ({ $percentage }%)
+           *[other] { $count } ojqanela' aj winäq k'amab'ey ({ $percentage }%)
+        }
+bar-tooltip-cookie =
+    .title = Kikuki Rojqanela' Xoch'in taq Ruxaq
+    .aria-label =
+        { $count ->
+            [one] { $count } rukuki rojqanel' xoch'in taq ruxaq ({ $percentage }%)
+           *[other] { $count } kikuki rojqanela' xoch'in taq ruxaq ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = Rojqanem Rupam
+    .aria-label =
+        { $count ->
+            [one] { $count } rojqanem rupam({ $percentage }%)
+           *[other] { $count } rojqanem rupam({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Ketal ruwi' q'ab'aj
+    .aria-label =
+        { $count ->
+            [one] { $count } retal ruwi' q'ab'aj ({ $percentage }%)
+           *[other] { $count } Ketal ruwi' q'ab'aj ({ $percentage }%)
+        }
 bar-tooltip-cryptominer =
     .title = Cryptominers
     .aria-label =
