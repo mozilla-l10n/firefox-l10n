@@ -40,6 +40,7 @@ login-list-last-changed-option = Τελευταία αλλαγή
 login-list-last-used-option = Τελευταία χρήση
 login-list-intro-title = Δεν βρέθηκαν συνδέσεις
 login-list-item-title-new-login = Νέα σύνδεση
+login-list-item-subtitle-new-login = Εισαγάγετε τα διαπιστευτήριά σας
 login-list-item-subtitle-missing-username = (χωρίς όνομα χρήστη)
 
 ## Introduction screen
@@ -62,6 +63,8 @@ login-item-copied-username-button-text = Αντιγράφηκε!
 login-item-password-label = Κωδικός πρόσβασης
 login-item-password-reveal-checkbox-show =
     .title = Εμφάνιση κωδικού πρόσβασης
+login-item-password-reveal-checkbox-hide =
+    .title = Απόκρυψη συνθηματικού
 login-item-copy-password-button-text = Αντιγραφή
 login-item-copied-password-button-text = Αντιγράφηκε!
 login-item-save-changes-button = Αποθήκευση αλλαγών
@@ -91,3 +94,6 @@ confirm-discard-changes-dialog-confirm-button = Απόρριψη
 
 ## Breach Alert notification
 
+breach-alert-link = Μάθετε περισσότερα σχετικά με αυτή την παραβίαση
+breach-alert-dismiss =
+    .title = Κλείσιμο αυτής της ειδοποίησης

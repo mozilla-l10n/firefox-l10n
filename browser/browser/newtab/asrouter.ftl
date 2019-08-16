@@ -70,6 +70,10 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Κουμπί κλεισίματος
     .title = Κλείσιμο
 
+## Protections panel
+
+cfr-protections-panel-link-text = Μάθετε περισσότερα
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
@@ -84,6 +88,8 @@ cfr-doorhanger-sync-bookmarks-ok-button = Ενεργοποίηση { -sync-brand
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Διαβάστε το εν κινήσει
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Μοιραστείτε αυτό το PDF με ασφάλεια
