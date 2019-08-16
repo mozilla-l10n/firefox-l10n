@@ -69,6 +69,10 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = כפתור סגירה
     .title = סגירה
 
+## Protections panel
+
+cfr-protections-panel-link-text = מידע נוסף
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
