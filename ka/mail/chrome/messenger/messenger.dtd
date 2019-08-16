@@ -8,7 +8,7 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "საქაღალდე…">
 <!ENTITY newFolderCmd.accesskey "ქ">
-<!ENTITY closeTabCmd2.label "დაფის დახურვა">
+<!ENTITY closeTabCmd2.label "ჩანართის დახურვა">
 <!ENTITY closeTabCmd2.accesskey "ხ">
 <!ENTITY closeOtherTabsCmd2.label "სხვა დაფების დახურვა">
 <!ENTITY closeOtherTabsCmd2.accesskey "ვ">
@@ -170,7 +170,7 @@
 <!ENTITY recentFolders.accesskey "ბ">
 <!ENTITY compactVersion.label "შემჭიდროებული ჩვენება">
 <!ENTITY compactVersion.accesskey "შ">
-<!ENTITY folderPaneBar.label "საქაღალდის დაფის ხელსაწყოები">
+<!ENTITY folderPaneBar.label "ხელსაწყოები საქაღალდის არეში">
 <!ENTITY folderPaneBar.accesskey "ს">
 
 <!-- Sort Menu -->
@@ -601,7 +601,7 @@
 <!ENTITY junkButton.tooltip "შერჩეული წერილების ჯართად მონიშვნა">
 <!ENTITY notJunkButton.tooltip "შერჩეული წერილების გამოსადეგად ჩათვლა">
 <!ENTITY addressBookButton.tooltip "წიგნაკზე გადასვლა">
-<!ENTITY chatButton.tooltip "სასაუბრო დაფის ჩვენება">
+<!ENTITY chatButton.tooltip "სასაუბრო არეს ჩვენება">
 <!ENTITY tagButton.tooltip "წერილების დაჭდევება">
 <!ENTITY compactButton.tooltip "წაშლილი წერილების მოცილება შერჩეული საქაღალდიდან">
 <!ENTITY appmenuButton1.tooltip "&brandShortName; მენიუს ჩვენება">
@@ -656,7 +656,7 @@
 <!ENTITY folderContextPauseUpdates.accesskey "გ">
 <!ENTITY folderContextOpenInNewWindow.label "გახსნა ახალ ფანჯარაში">
 <!ENTITY folderContextOpenInNewWindow.accesskey "ხ">
-<!ENTITY folderContextOpenNewTab.label "გახსნა ახალ დაფაზე">
+<!ENTITY folderContextOpenNewTab.label "გახსნა ახალ ჩანართში">
 <!ENTITY folderContextOpenNewTab.accesskey "ლ">
 <!ENTITY folderContextNew.label "ახალი ქვესაქაღალდე…">
 <!ENTITY folderContextNew.accesskey "ქ">
@@ -758,7 +758,7 @@
      cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
      now, both menu items can't be visible at the same time, but should someone
      enable copy/paste of message, this key would probably need to be changed. -->
-<!ENTITY contextOpenNewTab.label "წერილის ახალ დაფაზე გახსნა">
+<!ENTITY contextOpenNewTab.label "წერილის ახალ ჩანართში გახსნა">
 <!ENTITY contextOpenNewTab.accesskey "ხ">
 <!ENTITY contextOpenConversation.label "წერილის გახსნა განსახილველად">
 <!ENTITY contextOpenConversation.accesskey "ვ">

@@ -58,7 +58,7 @@
 <!ENTITY otherActionsOpenConversation1.accesskey "გ">
 <!ENTITY otherActionsOpenInNewWindow1.label "გახსნა ახალ სარკმელში">
 <!ENTITY otherActionsOpenInNewWindow1.accesskey "კ">
-<!ENTITY otherActionsOpenInNewTab1.label "გახსნა ახალ დაფაზე">
+<!ENTITY otherActionsOpenInNewTab1.label "გახსნა ახალ ჩანართში">
 <!ENTITY otherActionsOpenInNewTab1.accesskey "ხ">
 <!ENTITY markAsReadMenuItem1.label "მონიშვნა წაკითხულად">
 <!ENTITY markAsReadMenuItem1.accesskey "თ">
