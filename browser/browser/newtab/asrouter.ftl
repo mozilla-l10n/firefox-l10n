@@ -100,3 +100,9 @@ cfr-doorhanger-firefox-send-header = Condividi questo PDF in modo sicuro
 cfr-doorhanger-firefox-send-body = Mantieni i tuoi documenti riservati al sicuro con crittografia end-to-end e un link che scompare automaticamente dopo l’utilizzo.
 cfr-doorhanger-firefox-send-ok-button = Prova { -send-brand-name }
   .accesskey = P
+
+## Protections panel
+
+cfr-protections-panel-header = Naviga senza lasciarti seguire
+cfr-protections-panel-body = Mantieni i tuoi dati al riparo da occhi indiscreti. { -brand-short-name } ti protegge dagli elementi traccianti più comuni che cercano di seguire le tue attività online.
+cfr-protections-panel-link-text = Ulteriori informazioni
