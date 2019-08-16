@@ -817,6 +817,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionNotSecureSecurityView "Votre connexion à ce site n’est pas sécurisée.">
 <!ENTITY identity.connectionFile "Cette page est stockée sur votre ordinateur.">
 <!ENTITY identity.connectionVerified2 "Votre connexion à ce site est sécurisée. Son détenteur est :">
+<!ENTITY identity.connectionVerified3 "Votre connexion à ce site est sécurisée.">
 <!ENTITY identity.connectionInternal "Cette page de &brandShortName; est sécurisée.">
 <!ENTITY identity.extensionPage "Cette page a été chargée depuis une extension.">
 <!ENTITY identity.insecureLoginForms2 "Les identifiants saisis sur cette page pourraient être compromis.">
@@ -947,6 +948,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.label "Gérer le blocage de contenu">
 
 
+<!ENTITY contentBlocking.manageSettings2.label "Gérer les paramètres de protection">
 <!ENTITY contentBlocking.manageSettings.accesskey "G">
 
 <!ENTITY contentBlocking.trackersView.label "Traqueurs">
