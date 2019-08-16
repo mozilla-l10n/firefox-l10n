@@ -122,3 +122,5 @@ confirm-discard-changes-dialog-confirm-button = Loại bỏ
 
 breach-alert-text = Mật khẩu đã bị rò rỉ hoặc đánh cắp từ trang web này kể từ lần cuối bạn cập nhật chi tiết đăng nhập. Thay đổi mật khẩu của bạn để bảo vệ tài khoản của bạn.
 breach-alert-link = Tìm hiểu thêm về rò rỉ này.
+breach-alert-dismiss =
+    .title = Đóng cảnh báo này
