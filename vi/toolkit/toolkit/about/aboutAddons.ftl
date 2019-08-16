@@ -250,6 +250,12 @@ shortcuts-modifier-other = Bao gồm Ctrl hoặc Alt
 shortcuts-invalid = Kết hợp không hợp lệ
 shortcuts-letter = Nhập một kí tự
 shortcuts-system = Không thể ghi đè một phím tắt { -brand-short-name }
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Phím tắt trùng lặp
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } đang được sử dụng làm phím tắt trong nhiều trường hợp. Phím tắt trùng lặp có thể gây ra hành vi bất ngờ.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on

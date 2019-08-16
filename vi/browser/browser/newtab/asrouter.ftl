@@ -68,6 +68,12 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Nút đóng
     .title = Đóng
 
+## Protections panel
+
+cfr-protections-panel-header = Duyệt mà không bị theo dõi
+cfr-protections-panel-body = Giữ dữ liệu của bạn cho chính mình. { -brand-short-name } bảo vệ bạn khỏi nhiều trình theo dõi phổ biến nhất theo dõi những gì bạn làm trực tuyến.
+cfr-protections-panel-link-text = Tìm hiểu thêm
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
