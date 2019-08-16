@@ -47,6 +47,9 @@ newtab-topsites-add-button = Tambah
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Yakin ingin menghapus setiap bagian dari laman ini dari riwayat Anda?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Tindakan ini tidak bisa diurungkan.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Markah
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Salin Tautan Unduhan
 newtab-menu-go-to-download-page = Buka Laman Unduhan
 newtab-menu-remove-download = Hapus dari Riwayat
@@ -109,11 +116,16 @@ newtab-menu-open-file = Buka Berkas
 
 newtab-label-visited = Dikunjungi
 newtab-label-bookmarked = Dimarkahi
+newtab-label-removed-bookmark = Markah dihapus
 newtab-label-recommended = Trending
 newtab-label-saved = Disimpan di { -pocket-brand-name }
 newtab-label-download = Terunduh
 
 ## Section Menu: These strings are displayed in the section context menu and are 
+## meant as a call to action for the given section.
+
+
+## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = Hapus Bagian
@@ -126,6 +138,13 @@ newtab-section-menu-add-search-engine = Tambahkan Mesin Pencari
 newtab-section-menu-move-up = Naikkan
 newtab-section-menu-move-down = Turunkan
 newtab-section-menu-privacy-notice = Kebijakan Privasi
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Ciutkan Bagian
+newtab-section-expand-section-label =
+    .aria-label = Bentangkan Bagian
 
 ## Section Headers.
 
@@ -142,6 +161,9 @@ newtab-empty-section-highlights = Mulai menjelajah, dan kami akan menampilkan be
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Maaf Anda tercegat. Periksa lagi nanti untuk lebih banyak cerita terbaik dari { $provider }. Tidak mau menunggu? Pilih topik populer untuk menemukan lebih banyak cerita hebat dari seluruh web.
+
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
 
 ## Pocket Content Section.
 

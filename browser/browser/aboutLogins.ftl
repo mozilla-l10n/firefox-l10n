@@ -57,6 +57,8 @@ confirmation-dialog-cancel-button = Batal
 confirmation-dialog-dismiss-button =
     .title = Batal
 confirm-delete-dialog-confirm-button = Hapus
+confirm-discard-changes-dialog-title = Buang perubahan yang belum disimpan?
+confirm-discard-changes-dialog-message = Semua perubahan yang belum disimpan akan hilang.
 
 ## Breach Alert notification
 
