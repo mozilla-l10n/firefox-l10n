@@ -250,6 +250,12 @@ shortcuts-modifier-other = Include Ctrl o Alt
 shortcuts-invalid = Combination non valide
 shortcuts-letter = Scribe un littera
 shortcuts-system = Impossibile supplantar un via breve de { -brand-short-name }
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Via breve de claviero duplicate
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } es usate como un via breve in plus de un caso. Le vias breve de claviero duplicate pote causar comportamento inaxpectate.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -371,3 +377,6 @@ release-notes-error = Pardono, ma il habeva un error cargante le notas de revisi
 addon-permissions-empty = Iste extension non require ulle permission
 recommended-extensions-heading = Extensiones recommendate
 recommended-themes-heading = Themas recommendate
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Senti te creative? <a data-l10n-name="link">Crea tu proprie thema con Firefox Color.</a>

@@ -77,6 +77,7 @@ about-telemetry-settings-explanation = Le telemetria collige { about-telemetry-d
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Cata pecia de information es inviate incorporate in “<a data-l10n-name="ping-link">pings</a>”. Tu reguarda al ping { $name }, { $timestamp }.
 about-telemetry-ping-details-current = Cata pecia de information es inviate incorporate in “<a data-l10n-name="ping-link">pings</a>“. Tu reguarda al ping currente.
+about-telemetry-data-details-current = Tote le informationes es inviate in pacchettos appellate “<a data-l10n-name="ping-link">pings</a>“. Tu visualisa le datos actual.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
