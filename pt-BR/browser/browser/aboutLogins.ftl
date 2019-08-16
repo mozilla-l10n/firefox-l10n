@@ -123,3 +123,5 @@ confirm-discard-changes-dialog-confirm-button = Descartar
 
 breach-alert-text = Senhas foram vazadas ou roubadas deste site desde a última vez que você atualizou seus detalhes de acesso. Mude a senha para proteger sua conta.
 breach-alert-link = Saiba mais sobre este vazamento.
+breach-alert-dismiss =
+    .title = Fechar este alerta
