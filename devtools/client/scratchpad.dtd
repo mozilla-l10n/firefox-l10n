@@ -91,7 +91,7 @@
 <!ENTITY display.key                  "l">
 
 <!ENTITY pprint.label                 "Embelezar">
-<!ENTITY pprint.key                   "E">
+<!ENTITY pprint.key                   "p">
 <!ENTITY pprint.accesskey             "P">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
