@@ -70,6 +70,11 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Botón de cierre
     .title = Cerrar
 
+## Protections panel
+
+cfr-protections-panel-header = Navega sin ser seguido
+cfr-protections-panel-link-text = Aprender más
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =

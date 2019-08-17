@@ -117,3 +117,5 @@ confirm-discard-changes-dialog-confirm-button = Descartar
 
 breach-alert-text = Se filtraron o robaron contraseñas de este sitio desde la última vez en que actualizaste tus datos de conexión. Cambia tu contraseña para proteger tu cuenta.
 breach-alert-link = Aprende más sobre esta filtración.
+breach-alert-dismiss =
+    .title = Cerrar esta alerta
