@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Contas e senhas
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = Tenha suas senhas em qualquer lugar
+login-app-promo-subtitle = Instale o aplicativo gratuito { -lockwise-brand-name }
+login-app-promo-android =
+    .alt = Instale a partir do Google Play
+login-app-promo-apple =
+    .alt = Baixe no App Store
 login-filter =
     .placeholder = Pesquisar contas
 create-login-button = Criar nova conta
