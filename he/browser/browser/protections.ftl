@@ -35,9 +35,25 @@ cryptominer-tab-title = כורי מטבעות דיגיטליים
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } מאחסן באופן מאובטח את הססמאות שלך בדפדפן.
 open-about-logins-button = פתיחה ב־{ -brand-short-name }
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+lockwise-passwords-stored =
+    { $count ->
+        [one] ססמאות מאוחסנות באופן מאובטח <a data-l10n-name="lockwise-how-it-works">איך זה עובד</a>
+       *[other] ססמאות מאוחסנות באופן מאובטח <a data-l10n-name="lockwise-how-it-works">איך זה עובד</a>
+    }
 turn-on-sync = הפעלת { -sync-brand-short-name }…
     .title = מעבר להעדפות סנכרון
 manage-devices = ניהול מכשירים
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-sync-status =
+    { $count ->
+        [one] בסנכרון עם מכשיר אחד נוסף
+       *[other] בסנכרון עם { $count } מכשירים נוספים
+    }
+lockwise-sync-not-syncing = לא בסנכרון עם מכשירים נוספים.
 monitor-link = איך זה עובד
 auto-scan = נסרק באופן אוטומטי היום
 # This is the title attribute describing the graph report's link to about:settings#privacy
