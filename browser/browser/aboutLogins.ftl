@@ -126,3 +126,5 @@ confirm-discard-changes-dialog-confirm-button = Zahodit
 
 breach-alert-text = U tohoto serveru došlo od vaší poslední změny přihlašovacích údajů k úniku dat. Pro ochranu vašeho účtu doporučujeme nastavit si nové heslo.
 breach-alert-link = Zjistit více o tomto úniku dat.
+breach-alert-dismiss =
+    .title = Zavřít toto upozornění

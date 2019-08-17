@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Výjimky z blokování obsahu
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Na následujících serverech jste vypnuli funkci blokování obsahu.
+permissions-exceptions-etp-window =
+    .title = Výjimky pro používání rozšířené ochrany proti sledování
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Pro tyto servery jste ochranu proti sledování vypnuli.
 
 ## Exceptions - Cookies
 

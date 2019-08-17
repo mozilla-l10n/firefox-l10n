@@ -137,6 +137,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Před zahájením synchronizace prosím ověřte svůj účet.">
 <!ENTITY fxa.unverified.button.label "Nastavení služby &syncBrand.shortName.label;…">
 
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -153,10 +154,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-<!ENTITY fxa.service.send.description "Sdílejte své soubory chráněné pomocí end-to-end šifrování a odkazů s omezenou platností.">
-<!ENTITY fxa.service.send.launch "Otevřít &sendShortName;">
-<!ENTITY fxa.service.monitor.description "Zkontrolujte, jestli vaše e-mailová adresa nebyla součástí nějakého úniku dat, a nechte se informovat, pokud se v nějakém objeví.">
-<!ENTITY fxa.service.monitor.launch "Otevřít &monitorShortName;">
 <!ENTITY fxa.service.sendTab.description "Pošle panel do jiného zařízení, na kterém jste přihlášeni.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -536,6 +533,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Vyhledat pomocí:">
+
+<!-- LOCALIZATION NOTE (searchWithDesc.label):
+     This string prompts the user to use the list of one-click search engines in
+     the Urlbar and searchbar. -->
+<!ENTITY searchWithDesc.label         "Vyhledat pomocí">
+
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -911,8 +914,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.description "Webové stránky mohou načítat externí reklamy, videa a další obsah, který obsahuje sledovací kód. Po uablokování sledujícího obsahu se stránky načítají rychleji, ale některá tlačítka nebo formuláře nemusí správně fungovat.">
 <!ENTITY protections.socialMediaTrackers.description "Sociální sítě umisťují na ostatní stránky sledovací prvky, pomocí kterých mohou sledovat, co na internetu sledujete. Tím získávají informace o vašich zájmech i bez toho, abyste na dané sítí něco sdíleli s ostatními.">
 
-<!ENTITY protections.manageProtectionSettings.label "Nastavení ochrany">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Ouška panelů">
@@ -949,20 +950,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Sledovací prvky">
 
+<!ENTITY contentBlocking.manageSettings.label "Nastavení blokování obsahu">
+
 <!ENTITY contentBlocking.trackingProtection4.label "Sledující obsah">
 
-<!ENTITY contentBlocking.manageSettings.label "Nastavení blokování obsahu">
+<!ENTITY contentBlocking.manageSettings2.label "Nastavení ochrany">
 <!ENTITY contentBlocking.manageSettings.accesskey "N">
 
 <!ENTITY contentBlocking.trackersView.label "Sledovací prvky">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Všechny sledovací prvky zablokuje úroveň „Přísné“.">
 
-<!ENTITY contentBlocking.socialblock.label "Sledovací prvky sociálních sítí">
-<!ENTITY contentBlocking.socialblockView.label "Blokované sledovací prvky sociálních sítí">
-<!ENTITY contentBlocking.socialblockView.description "Sociální sítě umisťují na ostatní stránky sledovací prvky, pomocí kterých mohou sledovat, co na internetu sledujete. Tím získávají informace o vašich zájmech i bez toho, abyste na dané sítí něco sdíleli s ostatními.">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Všechny sledovací prvky zablokuje úroveň „Přísné“.">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies a data stránek">
+
+<!ENTITY contentBlocking.socialblock.label "Sledovací prvky sociálních sítí">
+
+<!ENTITY contentBlocking.cookies2.label "Sledovací cookies">
 
 <!ENTITY contentBlocking.cryptominers.label "Těžba kryptoměn">
 <!ENTITY contentBlocking.cryptominersView.label "Těžba kryptoměn">
