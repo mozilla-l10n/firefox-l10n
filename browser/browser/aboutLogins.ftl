@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Přizjewjenja a hesła
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = Wzmiće swoje hesł wšudźe
+login-app-promo-subtitle = Wobstarajće sje darmotne nałoženje { -lockwise-brand-name }
+login-app-promo-android =
+    .alt = Wobstarajće sej jo wot Google Play
+login-app-promo-apple =
+    .alt = Sćehńće wot App Store
 login-filter =
     .placeholder = Přizjewjenja pytać
 create-login-button = Nowe přizjewjenje załožić
@@ -125,3 +134,5 @@ confirm-discard-changes-dialog-confirm-button = Zaćisnyć
 
 breach-alert-text = Hesła su so z tutoho websydła roznjesli abo kradnyli, wot toho, zo sće swoje přizjewjenske daty posledni raz zaktualizował. Změńće swoje hesło, zo byšće swoje konto škitał.
 breach-alert-link = Zhońće wjace wo tutej dźěrje.
+breach-alert-dismiss =
+    .title = Tute warnowanje začinić

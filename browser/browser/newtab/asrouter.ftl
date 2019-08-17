@@ -74,6 +74,11 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tłóčatko Začinić
     .title = Začinić
 
+## Protections panel
+
+cfr-protections-panel-header = Přehladujće bjez toho, zo by wam slědowało
+cfr-protections-panel-link-text = Dalše informacije
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
