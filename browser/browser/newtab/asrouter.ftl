@@ -72,6 +72,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
+cfr-protections-panel-header = Surf utan å bli følgd
 cfr-protections-panel-link-text = Les meir
 
 ## What's New toolbar button and panel
@@ -92,11 +93,13 @@ cfr-doorhanger-sync-bookmarks-ok-button = Slå på { -sync-brand-short-name }
 
 cfr-doorhanger-send-tab-header = Les dette medan du er påfarten
 cfr-doorhanger-send-tab-recipe-header = Ta denne oppskrifta med på kjøkkenet
+cfr-doorhanger-send-tab-body = Send fane lèt deg enkelt dele denne lenka til telefonen din eller kvar som helst du er logga inn på { -brand-product-name }.
 cfr-doorhanger-send-tab-ok-button = Prøv send fane
     .accesskey = P
 
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Del denne PDF-fila sikkert
+cfr-doorhanger-firefox-send-body = Hald dei sensitive dokumenta dine trygge mot nysgjerrige auge med ende-til-ende-kryptering og ei lenke som forsvinn når du er ferdig.
 cfr-doorhanger-firefox-send-ok-button = Prøv { -send-brand-name }
     .accesskey = P
