@@ -118,6 +118,7 @@ newtab-menu-open-file = Åbn fil
 
 newtab-label-visited = Besøgt
 newtab-label-bookmarked = Bogmærket
+newtab-label-removed-bookmark = Bogmærke fjernet
 newtab-label-recommended = Populært
 newtab-label-saved = Gemt til { -pocket-brand-name }
 newtab-label-download = Hentet

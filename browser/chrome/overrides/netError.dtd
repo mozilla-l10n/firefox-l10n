@@ -9,6 +9,7 @@
 <!ENTITY retry.label "Prøv igen">
 <!ENTITY returnToPreviousPage.label "Gå tilbage">
 <!ENTITY returnToPreviousPage1.label "Gå tilbage (anbefalet)">
+<!ENTITY advanced2.label "Avanceret…">
 <!ENTITY viewCertificate.label "Vis certifikat">
 
 <!-- Specific error messages -->

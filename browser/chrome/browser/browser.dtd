@@ -137,6 +137,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Du skal bekræfte din konto, før du kan begynde at synkronisere.">
 <!ENTITY fxa.unverified.button.label "Åbn indstillingerne for &syncBrand.shortName.label;…">
 
+<!ENTITY pictureInPictureHideToggle.label "Skjul kontakt for billed-i-billed">
+<!ENTITY pictureInPictureHideToggle.accesskey "S">
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -149,13 +152,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Log ind på &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Aktiver &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "Konto">
+<!ENTITY fxa.menu.firefoxServices.label "&brandProductName;-tjenester">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-<!ENTITY fxa.service.send.description "Upload filer og del dem med stærk kryptering og et link, der automatisk udløber.">
-<!ENTITY fxa.service.send.launch "Start &sendShortName;">
-<!ENTITY fxa.service.monitor.description "Undersøg om din mailadresse har været involveret i en datalæk - og få en advarsel, hvis den optræder i en ny datalæk.">
-<!ENTITY fxa.service.monitor.launch "Start &monitorShortName;">
+<!ENTITY fxa.service.sendTab.description "Send hurtigt og nemt faneblade til andre enheder, du er logget ind på.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -534,6 +535,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Søg med:">
+
+<!-- LOCALIZATION NOTE (searchWithDesc.label):
+     This string prompts the user to use the list of one-click search engines in
+     the Urlbar and searchbar. -->
+<!ENTITY searchWithDesc.label         "Søg denne gang med:">
+
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -805,13 +812,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Forbindelse">
 <!ENTITY identity.connectionSecure "Sikker forbindelse">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Sikkerhed for forbindelse">
+
+<!ENTITY identity.connectionSecure2 "Forbindelsen er sikker">
 <!ENTITY identity.connectionNotSecure "Forbindelsen er usikker">
+<!ENTITY identity.connectionNotSecureSecurityView "Din forbindelse til webstedet er ikke sikker.">
 <!ENTITY identity.connectionFile "Denne side er gemt på din computer.">
 <!ENTITY identity.connectionVerified2 "Du er forbundet på en sikker måde til dette websted, der er ejet af:">
+<!ENTITY identity.connectionVerified3 "Din forbindelse til dette websted er sikker.">
 <!ENTITY identity.connectionInternal "Dette er en sikker &brandShortName;-side.">
 <!ENTITY identity.extensionPage "Denne side er indlæst fra en udvidelse.">
 <!ENTITY identity.insecureLoginForms2 "Logins foretaget på denne side kan blive kompromitteret.">
 <!ENTITY identity.customRoot "Forbindelsen blev bekræftet af en certifikatudsteder, som Mozilla ikke kender.">
+
+<!ENTITY identity.evOwnerLabel "Webstedet er ejet af:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; har blokeret usikre dele af denne side.">
@@ -846,6 +863,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Ryd cookies og webstedsdata…">
 
 <!ENTITY identity.permissions "Tilladelser">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "Tilladelser indstillet">
 <!ENTITY identity.permissionsEmpty "Du har ikke tildelt dette websted nogen særlige tilladelser.">
 <!ENTITY identity.permissionsReloadHint "Du skal muligvis genindlæse siden, før at ændringerne slår igennem.">
 <!ENTITY identity.permissionsPreferences.tooltip "Åbn indstillinger for tilladelser">
@@ -854,6 +874,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY protections.etpON.header "Udvidet beskyttelse mod sporing er SLÅET TIL for dette websted">
 <!ENTITY protections.etpOFF.header "Udvidet beskyttelse mod sporing er SLÅET FRA for dette websted">
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Mere information om udvidet beskyttelse mod sporing">
 <!ENTITY protections.settings.label "Indstillinger for beskyttelse">
 <!ENTITY protections.report.label "Vis fuld rapport">
 <!-- LOCALIZATION NOTE:
@@ -893,8 +916,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.description "Websteder kan indlæse eksterne reklamer, videoer og andet indhold, der indeholder sporings-kode. Ved at blokere sporings-indhold kan sider ofte indlæses hurtigere, men nogle knapper, formularer og login-felter virker måske ikke.">
 <!ENTITY protections.socialMediaTrackers.description "Sociale netværk placerer sporings-mekanismer på andre websteder for at følge med i, hvad du gør og ser på nettet. Det giver virksomhederne bag de sociale medier mulighed for at lære mere om dig, end det du ellers selv deler på de sociale medier.">
 
-<!ENTITY protections.manageProtectionSettings.label "Håndter indstillinger for beskyttelse">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Faneblade">
@@ -932,17 +953,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Sporings-tjenester">
 
 <!ENTITY contentBlocking.manageSettings.label "Håndter blokering af indhold">
+
+<!ENTITY contentBlocking.trackingProtection4.label "Sporings-indhold">
+
+<!ENTITY contentBlocking.manageSettings2.label "Håndter indstillinger for beskyttelse">
 <!ENTITY contentBlocking.manageSettings.accesskey "H">
 
 <!ENTITY contentBlocking.trackersView.label "Sporings-tjenester">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Sæt blokering af indhold til &quot;Striks &quot;for at blokere alle sporings-tjenester.">
 
-<!ENTITY contentBlocking.socialblock.label "Sporing via sociale medier">
-<!ENTITY contentBlocking.socialblockView.label "Sporing via sociale medier er blokeret">
-<!ENTITY contentBlocking.socialblockView.description "Sociale netværk placerer sporings-mekanismer på andre websteder for at følge med i, hvad du gør og ser på nettet. Det giver virksomhederne bag de sociale medier mulighed for at lære mere om dig, end det du ellers selv deler på de sociale medier.">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Sæt blokering af indhold til &quot;Striks &quot;for at blokere alle sporings-tjenester.">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies og websteds-data">
+
+<!ENTITY contentBlocking.socialblock.label "Sporing via sociale medier">
+
+<!ENTITY contentBlocking.cookies2.label "Sporings-cookies på tværs af websteder">
 
 <!ENTITY contentBlocking.cryptominers.label "Cryptominers">
 <!ENTITY contentBlocking.cryptominersView.label "Cryptominers">

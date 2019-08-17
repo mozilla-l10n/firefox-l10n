@@ -84,6 +84,11 @@ permissions-exceptions-content-blocking-window =
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Du har deaktiveret blokering af indhold på disse websteder.
 
+permissions-exceptions-etp-window =
+    .title = Undtagelser for udvidet beskyttelse mod sporing
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Du har slået beskyttelse fra for disse websteder.
+
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
