@@ -123,3 +123,5 @@ confirm-discard-changes-dialog-confirm-button = Balewalain
 
 breach-alert-text = May mga passwords na nabunyag o ninakaw mula sa website na ito mula noong huli kang nag-update sa ang iyong mga detalye sa pag-login.Baguhin ang iyong password upang maprotektahan ang iyong account.
 breach-alert-link = Matuto ng higit pa tungkol sa paglabag na ito.
+breach-alert-dismiss =
+    .title = Isara ang alerto na ito

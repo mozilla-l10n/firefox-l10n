@@ -239,6 +239,12 @@ shortcuts-pageAction = I-activate ang page action
 shortcuts-sidebarAction = I-toggle ang sidebar
 shortcuts-modifier-mac = Isama ang Ctrl, Alt, o ⌘
 shortcuts-modifier-other = Isama ang Ctrl o Alt
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Dobleng shortcut
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = Ang { $shortcut } ay ginagamit bilang isang shortcut sa higit pa na isang kaso. Ang mga dobleng shortcut ay maaaring maging sanhi ng hindi inaasahang pag-uugali.
 go-back-button =
     .tooltiptext = Bumalik
 
@@ -332,6 +338,7 @@ addon-detail-private-browsing-allow = Payagan
 addon-badge-recommended =
     .title = Inirerekomenda
     .alt = Inirerekomenda
+available-updates-heading = Mga Magagamit na Update
 recent-updates-heading = Mga Update Kamakailan
 release-notes-loading = Nagloload...
 recommended-extensions-heading = Mga Inirerekomendang Extension

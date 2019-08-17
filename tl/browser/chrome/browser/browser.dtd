@@ -137,6 +137,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Kailangan mong i-verify ang iyong account bago ka makapag-sync.">
 <!ENTITY fxa.unverified.button.label "Buksan ang mga &syncBrand.shortName.label; Setting…">
 
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -149,13 +151,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Mag-sign in sa &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Buksan ang &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "Account">
+<!ENTITY fxa.menu.firefoxServices.label "mga serbisyo ng &brandProductName;">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-<!ENTITY fxa.service.send.description "Mag-upload at magbahagi ng mga file na may end-to-end encryption at link na awtomatikong mag-e-expire.">
-<!ENTITY fxa.service.send.launch "Ilunsad ang &sendShortName;">
-<!ENTITY fxa.service.monitor.description "Tingnan kung ang email mo ay natagpuan sa isang data breach at maalerto kung ito'y matatagpuan sa panibagong breach.">
-<!ENTITY fxa.service.monitor.launch "Ilunsad ang &monitorShortName;">
 <!ENTITY fxa.service.sendTab.description "Magpadala agad ng tab sa device na naka-sign in ka.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -535,6 +534,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Hanapin gamit ang:">
+
+<!-- LOCALIZATION NOTE (searchWithDesc.label):
+     This string prompts the user to use the list of one-click search engines in
+     the Urlbar and searchbar. -->
+<!ENTITY searchWithDesc.label         "Sa ngayon, maghanap gamit ang:">
+
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -811,8 +816,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 
 <!ENTITY identity.connectionNotSecure "Hindi Sigurado ang Koneksyon">
+<!ENTITY identity.connectionNotSecureSecurityView "Ikaw ay hindi ligtas na nakakonekta sa site na ito.">
 <!ENTITY identity.connectionFile "Ang pahinang ito ay naka-imbak sa iyong computer.">
 <!ENTITY identity.connectionVerified2 "Malayo kang konektado sa site na ito, na pag-aari ng:">
+<!ENTITY identity.connectionVerified3 "Ikaw ay ligtas na nakakonekta sa site na ito.">
 <!ENTITY identity.connectionInternal "Ito ay secure na &brandShortName; na pahina.">
 <!ENTITY identity.extensionPage "Ang pahinang ito ay nai-load mula sa isang extension.">
 <!ENTITY identity.insecureLoginForms2 "Ang mga pag-login na ipinasok sa pahinang ito ay maaaring makompromiso.">
@@ -863,6 +870,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY protections.etpON.header "Nakabukas ang Enhanced Tracking Protection para sa site na ito">
 <!ENTITY protections.etpOFF.header "Sarado ang Enhanced Tracking Protection para sa site na ito">
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.settings.label "Mga Protection Setting">
 <!ENTITY protections.report.label "Ipakita ang Buong Ulat">
 <!-- LOCALIZATION NOTE:
@@ -902,8 +911,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.description "Maaaring mag-load ang mga website ng panlabas na mga ad, video, at iba pang content na may tracking code. Pwedeng bumilis ang pag-load ng mga site kapag hinarang ang mga tracking content, pero may mga button, form, at login field na maaaring hindi gumana.">
 <!ENTITY protections.socialMediaTrackers.description "Naglalagay ng mga tracker ang mga social network sa ibang mga website para sundan ang iyong mga ginagawa, tinitingnan, at pinapanood online. Dahil dito'y mas nakikilala ka ng mga kumpanya ng social media bukod sa kung ano ang ibinabahagi mo sa iyong social media profile.">
 
-<!ENTITY protections.manageProtectionSettings.label "I-manage ang mga Protection Setting">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Mga tab ng browser">
@@ -940,20 +947,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Mga tracker">
 
+<!ENTITY contentBlocking.manageSettings.label "I-manage ang Content Blocking">
+
 <!ENTITY contentBlocking.trackingProtection4.label "Mga Tracking Content">
 
-<!ENTITY contentBlocking.manageSettings.label "I-manage ang Content Blocking">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "Mga tracker">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Upang harangan ang lahat ng mga tracker, i-set ang content blocking sa “Strict”.">
 
-<!ENTITY contentBlocking.socialblock.label "Mga Social Media Tracker">
-<!ENTITY contentBlocking.socialblockView.label "Mga Naharang na Social Media Tracker">
-<!ENTITY contentBlocking.socialblockView.description "Naglalagay ng mga tracker ang mga social network sa ibang mga website para sundan kung ano ang iyong mga ginagawa, tinitingnan, at pinapanood online. Dahil dito'y nakikilala ka ng mga kumpanya ng social media sa kabila ng kung ano ang ibinahagi mo sa iyong social media profile.">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Upang harangan ang lahat ng mga tracker, i-set ang content blocking sa “Strict”.">
 
 <!ENTITY contentBlocking.cookies.label "Mga cookie">
 <!ENTITY contentBlocking.cookiesView.label "Mga Cookie at Site Data">
+
+<!ENTITY contentBlocking.socialblock.label "Mga Social Media Tracker">
+
 
 <!ENTITY contentBlocking.cryptominers.label "Mga Cryptominer">
 <!ENTITY contentBlocking.cryptominersView.label "Cryptominers">

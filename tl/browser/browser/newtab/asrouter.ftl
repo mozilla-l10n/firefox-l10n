@@ -70,6 +70,10 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Button para isara
     .title = Isara
 
+## Protections panel
+
+cfr-protections-panel-header = Mag-browse nang hindi sinusundan
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
@@ -80,6 +84,9 @@ cfr-whatsnew-panel-header = Ano ang Bago
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Kunin ang bookmark na ito sa iyong telepono
+cfr-doorhanger-sync-bookmarks-body = Dalhin mo kahit saan ang iyong mga bookmark, password, kasaysayan at iba pa basta't naka-sign in ka sa { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = Buksan ang { -sync-brand-short-name }
+    .accesskey = T
 
 ## Send Tab
 

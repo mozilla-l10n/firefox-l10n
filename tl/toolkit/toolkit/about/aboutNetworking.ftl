@@ -23,6 +23,7 @@ tcp = TCP
 sent = Naipadala
 received = Natanggap
 family = Pamilya
+trr = TRR
 addresses = Mga address
 expires = Mag E-expire (Segundo)
 messages-sent = Mga naipadalang mensahe
@@ -56,3 +57,11 @@ rcwn-avg-long = Mahabang Katampatan
 rcwn-std-dev-long = Mahabang Standard Deviation
 rcwn-cache-slow = Mabagal ang bilang ng cache
 rcwn-cache-not-slow = Hindi mabagal ang bilang ng cache
+networkid = Network ID
+networkid-id = Network ID
+
+## Link is intended as "network link"
+
+
+
+

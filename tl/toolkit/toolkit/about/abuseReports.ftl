@@ -23,6 +23,7 @@ abuse-report-submit-button = Ipadala
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+abuse-report-messagebar-aborted = Nakansela ang pag-ulat sa <span data-l10n-name="addon-name">{ $addon-name }</span>
 
 ## Message bars actions.
 
