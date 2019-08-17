@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Přihlašovací údaje
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = Vezměte svá hesla všude s sebou
+login-app-promo-subtitle = Získejte bezplatnou aplikaci { -lockwise-brand-name }
+login-app-promo-android =
+    .alt = Stáhnout z Google Play
+login-app-promo-apple =
+    .alt = Stáhnout na App Store
 login-filter =
     .placeholder = Hledat přihlašovací údaje
 create-login-button = Nové přihlašovací údaje
