@@ -152,12 +152,12 @@
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
-<!ENTITY options.styleeditor.label            "עורך סגנון">
+<!ENTITY options.styleeditor.label            "עורך סגנונות">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 <!ENTITY options.stylesheetAutocompletion.label      "השלמה אוטומטית של CSS">
-<!ENTITY options.stylesheetAutocompletion.tooltip    "השלמה אוטומטית של מאפייני CSS, ערכים ובוררים בעורך הסגנון תוך כדי הקלדה">
+<!ENTITY options.stylesheetAutocompletion.tooltip    "השלמה אוטומטית של מאפייני CSS, ערכים ובוררים בעורך הסגנונות תוך כדי הקלדה">
 
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
