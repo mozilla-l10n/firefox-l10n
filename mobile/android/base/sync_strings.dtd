@@ -78,7 +78,7 @@
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Warunki użytkowania'>
-<!ENTITY fxaccount_status_linkprivacy2 'Polityka prywatności'>
+<!ENTITY fxaccount_status_linkprivacy2 'Prywatność'>
 <!ENTITY fxaccount_remove_account 'Rozłącz…'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Rozłączyć synchronizację?'>
