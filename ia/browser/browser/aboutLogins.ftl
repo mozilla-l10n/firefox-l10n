@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Accessos e contrasignos
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = Porta ubique con te tu contrasignos
+login-app-promo-subtitle = Installa le app gratuite { -lockwise-brand-name }
+login-app-promo-android =
+    .alt = Discarga lo ex Google Play
+login-app-promo-apple =
+    .alt = Discarga lo ex App Store
 login-filter =
     .placeholder = Cercar credentiales
 create-login-button = Crear un nove accesso
