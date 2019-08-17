@@ -70,6 +70,10 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Lat att-knapp
     .title = Lat att
 
+## Protections panel
+
+cfr-protections-panel-link-text = Les meir
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
