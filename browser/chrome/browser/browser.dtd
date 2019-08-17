@@ -901,9 +901,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.blocking.label "Блакаванне">
 <!ENTITY protections.notBlocking.label "Без блакавання">
 <!ENTITY protections.notBlocking.why.label "Чаму?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Блакаванне іх можа парушыць часткі некаторых вэб-сайтаў. Без трэкераў некаторыя кнопкі, формы і палі для ўваходу могуць не працаваць.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Адключэнне аховы дазволіць усе трэкеры на гэтым сайце. Гэта таксама можа палепшыць некаторыя функцыі сайта.">
+<!ENTITY protections.socialMediaTrackers.label "Трэкеры сацыяльных сетак">
+<!ENTITY protections.crossSiteTrackingCookies.label "Міжсайтавыя кукі асочвання">
+<!ENTITY protections.trackingContent.label "Змест з элементамі сачэння">
 <!ENTITY protections.fingerprinters.label "Збіральнікі адбіткаў пальцаў">
 <!ENTITY protections.cryptominers.label "Майнеры крыптавалют">
+<!ENTITY protections.noTrackersFound.description "Ніводнага трэкера, вядомага &brandShortName;, не выяўлена на гэтай старонцы.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Гэтыя кукі ідуць за вамі з сайта на сайт, каб сабраць звесткі пра тое, што вы робіце ў сеціве. Яны ўсталёўваюцца трэцімі бакамі, такімі як рэкламадаўцы і аналітычныя кампаніі.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
