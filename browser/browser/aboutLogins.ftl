@@ -3,11 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = การเข้าสู่ระบบและรหัสผ่าน
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
 login-filter =
     .placeholder = ค้นหาการเข้าสู่ระบบ
 create-login-button = สร้างการเข้าสู่ระบบใหม่
 fxaccounts-sign-in-text = รับรหัสผ่านของคุณบนอุปกรณ์อื่น ๆ ของคุณ
 fxaccounts-sign-in-button = ลงชื่อเข้า { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = จัดการบัญชี
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -95,3 +100,5 @@ confirm-discard-changes-dialog-confirm-button = ละทิ้ง
 
 ## Breach Alert notification
 
+breach-alert-dismiss =
+    .title = ปิดการแจ้งเตือนนี้
