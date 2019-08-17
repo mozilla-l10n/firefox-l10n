@@ -852,6 +852,11 @@ sitedata-block-desc = Type blokeret
 
 sitedata-option-block-trackers =
     .label = Tredjeparts sporings-tjenester
+
+sitedata-option-block-cross-site-trackers =
+    .label = Sporings-mekanismer på tværs af websteder
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = Sporings-mekanisker på tværs af websteder og sociale medier
 sitedata-option-block-unvisited =
     .label = Cookies fra ikke-besøgte websteder
 sitedata-option-block-all-third-party =
@@ -893,6 +898,8 @@ addressbar-suggestions-settings = Skift indstillinger for søgeforslag
 
 content-blocking-header = Blokering af indhold
 
+content-blocking-enhanced-tracking-protection = Udvidet beskyttelse mod sporing
+
 content-blocking-section-description = Beskyt dit privatliv på nettet. Bloker usynligt indhold, der sporer besøgte websteder, og som opretter profiler ud fra din adfærd. Ved at blokere noget af dette indhold kan sider indlæses hurtigere.
 
 content-blocking-learn-more = Læs mere
@@ -915,9 +922,18 @@ content-blocking-custom-desc = Vælg selv, hvad der skal blokeres.
 
 content-blocking-private-trackers = Kendte sporings-tjenester kun i private vinduer
 content-blocking-third-party-cookies = Sporings-cookies fra tredjepart
+
+content-blocking-etp-standard-desc = Balanceret mellem beskyttelse og ydelse. Sider indlæses som normalt.
+content-blocking-etp-strict-desc = Bedre beskyttelse, men kan forhindre nogle websteder i at fungere.
+content-blocking-etp-custom-desc = Vælg selv, hvilke sporings-tjenester og skripts, der skal blokeres.
+
+content-blocking-private-windows = Sporings-indhold i private vinduer.
+content-blocking-cross-site-tracking-cookies = Sporings-cookies på tværs af websteder
+content-blocking-social-media-trackers = Sporing via sociale medier
 content-blocking-all-cookies = Alle cookies
 content-blocking-unvisited-cookies = Cookies fra ikke-besøgte websteder
 content-blocking-all-windows-trackers = Kendte sporings-tjenester i alle vinduer
+content-blocking-all-windows-tracking-content = Sporings-indhold i alle vinduer
 content-blocking-all-third-party-cookies = Alle tredjeparts-cookies
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
@@ -925,6 +941,9 @@ content-blocking-fingerprinters = Fingerprinters
 content-blocking-warning-title = Vigtigt!
 content-blocking-warning-description = Nogen websteder kan holde op med at fungere, når du blokerer indhold. Det er nemt at slå blokering fra for websteder, du stoler på.
 content-blocking-learn-how = Læs hvordan
+
+content-blocking-etp-warning-description = Nogen websteders funktionalitet kan blive påvirker, når du blokerer sporings-tjenester. Genindlæs ind side med sporings-tjenester for at indlæse alt indhold.
+content-blocking-warning-learn-how = Læs hvordan
 
 content-blocking-reload-description = Du skal genindlæse dine faneblade, før ændringerne slår igennem.
 content-blocking-reload-tabs-button =
@@ -934,6 +953,10 @@ content-blocking-reload-tabs-button =
 content-blocking-trackers-label =
     .label = Sporings-elementer
     .accesskey = S
+
+content-blocking-tracking-content-label =
+  .label = Sporings-indhold
+  .accesskey = i
 content-blocking-tracking-protection-option-all-windows =
     .label = I alle vinduer
     .accesskey = a
