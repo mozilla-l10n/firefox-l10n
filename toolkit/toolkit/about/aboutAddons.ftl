@@ -250,6 +250,12 @@ shortcuts-modifier-other = Ctrl veya Alt kullanmalısınız
 shortcuts-invalid = Geçersiz kombinasyon
 shortcuts-letter = Bir harf yazın
 shortcuts-system = { -brand-short-name } kısayollarını değiştiremezsiniz
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Yinelenen kısayol
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } birden fazla yerde kısayol olarak kullanılıyor. Yinelenen kısayollar beklenmeyen davranışlara neden olabilir.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
