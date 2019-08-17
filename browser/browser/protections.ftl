@@ -77,6 +77,27 @@ go-to-saved-logins = Gå til lagrede innlogginger
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Sporing via sosiale medier
+    .aria-label =
+        { $count ->
+            [one] { $count } sosiale media-sporer ({ $percentage } %)
+           *[other] { $count } sosiale media-sporere ({ $percentage } %)
+        }
+bar-tooltip-cookie =
+    .title = Sporingsinfokapsler på tvers av nettsteder
+    .aria-label =
+        { $count ->
+            [one] { $count } sporingsinfokapsel på tvers av nettsteder ({ $percentage } %)
+           *[other] { $count } sporingsinfokapsler på tvers av nettsteder ({ $percentage } %)
+        }
+bar-tooltip-tracker =
+    .title = Sporings-innhold
+    .aria-label =
+        { $count ->
+            [one] { $count } sporings-innhold ({ $percentage } %)
+           *[other] { $count } sporings-innhold ({ $percentage } %)
+        }
 bar-tooltip-fingerprinter =
     .title = Fingerprinters
     .aria-label =
