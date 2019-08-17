@@ -6,7 +6,7 @@
 ## Strings used for device manager
 
 devmgr =
-    .title = Einings-handtering
+    .title = Einingshandtering
     .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Tryggingsmodular og -einingar
