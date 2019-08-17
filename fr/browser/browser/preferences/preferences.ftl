@@ -749,6 +749,7 @@ content-blocking-warning-title = Attention !
 content-blocking-warning-description = Le blocage de contenu peut empêcher certains sites de fonctionner. Vous pouvez facilement désactiver le blocage pour les sites en lesquels vous avez confiance.
 content-blocking-learn-how = Découvrez comment
 content-blocking-etp-warning-description = Le blocage des traqueurs peut avoir une incidence sur les fonctionnalités de certains sites. Actualisez une page avec les traqueurs pour charger tout le contenu.
+content-blocking-warning-learn-how = Me montrer comment faire
 content-blocking-reload-description = Vous devrez actualiser vos onglets pour appliquer ces modifications.
 content-blocking-reload-tabs-button =
     .label = Actualiser tous les onglets

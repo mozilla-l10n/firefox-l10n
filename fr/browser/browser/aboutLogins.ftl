@@ -6,6 +6,12 @@ about-logins-page-title = Identifiants et mots de passe
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-title = Emportez vos mots de passe partout
+login-app-promo-subtitle = Téléchargez l’application gratuite { -lockwise-brand-name }
+login-app-promo-android =
+    .alt = Disponible sur Google Play
+login-app-promo-apple =
+    .alt = Télécharger dans l’App Store
 login-filter =
     .placeholder = Rechercher des identifiants
 create-login-button = Créer un nouvel identifiant
