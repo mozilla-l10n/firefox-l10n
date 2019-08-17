@@ -55,7 +55,7 @@ policy-EnableTrackingProtection = Aktiver eller deaktiver innholdsblokkering med
 policy-Extensions = Installere, avinstallere eller låse utvidelser. Installeringsalternativet tar nettadresser eller baner som parametere. Avinstallerings- og Låse-alternativene tar utvidelses-ID som parameter.
 policy-ExtensionSettings = Håndter alle aspekter av utvidelsesinstallasjon.
 policy-ExtensionUpdate = Slå på eller slå av automatisk utvidelsesoppdateringer.
-policy-FirefoxHome = Konfigurer Firefox startside.
+policy-FirefoxHome = Konfigurer Firefox-startside.
 policy-FlashPlugin = Tillat eller nekt bruk av programtillegget Flash.
 policy-HardwareAcceleration = Hvis deaktivert, slå av maskinvareakselerasjon.
 # “lock” means that the user won’t be able to change this setting
@@ -74,7 +74,6 @@ policy-Preferences = Still inn og lås verdien for en undergruppe av innstilling
 policy-PromptForDownloadLocation = Spør hvor du skal lagre filer når du laster ned.
 policy-Proxy = Konfigurer proxy-innstillinger.
 policy-RequestedLocales = Velg rekkefølgen av språk, som skal brukes i programmet.
-policy-SanitizeOnShutdown = Fjern alle nettlesingsdata ved avslutning.
 policy-SanitizeOnShutdown2 = Fjern nettlesingsdata ved avslutning.
 policy-SearchBar = Angi standardplassering for søkefeltet. Brukeren kan fortsatt tilpasse den.
 policy-SearchEngines = Konfigurer søkemotorinnstillinger. Denne policyen er kun tilgjengelig for Extended Support Release (ESR).

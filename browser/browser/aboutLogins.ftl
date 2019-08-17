@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Innlogginger og passord
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = Ta med deg passordene dine overalt
+login-app-promo-subtitle = Skaff deg { -lockwise-brand-name }-appen, gratis
+login-app-promo-android =
+    .alt = Last ned fra Google Play
+login-app-promo-apple =
+    .alt = Last ned fra App Store
 login-filter =
     .placeholder = Søk innlogginger
 create-login-button = Lag ny innlogging
