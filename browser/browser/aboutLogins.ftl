@@ -3,11 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Identifiants et mots de passe
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
 login-filter =
     .placeholder = Rechercher des identifiants
 create-login-button = Créer un nouvel identifiant
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Icône pour { $title }
 fxaccounts-sign-in-text = Accédez à vos mots de passe sur vos autres appareils
 fxaccounts-sign-in-button = Se connecter à { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = Gérer le compte
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -36,6 +46,7 @@ login-list-count =
     }
 login-list-sort-label-text = Trier par :
 login-list-name-option = Nom (A-Z)
+login-list-breached-option = Fuites de données de sites
 login-list-last-changed-option = Dernière modification
 login-list-last-used-option = Dernière utilisation
 login-list-intro-title = Aucun identifiant trouvé
@@ -115,3 +126,5 @@ confirm-discard-changes-dialog-confirm-button = Ignorer
 
 breach-alert-text = Les mots de passe de ce site ont été divulgués ou volés après la dernière modification de vos informations de connexion. Changez votre mot de passe pour protéger votre compte.
 breach-alert-link = En savoir plus sur cette fuite de données.
+breach-alert-dismiss =
+    .title = Fermer cette alerte
