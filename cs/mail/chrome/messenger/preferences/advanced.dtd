@@ -122,3 +122,6 @@
 <!ENTITY manageCertificates.accesskey "f">
 <!ENTITY viewSecurityDevices.label "Bezpečnostní zařízení">
 <!ENTITY viewSecurityDevices.accesskey "B">
+
+<!ENTITY manageCertificates2.label "Spravovat certifikáty…">
+<!ENTITY viewSecurityDevices2.label "Bezpečnostní zařízení…">
