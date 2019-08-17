@@ -58,3 +58,38 @@ go-to-saved-logins = go-to-saved-logins = Gå till Sparade inloggningar
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Sociala media-trackers
+    .aria-label =
+        { $count ->
+            [one] { $count } social media-tracker ({ $percentage }%)
+           *[other] { $count } sociala media-trackers ({ $percentage }%)
+        }
+bar-tooltip-cookie =
+    .title = Globala spårningskakor
+    .aria-label =
+        { $count ->
+            [one] { $count } global spårningskaka ({ $percentage }%)
+           *[other] { $count } globala spårningskakor ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = Spårningsinnehåll
+    .aria-label =
+        { $count ->
+            [one] { $count } spårningsinnehåll ({ $percentage }%)
+           *[other] { $count } spårningsinnehåll ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Fingerprinters
+    .aria-label =
+        { $count ->
+            [one] { $count } fingerprinter ({ $percentage }%)
+           *[other] { $count } fingerprinters ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Cryptominers
+    .aria-label =
+        { $count ->
+            [one] { $count } cryptominer ({ $percentage }%)
+           *[other] { $count } cryptominers ({ $percentage }%)
+        }
