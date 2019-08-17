@@ -103,3 +103,10 @@ bar-tooltip-fingerprinter =
             [one] { $count } fingerprinter ({ $percentage }%)
            *[other] { $count } fingerprinters ({ $percentage }%)
         }
+bar-tooltip-cryptominer =
+    .title = Kryptominarar
+    .aria-label =
+        { $count ->
+            [one] { $count } kryptominar ({ $percentage }%)
+           *[other] { $count } kryptominarar ({ $percentage }%)
+        }
