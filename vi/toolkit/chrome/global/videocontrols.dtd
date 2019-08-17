@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY playButton.playLabel "Chơi">
+<!ENTITY playButton.playLabel "Phát">
 <!ENTITY playButton.pauseLabel "Tạm dừng">
 <!ENTITY muteButton.muteLabel "Tắt tiếng">
 <!ENTITY muteButton.unmuteLabel "Bật tiếng">
@@ -22,7 +22,7 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY stats.size "Dung lượng">
 <!ENTITY stats.activity "Hoạt động">
 <!ENTITY stats.activityPaused "Tạm dừng">
-<!ENTITY stats.activityPlaying "Đang chơi">
+<!ENTITY stats.activityPlaying "Đang phát">
 <!ENTITY stats.activityEnded "Đã kết thúc">
 <!ENTITY stats.activitySeeking "(đang dò)">
 <!ENTITY stats.volume "Âm lượng">
