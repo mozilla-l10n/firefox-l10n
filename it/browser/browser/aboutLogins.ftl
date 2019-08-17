@@ -4,6 +4,15 @@
 
 about-logins-page-title = Credenziali e password
 
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = Porta le tue password sempre con te
+login-app-promo-subtitle = Installa l’app gratuita { -lockwise-brand-name }
+login-app-promo-android =
+  .alt = Scarica da Google Play
+login-app-promo-apple =
+  .alt = Scarica da App Store
+
 login-filter =
   .placeholder = Cerca nelle credenziali
 
