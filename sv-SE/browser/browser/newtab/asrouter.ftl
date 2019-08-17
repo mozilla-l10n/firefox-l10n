@@ -92,10 +92,15 @@ cfr-doorhanger-sync-bookmarks-ok-button = Slå på { -sync-brand-short-name }
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Läs detta var du än är
 cfr-doorhanger-send-tab-recipe-header = Ta med det här receptet till köket
+cfr-doorhanger-send-tab-body = Send Tab låter dig enkelt dela den här länken till din telefon eller var du än är inloggad på { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Prova Send Tab
+    .accesskey = S
 
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Dela denna PDF säkert
+cfr-doorhanger-firefox-send-body = Håll dina känsliga dokument säkra från nyfikna ögon med end-to-end-kryptering och en länk som försvinner när du är klar.
 cfr-doorhanger-firefox-send-ok-button = Prova{ -send-brand-name }
     .accesskey = T
