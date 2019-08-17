@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Đăng nhập & mật khẩu
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = Mang mật khẩu của bạn đi khắp mọi nơi
+login-app-promo-subtitle = Tải ứng dụng { -lockwise-brand-name } miễn phí
+login-app-promo-android =
+    .alt = Tải xuống trên Google Play
+login-app-promo-apple =
+    .alt = Tải xuống trên App Store
 login-filter =
     .placeholder = Tìm kiếm thông tin đăng nhập
 create-login-button = Tạo đăng nhập mới
