@@ -98,6 +98,18 @@ info-exposed-passwords =
        *[other] mots de passe compromis parmi toutes les fuites de données.
     }
 full-report-link = Consultez le rapport complet sur <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] mot de passe enregistré peut avoir été compromis par une fuite de données. Changez ce mot de passe pour une sécurité en ligne accrue. <a data-l10n-name="lockwise-link">Voir les mots de passe enregistrés</a>
+       *[other] mots de passe enregistrés peuvent avoir été compromis par une fuite de données. Changez ces mots de passe pour une sécurité en ligne accrue. <a data-l10n-name="lockwise-link">Voir les mots de passe enregistrés</a>
+    }
+# This is the title attribute describing the graph report's link to about:settings#privacy
+go-to-privacy-settings = Ouvrir les paramètres de vie privée
+# This is the title attribute describing the Lockwise card's link to about:logins
+go-to-saved-logins = Ouvrir les identifiants enregistrés
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -106,3 +118,38 @@ full-report-link = Consultez le rapport complet sur <a data-l10n-name="monitor-i
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Traqueurs de réseaux sociaux
+    .aria-label =
+        { $count ->
+            [one] { $count } traqueur de réseau social ({ $percentage } %)
+           *[other] { $count } traqueurs de réseaux sociaux ({ $percentage } %)
+        }
+bar-tooltip-cookie =
+    .title = Cookies utilisés pour le pistage entre les sites
+    .aria-label =
+        { $count ->
+            [one] { $count } cookie utilisé pour le pistage entre les sites ({ $percentage } %)
+           *[other] { $count } cookies utilisés pour le pistage entre les sites ({ $percentage } %)
+        }
+bar-tooltip-tracker =
+    .title = Contenu utilisé pour le pistage
+    .aria-label =
+        { $count ->
+            [one] { $count } contenu utilisé pour le pistage ({ $percentage } %)
+           *[other] { $count } contenus utilisés pour le pistage ({ $percentage } %)
+        }
+bar-tooltip-fingerprinter =
+    .title = Détecteurs d’empreinte numérique
+    .aria-label =
+        { $count ->
+            [one] { $count } détecteur d’empreinte numérique ({ $percentage } %)
+           *[other] { $count } détecteurs d’empreinte numérique ({ $percentage } %)
+        }
+bar-tooltip-cryptominer =
+    .title = Mineurs de cryptomonnaies
+    .aria-label =
+        { $count ->
+            [one] { $count } mineur de cryptomonnaies ({ $percentage } %)
+           *[other] { $count } mineurs de cryptomonnaies ({ $percentage } %)
+        }

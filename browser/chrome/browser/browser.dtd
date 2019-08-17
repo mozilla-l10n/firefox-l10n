@@ -137,6 +137,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Vous devrez vérifier votre compte avant de pouvoir lancer la synchronisation.">
 <!ENTITY fxa.unverified.button.label "Ouvrir les paramètres de &syncBrand.shortName.label;…">
 
+<!ENTITY pictureInPictureHideToggle.label "Masquer le bouton pour l’incrustation vidéo">
+<!ENTITY pictureInPictureHideToggle.accesskey "M">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -150,9 +152,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Se connecter à &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Activer &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "Compte">
+<!ENTITY fxa.menu.firefoxServices.label "Services &brandProductName;">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "Envoyez instantanément un onglet sur n’importe quel appareil où vous êtes connecté·e.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -535,6 +539,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchWithDesc.label):
      This string prompts the user to use the list of one-click search engines in
      the Urlbar and searchbar. -->
+<!ENTITY searchWithDesc.label         "Pour cette fois-ci, rechercher avec :">
 
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
@@ -823,6 +828,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Les identifiants saisis sur cette page pourraient être compromis.">
 <!ENTITY identity.customRoot "Connexion vérifiée par un émetteur de certificat non reconnu par Mozilla.">
 
+<!ENTITY identity.evOwnerLabel "Site détenu par :">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; a bloqué des éléments non sécurisés sur cette page.">
@@ -870,6 +876,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpOFF.header "La protection renforcée contre le pistage est DÉSACTIVÉE pour ce site.">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Plus d’informations sur la protection renforcée contre le pistage">
 <!ENTITY protections.settings.label "Paramètres de protection">
 <!ENTITY protections.report.label "Afficher le rapport complet">
 <!-- LOCALIZATION NOTE:
@@ -947,6 +954,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.manageSettings.label "Gérer le blocage de contenu">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Contenu utilisé pour le pistage">
 
 <!ENTITY contentBlocking.manageSettings2.label "Gérer les paramètres de protection">
 <!ENTITY contentBlocking.manageSettings.accesskey "G">
@@ -960,6 +968,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.socialblock.label "Traqueurs de réseaux sociaux">
 
+<!ENTITY contentBlocking.cookies2.label "Cookies utilisés pour le pistage entre les sites">
 
 <!ENTITY contentBlocking.cryptominers.label "Mineurs de cryptomonnaies">
 <!ENTITY contentBlocking.cryptominersView.label "Mineurs de cryptomonnaies">

@@ -72,6 +72,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
+cfr-protections-panel-header = Naviguez sans être suivi⋅e
 cfr-protections-panel-body = Gardez vos données pour vous. { -brand-short-name } vous protège de la plupart des traqueurs les plus courants qui suivent ce que vous faites en ligne.
 cfr-protections-panel-link-text = En savoir plus
 
@@ -91,6 +92,7 @@ cfr-doorhanger-sync-bookmarks-ok-button = Activer { -sync-brand-short-name }
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-recipe-header = Lisez cette recette dans la cuisine
 cfr-doorhanger-send-tab-body = « Envoyer l’onglet » vous permet de transférer facilement ce lien à votre téléphone ou à tout autre appareil connecté à votre compte { -brand-product-name }.
 cfr-doorhanger-send-tab-ok-button = Essayer l’envoi d’onglet
     .accesskey = E
