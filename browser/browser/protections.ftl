@@ -60,6 +60,27 @@ info-monitored-addresses =
         [one] E-postadresse som er overvaka.
        *[other] E-postadresser som er overvaka.
     }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches =
+    { $count ->
+        [one] Kjend datalekkasje har eksponert informasjonen din.
+       *[other] Kjende datalekkasjar har eksponert informasjonen din.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords =
+    { $count ->
+        [one] Passord eksponert frå alle lekkasjar.
+       *[other] Passord eksponerte frå alle lekkasjar.
+    }
+full-report-link = Sjå heile rapporten på <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This is the title attribute describing the graph report's link to about:settings#privacy
+go-to-privacy-settings = Gå til personverninnstillingar
+# This is the title attribute describing the Lockwise card's link to about:logins
+go-to-saved-logins = Gå til lagra innloggingar
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -68,3 +89,17 @@ info-monitored-addresses =
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-tracker =
+    .title = Sporingsinnhald
+    .aria-label =
+        { $count ->
+            [one] { $count } sporingsinnhald ({ $percentage } %)
+           *[other] { $count } sporingsinnhald ({ $percentage } %)
+        }
+bar-tooltip-fingerprinter =
+    .title = Fingerprinters
+    .aria-label =
+        { $count ->
+            [one] { $count } fingerprinter ({ $percentage }%)
+           *[other] { $count } fingerprinters ({ $percentage }%)
+        }
