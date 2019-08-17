@@ -110,6 +110,11 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Скасаваць
 confirmation-dialog-dismiss-button =
     .title = Скасаваць
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Хочаце мець свае лагіны ўсюды, дзе карыстаецеся { -brand-product-name }? Перайдзіце ў налады { -sync-brand-short-name } і выберыце сцяжок Лагіны.
+       *[other] Хочаце мець свае лагіны ўсюды, дзе карыстаецеся { -brand-product-name }? Перайдзіце ў перавагі { -sync-brand-short-name } і выберыце сцяжок Лагіны.
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -128,3 +133,5 @@ confirm-discard-changes-dialog-confirm-button = Адхіліць
 
 breach-alert-text = З моманту апошняга абнаўлення дадзеных для ўваходу, паролі з гэтага сайта ўцеклі ці былі выкрадзены. Змяніце пароль, каб абараніць свой уліковы запіс.
 breach-alert-link = Даведацца больш пра гэту ўцечку.
+breach-alert-dismiss =
+    .title = Закрыць гэта папярэджанне
