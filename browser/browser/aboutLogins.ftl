@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Лагіны & паролі
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = Вазьміце свае паролі ўсюды
+login-app-promo-subtitle = Атрымаць бясплатную праграму { -lockwise-brand-name }
+login-app-promo-android =
+    .alt = Атрымаць на Google Play
+login-app-promo-apple =
+    .alt = Сцягнуць з App Store
 login-filter =
     .placeholder = Шукаць лагіны
 create-login-button = Дадаць новы лагін
@@ -56,6 +65,10 @@ login-list-item-subtitle-missing-username = (без імя карыстальн�
 ## Introduction screen
 
 login-intro-heading = Шукаеце захаваныя лагіны? Наладзьце { -sync-brand-short-name }.
+login-intro-description = Калі вы захавалі свае лагіны ў { -brand-product-name } на іншай прыладзе, вось як атрымаць іх тут:
+login-intro-instruction-fxa = Стварыце альбо ўвайдзіце ў свой { -fxaccount-brand-name } на прыладзе, дзе захоўваюцца вашы лагіны
+login-intro-instruction-fxa-settings = Пераканайцеся, што вы ўстанавілі сцяжок Лагіны у наладах { -sync-brand-short-name }
+login-intro-instruction-faq = Каб атрымаць больш інфармацыі, наведайце <a data-l10n-name="faq">Пытанні і адказы</a> { -lockwise-brand-short-name }
 
 ## Login
 
