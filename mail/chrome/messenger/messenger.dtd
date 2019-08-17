@@ -706,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Salvar como pasta…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Selecionar mensagens">
 <!ENTITY threadColumn.label "Tópico">
 <!ENTITY fromColumn.label "De">
 <!ENTITY recipientColumn.label "Destinatário">
@@ -729,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Selecionar colunas a serem exibidas">
+<!ENTITY selectColumn.tooltip "Alternar seleção de todas as mensagens">
 <!ENTITY threadColumn2.tooltip "Exibir tópicos de mensagens">
 <!ENTITY fromColumn2.tooltip "Ordenar por remetente">
 <!ENTITY recipientColumn2.tooltip "Ordenar por destinatário">
