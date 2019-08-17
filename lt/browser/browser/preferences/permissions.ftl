@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Išimtys – turinio blokavimas
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Šiose svetainėse esate išjungę turinio blokavimą.
+permissions-exceptions-etp-window =
+    .title = Išimtys išplėstai apsaugai nuo stebėjimo
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Šiose svetainėse esate išjungę apsaugą.
 
 ## Exceptions - Cookies
 
