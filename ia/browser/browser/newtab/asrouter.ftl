@@ -73,6 +73,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Naviga sin lassar te sequer
+cfr-protections-panel-body = Mantene tu datos pro te mesme. { -brand-short-name } te protege ab multe del plus commun traciatores que seque lo que tu face online.
 cfr-protections-panel-link-text = Saper plus
 
 ## What's New toolbar button and panel
