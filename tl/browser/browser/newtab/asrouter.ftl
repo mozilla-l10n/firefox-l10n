@@ -90,7 +90,12 @@ cfr-doorhanger-sync-bookmarks-ok-button = Buksan ang { -sync-brand-short-name }
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Basahin habang bumibyahe
+cfr-doorhanger-send-tab-ok-button = Subukan ang Send Tab
+    .accesskey = T
 
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Ibahagi ang PDF na ito sa ligtas na paraan
+cfr-doorhanger-firefox-send-ok-button = Subukan ang { -send-brand-name }
+    .accesskey = T

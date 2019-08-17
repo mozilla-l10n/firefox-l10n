@@ -137,6 +137,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Kailangan mong i-verify ang iyong account bago ka makapag-sync.">
 <!ENTITY fxa.unverified.button.label "Buksan ang mga &syncBrand.shortName.label; Setting…">
 
+<!ENTITY pictureInPictureHideToggle.label "Itago ang Toggle para sa Picture-in-Picture">
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
@@ -962,6 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.socialblock.label "Mga Social Media Tracker">
 
+<!ENTITY contentBlocking.cookies2.label "Mga Cross-Site Tracking Cookie">
 
 <!ENTITY contentBlocking.cryptominers.label "Mga Cryptominer">
 <!ENTITY contentBlocking.cryptominersView.label "Cryptominers">
