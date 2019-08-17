@@ -30,6 +30,7 @@ etp-card-title = Utvidet sporingsbeskyttelse
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = I dag
+social-tab-title = Sporing via sosiale medier
 cookie-tab-title = Sporingsinfokapsler på tvers av nettsteder
 tracker-tab-title = Sporings-innhold
 fingerprinter-tab-title = Fingerprinters
@@ -40,6 +41,7 @@ lockwise-header-content = { -lockwise-brand-name } lagrer passordene dine sikker
 open-about-logins-button = Åpne i { -brand-short-name }
 turn-on-sync = Slå på { -sync-brand-short-name }…
     .title = Gå til innstillinger for sync
+manage-devices = Behandle enheter
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
 lockwise-sync-status =

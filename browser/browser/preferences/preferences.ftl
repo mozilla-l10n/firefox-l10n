@@ -736,6 +736,7 @@ content-blocking-strict-description = Sterkere beskyttelse, men kan forhindre no
 content-blocking-custom-desc = Velg hva du vil blokkere.
 content-blocking-private-trackers = Kjente sporere bare i Private vindu
 content-blocking-third-party-cookies = Tredjeparts sporingsinfokapsler
+content-blocking-social-media-trackers = Sporing via sosiale medier
 content-blocking-all-cookies = Alle infokapsler
 content-blocking-unvisited-cookies = Infokapsler fra ubesøkte nettsteder
 content-blocking-all-windows-trackers = Kjente sporere i alle vinduer
