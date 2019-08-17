@@ -6,7 +6,7 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = Rekommenderade tillägg
-cfr-doorhanger-feature-heading = cfr-doorhanger-feature-heading = Rekommenderad funktion
+cfr-doorhanger-feature-heading = Rekommenderad funktion
 cfr-doorhanger-pintab-heading = Prova detta: Fäst flik
 
 
