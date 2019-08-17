@@ -189,8 +189,8 @@ extensions-warning-update-security-enable =
 ## Strings connected to add-on updates
 
 extensions-updates-check-for-updates =
-    .label = Znajdź aktualizacje
-    .accesskey = n
+    .label = Sprawdź dostępność aktualizacji
+    .accesskey = S
 extensions-updates-view-updates =
     .label = Wyświetl ostatnie aktualizacje
     .accesskey = W
