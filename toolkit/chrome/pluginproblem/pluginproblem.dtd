@@ -5,7 +5,7 @@
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Stuknij tutaj, by aktywować wtyczkę.">
 <!ENTITY clickToActivatePlugin                               "Aktywuj wtyczkę.">
-<!ENTITY checkForUpdates                                     "Poszukaj aktualizacji…">
+<!ENTITY checkForUpdates                                     "Sprawdź dostępność aktualizacji…">
 <!ENTITY blockedPlugin.label                                 "Wtyczka zablokowana z przyczyn bezpieczeństwa.">
 <!ENTITY hidePluginBtn.label                                 "Ukryj wtyczkę">
 <!ENTITY managePlugins                                       "Zarządzaj wtyczkami…">

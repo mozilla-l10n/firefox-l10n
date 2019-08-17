@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Dane logowania i hasła
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = Miej hasła zawsze przy sobie
+login-app-promo-subtitle = Pobierz darmową aplikację { -lockwise-brand-name }
+login-app-promo-android =
+    .alt = Pobierz z Google Play
+login-app-promo-apple =
+    .alt = Pobierz z App Store
 login-filter =
     .placeholder = Szukaj danych logowania
 create-login-button = Utwórz nowe dane logowania
