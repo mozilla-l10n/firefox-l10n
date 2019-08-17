@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Innloggingar og passord
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = Ta med deg passorda dine overalt
+login-app-promo-subtitle = Skaff deg { -lockwise-brand-name }-appen, gratis
+login-app-promo-android =
+    .alt = Last ned frå Google Play
+login-app-promo-apple =
+    .alt = Last ned frå App Store
 login-filter =
     .placeholder = Søk innloggingar
 create-login-button = Lag ny innlogging
@@ -57,6 +66,7 @@ login-list-item-subtitle-missing-username = (ikkje noko brukarnamn)
 login-intro-heading = Ser du etter lagra innloggingar? Konfigurer { -sync-brand-short-name }
 login-intro-description = Slik kan du få { -brand-product-name }-innloggingane dine hit, om du har lagra dei på ei anna eining:
 login-intro-instruction-fxa = Lag eller logg inn på { -fxaccount-brand-name } på eininga der innloggingane dine er lagra
+login-intro-instruction-fxa-settings = Forsikre deg om at du har markert avkryssingsboksen for innloggingar i { -sync-brand-short-name }-innstillingane
 login-intro-instruction-faq = Gå til { -lockwise-brand-short-name } <a data-l10n-name="faq">ofte stilte spørsmål</a> for meir hjelp
 
 ## Login
@@ -122,3 +132,5 @@ confirm-discard-changes-dialog-confirm-button = Ignorer
 
 breach-alert-text = Passord vart lekne eller stolne frå denne nettstaden sidan du sist oppdaterte innloggingsdetaljane dine. Endre passordet ditt for å beskytte kontoen din.
 breach-alert-link = Les meir om denne datalekkasjen.
+breach-alert-dismiss =
+    .title = Lat att dette varselet
