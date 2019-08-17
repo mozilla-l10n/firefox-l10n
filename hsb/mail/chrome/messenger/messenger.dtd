@@ -706,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Pytanje jako rjadowak składować…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Powěsće wubrać">
 <!ENTITY threadColumn.label "Nitka">
 <!ENTITY fromColumn.label "Wot">
 <!ENTITY recipientColumn.label "Přijimar">
@@ -729,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Wubjerće špałty, kotrež maja so zwobraznić">
+<!ENTITY selectColumn.tooltip "Wuběranje wšěch powěsćow přepinać">
 <!ENTITY threadColumn2.tooltip "Powěsćowe nitki zwobraznić">
 <!ENTITY fromColumn2.tooltip "Po Wot sortěrować">
 <!ENTITY recipientColumn2.tooltip "Po přijimarju sortěrować">
