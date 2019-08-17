@@ -65,6 +65,7 @@ lockwise-passwords-stored =
     }
 turn-on-sync = { -sync-brand-short-name } zmóžnić
     .title = K synchronizowanskim nastajenjam
+manage-devices = Graty rjadować
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
 lockwise-sync-status =
