@@ -679,6 +679,10 @@ sitedata-block-desc = Typ blockerad
     .accesskey = T
 sitedata-option-block-trackers =
     .label = Tredjeparts trackers
+sitedata-option-block-cross-site-trackers =
+    .label = Globala trackers
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = Globala och sociala medie-trackers
 sitedata-option-block-unvisited =
     .label = Kakor från obesökta webbplatser
 sitedata-option-block-all-third-party =
@@ -713,6 +717,7 @@ addressbar-suggestions-settings = Ändra inställningar för förslag från sök
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Innehållsblockering
+content-blocking-enhanced-tracking-protection = Förbättrat spårningsskydd
 content-blocking-section-description = Skydda din integritet medan du surfar. Blockera osynligt innehåll som spårar de webbplatser du besöker och profilerar dig. Att blockera något av detta innehåll kan göra att sidor laddas snabbare.
 content-blocking-learn-more = Läs mer
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -731,6 +736,8 @@ content-blocking-strict-description = Starkare skydd, kan orsaka fel på vissa w
 content-blocking-custom-desc = Välj vad du vill blockera.
 content-blocking-private-trackers = Kända trackers endast i privata fönster
 content-blocking-third-party-cookies = Spårningskakor från tredje part
+content-blocking-etp-standard-desc = Balanserad för skydd och prestanda. Sidor laddas normalt.
+content-blocking-etp-strict-desc = Starkare skydd, men kan leda till att vissa webbplatser eller innehåll inte fungerar.
 content-blocking-all-cookies = Alla kakor
 content-blocking-unvisited-cookies = Kakor från obesökta webbplatser
 content-blocking-all-windows-trackers = Kända trackers i alla fönster

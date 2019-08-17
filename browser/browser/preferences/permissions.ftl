@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Undantag - Innehållsblockering
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Du har inaktiverat innehållsblockering på dessa webbplatser.
+permissions-exceptions-etp-window =
+    .title = Undantag för förbättrat spårningsskydd
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Du har inaktiverat skydd på dessa webbplatser.
 
 ## Exceptions - Cookies
 
