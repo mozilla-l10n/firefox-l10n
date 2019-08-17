@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Exceptions - Blocage de contenu
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Vous avez désactivé le blocage de contenu sur ces sites.
+permissions-exceptions-etp-window =
+    .title = Exceptions pour la protection renforcée contre le pistage
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Vous avez désactivé les protections sur ces sites web.
 
 ## Exceptions - Cookies
 

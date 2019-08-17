@@ -6,6 +6,7 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = Extension recommandée
+cfr-doorhanger-feature-heading = Fonctionnalité recommandée
 cfr-doorhanger-pintab-heading = Essayez ceci : épingler un onglet
 
 
@@ -83,9 +84,20 @@ cfr-whatsnew-panel-header = Nouveautés
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Accédez à ce marque-page sur votre téléphone
+cfr-doorhanger-sync-bookmarks-body = Emportez vos marque-pages, vos mots de passe, votre historique et bien d’autres choses sur tous les appareils connectés à votre compte { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = Activer { -sync-brand-short-name }
+    .accesskey = A
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-body = « Envoyer l’onglet » vous permet de transférer facilement ce lien à votre téléphone ou à tout autre appareil connecté à votre compte { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Essayer l’envoi d’onglet
+    .accesskey = E
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Partagez ce PDF en toute sécurité
+cfr-doorhanger-firefox-send-body = Protégez vos documents sensibles des regards indiscrets avec un chiffrement de bout en bout et un lien qui disparaît lorsque vous avez terminé.
+cfr-doorhanger-firefox-send-ok-button = Essayer { -send-brand-name }
+    .accesskey = E
