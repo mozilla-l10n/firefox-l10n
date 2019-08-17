@@ -38,4 +38,5 @@
 <!ENTITY doNotTrackInfo.label "Zjistit více o Do Not Track">
 
 <!ENTITY doNotTrackCheck.label "Říci webovým stránkám pomocí signálu Do Not Track, že nechcete být sledováni">
+<!ENTITY doNotTrackCheck.accesskey "n">
 <!ENTITY doNotTrackLearnMore.label "Zjistit více">

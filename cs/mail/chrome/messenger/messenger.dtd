@@ -586,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Přesune označenou zprávu do složky">
 <!ENTITY archiveButton.tooltip "Archivovat označené zprávy">
 <!ENTITY openConversationButton.tooltip "Zobrazit konverzaci k vybrané zprávě">
+<!ENTITY openMsgConversationButton.tooltip "Zobrazit konverzaci k vybrané zprávě">
 <!ENTITY nextButton.tooltip "Přejde na další nepřečtenou zprávu">
 <!ENTITY nextMsgButton.tooltip "Přejde na další zprávu">
 <!ENTITY previousButton.tooltip "Přejde na předcházející nepřečtenou zprávu">
