@@ -6,6 +6,7 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = Rekommenderade tillägg
+cfr-doorhanger-feature-heading = cfr-doorhanger-feature-heading = Rekommenderad funktion
 cfr-doorhanger-pintab-heading = Prova detta: Fäst flik
 
 
@@ -69,6 +70,12 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Stäng knapp
     .title = Stäng
 
+## Protections panel
+
+cfr-protections-panel-header = Surfa utan att bli följd
+cfr-protections-panel-body = Behåll dina data för dig själv. { -brand-short-name } skyddar dig från många av de vanligaste trackarna som följer vad du gör online.
+cfr-protections-panel-link-text = Läs mer
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
@@ -78,11 +85,14 @@ cfr-whatsnew-panel-header = Vad är nytt
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Få det här bokmärket på din telefon
+cfr-doorhanger-sync-bookmarks-body = Ta med dig dina bokmärken, lösenord, historik, med mera överallt där du är inloggad på { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = Slå på { -sync-brand-short-name }
     .accesskey = T
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-recipe-header = Ta med det här receptet till köket
 
 ## Firefox Send
 

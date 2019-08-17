@@ -123,3 +123,5 @@ confirm-discard-changes-dialog-confirm-button = Ignorera
 
 breach-alert-text = Lösenord har läckt eller stulits från den här webbplatsen sedan du senast uppdaterade dina inloggningsuppgifter. Ändra ditt lösenord för att skydda ditt konto.
 breach-alert-link = Läs mer om detta intrång.
+breach-alert-dismiss =
+    .title = Stäng denna varning
