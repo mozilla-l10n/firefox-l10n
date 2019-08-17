@@ -911,6 +911,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.noTrackersFound.description "Ніводнага трэкера, вядомага &brandShortName;, не выяўлена на гэтай старонцы.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Гэтыя кукі ідуць за вамі з сайта на сайт, каб сабраць звесткі пра тое, што вы робіце ў сеціве. Яны ўсталёўваюцца трэцімі бакамі, такімі як рэкламадаўцы і аналітычныя кампаніі.">
+<!ENTITY protections.cryptominers.description "Майнеры крыптавалют выкарыстоўваюць вылічальную магутнасць вашай сістэмы, каб здабываць лічбавыя грошы. Скрыпты для здабычы крыптавалют разраджаюць вашу батарэю, запавольваюць працу камп'ютара і могуць павялічыць ваш выдаткі на электраэнергію.">
+<!ENTITY protections.fingerprinters.description "Збіральнікі адбіткаў пальцаў збіраюць налады вашага браўзера і камп'ютара для стварэння вашага профілю. Выкарыстоўваючы гэты лічбавы адбітак, яны могуць асочваць вас на розных сайтах.">
+<!ENTITY protections.trackingContent.description "Вэб-сайты могуць загружаць вонкавую рэкламу, відэа і іншае змесціва, якое змяшчае код асочвання. Блакіроўка змесціва асочвання можа дапамагчы сайтам хутчэй загружацца, але некаторыя кнопкі, формы і палі ўваходу могуць не працаваць.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
