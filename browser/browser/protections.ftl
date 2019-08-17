@@ -38,7 +38,17 @@ cryptominer-tab-title = Kryptominere
 lockwise-title = Glem aldri et passord igjen
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } lagrer passordene dine sikkert i nettleseren din.
+lockwise-header-content-logged-in = Lagre passordene dine sikkert og synkroniser dem med alle enhetene dine.
 open-about-logins-button = Åpne i { -brand-short-name }
+lockwise-no-logins-content = Få appen <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> for å ta passordene dine med overalt.
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+lockwise-passwords-stored =
+    { $count ->
+        [one] Passord lagret sikkert <a data-l10n-name="lockwise-how-it-works">Slik fungerer det</a>
+       *[other] Passord lagret sikkert <a data-l10n-name="lockwise-how-it-works">Slik fungerer det</a>
+    }
 turn-on-sync = Slå på { -sync-brand-short-name }…
     .title = Gå til innstillinger for sync
 manage-devices = Behandle enheter
@@ -64,7 +74,31 @@ info-monitored-addresses =
         [one] E-postadresse som overvåkes.
        *[other] E-postadresser som overvåkes.
     }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches =
+    { $count ->
+        [one] Kjente datalekkasje har eksponert din informasjon.
+       *[other] Kjente datalekkasjer har eksponert din informasjon.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords =
+    { $count ->
+        [one] Passord eksponert fra alle lekkasjer.
+       *[other] Passord eksponert fra alle lekkasjer.
+    }
 full-report-link = Se hele rapporten på <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] Lagret innlogging kan ha blitt eksponert i en datalekkasje. Endre disse passordene for bedre sikkerhet på nettet <a data-l10n-name="lockwise-link">Vis lagrede innlogginger</a>
+       *[other] Lagrede innlogginger kan ha blitt eksponert i en datalekkasje. Endre disse passordene for bedre sikkerhet på nettet <a data-l10n-name="lockwise-link">Vis lagrede innlogginger</a>
+    }
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = Gå til personverninnstillinger
 # This is the title attribute describing the Lockwise card's link to about:logins

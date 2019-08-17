@@ -910,6 +910,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.label "Kryptominere">
 <!ENTITY protections.noTrackersFound.description "Ingen sporere kjent for &brandShortName; ble oppdaget på denne siden.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Disse infokapslene følger deg fra side til side for å samle inn data om hva du gjør på nettet. De er satt av tredjeparter som annonsører og analyseselskaper.">
+<!ENTITY protections.cryptominers.description "Kryptominere bruker systemets datakraft for å utvinne digitale penger. Kryptomineringsskript tapper batteriet, gjør datamaskinen tregere og kan øke strømregningen.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
