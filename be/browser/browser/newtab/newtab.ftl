@@ -116,6 +116,7 @@ newtab-menu-open-file = Адкрыць файл
 
 newtab-label-visited = Наведанае
 newtab-label-bookmarked = У закладках
+newtab-label-removed-bookmark = Закладка выдалена
 newtab-label-recommended = Тэндэнцыі
 newtab-label-saved = Захавана ў { -pocket-brand-name }
 newtab-label-download = Сцягнута
@@ -163,7 +164,12 @@ newtab-empty-section-topstories = Гатова. Праверце пазней, �
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = Вы ўсё прачыталі!
+newtab-discovery-empty-section-topstories-content = Звярніцеся пазней, каб пабачыць больш артыкулаў.
 newtab-discovery-empty-section-topstories-try-again-button = Паспрабаваць зноў
+newtab-discovery-empty-section-topstories-loading = Чытаецца…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Ой! Мы амаль загрузілі гэты раздзел, але не зусім.
 
 ## Pocket Content Section.
 
