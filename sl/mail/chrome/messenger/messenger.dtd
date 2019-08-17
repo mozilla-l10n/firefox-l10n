@@ -706,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Shrani iskanje kot mapo …">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Izberite sporočila">
 <!ENTITY threadColumn.label "Nit">
 <!ENTITY fromColumn.label "Od">
 <!ENTITY recipientColumn.label "Prejemnik">
