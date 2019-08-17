@@ -52,6 +52,7 @@ login-list-count =
     }
 login-list-sort-label-text = Ordenar por:
 login-list-name-option = Nombre (A-Z)
+login-list-breached-option = Sitios web vulnerados
 login-list-last-changed-option = Última modificación
 login-list-last-used-option = Último uso
 login-list-intro-title = No se encontraron conexiones

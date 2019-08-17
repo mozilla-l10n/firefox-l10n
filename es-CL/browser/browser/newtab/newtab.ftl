@@ -168,6 +168,8 @@ newtab-discovery-empty-section-topstories-header = ¡Estás al día!
 newtab-discovery-empty-section-topstories-content = Revisa más tarde para nuevas historias.
 newtab-discovery-empty-section-topstories-try-again-button = Volver a intentarlo
 newtab-discovery-empty-section-topstories-loading = Cargando…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = ¡Chuta! Casi logramos cargar la sección completa, pero quizá falta una parte.
 
 ## Pocket Content Section.
 
