@@ -49,6 +49,7 @@
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Čtení">
 <!ENTITY display.caption                  "Zobrazení">
+<!ENTITY displayName.label                "Zobrazované jméno:">
 <!ENTITY showCondensedAddresses.label     "U lidí z mých kontaktů zobrazovat pouze jméno">
 <!ENTITY showCondensedAddresses.accesskey "U">
 

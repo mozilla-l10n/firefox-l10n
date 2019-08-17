@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "K">
 <!ENTITY folderPaneBar.label "Nástroje panelů složek">
 <!ENTITY folderPaneBar.accesskey "a">
-<!ENTITY folderModeSelector.label "Zobrazení složek">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Seřadit podle">
@@ -605,7 +604,6 @@
 <!ENTITY tagButton.tooltip "Přidá štítek">
 <!ENTITY compactButton.tooltip "Ze zvolené složky odstraní smazané zprávy">
 <!ENTITY appmenuButton1.tooltip "Zobrazí nabídku aplikace &brandShortName;">
-
 <!ENTITY addonsButton.tooltip "Spravujte své doplňky">
 
 <!-- Toolbar Button Popup -->
@@ -707,6 +705,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Uložit hledání jako složku…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Vybrat zprávy">
 <!ENTITY threadColumn.label "Vlákno">
 <!ENTITY fromColumn.label "Od">
 <!ENTITY recipientColumn.label "Příjemce">
