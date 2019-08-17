@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Prisijungimai ir slaptažodžiai
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
 login-filter =
     .placeholder = Ieškoti prisijungimų
 create-login-button = Sukurti naują prisijungimą
@@ -124,3 +127,5 @@ confirm-discard-changes-dialog-confirm-button = Atsisakyti
 
 breach-alert-text = Po jūsų paskutinio prisijungimo duomenų atnaujinimo, iš šios svetainės nutekėjo arba buvo pavogti slaptažodžiai. Pasikeiskite slaptažodį, kad apsaugotumėte savo paskyrą.
 breach-alert-link = Sužinokite apie šį pažeidimą daugiau.
+breach-alert-dismiss =
+    .title = Užverti šį perspėjimą
