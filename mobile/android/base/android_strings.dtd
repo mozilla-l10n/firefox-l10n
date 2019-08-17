@@ -526,7 +526,7 @@ shown from Android O while a tab is being queued.-->
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY media_sending_to "Đang gửi đến thiết bị">
-<!ENTITY media_play "Chơi">
+<!ENTITY media_play "Phát">
 <!ENTITY media_pause "Tạm dừng">
 <!ENTITY media_stop "Dừng">
 
