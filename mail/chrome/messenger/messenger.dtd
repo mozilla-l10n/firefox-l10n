@@ -850,7 +850,7 @@
 <!ENTITY columnPicker.thisFolder.label "Thư mục này">
 
 <!-- Media (video/audio) controls -->
-<!ENTITY contextPlay.label "Chơi">
+<!ENTITY contextPlay.label "Phát">
 <!ENTITY contextPlay.accesskey "C">
 <!ENTITY contextPause.label "Tạm dừng">
 <!ENTITY contextPause.accesskey "d">
