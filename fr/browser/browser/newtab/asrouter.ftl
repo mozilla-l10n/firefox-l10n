@@ -92,6 +92,7 @@ cfr-doorhanger-sync-bookmarks-ok-button = Activer { -sync-brand-short-name }
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Lisez ceci en déplacement
 cfr-doorhanger-send-tab-recipe-header = Lisez cette recette dans la cuisine
 cfr-doorhanger-send-tab-body = « Envoyer l’onglet » vous permet de transférer facilement ce lien à votre téléphone ou à tout autre appareil connecté à votre compte { -brand-product-name }.
 cfr-doorhanger-send-tab-ok-button = Essayer l’envoi d’onglet
