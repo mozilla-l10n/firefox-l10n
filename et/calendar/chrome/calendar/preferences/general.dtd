@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.mainbox.label "Üldised sätted" >
+
 <!ENTITY pref.dateformat.label "Kuupäeva vorming:" >
 <!ENTITY pref.dateformat.accesskey "K">
 <!ENTITY pref.dateformat.long "pikk" >
@@ -24,6 +25,9 @@
 <!ENTITY pref.default_event_length.label "Vaikimisi kestus:" >
 <!ENTITY pref.default_event_length.accesskey "e">
 
+<!ENTITY pref.default_event_task_length.label "Sündmuste ja ülesannete vaikimisi kestus">
+<!ENTITY pref.default_event_task_length.accesskey "e">
+
 <!ENTITY pref.default_task_none.label "Puudub">
 <!ENTITY pref.default_task_start_of_day.label "Päeva algus">
 <!ENTITY pref.default_task_end_of_day.label "Päeva lõpp">
@@ -34,9 +38,6 @@
 <!ENTITY pref.default_task_offset_next_hour.label "Järgmise tunni algusest">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Tänaste tegemiste paneel">
-<!ENTITY pref.soondays.label "Peatselt saabuvate osas kuvatakse:">
-<!ENTITY pref.soondays.accesskey "P">
-
 <!-- LOCALIZATION NOTE (pref.soondays2.label):
      "Upcoming" is the name of a section and the translation must match the
      translation of that section name (calendar.upcoming.button.label). Also,

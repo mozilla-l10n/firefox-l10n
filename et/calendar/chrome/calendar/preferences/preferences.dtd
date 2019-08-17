@@ -6,3 +6,6 @@
 <!ENTITY  paneAlarms.title        "Meeldetuletused">
 <!ENTITY  paneCategories.title    "Kategooriad">
 <!ENTITY  paneViews.title         "Vaated">
+<!ENTITY  panelHeader.title       "Kalender">
+<!ENTITY  panelReminder.title     "Meeldetuletused">
+<!ENTITY  panelCatecory.title     "Kategooriad">

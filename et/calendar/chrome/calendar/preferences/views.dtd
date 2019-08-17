@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "Üldine">
+
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Päeva ja nädala vaated">
 <!ENTITY pref.calendar.view.multiweekview.caption "Mitme nädala vaade">
 <!ENTITY pref.calendar.view.workweek.caption "Töönädal">
@@ -17,6 +18,8 @@
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Vaadetes ja minikalendris kuvatakse nädala numbreid">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "d">
 <!ENTITY pref.daysoff.label "Töönädala päevadena näidatakse:">
+
+<!ENTITY pref.workweekDays.label "Töönädala päevad:">
 
 <!ENTITY pref.calendar.view.daystart.label "Päev algab kell:">
 <!ENTITY pref.calendar.view.daystart.accesskey "a">
