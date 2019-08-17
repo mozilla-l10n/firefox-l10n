@@ -70,6 +70,10 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Lukk-knapp
     .title = Lukk
 
+## Protections panel
+
+cfr-protections-panel-link-text = Les mer
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =

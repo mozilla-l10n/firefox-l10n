@@ -250,6 +250,12 @@ shortcuts-modifier-other = Inkluder Ctrl eller Alt
 shortcuts-invalid = Ugyldig kombinasjon
 shortcuts-letter = Skriv en bokstav
 shortcuts-system = Kan ikke overskrive en { -brand-short-name }-snarvei
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Duplisert hurtigtast
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } brukes som en hurtigtast i mer enn ett tilfelle. Dublerte snarveier kan forårsake uventet oppførsel.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
