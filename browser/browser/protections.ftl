@@ -42,6 +42,7 @@ cryptominer-tab-title = Criptomineros
 lockwise-title = No vuelvas a olvidar una contraseña
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } almacena de forma segura tus contraseñas en tu navegador.
+lockwise-header-content-logged-in = Almacena de forma segura tus contraseñas y sincronízalas en todos tus dispositivos.
 open-about-logins-button = Abrir en { -brand-short-name }
 lockwise-no-logins-content = Obtén la aplicación de <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> para llevar tus contraseñas a todas partes.
 # This string is displayed after a large numeral that indicates the total number
