@@ -137,6 +137,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Вам неабходна пацвердзіць свой уліковы запіс, перш чым вы зможаце сінхранізавацца.">
 <!ENTITY fxa.unverified.button.label "Адкрыць налады &syncBrand.shortName.label;…">
 
+<!ENTITY pictureInPictureHideToggle.label "Схаваць пераключальнік Выява ў выяве">
+<!ENTITY pictureInPictureHideToggle.accesskey "р">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -154,6 +156,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "Імгненна адпраўляйце картку на любую прыладу, на якой вы ўвайшлі.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -536,6 +539,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchWithDesc.label):
      This string prompts the user to use the list of one-click search engines in
      the Urlbar and searchbar. -->
+<!ENTITY searchWithDesc.label         "На гэты раз шукайце ў:">
 
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
@@ -815,8 +819,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure2 "Бяспечнае злучэнне">
 <!ENTITY identity.connectionNotSecure "Небяспечнае злучэнне">
+<!ENTITY identity.connectionNotSecureSecurityView "Вы не злучаны бяспечна з гэтым сайтам.">
 <!ENTITY identity.connectionFile "Гэта старонка захоўваецца на вашым камп'ютары.">
 <!ENTITY identity.connectionVerified2 "Вы бяспечна злучаны з гэтым сайтам, якім валодае:">
+<!ENTITY identity.connectionVerified3 "Вы бяспечна злучаны з гэтым сайтам.">
 <!ENTITY identity.connectionInternal "Гэта бяспечная &brandShortName; старонка.">
 <!ENTITY identity.extensionPage "Гэтая старонка загружана з пашырэння.">
 <!ENTITY identity.insecureLoginForms2 "Лагіны, уведзеныя на гэтай старонцы, могуць быць скампраметаваны.">
@@ -859,6 +865,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Дазволы">
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "Устаноўленыя дазволы">
 <!ENTITY identity.permissionsEmpty "Вы не давалі гэтаму сайту ніякіх адмысловых дазволаў.">
 <!ENTITY identity.permissionsReloadHint "Магчыма, вам спатрэбіцца перазагрузіць старонку, каб змены пачалі дзейнічаць.">
 <!ENTITY identity.permissionsPreferences.tooltip "Адкрыць налады дазволаў">
@@ -870,6 +877,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Больш падрабязна пра ўзмоцненую ахову ад сачэння">
+<!ENTITY protections.settings.label "Налады аховы">
+<!ENTITY protections.report.label "Паказаць поўную справаздачу">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -886,7 +895,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Плацяжамі">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Каментарыі">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Відэа">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Сайт усё яшчэ не працуе пасля адключэння аховы?">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Даслаць справаздачу">
 
+<!ENTITY protections.blocking.label "Блакаванне">
+<!ENTITY protections.notBlocking.label "Без блакавання">
+<!ENTITY protections.notBlocking.why.label "Чаму?">
 <!ENTITY protections.fingerprinters.label "Збіральнікі адбіткаў пальцаў">
 <!ENTITY protections.cryptominers.label "Майнеры крыптавалют">
 
