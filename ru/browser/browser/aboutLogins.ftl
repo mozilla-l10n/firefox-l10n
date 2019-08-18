@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Логины и пароли
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = Возьмите свои пароли с собой
+login-app-promo-subtitle = Загрузите бесплатное приложение { -lockwise-brand-name }
+login-app-promo-android =
+    .alt = Доступно на Google Play
+login-app-promo-apple =
+    .alt = Загрузите в App Store
 login-filter =
     .placeholder = Поиск логинов
 create-login-button = Создать новый логин
@@ -124,3 +133,5 @@ confirm-discard-changes-dialog-confirm-button = Отменить
 
 breach-alert-text = С момента последнего обновления данных для входа, с этого сайта произошла утечка или кража паролей. Измените ваш пароль, чтобы защитить свой аккаунт.
 breach-alert-link = Узнать больше об этой утечке.
+breach-alert-dismiss =
+    .title = Закрыть это уведомление

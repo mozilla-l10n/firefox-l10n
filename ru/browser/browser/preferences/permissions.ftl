@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Исключения — Блокировка содержимого
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Вы отключили блокировку содержимого на следующих веб-сайтах.
+permissions-exceptions-etp-window =
+    .title = Исключения для улучшенной защиты от отслеживания
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Вы отключили защиту на следующих веб-сайтах.
 
 ## Exceptions - Cookies
 
