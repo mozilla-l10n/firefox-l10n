@@ -70,6 +70,12 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Knop Slute
     .title = Slute
 
+## Protections panel
+
+cfr-protections-panel-header = Sneup sûnder folge te wurden
+cfr-protections-panel-body = Hâld jo gegevens foar josels. { -brand-short-name } beskermet jo tsjin in protte fan de meast foarkommende trackers dy't folgje wat jo online dogge.
+cfr-protections-panel-link-text = Mear ynfo
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
