@@ -978,6 +978,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "Innholdsblokkering kan føre til problemer med enkelte nettsteder. Når du rapporterer problemer, hjelper du med å gjøre &brandShortName; bedre for alle. (Dette vil sende en URL, samt informasjon om nettleserinnstillingene dine, til Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Les mer">
 <!ENTITY contentBlocking.breakageReportView.title "Rapporter problem med et nettsted">
+<!ENTITY contentBlocking.breakageReportView3.description "Blokkering av visse sporere kan føre til problemer med enkelte nettsteder. Rapportering av disse problemene er med på å gjøre &brandShortName; bedre for alle. Ved sending av denne rapporten vil du sende en URL og informasjon om nettleserinnstillingene dine, til Mozilla.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Les mer">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL-adresse">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Hvilke problemer har du? (Valgfri)">
