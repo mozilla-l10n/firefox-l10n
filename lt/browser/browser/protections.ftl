@@ -39,6 +39,40 @@ social-tab-title = Socialinių tinklų stebėjimo elementai
 social-tab-contant = Socialiniai tinklai deda stebėjimo elementus kitose svetainėse, kad galėtų sekti ką veikiate, matote, žiūrite naršydami. Tai leidžia kompanijoms sužinoti apie jus žymiai daugiau, negu dalinatės savo socialinių tinklų profiliuose. <a data-l10n-name="learn-more-link">Sužinoti daugiau</a>
 cookie-tab-title = Tarp svetainių veikiantys stebėjimo slapukai
 cookie-tab-content = Šie slapukai seka jus tarp skirtingų svetainių, rinkdami informaciją, ką veikiate naršydami. Jie yra valdomi trečiųjų šalių, pvz., reklamų kūrėjų arba analitikos kompanijų. Juos blokuodami sumažinsite jus sekančių reklamų kiekį. <a data-l10n-name="learn-more-link">Sužinoti daugiau</a>
+tracker-tab-title = Stebėjimui naudojamas turinys
+tracker-tab-content = Svetainės gali įkelti išorines reklamas, vaizdo įrašus, ir kitą stebėjimo kodo turintį turinį. Tokio turinio blokavimas gali leisti gerčiau įkelti svetaines, tačiau kartu gali neveikti dalis mygtukų, formų, prisijungimo laukų. <a data-l10n-name="learn-more-link">Sužinoti daugiau</a>
+fingerprinter-tab-title = Skaitmeninių atspaudų stebėjimas
+fingerprinter-tab-content = Skaitmeninių atspaudų stebėjimo metu surenkama informacija apie jūsų naršyklės ir kompiuterio parametrus, kad būtų sudarytas jūsų profilis. Jį turint, jus galima sekti tarp skirtingų svetainių. <a data-l10n-name="learn-more-link">Sužinoti daugiau</a>
+cryptominer-tab-title = Kriptovaliutų kasėjai
+cryptominer-tab-content = Kriptovaliutų kasėjai naudoja jūsų kompiuterio resursus, kad iškastų skaitmeninių pinigų. Šis procesas eikvoja jūsų bateriją, lėtina kompiuterio veikimą, ir gali padidinti sąskaitą už elektrą. <a data-l10n-name="learn-more-link">Sužinoti daugiau</a>
+lockwise-title = Daugiau nepamirškite nė vieno slaptažodžio
+lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-header-content = „{ -lockwise-brand-name }“ saugiai įrašo slaptažodžius į jūsų naršyklę.
+lockwise-header-content-logged-in = Saugiai laikykite ir sinchronizuokite slaptažodžius tarp visų savo įrenginių.
+open-about-logins-button = Atverti per „{ -brand-short-name }“
+lockwise-no-logins-content = Naudokite programą <a data-l10n-name="lockwise-inline-link">„{ -lockwise-brand-name }“</a>, norėdami savo slaptažodžius turėti visur.
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+lockwise-passwords-stored =
+    { $count ->
+        [one] slaptažodis įrašytas saugiai <a data-l10n-name="lockwise-how-it-works">Kaip tai veikia</a>
+        [few] slaptažodžiai įrašyti saugiai <a data-l10n-name="lockwise-how-it-works">Kaip tai veikia</a>
+       *[other] slaptažodžių įrašyti saugiai <a data-l10n-name="lockwise-how-it-works">Kaip tai veikia</a>
+    }
+turn-on-sync = Įjungti „{ -sync-brand-short-name }“…
+    .title = Eiti į sinchronizavimo nuostatas
+manage-devices = Tvarkyti įrenginius
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-sync-status =
+    { $count ->
+        [one] Sinchronizuojama su { $count } kitu įrenginiu
+        [few] Sinchronizuojama su { $count } kitais įrenginiais
+       *[other] Sinchronizuojama su { $count } kitų įrenginių
+    }
+lockwise-sync-not-syncing = Nesinchronizuojama su kitais įrenginiais.
+monitor-link = Kaip tai veikia
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
