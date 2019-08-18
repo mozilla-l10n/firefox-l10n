@@ -41,6 +41,15 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } emmagatzema les contrasenyes de forma segura en el vostre navegador.
 lockwise-header-content-logged-in = Deseu i sincronitzeu les contrasenyes de forma segura en tots els vostres dispositius.
 open-about-logins-button = Obre al { -brand-short-name }
+lockwise-no-logins-content = Instal·leu l'aplicació <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> per accedir a les vostres contrasenyes des de qualsevol lloc.
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+lockwise-passwords-stored =
+    { $count ->
+        [one] Contrasenya desada de forma segura. <a data-l10n-name="lockwise-how-it-works">Com funciona?</a>
+       *[other] Contrasenyes desades de forma segura. <a data-l10n-name="lockwise-how-it-works">Com funciona?</a>
+    }
 turn-on-sync = Activa el { -sync-brand-short-name }…
     .title = Vés a les preferències de sincronització
 manage-devices = Gestiona els dispositius
@@ -48,8 +57,8 @@ manage-devices = Gestiona els dispositius
 #   $count (Number) - Number of devices connected with sync.
 lockwise-sync-status =
     { $count ->
-        [one] S'està sincronitzant amb { $count } altre dispositiu
-       *[other] S'està sincronitzant amb { $count } altres dispositius
+        [one] S'està sincronitzant amb { $count } altre dispositiu.
+       *[other] S'està sincronitzant amb { $count } altres dispositius.
     }
 lockwise-sync-not-syncing = No se sincronitza amb altres dispositius.
 monitor-title = Tingueu controlades les filtracions de dades
@@ -83,6 +92,14 @@ info-exposed-passwords =
        *[other] contrasenyes exposades entre totes les filtracions.
     }
 full-report-link = Vegeu l'informe complet al <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] inici de sessió pot haver estat exposat en una filtració de dades. Canvieu aquesta contrasenya per millorar la vostra seguretat en línia. <a data-l10n-name="lockwise-link">Mostra els inicis de sessió desats</a>
+       *[other] inicis de sessió poden haver estat exposats en una filtració de dades. Canvieu aquesta contrasenya per millorar la vostra seguretat en línia. <a data-l10n-name="lockwise-link">Mostra els inicis de sessió desats</a>
+    }
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = Vés als paràmetres de privadesa
 # This is the title attribute describing the Lockwise card's link to about:logins

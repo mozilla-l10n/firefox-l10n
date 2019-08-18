@@ -49,3 +49,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Mostra-ho tot">
+
+<!ENTITY touchBarCmdMac.label           "Personalitza la Touch Bar…">

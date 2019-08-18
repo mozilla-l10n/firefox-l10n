@@ -19,52 +19,6 @@
 <!ENTITY navbarOverflow.label                "Més eines…">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "Torna a carregar la pestanya">
-<!ENTITY  reloadTab.accesskey                "r">
-<!ENTITY  selectAllTabs.label                "Selecciona totes les pestanyes">
-<!ENTITY  selectAllTabs.accesskey            "t">
-<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTab.label                 "Duplica la pestanya">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTab.accesskey             "D">
-<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTabs.label                "Duplica les pestanyes">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTabs.accesskey            "D">
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Tanca les pestanyes de la dreta">
-<!ENTITY  closeTabsToTheEnd.accesskey        "d">
-<!ENTITY  closeOtherTabs.label               "Tanca les altres pestanyes">
-<!ENTITY  closeOtherTabs.accesskey           "l">
-
-<!ENTITY  closeTabs.label                    "Tanca les pestanyes">
-<!ENTITY  closeTabs.accesskey                "c">
-<!ENTITY  pinSelectedTabs.label              "Fixa les pestanyes">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinSelectedTabs.accesskey          "F">
-<!ENTITY  unpinSelectedTabs.label            "No fixis les pestanyes">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinSelectedTabs.accesskey        "f">
-<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadTabs.label                   "Torna a carregar les pestanyes">
-<!ENTITY  reloadTabs.accesskey               "r">
-<!ENTITY  bookmarkSelectedTabs.label         "Afegeix les pestanyes a les adreces d'interès…">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkSelectedTabs.accesskey     "x">
-
-<!-- Tab context menu -->
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -85,28 +39,8 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendPageToDevice.accesskey         "d">
 <!ENTITY  sendLinkToDevice.label             "Envia l'enllaç al dispositiu">
 <!ENTITY  sendLinkToDevice.accesskey         "d">
-<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
-These two items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  moveTabOptions.label               "Mou la pestanya">
-<!ENTITY  moveTabOptions.accesskey           "u">
-<!ENTITY  moveSelectedTabOptions.label       "Mou les pestanyes">
-<!ENTITY  moveSelectedTabOptions.accesskey   "u">
-<!ENTITY  moveToStart.label                  "Mou al principi">
-<!ENTITY  moveToStart.accesskey              "p">
-<!ENTITY  moveToEnd.label                    "Mou al final">
-<!ENTITY  moveToEnd.accesskey                "f">
-<!ENTITY  moveToNewWindow.label              "Mou a una finestra nova">
-<!ENTITY  moveToNewWindow.accesskey          "v">
-<!ENTITY  reopenInContainer.label            "Torna a obrir en un contenidor">
-<!ENTITY  reopenInContainer.accesskey        "e">
-<!ENTITY  bookmarkTab.label                  "Afegeix la pestanya a les adreces d'interès">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkTab.accesskey              "x">
 <!ENTITY  undoCloseTab.label                 "Desfés el tancament de la pestanya">
 <!ENTITY  undoCloseTab.accesskey             "D">
-<!ENTITY  closeTab.label                     "Tanca la pestanya">
-<!ENTITY  closeTab.accesskey                 "c">
 <!ENTITY  hiddenTabs.label                   "Pestanyes ocultes">
 
 <!ENTITY  listAllTabs.label      "Llista totes les pestanyes">
@@ -145,31 +79,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Barra de les adreces d'interès">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Elements de la barra de les adreces d'interès">
-
-<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Torna a carregar la pestanya seleccionada">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "r">
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Torna a carregar les pestanyes seleccionades">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "r">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Afegeix la pestanya seleccionada a les adreces d'interès…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "x">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Afegeix les pestanyes seleccionades a les adreces d'interès…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "x">
-<!ENTITY toolbarContextMenu.selectAllTabs.label "Selecciona totes les pestanyes">
-<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "t">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Desfés el tancament de la pestanya">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "D">
 
 <!ENTITY pageSourceCmd.label "Codi font de la pàgina">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -228,15 +137,26 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Heu de verificar el vostre compte abans de poder sincronitzar.">
 <!ENTITY fxa.unverified.button.label "Obre els paràmetres del &syncBrand.shortName.label;…">
 
+<!ENTITY pictureInPictureHideToggle.label "Amaga el botó d'Imatge sobre imatge">
+<!ENTITY pictureInPictureHideToggle.accesskey "m">
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Sessió iniciada com a">
 <!ENTITY fxa.menu.manageAccount.label "Gestiona el compte…">
 <!ENTITY fxa.menu.syncSettings.label "Paràmetres del &syncBrand.shortName.label;…">
-<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Connecta un altre dispositiu…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!ENTITY fxa.menu.signin.label "Inicia la sessió al &brandProductName;">
+<!ENTITY fxa.menu.turnOnSync.label "Activa el &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.account.label "Compte">
+<!ENTITY fxa.menu.firefoxServices.label "Serveis del &brandProductName;">
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "Envieu una pestanya instantàniament a qualsevol dispositiu on hàgiu iniciat la sessió.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -280,6 +200,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "Afegeix-hi totes les pestanyes…">
+
 <!ENTITY showAllBookmarks2.label "Mostra totes les adreces d'interès">
 <!ENTITY recentBookmarks.label "Afegides recentment">
 <!ENTITY otherBookmarksCmd.label "Altres adreces d'interès">
@@ -340,7 +261,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasBlocked.tooltip            "Heu blocat l'extracció de dades de llenç (canvas) per a aquest lloc web.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Heu blocat l'ús del connector Adobe Flash en aquest lloc web.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Heu blocat l'accés MIDI per a aquest lloc web.">
-
 <!ENTITY urlbar.installBlocked.tooltip           "Heu blocat la instal·lació de complements per a aquest lloc web.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostra l'historial">
@@ -403,6 +323,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Fitxer">
 <!ENTITY fileMenu.accesskey       "F">
+
 <!ENTITY newUserContext.label             "Pestanya de contenidor nova">
 <!ENTITY newUserContext.accesskey         "v">
 <!ENTITY manageUserContext.label          "Gestiona els contenidors">
@@ -452,6 +373,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "a">
 <!ENTITY viewSidebarMenu.label "Barra lateral">
 <!ENTITY viewSidebarMenu.accesskey "e">
+
 <!ENTITY viewCustomizeToolbar.label       "Personalitza…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
 <!ENTITY overflowCustomizeToolbar.label       "Personalitza la barra d'eines…">
@@ -465,6 +387,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Restaura la sessió anterior">
 
 <!ENTITY showAllHistoryCmd2.label "Mostra tot l'historial">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Mostra tot l'historial">
@@ -530,7 +453,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "e">
 <!ENTITY customizeMenu.removeExtension.label "Elimina l'extensió">
 <!ENTITY customizeMenu.removeExtension.accesskey "l">
-
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
@@ -611,6 +533,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Cerca amb:">
+
+<!-- LOCALIZATION NOTE (searchWithDesc.label):
+     This string prompts the user to use the list of one-click search engines in
+     the Urlbar and searchbar. -->
+
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -684,9 +611,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Envia l'enllaç per correu…">
 <!ENTITY emailPageCmd.accesskey       "E">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Anomena i desa la pàgina…">
 <!ENTITY savePageCmd.accesskey        "s">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "d">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Anomena i desa el marc…">
@@ -791,22 +718,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Augmenta">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "A">
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Redueix">
 <!ENTITY fullZoomReduceCmd.accesskey    "d">
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Reinicia">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Augmenta el text només">
 <!ENTITY fullZoomToggleCmd.accesskey    "t">
+
 <!ENTITY fullZoom.label                 "Mida de la pàgina">
 <!ENTITY fullZoom.accesskey             "d">
 
@@ -824,6 +755,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Tanca">
+
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "c">
 
@@ -877,6 +809,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Connexió">
 <!ENTITY identity.connectionSecure "Connexió segura">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label2)
+     This is the header of the security subview in the Site Identity panel. -->
+
 <!ENTITY identity.connectionNotSecure "La connexió no és segura">
 <!ENTITY identity.connectionFile "Aquesta pàgina està desada a l'ordinador.">
 <!ENTITY identity.connectionVerified2 "Esteu connectat de forma segura a aquest lloc, mantingut per:">
@@ -903,7 +839,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Aquest lloc web inclou contingut que no és segur (com els scripts) i la connexió no és privada.">
 <!ENTITY identity.description.activeLoaded2 "La informació que compartiu amb aquest lloc podria ser visualitzada per altres persones (com contrasenyes, missatges, targetes de crèdit, etc.).">
 
-
 <!ENTITY identity.enableMixedContentBlocking.label "Activa la protecció">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "v">
 <!ENTITY identity.disableMixedContentBlocking.label "Desactiva la protecció aquesta vegada">
@@ -918,10 +853,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Esborra les galetes i dades dels llocs…">
 
 <!ENTITY identity.permissions "Permisos">
+
+<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissionsEmpty "No heu donat cap permís especial a aquest lloc.">
 <!ENTITY identity.permissionsReloadHint "Potser cal que actualitzeu la pàgina per aplicar els canvis.">
 <!ENTITY identity.permissionsPreferences.tooltip "Obre les preferències de permisos">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Obre les preferències de bloqueig de contingut">
+
+
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!-- LOCALIZATION NOTE:
+     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
+     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!-- LOCALIZATION NOTE:
+     In the Site Not Working? view, we suggest turning off protections if
+     the user is experiencing issues with any of a variety of functionality.
+     protections.siteNotWorkingView.header: The header of the list
+     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -932,87 +882,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Pestanyes sincronitzades">
 
 <!ENTITY syncedTabs.sidebar.label              "Pestanyes sincronitzades">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Inicieu la sessió al Firefox en altres dispositius per tal de veure'n aquí les pestanyes obertes.">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "Voleu veure aquí les pestanyes d'altres dispositius?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "Inicieu la sessió per veure una llista de les pestanyes que teniu obertes en altres dispositius.">
-<!ENTITY syncedTabs.sidebar.unverified.label   "Cal que verifiqueu el compte.">
-<!ENTITY syncedTabs.sidebar.notabs.label       "No hi ha cap pestanya oberta">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "Obre les preferències del &syncBrand.shortName.label;">
-<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
-     when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activeu la sincronització de pestanyes per veure una llista de les pestanyes que teniu obertes en altres dispositius.">
-<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Cerca en les pestanyes sincronitzades">
-<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Connecta un altre dispositiu">
-
-<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
-                        syncedTabs.context.openAllInTabs.accesskey):
-     These access keys are identical because their associated menu items are
-     mutually exclusive -->
-<!ENTITY syncedTabs.context.open.label                       "Obre">
-<!ENTITY syncedTabs.context.open.accesskey                   "O">
-<!ENTITY syncedTabs.context.openInNewTab.label               "Obre en una pestanya nova">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "t">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "Obre en una finestra nova">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "n">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Obre en una finestra privada nova">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Afegeix aquesta pestanya a les adreces d'interès…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "f">
-<!ENTITY syncedTabs.context.copy.label                       "Copia">
-<!ENTITY syncedTabs.context.copy.accesskey                   "C">
-
-<!ENTITY syncedTabs.context.openAllInTabs.label              "Obre-ho tot en pestanyes">
-<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
-<!ENTITY syncedTabs.context.managedevices.label              "Gestiona els dispositius…">
-<!ENTITY syncedTabs.context.managedevices.accesskey          "d">
-
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSignIn.label             "Inicia la sessió al &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
+
 <!ENTITY syncSyncNowItem.label        "Sincronitza ara">
 <!ENTITY syncSyncNowItemSyncing.label "S'està sincronitzant…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Torna a connectar al &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "r">
 <!ENTITY syncToolbarButton.label      "Sincronització">
-
-<!ENTITY customizeMode.menuAndToolbars.header3 "Arrossegueu els vostres elements favorits a la barra d'eines o al menú d'eines addicionals (»).">
-<!ENTITY customizeMode.restoreDefaults "Restaura els valors per defecte">
-<!ENTITY customizeMode.done "Fet">
-<!ENTITY customizeMode.titlebar "Barra de títol">
-<!ENTITY customizeMode.extraDragSpace "Espai per arrossegar la finestra">
-<!ENTITY customizeMode.toolbars2 "Barres d'eines">
-<!ENTITY customizeMode.lwthemes "Temes">
-<!ENTITY customizeMode.lwthemes.myThemes "Els meus temes">
-<!ENTITY customizeMode.lwthemes.recommended "Recomanats">
-<!ENTITY customizeMode.lwthemes.menuManage "Gestiona">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "G">
-<!ENTITY customizeMode.lwthemes.menuGetMore "Baixa més temes">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "B">
-<!ENTITY customizeMode.overflowList.title2 "Menú d'eines addicionals (»)">
-<!ENTITY customizeMode.overflowList.description "Arrossegueu elements i deixeu-los anar aquí per tenir-los a mà, però fora de la barra d'eines…">
-<!ENTITY customizeMode.uidensity "Densitat">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
-     “Normal” is displayed in the Customize screen, under the Density menu. -->
-<!ENTITY customizeMode.uidensity.menuNormal.label "Normal">
-<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normal">
-<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
-     “Compact” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Compact). -->
-<!ENTITY customizeMode.uidensity.menuCompact.label "Compacte">
-<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Compacte">
-<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
-     “Touch” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Touch), and it means that control layout is
-     optimized for touch devices. -->
-<!ENTITY customizeMode.uidensity.menuTouch.label "Tàctil">
-<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Tàctil">
-<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
-<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Utilitza «tàctil» per al mode de tauleta">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Amaga automàticament">
 
@@ -1030,13 +911,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Elements de seguiment">
 
 <!ENTITY contentBlocking.manageSettings.label "Gestiona el bloqueig de contingut">
+
+
 <!ENTITY contentBlocking.manageSettings.accesskey "G">
 
 <!ENTITY contentBlocking.trackersView.label "Elements de seguiment">
+
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Per blocar tots els elements de seguiment, trieu el bloqueig de contingut «Estricte».">
 
 <!ENTITY contentBlocking.cookies.label "Galetes">
 <!ENTITY contentBlocking.cookiesView.label "Galetes i dades dels llocs">
+
+
 
 <!ENTITY contentBlocking.cryptominers.label "Miners de criptomonedes">
 <!ENTITY contentBlocking.cryptominersView.label "Miners de criptomonedes">
@@ -1080,27 +966,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "Tanca">
 
-<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
-     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
-     Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "Oblida:">
-<!ENTITY panicButton.view.5min                    "Els darrers cinc minuts">
-<!ENTITY panicButton.view.2hr                     "Les darreres dues hores">
-<!ENTITY panicButton.view.day                     "Les darreres 24 hores">
-
-<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
-     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
-     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
-     The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "En continuar:">
-<!ENTITY panicButton.view.deleteCookies           "Se suprimiran les <html:strong>galetes</html:strong> recents">
-<!ENTITY panicButton.view.deleteHistory           "Se suprimirà l'<html:strong>historial</html:strong> recent">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "Es tancaran totes les <html:strong>pestanyes</html:strong> i <html:strong>finestres</html:strong>">
-<!ENTITY panicButton.view.openNewWindow           "S'obrirà una finestra nova buida">
-
-<!ENTITY panicButton.view.undoWarning             "Aquesta acció no es pot desfer.">
-<!ENTITY panicButton.view.forgetButton            "Oblida!">
-
 <!ENTITY panicButton.thankyou.msg1                "S'ha netejat el vostre historial recent.">
 <!ENTITY panicButton.thankyou.msg2                "Navegueu amb seguretat!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Gràcies!">
@@ -1108,31 +973,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Més informació sobre DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "Actualitzeu el &brandShorterName; per millorar la velocitat i privadesa.">
-<!ENTITY updateAvailable.whatsnew.label "Descobriu-ne les novetats.">
-<!ENTITY updateAvailable.header.message "Hi ha una actualització del &brandShorterName; disponible.">
-<!ENTITY updateAvailable.acceptButton.label "Baixa l'actualització">
-<!ENTITY updateAvailable.acceptButton.accesskey "B">
-<!ENTITY updateAvailable.cancelButton.label "Ara no">
-<!ENTITY updateAvailable.cancelButton.accesskey "n">
-
 <!ENTITY updateAvailable.panelUI.label "Baixa l'actualització del &brandShorterName;">
-
-<!ENTITY updateManual.message "Baixeu una còpia nova del &brandShorterName; i us ajudarem a instal·lar-la.">
-<!ENTITY updateManual.whatsnew.label "Descobriu-ne les novetats.">
-<!ENTITY updateManual.header.message "El &brandShorterName; no s'ha pogut actualitzar a la versió més recent.">
-<!ENTITY updateManual.acceptButton.label "Baixa el &brandShorterName;">
-<!ENTITY updateManual.acceptButton.accesskey "B">
-<!ENTITY updateManual.cancelButton.label "Ara no">
-<!ENTITY updateManual.cancelButton.accesskey "n">
 <!ENTITY updateManual.panelUI.label "Baixa una còpia nova del &brandShorterName;">
-
-<!ENTITY updateRestart.message2 "Després d'un reinici ràpid, el &brandShorterName; restaurarà totes les pestanyes i les finestres obertes que no estiguin en mode de navegació privada.">
-<!ENTITY updateRestart.header.message2 "Reinicia per actualitzar el &brandShorterName;.">
-<!ENTITY updateRestart.acceptButton.label "Reinicia i restaura">
-<!ENTITY updateRestart.acceptButton.accesskey "R">
-<!ENTITY updateRestart.cancelButton.label "Ara no">
-<!ENTITY updateRestart.cancelButton.accesskey "n">
 <!ENTITY updateRestart.panelUI.label2 "Reinicia per actualitzar el &brandShorterName;">
 
 <!ENTITY newTabControlled.header.message "La pàgina de «Pestanya nova» ha canviat.">
@@ -1171,18 +1013,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Funcions d'accessibilitat activades">
-
-<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
-     The first <image> tag is replaced with the icon for the add-ons menu.
-     The second <image> tag is replaced with the icon for the toolbar menu. -->
-<!ENTITY addonPostInstallMessage.label "Gestioneu els vostres complements fent clic a <image class='addon-addon-icon'/> al menú <image class='addon-toolbar-icon'/>.">
-<!ENTITY addonPostInstall.incognito.checkbox.label "Permet que aquesta extensió s'executi en finestres privades">
-<!ENTITY addonPostInstall.incognito.checkbox.accesskey "P">
-
-<!ENTITY addonPrivateBrowsing.header2.label "Canvi en les extensions en finestres privades">
-<!ENTITY addonPrivateBrowsing.body2.label "Les extensions noves que afegiu al &brandShorterName; no funcionaran en finestres privades, tret que ho permeteu explícitament en els paràmetres.">
-<!ENTITY addonPrivateBrowsing.learnMore.label "Apreneu a gestionar els paràmetres de les extensions">
-<!ENTITY addonPrivateBrowsing.okButton.label "D'acord">
-<!ENTITY addonPrivateBrowsing.okButton.accesskey "o">
-<!ENTITY addonPrivateBrowsing.manageButton.label "Gestiona les extensions">
-<!ENTITY addonPrivateBrowsing.manageButton.accesskey "G">
