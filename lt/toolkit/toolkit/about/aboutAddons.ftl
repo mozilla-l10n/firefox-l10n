@@ -250,6 +250,12 @@ shortcuts-modifier-other = Įtraukti Ctrl arba Alt
 shortcuts-invalid = Netinkama kombinacija
 shortcuts-letter = Surinkite raidę
 shortcuts-system = Negalima naudoti „{ -brand-short-name }“ sparčiųjų klavišų
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Pasikartojantis spartusis klavišas
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } jau naudojamas kaip spartusis klavišas. Pasikartojantys spartieji klavišai gali sukelti nepageidaujamų pasekmių.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on

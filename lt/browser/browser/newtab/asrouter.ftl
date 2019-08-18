@@ -92,6 +92,13 @@ cfr-doorhanger-sync-bookmarks-body = Turėkite savo adresyną, slaptažodžius, 
 cfr-doorhanger-sync-bookmarks-ok-button = Įjungti „{ -sync-brand-short-name }“
     .accesskey = j
 
+## Login Sync
+
+cfr-doorhanger-sync-logins-header = Daugiau niekada nepamirškite slaptažodžio
+cfr-doorhanger-sync-logins-body = Saugiai laikykite ir sinchronizuokite slaptažodžius tarp visų savo įrenginių.
+cfr-doorhanger-sync-logins-ok-button = Įjungti „{ -sync-brand-short-name }“
+    .accesskey = t
+
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Skaitykite tai keliaudami
