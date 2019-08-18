@@ -112,7 +112,7 @@ search-results-help-link = Kailangan ng tulong? Bisitahin ang <a data-l10n-name=
 
 ## General Section
 
-startup-header = Nagsisimula
+startup-header = Startup
 # { -brand-short-name } will be 'Firefox Developer Edition',
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
@@ -121,7 +121,7 @@ use-firefox-sync = Tip: Gumagamit ito ng mga hiwalay na profile. Gumamit ng { -s
 get-started-not-logged-in = Mag-sign in sa { -sync-brand-short-name }…
 get-started-configured = Buksan ang mga preference ng { -sync-brand-short-name }
 always-check-default =
-    .label = Laging suriin kung ang { -brand-short-name } ay ang iyong default na browser
+    .label = Laging suriin kung { -brand-short-name } ang iyong default na browser
     .accesskey = y
 is-default = { -brand-short-name } ay ang iyong kasalukuyang ginagamit na browser.
 is-not-default = Hindi { -brand-short-name } ang iyong default na browser
@@ -132,15 +132,15 @@ startup-restore-previous-session =
     .label = Ibalik ang Nakaraang Session
     .accesskey = S
 startup-restore-warn-on-quit =
-    .label = Babalaan ka kapag huminto ka sa pag-browse
+    .label = Balaan ka kapag isinara ang browser
 disable-extension =
     .label = Huwag Paganahin and Extensyon
 tabs-group-header = Tabs
 ctrl-tab-recently-used-order =
-    .label = Ctrl+Tab cycles sa pamamagitan ng mga tab sa kamakailang ginamit order
+    .label = Iniisa-isa ng Ctrl+Tab ang mga tab base sa pinakahuling ginamit
     .accesskey = T
 open-new-link-as-tabs =
-    .label = Buksan ang mga link sa mga tab sa halip ng mga bagong window
+    .label = Buksan ang mga link sa mga tab sa halip na mga bagong window
     .accesskey = w
 warn-on-close-multiple-tabs =
     .label = Babalaan ka kapag nagsasara ng maraming mga tab
@@ -149,7 +149,7 @@ warn-on-open-many-tabs =
     .label = Binabalaan ka kapag nagbubukas ng maramihang mga tab ay maaaring makapagpabagal { -brand-short-name }
     .accesskey = d
 switch-links-to-new-tabs =
-    .label = Kapag binuksan mo ang isang link sa isang bagong tab, agad itong lumipat
+    .label = Kapag binuksan mo ang link sa bagong tab, lumipat kaagad doon
     .accesskey = h
 show-tabs-in-taskbar =
     .label = Ipakita ang paunang-tingin na tab sa Windows taskbar
@@ -219,12 +219,12 @@ translate-exceptions =
     .label = Mga exceptions...
     .accesskey = x
 check-user-spelling =
-    .label = Suriin ang pagkabaybay habang nag ta-type
+    .label = Suriin ang pagkakabaybay habang nagta-type
     .accesskey = t
 
 ## General Section - Files and Applications
 
-files-and-applications-title = Mga File at Mga Aplikasyon
+files-and-applications-title = Mga File at Application
 download-header = Mga Download
 download-save-to =
     .label = I-save ang mga file sa
@@ -241,10 +241,10 @@ download-choose-folder =
            *[other] o
         }
 download-always-ask-where =
-    .label = Laging itanong sa iyo kung saan mag-save ng mga file
+    .label = Laging itanong sa iyo kung saan magse-save ng mga file
     .accesskey = A
 applications-header = Applications
-applications-description = Piliin kung paano { -brand-short-name } ang mga file na iyong na-download mula sa web o ang mga application na iyong ginagamit habang nagba-browse.
+applications-description = Piliin kung ano ang gagawin ng { -brand-short-name } sa mga file na iyong na-download mula sa web o mga application na iyong ginagamit habang nagba-browse.
 applications-filter =
     .placeholder = Maghanap ng mga uri ng file o mga application
 applications-type-column =

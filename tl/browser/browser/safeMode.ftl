@@ -13,4 +13,4 @@ safe-mode-description = Safe Mode ay isang espesyal na mode ng { -brand-short-na
 safe-mode-description-details = Ang iyong mga add-on at mga pasadyang setting ay pansamantalang madi-disable, at ang mga feature ng { -brand-short-name } ay maaaring hindi gumana gaya ng nakagawian.
 refresh-profile-instead = Pwede mong laktawan ang troubleshooting at subukan na i-refresh muli ang { -brand-short-name }.
 # Shown on the safe mode dialog after multiple startup crashes. 
-auto-safe-mode-description = { -brand-short-name } ay nagsara ng hindi inaasahan habang nagbubukas. Ito ay maaring dahil sa mga add-on o iba pang mga problema. Maari mong maresolba ang problema sa pagtroubleshoot sa Safe Mode.
+auto-safe-mode-description = Ang { -brand-short-name } ay nagsara nang di-inaasahan habang nagbubukas. Ito ay maaring dahil sa mga add-on o iba pang mga problema. Maaari mong maresolba ang problema kapag nag-troubleshoot sa Safe Mode.
