@@ -39,6 +39,7 @@ tracker-tab-content = Los sitios web pueden cargar anuncios publicitarios, video
 fingerprinter-tab-title = Creadores de huellas (Fingerprinters)
 fingerprinter-tab-content = Los creadores de huellas (Fingerprinters) recolectan ajustes de tu navegador y computador para crear un perfil tuyo. Usando esta huella digital ellos pueden seguirte a través de diferentes sitios web. <a data-l10n-name="learn-more-link">Aprender más</a>
 cryptominer-tab-title = Criptomineros
+cryptominer-tab-content = Los criptomineros utilizan la potencia de cómputo de tu sistema para la minería de dinero digital. Los scripts utilizados para ello consumen tu batería, relentecen tu computador e incrementan el valor de tu boleta de electricidad. <a data-l10n-name="learn-more-link">Aprender más</a>
 lockwise-title = No vuelvas a olvidar una contraseña
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } almacena de forma segura tus contraseñas en tu navegador.
