@@ -57,3 +57,12 @@ rcwn-avg-long = 긴 평균
 rcwn-std-dev-long = 긴 표준 편차
 rcwn-cache-slow = 느린 캐시 횟수
 rcwn-cache-not-slow = 느리지 않은 캐시 횟수
+networkid = 네트워크 ID
+networkid-id = 네트워크 ID
+
+## Link is intended as "network link"
+
+networkid-isUp = 링크가 작동 중
+
+
+

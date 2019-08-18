@@ -137,6 +137,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "동기화하기 전에 계정을 확인해야 합니다.">
 <!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label; 설정 열기…">
 
+<!ENTITY pictureInPictureHideToggle.label "화면 속 화면 토글 숨기기">
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -153,10 +156,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-<!ENTITY fxa.service.send.description "종단 간 암호화와 자동 만료되는 링크로 파일을 업로드하고 공유하십시오.">
-<!ENTITY fxa.service.send.launch "&sendShortName; 시작">
-<!ENTITY fxa.service.monitor.description "데이터 유출 사건에 사용자의 이메일이 있는지를 확인하고 새 데이터 유출 사건에 있으면 사용자에게 알려 줍니다.">
-<!ENTITY fxa.service.monitor.launch "&monitorShortName; 시작">
 <!ENTITY fxa.service.sendTab.description "로그인한 모든 기기로 즉시 탭을 보냅니다.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -536,6 +535,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "여기서 검색:">
+
+<!-- LOCALIZATION NOTE (searchWithDesc.label):
+     This string prompts the user to use the list of one-click search engines in
+     the Urlbar and searchbar. -->
+<!ENTITY searchWithDesc.label         "이번에 다음으로 검색:">
+
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -814,13 +819,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure2 "안전한 연결">
 <!ENTITY identity.connectionNotSecure "안전하지 않은 연결">
+<!ENTITY identity.connectionNotSecureSecurityView "이 사이트에 안전하게 연결되어 있지 않습니다.">
 <!ENTITY identity.connectionFile "이 페이지는 사용자의 컴퓨터에 저장됩니다.">
 <!ENTITY identity.connectionVerified2 "안전하게 사이트에 연결되었습니다. 소유자:">
+<!ENTITY identity.connectionVerified3 "이 사이트에 안전하게 연결되어 있습니다.">
 <!ENTITY identity.connectionInternal "안전한 &brandShortName; 페이지입니다.">
 <!ENTITY identity.extensionPage "이 페이지는 확장 기능으로부터 로드되었습니다.">
 <!ENTITY identity.insecureLoginForms2 "이 페이지에 입력된 로그인 정보는 노출될 수 있습니다.">
 <!ENTITY identity.customRoot "Mozilla에서 인식하지 못하는 인증서 발급자가 연결을 확인했습니다.">
 
+<!ENTITY identity.evOwnerLabel "사이트 소유자:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName;가 안전하지 않은 페이지의 일부를 차단했습니다.">
@@ -857,6 +865,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "권한">
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "권한 모음">
 <!ENTITY identity.permissionsEmpty "이 사이트를 특별한 권한으로 승인하지 않았습니다.">
 <!ENTITY identity.permissionsReloadHint "변경 사항을 적용하려면 페이지를 새로고침해야 할 수 있습니다.">
 <!ENTITY identity.permissionsPreferences.tooltip "권한 설정 열기">
@@ -867,6 +876,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpOFF.header "이 사이트에 향상된 추적 방지 기능이 꺼져 있습니다">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "향상된 추적 방지 기능에 대한 추가 정보">
 <!ENTITY protections.settings.label "보호 설정">
 <!ENTITY protections.report.label "전체 보고서 보기">
 <!-- LOCALIZATION NOTE:
@@ -906,8 +916,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.description "웹 사이트에서 외부 광고, 동영상 및 기타 추적 코드가 포함된 콘텐츠를 로드 할 수 있습니다. 콘텐츠 추적을 차단하면 사이트를 더 빨리 로드 할 수 있지만 일부 버튼, 양식 및 로그인 필드가 작동하지 않을 수 있습니다.">
 <!ENTITY protections.socialMediaTrackers.description "소셜 네트워크는 다른 웹 사이트에 추적기를 배치하여 온라인에서 한 일이나 본 것, 재생한 것을 추적합니다. 이를 통해 소셜 미디어 회사들은 소셜 미디어 프로필에서 공유하는 것 이상의 자세한 정보를 얻을 수 있습니다.">
 
-<!ENTITY protections.manageProtectionSettings.label "보호 설정 관리">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "브라우저 탭">
@@ -944,19 +952,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "추적기">
 
-
 <!ENTITY contentBlocking.manageSettings.label "콘텐츠 차단 관리">
+
+<!ENTITY contentBlocking.trackingProtection4.label "추적 콘텐츠">
+
+<!ENTITY contentBlocking.manageSettings2.label "보호 설정 관리">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "추적기">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "모든 추적기를 차단하려면 콘텐츠 차단을 “엄격”으로 설정하세요.">
 
-<!ENTITY contentBlocking.socialblock.label "소셜 미디어 추적기">
-<!ENTITY contentBlocking.socialblockView.label "소셜 미디어 추적기 차단됨">
-<!ENTITY contentBlocking.socialblockView.description "소셜 네트워크는 다른 웹 사이트에 추적기를 배치하여 온라인에서 한 일이나 본 것, 재생한 것을 추적합니다. 이를 통해 소셜 미디어 회사들은 소셜 미디어 프로필에서 공유하는 것 이상의 자세한 정보를 얻을 수 있습니다.">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "모든 추적기를 차단하려면 콘텐츠 차단을 “엄격”으로 설정하세요.">
 
 <!ENTITY contentBlocking.cookies.label "쿠키">
 <!ENTITY contentBlocking.cookiesView.label "쿠키와 사이트 데이터">
+
+<!ENTITY contentBlocking.socialblock.label "소셜 미디어 추적기">
+
+<!ENTITY contentBlocking.cookies2.label "교차 사이트 추적 쿠키">
 
 <!ENTITY contentBlocking.cryptominers.label "크립토마이너">
 <!ENTITY contentBlocking.cryptominersView.label "크립토마이너">

@@ -697,6 +697,7 @@ addressbar-suggestions-settings = 검색 엔진 추천 설정 변경
 ## Privacy Section - Content Blocking
 
 content-blocking-header = 콘텐츠 차단
+content-blocking-enhanced-tracking-protection = 향상된 추적 방지 기능
 content-blocking-section-description = 탐색하는 동안 개인 정보를 보호하십시오. 사용자가 방문하는 사이트를 추적하고 개인을 식별하는 보이지 않는 콘텐츠를 차단합니다. 이 콘텐츠 중 일부를 차단하면 페이지가 더 빨리 로드 될 수 있습니다.
 content-blocking-learn-more = 자세히 보기
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -715,6 +716,9 @@ content-blocking-strict-description = 강한 보호 기능으로 인해 일부 �
 content-blocking-custom-desc = 차단할 항목을 선택하세요.
 content-blocking-private-trackers = 사생활 보호 모드에서 알려진 추적기만
 content-blocking-third-party-cookies = 제3자 추적 쿠키
+content-blocking-etp-strict-desc = 더 강력한 보호 기능을 제공하지만, 일부 사이트나 콘텐츠가 손상될 수 있습니다.
+content-blocking-etp-custom-desc = 차단할 추적기와 스크립트를 선택하십시오.
+content-blocking-social-media-trackers = 소셜 미디어 추적기
 content-blocking-all-cookies = 모든 쿠키
 content-blocking-unvisited-cookies = 방문하지 않은 사이트의 쿠키
 content-blocking-all-windows-trackers = 알려진 추적기를 모든 창에서
@@ -724,12 +728,17 @@ content-blocking-fingerprinters = 핑거프린터
 content-blocking-warning-title = 조심하세요!
 content-blocking-warning-description = 콘텐츠를 차단하면 일부 웹사이트가 깨질 수 있습니다. 신뢰할 수 있는 사이트에 대한 차단은 쉽게 해제 할 수 있습니다.
 content-blocking-learn-how = 방법 알아보기
+content-blocking-etp-warning-description = 추적기 차단은 일부 사이트의 기능에 영향을 줄 수 있습니다. 모든 콘텐츠를 로드하려면 추적기가 있는 페이지를 다시 로드하십시오.
+content-blocking-warning-learn-how = 방법 알아보기
 content-blocking-reload-description = 이러한 변경 사항을 적용하려면 탭을 다시 로드해야 합니다.
 content-blocking-reload-tabs-button =
     .label = 모든 탭 다시 읽기
     .accesskey = R
 content-blocking-trackers-label =
     .label = 추적기
+    .accesskey = T
+content-blocking-tracking-content-label =
+    .label = 추적 콘텐츠
     .accesskey = T
 content-blocking-tracking-protection-option-all-windows =
     .label = 모든 창에서
