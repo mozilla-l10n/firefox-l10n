@@ -85,6 +85,11 @@ cfr-whatsnew-panel-header = מה חדש
 cfr-doorhanger-sync-bookmarks-ok-button = הפעלת { -sync-brand-short-name }
     .accesskey = ה
 
+## Login Sync
+
+cfr-doorhanger-sync-logins-ok-button = הפעלת { -sync-brand-short-name }
+    .accesskey = ה
+
 ## Send Tab
 
 
