@@ -30,8 +30,8 @@ onboarding-join-form-legal = Kontynuując, wyrażasz zgodę na <a data-l10n-name
 onboarding-join-form-continue = Kontynuuj
 onboarding-start-browsing-button-label = Zacznij przeglądać Internet
 onboarding-cards-dismiss =
-    .title = Usuń z tej sekcji
-    .aria-label = Usuń z tej sekcji
+    .title = Zamknij
+    .aria-label = Zamknij
 
 ## Firefox Sync modal dialog strings.
 
@@ -92,7 +92,7 @@ onboarding-data-sync-text2 = Synchronizuj zakładki, hasła i nie tylko wszędz
 onboarding-data-sync-button2 = Zaloguj się do { -sync-brand-short-name(case: "gen", capitalization: "lower") }
 onboarding-firefox-monitor-title = Zachowaj czujność wobec wycieków danych
 onboarding-firefox-monitor-text = { -monitor-brand-name } monitoruje, czy Twój adres e-mail pojawił się w bazach wykradzionych haseł i powiadamia, jeśli pojawi się w nowych.
-onboarding-firefox-monitor-button = Zapisz się po powiadomienia
+onboarding-firefox-monitor-button = Subskrybuj powiadomienia
 onboarding-browse-privately-title = Przeglądaj prywatnie
 onboarding-browse-privately-text = Tryb prywatny usuwa historię przeglądania i wyszukiwania, aby zachować ją w tajemnicy przed innymi użytkownikami komputera.
 onboarding-browse-privately-button = Otwórz okno w trybie prywatnym

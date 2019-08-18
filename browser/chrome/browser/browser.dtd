@@ -1057,7 +1057,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.shareUrl.label "Udostępnij">
 <!ENTITY pageAction.shareMore.label "Więcej…">
 
-<!ENTITY libraryButton.tooltip "Wyświetl historię, zapisane zakładki i jeszcze więcej">
+<!ENTITY libraryButton.tooltip "Wyświetl historię, zachowane zakładki i jeszcze więcej">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
