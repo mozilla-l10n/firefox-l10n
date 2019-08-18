@@ -48,6 +48,31 @@ lockwise-title-logged-in = lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } lagrar dina lösenord på ett säkert sätt i din webbläsare.
 lockwise-header-content-logged-in = Lagra och synkronisera dina lösenord på ett säkert sätt mellan alla dina enheter.
 open-about-logins-button = open-about-logins-button = Öppna i { -brand-short-name }
+lockwise-no-logins-content = Hämta appen <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> för att komma åt dina lösenord överallt.
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+lockwise-passwords-stored =
+    { $count ->
+        [one] lösenord lagrat säkert <a data-l10n-name="lockwise-how-it-works">Så funkar det</a>
+       *[other] lösenord lagrade säkert <a data-l10n-name="lockwise-how-it-works">Så funkar det</a>
+    }
+turn-on-sync = Slå på { -sync-brand-short-name }…
+    .title = Gå till inställningar för sync
+manage-devices = Hantera enheter
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-sync-status =
+    { $count ->
+        [one] Synkroniserar med { $count } annan enhet
+       *[other] Synkroniserar med { $count } andra enheter
+    }
+lockwise-sync-not-syncing = Synkroniserar inte med andra enheter.
+monitor-title = Håll koll på dataintrång
+monitor-link = Hur fungerar det
+monitor-header-content = Använd { -monitor-brand-name } för att se om du har varit en del av ett dataintrång och få varningar om nya överträdelser.
+monitor-header-content-logged-in = { -monitor-brand-name } varnar dig om din information har dykt upp i ett känt dataintrång
+monitor-sign-up = Registrera dig för intrångsvarningar
 # This is the title attribute describing the Lockwise card's link to about:logins
 go-to-saved-logins = go-to-saved-logins = Gå till Sparade inloggningar
 
