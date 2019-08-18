@@ -24,8 +24,8 @@ graph-total-summary =
 protection-header-details-standard = Vernenivået er sett til <b>standard</b>
 protection-header-details-strict = Vernenivået er sett til <b>streng</b>
 protection-header-details-custom = Vernenivået er sett til <b>tilpasset</b>
-protection-report-page-title = Vern om personvern
-protection-report-content-title = Vern om personvern
+protection-report-page-title = Vern av personvern
+protection-report-content-title = Vern av personvern
 etp-card-title = Utvida sporingsvern
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
