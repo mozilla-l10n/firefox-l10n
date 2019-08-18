@@ -26,6 +26,7 @@ protection-header-details-strict = Ang Antas ng Proteksyon ay naka-set sa <b>Str
 protection-header-details-custom = Ang Antas ng Proteksyon ay naka-set sa <b>Pasadya</b>
 protection-report-page-title = Mga Privacy Protection
 protection-report-content-title = Mga Privacy Protection
+etp-card-title = Enhanced Tracking Protection
 etp-card-content = Sinusundan ka ng mga tracker online para makakuha ng impormasyon tungkol sa iyong mga kaugalian at interes sa pagba-browse. Hinaharang ng { -brand-short-name } ang karamihan sa mga tracker na ito at ibang mga delikadong script.
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
@@ -131,4 +132,25 @@ bar-tooltip-cookie =
         { $count ->
             [one] { $count } cross-site tracking cookie ({ $percentage }%)
            *[other] { $count } cross-site tracking cookie ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = Tracking Content
+    .aria-label =
+        { $count ->
+            [one] { $count } tracking content ({ $percentage }%)
+           *[other] { $count } tracking content ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Mga fingerprinter
+    .aria-label =
+        { $count ->
+            [one] { $count } fingerprinter ({ $percentage }%)
+           *[other] { $count } fingerprinter ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Mga cryptominer
+    .aria-label =
+        { $count ->
+            [one] { $count } cryptominer ({ $percentage }%)
+           *[other] { $count } cryptominer ({ $percentage }%)
         }
