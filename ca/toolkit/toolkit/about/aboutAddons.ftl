@@ -93,11 +93,14 @@ detail-update-manual =
     .tooltiptext = No instal·lis actualitzacions automàticament
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Executa en finestres privades
+detail-private-browsing-description2 = Si ho permeteu, l'extensió tindrà accés a la vostra activitat a Internet encara que utilitzeu la navegació privada. <label data-l10n-name="detail-private-browsing-learn-more">Més informació</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = No es permet en finestres privades
+detail-private-disallowed-description = Aquesta extensió no s'executa durant la navegació privada. <label data-l10n-name="detail-private-browsing-learn-more">Més informació</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Necessita accés a les finestres privades
+detail-private-required-description = Aquesta extensió té accés a la vostra activitat a Internet durant la navegació privada. <label data-l10n-name="detail-private-browsing-learn-more">Més informació</label>
 detail-private-browsing-on =
     .label = Permet
     .tooltiptext = Activa en la navegació privada
@@ -146,9 +149,6 @@ legacy-warning-show-legacy = Mostra les extensions antigues
 legacy-extensions =
     .value = Extensions antigues
 legacy-extensions-description = Aquestes extensions no compleixen els estàndards actuals del { -brand-short-name } i s'han desactivat. <label data-l10n-name="legacy-learn-more">Més informació sobre els canvis en els complements</label>
-extensions-view-discover =
-    .name = Més complements
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Recomanacions
     .tooltiptext = { extensions-view-discopane.name }
