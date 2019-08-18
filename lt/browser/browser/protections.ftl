@@ -30,6 +30,15 @@ protection-report-page-title = Privatumo apsaugos
 protection-report-content-title = Privatumo apsaugos
 etp-card-title = Išplėsta apsauga nuo stebėjimo
 etp-card-content = Stebėjimo elementai seka jus internete, siekdami surinkti informacijos apie jūsų naršymo įpročius ir pomėgius. „{ -brand-short-name }“ blokuoja daugelį šių elementų ir kitų kenksmingų scenarijų.
+# This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
+# capitalization for this string should match the output for your locale.
+graph-today = Šiandien
+# This string is used to describe the graph for screenreader users.
+graph-legend-description = Grafikas, kuriame pavaizduotas bendras kiekvieno per šia savaitę užblokuoto stebėjimo lementų tipo skaičius.
+social-tab-title = Socialinių tinklų stebėjimo elementai
+social-tab-contant = Socialiniai tinklai deda stebėjimo elementus kitose svetainėse, kad galėtų sekti ką veikiate, matote, žiūrite naršydami. Tai leidžia kompanijoms sužinoti apie jus žymiai daugiau, negu dalinatės savo socialinių tinklų profiliuose. <a data-l10n-name="learn-more-link">Sužinoti daugiau</a>
+cookie-tab-title = Tarp svetainių veikiantys stebėjimo slapukai
+cookie-tab-content = Šie slapukai seka jus tarp skirtingų svetainių, rinkdami informaciją, ką veikiate naršydami. Jie yra valdomi trečiųjų šalių, pvz., reklamų kūrėjų arba analitikos kompanijų. Juos blokuodami sumažinsite jus sekančių reklamų kiekį. <a data-l10n-name="learn-more-link">Sužinoti daugiau</a>
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
