@@ -36,13 +36,10 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Info om runtime">
 <!ENTITY runtimeMenu_showDetails_accesskey "I">
-<!ENTITY runtimeMenu_showMonitor_label "Monitor">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Præferencer for enhed">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "P">
 <!ENTITY runtimeMenu_showSettings_label "Indstillinger for enhed">
 <!ENTITY runtimeMenu_showSettings_accesskey "e">
-
 <!ENTITY runtimeMenu_showPerformancePanel_label "Ydelse">
 <!ENTITY runtimeMenu_showPerformancePanel_accesskey "Y">
 
@@ -78,10 +75,7 @@
 <!ENTITY projectPanel_tabs "Faneblade">
 <!ENTITY runtimePanel_usb "USB-enheder">
 <!ENTITY runtimePanel_wifi "Wi-fi-enheder">
-<!ENTITY runtimePanel_simulator "Simulatorer">
 <!ENTITY runtimePanel_other "Andre">
-<!ENTITY runtimePanel_installsimulator "Installer simulator">
-<!ENTITY runtimePanel_noadbhelper "Installer ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Kan du ikke se din enhed?">
 <!ENTITY runtimePanel_refreshDevices_label "Opdater enheder">
 
@@ -124,12 +118,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Info om runtime">
-<!ENTITY runtimedetails_adbIsRoot "ADB er root: ">
-<!ENTITY runtimedetails_summonADBRoot "root-enhed">
-<!ENTITY runtimedetails_ADBRootWarning "(kræver oplåst bootloader)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Ubegrænsede privilegier i Udviklerværktøj">
-<!ENTITY runtimedetails_requestPrivileges "anmod om højere privilegier">
-<!ENTITY runtimedetails_privilegesWarning "(Genstarter enhed. Kræver root-adgang.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Boolsk værdi">
@@ -152,10 +140,6 @@
 <!ENTITY devicesetting_newtext "Indstillingens værdi">
 <!ENTITY devicesetting_addnew "Tilføj ny indstilling">
 
-<!-- Monitor -->
-<!ENTITY monitor_title "Monitor">
-<!ENTITY monitor_help "Hjælp">
-
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -177,19 +161,3 @@
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Pre-packaging Command Logs">
-
-<!-- Simulator Options -->
-<!ENTITY simulator_title "Indstillinger for Simulator">
-<!ENTITY simulator_remove "Slet Simulator">
-<!ENTITY simulator_reset "Gendan standarder">
-<!ENTITY simulator_name "Navn">
-<!ENTITY simulator_software "Software">
-<!ENTITY simulator_version "Version">
-<!ENTITY simulator_profile "Profil">
-<!ENTITY simulator_hardware "Hardware">
-<!ENTITY simulator_device "Enhed">
-<!ENTITY simulator_screenSize "Skærm">
-<!ENTITY simulator_pixelRatio "Pixel-ratio">
-<!ENTITY simulator_tv_data "Simulering af TV">
-<!ENTITY simulator_tv_data_open "Konfigurerings-data">
-<!ENTITY simulator_tv_data_open_button "Åbn konfigurerings-mappe…">
