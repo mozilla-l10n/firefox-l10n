@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Hesaplar ve Parolalar
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = Parolalarınızı yanınızda taşıyın
+login-app-promo-subtitle = Ücretsiz { -lockwise-brand-name } uygulamasını indirin
+login-app-promo-android =
+    .alt = Google Play’den indir
+login-app-promo-apple =
+    .alt = App Store’dan indir
 login-filter =
     .placeholder = Hesaplarda ara
 create-login-button = Yeni hesap oluştur
@@ -123,3 +132,5 @@ confirm-discard-changes-dialog-confirm-button = Vazgeç
 
 breach-alert-text = Giriş bilgilerinizi son güncellemenizden bu yana bu web sitesindeki parolalar sızdırılmış veya çalınmış. Hesabınızı korumak için parolanızı değiştirin.
 breach-alert-link = Bu ihlal hakkında daha fazla bilgi edinin.
+breach-alert-dismiss =
+    .title = Bu uyarıyı kapat
