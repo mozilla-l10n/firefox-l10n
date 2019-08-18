@@ -904,7 +904,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.socialMediaTrackers.label "Elements de seguiment de xarxes socials">
 <!ENTITY protections.crossSiteTrackingCookies.label "Galetes de seguiment entre llocs">
 <!ENTITY protections.trackingContent.label "Contingut que fa seguiment">
-<!ENTITY protections.fingerprinters.label "Creadors d'empremtes digitals">
+<!ENTITY protections.fingerprinters.label "Generadors d'empremtes digitals">
 <!ENTITY protections.cryptominers.label "Miners de criptomonedes">
 <!ENTITY protections.noTrackersFound.description "No s'ha detectat cap element de seguiment conegut pel &brandShortName; en aquesta pàgina.">
 
@@ -966,8 +966,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cryptominers.label "Miners de criptomonedes">
 <!ENTITY contentBlocking.cryptominersView.label "Miners de criptomonedes">
 
-<!ENTITY contentBlocking.fingerprinters.label "Creadors d'empremtes digitals">
-<!ENTITY contentBlocking.fingerprintersView.label "Creadors d'empremtes digitals">
+<!ENTITY contentBlocking.fingerprinters.label "Generadors d'empremtes digitals">
+<!ENTITY contentBlocking.fingerprintersView.label "Generadors d'empremtes digitals">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Informeu d'un problema">
 <!ENTITY contentBlocking.breakageReportView.label "Notificació de problemes">
