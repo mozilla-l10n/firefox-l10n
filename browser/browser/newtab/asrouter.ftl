@@ -90,3 +90,4 @@ cfr-doorhanger-sync-bookmarks-ok-button = הפעלת { -sync-brand-short-name }
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = שיתוף ה־PDF הזה באופן מאובטח
