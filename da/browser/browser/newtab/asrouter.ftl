@@ -96,7 +96,7 @@ cfr-whatsnew-panel-header = Nyheder
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Få dette bogmærke på din telefon
-cfr-doorhanger-sync-bookmarks-body = Tag din bogmærker, adgangskoder, din historik og meget mere med dig på alle dine enheder med { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-body = Tag dine bogmærker, adgangskoder, din historik og meget mere med dig på alle dine enheder med { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = Aktiver { -sync-brand-short-name }
   .accesskey = A
 
