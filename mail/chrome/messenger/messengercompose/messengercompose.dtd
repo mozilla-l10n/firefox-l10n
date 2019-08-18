@@ -8,58 +8,58 @@
 <!-- File Menu -->
 <!ENTITY fileMenu.label "Dosiero">
 <!ENTITY fileMenu.accesskey "D">
-<!ENTITY newMenu.label "Nova">
-<!ENTITY newMenu.accesskey "N">
-<!ENTITY newMessage.label "Mesaĝo">
+<!ENTITY newMenu.label "Krei">
+<!ENTITY newMenu.accesskey "K">
+<!ENTITY newMessage.label "Mesaĝon">
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newContact.label "Address Book Contact…">
-<!ENTITY newContact.accesskey "C">
-<!ENTITY attachMenu.label "Attach">
-<!ENTITY attachMenu.accesskey "h">
-<!ENTITY attachFileCmd.label "File(s)…">
-<!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY newContact.label "Kontakton…">
+<!ENTITY newContact.accesskey "K">
+<!ENTITY attachMenu.label "Aldoni">
+<!ENTITY attachMenu.accesskey "A">
+<!ENTITY attachFileCmd.label "Dosiero(j)n…">
+<!ENTITY attachFileCmd.accesskey "D">
 <!ENTITY attachFileCmd.key "A">
-<!ENTITY attachCloudCmd.label "Filelink">
-<!ENTITY attachCloudCmd.accesskey "i">
-<!ENTITY attachPageCmd.label "Web Page…">
-<!ENTITY attachPageCmd.accesskey "W">
+<!ENTITY attachCloudCmd.label "Ligilon al dosiero">
+<!ENTITY attachCloudCmd.accesskey "L">
+<!ENTITY attachPageCmd.label "Retpaĝon…">
+<!ENTITY attachPageCmd.accesskey "R">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Personal Card (vCard)">
-<!ENTITY attachVCardCmd.accesskey "P">
-<!ENTITY remindLater.label "Remind Me Later">
-<!ENTITY remindLater.accesskey "L">
-<!ENTITY closeCmd.label "Close">
+<!ENTITY attachVCardCmd.label "Personan vizitkarton (vCard)">
+<!ENTITY attachVCardCmd.accesskey "v">
+<!ENTITY remindLater.label "Rememori poste">
+<!ENTITY remindLater.accesskey "R">
+<!ENTITY closeCmd.label "Fermi">
 <!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "c">
-<!ENTITY saveCmd.label "Save">
+<!ENTITY closeCmd.accesskey "F">
+<!ENTITY saveCmd.label "Konservi">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveCmd.accesskey "s">
-<!ENTITY saveAsCmd.label "Save As">
-<!ENTITY saveAsCmd.accesskey "A">
-<!ENTITY saveAsFileCmd.label "File…">
-<!ENTITY saveAsFileCmd.accesskey "F">
-<!ENTITY saveAsDraftCmd.label "Draft">
-<!ENTITY saveAsDraftCmd.accesskey "D">
-<!ENTITY saveAsTemplateCmd.label "Template">
-<!ENTITY saveAsTemplateCmd.accesskey "T">
-<!ENTITY sendNowCmd.label "Send Now">
+<!ENTITY saveCmd.accesskey "K">
+<!ENTITY saveAsCmd.label "Konservi kiel">
+<!ENTITY saveAsCmd.accesskey "o">
+<!ENTITY saveAsFileCmd.label "Dosieron…">
+<!ENTITY saveAsFileCmd.accesskey "D">
+<!ENTITY saveAsDraftCmd.label "Malneton">
+<!ENTITY saveAsDraftCmd.accesskey "M">
+<!ENTITY saveAsTemplateCmd.label "Ŝablonon">
+<!ENTITY saveAsTemplateCmd.accesskey "a">
+<!ENTITY sendNowCmd.label "Sendi nun">
 <!ENTITY sendCmd.keycode "VK_RETURN">
-<!ENTITY sendNowCmd.accesskey "d">
-<!ENTITY sendLaterCmd.label "Send Later">
+<!ENTITY sendNowCmd.accesskey "S">
+<!ENTITY sendLaterCmd.label "Sendi poste">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
-<!ENTITY sendLaterCmd.accesskey "L">
-<!ENTITY printSetupCmd.label "Page Setup…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Print Preview">
+<!ENTITY sendLaterCmd.accesskey "p">
+<!ENTITY printSetupCmd.label "Agordoj pri paĝo">
+<!ENTITY printSetupCmd.accesskey "A">
+<!ENTITY printPreviewCmd.label "Antaŭvidi presadon">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "Print…">
+<!ENTITY printCmd.label "Presi…">
 <!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.accesskey "r">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.label "Edit">
+<!ENTITY editMenu.label "Redakti">
 <!ENTITY editMenu.accesskey "e">
 <!ENTITY undoCmd.label "Undo">
 <!ENTITY undoCmd.key "Z">
