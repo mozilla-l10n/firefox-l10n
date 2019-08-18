@@ -7,7 +7,7 @@
 
 cfr-doorhanger-extension-heading = Tilrådde utvidingar
 cfr-doorhanger-feature-heading = Tilrådd funksjon
-cfr-doorhanger-pintab-heading = Prøv dette: fest fana
+cfr-doorhanger-pintab-heading = Prøv dette: Fest fana
 
 
 
