@@ -3,6 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = כניסות וססמאות
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-subtitle = קבלת היישומון { -lockwise-brand-name } בחינם
+login-app-promo-android =
+    .alt = הורדה מ־Google Play
+login-app-promo-apple =
+    .alt = הורדה מה־App Store
 login-filter =
     .placeholder = חיפוש כניסות
 create-login-button = יצירת כניסה חדשה
@@ -100,6 +108,7 @@ enable-password-sync-preferences-button =
 confirm-delete-dialog-title = האם למחוק כניסה זו?
 confirm-delete-dialog-message = לא ניתן לבטל פעולה זו.
 confirm-delete-dialog-confirm-button = מחיקה
+confirm-discard-changes-dialog-title = האם לבטל את השינויים שלא נשמרו?
 confirm-discard-changes-dialog-message = כל השינויים שלא נשמרו יאבדו.
 
 ## Breach Alert notification
