@@ -909,6 +909,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.noTrackersFound.description "No se detectaron rastreadores conocidos por &brandShortName; en esta página.">
 
 <!ENTITY protections.cryptominers.description "Los criptomineros utilizan la potencia de cómputo de tu sistema para la minería de dinero digital. Los scripts utilizados para ello consumen tu batería, relentecen tu computador e incrementan el valor de tu boleta de electricidad.">
+<!ENTITY protections.fingerprinters.description "Los creadores de huellas (Fingerprinters) recolectan ajustes de tu navegador y computador para crear un perfil tuyo. Usando esta huella digital ellos pueden seguirte a través de diferentes sitios web.">
 <!ENTITY protections.trackingContent.description "Los sitios web pueden cargar anuncios publicitarios, videos y otros elementos que contienen códigos para seguimiento. Bloquearlos contenidos de seguimiento puede ayudar a que los sitios carguen más rápido, pero algunos botones, formularios y campos para conectarse podrían dejar de funcionar.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
