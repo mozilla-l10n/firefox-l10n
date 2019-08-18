@@ -418,7 +418,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Gusto mong makita ang iyong mga tab mula sa iba pang mga device dito?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Buksan ang Mga Kagustuhan sa Pag-sync">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Mag-sign in upang tingnan ang isang listahan ng mga tab mula sa iyong iba pang mga device.">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Mag-sign in para makita ang listahan ng mga tab mula sa iba mong mga device.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ang iyong account ay kailangang ma-verify.">
 <!ENTITY appMenuRemoteTabs.signin.label "Mag-sign in sa Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Pamahalaan ang mga Device...">
@@ -539,7 +539,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchWithDesc.label):
      This string prompts the user to use the list of one-click search engines in
      the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "Sa ngayon, maghanap gamit ang:">
+<!ENTITY searchWithDesc.label         "Ngayon naman, maghanap gamit ang:">
 
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,

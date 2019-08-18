@@ -40,6 +40,7 @@
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "Mga Setting ng Device">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
 
 <!ENTITY viewMenu_label "Tingnan">
 <!ENTITY viewMenu_accesskey "V">
@@ -74,8 +75,11 @@
 <!ENTITY runtimePanel_usb "USB Devices">
 <!ENTITY runtimePanel_wifi "Wi-Fi Devices">
 <!ENTITY runtimePanel_other "Iba pang">
+<!ENTITY runtimePanel_nousbdevice "Hindi makita ang device mo?">
+<!ENTITY runtimePanel_refreshDevices_label "I-refresh ang mga Device">
 
 <!-- Lense -->
+<!ENTITY details_warning_header "mga babala">
 <!ENTITY details_description "Paglalarawan">
 <!ENTITY details_location "Lokasyon">
 <!ENTITY details_manifestURL "App ID">
@@ -83,6 +87,7 @@
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Bagong App">
+<!ENTITY newAppProjectName "Ngalan ng Proyekto:">
 
 
 <!-- Decks -->
@@ -90,6 +95,8 @@
 <!ENTITY deck_close "Isara">
 
 <!-- Addons -->
+<!ENTITY addons_title "Mga Extra Component">
+<!ENTITY addons_aboutaddons "Buksan ang Add-on Manager">
 
 <!-- Prefs -->
 <!ENTITY prefs_editor_title "Editor">
@@ -102,6 +109,7 @@
 <!ENTITY device_typeboolean "Boolean">
 <!ENTITY device_typenumber "Integer">
 <!ENTITY device_typestring "String">
+<!ENTITY device_typenone "Pumili ng uri">
 
 <!-- Device Preferences -->
 
@@ -114,11 +122,17 @@
      server. -->
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
+<!ENTITY wifi_auth_scan_request "Ang endpoint na kinokonektahan mo ay nangangailangan ng karagdagang impormasyon para ma-authenticate ang koneksyon.  Paki-scan ang QR code sa baba gamit ang prompt sa kabilang device mo.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
+<!ENTITY wifi_auth_no_scanner "Walang prompt ng QR scanner?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
+<!ENTITY wifi_auth_yes_scanner "Mayroong prompt ng QR scanner?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_token_request "Kung nanghingi ng token ang kabilang device sa halip na mag-scan ng QR code, pakikopya ang value sa baba doon sa kabilang device:">
+<!ENTITY wifi_auth_qr_size_note "Kung masyadong maliit ang QR code para matiwasay na makakonekta, subukang mag-zoom in o palakihin ang window.">
 
 <!-- Logs panel -->
+<!ENTITY logs_title "Pre-packaging Command Logs">
