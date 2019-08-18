@@ -57,3 +57,13 @@ rcwn-avg-long = Доўгае сярэдняе
 rcwn-std-dev-long = Доўгае сярэднеквадратычнае адхіленне
 rcwn-cache-slow = Лік маруднага кэша
 rcwn-cache-not-slow = Лік не-маруднага кэша
+networkid = Сеткавы ID
+networkid-id = Сеткавы ID
+
+## Link is intended as "network link"
+
+networkid-isUp = Злучэнне актыўнае
+networkid-statusKnown = Стан злучэння вядомы
+
+
+
