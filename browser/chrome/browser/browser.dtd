@@ -823,7 +823,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Эта страница хранится на вашем компьютере.">
 <!ENTITY identity.connectionVerified2 "Вы подключились по защищённому соединению к сайту, которым владеет:">
 <!ENTITY identity.connectionVerified3 "Вы подключились к этому сайту по защищённому соединению.">
-<!ENTITY identity.connectionInternal "Это защищённая страница &brandShortName;.">
+<!ENTITY identity.connectionInternal "Это встроенная страница &brandShortName;.">
 <!ENTITY identity.extensionPage "Эта страница загружена из расширения.">
 <!ENTITY identity.insecureLoginForms2 "Учётные данные, вводимые на этой странице, могут быть скомпрометированы.">
 <!ENTITY identity.customRoot "Соединение удостоверено сертификатом, издатель которого не распознан Mozilla.">
@@ -978,7 +978,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Сообщить о проблеме">
 <!ENTITY contentBlocking.breakageReportView.label "Сообщить о проблеме">
-<!ENTITY contentBlocking.breakageReportView2.description "Блокировка содержимого может вызывать проблемы с некоторыми веб-сайтами. Когда вы сообщаете о проблеме, вы помогаете сделать &brandShortName; лучше для всех и каждого. (Это отправит адрес сайта, а также информацию о настройках вашего браузера в Mozilla).">
+<!ENTITY contentBlocking.breakageReportView2.description "Блокировка содержимого может вызывать проблемы с некоторыми веб-сайтами. Когда вы сообщаете о проблеме, вы помогаете сделать &brandShortName; лучше для всех и каждого. (Будет выполнена отправка адреса сайта, а также информации о настройках вашего браузера в Mozilla).">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Подробнее">
 <!ENTITY contentBlocking.breakageReportView.title "Сообщить о сломанном сайте">
 <!ENTITY contentBlocking.breakageReportView3.description "Блокировка некоторых трекеров может вызывать проблемы с некоторыми веб-сайтами. Сообщая о таких проблемах, вы помогаете сделать &brandShortName; лучше для всех и каждого. При отправке сообщения в Mozilla будет отправлен адрес сайта, а также информация о настройках вашего браузера.">
