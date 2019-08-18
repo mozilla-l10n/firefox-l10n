@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-<!ENTITY msgComposeWindow.title "Write: (no subject)">
+<!ENTITY msgComposeWindow.title "Skribi: (sen temo)">
 
 <!-- File Menu -->
-<!ENTITY fileMenu.label "File">
-<!ENTITY fileMenu.accesskey "f">
-<!ENTITY newMenu.label "New">
+<!ENTITY fileMenu.label "Dosiero">
+<!ENTITY fileMenu.accesskey "D">
+<!ENTITY newMenu.label "Nova">
 <!ENTITY newMenu.accesskey "N">
-<!ENTITY newMessage.label "Message">
+<!ENTITY newMessage.label "Mesaĝo">
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
@@ -85,9 +85,16 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Rename Attachment…">
 <!ENTITY renameAttachmentCmd.accesskey "e">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
+     shortcut key (Ctrl+M). Typically, this key should not be translated unless
+     otherwise required by specific needs of the localization. -->
 <!ENTITY selectAllCmd.label "Select All">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Find…">
 <!ENTITY findBarCmd.accesskey "F">
 <!ENTITY findBarCmd.key "F">
@@ -102,6 +109,15 @@
 <!ENTITY findPrevCmd.accesskey "v">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
+
+<!-- Reorder Attachment Panel -->
+
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "View">
@@ -213,9 +229,7 @@
 <!ENTITY sendlaterButton.tooltip "Send this message later">
 <!ENTITY quoteButton.tooltip "Quote the previous message">
 <!ENTITY addressButton.tooltip "Select a recipient from an Address Book">
-<!ENTITY attachButton.tooltip "Include an attachment">
 <!ENTITY spellingButton.tooltip "Check spelling of selection or entire message">
-<!ENTITY statusLanguageText.tooltip "Spell checking language">
 <!ENTITY saveButton.tooltip "Save this message">
 <!ENTITY cutButton.tooltip              "Cut">
 <!ENTITY copyButton.tooltip             "Copy">
@@ -236,8 +250,12 @@
 <!ENTITY followupAddr.label "Followup-To:">
 <!ENTITY subject.label "Subject:">
 <!ENTITY subject.accesskey "S">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings of attachmentCount in composeMsgs.properties.
+     Please ensure that this access key is unique: Do not duplicate any other
+     first-level access keys of the compose window, e.g. those of main menu,
+     buttons, or labels (message headers, contacts side bar, attachment reminder
+     bar). -->
 <!ENTITY attachments.accesskey "m">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
@@ -276,6 +294,7 @@
 <!ENTITY pasteQuote.label "Paste As Quotation">
 <!ENTITY pasteQuote.accesskey "Q">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Open">
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "Delete">
@@ -299,6 +318,11 @@
 <!ENTITY attachPage.label "Attach Web Page…">
 <!ENTITY attachPage.accesskey "W">
 
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
+
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Add Dictionaries…">
 <!ENTITY spellAddDictionaries.accesskey "A">
@@ -309,3 +333,7 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Customize From Address…">
 <!ENTITY customizeFromAddress.accesskey "A">
+
+<!-- Accessibility name for the document -->
+
+<!-- Status Bar -->
