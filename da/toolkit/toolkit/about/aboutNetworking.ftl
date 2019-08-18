@@ -31,7 +31,9 @@ messages-received = Meddelelser modtaget
 bytes-sent = Bytes sendt
 bytes-received = Bytes modtaget
 logging = Logning
-log-tutorial = Læs <a data-l10n-name="logging">HTTP Logging</a> for vejledning til at bruge dette værktøj.
+log-tutorial = 
+    Læs <a data-l10n-name="logging">HTTP Logging</a> 
+    for vejledning til at bruge dette værktøj.
 current-log-file = Aktuel logfil:
 current-log-modules = Aktuelle logmoduler:
 set-log-file = Angiv logfil
@@ -57,3 +59,12 @@ rcwn-avg-long = Long Average
 rcwn-std-dev-long = Long Standard Deviation
 rcwn-cache-slow = Cache slow count
 rcwn-cache-not-slow = Cache not slow count
+networkid = Netværks-ID
+networkid-id = Netværks-ID
+
+## Link is intended as "network link"
+
+networkid-isUp = Netværksforbindelsen er oppe
+networkid-statusKnown = Netværksforbindelsens status er kendt
+
+##
