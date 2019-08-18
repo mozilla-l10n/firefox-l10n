@@ -36,14 +36,27 @@ graph-legend-description = Wachib'äl nuk'üt ronojel ri kajilab'al kiwäch ojqa
 social-tab-title = Kojqanela' aj Winäq taq K'amab'ey
 cookie-tab-title = Kikuki Rojqanela' Xoch'in taq Ruxaq
 tracker-tab-title = Rojqanem Rupam
+tracker-tab-content = Ri ajk'amaya'l ruxaq yetikïr yekijotob'a' taq eltzijol, taq silowäch chuqa' ch'aqa' chik taq wachinäq kik'wan rub'itz'ib' ojqanem. Toq yeq'at kojqanem rupam, nito'on chi anin yesamäj ri taq ruxaq, xa xe chi jujun taq pitz'ib'äl, taq nojwuj chuqa' taq k'ojlib'äl rik'in jub'a' man ütz ta yesamäj. <a data-l10n-name="learn-more-link">Tetamäx ch'aqa' chik</a>
 fingerprinter-tab-title = B'anöy ruwi' q'ab'aj
 fingerprinter-tab-content = Ri b'anöy ruwi' q'ab'aj nikimöl taq runuk'ulem awokik'amaya'l chuqa' akematz'ib' richin nikitz'ük jun ruwäch ab'i'. Toq nikokisaj re retal ruwi' q'ab'aj, yetikïr yatkitzeqelib'ej pa jalajoj taq ajk'amaya'l ruxaq. <a data-l10n-name="learn-more-link">Tetamäx ch'aqa' chik</a>
 cryptominer-tab-title = Cryptominers
+cryptominer-tab-content = Ri ajkriptom nikokisaj ruchuq'a' ruq'inoj akematz'ib' richin rub'anik kematz'ib'il pwäq. Ri taq skrip ye'okisäx chi kipam, nikokisaj ri awateriya', eqal nikib'än chi re ri akematz'ib' chuqa' nikijotob'a' rajil ruwujil asaqil. <a data-l10n-name="learn-more-link">Tetamäx ch'aqa' chik</a>
 lockwise-title = Man tamestaj chik jun ewan tzij
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } ütz ke'ayaka' ri ewan taq atzij pan awokik'amaya'l.
+lockwise-header-content-logged-in = Ütz ke'ayaka' ri ewan taq atzij chuqa' ake'axima' pa ronojel awokisab'al.
 open-about-logins-button = Tijaq pa { -brand-short-name }
 lockwise-no-logins-content = Tak'ulu' ri <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> chokoy richin xab'akuchi' ye'ak'waj ri ewan taq atzij.
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+lockwise-passwords-stored =
+    { $count ->
+        [one] Ütz yakon ri ewan tzij <a data-l10n-name="lockwise-how-it-works">Achike rub'eyal yesamäj</a>
+       *[other] Ütz eyakon ri ewan taq tzij <a data-l10n-name="lockwise-how-it-works">Achike rub'eyal yesamäj</a>
+    }
+turn-on-sync = Titzij { -sync-brand-short-name }...
+    .title = B'enam pa kajowab'al ximoj
 manage-devices = Kenuk'samajïx taq okisab'äl
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
