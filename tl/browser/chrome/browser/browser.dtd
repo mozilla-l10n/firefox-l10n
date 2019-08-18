@@ -152,7 +152,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Mag-sign in sa &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Buksan ang &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "Account">
-<!ENTITY fxa.menu.firefoxServices.label "mga serbisyo ng &brandProductName;">
+<!ENTITY fxa.menu.firefoxServices.label "Mga serbisyo ng &brandProductName;">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->

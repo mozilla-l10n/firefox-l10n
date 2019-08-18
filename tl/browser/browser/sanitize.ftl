@@ -8,14 +8,14 @@ sanitize-prefs =
 sanitize-prefs-style =
     .style = width: 17em
 dialog-title =
-    .title = Burahin ang Kasalukuyang Kasaysayan
+    .title = Burahin ang Kasaysayan Kamakailan
     .style = width: 34em
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 dialog-title-everything =
-    .title = Burahin ang Lahat ng Nakaraan
+    .title = Burahin Lahat ng Kasaysayan
     .style = width: 34em
-clear-data-settings-label = When closed, { -brand-short-name } should automatically clear all
+clear-data-settings-label = Kapag isinara, buburahin dapat ng { -brand-short-name } ang lahat
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -26,7 +26,7 @@ clear-data-settings-label = When closed, { -brand-short-name } should automatica
 ## Time range to clear: (Last Hour, Today, etc.)
 
 clear-time-duration-prefix =
-    .value = Saklaw ng oras upang i-clear:{ " " }
+    .value = Saklaw ng oras upang burahin:{ " " }
     .accesskey = T
 clear-time-duration-value-last-hour =
     .label = Huling Oras
@@ -46,40 +46,40 @@ clear-time-duration-suffix =
 
 history-section-label = Kasaysayan
 item-history-and-downloads =
-    .label = Pag-browse & I-download ang Kasaysayan
+    .label = Kasaysayan ng Pag-browse & Pag-download
     .accesskey = B
 item-cookies =
-    .label = Cookies
+    .label = Mga Cookie
     .accesskey = C
 item-active-logins =
-    .label = Mga Login na Aktibo
+    .label = Mga Active Login
     .accesskey = L
 item-cache =
     .label = Cache
     .accesskey = A
 item-form-search-history =
-    .label = Form & Kasaysayan ng Paghahanap
+    .label = Form & Search History
     .accesskey = F
 data-section-label = Data
 item-site-preferences =
-    .label = Mga Gusto sa Site
+    .label = Mga Kagustuhan sa Site
     .accesskey = S
 item-offline-apps =
-    .label = Data ng Offline na Website
+    .label = Offline Website Data
     .accesskey = O
-sanitize-everything-undo-warning = Ang ginawa ay hindi na mababalik sa dati.
+sanitize-everything-undo-warning = Ang pagkilos na ito'y hindi na maaaring baliktarin.
 window-close =
     .key = w
 sanitize-button-ok =
-    .label = Burahin Ngayon
+    .label = Burahin na Ngayon
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
-    .label = Paglilinis
+    .label = Binubura
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
-sanitize-everything-warning = Lahat ng nakaraang rekord ay buburahin.
+sanitize-everything-warning = Buburahin lahat ng kasaysayan.
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
