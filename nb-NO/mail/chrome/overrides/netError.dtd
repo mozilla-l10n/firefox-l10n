@@ -107,4 +107,5 @@ functionality specific to thunderbird. -->
 
 <!ENTITY blockedByPolicy.title "Blokkert side">
 
+<!ENTITY networkProtocolError.title "Nettverksprotokollfeil">
 <!ENTITY networkProtocolError.longDesc "<p>Siden du forsøker å vise kan ikke åpnes fordi en feil i nettverksprotokollen ble oppdaget.</p><ul><li>Kontakt nettstedseierne og informer dem om dette problemet.</li></ul>">

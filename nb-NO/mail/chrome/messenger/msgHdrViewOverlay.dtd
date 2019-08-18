@@ -95,6 +95,11 @@
 
 <!ENTITY openAttachment.tooltip "Åpne vedlagt fil">
 
+<!ENTITY detachedAttachmentFolder.show.label        "Åpne mappen med filen">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "f">
+<!ENTITY detachedAttachmentFolder.showMac.label     "Vis i Finder">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Lagre">
 <!ENTITY saveAttachmentButton1.tooltip     "Lagre vedlagte fil">
