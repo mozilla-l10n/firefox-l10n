@@ -237,7 +237,7 @@ extensions-updates-update-selected =
 
 manage-extensions-shortcuts =
     .label = Zarządzaj skrótami rozszerzeń
-    .accesskey = Z
+    .accesskey = d
 shortcuts-no-addons = Nie włączono żadnych rozszerzeń.
 shortcuts-no-commands = Te rozszerzenia nie mają skrótów:
 shortcuts-input =
@@ -360,8 +360,8 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = Usunięto dodatek <span data-l10n-name="addon-name">{ $addon }</span>.
 pending-uninstall-undo-button = Cofnij
-addon-detail-updates-label = Automatyczne aktualizacje
-addon-detail-updates-radio-default = domyślne
+addon-detail-updates-label = Automatyczne aktualizacje:
+addon-detail-updates-radio-default = ustawienia domyślne
 addon-detail-updates-radio-on = włączone
 addon-detail-updates-radio-off = wyłączone
 addon-detail-update-check-label = Sprawdź dostępność aktualizacji
@@ -369,7 +369,7 @@ install-update-button = Uaktualnij
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
-    .title = Dozwolone w oknach prywatnych
+    .title = Dozwolone w oknach prywatnych:
 addon-detail-private-browsing-help = Zezwolenie spowoduje, że rozszerzenie będzie miało dostęp do działań użytkownika w Internecie podczas przeglądania w trybie prywatnym. <a data-l10n-name="learn-more">Więcej informacji</a>
 addon-detail-private-browsing-allow = zezwalaj
 addon-detail-private-browsing-disallow = nie zezwalaj

@@ -48,7 +48,7 @@ cryptominer-tab-content = Te elementy wykorzystują moc obliczeniową Twojego ko
 lockwise-title = Już nigdy nie zapomnij żadnego hasła
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } bezpiecznie przechowuje Twoje hasła w przeglądarce.
-lockwise-header-content-logged-in = Bezpiecznie przechowuj i synchronizuj swoje hasła na wszystkich urządzeniach.
+lockwise-header-content-logged-in = Bezpiecznie przechowuj i synchronizuj hasła na wszystkich urządzeniach.
 open-about-logins-button = Otwórz w przeglądarce { -brand-short-name }
 lockwise-no-logins-content = Pobierz aplikację <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a>, aby mieć hasła zawsze przy sobie.
 # This string is displayed after a large numeral that indicates the total number
