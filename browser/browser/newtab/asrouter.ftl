@@ -70,6 +70,12 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Knop Sluiten
     .title = Sluiten
 
+## Protections panel
+
+cfr-protections-panel-header = Surf zonder te worden gevolgd
+cfr-protections-panel-body = Houd uw gegevens voor uzelf. { -brand-short-name } beschermt u tegen veel van de meest voorkomende trackers die volgen wat u online doet.
+cfr-protections-panel-link-text = Meer info
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
