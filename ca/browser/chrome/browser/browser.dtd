@@ -456,6 +456,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.label "Informa sobre l'extensió">
+<!ENTITY customizeMenu.reportExtension.accesskey "o">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -537,6 +539,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchWithDesc.label):
      This string prompts the user to use the list of one-click search engines in
      the Urlbar and searchbar. -->
+<!ENTITY searchWithDesc.label         "Aquesta vegada, cerca amb:">
 
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
@@ -812,14 +815,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label2)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Seguretat de la connexió">
 
+<!ENTITY identity.connectionSecure2 "Connexió segura">
 <!ENTITY identity.connectionNotSecure "La connexió no és segura">
+<!ENTITY identity.connectionNotSecureSecurityView "No esteu connectat de forma segura a aquest lloc.">
 <!ENTITY identity.connectionFile "Aquesta pàgina està desada a l'ordinador.">
 <!ENTITY identity.connectionVerified2 "Esteu connectat de forma segura a aquest lloc, mantingut per:">
+<!ENTITY identity.connectionVerified3 "Esteu connectat de forma segura a aquest lloc.">
 <!ENTITY identity.connectionInternal "Aquesta és una pàgina del &brandShortName; segura.">
 <!ENTITY identity.extensionPage "Aquesta pàgina s'ha carregat des d'una extensió.">
 <!ENTITY identity.insecureLoginForms2 "Les dades d'inici de sessió que introduïu en aquesta pàgina podrien estar en risc.">
+<!ENTITY identity.customRoot "Connexió verificada per un emissor de certificats que no és reconegut per Mozilla.">
 
+<!ENTITY identity.evOwnerLabel "El lloc és propietat de:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "El &brandShortName; ha blocat parts d'aquesta pàgina que no són segures.">
@@ -838,6 +847,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Malgrat que el &brandShortName; ha blocat parts del contingut, encara hi ha contingut de la pàgina que no és segur (such as images).">
 <!ENTITY identity.description.activeLoaded "Aquest lloc web inclou contingut que no és segur (com els scripts) i la connexió no és privada.">
 <!ENTITY identity.description.activeLoaded2 "La informació que compartiu amb aquest lloc podria ser visualitzada per altres persones (com contrasenyes, missatges, targetes de crèdit, etc.).">
+<!ENTITY identity.description.customRoot "Mozilla no reconeix aquest emissor de certificats. És possible que l'hagi afegit el vostre sistema operatiu o un administrador.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Activa la protecció">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "v">
@@ -855,14 +865,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Permisos">
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "Permisos definits">
 <!ENTITY identity.permissionsEmpty "No heu donat cap permís especial a aquest lloc.">
 <!ENTITY identity.permissionsReloadHint "Potser cal que actualitzeu la pàgina per aplicar els canvis.">
 <!ENTITY identity.permissionsPreferences.tooltip "Obre les preferències de permisos">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Obre les preferències de bloqueig de contingut">
 
 
+<!ENTITY protections.etpON.header "La protecció contra el seguiment millorada està activada en aquest lloc">
+<!ENTITY protections.etpOFF.header "La protecció contra el seguiment millorada està desactivada en aquest lloc">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Més informació sobre la protecció contra el seguiment millorada">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
