@@ -289,6 +289,14 @@ shortcuts-invalid = Ugyldig kombination
 shortcuts-letter = Indtast et bogstav
 shortcuts-system = Kan ikke tilsidesætte { -brand-short-name }-genvej
 
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Genvej findes allerede
+
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } bliver brugt som genvej i mere end ét tilfælde. Dette kan give anledning til uventet opførsel.
+
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -357,6 +365,21 @@ permissions-addon-button = Tilladelser
 
 addons-enabled-heading = Aktiveret
 addons-disabled-heading = Deaktiveret
+
+extension-enabled-heading = Aktiveret
+extension-disabled-heading = Deaktiveret
+
+theme-enabled-heading = Aktiveret
+theme-disabled-heading = Deaktiveret
+
+plugin-enabled-heading = Aktiveret
+plugin-disabled-heading = Deaktiveret
+
+dictionary-enabled-heading = Aktiveret
+dictionary-disabled-heading = Deaktiveret
+
+locale-enabled-heading = Aktiveret
+locale-disabled-heading = Deaktiveret
 
 ask-to-activate-button = Spørg om aktivering
 always-activate-button = Aktiver altid
