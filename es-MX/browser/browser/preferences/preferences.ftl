@@ -286,6 +286,14 @@ update-pref-write-failure-title = Error de escritura
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = No se pudo guardar la preferencia. No se pudo escribir al archivo: { $path }
 update-setting-write-failure-title = Error al guardar las preferencias de actualizaciones
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } encontró un error y no guardó esta modificación. Observa que establecer esta preferencia de actualización requiere de permiso para escribir el archivo mostrado más abajo. Si no eres capaz, pide a un administrador que conceda al grupo Usuarios control total para este archivo.
+    
+    No se pudo escribir en el archivo: { $path }
 update-in-progress-title = Actualización en curso
 update-in-progress-message = ¿Quieres que { -brand-short-name } continúe con esta actualización?
 update-in-progress-ok-button = &Descartar

@@ -82,5 +82,6 @@ policy-SearchSuggestEnabled = Habilitar o deshabilitar sugerencias de búsqueda.
 policy-SecurityDevices = Instalar módulos PKCS #11.
 policy-SSLVersionMax = Establecer la versión máxima de SSL.
 policy-SSLVersionMin = Establecer la versión mínima de SSL.
+policy-SupportMenu = Agregar un elemento personalizado de asistencia al menú de ayuda.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloquear sitios web de ser visitado. Consulta la documentación para obtener más detalles sobre el formato.
