@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Inicis de sessió i contrasenyes
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = Accediu a les vostres contrasenyes des de qualsevol lloc
+login-app-promo-subtitle = Instal·leu l'aplicació { -lockwise-brand-name } gratuïta
+login-app-promo-android =
+    .alt = Disponible a Google Play
+login-app-promo-apple =
+    .alt = Baixeu-lo de l'App Store
 login-filter =
     .placeholder = Cerca els inicis de sessió
 create-login-button = Crea un inici de sessió
@@ -123,3 +132,5 @@ confirm-discard-changes-dialog-confirm-button = Descarta
 
 breach-alert-text = S'han filtrat o robat contrasenyes d'aquest lloc web des de la darrera vegada que en vàreu actualitzar les vostres dades d'inici de sessió. Canvieu la contrasenya per protegir el vostre compte.
 breach-alert-link = Més informació sobre aquesta filtració.
+breach-alert-dismiss =
+    .title = Tanca aquesta alerta
