@@ -263,6 +263,12 @@ about-debugging-extension-id =
 about-debugging-worker-action-push = Push
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = 시작
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Note this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push2 = 푸시
+    .disabledTitle = 서비스 워커 푸시가 현재 다중 프로세스 { -brand-shorter-name }에 대해 비활성화되어 있습니다.
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start2 = 시작
     .disabledTitle = 서비스 워커 시작이 현재 다중 프로세스 { -brand-shorter-name }에 대해 비활성화되어 있습니다

@@ -69,3 +69,5 @@ serviceworker-empty-suggestions-debugger = 서비스 워커 등록과정을 살�
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = 다른 도메인의 서비스 워커를 조사해 보세요. <a>about:debugging 열기</a>
+# Text displayed when no manifest was found for the current page.
+manifest-empty-intro = 검사할 매니페스트가 없습니다.
