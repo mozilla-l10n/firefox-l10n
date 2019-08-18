@@ -137,6 +137,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Для включения синхронизации, вам необходимо подтвердить свой Аккаунт.">
 <!ENTITY fxa.unverified.button.label "Открыть настройки Синхронизации…">
 
+<!ENTITY pictureInPictureHideToggle.label "Скрыть переключатель «Картинка в картинке»">
+<!ENTITY pictureInPictureHideToggle.accesskey "ы">
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -153,10 +156,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-<!ENTITY fxa.service.send.description "Загружайте и делитесь файлами со сквозным шифрованием и ограниченным сроком действия ссылки на загрузку.">
-<!ENTITY fxa.service.send.launch "Открыть &sendShortName;">
-<!ENTITY fxa.service.monitor.description "Проверьте, был ли ваш адрес электронной почты затронут утечками данных и получайте уведомления, если его затронет новая.">
-<!ENTITY fxa.service.monitor.launch "Открыть &monitorShortName;">
 <!ENTITY fxa.service.sendTab.description "Мгновенно отправляйте вкладку на любое привязанное устройство.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -536,6 +535,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Искать в:">
+
+<!-- LOCALIZATION NOTE (searchWithDesc.label):
+     This string prompts the user to use the list of one-click search engines in
+     the Urlbar and searchbar. -->
+<!ENTITY searchWithDesc.label         "В этот раз, искать с помощью:">
+
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -905,8 +910,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.label "Криптомайнеры">
 <!ENTITY protections.noTrackersFound.description "На этой странице не обнаружено трекеров известных &brandShortName;.">
 
-
-<!ENTITY protections.manageProtectionSettings.label "Управление настройками защиты">
+<!ENTITY protections.crossSiteTrackingCookies.description "Такие куки ходят за вами с сайта на сайт для сбора информации о том, что вы делаете в Интернете. Они устанавливаются такими сторонними организациями, как рекламодатели и аналитические компании.">
+<!ENTITY protections.cryptominers.description "Криптомайнеры используют вычислительные мощности вашей системы для добычи цифровых валют. Такие скрипты разряжают вашу батарею, замедляют работу компьютера и могут увеличить ваш счёт за электроэнергию.">
+<!ENTITY protections.fingerprinters.description "Сборщики цифровых отпечатков используют параметры вашего браузера и компьютера, чтобы создать ваш профиль. Используя этот цифровой отпечаток, они могут отслеживать вас на различных веб-сайтах.">
+<!ENTITY protections.trackingContent.description "Веб-сайты могут загружать внешнюю рекламу, видео и другой контент, содержащий отслеживающий код. Блокировка отслеживающего содержимого может помочь сайтам загружаться быстрее, но некоторые кнопки, формы и поля для входа могут не работать.">
+<!ENTITY protections.socialMediaTrackers.description "Социальные сети размещают трекеры на других веб-сайтах, чтобы следить за тем, что вы делаете, видите и смотрите в Интернете. Это позволяет их владельцам узнавать о вас больше, чем вы указываете в своих профилях в социальных сетях.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -944,19 +952,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Трекеры">
 
+<!ENTITY contentBlocking.manageSettings.label "Управление блокировкой содержимого">
+
 <!ENTITY contentBlocking.trackingProtection4.label "Отслеживающее содержимое">
 
-<!ENTITY contentBlocking.manageSettings.label "Управление блокировкой содержимого">
+<!ENTITY contentBlocking.manageSettings2.label "Управление настройками защиты">
 <!ENTITY contentBlocking.manageSettings.accesskey "п">
 
 <!ENTITY contentBlocking.trackersView.label "Трекеры">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Чтобы блокировать все трекеры, выберите «строгую» блокировку содержимого.">
 
-<!ENTITY contentBlocking.socialblock.label "Трекеры социальных сетей">
-<!ENTITY contentBlocking.socialblockView.label "Трекеров социальных сетей заблокировано">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Чтобы блокировать все трекеры, выберите «строгую» блокировку содержимого.">
 
 <!ENTITY contentBlocking.cookies.label "Куки">
 <!ENTITY contentBlocking.cookiesView.label "Куки и данные сайтов">
+
+<!ENTITY contentBlocking.socialblock.label "Трекеры социальных сетей">
+
+<!ENTITY contentBlocking.cookies2.label "Межсайтовые отслеживающие куки">
 
 <!ENTITY contentBlocking.cryptominers.label "Криптомайнеры">
 <!ENTITY contentBlocking.cryptominersView.label "Криптомайнеры">
@@ -969,6 +981,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "Блокировка содержимого может вызывать проблемы с некоторыми веб-сайтами. Когда вы сообщаете о проблеме, вы помогаете сделать &brandShortName; лучше для всех и каждого. (Это отправит адрес сайта, а также информацию о настройках вашего браузера в Mozilla).">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Подробнее">
 <!ENTITY contentBlocking.breakageReportView.title "Сообщить о сломанном сайте">
+<!ENTITY contentBlocking.breakageReportView3.description "Блокировка некоторых трекеров может вызывать проблемы с некоторыми веб-сайтами. Сообщая о таких проблемах, вы помогаете сделать &brandShortName; лучше для всех и каждого. При отправке сообщения в Mozilla будет отправлен адрес сайта, а также информация о настройках вашего браузера.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Подробнее">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Адрес страницы">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Какая у вас проблема? (необязательно)">

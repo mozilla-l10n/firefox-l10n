@@ -72,6 +72,12 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Кнопка закрытия
     .title = Закрыть
 
+## Protections panel
+
+cfr-protections-panel-header = Сёрфите по Интернету без слежки
+cfr-protections-panel-body = Храните свои данные при себе. { -brand-short-name } защитит вас от многих наиболее известных трекеров, которые следят за вашим поведением в Интернете.
+cfr-protections-panel-link-text = Подробнее
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
@@ -81,13 +87,22 @@ cfr-whatsnew-panel-header = Что нового
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Перенесите эту закладку на свой телефон
+cfr-doorhanger-sync-bookmarks-body = Получайте доступ к закладкам, паролям, истории и другой информации на всех устройствах, где бы вы ни вошли в { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = Включить { -sync-brand-short-name(case: "accusative") }…
     .accesskey = ю
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Читайте на ходу
+cfr-doorhanger-send-tab-recipe-header = Возьмите этот рецепт на кухню
+cfr-doorhanger-send-tab-body = Отправка вкладок позволяет вам легко поделиться этой ссылкой со своим телефоном или везде, где бы вы ни вошли в { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Попробуйте отправить вкладку
+    .accesskey = е
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Безопасно поделитесь этим PDF-документом
+cfr-doorhanger-firefox-send-body = Защитите свои важные документы от посторонних глаз благодаря сквозному шифрованию и ссылке, которая исчезнет, когда это потребуется.
 cfr-doorhanger-firefox-send-ok-button = Попробуйте { -send-brand-name }
     .accesskey = й

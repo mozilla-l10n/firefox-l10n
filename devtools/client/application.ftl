@@ -69,3 +69,5 @@ serviceworker-empty-suggestions-debugger = Пройдите по шагам пр
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Исследуйте Service Workers с других доменов. <a>Открыть about:debugging</a>
+# Text displayed when no manifest was found for the current page.
+manifest-empty-intro = Нет манифеста для отладки.
