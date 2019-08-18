@@ -28,6 +28,12 @@ abuse-report-submit-button = Ipadala
 ##   $addon-name (string) - Name of the add-on
 
 abuse-report-messagebar-aborted = Nakansela ang pag-ulat sa <span data-l10n-name="addon-name">{ $addon-name }</span>
+abuse-report-messagebar-submitting = Ipinapadala ang ulat para sa <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-submitted = Salamat sa pagpasa ng ulat. Gusto mo bang tanggalin ang <span data-l10n-name="addon-name">{ $addon-name }</span>?
+abuse-report-messagebar-submitted-noremove = Salamat sa pagpasa ng ulat.
+abuse-report-messagebar-removed-extension = Salamat sa pagpasa ng ulat. Tinanggal mo na ang extension na <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-theme = Salamat sa pagpasa ng ulat. Tinanggal mo na ang tema na <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error = Nagkaproblema sa pagpasa ng ulat para sa <span data-l10n-name="addon-name">{ $addon-name }</span>.
 
 ## Message bars actions.
 
