@@ -20,13 +20,16 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
+<!ENTITY performanceUI.bufferStatusFull "Puno na ang buffer. Nao-overwrite na ang mga lumang sample.">
 
 <!-- LOCALIZATION NOTE (performanceUI.unavailableNoticePB): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
+<!ENTITY performanceUI.unavailableNoticePB "Hindi pwedeng mag-record ng profile sa ngayon. Pakisara lahat ng mga private browsing window at subukan uli.">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
+<!ENTITY performanceUI.loadingNotice "Naglo-load…">
 
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
@@ -34,6 +37,7 @@
 <!ENTITY performanceUI.toolbar.js-calltree "Call Tree">
 <!ENTITY performanceUI.toolbar.memory-calltree "Allocations">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS Flame Chart">
+<!ENTITY performanceUI.toolbar.memory-flamegraph "Allocations Flame Chart">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
@@ -63,11 +67,14 @@
 <!-- LOCALIZATION NOTE (performanceUI.showJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be displayed. -->
+<!ENTITY performanceUI.showJITOptimizations             "Ipakita ang mga JIT Optimization">
+<!ENTITY performanceUI.showJITOptimizations.tooltiptext "Ipakita ang na-sample na JIT optimization data sa bawat JavaScript frame.">
 
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
 <!ENTITY performanceUI.flattenTreeRecursion             "Flatten Tree Recursion">
+<!ENTITY performanceUI.flattenTreeRecursion.tooltiptext "I-flatten ang recursion kapag nag-iinspect ng mga function.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory

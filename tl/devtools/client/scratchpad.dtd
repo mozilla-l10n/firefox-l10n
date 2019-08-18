@@ -20,6 +20,7 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
+<!ENTITY window.title                 "Scratchpad">
 
 <!ENTITY fileMenu.label               "File">
 <!ENTITY fileMenu.accesskey           "F">
@@ -66,6 +67,7 @@
 <!ENTITY smallerFont.accesskey        "M">
 <!ENTITY smallerFont.commandkey       "-">
 
+<!ENTITY normalSize.label             "Normal na Sukat">
 <!ENTITY normalSize.accesskey         "N">
 <!ENTITY normalSize.commandkey        "0">
 
@@ -79,9 +81,11 @@
 <!ENTITY inspect.accesskey            "i">
 <!ENTITY inspect.key                  "i">
 
+<!ENTITY display.label                "Ipakita">
 <!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "l">
 
+<!ENTITY pprint.label                 "Pretty Print">
 <!ENTITY pprint.key                   "p">
 <!ENTITY pprint.accesskey             "P">
 
@@ -91,6 +95,7 @@
   -  the user is evaluating against. I.e., Content (current tab) or Chrome
   -  (browser).
   -->
+<!ENTITY environmentMenu.label        "Environment">
 <!ENTITY environmentMenu.accesskey    "N">
 
 
@@ -124,9 +129,11 @@
 <!ENTITY resetContext2.label          "I-reset ang mga Variable">
 <!ENTITY resetContext2.accesskey      "t">
 
+<!ENTITY reloadAndRun.label           "I-reload at Patakbuhin">
 <!ENTITY reloadAndRun.accesskey       "E">
 <!ENTITY reloadAndRun.key             "r">
 
+<!ENTITY executeMenu.label            "I-execute">
 <!ENTITY executeMenu.accesskey        "X">
 
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
@@ -138,5 +145,6 @@
 <!-- LOCALIZATION NOTE (evalFunction.label): This command allows the developer
   -  to evaluate the top-level function that the cursor is currently at.
   -->
+<!ENTITY evalFunction.label "Evaluate Current Function">
 <!ENTITY evalFunction.accesskey "v">
 <!ENTITY evalFunction.key "e">

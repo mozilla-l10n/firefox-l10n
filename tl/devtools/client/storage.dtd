@@ -11,6 +11,7 @@
 <!ENTITY storage.popupMenu.deleteAllLabel "Tanggalin ang Lahat">
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all session cookies. -->
+<!ENTITY storage.popupMenu.deleteAllSessionCookiesLabel "Burahin Lahat ng mga Session Cookie">
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to copy a storage item. -->
 <!ENTITY storage.popupMenu.copyLabel "Kopyahin">
