@@ -37,13 +37,13 @@ etp-card-content = Sporings-tjenester følger dig rundt på nettet for at indsam
 graph-today = I dag
 
 # This string is used to describe the graph for screenreader users.
-graph-legend-description = En graf, der viser det totale antal af hver type af sporings-tjenester, der er blevet blokeret i denne uge
+graph-legend-description = En graf, der viser det totale antal af hver type sporingstjeneste, der er blevet blokeret i denne uge
 
 social-tab-title = Sporing via sociale medier
-social-tab-contant = Sociale netværk placerer sporings-mekanismer på andre websteder for at følge med i, hvad du gør og ser på nettet. Det giver virksomhederne bag de sociale medier mulighed for at lære mere om dig, end det du ellers selv deler på de sociale medier. <a data-l10n-name="learn-more-link">Læs mere</a>
+social-tab-contant = Sociale medier placerer sporings-mekanismer på andre websteder for at følge med i, hvad du gør og ser på nettet. Det giver virksomhederne bag de sociale medier mulighed for at lære mere om dig, end det du ellers selv deler på de sociale medier. <a data-l10n-name="learn-more-link">Læs mere</a>
 
 cookie-tab-title = Sporings-cookies på tværs af websteder
-cookie-tab-content = Disse cookies følger dig fra websted til websted for at indsamle data om, hvad du gør på nette. De anvendes af tredjeparter som fx annoncører og analyse-virksomheder. Du kan reducere antallet af reklamer, der følger dig rundt på nettet, ved at blokere sporings-cookies p tværs af websteder. <a data-l10n-name="learn-more-link">Læs mere</a>
+cookie-tab-content = Disse cookies følger dig fra websted til websted for at indsamle data om, hvad du gør på nettet. De anvendes af tredjeparter som fx annoncører og analyse-virksomheder. Du kan reducere antallet af reklamer, der følger dig rundt på nettet, ved at blokere sporings-cookies på tværs af websteder. <a data-l10n-name="learn-more-link">Læs mere</a>
 
 tracker-tab-title = Sporings-indhold
 tracker-tab-content = Websteder kan indlæse eksterne annoncer, video og andet indhold, der indeholder sporings-kode. Ved at blokere sporings-indhold kan websteder blive hurtigere indlæst, men nogle knapper formularer og login-bokse virker måske ikke. <a data-l10n-name="learn-more-link">Læs mere</a>
@@ -59,7 +59,7 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } gemmer dine adgangskoder i din browser på en sikker måde. 
 lockwise-header-content-logged-in = Gem og synkroniser dine adgangskoder på alle dine enheder.
 open-about-logins-button = Åbn i { -brand-short-name }
-lockwise-no-logins-content = Hent <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a>-app'en for at tage dine adgangskoder med overaltfor at tage dine adgangskoder med overalt.
+lockwise-no-logins-content = Hent <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a>-app'en for at tage dine adgangskoder med overalt.
 
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -143,7 +143,7 @@ go-to-saved-logins = Gå til gemte logins
 ##   $percentage (Number) - Procentdel denne type af sporings-tjeneste bidrager til den samlede graf
 
 bar-tooltip-social =
-  .title = Sporing via sociale medieSporing via sociale medier
+  .title = Sporing via sociale medier
   .aria-label =
     { $count ->
        [one] { $count } sporing via sociale medier ({ $percentage }%)
