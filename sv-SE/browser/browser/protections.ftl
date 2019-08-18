@@ -73,6 +73,42 @@ monitor-link = Hur fungerar det
 monitor-header-content = Använd { -monitor-brand-name } för att se om du har varit en del av ett dataintrång och få varningar om nya överträdelser.
 monitor-header-content-logged-in = { -monitor-brand-name } varnar dig om din information har dykt upp i ett känt dataintrång
 monitor-sign-up = Registrera dig för intrångsvarningar
+auto-scan = Skannas automatiskt idag
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-addresses =
+    { $count ->
+        [one] e-postadress bevakas.
+       *[other] e-postadresser bevakas.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches =
+    { $count ->
+        [one] känt dataintrång har avslöjat din information.
+       *[other] kända dataintrång har avslöjat din information.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords =
+    { $count ->
+        [one] lösenord har avslöjats i alla intrång.
+       *[other] lösenord har avslöjats i alla intrång.
+    }
+full-report-link = Se en fullständig rapport på <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] Lagrat lösenord kan ha avslöjats i ett intrång. Ändra detta lösenord för att nå en bättre säkerhet online. <a data-l10n-name="lockwise-link">Visa lagrade lösenord</a>
+       *[other] Lagrade lösenord kan ha avslöjats i ett intrång. Ändra dessa lösenord för att nå en bättre säkerhet online. <a data-l10n-name="lockwise-link">Visa lagrade lösenord</a>
+    }
+# This is the title attribute describing the graph report's link to about:settings#privacy
+go-to-privacy-settings = Gå till sekretessinställningar
 # This is the title attribute describing the Lockwise card's link to about:logins
 go-to-saved-logins = go-to-saved-logins = Gå till Sparade inloggningar
 
