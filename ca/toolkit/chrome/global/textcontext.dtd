@@ -29,6 +29,10 @@
 
 <!ENTITY fillLoginMenu.label          "Emplena l'inici de sessió">
 <!ENTITY fillLoginMenu.accesskey      "m">
+<!ENTITY fillSuggestedPassword.label  "Utilitza una contrasenya suggerida">
+<!ENTITY fillSuggestedPassword.accesskey "s">
+<!ENTITY fillGeneratedPassword.label  "Utilitza una contrasenya generada segura">
+<!ENTITY fillGeneratedPassword.accesskey "s">
 <!ENTITY fillPasswordMenu.label       "Emplena la contrasenya">
 <!ENTITY fillPasswordMenu.accesskey   "m">
 <!ENTITY fillUsernameMenu.label       "Emplena el nom d'usuari">

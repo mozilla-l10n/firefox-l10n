@@ -154,7 +154,8 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.longDesc "És probable que <span class='hostname'></span> sigui un lloc segur, però no s'ha pogut establir una connexió segura. La causa d'aquest problema és <span class='mitm-name'/>, que és un programari del vostre ordinador o de la vostra xarxa.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Si el vostre programari antivirus inclou una funció que escaneja les connexions xifrades (que sovint s'anomena «escàner web» o «escàner https»), podeu desactivar-la. Si no funciona, podeu eliminar el programari antivirus i reinstal·lar-lo.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Si us trobeu en una xarxa corporativa, poseu-vos en contacte amb el vostre departament informàtic.">
-<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Si no coneixeu <span class='mitm-name'/>, podria ser que sigui un atac i no hauríeu de continuar al lloc.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Si no coneixeu <span class='mitm-name'/>, podria tractar-se d'un atac i no hauríeu de continuar al lloc.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Si no coneixeu <span class='mitm-name'/>, podria tractar-se d'un atac i no hi ha res que pugueu fer per accedir al lloc.">
 
 <!ENTITY clockSkewError.title "L'hora del vostre ordinador no és correcta">
 <!ENTITY clockSkewError.longDesc "Segons el vostre ordinador, la data i l'hora actuals són: <span id='wrongSystemTime_systemDate1'/>, cosa que impedeix al &brandShortName; establir una connexió segura. Per visitar <span class='hostname'></span>, actualitzeu el rellotge de l'ordinador als paràmetres del sistema per tal que coincideixi amb la data i hora actuals i el fus horari i, a continuació, torneu a carregar <span class='hostname'></span>.">
