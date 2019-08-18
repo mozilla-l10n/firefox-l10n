@@ -101,7 +101,7 @@ permissions-exceptions-addons-desc = You can specify which web sites are allowed
 permissions-exceptions-autoplay-media-window2 =
     .title = Mga Pagbubukod - Autoplay
     .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = You can specify which web sites are always or never allowed to use cookies.  Type the exact address of the site you want to manage and then click Block, Allow for Session, or Allow.
+permissions-exceptions-autoplay-media-desc2 = Maaari mong banggitin aling mga website ang palagi o di-kailanman papayagan na mag-autoplay ng media na walang tunog. I-type ang address ng site na gusto mong i-manage at pagkatapos ay pindutin ang Harangin o Payagan.
 
 ## Site Permissions - Autoplay
 

@@ -324,7 +324,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "File">
 <!ENTITY fileMenu.accesskey       "F">
 
-<!ENTITY newUserContext.label             "Bagong Lalagyanan ng Tab">
+<!ENTITY newUserContext.label             "Bagong Container Tab">
 <!ENTITY newUserContext.accesskey         "B">
 <!ENTITY manageUserContext.label          "Manage Containers">
 <!ENTITY manageUserContext.accesskey      "O">

@@ -85,7 +85,7 @@ extension-controlled-web-notifications = An extension, <img data-l10n-name="icon
 extension-controlled-default-search = Ang extension, <img data-l10n-name="icon"/> { $name }, ay sinet ang iyong default search engine.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlled-privacy-containers = Ang extension, <img data-l10n-name="icon"/> { $name }, ay nangangailangan ng mga Tab ng Lalagyan.
+extension-controlled-privacy-containers = Ang extension, <img data-l10n-name="icon"/> { $name }, ay nangangailangan ng Container Tabs.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = An extension, <img data-l10n-name="icon"/> { $name }, is controlling this setting.
@@ -161,11 +161,11 @@ browser-containers-learn-more = Matuto ng higit pa
 browser-containers-settings =
     .label = Mga setting…
     .accesskey = i
-containers-disable-alert-title = Isara ang Lahat ng Mga Tab ng Lalagyan?
+containers-disable-alert-title = Isara Lahat ng Mga Container Tab?
 containers-disable-alert-desc =
     { $tabCount ->
-        [one] Kung hindi mo pinagana ang Mga Tab ng Lalagyan ngayon, sarado ang tab ng { $tabCount }. Sigurado ka ba na nais mong huwag paganahin ang mga Tab ng Lalagyan?
-       *[other] Kung hindi mo pinagana ang Mga Tab ng Lalagyan ngayon, ang mga tab ng { $tabCount } lalagyan ay sarado. Sigurado ka bang gusto mong huwag paganahin ang Mga Tab ng Lalagyan?
+        [one] Kapag dinisable mo ngayon ang Container Tabs, may { $tabCount } container tab na isasara. Sigurado ka bang gusto mo i-disable ang Container Tabs?
+       *[other] Kapag dinisable mo ngayon ang Container Tabs, may { $tabCount } container tab na isasara. Sigurado ka bang gusto mo i-disable ang Container Tabs?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
@@ -178,8 +178,8 @@ containers-remove-alert-title = Alisin ang Lalagyan na Ito?
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
-        [one] Kung alisin mo ang Container na ito ngayon, sarado ang tab ng { $count }. Sigurado ka ba na gusto mong alisin ang Lalagyan na ito?
-       *[other] Kung alisin mo ang Container na ito ngayon, sarado ang mga tab ng { $count }. Sigurado ka bang gusto mong alisin ang Lalagyan na ito?
+        [one] Kapag tinanggal mo ngayon ang Container na ito, may { $count } container tab na isasara. Sigurado ka bang gusto mong tanggalin ang Container na ito?
+       *[other] Kapag tinanggal mo ngayon ang Container na ito, may { $count } container tab na isasara. Sigurado ka bang gusto mong tanggalin ang Container na ito?
     }
 containers-remove-ok-button = Alisin ang Lalagyan na Ito
 containers-remove-cancel-button = Huwag alisin ang Lalagyan na ito
@@ -272,7 +272,7 @@ update-application-check-choose =
     .label = I-check kung may mga update, subalit hayaan ka kung i-install ang mga ito
     .accesskey = C
 update-application-manual =
-    .label = Huwag kailan man mag check kung may mga update (hindi rekomendado)
+    .label = Huwag kailanman mag-check kung may mga update (hindi rekomendado)
     .accesskey = N
 update-application-warning-cross-user-setting = Ang setting na ito ay gagamitin sa lahat ng Windows accounts at mga { -brand-short-name } profiles na gumagamit ng installation na ito ng { -brand-short-name }.
 update-application-use-service =
@@ -458,7 +458,7 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Ipakita ang search suggestions bago ang browsing history sa address bar results
-search-suggestions-cant-show = Ang mga mungkahi sa paghahanap ay hindi maipapakita ang mga resulta sa bar ng lokasyon dahil na-configure mo ang { -brand-short-name } Upang hindi matandaan ang kasaysayan.
+search-suggestions-cant-show = Ang mga mungkahi sa paghahanap ay hindi ipapakita sa location bar dahil na-configure mo ang { -brand-short-name } na hindi kailanman tatandaan ang kasaysayan.
 search-one-click-header = Isang-Click Search Engines
 search-one-click-desc = Piliin ang mga alternatibong search engine na lalabas sa ibaba ng address bar at search bar kapag nagsimula kang magpasok ng isang keyword.
 search-choose-engine-column =
@@ -483,7 +483,7 @@ search-keyword-warning-bookmark = Ginagamit na ng isang bookmark ang keyword na 
 ## Containers Section
 
 containers-back-link = « Bumalik Ka
-containers-header = Mga Tab ng Lalagyan
+containers-header = Mga Container Tab
 containers-add-button =
     .label = Dagdagan ng Bagong Contianer
     .accesskey = A

@@ -75,7 +75,7 @@ newtab-menu-topsites-placeholder-tooltip =
 
 newtab-menu-edit-topsites = I-edit
 newtab-menu-open-new-window = Buksan sa isang Bagong Window
-newtab-menu-open-new-private-window = Buksan sa isang Pribadong Bago na Window
+newtab-menu-open-new-private-window = Buksan sa Bagong Private Window
 newtab-menu-dismiss = Paalisin
 newtab-menu-pin = I-pin
 newtab-menu-unpin = I-unpin
