@@ -13,6 +13,8 @@ rights-intro-point-6 = In order to play back certain types of video content, { -
 rights-webservices-header = { -brand-full-name } Web-Based Information Services
 rights-webservices = Ang { -brand-full-name } ay gumagamit ng mga web-based information service ("Mga Service") para makapagbigay ng ilan sa mga katangiang maaari mong gamitin sa bersyong binary na ito ng { -brand-short-name } sa ilalim ng mga patakarang nakalagay sa baba. Kung hindi mo gustong gamitin ang isa o higit pa sa Mga Service o hindi katanggap-tanggap ang mga patakaran sa baba, maaari mong i-disable ang mga katangian o mga Service. Ang mga tagubilin kung paano makakapag-disable ng katangian o Service ay matatagpuan <a data-l10n-name="mozilla-disable-service-link">dito</a>. Ang iba pang mga katangian at Service ay pwedeng ma-disable sa application preferences.
 rights-safebrowsing = <strong>SafeBrowsing: </strong>Hindi pagpapagana sa Ligtas na Pagba-browse ng tampok ay hindi inirerekomenda bilang ito ay maaaring magresulta sa ka pagpunta sa hindi ligtas na mga site. Kung nais mong ganap na hindi paganahin ang tampok, sundin ang mga hakbang na ito:
+rights-safebrowsing-term-1 = Buksan ang mga application preference
+rights-safebrowsing-term-2 = Piliin ang Security selection
 rights-safebrowsing-term-3 = Uncheck the option to "{ enableSafeBrowsing-label }"
 enableSafeBrowsing-label = I-block ang mga content na delikado at nakakahinala
 rights-safebrowsing-term-4 = Disabled ang Safe Browsing

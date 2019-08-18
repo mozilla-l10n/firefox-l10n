@@ -8,7 +8,10 @@ abuse-report-subtitle = Ano ang problema?
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = ni <a data-l10n-name="author-name">{ $author-name }</a>
+abuse-report-learnmore = Hindi sigurado aling issue ang pipiliin? <a data-l10n-name="learnmore-link">Alamin ang tungkol sa pag-ulat ng mga extension at tema</a>
 abuse-report-submit-description = Ilarawan ang problema (opsyonal)
+abuse-report-textarea =
+    .placeholder = Mas madali para sa amin matugunan ang problema kung mayroong mga detalye. Pakilarawan kung ano ang iyong nararanasan. Salamat sa pagtulong para mapanatiling maayos ang web.
 
 ## Panel buttons.
 

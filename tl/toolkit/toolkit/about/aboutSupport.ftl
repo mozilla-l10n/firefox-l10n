@@ -24,6 +24,7 @@ features-title = Mga katangian ng { -brand-short-name }
 features-name = Pangalan
 features-version = Bersyon
 features-id = ID
+processes-title = Mga Remote Process
 processes-type = Uri
 processes-count = Bilang
 app-basics-title = Mga panimula ng Aplikasyon
@@ -31,6 +32,13 @@ app-basics-name = Pangalan
 app-basics-version = Bersyon
 app-basics-build-id = Build ID
 app-basics-update-channel = I-update ang Channel
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Update Directory
+       *[other] Update Folder
+    }
 app-basics-update-history = I-update ang History
 app-basics-show-update-history = Ipakita ang Kasaysayan ng Update
 # Represents the path to the binary used to start the application.
@@ -63,6 +71,7 @@ show-dir-label =
     }
 modified-prefs-name = Pangalan
 modified-prefs-value = Halaga
+user-js-title = user.js Preferences
 user-js-description = Your profile folder contains a <a data-l10n-name="user-js-link">user.js file</a>, which includes preferences that were not created by { -brand-short-name }.
 locked-prefs-name = Pangalan
 locked-prefs-value = Halaga
@@ -207,6 +216,7 @@ gpu-process-kill-button = Patigilin ang mga Proseso ng GPU
 gpu-device-reset = Device Reset
 gpu-device-reset-button = I-trigger ang Pag-reset ng Device
 uses-tiling = Paggamit ng Tiling
+target-frame-rate = Target Frame Rate
 audio-backend = Backend ng Audio
 max-audio-channels = Max na mga Channel
 sample-rate = Mas gustong Sample Rate
@@ -219,10 +229,15 @@ has-privileged-user-namespaces = Mga Namespace ng Gumagamit para sa mga pribilih
 can-sandbox-content = Content Process Sandboxing
 can-sandbox-media = Media Plugin Sandboxing
 content-sandbox-level = Antas ng Sandbox ng Proseso ng Nilalaman
+effective-content-sandbox-level = Effective Content Process Sandbox Level
 sandbox-proc-type-content = nilalaman
 sandbox-proc-type-file = nilalaman ng file
 sandbox-proc-type-media-plugin = plugin ng media
 sandbox-proc-type-data-decoder = data decoder
+launcher-process-status-0 = Naka-enable
+launcher-process-status-1 = Na-disable dahil sa pagkasira
+launcher-process-status-2 = Sapilitang na-disable
+launcher-process-status-unknown = Di-kilalang status
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -230,6 +245,7 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 multi-process-status-0 = Pinagana ng gumagamit
 multi-process-status-1 = Pinapagana ayon sa default
 multi-process-status-2 = Hindi Pinagana
+multi-process-status-4 = Na-disable ng mga accessibility tool
 multi-process-status-6 = Hindi pinagana ng hindi suportadong text input
 multi-process-status-7 = Hindi pinagana ng mga add-on
 multi-process-status-8 = Sapilitang hindi pinagana
