@@ -70,7 +70,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY taskManagerCmd.label "Task Manager">
 
-<!ENTITY goOfflineCmd.label "Gumawa kahit walang Internet">
+<!ENTITY goOfflineCmd.label "Magtrabaho Offline">
 <!ENTITY goOfflineCmd.accesskey "k">
 
 <!ENTITY menubarCmd.label "Menu Bar">
@@ -278,9 +278,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton2.label         "Menu ng mga Bookmark">
 <!ENTITY bookmarksMenuButton.other.label    "Iba pang mga Bookmark">
 <!ENTITY bookmarksMenuButton.mobile.label   "Mga Mobile Bookmark">
-<!ENTITY viewBookmarksSidebar2.label        "Tingnan ang Bookmarks Sidebar">
+<!ENTITY viewBookmarksSidebar2.label        "Ipakita ang Bookmarks Sidebar">
 <!ENTITY hideBookmarksSidebar.label         "Itago ang Bookmark Sidebar">
-<!ENTITY viewBookmarksToolbar.label         "Tingnan ang Bookmarks Toolbar">
+<!ENTITY viewBookmarksToolbar.label         "Ipakita ang Bookmarks Sidebar">
 <!ENTITY hideBookmarksToolbar.label         "Itago ang Bookmark Toolbar">
 <!ENTITY searchBookmarks.label              "Hanapin sa mga Bookmark">
 <!ENTITY bookmarkingTools.label             "Mga Tool sa Pag-bookmark">
@@ -381,7 +381,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyMenu.label "Kasaysayan">
 <!ENTITY historyMenu.accesskey "s">
-<!ENTITY historyUndoMenu.label "Mga Nasarang Tabs">
+<!ENTITY historyUndoMenu.label "Mga Naisarang Tab">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Bagong Sarang mga Window">
 <!ENTITY historyRestoreLastSession.label "Ibalik ang Nakaraang Session">

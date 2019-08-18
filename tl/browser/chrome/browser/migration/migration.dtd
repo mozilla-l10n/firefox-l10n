@@ -34,7 +34,7 @@
 
 <!ENTITY noMigrationSources.label       "Walang mahanap na application na naglalaman ng bookmark, history o password data.">
 
-<!ENTITY importSource.title             "I-import ang Settings at Data">
+<!ENTITY importSource.title             "Mag-import ng mga Setting at Data">
 <!ENTITY importItems.title              "I-import ang mga">
 <!ENTITY importItems.label              "Pumili kung aling item ang i-import:">
 

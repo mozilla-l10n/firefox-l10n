@@ -53,7 +53,7 @@ menu-file-import-from-another-browser =
     .label = Mag-import mula sa Ibang Browser…
     .accesskey = I
 menu-file-go-offline =
-    .label = Magtrabaho kahit walang Internet
+    .label = Magtrabaho Offline
     .accesskey = k
 
 ## Edit Menu
@@ -178,7 +178,7 @@ menu-history-restore-last-session =
 menu-history-hidden-tabs =
     .label = Mga Tinagong Tab
 menu-history-undo-menu =
-    .label = Mga Nasarang Tabs
+    .label = Mga Naisarang Tab
 menu-history-undo-window-menu =
     .label = Bagong Sarang mga Window
 
