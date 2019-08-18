@@ -263,6 +263,9 @@ about-debugging-extension-id =
 about-debugging-worker-action-push = Push
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = 시작
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start2 = 시작
+    .disabledTitle = 서비스 워커 시작이 현재 다중 프로세스 { -brand-shorter-name }에 대해 비활성화되어 있습니다
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = 등록해제
 # Displayed for service workers in runtime pages that listen to Fetch events.
@@ -287,6 +290,9 @@ about-debugging-worker-scope =
 # of a worker
 about-debugging-worker-push-service =
     .label = Push 서비스
+# Displayed as title of the inspect button when service worker debugging is disabled.
+about-debugging-worker-inspect-action-disabled =
+    .title = 서비스 워커 검사가 현재 다중 프로세스 { -brand-shorter-name }에 대해 비활성화되어 있습니다.
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = 메인 프로세스

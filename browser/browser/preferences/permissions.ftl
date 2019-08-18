@@ -67,6 +67,7 @@ permissions-exceptions-content-blocking-window =
     .title = 예외 - 콘텐츠 차단
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = 이 웹 사이트에서 콘텐츠 차단을 비활성화 했습니다.
+permissions-exceptions-etp-desc = 이 웹 사이트에서 보호 기능을 껐습니다.
 
 ## Exceptions - Cookies
 

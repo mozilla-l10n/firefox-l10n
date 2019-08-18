@@ -154,9 +154,6 @@ private-browsing-description2 =
     { -brand-short-name }에 추가되는 모든 새 확장 기능은 기본적으로 사생활 보호 모드에서 실행되지 않습니다. 만약 사용자가 설정에서 허용하지 않는다면, 확장 기능은 사생활 보호 모드에서 작동하지 않으며, 사용자 온라인 활동에 접근할 수 없습니다.
     사용자의 사생활 보호 모드를 비공개로 유지 하기 위해 이렇게 변경 했습니다.
     <label data-l10n-name="private-browsing-learn-more">확장 기능 설정 관리 방법 알아보기</label>
-extensions-view-discover =
-    .name = 추천
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = 추천
     .tooltiptext = { extensions-view-discopane.name }
@@ -252,6 +249,8 @@ shortcuts-modifier-other = Ctrl 또는 Alt 포함
 shortcuts-invalid = 잘못된 조합
 shortcuts-letter = 문자 입력
 shortcuts-system = { -brand-short-name } 단축키를 재정의 할 수 없음
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = 중복 단축키
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -305,6 +304,16 @@ release-notes-addon-button = 출시 정보
 permissions-addon-button = 권한
 addons-enabled-heading = 활성화 됨
 addons-disabled-heading = 비활성화 됨
+extension-enabled-heading = 사용함
+extension-disabled-heading = 사용 안 함
+theme-enabled-heading = 사용함
+theme-disabled-heading = 사용 안 함
+plugin-enabled-heading = 사용함
+plugin-disabled-heading = 사용 안 함
+dictionary-enabled-heading = 사용함
+dictionary-disabled-heading = 사용 안 함
+locale-enabled-heading = 사용함
+locale-disabled-heading = 사용 안 함
 ask-to-activate-button = 활성화 요청
 always-activate-button = 항상 사용
 never-activate-button = 사용 안함

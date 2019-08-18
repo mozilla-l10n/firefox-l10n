@@ -3,6 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = 로그인과 비밀번호
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-subtitle = 무료 { -lockwise-brand-name } 앱을 받으세요
+login-app-promo-apple =
+    .alt = App Store에서 다운로드
 login-filter =
     .placeholder = 로그인 검색
 create-login-button = 새 로그인 만들기
@@ -122,3 +128,5 @@ confirm-discard-changes-dialog-confirm-button = 버리기
 
 breach-alert-text = 마지막 로그인 정보를 업데이트 한 후 이 웹 사이트에서 비밀번호가 유출되거나 도난당했습니다. 계정을 보호하기 위해 비밀번호를 변경하십시오.
 breach-alert-link = 이 유출에 대해 자세히 알아보기.
+breach-alert-dismiss =
+    .title = 이 알림 닫기

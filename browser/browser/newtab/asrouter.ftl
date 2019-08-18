@@ -68,6 +68,10 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = 닫기 버튼
     .title = 닫기
 
+## Protections panel
+
+cfr-protections-panel-link-text = 더 알아보기
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =

@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = 핑 데이터 소스:
 about-telemetry-show-current-ping-data = 현재 핑 데이터
+about-telemetry-show-current-data = 현재 데이터
 about-telemetry-show-archived-ping-data = 저장된 핑 데이터
 about-telemetry-show-subsession-data = 하위 세션 데이터 보기
 about-telemetry-choose-ping = 핑 선택:
@@ -75,6 +76,7 @@ about-telemetry-settings-explanation = 텔레메트리가 { about-telemetry-data
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = 각 정보 조각들은 “<a data-l10n-name="ping-link">핑</a>“로 번들되어 보내집니다. 지금은 { $name }, { $timestamp } 핑을 보고 있습니다.
 about-telemetry-ping-details-current = 각 정보 조각들은 “<a data-l10n-name="ping-link">핑</a>“로 번들되어 보내집니다. 지금은 현재 핑을 보고 있습니다.
+about-telemetry-data-details-current = 각 정보는 "<a data-l10n-name="ping-link">핑</a>"에 번들로 전송됩니다. 현재 데이터를 보고 있습니다.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -101,6 +103,8 @@ about-telemetry-no-search-results-all = 죄송합니다! “{ $searchTerms }”�
 about-telemetry-no-data-to-display = 죄송합니다! “{ $sectionName }”에 현재 데이터가 없습니다.
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = 현재 핑
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = 현재 데이터
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = 모두
 # button label to copy the histogram
