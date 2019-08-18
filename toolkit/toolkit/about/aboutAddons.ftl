@@ -250,6 +250,8 @@ shortcuts-modifier-other = Inkluder Ctrl eller Alt
 shortcuts-invalid = Ugyldig kombinasjon
 shortcuts-letter = Skriv ein bokstav
 shortcuts-system = Kan ikkje overskrive ein { -brand-short-name }-snarveg
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Duplisert hurtigtast
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
