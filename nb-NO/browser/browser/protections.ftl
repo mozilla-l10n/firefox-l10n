@@ -30,11 +30,14 @@ etp-card-title = Utvidet sporingsbeskyttelse
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = I dag
+# This string is used to describe the graph for screenreader users.
+graph-legend-description = En graf som inneholder det totale antallet for hver type av sporere som har blitt blokkert denne uken.
 social-tab-title = Sporing via sosiale medier
 cookie-tab-title = Sporingsinfokapsler på tvers av nettsteder
 tracker-tab-title = Sporings-innhold
 fingerprinter-tab-title = Fingerprinters
 cryptominer-tab-title = Kryptominere
+cryptominer-tab-content = Kryptominere bruker systemets datakraft for å utvinne digitale penger. Kryptomineringsskript tapper batteriet, gjør datamaskinen tregere og kan øke strømregningen. <a data-l10n-name="learn-more-link">Les mer</a>
 lockwise-title = Glem aldri et passord igjen
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } lagrer passordene dine sikkert i nettleseren din.
