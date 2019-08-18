@@ -86,17 +86,28 @@ cfr-whatsnew-panel-header = Novetats
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Accediu a aquesta adreça d'interès des del vostre telèfon
+cfr-doorhanger-sync-bookmarks-body = Accediu a les adreces d'interès, les contrasenyes, l'historial i molt més arreu on tingueu una sessió iniciada en el { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = Activa el { -sync-brand-short-name }
     .accesskey = A
 
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = No perdeu mai més cap contrasenya
+cfr-doorhanger-sync-logins-body = Emmagatzemeu i sincronitzeu de forma segura les contrasenyes en tots els vostres dispositius.
 cfr-doorhanger-sync-logins-ok-button = Activa el { -sync-brand-short-name }
     .accesskey = A
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Llegiu-ho sobre la marxa
+cfr-doorhanger-send-tab-recipe-header = Emporta't aquesta recepta a la cuina
+cfr-doorhanger-send-tab-body = «Envia la pestanya» us permet compartir fàcilment aquest enllaç amb el vostre telèfon o arreu on tingueu una sessió iniciada en el { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Prova «Envia la pestanya»
+    .accesskey = P
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Compartiu aquest PDF de forma segura
+cfr-doorhanger-firefox-send-body = Manteniu els vostres documents confidencials lluny de mirades indiscretes amb un xifratge d'extrem a extrem i un enllaç que desapareix quan hàgiu acabat.
+cfr-doorhanger-firefox-send-ok-button = Prova el { -send-brand-name }
+    .accesskey = P
