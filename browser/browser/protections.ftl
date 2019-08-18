@@ -34,7 +34,7 @@ graph-today = avui
 social-tab-title = Elements de seguiment de xarxes socials
 cookie-tab-title = Galetes de seguiment entre llocs
 tracker-tab-title = Contingut que fa seguiment
-fingerprinter-tab-title = Creadors d'empremtes digitals
+fingerprinter-tab-title = Generadors d'empremtes digitals
 cryptominer-tab-title = Miners de criptomonedes
 lockwise-title = No oblideu mai més cap contrasenya
 lockwise-title-logged-in = { -lockwise-brand-name }
@@ -134,11 +134,11 @@ bar-tooltip-tracker =
            *[other] { $count } continguts que fan seguiment ({ $percentage }%)
         }
 bar-tooltip-fingerprinter =
-    .title = Creadors d'empremtes digitals
+    .title = Generadors d'empremtes digitals
     .aria-label =
         { $count ->
-            [one] { $count } creador d'empremtes digitals ({ $percentage }%)
-           *[other] { $count } creadors d'empremtes digitals ({ $percentage }%)
+            [one] { $count } generador d'empremtes digitals ({ $percentage }%)
+           *[other] { $count } generador d'empremtes digitals ({ $percentage }%)
         }
 bar-tooltip-cryptominer =
     .title = Miners de criptomonedes

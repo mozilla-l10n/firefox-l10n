@@ -747,7 +747,7 @@ content-blocking-all-windows-trackers = Elements de seguiment coneguts en totes 
 content-blocking-all-windows-tracking-content = Contingut que fa seguiment en totes les finestres
 content-blocking-all-third-party-cookies = Totes les galetes de tercers
 content-blocking-cryptominers = Miners de criptomonedes
-content-blocking-fingerprinters = Creadors d'empremtes digitals
+content-blocking-fingerprinters = Generadors d'empremtes digitals
 content-blocking-warning-title = Atenció!
 content-blocking-warning-description = El bloqueig de contingut pot fer que alguns llocs web no funcionin correctament. És fàcil desactivar el bloqueig dels llocs en què confieu.
 content-blocking-learn-how = Vegeu com fer-ho
@@ -782,8 +782,8 @@ content-blocking-cryptominers-label =
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Creadors d'empremtes digitals
-    .accesskey = C
+    .label = Generadors d'empremtes digitals
+    .accesskey = G
 
 ## Privacy Section - Tracking
 
