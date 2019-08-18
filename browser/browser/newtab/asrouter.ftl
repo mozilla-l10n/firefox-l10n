@@ -70,6 +70,12 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Botó Tanca
     .title = Tanca
 
+## Protections panel
+
+cfr-protections-panel-header = Navegueu sense sentir-vos observat
+cfr-protections-panel-body = Protegiu les vostres dades. El { -brand-short-name } us protegeix de molts dels elements de seguiment més habituals que recopilen dades sobre allò que feu a Internet.
+cfr-protections-panel-link-text = Més informació
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
@@ -79,6 +85,15 @@ cfr-whatsnew-panel-header = Novetats
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Accediu a aquesta adreça d'interès des del vostre telèfon
+cfr-doorhanger-sync-bookmarks-ok-button = Activa el { -sync-brand-short-name }
+    .accesskey = A
+
+## Login Sync
+
+cfr-doorhanger-sync-logins-header = No perdeu mai més cap contrasenya
+cfr-doorhanger-sync-logins-ok-button = Activa el { -sync-brand-short-name }
+    .accesskey = A
 
 ## Send Tab
 

@@ -56,4 +56,25 @@ abuse-report-damage-example = Exemple: programari maliciós injectat o robatori 
 abuse-report-spam-reason = Crea brossa o publicitat
 abuse-report-spam-example = Exemple: insereix anuncis en les pàgines web
 abuse-report-settings-reason = Ha canviat el meu motor de cerca, la pàgina d'inici o la de pestanya nova sense informar-me'n ni preguntar-m'ho
-abuse-report-settings-suggestions = Abans d’informar sobre l'extensió, podeu provar de canviar-ne els paràmetres:
+abuse-report-settings-suggestions = Abans d’informar sobre l'extensió, podeu provar de canviar els paràmetres:
+abuse-report-settings-suggestions-search = Canvieu els paràmetres de cerca per defecte
+abuse-report-settings-suggestions-homepage = Canvieu la vostra pàgina principal i de pestanya nova
+abuse-report-deceptive-reason = Pretén ser quelcom que no és
+abuse-report-deceptive-example = Exemple: imatges o descripcions enganyoses
+abuse-report-broken-reason-extension = No funciona, deixa llocs web inutilitzables o fa que el { -brand-product-name } vagi lent
+abuse-report-broken-reason-theme = No funciona o malmet la visualització del navegador
+abuse-report-broken-example = Exemple: les funcions són lentes, difícils d’utilitzar o no funcionen; parts dels llocs web no es carreguen o tenen un aspecte inusual
+abuse-report-broken-suggestions-extension =
+    Sembla que heu identificat un error. A més d'enviar un informe aquí, la millor manera de resoldre un problema de funcionalitat, és contactar amb el desenvolupador de l'extensió.
+    <a data-l10n-name="support-link">Visiteu el lloc web de l'extensió</a> per obtenir informació del desenvolupador.
+abuse-report-broken-suggestions-theme =
+    Sembla que heu identificat un error. A més d'enviar un informe aquí, la millor manera de resoldre un problema de funcionalitat és contactar amb el desenvolupador del tema.
+    <a data-l10n-name="support-link">Visiteu el lloc web del tema</a> per obtenir la informació del desenvolupador.
+abuse-report-policy-reason = Contingut d'odi, violent o il·legal
+abuse-report-policy-suggestions =
+    Nota: els problemes de propietat intel·lectual i de marca s'han de notificar en un procés independent.
+    <a data-l10n-name="report-infringement-link">Utilitzeu aquestes instruccions</a> per
+    informar del problema.
+abuse-report-unwanted-reason = No he volgut mai aquesta extensió i no me'n puc desfer
+abuse-report-unwanted-example = Exemple: una aplicació la va instal·lar sense el meu permís
+abuse-report-other-reason = Una altra cosa
