@@ -92,6 +92,13 @@ cfr-doorhanger-sync-bookmarks-body = Вазьміце свае закладкі,
 cfr-doorhanger-sync-bookmarks-ok-button = Уключыць { -sync-brand-short-name }
     .accesskey = У
 
+## Login Sync
+
+cfr-doorhanger-sync-logins-header = Ніколі не губляйце пароль ізноў
+cfr-doorhanger-sync-logins-body = Бяспечна захоўвайце і сінхранізуйце паролі на ўсіх сваіх прыладах.
+cfr-doorhanger-sync-logins-ok-button = Уключыць { -sync-brand-short-name }
+    .accesskey = У
+
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Чытайце гэта на хаду
