@@ -94,6 +94,13 @@ cfr-doorhanger-sync-bookmarks-body = Zabierz swoje zakładki, hasła, historię 
 cfr-doorhanger-sync-bookmarks-ok-button = Włącz { -sync-brand-short-name(case: "acc", capitalization: "lower") }
     .accesskey = W
 
+## Login Sync
+
+cfr-doorhanger-sync-logins-header = Już nigdy nie zgub żadnego hasła
+cfr-doorhanger-sync-logins-body = Bezpiecznie przechowuj i synchronizuj hasła na wszystkich urządzeniach.
+cfr-doorhanger-sync-logins-ok-button = Włącz { -sync-brand-short-name(case: "acc", capitalization: "lower") }
+    .accesskey = W
+
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Przeczytaj to w podróży
