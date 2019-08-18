@@ -4,8 +4,8 @@
 
 safeb-blocked-phishing-page-title = Villeiande nettstad
 safeb-blocked-malware-page-title = Å besøkje denne nettstaden kan skade datamaskina di
-safeb-blocked-unwanted-page-title = Nettstaden framom kan innehalde skadeleg programvare
-safeb-blocked-harmful-page-title = Nettstaden framom kan innehalde skadeleg programvare
+safeb-blocked-unwanted-page-title = Nettstaden forut kan innehalde skadeleg programvare
+safeb-blocked-harmful-page-title = Nettstaden forut kan innehalde skadeleg programvare
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } blokkert denne sida fordi det kan få deg til å gjere noko farleg som å installere programvare eller avsløre personleg informasjon som passord eller kredittkort.
 safeb-blocked-malware-page-short-desc = { -brand-short-name } blokkert denne sida fordi ho kan prøve å installere skadeleg programvare som kan stele eller slette personleg informasjon på datamaskina din.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } blokkerte denne nettsida fordi ho kan prøve å lure deg til å installere program som skadar nettlesaroppleinga di (til dømes ved å endre startsida di eller ved å vise ekstra annonsar på nettstadar du besøkjer).
