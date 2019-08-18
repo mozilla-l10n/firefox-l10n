@@ -80,6 +80,8 @@ about-debugging-refresh-usb-devices-button = I-refresh ang mga device
 
 # Title of the Setup page.
 about-debugging-setup-title = Setup
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = I-configure ang connection method na nais mong ipang-remote debug sa device mo.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Gamitin ang <a>{ about-debugging-this-firefox-runtime-name }</a> para makapag-debug ng mga tab, extension at service worker sa bersyong ito ng { -brand-shorter-name }.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
@@ -88,6 +90,8 @@ about-debugging-setup-this-firefox2 = Gamitin ang <a>{ about-debugging-this-fire
 about-debugging-setup-connect-heading = Mag-connect ng Device
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = Kapag na-enable ito, mada-download at madaragdag ang mga kinakailangang Android USB debugging component sa { -brand-shorter-name }.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = I-enable ang mga USB Device
@@ -175,6 +179,20 @@ about-debugging-runtime-service-workers-not-compatible = Ang iyong browser confi
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
 about-debugging-browser-version-too-old = Ang naka-connect na browser ay may lumang version ({ $runtimeVersion }). Ang minimum na suportadong version ay ({ $minVersion }). Ito ay isang hindi suportadong setup at maaaring ikasira ng DevTools. Paki-update ang konektadong browser. <a>Pag-troubleshoot</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# - from Fx 67 to 66 or to 65
+# - from Fx 68 to 66
+# Those are normally in range for DevTools compatibility policy, but specific non
+# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+about-debugging-browser-version-too-old-67-debugger = Maaaring hindi gumana ang Debugger panel sa nakakonektang browser. Pakigamit ang Firefox { $runtimeVersion } kung kailangan mong gamitin ang Debugger sa browser na ito.
+# This string is displayed in the runtime page if the remote browser version is too recent.
+# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = Ang nakakonektang browser ay mas bago ({ $runtimeVersion }, buildID { $runtimeID }) kaysa sa iyong { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Hindi ito suportadong setup at maaaring makasira sa DevTools. Paki-update ang Firefox. <a>Pag-troubleshoot</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -182,6 +200,12 @@ about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Mag-disconnect
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = I-enable ang connection prompt
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is true on the target runtime.
+about-debugging-connection-prompt-disable-button = I-disable ang connection prompt
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
 about-debugging-profiler-dialog-title2 = Profiler
 # Clicking on the header of a debug target category will expand or collapse the debug
@@ -239,8 +263,25 @@ about-debugging-extension-id =
 about-debugging-worker-action-push = Push
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = Simulan
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Note this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push2 = Push
+    .disabledTitle = Kasalukuyang naka-disable ang Service Worker push para sa multiprocess na { -brand-shorter-name }
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start2 = Start
+    .disabledTitle = Kasalukuyang naka-disable ang Service Worker start para sa multiprocess na { -brand-shorter-name }
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = I-unregister
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = Fetch
+    .value = Nakikinig sa mga fetch event
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = Fetch
+    .value = Hindi nakikinig sa mga fetch event
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
 about-debugging-worker-status-running = Tumatakbo
@@ -255,6 +296,9 @@ about-debugging-worker-scope =
 # of a worker
 about-debugging-worker-push-service =
     .label = Push Service
+# Displayed as title of the inspect button when service worker debugging is disabled.
+about-debugging-worker-inspect-action-disabled =
+    .title = Kasalukuyang naka-disable ang Service Worker inspection para sa multiprocess na { -brand-shorter-name }
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Main Process

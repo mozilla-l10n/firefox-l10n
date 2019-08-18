@@ -12,6 +12,8 @@ accessibility-text-label-header = Mga Text Label at Pangalan
 
 accessibility-warning =
     .alt = Babala
+accessibility-fail =
+    .alt = Error
 accessibility-best-practices =
     .alt = Pinakamahusay na mga kasanayan
 
@@ -26,6 +28,7 @@ accessibility-text-label-issue-embed = Dapat naka-label ang mga embedded content
 accessibility-text-label-issue-figure = Dapat naka-label ang mga figure na may optional caption. <a>Alamin</a>
 accessibility-text-label-issue-fieldset = Dapat naka-label ang mga <code>fieldset</code> element. <a>Alamin</a>
 accessibility-text-label-issue-fieldset-legend = Gamitin ang <code>legend</code> element para mabigyan ng label ang mga <span>fieldset</span> element. <a>Alamin</a>
+accessibility-text-label-issue-fieldset-legend2 = Gumamit ng <code>legend</code> element para makapag-label ng <span>fieldset</span>. <a>Alamin</a>
 accessibility-text-label-issue-form = Dapat naka-label ang mga form element. <a>Alamin</a>
 accessibility-text-label-issue-form-visible = Dapat ay may nakikitang text label ang mga form element. <a>Alamin</a>
 accessibility-text-label-issue-frame = Dapat naka-label ang mga <code>frame</code> element. <a>Alamin</a>
@@ -36,4 +39,5 @@ accessibility-text-label-issue-iframe = Gamitin ang <code>title</code>attribute 
 accessibility-text-label-issue-image = Dapat naka-label ang content na may mga larawan. <a>Alamin</a>
 accessibility-text-label-issue-interactive = Dapat naka-label ang mga interactive element. <a>Alamin</a>
 accessibility-text-label-issue-optgroup-label = Gamitin ang <code>label</code> attribute para mabigyan ng label ang mga <span>optgroup</span> element. <a>Alamin</a>
+accessibility-text-label-issue-optgroup-label2 = Gumamit ng <code>label</code> attribute para makapag-label ng <span>optgroup</span>. <a>Alamin</a>
 accessibility-text-label-issue-toolbar = Dapat naka-label ang mga toolbar kapag mayroong higit sa isang toolbar. <a>Alamin</a>
