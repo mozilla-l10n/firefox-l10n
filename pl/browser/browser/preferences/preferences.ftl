@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Informuj witryny o preferencjach względem śledzenia (wysyłanie nagłówka „Do Not Track”):
+do-not-track-description = Informowanie witryn o preferencjach względem śledzenia (wysyłanie nagłówka „Do Not Track”):
 do-not-track-learn-more = Więcej informacji
 do-not-track-option-default-content-blocking-known =
     .label = gdy { -brand-short-name } blokuje znane elementy śledzące
@@ -486,7 +486,7 @@ search-keyword-warning-bookmark = Wybrano słowo kluczowe używane obecnie przez
 
 ## Containers Section
 
-containers-back-link = « Powrót
+containers-back-link = « Wróć
 containers-header = Karty z kontekstem
 containers-add-button =
     .label = Dodaj kontekst

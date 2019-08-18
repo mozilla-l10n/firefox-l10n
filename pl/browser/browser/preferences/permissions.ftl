@@ -38,23 +38,23 @@ permissions-autoplay-menu = Domyślne dla wszystkich witryn:
 permissions-searchbox =
     .placeholder = Szukaj witryn
 permissions-capabilities-autoplay-allow =
-    .label = Zezwalanie na dźwięk i wideo
+    .label = zezwalanie na dźwięk i wideo
 permissions-capabilities-autoplay-block =
-    .label = Blokowanie dźwięku
+    .label = blokowanie dźwięku
 permissions-capabilities-autoplay-blockall =
-    .label = Blokowanie dźwięku i wideo
+    .label = blokowanie dźwięku i wideo
 permissions-capabilities-allow =
-    .label = Zezwalaj
+    .label = zezwalaj
 permissions-capabilities-block =
-    .label = Blokuj
+    .label = blokuj
 permissions-capabilities-prompt =
-    .label = Zawsze pytaj
+    .label = zawsze pytaj
 permissions-capabilities-listitem-allow =
-    .value = Zezwalaj
+    .value = zezwalaj
 permissions-capabilities-listitem-block =
-    .value = Blokuj
+    .value = blokuj
 permissions-capabilities-listitem-allow-session =
-    .value = Zezwalaj na czas sesji
+    .value = zezwalaj na czas sesji
 
 ## Invalid Hostname Dialog
 
@@ -121,7 +121,7 @@ permissions-site-notification-window =
     .style = { permissions-window.style }
 permissions-site-notification-desc = Następujące strony prosiły o możliwość wyświetlania powiadomień. Określ, które witryny mogą je wyświetlać. Można także zablokować nowe prośby.
 permissions-site-notification-disable-label =
-    .label = Blokowanie nowych próśb o możliwość wyświetlania powiadomień.
+    .label = Blokowanie nowych próśb o możliwość wyświetlania powiadomień
 permissions-site-notification-disable-desc = Uniemożliwi to witrynom spoza listy powyżej proszenie o możliwość wysyłania powiadomień. Zablokowanie powiadomień może spowodować, że niektóre funkcje witryny nie będą działać.
 
 ## Site Permissions - Location
