@@ -734,6 +734,7 @@ content-blocking-fingerprinters = Creadors d'empremtes digitals
 content-blocking-warning-title = Atenció!
 content-blocking-warning-description = El bloqueig de contingut pot fer que alguns llocs web no funcionin correctament. És fàcil desactivar el bloqueig dels llocs en què confieu.
 content-blocking-learn-how = Vegeu com fer-ho
+content-blocking-warning-learn-how = Vegeu com fer-ho
 content-blocking-reload-description = Cal tornar a carregar les pestanyes per aplicar aquests canvis.
 content-blocking-reload-tabs-button =
     .label = Torna a carregar totes les pestanyes
