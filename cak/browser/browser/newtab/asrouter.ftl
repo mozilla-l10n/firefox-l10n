@@ -72,6 +72,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
+cfr-protections-panel-header = Katok pa k'amaya'l akuchi' man yatoqäx ta
 cfr-protections-panel-link-text = Tetamäx ch'aqa' chik
 
 ## What's New toolbar button and panel
@@ -87,6 +88,9 @@ cfr-doorhanger-sync-bookmarks-header = Taya' re yaketal re' pan awoyonib'al
 cfr-doorhanger-sync-bookmarks-body = Ke'ak'waj ri taq ayaketal, ewan atzij, natab'äl chuqa' ch'aqa' chik pa xab'achike k'ojlib'äl akuchi' natikirisaj molojri'ïl pa { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = Titzij { -sync-brand-short-name }
     .accesskey = i
+
+## Login Sync
+
 
 ## Send Tab
 

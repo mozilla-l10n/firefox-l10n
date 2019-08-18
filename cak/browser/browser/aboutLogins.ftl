@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Kitikirisaxik molojri'ïl & Ewan taq Tzij
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = Xab'akuchi' ke'ak'waj ri ewan taq atzij
+login-app-promo-subtitle = Tak'ulu' ri sipan { -lockwise-brand-name } chokoy
+login-app-promo-android =
+    .alt = Tak'ulu' pa Google Play
+login-app-promo-apple =
+    .alt = Taqasaj pa ri App Store
 login-filter =
     .placeholder = Kekanöx Tikirib'äl taq Molojri'ïl
 create-login-button = Titz'uk K'ak'a' Tikirib'äl Molojri'ïl
