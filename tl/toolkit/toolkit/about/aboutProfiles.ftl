@@ -8,6 +8,7 @@ profiles-create = Lumikha ng isang Bagong Profile
 profiles-restart-title = I-restart
 profiles-restart-in-safe-mode = I-restart na may Add-ons Disabled...
 profiles-restart-normal = I-restart ng pangkaraniwan...
+profiles-conflict = May isa pang kopya ng { -brand-product-name } na gumawa ng pagbabago sa mga profile. Kailangan mo munang mag-restart ng { -brand-short-name } bago makagawa ng karagdagang pagbabago.
 profiles-flush-conflict = { profiles-conflict }
 # Variables:
 #   $name (String) - Name of the profile
@@ -26,6 +27,8 @@ profiles-rename = Palitan ang pangalan
 profiles-remove = Alisin
 profiles-set-as-default = Itakda bilang default na profile
 profiles-launch-profile = Ilunsad ang profile sa bagong browser
+profiles-cannot-set-as-default-title = Hindi mai-set bilang default
+profiles-cannot-set-as-default-message = Ang default na profile ay hindi kayang mabago para sa { -brand-short-name }.
 profiles-yes = oo
 profiles-no = hindi
 profiles-rename-profile-title = Palitan ang pangalan ng Profile

@@ -29,5 +29,6 @@ features-console-title = Console
 features-debugger-title = Debugger
 features-network-title = Network
 features-storage-title = Storage
+features-visual-editing-title = Visual na Pag-edit
 features-performance-title = Performance
 features-memory-title = Memory

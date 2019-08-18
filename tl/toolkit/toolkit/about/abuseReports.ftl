@@ -12,6 +12,7 @@ abuse-report-learnmore = Hindi sigurado aling issue ang pipiliin? <a data-l10n-n
 abuse-report-submit-description = Ilarawan ang problema (opsyonal)
 abuse-report-textarea =
     .placeholder = Mas madali para sa amin matugunan ang problema kung mayroong mga detalye. Pakilarawan kung ano ang iyong nararanasan. Salamat sa pagtulong para mapanatiling maayos ang web.
+abuse-report-submit-note = Tandaan: Huwag magsama ng personal na impormasyon (gaya ng pangalan, email address, telepono, tirahan). Nagtatago ang { -vendor-short-name } ng permanenteng record ng mga ulat na ito.
 
 ## Panel buttons.
 
@@ -55,6 +56,7 @@ abuse-report-broken-example = Halimbawa: Mabagal ang feature, mahirap gamitin, o
 abuse-report-broken-suggestions-extension = Mukhang nakahanap ka ng bug. Bukod sa pag-ulat nito, ang pinakamagandang paraan para maayos ang isyu ay direktang tawagan ang developer ng extension. <a data-l10n-name="support-link">Bisitahin ang website ng extension</a> para makuha ang impormasyon patungkol sa developer.
 abuse-report-broken-suggestions-theme = Mukhang nakahanap ka ng bug. Bukod sa pag-ulat nito, ang pinakamagandang paraan para maayos ang isyu ay direktang tawagan ang developer ng tema. <a data-l10n-name="support-link">Bisitahin ang website ng tema</a> para makuha ang impormasyon patungkol sa developer.
 abuse-report-policy-reason = Nakapopoot, marahas, o iligal na nilalaman.
+abuse-report-policy-suggestions = Tandaan: Ang mga issue patungkol sa copyright at trademark ay dapat iulat sa hiwalay na proseso. <a data-l10n-name="report-infringement-link">Gamitin ang mga panutong ito</a> para maiulat ang problema.
 abuse-report-unwanted-reason = Ni minsan ay di ginusto ang extension na ito at hindi ko ito matanggal-tanggal.
 abuse-report-unwanted-example = Halimbawa: May application na nag-install nito nang walang pahintulot.
 abuse-report-other-reason = Iba pa
