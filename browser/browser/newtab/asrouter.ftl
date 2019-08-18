@@ -88,6 +88,13 @@ cfr-doorhanger-sync-bookmarks-body = 将您的书签、密码、历史记录及�
 cfr-doorhanger-sync-bookmarks-ok-button = 开启{ -sync-brand-short-name }
     .accesskey = T
 
+## Login Sync
+
+cfr-doorhanger-sync-logins-header = 不再弄丢密码
+cfr-doorhanger-sync-logins-body = 安全地存储密码并将其同步到您的所有设备。
+cfr-doorhanger-sync-logins-ok-button = 开启{ -sync-brand-short-name }
+    .accesskey = T
+
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = 随时随地阅读
