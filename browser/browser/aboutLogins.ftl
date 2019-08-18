@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Паролі
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = Майте доступ до своїх паролів всюди
+login-app-promo-subtitle = Отримайте додаток { -lockwise-brand-name }
+login-app-promo-android =
+    .alt = Отримати на Google Play
+login-app-promo-apple =
+    .alt = Завантажити з App Store
 login-filter =
     .placeholder = Шукати паролі
 create-login-button = Створити новий запис
