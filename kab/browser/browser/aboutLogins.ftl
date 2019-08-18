@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Inekcam & wawalen uffiren
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
 login-filter =
     .placeholder = Nadi inekcam
 create-login-button = Rnu anekcum amaynut
@@ -81,3 +84,5 @@ confirm-discard-changes-dialog-confirm-button = Kkes
 
 ## Breach Alert notification
 
+breach-alert-dismiss =
+    .title = Mdel ulɣu-agi
