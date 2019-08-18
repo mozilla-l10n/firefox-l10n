@@ -86,6 +86,13 @@ cfr-doorhanger-sync-bookmarks-body = Mantieni segnalibri, password e cronologia 
 cfr-doorhanger-sync-bookmarks-ok-button = Attiva { -sync-brand-short-name }
   .accesskey = A
 
+## Login Sync
+
+cfr-doorhanger-sync-logins-header = Perché rischiare di dimenticare una password?
+cfr-doorhanger-sync-logins-body = Salva le password in modo sicuro e sincronizzale su tutti i tuoi dispositivi.
+cfr-doorhanger-sync-logins-ok-button = Attiva { -sync-brand-short-name }
+  .accesskey = A
+
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Leggilo ovunque ti trovi
