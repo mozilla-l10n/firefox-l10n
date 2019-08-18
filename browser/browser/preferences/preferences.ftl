@@ -295,7 +295,7 @@ update-setting-write-failure-message =
     
     Kunne ikke skrive til filen: { $path }
 update-in-progress-title = Oppdatering i framdrift
-update-in-progress-message = Vil du at { -brand-short-name } skal halde fram med denne oppdateringa?
+update-in-progress-message = Vil du at { -brand-short-name } skal fortsetje med denne oppdateringa?
 update-in-progress-ok-button = &Avvis
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.

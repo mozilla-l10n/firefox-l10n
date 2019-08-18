@@ -42,16 +42,15 @@
 <!ENTITY  errorpatching.intro             "Installering av den stegvise oppdateringa feila. &brandShortName; vil prøve å lasta ned ei fullstendige oppdatering.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; klarer ikkje å avgjere om det finst ei tilgjengeleg oppdatering. Kontroller om du har den nyaste versjonen av &brandShortName; frå:">
-
+                                           
 <!ENTITY  finishedPage.title              "Oppdatering klar for innstallering">
-<!ENTITY  finishedPage.text               "Oppdateringa vert installert neste gong &brandShortName; startar. Du kan starte &brandShortName; på nytt no, eller halde fram med å arbeide og starte på nytt seinare.">
+<!ENTITY  finishedPage.text               "Oppdateringa vert installert neste gong &brandShortName; startar. Du 
+kan starte &brandShortName; på nytt no, eller fortsetje med å arbeide og starte på nytt seinare.">
 
 <!ENTITY  finishedBackgroundPage.text     "Ei tryggings- og stabilitetsoppdatering for &brandShortName; er lasta ned og klar for installering.">
 <!ENTITY  finishedBackground.name         "Oppdatering:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Oppdateringa vil bli installert neste gong &brandShortName; startar. Du kan starte &brandShortName; på nytt no, eller du kan fortsetje med å arbeide og starte på nytt seinare.">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.moreElevated "Denne oppdateringa krev administratorrettar. Opdateringa vil bli installert neste gong &brandShortName; vert starta. Du kan starte &brandShortName; på nytt no, fortsetje med å arbeide og starte på nytt seinare, eller du kan avvise denne opdateringa.">
 
-<!ENTITY  update.details.label            "Detaljar">
-<!ENTITY  update.installedOn.label        "Installert:">
-<!ENTITY  update.status.label             "Status:">
