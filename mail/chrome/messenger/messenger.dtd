@@ -706,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Сохранить результаты поиска как папку…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Выберите сообщения">
 <!ENTITY threadColumn.label "Обсуждение">
 <!ENTITY fromColumn.label "От">
 <!ENTITY recipientColumn.label "Адресат">
@@ -729,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Выбрать колонки для отображения">
+<!ENTITY selectColumn.tooltip "Выделить/Снять выделение всех сообщений">
 <!ENTITY threadColumn2.tooltip "Просмотреть сообщения по обсуждениям">
 <!ENTITY fromColumn2.tooltip "Сортировать по автору">
 <!ENTITY recipientColumn2.tooltip "Сортировать по адресату">
