@@ -16,6 +16,10 @@ menu-select-all =
     .accesskey = u
 close-window =
     .key = A
+
+close-dialog =
+    .key = w
+
 general-tab =
     .label = Allgemein
     .accesskey = A
