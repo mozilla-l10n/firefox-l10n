@@ -92,6 +92,13 @@ cfr-doorhanger-sync-bookmarks-body = Mějte své záložky, hesla, historii proh
 cfr-doorhanger-sync-bookmarks-ok-button = Zapnout { -sync-brand-short-name }
     .accesskey = Z
 
+## Login Sync
+
+cfr-doorhanger-sync-logins-header = Už žádná zapomenutá hesla
+cfr-doorhanger-sync-logins-body = Ukládejte a synchronizujte hesla bezpečně napříč svými zařízeními.
+cfr-doorhanger-sync-logins-ok-button = Zapnout { -sync-brand-short-name }
+    .accesskey = t
+
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Přečtěte si tento článek i na cestách
