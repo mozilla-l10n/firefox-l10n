@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = Sin proxy para
     .accesskey = n
 connection-proxy-noproxy-desc = Ejemplo: .mozilla.org, .net.nz, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = Las conexiones a localhost, 127.0.0.1 y ::1 nunca se canalizan por proxy.
 connection-proxy-autotype =
     .label = URL de configuración automática de proxy
     .accesskey = A
