@@ -72,7 +72,53 @@ lockwise-sync-status =
        *[other] Sinchronizuojama su { $count } kitų įrenginių
     }
 lockwise-sync-not-syncing = Nesinchronizuojama su kitais įrenginiais.
+monitor-title = Būkite informuoti apie duomenų pažeidimus
 monitor-link = Kaip tai veikia
+monitor-header-content = „{ -monitor-brand-name }“ pateikia informaciją apie tai, ar jūsų duomenys yra patekę tarp nutekėjusių, ir gali pranešti apie naujus pažeidimus.
+monitor-header-content-logged-in = „{ -monitor-brand-name }“ perspėja, kai jūsų duomenys pasirodo žinomuose duomenų nutekėjimuose
+monitor-sign-up = Gauti įspėjimus apie duomenų nutekėjimus
+auto-scan = Automatiškai skenuota šiandien
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-addresses =
+    { $count ->
+        [one] stebimas el. pašto adresas.
+        [few] stebimi el. pašto adresai.
+       *[other] stebimų el. pašto adresų.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches =
+    { $count ->
+        [one] žinomas duomenų nutekėjimas atskleidė jūsų informaciją.
+        [few] žinomi duomenų nutekėjimai atskleidė jūsų informaciją.
+       *[other] žinomų duomenų nutekėjimų atskleidė jūsų informaciją.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords =
+    { $count ->
+        [one] atskleistas slaptažodis tarp visų nutekėjimų.
+        [few] atskleisti slaptažodžiai tarp visų nutekėjimų.
+       *[other] atskleistų slaptažodžių tarp visų nutekėjimų.
+    }
+full-report-link = Peržiūrėti visą ataskaitą per <a data-l10n-name="monitor-inline-link">„{ -monitor-brand-name }“</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] įrašytas prisijungimas galėjo patekti tarp nutekėjusių duomenų. Pasikeiskite šį slaptažodį dėl didesnio saugumo. <a data-l10n-name="lockwise-link">Peržiūrėti įrašytus prisijungimus</a>
+        [few] įrašyti prisijungimai galėjo patekti tarp nutekėjusių duomenų. Pasikeiskite šiuos slaptažodžius dėl didesnio saugumo. <a data-l10n-name="lockwise-link">Peržiūrėti įrašytus prisijungimus</a>
+       *[other] Įrašytų prisijungimų galėjo patekti tarp nutekėjusių duomenų. Pasikeiskite šiuos slaptažodžius dėl didesnio saugumo. <a data-l10n-name="lockwise-link">Peržiūrėti įrašytus prisijungimus</a>
+    }
+# This is the title attribute describing the graph report's link to about:settings#privacy
+go-to-privacy-settings = Eiti į privatumo nuostatas
+# This is the title attribute describing the Lockwise card's link to about:logins
+go-to-saved-logins = Eiti į įrašytus prisijungimus
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -81,3 +127,43 @@ monitor-link = Kaip tai veikia
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Socialinių tinklų stebėjimo elementai
+    .aria-label =
+        { $count ->
+            [one] { $count } socialinių tinklų stebėjimo elementas ({ $percentage }%)
+            [few] { $count } socialinių tinklų stebėjimo elementai ({ $percentage }%)
+           *[other] { $count } socialinių tinklų stebėjimo elementų ({ $percentage }%)
+        }
+bar-tooltip-cookie =
+    .title = Tarp svetainių veikiantys stebėjimo slapukai
+    .aria-label =
+        { $count ->
+            [one] { $count } tarp svetainių veikiantis stebėjimo slapukas ({ $percentage }%)
+            [few] { $count } tarp svetainių veikiantys stebėjimo slapukai ({ $percentage }%)
+           *[other] { $count } tarp svetainių veikiančių stebėjimo slapukų ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = Stebėjimui naudojamas turinys
+    .aria-label =
+        { $count ->
+            [one] { $count } stebėjimui naudojamas turinys ({ $percentage }%)
+            [few] { $count } stebėjimui naudojami turiniai ({ $percentage }%)
+           *[other] { $count } stebėjimui naudojamų turinių ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Skaitmeninių atspaudų stebėjimas
+    .aria-label =
+        { $count ->
+            [one] { $count } skaitmeninių atspaudų stebėjimas ({ $percentage }%)
+            [few] { $count } skaitmeninių atspaudų stebėjimai ({ $percentage }%)
+           *[other] { $count } skaitmeninių atspaudų stebėjimų ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Kriptovaliutų kasėjai
+    .aria-label =
+        { $count ->
+            [one] { $count } kriptovaliutų kasėjas ({ $percentage }%)
+            [few] { $count } kriptovaliutų kasėjai ({ $percentage }%)
+           *[other] { $count } kriptovaliutų kasėjų ({ $percentage }%)
+        }
