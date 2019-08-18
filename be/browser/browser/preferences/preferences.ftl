@@ -586,7 +586,7 @@ sync-connect-another-device = Злучыць іншую прыладу
 sync-manage-devices = Кіраваць прыладамі
 sync-fxa-begin-pairing = Спараваць прыладу
 sync-tos-link = Умовы абслугоўвання
-sync-fxa-privacy-notice = Паведамленнем аб прыватнасці
+sync-fxa-privacy-notice = Паведамленне аб прыватнасці
 
 ## Privacy Section
 
