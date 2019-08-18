@@ -32,7 +32,7 @@ etp-card-title = Wzmocniona ochrona przed śledzeniem
 etp-card-content = Elementy śledzące monitorują Cię w Internecie, zbierając informacje o Twoich działaniach i zainteresowaniach. { -brand-short-name } blokuje wiele tych elementów i inne złośliwe skrypty.
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
-graph-today = Dzisiaj
+graph-today = dzisiaj
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Wykres zawierający całkowitą liczbę każdego typu elementów śledzących zablokowanych w tym tygodniu.
 social-tab-title = Elementy śledzące serwisów społecznościowych

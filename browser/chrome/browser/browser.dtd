@@ -607,7 +607,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Wyślij do Pocket">
 <!ENTITY saveToPocketCmd.label        "Wyślij stronę do Pocket">
-<!ENTITY saveToPocketCmd.accesskey    "s">
+<!ENTITY saveToPocketCmd.accesskey    "W">
 <!ENTITY saveLinkToPocketCmd.label    "Wyślij odnośnik do Pocket">
 <!ENTITY saveLinkToPocketCmd.accesskey "o">
 <!ENTITY pocketMenuitem.label         "Wysłane do Pocket">
