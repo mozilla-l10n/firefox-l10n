@@ -250,6 +250,12 @@ shortcuts-modifier-other = Добавьте Ctrl или Alt
 shortcuts-invalid = Неверная комбинация
 shortcuts-letter = Введите букву
 shortcuts-system = Нельзя переопределить горячую клавишу { -brand-short-name }
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Дублирующееся сочетание клавиш
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } используется более одного раза. Дублирующиеся сочетания клавиш могут вызвать неожиданное поведение.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
