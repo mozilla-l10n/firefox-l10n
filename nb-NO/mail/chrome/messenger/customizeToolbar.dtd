@@ -14,5 +14,6 @@
 <!ENTITY restoreDefaultSet.label  "Gjenopprett standardsett">
 <!ENTITY addNewToolbar.label      "Legg til ny verktøylinje">
 <!ENTITY showTitlebar.label       "Vis tittellinje">
+<!ENTITY extraDragSpace.label     "Legg til dra-og-slipp-område">
 <!ENTITY saveChanges.label        "Ferdig">
 <!ENTITY undoChanges.label        "Angre endringer">

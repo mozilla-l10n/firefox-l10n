@@ -76,11 +76,11 @@
 <!ENTITY HomeWebPage.accesskey          "e">
 <!ENTITY Birthday.label                 "Fødselsdag:">
 <!ENTITY Birthday.accesskey             "s">
-<!ENTITY In.label                       "">
+<!ENTITY Month.placeholder              "Måned">
+<!ENTITY Day.placeholder                "Dag">
 <!ENTITY Year.placeholder               "År">
-<!ENTITY Or.value                       "eller">
+<!ENTITY Age.label                      "Alder:">
 <!ENTITY Age.placeholder                "Alder">
-<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Arbeid">
 <!ENTITY Work.accesskey                 "r">
@@ -141,7 +141,6 @@
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "o">
-<!ENTITY PhotoDesc.label                "Velg en av følgende:">
 <!ENTITY GenericPhoto.label             "Standardbilde">
 <!ENTITY GenericPhoto.accesskey         "S">
 <!ENTITY DefaultPhoto.label             "Standard">
