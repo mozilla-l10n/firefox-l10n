@@ -9,10 +9,7 @@
 <!ENTITY retry.label "Torna-ho a provar">
 <!ENTITY returnToPreviousPage.label "Vés enrere">
 <!ENTITY returnToPreviousPage1.label "Vés enrere (recomanat)">
-<!ENTITY advanced.label "Avançat">
-<!ENTITY continue2.label "Més…">
 <!ENTITY advanced2.label "Avançat…">
-<!ENTITY moreInformation.label "Més informació">
 <!ENTITY viewCertificate.label "Mostra el certificat">
 
 <!-- Specific error messages -->
@@ -92,17 +89,17 @@
 <!ENTITY nssFailure2.title "Ha fallat la connexió segura">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>La pàgina que esteu intentant veure no es pot mostrar perquè no s'ha pogut verificar l'autenticitat de les dades rebudes.</li> <li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li> </ul>">
 
-<!ENTITY certerror.longpagetitle1 "La connexió no és segura">
 <!ENTITY certerror.longpagetitle2 "Avís: Risc potencial de seguretat">
 <!ENTITY certerror.sts.longpagetitle  "No s'ha connectat: Problema potencial de seguretat">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "El propietari de <span class='hostname'/> ha configurat el lloc web incorrectament. Per protegir la vostra informació contra robatori, el &brandShortName; no s'ha connectat a aquest lloc web.">
 <!ENTITY certerror.introPara2 "El &brandShortName; ha detectat una amenaça potencial de seguretat i ha interromput la connexió a <span class='hostname'/>. Si visiteu aquest lloc, els atacants podrien robar informació com ara contrasenyes, correus electrònics o detalls de targetes de crèdit.">
 <!ENTITY certerror.sts.introPara "El &brandShortName; ha detectat una amenaça potencial de seguretat i ha interromput la connexió a <span class='hostname'/> perquè aquest lloc web requereix una connexió segura.">
 
 <!ENTITY certerror.expiredCert.introPara "El &brandShortName; ha detectat un problema i ha interromput la connexió a <span class='hostname'/>. El lloc web està mal configurat o bé l'hora del vostre ordinador no és correcta.">
+<!ENTITY certerror.expiredCert.secondPara2 "És probable que el certificat del lloc web estigui caducat, cosa que impedeix al &brandShortName; connectar-se de forma segura. Si visiteu aquest lloc, els atacants podrien robar informació com ara contrasenyes, correus electrònics o detalls de targetes de crèdit.">
+<!ENTITY certerror.expiredCert.sts.secondPara "És probable que el certificat del lloc web estigui caducat, cosa que impedeix al &brandShortName; connectar-se de forma segura.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Què hi podeu fer?">
 
@@ -128,8 +125,6 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "Error de contingut malmès">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>La pàgina que esteu intentant veure no es pot mostrar perquè s'ha produït un error en la transmissió de les dades.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Afegeix una excepció…">
 <!ENTITY securityOverride.exceptionButton1Label "Accepto el risc i vull continuar">
 
 <!ENTITY errorReporting.automatic2 "Informa dels errors com aquest per ajudar a Mozilla a identificar i a blocar els llocs maliciosos">
@@ -143,16 +138,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Informació avançada: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p>El &brandShortName; no s'ha connectat a <span id='wrongSystemTime_URL'/> perquè sembla que l'hora del rellotge de l'ordinador no és correcta, cosa que impedeix establir una connexió segura.</p> <p>Segons l'ordinador, la data i hora actuals són <span id='wrongSystemTime_systemDate'/>, però haurien de ser <span id='wrongSystemTime_actualDate'/>. Per solucionar aquest problema, canvieu els paràmetres de data i hora per tal que coincideixin amb la data i hora correctes.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>El &brandShortName; no s'ha connectat a <span id='wrongSystemTimeWithoutReference_URL'/> perquè sembla que l'hora del rellotge de l'ordinador no és correcta, cosa que impedeix establir una connexió segura.</p> <p>Segons l'ordinador, la data i hora actuals són <span id='wrongSystemTimeWithoutReference_systemDate'/>. Per solucionar aquest problema, canvieu els paràmetres de data i hora per tal que coincideixin amb la data i hora correctes.</p>">
-
-<!ENTITY certerror.pagetitle1  "Connexió insegura">
 <!ENTITY certerror.pagetitle2  "Avís: Risc potencial de seguretat">
 <!ENTITY certerror.sts.pagetitle  "No s'ha connectat: Problema potencial de seguretat">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Aquest lloc utilitza HSTS (HTTP Strict Transport Security), que vol dir que el &brandShortName; només s'hi pot connectar de forma segura. Per tant, no és possible afegir cap excepció per a aquest certificat.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> té una política de seguretat anomenada «HTTP Strict Transport Security» (Seguretat estricta de transport HTTP, o HSTS), que vol dir que el &brandShortName; només pot connectar-s'hi de forma segura. No podeu afegir cap excepció per visitar aquest lloc.">
 <!ENTITY certerror.copyToClipboard.label "Copia el text al porta-retalls">
 
@@ -163,6 +150,11 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Pàgina blocada">
 
+<!ENTITY certerror.mitm.title "Hi ha programari que impedeix que el &brandShortName; es connecti de forma segura a aquest lloc">
+<!ENTITY certerror.mitm.longDesc "És probable que <span class='hostname'></span> sigui un lloc segur, però no s'ha pogut establir una connexió segura. La causa d'aquest problema és <span class='mitm-name'/>, que és un programari del vostre ordinador o de la vostra xarxa.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Si el vostre programari antivirus inclou una funció que escaneja les connexions xifrades (que sovint s'anomena «escàner web» o «escàner https»), podeu desactivar-la. Si no funciona, podeu eliminar el programari antivirus i reinstal·lar-lo.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Si us trobeu en una xarxa corporativa, poseu-vos en contacte amb el vostre departament informàtic.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Si no coneixeu <span class='mitm-name'/>, podria ser que sigui un atac i no hauríeu de continuar al lloc.">
 
 <!ENTITY clockSkewError.title "L'hora del vostre ordinador no és correcta">
 <!ENTITY clockSkewError.longDesc "Segons el vostre ordinador, la data i l'hora actuals són: <span id='wrongSystemTime_systemDate1'/>, cosa que impedeix al &brandShortName; establir una connexió segura. Per visitar <span class='hostname'></span>, actualitzeu el rellotge de l'ordinador als paràmetres del sistema per tal que coincideixi amb la data i hora actuals i el fus horari i, a continuació, torneu a carregar <span class='hostname'></span>.">
