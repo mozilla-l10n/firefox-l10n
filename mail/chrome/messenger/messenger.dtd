@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "K">
 <!ENTITY folderPaneBar.label "Mappevisningsverktøylinje">
 <!ENTITY folderPaneBar.accesskey "M">
-<!ENTITY folderModeSelector.label "Mappevisninger">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sorter etter">
@@ -440,9 +439,9 @@
 <!ENTITY openMessageWindowCmd.label "Åpne melding">
 <!ENTITY openMessageWindowCmd.accesskey "Å">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Åpne i samtale">
-<!ENTITY openConversationCmd.accesskey "n">
-<!ENTITY openConversationCmd.key "o">
+<!ENTITY openInConversationCmd.label "Åpne i samtale">
+<!ENTITY openInConversationCmd.accesskey "s">
+<!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Vedlegg">
 <!ENTITY openAttachmentListCmd.accesskey "V">
 <!ENTITY openFeedMessage1.label "Ved åpning av nyhetskilde-melding">
@@ -605,6 +604,7 @@
 <!ENTITY tagButton.tooltip "Merk melding">
 <!ENTITY compactButton.tooltip "Fjern slettede meldinger fra valgt mappe">
 <!ENTITY appmenuButton1.tooltip "Viser &brandShortName;-menyen">
+<!ENTITY addonsButton.tooltip "Behandle dine utvidelser">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Videresend innbundet">
@@ -792,6 +792,8 @@
 <!ENTITY contextMoveMsgMenu.accesskey "F">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Sist brukt">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "S">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Favoritter">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "F">
 <!ENTITY contextCopyMsgMenu.label "Kopier til">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Ignorer tråd">
@@ -811,12 +813,6 @@
 <!ENTITY contextPrintPreview.label "Forhåndsvisning">
 <!ENTITY contextPrintPreview.accesskey "v">
 
-<!-- Thread Pane Column Picker -->
-<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
-     This option in the thread pane column picker causes us to reset the
-     customizations for the thread pane columns in this folder to their default.
-  -->
-<!ENTITY columnPicker.resetToInbox.label "Tilbakestill kolonner til standard">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
      the "columnPicker.applyToFolder.label" and
@@ -857,7 +853,6 @@
   -->
 <!ENTITY columnPicker.thisFolder.label "Denne mappen">
 
-
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Spill av">
 <!ENTITY contextPlay.accesskey "S">
@@ -875,7 +870,7 @@
   -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
-      This is the base of the empty text for the global search box. We replace
+     This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them
