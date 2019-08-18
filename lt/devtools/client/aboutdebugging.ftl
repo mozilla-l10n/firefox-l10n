@@ -263,6 +263,15 @@ about-debugging-extension-id =
 about-debugging-worker-action-push = Push
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = Pradėti
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Note this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push2 = Siųsti
+    .disabledTitle = Siuntimas į aptarnavimo scenarijus daugiaprocesėje „{ -brand-shorter-name }“ šiuo metu išjungtas
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start2 = Pradėti
+    .disabledTitle = Aptarnavimo scenarijų paleidimas daugiaprocesėje „{ -brand-shorter-name }“ šiuo metu išjungtas
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Išregistruoti
 # Displayed for service workers in runtime pages that listen to Fetch events.
@@ -287,6 +296,9 @@ about-debugging-worker-scope =
 # of a worker
 about-debugging-worker-push-service =
     .label = Pateikimų tarnyba
+# Displayed as title of the inspect button when service worker debugging is disabled.
+about-debugging-worker-inspect-action-disabled =
+    .title = Aptarnavimo scenarijų paleidimas daugiaprocesėje „{ -brand-shorter-name }“ šiuo metu išjungtas
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Pagrindinis procesas
