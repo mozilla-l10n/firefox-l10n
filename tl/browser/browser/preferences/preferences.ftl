@@ -39,7 +39,7 @@ category-home =
 pane-search-title = Maghanap
 category-search =
     .tooltiptext = { pane-search-title }
-pane-privacy-title = Pang-sarilinan & Seguridad
+pane-privacy-title = Privacy & Security
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title2 = { -sync-brand-short-name }
@@ -259,7 +259,7 @@ play-drm-content =
     .accesskey = P
 play-drm-content-learn-more = Karagdagang kaalaman
 update-application-title = Mga update ng { -brand-short-name }
-update-application-description = Panatilihin ang { -brand-short-name } na updated para mahusay ang pagtakbo, katatagan, at seguridad.
+update-application-description = Panatilihing updated ang { -brand-short-name } para sa pinakamahusay na pagtakbo, katatagan, at seguridad.
 update-application-version = Bersyon { $version } <a data-l10n-name="learn-more">Ano ang bago?</a>
 update-history =
     .label = Ipakita ang kasaysayan nang pag-update…
@@ -446,10 +446,10 @@ search-bar-shown =
 search-engine-default-header = Default na Search Engine
 search-engine-default-desc = Piliin ang default na search engine na gagamitin sa address bar at search bar.
 search-suggestions-option =
-    .label = Magbigay ng mga suhestiyon sa paghahanap
+    .label = Magbigay ng mga mungkahi sa paghahanap
     .accesskey = s
 search-show-suggestions-url-bar-option =
-    .label = Ipakita ang mga suhestiyon sa paghahanap ng mga resulta sa address bar
+    .label = Ipakita ang mga mungkahi sa paghahanap sa mga resulta sa address bar
     .accesskey = l
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
@@ -457,9 +457,9 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Ipakita ang search suggestions bago ang browsing history sa address bar results
+    .label = Unahing ipakita ang mga mungkahi sa paghahanap bago ang kasaysayan ng pag-browse sa mga resulta sa address bar
 search-suggestions-cant-show = Ang mga mungkahi sa paghahanap ay hindi ipapakita sa location bar dahil na-configure mo ang { -brand-short-name } na hindi kailanman tatandaan ang kasaysayan.
-search-one-click-header = Isang-Click Search Engines
+search-one-click-header = Mga One-Click Search Engine
 search-one-click-desc = Piliin ang mga alternatibong search engine na lalabas sa ibaba ng address bar at search bar kapag nagsimula kang magpasok ng isang keyword.
 search-choose-engine-column =
     .label = Search Engine
@@ -471,7 +471,7 @@ search-restore-default =
 search-remove-engine =
     .label = Alisin
     .accesskey = r
-search-find-more-link = Maghanap ng higit pang mga search engine
+search-find-more-link = Maghanap ng mga karagdagang search engine
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Nadobleng Keyword
@@ -586,7 +586,7 @@ sync-fxa-privacy-notice = Paunawa sa Privacy
 
 ## Privacy Section
 
-privacy-header = Pang-sarilinan sa Browser
+privacy-header = Browser Privacy
 
 ## Privacy Section - Forms
 
@@ -625,7 +625,7 @@ history-header = Kasaysayan
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = gusto ng { -brand-short-name }
+history-remember-label = Gagawin ng { -brand-short-name } na
     .accesskey = w
 history-remember-option-all =
     .label = Tandaan ang kasaysayan
@@ -633,7 +633,7 @@ history-remember-option-never =
     .label = Huwag kailanman tandaan ang kasaysayan
 history-remember-option-custom =
     .label = Gamitin ang custom settings para sa history
-history-remember-description = Ang { -brand-short-name } ay maaalala ang iyong browsing, form at search history.
+history-remember-description = Tatandaan ng { -brand-short-name } ang iyong browsing, download, form at search history.
 history-dontremember-description = Gagamit ng parehong settings ng private browsing ang { -brand-short-name }, at hindi nito tatandaan ang kasaysayan ng pag-browse ninyo ng Web.
 history-private-browsing-permanent =
     .label = Laging gumamit ng pribadong mode ng pagba-browse
@@ -833,7 +833,7 @@ permissions-a11y-privacy-link = Matuto ng higit pa
 
 ## Privacy Section - Data Collection
 
-collection-header = { -brand-short-name } Koleksyon ng data at ang Paggamit
+collection-header = Pagkolekta at Paggamit ng { -brand-short-name } sa Data
 collection-description = Nagsusumikap kami na magbigay sa iyo ng mga pagpipilian at mangolekta lamang kung ano ang kailangan namin upang magbigay at pagbutihin ang { -brand-short-name } para sa lahat. Lagi kaming humihingi ng pahintulot bago matanggap ang personal na impormasyon.
 collection-privacy-notice = Abiso pang Sarilinan
 collection-health-report =
