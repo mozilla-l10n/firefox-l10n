@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Mga Login at Password
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = Dalhin kahit saan ang mga password mo
+login-app-promo-subtitle = Kunin ang libreng { -lockwise-brand-name } app
+login-app-promo-android =
+    .alt = Kunin sa Google Play
+login-app-promo-apple =
+    .alt = I-download sa App Store
 login-filter =
     .placeholder = Hanapin sa mga Login
 create-login-button = Gumawa ng panibagong Login
