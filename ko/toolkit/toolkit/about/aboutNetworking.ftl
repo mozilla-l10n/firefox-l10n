@@ -37,7 +37,7 @@ current-log-modules = 현재 로그 모듈:
 set-log-file = 로그 파일 설정
 set-log-modules = 로그 모듈 설정
 start-logging = 로깅 시작
-stop-logging = 로깅 정지
+stop-logging = 로깅 중지
 dns-lookup = DNS 조회
 dns-lookup-button = 조회
 dns-domain = 도메인:
@@ -63,6 +63,7 @@ networkid-id = 네트워크 ID
 ## Link is intended as "network link"
 
 networkid-isUp = 링크가 작동 중
+networkid-statusKnown = 링크 상태가 알려져 있습니다
 
 
 

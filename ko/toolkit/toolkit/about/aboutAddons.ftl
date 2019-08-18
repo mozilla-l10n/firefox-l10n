@@ -27,8 +27,8 @@ install-addon-from-file =
 help-button = 부가 기능 지원
 preferences =
     { PLATFORM() ->
-        [windows] { -brand-short-name } 옵션
-       *[other] { -brand-short-name } 환경 설정
+        [windows] { -brand-short-name } 설정
+       *[other] { -brand-short-name } 설정
     }
 tools-menu =
     .tooltiptext = 부가 기능 도구
@@ -251,6 +251,10 @@ shortcuts-letter = 문자 입력
 shortcuts-system = { -brand-short-name } 단축키를 재정의 할 수 없음
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = 중복 단축키
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut }이 하나 이상의 경우에 단축키로 사용되고 있습니다. 단축키가 중복되면 예상치 못한 동작이 발생할 수 있습니다.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on

@@ -6,7 +6,10 @@ about-logins-page-title = 로그인과 비밀번호
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-title = 어디에서나 비밀번호를 사용하십시오
 login-app-promo-subtitle = 무료 { -lockwise-brand-name } 앱을 받으세요
+login-app-promo-android =
+    .alt = Google Play에서 받기
 login-app-promo-apple =
     .alt = App Store에서 다운로드
 login-filter =
