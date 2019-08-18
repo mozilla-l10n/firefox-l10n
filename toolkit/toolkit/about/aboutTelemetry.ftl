@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = Крыніца дадзеных пінга:
 about-telemetry-show-current-ping-data = Дадзеныя бягучага пінга
+about-telemetry-show-current-data = Бягучыя дадзеныя
 about-telemetry-show-archived-ping-data = Дадзеныя архіўнага пінга
 about-telemetry-show-subsession-data = Адлюстроўваць дадзеныя падсесіі
 about-telemetry-choose-ping = Выберыце пінг:
@@ -103,6 +104,8 @@ about-telemetry-no-search-results-all = Выбачайце! Ні ў адным �
 about-telemetry-no-data-to-display = Выбачайце! Зараз няма ніякіх звестак у “{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = бягучы пінг
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = бягучыя дадзеныя
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = усе
 # button label to copy the histogram
