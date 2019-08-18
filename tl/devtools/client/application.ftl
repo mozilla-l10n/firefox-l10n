@@ -35,6 +35,9 @@ serviceworker-worker-debug-forbidden = i-Debug
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = Simulan
     .title = Maaari lamang makapagsimula ng mga service worker kung naka-disable ang multi e10s
+# Text displayed for the updated time of the service worker. The <time> element will
+# display the last update time of the service worker script.
+serviceworker-worker-updated = Na-update <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 # Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
 serviceworker-worker-source = Pinagmulan
 # Text displayed next to the current status of the service worker.
@@ -66,3 +69,5 @@ serviceworker-empty-suggestions-debugger = Mag-step through sa iyong mga Service
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Mag-inspect ng mga Service Worker sa ibang mga domain. <a>Buksan ang about:debugging</a>
+# Text displayed when no manifest was found for the current page.
+manifest-empty-intro = Walang natagpuang manifest na pwedeng suriin.
