@@ -88,6 +88,13 @@ cfr-doorhanger-sync-bookmarks-body = Nhận dấu trang, mật khẩu, lịch s�
 cfr-doorhanger-sync-bookmarks-ok-button = Bật { -sync-brand-short-name }
     .accesskey = T
 
+## Login Sync
+
+cfr-doorhanger-sync-logins-header = Không bao giờ mất mật khẩu lần nữa
+cfr-doorhanger-sync-logins-body = Lưu trữ an toàn và đồng bộ hóa mật khẩu của bạn với tất cả các thiết bị của bạn.
+cfr-doorhanger-sync-logins-ok-button = Bật { -sync-brand-short-name }
+    .accesskey = T
+
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Đọc cái này khi đang di chuyển
