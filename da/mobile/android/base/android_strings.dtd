@@ -69,7 +69,6 @@
 <!ENTITY  sending_crash_report "Sender fejlrapport\u2026">
 <!ENTITY  crash_close_label "Luk">
 <!ENTITY  crash_restart_label "Genstart &brandShortName;">
-
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; gik ned">
@@ -117,7 +116,6 @@
 <!ENTITY bookmark_folder_updated "Mappe opdateret">
 <!ENTITY bookmark_parent_folder "Overordnet mappe">
 <!ENTITY bookmark_add_folder "Tilføj ny mappe">
-
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
 <!ENTITY bookmark_default_folder_title "(ingen titel)">
@@ -280,6 +278,7 @@
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Aktiveret">
 <!ENTITY pref_cookies_not_accept_foreign "Aktiver, men stop tredjeparts cookies">
+<!ENTITY pref_cookies_not_accept_trackers "Aktiveret, bortset fra sporings-cookies">
 <!ENTITY pref_cookies_disabled "Deaktiveret">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -340,11 +339,6 @@
 
 <!ENTITY pref_pwa "Progressive web-apps">
 <!ENTITY pref_pwa_summary "Tillad at web-apps føjes til startskærmen">
-
-<!ENTITY tracking_protection_prompt_title "Nu med beskyttelse mod sporing">
-<!ENTITY tracking_protection_prompt_text "Sporingselementer blokeres automatisk, så du ikke behøver at bekymre dig.">
-<!ENTITY tracking_protection_prompt_tip_text "Læs mere i indstillingerne for privatliv">
-<!ENTITY tracking_protection_prompt_action_button "Forstået!">
 
 <!ENTITY tab_queue_toast_message3 "Faneblade gemt i &brandShortName;">
 <!ENTITY tab_queue_toast_action "Åbn nu">
@@ -431,7 +425,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Tryk på Browser-app &amp; vælg &brandShortName;">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Besøg Mozilla Support">
 <!ENTITY pref_about_firefox "Om &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "Giv os din mening">
@@ -692,7 +685,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Vælg eller optag et lydklip">
 <!ENTITY filepicker_image_title "Vælg eller tag et billede">
 <!ENTITY filepicker_video_title "Vælg eller optag en video">
-
 <!ENTITY filepicker_permission_denied "De nødvendige tilladelser er ikke tildelt, returnerer til systemets filvælger.">
 
 <!-- Site identity popup -->
