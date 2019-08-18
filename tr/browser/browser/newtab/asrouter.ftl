@@ -70,6 +70,12 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Kapat düğmesi
     .title = Kapat
 
+## Protections panel
+
+cfr-protections-panel-header = Takip edilmeden gezin
+cfr-protections-panel-body = Verileriniz sizde kalsın. { -brand-short-name }, internette ne yaptığınızı öğrenmeye çalışan takipçilerin çoğundan sizi korur.
+cfr-protections-panel-link-text = Daha fazla bilgi alın
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
