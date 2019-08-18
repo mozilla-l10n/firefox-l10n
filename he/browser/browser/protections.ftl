@@ -18,6 +18,12 @@ graph-total-summary =
         [one] רכיב מעקב אחד נחסם מאז { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] { $count } רכיבי מעקב נחסמו מאז { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-header-details-standard = רמת ההגנה היא <b>רגילה</b>
+protection-header-details-strict = רמת ההגנה היא <b>מחמירה</b>
+protection-header-details-custom = רמת ההגנה <b>מותאמת אישית</b>
 protection-report-page-title = הגנות פרטיות
 protection-report-content-title = הגנות פרטיות
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
