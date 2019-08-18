@@ -71,3 +71,5 @@ remove-all-shown =
 remove-all-passwords-prompt = Esteu segur que voleu eliminar totes les contrasenyes?
 remove-all-passwords-title = Eliminació de totes les contrasenyes
 no-master-password-prompt = Esteu segur que voleu mostrar les vostres contrasenyes?
+auto-fill-logins-and-passwords =
+    .label = Emplena automàticament inicis de sessió i contrasenyes

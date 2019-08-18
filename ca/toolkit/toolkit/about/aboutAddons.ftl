@@ -271,6 +271,10 @@ go-back-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro = Les extensions i els temes són com les aplicacions per al navegador i us permeten protegir les contrasenyes, baixar vídeos, trobar ofertes, bloquejar anuncis molestos, canviar com es veu el vostre navegador i molt més. Aquests petits programes sovint són desenvolupats per tercers. Aquí teniu una selecció <a data-l10n-name="learn-more-trigger">recomanada</a> pel { -brand-product-name } per aconseguir un nivell excepcional de seguretat, rendiment i funcionalitat.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Algunes d’aquestes recomanacions són personalitzades. Es basen en altres
+    extensions que heu instal·lat, preferències del perfil i estadístiques d’ús.
 discopane-notice-learn-more = Més informació
 privacy-policy = Política de privadesa
 # Refers to the author of an add-on, shown below the name of the add-on.
