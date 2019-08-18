@@ -9,6 +9,15 @@ graph-week-summary =
         [one] { -brand-short-name } geçen hafta { $count } takipçiyi engelledi
        *[other] { -brand-short-name } geçen hafta { $count } takipçiyi engelledi
     }
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
+# earliest date recorded in the database.
+graph-total-summary =
+    { $count ->
+        [one] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } tarihinden beri { $count } takipçi engellendi.
+       *[other] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } tarihinden beri { $count } takipçi engellendi.
+    }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -26,9 +35,14 @@ cookie-tab-title = Siteler arası takip çerezleri
 tracker-tab-title = Takip amaçlı içerikler
 fingerprinter-tab-title = Parmak izi toplayıcılar
 cryptominer-tab-title = Kripto madenciler
+lockwise-title = Bir daha hiçbir parolayı unutmayın
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } parolalarınızı tarayınızda güvenle saklar.
+lockwise-header-content-logged-in = Parolalarınızı güvenle saklayın ve tüm cihazlarınızla senkronize edin.
 open-about-logins-button = { -brand-short-name } ile aç
+lockwise-no-logins-content = Parolalarınızı yanınızda taşımak için <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> uygulamasını yükleyin.
+turn-on-sync = { -sync-brand-short-name }’i etkinleştir…
+    .title = Eşitleme tercihlerine git
 manage-devices = Cihazları yönet
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
@@ -40,6 +54,30 @@ lockwise-sync-status =
 lockwise-sync-not-syncing = Diğer cihazlarla eşitlenmiyor.
 monitor-link = Nasıl çalışır?
 auto-scan = Bugün otomatik olarak tarandı
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-addresses =
+    { $count ->
+        [one] e-posta adresi izleniyor.
+       *[other] e-posta adresi izleniyor.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches =
+    { $count ->
+        [one] veri ihlalinde bilgileriniz ele geçirildi.
+       *[other] veri ihlalinde bilgileriniz ele geçirildi.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords =
+    { $count ->
+        [one] parolanız veri ihlallerinde ele geçirildi.
+       *[other] parolanız veri ihlallerinde ele geçirildi.
+    }
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = Gizlilik ayarlarına git
 # This is the title attribute describing the Lockwise card's link to about:logins
