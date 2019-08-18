@@ -83,3 +83,6 @@ serviceworker-empty-suggestions-debugger = Gennemgå  registreringen for din ser
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Inspicere service-workers fra andre domæner. <a>Åbn about:debugging</a>
+
+# Text displayed when no manifest was found for the current page.
+manifest-empty-intro = Kunne ikke finde et manifest at inspicere.

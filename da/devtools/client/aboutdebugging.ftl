@@ -208,6 +208,10 @@ about-debugging-runtime-other-workers =
 about-debugging-runtime-processes =
   .name = Processer
 
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button2 = Ydelsesprofilering
+
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
@@ -251,6 +255,9 @@ about-debugging-connection-prompt-enable-button = Aktiver forbindelses-prompt
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = Deaktiver forbindelses-prompt
+
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title2 = Profilering
 
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
@@ -321,6 +328,17 @@ about-debugging-worker-action-push = Push
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = Start
 
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Note this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push2 = Push
+  .disabledTitle = Service-worker-push er i øjeblikket deaktiveret for multiproces { -brand-shorter-name }
+
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start2 = Start
+  .disabledTitle = Start af service-workers er i øjeblikket deaktiveret i multiproces { -brand-shorter-name }
+
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Afregistrer
 
@@ -352,6 +370,10 @@ about-debugging-worker-scope =
 # of a worker
 about-debugging-worker-push-service =
   .label = Push-service
+
+# Displayed as title of the inspect button when service worker debugging is disabled.
+about-debugging-worker-inspect-action-disabled =
+  .title = Inspektion af service-workers er i øjeblikket deaktiveret for multiproces { -brand-shorter-name }
 
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.

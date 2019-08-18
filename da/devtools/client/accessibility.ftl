@@ -37,6 +37,8 @@ accessibility-text-label-issue-fieldset = <code>fieldset</code>-elementer skal m
 
 accessibility-text-label-issue-fieldset-legend = Brug elementet <code>legend</code> til at føje etiketter til <span>fieldset</span>-elementer. <a>Læs mere</a>
 
+accessibility-text-label-issue-fieldset-legend2 = Brug elementet <code>legend</code> til at føje etiketter til <span>fieldset</span>. <a>Læs mere</a>
+
 accessibility-text-label-issue-form = Formular-elementer skal markeres. <a>Læs mere</a>
 
 accessibility-text-label-issue-form-visible = Formular-elementer bør have en synlig tekst-etiket. <a>Læs mere</a>
@@ -56,5 +58,7 @@ accessibility-text-label-issue-image = Indhold med billeder skal markeres. <a>L�
 accessibility-text-label-issue-interactive = Interaktive elementer skal markeres. <a>Læs mere</a>
 
 accessibility-text-label-issue-optgroup-label = Brug attributten <code>label</code> til at markere <span>optgroup</span>-elementer. <a>Læs mere</a>
+
+accessibility-text-label-issue-optgroup-label2 = Brug attributten <code>label</code> til at markere <span>optgroup</span>. <a>Læs mere</a>
 
 accessibility-text-label-issue-toolbar = Værktøjslinjer skal markeres, når der er mere end én værktøjslinje. <a>Læs mere</a>
