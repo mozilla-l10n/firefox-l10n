@@ -6,6 +6,12 @@ about-logins-page-title = Prisijungimai ir slaptažodžiai
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-title = Turėkite savo slaptažodžius visur
+login-app-promo-subtitle = Naudokite nemokamą programą „{ -lockwise-brand-name }“
+login-app-promo-android =
+    .alt = Parsisiųskite iš „Google Play“
+login-app-promo-apple =
+    .alt = Parsisiųskite iš „App Store“
 login-filter =
     .placeholder = Ieškoti prisijungimų
 create-login-button = Sukurti naują prisijungimą
