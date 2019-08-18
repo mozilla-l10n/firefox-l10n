@@ -856,7 +856,7 @@ sitedata-option-block-trackers =
 sitedata-option-block-cross-site-trackers =
     .label = Sporings-mekanismer på tværs af websteder
 sitedata-option-block-cross-site-and-social-media-trackers =
-    .label = Sporings-mekanisker på tværs af websteder og sociale medier
+    .label = Sporings-mekanismer på tværs af websteder og sociale medier
 sitedata-option-block-unvisited =
     .label = Cookies fra ikke-besøgte websteder
 sitedata-option-block-all-third-party =
@@ -925,7 +925,7 @@ content-blocking-third-party-cookies = Sporings-cookies fra tredjepart
 
 content-blocking-etp-standard-desc = Balanceret mellem beskyttelse og ydelse. Sider indlæses som normalt.
 content-blocking-etp-strict-desc = Bedre beskyttelse, men kan forhindre nogle websteder i at fungere.
-content-blocking-etp-custom-desc = Vælg selv, hvilke sporings-tjenester og skripts, der skal blokeres.
+content-blocking-etp-custom-desc = Vælg selv, hvilke sporings-tjenester og scripts der skal blokeres.
 
 content-blocking-private-windows = Sporings-indhold i private vinduer.
 content-blocking-cross-site-tracking-cookies = Sporings-cookies på tværs af websteder
@@ -939,10 +939,10 @@ content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
 
 content-blocking-warning-title = Vigtigt!
-content-blocking-warning-description = Nogen websteder kan holde op med at fungere, når du blokerer indhold. Det er nemt at slå blokering fra for websteder, du stoler på.
+content-blocking-warning-description = Nogle websteder kan holde op med at fungere, når du blokerer indhold. Det er nemt at slå blokering fra for websteder, du stoler på.
 content-blocking-learn-how = Læs hvordan
 
-content-blocking-etp-warning-description = Nogen websteders funktionalitet kan blive påvirker, når du blokerer sporings-tjenester. Genindlæs ind side med sporings-tjenester for at indlæse alt indhold.
+content-blocking-etp-warning-description = Nogle websteders funktionalitet kan blive påvirket, når du blokerer sporings-tjenester. Genindlæs side med sporings-tjenester for at indlæse alt indhold.
 content-blocking-warning-learn-how = Læs hvordan
 
 content-blocking-reload-description = Du skal genindlæse dine faneblade, før ændringerne slår igennem.

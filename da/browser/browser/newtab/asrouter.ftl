@@ -111,6 +111,6 @@ cfr-doorhanger-send-tab-ok-button = Prøv Send faneblade
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Del denne PDF-fil sikkert
-cfr-doorhanger-firefox-send-body = Hold dine fortrolige dokumenter i sikkerhed med stærk kryptering og et link, der automatisk udløber
+cfr-doorhanger-firefox-send-body = Hold dine fortrolige dokumenter sikre med stærk kryptering og et link, der automatisk udløber
 cfr-doorhanger-firefox-send-ok-button = Prøv { -send-brand-name }
   .accesskey = P
