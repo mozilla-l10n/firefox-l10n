@@ -79,7 +79,7 @@ info-monitored-addresses =
 # your localization, because it would result in the number showing twice.
 info-known-breaches =
     { $count ->
-        [one] Kjente datalekkasje har eksponert din informasjon.
+        [one] Kjent datalekkasje har eksponert din informasjon.
        *[other] Kjente datalekkasjer har eksponert din informasjon.
     }
 # This string is displayed after a large numeral that indicates the total number
