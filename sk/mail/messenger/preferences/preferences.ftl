@@ -2,6 +2,34 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+pane-general-title = Všeobecné
+category-general =
+    .tooltiptext = { pane-general-title }
+general-language-and-appearance-header = Jazyk a vzhľad stránok
+general-incoming-mail-header = Doručená pošta
+general-files-and-attachment-header = Súbory a prílohy
+general-tags-header = Značky
+general-reading-and-display-header = Čítanie a zobrazenie
+general-updates-header = Aktualizácie
+general-network-and-diskspace-header = Sieť a miesto na disku
+general-indexing-label = Indexovanie
+composition-category-header = Písanie správ
+composition-attachments-header = Prílohy
+composition-spelling-title = Pravopis
+compose-html-style-title = Štýl HTML
+composition-addressing-header = Adresovanie
+privacy-main-header = Súkromie
+privacy-passwords-header = Heslá
+privacy-junk-header = Spam
+privacy-data-collection-header = Zbieranie údajov a ich použitie
+privacy-security-header = Bezpečnosť
+privacy-scam-detection-title = Detekcia podvodov
+privacy-anti-virus-title = Antivírus
+privacy-certificates-title = Certifikáty
+chat-pane-header = Konverzácie
+chat-status-title = Stav
+chat-notifications-title = Upozornenia
+chat-pane-styling-header = Štylizovanie
 choose-messenger-language-description = Vyberte si jazyk, v ktorom sa majú zobrazovať ponuky, správy a oznámenia aplikácie { -brand-short-name }.
 manage-messenger-languages-button =
     .label = Vybrať alternatívy…
