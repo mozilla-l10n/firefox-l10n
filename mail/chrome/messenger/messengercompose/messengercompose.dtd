@@ -61,16 +61,16 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "Redakti">
 <!ENTITY editMenu.accesskey "e">
-<!ENTITY undoCmd.label "Undo">
+<!ENTITY undoCmd.label "Malfari">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "u">
-<!ENTITY redoCmd.label "Redo">
+<!ENTITY undoCmd.accesskey "M">
+<!ENTITY redoCmd.label "Refari">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "r">
-<!ENTITY cutCmd.label "Cut">
+<!ENTITY redoCmd.accesskey "R">
+<!ENTITY cutCmd.label "Eltondi">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Copy">
+<!ENTITY copyCmd.label "Kopii">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "c">
 <!ENTITY pasteCmd.label "Paste">
