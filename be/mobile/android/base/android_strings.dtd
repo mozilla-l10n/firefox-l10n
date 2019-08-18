@@ -69,7 +69,6 @@
 <!ENTITY  sending_crash_report "Дасыланне справаздачы аб падзенні\u2026">
 <!ENTITY  crash_close_label "Зачыніць">
 <!ENTITY  crash_restart_label "Перазапусціць &brandShortName;">
-
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; упаў">
@@ -117,7 +116,6 @@
 <!ENTITY bookmark_folder_updated "Папка абноўлена">
 <!ENTITY bookmark_parent_folder "Бацькоўская папка">
 <!ENTITY bookmark_add_folder "Дадаць новую папку">
-
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
 <!ENTITY bookmark_default_folder_title "(без назвы)">
@@ -280,6 +278,7 @@
 <!ENTITY pref_cookies_menu "Кукі">
 <!ENTITY pref_cookies_accept_all "Дазволены">
 <!ENTITY pref_cookies_not_accept_foreign "Дазволены, акрамя пабочных">
+<!ENTITY pref_cookies_not_accept_trackers "Уключана, з выняткам файлаў кукі асочвання">
 <!ENTITY pref_cookies_disabled "Забаронены">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -340,11 +339,6 @@
 
 <!ENTITY pref_pwa "Прагрэсіўныя вэб-праграмы">
 <!ENTITY pref_pwa_summary "Дазволіць вэб-праграмам дадавацца на хатні экран">
-
-<!ENTITY tracking_protection_prompt_title "Цяпер з аховай ад сачэння">
-<!ENTITY tracking_protection_prompt_text "Актыўна блакіруйце элементы асочвання, каб не турбавацца аб сачэнні.">
-<!ENTITY tracking_protection_prompt_tip_text "Каб даведацца больш, наведайце налады прыватнасці">
-<!ENTITY tracking_protection_prompt_action_button "Зразумела!">
 
 <!ENTITY tab_queue_toast_message3 "Картка захавана ў &brandShortName;">
 <!ENTITY tab_queue_toast_action "Адкрыць зараз">
@@ -431,7 +425,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Націсніце Браўзер &amp; выберыце &brandShortName;">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Наведаць Падтрымку Mozilla">
 <!ENTITY pref_about_firefox "Пра &brandShortName;">
 <!ENTITY pref_vendor_faqs "Пытанні і адказы">
 <!ENTITY pref_vendor_feedback "Даць водгук">
@@ -692,7 +685,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Выбраць ці запісаць гук">
 <!ENTITY filepicker_image_title "Выбраць выяву ці зрабіць фота">
 <!ENTITY filepicker_video_title "Выбраць ці запісаць відэя">
-
 <!ENTITY filepicker_permission_denied "Запытаныя дазволы не прадстаўлены, вяртаемся да сістэмнага дыялогу выбару файлаў.">
 
 <!-- Site identity popup -->
