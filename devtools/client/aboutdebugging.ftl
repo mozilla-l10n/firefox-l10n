@@ -63,11 +63,6 @@ about-debugging-sidebar-item-connect-button-connection-timeout = Forbindelsens t
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Forbundet
 
-# Text displayed in sidebar items for remote devices where a compatible runtime (eg
-# Firefox) has not been detected yet. Typically, Android phones connected via USB with
-# USB debugging enabled, but where Firefox is not started.
-about-debugging-sidebar-runtime-item-waiting-for-runtime = Venter på runtime…
-
 # Text displayed in sidebar items for remote devices where a compatible browser (eg
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
@@ -106,10 +101,6 @@ about-debugging-setup-title = Opsætning
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Indstil hvilken type af forbindelse, du vil bruge til at fjern-debugge din enhed.
 
-# Link displayed in the Setup page that leads to MDN page with list of supported devices.
-# Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
-about-debugging-setup-link-android-devices = Vis liste med understøttede Android-enheder
-
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Brug <a>{ about-debugging-this-firefox-runtime-name }</a> til at debugge faneblade, udvidelser og service-workers i denne version af { -brand-shorter-name }.
 
@@ -140,15 +131,6 @@ about-debugging-setup-usb-updating-button = Opdaterer…
 about-debugging-setup-usb-status-enabled = Aktiveret
 about-debugging-setup-usb-status-disabled = Deaktiveret
 about-debugging-setup-usb-status-updating = Opdaterer…
-
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu = Aktiver udvikler-menuen på din Android-enhed. <a>Læs mere</a>
-
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug = Aktiver USB-debugging i udvikler-menuen på Android-enheden. <a>Læs mere</a>
-
-# USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox = Aktiver USB-debugging i Firefox på Android-enheden. <a>Læs mere</a>
 
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = Aktiver udvikler-menuen på din Android-enhed. 
@@ -226,40 +208,10 @@ about-debugging-runtime-other-workers =
 about-debugging-runtime-processes =
   .name = Processer
 
-# Label of the button opening the performance profiler panel in runtime pages for remote
-# runtimes.
-about-debugging-runtime-profile-button2 = Profilér ydelse
-
-# Label of the button opening the performance profiler panel in runtime pages for remote
-# runtimes.
-about-debugging-runtime-profile-button = Profilér runtime
-
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = Din browser-opsætning er ikke kompatibel med service-workers. <a>Læs mere</a>
-
-# This string is displayed in the runtime page if the remote runtime version is too old.
-# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
-# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
-# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
-about-debugging-runtime-version-too-old = Den forbundne runtime har en gammel version ({ $runtimeVersion }). Den ældste understøttede version er ({ $minVersion }). Denne opsætning understøttes ikke og kan forhindre Udviklerværktøj i at køre korrekt. Opdater den forbundne runtime. <a>Fejlsøgning</a>
-
-# Dedicated message for a backward compatibility issue that occurs when connecting:
-# - from Fx 67 to 66 or to 65
-# - from Fx 68 to 66
-# Those are normally in range for DevTools compatibility policy, but specific non
-# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
-# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
-about-debugging-runtime-version-too-old-67-debugger = Debugger-panelet virker muligvis ikke med den forbundne runtime. Anvend Firefox { $runtimeVersion }.
-
-# This string is displayed in the runtime page if the remote runtime version is too recent.
-# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
-# { $runtimeID } is the build ID of the remote runtime (for instance "20181231", format is yyyyMMdd)
-# { $localID } is the build ID of the current Firefox instance (same format)
-# { $runtimeVersion } is the version of the remote runtime (for instance "67.0a1")
-# { $localVersion } is the version of your current runtime (same format)
-about-debugging-runtime-version-too-recent = Den forbundne runtime er nyere ({ $runtimeVersion }, buildID { $runtimeID }) end din { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Denne opsætning understøttes ikke og kan forhindre Udviklerværktøj i at køre korrekt. Opdater Firefox. <a>Fejlsøgning</a>
 
 # This string is displayed in the runtime page if the remote browser version is too old.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
@@ -299,18 +251,6 @@ about-debugging-connection-prompt-enable-button = Aktiver forbindelses-prompt
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = Deaktiver forbindelses-prompt
-
-# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
-about-debugging-profiler-dialog-title2 = Profilering
-
-# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
-about-debugging-profiler-dialog-title = Ydelses-profilering
-
-# Label of a checkbox displayed in the runtime page for "This Firefox".
-# This checkbox will toggle preferences that enable local addon debugging.
-# The "Learn more" link points to MDN.
-# https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
-about-debugging-extension-debug-setting-label = Aktiver debugging af udvidelser. <a>Læs mere</a>
 
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
@@ -416,10 +356,6 @@ about-debugging-worker-push-service =
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Hoved-proces
-
-# Displayed as description for the Main Process debug target in the Processes category.
-# Only for remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-description = Hoved-proces for mål-runtime
 
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
