@@ -44,7 +44,7 @@
 <!ENTITY  genericBackgroundError.label    "&brandShortName; klarer ikkje å avgjere om det finst ei tilgjengeleg oppdatering. Kontroller om du har den nyaste versjonen av &brandShortName; frå:">
                                            
 <!ENTITY  finishedPage.title              "Oppdatering klar for innstallering">
-<!ENTITY  finishedPage.text               "Oppdateringa vert installert neste gong &brandShortName; startar. Du 
+<!ENTITY  finishedPage.text               "Oppdateringa vert installert neste gong &brandShortName; startar.  Du 
 kan starte &brandShortName; på nytt no, eller fortsetje med å arbeide og starte på nytt seinare.">
 
 <!ENTITY  finishedBackgroundPage.text     "Ei tryggings- og stabilitetsoppdatering for &brandShortName; er lasta ned og klar for installering.">
