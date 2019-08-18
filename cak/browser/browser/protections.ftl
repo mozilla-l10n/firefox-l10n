@@ -66,6 +66,7 @@ lockwise-sync-status =
        *[other] Nixim rik'in { $count } ch'aqa' chik okisab'äl
     }
 lockwise-sync-not-syncing = Man nixim ta kik'in ch'aqa' chik ta okisab'äl.
+monitor-title = Taya' retal ri kitz'ilanem taq tzij
 monitor-link = Achike rub'eyal nisamäj
 monitor-sign-up = Tatz'ib'aj awi' richin Ye'ak'ül Kitzijol K'ayewal
 auto-scan = Ruyonil nitz'ajwachib'ëx wakami

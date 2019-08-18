@@ -137,6 +137,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "K'o chi nanik'oj ri rub'i' ataqoya'l chuwäch yatikïr yaximon.">
 <!ENTITY fxa.unverified.button.label "Kejaq ri taq Runuk'ulem &syncBrand.shortName.label;…">
 
+<!ENTITY pictureInPictureHideToggle.label "Tewäx Rupitz'b'al Picture-in-Picture">
+<!ENTITY pictureInPictureHideToggle.accesskey "T">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -911,7 +913,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.noTrackersFound.description "Majun ojqanela' etaman richin &brandShortName; xe'ilitäj pa re ruxaq re'.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Re taq kuki re' yatkitzeqelb'ej pa taq ruxaq richin nikimöl taq tzij chi rij ri nab'än pa k'amab'ey. Yekijikib'a' aj rox winäq achi'el tzijonela' chuqa' ch'onel taq k'ayinela'.">
+<!ENTITY protections.cryptominers.description "Ri ajkriptom nikokisaj ruchuqa' ruq'inoj akematz'ib' richin nikelesaj kematz'ib'il pwäq. Ri kicholajem taq skrip nikiqasaj ruchuq'a' ri awateriya, eqal nikib'än chi re ri akematz'ib' chuqa' nitikïr nujotob'a' rajil ruwujil asaqil.">
 <!ENTITY protections.fingerprinters.description "Ri b'anöy ruwi' q'ab'aj nikimöl runuk'ulem awokik'amaya'l chuqa' akematz'ib' richin nikitz'ük jun ruwäch ab'i'. Toq nikokisaj re retal ruwi' q'ab'aj, yetikïr yatkojqaj rik'in jalajoj taq ajk'amaya'l ruxaq.">
+<!ENTITY protections.trackingContent.description "Ri ajk'amaya'l ruxaq yetikïr yekijotob'a' taq eltzijol, taq silowäch chuqa' ch'aqa' chik taq wachinäq kik'wan rub'itz'ib' ojqanem. Toq yeq'at kojqanem rupam, nito'on chi anin yesamäj ri taq ruxaq, xa xe chi jujun taq pitz'ib'äl, taq nojwuj chuqa' taq k'ojlib'äl rik'in jub'a' man ütz ta yesamäj.">
+<!ENTITY protections.socialMediaTrackers.description "Ri aj winäq taq k'amab'ey yekiya' taq ojqanela' pa ch'aqa' chik taq ajk'amaya'l ruxaq richin nikojqaj ri nasamajij, natz'ët chuqa' natzu' pan k'amab'ey. Ri nuya' q'ij chi ke ri ajk'ayij taq moloj richin aj winäq k'amab'ey, niketamaj chawij, man xa xe ta ri nakomonij pa ri ruwäch ab'i' richin aj winäq k'amab'ey.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -978,6 +983,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "Kiq'atik rupam nitikïr nuya' k'ayewal pa jujun ajk'amaya'l ruxaq. Toq naya' kitzijol k'ayewal, yato'on chi ri &brandShortName; ütz nub'än chi qawäch qonojel. (Re re' xtutäq ri URL chuqa' ri etamab'äl chi rij ri runuk'ulem ri okik'amaya'l chi re ri Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Tetamäx Ch'aqa' Chik">
 <!ENTITY contentBlocking.breakageReportView.title "Tiya' Rutzijol jun Ruxaq Man Nisamäj ta">
+<!ENTITY contentBlocking.breakageReportView3.description "Toq yeq'at jujun taq ojqanela' nitikïr nuya' k'ayewal pa jujun ajk'amaya'l ruxaq. Toq naya' kitzijol k'ayewal, yato'on chi ri &brandShortName; ütz nub'än chi qawäch qonojel. Toq natäq re rutzijol, xtitaq pa jun URL chuqa' ri etamab'äl chi rij ri runuk'ulem ri awokik'amaya'l chi re ri Mozilla.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Tetamäx ch'aqa' chik">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "¿Achike k'ayewal xawïl? (Cha'el)">
