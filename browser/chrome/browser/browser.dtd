@@ -877,15 +877,36 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Més informació sobre la protecció contra el seguiment millorada">
+<!ENTITY protections.settings.label "Paràmetres de protecció">
+<!ENTITY protections.report.label "Mostra l'informe complet">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "El lloc no funciona?">
+<!ENTITY protections.siteNotWorkingView.title "El lloc no funciona?">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Desactiveu les proteccions si teniu problemes amb:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Camps d'inici de sessió">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Formularis">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Pagaments">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Comentaris">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Vídeos">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "El lloc segueix sense funcionar després de desactivar les proteccions?">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Envieu un informe">
 
+<!ENTITY protections.blocking.label "S'està blocant">
+<!ENTITY protections.notBlocking.label "No s'està blocant">
+<!ENTITY protections.notBlocking.why.label "Per què?">
+<!ENTITY protections.socialMediaTrackers.label "Elements de seguiment de xarxes socials">
+<!ENTITY protections.crossSiteTrackingCookies.label "Galetes de seguiment entre llocs">
+<!ENTITY protections.trackingContent.label "Contingut que fa seguiment">
+<!ENTITY protections.fingerprinters.label "Creadors d'empremtes digitals">
+<!ENTITY protections.cryptominers.label "Miners de criptomonedes">
+<!ENTITY protections.noTrackersFound.description "No s'ha detectat cap element de seguiment conegut pel &brandShortName; en aquesta pàgina.">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -926,7 +947,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.manageSettings.label "Gestiona el bloqueig de contingut">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Contingut que fa seguiment">
 
+<!ENTITY contentBlocking.manageSettings2.label "Gestiona els paràmetres de protecció">
 <!ENTITY contentBlocking.manageSettings.accesskey "G">
 
 <!ENTITY contentBlocking.trackersView.label "Elements de seguiment">
@@ -936,7 +959,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Galetes">
 <!ENTITY contentBlocking.cookiesView.label "Galetes i dades dels llocs">
 
+<!ENTITY contentBlocking.socialblock.label "Elements de seguiment de xarxes socials">
 
+<!ENTITY contentBlocking.cookies2.label "Galetes de seguiment entre llocs">
 
 <!ENTITY contentBlocking.cryptominers.label "Miners de criptomonedes">
 <!ENTITY contentBlocking.cryptominersView.label "Miners de criptomonedes">
@@ -948,8 +973,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Notificació de problemes">
 <!ENTITY contentBlocking.breakageReportView2.description "El bloqueig de contingut pot causar problemes en alguns llocs web. Quan notifiqueu un problema, esteu ajudant a millorar el &brandShortName; per a tothom. Això enviarà un URL a Mozilla, juntament amb informació de la configuració del navegador.">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Més informació">
+<!ENTITY contentBlocking.breakageReportView.title "Informeu sobre un lloc que no funciona">
+<!ENTITY contentBlocking.breakageReportView3.description "El bloqueig d'alguns elements de seguiment pot causar problemes en alguns llocs web. Notificar aquests problemes ajuda a millorar el &brandShortName; per a tothom. Juntament amb l'informe, també s'enviarà a Mozilla un URL i informació de la configuració del vostre navegador.">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Més informació">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Quins problemes heu tingut? (Opcional)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Opcional: Descriviu el problema">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Envia l'informe">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Cancel·la">
 
@@ -989,6 +1018,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateAvailable.panelUI.label "Baixa l'actualització del &brandShorterName;">
 <!ENTITY updateManual.panelUI.label "Baixa una còpia nova del &brandShorterName;">
+<!ENTITY updateUnsupported.panelUI.label "No es poden instal·lar més actualitzacions">
 <!ENTITY updateRestart.panelUI.label2 "Reinicia per actualitzar el &brandShorterName;">
 
 <!ENTITY newTabControlled.header.message "La pàgina de «Pestanya nova» ha canviat.">
