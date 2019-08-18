@@ -69,3 +69,5 @@ serviceworker-empty-suggestions-debugger = Stega igenom dina registrerade Servic
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Inspektera Service Workers från andra domäner. <a>Öppna about:debugging</a>
+# Text displayed when no manifest was found for the current page.
+manifest-empty-intro = Hittar inget manifest att inspektera.
