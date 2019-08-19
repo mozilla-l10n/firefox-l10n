@@ -706,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Keresés mentése mappaként…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Válasszon üzeneteket">
 <!ENTITY threadColumn.label "Témacsoport">
 <!ENTITY fromColumn.label "Feladó">
 <!ENTITY recipientColumn.label "Címzett">
@@ -729,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Jelölje ki a megjelenítendő oszlopokat">
+<!ENTITY selectColumn.tooltip "Összes üzenet kiválasztása be/ki">
 <!ENTITY threadColumn2.tooltip "Témacsoportok megjelenítése">
 <!ENTITY fromColumn2.tooltip "Rendezés feladó szerint">
 <!ENTITY recipientColumn2.tooltip "Rendezés címzett szerint">
