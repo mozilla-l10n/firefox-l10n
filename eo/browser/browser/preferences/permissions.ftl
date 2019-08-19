@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Esceptoj - Blokado de enhavo
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Vi malaktvigis la blokadon de enhavo por tiuj ĉi retejoj.
+permissions-exceptions-etp-window =
+    .title = Esceptoj por la plibonigita protekto kontraŭ spurado
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Vi malŝaltis la protekton en tiuj ĉi retejoj.
 
 ## Exceptions - Cookies
 
