@@ -914,6 +914,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.description "La miniloj de ĉifromono uzas la kalkulpovon de via komputilo por mini ciferecan monon. Minado de ĉifromono eluzas vian baterion, malrapidigas vian komputilon kaj povas konsumi pli da elekto, kiun vi devos pagi.">
 <!ENTITY protections.fingerprinters.description "La identigiloj de ciferecaj spuroj kolektas agordojn de via retumilo kaj komputilo por krei profilon de vi. Per tiu cifereca spuro, ili povas sekvi vin tra malsamaj retejoj.">
 <!ENTITY protections.trackingContent.description "Retejoj povas ŝargi eksterajn reklamojn, filmetojn kaj alian enhavon, kiuj havas spurilan kodon. Blokado de spurila enhavo povas rapidigi la ŝargadon de retejoj, sed kelkaj butonoj, formularoj kaj legitimilaj kampoj povus ne funkcii.">
+<!ENTITY protections.socialMediaTrackers.description "Socia retoj aldonas spurilojn en aliaj retejoj por sekvi vin kaj scii kion vi vidas kaj faras dum retumo. Tiu permesas al sociretaj entreprenoj havi informon pri vi, kiun vi ne dividas per viaj sociretaj profiloj.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -953,7 +954,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.manageSettings.label "Administri blokadon de enhavo">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Spurila enhavo">
 
+<!ENTITY contentBlocking.manageSettings2.label "Administri agordojn de protekto">
 <!ENTITY contentBlocking.manageSettings.accesskey "A">
 
 <!ENTITY contentBlocking.trackersView.label "Spuriloj">
@@ -963,7 +966,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Kuketoj">
 <!ENTITY contentBlocking.cookiesView.label "Kuketoj kaj retejaj datumoj">
 
+<!ENTITY contentBlocking.socialblock.label "Sociretaj spuriloj">
 
+<!ENTITY contentBlocking.cookies2.label "Interretejaj spurilaj kuketoj">
 
 <!ENTITY contentBlocking.cryptominers.label "Miniloj de ĉifromono">
 <!ENTITY contentBlocking.cryptominersView.label "Miniloj de ĉifromono">
@@ -975,8 +980,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Raporti problemojn">
 <!ENTITY contentBlocking.breakageReportView2.description "La blokado de enhavo povas okazigi problemojn en kelkaj retejoj. Se vi raportas problemojn, vi helpos nin plibonigi &brandShortName; por ĉiuj. (Tio ĉi sendos al Mozilla retadreson kaj informojn pri la agordoj de via retumilo.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Pli da informo">
+<!ENTITY contentBlocking.breakageReportView.title "Raporti ne bone funkciantan retejon">
+<!ENTITY contentBlocking.breakageReportView3.description "Blokado de kelkaj spuriloj povas misfunkciigi retejojn. Raportado de tiuj ĉi problemoj helpas plibonigi &brandShortName; por ĉiuj. Sendo de tiu ĉi raporto al Mozilla estos akompanata de retadreso kaj informo pri viaj retumilaj agordoj.">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Pli da informo">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Retadreso">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Kiujn problemojn vi havis? (nedeviga)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Nedeviga: priskribi la problemon">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Sendi raporton">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Nuligi">
 
