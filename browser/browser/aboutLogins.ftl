@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = ანგარიშები და პაროლები
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = თან წაიყოლეთ თქვენი პაროლები ყველგან
+login-app-promo-subtitle = გადმოწერეთ უფასო აპლიკაცია { -lockwise-brand-name }
+login-app-promo-android =
+    .alt = იხილეთ Google Play-ზე
+login-app-promo-apple =
+    .alt = ჩამოტვირთეთ App Store-დან
 login-filter =
     .placeholder = ანგარიშების ძიება
 create-login-button = ანგარიშის ახალი მონაცემები

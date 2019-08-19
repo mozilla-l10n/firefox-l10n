@@ -90,6 +90,13 @@ cfr-doorhanger-sync-bookmarks-body = თან წაიყოლეთ თქ�
 cfr-doorhanger-sync-bookmarks-ok-button = ჩართეთ { -sync-brand-short-name }
     .accesskey = ჩ
 
+## Login Sync
+
+cfr-doorhanger-sync-logins-header = აღარასდროს დაკარგავთ პაროლებს
+cfr-doorhanger-sync-logins-body = შეინახეთ და დაასინქრონეთ უსაფრთხოდ თქვენი პაროლები ყველა თქვენს მოწყობილობაზე.
+cfr-doorhanger-sync-logins-ok-button = ჩართეთ { -sync-brand-short-name }
+    .accesskey = თ
+
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = წაიკითხეთ გზაში
