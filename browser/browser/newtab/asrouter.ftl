@@ -92,6 +92,7 @@ cfr-doorhanger-sync-bookmarks-ok-button = Habilitar { -sync-brand-short-name }
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = No vuelvas a perder una contraseña
 
 ## Send Tab
 
