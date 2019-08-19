@@ -31,6 +31,8 @@
 <!ENTITY fillLoginMenu.accesskey      "I">
 <!ENTITY fillSuggestedPassword.label  "Uporabi priporočeno geslo">
 <!ENTITY fillSuggestedPassword.accesskey "g">
+<!ENTITY fillGeneratedPassword.label  "Uporabi varno ustvarjeno geslo">
+<!ENTITY fillGeneratedPassword.accesskey "V">
 <!ENTITY fillPasswordMenu.label       "Izpolni geslo">
 <!ENTITY fillPasswordMenu.accesskey   "I">
 <!ENTITY fillUsernameMenu.label       "Izpolni uporabniško ime">

@@ -137,6 +137,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Pred začetkom sinhronizacije boste morali potrditi svoj račun.">
 <!ENTITY fxa.unverified.button.label "Odpri nastavitve &syncBrand.shortName.label;a …">
 
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -153,8 +154,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-<!ENTITY fxa.service.send.launch "Zaženi &sendShortName;">
-<!ENTITY fxa.service.monitor.launch "Zaženi &monitorShortName;">
 <!ENTITY fxa.service.sendTab.description "Takoj pošljite zavihek na katerokoli napravo, v katero ste prijavljeni.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -534,6 +533,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Išči z iskalnikom:">
+
+<!-- LOCALIZATION NOTE (searchWithDesc.label):
+     This string prompts the user to use the list of one-click search engines in
+     the Urlbar and searchbar. -->
+<!ENTITY searchWithDesc.label         "Tokrat išči z iskalnikom:">
+
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -821,6 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Prijave, ki jih vnesete na tej strani, so lahko ogrožene.">
 <!ENTITY identity.customRoot "Povezavo je preveril izdajatelj digitalnega potrdila, ki ga Mozilla ne prepozna.">
 
+<!ENTITY identity.evOwnerLabel "Lastnik spletnega mesta:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; je zavrnil dele strani, ki niso varni.">
@@ -891,14 +897,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Pošlji poročilo">
 
 <!ENTITY protections.notBlocking.why.label "Zakaj?">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Z izklopom zaščite bodo vsi sledilci na tej strani dovoljeni. Lahko se tudi izboljša delovanje spletne strani.">
 <!ENTITY protections.socialMediaTrackers.label "Sledilci družbenih omrežij">
+<!ENTITY protections.trackingContent.label "Sledilna vsebina">
 <!ENTITY protections.fingerprinters.label "Sledilci prstnih odtisov">
 <!ENTITY protections.cryptominers.label "Kriptorudarji">
 <!ENTITY protections.noTrackersFound.description "&brandShortName; na strani ni zaznal znanih sledilcev.">
 
 <!ENTITY protections.cryptominers.description "Kriptorudarji izrabljajo zmogljivost vašega računalnika za rudarjenje digitalnega denarja. Rudarski skripti vam praznijo baterijo, upočasnjujejo računalnik in zasolijo račun za elektriko.">
-
-<!ENTITY protections.manageProtectionSettings.label "Upravljanje nastavitev zaščite">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -936,18 +942,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Sledilci">
 
-
 <!ENTITY contentBlocking.manageSettings.label "Upravljaj zavračanje vsebine">
+
+
+<!ENTITY contentBlocking.manageSettings2.label "Upravljanje nastavitev zaščite">
 <!ENTITY contentBlocking.manageSettings.accesskey "U">
 
 <!ENTITY contentBlocking.trackersView.label "Sledilci">
-<!ENTITY contentBlocking.trackersView.strictInfo.label 'Za zavračanje vseh sledilcev nastavite zavračanje vsebine na "Strogo".'>
 
-<!ENTITY contentBlocking.socialblock.label "Sledilci družbenih omrežij">
-<!ENTITY contentBlocking.socialblockView.label "Sledilci družbenih omrežij zavrnjeni">
+<!ENTITY contentBlocking.trackersView.strictInfo.label 'Za zavračanje vseh sledilcev nastavite zavračanje vsebine na "Strogo".'>
 
 <!ENTITY contentBlocking.cookies.label "Piškotki">
 <!ENTITY contentBlocking.cookiesView.label "Piškotki in podatki strani">
+
+<!ENTITY contentBlocking.socialblock.label "Sledilci družbenih omrežij">
+
 
 <!ENTITY contentBlocking.cryptominers.label "Kriptorudarji">
 <!ENTITY contentBlocking.cryptominersView.label "Kriptorudarji">
@@ -960,6 +969,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "Zavračanje vsebine lahko povzroči težave z nekaterimi spletnimi stranmi. S prijavo težav pomagate izboljšati &brandShortName; za vse uporabnike. (Mozilli bo poslan naslov spletne strani, kot tudi informacije o nastavitvah vašega brskalnika.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Več o tem">
 <!ENTITY contentBlocking.breakageReportView.title "Prijavi nedelujočo stran">
+<!ENTITY contentBlocking.breakageReportView3.description "Zavračanje določenih sledilcev lahko povzroči težave z nekaterimi spletnimi stranmi. S prijavo težav pomagate izboljšati &brandShortName; za vse uporabnike. Mozilli bo poslan naslov spletne strani, kot tudi informacije o nastavitvah vašega brskalnika.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Več o tem">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Kakšne težave ste imeli? (neobvezno)">

@@ -251,6 +251,12 @@ shortcuts-modifier-other = Vključi Ctrl ali Alt
 shortcuts-invalid = Neveljavna kombinacija
 shortcuts-letter = Vnesite črko
 shortcuts-system = Bližnjice { -brand-short-name }a ni mogoče preglasiti
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Podvojena bližnjica
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } se uporablja kot bližnjica v več primerih. Podvojene bližnjice lahko povzročijo nepričakovano vedenje.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
