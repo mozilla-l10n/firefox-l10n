@@ -3,11 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = লগইন এবং পাসওয়ার্ড
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = আপনার পাসওয়ার্ড সর্বত্র নিন
+login-app-promo-android =
+    .alt = Google Play তে পান
+login-app-promo-apple =
+    .alt = App Store থেকে ডাউনলোড করুন
 login-filter =
     .placeholder = লগইন অনুসন্ধান
 create-login-button = নতুন লগইন তৈরি করুন
 fxaccounts-sign-in-text = আপনার অন্যান্য ডিভাইসে আপনার পাসওয়ার্ড পান
 fxaccounts-sign-in-button = { -sync-brand-short-name } এ সাইন ইন করুন
+fxaccounts-avatar-button =
+    .title = অ্যাকাউন্ট ব্যবস্থাপনা
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -22,14 +32,17 @@ menu-menuitem-preferences =
     }
 menu-menuitem-feedback = প্রতিক্রিয়া জানান
 menu-menuitem-faq = প্রায়শই জিজ্ঞাসিত প্রশ্ন
-menu-menuitem-download-android = Android এর জন্য Lockwise
-menu-menuitem-download-iphone = iPhone ও iPad এর জন্য Lockwise
 
 ## Login List
 
+login-list-name-option = নাম (A-Z)
 login-list-last-changed-option = সর্বশেষ পরিবর্তিত
 login-list-last-used-option = সর্বশেষ ব্যবহৃত
+login-list-intro-title = কোন লগ ইন পাওয়া যায়নি
 login-list-item-title-new-login = নতুন লগইন
+
+## Introduction screen
+
 
 ## Login
 
@@ -67,8 +80,17 @@ master-password-reload-button =
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = বাতিল
+confirmation-dialog-dismiss-button =
+    .title = বাতিল
 confirm-delete-dialog-title = লগইন মুছে দেওয়া হবে?
+confirm-delete-dialog-message = এই পরিবর্তনটি অপরিবর্তনীয়!
 confirm-delete-dialog-confirm-button = মুছে ফেলুন
+confirm-discard-changes-dialog-title = সংরক্ষিত পরিবর্তনগুলো বাতিল করতে চান?
+confirm-discard-changes-dialog-message = সংরক্ষিত সকল পরিবর্তনগুলো হারিয়ে যাবে।
+confirm-discard-changes-dialog-confirm-button = বাতিল
 
 ## Breach Alert notification
 
+breach-alert-dismiss =
+    .title = সতর্ক করা বন্ধ করুন

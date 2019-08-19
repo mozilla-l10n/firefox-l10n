@@ -47,6 +47,9 @@ newtab-topsites-add-button = যোগ
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = আপনি কি নিশ্চিতভাবে আপনার ইতিহাস থেকে এই পাতার সকল কিছু মুছে ফেলতে চান?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = এই পরিবর্তনটি অপরিবর্তনীয়।
@@ -88,6 +91,10 @@ newtab-menu-bookmark = বুকমার্ক
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = ডাউনলোডের লিঙ্ক অনুলিপি করুন
 newtab-menu-go-to-download-page = ডাউনলোড পাতায় যাও
 newtab-menu-remove-download = ইতিহাস থেকে মুছে ফেলুন
@@ -109,11 +116,16 @@ newtab-menu-open-file = ফাইল খুলুন
 
 newtab-label-visited = পরিদর্শিত
 newtab-label-bookmarked = বুকমার্ক করা হয়েছে
+newtab-label-removed-bookmark = বুকমার্ক মুছে ফেলা হয়েছে
 newtab-label-recommended = ঝোঁক
 newtab-label-saved = { -pocket-brand-name } এ সংরক্ষণ করুন
 newtab-label-download = ডাউনলোড হয়েছে
 
 ## Section Menu: These strings are displayed in the section context menu and are 
+## meant as a call to action for the given section.
+
+
+## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = সেকশনটি সরান
@@ -126,6 +138,13 @@ newtab-section-menu-add-search-engine = অনুসন্ধান ইঞ্জ
 newtab-section-menu-move-up = উপরে উঠাও
 newtab-section-menu-move-down = নীচে নামাও
 newtab-section-menu-privacy-notice = গোপনীয়তা নীতি
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = বিভাগটি সংকুচিত করুন
+newtab-section-expand-section-label =
+    .aria-label = বিভাগটি প্রসারিত করুন
 
 ## Section Headers.
 
