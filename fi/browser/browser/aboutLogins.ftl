@@ -3,6 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Käyttäjätunnukset ja salasanat
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = Ota salasanasi mukaan kaikkialle
+login-app-promo-subtitle = Hanki ilmainen { -lockwise-brand-name }-sovellus
+login-app-promo-apple =
+    .alt = Lataa App Storesta
 login-filter =
     .placeholder = Etsi kirjautumistietoja
 create-login-button = Luo uusi kirjautumistieto
@@ -96,3 +103,5 @@ confirm-discard-changes-dialog-confirm-button = Hylkää
 ## Breach Alert notification
 
 breach-alert-link = Lue lisää tästä vuodosta.
+breach-alert-dismiss =
+    .title = Sulje tämä hälytys
