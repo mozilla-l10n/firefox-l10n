@@ -706,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Αποθήκευση αναζήτησης ως φάκελος...">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Επιλογή μηνυμάτων">
 <!ENTITY threadColumn.label "Αλληλουχία">
 <!ENTITY fromColumn.label "Από">
 <!ENTITY recipientColumn.label "Παραλήπτης">
@@ -729,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Επιλογή στηλών για προβολή">
+<!ENTITY selectColumn.tooltip "Εναλλαγή επιλογής όλων των μηνυμάτων">
 <!ENTITY threadColumn2.tooltip "Εμφάνιση αλληλουχιών μηνυμάτων">
 <!ENTITY fromColumn2.tooltip "Ταξινόμηση κατά αποστολέα">
 <!ENTITY recipientColumn2.tooltip "Ταξινόμηση κατά παραλήπτη">
