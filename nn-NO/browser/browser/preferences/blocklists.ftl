@@ -5,7 +5,7 @@
 blocklist-window =
     .title = Blokkeringslister
     .style = width: 55em
-blocklist-description = Vel lista { -brand-short-name } brukar for å blokkere sporfølgjarar på internett. Lister levert av <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
+blocklist-description = Vel kva for liste { -brand-short-name } skal bruke for å blokkere sporfølgjarar på internett. Lister er leverte av <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
