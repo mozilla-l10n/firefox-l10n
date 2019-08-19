@@ -34,6 +34,9 @@ etp-card-content = Elementele de urmărire te urmăresc online pentru a colecta 
 # capitalization for this string should match the output for your locale.
 graph-today = Astăzi
 social-tab-title = Elemente de urmărire ale rețelelor sociale
+cookie-tab-title = Cookie-uri de urmărire între site-uri
+fingerprinter-tab-title = Detectoare de amprente digitale
+lockwise-header-content-logged-in = Stochează-ți și sincronizează-ți parolele în siguranță pe toate dispozitivele.
 open-about-logins-button = Deschide în { -brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -54,7 +57,9 @@ lockwise-sync-status =
        *[other] Sincronizare cu alte { $count } de dispozitive
     }
 lockwise-sync-not-syncing = Nicio sincronizare cu alte dispozitive.
+monitor-title = Stai cu ochii pe breșele de date
 monitor-link = Cum funcționează
+monitor-header-content-logged-in = { -monitor-brand-name } te avertizează dacă informațiile tale au apărut într-o breșă de date cunoscută
 auto-scan = Scanat automat astăzi
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -83,6 +88,7 @@ info-exposed-passwords =
         [few] parole expuse în toate breșele.
        *[other] de parole expuse în toate breșele.
     }
+full-report-link = Vezi raportul complet pe <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -95,7 +101,39 @@ bar-tooltip-social =
     .title = Elemente de urmărire ale rețelelor sociale
     .aria-label =
         { $count ->
-            [one] { $count } element de urmărire al unei rețele sociale ({ $percentage }%)
+            [one] { $count } element de urmărire al rețelelor sociale ({ $percentage }%)
             [few] { $count } elemente de urmărire ale rețelelor sociale ({ $percentage }%)
            *[other] { $count } de elemente de urmărire ale rețelelor sociale ({ $percentage }%)
+        }
+bar-tooltip-cookie =
+    .title = Cookie-uri de urmărire între site-uri
+    .aria-label =
+        { $count ->
+            [one] { $count } cookie de urmărire între site-uri ({ $percentage }%)
+            [few] { $count } cookie-uri de urmărire între site-uri ({ $percentage }%)
+           *[other] { $count } de cookie-uri de urmărire între site-uri ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = Conținut pentru urmărire
+    .aria-label =
+        { $count ->
+            [one] { $count } conținut pentru urmărire ({ $percentage }%)
+            [few] { $count } de conținut pentru urmărire ({ $percentage }%)
+           *[other] { $count } de conținuturi pentru urmărire ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Detectoare de amprente digitale
+    .aria-label =
+        { $count ->
+            [one] { $count } detector de amprente digitale ({ $percentage }%)
+            [few] { $count } detectoare de amprente digitale ({ $percentage }%)
+           *[other] { $count } de detectoare de amprente digitale ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Criptomineri
+    .aria-label =
+        { $count ->
+            [one] { $count } criptominer ({ $percentage }%)
+            [few] { $count } criptomineri ({ $percentage }%)
+           *[other] { $count } de criptomineri ({ $percentage }%)
         }
