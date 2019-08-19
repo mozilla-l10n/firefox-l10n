@@ -90,6 +90,12 @@ cfr-doorhanger-sync-bookmarks-body = Ta med dig dina bokmärken, lösenord, hist
 cfr-doorhanger-sync-bookmarks-ok-button = Slå på { -sync-brand-short-name }
     .accesskey = T
 
+## Login Sync
+
+cfr-doorhanger-sync-logins-header = cfr-doorhanger-sync-logins-header = Förlora aldrig ett lösenord igen
+cfr-doorhanger-sync-logins-ok-button = Slå på { -sync-brand-short-name }
+    .accesskey = T
+
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Läs detta var du än är
