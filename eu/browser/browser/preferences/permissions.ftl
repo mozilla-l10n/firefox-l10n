@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Salbuespenak - Edukia blokeatzea
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Edukia blokeatzea desgaitu duzu gune hauetarako.
+permissions-exceptions-etp-window =
+    .title = Jarraipenaren babes hobeturako salbuespenak
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Babesak desaktibatu dituzu webgune hauetan.
 
 ## Exceptions - Cookies
 
