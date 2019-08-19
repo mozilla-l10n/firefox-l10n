@@ -706,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "ძიების შედეგების საქაღალდედ დამახსოვრება…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "წერილების შერჩევა">
 <!ENTITY threadColumn.label "მიმოწერა">
 <!ENTITY fromColumn.label "გამგზავნი">
 <!ENTITY recipientColumn.label "მიმღები">
@@ -729,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "სვეტების შერჩევა საჩვენებლად">
+<!ENTITY selectColumn.tooltip "ყველას მონიშვნა ან გაუქმება">
 <!ENTITY threadColumn2.tooltip "მიმოწერის ჩვენება">
 <!ENTITY fromColumn2.tooltip "გამომგზავნის მიხედვით">
 <!ENTITY recipientColumn2.tooltip "მიმღების მიხედვით">
