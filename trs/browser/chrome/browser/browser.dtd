@@ -981,6 +981,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "Sa narán riña nej sa huaa ga'ue gi'iaj yì'ij riña da'aj sîtio. Ngà natâ't nej sa 'iaj a'nan' ni rugûnu'unjt riña &brandShortName; yitïnj chre. (Na'nín 'ngo URL, danj naj nuguan' a'min rayi'î da nagi'iát si nabegadôr Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Gahuin chrūn doj">
 <!ENTITY contentBlocking.breakageReportView.title "Natà' sna'ānj dàj hua 'ngō sitiô gire'e">
+<!ENTITY contentBlocking.breakageReportView3.description "Ga'ue ga'uì' yi'ì da'āj nej sa naga'nāj naránt riña da'āj nej sîtio. Sisī natà' sna'ānjt nej sa huā nan nī rugûñu'ūnjt riña &brandShortName; da' gā hue'ej riña darûn'. Na'nïnj nuguan' ga'nïnt naj 'ngō URL nī 'ngō nuguan' dàj nadunā sa huā riña aché nunt si'iaj Mozilla.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Gahuin chrūn doj">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Hua 'ngò sa gire' aj (Si garan' ruat)">
@@ -1024,6 +1025,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateAvailable.panelUI.label "Naduni' sa nakàa guenda &brandShorterName;">
 <!ENTITY updateManual.panelUI.label "Naduni' a'ngo sa hua dàdanj &brandShorterName;">
+<!ENTITY updateUnsupported.panelUI.label "Si ga'ue nagi'iaj nakàt doj sa huāa ngà'">
 <!ENTITY updateRestart.panelUI.label2 "Duna'àj ni nachrun ñûnt da' nahuin nàkaj &brandShorterName;">
 
 <!ENTITY newTabControlled.header.message "Nadunà rakïj ñanj.">
