@@ -70,6 +70,7 @@ permissions-exceptions-content-blocking-desc = Ai dezactivat blocarea de conțin
 permissions-exceptions-etp-window =
     .title = Excepții pentru protecția îmbunătățită împotriva urmăririi
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Ai dezactivat protecțiile pe aceste site-uri web.
 
 ## Exceptions - Cookies
 

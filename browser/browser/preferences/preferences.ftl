@@ -715,7 +715,7 @@ addressbar-suggestions-settings = Schimbă preferințele pentru sugestiile motoa
 
 content-blocking-header = Blocare de conținut
 content-blocking-enhanced-tracking-protection = Protecție îmbunătățită împotriva urmăririi
-content-blocking-section-description = Protejează-ți intimitatea la navigare. Blochează conținuturile invizibile care urmăresc pe ce site-uri intri și îți creează profilul. Blocarea unei părți din aceste conținuturi poate conduce la încărcarea mai rapidă a paginilor.
+content-blocking-section-description = Protejează-ți intimitatea la navigare. Blochează conținuturile invizibile care urmăresc ce site-uri vizitezi și îți creează profilul. Blocarea unei părți din aceste conținuturi poate conduce la încărcarea mai rapidă a paginilor.
 content-blocking-learn-more = Află mai multe
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -733,6 +733,11 @@ content-blocking-strict-description = Protecție mai puternică, poate împiedic
 content-blocking-custom-desc = Alege ce să blochezi.
 content-blocking-private-trackers = Elemente de urmărire cunoscute numai în ferestre private
 content-blocking-third-party-cookies = Cookie-uri de urmărire de la terți
+content-blocking-etp-standard-desc = Echilibrat pentru protecție și performanță. Paginile se vor încărca normal.
+content-blocking-etp-strict-desc = O protecție mai puternică, dar poate provoca funcționarea necorespunzătoare a site-urilor sau a conținutului.
+content-blocking-etp-custom-desc = Alege ce elemente de urmărire și scripturi să blochezi.
+content-blocking-private-windows = Conținut pentru urmărire în ferestre private
+content-blocking-cross-site-tracking-cookies = Cookie-uri de urmărire între site-uri
 content-blocking-social-media-trackers = Elemente de urmărire ale rețelelor sociale
 content-blocking-all-cookies = Toate cookie-urile
 content-blocking-unvisited-cookies = Cookie-uri de la site-uri nevizitate
@@ -743,6 +748,8 @@ content-blocking-fingerprinters = Detectoare de amprente digitale
 content-blocking-warning-title = Atenție!
 content-blocking-warning-description = Blocarea conținutului poate împiedica funcționarea unor site-uri web. Deblocarea se poare realiza ușor pentru site-urile în care ai încredere.
 content-blocking-learn-how = Află cum
+content-blocking-etp-warning-description = Blocarea elementelor de urmărire poate afecta funcționalitatea unor site-uri. Reîncarcă o pagină cu elemente de urmărire pentru a încărca tot conținutul.
+content-blocking-warning-learn-how = Află cum
 content-blocking-reload-description = Va trebui să reîncarci filele pentru aplicarea acestor modificări.
 content-blocking-reload-tabs-button =
     .label = Reîncarcă toate filele
