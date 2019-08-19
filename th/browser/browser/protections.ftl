@@ -4,11 +4,16 @@
 
 protection-report-page-title = การปกป้องความเป็นส่วนตัว
 protection-report-content-title = การปกป้องความเป็นส่วนตัว
+etp-card-title = การป้องกันการติดตามที่มากขึ้น
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = วันนี้
+tracker-tab-title = ตัวติดตามเนื้อหา
+fingerprinter-tab-title = ลายนิ้วมือดิจิทัล
 cryptominer-tab-title = ตัวขุดเหรียญดิจิทัล
+cryptominer-tab-content = ตัวขุดเหรียญคริปโตดิจิตอลใช้พลังการคำนวณของระบบของคุณเพื่อสร้างเงินคริปโตดิจิทัล สคริปต์ขุดเหรียญดิจิทัลจะทำให้พลังงานแบตเตอรี่ของคุณลดลง คอมพิวเตอร์ของคุณช้าลง และเพิ่มค่าไฟฟ้าของคุณได้ <a data-l10n-name="learn-more-link">เรียนรู้เพิ่มเติม</a>
 lockwise-title = จะไม่ลืมรหัสผ่านอีก
+open-about-logins-button = เปิดใน { -brand-short-name }
 manage-devices = จัดการอุปกรณ์
 monitor-link = มันทำงานอย่างไร
 # This string is displayed after a large numeral that indicates the total number

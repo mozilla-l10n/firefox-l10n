@@ -6,6 +6,10 @@ about-logins-page-title = การเข้าสู่ระบบและร
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-android =
+    .alt = รับบน Google Play
+login-app-promo-apple =
+    .alt = ดาวน์โหลดบน App Store
 login-filter =
     .placeholder = ค้นหาการเข้าสู่ระบบ
 create-login-button = สร้างการเข้าสู่ระบบใหม่

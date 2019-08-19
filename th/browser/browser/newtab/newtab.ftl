@@ -116,6 +116,7 @@ newtab-menu-open-file = เปิดไฟล์
 
 newtab-label-visited = เยี่ยมชมแล้ว
 newtab-label-bookmarked = เพิ่มที่คั่นหน้าแล้ว
+newtab-label-removed-bookmark = เอาที่คั่นหน้าออกแล้ว
 newtab-label-recommended = กำลังนิยม
 newtab-label-saved = บันทึกไปยัง { -pocket-brand-name } แล้ว
 newtab-label-download = ดาวน์โหลดแล้ว
