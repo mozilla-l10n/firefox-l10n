@@ -811,10 +811,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label2)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Ασφάλεια σύνδεσης">
 
+<!ENTITY identity.connectionSecure2 "Ασφαλής σύνδεση">
 <!ENTITY identity.connectionNotSecure "Η σύνδεση δεν είναι ασφαλής">
+<!ENTITY identity.connectionNotSecureSecurityView "Η σύνδεσή σας σε αυτή την ιστοσελίδα δεν είναι ασφαλής.">
 <!ENTITY identity.connectionFile "Αυτή η σελίδα είναι αποθηκευμένη στον υπολογιστή σας.">
 <!ENTITY identity.connectionVerified2 "Έχετε συνδεθεί με ασφαλή τρόπο στην ιστοσελίδα, που ανήκει σε:">
+<!ENTITY identity.connectionVerified3 "Η σύνδεσή σας σε αυτή την ιστοσελίδα είναι ασφαλής.">
 <!ENTITY identity.connectionInternal "Αυτή είναι μια ασφαλής σελίδα του &brandShortName;.">
 <!ENTITY identity.extensionPage "Αυτή η σελίδα φορτώθηκε από μια επέκταση.">
 <!ENTITY identity.insecureLoginForms2 "Τα στοιχεία σύνδεσης που πληκτρολογήσατε σε αυτή την σελίδα μπορεί να διαρεύσουν.">
