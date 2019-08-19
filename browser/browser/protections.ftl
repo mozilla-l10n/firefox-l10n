@@ -34,6 +34,35 @@ graph-today = Gaur
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Aste honetan blokeatutako jarraipen-elementu mota bakoitzeko guztirako kopurua duen grafikoa.
 social-tab-title = Sare sozialetako jarraipen-elementuak
+turn-on-sync = Aktibatu { -sync-brand-short-name }…
+    .title = Joan sinkronizatzeko hobespenetara
+manage-devices = Kudeatu gailuak
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-sync-status =
+    { $count ->
+        [one] Beste gailu batera sinkronizatzen
+       *[other] Beste { $count } gailuetara sinkronizatzen
+    }
+lockwise-sync-not-syncing = Ez da beste gailuetara sinkronizatzen ari.
+monitor-title = Erne ibili datuen inguruko urratzeekin
+monitor-link = Nola dabilen
+monitor-header-content = Egiaztatu { -monitor-brand-name } datuen inguruko urratze batekin zerikusirik izan duzun ikusteko eta urratze berriei buruzko abisuak jasotzeko.
+monitor-header-content-logged-in = { -monitor-brand-name } tresnak abisatu egiten zaitu zure informazioa datuen inguruko urratze ezagunen batean azaldu bada
+monitor-sign-up = Eman izena datuen inguruko urratzeen abisuetara
+full-report-link = Ikusi txosten osoa <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>(e)n
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] Gordetako saio-hasiera datuen inguruko urratze batean agerian utzi izan liteke. Aldatu pasahitz hau segurtasuna hobetzeko. <a data-l10n-name="lockwise-link">Ikusi gordetako saio-hasierak</a>
+       *[other] Gordetako saio-hasierak datuen inguruko urratze batean agerian utzi izan litezke. Aldatu pasahitz hau segurtasuna hobetzeko. <a data-l10n-name="lockwise-link">Ikusi gordetako saio-hasierak</a>
+    }
+# This is the title attribute describing the graph report's link to about:settings#privacy
+go-to-privacy-settings = Joan pribatutasun-ezarpenetara
+# This is the title attribute describing the Lockwise card's link to about:logins
+go-to-saved-logins = Joan gordetako saio-hasieretara
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -42,3 +71,38 @@ social-tab-title = Sare sozialetako jarraipen-elementuak
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Sare sozialetako jarraipen-elementuak
+    .aria-label =
+        { $count ->
+            [one] Sare sozialetako jarraipen-elementu bat (%{ $percentage })
+           *[other] Sare sozialetako { $count } jarraipen-elementu (%{ $percentage })
+        }
+bar-tooltip-cookie =
+    .title = Guneen arteko cookie jarraipen-egileak
+    .aria-label =
+        { $count ->
+            [one] Guneen arteko cookie jarraipen-egile bat (%{ $percentage })
+           *[other] Guneen arteko { $count } cookie jarraipen-egile (%{ $percentage })
+        }
+bar-tooltip-tracker =
+    .title = Edukiaren jarraipena
+    .aria-label =
+        { $count ->
+            [one] Edukiaren jarraipen bat (%{ $percentage })
+           *[other] Edukiaren { $count } jarraipen (%{ $percentage })
+        }
+bar-tooltip-fingerprinter =
+    .title = Hatz-marka bidezko jarraipena
+    .aria-label =
+        { $count ->
+            [one] Hatz-marka bidezko jarraipen bat (%{ $percentage })
+           *[other] Hatz-marka bidezko { $count } jarraipen (%{ $percentage })
+        }
+bar-tooltip-cryptominer =
+    .title = Kriptomeatzariak
+    .aria-label =
+        { $count ->
+            [one] Kriptomeatzari bat (%{ $percentage })
+           *[other] { $count } kriptomeatzari (%{ $percentage })
+        }
