@@ -8,6 +8,8 @@ about-logins-page-title = Käyttäjätunnukset ja salasanat
 
 login-app-promo-title = Ota salasanasi mukaan kaikkialle
 login-app-promo-subtitle = Hanki ilmainen { -lockwise-brand-name }-sovellus
+login-app-promo-android =
+    .alt = Lataa Google Playsta
 login-app-promo-apple =
     .alt = Lataa App Storesta
 login-filter =
