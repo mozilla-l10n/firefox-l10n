@@ -18,3 +18,4 @@ reader-view = রিডার ভিউ
 open-location = অনুসন্ধান করুন বা ঠিকানা লিখুন
 share = শেয়ার করুন
 close-window = উইন্ডো বন্ধ করুন
+open-sidebar = সাইডবার
