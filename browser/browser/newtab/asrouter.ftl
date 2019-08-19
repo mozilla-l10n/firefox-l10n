@@ -88,12 +88,19 @@ cfr-whatsnew-panel-header = Ce este nou
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Obține acest marcaj pe telefon
+cfr-doorhanger-sync-bookmarks-ok-button = Activează  { -sync-brand-short-name }
+    .accesskey = T
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = Nu mai pierde niciodată vreo parolă
+cfr-doorhanger-sync-logins-ok-button = Activează { -sync-brand-short-name }
+    .accesskey = T
 
 ## Send Tab
 
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-ok-button = Încearcă { -send-brand-name }
+    .accesskey = T

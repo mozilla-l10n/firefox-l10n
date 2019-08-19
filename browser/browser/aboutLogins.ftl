@@ -27,3 +27,4 @@ login-list-breached-option = Site-uri web care au suferit breșe
 
 ## Breach Alert notification
 
+breach-alert-link = Află mai multe despre această breșă.
