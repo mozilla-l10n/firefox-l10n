@@ -2,8 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Suositeltu laajennus
+cfr-doorhanger-feature-heading = Suositeltu ominaisuus
 cfr-doorhanger-pintab-heading = Kokeile tätä: Kiinnitä välilehti
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Miksi näen tämän
 cfr-doorhanger-extension-cancel-button = Ei nyt
@@ -63,9 +70,30 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Sulje-painike
     .title = Sulje
 
+## Protections panel
+
+cfr-protections-panel-header = Selaa ilman seurantaa
+cfr-protections-panel-link-text = Lue lisää
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
     .label = Mitä uutta
     .tooltiptext = Mitä uutta
 cfr-whatsnew-panel-header = Mitä uutta
+
+## Bookmark Sync
+
+cfr-doorhanger-sync-bookmarks-header = Saa tämä kirjanmerkki puhelimeesi
+cfr-doorhanger-sync-bookmarks-ok-button = Ota { -sync-brand-short-name } käyttöön
+    .accesskey = O
+
+## Login Sync
+
+cfr-doorhanger-sync-logins-header = Lopeta salasanojen unohtaminen
+
+## Send Tab
+
+
+## Firefox Send
+
