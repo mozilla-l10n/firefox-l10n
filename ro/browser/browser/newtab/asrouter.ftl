@@ -2,8 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Extensie recomandată
+cfr-doorhanger-feature-heading = Funcție recomandată
 cfr-doorhanger-pintab-heading = Încearcă asta: Fixează fila
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = De ce văd asta
 cfr-doorhanger-extension-cancel-button = Nu acum
@@ -64,3 +71,29 @@ cfr-doorhanger-bookmark-fxa-link-text = Sincronizează marcajele acum...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Buton de închidere
     .title = Închidere
+
+## Protections panel
+
+cfr-protections-panel-header = Navighează fără să fii urmărit
+cfr-protections-panel-body = Păstrează-ți datele pentru tine. { -brand-short-name } te protejează de multe dintre cele mai frecvente elemente de urmărire care urmăresc ceea ce faci online.
+cfr-protections-panel-link-text = Află mai multe
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Ce este nou
+    .tooltiptext = Ce este nou
+cfr-whatsnew-panel-header = Ce este nou
+
+## Bookmark Sync
+
+cfr-doorhanger-sync-bookmarks-header = Obține acest marcaj pe telefon
+
+## Login Sync
+
+
+## Send Tab
+
+
+## Firefox Send
+

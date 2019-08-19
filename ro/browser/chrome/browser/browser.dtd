@@ -808,9 +808,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (identity.securityView.label2)
      This is the header of the security subview in the Site Identity panel. -->
 
+<!ENTITY identity.connectionSecure2 "Conexiune securizată">
 <!ENTITY identity.connectionNotSecure "Conexiunea nu este securizată">
+<!ENTITY identity.connectionNotSecureSecurityView "Nu ești conectat în mod securizat la acest site.">
 <!ENTITY identity.connectionFile "Pagina este stocată pe calculator.">
 <!ENTITY identity.connectionVerified2 "Ești conectat în mod securizat la acest site, deținut de:">
+<!ENTITY identity.connectionVerified3 "Ești conectat în mod securizat la acest site.">
 <!ENTITY identity.connectionInternal "Aceasta este o pagină securizată &brandShortName;.">
 <!ENTITY identity.extensionPage "Această pagină a fost încărcată de la o extensie.">
 <!ENTITY identity.insecureLoginForms2 "Datele de autentificare introduse pe această pagină ar putea fi compromise.">
@@ -852,6 +855,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Permisiuni">
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "Set de permisiuni">
 <!ENTITY identity.permissionsEmpty "Nu ai acordat acestui site nicio permisiune specială.">
 <!ENTITY identity.permissionsReloadHint "Ar putea fi nevoie să reîncarci pagina pentru aplicarea modificărilor.">
 <!ENTITY identity.permissionsPreferences.tooltip "Deschide preferințele pentru permisiuni">
@@ -866,12 +870,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "Site-ul nu funcționează?">
+<!ENTITY protections.siteNotWorkingView.title "Site-ul nu funcționează?">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Dezactivează protecțiile dacă ai probleme cu:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Câmpurile de autentificare">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Formularele">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Plățile">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Comentariile">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Videoclipurile">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Site-ul tot nu funcționează corespunzător după dezactivarea protecțiilor?">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Trimite un raport">
 
+<!ENTITY protections.socialMediaTrackers.label "Elemente de urmărire ale rețelelor sociale">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
