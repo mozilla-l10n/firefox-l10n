@@ -36,6 +36,7 @@ newtab-topsites-url-input =
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Kunchatu
+newtab-topsites-delete-history-button = Stoò ntii ña niya'a
 newtab-topsites-save-button = Chika vaà
 newtab-topsites-add-button = Chikaa
 
@@ -65,6 +66,8 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Sama
+newtab-menu-open-new-window = Kunàa nu inka nu sachuun tsàa
+newtab-menu-open-new-private-window = Kunàa see inka nu sachuun tsàa
 newtab-menu-dismiss = Kasi
 newtab-menu-pin = Chita'an
 newtab-menu-unpin = Sia'a
@@ -117,23 +120,42 @@ newtab-label-download = Snui
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = Stoo ña nikatsiku
+newtab-section-menu-collapse-section = Sección de colapso
+newtab-section-menu-expand-section = Saa kanu ña nikatsiku
+newtab-section-menu-manage-section = Administrar sección
+newtab-section-menu-manage-webext = Gestionar extensión
+newtab-section-menu-add-topsite = Chika sitio popular
+newtab-section-menu-add-search-engine = Chika motor de búsqueda
 newtab-section-menu-move-up = Kanta kuchi
 newtab-section-menu-move-down = Kanta ninu
+newtab-section-menu-privacy-notice = Aviso de privacidad
 
 ## Section aria-labels
 
+newtab-section-collapse-section-label =
+    .aria-label = Saa luu sección
+newtab-section-expand-section-label =
+    .aria-label = Sa kanu sección
 
 ## Section Headers.
 
+newtab-section-header-topsites = Sitios favoritos
+newtab-section-header-highlights = Destacados
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-try-again-button = kitsà tuku
+newtab-discovery-empty-section-topstories-loading = Sachuin
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = Temas populares:
+newtab-pocket-how-it-works = Nixi kuachu'un ña
+newtab-pocket-cta-button = Nduku { -pocket-brand-name }
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

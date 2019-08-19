@@ -27,6 +27,7 @@ onboarding-start-browsing-button-label = Kitsaà Ntuku
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = Kuan tsi { -brand-product-name } meu
 onboarding-sync-form-input =
     .placeholder = Korreo
 

@@ -30,6 +30,10 @@ permissions-button-ok =
     .accesskey = C
 permissions-searchbox =
     .placeholder = Nduku Sitio Web
+permissions-capabilities-autoplay-block =
+    .label = Kasi ndusu
+permissions-capabilities-autoplay-blockall =
+    .label = Kasi ndusu tsi video
 permissions-capabilities-allow =
     .label = A Va’a
 permissions-capabilities-block =
@@ -60,6 +64,9 @@ permissions-capabilities-listitem-block =
 
 
 ## Exceptions - Autoplay Media
+
+
+## Site Permissions - Autoplay
 
 
 ## Site Permissions - Notifications
