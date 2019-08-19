@@ -4,11 +4,11 @@
 
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-intro = { $hostname } b'anb'e uma'l texhlal uva' ye'xh kam kach'umal
-cert-error-mitm-intro = unq'a tatinb'al u web ni ni k'uch unq'a tatine' ta' unq'a tu'aale' uve' aq'el eltzan ta'n unq'a ib'ooq'ole'
+cert-error-intro = { $hostname } b'anb'e uma'l texhlal uva' ye'xh kam kach'umal.
+cert-error-mitm-intro = unq'a tatinb'al u web ni ni k'uch unq'a tatine' ta' unq'a tu'aale' uve' aq'el eltzan ta'n unq'a ib'ooq'ole'.
 cert-error-mitm-mozilla = { -brand-short-name } ile' ilel isuuchil tan unq'a aq'onvile' uve' Mozilla jit puuaj ni tx'akpu sti' as jank'al chit unq'a kame' uve' ni molpu stuul as ataj chit tu'aal (CA) uva' jajlu kan kuxhtu'. Unq'a vee' molel uve' jajlu kan kuxhtu' ni lochone' ti' unq'a ilol tetze' aq'al uva' at chit tu'aal la ib'ane'.
-cert-error-mitm-connection = { -brand-short-name } b'anb'e u molb'al tetze' Mozilla CA aq'al uva' la ilaxi uva' b'a'n kuxh tatine'. a'e' ña b'anb'e ti' unq'a tu'aal unq'a ch'ich'e uve' ni b'anb'ele'. Ech sti'e' asoj la b'an la ok umaj kam uva' ye' kan at kan tu molb'al taq'on u Mozilla CA a' la alon uva' ye'xh kam b'a'n taq'onve' la ib'ane'
-cert-error-trust-unknown-issuer-intro = Asoj at umaj uxchil uva' ni kuxh eesan ivatz u atinb'ale', as ye' la uch ayakeb'e'
+cert-error-mitm-connection = { -brand-short-name } b'anb'e u molb'al tetze' Mozilla CA aq'al uva' la ilaxi uva' b'a'n kuxh tatine'. a'e' ña b'anb'e ti' unq'a tu'aal unq'a ch'ich'e uve' ni b'anb'ele'. Ech sti'e' asoj la b'an la ok umaj kam uva' ye' kan at kan tu molb'al taq'on u Mozilla CA a' la alon uva' ye'xh kam b'a'n taq'onve' la ib'ane'.
+cert-error-trust-unknown-issuer-intro = Asoj at umaj uxchil uva' ni kuxh eesan ivatz u atinb'ale', as ye' la uch ayakeb'e'.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-trust-unknown-issuer = Jank'al chit unq'a atinb'ale' ni chit til isuuchil tuk' unq'a tu'aale' { -brand-short-name } ye'xh kam ni k'ujb'a' ik'u'l ti' { $hostname } asoj ye' ootzimal u aq'ol tu'aale', as atku' kuxh vi' q'ab' stuul uva' ankuxhe' b'anol tetz as jit jik at b'en unq'a tu'aale'.
@@ -44,3 +44,14 @@ cert-error-not-yet-valid-now = Unq'a web ni k'uch unq'a texhlale' tuk' unq'a tu'
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Texhlal uva' ni yan kat: <a data-l10n-name="error-code-link">
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Unq'a web ni k'uch u texhlale' tuk' unq'a tu'aale', uva' aq'el eltzan ta'n unq'a ib'ooq'ole' b'anolaj u'aal. Jank'al chit unq'a xaasan tetze' ye' ni k'ujb'a' ik'u'l ti' unq'a tu'aale' uve' aq'el eltzan ta'n u GeoTrust, RapidSSL, Symantec, Thawte, tuk' u VeriSign. { $hostname } b'anb'e uma'al u'aal uva' aq'el eltzan ta'n unq'a b'ooq'ole' as ni kuxh la uch tootzil unq'a texhlale' tulaj unq'a web.
+cert-error-symantec-distrust-admin = La uch aalat te ilol isuuchil ti u web ti' unq'a va'lexhe' uve' naleje'
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = HTTP  Iyak'ib'al ti' teqol b'en: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = HTTP la chit aaq'kan texhlal: { $hasHPKP }
+cert-error-details-cert-chain-label = Imolq'it tib' u tu'aale':
