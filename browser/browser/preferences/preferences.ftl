@@ -752,6 +752,7 @@ content-blocking-fingerprinters = Nettleseravtrykk
 content-blocking-warning-title = Se opp!
 content-blocking-warning-description = Blokkering av innhold kan føre til at noen nettsteder slutter å fungere. Det er enkelt å deaktivere blokkering for nettsteder du stoler på.
 content-blocking-learn-how = Finn ut hvordan
+content-blocking-etp-warning-description = Blokkering av sporere kan påvirke funksjonaliteten på noen nettsteder.
 content-blocking-warning-learn-how = Les hvordan
 content-blocking-reload-description = Du må oppdatere fanene dine for å kunne bruke disse endringene.
 content-blocking-reload-tabs-button =
