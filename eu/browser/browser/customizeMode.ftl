@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Desegin
 customize-mode-lwthemes-my-themes =
     .value = Nire itxurak
+customize-mode-touchbar-cmd =
+    .label = Pertsonalizatu Touch Bar-a…
