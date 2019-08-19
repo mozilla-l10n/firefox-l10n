@@ -911,6 +911,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.noTrackersFound.description "Nitāj nej sa naga'nāj ni'în' guendâ&brandShortName; nari'ij riña pajinâ nan.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Nikò' nej kokî nan danè' huin huājt da' gini'in sa 'iát nga aché nunt. Nej sa a'nïn a'ngô da'āj guìi huin, daj rû' sí du'uèj e asi nej ssí nadigi'ñû sa 'iaj guìi.">
+<!ENTITY protections.cryptominers.description "Sa nùkuaj 'iaj sun si agâ't arâj sun nej kriptominêro da' girī nej si san'ānj dijitâl. Dunahuij hìo nej si scripts kriptominerîa si pilât, nagi'iaj na si aga't nī yakàn numâ ñanj ña'aan riñat.">
+<!ENTITY protections.fingerprinters.description "Nakāj nej da'nga' dijîtal sa huā riña aché nunt nī riña si aga't da' girij 'ngō si perfît. Ga'ue naga'nāj nej si sò' ahuin man'an riña sitiô huājt ngà da'nga' digitâl nan.">
+<!ENTITY protections.trackingContent.description "Huā da'àj nej sîtio nī ga'ue nadiganj nej anûnsio, sa ni'io' nī a'ngô nej sa ga'ue nikāj sa naga'nāj a. Ga'ue nayi'nïn hìo doj nej sîtio si naránt riña nej sa naga'nāj a, sanī huā da'āj nej butûn, formulario asi riña gayi'ìt sesiûn sī ga'ue gi'iaj sunj.">
+<!ENTITY protections.socialMediaTrackers.description "A'nïn nej rêd sosiâl nej sa naga'nāj a riña a'ngô da'āj ne sîtio da' gini'in nùj hùin si 'iát, ni'iājt nī ni'înt riña lînia. Huê nan a'nïnj da' gini'in nej sa si'iaj rêd sosiâl sa 'iát nga aché nunt riña a'ngô ña se rêd sosiâl huin.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -950,7 +954,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.manageSettings.label "Ganikaj ñu'un sa arán riña kontenido">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Sa nikò' dàj hua sa màn riñanj">
 
+<!ENTITY contentBlocking.manageSettings2.label "Ganikāj ñu'ūnj dàj nadunāt riña sa dugumî sò'">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "Sa naga'naj">
@@ -960,7 +966,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Nej kôki">
 <!ENTITY contentBlocking.cookiesView.label "Nej kôki ni nej si datô sîtio">
 
+<!ENTITY contentBlocking.socialblock.label "Nej sa naga'nāj nej rêd sosiâl">
 
+<!ENTITY contentBlocking.cookies2.label "Kokî nikò' riña nej sîtio">
 
 <!ENTITY contentBlocking.cryptominers.label "Kriptominêro">
 <!ENTITY contentBlocking.cryptominersView.label "Nej kriptominêro">
@@ -972,6 +980,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Nato' sa gire'e">
 <!ENTITY contentBlocking.breakageReportView2.description "Sa narán riña nej sa huaa ga'ue gi'iaj yì'ij riña da'aj sîtio. Ngà natâ't nej sa 'iaj a'nan' ni rugûnu'unjt riña &brandShortName; yitïnj chre. (Na'nín 'ngo URL, danj naj nuguan' a'min rayi'î da nagi'iát si nabegadôr Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Gahuin chrūn doj">
+<!ENTITY contentBlocking.breakageReportView.title "Natà' sna'ānj dàj hua 'ngō sitiô gire'e">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Gahuin chrūn doj">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Hua 'ngò sa gire' aj (Si garan' ruat)">
