@@ -34,7 +34,55 @@ etp-card-content = Elementele de urmărire te urmăresc online pentru a colecta 
 # capitalization for this string should match the output for your locale.
 graph-today = Astăzi
 social-tab-title = Elemente de urmărire ale rețelelor sociale
+open-about-logins-button = Deschide în { -brand-short-name }
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+lockwise-passwords-stored =
+    { $count ->
+        [one] parolă stocată în siguranță <a data-l10n-name="lockwise-how-it-works">Cum funcționează</a>
+        [few] parole stocate în siguranță <a data-l10n-name="lockwise-how-it-works">Cum funcționează</a>
+       *[other] de parole stocate în siguranță <a data-l10n-name="lockwise-how-it-works">Cum funcționează</a>
+    }
+manage-devices = Gestionează dispozitivele
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-sync-status =
+    { $count ->
+        [one] Sincronizare cu { $count } alt dispozitiv
+        [few] Sincronizare cu alte { $count } dispozitive
+       *[other] Sincronizare cu alte { $count } de dispozitive
+    }
+lockwise-sync-not-syncing = Nicio sincronizare cu alte dispozitive.
+monitor-link = Cum funcționează
 auto-scan = Scanat automat astăzi
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-addresses =
+    { $count ->
+        [one] adresă de e-mail monitorizată.
+        [few] adrese de e-mail monitorizate.
+       *[other] de adrese de e-mail monitorizate.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches =
+    { $count ->
+        [one] breșă de date cunoscută ți-a expus informațiile.
+        [few] breșe de date cunoscute ți-au expus informațiile.
+       *[other] de breșe de date cunoscute ți-au expus informațiile.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords =
+    { $count ->
+        [one] parolă expusă în toate breșele.
+        [few] parole expuse în toate breșele.
+       *[other] de parole expuse în toate breșele.
+    }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
