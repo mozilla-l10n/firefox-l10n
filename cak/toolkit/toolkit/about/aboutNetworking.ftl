@@ -62,6 +62,8 @@ networkid-id = K'amab'ey ID
 
 ## Link is intended as "network link"
 
+networkid-isUp = Tzijïl Ximonel
+networkid-statusKnown = Ri rub'anikil ruximonel etaman ruwäch
 
 
 

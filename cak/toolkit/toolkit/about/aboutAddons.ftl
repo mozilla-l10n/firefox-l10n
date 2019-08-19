@@ -374,4 +374,5 @@ recent-updates-heading = K'ak'a' taq K'exoj
 release-notes-loading = Nusamajib'ej…
 release-notes-error = Takuyu' qamak, xa xk'ulwachitäj jun sachoj toq nok pa ch'utaq rutzijol ri ko'öl wuj.
 addon-permissions-empty = Majun ya'oj q'ij nrajo re k'amal re'
+recommended-extensions-heading = Chilab'en taq K'amal
 recommended-themes-heading = Chilab'en taq Wachinel
