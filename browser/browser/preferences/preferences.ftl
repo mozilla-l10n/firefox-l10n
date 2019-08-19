@@ -714,6 +714,7 @@ addressbar-suggestions-settings = Schimbă preferințele pentru sugestiile motoa
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blocare de conținut
+content-blocking-enhanced-tracking-protection = Protecție îmbunătățită împotriva urmăririi
 content-blocking-section-description = Protejează-ți intimitatea la navigare. Blochează conținuturile invizibile care urmăresc pe ce site-uri intri și îți creează profilul. Blocarea unei părți din aceste conținuturi poate conduce la încărcarea mai rapidă a paginilor.
 content-blocking-learn-more = Află mai multe
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
