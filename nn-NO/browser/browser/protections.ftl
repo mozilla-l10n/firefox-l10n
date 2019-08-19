@@ -34,6 +34,7 @@ social-tab-title = Sporing via sosiale medium
 cookie-tab-title = Sporingsinfokapslar på tvers av nettstadar
 tracker-tab-title = Sporingsinnhald
 fingerprinter-tab-title = Fingerprinters
+cryptominer-tab-title = Kryptominarar
 lockwise-title = Glæym aldri eit passord igjen
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } lagrar passorda dine sikkert i nettlesaren din.

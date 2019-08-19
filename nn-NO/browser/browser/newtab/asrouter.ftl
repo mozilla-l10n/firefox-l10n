@@ -73,6 +73,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Surf utan å bli følgd
+cfr-protections-panel-body = Behald dine data for deg sjølv. { -brand-short-name } beskyttar deg mot mange av dei vanlegaste sporfølgjarane som følgjer det du gjer på nettet.
 cfr-protections-panel-link-text = Les meir
 
 ## What's New toolbar button and panel
@@ -92,6 +93,7 @@ cfr-doorhanger-sync-bookmarks-ok-button = Slå på { -sync-brand-short-name }
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = Gløym aldri meir eit passord
+cfr-doorhanger-sync-logins-body = Lagre og synkroniser passorda dine sikkert med alle einingane dine.
 cfr-doorhanger-sync-logins-ok-button = Slå på { -sync-brand-short-name }
     .accesskey = S
 
