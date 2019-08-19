@@ -2,10 +2,31 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+protection-report-page-title = การปกป้องความเป็นส่วนตัว
+protection-report-content-title = การปกป้องความเป็นส่วนตัว
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = วันนี้
+cryptominer-tab-title = ตัวขุดเหรียญดิจิทัล
+lockwise-title = จะไม่ลืมรหัสผ่านอีก
 manage-devices = จัดการอุปกรณ์
+monitor-link = มันทำงานอย่างไร
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches =
+    { $count ->
+       *[other] มีการรั่วไหลของข้อมูลที่เรารู้เกิดขึ้น ที่ได้เปิดเผยข้อมูลของคุณ
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords =
+    { $count ->
+       *[other] รหัสผ่านถูกเปิดเผยในช่องโหว่ทั้งหมด
+    }
+# This is the title attribute describing the graph report's link to about:settings#privacy
+go-to-privacy-settings = ไปที่การตั้งค่าความเป็นส่วนตัว
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
