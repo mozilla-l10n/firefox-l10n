@@ -99,6 +99,7 @@ cfr-doorhanger-sync-logins-ok-button = Aktibatu { -sync-brand-short-name }
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Irakurri hau edonon
 cfr-doorhanger-send-tab-recipe-header = Eraman errezeta hau sukaldera
 cfr-doorhanger-send-tab-body = Fitxa bidaltzeko aukeraren bitartez lotura hau zure telefonoarekin edo { -brand-product-name }(e)n saioa hasita duzun gailu ororekin parteka dezakezu modu errazean.
 cfr-doorhanger-send-tab-ok-button = Probatu fitxa bidaltzeko aukera

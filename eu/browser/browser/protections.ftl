@@ -36,6 +36,7 @@ graph-legend-description = Aste honetan blokeatutako jarraipen-elementu mota bak
 social-tab-title = Sare sozialetako jarraipen-elementuak
 social-tab-contant = Egiten eta ikusten duzunaren jarraipena egin ahal izateko, jarraipen-elementuak ipintzen dituzte sare sozialek beste webguneetan. Honen bitartez sare sozialetako enpresek zuri buruz dagoeneko dakitena baino gehiago jakin dezakete. <a data-l10n-name="learn-more-link">Argibide gehiago</a>
 cookie-tab-title = Guneen arteko cookie jarraipen-egileak
+cookie-tab-content = Cookie hauek guneen artean jarraitzen zaituzte zure lineako jarduerari buruzko datuak biltzeko. Hirugarrenek ezartzen dituzte hauek, adibidez iragarleen eta estatistiken enpresek. Guneen arteko cookie jarraipen-egileak blokeatzeak zure jarraipena egiten duten iragarkien kopurua murrizten du. <a data-l10n-name="learn-more-link">Argibide gehiago</a>
 tracker-tab-title = Edukiaren jarraipena
 tracker-tab-content = Webguneek kanpoko iragarkiak, bideoak eta jarraipen-kodea izan lezaketen bestelako edukiak karga ditzakete. Edukiaren jarraipena blokeatzeak guneak azkarrago kargatzen lagun dezake baina zenbait botoi, inprimaki eta saio-hasierako eremu ez ibiltzea eragin lezake. <a data-l10n-name="learn-more-link">Argibide gehiago</a>
 fingerprinter-tab-title = Hatz-marka bidezko jarraipena
@@ -72,6 +73,31 @@ monitor-link = Nola dabilen
 monitor-header-content = Egiaztatu { -monitor-brand-name } datuen inguruko urratze batekin zerikusirik izan duzun ikusteko eta urratze berriei buruzko abisuak jasotzeko.
 monitor-header-content-logged-in = { -monitor-brand-name } tresnak abisatu egiten zaitu zure informazioa datuen inguruko urratze ezagunen batean azaldu bada
 monitor-sign-up = Eman izena datuen inguruko urratzeen abisuetara
+auto-scan = Automatikoki eskaneatuta gaur
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-addresses =
+    { $count ->
+        [one] Helbide elektronikoa monitorizatzen ari da.
+       *[other] Helbide elektroniko monitorizatzen ari dira.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches =
+    { $count ->
+        [one] Datuen inguruko urratzeak zure informazioa agerian utzi du.
+       *[other] Datuen inguruko urratzeek zure informazioa agerian utzi dute.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords =
+    { $count ->
+        [one] Pasahitza agerian utzi da datuen inguruko urratze guztien artean.
+       *[other] Pasahitz agerian utzi dira datuen inguruko urratze guztien artean.
+    }
 full-report-link = Ikusi txosten osoa <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>(e)n
 # This string is displayed after a large numeral that indicates the total number
 # of saved logins which may have been exposed. Don’t add $count to
