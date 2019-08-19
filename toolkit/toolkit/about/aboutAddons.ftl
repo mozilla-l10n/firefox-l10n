@@ -254,6 +254,12 @@ shortcuts-modifier-other = Συμπεριλάβετε Ctrl ή Alt
 shortcuts-invalid = Άκυρος συνδυασμός
 shortcuts-letter = Πληκτρολογήστε ένα γράμμα
 shortcuts-system = Αδυναμία αντικατάστασης συντόμευσης του { -brand-short-name }
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Διπλή συντόμευση
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = Το { $shortcut } χρησιμοποιείται ως συντόμευση σε περισσότερες από μία περιπτώσεις. Οι διπλές συντομεύσεις ίσως προκαλέσουν απροσδόκητη συμπεριφορά.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
