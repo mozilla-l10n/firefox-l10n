@@ -90,6 +90,13 @@ cfr-doorhanger-sync-bookmarks-body = Emportez vos marque-pages, vos mots de pass
 cfr-doorhanger-sync-bookmarks-ok-button = Activer { -sync-brand-short-name }
     .accesskey = A
 
+## Login Sync
+
+cfr-doorhanger-sync-logins-header = Ne perdez plus jamais vos mots de passe
+cfr-doorhanger-sync-logins-body = Enregistrez et synchronisez vos mots de passe sur tous vos appareils en toute sécurité.
+cfr-doorhanger-sync-logins-ok-button = Activer { -sync-brand-short-name }
+    .accesskey = A
+
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Lisez ceci en déplacement
