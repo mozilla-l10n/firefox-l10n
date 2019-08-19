@@ -82,6 +82,31 @@ info-monitored-addresses =
         [one] Si direksiûn korreô nikaj ñu'unjt.
        *[other] Si direksiûn nej korreô nikaj ñun'unjt.
     }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches =
+    { $count ->
+        [one] Dunâj ni'nïnj chre sa gire' nej dâto nuguan' hua 'iát.
+       *[other] Dunâj ni'nïnj chre nej sa gire' nej dâto nuguan' hua 'iát.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords =
+    { $count ->
+        [one] Hua ni'nïnj chre da'nga' huì riña ga'ue hua sa giran'.
+       *[other] Hua ni'nïnj chre nej da'nga' huì riña ga'ue hua sa giran'.
+    }
+full-report-link = Ni'iaj da' hua ngè infôrme rayi'î <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] Riña gayi'ì sesiûn na'nïn sà't ni hua riña ahi ginun si datôt. Naduna da'nga' huì nan da' ga gudadû doj gachet riña lînia. <a data-l10n-name="lockwise-link">Gini'iaj riña gayi'ìt sesûn na'nïn sà't</a>
+       *[other] Riña gayi'ì nej sesiûn na'nïn sà't ni hua riña ahi ginun si datôt. Naduna nej da'nga' huì nan da' ga gudadû doj gachet riña lînia. <a data-l10n-name="lockwise-link">Gini'iaj riña gayi'ìt sesûn na'nïn sà't</a>
+    }
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = Guij riña si configurasiûn sa naràn rayi'ît
 # This is the title attribute describing the Lockwise card's link to about:logins
@@ -100,6 +125,20 @@ bar-tooltip-social =
         { $count ->
             [one] { $count } sa naga'naj nej rêd sosial ({ $percentage }%)
            *[other] { $count } nej sa naga'naj nej rêd sosial ({ $percentage }%)
+        }
+bar-tooltip-cookie =
+    .title = Nej Kokî nikò' ni'iaj riña ga'ì sîtio
+    .aria-label =
+        { $count ->
+            [one] { $count } kokî nikò' ni'iaj riña ga'ì sîtio ({ $percentage }%)
+           *[other] { $count } nej kokî nikò' ni'iaj riña ga'ì sîtio ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = Sa nikò' kontenîdo
+    .aria-label =
+        { $count ->
+            [one] { $count } sa nikò' kontenîdo ({ $percentage }%)
+           *[other] { $count } sa nikò' kontenîdo ({ $percentage }%)
         }
 bar-tooltip-fingerprinter =
     .title = Nej da'nga ra'a
