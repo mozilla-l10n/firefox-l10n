@@ -867,6 +867,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Mai multe informații despre protecția îmbunătățită împotriva urmăririi">
+<!ENTITY protections.settings.label "Setări pentru protecție">
+<!ENTITY protections.report.label "Afișează raportul complet">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -928,6 +930,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.label "Gestionează blocarea de conținut">
 
 
+<!ENTITY contentBlocking.manageSettings2.label "Gestionează setările pentru protecție">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "Elemente de urmărire">
@@ -949,6 +952,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Raportează probleme">
 <!ENTITY contentBlocking.breakageReportView2.description "Blocarea de conținut poate produce probleme pe unele site-uri web. Prin raportarea problemelor vei ajuta la îmbunătățirea &brandShortName; pentru toți. (Va trimite la Mozilla un URL și informații despre setările browserului.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Află mai multe">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Află mai multe">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL-ul">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Ce probleme ai întâmpinat? (Opțional)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Trimite raportul">
