@@ -8,6 +8,8 @@
 
 ## The ⋯ menu that is in the top corner of the page
 
+menu =
+    .title = Deschide meniul
 
 ## Login List
 
@@ -18,6 +20,7 @@ login-list-breached-option = Site-uri web care au suferit breșe
 
 ## Login
 
+login-item-open-site-button = Lansează
 
 ## Master Password notification
 

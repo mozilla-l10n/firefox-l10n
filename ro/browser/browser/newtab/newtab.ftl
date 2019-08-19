@@ -47,6 +47,9 @@ newtab-topsites-add-button = Adaugă
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Sigur vrei să ștergi fiecare instanță a acestei pagini din istoric?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Această acțiune este ireversibilă.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Marchează
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Copiază linkul de descărcare
 newtab-menu-go-to-download-page = Mergi la pagina de descărcare
 newtab-menu-remove-download = Elimină din istoric
@@ -109,11 +116,16 @@ newtab-menu-open-file = Deschide fișierul
 
 newtab-label-visited = Vizitat
 newtab-label-bookmarked = Însemnat
+newtab-label-removed-bookmark = Marcaj eliminat
 newtab-label-recommended = În tendințe
 newtab-label-saved = Salvat în { -pocket-brand-name }
 newtab-label-download = Descărcat
 
 ## Section Menu: These strings are displayed in the section context menu and are 
+## meant as a call to action for the given section.
+
+
+## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = Elimină secțiunea
@@ -126,6 +138,9 @@ newtab-section-menu-add-search-engine = Adaugă motor de căutare
 newtab-section-menu-move-up = Mută în sus
 newtab-section-menu-move-down = Mută în jos
 newtab-section-menu-privacy-notice = Declarație de confidențialitate
+
+## Section aria-labels
+
 
 ## Section Headers.
 
@@ -142,6 +157,9 @@ newtab-empty-section-highlights = Începe să navighezi și noi îți vom arăta
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Ai ajuns la capăt. Revino mai târziu pentru alte articole de la { $provider }. Nu mai vrei să aștepți? Selectează un subiect popular și găsește alte articole interesante de pe web.
+
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
 
 ## Pocket Content Section.
 

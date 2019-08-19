@@ -94,6 +94,7 @@ cfr-doorhanger-sync-bookmarks-ok-button = Activează  { -sync-brand-short-name }
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = Nu mai pierde niciodată vreo parolă
+cfr-doorhanger-sync-logins-body = Stochează-ți și sincronizează-ți parolele în siguranță pe toate dispozitivele.
 cfr-doorhanger-sync-logins-ok-button = Activează { -sync-brand-short-name }
     .accesskey = T
 
