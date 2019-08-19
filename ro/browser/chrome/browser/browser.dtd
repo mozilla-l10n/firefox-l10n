@@ -889,6 +889,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Trimite un raport">
 
 <!ENTITY protections.socialMediaTrackers.label "Elemente de urmărire ale rețelelor sociale">
+<!ENTITY protections.crossSiteTrackingCookies.label "Cookie-uri de urmărire între site-uri">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -941,6 +942,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookiesView.label "Cookie-uri și date ale site-urilor">
 
 
+<!ENTITY contentBlocking.cookies2.label "Cookie-uri de urmărire între site-uri">
 
 <!ENTITY contentBlocking.cryptominers.label "Criptomineri">
 <!ENTITY contentBlocking.cryptominersView.label "Criptomineri">
