@@ -3,9 +3,23 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Prijave in gesla
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = Vzemite gesla s seboj
+login-app-promo-subtitle = Prenesite brezplačno aplikacijo { -lockwise-brand-name }
+login-app-promo-android =
+    .alt = Prenesite ga z Google Play
+login-app-promo-apple =
+    .alt = Prenesite ga z App Stora
 login-filter =
     .placeholder = Iskanje prijav
 create-login-button = Ustvari novo prijavo
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Ikona spletnega mesta { $title }
 fxaccounts-sign-in-text = Imejte dostop do gesel z vseh svojih naprav
 fxaccounts-sign-in-button = Prijava v { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -97,6 +111,11 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Prekliči
 confirmation-dialog-dismiss-button =
     .title = Prekliči
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Želite imeti svoje prijave povsod, kjer uporabljate { -brand-product-name }? Pojdite na Možnosti { -sync-brand-short-name }a in izberite polje Prijave.
+       *[other] Želite imeti svoje prijave povsod, kjer uporabljate { -brand-product-name }? Pojdite na Nastavitve { -sync-brand-short-name }a in izberite polje Prijave.
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -113,4 +132,7 @@ confirm-discard-changes-dialog-confirm-button = Prezri
 
 ## Breach Alert notification
 
+breach-alert-text = Gesla so bila ogrožena ali ukradena s te spletne strani, odkar ste nazadnje posodobili podatke za prijavo. Spremenite geslo, da zaščitite svoj račun.
 breach-alert-link = Več o tej kraji.
+breach-alert-dismiss =
+    .title = Zapri to opozorilo

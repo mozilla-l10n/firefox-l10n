@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Izjeme – Zavračanje vsebine
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Zavračanje vsebine na teh spletnih straneh je onemogočeno.
+permissions-exceptions-etp-window =
+    .title = Izjeme za izboljšano zaščito pred sledenjem
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Za te spletne strani ste izklopili zaščito.
 
 ## Exceptions - Cookies
 
