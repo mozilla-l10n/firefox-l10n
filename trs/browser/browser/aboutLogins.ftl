@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Nej riña gayi'ì' sesiûn & nej da'nga' huìi
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = Gata nej da'nga' huì nikajt danè' garan' ruhuât
+login-app-promo-subtitle = Nadunïnj 'ngo aplikasiûn nitaj du'ue hua { -lockwise-brand-name }
+login-app-promo-android =
+    .alt = Nadunij riña Google Play
+login-app-promo-apple =
+    .alt = Naduni' asîj riña App Store
 login-filter =
     .placeholder = Nana'uì' nej riña gayi'ì sesiûn
 create-login-button = Giri 'ngo riña gayi'ì sesiûn nakàa

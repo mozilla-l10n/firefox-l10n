@@ -90,6 +90,13 @@ cfr-doorhanger-sync-bookmarks-body = Ganikaj nej si markadôt, da'nga' huìi, ne
 cfr-doorhanger-sync-bookmarks-ok-button = Dugi'iaj sun { -sync-brand-short-name }
     .accesskey = T
 
+## Login Sync
+
+cfr-doorhanger-sync-logins-header = Gà' doj si gini'ñûn ñûnt da'nga' huìi
+cfr-doorhanger-sync-logins-body = Nachra sà' ni dunatûj da'nga' huì nikajt riña daran' si aga't.
+cfr-doorhanger-sync-logins-ok-button = Nachrun { -sync-brand-short-name }
+    .accesskey = T
+
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Gahia nan huajt dan

@@ -40,6 +40,8 @@ cookie-tab-content = Nej kokî nan ni nikò' nej man sò' danè' nanj gahuin hua
 tracker-tab-title = Sa nikò' nej kontenîdo
 tracker-tab-content = Ga'ue nadigân nej sitiô nan nej anûnsio, sa siki' ni'io' así a'ngô sa nikaj 'ngo da'nga' nikò' ñù'. Si naránt riña da'nga' nikò' sò' ni rugûñu'un da' nayi'nin hìo doj riña si pajinât sani ga'ue sisi hua da'aj nej butûn asi a'ngô ngà' sa huaa si gi'iaj sun hue'ê. <a data-l10n-name="learn-more-link">Gahuin chrun doj</a>
 fingerprinter-tab-title = Nej da'nga ra'a
+fingerprinter-tab-content = Nej da'nga' digîtal ni nakaj nej man nej sa hua 'iát riña si aga't ni narij 'ngo si pefît. Ngà da'nga' digital nan, ga'ue ganikò' nej si sò' riña ga'ì sîtio. <a data-l10n-name="learn-more-link">Gahuin chrun doj</a>
+cryptominer-tab-title = Nej kriptominêro
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
