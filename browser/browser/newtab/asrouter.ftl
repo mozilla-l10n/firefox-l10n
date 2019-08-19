@@ -93,6 +93,9 @@ cfr-doorhanger-sync-bookmarks-ok-button = Habilitar { -sync-brand-short-name }
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = No vuelvas a perder una contraseña
+cfr-doorhanger-sync-logins-body = Almacena de forma segura tus contraseñas y sincronízalas en todos tus dispositivos.
+cfr-doorhanger-sync-logins-ok-button = Activar { -sync-brand-short-name }
+    .accesskey = A
 
 ## Send Tab
 
