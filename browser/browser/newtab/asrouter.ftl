@@ -100,6 +100,13 @@ cfr-doorhanger-sync-bookmarks-body = Tag dine bogmærker, adgangskoder, din hist
 cfr-doorhanger-sync-bookmarks-ok-button = Aktiver { -sync-brand-short-name }
   .accesskey = A
 
+## Login Sync
+
+cfr-doorhanger-sync-logins-header = Mist aldrig en adgangskode igen
+cfr-doorhanger-sync-logins-body = Gem og synkroniser dine adgangskoder sikkert på alle dine enheder.
+cfr-doorhanger-sync-logins-ok-button = Aktiver { -sync-brand-short-name }
+  .accesskey = A
+
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Læs på farten
