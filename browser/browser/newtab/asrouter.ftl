@@ -77,6 +77,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Přehladujće bjez toho, zo by wam slědowało
+cfr-protections-panel-body = Wobchowajće swoje daty za sebje. { -brand-short-name } was před wjele z najhusćišich přesćěhowakow škita, kotrerž slěduja, štož online činiće.
 cfr-protections-panel-link-text = Dalše informacije
 
 ## What's New toolbar button and panel
@@ -92,6 +93,13 @@ cfr-doorhanger-sync-bookmarks-header = Přinjesće tutu zapołožku na swój tel
 cfr-doorhanger-sync-bookmarks-body = Wzmiće swoje zapołožki, hesła, historiju a wjace wšudźe sobu, hdźež sće so pola { -brand-product-name } přizjewił.
 cfr-doorhanger-sync-bookmarks-ok-button = { -sync-brand-short-name } zmóžnić
     .accesskey = m
+
+## Login Sync
+
+cfr-doorhanger-sync-logins-header = Njezhubjejće ženje wjace hesło
+cfr-doorhanger-sync-logins-body = Składujće a synchronizujće swoje hesła ze wšěmi swojimi gratami.
+cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name } zmóžnić
+    .accesskey = z
 
 ## Send Tab
 
