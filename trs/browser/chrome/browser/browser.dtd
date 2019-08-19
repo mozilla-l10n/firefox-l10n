@@ -901,9 +901,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.blocking.label "Garun'">
 <!ENTITY protections.notBlocking.label "Nitaj si hua ran">
 <!ENTITY protections.notBlocking.why.label "Nù huin saj?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Ga'ue gahui a'nan' huā da'āj nej sa 'na' riña sîtio sisī naránt riña man. Huā da'āj nej butûn, formulârio nī riña gayi'ìt sesiûn si gi'iaj sun hue'ê sisī nitāj nej sa naga'nāj a hua.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Sisī dunâ'àjt nej sa dugumî sò' nī gatū daran' nej sa naga'nāj sò'. Ga'ue nagi'iaj sà'aj da'āj nej sa 'na' riña sîtio nej.">
+<!ENTITY protections.socialMediaTrackers.label "Nej sa naga'nāj nej rêd sosiâl">
+<!ENTITY protections.crossSiteTrackingCookies.label "Nej Kokî nikò' riña nej Sîtio">
+<!ENTITY protections.trackingContent.label "Sa nikò' dàj hua sa màn riñanj">
 <!ENTITY protections.fingerprinters.label "Nej da'nga ra'a">
 <!ENTITY protections.cryptominers.label "Nej kriptominêro">
+<!ENTITY protections.noTrackersFound.description "Nitāj nej sa naga'nāj ni'în' guendâ&brandShortName; nari'ij riña pajinâ nan.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Nikò' nej kokî nan danè' huin huājt da' gini'in sa 'iát nga aché nunt. Nej sa a'nïn a'ngô da'āj guìi huin, daj rû' sí du'uèj e asi nej ssí nadigi'ñû sa 'iaj guìi.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
