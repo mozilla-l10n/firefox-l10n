@@ -48,7 +48,7 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } til iPhone og iPad
 ## Login List
 
 login-list =
-  .aria-label = Logins modsvarende din søgning
+  .aria-label = Logins der matcher din søgning
 login-list-count =
   { $count ->
       [one] { $count } login
@@ -62,7 +62,7 @@ login-list-last-used-option = Senest brugt
 login-list-intro-title = Ingen logins fundet
 login-list-intro-description = Når du gemmer et login i { -brand-product-name } vil det blive vist hér.
 login-list-item-title-new-login = Nyt login
-login-list-item-subtitle-new-login = Indtast dit login-info
+login-list-item-subtitle-new-login = Indtast login-oplysninger
 login-list-item-subtitle-missing-username = (intet brugernavn)
 
 ## Introduction screen
@@ -85,14 +85,14 @@ login-item-open-site-button = Åbn
 login-item-username-label = Brugernavn
 login-item-username =
   .placeholder = navn@eksempel.dk
-login-item-copy-username-button-text = Kopiér
+login-item-copy-username-button-text = Kopier
 login-item-copied-username-button-text = Kopieret!
 login-item-password-label = Adgangskode
 login-item-password-reveal-checkbox-show =
   .title = Vis adgangskode
 login-item-password-reveal-checkbox-hide =
   .title = Skjul adgangskode
-login-item-copy-password-button-text = Kopiér
+login-item-copy-password-button-text = Kopier
 login-item-copied-password-button-text = Kopieret!
 login-item-save-changes-button = Gem ændringer
 login-item-save-new-button = Gem
@@ -103,7 +103,7 @@ login-item-time-used = Senest brugt: { DATETIME($timeUsed, day: "numeric", month
 
 ## Master Password notification
 
-master-password-notification-message = Please enter your master password to view saved logins & passwords
+master-password-notification-message = Indtast din hovedadgangskode for at se gemte logins og adgangskoder
 master-password-reload-button =
   .label = Log ind
   .accesskey = L
@@ -116,14 +116,14 @@ confirmation-dialog-dismiss-button =
 
 enable-password-sync-notification-message =
   { PLATFORM() ->
-      [windows] Vil du have dine logins med de, alle de steder du bruger { -brand-product-name }? Gå til indstillingerne for { -sync-brand-short-name } og sæt et flueben ud for Logins.
-     *[other] Vil du have dine logins med de, alle de steder du bruger { -brand-product-name }? Gå til indstillingerne for { -sync-brand-short-name } og sæt et flueben ud for Logins. 
+      [windows] Vil du have dine logins på alle dine enheder med { -brand-product-name }? Gå til indstillingerne for { -sync-brand-short-name }, og sæt et flueben ud for Logins.
+     *[other] Vil du have dine logins på alle dine enheder med { -brand-product-name }? Gå til indstillingerne for { -sync-brand-short-name }, og sæt et flueben ud for Logins. 
   }
 enable-password-sync-preferences-button =
   .label =
     { PLATFORM() ->
-        [windows] Gå til { -sync-brand-short-name } indstillinger
-       *[other] Gå til { -sync-brand-short-name } indstillinger
+        [windows] Gå til { -sync-brand-short-name }-indstillinger
+       *[other] Gå til { -sync-brand-short-name }-indstillinger
     }
   .accesskey = V
 
@@ -138,6 +138,6 @@ confirm-discard-changes-dialog-confirm-button = Annuller
 ## Breach Alert notification
 
 breach-alert-text = Adgangskoder er blevet lækket eller stjålet fra dette websted, siden du senest opdaterede dine login-oplysninger. Skift din adgangskode for at beskytte din konto.
-breach-alert-link = Læs mere om dette datalæk.
+breach-alert-link = Læs mere om denne datalæk.
 breach-alert-dismiss = 
     .title = Luk denne advarsel
