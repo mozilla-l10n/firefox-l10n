@@ -4,6 +4,15 @@
 
 # Variables:
 #   $count (Number) - Number of tracking events blocked.
+graph-week-summary =
+    { $count ->
+        [one] { -brand-short-name } je v zadnjem tednu zavrnil { $count } sledilca
+        [two] { -brand-short-name } je v zadnjem tednu zavrnil { $count } sledilca
+        [few] { -brand-short-name } je v zadnjem tednu zavrnil { $count } sledilce
+       *[other] { -brand-short-name } je v zadnjem tednu zavrnil { $count } sledilcev
+    }
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
 # earliest date recorded in the database.
 graph-total-summary =
@@ -30,6 +39,9 @@ graph-today = Danes
 graph-legend-description = Graf vključuje skupno število posameznih vrst sledilcev, ki so bili zavrnjeni v tem tednu.
 social-tab-title = Sledilci družbenih omrežij
 social-tab-contant = Družbena omrežja postavljajo sledilce na druga spletna mesta, da bi spremljali, kaj počnete, vidite in gledate na spletu. To družbenim medijem omogoča, da o vas izvedo več kot le tisto, kar delite na svojih družbenih profilih. <a data-l10n-name="learn-more-link">Več o tem</a>
+cookie-tab-title = Spletni sledilni piškotki
+tracker-tab-title = Sledilna vsebina
+tracker-tab-content = Spletne strani lahko naložijo zunanje oglase, videoposnetke in drugo vsebino, ki vsebuje kodo za sledenje. Zavračanje sledilne vsebine lahko pospeši nalaganje spletnih strani, vendar nekateri gumbi in obrazci morda ne bodo delovali. <a data-l10n-name="learn-more-link">Več o tem</a>
 fingerprinter-tab-title = Sledilci prstnih odtisov
 fingerprinter-tab-content = Sledilci prstnih odtisov zbirajo nastavitve vašega brskalnika in računalnika, da si ustvarijo vaš profil. S pomočjo digitalnega prstnega odtisa vam lahko sledijo na različnih spletnih straneh. <a data-l10n-name="learn-more-link">Več o tem</a>
 cryptominer-tab-title = Kriptorudarji
@@ -38,14 +50,14 @@ lockwise-title = Nikoli več ne pozabite gesla
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } varno hrani vaša gesla v brskalniku.
 lockwise-header-content-logged-in = Varno hranite in sinhronizirajte svoja gesla na vseh napravah.
-open-about-logins-button = Odpri v { -brand-short-name }
+open-about-logins-button = Odpri v { -brand-short-name }u
 lockwise-no-logins-content = Prenesite aplikacijo <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> in vzemite gesla s seboj.
 turn-on-sync = Vklopi { -sync-brand-short-name } ...
     .title = Pojdi na nastavitve Synca
 manage-devices = Upravljanje naprav
 monitor-title = Bodite obveščeni o krajah podatkov
 monitor-link = Kako deluje
-monitor-header-content = Preverite { -monitor-brand-name } in poglejte, ali ste bili vpleteni v krajo podatkov ter prejemajte opozorila o novih krajah.
+monitor-header-content = Preverite s { -monitor-brand-name }jem, ali ste bili vpleteni v krajo podatkov, ter prejemajte opozorila o novih krajah.
 monitor-header-content-logged-in = { -monitor-brand-name } vas opozori, če se vaši podatki pojavijo v znani kraji podatkov
 monitor-sign-up = Prijavite se na opozorila o krajah
 auto-scan = Samodejno preverjeno danes

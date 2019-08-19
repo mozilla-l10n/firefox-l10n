@@ -746,6 +746,7 @@ content-blocking-etp-standard-desc = Uravnotežena zaščita in delovanje. Stran
 content-blocking-etp-strict-desc = Močnejša zaščita, ki pa lahko povzroči nedelovanje nekaterih strani ali vsebine.
 content-blocking-etp-custom-desc = Izberite, katere sledilce in skripte želite zavračati.
 content-blocking-private-windows = Sledilno vsebino v zasebnih oknih
+content-blocking-cross-site-tracking-cookies = Spletne sledilne piškotke
 content-blocking-social-media-trackers = Sledilce družbenih omrežij
 content-blocking-all-cookies = Vse piškotke
 content-blocking-unvisited-cookies = Piškotke neobiskanih spletnih strani
