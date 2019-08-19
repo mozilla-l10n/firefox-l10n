@@ -3,9 +3,25 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Saio-hasierak eta pasahitzak
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = Eraman pasahitzak edonora
+login-app-promo-subtitle = Eskuratu doako { -lockwise-brand-name } aplikazioa
+login-app-promo-android =
+    .alt = Eskuratu Google Play-n
+login-app-promo-apple =
+    .alt = Deskargatu App Store-an
 login-filter =
     .placeholder = Bilatu saio-hasierak
 create-login-button = Sortu saio-hasiera berria
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = { $title } orrirako webeko ikonoa
+fxaccounts-sign-in-text = Eskuratu zure pasahitzak zure beste gailuetan
+fxaccounts-sign-in-button = Hasi saioa { -sync-brand-short-name }(e)n
 fxaccounts-avatar-button =
     .title = Kudeatu kontua
 
@@ -36,6 +52,7 @@ login-list-count =
     }
 login-list-sort-label-text = Ordenatze-irizpidea:
 login-list-name-option = Izena (A-Z)
+login-list-breached-option = Datu-urratzeak izandako webguneak
 login-list-last-changed-option = Azken aldaketa
 login-list-last-used-option = Azkenekoz erabilia
 login-list-intro-title = Ez da saio-hasierarik aurkitu
@@ -48,6 +65,9 @@ login-list-item-subtitle-missing-username = (erabiltzaile-izenik ez)
 
 login-intro-heading = Gordetako saio-hasieren bila? Konfiguratu { -sync-brand-short-name }.
 login-intro-description = Saio-hasierarik gorde baduzu beste gailu bateko { -brand-product-name }(e)n, jarraian dituzu hauek hemen eskuratzeko urratsak:
+login-intro-instruction-fxa = Sortu edo hasi saioa zure { -fxaccount-brand-name } kontuan saio-hasierak gordeta dituzun gailuan
+login-intro-instruction-fxa-settings = Ziurtatu 'Saio-hasierak' kontrol-laukia hautatu duzula { -sync-brand-short-name } ezarpenetan
+login-intro-instruction-faq = Laguntza gehiago jasotzeko, bisitatu { -lockwise-brand-short-name } aplikazioaren <a data-l10n-name="faq">ohiko galderak</a>
 
 ## Login
 
@@ -79,6 +99,7 @@ login-item-time-used = Azken erabilera: { DATETIME($timeUsed, day: "numeric", mo
 
 ## Master Password notification
 
+master-password-notification-message = Idatzi zure pasahitz nagusia gordetako saio-hasiera eta pasahitzak ikusteko
 master-password-reload-button =
     .label = Hasi saioa
     .accesskey = H
