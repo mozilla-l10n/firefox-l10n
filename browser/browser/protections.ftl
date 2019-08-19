@@ -39,6 +39,16 @@ lockwise-title = Glæym aldri eit passord igjen
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } lagrar passorda dine sikkert i nettlesaren din.
 open-about-logins-button = Opne i { -brand-short-name }
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+lockwise-passwords-stored =
+    { $count ->
+        [one] Passord lagra sikkert <a data-l10n-name="lockwise-how-it-works">Slik fungerer det</a>
+       *[other] Passord lagra sikkert <a data-l10n-name="lockwise-how-it-works">Slik fungerer det</a>
+    }
+turn-on-sync = Slå på { -sync-brand-short-name }…
+    .title = Gå til innstillinger for sync
 manage-devices = Handtere einingar
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
@@ -50,6 +60,7 @@ lockwise-sync-status =
 lockwise-sync-not-syncing = Synkroniserer ikkje med andre einingar.
 monitor-title = Sjå opp for på datalekkasjer.
 monitor-link = Korleis det verkar
+monitor-header-content = Sjekk { -monitor-brand-name } for å sjå om du har vore ein del av ein datalekkasje, og få varsel om nye lekkasjar.
 monitor-header-content-logged-in = { -monitor-brand-name } åtvarar deg om informasjonen din har dukka opp i ein kjend datalekkasje
 monitor-sign-up = Registrer deg for datalekkasjevarsel
 auto-scan = Automatisk skanna i dag
@@ -78,6 +89,14 @@ info-exposed-passwords =
        *[other] Passord eksponerte frå alle lekkasjar.
     }
 full-report-link = Sjå heile rapporten på <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] Lagra innlogging kan ha blitt eksponert i ein datalekkasje. Endre dette passordet for betre sikkerheit på nettet <a data-l10n-name="lockwise-link">Vis lagra innloggingar</a>
+       *[other] Lagra innloggingar kan ha blitt eksponerte i ein datalekkasje. Endre desse passorda for betre sikkerheit på nettet <a data-l10n-name="lockwise-link">Vis lagra innloggingar</a>
+    }
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = Gå til personverninnstillingar
 # This is the title attribute describing the Lockwise card's link to about:logins
@@ -90,6 +109,20 @@ go-to-saved-logins = Gå til lagra innloggingar
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Sporing via sosiale medium
+    .aria-label =
+        { $count ->
+            [one] { $count } sosiale media-sporfølgjar ({ $percentage } %)
+           *[other] { $count } sosiale media-sporfølgjarar ({ $percentage } %)
+        }
+bar-tooltip-cookie =
+    .title = Sporingsinfokapslar på tvers av nettstadar
+    .aria-label =
+        { $count ->
+            [one] { $count } sporingsinfokapsel på tvers av nettstadar ({ $percentage } %)
+           *[other] { $count } sporingsinfokapslar på tvers av nettstadar ({ $percentage } %)
+        }
 bar-tooltip-tracker =
     .title = Sporingsinnhald
     .aria-label =
