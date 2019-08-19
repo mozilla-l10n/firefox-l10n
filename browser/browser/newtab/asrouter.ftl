@@ -94,6 +94,9 @@ cfr-doorhanger-sync-logins-header = Lopeta salasanojen unohtaminen
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Lue tämä ollessasi liikkeellä
+cfr-doorhanger-send-tab-recipe-header = Vie tämä resepti keittiöön
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Jaa tämä PDF turvallisesti

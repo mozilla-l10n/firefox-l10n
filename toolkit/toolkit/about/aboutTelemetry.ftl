@@ -77,6 +77,7 @@ about-telemetry-settings-explanation = Kaukomittaus kerää { about-telemetry-da
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Kukin informaation palanen lähetetään koottuna ”<a data-l10n-name="ping-link">pingeihin</a>”. Katselet juuri { $name }, { $timestamp }-pingiä.
 about-telemetry-ping-details-current = Kukin informaation palanen lähetetään koottuna ”<a data-l10n-name="ping-link">pingeihin</a>”. Katselet juuri nykyinen-pingiä.
+about-telemetry-data-details-current = Kukin informaation palanen lähetetään koottuna ”<a data-l10n-name="ping-link">pingeihin</a>”. Katselet juuri nykyistä dataa.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
