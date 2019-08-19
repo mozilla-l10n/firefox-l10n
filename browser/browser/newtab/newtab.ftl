@@ -165,8 +165,11 @@ newtab-empty-section-topstories = Egunean zaude jada. Etorri berriro geroago { $
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-header = Egunean zaude!
+newtab-discovery-empty-section-topstories-content = Itzuli geroago istorio gehiago aurkitzeko.
 newtab-discovery-empty-section-topstories-try-again-button = Saiatu berriro
 newtab-discovery-empty-section-topstories-loading = Kargatzen…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Kontxo! Atal hau ia-ia kargatu dugu baina ez erabat.
 
 ## Pocket Content Section.
 

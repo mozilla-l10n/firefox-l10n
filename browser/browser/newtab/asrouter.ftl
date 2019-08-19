@@ -2,8 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Gomendatutako gehigarria
+cfr-doorhanger-feature-heading = Gomendatutako eginbidea
 cfr-doorhanger-pintab-heading = Probatu hau: ainguratu fitxa
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Zergatik ari naizen hau ikusten
 cfr-doorhanger-extension-cancel-button = Une honetan ez
@@ -63,9 +70,43 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Ixteko botoia
     .title = Itxi
 
+## Protections panel
+
+cfr-protections-panel-header = Nabigatu inor atzetik izan gabe
+cfr-protections-panel-body = Mantendu zure datuak zuretzat. Lineako zure jardueraren jarraipena egiten duten elementu ohikoenetatik babesten zaitu { -brand-short-name }(e)k.
+cfr-protections-panel-link-text = Argibide gehiago
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
     .label = Nobedadeak
     .tooltiptext = Nobedadeak
 cfr-whatsnew-panel-header = Nobedadeak
+
+## Bookmark Sync
+
+cfr-doorhanger-sync-bookmarks-header = Eskuratu laster-marka hau zure telefonoan
+cfr-doorhanger-sync-bookmarks-body = Eraman zure laster-markak, pasahitzak, historia eta gehiago { -brand-product-name }(e)n saioa hasita duzun toki orotara.
+cfr-doorhanger-sync-bookmarks-ok-button = Aktibatu { -sync-brand-short-name }
+    .accesskey = A
+
+## Login Sync
+
+cfr-doorhanger-sync-logins-header = Ez galdu sekula pasahitzik berriro
+cfr-doorhanger-sync-logins-body = Gorde eta sinkronizatu zure pasahitzak modu seguruan zure gailu guztietara.
+cfr-doorhanger-sync-logins-ok-button = Aktibatu { -sync-brand-short-name }
+    .accesskey = A
+
+## Send Tab
+
+cfr-doorhanger-send-tab-recipe-header = Eraman errezeta hau sukaldera
+cfr-doorhanger-send-tab-body = Fitxa bidaltzeko aukeraren bitartez lotura hau zure telefonoarekin edo { -brand-product-name }(e)n saioa hasita duzun gailu ororekin parteka dezakezu modu errazean.
+cfr-doorhanger-send-tab-ok-button = Probatu fitxa bidaltzeko aukera
+    .accesskey = P
+
+## Firefox Send
+
+cfr-doorhanger-firefox-send-header = Partekatu PDF hau modu seguruan
+cfr-doorhanger-firefox-send-body = Mantendu zure dokumentu sentikorrak kuxkuxeroengandik seguru muturretik muturrerako zifraketarekin eta erabili ondoren desagertzen den lotura batekin.
+cfr-doorhanger-firefox-send-ok-button = Probatu { -send-brand-name }
+    .accesskey = P

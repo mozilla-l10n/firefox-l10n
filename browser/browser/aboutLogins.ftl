@@ -109,6 +109,11 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Utzi
 confirmation-dialog-dismiss-button =
     .title = Utzi
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] { -brand-product-name } erabiltzen duzun toki orotan izan nahi dituzu zure saio-hasierak? Zoaz zure { -sync-brand-short-name } aukeretara eta hautatu 'Saio-hasierak' kontrol-laukia.
+       *[other] { -brand-product-name } erabiltzen duzun toki orotan izan nahi dituzu zure saio-hasierak? Zoaz zure { -sync-brand-short-name } ezarpenetara eta hautatu 'Saio-hasierak' kontrol-laukia.
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -125,3 +130,7 @@ confirm-discard-changes-dialog-confirm-button = Baztertu
 
 ## Breach Alert notification
 
+breach-alert-text = Zure saio-hasierako datuak eguneratu zenituen azken alditik pasahitzak jakitera eman edo lapurtu egin dira webgune honetatik. Aldatu pasahitza zure kontua babesteko.
+breach-alert-link = Segurtasun-urratze honi buruzko argibide gehiago.
+breach-alert-dismiss =
+    .title = Itxi abisu hau
