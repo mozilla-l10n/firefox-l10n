@@ -8,6 +8,10 @@ protection-report-page-title = Ñemigua ñemo'ã
 graph-today = Ko árape
 cryptominer-tab-title = Criptomineros
 lockwise-title-logged-in = { -lockwise-brand-name }
+# This is the title attribute describing the graph report's link to about:settings#privacy
+go-to-privacy-settings = Eho ñemigua moĩporãme
+# This is the title attribute describing the Lockwise card's link to about:logins
+go-to-saved-logins = Eho jeikeha ñongatupyrépe
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
