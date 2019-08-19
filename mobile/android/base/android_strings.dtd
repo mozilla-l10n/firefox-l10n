@@ -301,7 +301,7 @@
 <!ENTITY pref_donottrack_summary "&brandShortName; požiada webové stránky, aby nesledovali vašu aktivitu">
 
 <!ENTITY pref_tracking_protection_enabled "Zapnutá">
-<!ENTITY pref_tracking_protection_enabled_pb "Zapnutá v režime Súkromné prehliadanie">
+<!ENTITY pref_tracking_protection_enabled_pb "Zapnutá v režime súkromného prehliadania">
 <!ENTITY pref_tracking_protection_disabled "Vypnutá">
 
 <!ENTITY pref_whats_new_notification "Novinky v aplikácii &brandShortName;">
@@ -817,7 +817,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
-<!ENTITY intent_uri_private_browsing_multiple_match_title "Ukončiť režim Súkromné prehliadanie?">
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Ukončiť režim súkromného prehliadania?">
 
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
