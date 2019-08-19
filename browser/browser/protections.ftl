@@ -34,6 +34,28 @@ graph-today = Gaur
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Aste honetan blokeatutako jarraipen-elementu mota bakoitzeko guztirako kopurua duen grafikoa.
 social-tab-title = Sare sozialetako jarraipen-elementuak
+social-tab-contant = Egiten eta ikusten duzunaren jarraipena egin ahal izateko, jarraipen-elementuak ipintzen dituzte sare sozialek beste webguneetan. Honen bitartez sare sozialetako enpresek zuri buruz dagoeneko dakitena baino gehiago jakin dezakete. <a data-l10n-name="learn-more-link">Argibide gehiago</a>
+cookie-tab-title = Guneen arteko cookie jarraipen-egileak
+tracker-tab-title = Edukiaren jarraipena
+tracker-tab-content = Webguneek kanpoko iragarkiak, bideoak eta jarraipen-kodea izan lezaketen bestelako edukiak karga ditzakete. Edukiaren jarraipena blokeatzeak guneak azkarrago kargatzen lagun dezake baina zenbait botoi, inprimaki eta saio-hasierako eremu ez ibiltzea eragin lezake. <a data-l10n-name="learn-more-link">Argibide gehiago</a>
+fingerprinter-tab-title = Hatz-marka bidezko jarraipena
+fingerprinter-tab-content = Hatz-marka bidezko jarraipenak zuri buruzko profil bat osatzen du zure nabigatzailetik eta ordenagailutik ezarpenak bilduz. Hatz-marka digital hau erabiliz, hainbat webgunetan zehar zure jarraipena egin dezakete. <a data-l10n-name="learn-more-link">Argibide gehiago</a>
+cryptominer-tab-title = Kriptomeatzariak
+cryptominer-tab-content = Kriptomeatzariek zure sistemaren konputazio-ahalmena erabiltzen dute diru digitala ustiatzeko. Script kriptomeatzariek zure bateria agortzen dute, zure ordenagailua makaltzen dute eta zure elektrizitate-faktura igo dezakete. <a data-l10n-name="learn-more-link">Argibide gehiago</a>
+lockwise-title = Ez ahaztu sekula pasahitzik berriro
+lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-header-content = { -lockwise-brand-name }(e)k zure pasahitzak nabigatzailean gordetzen ditu modu seguruan.
+lockwise-header-content-logged-in = Gorde eta sinkronizatu zure pasahitzak modu seguruan zure gailu guztietara.
+open-about-logins-button = Ireki { -brand-short-name }(e)n
+lockwise-no-logins-content = Eskuratu <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> aplikazioa zure pasahitzak edonora eramateko.
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+lockwise-passwords-stored =
+    { $count ->
+        [one] Pasahitza modu seguruan gordeta <a data-l10n-name="lockwise-how-it-works">Nola dabilen</a>
+       *[other] Pasahitzak modu seguruan gordeta <a data-l10n-name="lockwise-how-it-works">Nola dabilen</a>
+    }
 turn-on-sync = Aktibatu { -sync-brand-short-name }…
     .title = Joan sinkronizatzeko hobespenetara
 manage-devices = Kudeatu gailuak
