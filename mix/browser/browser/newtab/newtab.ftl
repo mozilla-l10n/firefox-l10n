@@ -25,10 +25,13 @@ newtab-search-box-search-the-web-input =
 
 newtab-topsites-add-search-engine-header = Chika'a ñaa nduku
 newtab-topsites-add-topsites-header = Sitio ña ta'an inu
+newtab-topsites-edit-topsites-header = Sama sitio popular
 newtab-topsites-title-label = Título
 newtab-topsites-title-input =
     .placeholder = Chaa título
 newtab-topsites-url-label = URL
+newtab-topsites-url-input =
+    .placeholder = Chaa a chisti'in iin URL
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -39,8 +42,25 @@ newtab-topsites-add-button = Chikaa
 ## Top Sites - Delete history confirmation dialog. 
 
 
+## Top Sites - Delete history confirmation dialog.
+
+
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Kuna menú
+    .aria-label = Kuna menú
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Kuna menú
+    .aria-label = Kuna menú contextual takua { $title }
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = Sama sitio yo
+    .aria-label = Sama sitio yo
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -58,6 +78,10 @@ newtab-menu-remove-bookmark = Stoo markador
 newtab-menu-bookmark = Marka
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 newtab-menu-copy-download-link = Ndatava enlace nu snuu
@@ -88,9 +112,16 @@ newtab-label-download = Snui
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = Stoo ña nikatsiku
 newtab-section-menu-move-up = Kanta kuchi
 newtab-section-menu-move-down = Kanta ninu
+
+## Section aria-labels
+
 
 ## Section Headers.
 

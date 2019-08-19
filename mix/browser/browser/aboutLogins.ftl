@@ -55,6 +55,7 @@ login-list-item-subtitle-missing-username = (Koo sivi kitsau)
 
 ## Login
 
+login-item-new-login-title = Saa nixi kitsau
 login-item-edit-button = Sama
 login-item-delete-button = Stoò
 login-item-origin-label = Dirección web
@@ -62,6 +63,8 @@ login-item-origin =
     .placeholder = https://www.example.com
 login-item-open-site-button = Lanzamiento
 login-item-username-label = Sivi siki
+login-item-username =
+    .placeholder = sivi@example.com
 login-item-copy-username-button-text = Ndatava
 login-item-copied-username-button-text = ¡Ndataviña!
 login-item-password-label = Tu'un seè
@@ -71,6 +74,7 @@ login-item-password-reveal-checkbox-hide =
     .title = Chika seé tu'un seé
 login-item-copy-password-button-text = Ndatava
 login-item-copied-password-button-text = ¡Va’a ndataviña!
+login-item-save-changes-button = Chica vaa ña samu
 login-item-save-new-button = Chika vaà
 login-item-cancel-button = Kunchatu
 login-item-time-changed = Ña samu santii: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
@@ -85,8 +89,14 @@ master-password-reload-button =
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Kunchatu
+confirmation-dialog-dismiss-button =
+    .title = Kunchatu
 confirm-delete-dialog-title = ¿A Stuù sivi yo'o?
 confirm-delete-dialog-confirm-button = Stoò
+confirm-discard-changes-dialog-confirm-button = Descartar
 
 ## Breach Alert notification
 
+breach-alert-dismiss =
+    .title = Kasi tu'un yo

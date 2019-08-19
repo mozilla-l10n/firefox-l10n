@@ -2,7 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Extensión ña ku kuncheu
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ¿Chanu ncheu tu'un yo?
 cfr-doorhanger-extension-cancel-button = VIchi nkuu
@@ -46,9 +52,26 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Kasi botón
     .title = Kasi
 
+## Protections panel
+
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
     .label = Nchi yee ña tsaa
     .tooltiptext = Nchi yee ña tsaa
 cfr-whatsnew-panel-header = Nchi yee ña tsaa
+
+## Bookmark Sync
+
+
+## Login Sync
+
+
+## Send Tab
+
+
+## Firefox Send
+
+cfr-doorhanger-firefox-send-ok-button = Kuachu'un { -send-brand-name }
+    .accesskey = K
