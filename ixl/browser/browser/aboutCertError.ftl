@@ -41,3 +41,6 @@ cert-error-expired-now = Unq'a atinb'ale' web ni k'uch unq'a texhlale' tuk' unq'
 # $hostname (String) - Hostname of the website with cert error.
 # $not-before-local-time (Date) - Certificate is not valid before this time.
 cert-error-not-yet-valid-now = Unq'a web ni k'uch unq'a texhlale' tuk' unq'a tu'aale', uva' b'a'n tatine' tu uma'l q'ii. U u'aale' tetz u { $hostname } a' kuxh la uch ib'anb'el kat tu vi'la' { $not-before-local-time }.
+# Variables:
+# $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix-link = Texhlal uva' ni yan kat: <a data-l10n-name="error-code-link">
