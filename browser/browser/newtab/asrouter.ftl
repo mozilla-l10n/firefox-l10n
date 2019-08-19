@@ -91,7 +91,7 @@ cfr-doorhanger-sync-bookmarks-ok-button = 开启{ -sync-brand-short-name }
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = 不再弄丢密码
-cfr-doorhanger-sync-logins-body = 安全地存储密码并将其同步到您的所有设备。
+cfr-doorhanger-sync-logins-body = 安全地存储密码，并同步到您的所有设备。
 cfr-doorhanger-sync-logins-ok-button = 开启{ -sync-brand-short-name }
     .accesskey = T
 
