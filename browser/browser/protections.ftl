@@ -99,7 +99,7 @@ full-report-link = Se hele rapporten på <a data-l10n-name="monitor-inline-link"
 # your localization, because it would result in the number showing twice.
 password-warning =
     { $count ->
-        [one] Lagret innlogging kan ha blitt eksponert i en datalekkasje. Endre disse passordene for bedre sikkerhet på nettet <a data-l10n-name="lockwise-link">Vis lagrede innlogginger</a>
+        [one] Lagret innlogging kan ha blitt eksponert i en datalekkasje. Endre dette passordet for bedre sikkerhet på nettet <a data-l10n-name="lockwise-link">Vis lagrede innlogginger</a>
        *[other] Lagrede innlogginger kan ha blitt eksponert i en datalekkasje. Endre disse passordene for bedre sikkerhet på nettet <a data-l10n-name="lockwise-link">Vis lagrede innlogginger</a>
     }
 # This is the title attribute describing the graph report's link to about:settings#privacy
