@@ -137,6 +137,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Da' ga'ue nagi'iaj nuguan'ànt nī da'uît ni'iāj sinïnt dàj hua riña si kuentât.">
 <!ENTITY fxa.unverified.button.label "Na'nïn &syncBrand.shortName.label; Nagi'iaj…">
 
+<!ENTITY pictureInPictureHideToggle.label "Ga'nïnj huì sa ni'io' riña sa ni'io' Naduna">
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -153,10 +156,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-<!ENTITY fxa.service.send.description "Ga'nïnj nī duyinga' nej archibô ngà 'ngō sifradô xàn' chre huaa nī 'ngō enlasê nahuij man'an.">
-<!ENTITY fxa.service.send.launch "Sa rugui' nakà &sendShortName;">
-<!ENTITY fxa.service.monitor.description "Gini'iāj sisī nu gahui si korreôt riña 'ngō sa huā a'nan'an nī nahuin ra'a man nej nuguan' atāj sna'ānj sisī huā si giran' ñû man.">
-<!ENTITY fxa.service.monitor.launch "Sa rugui' nakà &monitorShortName;">
 <!ENTITY fxa.service.sendTab.description "Nda nanè chre ga'ue ga'nïnjt rakïj ñanj gan'an riña amin 'ngō man'an aga' gayi'ìt sesiûn.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -536,6 +535,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Nana'ui' 'ngà:">
+
+<!-- LOCALIZATION NOTE (searchWithDesc.label):
+     This string prompts the user to use the list of one-click search engines in
+     the Urlbar and searchbar. -->
+<!ENTITY searchWithDesc.label         "Diû nan, nana'uì' ngà:">
+
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -896,7 +901,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.blocking.label "Garun'">
 <!ENTITY protections.notBlocking.label "Nitaj si hua ran">
 <!ENTITY protections.notBlocking.why.label "Nù huin saj?">
-
+<!ENTITY protections.fingerprinters.label "Nej da'nga ra'a">
+<!ENTITY protections.cryptominers.label "Nej kriptominêro">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -914,6 +920,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.accesskey         "Y">
 
 <!ENTITY syncSyncNowItem.label        "Gi'iaj sun nugua'ān ma">
+<!ENTITY syncSyncNowItemSyncing.label "Hìaj nagi'iaj guñanj…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Gatu' 'ngà &syncBrand.shortName.label;...">
 <!ENTITY syncReAuthItem.accesskey     "R">
@@ -934,16 +941,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Sa naga'naj">
 
-
 <!ENTITY contentBlocking.manageSettings.label "Ganikaj ñu'un sa arán riña kontenido">
+
+
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "Sa naga'naj">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Da' garánt riña daran' sa naga'naj ni ganahuit sa arán gahuin ma ya yitinj in.">
 
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Da' garánt riña daran' sa naga'naj ni ganahuit sa arán gahuin ma ya yitinj in.">
 
 <!ENTITY contentBlocking.cookies.label "Nej kôki">
 <!ENTITY contentBlocking.cookiesView.label "Nej kôki ni nej si datô sîtio">
+
+
 
 <!ENTITY contentBlocking.cryptominers.label "Kriptominêro">
 <!ENTITY contentBlocking.cryptominersView.label "Nej kriptominêro">
