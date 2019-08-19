@@ -340,10 +340,10 @@
 <!ENTITY pref_pwa "მზარდი ვებაპლიკაციები">
 <!ENTITY pref_pwa_summary "ვებაპლიკაციების მთავარ გვერდზე დამატების დაშვება">
 
-<!ENTITY tab_queue_toast_message3 "ჩანართი შენახულია &brandShortName;-ში">
+<!ENTITY tab_queue_toast_message3 "ჩანართს ინახავს &brandShortName;">
 <!ENTITY tab_queue_toast_action "ახლავე გახსნა">
 <!ENTITY tab_queue_prompt_title "რამდენიმე ბმულს ხსნით?">
-<!ENTITY tab_queue_prompt_text4 "შეინახეთ &brandShortName;-ის მომდევნო გაშვებისთვის.">
+<!ENTITY tab_queue_prompt_text4 "მათი შენახვა, ვიდრე ხელახლა გაეშვება &brandShortName;.">
 <!ENTITY tab_queue_prompt_tip_text2 "ამის შეცვლა შეგეძლებათ პარამეტრებიდან.">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
@@ -576,7 +576,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_scroll_title_bar_summary2 "&brandShortName;-ს ხელსაწყოთა ზოლის დამალვა გვერდზე მოძრაობისას">
 
 <!ENTITY pref_tab_queue_title3 "ჩანართების რიგი">
-<!ENTITY pref_tab_queue_summary4 "ბმულების შენახვა &brandShortName;-ში მომდევნო გაშვებისთვის">
+<!ENTITY pref_tab_queue_summary4 "ბმულების შენახვა, ვიდრე ხელახლა გაეშვება &brandShortName;">
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
@@ -705,8 +705,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_chromeui "ეს უსაფრთხო &brandShortName; გვერდია">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY mixed_content_blocked_all1 "&brandShortName;-მა ამ გვერდზე დაუცველი შიგთავსი შეზღუდა.">
-<!ENTITY mixed_content_blocked_some1 "&brandShortName;-მა ამ გვერდზე დაუცველი შიგთავსის ნაწილი შეზღუდა.">
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; ზღუდავს გვერდის დაუცველ ნაწილებს.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; ზღუდავს გვერდის ზოგიერთ დაუცველ ნაწილს.">
 <!ENTITY mixed_content_display_loaded1 "ამ გვერდის ნაწილები დაუცველია (მაგალითად სურათები).">
 <!ENTITY mixed_content_protection_disabled1 "თქვენ ამ გვერდზე დაუცველი სიგთავსისგან დაცვა გამორთეთ.">
 

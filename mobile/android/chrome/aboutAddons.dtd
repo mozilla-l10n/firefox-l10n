@@ -11,5 +11,5 @@
 <!ENTITY addonAction.undo                       "დაბრუნება">
 <!ENTITY addonAction.update                     "განახლება">
 
-<!ENTITY addonUnsigned.message                  "&brandShortName;-მა ეს დამატება ვერ გადაამოწმა.">
+<!ENTITY addonUnsigned.message                  "ამ დამატების დამოწმებას ვერ ახერხებს &brandShortName;.">
 <!ENTITY addonUnsigned.learnMore                "იხილეთ ვრცლად">

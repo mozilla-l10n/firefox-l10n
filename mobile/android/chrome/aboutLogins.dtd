@@ -7,4 +7,4 @@
 <!ENTITY aboutLogins.title                       "ანგარიშები">
 <!ENTITY aboutLogins.update                      "განახლება">
 <!ENTITY aboutLogins.emptyLoginText              "შეინახეთ თქვენი ანგარიშის მონაცემები უსაფრთხოდ">
-<!ENTITY aboutLogins.emptyLoginHint              "&brandShortName;-ში დამახსოვრებული შესვლები და ანგარიშების მონაცემები გამოჩნდება აქ.">
+<!ENTITY aboutLogins.emptyLoginHint              "ანგარიშის მონაცემები, რომლებსაც ინახავს &brandShortName; გამოჩნდება აქ.">
