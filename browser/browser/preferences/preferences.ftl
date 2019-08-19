@@ -395,7 +395,7 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
-home-prefs-content-header = Innhald Firefox-startside
+home-prefs-content-header = Innhald på: Firefox-startside
 home-prefs-content-description = Vel kva for innhald du vil ha på Firefox-startsida di.
 home-prefs-content-discovery-description = Innhaldsoppdaging på Firefox startside lèt deg oppdage relevante artiklar av høg kvalitet frå nettet.
 home-prefs-search-header =
