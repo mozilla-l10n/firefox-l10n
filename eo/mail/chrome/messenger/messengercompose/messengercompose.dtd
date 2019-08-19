@@ -72,19 +72,22 @@
 <!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Kopii">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "Paste">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY pasteCmd.label "Alglui">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY pasteCmd.accesskey "A">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "w">
-<!ENTITY deleteCmd.label "Delete">
-<!ENTITY deleteCmd.accesskey "d">
-<!ENTITY editRewrapCmd.label "Rewrap">
-<!ENTITY editRewrapCmd.key "R">
-<!ENTITY renameAttachmentCmd.label "Rename Attachment…">
+<!ENTITY deleteCmd.label "Forigi">
+<!ENTITY deleteCmd.accesskey "F">
+<!ENTITY editRewrapCmd.label "Faldi liniojn">
+<!ENTITY editRewrapCmd.key "l">
+<!ENTITY renameAttachmentCmd.label "Renomi kunsendaĵon…">
 <!ENTITY renameAttachmentCmd.accesskey "e">
+<!ENTITY reorderAttachmentsCmd.label "Reordigi kunsendaĵojn…">
+<!ENTITY reorderAttachmentsCmd.accesskey "o">
+<!ENTITY reorderAttachmentsCmd.key "x">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
