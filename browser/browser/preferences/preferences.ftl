@@ -733,6 +733,7 @@ content-blocking-strict-description = Protecție mai puternică, poate împiedic
 content-blocking-custom-desc = Alege ce să blochezi.
 content-blocking-private-trackers = Elemente de urmărire cunoscute numai în ferestre private
 content-blocking-third-party-cookies = Cookie-uri de urmărire de la terți
+content-blocking-social-media-trackers = Elemente de urmărire ale rețelelor sociale
 content-blocking-all-cookies = Toate cookie-urile
 content-blocking-unvisited-cookies = Cookie-uri de la site-uri nevizitate
 content-blocking-all-windows-trackers = Elemente de urmărire cunoscute în toate ferestrele
