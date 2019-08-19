@@ -19,6 +19,7 @@
 <!ENTITY paneAttachments.title    "Bylagen">
 <!ENTITY panePrivacy.title        "Privacy">
 <!ENTITY paneSecurity.title       "Feilichheid">
+<!ENTITY panePrivacySecurity.title "Privacy en Befeiliging">
 <!ENTITY paneLightning.title      "Aginda">
 <!ENTITY paneAdvanced.title       "Avansearre">
 <!ENTITY paneAccount.title        "Accounts">

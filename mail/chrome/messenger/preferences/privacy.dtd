@@ -36,3 +36,7 @@
 <!ENTITY dntTrackingNotOkay.label2 "Websites witte litte dat ik net folge wurde wol.">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
 <!ENTITY doNotTrackInfo.label "Mear ynfo oer Do Not Track">
+
+<!ENTITY doNotTrackCheck.label "Websites in ‘Net folgje’-sinjaal stjoere om litte te witten dat jo net folge wurde wol">
+<!ENTITY doNotTrackCheck.accesskey "n">
+<!ENTITY doNotTrackLearnMore.label "Mear ynfo">

@@ -706,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Sykopdracht as in map bewarje…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Berjochten selektearje">
 <!ENTITY threadColumn.label "Petear">
 <!ENTITY fromColumn.label "Fan">
 <!ENTITY recipientColumn.label "Untfanger">
@@ -729,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Selektearje kolommen om te toanen">
+<!ENTITY selectColumn.tooltip "Berjochtenseleksje omwikselje">
 <!ENTITY threadColumn2.tooltip "Berjochtpetearen toane">
 <!ENTITY fromColumn2.tooltip "Sortearje op fan">
 <!ENTITY recipientColumn2.tooltip "Sortearje op ûntfanger">

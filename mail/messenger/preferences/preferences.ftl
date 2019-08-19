@@ -2,6 +2,34 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+pane-general-title = Algemien
+category-general =
+    .tooltiptext = { pane-general-title }
+general-language-and-appearance-header = Taal en Foarmjouwing
+general-incoming-mail-header = Ynkommende e-mailberjochten:
+general-files-and-attachment-header = Bestannen en Bylagen
+general-tags-header = Labels
+general-reading-and-display-header = Lêze en werjefte
+general-updates-header = Fernijingen
+general-network-and-diskspace-header = Netwurk & Skiifromte
+general-indexing-label = Yndeksearring
+composition-category-header = Komposysje
+composition-attachments-header = Bylagen
+composition-spelling-title = Stavering
+compose-html-style-title = HTML-styl
+composition-addressing-header = Addressearring
+privacy-main-header = Privacy
+privacy-passwords-header = Wachtwurden
+privacy-junk-header = Net-winske berjochten
+privacy-data-collection-header = Gegevenssammeling en -gebrûk
+privacy-security-header = Befeiliging
+privacy-scam-detection-title = Scamdeteksje
+privacy-anti-virus-title = Antifirus
+privacy-certificates-title = Sertifikaten
+chat-pane-header = Chat
+chat-status-title = Steat
+chat-notifications-title = Notifikaasjes
+chat-pane-styling-header = Foarmjouwing
 choose-messenger-language-description = Kies de taal dy't brûkt wurdt foar de menu's, berjochten en meldingen fan { -brand-short-name }.
 manage-messenger-languages-button =
     .label = Alternativen ynstelle…
