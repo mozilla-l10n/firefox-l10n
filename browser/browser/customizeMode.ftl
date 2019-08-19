@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = 元に戻す
 customize-mode-lwthemes-my-themes =
     .value = マイテーマ
+customize-mode-touchbar-cmd =
+    .label = タッチバーをカスタマイズ...
