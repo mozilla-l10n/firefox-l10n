@@ -137,6 +137,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Sinkronizatu aurretik zure kontua egiaztatu behar duzu.">
 <!ENTITY fxa.unverified.button.label "Ireki &syncBrand.shortName.label; ezarpenak…">
 
+<!ENTITY pictureInPictureHideToggle.label "Ezkutatu bideoa beste bideo batean txandakatzeko botoia">
+<!ENTITY pictureInPictureHideToggle.accesskey "E">
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -147,12 +150,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "Hasi saioa &brandProductName;(e)n">
+<!ENTITY fxa.menu.turnOnSync.label "Aktibatu &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "Kontua">
+<!ENTITY fxa.menu.firefoxServices.label "&brandProductName; zerbitzuak">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-<!ENTITY fxa.service.send.launch "Abiarazi &sendShortName;">
-<!ENTITY fxa.service.monitor.launch "Abiarazi &monitorShortName;">
 <!ENTITY fxa.service.sendTab.description "Bidali fitxa bat berehala saioa hasita duzun edozein gailutara.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -532,6 +535,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Bilatu honekin:">
+
+<!-- LOCALIZATION NOTE (searchWithDesc.label):
+     This string prompts the user to use the list of one-click search engines in
+     the Urlbar and searchbar. -->
+<!ENTITY searchWithDesc.label         "Oraingoan, bilatu honekin:">
+
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -856,12 +865,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Baimenak">
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "Baimenen multzoa">
 <!ENTITY identity.permissionsEmpty "Ez diozu gune honi baimen berezirik eman.">
 <!ENTITY identity.permissionsReloadHint "Agian orria berritu beharko duzu aldaketek eragina izan dezaten.">
 <!ENTITY identity.permissionsPreferences.tooltip "Ireki baimenen hobespenak">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Ireki edukia blokeatzeko hobespenak">
 
 
+<!ENTITY protections.etpON.header "Jarraipenaren babes hobetua gaituta dago gune honetarako">
+<!ENTITY protections.etpOFF.header "Jarraipenaren babes hobetua desgaituta dago gune honetarako">
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Jarraipenaren babes hobetuari buruzko informazio gehiago">
 <!ENTITY protections.settings.label "Babesaren ezarpenak">
 <!ENTITY protections.report.label "Erakutsi txosten osoa">
 <!-- LOCALIZATION NOTE:
@@ -889,12 +904,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Hauek blokeatuz gero, zenbait webgunetako elementuak apur litezke. Jarraipen-elementurik gabe, baliteke zenbait botoi, inprimaki eta saio-hasiera eremu ez ibiltzea.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Babesak desaktibatuz gero, jarraipen-elementu guztiak onartuko dira gune honetan. Webgunearen zenbait eginbide hobe litzake halaber.">
 <!ENTITY protections.socialMediaTrackers.label "Sare sozialetako jarraipen-elementuak">
+<!ENTITY protections.crossSiteTrackingCookies.label "Guneen arteko cookie jarraipen-egileak">
+<!ENTITY protections.trackingContent.label "Edukiaren jarraipena">
 <!ENTITY protections.fingerprinters.label "Hatz-marka bidezko jarraipena">
 <!ENTITY protections.cryptominers.label "Kriptomeatzariak">
 <!ENTITY protections.noTrackersFound.description "&brandShortName;(r)i ezagunak zaizkion jarraipen-elementurik ez da aurkitu orri honetan.">
 
-
-<!ENTITY protections.manageProtectionSettings.label "Kudeatu babesaren ezarpenak">
+<!ENTITY protections.crossSiteTrackingCookies.description "Cookie hauek guneen artean jarraitzen zaituzte zure lineako jarduerari buruzko datuak biltzeko. Hirugarrenek ezartzen dituzte hauek, adibidez iragarleen eta estatistiken enpresek.">
+<!ENTITY protections.cryptominers.description "Kriptomeatzariek zure sistemaren konputazio-ahalmena erabiltzen dute diru digitala ustiatzeko. Script kriptomeatzariek zure bateria agortzen dute, zure ordenagailua makaltzen dute eta zure elektrizitate-faktura igo dezakete.">
+<!ENTITY protections.fingerprinters.description "Hatz-marka bidezko jarraipenak zuri buruzko profil bat osatzen du zure nabigatzailetik eta ordenagailutik ezarpenak bilduz. Hatz-marka digital hau erabiliz, hainbat webgunetan zehar zure jarraipena egin dezakete.">
+<!ENTITY protections.trackingContent.description "Webguneek kanpoko iragarkiak, bideoak eta jarraipen-kodea izan lezaketen bestelako edukiak karga ditzakete. Edukiaren jarraipena blokeatzeak guneak azkarrago kargatzen lagun dezake baina zenbait botoi, inprimaki eta saio-hasierako eremu ez ibiltzea eragin lezake.">
+<!ENTITY protections.socialMediaTrackers.description "Egiten eta ikusten duzunaren jarraipena egin ahal izateko, jarraipen-elementuak ipintzen dituzte sare sozialek beste webguneetan. Honen bitartez sare sozialetako enpresek zuri buruz dagoeneko dakitena baino gehiago jakin dezakete.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -932,17 +952,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Jarraipen-elementuak">
 
-
 <!ENTITY contentBlocking.manageSettings.label "Kudeatu edukia blokeatzea">
+
+<!ENTITY contentBlocking.trackingProtection4.label "Edukiaren jarraipena">
+
+<!ENTITY contentBlocking.manageSettings2.label "Kudeatu babesaren ezarpenak">
 <!ENTITY contentBlocking.manageSettings.accesskey "K">
 
 <!ENTITY contentBlocking.trackersView.label "Jarraipen-elementuak">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Jarraipen-elementu guztiak blokeatzeko, ezarri eduki-blokeo zorrotza.">
 
-<!ENTITY contentBlocking.socialblock.label "Sare sozialetako jarraipen-elementuak">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Jarraipen-elementu guztiak blokeatzeko, ezarri eduki-blokeo zorrotza.">
 
 <!ENTITY contentBlocking.cookies.label "Cookieak">
 <!ENTITY contentBlocking.cookiesView.label "Cookieak eta guneetako datuak">
+
+<!ENTITY contentBlocking.socialblock.label "Sare sozialetako jarraipen-elementuak">
+
+<!ENTITY contentBlocking.cookies2.label "Guneen arteko cookie jarraipen-egileak">
 
 <!ENTITY contentBlocking.cryptominers.label "Kriptomeatzariak">
 <!ENTITY contentBlocking.cryptominersView.label "Kriptomeatzariak">
@@ -954,6 +980,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Eman arazoen berri">
 <!ENTITY contentBlocking.breakageReportView2.description "Edukia blokeatzeak arazoak sor ditzake zenbait webgunerekin. Arazoen berri ematen duzunean, &brandShortName; guztiontzat hobetzen laguntzen duzu. (Honekin batera URL bat eta zure nabigatzaile-ezarpenei buruzko informazioa bidaliko da Mozillara).">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Argibide gehiago">
+<!ENTITY contentBlocking.breakageReportView.title "Eman hondatutako gunearen berri">
+<!ENTITY contentBlocking.breakageReportView3.description "Edukia blokeatzeak arazoak sor ditzake zenbait webgunerekin. Arazoen berri ematen duzunean, &brandShortName; guztiontzat hobetzen laguntzen duzu. Honekin batera URL bat eta zure nabigatzaile-ezarpenei buruzko informazioa bidaliko da Mozillara.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Argibide gehiago">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URLa">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Zein arazo izan dituzu? (Aukerakoa)">
