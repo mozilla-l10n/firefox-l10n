@@ -57,3 +57,13 @@ rcwn-avg-long = Longa mezumo
 rcwn-std-dev-long = Longa norma devio
 rcwn-cache-slow = Nombro de malrapida staplaj aliroj
 rcwn-cache-not-slow = Nombro de ne malrapidaj staplaj aliroj
+networkid = Identigilo reta
+networkid-id = Identigilo reta
+
+## Link is intended as "network link"
+
+networkid-isUp = Ligo aktiva
+networkid-statusKnown = Konata stato de ligo
+
+
+

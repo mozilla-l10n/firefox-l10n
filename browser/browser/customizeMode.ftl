@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Malfari
 customize-mode-lwthemes-my-themes =
     .value = Miaj etosoj
+customize-mode-touchbar-cmd =
+    .label = Personecigi la tuŝan strion…
