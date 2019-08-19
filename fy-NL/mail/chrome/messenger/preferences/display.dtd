@@ -49,6 +49,7 @@
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Lêze">
 <!ENTITY display.caption                  "Werjefte">
+<!ENTITY displayName.label                "Werjeftenamme:">
 <!ENTITY showCondensedAddresses.label     "Fan minsken yn myn adresboek allinnich werjeftenamme toane">
 <!ENTITY showCondensedAddresses.accesskey "m">
 

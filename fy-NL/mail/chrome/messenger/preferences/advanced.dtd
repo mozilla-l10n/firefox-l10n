@@ -122,3 +122,8 @@
 <!ENTITY manageCertificates.accesskey "S">
 <!ENTITY viewSecurityDevices.label "Befeiligingsapparaten">
 <!ENTITY viewSecurityDevices.accesskey "B">
+
+<!ENTITY manageCertificates2.label "Sertifikaten beheare…">
+<!ENTITY manageCertificates2.accesskey "b">
+<!ENTITY viewSecurityDevices2.label "Befeiligingsapparaten…">
+<!ENTITY viewSecurityDevices2.accesskey "a">

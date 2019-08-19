@@ -41,6 +41,7 @@ policy-EnableTrackingProtection = Ynhâldsblokkearring yn- of útskeakelje en op
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Utwreiding ynstallearje, de-ynstallearje of beskoattelje. De opsje foar ynstallearjen brûkt URL’s of paden as parameters. De opsjes foar de-ynstallearje en beskoattelje brûke útwreidings-ID’s.
+policy-ExtensionSettings = Alle aspekten fan ynstallaasje fan útwreidingen beheare.
 policy-ExtensionUpdate = Automatyske útwreidings-fernijingen yn- of útskeakelje.
 policy-HardwareAcceleration = Wannear false, hardwarefersnelling útskeakelje.
 policy-InstallAddonsPermission = Tastean dat bepaalde websites add-ons ynstallearje.
