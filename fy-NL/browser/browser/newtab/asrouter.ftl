@@ -90,6 +90,13 @@ cfr-doorhanger-sync-bookmarks-body = Nim jo blêdwizers, wachtwurden, skiednis e
 cfr-doorhanger-sync-bookmarks-ok-button = { -sync-brand-short-name } ynskeakelje
     .accesskey = y
 
+## Login Sync
+
+cfr-doorhanger-sync-logins-header = Ferlies nea mear in wachtwurd
+cfr-doorhanger-sync-logins-body = Bewarje en syngronisearje jo wachtwurden feilich op al jo apparaten.
+cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name } ynskeakelje
+    .accesskey = y
+
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Dit ûnderweis lêze
