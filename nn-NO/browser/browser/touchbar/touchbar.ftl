@@ -7,7 +7,7 @@
 back = Tilbake
 forward = Fram
 reload = Oppdater
-home = Heim
+home = Start
 fullscreen = Fullskjerm
 find = Søk
 new-tab = Ny fane
