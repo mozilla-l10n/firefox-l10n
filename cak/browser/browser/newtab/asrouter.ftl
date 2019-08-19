@@ -73,6 +73,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Katok pa k'amaya'l akuchi' man yatoqäx ta
+cfr-protections-panel-body = Tik'oje' pan aq'a' ri awetamab'al. { -brand-short-name } yatruto' pa kiq'a' ri ojqanela' at kojqan toq yatok pa k'amab'ey.
 cfr-protections-panel-link-text = Tetamäx ch'aqa' chik
 
 ## What's New toolbar button and panel

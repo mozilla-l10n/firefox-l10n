@@ -34,6 +34,7 @@ graph-today = Wakami
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Wachib'äl nuk'üt ronojel ri kajilab'al kiwäch ojqanela' eq'aton re wuqq'ij re'.
 social-tab-title = Kojqanela' aj Winäq taq K'amab'ey
+social-tab-contant = Ri aj winäq taq k'amab'ey yekiya' taq ojqanela' pa ch'aqa' chik taq ajk'amaya'l ruxaq richin nikojqaj ri nasamajij, natz'ët chuqa' natzu' pan k'amab'ey. Ri nuya' q'ij chi ke ri ajk'ayij taq moloj richin aj winäq k'amab'ey, niketamaj chawij, man xa xe ta ri nakomonij pa ri ruwäch ab'i' richin aj winäq k'amab'ey. <a data-l10n-name="learn-more-link">Tetamäx ch'aqa' chik</a>
 cookie-tab-title = Kikuki Rojqanela' Xoch'in taq Ruxaq
 tracker-tab-title = Rojqanem Rupam
 tracker-tab-content = Ri ajk'amaya'l ruxaq yetikïr yekijotob'a' taq eltzijol, taq silowäch chuqa' ch'aqa' chik taq wachinäq kik'wan rub'itz'ib' ojqanem. Toq yeq'at kojqanem rupam, nito'on chi anin yesamäj ri taq ruxaq, xa xe chi jujun taq pitz'ib'äl, taq nojwuj chuqa' taq k'ojlib'äl rik'in jub'a' man ütz ta yesamäj. <a data-l10n-name="learn-more-link">Tetamäx ch'aqa' chik</a>
