@@ -255,6 +255,12 @@ shortcuts-modifier-other = Nezabudnite vložiť aj Ctrl alebo Alt
 shortcuts-invalid = Neplatná kombinácia klávesov
 shortcuts-letter = Napíšte písmeno
 shortcuts-system = Prepísať skratku aplikácie { -brand-short-name } nie je možné
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Duplicitná skratka
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = Skratka { $shortcut } sa používa na viacerých miestach. To môže spôsobiť jej neočakávané správanie.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on

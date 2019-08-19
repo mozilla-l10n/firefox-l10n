@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Výnimky - Blokovanie obsahu
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Na týchto stránkach ste vypli blokovanie obsahu.
+permissions-exceptions-etp-window =
+    .title = Výnimky pre rozšírenú ochranu pred sledovaním
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Na týchto stránkach ste vypli ochranu pred sledovaním.
 
 ## Exceptions - Cookies
 
