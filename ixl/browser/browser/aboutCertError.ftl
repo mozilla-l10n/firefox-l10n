@@ -30,3 +30,14 @@ cert-error-domain-mismatch-single = Unq'a atinb'ala' vaa' ni chit tootzi moj at 
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
 cert-error-domain-mismatch-single-nolink = Unq'a atinb'ala' vaa' ni chit tootzi moj at tu'aal { -brand-short-name } ye' kuxh ak'ujb'a' ak'u'l ti'  uve' ni b'anb'en uma'l u'aal uva' jit b'a'n te u { $hostname }. U tu'aale' uve' at itxa'k vatz kuxh u { $alt-name }
+# Variables:
+# $subject-alt-names (String) - Alternate domain names for which the cert is valid.
+cert-error-domain-mismatch-multiple = Jank'al chit unq'a web ni chit tootzi kam b'an ta'n tuk' unq'a tu'aale' { -brand-short-name } ye' ni k'ujb'a' ik'u'l ti' unq'a vaa' tan ye'l tu'aal at ti jikil te u { $hostname } u tu'aale' a' kuxh b'a'n kat vatz unq'a b'ii ila': { $subject-alt-names }
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = Unq'a atinb'ale' web ni k'uch unq'a texhlale' tuk' unq'a tu'aale', uva' b'a'n tatine' tu uma'l tachul q'ii. U u'aale' tetz u { $hostname } kat ya' ve't ib'anb'ele' tu { $not-after-local-time }.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = Unq'a web ni k'uch unq'a texhlale' tuk' unq'a tu'aale', uva' b'a'n tatine' tu uma'l q'ii. U u'aale' tetz u { $hostname } a' kuxh la uch ib'anb'el kat tu vi'la' { $not-before-local-time }.
