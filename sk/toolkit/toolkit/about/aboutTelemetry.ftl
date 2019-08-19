@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = Zdroj údajov pre ping:
 about-telemetry-show-current-ping-data = Aktuálne údaje príkazu ping
+about-telemetry-show-current-data = Aktuálne údaje
 about-telemetry-show-archived-ping-data = Archivované údaje príkazu ping
 about-telemetry-show-subsession-data = Zobraziť údaje sub-relácie
 about-telemetry-choose-ping = Zvoľte ping:

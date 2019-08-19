@@ -2,8 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Odporúčané rozšírenie
+cfr-doorhanger-feature-heading = Odporúčaná funkcia
 cfr-doorhanger-pintab-heading = Vyskúšajte pripnúť kartu
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Prečo sa mi toto zobrazuje
 cfr-doorhanger-extension-cancel-button = Teraz nie
@@ -64,3 +71,45 @@ cfr-doorhanger-bookmark-fxa-link-text = Synchronizujte svoje záložky…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tlačidlo Zavrieť
     .title = Zavrieť
+
+## Protections panel
+
+cfr-protections-panel-header = Nenechajte sa pri prehliadaní sledovať
+cfr-protections-panel-body = { -brand-short-name } vás chráni pred mnohými sledovacími prvkami, ktoré zbierajú informácie o tom, čo robíte na internete.
+cfr-protections-panel-link-text = Ďalšie informácie
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Čo je nové
+    .tooltiptext = Čo je nové
+cfr-whatsnew-panel-header = Čo je nové
+
+## Bookmark Sync
+
+cfr-doorhanger-sync-bookmarks-header = Zdieľajte túto záložku aj do svojho telefónu
+cfr-doorhanger-sync-bookmarks-body = Majte svoje záložky, heslá, históriu prehliadania a ďalšie vždy po ruke. Prihláste sa do aplikácie { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = Zapnúť { -sync-brand-short-name }
+    .accesskey = Z
+
+## Login Sync
+
+cfr-doorhanger-sync-logins-header = Už žiadne zabudnuté heslá
+cfr-doorhanger-sync-logins-body = Ukladajte a synchronizujte heslá bezpečne naprieč svojimi zariadeniami.
+cfr-doorhanger-sync-logins-ok-button = Zapnúť { -sync-brand-short-name }
+    .accesskey = Z
+
+## Send Tab
+
+cfr-doorhanger-send-tab-header = Prečítajte si tento článok aj na cestách
+cfr-doorhanger-send-tab-recipe-header = Vezmite si tento recept do kuchyne
+cfr-doorhanger-send-tab-body = Odosielanie kariet funguje ako jednoduché zdieľanie odkazov do vášho telefónu alebo kamkoľvek, kde ste prihlásení v aplikácii { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Vyskúšajte odosielanie kariet
+    .accesskey = o
+
+## Firefox Send
+
+cfr-doorhanger-firefox-send-header = Zdieľajte bezpečne toto PDF
+cfr-doorhanger-firefox-send-body = Zdieľajte svoje dokumenty bez toho, aby vám niekto nazeral cez plece - ochrana pomocou end-to-end šifrovania a odkazov s obmedzenou platnosťou.
+cfr-doorhanger-firefox-send-ok-button = Vyskúšajte { -send-brand-name }
+    .accesskey = V

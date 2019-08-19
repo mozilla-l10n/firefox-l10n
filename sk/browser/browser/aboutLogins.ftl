@@ -3,10 +3,27 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Prihlasovacie údaje
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = Vezmite si svoje heslá so sebou
+login-app-promo-subtitle = Prevezmite si bezplatnú aplikáciu { -lockwise-brand-name }
+login-app-promo-android =
+    .alt = Prevziať z Obchodu Play
+login-app-promo-apple =
+    .alt = Prevziať z App Store
 login-filter =
     .placeholder = Hľadať
 create-login-button = Nové prihlasovacie údaje
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Ikona { $title }
 fxaccounts-sign-in-text = Synchronizujte svoje heslá aj do ostatných zariadení
+fxaccounts-sign-in-button = Prihlásiť sa do služby { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = Správa účtu
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -36,9 +53,11 @@ login-list-count =
     }
 login-list-sort-label-text = Zoradiť podľa:
 login-list-name-option = názvu (A-Z)
+login-list-breached-option = Stránky, na ktorých došlo k úniku dát
 login-list-last-changed-option = poslednej úpravy
 login-list-last-used-option = posledného použitia
 login-list-intro-title = Nenašli sa žiadne prihlasovacie údaje
+login-list-intro-description = Tu sa zobrazia prihlasovacie údaje uložené v aplikácii { -brand-product-name }.
 login-list-item-title-new-login = Nové prihlasovacie údaje
 login-list-item-subtitle-new-login = Zadajte svoje prihlasovacie údaje
 login-list-item-subtitle-missing-username = (žiadne používateľské meno)
@@ -94,3 +113,5 @@ confirm-delete-dialog-confirm-button = Odstrániť
 ## Breach Alert notification
 
 breach-alert-link = Ďalšie informácie o tomto úniku.
+breach-alert-dismiss =
+    .title = Zavrieť toto upozornenie

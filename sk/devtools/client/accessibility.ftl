@@ -6,9 +6,14 @@
 ### These strings are used inside the Accessibility panel.
 
 accessibility-learn-more = Ďalšie informácie
+accessibility-text-label-header = Textové popisy a názvy
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
+accessibility-warning =
+    .alt = Varovanie
+accessibility-fail =
+    .alt = Chyba
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has an accessibility issue
