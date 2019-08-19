@@ -90,6 +90,13 @@ cfr-doorhanger-sync-bookmarks-body = Neem uw bladwijzers, wachtwoorden, geschied
 cfr-doorhanger-sync-bookmarks-ok-button = { -sync-brand-short-name } inschakelen
     .accesskey = i
 
+## Login Sync
+
+cfr-doorhanger-sync-logins-header = Verlies nooit meer een wachtwoord
+cfr-doorhanger-sync-logins-body = Bewaar en synchroniseer uw wachtwoorden veilig op al uw apparaten.
+cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name } inschakelen
+    .accesskey = i
+
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Dit onderweg lezen
