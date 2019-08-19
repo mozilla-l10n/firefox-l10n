@@ -704,6 +704,7 @@ content-blocking-cryptominers = ਕ੍ਰਿਪਟੋ-ਮਾਈਨਰ
 content-blocking-fingerprinters = ਫਿੰਗਰਪਰਿੰਟਰ
 content-blocking-warning-title = ਧਿਆਨ ਰੱਖੋ!
 content-blocking-learn-how = ਸਿੱਖੋ ਕਿ ਕਿਵੇਂ
+content-blocking-warning-learn-how = ਹੋਰ ਸਿੱਖੋ
 content-blocking-reload-tabs-button =
     .label = ਸਾਰੀਆਂ ਟੈਬਾਂ ਮੁੜ-ਲੋਡ ਕਰੋ
     .accesskey = R
