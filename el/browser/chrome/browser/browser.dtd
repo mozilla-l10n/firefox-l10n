@@ -949,8 +949,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Αναφορά προβλημάτων">
 <!ENTITY contentBlocking.breakageReportView2.description "Η Φραγή περιεχομένου μπορεί να προκαλέσει προβλήματα με ορισμένες ιστοσελίδες. Όταν αναφέρετε προβλήματα, θα βοηθήσετε στη βελτίωση του &brandShortName; για όλους. (Θα αποσταλεί ένα URL, καθώς και πληροφορίες για τις ρυθμίσεις του προγράμματος περιήγησής σας στη Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Μάθετε περισσότερα">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Μάθετε περισσότερα">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Τι προβλήματα αντιμετωπίσατε; (Προαιρετικό)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Προαιρετικό: Περιγράψτε το πρόβλημα">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Αποστολή αναφοράς">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Ακύρωση">
 
