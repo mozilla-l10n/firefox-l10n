@@ -245,6 +245,12 @@ shortcuts-modifier-other = Kontuan hartu Ktrl edo Alt
 shortcuts-invalid = Konbinazio baliogabea
 shortcuts-letter = Idatzi letra bat
 shortcuts-system = Ezin da { -brand-short-name }(r)en lasterbidea gainidatzi
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Bikoiztutako lasterbidea
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } behin baino gehiagotan ari da erabiltzen lasterbide gisa. Bikoiztutako lasterbideek espero gabeko portaera eragin lezakete.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
