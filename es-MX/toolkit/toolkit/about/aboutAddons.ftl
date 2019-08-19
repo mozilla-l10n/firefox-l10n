@@ -240,12 +240,27 @@ discopane-intro =
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Algunas de estas recomendaciones son personalizadas. Se basan complementos instaladas, preferencias de tu perfil y estadísticas de uso.
 discopane-notice-learn-more = Saber más
+install-theme-button = Instalar tema
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Administrar
+find-more-addons = Encuentra más complementos
 
 ## Add-on actions
 
+report-addon-button = Denunciar
 remove-addon-button = Eliminar
 disable-addon-button = Deshabilitar
 enable-addon-button = Habilitar
+expand-addon-button = Más opciones
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Opciones
+       *[other] Preferencias
+    }
+details-addon-button = Detalles
+release-notes-addon-button = Informe de novedades
+permissions-addon-button = Permisos
 addons-enabled-heading = Habilitados
 addons-disabled-heading = Deshabilitado
 addon-detail-author-label = Autor
@@ -257,4 +272,20 @@ addon-name-disabled = { $name } (deshabilitado)
 
 ## Pending uninstall message bar
 
+pending-uninstall-undo-button = Deshacer
+addon-detail-updates-label = Permitir actualizaciones automáticas
+addon-detail-updates-radio-default = Predeterminado
+addon-detail-updates-radio-on = Activado
+addon-detail-updates-radio-off = Desactivado
+addon-detail-update-check-label = Buscar actualizaciones
+install-update-button = Actualizar
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Permitido en ventanas privadas
+addon-detail-private-browsing-allow = Permitir
+addon-detail-private-browsing-disallow = No permitir
+available-updates-heading = Actualizaciones disponibles
+recent-updates-heading = Actualizaciones recientes
+release-notes-loading = Cargando…
 recommended-extensions-heading = Complementos recomendados

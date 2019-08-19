@@ -137,6 +137,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Deberás verificar tu cuenta antes de poder usar sync.">
 <!ENTITY fxa.unverified.button.label "Abrir las preferencias de &syncBrand.shortName.label;…">
 
+<!ENTITY pictureInPictureHideToggle.label "Ocultar interruptor de imagen superpuesta">
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -153,6 +156,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "Envía al instante una pestaña a cualquier dispositivo donde hayas iniciado sesión.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -531,6 +535,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Buscar con:">
+
+<!-- LOCALIZATION NOTE (searchWithDesc.label):
+     This string prompts the user to use the list of one-click search engines in
+     the Urlbar and searchbar. -->
+<!ENTITY searchWithDesc.label         "Esta vez, buscar con:">
+
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -805,15 +815,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label2)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Seguridad de la conexión">
 
+<!ENTITY identity.connectionSecure2 "Conexión segura">
 <!ENTITY identity.connectionNotSecure "La conexión no es segura">
+<!ENTITY identity.connectionNotSecureSecurityView "No se estableció una conexión segura con este sitio.">
 <!ENTITY identity.connectionFile "Esta página está almacenada en tu computadora.">
 <!ENTITY identity.connectionVerified2 "Estás conectado de forma segura a este sitio, perteneciente a:">
+<!ENTITY identity.connectionVerified3 "Se estableció una conexión segura con este sitio.">
 <!ENTITY identity.connectionInternal "Esta es un página &brandShortName; segura.">
 <!ENTITY identity.extensionPage "Esta página se carga desde una extensión.">
 <!ENTITY identity.insecureLoginForms2 "Inicios de sesión ingresados en esta página pueden ser peligrosos.">
 <!ENTITY identity.customRoot "Conexión verificada por un emisor de certificados que Mozilla no reconoce.">
 
+<!ENTITY identity.evOwnerLabel "Sitio propiedad de:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; bloqueó partes de esta página que no eran seguras.">
@@ -850,24 +865,47 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Permisos">
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "Permisos establecidos">
 <!ENTITY identity.permissionsEmpty "No tienes permitido en este sitio web ningún permiso especial.">
 <!ENTITY identity.permissionsReloadHint "Puede que tengas que recargar la página para que se apliquen los cambios.">
 <!ENTITY identity.permissionsPreferences.tooltip "Abrir preferencias de permisos">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Abrir preferencias de bloqueo de contenido">
 
 
+<!ENTITY protections.etpON.header "La protección antirrastreo mejorada está ACTIVADA en este sitio">
+<!ENTITY protections.etpOFF.header "La protección antirrastreo mejorada está DESACTIVADA en este sitio">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Más información sobre la protección antirrastreo mejorada">
+<!ENTITY protections.settings.label "Configuración de protección">
+<!ENTITY protections.report.label "Mostrar el reporte completo">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "¿No funciona el sitio?">
+<!ENTITY protections.siteNotWorkingView.title "¿No funciona el sitio?">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Desactiva las protecciones si experimentas problemas con:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Campos de inicio de sesión">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Formularios">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Pagos">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Comentarios">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Videos">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "¿El sitio sigue sin funcionar aun después de desactivar las protecciones?">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Envía un reporte">
 
-
+<!ENTITY protections.blocking.label "Bloqueando">
+<!ENTITY protections.notBlocking.label "No bloqueando">
+<!ENTITY protections.notBlocking.why.label "¿Por qué?">
+<!ENTITY protections.socialMediaTrackers.label "Rastreadores de red social">
+<!ENTITY protections.crossSiteTrackingCookies.label "Cookies de rastreo multisitio">
+<!ENTITY protections.trackingContent.label "Contenido de rastreo">
+<!ENTITY protections.fingerprinters.label "Huellas dactilares">
+<!ENTITY protections.cryptominers.label "Criptomineros">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -906,16 +944,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Rastreadores">
 
-
 <!ENTITY contentBlocking.manageSettings.label "Administrar el bloqueo de contenido">
+
+<!ENTITY contentBlocking.trackingProtection4.label "Contenido de rastreo">
+
+<!ENTITY contentBlocking.manageSettings2.label "Administrar ajustes de protección">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "Rastreadores">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Para bloquear todos los rastreadores, establece el bloqueo de contenido como “Estricto”.">
 
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Para bloquear todos los rastreadores, establece el bloqueo de contenido como “Estricto”.">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies y datos del sitio">
+
+<!ENTITY contentBlocking.socialblock.label "Rastreadores de redes sociales">
+
+<!ENTITY contentBlocking.cookies2.label "Cookies de rastreo de sitios cruzados">
 
 <!ENTITY contentBlocking.cryptominers.label "Criptomineros">
 <!ENTITY contentBlocking.cryptominersView.label "Criptomineros">
@@ -927,8 +972,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Reportar problemas">
 <!ENTITY contentBlocking.breakageReportView2.description "Bloqueo de contenido puede causar problemas con algunos sitios. Cuando reportas problemas, ayudas a mejorar &brandShortName; para todos. (Esto enviará la URL asi como información de configuración del navegador a Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Saber más">
+<!ENTITY contentBlocking.breakageReportView.title "Informar de un sitio no funcional">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Más información">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "¿Qué problemas tuviste? (Opcional)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Opcional: describe el problema">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Enviar reporte">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Cancelar">
 

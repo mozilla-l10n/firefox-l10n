@@ -2,6 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+graph-week-summary =
+    { $count ->
+        [one] { -brand-short-name } bloqueó { $count } rastreador en la última semana
+       *[other] { -brand-short-name } bloqueó { $count } rastreadores en la última semana
+    }
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
+# earliest date recorded in the database.
+graph-total-summary =
+    { $count ->
+        [one] { $count } rastreador bloquedo desde { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+       *[other] { $count } rastreadores bloqueados desde { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+    }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -32,6 +48,15 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } guarda de manera segura tus contraseñas en el navegador.
 lockwise-header-content-logged-in = Almacena y sincroniza tus contraseñas en todos tus dispositivos.
 open-about-logins-button = Abrir en { -brand-short-name }
+lockwise-no-logins-content = Obtén la app <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> para tener tus contraseñas en cualquier lugar.
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+lockwise-passwords-stored =
+    { $count ->
+        [one] Contraseña almacenada con seguridad <a data-l10n-name="lockwise-how-it-works">cómo funciona</a>
+       *[other] Contraseñas almacenadas con seguridad <a data-l10n-name="lockwise-how-it-works">cómo funciona</a>
+    }
 turn-on-sync = Activar { -sync-brand-short-name }…
     .title = Ir a las preferencias de sincronización
 manage-devices = Administrar dispositivos
@@ -45,7 +70,35 @@ lockwise-sync-status =
 lockwise-sync-not-syncing = No se está sincronizando a otros dispositivos.
 monitor-title = Mantente atento a las fugas de datos
 monitor-link = Cómo funciona
+monitor-header-content = Mira el { -monitor-brand-name } para corroborar si fuiste víctima de una filtración de datos y recibe alertas sobre nuevas filtraciones.
+monitor-header-content-logged-in = { -monitor-brand-name } te avisa cuando tu información aparezca en una filtración de datos conocida.
+monitor-sign-up = Regístrate para recibir alertas de filtraciones
 auto-scan = Analizado automáticamente hoy
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-addresses =
+    { $count ->
+        [one] Dirección de correo siendo monitoreada.
+       *[other] Direcciones de correo siendo monitoreadas.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches =
+    { $count ->
+        [one] Filtración de datos ha expuesto tu información.
+       *[other] Filtraciones de datos han expuesto tu información.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords =
+    { $count ->
+        [one] Contraseña mostrada en todas las filtraciones.
+       *[other] Contraseñas mostradas en todas las filtraciones.
+    }
+full-report-link = Ver reporte completo en <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = Ir a la configuración de privacidad
 # This is the title attribute describing the Lockwise card's link to about:logins
