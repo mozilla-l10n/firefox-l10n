@@ -99,6 +99,13 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Ακύρωση
 confirmation-dialog-dismiss-button =
     .title = Ακύρωση
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Άνοιγμα επιλογών { -sync-brand-short-name }
+           *[other] Άνοιγμα προτιμήσεων { -sync-brand-short-name }
+        }
+    .accesskey = Ά
 confirm-delete-dialog-title = Διαγραφή σύνδεσης;
 confirm-delete-dialog-message = Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
 confirm-delete-dialog-confirm-button = Διαγραφή

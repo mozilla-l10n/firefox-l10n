@@ -72,6 +72,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
+cfr-protections-panel-header = Περιήγηση χωρίς παρακολούθηση
 cfr-protections-panel-link-text = Μάθετε περισσότερα
 
 ## What's New toolbar button and panel
