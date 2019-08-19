@@ -2,9 +2,39 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-logins-page-title = Kitsa tsi cha sivu
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-android =
+    .alt = Ndanii nu Google Play
+login-app-promo-apple =
+    .alt = Snuu nu App Store
+login-filter =
+    .placeholder = Nduku nixi kitsana
+create-login-button = Saa nixi kitsau
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Favicon para { $title }
+fxaccounts-sign-in-text = Nduku contraseñaku takua kuachu'un inka dispositivo
+fxaccounts-sign-in-button = Kitsa nu { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = Administrar Kuenta
 
 ## The ⋯ menu that is in the top corner of the page
 
+menu =
+    .title = Kuna menú
+menu-menuitem-preferences =
+    { PLATFORM() ->
+        [windows] Opciones
+       *[other] Preferencias
+    }
+menu-menuitem-feedback = Tachu'un tu'un
+menu-menuitem-android-app = { -lockwise-brand-short-name } Kuachu'un tsi Android
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } Cuachu'un tsi iPhone cha iPad
 
 ## Login List
 
@@ -16,7 +46,12 @@ login-list-count =
 login-list-sort-label-text = Ntachi yuku
 login-list-name-option = Sivi (A-Z)
 login-list-last-changed-option = Ña samu sa ntii
+login-list-last-used-option = Chachu'un sa nti'i
 login-list-item-title-new-login = Ktisaa Tsa'a
+login-list-item-subtitle-missing-username = (Koo sivi kitsau)
+
+## Introduction screen
+
 
 ## Login
 
@@ -47,8 +82,11 @@ login-item-time-used = Ntsuana sa ntii: { DATETIME($timeUsed, day: "numeric", mo
 master-password-reload-button =
     .label = Kivii
     .accesskey = K
+
+## Dialogs
+
 confirm-delete-dialog-title = ¿A Stuù sivi yo'o?
-confirm-delete-dialog-dismiss-button =
-    .title = Kunchatu
-confirm-delete-dialog-cancel-button = Kunchatu
 confirm-delete-dialog-confirm-button = Stoò
+
+## Breach Alert notification
+
