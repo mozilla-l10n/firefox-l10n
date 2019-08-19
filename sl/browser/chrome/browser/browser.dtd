@@ -901,7 +901,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.blocking.label "Zavrnjeno">
 <!ENTITY protections.notBlocking.label "Nezavrnjeno">
 <!ENTITY protections.notBlocking.why.label "Zakaj?">
-<!ENTITY protections.notBlocking.why.etpOn.tooltip "Zavračane te vsebine lahko povzroči nedelovanje nekaterih delov spletnih strani. Brez sledilcev nekateri gumbi, obrazci in polja za prijavo morda ne bodo delovali.">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Zavračanje te vsebine lahko povzroči nedelovanje nekaterih delov spletnih strani. Brez sledilcev nekateri gumbi, obrazci in polja za prijavo morda ne bodo delovali.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Z izklopom zaščite bodo vsi sledilci na tej strani dovoljeni. Lahko se tudi izboljša delovanje spletne strani.">
 <!ENTITY protections.socialMediaTrackers.label "Sledilci družbenih omrežij">
 <!ENTITY protections.crossSiteTrackingCookies.label "Spletni sledilni piškotki">
