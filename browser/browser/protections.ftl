@@ -31,7 +31,10 @@ etp-card-content = A nyomkövetők követik Önt online, és információkat gy�
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Ma
+# This string is used to describe the graph for screenreader users.
+graph-legend-description = Grafikon, amely típusonként tartalmazza a héten blokkolt nyomkövetők számát.
 social-tab-title = Közösségimédia-követők
+social-tab-contant = A közösségi hálózatok nyomkövetőket helyeznek el más weboldalakon, hogy kövessék mit tesz, lát és néz online. Így a közösségi médiával foglalkozó cégek többet tudhatnak meg Önről, mint amit megoszt a közösségimédia-profiljaiban. <a data-l10n-name="learn-more-link">További tudnivalók</a>
 cookie-tab-title = Webhelyek közötti nyomkövető sütik
 tracker-tab-title = Nyomkövető tartalom
 fingerprinter-tab-title = Ujjlenyomat-készítők
@@ -39,7 +42,9 @@ cryptominer-tab-title = Kriptobányászok
 lockwise-title = Ne felejtsen el egyetlen jelszót sem
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = A { -lockwise-brand-name } biztonságosan tárolja a jelszavait a böngészőjében.
+lockwise-header-content-logged-in = Tárolja biztonságosan, és szinkronizálja a jelszavait az összes eszközén.
 open-about-logins-button = Megnyitás a { -brand-short-name }ban
+lockwise-no-logins-content = Szerezze be a <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> alkalmazást, hogy bárhová elvigye a jelszavait.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -50,6 +55,7 @@ lockwise-passwords-stored =
     }
 turn-on-sync = { -sync-brand-short-name } bekapcsolása…
     .title = Ugrás a szinkronizálási beállításokhoz
+manage-devices = Eszközök kezelése
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
 lockwise-sync-status =
@@ -58,7 +64,28 @@ lockwise-sync-status =
        *[other] Szinkronizálás { $count } további eszközre
     }
 lockwise-sync-not-syncing = Nincs szinkronizálás más eszközökre.
+monitor-title = Legyen résen az adatsértések miatt.
 monitor-link = Hogyan működik
+monitor-header-content = Ellenőrizze a { -monitor-brand-name } oldalt, és nézze meg, hogy szerepelt-e valamilyen adatsértésben, és kapjon értesítést az új adatsértésekről.
+monitor-header-content-logged-in = A { -monitor-brand-name } figyelmezteti, ha az adatai új adatsértésben jelennek meg
+monitor-sign-up = Iratkozzon fel az adatsértési figyelmeztetésekre
+auto-scan = Automatikusan ellenőrizve ma
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-addresses =
+    { $count ->
+        [one] Figyelt e-mail cím.
+       *[other] Figyelt e-mail címek.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches =
+    { $count ->
+        [one] Egy ismert adatsértés során kikerültek az információi.
+       *[other] Ismert adatsértések során kikerültek az információi.
+    }
 full-report-link = A teljes jelentés megtekintése a <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a> oldalon
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = Ugrás az adatvédelmi beállításokhoz

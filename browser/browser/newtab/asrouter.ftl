@@ -70,6 +70,12 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Bezárás gomb
     .title = Bezárás
 
+## Protections panel
+
+cfr-protections-panel-header = Böngésszen anélkül, hogy követnék
+cfr-protections-panel-body = Tartsa meg az adatait. A { -brand-short-name } megvédi a leggyakoribb nyomkövetőktől, amelyek követik az online tevékenységét.
+cfr-protections-panel-link-text = További tudnivalók
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
@@ -83,6 +89,13 @@ cfr-doorhanger-sync-bookmarks-header = Vigye át ezt a könyvjelzőt a telefonj�
 cfr-doorhanger-sync-bookmarks-body = Vigye magával a könyvjelzőit, jelszavait, előzményeit és egyebeit bárhová, ahol be van jelentkezve a { -brand-product-name }be.
 cfr-doorhanger-sync-bookmarks-ok-button = { -sync-brand-short-name } bekapcsolása
     .accesskey = b
+
+## Login Sync
+
+cfr-doorhanger-sync-logins-header = Ne veszítsen el egyetlen jelszót sem
+cfr-doorhanger-sync-logins-body = Tárolja biztonságosan, és szinkronizálja a jelszavait az összes eszközén.
+cfr-doorhanger-sync-logins-ok-button = A { -sync-brand-short-name } bekapcsolása
+    .accesskey = k
 
 ## Send Tab
 

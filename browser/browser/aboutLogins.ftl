@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Bejelentkezések és jelszavak
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = Vigye magával a jelszavait bárhová
+login-app-promo-subtitle = Szerezze be az ingyenes { -lockwise-brand-name } alkalmazást
+login-app-promo-android =
+    .alt = Szerezze be a Google Play-en
+login-app-promo-apple =
+    .alt = Töltse le az App Store-ból
 login-filter =
     .placeholder = Bejelentkezések keresése
 create-login-button = Új bejelentkezés létrehozása
@@ -123,3 +132,5 @@ confirm-discard-changes-dialog-confirm-button = Elvetés
 
 breach-alert-text = A jelszavai kiszivárogtak vagy ellopták őket a weboldalról a bejelentkezési adatai legutóbbi frissítése óta. A fiókja védelme érdekében cserélje le jelszavát.
 breach-alert-link = Tudjon meg többet erről az adatsértésről.
+breach-alert-dismiss =
+    .title = Figyelmeztetés bezárása
