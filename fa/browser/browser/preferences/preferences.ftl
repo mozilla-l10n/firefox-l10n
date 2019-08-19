@@ -402,7 +402,6 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = قطعه‌ها
-home-prefs-snippets-description = بروزرسانی‌هایی از موزیلا و فایرفاکس
 home-prefs-sections-rows-option =
     .label =
         { $num ->
