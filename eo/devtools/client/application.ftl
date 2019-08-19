@@ -69,3 +69,5 @@ serviceworker-empty-suggestions-debugger = tralegi la registradon de via «Servi
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = inspekti «Service Workers» de aliaj nomregnoj. <a>Malfermi about:debugging</a>
+# Text displayed when no manifest was found for the current page.
+manifest-empty-intro = Neniu manifesto por inspekti estis trovita.

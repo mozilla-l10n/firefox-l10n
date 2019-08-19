@@ -150,9 +150,6 @@ legacy-extensions =
     .value = Kadukaj etendaĵoj
 legacy-extensions-description = Tiuj ĉi etendaĵoj ne kongruas kun la nunaj normoj de { -brand-short-name }, tial ili estis malaktivigitaj. <label data-l10n-name="legacy-learn-more">Pli da informo pri la ŝanĝoj en aldonaĵoj</label>
 private-browsing-description2 = { -brand-short-name } modifis la funkciadon de etendaĵoj en privata retumo. Norme, neniu nova etendaĵo aldonita al { -brand-short-name } funkcios en privataj fenestroj. Krom se vi permesos tion en agordoj, la etendaĵo ne funkcios en privata retumo kaj ne havos aliron al viaj agoj en la interreto. Ni ŝanĝis tion por certigi, ke via privata retumo restu privata. <label data-l10n-name="private-browsing-learn-more">Pli da informo pri administro de agordoj de etendaĵoj.</label>
-extensions-view-discover =
-    .name = Elŝuti aldonaĵojn
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Rekomendoj
     .tooltiptext = { extensions-view-discopane.name }
@@ -248,6 +245,12 @@ shortcuts-modifier-other = Inkluzivi Stir aŭ Alt
 shortcuts-invalid = Nevalida kombino
 shortcuts-letter = Tajpu literon
 shortcuts-system = Ne eblas anstataŭigi alirklavon de { -brand-short-name }
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Ripetita alirklavo
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } estas uzata kiel alirklavon en pli ol unu okazo. Ripetitaj alirklavoj povas kaŭzi neatenditan konduton.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -302,6 +305,16 @@ release-notes-addon-button = Notoj pri liverado
 permissions-addon-button = Permesoj
 addons-enabled-heading = Aktiva
 addons-disabled-heading = Malaktiva
+extension-enabled-heading = Aktiva
+extension-disabled-heading = Malaktiva
+theme-enabled-heading = Aktiva
+theme-disabled-heading = Malaktiva
+plugin-enabled-heading = Aktiva
+plugin-disabled-heading = Malaktiva
+dictionary-enabled-heading = Aktiva
+dictionary-disabled-heading = Malaktiva
+locale-enabled-heading = Aktiva
+locale-disabled-heading = Malaktiva
 ask-to-activate-button = Demandi antaŭ ol aktivigi
 always-activate-button = Ĉiam aktivigi
 never-activate-button = Neniam aktivigi

@@ -18,3 +18,4 @@ reader-view = Legila vido
 open-location = Serĉu ion aŭ tajpu adreson
 share = Kundividi
 close-window = Fermi fenestron
+open-sidebar = Flankaj strioj
