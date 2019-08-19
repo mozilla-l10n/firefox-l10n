@@ -86,6 +86,9 @@ cfr-whatsnew-panel-header = Τι νέο υπάρχει
 cfr-doorhanger-sync-bookmarks-ok-button = Ενεργοποίηση { -sync-brand-short-name }
     .accesskey = Ε
 
+## Login Sync
+
+
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Διαβάστε το εν κινήσει
@@ -93,3 +96,5 @@ cfr-doorhanger-send-tab-header = Διαβάστε το εν κινήσει
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Μοιραστείτε αυτό το PDF με ασφάλεια
+cfr-doorhanger-firefox-send-ok-button = Δοκιμή του { -send-brand-name }
+    .accesskey = Δ
