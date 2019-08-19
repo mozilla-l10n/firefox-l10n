@@ -42,3 +42,6 @@ inactive-css-not-grid-item-fix = Titojtob'ëx nitz'aqatisäx <strong>display:gri
 inactive-css-not-grid-container-fix = Titojtob'ëx nitz'aqatisäx <strong>display:grid</strong> o <strong>display:inline-grid</strong>. { learn-more }
 inactive-css-not-flex-item-fix = Titojtob'ëx nitz'aqatisäx <strong>display:flex</strong> o <strong>display:inline-flex</strong> chi re ri rach'alal cholna'oj. { learn-more }
 inactive-css-not-flex-container-fix = Titojtob'ëx nitz'aqatisäx <strong>display:flex</strong> o <strong>display:inline-flex</strong>. { learn-more }
+inactive-css-not-inline-or-tablecell-fix = Titojtob'ëx nitz'aqatisäx <strong>display:inline</strong> o <strong>display:table-cell</strong>. { learn-more }
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Titojtob'ëx nitz'aqatisäx <strong>display:inline-block</strong> o <strong>display:block</strong>. { learn-more }
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Titojtob'ëx nitz'aqatisäx <strong>display:inline-block</strong>. { learn-more }
