@@ -26,3 +26,7 @@ cert-error-domain-mismatch = Jank'al chit unq'a atinb'ale' ni chi til isuuchil t
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
 cert-error-domain-mismatch-single = Unq'a atinb'ala' vaa' ni chit tootzi moj at tu'aal { -brand-short-name } ye' kuxh ak'ujb'a' ak'u'l ti' u vaa' tan ye'l u tu'aale' at itxa'k vatz u { $hostname }. u tu'aale' a' kuxh at kat itxa'k  vatz u <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single-nolink = Unq'a atinb'ala' vaa' ni chit tootzi moj at tu'aal { -brand-short-name } ye' kuxh ak'ujb'a' ak'u'l ti'  uve' ni b'anb'en uma'l u'aal uva' jit b'a'n te u { $hostname }. U tu'aale' uve' at itxa'k vatz kuxh u { $alt-name }
