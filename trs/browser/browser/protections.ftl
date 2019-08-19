@@ -70,6 +70,18 @@ lockwise-sync-status =
 lockwise-sync-not-syncing = Nu ga'ue nagi'iaj guñanj ngà a'ngô nej aga'a
 monitor-title = Sasà' ni'iajt sisi nadunâ nej si sa hua riña nej dâto
 monitor-link = Dàj 'iaj sunj
+monitor-header-content = Natsij ni'iajt { -monitor-brand-name } da' gini'înt sisi gi'iaj yi'ì nej si si datôt ni ga'ue nahuin ra'at nej nuguan' natà' snan'anj sisi ruhuâ nej si gi'iaj yi'ì ñû nej si.
+monitor-header-content-logged-in = { -monitor-brand-name } ataj snan'anj gunïnt sisi gi'iaj yi'ì nej si nej datô nikajt
+monitor-sign-up = Nutà' si yuguît da' ga'ue nahuin ra'ât nej nuguan' a'min rayi'ì sa nu dugahuin
+auto-scan = Gui hìaj ni 'iaj eskaneândo man'an man
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-addresses =
+    { $count ->
+        [one] Si direksiûn korreô nikaj ñu'unjt.
+       *[other] Si direksiûn nej korreô nikaj ñun'unjt.
+    }
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = Guij riña si configurasiûn sa naràn rayi'ît
 # This is the title attribute describing the Lockwise card's link to about:logins
