@@ -35,3 +35,6 @@ inactive-css-property-because-of-display = Bu eleman <strong>{ $display }</stron
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved.
 
+inactive-css-not-grid-or-flex-container-fix = <strong>display:grid</strong> veya <strong>display:flex</strong> eklemeyi deneyin. { learn-more }
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix = <strong>display:grid</strong>, <strong>display:flex</strong> veya <strong>columns:2</strong> eklemeyi deneyin. { learn-more }
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = <strong>display:inline-block</strong> eklemeyi deneyin. { learn-more }
