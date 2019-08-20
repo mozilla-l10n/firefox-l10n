@@ -18,3 +18,4 @@ reader-view = ਰੀਡਰ ਝਲਕ
 open-location = ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
 share = ਸਾਂਝਾ ਕਰੋ
 close-window = ਵਿੰਡੋ ਬੰਦ ਕਰੋ
+open-sidebar = ਬਾਹੀਆਂ

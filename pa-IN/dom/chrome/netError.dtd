@@ -98,3 +98,5 @@
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ਸੁਰੱਖਿਆ ਤਕਨੀਕ ਨੂੰ ਵਰਤਦਾ ਹੈ, ਜੋ ਕਿ ਪੁਰਾਣੀ ਹੋ ਚੁੱਕੀ ਹੈ ਅਤੇ ਹਮਲ਼ਿਆਂ ਦਾ ਸ਼ਿਕਾਰ ਹੋ ਸਕਦੀ ਹੈ। ਹਮਲਾਵਰ ਸੌਖੀ ਤਰ੍ਹਾਂ ਜਾਣਕਾਰੀ ਹਾਸਲ ਕਰ ਸਕਦਾ ਹੈ, ਜਿਸ ਨੂੰ ਤੁਸੀਂ ਸੋਚਦੇ ਹੋ ਕਿ ਸੁਰੱਖਿਅਤ ਹੈ। ਤੁਹਾਡੇ ਵਲੋਂ ਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹਣ ਤੋਂ ਪਹਿਲਾਂ ਵੈੱਬਸਾਈਟ ਦੇ ਪ੍ਰਸ਼ਾਸ਼ਕ ਨੂੰ ਸਰਵਰ ਨੂੰ ਪਹਿਲਾਂ ਠੀਕ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।</p><p>ਗਲਤੀ ਕੋਡ: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "ਪਾਬੰਦੀ ਲੱਗਾ ਸਫ਼ਾ">
+
+<!ENTITY networkProtocolError.title "ਨੈੱਟਵਰਕ ਪਰੋਟੋਕਾਲ ਗ਼ਲਤੀ">

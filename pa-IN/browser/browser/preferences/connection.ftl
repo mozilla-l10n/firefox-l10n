@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = ਇਸ ਲਈ ਕੋਈ ਪਰਾਕਸੀ ਨਹੀਂ
     .accesskey = n
 connection-proxy-noproxy-desc = ਜਿਵੇਂ: .mozilla.org, .net.nz, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = ਲੋਕਲਹੋਸਟ, 127.0.0.1, ਅਤੇ :: 1 ਨਾਲ ਕਨੈਕਸ਼ਨ ਕਦੇ ਵੀ ਪਰਾਕਸੀ ਨਹੀਂ ਹੁੰਦੇ।
 connection-proxy-autotype =
     .label = ਆਟੋਮੈਟਿਕ ਪਰਾਕਸੀ ਸੰਰਚਨਾ URL
     .accesskey = A
@@ -70,12 +72,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = HTTPS ‘ਤੇ DNS ਸਮਰੱਥ ਕਰੋ
     .accesskey = b
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = ਮੂਲ ਵਰਤੋਂ ({ $url })
-    .accesskey = U
-    .tooltiptext = HTTPS ਉੱਤੇ DNS ਲੱਭਣ ਲਈ ਮੂਲ URL ਵਰਤੋਂ
 connection-dns-over-https-url-resolver = ਪੂਰਕ ਵਰਤੋ
     .accesskey = P
 # Variables:
