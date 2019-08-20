@@ -17,3 +17,6 @@ update-applying = Ile' toksa ve't ok u b'anb'al tuche'...
 update-failed = Kat yan ib'anax tuche'. <label data-l10n-name="failed-link">Eq'o ku'tzan  uve' a'n chit atoke</label>
 update-failed-main = Kat yan ib'anax tuche'. <a data-l10n-name="failed-link-main">Eq'o ku'tzan uve' a'nnal kuxh ib'anax tuche'</a>
 update-adminDisabled = Unq'a b'anb'al tuche' ya'samal ve't kat ta'n u ilol tetze'
+update-noUpdatesFound = { -brand-short-name } ile' b'a'n ve't tatine'
+update-otherInstanceHandlingUpdates = { -brand-short-name } ile' ni b'anpu tuche' ta'n uma't lochb'al
+update-manual = La uch ib'anax b'a'n stej tzitza' <label data-l10n-name="manual-link"/>
