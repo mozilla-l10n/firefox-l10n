@@ -817,7 +817,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label2 "Segurança da conexão">
 
-<!ENTITY identity.connectionSecure2 "Conexão protegida">
+<!ENTITY identity.connectionSecure2 "Conexão segura">
 <!ENTITY identity.connectionNotSecure "Conexão não é segura">
 <!ENTITY identity.connectionNotSecureSecurityView "Você não está conectado com segurança a este site.">
 <!ENTITY identity.connectionFile "Esta página está armazenada no seu computador.">
@@ -882,8 +882,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
-<!ENTITY protections.siteNotWorking.label "Site não funcionando?">
-<!ENTITY protections.siteNotWorkingView.title "Site não funcionando?">
+<!ENTITY protections.siteNotWorking.label "O site não está funcionando?">
+<!ENTITY protections.siteNotWorkingView.title "O site não está funcionando?">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
