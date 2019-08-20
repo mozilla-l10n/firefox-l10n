@@ -70,6 +70,8 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
+cfr-protections-panel-header = 추적되지 않는 탐색
+cfr-protections-panel-body = 자신의 데이터를 보호하세요. { -brand-short-name }는 온라인에서 하는 일을 추적하는 가장 일반적인 많은 추적기로부터 사용자를 보호합니다.
 cfr-protections-panel-link-text = 더 알아보기
 
 ## What's New toolbar button and panel
@@ -81,8 +83,16 @@ cfr-whatsnew-panel-header = 새로운 기능
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = 이 북마크를 휴대폰에서 사용합니다
 cfr-doorhanger-sync-bookmarks-body = { -brand-product-name }에 로그인한 모든 곳에서 북마크, 비밀번호, 방문 기록 등을 가져옵니다.
 cfr-doorhanger-sync-bookmarks-ok-button = { -sync-brand-short-name } 켜기
+    .accesskey = T
+
+## Login Sync
+
+cfr-doorhanger-sync-logins-header = 다시는 비밀번호를 잃어버리지 마십시오
+cfr-doorhanger-sync-logins-body = 비밀번호를 모든 기기에 안전하게 저장하고 동기화합니다.
+cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name } 켜기
     .accesskey = T
 
 ## Send Tab
