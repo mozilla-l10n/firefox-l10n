@@ -249,6 +249,12 @@ shortcuts-modifier-other = Strg abo Alt zapśimjeś
 shortcuts-invalid = Njepłaśiwa kombinacija
 shortcuts-letter = Zapódajśo pismik
 shortcuts-system = Tastowa skrotconka { -brand-short-name } njedajo se pśepisaś
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Dwójna tastowa skrotconka
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } se ako tastowa skrotconka wěcej raz wužywa. Dwójne tastowe skrotconki mógu njewótcakane zaźaržanje zawinowaś.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
