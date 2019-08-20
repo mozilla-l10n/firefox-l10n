@@ -27,6 +27,7 @@ protection-header-details-custom = La nivelo de protekto estas <b>personecigita<
 protection-report-page-title = Protektoj de privateco
 protection-report-content-title = Protektoj de privateco
 etp-card-title = Plibonigita protekto kontraŭ spurado
+etp-card-content = Spuriloj sekvas vin en la reto por kolekti informon pri via kutima retumo kaj pri viaj interesoj. { -brand-short-name } blokas plurajn el tiuj spuriloj kaj aliajn malicajn skriptojn.
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Hodiaŭ
