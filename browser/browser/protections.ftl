@@ -34,8 +34,12 @@ etp-card-content = Elementele de urmărire te urmăresc online pentru a colecta 
 # capitalization for this string should match the output for your locale.
 graph-today = Astăzi
 social-tab-title = Elemente de urmărire ale rețelelor sociale
+social-tab-contant = Rețelele sociale plasează elemente de urmărire pe alte site-uri web pentru a urmări ceea ce faci, vezi și urmărești online. Acest lucru permite companiilor rețelelor sociale să afle mai multe despre tine, dincolo de ceea ce împărtășești pe profilurile rețelelor sociale. <a data-l10n-name="learn-more-link">Află mai multe</a>
 cookie-tab-title = Cookie-uri de urmărire între site-uri
+cookie-tab-content = Aceste cookie-uri te urmăresc de pe un site pe altul pentru a colecta date despre ceea ce faci online. Acestea sunt setate de terțe părți precum agenții de publicitate și companiile de analiză. Blocarea cookie-urilor de urmărire între site-uri reduce numărul de reclame care se țin după tine. <a data-l10n-name="learn-more-link">Află mai multe</a>
+tracker-tab-content = Site-urile web pot încărca reclame externe, videoclipuri și alt conținut care conține cod de urmărire. Blocarea conținutului pentru urmărire poate ajuta site-urile să se încarce mai rapid, dar este posibil ca unele butoane, formulare și câmpuri de autentificare să nu funcționeze. <a data-l10n-name="learn-more-link">Află mai multe</a>
 fingerprinter-tab-title = Detectoare de amprente digitale
+fingerprinter-tab-content = Detectoarele de amprente digitale colectează setări din browserul și computerul tău pentru a crea un profil cu tine. Folosind această amprentă digitală, te pot urmări pe diferite site-uri web. <a data-l10n-name="learn-more-link">Află mai multe</a>
 cryptominer-tab-title = Criptomineri
 lockwise-header-content-logged-in = Stochează-ți și sincronizează-ți parolele în siguranță pe toate dispozitivele.
 open-about-logins-button = Deschide în { -brand-short-name }
