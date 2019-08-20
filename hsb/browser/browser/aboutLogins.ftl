@@ -6,8 +6,8 @@ about-logins-page-title = Přizjewjenja a hesła
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Wzmiće swoje hesł wšudźe
-login-app-promo-subtitle = Wobstarajće sje darmotne nałoženje { -lockwise-brand-name }
+login-app-promo-title = Wzmiće swoje hesła wšudźe sobu
+login-app-promo-subtitle = Wobstarajće sej darmotne nałoženje { -lockwise-brand-name }
 login-app-promo-android =
     .alt = Wobstarajće sej jo wot Google Play
 login-app-promo-apple =
