@@ -63,7 +63,7 @@ abuse-report-deceptive-reason = Gir seg ut for å være noe den ikke er
 abuse-report-deceptive-example = Eksempel: Villedende beskrivelse eller bilder
 abuse-report-broken-reason-extension = Fungerer ikke, ødelegger nettsteder, eller gjør { -brand-product-name } treg
 abuse-report-broken-reason-theme = Virker ikke eller ødelegger nettsidens utseende
-abuse-report-broken-example = For eksempel: Funksjoner er treg, vanskelig å bruke, eller fungerer ikke; deler av nettsteder vil ikke laste eller ser uvanlig ut
+abuse-report-broken-example = For eksempel: Funksjoner er trege, vanskelig å bruke, eller fungerer ikke; deler av nettsteder vil ikke laste eller ser uvanlige ut
 abuse-report-broken-suggestions-extension =
     Det høres ut som om du har identifisert en feil. I tillegg til å sende inn en rapport her, så er den beste måten
     for å få en funksjonell feil løst på er å kontakte utvidelsesutvikleren.
