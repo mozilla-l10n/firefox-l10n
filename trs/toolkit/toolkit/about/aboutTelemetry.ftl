@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = Riña ahui nej datos ping:
 about-telemetry-show-current-ping-data = Nej ping hua nakà doj
+about-telemetry-show-current-data = Datô hua akuan' nïn
 about-telemetry-show-archived-ping-data = Datos nachro' riña ping
 about-telemetry-show-subsession-data = Nadigun nej datos 'na'
 about-telemetry-choose-ping = Nagui ping:
@@ -102,6 +103,8 @@ about-telemetry-no-search-results-all = Si ga'man ruhuât. Nu nari'ij à'ngo nug
 about-telemetry-no-data-to-display = Si ga'man ruhuât. Akuan' nïn nitaj nuguan'an guendâ “{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = ping nasinùnj un
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = datô hua akuan' nïn
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = daran'anj
 # button label to copy the histogram
