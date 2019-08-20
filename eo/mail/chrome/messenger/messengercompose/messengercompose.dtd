@@ -75,7 +75,7 @@
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY pasteCmd.label "Alglui">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "A">
+<!ENTITY pasteCmd.accesskey "g">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "w">
@@ -108,11 +108,11 @@
 <!ENTITY findReplaceCmd.accesskey "i">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Serĉi sekvan">
-<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.accesskey "n">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Find Previous">
-<!ENTITY findPrevCmd.accesskey "v">
+<!ENTITY findPrevCmd.label "Serĉi antaŭan">
+<!ENTITY findPrevCmd.accesskey "a">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
