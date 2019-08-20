@@ -43,6 +43,9 @@ about-debugging-sidebar-item-connect-button = সংযুক্ত করুন
 about-debugging-sidebar-item-connect-button-connecting = সংযুক্ত করা হচ্ছে …
 # Text displayed in buttons found in sidebar items when the connection failed.
 about-debugging-sidebar-item-connect-button-connection-failed = সংযোগ ব্যর্থ হয়েছে
+# Text displayed in connection warning on sidebar item of the runtime when connecting to
+# the runtime is taking too much time.
+about-debugging-sidebar-item-connect-button-connection-not-responding = সংযোগটি এখনও অমীমাংসিত, গন্তব্য ব্রাউজারের বার্তাগুলো দেখুন
 # Text displayed as connection error in sidebar item when the connection has timed out.
 about-debugging-sidebar-item-connect-button-connection-timeout = সংযোগের সময় উত্তীর্ণ হয়ে গেছে
 # Temporary text displayed in sidebar items representing remote runtimes after
