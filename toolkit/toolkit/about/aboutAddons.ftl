@@ -305,4 +305,18 @@ install-update-button = ਅੱਪਡੇਟ ਕਰੋ
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
-    .title = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ‘ਚ ਇਜਾਜ਼ਤ ਹੈ
+    .title = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ‘ਚ ਮਨਜ਼ੂਰ ਹੈ
+addon-detail-private-browsing-allow = ਮਨਜ਼ੂਰ
+addon-detail-private-browsing-disallow = ਮਨਜ਼ੂਰ ਨਾ ਕਰੋ
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = ਸਿਫਾਰਸ਼ੀ
+    .alt = ਸਿਫਾਰਸ਼ੀ
+available-updates-heading = ਉਪਲੱਬਧ ਅੱਪਡੇਟ
+recent-updates-heading = ਤਾਜ਼ਾ ਅੱਪਡੇਟ
+release-notes-loading = …ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+release-notes-error = ਅਫਸੋਸ, ਪਰ ਰੀਲਿਜ਼ ਨੋਟਿਸ ਡਾਊਨਲੋਡ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ ਆਈ ਹੈ।
+addon-permissions-empty = ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਲਈ ਕਿਸੇ ਇਜਾਜ਼ਤ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ
+recommended-extensions-heading = ਸਿਫਾਰਸ਼ੀ ਇਕਟੈਨਸ਼ਨਾਂ
+recommended-themes-heading = ਸਿਫਾਰਸ਼ੀ ਥੀਮ

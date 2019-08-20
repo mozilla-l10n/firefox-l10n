@@ -17,10 +17,19 @@ extensions-name = ਨਾਂ
 extensions-enabled = ਚਾਲੂ ਹੈ
 extensions-version = ਵਰਜ਼ਨ
 extensions-id = ID
+security-software-title = ਸੁਰੱਖਿਆ ਸਾਫਟਵੇਅਰ
+security-software-type = ਕਿਸਮ
+security-software-name = ਨਾਂ
+security-software-antivirus = ਐਂਟੀਵਾਈਰਸ
+security-software-antispyware = ਐਂਟੀਸਪਾਈਵੇਅਰ
+security-software-firewall = ਫਾਇਰਵਾਲ
 features-title = { -brand-short-name } ਫ਼ੀਚਰ
 features-name = ਨਾਂ
 features-version = ਵਰਜ਼ਨ
 features-id = ID
+processes-title = ਰਿਮੋਟ ਪਰੋਸੈਸ
+processes-type = ਕਿਸਮ
+processes-count = ਗਿਣਤੀ
 app-basics-title = ਐਪਲੀਕੇਸ਼ਨ ਬੇਸਿਕ
 app-basics-name = ਨਾਂ
 app-basics-version = ਵਰਜ਼ਨ
@@ -42,8 +51,6 @@ app-basics-performance = ਕਾਰਗੁਜ਼ਾਰੀ
 app-basics-service-workers = ਰਜਿਸਟਰ ਕੀਤੇ Service Workers
 app-basics-profiles = ਪਰੋਫਾਈਲ
 app-basics-multi-process-support = ਬਹੁ-ਕਾਰਜ ਵਿੰਡੋਜ਼
-app-basics-process-count = ਵੈੱਬ ਸਮੱਗਰੀ ਕਾਰਵਾਈ
-app-basics-key-google = Google Key
 app-basics-key-mozilla = Mozilla Location Service Key
 app-basics-safe-mode = ਸੁਰੱਖਿਅਤ ਮੋਡ
 show-dir-label =
@@ -104,6 +111,14 @@ media-device-format = ਫਾਰਮੈਟ
 media-device-channels = ਚੈਨਲ
 media-device-rate = ਰੇਟ
 media-device-latency = ਦੇਰੀ
+intl-app-title = ਐਪਲੀਕੇਸ਼ਨ ਸੈਟਿੰਗਾਂ
+intl-locales-requested = ਮੰਗ ਕੀਤੀ ਬੋਲੀ
+intl-locales-available = ਉਪਲਬਧ ਬੋਲੀਆਂ
+intl-locales-supported = ਐਪ ਬੋਲੀਆਂ
+intl-locales-default = ਮੂਲ ਬੋਲੀ
+intl-os-title = ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ
+intl-os-prefs-system-locales = ਸਿਸਟਮ ਬੋਲੀਆਂ
+intl-regional-prefs = ਖੇਤਰੀ ਪਸੰਦਾਂ
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -159,6 +174,8 @@ hardware-h264 = ਹਾਰਡਵੇਅਰ H264 ਡੀਕੋਡਿੰਗ
 main-thread-no-omtc = ਮੁੱਖ ਥਰਿੱਡ, OMTC ਨਹੀਂ
 yes = ਹਾਂ
 no = ਨਹੀਂ
+unknown = ਅਣਪਛਾਤਾ
+virtual-monitor-disp = ਵਰਚੁਅਲ ਮਾਨੀਟਰ ਡਿਸਪਲੇਅ
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -166,6 +183,8 @@ no = ਨਹੀਂ
 
 found = ਲੱਭਾ
 missing = ਗੁੰਮ
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = ਵਰਣਨ
 gpu-vendor-id = ਵੇਂਡਰ ID
 gpu-device-id = ਜੰਤਰ ID
