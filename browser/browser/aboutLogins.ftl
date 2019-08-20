@@ -60,6 +60,7 @@ login-list-item-subtitle-missing-username = (אין שם משתמש)
 
 ## Introduction screen
 
+login-intro-description = אם שמרת את הכניסות שלך ל־{ -brand-product-name } במכשיר אחר, כך ניתן לקבל אותן כאן:
 
 ## Login
 

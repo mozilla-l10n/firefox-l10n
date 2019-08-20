@@ -26,6 +26,7 @@ protection-header-details-strict = רמת ההגנה היא <b>מחמירה</b>
 protection-header-details-custom = רמת ההגנה <b>מותאמת אישית</b>
 protection-report-page-title = הגנות פרטיות
 protection-report-content-title = הגנות פרטיות
+etp-card-content = רכיבי מעקב עוקבים אחריך ברשת כדי לאסוף מידע על הרגלי הגלישה ותחומי העניין שלך. { -brand-short-name } חוסם הרבה מרכיבי המעקב האלו, לרבות תסריטים זדוניים אחרים.
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = היום
@@ -87,6 +88,13 @@ bar-tooltip-cookie =
         { $count ->
             [one] עוגיית מעקב חוצת אתרים אחת ({ $percentage }%)
            *[other] { $count } עוגיות מעקב חוצות אתרים ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = תוכן מעקב
+    .aria-label =
+        { $count ->
+            [one] תוכן מעקב אחד ({ $percentage }%)
+           *[other] { $count } תכני מעקב ({ $percentage }%)
         }
 bar-tooltip-cryptominer =
     .title = כורי מטבעות דיגיטליים

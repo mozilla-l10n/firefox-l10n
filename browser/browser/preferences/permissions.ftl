@@ -67,6 +67,7 @@ permissions-exceptions-content-blocking-window =
     .title = חריגות - חסימת תוכן
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = ביטלת את חסימת התוכן באתרים אלו.
+permissions-exceptions-etp-desc = ביטלת את ההגנות באתרים אלו.
 
 ## Exceptions - Cookies
 

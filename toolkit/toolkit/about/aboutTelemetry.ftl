@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-show-current-ping-data = נתוני הפינג הנוכחיים
+about-telemetry-show-current-data = נתונים נוכחיים
 about-telemetry-choose-ping = בחירת פינג:
 about-telemetry-archive-ping-header = פינג
 about-telemetry-option-group-today = היום
