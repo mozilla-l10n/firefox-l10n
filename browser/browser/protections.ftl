@@ -99,6 +99,18 @@ info-exposed-passwords =
        *[other] Contraseñas expuestas en todas las violaciones.
     }
 full-report-link = Ver informe completo sobre <a data-l10n-name="monitor-inline-link"> { -monitor-brand-name } </a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] El inicio de sesión guardado puede haber estado expuesto en una violación de datos. Cambie esta contraseña para una mejor seguridad en línea. <a data-l10n-name="lockwise-link">Ver inicios de sesión guardados</a>
+       *[other] Los inicios de sesión guardados pueden haber estado expuestos en una violación de datos. Cambie estas contraseñas para una mejor seguridad en línea. <a data-l10n-name="lockwise-link">Ver inicios de sesión guardados</a>
+    }
+# This is the title attribute describing the graph report's link to about:settings#privacy
+go-to-privacy-settings = Ir a ajustes de privacidad
+# This is the title attribute describing the Lockwise card's link to about:logins
+go-to-saved-logins = Ir a inicios de sesión guardados
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
