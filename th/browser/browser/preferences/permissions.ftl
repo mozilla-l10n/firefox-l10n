@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = ข้อยกเว้น - การปิดกั้นเนื้อหา
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = คุณได้ปิดใช้งานการปิดกั้นเนื้อหาในเว็บไซต์เหล่านี้
+permissions-exceptions-etp-window =
+    .title = ข้อยกเว้นสำหรับการป้องกันการติดตามที่มากขึ้น
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = คุณได้ปิดการป้องกันของเว็บไซต์เหล่านี้
 
 ## Exceptions - Cookies
 
