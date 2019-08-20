@@ -9,5 +9,7 @@
 
 <!ENTITY window.title "Noticias importantes">
 <!ENTITY window.style "width: 490px">
+<!ENTITY sync "Para sincronizar la información que ya está guardada en Firefox con esta instalación de &brandShortName;, inicia sesión con la &syncBrand.fxAccount.label;.">
 <!ENTITY continue-button "Continuar">
 
+<!ENTITY mainText "Esta instalación de &brandShortName; tiene un nuevo perfil. Éste no comparte marcadores, contraseñas ni preferencias de usuario con otras instalaciones de Firefox (incluyendo Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition y Firefox Nightly) en esta computadora.">
