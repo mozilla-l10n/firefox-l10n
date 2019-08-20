@@ -23,3 +23,5 @@ update-manual = La uch ib'anax b'a'n stej tzitza' <label data-l10n-name="manual-
 update-unsupported = Ye' la uch ayakeb' ve't ti' ib'anat b'a'n stej tzitza'. <label data-l10n-name="unsupported-link">ootzi ka'te</label>
 update-restarting = Ile' ni xe'tisa unpajte
 channel-description = Ile' b'anel ve't kan tuche' tu b'anb'al tatine' <label data-l10n-name="current-channel"></label> ti' ib'anax b'a'n stej!
+warningDesc-version = { -brand-short-name } ni kuxh b'anb'el unbooe' as la ib'ane' uva' la yani.
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> a'e' uma'l <label data-l10n-name="community-exp-creditsLink">tetz kaajayil aq'on</label> eela chit taq'onve' aq'al uva' la tile' uva' jajlu kan kuxh u Web, tetz tenam as ab'il kuxh la b'an b'en.
