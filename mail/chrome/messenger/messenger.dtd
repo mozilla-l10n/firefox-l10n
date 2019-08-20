@@ -706,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Cadw'r Chwilio fel Ffolder…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Dewis Negeseuon">
 <!ENTITY threadColumn.label "Edefyn">
 <!ENTITY fromColumn.label "Oddi wrth">
 <!ENTITY recipientColumn.label "Derbynnydd">
@@ -729,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Dewis colofnau i'w dangos">
+<!ENTITY selectColumn.tooltip "Toglo dewis pob neges">
 <!ENTITY threadColumn2.tooltip "Dangos edafedd negeseuon">
 <!ENTITY fromColumn2.tooltip "Trefnu yn ôl anfonwr">
 <!ENTITY recipientColumn2.tooltip "Trefnu yn ôl derbyniwr">
