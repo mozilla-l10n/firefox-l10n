@@ -113,6 +113,16 @@ info-exposed-passwords =
        *[other] Gronidła su se pśeraźili pśez wšykne datowe źery.
     }
 full-report-link = Woglědajśo se dopołnu rozpšawu na <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] Skłaźone pśizjewjenje jo se wótkšyło w datowej źěrje. Změńśo toś to gronidło za lěpšu wěstotu online. <a data-l10n-name="lockwise-link">Skłaźone pśizjewjenja pokazaś</a>
+        [two] Skłaźonej pśizjewjeni stej se wótkšyłej w datowej źěrje. Změńśo toś tej gronidle za lěpšu wěstotu online. <a data-l10n-name="lockwise-link">Skłaźone pśizjewjenja pokazaś</a>
+        [few] Skłaźone pśizjewjenje su se wótkšyli w datowej źěrje. Změńśo toś te gronidła za lěpšu wěstotu online. <a data-l10n-name="lockwise-link">Skłaźone pśizjewjenja pokazaś</a>
+       *[other] Skłaźone pśizjewjenje su se wótkšyli w datowej źěrje. Změńśo toś te gronidła za lěpšu wěstotu online. <a data-l10n-name="lockwise-link">Skłaźone pśizjewjenja pokazaś</a>
+    }
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = K nastajenjam priwatnosći
 # This is the title attribute describing the Lockwise card's link to about:logins
@@ -125,3 +135,30 @@ go-to-saved-logins = K skłaźonym pśizjawjenjam
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Pśeslědowaki socialnych medijow
+    .aria-label =
+        { $count ->
+            [one] { $count } pśeslědowak socialnych medijow({ $percentage } %)
+            [two] { $count } pśeslědowaka socialnych medijow ({ $percentage } %)
+            [few] { $count } pśeslědowaki socialnych medijow ({ $percentage } %)
+           *[other] { $count } pśeslědowakow socialnych medijow ({ $percentage } %)
+        }
+bar-tooltip-cookie =
+    .title = Slědujuce cookieje mjazy sedłami
+    .aria-label =
+        { $count ->
+            [one] { $count } slědujucy cookie mjazy sedłami ({ $percentage } %)
+            [two] { $count } slědujucej cookieja mjazy sedłami ({ $percentage } %)
+            [few] { $count } slědujuce cookieje mjaz sedłami ({ $percentage } %)
+           *[other] { $count } slědujucych cookiejow mjazy sedłami ({ $percentage } %)
+        }
+bar-tooltip-tracker =
+    .title = Slědujuce wopśimjeśe
+    .aria-label =
+        { $count ->
+            [one] { $count } slědujuce wopśimjeśe ({ $percentage } %)
+            [two] { $count } slědujucej wopśimjeśi ({ $percentage } %)
+            [few] { $count } slědujuce wopśimjeśa ({ $percentage } %)
+           *[other] { $count } slědujucych wopśimjeśow ({ $percentage } %)
+        }
