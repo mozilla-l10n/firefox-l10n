@@ -141,6 +141,10 @@ newtab-section-menu-privacy-notice = ਨਿੱਜੀ ਨੋਟਿਸ
 
 ## Section aria-labels
 
+newtab-section-collapse-section-label =
+    .aria-label = ਭਾਗ ਨੂੰ ਸਮੇਟੋ
+newtab-section-expand-section-label =
+    .aria-label = ਭਾਗ ਫੈਲਾਓ
 
 ## Section Headers.
 
@@ -152,11 +156,16 @@ newtab-section-header-pocket = { $provider } ਵਲੋਂ ਸਿਫਾਰਸ਼�
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ ਅਤੇ ਅਸੀਂ ਕੁਝ ਵਧੀਆ ਲੇਖ, ਵਿਡੀਓ ਤੇ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੋ ਗਏ ਜਾਂ ਬੁੱਕਮਾਰਕ ਕੀਤੇ ਹੋਰ ਸਫ਼ੇ ਇੱਥੇ ਦਿਖਾਵਾਂਗੇ।
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = ਤੁਸੀਂ ਅਟਕ ਗਏ!
+newtab-discovery-empty-section-topstories-content = ਹੋਰ ਕਹਾਣੀਆਂ ਲਈ ਬਾਅਦ ‘ਚ ਜਾਂਚ ਕਰੋ।
 newtab-discovery-empty-section-topstories-try-again-button = ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰੋ
 newtab-discovery-empty-section-topstories-loading = ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = ਓਹ ਹੋ! ਅਸੀਂ ਇਹ ਭਾਗ ਲੋਡ ਕਰ ਹੀ ਲਿਆ ਸੀ, ਫੇਰ ਵੀ ਹੋ ਨੀ ਸਕਿਆ।
 
 ## Pocket Content Section.
 
