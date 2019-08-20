@@ -133,6 +133,13 @@ bar-tooltip-cookie =
             [one] Unu interreteja spurila kuketo ({ $percentage }%)
            *[other] { $count } interretejaj spurilaj kuketoj ({ $percentage }%)
         }
+bar-tooltip-tracker =
+    .title = Spurila enhavo
+    .aria-label =
+        { $count ->
+            [one] Unu elemento de spurila enhavo ({ $percentage }%)
+           *[other] { $count } elementoj de spurila enhavo ({ $percentage }%)
+        }
 bar-tooltip-fingerprinter =
     .title = Identigiloj de ciferecaj spuroj
     .aria-label =
