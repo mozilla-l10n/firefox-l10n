@@ -742,6 +742,7 @@ content-blocking-social-media-trackers = Elemente de urmărire ale rețelelor so
 content-blocking-all-cookies = Toate cookie-urile
 content-blocking-unvisited-cookies = Cookie-uri de la site-uri nevizitate
 content-blocking-all-windows-trackers = Elemente de urmărire cunoscute în toate ferestrele
+content-blocking-all-windows-tracking-content = Conținut pentru urmărire în toate ferestrele
 content-blocking-all-third-party-cookies = Toate cookie-urile de la terți
 content-blocking-cryptominers = Criptomineri
 content-blocking-fingerprinters = Detectoare de amprente digitale
