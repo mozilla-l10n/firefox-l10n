@@ -7,6 +7,7 @@ about-logins-page-title = লগইন এবং পাসওয়ার্ড
 # "Google Play" and "App Store" are both branding and should not be translated
 
 login-app-promo-title = আপনার পাসওয়ার্ড সর্বত্র নিন
+login-app-promo-subtitle = বিনামূল্যে { -lockwise-brand-name } অ্যাপ্লিকেশন পান
 login-app-promo-android =
     .alt = Google Play তে পান
 login-app-promo-apple =
@@ -45,10 +46,13 @@ login-list-name-option = নাম (A-Z)
 login-list-last-changed-option = সর্বশেষ পরিবর্তিত
 login-list-last-used-option = সর্বশেষ ব্যবহৃত
 login-list-intro-title = কোন লগ ইন পাওয়া যায়নি
+login-list-intro-description = আপনি যখন { -brand-product-name } এ পাসওয়ার্ড সরক্ষণ করবেন, তা এখানে প্রদর্শিত হবে।
 login-list-item-title-new-login = নতুন লগইন
+login-list-item-subtitle-missing-username = (কোনও ব্যবহারকারীর নাম নেই)
 
 ## Introduction screen
 
+login-intro-heading = আপনার সংরক্ষিত লগইন সন্ধান করছেন? { -sync-brand-short-name } সেট আপ করুন।
 
 ## Login
 

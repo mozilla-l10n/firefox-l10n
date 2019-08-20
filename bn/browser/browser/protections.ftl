@@ -9,6 +9,7 @@ protection-report-content-title = গোপনীয়তা সুরক্ষা
 graph-today = আজ
 lockwise-title-logged-in = { -lockwise-brand-name }
 manage-devices = ডিভাইস ব্যবস্থাপনা
+monitor-title = ডাটা ফাটল সন্ধান করুন
 monitor-link = কিভাবে এটি কাজ করে
 auto-scan = আজ স্বয়ংক্রিয়ভাবে স্ক্যান করা হয়েছে
 # This string is displayed after a large numeral that indicates the total number
@@ -19,6 +20,10 @@ info-monitored-addresses =
         [one] ইমেল ঠিকানাগুলি পর্যবেক্ষণ করা হচ্ছে।
        *[other] ইমেল ঠিকানাগুলি পর্যবেক্ষণ করা হচ্ছে।
     }
+# This is the title attribute describing the graph report's link to about:settings#privacy
+go-to-privacy-settings = গোপনীয়তা সেটিং এ যান
+# This is the title attribute describing the Lockwise card's link to about:logins
+go-to-saved-logins = সংরক্ষিত লগইন এ যান
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
