@@ -911,6 +911,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.noTrackersFound.description "Ningún rastreador conocido por &brandShortName; fue detectado en esta página.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Esas cookies te siguen de sitio en sitio para recolectar datos sobre lo que haces en línea. Ellos son creados por terceros, como anunciantes y empresas de análisis.">
+<!ENTITY protections.cryptominers.description "Los criptomineros utilizan la potencia informática de tu sistema para extraer dinero digital. Los scripts de criptominería agotan tu batería, ralentizan tu computadora y pueden aumentar tu factura de energía.">
+<!ENTITY protections.fingerprinters.description "Las huellas digitales recopilan configuraciones de tu navegador y computadora para crear un perfil tuyo. Con esta huella digital, pueden rastrearte a través de diferentes sitios web.">
+<!ENTITY protections.trackingContent.description "Los sitios web pueden cargar anuncios externos, videos y otro contenido que contenga código de rastreo. El bloqueo del contenido de rastreo puede ayudar a los sitios a cargar más rápido, pero algunos botones, formularios y campos de inicio de sesión pueden no funcionar.">
+<!ENTITY protections.socialMediaTrackers.description "Las redes sociales ubican rastreadores en otros sitios web para seguir lo que haces, ves y miras en línea. Esto permite que las empresas de redes sociales aprendan más sobre ti, más allá de lo que compartes en tus perfiles de redes sociales.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -977,6 +981,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "Bloqueo de contenido puede causar problemas con algunos sitios. Cuando reportas problemas, ayudas a mejorar &brandShortName; para todos. (Esto enviará la URL asi como información de configuración del navegador a Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Saber más">
 <!ENTITY contentBlocking.breakageReportView.title "Informar de un sitio no funcional">
+<!ENTITY contentBlocking.breakageReportView3.description "El bloqueo de ciertos rastreadores puede causar problemas con algunos sitios web. Informar sobre estos problemas ayuda a que &brandShortName; sea mejor para todos. Al enviar este informe, se enviará a Mozilla una URL e información sobre la configuración de tu navegador.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Más información">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "¿Qué problemas tuviste? (Opcional)">
