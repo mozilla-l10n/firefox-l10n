@@ -81,6 +81,7 @@ onboarding-tracking-protection-button2 = איך זה עובד
 onboarding-data-sync-title = ההגדרות שלך הולכות אתך
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = סנכרון הסימניות, הססמאות ופריטים נוספים שלך בכל מקום בו יש לך את { -brand-product-name }.
+onboarding-data-sync-button2 = כניסה ל־{ -sync-brand-short-name }
 onboarding-firefox-monitor-button = הרשמה להתרעות
 onboarding-browse-privately-title = גלישה בפרטיות
 onboarding-browse-privately-button = פתיחת חלון פרטי

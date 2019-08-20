@@ -82,6 +82,7 @@ cfr-whatsnew-panel-header = מה חדש
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = קבלת הסימנייה הזו בטלפון שלך
 cfr-doorhanger-sync-bookmarks-ok-button = הפעלת { -sync-brand-short-name }
     .accesskey = ה
 
