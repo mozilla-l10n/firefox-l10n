@@ -8,6 +8,10 @@ protection-report-content-title = গোপনীয়তা সুরক্ষা
 # capitalization for this string should match the output for your locale.
 graph-today = আজ
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-header-content = { -lockwise-brand-name } নিরাপদভাবে ব্রাউজারে আপনার পাসওয়ার্ড সংরক্ষণ করে।
+open-about-logins-button = { -brand-short-name } এ খুলুন
+turn-on-sync = { -sync-brand-short-name } চালু করুন...
+    .title = সিঙ্ক পছন্দগুলোতে যান
 manage-devices = ডিভাইস ব্যবস্থাপনা
 monitor-title = ডাটা ফাটল সন্ধান করুন
 monitor-link = কিভাবে এটি কাজ করে

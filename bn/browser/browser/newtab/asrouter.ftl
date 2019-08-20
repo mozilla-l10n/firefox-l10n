@@ -98,3 +98,5 @@ cfr-doorhanger-send-tab-ok-button = ট্যাব প্রেরণ চেষ
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-ok-button = { -send-brand-name } পরখ করুন
+    .accesskey = T
