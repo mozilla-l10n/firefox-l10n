@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Inicios de sesión y contraseñas
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = Lleve sus contraseñas a todas partes
+login-app-promo-subtitle = Obtenga la aplicación gratuita { -lockwise-brand-name }
+login-app-promo-android =
+    .alt = Descárguelo de Google Play
+login-app-promo-apple =
+    .alt = Descárguelo del App Store
 login-filter =
     .placeholder = Motores de búsqueda
 create-login-button = Crear nuevo inicio de sesión
@@ -123,3 +132,5 @@ confirm-discard-changes-dialog-confirm-button = Descartar
 
 breach-alert-text = Las contraseñas fueron filtradas o robadas de este sitio web desde la última vez que actualizó sus datos de inicio de sesión. Cambie su contraseña para proteger su cuenta.
 breach-alert-link = Obtenga más información sobre esta violación.
+breach-alert-dismiss =
+    .title = Cerrar este alerta
