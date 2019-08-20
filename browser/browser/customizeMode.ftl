@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Urungkan
 customize-mode-lwthemes-my-themes =
     .value = Temaku
+customize-mode-touchbar-cmd =
+    .label = Ubahsuai Touch Bar...
