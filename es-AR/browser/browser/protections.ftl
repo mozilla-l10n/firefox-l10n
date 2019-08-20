@@ -71,6 +71,25 @@ lockwise-sync-not-syncing = No sincroniza con otros dispositivos.
 monitor-title = Esté atento a las violaciones de datos
 monitor-link = Cómo funciona
 monitor-header-content = Controle { -monitor-brand-name } para ver si fue parte de una violación de datos y recibir alertas sobre nuevas violaciones.
+monitor-header-content-logged-in = { -monitor-brand-name } lo advierte si su información apareció en una violación de datos conocida
+monitor-sign-up = Regístrese para recibir alertas de violaciones
+auto-scan = Escaneado automáticamente hoy
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-addresses =
+    { $count ->
+        [one] Dirección de correo electrónico que se supervisa.
+       *[other] Direcciones de correo electrónico que se supervisan.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches =
+    { $count ->
+        [one] Violación de datos conocida que expuso su información.
+       *[other] Violaciones de datos conocidas que expusieron su información.
+    }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
