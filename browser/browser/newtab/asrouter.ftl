@@ -2,7 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = பரிந்துரைக்கப்படும் நீட்டிப்பு
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = நான் ஏன் இதைப் பார்க்கிறேன்
 cfr-doorhanger-extension-cancel-button = இப்போது வேண்டாம்
@@ -45,10 +51,34 @@ cfr-doorhanger-extension-total-users =
 ## These messages are steps on how to use the feature and are shown together.
 
 cfr-doorhanger-pintab-animation-pause = இடைநிறுத்து
+cfr-doorhanger-pintab-animation-resume = தொடரவும்
 
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = உங்கள் புத்தககுறிகளை எல்லா இடங்களிலும் ஒத்திசைக்கவும்.
+cfr-doorhanger-bookmark-fxa-link-text = புத்தககுறிகளை இப்போது ஒத்திசை…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = பொத்தானை மூடு
+    .title = மூடு
+
+## Protections panel
+
 
 ## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = புதியவை என்ன
+    .tooltiptext = புதியவைகள்
+cfr-whatsnew-panel-header = புதியவை என்ன
+
+## Bookmark Sync
+
+
+## Login Sync
+
+
+## Send Tab
+
+
+## Firefox Send
 

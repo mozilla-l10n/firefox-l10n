@@ -188,6 +188,10 @@ choose-language-description = பக்கங்களை காட்ட உங
 choose-button =
     .label = தேர்ந்தெடு...
     .accesskey = o
+manage-browser-languages-button =
+    .label = மாற்று வழிகளை அமை…
+    .accesskey = i
+confirm-browser-language-change-button = செயற்படுத்தி மீட்தொடங்கு
 translate-web-pages =
     .label = வலை உள்ளடக்கத்தை மொழிபெயர்
     .accesskey = T
@@ -259,6 +263,13 @@ update-application-use-service =
 update-enable-search-update =
     .label = தேடுபொறிகளைத் தானாகப் புதுப்பிக்கும்
     .accesskey = e
+update-pref-write-failure-title = தோல்வியை எழுது
+update-setting-write-failure-title = புதுப்பிப்பு விருப்பங்களைச் சேமிப்பதில் பிழை
+update-in-progress-title = புதுப்பிப்பு செயலிலுள்ளது
+update-in-progress-ok-button = & நிராகரி
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &தொடரவும்
 
 ## General Section - Performance
 
@@ -351,6 +362,8 @@ choose-bookmark =
 home-prefs-content-header = Firefox முகப்பு உள்ளடக்கம்
 home-prefs-content-description = உங்கள் பயர்பாக்ஸ் முகப்புத் திரையில் என்ன உள்ளடக்கம் வேண்டுமென்று தேர்ந்தெடு.
 home-prefs-content-discovery-description = பயர்பாஃசு முகப்பில் உள்ள உள்ளடக்க கண்டுபிடிப்பு, வலைத்தளங்களில் உள்ள உயர் தர, தொடர்புடைய கட்டுரைகளைக் கண்டறிய அனுமதிக்கிறது.
+home-prefs-search-header =
+    .label = வலை தேடல்
 home-prefs-topsites-header =
     .label = சிறந்த தளங்கள்
 # Variables:
@@ -600,6 +613,10 @@ sitedata-total-size-calculating = தள தரவு மற்றும் இ�
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = நீங்கள் சேமித்த நினைவிகள், தள தரவு மற்றும் இடையகத்தின் தற்போதைய பயனளவு வன்தட்டில் { $value }{ $unit } அளவு பயன்படுத்தியுள்ளது.
 sitedata-learn-more = மேலும் அறிய
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = வகை தடுக்கப்பட்டது
+    .accesskey = T
 sitedata-clear =
     .label = தரவினை அழி
     .accesskey = l
@@ -624,6 +641,18 @@ addressbar-suggestions-settings = தேடுபொறி பரிந்து
 
 ## Privacy Section - Content Blocking
 
+content-blocking-learn-more = மேலும் அறிய
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = நிலையான
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = கண்டிப்பாக
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = தனிப்பயன்
+    .accesskey = C
 
 ## Privacy Section - Tracking
 

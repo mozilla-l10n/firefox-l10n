@@ -81,6 +81,7 @@ onboarding-firefox-send-button = { -send-brand-name }ஐ முயற்சி�
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = மொபைல் உலாவியைப் பதிவிறக்குக
+onboarding-send-tabs-button = தாவல் அனுப்புதலைப் பயன்படுத்தத் தொடங்குங்கள்
 onboarding-pocket-anywhere-title = எங்கும் படியுங்கள் கேளுங்கள்
 onboarding-lockwise-passwords-title = உங்கள் கடவுச்சொற்களை உங்களுடன் எடுத்துச் செல்லுங்கள்
 onboarding-lockwise-passwords-button2 = செயலியை பெறுங்கள்
