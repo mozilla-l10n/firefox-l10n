@@ -164,9 +164,12 @@ newtab-empty-section-topstories = 다 왔습니다. { $provider }에서 제공�
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = 모두 따라 잡았습니다!
 newtab-discovery-empty-section-topstories-content = 더 많은 이야기는 나중에 다시 확인해 보세요.
 newtab-discovery-empty-section-topstories-try-again-button = 다시 시도
 newtab-discovery-empty-section-topstories-loading = 읽는 중…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = 이런! 이 섹션을 거의 다 로드했지만, 안 된 부분이 있습니다.
 
 ## Pocket Content Section.
 
