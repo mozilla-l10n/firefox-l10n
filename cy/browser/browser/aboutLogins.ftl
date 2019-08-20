@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Mewngofnodion a Chyfrineiriau
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = Ewch â'ch cyfrineiriau i bobman
+login-app-promo-subtitle = Sicrhewch { -lockwise-brand-name } yr ap am ddim
+login-app-promo-android =
+    .alt = Mae ar gael yn Google Play
+login-app-promo-apple =
+    .alt = Llwythwch i lawr o'r App Store
 login-filter =
     .placeholder = Chwilio Mewngofnodion
 create-login-button = Creu Mewngofnod Newydd

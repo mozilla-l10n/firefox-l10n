@@ -78,6 +78,12 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Cau botwm
     .title = Cau
 
+## Protections panel
+
+cfr-protections-panel-header = Pori heb gael eich dilyn
+cfr-protections-panel-body = Cadwch eich data i chi'ch hun. Mae { -brand-short-name } yn eich diogelu rhag llawer o'r tracwyr mwyaf cyffredin sy'n eich dilyn ar-lein.
+cfr-protections-panel-link-text = Dysgu rhagor
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
@@ -91,6 +97,13 @@ cfr-doorhanger-sync-bookmarks-header = Defnyddiwch y nod tudalen hwn ar eich ff√
 cfr-doorhanger-sync-bookmarks-body = Cymerwch eich nodau tudalen, cyfrineiriau, hanes a mwy ym mhobman rydych chi wedi mewngofnodi iddo { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = Troi { -sync-brand-short-name } ymlaen
     .accesskey = T
+
+## Login Sync
+
+cfr-doorhanger-sync-logins-header = Peidiwch Byth √¢ Cholli Cyfrinair Eto
+cfr-doorhanger-sync-logins-body = Cadwch a chydweddu eich cyfrineiriau yn ddiogel i'ch holl ddyfeisiau.
+cfr-doorhanger-sync-logins-ok-button = Agor { -sync-brand-short-name }
+    .accesskey = A
 
 ## Send Tab
 
