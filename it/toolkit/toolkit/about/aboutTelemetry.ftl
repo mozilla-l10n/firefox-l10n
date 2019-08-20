@@ -77,7 +77,7 @@ about-telemetry-settings-explanation = La telemetria sta raccogliendo { about-te
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Le informazioni vengono inviate in gruppi chiamati “<a data-l10n-name="ping-link">ping</a>”. Attualmente è visualizzato il ping { $name }, { $timestamp }.
 about-telemetry-ping-details-current = Le informazioni vengono inviate in gruppi chiamati “<a data-l10n-name="ping-link">ping</a>”. Attualmente è visualizzato il ping corrente.
-about-telemetry-data-details-current = Le informazioni vengono inviate in gruppi chiamati “<a data-l10n-name="ping-link">ping</a>”. Attualmente sono visualizzatì i dati correnti.
+about-telemetry-data-details-current = Le informazioni vengono inviate in gruppi chiamati “<a data-l10n-name="ping-link">ping</a>”. Attualmente sono visualizzati i dati correnti.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
