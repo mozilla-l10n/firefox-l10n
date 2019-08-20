@@ -74,6 +74,12 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tłocašk Zacyniś
     .title = Zacyniś
 
+## Protections panel
+
+cfr-protections-panel-header = Pśeglědujśo bźez togo, aby wam slědowało
+cfr-protections-panel-body = Wobchowajśo swóje daty za sebje. { -brand-short-name } was pśed wjele z nejcesćejych pśeslědowakow šćita, kótarež slěduju, což online gótujośo.
+cfr-protections-panel-link-text = Dalšne informacije
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
@@ -87,6 +93,13 @@ cfr-doorhanger-sync-bookmarks-header = Spórajśo toś to cytańske znamje na sw
 cfr-doorhanger-sync-bookmarks-body = Wzejśo swóje cytańske znamjenja, gronidła, historiju a wěcej wšuźi sobu, źož sćo se pśizjawił pla { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = { -sync-brand-short-name } zmóžniś
     .accesskey = m
+
+## Login Sync
+
+cfr-doorhanger-sync-logins-header = Njezgubujśo nigda wěcej gronidło
+cfr-doorhanger-sync-logins-body = Składujśo a synchronizěrujśo swóje gronidł ze wšymi swójimi rědami.
+cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name } zmóžniś
+    .accesskey = z
 
 ## Send Tab
 

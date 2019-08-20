@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Pśizjawjenja a gronidła
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = Wzejśo swóje gronidła wšuźi sobu
+login-app-promo-subtitle = Wobstarajśo se dermotne nałoženje { -lockwise-brand-name }
+login-app-promo-android =
+    .alt = Wobstarajśo se jo wót Google Play
+login-app-promo-apple =
+    .alt = Ześěgniśo wót App Store
 login-filter =
     .placeholder = Pśizjawjenja pytaś
 create-login-button = Nowe pśizjawjenje załožyś
@@ -125,3 +134,5 @@ confirm-discard-changes-dialog-confirm-button = Zachyśiś
 
 breach-alert-text = Gronidła su se z toś togo websedła roznjasli abo kšadnuli, wót togo, až sćo zaktualizěrował swóje pśizjawjeńske daty slědny raz. Změńśo swójo gronidło, aby swójo konto šćitał.
 breach-alert-link = Zgóńśo wěcej wó toś tej źěrje
+breach-alert-dismiss =
+    .title = Toś to warnowanje zacyniś
