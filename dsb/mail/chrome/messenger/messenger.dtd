@@ -706,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Pytanje ako zarědnik składowaś…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Powěsći wubraś">
 <!ENTITY threadColumn.label "Nitka">
 <!ENTITY fromColumn.label "Wót">
 <!ENTITY recipientColumn.label "Dostawaŕ">
@@ -729,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Wubjeŕśo słupy, kótarež maju se zwobrazniś">
+<!ENTITY selectColumn.tooltip "Wuběranje wšych powěsćow pśešaltowaś">
 <!ENTITY threadColumn2.tooltip "Powěsćowe nitki zwobrazniś">
 <!ENTITY fromColumn2.tooltip "Pó Wót sortěrowaś">
 <!ENTITY recipientColumn2.tooltip "Pó dostawarju sortěrowaś">
