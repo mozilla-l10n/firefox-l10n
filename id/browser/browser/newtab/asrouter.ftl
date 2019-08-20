@@ -6,6 +6,7 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = Rekomendasi Ekstensi
+cfr-doorhanger-feature-heading = Fitur yang Direkomendasikan
 cfr-doorhanger-pintab-heading = Coba Yang Ini: Sematkan Tab
 
 
@@ -67,6 +68,10 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tombol tutup
     .title = T
 
+## Protections panel
+
+cfr-protections-panel-header = Menjelajah tanpa diikuti
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
@@ -75,6 +80,9 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = Yang Baru
 
 ## Bookmark Sync
+
+
+## Login Sync
 
 
 ## Send Tab
