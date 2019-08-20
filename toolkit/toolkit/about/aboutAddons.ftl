@@ -152,9 +152,6 @@ legacy-extensions-description = Aceste extensii nu îndeplinesc standardele actu
 private-browsing-description2 =
     { -brand-short-name } schimbă felul în care extensiile funcționează în navigarea privată. Orice extensie nouă pe care o adaugi în { -brand-short-name } nu va rula în mod implicit în cadrul ferestrelor private. Dacă nu permiți asta din setări, extensia nu va funcționa în timpul navigării private și nu va avea acces la activitățile tale online. Am făcut această modificare pentru ca navigarea privată să rămână privată.
     <label data-l10n-name="private-browsing-learn-more">Află cum să gestionezi setările pentru extensii</label>.
-extensions-view-discover =
-    .name = Descarcă suplimente
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Recomandări
     .tooltiptext = { extensions-view-discopane.name }
@@ -236,7 +233,7 @@ extensions-updates-update-selected =
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
-    .label = Gestionează scurtături de extensii
+    .label = Gestionează comenzile rapide ale extensiilor
     .accesskey = S
 shortcuts-no-addons = Nu ai activat nicio extensie.
 shortcuts-no-commands = Următoarele extensii nu au comenzi rapide:
@@ -305,6 +302,16 @@ release-notes-addon-button = Note privind versiunea
 permissions-addon-button = Permisiuni
 addons-enabled-heading = Activat
 addons-disabled-heading = Dezactivat
+extension-enabled-heading = Activate
+extension-disabled-heading = Dezactivate
+theme-enabled-heading = Activate
+theme-disabled-heading = Dezactivate
+plugin-enabled-heading = Activate
+plugin-disabled-heading = Dezactivate
+dictionary-enabled-heading = Activate
+dictionary-disabled-heading = Dezactivate
+locale-enabled-heading = Activate
+locale-disabled-heading = Dezactivate
 ask-to-activate-button = Întreabă pentru activare
 always-activate-button = Activează întotdeauna
 never-activate-button = Nu activa niciodată
