@@ -162,3 +162,21 @@ bar-tooltip-tracker =
             [few] { $count } slědujuce wopśimjeśa ({ $percentage } %)
            *[other] { $count } slědujucych wopśimjeśow ({ $percentage } %)
         }
+bar-tooltip-fingerprinter =
+    .title = Palcowe wótśišće
+    .aria-label =
+        { $count ->
+            [one] { $count } palcowy wótśišć ({ $percentage } %)
+            [two] { $count } palcowej wótśišća ({ $percentage } %)
+            [few] { $count } palcowe wótśišće ({ $percentage } %)
+           *[other] { $count } palcowych wótśišćow ({ $percentage } %)
+        }
+bar-tooltip-cryptominer =
+    .title = kryptokopaki
+    .aria-label =
+        { $count ->
+            [one] { $count } kryptokopak ({ $percentage } %)
+            [two] { $count } kryptokopaka ({ $percentage } %)
+            [few] { $count } kryptokopaki ({ $percentage } %)
+           *[other] { $count } kryptokopakow ({ $percentage } %)
+        }
