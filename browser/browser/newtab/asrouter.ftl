@@ -70,6 +70,11 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Cerrar botón
     .title = Cerrar
 
+## Protections panel
+
+cfr-protections-panel-header = Navegue sin que lo sigan
+cfr-protections-panel-body = Guarde sus datos para usted mismo. { -brand-short-name } lo protege de muchos de los rastreadores más comunes que siguen lo que hace en línea.
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
@@ -83,6 +88,9 @@ cfr-doorhanger-sync-bookmarks-header = Ponga este marcador en su teléfono
 cfr-doorhanger-sync-bookmarks-body = Lleve sus marcadores, contraseñas, historial y más a todas partes donde inició sesión en { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = Active { -sync-brand-short-name }
     .accesskey = T
+
+## Login Sync
+
 
 ## Send Tab
 
