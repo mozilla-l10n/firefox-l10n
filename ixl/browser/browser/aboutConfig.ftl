@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = atinb'al uva' ye' ootzimal!
+about-config-warning-title = Atinb'al uva' ye' ootzimal!
 about-config-warning-text = Asoj la jalpu  tu chit ib'anil naale' as la iyansa tatine', as ye'xh kam oora koj kuxh la aq'onvu ve'te'. La ib'ane' asoj jik chit naalo'l stej kam taq'onve'.
 about-config-warning-checkbox = Nachonsa svej unpajte, b'an b'a'nil!
 about-config-warning-button = Ta'le'n ve'te' asoj la yani
