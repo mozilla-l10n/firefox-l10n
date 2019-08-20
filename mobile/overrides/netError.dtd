@@ -220,3 +220,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> користи технологију за безбедност која је застарела и рањива је на нападе. Нападач лако може да открије информације за које сте мислили да су сигурне. Администратор веб сајта ће морати да поправи сервер пре него што посетите овај сајт.</p><p>Код грешке: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "Грешка мрежног протокола">
+<!ENTITY networkProtocolError.longDesc "<p>Страница коју покушавате да учитате не може бити приказана јер је откривена грешка у мрежном протоколу.</p><ul><li>Молимо вас да се обратите власницима веб сајта како би их обавестили о овом проблему.</li></ul>">

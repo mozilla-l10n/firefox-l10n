@@ -80,6 +80,7 @@
 <!-- Localization note: this text will be displayed in the Search Widget -->
 <!ENTITY search_widget_default_text "Претражи веб">
 <!ENTITY search_widget_default_cropped_text "Претражи">
+<!ENTITY search_widget_logo_description "Претражите веб са &brandShortName;">
 
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
@@ -117,6 +118,7 @@
 <!ENTITY bookmark_add_folder "Додајте нову фасциклу">
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(без наслова)">
 
 <!ENTITY reader_saved_offline "Сачувано ван мреже">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -276,6 +278,7 @@
 <!ENTITY pref_cookies_menu "Колачићи">
 <!ENTITY pref_cookies_accept_all "Омогућени">
 <!ENTITY pref_cookies_not_accept_foreign "Омогућени, без трећих лица">
+<!ENTITY pref_cookies_not_accept_trackers "Омогућено, осим колачића за праћење">
 <!ENTITY pref_cookies_disabled "Онемогућени">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -312,8 +315,10 @@
 <!ENTITY pref_feature_tips_notification_summary "Сазнајте више о коришћењу &brandShortName;-а и других &vendorShortName; производа">
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
+<!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
 <!-- Localization note (pref_feature_tips_notification_enabling_hint):
      Describe the action the user should do to enable this preference. -->
+<!ENTITY pref_feature_tips_notification_enabling_hint2 "(Да бисте омогућили ову опцију, &pref_feature_tips_notification_enabling_path; већ мора бити омогућен.)">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -350,6 +355,7 @@
 <!ENTITY tab_queue_prompt_settings_button "Отвори поставке">
 <!-- Localization note (tab_queue_notification_prompt): This is the text of the default notification
 shown from Android O while a tab is being queued.-->
+<!ENTITY tab_queue_notification_prompt "Додајем нови језичак у ред чекања&#8230;">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -414,9 +420,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Преузимања">
 <!ENTITY pref_private_data_syncedTabs "Синхронизовани језичци">
 
+<!ENTITY pref_default_browser2 "Поставите &brandShortName; као ваш подразумевани прегледач">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Тапните прегледачку апликацију &amp; и изаберите &brandShortName;">
 <!ENTITY pref_about_firefox "О &brandShortName;">
 <!ENTITY pref_vendor_faqs "ЧПП">
 <!ENTITY pref_vendor_feedback "Пошаљи повратне информације">
@@ -513,6 +521,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Localization note (find_error) : Error message shown when there is no result for the
      searched for text in this webpage -->
+<!ENTITY find_error "Фраза није пронађена">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -587,6 +596,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "Кључна реч">
 <!ENTITY bookmark_select_folder "Изаберите фасциклу">
 
+<!ENTITY bookmark_edit_undo "Опозови">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -675,6 +685,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Изаберите или снимите звук">
 <!ENTITY filepicker_image_title "Изаберите или снимите слику">
 <!ENTITY filepicker_video_title "Изаберите или снимите видео">
+<!ENTITY filepicker_permission_denied "Потребне дозволе нису одобрене, враћам се на системског бирача датотека.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Повезани сте на">
@@ -917,12 +928,17 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Паузирај">
 <!ENTITY pip_pause_button_description "Паузирајте пуштање">
 
+<!ENTITY pref_notification_settings_link "Управљање подешавањима обавештења">
 <!-- Notification channels names -->
+<!ENTITY default_notification_channel2 "Прегледач">
 <!ENTITY mls_notification_channel "&vendorShortName; Сервис за локацију">
 <!ENTITY download_notification_channel "Преузимања">
+<!ENTITY media_notification_channel2 "Звук и видео">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; савети и трикови">
 <!ENTITY updater_notification_channel "Ажурирања апликација">
 <!ENTITY synced_tabs_notification_channel "Синхронизовани јежичци">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Обавештења сајта">
+<!ENTITY crash_handler_notifications_channel "&brandShortName; пријављивач падова">
