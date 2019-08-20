@@ -901,6 +901,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.blocking.label "Bloqueando">
 <!ENTITY protections.notBlocking.label "No bloqueando">
 <!ENTITY protections.notBlocking.why.label "¿Por qué?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Bloquear esto puede interferir con elementos en algunos sitios. Sin rastreadores, algunos botones, formularios y campos de inicio de sesión no trabajen.">
 <!ENTITY protections.socialMediaTrackers.label "Rastreadores de red social">
 <!ENTITY protections.crossSiteTrackingCookies.label "Cookies de rastreo multisitio">
 <!ENTITY protections.trackingContent.label "Contenido de rastreo">
