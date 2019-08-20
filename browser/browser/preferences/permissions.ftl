@@ -100,6 +100,9 @@ permissions-exceptions-autoplay-media-window2 =
 
 ## Site Permissions - Autoplay
 
+permissions-site-autoplay-window =
+    .title = అమరికలు - ఆటోప్లే
+    .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 
