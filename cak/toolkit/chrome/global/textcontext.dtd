@@ -29,6 +29,8 @@
 
 <!ENTITY fillLoginMenu.label          "Tinojisäx rutikirisab'al molojri'ïl">
 <!ENTITY fillLoginMenu.accesskey      "T">
+<!ENTITY fillSuggestedPassword.label  "Tokisäx jun Chilab'en Ewan Tzij">
+<!ENTITY fillSuggestedPassword.accesskey "C">
 <!ENTITY fillGeneratedPassword.label  "Tawokisaj jun Ewan Tzij Ütz Tz'ukun">
 <!ENTITY fillGeneratedPassword.accesskey "z">
 <!ENTITY fillPasswordMenu.label       "Tinojisäx ewan tzij">
