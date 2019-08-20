@@ -872,8 +872,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Obre les preferències de bloqueig de contingut">
 
 
-<!ENTITY protections.etpON.header "La protecció contra el seguiment millorada està activada en aquest lloc">
-<!ENTITY protections.etpOFF.header "La protecció contra el seguiment millorada està desactivada en aquest lloc">
+<!ENTITY protections.etpON.header "S'ha ACTIVAT la protecció contra el seguiment millorada en aquest lloc">
+<!ENTITY protections.etpOFF.header "S'ha DESACTIVAT la protecció contra el seguiment millorada en aquest lloc">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Més informació sobre la protecció contra el seguiment millorada">
