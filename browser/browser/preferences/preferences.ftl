@@ -29,6 +29,7 @@ search-input-box =
             [windows] ਚੋਣਾਂ 'ਚ ਲੱਭੋ
            *[other] ਮੇਰੀ ਪਸੰਦ 'ਚ ਲੱਭੋ
         }
+managed-notice = ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਦਾ ਬੰਦੋਬਸਤ ਤੁਹਾਡੀ ਸੰਸਥਾ ਵਲੋਂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ।
 pane-general-title = ਆਮ
 category-general =
     .tooltiptext = { pane-general-title }
@@ -190,6 +191,7 @@ choose-language-description = ਸਫ਼ੇ ਨੂੰ ਵੇਖਣ ਲਈ ਆਪ�
 choose-button =
     .label = …ਚੁਣੋ
     .accesskey = o
+choose-browser-language-description = ਮੇਨੂ, ਸੁਨੇਹੇ ਅਤੇ { -brand-short-name } ਤੋਂ ਸੁਨੇਹੇ ਵੇਖਾਉਣ ਲਈ ਵਰਤਣ ਵਾਸਤੇ ਭਾਸ਼ਾ ਚੁਣੋ।
 manage-browser-languages-button =
     .label = ...ਬਦਲ ਨਿਯਤ ਕਰੋ
     .accesskey = I
@@ -270,7 +272,9 @@ update-pref-write-failure-title = ਲਿਖਣਾ ਅਸਫ਼ਲ
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = ਪਸੰਦ ਸੰਭਾਲਣ ਲਈ ਅਸਫ਼ਲ ਹੈ। ਫ਼ਾਈਲ ਲਿਖੀ ਨਹੀਂ ਜਾ ਸਕੀ: { $path }
+update-setting-write-failure-title = ਅਪਡੇਟ ਤਰਜੀਹਾਂ ਨੂੰ ਸੰਭਾਲਣ ਲਈ ਗਲਤੀ
 update-in-progress-title = ਅੱਪਡੇਟ ਜਾਰੀ ਹੈ
+update-in-progress-message = ਕੀ ਤੁਸੀਂ { -brand-short-name } ਨੂੰ ਇਸ ਅੱਪਡੇਟ ਨਾਲ ਜਾਰੀ ਰੱਖਣ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹੋ?
 update-in-progress-ok-button = ਖਾਰਜ ਕਰੋ(&D)
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -570,6 +574,12 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = …ਛੋਟਾਂ
     .accesskey = x
+forms-generate-passwords =
+    .label = ਮਜ਼ਬੂਤ ਪਾਸਵਰਡ ਸੁਝਾਓ ਅਤੇ ਤਿਆਰ ਕਰੋ
+    .accesskey = u
+forms-fill-logins-and-passwords =
+    .label = ਆਪਣੇ-ਆਪ ਭਰਨ ਲਈ ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ
+    .accesskey = i
 forms-saved-logins =
     .label = …ਸੰਭਾਲੇ ਹੋਏ ਲਾਗਇਨ
     .accesskey = L
@@ -646,6 +656,10 @@ sitedata-block-desc = ਪਾਬੰਦੀ ਲਗਾਈ ਕਿਸਮ
     .accesskey = T
 sitedata-option-block-trackers =
     .label = ਤੀਜੀ-ਧਿਰ ਟਰੈਕਰ
+sitedata-option-block-cross-site-trackers =
+    .label = ਅੰਤਰ-ਸਾਈਟ ਟਰੈਕਰ
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = ਅੰਤਰ-ਸਾਈਟ ਅਤੇ ਸਾਮਿਜਕ ਮੀਡਿਆ ਟਰੈਕਰ
 sitedata-option-block-unvisited =
     .label = ਅਣਪਛਾਤੀਆਂ ਵੈਬਸਾਈਟਾਂ ਤੋਂ ਕੂਕੀਜ਼
 sitedata-option-block-all-third-party =
@@ -680,6 +694,8 @@ addressbar-suggestions-settings = ਖੋਜ ਇੰਜਣ ਸੁਝਾਵਾਂ �
 ## Privacy Section - Content Blocking
 
 content-blocking-header = ਸਮੱਗਰੀ ਪਾਬੰਦੀ
+content-blocking-enhanced-tracking-protection = ਵਧੇਰੇ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ
+content-blocking-section-description = ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਦੌਰਾਨ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਦੀ ਸੁਰੱਖਿਆ ਕਰਦਾ ਹੈ। ਅਦਿੱਖ ਸਮੱਗਰੀ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਸਾਈਟਾਂ ਨੂੰ ਖੋਲ੍ਹਣ ਨੂੰ ਟਰੈਕ ਕਰਕੇ ਤੁਹਾਡਾ ਪਰੋਫਾਈਲ ਬਣਾਉਂਦੀ ਹੈ, ‘ਤੇ ਪਾਬੰਦੀ ਲਗਾਉਂਦਾ ਹੈ। ਇਹਨਾਂ ਵਿੱਚੋਂ ਕੁਝ ਸਮੱਗਰੀ ‘ਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣ ਨਾਲ ਸਫ਼ੇ ਵੱਧ ਤੇਜ਼ੀ ਨਾਲ ਲੋਡ ਵੀ ਹੋ ਸਕਦੇ ਹਨ।
 content-blocking-learn-more = ਹੋਰ ਜਾਣੋ
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -692,13 +708,20 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = ਚੁਣਿੰਦਾ
     .accesskey = c
+content-blocking-standard-desc = ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਵਿਚਾਲੇ ਸੰਤੁਲਨ ਹੈ। ਕੁਝ ਟਰੈਕਰਾਂ ਨੂੰ ਕੰਮ ਕਰਨ ਦਿੰਦਾ ਹੈ ਤਾਂ ਕਿ ਵੈੱਬਸਾਈਟਾਂ ਠੀਕ ਤਰ੍ਹਾਂ ਕੰਮ ਕਰਨ।
 content-blocking-strict-description = ਹੋਰ ਵੱਧ ਸੁਰੱਖਿਆ, ਪਰ ਹੋਰ ਸਕਦਾ ਹੈ ਕਿ ਕੁਝ ਸਾਈਟਾਂ ਕੰਮ ਨਾ ਕਰਨ।
 content-blocking-custom-desc = ਚੁਣੋ ਕਿ ਕਿਸ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣੀ ਹੈ।
 content-blocking-private-trackers = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਕੇਵਲ ਜਾਣ-ਪਛਾਣੇ ਟਰੈਕਰ ਹੀ
 content-blocking-third-party-cookies = ਤੀਜੀ-ਧਿਰ ਟਰੈਕ ਕਰਨ ਵਾਲੇ ਕੂਕੀਜ਼
+content-blocking-etp-standard-desc = ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਵਿਚਾਲੇ ਸੰਤੁਲਨ ਹੈ, ਸਫ਼ੇ ਆਮ ਨਾਲੋਂ ਵੱਧ ਤੇਜ਼ੀ ਨਾਲ ਲੋਡ ਹੁੰਦੇ ਹਨ।
+content-blocking-etp-strict-desc = ਵਧੇਰੇ ਸੁਰੱਖਿਆ, ਪਰ ਕੁਝ ਸਾਈਟਾਂ ਜਾਂ ਸਮੱਗਰੀ ਦੇ ਨਾ ਕੰਮ ਕਰਨ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦਾ ਹੈ।
+content-blocking-private-windows = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ‘ਚ ਸਮੱਗਰੀ ਟਰੈਕਿੰਗ
+content-blocking-cross-site-tracking-cookies = ਅੰਤਰ-ਸਾਈਟ ਟਰੈਕਿੰਗ ਕੂਕੀਜ਼
+content-blocking-social-media-trackers = ਸਮਾਜਿਕ ਮੀਡਿਆ ਟਰੈਕਰ
 content-blocking-all-cookies = ਸਾਰੇ ਕੂਕੀਜ਼
 content-blocking-unvisited-cookies = ਨਾ-ਖੋਲ੍ਹੀਆਂ ਸਾਈਟਾਂ ਤੋਂ ਕੂਕੀਜ਼
 content-blocking-all-windows-trackers = ਸਾਰੀਆਂ ਵਿੰਡੋਆਂ ਵਿੱਚ ਜਾਣ-ਪਛਾਣੇ ਟਰੈਕਰ
+content-blocking-all-windows-tracking-content = ਸਾਰੀਆਂ ਵਿੰਡੋਆਂ ‘ਚ ਸਮੱਗਰੀ ਟਰੈਕਿੰਗ
 content-blocking-all-third-party-cookies = ਸਾਰੇ ਤੀਜੀ-ਧਿਰ ਕੂਕੀਜ਼
 content-blocking-cryptominers = ਕ੍ਰਿਪਟੋ-ਮਾਈਨਰ
 content-blocking-fingerprinters = ਫਿੰਗਰਪਰਿੰਟਰ
@@ -710,6 +733,9 @@ content-blocking-reload-tabs-button =
     .accesskey = R
 content-blocking-trackers-label =
     .label = ਟਰੈਕਰ
+    .accesskey = T
+content-blocking-tracking-content-label =
+    .label = ਟਰੈਕਿੰਗ ਸਮੱਗਰੀ
     .accesskey = T
 content-blocking-tracking-protection-option-all-windows =
     .label = ਸਾਰੀਆਂ ਵਿੰਡੋਆਂ ‘ਚ

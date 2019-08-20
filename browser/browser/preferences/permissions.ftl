@@ -34,6 +34,7 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = ਤਬਦੀਲੀਆਂ ਨੂੰ ਸੰਭਾਲੋ
     .accesskey = S
+permissions-autoplay-menu = ਸਾਰੀਆਂ ਵੈਬਸਾਈਟਾਂ ਲਈ ਡਿਫੌਲਟ:
 permissions-searchbox =
     .placeholder = ਵੈੱਬਾਸਾਈਟ ਨੂੰ ਲੱਭੋ
 permissions-capabilities-autoplay-allow =
@@ -66,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = ਛੋਟਾਂ - ਸਮੱਗਰੀ ਪਾਬੰਦੀ
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = ਤੁਸੀਂ ਇਹਨਾਂ ਵੈੱਬਸਾਈਟਾਂ ਉੱਤੇ ਸਮੱਗਰੀ ਪਾਬੰਦੀ ਨੂੰ ਅਸਮਰੱਥ ਕਰ ਚੁੱਕੇ ਹੋ।
+permissions-exceptions-etp-window =
+    .title = ਵਧੇਰੇ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਲਈ ਛੋਟਾਂ
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = ਤੁਸੀਂ ਇਹਨਾਂ ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਸੁਰੱਖਿਆ ਨੂੰ ਬੰਦ ਕਰ ਚੁੱਕੇ ਹੋ।
 
 ## Exceptions - Cookies
 
