@@ -73,6 +73,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Mag-browse nang hindi sinusundan
+cfr-protections-panel-link-text = Karagdagang kaalaman
 
 ## What's New toolbar button and panel
 
@@ -87,6 +88,9 @@ cfr-doorhanger-sync-bookmarks-header = Kunin ang bookmark na ito sa iyong telepo
 cfr-doorhanger-sync-bookmarks-body = Dalhin mo kahit saan ang iyong mga bookmark, password, kasaysayan at iba pa basta't naka-sign in ka sa { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = Buksan ang { -sync-brand-short-name }
     .accesskey = T
+
+## Login Sync
+
 
 ## Send Tab
 
