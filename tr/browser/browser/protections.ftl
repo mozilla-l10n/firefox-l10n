@@ -53,6 +53,7 @@ lockwise-sync-status =
     }
 lockwise-sync-not-syncing = Diğer cihazlarla eşitlenmiyor.
 monitor-link = Nasıl çalışır?
+monitor-sign-up = İhlal uyarılarına kaydolun
 auto-scan = Bugün otomatik olarak tarandı
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -90,3 +91,38 @@ go-to-saved-logins = Kayıtlı hesaplara git
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Sosyal medya takipçileri
+    .aria-label =
+        { $count ->
+            [one] { $count } sosyal medya takipçisi (%{ $percentage })
+           *[other] { $count } sosyal medya takipçisi (%{ $percentage })
+        }
+bar-tooltip-cookie =
+    .title = Siteler arası takip çerezleri
+    .aria-label =
+        { $count ->
+            [one] { $count } siteler arası takip çerezi (%{ $percentage })
+           *[other] { $count } siteler arası takip çerezi (%{ $percentage })
+        }
+bar-tooltip-tracker =
+    .title = Takip amaçlı içerikler
+    .aria-label =
+        { $count ->
+            [one] { $count } takip amaçlı içerik (%{ $percentage })
+           *[other] { $count } takip amaçlı içerik (%{ $percentage })
+        }
+bar-tooltip-fingerprinter =
+    .title = Parmak izi toplayıcılar
+    .aria-label =
+        { $count ->
+            [one] { $count } parmak izi toplayıcı (%{ $percentage })
+           *[other] { $count } parmak izi toplayıcı (%{ $percentage })
+        }
+bar-tooltip-cryptominer =
+    .title = Kripto madenciler
+    .aria-label =
+        { $count ->
+            [one] { $count } kripto madenci (%{ $percentage })
+           *[other] { $count } kripto madenci (%{ $percentage })
+        }
