@@ -150,9 +150,6 @@ legacy-extensions =
     .value = Ескірген кеңейтулер
 legacy-extensions-description = Бұл кеңейтулер { -brand-short-name } өнімінің ағымдағы стандартқа сай емес, сондықтан сөндірілді. <label data-l10n-name="legacy-learn-more">Қосымшалар өзгерістері туралы көбірек білу</label>
 private-browsing-description2 = { -brand-short-name } кеңейтулер жекелік шолуда қалай жасайтынын өзгертеді. { -brand-short-name } ішіне қосылған кез келген жаңа кеңейту жекелік терезелерінде орындалмайды. Оған баптаулар ішінен арнайы рұқсат бермесеңіз, кеңейту жекелік шолу режиміне жұмыс істемейді, және ол кездегі сіздің желілік белсенділікке қол жеткізе алмайды. Бұл өзгерісті жекелік шолуыңызды жеке қалдыру үшін жасадық.<label data-l10n-name="private-browsing-learn-more">Кеңейтудің баптауларын өзгерту тәсілі туралы көбірек білу.</label>
-extensions-view-discover =
-    .name = Қосымшаларды алу
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Ұсыныстар
     .tooltiptext = { extensions-view-discopane.name }
@@ -309,6 +306,16 @@ release-notes-addon-button = Шығарылым ескертпесі
 permissions-addon-button = Рұқсаттар
 addons-enabled-heading = Іске қосулы
 addons-disabled-heading = Сөндірілген
+extension-enabled-heading = Іске қосулы
+extension-disabled-heading = Сөндірілген
+theme-enabled-heading = Іске қосулы
+theme-disabled-heading = Сөндірілген
+plugin-enabled-heading = Іске қосулы
+plugin-disabled-heading = Сөндірілген
+dictionary-enabled-heading = Іске қосулы
+dictionary-disabled-heading = Сөндірілген
+locale-enabled-heading = Іске қосулы
+locale-disabled-heading = Сөндірілген
 ask-to-activate-button = Белсендіруді сұрау
 always-activate-button = Әрқашан белсендіру
 never-activate-button = Ешқашан белсендірмеу
