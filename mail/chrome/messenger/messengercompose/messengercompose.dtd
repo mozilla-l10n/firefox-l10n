@@ -56,7 +56,7 @@
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Presi…">
 <!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "r">
+<!ENTITY printCmd.accesskey "P">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "Redakti">
@@ -88,23 +88,26 @@
 <!ENTITY reorderAttachmentsCmd.label "Reordigi kunsendaĵojn…">
 <!ENTITY reorderAttachmentsCmd.accesskey "o">
 <!ENTITY reorderAttachmentsCmd.key "x">
+<!ENTITY toggleAttachmentPaneCmd.label "Listo de kunsendaĵoj">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "k">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
      As Mac does not have access keys, this key defines a Mac-only, cross-l10n
      shortcut key (Ctrl+M). Typically, this key should not be translated unless
      otherwise required by specific needs of the localization. -->
-<!ENTITY selectAllCmd.label "Select All">
-<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY toggleAttachmentPaneCmd.key "m">
+<!ENTITY selectAllCmd.label "Elekti ĉion">
+<!ENTITY selectAllCmd.accesskey "E">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY findBarCmd.label "Find…">
-<!ENTITY findBarCmd.accesskey "F">
+<!ENTITY findBarCmd.label "Serĉi…">
+<!ENTITY findBarCmd.accesskey "S">
 <!ENTITY findBarCmd.key "F">
-<!ENTITY findReplaceCmd.label "Find and Replace…">
-<!ENTITY findReplaceCmd.accesskey "l">
+<!ENTITY findReplaceCmd.label "Serĉi kaj anstataŭigi…">
+<!ENTITY findReplaceCmd.accesskey "i">
 <!ENTITY findReplaceCmd.key "H">
-<!ENTITY findAgainCmd.label "Find Again">
+<!ENTITY findAgainCmd.label "Serĉi sekvan">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
