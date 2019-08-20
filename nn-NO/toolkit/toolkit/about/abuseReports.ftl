@@ -63,6 +63,7 @@ abuse-report-deceptive-reason = Gjev seg ut for å vere noko den ikkje er
 abuse-report-deceptive-example = Døme: villeiande skildring eller bilde
 abuse-report-broken-reason-extension = Fungerer ikkje, øydeleggjer nettstadar, eller gjer { -brand-product-name } treg
 abuse-report-broken-reason-theme = Verkar ikkje eller øydeleggjer utsjånaden til nettsida
+abuse-report-broken-example = Til dømes: Funksjonar er trege, vanskeleg å bruke, eller fungerar ikkje; delar av nettstadar vil ikkje laste eller ser uvanlege ut
 abuse-report-policy-reason = Hatefullt, valdeleg, eller ulovleg innhald
 abuse-report-policy-suggestions =
     Merknad: Opphavsrett- og varemerkerproblem vert rapporterte på ein annan måte.
