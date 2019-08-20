@@ -5,6 +5,7 @@
 blocklist-window =
     .title = ਪਾਬੰਦੀਸ਼ੁਦਾ ਸੂਚੀ
     .style = width: 50em
+blocklist-description = { -brand-short-name } ਆਨਲਾਈਨ ਟਰੈਕਰਾਂ ਨੂੰ ਰੋਕਣ ਲਈ ਵਰਤੀ ਜਾਂਦੀ ਸੂਚੀ ਚੁਣੋ। <a data-l10n-name="disconnect-link" title="Disconnect">ਡਿਸਕਨੈਕਟ </a> ਵਲੋਂ ਦਿੱਤੀ ਜਾਂਦੀ ਸੂਚੀ ਹੈ।
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =

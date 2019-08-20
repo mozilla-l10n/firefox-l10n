@@ -71,6 +71,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
+cfr-protections-panel-header = ਬਿਨਾਂ ਪਿੱਛਾ ਕਰਵਾਏ ਬਰਾਊਜ਼ ਕਰੋ
 cfr-protections-panel-link-text = ਹੋਰ ਜਾਣੋ
 
 ## What's New toolbar button and panel
@@ -82,15 +83,24 @@ cfr-whatsnew-panel-header = ਨਵਾਂ ਕੀ ਹੈ
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = ਇਸ ਬੁੱਕਮਾਰਕ ਨੂੰ ਆਪਣੇ ਫ਼ੋਨ ‘ਤੇ ਲਵੋ
+cfr-doorhanger-sync-bookmarks-body = ਆਪਣੇ ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ, ਅਤੀਤ ਅਤੇ ਹੋਰ ਨੂੰ ਹਰ ਥਾਂ ਆਪਣੇ ਨਾਲ { -brand-product-name } ‘ਚ ਸਾਈਨ ਇਨ ਕਰਕੇ ਲੈ ਜਾਓ।
+cfr-doorhanger-sync-bookmarks-ok-button = { -sync-brand-short-name } ਚਲਾੂ ਕਰੋ
+    .accesskey = T
 
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = ਮੁੜ ਕੇ ਪਾਸਵਰਡ ਕਦੇ ਵੀ ਨਾ ਗੁਆਓ
+cfr-doorhanger-sync-logins-body = ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ‘ਤੇ ਆਪਣੇ ਪਾਸਵਰਡ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸੰਭਾਲੋ ਅਤੇ ਸਿੰਕ ਕਰੋ।
+cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name } ਚਾਲੂ ਕਰੋ
+    .accesskey = T
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਇਹ ਪੜ੍ਹੋ
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = ਇਹ PDF ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸਾਂਝਾ ਕਰੋ
 cfr-doorhanger-firefox-send-ok-button = { -send-brand-name } ਵਰਤ ਕੇ ਵੇਖੋ
     .accesskey = T

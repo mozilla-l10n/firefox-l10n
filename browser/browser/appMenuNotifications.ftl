@@ -45,4 +45,5 @@ appmenu-addon-private-browsing =
     .buttonaccesskey = M
     .secondarybuttonlabel = ਠੀਕ ਹੈ, ਸਮਝ ਗਏ
     .secondarybuttonaccesskey = O
+appmenu-addon-private-browsing-message = { -brand-shorter-name } ‘ਚ ਤੁਹਾਡੇ ਵਲੋਂ ਕੋਈ ਵੀ ਨਵੀਂ ਜੋੜੀ ਗਈ ਇਕਸਟੈਨਸ਼ਨ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ‘ਚ ਤਦ ਤੱਕ ਕੰਮ ਨਹੀਂ ਕਰੇਗੀ ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ ਸੈਟਿੰਗਾਂ ‘ਚ ਇਸ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਦਿੰਦੇ।
 appmenu-addon-private-browsing-learn-more = ਸਿੱਖੋ ਕਿ ਇਕਟਨੈਸ਼ਨ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਦਾ ਕਿਵੇਂ ਕਰੀਏ
