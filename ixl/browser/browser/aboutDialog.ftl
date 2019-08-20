@@ -22,3 +22,4 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } ile' ni b'anpu tuche
 update-manual = La uch ib'anax b'a'n stej tzitza' <label data-l10n-name="manual-link"/>
 update-unsupported = Ye' la uch ayakeb' ve't ti' ib'anat b'a'n stej tzitza'. <label data-l10n-name="unsupported-link">ootzi ka'te</label>
 update-restarting = Ile' ni xe'tisa unpajte
+channel-description = Ile' b'anel ve't kan tuche' tu b'anb'al tatine' <label data-l10n-name="current-channel"></label> ti' ib'anax b'a'n stej!
