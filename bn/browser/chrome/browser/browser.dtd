@@ -868,6 +868,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "যদি এতে আপনার সমস্যা হয় তবে সুরক্ষা বন্ধ করুন:">
 <!ENTITY protections.siteNotWorkingView.issueList.logInFields "লগইন ক্ষেত্র">
 <!ENTITY protections.siteNotWorkingView.issueList.forms "ফর্মসমূহ">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "পেমেন্ট">
@@ -983,6 +984,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateAvailable.panelUI.label "&brandShorterName; হালনাগাদ ডাউনলোড">
 <!ENTITY updateManual.panelUI.label "একটি নতুন &brandShorterName; কপি ডাউনলোড করুন">
+<!ENTITY updateUnsupported.panelUI.label "আপনি আরও হালনাগাদ সম্পাদন করতে পারবেন না">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; হালনাগাদ করতে রিস্টার্ট করুন">
 
 <!ENTITY newTabControlled.header.message "আপনার নতুন ট্যাব পরিবর্তিত হয়েছে।">
