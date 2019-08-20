@@ -12,3 +12,8 @@ update-updateButton =
     .label = Oypisa unpajte aq'al uva' la b'anax tuche'{ -brand-shorter-name }
     .accesskey = O
 update-checkingForUpdates = Ile' ni pich'u asoj at chit ka't b'anb'al tuche'...
+update-downloading = <img data-l10n-name="icon"/>Ile' ni teq'o ku'tzan ti' ib'anax tuche' __<label data-l10n-name="download-status"/>
+update-applying = Ile' toksa ve't ok u b'anb'al tuche'...
+update-failed = Kat yan ib'anax tuche'. <label data-l10n-name="failed-link">Eq'o ku'tzan  uve' a'n chit atoke</label>
+update-failed-main = Kat yan ib'anax tuche'. <a data-l10n-name="failed-link-main">Eq'o ku'tzan uve' a'nnal kuxh ib'anax tuche'</a>
+update-adminDisabled = Unq'a b'anb'al tuche' ya'samal ve't kat ta'n u ilol tetze'
