@@ -8,3 +8,7 @@ releaseNotes-link = Kam ak' at ve'te'
 update-checkForUpdatesButton =
     .label = Chuka kam ka't kam at ve'te'
     .accesskey = C
+update-updateButton =
+    .label = Oypisa unpajte aq'al uva' la b'anax tuche'{ -brand-shorter-name }
+    .accesskey = O
+update-checkingForUpdates = Ile' ni pich'u asoj at chit ka't b'anb'al tuche'...
