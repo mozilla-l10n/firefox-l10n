@@ -40,7 +40,7 @@
 <!ENTITY contentEncodingError.title "שגיאה בקידוד תוכן">
 <!ENTITY contentEncodingError.longDesc "<p>הדף בו הנך מנסה לצפות בו לא ניתן להצגה מאחר שהוא משתמש בסוג דחיסה שאינו חוקי או שאינו נתמך.</p><ul><li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li></ul>">
 
-<!ENTITY unsafeContentType.title "קובץ מסוכן לפתיחה">
+<!ENTITY unsafeContentType.title "סוג קובץ מסוכן">
 <!ENTITY unsafeContentType.longDesc "<ul>
   <li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li>
 </ul>">

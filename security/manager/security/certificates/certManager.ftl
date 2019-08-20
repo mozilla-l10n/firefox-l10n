@@ -197,7 +197,7 @@ verify-email-recip =
 # Cert verification
 cert-not-verified-cert-revoked = לא ניתו לאמת אישור זה משום שהוא בוטל.
 cert-not-verified-cert-expired = לא ניתן לאמת אישור זה משום שתוקפו פג.
-cert-not-verified-cert-not-trusted = לא ניתן לאמת אישור מכיוון שאינו מהימן.
+cert-not-verified-cert-not-trusted = לא ניתן לאמת אישור זה מכיוון שאינו מהימן.
 cert-not-verified-issuer-not-trusted = לא ניתן לאמת אישור זה מכיוון שהמנפיק אינו מהימן.
 cert-not-verified-issuer-unknown = לא ניתן לאמת אישור זה משום שהמנפיק לא מוכר.
 cert-not-verified-ca-invalid = לא ניתן לאמת אישור זה משום שאישור רשות האישורים אינו בתוקף.
