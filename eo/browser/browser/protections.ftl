@@ -73,6 +73,44 @@ monitor-link = Kiel funkcias tio
 monitor-header-content = Kontrolu { -monitor-brand-name } por vidi ĉu vi estis viktimo de datumfuĝo kaj ricevu atentigojn pri novaj datumfuĝoj.
 monitor-header-content-logged-in = { -monitor-brand-name } avertas vin se viaj informoj aperas en konata datumfuĝo
 monitor-sign-up = Abonu la atentigojn pri datumfuĝoj
+auto-scan = Aŭtomate kontrolitaj hodiaŭ
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-addresses =
+    { $count ->
+        [one] Retpoŝta adreso estas kontrolata.
+       *[other] Retpoŝtaj adresoj estas kontrolataj.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches =
+    { $count ->
+        [one] Konata datumfuĝo elmetis viajn informojn.
+       *[other] Konataj datumfuĝoj elmetis viajn informojn.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords =
+    { $count ->
+        [one] pasvorto elmemetita en ĉiuj datumfuĝoj.
+       *[other] pasvortoj elmemetitaj en ĉiuj datumfuĝoj.
+    }
+full-report-link = Vidi la tutan raporton en <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] Konservita legitimilo estis eble elmetita de datumfuĝo. Ŝanĝu tiun ĉi pasvorton por pli bona sekureco reta. <a data-l10n-name="lockwise-link">Vidi konservitajn legitimiloj</a>
+       *[other] Konservitaj legitimiloj estis eble elmetitaj de datumfuĝo. Ŝanĝu tiujn ĉi pasvortojn por pli bona sekureco reta. <a data-l10n-name="lockwise-link">Vidi konservitajn legitimiloj</a>
+    }
+# This is the title attribute describing the graph report's link to about:settings#privacy
+go-to-privacy-settings = Iri al la privatecaj agordoj
+# This is the title attribute describing the Lockwise card's link to about:logins
+go-to-saved-logins = Iri al la konservitaj legitimiloj
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -81,6 +119,20 @@ monitor-sign-up = Abonu la atentigojn pri datumfuĝoj
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Sociretaj spuriloj
+    .aria-label =
+        { $count ->
+            [one] Unu socireta spurilo ({ $percentage }%)
+           *[other] { $count } sociretaj spuriloj ({ $percentage }%)
+        }
+bar-tooltip-cookie =
+    .title = Interretejaj spurilaj kuketoj
+    .aria-label =
+        { $count ->
+            [one] Unu interreteja spurila kuketo ({ $percentage }%)
+           *[other] { $count } interretejaj spurilaj kuketoj ({ $percentage }%)
+        }
 bar-tooltip-fingerprinter =
     .title = Identigiloj de ciferecaj spuroj
     .aria-label =
