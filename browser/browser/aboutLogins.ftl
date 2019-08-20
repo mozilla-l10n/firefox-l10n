@@ -67,15 +67,70 @@ login-intro-heading = Ĉu vi serĉas viajn konservitajn legitimilojn? Agordu { -
 login-intro-description = Se vi konservis viajn legitimilojn en { -brand-product-name } en alia aparato, vi povas havi ilin ankaŭ ĉi tie jene:
 login-intro-instruction-fxa = Krei konton aŭ komencu seancon en { -fxaccount-brand-name } en la aparato, kie la legitimiloj estas konservitaj
 login-intro-instruction-fxa-settings = Certu esti elektinta la markobutonon Legitimiloj en la agordoj de { -sync-brand-short-name }
+login-intro-instruction-faq = Vizitu la { -lockwise-brand-short-name } <a data-l10n-name="faq">oftajn demandojn</a> por pli da informo
 
 ## Login
 
+login-item-new-login-title = Krei novan legitimilon
+login-item-edit-button = Redakti
+login-item-delete-button = Forigi
+login-item-origin-label = Adreso de retejo
+login-item-origin =
+    .placeholder = https://www.example.com
+login-item-open-site-button = Malfermi
+login-item-username-label = Nomo de uzanto
+login-item-username =
+    .placeholder = name@example.com
+login-item-copy-username-button-text = Kopii
+login-item-copied-username-button-text = Kopiita!
+login-item-password-label = Pasvorto
+login-item-password-reveal-checkbox-show =
+    .title = Montri pasvorton
+login-item-password-reveal-checkbox-hide =
+    .title = Kaŝi pasvorton
+login-item-copy-password-button-text = Kopii
+login-item-copied-password-button-text = Kopiita!
+login-item-save-changes-button = Konservi ŝanĝojn
+login-item-save-new-button = Konservi
+login-item-cancel-button = Nuligi
+login-item-time-changed = Laste modifita: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Kreita: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Laste uzita: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
+master-password-notification-message = Bonvolu tajpi vian ĉefan pasvorton por vidi konservitajn legitimilojn kaj pasvortojn
+master-password-reload-button =
+    .label = Komenci seancon
+    .accesskey = K
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Nuligi
+confirmation-dialog-dismiss-button =
+    .title = Nuligi
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Ĉu vi volas ĉiam havi vian legitimilojn, ĉie kie vi uzas { -brand-product-name }? Iru al la elektebloj de { -sync-brand-short-name } kaj elektu la markobutonon Legitimiloj.
+       *[other] Ĉu vi volas ĉiam havi vian legitimilojn, ĉie kie vi uzas { -brand-product-name }? Iru al la preferoj de { -sync-brand-short-name } kaj elektu la markobutonon Legitimiloj.
+    }
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Vizitu la elekteblojn de { -sync-brand-short-name }
+           *[other] Vizitu la preferojn de { -sync-brand-short-name }
+        }
+    .accesskey = V
+confirm-delete-dialog-title = Ĉu forigi tiun ĉi legitimilon?
+confirm-delete-dialog-message = Tiu ĉi ago ne estas malfarebla.
+confirm-delete-dialog-confirm-button = Forigi
+confirm-discard-changes-dialog-title = Ĉu ignori nekonservitajn ŝanĝojn?
+confirm-discard-changes-dialog-message = Ĉiuj nekonservitaj ŝanĝoj estos perditaj.
+confirm-discard-changes-dialog-confirm-button = Ignori
 
 ## Breach Alert notification
 
+breach-alert-text = Pasvortoj estis elmetitaj aŭ ŝtelitaj el tiu ĉi retejo ekde via lasta ŝanĝo en la legitimilo. Ŝanĝu vian pasvorton por protekti vian konton.
+breach-alert-link = Pli da informo pri tiu ĉi datumfuĝo.
+breach-alert-dismiss =
+    .title = Fermi tiun ĉi atentigon
