@@ -102,7 +102,7 @@
 <!ENTITY fullscreenWarning.generic.label "Questo documento è ora visualizzato a schermo intero">
 <!ENTITY pointerlockWarning.beforeDomain.label "">
 <!ENTITY pointerlockWarning.afterDomain.label "sta controllando il puntatore del mouse. Premere Esc per riprenderne il controllo.">
-<!ENTITY pointerlockWarning.generic.label "sta controllando il puntatore del mouse. Premere Esc per riprenderne il controllo.">
+<!ENTITY pointerlockWarning.generic.label "Questo documento sta controllando il puntatore del mouse. Premere Esc per riprenderne il controllo.">
 <!ENTITY exitDOMFullscreen.button "Esci da schermo intero (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Esci da schermo intero (esc)">
 <!ENTITY leaveDOMFullScreen.label "Esci da schermo intero">
