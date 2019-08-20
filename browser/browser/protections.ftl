@@ -67,6 +67,7 @@ lockwise-sync-status =
         [one] Sincronización con { $count } otro dispositivo
        *[other] Sincronización con { $count } otros dispositivos
     }
+lockwise-sync-not-syncing = No sincroniza con otros dispositivos.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
