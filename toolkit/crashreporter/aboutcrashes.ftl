@@ -3,10 +3,13 @@
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
 crash-reports-title = ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ
-clear-all-reports-label = ਸਭ ਰਿਪੋਰਟਾਂ ਨੂੰ ਹਟਾਓ
+delete-button-label = ਸਾਰੇ ਸਾਫ਼ ਕਰੋ
 delete-confirm-title = ਕੀ ਤੁਸੀਂ ਤਸਦੀਕ ਕਰਦੇ ਹੋ?
-delete-confirm-description = ਇਸ ਨਾਲ ਸਭ ਰਿਪੋਰਟਾਂ ਹਟਾ ਦਿੱਤੀਆਂ ਜਾਣਗੀਆਂ ਅਤੇ ਵਾਪਸ ਨਹੀਂ ਲਈਆਂ ਜਾ ਸਕਦੀਆਂ।
 id-heading = ਰਿਪੋਰਟ ID
 date-crashed-heading = ਕਰੈਸ਼ ਦੀ ਮਿਤੀ
+submit-crash-button-label = ਭੇਜੋ
+# This text is used to replace the label of the crash submit button
+# if the crash submission fails.
+submit-crash-button-failure-label = ਅਸਫ਼ਲ ਹੈ
 no-reports-label = ਕੋਈ ਕਰੈਸ਼ ਰਿਪੋਰਟ ਨਹੀਂ ਦਿੱਤੀ ਗਈ
 no-config-label = ਇਹ ਐਪਲੀਕੇਸ਼ਨ ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਵੇਖਾਉਣ ਲਈ ਸੰਰਚਿਤ ਨਹੀਂ ਕੀਤੀ ਗਈ ਹੈ। <code>breakpad.reportURL</code> ਸੈੱਟ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।

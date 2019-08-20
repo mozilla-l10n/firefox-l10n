@@ -4,6 +4,9 @@
 
 addons-window =
     .title = ਐਡ-ਆਨ ਮੈਨੇਜਰ
+search-header =
+    .placeholder = addons.mozilla.org ਨੂੰ ਖੋਜੋ
+    .searchbuttonlabel = ਖੋਜੋ
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = …ਐਡ-ਆਨ ਫਾਈਲ ਤੋਂ ਇੰਸਟਾਲ ਕਰੋ
     .accesskey = I
+help-button = ਐਡ-ਆਨ ਸਹਿਯੋਗ
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } ਚੋਣਾਂ
+       *[other] { -brand-short-name } ਪਸੰਦਾਂ
+    }
 tools-menu =
     .tooltiptext = ਸਭ ਐਡ-ਆਨ ਲਈ ਟੂਲ
 show-unsigned-extensions-button =
@@ -79,6 +88,19 @@ detail-update-automatic =
 detail-update-manual =
     .label = ਬੰਦ
     .tooltiptext = ਅੱਪਡੇਟ ਆਟੋਮੈਟਿਕ ਇੰਸਟਾਲ ਨਾ ਕਰੋ
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ‘ਚ ਚੱਲਣਾ
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overridden by the user.
+detail-private-disallowed-label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਵਿੱਚ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਲਈ ਪਹੁੰਚ ਦੀ ਲੋੜ ਹੈ
+detail-private-browsing-on =
+    .label = ਇਜਾਜ਼ਤ ਹੈ
+    .tooltiptext = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ ਕਰਨ ‘ਚ ਸਮਰੱਥ ਹੈ
+detail-private-browsing-off =
+    .label = ਇਜਾਜ਼ਤ ਨਾ ਦਿਓ
+    .tooltiptext = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਅਸਮਰੱਥ
 detail-home =
     .label = ਮੁੱਖ ਸਫ਼ਾ
 detail-home-value =
@@ -124,9 +146,9 @@ legacy-extensions-description = ਇਹ ਇਕਟੈਸ਼ਨਾਂ ਮੌਜੂਦ�
 private-browsing-description2 =
     { -brand-short-name } ਪਰਾਈਵੇਟ ਬਰਾਊਜ਼ ਕਰਨ ਵਾਲੇ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੇ ਕੰਮ ਕਰਨ ਦੇ ਢੰਗ ਨੂੰ ਬਦਲ ਰਿਹਾ ਹੈ। ਤੁਹਾਡੇ { -brand-short-name } ਵਿੱਚ ਜੋੜੀ ਗਈ ਕੋਈ ਵੀ ਨਵੀਂ ਇਕਸਟੈਨਸ਼ਨ ਆਪਣੇ-ਆਪ ਪਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਨਹੀਂ ਚੱਲੇਗੀ। ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ ਉਸ ਨੂੰ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਇਜਾਜ਼ਤ ਨਹੀਂ ਦਿਉਂਗੇ, ਇਕਸਟੈਨਸ਼ਨ ਪਰਾਈਵੇਟ ਬਰਾਊਜ਼ ਕਰਨ ਦੌਰਾਨ ਕੰਮ ਨਹੀਂ ਕਰੇਗੀ ਅਤੇ ਤੁਹਾੀਡਆਂ ਆਨਲਾਈਨ ਸਰਗਰਮੀਆਂ ਲਈ ਪਹੁੰਚ ਨਹੀਂ ਕਰ ਸਕੇਗੀ। ਅਸੀਂ ਇਹ ਤਬਦੀਲੀ ਤੁਹਾਡੀ ਪਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਨਿੱਜੀ ਬਣਾਈ ਰੱਖਣ ਲਈ ਕੀਤੀ ਹੈ।
     <label data-l10n-name="private-browsing-learn-more">ਇਕਸਟੈਨਸ਼ਨ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰਨ ਬਾਰੇ ਹੋਰ ਜਾਣੋ</label>
-extensions-view-discover =
-    .name = ਐਡ-ਆਨ ਲਵੋ
-    .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = ਸਿਫਾਰਸ਼
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = ਤਾਜ਼ਾ ਅੱਪਡੇਟ
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -207,9 +229,80 @@ extensions-updates-update-selected =
 
 ## Recommended add-ons page
 
+privacy-policy = ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = <a data-l10n-name="author">{ $author }</a> ਵਲੋਂ
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = ਵਰਤੋਂਕਾਰ: { $dailyUsers }
+install-extension-button = { -brand-product-name } ‘ਚ ਜੋੜੋ
+install-theme-button = ਥੀਮ ਇੰਸਟਾਲ ਕਰੋ
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = ਬੰਦੋਬਸਤ
+find-more-addons = ਹੋਰ ਐਡ-ਆਨ ਲੱਭੋ
 
 ## Add-on actions
 
+report-addon-button = ਰਿਪੋਰਟ
+remove-addon-button = ਹਟਾਓ
+disable-addon-button = ਅਸਮਰੱਥ ਕਰੋ
+enable-addon-button = ਸਮਰੱਥ ਕਰੋ
+expand-addon-button = ਹੋਰ ਚੋਣਾਂ
+details-addon-button = ਵੇਰਵੇ
+release-notes-addon-button = ਰੀਲਿਜ਼ ਨੋਟਿਸ
+permissions-addon-button = ਇਜਾਜ਼ਤਾਂ
+addons-enabled-heading = ਸਮਰੱਥ ਹੈ
+addons-disabled-heading = ਅਸਮਰੱਥ ਹੈ
+extension-enabled-heading = ਸਮਰੱਥ ਹੈ
+extension-disabled-heading = ਅਸਮਰੱਥ ਹੈ
+theme-enabled-heading = ਸਮਰੱਥ ਹੈ
+theme-disabled-heading = ਅਸਮਰੱਥ ਹੈ
+plugin-enabled-heading = ਸਮਰੱਥ ਹੈ
+plugin-disabled-heading = ਅਸਮਰੱਥ ਹੈ
+dictionary-enabled-heading = ਸਮਰੱਥ ਹੈ
+dictionary-disabled-heading = ਅਸਮਰੱਥ ਹੈ
+locale-enabled-heading = ਸਮਰੱਥ ਹੈ
+locale-disabled-heading = ਅਸਮਰੱਥ ਹੈ
+ask-to-activate-button = ਸਰਗਰਮ ਕਰਨ ਲਈ ਪੁੱਛੋ
+always-activate-button = ਹਮੇਸ਼ਾ ਸਰਗਰਮ ਕਰੋ
+never-activate-button = ਕਦੇ ਸਰਗਰਮ ਨਾ ਕਰੋ
+addon-detail-author-label = ਲੇਖਕ
+addon-detail-version-label = ਵਰਜ਼ਨ
+addon-detail-last-updated-label = ਆਖਰੀ ਅੱਪਡੇਟ
+addon-detail-homepage-label = ਮੁੱਖ ਸਫ਼ਾ
+addon-detail-rating-label = ਦਰਜਾ
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = 5 ‘ਚੋਂ { NUMBER($rating, maximumFractionDigits: 1) } ਦਰਜਾ
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (ਅਸਮਰੱਥ ਹੈ)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } ਪੜਤਾਲ
+       *[other] { $numberOfReviews } ਪੜਤਾਲਾਂ
+    }
 
 ## Pending uninstall message bar
 
+pending-uninstall-undo-button = ਵਾਪਸ
+addon-detail-updates-label = ਆਪਣੇ-ਆਪ ਅੱਪਡੇਟ ਦੀ ਇਜਾਜ਼ਤ ਹੈ
+addon-detail-updates-radio-default = ਮੂਲ
+addon-detail-updates-radio-on = ਚਾਲੂ
+addon-detail-updates-radio-off = ਬੰਦ
+addon-detail-update-check-label = ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ
+install-update-button = ਅੱਪਡੇਟ ਕਰੋ
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ‘ਚ ਇਜਾਜ਼ਤ ਹੈ
