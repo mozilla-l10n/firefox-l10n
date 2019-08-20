@@ -68,6 +68,9 @@ lockwise-sync-status =
        *[other] Sincronización con { $count } otros dispositivos
     }
 lockwise-sync-not-syncing = No sincroniza con otros dispositivos.
+monitor-title = Esté atento a las violaciones de datos
+monitor-link = Cómo funciona
+monitor-header-content = Controle { -monitor-brand-name } para ver si fue parte de una violación de datos y recibir alertas sobre nuevas violaciones.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
