@@ -21,3 +21,12 @@ accessibility-best-practices =
 ## that describe that currently selected accessible object has an accessibility issue
 ## with its text label or accessible name.
 
+accessibility-text-label-issue-area = Usa el atributo <code>alt</code> para etiquetar elementos <div>area</div> que tengan el atributo <span>href</span>. <a>Saber más</a>
+accessibility-text-label-issue-dialog = Los cuadros de diálogo deben etiquetarse. <a>Saber más</a>
+accessibility-text-label-issue-document-title = Los documentos deben llevar <code>título</code>. <a>Saber más</a>
+accessibility-text-label-issue-embed = El contenido incrustado debe etiquetarse. <a>Saber más información</a>
+accessibility-text-label-issue-figure = Las figuras con subtítulos opcionales debieran ser etiquetadas. <a>Saber más más</a>
+accessibility-text-label-issue-fieldset = Los elementos <code>fieldset</code> deben ser etiquetados. <a>Saber más</a>
+accessibility-text-label-issue-fieldset-legend = Usa el elemento <code>legend</code> para etiquetar elementos <span>fieldset</span>. <a>Saber más</a>
+accessibility-text-label-issue-fieldset-legend2 = Usa el elemento <code>legend</code> para etiquetar un <span>fieldset</span>. <a>Saber más</a>
+accessibility-text-label-issue-form = Los elementos del formulario deben etiquetarse. <a>Saber más</a>

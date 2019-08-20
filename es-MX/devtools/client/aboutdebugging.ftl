@@ -277,7 +277,7 @@ about-debugging-worker-action-unregister = Anular el registro
 # Displayed for service workers in runtime pages that listen to Fetch events.
 about-debugging-worker-fetch-listening =
     .label = Fetch
-    .value = Prestar atención a eventos fetch
+    .value = Escuchar a eventos fetch
 # Displayed for service workers in runtime pages that do not listen to Fetch events.
 about-debugging-worker-fetch-not-listening =
     .label = Fetch
@@ -289,6 +289,16 @@ about-debugging-worker-status-running = En ejecución
 about-debugging-worker-status-stopped = Detenido
 # Displayed for service workers in runtime pages that are registering.
 about-debugging-worker-status-registering = Registrando
+# Displayed for service workers in runtime pages, to label the scope of a worker
+about-debugging-worker-scope =
+    .label = Alcance
+# Displayed for service workers in runtime pages, to label the push service endpoint (url)
+# of a worker
+about-debugging-worker-push-service =
+    .label = Servicio Push
+# Displayed as title of the inspect button when service worker debugging is disabled.
+about-debugging-worker-inspect-action-disabled =
+    .title = La inspección de Service Worker en este momento está deshabilitada para multiproceso { -brand-shorter-name }
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Proceso principal
