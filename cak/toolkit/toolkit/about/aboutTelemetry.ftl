@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = Kixe'el ri taq rutzij ping:
 about-telemetry-show-current-ping-data = Taq rutzij wakami ri ping
+about-telemetry-show-current-data = Tzij wakami
 about-telemetry-show-archived-ping-data = Yakon taq rutzij ri ping
 about-telemetry-show-subsession-data = Kek'ut pe taq rutzij rachmolojri'ïl
 about-telemetry-choose-ping = Ticha' ping:
@@ -76,6 +77,7 @@ about-telemetry-settings-explanation = Ri etataqonel tajin numöl { about-teleme
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Chi kijujunal ri taq rutzijol yetaq pa “<a data-l10n-name="ping-link">taq xub'anïk</a>”. Tajin natz'ët ri { $name }, { $timestamp } xub'anïk.
 about-telemetry-ping-details-current = Chi kijujunal ri taq rutzijol yetaq pa “<a data-l10n-name="ping-link">taq xub'anïk</a>“. Tajin natz'ët ri wakami xub'anïk.
+about-telemetry-data-details-current = Jujun peraj etamab'äl nitaq pa molaj pa “<a data-l10n-name="ping-link">pings</a>“. Natz'ët ri tzij k'o wakami.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -102,6 +104,8 @@ about-telemetry-no-search-results-all = ¡Kojakuyu'! Majun achike xqïl pa jujun
 about-telemetry-no-data-to-display = ¡Kojakuyu'! Wakami ma e k'o ta taq tzij pa “{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = wakami xub'anïk
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = tzij k'o wakami
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = ronojel
 # button label to copy the histogram
@@ -142,3 +146,6 @@ about-telemetry-origin-count = tajiläx
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetri</a> ke'awewaj kisik'ixik taq tzij chuwäch yetaq richin chi ri { $telemetryServerOwner } nitikïr yerajilaj taq wachinäq, po man etaman ta we k'o jun { -brand-product-name } ri xto'on pa ri ajilanem ri'. (<a data-l10n-name="prio-blog-link">Tetamäx ch'aqa' chik</a>)
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = { $process } tajinïk

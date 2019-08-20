@@ -6,6 +6,12 @@ process-type-web = Ajk'amaya'l Rupam
 # process used to run privileged pages,
 # such as about:home
 process-type-privileged = Ichinan Rupam
+# process used to run privileged about pages,
+# such as about:home
+process-type-privilegedabout = Chi rij Ichinanem
+# process used to run privileged mozilla pages,
+# such as accounts.firefox.com
+process-type-privilegedmozilla = Ichinan Rupam Mozilla
 process-type-extension = K'amal
 # process used to open file:// URLs
 process-type-file = Aj Wawe' Yakb'äl

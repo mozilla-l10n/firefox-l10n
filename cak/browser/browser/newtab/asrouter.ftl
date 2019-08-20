@@ -92,6 +92,10 @@ cfr-doorhanger-sync-bookmarks-ok-button = Titzij { -sync-brand-short-name }
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = Man Tasäch chik jun Ewan Tzij
+cfr-doorhanger-sync-logins-body = Ütz ke'ayaka' ri ewan taq atzij chuqa' ke'axima' pa ronojel taq awokisab'al.
+cfr-doorhanger-sync-logins-ok-button = Titzij { -sync-brand-short-name }
+    .accesskey = T
 
 ## Send Tab
 

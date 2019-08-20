@@ -32,8 +32,17 @@ app-basics-name = B'i'aj
 app-basics-version = Ruwäch
 app-basics-build-id = Nimaläj rub'i' molïk
 app-basics-update-channel = Rub'ey taq k'exoj ruwäch
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Rucholajem K'exoj
+       *[other] Rumolb'al K'exoj
+    }
 app-basics-update-history = Kinatab'al taq k'exoj ruwäch
 app-basics-show-update-history = Tik'ut pe ri kinatab'al taq k'exoj ruwäch
+# Represents the path to the binary used to start the application.
+app-basics-binary = Ruwinari Chokoy
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Rucholb'äl Ruwäch B'i'aj
@@ -49,7 +58,6 @@ app-basics-service-workers = Samajela' pa samaj tz'ib'an kib'i'
 app-basics-profiles = Taq ruwäch b'i'aj
 app-basics-launcher-process-status = Rub'anik K'aqonel
 app-basics-multi-process-support = Rutzuwach k'ïy tajin
-app-basics-process-count = Rutajinik Rupam Ajk'amaya'l
 app-basics-remote-processes-count = Näj taq Tajin
 app-basics-enterprise-policies = Ajk'aymolojel taq Na'ojil
 app-basics-location-service-key-google = Google K'ojlib'äl Ewan Rutzij Samaj
@@ -79,6 +87,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Runa'oj tz'ib'anïk
 graphics-crash-guards-title = Tzaqoj Chajïy q'ajon taq b'anikil
 graphics-workarounds-title = Tz'aqat taq soloj
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Rub'eyal Tzuwäch
 place-database-title = Taq kik'ojlem cholxe'el tzij
 place-database-integrity = Ch'ajch'ojri'ïl
 place-database-verify-integrity = Tinik'öx ch'ajch'ojri'ïl
@@ -229,7 +239,6 @@ uses-tiling = Tokisäx Ch'utiwäch
 content-uses-tiling = Tokisäx Ch'utiwäch (Rupam)
 off-main-thread-paint-enabled = Off Nïm Rub'ey Rachwinäq Tzijon
 off-main-thread-paint-worker-count = Off Main Thread Painting Worker Tajiläx
-low-end-machine = Xilitäj jun ko'öl rub'eyal nisamäj samajib'äl
 target-frame-rate = Retal Ruchi' Rub'ey:
 audio-backend = Q'ojom Backend
 max-audio-channels = Nima'q taq b'ey
