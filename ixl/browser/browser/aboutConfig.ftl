@@ -12,6 +12,11 @@ about-config-search-input =
     .placeholder = Chuka
 about-config-show-all = K'uch kaajayil
 about-config-pref-add = Aq'o'ke'
+about-config-pref-toggle = Jalpu
+about-config-pref-edit = B'an tuche'
+about-config-pref-save = Kola
+about-config-pref-reset = Q'aavisa unpajte
+about-config-pref-delete = Eesa el
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
