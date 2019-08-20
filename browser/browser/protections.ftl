@@ -36,6 +36,7 @@ graph-today = Astăzi
 social-tab-title = Elemente de urmărire ale rețelelor sociale
 cookie-tab-title = Cookie-uri de urmărire între site-uri
 fingerprinter-tab-title = Detectoare de amprente digitale
+cryptominer-tab-title = Criptomineri
 lockwise-header-content-logged-in = Stochează-ți și sincronizează-ți parolele în siguranță pe toate dispozitivele.
 open-about-logins-button = Deschide în { -brand-short-name }
 # This string is displayed after a large numeral that indicates the total number

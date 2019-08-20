@@ -890,6 +890,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY protections.socialMediaTrackers.label "Elemente de urmărire ale rețelelor sociale">
 <!ENTITY protections.crossSiteTrackingCookies.label "Cookie-uri de urmărire între site-uri">
+<!ENTITY protections.cryptominers.label "Criptomineri">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
