@@ -90,6 +90,13 @@ cfr-doorhanger-sync-bookmarks-body = Yer imlerinize, parolalarınıza, geçmişi
 cfr-doorhanger-sync-bookmarks-ok-button = { -sync-brand-short-name }’i aç
     .accesskey = a
 
+## Login Sync
+
+cfr-doorhanger-sync-logins-header = Bir daha hiçbir parolanızı unutmayın
+cfr-doorhanger-sync-logins-body = Parolalanızı güvenle depolayın, onlara tüm cihazlarınızdan ulaşın.
+cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name }’i aç
+    .accesskey = a
+
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Bu yazıyı yolda okuyun
