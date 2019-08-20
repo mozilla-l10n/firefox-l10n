@@ -2,8 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Ұсынылатын кеңейту
+cfr-doorhanger-feature-heading = Ұсынылатын мүмкіндік
 cfr-doorhanger-pintab-heading = Осыны көріңіз: Бетті бекіту
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Мен бұны неге көріп отырмын
 cfr-doorhanger-extension-cancel-button = Қазір емес
@@ -61,9 +68,25 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Жабу батырмасы
     .title = Жабу
 
+## Protections panel
+
+cfr-protections-panel-link-text = Көбірек білу
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
     .label = Не жаңалық
     .tooltiptext = Не жаңалық
 cfr-whatsnew-panel-header = Не жаңалық
+
+## Bookmark Sync
+
+
+## Login Sync
+
+
+## Send Tab
+
+
+## Firefox Send
+
