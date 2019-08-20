@@ -47,6 +47,9 @@ newtab-topsites-add-button = చేర్చు
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = మీరు మీ చరిత్ర నుండి ఈ పేజీ యొక్క ప్రతి ఉదాహరణకు తొలగించాలనుకుంటున్నారా?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = ఈ చర్యను రద్దు చేయలేము.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = ఇష్టాంశం
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = దింపుకోలు లంకెను కాపీచేయి
 newtab-menu-go-to-download-page = దింపుకోళ్ళ పేజీకి వెళ్ళు
 newtab-menu-remove-download = చరిత్ర నుండి తొలగించు
@@ -116,6 +123,10 @@ newtab-label-download = దింపుకున్నవి
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = విభాగాన్ని తీసివేయి
 newtab-section-menu-collapse-section = విభాగాన్ని ముడిచివేయి
 newtab-section-menu-expand-section = విభాగాన్ని విస్తరించు
@@ -126,6 +137,9 @@ newtab-section-menu-add-search-engine = శోధన యంత్రాన్న
 newtab-section-menu-move-up = పైకి జరుపు
 newtab-section-menu-move-down = కిందకి జరుపు
 newtab-section-menu-privacy-notice = అంతరంగికత గమనిక
+
+## Section aria-labels
+
 
 ## Section Headers.
 
@@ -142,6 +156,10 @@ newtab-empty-section-highlights = విహారించడం మొదలు
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = మీరు పట్టుబడ్డారు. { $provider } నుండి మరింత అగ్ర కథనాల కోసం తరువాత తనిఖీ చేయండి. వేచి ఉండలేరా? జాలములోని అంతటి నుండి మరింత గొప్ప కథనాలను కనుగొనడానికి ప్రసిద్ధ అంశం ఎంచుకోండి.
+
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-try-again-button = మళ్ళీ ప్రయత్నించు
 
 ## Pocket Content Section.
 
