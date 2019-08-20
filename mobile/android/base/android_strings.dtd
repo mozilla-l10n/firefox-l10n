@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Добродошли">
 <!ENTITY firstrun_urlbar_message2 "Хвала вам што се изабрали &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Добродошли у &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Модеран прегледач за мобилне уређаје од Mozilla-е, непрофитне организације посвећене слободном и отвореном вебу.">
+<!ENTITY newfirstrun_urlbar_subtext "Брзо, приватно и на вашој страни.">
 <!ENTITY firstrun_panel_title_privacy "Приватност">
 <!ENTITY firstrun_privacy_message "Прегледајте као да вас нико не надгледа">
 <!ENTITY firstrun_privacy_subtext "Приватно прегледање са заштитом од праћења блокира пратиоце док сурфујете и неће памтити ваш историјат након што завршите са сурфовањем.">
+<!ENTITY newfirstrun_privacy_subtext "Приватно прегледање блокира огласе који вас прате на мрежи.">
 <!ENTITY firstrun_panel_title_customize "Прилагоди">
 <!ENTITY firstrun_customize_message "Прилагодите &brandShortName; себи.">
 <!ENTITY firstrun_customize_subtext "Прилагодите &brandShortName; са додацима. Блокирајте рекламе, додајте могућности или изаберите тему која вам највише лежи.">
@@ -18,10 +21,15 @@
 <!ENTITY firstrun_data_message "Мање података, више штедње">
 <!ENTITY firstrun_data_subtext2 "Искључите приказивање слика да потрошите мање података на сваком сајту који посећујете.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY updatednewfirstrun_sync_title "Налог">
 <!ENTITY firstrun_sync_message2 "Наставите тамо где сте стали.">
 <!ENTITY firstrun_sync_subtext2 "Искористите Sync да нађете забелешке, лозинке и друге ствари које сте сачували у &brandShortName;-у на свим вашим уређајима.">
+<!ENTITY newfirstrun_sync_subtext "Синхронизујте ствари које сачувате на мобилном уређају са Firefox-ом за стоне рачунаре, приватно и безбедно.">
+<!ENTITY updatednewfirstrun_sync_subtext "Пријавите се у ваш налог да бисте искористили све предности &brandShortName;-а">
 <!ENTITY firstrun_signin_message "Повежите се, започните">
 <!ENTITY firstrun_signin_button "Пријави се на Sync">
+<!ENTITY newfirstrun_signin_button "Укључите Sync">
+<!ENTITY updatednewfirstrun_signin_button "Пријавите се у &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Започните прегледање">
 <!ENTITY firstrun_button_notnow "Не сада">
 <!ENTITY firstrun_button_next "Следеће">
@@ -61,8 +69,18 @@
 <!ENTITY  sending_crash_report "Шаљем извештај о рушењу\u2026">
 <!ENTITY  crash_close_label "Затвори">
 <!ENTITY  crash_restart_label "Рестартуј &brandShortName;">
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "Програм &brandShortName; је пао">
+<!ENTITY  crash_notification_message "Тапните да пошаљете извештај &vendorShortName;-и">
+<!ENTITY  crash_notification_negative_button_text "Занемари">
 
 <!ENTITY url_bar_default_text2 "Претражи или унеси адресу">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+<!ENTITY search_widget_default_text "Претражи веб">
+<!ENTITY search_widget_default_cropped_text "Претражи">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -97,6 +115,8 @@
 <!ENTITY bookmark_folder_updated "Фасцикла ажурирана">
 <!ENTITY bookmark_parent_folder "Родитељски директоријум">
 <!ENTITY bookmark_add_folder "Додајте нову фасциклу">
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
 
 <!ENTITY reader_saved_offline "Сачувано ван мреже">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -290,11 +310,10 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Сазнајте више о коришћењу &brandShortName;-а и других &vendorShortName; производа">
-
+<!-- Localization note (pref_feature_tips_notification_enabling_path):
+     Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
 <!-- Localization note (pref_feature_tips_notification_enabling_hint):
-     Describe the action the user should do to enable this preference
-     Will be used in the context "<Turn on> ... to enable this feature" -->
-<!ENTITY pref_feature_tips_notification_enabling_hint "Укључите">
+     Describe the action the user should do to enable this preference. -->
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -316,11 +335,6 @@
 <!ENTITY pref_pwa "Прогресивне веб апликације">
 <!ENTITY pref_pwa_summary "Омогући веб апликацијама да буду додате на екран телефона">
 
-<!ENTITY tracking_protection_prompt_title "Сада са заштитом од праћења">
-<!ENTITY tracking_protection_prompt_text "Активно блокира елементе који вас прате, немате бриге.">
-<!ENTITY tracking_protection_prompt_tip_text "Посетите поставке приватности да сазнате више">
-<!ENTITY tracking_protection_prompt_action_button "Разумем!">
-
 <!ENTITY tab_queue_toast_message3 "Отворено у &brandShortName;-у">
 <!ENTITY tab_queue_toast_action "Отвори сада">
 <!ENTITY tab_queue_prompt_title "Отворити више веза?">
@@ -334,6 +348,8 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Отвори поставке">
+<!-- Localization note (tab_queue_notification_prompt): This is the text of the default notification
+shown from Android O while a tab is being queued.-->
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -392,15 +408,15 @@
 <!ENTITY pref_private_data_searchHistory "Историја претраге">
 <!ENTITY pref_private_data_formdata2 "Историја форми">
 <!ENTITY pref_private_data_cookies2 "Колачићи и пријаве">
-<!ENTITY pref_private_data_passwords2 "Сачуване пријаве">
 <!ENTITY pref_private_data_cache "Кеш">
 <!ENTITY pref_private_data_offlineApps "Ванмрежни подаци сајта">
 <!ENTITY pref_private_data_siteSettings2 "Поставке сајта">
 <!ENTITY pref_private_data_downloadFiles2 "Преузимања">
 <!ENTITY pref_private_data_syncedTabs "Синхронизовани језичци">
 
-<!ENTITY pref_default_browser "Учини подразумеваним прегледачем">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Посети Mozilla подршку">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY pref_about_firefox "О &brandShortName;">
 <!ENTITY pref_vendor_faqs "ЧПП">
 <!ENTITY pref_vendor_feedback "Пошаљи повратне информације">
@@ -495,6 +511,9 @@
 <!ENTITY find_next "Следећи">
 <!ENTITY find_close "Затвори">
 
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY media_sending_to "Шаљем на уређај">
@@ -567,6 +586,7 @@
 <!ENTITY bookmark_edit_location "Локација">
 <!ENTITY bookmark_edit_keyword "Кључна реч">
 <!ENTITY bookmark_select_folder "Изаберите фасциклу">
+
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -840,8 +860,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; је актуелан">
 <!ENTITY whatsnew_notification_summary "Сазнајте шта је ново у овој верзији">
 
-<!ENTITY promotion_add_page_shortcut "Додај пречицу ка страници">
-
 <!ENTITY helper_first_offline_bookmark_title "Читај ван мреже">
 <!ENTITY helper_first_offline_bookmark_message "Пронађите ставке читача у забелешкама, чак и ван мреже.">
 <!ENTITY helper_first_offline_bookmark_button "Забелешке">
@@ -900,12 +918,9 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_description "Паузирајте пуштање">
 
 <!-- Notification channels names -->
-<!ENTITY default_notification_channel "&brandShortName;">
 <!ENTITY mls_notification_channel "&vendorShortName; Сервис за локацију">
 <!ENTITY download_notification_channel "Преузимања">
-<!ENTITY media_notification_channel "Репродукција медије">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
-<!ENTITY leanplum_default_notifications_channel "&brandShortName; Push обавештења">
 <!ENTITY updater_notification_channel "Ажурирања апликација">
 <!ENTITY synced_tabs_notification_channel "Синхронизовани јежичци">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
