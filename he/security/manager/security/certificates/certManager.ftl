@@ -201,7 +201,7 @@ cert-not-verified-cert-not-trusted = לא ניתן לאמת אישור מכיו�
 cert-not-verified-issuer-not-trusted = לא ניתן לאמת אישור זה מכיוון שהמנפיק אינו מהימן.
 cert-not-verified-issuer-unknown = לא ניתן לאמת אישור זה משום שהמנפיק לא מוכר.
 cert-not-verified-ca-invalid = לא ניתן לאמת אישור זה משום שאישור רשות האישורים אינו בתוקף.
-cert-not-verified_algorithm-disabled = לא ניתן לאמת את אישור אבטחה זה כי הוא נחתם על־ידי אלגוריתם חתימה שנוטרל כי הוא אינו בטוח.
+cert-not-verified_algorithm-disabled = לא ניתן לאמת את אישור האבטחה הזה כי הוא נחתם על־ידי אלגוריתם חתימה שנוטרל מכיוון שאינו מאובטח.
 cert-not-verified-unknown = לא ניתן לאמת אישור זה מסיבות לא מוכרות.
 
 ## Add Security Exception dialog
