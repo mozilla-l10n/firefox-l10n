@@ -6,9 +6,10 @@
 about-config-warning-title = மறைந்திருக்கும் பகுதி இதோ!
 about-config-warning-checkbox = மீண்டும் நினைவூட்டு!
 about-config-warning-button = நான் இடரை ஏற்கிறேன்
-about-config-title = about:config
-about-config-search =
-    .placeholder = தேடுக அல்லது அனைத்தையும் காட்ட ESC பொத்தானை அழுத்துங்கள்
+about-config2-title = மேம்பட்ட கட்டமைப்புகள்
+about-config-search-input =
+    .placeholder = தேடு
+about-config-show-all = அனைத்தையும் காட்டு
 about-config-pref-add = சேர்
 about-config-pref-toggle = நிலைமாற்று
 about-config-pref-edit = தொகு
