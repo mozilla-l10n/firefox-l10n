@@ -27,15 +27,20 @@ protection-header-details-custom = Beskyttelsesnivået er satt til <b>tilpasset<
 protection-report-page-title = Personvernbeskyttelser
 protection-report-content-title = Personvernbeskyttelser
 etp-card-title = Utvidet sporingsbeskyttelse
+etp-card-content = Sporere følger deg rundt på nettet for å samle informasjon om surfevanene og interessene dine. { -brand-short-name } blokkerer mange av disse sporere og andre ondsinnede skript.
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = I dag
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = En graf som inneholder det totale antallet for hver type av sporere som har blitt blokkert denne uken.
 social-tab-title = Sporing via sosiale medier
+social-tab-contant = Sosiale nettverk plasserer sporere på andre nettsteder for å følge det du gjør og ser på nettet. Dette gjør at sosiale media-selskaper kan lære mer om deg utover det du deler på profilene dine på sosiale medier. <a data-l10n-name="learn-more-link">Les mer</a>
 cookie-tab-title = Sporingsinfokapsler på tvers av nettsteder
+cookie-tab-content = Disse infokapslene følger deg fra nettsted til nettsted for å samle inn data om hva du gjør på nettet. De er satt av tredjeparter som annonsører og analyseselskaper. Blokkering av sporingsinfokapsler på tvers av nettsteder reduserer antall annonser som følger deg. <a data-l10n-name="learn-more-link">Les mer</a>
 tracker-tab-title = Sporings-innhold
+tracker-tab-content = Nettsteder kan laste inn eksterne annonser, videoer og annet innhold som inneholder sporingskode. Blokkering av sporingsinnhold kan hjelpe nettsteder å laste raskere, men noen knapper, skjemaer og innloggingsfelt fungerer kanskje ikke. <a data-l10n-name="learn-more-link">Les mer</a>
 fingerprinter-tab-title = Fingerprinters
+fingerprinter-tab-content = Fingerprinters samler innstillinger fra nettleseren din og datamaskinen for å opprette en profil av deg. Ved hjelp av dette digitale fingeravtrykket kan de spore deg på forskjellige nettsteder. <a data-l10n-name="learn-more-link">Les mer</a>
 cryptominer-tab-title = Kryptominere
 cryptominer-tab-content = Kryptominere bruker systemets datakraft for å utvinne digitale penger. Kryptomineringsskript tapper batteriet, gjør datamaskinen tregere og kan øke strømregningen. <a data-l10n-name="learn-more-link">Les mer</a>
 lockwise-title = Glem aldri et passord igjen
