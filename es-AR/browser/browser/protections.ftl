@@ -119,3 +119,38 @@ go-to-saved-logins = Ir a inicios de sesión guardados
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Rastreadores de redes sociales
+    .aria-label =
+        { $count ->
+            [one] { $count } rastreador de redes sociales  ({ $percentage }%)
+           *[other] { $count } rastreador de redes sociales ({ $percentage }%)
+        }
+bar-tooltip-cookie =
+    .title = Cookies de rastreo de sitios cruzados
+    .aria-label =
+        { $count ->
+            [one] { $count } cookie de rastreo de sitios cruzados ({ $percentage }%)
+           *[other] { $count } cookies de rastreo de sitios cruzados ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = Contenido de rastreo
+    .aria-label =
+        { $count ->
+            [one] { $count } contenido de rastreo ({ $percentage }%)
+           *[other] { $count } contenido de rastreo ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Identificadores de huellas digitales
+    .aria-label =
+        { $count ->
+            [one] { $count } identificador de huellas digitales ({ $percentage }%)
+           *[other] { $count } identificadores de huellas digitales ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Criptomineros
+    .aria-label =
+        { $count ->
+            [one] { $count } criptominero ({ $percentage }%)
+           *[other] { $count } criptomineros ({ $percentage }%)
+        }
